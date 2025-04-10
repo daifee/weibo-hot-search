@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1744256970412,
+  "endTime": 1744259342083,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -1483,6 +1483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3566178,
+      "num": 3566178,
+      "word": "苹果紧急往美国运iPhone",
+      "onboard_time": 1744252162,
+      "rank": 7,
+      "category": "数码"
+    },
+    {
       "raw_hot": 3560113,
       "num": 3560113,
       "word": "刘泳希李嘉铭官宣离婚",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1740361460,
       "rank": 43,
       "category": "教育"
-    },
-    {
-      "raw_hot": 2874896,
-      "num": 342684,
-      "word": "鹿晗和关晓彤都去了寺庙",
-      "onboard_time": 1742869700,
-      "rank": 10,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1744216297899,
-  "endTime": 1744256970412,
+  "endTime": 1744259342083,
   "band_list": [
     {
       "raw_hot": 8884094,
@@ -19,6 +19,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 3566178,
+      "num": 3566178,
+      "word": "苹果紧急往美国运iPhone",
+      "onboard_time": 1744252162,
+      "rank": 7,
+      "category": "数码"
+    },
+    {
       "raw_hot": 2233840,
       "num": 954841,
       "word": "特朗普暂停征收关税90天",
@@ -35,12 +43,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1665201,
-      "num": 1665201,
-      "word": "苹果紧急往美国运iPhone",
-      "onboard_time": 1744252162,
-      "rank": 7,
-      "category": "数码"
+      "raw_hot": 1432708,
+      "num": 1250638,
+      "word": "被砸伤头骨的9岁女孩脑组织已坏死",
+      "onboard_time": 1744255584,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1418604,
+      "num": 1418604,
+      "word": "对美加征84%关税开始执行",
+      "onboard_time": 1744258463,
+      "rank": 3,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1347400,
@@ -49,6 +65,14 @@
       "onboard_time": 1744253362,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1295363,
+      "num": 767123,
+      "word": "做食堂阿姨的北大研究生已离职",
+      "onboard_time": 1744257264,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1224993,
@@ -115,14 +139,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 822143,
-      "num": 822143,
-      "word": "被砸伤头骨的9岁女孩脑组织已坏死",
-      "onboard_time": 1744255584,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 758820,
       "num": 758820,
       "word": "洛杉矶奥运会乒乓球金牌增至6块",
@@ -144,6 +160,14 @@
       "word": "严浩翔说有diss是很正常的事",
       "onboard_time": 1744253482,
       "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 718967,
+      "num": 565909,
+      "word": "梁田回应35岁不结婚",
+      "onboard_time": 1744255403,
+      "rank": 11,
       "category": "综艺"
     },
     {
@@ -179,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 574976,
+      "num": 574976,
+      "word": "孟子义又语出惊人了",
+      "onboard_time": 1744255102,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 546258,
       "num": 317084,
       "word": "26岁女孩不吃早饭胆囊长满碎石",
@@ -187,12 +219,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 535492,
-      "num": 535492,
-      "word": "梁田回应35岁不结婚",
-      "onboard_time": 1744255403,
-      "rank": 11,
-      "category": "综艺"
+      "raw_hot": 539838,
+      "num": 333338,
+      "word": "第一批疯狂防晒的人现在都怎样了",
+      "onboard_time": 1744258164,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 534375,
@@ -371,14 +403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 361348,
-      "num": 419845,
-      "word": "孟子义又语出惊人了",
-      "onboard_time": 1744255102,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 345943,
       "num": 345943,
       "word": "美国人抢鸡蛋盛况",
@@ -449,6 +473,14 @@
       "onboard_time": 1744199485,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 293986,
+      "num": 293986,
+      "word": "叠纸胜诉",
+      "onboard_time": 1744258164,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 291485,
@@ -547,12 +579,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 243801,
+      "num": 552597,
+      "word": "老师砸伤女孩头骨案二审维持原判",
+      "onboard_time": 1744257923,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 242458,
       "num": 242458,
       "word": "秦彻至心栖之处",
       "onboard_time": 1744255102,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 241750,
+      "num": 401332,
+      "word": "减肥期的女孩需要一个张凌赫",
+      "onboard_time": 1744256183,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 240719,
@@ -619,12 +667,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 204198,
-      "num": 401332,
-      "word": "减肥期的女孩需要一个张凌赫",
-      "onboard_time": 1744256183,
-      "rank": 18,
-      "category": "艺人"
+      "raw_hot": 201887,
+      "num": 215754,
+      "word": "我叫电影今年130岁了",
+      "onboard_time": 1744259063,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 201069,
@@ -747,6 +795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 170784,
+      "num": 170784,
+      "word": "紫外线会惩罚每一个不涂防晒的人",
+      "onboard_time": 1744257923,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 157738,
       "num": 157738,
       "word": "吃饭跑步和恋爱 姐狗文学",
@@ -819,6 +875,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144245,
+      "num": 558264,
+      "word": "金饰价跌三次后迎三连涨",
+      "onboard_time": 1744258343,
+      "rank": 12,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 141766,
+      "num": 170841,
+      "word": "蒋敦豪 新蜂音乐节",
+      "onboard_time": 1744258943,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 141559,
       "num": 153679,
       "word": "再多喊一秒庄达菲就绷不住了",
@@ -833,6 +905,14 @@
       "onboard_time": 1744253242,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 136430,
+      "num": 547428,
+      "word": "4月10日12时01分",
+      "onboard_time": 1744258643,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135015,
@@ -905,6 +985,14 @@
       "onboard_time": 1744247125,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125109,
+      "num": 248831,
+      "word": "全国唯一并蒂牡丹现菏泽",
+      "onboard_time": 1744257864,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123946,
@@ -1051,6 +1139,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83772,
+      "num": 1593336,
+      "word": "中美经贸关系互利共赢的本质不容歪曲",
+      "onboard_time": 1744244187,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 82885,
+      "num": 210709,
+      "word": "美债抛售潮背后是美元信用危机",
+      "onboard_time": 1744257384,
+      "rank": 40,
+      "category": "国际时政,财经"
+    },
+    {
       "raw_hot": 79948,
       "num": 86195,
       "word": "要相信自己的节奏",
@@ -1081,6 +1185,14 @@
       "onboard_time": 1744250423,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 75696,
+      "num": 251825,
+      "word": "侯雯元以美之名男友感太权威了",
+      "onboard_time": 1744258102,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 75456,
@@ -1121,6 +1233,14 @@
       "onboard_time": 1744233016,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 58112,
+      "num": 578886,
+      "word": "专家称关税或使美元失去储备货币地位",
+      "onboard_time": 1744258223,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 42369,
@@ -1179,6 +1299,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 23729,
+      "num": 215735,
+      "word": "莱万梅开二度",
+      "onboard_time": 1744257983,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 23647,
       "num": 33952,
       "word": "中国一如既往扎根周边贡献周边",
@@ -1203,6 +1331,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 21837,
+      "num": 248506,
+      "word": "人民网三连评应对美关税冲击",
+      "onboard_time": 1744259245,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 21512,
       "num": 161155,
       "word": "小品不差钱之米国差蛋",
@@ -1225,6 +1361,14 @@
       "onboard_time": 1744224315,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 19363,
+      "num": 215733,
+      "word": "恋与深空壁咚咚咚插画",
+      "onboard_time": 1744257143,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 17172,
