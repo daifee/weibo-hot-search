@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1744295054206,
+  "endTime": 1744296155241,
   "band_list": [
     {
       "raw_hot": 18779562,
@@ -297,6 +297,14 @@
       "onboard_time": 1744012164,
       "rank": 10,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1974724,
+      "num": 513043,
+      "word": "短剧疑似AI换脸热巴",
+      "onboard_time": 1744294463,
+      "rank": 11,
+      "category": "互联网,艺人"
     },
     {
       "raw_hot": 1963982,
@@ -1139,6 +1147,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1013486,
+      "num": 1013486,
+      "word": "国家电影局发声",
+      "onboard_time": 1744292963,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1003324,
       "num": 787999,
       "word": "美股",
@@ -1233,14 +1249,6 @@
       "onboard_time": 1743901400,
       "rank": 4,
       "category": "财经"
-    },
-    {
-      "raw_hot": 976978,
-      "num": 488673,
-      "word": "短剧疑似AI换脸热巴",
-      "onboard_time": 1744294463,
-      "rank": 11,
-      "category": "互联网,艺人"
     },
     {
       "raw_hot": 976586,
@@ -1987,6 +1995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 692970,
+      "num": 692970,
+      "word": "10级狂风堪比台风过境",
+      "onboard_time": 1744285102,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 689292,
       "num": 751418,
       "word": "巴西总统批特朗普以为能给世界立规矩",
@@ -2145,14 +2161,6 @@
       "onboard_time": 1744101442,
       "rank": 34,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 641264,
-      "num": 641264,
-      "word": "国家电影局发声",
-      "onboard_time": 1744292963,
-      "rank": 6,
-      "category": "国内时政"
     },
     {
       "raw_hot": 640210,
@@ -2889,6 +2897,14 @@
       "onboard_time": 1743994403,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 490256,
+      "num": 490256,
+      "word": "文明办回应上海地铁男子猥亵女性",
+      "onboard_time": 1744294524,
+      "rank": 33,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 485488,
@@ -4211,14 +4227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 342959,
-      "num": 507315,
-      "word": "10级狂风堪比台风过境",
-      "onboard_time": 1744285102,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 342551,
       "num": 342551,
       "word": "每天吃2个鸡蛋身体有什么好处",
@@ -4649,6 +4657,14 @@
       "onboard_time": 1744113982,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 310174,
+      "num": 1487125,
+      "word": "中国不接受施压威胁讹诈",
+      "onboard_time": 1744292484,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 309962,
@@ -5739,14 +5755,6 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 256748,
-      "num": 1487125,
-      "word": "中国不接受施压威胁讹诈",
-      "onboard_time": 1744292484,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 256329,
       "num": 256329,
       "word": "假期最后1天",
@@ -6547,14 +6555,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 225623,
-      "num": 225623,
-      "word": "文明办回应上海地铁男子猥亵女性",
-      "onboard_time": 1744294524,
-      "rank": 33,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 225458,
       "num": 225458,
       "word": "吴宣仪的作息时间表",
@@ -6769,6 +6769,14 @@
       "onboard_time": 1744106481,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 218445,
+      "num": 218445,
+      "word": "AL战胜BLG",
+      "onboard_time": 1744295303,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 218369,
@@ -7411,6 +7419,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 204355,
+      "num": 353829,
+      "word": "新说唱选手还原严浩翔淘汰阿尔曼",
+      "onboard_time": 1744292363,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204328,
       "num": 204328,
       "word": "蒋一侨四公寸头飒姐爆改长发甜妹",
@@ -7883,6 +7899,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 195876,
+      "num": 195876,
+      "word": "李惠利活动生图",
+      "onboard_time": 1744293143,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195749,
       "num": 195749,
       "word": "美国国债抛售再次恢复",
@@ -8161,14 +8185,6 @@
       "onboard_time": 1744064416,
       "rank": 34,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 191493,
-      "num": 283480,
-      "word": "新说唱选手还原严浩翔淘汰阿尔曼",
-      "onboard_time": 1744292363,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 191401,
@@ -8643,6 +8659,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 184288,
+      "num": 184288,
+      "word": "张杰今天一直在彩排",
+      "onboard_time": 1744294884,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183950,
       "num": 280598,
       "word": "赴山海成毅领衔主演",
@@ -8961,14 +8985,6 @@
       "onboard_time": 1743932602,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 178800,
-      "num": 178800,
-      "word": "李惠利活动生图",
-      "onboard_time": 1744293143,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 178712,
@@ -11315,12 +11331,12 @@
       "category": "民生新闻,网红"
     },
     {
-      "raw_hot": 140588,
-      "num": 140588,
-      "word": "张杰今天一直在彩排",
-      "onboard_time": 1744294884,
-      "rank": 48,
-      "category": "艺人"
+      "raw_hot": 140753,
+      "num": 140753,
+      "word": "时代少年团演唱会",
+      "onboard_time": 1744293624,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 140333,
@@ -11563,6 +11579,14 @@
       "category": "网红,民生新闻"
     },
     {
+      "raw_hot": 138247,
+      "num": 138247,
+      "word": "苹果英伟达特斯拉跌超4%",
+      "onboard_time": 1744294944,
+      "rank": 49,
+      "category": "数码,互联网"
+    },
+    {
       "raw_hot": 137666,
       "num": 656039,
       "word": "权志龙将发表演讲",
@@ -11625,6 +11649,14 @@
       "onboard_time": 1744088783,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 136892,
+      "num": 136892,
+      "word": "庄达菲朋友也馋她的女团妆",
+      "onboard_time": 1744295784,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 136392,
@@ -12073,14 +12105,6 @@
       "onboard_time": 1744262183,
       "rank": 24,
       "category": "互联网,教育"
-    },
-    {
-      "raw_hot": 129822,
-      "num": 129822,
-      "word": "苹果英伟达特斯拉跌超4%",
-      "onboard_time": 1744294944,
-      "rank": 49,
-      "category": "数码,互联网"
     },
     {
       "raw_hot": 129761,
@@ -14083,6 +14107,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 84862,
+      "num": 219399,
+      "word": "奥运冠军和大学生打乒乓1分险胜",
+      "onboard_time": 1744295364,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 84735,
       "num": 276548,
       "word": "父亲自从迷上网购像变了个人",
@@ -14697,6 +14729,14 @@
       "onboard_time": 1744035865,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 65845,
+      "num": 517202,
+      "word": "上合组织成员国坚定维护多边贸易体制",
+      "onboard_time": 1744292721,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 65734,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/10 22:24:14
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/10 22:42:35
 </p>
 </blockquote>
 <p>
@@ -389,6 +389,12 @@ C罗点评甲亢哥中国行（热度：2472029）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E5%A1%8C%E4%B8%8D%E4%B8%8B%E6%9D%A5%23" target="weibo">
 天塌不下来（热度：1984619）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9F%AD%E5%89%A7%E7%96%91%E4%BC%BCAI%E6%8D%A2%E8%84%B8%E7%83%AD%E5%B7%B4%23" target="weibo">
+短剧疑似AI换脸热巴（热度：1974724）
 </a>
 </li>
 
@@ -1575,6 +1581,12 @@ IU向雪莉金赛纶推荐同一心理医生（热度：1041446）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E7%94%B5%E5%BD%B1%E5%B1%80%E5%8F%91%E5%A3%B0%23" target="weibo">
+国家电影局发声（热度：1013486）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E8%96%AA4%E5%8D%83%E6%90%AC%E8%BF%90%E5%B7%A5%E7%9E%92%E5%AE%B6%E4%BA%BA%E4%B9%B0454%E4%B8%87%E4%BF%9D%E9%99%A9%23" target="weibo">
 月薪4千搬运工瞒家人买454万保险（热度：1013459）
 </a>
@@ -1691,12 +1703,6 @@ IU向雪莉金赛纶推荐同一心理医生（热度：1041446）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%23" target="weibo">
 金价（热度：979639）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9F%AD%E5%89%A7%E7%96%91%E4%BC%BCAI%E6%8D%A2%E8%84%B8%E7%83%AD%E5%B7%B4%23" target="weibo">
-短剧疑似AI换脸热巴（热度：976978）
 </a>
 </li>
 
@@ -2745,6 +2751,12 @@ TVB男演员陈键锋学厨以第一名毕业（热度：726197）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2310%E7%BA%A7%E7%8B%82%E9%A3%8E%E5%A0%AA%E6%AF%94%E5%8F%B0%E9%A3%8E%E8%BF%87%E5%A2%83%23" target="weibo">
+10级狂风堪比台风过境（热度：692970）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF%E6%80%BB%E7%BB%9F%E6%89%B9%E7%89%B9%E6%9C%97%E6%99%AE%E4%BB%A5%E4%B8%BA%E8%83%BD%E7%BB%99%E4%B8%96%E7%95%8C%E7%AB%8B%E8%A7%84%E7%9F%A9%23" target="weibo">
 巴西总统批特朗普以为能给世界立规矩（热度：689292）
 </a>
@@ -2945,12 +2957,6 @@ kissoflife一夜掉粉20万（热度：668428）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E5%9B%9E%E5%BA%94%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%8B%9F%E5%BD%95%E5%8F%96%23" target="weibo">
 北大回应王楚钦拟录取（热度：643831）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E7%94%B5%E5%BD%B1%E5%B1%80%E5%8F%91%E5%A3%B0%23" target="weibo">
-国家电影局发声（热度：641264）
 </a>
 </li>
 
@@ -4097,6 +4103,12 @@ SM新男团（热度：491910）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B2%E4%BA%A2%E5%93%A5%E4%B8%AD%E5%9B%BD%E8%A1%8C%E8%AE%A9%E8%B0%81%E7%A0%B4%E9%98%B2%E4%BA%86%23" target="weibo">
 甲亢哥中国行让谁破防了（热度：490275）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E6%98%8E%E5%8A%9E%E5%9B%9E%E5%BA%94%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E7%94%B7%E5%AD%90%E7%8C%A5%E4%BA%B5%E5%A5%B3%E6%80%A7%23" target="weibo">
+文明办回应上海地铁男子猥亵女性（热度：490256）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ Jennie封面照（热度：345824）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%84%96%E5%AD%90%E6%B4%97%E4%B8%8D%E5%B9%B2%E5%87%80%E6%88%96%E6%98%AF%E8%BA%AB%E4%BD%93%E5%8F%91%E5%87%BA%E5%8D%B1%E9%99%A9%E4%BF%A1%E5%8F%B7%23" target="weibo">
 脖子洗不干净或是身体发出危险信号（热度：344162）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A5%9D%E7%BB%AA%E4%B8%B9%E4%B8%80%E5%85%AC%E7%AC%AC%E4%BA%8C%23" target="weibo">
-祝绪丹一公第二（热度：343429）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B7%9D%E9%99%AA%E9%94%A4%E5%A8%9C%E4%B8%BD%E8%8E%8E%E4%B8%80%E8%B5%B7%E8%BF%90%E5%8A%A8%23" target="weibo">
-李川陪锤娜丽莎一起运动（热度：343142）
 </a>
 </li>
 
