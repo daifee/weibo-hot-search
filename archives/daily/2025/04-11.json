@@ -1,6 +1,6 @@
 {
   "startTime": 1744302697177,
-  "endTime": 1744316808271,
+  "endTime": 1744317626417,
   "band_list": [
     {
       "raw_hot": 1275101,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 260863,
-      "num": 61804,
+      "num": 73044,
       "word": "父亲离世前对AI说我要去世了豆包",
       "onboard_time": 1744307116,
       "rank": 10,
@@ -428,7 +428,7 @@
     },
     {
       "raw_hot": 60350,
-      "num": 39893,
+      "num": 41386,
       "word": "古天乐右眼视网膜穿了两个洞",
       "onboard_time": 1744314074,
       "rank": 11,
@@ -451,15 +451,15 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 46143,
-      "num": 46143,
+      "raw_hot": 46865,
+      "num": 46865,
       "word": "多米尼加俱乐部坍塌已致218死",
       "onboard_time": 1744305976,
       "rank": 40,
       "category": "海外新闻"
     },
     {
-      "raw_hot": 43615,
+      "raw_hot": 45647,
       "num": 21335,
       "word": "特斯拉市值一夜蒸发超6000亿",
       "onboard_time": 1744314074,
@@ -529,6 +529,14 @@
       "onboard_time": 1744310955,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 12910,
+      "num": 16069,
+      "word": "重大气象灾害三级应急响应",
+      "onboard_time": 1744316594,
+      "rank": 46,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
