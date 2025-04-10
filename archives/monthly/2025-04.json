@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744241821707,
+  "endTime": 1744249871383,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -1619,6 +1619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1127194,
+      "num": 1127194,
+      "word": "特斯拉市值一夜大增1.2万亿",
+      "onboard_time": 1744245086,
+      "rank": 3,
+      "category": "汽车,财经"
+    },
+    {
       "raw_hot": 1125116,
       "num": 861448,
       "word": "女子突发不适驾车失控致1死3伤",
@@ -2193,6 +2201,14 @@
       "onboard_time": 1743816800,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 940194,
+      "num": 940194,
+      "word": "JYP写了中国台湾省",
+      "onboard_time": 1744243466,
+      "rank": 4,
+      "category": "演出"
     },
     {
       "raw_hot": 936931,
@@ -4147,6 +4163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 581231,
+      "num": 581231,
+      "word": "全国唯一的古旱莲开花",
+      "onboard_time": 1744244246,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 580088,
       "num": 580088,
       "word": "扶弟魔背后有个吸姐鬼",
@@ -4467,6 +4491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 537029,
+      "num": 252733,
+      "word": "26岁女孩不吃早饭胆囊长满碎石",
+      "onboard_time": 1744246646,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 535692,
       "num": 888228,
       "word": "美国亿万富翁提醒民众囤货",
@@ -4489,6 +4521,14 @@
       "onboard_time": 1744186401,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 534375,
+      "num": 534375,
+      "word": "特朗普要再犯一次百年前的错误吗",
+      "onboard_time": 1744240581,
+      "rank": 20,
+      "category": "国际时政"
     },
     {
       "raw_hot": 531715,
@@ -4929,6 +4969,14 @@
       "onboard_time": 1743468504,
       "rank": 12,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 495395,
+      "num": 495395,
+      "word": "孙颖莎王楚钦洛杉矶奥运会或身兼四项",
+      "onboard_time": 1744246105,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 495153,
@@ -5795,6 +5843,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 421857,
+      "num": 421857,
+      "word": "赵露思 永远没有告别就好了",
+      "onboard_time": 1744244305,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 421855,
       "num": 398221,
       "word": "虞书欣练习室跳likejennie",
@@ -5937,6 +5993,14 @@
       "onboard_time": 1743896657,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 415524,
+      "num": 507865,
+      "word": "阿尔曼疑似被严浩翔淘汰",
+      "onboard_time": 1744247186,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 415019,
@@ -6145,6 +6209,14 @@
       "onboard_time": 1743925461,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 400881,
+      "num": 400881,
+      "word": "iPhone17Pro手机壳再曝光",
+      "onboard_time": 1744242504,
+      "rank": 13,
+      "category": "数码"
     },
     {
       "raw_hot": 400052,
@@ -7723,6 +7795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 325673,
+      "num": 325673,
+      "word": "赵勇担任中国女排主帅",
+      "onboard_time": 1744248204,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 325456,
       "num": 326603,
       "word": "东部战区军事行动主题海报毁瘫",
@@ -8267,6 +8347,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 303464,
+      "num": 1255132,
+      "word": "中方绝对不接受美方极限施压霸道霸凌",
+      "onboard_time": 1744205427,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 303177,
       "num": 303177,
       "word": "中国台湾证交所触发熔断",
@@ -8747,6 +8835,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 287406,
+      "num": 498997,
+      "word": "10句话解析什么叫中方奉陪到底",
+      "onboard_time": 1744248502,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 287392,
       "num": 335867,
       "word": "特朗普称韩方高层正前往美国",
@@ -8993,6 +9089,14 @@
       "onboard_time": 1743476062,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 278474,
+      "num": 278474,
+      "word": "当地回应撤下致谢甲亢哥大屏",
+      "onboard_time": 1744246467,
+      "rank": 17,
+      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 277892,
@@ -9491,6 +9595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 263460,
+      "num": 263460,
+      "word": "杨紫又跳舞了",
+      "onboard_time": 1744248444,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 263108,
       "num": 364260,
       "word": "小鹏X9看似小改款实则大焕新",
@@ -9512,14 +9624,6 @@
       "word": "台湾女教师因批评台独遭台当局约谈",
       "onboard_time": 1743477203,
       "rank": 36,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 262369,
-      "num": 1074886,
-      "word": "中方绝对不接受美方极限施压霸道霸凌",
-      "onboard_time": 1744205427,
-      "rank": 9,
       "category": "国内时政"
     },
     {
@@ -9865,6 +9969,14 @@
       "onboard_time": 1744093703,
       "rank": 43,
       "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 252898,
+      "num": 252898,
+      "word": "李在明宣布参选韩国总统",
+      "onboard_time": 1744249043,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 252729,
@@ -10659,6 +10771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 229490,
+      "num": 229490,
+      "word": "爱撒谎的人不用第一人称叙事",
+      "onboard_time": 1744245207,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 229420,
       "num": 335537,
       "word": "崩铁开门",
@@ -11449,14 +11569,6 @@
       "onboard_time": 1743678981,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 215712,
-      "num": 199319,
-      "word": "特朗普要再犯一次百年前的错误吗",
-      "onboard_time": 1744240581,
-      "rank": 20,
-      "category": "国际时政"
     },
     {
       "raw_hot": 215385,
@@ -12307,6 +12419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205044,
+      "num": 205044,
+      "word": "金铲铲",
+      "onboard_time": 1744245326,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 204813,
       "num": 247512,
       "word": "孙俪新剧全是品质二搭",
@@ -12899,6 +13019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197987,
+      "num": 197987,
+      "word": "多方批评美国扰乱国际贸易秩序",
+      "onboard_time": 1744244606,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 197737,
       "num": 197737,
       "word": "原来洛阳真有比脸还大的牡丹",
@@ -13049,6 +13177,14 @@
       "onboard_time": 1743597624,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196119,
+      "num": 196119,
+      "word": "韦雪男友叫韦雪前夫叔",
+      "onboard_time": 1744242864,
+      "rank": 27,
+      "category": "网红"
     },
     {
       "raw_hot": 196053,
@@ -13217,6 +13353,14 @@
       "onboard_time": 1743518666,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194941,
+      "num": 194941,
+      "word": "中国对美反制今日生效",
+      "onboard_time": 1744240702,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 194932,
@@ -14947,6 +15091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179393,
+      "num": 179393,
+      "word": "上海弄堂里的小黄花引市民排队打卡",
+      "onboard_time": 1744248204,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179385,
       "num": 297630,
       "word": "赵丽颖四月行程有电影配音",
@@ -15539,6 +15691,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 173651,
+      "num": 173651,
+      "word": "微软市值登顶全球第一",
+      "onboard_time": 1744246404,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 173619,
       "num": 173619,
       "word": "张本智和vs林昀儒",
@@ -15705,6 +15865,14 @@
       "onboard_time": 1743496703,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171721,
+      "num": 171721,
+      "word": "湖人vs独行侠",
+      "onboard_time": 1744248862,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 171697,
@@ -17203,6 +17371,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 156857,
+      "num": 198449,
+      "word": "吴宣仪本草纲目练习室版",
+      "onboard_time": 1744249402,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156840,
       "num": 156840,
       "word": "甲亢哥保镖 嚼嚼嚼",
@@ -17513,6 +17689,14 @@
       "onboard_time": 1744120883,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 154826,
+      "num": 198207,
+      "word": "辛云来紧张得像在和陈都灵求婚",
+      "onboard_time": 1744244666,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 154783,
@@ -18577,6 +18761,14 @@
       "onboard_time": 1744162884,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146191,
+      "num": 146191,
+      "word": "粉丝回应收到张柏芝送的项链",
+      "onboard_time": 1744249580,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 146187,
@@ -20163,6 +20355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 133851,
+      "num": 133851,
+      "word": "人民日报钟声五问美方",
+      "onboard_time": 1744243167,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 133800,
       "num": 133800,
       "word": "Bin放话TheShy",
@@ -20665,6 +20865,14 @@
       "onboard_time": 1743822740,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129576,
+      "num": 129576,
+      "word": "迈阿密国际vs洛杉矶FC",
+      "onboard_time": 1744249523,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 129575,
@@ -21337,6 +21545,14 @@
       "onboard_time": 1743849141,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123946,
+      "num": 123946,
+      "word": "金价涨超3%",
+      "onboard_time": 1744245927,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 123852,
@@ -25523,14 +25739,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 72072,
-      "num": 132462,
-      "word": "中国对美反制今日生效",
-      "onboard_time": 1744240702,
-      "rank": 30,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 71998,
       "num": 194771,
       "word": "权志龙是KAIST机械工程系客座教授",
@@ -28625,6 +28833,14 @@
       "onboard_time": 1744118063,
       "rank": 39,
       "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 26921,
+      "num": 190447,
+      "word": "我国制造业销售收入持续增长",
+      "onboard_time": 1744249580,
+      "rank": 30,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 26912,
