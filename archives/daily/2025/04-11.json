@@ -1,6 +1,6 @@
 {
   "startTime": 1744302697177,
-  "endTime": 1744310695021,
+  "endTime": 1744312773756,
   "band_list": [
     {
       "raw_hot": 1275101,
@@ -497,6 +497,22 @@
       "onboard_time": 1744304837,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14716,
+      "num": 19335,
+      "word": "姚晨哭戏",
+      "onboard_time": 1744312695,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 13255,
+      "num": 19335,
+      "word": "乌云之上是晴天",
+      "onboard_time": 1744310955,
+      "rank": 49,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [
