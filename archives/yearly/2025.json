@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1744281871545,
+  "endTime": 1744284068501,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -1947,6 +1947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3141677,
+      "num": 3141677,
+      "word": "结婚离婚登记不再需要户口簿了",
+      "onboard_time": 1744280122,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 3128307,
       "num": 3128307,
       "word": "敖瑞鹏发了三个红包",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1739890224,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2875244,
-      "num": 2875244,
-      "word": "国家线",
-      "onboard_time": 1740361460,
-      "rank": 43,
-      "category": "教育"
     }
   ],
   "hotgov_list": [

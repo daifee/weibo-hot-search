@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1744281871545,
+  "endTime": 1744284068501,
   "band_list": [
     {
       "raw_hot": 18779562,
@@ -75,6 +75,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 3141677,
+      "num": 3141677,
+      "word": "结婚离婚登记不再需要户口簿了",
+      "onboard_time": 1744280122,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 3127009,
       "num": 3127009,
       "word": "新修订婚姻登记条例自5月10日起施行",
@@ -97,14 +105,6 @@
       "onboard_time": 1744275443,
       "rank": 10,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 2841905,
-      "num": 2841905,
-      "word": "结婚离婚登记不再需要户口簿了",
-      "onboard_time": 1744280122,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 2811443,
@@ -1635,6 +1635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 788309,
+      "num": 788309,
+      "word": "适度减少美国影片进口数",
+      "onboard_time": 1744281083,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 781977,
       "num": 781977,
       "word": "美第一批制裁的行业七年后怎么样了",
@@ -2412,7 +2420,7 @@
     },
     {
       "raw_hot": 548847,
-      "num": 451289,
+      "num": 457713,
       "word": "王楚然妖后",
       "onboard_time": 1744279221,
       "rank": 16,
@@ -2539,6 +2547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 523724,
+      "num": 459959,
+      "word": "iPhone16回收价已涨300元",
+      "onboard_time": 1744282702,
+      "rank": 13,
+      "category": "数码"
+    },
+    {
       "raw_hot": 521478,
       "num": 521478,
       "word": "Bin",
@@ -2633,6 +2649,14 @@
       "onboard_time": 1744154300,
       "rank": 5,
       "category": "国际时政,财经"
+    },
+    {
+      "raw_hot": 507208,
+      "num": 507208,
+      "word": "TOP登陆少年官宣晋江演唱会",
+      "onboard_time": 1744282642,
+      "rank": 6,
+      "category": "演出"
     },
     {
       "raw_hot": 507008,
@@ -2915,12 +2939,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 468473,
+      "num": 468473,
+      "word": "中方有坚定意志和丰富手段",
+      "onboard_time": 1744280122,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 468349,
       "num": 468349,
       "word": "特朗普称美国伊朗高层将直接会谈",
       "onboard_time": 1744152798,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 468040,
+      "num": 468040,
+      "word": "女推团综",
+      "onboard_time": 1744281502,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 466953,
@@ -4539,14 +4579,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 304178,
-      "num": 304178,
-      "word": "适度减少美国影片进口数",
-      "onboard_time": 1744281083,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 304109,
       "num": 304109,
       "word": "胡静怡中传艺考第二名",
@@ -4604,7 +4636,7 @@
     },
     {
       "raw_hot": 301139,
-      "num": 301139,
+      "num": 464938,
       "word": "一朵牡丹带火一座城",
       "onboard_time": 1744280241,
       "rank": 22,
@@ -5051,6 +5083,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 278837,
+      "num": 278837,
+      "word": "杭州苹果手机回收价格暴涨",
+      "onboard_time": 1744282882,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
       "raw_hot": 277892,
       "num": 365495,
       "word": "金饰价格4天狂跌46元",
@@ -5355,6 +5395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 264298,
+      "num": 322362,
+      "word": "终于有电视剧拍出了女性师徒情",
+      "onboard_time": 1744281502,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 263985,
       "num": 263985,
       "word": "古茗星穹铁道联名",
@@ -5489,6 +5537,14 @@
       "onboard_time": 1744089144,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 257447,
+      "num": 350600,
+      "word": "孙心娅问为什么孟子义演陈情令会被骂",
+      "onboard_time": 1744277901,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 257289,
@@ -5729,14 +5785,6 @@
       "onboard_time": 1744001184,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 245509,
-      "num": 350600,
-      "word": "孙心娅问为什么孟子义演陈情令会被骂",
-      "onboard_time": 1744277901,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 245204,
@@ -6987,6 +7035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206624,
+      "num": 206624,
+      "word": "乘风2025",
+      "onboard_time": 1744283064,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206542,
       "num": 244745,
       "word": "沈月古风簪花写真",
@@ -7619,6 +7675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195138,
+      "num": 195138,
+      "word": "卫健委回应医院红十字变绿十字",
+      "onboard_time": 1744280241,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 194998,
       "num": 194998,
       "word": "向阳花总票房破8000万",
@@ -7681,14 +7745,6 @@
       "onboard_time": 1744194862,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 193741,
-      "num": 193741,
-      "word": "中方有坚定意志和丰富手段",
-      "onboard_time": 1744280122,
-      "rank": 35,
-      "category": "国内时政"
     },
     {
       "raw_hot": 193714,
@@ -8003,14 +8059,6 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 188435,
-      "num": 196131,
-      "word": "女推团综",
-      "onboard_time": 1744281502,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 188112,
       "num": 188112,
       "word": "终于又吃上了青春剧细糠",
@@ -8065,6 +8113,14 @@
       "onboard_time": 1743921021,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 187640,
+      "num": 187640,
+      "word": "榴莲季",
+      "onboard_time": 1744282942,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 187428,
@@ -8169,6 +8225,14 @@
       "onboard_time": 1743941422,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185921,
+      "num": 185921,
+      "word": "第一代女考古人发现第一女将军",
+      "onboard_time": 1744283183,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 185909,
@@ -8515,14 +8579,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 180512,
-      "num": 195684,
-      "word": "终于有电视剧拍出了女性师徒情",
-      "onboard_time": 1744281502,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 179883,
       "num": 179883,
       "word": "侯佩岑自曝老花眼严重",
@@ -8649,6 +8705,14 @@
       "onboard_time": 1743937402,
       "rank": 31,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 178005,
+      "num": 178005,
+      "word": "蜜雪冰城已改回红色附近商户发声",
+      "onboard_time": 1744283362,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 177803,
@@ -8915,14 +8979,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 174284,
-      "num": 174284,
-      "word": "卫健委回应医院红十字变绿十字",
-      "onboard_time": 1744280241,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 174182,
       "num": 429690,
       "word": "当中方说要奉陪到底时是认真的",
@@ -9011,6 +9067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172498,
+      "num": 203397,
+      "word": "成何体统",
+      "onboard_time": 1744283542,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172423,
       "num": 200561,
       "word": "陶喆长沙抢票",
@@ -9035,12 +9099,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 172161,
+      "num": 172161,
+      "word": "知情人谈华人钢铁大王在菲被绑撕票",
+      "onboard_time": 1744283602,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171887,
       "num": 171887,
       "word": "紫外线会惩罚每一个不涂防晒的人",
       "onboard_time": 1744257923,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 171852,
+      "num": 171852,
+      "word": "浙江慈溪一车辆从高架上掉落",
+      "onboard_time": 1744282583,
+      "rank": 38,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 171592,
@@ -10795,6 +10875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142342,
+      "num": 142342,
+      "word": "做无痛胃镜差点把医生投诉了",
+      "onboard_time": 1744280964,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 142184,
       "num": 141969,
       "word": "李美越60秒视频报价45万",
@@ -10841,6 +10929,14 @@
       "onboard_time": 1744254863,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 141545,
+      "num": 141545,
+      "word": "小心点 你老公对你有意思",
+      "onboard_time": 1744283064,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 141501,
@@ -11691,6 +11787,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 128529,
+      "num": 197934,
+      "word": "男生因室友电瓶燃爆烧伤已花200万",
+      "onboard_time": 1744282341,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128505,
       "num": 128505,
       "word": "买黄金一定不能图便宜",
@@ -12011,6 +12115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121954,
+      "num": 121954,
+      "word": "网易第五人格",
+      "onboard_time": 1744283362,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 121890,
       "num": 121890,
       "word": "F1",
@@ -12153,6 +12265,14 @@
       "onboard_time": 1744278262,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119004,
+      "num": 119004,
+      "word": "T1对战KT",
+      "onboard_time": 1744283301,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 118973,
@@ -14353,6 +14473,14 @@
       "onboard_time": 1743957738,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 60189,
+      "num": 213624,
+      "word": "Faker达成LCK1000场成就",
+      "onboard_time": 1744283242,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 60058,

@@ -1,6 +1,6 @@
 {
   "startTime": 1744216297899,
-  "endTime": 1744281871545,
+  "endTime": 1744284068501,
   "band_list": [
     {
       "raw_hot": 8884094,
@@ -27,20 +27,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 3141677,
+      "num": 3141677,
+      "word": "结婚离婚登记不再需要户口簿了",
+      "onboard_time": 1744280122,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2846796,
       "num": 477237,
       "word": "特朗普家族几天获利300亿美元",
       "onboard_time": 1744275443,
       "rank": 10,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 2841905,
-      "num": 2841905,
-      "word": "结婚离婚登记不再需要户口簿了",
-      "onboard_time": 1744280122,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 2544575,
@@ -259,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 788309,
+      "num": 788309,
+      "word": "适度减少美国影片进口数",
+      "onboard_time": 1744281083,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 781977,
       "num": 781977,
       "word": "美第一批制裁的行业七年后怎么样了",
@@ -364,7 +372,7 @@
     },
     {
       "raw_hot": 548847,
-      "num": 451289,
+      "num": 457713,
       "word": "王楚然妖后",
       "onboard_time": 1744279221,
       "rank": 16,
@@ -395,12 +403,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 523724,
+      "num": 459959,
+      "word": "iPhone16回收价已涨300元",
+      "onboard_time": 1744282702,
+      "rank": 13,
+      "category": "数码"
+    },
+    {
       "raw_hot": 513184,
       "num": 513184,
       "word": "13级大风是什么概念",
       "onboard_time": 1744264823,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 507208,
+      "num": 507208,
+      "word": "TOP登陆少年官宣晋江演唱会",
+      "onboard_time": 1744282642,
+      "rank": 6,
+      "category": "演出"
     },
     {
       "raw_hot": 506489,
@@ -505,6 +529,22 @@
       "onboard_time": 1744281562,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 468473,
+      "num": 468473,
+      "word": "中方有坚定意志和丰富手段",
+      "onboard_time": 1744280122,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 468040,
+      "num": 468040,
+      "word": "女推团综",
+      "onboard_time": 1744281502,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 465953,
@@ -739,14 +779,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 304178,
-      "num": 304178,
-      "word": "适度减少美国影片进口数",
-      "onboard_time": 1744281083,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 304109,
       "num": 304109,
       "word": "胡静怡中传艺考第二名",
@@ -764,7 +796,7 @@
     },
     {
       "raw_hot": 301139,
-      "num": 301139,
+      "num": 464938,
       "word": "一朵牡丹带火一座城",
       "onboard_time": 1744280241,
       "rank": 22,
@@ -851,6 +883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 278837,
+      "num": 278837,
+      "word": "杭州苹果手机回收价格暴涨",
+      "onboard_time": 1744282882,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
       "raw_hot": 274351,
       "num": 479040,
       "word": "戛纳",
@@ -891,6 +931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 264298,
+      "num": 322362,
+      "word": "终于有电视剧拍出了女性师徒情",
+      "onboard_time": 1744281502,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 263985,
       "num": 263985,
       "word": "古茗星穹铁道联名",
@@ -923,6 +971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 257447,
+      "num": 350600,
+      "word": "孙心娅问为什么孟子义演陈情令会被骂",
+      "onboard_time": 1744277901,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 252465,
       "num": 252465,
       "word": "股市",
@@ -944,14 +1000,6 @@
       "word": "柯淳你让段休冥从许肆身上下来",
       "onboard_time": 1744255642,
       "rank": 24,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 245509,
-      "num": 350600,
-      "word": "孙心娅问为什么孟子义演陈情令会被骂",
-      "onboard_time": 1744277901,
-      "rank": 47,
       "category": "剧集"
     },
     {
@@ -1131,6 +1179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 206624,
+      "num": 206624,
+      "word": "乘风2025",
+      "onboard_time": 1744283064,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205044,
       "num": 205044,
       "word": "金铲铲",
@@ -1291,19 +1347,19 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 195138,
+      "num": 195138,
+      "word": "卫健委回应医院红十字变绿十字",
+      "onboard_time": 1744280241,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 194941,
       "num": 194941,
       "word": "中国对美反制今日生效",
       "onboard_time": 1744240702,
       "rank": 30,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 193741,
-      "num": 193741,
-      "word": "中方有坚定意志和丰富手段",
-      "onboard_time": 1744280122,
-      "rank": 35,
       "category": "国内时政"
     },
     {
@@ -1363,12 +1419,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 188435,
-      "num": 196131,
-      "word": "女推团综",
-      "onboard_time": 1744281502,
-      "rank": 28,
-      "category": "综艺"
+      "raw_hot": 187640,
+      "num": 187640,
+      "word": "榴莲季",
+      "onboard_time": 1744282942,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 185921,
+      "num": 185921,
+      "word": "第一代女考古人发现第一女将军",
+      "onboard_time": 1744283183,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 185244,
@@ -1403,14 +1467,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 180512,
-      "num": 195684,
-      "word": "终于有电视剧拍出了女性师徒情",
-      "onboard_time": 1744281502,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 179633,
       "num": 179633,
       "word": "曝美暂停进一步限制英伟达H20出口",
@@ -1433,6 +1489,14 @@
       "onboard_time": 1744276463,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 178005,
+      "num": 178005,
+      "word": "蜜雪冰城已改回红色附近商户发声",
+      "onboard_time": 1744283362,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 177661,
@@ -1475,14 +1539,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 174284,
-      "num": 174284,
-      "word": "卫健委回应医院红十字变绿十字",
-      "onboard_time": 1744280241,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 174182,
       "num": 429690,
       "word": "当中方说要奉陪到底时是认真的",
@@ -1515,11 +1571,27 @@
       "category": "财经"
     },
     {
+      "raw_hot": 172498,
+      "num": 203397,
+      "word": "成何体统",
+      "onboard_time": 1744283542,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172310,
       "num": 172310,
       "word": "上海人均4千餐厅甜品是大象粪便",
       "onboard_time": 1744196243,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 172161,
+      "num": 172161,
+      "word": "知情人谈华人钢铁大王在菲被绑撕票",
+      "onboard_time": 1744283602,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -1529,6 +1601,14 @@
       "onboard_time": 1744257923,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 171852,
+      "num": 171852,
+      "word": "浙江慈溪一车辆从高架上掉落",
+      "onboard_time": 1744282583,
+      "rank": 38,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 170538,
@@ -1787,6 +1867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142342,
+      "num": 142342,
+      "word": "做无痛胃镜差点把医生投诉了",
+      "onboard_time": 1744280964,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 141766,
       "num": 170841,
       "word": "蒋敦豪 新蜂音乐节",
@@ -1801,6 +1889,14 @@
       "onboard_time": 1744254863,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 141545,
+      "num": 141545,
+      "word": "小心点 你老公对你有意思",
+      "onboard_time": 1744283064,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 141036,
@@ -1963,6 +2059,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 128529,
+      "num": 197934,
+      "word": "男生因室友电瓶燃爆烧伤已花200万",
+      "onboard_time": 1744282341,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126732,
       "num": 126732,
       "word": "RED女团李芊语中传校考第37名",
@@ -2035,6 +2139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121954,
+      "num": 121954,
+      "word": "网易第五人格",
+      "onboard_time": 1744283362,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 121303,
       "num": 121303,
       "word": "小鬼上音综是来翻旧账的",
@@ -2065,6 +2177,14 @@
       "onboard_time": 1744278262,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119004,
+      "num": 119004,
+      "word": "T1对战KT",
+      "onboard_time": 1744283301,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 115362,
@@ -2457,6 +2577,14 @@
       "onboard_time": 1744265602,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60189,
+      "num": 213624,
+      "word": "Faker达成LCK1000场成就",
+      "onboard_time": 1744283242,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 58502,
