@@ -1,0 +1,410 @@
+{
+  "runTime": 1744251210893,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1743099,
+        "num": 1743099,
+        "word": "对美所有进口商品关税再提高50%",
+        "onboard_time": 1744197084,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 847892,
+        "num": 847892,
+        "word": "JYP写了中国台湾省",
+        "onboard_time": 1744243466,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 258081,
+        "num": 612078,
+        "word": "中方绝对不接受美方极限施压霸道霸凌",
+        "onboard_time": 1744205427,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 567959,
+        "num": 567959,
+        "word": "李在明宣布参选韩国总统",
+        "onboard_time": 1744249043,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1224993,
+        "num": 546034,
+        "word": "特斯拉市值一夜大增1.2万亿",
+        "onboard_time": 1744245086,
+        "rank": 4,
+        "category": "汽车,财经"
+      },
+      {
+        "raw_hot": 457204,
+        "num": 531216,
+        "word": "孙颖莎王楚钦洛杉矶奥运会或身兼四项",
+        "onboard_time": 1744246105,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 518694,
+        "num": 518694,
+        "word": "欧盟对美加征25%关税",
+        "onboard_time": 1744204348,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 488388,
+        "num": 488388,
+        "word": "特朗普要再犯一次百年前的错误吗",
+        "onboard_time": 1744240581,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 456045,
+        "num": 456045,
+        "word": "全国唯一的古旱莲开花",
+        "onboard_time": 1744244246,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 448912,
+        "num": 448912,
+        "word": "阿尔曼疑似被严浩翔淘汰",
+        "onboard_time": 1744247186,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 6751423,
+        "num": 6751423,
+        "word": "美国被加关税后特朗普呼吁冷静",
+        "onboard_time": 1744214184,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 505151,
+        "num": 413934,
+        "word": "赵露思 永远没有告别就好了",
+        "onboard_time": 1744244305,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390995,
+        "num": 390995,
+        "word": "医托骗1.68米女子正常腿断骨成X腿",
+        "onboard_time": 1744249942,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 365519,
+        "num": 365519,
+        "word": "iPhone17Pro手机壳再曝光",
+        "onboard_time": 1744242504,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 76464,
+        "num": 360712,
+        "word": "中国台湾加权指数开盘大涨9%",
+        "onboard_time": 1744250423,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 304588,
+        "num": 360660,
+        "word": "杨紫又跳舞了",
+        "onboard_time": 1744248444,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 291485,
+        "num": 360657,
+        "word": "当地回应撤下致谢甲亢哥大屏",
+        "onboard_time": 1744246467,
+        "rank": 16,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 360657,
+        "num": 360656,
+        "word": "金价再大涨",
+        "onboard_time": 1744212865,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 174142,
+        "num": 316432,
+        "word": "林俊杰出道22周年",
+        "onboard_time": 1744250423,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296878,
+        "num": 296878,
+        "word": "A股",
+        "onboard_time": 1744243586,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 546258,
+        "num": 295668,
+        "word": "26岁女孩不吃早饭胆囊长满碎石",
+        "onboard_time": 1744246646,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 289198,
+        "num": 289198,
+        "word": "10句话解析什么叫中方奉陪到底",
+        "onboard_time": 1744248502,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 241532,
+        "num": 241532,
+        "word": "家长建议小学延时至6点半放学",
+        "onboard_time": 1744200986,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240719,
+        "num": 240719,
+        "word": "爱撒谎的人不用第一人称叙事",
+        "onboard_time": 1744245207,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 240158,
+        "num": 240158,
+        "word": "粉丝回应收到张柏芝送的项链",
+        "onboard_time": 1744249580,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217823,
+        "num": 217823,
+        "word": "赵勇担任中国女排主帅",
+        "onboard_time": 1744248204,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204899,
+        "num": 204899,
+        "word": "湖人vs独行侠",
+        "onboard_time": 1744248862,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153485,
+        "num": 204169,
+        "word": "吴宣仪本草纲目练习室版",
+        "onboard_time": 1744249402,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146749,
+        "num": 203639,
+        "word": "辛云来紧张得像在和陈都灵求婚",
+        "onboard_time": 1744244666,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 67335,
+        "num": 203500,
+        "word": "三大指数高开创业板涨超3%",
+        "onboard_time": 1744251023,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 203495,
+        "num": 203495,
+        "word": "金铲铲",
+        "onboard_time": 1744245326,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 196289,
+        "num": 196289,
+        "word": "女儿隆鼻结果妈妈肋骨断了三根",
+        "onboard_time": 1744200085,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188149,
+        "num": 188149,
+        "word": "我国自主研发箱子让宠物能上高铁",
+        "onboard_time": 1744250663,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179803,
+        "num": 179803,
+        "word": "教育部发布2025第1号留学预警",
+        "onboard_time": 1744209268,
+        "rank": 33,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 172894,
+        "num": 172894,
+        "word": "中国对美反制今日生效",
+        "onboard_time": 1744240702,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 167475,
+        "num": 167475,
+        "word": "特朗普关税地图炮砸向美国老百姓",
+        "onboard_time": 1744165402,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 161384,
+        "num": 161384,
+        "word": "对美所有进口商品加征84%关税",
+        "onboard_time": 1744196903,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 153445,
+        "num": 153445,
+        "word": "韦雪男友叫韦雪前夫叔",
+        "onboard_time": 1744242864,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 138515,
+        "num": 138515,
+        "word": "微软市值登顶全球第一",
+        "onboard_time": 1744246404,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 110074,
+        "num": 137070,
+        "word": "赴山海",
+        "onboard_time": 1744242384,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137006,
+        "num": 137006,
+        "word": "夜里外卖买炭早起有10多个未接电话",
+        "onboard_time": 1744204586,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132247,
+        "num": 132247,
+        "word": "上海弄堂里的小黄花引市民排队打卡",
+        "onboard_time": 1744248204,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130213,
+        "num": 130213,
+        "word": "多方批评美国扰乱国际贸易秩序",
+        "onboard_time": 1744244606,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 129153,
+        "num": 129153,
+        "word": "2025年第100天",
+        "onboard_time": 1744247006,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120519,
+        "num": 120519,
+        "word": "洛杉矶奥运会乒乓球金牌增至6块",
+        "onboard_time": 1744236195,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116733,
+        "num": 116733,
+        "word": "海关总署公告",
+        "onboard_time": 1744213166,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 112481,
+        "num": 112481,
+        "word": "特别主演张智霖",
+        "onboard_time": 1744204227,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110472,
+        "num": 110472,
+        "word": "迈阿密国际vs洛杉矶FC",
+        "onboard_time": 1744249523,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106641,
+        "num": 106641,
+        "word": "金价涨超3%",
+        "onboard_time": 1744245927,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 104144,
+        "num": 104144,
+        "word": "张若昀终于用上祺贵人的梗了",
+        "onboard_time": 1744205249,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央周边工作会议在京举行#"
+    }
+  }
+}

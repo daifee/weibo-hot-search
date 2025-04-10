@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/10 09:51:11
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/10 10:13:30
 </p>
 </blockquote>
 <p>
@@ -1017,6 +1017,12 @@ jayjay公开（热度：1234903）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E5%A4%A7%E5%A2%9E1.2%E4%B8%87%E4%BA%BF%23" target="weibo">
+特斯拉市值一夜大增1.2万亿（热度：1224993）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%92%A7%E7%94%AF%E6%96%B9%E5%9B%9E%E5%BA%94%E7%82%92%E8%82%A1%E6%8D%9F%E5%A4%B1%E7%BA%A6862%E4%B8%87%23" target="weibo">
 张钧甯方回应炒股损失约862万（热度：1218122）
 </a>
@@ -1223,12 +1229,6 @@ VaVa 灰原哀（热度：1212430）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E6%9C%AB%E5%87%89%E5%AD%90%E8%A2%AB%E6%8D%95%23" target="weibo">
 广末凉子被捕（热度：1131045）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E5%A4%A7%E5%A2%9E1.2%E4%B8%87%E4%BA%BF%23" target="weibo">
-特斯拉市值一夜大增1.2万亿（热度：1127194）
 </a>
 </li>
 
@@ -3207,6 +3207,12 @@ BLACKPINK即将五月回归（热度：568944）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%AE%A3%E5%B8%83%E5%8F%82%E9%80%89%E9%9F%A9%E5%9B%BD%E6%80%BB%E7%BB%9F%23" target="weibo">
+李在明宣布参选韩国总统（热度：567959）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%BA%9B%E7%94%B5%E8%A7%86%E5%89%A7%E7%9C%9F%E5%8F%AF%E4%BB%A5%E5%88%B7N%E6%AC%A1%23" target="weibo">
 有些电视剧真可以刷N次（热度：565906）
 </a>
@@ -3303,6 +3309,12 @@ Songha公开（热度：554934）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2326%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%B8%8D%E5%90%83%E6%97%A9%E9%A5%AD%E8%83%86%E5%9B%8A%E9%95%BF%E6%BB%A1%E7%A2%8E%E7%9F%B3%23" target="weibo">
+26岁女孩不吃早饭胆囊长满碎石（热度：546258）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%80%E5%B0%8F%E5%88%80%E5%9B%9E%E5%BA%94%E8%A2%AB%E8%AD%A6%E5%AF%9F%E5%B8%A6%E8%B5%B0%23" target="weibo">
 刀小刀回应被警察带走（热度：546044）
 </a>
@@ -3377,12 +3389,6 @@ Songha公开（热度：554934）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%B3%BD%E6%B0%91%E6%95%85%E5%B1%85%E9%9D%A2%E5%90%91%E7%A4%BE%E4%BC%9A%E5%85%AC%E4%BC%97%E5%BC%80%E6%94%BE%23" target="weibo">
 江泽民故居面向社会公众开放（热度：538198）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2326%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%B8%8D%E5%90%83%E6%97%A9%E9%A5%AD%E8%83%86%E5%9B%8A%E9%95%BF%E6%BB%A1%E7%A2%8E%E7%9F%B3%23" target="weibo">
-26岁女孩不吃早饭胆囊长满碎石（热度：537029）
 </a>
 </li>
 
@@ -3659,6 +3665,12 @@ Switch2直面会（热度：514768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%90%86%E5%8F%91%E5%BA%97%E7%A7%B0%E5%9B%A0%E6%9D%8E%E7%BE%8E%E8%B6%8A%E5%B9%B3%E5%8F%B0%E5%AE%A2%E6%B5%81%E9%87%8F%E5%B0%9130%25%23" target="weibo">
 理发店称因李美越平台客流量少30%（热度：505422）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%20%E6%B0%B8%E8%BF%9C%E6%B2%A1%E6%9C%89%E5%91%8A%E5%88%AB%E5%B0%B1%E5%A5%BD%E4%BA%86%23" target="weibo">
+赵露思 永远没有告别就好了（热度：505151）
 </a>
 </li>
 
@@ -4137,6 +4149,12 @@ hanbi公开（热度：468837）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%B0%94%E6%9B%BC%E7%96%91%E4%BC%BC%E8%A2%AB%E4%B8%A5%E6%B5%A9%E7%BF%94%E6%B7%98%E6%B1%B0%23" target="weibo">
+阿尔曼疑似被严浩翔淘汰（热度：448912）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%B2%A1%E6%B3%95%E7%9C%8B%E7%94%B5%E5%BD%B1%E9%87%8C%E8%87%AA%E5%B7%B1%E8%B7%9F%E5%AD%A9%E5%AD%90%E7%9A%84%E9%82%A3%E4%B8%80%E6%AE%B5%23" target="weibo">
 赵丽颖没法看电影里自己跟孩子的那一段（热度：448804）
 </a>
@@ -4395,12 +4413,6 @@ Hyunjun公开（热度：426369）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%20%E6%B0%B8%E8%BF%9C%E6%B2%A1%E6%9C%89%E5%91%8A%E5%88%AB%E5%B0%B1%E5%A5%BD%E4%BA%86%23" target="weibo">
-赵露思 永远没有告别就好了（热度：421857）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%BB%83%E4%B9%A0%E5%AE%A4%E8%B7%B3likejennie%23" target="weibo">
 虞书欣练习室跳likejennie（热度：421855）
 </a>
@@ -4505,12 +4517,6 @@ Hyunjun公开（热度：426369）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23NINEPERCENT%E4%B8%83%E5%91%A8%E5%B9%B4%23" target="weibo">
 NINEPERCENT七周年（热度：415549）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%B0%94%E6%9B%BC%E7%96%91%E4%BC%BC%E8%A2%AB%E4%B8%A5%E6%B5%A9%E7%BF%94%E6%B7%98%E6%B1%B0%23" target="weibo">
-阿尔曼疑似被严浩翔淘汰（热度：415524）
 </a>
 </li>
 
@@ -4817,6 +4823,12 @@ TVB女演员陈思齐摆摊卖鸡爪（热度：399114）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B4%E5%B1%B1%E6%B5%B7%23" target="weibo">
 赴山海（热度：391488）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E6%89%98%E9%AA%971.68%E7%B1%B3%E5%A5%B3%E5%AD%90%E6%AD%A3%E5%B8%B8%E8%85%BF%E6%96%AD%E9%AA%A8%E6%88%90X%E8%85%BF%23" target="weibo">
+医托骗1.68米女子正常腿断骨成X腿（热度：390995）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ BLACKPINK nword（热度：324614）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%BC%BA%E7%A8%B3%E5%B8%82%E7%BB%84%E5%90%88%E6%8B%B3%23" target="weibo">
 A股史上最强稳市组合拳（热度：317101）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23jayjay%E5%91%A2%23" target="weibo">
-jayjay呢（热度：316182）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A4%A7%E5%8D%9A%E5%A3%AB3%E4%B8%AA%E6%9C%88%E5%86%9914%E4%B8%87%E5%AD%97%E8%AE%BA%E6%96%87%E6%9F%A5%E9%87%8D0.1%25%23" target="weibo">
-武大博士3个月写14万字论文查重0.1%（热度：316165）
 </a>
 </li>
 
