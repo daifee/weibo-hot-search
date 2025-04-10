@@ -1,0 +1,410 @@
+{
+  "runTime": 1744327494749,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1474752,
+        "num": 1474752,
+        "word": "关税战是否还会继续升级",
+        "onboard_time": 1744301061,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1141818,
+        "num": 1141818,
+        "word": "女孩谎称生病剃光头外公果然剃了",
+        "onboard_time": 1744323917,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96189,
+        "num": 1069647,
+        "word": "中国不接受施压威胁讹诈",
+        "onboard_time": 1744292484,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1069299,
+        "num": 1069299,
+        "word": "周六 不出门",
+        "onboard_time": 1744287502,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 393892,
+        "num": 393892,
+        "word": "张嘉倪营业了",
+        "onboard_time": 1744293143,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368043,
+        "num": 368043,
+        "word": "终于知道为何女厕总有一格打不开了",
+        "onboard_time": 1744298243,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 323951,
+        "num": 323951,
+        "word": "外交部回应为何提醒公民谨慎赴美",
+        "onboard_time": 1744304717,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 281732,
+        "num": 281732,
+        "word": "古天乐右眼视网膜穿了两个洞",
+        "onboard_time": 1744314074,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264691,
+        "num": 264691,
+        "word": "美国大型科技企业将成为反制目标",
+        "onboard_time": 1744298903,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 63523,
+        "num": 264014,
+        "word": "今年的牡丹花王长这样",
+        "onboard_time": 1744319113,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 454545,
+        "num": 262579,
+        "word": "特朗普家族几天获利300亿美元",
+        "onboard_time": 1744275443,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 311132,
+        "num": 261900,
+        "word": "文明办回应上海地铁男子猥亵女性",
+        "onboard_time": 1744294524,
+        "rank": 11,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 292181,
+        "num": 260745,
+        "word": "短剧疑似AI换脸热巴",
+        "onboard_time": 1744294463,
+        "rank": 12,
+        "category": "互联网,艺人"
+      },
+      {
+        "raw_hot": 290056,
+        "num": 259844,
+        "word": "张檬想40岁前要二胎",
+        "onboard_time": 1744297703,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266674,
+        "num": 258845,
+        "word": "男子婚后发现妻子4年结过3次婚",
+        "onboard_time": 1744292122,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258087,
+        "num": 258087,
+        "word": "北京大风天坐地铁注意了",
+        "onboard_time": 1744298064,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237926,
+        "num": 237926,
+        "word": "对美所有进口商品关税再提高50%",
+        "onboard_time": 1744197084,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 225434,
+        "num": 225434,
+        "word": "张凌赫曾胖到200斤同学认不出",
+        "onboard_time": 1744300821,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199607,
+        "num": 199607,
+        "word": "10级狂风堪比台风过境",
+        "onboard_time": 1744285102,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142734,
+        "num": 142734,
+        "word": "香港演员谷峰去世",
+        "onboard_time": 1744297645,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368090,
+        "num": 141926,
+        "word": "父亲离世前对AI说我要去世了豆包",
+        "onboard_time": 1744307116,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233769,
+        "num": 140582,
+        "word": "特斯拉市值一夜蒸发超6000亿",
+        "onboard_time": 1744314074,
+        "rank": 21,
+        "category": "财经,汽车"
+      },
+      {
+        "raw_hot": 166500,
+        "num": 139103,
+        "word": "男子2400万买房儿媳离婚分走1500万",
+        "onboard_time": 1744284682,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60541,
+        "num": 137894,
+        "word": "李晟罗予彤两个辣妹子晕辣了",
+        "onboard_time": 1744298423,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137566,
+        "num": 137566,
+        "word": "八段锦每一个动作都是药",
+        "onboard_time": 1744297645,
+        "rank": 24,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 117855,
+        "num": 117855,
+        "word": "外交部回应美对华征收125%关税",
+        "onboard_time": 1744271362,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 113678,
+        "num": 113678,
+        "word": "重大气象灾害三级应急响应",
+        "onboard_time": 1744316594,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112828,
+        "num": 112828,
+        "word": "安踏拟2.9亿美元收购狼爪",
+        "onboard_time": 1744285943,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 53223,
+        "num": 110501,
+        "word": "许我耀眼 6月开播",
+        "onboard_time": 1744324938,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45253,
+        "num": 110273,
+        "word": "李荣浩石家庄演唱会",
+        "onboard_time": 1744298843,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 110060,
+        "num": 110060,
+        "word": "对美加征84%关税开始执行",
+        "onboard_time": 1744258463,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 106339,
+        "num": 106339,
+        "word": "美贸易代表被嘲未提前知晓关税调整",
+        "onboard_time": 1744290322,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 102069,
+        "num": 102069,
+        "word": "iPhone16回收价已涨300元",
+        "onboard_time": 1744282702,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 101324,
+        "num": 101324,
+        "word": "多米尼加俱乐部坍塌已致218死",
+        "onboard_time": 1744305976,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 95816,
+        "num": 95816,
+        "word": "瘦了36斤才敢说的减肥大实话",
+        "onboard_time": 1744297645,
+        "rank": 34,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 86131,
+        "num": 86131,
+        "word": "你男朋友可能喜欢你",
+        "onboard_time": 1744299023,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84091,
+        "num": 84091,
+        "word": "陈哲远拍了歪头wink",
+        "onboard_time": 1744301121,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74980,
+        "num": 74980,
+        "word": "多家国内航司将座椅更换成轻薄型",
+        "onboard_time": 1744298483,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73233,
+        "num": 73233,
+        "word": "被拼多多百元跑鞋震惊了",
+        "onboard_time": 1744282882,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 68611,
+        "num": 68611,
+        "word": "适度减少美国影片进口数",
+        "onboard_time": 1744281083,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 63515,
+        "num": 63515,
+        "word": "Celine酒会上的刘诗诗",
+        "onboard_time": 1744291762,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 62157,
+        "num": 62157,
+        "word": "普拉达超100亿收购范思哲",
+        "onboard_time": 1744307116,
+        "rank": 41,
+        "category": "财经,时尚"
+      },
+      {
+        "raw_hot": 58789,
+        "num": 58789,
+        "word": "中国电影市场坚持高水平对外开放",
+        "onboard_time": 1744288703,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 57330,
+        "num": 57330,
+        "word": "过生日时记得镜头换个方向",
+        "onboard_time": 1744327220,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 53314,
+        "num": 53314,
+        "word": "通信技术试验卫星十七号成功发射",
+        "onboard_time": 1744327280,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51735,
+        "num": 51735,
+        "word": "北京发布大风应对措施",
+        "onboard_time": 1744293684,
+        "rank": 45,
+        "category": "民生新闻,科学科普"
+      },
+      {
+        "raw_hot": 51351,
+        "num": 51351,
+        "word": "京津冀大风橙色预警",
+        "onboard_time": 1744302260,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48231,
+        "num": 48231,
+        "word": "男子轻信陌生人办带编工作被骗167万",
+        "onboard_time": 1744303458,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48165,
+        "num": 48165,
+        "word": "金价",
+        "onboard_time": 1744327399,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 47179,
+        "num": 47179,
+        "word": "何秋亊直播",
+        "onboard_time": 1744298542,
+        "rank": 49,
+        "category": "网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央周边工作会议在北京举行#"
+    }
+  }
+}

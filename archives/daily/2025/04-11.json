@@ -1,7 +1,15 @@
 {
   "startTime": 1744302697177,
-  "endTime": 1744324886654,
+  "endTime": 1744327494749,
   "band_list": [
+    {
+      "raw_hot": 1474752,
+      "num": 1474752,
+      "word": "关税战是否还会继续升级",
+      "onboard_time": 1744301061,
+      "rank": 7,
+      "category": "海外新闻"
+    },
     {
       "raw_hot": 1275101,
       "num": 1275101,
@@ -11,12 +19,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 987558,
-      "num": 987558,
-      "word": "关税战是否还会继续升级",
-      "onboard_time": 1744301061,
-      "rank": 7,
-      "category": "海外新闻"
+      "raw_hot": 1141818,
+      "num": 1141818,
+      "word": "女孩谎称生病剃光头外公果然剃了",
+      "onboard_time": 1744323917,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 769082,
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 632840,
-      "num": 257839,
+      "num": 262579,
       "word": "特朗普家族几天获利300亿美元",
       "onboard_time": 1744275443,
       "rank": 12,
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 421124,
-      "num": 253786,
+      "num": 261900,
       "word": "文明办回应上海地铁男子猥亵女性",
       "onboard_time": 1744294524,
       "rank": 14,
@@ -84,11 +92,19 @@
     },
     {
       "raw_hot": 374434,
-      "num": 252593,
+      "num": 259844,
       "word": "张檬想40岁前要二胎",
       "onboard_time": 1744297703,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 368043,
+      "num": 368043,
+      "word": "终于知道为何女厕总有一格打不开了",
+      "onboard_time": 1744298243,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 347302,
@@ -104,6 +120,14 @@
       "word": "外交部回应美对华征收125%关税",
       "onboard_time": 1744271362,
       "rank": 5,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 323951,
+      "num": 323951,
+      "word": "外交部回应为何提醒公民谨慎赴美",
+      "onboard_time": 1744304717,
+      "rank": 14,
       "category": "国内时政"
     },
     {
@@ -123,12 +147,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 281732,
+      "num": 281732,
+      "word": "古天乐右眼视网膜穿了两个洞",
+      "onboard_time": 1744314074,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 281031,
       "num": 248262,
       "word": "国家电影局发声",
       "onboard_time": 1744292963,
       "rank": 17,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 266674,
+      "num": 258845,
+      "word": "男子婚后发现妻子4年结过3次婚",
+      "onboard_time": 1744292122,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 258827,
@@ -139,20 +179,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 242387,
-      "num": 242387,
-      "word": "终于知道为何女厕总有一格打不开了",
-      "onboard_time": 1744298243,
-      "rank": 21,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 235981,
       "num": 235981,
       "word": "瘦了36斤才敢说的减肥大实话",
       "onboard_time": 1744297645,
       "rank": 22,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 233769,
+      "num": 140582,
+      "word": "特斯拉市值一夜蒸发超6000亿",
+      "onboard_time": 1744314074,
+      "rank": 30,
+      "category": "财经,汽车"
     },
     {
       "raw_hot": 215590,
@@ -164,7 +204,7 @@
     },
     {
       "raw_hot": 202015,
-      "num": 650540,
+      "num": 1069647,
       "word": "中国不接受施压威胁讹诈",
       "onboard_time": 1744292484,
       "rank": 2,
@@ -195,12 +235,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 172738,
-      "num": 172738,
-      "word": "古天乐右眼视网膜穿了两个洞",
-      "onboard_time": 1744314074,
-      "rank": 11,
-      "category": "艺人"
+      "raw_hot": 166500,
+      "num": 155919,
+      "word": "男子2400万买房儿媳离婚分走1500万",
+      "onboard_time": 1744284682,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 163716,
@@ -209,38 +249,6 @@
       "onboard_time": 1744298843,
       "rank": 19,
       "category": "演出"
-    },
-    {
-      "raw_hot": 161043,
-      "num": 161043,
-      "word": "外交部回应为何提醒公民谨慎赴美",
-      "onboard_time": 1744304717,
-      "rank": 14,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 157619,
-      "num": 157619,
-      "word": "男子婚后发现妻子4年结过3次婚",
-      "onboard_time": 1744292122,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 156216,
-      "num": 89810,
-      "word": "特斯拉市值一夜蒸发超6000亿",
-      "onboard_time": 1744314074,
-      "rank": 30,
-      "category": "财经,汽车"
-    },
-    {
-      "raw_hot": 155919,
-      "num": 155919,
-      "word": "男子2400万买房儿媳离婚分走1500万",
-      "onboard_time": 1744284682,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 154469,
@@ -299,14 +307,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 120771,
-      "num": 157781,
-      "word": "女孩谎称生病剃光头外公果然剃了",
-      "onboard_time": 1744323917,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 120304,
       "num": 120304,
       "word": "重大气象灾害三级应急响应",
@@ -329,6 +329,14 @@
       "onboard_time": 1744258463,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 112828,
+      "num": 112828,
+      "word": "安踏拟2.9亿美元收购狼爪",
+      "onboard_time": 1744285943,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 109919,
@@ -355,12 +363,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 106846,
-      "num": 106846,
-      "word": "安踏拟2.9亿美元收购狼爪",
-      "onboard_time": 1744285943,
-      "rank": 38,
-      "category": "财经"
+      "raw_hot": 101324,
+      "num": 101324,
+      "word": "多米尼加俱乐部坍塌已致218死",
+      "onboard_time": 1744305976,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 94584,
@@ -369,14 +377,6 @@
       "onboard_time": 1744300282,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 89254,
-      "num": 89254,
-      "word": "多米尼加俱乐部坍塌已致218死",
-      "onboard_time": 1744305976,
-      "rank": 40,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 88127,
@@ -388,7 +388,7 @@
     },
     {
       "raw_hot": 82144,
-      "num": 82144,
+      "num": 137894,
       "word": "李晟罗予彤两个辣妹子晕辣了",
       "onboard_time": 1744298423,
       "rank": 41,
@@ -459,6 +459,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 63523,
+      "num": 264014,
+      "word": "今年的牡丹花王长这样",
+      "onboard_time": 1744319113,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62852,
       "num": 62852,
       "word": "严浩翔新综艺录制2天4套造型",
@@ -467,12 +475,36 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 54257,
-      "num": 52303,
+      "raw_hot": 62157,
+      "num": 62157,
       "word": "普拉达超100亿收购范思哲",
       "onboard_time": 1744307116,
       "rank": 20,
       "category": "财经,时尚"
+    },
+    {
+      "raw_hot": 57330,
+      "num": 57330,
+      "word": "过生日时记得镜头换个方向",
+      "onboard_time": 1744327220,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 53314,
+      "num": 53314,
+      "word": "通信技术试验卫星十七号成功发射",
+      "onboard_time": 1744327280,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53223,
+      "num": 110501,
+      "word": "许我耀眼 6月开播",
+      "onboard_time": 1744324938,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 49722,
@@ -483,20 +515,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48165,
+      "num": 48165,
+      "word": "金价",
+      "onboard_time": 1744327399,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 43425,
       "num": 43425,
       "word": "孙千Celine生图",
       "onboard_time": 1744319954,
       "rank": 47,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 41315,
-      "num": 41315,
-      "word": "今年的牡丹花王长这样",
-      "onboard_time": 1744319113,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 32821,
