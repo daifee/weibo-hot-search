@@ -1,6 +1,6 @@
 {
   "startTime": 1744302697177,
-  "endTime": 1744320186806,
+  "endTime": 1744321036507,
   "band_list": [
     {
       "raw_hot": 1275101,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 260863,
-      "num": 79666,
+      "num": 89271,
       "word": "父亲离世前对AI说我要去世了豆包",
       "onboard_time": 1744307116,
       "rank": 10,
@@ -443,6 +443,14 @@
       "category": "财经,时尚"
     },
     {
+      "raw_hot": 50825,
+      "num": 50825,
+      "word": "多米尼加俱乐部坍塌已致218死",
+      "onboard_time": 1744305976,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 49722,
       "num": 72072,
       "word": "男子轻信陌生人办带编工作被骗167万",
@@ -452,23 +460,15 @@
     },
     {
       "raw_hot": 49417,
-      "num": 21973,
+      "num": 22893,
       "word": "特斯拉市值一夜蒸发超6000亿",
       "onboard_time": 1744314074,
       "rank": 30,
       "category": "财经,汽车"
     },
     {
-      "raw_hot": 48090,
-      "num": 48090,
-      "word": "多米尼加俱乐部坍塌已致218死",
-      "onboard_time": 1744305976,
-      "rank": 40,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 34585,
-      "num": 34585,
+      "raw_hot": 38951,
+      "num": 38951,
       "word": "重大气象灾害三级应急响应",
       "onboard_time": 1744316594,
       "rank": 46,
@@ -523,6 +523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 15134,
+      "num": 16035,
+      "word": "孙千Celine生图",
+      "onboard_time": 1744319954,
+      "rank": 47,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 14716,
       "num": 19335,
       "word": "姚晨哭戏",
@@ -537,14 +545,6 @@
       "onboard_time": 1744310955,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 12553,
-      "num": 15947,
-      "word": "孙千Celine生图",
-      "onboard_time": 1744319954,
-      "rank": 47,
-      "category": "作品衍生,时尚"
     }
   ],
   "hotgov_list": [
