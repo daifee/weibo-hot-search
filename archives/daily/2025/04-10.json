@@ -1,6 +1,6 @@
 {
   "startTime": 1744216297899,
-  "endTime": 1744254904249,
+  "endTime": 1744256970412,
   "band_list": [
     {
       "raw_hot": 8884094,
@@ -33,6 +33,22 @@
       "onboard_time": 1744249942,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1665201,
+      "num": 1665201,
+      "word": "苹果紧急往美国运iPhone",
+      "onboard_time": 1744252162,
+      "rank": 7,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 1347400,
+      "num": 1347400,
+      "word": "金价创5年来最大涨幅",
+      "onboard_time": 1744253362,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 1224993,
@@ -91,20 +107,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 827538,
-      "num": 827538,
-      "word": "苹果紧急往美国运iPhone",
-      "onboard_time": 1744252162,
-      "rank": 7,
-      "category": "数码"
-    },
-    {
       "raw_hot": 825872,
       "num": 825872,
       "word": "黄子韬卫生巾工厂进展",
       "onboard_time": 1744209087,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 822143,
+      "num": 822143,
+      "word": "被砸伤头骨的9岁女孩脑组织已坏死",
+      "onboard_time": 1744255584,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 758820,
@@ -171,6 +187,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 535492,
+      "num": 535492,
+      "word": "梁田回应35岁不结婚",
+      "onboard_time": 1744255403,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 534375,
       "num": 534375,
       "word": "特朗普要再犯一次百年前的错误吗",
@@ -227,14 +251,6 @@
       "category": "财经,民生新闻"
     },
     {
-      "raw_hot": 476607,
-      "num": 476607,
-      "word": "金价创5年来最大涨幅",
-      "onboard_time": 1744253362,
-      "rank": 14,
-      "category": "财经"
-    },
-    {
       "raw_hot": 476482,
       "num": 476482,
       "word": "中方多部门密集发声",
@@ -251,20 +267,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 465953,
+      "num": 477999,
+      "word": "中国发现高纯石英矿",
+      "onboard_time": 1744252942,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 451375,
+      "num": 451375,
+      "word": "恋与深空",
+      "onboard_time": 1744254682,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 448912,
       "num": 507865,
       "word": "阿尔曼疑似被严浩翔淘汰",
       "onboard_time": 1744247186,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 446739,
-      "num": 477999,
-      "word": "中国发现高纯石英矿",
-      "onboard_time": 1744252942,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 433151,
@@ -300,7 +324,7 @@
     },
     {
       "raw_hot": 404938,
-      "num": 404938,
+      "num": 542521,
       "word": "五哈5定档",
       "onboard_time": 1744252342,
       "rank": 16,
@@ -339,6 +363,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 367171,
+      "num": 367171,
+      "word": "科学家颜宁转发朱一龙自拍",
+      "onboard_time": 1744254024,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 361348,
+      "num": 419845,
+      "word": "孟子义又语出惊人了",
+      "onboard_time": 1744255102,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 345943,
       "num": 345943,
       "word": "美国人抢鸡蛋盛况",
@@ -353,6 +393,14 @@
       "onboard_time": 1744248204,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 335630,
+      "num": 335630,
+      "word": "肖战 羽西",
+      "onboard_time": 1744253002,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 330284,
@@ -388,7 +436,7 @@
     },
     {
       "raw_hot": 303464,
-      "num": 1255132,
+      "num": 1484582,
       "word": "中方绝对不接受美方极限施压霸道霸凌",
       "onboard_time": 1744205427,
       "rank": 2,
@@ -419,6 +467,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 285339,
+      "num": 285339,
+      "word": "女子挖鼻孔后高烧40度肿到难睁眼",
+      "onboard_time": 1744254203,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 282431,
       "num": 282431,
       "word": "巴西总统批特朗普以为能给世界立规矩",
@@ -435,20 +491,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 266603,
-      "num": 266603,
-      "word": "恋与深空",
-      "onboard_time": 1744254682,
-      "rank": 25,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 265233,
-      "num": 265233,
+      "num": 328062,
       "word": "六福珠宝 成毅",
       "onboard_time": 1744251622,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 263985,
+      "num": 263985,
+      "word": "古茗星穹铁道联名",
+      "onboard_time": 1744256364,
+      "rank": 33,
+      "category": "游戏,美食"
     },
     {
       "raw_hot": 261855,
@@ -467,14 +523,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 254212,
-      "num": 274975,
-      "word": "科学家颜宁转发朱一龙自拍",
-      "onboard_time": 1744254024,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 252465,
       "num": 252465,
       "word": "股市",
@@ -489,6 +537,22 @@
       "onboard_time": 1744211906,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 251007,
+      "num": 329802,
+      "word": "柯淳你让段休冥从许肆身上下来",
+      "onboard_time": 1744255642,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 242458,
+      "num": 242458,
+      "word": "秦彻至心栖之处",
+      "onboard_time": 1744255102,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 240719,
@@ -555,6 +619,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204198,
+      "num": 401332,
+      "word": "减肥期的女孩需要一个张凌赫",
+      "onboard_time": 1744256183,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 201069,
+      "num": 320117,
+      "word": "梅婷杨晓培姊妹封面",
+      "onboard_time": 1744254863,
+      "rank": 47,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 198102,
+      "num": 267107,
+      "word": "A股港股全线爆发",
+      "onboard_time": 1744253963,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 197987,
       "num": 197987,
       "word": "多方批评美国扰乱国际贸易秩序",
@@ -611,28 +699,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 193291,
-      "num": 193291,
-      "word": "女子挖鼻孔后高烧40度肿到难睁眼",
-      "onboard_time": 1744254203,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 189622,
       "num": 189622,
       "word": "微信状态也能调情",
       "onboard_time": 1744192642,
       "rank": 30,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 187680,
-      "num": 267107,
-      "word": "A股港股全线爆发",
-      "onboard_time": 1744253963,
-      "rank": 23,
-      "category": "财经"
     },
     {
       "raw_hot": 179393,
@@ -683,6 +755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157326,
+      "num": 157326,
+      "word": "何老师哄孟子义跟哄孩子一样",
+      "onboard_time": 1744256662,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156857,
       "num": 204169,
       "word": "吴宣仪本草纲目练习室版",
@@ -716,7 +796,7 @@
     },
     {
       "raw_hot": 151522,
-      "num": 317111,
+      "num": 409767,
       "word": "送你一朵牡丹花",
       "onboard_time": 1744252883,
       "rank": 19,
@@ -739,8 +819,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141559,
+      "num": 153679,
+      "word": "再多喊一秒庄达菲就绷不住了",
+      "onboard_time": 1744254863,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 137257,
-      "num": 137257,
+      "num": 141062,
       "word": "金饰价一夜大涨31元",
       "onboard_time": 1744253242,
       "rank": 42,
@@ -769,14 +857,6 @@
       "onboard_time": 1744243167,
       "rank": 40,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 132921,
-      "num": 132921,
-      "word": "梅婷杨晓培姊妹封面",
-      "onboard_time": 1744254863,
-      "rank": 47,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 132128,
@@ -875,14 +955,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 111342,
-      "num": 153679,
-      "word": "再多喊一秒庄达菲就绷不住了",
-      "onboard_time": 1744254863,
-      "rank": 42,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 108807,
       "num": 108807,
       "word": "白冰冰女儿",
@@ -915,11 +987,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98090,
+      "num": 311060,
+      "word": "4位世界冠军压阵新一届国家女排",
+      "onboard_time": 1744252342,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 94212,
       "num": 326905,
       "word": "纳指单日暴拉12%",
       "onboard_time": 1744241001,
       "rank": 14,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 94060,
+      "num": 535554,
+      "word": "A股三市上涨个股近5000只",
+      "onboard_time": 1744255943,
+      "rank": 9,
       "category": "财经"
     },
     {
@@ -969,6 +1057,14 @@
       "onboard_time": 1744215801,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 76849,
+      "num": 379230,
+      "word": "打破女童头骨案涉事教师母亲发声",
+      "onboard_time": 1744256002,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76750,

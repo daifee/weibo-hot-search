@@ -1,0 +1,410 @@
+{
+  "runTime": 1744256970412,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1774699,
+        "num": 1774699,
+        "word": "对美所有进口商品关税再提高50%",
+        "onboard_time": 1744197084,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1665201,
+        "num": 1665201,
+        "word": "苹果紧急往美国运iPhone",
+        "onboard_time": 1744252162,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 218681,
+        "num": 1484582,
+        "word": "中方绝对不接受美方极限施压霸道霸凌",
+        "onboard_time": 1744205427,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1429829,
+        "num": 1429829,
+        "word": "医托骗1.68米女子正常腿断骨成X腿",
+        "onboard_time": 1744249942,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1347400,
+        "num": 1347400,
+        "word": "金价创5年来最大涨幅",
+        "onboard_time": 1744253362,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 822143,
+        "num": 822143,
+        "word": "被砸伤头骨的9岁女孩脑组织已坏死",
+        "onboard_time": 1744255584,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 604451,
+        "num": 604451,
+        "word": "JYP写了中国台湾省",
+        "onboard_time": 1744243466,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 564149,
+        "num": 564149,
+        "word": "我国自主研发箱子让宠物能上高铁",
+        "onboard_time": 1744250663,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 364816,
+        "num": 542521,
+        "word": "五哈5定档",
+        "onboard_time": 1744252342,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94060,
+        "num": 535554,
+        "word": "A股三市上涨个股近5000只",
+        "onboard_time": 1744255943,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 616851,
+        "num": 535550,
+        "word": "严浩翔说有diss是很正常的事",
+        "onboard_time": 1744253482,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 535492,
+        "num": 535492,
+        "word": "梁田回应35岁不结婚",
+        "onboard_time": 1744255403,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 465953,
+        "num": 465953,
+        "word": "中国发现高纯石英矿",
+        "onboard_time": 1744252942,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 451375,
+        "num": 451375,
+        "word": "恋与深空",
+        "onboard_time": 1744254682,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 431485,
+        "num": 431485,
+        "word": "欧盟对美加征25%关税",
+        "onboard_time": 1744204348,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 429399,
+        "num": 429399,
+        "word": "特朗普要再犯一次百年前的错误吗",
+        "onboard_time": 1744240581,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 361348,
+        "num": 419845,
+        "word": "孟子义又语出惊人了",
+        "onboard_time": 1744255102,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115932,
+        "num": 409767,
+        "word": "送你一朵牡丹花",
+        "onboard_time": 1744252883,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204198,
+        "num": 401332,
+        "word": "减肥期的女孩需要一个张凌赫",
+        "onboard_time": 1744256183,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76849,
+        "num": 379230,
+        "word": "打破女童头骨案涉事教师母亲发声",
+        "onboard_time": 1744256002,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 378676,
+        "num": 378676,
+        "word": "宁波口岸新能源车出口暴增439%",
+        "onboard_time": 1744251323,
+        "rank": 20,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 367171,
+        "num": 367171,
+        "word": "科学家颜宁转发朱一龙自拍",
+        "onboard_time": 1744254024,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335630,
+        "num": 335630,
+        "word": "肖战 羽西",
+        "onboard_time": 1744253002,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285833,
+        "num": 332480,
+        "word": "孙俪董子健新剧定档",
+        "onboard_time": 1744252101,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 251007,
+        "num": 329802,
+        "word": "柯淳你让段休冥从许肆身上下来",
+        "onboard_time": 1744255642,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234679,
+        "num": 328062,
+        "word": "六福珠宝 成毅",
+        "onboard_time": 1744251622,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228795,
+        "num": 322320,
+        "word": "当地回应撤下致谢甲亢哥大屏",
+        "onboard_time": 1744246467,
+        "rank": 26,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 201069,
+        "num": 320117,
+        "word": "梅婷杨晓培姊妹封面",
+        "onboard_time": 1744254863,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 168918,
+        "num": 314749,
+        "word": "孙俪回归上海丽人赛道",
+        "onboard_time": 1744252402,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98090,
+        "num": 311060,
+        "word": "4位世界冠军压阵新一届国家女排",
+        "onboard_time": 1744252342,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 310423,
+        "num": 310423,
+        "word": "26岁女孩不吃早饭胆囊长满碎石",
+        "onboard_time": 1744246646,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 294991,
+        "num": 294991,
+        "word": "赵露思 永远没有告别就好了",
+        "onboard_time": 1744244305,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285339,
+        "num": 285339,
+        "word": "女子挖鼻孔后高烧40度肿到难睁眼",
+        "onboard_time": 1744254203,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 263985,
+        "num": 263985,
+        "word": "古茗星穹铁道联名",
+        "onboard_time": 1744256364,
+        "rank": 33,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 253417,
+        "num": 253417,
+        "word": "李在明宣布参选韩国总统",
+        "onboard_time": 1744249043,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 242458,
+        "num": 242458,
+        "word": "秦彻至心栖之处",
+        "onboard_time": 1744255102,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 203268,
+        "num": 203268,
+        "word": "赵勇担任中国女排主帅",
+        "onboard_time": 1744248204,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198102,
+        "num": 198102,
+        "word": "A股港股全线爆发",
+        "onboard_time": 1744253963,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 196514,
+        "num": 196514,
+        "word": "洛杉矶奥运会乒乓球金牌增至6块",
+        "onboard_time": 1744236195,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188832,
+        "num": 188832,
+        "word": "特朗普关税地图炮砸向美国老百姓",
+        "onboard_time": 1744165402,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 180010,
+        "num": 180010,
+        "word": "全国唯一的古旱莲开花",
+        "onboard_time": 1744244246,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177202,
+        "num": 177202,
+        "word": "iPhone17Pro手机壳再曝光",
+        "onboard_time": 1744242504,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 167154,
+        "num": 167154,
+        "word": "孙颖莎王楚钦洛杉矶奥运会或身兼四项",
+        "onboard_time": 1744246105,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157326,
+        "num": 157326,
+        "word": "何老师哄孟子义跟哄孩子一样",
+        "onboard_time": 1744256662,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141559,
+        "num": 141559,
+        "word": "再多喊一秒庄达菲就绷不住了",
+        "onboard_time": 1744254863,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 110500,
+        "num": 141062,
+        "word": "金饰价一夜大涨31元",
+        "onboard_time": 1744253242,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 140779,
+        "num": 140779,
+        "word": "股市",
+        "onboard_time": 1744253122,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 140364,
+        "num": 140364,
+        "word": "东契奇擦干眼泪就是干",
+        "onboard_time": 1744254682,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138056,
+        "num": 138056,
+        "word": "阿尔曼疑似被严浩翔淘汰",
+        "onboard_time": 1744247186,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135758,
+        "num": 135758,
+        "word": "杨紫又跳舞了",
+        "onboard_time": 1744248444,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央周边工作会议在京举行#"
+    }
+  }
+}
