@@ -1,0 +1,410 @@
+{
+  "runTime": 1744266865139,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1461699,
+        "num": 1461699,
+        "word": "苹果紧急往美国运iPhone",
+        "onboard_time": 1744252162,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1213610,
+        "num": 1213610,
+        "word": "4月10日12时01分",
+        "onboard_time": 1744258643,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95347,
+        "num": 1166331,
+        "word": "中美经贸关系互利共赢的本质不容歪曲",
+        "onboard_time": 1744244187,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1136898,
+        "num": 1136898,
+        "word": "中方愿与欧方相向而行",
+        "onboard_time": 1744263023,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 763116,
+        "num": 763116,
+        "word": "对美加征84%关税开始执行",
+        "onboard_time": 1744258463,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 677123,
+        "num": 677123,
+        "word": "对美所有进口商品关税再提高50%",
+        "onboard_time": 1744197084,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 473905,
+        "num": 473905,
+        "word": "特朗普会收手吗",
+        "onboard_time": 1744263084,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 228211,
+        "num": 472302,
+        "word": "TizzyT很荣幸成为你的跳板",
+        "onboard_time": 1744265662,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214509,
+        "num": 470766,
+        "word": "白天PPT晚上八段锦",
+        "onboard_time": 1744263624,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281052,
+        "num": 468137,
+        "word": "13级大风是什么概念",
+        "onboard_time": 1744264823,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1062884,
+        "num": 466768,
+        "word": "控糖1年后男子减百斤年轻20岁",
+        "onboard_time": 1744263505,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 521242,
+        "num": 464957,
+        "word": "黄杨钿甜通过中传艺考",
+        "onboard_time": 1744265183,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 463358,
+        "num": 463358,
+        "word": "被砸伤头骨的9岁女孩脑组织已坏死",
+        "onboard_time": 1744255584,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 448746,
+        "num": 448746,
+        "word": "朴信惠代露娃撞衫",
+        "onboard_time": 1744263023,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 423977,
+        "num": 423977,
+        "word": "绿色蜜雪冰城门店已改回红色",
+        "onboard_time": 1744265724,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 353787,
+        "num": 353787,
+        "word": "金价创5年来最大涨幅",
+        "onboard_time": 1744253362,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 322336,
+        "num": 322336,
+        "word": "陈赫摔倒受伤的是黄磊",
+        "onboard_time": 1744260744,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 305030,
+        "num": 305030,
+        "word": "外国人吃到中国科技的细糠了",
+        "onboard_time": 1744262183,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42901,
+        "num": 275237,
+        "word": "牡丹就是鲜花界的春日顶流吧",
+        "onboard_time": 1744265124,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163814,
+        "num": 274390,
+        "word": "北京提醒尽量减少或停止户外活动",
+        "onboard_time": 1744266202,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1377343,
+        "num": 274150,
+        "word": "北京40岁地铁猥亵惯犯被抓后下跪",
+        "onboard_time": 1744261225,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273879,
+        "num": 273879,
+        "word": "金宣虎wink笑的风吹到了内娱",
+        "onboard_time": 1744259783,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62177,
+        "num": 270648,
+        "word": "子弟兵训练中发现火情救出被困老人",
+        "onboard_time": 1744264884,
+        "rank": 22,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 269829,
+        "num": 269829,
+        "word": "做食堂阿姨的北大研究生已离职",
+        "onboard_time": 1744257264,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110897,
+        "num": 257932,
+        "word": "勇士掉队西部混战军团",
+        "onboard_time": 1744266502,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 254870,
+        "num": 254870,
+        "word": "北京将出现陆地罕见极端大风",
+        "onboard_time": 1744265124,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138684,
+        "num": 250974,
+        "word": "我叫电影今年130岁了",
+        "onboard_time": 1744259063,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 204075,
+        "num": 250474,
+        "word": "王蓉杀回唱跳圈",
+        "onboard_time": 1744264643,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63523,
+        "num": 245274,
+        "word": "梦想打开的100种方式",
+        "onboard_time": 1744266682,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61144,
+        "num": 238308,
+        "word": "曹县把牡丹香缝进汉服香气2年不散",
+        "onboard_time": 1744265602,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238085,
+        "num": 238085,
+        "word": "医托骗1.68米女子正常腿断骨成X腿",
+        "onboard_time": 1744249942,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227968,
+        "num": 227968,
+        "word": "时代少年团 李宁",
+        "onboard_time": 1744261344,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224391,
+        "num": 224391,
+        "word": "孙颖莎曾调侃27岁再兼四项",
+        "onboard_time": 1744263505,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217539,
+        "num": 217539,
+        "word": "第一批疯狂防晒的人现在都怎样了",
+        "onboard_time": 1744258164,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 195432,
+        "num": 195432,
+        "word": "普通家庭养娃一年的真实费用",
+        "onboard_time": 1744264162,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 58096,
+        "num": 192986,
+        "word": "Doinb爆料LWX给Crisp加油",
+        "onboard_time": 1744266682,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 191517,
+        "num": 191517,
+        "word": "甲亢哥带火的卤鹅哥被奖10万元",
+        "onboard_time": 1744262542,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 346229,
+        "num": 190612,
+        "word": "新说唱选手diss黄子韬",
+        "onboard_time": 1744265963,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164265,
+        "num": 164265,
+        "word": "孟子义又语出惊人了",
+        "onboard_time": 1744255102,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33132,
+        "num": 161680,
+        "word": "华北将现历史同期罕见持续性大风",
+        "onboard_time": 1744265542,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161578,
+        "num": 161578,
+        "word": "JYP写了中国台湾省",
+        "onboard_time": 1744243466,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 158433,
+        "num": 158433,
+        "word": "马云现身阿里巴巴云谷园区",
+        "onboard_time": 1744261764,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 145641,
+        "num": 145641,
+        "word": "12岁180cm孩子医生说不是常态",
+        "onboard_time": 1744259425,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141036,
+        "num": 141036,
+        "word": "周末局地10级阵风堪比台风过境",
+        "onboard_time": 1744262303,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136245,
+        "num": 136245,
+        "word": "北京周末13级大风",
+        "onboard_time": 1744266142,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41545,
+        "num": 136224,
+        "word": "旅客亲身体验高铁宠物托运服务",
+        "onboard_time": 1744264703,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136208,
+        "num": 136208,
+        "word": "我国自主研发箱子让宠物能上高铁",
+        "onboard_time": 1744250663,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135466,
+        "num": 135466,
+        "word": "贾斯汀比伯让拍摄者离远点",
+        "onboard_time": 1744265423,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134874,
+        "num": 134874,
+        "word": "马龙主题酒店",
+        "onboard_time": 1744266802,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34109,
+        "num": 134722,
+        "word": "女排选帅曾征求郎平意见",
+        "onboard_time": 1744265483,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#以八项规定催发更深层次的化学反应#"
+    }
+  }
+}
