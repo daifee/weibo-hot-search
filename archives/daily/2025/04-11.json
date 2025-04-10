@@ -1,6 +1,6 @@
 {
   "startTime": 1744302697177,
-  "endTime": 1744305721531,
+  "endTime": 1744306790042,
   "band_list": [
     {
       "raw_hot": 1275101,
@@ -275,6 +275,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 111821,
+      "num": 136149,
+      "word": "外交部回应为何提醒公民谨慎赴美",
+      "onboard_time": 1744304717,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 109919,
       "num": 109919,
       "word": "美贸易代表被嘲未提前知晓关税调整",
@@ -419,12 +427,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 34779,
-      "num": 136149,
-      "word": "外交部回应为何提醒公民谨慎赴美",
-      "onboard_time": 1744304717,
-      "rank": 14,
-      "category": "国内时政"
+      "raw_hot": 36482,
+      "num": 36482,
+      "word": "多米尼加俱乐部坍塌已致218死",
+      "onboard_time": 1744305976,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 32821,
+      "num": 32821,
+      "word": "AL战胜BLG",
+      "onboard_time": 1744295303,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 32802,
@@ -435,12 +451,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 32304,
+      "num": 32304,
+      "word": "腾讯视频Q2预排",
+      "onboard_time": 1744289302,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 23540,
       "num": 82829,
       "word": "上合组织成员国坚定维护多边贸易体制",
       "onboard_time": 1744292721,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 18577,
+      "num": 110267,
+      "word": "大风来袭要注意什么",
+      "onboard_time": 1744304837,
+      "rank": 11,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
