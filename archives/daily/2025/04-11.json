@@ -1,0 +1,411 @@
+{
+  "startTime": 1744302697177,
+  "endTime": 1744302697177,
+  "band_list": [
+    {
+      "raw_hot": 1275101,
+      "num": 1275101,
+      "word": "周六 不出门",
+      "onboard_time": 1744287502,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 769082,
+      "num": 262985,
+      "word": "短剧疑似AI换脸热巴",
+      "onboard_time": 1744294463,
+      "rank": 10,
+      "category": "互联网,艺人"
+    },
+    {
+      "raw_hot": 652492,
+      "num": 652492,
+      "word": "美国大型科技企业将成为反制目标",
+      "onboard_time": 1744298903,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 648945,
+      "num": 648945,
+      "word": "张嘉倪营业了",
+      "onboard_time": 1744293143,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 632840,
+      "num": 257839,
+      "word": "特朗普家族几天获利300亿美元",
+      "onboard_time": 1744275443,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 453945,
+      "num": 255463,
+      "word": "张凌赫曾胖到200斤同学认不出",
+      "onboard_time": 1744300821,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 421124,
+      "num": 253786,
+      "word": "文明办回应上海地铁男子猥亵女性",
+      "onboard_time": 1744294524,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 381688,
+      "num": 381688,
+      "word": "北京大风天坐地铁注意了",
+      "onboard_time": 1744298064,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 374434,
+      "num": 252593,
+      "word": "张檬想40岁前要二胎",
+      "onboard_time": 1744297703,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 347302,
+      "num": 250335,
+      "word": "何秋亊直播",
+      "onboard_time": 1744298542,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 335719,
+      "num": 335719,
+      "word": "外交部回应美对华征收125%关税",
+      "onboard_time": 1744271362,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 318829,
+      "num": 318829,
+      "word": "10级狂风堪比台风过境",
+      "onboard_time": 1744285102,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 317709,
+      "num": 317709,
+      "word": "关税战是否还会继续升级",
+      "onboard_time": 1744301061,
+      "rank": 7,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 297419,
+      "num": 242919,
+      "word": "iPhone16回收价已涨300元",
+      "onboard_time": 1744282702,
+      "rank": 20,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 281031,
+      "num": 248262,
+      "word": "国家电影局发声",
+      "onboard_time": 1744292963,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 258827,
+      "num": 258827,
+      "word": "对美所有进口商品关税再提高50%",
+      "onboard_time": 1744197084,
+      "rank": 11,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 242387,
+      "num": 242387,
+      "word": "终于知道为何女厕总有一格打不开了",
+      "onboard_time": 1744298243,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 235981,
+      "num": 235981,
+      "word": "瘦了36斤才敢说的减肥大实话",
+      "onboard_time": 1744297645,
+      "rank": 22,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 215590,
+      "num": 215590,
+      "word": "八段锦每一个动作都是药",
+      "onboard_time": 1744297645,
+      "rank": 23,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 202015,
+      "num": 650540,
+      "word": "中国不接受施压威胁讹诈",
+      "onboard_time": 1744292484,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 196732,
+      "num": 284126,
+      "word": "香港演员谷峰去世",
+      "onboard_time": 1744297645,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 182162,
+      "num": 182162,
+      "word": "小英变美了",
+      "onboard_time": 1744296864,
+      "rank": 24,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 181488,
+      "num": 246083,
+      "word": "新说唱选手还原严浩翔淘汰阿尔曼",
+      "onboard_time": 1744292363,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 163716,
+      "num": 245609,
+      "word": "李荣浩石家庄演唱会",
+      "onboard_time": 1744298843,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 155919,
+      "num": 155919,
+      "word": "男子2400万买房儿媳离婚分走1500万",
+      "onboard_time": 1744284682,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154469,
+      "num": 154469,
+      "word": "北京发布大风应对措施",
+      "onboard_time": 1744293684,
+      "rank": 26,
+      "category": "民生新闻,科学科普"
+    },
+    {
+      "raw_hot": 144408,
+      "num": 144408,
+      "word": "伊能静回应浪姐第一季妈味很重",
+      "onboard_time": 1744301961,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 138922,
+      "num": 138922,
+      "word": "吴宣仪运气",
+      "onboard_time": 1744296205,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 135460,
+      "num": 135460,
+      "word": "你男朋友可能喜欢你",
+      "onboard_time": 1744299023,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 131236,
+      "num": 131236,
+      "word": "多家国内航司将座椅更换成轻薄型",
+      "onboard_time": 1744298483,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127032,
+      "num": 127032,
+      "word": "Celine酒会上的刘诗诗",
+      "onboard_time": 1744291762,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 124383,
+      "num": 124383,
+      "word": "陈哲远拍了歪头wink",
+      "onboard_time": 1744301121,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 113481,
+      "num": 113481,
+      "word": "对美加征84%关税开始执行",
+      "onboard_time": 1744258463,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 109919,
+      "num": 109919,
+      "word": "美贸易代表被嘲未提前知晓关税调整",
+      "onboard_time": 1744290322,
+      "rank": 35,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 109352,
+      "num": 109352,
+      "word": "适度减少美国影片进口数",
+      "onboard_time": 1744281083,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 107231,
+      "num": 136761,
+      "word": "沈月 非凡女性艺术之夜",
+      "onboard_time": 1744298963,
+      "rank": 29,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 106994,
+      "num": 106994,
+      "word": "男子婚后发现妻子4年结过3次婚",
+      "onboard_time": 1744292122,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106846,
+      "num": 106846,
+      "word": "安踏拟2.9亿美元收购狼爪",
+      "onboard_time": 1744285943,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 94584,
+      "num": 94584,
+      "word": "澳门世界杯4月13日抽签",
+      "onboard_time": 1744300282,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 88127,
+      "num": 88127,
+      "word": "中国电影市场坚持高水平对外开放",
+      "onboard_time": 1744288703,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 82144,
+      "num": 82144,
+      "word": "李晟罗予彤两个辣妹子晕辣了",
+      "onboard_time": 1744298423,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 81932,
+      "num": 81932,
+      "word": "黄晓明晒增肥减肥对比照",
+      "onboard_time": 1744277541,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 80071,
+      "num": 80071,
+      "word": "苏新皓这个房间昨天我清理了好久",
+      "onboard_time": 1744302021,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 77607,
+      "num": 77607,
+      "word": "北京将出现陆地罕见极端大风",
+      "onboard_time": 1744265124,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76216,
+      "num": 76216,
+      "word": "陈都灵成都",
+      "onboard_time": 1744289604,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 75863,
+      "num": 75863,
+      "word": "36岁梁洛施状态",
+      "onboard_time": 1744285342,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 74048,
+      "num": 74048,
+      "word": "被拼多多百元跑鞋震惊了",
+      "onboard_time": 1744282882,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 73463,
+      "num": 73463,
+      "word": "丁香新韵诗动青春",
+      "onboard_time": 1744301661,
+      "rank": 48,
+      "category": "读书作家"
+    },
+    {
+      "raw_hot": 65453,
+      "num": 65453,
+      "word": "外交部回应美对华船只征收港口停靠费",
+      "onboard_time": 1744293504,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 51663,
+      "num": 264672,
+      "word": "京津冀大风橙色预警",
+      "onboard_time": 1744302260,
+      "rank": 9,
+      "category": "民生新闻"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#中央周边工作会议在北京举行#"
+    }
+  ]
+}
