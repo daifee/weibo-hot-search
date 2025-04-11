@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1744353251634,
+  "endTime": 1744354061141,
   "band_list": [
     {
       "raw_hot": 18779562,
@@ -521,6 +521,14 @@
       "onboard_time": 1744032264,
       "rank": 32,
       "category": "网红,作品衍生"
+    },
+    {
+      "raw_hot": 1557276,
+      "num": 1557276,
+      "word": "北京大风",
+      "onboard_time": 1744353143,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1549147,
@@ -3747,6 +3755,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 420687,
+      "num": 243743,
+      "word": "乌合麒麟超神插画",
+      "onboard_time": 1744353442,
+      "rank": 30,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 420549,
       "num": 310772,
       "word": "胡烨韬第三名",
@@ -3808,6 +3824,14 @@
       "word": "入住新房18天水费交了39390元",
       "onboard_time": 1744004483,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 415620,
+      "num": 484912,
+      "word": "这五类电话号码不要接",
+      "onboard_time": 1744351582,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -4481,14 +4505,6 @@
       "onboard_time": 1743935241,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 357084,
-      "num": 484912,
-      "word": "这五类电话号码不要接",
-      "onboard_time": 1744351582,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 356305,
@@ -5249,6 +5265,14 @@
       "onboard_time": 1744248444,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 304182,
+      "num": 304182,
+      "word": "马思纯张曼乐 大理",
+      "onboard_time": 1744353082,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 304109,
@@ -6099,6 +6123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 267534,
+      "num": 267534,
+      "word": "Prada正式收购范思哲",
+      "onboard_time": 1744350201,
+      "rank": 33,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 266834,
       "num": 306229,
       "word": "张峻豪求粉丝关灯牌",
@@ -6507,14 +6539,6 @@
       "category": "国内时政,财经"
     },
     {
-      "raw_hot": 253283,
-      "num": 253283,
-      "word": "Prada正式收购范思哲",
-      "onboard_time": 1744350201,
-      "rank": 33,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 252729,
       "num": 252729,
       "word": "42岁孙俪特别不喜欢少女感这个词",
@@ -6571,6 +6595,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 249533,
+      "num": 249533,
+      "word": "好友发文悼念健身博主马章浩",
+      "onboard_time": 1744352482,
+      "rank": 36,
+      "category": "网红"
+    },
+    {
       "raw_hot": 249496,
       "num": 264552,
       "word": "任豪在创造营帅回主场了",
@@ -6585,6 +6617,14 @@
       "onboard_time": 1743986601,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 249243,
+      "num": 267550,
+      "word": "te溯",
+      "onboard_time": 1744353622,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 248854,
@@ -7251,14 +7291,6 @@
       "category": "网红,艺人"
     },
     {
-      "raw_hot": 226231,
-      "num": 226231,
-      "word": "好友发文悼念健身博主马章浩",
-      "onboard_time": 1744352482,
-      "rank": 36,
-      "category": "网红"
-    },
-    {
       "raw_hot": 226116,
       "num": 226116,
       "word": "村委会称去世驴友吃完面突然倒地",
@@ -7409,14 +7441,6 @@
       "onboard_time": 1744273943,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 221349,
-      "num": 221349,
-      "word": "北京大风",
-      "onboard_time": 1744353143,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 221273,
@@ -9019,6 +9043,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 192237,
+      "num": 192237,
+      "word": "夏之光 男狐狸",
+      "onboard_time": 1744353262,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192049,
       "num": 192049,
       "word": "白鹿李佩仪今日杀青",
@@ -9073,6 +9105,14 @@
       "onboard_time": 1744064416,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 191488,
+      "num": 191488,
+      "word": "科学家发现生育会永久改变女性骨骼",
+      "onboard_time": 1744352661,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 191460,
@@ -9281,14 +9321,6 @@
       "onboard_time": 1743906741,
       "rank": 27,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 188433,
-      "num": 188433,
-      "word": "科学家发现生育会永久改变女性骨骼",
-      "onboard_time": 1744352661,
-      "rank": 43,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 188112,
@@ -9592,14 +9624,6 @@
       "word": "张杰今天一直在彩排",
       "onboard_time": 1744294884,
       "rank": 48,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 183971,
-      "num": 183971,
-      "word": "马思纯张曼乐 大理",
-      "onboard_time": 1744353082,
-      "rank": 45,
       "category": "艺人"
     },
     {
@@ -10153,6 +10177,14 @@
       "onboard_time": 1744262904,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175844,
+      "num": 175844,
+      "word": "加拿大总理称要给美国造成最大痛苦",
+      "onboard_time": 1744353741,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 175797,
@@ -11704,6 +11736,14 @@
       "word": "现场体验10级大风是什么感受",
       "onboard_time": 1744342762,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152161,
+      "num": 152161,
+      "word": "无手女孩换卫生巾有多难",
+      "onboard_time": 1744353981,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -16307,6 +16347,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 62770,
+      "num": 427680,
+      "word": "法国人开始抵制可口可乐和麦当劳",
+      "onboard_time": 1744353622,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 62715,
       "num": 426970,
       "word": "给流浪猫社区安家会带来多少问题",
@@ -17185,6 +17233,14 @@
       "onboard_time": 1744172844,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37452,
+      "num": 352709,
+      "word": "美关税政策是最严重经济自残",
+      "onboard_time": 1744352902,
+      "rank": 21,
+      "category": "国际时政"
     },
     {
       "raw_hot": 37190,
@@ -18073,14 +18129,6 @@
       "onboard_time": 1744304837,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18340,
-      "num": 326394,
-      "word": "美关税政策是最严重经济自残",
-      "onboard_time": 1744352902,
-      "rank": 21,
-      "category": "国际时政"
     },
     {
       "raw_hot": 18269,
