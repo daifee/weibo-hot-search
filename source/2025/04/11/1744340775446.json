@@ -1,0 +1,410 @@
+{
+  "runTime": 1744340775446,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1481554,
+        "num": 1481554,
+        "word": "特朗普大厦里几乎都是中国制造",
+        "onboard_time": 1744334482,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1160359,
+        "num": 1160359,
+        "word": "全红婵坐郭晶晶怀里",
+        "onboard_time": 1744337901,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118758,
+        "num": 1145157,
+        "word": "美关税讹诈严重扰乱全球产供链稳定",
+        "onboard_time": 1744339881,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1138387,
+        "num": 1138387,
+        "word": "男子造谣地铁猥亵案2当事人相识",
+        "onboard_time": 1744336762,
+        "rank": 3,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1110929,
+        "num": 1110929,
+        "word": "美俄达成谅解",
+        "onboard_time": 1744333103,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 830150,
+        "num": 830150,
+        "word": "26岁河南男生因双向抑郁意外早逝",
+        "onboard_time": 1744336942,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 676376,
+        "num": 676376,
+        "word": "周六 不出门",
+        "onboard_time": 1744287502,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 614009,
+        "num": 614009,
+        "word": "折腰",
+        "onboard_time": 1744336882,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 561888,
+        "num": 561888,
+        "word": "马章浩溺水",
+        "onboard_time": 1744337001,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 492386,
+        "num": 492386,
+        "word": "对美所有进口商品关税再提高50%",
+        "onboard_time": 1744197084,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 960077,
+        "num": 478268,
+        "word": "晚晚老公",
+        "onboard_time": 1744333162,
+        "rank": 10,
+        "category": "网红,剧集"
+      },
+      {
+        "raw_hot": 676070,
+        "num": 478080,
+        "word": "虞书欣王鹤棣疑似坐同款位置",
+        "onboard_time": 1744327820,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 464075,
+        "num": 464075,
+        "word": "大风",
+        "onboard_time": 1744336041,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 461473,
+        "num": 461473,
+        "word": "上海辟谣地铁猥亵事件当事人相识",
+        "onboard_time": 1744339402,
+        "rank": 13,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 405155,
+        "num": 405155,
+        "word": "叶童说即使不完美也是特别的美",
+        "onboard_time": 1744339161,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 404061,
+        "num": 404061,
+        "word": "金价继续飙涨",
+        "onboard_time": 1744338862,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 391013,
+        "num": 391013,
+        "word": "羽西 肖战",
+        "onboard_time": 1744338024,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 381630,
+        "num": 381630,
+        "word": "国家承认的唯一的防晒执行标准",
+        "onboard_time": 1744330162,
+        "rank": 17,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 290572,
+        "num": 290572,
+        "word": "孟子义李昀锐录音室花絮照",
+        "onboard_time": 1744336582,
+        "rank": 18,
+        "category": "音乐,艺人"
+      },
+      {
+        "raw_hot": 230096,
+        "num": 265728,
+        "word": "厂家回应黄子韬卫生巾工厂进展",
+        "onboard_time": 1744339102,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1805961,
+        "num": 265004,
+        "word": "地铁猥亵事件中挺身而出女性未找到",
+        "onboard_time": 1744335742,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 324961,
+        "num": 263464,
+        "word": "上海地铁",
+        "onboard_time": 1744332743,
+        "rank": 21,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 260912,
+        "num": 260912,
+        "word": "网友称安踏快垄断运动品牌了",
+        "onboard_time": 1744338862,
+        "rank": 22,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 259170,
+        "num": 259170,
+        "word": "湖北省考成绩",
+        "onboard_time": 1744337361,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 245085,
+        "num": 245085,
+        "word": "上半年最好的离职时间是6月16日",
+        "onboard_time": 1744339881,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 54249,
+        "num": 243798,
+        "word": "勇士关键时刻4次判罚获利",
+        "onboard_time": 1744334122,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 243707,
+        "num": 243707,
+        "word": "达芬奇都调不出菏泽牡丹的美",
+        "onboard_time": 1744337361,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144933,
+        "num": 238542,
+        "word": "王一博克莱因蓝色系造型",
+        "onboard_time": 1744339282,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142894,
+        "num": 232391,
+        "word": "沈月 古装剧本",
+        "onboard_time": 1744335923,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138648,
+        "num": 230019,
+        "word": "任嘉伦36岁生贺图",
+        "onboard_time": 1744339583,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48949,
+        "num": 220208,
+        "word": "人体器官衰老有时间规律吗",
+        "onboard_time": 1744340601,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 217752,
+        "num": 217752,
+        "word": "马斯克炮轰特朗普贸易高级顾问",
+        "onboard_time": 1744328422,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 207650,
+        "num": 207650,
+        "word": "10级狂风堪比台风过境",
+        "onboard_time": 1744285102,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104447,
+        "num": 202279,
+        "word": "现货黄金首次冲破3200美元大关",
+        "onboard_time": 1744340423,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 201059,
+        "num": 201059,
+        "word": "29岁抗癌博主橙子直肠癌去世",
+        "onboard_time": 1744328422,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186977,
+        "num": 186977,
+        "word": "父亲离世前对AI说我要去世了豆包",
+        "onboard_time": 1744307116,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170085,
+        "num": 170085,
+        "word": "这风真懂事 一点也不耽误周一上班",
+        "onboard_time": 1744331425,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154214,
+        "num": 154214,
+        "word": "想拍撕拉片",
+        "onboard_time": 1744340541,
+        "rank": 37,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 151443,
+        "num": 151443,
+        "word": "男子不会游泳被朋友激将下水溺亡",
+        "onboard_time": 1744332804,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76716,
+        "num": 145351,
+        "word": "美国股债汇三杀再现",
+        "onboard_time": 1744337542,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 142241,
+        "num": 142241,
+        "word": "短剧疑似AI换脸热巴",
+        "onboard_time": 1744294463,
+        "rank": 40,
+        "category": "互联网,艺人"
+      },
+      {
+        "raw_hot": 134795,
+        "num": 134795,
+        "word": "瘦了36斤才敢说的减肥大实话",
+        "onboard_time": 1744297645,
+        "rank": 41,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 133732,
+        "num": 133732,
+        "word": "张嘉倪营业了",
+        "onboard_time": 1744293143,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131647,
+        "num": 131647,
+        "word": "关税战是否还会继续升级",
+        "onboard_time": 1744301061,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 129223,
+        "num": 129223,
+        "word": "王一博荣获法国大奖",
+        "onboard_time": 1744330823,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126327,
+        "num": 126327,
+        "word": "美债",
+        "onboard_time": 1744340722,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 121685,
+        "num": 121685,
+        "word": "中国不接受施压威胁讹诈",
+        "onboard_time": 1744292484,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 120065,
+        "num": 120065,
+        "word": "Kkoma向Gumayusi道歉",
+        "onboard_time": 1744338921,
+        "rank": 47,
+        "category": "游戏,电竞"
+      },
+      {
+        "raw_hot": 117801,
+        "num": 117801,
+        "word": "射雕全网上线",
+        "onboard_time": 1744340722,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 117063,
+        "num": 117063,
+        "word": "美国纽约一直升机坠河6人死亡",
+        "onboard_time": 1744327521,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#以八项规定催发更深层次的化学反应#"
+    }
+  }
+}
