@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1744386023812,
+  "endTime": 1744389070116,
   "band_list": [
     {
       "raw_hot": 18779562,
@@ -1336,6 +1336,14 @@
       "word": "反诈老陈年收入降到31万",
       "onboard_time": 1744371086,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1094148,
+      "num": 1094148,
+      "word": "义乌老板娘霸气喊话美国客户",
+      "onboard_time": 1744385063,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -3851,6 +3859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 454885,
+      "num": 334720,
+      "word": "法老被Mac删除好友",
+      "onboard_time": 1744387342,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 454806,
       "num": 454806,
       "word": "饿鬼模式瘦了15斤",
@@ -4017,14 +4033,6 @@
       "onboard_time": 1744024762,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 436222,
-      "num": 436222,
-      "word": "义乌老板娘霸气喊话美国客户",
-      "onboard_time": 1744385063,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 434304,
@@ -4321,6 +4329,14 @@
       "onboard_time": 1743859102,
       "rank": 4,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 408239,
+      "num": 408239,
+      "word": "门头沟一地阵风13级",
+      "onboard_time": 1744384824,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 407410,
@@ -5281,6 +5297,14 @@
       "onboard_time": 1744166481,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 335155,
+      "num": 335155,
+      "word": "汪苏泷真瘦了",
+      "onboard_time": 1744385125,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 335018,
@@ -6465,14 +6489,6 @@
       "onboard_time": 1744341981,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 279279,
-      "num": 279279,
-      "word": "汪苏泷真瘦了",
-      "onboard_time": 1744385125,
-      "rank": 32,
-      "category": "演出"
     },
     {
       "raw_hot": 279260,
@@ -7923,14 +7939,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 228337,
-      "num": 228337,
-      "word": "门头沟一地阵风13级",
-      "onboard_time": 1744384824,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 228211,
       "num": 1093140,
       "word": "TizzyT很荣幸成为你的跳板",
@@ -9097,6 +9105,14 @@
       "onboard_time": 1744083803,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 204661,
+      "num": 204661,
+      "word": "韩国女刊封面上的华语星光",
+      "onboard_time": 1744387404,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 204594,
@@ -11387,6 +11403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172701,
+      "num": 695804,
+      "word": "中国不会刻意为难美国电影行业",
+      "onboard_time": 1744385244,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 172556,
       "num": 172556,
       "word": "滤镜研讨会",
@@ -12059,6 +12083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 162129,
+      "num": 800963,
+      "word": "王毅说美国不能任意妄为",
+      "onboard_time": 1744384343,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 161671,
       "num": 161671,
       "word": "河南申论 压分",
@@ -12683,6 +12715,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 153878,
+      "num": 153878,
+      "word": "汪苏泷就让这大雨落下具象化",
+      "onboard_time": 1744388362,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 153827,
       "num": 465865,
       "word": "张凌赫推荐碳水循环减肥法",
@@ -13171,6 +13211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147548,
+      "num": 147548,
+      "word": "值得爱",
+      "onboard_time": 1744042461,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147445,
       "num": 309520,
       "word": "金饰价一夜反弹9元",
@@ -13313,14 +13361,6 @@
       "onboard_time": 1744079542,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 145393,
-      "num": 800963,
-      "word": "王毅说美国不能任意妄为",
-      "onboard_time": 1744384343,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 145360,
@@ -14009,14 +14049,6 @@
       "onboard_time": 1744032204,
       "rank": 47,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 135884,
-      "num": 135884,
-      "word": "值得爱",
-      "onboard_time": 1744042461,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 135466,
@@ -15603,6 +15635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113006,
+      "num": 113006,
+      "word": "代号鸢",
+      "onboard_time": 1744387704,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 112446,
       "num": 112446,
       "word": "千秋令",
@@ -15633,14 +15673,6 @@
       "onboard_time": 1743931881,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 112018,
-      "num": 695804,
-      "word": "中国不会刻意为难美国电影行业",
-      "onboard_time": 1744385244,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 111682,
@@ -16843,6 +16875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 84163,
+      "num": 84163,
+      "word": "性教育被语文老师讲明白了",
+      "onboard_time": 1744389020,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83809,
       "num": 83809,
       "word": "深圳人为姥爷拍了拍23个地铁站名",
@@ -17089,6 +17129,14 @@
       "onboard_time": 1744275200,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 76896,
+      "num": 339069,
+      "word": "美国政府滥施关税拖累好莱坞",
+      "onboard_time": 1744386084,
+      "rank": 10,
+      "category": "国际时政"
     },
     {
       "raw_hot": 76849,
@@ -17417,6 +17465,14 @@
       "onboard_time": 1744197325,
       "rank": 28,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 68953,
+      "num": 205559,
+      "word": "北京全市阵风普遍达8级以上",
+      "onboard_time": 1744387943,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 68832,
@@ -19945,6 +20001,14 @@
       "onboard_time": 1744310955,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 13093,
+      "num": 153194,
+      "word": "邓亚萍亮相乌镇健康大会",
+      "onboard_time": 1744387583,
+      "rank": 29,
+      "category": "体育,健康医疗"
     },
     {
       "raw_hot": 13063,

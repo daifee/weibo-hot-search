@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/11 23:40:23
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/12 00:31:10
 </p>
 </blockquote>
 <p>
@@ -1673,6 +1673,12 @@ DeepSeek7小时攻克缅甸救灾语言关（热度：1104741）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BA%AB%E4%B8%8A%E5%A4%9A%E5%A4%84%E8%A2%AB%E7%83%A4%E7%86%9F%E7%9A%84%E9%B9%85%E5%9D%9A%E5%BC%BA%E5%B7%B2%E8%83%BD%E8%BF%9B%E9%A3%9F%23" target="weibo">
 身上多处被烤熟的鹅坚强已能进食（热度：1098033）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%89%E4%B9%8C%E8%80%81%E6%9D%BF%E5%A8%98%E9%9C%B8%E6%B0%94%E5%96%8A%E8%AF%9D%E7%BE%8E%E5%9B%BD%E5%AE%A2%E6%88%B7%23" target="weibo">
+义乌老板娘霸气喊话美国客户（热度：1094148）
 </a>
 </li>
 
@@ -4989,6 +4995,12 @@ hanbi公开（热度：468837）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B3%95%E8%80%81%E8%A2%ABMac%E5%88%A0%E9%99%A4%E5%A5%BD%E5%8F%8B%23" target="weibo">
+法老被Mac删除好友（热度：454885）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A5%BF%E9%AC%BC%E6%A8%A1%E5%BC%8F%E7%98%A6%E4%BA%8615%E6%96%A4%23" target="weibo">
 饿鬼模式瘦了15斤（热度：454806）
 </a>
@@ -5207,12 +5219,6 @@ Hamin公开（热度：442270）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E7%9C%81%E8%80%83%E6%88%90%E7%BB%A9%23" target="weibo">
 广东省考成绩（热度：437223）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%89%E4%B9%8C%E8%80%81%E6%9D%BF%E5%A8%98%E9%9C%B8%E6%B0%94%E5%96%8A%E8%AF%9D%E7%BE%8E%E5%9B%BD%E5%AE%A2%E6%88%B7%23" target="weibo">
-义乌老板娘霸气喊话美国客户（热度：436222）
 </a>
 </li>
 
@@ -5573,6 +5579,12 @@ NINEPERCENT七周年（热度：415549）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B2%E4%BA%A2%E5%93%A5%E6%B0%B4%E7%81%B5%E7%81%B5%E5%9C%B0%E8%A2%AB%E6%B7%B1%E5%9C%B3%E4%BA%A4%E8%AD%A6%E8%AD%A6%E5%91%8A%E4%BA%86%23" target="weibo">
 甲亢哥水灵灵地被深圳交警警告了（热度：409581）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%97%A8%E5%A4%B4%E6%B2%9F%E4%B8%80%E5%9C%B0%E9%98%B5%E9%A3%8E13%E7%BA%A7%23" target="weibo">
+门头沟一地阵风13级（热度：408239）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ EXO直播（热度：382852）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%A4%A7%E9%A3%8E%E5%A4%A9%E5%9D%90%E5%9C%B0%E9%93%81%E6%B3%A8%E6%84%8F%E4%BA%86%23" target="weibo">
 北京大风天坐地铁注意了（热度：381688）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%90%9C%E6%95%91%E7%8A%AC%E5%9C%A8%E7%BC%85%E7%94%B8%E5%90%83%E5%86%B0%E9%99%8D%E6%B8%A9%23" target="weibo">
-中国搜救犬在缅甸吃冰降温（热度：381563）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%B0%88%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C%23" target="weibo">
-特朗普谈股市暴跌（热度：381491）
 </a>
 </li>
 
