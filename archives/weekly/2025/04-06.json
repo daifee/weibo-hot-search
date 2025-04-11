@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1744356253016,
+  "endTime": 1744357051128,
   "band_list": [
     {
       "raw_hot": 18779562,
@@ -729,6 +729,14 @@
       "onboard_time": 1744345764,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1402876,
+      "num": 1402876,
+      "word": "乌合麒麟新作就不跪",
+      "onboard_time": 1744353442,
+      "rank": 10,
+      "category": "动漫"
     },
     {
       "raw_hot": 1402772,
@@ -1601,14 +1609,6 @@
       "onboard_time": 1744087704,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 889687,
-      "num": 553154,
-      "word": "乌合麒麟新作就不跪",
-      "onboard_time": 1744353442,
-      "rank": 10,
-      "category": "动漫"
     },
     {
       "raw_hot": 886031,
@@ -2491,6 +2491,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 628597,
+      "num": 628597,
+      "word": "金饰价格涨破1000元",
+      "onboard_time": 1744355423,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 625744,
       "num": 397294,
       "word": "王祖蓝妹妹结婚",
@@ -2859,6 +2867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 541589,
+      "num": 585164,
+      "word": "美网民发现中国制造太重要了",
+      "onboard_time": 1744354942,
+      "rank": 16,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 540868,
       "num": 540868,
       "word": "黄金",
@@ -2907,6 +2923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 538054,
+      "num": 560050,
+      "word": "中国从来不吃这一套",
+      "onboard_time": 1744355061,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 537703,
       "num": 537703,
       "word": "这五类电话号码不要接",
@@ -2937,6 +2961,14 @@
       "onboard_time": 1744240581,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 532838,
+      "num": 532838,
+      "word": "气氛烘托到这了 风到哪了",
+      "onboard_time": 1744356200,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 531212,
@@ -3987,12 +4019,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 403096,
+      "num": 403096,
+      "word": "VaVa 难怪队长都想抢她",
+      "onboard_time": 1744354881,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 402904,
       "num": 402904,
       "word": "大跌的美股可能尚未见底",
       "onboard_time": 1744004902,
       "rank": 8,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 402030,
+      "num": 402030,
+      "word": "可复美",
+      "onboard_time": 1744354581,
+      "rank": 34,
+      "category": "美妆"
     },
     {
       "raw_hot": 401866,
@@ -4251,28 +4299,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 383231,
-      "num": 297758,
-      "word": "气氛烘托到这了 风到哪了",
-      "onboard_time": 1744356200,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 382852,
       "num": 382852,
       "word": "EXO直播",
       "onboard_time": 1744113142,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 382258,
-      "num": 560050,
-      "word": "中国从来不吃这一套",
-      "onboard_time": 1744355061,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 382212,
@@ -4545,14 +4577,6 @@
       "onboard_time": 1744156102,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 359352,
-      "num": 359352,
-      "word": "美网民发现中国制造太重要了",
-      "onboard_time": 1744354942,
-      "rank": 16,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 358786,
@@ -4979,14 +5003,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 326436,
-      "num": 326436,
-      "word": "金饰价格涨破1000元",
-      "onboard_time": 1744355423,
-      "rank": 18,
-      "category": "财经"
-    },
-    {
       "raw_hot": 326330,
       "num": 326329,
       "word": "骗子被骗收到5万冥币当场破防",
@@ -5017,14 +5033,6 @@
       "onboard_time": 1744115121,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 321208,
-      "num": 321208,
-      "word": "VaVa 难怪队长都想抢她",
-      "onboard_time": 1744354881,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 321101,
@@ -5283,6 +5291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 308245,
+      "num": 308245,
+      "word": "甲亢哥开启蒙古行也直呼中文冷静",
+      "onboard_time": 1744355423,
+      "rank": 27,
+      "category": "网红,民生新闻"
+    },
+    {
       "raw_hot": 308009,
       "num": 481004,
       "word": "孙俪做什么事情都是10年起步",
@@ -5385,6 +5401,14 @@
       "onboard_time": 1744330823,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 303572,
+      "num": 303572,
+      "word": "中国西班牙全面战略伙伴关系20周年",
+      "onboard_time": 1744354822,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 303464,
@@ -5507,14 +5531,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 298136,
-      "num": 298136,
-      "word": "甲亢哥开启蒙古行也直呼中文冷静",
-      "onboard_time": 1744355423,
-      "rank": 27,
-      "category": "网红,民生新闻"
-    },
-    {
       "raw_hot": 298120,
       "num": 298120,
       "word": "雅漾 樊振东",
@@ -5523,28 +5539,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 297638,
-      "num": 297638,
-      "word": "中国西班牙全面战略伙伴关系20周年",
-      "onboard_time": 1744354822,
-      "rank": 33,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 297009,
       "num": 343013,
       "word": "哪吒2票房突破156亿",
       "onboard_time": 1744175664,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 296413,
-      "num": 296413,
-      "word": "可复美",
-      "onboard_time": 1744354581,
-      "rank": 34,
-      "category": "美妆"
     },
     {
       "raw_hot": 296351,
@@ -5881,6 +5881,14 @@
       "onboard_time": 1744290262,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 284339,
+      "num": 284339,
+      "word": "天津大风",
+      "onboard_time": 1744355183,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 283971,
@@ -6585,14 +6593,6 @@
       "onboard_time": 1744010182,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 254479,
-      "num": 254479,
-      "word": "天津大风",
-      "onboard_time": 1744355183,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 254195,
@@ -7401,6 +7401,14 @@
       "onboard_time": 1744188922,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 226513,
+      "num": 226513,
+      "word": "阿诺有非常严重的容貌焦虑",
+      "onboard_time": 1744356441,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 226310,
@@ -9099,6 +9107,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 193305,
+      "num": 193305,
+      "word": "夏之光 男狐狸",
+      "onboard_time": 1744353262,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193261,
       "num": 193261,
       "word": "让手机有玩缩力 字体设成楷体",
@@ -9169,14 +9185,6 @@
       "onboard_time": 1744271362,
       "rank": 30,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 192237,
-      "num": 192237,
-      "word": "夏之光 男狐狸",
-      "onboard_time": 1744353262,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 192049,
@@ -9721,6 +9729,14 @@
       "onboard_time": 1744178903,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 184715,
+      "num": 184715,
+      "word": "安徽省考出成绩",
+      "onboard_time": 1744356982,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 184665,
@@ -12292,7 +12308,7 @@
     },
     {
       "raw_hot": 145865,
-      "num": 318546,
+      "num": 527061,
       "word": "肖战羽西白玉防晒",
       "onboard_time": 1744355963,
       "rank": 23,
@@ -13569,6 +13585,14 @@
       "onboard_time": 1743946643,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128041,
+      "num": 297965,
+      "word": "男子称5万入股理发店像付钱打工",
+      "onboard_time": 1744355722,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127993,
@@ -15923,6 +15947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 76717,
+      "num": 232738,
+      "word": "乘风二公的本草纲目太幽默了",
+      "onboard_time": 1744356742,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 76464,
       "num": 360712,
       "word": "中国台湾加权指数开盘大涨9%",
@@ -16427,14 +16459,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 64369,
-      "num": 297965,
-      "word": "男子称5万入股理发店像付钱打工",
-      "onboard_time": 1744355722,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 64166,
       "num": 192922,
       "word": "值得爱反正结果都那样",
@@ -16865,6 +16889,14 @@
       "onboard_time": 1744133357,
       "rank": 25,
       "category": "财经"
+    },
+    {
+      "raw_hot": 52395,
+      "num": 402243,
+      "word": "白宫关税计算方式被指大错特错",
+      "onboard_time": 1744355661,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 52007,
@@ -17419,6 +17451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36823,
+      "num": 193317,
+      "word": "女性最全面的体检项目清单",
+      "onboard_time": 1744356742,
+      "rank": 39,
+      "category": "健康医疗,民生新闻"
+    },
+    {
       "raw_hot": 36727,
       "num": 516013,
       "word": "AI修复抗战英雄的模样",
@@ -17465,14 +17505,6 @@
       "onboard_time": 1744280304,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 34900,
-      "num": 322464,
-      "word": "白宫关税计算方式被指大错特错",
-      "onboard_time": 1744355661,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 34877,
@@ -18297,6 +18329,14 @@
       "onboard_time": 1744129279,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 18132,
+      "num": 191920,
+      "word": "美民众担忧物价飞涨",
+      "onboard_time": 1744356982,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 17206,

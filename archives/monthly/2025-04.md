@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/11 15:24:13
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/11 15:37:31
 </p>
 </blockquote>
 <p>
@@ -929,6 +929,12 @@ RedVelvet 解散（热度：1601334）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E5%8C%97%E5%A4%A7%E9%A3%8E%E4%B8%93%E5%AE%B6%E5%BB%BA%E8%AE%AE100%E6%96%A4%E4%BB%A5%E4%B8%8B%E4%B8%8D%E8%A6%81%E5%87%BA%E9%97%A8%23" target="weibo">
 华北大风专家建议100斤以下不要出门（热度：1404482）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%90%88%E9%BA%92%E9%BA%9F%E6%96%B0%E4%BD%9C%E5%B0%B1%E4%B8%8D%E8%B7%AA%23" target="weibo">
+乌合麒麟新作就不跪（热度：1402876）
 </a>
 </li>
 
@@ -2121,12 +2127,6 @@ SM新男团 撞名（热度：910464）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%90%88%E9%BA%92%E9%BA%9F%E6%96%B0%E4%BD%9C%E5%B0%B1%E4%B8%8D%E8%B7%AA%23" target="weibo">
-乌合麒麟新作就不跪（热度：889687）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%AD%E6%98%B1%E7%95%85%E9%A6%96%E9%83%A8%E5%8F%A4%E8%A3%85%E7%94%B7%E4%B8%BB%23" target="weibo">
 彭昱畅首部古装男主（热度：886031）
 </a>
@@ -3225,6 +3225,12 @@ Prada正式收购范思哲（热度：644741）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%A5%B0%E4%BB%B7%E6%A0%BC%E6%B6%A8%E7%A0%B41000%E5%85%83%23" target="weibo">
+金饰价格涨破1000元（热度：628597）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Daniel%E5%85%AC%E5%BC%80%23" target="weibo">
 Daniel公开（热度：626903）
 </a>
@@ -3849,6 +3855,12 @@ Songha公开（热度：554934）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E7%BD%91%E6%B0%91%E5%8F%91%E7%8E%B0%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E5%A4%AA%E9%87%8D%E8%A6%81%E4%BA%86%23" target="weibo">
+美网民发现中国制造太重要了（热度：541589）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%92%AF%E6%9B%BC0%E6%AF%944%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C%23" target="weibo">
 蒯曼0比4张本美和（热度：541426）
 </a>
@@ -3903,6 +3915,12 @@ Songha公开（热度：554934）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BB%8E%E6%9D%A5%E4%B8%8D%E5%90%83%E8%BF%99%E4%B8%80%E5%A5%97%23" target="weibo">
+中国从来不吃这一套（热度：538054）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%94%E7%B1%BB%E7%94%B5%E8%AF%9D%E5%8F%B7%E7%A0%81%E4%B8%8D%E8%A6%81%E6%8E%A5%23" target="weibo">
 这五类电话号码不要接（热度：537703）
 </a>
@@ -3929,6 +3947,12 @@ Songha公开（热度：554934）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E5%86%8D%E7%8A%AF%E4%B8%80%E6%AC%A1%E7%99%BE%E5%B9%B4%E5%89%8D%E7%9A%84%E9%94%99%E8%AF%AF%E5%90%97%23" target="weibo">
 特朗普要再犯一次百年前的错误吗（热度：534375）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B0%94%E6%B0%9B%E7%83%98%E6%89%98%E5%88%B0%E8%BF%99%E4%BA%86%20%E9%A3%8E%E5%88%B0%E5%93%AA%E4%BA%86%23" target="weibo">
+气氛烘托到这了 风到哪了（热度：532838）
 </a>
 </li>
 
@@ -5361,8 +5385,20 @@ NINEPERCENT七周年（热度：415549）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23VaVa%20%E9%9A%BE%E6%80%AA%E9%98%9F%E9%95%BF%E9%83%BD%E6%83%B3%E6%8A%A2%E5%A5%B9%23" target="weibo">
+VaVa 难怪队长都想抢她（热度：403096）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%B7%8C%E7%9A%84%E7%BE%8E%E8%82%A1%E5%8F%AF%E8%83%BD%E5%B0%9A%E6%9C%AA%E8%A7%81%E5%BA%95%23" target="weibo">
 大跌的美股可能尚未见底（热度：402904）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%AF%E5%A4%8D%E7%BE%8E%23" target="weibo">
+可复美（热度：402030）
 </a>
 </li>
 
@@ -5655,12 +5691,6 @@ A股走强（热度：387879）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B0%94%E6%B0%9B%E7%83%98%E6%89%98%E5%88%B0%E8%BF%99%E4%BA%86%20%E9%A3%8E%E5%88%B0%E5%93%AA%E4%BA%86%23" target="weibo">
-气氛烘托到这了 风到哪了（热度：383231）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23AI%E5%A4%8D%E5%8E%9F%E5%87%BA22%E5%B2%81%E7%83%88%E5%A3%AB%E7%9A%84%E6%A8%A1%E6%A0%B7%23" target="weibo">
 AI复原出22岁烈士的模样（热度：383185）
 </a>
@@ -5681,12 +5711,6 @@ AI复原出22岁烈士的模样（热度：383185）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23EXO%E7%9B%B4%E6%92%AD%23" target="weibo">
 EXO直播（热度：382852）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BB%8E%E6%9D%A5%E4%B8%8D%E5%90%83%E8%BF%99%E4%B8%80%E5%A5%97%23" target="weibo">
-中国从来不吃这一套（热度：382258）
 </a>
 </li>
 
@@ -5987,30 +6011,6 @@ deepseek崩了（热度：366398）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E9%81%87%E5%AE%B3%E5%9B%A0%E5%81%9C%E5%B0%B8%E8%B4%B9%E6%97%A0%E6%B3%95%E4%B8%8B%E8%91%AC%23" target="weibo">
 官方回应女子遇害因停尸费无法下葬（热度：365235）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E4%BC%9A%E6%9A%82%E5%81%9C%E5%85%B3%E7%A8%8E%E6%94%BF%E7%AD%96%23" target="weibo">
-特朗普称不会暂停关税政策（热度：364560）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%99%9F%E8%A2%AB%E5%8F%B6%E7%AB%A5%E9%80%89%E4%B8%AD%E7%9A%84%E5%8F%8D%E5%BA%94%23" target="weibo">
-李晟被叶童选中的反应（热度：364404）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E9%80%A0iPhone%E4%B8%80%E5%8F%B0%E8%A6%81%E5%8D%962.5%E4%B8%87%E5%85%83%23" target="weibo">
-美国造iPhone一台要卖2.5万元（热度：364314）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%AE%B6%E5%96%9D%E4%BA%94%E6%8C%87%E6%AF%9B%E6%A1%83%E7%85%B2%E9%B8%A1%E6%B1%A4%E4%B8%AD%E6%AF%922%E4%BA%BA%E8%BF%9BICU%23" target="weibo">
-全家喝五指毛桃煲鸡汤中毒2人进ICU（热度：364304）
 </a>
 </li>
 
