@@ -1,6 +1,6 @@
 {
   "startTime": 1744389070116,
-  "endTime": 1744404007269,
+  "endTime": 1744406569789,
   "band_list": [
     {
       "raw_hot": 1938262,
@@ -507,6 +507,14 @@
       "category": "综艺,综艺"
     },
     {
+      "raw_hot": 25628,
+      "num": 41150,
+      "word": "法老巡演官宣",
+      "onboard_time": 1744406174,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 24286,
       "num": 24286,
       "word": "米字贴窗",
@@ -547,12 +555,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 18346,
+      "num": 18346,
+      "word": "道家是怎么解释拍照不上相的",
+      "onboard_time": 1744405094,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 16242,
       "num": 21040,
       "word": "体重与抗风级的关系你了解吗",
       "onboard_time": 1744402934,
       "rank": 46,
       "category": "健康医疗,运动健身"
+    },
+    {
+      "raw_hot": 14729,
+      "num": 16326,
+      "word": "直击中东部大风强降温",
+      "onboard_time": 1744396935,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13093,
