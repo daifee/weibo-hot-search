@@ -1,6 +1,6 @@
 {
   "startTime": 1744389070116,
-  "endTime": 1744400167389,
+  "endTime": 1744403206096,
   "band_list": [
     {
       "raw_hot": 1938262,
@@ -507,6 +507,14 @@
       "category": "综艺,综艺"
     },
     {
+      "raw_hot": 24286,
+      "num": 24286,
+      "word": "米字贴窗",
+      "onboard_time": 1744400474,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24154,
       "num": 24154,
       "word": "王哲林胸部受伤",
@@ -537,6 +545,14 @@
       "onboard_time": 1744399755,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 16242,
+      "num": 20140,
+      "word": "体重与抗风级的关系你了解吗",
+      "onboard_time": 1744402934,
+      "rank": 46,
+      "category": "健康医疗,运动健身"
     },
     {
       "raw_hot": 13093,
