@@ -1,6 +1,6 @@
 {
   "startTime": 1744302697177,
-  "endTime": 1744381423469,
+  "endTime": 1744382544858,
   "band_list": [
     {
       "raw_hot": 15319037,
@@ -219,6 +219,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 1370872,
+      "num": 1370872,
+      "word": "盒马向中国外贸企业开放绿色通道",
+      "onboard_time": 1744378105,
+      "rank": 41,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1365904,
       "num": 1365904,
       "word": "美网民发现中国制造太重要了",
@@ -241,14 +249,6 @@
       "onboard_time": 1744337901,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1226758,
-      "num": 1226758,
-      "word": "盒马向中国外贸企业开放绿色通道",
-      "onboard_time": 1744378105,
-      "rank": 41,
-      "category": "互联网"
     },
     {
       "raw_hot": 1105383,
@@ -611,12 +611,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 534832,
+      "num": 534832,
+      "word": "男子捅伤同病房父子后跳楼身亡",
+      "onboard_time": 1744381105,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 532838,
       "num": 532838,
       "word": "气氛烘托到这了 风到哪了",
       "onboard_time": 1744356200,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 517065,
+      "num": 517065,
+      "word": "廊坊纪委调查三河商户招牌变色",
+      "onboard_time": 1744380864,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 507872,
@@ -633,6 +649,14 @@
       "onboard_time": 1744354463,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 494672,
+      "num": 744599,
+      "word": "徐克获金像奖终身成就奖",
+      "onboard_time": 1744377444,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 493411,
@@ -708,18 +732,10 @@
     },
     {
       "raw_hot": 451514,
-      "num": 451514,
+      "num": 517255,
       "word": "易烊千玺深圳",
       "onboard_time": 1744379003,
       "rank": 47,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 451017,
-      "num": 744599,
-      "word": "徐克获金像奖终身成就奖",
-      "onboard_time": 1744377444,
-      "rank": 9,
       "category": "电影"
     },
     {
@@ -899,6 +915,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 347424,
+      "num": 743696,
+      "word": "湖南一医院主任被举报隐匿6000万",
+      "onboard_time": 1744380264,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 347302,
       "num": 250335,
       "word": "何秋亊直播",
@@ -939,12 +963,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 323476,
-      "num": 323476,
+      "raw_hot": 326858,
+      "num": 326858,
       "word": "夏之光在北京坐地铁",
       "onboard_time": 1744378105,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 323111,
+      "num": 1614914,
+      "word": "以中国稳应对美国疯",
+      "onboard_time": 1744377383,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 320873,
@@ -1204,7 +1236,7 @@
     },
     {
       "raw_hot": 278837,
-      "num": 410683,
+      "num": 483388,
       "word": "梁伟铿王昶vs马丁菲克里",
       "onboard_time": 1744374144,
       "rank": 18,
@@ -1233,14 +1265,6 @@
       "onboard_time": 1744328841,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 263571,
-      "num": 1614914,
-      "word": "以中国稳应对美国疯",
-      "onboard_time": 1744377383,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 261007,
@@ -1579,6 +1603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 209788,
+      "num": 481786,
+      "word": "徐杰终于可以说晚安",
+      "onboard_time": 1744381284,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 209702,
       "num": 270997,
       "word": "无忧渡",
@@ -1697,14 +1729,6 @@
       "onboard_time": 1744342342,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 198311,
-      "num": 743696,
-      "word": "湖南一医院主任被举报隐匿6000万",
-      "onboard_time": 1744380264,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 197986,
@@ -2043,20 +2067,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 167156,
+      "num": 167156,
+      "word": "徐海乔海陆新剧卷出新高度",
+      "onboard_time": 1744381645,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 165923,
+      "num": 495412,
+      "word": "广东男篮2比1上海男篮",
+      "onboard_time": 1744381164,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165896,
       "num": 480062,
       "word": "人体器官衰老有时间规律吗",
       "onboard_time": 1744340601,
       "rank": 30,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 165085,
-      "num": 206328,
-      "word": "徐杰终于可以说晚安",
-      "onboard_time": 1744381284,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 163931,
@@ -2147,6 +2179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149318,
+      "num": 654249,
+      "word": "中国站出来是为了避免人类重回丛林世界",
+      "onboard_time": 1744381943,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 148436,
       "num": 148436,
       "word": "王力宏弹钢琴",
@@ -2225,6 +2265,14 @@
       "onboard_time": 1744301961,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 139338,
+      "num": 139338,
+      "word": "iG翻盘TES",
+      "onboard_time": 1744382364,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 138973,
@@ -2307,12 +2355,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 131027,
-      "num": 330375,
-      "word": "广东男篮2比1上海男篮",
-      "onboard_time": 1744381164,
-      "rank": 23,
-      "category": "体育"
+      "raw_hot": 131061,
+      "num": 131061,
+      "word": "前港姐冠军叶翠翠两度患抑郁症",
+      "onboard_time": 1744382004,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 130843,
@@ -2568,6 +2616,14 @@
       "word": "湖南多地有9至11级雷暴大风或龙卷",
       "onboard_time": 1744344803,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107311,
+      "num": 205790,
+      "word": "地铁猥亵事件男子公司称其被开除",
+      "onboard_time": 1744381462,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -3027,6 +3083,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 39035,
+      "num": 166445,
+      "word": "刘炜珊0比3桥本帆乃香",
+      "onboard_time": 1744382483,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 37452,
       "num": 352709,
       "word": "美关税政策是最严重经济自残",
@@ -3099,14 +3163,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 30466,
-      "num": 451093,
-      "word": "廊坊纪委调查三河商户招牌变色",
-      "onboard_time": 1744380864,
-      "rank": 14,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 29953,
       "num": 395380,
       "word": "投诉猫粮有问题却被要求先花五千检测",
@@ -3129,6 +3185,14 @@
       "onboard_time": 1744368743,
       "rank": 39,
       "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 25408,
+      "num": 204286,
+      "word": "任骏飞夺权被闫军驱逐",
+      "onboard_time": 1744382425,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 25308,
@@ -3225,14 +3289,6 @@
       "onboard_time": 1744356982,
       "rank": 42,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 16316,
-      "num": 347157,
-      "word": "男子捅伤同病房父子后跳楼身亡",
-      "onboard_time": 1744381105,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15692,
