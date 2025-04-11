@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/04/11 11:14:58
+本榜单时间：2025/01/01 00:26:38 ~ 2025/04/11 11:49:15
 </p>
 </blockquote>
 <p>
@@ -999,6 +999,12 @@ bnd粉丝去世（热度：4621424）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E9%97%A8%E5%AD%90%E5%88%86%E5%85%AC%E5%8F%B8%E6%80%BB%E8%A3%81%E4%B8%80%E5%AE%B6%E5%9C%A8%E5%9D%A0%E6%9C%BA%E4%B8%AD%E9%81%87%E9%9A%BE%23" target="weibo">
+西门子分公司总裁一家在坠机中遇难（热度：3800577）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E4%BD%8D%E6%BC%94%E5%91%98%E8%87%AA%E6%9B%9D%E6%9B%BE%E8%A2%AB%E5%AF%BC%E6%BC%94%E9%83%91%E6%9F%90%E6%9F%90%E4%BE%B5%E5%AE%B3%23" target="weibo">
 多位演员自曝曾被导演郑某某侵害（热度：3789802）
 </a>
@@ -1805,12 +1811,6 @@ DeepSeek（热度：3038517）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E7%96%91%E4%BC%BC%E5%B0%86%E5%A4%8D%E5%B7%A5%23" target="weibo">
 赵露思疑似将复工（热度：2901212）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A5%BA%E5%AD%90%E5%AF%BC%E6%BC%94%E5%B7%B2%E9%97%AD%E5%85%B3%23" target="weibo">
-饺子导演已闭关（热度：2896427）
 </a>
 </li>
 

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/11 11:14:58
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/11 11:49:15
 </p>
 </blockquote>
 <p>
@@ -89,6 +89,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E5%AF%B9%E5%8D%8E%E5%BE%81%E6%94%B6104%25%E5%85%B3%E7%A8%8E%23" target="weibo">
 外交部回应美国对华征收104%关税（热度：4038610）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E9%97%A8%E5%AD%90%E5%88%86%E5%85%AC%E5%8F%B8%E6%80%BB%E8%A3%81%E4%B8%80%E5%AE%B6%E5%9C%A8%E5%9D%A0%E6%9C%BA%E4%B8%AD%E9%81%87%E9%9A%BE%23" target="weibo">
+西门子分公司总裁一家在坠机中遇难（热度：3800577）
 </a>
 </li>
 
@@ -1995,6 +2001,12 @@ SM新男团 撞名（热度：910464）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%BE%9F%E8%B0%A3%E5%9C%B0%E9%93%81%E7%8C%A5%E4%BA%B5%E4%BA%8B%E4%BB%B6%E5%BD%93%E4%BA%8B%E4%BA%BA%E7%9B%B8%E8%AF%86%23" target="weibo">
+上海辟谣地铁猥亵事件当事人相识（热度：907044）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E9%B9%8F%E7%94%B7%E5%8D%95%E5%86%A0%E5%86%9B%23" target="weibo">
 向鹏男单冠军（热度：907017）
 </a>
@@ -2015,6 +2027,12 @@ SM新男团 撞名（热度：910464）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E6%96%B9%E5%BC%BA%E7%A1%AC%E8%A1%A8%E6%80%81%E6%98%AF%E5%AF%B9%E8%A3%81%E7%BC%9D%E5%88%9B%E4%BD%9C%E5%AE%A3%E6%88%98%23" target="weibo">
 华晨宇方强硬表态是对裁缝创作宣战（热度：902534）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%BB%A7%E7%BB%AD%E9%A3%99%E6%B6%A8%23" target="weibo">
+金价继续飙涨（热度：901279）
 </a>
 </li>
 
@@ -2477,12 +2495,6 @@ YERI和Wendy离开SM（热度：805847）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E7%AC%AC%E4%B8%80%E6%89%B9%E5%88%B6%E8%A3%81%E7%9A%84%E8%A1%8C%E4%B8%9A%E4%B8%83%E5%B9%B4%E5%90%8E%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86%23" target="weibo">
 美第一批制裁的行业七年后怎么样了（热度：781977）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%BE%9F%E8%B0%A3%E5%9C%B0%E9%93%81%E7%8C%A5%E4%BA%B5%E4%BA%8B%E4%BB%B6%E5%BD%93%E4%BA%8B%E4%BA%BA%E7%9B%B8%E8%AF%86%23" target="weibo">
-上海辟谣地铁猥亵事件当事人相识（热度：781134）
 </a>
 </li>
 
@@ -3327,12 +3339,6 @@ Daniel公开（热度：626903）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E9%97%A8%E5%AD%90%E5%88%86%E5%85%AC%E5%8F%B8%E6%80%BB%E8%A3%81%E4%B8%80%E5%AE%B6%E5%9C%A8%E5%9D%A0%E6%9C%BA%E4%B8%AD%E9%81%87%E9%9A%BE%23" target="weibo">
-西门子分公司总裁一家在坠机中遇难（热度：598683）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%81%E6%8C%91%E7%94%B7%E4%BA%BA%E5%B8%AE%E5%BC%A0%E8%89%BA%E5%85%B4%E6%96%B0%E7%89%87%E9%A6%96%E6%98%A0%E5%90%88%E4%BD%93%23" target="weibo">
 极挑男人帮张艺兴新片首映合体（热度：598234）
 </a>
@@ -3965,12 +3971,6 @@ speed 香港（热度：517066）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E5%BB%BA%E8%AE%AE%E6%98%A5%E5%AD%A3%E6%99%9A%E7%9D%A1%E6%97%A9%E8%B5%B7%23" target="weibo">
 医生建议春季晚睡早起（热度：515388）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%BB%A7%E7%BB%AD%E9%A3%99%E6%B6%A8%23" target="weibo">
-金价继续飙涨（热度：515127）
 </a>
 </li>
 
