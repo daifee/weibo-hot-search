@@ -1,6 +1,6 @@
 {
   "startTime": 1744302697177,
-  "endTime": 1744345782427,
+  "endTime": 1744346654133,
   "band_list": [
     {
       "raw_hot": 3800577,
@@ -67,6 +67,14 @@
       "category": "网红,剧集"
     },
     {
+      "raw_hot": 1407610,
+      "num": 1264996,
+      "word": "男子造谣地铁猥亵案2当事人相识",
+      "onboard_time": 1744336762,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 1405464,
       "num": 1405464,
       "word": "周六 不出门",
@@ -81,14 +89,6 @@
       "onboard_time": 1744337901,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1264996,
-      "num": 1264996,
-      "word": "男子造谣地铁猥亵案2当事人相识",
-      "onboard_time": 1744336762,
-      "rank": 9,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 1105383,
@@ -131,6 +131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 860260,
+      "num": 860260,
+      "word": "陈德容说你们骂我骂轻点",
+      "onboard_time": 1744345283,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 830150,
       "num": 830150,
       "word": "26岁河南男生因双向抑郁意外早逝",
@@ -153,6 +161,14 @@
       "onboard_time": 1744328422,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 800408,
+      "num": 800408,
+      "word": "乘风二公",
+      "onboard_time": 1744344383,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 769082,
@@ -203,19 +219,27 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 638553,
-      "num": 638553,
-      "word": "乘风二公",
-      "onboard_time": 1744344383,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 632840,
       "num": 345151,
       "word": "特朗普家族几天获利300亿美元",
       "onboard_time": 1744275443,
       "rank": 12,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 600766,
+      "num": 600766,
+      "word": "rapper祥龙diss严浩翔",
+      "onboard_time": 1744343782,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 576084,
+      "num": 598088,
+      "word": "泽连斯基愿付美国500亿美元换军援",
+      "onboard_time": 1744344323,
+      "rank": 21,
       "category": "国际时政"
     },
     {
@@ -225,14 +249,6 @@
       "onboard_time": 1744337001,
       "rank": 15,
       "category": "网红"
-    },
-    {
-      "raw_hot": 509907,
-      "num": 509907,
-      "word": "rapper祥龙diss严浩翔",
-      "onboard_time": 1744343782,
-      "rank": 16,
-      "category": "音乐"
     },
     {
       "raw_hot": 493411,
@@ -267,6 +283,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 452203,
+      "num": 452203,
+      "word": "在美华人回应鸡蛋被疯抢",
+      "onboard_time": 1744343002,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 445751,
+      "num": 445751,
+      "word": "半导体",
+      "onboard_time": 1744343841,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 437672,
+      "num": 575811,
+      "word": "电影局发声后美电影公司股价大跌",
+      "onboard_time": 1744344625,
+      "rank": 9,
+      "category": "国内时政,财经"
+    },
+    {
       "raw_hot": 421124,
       "num": 338841,
       "word": "文明办回应上海地铁男子猥亵女性",
@@ -275,20 +315,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 409530,
-      "num": 409530,
-      "word": "泽连斯基愿付美国500亿美元换军援",
-      "onboard_time": 1744344323,
-      "rank": 21,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 408191,
-      "num": 408191,
-      "word": "在美华人回应鸡蛋被疯抢",
-      "onboard_time": 1744343002,
-      "rank": 19,
-      "category": "海外新闻"
+      "raw_hot": 418625,
+      "num": 494495,
+      "word": "无忧渡 播出时间",
+      "onboard_time": 1744344262,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 405155,
@@ -363,14 +395,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 338765,
-      "num": 494495,
-      "word": "无忧渡 播出时间",
-      "onboard_time": 1744344262,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 336517,
       "num": 336517,
       "word": "外交部回应为何提醒公民谨慎赴美",
@@ -385,14 +409,6 @@
       "onboard_time": 1744271362,
       "rank": 5,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 308405,
-      "num": 308405,
-      "word": "半导体",
-      "onboard_time": 1744343841,
-      "rank": 31,
-      "category": "财经"
     },
     {
       "raw_hot": 308256,
@@ -419,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 298820,
+      "num": 298820,
+      "word": "大笨风 还我周末",
+      "onboard_time": 1744345162,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 297419,
       "num": 242919,
       "word": "iPhone16回收价已涨300元",
@@ -435,12 +459,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 291813,
+      "num": 291813,
+      "word": "华北大风专家建议100斤以下不要出门",
+      "onboard_time": 1744345764,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 290572,
       "num": 661244,
       "word": "孟子义李昀锐录音室花絮照",
       "onboard_time": 1744336582,
       "rank": 8,
       "category": "音乐,艺人"
+    },
+    {
+      "raw_hot": 285162,
+      "num": 322953,
+      "word": "王一博说鳄鱼踢的灵感由来",
+      "onboard_time": 1744345162,
+      "rank": 38,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 282030,
@@ -507,6 +547,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 256547,
+      "num": 445789,
+      "word": "多人反映用面膜致脸部肿胀",
+      "onboard_time": 1744345643,
+      "rank": 30,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 252202,
       "num": 321760,
       "word": "国乒出征澳门世界杯",
@@ -555,6 +603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 230460,
+      "num": 553373,
+      "word": "多大风能把100斤的人吹跑",
+      "onboard_time": 1744345225,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 224439,
       "num": 345026,
       "word": "月鳞绮纪杀青",
@@ -577,14 +633,6 @@
       "onboard_time": 1744297645,
       "rank": 23,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 211672,
-      "num": 338282,
-      "word": "陈德容说你们骂我骂轻点",
-      "onboard_time": 1744345283,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 204358,
@@ -611,22 +659,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 201030,
-      "num": 201030,
-      "word": "王一博说鳄鱼踢的灵感由来",
-      "onboard_time": 1744345162,
-      "rank": 38,
-      "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 198778,
-      "num": 575811,
-      "word": "电影局发声后美电影公司股价大跌",
-      "onboard_time": 1744344625,
-      "rank": 9,
-      "category": "国内时政,财经"
-    },
-    {
       "raw_hot": 198711,
       "num": 257613,
       "word": "鞠婧祎月鳞绮纪杀青哭了",
@@ -643,12 +675,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196249,
+      "num": 196249,
+      "word": "三河",
+      "onboard_time": 1744345945,
+      "rank": 35,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 194710,
       "num": 379679,
       "word": "电影向阳花",
       "onboard_time": 1744335381,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 194469,
+      "num": 194469,
+      "word": "陈都灵杀青剧照",
+      "onboard_time": 1744345524,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 193807,
@@ -665,6 +713,14 @@
       "onboard_time": 1744333823,
       "rank": 33,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 191367,
+      "num": 523938,
+      "word": "美元指数下破100大关",
+      "onboard_time": 1744344442,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 190122,
@@ -723,20 +779,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 172759,
-      "num": 172759,
-      "word": "大笨风 还我周末",
-      "onboard_time": 1744345162,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 171961,
       "num": 249701,
       "word": "射雕全网上线",
       "onboard_time": 1744340722,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 171461,
+      "num": 171461,
+      "word": "美债抛售潮或迫使特朗普妥协",
+      "onboard_time": 1744345643,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 170227,
@@ -795,14 +851,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 155945,
-      "num": 155945,
-      "word": "华北大风专家建议100斤以下不要出门",
-      "onboard_time": 1744345764,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 154469,
       "num": 154469,
       "word": "北京发布大风应对措施",
@@ -835,14 +883,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 149160,
-      "num": 149160,
-      "word": "美债抛售潮或迫使特朗普妥协",
-      "onboard_time": 1744345643,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 148436,
       "num": 148436,
       "word": "王力宏弹钢琴",
@@ -851,20 +891,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147581,
+      "num": 147581,
+      "word": "林瀚称看见晚晚被欺负很委屈",
+      "onboard_time": 1744346425,
+      "rank": 48,
+      "category": "网红"
+    },
+    {
       "raw_hot": 147395,
       "num": 414990,
       "word": "美国纽约一直升机坠河6人死亡",
       "onboard_time": 1744327521,
       "rank": 8,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 146218,
-      "num": 146218,
-      "word": "陈都灵杀青剧照",
-      "onboard_time": 1744345524,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 144933,
@@ -963,6 +1003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128039,
+      "num": 556588,
+      "word": "刚做两天的美甲滋生霉菌",
+      "onboard_time": 1744345945,
+      "rank": 13,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 127900,
       "num": 394902,
       "word": "北京风力超9级轨道交通地上区段停运",
@@ -1051,16 +1099,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 116889,
-      "num": 318804,
-      "word": "多人反映用面膜致脸部肿胀",
-      "onboard_time": 1744345643,
-      "rank": 30,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 114935,
-      "num": 530640,
+      "num": 571797,
       "word": "伊利喊你领大额生娃补贴",
       "onboard_time": 1744344323,
       "rank": 12,
@@ -1107,6 +1147,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 108307,
+      "num": 449920,
+      "word": "湖南多地有9至11级雷暴大风或龙卷",
+      "onboard_time": 1744344803,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107231,
       "num": 136761,
       "word": "沈月 非凡女性艺术之夜",
@@ -1147,14 +1195,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 83671,
-      "num": 523938,
-      "word": "美元指数下破100大关",
-      "onboard_time": 1744344442,
-      "rank": 13,
-      "category": "财经"
-    },
-    {
       "raw_hot": 82144,
       "num": 137894,
       "word": "李晟罗予彤两个辣妹子晕辣了",
@@ -1177,14 +1217,6 @@
       "onboard_time": 1744282882,
       "rank": 47,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 80382,
-      "num": 523724,
-      "word": "多大风能把100斤的人吹跑",
-      "onboard_time": 1744345225,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 80071,
@@ -1217,14 +1249,6 @@
       "onboard_time": 1744285342,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 74038,
-      "num": 449920,
-      "word": "湖南多地有9至11级雷暴大风或龙卷",
-      "onboard_time": 1744344803,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 73463,
@@ -1265,6 +1289,14 @@
       "onboard_time": 1744327220,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 64166,
+      "num": 192922,
+      "word": "值得爱反正结果都那样",
+      "onboard_time": 1744346604,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 62852,
@@ -1356,7 +1388,7 @@
     },
     {
       "raw_hot": 23913,
-      "num": 318783,
+      "num": 344211,
       "word": "奥纳纳失误梅开二度",
       "onboard_time": 1744343062,
       "rank": 24,
