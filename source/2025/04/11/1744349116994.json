@@ -1,0 +1,410 @@
+{
+  "runTime": 1744349116994,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1874775,
+        "num": 1874775,
+        "word": "西门子分公司总裁一家在坠机中遇难",
+        "onboard_time": 1744340783,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1838853,
+        "num": 1838853,
+        "word": "健身博主马章浩去世",
+        "onboard_time": 1744347923,
+        "rank": 1,
+        "category": "网红,运动健身"
+      },
+      {
+        "raw_hot": 186546,
+        "num": 1499603,
+        "word": "美关税讹诈严重扰乱全球产供链稳定",
+        "onboard_time": 1744339881,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1476103,
+        "num": 1476103,
+        "word": "陈德容说你们骂我骂轻点",
+        "onboard_time": 1744345283,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 997868,
+        "num": 997868,
+        "word": "特朗普大厦里几乎都是中国制造",
+        "onboard_time": 1744334482,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 942249,
+        "num": 942249,
+        "word": "华北大风专家建议100斤以下不要出门",
+        "onboard_time": 1744345764,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 891347,
+        "num": 891347,
+        "word": "泽连斯基愿付美国500亿美元换军援",
+        "onboard_time": 1744344323,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 816771,
+        "num": 816771,
+        "word": "多人反映用面膜致脸部肿胀",
+        "onboard_time": 1744345643,
+        "rank": 7,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 601858,
+        "num": 601858,
+        "word": "周六 不出门",
+        "onboard_time": 1744287502,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 569787,
+        "num": 569787,
+        "word": "半导体",
+        "onboard_time": 1744343841,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 807775,
+        "num": 557528,
+        "word": "晚晚老公",
+        "onboard_time": 1744333162,
+        "rank": 10,
+        "category": "网红,剧集"
+      },
+      {
+        "raw_hot": 521422,
+        "num": 521422,
+        "word": "上海辟谣地铁猥亵事件当事人相识",
+        "onboard_time": 1744339402,
+        "rank": 11,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 502509,
+        "num": 502509,
+        "word": "吴磊 你好不好",
+        "onboard_time": 1744346722,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 422487,
+        "num": 422487,
+        "word": "rapper祥龙diss严浩翔",
+        "onboard_time": 1744343782,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 26186,
+        "num": 413312,
+        "word": "驳有关中美贸易战三大谬论",
+        "onboard_time": 1744348163,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 406016,
+        "num": 406016,
+        "word": "乘风二公",
+        "onboard_time": 1744344383,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78610,
+        "num": 403886,
+        "word": "伊利喊你领大额生娃补贴",
+        "onboard_time": 1744344323,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167737,
+        "num": 402915,
+        "word": "集成电路流片地认定为原产地",
+        "onboard_time": 1744343062,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 402062,
+        "num": 402062,
+        "word": "折腰",
+        "onboard_time": 1744336882,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100481,
+        "num": 379640,
+        "word": "美国完全是在耍赖抢钱",
+        "onboard_time": 1744347862,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 486522,
+        "num": 378905,
+        "word": "虞书欣王鹤棣疑似坐同款位置",
+        "onboard_time": 1744327820,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371758,
+        "num": 371758,
+        "word": "地铁猥亵事件中挺身而出女性未找到",
+        "onboard_time": 1744335742,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 317229,
+        "num": 317229,
+        "word": "无忧渡 播出时间",
+        "onboard_time": 1744344262,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 305390,
+        "num": 305390,
+        "word": "在美华人回应鸡蛋被疯抢",
+        "onboard_time": 1744343002,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 304545,
+        "num": 304545,
+        "word": "大风",
+        "onboard_time": 1744336041,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291837,
+        "num": 291837,
+        "word": "朴智妍晒朴孝敏婚礼照",
+        "onboard_time": 1744347082,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290873,
+        "num": 290873,
+        "word": "舞娘",
+        "onboard_time": 1744347263,
+        "rank": 26,
+        "category": "综艺,作品衍生"
+      },
+      {
+        "raw_hot": 277511,
+        "num": 277511,
+        "word": "金价继续飙涨",
+        "onboard_time": 1744338862,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 273200,
+        "num": 273200,
+        "word": "马章浩溺水",
+        "onboard_time": 1744337001,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 242305,
+        "num": 242305,
+        "word": "郭敬明鞠婧祎合照",
+        "onboard_time": 1744347923,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262076,
+        "num": 241437,
+        "word": "陈德容哭着说太难了",
+        "onboard_time": 1744348524,
+        "rank": 30,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 238806,
+        "num": 238806,
+        "word": "对美所有进口商品关税再提高50%",
+        "onboard_time": 1744197084,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 236015,
+        "num": 236015,
+        "word": "王一博说鳄鱼踢的灵感由来",
+        "onboard_time": 1744345162,
+        "rank": 32,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 232493,
+        "num": 232493,
+        "word": "张小婉舞娘好看",
+        "onboard_time": 1744348341,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230077,
+        "num": 230077,
+        "word": "刚做两天的美甲滋生霉菌",
+        "onboard_time": 1744345945,
+        "rank": 34,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 218711,
+        "num": 218711,
+        "word": "大笨风 还我周末",
+        "onboard_time": 1744345162,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211419,
+        "num": 211419,
+        "word": "Doinb直播间被封24小时",
+        "onboard_time": 1744348582,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 210086,
+        "num": 210086,
+        "word": "大山太好听了",
+        "onboard_time": 1744347683,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209950,
+        "num": 209950,
+        "word": "打鸟人首先是爱鸟人",
+        "onboard_time": 1744347384,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43118,
+        "num": 209266,
+        "word": "老板心里明白但是装不明白的事",
+        "onboard_time": 1744347624,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 73930,
+        "num": 208938,
+        "word": "男子为给弟弟捐肾暴走半年减重40斤",
+        "onboard_time": 1744347144,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208878,
+        "num": 208878,
+        "word": "美债",
+        "onboard_time": 1744340722,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 205204,
+        "num": 205204,
+        "word": "宋妍霏团贡献了浪姐6名舞台",
+        "onboard_time": 1744348822,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200599,
+        "num": 200599,
+        "word": "BLACKPINK 6月回归",
+        "onboard_time": 1744348283,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 68832,
+        "num": 191474,
+        "word": "高校文创设计大赛特等奖是兰博基尼",
+        "onboard_time": 1744347144,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190798,
+        "num": 190798,
+        "word": "厂家回应黄子韬卫生巾工厂进展",
+        "onboard_time": 1744339102,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189486,
+        "num": 189486,
+        "word": "电影局发声后美电影公司股价大跌",
+        "onboard_time": 1744344625,
+        "rank": 46,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 174443,
+        "num": 174443,
+        "word": "台风",
+        "onboard_time": 1744347802,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163931,
+        "num": 163931,
+        "word": "枭起青壤下证",
+        "onboard_time": 1744347082,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159789,
+        "num": 159789,
+        "word": "马斯克笑不出来了",
+        "onboard_time": 1744347562,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#以八项规定催发更深层次的化学反应#"
+    }
+  }
+}
