@@ -1,14 +1,22 @@
 {
   "startTime": 1744302697177,
-  "endTime": 1744336316466,
+  "endTime": 1744337647002,
   "band_list": [
     {
-      "raw_hot": 1865221,
-      "num": 1865221,
+      "raw_hot": 1978145,
+      "num": 1978145,
       "word": "美俄达成谅解",
       "onboard_time": 1744333103,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1576442,
+      "num": 398013,
+      "word": "上海地铁",
+      "onboard_time": 1744332743,
+      "rank": 20,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 1515351,
@@ -27,6 +35,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1433400,
+      "num": 593724,
+      "word": "晚晚老公",
+      "onboard_time": 1744333162,
+      "rank": 10,
+      "category": "网红,剧集"
+    },
+    {
       "raw_hot": 1405464,
       "num": 1405464,
       "word": "周六 不出门",
@@ -35,24 +51,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1350604,
-      "num": 389766,
-      "word": "晚晚老公",
-      "onboard_time": 1744333162,
-      "rank": 10,
-      "category": "网红,剧集"
-    },
-    {
-      "raw_hot": 1291495,
-      "num": 376320,
-      "word": "上海地铁",
-      "onboard_time": 1744332743,
-      "rank": 20,
-      "category": "舆论监督"
+      "raw_hot": 1068239,
+      "num": 1068239,
+      "word": "特朗普大厦里几乎都是中国制造",
+      "onboard_time": 1744334482,
+      "rank": 12,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1012036,
-      "num": 388510,
+      "num": 566196,
       "word": "虞书欣王鹤棣疑似坐同款位置",
       "onboard_time": 1744327820,
       "rank": 21,
@@ -67,12 +75,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 881085,
-      "num": 387070,
-      "word": "特朗普大厦里几乎都是中国制造",
-      "onboard_time": 1744334482,
-      "rank": 12,
-      "category": "国际时政"
+      "raw_hot": 891329,
+      "num": 891329,
+      "word": "大风",
+      "onboard_time": 1744336041,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 806360,
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 708786,
-      "num": 385887,
+      "num": 455926,
       "word": "林瀚",
       "onboard_time": 1744331552,
       "rank": 13,
@@ -107,20 +115,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 690225,
+      "num": 690225,
+      "word": "这风真懂事 一点也不耽误周一上班",
+      "onboard_time": 1744331425,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 653171,
+      "num": 397013,
+      "word": "地铁猥亵事件中挺身而出女性未找到",
+      "onboard_time": 1744335742,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 648945,
       "num": 648945,
       "word": "张嘉倪营业了",
       "onboard_time": 1744293143,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 641275,
-      "num": 641275,
-      "word": "这风真懂事 一点也不耽误周一上班",
-      "onboard_time": 1744331425,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 632840,
@@ -163,6 +179,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 415563,
+      "num": 415563,
+      "word": "对美所有进口商品关税再提高50%",
+      "onboard_time": 1744197084,
+      "rank": 11,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 393207,
       "num": 393207,
       "word": "10级狂风堪比台风过境",
@@ -185,14 +209,6 @@
       "onboard_time": 1744307116,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 374919,
-      "num": 374919,
-      "word": "对美所有进口商品关税再提高50%",
-      "onboard_time": 1744197084,
-      "rank": 11,
-      "category": "国际时政"
     },
     {
       "raw_hot": 374434,
@@ -236,7 +252,7 @@
     },
     {
       "raw_hot": 303582,
-      "num": 392450,
+      "num": 665347,
       "word": "王一博荣获法国大奖",
       "onboard_time": 1744330823,
       "rank": 8,
@@ -249,6 +265,14 @@
       "onboard_time": 1744282702,
       "rank": 20,
       "category": "数码"
+    },
+    {
+      "raw_hot": 293794,
+      "num": 293794,
+      "word": "26岁河南男生因双向抑郁意外早逝",
+      "onboard_time": 1744336942,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 282030,
@@ -268,7 +292,7 @@
     },
     {
       "raw_hot": 281515,
-      "num": 391153,
+      "num": 408872,
       "word": "于正回应杨蓉何时进组",
       "onboard_time": 1744328720,
       "rank": 9,
@@ -291,6 +315,38 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 261323,
+      "num": 661244,
+      "word": "孟子义李昀锐录音室花絮照",
+      "onboard_time": 1744336582,
+      "rank": 8,
+      "category": "音乐,艺人"
+    },
+    {
+      "raw_hot": 254096,
+      "num": 415340,
+      "word": "马章浩溺水",
+      "onboard_time": 1744337001,
+      "rank": 15,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 253329,
+      "num": 629604,
+      "word": "男子造谣地铁猥亵案2当事人相识",
+      "onboard_time": 1744336762,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 241969,
+      "num": 412153,
+      "word": "折腰",
+      "onboard_time": 1744336882,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 235981,
       "num": 235981,
       "word": "瘦了36斤才敢说的减肥大实话",
@@ -307,6 +363,22 @@
       "category": "财经,汽车"
     },
     {
+      "raw_hot": 233288,
+      "num": 384348,
+      "word": "大风 囤零食",
+      "onboard_time": 1744335443,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 228475,
+      "num": 228475,
+      "word": "湖北省考成绩",
+      "onboard_time": 1744337361,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 219818,
       "num": 1172220,
       "word": "中国不接受施压威胁讹诈",
@@ -321,6 +393,14 @@
       "onboard_time": 1744297645,
       "rank": 23,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 204358,
+      "num": 245057,
+      "word": "沈月 古装剧本",
+      "onboard_time": 1744335923,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 196732,
@@ -379,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177384,
+      "num": 177384,
+      "word": "达芬奇都调不出菏泽牡丹的美",
+      "onboard_time": 1744337361,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 173077,
       "num": 173077,
       "word": "男子2400万买房儿媳离婚分走1500万",
@@ -387,11 +475,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 168917,
-      "num": 168917,
-      "word": "大风",
-      "onboard_time": 1744336041,
-      "rank": 36,
+      "raw_hot": 168879,
+      "num": 168879,
+      "word": "华南师大通报副校长论文抄袭",
+      "onboard_time": 1744335623,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -411,14 +499,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 154498,
-      "num": 375599,
-      "word": "地铁猥亵事件中挺身而出女性未找到",
-      "onboard_time": 1744335742,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 154469,
       "num": 154469,
       "word": "北京发布大风应对措施",
@@ -427,11 +507,11 @@
       "category": "民生新闻,科学科普"
     },
     {
-      "raw_hot": 147078,
-      "num": 147078,
-      "word": "华南师大通报副校长论文抄袭",
-      "onboard_time": 1744335623,
-      "rank": 41,
+      "raw_hot": 152557,
+      "num": 264014,
+      "word": "今年的牡丹花王长这样",
+      "onboard_time": 1744319113,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -443,12 +523,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 141078,
-      "num": 245057,
-      "word": "沈月 古装剧本",
-      "onboard_time": 1744335923,
-      "rank": 28,
-      "category": "剧集"
+      "raw_hot": 138973,
+      "num": 138973,
+      "word": "中国记者联合国质问美方乡巴佬言论",
+      "onboard_time": 1744332743,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 138922,
@@ -483,20 +563,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130808,
+      "num": 130808,
+      "word": "久哲教练",
+      "onboard_time": 1744335563,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 130166,
       "num": 130166,
       "word": "苹果从印度空运600吨iPhone",
       "onboard_time": 1744333403,
       "rank": 44,
       "category": "数码"
-    },
-    {
-      "raw_hot": 129655,
-      "num": 264014,
-      "word": "今年的牡丹花王长这样",
-      "onboard_time": 1744319113,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 127900,
@@ -515,6 +595,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 125517,
+      "num": 125517,
+      "word": "最野猪的时候吃最细的糠",
+      "onboard_time": 1744336582,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 124383,
       "num": 124383,
       "word": "陈哲远拍了歪头wink",
@@ -523,16 +611,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 123974,
-      "num": 123974,
-      "word": "中国记者联合国质问美方乡巴佬言论",
-      "onboard_time": 1744332743,
-      "rank": 48,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 121849,
-      "num": 121849,
+      "num": 187397,
       "word": "全红婵对小甜品说不",
       "onboard_time": 1744332204,
       "rank": 49,
@@ -619,6 +699,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 97284,
+      "num": 192078,
+      "word": "美国股债汇三杀再现",
+      "onboard_time": 1744337542,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 94584,
       "num": 94584,
       "word": "澳门世界杯4月13日抽签",
@@ -699,14 +787,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 74130,
-      "num": 384348,
-      "word": "大风 囤零食",
-      "onboard_time": 1744335443,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 73463,
       "num": 73463,
       "word": "丁香新韵诗动青春",
@@ -721,6 +801,14 @@
       "onboard_time": 1744307116,
       "rank": 20,
       "category": "财经,时尚"
+    },
+    {
+      "raw_hot": 67314,
+      "num": 402941,
+      "word": "家庭主妇被撞索要误工费获支持",
+      "onboard_time": 1744336762,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65453,
