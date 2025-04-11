@@ -1,0 +1,410 @@
+{
+  "runTime": 1744353251634,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2073025,
+        "num": 2073025,
+        "word": "健身博主马章浩去世",
+        "onboard_time": 1744347923,
+        "rank": 0,
+        "category": "网红,运动健身"
+      },
+      {
+        "raw_hot": 1427005,
+        "num": 1427005,
+        "word": "马斯克笑不出来了",
+        "onboard_time": 1744347562,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 163013,
+        "num": 1415098,
+        "word": "美关税讹诈严重扰乱全球产供链稳定",
+        "onboard_time": 1744339881,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1404482,
+        "num": 1404482,
+        "word": "华北大风专家建议100斤以下不要出门",
+        "onboard_time": 1744345764,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1032071,
+        "num": 1032071,
+        "word": "陈德容 躺赢",
+        "onboard_time": 1744351582,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 966803,
+        "num": 966803,
+        "word": "石家庄大风",
+        "onboard_time": 1744349423,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 875310,
+        "num": 875310,
+        "word": "西门子分公司总裁一家在坠机中遇难",
+        "onboard_time": 1744340783,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 646842,
+        "num": 646842,
+        "word": "周六 不出门",
+        "onboard_time": 1744287502,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 521463,
+        "num": 521463,
+        "word": "多人反映用面膜致脸部肿胀",
+        "onboard_time": 1744345643,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 357084,
+        "num": 484912,
+        "word": "这五类电话号码不要接",
+        "onboard_time": 1744351582,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 745537,
+        "num": 480216,
+        "word": "陈德容说你们骂我骂轻点",
+        "onboard_time": 1744345283,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 448780,
+        "num": 448780,
+        "word": "晚晚老公",
+        "onboard_time": 1744333162,
+        "rank": 11,
+        "category": "网红,剧集"
+      },
+      {
+        "raw_hot": 391099,
+        "num": 391099,
+        "word": "浪姐户外舞台 没苦硬吃",
+        "onboard_time": 1744349901,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 383182,
+        "num": 383182,
+        "word": "美国完全是在耍赖抢钱",
+        "onboard_time": 1744347862,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 371831,
+        "num": 371831,
+        "word": "大风",
+        "onboard_time": 1744336041,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 351991,
+        "num": 351991,
+        "word": "吴磊 你好不好",
+        "onboard_time": 1744346722,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349635,
+        "num": 349635,
+        "word": "rapper祥龙diss严浩翔",
+        "onboard_time": 1744343782,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 191823,
+        "num": 333829,
+        "word": "MPV极限爬坡挑战越野车",
+        "onboard_time": 1744351462,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 65828,
+        "num": 330961,
+        "word": "你的酒店入住信息可能被贩卖",
+        "onboard_time": 1744351643,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 30632,
+        "num": 330918,
+        "word": "徐海东1比3松岛辉空",
+        "onboard_time": 1744351702,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 330908,
+        "num": 330908,
+        "word": "武汉大雨",
+        "onboard_time": 1744351522,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18340,
+        "num": 326394,
+        "word": "美关税政策是最严重经济自残",
+        "onboard_time": 1744352902,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 326265,
+        "num": 326265,
+        "word": "特朗普大厦里几乎都是中国制造",
+        "onboard_time": 1744334482,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 314290,
+        "num": 314290,
+        "word": "舞娘",
+        "onboard_time": 1744347263,
+        "rank": 23,
+        "category": "综艺,作品衍生"
+      },
+      {
+        "raw_hot": 71088,
+        "num": 313387,
+        "word": "iG对战TES",
+        "onboard_time": 1744352661,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 312734,
+        "num": 312734,
+        "word": "内蒙古等地已出现10级最大阵风",
+        "onboard_time": 1744350681,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 301092,
+        "num": 301092,
+        "word": "上海辟谣地铁猥亵事件当事人相识",
+        "onboard_time": 1744339402,
+        "rank": 26,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 296351,
+        "num": 296351,
+        "word": "小猫的脚原来这么臭",
+        "onboard_time": 1744350142,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 226621,
+        "num": 289790,
+        "word": "谢娜发胡歌琅琊榜剧照",
+        "onboard_time": 1744352423,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68158,
+        "num": 286907,
+        "word": "美高校要求政府解释撤销学生签证",
+        "onboard_time": 1744346363,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 286343,
+        "num": 286343,
+        "word": "虞书欣王鹤棣疑似坐同款位置",
+        "onboard_time": 1744327820,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259905,
+        "num": 259905,
+        "word": "交大回应称希望同学原谅石楠花",
+        "onboard_time": 1744350742,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255093,
+        "num": 255093,
+        "word": "台风",
+        "onboard_time": 1744347802,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253283,
+        "num": 253283,
+        "word": "Prada正式收购范思哲",
+        "onboard_time": 1744350201,
+        "rank": 33,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 251071,
+        "num": 251071,
+        "word": "马章浩溺水",
+        "onboard_time": 1744337001,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 231003,
+        "num": 231003,
+        "word": "折腰 抬上桌",
+        "onboard_time": 1744351582,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226231,
+        "num": 226231,
+        "word": "好友发文悼念健身博主马章浩",
+        "onboard_time": 1744352482,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 221349,
+        "num": 221349,
+        "word": "北京大风",
+        "onboard_time": 1744353143,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215472,
+        "num": 215472,
+        "word": "美国人购物开始被收关税附加费",
+        "onboard_time": 1744351342,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15412,
+        "num": 212552,
+        "word": "张朝阳天文馆讲物理硬核官宣播主大会",
+        "onboard_time": 1744351284,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 212099,
+        "num": 212099,
+        "word": "泽连斯基愿付美国500亿美元换军援",
+        "onboard_time": 1744344323,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 197986,
+        "num": 197986,
+        "word": "叶童组怎么输的",
+        "onboard_time": 1744349901,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193109,
+        "num": 193109,
+        "word": "宋妍霏团贡献了浪姐6名舞台",
+        "onboard_time": 1744348822,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188433,
+        "num": 188433,
+        "word": "科学家发现生育会永久改变女性骨骼",
+        "onboard_time": 1744352661,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 187594,
+        "num": 187594,
+        "word": "林瀚 请把恨转到我一个人身上",
+        "onboard_time": 1744350742,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 183971,
+        "num": 183971,
+        "word": "马思纯张曼乐 大理",
+        "onboard_time": 1744353082,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177838,
+        "num": 177838,
+        "word": "厂家回应黄子韬卫生巾工厂进展",
+        "onboard_time": 1744339102,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170893,
+        "num": 170893,
+        "word": "金价继续飙涨",
+        "onboard_time": 1744338862,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 169921,
+        "num": 169921,
+        "word": "朴智妍晒朴孝敏婚礼照",
+        "onboard_time": 1744347082,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162537,
+        "num": 162537,
+        "word": "地铁猥亵事件中挺身而出女性未找到",
+        "onboard_time": 1744335742,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#以八项规定催发更深层次的化学反应#"
+    }
+  }
+}

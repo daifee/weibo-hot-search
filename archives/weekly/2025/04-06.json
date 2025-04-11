@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1744350196392,
+  "endTime": 1744353251634,
   "band_list": [
     {
       "raw_hot": 18779562,
@@ -699,12 +699,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1427005,
+      "num": 1427005,
+      "word": "马斯克笑不出来了",
+      "onboard_time": 1744347562,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1407610,
       "num": 1264996,
       "word": "男子造谣地铁猥亵案2当事人相识",
       "onboard_time": 1744336762,
       "rank": 9,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 1404482,
+      "num": 1404482,
+      "word": "华北大风专家建议100斤以下不要出门",
+      "onboard_time": 1744345764,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1402772,
@@ -969,14 +985,6 @@
       "onboard_time": 1744091002,
       "rank": 6,
       "category": "网红,民生新闻"
-    },
-    {
-      "raw_hot": 1194446,
-      "num": 1194446,
-      "word": "华北大风专家建议100斤以下不要出门",
-      "onboard_time": 1744345764,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1190029,
@@ -1259,6 +1267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1032071,
+      "num": 1032071,
+      "word": "陈德容 躺赢",
+      "onboard_time": 1744351582,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1027076,
       "num": 1027076,
       "word": "哪吒2仍在票房榜前三",
@@ -1393,6 +1409,14 @@
       "onboard_time": 1743990742,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 966803,
+      "num": 966803,
+      "word": "石家庄大风",
+      "onboard_time": 1744349423,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 965729,
@@ -2875,14 +2899,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 532159,
-      "num": 532159,
-      "word": "马斯克笑不出来了",
-      "onboard_time": 1744347562,
-      "rank": 49,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 531212,
       "num": 531212,
       "word": "马克龙批特朗普关税措施",
@@ -4075,6 +4091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 391099,
+      "num": 391099,
+      "word": "浪姐户外舞台 没苦硬吃",
+      "onboard_time": 1744349901,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 391013,
       "num": 514352,
       "word": "羽西 肖战",
@@ -4459,6 +4483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 357084,
+      "num": 484912,
+      "word": "这五类电话号码不要接",
+      "onboard_time": 1744351582,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 356305,
       "num": 356305,
       "word": "身体各处的警告",
@@ -4819,6 +4851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 330908,
+      "num": 330908,
+      "word": "武汉大雨",
+      "onboard_time": 1744351522,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 330121,
       "num": 353863,
       "word": "王心凌穿走了莫奈的花园",
@@ -5019,6 +5059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 314290,
+      "num": 314290,
+      "word": "舞娘",
+      "onboard_time": 1744347263,
+      "rank": 26,
+      "category": "综艺,作品衍生"
+    },
+    {
       "raw_hot": 314193,
       "num": 279002,
       "word": "20岁的欧阳娣娣",
@@ -5049,6 +5097,14 @@
       "onboard_time": 1744210707,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 312734,
+      "num": 312734,
+      "word": "内蒙古等地已出现10级最大阵风",
+      "onboard_time": 1744350681,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 312202,
@@ -5363,6 +5419,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 296351,
+      "num": 296351,
+      "word": "小猫的脚原来这么臭",
+      "onboard_time": 1744350142,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 296309,
       "num": 296309,
       "word": "清明档3.78亿收官",
@@ -5505,14 +5569,6 @@
       "onboard_time": 1744246467,
       "rank": 17,
       "category": "网红,民生新闻"
-    },
-    {
-      "raw_hot": 290873,
-      "num": 290873,
-      "word": "舞娘",
-      "onboard_time": 1744347263,
-      "rank": 26,
-      "category": "综艺,作品衍生"
     },
     {
       "raw_hot": 290726,
@@ -5817,14 +5873,6 @@
       "onboard_time": 1743995363,
       "rank": 37,
       "category": "财经"
-    },
-    {
-      "raw_hot": 277214,
-      "num": 277214,
-      "word": "小猫的脚原来这么臭",
-      "onboard_time": 1744350142,
-      "rank": 28,
-      "category": "幽默"
     },
     {
       "raw_hot": 277184,
@@ -6227,6 +6275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 259905,
+      "num": 259905,
+      "word": "交大回应称希望同学原谅石楠花",
+      "onboard_time": 1744350742,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 259763,
       "num": 518345,
       "word": "严浩翔新综艺录制2天4套造型",
@@ -6449,6 +6505,14 @@
       "onboard_time": 1744093703,
       "rank": 43,
       "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 253283,
+      "num": 253283,
+      "word": "Prada正式收购范思哲",
+      "onboard_time": 1744350201,
+      "rank": 33,
+      "category": "时尚"
     },
     {
       "raw_hot": 252729,
@@ -6931,6 +6995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 231003,
+      "num": 231003,
+      "word": "折腰 抬上桌",
+      "onboard_time": 1744351582,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 230649,
       "num": 249444,
       "word": "A股三大股指反弹",
@@ -7147,6 +7219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 226621,
+      "num": 289790,
+      "word": "谢娜发胡歌琅琊榜剧照",
+      "onboard_time": 1744352423,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 226566,
       "num": 451012,
       "word": "A股三大指数触底回升",
@@ -7169,6 +7249,14 @@
       "onboard_time": 1744171343,
       "rank": 26,
       "category": "网红,艺人"
+    },
+    {
+      "raw_hot": 226231,
+      "num": 226231,
+      "word": "好友发文悼念健身博主马章浩",
+      "onboard_time": 1744352482,
+      "rank": 36,
+      "category": "网红"
     },
     {
       "raw_hot": 226116,
@@ -7321,6 +7409,14 @@
       "onboard_time": 1744273943,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 221349,
+      "num": 221349,
+      "word": "北京大风",
+      "onboard_time": 1744353143,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 221273,
@@ -7545,6 +7641,14 @@
       "onboard_time": 1744123884,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 215472,
+      "num": 215472,
+      "word": "美国人购物开始被收关税附加费",
+      "onboard_time": 1744351342,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 215385,
@@ -8483,6 +8587,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 197986,
+      "num": 197986,
+      "word": "叶童组怎么输的",
+      "onboard_time": 1744349901,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197671,
       "num": 197671,
       "word": "华尔街齐声警告美国经济衰退风险",
@@ -8787,14 +8899,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 194002,
-      "num": 194002,
-      "word": "石家庄大风",
-      "onboard_time": 1744349423,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 193894,
       "num": 158163,
       "word": "白鹿五月底进组",
@@ -8891,14 +8995,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 192934,
-      "num": 192934,
-      "word": "叶童组怎么输的",
-      "onboard_time": 1744349901,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 192862,
       "num": 192862,
       "word": "严浩翔新中式亮片套装",
@@ -8953,6 +9049,14 @@
       "onboard_time": 1744293984,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 191823,
+      "num": 333829,
+      "word": "MPV极限爬坡挑战越野车",
+      "onboard_time": 1744351462,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 191815,
@@ -9179,6 +9283,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 188433,
+      "num": 188433,
+      "word": "科学家发现生育会永久改变女性骨骼",
+      "onboard_time": 1744352661,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 188112,
       "num": 188112,
       "word": "终于又吃上了青春剧细糠",
@@ -9233,6 +9345,14 @@
       "onboard_time": 1743921021,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 187594,
+      "num": 187594,
+      "word": "林瀚 请把恨转到我一个人身上",
+      "onboard_time": 1744350742,
+      "rank": 44,
+      "category": "网红"
     },
     {
       "raw_hot": 187428,
@@ -9472,6 +9592,14 @@
       "word": "张杰今天一直在彩排",
       "onboard_time": 1744294884,
       "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 183971,
+      "num": 183971,
+      "word": "马思纯张曼乐 大理",
+      "onboard_time": 1744353082,
+      "rank": 45,
       "category": "艺人"
     },
     {
@@ -9856,14 +9984,6 @@
       "word": "陈德容 我表情悠哉跳个大概",
       "onboard_time": 1744203806,
       "rank": 48,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 177757,
-      "num": 177757,
-      "word": "浪姐户外舞台 没苦硬吃",
-      "onboard_time": 1744349901,
-      "rank": 47,
       "category": "综艺"
     },
     {
@@ -15827,6 +15947,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 71088,
+      "num": 313387,
+      "word": "iG对战TES",
+      "onboard_time": 1744352661,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 70488,
       "num": 70488,
       "word": "102岁老人坐1小时轮椅给儿女上坟",
@@ -15939,6 +16067,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 68158,
+      "num": 286907,
+      "word": "美高校要求政府解释撤销学生签证",
+      "onboard_time": 1744346363,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 67904,
       "num": 67904,
       "word": "普拉达超100亿收购范思哲",
@@ -16025,6 +16161,14 @@
       "onboard_time": 1744292721,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 65828,
+      "num": 330961,
+      "word": "你的酒店入住信息可能被贩卖",
+      "onboard_time": 1744351643,
+      "rank": 18,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 65734,
@@ -17283,6 +17427,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 30632,
+      "num": 330918,
+      "word": "徐海东1比3松岛辉空",
+      "onboard_time": 1744351702,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 30086,
       "num": 30086,
       "word": "景区回应美人鱼泡在绿水里表演",
@@ -17923,6 +18075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18340,
+      "num": 326394,
+      "word": "美关税政策是最严重经济自残",
+      "onboard_time": 1744352902,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 18269,
       "num": 120677,
       "word": "刘纪鹏再次建议成立4万亿平准基金",
@@ -18041,6 +18201,14 @@
       "onboard_time": 1743883094,
       "rank": 31,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 15412,
+      "num": 212552,
+      "word": "张朝阳天文馆讲物理硬核官宣播主大会",
+      "onboard_time": 1744351284,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 15301,
