@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1744349116994,
+  "endTime": 1744350196392,
   "band_list": [
     {
       "raw_hot": 18779562,
@@ -129,6 +129,14 @@
       "onboard_time": 1744160004,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 2748067,
+      "num": 2748067,
+      "word": "健身博主马章浩去世",
+      "onboard_time": 1744347923,
+      "rank": 1,
+      "category": "网红,运动健身"
     },
     {
       "raw_hot": 2732339,
@@ -385,14 +393,6 @@
       "onboard_time": 1743933500,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1838853,
-      "num": 1838853,
-      "word": "健身博主马章浩去世",
-      "onboard_time": 1744347923,
-      "rank": 1,
-      "category": "网红,运动健身"
     },
     {
       "raw_hot": 1827873,
@@ -676,7 +676,7 @@
     },
     {
       "raw_hot": 1433400,
-      "num": 675734,
+      "num": 688775,
       "word": "晚晚老公",
       "onboard_time": 1744333162,
       "rank": 10,
@@ -969,6 +969,14 @@
       "onboard_time": 1744091002,
       "rank": 6,
       "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 1194446,
+      "num": 1194446,
+      "word": "华北大风专家建议100斤以下不要出门",
+      "onboard_time": 1744345764,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1190029,
@@ -1417,14 +1425,6 @@
       "onboard_time": 1743927201,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 942249,
-      "num": 942249,
-      "word": "华北大风专家建议100斤以下不要出门",
-      "onboard_time": 1744345764,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 940194,
@@ -1937,6 +1937,14 @@
       "onboard_time": 1744072524,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 767652,
+      "num": 767652,
+      "word": "美国完全是在耍赖抢钱",
+      "onboard_time": 1744347862,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 767126,
@@ -2659,6 +2667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 572314,
+      "num": 572314,
+      "word": "吴磊 你好不好",
+      "onboard_time": 1744346722,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 569787,
       "num": 569787,
       "word": "半导体",
@@ -2859,6 +2875,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 532159,
+      "num": 532159,
+      "word": "马斯克笑不出来了",
+      "onboard_time": 1744347562,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 531212,
       "num": 531212,
       "word": "马克龙批特朗普关税措施",
@@ -3049,14 +3073,6 @@
       "onboard_time": 1743931100,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 502509,
-      "num": 502509,
-      "word": "吴磊 你好不好",
-      "onboard_time": 1744346722,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 500528,
@@ -3907,6 +3923,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 401798,
+      "num": 401798,
+      "word": "陈德容哭着说太难了",
+      "onboard_time": 1744348524,
+      "rank": 30,
+      "category": "综艺,综艺"
+    },
+    {
       "raw_hot": 401246,
       "num": 401246,
       "word": "美国农业将受中国关税最严重打击",
@@ -4259,6 +4283,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 368029,
+      "num": 347310,
+      "word": "张小婉舞娘好看",
+      "onboard_time": 1744348341,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 367534,
       "num": 390718,
       "word": "阿瑟别走",
@@ -4521,6 +4553,14 @@
       "onboard_time": 1744298542,
       "rank": 36,
       "category": "网红"
+    },
+    {
+      "raw_hot": 347095,
+      "num": 347095,
+      "word": "宋妍霏团贡献了浪姐6名舞台",
+      "onboard_time": 1744348822,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 346952,
@@ -5452,7 +5492,7 @@
     },
     {
       "raw_hot": 291837,
-      "num": 291837,
+      "num": 418579,
       "word": "朴智妍晒朴孝敏婚礼照",
       "onboard_time": 1744347082,
       "rank": 25,
@@ -5747,6 +5787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 279116,
+      "num": 279116,
+      "word": "台风",
+      "onboard_time": 1744347802,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 278923,
       "num": 278923,
       "word": "金价跌超30元有人拉着行李箱扫货",
@@ -5769,6 +5817,14 @@
       "onboard_time": 1743995363,
       "rank": 37,
       "category": "财经"
+    },
+    {
+      "raw_hot": 277214,
+      "num": 277214,
+      "word": "小猫的脚原来这么臭",
+      "onboard_time": 1744350142,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 277184,
@@ -6121,14 +6177,6 @@
       "onboard_time": 1744093344,
       "rank": 18,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 262076,
-      "num": 241437,
-      "word": "陈德容哭着说太难了",
-      "onboard_time": 1744348524,
-      "rank": 30,
-      "category": "综艺,综艺"
     },
     {
       "raw_hot": 261846,
@@ -6857,14 +6905,6 @@
       "onboard_time": 1743944781,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 232493,
-      "num": 232493,
-      "word": "张小婉舞娘好看",
-      "onboard_time": 1744348341,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 232486,
@@ -7740,7 +7780,7 @@
     },
     {
       "raw_hot": 210086,
-      "num": 210086,
+      "num": 222219,
       "word": "大山太好听了",
       "onboard_time": 1744347683,
       "rank": 37,
@@ -7748,7 +7788,7 @@
     },
     {
       "raw_hot": 209950,
-      "num": 209950,
+      "num": 694288,
       "word": "打鸟人首先是爱鸟人",
       "onboard_time": 1744347384,
       "rank": 38,
@@ -8025,14 +8065,6 @@
       "onboard_time": 1744172004,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 205204,
-      "num": 205204,
-      "word": "宋妍霏团贡献了浪姐6名舞台",
-      "onboard_time": 1744348822,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 205044,
@@ -8755,6 +8787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194002,
+      "num": 194002,
+      "word": "石家庄大风",
+      "onboard_time": 1744349423,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 193894,
       "num": 158163,
       "word": "白鹿五月底进组",
@@ -8849,6 +8889,14 @@
       "onboard_time": 1743943280,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 192934,
+      "num": 192934,
+      "word": "叶童组怎么输的",
+      "onboard_time": 1744349901,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 192862,
@@ -9811,6 +9859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177757,
+      "num": 177757,
+      "word": "浪姐户外舞台 没苦硬吃",
+      "onboard_time": 1744349901,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177706,
       "num": 169128,
       "word": "cpf万能嗑糖公式",
@@ -10073,14 +10129,6 @@
       "onboard_time": 1744182803,
       "rank": 14,
       "category": "国际时政,财经"
-    },
-    {
-      "raw_hot": 174443,
-      "num": 174443,
-      "word": "台风",
-      "onboard_time": 1744347802,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 174363,
@@ -10969,14 +11017,6 @@
       "onboard_time": 1744038924,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 159789,
-      "num": 159789,
-      "word": "马斯克笑不出来了",
-      "onboard_time": 1744347562,
-      "rank": 49,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 159733,
@@ -14739,14 +14779,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 100481,
-      "num": 379640,
-      "word": "美国完全是在耍赖抢钱",
-      "onboard_time": 1744347862,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 100423,
       "num": 100423,
       "word": "陈梦去踏青了",
@@ -14961,6 +14993,14 @@
       "onboard_time": 1744255943,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 93620,
+      "num": 334575,
+      "word": "COA8全球总决赛",
+      "onboard_time": 1744349961,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 93614,
@@ -15281,6 +15321,14 @@
       "onboard_time": 1744234515,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85054,
+      "num": 506481,
+      "word": "没有美国的全球化会是什么样子",
+      "onboard_time": 1744349123,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 84901,
@@ -15745,6 +15793,14 @@
       "onboard_time": 1743996684,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 71669,
+      "num": 413312,
+      "word": "驳有关中美贸易战三大谬论",
+      "onboard_time": 1744348163,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 71187,
@@ -16528,6 +16584,14 @@
       "word": "人均3888元餐厅大象粑粑甜品需预约",
       "onboard_time": 1744198407,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49070,
+      "num": 218859,
+      "word": "原来这么多汽车客运站默默消失了",
+      "onboard_time": 1744350142,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -17411,14 +17475,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 26186,
-      "num": 413312,
-      "word": "驳有关中美贸易战三大谬论",
-      "onboard_time": 1744348163,
-      "rank": 14,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 25640,
       "num": 175183,
       "word": "缅甸地震后的受损卧佛",
@@ -18257,6 +18313,14 @@
       "onboard_time": 1743909259,
       "rank": 39,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 10153,
+      "num": 218843,
+      "word": "网上买处方药会影响医保吗",
+      "onboard_time": 1744349961,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 9931,
