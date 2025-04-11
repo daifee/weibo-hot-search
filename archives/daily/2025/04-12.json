@@ -1,6 +1,6 @@
 {
   "startTime": 1744389070116,
-  "endTime": 1744411323104,
+  "endTime": 1744413782923,
   "band_list": [
     {
       "raw_hot": 1938262,
@@ -9,6 +9,22 @@
       "onboard_time": 1744363704,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1357666,
+      "num": 1357666,
+      "word": "直观感受12级大风有多猛",
+      "onboard_time": 1744391778,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1337496,
+      "num": 1337496,
+      "word": "中国制造商向美国客户明确表示不会降价",
+      "onboard_time": 1744391778,
+      "rank": 6,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1288722,
@@ -27,14 +43,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1008089,
-      "num": 1008089,
-      "word": "直观感受12级大风有多猛",
-      "onboard_time": 1744391778,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 925804,
       "num": 925804,
       "word": "爱奇艺 淮水竹亭",
@@ -49,14 +57,6 @@
       "onboard_time": 1744377262,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 852291,
-      "num": 852291,
-      "word": "中国制造商向美国客户明确表示不会降价",
-      "onboard_time": 1744391778,
-      "rank": 6,
-      "category": "国内时政"
     },
     {
       "raw_hot": 690530,
@@ -83,8 +83,16 @@
       "category": "演出"
     },
     {
-      "raw_hot": 432875,
-      "num": 345481,
+      "raw_hot": 551860,
+      "num": 551860,
+      "word": "特朗普抱怨限水头发湿透需15分钟",
+      "onboard_time": 1744382965,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 479071,
+      "num": 479071,
       "word": "性教育被语文老师讲明白了",
       "onboard_time": 1744389020,
       "rank": 49,
@@ -105,14 +113,6 @@
       "onboard_time": 1744384824,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 352396,
-      "num": 310631,
-      "word": "特朗普抱怨限水头发湿透需15分钟",
-      "onboard_time": 1744382965,
-      "rank": 20,
-      "category": "国际时政"
     },
     {
       "raw_hot": 350593,
@@ -203,6 +203,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 218242,
+      "num": 551915,
+      "word": "汪苏泷就让这大雨落下具象化",
+      "onboard_time": 1744388362,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 217668,
       "num": 217668,
       "word": "美国输华商品已无市场接受可能性",
@@ -217,6 +225,22 @@
       "onboard_time": 1744387404,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 201995,
+      "num": 201995,
+      "word": "廊坊纪委调查三河商户招牌变色",
+      "onboard_time": 1744380864,
+      "rank": 35,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 197734,
+      "num": 95178,
+      "word": "北京北站破例为300名学生开东门",
+      "onboard_time": 1744413739,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 188848,
@@ -291,14 +315,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 153878,
-      "num": 188644,
-      "word": "汪苏泷就让这大雨落下具象化",
-      "onboard_time": 1744388362,
-      "rank": 28,
-      "category": "演出"
-    },
-    {
       "raw_hot": 152955,
       "num": 152955,
       "word": "贾玲新电影饭制海报",
@@ -347,14 +363,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 129207,
-      "num": 129207,
-      "word": "廊坊纪委调查三河商户招牌变色",
-      "onboard_time": 1744380864,
-      "rank": 35,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 126543,
       "num": 126543,
       "word": "关税加了鸡蛋没了",
@@ -363,12 +371,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 126117,
+      "num": 158645,
+      "word": "邓超说鹿晗状态非常好",
+      "onboard_time": 1744413439,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 123156,
       "num": 123156,
       "word": "TES状态",
       "onboard_time": 1744385724,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 120870,
+      "num": 120870,
+      "word": "特朗普关税政策让前财长愤怒爆表",
+      "onboard_time": 1744371502,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 118606,
@@ -392,6 +416,22 @@
       "word": "主人花16万元克隆去世爱犬",
       "onboard_time": 1744383744,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110304,
+      "num": 92691,
+      "word": "中国零售巨头集体出手",
+      "onboard_time": 1744413439,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 108386,
+      "num": 108386,
+      "word": "大风",
+      "onboard_time": 1744413739,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -435,12 +475,52 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 88015,
-      "num": 88015,
-      "word": "特朗普关税政策让前财长愤怒爆表",
-      "onboard_time": 1744371502,
-      "rank": 48,
-      "category": "国际时政"
+      "raw_hot": 88353,
+      "num": 88353,
+      "word": "主持人杨乐乐为保洁阿姨发声",
+      "onboard_time": 1744413680,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 86818,
+      "num": 86818,
+      "word": "男子住32楼为防大风将窗户全封死",
+      "onboard_time": 1744413499,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80340,
+      "num": 89151,
+      "word": "法老",
+      "onboard_time": 1744413619,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 79777,
+      "num": 74807,
+      "word": "偷跑",
+      "onboard_time": 1744413019,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 74682,
+      "num": 74682,
+      "word": "陈若琳上有老下有小的感觉",
+      "onboard_time": 1744410856,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 72360,
+      "num": 551882,
+      "word": "北京最大阵风14级",
+      "onboard_time": 1744413078,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70805,
@@ -451,12 +531,36 @@
       "category": "财经"
     },
     {
-      "raw_hot": 57701,
-      "num": 57701,
+      "raw_hot": 68925,
+      "num": 68925,
       "word": "美国金融市场出现三杀局面",
       "onboard_time": 1744398316,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 66562,
+      "num": 96191,
+      "word": "妻子的浪漫旅行高质量男女",
+      "onboard_time": 1744410677,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 63826,
+      "num": 63826,
+      "word": "金价飙涨黄金回收商家不敢持金过夜",
+      "onboard_time": 1744413439,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 60909,
+      "num": 60909,
+      "word": "日本国家补贴",
+      "onboard_time": 1744413499,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 55492,
@@ -473,6 +577,14 @@
       "onboard_time": 1744405094,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 43993,
+      "num": 140991,
+      "word": "虞书欣你往图里加了什么",
+      "onboard_time": 1744413019,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 41000,
@@ -563,20 +675,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 21269,
-      "num": 32647,
-      "word": "妻子的浪漫旅行高质量男女",
-      "onboard_time": 1744410677,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 20821,
       "num": 20821,
       "word": "田嘉瑞月鳞绮纪杀青文",
       "onboard_time": 1744399755,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 18824,
+      "num": 106743,
+      "word": "打关税战没有赢家",
+      "onboard_time": 1744413379,
+      "rank": 24,
+      "category": "国际时政,财经"
     },
     {
       "raw_hot": 16242,
@@ -601,6 +713,14 @@
       "onboard_time": 1744387583,
       "rank": 29,
       "category": "体育,健康医疗"
+    },
+    {
+      "raw_hot": 10949,
+      "num": 83117,
+      "word": "10时至22时为北京风力最强时段",
+      "onboard_time": 1744413680,
+      "rank": 37,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
