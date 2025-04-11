@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/12 07:23:02
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/12 07:37:22
 </p>
 </blockquote>
 <p>
@@ -2237,6 +2237,12 @@ SM新男团 撞名（热度：910464）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E6%B2%A1%E8%BD%A8%E7%A1%AC%E5%87%BA%E6%8D%89%E5%A5%B8%E7%8E%B0%E5%9C%BA%23" target="weibo">
 第一次见没轨硬出捉奸现场（热度：897017）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%8C%97%E7%AB%99%E7%A0%B4%E4%BE%8B%E4%B8%BA300%E5%90%8D%E5%AD%A6%E7%94%9F%E5%BC%80%E4%B8%9C%E9%97%A8%23" target="weibo">
+北京北站破例为300名学生开东门（热度：893457）
 </a>
 </li>
 
@@ -5655,6 +5661,12 @@ NINEPERCENT七周年（热度：415549）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%BD%8F32%E6%A5%BC%E4%B8%BA%E9%98%B2%E5%A4%A7%E9%A3%8E%E5%B0%86%E7%AA%97%E6%88%B7%E5%85%A8%E5%B0%81%E6%AD%BB%23" target="weibo">
+男子住32楼为防大风将窗户全封死（热度：405116）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E5%93%885%E5%AE%9A%E6%A1%A3%23" target="weibo">
 五哈5定档（热度：404938）
 </a>
@@ -5883,6 +5895,12 @@ TVB女演员陈思齐摆摊卖鸡爪（热度：399114）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%9C%80%E5%A4%A7%E9%98%B5%E9%A3%8E14%E7%BA%A7%23" target="weibo">
+北京最大阵风14级（热度：390997）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%94%80%E5%86%B0%E6%9D%8E%E7%8E%B0%E6%89%93%E9%B8%9F%E5%90%B4%E7%A3%8A%E9%AA%91%E8%A1%8C%23" target="weibo">
 王一博攀冰李现打鸟吴磊骑行（热度：390810）
 </a>
@@ -5993,24 +6011,6 @@ A股走强（热度：387879）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23AI%E5%A4%8D%E5%8E%9F%E5%87%BA22%E5%B2%81%E7%83%88%E5%A3%AB%E7%9A%84%E6%A8%A1%E6%A0%B7%23" target="weibo">
 AI复原出22岁烈士的模样（热度：383185）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E7%8E%89%E5%85%B0%E9%A2%84%E6%B5%8B%23" target="weibo">
-白玉兰预测（热度：382947）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E9%82%A6%23" target="weibo">
-杜邦（热度：382896）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23EXO%E7%9B%B4%E6%92%AD%23" target="weibo">
-EXO直播（热度：382852）
 </a>
 </li>
 

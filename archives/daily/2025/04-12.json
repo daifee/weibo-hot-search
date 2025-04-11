@@ -1,6 +1,6 @@
 {
   "startTime": 1744389070116,
-  "endTime": 1744413782923,
+  "endTime": 1744414642625,
   "band_list": [
     {
       "raw_hot": 1938262,
@@ -49,6 +49,14 @@
       "onboard_time": 1744383084,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 893457,
+      "num": 893457,
+      "word": "北京北站破例为300名学生开东门",
+      "onboard_time": 1744413739,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 855111,
@@ -115,6 +123,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 405116,
+      "num": 893914,
+      "word": "男子住32楼为防大风将窗户全封死",
+      "onboard_time": 1744413499,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 390997,
+      "num": 902296,
+      "word": "北京最大阵风14级",
+      "onboard_time": 1744413078,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 350593,
       "num": 350593,
       "word": "北京全市阵风普遍达8级以上",
@@ -163,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 321785,
+      "num": 929877,
+      "word": "邓超说鹿晗状态非常好",
+      "onboard_time": 1744413439,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 317072,
       "num": 317072,
       "word": "鞠婧祎工作室",
@@ -203,8 +235,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 218242,
-      "num": 551915,
+      "raw_hot": 224934,
+      "num": 921607,
       "word": "汪苏泷就让这大雨落下具象化",
       "onboard_time": 1744388362,
       "rank": 28,
@@ -217,6 +249,14 @@
       "onboard_time": 1744359265,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 209527,
+      "num": 119652,
+      "word": "主持人杨乐乐为保洁阿姨发声",
+      "onboard_time": 1744413680,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 204661,
@@ -235,12 +275,20 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 197734,
-      "num": 95178,
-      "word": "北京北站破例为300名学生开东门",
+      "raw_hot": 201934,
+      "num": 201934,
+      "word": "大风",
       "onboard_time": 1744413739,
-      "rank": 30,
+      "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 200092,
+      "num": 917513,
+      "word": "中企抢购巴西大豆后美国农民心凉了",
+      "onboard_time": 1744414041,
+      "rank": 6,
+      "category": "国际时政"
     },
     {
       "raw_hot": 188848,
@@ -283,6 +331,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 165707,
+      "num": 119247,
+      "word": "中国零售巨头集体出手",
+      "onboard_time": 1744413439,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 164788,
       "num": 164788,
       "word": "代号鸢",
@@ -308,7 +364,7 @@
     },
     {
       "raw_hot": 159650,
-      "num": 159650,
+      "num": 231313,
       "word": "阿诺妹妹是比利时超模",
       "onboard_time": 1744371022,
       "rank": 27,
@@ -371,12 +427,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 126117,
-      "num": 158645,
-      "word": "邓超说鹿晗状态非常好",
-      "onboard_time": 1744413439,
-      "rank": 17,
-      "category": "演出"
+      "raw_hot": 123448,
+      "num": 123448,
+      "word": "特朗普关税政策让前财长愤怒爆表",
+      "onboard_time": 1744371502,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 123156,
@@ -387,12 +443,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 120870,
-      "num": 120870,
-      "word": "特朗普关税政策让前财长愤怒爆表",
-      "onboard_time": 1744371502,
+      "raw_hot": 121339,
+      "num": 121339,
+      "word": "偷跑",
+      "onboard_time": 1744413019,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 118882,
+      "num": 118882,
+      "word": "金价飙涨黄金回收商家不敢持金过夜",
+      "onboard_time": 1744413439,
       "rank": 48,
-      "category": "国际时政"
+      "category": "财经"
     },
     {
       "raw_hot": 118606,
@@ -416,22 +480,6 @@
       "word": "主人花16万元克隆去世爱犬",
       "onboard_time": 1744383744,
       "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 110304,
-      "num": 92691,
-      "word": "中国零售巨头集体出手",
-      "onboard_time": 1744413439,
-      "rank": 32,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 108386,
-      "num": 108386,
-      "word": "大风",
-      "onboard_time": 1744413739,
-      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -467,6 +515,30 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 93704,
+      "num": 93704,
+      "word": "日本国家补贴",
+      "onboard_time": 1744413499,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 92751,
+      "num": 120707,
+      "word": "王力宏烧钢琴细节",
+      "onboard_time": 1744413979,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 92336,
+      "num": 120246,
+      "word": "法老",
+      "onboard_time": 1744413619,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 92304,
       "num": 120385,
       "word": "美教育部长误将AI称为A1",
@@ -475,51 +547,27 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 88353,
-      "num": 88353,
-      "word": "主持人杨乐乐为保洁阿姨发声",
-      "onboard_time": 1744413680,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 86818,
-      "num": 86818,
-      "word": "男子住32楼为防大风将窗户全封死",
-      "onboard_time": 1744413499,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 80340,
-      "num": 89151,
-      "word": "法老",
-      "onboard_time": 1744413619,
-      "rank": 34,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 79777,
-      "num": 74807,
-      "word": "偷跑",
-      "onboard_time": 1744413019,
-      "rank": 41,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 74682,
-      "num": 74682,
+      "raw_hot": 89532,
+      "num": 89532,
       "word": "陈若琳上有老下有小的感觉",
       "onboard_time": 1744410856,
       "rank": 42,
       "category": "体育"
     },
     {
-      "raw_hot": 72360,
-      "num": 551882,
-      "word": "北京最大阵风14级",
-      "onboard_time": 1744413078,
-      "rank": 9,
+      "raw_hot": 80376,
+      "num": 80376,
+      "word": "恋与深空报警",
+      "onboard_time": 1744413799,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 78888,
+      "num": 909458,
+      "word": "10时至22时为北京风力最强时段",
+      "onboard_time": 1744413680,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -539,6 +587,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 66985,
+      "num": 66985,
+      "word": "恋与深空回应开发中素材外泄",
+      "onboard_time": 1744414580,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 66562,
       "num": 96191,
       "word": "妻子的浪漫旅行高质量男女",
@@ -547,20 +603,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 63826,
-      "num": 63826,
-      "word": "金价飙涨黄金回收商家不敢持金过夜",
-      "onboard_time": 1744413439,
-      "rank": 48,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 60909,
-      "num": 60909,
-      "word": "日本国家补贴",
-      "onboard_time": 1744413499,
-      "rank": 49,
-      "category": "海外新闻"
+      "raw_hot": 59995,
+      "num": 140991,
+      "word": "虞书欣你往图里加了什么",
+      "onboard_time": 1744413019,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 55492,
@@ -579,20 +627,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 43993,
-      "num": 140991,
-      "word": "虞书欣你往图里加了什么",
-      "onboard_time": 1744413019,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 41000,
       "num": 105717,
       "word": "10年期美债收益率站上4.5%",
       "onboard_time": 1744391839,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 38590,
+      "num": 119943,
+      "word": "打关税战没有赢家",
+      "onboard_time": 1744413379,
+      "rank": 24,
+      "category": "国际时政,财经"
     },
     {
       "raw_hot": 37290,
@@ -683,14 +731,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 18824,
-      "num": 106743,
-      "word": "打关税战没有赢家",
-      "onboard_time": 1744413379,
-      "rank": 24,
-      "category": "国际时政,财经"
-    },
-    {
       "raw_hot": 16242,
       "num": 21040,
       "word": "体重与抗风级的关系你了解吗",
@@ -713,14 +753,6 @@
       "onboard_time": 1744387583,
       "rank": 29,
       "category": "体育,健康医疗"
-    },
-    {
-      "raw_hot": 10949,
-      "num": 83117,
-      "word": "10时至22时为北京风力最强时段",
-      "onboard_time": 1744413680,
-      "rank": 37,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

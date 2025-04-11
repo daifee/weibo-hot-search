@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1744413782923,
+  "endTime": 1744414642625,
   "band_list": [
     {
       "raw_hot": 18779562,
@@ -1769,6 +1769,14 @@
       "onboard_time": 1743937821,
       "rank": 28,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 893457,
+      "num": 893457,
+      "word": "北京北站破例为300名学生开东门",
+      "onboard_time": 1744413739,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 891347,
@@ -4387,6 +4395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 405116,
+      "num": 893914,
+      "word": "男子住32楼为防大风将窗户全封死",
+      "onboard_time": 1744413499,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 404938,
       "num": 542521,
       "word": "五哈5定档",
@@ -4609,6 +4625,14 @@
       "onboard_time": 1744338024,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 390997,
+      "num": 902296,
+      "word": "北京最大阵风14级",
+      "onboard_time": 1744413078,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 390810,
@@ -5505,6 +5529,14 @@
       "onboard_time": 1744297645,
       "rank": 23,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 321785,
+      "num": 929877,
+      "word": "邓超说鹿晗状态非常好",
+      "onboard_time": 1744413439,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 321466,
@@ -8187,6 +8219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 224934,
+      "num": 921607,
+      "word": "汪苏泷就让这大雨落下具象化",
+      "onboard_time": 1744388362,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 224780,
       "num": 224780,
       "word": "林允发质",
@@ -8433,14 +8473,6 @@
       "onboard_time": 1744067540,
       "rank": 9,
       "category": "财经"
-    },
-    {
-      "raw_hot": 218242,
-      "num": 551915,
-      "word": "汪苏泷就让这大雨落下具象化",
-      "onboard_time": 1744388362,
-      "rank": 28,
-      "category": "演出"
     },
     {
       "raw_hot": 218181,
@@ -8833,6 +8865,14 @@
       "onboard_time": 1743926781,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 209527,
+      "num": 119652,
+      "word": "主持人杨乐乐为保洁阿姨发声",
+      "onboard_time": 1744413680,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 209440,
@@ -9435,6 +9475,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 200092,
+      "num": 917513,
+      "word": "中企抢购巴西大豆后美国农民心凉了",
+      "onboard_time": 1744414041,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 200082,
       "num": 200082,
       "word": "减肥误食1份炸鸡怎么办",
@@ -9600,14 +9648,6 @@
       "word": "医院通报主任被举报隐匿6000万",
       "onboard_time": 1744375462,
       "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 197734,
-      "num": 95178,
-      "word": "北京北站破例为300名学生开东门",
-      "onboard_time": 1744413739,
-      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -11921,6 +11961,14 @@
       "onboard_time": 1744340601,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 165707,
+      "num": 119247,
+      "word": "中国零售巨头集体出手",
+      "onboard_time": 1744413439,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 165659,
@@ -14891,14 +14939,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 126117,
-      "num": 158645,
-      "word": "邓超说鹿晗状态非常好",
-      "onboard_time": 1744413439,
-      "rank": 17,
-      "category": "演出"
-    },
-    {
       "raw_hot": 125547,
       "num": 271777,
       "word": "张艺兴出道周年直播",
@@ -15195,6 +15235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121339,
+      "num": 121339,
+      "word": "偷跑",
+      "onboard_time": 1744413019,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 121303,
       "num": 121303,
       "word": "小鬼上音综是来翻旧账的",
@@ -15369,6 +15417,14 @@
       "onboard_time": 1743958037,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118882,
+      "num": 118882,
+      "word": "金价飙涨黄金回收商家不敢持金过夜",
+      "onboard_time": 1744413439,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 118831,
@@ -15889,14 +15945,6 @@
       "onboard_time": 1744271422,
       "rank": 47,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 110304,
-      "num": 92691,
-      "word": "中国零售巨头集体出手",
-      "onboard_time": 1744413439,
-      "rank": 32,
-      "category": "国内时政"
     },
     {
       "raw_hot": 110130,
@@ -16563,6 +16611,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 93704,
+      "num": 93704,
+      "word": "日本国家补贴",
+      "onboard_time": 1744413499,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 93620,
       "num": 334575,
       "word": "COA8全球总决赛",
@@ -16595,6 +16651,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 92751,
+      "num": 120707,
+      "word": "王力宏烧钢琴细节",
+      "onboard_time": 1744413979,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 92500,
       "num": 92500,
       "word": "赵又廷与高圆圆接女儿放学",
@@ -16609,6 +16673,14 @@
       "onboard_time": 1744185983,
       "rank": 25,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 92336,
+      "num": 120246,
+      "word": "法老",
+      "onboard_time": 1744413619,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 92242,
@@ -16715,6 +16787,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 89532,
+      "num": 89532,
+      "word": "陈若琳上有老下有小的感觉",
+      "onboard_time": 1744410856,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89243,
       "num": 89243,
       "word": "美国网友称领取食物队伍已爆满",
@@ -16737,14 +16817,6 @@
       "onboard_time": 1744064956,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 88353,
-      "num": 88353,
-      "word": "主持人杨乐乐为保洁阿姨发声",
-      "onboard_time": 1744413680,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 87851,
@@ -16785,14 +16857,6 @@
       "onboard_time": 1743904341,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 86818,
-      "num": 86818,
-      "word": "男子住32楼为防大风将窗户全封死",
-      "onboard_time": 1744413499,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 86767,
@@ -17131,20 +17195,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 80376,
+      "num": 80376,
+      "word": "恋与深空报警",
+      "onboard_time": 1744413799,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 80343,
       "num": 218832,
       "word": "又一波增持来了",
       "onboard_time": 1744127542,
       "rank": 9,
       "category": "财经"
-    },
-    {
-      "raw_hot": 80340,
-      "num": 89151,
-      "word": "法老",
-      "onboard_time": 1744413619,
-      "rank": 34,
-      "category": "演出"
     },
     {
       "raw_hot": 80288,
@@ -17203,12 +17267,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 79777,
-      "num": 74807,
-      "word": "偷跑",
-      "onboard_time": 1744413019,
-      "rank": 41,
-      "category": "游戏"
+      "raw_hot": 78888,
+      "num": 909458,
+      "word": "10时至22时为北京风力最强时段",
+      "onboard_time": 1744413680,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78754,
@@ -17323,14 +17387,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 74682,
-      "num": 74682,
-      "word": "陈若琳上有老下有小的感觉",
-      "onboard_time": 1744410856,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 74666,
       "num": 74666,
       "word": "钓鱼晒成炭黑大爷走红后朋友发声",
@@ -17408,14 +17464,6 @@
       "word": "女子花1万做双眼皮修复无法闭合",
       "onboard_time": 1744363462,
       "rank": 32,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 72360,
-      "num": 551882,
-      "word": "北京最大阵风14级",
-      "onboard_time": 1744413078,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -17683,6 +17731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 66985,
+      "num": 66985,
+      "word": "恋与深空回应开发中素材外泄",
+      "onboard_time": 1744414580,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 66718,
       "num": 66718,
       "word": "Hyunjun公开",
@@ -17859,14 +17915,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 63826,
-      "num": 63826,
-      "word": "金价飙涨黄金回收商家不敢持金过夜",
-      "onboard_time": 1744413439,
-      "rank": 48,
-      "category": "财经"
-    },
-    {
       "raw_hot": 63523,
       "num": 1034635,
       "word": "梦想打开的100种方式",
@@ -17995,14 +18043,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 60909,
-      "num": 60909,
-      "word": "日本国家补贴",
-      "onboard_time": 1744413499,
-      "rank": 49,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 60899,
       "num": 218994,
       "word": "王楚钦说跌宕起伏让我成熟",
@@ -18041,6 +18081,14 @@
       "onboard_time": 1744130060,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 59995,
+      "num": 140991,
+      "word": "虞书欣你往图里加了什么",
+      "onboard_time": 1744413019,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 59939,
@@ -18571,14 +18619,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 43993,
-      "num": 140991,
-      "word": "虞书欣你往图里加了什么",
-      "onboard_time": 1744413019,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 43831,
       "num": 328340,
       "word": "40岁以上短剧演员稀缺",
@@ -18881,6 +18921,14 @@
       "onboard_time": 1744155321,
       "rank": 31,
       "category": "财经"
+    },
+    {
+      "raw_hot": 38590,
+      "num": 119943,
+      "word": "打关税战没有赢家",
+      "onboard_time": 1744413379,
+      "rank": 24,
+      "category": "国际时政,财经"
     },
     {
       "raw_hot": 38577,
@@ -19947,14 +19995,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 18824,
-      "num": 106743,
-      "word": "打关税战没有赢家",
-      "onboard_time": 1744413379,
-      "rank": 24,
-      "category": "国际时政,财经"
-    },
-    {
       "raw_hot": 18820,
       "num": 170117,
       "word": "美国夫妇100万连住游轮15年",
@@ -20409,14 +20449,6 @@
       "onboard_time": 1743917480,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 10949,
-      "num": 83117,
-      "word": "10时至22时为北京风力最强时段",
-      "onboard_time": 1744413680,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 10898,
