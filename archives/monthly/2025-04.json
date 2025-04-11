@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744396402276,
+  "endTime": 1744397198094,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -4067,6 +4067,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 708369,
+      "num": 708369,
+      "word": "直观感受12级大风有多猛",
+      "onboard_time": 1744391778,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 707836,
       "num": 380772,
       "word": "任时完取关金秀贤",
@@ -4209,14 +4217,6 @@
       "onboard_time": 1743992543,
       "rank": 8,
       "category": "财经"
-    },
-    {
-      "raw_hot": 684069,
-      "num": 684069,
-      "word": "直观感受12级大风有多猛",
-      "onboard_time": 1744391778,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 683322,
@@ -32411,6 +32411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 50953,
+      "num": 201624,
+      "word": "这次大风为何来势汹汹",
+      "onboard_time": 1744396096,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50772,
       "num": 50772,
       "word": "董宇辉 人是被成就感所驱使的动物",
@@ -33507,6 +33515,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 37290,
+      "num": 37290,
+      "word": "中央气象台预警5连",
+      "onboard_time": 1744393756,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37245,
       "num": 59991,
       "word": "高颜值孤独症男孩小岱走红背后",
@@ -33537,14 +33553,6 @@
       "onboard_time": 1744279762,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 36998,
-      "num": 36998,
-      "word": "中央气象台预警5连",
-      "onboard_time": 1744393756,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 36974,
@@ -33953,6 +33961,14 @@
       "onboard_time": 1744362564,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32581,
+      "num": 32581,
+      "word": "爱用物分享",
+      "onboard_time": 1744396576,
+      "rank": 40,
+      "category": "美妆"
     },
     {
       "raw_hot": 32284,
@@ -35505,14 +35521,6 @@
       "onboard_time": 1743962416,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 16729,
-      "num": 86677,
-      "word": "这次大风为何来势汹汹",
-      "onboard_time": 1744396096,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 16377,
