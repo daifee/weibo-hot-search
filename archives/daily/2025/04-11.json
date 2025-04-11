@@ -1,6 +1,6 @@
 {
   "startTime": 1744302697177,
-  "endTime": 1744343355372,
+  "endTime": 1744345782427,
   "band_list": [
     {
       "raw_hot": 3800577,
@@ -83,11 +83,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1138387,
-      "num": 1138387,
+      "raw_hot": 1264996,
+      "num": 1264996,
       "word": "男子造谣地铁猥亵案2当事人相识",
       "onboard_time": 1744336762,
       "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 1105383,
+      "num": 1105383,
+      "word": "上海辟谣地铁猥亵事件当事人相识",
+      "onboard_time": 1744339402,
+      "rank": 13,
       "category": "辟谣/通报"
     },
     {
@@ -105,14 +113,6 @@
       "onboard_time": 1744330162,
       "rank": 3,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 907044,
-      "num": 907044,
-      "word": "上海辟谣地铁猥亵事件当事人相识",
-      "onboard_time": 1744339402,
-      "rank": 13,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 901279,
@@ -139,6 +139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 810037,
+      "num": 810037,
+      "word": "美债",
+      "onboard_time": 1744340722,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 806360,
       "num": 806360,
       "word": "马斯克炮轰特朗普贸易高级顾问",
@@ -153,6 +161,14 @@
       "onboard_time": 1744294463,
       "rank": 10,
       "category": "互联网,艺人"
+    },
+    {
+      "raw_hot": 753863,
+      "num": 753863,
+      "word": "折腰",
+      "onboard_time": 1744336882,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 708786,
@@ -179,20 +195,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 651810,
-      "num": 744428,
-      "word": "折腰",
-      "onboard_time": 1744336882,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 648945,
       "num": 648945,
       "word": "张嘉倪营业了",
       "onboard_time": 1744293143,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 638553,
+      "num": 638553,
+      "word": "乘风二公",
+      "onboard_time": 1744344383,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 632840,
@@ -211,12 +227,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 502734,
-      "num": 502734,
-      "word": "美债",
-      "onboard_time": 1744340722,
-      "rank": 45,
-      "category": "财经"
+      "raw_hot": 509907,
+      "num": 509907,
+      "word": "rapper祥龙diss严浩翔",
+      "onboard_time": 1744343782,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 493411,
@@ -257,6 +273,22 @@
       "onboard_time": 1744294524,
       "rank": 14,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 409530,
+      "num": 409530,
+      "word": "泽连斯基愿付美国500亿美元换军援",
+      "onboard_time": 1744344323,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 408191,
+      "num": 408191,
+      "word": "在美华人回应鸡蛋被疯抢",
+      "onboard_time": 1744343002,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 405155,
@@ -307,8 +339,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 353683,
+      "num": 353683,
+      "word": "集成电路流片地认定为原产地",
+      "onboard_time": 1744343062,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 353407,
-      "num": 353407,
+      "num": 397053,
       "word": "厂家回应黄子韬卫生巾工厂进展",
       "onboard_time": 1744339102,
       "rank": 19,
@@ -321,6 +361,14 @@
       "onboard_time": 1744298542,
       "rank": 16,
       "category": "网红"
+    },
+    {
+      "raw_hot": 338765,
+      "num": 494495,
+      "word": "无忧渡 播出时间",
+      "onboard_time": 1744344262,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 336517,
@@ -339,12 +387,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 334480,
-      "num": 334480,
-      "word": "集成电路流片地认定为原产地",
-      "onboard_time": 1744343062,
-      "rank": 22,
-      "category": "民生新闻"
+      "raw_hot": 308405,
+      "num": 308405,
+      "word": "半导体",
+      "onboard_time": 1744343841,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 308256,
@@ -353,6 +401,14 @@
       "onboard_time": 1744335082,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 306113,
+      "num": 475281,
+      "word": "Daniel毕业照",
+      "onboard_time": 1744343002,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 303582,
@@ -451,12 +507,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 253198,
-      "num": 350746,
-      "word": "Daniel毕业照",
-      "onboard_time": 1744343002,
-      "rank": 16,
-      "category": "艺人"
+      "raw_hot": 252202,
+      "num": 321760,
+      "word": "国乒出征澳门世界杯",
+      "onboard_time": 1744344142,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 248854,
+      "num": 1293817,
+      "word": "美关税讹诈严重扰乱全球产供链稳定",
+      "onboard_time": 1744339881,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 243707,
@@ -491,18 +555,18 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 224439,
+      "num": 345026,
+      "word": "月鳞绮纪杀青",
+      "onboard_time": 1744341862,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 219818,
       "num": 1172220,
       "word": "中国不接受施压威胁讹诈",
       "onboard_time": 1744292484,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 217661,
-      "num": 1174091,
-      "word": "美关税讹诈严重扰乱全球产供链稳定",
-      "onboard_time": 1744339881,
       "rank": 2,
       "category": "国内时政"
     },
@@ -515,12 +579,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 210980,
-      "num": 322016,
-      "word": "月鳞绮纪杀青",
-      "onboard_time": 1744341862,
-      "rank": 23,
-      "category": "剧集"
+      "raw_hot": 211672,
+      "num": 338282,
+      "word": "陈德容说你们骂我骂轻点",
+      "onboard_time": 1744345283,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 204358,
@@ -537,6 +601,30 @@
       "onboard_time": 1744340783,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 201676,
+      "num": 302732,
+      "word": "国产剧里的中女就该这么爽",
+      "onboard_time": 1744344262,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 201030,
+      "num": 201030,
+      "word": "王一博说鳄鱼踢的灵感由来",
+      "onboard_time": 1744345162,
+      "rank": 38,
+      "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 198778,
+      "num": 575811,
+      "word": "电影局发声后美电影公司股价大跌",
+      "onboard_time": 1744344625,
+      "rank": 9,
+      "category": "国内时政,财经"
     },
     {
       "raw_hot": 198711,
@@ -587,6 +675,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 183682,
+      "num": 183682,
+      "word": "赴美游客人数断崖式下跌",
+      "onboard_time": 1744342404,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 183592,
+      "num": 183592,
+      "word": "我们的爸爸",
+      "onboard_time": 1744344625,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182670,
       "num": 702409,
       "word": "现货黄金首次冲破3200美元大关",
@@ -611,19 +715,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 174907,
-      "num": 174907,
-      "word": "赴美游客人数断崖式下跌",
-      "onboard_time": 1744342404,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 173077,
       "num": 173077,
       "word": "男子2400万买房儿媳离婚分走1500万",
       "onboard_time": 1744284682,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 172759,
+      "num": 172759,
+      "word": "大笨风 还我周末",
+      "onboard_time": 1744345162,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -660,7 +764,7 @@
     },
     {
       "raw_hot": 168643,
-      "num": 168643,
+      "num": 298936,
       "word": "林瀚回应破防",
       "onboard_time": 1744343122,
       "rank": 38,
@@ -691,6 +795,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 155945,
+      "num": 155945,
+      "word": "华北大风专家建议100斤以下不要出门",
+      "onboard_time": 1744345764,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154469,
       "num": 154469,
       "word": "北京发布大风应对措施",
@@ -699,12 +811,36 @@
       "category": "民生新闻,科学科普"
     },
     {
+      "raw_hot": 153184,
+      "num": 340404,
+      "word": "11日至13日北方局地将遭遇暴雪",
+      "onboard_time": 1744342942,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 152557,
       "num": 264014,
       "word": "今年的牡丹花王长这样",
       "onboard_time": 1744319113,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152327,
+      "num": 527113,
+      "word": "现场体验10级大风是什么感受",
+      "onboard_time": 1744342762,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149160,
+      "num": 149160,
+      "word": "美债抛售潮或迫使特朗普妥协",
+      "onboard_time": 1744345643,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 148436,
@@ -721,6 +857,14 @@
       "onboard_time": 1744327521,
       "rank": 8,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 146218,
+      "num": 146218,
+      "word": "陈都灵杀青剧照",
+      "onboard_time": 1744345524,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 144933,
@@ -852,7 +996,7 @@
     },
     {
       "raw_hot": 123767,
-      "num": 123767,
+      "num": 391778,
       "word": "三代跳水冠军同框",
       "onboard_time": 1744340061,
       "rank": 43,
@@ -905,6 +1049,22 @@
       "onboard_time": 1744331063,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 116889,
+      "num": 318804,
+      "word": "多人反映用面膜致脸部肿胀",
+      "onboard_time": 1744345643,
+      "rank": 30,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 114935,
+      "num": 530640,
+      "word": "伊利喊你领大额生娃补贴",
+      "onboard_time": 1744344323,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113481,
@@ -987,6 +1147,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 83671,
+      "num": 523938,
+      "word": "美元指数下破100大关",
+      "onboard_time": 1744344442,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
       "raw_hot": 82144,
       "num": 137894,
       "word": "李晟罗予彤两个辣妹子晕辣了",
@@ -1009,6 +1177,14 @@
       "onboard_time": 1744282882,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 80382,
+      "num": 523724,
+      "word": "多大风能把100斤的人吹跑",
+      "onboard_time": 1744345225,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80071,
@@ -1041,6 +1217,14 @@
       "onboard_time": 1744285342,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 74038,
+      "num": 449920,
+      "word": "湖南多地有9至11级雷暴大风或龙卷",
+      "onboard_time": 1744344803,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 73463,
@@ -1139,14 +1323,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 37529,
-      "num": 527113,
-      "word": "现场体验10级大风是什么感受",
-      "onboard_time": 1744342762,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 35775,
       "num": 100789,
       "word": "腾讯视频Q2预排",
@@ -1203,27 +1379,11 @@
       "category": "美食"
     },
     {
-      "raw_hot": 21750,
-      "num": 341438,
-      "word": "在美华人回应鸡蛋被疯抢",
-      "onboard_time": 1744343002,
-      "rank": 19,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 20182,
       "num": 153126,
       "word": "北方人如何防范大风",
       "onboard_time": 1744335381,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 19095,
-      "num": 340404,
-      "word": "11日至13日北方局地将遭遇暴雪",
-      "onboard_time": 1744342942,
-      "rank": 20,
       "category": "民生新闻"
     },
     {
