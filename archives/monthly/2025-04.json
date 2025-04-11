@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744393131289,
+  "endTime": 1744396402276,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -4209,6 +4209,14 @@
       "onboard_time": 1743992543,
       "rank": 8,
       "category": "财经"
+    },
+    {
+      "raw_hot": 684069,
+      "num": 684069,
+      "word": "直观感受12级大风有多猛",
+      "onboard_time": 1744391778,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 683322,
@@ -9019,6 +9027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 342685,
+      "num": 342685,
+      "word": "恋与深空偷跑",
+      "onboard_time": 1744395375,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 342551,
       "num": 342551,
       "word": "每天吃2个鸡蛋身体有什么好处",
@@ -12241,14 +12257,6 @@
       "onboard_time": 1743471321,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 250596,
-      "num": 270934,
-      "word": "直观感受12级大风有多猛",
-      "onboard_time": 1744391778,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 250052,
@@ -33531,6 +33539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36998,
+      "num": 36998,
+      "word": "中央气象台预警5连",
+      "onboard_time": 1744393756,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36974,
       "num": 213967,
       "word": "花1500万买地14年后才能过户",
@@ -35489,6 +35505,14 @@
       "onboard_time": 1743962416,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 16729,
+      "num": 86677,
+      "word": "这次大风为何来势汹汹",
+      "onboard_time": 1744396096,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16377,

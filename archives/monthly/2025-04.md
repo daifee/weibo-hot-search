@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/12 01:38:51
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/12 02:33:22
 </p>
 </blockquote>
 <p>
@@ -3171,6 +3171,12 @@ TVB男演员陈键锋学厨以第一名毕业（热度：726197）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9B%B4%E8%A7%82%E6%84%9F%E5%8F%9712%E7%BA%A7%E5%A4%A7%E9%A3%8E%E6%9C%89%E5%A4%9A%E7%8C%9B%23" target="weibo">
+直观感受12级大风有多猛（热度：684069）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9B%B2%E4%BA%BA%E6%8C%89%E6%91%A9%E5%BA%97%E7%94%B7%E5%91%98%E5%B7%A5%E6%9D%80%E5%A5%B3%E8%80%81%E6%9D%BF%E5%90%8E%E6%9C%8D%E6%AF%92%E8%BA%AB%E4%BA%A1%23" target="weibo">
 盲人按摩店男员工杀女老板后服毒身亡（热度：683322）
 </a>
@@ -6005,12 +6011,6 @@ AI复原出22岁烈士的模样（热度：383185）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23EXO%E7%9B%B4%E6%92%AD%23" target="weibo">
 EXO直播（热度：382852）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%80%BC%E5%BE%97%E7%88%B1%E5%AE%9A%E6%A1%A3%23" target="weibo">
-值得爱定档（热度：382244）
 </a>
 </li>
 
