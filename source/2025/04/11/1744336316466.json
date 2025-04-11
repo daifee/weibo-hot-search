@@ -1,0 +1,410 @@
+{
+  "runTime": 1744336316466,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1865221,
+        "num": 1865221,
+        "word": "美俄达成谅解",
+        "onboard_time": 1744333103,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1405464,
+        "num": 1405464,
+        "word": "周六 不出门",
+        "onboard_time": 1744287502,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219818,
+        "num": 1037079,
+        "word": "中国不接受施压威胁讹诈",
+        "onboard_time": 1744292484,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 998181,
+        "num": 998181,
+        "word": "国家承认的唯一的防晒执行标准",
+        "onboard_time": 1744330162,
+        "rank": 3,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 806360,
+        "num": 806360,
+        "word": "马斯克炮轰特朗普贸易高级顾问",
+        "onboard_time": 1744328422,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 641275,
+        "num": 641275,
+        "word": "这风真懂事 一点也不耽误周一上班",
+        "onboard_time": 1744331425,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 493411,
+        "num": 493411,
+        "word": "29岁抗癌博主橙子直肠癌去世",
+        "onboard_time": 1744328422,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 393207,
+        "num": 393207,
+        "word": "10级狂风堪比台风过境",
+        "onboard_time": 1744285102,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 303582,
+        "num": 392450,
+        "word": "王一博荣获法国大奖",
+        "onboard_time": 1744330823,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281515,
+        "num": 391153,
+        "word": "于正回应杨蓉何时进组",
+        "onboard_time": 1744328720,
+        "rank": 9,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 1350604,
+        "num": 389766,
+        "word": "晚晚老公",
+        "onboard_time": 1744333162,
+        "rank": 10,
+        "category": "网红,剧集"
+      },
+      {
+        "raw_hot": 1012036,
+        "num": 388510,
+        "word": "虞书欣王鹤棣疑似坐同款位置",
+        "onboard_time": 1744327820,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 881085,
+        "num": 387070,
+        "word": "特朗普大厦里几乎都是中国制造",
+        "onboard_time": 1744334482,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 708786,
+        "num": 385887,
+        "word": "林瀚",
+        "onboard_time": 1744331552,
+        "rank": 13,
+        "category": "网红,综艺"
+      },
+      {
+        "raw_hot": 74130,
+        "num": 384348,
+        "word": "大风 囤零食",
+        "onboard_time": 1744335443,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 402543,
+        "num": 383683,
+        "word": "短剧疑似AI换脸热巴",
+        "onboard_time": 1744294463,
+        "rank": 15,
+        "category": "互联网,艺人"
+      },
+      {
+        "raw_hot": 248204,
+        "num": 382579,
+        "word": "张嘉倪营业了",
+        "onboard_time": 1744293143,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202313,
+        "num": 381018,
+        "word": "古天乐右眼视网膜穿了两个洞",
+        "onboard_time": 1744314074,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194710,
+        "num": 379679,
+        "word": "电影向阳花",
+        "onboard_time": 1744335381,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 308256,
+        "num": 378623,
+        "word": "全红婵第一陈芋汐第二进决赛",
+        "onboard_time": 1744335082,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1291495,
+        "num": 376320,
+        "word": "上海地铁",
+        "onboard_time": 1744332743,
+        "rank": 20,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 154498,
+        "num": 375599,
+        "word": "地铁猥亵事件中挺身而出女性未找到",
+        "onboard_time": 1744335742,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 374919,
+        "num": 374919,
+        "word": "对美所有进口商品关税再提高50%",
+        "onboard_time": 1744197084,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 325145,
+        "num": 325145,
+        "word": "终于知道为何女厕总有一格打不开了",
+        "onboard_time": 1744298243,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110091,
+        "num": 297341,
+        "word": "美元指数跌破100大关",
+        "onboard_time": 1744335082,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 293479,
+        "num": 293479,
+        "word": "父亲离世前对AI说我要去世了豆包",
+        "onboard_time": 1744307116,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272501,
+        "num": 272501,
+        "word": "女孩谎称生病剃光头外公果然剃了",
+        "onboard_time": 1744323917,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268071,
+        "num": 268071,
+        "word": "领证不用户口本了",
+        "onboard_time": 1744328841,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141078,
+        "num": 245057,
+        "word": "沈月 古装剧本",
+        "onboard_time": 1744335923,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119123,
+        "num": 226851,
+        "word": "关晓彤王子奇新剧路透",
+        "onboard_time": 1744331063,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225554,
+        "num": 225554,
+        "word": "关税战是否还会继续升级",
+        "onboard_time": 1744301061,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 209733,
+        "num": 209733,
+        "word": "特朗普家族几天获利300亿美元",
+        "onboard_time": 1744275443,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 193807,
+        "num": 193807,
+        "word": "男子不会游泳被朋友激将下水溺亡",
+        "onboard_time": 1744332804,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191460,
+        "num": 191460,
+        "word": "马云最新内部演讲",
+        "onboard_time": 1744333823,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 190122,
+        "num": 190122,
+        "word": "相信中国相信明天",
+        "onboard_time": 1744334782,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183734,
+        "num": 183734,
+        "word": "瘦了36斤才敢说的减肥大实话",
+        "onboard_time": 1744297645,
+        "rank": 35,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 168917,
+        "num": 168917,
+        "word": "大风",
+        "onboard_time": 1744336041,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157195,
+        "num": 157195,
+        "word": "物理防晒这样选不踩坑",
+        "onboard_time": 1744336162,
+        "rank": 37,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 153413,
+        "num": 153413,
+        "word": "张檬想40岁前要二胎",
+        "onboard_time": 1744297703,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20182,
+        "num": 153126,
+        "word": "北方人如何防范大风",
+        "onboard_time": 1744335381,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152884,
+        "num": 152884,
+        "word": "张凌赫曾胖到200斤同学认不出",
+        "onboard_time": 1744300821,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147078,
+        "num": 147078,
+        "word": "华南师大通报副校长论文抄袭",
+        "onboard_time": 1744335623,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139521,
+        "num": 139521,
+        "word": "八段锦每一个动作都是药",
+        "onboard_time": 1744297645,
+        "rank": 42,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 131513,
+        "num": 131513,
+        "word": "金价",
+        "onboard_time": 1744327399,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 130166,
+        "num": 130166,
+        "word": "苹果从印度空运600吨iPhone",
+        "onboard_time": 1744333403,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 129655,
+        "num": 129655,
+        "word": "今年的牡丹花王长这样",
+        "onboard_time": 1744319113,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128724,
+        "num": 128724,
+        "word": "男子婚后发现妻子4年结过3次婚",
+        "onboard_time": 1744292122,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127900,
+        "num": 127900,
+        "word": "北京风力超9级轨道交通地上区段停运",
+        "onboard_time": 1744327638,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123974,
+        "num": 123974,
+        "word": "中国记者联合国质问美方乡巴佬言论",
+        "onboard_time": 1744332743,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 121849,
+        "num": 121849,
+        "word": "全红婵对小甜品说不",
+        "onboard_time": 1744332204,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央周边工作会议在北京举行#"
+    }
+  }
+}

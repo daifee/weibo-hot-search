@@ -1,7 +1,15 @@
 {
   "startTime": 1744302697177,
-  "endTime": 1744328280073,
+  "endTime": 1744336316466,
   "band_list": [
+    {
+      "raw_hot": 1865221,
+      "num": 1865221,
+      "word": "美俄达成谅解",
+      "onboard_time": 1744333103,
+      "rank": 0,
+      "category": "国际时政"
+    },
     {
       "raw_hot": 1515351,
       "num": 1515351,
@@ -19,20 +27,76 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 1275101,
-      "num": 1275101,
+      "raw_hot": 1405464,
+      "num": 1405464,
       "word": "周六 不出门",
       "onboard_time": 1744287502,
       "rank": 0,
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1350604,
+      "num": 389766,
+      "word": "晚晚老公",
+      "onboard_time": 1744333162,
+      "rank": 10,
+      "category": "网红,剧集"
+    },
+    {
+      "raw_hot": 1291495,
+      "num": 376320,
+      "word": "上海地铁",
+      "onboard_time": 1744332743,
+      "rank": 20,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 1012036,
+      "num": 388510,
+      "word": "虞书欣王鹤棣疑似坐同款位置",
+      "onboard_time": 1744327820,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 998181,
+      "num": 998181,
+      "word": "国家承认的唯一的防晒执行标准",
+      "onboard_time": 1744330162,
+      "rank": 3,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 881085,
+      "num": 387070,
+      "word": "特朗普大厦里几乎都是中国制造",
+      "onboard_time": 1744334482,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 806360,
+      "num": 806360,
+      "word": "马斯克炮轰特朗普贸易高级顾问",
+      "onboard_time": 1744328422,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 769082,
-      "num": 324720,
+      "num": 383683,
       "word": "短剧疑似AI换脸热巴",
       "onboard_time": 1744294463,
       "rank": 10,
       "category": "互联网,艺人"
+    },
+    {
+      "raw_hot": 708786,
+      "num": 385887,
+      "word": "林瀚",
+      "onboard_time": 1744331552,
+      "rank": 13,
+      "category": "网红,综艺"
     },
     {
       "raw_hot": 694344,
@@ -51,12 +115,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 641275,
+      "num": 641275,
+      "word": "这风真懂事 一点也不耽误周一上班",
+      "onboard_time": 1744331425,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 632840,
       "num": 345151,
       "word": "特朗普家族几天获利300亿美元",
       "onboard_time": 1744275443,
       "rank": 12,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 493411,
+      "num": 493411,
+      "word": "29岁抗癌博主橙子直肠癌去世",
+      "onboard_time": 1744328422,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 479491,
@@ -83,6 +163,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 393207,
+      "num": 393207,
+      "word": "10级狂风堪比台风过境",
+      "onboard_time": 1744285102,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 381688,
       "num": 381688,
       "word": "北京大风天坐地铁注意了",
@@ -97,6 +185,14 @@
       "onboard_time": 1744307116,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 374919,
+      "num": 374919,
+      "word": "对美所有进口商品关税再提高50%",
+      "onboard_time": 1744197084,
+      "rank": 11,
+      "category": "国际时政"
     },
     {
       "raw_hot": 374434,
@@ -131,12 +227,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 318829,
-      "num": 318829,
-      "word": "10级狂风堪比台风过境",
-      "onboard_time": 1744285102,
-      "rank": 6,
-      "category": "民生新闻"
+      "raw_hot": 308256,
+      "num": 378623,
+      "word": "全红婵第一陈芋汐第二进决赛",
+      "onboard_time": 1744335082,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 303582,
+      "num": 392450,
+      "word": "王一博荣获法国大奖",
+      "onboard_time": 1744330823,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 297419,
@@ -163,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 281515,
+      "num": 391153,
+      "word": "于正回应杨蓉何时进组",
+      "onboard_time": 1744328720,
+      "rank": 9,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 281031,
       "num": 248262,
       "word": "国家电影局发声",
@@ -171,12 +283,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 258827,
-      "num": 258827,
-      "word": "对美所有进口商品关税再提高50%",
-      "onboard_time": 1744197084,
-      "rank": 11,
-      "category": "国际时政"
+      "raw_hot": 268071,
+      "num": 268071,
+      "word": "领证不用户口本了",
+      "onboard_time": 1744328841,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 235981,
@@ -195,12 +307,12 @@
       "category": "财经,汽车"
     },
     {
-      "raw_hot": 216327,
-      "num": 216327,
-      "word": "虞书欣王鹤棣疑似坐同款位置",
-      "onboard_time": 1744327820,
-      "rank": 21,
-      "category": "艺人"
+      "raw_hot": 219818,
+      "num": 1172220,
+      "word": "中国不接受施压威胁讹诈",
+      "onboard_time": 1744292484,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 215590,
@@ -211,20 +323,44 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 202015,
-      "num": 1172220,
-      "word": "中国不接受施压威胁讹诈",
-      "onboard_time": 1744292484,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 196732,
       "num": 454567,
       "word": "香港演员谷峰去世",
       "onboard_time": 1744297645,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 194710,
+      "num": 379679,
+      "word": "电影向阳花",
+      "onboard_time": 1744335381,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 193807,
+      "num": 193807,
+      "word": "男子不会游泳被朋友激将下水溺亡",
+      "onboard_time": 1744332804,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 191460,
+      "num": 191460,
+      "word": "马云最新内部演讲",
+      "onboard_time": 1744333823,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 190122,
+      "num": 190122,
+      "word": "相信中国相信明天",
+      "onboard_time": 1744334782,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 182162,
@@ -251,12 +387,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 168917,
+      "num": 168917,
+      "word": "大风",
+      "onboard_time": 1744336041,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 163716,
       "num": 245609,
       "word": "李荣浩石家庄演唱会",
       "onboard_time": 1744298843,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 157195,
+      "num": 157195,
+      "word": "物理防晒这样选不踩坑",
+      "onboard_time": 1744336162,
+      "rank": 37,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 154498,
+      "num": 375599,
+      "word": "地铁猥亵事件中挺身而出女性未找到",
+      "onboard_time": 1744335742,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 154469,
@@ -267,12 +427,28 @@
       "category": "民生新闻,科学科普"
     },
     {
+      "raw_hot": 147078,
+      "num": 147078,
+      "word": "华南师大通报副校长论文抄袭",
+      "onboard_time": 1744335623,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144408,
       "num": 144408,
       "word": "伊能静回应浪姐第一季妈味很重",
       "onboard_time": 1744301961,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141078,
+      "num": 245057,
+      "word": "沈月 古装剧本",
+      "onboard_time": 1744335923,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 138922,
@@ -291,11 +467,43 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 131513,
+      "num": 131513,
+      "word": "金价",
+      "onboard_time": 1744327399,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 131236,
       "num": 131236,
       "word": "多家国内航司将座椅更换成轻薄型",
       "onboard_time": 1744298483,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130166,
+      "num": 130166,
+      "word": "苹果从印度空运600吨iPhone",
+      "onboard_time": 1744333403,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 129655,
+      "num": 264014,
+      "word": "今年的牡丹花王长这样",
+      "onboard_time": 1744319113,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127900,
+      "num": 394902,
+      "word": "北京风力超9级轨道交通地上区段停运",
+      "onboard_time": 1744327638,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -315,6 +523,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 123974,
+      "num": 123974,
+      "word": "中国记者联合国质问美方乡巴佬言论",
+      "onboard_time": 1744332743,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 121849,
+      "num": 121849,
+      "word": "全红婵对小甜品说不",
+      "onboard_time": 1744332204,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120304,
       "num": 120304,
       "word": "重大气象灾害三级应急响应",
@@ -331,6 +555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119123,
+      "num": 226851,
+      "word": "关晓彤王子奇新剧路透",
+      "onboard_time": 1744331063,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113481,
       "num": 113481,
       "word": "对美加征84%关税开始执行",
@@ -344,6 +576,14 @@
       "word": "安踏拟2.9亿美元收购狼爪",
       "onboard_time": 1744285943,
       "rank": 38,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 110091,
+      "num": 297341,
+      "word": "美元指数跌破100大关",
+      "onboard_time": 1744335082,
+      "rank": 24,
       "category": "财经"
     },
     {
@@ -387,14 +627,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 89676,
-      "num": 264014,
-      "word": "今年的牡丹花王长这样",
-      "onboard_time": 1744319113,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 88127,
       "num": 88127,
       "word": "中国电影市场坚持高水平对外开放",
@@ -435,14 +667,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 79554,
-      "num": 79554,
-      "word": "金价",
-      "onboard_time": 1744327399,
-      "rank": 48,
-      "category": "财经"
-    },
-    {
       "raw_hot": 78235,
       "num": 414990,
       "word": "美国纽约一直升机坠河6人死亡",
@@ -473,6 +697,14 @@
       "onboard_time": 1744285342,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 74130,
+      "num": 384348,
+      "word": "大风 囤零食",
+      "onboard_time": 1744335443,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 73463,
@@ -539,14 +771,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 48935,
-      "num": 394902,
-      "word": "北京风力超9级轨道交通地上区段停运",
-      "onboard_time": 1744327638,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 43425,
       "num": 43425,
       "word": "孙千Celine生图",
@@ -601,6 +825,14 @@
       "onboard_time": 1744307776,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 20182,
+      "num": 153126,
+      "word": "北方人如何防范大风",
+      "onboard_time": 1744335381,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18577,

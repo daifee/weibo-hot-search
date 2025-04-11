@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744328280073,
+  "endTime": 1744336316466,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -635,6 +635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1865221,
+      "num": 1865221,
+      "word": "美俄达成谅解",
+      "onboard_time": 1744333103,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1859472,
       "num": 1859472,
       "word": "折腰",
@@ -1267,6 +1275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1350604,
+      "num": 389766,
+      "word": "晚晚老公",
+      "onboard_time": 1744333162,
+      "rank": 10,
+      "category": "网红,剧集"
+    },
+    {
       "raw_hot": 1350471,
       "num": 997141,
       "word": "深航一空姐被乘客咬",
@@ -1377,6 +1393,14 @@
       "onboard_time": 1743476602,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1291495,
+      "num": 534388,
+      "word": "上海地铁",
+      "onboard_time": 1744165221,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1290624,
@@ -2123,6 +2147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1012036,
+      "num": 388510,
+      "word": "虞书欣王鹤棣疑似坐同款位置",
+      "onboard_time": 1744327820,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1005848,
       "num": 1005848,
       "word": "很舒服但很伤身的6个行为",
@@ -2169,6 +2201,14 @@
       "onboard_time": 1744101681,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 998181,
+      "num": 998181,
+      "word": "国家承认的唯一的防晒执行标准",
+      "onboard_time": 1744330162,
+      "rank": 3,
+      "category": "美妆"
     },
     {
       "raw_hot": 997360,
@@ -2691,6 +2731,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 881085,
+      "num": 387070,
+      "word": "特朗普大厦里几乎都是中国制造",
+      "onboard_time": 1744334482,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 873983,
       "num": 873983,
       "word": "美国超市中国商品被民众抢购",
@@ -2923,14 +2971,6 @@
       "category": "国际时政,财经"
     },
     {
-      "raw_hot": 833257,
-      "num": 534388,
-      "word": "上海地铁",
-      "onboard_time": 1744165221,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 829818,
       "num": 519011,
       "word": "陈飞宇朋友圈",
@@ -3049,6 +3089,14 @@
       "onboard_time": 1744180101,
       "rank": 31,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 806360,
+      "num": 806360,
+      "word": "马斯克炮轰特朗普贸易高级顾问",
+      "onboard_time": 1744328422,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 806023,
@@ -3619,6 +3667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 708786,
+      "num": 385887,
+      "word": "林瀚",
+      "onboard_time": 1744331552,
+      "rank": 13,
+      "category": "网红,综艺"
+    },
+    {
       "raw_hot": 708602,
       "num": 708602,
       "word": "美贸易代表被嘲未提前知晓关税调整",
@@ -3969,6 +4025,14 @@
       "onboard_time": 1743578302,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 641275,
+      "num": 641275,
+      "word": "这风真懂事 一点也不耽误周一上班",
+      "onboard_time": 1744331425,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 640210,
@@ -5465,6 +5529,14 @@
       "onboard_time": 1744168342,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 493411,
+      "num": 493411,
+      "word": "29岁抗癌博主橙子直肠癌去世",
+      "onboard_time": 1744328422,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 491910,
@@ -8963,6 +9035,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 308256,
+      "num": 378623,
+      "word": "全红婵第一陈芋汐第二进决赛",
+      "onboard_time": 1744335082,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 308097,
       "num": 308097,
       "word": "胡歌老婆是他前助理",
@@ -9121,6 +9201,14 @@
       "onboard_time": 1744182983,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 303582,
+      "num": 392450,
+      "word": "王一博荣获法国大奖",
+      "onboard_time": 1744330823,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 303477,
@@ -9883,6 +9971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 281515,
+      "num": 391153,
+      "word": "于正回应杨蓉何时进组",
+      "onboard_time": 1744328720,
+      "rank": 9,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 280646,
       "num": 280646,
       "word": "中国boy王嘉尔",
@@ -10304,6 +10400,14 @@
       "word": "女子链家购房买凶宅楼栋一审胜诉",
       "onboard_time": 1744186041,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 268071,
+      "num": 268071,
+      "word": "领证不用户口本了",
+      "onboard_time": 1744328841,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -12611,14 +12715,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 216327,
-      "num": 216327,
-      "word": "虞书欣王鹤棣疑似坐同款位置",
-      "onboard_time": 1744327820,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 216264,
       "num": 216264,
       "word": "周也一瓯春妆造",
@@ -14739,6 +14835,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 194710,
+      "num": 379679,
+      "word": "电影向阳花",
+      "onboard_time": 1744335381,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 194335,
       "num": 194335,
       "word": "第五人格",
@@ -14793,6 +14897,14 @@
       "onboard_time": 1744194862,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193807,
+      "num": 193807,
+      "word": "男子不会游泳被朋友激将下水溺亡",
+      "onboard_time": 1744332804,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 193786,
@@ -15099,6 +15211,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 191460,
+      "num": 191460,
+      "word": "马云最新内部演讲",
+      "onboard_time": 1744333823,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 191401,
       "num": 331533,
       "word": "兄弟分离40年去世后在大海团聚",
@@ -15273,6 +15393,14 @@
       "onboard_time": 1743733880,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 190122,
+      "num": 190122,
+      "word": "相信中国相信明天",
+      "onboard_time": 1744334782,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 190119,
@@ -17683,6 +17811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 168917,
+      "num": 168917,
+      "word": "大风",
+      "onboard_time": 1744274482,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 168714,
       "num": 181930,
       "word": "身体缺维B的人易情绪暴躁",
@@ -19051,6 +19187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157195,
+      "num": 157195,
+      "word": "物理防晒这样选不踩坑",
+      "onboard_time": 1744336162,
+      "rank": 37,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 157038,
       "num": 157038,
       "word": "美国股债汇三杀",
@@ -19424,6 +19568,14 @@
       "word": "案发后周立人试图隐匿和销毁重要物证",
       "onboard_time": 1744017983,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154498,
+      "num": 375599,
+      "word": "地铁猥亵事件中挺身而出女性未找到",
+      "onboard_time": 1744335742,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -20459,6 +20611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147078,
+      "num": 147078,
+      "word": "华南师大通报副校长论文抄袭",
+      "onboard_time": 1744335623,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147075,
       "num": 259929,
       "word": "金价1个月每克最高涨了71元",
@@ -21225,6 +21385,14 @@
       "onboard_time": 1743644899,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141078,
+      "num": 245057,
+      "word": "沈月 古装剧本",
+      "onboard_time": 1744335923,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 141036,
@@ -22835,6 +23003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130166,
+      "num": 130166,
+      "word": "苹果从印度空运600吨iPhone",
+      "onboard_time": 1744333403,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
       "raw_hot": 130144,
       "num": 274801,
       "word": "阿Sa还好没拔罐",
@@ -22923,11 +23099,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 129611,
-      "num": 129611,
-      "word": "大风",
-      "onboard_time": 1744274482,
-      "rank": 44,
+      "raw_hot": 129655,
+      "num": 264014,
+      "word": "今年的牡丹花王长这样",
+      "onboard_time": 1744319113,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -23145,6 +23321,14 @@
       "onboard_time": 1743831321,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127900,
+      "num": 394902,
+      "word": "北京风力超9级轨道交通地上区段停运",
+      "onboard_time": 1744327638,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127812,
@@ -23715,6 +23899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123974,
+      "num": 123974,
+      "word": "中国记者联合国质问美方乡巴佬言论",
+      "onboard_time": 1744332743,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 123946,
       "num": 123946,
       "word": "金价涨超3%",
@@ -23921,6 +24113,14 @@
       "onboard_time": 1744022302,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 121849,
+      "num": 121849,
+      "word": "全红婵对小甜品说不",
+      "onboard_time": 1744332204,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 121655,
@@ -24289,6 +24489,14 @@
       "onboard_time": 1743660321,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119123,
+      "num": 226851,
+      "word": "关晓彤王子奇新剧路透",
+      "onboard_time": 1744331063,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 119004,
@@ -25409,6 +25617,14 @@
       "onboard_time": 1743857602,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 110091,
+      "num": 297341,
+      "word": "美元指数跌破100大关",
+      "onboard_time": 1744335082,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 110063,
@@ -27043,14 +27259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 89676,
-      "num": 264014,
-      "word": "今年的牡丹花王长这样",
-      "onboard_time": 1744319113,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 89573,
       "num": 214390,
       "word": "美股跌完美债跌",
@@ -28145,6 +28353,14 @@
       "onboard_time": 1743959896,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 74130,
+      "num": 384348,
+      "word": "大风 囤零食",
+      "onboard_time": 1744335443,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 74066,
@@ -29873,14 +30089,6 @@
       "onboard_time": 1743609501,
       "rank": 45,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 48935,
-      "num": 394902,
-      "word": "北京风力超9级轨道交通地上区段停运",
-      "onboard_time": 1744327638,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 48861,
@@ -32257,6 +32465,14 @@
       "onboard_time": 1743491663,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 20182,
+      "num": 153126,
+      "word": "北方人如何防范大风",
+      "onboard_time": 1744335381,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20068,
