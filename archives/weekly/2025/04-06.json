@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1744392115800,
+  "endTime": 1744393131289,
   "band_list": [
     {
       "raw_hot": 18779562,
@@ -2331,6 +2331,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 721515,
+      "num": 721515,
+      "word": "中国制造商向美国客户明确表示不会降价",
+      "onboard_time": 1744391778,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 720758,
       "num": 720758,
       "word": "严浩翔说有diss是很正常的事",
@@ -4035,14 +4043,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 436364,
-      "num": 436364,
-      "word": "中国制造商向美国客户明确表示不会降价",
-      "onboard_time": 1744391778,
-      "rank": 6,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 434304,
       "num": 434304,
       "word": "外国人吃到中国科技的细糠了",
@@ -4065,6 +4065,14 @@
       "onboard_time": 1744377683,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 432875,
+      "num": 345481,
+      "word": "性教育被语文老师讲明白了",
+      "onboard_time": 1744389020,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 432567,
@@ -4961,14 +4969,6 @@
       "onboard_time": 1744156102,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 359642,
-      "num": 345481,
-      "word": "性教育被语文老师讲明白了",
-      "onboard_time": 1744389020,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 358786,
@@ -7305,6 +7305,14 @@
       "onboard_time": 1744255642,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 250596,
+      "num": 270934,
+      "word": "直观感受12级大风有多猛",
+      "onboard_time": 1744391778,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 250052,
@@ -17523,14 +17531,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 68544,
-      "num": 70648,
-      "word": "直观感受12级大风有多猛",
-      "onboard_time": 1744391778,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 68416,
       "num": 67084,
       "word": "Ning怒喷Cat",
@@ -18611,6 +18611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 41000,
+      "num": 105717,
+      "word": "10年期美债收益率站上4.5%",
+      "onboard_time": 1744391839,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 40778,
       "num": 257065,
       "word": "美多地民众加入抢购潮",
@@ -18849,14 +18857,6 @@
       "onboard_time": 1744182622,
       "rank": 13,
       "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 35833,
-      "num": 105717,
-      "word": "10年期美债收益率站上4.5%",
-      "onboard_time": 1744391839,
-      "rank": 24,
-      "category": "财经"
     },
     {
       "raw_hot": 34963,
