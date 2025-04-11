@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/04/11 15:37:31
+本榜单时间：2025/01/01 00:26:38 ~ 2025/04/11 16:32:05
 </p>
 </blockquote>
 <p>
@@ -479,6 +479,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E4%B8%B4%E6%B1%BE%E5%9C%B0%E9%9C%87%23" target="weibo">
 山西临汾地震（热度：9076991）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AF%B9%E7%BE%8E%E6%89%80%E6%9C%89%E8%BF%9B%E5%8F%A3%E5%95%86%E5%93%81%E5%8A%A0%E5%BE%81125%25%E5%85%B3%E7%A8%8E%23" target="weibo">
+对美所有进口商品加征125%关税（热度：8967975）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ DeepSeek（热度：3038517）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%A7%80%E7%8E%8B%E5%AE%89%E5%86%89%E7%A6%BB%E5%A9%9A%23" target="weibo">
 新秀王安冉离婚（热度：2920421）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E7%96%91%E4%BC%BC%E5%B0%86%E5%A4%8D%E5%B7%A5%23" target="weibo">
-赵露思疑似将复工（热度：2901212）
 </a>
 </li>
 

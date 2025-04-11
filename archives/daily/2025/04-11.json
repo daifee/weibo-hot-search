@@ -1,7 +1,15 @@
 {
   "startTime": 1744302697177,
-  "endTime": 1744357051128,
+  "endTime": 1744360325560,
   "band_list": [
+    {
+      "raw_hot": 8967975,
+      "num": 10217975,
+      "word": "对美所有进口商品加征125%关税",
+      "onboard_time": 1744359084,
+      "rank": 0,
+      "category": "国内时政"
+    },
     {
       "raw_hot": 3800577,
       "num": 3800577,
@@ -27,6 +35,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2327785,
+      "num": 2327785,
+      "word": "金饰价格涨破1000元",
+      "onboard_time": 1744355423,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1978145,
       "num": 1978145,
       "word": "美俄达成谅解",
@@ -49,6 +65,14 @@
       "onboard_time": 1744332743,
       "rank": 20,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 1533203,
+      "num": 531554,
+      "word": "美团崩了",
+      "onboard_time": 1744358662,
+      "rank": 31,
+      "category": "互联网"
     },
     {
       "raw_hot": 1515351,
@@ -81,6 +105,14 @@
       "onboard_time": 1744301061,
       "rank": 7,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1438595,
+      "num": 1438595,
+      "word": "可复美",
+      "onboard_time": 1744354581,
+      "rank": 34,
+      "category": "美妆"
     },
     {
       "raw_hot": 1433400,
@@ -131,6 +163,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 1331777,
+      "num": 1331777,
+      "word": "阿诺有非常严重的容貌焦虑",
+      "onboard_time": 1744356441,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1306692,
       "num": 1306692,
       "word": "全红婵坐郭晶晶怀里",
@@ -145,6 +185,14 @@
       "onboard_time": 1744339402,
       "rank": 13,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 1035187,
+      "num": 1035187,
+      "word": "美网民发现中国制造太重要了",
+      "onboard_time": 1744354942,
+      "rank": 16,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1032071,
@@ -177,6 +225,14 @@
       "onboard_time": 1744349423,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 957646,
+      "num": 957646,
+      "word": "外交部回应美方称对华关税达145%",
+      "onboard_time": 1744358724,
+      "rank": 11,
+      "category": "国内时政"
     },
     {
       "raw_hot": 901279,
@@ -267,6 +323,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 739093,
+      "num": 739093,
+      "word": "关税",
+      "onboard_time": 1744359265,
+      "rank": 15,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 713184,
+      "num": 713184,
+      "word": "中国从来不吃这一套",
+      "onboard_time": 1744355061,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 708786,
       "num": 455926,
       "word": "林瀚",
@@ -315,12 +387,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 628597,
-      "num": 628597,
-      "word": "金饰价格涨破1000元",
-      "onboard_time": 1744355423,
-      "rank": 18,
-      "category": "财经"
+      "raw_hot": 616208,
+      "num": 616208,
+      "word": "无手女孩换卫生巾有多难",
+      "onboard_time": 1744353981,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 600766,
@@ -363,20 +435,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 541589,
-      "num": 585164,
-      "word": "美网民发现中国制造太重要了",
-      "onboard_time": 1744354942,
-      "rank": 16,
-      "category": "海外新闻"
+      "raw_hot": 548538,
+      "num": 548538,
+      "word": "直击北方大风实况",
+      "onboard_time": 1744357102,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 538054,
-      "num": 560050,
-      "word": "中国从来不吃这一套",
-      "onboard_time": 1744355061,
-      "rank": 9,
-      "category": "国内时政"
+      "raw_hot": 545890,
+      "num": 545890,
+      "word": "张馨予体脂肪含量32%",
+      "onboard_time": 1744357222,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 537703,
@@ -443,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 456766,
+      "num": 1047719,
+      "word": "美国输华商品已无市场接受可能性",
+      "onboard_time": 1744359265,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 452203,
       "num": 452203,
       "word": "在美华人回应鸡蛋被疯抢",
@@ -492,19 +572,11 @@
     },
     {
       "raw_hot": 403096,
-      "num": 403096,
+      "num": 547750,
       "word": "VaVa 难怪队长都想抢她",
       "onboard_time": 1744354881,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 402030,
-      "num": 402030,
-      "word": "可复美",
-      "onboard_time": 1744354581,
-      "rank": 34,
-      "category": "美妆"
     },
     {
       "raw_hot": 401798,
@@ -619,6 +691,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 329522,
+      "num": 736995,
+      "word": "甲亢哥中国行后劲好大",
+      "onboard_time": 1744357042,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 314290,
       "num": 314290,
       "word": "舞娘",
@@ -640,6 +720,14 @@
       "word": "枭起青壤32集",
       "onboard_time": 1744355242,
       "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 308901,
+      "num": 721471,
+      "word": "王玉雯北舞严选",
+      "onboard_time": 1744359143,
+      "rank": 18,
       "category": "剧集"
     },
     {
@@ -667,14 +755,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 305753,
-      "num": 297649,
-      "word": "无手女孩换卫生巾有多难",
-      "onboard_time": 1744353981,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 303582,
       "num": 665347,
       "word": "王一博荣获法国大奖",
@@ -689,6 +769,14 @@
       "onboard_time": 1744354822,
       "rank": 33,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 301656,
+      "num": 301656,
+      "word": "等风来",
+      "onboard_time": 1744355661,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 298820,
@@ -803,6 +891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 271764,
+      "num": 548535,
+      "word": "马章浩 左卓",
+      "onboard_time": 1744357943,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 268071,
       "num": 268071,
       "word": "领证不用户口本了",
@@ -868,7 +964,7 @@
     },
     {
       "raw_hot": 248854,
-      "num": 1499603,
+      "num": 1644647,
       "word": "美关税讹诈严重扰乱全球产供链稳定",
       "onboard_time": 1744339881,
       "rank": 2,
@@ -955,19 +1051,27 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 226513,
-      "num": 226513,
-      "word": "阿诺有非常严重的容貌焦虑",
-      "onboard_time": 1744356441,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 224439,
       "num": 345026,
       "word": "月鳞绮纪杀青",
       "onboard_time": 1744341862,
       "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 222681,
+      "num": 547220,
+      "word": "管乐今晚还回家吗",
+      "onboard_time": 1744357282,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 221694,
+      "num": 221694,
+      "word": "情侣变上下级社死了",
+      "onboard_time": 1744357042,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -993,6 +1097,14 @@
       "onboard_time": 1744351342,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 215123,
+      "num": 215123,
+      "word": "警方回应男子被朋友激将下水溺亡",
+      "onboard_time": 1744358182,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 211419,
@@ -1025,14 +1137,6 @@
       "onboard_time": 1744335923,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 203738,
-      "num": 203738,
-      "word": "等风来",
-      "onboard_time": 1744355661,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 201967,
@@ -1155,6 +1259,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 190867,
+      "num": 190867,
+      "word": "2025悬疑剧杀疯了",
+      "onboard_time": 1744357162,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190122,
       "num": 190122,
       "word": "相信中国相信明天",
@@ -1177,6 +1289,14 @@
       "onboard_time": 1744356982,
       "rank": 44,
       "category": "教育"
+    },
+    {
+      "raw_hot": 184638,
+      "num": 184638,
+      "word": "阿诺妹妹",
+      "onboard_time": 1744360285,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 183682,
@@ -1217,6 +1337,14 @@
       "onboard_time": 1744292363,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179655,
+      "num": 179655,
+      "word": "外媒夸樊振东坚韧优雅",
+      "onboard_time": 1744359205,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 174676,
@@ -1347,6 +1475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149269,
+      "num": 756976,
+      "word": "三河城管称不心疼钱可改回原色",
+      "onboard_time": 1744359025,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148436,
       "num": 148436,
       "word": "王力宏弹钢琴",
@@ -1372,7 +1508,7 @@
     },
     {
       "raw_hot": 145865,
-      "num": 527061,
+      "num": 969857,
       "word": "肖战羽西白玉防晒",
       "onboard_time": 1744355963,
       "rank": 23,
@@ -1595,6 +1731,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 111503,
+      "num": 187403,
+      "word": "当地回应河北一道路惊现方形树木",
+      "onboard_time": 1744358302,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110091,
       "num": 297341,
       "word": "美元指数跌破100大关",
@@ -1803,6 +1947,14 @@
       "category": "财经,时尚"
     },
     {
+      "raw_hot": 67442,
+      "num": 546352,
+      "word": "今天下班早回家",
+      "onboard_time": 1744358542,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67314,
       "num": 402941,
       "word": "家庭主妇被撞索要误工费获支持",
@@ -1825,6 +1977,14 @@
       "onboard_time": 1744293504,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 64465,
+      "num": 223988,
+      "word": "不推荐去正骨的理由",
+      "onboard_time": 1744360104,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 64461,
@@ -1939,6 +2099,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 42968,
+      "num": 716257,
+      "word": "媒体评商户招牌禁用红黑蓝三色",
+      "onboard_time": 1744358844,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39194,
       "num": 316729,
       "word": "第五人格赛事",
@@ -2051,6 +2219,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 16645,
+      "num": 746588,
+      "word": "流量下的寻亲人",
+      "onboard_time": 1744359684,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15412,
       "num": 212552,
       "word": "张朝阳天文馆讲物理硬核官宣播主大会",
@@ -2075,12 +2251,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 12544,
+      "num": 546134,
+      "word": "振欣组合晋级亚锦赛四强",
+      "onboard_time": 1744359684,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 10153,
       "num": 218843,
       "word": "网上买处方药会影响医保吗",
       "onboard_time": 1744349961,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 8449,
+      "num": 546728,
+      "word": "韩悦晋级亚锦赛4强",
+      "onboard_time": 1744359684,
+      "rank": 27,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
