@@ -1,0 +1,410 @@
+{
+  "runTime": 1744361111370,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 15319037,
+        "num": 16569037,
+        "word": "对美所有进口商品加征125%关税",
+        "onboard_time": 1744359084,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2079693,
+        "num": 2079693,
+        "word": "金饰价格涨破1000元",
+        "onboard_time": 1744355423,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 17749,
+        "num": 1742494,
+        "word": "多国呼吁专注美国之外的贸易",
+        "onboard_time": 1744360827,
+        "rank": 2,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1637214,
+        "num": 1637214,
+        "word": "美国输华商品已无市场接受可能性",
+        "onboard_time": 1744359265,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1467852,
+        "num": 1467852,
+        "word": "北京大风",
+        "onboard_time": 1744353143,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1365904,
+        "num": 1365904,
+        "word": "美网民发现中国制造太重要了",
+        "onboard_time": 1744354942,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1197232,
+        "num": 1197232,
+        "word": "可复美",
+        "onboard_time": 1744354581,
+        "rank": 6,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 1185916,
+        "num": 1185916,
+        "word": "阿诺有非常严重的容貌焦虑",
+        "onboard_time": 1744356441,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 751636,
+        "num": 990997,
+        "word": "健身博主马章浩去世",
+        "onboard_time": 1744347923,
+        "rank": 8,
+        "category": "网红,运动健身"
+      },
+      {
+        "raw_hot": 272984,
+        "num": 972621,
+        "word": "如美方继续加征关税中方将不予理会",
+        "onboard_time": 1744360526,
+        "rank": 9,
+        "category": "国内时政,国际时政"
+      },
+      {
+        "raw_hot": 966115,
+        "num": 966115,
+        "word": "乌合麒麟新作就不跪",
+        "onboard_time": 1744353442,
+        "rank": 10,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 924658,
+        "num": 924658,
+        "word": "马斯克笑不出来了",
+        "onboard_time": 1744347562,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 767088,
+        "num": 767088,
+        "word": "外交部回应美方称对华关税达145%",
+        "onboard_time": 1744358724,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 732007,
+        "num": 732007,
+        "word": "关税",
+        "onboard_time": 1744359265,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 33365,
+        "num": 731393,
+        "word": "流量下的寻亲人",
+        "onboard_time": 1744359684,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 350907,
+        "num": 674939,
+        "word": "甲亢哥中国行后劲好大",
+        "onboard_time": 1744357042,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 344276,
+        "num": 641142,
+        "word": "阿诺妹妹",
+        "onboard_time": 1744360285,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67120,
+        "num": 617057,
+        "word": "肖战羽西白玉防晒",
+        "onboard_time": 1744355963,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193076,
+        "num": 589236,
+        "word": "邓为直播",
+        "onboard_time": 1744360585,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107300,
+        "num": 567287,
+        "word": "三河消防辟谣消防车被改成绿色",
+        "onboard_time": 1744360706,
+        "rank": 19,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 541209,
+        "num": 541209,
+        "word": "中国从来不吃这一套",
+        "onboard_time": 1744355061,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 527553,
+        "num": 527553,
+        "word": "张馨予体脂肪含量32%",
+        "onboard_time": 1744357222,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 512082,
+        "num": 512082,
+        "word": "直击北方大风实况",
+        "onboard_time": 1744357102,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 501132,
+        "num": 501132,
+        "word": "无手女孩换卫生巾有多难",
+        "onboard_time": 1744353981,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31912,
+        "num": 456530,
+        "word": "男朋友找夏以昼这样的",
+        "onboard_time": 1744360346,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 425436,
+        "num": 425436,
+        "word": "西门子分公司总裁一家在坠机中遇难",
+        "onboard_time": 1744340783,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 288312,
+        "num": 410001,
+        "word": "王玉雯北舞严选",
+        "onboard_time": 1744359143,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 253784,
+        "num": 407629,
+        "word": "陈德容说你们骂我骂轻点",
+        "onboard_time": 1744345283,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228780,
+        "num": 373245,
+        "word": "2025悬疑剧杀疯了",
+        "onboard_time": 1744357162,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21685,
+        "num": 357402,
+        "word": "更年期女性需警惕的疾病",
+        "onboard_time": 1744360706,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 216394,
+        "num": 341196,
+        "word": "美关税讹诈严重扰乱全球产供链稳定",
+        "onboard_time": 1744339881,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1552355,
+        "num": 332470,
+        "word": "美团崩了",
+        "onboard_time": 1744358662,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 320579,
+        "num": 320579,
+        "word": "气氛烘托到这了 风到哪了",
+        "onboard_time": 1744356200,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296274,
+        "num": 296274,
+        "word": "美方轮番加征关税沦为笑话",
+        "onboard_time": 1744360647,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 277851,
+        "num": 277851,
+        "word": "天津大风",
+        "onboard_time": 1744355183,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272082,
+        "num": 272082,
+        "word": "华北大风专家建议100斤以下不要出门",
+        "onboard_time": 1744345764,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 400431,
+        "num": 269841,
+        "word": "网传SU7撞2人后起火焚毁",
+        "onboard_time": 1744360407,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262603,
+        "num": 262603,
+        "word": "等风来",
+        "onboard_time": 1744355661,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208794,
+        "num": 235949,
+        "word": "陈德容 躺赢",
+        "onboard_time": 1744351582,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47033,
+        "num": 224495,
+        "word": "不推荐去正骨的理由",
+        "onboard_time": 1744360104,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 224435,
+        "num": 224435,
+        "word": "Prada正式收购范思哲",
+        "onboard_time": 1744350201,
+        "rank": 40,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 217859,
+        "num": 217859,
+        "word": "这五类电话号码不要接",
+        "onboard_time": 1744351582,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213578,
+        "num": 213578,
+        "word": "中国西班牙全面战略伙伴关系20周年",
+        "onboard_time": 1744354822,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 206243,
+        "num": 206243,
+        "word": "囤货",
+        "onboard_time": 1744360945,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205119,
+        "num": 205119,
+        "word": "甲亢哥开启蒙古行也直呼中文冷静",
+        "onboard_time": 1744355423,
+        "rank": 44,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 204857,
+        "num": 204857,
+        "word": "枭起青壤32集",
+        "onboard_time": 1744355242,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193949,
+        "num": 202152,
+        "word": "三河城管称不心疼钱可改回原色",
+        "onboard_time": 1744359025,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201355,
+        "num": 201355,
+        "word": "马章浩 左卓",
+        "onboard_time": 1744357943,
+        "rank": 47,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 196549,
+        "num": 196549,
+        "word": "VaVa 难怪队长都想抢她",
+        "onboard_time": 1744354881,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194582,
+        "num": 194582,
+        "word": "情侣变上下级社死了",
+        "onboard_time": 1744357042,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同西班牙首相一起散步#"
+    }
+  }
+}
