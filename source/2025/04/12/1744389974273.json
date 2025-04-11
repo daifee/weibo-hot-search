@@ -1,0 +1,410 @@
+{
+  "runTime": 1744389974273,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1599001,
+        "num": 1599001,
+        "word": "大风到哪了",
+        "onboard_time": 1744363704,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1007935,
+        "num": 1007935,
+        "word": "义乌老板娘霸气喊话美国客户",
+        "onboard_time": 1744385063,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158140,
+        "num": 798389,
+        "word": "以中国稳应对美国疯",
+        "onboard_time": 1744377383,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 738197,
+        "num": 738197,
+        "word": "爱奇艺 淮水竹亭",
+        "onboard_time": 1744383084,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 674520,
+        "num": 674520,
+        "word": "大风到北京城区了",
+        "onboard_time": 1744377262,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1065315,
+        "num": 673905,
+        "word": "地铁猥亵事件男子公司称其被开除",
+        "onboard_time": 1744381462,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 665284,
+        "num": 665284,
+        "word": "法老被Mac删除好友",
+        "onboard_time": 1744387342,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 623695,
+        "num": 623695,
+        "word": "对美所有进口商品加征125%关税",
+        "onboard_time": 1744359084,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 321915,
+        "num": 321915,
+        "word": "门头沟一地阵风13级",
+        "onboard_time": 1744384824,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315069,
+        "num": 315069,
+        "word": "用大象粪便做甜品餐厅已停业",
+        "onboard_time": 1744382905,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287198,
+        "num": 287198,
+        "word": "北京全市阵风普遍达8级以上",
+        "onboard_time": 1744387943,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 534009,
+        "num": 278525,
+        "word": "法老聊天记录",
+        "onboard_time": 1744369643,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 267111,
+        "num": 267111,
+        "word": "戚薇扭着屁股喊老公宝宝",
+        "onboard_time": 1744377683,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262610,
+        "num": 262610,
+        "word": "汪苏泷真瘦了",
+        "onboard_time": 1744385125,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 252013,
+        "num": 252013,
+        "word": "中国站出来是为了避免人类重回丛林世界",
+        "onboard_time": 1744381943,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 240315,
+        "num": 240315,
+        "word": "北京大风",
+        "onboard_time": 1744353143,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203808,
+        "num": 203808,
+        "word": "王星越又坐地铁去上班了",
+        "onboard_time": 1744384403,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177248,
+        "num": 177248,
+        "word": "鞠婧祎工作室",
+        "onboard_time": 1744389081,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 168225,
+        "num": 168225,
+        "word": "美国输华商品已无市场接受可能性",
+        "onboard_time": 1744359265,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 166459,
+        "num": 166459,
+        "word": "易烊千玺深圳",
+        "onboard_time": 1744379003,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 288803,
+        "num": 166329,
+        "word": "特朗普抱怨限水头发湿透需15分钟",
+        "onboard_time": 1744382965,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 164788,
+        "num": 164788,
+        "word": "代号鸢",
+        "onboard_time": 1744387704,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 163671,
+        "num": 163671,
+        "word": "日本充当北约急先锋必将自食恶果",
+        "onboard_time": 1744382545,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 137729,
+        "num": 155134,
+        "word": "美国政府滥施关税拖累好莱坞",
+        "onboard_time": 1744386084,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 154179,
+        "num": 154179,
+        "word": "韩国女刊封面上的华语星光",
+        "onboard_time": 1744387404,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 145935,
+        "num": 145935,
+        "word": "iG翻盘TES",
+        "onboard_time": 1744382364,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 136168,
+        "num": 136168,
+        "word": "中国不会刻意为难美国电影行业",
+        "onboard_time": 1744385244,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 135104,
+        "num": 135104,
+        "word": "汪苏泷就让这大雨落下具象化",
+        "onboard_time": 1744388362,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 134627,
+        "num": 134627,
+        "word": "值得爱",
+        "onboard_time": 1744386623,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133012,
+        "num": 133012,
+        "word": "盒马向中国外贸企业开放绿色通道",
+        "onboard_time": 1744378105,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 150360,
+        "num": 131926,
+        "word": "可复美面膜检出表皮生长因子成分",
+        "onboard_time": 1744367003,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125469,
+        "num": 125469,
+        "word": "阿诺妹妹是比利时超模",
+        "onboard_time": 1744371022,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74033,
+        "num": 120385,
+        "word": "美教育部长误将AI称为A1",
+        "onboard_time": 1744382965,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 119815,
+        "num": 119815,
+        "word": "性教育被语文老师讲明白了",
+        "onboard_time": 1744389020,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118948,
+        "num": 118948,
+        "word": "贾玲新电影饭制海报",
+        "onboard_time": 1744378704,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 112247,
+        "num": 112247,
+        "word": "关税加了鸡蛋没了",
+        "onboard_time": 1744366044,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 110207,
+        "num": 110207,
+        "word": "王毅说美国不能任意妄为",
+        "onboard_time": 1744384343,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 109848,
+        "num": 109848,
+        "word": "北京延庆出现10级风",
+        "onboard_time": 1744373843,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109624,
+        "num": 109624,
+        "word": "廊坊纪委调查三河商户招牌变色",
+        "onboard_time": 1744380864,
+        "rank": 38,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 106772,
+        "num": 106772,
+        "word": "徐克获金像奖终身成就奖",
+        "onboard_time": 1744377444,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 94779,
+        "num": 94779,
+        "word": "TES状态",
+        "onboard_time": 1744385724,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 94008,
+        "num": 94008,
+        "word": "鞠婧祎陈都灵两张脸拿什么输",
+        "onboard_time": 1744377563,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93788,
+        "num": 93788,
+        "word": "央视新闻直播里的邓为",
+        "onboard_time": 1744371323,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92922,
+        "num": 92922,
+        "word": "胡夏演唱会已开启退票通道",
+        "onboard_time": 1744375942,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 89561,
+        "num": 89561,
+        "word": "反诈老陈年收入降到31万",
+        "onboard_time": 1744371086,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88295,
+        "num": 88295,
+        "word": "金饰价格涨破1000元",
+        "onboard_time": 1744355423,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 86140,
+        "num": 86140,
+        "word": "特朗普关税政策让前财长愤怒爆表",
+        "onboard_time": 1744371502,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 82468,
+        "num": 82468,
+        "word": "怀孕时脏器都被挤变形了",
+        "onboard_time": 1744373843,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 78716,
+        "num": 78716,
+        "word": "主人花16万元克隆去世爱犬",
+        "onboard_time": 1744383744,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70805,
+        "num": 70805,
+        "word": "美股",
+        "onboard_time": 1744384104,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#打造有战略定力合作共赢的中西关系#"
+    }
+  }
+}

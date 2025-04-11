@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744389070116,
+  "endTime": 1744389974273,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -4299,6 +4299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 665284,
+      "num": 665284,
+      "word": "法老被Mac删除好友",
+      "onboard_time": 1744387342,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 665224,
       "num": 335095,
       "word": "种地吧",
@@ -6641,14 +6649,6 @@
       "onboard_time": 1744196243,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 454885,
-      "num": 334720,
-      "word": "法老被Mac删除好友",
-      "onboard_time": 1744387342,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 454806,
@@ -10761,6 +10761,14 @@
       "onboard_time": 1744184362,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 287198,
+      "num": 287198,
+      "word": "北京全市阵风普遍达8级以上",
+      "onboard_time": 1744387943,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 286972,
@@ -18611,6 +18619,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 177248,
+      "num": 177248,
+      "word": "鞠婧祎工作室",
+      "onboard_time": 1744389081,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 177160,
       "num": 177160,
       "word": "刘涛 我的梦中情师",
@@ -20105,6 +20121,14 @@
       "onboard_time": 1743606444,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 164788,
+      "num": 164788,
+      "word": "代号鸢",
+      "onboard_time": 1744387704,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 164614,
@@ -23883,6 +23907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137729,
+      "num": 339069,
+      "word": "美国政府滥施关税拖累好莱坞",
+      "onboard_time": 1744386084,
+      "rank": 10,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 137666,
       "num": 656039,
       "word": "权志龙将发表演讲",
@@ -26483,6 +26515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119815,
+      "num": 119815,
+      "word": "性教育被语文老师讲明白了",
+      "onboard_time": 1744389020,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119763,
       "num": 119763,
       "word": "西安WE春季赛淘汰",
@@ -27377,14 +27417,6 @@
       "onboard_time": 1744032804,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 113006,
-      "num": 113006,
-      "word": "代号鸢",
-      "onboard_time": 1744387704,
-      "rank": 40,
-      "category": "游戏"
     },
     {
       "raw_hot": 112975,
@@ -29915,14 +29947,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 84163,
-      "num": 84163,
-      "word": "性教育被语文老师讲明白了",
-      "onboard_time": 1744389020,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 83933,
       "num": 83933,
       "word": "费启鸣别没事拔鼻毛",
@@ -30385,14 +30409,6 @@
       "onboard_time": 1743561081,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 76896,
-      "num": 339069,
-      "word": "美国政府滥施关税拖累好莱坞",
-      "onboard_time": 1744386084,
-      "rank": 10,
-      "category": "国际时政"
     },
     {
       "raw_hot": 76849,
@@ -31017,14 +31033,6 @@
       "onboard_time": 1743498984,
       "rank": 13,
       "category": "民生新闻,国内时政"
-    },
-    {
-      "raw_hot": 68953,
-      "num": 205559,
-      "word": "北京全市阵风普遍达8级以上",
-      "onboard_time": 1744387943,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 68832,

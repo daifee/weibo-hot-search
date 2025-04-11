@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1744389070116,
+  "endTime": 1744389974273,
   "band_list": [
     {
       "raw_hot": 18779562,
@@ -2595,6 +2595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 665284,
+      "num": 665284,
+      "word": "法老被Mac删除好友",
+      "onboard_time": 1744387342,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 662274,
       "num": 662274,
       "word": "当地蜜雪冰城回应招牌变绿色",
@@ -3857,14 +3865,6 @@
       "onboard_time": 1744196243,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 454885,
-      "num": 334720,
-      "word": "法老被Mac删除好友",
-      "onboard_time": 1744387342,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 454806,
@@ -6321,6 +6321,14 @@
       "onboard_time": 1744184362,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 287198,
+      "num": 287198,
+      "word": "北京全市阵风普遍达8级以上",
+      "onboard_time": 1744387943,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 286344,
@@ -11091,6 +11099,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 177248,
+      "num": 177248,
+      "word": "鞠婧祎工作室",
+      "onboard_time": 1744389081,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 177160,
       "num": 177160,
       "word": "刘涛 我的梦中情师",
@@ -11913,6 +11929,14 @@
       "onboard_time": 1744072464,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 164788,
+      "num": 164788,
+      "word": "代号鸢",
+      "onboard_time": 1744387704,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 164614,
@@ -13939,6 +13963,14 @@
       "category": "数码,互联网"
     },
     {
+      "raw_hot": 137729,
+      "num": 339069,
+      "word": "美国政府滥施关税拖累好莱坞",
+      "onboard_time": 1744386084,
+      "rank": 10,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 137666,
       "num": 656039,
       "word": "权志龙将发表演讲",
@@ -15235,6 +15267,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 119815,
+      "num": 119815,
+      "word": "性教育被语文老师讲明白了",
+      "onboard_time": 1744389020,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119519,
       "num": 119519,
       "word": "宠物狗被杀韩国女子欲杀父报仇",
@@ -15633,14 +15673,6 @@
       "onboard_time": 1744032804,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 113006,
-      "num": 113006,
-      "word": "代号鸢",
-      "onboard_time": 1744387704,
-      "rank": 40,
-      "category": "游戏"
     },
     {
       "raw_hot": 112446,
@@ -16875,14 +16907,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 84163,
-      "num": 84163,
-      "word": "性教育被语文老师讲明白了",
-      "onboard_time": 1744389020,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 83809,
       "num": 83809,
       "word": "深圳人为姥爷拍了拍23个地铁站名",
@@ -17129,14 +17153,6 @@
       "onboard_time": 1744275200,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 76896,
-      "num": 339069,
-      "word": "美国政府滥施关税拖累好莱坞",
-      "onboard_time": 1744386084,
-      "rank": 10,
-      "category": "国际时政"
     },
     {
       "raw_hot": 76849,
@@ -17465,14 +17481,6 @@
       "onboard_time": 1744197325,
       "rank": 28,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 68953,
-      "num": 205559,
-      "word": "北京全市阵风普遍达8级以上",
-      "onboard_time": 1744387943,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 68832,

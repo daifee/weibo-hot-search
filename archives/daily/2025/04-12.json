@@ -1,6 +1,6 @@
 {
   "startTime": 1744389070116,
-  "endTime": 1744389070116,
+  "endTime": 1744389974273,
   "band_list": [
     {
       "raw_hot": 1938262,
@@ -51,20 +51,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 665284,
+      "num": 665284,
+      "word": "法老被Mac删除好友",
+      "onboard_time": 1744387342,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 638094,
       "num": 638094,
       "word": "法老聊天记录",
       "onboard_time": 1744369643,
       "rank": 7,
       "category": "演出"
-    },
-    {
-      "raw_hot": 454885,
-      "num": 334720,
-      "word": "法老被Mac删除好友",
-      "onboard_time": 1744387342,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 421992,
@@ -120,6 +120,14 @@
       "word": "男子捅伤同病房父子后跳楼身亡",
       "onboard_time": 1744381105,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 287198,
+      "num": 287198,
+      "word": "北京全市阵风普遍达8级以上",
+      "onboard_time": 1744387943,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -187,6 +195,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 177248,
+      "num": 177248,
+      "word": "鞠婧祎工作室",
+      "onboard_time": 1744389081,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 173269,
       "num": 173269,
       "word": "盒马向中国外贸企业开放绿色通道",
@@ -201,6 +217,14 @@
       "onboard_time": 1744385244,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 164788,
+      "num": 164788,
+      "word": "代号鸢",
+      "onboard_time": 1744387704,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 162129,
@@ -259,6 +283,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 137729,
+      "num": 339069,
+      "word": "美国政府滥施关税拖累好莱坞",
+      "onboard_time": 1744386084,
+      "rank": 10,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 131025,
       "num": 131025,
       "word": "北京延庆出现10级风",
@@ -291,6 +323,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 119815,
+      "num": 119815,
+      "word": "性教育被语文老师讲明白了",
+      "onboard_time": 1744389020,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118606,
       "num": 118606,
       "word": "胡夏演唱会已开启退票通道",
@@ -305,14 +345,6 @@
       "onboard_time": 1744377563,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 113006,
-      "num": 113006,
-      "word": "代号鸢",
-      "onboard_time": 1744387704,
-      "rank": 40,
-      "category": "游戏"
     },
     {
       "raw_hot": 111718,
@@ -356,7 +388,7 @@
     },
     {
       "raw_hot": 92304,
-      "num": 92304,
+      "num": 120385,
       "word": "美教育部长误将AI称为A1",
       "onboard_time": 1744382965,
       "rank": 47,
@@ -371,28 +403,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 84163,
-      "num": 84163,
-      "word": "性教育被语文老师讲明白了",
-      "onboard_time": 1744389020,
+      "raw_hot": 70805,
+      "num": 70805,
+      "word": "美股",
+      "onboard_time": 1744384104,
       "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 76896,
-      "num": 339069,
-      "word": "美国政府滥施关税拖累好莱坞",
-      "onboard_time": 1744386084,
-      "rank": 10,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 68953,
-      "num": 205559,
-      "word": "北京全市阵风普遍达8级以上",
-      "onboard_time": 1744387943,
-      "rank": 19,
-      "category": "民生新闻"
+      "category": "财经"
     },
     {
       "raw_hot": 13093,
@@ -406,6 +422,9 @@
   "hotgov_list": [
     {
       "word": "#中国发展从不靠谁的恩赐#"
+    },
+    {
+      "word": "#打造有战略定力合作共赢的中西关系#"
     }
   ]
 }
