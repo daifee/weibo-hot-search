@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1744389974273,
+  "endTime": 1744392115800,
   "band_list": [
     {
       "raw_hot": 18779562,
@@ -4035,6 +4035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 436364,
+      "num": 436364,
+      "word": "中国制造商向美国客户明确表示不会降价",
+      "onboard_time": 1744391778,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 434304,
       "num": 434304,
       "word": "外国人吃到中国科技的细糠了",
@@ -4955,6 +4963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 359642,
+      "num": 345481,
+      "word": "性教育被语文老师讲明白了",
+      "onboard_time": 1744389020,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 358786,
       "num": 239423,
       "word": "南京地铁",
@@ -5057,6 +5073,14 @@
       "onboard_time": 1744357042,
       "rank": 16,
       "category": "网红"
+    },
+    {
+      "raw_hot": 350593,
+      "num": 350593,
+      "word": "北京全市阵风普遍达8级以上",
+      "onboard_time": 1744387943,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 350333,
@@ -5569,6 +5593,14 @@
       "onboard_time": 1744171163,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 317072,
+      "num": 317072,
+      "word": "鞠婧祎工作室",
+      "onboard_time": 1744389081,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 316865,
@@ -6321,14 +6353,6 @@
       "onboard_time": 1744184362,
       "rank": 34,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 287198,
-      "num": 287198,
-      "word": "北京全市阵风普遍达8级以上",
-      "onboard_time": 1744387943,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 286344,
@@ -11099,14 +11123,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 177248,
-      "num": 177248,
-      "word": "鞠婧祎工作室",
-      "onboard_time": 1744389081,
-      "rank": 17,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 177160,
       "num": 177160,
       "word": "刘涛 我的梦中情师",
@@ -15267,14 +15283,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 119815,
-      "num": 119815,
-      "word": "性教育被语文老师讲明白了",
-      "onboard_time": 1744389020,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 119519,
       "num": 119519,
       "word": "宠物狗被杀韩国女子欲杀父报仇",
@@ -17515,6 +17523,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 68544,
+      "num": 70648,
+      "word": "直观感受12级大风有多猛",
+      "onboard_time": 1744391778,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68416,
       "num": 67084,
       "word": "Ning怒喷Cat",
@@ -18041,6 +18057,14 @@
       "onboard_time": 1744327280,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55492,
+      "num": 72152,
+      "word": "中国发展从不靠谁的恩赐",
+      "onboard_time": 1744391240,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 55312,
@@ -18825,6 +18849,14 @@
       "onboard_time": 1744182622,
       "rank": 13,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 35833,
+      "num": 105717,
+      "word": "10年期美债收益率站上4.5%",
+      "onboard_time": 1744391839,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 34963,

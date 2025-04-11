@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/12 00:46:14
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/12 01:21:55
 </p>
 </blockquote>
 <p>
@@ -5223,6 +5223,12 @@ Hamin公开（热度：442270）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E5%95%86%E5%90%91%E7%BE%8E%E5%9B%BD%E5%AE%A2%E6%88%B7%E6%98%8E%E7%A1%AE%E8%A1%A8%E7%A4%BA%E4%B8%8D%E4%BC%9A%E9%99%8D%E4%BB%B7%23" target="weibo">
+中国制造商向美国客户明确表示不会降价（热度：436364）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%89%B3%E5%8F%91%E4%BA%86%E8%B5%A4%E8%84%9A%E9%AC%BC%23" target="weibo">
 王艳发了赤脚鬼（热度：435494）
 </a>
@@ -6005,12 +6011,6 @@ EXO直播（热度：382852）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%BC%94%E5%94%B1%E4%BC%9A%20%E6%B5%B7%E5%8F%A3%23" target="weibo">
 时代少年团演唱会 海口（热度：382212）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%A4%A7%E9%A3%8E%E5%A4%A9%E5%9D%90%E5%9C%B0%E9%93%81%E6%B3%A8%E6%84%8F%E4%BA%86%23" target="weibo">
-北京大风天坐地铁注意了（热度：381688）
 </a>
 </li>
 
