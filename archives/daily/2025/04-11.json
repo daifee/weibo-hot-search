@@ -1,6 +1,6 @@
 {
   "startTime": 1744302697177,
-  "endTime": 1744354061141,
+  "endTime": 1744356253016,
   "band_list": [
     {
       "raw_hot": 3800577,
@@ -17,6 +17,14 @@
       "onboard_time": 1744347923,
       "rank": 1,
       "category": "网红,运动健身"
+    },
+    {
+      "raw_hot": 2608025,
+      "num": 2608025,
+      "word": "北京大风",
+      "onboard_time": 1744353143,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1978145,
@@ -41,14 +49,6 @@
       "onboard_time": 1744332743,
       "rank": 20,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 1557276,
-      "num": 1557276,
-      "word": "北京大风",
-      "onboard_time": 1744353143,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1515351,
@@ -195,6 +195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 889687,
+      "num": 553154,
+      "word": "乌合麒麟新作就不跪",
+      "onboard_time": 1744353442,
+      "rank": 10,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 830150,
       "num": 830150,
       "word": "26岁河南男生因双向抑郁意外早逝",
@@ -291,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 644741,
+      "num": 644741,
+      "word": "Prada正式收购范思哲",
+      "onboard_time": 1744350201,
+      "rank": 33,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 632840,
       "num": 345151,
       "word": "特朗普家族几天获利300亿美元",
@@ -305,6 +321,14 @@
       "onboard_time": 1744343782,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 597236,
+      "num": 597236,
+      "word": "武汉大雨",
+      "onboard_time": 1744351522,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 572314,
@@ -329,6 +353,22 @@
       "onboard_time": 1744337001,
       "rank": 15,
       "category": "网红"
+    },
+    {
+      "raw_hot": 537703,
+      "num": 537703,
+      "word": "这五类电话号码不要接",
+      "onboard_time": 1744351582,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 503981,
+      "num": 503981,
+      "word": "风刮到张家口了",
+      "onboard_time": 1744354463,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 493411,
@@ -360,6 +400,14 @@
       "word": "张凌赫曾胖到200斤同学认不出",
       "onboard_time": 1744300821,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 460375,
+      "num": 460375,
+      "word": "马思纯张曼乐 大理",
+      "onboard_time": 1744353082,
+      "rank": 45,
       "category": "艺人"
     },
     {
@@ -403,14 +451,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 415620,
-      "num": 484912,
-      "word": "这五类电话号码不要接",
-      "onboard_time": 1744351582,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 405155,
       "num": 502266,
       "word": "叶童说即使不完美也是特别的美",
@@ -451,6 +491,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 383231,
+      "num": 297758,
+      "word": "气氛烘托到这了 风到哪了",
+      "onboard_time": 1744356200,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 382258,
+      "num": 560050,
+      "word": "中国从来不吃这一套",
+      "onboard_time": 1744355061,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 381688,
       "num": 381688,
       "word": "北京大风天坐地铁注意了",
@@ -481,6 +537,14 @@
       "onboard_time": 1744348341,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 359352,
+      "num": 359352,
+      "word": "美网民发现中国制造太重要了",
+      "onboard_time": 1744354942,
+      "rank": 16,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 353683,
@@ -531,12 +595,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 330908,
-      "num": 330908,
-      "word": "武汉大雨",
-      "onboard_time": 1744351522,
+      "raw_hot": 326436,
+      "num": 326436,
+      "word": "金饰价格涨破1000元",
+      "onboard_time": 1744355423,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 321208,
+      "num": 321208,
+      "word": "VaVa 难怪队长都想抢她",
+      "onboard_time": 1744354881,
       "rank": 20,
-      "category": "民生新闻"
+      "category": "综艺"
     },
     {
       "raw_hot": 314290,
@@ -555,6 +627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 311888,
+      "num": 321149,
+      "word": "枭起青壤32集",
+      "onboard_time": 1744355242,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 308256,
       "num": 378623,
       "word": "全红婵第一陈芋汐第二进决赛",
@@ -571,12 +651,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 304182,
-      "num": 304182,
-      "word": "马思纯张曼乐 大理",
-      "onboard_time": 1744353082,
-      "rank": 45,
-      "category": "艺人"
+      "raw_hot": 305753,
+      "num": 297649,
+      "word": "无手女孩换卫生巾有多难",
+      "onboard_time": 1744353981,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 303582,
@@ -595,12 +675,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 298136,
+      "num": 298136,
+      "word": "甲亢哥开启蒙古行也直呼中文冷静",
+      "onboard_time": 1744355423,
+      "rank": 27,
+      "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 297638,
+      "num": 297638,
+      "word": "中国西班牙全面战略伙伴关系20周年",
+      "onboard_time": 1744354822,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 297419,
       "num": 242919,
       "word": "iPhone16回收价已涨300元",
       "onboard_time": 1744282702,
       "rank": 20,
       "category": "数码"
+    },
+    {
+      "raw_hot": 296413,
+      "num": 296413,
+      "word": "可复美",
+      "onboard_time": 1744354581,
+      "rank": 34,
+      "category": "美妆"
     },
     {
       "raw_hot": 296351,
@@ -699,12 +803,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 267534,
-      "num": 267534,
-      "word": "Prada正式收购范思哲",
-      "onboard_time": 1744350201,
-      "rank": 33,
-      "category": "时尚"
+      "raw_hot": 261007,
+      "num": 427680,
+      "word": "法国人开始抵制可口可乐和麦当劳",
+      "onboard_time": 1744353622,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 260912,
@@ -729,6 +833,14 @@
       "onboard_time": 1744337361,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 254479,
+      "num": 254479,
+      "word": "天津大风",
+      "onboard_time": 1744355183,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 252202,
@@ -827,6 +939,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 229324,
+      "num": 229324,
+      "word": "加拿大总理称要给美国造成最大痛苦",
+      "onboard_time": 1744353741,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 226621,
       "num": 289790,
       "word": "谢娜发胡歌琅琊榜剧照",
@@ -897,6 +1017,14 @@
       "onboard_time": 1744335923,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203738,
+      "num": 203738,
+      "word": "等风来",
+      "onboard_time": 1744355661,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 201967,
@@ -1075,12 +1203,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 175844,
-      "num": 175844,
-      "word": "加拿大总理称要给美国造成最大痛苦",
-      "onboard_time": 1744353741,
-      "rank": 42,
-      "category": "国际时政"
+      "raw_hot": 174676,
+      "num": 333810,
+      "word": "辛云来你怎么不早说你是顾森西",
+      "onboard_time": 1744355302,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 173077,
@@ -1203,14 +1331,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 152161,
-      "num": 152161,
-      "word": "无手女孩换卫生巾有多难",
-      "onboard_time": 1744353981,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 148436,
       "num": 148436,
       "word": "王力宏弹钢琴",
@@ -1233,6 +1353,14 @@
       "onboard_time": 1744327521,
       "rank": 8,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 145865,
+      "num": 318546,
+      "word": "肖战羽西白玉防晒",
+      "onboard_time": 1744355963,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 144933,
@@ -1675,6 +1803,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 64385,
+      "num": 225536,
+      "word": "北京网友已经用米字贴窗了",
+      "onboard_time": 1744355061,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64369,
+      "num": 297965,
+      "word": "男子称5万入股理发店像付钱打工",
+      "onboard_time": 1744355722,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64166,
       "num": 192922,
       "word": "值得爱反正结果都那样",
@@ -1689,14 +1833,6 @@
       "onboard_time": 1744288824,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 62770,
-      "num": 427680,
-      "word": "法国人开始抵制可口可乐和麦当劳",
-      "onboard_time": 1744353622,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 55861,
@@ -1739,6 +1875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48771,
+      "num": 319948,
+      "word": "7级大风就会感觉步行困难",
+      "onboard_time": 1744354341,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43425,
       "num": 43425,
       "word": "孙千Celine生图",
@@ -1763,6 +1907,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 39194,
+      "num": 316729,
+      "word": "第五人格赛事",
+      "onboard_time": 1744355061,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 37452,
       "num": 352709,
       "word": "美关税政策是最严重经济自残",
@@ -1777,6 +1929,14 @@
       "onboard_time": 1744289302,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 34900,
+      "num": 322464,
+      "word": "白宫关税计算方式被指大错特错",
+      "onboard_time": 1744355661,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 32821,

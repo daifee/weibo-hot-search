@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/11 14:47:41
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/11 15:24:13
 </p>
 </blockquote>
 <p>
@@ -215,6 +215,12 @@ A股（热度：2689460）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%88%9A%E8%A2%AB%E5%8F%8C%E5%BC%80%23" target="weibo">
 李刚被双开（热度：2623060）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%A4%A7%E9%A3%8E%23" target="weibo">
+北京大风（热度：2608025）
 </a>
 </li>
 
@@ -725,12 +731,6 @@ RedVelvet 解散（热度：1601334）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%AE%A3%E4%BB%AA%E4%B8%89%E5%85%AC%E5%88%86%E6%95%B0%23" target="weibo">
 吴宣仪三公分数（热度：1569417）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%A4%A7%E9%A3%8E%23" target="weibo">
-北京大风（热度：1557276）
 </a>
 </li>
 
@@ -2121,6 +2121,12 @@ SM新男团 撞名（热度：910464）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%90%88%E9%BA%92%E9%BA%9F%E6%96%B0%E4%BD%9C%E5%B0%B1%E4%B8%8D%E8%B7%AA%23" target="weibo">
+乌合麒麟新作就不跪（热度：889687）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%AD%E6%98%B1%E7%95%85%E9%A6%96%E9%83%A8%E5%8F%A4%E8%A3%85%E7%94%B7%E4%B8%BB%23" target="weibo">
 彭昱畅首部古装男主（热度：886031）
 </a>
@@ -3141,6 +3147,12 @@ kissoflife一夜掉粉20万（热度：668428）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Prada%E6%AD%A3%E5%BC%8F%E6%94%B6%E8%B4%AD%E8%8C%83%E6%80%9D%E5%93%B2%23" target="weibo">
+Prada正式收购范思哲（热度：644741）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%BD%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8F%8D%E5%88%B6%E5%AF%B9%E7%AD%89%E5%85%B3%E7%A8%8E%23" target="weibo">
 中国为什么能全球第一个反制对等关税（热度：644563）
 </a>
@@ -3425,6 +3437,12 @@ rapper祥龙diss严浩翔（热度：600766）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%AA%E6%A2%A8%E4%BB%A5%E8%AE%BE%E8%AE%A1%E5%B8%88%E8%BA%AB%E4%BB%BD%E5%8F%82%E5%8A%A0%E7%BB%BC%E8%89%BA%23" target="weibo">
 雪梨以设计师身份参加综艺（热度：597601）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E5%A4%A7%E9%9B%A8%23" target="weibo">
+武汉大雨（热度：597236）
 </a>
 </li>
 
@@ -3885,6 +3903,12 @@ Songha公开（热度：554934）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%94%E7%B1%BB%E7%94%B5%E8%AF%9D%E5%8F%B7%E7%A0%81%E4%B8%8D%E8%A6%81%E6%8E%A5%23" target="weibo">
+这五类电话号码不要接（热度：537703）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BA%BF%E4%B8%87%E5%AF%8C%E7%BF%81%E6%8F%90%E9%86%92%E6%B0%91%E4%BC%97%E5%9B%A4%E8%B4%A7%23" target="weibo">
 美国亿万富翁提醒民众囤货（热度：535692）
 </a>
@@ -4199,6 +4223,12 @@ TOP登陆少年官宣晋江演唱会（热度：507208）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%AA%E6%A2%A8%E5%8F%82%E5%8A%A0%E7%BB%BC%E8%89%BA%E8%A2%AB%E6%B7%98%E6%B1%B0%23" target="weibo">
 雪梨参加综艺被淘汰（热度：504554）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A3%8E%E5%88%AE%E5%88%B0%E5%BC%A0%E5%AE%B6%E5%8F%A3%E4%BA%86%23" target="weibo">
+风刮到张家口了（热度：503981）
 </a>
 </li>
 
@@ -4643,6 +4673,12 @@ hanbi公开（热度：468837）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E9%83%A8%E6%82%AC%E7%96%91%E5%89%A7%E5%87%91%E9%BD%90%E5%9B%9B%E4%B8%AA%E7%8B%A0%E5%A5%B3%23" target="weibo">
 一部悬疑剧凑齐四个狠女（热度：461752）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%80%9D%E7%BA%AF%E5%BC%A0%E6%9B%BC%E4%B9%90%20%E5%A4%A7%E7%90%86%23" target="weibo">
+马思纯张曼乐 大理（热度：460375）
 </a>
 </li>
 
@@ -5163,12 +5199,6 @@ Hyunjun公开（热度：426369）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%94%E7%B1%BB%E7%94%B5%E8%AF%9D%E5%8F%B7%E7%A0%81%E4%B8%8D%E8%A6%81%E6%8E%A5%23" target="weibo">
-这五类电话号码不要接（热度：415620）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23NINEPERCENT%E4%B8%83%E5%91%A8%E5%B9%B4%23" target="weibo">
 NINEPERCENT七周年（热度：415549）
 </a>
@@ -5625,6 +5655,12 @@ A股走强（热度：387879）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B0%94%E6%B0%9B%E7%83%98%E6%89%98%E5%88%B0%E8%BF%99%E4%BA%86%20%E9%A3%8E%E5%88%B0%E5%93%AA%E4%BA%86%23" target="weibo">
+气氛烘托到这了 风到哪了（热度：383231）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23AI%E5%A4%8D%E5%8E%9F%E5%87%BA22%E5%B2%81%E7%83%88%E5%A3%AB%E7%9A%84%E6%A8%A1%E6%A0%B7%23" target="weibo">
 AI复原出22岁烈士的模样（热度：383185）
 </a>
@@ -5645,6 +5681,12 @@ AI复原出22岁烈士的模样（热度：383185）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23EXO%E7%9B%B4%E6%92%AD%23" target="weibo">
 EXO直播（热度：382852）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BB%8E%E6%9D%A5%E4%B8%8D%E5%90%83%E8%BF%99%E4%B8%80%E5%A5%97%23" target="weibo">
+中国从来不吃这一套（热度：382258）
 </a>
 </li>
 
@@ -5969,48 +6011,6 @@ deepseek崩了（热度：366398）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%AE%B6%E5%96%9D%E4%BA%94%E6%8C%87%E6%AF%9B%E6%A1%83%E7%85%B2%E9%B8%A1%E6%B1%A4%E4%B8%AD%E6%AF%922%E4%BA%BA%E8%BF%9BICU%23" target="weibo">
 全家喝五指毛桃煲鸡汤中毒2人进ICU（热度：364304）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E5%8F%88%E5%B7%A8%E9%9C%87%23" target="weibo">
-美股又巨震（热度：364236）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%98%AF%E7%BE%8E%E5%9B%BD%E7%BB%8F%E6%B5%8E%E7%89%B9%E6%95%88%E5%87%8F%E8%82%A5%E8%8D%AF%23" target="weibo">
-特朗普是美国经济特效减肥药（热度：363355）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9A%82%E5%81%9C6%E5%AE%B6%E7%BE%8E%E6%B6%89%E4%BA%8B%E4%BC%81%E4%B8%9A%E4%BA%A7%E5%93%81%E8%BE%93%E5%8D%8E%E8%B5%84%E8%B4%A8%23" target="weibo">
-暂停6家美涉事企业产品输华资质（热度：363268）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%9D%90%E4%B8%8D%E4%BD%8F%E4%BA%86%23" target="weibo">
-马斯克坐不住了（热度：362748）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AE%A1%E4%BB%AA%E8%A1%8C%E4%B8%9A%E5%B7%A5%E8%B5%84%E8%BE%BE%E5%9C%B0%E6%96%B9%E5%B9%B3%E5%9D%87%E5%B7%A5%E8%B5%843%E5%80%8D%23" target="weibo">
-殡仪行业工资达地方平均工资3倍（热度：362122）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E5%9D%A4%20%E6%9C%AA%E6%88%90%E5%B9%B4%23" target="weibo">
-孟子坤 未成年（热度：361851）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A6%82%E7%BE%8E%E6%96%B9%E4%B8%80%E6%84%8F%E5%AD%A4%E8%A1%8C%E4%B8%AD%E6%96%B9%E5%A5%89%E9%99%AA%E5%88%B0%E5%BA%95%23" target="weibo">
-如美方一意孤行中方奉陪到底（热度：361766）
 </a>
 </li>
 

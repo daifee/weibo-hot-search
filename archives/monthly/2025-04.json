@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744354061141,
+  "endTime": 1744356253016,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -273,6 +273,14 @@
       "onboard_time": 1744021763,
       "rank": 15,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 2608025,
+      "num": 2608025,
+      "word": "北京大风",
+      "onboard_time": 1744353143,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2591568,
@@ -953,14 +961,6 @@
       "onboard_time": 1743512304,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1557276,
-      "num": 1557276,
-      "word": "北京大风",
-      "onboard_time": 1744353143,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1549147,
@@ -2811,6 +2811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 889687,
+      "num": 553154,
+      "word": "乌合麒麟新作就不跪",
+      "onboard_time": 1744353442,
+      "rank": 10,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 886031,
       "num": 886031,
       "word": "彭昱畅首部古装男主",
@@ -4171,6 +4179,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 644741,
+      "num": 644741,
+      "word": "Prada正式收购范思哲",
+      "onboard_time": 1744350201,
+      "rank": 33,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 644563,
       "num": 644563,
       "word": "中国为什么能全球第一个反制对等关税",
@@ -4553,6 +4569,14 @@
       "onboard_time": 1743922341,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 597236,
+      "num": 597236,
+      "word": "武汉大雨",
+      "onboard_time": 1744351522,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 597026,
@@ -5163,6 +5187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 537703,
+      "num": 537703,
+      "word": "这五类电话号码不要接",
+      "onboard_time": 1744351582,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 535692,
       "num": 888228,
       "word": "美国亿万富翁提醒民众囤货",
@@ -5585,6 +5617,14 @@
       "onboard_time": 1743931100,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 503981,
+      "num": 503981,
+      "word": "风刮到张家口了",
+      "onboard_time": 1744354463,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 503462,
@@ -6177,6 +6217,14 @@
       "onboard_time": 1743568344,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 460375,
+      "num": 460375,
+      "word": "马思纯张曼乐 大理",
+      "onboard_time": 1744353082,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 460139,
@@ -6867,14 +6915,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 415620,
-      "num": 484912,
-      "word": "这五类电话号码不要接",
-      "onboard_time": 1744351582,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 415549,
       "num": 315064,
       "word": "NINEPERCENT七周年",
@@ -7483,6 +7523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 383231,
+      "num": 297758,
+      "word": "气氛烘托到这了 风到哪了",
+      "onboard_time": 1744356200,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 383185,
       "num": 383185,
       "word": "AI复原出22岁烈士的模样",
@@ -7513,6 +7561,14 @@
       "onboard_time": 1744113142,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 382258,
+      "num": 560050,
+      "word": "中国从来不吃这一套",
+      "onboard_time": 1744355061,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 382244,
@@ -8033,6 +8089,14 @@
       "onboard_time": 1743816140,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 359352,
+      "num": 359352,
+      "word": "美网民发现中国制造太重要了",
+      "onboard_time": 1744354942,
+      "rank": 16,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 359334,
@@ -8755,14 +8819,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 330908,
-      "num": 330908,
-      "word": "武汉大雨",
-      "onboard_time": 1744351522,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 330527,
       "num": 330527,
       "word": "国际金价高位跳水了",
@@ -8867,6 +8923,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 326436,
+      "num": 326436,
+      "word": "金饰价格涨破1000元",
+      "onboard_time": 1744355423,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 326330,
       "num": 326329,
       "word": "骗子被骗收到5万冥币当场破防",
@@ -8969,6 +9033,14 @@
       "onboard_time": 1744115121,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 321208,
+      "num": 321208,
+      "word": "VaVa 难怪队长都想抢她",
+      "onboard_time": 1744354881,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 321101,
@@ -9243,6 +9315,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 311888,
+      "num": 321149,
+      "word": "枭起青壤32集",
+      "onboard_time": 1744355242,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 311781,
       "num": 311781,
       "word": "男子1.5万机票款退票被扣1.4万",
@@ -9459,6 +9539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 305753,
+      "num": 297649,
+      "word": "无手女孩换卫生巾有多难",
+      "onboard_time": 1744353981,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 305605,
       "num": 305605,
       "word": "新加坡总理说对美国深感失望",
@@ -9497,14 +9585,6 @@
       "onboard_time": 1744248444,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 304182,
-      "num": 304182,
-      "word": "马思纯张曼乐 大理",
-      "onboard_time": 1744353082,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 304109,
@@ -9707,12 +9787,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 298136,
+      "num": 298136,
+      "word": "甲亢哥开启蒙古行也直呼中文冷静",
+      "onboard_time": 1744355423,
+      "rank": 27,
+      "category": "网红,民生新闻"
+    },
+    {
       "raw_hot": 298045,
       "num": 253955,
       "word": "马丽拿刘耀文当亲儿子",
       "onboard_time": 1743513383,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 297638,
+      "num": 297638,
+      "word": "中国西班牙全面战略伙伴关系20周年",
+      "onboard_time": 1744354822,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 297623,
@@ -9761,6 +9857,14 @@
       "onboard_time": 1743830302,
       "rank": 44,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 296413,
+      "num": 296413,
+      "word": "可复美",
+      "onboard_time": 1744354581,
+      "rank": 34,
+      "category": "美妆"
     },
     {
       "raw_hot": 296351,
@@ -10827,14 +10931,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 267534,
-      "num": 267534,
-      "word": "Prada正式收购范思哲",
-      "onboard_time": 1744350201,
-      "rank": 33,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 267494,
       "num": 267494,
       "word": "杨幂站姐拍的迪丽热巴",
@@ -11073,6 +11169,14 @@
       "onboard_time": 1743574224,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 261007,
+      "num": 427680,
+      "word": "法国人开始抵制可口可乐和麦当劳",
+      "onboard_time": 1744353622,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 260993,
@@ -11361,6 +11465,14 @@
       "onboard_time": 1743575422,
       "rank": 43,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 254479,
+      "num": 254479,
+      "word": "天津大风",
+      "onboard_time": 1744355183,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 254338,
@@ -12401,6 +12513,14 @@
       "onboard_time": 1743847641,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 229324,
+      "num": 229324,
+      "word": "加拿大总理称要给美国造成最大痛苦",
+      "onboard_time": 1744353741,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 229275,
@@ -14401,6 +14521,14 @@
       "onboard_time": 1743583521,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203738,
+      "num": 203738,
+      "word": "等风来",
+      "onboard_time": 1744355661,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 203717,
@@ -17771,14 +17899,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 175844,
-      "num": 175844,
-      "word": "加拿大总理称要给美国造成最大痛苦",
-      "onboard_time": 1744353741,
-      "rank": 42,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 175829,
       "num": 175829,
       "word": "王鸥明侦嫡长女的地位还在上升",
@@ -17969,6 +18089,14 @@
       "onboard_time": 1744182803,
       "rank": 14,
       "category": "国际时政,财经"
+    },
+    {
+      "raw_hot": 174676,
+      "num": 333810,
+      "word": "辛云来你怎么不早说你是顾森西",
+      "onboard_time": 1744355302,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 174596,
@@ -20659,14 +20787,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 152161,
-      "num": 152161,
-      "word": "无手女孩换卫生巾有多难",
-      "onboard_time": 1744353981,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 152028,
       "num": 278296,
       "word": "美国5美元进口矿泉水约交1美元关税",
@@ -21561,6 +21681,14 @@
       "onboard_time": 1743861383,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145865,
+      "num": 318546,
+      "word": "肖战羽西白玉防晒",
+      "onboard_time": 1744355963,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 145769,
@@ -29979,6 +30107,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64385,
+      "num": 225536,
+      "word": "北京网友已经用米字贴窗了",
+      "onboard_time": 1744355061,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64369,
+      "num": 297965,
+      "word": "男子称5万入股理发店像付钱打工",
+      "onboard_time": 1744355722,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64307,
       "num": 247725,
       "word": "抢婴案母亲将带爷爷遗像质问人贩子",
@@ -30105,14 +30249,6 @@
       "onboard_time": 1743882915,
       "rank": 46,
       "category": "财经"
-    },
-    {
-      "raw_hot": 62770,
-      "num": 427680,
-      "word": "法国人开始抵制可口可乐和麦当劳",
-      "onboard_time": 1744353622,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 62719,
@@ -31051,6 +31187,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 48771,
+      "num": 319948,
+      "word": "7级大风就会感觉步行困难",
+      "onboard_time": 1744354341,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48732,
       "num": 134449,
       "word": "国际爱鸟日",
@@ -31827,6 +31971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 39194,
+      "num": 316729,
+      "word": "第五人格赛事",
+      "onboard_time": 1744355061,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 38996,
       "num": 287334,
       "word": "祁煜真害羞啦",
@@ -32137,6 +32289,14 @@
       "onboard_time": 1743824541,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34900,
+      "num": 322464,
+      "word": "白宫关税计算方式被指大错特错",
+      "onboard_time": 1744355661,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 34877,
