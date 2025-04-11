@@ -1,0 +1,410 @@
+{
+  "runTime": 1744404007269,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 420373,
+        "num": 420373,
+        "word": "直观感受12级大风有多猛",
+        "onboard_time": 1744391778,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244610,
+        "num": 244610,
+        "word": "中国制造商向美国客户明确表示不会降价",
+        "onboard_time": 1744391778,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 32497,
+        "num": 216355,
+        "word": "以中国稳应对美国疯",
+        "onboard_time": 1744377383,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 196783,
+        "num": 196783,
+        "word": "大风到哪了",
+        "onboard_time": 1744363704,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123720,
+        "num": 123720,
+        "word": "大风到北京城区了",
+        "onboard_time": 1744377262,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123827,
+        "num": 123183,
+        "word": "地铁猥亵事件男子公司称其被开除",
+        "onboard_time": 1744381462,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116930,
+        "num": 116930,
+        "word": "这次大风为何来势汹汹",
+        "onboard_time": 1744396096,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103094,
+        "num": 103094,
+        "word": "法老被Mac删除好友",
+        "onboard_time": 1744387342,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89273,
+        "num": 89273,
+        "word": "恋与深空偷跑",
+        "onboard_time": 1744395375,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 68071,
+        "num": 79639,
+        "word": "汪苏泷就让这大雨落下具象化",
+        "onboard_time": 1744388362,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 94699,
+        "num": 79207,
+        "word": "性教育被语文老师讲明白了",
+        "onboard_time": 1744389020,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76526,
+        "num": 76526,
+        "word": "义乌老板娘霸气喊话美国客户",
+        "onboard_time": 1744385063,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66902,
+        "num": 66902,
+        "word": "特朗普抱怨限水头发湿透需15分钟",
+        "onboard_time": 1744382965,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 65116,
+        "num": 65116,
+        "word": "北京大风",
+        "onboard_time": 1744353143,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60662,
+        "num": 60662,
+        "word": "对美所有进口商品加征125%关税",
+        "onboard_time": 1744359084,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 47302,
+        "num": 47302,
+        "word": "恋与深空",
+        "onboard_time": 1744395136,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 43154,
+        "num": 43154,
+        "word": "美国输华商品已无市场接受可能性",
+        "onboard_time": 1744359265,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 37974,
+        "num": 38995,
+        "word": "爱奇艺 淮水竹亭",
+        "onboard_time": 1744383084,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36975,
+        "num": 38491,
+        "word": "法老聊天记录",
+        "onboard_time": 1744369643,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 27638,
+        "num": 38416,
+        "word": "戚薇扭着屁股喊老公宝宝",
+        "onboard_time": 1744377683,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38404,
+        "num": 38404,
+        "word": "廊坊纪委调查三河商户招牌变色",
+        "onboard_time": 1744380864,
+        "rank": 20,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 33910,
+        "num": 33910,
+        "word": "鞠婧祎工作室",
+        "onboard_time": 1744389081,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 32115,
+        "num": 32115,
+        "word": "关税加了鸡蛋没了",
+        "onboard_time": 1744366044,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 31991,
+        "num": 31991,
+        "word": "美国金融市场出现三杀局面",
+        "onboard_time": 1744398316,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 29484,
+        "num": 29484,
+        "word": "中国站出来是为了避免人类重回丛林世界",
+        "onboard_time": 1744381943,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 29441,
+        "num": 29441,
+        "word": "特朗普关税政策让前财长愤怒爆表",
+        "onboard_time": 1744371502,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 24487,
+        "num": 29394,
+        "word": "贾玲新电影饭制海报",
+        "onboard_time": 1744378704,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 23273,
+        "num": 28549,
+        "word": "阿诺妹妹是比利时超模",
+        "onboard_time": 1744371022,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22815,
+        "num": 27382,
+        "word": "大山",
+        "onboard_time": 1744397955,
+        "rank": 28,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 20906,
+        "num": 26951,
+        "word": "胡夏演唱会已开启退票通道",
+        "onboard_time": 1744375942,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 26240,
+        "num": 26240,
+        "word": "美国政府滥施关税拖累好莱坞",
+        "onboard_time": 1744386084,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 25469,
+        "num": 25469,
+        "word": "门头沟一地阵风13级",
+        "onboard_time": 1744384824,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25432,
+        "num": 25432,
+        "word": "可复美面膜检出表皮生长因子成分",
+        "onboard_time": 1744367003,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23608,
+        "num": 23608,
+        "word": "米字贴窗",
+        "onboard_time": 1744400474,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23255,
+        "num": 23255,
+        "word": "北京全市阵风普遍达8级以上",
+        "onboard_time": 1744387943,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23174,
+        "num": 23174,
+        "word": "日本充当北约急先锋必将自食恶果",
+        "onboard_time": 1744382545,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 22661,
+        "num": 22661,
+        "word": "中国不会刻意为难美国电影行业",
+        "onboard_time": 1744385244,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 21440,
+        "num": 21440,
+        "word": "盒马向中国外贸企业开放绿色通道",
+        "onboard_time": 1744378105,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 21352,
+        "num": 21352,
+        "word": "北京延庆出现10级风",
+        "onboard_time": 1744373843,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21055,
+        "num": 21055,
+        "word": "中国发展从不靠谁的恩赐",
+        "onboard_time": 1744391240,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 20752,
+        "num": 21054,
+        "word": "美国孤立中国难得逞",
+        "onboard_time": 1744382965,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 20650,
+        "num": 21051,
+        "word": "金饰价格涨破1000元",
+        "onboard_time": 1744355423,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 20020,
+        "num": 21049,
+        "word": "反诈老陈年收入降到31万",
+        "onboard_time": 1744371086,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19446,
+        "num": 21049,
+        "word": "代号鸢",
+        "onboard_time": 1744387704,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 17006,
+        "num": 21045,
+        "word": "王毅说美国不能任意妄为",
+        "onboard_time": 1744384343,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 16644,
+        "num": 21045,
+        "word": "王哲林胸部受伤",
+        "onboard_time": 1744397715,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15357,
+        "num": 21043,
+        "word": "爱用物分享",
+        "onboard_time": 1744396576,
+        "rank": 46,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 15259,
+        "num": 21040,
+        "word": "体重与抗风级的关系你了解吗",
+        "onboard_time": 1744402934,
+        "rank": 47,
+        "category": "健康医疗,运动健身"
+      },
+      {
+        "raw_hot": 14975,
+        "num": 21040,
+        "word": "韩国女刊封面上的华语星光",
+        "onboard_time": 1744387404,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 14321,
+        "num": 21038,
+        "word": "中央气象台预警5连",
+        "onboard_time": 1744393756,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国发展从不靠谁的恩赐#"
+    }
+  }
+}
