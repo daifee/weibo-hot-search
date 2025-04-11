@@ -1,6 +1,6 @@
 {
   "startTime": 1744389070116,
-  "endTime": 1744397198094,
+  "endTime": 1744399223607,
   "band_list": [
     {
       "raw_hot": 1938262,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 229996,
-      "num": 85067,
+      "num": 130906,
       "word": "恋与深空",
       "onboard_time": 1744395136,
       "rank": 21,
@@ -387,6 +387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111403,
+      "num": 201624,
+      "word": "这次大风为何来势汹汹",
+      "onboard_time": 1744396096,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107027,
       "num": 107027,
       "word": "金饰价格涨破1000元",
@@ -451,14 +459,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 50953,
-      "num": 201624,
-      "word": "这次大风为何来势汹汹",
-      "onboard_time": 1744396096,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 41000,
       "num": 105717,
       "word": "10年期美债收益率站上4.5%",
@@ -489,6 +489,30 @@
       "onboard_time": 1744396576,
       "rank": 40,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 28297,
+      "num": 28297,
+      "word": "美国金融市场出现三杀局面",
+      "onboard_time": 1744398316,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 26105,
+      "num": 28607,
+      "word": "大山",
+      "onboard_time": 1744397955,
+      "rank": 34,
+      "category": "综艺,综艺"
+    },
+    {
+      "raw_hot": 24154,
+      "num": 24154,
+      "word": "王哲林胸部受伤",
+      "onboard_time": 1744397715,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 13093,
