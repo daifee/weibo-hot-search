@@ -1,6 +1,6 @@
 {
   "startTime": 1744389070116,
-  "endTime": 1744399223607,
+  "endTime": 1744400167389,
   "band_list": [
     {
       "raw_hot": 1938262,
@@ -331,6 +331,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 135616,
+      "num": 201624,
+      "word": "这次大风为何来势汹汹",
+      "onboard_time": 1744396096,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131025,
       "num": 131025,
       "word": "北京延庆出现10级风",
@@ -384,14 +392,6 @@
       "word": "主人花16万元克隆去世爱犬",
       "onboard_time": 1744383744,
       "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 111403,
-      "num": 201624,
-      "word": "这次大风为何来势汹汹",
-      "onboard_time": 1744396096,
-      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -483,6 +483,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 34240,
+      "num": 34240,
+      "word": "美国金融市场出现三杀局面",
+      "onboard_time": 1744398316,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 32581,
       "num": 32581,
       "word": "爱用物分享",
@@ -491,16 +499,8 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 28297,
-      "num": 28297,
-      "word": "美国金融市场出现三杀局面",
-      "onboard_time": 1744398316,
-      "rank": 35,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 26105,
-      "num": 28607,
+      "raw_hot": 27691,
+      "num": 34452,
       "word": "大山",
       "onboard_time": 1744397955,
       "rank": 34,
@@ -513,6 +513,30 @@
       "onboard_time": 1744397715,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 22665,
+      "num": 22665,
+      "word": "汪苏泷十万伏特2.0巡回演唱会",
+      "onboard_time": 1744399935,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 22421,
+      "num": 22421,
+      "word": "娱乐圈25年答题巅峰赛",
+      "onboard_time": 1744399275,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 20821,
+      "num": 20821,
+      "word": "田嘉瑞月鳞绮纪杀青文",
+      "onboard_time": 1744399755,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 13093,
