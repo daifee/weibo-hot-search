@@ -1,6 +1,6 @@
 {
   "startTime": 1744389070116,
-  "endTime": 1744407424541,
+  "endTime": 1744410278721,
   "band_list": [
     {
       "raw_hot": 1938262,
@@ -43,20 +43,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 779582,
+      "num": 779582,
+      "word": "直观感受12级大风有多猛",
+      "onboard_time": 1744391778,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 721515,
       "num": 721515,
       "word": "中国制造商向美国客户明确表示不会降价",
       "onboard_time": 1744391778,
       "rank": 6,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 708369,
-      "num": 708369,
-      "word": "直观感受12级大风有多猛",
-      "onboard_time": 1744391778,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 690530,
@@ -459,6 +459,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 44224,
+      "num": 44224,
+      "word": "美国金融市场出现三杀局面",
+      "onboard_time": 1744398316,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 41000,
       "num": 105717,
       "word": "10年期美债收益率站上4.5%",
@@ -483,12 +491,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 34240,
-      "num": 34240,
-      "word": "美国金融市场出现三杀局面",
-      "onboard_time": 1744398316,
-      "rank": 35,
-      "category": "财经"
+      "raw_hot": 36226,
+      "num": 36226,
+      "word": "道家是怎么解释拍照不上相的",
+      "onboard_time": 1744405094,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 32581,
@@ -516,7 +524,7 @@
     },
     {
       "raw_hot": 24286,
-      "num": 24286,
+      "num": 27756,
       "word": "米字贴窗",
       "onboard_time": 1744400474,
       "rank": 33,
@@ -524,7 +532,7 @@
     },
     {
       "raw_hot": 24154,
-      "num": 24154,
+      "num": 27768,
       "word": "王哲林胸部受伤",
       "onboard_time": 1744397715,
       "rank": 44,
@@ -539,20 +547,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 22495,
-      "num": 22495,
-      "word": "道家是怎么解释拍照不上相的",
-      "onboard_time": 1744405094,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 22421,
       "num": 22421,
       "word": "娱乐圈25年答题巅峰赛",
       "onboard_time": 1744399275,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 21617,
+      "num": 27764,
+      "word": "花花一笑暴露800个心眼子",
+      "onboard_time": 1744409414,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20821,
