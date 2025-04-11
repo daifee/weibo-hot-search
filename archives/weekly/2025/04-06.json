@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1744367165707,
+  "endTime": 1744368205336,
   "band_list": [
     {
       "raw_hot": 18779562,
@@ -537,6 +537,14 @@
       "onboard_time": 1744293143,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1637386,
+      "num": 1637386,
+      "word": "大风到哪了",
+      "onboard_time": 1744363704,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1590644,
@@ -1273,14 +1281,6 @@
       "onboard_time": 1743950063,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 1077618,
-      "num": 1077618,
-      "word": "大风到哪了",
-      "onboard_time": 1744363704,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1073403,
@@ -2451,6 +2451,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 670951,
+      "num": 670951,
+      "word": "中国存在5千多年大多时候无美国",
+      "onboard_time": 1744365444,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 670895,
       "num": 670895,
       "word": "文和友创始人直播喊话卤鹅哥遭抵制",
@@ -2460,11 +2468,19 @@
     },
     {
       "raw_hot": 670420,
-      "num": 690597,
+      "num": 720664,
       "word": "阿诺妹妹",
       "onboard_time": 1744360285,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 668720,
+      "num": 668720,
+      "word": "关税加了鸡蛋没了",
+      "onboard_time": 1744366044,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 668428,
@@ -2939,6 +2955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 550497,
+      "num": 271612,
+      "word": "超市都空了",
+      "onboard_time": 1744367124,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 549416,
       "num": 549416,
       "word": "顾客失联外卖员回药店问是不是救命药",
@@ -2969,14 +2993,6 @@
       "onboard_time": 1744288703,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 546385,
-      "num": 632793,
-      "word": "中国存在5千多年大多时候无美国",
-      "onboard_time": 1744365444,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 546258,
@@ -3785,6 +3801,14 @@
       "onboard_time": 1743938961,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 441796,
+      "num": 441796,
+      "word": "9级阵风已现北京",
+      "onboard_time": 1744365564,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 439966,
@@ -4665,14 +4689,6 @@
       "onboard_time": 1744155621,
       "rank": 8,
       "category": "财经"
-    },
-    {
-      "raw_hot": 363720,
-      "num": 414602,
-      "word": "9级阵风已现北京",
-      "onboard_time": 1744365564,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 363355,
@@ -5987,6 +6003,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 286946,
+      "num": 669404,
+      "word": "甲亢哥在蒙古还在想念卤鹅哥",
+      "onboard_time": 1744365564,
+      "rank": 17,
+      "category": "网红,民生新闻"
+    },
+    {
       "raw_hot": 286344,
       "num": 357425,
       "word": "观鹤笔记 陈丽君反串",
@@ -6273,14 +6297,6 @@
       "onboard_time": 1744276282,
       "rank": 15,
       "category": "电影"
-    },
-    {
-      "raw_hot": 272760,
-      "num": 402608,
-      "word": "甲亢哥在蒙古还在想念卤鹅哥",
-      "onboard_time": 1744365564,
-      "rank": 17,
-      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 272524,
@@ -6875,6 +6891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 252048,
+      "num": 202825,
+      "word": "蔡徐坤 南昌",
+      "onboard_time": 1744366945,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 251866,
       "num": 251866,
       "word": "孙俪眼神戏像真看见20万了",
@@ -7049,6 +7073,14 @@
       "onboard_time": 1743993263,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 243205,
+      "num": 243205,
+      "word": "胡夏 北京",
+      "onboard_time": 1744367304,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 242458,
@@ -7625,6 +7657,14 @@
       "onboard_time": 1744188922,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 226434,
+      "num": 226434,
+      "word": "对华贸易战让美国豆农顶不住了",
+      "onboard_time": 1744365925,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 226310,
@@ -8243,14 +8283,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 210971,
-      "num": 210971,
-      "word": "对华贸易战让美国豆农顶不住了",
-      "onboard_time": 1744365925,
-      "rank": 33,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 210805,
       "num": 210805,
       "word": "洗脸洗不对可能伤皮肤",
@@ -8281,6 +8313,14 @@
       "onboard_time": 1744293504,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 210161,
+      "num": 210161,
+      "word": "可复美面膜检出表皮生长因子成分",
+      "onboard_time": 1744367003,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 210086,
@@ -8683,6 +8723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203876,
+      "num": 203876,
+      "word": "檀健次告黑",
+      "onboard_time": 1744367544,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203717,
       "num": 203717,
       "word": "银河左岸音乐节",
@@ -8737,14 +8785,6 @@
       "onboard_time": 1744176382,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 202825,
-      "num": 202825,
-      "word": "蔡徐坤 南昌",
-      "onboard_time": 1744366945,
-      "rank": 34,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 202687,
@@ -9353,6 +9393,14 @@
       "onboard_time": 1743941661,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 194030,
+      "num": 194030,
+      "word": "特朗普回应西门子高管一家在美坠机",
+      "onboard_time": 1744362384,
+      "rank": 41,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 193949,
@@ -9979,6 +10027,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 185624,
+      "num": 185624,
+      "word": "侯佩岑这是在干什么",
+      "onboard_time": 1744365505,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185582,
       "num": 185582,
       "word": "火箭vs勇士",
@@ -10339,14 +10395,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 179926,
-      "num": 179926,
-      "word": "侯佩岑这是在干什么",
-      "onboard_time": 1744365505,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 179883,
       "num": 179883,
       "word": "侯佩岑自曝老花眼严重",
@@ -10641,14 +10689,6 @@
       "onboard_time": 1744186161,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 176263,
-      "num": 176263,
-      "word": "特朗普回应西门子高管一家在美坠机",
-      "onboard_time": 1744362384,
-      "rank": 41,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 176189,
@@ -11467,14 +11507,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 162527,
-      "num": 162527,
-      "word": "超市都空了",
-      "onboard_time": 1744367124,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 162510,
       "num": 169841,
       "word": "于正承认自己鲁莽了",
@@ -12275,6 +12307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 151733,
+      "num": 151733,
+      "word": "丁香诗会",
+      "onboard_time": 1744367785,
+      "rank": 45,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 151600,
       "num": 315580,
       "word": "马龙主题酒店",
@@ -12555,28 +12595,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 147983,
-      "num": 408770,
-      "word": "关税加了鸡蛋没了",
-      "onboard_time": 1744366044,
-      "rank": 14,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 147877,
       "num": 334484,
       "word": "处方药和OTC有什么区别",
       "onboard_time": 1744261583,
       "rank": 19,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 147644,
-      "num": 147644,
-      "word": "可复美面膜检出表皮生长因子成分",
-      "onboard_time": 1744367003,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 147581,
@@ -13393,6 +13417,14 @@
       "onboard_time": 1744266142,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136104,
+      "num": 2592392,
+      "word": "关税战贸易战中方不愿打但也不怕打",
+      "onboard_time": 1744362206,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 135942,
@@ -15907,14 +15939,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 87732,
-      "num": 1884927,
-      "word": "关税战贸易战中方不愿打但也不怕打",
-      "onboard_time": 1744362206,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 87471,
       "num": 87471,
       "word": "虎扑崩了",
@@ -15929,6 +15953,14 @@
       "onboard_time": 1744044258,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 87247,
+      "num": 970876,
+      "word": "肖战无惧日晒自在追光",
+      "onboard_time": 1744362564,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 87049,
@@ -16721,14 +16753,6 @@
       "onboard_time": 1744307116,
       "rank": 20,
       "category": "财经,时尚"
-    },
-    {
-      "raw_hot": 67884,
-      "num": 970876,
-      "word": "肖战无惧日晒自在追光",
-      "onboard_time": 1744362564,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 67600,
@@ -18203,6 +18227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29953,
+      "num": 395380,
+      "word": "投诉猫粮有问题却被要求先花五千检测",
+      "onboard_time": 1744366345,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29930,
       "num": 47678,
       "word": "周子瑜回应网上觉得自己脸变了的传闻",
@@ -18265,6 +18297,14 @@
       "onboard_time": 1744209268,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 28472,
+      "num": 255929,
+      "word": "谷峰离世TVB老面孔你还记得多少",
+      "onboard_time": 1744367003,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 28394,
@@ -18491,6 +18531,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 24458,
+      "num": 264416,
+      "word": "挂牌9亿元酒店10次流拍后2亿元成交",
+      "onboard_time": 1744366524,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24452,
       "num": 25492,
       "word": "丁程鑫和影子玩得好开心",
@@ -18699,14 +18747,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 19876,
-      "num": 264416,
-      "word": "挂牌9亿元酒店10次流拍后2亿元成交",
-      "onboard_time": 1744366524,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 19831,
       "num": 19831,
       "word": "创亚2团名NexT1DE",
@@ -18873,14 +18913,6 @@
       "onboard_time": 1744356982,
       "rank": 42,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 17327,
-      "num": 395380,
-      "word": "投诉猫粮有问题却被要求先花五千检测",
-      "onboard_time": 1744366345,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17206,
@@ -19089,14 +19121,6 @@
       "onboard_time": 1743966734,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 13649,
-      "num": 255929,
-      "word": "谷峰离世TVB老面孔你还记得多少",
-      "onboard_time": 1744367003,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 13498,

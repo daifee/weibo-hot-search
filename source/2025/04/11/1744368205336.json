@@ -1,0 +1,410 @@
+{
+  "runTime": 1744368205336,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7602636,
+        "num": 7602636,
+        "word": "对美所有进口商品加征125%关税",
+        "onboard_time": 1744359084,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 3675141,
+        "num": 3675141,
+        "word": "特朗普关税松口一天就反悔",
+        "onboard_time": 1744363104,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 136104,
+        "num": 2592392,
+        "word": "关税战贸易战中方不愿打但也不怕打",
+        "onboard_time": 1744362206,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1884662,
+        "num": 1884662,
+        "word": "美国输华商品已无市场接受可能性",
+        "onboard_time": 1744359265,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1637386,
+        "num": 1637386,
+        "word": "大风到哪了",
+        "onboard_time": 1744363704,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 865587,
+        "num": 865587,
+        "word": "北京大风",
+        "onboard_time": 1744353143,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 811062,
+        "num": 811062,
+        "word": "马斯克笑不出来了",
+        "onboard_time": 1744347562,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 669219,
+        "num": 720664,
+        "word": "阿诺妹妹",
+        "onboard_time": 1744360285,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 670951,
+        "num": 670951,
+        "word": "中国存在5千多年大多时候无美国",
+        "onboard_time": 1744365444,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 286946,
+        "num": 669404,
+        "word": "甲亢哥在蒙古还在想念卤鹅哥",
+        "onboard_time": 1744365564,
+        "rank": 9,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 668720,
+        "num": 668720,
+        "word": "关税加了鸡蛋没了",
+        "onboard_time": 1744366044,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 539086,
+        "num": 539086,
+        "word": "金饰价格涨破1000元",
+        "onboard_time": 1744355423,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 500866,
+        "num": 500866,
+        "word": "乌合麒麟新作就不跪",
+        "onboard_time": 1744353442,
+        "rank": 12,
+        "category": "国内时政,动漫"
+      },
+      {
+        "raw_hot": 441796,
+        "num": 441796,
+        "word": "9级阵风已现北京",
+        "onboard_time": 1744365564,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 435183,
+        "num": 435183,
+        "word": "阿诺有非常严重的容貌焦虑",
+        "onboard_time": 1744356441,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87247,
+        "num": 388081,
+        "word": "肖战无惧日晒自在追光",
+        "onboard_time": 1744362564,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 377433,
+        "num": 377433,
+        "word": "健身博主马章浩去世",
+        "onboard_time": 1744347923,
+        "rank": 16,
+        "category": "网红,运动健身"
+      },
+      {
+        "raw_hot": 371240,
+        "num": 371240,
+        "word": "美网民发现中国制造太重要了",
+        "onboard_time": 1744354942,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 345000,
+        "num": 345000,
+        "word": "如美方继续加征关税中方将不予理会",
+        "onboard_time": 1744360526,
+        "rank": 18,
+        "category": "国内时政,国际时政"
+      },
+      {
+        "raw_hot": 331274,
+        "num": 331274,
+        "word": "美方轮番加征关税沦为笑话",
+        "onboard_time": 1744360647,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 323996,
+        "num": 323996,
+        "word": "京东将推出2千亿出口转内销扶持计划",
+        "onboard_time": 1744365625,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 321694,
+        "num": 321694,
+        "word": "中国从来不吃这一套",
+        "onboard_time": 1744355061,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 283033,
+        "num": 283033,
+        "word": "张馨予体脂肪含量32%",
+        "onboard_time": 1744357222,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 550497,
+        "num": 271612,
+        "word": "超市都空了",
+        "onboard_time": 1744367124,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243205,
+        "num": 243205,
+        "word": "胡夏 北京",
+        "onboard_time": 1744367304,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 216822,
+        "num": 242078,
+        "word": "陈德容 躺赢",
+        "onboard_time": 1744351582,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205472,
+        "num": 239793,
+        "word": "情侣变上下级社死了",
+        "onboard_time": 1744357042,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29953,
+        "num": 237914,
+        "word": "投诉猫粮有问题却被要求先花五千检测",
+        "onboard_time": 1744366345,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28472,
+        "num": 235747,
+        "word": "谷峰离世TVB老面孔你还记得多少",
+        "onboard_time": 1744367003,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24458,
+        "num": 231443,
+        "word": "挂牌9亿元酒店10次流拍后2亿元成交",
+        "onboard_time": 1744366524,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201644,
+        "num": 230659,
+        "word": "平台回应短剧疑AI换脸迪丽热巴",
+        "onboard_time": 1744363404,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317865,
+        "num": 228282,
+        "word": "美团崩了",
+        "onboard_time": 1744358662,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 226434,
+        "num": 226434,
+        "word": "对华贸易战让美国豆农顶不住了",
+        "onboard_time": 1744365925,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 219745,
+        "num": 219745,
+        "word": "特斯拉",
+        "onboard_time": 1744362443,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 210161,
+        "num": 210161,
+        "word": "可复美面膜检出表皮生长因子成分",
+        "onboard_time": 1744367003,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203876,
+        "num": 203876,
+        "word": "檀健次告黑",
+        "onboard_time": 1744367544,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203312,
+        "num": 203312,
+        "word": "西门子分公司总裁一家在坠机中遇难",
+        "onboard_time": 1744340783,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 201687,
+        "num": 201687,
+        "word": "无忧渡",
+        "onboard_time": 1744365324,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194030,
+        "num": 194030,
+        "word": "特朗普回应西门子高管一家在美坠机",
+        "onboard_time": 1744362384,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 185624,
+        "num": 185624,
+        "word": "侯佩岑这是在干什么",
+        "onboard_time": 1744365505,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178795,
+        "num": 178795,
+        "word": "气氛烘托到这了 风到哪了",
+        "onboard_time": 1744356200,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252048,
+        "num": 178611,
+        "word": "蔡徐坤 南昌",
+        "onboard_time": 1744366945,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 177806,
+        "num": 177806,
+        "word": "医院凌晨接诊310名雷暴哮喘患者",
+        "onboard_time": 1744364603,
+        "rank": 42,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 167829,
+        "num": 167829,
+        "word": "山西省发布寒潮霜冻双预警",
+        "onboard_time": 1744363104,
+        "rank": 43,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 160954,
+        "num": 160954,
+        "word": "李承铉最油腻的一次",
+        "onboard_time": 1744363944,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151733,
+        "num": 151733,
+        "word": "丁香诗会",
+        "onboard_time": 1744367785,
+        "rank": 45,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 146565,
+        "num": 146565,
+        "word": "VaVa 难怪队长都想抢她",
+        "onboard_time": 1744354881,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145344,
+        "num": 145344,
+        "word": "冰湖重生",
+        "onboard_time": 1744366166,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143123,
+        "num": 143123,
+        "word": "iPhone5s拍照 扑面而来的场景感",
+        "onboard_time": 1744361125,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 139143,
+        "num": 139143,
+        "word": "张家口大风",
+        "onboard_time": 1744363225,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中欧应坚持伙伴定位开放合作#"
+    }
+  }
+}
