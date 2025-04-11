@@ -1,6 +1,6 @@
 {
   "startTime": 1744302697177,
-  "endTime": 1744340775446,
+  "endTime": 1744341298373,
   "band_list": [
     {
       "raw_hot": 1978145,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1805961,
-      "num": 397013,
+      "num": 457772,
       "word": "地铁猥亵事件中挺身而出女性未找到",
       "onboard_time": 1744335742,
       "rank": 21,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1433400,
-      "num": 593724,
+      "num": 675734,
       "word": "晚晚老公",
       "onboard_time": 1744333162,
       "rank": 10,
@@ -67,8 +67,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1160359,
-      "num": 1160359,
+      "raw_hot": 1306692,
+      "num": 1306692,
       "word": "全红婵坐郭晶晶怀里",
       "onboard_time": 1744337901,
       "rank": 1,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1012036,
-      "num": 566196,
+      "num": 652653,
       "word": "虞书欣王鹤棣疑似坐同款位置",
       "onboard_time": 1744327820,
       "rank": 21,
@@ -121,6 +121,14 @@
       "onboard_time": 1744328422,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 781134,
+      "num": 781134,
+      "word": "上海辟谣地铁猥亵事件当事人相识",
+      "onboard_time": 1744339402,
+      "rank": 13,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 769082,
@@ -172,19 +180,35 @@
     },
     {
       "raw_hot": 614009,
-      "num": 614009,
+      "num": 744428,
       "word": "折腰",
       "onboard_time": 1744336882,
       "rank": 16,
       "category": "剧集"
     },
     {
+      "raw_hot": 598683,
+      "num": 598683,
+      "word": "西门子分公司总裁一家在坠机中遇难",
+      "onboard_time": 1744340783,
+      "rank": 13,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 561888,
-      "num": 561888,
+      "num": 711273,
       "word": "马章浩溺水",
       "onboard_time": 1744337001,
       "rank": 15,
       "category": "网红"
+    },
+    {
+      "raw_hot": 515127,
+      "num": 515127,
+      "word": "金价继续飙涨",
+      "onboard_time": 1744338862,
+      "rank": 15,
+      "category": "财经"
     },
     {
       "raw_hot": 493411,
@@ -219,14 +243,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 461473,
-      "num": 461473,
-      "word": "上海辟谣地铁猥亵事件当事人相识",
-      "onboard_time": 1744339402,
-      "rank": 13,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 421124,
       "num": 338841,
       "word": "文明办回应上海地铁男子猥亵女性",
@@ -236,19 +252,11 @@
     },
     {
       "raw_hot": 405155,
-      "num": 405155,
+      "num": 502266,
       "word": "叶童说即使不完美也是特别的美",
       "onboard_time": 1744339161,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 404061,
-      "num": 404061,
-      "word": "金价继续飙涨",
-      "onboard_time": 1744338862,
-      "rank": 15,
-      "category": "财经"
     },
     {
       "raw_hot": 393207,
@@ -260,7 +268,7 @@
     },
     {
       "raw_hot": 391013,
-      "num": 391013,
+      "num": 514352,
       "word": "羽西 肖战",
       "onboard_time": 1744338024,
       "rank": 16,
@@ -339,6 +347,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 292091,
+      "num": 292091,
+      "word": "上半年最好的离职时间是6月16日",
+      "onboard_time": 1744339881,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 290572,
       "num": 661244,
       "word": "孟子义李昀锐录音室花絮照",
@@ -379,6 +395,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 268432,
+      "num": 268432,
+      "word": "厂家回应黄子韬卫生巾工厂进展",
+      "onboard_time": 1744339102,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 268071,
       "num": 268071,
       "word": "领证不用户口本了",
@@ -401,14 +425,6 @@
       "onboard_time": 1744337361,
       "rank": 31,
       "category": "教育"
-    },
-    {
-      "raw_hot": 245085,
-      "num": 245085,
-      "word": "上半年最好的离职时间是6月16日",
-      "onboard_time": 1744339881,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 243707,
@@ -443,14 +459,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 230096,
-      "num": 265728,
-      "word": "厂家回应黄子韬卫生巾工厂进展",
-      "onboard_time": 1744339102,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 219818,
       "num": 1172220,
       "word": "中国不接受施压威胁讹诈",
@@ -468,11 +476,19 @@
     },
     {
       "raw_hot": 204358,
-      "num": 245057,
+      "num": 248716,
       "word": "沈月 古装剧本",
       "onboard_time": 1744335923,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201967,
+      "num": 471168,
+      "word": "别再P图了好吗给黄俊捷手写致歉信",
+      "onboard_time": 1744340783,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 196732,
@@ -497,6 +513,14 @@
       "onboard_time": 1744332804,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 193310,
+      "num": 193310,
+      "word": "美债",
+      "onboard_time": 1744340722,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 191460,
@@ -539,12 +563,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 171961,
+      "num": 249701,
+      "word": "射雕全网上线",
+      "onboard_time": 1744340722,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 168879,
       "num": 168879,
       "word": "华南师大通报副校长论文抄袭",
       "onboard_time": 1744335623,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168827,
+      "num": 168827,
+      "word": "想拍撕拉片",
+      "onboard_time": 1744340541,
+      "rank": 37,
+      "category": "休闲"
     },
     {
       "raw_hot": 163716,
@@ -563,20 +603,20 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 155942,
+      "num": 1174091,
+      "word": "美关税讹诈严重扰乱全球产供链稳定",
+      "onboard_time": 1744339881,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 154469,
       "num": 154469,
       "word": "北京发布大风应对措施",
       "onboard_time": 1744293684,
       "rank": 26,
       "category": "民生新闻,科学科普"
-    },
-    {
-      "raw_hot": 154214,
-      "num": 154214,
-      "word": "想拍撕拉片",
-      "onboard_time": 1744340541,
-      "rank": 37,
-      "category": "休闲"
     },
     {
       "raw_hot": 152557,
@@ -625,6 +665,14 @@
       "onboard_time": 1744339583,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 138610,
+      "num": 414990,
+      "word": "美国纽约一直升机坠河6人死亡",
+      "onboard_time": 1744327521,
+      "rank": 8,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 135460,
@@ -683,14 +731,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 126327,
-      "num": 126327,
-      "word": "美债",
-      "onboard_time": 1744340722,
-      "rank": 45,
-      "category": "财经"
-    },
-    {
       "raw_hot": 125517,
       "num": 125517,
       "word": "最野猪的时候吃最细的糠",
@@ -705,6 +745,14 @@
       "onboard_time": 1744301121,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123767,
+      "num": 123767,
+      "word": "三代跳水冠军同框",
+      "onboard_time": 1744340061,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 121849,
@@ -731,6 +779,14 @@
       "category": "游戏,电竞"
     },
     {
+      "raw_hot": 119912,
+      "num": 119912,
+      "word": "库迪哪吒联名第2弹",
+      "onboard_time": 1744341081,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 119238,
       "num": 264672,
       "word": "京津冀大风橙色预警",
@@ -745,30 +801,6 @@
       "onboard_time": 1744331063,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 118758,
-      "num": 1145157,
-      "word": "美关税讹诈严重扰乱全球产供链稳定",
-      "onboard_time": 1744339881,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 117801,
-      "num": 117801,
-      "word": "射雕全网上线",
-      "onboard_time": 1744340722,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 117063,
-      "num": 414990,
-      "word": "美国纽约一直升机坠河6人死亡",
-      "onboard_time": 1744327521,
-      "rank": 8,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 113481,
@@ -819,8 +851,8 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 104447,
-      "num": 202279,
+      "raw_hot": 105704,
+      "num": 702409,
       "word": "现货黄金首次冲破3200美元大关",
       "onboard_time": 1744340423,
       "rank": 33,
@@ -849,6 +881,14 @@
       "onboard_time": 1744300282,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90165,
+      "num": 480062,
+      "word": "人体器官衰老有时间规律吗",
+      "onboard_time": 1744340601,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 88127,
@@ -972,7 +1012,7 @@
     },
     {
       "raw_hot": 54249,
-      "num": 243798,
+      "num": 292825,
       "word": "勇士关键时刻4次判罚获利",
       "onboard_time": 1744334122,
       "rank": 25,
@@ -993,14 +1033,6 @@
       "onboard_time": 1744303458,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 48949,
-      "num": 220208,
-      "word": "人体器官衰老有时间规律吗",
-      "onboard_time": 1744340601,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 43425,
