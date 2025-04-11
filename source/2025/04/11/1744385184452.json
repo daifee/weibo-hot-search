@@ -1,0 +1,410 @@
+{
+  "runTime": 1744385184452,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2238141,
+        "num": 2238141,
+        "word": "大风到哪了",
+        "onboard_time": 1744363704,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1419707,
+        "num": 1419707,
+        "word": "地铁猥亵事件男子公司称其被开除",
+        "onboard_time": 1744381462,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264300,
+        "num": 1347333,
+        "word": "以中国稳应对美国疯",
+        "onboard_time": 1744377383,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1336488,
+        "num": 1336488,
+        "word": "大风到北京城区了",
+        "onboard_time": 1744377262,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1154229,
+        "num": 1154229,
+        "word": "爱奇艺 淮水竹亭",
+        "onboard_time": 1744383084,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1049192,
+        "num": 1049192,
+        "word": "男子捅伤同病房父子后跳楼身亡",
+        "onboard_time": 1744381105,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 969226,
+        "num": 969226,
+        "word": "对美所有进口商品加征125%关税",
+        "onboard_time": 1744359084,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 959009,
+        "num": 959009,
+        "word": "法老聊天记录",
+        "onboard_time": 1744369643,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 816696,
+        "num": 816696,
+        "word": "中国站出来是为了避免人类重回丛林世界",
+        "onboard_time": 1744381943,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 117599,
+        "num": 800963,
+        "word": "王毅说美国不能任意妄为",
+        "onboard_time": 1744384343,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 795819,
+        "num": 795819,
+        "word": "盒马向中国外贸企业开放绿色通道",
+        "onboard_time": 1744378105,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 703867,
+        "num": 703867,
+        "word": "北京大风",
+        "onboard_time": 1744353143,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 579013,
+        "num": 579013,
+        "word": "贾玲新电影饭制海报",
+        "onboard_time": 1744378704,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 441724,
+        "num": 516024,
+        "word": "阿诺妹妹是比利时超模",
+        "onboard_time": 1744371022,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 382035,
+        "num": 491693,
+        "word": "用大象粪便做甜品餐厅已停业",
+        "onboard_time": 1744382905,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 341663,
+        "num": 485136,
+        "word": "戚薇扭着屁股喊老公宝宝",
+        "onboard_time": 1744377683,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 479551,
+        "num": 479551,
+        "word": "日本充当北约急先锋必将自食恶果",
+        "onboard_time": 1744382545,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 95198,
+        "num": 475449,
+        "word": "李雅凛再获刑6个月",
+        "onboard_time": 1744380625,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77000,
+        "num": 471136,
+        "word": "梁伟铿王昶vs马丁菲克里",
+        "onboard_time": 1744374144,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160398,
+        "num": 468759,
+        "word": "主人花16万元克隆去世爱犬",
+        "onboard_time": 1744383744,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 531018,
+        "num": 463922,
+        "word": "特朗普抱怨限水头发湿透需15分钟",
+        "onboard_time": 1744382965,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 460584,
+        "num": 460584,
+        "word": "廊坊纪委调查三河商户招牌变色",
+        "onboard_time": 1744380864,
+        "rank": 21,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 321847,
+        "num": 424833,
+        "word": "易烊千玺深圳",
+        "onboard_time": 1744379003,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 406757,
+        "num": 406757,
+        "word": "关税加了鸡蛋没了",
+        "onboard_time": 1744366044,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 349942,
+        "num": 349942,
+        "word": "美国输华商品已无市场接受可能性",
+        "onboard_time": 1744359265,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 284125,
+        "num": 284125,
+        "word": "全国有超30场演出在本周六举行",
+        "onboard_time": 1744384644,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 275190,
+        "num": 275190,
+        "word": "徐克获金像奖终身成就奖",
+        "onboard_time": 1744377444,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 236568,
+        "num": 236568,
+        "word": "一诺拿下元歌首胜",
+        "onboard_time": 1744385063,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 227269,
+        "num": 227269,
+        "word": "胡夏演唱会已开启退票通道",
+        "onboard_time": 1744375942,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 221646,
+        "num": 221646,
+        "word": "反诈老陈年收入降到31万",
+        "onboard_time": 1744371086,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216323,
+        "num": 216323,
+        "word": "金饰价格涨破1000元",
+        "onboard_time": 1744355423,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 208084,
+        "num": 208084,
+        "word": "夏之光在北京坐地铁",
+        "onboard_time": 1744378105,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192308,
+        "num": 192308,
+        "word": "汪苏泷真瘦了",
+        "onboard_time": 1744385125,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 191408,
+        "num": 191408,
+        "word": "王星越又坐地铁去上班了",
+        "onboard_time": 1744384403,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189706,
+        "num": 189706,
+        "word": "可复美面膜检出表皮生长因子成分",
+        "onboard_time": 1744367003,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182858,
+        "num": 182858,
+        "word": "义乌老板娘霸气喊话美国客户",
+        "onboard_time": 1744385063,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181458,
+        "num": 181458,
+        "word": "鞠婧祎陈都灵两张脸拿什么输",
+        "onboard_time": 1744377563,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173265,
+        "num": 173265,
+        "word": "美国孤立中国难得逞",
+        "onboard_time": 1744382965,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 170382,
+        "num": 170382,
+        "word": "央视新闻直播里的邓为",
+        "onboard_time": 1744371323,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157625,
+        "num": 157625,
+        "word": "怀孕时脏器都被挤变形了",
+        "onboard_time": 1744373843,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 155316,
+        "num": 155316,
+        "word": "徐海乔海陆新剧卷出新高度",
+        "onboard_time": 1744381645,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154696,
+        "num": 154696,
+        "word": "姜云升法老",
+        "onboard_time": 1744375942,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 154381,
+        "num": 154381,
+        "word": "门头沟一地阵风13级",
+        "onboard_time": 1744384824,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153050,
+        "num": 153050,
+        "word": "刘诗诗刘宇宁一念关山登财报",
+        "onboard_time": 1744384824,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146776,
+        "num": 146776,
+        "word": "钟楚曦发博说宋佳帅疯了",
+        "onboard_time": 1744371323,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 145679,
+        "num": 145679,
+        "word": "北京延庆出现10级风",
+        "onboard_time": 1744373843,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143333,
+        "num": 143333,
+        "word": "美教育部长误将AI称为A1",
+        "onboard_time": 1744382965,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 142158,
+        "num": 142158,
+        "word": "严浩翔rap水平",
+        "onboard_time": 1744380804,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141657,
+        "num": 141657,
+        "word": "龚俊胸前痣是最好的装饰",
+        "onboard_time": 1744375162,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 137891,
+        "num": 137891,
+        "word": "山西省发布寒潮霜冻双预警",
+        "onboard_time": 1744363104,
+        "rank": 49,
+        "category": "正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国发展从不靠谁的恩赐#"
+    }
+  }
+}

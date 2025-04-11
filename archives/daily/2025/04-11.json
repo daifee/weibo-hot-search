@@ -1,6 +1,6 @@
 {
   "startTime": 1744302697177,
-  "endTime": 1744382544858,
+  "endTime": 1744385184452,
   "band_list": [
     {
       "raw_hot": 15319037,
@@ -67,6 +67,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2238141,
+      "num": 2238141,
+      "word": "大风到哪了",
+      "onboard_time": 1744363704,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1978145,
       "num": 1978145,
       "word": "美俄达成谅解",
@@ -88,14 +96,6 @@
       "word": "地铁猥亵事件中挺身而出女性未找到",
       "onboard_time": 1744335742,
       "rank": 21,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1802433,
-      "num": 1802433,
-      "word": "大风到哪了",
-      "onboard_time": 1744363704,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -187,6 +187,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1419707,
+      "num": 1419707,
+      "word": "地铁猥亵事件男子公司称其被开除",
+      "onboard_time": 1744381462,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1407610,
       "num": 1264996,
       "word": "男子造谣地铁猥亵案2当事人相识",
@@ -251,6 +259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1154229,
+      "num": 1154229,
+      "word": "爱奇艺 淮水竹亭",
+      "onboard_time": 1744383084,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1105383,
       "num": 1105383,
       "word": "上海辟谣地铁猥亵事件当事人相识",
@@ -264,6 +280,14 @@
       "word": "反诈老陈年收入降到31万",
       "onboard_time": 1744371086,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1049192,
+      "num": 1049192,
+      "word": "男子捅伤同病房父子后跳楼身亡",
+      "onboard_time": 1744381105,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -353,6 +377,14 @@
       "onboard_time": 1744345643,
       "rank": 30,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 816696,
+      "num": 816696,
+      "word": "中国站出来是为了避免人类重回丛林世界",
+      "onboard_time": 1744381943,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 810037,
@@ -611,20 +643,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 534832,
-      "num": 534832,
-      "word": "男子捅伤同病房父子后跳楼身亡",
-      "onboard_time": 1744381105,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 532838,
       "num": 532838,
       "word": "气氛烘托到这了 风到哪了",
       "onboard_time": 1744356200,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 531018,
+      "num": 463922,
+      "word": "特朗普抱怨限水头发湿透需15分钟",
+      "onboard_time": 1744382965,
+      "rank": 20,
+      "category": "国际时政"
     },
     {
       "raw_hot": 517065,
@@ -673,6 +705,14 @@
       "onboard_time": 1744197084,
       "rank": 11,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 479551,
+      "num": 479551,
+      "word": "日本充当北约急先锋必将自食恶果",
+      "onboard_time": 1744382545,
+      "rank": 16,
+      "category": "国内时政"
     },
     {
       "raw_hot": 479491,
@@ -843,6 +883,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 382035,
+      "num": 491693,
+      "word": "用大象粪便做甜品餐厅已停业",
+      "onboard_time": 1744382905,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 381688,
       "num": 381688,
       "word": "北京大风天坐地铁注意了",
@@ -945,6 +993,14 @@
       "onboard_time": 1744377563,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 341663,
+      "num": 485136,
+      "word": "戚薇扭着屁股喊老公宝宝",
+      "onboard_time": 1744377683,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 336517,
@@ -1187,6 +1243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 284125,
+      "num": 284125,
+      "word": "全国有超30场演出在本周六举行",
+      "onboard_time": 1744384644,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 282030,
       "num": 282030,
       "word": "男子婚后发现妻子4年结过3次婚",
@@ -1395,12 +1459,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 239975,
-      "num": 239975,
-      "word": "戚薇扭着屁股喊老公宝宝",
-      "onboard_time": 1744377683,
-      "rank": 30,
-      "category": "综艺"
+      "raw_hot": 236568,
+      "num": 236568,
+      "word": "一诺拿下元歌首胜",
+      "onboard_time": 1744385063,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 235981,
@@ -1827,6 +1891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192308,
+      "num": 192308,
+      "word": "汪苏泷真瘦了",
+      "onboard_time": 1744385125,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 191823,
       "num": 333829,
       "word": "MPV极限爬坡挑战越野车",
@@ -1849,6 +1921,14 @@
       "onboard_time": 1744333823,
       "rank": 33,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 191408,
+      "num": 191408,
+      "word": "王星越又坐地铁去上班了",
+      "onboard_time": 1744384403,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 191367,
@@ -1913,6 +1993,14 @@
       "onboard_time": 1744344625,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 182858,
+      "num": 182858,
+      "word": "义乌老板娘霸气喊话美国客户",
+      "onboard_time": 1744385063,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 182812,
@@ -1985,6 +2073,14 @@
       "onboard_time": 1744380804,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 173265,
+      "num": 173265,
+      "word": "美国孤立中国难得逞",
+      "onboard_time": 1744382965,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 173077,
@@ -2108,11 +2204,19 @@
     },
     {
       "raw_hot": 161194,
-      "num": 161194,
+      "num": 475449,
       "word": "李雅凛再获刑6个月",
       "onboard_time": 1744380625,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160398,
+      "num": 468759,
+      "word": "主人花16万元克隆去世爱犬",
+      "onboard_time": 1744383744,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 157195,
@@ -2131,12 +2235,28 @@
       "category": "民生新闻,科学科普"
     },
     {
+      "raw_hot": 154381,
+      "num": 154381,
+      "word": "门头沟一地阵风13级",
+      "onboard_time": 1744384824,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 153184,
       "num": 340404,
       "word": "11日至13日北方局地将遭遇暴雪",
       "onboard_time": 1744342942,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153050,
+      "num": 153050,
+      "word": "刘诗诗刘宇宁一念关山登财报",
+      "onboard_time": 1744384824,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 152557,
@@ -2177,14 +2297,6 @@
       "onboard_time": 1744373183,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 149318,
-      "num": 654249,
-      "word": "中国站出来是为了避免人类重回丛林世界",
-      "onboard_time": 1744381943,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 148436,
@@ -2265,6 +2377,14 @@
       "onboard_time": 1744301961,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143333,
+      "num": 143333,
+      "word": "美教育部长误将AI称为A1",
+      "onboard_time": 1744382965,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 139338,
@@ -2531,6 +2651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117599,
+      "num": 800963,
+      "word": "王毅说美国不能任意妄为",
+      "onboard_time": 1744384343,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 114935,
       "num": 571797,
       "word": "伊利喊你领大额生娃补贴",
@@ -2616,14 +2744,6 @@
       "word": "湖南多地有9至11级雷暴大风或龙卷",
       "onboard_time": 1744344803,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 107311,
-      "num": 205790,
-      "word": "地铁猥亵事件男子公司称其被开除",
-      "onboard_time": 1744381462,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
