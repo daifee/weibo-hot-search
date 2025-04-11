@@ -1,6 +1,6 @@
 {
   "startTime": 1744389070116,
-  "endTime": 1744406569789,
+  "endTime": 1744407424541,
   "band_list": [
     {
       "raw_hot": 1938262,
@@ -507,7 +507,7 @@
       "category": "综艺,综艺"
     },
     {
-      "raw_hot": 25628,
+      "raw_hot": 26961,
       "num": 41150,
       "word": "法老巡演官宣",
       "onboard_time": 1744406174,
@@ -539,6 +539,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 22495,
+      "num": 22495,
+      "word": "道家是怎么解释拍照不上相的",
+      "onboard_time": 1744405094,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 22421,
       "num": 22421,
       "word": "娱乐圈25年答题巅峰赛",
@@ -553,14 +561,6 @@
       "onboard_time": 1744399755,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 18346,
-      "num": 18346,
-      "word": "道家是怎么解释拍照不上相的",
-      "onboard_time": 1744405094,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 16242,

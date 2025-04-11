@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1744406569789,
+  "endTime": 1744407424541,
   "band_list": [
     {
       "raw_hot": 18779562,
@@ -19299,6 +19299,14 @@
       "category": "网红,民生新闻"
     },
     {
+      "raw_hot": 26961,
+      "num": 41150,
+      "word": "法老巡演官宣",
+      "onboard_time": 1744406174,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 26921,
       "num": 190447,
       "word": "我国制造业销售收入持续增长",
@@ -19345,14 +19353,6 @@
       "onboard_time": 1744180582,
       "rank": 39,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 25628,
-      "num": 41150,
-      "word": "法老巡演官宣",
-      "onboard_time": 1744406174,
-      "rank": 19,
-      "category": "演出"
     },
     {
       "raw_hot": 25515,
@@ -19643,6 +19643,14 @@
       "category": "网红,民生新闻"
     },
     {
+      "raw_hot": 22495,
+      "num": 22495,
+      "word": "道家是怎么解释拍照不上相的",
+      "onboard_time": 1744405094,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 22421,
       "num": 22421,
       "word": "娱乐圈25年答题巅峰赛",
@@ -19873,14 +19881,6 @@
       "onboard_time": 1744362564,
       "rank": 28,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 18346,
-      "num": 18346,
-      "word": "道家是怎么解释拍照不上相的",
-      "onboard_time": 1744405094,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 18269,
