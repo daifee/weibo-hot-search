@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1744364407441,
+  "endTime": 1744367165707,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -1177,6 +1177,14 @@
       "onboard_time": 1742042790,
       "rank": 7,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 4175923,
+      "num": 4175923,
+      "word": "特朗普关税松口一天就反悔",
+      "onboard_time": 1744363104,
+      "rank": 6,
+      "category": "国际时政"
     },
     {
       "raw_hot": 4153442,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736606010,
       "rank": 3,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 2920421,
-      "num": 2920421,
-      "word": "新秀王安冉离婚",
-      "onboard_time": 1743319822,
-      "rank": 15,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
