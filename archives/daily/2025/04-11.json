@@ -1,6 +1,6 @@
 {
   "startTime": 1744302697177,
-  "endTime": 1744361111370,
+  "endTime": 1744363587349,
   "band_list": [
     {
       "raw_hot": 15319037,
@@ -43,6 +43,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1994934,
+      "num": 1994934,
+      "word": "美国输华商品已无市场接受可能性",
+      "onboard_time": 1744359265,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1978145,
       "num": 1978145,
       "word": "美俄达成谅解",
@@ -57,14 +65,6 @@
       "onboard_time": 1744335742,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1637214,
-      "num": 1637214,
-      "word": "美国输华商品已无市场接受可能性",
-      "onboard_time": 1744359265,
-      "rank": 8,
-      "category": "国际时政"
     },
     {
       "raw_hot": 1576442,
@@ -227,6 +227,22 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 979744,
+      "num": 979744,
+      "word": "特朗普关税松口一天就反悔",
+      "onboard_time": 1744363104,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 968863,
+      "num": 972621,
+      "word": "如美方继续加征关税中方将不予理会",
+      "onboard_time": 1744360526,
+      "rank": 9,
+      "category": "国内时政,国际时政"
+    },
+    {
       "raw_hot": 966803,
       "num": 966803,
       "word": "石家庄大风",
@@ -353,6 +369,14 @@
       "onboard_time": 1744331552,
       "rank": 13,
       "category": "网红,综艺"
+    },
+    {
+      "raw_hot": 698657,
+      "num": 698657,
+      "word": "美方轮番加征关税沦为笑话",
+      "onboard_time": 1744360647,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 694344,
@@ -513,6 +537,14 @@
       "onboard_time": 1744300821,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 462613,
+      "num": 690597,
+      "word": "阿诺妹妹",
+      "onboard_time": 1744360285,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 460375,
@@ -691,14 +723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 344276,
-      "num": 641142,
-      "word": "阿诺妹妹",
-      "onboard_time": 1744360285,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 336517,
       "num": 336517,
       "word": "外交部回应为何提醒公民谨慎赴美",
@@ -712,6 +736,14 @@
       "word": "外交部回应美对华征收125%关税",
       "onboard_time": 1744271362,
       "rank": 5,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 334075,
+      "num": 972392,
+      "word": "敦促美方立即纠正错误取消所有对华单边关税措施",
+      "onboard_time": 1744362744,
+      "rank": 9,
       "category": "国内时政"
     },
     {
@@ -819,14 +851,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 296274,
-      "num": 296274,
-      "word": "美方轮番加征关税沦为笑话",
-      "onboard_time": 1744360647,
-      "rank": 33,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 292091,
       "num": 292091,
       "word": "上半年最好的离职时间是6月16日",
@@ -915,20 +939,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 272984,
-      "num": 972621,
-      "word": "如美方继续加征关税中方将不予理会",
-      "onboard_time": 1744360526,
-      "rank": 9,
-      "category": "国内时政,国际时政"
-    },
-    {
       "raw_hot": 271764,
       "num": 548535,
       "word": "马章浩 左卓",
       "onboard_time": 1744357943,
       "rank": 23,
       "category": "网红"
+    },
+    {
+      "raw_hot": 268332,
+      "num": 268332,
+      "word": "山西省发布寒潮霜冻双预警",
+      "onboard_time": 1744363104,
+      "rank": 36,
+      "category": "正能量"
     },
     {
       "raw_hot": 268071,
@@ -1067,6 +1091,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 229653,
+      "num": 229653,
+      "word": "张家口大风",
+      "onboard_time": 1744363225,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 229324,
       "num": 229324,
       "word": "加拿大总理称要给美国造成最大痛苦",
@@ -1076,11 +1108,19 @@
     },
     {
       "raw_hot": 228780,
-      "num": 373245,
+      "num": 467484,
       "word": "2025悬疑剧杀疯了",
       "onboard_time": 1744357162,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 226785,
+      "num": 226785,
+      "word": "iPhone5s拍照 扑面而来的场景感",
+      "onboard_time": 1744361125,
+      "rank": 41,
+      "category": "数码"
     },
     {
       "raw_hot": 226621,
@@ -1108,7 +1148,7 @@
     },
     {
       "raw_hot": 221694,
-      "num": 221694,
+      "num": 455404,
       "word": "情侣变上下级社死了",
       "onboard_time": 1744357042,
       "rank": 40,
@@ -1171,6 +1211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 208216,
+      "num": 485365,
+      "word": "沙尘暴实现逆跌到第一",
+      "onboard_time": 1744361486,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206243,
       "num": 206243,
       "word": "囤货",
@@ -1201,6 +1249,14 @@
       "onboard_time": 1744344262,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201024,
+      "num": 1742494,
+      "word": "多国呼吁专注美国之外的贸易",
+      "onboard_time": 1744360827,
+      "rank": 2,
+      "category": "国际时政"
     },
     {
       "raw_hot": 200599,
@@ -1339,6 +1395,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 186903,
+      "num": 231282,
+      "word": "平台回应短剧疑AI换脸迪丽热巴",
+      "onboard_time": 1744363404,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184715,
       "num": 184715,
       "word": "安徽省考出成绩",
@@ -1361,6 +1425,14 @@
       "onboard_time": 1744344625,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183100,
+      "num": 183100,
+      "word": "特斯拉",
+      "onboard_time": 1744362443,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 182670,
@@ -1433,6 +1505,14 @@
       "onboard_time": 1744341382,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169439,
+      "num": 169439,
+      "word": "中国可以全方位提供各种产品",
+      "onboard_time": 1744361246,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 168879,
@@ -1665,6 +1745,14 @@
       "onboard_time": 1744327638,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127872,
+      "num": 657287,
+      "word": "尹锡悦搬离总统官邸",
+      "onboard_time": 1744361845,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 127032,
@@ -2067,6 +2155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 57167,
+      "num": 970876,
+      "word": "肖战无惧日晒自在追光",
+      "onboard_time": 1744362564,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 55861,
       "num": 55861,
       "word": "通信技术试验卫星十七号成功发射",
@@ -2123,6 +2219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45202,
+      "num": 350309,
+      "word": "女子花1万做双眼皮修复无法闭合",
+      "onboard_time": 1744363462,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43425,
       "num": 43425,
       "word": "孙千Celine生图",
@@ -2163,12 +2267,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 38603,
+      "num": 426135,
+      "word": "女儿悬赏50万为父追凶",
+      "onboard_time": 1744362564,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37452,
       "num": 352709,
       "word": "美关税政策是最严重经济自残",
       "onboard_time": 1744352902,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 37382,
+      "num": 1775798,
+      "word": "赏一树丁香吟一首诗",
+      "onboard_time": 1744362025,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36823,
@@ -2227,6 +2347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 27018,
+      "num": 669405,
+      "word": "多年未见胞姐用假证盗走母亲20万存款",
+      "onboard_time": 1744362564,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25308,
       "num": 431203,
       "word": "美滥施关税是为自己套上绞索",
@@ -2259,6 +2387,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 22879,
+      "num": 401231,
+      "word": "二次元小情侣的定情信物",
+      "onboard_time": 1744362564,
+      "rank": 29,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 21685,
       "num": 357402,
       "word": "更年期女性需警惕的疾病",
@@ -2283,6 +2419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18460,
+      "num": 413293,
+      "word": "韩国精神病人立绘",
+      "onboard_time": 1744362564,
+      "rank": 28,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 18132,
       "num": 191920,
       "word": "美民众担忧物价飞涨",
@@ -2291,12 +2435,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 17749,
-      "num": 1742494,
-      "word": "多国呼吁专注美国之外的贸易",
-      "onboard_time": 1744360827,
-      "rank": 2,
-      "category": "国际时政"
+      "raw_hot": 15692,
+      "num": 437408,
+      "word": "魔法少女小圆圆神降临",
+      "onboard_time": 1744362564,
+      "rank": 26,
+      "category": "动漫"
     },
     {
       "raw_hot": 15412,

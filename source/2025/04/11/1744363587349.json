@@ -1,0 +1,410 @@
+{
+  "runTime": 1744363587349,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 14227083,
+        "num": 14268575,
+        "word": "对美所有进口商品加征125%关税",
+        "onboard_time": 1744359084,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1994934,
+        "num": 1994934,
+        "word": "美国输华商品已无市场接受可能性",
+        "onboard_time": 1744359265,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 37382,
+        "num": 1775798,
+        "word": "赏一树丁香吟一首诗",
+        "onboard_time": 1744362025,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1628522,
+        "num": 1628522,
+        "word": "北京大风",
+        "onboard_time": 1744353143,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1231176,
+        "num": 1231176,
+        "word": "金饰价格涨破1000元",
+        "onboard_time": 1744355423,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1095406,
+        "num": 1095406,
+        "word": "马斯克笑不出来了",
+        "onboard_time": 1744347562,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 979744,
+        "num": 979744,
+        "word": "特朗普关税松口一天就反悔",
+        "onboard_time": 1744363104,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 714728,
+        "num": 978371,
+        "word": "阿诺有非常严重的容貌焦虑",
+        "onboard_time": 1744356441,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 582717,
+        "num": 974589,
+        "word": "健身博主马章浩去世",
+        "onboard_time": 1744347923,
+        "rank": 8,
+        "category": "网红,运动健身"
+      },
+      {
+        "raw_hot": 334075,
+        "num": 972392,
+        "word": "敦促美方立即纠正错误取消所有对华单边关税措施",
+        "onboard_time": 1744362744,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 57167,
+        "num": 970876,
+        "word": "肖战无惧日晒自在追光",
+        "onboard_time": 1744362564,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 968863,
+        "num": 968863,
+        "word": "如美方继续加征关税中方将不予理会",
+        "onboard_time": 1744360526,
+        "rank": 11,
+        "category": "国内时政,国际时政"
+      },
+      {
+        "raw_hot": 967063,
+        "num": 967063,
+        "word": "乌合麒麟新作就不跪",
+        "onboard_time": 1744353442,
+        "rank": 12,
+        "category": "国内时政,动漫"
+      },
+      {
+        "raw_hot": 771277,
+        "num": 771277,
+        "word": "美网民发现中国制造太重要了",
+        "onboard_time": 1744354942,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 698657,
+        "num": 698657,
+        "word": "美方轮番加征关税沦为笑话",
+        "onboard_time": 1744360647,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 462613,
+        "num": 690597,
+        "word": "阿诺妹妹",
+        "onboard_time": 1744360285,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287968,
+        "num": 684531,
+        "word": "甲亢哥中国行后劲好大",
+        "onboard_time": 1744357042,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 214082,
+        "num": 676007,
+        "word": "王玉雯北舞严选",
+        "onboard_time": 1744359143,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27018,
+        "num": 669405,
+        "word": "多年未见胞姐用假证盗走母亲20万存款",
+        "onboard_time": 1744362564,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127872,
+        "num": 657287,
+        "word": "尹锡悦搬离总统官邸",
+        "onboard_time": 1744361845,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 654063,
+        "num": 654063,
+        "word": "可复美",
+        "onboard_time": 1744354581,
+        "rank": 20,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 553324,
+        "num": 553324,
+        "word": "西门子分公司总裁一家在坠机中遇难",
+        "onboard_time": 1744340783,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 492294,
+        "num": 492294,
+        "word": "张馨予体脂肪含量32%",
+        "onboard_time": 1744357222,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208216,
+        "num": 485365,
+        "word": "沙尘暴实现逆跌到第一",
+        "onboard_time": 1744361486,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206535,
+        "num": 467484,
+        "word": "2025悬疑剧杀疯了",
+        "onboard_time": 1744357162,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187591,
+        "num": 455404,
+        "word": "情侣变上下级社死了",
+        "onboard_time": 1744357042,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15692,
+        "num": 437408,
+        "word": "魔法少女小圆圆神降临",
+        "onboard_time": 1744362564,
+        "rank": 26,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 38603,
+        "num": 426135,
+        "word": "女儿悬赏50万为父追凶",
+        "onboard_time": 1744362564,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18460,
+        "num": 413293,
+        "word": "韩国精神病人立绘",
+        "onboard_time": 1744362564,
+        "rank": 28,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 22879,
+        "num": 401231,
+        "word": "二次元小情侣的定情信物",
+        "onboard_time": 1744362564,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 176350,
+        "num": 385989,
+        "word": "陈德容说你们骂我骂轻点",
+        "onboard_time": 1744345283,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1099943,
+        "num": 368002,
+        "word": "美团崩了",
+        "onboard_time": 1744358662,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 45202,
+        "num": 350309,
+        "word": "女子花1万做双眼皮修复无法闭合",
+        "onboard_time": 1744363462,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 343665,
+        "num": 343665,
+        "word": "关税",
+        "onboard_time": 1744359265,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 317493,
+        "num": 317493,
+        "word": "外交部回应美方称对华关税达145%",
+        "onboard_time": 1744358724,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 290164,
+        "num": 290164,
+        "word": "直击北方大风实况",
+        "onboard_time": 1744357102,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268332,
+        "num": 268332,
+        "word": "山西省发布寒潮霜冻双预警",
+        "onboard_time": 1744363104,
+        "rank": 36,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 250886,
+        "num": 250886,
+        "word": "气氛烘托到这了 风到哪了",
+        "onboard_time": 1744356200,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233319,
+        "num": 233319,
+        "word": "中国从来不吃这一套",
+        "onboard_time": 1744355061,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 186903,
+        "num": 231282,
+        "word": "平台回应短剧疑AI换脸迪丽热巴",
+        "onboard_time": 1744363404,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229653,
+        "num": 229653,
+        "word": "张家口大风",
+        "onboard_time": 1744363225,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226785,
+        "num": 226785,
+        "word": "iPhone5s拍照 扑面而来的场景感",
+        "onboard_time": 1744361125,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 212690,
+        "num": 212690,
+        "word": "大风",
+        "onboard_time": 1744336041,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208827,
+        "num": 208827,
+        "word": "华北大风专家建议100斤以下不要出门",
+        "onboard_time": 1744345764,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207429,
+        "num": 207429,
+        "word": "无手女孩换卫生巾有多难",
+        "onboard_time": 1744353981,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206989,
+        "num": 206989,
+        "word": "等风来",
+        "onboard_time": 1744355661,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201024,
+        "num": 201024,
+        "word": "多国呼吁专注美国之外的贸易",
+        "onboard_time": 1744360827,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 183100,
+        "num": 183100,
+        "word": "特斯拉",
+        "onboard_time": 1744362443,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 169439,
+        "num": 169439,
+        "word": "中国可以全方位提供各种产品",
+        "onboard_time": 1744361246,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 159884,
+        "num": 159884,
+        "word": "这五类电话号码不要接",
+        "onboard_time": 1744351582,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同西班牙首相一起散步#"
+    }
+  }
+}
