@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1744371370831,
+  "endTime": 1744375645447,
   "band_list": [
     {
       "raw_hot": 18779562,
@@ -515,6 +515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1670908,
+      "num": 1670908,
+      "word": "法老聊天记录",
+      "onboard_time": 1744369643,
+      "rank": 8,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1667614,
       "num": 767123,
       "word": "做食堂阿姨的北大研究生已离职",
@@ -995,14 +1003,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1254239,
-      "num": 1254239,
-      "word": "法老聊天记录",
-      "onboard_time": 1744369643,
-      "rank": 8,
-      "category": "演出"
-    },
-    {
       "raw_hot": 1241708,
       "num": 211813,
       "word": "日经",
@@ -1289,6 +1289,14 @@
       "onboard_time": 1744095623,
       "rank": 5,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1102407,
+      "num": 1102407,
+      "word": "反诈老陈年收入降到31万",
+      "onboard_time": 1744371086,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1081109,
@@ -1929,6 +1937,14 @@
       "onboard_time": 1744180101,
       "rank": 31,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 807913,
+      "num": 807913,
+      "word": "阿诺妹妹是比利时超模",
+      "onboard_time": 1744371022,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 806360,
@@ -2641,6 +2657,22 @@
       "onboard_time": 1743987741,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 621424,
+      "num": 621424,
+      "word": "钟楚曦发博说宋佳帅疯了",
+      "onboard_time": 1744371323,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 619116,
+      "num": 619116,
+      "word": "特朗普关税政策让前财长愤怒爆表",
+      "onboard_time": 1744371502,
+      "rank": 11,
+      "category": "国际时政"
     },
     {
       "raw_hot": 617100,
@@ -3593,6 +3625,14 @@
       "onboard_time": 1744207585,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 466730,
+      "num": 466730,
+      "word": "130斤记者体验10级大风直接被吹跑",
+      "onboard_time": 1744369643,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 465953,
@@ -5811,6 +5851,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 294750,
+      "num": 287978,
+      "word": "央视新闻直播里的邓为",
+      "onboard_time": 1744371323,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 294334,
       "num": 294334,
       "word": "美国关税回旋镖射向美国人",
@@ -6009,6 +6057,14 @@
       "onboard_time": 1744093281,
       "rank": 25,
       "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 287961,
+      "num": 287961,
+      "word": "怀孕时脏器都被挤变形了",
+      "onboard_time": 1744373843,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 287853,
@@ -6921,14 +6977,6 @@
       "onboard_time": 1744344142,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 252152,
-      "num": 390090,
-      "word": "130斤记者体验10级大风直接被吹跑",
-      "onboard_time": 1744369643,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 252048,
@@ -7955,6 +8003,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 219762,
+      "num": 219762,
+      "word": "龚俊胸前痣是最好的装饰",
+      "onboard_time": 1744375162,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 219590,
       "num": 407539,
       "word": "长沙93层高楼让甲亢哥感叹三次",
@@ -8417,6 +8473,14 @@
       "onboard_time": 1744183762,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 209245,
+      "num": 209245,
+      "word": "时代少年团新专辑加冠",
+      "onboard_time": 1744374443,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 209162,
@@ -8987,14 +9051,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 200064,
-      "num": 200064,
-      "word": "反诈老陈年收入降到31万",
-      "onboard_time": 1744371086,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 200026,
       "num": 289143,
       "word": "宁艺卓WKOREA五月刊封面",
@@ -9129,6 +9185,14 @@
       "onboard_time": 1744253963,
       "rank": 23,
       "category": "财经"
+    },
+    {
+      "raw_hot": 198040,
+      "num": 198040,
+      "word": "汪苏泷合肥",
+      "onboard_time": 1744374743,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 197987,
@@ -9305,6 +9369,14 @@
       "onboard_time": 1744103302,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 195933,
+      "num": 195933,
+      "word": "CBA",
+      "onboard_time": 1744122263,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 195876,
@@ -9963,6 +10035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187294,
+      "num": 187294,
+      "word": "乌云之上男主最后的遗言是表白",
+      "onboard_time": 1744374685,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187275,
       "num": 240879,
       "word": "张真源杨迪这里不让睡觉",
@@ -9993,14 +10073,6 @@
       "onboard_time": 1744114401,
       "rank": 31,
       "category": "国际时政,国际时政"
-    },
-    {
-      "raw_hot": 186506,
-      "num": 186506,
-      "word": "CBA",
-      "onboard_time": 1744122263,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 186364,
@@ -10673,6 +10745,14 @@
       "onboard_time": 1744121003,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177051,
+      "num": 177051,
+      "word": "超龄员工上班发生事故公司称不算工伤",
+      "onboard_time": 1744372582,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 177027,
@@ -12131,14 +12211,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 154934,
-      "num": 154934,
-      "word": "阿诺妹妹是比利时超模",
-      "onboard_time": 1744371022,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 154860,
       "num": 438620,
       "word": "多部门回应特朗普50%关税威胁",
@@ -12379,6 +12451,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 151698,
+      "num": 619839,
+      "word": "毛宁再分享毛主席霸气语录",
+      "onboard_time": 1744373302,
+      "rank": 10,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 151600,
       "num": 315580,
       "word": "马龙主题酒店",
@@ -12465,6 +12545,14 @@
       "onboard_time": 1743989600,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 150205,
+      "num": 150205,
+      "word": "宝妈兼职做主播被要求发色情片",
+      "onboard_time": 1744373183,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150171,
@@ -12811,6 +12899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145450,
+      "num": 145450,
+      "word": "坏了这下真嗑到常华森和金靖了",
+      "onboard_time": 1744372525,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 145412,
       "num": 145412,
       "word": "周深说内向真的挺不好受的",
@@ -12931,14 +13027,6 @@
       "category": "网红,民生新闻"
     },
     {
-      "raw_hot": 143712,
-      "num": 143712,
-      "word": "央视新闻直播里的邓为",
-      "onboard_time": 1744371323,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 143704,
       "num": 143704,
       "word": "王玉雯 谁把王安我棍哥放出来了",
@@ -13001,14 +13089,6 @@
       "onboard_time": 1744123162,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 142862,
-      "num": 142862,
-      "word": "钟楚曦发博说宋佳帅疯了",
-      "onboard_time": 1744371323,
-      "rank": 46,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 142780,
@@ -14699,6 +14779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119346,
+      "num": 288303,
+      "word": "北京延庆出现10级风",
+      "onboard_time": 1744373843,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119238,
       "num": 264672,
       "word": "京津冀大风橙色预警",
@@ -14753,6 +14841,14 @@
       "onboard_time": 1743913221,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 118193,
+      "num": 118193,
+      "word": "医院通报主任被举报隐匿6000万",
+      "onboard_time": 1744375462,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118066,
@@ -15217,6 +15313,14 @@
       "onboard_time": 1743934221,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 110582,
+      "num": 110582,
+      "word": "谢娜买家秀得到梅长苏本人认可",
+      "onboard_time": 1744375582,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 110423,
@@ -16067,6 +16171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87638,
+      "num": 289029,
+      "word": "梁伟铿王昶vs马丁菲克里",
+      "onboard_time": 1744374144,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87471,
       "num": 87471,
       "word": "虎扑崩了",
@@ -16761,6 +16873,14 @@
       "onboard_time": 1744352661,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 70535,
+      "num": 288837,
+      "word": "大风天确实需要外出怎么办",
+      "onboard_time": 1744374324,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70488,
@@ -17664,6 +17784,14 @@
       "word": "王嘉尔版superidol",
       "onboard_time": 1744131079,
       "rank": 43,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 45753,
+      "num": 422040,
+      "word": "澳门国际喜剧节",
+      "onboard_time": 1744374083,
+      "rank": 14,
       "category": "演出"
     },
     {
@@ -18715,6 +18843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 24296,
+      "num": 158048,
+      "word": "绍兴甜妹用英语介绍自己家乡",
+      "onboard_time": 1744368743,
+      "rank": 39,
+      "category": "网红,民生新闻"
+    },
+    {
       "raw_hot": 24236,
       "num": 349338,
       "word": "莫让银发安全网焚于隐患之火",
@@ -18961,14 +19097,6 @@
       "onboard_time": 1744052894,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 19517,
-      "num": 158048,
-      "word": "绍兴甜妹用英语介绍自己家乡",
-      "onboard_time": 1744368743,
-      "rank": 39,
-      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 19439,
