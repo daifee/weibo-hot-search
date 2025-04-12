@@ -1,0 +1,410 @@
+{
+  "runTime": 1744456740734,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1447178,
+        "num": 1447178,
+        "word": "无忧渡 无磨皮",
+        "onboard_time": 1744455144,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1111780,
+        "num": 1111780,
+        "word": "中国企业将迎爆发式增长",
+        "onboard_time": 1744451484,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77547,
+        "num": 955141,
+        "word": "美国是多边贸易体制最大破坏者",
+        "onboard_time": 1744451604,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 923793,
+        "num": 923793,
+        "word": "升至125%后为何中国不陪了",
+        "onboard_time": 1744434145,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 921944,
+        "num": 921944,
+        "word": "外交部再发重磅视频",
+        "onboard_time": 1744454484,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 748312,
+        "num": 748312,
+        "word": "邓超说鹿晗非常地懊悔",
+        "onboard_time": 1744444043,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 592137,
+        "num": 592137,
+        "word": "山西订婚强奸案将宣判男方父亲发声",
+        "onboard_time": 1744453465,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 539694,
+        "num": 539694,
+        "word": "美国人买1个鸡蛋要3.8元人民币",
+        "onboard_time": 1744449023,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 500311,
+        "num": 500311,
+        "word": "锤娜丽莎cos石矶娘娘太像了",
+        "onboard_time": 1744452625,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 453683,
+        "num": 453683,
+        "word": "孟晚舟老公是成都七中校友",
+        "onboard_time": 1744451604,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 438497,
+        "num": 438497,
+        "word": "大风到北京城区了",
+        "onboard_time": 1744377262,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 403061,
+        "num": 403061,
+        "word": "乘客遭遇大暴雨仿佛坐上恐怖公交",
+        "onboard_time": 1744451784,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140373,
+        "num": 339053,
+        "word": "你要小池塘还是大海",
+        "onboard_time": 1744455923,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 336875,
+        "num": 336875,
+        "word": "无忧渡今日开播",
+        "onboard_time": 1744445843,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34352,
+        "num": 323481,
+        "word": "美国农民成了美政府的棋子",
+        "onboard_time": 1744456043,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 314788,
+        "num": 314788,
+        "word": "苹果手机9天涨价500元",
+        "onboard_time": 1744453645,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 263551,
+        "num": 263551,
+        "word": "宋小宝造型好像王嘉尔",
+        "onboard_time": 1744455263,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259912,
+        "num": 259912,
+        "word": "马丽被著名古装戏导演拒绝",
+        "onboard_time": 1744447584,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 246998,
+        "num": 246998,
+        "word": "第一批大风受害者出现了",
+        "onboard_time": 1744440084,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224738,
+        "num": 224738,
+        "word": "甲亢哥当场质疑蒙古创造象棋",
+        "onboard_time": 1744441282,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 454700,
+        "num": 223769,
+        "word": "特朗普把made in china给遮住了",
+        "onboard_time": 1744443084,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 313143,
+        "num": 223714,
+        "word": "胃病向胃癌发展的5个信号",
+        "onboard_time": 1744447764,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 226490,
+        "num": 222087,
+        "word": "郑乃馨吐槽中国厕所脏",
+        "onboard_time": 1744422023,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219718,
+        "num": 219718,
+        "word": "王晶 姜涛",
+        "onboard_time": 1744445663,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215559,
+        "num": 215559,
+        "word": "SMTR25成员公式照",
+        "onboard_time": 1744455263,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214145,
+        "num": 214145,
+        "word": "颜人中戴安全帽演出",
+        "onboard_time": 1744450044,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 208381,
+        "num": 208381,
+        "word": "折腰也动了",
+        "onboard_time": 1744438524,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205647,
+        "num": 205647,
+        "word": "年薪28万offer被鸽后男子获赔超4.5万",
+        "onboard_time": 1744455743,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202206,
+        "num": 202206,
+        "word": "任嘉伦宋祖儿无忧渡连更18天",
+        "onboard_time": 1744451543,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201095,
+        "num": 201095,
+        "word": "32岁女白领卵巢衰退至50岁",
+        "onboard_time": 1744442963,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188432,
+        "num": 188432,
+        "word": "无忧渡云包场 难抢",
+        "onboard_time": 1744455624,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35041,
+        "num": 165382,
+        "word": "甄远道怎么跑短剧里抢牛了",
+        "onboard_time": 1744456643,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163599,
+        "num": 163599,
+        "word": "北京50年大树被大风连根拔起",
+        "onboard_time": 1744448543,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184871,
+        "num": 162245,
+        "word": "宋祖儿正式回归",
+        "onboard_time": 1744428804,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160475,
+        "num": 160475,
+        "word": "刘强东称不打口水仗",
+        "onboard_time": 1744455204,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 158008,
+        "num": 158008,
+        "word": "TFING梦舞台",
+        "onboard_time": 1744455564,
+        "rank": 35,
+        "category": "综艺,音乐"
+      },
+      {
+        "raw_hot": 155213,
+        "num": 155213,
+        "word": "enhypen科切拉",
+        "onboard_time": 1744456224,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148461,
+        "num": 148461,
+        "word": "全身90%烧伤大学生6月想拍毕业照",
+        "onboard_time": 1744453884,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143113,
+        "num": 143113,
+        "word": "广东将出现12级大风",
+        "onboard_time": 1744453343,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135096,
+        "num": 135096,
+        "word": "生理性厌恶的8个表现",
+        "onboard_time": 1744456703,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 130746,
+        "num": 130746,
+        "word": "斗破苍穹",
+        "onboard_time": 1744455683,
+        "rank": 40,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 130074,
+        "num": 130074,
+        "word": "好莱坞空前紧张",
+        "onboard_time": 1744442363,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 123089,
+        "num": 123089,
+        "word": "刘耀文 已经在准备舞台啦",
+        "onboard_time": 1744455443,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119706,
+        "num": 119706,
+        "word": "汪苏泷演唱会 天降宿命感",
+        "onboard_time": 1744454844,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 115115,
+        "num": 115115,
+        "word": "张杰黄子弘凡连倒放都能唱",
+        "onboard_time": 1744455743,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111279,
+        "num": 111279,
+        "word": "易烊千玺蛮荒禁地将今年上映",
+        "onboard_time": 1744453105,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111228,
+        "num": 111228,
+        "word": "天津人趁着大风放风筝",
+        "onboard_time": 1744454904,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110624,
+        "num": 110624,
+        "word": "时代少年团演唱会",
+        "onboard_time": 1744447584,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 106206,
+        "num": 106206,
+        "word": "什刹海也是海",
+        "onboard_time": 1744453645,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105438,
+        "num": 105438,
+        "word": "黑神话TGA奖杯仍未收到",
+        "onboard_time": 1744455144,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#保持定力集中精力办好自己的事#"
+    }
+  }
+}
