@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/13 00:27:42 ~ 2025/04/13 03:19:16
+本榜单时间：2025/04/13 00:27:42 ~ 2025/04/13 03:36:05
 </p>
 </blockquote>
 <p>
@@ -375,6 +375,12 @@ BLG对战JDG（热度：47299）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%95%99%E6%8E%88%E5%89%96%E6%9E%90%E7%BE%A4%E8%81%8A%E6%B3%84%E5%AF%86%E6%9C%89%E5%A4%9A%E5%84%BF%E6%88%8F%23" target="weibo">
+美国教授剖析群聊泄密有多儿戏（热度：37301）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%91%E5%88%87%E6%8B%89%E5%BD%A9%E6%8E%92%23" target="weibo">
 科切拉彩排（热度：34239）
 </a>
@@ -393,20 +399,20 @@ BLG对战JDG（热度：47299）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%95%99%E6%8E%88%E5%89%96%E6%9E%90%E7%BE%A4%E8%81%8A%E6%B3%84%E5%AF%86%E6%9C%89%E5%A4%9A%E5%84%BF%E6%88%8F%23" target="weibo">
-美国教授剖析群聊泄密有多儿戏（热度：20454）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%8D%E5%9C%B0%E5%90%A7%23" target="weibo">
-种地吧（热度：18050）
+种地吧（热度：20449）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E4%BB%8E%E6%BE%B3%E6%B4%B2%E9%97%AA%E7%8E%B0%E5%90%89%E9%9A%86%E5%9D%A1%E7%9A%84%E5%90%8E%E5%8F%B0%23" target="weibo">
 周深从澳洲闪现吉隆坡的后台（热度：17772）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23iG%E6%88%98%E8%83%9CTES%23" target="weibo">
+iG战胜TES（热度：15360）
 </a>
 </li>
 

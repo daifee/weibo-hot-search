@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744485556137,
+  "endTime": 1744486565753,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -36555,6 +36555,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 37301,
+      "num": 65913,
+      "word": "美国教授剖析群聊泄密有多儿戏",
+      "onboard_time": 1744484417,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 37290,
       "num": 37290,
       "word": "中央气象台预警5连",
@@ -38291,14 +38299,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 20454,
-      "num": 65913,
-      "word": "美国教授剖析群聊泄密有多儿戏",
-      "onboard_time": 1744484417,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 20182,
       "num": 153126,
       "word": "北方人如何防范大风",
@@ -38865,6 +38865,14 @@
       "onboard_time": 1743710414,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15360,
+      "num": 22868,
+      "word": "iG战胜TES",
+      "onboard_time": 1744485734,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 15326,
