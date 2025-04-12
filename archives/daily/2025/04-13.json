@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744483422638,
+  "endTime": 1744485556137,
   "band_list": [
     {
       "raw_hot": 1479558,
@@ -483,8 +483,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 29112,
-      "num": 33593,
+      "raw_hot": 34239,
+      "num": 34239,
       "word": "科切拉彩排",
       "onboard_time": 1744482556,
       "rank": 47,
@@ -505,6 +505,30 @@
       "onboard_time": 1744483218,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 20454,
+      "num": 65913,
+      "word": "美国教授剖析群聊泄密有多儿戏",
+      "onboard_time": 1744484417,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 18050,
+      "num": 26146,
+      "word": "种地吧",
+      "onboard_time": 1744483875,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 17772,
+      "num": 26146,
+      "word": "周深从澳洲闪现吉隆坡的后台",
+      "onboard_time": 1744485434,
+      "rank": 47,
+      "category": "演出"
     }
   ],
   "hotgov_list": [

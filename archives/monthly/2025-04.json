@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744483422638,
+  "endTime": 1744485556137,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -36803,6 +36803,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 34239,
+      "num": 34239,
+      "word": "科切拉彩排",
+      "onboard_time": 1744482556,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 34227,
       "num": 227951,
       "word": "男子醉酒划14辆车将面临赔钱又坐牢",
@@ -37361,14 +37369,6 @@
       "onboard_time": 1743672323,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29112,
-      "num": 33593,
-      "word": "科切拉彩排",
-      "onboard_time": 1744482556,
-      "rank": 47,
-      "category": "演出"
     },
     {
       "raw_hot": 29039,
@@ -38291,6 +38291,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 20454,
+      "num": 65913,
+      "word": "美国教授剖析群聊泄密有多儿戏",
+      "onboard_time": 1744484417,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 20182,
       "num": 153126,
       "word": "北方人如何防范大风",
@@ -38609,6 +38617,14 @@
       "onboard_time": 1743454933,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 17772,
+      "num": 26146,
+      "word": "周深从澳洲闪现吉隆坡的后台",
+      "onboard_time": 1744485434,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 17673,
