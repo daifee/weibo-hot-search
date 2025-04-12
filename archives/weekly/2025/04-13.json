@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744492875582,
+  "endTime": 1744493815590,
   "band_list": [
     {
       "raw_hot": 1479558,
@@ -451,12 +451,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 50068,
+      "num": 32914,
+      "word": "雷公自曝寻子川川成功10月后被拉黑",
+      "onboard_time": 1744487655,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47299,
       "num": 48367,
       "word": "BLG对战JDG",
       "onboard_time": 1744468824,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 45234,
+      "num": 32349,
+      "word": "外交部英文告诉世界天塌不下来",
+      "onboard_time": 1744486816,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 44579,
@@ -473,14 +489,6 @@
       "onboard_time": 1744477939,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 41430,
-      "num": 32881,
-      "word": "雷公自曝寻子川川成功10月后被拉黑",
-      "onboard_time": 1744487655,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 40264,
@@ -507,12 +515,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 32332,
-      "num": 32332,
-      "word": "外交部英文告诉世界天塌不下来",
-      "onboard_time": 1744486816,
-      "rank": 23,
-      "category": "国内时政"
+      "raw_hot": 25097,
+      "num": 25097,
+      "word": "内蒙古大风把蒙古獒幼崽吹到牧民家",
+      "onboard_time": 1744487355,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23492,
@@ -531,14 +539,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 22807,
-      "num": 22807,
-      "word": "内蒙古大风把蒙古獒幼崽吹到牧民家",
-      "onboard_time": 1744487355,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 22563,
       "num": 28968,
       "word": "宋祖儿半夏开通角色号",
@@ -555,8 +555,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 18486,
-      "num": 18486,
+      "raw_hot": 20184,
+      "num": 20184,
       "word": "胃接收不到正确的食物会变成无底洞",
       "onboard_time": 1744490595,
       "rank": 34,
