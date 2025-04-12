@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744486565753,
+  "endTime": 1744489456388,
   "band_list": [
     {
       "raw_hot": 1479558,
@@ -499,12 +499,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 29879,
+      "num": 29879,
+      "word": "外交部英文告诉世界天塌不下来",
+      "onboard_time": 1744486816,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 24044,
+      "num": 24044,
+      "word": "雷公自曝寻子川川成功10月后被拉黑",
+      "onboard_time": 1744487655,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23492,
       "num": 33585,
       "word": "2025F1巴林大奖赛",
       "onboard_time": 1744482556,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 23197,
+      "num": 31634,
+      "word": "齐思钧生日直播",
+      "onboard_time": 1744488854,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 22563,
@@ -523,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 18925,
+      "num": 18925,
+      "word": "内蒙古大风把蒙古獒幼崽吹到牧民家",
+      "onboard_time": 1744487355,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17772,
       "num": 26146,
       "word": "周深从澳洲闪现吉隆坡的后台",
@@ -537,6 +569,14 @@
       "onboard_time": 1744485734,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 10489,
+      "num": 42932,
+      "word": "200秒了解美国蛋荒危机发酵的背后",
+      "onboard_time": 1744488674,
+      "rank": 9,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [
