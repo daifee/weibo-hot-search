@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744442505392,
+  "endTime": 1744443333666,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -3003,6 +3003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 914337,
+      "num": 914337,
+      "word": "甲亢哥当场质疑蒙古创造象棋",
+      "onboard_time": 1744441282,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 914219,
       "num": 787130,
       "word": "五哈5没有鹿晗",
@@ -5145,14 +5153,6 @@
       "onboard_time": 1743571341,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 589979,
-      "num": 319863,
-      "word": "甲亢哥当场质疑蒙古创造象棋",
-      "onboard_time": 1744441282,
-      "rank": 10,
-      "category": "网红"
     },
     {
       "raw_hot": 589066,
@@ -7763,6 +7763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 410011,
+      "num": 181548,
+      "word": "怪不得长辈都喜欢大大方方的孩子",
+      "onboard_time": 1744442303,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 409581,
       "num": 378414,
       "word": "甲亢哥水灵灵地被深圳交警警告了",
@@ -7873,6 +7881,14 @@
       "onboard_time": 1744090823,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 403131,
+      "num": 403131,
+      "word": "第一批大风受害者出现了",
+      "onboard_time": 1744440084,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 403096,
@@ -8635,6 +8651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 367933,
+      "num": 367933,
+      "word": "蔡徐坤南昌线下活动人气",
+      "onboard_time": 1744442903,
+      "rank": 11,
+      "category": "艺人,综艺"
+    },
+    {
       "raw_hot": 367534,
       "num": 390718,
       "word": "阿瑟别走",
@@ -9065,6 +9089,14 @@
       "onboard_time": 1744378704,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 352528,
+      "num": 352528,
+      "word": "于正要求旗下艺人红了一定要带弟弟妹妹",
+      "onboard_time": 1744441462,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 352200,
@@ -9803,6 +9835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 325911,
+      "num": 325911,
+      "word": "裸聊网线另一头连着缅北",
+      "onboard_time": 1744440863,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 325456,
       "num": 326603,
       "word": "东部战区军事行动主题海报毁瘫",
@@ -10075,6 +10115,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 316019,
+      "num": 316019,
+      "word": "徐艺洋拍了金宣虎wink笑",
+      "onboard_time": 1744441402,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 315684,
       "num": 280401,
       "word": "男子违规获取酒店房卡侵犯女住客",
@@ -10265,6 +10313,14 @@
       "onboard_time": 1744113982,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 310795,
+      "num": 310795,
+      "word": "LadyGaga科切拉舞台",
+      "onboard_time": 1744441762,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 310381,
@@ -10473,14 +10529,6 @@
       "onboard_time": 1743479363,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 305235,
-      "num": 305235,
-      "word": "徐艺洋拍了金宣虎wink笑",
-      "onboard_time": 1744441402,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 304881,
@@ -10883,6 +10931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 294835,
+      "num": 294835,
+      "word": "白鹿王星越 眼神",
+      "onboard_time": 1744441343,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 294786,
       "num": 674365,
       "word": "汉L唐L上市价格20.98万起",
@@ -11097,6 +11153,14 @@
       "onboard_time": 1743592283,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 290058,
+      "num": 290058,
+      "word": "北京大风把小狗吹成海豹了",
+      "onboard_time": 1744440863,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 289975,
@@ -11731,14 +11795,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 273695,
-      "num": 181548,
-      "word": "怪不得长辈都喜欢大大方方的孩子",
-      "onboard_time": 1744442303,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 273317,
       "num": 273317,
       "word": "黄继光牺牲后母亲立下了一条家规",
@@ -12227,14 +12283,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 261567,
-      "num": 261567,
-      "word": "于正要求旗下艺人红了一定要带弟弟妹妹",
-      "onboard_time": 1744441462,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 261215,
       "num": 261215,
       "word": "归棹 剧改小说",
@@ -12641,14 +12689,6 @@
       "onboard_time": 1744093703,
       "rank": 43,
       "category": "国内时政,财经"
-    },
-    {
-      "raw_hot": 253136,
-      "num": 253136,
-      "word": "第一批大风受害者出现了",
-      "onboard_time": 1744440084,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 252941,
@@ -13088,14 +13128,6 @@
       "word": "夜里外卖买炭早起有10多个未接电话",
       "onboard_time": 1744204586,
       "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 242076,
-      "num": 242076,
-      "word": "北京大风把小狗吹成海豹了",
-      "onboard_time": 1744440863,
-      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -14404,7 +14436,7 @@
     },
     {
       "raw_hot": 220786,
-      "num": 243435,
+      "num": 300777,
       "word": "阿根廷与中国续签本币互换协议",
       "onboard_time": 1744441582,
       "rank": 20,
@@ -14779,14 +14811,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 215324,
-      "num": 263501,
-      "word": "裸聊网线另一头连着缅北",
-      "onboard_time": 1744440863,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 215242,
       "num": 234855,
       "word": "甲亢哥吓出最新表情包",
@@ -14969,6 +14993,14 @@
       "onboard_time": 1744170983,
       "rank": 2,
       "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 213468,
+      "num": 172455,
+      "word": "特朗普把made in china给遮住了",
+      "onboard_time": 1744443084,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 213348,
@@ -15961,14 +15993,6 @@
       "onboard_time": 1744264643,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 204001,
-      "num": 204001,
-      "word": "LadyGaga科切拉舞台",
-      "onboard_time": 1744441762,
-      "rank": 26,
-      "category": "演出"
     },
     {
       "raw_hot": 203876,
@@ -17057,14 +17081,6 @@
       "onboard_time": 1743581783,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 195008,
-      "num": 195008,
-      "word": "白鹿王星越 眼神",
-      "onboard_time": 1744441343,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 194998,
@@ -19001,6 +19017,14 @@
       "onboard_time": 1744083203,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 181225,
+      "num": 181225,
+      "word": "好莱坞空前紧张",
+      "onboard_time": 1744442363,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 181053,
@@ -21139,6 +21163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163840,
+      "num": 163840,
+      "word": "雀巢咖啡 陈立农",
+      "onboard_time": 1744442363,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163811,
       "num": 328517,
       "word": "特朗普说美股大跌因为美国病入膏肓",
@@ -22721,6 +22753,14 @@
       "onboard_time": 1743813860,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152177,
+      "num": 152177,
+      "word": "32岁女白领卵巢衰退至50岁",
+      "onboard_time": 1744442963,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152028,
@@ -25747,14 +25787,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 132356,
-      "num": 132356,
-      "word": "好莱坞空前紧张",
-      "onboard_time": 1744442363,
-      "rank": 43,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 132313,
       "num": 132313,
       "word": "张杰魏大勋你好星期六预告",
@@ -26393,6 +26425,14 @@
       "onboard_time": 1743946643,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128222,
+      "num": 128222,
+      "word": "张远演唱会奇观",
+      "onboard_time": 1744443022,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 128117,
@@ -27467,14 +27507,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 120591,
-      "num": 120591,
-      "word": "雀巢咖啡 陈立农",
-      "onboard_time": 1744442363,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 120574,
       "num": 120574,
       "word": "向鹏14比12弗朗西斯卡",
@@ -27681,6 +27713,14 @@
       "onboard_time": 1743572482,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 119467,
+      "num": 119467,
+      "word": "赵丽颖镜头感染力",
+      "onboard_time": 1744443204,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 119438,
@@ -30844,7 +30884,7 @@
     },
     {
       "raw_hot": 86994,
-      "num": 132991,
+      "num": 157517,
       "word": "地球可能还会变成紫色星球",
       "onboard_time": 1744442483,
       "rank": 41,
@@ -31545,6 +31585,14 @@
       "onboard_time": 1743816020,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 79036,
+      "num": 295252,
+      "word": "对话甲亢哥中国行幕后操盘团队",
+      "onboard_time": 1744441462,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78888,
@@ -32449,14 +32497,6 @@
       "onboard_time": 1744195822,
       "rank": 32,
       "category": "财经"
-    },
-    {
-      "raw_hot": 66377,
-      "num": 286077,
-      "word": "对话甲亢哥中国行幕后操盘团队",
-      "onboard_time": 1744441462,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 66294,
@@ -37800,6 +37840,14 @@
       "word": "驾驶安全要紧握在自己手中",
       "onboard_time": 1743586703,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8057,
+      "num": 156756,
+      "word": "退休老大爷们走秀活力四射",
+      "onboard_time": 1744442963,
+      "rank": 39,
       "category": "民生新闻"
     },
     {

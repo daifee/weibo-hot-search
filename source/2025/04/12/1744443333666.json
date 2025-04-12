@@ -1,0 +1,410 @@
+{
+  "runTime": 1744443333666,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1723573,
+        "num": 1723573,
+        "word": "升至125%后为何中国不陪了",
+        "onboard_time": 1744434145,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1151962,
+        "num": 1151962,
+        "word": "五哈谈鹿晗老舅缺席",
+        "onboard_time": 1744436903,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44511,
+        "num": 981640,
+        "word": "中国站出来是为了避免人类重回丛林世界",
+        "onboard_time": 1744381943,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 914337,
+        "num": 914337,
+        "word": "甲亢哥当场质疑蒙古创造象棋",
+        "onboard_time": 1744441282,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 749319,
+        "num": 749319,
+        "word": "特朗普遭死亡威胁",
+        "onboard_time": 1744428804,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 738741,
+        "num": 738741,
+        "word": "体重200多斤记者实测北京大风",
+        "onboard_time": 1744439602,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 501637,
+        "num": 501637,
+        "word": "折腰也动了",
+        "onboard_time": 1744438524,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 403131,
+        "num": 403131,
+        "word": "第一批大风受害者出现了",
+        "onboard_time": 1744440084,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 391220,
+        "num": 391220,
+        "word": "王力宏方否认烧毁百万级古董钢琴",
+        "onboard_time": 1744435163,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 386108,
+        "num": 386108,
+        "word": "北京12级大风下的外卖员",
+        "onboard_time": 1744435523,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 437990,
+        "num": 382244,
+        "word": "大风到北京城区了",
+        "onboard_time": 1744377262,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 367933,
+        "num": 367933,
+        "word": "蔡徐坤南昌线下活动人气",
+        "onboard_time": 1744442903,
+        "rank": 11,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 358451,
+        "num": 358451,
+        "word": "真正的魔童降世",
+        "onboard_time": 1744432165,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 352528,
+        "num": 352528,
+        "word": "于正要求旗下艺人红了一定要带弟弟妹妹",
+        "onboard_time": 1744441462,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 325911,
+        "num": 325911,
+        "word": "裸聊网线另一头连着缅北",
+        "onboard_time": 1744440863,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316019,
+        "num": 316019,
+        "word": "徐艺洋拍了金宣虎wink笑",
+        "onboard_time": 1744441402,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 310795,
+        "num": 310795,
+        "word": "LadyGaga科切拉舞台",
+        "onboard_time": 1744441762,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 210243,
+        "num": 300777,
+        "word": "阿根廷与中国续签本币互换协议",
+        "onboard_time": 1744441582,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 79036,
+        "num": 295252,
+        "word": "对话甲亢哥中国行幕后操盘团队",
+        "onboard_time": 1744441462,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 294835,
+        "num": 294835,
+        "word": "白鹿王星越 眼神",
+        "onboard_time": 1744441343,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1000283,
+        "num": 292851,
+        "word": "郑乃馨吐槽中国厕所脏",
+        "onboard_time": 1744422023,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290058,
+        "num": 290058,
+        "word": "北京大风把小狗吹成海豹了",
+        "onboard_time": 1744440863,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256866,
+        "num": 256866,
+        "word": "宋祖儿竟然有这么多待播剧",
+        "onboard_time": 1744436183,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252203,
+        "num": 252203,
+        "word": "国内航线已取消航班3200余架次",
+        "onboard_time": 1744440622,
+        "rank": 23,
+        "category": "国内时政,国内时政"
+      },
+      {
+        "raw_hot": 250621,
+        "num": 250621,
+        "word": "河南出现15级大风",
+        "onboard_time": 1744421781,
+        "rank": 24,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 226194,
+        "num": 226194,
+        "word": "无忧渡开播",
+        "onboard_time": 1744424063,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185645,
+        "num": 185645,
+        "word": "她留在了他最爱的那一年",
+        "onboard_time": 1744427304,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181225,
+        "num": 181225,
+        "word": "好莱坞空前紧张",
+        "onboard_time": 1744442363,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 181205,
+        "num": 181205,
+        "word": "大风到哪了",
+        "onboard_time": 1744363704,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180855,
+        "num": 180855,
+        "word": "大家为什么不嫌弃房东的床垫啊",
+        "onboard_time": 1744437623,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 920439,
+        "num": 179322,
+        "word": "何同学再翻车",
+        "onboard_time": 1744436544,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 545671,
+        "num": 177468,
+        "word": "宋祖儿正式回归",
+        "onboard_time": 1744428804,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 410011,
+        "num": 175746,
+        "word": "怪不得长辈都喜欢大大方方的孩子",
+        "onboard_time": 1744442303,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 213468,
+        "num": 172455,
+        "word": "特朗普把made in china给遮住了",
+        "onboard_time": 1744443084,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 172434,
+        "num": 172434,
+        "word": "国乒男队澳门世界杯适应训练",
+        "onboard_time": 1744442002,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163840,
+        "num": 163840,
+        "word": "雀巢咖啡 陈立农",
+        "onboard_time": 1744442363,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163288,
+        "num": 163288,
+        "word": "女孩称拼好抱后被骚扰",
+        "onboard_time": 1744437743,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162799,
+        "num": 162799,
+        "word": "好想来 檀健次",
+        "onboard_time": 1744434924,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82428,
+        "num": 157517,
+        "word": "地球可能还会变成紫色星球",
+        "onboard_time": 1744442483,
+        "rank": 38,
+        "category": "科学科普,民生新闻"
+      },
+      {
+        "raw_hot": 8057,
+        "num": 156756,
+        "word": "退休老大爷们走秀活力四射",
+        "onboard_time": 1744442963,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156671,
+        "num": 156671,
+        "word": "上海大风",
+        "onboard_time": 1744437623,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152684,
+        "num": 152684,
+        "word": "二级演员公款旅游被撤职",
+        "onboard_time": 1744420282,
+        "rank": 41,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 152177,
+        "num": 152177,
+        "word": "32岁女白领卵巢衰退至50岁",
+        "onboard_time": 1744442963,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138442,
+        "num": 138442,
+        "word": "三胞胎齐放飞奶奶血压已飙升",
+        "onboard_time": 1744430904,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128222,
+        "num": 128222,
+        "word": "张远演唱会奇观",
+        "onboard_time": 1744443022,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125411,
+        "num": 125411,
+        "word": "北京大风刮倒288棵树",
+        "onboard_time": 1744429945,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120432,
+        "num": 120432,
+        "word": "美因海关系统故障暂未征收关税",
+        "onboard_time": 1744415662,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 119467,
+        "num": 119467,
+        "word": "赵丽颖镜头感染力",
+        "onboard_time": 1744443204,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 118993,
+        "num": 118993,
+        "word": "孙颖莎谢谢球迷谢谢澳门",
+        "onboard_time": 1744439723,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115598,
+        "num": 115598,
+        "word": "大风",
+        "onboard_time": 1744435523,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#面向未来中国将永远在这儿#"
+    }
+  }
+}
