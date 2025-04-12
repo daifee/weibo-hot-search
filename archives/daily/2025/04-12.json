@@ -1,6 +1,6 @@
 {
   "startTime": 1744389070116,
-  "endTime": 1744432097280,
+  "endTime": 1744432988207,
   "band_list": [
     {
       "raw_hot": 3665401,
@@ -203,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 654445,
+      "num": 654445,
+      "word": "北京大风刮倒288棵树",
+      "onboard_time": 1744429945,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 638094,
       "num": 638094,
       "word": "法老聊天记录",
@@ -259,12 +267,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 511848,
-      "num": 511848,
-      "word": "北京大风刮倒288棵树",
-      "onboard_time": 1744429945,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 482562,
+      "num": 482562,
+      "word": "gidle曺薇娟吉克隽逸新歌",
+      "onboard_time": 1744431263,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 479071,
@@ -363,14 +371,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 348241,
-      "num": 348241,
-      "word": "gidle曺薇娟吉克隽逸新歌",
-      "onboard_time": 1744431263,
-      "rank": 16,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 342685,
       "num": 342685,
       "word": "恋与深空偷跑",
@@ -435,12 +435,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 306957,
-      "num": 306957,
+      "raw_hot": 314406,
+      "num": 314406,
       "word": "韩安冉回应直播卖宠物狗",
       "onboard_time": 1744428742,
       "rank": 19,
       "category": "网红"
+    },
+    {
+      "raw_hot": 307381,
+      "num": 307381,
+      "word": "教育局回应学校辞退考公考编教师",
+      "onboard_time": 1744431204,
+      "rank": 26,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 298254,
@@ -467,12 +475,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 264235,
+      "num": 264235,
+      "word": "三胞胎齐放飞奶奶血压已飙升",
+      "onboard_time": 1744430904,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 264153,
       "num": 321041,
       "word": "山西大同因大风天胶带销量暴涨",
       "onboard_time": 1744420282,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 262128,
+      "num": 262128,
+      "word": "王蓉浪姐疑似只签了一期",
+      "onboard_time": 1744430065,
+      "rank": 25,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 254349,
@@ -483,36 +507,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 252319,
-      "num": 252319,
-      "word": "王蓉浪姐疑似只签了一期",
-      "onboard_time": 1744430065,
-      "rank": 25,
-      "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 250484,
-      "num": 250484,
-      "word": "教育局回应学校辞退考公考编教师",
-      "onboard_time": 1744431204,
-      "rank": 26,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 245505,
       "num": 245505,
       "word": "痞幼爆改晓华",
       "onboard_time": 1744419863,
       "rank": 27,
       "category": "网红"
-    },
-    {
-      "raw_hot": 244169,
-      "num": 244169,
-      "word": "三胞胎齐放飞奶奶血压已飙升",
-      "onboard_time": 1744430904,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 241481,
@@ -667,6 +667,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 201511,
+      "num": 201511,
+      "word": "徐志胜被黄磊割韭菜只能苦笑",
+      "onboard_time": 1744431983,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 200043,
+      "num": 188900,
+      "word": "上着班突然感觉一阵恶心",
+      "onboard_time": 1744431502,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 194318,
       "num": 194318,
       "word": "K总第三场婚礼伴郎团",
@@ -707,6 +723,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 188481,
+      "num": 234051,
+      "word": "孙俪一哭汪俊鸡皮疙瘩起来了",
+      "onboard_time": 1744431565,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187372,
       "num": 187372,
       "word": "易烊千玺深圳",
@@ -721,14 +745,6 @@
       "onboard_time": 1744426402,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 184317,
-      "num": 234051,
-      "word": "孙俪一哭汪俊鸡皮疙瘩起来了",
-      "onboard_time": 1744431565,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 179179,
@@ -803,6 +819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170311,
+      "num": 170311,
+      "word": "何同学删博",
+      "onboard_time": 1744432765,
+      "rank": 36,
+      "category": "网红"
+    },
+    {
       "raw_hot": 168037,
       "num": 168037,
       "word": "郑州大风",
@@ -833,6 +857,14 @@
       "onboard_time": 1744428683,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163336,
+      "num": 170782,
+      "word": "二十年前前台二十年后销冠",
+      "onboard_time": 1744432824,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 162302,
@@ -939,20 +971,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 147011,
-      "num": 147011,
-      "word": "徐志胜被黄磊割韭菜只能苦笑",
-      "onboard_time": 1744431983,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 146419,
       "num": 146419,
       "word": "美债抛售潮加速",
       "onboard_time": 1744422624,
       "rank": 41,
       "category": "财经,国际时政"
+    },
+    {
+      "raw_hot": 145833,
+      "num": 142936,
+      "word": "Jennie 户外剧院表演",
+      "onboard_time": 1744432884,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 140866,
@@ -1043,6 +1075,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 123716,
+      "num": 160859,
+      "word": "专家回应北京今晨的风似乎不大",
+      "onboard_time": 1744432943,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123448,
       "num": 123448,
       "word": "特朗普关税政策让前财长愤怒爆表",
@@ -1107,6 +1147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 99220,
+      "num": 433363,
+      "word": "美国男子恐吓要杀特朗普被起诉",
+      "onboard_time": 1744431745,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 98704,
       "num": 98704,
       "word": "反诈老陈年收入降到31万",
@@ -1136,14 +1184,6 @@
       "word": "美教育部长误将AI称为A1",
       "onboard_time": 1744382965,
       "rank": 47,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 91904,
-      "num": 433363,
-      "word": "美国男子恐吓要杀特朗普被起诉",
-      "onboard_time": 1744431745,
-      "rank": 12,
       "category": "国际时政"
     },
     {
@@ -1404,6 +1444,9 @@
     },
     {
       "word": "#中国不畏惧任何无理打压#"
+    },
+    {
+      "word": "#面向未来中国将永远在这儿#"
     }
   ]
 }
