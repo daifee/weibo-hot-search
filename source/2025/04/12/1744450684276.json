@@ -1,0 +1,410 @@
+{
+  "runTime": 1744450684276,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1571230,
+        "num": 1571230,
+        "word": "邓超说鹿晗非常地懊悔",
+        "onboard_time": 1744444043,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1102183,
+        "num": 1102183,
+        "word": "升至125%后为何中国不陪了",
+        "onboard_time": 1744434145,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 22104,
+        "num": 853592,
+        "word": "中国站出来是为了避免人类重回丛林世界",
+        "onboard_time": 1744381943,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 658810,
+        "num": 658810,
+        "word": "马丽被著名古装戏导演拒绝",
+        "onboard_time": 1744447584,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 529895,
+        "num": 529895,
+        "word": "特朗普遭死亡威胁",
+        "onboard_time": 1744428804,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 498684,
+        "num": 498684,
+        "word": "好莱坞空前紧张",
+        "onboard_time": 1744442363,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 459229,
+        "num": 459229,
+        "word": "陈赫说犯了错就好好的反省",
+        "onboard_time": 1744447942,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 450034,
+        "num": 450034,
+        "word": "第一批大风受害者出现了",
+        "onboard_time": 1744440084,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 391855,
+        "num": 391855,
+        "word": "甲亢哥当场质疑蒙古创造象棋",
+        "onboard_time": 1744441282,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 150028,
+        "num": 388361,
+        "word": "预计下周一天黑后大风结束",
+        "onboard_time": 1744444223,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 703394,
+        "num": 379748,
+        "word": "王晶 姜涛",
+        "onboard_time": 1744445663,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 557785,
+        "num": 364904,
+        "word": "单眼皮的小黄豆 蔡徐坤",
+        "onboard_time": 1744448303,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 524903,
+        "num": 358495,
+        "word": "韩安冉老公限制小猪妹消费",
+        "onboard_time": 1744449503,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 498652,
+        "num": 346153,
+        "word": "大风到北京城区了",
+        "onboard_time": 1744377262,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76654,
+        "num": 339560,
+        "word": "河南极端大风刮走整片落地窗",
+        "onboard_time": 1744449023,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 334022,
+        "num": 334022,
+        "word": "美国海关关税系统恢复运行",
+        "onboard_time": 1744447705,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 298349,
+        "num": 298349,
+        "word": "关税加了山东零售巨头出手了",
+        "onboard_time": 1744443443,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 289267,
+        "num": 289267,
+        "word": "无忧渡OST歌单",
+        "onboard_time": 1744446563,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194955,
+        "num": 289118,
+        "word": "折腰也动了",
+        "onboard_time": 1744438524,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81684,
+        "num": 283102,
+        "word": "美特使提议像战后柏林一样瓜分乌克兰",
+        "onboard_time": 1744448905,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 702412,
+        "num": 276942,
+        "word": "特朗普把made in china给遮住了",
+        "onboard_time": 1744443084,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 540616,
+        "num": 276172,
+        "word": "郑乃馨吐槽中国厕所脏",
+        "onboard_time": 1744422023,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 442954,
+        "num": 270295,
+        "word": "胃病向胃癌发展的5个信号",
+        "onboard_time": 1744447764,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 267907,
+        "num": 267907,
+        "word": "美国人买1个鸡蛋要3.8元人民币",
+        "onboard_time": 1744449023,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 259079,
+        "num": 259079,
+        "word": "怪不得长辈都喜欢大大方方的孩子",
+        "onboard_time": 1744442303,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 204695,
+        "num": 204695,
+        "word": "北京大风吹倒843棵树",
+        "onboard_time": 1744447942,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196543,
+        "num": 196543,
+        "word": "32岁女白领卵巢衰退至50岁",
+        "onboard_time": 1744442963,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193907,
+        "num": 193907,
+        "word": "颜人中戴安全帽演出",
+        "onboard_time": 1744450044,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 184942,
+        "num": 184942,
+        "word": "胡静曾因长相接不到现代戏",
+        "onboard_time": 1744444163,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177982,
+        "num": 177982,
+        "word": "时代少年团演唱会",
+        "onboard_time": 1744447584,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 323578,
+        "num": 177526,
+        "word": "宋祖儿正式回归",
+        "onboard_time": 1744428804,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175179,
+        "num": 175179,
+        "word": "网曝男子为维护第三者当街殴打父母",
+        "onboard_time": 1744449325,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167673,
+        "num": 167673,
+        "word": "北京50年大树被大风连根拔起",
+        "onboard_time": 1744448543,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164032,
+        "num": 164032,
+        "word": "王玉雯大家不要再吵了啦",
+        "onboard_time": 1744447404,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156794,
+        "num": 156794,
+        "word": "风是风 狗是狗",
+        "onboard_time": 1744450103,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156189,
+        "num": 156189,
+        "word": "体重200多斤记者实测北京大风",
+        "onboard_time": 1744439602,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150572,
+        "num": 150572,
+        "word": "无忧渡今日开播",
+        "onboard_time": 1744445843,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150516,
+        "num": 150516,
+        "word": "中国扩大西班牙猪肉市场准入",
+        "onboard_time": 1744449085,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 146231,
+        "num": 146231,
+        "word": "韩庚李承铉聊在韩新人文化",
+        "onboard_time": 1744448603,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142478,
+        "num": 142478,
+        "word": "FPX对战WBG",
+        "onboard_time": 1744449263,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 141395,
+        "num": 141395,
+        "word": "内娱好久没有女频探案剧了",
+        "onboard_time": 1744446924,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140434,
+        "num": 140434,
+        "word": "王一珩 没做到天天开心对不起何浩楠",
+        "onboard_time": 1744450222,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139428,
+        "num": 139428,
+        "word": "泰兰德病",
+        "onboard_time": 1744448184,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130463,
+        "num": 130463,
+        "word": "北京目前进入北风最强时段",
+        "onboard_time": 1744446203,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128004,
+        "num": 128004,
+        "word": "LadyGaga科切拉舞台",
+        "onboard_time": 1744441762,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 121188,
+        "num": 121188,
+        "word": "北京大风把小狗吹成海豹了",
+        "onboard_time": 1744440863,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118657,
+        "num": 118657,
+        "word": "宋妍霏团二公第一",
+        "onboard_time": 1744447823,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115885,
+        "num": 115885,
+        "word": "大风天在家吃火锅",
+        "onboard_time": 1744444643,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 107451,
+        "num": 107451,
+        "word": "原来山和树一样能看年龄",
+        "onboard_time": 1744449923,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91004,
+        "num": 104315,
+        "word": "国乒女队澳门世界杯适应训练",
+        "onboard_time": 1744448423,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#面向未来中国将永远在这儿#"
+    }
+  }
+}

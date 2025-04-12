@@ -1,6 +1,6 @@
 {
   "startTime": 1744389070116,
-  "endTime": 1744449914736,
+  "endTime": 1744450684276,
   "band_list": [
     {
       "raw_hot": 3665401,
@@ -331,8 +331,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 640779,
-      "num": 640779,
+      "raw_hot": 658810,
+      "num": 658810,
       "word": "马丽被著名古装戏导演拒绝",
       "onboard_time": 1744447584,
       "rank": 4,
@@ -395,6 +395,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 557785,
+      "num": 364904,
+      "word": "单眼皮的小黄豆 蔡徐坤",
+      "onboard_time": 1744448303,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 551860,
       "num": 551860,
       "word": "特朗普抱怨限水头发湿透需15分钟",
@@ -425,6 +433,14 @@
       "onboard_time": 1744438524,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 524903,
+      "num": 358495,
+      "word": "韩安冉老公限制小猪妹消费",
+      "onboard_time": 1744449503,
+      "rank": 24,
+      "category": "网红"
     },
     {
       "raw_hot": 507414,
@@ -465,6 +481,14 @@
       "onboard_time": 1744444102,
       "rank": 7,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 459229,
+      "num": 459229,
+      "word": "陈赫说犯了错就好好的反省",
+      "onboard_time": 1744447942,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 455702,
@@ -603,14 +627,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 353319,
-      "num": 353319,
-      "word": "单眼皮的小黄豆 蔡徐坤",
-      "onboard_time": 1744448303,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 350593,
       "num": 350593,
       "word": "北京全市阵风普遍达8级以上",
@@ -649,14 +665,6 @@
       "onboard_time": 1744381943,
       "rank": 13,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 331271,
-      "num": 346843,
-      "word": "陈赫说犯了错就好好的反省",
-      "onboard_time": 1744447942,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 330631,
@@ -811,12 +819,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 268461,
-      "num": 268461,
-      "word": "韩安冉老公限制小猪妹消费",
-      "onboard_time": 1744449503,
-      "rank": 24,
-      "category": "网红"
+      "raw_hot": 267907,
+      "num": 267907,
+      "word": "美国人买1个鸡蛋要3.8元人民币",
+      "onboard_time": 1744449023,
+      "rank": 32,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 264475,
@@ -1123,6 +1131,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 193907,
+      "num": 193907,
+      "word": "颜人中戴安全帽演出",
+      "onboard_time": 1744450044,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 193831,
       "num": 193831,
       "word": "男子拿13年前三金变现3万多元",
@@ -1235,14 +1251,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 180803,
-      "num": 180803,
-      "word": "美国人买1个鸡蛋要3.8元人民币",
-      "onboard_time": 1744449023,
-      "rank": 32,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 179179,
       "num": 179179,
       "word": "iG翻盘TES",
@@ -1281,6 +1289,14 @@
       "onboard_time": 1744427064,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175179,
+      "num": 175179,
+      "word": "网曝男子为维护第三者当街殴打父母",
+      "onboard_time": 1744449325,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 175151,
@@ -1403,6 +1419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164032,
+      "num": 164032,
+      "word": "王玉雯大家不要再吵了啦",
+      "onboard_time": 1744447404,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163840,
       "num": 163840,
       "word": "雀巢咖啡 陈立农",
@@ -1523,20 +1547,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 156906,
-      "num": 156906,
-      "word": "网曝男子为维护第三者当街殴打父母",
-      "onboard_time": 1744449325,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 156592,
-      "num": 156592,
-      "word": "王玉雯大家不要再吵了啦",
-      "onboard_time": 1744447404,
-      "rank": 41,
-      "category": "剧集"
+      "raw_hot": 156794,
+      "num": 156794,
+      "word": "风是风 狗是狗",
+      "onboard_time": 1744450103,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 154919,
@@ -1667,6 +1683,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 140434,
+      "num": 140434,
+      "word": "王一珩 没做到天天开心对不起何浩楠",
+      "onboard_time": 1744450222,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139283,
       "num": 139283,
       "word": "三河市",
@@ -1755,6 +1779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130463,
+      "num": 334037,
+      "word": "北京目前进入北风最强时段",
+      "onboard_time": 1744446203,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129818,
       "num": 129818,
       "word": "网红田一名接广告了",
@@ -1769,14 +1801,6 @@
       "onboard_time": 1744439723,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 128598,
-      "num": 334037,
-      "word": "北京目前进入北风最强时段",
-      "onboard_time": 1744446203,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128222,
@@ -1883,6 +1907,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 118657,
+      "num": 344077,
+      "word": "宋妍霏团二公第一",
+      "onboard_time": 1744447823,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118606,
       "num": 118606,
       "word": "胡夏演唱会已开启退票通道",
@@ -1952,6 +1984,14 @@
       "word": "河南老君山等景区限流",
       "onboard_time": 1744439063,
       "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107451,
+      "num": 107451,
+      "word": "原来山和树一样能看年龄",
+      "onboard_time": 1744449923,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -2051,12 +2091,12 @@
       "category": "科学科普,民生新闻"
     },
     {
-      "raw_hot": 82010,
-      "num": 344077,
-      "word": "宋妍霏团二公第一",
-      "onboard_time": 1744447823,
-      "rank": 18,
-      "category": "综艺"
+      "raw_hot": 81684,
+      "num": 343997,
+      "word": "美特使提议像战后柏林一样瓜分乌克兰",
+      "onboard_time": 1744448905,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 80376,
@@ -2080,6 +2120,14 @@
       "word": "10时至22时为北京风力最强时段",
       "onboard_time": 1744413680,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76654,
+      "num": 348299,
+      "word": "河南极端大风刮走整片落地窗",
+      "onboard_time": 1744449023,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -2171,28 +2219,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 44457,
-      "num": 343997,
-      "word": "美特使提议像战后柏林一样瓜分乌克兰",
-      "onboard_time": 1744448905,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 44155,
       "num": 238445,
       "word": "队友夺冠全红婵兴奋鼓掌拍照",
       "onboard_time": 1744430844,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 42031,
-      "num": 348299,
-      "word": "河南极端大风刮走整片落地窗",
-      "onboard_time": 1744449023,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 41000,
