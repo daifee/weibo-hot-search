@@ -1,6 +1,6 @@
 {
   "startTime": 1744389070116,
-  "endTime": 1744464450866,
+  "endTime": 1744465128306,
   "band_list": [
     {
       "raw_hot": 3665401,
@@ -308,11 +308,19 @@
     },
     {
       "raw_hot": 816257,
-      "num": 675004,
+      "num": 802376,
       "word": "卤鹅哥称房贷已经停了几个月",
       "onboard_time": 1744461745,
       "rank": 16,
       "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 797919,
+      "num": 797919,
+      "word": "荷兰议会动议粗暴干涉中国内政",
+      "onboard_time": 1744459464,
+      "rank": 15,
+      "category": "国际时政"
     },
     {
       "raw_hot": 791921,
@@ -380,7 +388,7 @@
     },
     {
       "raw_hot": 694213,
-      "num": 467041,
+      "num": 570819,
       "word": "滕子京姓滕他不守滕王阁谁守",
       "onboard_time": 1744457964,
       "rank": 11,
@@ -393,14 +401,6 @@
       "onboard_time": 1744359084,
       "rank": 6,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 680312,
-      "num": 680312,
-      "word": "荷兰议会动议粗暴干涉中国内政",
-      "onboard_time": 1744459464,
-      "rank": 15,
-      "category": "国际时政"
     },
     {
       "raw_hot": 665284,
@@ -465,6 +465,14 @@
       "onboard_time": 1744435163,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 623586,
+      "num": 623586,
+      "word": "傅首尔因无法入戏道歉",
+      "onboard_time": 1744463184,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 599936,
@@ -555,6 +563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 530263,
+      "num": 530263,
+      "word": "孟子义我答应她了出来给她签",
+      "onboard_time": 1744461565,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 529924,
       "num": 453683,
       "word": "孟晚舟老公是成都七中校友",
@@ -609,14 +625,6 @@
       "onboard_time": 1744443443,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 487602,
-      "num": 487602,
-      "word": "孟子义我答应她了出来给她签",
-      "onboard_time": 1744461565,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 482562,
@@ -755,6 +763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 402769,
+      "num": 402769,
+      "word": "沈腾说舍不得马丽演别人的戏",
+      "onboard_time": 1744463725,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 402687,
       "num": 402687,
       "word": "好想来 檀健次",
@@ -857,14 +873,6 @@
       "onboard_time": 1744445843,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 336673,
-      "num": 327721,
-      "word": "傅首尔因无法入戏道歉",
-      "onboard_time": 1744463184,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 335155,
@@ -1075,6 +1083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 266328,
+      "num": 266328,
+      "word": "张杰致敬每一颗永不言弃的中国心",
+      "onboard_time": 1744464505,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 264475,
       "num": 181461,
       "word": "大家为什么不嫌弃房东的床垫啊",
@@ -1123,12 +1139,36 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 262007,
+      "num": 262007,
+      "word": "焦俊艳回应炒股",
+      "onboard_time": 1744461745,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 261378,
+      "num": 261378,
+      "word": "林孝埈用行动争取更多第一",
+      "onboard_time": 1744464384,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 254349,
       "num": 254349,
       "word": "阿婆意外坠井身体对折无法动弹",
       "onboard_time": 1744426043,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 248286,
+      "num": 248286,
+      "word": "王俊凯说养猫了",
+      "onboard_time": 1744463845,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 245505,
@@ -1139,12 +1179,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 243141,
-      "num": 243141,
-      "word": "焦俊艳回应炒股",
-      "onboard_time": 1744461745,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 243844,
+      "num": 258157,
+      "word": "大风要刮到什么时候",
+      "onboard_time": 1744458145,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 242807,
@@ -1219,14 +1259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 232295,
-      "num": 247138,
-      "word": "大风要刮到什么时候",
-      "onboard_time": 1744458145,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 230716,
       "num": 230716,
       "word": "王星越又坐地铁去上班了",
@@ -1299,6 +1331,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 218909,
+      "num": 253676,
+      "word": "体系化安全才是全方位安全",
+      "onboard_time": 1744464264,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 217668,
       "num": 217668,
       "word": "美国输华商品已无市场接受可能性",
@@ -1323,12 +1363,12 @@
       "category": "艺人,剧集"
     },
     {
-      "raw_hot": 208937,
-      "num": 208937,
-      "word": "王俊凯说养猫了",
-      "onboard_time": 1744463845,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 210415,
+      "num": 580600,
+      "word": "特朗普说的暂停90天没完全落实",
+      "onboard_time": 1744464325,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 208935,
@@ -1337,6 +1377,14 @@
       "onboard_time": 1744426524,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 208126,
+      "num": 208126,
+      "word": "苏炳添100米半决赛弃权",
+      "onboard_time": 1744463544,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 206669,
@@ -1395,12 +1443,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 200472,
-      "num": 200472,
-      "word": "沈腾说舍不得马丽演别人的戏",
-      "onboard_time": 1744463725,
-      "rank": 31,
-      "category": "作品衍生"
+      "raw_hot": 201436,
+      "num": 201436,
+      "word": "颜安接住了吴镇宇的戏",
+      "onboard_time": 1744463845,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 200043,
@@ -1475,6 +1523,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 194233,
+      "num": 194233,
+      "word": "阿联酋航班备降深圳5小时不准下机",
+      "onboard_time": 1744464205,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 193831,
       "num": 193831,
       "word": "男子拿13年前三金变现3万多元",
@@ -1483,20 +1539,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 191646,
-      "num": 191646,
-      "word": "颜安接住了吴镇宇的戏",
-      "onboard_time": 1744463845,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 191113,
       "num": 191113,
       "word": "湖人勇士夺冠概率并列第四",
       "onboard_time": 1744435523,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190218,
+      "num": 190218,
+      "word": "丹书铁券",
+      "onboard_time": 1744464684,
+      "rank": 36,
+      "category": "科学科普"
     },
     {
       "raw_hot": 190091,
@@ -1595,6 +1651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 185407,
+      "num": 185407,
+      "word": "猫 你闻起来苦苦的",
+      "onboard_time": 1744464205,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 185315,
       "num": 185315,
       "word": "妖怪新娘句句调情声声致命",
@@ -1625,6 +1689,14 @@
       "onboard_time": 1744382364,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 176920,
+      "num": 176920,
+      "word": "齐思钧新书",
+      "onboard_time": 1744464024,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 176905,
@@ -1729,14 +1801,6 @@
       "onboard_time": 1744378105,
       "rank": 24,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 172918,
-      "num": 172918,
-      "word": "猫 你闻起来苦苦的",
-      "onboard_time": 1744464205,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 172701,
@@ -2051,14 +2115,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 153052,
-      "num": 153052,
-      "word": "苏炳添100米半决赛弃权",
-      "onboard_time": 1744463544,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 152955,
       "num": 152955,
       "word": "贾玲新电影饭制海报",
@@ -2275,14 +2331,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 136309,
-      "num": 136309,
-      "word": "阿联酋航班备降深圳5小时不准下机",
-      "onboard_time": 1744464205,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 135616,
       "num": 201624,
       "word": "这次大风为何来势汹汹",
@@ -2307,28 +2355,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 134272,
-      "num": 134272,
-      "word": "齐思钧新书",
-      "onboard_time": 1744464024,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 134099,
       "num": 134099,
       "word": "33红薯变异成蘑菇",
       "onboard_time": 1744457486,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 131765,
-      "num": 209212,
-      "word": "特朗普说的暂停90天没完全落实",
-      "onboard_time": 1744464325,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 131627,
@@ -2699,6 +2731,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 106910,
+      "num": 378371,
+      "word": "一只流浪猫成了猫医生",
+      "onboard_time": 1744464264,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106206,
       "num": 131264,
       "word": "什刹海也是海",
@@ -2771,14 +2811,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 97949,
-      "num": 188384,
-      "word": "一只流浪猫成了猫医生",
-      "onboard_time": 1744464264,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 94869,
       "num": 94869,
       "word": "怀孕时脏器都被挤变形了",
@@ -2833,22 +2865,6 @@
       "onboard_time": 1744442483,
       "rank": 41,
       "category": "科学科普,民生新闻"
-    },
-    {
-      "raw_hot": 83388,
-      "num": 210009,
-      "word": "体系化安全才是全方位安全",
-      "onboard_time": 1744464264,
-      "rank": 28,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 83346,
-      "num": 143980,
-      "word": "林孝埈用行动争取更多第一",
-      "onboard_time": 1744464384,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 81684,
@@ -2947,20 +2963,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 66458,
+      "num": 185451,
+      "word": "甲亢哥中国行不虚此行",
+      "onboard_time": 1744461445,
+      "rank": 39,
+      "category": "网红"
+    },
+    {
       "raw_hot": 63859,
       "num": 257312,
       "word": "杀害2人嫌犯曾返家告知父亲其杀人",
       "onboard_time": 1744457063,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 63772,
-      "num": 153647,
-      "word": "甲亢哥中国行不虚此行",
-      "onboard_time": 1744461445,
-      "rank": 39,
-      "category": "网红"
     },
     {
       "raw_hot": 63123,
