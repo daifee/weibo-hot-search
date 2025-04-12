@@ -1,6 +1,6 @@
 {
   "startTime": 1744389070116,
-  "endTime": 1744440293359,
+  "endTime": 1744442505392,
   "band_list": [
     {
       "raw_hot": 3665401,
@@ -91,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1376004,
+      "num": 1376004,
+      "word": "五哈谈鹿晗老舅缺席",
+      "onboard_time": 1744436903,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1357666,
       "num": 1357666,
       "word": "直观感受12级大风有多猛",
@@ -129,6 +137,14 @@
       "onboard_time": 1744420282,
       "rank": 4,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 1115796,
+      "num": 882947,
+      "word": "何同学再翻车",
+      "onboard_time": 1744436544,
+      "rank": 5,
+      "category": "网红"
     },
     {
       "raw_hot": 1094148,
@@ -171,14 +187,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 882947,
-      "num": 882947,
-      "word": "何同学再翻车",
-      "onboard_time": 1744436544,
-      "rank": 5,
-      "category": "网红"
-    },
-    {
       "raw_hot": 855111,
       "num": 855111,
       "word": "大风到北京城区了",
@@ -201,6 +209,14 @@
       "onboard_time": 1744427304,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 830784,
+      "num": 830784,
+      "word": "体重200多斤记者实测北京大风",
+      "onboard_time": 1744439602,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 773860,
@@ -283,6 +299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 589979,
+      "num": 319863,
+      "word": "甲亢哥当场质疑蒙古创造象棋",
+      "onboard_time": 1744441282,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 587989,
       "num": 587989,
       "word": "美国到底有多依赖中国商品",
@@ -339,8 +363,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 513596,
-      "num": 513596,
+      "raw_hot": 525397,
+      "num": 525397,
       "word": "折腰也动了",
       "onboard_time": 1744438524,
       "rank": 9,
@@ -367,14 +391,6 @@
       "num": 474975,
       "word": "大风强对流暴雪沙尘暴预警",
       "onboard_time": 1744425743,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 452172,
-      "num": 561349,
-      "word": "体重200多斤记者实测北京大风",
-      "onboard_time": 1744439602,
       "rank": 9,
       "category": "民生新闻"
     },
@@ -563,6 +579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 305235,
+      "num": 305235,
+      "word": "徐艺洋拍了金宣虎wink笑",
+      "onboard_time": 1744441402,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 298254,
       "num": 298254,
       "word": "无忧渡绮梦版预告",
@@ -579,6 +603,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 281201,
+      "num": 281201,
+      "word": "国内航线已取消航班3200余架次",
+      "onboard_time": 1744440622,
+      "rank": 14,
+      "category": "国内时政,国内时政"
+    },
+    {
       "raw_hot": 276463,
       "num": 276463,
       "word": "北京大风",
@@ -587,8 +619,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 273695,
+      "num": 181548,
+      "word": "怪不得长辈都喜欢大大方方的孩子",
+      "onboard_time": 1744442303,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 264475,
-      "num": 167878,
+      "num": 181461,
       "word": "大家为什么不嫌弃房东的床垫啊",
       "onboard_time": 1744437623,
       "rank": 31,
@@ -619,11 +659,27 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 261567,
+      "num": 261567,
+      "word": "于正要求旗下艺人红了一定要带弟弟妹妹",
+      "onboard_time": 1744441462,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 254349,
       "num": 254349,
       "word": "阿婆意外坠井身体对折无法动弹",
       "onboard_time": 1744426043,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 253136,
+      "num": 253136,
+      "word": "第一批大风受害者出现了",
+      "onboard_time": 1744440084,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -639,6 +695,14 @@
       "num": 242807,
       "word": "上海大风",
       "onboard_time": 1744437623,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 242076,
+      "num": 242076,
+      "word": "北京大风把小狗吹成海豹了",
+      "onboard_time": 1744440863,
       "rank": 22,
       "category": "民生新闻"
     },
@@ -747,6 +811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 220786,
+      "num": 243435,
+      "word": "阿根廷与中国续签本币互换协议",
+      "onboard_time": 1744441582,
+      "rank": 20,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 219594,
       "num": 219594,
       "word": "严浩翔加冠礼演唱会",
@@ -761,6 +833,14 @@
       "onboard_time": 1744359265,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 215324,
+      "num": 263501,
+      "word": "裸聊网线另一头连着缅北",
+      "onboard_time": 1744440863,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 210528,
@@ -793,6 +873,14 @@
       "onboard_time": 1744387404,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 204001,
+      "num": 204001,
+      "word": "LadyGaga科切拉舞台",
+      "onboard_time": 1744441762,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 203248,
@@ -849,6 +937,14 @@
       "onboard_time": 1744435703,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 195008,
+      "num": 195008,
+      "word": "白鹿王星越 眼神",
+      "onboard_time": 1744441343,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 194318,
@@ -929,6 +1025,14 @@
       "onboard_time": 1744426402,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 186506,
+      "num": 181447,
+      "word": "国乒男队澳门世界杯适应训练",
+      "onboard_time": 1744442002,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 185113,
@@ -1195,6 +1299,14 @@
       "category": "财经,国际时政"
     },
     {
+      "raw_hot": 143508,
+      "num": 143508,
+      "word": "孙燕姿抢票",
+      "onboard_time": 1744440442,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 140866,
       "num": 140866,
       "word": "徐克获金像奖终身成就奖",
@@ -1251,6 +1363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132356,
+      "num": 132356,
+      "word": "好莱坞空前紧张",
+      "onboard_time": 1744442363,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 131627,
       "num": 131627,
       "word": "浪姐每次都压错宝",
@@ -1275,20 +1395,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 130475,
-      "num": 130475,
-      "word": "第一批大风受害者出现了",
-      "onboard_time": 1744440084,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 129818,
       "num": 129818,
       "word": "网红田一名接广告了",
       "onboard_time": 1744418364,
       "rank": 46,
       "category": "网红"
+    },
+    {
+      "raw_hot": 128699,
+      "num": 128699,
+      "word": "孙颖莎谢谢球迷谢谢澳门",
+      "onboard_time": 1744439723,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 127062,
@@ -1363,6 +1483,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 120591,
+      "num": 120591,
+      "word": "雀巢咖啡 陈立农",
+      "onboard_time": 1744442363,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 120475,
       "num": 673839,
       "word": "北方大风实况分享",
@@ -1371,20 +1499,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 119007,
-      "num": 119007,
-      "word": "孙颖莎谢谢球迷谢谢澳门",
-      "onboard_time": 1744439723,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 118606,
       "num": 118606,
       "word": "胡夏演唱会已开启退票通道",
       "onboard_time": 1744375942,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 117765,
+      "num": 217634,
+      "word": "业主想进在建楼盘跟保安先后倒地",
+      "onboard_time": 1744440021,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117544,
@@ -1507,6 +1635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86994,
+      "num": 132991,
+      "word": "地球可能还会变成紫色星球",
+      "onboard_time": 1744442483,
+      "rank": 41,
+      "category": "科学科普,民生新闻"
+    },
+    {
       "raw_hot": 80376,
       "num": 80376,
       "word": "恋与深空报警",
@@ -1563,12 +1699,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 66377,
+      "num": 286077,
+      "word": "对话甲亢哥中国行幕后操盘团队",
+      "onboard_time": 1744441462,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59995,
       "num": 140991,
       "word": "虞书欣你往图里加了什么",
       "onboard_time": 1744413019,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 56057,
+      "num": 128888,
+      "word": "与这个世界格格不入的人",
+      "onboard_time": 1744441343,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 55492,
@@ -1753,14 +1905,6 @@
       "onboard_time": 1744402934,
       "rank": 46,
       "category": "健康医疗,运动健身"
-    },
-    {
-      "raw_hot": 15469,
-      "num": 217634,
-      "word": "业主想进在建楼盘跟保安先后倒地",
-      "onboard_time": 1744440021,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15326,
