@@ -1,0 +1,411 @@
+{
+  "startTime": 1744475262749,
+  "endTime": 1744475262749,
+  "band_list": [
+    {
+      "raw_hot": 1479558,
+      "num": 1479558,
+      "word": "美豁免从中国进口的部分产品关税",
+      "onboard_time": 1744470805,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 1169012,
+      "num": 1169012,
+      "word": "美媒称145%关税无异于对华贸易禁运",
+      "onboard_time": 1744465225,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 1123546,
+      "num": 470539,
+      "word": "女生喉咙痛从就诊到去世仅10分钟",
+      "onboard_time": 1744469426,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1121875,
+      "num": 433088,
+      "word": "曹承衍 金赛纶",
+      "onboard_time": 1744469785,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 853557,
+      "num": 83378,
+      "word": "何同学被评傲慢而不自知",
+      "onboard_time": 1744466126,
+      "rank": 47,
+      "category": "数码,网红"
+    },
+    {
+      "raw_hot": 824905,
+      "num": 824905,
+      "word": "无意识变胖的4个习惯",
+      "onboard_time": 1744472183,
+      "rank": 3,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 806826,
+      "num": 806826,
+      "word": "齐思钧双相",
+      "onboard_time": 1744467385,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 614360,
+      "num": 614360,
+      "word": "美国免除智能手机电脑对等关税",
+      "onboard_time": 1744468468,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 557551,
+      "num": 557551,
+      "word": "杨天真 每一任男友都和我借过钱",
+      "onboard_time": 1744470866,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 412203,
+      "num": 412203,
+      "word": "看无忧渡第一集满脑子都是Sa",
+      "onboard_time": 1744467686,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 404935,
+      "num": 193924,
+      "word": "特朗普把made in china给遮住了",
+      "onboard_time": 1744443084,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 362750,
+      "num": 362750,
+      "word": "宋祖儿好美",
+      "onboard_time": 1744458264,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 338562,
+      "num": 648025,
+      "word": "90艘货船正从中国驶向美国",
+      "onboard_time": 1744457063,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 298769,
+      "num": 523642,
+      "word": "中国企业集体出手无惧关税大棒",
+      "onboard_time": 1744472304,
+      "rank": 8,
+      "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 296223,
+      "num": 296223,
+      "word": "齐思钧自己去看了两年心理治疗",
+      "onboard_time": 1744470685,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 267658,
+      "num": 193697,
+      "word": "无忧渡 无磨皮",
+      "onboard_time": 1744455144,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 257055,
+      "num": 257055,
+      "word": "荷兰议会动议粗暴干涉中国内政",
+      "onboard_time": 1744459464,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 246798,
+      "num": 246798,
+      "word": "金价上涨水贝模式受追捧",
+      "onboard_time": 1744470444,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 227362,
+      "num": 193325,
+      "word": "生理性厌恶的8个表现",
+      "onboard_time": 1744456703,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 225232,
+      "num": 225232,
+      "word": "刘涛太牛了",
+      "onboard_time": 1744466064,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 207835,
+      "num": 207835,
+      "word": "无忧渡",
+      "onboard_time": 1744456823,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 199583,
+      "num": 199583,
+      "word": "胡超 华晨宇",
+      "onboard_time": 1744465705,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 186946,
+      "num": 186946,
+      "word": "白敬亭因为帅被偶遇网友认出",
+      "onboard_time": 1744458683,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 171548,
+      "num": 171548,
+      "word": "全是中国制造的美玩具店主忧心忡忡",
+      "onboard_time": 1744466665,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 168094,
+      "num": 168094,
+      "word": "卤鹅哥称房贷已经停了几个月",
+      "onboard_time": 1744461745,
+      "rank": 25,
+      "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 162359,
+      "num": 162359,
+      "word": "山西省长金湘军被查",
+      "onboard_time": 1744460303,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161526,
+      "num": 161526,
+      "word": "沈腾马丽谁把谁吃了",
+      "onboard_time": 1744471585,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 158876,
+      "num": 158876,
+      "word": "不在小事上消耗孩子",
+      "onboard_time": 1744473802,
+      "rank": 28,
+      "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 149783,
+      "num": 149783,
+      "word": "台当局或将用转基因食品进校园换关税",
+      "onboard_time": 1744472363,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 135849,
+      "num": 135849,
+      "word": "升至125%后为何中国不陪了",
+      "onboard_time": 1744434145,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 126478,
+      "num": 126478,
+      "word": "2025电影票房破250亿",
+      "onboard_time": 1744457063,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 125770,
+      "num": 125770,
+      "word": "杨幂腰间花朵高定",
+      "onboard_time": 1744461025,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 119341,
+      "num": 119341,
+      "word": "汪苏泷星星坠落时首唱",
+      "onboard_time": 1744474223,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 118141,
+      "num": 118141,
+      "word": "张远被王心凌整红温了",
+      "onboard_time": 1744469245,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 110383,
+      "num": 110383,
+      "word": "张杰晒与何老师定格照",
+      "onboard_time": 1744467204,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 109223,
+      "num": 109223,
+      "word": "刘宪华站钢琴上唱歌",
+      "onboard_time": 1744474702,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 99334,
+      "num": 99334,
+      "word": "范丞丞千金不换演特殊群体",
+      "onboard_time": 1744472844,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 97990,
+      "num": 97990,
+      "word": "余宇涵这是在干什么",
+      "onboard_time": 1744469544,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 96373,
+      "num": 152229,
+      "word": "前国乒运动员刘丁硕直播透露已分手",
+      "onboard_time": 1744467984,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 95907,
+      "num": 95907,
+      "word": "林宥嘉说很开心来到王源演唱会",
+      "onboard_time": 1744475061,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 92361,
+      "num": 92361,
+      "word": "沈腾说舍不得马丽演别人的戏",
+      "onboard_time": 1744463725,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 90634,
+      "num": 98291,
+      "word": "国乒无缘太原站男女单决赛",
+      "onboard_time": 1744465405,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 90090,
+      "num": 83752,
+      "word": "王源热爱会让我们的见面变得滚烫",
+      "onboard_time": 1744472183,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 88103,
+      "num": 88103,
+      "word": "时代少年团对接回应五一演唱会",
+      "onboard_time": 1744466485,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 85322,
+      "num": 85322,
+      "word": "特朗普说的暂停90天没完全落实",
+      "onboard_time": 1744464325,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 83791,
+      "num": 83791,
+      "word": "女子做面部提拉手术心脏骤停家属发声",
+      "onboard_time": 1744471104,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82944,
+      "num": 82944,
+      "word": "外交部再发重磅视频",
+      "onboard_time": 1744454484,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 81817,
+      "num": 81817,
+      "word": "64岁老人跟团游猝死家属索赔72.4万",
+      "onboard_time": 1744467324,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64296,
+      "num": 880450,
+      "word": "以斗争精神捍卫国家利益",
+      "onboard_time": 1744472304,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 64095,
+      "num": 503112,
+      "word": "中国制造商明确表示不会降价保订单",
+      "onboard_time": 1744474702,
+      "rank": 9,
+      "category": "国际时政"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#打关税战没有赢家#"
+    }
+  ]
+}
