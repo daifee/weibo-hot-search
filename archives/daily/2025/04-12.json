@@ -1,6 +1,6 @@
 {
   "startTime": 1744389070116,
-  "endTime": 1744462651130,
+  "endTime": 1744464450866,
   "band_list": [
     {
       "raw_hot": 3665401,
@@ -307,6 +307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 816257,
+      "num": 675004,
+      "word": "卤鹅哥称房贷已经停了几个月",
+      "onboard_time": 1744461745,
+      "rank": 16,
+      "category": "网红,民生新闻"
+    },
+    {
       "raw_hot": 791921,
       "num": 394312,
       "word": "王晶 姜涛",
@@ -371,7 +379,7 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 693080,
+      "raw_hot": 694213,
       "num": 467041,
       "word": "滕子京姓滕他不守滕王阁谁守",
       "onboard_time": 1744457964,
@@ -387,11 +395,27 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 680312,
+      "num": 680312,
+      "word": "荷兰议会动议粗暴干涉中国内政",
+      "onboard_time": 1744459464,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 665284,
       "num": 665284,
       "word": "法老被Mac删除好友",
       "onboard_time": 1744387342,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 663352,
+      "num": 663352,
+      "word": "杨幂腰间花朵高定",
+      "onboard_time": 1744461025,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -416,14 +440,6 @@
       "word": "马丽被著名古装戏导演拒绝",
       "onboard_time": 1744447584,
       "rank": 4,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 647983,
-      "num": 584080,
-      "word": "杨幂腰间花朵高定",
-      "onboard_time": 1744461025,
-      "rank": 19,
       "category": "艺人"
     },
     {
@@ -531,6 +547,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 530458,
+      "num": 408614,
+      "word": "上海中心阻尼器开始明显摆动",
+      "onboard_time": 1744461263,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 529924,
       "num": 453683,
       "word": "孟晚舟老公是成都七中校友",
@@ -585,6 +609,14 @@
       "onboard_time": 1744443443,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 487602,
+      "num": 487602,
+      "word": "孟子义我答应她了出来给她签",
+      "onboard_time": 1744461565,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 482562,
@@ -689,14 +721,6 @@
       "onboard_time": 1744382905,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 421428,
-      "num": 421428,
-      "word": "荷兰议会动议粗暴干涉中国内政",
-      "onboard_time": 1744459464,
-      "rank": 15,
-      "category": "国际时政"
     },
     {
       "raw_hot": 417060,
@@ -811,14 +835,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 347926,
-      "num": 347926,
-      "word": "卤鹅哥称房贷已经停了几个月",
-      "onboard_time": 1744461745,
-      "rank": 16,
-      "category": "网红,民生新闻"
-    },
-    {
       "raw_hot": 344750,
       "num": 344750,
       "word": "颜人中戴安全帽演出",
@@ -841,6 +857,14 @@
       "onboard_time": 1744445843,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 336673,
+      "num": 327721,
+      "word": "傅首尔因无法入戏道歉",
+      "onboard_time": 1744463184,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 335155,
@@ -979,14 +1003,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 307439,
-      "num": 307439,
-      "word": "孟子义我答应她了出来给她签",
-      "onboard_time": 1744461565,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 302841,
       "num": 302841,
       "word": "宋小宝造型好像王嘉尔",
@@ -1027,12 +1043,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 283870,
-      "num": 315343,
-      "word": "上海中心阻尼器开始明显摆动",
-      "onboard_time": 1744461263,
+      "raw_hot": 282385,
+      "num": 282385,
+      "word": "梁王组合无缘亚锦赛决赛",
+      "onboard_time": 1744462043,
       "rank": 30,
-      "category": "民生新闻"
+      "category": "体育"
     },
     {
       "raw_hot": 281201,
@@ -1083,6 +1099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 262872,
+      "num": 310103,
+      "word": "美国圣诞节或将出现玩具短缺",
+      "onboard_time": 1744462224,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 262366,
       "num": 487146,
       "word": "2025电影票房破250亿",
@@ -1113,6 +1137,14 @@
       "onboard_time": 1744419863,
       "rank": 27,
       "category": "网红"
+    },
+    {
+      "raw_hot": 243141,
+      "num": 243141,
+      "word": "焦俊艳回应炒股",
+      "onboard_time": 1744461745,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 242807,
@@ -1188,7 +1220,7 @@
     },
     {
       "raw_hot": 232295,
-      "num": 232295,
+      "num": 247138,
       "word": "大风要刮到什么时候",
       "onboard_time": 1744458145,
       "rank": 25,
@@ -1291,20 +1323,20 @@
       "category": "艺人,剧集"
     },
     {
+      "raw_hot": 208937,
+      "num": 208937,
+      "word": "王俊凯说养猫了",
+      "onboard_time": 1744463845,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208935,
       "num": 208935,
       "word": "美团替时团官宣演唱会",
       "onboard_time": 1744426524,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 207910,
-      "num": 207910,
-      "word": "梁王组合无缘亚锦赛决赛",
-      "onboard_time": 1744462043,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 206669,
@@ -1363,12 +1395,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 200053,
-      "num": 200053,
-      "word": "焦俊艳回应炒股",
-      "onboard_time": 1744461745,
+      "raw_hot": 200472,
+      "num": 200472,
+      "word": "沈腾说舍不得马丽演别人的戏",
+      "onboard_time": 1744463725,
       "rank": 31,
-      "category": "艺人"
+      "category": "作品衍生"
     },
     {
       "raw_hot": 200043,
@@ -1449,6 +1481,14 @@
       "onboard_time": 1744417222,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 191646,
+      "num": 191646,
+      "word": "颜安接住了吴镇宇的戏",
+      "onboard_time": 1744463845,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 191113,
@@ -1675,12 +1715,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 173937,
+      "num": 173937,
+      "word": "李昀锐依然会被手指比心笑晕",
+      "onboard_time": 1744462824,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173269,
       "num": 173269,
       "word": "盒马向中国外贸企业开放绿色通道",
       "onboard_time": 1744378105,
       "rank": 24,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 172918,
+      "num": 172918,
+      "word": "猫 你闻起来苦苦的",
+      "onboard_time": 1744464205,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 172701,
@@ -1995,6 +2051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153052,
+      "num": 153052,
+      "word": "苏炳添100米半决赛弃权",
+      "onboard_time": 1744463544,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152955,
       "num": 152955,
       "word": "贾玲新电影饭制海报",
@@ -2211,6 +2275,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 136309,
+      "num": 136309,
+      "word": "阿联酋航班备降深圳5小时不准下机",
+      "onboard_time": 1744464205,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135616,
       "num": 201624,
       "word": "这次大风为何来势汹汹",
@@ -2227,6 +2299,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134416,
+      "num": 134416,
+      "word": "LadyGaga科切拉",
+      "onboard_time": 1744459885,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 134272,
+      "num": 134272,
+      "word": "齐思钧新书",
+      "onboard_time": 1744464024,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134099,
       "num": 134099,
       "word": "33红薯变异成蘑菇",
@@ -2235,12 +2323,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 132138,
-      "num": 132138,
-      "word": "LadyGaga科切拉",
-      "onboard_time": 1744459885,
-      "rank": 45,
-      "category": "演出"
+      "raw_hot": 131765,
+      "num": 209212,
+      "word": "特朗普说的暂停90天没完全落实",
+      "onboard_time": 1744464325,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 131627,
@@ -2683,6 +2771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97949,
+      "num": 188384,
+      "word": "一只流浪猫成了猫医生",
+      "onboard_time": 1744464264,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94869,
       "num": 94869,
       "word": "怀孕时脏器都被挤变形了",
@@ -2737,6 +2833,22 @@
       "onboard_time": 1744442483,
       "rank": 41,
       "category": "科学科普,民生新闻"
+    },
+    {
+      "raw_hot": 83388,
+      "num": 210009,
+      "word": "体系化安全才是全方位安全",
+      "onboard_time": 1744464264,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 83346,
+      "num": 143980,
+      "word": "林孝埈用行动争取更多第一",
+      "onboard_time": 1744464384,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 81684,
@@ -2843,6 +2955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63772,
+      "num": 153647,
+      "word": "甲亢哥中国行不虚此行",
+      "onboard_time": 1744461445,
+      "rank": 39,
+      "category": "网红"
+    },
+    {
       "raw_hot": 63123,
       "num": 377392,
       "word": "当地回应一楼栋外墙脱落致外卖员被砸",
@@ -2929,14 +3049,6 @@
       "onboard_time": 1744391839,
       "rank": 24,
       "category": "财经"
-    },
-    {
-      "raw_hot": 40529,
-      "num": 310103,
-      "word": "美国圣诞节或将出现玩具短缺",
-      "onboard_time": 1744462224,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 39032,
@@ -3049,14 +3161,6 @@
       "onboard_time": 1744430844,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 24357,
-      "num": 146561,
-      "word": "甲亢哥中国行不虚此行",
-      "onboard_time": 1744461445,
-      "rank": 39,
-      "category": "网红"
     },
     {
       "raw_hot": 24286,
