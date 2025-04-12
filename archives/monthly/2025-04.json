@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744482628001,
+  "endTime": 1744483422638,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -12827,6 +12827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 263620,
+      "num": 263620,
+      "word": "10年前辞职看世界的女教师最新回应",
+      "onboard_time": 1744477219,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 263619,
       "num": 263619,
       "word": "低频祝自己生日快乐",
@@ -17185,14 +17193,6 @@
       "onboard_time": 1743757220,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 199329,
-      "num": 199329,
-      "word": "10年前辞职看世界的女教师最新回应",
-      "onboard_time": 1744477219,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 199303,
@@ -37363,6 +37363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29112,
+      "num": 33593,
+      "word": "科切拉彩排",
+      "onboard_time": 1744482556,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 29039,
       "num": 256072,
       "word": "一图梳理多方重磅发声",
@@ -37707,14 +37715,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 25369,
-      "num": 33593,
-      "word": "科切拉彩排",
-      "onboard_time": 1744482556,
-      "rank": 47,
-      "category": "演出"
-    },
-    {
       "raw_hot": 25308,
       "num": 431203,
       "word": "美滥施关税是为自己套上绞索",
@@ -37995,20 +37995,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 23492,
+      "num": 33585,
+      "word": "2025F1巴林大奖赛",
+      "onboard_time": 1744482556,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 23481,
       "num": 35404,
       "word": "阿尔曼",
       "onboard_time": 1744223415,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 23465,
-      "num": 33585,
-      "word": "2025F1巴林大奖赛",
-      "onboard_time": 1744482556,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 23382,
@@ -38105,6 +38105,14 @@
       "onboard_time": 1743618134,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 22563,
+      "num": 28968,
+      "word": "宋祖儿半夏开通角色号",
+      "onboard_time": 1744483218,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 22548,

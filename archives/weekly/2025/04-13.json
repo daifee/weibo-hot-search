@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744482628001,
+  "endTime": 1744483422638,
   "band_list": [
     {
       "raw_hot": 1479558,
@@ -147,6 +147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 263620,
+      "num": 263620,
+      "word": "10年前辞职看世界的女教师最新回应",
+      "onboard_time": 1744477219,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 257055,
       "num": 257055,
       "word": "荷兰议会动议粗暴干涉中国内政",
@@ -193,14 +201,6 @@
       "onboard_time": 1744465705,
       "rank": 19,
       "category": "演出"
-    },
-    {
-      "raw_hot": 199329,
-      "num": 199329,
-      "word": "10年前辞职看世界的女教师最新回应",
-      "onboard_time": 1744477219,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 186946,
@@ -483,7 +483,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 25369,
+      "raw_hot": 29112,
       "num": 33593,
       "word": "科切拉彩排",
       "onboard_time": 1744482556,
@@ -491,12 +491,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 23465,
+      "raw_hot": 23492,
       "num": 33585,
       "word": "2025F1巴林大奖赛",
       "onboard_time": 1744482556,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 22563,
+      "num": 28968,
+      "word": "宋祖儿半夏开通角色号",
+      "onboard_time": 1744483218,
+      "rank": 47,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [
