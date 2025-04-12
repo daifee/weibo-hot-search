@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/12 22:38:48
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/12 23:23:11
 </p>
 </blockquote>
 <p>
@@ -209,6 +209,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94SU7%E9%AB%98%E9%80%9F%E4%B8%8A%E7%A2%B0%E6%92%9E%E7%88%86%E7%87%83%23" target="weibo">
 小米回应SU7高速上碰撞爆燃（热度：2808853）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E5%96%89%E5%92%99%E7%97%9B%E4%BB%8E%E5%B0%B1%E8%AF%8A%E5%88%B0%E5%8E%BB%E4%B8%96%E4%BB%8510%E5%88%86%E9%92%9F%23" target="weibo">
+女生喉咙痛从就诊到去世仅10分钟（热度：2780718）
 </a>
 </li>
 
@@ -867,6 +873,12 @@ RedVelvet 解散（热度：1601334）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BD%90%E6%80%9D%E9%92%A7%E5%8F%8C%E7%9B%B8%23" target="weibo">
+齐思钧双相（热度：1567395）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%A2%E5%B4%A9%E4%BA%86%23" target="weibo">
 美团崩了（热度：1552355）
 </a>
@@ -887,6 +899,12 @@ RedVelvet 解散（热度：1601334）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%AD%E4%B9%90%20%E9%85%B8%E6%A2%85%E7%B2%89%23" target="weibo">
 芭乐 酸梅粉（热度：1546550）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%85%8D%E9%99%A4%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E7%94%B5%E8%84%91%E5%AF%B9%E7%AD%89%E5%85%B3%E7%A8%8E%23" target="weibo">
+美国免除智能手机电脑对等关税（热度：1532925）
 </a>
 </li>
 
@@ -1067,6 +1085,12 @@ RedVelvet 解散（热度：1601334）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E7%AC%91%E4%B8%8D%E5%87%BA%E6%9D%A5%E4%BA%86%23" target="weibo">
 马斯克笑不出来了（热度：1427005）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%B9%E6%89%BF%E8%A1%8D%20%E9%87%91%E8%B5%9B%E7%BA%B6%23" target="weibo">
+曹承衍 金赛纶（热度：1426505）
 </a>
 </li>
 
@@ -1845,6 +1869,12 @@ DeepSeek7小时攻克缅甸救灾语言关（热度：1104741）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E5%90%8C%E5%AD%A6%E8%A2%AB%E8%AF%84%E5%82%B2%E6%85%A2%E8%80%8C%E4%B8%8D%E8%87%AA%E7%9F%A5%23" target="weibo">
+何同学被评傲慢而不自知（热度：1065582）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E7%A7%80%E8%B4%A4%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E%23" target="weibo">
 金秀贤被举报偷税漏税（热度：1064576）
 </a>
@@ -1859,12 +1889,6 @@ DeepSeek7小时攻克缅甸救灾语言关（热度：1104741）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8E%A7%E7%B3%961%E5%B9%B4%E5%90%8E%E7%94%B7%E5%AD%90%E5%87%8F%E7%99%BE%E6%96%A4%E5%B9%B4%E8%BD%BB20%E5%B2%81%23" target="weibo">
 控糖1年后男子减百斤年轻20岁（热度：1062884）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BD%90%E6%80%9D%E9%92%A7%E5%8F%8C%E7%9B%B8%23" target="weibo">
-齐思钧双相（热度：1059434）
 </a>
 </li>
 
@@ -2907,6 +2931,12 @@ YERI和Wendy离开SM（热度：805847）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9C%8B%E6%97%A0%E5%BF%A7%E6%B8%A1%E7%AC%AC%E4%B8%80%E9%9B%86%E6%BB%A1%E8%84%91%E5%AD%90%E9%83%BD%E6%98%AFSa%23" target="weibo">
+看无忧渡第一集满脑子都是Sa（热度：789504）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%20%E5%86%85%E5%A8%B1%E5%8F%B2%E5%AE%98%23" target="weibo">
 杨幂 内娱史官（热度：788545）
 </a>
@@ -3359,12 +3389,6 @@ TVB男演员陈键锋学厨以第一名毕业（热度：726197）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%96%B9%E8%BD%AE%E7%95%AA%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E%E6%B2%A6%E4%B8%BA%E7%AC%91%E8%AF%9D%23" target="weibo">
 美方轮番加征关税沦为笑话（热度：698657）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E5%90%8C%E5%AD%A6%E8%A2%AB%E8%AF%84%E5%82%B2%E6%85%A2%E8%80%8C%E4%B8%8D%E8%87%AA%E7%9F%A5%23" target="weibo">
-何同学被评傲慢而不自知（热度：698188）
 </a>
 </li>
 
@@ -5835,12 +5859,6 @@ Hyunjun公开（热度：426369）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9C%8B%E6%97%A0%E5%BF%A7%E6%B8%A1%E7%AC%AC%E4%B8%80%E9%9B%86%E6%BB%A1%E8%84%91%E5%AD%90%E9%83%BD%E6%98%AFSa%23" target="weibo">
-看无忧渡第一集满脑子都是Sa（热度：425651）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%9C%E4%BA%91%E5%8D%87%E6%B3%95%E8%80%81%23" target="weibo">
 姜云升法老（热度：425420）
 </a>
@@ -5993,24 +6011,6 @@ Hyunjun公开（热度：426369）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%AD%A3%E5%9C%A8%E5%8D%B0%E5%BA%A6%E5%8C%96%23" target="weibo">
 加拿大正在印度化（热度：417396）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E8%A6%81%E6%B1%82%E6%97%97%E4%B8%8B%E8%89%BA%E4%BA%BA%E7%BA%A2%E4%BA%86%E4%B8%80%E5%AE%9A%E8%A6%81%E5%B8%A6%E5%BC%9F%E5%BC%9F%E5%A6%B9%E5%A6%B9%23" target="weibo">
-于正要求旗下艺人红了一定要带弟弟妹妹（热度：417060）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%86%85%E9%83%A8%E4%BA%92%E5%91%9B%23" target="weibo">
-美国内部互呛（热度：416829）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A5%E4%BD%8F%E6%96%B0%E6%88%BF18%E5%A4%A9%E6%B0%B4%E8%B4%B9%E4%BA%A4%E4%BA%8639390%E5%85%83%23" target="weibo">
-入住新房18天水费交了39390元（热度：416715）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1744468728478,
+  "endTime": 1744471391006,
   "band_list": [
     {
       "raw_hot": 18779562,
@@ -169,6 +169,14 @@
       "onboard_time": 1744160004,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 2780718,
+      "num": 416995,
+      "word": "女生喉咙痛从就诊到去世仅10分钟",
+      "onboard_time": 1744469426,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2748067,
@@ -707,6 +715,14 @@
       "category": "网红,作品衍生"
     },
     {
+      "raw_hot": 1567395,
+      "num": 1148326,
+      "word": "齐思钧双相",
+      "onboard_time": 1744467385,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1552355,
       "num": 531554,
       "word": "美团崩了",
@@ -729,6 +745,14 @@
       "onboard_time": 1744273762,
       "rank": 10,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1532925,
+      "num": 1532925,
+      "word": "美国免除智能手机电脑对等关税",
+      "onboard_time": 1744468468,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1529119,
@@ -929,6 +953,14 @@
       "onboard_time": 1744347562,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1426505,
+      "num": 415487,
+      "word": "曹承衍 金赛纶",
+      "onboard_time": 1744469785,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1407610,
@@ -1555,6 +1587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1065582,
+      "num": 1065582,
+      "word": "何同学被评傲慢而不自知",
+      "onboard_time": 1744466126,
+      "rank": 15,
+      "category": "数码,网红"
+    },
+    {
       "raw_hot": 1063349,
       "num": 581421,
       "word": "白鹿模仿苦尽柑来金宣虎笑",
@@ -1569,14 +1609,6 @@
       "onboard_time": 1744263505,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1059434,
-      "num": 714966,
-      "word": "齐思钧双相",
-      "onboard_time": 1744467385,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 1057734,
@@ -2411,6 +2443,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 789504,
+      "num": 789504,
+      "word": "看无忧渡第一集满脑子都是Sa",
+      "onboard_time": 1744467686,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 788545,
       "num": 556249,
       "word": "杨幂 内娱史官",
@@ -2825,14 +2865,6 @@
       "onboard_time": 1744360647,
       "rank": 33,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 698188,
-      "num": 698188,
-      "word": "何同学被评傲慢而不自知",
-      "onboard_time": 1744466126,
-      "rank": 15,
-      "category": "数码,网红"
     },
     {
       "raw_hot": 694344,
@@ -4811,14 +4843,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 425651,
-      "num": 425651,
-      "word": "看无忧渡第一集满脑子都是Sa",
-      "onboard_time": 1744467686,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 425420,
       "num": 425420,
       "word": "姜云升法老",
@@ -5089,6 +5113,14 @@
       "onboard_time": 1744252342,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 403844,
+      "num": 403844,
+      "word": "胡超 华晨宇",
+      "onboard_time": 1744465705,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 403393,
@@ -5545,6 +5577,14 @@
       "onboard_time": 1744182322,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 371540,
+      "num": 371540,
+      "word": "全是中国制造的美玩具店主忧心忡忡",
+      "onboard_time": 1744466665,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 370831,
@@ -6067,14 +6107,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 339782,
-      "num": 339782,
-      "word": "胡超 华晨宇",
-      "onboard_time": 1744465705,
-      "rank": 32,
-      "category": "演出"
-    },
-    {
       "raw_hot": 339385,
       "num": 339385,
       "word": "金秀贤防治法超5万人同意将提审议",
@@ -6337,6 +6369,14 @@
       "onboard_time": 1744440863,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 325544,
+      "num": 405151,
+      "word": "齐思钧自己去看了两年心理治疗",
+      "onboard_time": 1744470685,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 323785,
@@ -7187,6 +7227,14 @@
       "category": "网红,民生新闻"
     },
     {
+      "raw_hot": 290901,
+      "num": 425617,
+      "word": "64岁老人跟团游猝死家属索赔72.4万",
+      "onboard_time": 1744467324,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 290726,
       "num": 290726,
       "word": "马斯克公开挖苦特朗普顾问",
@@ -7305,6 +7353,14 @@
       "onboard_time": 1744093281,
       "rank": 25,
       "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 288932,
+      "num": 256593,
+      "word": "张远被王心凌整红温了",
+      "onboard_time": 1744469245,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 287853,
@@ -8755,14 +8811,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 238712,
-      "num": 238712,
-      "word": "美国免除智能手机电脑对等关税",
-      "onboard_time": 1744468468,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 238646,
       "num": 289254,
       "word": "半熟恋人",
@@ -9017,6 +9065,14 @@
       "onboard_time": 1744008262,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 230497,
+      "num": 257676,
+      "word": "金价上涨水贝模式受追捧",
+      "onboard_time": 1744470444,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 230460,
@@ -9905,6 +9961,14 @@
       "onboard_time": 1744170983,
       "rank": 2,
       "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 213484,
+      "num": 213484,
+      "word": "杨天真 每一任男友都和我借过钱",
+      "onboard_time": 1744470866,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 213348,
@@ -11331,14 +11395,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 193870,
-      "num": 425617,
-      "word": "64岁老人跟团游猝死家属索赔72.4万",
-      "onboard_time": 1744467324,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 193831,
       "num": 193831,
       "word": "男子拿13年前三金变现3万多元",
@@ -11585,6 +11641,14 @@
       "onboard_time": 1744000884,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 191376,
+      "num": 191376,
+      "word": "王源talking好真诚",
+      "onboard_time": 1744470624,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 191367,
@@ -13473,6 +13537,14 @@
       "onboard_time": 1744448603,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168360,
+      "num": 168360,
+      "word": "BLG对战JDG",
+      "onboard_time": 1744468824,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 168244,
@@ -19739,6 +19811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79024,
+      "num": 211621,
+      "word": "上海申花绝杀浙江队",
+      "onboard_time": 1744471284,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78888,
       "num": 909458,
       "word": "10时至22时为北京风力最强时段",
@@ -20387,6 +20467,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 64586,
+      "num": 408755,
+      "word": "女子做面部提拉手术心脏骤停家属发声",
+      "onboard_time": 1744471104,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64530,
       "num": 179649,
       "word": "甲亢哥吃辣条被辣出表情包",
@@ -20929,6 +21017,14 @@
       "onboard_time": 1744067420,
       "rank": 49,
       "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 51490,
+      "num": 411474,
+      "word": "美豁免从中国进口的部分产品关税",
+      "onboard_time": 1744470805,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 51391,
@@ -22337,6 +22433,14 @@
       "onboard_time": 1744222276,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 24024,
+      "num": 256597,
+      "word": "阿航回应备降深圳5小时不准下机",
+      "onboard_time": 1744471223,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23982,

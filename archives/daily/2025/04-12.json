@@ -1,6 +1,6 @@
 {
   "startTime": 1744389070116,
-  "endTime": 1744468728478,
+  "endTime": 1744471391006,
   "band_list": [
     {
       "raw_hot": 3665401,
@@ -25,6 +25,14 @@
       "onboard_time": 1744428804,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 2780718,
+      "num": 416995,
+      "word": "女生喉咙痛从就诊到去世仅10分钟",
+      "onboard_time": 1744469426,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2661580,
@@ -115,6 +123,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1567395,
+      "num": 1148326,
+      "word": "齐思钧双相",
+      "onboard_time": 1744467385,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1532925,
+      "num": 1532925,
+      "word": "美国免除智能手机电脑对等关税",
+      "onboard_time": 1744468468,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1488053,
       "num": 1488053,
       "word": "艺考机构称陈晓已上3次课",
@@ -129,6 +153,14 @@
       "onboard_time": 1744458264,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1426505,
+      "num": 415487,
+      "word": "曹承衍 金赛纶",
+      "onboard_time": 1744469785,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1376004,
@@ -219,12 +251,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1059434,
-      "num": 714966,
-      "word": "齐思钧双相",
-      "onboard_time": 1744467385,
-      "rank": 34,
-      "category": "艺人"
+      "raw_hot": 1065582,
+      "num": 1065582,
+      "word": "何同学被评傲慢而不自知",
+      "onboard_time": 1744466126,
+      "rank": 15,
+      "category": "数码,网红"
     },
     {
       "raw_hot": 1057734,
@@ -355,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 789504,
+      "num": 789504,
+      "word": "看无忧渡第一集满脑子都是Sa",
+      "onboard_time": 1744467686,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 781195,
       "num": 781195,
       "word": "刘涛太牛了",
@@ -425,14 +465,6 @@
       "onboard_time": 1744423524,
       "rank": 13,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 698188,
-      "num": 698188,
-      "word": "何同学被评傲慢而不自知",
-      "onboard_time": 1744466126,
-      "rank": 15,
-      "category": "数码,网红"
     },
     {
       "raw_hot": 694213,
@@ -779,14 +811,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 425651,
-      "num": 425651,
-      "word": "看无忧渡第一集满脑子都是Sa",
-      "onboard_time": 1744467686,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 423992,
       "num": 423992,
       "word": "宋祖儿竟然有这么多待播剧",
@@ -825,6 +849,14 @@
       "onboard_time": 1744384824,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 403844,
+      "num": 403844,
+      "word": "胡超 华晨宇",
+      "onboard_time": 1744465705,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 403061,
@@ -873,6 +905,14 @@
       "onboard_time": 1744413078,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 371540,
+      "num": 371540,
+      "word": "全是中国制造的美玩具店主忧心忡忡",
+      "onboard_time": 1744466665,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 369195,
@@ -947,14 +987,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 339782,
-      "num": 339782,
-      "word": "胡超 华晨宇",
-      "onboard_time": 1744465705,
-      "rank": 32,
-      "category": "演出"
-    },
-    {
       "raw_hot": 336875,
       "num": 336875,
       "word": "无忧渡今日开播",
@@ -1017,6 +1049,14 @@
       "onboard_time": 1744440863,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 325544,
+      "num": 405151,
+      "word": "齐思钧自己去看了两年心理治疗",
+      "onboard_time": 1744470685,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 323785,
@@ -1145,6 +1185,22 @@
       "onboard_time": 1744441343,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 290901,
+      "num": 425617,
+      "word": "64岁老人跟团游猝死家属索赔72.4万",
+      "onboard_time": 1744467324,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 288932,
+      "num": 256593,
+      "word": "张远被王心凌整红温了",
+      "onboard_time": 1744469245,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 287801,
@@ -1323,14 +1379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 238712,
-      "num": 238712,
-      "word": "美国免除智能手机电脑对等关税",
-      "onboard_time": 1744468468,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 238443,
       "num": 238443,
       "word": "五哈",
@@ -1377,6 +1425,14 @@
       "onboard_time": 1744384403,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 230497,
+      "num": 257676,
+      "word": "金价上涨水贝模式受追捧",
+      "onboard_time": 1744470444,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 229996,
@@ -1473,6 +1529,14 @@
       "onboard_time": 1744455263,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 213484,
+      "num": 213484,
+      "word": "杨天真 每一任男友都和我借过钱",
+      "onboard_time": 1744470866,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 212624,
@@ -1651,14 +1715,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 193870,
-      "num": 425617,
-      "word": "64岁老人跟团游猝死家属索赔72.4万",
-      "onboard_time": 1744467324,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 193831,
       "num": 193831,
       "word": "男子拿13年前三金变现3万多元",
@@ -1689,6 +1745,14 @@
       "onboard_time": 1744467565,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191376,
+      "num": 191376,
+      "word": "王源talking好真诚",
+      "onboard_time": 1744470624,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 191113,
@@ -2041,6 +2105,14 @@
       "onboard_time": 1744448603,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168360,
+      "num": 168360,
+      "word": "BLG对战JDG",
+      "onboard_time": 1744468824,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 168037,
@@ -3083,6 +3155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79024,
+      "num": 211621,
+      "word": "上海申花绝杀浙江队",
+      "onboard_time": 1744471284,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78888,
       "num": 909458,
       "word": "10时至22时为北京风力最强时段",
@@ -3171,6 +3251,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 64586,
+      "num": 408755,
+      "word": "女子做面部提拉手术心脏骤停家属发声",
+      "onboard_time": 1744471104,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63859,
       "num": 257312,
       "word": "杀害2人嫌犯曾返家告知父亲其杀人",
@@ -3225,6 +3313,14 @@
       "onboard_time": 1744468104,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51490,
+      "num": 411474,
+      "word": "美豁免从中国进口的部分产品关税",
+      "onboard_time": 1744470805,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 51391,
@@ -3408,6 +3504,14 @@
       "word": "米字贴窗",
       "onboard_time": 1744400474,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24024,
+      "num": 256597,
+      "word": "阿航回应备降深圳5小时不准下机",
+      "onboard_time": 1744471223,
+      "rank": 28,
       "category": "民生新闻"
     },
     {

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/12 00:31:10 ~ 2025/04/12 22:38:48
+本榜单时间：2025/04/12 00:31:10 ~ 2025/04/12 23:23:11
 </p>
 </blockquote>
 <p>
@@ -29,6 +29,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%81%AD%E6%AD%BB%E4%BA%A1%E5%A8%81%E8%83%81%23" target="weibo">
 特朗普遭死亡威胁（热度：3026366）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E5%96%89%E5%92%99%E7%97%9B%E4%BB%8E%E5%B0%B1%E8%AF%8A%E5%88%B0%E5%8E%BB%E4%B8%96%E4%BB%8510%E5%88%86%E9%92%9F%23" target="weibo">
+女生喉咙痛从就诊到去世仅10分钟（热度：2780718）
 </a>
 </li>
 
@@ -99,6 +105,18 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BD%90%E6%80%9D%E9%92%A7%E5%8F%8C%E7%9B%B8%23" target="weibo">
+齐思钧双相（热度：1567395）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%85%8D%E9%99%A4%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E7%94%B5%E8%84%91%E5%AF%B9%E7%AD%89%E5%85%B3%E7%A8%8E%23" target="weibo">
+美国免除智能手机电脑对等关税（热度：1532925）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%89%BA%E8%80%83%E6%9C%BA%E6%9E%84%E7%A7%B0%E9%99%88%E6%99%93%E5%B7%B2%E4%B8%8A3%E6%AC%A1%E8%AF%BE%23" target="weibo">
 艺考机构称陈晓已上3次课（热度：1488053）
 </a>
@@ -107,6 +125,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E7%A5%96%E5%84%BF%E5%A5%BD%E7%BE%8E%23" target="weibo">
 宋祖儿好美（热度：1449995）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%B9%E6%89%BF%E8%A1%8D%20%E9%87%91%E8%B5%9B%E7%BA%B6%23" target="weibo">
+曹承衍 金赛纶（热度：1426505）
 </a>
 </li>
 
@@ -177,8 +201,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BD%90%E6%80%9D%E9%92%A7%E5%8F%8C%E7%9B%B8%23" target="weibo">
-齐思钧双相（热度：1059434）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E5%90%8C%E5%AD%A6%E8%A2%AB%E8%AF%84%E5%82%B2%E6%85%A2%E8%80%8C%E4%B8%8D%E8%87%AA%E7%9F%A5%23" target="weibo">
+何同学被评傲慢而不自知（热度：1065582）
 </a>
 </li>
 
@@ -279,6 +303,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9C%8B%E6%97%A0%E5%BF%A7%E6%B8%A1%E7%AC%AC%E4%B8%80%E9%9B%86%E6%BB%A1%E8%84%91%E5%AD%90%E9%83%BD%E6%98%AFSa%23" target="weibo">
+看无忧渡第一集满脑子都是Sa（热度：789504）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B6%9B%E5%A4%AA%E7%89%9B%E4%BA%86%23" target="weibo">
 刘涛太牛了（热度：781195）
 </a>
@@ -329,12 +359,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%B0%86%E5%85%BB%E5%A5%B3%E6%8E%90%E6%AD%BB%E5%90%8E%E6%89%94%E8%BF%9B%E6%B0%B4%E5%BA%93%23" target="weibo">
 男子将养女掐死后扔进水库（热度：702655）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E5%90%8C%E5%AD%A6%E8%A2%AB%E8%AF%84%E5%82%B2%E6%85%A2%E8%80%8C%E4%B8%8D%E8%87%AA%E7%9F%A5%23" target="weibo">
-何同学被评傲慢而不自知（热度：698188）
 </a>
 </li>
 
@@ -597,12 +621,6 @@ gidle曺薇娟吉克隽逸新歌（热度：482562）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9C%8B%E6%97%A0%E5%BF%A7%E6%B8%A1%E7%AC%AC%E4%B8%80%E9%9B%86%E6%BB%A1%E8%84%91%E5%AD%90%E9%83%BD%E6%98%AFSa%23" target="weibo">
-看无忧渡第一集满脑子都是Sa（热度：425651）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E7%A5%96%E5%84%BF%E7%AB%9F%E7%84%B6%E6%9C%89%E8%BF%99%E4%B9%88%E5%A4%9A%E5%BE%85%E6%92%AD%E5%89%A7%23" target="weibo">
 宋祖儿竟然有这么多待播剧（热度：423992）
 </a>
@@ -629,6 +647,12 @@ gidle曺薇娟吉克隽逸新歌（热度：482562）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%97%A8%E5%A4%B4%E6%B2%9F%E4%B8%80%E5%9C%B0%E9%98%B5%E9%A3%8E13%E7%BA%A7%23" target="weibo">
 门头沟一地阵风13级（热度：408239）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E8%B6%85%20%E5%8D%8E%E6%99%A8%E5%AE%87%23" target="weibo">
+胡超 华晨宇（热度：403844）
 </a>
 </li>
 
@@ -665,6 +689,12 @@ gidle曺薇娟吉克隽逸新歌（热度：482562）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%9C%80%E5%A4%A7%E9%98%B5%E9%A3%8E14%E7%BA%A7%23" target="weibo">
 北京最大阵风14级（热度：390997）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E7%9A%84%E7%BE%8E%E7%8E%A9%E5%85%B7%E5%BA%97%E4%B8%BB%E5%BF%A7%E5%BF%83%E5%BF%A1%E5%BF%A1%23" target="weibo">
+全是中国制造的美玩具店主忧心忡忡（热度：371540）
 </a>
 </li>
 
@@ -723,12 +753,6 @@ gidle曺薇娟吉克隽逸新歌（热度：482562）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E8%B6%85%20%E5%8D%8E%E6%99%A8%E5%AE%87%23" target="weibo">
-胡超 华晨宇（热度：339782）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E5%BF%A7%E6%B8%A1%E4%BB%8A%E6%97%A5%E5%BC%80%E6%92%AD%23" target="weibo">
 无忧渡今日开播（热度：336875）
 </a>
@@ -773,6 +797,12 @@ gidle曺薇娟吉克隽逸新歌（热度：482562）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A3%B8%E8%81%8A%E7%BD%91%E7%BA%BF%E5%8F%A6%E4%B8%80%E5%A4%B4%E8%BF%9E%E7%9D%80%E7%BC%85%E5%8C%97%23" target="weibo">
 裸聊网线另一头连着缅北（热度：325911）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BD%90%E6%80%9D%E9%92%A7%E8%87%AA%E5%B7%B1%E5%8E%BB%E7%9C%8B%E4%BA%86%E4%B8%A4%E5%B9%B4%E5%BF%83%E7%90%86%E6%B2%BB%E7%96%97%23" target="weibo">
+齐思钧自己去看了两年心理治疗（热度：325544）
 </a>
 </li>
 
@@ -869,6 +899,18 @@ LadyGaga科切拉舞台（热度：310795）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E7%8E%8B%E6%98%9F%E8%B6%8A%20%E7%9C%BC%E7%A5%9E%23" target="weibo">
 白鹿王星越 眼神（热度：294835）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2364%E5%B2%81%E8%80%81%E4%BA%BA%E8%B7%9F%E5%9B%A2%E6%B8%B8%E7%8C%9D%E6%AD%BB%E5%AE%B6%E5%B1%9E%E7%B4%A2%E8%B5%9472.4%E4%B8%87%23" target="weibo">
+64岁老人跟团游猝死家属索赔72.4万（热度：290901）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%BF%9C%E8%A2%AB%E7%8E%8B%E5%BF%83%E5%87%8C%E6%95%B4%E7%BA%A2%E6%B8%A9%E4%BA%86%23" target="weibo">
+张远被王心凌整红温了（热度：288932）
 </a>
 </li>
 
@@ -1005,12 +1047,6 @@ LadyGaga科切拉舞台（热度：310795）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%85%8D%E9%99%A4%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E7%94%B5%E8%84%91%E5%AF%B9%E7%AD%89%E5%85%B3%E7%A8%8E%23" target="weibo">
-美国免除智能手机电脑对等关税（热度：238712）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E5%93%88%23" target="weibo">
 五哈（热度：238443）
 </a>
@@ -1043,6 +1079,12 @@ LadyGaga科切拉舞台（热度：310795）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%9F%E8%B6%8A%E5%8F%88%E5%9D%90%E5%9C%B0%E9%93%81%E5%8E%BB%E4%B8%8A%E7%8F%AD%E4%BA%86%23" target="weibo">
 王星越又坐地铁去上班了（热度：230716）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%B8%8A%E6%B6%A8%E6%B0%B4%E8%B4%9D%E6%A8%A1%E5%BC%8F%E5%8F%97%E8%BF%BD%E6%8D%A7%23" target="weibo">
+金价上涨水贝模式受追捧（热度：230497）
 </a>
 </li>
 
@@ -1115,6 +1157,12 @@ LadyGaga科切拉舞台（热度：310795）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23SMTR25%E6%88%90%E5%91%98%E5%85%AC%E5%BC%8F%E7%85%A7%23" target="weibo">
 SMTR25成员公式照（热度：215559）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%A4%A9%E7%9C%9F%20%E6%AF%8F%E4%B8%80%E4%BB%BB%E7%94%B7%E5%8F%8B%E9%83%BD%E5%92%8C%E6%88%91%E5%80%9F%E8%BF%87%E9%92%B1%23" target="weibo">
+杨天真 每一任男友都和我借过钱（热度：213484）
 </a>
 </li>
 
@@ -1251,12 +1299,6 @@ K总第三场婚礼伴郎团（热度：194318）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2364%E5%B2%81%E8%80%81%E4%BA%BA%E8%B7%9F%E5%9B%A2%E6%B8%B8%E7%8C%9D%E6%AD%BB%E5%AE%B6%E5%B1%9E%E7%B4%A2%E8%B5%9472.4%E4%B8%87%23" target="weibo">
-64岁老人跟团游猝死家属索赔72.4万（热度：193870）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8B%BF13%E5%B9%B4%E5%89%8D%E4%B8%89%E9%87%91%E5%8F%98%E7%8E%B03%E4%B8%87%E5%A4%9A%E5%85%83%23" target="weibo">
 男子拿13年前三金变现3万多元（热度：193831）
 </a>
@@ -1277,6 +1319,12 @@ K总第三场婚礼伴郎团（热度：194318）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%99%E5%AE%87%E6%B6%B5%20%E6%90%9E%E7%AC%91%23" target="weibo">
 余宇涵 搞笑（热度：192441）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90talking%E5%A5%BD%E7%9C%9F%E8%AF%9A%23" target="weibo">
+王源talking好真诚（热度：191376）
 </a>
 </li>
 
@@ -1541,6 +1589,12 @@ LPL（热度：176463）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%BA%9A%E6%9D%8E%E6%89%BF%E9%93%89%E8%81%8A%E5%9C%A8%E9%9F%A9%E6%96%B0%E4%BA%BA%E6%96%87%E5%8C%96%23" target="weibo">
 韩庚李承铉聊在韩新人文化（热度：168409）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23BLG%E5%AF%B9%E6%88%98JDG%23" target="weibo">
+BLG对战JDG（热度：168360）
 </a>
 </li>
 
@@ -2325,6 +2379,12 @@ WaterBomb（热度：117544）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E7%94%B3%E8%8A%B1%E7%BB%9D%E6%9D%80%E6%B5%99%E6%B1%9F%E9%98%9F%23" target="weibo">
+上海申花绝杀浙江队（热度：79024）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2310%E6%97%B6%E8%87%B322%E6%97%B6%E4%B8%BA%E5%8C%97%E4%BA%AC%E9%A3%8E%E5%8A%9B%E6%9C%80%E5%BC%BA%E6%97%B6%E6%AE%B5%23" target="weibo">
 10时至22时为北京风力最强时段（热度：78888）
 </a>
@@ -2391,6 +2451,12 @@ WaterBomb（热度：117544）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%81%9A%E9%9D%A2%E9%83%A8%E6%8F%90%E6%8B%89%E6%89%8B%E6%9C%AF%E5%BF%83%E8%84%8F%E9%AA%A4%E5%81%9C%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0%23" target="weibo">
+女子做面部提拉手术心脏骤停家属发声（热度：64586）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%80%E5%AE%B32%E4%BA%BA%E5%AB%8C%E7%8A%AF%E6%9B%BE%E8%BF%94%E5%AE%B6%E5%91%8A%E7%9F%A5%E7%88%B6%E4%BA%B2%E5%85%B6%E6%9D%80%E4%BA%BA%23" target="weibo">
 杀害2人嫌犯曾返家告知父亲其杀人（热度：63859）
 </a>
@@ -2429,6 +2495,12 @@ plave空降waw漫展（热度：55894）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC7%E4%B8%AA%E5%8C%BA%E5%A4%A7%E9%A3%8E%E9%A2%84%E8%AD%A6%E9%99%8D%E7%BA%A7%23" target="weibo">
 北京7个区大风预警降级（热度：52960）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%B1%81%E5%85%8D%E4%BB%8E%E4%B8%AD%E5%9B%BD%E8%BF%9B%E5%8F%A3%E7%9A%84%E9%83%A8%E5%88%86%E4%BA%A7%E5%93%81%E5%85%B3%E7%A8%8E%23" target="weibo">
+美豁免从中国进口的部分产品关税（热度：51490）
 </a>
 </li>
 
@@ -2567,6 +2639,12 @@ plave空降waw漫展（热度：55894）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%B1%B3%E5%AD%97%E8%B4%B4%E7%AA%97%23" target="weibo">
 米字贴窗（热度：24286）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E8%88%AA%E5%9B%9E%E5%BA%94%E5%A4%87%E9%99%8D%E6%B7%B1%E5%9C%B35%E5%B0%8F%E6%97%B6%E4%B8%8D%E5%87%86%E4%B8%8B%E6%9C%BA%23" target="weibo">
+阿航回应备降深圳5小时不准下机（热度：24024）
 </a>
 </li>
 
