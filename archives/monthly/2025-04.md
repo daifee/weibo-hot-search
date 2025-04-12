@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/12 22:20:54
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/12 22:38:48
 </p>
 </blockquote>
 <p>
@@ -243,6 +243,12 @@ A股（热度：2689460）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AA%92%E7%A7%B0145%25%E5%85%B3%E7%A8%8E%E6%97%A0%E5%BC%82%E4%BA%8E%E5%AF%B9%E5%8D%8E%E8%B4%B8%E6%98%93%E7%A6%81%E8%BF%90%23" target="weibo">
+美媒称145%关税无异于对华贸易禁运（热度：2661580）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%88%9A%E8%A2%AB%E5%8F%8C%E5%BC%80%23" target="weibo">
 李刚被双开（热度：2623060）
 </a>
@@ -359,12 +365,6 @@ C罗点评甲亢哥中国行（热度：2472029）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8C%97%E8%BF%81%E5%AE%893.7%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
 河北迁安3.7级地震（热度：2305389）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AA%92%E7%A7%B0145%25%E5%85%B3%E7%A8%8E%E6%97%A0%E5%BC%82%E4%BA%8E%E5%AF%B9%E5%8D%8E%E8%B4%B8%E6%98%93%E7%A6%81%E8%BF%90%23" target="weibo">
-美媒称145%关税无异于对华贸易禁运（热度：2293466）
 </a>
 </li>
 
@@ -1863,6 +1863,12 @@ DeepSeek7小时攻克缅甸救灾语言关（热度：1104741）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BD%90%E6%80%9D%E9%92%A7%E5%8F%8C%E7%9B%B8%23" target="weibo">
+齐思钧双相（热度：1059434）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E7%9C%81%E9%95%BF%E9%87%91%E6%B9%98%E5%86%9B%E8%A2%AB%E6%9F%A5%23" target="weibo">
 山西省长金湘军被查（热度：1057734）
 </a>
@@ -2925,6 +2931,12 @@ YERI和Wendy离开SM（热度：805847）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B6%9B%E5%A4%AA%E7%89%9B%E4%BA%86%23" target="weibo">
+刘涛太牛了（热度：781195）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%A4%8F%E6%BC%94%E5%94%B1%E4%BC%9A%E5%B7%B2%E5%BC%80%E5%90%AF%E9%80%80%E7%A5%A8%E9%80%9A%E9%81%93%23" target="weibo">
 胡夏演唱会已开启退票通道（热度：779676）
 </a>
@@ -3351,6 +3363,12 @@ TVB男演员陈键锋学厨以第一名毕业（热度：726197）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E5%90%8C%E5%AD%A6%E8%A2%AB%E8%AF%84%E5%82%B2%E6%85%A2%E8%80%8C%E4%B8%8D%E8%87%AA%E7%9F%A5%23" target="weibo">
+何同学被评傲慢而不自知（热度：698188）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E8%A2%AB%E5%89%8D%E7%94%B7%E5%8F%8B%E6%9D%80%E5%AE%B35%E5%B9%B4%E5%90%8E%E4%BB%8D%E6%97%A0%E6%B3%95%E5%AE%89%E8%91%AC%23" target="weibo">
 女生被前男友杀害5年后仍无法安葬（热度：694527）
 </a>
@@ -3671,6 +3689,12 @@ Prada正式收购范思哲（热度：644741）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B2%E4%BA%A2%E5%93%A5%E7%A9%BA%E7%9D%80%E8%84%96%E5%AD%90%E6%9D%A5%E6%8C%82%E7%9D%80%E8%BE%A3%E6%A4%92%E8%B5%B0%E4%BA%86%23" target="weibo">
 甲亢哥空着脖子来挂着辣椒走了（热度：638069）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E8%AF%B4%E8%88%8D%E4%B8%8D%E5%BE%97%E9%A9%AC%E4%B8%BD%E6%BC%94%E5%88%AB%E4%BA%BA%E7%9A%84%E6%88%8F%23" target="weibo">
+沈腾说舍不得马丽演别人的戏（热度：637076）
 </a>
 </li>
 
@@ -4845,12 +4869,6 @@ TOP登陆少年官宣晋江演唱会（热度：507208）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B6%9B%E5%A4%AA%E7%89%9B%E4%BA%86%23" target="weibo">
-刘涛太牛了（热度：506971）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E8%B5%AB%E6%91%94%E5%80%92%E5%8F%97%E4%BC%A4%E7%9A%84%E6%98%AF%E9%BB%84%E7%A3%8A%23" target="weibo">
 陈赫摔倒受伤的是黄磊（热度：506489）
 </a>
@@ -4913,12 +4931,6 @@ TOP登陆少年官宣晋江演唱会（热度：507208）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AA%92%E7%A7%B0iPhone%E6%9C%80%E9%AB%98%E6%88%96%E6%B6%A8%E8%87%B31.6%E4%B8%87%E5%85%83%23" target="weibo">
 美媒称iPhone最高或涨至1.6万元（热度：500528）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E8%AF%B4%E8%88%8D%E4%B8%8D%E5%BE%97%E9%A9%AC%E4%B8%BD%E6%BC%94%E5%88%AB%E4%BA%BA%E7%9A%84%E6%88%8F%23" target="weibo">
-沈腾说舍不得马丽演别人的戏（热度：500372）
 </a>
 </li>
 
@@ -5463,6 +5475,12 @@ hanbi公开（热度：468837）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E8%87%B4%E6%95%AC%E6%AF%8F%E4%B8%80%E9%A2%97%E6%B0%B8%E4%B8%8D%E8%A8%80%E5%BC%83%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%BF%83%23" target="weibo">
+张杰致敬每一颗永不言弃的中国心（热度：457908）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%BA%BA%E5%9D%874%E5%8D%83%E9%A4%90%E5%8E%85%E7%94%9C%E5%93%81%E6%98%AF%E5%A4%A7%E8%B1%A1%E7%B2%AA%E4%BE%BF%23" target="weibo">
 上海人均4千餐厅甜品是大象粪便（热度：457259）
 </a>
@@ -5757,12 +5775,6 @@ Hamin公开（热度：442270）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E8%87%B4%E6%95%AC%E6%AF%8F%E4%B8%80%E9%A2%97%E6%B0%B8%E4%B8%8D%E8%A8%80%E5%BC%83%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%BF%83%23" target="weibo">
-张杰致敬每一颗永不言弃的中国心（热度：432380）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E4%B8%80%E6%B8%B8%E5%9B%AD%E5%85%85%E6%B0%94%E5%A0%A1%E8%A2%AB%E5%A4%A7%E9%A3%8E%E5%88%AE%E5%88%B0%E9%A9%AC%E8%B7%AF%E4%B8%8A%23" target="weibo">
 郑州一游园充气堡被大风刮到马路上（热度：431950）
 </a>
@@ -5819,6 +5831,12 @@ Hyunjun公开（热度：426369）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%B6%85%E8%B6%8A%E5%9B%9E%E5%A4%8Dvava%E9%81%93%E6%AD%89%23" target="weibo">
 杨超越回复vava道歉（热度：426074）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9C%8B%E6%97%A0%E5%BF%A7%E6%B8%A1%E7%AC%AC%E4%B8%80%E9%9B%86%E6%BB%A1%E8%84%91%E5%AD%90%E9%83%BD%E6%98%AFSa%23" target="weibo">
+看无忧渡第一集满脑子都是Sa（热度：425651）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ Hyunjun公开（热度：426369）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A5%E4%BD%8F%E6%96%B0%E6%88%BF18%E5%A4%A9%E6%B0%B4%E8%B4%B9%E4%BA%A4%E4%BA%8639390%E5%85%83%23" target="weibo">
 入住新房18天水费交了39390元（热度：416715）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%234%E4%BA%BA%E5%8D%96%E9%9E%8B%E4%BA%8F%E6%8D%9F%E5%90%8E%E8%BD%AC%E5%8D%96%E4%BF%9D%E5%81%A5%E5%93%81%E9%AA%97%E4%BA%86%E8%B6%8510%E4%BA%BF%23" target="weibo">
-4人卖鞋亏损后转卖保健品骗了超10亿（热度：415786）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%89%E9%81%87%23" target="weibo">
-光遇（热度：415777）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23NINEPERCENT%E4%B8%83%E5%91%A8%E5%B9%B4%23" target="weibo">
-NINEPERCENT七周年（热度：415549）
 </a>
 </li>
 
