@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744476165569,
+  "endTime": 1744478467441,
   "band_list": [
     {
       "raw_hot": 1479558,
@@ -33,6 +33,14 @@
       "onboard_time": 1744469785,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 946050,
+      "num": 234163,
+      "word": "男子舌头长到能舔胳膊肘",
+      "onboard_time": 1744476799,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 853557,
@@ -123,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 270693,
+      "num": 503112,
+      "word": "中国制造商明确表示不会降价保订单",
+      "onboard_time": 1744474702,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 267658,
       "num": 193697,
       "word": "无忧渡 无磨皮",
@@ -136,14 +152,6 @@
       "word": "荷兰议会动议粗暴干涉中国内政",
       "onboard_time": 1744459464,
       "rank": 15,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 247427,
-      "num": 503112,
-      "word": "中国制造商明确表示不会降价保订单",
-      "onboard_time": 1744474702,
-      "rank": 9,
       "category": "国际时政"
     },
     {
@@ -212,7 +220,7 @@
     },
     {
       "raw_hot": 162359,
-      "num": 162359,
+      "num": 163282,
       "word": "山西省长金湘军被查",
       "onboard_time": 1744460303,
       "rank": 26,
@@ -419,12 +427,44 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 39395,
+      "raw_hot": 61582,
       "num": 157683,
       "word": "49岁卤鹅哥曾7次创业失败",
       "onboard_time": 1744475900,
       "rank": 23,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 51902,
+      "num": 51902,
+      "word": "汪苏泷唱愚公移山主题曲",
+      "onboard_time": 1744476799,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 47299,
+      "num": 48367,
+      "word": "BLG对战JDG",
+      "onboard_time": 1744468824,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 44579,
+      "num": 48363,
+      "word": "上海中心阻尼器开始明显摆动",
+      "onboard_time": 1744461263,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28154,
+      "num": 254927,
+      "word": "关税战阻碍不了中国人前进的步伐",
+      "onboard_time": 1744477939,
+      "rank": 9,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [

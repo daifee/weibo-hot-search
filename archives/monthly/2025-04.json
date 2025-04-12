@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744476165569,
+  "endTime": 1744478467441,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -2993,6 +2993,14 @@
       "onboard_time": 1743927201,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 946050,
+      "num": 234163,
+      "word": "男子舌头长到能舔胳膊肘",
+      "onboard_time": 1744476799,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 945914,
@@ -12507,6 +12515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 270693,
+      "num": 503112,
+      "word": "中国制造商明确表示不会降价保订单",
+      "onboard_time": 1744474702,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 270523,
       "num": 252855,
       "word": "tata公开",
@@ -13537,14 +13553,6 @@
       "onboard_time": 1744080323,
       "rank": 13,
       "category": "财经,国内时政"
-    },
-    {
-      "raw_hot": 247427,
-      "num": 503112,
-      "word": "中国制造商明确表示不会降价保订单",
-      "onboard_time": 1744474702,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 247225,
@@ -34539,6 +34547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 61582,
+      "num": 157683,
+      "word": "49岁卤鹅哥曾7次创业失败",
+      "onboard_time": 1744475900,
+      "rank": 23,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 61551,
       "num": 61551,
       "word": "库克套现1.75亿",
@@ -35321,6 +35337,14 @@
       "onboard_time": 1744067420,
       "rank": 49,
       "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 51902,
+      "num": 51902,
+      "word": "汪苏泷唱愚公移山主题曲",
+      "onboard_time": 1744476799,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 51517,
@@ -36337,14 +36361,6 @@
       "onboard_time": 1743958698,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 39395,
-      "num": 157683,
-      "word": "49岁卤鹅哥曾7次创业失败",
-      "onboard_time": 1744475900,
-      "rank": 23,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 39393,
@@ -37409,6 +37425,14 @@
       "onboard_time": 1743894977,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28154,
+      "num": 254927,
+      "word": "关税战阻碍不了中国人前进的步伐",
+      "onboard_time": 1744477939,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 28014,
