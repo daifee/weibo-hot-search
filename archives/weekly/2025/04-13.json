@@ -1,10 +1,10 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744497545932,
+  "endTime": 1744500211675,
   "band_list": [
     {
-      "raw_hot": 1479558,
-      "num": 1479558,
+      "raw_hot": 1586291,
+      "num": 1586291,
       "word": "美豁免从中国进口的部分产品关税",
       "onboard_time": 1744470805,
       "rank": 0,
@@ -75,6 +75,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 584236,
+      "num": 584236,
+      "word": "10年前辞职看世界的女教师最新回应",
+      "onboard_time": 1744477219,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 557551,
       "num": 557551,
       "word": "杨天真 每一任男友都和我借过钱",
@@ -115,20 +123,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 358196,
-      "num": 358196,
-      "word": "10年前辞职看世界的女教师最新回应",
-      "onboard_time": 1744477219,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 338562,
       "num": 648025,
       "word": "90艘货船正从中国驶向美国",
       "onboard_time": 1744457063,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 328292,
+      "num": 178102,
+      "word": "陈芋汐10米台冠军",
+      "onboard_time": 1744499478,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 296223,
@@ -211,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172524,
+      "num": 172524,
+      "word": "外交部英文告诉世界天塌不下来",
+      "onboard_time": 1744486816,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 171548,
       "num": 171548,
       "word": "全是中国制造的美玩具店主忧心忡忡",
@@ -251,6 +267,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 152916,
+      "num": 152916,
+      "word": "雷公自曝寻子川川成功10月后被拉黑",
+      "onboard_time": 1744487655,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149783,
       "num": 149783,
       "word": "台当局或将用转基因食品进校园换关税",
@@ -265,14 +289,6 @@
       "onboard_time": 1744434145,
       "rank": 31,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 128718,
-      "num": 95920,
-      "word": "外交部英文告诉世界天塌不下来",
-      "onboard_time": 1744486816,
-      "rank": 23,
-      "category": "国内时政"
     },
     {
       "raw_hot": 126478,
@@ -427,12 +443,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 72298,
-      "num": 72298,
-      "word": "雷公自曝寻子川川成功10月后被拉黑",
-      "onboard_time": 1744487655,
-      "rank": 27,
-      "category": "民生新闻"
+      "raw_hot": 79344,
+      "num": 79344,
+      "word": "美国滥施关税后欧洲领导人访华",
+      "onboard_time": 1744499478,
+      "rank": 31,
+      "category": "正能量"
     },
     {
       "raw_hot": 69004,
@@ -459,6 +475,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 58683,
+      "num": 58683,
+      "word": "内蒙古大风把蒙古獒幼崽吹到牧民家",
+      "onboard_time": 1744487355,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51902,
       "num": 51902,
       "word": "汪苏泷唱愚公移山主题曲",
@@ -483,12 +507,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46702,
+      "num": 46702,
+      "word": "阿尔曼要diss严浩翔",
+      "onboard_time": 1744499717,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 43936,
+      "num": 43936,
+      "word": "我的后半生",
+      "onboard_time": 1744495094,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 42014,
       "num": 254927,
       "word": "关税战阻碍不了中国人前进的步伐",
       "onboard_time": 1744477939,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 41377,
+      "num": 41377,
+      "word": "殉职的白月光被抓的姐孤独的她",
+      "onboard_time": 1744497496,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 40264,
@@ -507,14 +555,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 35565,
-      "num": 35565,
-      "word": "内蒙古大风把蒙古獒幼崽吹到牧民家",
-      "onboard_time": 1744487355,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 34239,
       "num": 34239,
       "word": "科切拉彩排",
@@ -529,6 +569,14 @@
       "onboard_time": 1744490595,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 28332,
+      "num": 197929,
+      "word": "美债抛售对美国有什么影响",
+      "onboard_time": 1744499599,
+      "rank": 8,
+      "category": "国际时政,财经"
     },
     {
       "raw_hot": 23492,
@@ -547,6 +595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 22717,
+      "num": 190037,
+      "word": "美专家称投资者在撤出美国市场",
+      "onboard_time": 1744499657,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 22563,
       "num": 28968,
       "word": "宋祖儿半夏开通角色号",
@@ -561,14 +617,6 @@
       "onboard_time": 1744483875,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 18478,
-      "num": 24390,
-      "word": "我的后半生",
-      "onboard_time": 1744495094,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 17772,
@@ -587,20 +635,36 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 14448,
-      "num": 24373,
-      "word": "殉职的白月光被抓的姐孤独的她",
-      "onboard_time": 1744497496,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 14439,
       "num": 42932,
       "word": "200秒了解美国蛋荒危机发酵的背后",
       "onboard_time": 1744488674,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 12091,
+      "num": 156115,
+      "word": "伊美称首次谈判积极并具建设性",
+      "onboard_time": 1744499717,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 10677,
+      "num": 79431,
+      "word": "美债抛售潮冲击美元霸权",
+      "onboard_time": 1744500137,
+      "rank": 30,
+      "category": "财经,国际时政"
+    },
+    {
+      "raw_hot": 8997,
+      "num": 139176,
+      "word": "大风已到山东",
+      "onboard_time": 1744499898,
+      "rank": 23,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
