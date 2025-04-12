@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744478467441,
+  "endTime": 1744479533457,
   "band_list": [
     {
       "raw_hot": 1479558,
@@ -459,12 +459,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 28154,
+      "raw_hot": 42014,
       "num": 254927,
       "word": "关税战阻碍不了中国人前进的步伐",
       "onboard_time": 1744477939,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 40264,
+      "num": 40264,
+      "word": "孟子义我答应她了出来给她签",
+      "onboard_time": 1744461565,
+      "rank": 45,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
