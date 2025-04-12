@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744493815590,
+  "endTime": 1744496527493,
   "band_list": [
     {
       "raw_hot": 1479558,
@@ -131,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 271938,
+      "num": 271938,
+      "word": "10年前辞职看世界的女教师最新回应",
+      "onboard_time": 1744477219,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 270693,
       "num": 503112,
       "word": "中国制造商明确表示不会降价保订单",
@@ -145,14 +153,6 @@
       "onboard_time": 1744455144,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 263620,
-      "num": 263620,
-      "word": "10年前辞职看世界的女教师最新回应",
-      "onboard_time": 1744477219,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 257055,
@@ -315,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 105415,
+      "num": 56543,
+      "word": "外交部英文告诉世界天塌不下来",
+      "onboard_time": 1744486816,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 99334,
       "num": 99334,
       "word": "范丞丞千金不换演特殊群体",
@@ -443,6 +451,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 58672,
+      "num": 51613,
+      "word": "雷公自曝寻子川川成功10月后被拉黑",
+      "onboard_time": 1744487655,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51902,
       "num": 51902,
       "word": "汪苏泷唱愚公移山主题曲",
@@ -451,28 +467,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 50068,
-      "num": 32914,
-      "word": "雷公自曝寻子川川成功10月后被拉黑",
-      "onboard_time": 1744487655,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 47299,
       "num": 48367,
       "word": "BLG对战JDG",
       "onboard_time": 1744468824,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 45234,
-      "num": 32349,
-      "word": "外交部英文告诉世界天塌不下来",
-      "onboard_time": 1744486816,
-      "rank": 23,
-      "category": "国内时政"
     },
     {
       "raw_hot": 44579,
@@ -515,12 +515,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 25097,
-      "num": 25097,
+      "raw_hot": 33012,
+      "num": 33012,
       "word": "内蒙古大风把蒙古獒幼崽吹到牧民家",
       "onboard_time": 1744487355,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27144,
+      "num": 27144,
+      "word": "胃接收不到正确的食物会变成无底洞",
+      "onboard_time": 1744490595,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 23492,
@@ -555,14 +563,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 20184,
-      "num": 20184,
-      "word": "胃接收不到正确的食物会变成无底洞",
-      "onboard_time": 1744490595,
-      "rank": 34,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 17772,
       "num": 26146,
       "word": "周深从澳洲闪现吉隆坡的后台",
@@ -585,6 +585,14 @@
       "onboard_time": 1744488674,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 13529,
+      "num": 22196,
+      "word": "我的后半生",
+      "onboard_time": 1744495094,
+      "rank": 47,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [
