@@ -1,6 +1,6 @@
 {
   "startTime": 1744389070116,
-  "endTime": 1744427549614,
+  "endTime": 1744429672511,
   "band_list": [
     {
       "raw_hot": 3665401,
@@ -35,20 +35,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 2138977,
+      "num": 2138977,
+      "word": "何同学 网约车",
+      "onboard_time": 1744425142,
+      "rank": 3,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1938262,
       "num": 1938262,
       "word": "大风到哪了",
       "onboard_time": 1744363704,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1704794,
-      "num": 1704794,
-      "word": "何同学 网约车",
-      "onboard_time": 1744425142,
-      "rank": 3,
-      "category": "网红"
     },
     {
       "raw_hot": 1488053,
@@ -81,6 +81,14 @@
       "onboard_time": 1744418723,
       "rank": 3,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1302544,
+      "num": 1302544,
+      "word": "特朗普遭死亡威胁",
+      "onboard_time": 1744428804,
+      "rank": 3,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1288722,
@@ -123,6 +131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 888357,
+      "num": 888357,
+      "word": "宋祖儿正式回归",
+      "onboard_time": 1744428804,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 855111,
       "num": 855111,
       "word": "大风到北京城区了",
@@ -136,6 +152,22 @@
       "word": "折腰",
       "onboard_time": 1744425802,
       "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 851215,
+      "num": 851215,
+      "word": "她留在了他最爱的那一年",
+      "onboard_time": 1744427304,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 773860,
+      "num": 579567,
+      "word": "宋祖儿时隔三年再播剧",
+      "onboard_time": 1744426704,
+      "rank": 33,
       "category": "剧集"
     },
     {
@@ -179,6 +211,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 587989,
+      "num": 587989,
+      "word": "美国到底有多依赖中国商品",
+      "onboard_time": 1744427003,
+      "rank": 9,
+      "category": "国际时政,财经"
+    },
+    {
       "raw_hot": 579604,
       "num": 917513,
       "word": "中企抢购巴西大豆后美国农民心凉了",
@@ -193,6 +233,14 @@
       "onboard_time": 1744414820,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 565205,
+      "num": 565205,
+      "word": "时代少年团海口演唱会",
+      "onboard_time": 1744426582,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 551860,
@@ -281,14 +329,6 @@
       "onboard_time": 1744424304,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 367929,
-      "num": 367929,
-      "word": "宋祖儿时隔三年再播剧",
-      "onboard_time": 1744426704,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 358787,
@@ -427,6 +467,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 237934,
+      "num": 276000,
+      "word": "韩安冉回应直播卖宠物狗",
+      "onboard_time": 1744428742,
+      "rank": 19,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 237060,
+      "num": 237060,
+      "word": "蔡徐坤南昌活动",
+      "onboard_time": 1744428862,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 236054,
       "num": 236054,
       "word": "北京极端大风今天进入最强时段",
@@ -491,14 +547,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 222630,
-      "num": 222630,
-      "word": "时代少年团海口演唱会",
-      "onboard_time": 1744426582,
-      "rank": 35,
-      "category": "演出"
-    },
-    {
       "raw_hot": 217668,
       "num": 217668,
       "word": "美国输华商品已无市场接受可能性",
@@ -555,6 +603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 194318,
+      "num": 194318,
+      "word": "K总第三场婚礼伴郎团",
+      "onboard_time": 1744427123,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 193831,
       "num": 193831,
       "word": "男子拿13年前三金变现3万多元",
@@ -563,12 +619,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 193424,
-      "num": 193424,
-      "word": "她留在了他最爱的那一年",
-      "onboard_time": 1744427304,
-      "rank": 36,
-      "category": "剧集"
+      "raw_hot": 188891,
+      "num": 188891,
+      "word": "付12万彩礼后女方溺亡男子起诉返还",
+      "onboard_time": 1744427662,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 188848,
@@ -635,14 +691,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 175059,
-      "num": 175059,
-      "word": "K总第三场婚礼伴郎团",
-      "onboard_time": 1744427123,
-      "rank": 43,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 173269,
       "num": 173269,
       "word": "盒马向中国外贸企业开放绿色通道",
@@ -667,6 +715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171604,
+      "num": 184110,
+      "word": "偶遇任嘉伦逛超市",
+      "onboard_time": 1744427965,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168037,
       "num": 168037,
       "word": "郑州大风",
@@ -689,6 +745,22 @@
       "onboard_time": 1744387704,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 163986,
+      "num": 163986,
+      "word": "陈芋汐一跳甩开对手",
+      "onboard_time": 1744429344,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 163657,
+      "num": 163657,
+      "word": "宋妍霏 撑地而起",
+      "onboard_time": 1744428683,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 162129,
@@ -721,6 +793,14 @@
       "onboard_time": 1744371022,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158545,
+      "num": 158545,
+      "word": "阿婆意外坠井身体对折无法动弹",
+      "onboard_time": 1744426043,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 154919,
@@ -841,6 +921,14 @@
       "onboard_time": 1744423461,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131279,
+      "num": 156934,
+      "word": "巴菲特发行900亿日元债券",
+      "onboard_time": 1744428263,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 131025,
@@ -979,20 +1067,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87227,
+      "num": 272391,
+      "word": "世界航天日",
+      "onboard_time": 1744420583,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80376,
       "num": 80376,
       "word": "恋与深空报警",
       "onboard_time": 1744413799,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 79724,
-      "num": 457424,
-      "word": "美国到底有多依赖中国商品",
-      "onboard_time": 1744427003,
-      "rank": 9,
-      "category": "国际时政,财经"
     },
     {
       "raw_hot": 78888,
@@ -1209,6 +1297,9 @@
     },
     {
       "word": "#打造有战略定力合作共赢的中西关系#"
+    },
+    {
+      "word": "#中国不畏惧任何无理打压#"
     }
   ]
 }
