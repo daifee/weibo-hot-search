@@ -1,0 +1,410 @@
+{
+  "runTime": 1744461734789,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1847923,
+        "num": 1847923,
+        "word": "90艘货船正从中国驶向美国",
+        "onboard_time": 1744457063,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1251352,
+        "num": 1251352,
+        "word": "宋祖儿好美",
+        "onboard_time": 1744458264,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67153,
+        "num": 1022873,
+        "word": "美国是多边贸易体制最大破坏者",
+        "onboard_time": 1744451604,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1583930,
+        "num": 1012207,
+        "word": "无忧渡 无磨皮",
+        "onboard_time": 1744455144,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 860818,
+        "num": 860818,
+        "word": "山西省长金湘军被查",
+        "onboard_time": 1744460303,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 660161,
+        "num": 660161,
+        "word": "年薪28万offer被鸽后男子获赔超4.5万",
+        "onboard_time": 1744455743,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 594603,
+        "num": 594603,
+        "word": "升至125%后为何中国不陪了",
+        "onboard_time": 1744434145,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 558226,
+        "num": 558226,
+        "word": "外交部再发重磅视频",
+        "onboard_time": 1744454484,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 521727,
+        "num": 521727,
+        "word": "林玉芬 古偶真神",
+        "onboard_time": 1744459643,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239649,
+        "num": 487146,
+        "word": "2025电影票房破250亿",
+        "onboard_time": 1744457063,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 472682,
+        "num": 472682,
+        "word": "白敬亭因为帅被偶遇网友认出",
+        "onboard_time": 1744458683,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 467041,
+        "num": 467041,
+        "word": "滕子京姓滕他不守滕王阁谁守",
+        "onboard_time": 1744457964,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 397053,
+        "num": 397053,
+        "word": "王俊凯直播卷发造型",
+        "onboard_time": 1744457604,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301161,
+        "num": 301161,
+        "word": "美国人买1个鸡蛋要3.8元人民币",
+        "onboard_time": 1744449023,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 299661,
+        "num": 299661,
+        "word": "张真源生日直播",
+        "onboard_time": 1744459943,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280410,
+        "num": 280410,
+        "word": "荷兰议会动议粗暴干涉中国内政",
+        "onboard_time": 1744459464,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 258599,
+        "num": 258599,
+        "word": "苹果手机9天涨价500元",
+        "onboard_time": 1744453645,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 248894,
+        "num": 248894,
+        "word": "中国企业将迎爆发式增长",
+        "onboard_time": 1744451484,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238974,
+        "num": 238974,
+        "word": "宋茜拍的陈好男友视角照",
+        "onboard_time": 1744459823,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211081,
+        "num": 211081,
+        "word": "杨幂腰间花朵高定",
+        "onboard_time": 1744461025,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 599936,
+        "num": 210850,
+        "word": "生理性厌恶的8个表现",
+        "onboard_time": 1744456703,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 300910,
+        "num": 210728,
+        "word": "特朗普把made in china给遮住了",
+        "onboard_time": 1744443084,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 272569,
+        "num": 210548,
+        "word": "胃病向胃癌发展的5个信号",
+        "onboard_time": 1744447764,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 210292,
+        "num": 210292,
+        "word": "孟晚舟老公是成都七中校友",
+        "onboard_time": 1744451604,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 203919,
+        "num": 203919,
+        "word": "孟子义我答应她了出来给她签",
+        "onboard_time": 1744461565,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203687,
+        "num": 203687,
+        "word": "大风要刮到什么时候",
+        "onboard_time": 1744458145,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199679,
+        "num": 199679,
+        "word": "JOJO的奇妙冒险 飙马野郎",
+        "onboard_time": 1744459885,
+        "rank": 26,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 188960,
+        "num": 188960,
+        "word": "郑乃馨吐槽中国厕所脏",
+        "onboard_time": 1744422023,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178549,
+        "num": 178549,
+        "word": "无忧渡今日开播",
+        "onboard_time": 1744445843,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173163,
+        "num": 173163,
+        "word": "锤娜丽莎cos石矶娘娘太像了",
+        "onboard_time": 1744452625,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 177929,
+        "num": 172668,
+        "word": "上海中心阻尼器开始明显摆动",
+        "onboard_time": 1744461263,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171597,
+        "num": 171597,
+        "word": "中国人集体捡漏万元日本别墅",
+        "onboard_time": 1744460123,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165914,
+        "num": 165914,
+        "word": "陈志朋回应上节目不提小虎队",
+        "onboard_time": 1744460604,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164095,
+        "num": 164095,
+        "word": "孟美岐沙漠玫瑰",
+        "onboard_time": 1744461145,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158833,
+        "num": 158833,
+        "word": "杭州空气质量已达严重污染",
+        "onboard_time": 1744458145,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155881,
+        "num": 155881,
+        "word": "折腰也动了",
+        "onboard_time": 1744438524,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150644,
+        "num": 150644,
+        "word": "32岁女白领卵巢衰退至50岁",
+        "onboard_time": 1744442963,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17349,
+        "num": 144171,
+        "word": "希望大风中的快递员没有差评",
+        "onboard_time": 1744461624,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39032,
+        "num": 143824,
+        "word": "近500国家观测站极大风破纪录",
+        "onboard_time": 1744461145,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6552,
+        "num": 143536,
+        "word": "甲亢哥中国行不虚此行",
+        "onboard_time": 1744461445,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 143531,
+        "num": 143531,
+        "word": "宋小宝造型好像王嘉尔",
+        "onboard_time": 1744455263,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 139479,
+        "num": 139479,
+        "word": "你好星期六",
+        "onboard_time": 1744460723,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45477,
+        "num": 134295,
+        "word": "当地回应一楼栋外墙脱落致外卖员被砸",
+        "onboard_time": 1744461684,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133968,
+        "num": 133968,
+        "word": "无忧渡节奏",
+        "onboard_time": 1744461503,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132683,
+        "num": 132683,
+        "word": "刘强东称不打口水仗",
+        "onboard_time": 1744455204,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 132138,
+        "num": 132138,
+        "word": "LadyGaga科切拉",
+        "onboard_time": 1744459885,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 122050,
+        "num": 128973,
+        "word": "张杰一生所爱官摄",
+        "onboard_time": 1744460364,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127098,
+        "num": 127098,
+        "word": "北京大风橙色预警正在生效中",
+        "onboard_time": 1744461326,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123922,
+        "num": 123922,
+        "word": "久酷五杀老东家",
+        "onboard_time": 1744461083,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 121111,
+        "num": 121111,
+        "word": "你要小池塘还是大海",
+        "onboard_time": 1744455923,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国不畏惧任何无理打压#"
+    }
+  }
+}

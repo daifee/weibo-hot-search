@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744457780031,
+  "endTime": 1744461734789,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -825,6 +825,14 @@
       "onboard_time": 1744366044,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1847923,
+      "num": 1847923,
+      "word": "90艘货船正从中国驶向美国",
+      "onboard_time": 1744457063,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1842360,
@@ -1817,6 +1825,14 @@
       "onboard_time": 1744183163,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1251352,
+      "num": 1251352,
+      "word": "宋祖儿好美",
+      "onboard_time": 1744458264,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 1248586,
@@ -3323,6 +3339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 860818,
+      "num": 860818,
+      "word": "山西省长金湘军被查",
+      "onboard_time": 1744460303,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 860148,
       "num": 860148,
       "word": "湘潭大学宿舍投毒案一审宣判",
@@ -4635,6 +4659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 660161,
+      "num": 660161,
+      "word": "年薪28万offer被鸽后男子获赔超4.5万",
+      "onboard_time": 1744455743,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 659064,
       "num": 659064,
       "word": "第一批大风受害者出现了",
@@ -4657,14 +4689,6 @@
       "onboard_time": 1744447584,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 658107,
-      "num": 658107,
-      "word": "年薪28万offer被鸽后男子获赔超4.5万",
-      "onboard_time": 1744455743,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 658061,
@@ -5137,6 +5161,14 @@
       "onboard_time": 1743516805,
       "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 599936,
+      "num": 210850,
+      "word": "生理性厌恶的8个表现",
+      "onboard_time": 1744456703,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 599595,
@@ -6075,6 +6107,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 521727,
+      "num": 521727,
+      "word": "林玉芬 古偶真神",
+      "onboard_time": 1744459643,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 521478,
       "num": 521478,
       "word": "Bin",
@@ -6835,6 +6875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 472682,
+      "num": 472682,
+      "word": "白敬亭因为帅被偶遇网友认出",
+      "onboard_time": 1744458683,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 472153,
       "num": 472153,
       "word": "何洛洛 生命树",
@@ -6929,6 +6977,14 @@
       "onboard_time": 1743753681,
       "rank": 4,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 467041,
+      "num": 467041,
+      "word": "滕子京姓滕他不守滕王阁谁守",
+      "onboard_time": 1744457964,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 466953,
@@ -8235,6 +8291,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 397053,
+      "num": 397053,
+      "word": "王俊凯直播卷发造型",
+      "onboard_time": 1744457604,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 396639,
       "num": 565182,
       "word": "现在还能入手金条金饰吗",
@@ -8465,14 +8529,6 @@
       "onboard_time": 1743724699,
       "rank": 15,
       "category": "网红"
-    },
-    {
-      "raw_hot": 386086,
-      "num": 184521,
-      "word": "生理性厌恶的8个表现",
-      "onboard_time": 1744456703,
-      "rank": 39,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 385946,
@@ -11011,6 +11067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 299661,
+      "num": 299661,
+      "word": "张真源生日直播",
+      "onboard_time": 1744459943,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 299645,
       "num": 299645,
       "word": "王源工作室告黑",
@@ -11801,6 +11865,14 @@
       "onboard_time": 1744260563,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 280410,
+      "num": 280410,
+      "word": "荷兰议会动议粗暴干涉中国内政",
+      "onboard_time": 1744459464,
+      "rank": 15,
+      "category": "国际时政"
     },
     {
       "raw_hot": 280354,
@@ -13499,6 +13571,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 239649,
+      "num": 487146,
+      "word": "2025电影票房破250亿",
+      "onboard_time": 1744457063,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 239646,
       "num": 227194,
       "word": "G社是张若昀的站姐吧",
@@ -13561,6 +13641,14 @@
       "onboard_time": 1744198527,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 238974,
+      "num": 238974,
+      "word": "宋茜拍的陈好男友视角照",
+      "onboard_time": 1744459823,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 238805,
@@ -15363,14 +15451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 211676,
-      "num": 472517,
-      "word": "90艘货船正从中国驶向美国",
-      "onboard_time": 1744457063,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 211638,
       "num": 211638,
       "word": "景区狗狗被关进狼舍吓得呜咽",
@@ -15433,6 +15513,14 @@
       "onboard_time": 1743842180,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 211081,
+      "num": 211081,
+      "word": "杨幂腰间花朵高定",
+      "onboard_time": 1744461025,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 210903,
@@ -16275,6 +16363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203919,
+      "num": 203919,
+      "word": "孟子义我答应她了出来给她签",
+      "onboard_time": 1744461565,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203876,
       "num": 203876,
       "word": "檀健次告黑",
@@ -16297,6 +16393,14 @@
       "onboard_time": 1744013664,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 203687,
+      "num": 203687,
+      "word": "大风要刮到什么时候",
+      "onboard_time": 1744458145,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 203619,
@@ -16697,6 +16801,14 @@
       "onboard_time": 1744086325,
       "rank": 45,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 199679,
+      "num": 199679,
+      "word": "JOJO的奇妙冒险 飙马野郎",
+      "onboard_time": 1744459885,
+      "rank": 26,
+      "category": "动漫"
     },
     {
       "raw_hot": 199655,
@@ -19731,6 +19843,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 177929,
+      "num": 172668,
+      "word": "上海中心阻尼器开始明显摆动",
+      "onboard_time": 1744461263,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 177803,
       "num": 260740,
       "word": "陈德容 我表情悠哉跳个大概",
@@ -20555,14 +20675,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 172023,
-      "num": 172023,
-      "word": "2025电影票房破250亿",
-      "onboard_time": 1744457063,
-      "rank": 35,
-      "category": "电影"
-    },
-    {
       "raw_hot": 171961,
       "num": 249701,
       "word": "射雕全网上线",
@@ -20617,6 +20729,14 @@
       "onboard_time": 1744427965,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171597,
+      "num": 171597,
+      "word": "中国人集体捡漏万元日本别墅",
+      "onboard_time": 1744460123,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 171592,
@@ -21315,6 +21435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165914,
+      "num": 165914,
+      "word": "陈志朋回应上节目不提小虎队",
+      "onboard_time": 1744460604,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165896,
       "num": 480062,
       "word": "人体器官衰老有时间规律吗",
@@ -21561,6 +21689,14 @@
       "onboard_time": 1743915921,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 164095,
+      "num": 164095,
+      "word": "孟美岐沙漠玫瑰",
+      "onboard_time": 1744461145,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 164057,
@@ -22307,6 +22443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 158833,
+      "num": 158833,
+      "word": "杭州空气质量已达严重污染",
+      "onboard_time": 1744458145,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158810,
       "num": 268629,
       "word": "张艺兴谈从偶像到演员",
@@ -22385,14 +22529,6 @@
       "onboard_time": 1743563602,
       "rank": 36,
       "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 158162,
-      "num": 158162,
-      "word": "王俊凯直播卷发造型",
-      "onboard_time": 1744457604,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 158151,
@@ -25259,6 +25395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139479,
+      "num": 139479,
+      "word": "你好星期六",
+      "onboard_time": 1743846562,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139462,
       "num": 139462,
       "word": "跳水世界杯中国队混团夺金",
@@ -26187,6 +26331,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 133968,
+      "num": 133968,
+      "word": "无忧渡节奏",
+      "onboard_time": 1744461503,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133949,
       "num": 155646,
       "word": "被马伯骞叼签子钓成翘嘴了",
@@ -26433,6 +26585,14 @@
       "onboard_time": 1743828861,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132138,
+      "num": 132138,
+      "word": "LadyGaga科切拉",
+      "onboard_time": 1744459885,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 132128,
@@ -27267,6 +27427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127098,
+      "num": 127098,
+      "word": "北京大风橙色预警正在生效中",
+      "onboard_time": 1744461326,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127055,
       "num": 127055,
       "word": "大家好我是徐俊大",
@@ -27811,6 +27979,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 123922,
+      "num": 123922,
+      "word": "久酷五杀老东家",
+      "onboard_time": 1744461083,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 123852,
       "num": 123852,
       "word": "谭松韵杀青照",
@@ -27977,6 +28153,14 @@
       "onboard_time": 1743567983,
       "rank": 33,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 122050,
+      "num": 128973,
+      "word": "张杰一生所爱官摄",
+      "onboard_time": 1744460364,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 122001,
@@ -32371,14 +32555,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 79637,
-      "num": 79637,
-      "word": "你好星期六",
-      "onboard_time": 1743846562,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 79215,
       "num": 79215,
       "word": "胡冰卿带我把所有的花都看了一遍",
@@ -32452,7 +32628,7 @@
     },
     {
       "raw_hot": 77547,
-      "num": 1018870,
+      "num": 1022873,
       "word": "美国是多边贸易体制最大破坏者",
       "onboard_time": 1744451604,
       "rank": 2,
@@ -34891,6 +35067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 45477,
+      "num": 134295,
+      "word": "当地回应一楼栋外墙脱落致外卖员被砸",
+      "onboard_time": 1744461684,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45468,
       "num": 168547,
       "word": "缅甸强震已致该国3564人遇难",
@@ -35529,6 +35713,14 @@
       "onboard_time": 1744382483,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 39032,
+      "num": 143824,
+      "word": "近500国家观测站极大风破纪录",
+      "onboard_time": 1744461145,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38996,
@@ -37707,6 +37899,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 17349,
+      "num": 144171,
+      "word": "希望大风中的快递员没有差评",
+      "onboard_time": 1744461624,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17216,
       "num": 171768,
       "word": "林高远下轮对阵奥恰洛夫",
@@ -38753,6 +38953,14 @@
       "onboard_time": 1743995603,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 6552,
+      "num": 143536,
+      "word": "甲亢哥中国行不虚此行",
+      "onboard_time": 1744461445,
+      "rank": 39,
+      "category": "网红"
     },
     {
       "raw_hot": 5880,
