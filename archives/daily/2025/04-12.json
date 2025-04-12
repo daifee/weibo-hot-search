@@ -1,6 +1,6 @@
 {
   "startTime": 1744389070116,
-  "endTime": 1744435339256,
+  "endTime": 1744436345948,
   "band_list": [
     {
       "raw_hot": 3665401,
@@ -195,6 +195,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 714328,
+      "num": 714328,
+      "word": "何同学删博",
+      "onboard_time": 1744432765,
+      "rank": 36,
+      "category": "网红"
+    },
+    {
       "raw_hot": 702655,
       "num": 471570,
       "word": "男子将养女掐死后扔进水库",
@@ -203,20 +211,20 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 699702,
-      "num": 699702,
-      "word": "何同学删博",
-      "onboard_time": 1744432765,
-      "rank": 36,
-      "category": "网红"
-    },
-    {
       "raw_hot": 690530,
       "num": 690530,
       "word": "对美所有进口商品加征125%关税",
       "onboard_time": 1744359084,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 665577,
+      "num": 607325,
+      "word": "真正的魔童降世",
+      "onboard_time": 1744432165,
+      "rank": 12,
+      "category": "幽默"
     },
     {
       "raw_hot": 665284,
@@ -235,12 +243,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 607325,
-      "num": 607325,
-      "word": "真正的魔童降世",
-      "onboard_time": 1744432165,
-      "rank": 12,
-      "category": "幽默"
+      "raw_hot": 636281,
+      "num": 636281,
+      "word": "大风",
+      "onboard_time": 1744413739,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 587989,
@@ -291,6 +299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 526743,
+      "num": 526743,
+      "word": "倪虹洁弥补了浪姐没有刘晓艳的缺憾",
+      "onboard_time": 1744433964,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 482562,
       "num": 482562,
       "word": "gidle曺薇娟吉克隽逸新歌",
@@ -331,28 +347,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 444198,
-      "num": 893914,
-      "word": "男子住32楼为防大风将窗户全封死",
-      "onboard_time": 1744413499,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 434366,
-      "num": 434366,
+      "raw_hot": 446351,
+      "num": 446351,
       "word": "教育局回应学校辞退考公考编教师",
       "onboard_time": 1744431204,
       "rank": 26,
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 425013,
-      "num": 400647,
-      "word": "倪虹洁弥补了浪姐没有刘晓艳的缺憾",
-      "onboard_time": 1744433964,
-      "rank": 17,
-      "category": "综艺"
+      "raw_hot": 444198,
+      "num": 893914,
+      "word": "男子住32楼为防大风将窗户全封死",
+      "onboard_time": 1744413499,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 421992,
@@ -369,6 +377,14 @@
       "onboard_time": 1744384824,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 391596,
+      "num": 391596,
+      "word": "好想来 檀健次",
+      "onboard_time": 1744434924,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 390997,
@@ -515,6 +531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 265153,
+      "num": 265153,
+      "word": "王力宏方否认烧毁百万级古董钢琴",
+      "onboard_time": 1744435163,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 264235,
       "num": 264235,
       "word": "三胞胎齐放飞奶奶血压已飙升",
@@ -547,6 +571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 249052,
+      "num": 249052,
+      "word": "北京12级大风下的外卖员",
+      "onboard_time": 1744435523,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 245505,
       "num": 245505,
       "word": "痞幼爆改晓华",
@@ -555,19 +587,19 @@
       "category": "网红"
     },
     {
-      "raw_hot": 244235,
-      "num": 244235,
-      "word": "好想来 檀健次",
-      "onboard_time": 1744434924,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 241481,
       "num": 241481,
       "word": "还珠格格柳红回应退圈传闻",
       "onboard_time": 1744425564,
       "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 240105,
+      "num": 240105,
+      "word": "宋祖儿竟然有这么多待播剧",
+      "onboard_time": 1744436183,
+      "rank": 24,
       "category": "剧集"
     },
     {
@@ -723,14 +755,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 201934,
-      "num": 201934,
-      "word": "大风",
-      "onboard_time": 1744413739,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 201511,
       "num": 201511,
       "word": "徐志胜被黄磊割韭菜只能苦笑",
@@ -747,12 +771,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 198767,
+      "num": 198767,
+      "word": "陈昊宇浪姐录制上班",
+      "onboard_time": 1744436003,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198609,
       "num": 198609,
       "word": "Jennie 户外剧院表演",
       "onboard_time": 1744432884,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 196222,
+      "num": 196222,
+      "word": "杭州大风",
+      "onboard_time": 1744435703,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 194318,
@@ -769,6 +809,22 @@
       "onboard_time": 1744417222,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 191113,
+      "num": 191113,
+      "word": "湖人勇士夺冠概率并列第四",
+      "onboard_time": 1744435523,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 189693,
+      "num": 189693,
+      "word": "杰克逊官网发了JayJay舞蹈",
+      "onboard_time": 1744435824,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 189251,
@@ -825,6 +881,14 @@
       "onboard_time": 1744434744,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 184665,
+      "num": 184665,
+      "word": "曹骏特别出演无忧渡",
+      "onboard_time": 1744435523,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 179179,
@@ -955,14 +1019,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 161694,
-      "num": 161694,
-      "word": "王力宏方否认烧毁百万级古董钢琴",
-      "onboard_time": 1744435163,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 160063,
       "num": 160063,
       "word": "TheShy向队友道歉",
@@ -1091,6 +1147,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 137556,
+      "num": 330875,
+      "word": "在泰撸狮民宿遭幼狮咬伤女子发声",
+      "onboard_time": 1744434623,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135616,
       "num": 201624,
       "word": "这次大风为何来势汹汹",
@@ -1132,7 +1196,7 @@
     },
     {
       "raw_hot": 127062,
-      "num": 127062,
+      "num": 150933,
       "word": "NBA",
       "onboard_time": 1744433785,
       "rank": 48,
@@ -1185,6 +1249,14 @@
       "onboard_time": 1744413019,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 120475,
+      "num": 673839,
+      "word": "北方大风实况分享",
+      "onboard_time": 1744434323,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118606,
@@ -1323,14 +1395,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 67122,
-      "num": 673839,
-      "word": "北方大风实况分享",
-      "onboard_time": 1744434323,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 66985,
       "num": 66985,
       "word": "恋与深空回应开发中素材外泄",
@@ -1361,14 +1425,6 @@
       "onboard_time": 1744391240,
       "rank": 35,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 48717,
-      "num": 330875,
-      "word": "在泰撸狮民宿遭幼狮咬伤女子发声",
-      "onboard_time": 1744434623,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 47407,
@@ -1457,6 +1513,14 @@
       "onboard_time": 1744406174,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 26402,
+      "num": 180692,
+      "word": "胡锡进评三河城管",
+      "onboard_time": 1744436062,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26225,
