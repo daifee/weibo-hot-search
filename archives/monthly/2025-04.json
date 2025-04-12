@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744436345948,
+  "endTime": 1744439488898,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -944,6 +944,14 @@
       "word": "刘奕畅拒演苍兰诀男二",
       "onboard_time": 1743862343,
       "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1705195,
+      "num": 1705195,
+      "word": "范志毅说鹿晗老舅要为错误买单",
+      "onboard_time": 1744436903,
+      "rank": 1,
       "category": "综艺"
     },
     {
@@ -2835,6 +2843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 945914,
+      "num": 945914,
+      "word": "大风",
+      "onboard_time": 1744274482,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 943778,
       "num": 298355,
       "word": "孟子坤 原来是晶哥",
@@ -3089,14 +3105,6 @@
       "onboard_time": 1744344323,
       "rank": 21,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 891329,
-      "num": 891329,
-      "word": "大风",
-      "onboard_time": 1744274482,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 890521,
@@ -3963,6 +3971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 739059,
+      "num": 739059,
+      "word": "何同学再翻车",
+      "onboard_time": 1744436544,
+      "rank": 5,
+      "category": "网红"
+    },
+    {
       "raw_hot": 738805,
       "num": 334560,
       "word": "华人大妈持菜刀与警方对峙被击毙",
@@ -3985,6 +4001,14 @@
       "onboard_time": 1744120343,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 735410,
+      "num": 735410,
+      "word": "真正的魔童降世",
+      "onboard_time": 1744432165,
+      "rank": 12,
+      "category": "幽默"
     },
     {
       "raw_hot": 733396,
@@ -4459,14 +4483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 665577,
-      "num": 607325,
-      "word": "真正的魔童降世",
-      "onboard_time": 1744432165,
-      "rank": 12,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 665284,
       "num": 665284,
       "word": "法老被Mac删除好友",
@@ -4689,6 +4705,14 @@
       "onboard_time": 1744249043,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 629040,
+      "num": 629040,
+      "word": "王力宏方否认烧毁百万级古董钢琴",
+      "onboard_time": 1744435163,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 626903,
@@ -5865,6 +5889,14 @@
       "onboard_time": 1743953900,
       "rank": 4,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 520631,
+      "num": 520631,
+      "word": "北京12级大风下的外卖员",
+      "onboard_time": 1744435523,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 520574,
@@ -7219,6 +7251,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 436793,
+      "num": 436793,
+      "word": "折腰也动了",
+      "onboard_time": 1744438524,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 435494,
       "num": 329535,
       "word": "王艳发了赤脚鬼",
@@ -7393,6 +7433,14 @@
       "onboard_time": 1743910882,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 423992,
+      "num": 423992,
+      "word": "宋祖儿竟然有这么多待播剧",
+      "onboard_time": 1744436183,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 423708,
@@ -11979,14 +12027,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 265153,
-      "num": 265153,
-      "word": "王力宏方否认烧毁百万级古董钢琴",
-      "onboard_time": 1744435163,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 265090,
       "num": 436145,
       "word": "马克龙呼吁欧盟别再天真了",
@@ -12009,6 +12049,14 @@
       "onboard_time": 1743942561,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 264475,
+      "num": 167878,
+      "word": "大家为什么不嫌弃房东的床垫啊",
+      "onboard_time": 1744437623,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 264235,
@@ -12683,14 +12731,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 249052,
-      "num": 249052,
-      "word": "北京12级大风下的外卖员",
-      "onboard_time": 1744435523,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 248888,
       "num": 248888,
       "word": "谢娜买家秀得到梅长苏本人认可",
@@ -12939,6 +12979,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 242807,
+      "num": 242807,
+      "word": "上海大风",
+      "onboard_time": 1744437623,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 242458,
       "num": 242458,
       "word": "秦彻至心栖之处",
@@ -13049,14 +13097,6 @@
       "onboard_time": 1744249580,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 240105,
-      "num": 240105,
-      "word": "宋祖儿竟然有这么多待播剧",
-      "onboard_time": 1744436183,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 239858,
@@ -13329,6 +13369,14 @@
       "onboard_time": 1744004123,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 235141,
+      "num": 326214,
+      "word": "女孩称拼好抱后被骚扰",
+      "onboard_time": 1744437743,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 235140,
@@ -19459,6 +19507,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 176085,
+      "num": 176085,
+      "word": "朴彩英现身科切拉",
+      "onboard_time": 1744437085,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 176075,
       "num": 176075,
       "word": "男童被电诈盗刷3万多后9分钟追回",
@@ -19745,6 +19801,14 @@
       "onboard_time": 1744250423,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 174000,
+      "num": 174000,
+      "word": "深圳大风到哪了",
+      "onboard_time": 1744437623,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 173919,
@@ -26459,6 +26523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126319,
+      "num": 126319,
+      "word": "韩安冉直播卖宠物狗",
+      "onboard_time": 1744436843,
+      "rank": 43,
+      "category": "网红"
+    },
+    {
       "raw_hot": 126304,
       "num": 356146,
       "word": "95后女生给狗狗做衣服年入300万",
@@ -26521,6 +26593,14 @@
       "onboard_time": 1743853941,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 125812,
+      "num": 126158,
+      "word": "刘耀文加冠礼演唱会",
+      "onboard_time": 1744437924,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 125745,
@@ -27683,6 +27763,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 117544,
+      "num": 123021,
+      "word": "WaterBomb",
+      "onboard_time": 1744438044,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 117529,
       "num": 117529,
       "word": "种地吧 林更新",
@@ -28569,6 +28657,14 @@
       "onboard_time": 1743673941,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 110712,
+      "num": 343877,
+      "word": "河南老君山等景区限流",
+      "onboard_time": 1744439063,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110644,
@@ -33347,6 +33443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 50958,
+      "num": 129946,
+      "word": "人类首次肉眼太空观察南极",
+      "onboard_time": 1744438883,
+      "rank": 39,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 50772,
       "num": 50772,
       "word": "董宇辉 人是被成就感所驱使的动物",
@@ -33537,6 +33641,14 @@
       "onboard_time": 1743980418,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 47991,
+      "num": 129813,
+      "word": "李艺彤听说有复活赛半夜给月亮投票",
+      "onboard_time": 1744431685,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 47974,
@@ -33968,6 +34080,14 @@
       "word": "牡丹就是鲜花界的春日顶流吧",
       "onboard_time": 1744265124,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42811,
+      "num": 345086,
+      "word": "女孩被前男友泼汽油烧伤案二审将开庭",
+      "onboard_time": 1744437863,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -37137,6 +37257,14 @@
       "onboard_time": 1744021283,
       "rank": 39,
       "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 11465,
+      "num": 130322,
+      "word": "在北极露营时碰上核动力破冰船",
+      "onboard_time": 1744439182,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 11360,
