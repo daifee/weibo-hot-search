@@ -1,9 +1,9 @@
 {
   "startTime": 1744389070116,
-  "endTime": 1744423857895,
+  "endTime": 1744426960855,
   "band_list": [
     {
-      "raw_hot": 3415578,
+      "raw_hot": 3665401,
       "num": 725439,
       "word": "郑乃馨吐槽中国厕所脏",
       "onboard_time": 1744422023,
@@ -19,12 +19,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 2368746,
+      "num": 2368746,
+      "word": "河南出现15级大风",
+      "onboard_time": 1744421781,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 2169141,
+      "num": 2169141,
+      "word": "无忧渡开播",
+      "onboard_time": 1744424063,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1938262,
       "num": 1938262,
       "word": "大风到哪了",
       "onboard_time": 1744363704,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1639066,
+      "num": 1639066,
+      "word": "何同学 网约车",
+      "onboard_time": 1744425142,
+      "rank": 3,
+      "category": "网红"
     },
     {
       "raw_hot": 1488053,
@@ -83,14 +107,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1004284,
-      "num": 1004284,
-      "word": "河南出现15级大风",
-      "onboard_time": 1744421781,
-      "rank": 9,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 925804,
       "num": 925804,
       "word": "爱奇艺 淮水竹亭",
@@ -123,6 +139,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 702655,
+      "num": 471570,
+      "word": "男子将养女掐死后扔进水库",
+      "onboard_time": 1744423524,
+      "rank": 13,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 690530,
       "num": 690530,
       "word": "对美所有进口商品加征125%关税",
@@ -145,6 +169,14 @@
       "onboard_time": 1744369643,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 632497,
+      "num": 584771,
+      "word": "折腰",
+      "onboard_time": 1744425802,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 579604,
@@ -211,14 +243,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 436072,
-      "num": 436072,
-      "word": "男子将养女掐死后扔进水库",
-      "onboard_time": 1744423524,
-      "rank": 13,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 421992,
       "num": 421992,
       "word": "用大象粪便做甜品餐厅已停业",
@@ -259,12 +283,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 343272,
+      "num": 343272,
+      "word": "虞书欣 飞猪",
+      "onboard_time": 1744424304,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 342685,
       "num": 342685,
       "word": "恋与深空偷跑",
       "onboard_time": 1744395375,
       "rank": 4,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 340099,
+      "num": 474975,
+      "word": "大风强对流暴雪沙尘暴预警",
+      "onboard_time": 1744425743,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 335155,
@@ -323,6 +363,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 297622,
+      "num": 297622,
+      "word": "无忧渡绮梦版预告",
+      "onboard_time": 1744424663,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 294913,
       "num": 332965,
       "word": "科切拉",
@@ -355,12 +403,36 @@
       "category": "网红"
     },
     {
+      "raw_hot": 237391,
+      "num": 237391,
+      "word": "还珠格格柳红回应退圈传闻",
+      "onboard_time": 1744425564,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 236054,
+      "num": 236054,
+      "word": "北京极端大风今天进入最强时段",
+      "onboard_time": 1744423764,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 235296,
-      "num": 235296,
+      "num": 331711,
       "word": "韩安冉说和殷世航是假玩",
       "onboard_time": 1744422565,
       "rank": 28,
       "category": "网红"
+    },
+    {
+      "raw_hot": 235140,
+      "num": 235140,
+      "word": "唐宫奇案",
+      "onboard_time": 1744425983,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 230716,
@@ -387,6 +459,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 226024,
+      "num": 226024,
+      "word": "军工研究院员工偷配钥匙帮间谍窃密",
+      "onboard_time": 1744425504,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 224934,
       "num": 921607,
       "word": "汪苏泷就让这大雨落下具象化",
@@ -409,6 +489,14 @@
       "onboard_time": 1744421603,
       "rank": 29,
       "category": "艺人,剧集"
+    },
+    {
+      "raw_hot": 208935,
+      "num": 208935,
+      "word": "美团替时团官宣演唱会",
+      "onboard_time": 1744426524,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 204661,
@@ -443,8 +531,24 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 190896,
+      "num": 190896,
+      "word": "何同学 锻炼勇气",
+      "onboard_time": 1744426343,
+      "rank": 32,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 190486,
+      "num": 180884,
+      "word": "时代少年团海口演唱会",
+      "onboard_time": 1744426582,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 188848,
-      "num": 1392846,
+      "num": 1769572,
       "word": "以中国稳应对美国疯",
       "onboard_time": 1744377383,
       "rank": 2,
@@ -457,6 +561,14 @@
       "onboard_time": 1744379003,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 186402,
+      "num": 186402,
+      "word": "宋祖儿时隔三年再播剧",
+      "onboard_time": 1744426704,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 179179,
@@ -523,6 +635,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 165605,
+      "num": 165605,
+      "word": "张朝阳再次强调年轻人不要负债",
+      "onboard_time": 1744425203,
+      "rank": 41,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 164788,
       "num": 164788,
       "word": "代号鸢",
@@ -563,6 +683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156893,
+      "num": 156893,
+      "word": "河北三河已整改牌匾1820块",
+      "onboard_time": 1744426402,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154919,
       "num": 154919,
       "word": "官方翻译让美方听懂中国底线",
@@ -587,11 +715,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 150124,
+      "num": 150124,
+      "word": "咸雪男主 张若昀朱一龙二选一",
+      "onboard_time": 1744426884,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148891,
       "num": 148891,
       "word": "斑马音乐节",
       "onboard_time": 1744421304,
       "rank": 40,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 147820,
+      "num": 147820,
+      "word": "法老",
+      "onboard_time": 1744413619,
+      "rank": 34,
       "category": "演出"
     },
     {
@@ -648,6 +792,14 @@
       "word": "美国政府滥施关税拖累好莱坞",
       "onboard_time": 1744386084,
       "rank": 10,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 136419,
+      "num": 365597,
+      "word": "脱口秀节目讽刺美关税政策朝令夕改",
+      "onboard_time": 1744425683,
+      "rank": 14,
       "category": "国际时政"
     },
     {
@@ -728,14 +880,6 @@
       "word": "胡夏演唱会已开启退票通道",
       "onboard_time": 1744375942,
       "rank": 38,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 117679,
-      "num": 120246,
-      "word": "法老",
-      "onboard_time": 1744413619,
-      "rank": 34,
       "category": "演出"
     },
     {
@@ -857,14 +1001,6 @@
       "onboard_time": 1744410677,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 61259,
-      "num": 151797,
-      "word": "北京极端大风今天进入最强时段",
-      "onboard_time": 1744423764,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 59995,
