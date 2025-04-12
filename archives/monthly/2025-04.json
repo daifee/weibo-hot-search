@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744432988207,
+  "endTime": 1744435339256,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -209,6 +209,14 @@
       "onboard_time": 1744190723,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 3097149,
+      "num": 3097149,
+      "word": "升至125%后为何中国不陪了",
+      "onboard_time": 1744434145,
+      "rank": 0,
+      "category": "国际时政"
     },
     {
       "raw_hot": 3045867,
@@ -2475,6 +2483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1025897,
+      "num": 1025897,
+      "word": "北京大风刮倒288棵树",
+      "onboard_time": 1744429945,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1020807,
       "num": 1020807,
       "word": "东部战区锁控",
@@ -4227,6 +4243,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 699702,
+      "num": 699702,
+      "word": "何同学删博",
+      "onboard_time": 1744432765,
+      "rank": 36,
+      "category": "网红"
+    },
+    {
       "raw_hot": 698657,
       "num": 698657,
       "word": "美方轮番加征关税沦为笑话",
@@ -4505,14 +4529,6 @@
       "onboard_time": 1743730401,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 654445,
-      "num": 654445,
-      "word": "北京大风刮倒288棵树",
-      "onboard_time": 1744429945,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 652798,
@@ -4825,6 +4841,14 @@
       "onboard_time": 1744285943,
       "rank": 12,
       "category": "财经"
+    },
+    {
+      "raw_hot": 607325,
+      "num": 607325,
+      "word": "真正的魔童降世",
+      "onboard_time": 1744432165,
+      "rank": 12,
+      "category": "幽默"
     },
     {
       "raw_hot": 607112,
@@ -7187,6 +7211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 434366,
+      "num": 434366,
+      "word": "教育局回应学校辞退考公考编教师",
+      "onboard_time": 1744431204,
+      "rank": 26,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 434304,
       "num": 434304,
       "word": "外国人吃到中国科技的细糠了",
@@ -7321,6 +7353,14 @@
       "onboard_time": 1743916161,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 425013,
+      "num": 400647,
+      "word": "倪虹洁弥补了浪姐没有刘晓艳的缺憾",
+      "onboard_time": 1744433964,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 424861,
@@ -10203,6 +10243,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 308284,
+      "num": 308284,
+      "word": "专家回应北京今晨的风似乎不大",
+      "onboard_time": 1744432943,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 308256,
       "num": 378623,
       "word": "全红婵第一陈芋汐第二进决赛",
@@ -10257,14 +10305,6 @@
       "onboard_time": 1743991883,
       "rank": 31,
       "category": "财经"
-    },
-    {
-      "raw_hot": 307381,
-      "num": 307381,
-      "word": "教育局回应学校辞退考公考编教师",
-      "onboard_time": 1744431204,
-      "rank": 26,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 306671,
@@ -12819,6 +12859,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 244235,
+      "num": 244235,
+      "word": "好想来 檀健次",
+      "onboard_time": 1744434924,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 243874,
       "num": 243874,
       "word": "杭州别墅区涉非法代孕场所被查封",
@@ -14163,6 +14211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 221278,
+      "num": 221278,
+      "word": "董力后悔没早公布婚讯",
+      "onboard_time": 1744434864,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 221273,
       "num": 221273,
       "word": "十个勤天芹菜",
@@ -14289,6 +14345,14 @@
       "onboard_time": 1743573501,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 219594,
+      "num": 219594,
+      "word": "严浩翔加冠礼演唱会",
+      "onboard_time": 1744435104,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 219590,
@@ -16100,7 +16164,7 @@
     },
     {
       "raw_hot": 200043,
-      "num": 188900,
+      "num": 192142,
       "word": "上着班突然感觉一阵恶心",
       "onboard_time": 1744431502,
       "rank": 30,
@@ -16313,6 +16377,14 @@
       "onboard_time": 1743782420,
       "rank": 18,
       "category": "国际时政,财经"
+    },
+    {
+      "raw_hot": 198609,
+      "num": 198609,
+      "word": "Jennie 户外剧院表演",
+      "onboard_time": 1744432884,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 198592,
@@ -18211,6 +18283,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 185113,
+      "num": 185113,
+      "word": "马吟吟舞娘舞台的黄金十秒",
+      "onboard_time": 1744434744,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185101,
       "num": 185101,
       "word": "留几手说他和黄圣依情绪最稳定",
@@ -19460,7 +19540,7 @@
     },
     {
       "raw_hot": 175211,
-      "num": 175211,
+      "num": 230676,
       "word": "杨和苏转发",
       "onboard_time": 1744427064,
       "rank": 42,
@@ -20017,14 +20097,6 @@
       "onboard_time": 1744269382,
       "rank": 29,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 170311,
-      "num": 170311,
-      "word": "何同学删博",
-      "onboard_time": 1744432765,
-      "rank": 36,
-      "category": "网红"
     },
     {
       "raw_hot": 170248,
@@ -21065,6 +21137,14 @@
       "onboard_time": 1743823880,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161694,
+      "num": 161694,
+      "word": "王力宏方否认烧毁百万级古董钢琴",
+      "onboard_time": 1744435163,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 161671,
@@ -23393,14 +23473,6 @@
       "onboard_time": 1744355963,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 145833,
-      "num": 142936,
-      "word": "Jennie 户外剧院表演",
-      "onboard_time": 1744432884,
-      "rank": 47,
-      "category": "演出"
     },
     {
       "raw_hot": 145769,
@@ -26475,6 +26547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125298,
+      "num": 125298,
+      "word": "快船vs国王",
+      "onboard_time": 1744433785,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125212,
       "num": 277011,
       "word": "我交了个星朋友",
@@ -26729,14 +26809,6 @@
       "onboard_time": 1744340061,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 123716,
-      "num": 160859,
-      "word": "专家回应北京今晨的风似乎不大",
-      "onboard_time": 1744432943,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 123566,
@@ -31595,6 +31667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71179,
+      "num": 676687,
+      "word": "关注北京罕见大风",
+      "onboard_time": 1744434264,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71118,
       "num": 290356,
       "word": "卤味一哥去年净利润跌超3成",
@@ -31960,6 +32040,14 @@
       "word": "中国园林有朵石做的云",
       "onboard_time": 1743426743,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 67122,
+      "num": 673839,
+      "word": "北方大风实况分享",
+      "onboard_time": 1744434323,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -33336,6 +33424,14 @@
       "word": "国际爱鸟日",
       "onboard_time": 1743504202,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48717,
+      "num": 330875,
+      "word": "在泰撸狮民宿遭幼狮咬伤女子发声",
+      "onboard_time": 1744434623,
+      "rank": 19,
       "category": "民生新闻"
     },
     {

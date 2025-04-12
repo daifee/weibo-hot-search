@@ -1,0 +1,410 @@
+{
+  "runTime": 1744435339256,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3097149,
+        "num": 3097149,
+        "word": "升至125%后为何中国不陪了",
+        "onboard_time": 1744434145,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 2208382,
+        "num": 2208382,
+        "word": "特朗普遭死亡威胁",
+        "onboard_time": 1744428804,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 112349,
+        "num": 1522235,
+        "word": "中国站出来是为了避免人类重回丛林世界",
+        "onboard_time": 1744381943,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1506883,
+        "num": 1506883,
+        "word": "宋祖儿正式回归",
+        "onboard_time": 1744428804,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1025897,
+        "num": 1025897,
+        "word": "北京大风刮倒288棵树",
+        "onboard_time": 1744429945,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 857951,
+        "num": 857951,
+        "word": "河南出现15级大风",
+        "onboard_time": 1744421781,
+        "rank": 5,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 699702,
+        "num": 699702,
+        "word": "何同学删博",
+        "onboard_time": 1744432765,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 693981,
+        "num": 693981,
+        "word": "无忧渡开播",
+        "onboard_time": 1744424063,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71179,
+        "num": 676687,
+        "word": "关注北京罕见大风",
+        "onboard_time": 1744434264,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67122,
+        "num": 673839,
+        "word": "北方大风实况分享",
+        "onboard_time": 1744434323,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 673310,
+        "num": 673310,
+        "word": "大风到北京城区了",
+        "onboard_time": 1744377262,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 635431,
+        "num": 635431,
+        "word": "大风到哪了",
+        "onboard_time": 1744363704,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 607325,
+        "num": 607325,
+        "word": "真正的魔童降世",
+        "onboard_time": 1744432165,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 480583,
+        "num": 480583,
+        "word": "美因海关系统故障暂未征收关税",
+        "onboard_time": 1744415662,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 441791,
+        "num": 441791,
+        "word": "gidle曺薇娟吉克隽逸新歌",
+        "onboard_time": 1744431263,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 434366,
+        "num": 434366,
+        "word": "教育局回应学校辞退考公考编教师",
+        "onboard_time": 1744431204,
+        "rank": 15,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 411901,
+        "num": 411901,
+        "word": "她留在了他最爱的那一年",
+        "onboard_time": 1744427304,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 425013,
+        "num": 400647,
+        "word": "倪虹洁弥补了浪姐没有刘晓艳的缺憾",
+        "onboard_time": 1744433964,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 344654,
+        "num": 344654,
+        "word": "折腰",
+        "onboard_time": 1744425802,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48717,
+        "num": 330875,
+        "word": "在泰撸狮民宿遭幼狮咬伤女子发声",
+        "onboard_time": 1744434623,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1782693,
+        "num": 328147,
+        "word": "郑乃馨吐槽中国厕所脏",
+        "onboard_time": 1744422023,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 325075,
+        "num": 325075,
+        "word": "艺考机构称陈晓已上3次课",
+        "onboard_time": 1744415181,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310867,
+        "num": 310867,
+        "word": "男子将养女掐死后扔进水库",
+        "onboard_time": 1744423524,
+        "rank": 22,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 308284,
+        "num": 308284,
+        "word": "专家回应北京今晨的风似乎不大",
+        "onboard_time": 1744432943,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262820,
+        "num": 262820,
+        "word": "大风强对流暴雪沙尘暴预警",
+        "onboard_time": 1744425743,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252823,
+        "num": 252823,
+        "word": "对美所有进口商品加征125%关税",
+        "onboard_time": 1744359084,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 244235,
+        "num": 244235,
+        "word": "好想来 檀健次",
+        "onboard_time": 1744434924,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237287,
+        "num": 237287,
+        "word": "三胞胎齐放飞奶奶血压已飙升",
+        "onboard_time": 1744430904,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231572,
+        "num": 231572,
+        "word": "五哈",
+        "onboard_time": 1744431263,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71338,
+        "num": 230676,
+        "word": "杨和苏转发",
+        "onboard_time": 1744427064,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230437,
+        "num": 230437,
+        "word": "时代少年团海口演唱会",
+        "onboard_time": 1744426582,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 226542,
+        "num": 226542,
+        "word": "13岁女孩长期食用腌制菜确诊胃癌",
+        "onboard_time": 1744421244,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221278,
+        "num": 221278,
+        "word": "董力后悔没早公布婚讯",
+        "onboard_time": 1744434864,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219594,
+        "num": 219594,
+        "word": "严浩翔加冠礼演唱会",
+        "onboard_time": 1744435104,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 203874,
+        "num": 203874,
+        "word": "美国到底有多依赖中国商品",
+        "onboard_time": 1744427003,
+        "rank": 34,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 198609,
+        "num": 198609,
+        "word": "Jennie 户外剧院表演",
+        "onboard_time": 1744432884,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 192142,
+        "num": 192142,
+        "word": "上着班突然感觉一阵恶心",
+        "onboard_time": 1744431502,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185113,
+        "num": 185113,
+        "word": "马吟吟舞娘舞台的黄金十秒",
+        "onboard_time": 1744434744,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180513,
+        "num": 180513,
+        "word": "二级演员公款旅游被撤职",
+        "onboard_time": 1744420282,
+        "rank": 38,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 176271,
+        "num": 176271,
+        "word": "阿婆意外坠井身体对折无法动弹",
+        "onboard_time": 1744426043,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162063,
+        "num": 162063,
+        "word": "虞书欣 飞猪",
+        "onboard_time": 1744424304,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161694,
+        "num": 161694,
+        "word": "王力宏方否认烧毁百万级古董钢琴",
+        "onboard_time": 1744435163,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160564,
+        "num": 160564,
+        "word": "韩安冉回应直播卖宠物狗",
+        "onboard_time": 1744428742,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 157114,
+        "num": 157114,
+        "word": "二十年前前台二十年后销冠",
+        "onboard_time": 1744432824,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147239,
+        "num": 147239,
+        "word": "王蓉浪姐疑似只签了一期",
+        "onboard_time": 1744430065,
+        "rank": 44,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 132651,
+        "num": 132651,
+        "word": "美国高官让各国直接打钱",
+        "onboard_time": 1744417463,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 130776,
+        "num": 130776,
+        "word": "陈芋汐一跳甩开对手",
+        "onboard_time": 1744429344,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130011,
+        "num": 130011,
+        "word": "刘亦菲张若昀 咸雪",
+        "onboard_time": 1744418183,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127062,
+        "num": 127062,
+        "word": "NBA",
+        "onboard_time": 1744433785,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125298,
+        "num": 125298,
+        "word": "快船vs国王",
+        "onboard_time": 1744433785,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国不畏惧任何无理打压#"
+    }
+  }
+}
