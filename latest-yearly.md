@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/04/12 11:47:52
+本榜单时间：2025/01/01 00:26:38 ~ 2025/04/12 12:28:17
 </p>
 </blockquote>
 <p>
@@ -1641,6 +1641,12 @@ DeepSeek（热度：3038517）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%81%AD%E6%AD%BB%E4%BA%A1%E5%A8%81%E8%83%81%23" target="weibo">
+特朗普遭死亡威胁（热度：3026366）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A9%86%E5%A9%B7%E5%A9%B7%E8%AF%B4%E8%87%AA%E5%B7%B1%E7%9A%84%E8%83%B8%E6%AF%94%E5%8C%85%E4%B8%8A%E6%81%A9%E5%A5%BD%E7%9C%8B%23" target="weibo">
 穆婷婷说自己的胸比包上恩好看（热度：3015707）
 </a>
@@ -1805,12 +1811,6 @@ DeepSeek（热度：3038517）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E7%BE%8E%E5%9B%BD%E9%80%80%E5%87%BA%E4%B8%96%E7%95%8C%E5%8D%AB%E7%94%9F%E7%BB%84%E7%BB%87%23" target="weibo">
 特朗普宣布美国退出世界卫生组织（热度：2925094）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A7%9A%E7%AC%9B%E5%A4%8D%E5%87%BA%23" target="weibo">
-姚笛复出（热度：2924632）
 </a>
 </li>
 

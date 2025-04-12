@@ -1,6 +1,6 @@
 {
   "startTime": 1743870475536,
-  "endTime": 1744429672511,
+  "endTime": 1744432097280,
   "band_list": [
     {
       "raw_hot": 18779562,
@@ -129,6 +129,14 @@
       "onboard_time": 1744190723,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 3026366,
+      "num": 3026366,
+      "word": "特朗普遭死亡威胁",
+      "onboard_time": 1744428804,
+      "rank": 3,
+      "category": "国际时政"
     },
     {
       "raw_hot": 2982394,
@@ -457,6 +465,14 @@
       "onboard_time": 1744182263,
       "rank": 30,
       "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 1913224,
+      "num": 1913224,
+      "word": "宋祖儿正式回归",
+      "onboard_time": 1744428804,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 1910617,
@@ -1065,14 +1081,6 @@
       "onboard_time": 1744047077,
       "rank": 3,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1302544,
-      "num": 1302544,
-      "word": "特朗普遭死亡威胁",
-      "onboard_time": 1744428804,
-      "rank": 3,
-      "category": "国际时政"
     },
     {
       "raw_hot": 1290624,
@@ -1873,14 +1881,6 @@
       "onboard_time": 1744087704,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 888357,
-      "num": 888357,
-      "word": "宋祖儿正式回归",
-      "onboard_time": 1744428804,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 886031,
@@ -3552,6 +3552,14 @@
       "word": "男孩持续高热因骨盆里藏进一块布",
       "onboard_time": 1744032983,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 511848,
+      "num": 511848,
+      "word": "北京大风刮倒288棵树",
+      "onboard_time": 1744429945,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -5331,6 +5339,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 348241,
+      "num": 348241,
+      "word": "gidle曺薇娟吉克隽逸新歌",
+      "onboard_time": 1744431263,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 348065,
       "num": 418526,
       "word": "我叫电影今年130岁了",
@@ -6065,6 +6081,14 @@
       "onboard_time": 1743991883,
       "rank": 31,
       "category": "财经"
+    },
+    {
+      "raw_hot": 306957,
+      "num": 306957,
+      "word": "韩安冉回应直播卖宠物狗",
+      "onboard_time": 1744428742,
+      "rank": 19,
+      "category": "网红"
     },
     {
       "raw_hot": 306375,
@@ -7459,6 +7483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 254349,
+      "num": 254349,
+      "word": "阿婆意外坠井身体对折无法动弹",
+      "onboard_time": 1744426043,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 254220,
       "num": 254220,
       "word": "特斯拉",
@@ -7547,6 +7579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 252319,
+      "num": 252319,
+      "word": "王蓉浪姐疑似只签了一期",
+      "onboard_time": 1744430065,
+      "rank": 25,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 252202,
       "num": 321760,
       "word": "国乒出征澳门世界杯",
@@ -7585,6 +7625,14 @@
       "onboard_time": 1744255642,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 250484,
+      "num": 250484,
+      "word": "教育局回应学校辞退考公考编教师",
+      "onboard_time": 1744431204,
+      "rank": 26,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 250052,
@@ -7729,6 +7777,14 @@
       "onboard_time": 1744028723,
       "rank": 17,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 244169,
+      "num": 244169,
+      "word": "三胞胎齐放飞奶奶血压已飙升",
+      "onboard_time": 1744430904,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 243874,
@@ -7923,12 +7979,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 237934,
-      "num": 276000,
-      "word": "韩安冉回应直播卖宠物狗",
-      "onboard_time": 1744428742,
-      "rank": 19,
-      "category": "网红"
+      "raw_hot": 238443,
+      "num": 238443,
+      "word": "五哈",
+      "onboard_time": 1744431263,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 237790,
@@ -9619,6 +9675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 203248,
+      "num": 203248,
+      "word": "以闪亮之名",
+      "onboard_time": 1744262904,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 202999,
       "num": 196139,
       "word": "张镇麟 哈维挺邪乎啊",
@@ -10707,6 +10771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189251,
+      "num": 189251,
+      "word": "陈芋汐一跳甩开对手",
+      "onboard_time": 1744429344,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189002,
       "num": 189002,
       "word": "榴莲季",
@@ -11049,6 +11121,14 @@
       "onboard_time": 1743997103,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 184317,
+      "num": 234051,
+      "word": "孙俪一哭汪俊鸡皮疙瘩起来了",
+      "onboard_time": 1744431565,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 184288,
@@ -11795,14 +11875,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 174178,
-      "num": 174178,
-      "word": "以闪亮之名",
-      "onboard_time": 1744262904,
-      "rank": 41,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 174142,
       "num": 316432,
       "word": "林俊杰出道22周年",
@@ -12483,14 +12555,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 163986,
-      "num": 163986,
-      "word": "陈芋汐一跳甩开对手",
-      "onboard_time": 1744429344,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 163931,
       "num": 163931,
       "word": "枭起青壤下证",
@@ -12593,6 +12657,14 @@
       "onboard_time": 1744199724,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162302,
+      "num": 162302,
+      "word": "无忧渡妖伴相生海报",
+      "onboard_time": 1744431084,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 162230,
@@ -12889,14 +12961,6 @@
       "onboard_time": 1744298963,
       "rank": 29,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 158545,
-      "num": 158545,
-      "word": "阿婆意外坠井身体对折无法动弹",
-      "onboard_time": 1744426043,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 158477,
@@ -13849,6 +13913,14 @@
       "onboard_time": 1744178302,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 147011,
+      "num": 147011,
+      "word": "徐志胜被黄磊割韭菜只能苦笑",
+      "onboard_time": 1744431983,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 146954,
@@ -17203,6 +17275,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 91904,
+      "num": 433363,
+      "word": "美国男子恐吓要杀特朗普被起诉",
+      "onboard_time": 1744431745,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 91893,
       "num": 91893,
       "word": "房琪在浪姐的表现",
@@ -19123,6 +19203,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 44155,
+      "num": 238445,
+      "word": "队友夺冠全红婵兴奋鼓掌拍照",
+      "onboard_time": 1744430844,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 44089,
       "num": 321816,
       "word": "韩元兑美元刷新15年来开盘新低",
@@ -20097,6 +20185,14 @@
       "onboard_time": 1743877335,
       "rank": 47,
       "category": "综艺,电影"
+    },
+    {
+      "raw_hot": 24979,
+      "num": 238653,
+      "word": "广东二胎可领7.2万补贴为谣言",
+      "onboard_time": 1744430844,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24842,

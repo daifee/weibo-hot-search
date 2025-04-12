@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/12 11:47:52
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/12 12:28:17
 </p>
 </blockquote>
 <p>
@@ -173,6 +173,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%9C%E9%A6%A8%20%E5%87%BA%E9%81%93%23" target="weibo">
 甜馨 出道（热度：3045867）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%81%AD%E6%AD%BB%E4%BA%A1%E5%A8%81%E8%83%81%23" target="weibo">
+特朗普遭死亡威胁（热度：3026366）
 </a>
 </li>
 
@@ -533,6 +539,12 @@ C罗点评甲亢哥中国行（热度：2472029）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B7%AF%E6%98%93%E5%90%89%E6%88%96%E8%A2%AB%E5%88%A4%E6%AD%BB%E5%88%91%23" target="weibo">
 路易吉或被判死刑（热度：1921865）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E7%A5%96%E5%84%BF%E6%AD%A3%E5%BC%8F%E5%9B%9E%E5%BD%92%23" target="weibo">
+宋祖儿正式回归（热度：1913224）
 </a>
 </li>
 
@@ -1259,12 +1271,6 @@ RedVelvet 解散（热度：1601334）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E9%AB%98%E5%BA%A6%E5%85%B3%E6%B3%A8%E4%B8%AD%E5%9B%BD%E7%8C%9B%E7%83%88%E5%8F%8D%E5%87%BB%E7%BE%8E%E5%9B%BD%23" target="weibo">
 全球高度关注中国猛烈反击美国（热度：1304384）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%81%AD%E6%AD%BB%E4%BA%A1%E5%A8%81%E8%83%81%23" target="weibo">
-特朗普遭死亡威胁（热度：1302544）
 </a>
 </li>
 
@@ -2321,12 +2327,6 @@ SM新男团 撞名（热度：910464）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%99%E6%89%BF%E6%81%A9%23" target="weibo">
 余承恩（热度：890521）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E7%A5%96%E5%84%BF%E6%AD%A3%E5%BC%8F%E5%9B%9E%E5%BD%92%23" target="weibo">
-宋祖儿正式回归（热度：888357）
 </a>
 </li>
 
@@ -4497,6 +4497,12 @@ Switch2直面会（热度：514768）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%A4%A7%E9%A3%8E%E5%88%AE%E5%80%92288%E6%A3%B5%E6%A0%91%23" target="weibo">
+北京大风刮倒288棵树（热度：511848）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E6%8D%90%E8%B5%841%E4%BA%BF%E6%88%90%E7%AB%8B%E5%AE%88%E6%8A%A4%E8%B5%84%E9%87%91%E6%B6%88%E6%81%AF%E4%B8%8D%E5%AE%9E%23" target="weibo">
 雷军捐资1亿成立守护资金消息不实（热度：511816）
 </a>
@@ -6005,12 +6011,6 @@ TVB女演员陈思齐摆摊卖鸡爪（热度：399114）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E7%99%8C%E7%97%87%E5%8E%BB%E4%B8%96%E5%90%8E%E5%A6%88%E5%A6%8815%E5%B9%B4%E7%A7%8D%E6%A0%912%E4%B8%87%E4%BA%A9%23" target="weibo">
 女儿癌症去世后妈妈15年种树2万亩（热度：392376）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B4%E5%B1%B1%E6%B5%B7%23" target="weibo">
-赴山海（热度：391488）
 </a>
 </li>
 
