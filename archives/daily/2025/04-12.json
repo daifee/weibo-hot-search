@@ -1,6 +1,6 @@
 {
   "startTime": 1744389070116,
-  "endTime": 1744450684276,
+  "endTime": 1744453403187,
   "band_list": [
     {
       "raw_hot": 3665401,
@@ -129,6 +129,14 @@
       "onboard_time": 1744418723,
       "rank": 3,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1292536,
+      "num": 288798,
+      "word": "曝鹿晗是自己不想录五哈",
+      "onboard_time": 1744451183,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1288722,
@@ -267,12 +275,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 755051,
+      "num": 755051,
+      "word": "美国人买1个鸡蛋要3.8元人民币",
+      "onboard_time": 1744449023,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 752298,
       "num": 752298,
       "word": "美国高官让各国直接打钱",
       "onboard_time": 1744417463,
       "rank": 7,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 746953,
+      "num": 746953,
+      "word": "中国企业将迎爆发式增长",
+      "onboard_time": 1744451484,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 735410,
@@ -339,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 646635,
+      "num": 364904,
+      "word": "单眼皮的小黄豆 蔡徐坤",
+      "onboard_time": 1744448303,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 638094,
       "num": 638094,
       "word": "法老聊天记录",
@@ -395,20 +427,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 557785,
-      "num": 364904,
-      "word": "单眼皮的小黄豆 蔡徐坤",
-      "onboard_time": 1744448303,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 551860,
       "num": 551860,
       "word": "特朗普抱怨限水头发湿透需15分钟",
       "onboard_time": 1744382965,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 537422,
+      "num": 358495,
+      "word": "韩安冉老公限制小猪妹消费",
+      "onboard_time": 1744449503,
+      "rank": 24,
+      "category": "网红"
     },
     {
       "raw_hot": 529313,
@@ -433,14 +465,6 @@
       "onboard_time": 1744438524,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 524903,
-      "num": 358495,
-      "word": "韩安冉老公限制小猪妹消费",
-      "onboard_time": 1744449503,
-      "rank": 24,
-      "category": "网红"
     },
     {
       "raw_hot": 507414,
@@ -563,6 +587,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 409539,
+      "num": 282004,
+      "word": "孟晚舟老公是成都七中校友",
+      "onboard_time": 1744451604,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 408239,
       "num": 408239,
       "word": "门头沟一地阵风13级",
@@ -641,6 +673,14 @@
       "onboard_time": 1744425683,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 344750,
+      "num": 344750,
+      "word": "颜人中戴安全帽演出",
+      "onboard_time": 1744450044,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 342685,
@@ -811,6 +851,14 @@
       "category": "国内时政,国内时政"
     },
     {
+      "raw_hot": 279974,
+      "num": 279974,
+      "word": "锤娜丽莎cos石矶娘娘太像了",
+      "onboard_time": 1744452625,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 276463,
       "num": 276463,
       "word": "北京大风",
@@ -819,12 +867,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 267907,
-      "num": 267907,
-      "word": "美国人买1个鸡蛋要3.8元人民币",
-      "onboard_time": 1744449023,
-      "rank": 32,
-      "category": "海外新闻"
+      "raw_hot": 275078,
+      "num": 275078,
+      "word": "无忧渡今日开播",
+      "onboard_time": 1744445843,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 264475,
@@ -867,14 +915,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 251264,
-      "num": 251264,
-      "word": "无忧渡今日开播",
-      "onboard_time": 1744445843,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 245505,
       "num": 245505,
       "word": "痞幼爆改晓华",
@@ -905,6 +945,14 @@
       "onboard_time": 1744425564,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 241268,
+      "num": 288894,
+      "word": "乘客遭遇大暴雨仿佛坐上恐怖公交",
+      "onboard_time": 1744451784,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 238443,
@@ -1091,6 +1139,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 199923,
+      "num": 286033,
+      "word": "北京50年大树被大风连根拔起",
+      "onboard_time": 1744448543,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 198767,
       "num": 198767,
       "word": "陈昊宇浪姐录制上班",
@@ -1129,14 +1185,6 @@
       "onboard_time": 1744427123,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 193907,
-      "num": 193907,
-      "word": "颜人中戴安全帽演出",
-      "onboard_time": 1744450044,
-      "rank": 27,
-      "category": "演出"
     },
     {
       "raw_hot": 193831,
@@ -1195,6 +1243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188092,
+      "num": 196894,
+      "word": "易烊千玺蛮荒禁地将今年上映",
+      "onboard_time": 1744453105,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 187672,
       "num": 187672,
       "word": "蔡徐坤期待下次相见",
@@ -1227,6 +1283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 185315,
+      "num": 185315,
+      "word": "妖怪新娘句句调情声声致命",
+      "onboard_time": 1744452324,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185113,
       "num": 185113,
       "word": "马吟吟舞娘舞台的黄金十秒",
@@ -1243,20 +1307,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 181398,
-      "num": 181398,
-      "word": "北京50年大树被大风连根拔起",
-      "onboard_time": 1744448543,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 179179,
       "num": 179179,
       "word": "iG翻盘TES",
       "onboard_time": 1744382364,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 177045,
+      "num": 177045,
+      "word": "任嘉伦宋祖儿无忧渡连更18天",
+      "onboard_time": 1744451543,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 176905,
@@ -1483,8 +1547,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 160414,
-      "num": 160414,
+      "raw_hot": 160806,
+      "num": 160806,
       "word": "泰兰德病",
       "onboard_time": 1744448184,
       "rank": 37,
@@ -1601,6 +1665,14 @@
       "onboard_time": 1744446685,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149410,
+      "num": 149410,
+      "word": "IVL",
+      "onboard_time": 1744452383,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 149371,
@@ -1731,6 +1803,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 137713,
+      "num": 137713,
+      "word": "任嘉伦发文宣传无忧渡",
+      "onboard_time": 1744451124,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137556,
       "num": 330875,
       "word": "在泰撸狮民宿遭幼狮咬伤女子发声",
@@ -1795,6 +1875,30 @@
       "category": "网红"
     },
     {
+      "raw_hot": 129694,
+      "num": 129694,
+      "word": "王一博VOGUE五月刊封面预热",
+      "onboard_time": 1744450704,
+      "rank": 43,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 129355,
+      "num": 129355,
+      "word": "孟晚舟夫妇邀请恩师到深圳旅游",
+      "onboard_time": 1744453285,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 129067,
+      "num": 348299,
+      "word": "河南极端大风刮走整片落地窗",
+      "onboard_time": 1744449023,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128699,
       "num": 251315,
       "word": "孙颖莎谢谢球迷谢谢澳门",
@@ -1841,6 +1945,22 @@
       "onboard_time": 1744437924,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 125771,
+      "num": 125771,
+      "word": "广东将出现12级大风",
+      "onboard_time": 1744453343,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125640,
+      "num": 125640,
+      "word": "日本流水面",
+      "onboard_time": 1744450764,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 125298,
@@ -2123,20 +2243,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 76654,
-      "num": 348299,
-      "word": "河南极端大风刮走整片落地窗",
-      "onboard_time": 1744449023,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 71179,
       "num": 676687,
       "word": "关注北京罕见大风",
       "onboard_time": 1744434264,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71066,
+      "num": 250775,
+      "word": "刘诗雯说继续在热爱里奔赴",
+      "onboard_time": 1744452442,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 70805,
@@ -2155,6 +2275,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 67578,
+      "num": 749710,
+      "word": "美国是多边贸易体制最大破坏者",
+      "onboard_time": 1744451604,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 66985,
       "num": 66985,
       "word": "恋与深空回应开发中素材外泄",
@@ -2169,6 +2297,14 @@
       "onboard_time": 1744410677,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 62425,
+      "num": 276063,
+      "word": "无手女孩讲述拍换卫生巾视频初衷",
+      "onboard_time": 1744452923,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 59995,
@@ -2423,6 +2559,9 @@
     },
     {
       "word": "#面向未来中国将永远在这儿#"
+    },
+    {
+      "word": "#打关税战没有赢家同世界作对将孤立自己#"
     }
   ]
 }
