@@ -1,0 +1,410 @@
+{
+  "runTime": 1744457780031,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2068481,
+        "num": 2068481,
+        "word": "无忧渡 无磨皮",
+        "onboard_time": 1744455144,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1038095,
+        "num": 1038095,
+        "word": "外交部再发重磅视频",
+        "onboard_time": 1744454484,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 72969,
+        "num": 1018870,
+        "word": "美国是多边贸易体制最大破坏者",
+        "onboard_time": 1744451604,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1013459,
+        "num": 1013459,
+        "word": "中国企业将迎爆发式增长",
+        "onboard_time": 1744451484,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 834859,
+        "num": 834859,
+        "word": "升至125%后为何中国不陪了",
+        "onboard_time": 1744434145,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 658107,
+        "num": 658107,
+        "word": "年薪28万offer被鸽后男子获赔超4.5万",
+        "onboard_time": 1744455743,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 576296,
+        "num": 576296,
+        "word": "无忧渡",
+        "onboard_time": 1744456823,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 551592,
+        "num": 551592,
+        "word": "山西订婚强奸案将宣判男方父亲发声",
+        "onboard_time": 1744453465,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 534041,
+        "num": 534041,
+        "word": "美国人买1个鸡蛋要3.8元人民币",
+        "onboard_time": 1744449023,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 211676,
+        "num": 472517,
+        "word": "90艘货船正从中国驶向美国",
+        "onboard_time": 1744457063,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 417449,
+        "num": 417449,
+        "word": "锤娜丽莎cos石矶娘娘太像了",
+        "onboard_time": 1744452625,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 401511,
+        "num": 401511,
+        "word": "孟晚舟老公是成都七中校友",
+        "onboard_time": 1744451604,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 347370,
+        "num": 347370,
+        "word": "乘客遭遇大暴雨仿佛坐上恐怖公交",
+        "onboard_time": 1744451784,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 332913,
+        "num": 332913,
+        "word": "苹果手机9天涨价500元",
+        "onboard_time": 1744453645,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 51391,
+        "num": 315430,
+        "word": "美国农民成了美政府的棋子",
+        "onboard_time": 1744456043,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 302841,
+        "num": 302841,
+        "word": "宋小宝造型好像王嘉尔",
+        "onboard_time": 1744455263,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 282058,
+        "num": 282058,
+        "word": "无忧渡今日开播",
+        "onboard_time": 1744445843,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 283229,
+        "num": 275025,
+        "word": "大风到北京城区了",
+        "onboard_time": 1744377262,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88858,
+        "num": 262468,
+        "word": "甄远道怎么跑短剧里抢牛了",
+        "onboard_time": 1744456643,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63859,
+        "num": 257312,
+        "word": "杀害2人嫌犯曾返家告知父亲其杀人",
+        "onboard_time": 1744457063,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 606199,
+        "num": 244338,
+        "word": "特朗普把made in china给遮住了",
+        "onboard_time": 1744443084,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 319247,
+        "num": 232644,
+        "word": "胃病向胃癌发展的5个信号",
+        "onboard_time": 1744447764,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 222733,
+        "num": 222733,
+        "word": "郑乃馨吐槽中国厕所脏",
+        "onboard_time": 1744422023,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206286,
+        "num": 206286,
+        "word": "折腰也动了",
+        "onboard_time": 1744438524,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101250,
+        "num": 204349,
+        "word": "张本智和想和妹妹配混双",
+        "onboard_time": 1744454603,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202637,
+        "num": 202637,
+        "word": "Hamin公式照",
+        "onboard_time": 1744457423,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197901,
+        "num": 197901,
+        "word": "第一批大风受害者出现了",
+        "onboard_time": 1744440084,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197183,
+        "num": 197183,
+        "word": "songha公式照",
+        "onboard_time": 1744457304,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190091,
+        "num": 190091,
+        "word": "你要小池塘还是大海",
+        "onboard_time": 1744455923,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 185334,
+        "num": 185334,
+        "word": "马丽被著名古装戏导演拒绝",
+        "onboard_time": 1744447584,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 386086,
+        "num": 184521,
+        "word": "生理性厌恶的8个表现",
+        "onboard_time": 1744456703,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 183196,
+        "num": 183196,
+        "word": "王晶 姜涛",
+        "onboard_time": 1744445663,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181988,
+        "num": 181988,
+        "word": "32岁女白领卵巢衰退至50岁",
+        "onboard_time": 1744442963,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177279,
+        "num": 177279,
+        "word": "SMTR25成员公式照",
+        "onboard_time": 1744455263,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176161,
+        "num": 176161,
+        "word": "春心动",
+        "onboard_time": 1744457423,
+        "rank": 34,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 172023,
+        "num": 172023,
+        "word": "2025电影票房破250亿",
+        "onboard_time": 1744457063,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 167390,
+        "num": 167390,
+        "word": "甲亢哥当场质疑蒙古创造象棋",
+        "onboard_time": 1744441282,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 164978,
+        "num": 164978,
+        "word": "王源斑马音乐节舞台",
+        "onboard_time": 1744457243,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 163666,
+        "num": 163666,
+        "word": "刘强东称不打口水仗",
+        "onboard_time": 1744455204,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 162812,
+        "num": 162812,
+        "word": "enhypen科切拉",
+        "onboard_time": 1744456224,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 161414,
+        "num": 161414,
+        "word": "喜人之夜红毯",
+        "onboard_time": 1744456944,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159727,
+        "num": 159727,
+        "word": "任嘉伦宋祖儿无忧渡连更18天",
+        "onboard_time": 1744451543,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158162,
+        "num": 158162,
+        "word": "王俊凯直播卷发造型",
+        "onboard_time": 1744457604,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151829,
+        "num": 151829,
+        "word": "颜人中戴安全帽演出",
+        "onboard_time": 1744450044,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 142283,
+        "num": 142283,
+        "word": "全身90%烧伤大学生6月想拍毕业照",
+        "onboard_time": 1744453884,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140749,
+        "num": 140749,
+        "word": "汪苏泷演唱会 天降宿命感",
+        "onboard_time": 1744454844,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 146945,
+        "num": 138863,
+        "word": "宋祖儿正式回归",
+        "onboard_time": 1744428804,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134099,
+        "num": 134099,
+        "word": "33红薯变异成蘑菇",
+        "onboard_time": 1744457486,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 126657,
+        "num": 126657,
+        "word": "北京50年大树被大风连根拔起",
+        "onboard_time": 1744448543,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121373,
+        "num": 121373,
+        "word": "越南导游说来过中国的人都说好",
+        "onboard_time": 1744456763,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#保持定力集中精力办好自己的事#"
+    }
+  }
+}
