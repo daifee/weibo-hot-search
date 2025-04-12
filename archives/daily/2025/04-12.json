@@ -1,7 +1,15 @@
 {
   "startTime": 1744389070116,
-  "endTime": 1744414642625,
+  "endTime": 1744422539706,
   "band_list": [
+    {
+      "raw_hot": 2424785,
+      "num": 2424785,
+      "word": "美因海关系统故障暂未征收关税",
+      "onboard_time": 1744415662,
+      "rank": 0,
+      "category": "国际时政"
+    },
     {
       "raw_hot": 1938262,
       "num": 1938262,
@@ -9,6 +17,14 @@
       "onboard_time": 1744363704,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1488053,
+      "num": 1488053,
+      "word": "艺考机构称陈晓已上3次课",
+      "onboard_time": 1744415181,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1357666,
@@ -27,12 +43,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1309014,
+      "num": 1309014,
+      "word": "方圆脸瘦了30斤的面部变化",
+      "onboard_time": 1744418723,
+      "rank": 3,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1288722,
       "num": 1288722,
       "word": "地铁猥亵事件男子公司称其被开除",
       "onboard_time": 1744381462,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1260073,
+      "num": 1260073,
+      "word": "二级演员公款旅游被撤职",
+      "onboard_time": 1744420282,
+      "rank": 4,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 1094148,
@@ -51,12 +83,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 893457,
-      "num": 893457,
+      "raw_hot": 894741,
+      "num": 894741,
       "word": "北京北站破例为300名学生开东门",
       "onboard_time": 1744413739,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 885945,
+      "num": 725439,
+      "word": "郑乃馨吐槽中国厕所脏",
+      "onboard_time": 1744422023,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 855111,
@@ -65,6 +105,14 @@
       "onboard_time": 1744377262,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 752298,
+      "num": 752298,
+      "word": "美国高官让各国直接打钱",
+      "onboard_time": 1744417463,
+      "rank": 7,
+      "category": "国际时政"
     },
     {
       "raw_hot": 690530,
@@ -91,6 +139,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 579604,
+      "num": 917513,
+      "word": "中企抢购巴西大豆后美国农民心凉了",
+      "onboard_time": 1744414041,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 569116,
+      "num": 728909,
+      "word": "黄子韬否认卫生巾是代加工",
+      "onboard_time": 1744414820,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 551860,
       "num": 551860,
       "word": "特朗普抱怨限水头发湿透需15分钟",
@@ -99,11 +163,35 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 529313,
+      "num": 529313,
+      "word": "刘亦菲张若昀 咸雪",
+      "onboard_time": 1744418183,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 479071,
       "num": 479071,
       "word": "性教育被语文老师讲明白了",
       "onboard_time": 1744389020,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 448448,
+      "num": 448448,
+      "word": "主持人杨乐乐为保洁阿姨发声",
+      "onboard_time": 1744413680,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 444198,
+      "num": 893914,
+      "word": "男子住32楼为防大风将窗户全封死",
+      "onboard_time": 1744413499,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -123,20 +211,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 405116,
-      "num": 893914,
-      "word": "男子住32楼为防大风将窗户全封死",
-      "onboard_time": 1744413499,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 390997,
       "num": 902296,
       "word": "北京最大阵风14级",
       "onboard_time": 1744413078,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 370344,
+      "num": 318564,
+      "word": "13岁女孩长期食用腌制菜确诊胃癌",
+      "onboard_time": 1744421244,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 358787,
+      "num": 358787,
+      "word": "雅诗兰黛隐瞒依赖中国代购股价跳水",
+      "onboard_time": 1744415483,
+      "rank": 17,
+      "category": "财经"
     },
     {
       "raw_hot": 350593,
@@ -195,6 +291,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 320679,
+      "num": 320679,
+      "word": "浪姐6 复活赛",
+      "onboard_time": 1744416263,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 317072,
       "num": 317072,
       "word": "鞠婧祎工作室",
@@ -209,6 +313,30 @@
       "onboard_time": 1744353143,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 256923,
+      "num": 725630,
+      "word": "河南出现15级大风",
+      "onboard_time": 1744421781,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 245505,
+      "num": 245505,
+      "word": "痞幼爆改晓华",
+      "onboard_time": 1744419863,
+      "rank": 27,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 237022,
+      "num": 254844,
+      "word": "科切拉",
+      "onboard_time": 1744421963,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 230716,
@@ -251,14 +379,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 209527,
-      "num": 119652,
-      "word": "主持人杨乐乐为保洁阿姨发声",
-      "onboard_time": 1744413680,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 204661,
       "num": 204661,
       "word": "韩国女刊封面上的华语星光",
@@ -283,16 +403,24 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 200092,
-      "num": 917513,
-      "word": "中企抢购巴西大豆后美国农民心凉了",
-      "onboard_time": 1744414041,
-      "rank": 6,
-      "category": "国际时政"
+      "raw_hot": 195763,
+      "num": 195763,
+      "word": "杨肸子人气",
+      "onboard_time": 1744421603,
+      "rank": 29,
+      "category": "艺人,剧集"
+    },
+    {
+      "raw_hot": 193831,
+      "num": 193831,
+      "word": "男子拿13年前三金变现3万多元",
+      "onboard_time": 1744417222,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 188848,
-      "num": 1116330,
+      "num": 1392846,
       "word": "以中国稳应对美国疯",
       "onboard_time": 1744377383,
       "rank": 2,
@@ -315,6 +443,30 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 176905,
+      "num": 176905,
+      "word": "宋妍霏在舞娘里放了什么",
+      "onboard_time": 1744420943,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 176774,
+      "num": 176774,
+      "word": "山西大同因大风天胶带销量暴涨",
+      "onboard_time": 1744420282,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 175151,
+      "num": 175151,
+      "word": "济南大风",
+      "onboard_time": 1744415121,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 173269,
       "num": 173269,
       "word": "盒马向中国外贸企业开放绿色通道",
@@ -329,6 +481,22 @@
       "onboard_time": 1744385244,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 172110,
+      "num": 172110,
+      "word": "十岁女儿给戚薇李承铉写作文报备",
+      "onboard_time": 1744415001,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 168037,
+      "num": 168037,
+      "word": "郑州大风",
+      "onboard_time": 1744419563,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 165707,
@@ -371,12 +539,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154919,
+      "num": 154919,
+      "word": "官方翻译让美方听懂中国底线",
+      "onboard_time": 1744418663,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 152955,
       "num": 152955,
       "word": "贾玲新电影饭制海报",
       "onboard_time": 1744378704,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 150211,
+      "num": 150211,
+      "word": "杭州有人中了1111万",
+      "onboard_time": 1744418422,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148891,
+      "num": 148891,
+      "word": "斑马音乐节",
+      "onboard_time": 1744421304,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 147548,
@@ -387,12 +579,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147171,
+      "num": 147171,
+      "word": "王力宏烧钢琴细节",
+      "onboard_time": 1744413979,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 140866,
       "num": 140866,
       "word": "徐克获金像奖终身成就奖",
       "onboard_time": 1744377444,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 138277,
+      "num": 138277,
+      "word": "金价飙涨黄金回收商家不敢持金过夜",
+      "onboard_time": 1744413439,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 137729,
@@ -411,6 +619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132178,
+      "num": 132178,
+      "word": "三河市",
+      "onboard_time": 1744422323,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131025,
       "num": 131025,
       "word": "北京延庆出现10级风",
@@ -419,12 +635,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129818,
+      "num": 129818,
+      "word": "网红田一名接广告了",
+      "onboard_time": 1744418364,
+      "rank": 46,
+      "category": "网红"
+    },
+    {
       "raw_hot": 126543,
       "num": 126543,
       "word": "关税加了鸡蛋没了",
       "onboard_time": 1744366044,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 126411,
+      "num": 126411,
+      "word": "发自拍后被整容医生关注了",
+      "onboard_time": 1744421844,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 123448,
@@ -451,19 +683,19 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 118882,
-      "num": 118882,
-      "word": "金价飙涨黄金回收商家不敢持金过夜",
-      "onboard_time": 1744413439,
-      "rank": 48,
-      "category": "财经"
-    },
-    {
       "raw_hot": 118606,
       "num": 118606,
       "word": "胡夏演唱会已开启退票通道",
       "onboard_time": 1744375942,
       "rank": 38,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 117679,
+      "num": 120246,
+      "word": "法老",
+      "onboard_time": 1744413619,
+      "rank": 34,
       "category": "演出"
     },
     {
@@ -521,22 +753,6 @@
       "onboard_time": 1744413499,
       "rank": 49,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 92751,
-      "num": 120707,
-      "word": "王力宏烧钢琴细节",
-      "onboard_time": 1744413979,
-      "rank": 28,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 92336,
-      "num": 120246,
-      "word": "法老",
-      "onboard_time": 1744413619,
-      "rank": 34,
-      "category": "演出"
     },
     {
       "raw_hot": 92304,
