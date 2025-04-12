@@ -1,6 +1,6 @@
 {
   "startTime": 1744389070116,
-  "endTime": 1744446516692,
+  "endTime": 1744447312363,
   "band_list": [
     {
       "raw_hot": 3665401,
@@ -75,19 +75,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1869422,
+      "num": 1869422,
+      "word": "邓超说鹿晗非常地懊悔",
+      "onboard_time": 1744444043,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1817188,
       "num": 1817188,
       "word": "范志毅说鹿晗老舅要为错误买单",
       "onboard_time": 1744436903,
       "rank": 1,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1714056,
-      "num": 1714056,
-      "word": "邓超说鹿晗非常地懊悔",
-      "onboard_time": 1744444043,
-      "rank": 0,
       "category": "综艺"
     },
     {
@@ -283,6 +283,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 702727,
+      "num": 364711,
+      "word": "特朗普换下奥巴马肖像",
+      "onboard_time": 1744445123,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 702655,
       "num": 471570,
       "word": "男子将养女掐死后扔进水库",
@@ -404,7 +412,7 @@
     },
     {
       "raw_hot": 507414,
-      "num": 418091,
+      "num": 456106,
       "word": "关税加了山东零售巨头出手了",
       "onboard_time": 1744443443,
       "rank": 10,
@@ -473,6 +481,14 @@
       "onboard_time": 1744413499,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 435341,
+      "num": 298946,
+      "word": "王晶 姜涛",
+      "onboard_time": 1744445663,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 423992,
@@ -545,14 +561,6 @@
       "onboard_time": 1744442903,
       "rank": 11,
       "category": "艺人,综艺"
-    },
-    {
-      "raw_hot": 364711,
-      "num": 364711,
-      "word": "特朗普换下奥巴马肖像",
-      "onboard_time": 1744445123,
-      "rank": 13,
-      "category": "国际时政"
     },
     {
       "raw_hot": 358787,
@@ -683,6 +691,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 313617,
+      "num": 266424,
+      "word": "32岁女白领卵巢衰退至50岁",
+      "onboard_time": 1744442963,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 310795,
       "num": 310795,
       "word": "LadyGaga科切拉舞台",
@@ -699,28 +715,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 303119,
-      "num": 266424,
-      "word": "32岁女白领卵巢衰退至50岁",
-      "onboard_time": 1744442963,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 298254,
       "num": 298254,
       "word": "无忧渡绮梦版预告",
       "onboard_time": 1744424663,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 296374,
-      "num": 296374,
-      "word": "王晶 姜涛",
-      "onboard_time": 1744445663,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 294913,
@@ -737,6 +737,14 @@
       "onboard_time": 1744441343,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 287801,
+      "num": 287801,
+      "word": "胡静曾因长相接不到现代戏",
+      "onboard_time": 1744444163,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 281201,
@@ -779,14 +787,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 262824,
-      "num": 262824,
-      "word": "胡静曾因长相接不到现代戏",
-      "onboard_time": 1744444163,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 262128,
       "num": 262128,
       "word": "王蓉浪姐疑似只签了一期",
@@ -801,6 +801,14 @@
       "onboard_time": 1744426043,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 251264,
+      "num": 251264,
+      "word": "无忧渡今日开播",
+      "onboard_time": 1744445843,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 245505,
@@ -881,14 +889,6 @@
       "onboard_time": 1744384403,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 230107,
-      "num": 230107,
-      "word": "无忧渡今日开播",
-      "onboard_time": 1744445843,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 229996,
@@ -1019,6 +1019,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 199124,
+      "num": 199124,
+      "word": "无忧渡OST歌单",
+      "onboard_time": 1744446563,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198767,
       "num": 198767,
       "word": "陈昊宇浪姐录制上班",
@@ -1105,6 +1113,14 @@
       "onboard_time": 1744431565,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187672,
+      "num": 187672,
+      "word": "蔡徐坤期待下次相见",
+      "onboard_time": 1744446383,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 187372,
@@ -1195,6 +1211,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 175113,
+      "num": 418504,
+      "word": "中国西班牙升级电影合作",
+      "onboard_time": 1744444824,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 174979,
+      "num": 174979,
+      "word": "上帝到底给侯佩岑关了哪扇窗啊",
+      "onboard_time": 1744446743,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 174000,
       "num": 174000,
       "word": "深圳大风到哪了",
@@ -1235,12 +1267,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171267,
+      "num": 171267,
+      "word": "宇露君沾",
+      "onboard_time": 1744446383,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168037,
       "num": 168037,
       "word": "郑州大风",
       "onboard_time": 1744419563,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 167731,
+      "num": 167731,
+      "word": "梦龙上海演唱会取消",
+      "onboard_time": 1744447285,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 165707,
@@ -1331,6 +1379,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158848,
+      "num": 158848,
+      "word": "内娱好久没有女频探案剧了",
+      "onboard_time": 1744446924,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 157363,
+      "num": 157363,
+      "word": "童瑶周依然新剧演葫芦娃救爷爷",
+      "onboard_time": 1744446924,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157165,
       "num": 157165,
       "word": "HLE对战T1",
@@ -1377,6 +1441,14 @@
       "onboard_time": 1744426884,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149918,
+      "num": 149918,
+      "word": "纪委回应商户招牌被禁用红蓝黑三色",
+      "onboard_time": 1744446685,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 149371,
@@ -1435,6 +1507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145732,
+      "num": 145732,
+      "word": "赵露思在山里种下期待的种子",
+      "onboard_time": 1744446504,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143508,
       "num": 143508,
       "word": "孙燕姿抢票",
@@ -1451,14 +1531,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 139621,
-      "num": 418504,
-      "word": "中国西班牙升级电影合作",
-      "onboard_time": 1744444824,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 139283,
       "num": 139283,
       "word": "三河市",
@@ -1473,6 +1545,14 @@
       "onboard_time": 1744436843,
       "rank": 43,
       "category": "网红"
+    },
+    {
+      "raw_hot": 138765,
+      "num": 138765,
+      "word": "陈赫把自己养的很好",
+      "onboard_time": 1744446983,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 138277,
@@ -1548,7 +1628,7 @@
     },
     {
       "raw_hot": 128699,
-      "num": 128699,
+      "num": 251315,
       "word": "孙颖莎谢谢球迷谢谢澳门",
       "onboard_time": 1744439723,
       "rank": 45,
@@ -1683,22 +1763,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 117325,
-      "num": 117325,
-      "word": "蔡徐坤期待下次相见",
-      "onboard_time": 1744446383,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 116903,
-      "num": 116903,
-      "word": "宇露君沾",
-      "onboard_time": 1744446383,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 115141,
       "num": 115141,
       "word": "鞠婧祎陈都灵两张脸拿什么输",
@@ -1763,8 +1827,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 99915,
+      "num": 334037,
+      "word": "北京目前进入北风最强时段",
+      "onboard_time": 1744446203,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99513,
-      "num": 151717,
+      "num": 175021,
       "word": "向鹏3比2林钟勋",
       "onboard_time": 1744446383,
       "rank": 37,
@@ -1985,14 +2057,6 @@
       "onboard_time": 1744382965,
       "rank": 40,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 34956,
-      "num": 269808,
-      "word": "北京目前进入北风最强时段",
-      "onboard_time": 1744446203,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 32581,
