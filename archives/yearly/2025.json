@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1744422539706,
+  "endTime": 1744423857895,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -1683,6 +1683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3415578,
+      "num": 725439,
+      "word": "郑乃馨吐槽中国厕所脏",
+      "onboard_time": 1744422023,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3406269,
       "num": 3406269,
       "word": "蛟龙行动撤档",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1739246540,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2922751,
-      "num": 2922751,
-      "word": "沈腾微博King",
-      "onboard_time": 1736606010,
-      "rank": 3,
-      "category": "作品衍生"
     }
   ],
   "hotgov_list": [

@@ -1,7 +1,15 @@
 {
   "startTime": 1744389070116,
-  "endTime": 1744422539706,
+  "endTime": 1744423857895,
   "band_list": [
+    {
+      "raw_hot": 3415578,
+      "num": 725439,
+      "word": "郑乃馨吐槽中国厕所脏",
+      "onboard_time": 1744422023,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2424785,
       "num": 2424785,
@@ -75,6 +83,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1004284,
+      "num": 1004284,
+      "word": "河南出现15级大风",
+      "onboard_time": 1744421781,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 925804,
       "num": 925804,
       "word": "爱奇艺 淮水竹亭",
@@ -89,14 +105,6 @@
       "onboard_time": 1744413739,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 885945,
-      "num": 725439,
-      "word": "郑乃馨吐槽中国厕所脏",
-      "onboard_time": 1744422023,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 855111,
@@ -187,12 +195,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 446601,
+      "num": 318564,
+      "word": "13岁女孩长期食用腌制菜确诊胃癌",
+      "onboard_time": 1744421244,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 444198,
       "num": 893914,
       "word": "男子住32楼为防大风将窗户全封死",
       "onboard_time": 1744413499,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 436072,
+      "num": 436072,
+      "word": "男子将养女掐死后扔进水库",
+      "onboard_time": 1744423524,
+      "rank": 13,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 421992,
@@ -216,14 +240,6 @@
       "word": "北京最大阵风14级",
       "onboard_time": 1744413078,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 370344,
-      "num": 318564,
-      "word": "13岁女孩长期食用腌制菜确诊胃癌",
-      "onboard_time": 1744421244,
-      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -292,7 +308,7 @@
     },
     {
       "raw_hot": 320679,
-      "num": 320679,
+      "num": 328044,
       "word": "浪姐6 复活赛",
       "onboard_time": 1744416263,
       "rank": 19,
@@ -307,6 +323,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 294913,
+      "num": 332965,
+      "word": "科切拉",
+      "onboard_time": 1744421963,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 276463,
       "num": 276463,
       "word": "北京大风",
@@ -315,12 +339,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 256923,
-      "num": 725630,
-      "word": "河南出现15级大风",
-      "onboard_time": 1744421781,
-      "rank": 9,
-      "category": "突发/灾害"
+      "raw_hot": 264153,
+      "num": 321041,
+      "word": "山西大同因大风天胶带销量暴涨",
+      "onboard_time": 1744420282,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 245505,
@@ -331,12 +355,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 237022,
-      "num": 254844,
-      "word": "科切拉",
-      "onboard_time": 1744421963,
-      "rank": 24,
-      "category": "演出"
+      "raw_hot": 235296,
+      "num": 235296,
+      "word": "韩安冉说和殷世航是假玩",
+      "onboard_time": 1744422565,
+      "rank": 28,
+      "category": "网红"
     },
     {
       "raw_hot": 230716,
@@ -379,6 +403,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 210528,
+      "num": 210528,
+      "word": "杨肸子人气",
+      "onboard_time": 1744421603,
+      "rank": 29,
+      "category": "艺人,剧集"
+    },
+    {
       "raw_hot": 204661,
       "num": 204661,
       "word": "韩国女刊封面上的华语星光",
@@ -401,14 +433,6 @@
       "onboard_time": 1744413739,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 195763,
-      "num": 195763,
-      "word": "杨肸子人气",
-      "onboard_time": 1744421603,
-      "rank": 29,
-      "category": "艺人,剧集"
     },
     {
       "raw_hot": 193831,
@@ -449,14 +473,6 @@
       "onboard_time": 1744420943,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 176774,
-      "num": 176774,
-      "word": "山西大同因大风天胶带销量暴涨",
-      "onboard_time": 1744420282,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 175151,
@@ -523,6 +539,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 160063,
+      "num": 160063,
+      "word": "TheShy向队友道歉",
+      "onboard_time": 1744423584,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 159808,
       "num": 153152,
       "word": "可复美面膜检出表皮生长因子成分",
@@ -587,12 +611,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 146419,
+      "num": 146419,
+      "word": "美债抛售潮加速",
+      "onboard_time": 1744422624,
+      "rank": 41,
+      "category": "财经,国际时政"
+    },
+    {
       "raw_hot": 140866,
       "num": 140866,
       "word": "徐克获金像奖终身成就奖",
       "onboard_time": 1744377444,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 139283,
+      "num": 139283,
+      "word": "三河市",
+      "onboard_time": 1744422323,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138277,
@@ -619,12 +659,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 132178,
-      "num": 132178,
-      "word": "三河市",
-      "onboard_time": 1744422323,
-      "rank": 44,
-      "category": "民生新闻"
+      "raw_hot": 131627,
+      "num": 131627,
+      "word": "浪姐每次都压错宝",
+      "onboard_time": 1744423461,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 131025,
@@ -819,6 +859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 61259,
+      "num": 151797,
+      "word": "北京极端大风今天进入最强时段",
+      "onboard_time": 1744423764,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59995,
       "num": 140991,
       "word": "虞书欣你往图里加了什么",
@@ -891,6 +939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28449,
+      "num": 322642,
+      "word": "窗户贴麦字 因为麦克风",
+      "onboard_time": 1744423044,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 27691,
       "num": 34452,
       "word": "大山",
@@ -953,6 +1009,14 @@
       "onboard_time": 1744402934,
       "rank": 46,
       "category": "健康医疗,运动健身"
+    },
+    {
+      "raw_hot": 14895,
+      "num": 146991,
+      "word": "北京大风现场画面",
+      "onboard_time": 1744423823,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14729,

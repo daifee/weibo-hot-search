@@ -1,0 +1,410 @@
+{
+  "runTime": 1744423857895,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2133581,
+        "num": 2133581,
+        "word": "美因海关系统故障暂未征收关税",
+        "onboard_time": 1744415662,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1154852,
+        "num": 1154852,
+        "word": "艺考机构称陈晓已上3次课",
+        "onboard_time": 1744415181,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151292,
+        "num": 1017579,
+        "word": "以中国稳应对美国疯",
+        "onboard_time": 1744377383,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1009606,
+        "num": 1009606,
+        "word": "方圆脸瘦了30斤的面部变化",
+        "onboard_time": 1744418723,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1004284,
+        "num": 1004284,
+        "word": "河南出现15级大风",
+        "onboard_time": 1744421781,
+        "rank": 4,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 991383,
+        "num": 991383,
+        "word": "二级演员公款旅游被撤职",
+        "onboard_time": 1744420282,
+        "rank": 5,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 932548,
+        "num": 932548,
+        "word": "大风到哪了",
+        "onboard_time": 1744363704,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 693677,
+        "num": 693677,
+        "word": "北京北站破例为300名学生开东门",
+        "onboard_time": 1744413739,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 524229,
+        "num": 524229,
+        "word": "美国高官让各国直接打钱",
+        "onboard_time": 1744417463,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 441012,
+        "num": 461482,
+        "word": "刘亦菲张若昀 咸雪",
+        "onboard_time": 1744418183,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 3415578,
+        "num": 454895,
+        "word": "郑乃馨吐槽中国厕所脏",
+        "onboard_time": 1744422023,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 747941,
+        "num": 452031,
+        "word": "大风到北京城区了",
+        "onboard_time": 1744377262,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 444608,
+        "num": 444608,
+        "word": "中企抢购巴西大豆后美国农民心凉了",
+        "onboard_time": 1744414041,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 436072,
+        "num": 436072,
+        "word": "男子将养女掐死后扔进水库",
+        "onboard_time": 1744423524,
+        "rank": 13,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 405784,
+        "num": 405784,
+        "word": "黄子韬否认卫生巾是代加工",
+        "onboard_time": 1744414820,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 394891,
+        "num": 394891,
+        "word": "男子住32楼为防大风将窗户全封死",
+        "onboard_time": 1744413499,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 334501,
+        "num": 334501,
+        "word": "主持人杨乐乐为保洁阿姨发声",
+        "onboard_time": 1744413680,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294913,
+        "num": 332965,
+        "word": "科切拉",
+        "onboard_time": 1744421963,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 253689,
+        "num": 328044,
+        "word": "浪姐6 复活赛",
+        "onboard_time": 1744416263,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28449,
+        "num": 322642,
+        "word": "窗户贴麦字 因为麦克风",
+        "onboard_time": 1744423044,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 264153,
+        "num": 321041,
+        "word": "山西大同因大风天胶带销量暴涨",
+        "onboard_time": 1744420282,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 446601,
+        "num": 315657,
+        "word": "13岁女孩长期食用腌制菜确诊胃癌",
+        "onboard_time": 1744421244,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 312169,
+        "num": 312169,
+        "word": "对美所有进口商品加征125%关税",
+        "onboard_time": 1744359084,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 306627,
+        "num": 306627,
+        "word": "雅诗兰黛隐瞒依赖中国代购股价跳水",
+        "onboard_time": 1744415483,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 291288,
+        "num": 291288,
+        "word": "中国制造商向美国客户明确表示不会降价",
+        "onboard_time": 1744391778,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 287822,
+        "num": 287822,
+        "word": "北京最大阵风14级",
+        "onboard_time": 1744413078,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264640,
+        "num": 264640,
+        "word": "地铁猥亵事件男子公司称其被开除",
+        "onboard_time": 1744381462,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243424,
+        "num": 243424,
+        "word": "直观感受12级大风有多猛",
+        "onboard_time": 1744391778,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235296,
+        "num": 235296,
+        "word": "韩安冉说和殷世航是假玩",
+        "onboard_time": 1744422565,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 178660,
+        "num": 226026,
+        "word": "邓超说鹿晗状态非常好",
+        "onboard_time": 1744413439,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 221920,
+        "num": 221920,
+        "word": "北京大风",
+        "onboard_time": 1744353143,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210528,
+        "num": 210528,
+        "word": "杨肸子人气",
+        "onboard_time": 1744421603,
+        "rank": 31,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 204555,
+        "num": 204555,
+        "word": "性教育被语文老师讲明白了",
+        "onboard_time": 1744389020,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176388,
+        "num": 176388,
+        "word": "男子拿13年前三金变现3万多元",
+        "onboard_time": 1744417222,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160063,
+        "num": 160063,
+        "word": "TheShy向队友道歉",
+        "onboard_time": 1744423584,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 152930,
+        "num": 152930,
+        "word": "恋与深空偷跑",
+        "onboard_time": 1744395375,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 61259,
+        "num": 151797,
+        "word": "北京极端大风今天进入最强时段",
+        "onboard_time": 1744423764,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150878,
+        "num": 150878,
+        "word": "郑州大风",
+        "onboard_time": 1744419563,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147262,
+        "num": 147262,
+        "word": "十岁女儿给戚薇李承铉写作文报备",
+        "onboard_time": 1744415001,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14895,
+        "num": 146991,
+        "word": "北京大风现场画面",
+        "onboard_time": 1744423823,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146846,
+        "num": 146846,
+        "word": "痞幼爆改晓华",
+        "onboard_time": 1744419863,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 146419,
+        "num": 146419,
+        "word": "美债抛售潮加速",
+        "onboard_time": 1744422624,
+        "rank": 41,
+        "category": "财经,国际时政"
+      },
+      {
+        "raw_hot": 144618,
+        "num": 144618,
+        "word": "杭州有人中了1111万",
+        "onboard_time": 1744418422,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143093,
+        "num": 143093,
+        "word": "义乌老板娘霸气喊话美国客户",
+        "onboard_time": 1744385063,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141303,
+        "num": 141303,
+        "word": "宋妍霏在舞娘里放了什么",
+        "onboard_time": 1744420943,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139283,
+        "num": 139283,
+        "word": "三河市",
+        "onboard_time": 1744422323,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136794,
+        "num": 136794,
+        "word": "官方翻译让美方听懂中国底线",
+        "onboard_time": 1744418663,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 133001,
+        "num": 133001,
+        "word": "爱奇艺 淮水竹亭",
+        "onboard_time": 1744383084,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131627,
+        "num": 131627,
+        "word": "浪姐每次都压错宝",
+        "onboard_time": 1744423461,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129750,
+        "num": 129750,
+        "word": "廊坊纪委调查三河商户招牌变色",
+        "onboard_time": 1744380864,
+        "rank": 49,
+        "category": "舆论监督"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国发展从不靠谁的恩赐#"
+    }
+  }
+}

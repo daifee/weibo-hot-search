@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744422539706,
+  "endTime": 1744423857895,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -169,6 +169,14 @@
       "onboard_time": 1743570086,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 3415578,
+      "num": 725439,
+      "word": "郑乃馨吐槽中国厕所脏",
+      "onboard_time": 1744422023,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 3377057,
@@ -2467,6 +2475,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1004284,
+      "num": 1004284,
+      "word": "河南出现15级大风",
+      "onboard_time": 1744421781,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 1003324,
       "num": 787999,
       "word": "美股",
@@ -3049,14 +3065,6 @@
       "onboard_time": 1744186761,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 885945,
-      "num": 725439,
-      "word": "郑乃馨吐槽中国厕所脏",
-      "onboard_time": 1744422023,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 884518,
@@ -6907,6 +6915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 446601,
+      "num": 318564,
+      "word": "13岁女孩长期食用腌制菜确诊胃癌",
+      "onboard_time": 1744421244,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 445719,
       "num": 445719,
       "word": "张艺兴撞脸出道蛋糕",
@@ -7065,6 +7081,14 @@
       "onboard_time": 1743557541,
       "rank": 8,
       "category": "教育"
+    },
+    {
+      "raw_hot": 436072,
+      "num": 436072,
+      "word": "男子将养女掐死后扔进水库",
+      "onboard_time": 1744423524,
+      "rank": 13,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 435494,
@@ -8361,14 +8385,6 @@
       "onboard_time": 1743475462,
       "rank": 7,
       "category": "教育"
-    },
-    {
-      "raw_hot": 370344,
-      "num": 318564,
-      "word": "13岁女孩长期食用腌制菜确诊胃癌",
-      "onboard_time": 1744421244,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 369749,
@@ -9692,7 +9708,7 @@
     },
     {
       "raw_hot": 320679,
-      "num": 320679,
+      "num": 328044,
       "word": "浪姐6 复活赛",
       "onboard_time": 1744416263,
       "rank": 19,
@@ -10601,6 +10617,14 @@
       "onboard_time": 1744112242,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 294913,
+      "num": 332965,
+      "word": "科切拉",
+      "onboard_time": 1743770842,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 294786,
@@ -11803,6 +11827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 264153,
+      "num": 321041,
+      "word": "山西大同因大风天胶带销量暴涨",
+      "onboard_time": 1744420282,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 264050,
       "num": 250018,
       "word": "医生建议想减肥的人早晚分别称体重",
@@ -12121,14 +12153,6 @@
       "onboard_time": 1743667942,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 256923,
-      "num": 725630,
-      "word": "河南出现15级大风",
-      "onboard_time": 1744421781,
-      "rank": 9,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 256802,
@@ -12955,14 +12979,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 237022,
-      "num": 254844,
-      "word": "科切拉",
-      "onboard_time": 1743770842,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 236855,
       "num": 236855,
       "word": "华晨宇 郑楠编曲",
@@ -13033,6 +13049,14 @@
       "onboard_time": 1743584302,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 235296,
+      "num": 235296,
+      "word": "韩安冉说和殷世航是假玩",
+      "onboard_time": 1744422565,
+      "rank": 28,
+      "category": "网红"
     },
     {
       "raw_hot": 235259,
@@ -14705,6 +14729,14 @@
       "onboard_time": 1744024043,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 210528,
+      "num": 210528,
+      "word": "杨肸子人气",
+      "onboard_time": 1744421603,
+      "rank": 29,
+      "category": "艺人,剧集"
     },
     {
       "raw_hot": 210457,
@@ -16409,14 +16441,6 @@
       "onboard_time": 1743503122,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 195763,
-      "num": 195763,
-      "word": "杨肸子人气",
-      "onboard_time": 1744421603,
-      "rank": 29,
-      "category": "艺人,剧集"
     },
     {
       "raw_hot": 195749,
@@ -18947,14 +18971,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 176774,
-      "num": 176774,
-      "word": "山西大同因大风天胶带销量暴涨",
-      "onboard_time": 1744420282,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 176745,
       "num": 177413,
       "word": "许昕说除了乒乓球都不服马龙",
@@ -20971,6 +20987,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 160063,
+      "num": 160063,
+      "word": "TheShy向队友道歉",
+      "onboard_time": 1744423584,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 159995,
       "num": 159995,
       "word": "苏新皓维权进展",
@@ -22931,6 +22955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146419,
+      "num": 146419,
+      "word": "美债抛售潮加速",
+      "onboard_time": 1744422624,
+      "rank": 41,
+      "category": "财经,国际时政"
+    },
+    {
       "raw_hot": 146382,
       "num": 146382,
       "word": "梁王组合逆转晋级亚锦赛8强",
@@ -23929,6 +23961,14 @@
       "onboard_time": 1743917300,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 139283,
+      "num": 139283,
+      "word": "三河市",
+      "onboard_time": 1744422323,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 139234,
@@ -25035,14 +25075,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 132178,
-      "num": 132178,
-      "word": "三河市",
-      "onboard_time": 1744422323,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 132128,
       "num": 132128,
       "word": "梅西梅开二度",
@@ -25153,6 +25185,14 @@
       "onboard_time": 1743671063,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131627,
+      "num": 131627,
+      "word": "浪姐每次都压错宝",
+      "onboard_time": 1744423461,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 131430,
@@ -32011,6 +32051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 61259,
+      "num": 151797,
+      "word": "北京极端大风今天进入最强时段",
+      "onboard_time": 1744423764,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61144,
       "num": 238308,
       "word": "曹县把牡丹香缝进汉服香气2年不散",
@@ -34731,6 +34779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 28449,
+      "num": 322642,
+      "word": "窗户贴麦字 因为麦克风",
+      "onboard_time": 1744423044,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 28394,
       "num": 269610,
       "word": "马龙戴上红领巾笑得超乖",
@@ -36168,6 +36224,14 @@
       "word": "柳絮来了",
       "onboard_time": 1743789256,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14895,
+      "num": 146991,
+      "word": "北京大风现场画面",
+      "onboard_time": 1744423823,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
