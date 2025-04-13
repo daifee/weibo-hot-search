@@ -1,0 +1,410 @@
+{
+  "runTime": 1744554069328,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1252571,
+        "num": 1252571,
+        "word": "店主解释为何女装越做越小",
+        "onboard_time": 1744541421,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 901765,
+        "num": 901765,
+        "word": "145%关税让1只熊猫玩偶卖80美元",
+        "onboard_time": 1744537883,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 84975,
+        "num": 720662,
+        "word": "大张旗鼓加税偷偷摸摸豁免",
+        "onboard_time": 1744553605,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 702629,
+        "num": 702629,
+        "word": "宋妍霏手纹重到不敢和人握手",
+        "onboard_time": 1744550964,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 660543,
+        "num": 660543,
+        "word": "鸟类感染病毒后脖子扭转180度",
+        "onboard_time": 1744550424,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 508846,
+        "num": 508846,
+        "word": "无忧渡",
+        "onboard_time": 1744534043,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 430110,
+        "num": 430110,
+        "word": "刘宇宁直播称新剧快播了",
+        "onboard_time": 1744551023,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 368185,
+        "num": 368185,
+        "word": "商务部回应美豁免部分产品关税",
+        "onboard_time": 1744544182,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 365802,
+        "num": 365802,
+        "word": "辽宁男篮vs新疆男篮",
+        "onboard_time": 1744552703,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94103,
+        "num": 360338,
+        "word": "岳阳楼景区说没游客背滕王阁序",
+        "onboard_time": 1744553424,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1723217,
+        "num": 357798,
+        "word": "女子扮石矶娘娘被一男子辱骂成日本人",
+        "onboard_time": 1744552764,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1656069,
+        "num": 352047,
+        "word": "李佳琦不建议普通女生做医美",
+        "onboard_time": 1744543761,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 899716,
+        "num": 347828,
+        "word": "28岁网红因病去世留下4个孩子",
+        "onboard_time": 1744548082,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112617,
+        "num": 339392,
+        "word": "陌生男子凌晨刷通卡闯入3女子房间",
+        "onboard_time": 1744552643,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42409,
+        "num": 332671,
+        "word": "中欧双方团队就电动车谈判开始接触",
+        "onboard_time": 1744553123,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 790828,
+        "num": 328138,
+        "word": "周杰伦昆凌把旅综录成恋综",
+        "onboard_time": 1744552764,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 730613,
+        "num": 323457,
+        "word": "杨幂 苹果掰开",
+        "onboard_time": 1744549944,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 614595,
+        "num": 319696,
+        "word": "好友为赵丽颖发声",
+        "onboard_time": 1744549103,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 316034,
+        "num": 316034,
+        "word": "尹锡悦戴红帽子让韩国再次伟大",
+        "onboard_time": 1744544001,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 312487,
+        "num": 312487,
+        "word": "弟弟找开锁上门后发现姐姐已去世",
+        "onboard_time": 1744540761,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 358517,
+        "num": 311743,
+        "word": "让体重逐渐下降的40个冷知识",
+        "onboard_time": 1744536922,
+        "rank": 20,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 308196,
+        "num": 308196,
+        "word": "公司约9827万应收账款拍卖2.85万成交",
+        "onboard_time": 1744550603,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 292347,
+        "num": 292347,
+        "word": "张远 有一首歌红了真好",
+        "onboard_time": 1744552764,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 5426,
+        "num": 277663,
+        "word": "2025世界互联网大会亚太峰会",
+        "onboard_time": 1744515802,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67774,
+        "num": 275626,
+        "word": "阿尔卡拉斯首夺蒙特卡洛冠军",
+        "onboard_time": 1744552163,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 274433,
+        "num": 274433,
+        "word": "祝绪丹也是穿上李晟的痛衣了",
+        "onboard_time": 1744553062,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273552,
+        "num": 273552,
+        "word": "25岁歌手演出第二天猝死",
+        "onboard_time": 1744548262,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259358,
+        "num": 259358,
+        "word": "急性心梗30秒自救方法",
+        "onboard_time": 1744551923,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 217726,
+        "num": 242325,
+        "word": "汪苏泷断眉",
+        "onboard_time": 1744551203,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 197697,
+        "num": 234181,
+        "word": "孟子义清冷钓系美人",
+        "onboard_time": 1744552764,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230173,
+        "num": 230173,
+        "word": "AG对战狼队",
+        "onboard_time": 1744548503,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 227299,
+        "num": 227299,
+        "word": "7岁男孩上学途中遭3只大型犬撕咬",
+        "onboard_time": 1744541001,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214351,
+        "num": 214351,
+        "word": "杨舒予总决赛MVP",
+        "onboard_time": 1744553605,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207622,
+        "num": 207622,
+        "word": "孙颖莎出席世界杯晚宴",
+        "onboard_time": 1744553003,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172395,
+        "num": 207374,
+        "word": "50岁正是追星的好年纪",
+        "onboard_time": 1744551143,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 207245,
+        "num": 207245,
+        "word": "AG确定胜者组",
+        "onboard_time": 1744553003,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 199430,
+        "num": 199430,
+        "word": "广东女篮WCBA夺冠",
+        "onboard_time": 1744552883,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195957,
+        "num": 195957,
+        "word": "桃黑黑 不直播",
+        "onboard_time": 1744549883,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 189751,
+        "num": 189751,
+        "word": "电瓶燃爆烧伤男生称无法原谅室友",
+        "onboard_time": 1744546342,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182324,
+        "num": 182324,
+        "word": "赵一博泥人儿赵",
+        "onboard_time": 1744553545,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174898,
+        "num": 174898,
+        "word": "九尾海月MVP",
+        "onboard_time": 1744553003,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 161360,
+        "num": 161360,
+        "word": "国家安全机关破获一起重大间谍案件",
+        "onboard_time": 1744541782,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 158876,
+        "num": 158876,
+        "word": "三河强换商户招牌需给公众一个交代",
+        "onboard_time": 1744539622,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158806,
+        "num": 158806,
+        "word": "九尾火舞燃尽了",
+        "onboard_time": 1744550842,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 158291,
+        "num": 158291,
+        "word": "许嵩要发歌全平台一起加班",
+        "onboard_time": 1744553605,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 154698,
+        "num": 154698,
+        "word": "韩式英语一出来面相都变了",
+        "onboard_time": 1744547480,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154367,
+        "num": 154367,
+        "word": "陈赫这帮人还是太天真",
+        "onboard_time": 1744547602,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63635,
+        "num": 153752,
+        "word": "朱雨玲女单亚军",
+        "onboard_time": 1744551023,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153384,
+        "num": 153384,
+        "word": "江宏杰称与福原爱见面并不尴尬",
+        "onboard_time": 1744550003,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146993,
+        "num": 146993,
+        "word": "美国店主很害怕母亲节生意彻底泡汤",
+        "onboard_time": 1744547301,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中越山水相连文化相通#"
+    }
+  }
+}
