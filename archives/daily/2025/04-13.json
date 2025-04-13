@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744520655359,
+  "endTime": 1744522053297,
   "band_list": [
     {
       "raw_hot": 1750912,
@@ -25,6 +25,14 @@
       "onboard_time": 1744514179,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1550807,
+      "num": 1550807,
+      "word": "当年王宝强在跑男录制的好好的",
+      "onboard_time": 1744519101,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 1452465,
@@ -65,14 +73,6 @@
       "onboard_time": 1744469785,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1073063,
-      "num": 1073063,
-      "word": "当年王宝强在跑男录制的好好的",
-      "onboard_time": 1744519101,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 1069363,
@@ -153,6 +153,14 @@
       "onboard_time": 1744467385,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 803875,
+      "num": 803875,
+      "word": "官方通报树被风吹倒砸伤女子致死",
+      "onboard_time": 1744520421,
+      "rank": 10,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 789432,
@@ -236,7 +244,7 @@
     },
     {
       "raw_hot": 556184,
-      "num": 276521,
+      "num": 278849,
       "word": "印度男子携准丈母娘卷款私奔",
       "onboard_time": 1744516342,
       "rank": 24,
@@ -259,20 +267,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 509020,
+      "num": 415567,
+      "word": "李羲承火力全开了",
+      "onboard_time": 1744517841,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 501333,
       "num": 403457,
       "word": "齐思钧蛋糕",
       "onboard_time": 1744506322,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 496822,
-      "num": 283123,
-      "word": "李羲承火力全开了",
-      "onboard_time": 1744517841,
-      "rank": 45,
-      "category": "演出"
     },
     {
       "raw_hot": 492124,
@@ -321,6 +329,14 @@
       "onboard_time": 1744514420,
       "rank": 18,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 426876,
+      "num": 273260,
+      "word": "垫音",
+      "onboard_time": 1744519161,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 423148,
@@ -411,14 +427,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 311869,
-      "num": 246113,
-      "word": "垫音",
-      "onboard_time": 1744519161,
-      "rank": 23,
-      "category": "演出"
-    },
-    {
       "raw_hot": 296223,
       "num": 296223,
       "word": "齐思钧自己去看了两年心理治疗",
@@ -499,12 +507,20 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 235761,
-      "num": 308678,
-      "word": "官方通报树被风吹倒砸伤女子致死",
-      "onboard_time": 1744520421,
-      "rank": 10,
-      "category": "辟谣/通报"
+      "raw_hot": 230910,
+      "num": 230910,
+      "word": "胡兵坐轮椅五国机场无障碍测评",
+      "onboard_time": 1744519582,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 228949,
+      "num": 228949,
+      "word": "特朗普家族参与加密货币获巨额利益",
+      "onboard_time": 1744519642,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 227362,
@@ -531,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 218481,
+      "num": 285586,
+      "word": "塔吉克斯坦5.8级地震",
+      "onboard_time": 1744520902,
+      "rank": 13,
+      "category": "国际时政,国际时政"
+    },
+    {
       "raw_hot": 217699,
       "num": 217699,
       "word": "徐志胜鸟鸟你俩是怎么憋住不笑的",
@@ -545,6 +569,14 @@
       "onboard_time": 1744520183,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 214605,
+      "num": 214605,
+      "word": "树木倒伏致55岁骑车女子被砸身亡",
+      "onboard_time": 1744521861,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 213102,
@@ -651,6 +683,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185792,
+      "num": 287424,
+      "word": "加拿大民众用不买美国货表达不满",
+      "onboard_time": 1744518441,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 184705,
+      "num": 184705,
+      "word": "喻言饭拍",
+      "onboard_time": 1744521082,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 183384,
       "num": 183384,
       "word": "KPL",
@@ -659,28 +707,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 182572,
-      "num": 182572,
-      "word": "加拿大民众用不买美国货表达不满",
-      "onboard_time": 1744518441,
-      "rank": 33,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 179676,
       "num": 179676,
       "word": "全红婵赛后采访说不可思议",
       "onboard_time": 1744506741,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 178639,
-      "num": 215349,
-      "word": "特朗普家族参与加密货币获巨额利益",
-      "onboard_time": 1744519642,
-      "rank": 28,
-      "category": "国际时政"
     },
     {
       "raw_hot": 178638,
@@ -763,6 +795,14 @@
       "category": "网红,民生新闻"
     },
     {
+      "raw_hot": 167884,
+      "num": 167884,
+      "word": "鞠婧祎已经在期待露芜衣的到来",
+      "onboard_time": 1744520844,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162359,
       "num": 163282,
       "word": "山西省长金湘军被查",
@@ -787,12 +827,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 159314,
+      "num": 280719,
+      "word": "记者暗访被神话的血液净化",
+      "onboard_time": 1744520542,
+      "rank": 37,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 158876,
       "num": 158876,
       "word": "不在小事上消耗孩子",
       "onboard_time": 1744473802,
       "rank": 28,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 155881,
+      "num": 155881,
+      "word": "大家有分手断联后又和好的经历吗",
+      "onboard_time": 1744519882,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 153364,
@@ -809,6 +865,14 @@
       "onboard_time": 1744487655,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150806,
+      "num": 150806,
+      "word": "大风天超市假装有菜卖",
+      "onboard_time": 1744520482,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 149783,
@@ -843,12 +907,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 142195,
+      "num": 142195,
+      "word": "山姆客服回应骑手称超时罚400元",
+      "onboard_time": 1744521922,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142162,
       "num": 233212,
       "word": "3司机跑长报短偷逃9万7高速费获刑",
       "onboard_time": 1744518743,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142082,
+      "num": 142082,
+      "word": "西游记没骗我",
+      "onboard_time": 1744521501,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 139451,
@@ -873,14 +953,6 @@
       "onboard_time": 1744511721,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 137077,
-      "num": 137077,
-      "word": "大家有分手断联后又和好的经历吗",
-      "onboard_time": 1744519882,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 135849,
@@ -947,6 +1019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125745,
+      "num": 125745,
+      "word": "苏炳添4x100米接力夺冠",
+      "onboard_time": 1744521681,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122522,
       "num": 122522,
       "word": "全红婵有很多王楚钦的表情包",
@@ -963,20 +1043,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 120636,
+      "num": 120636,
+      "word": "蒋梦婕真人版江尤娜",
+      "onboard_time": 1744521922,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119740,
       "num": 316258,
       "word": "中国馆在世博会惊艳亮相",
       "onboard_time": 1744513521,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 119394,
-      "num": 210416,
-      "word": "胡兵坐轮椅五国机场无障碍测评",
-      "onboard_time": 1744519582,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 119341,
@@ -987,20 +1067,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 119005,
-      "num": 119005,
-      "word": "大风天超市假装有菜卖",
-      "onboard_time": 1744520482,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 118141,
       "num": 118141,
       "word": "张远被王心凌整红温了",
       "onboard_time": 1744469245,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 117774,
+      "num": 236191,
+      "word": "英政府紧急出手救助钢铁行业",
+      "onboard_time": 1744518683,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 117476,
@@ -1017,14 +1097,6 @@
       "onboard_time": 1744514962,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 115669,
-      "num": 236191,
-      "word": "英政府紧急出手救助钢铁行业",
-      "onboard_time": 1744518683,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 111366,
@@ -1123,14 +1195,6 @@
       "category": "美食,民生新闻"
     },
     {
-      "raw_hot": 92647,
-      "num": 159771,
-      "word": "记者暗访被神话的血液净化",
-      "onboard_time": 1744520542,
-      "rank": 37,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 92361,
       "num": 92361,
       "word": "沈腾说舍不得马丽演别人的戏",
@@ -1209,6 +1273,22 @@
       "onboard_time": 1744515141,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 79455,
+      "num": 168139,
+      "word": "汪苏泷这一脚每天必看",
+      "onboard_time": 1744521801,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 79033,
+      "num": 222988,
+      "word": "终于有人把大学专业讲清楚了",
+      "onboard_time": 1744521442,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 70067,
@@ -1492,6 +1572,9 @@
     },
     {
       "word": "#坚定不移推进高水平对外开放观察#"
+    },
+    {
+      "word": "#坚定奉行互利共赢的开放战略#"
     }
   ]
 }
