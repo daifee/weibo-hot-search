@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744525944332,
+  "endTime": 1744526732813,
   "band_list": [
     {
       "raw_hot": 1750912,
@@ -59,6 +59,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1134298,
+      "num": 1134298,
+      "word": "特朗普政府再度退缩",
+      "onboard_time": 1744524021,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1123546,
       "num": 470539,
       "word": "女生喉咙痛从就诊到去世仅10分钟",
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 1053633,
-      "num": 591568,
+      "num": 983351,
       "word": "甲亢哥对中国惦念不忘发文表白",
       "onboard_time": 1744524081,
       "rank": 3,
@@ -187,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 726425,
+      "num": 532594,
+      "word": "双相情感障碍又叫天才病",
+      "onboard_time": 1744522463,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 717984,
       "num": 584236,
       "word": "10年前辞职看世界的女教师最新回应",
@@ -195,28 +211,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 717870,
-      "num": 717870,
-      "word": "特朗普政府再度退缩",
-      "onboard_time": 1744524021,
-      "rank": 1,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 711002,
       "num": 405256,
       "word": "王宝强 初代跑男",
       "onboard_time": 1744512562,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 694423,
-      "num": 532594,
-      "word": "双相情感障碍又叫天才病",
-      "onboard_time": 1744522463,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 678327,
@@ -241,6 +241,14 @@
       "onboard_time": 1744504402,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 563083,
+      "num": 563083,
+      "word": "公摊面积最大的蔬菜",
+      "onboard_time": 1744524801,
+      "rank": 17,
+      "category": "美食"
     },
     {
       "raw_hot": 561598,
@@ -403,6 +411,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 372931,
+      "num": 372931,
+      "word": "赵露思哭戏",
+      "onboard_time": 1744525401,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 370617,
       "num": 546228,
       "word": "中国企业集体出手无惧关税大棒",
@@ -473,14 +489,6 @@
       "onboard_time": 1744506322,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 311746,
-      "num": 311746,
-      "word": "公摊面积最大的蔬菜",
-      "onboard_time": 1744524801,
-      "rank": 17,
-      "category": "美食"
     },
     {
       "raw_hot": 296223,
@@ -643,14 +651,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 211527,
-      "num": 211527,
-      "word": "赵露思哭戏",
-      "onboard_time": 1744525401,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 210125,
       "num": 210125,
       "word": "原来村民和猪灵都是真人演的",
@@ -747,6 +747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190639,
+      "num": 190639,
+      "word": "朴成训上岸",
+      "onboard_time": 1744524261,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 189855,
       "num": 189855,
       "word": "enhypen科切拉舞台彩排",
@@ -761,6 +769,14 @@
       "onboard_time": 1744516101,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 188636,
+      "num": 188636,
+      "word": "主包",
+      "onboard_time": 1744523303,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 188528,
@@ -891,14 +907,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 168879,
-      "num": 168879,
-      "word": "朴成训上岸",
-      "onboard_time": 1744524261,
-      "rank": 28,
-      "category": "演出"
-    },
-    {
       "raw_hot": 168493,
       "num": 213638,
       "word": "蒲熠星shape of you",
@@ -921,6 +929,14 @@
       "onboard_time": 1744520844,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166438,
+      "num": 394941,
+      "word": "金价今年已刷新历史高点超20次",
+      "onboard_time": 1744524261,
+      "rank": 10,
+      "category": "财经"
     },
     {
       "raw_hot": 164581,
@@ -995,12 +1011,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 152493,
-      "num": 152493,
-      "word": "主包",
-      "onboard_time": 1744523303,
-      "rank": 33,
-      "category": "综艺"
+      "raw_hot": 150896,
+      "num": 150896,
+      "word": "任嘉伦专辑",
+      "onboard_time": 1744525640,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 150806,
@@ -1028,11 +1044,19 @@
     },
     {
       "raw_hot": 143661,
-      "num": 1022865,
+      "num": 1024189,
       "word": "美肆意加征关税非常危险",
       "onboard_time": 1744502539,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 142966,
+      "num": 142966,
+      "word": "大风把柳絮刮走了",
+      "onboard_time": 1744525162,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 142325,
@@ -1065,6 +1089,14 @@
       "onboard_time": 1744518743,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140685,
+      "num": 155831,
+      "word": "澳门世界杯女子签表",
+      "onboard_time": 1744526541,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 140393,
@@ -1115,6 +1147,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 136559,
+      "num": 136559,
+      "word": "缅甸发生5.4级地震",
+      "onboard_time": 1744525821,
+      "rank": 47,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 136015,
       "num": 136015,
       "word": "国际乒联",
@@ -1155,20 +1195,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130399,
+      "num": 130399,
+      "word": "这是不是得知姐妹恋爱的你",
+      "onboard_time": 1744525582,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129892,
       "num": 129892,
       "word": "孙颖莎训练削上了",
       "onboard_time": 1744524981,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 129616,
-      "num": 129616,
-      "word": "任嘉伦专辑",
-      "onboard_time": 1744525640,
-      "rank": 43,
-      "category": "音乐"
     },
     {
       "raw_hot": 128768,
@@ -1211,14 +1251,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 120982,
-      "num": 120982,
-      "word": "大风把柳絮刮走了",
-      "onboard_time": 1744525162,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 120636,
       "num": 120636,
       "word": "蒋梦婕真人版江尤娜",
@@ -1249,14 +1281,6 @@
       "onboard_time": 1744474223,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 119276,
-      "num": 119276,
-      "word": "缅甸发生5.4级地震",
-      "onboard_time": 1744525821,
-      "rank": 47,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 118141,
@@ -1291,14 +1315,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 112923,
-      "num": 320691,
-      "word": "金价今年已刷新历史高点超20次",
-      "onboard_time": 1744524261,
-      "rank": 10,
-      "category": "财经"
-    },
-    {
       "raw_hot": 111366,
       "num": 111366,
       "word": "BLG教练回应两连败",
@@ -1321,6 +1337,14 @@
       "onboard_time": 1744512682,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 109339,
+      "num": 109339,
+      "word": "湖人收官战大规模轮休",
+      "onboard_time": 1744526180,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 109223,
@@ -1353,6 +1377,14 @@
       "onboard_time": 1744506741,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 100124,
+      "num": 155892,
+      "word": "白敬亭与友人逛颐和园",
+      "onboard_time": 1744526601,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 99334,
@@ -1715,7 +1747,15 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 18231,
+      "raw_hot": 19089,
+      "num": 356290,
+      "word": "东北冷涡是这轮全国罕见天气的推手",
+      "onboard_time": 1744525821,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19087,
       "num": 131469,
       "word": "极端复杂天气幕后推手是它",
       "onboard_time": 1744525761,
@@ -1737,14 +1777,6 @@
       "onboard_time": 1744513281,
       "rank": 39,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 17298,
-      "num": 133295,
-      "word": "东北冷涡是这轮全国罕见天气的推手",
-      "onboard_time": 1744525821,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 16546,

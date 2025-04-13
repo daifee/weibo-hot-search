@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744525944332,
+  "endTime": 1744526732813,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -2275,6 +2275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1134298,
+      "num": 1134298,
+      "word": "特朗普政府再度退缩",
+      "onboard_time": 1744524021,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1133722,
       "num": 919058,
       "word": "留几手炒股损失480万",
@@ -2596,7 +2604,7 @@
     },
     {
       "raw_hot": 1053633,
-      "num": 591568,
+      "num": 983351,
       "word": "甲亢哥对中国惦念不忘发文表白",
       "onboard_time": 1744524081,
       "rank": 3,
@@ -4427,6 +4435,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 726425,
+      "num": 532594,
+      "word": "双相情感障碍又叫天才病",
+      "onboard_time": 1744522463,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 726197,
       "num": 726197,
       "word": "TVB男演员陈键锋学厨以第一名毕业",
@@ -4497,14 +4513,6 @@
       "onboard_time": 1744477219,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 717870,
-      "num": 717870,
-      "word": "特朗普政府再度退缩",
-      "onboard_time": 1744524021,
-      "rank": 1,
-      "category": "国际时政"
     },
     {
       "raw_hot": 717168,
@@ -4681,14 +4689,6 @@
       "onboard_time": 1743848301,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 694423,
-      "num": 532594,
-      "word": "双相情感障碍又叫天才病",
-      "onboard_time": 1744522463,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 694344,
@@ -5913,6 +5913,14 @@
       "onboard_time": 1743597082,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 563083,
+      "num": 563083,
+      "word": "公摊面积最大的蔬菜",
+      "onboard_time": 1743485905,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 562047,
@@ -9299,6 +9307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 372931,
+      "num": 372931,
+      "word": "赵露思哭戏",
+      "onboard_time": 1744525401,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 372853,
       "num": 405151,
       "word": "齐思钧自己去看了两年心理治疗",
@@ -11185,14 +11201,6 @@
       "onboard_time": 1744289604,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 311746,
-      "num": 311746,
-      "word": "公摊面积最大的蔬菜",
-      "onboard_time": 1743485905,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 311536,
@@ -16259,14 +16267,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 211527,
-      "num": 211527,
-      "word": "赵露思哭戏",
-      "onboard_time": 1744525401,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 211476,
       "num": 211476,
       "word": "苦尽柑来遇见你 三代女性托举",
@@ -19051,6 +19051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190639,
+      "num": 190639,
+      "word": "朴成训上岸",
+      "onboard_time": 1744524261,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 190551,
       "num": 190551,
       "word": "XIUMIN跳了TFBOYS的爱出发",
@@ -19360,6 +19368,14 @@
       "word": "第一次见这么尴尬的原唱",
       "onboard_time": 1743848902,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 188636,
+      "num": 188636,
+      "word": "主包",
+      "onboard_time": 1744523303,
+      "rank": 33,
       "category": "综艺"
     },
     {
@@ -22107,14 +22123,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 168879,
-      "num": 168879,
-      "word": "朴成训上岸",
-      "onboard_time": 1744524261,
-      "rank": 28,
-      "category": "演出"
-    },
-    {
       "raw_hot": 168827,
       "num": 168827,
       "word": "想拍撕拉片",
@@ -22497,6 +22505,14 @@
       "onboard_time": 1743851182,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 166438,
+      "num": 394941,
+      "word": "金价今年已刷新历史高点超20次",
+      "onboard_time": 1744524261,
+      "rank": 10,
+      "category": "财经"
     },
     {
       "raw_hot": 166360,
@@ -24563,14 +24579,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 152493,
-      "num": 152493,
-      "word": "主包",
-      "onboard_time": 1744523303,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 152483,
       "num": 164900,
       "word": "遇到这个中国女孩甲亢哥不甲亢了",
@@ -24753,6 +24761,14 @@
       "onboard_time": 1743681142,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150896,
+      "num": 150896,
+      "word": "任嘉伦专辑",
+      "onboard_time": 1744525640,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 150806,
@@ -25988,7 +26004,7 @@
     },
     {
       "raw_hot": 143661,
-      "num": 1022865,
+      "num": 1024189,
       "word": "美肆意加征关税非常危险",
       "onboard_time": 1744502539,
       "rank": 2,
@@ -26137,6 +26153,14 @@
       "onboard_time": 1744123162,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142966,
+      "num": 142966,
+      "word": "大风把柳絮刮走了",
+      "onboard_time": 1744525162,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 142822,
@@ -26425,6 +26449,14 @@
       "onboard_time": 1743578779,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140685,
+      "num": 155831,
+      "word": "澳门世界杯女子签表",
+      "onboard_time": 1744526541,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 140663,
@@ -27161,6 +27193,14 @@
       "onboard_time": 1743822861,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 136559,
+      "num": 136559,
+      "word": "缅甸发生5.4级地震",
+      "onboard_time": 1744525821,
+      "rank": 47,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 136508,
@@ -28243,6 +28283,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 130399,
+      "num": 130399,
+      "word": "这是不是得知姐妹恋爱的你",
+      "onboard_time": 1744525582,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130396,
       "num": 130396,
       "word": "世界杯女子双人十米台中国队夺冠",
@@ -28409,14 +28457,6 @@
       "onboard_time": 1744450704,
       "rank": 43,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 129616,
-      "num": 129616,
-      "word": "任嘉伦专辑",
-      "onboard_time": 1744525640,
-      "rank": 43,
-      "category": "音乐"
     },
     {
       "raw_hot": 129576,
@@ -29699,14 +29739,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 120982,
-      "num": 120982,
-      "word": "大风把柳絮刮走了",
-      "onboard_time": 1744525162,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 120981,
       "num": 348357,
       "word": "多次军演会不会曝光对台战术",
@@ -30049,14 +30081,6 @@
       "onboard_time": 1743660863,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 119276,
-      "num": 119276,
-      "word": "缅甸发生5.4级地震",
-      "onboard_time": 1744525821,
-      "rank": 47,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 119238,
@@ -31003,14 +31027,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 112923,
-      "num": 320691,
-      "word": "金价今年已刷新历史高点超20次",
-      "onboard_time": 1744524261,
-      "rank": 10,
-      "category": "财经"
-    },
-    {
       "raw_hot": 112821,
       "num": 112821,
       "word": "iG对战FPX",
@@ -31441,6 +31457,14 @@
       "onboard_time": 1743760941,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 109339,
+      "num": 109339,
+      "word": "湖人收官战大规模轮休",
+      "onboard_time": 1744526180,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 109288,
@@ -32369,6 +32393,14 @@
       "onboard_time": 1743434602,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 100124,
+      "num": 155892,
+      "word": "白敬亭与友人逛颐和园",
+      "onboard_time": 1744526601,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 99819,
@@ -39587,6 +39619,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 19089,
+      "num": 356290,
+      "word": "东北冷涡是这轮全国罕见天气的推手",
+      "onboard_time": 1744525821,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19087,
+      "num": 131469,
+      "word": "极端复杂天气幕后推手是它",
+      "onboard_time": 1744525761,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19075,
       "num": 26850,
       "word": "中方救援队再救出1人",
@@ -39731,14 +39779,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 18231,
-      "num": 131469,
-      "word": "极端复杂天气幕后推手是它",
-      "onboard_time": 1744525761,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 18193,
       "num": 171000,
       "word": "地标建筑遇上花花秒变春日顶流",
@@ -39793,14 +39833,6 @@
       "onboard_time": 1743787757,
       "rank": 18,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 17298,
-      "num": 133295,
-      "word": "东北冷涡是这轮全国罕见天气的推手",
-      "onboard_time": 1744525821,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17216,
