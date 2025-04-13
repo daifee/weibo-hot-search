@@ -1,0 +1,410 @@
+{
+  "runTime": 1744517899677,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1519822,
+        "num": 1519822,
+        "word": "胖东来工资单",
+        "onboard_time": 1744514179,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1056184,
+        "num": 1056184,
+        "word": "你好星期六收视第一",
+        "onboard_time": 1744515322,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105420,
+        "num": 1022865,
+        "word": "美肆意加征关税非常危险",
+        "onboard_time": 1744502539,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1015577,
+        "num": 1015577,
+        "word": "美车辆起火24000磅鸡蛋被毁",
+        "onboard_time": 1744511181,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 916460,
+        "num": 916460,
+        "word": "enhypen科切拉舞台",
+        "onboard_time": 1744516281,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 660346,
+        "num": 660346,
+        "word": "广东沙尘暴",
+        "onboard_time": 1744513521,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16546,
+        "num": 578543,
+        "word": "2025世界互联网大会亚太峰会",
+        "onboard_time": 1744515802,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 561598,
+        "num": 561598,
+        "word": "许嵩00后同事不懂灰色头像",
+        "onboard_time": 1744515440,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 558398,
+        "num": 558398,
+        "word": "吴镇宇不记得合作过李沐宸",
+        "onboard_time": 1744513581,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 411846,
+        "num": 411846,
+        "word": "731部队曾在中国多地投撒细菌",
+        "onboard_time": 1744508481,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1044400,
+        "num": 409623,
+        "word": "谁来管管现在的女装",
+        "onboard_time": 1744515141,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 711002,
+        "num": 405256,
+        "word": "王宝强 初代跑男",
+        "onboard_time": 1744512562,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 660475,
+        "num": 403309,
+        "word": "女生喉咙痛从就诊到去世仅10分钟",
+        "onboard_time": 1744469426,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 492124,
+        "num": 399530,
+        "word": "enhypen开麦",
+        "onboard_time": 1744516461,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 39440,
+        "num": 394213,
+        "word": "北京多条地铁线恢复运营",
+        "onboard_time": 1744516942,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 446900,
+        "num": 392096,
+        "word": "科切拉",
+        "onboard_time": 1744516221,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 445174,
+        "num": 388273,
+        "word": "官宣做卫生巾后黄子韬掉粉46万",
+        "onboard_time": 1744504222,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31986,
+        "num": 383708,
+        "word": "花1980办尊享卡买机票却比官网还贵",
+        "onboard_time": 1744517542,
+        "rank": 17,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 382874,
+        "num": 382874,
+        "word": "湿气重的7个习惯",
+        "onboard_time": 1744514420,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 347986,
+        "num": 347986,
+        "word": "齐思钧生日发文",
+        "onboard_time": 1744516221,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 369198,
+        "num": 339435,
+        "word": "宋祖儿演技",
+        "onboard_time": 1744505362,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 312388,
+        "num": 312388,
+        "word": "邓超陈赫王宝强亲亲合照",
+        "onboard_time": 1744510941,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279251,
+        "num": 279251,
+        "word": "拒绝上学门诊接待近1万人次",
+        "onboard_time": 1744504941,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247848,
+        "num": 247848,
+        "word": "男子漂流黄河30公里发现一遗体",
+        "onboard_time": 1744509141,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230776,
+        "num": 230776,
+        "word": "印度男子携准丈母娘卷款私奔",
+        "onboard_time": 1744516342,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 227226,
+        "num": 227226,
+        "word": "周峻纬祝齐思钧生日快乐",
+        "onboard_time": 1744517542,
+        "rank": 25,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 197954,
+        "num": 197954,
+        "word": "理肤泉 张康乐",
+        "onboard_time": 1744516461,
+        "rank": 26,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 197931,
+        "num": 197931,
+        "word": "孙俪说请对我要求再高一点",
+        "onboard_time": 1744510220,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194010,
+        "num": 194010,
+        "word": "薛小婉晒出起诉韩安冉的判决书",
+        "onboard_time": 1744508602,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 191857,
+        "num": 191857,
+        "word": "徐志胜鸟鸟你俩是怎么憋住不笑的",
+        "onboard_time": 1744517062,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189469,
+        "num": 189469,
+        "word": "enhypen上考场",
+        "onboard_time": 1744516101,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 184745,
+        "num": 184745,
+        "word": "大爷唯一吃过的苦就是当保安了",
+        "onboard_time": 1744511841,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178284,
+        "num": 178284,
+        "word": "女子洗澡因热水器漏电致心脏骤停",
+        "onboard_time": 1744503981,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175865,
+        "num": 175865,
+        "word": "科切拉直播",
+        "onboard_time": 1744512801,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 174133,
+        "num": 174133,
+        "word": "留几手说不排斥和女生交往了",
+        "onboard_time": 1744505063,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168493,
+        "num": 168493,
+        "word": "蒲熠星shape of you",
+        "onboard_time": 1744517121,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 162568,
+        "num": 162568,
+        "word": "男子舌头长到能舔胳膊肘",
+        "onboard_time": 1744476799,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161308,
+        "num": 161308,
+        "word": "特朗普正在支付白痴溢价",
+        "onboard_time": 1744517241,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 62046,
+        "num": 156335,
+        "word": "汪苏泷你有这样的排比句进入演唱会",
+        "onboard_time": 1744515261,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 153364,
+        "num": 153364,
+        "word": "林珍娜二次狙击金善旴",
+        "onboard_time": 1744514302,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152777,
+        "num": 152777,
+        "word": "熬夜睡不够是胃癌的一大诱因",
+        "onboard_time": 1744503921,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 143974,
+        "num": 143974,
+        "word": "印尼鲜食椰子将进入中国市场",
+        "onboard_time": 1744504941,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143147,
+        "num": 143147,
+        "word": "我不同意上班",
+        "onboard_time": 1744515561,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139632,
+        "num": 139632,
+        "word": "赵丽颖 肌肉线条",
+        "onboard_time": 1744513342,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 128768,
+        "num": 128768,
+        "word": "未定事件簿",
+        "onboard_time": 1744515921,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 128595,
+        "num": 128595,
+        "word": "李羲承火力全开了",
+        "onboard_time": 1744517841,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 124293,
+        "num": 124293,
+        "word": "曹承衍 金赛纶",
+        "onboard_time": 1744469785,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119740,
+        "num": 119740,
+        "word": "中国馆在世博会惊艳亮相",
+        "onboard_time": 1744513521,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116712,
+        "num": 116712,
+        "word": "丁程鑫严浩翔贺峻霖参加北京电影节",
+        "onboard_time": 1744514962,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 112024,
+        "num": 112024,
+        "word": "火箭全员复出",
+        "onboard_time": 1744517121,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定不移推进高水平对外开放观察#"
+    }
+  }
+}

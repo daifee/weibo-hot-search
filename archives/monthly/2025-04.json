@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744514274418,
+  "endTime": 1744517899677,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -1233,6 +1233,14 @@
       "onboard_time": 1743495022,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1519822,
+      "num": 1519822,
+      "word": "胖东来工资单",
+      "onboard_time": 1744514179,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 1516843,
@@ -2555,6 +2563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1056184,
+      "num": 1056184,
+      "word": "你好星期六收视第一",
+      "onboard_time": 1744515322,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1053889,
       "num": 1018456,
       "word": "小鬼在偶练大群发想你们了",
@@ -2617,6 +2633,14 @@
       "onboard_time": 1744177462,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1044400,
+      "num": 409623,
+      "word": "谁来管管现在的女装",
+      "onboard_time": 1744515141,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 1041446,
@@ -3161,6 +3185,14 @@
       "onboard_time": 1744087045,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 916460,
+      "num": 916460,
+      "word": "enhypen科切拉舞台",
+      "onboard_time": 1744516281,
+      "rank": 4,
+      "category": "演出"
     },
     {
       "raw_hot": 916266,
@@ -4260,7 +4292,7 @@
     },
     {
       "raw_hot": 740131,
-      "num": 295753,
+      "num": 312388,
       "word": "邓超陈赫王宝强亲亲合照",
       "onboard_time": 1744510941,
       "rank": 11,
@@ -4513,6 +4545,14 @@
       "onboard_time": 1744442363,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 711002,
+      "num": 405256,
+      "word": "王宝强 初代跑男",
+      "onboard_time": 1744512562,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 710715,
@@ -4841,6 +4881,14 @@
       "onboard_time": 1743996923,
       "rank": 14,
       "category": "国际时政,财经"
+    },
+    {
+      "raw_hot": 660346,
+      "num": 660346,
+      "word": "广东沙尘暴",
+      "onboard_time": 1744513521,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 660334,
@@ -5827,12 +5875,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 561598,
+      "num": 561598,
+      "word": "许嵩00后同事不懂灰色头像",
+      "onboard_time": 1744515440,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 559747,
       "num": 427256,
       "word": "美国运动员下跪拒与跨性别者比赛",
       "onboard_time": 1743825680,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 558398,
+      "num": 558398,
+      "word": "吴镇宇不记得合作过李沐宸",
+      "onboard_time": 1744513581,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 557551,
@@ -6851,6 +6915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 492124,
+      "num": 399530,
+      "word": "enhypen开麦",
+      "onboard_time": 1744516461,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
       "raw_hot": 491910,
       "num": 491910,
       "word": "SM新男团",
@@ -7251,14 +7323,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 467327,
-      "num": 274111,
-      "word": "王宝强 初代跑男",
-      "onboard_time": 1744512562,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 466953,
       "num": 549918,
       "word": "美知名投资人称美小企业将大量破产",
@@ -7633,6 +7697,14 @@
       "onboard_time": 1744029383,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 446900,
+      "num": 392096,
+      "word": "科切拉",
+      "onboard_time": 1743770842,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 446804,
@@ -8947,6 +9019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 382874,
+      "num": 382874,
+      "word": "湿气重的7个习惯",
+      "onboard_time": 1744514420,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 382852,
       "num": 382852,
       "word": "EXO直播",
@@ -9875,6 +9955,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 347986,
+      "num": 347986,
+      "word": "齐思钧生日发文",
+      "onboard_time": 1744516221,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 347868,
       "num": 347868,
       "word": "蓝莓便宜了",
@@ -10561,14 +10649,6 @@
       "onboard_time": 1743478524,
       "rank": 20,
       "category": "艺人,作品衍生"
-    },
-    {
-      "raw_hot": 324146,
-      "num": 324146,
-      "word": "吴镇宇不记得合作过李沐宸",
-      "onboard_time": 1744513581,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 323785,
@@ -11665,14 +11745,6 @@
       "onboard_time": 1744112242,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 294913,
-      "num": 332965,
-      "word": "科切拉",
-      "onboard_time": 1743770842,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 294835,
@@ -14571,6 +14643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 230776,
+      "num": 230776,
+      "word": "印度男子携准丈母娘卷款私奔",
+      "onboard_time": 1744516342,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 230649,
       "num": 249444,
       "word": "A股三大股指反弹",
@@ -14825,6 +14905,14 @@
       "onboard_time": 1743741502,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 227226,
+      "num": 227226,
+      "word": "周峻纬祝齐思钧生日快乐",
+      "onboard_time": 1744517542,
+      "rank": 25,
+      "category": "艺人,综艺"
     },
     {
       "raw_hot": 227103,
@@ -17643,6 +17731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197954,
+      "num": 197954,
+      "word": "理肤泉 张康乐",
+      "onboard_time": 1744516461,
+      "rank": 26,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 197949,
       "num": 197949,
       "word": "医院通报主任被举报隐匿6000万",
@@ -18587,6 +18683,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 191857,
+      "num": 191857,
+      "word": "徐志胜鸟鸟你俩是怎么憋住不笑的",
+      "onboard_time": 1744517062,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191823,
       "num": 333829,
       "word": "MPV极限爬坡挑战越野车",
@@ -18947,6 +19051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189469,
+      "num": 189469,
+      "word": "enhypen上考场",
+      "onboard_time": 1744516101,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 189442,
       "num": 189442,
       "word": "虞书欣像颗红石榴",
@@ -18993,14 +19105,6 @@
       "onboard_time": 1743669562,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 189061,
-      "num": 189061,
-      "word": "广东沙尘暴",
-      "onboard_time": 1744513521,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 189021,
@@ -20835,6 +20939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175865,
+      "num": 175865,
+      "word": "科切拉直播",
+      "onboard_time": 1744512801,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 175829,
       "num": 175829,
       "word": "王鸥明侦嫡长女的地位还在上升",
@@ -21817,6 +21929,14 @@
       "onboard_time": 1743684022,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168493,
+      "num": 168493,
+      "word": "蒲熠星shape of you",
+      "onboard_time": 1744517121,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 168489,
@@ -22825,6 +22945,14 @@
       "onboard_time": 1744456944,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 161308,
+      "num": 161308,
+      "word": "特朗普正在支付白痴溢价",
+      "onboard_time": 1744517241,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 161300,
@@ -24017,6 +24145,14 @@
       "onboard_time": 1743754342,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153364,
+      "num": 153364,
+      "word": "林珍娜二次狙击金善旴",
+      "onboard_time": 1744514302,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 153333,
@@ -25691,6 +25827,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 143147,
+      "num": 143147,
+      "word": "我不同意上班",
+      "onboard_time": 1744515561,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 143128,
       "num": 143128,
       "word": "胡明轩罚球",
@@ -25841,14 +25985,6 @@
       "onboard_time": 1743436700,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 141736,
-      "num": 141736,
-      "word": "科切拉直播",
-      "onboard_time": 1744512801,
-      "rank": 34,
-      "category": "演出"
     },
     {
       "raw_hot": 141559,
@@ -28075,6 +28211,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 128595,
+      "num": 128595,
+      "word": "李羲承火力全开了",
+      "onboard_time": 1744517841,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 128529,
       "num": 197934,
       "word": "男生因室友电瓶燃爆烧伤已花200万",
@@ -29419,6 +29563,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 119740,
+      "num": 316258,
+      "word": "中国馆在世博会惊艳亮相",
+      "onboard_time": 1744513521,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119683,
       "num": 119683,
       "word": "对原产于美印的医用CT球管反倾销调查",
@@ -29897,6 +30049,14 @@
       "onboard_time": 1743932541,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 116712,
+      "num": 116712,
+      "word": "丁程鑫严浩翔贺峻霖参加北京电影节",
+      "onboard_time": 1744514962,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 116675,
@@ -30497,6 +30657,14 @@
       "onboard_time": 1743931881,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 112024,
+      "num": 112024,
+      "word": "火箭全员复出",
+      "onboard_time": 1744517121,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 111855,
@@ -31283,6 +31451,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 105420,
+      "num": 1022865,
+      "word": "美肆意加征关税非常危险",
+      "onboard_time": 1744502539,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 105373,
       "num": 169195,
       "word": "陈艺文陈芋汐说混团对我们很轻松",
@@ -31513,14 +31689,6 @@
       "onboard_time": 1743862164,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 103362,
-      "num": 103362,
-      "word": "胖东来工资单",
-      "onboard_time": 1744514179,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 103293,
@@ -34939,6 +35107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62046,
+      "num": 156335,
+      "word": "汪苏泷你有这样的排比句进入演唱会",
+      "onboard_time": 1744515261,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 62024,
       "num": 134315,
       "word": "雁回时反转",
@@ -35713,14 +35889,6 @@
       "onboard_time": 1743756560,
       "rank": 47,
       "category": "民生新闻,军事"
-    },
-    {
-      "raw_hot": 52562,
-      "num": 316258,
-      "word": "中国馆在世博会惊艳亮相",
-      "onboard_time": 1744513521,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 52550,
@@ -36827,6 +36995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 39440,
+      "num": 394213,
+      "word": "北京多条地铁线恢复运营",
+      "onboard_time": 1744516942,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39436,
       "num": 90556,
       "word": "警方打假冒牌咖啡",
@@ -37513,6 +37689,14 @@
       "onboard_time": 1744138873,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 31986,
+      "num": 383708,
+      "word": "花1980办尊享卡买机票却比官网还贵",
+      "onboard_time": 1744517542,
+      "rank": 17,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 31971,
@@ -39211,6 +39395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 16546,
+      "num": 578543,
+      "word": "2025世界互联网大会亚太峰会",
+      "onboard_time": 1744515802,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16377,
       "num": 221197,
       "word": "直男财经现场呈现缅甸震中救援",
@@ -40416,6 +40608,9 @@
     },
     {
       "word": "#党员干部为与不为总书记这样强调#"
+    },
+    {
+      "word": "#坚定不移推进高水平对外开放观察#"
     }
   ]
 }
