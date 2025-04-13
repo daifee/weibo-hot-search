@@ -1,0 +1,410 @@
+{
+  "runTime": 1744533758999,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1958059,
+        "num": 1958059,
+        "word": "赵丽颖 转型",
+        "onboard_time": 1744530322,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1046998,
+        "num": 1046998,
+        "word": "特朗普政府再度退缩",
+        "onboard_time": 1744524021,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 118027,
+        "num": 1033470,
+        "word": "美国多次发动关税战并受到惨痛教训",
+        "onboard_time": 1744531944,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1032654,
+        "num": 1032654,
+        "word": "杭州一9岁男孩高楼坠下身亡",
+        "onboard_time": 1744529960,
+        "rank": 3,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 704378,
+        "num": 704378,
+        "word": "表妹万福",
+        "onboard_time": 1744530021,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 685818,
+        "num": 685818,
+        "word": "卖劳力士收了37万多后银行卡被冻结",
+        "onboard_time": 1744528220,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 692825,
+        "num": 659602,
+        "word": "当年王宝强在跑男录制的好好的",
+        "onboard_time": 1744519101,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 465567,
+        "num": 465567,
+        "word": "任教31年临退休遭解聘教师发声",
+        "onboard_time": 1744529780,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 462600,
+        "num": 462600,
+        "word": "官方通报杭州一男孩27楼坠亡",
+        "onboard_time": 1744527561,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 72725,
+        "num": 437518,
+        "word": "中国馆在世博会惊艳亮相",
+        "onboard_time": 1744513521,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 960980,
+        "num": 434080,
+        "word": "谢娜说别拜了踩我裙子了",
+        "onboard_time": 1744528100,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 419512,
+        "num": 419512,
+        "word": "韩国花商拟在云南买520万枝花",
+        "onboard_time": 1744530681,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 322876,
+        "num": 322876,
+        "word": "赵露思哭戏",
+        "onboard_time": 1744525401,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 317075,
+        "num": 317075,
+        "word": "网传宋祖儿周翊然演表妹万福",
+        "onboard_time": 1744532422,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 316509,
+        "num": 316509,
+        "word": "谁来管管现在的女装",
+        "onboard_time": 1744515141,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 296053,
+        "num": 296053,
+        "word": "双相情感障碍又叫天才病",
+        "onboard_time": 1744522463,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265932,
+        "num": 265932,
+        "word": "中方正在和多国共同应对美滥施关税",
+        "onboard_time": 1744531822,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 260973,
+        "num": 260973,
+        "word": "女生喉咙痛从就诊到去世仅10分钟",
+        "onboard_time": 1744469426,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257552,
+        "num": 257552,
+        "word": "甲亢哥对中国惦念不忘发文表白",
+        "onboard_time": 1744524081,
+        "rank": 18,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 199588,
+        "num": 224539,
+        "word": "王一博采访刘冲",
+        "onboard_time": 1744531462,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 207533,
+        "num": 207533,
+        "word": "院人0713为齐思钧新书打call",
+        "onboard_time": 1744529661,
+        "rank": 20,
+        "category": "艺人,读书作家"
+      },
+      {
+        "raw_hot": 200925,
+        "num": 200925,
+        "word": "孙俪这段演到肝郁血虚",
+        "onboard_time": 1744529721,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196485,
+        "num": 196485,
+        "word": "enhypen将6月5日回归",
+        "onboard_time": 1744532542,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 195737,
+        "num": 195737,
+        "word": "胖东来工资单",
+        "onboard_time": 1744514179,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 185786,
+        "num": 185786,
+        "word": "王宝强说棋士崔业是披着羊皮的狼",
+        "onboard_time": 1744533201,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183794,
+        "num": 183794,
+        "word": "倪虹洁 不敢拒绝任何工作机会",
+        "onboard_time": 1744532722,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93437,
+        "num": 183781,
+        "word": "一脚下去百元一斤药材遭殃",
+        "onboard_time": 1744531882,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183770,
+        "num": 183770,
+        "word": "官宣做卫生巾后黄子韬掉粉46万",
+        "onboard_time": 1744504222,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21995,
+        "num": 175786,
+        "word": "杀洋盘瞄准外国人9人因诈骗获刑",
+        "onboard_time": 1744533260,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42679,
+        "num": 174581,
+        "word": "这WB的配合太棒了",
+        "onboard_time": 1744532902,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 273907,
+        "num": 174538,
+        "word": "张小婉回应踩了谢娜裙子",
+        "onboard_time": 1744533143,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173923,
+        "num": 173923,
+        "word": "公摊面积最大的蔬菜",
+        "onboard_time": 1744524801,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 148758,
+        "num": 148758,
+        "word": "国产剧最浪漫的兔子出现了",
+        "onboard_time": 1744529721,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138744,
+        "num": 138744,
+        "word": "甲亢哥18宫格总结中国行",
+        "onboard_time": 1744529361,
+        "rank": 33,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 132256,
+        "num": 132256,
+        "word": "武契奇称颜色革命已结束",
+        "onboard_time": 1744533443,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127788,
+        "num": 127788,
+        "word": "你好星期六收视第一",
+        "onboard_time": 1744515322,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126249,
+        "num": 126249,
+        "word": "首都机场地勤欺负老人",
+        "onboard_time": 1744524381,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125864,
+        "num": 125864,
+        "word": "广东沙尘暴",
+        "onboard_time": 1744513521,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122077,
+        "num": 122077,
+        "word": "艾福杰尼上五哈前没觉得自己像熊",
+        "onboard_time": 1744532061,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122002,
+        "num": 122002,
+        "word": "哈妮克孜演技",
+        "onboard_time": 1744532661,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118204,
+        "num": 118204,
+        "word": "阿姨真的给足了VaVa安全感",
+        "onboard_time": 1744532182,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115428,
+        "num": 115428,
+        "word": "马吟吟浪姐合照九宫格",
+        "onboard_time": 1744532902,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112154,
+        "num": 112154,
+        "word": "江宏杰回应卖掉与福原爱昔日爱巢",
+        "onboard_time": 1744527921,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109195,
+        "num": 109195,
+        "word": "湿气重的7个习惯",
+        "onboard_time": 1744514420,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 108813,
+        "num": 108813,
+        "word": "宋祖儿演技",
+        "onboard_time": 1744505362,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105445,
+        "num": 105445,
+        "word": "数饺子",
+        "onboard_time": 1744533082,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 101341,
+        "num": 101341,
+        "word": "第一次见真正的拔河",
+        "onboard_time": 1744533502,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100511,
+        "num": 100511,
+        "word": "金莎说千年之后我仍是一枚甜姐",
+        "onboard_time": 1744530982,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100076,
+        "num": 100076,
+        "word": "想去过泼水节",
+        "onboard_time": 1744533322,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99073,
+        "num": 99073,
+        "word": "DK对战GEN",
+        "onboard_time": 1744533683,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平强调这个问题绝不是小事#"
+    }
+  }
+}
