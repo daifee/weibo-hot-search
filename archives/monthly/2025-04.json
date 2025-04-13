@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744558739823,
+  "endTime": 1744561767834,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -2163,6 +2163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1198818,
+      "num": 291751,
+      "word": "男演员退圈回老家赶集摆摊",
+      "onboard_time": 1744559242,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1196332,
       "num": 679207,
       "word": "文和友",
@@ -3481,6 +3489,14 @@
       "onboard_time": 1744087704,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 890361,
+      "num": 922735,
+      "word": "外媒问哪来的自信幻想中国人会跪",
+      "onboard_time": 1744558163,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 886031,
@@ -6313,6 +6329,14 @@
       "onboard_time": 1744505063,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 547397,
+      "num": 547397,
+      "word": "美国关税战已祸乱全球",
+      "onboard_time": 1744559181,
+      "rank": 3,
+      "category": "国际时政"
     },
     {
       "raw_hot": 547347,
@@ -15795,6 +15819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 225889,
+      "num": 225889,
+      "word": "妈妈监控中发现孩子情绪异常查出脱臼",
+      "onboard_time": 1744558702,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 225853,
       "num": 225853,
       "word": "赵奕欢的裙子上是古代仕女图",
@@ -17947,6 +17979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203797,
+      "num": 203797,
+      "word": "胡先煦邓家佳易小星乘机遇大风",
+      "onboard_time": 1744559901,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203717,
       "num": 203717,
       "word": "银河左岸音乐节",
@@ -18145,6 +18185,14 @@
       "onboard_time": 1744344262,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201570,
+      "num": 201570,
+      "word": "刘冲让王一博快点切换频道",
+      "onboard_time": 1744559721,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 201566,
@@ -18449,6 +18497,14 @@
       "onboard_time": 1743981438,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199256,
+      "num": 199256,
+      "word": "汪苏泷复刻金宣虎wink",
+      "onboard_time": 1744561459,
+      "rank": 21,
+      "category": "演出"
     },
     {
       "raw_hot": 199208,
@@ -20883,6 +20939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184319,
+      "num": 184319,
+      "word": "网曝超市将馒头扔地上给大爷大妈抢",
+      "onboard_time": 1744561520,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 184288,
       "num": 184288,
       "word": "张杰今天一直在彩排",
@@ -21160,6 +21224,14 @@
       "word": "上海张园偶遇张柏芝",
       "onboard_time": 1743595463,
       "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 182552,
+      "num": 182552,
+      "word": "章昊谈爱豆的责任",
+      "onboard_time": 1744560442,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -24971,14 +25043,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 156169,
-      "num": 156169,
-      "word": "外媒问哪来的自信幻想中国人会跪",
-      "onboard_time": 1744558163,
-      "rank": 32,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 156134,
       "num": 156134,
       "word": "吴宣仪卡琳娜友情",
@@ -28291,6 +28355,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 136820,
+      "num": 136820,
+      "word": "湖南卫视连发20条陈哲远",
+      "onboard_time": 1744560081,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 136748,
       "num": 136748,
       "word": "谈论全球电影未来怎能不提中国",
@@ -29185,6 +29257,14 @@
       "onboard_time": 1743511462,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131929,
+      "num": 131929,
+      "word": "毛不易依萍同款美学",
+      "onboard_time": 1744559181,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 131887,
@@ -32243,6 +32323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114717,
+      "num": 114717,
+      "word": "WCBA冠军之路",
+      "onboard_time": 1744560800,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 114664,
       "num": 114664,
       "word": "苹果公司股价惨遭血洗",
@@ -33683,14 +33771,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 104265,
-      "num": 104265,
-      "word": "妈妈监控中发现孩子情绪异常查出脱臼",
-      "onboard_time": 1744558702,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 104151,
       "num": 710253,
       "word": "河北隆化县回应养老院火灾",
@@ -34019,6 +34099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 100673,
+      "num": 100673,
+      "word": "陈哲远回复湖南卫视",
+      "onboard_time": 1744561580,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 100653,
       "num": 215859,
       "word": "孙俪胡曼黎莞莞类卿具像化",
@@ -34257,6 +34345,14 @@
       "onboard_time": 1743511103,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 98543,
+      "num": 280785,
+      "word": "手机租赁平台定价全凭胆量",
+      "onboard_time": 1744558282,
+      "rank": 17,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 98495,
@@ -34793,6 +34889,14 @@
       "onboard_time": 1743703096,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 92157,
+      "num": 92157,
+      "word": "脾胃虚弱最怕的5个动作",
+      "onboard_time": 1744558882,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 92155,
@@ -35776,6 +35880,14 @@
       "word": "YERI泡泡发文",
       "onboard_time": 1743722118,
       "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 81023,
+      "num": 81023,
+      "word": "黄霄雲你往图里加了什么",
+      "onboard_time": 1744561702,
+      "rank": 49,
       "category": "艺人"
     },
     {
@@ -38587,6 +38699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46260,
+      "num": 305863,
+      "word": "为啥4月有这么极端的大风",
+      "onboard_time": 1744561161,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46069,
       "num": 46069,
       "word": "王嘉尔版superidol",
@@ -38905,14 +39025,6 @@
       "onboard_time": 1743612558,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 43233,
-      "num": 280785,
-      "word": "手机租赁平台定价全凭胆量",
-      "onboard_time": 1744558282,
-      "rank": 17,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 43218,
