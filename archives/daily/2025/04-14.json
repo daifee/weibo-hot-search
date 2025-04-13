@@ -1,6 +1,6 @@
 {
   "startTime": 1744561767834,
-  "endTime": 1744562687721,
+  "endTime": 1744564823601,
   "band_list": [
     {
       "raw_hot": 1234974,
@@ -59,6 +59,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 517626,
+      "num": 291974,
+      "word": "网曝超市将馒头扔地上给大爷大妈抢",
+      "onboard_time": 1744561520,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 438583,
       "num": 293310,
       "word": "杨幂 苹果掰开",
@@ -107,20 +115,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 291974,
-      "num": 291974,
-      "word": "网曝超市将馒头扔地上给大爷大妈抢",
-      "onboard_time": 1744561520,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 277047,
       "num": 277047,
       "word": "妈妈监控中发现孩子情绪异常查出脱臼",
       "onboard_time": 1744558702,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 268880,
+      "num": 268880,
+      "word": "汪苏泷复刻金宣虎wink",
+      "onboard_time": 1744561459,
+      "rank": 21,
+      "category": "演出"
     },
     {
       "raw_hot": 238688,
@@ -147,12 +155,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 215896,
-      "num": 215896,
-      "word": "汪苏泷复刻金宣虎wink",
-      "onboard_time": 1744561459,
-      "rank": 21,
-      "category": "演出"
+      "raw_hot": 215629,
+      "num": 215629,
+      "word": "陈哲远回复湖南卫视",
+      "onboard_time": 1744561580,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 205119,
@@ -193,14 +201,6 @@
       "onboard_time": 1744549103,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 155992,
-      "num": 155992,
-      "word": "陈哲远回复湖南卫视",
-      "onboard_time": 1744561580,
-      "rank": 41,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 149207,
@@ -257,6 +257,14 @@
       "onboard_time": 1744559181,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 131492,
+      "num": 131492,
+      "word": "金善旴回应被骂",
+      "onboard_time": 1744562358,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 131096,
@@ -331,14 +339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 102950,
-      "num": 102950,
-      "word": "金善旴回应被骂",
-      "onboard_time": 1744562358,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 99558,
       "num": 99558,
       "word": "无忧渡",
@@ -377,6 +377,14 @@
       "onboard_time": 1744555583,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 88435,
+      "num": 88435,
+      "word": "你推荐哪部国产电视剧出海",
+      "onboard_time": 1744562299,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 88313,
@@ -419,12 +427,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 79507,
-      "num": 79507,
-      "word": "你推荐哪部国产电视剧出海",
-      "onboard_time": 1744562299,
-      "rank": 43,
-      "category": "剧集"
+      "raw_hot": 81636,
+      "num": 81636,
+      "word": "超市回应将馒头扔地上给大爷大妈抢",
+      "onboard_time": 1744563198,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 67711,
@@ -433,6 +441,30 @@
       "onboard_time": 1744557504,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 53604,
+      "num": 53604,
+      "word": "尹锡悦戴红帽子让韩国再次伟大",
+      "onboard_time": 1744544001,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 49511,
+      "num": 49511,
+      "word": "桃黑黑 不直播",
+      "onboard_time": 1744549883,
+      "rank": 44,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 47278,
+      "num": 47278,
+      "word": "商务部回应美豁免部分产品关税",
+      "onboard_time": 1744544182,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 46260,
