@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744583984996,
+  "endTime": 1744586632214,
   "band_list": [
     {
       "raw_hot": 3004197,
@@ -435,6 +435,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 665616,
+      "num": 291974,
+      "word": "网曝超市将馒头扔地上给大爷大妈抢",
+      "onboard_time": 1744561520,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 663591,
+      "num": 663591,
+      "word": "印度少女遭贩卖逃脱被警方强制送回",
+      "onboard_time": 1744582636,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 660543,
       "num": 660543,
       "word": "鸟类感染病毒后脖子扭转180度",
@@ -569,14 +585,6 @@
       "onboard_time": 1744535723,
       "rank": 14,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 517626,
-      "num": 291974,
-      "word": "网曝超市将馒头扔地上给大爷大妈抢",
-      "onboard_time": 1744561520,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 517442,
@@ -792,6 +800,14 @@
       "word": "小伙给婚恋公司交17万第2天就领证",
       "onboard_time": 1744533801,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 378275,
+      "num": 378275,
+      "word": "妈妈监控中发现孩子情绪异常查出脱臼",
+      "onboard_time": 1744558702,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -1043,14 +1059,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 277047,
-      "num": 277047,
-      "word": "妈妈监控中发现孩子情绪异常查出脱臼",
-      "onboard_time": 1744558702,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 276019,
       "num": 244683,
       "word": "无忧渡拍出了琵琶行",
@@ -1161,6 +1169,14 @@
       "onboard_time": 1744470444,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 246676,
+      "num": 246676,
+      "word": "快船战胜勇士",
+      "onboard_time": 1744585458,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 246539,
@@ -1307,14 +1323,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 218620,
-      "num": 218620,
-      "word": "印度少女遭贩卖逃脱被警方强制送回",
-      "onboard_time": 1744582636,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 218481,
       "num": 285586,
       "word": "塔吉克斯坦5.8级地震",
@@ -1340,7 +1348,7 @@
     },
     {
       "raw_hot": 215629,
-      "num": 215629,
+      "num": 247514,
       "word": "陈哲远回复湖南卫视",
       "onboard_time": 1744561580,
       "rank": 41,
@@ -1561,6 +1569,14 @@
       "onboard_time": 1744552883,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198255,
+      "num": 198255,
+      "word": "原本要发美国的摩托车暂停出货",
+      "onboard_time": 1744567216,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198084,
@@ -1955,6 +1971,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 165437,
+      "num": 298745,
+      "word": "多地发布暴雪蓝色预警",
+      "onboard_time": 1744558401,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 164827,
       "num": 164827,
       "word": "梁师父回应是否再邀请甲亢哥来河南",
@@ -2259,6 +2283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142491,
+      "num": 142491,
+      "word": "NBA",
+      "onboard_time": 1744585999,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142325,
       "num": 142325,
       "word": "绝区零第二季",
@@ -2313,14 +2345,6 @@
       "onboard_time": 1744529302,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 141064,
-      "num": 141064,
-      "word": "原本要发美国的摩托车暂停出货",
-      "onboard_time": 1744567216,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 140393,
@@ -2705,14 +2729,6 @@
       "onboard_time": 1744542622,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 125051,
-      "num": 298745,
-      "word": "多地发布暴雪蓝色预警",
-      "onboard_time": 1744558401,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 124030,
@@ -3323,6 +3339,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 94896,
+      "num": 94896,
+      "word": "快船vs勇士",
+      "onboard_time": 1744586059,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 94460,
       "num": 94460,
       "word": "家里的绿叶菜尽量3天内吃完",
@@ -3361,6 +3385,14 @@
       "onboard_time": 1744523002,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92272,
+      "num": 111640,
+      "word": "张小婉说当时感到脚下有异动",
+      "onboard_time": 1744572074,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 92157,
@@ -3635,14 +3667,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 47214,
-      "num": 48442,
-      "word": "张小婉说当时感到脚下有异动",
-      "onboard_time": 1744572074,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 46954,
       "num": 48363,
       "word": "上海中心阻尼器开始明显摆动",
@@ -3675,6 +3699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44000,
+      "num": 59308,
+      "word": "美媒称市场处于快速去美元化过程中",
+      "onboard_time": 1744578674,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 43936,
       "num": 43936,
       "word": "我的后半生",
@@ -3691,12 +3723,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 42497,
-      "num": 42497,
-      "word": "美媒称市场处于快速去美元化过程中",
-      "onboard_time": 1744578674,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 42128,
+      "num": 159626,
+      "word": "深圳偶遇黄杨钿甜",
+      "onboard_time": 1744585578,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 42047,
+      "num": 59293,
+      "word": "风还没吹完雪又来了",
+      "onboard_time": 1744567576,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42014,
@@ -3707,20 +3747,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 41433,
-      "num": 41433,
-      "word": "风还没吹完雪又来了",
-      "onboard_time": 1744567576,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 41377,
       "num": 41377,
       "word": "殉职的白月光被抓的姐孤独的她",
       "onboard_time": 1744497496,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 40643,
+      "num": 59252,
+      "word": "独行侠vs灰熊",
+      "onboard_time": 1744586119,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 40264,
@@ -3785,6 +3825,14 @@
       "onboard_time": 1744484417,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 35652,
+      "num": 94411,
+      "word": "赵继伟说新疆男篮给我们上了一课",
+      "onboard_time": 1744586539,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 34239,

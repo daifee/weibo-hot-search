@@ -1,6 +1,6 @@
 {
   "startTime": 1744561767834,
-  "endTime": 1744583984996,
+  "endTime": 1744586632214,
   "band_list": [
     {
       "raw_hot": 1234974,
@@ -27,6 +27,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 665616,
+      "num": 291974,
+      "word": "网曝超市将馒头扔地上给大爷大妈抢",
+      "onboard_time": 1744561520,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 663591,
+      "num": 663591,
+      "word": "印度少女遭贩卖逃脱被警方强制送回",
+      "onboard_time": 1744582636,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 651613,
       "num": 651613,
       "word": "女生替去世前男友照顾家人还债60万",
@@ -43,6 +59,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 541808,
+      "num": 293611,
+      "word": "女子扮石矶娘娘被一男子辱骂成日本人",
+      "onboard_time": 1744552764,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 530982,
       "num": 530982,
       "word": "折腰",
@@ -51,20 +75,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 528613,
-      "num": 293611,
-      "word": "女子扮石矶娘娘被一男子辱骂成日本人",
-      "onboard_time": 1744552764,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 517626,
-      "num": 291974,
-      "word": "网曝超市将馒头扔地上给大爷大妈抢",
-      "onboard_time": 1744561520,
-      "rank": 22,
-      "category": "民生新闻"
+      "raw_hot": 494605,
+      "num": 494605,
+      "word": "145%关税让1只熊猫玩偶卖80美元",
+      "onboard_time": 1744537883,
+      "rank": 6,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 438583,
@@ -83,19 +99,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 407350,
-      "num": 407350,
-      "word": "145%关税让1只熊猫玩偶卖80美元",
-      "onboard_time": 1744537883,
-      "rank": 6,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 383226,
       "num": 248655,
       "word": "28岁网红因病去世留下4个孩子",
       "onboard_time": 1744548082,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 378275,
+      "num": 378275,
+      "word": "妈妈监控中发现孩子情绪异常查出脱臼",
+      "onboard_time": 1744558702,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -115,20 +131,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 277047,
-      "num": 277047,
-      "word": "妈妈监控中发现孩子情绪异常查出脱臼",
-      "onboard_time": 1744558702,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 268880,
       "num": 268880,
       "word": "汪苏泷复刻金宣虎wink",
       "onboard_time": 1744561459,
       "rank": 21,
       "category": "演出"
+    },
+    {
+      "raw_hot": 246676,
+      "num": 246676,
+      "word": "快船战胜勇士",
+      "onboard_time": 1744585458,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 238688,
@@ -147,14 +163,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 218620,
-      "num": 218620,
-      "word": "印度少女遭贩卖逃脱被警方强制送回",
-      "onboard_time": 1744582636,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 216265,
       "num": 216265,
       "word": "陈芋汐两连冠后发博",
@@ -164,11 +172,19 @@
     },
     {
       "raw_hot": 215629,
-      "num": 215629,
+      "num": 247514,
       "word": "陈哲远回复湖南卫视",
       "onboard_time": 1744561580,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 209477,
+      "num": 209477,
+      "word": "鸟类感染病毒后脖子扭转180度",
+      "onboard_time": 1744550424,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 205119,
@@ -195,6 +211,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 198255,
+      "num": 198255,
+      "word": "原本要发美国的摩托车暂停出货",
+      "onboard_time": 1744567216,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 182552,
       "num": 182552,
       "word": "章昊谈爱豆的责任",
@@ -211,11 +235,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 149207,
-      "num": 149207,
-      "word": "鸟类感染病毒后脖子扭转180度",
-      "onboard_time": 1744550424,
-      "rank": 25,
+      "raw_hot": 165437,
+      "num": 298745,
+      "word": "多地发布暴雪蓝色预警",
+      "onboard_time": 1744558401,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -227,12 +251,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 141064,
-      "num": 141064,
-      "word": "原本要发美国的摩托车暂停出货",
-      "onboard_time": 1744567216,
-      "rank": 25,
-      "category": "民生新闻"
+      "raw_hot": 142491,
+      "num": 142491,
+      "word": "NBA",
+      "onboard_time": 1744585999,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 140768,
@@ -257,6 +281,14 @@
       "onboard_time": 1744536922,
       "rank": 31,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 136937,
+      "num": 136937,
+      "word": "25岁歌手演出第二天猝死",
+      "onboard_time": 1744548262,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 136820,
@@ -289,14 +321,6 @@
       "onboard_time": 1744557203,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 119898,
-      "num": 298745,
-      "word": "多地发布暴雪蓝色预警",
-      "onboard_time": 1744558401,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 117502,
@@ -355,6 +379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 101482,
+      "num": 101482,
+      "word": "尹锡悦戴红帽子让韩国再次伟大",
+      "onboard_time": 1744544001,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 99558,
       "num": 99558,
       "word": "无忧渡",
@@ -377,6 +409,30 @@
       "onboard_time": 1744554202,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 94896,
+      "num": 94896,
+      "word": "快船vs勇士",
+      "onboard_time": 1744586059,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 94207,
+      "num": 94207,
+      "word": "公司约9827万应收账款拍卖2.85万成交",
+      "onboard_time": 1744550603,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92272,
+      "num": 111640,
+      "word": "张小婉说当时感到脚下有异动",
+      "onboard_time": 1744572074,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 92157,
@@ -408,14 +464,6 @@
       "word": "黄霄雲你往图里加了什么",
       "onboard_time": 1744561702,
       "rank": 49,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 88100,
-      "num": 88100,
-      "word": "25岁歌手演出第二天猝死",
-      "onboard_time": 1744548262,
-      "rank": 46,
       "category": "艺人"
     },
     {
@@ -459,12 +507,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 67717,
-      "num": 67717,
-      "word": "尹锡悦戴红帽子让韩国再次伟大",
-      "onboard_time": 1744544001,
-      "rank": 39,
-      "category": "国际时政"
+      "raw_hot": 73952,
+      "num": 73952,
+      "word": "商务部回应美豁免部分产品关税",
+      "onboard_time": 1744544182,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 67711,
@@ -483,22 +531,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 47278,
-      "num": 47278,
-      "word": "商务部回应美豁免部分产品关税",
-      "onboard_time": 1744544182,
-      "rank": 45,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 47214,
-      "num": 48442,
-      "word": "张小婉说当时感到脚下有异动",
-      "onboard_time": 1744572074,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 46260,
       "num": 305863,
       "word": "为啥4月有这么极端的大风",
@@ -507,28 +539,36 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 45313,
-      "num": 45313,
-      "word": "公司约9827万应收账款拍卖2.85万成交",
-      "onboard_time": 1744550603,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 42497,
-      "num": 42497,
+      "raw_hot": 44000,
+      "num": 59308,
       "word": "美媒称市场处于快速去美元化过程中",
       "onboard_time": 1744578674,
       "rank": 9,
       "category": "国际时政"
     },
     {
-      "raw_hot": 41433,
-      "num": 41433,
+      "raw_hot": 42128,
+      "num": 159626,
+      "word": "深圳偶遇黄杨钿甜",
+      "onboard_time": 1744585578,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 42047,
+      "num": 59293,
       "word": "风还没吹完雪又来了",
       "onboard_time": 1744567576,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40643,
+      "num": 59252,
+      "word": "独行侠vs灰熊",
+      "onboard_time": 1744586119,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 37940,
@@ -537,6 +577,14 @@
       "onboard_time": 1744559302,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 35652,
+      "num": 94411,
+      "word": "赵继伟说新疆男篮给我们上了一课",
+      "onboard_time": 1744586539,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 34088,
