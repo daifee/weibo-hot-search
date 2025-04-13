@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744540940279,
+  "endTime": 1744543152296,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -1651,6 +1651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1365348,
+      "num": 1365348,
+      "word": "店主解释为何女装越做越小",
+      "onboard_time": 1744541421,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1364965,
       "num": 1189429,
       "word": "辣目洋子暴瘦20斤",
@@ -2657,6 +2665,14 @@
       "onboard_time": 1744002623,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1052581,
+      "num": 258559,
+      "word": "弟弟找开锁上门后发现姐姐已去世",
+      "onboard_time": 1744540761,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1051556,
@@ -7227,6 +7243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 481588,
+      "num": 352264,
+      "word": "珀莱雅 易烊千玺",
+      "onboard_time": 1744540401,
+      "rank": 17,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 481520,
       "num": 321066,
       "word": "别家站姐拍的赵露思",
@@ -10899,6 +10923,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 324342,
+      "num": 324342,
+      "word": "特朗普大厦商店用价签遮盖中国制造",
+      "onboard_time": 1744539262,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 324284,
       "num": 324284,
       "word": "老人因缺水一辈子只洗3次脸",
@@ -14211,14 +14243,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 245750,
-      "num": 245750,
-      "word": "珀莱雅 易烊千玺",
-      "onboard_time": 1744540401,
-      "rank": 17,
-      "category": "艺人,美妆"
-    },
-    {
       "raw_hot": 245505,
       "num": 245505,
       "word": "痞幼爆改晓华",
@@ -16315,6 +16339,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 214305,
+      "num": 214305,
+      "word": "大风天强行带20余人登山被传唤",
+      "onboard_time": 1744537221,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 214247,
       "num": 214247,
       "word": "无意识控血糖的5个小习惯",
@@ -16395,12 +16427,28 @@
       "category": "国内时政,财经"
     },
     {
+      "raw_hot": 213477,
+      "num": 213477,
+      "word": "柳智敏樱花粉裙",
+      "onboard_time": 1744542442,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213348,
       "num": 213348,
       "word": "童瑶从三十而已扇到时光里",
       "onboard_time": 1744091062,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 213189,
+      "num": 213189,
+      "word": "7岁男孩上学途中遭3只大型犬撕咬",
+      "onboard_time": 1744541001,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 213125,
@@ -16417,6 +16465,14 @@
       "onboard_time": 1744503921,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 213059,
+      "num": 213059,
+      "word": "卤鹅哥讲述文和友直播事件经过",
+      "onboard_time": 1744541842,
+      "rank": 26,
+      "category": "网红"
     },
     {
       "raw_hot": 212886,
@@ -18393,6 +18449,14 @@
       "onboard_time": 1743569183,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 196461,
+      "num": 196461,
+      "word": "Nicholas公式照",
+      "onboard_time": 1744543041,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 196427,
@@ -24235,6 +24299,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 157185,
+      "num": 157185,
+      "word": "徐志胜 免费的鸡",
+      "onboard_time": 1744541601,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157165,
       "num": 157165,
       "word": "HLE对战T1",
@@ -24972,7 +25044,7 @@
     },
     {
       "raw_hot": 152389,
-      "num": 152389,
+      "num": 229237,
       "word": "三河强换商户招牌需给公众一个交代",
       "onboard_time": 1744539622,
       "rank": 36,
@@ -27875,14 +27947,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 135310,
-      "num": 301761,
-      "word": "特朗普大厦商店用价签遮盖中国制造",
-      "onboard_time": 1744539262,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 135302,
       "num": 135302,
       "word": "张佳宁演员的含金量还在上升",
@@ -28161,6 +28225,14 @@
       "onboard_time": 1743506423,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133937,
+      "num": 133937,
+      "word": "瘦不下来可能是因为湿气重",
+      "onboard_time": 1744539802,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 133933,
@@ -29643,6 +29715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125389,
+      "num": 125389,
+      "word": "原来黄子弘凡的偶像是张杰",
+      "onboard_time": 1744542622,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125298,
       "num": 125298,
       "word": "快船vs国王",
@@ -29947,12 +30027,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123571,
+      "num": 123571,
+      "word": "国家安全机关破获一起重大间谍案件",
+      "onboard_time": 1744541782,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 123566,
       "num": 123566,
       "word": "苹果公司市值蒸发2550亿美元",
       "onboard_time": 1743689483,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 123554,
+      "num": 123576,
+      "word": "华天崎给鞠婧祎化幻彩霓虹妆",
+      "onboard_time": 1744541661,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 123552,
@@ -30016,14 +30112,6 @@
       "word": "跟着文物去春游",
       "onboard_time": 1744005263,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 122784,
-      "num": 122784,
-      "word": "弟弟找开锁上门后发现姐姐已去世",
-      "onboard_time": 1744540761,
-      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -30097,6 +30185,14 @@
       "onboard_time": 1744290204,
       "rank": 49,
       "category": "财经,国际时政"
+    },
+    {
+      "raw_hot": 122139,
+      "num": 122139,
+      "word": "梁祯元身材",
+      "onboard_time": 1744542321,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 122132,
@@ -30497,14 +30593,6 @@
       "onboard_time": 1743570443,
       "rank": 19,
       "category": "民生新闻,议题讨论"
-    },
-    {
-      "raw_hot": 119951,
-      "num": 119951,
-      "word": "大风天强行带20余人登山被传唤",
-      "onboard_time": 1744537221,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 119940,
@@ -31659,6 +31747,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 112712,
+      "num": 112712,
+      "word": "余景天得知和李佳薇pk后天塌了",
+      "onboard_time": 1744541121,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112632,
       "num": 112632,
       "word": "湖人主场高喊库里MVP",
@@ -31689,6 +31785,14 @@
       "onboard_time": 1743946762,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 112308,
+      "num": 112308,
+      "word": "王一博登VOGUE五大满贯",
+      "onboard_time": 1744541661,
+      "rank": 44,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 112247,
@@ -32595,6 +32699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 105300,
+      "num": 105300,
+      "word": "Gr 年锦",
+      "onboard_time": 1744542560,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 105269,
       "num": 105269,
       "word": "不要焦虑2小时和8公里以外的事",
@@ -32803,6 +32915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103327,
+      "num": 103327,
+      "word": "小朋友用冰箱贴打造mini博物馆",
+      "onboard_time": 1744542682,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103293,
       "num": 103293,
       "word": "南宁动物园卡大象",
@@ -32891,6 +33011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102209,
+      "num": 102209,
+      "word": "千秋令一脚踩碎替身文学",
+      "onboard_time": 1744543102,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 101942,
       "num": 137419,
       "word": "武艺杨迪连发12条微博",
@@ -32913,6 +33041,14 @@
       "onboard_time": 1744506741,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 101604,
+      "num": 101604,
+      "word": "酒店回应男子通卡刷开3名女子房间",
+      "onboard_time": 1744542800,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101593,
@@ -33353,6 +33489,14 @@
       "onboard_time": 1743762501,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 97648,
+      "num": 229233,
+      "word": "中国组装美iphone机型产线未停工",
+      "onboard_time": 1744541542,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 97623,
@@ -35017,6 +35161,14 @@
       "onboard_time": 1744275200,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 77585,
+      "num": 229247,
+      "word": "李斯丹妮模仿何洁摆妖娆pose",
+      "onboard_time": 1744542022,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 77547,
@@ -37259,14 +37411,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 50636,
-      "num": 127774,
-      "word": "瘦不下来可能是因为湿气重",
-      "onboard_time": 1744539802,
-      "rank": 39,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 50513,
       "num": 50513,
       "word": "无畏契约",
@@ -39449,6 +39593,14 @@
       "onboard_time": 1743632056,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 27753,
+      "num": 257294,
+      "word": "中国明星数学家夫妇旅美数十年后回国",
+      "onboard_time": 1744542381,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27691,

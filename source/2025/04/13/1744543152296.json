@@ -1,0 +1,410 @@
+{
+  "runTime": 1744543152296,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2231864,
+        "num": 2231864,
+        "word": "145%关税让1只熊猫玩偶卖80美元",
+        "onboard_time": 1744537883,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1365348,
+        "num": 1365348,
+        "word": "店主解释为何女装越做越小",
+        "onboard_time": 1744541421,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148232,
+        "num": 983380,
+        "word": "美国多次发动关税战并受到惨痛教训",
+        "onboard_time": 1744531944,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 870815,
+        "num": 870815,
+        "word": "赵丽颖 转型",
+        "onboard_time": 1744530322,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 674949,
+        "num": 674949,
+        "word": "折腰速抬",
+        "onboard_time": 1744536202,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 364539,
+        "num": 364539,
+        "word": "特朗普政府再度退缩",
+        "onboard_time": 1744524021,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 481588,
+        "num": 352264,
+        "word": "珀莱雅 易烊千玺",
+        "onboard_time": 1744540401,
+        "rank": 6,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 458382,
+        "num": 345967,
+        "word": "白鹿张凌赫周深等火到越南了",
+        "onboard_time": 1744535420,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324342,
+        "num": 324342,
+        "word": "特朗普大厦商店用价签遮盖中国制造",
+        "onboard_time": 1744539262,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 258699,
+        "num": 258699,
+        "word": "卖劳力士收了37万多后银行卡被冻结",
+        "onboard_time": 1744528220,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1052581,
+        "num": 258559,
+        "word": "弟弟找开锁上门后发现姐姐已去世",
+        "onboard_time": 1744540761,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 786665,
+        "num": 258243,
+        "word": "张小婉回应踩了谢娜裙子",
+        "onboard_time": 1744533143,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 456010,
+        "num": 257814,
+        "word": "杭州一9岁男孩高楼坠下身亡",
+        "onboard_time": 1744529960,
+        "rank": 12,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 293608,
+        "num": 257388,
+        "word": "章若楠中国人民大学路演",
+        "onboard_time": 1744537281,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27753,
+        "num": 257294,
+        "word": "中国明星数学家夫妇旅美数十年后回国",
+        "onboard_time": 1744542381,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256943,
+        "num": 256943,
+        "word": "无忧渡",
+        "onboard_time": 1744534043,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229551,
+        "num": 229551,
+        "word": "韩国花商拟在云南买520万枝花",
+        "onboard_time": 1744530681,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77585,
+        "num": 229247,
+        "word": "李斯丹妮模仿何洁摆妖娆pose",
+        "onboard_time": 1744542022,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147465,
+        "num": 229237,
+        "word": "三河强换商户招牌需给公众一个交代",
+        "onboard_time": 1744539622,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97648,
+        "num": 229233,
+        "word": "中国组装美iphone机型产线未停工",
+        "onboard_time": 1744541542,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 229230,
+        "num": 229230,
+        "word": "双鹿 苏新皓",
+        "onboard_time": 1744538481,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389859,
+        "num": 228452,
+        "word": "让体重逐渐下降的40个冷知识",
+        "onboard_time": 1744536922,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 223589,
+        "num": 223589,
+        "word": "官方称男孩坠楼时系一个人在家",
+        "onboard_time": 1744535723,
+        "rank": 22,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 214305,
+        "num": 214305,
+        "word": "大风天强行带20余人登山被传唤",
+        "onboard_time": 1744537221,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213477,
+        "num": 213477,
+        "word": "柳智敏樱花粉裙",
+        "onboard_time": 1744542442,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213189,
+        "num": 213189,
+        "word": "7岁男孩上学途中遭3只大型犬撕咬",
+        "onboard_time": 1744541001,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213059,
+        "num": 213059,
+        "word": "卤鹅哥讲述文和友直播事件经过",
+        "onboard_time": 1744541842,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 199101,
+        "num": 199101,
+        "word": "孙颖莎上班走出了哪吒的气势",
+        "onboard_time": 1744538721,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196461,
+        "num": 196461,
+        "word": "Nicholas公式照",
+        "onboard_time": 1744543041,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163047,
+        "num": 163047,
+        "word": "五一你快来我撑不住了",
+        "onboard_time": 1744539081,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157185,
+        "num": 157185,
+        "word": "徐志胜 免费的鸡",
+        "onboard_time": 1744541601,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148908,
+        "num": 148908,
+        "word": "赵露思哭戏",
+        "onboard_time": 1744525401,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 146167,
+        "num": 146167,
+        "word": "小伙给婚恋公司交17万第2天就领证",
+        "onboard_time": 1744533801,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144624,
+        "num": 144624,
+        "word": "丁禹兮线上线下宣传齐思钧新书",
+        "onboard_time": 1744536801,
+        "rank": 33,
+        "category": "艺人,读书作家"
+      },
+      {
+        "raw_hot": 141134,
+        "num": 141134,
+        "word": "尹锡悦或面临终身监禁甚至死刑",
+        "onboard_time": 1744538542,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 133946,
+        "num": 133946,
+        "word": "仙逆",
+        "onboard_time": 1744540761,
+        "rank": 35,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 133937,
+        "num": 133937,
+        "word": "瘦不下来可能是因为湿气重",
+        "onboard_time": 1744539802,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 130084,
+        "num": 130084,
+        "word": "双相情感障碍又叫天才病",
+        "onboard_time": 1744522463,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125389,
+        "num": 125389,
+        "word": "原来黄子弘凡的偶像是张杰",
+        "onboard_time": 1744542622,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124205,
+        "num": 124205,
+        "word": "当年王宝强在跑男录制的好好的",
+        "onboard_time": 1744519101,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123554,
+        "num": 123576,
+        "word": "华天崎给鞠婧祎化幻彩霓虹妆",
+        "onboard_time": 1744541661,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123571,
+        "num": 123571,
+        "word": "国家安全机关破获一起重大间谍案件",
+        "onboard_time": 1744541782,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 122139,
+        "num": 122139,
+        "word": "梁祯元身材",
+        "onboard_time": 1744542321,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112712,
+        "num": 112712,
+        "word": "余景天得知和李佳薇pk后天塌了",
+        "onboard_time": 1744541121,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112308,
+        "num": 112308,
+        "word": "王一博登VOGUE五大满贯",
+        "onboard_time": 1744541661,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 105300,
+        "num": 105300,
+        "word": "Gr 年锦",
+        "onboard_time": 1744542560,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 103327,
+        "num": 103327,
+        "word": "小朋友用冰箱贴打造mini博物馆",
+        "onboard_time": 1744542682,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102209,
+        "num": 102209,
+        "word": "千秋令一脚踩碎替身文学",
+        "onboard_time": 1744543102,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101604,
+        "num": 101604,
+        "word": "酒店回应男子通卡刷开3名女子房间",
+        "onboard_time": 1744542800,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100399,
+        "num": 100399,
+        "word": "孙颖莎邱贻可对拉马琳支招",
+        "onboard_time": 1744535183,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中印尼建交75周年#"
+    }
+  }
+}
