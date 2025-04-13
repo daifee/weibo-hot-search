@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744544182417,
+  "endTime": 1744548177761,
   "band_list": [
     {
       "raw_hot": 3004197,
@@ -9,6 +9,14 @@
       "onboard_time": 1744537883,
       "rank": 0,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 2258010,
+      "num": 319447,
+      "word": "李佳琦不建议普通女生做医美",
+      "onboard_time": 1744543761,
+      "rank": 21,
+      "category": "网红"
     },
     {
       "raw_hot": 1958059,
@@ -235,6 +243,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 810526,
+      "num": 810526,
+      "word": "商务部回应美豁免部分产品关税",
+      "onboard_time": 1744544182,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 806826,
       "num": 806826,
       "word": "齐思钧双相",
@@ -273,6 +289,14 @@
       "onboard_time": 1744522463,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 719396,
+      "num": 719396,
+      "word": "无忧渡",
+      "onboard_time": 1744456823,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 717984,
@@ -315,12 +339,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 676837,
+      "num": 676837,
+      "word": "尹锡悦戴红帽子让韩国再次伟大",
+      "onboard_time": 1744544001,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 625836,
       "num": 372931,
       "word": "赵露思哭戏",
       "onboard_time": 1744525401,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 622865,
+      "num": 299531,
+      "word": "电瓶燃爆烧伤男生称无法原谅室友",
+      "onboard_time": 1744546342,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 614360,
@@ -555,6 +595,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 417140,
+      "num": 417140,
+      "word": "折腰粉丝靠一个预告活了两年",
+      "onboard_time": 1744545982,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 412203,
       "num": 412203,
       "word": "看无忧渡第一集满脑子都是Sa",
@@ -585,6 +633,14 @@
       "onboard_time": 1744472304,
       "rank": 8,
       "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 370235,
+      "num": 370235,
+      "word": "7岁男孩上学途中遭3只大型犬撕咬",
+      "onboard_time": 1744541001,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 366646,
@@ -699,14 +755,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 301531,
-      "num": 301531,
-      "word": "无忧渡",
-      "onboard_time": 1744456823,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 296223,
       "num": 296223,
       "word": "齐思钧自己去看了两年心理治疗",
@@ -737,14 +785,6 @@
       "onboard_time": 1744510220,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 285735,
-      "num": 285735,
-      "word": "7岁男孩上学途中遭3只大型犬撕咬",
-      "onboard_time": 1744541001,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 281704,
@@ -803,6 +843,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 247955,
+      "num": 165526,
+      "word": "28岁网红因病去世留下4个孩子",
+      "onboard_time": 1744548082,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 246798,
       "num": 246798,
       "word": "金价上涨水贝模式受追捧",
@@ -848,6 +896,22 @@
       "word": "胡兵坐轮椅五国机场无障碍测评",
       "onboard_time": 1744519582,
       "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 229619,
+      "num": 229619,
+      "word": "无忧渡节奏 又快又慢",
+      "onboard_time": 1744545082,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 228996,
+      "num": 228996,
+      "word": "刘宇宁直播",
+      "onboard_time": 1744545802,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -915,12 +979,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 220612,
-      "num": 199169,
-      "word": "李佳琦不建议普通女生做医美",
-      "onboard_time": 1744543761,
-      "rank": 21,
-      "category": "网红"
+      "raw_hot": 219459,
+      "num": 322151,
+      "word": "敦促美方彻底取消对等关税错误做法",
+      "onboard_time": 1744546761,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 218481,
@@ -955,6 +1019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 213891,
+      "num": 213891,
+      "word": "国家安全机关破获一起重大间谍案件",
+      "onboard_time": 1744541782,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 213102,
       "num": 213102,
       "word": "熬夜睡不够是胃癌的一大诱因",
@@ -977,6 +1049,14 @@
       "onboard_time": 1744543041,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 211960,
+      "num": 312188,
+      "word": "三河强换商户招牌需给公众一个交代",
+      "onboard_time": 1744539622,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 210459,
@@ -1027,6 +1107,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 205060,
+      "num": 205060,
+      "word": "王晶回应怒怼姜涛",
+      "onboard_time": 1744547181,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204493,
       "num": 204493,
       "word": "enhypen将6月5日回归",
@@ -1057,14 +1145,6 @@
       "onboard_time": 1744518922,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 201116,
-      "num": 312188,
-      "word": "三河强换商户招牌需给公众一个交代",
-      "onboard_time": 1744539622,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 199588,
@@ -1283,6 +1363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 174871,
+      "num": 164697,
+      "word": "蔡徐坤微指破亿",
+      "onboard_time": 1744546881,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172733,
       "num": 191282,
       "word": "王曼昱谈澳门世界杯",
@@ -1321,6 +1409,14 @@
       "onboard_time": 1744521501,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 169622,
+      "num": 169622,
+      "word": "宋祖儿哭戏",
+      "onboard_time": 1744547301,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 169312,
@@ -1452,7 +1548,7 @@
     },
     {
       "raw_hot": 158687,
-      "num": 158687,
+      "num": 167692,
       "word": "徐志胜 免费的鸡",
       "onboard_time": 1744541601,
       "rank": 30,
@@ -1795,14 +1891,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 132012,
-      "num": 132012,
-      "word": "尹锡悦戴红帽子让韩国再次伟大",
-      "onboard_time": 1744544001,
-      "rank": 36,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 131191,
       "num": 131191,
       "word": "王楚钦普卡同组",
@@ -1817,6 +1905,14 @@
       "onboard_time": 1744525582,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130334,
+      "num": 169510,
+      "word": "陈赫这帮人还是太天真",
+      "onboard_time": 1744547602,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 129892,
@@ -1915,6 +2011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124030,
+      "num": 168601,
+      "word": "华晨宇佛山演唱会抢票",
+      "onboard_time": 1744546761,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 123871,
       "num": 123871,
       "word": "要不说邓超陈赫能玩一块呢",
@@ -1929,14 +2033,6 @@
       "onboard_time": 1744532661,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 123571,
-      "num": 123571,
-      "word": "国家安全机关破获一起重大间谍案件",
-      "onboard_time": 1744541782,
-      "rank": 41,
-      "category": "国内时政"
     },
     {
       "raw_hot": 123554,
@@ -1961,6 +2057,14 @@
       "onboard_time": 1744542321,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121850,
+      "num": 121850,
+      "word": "被3只大型犬撕咬男孩母亲发声",
+      "onboard_time": 1744543343,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121115,
@@ -2235,12 +2339,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 106640,
-      "num": 106640,
-      "word": "被3只大型犬撕咬男孩母亲发声",
-      "onboard_time": 1744543343,
-      "rank": 45,
-      "category": "民生新闻"
+      "raw_hot": 106641,
+      "num": 106641,
+      "word": "EDGM战胜LGDNBW",
+      "onboard_time": 1744547301,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 105955,
@@ -2275,12 +2379,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 105028,
+      "num": 105028,
+      "word": "张真源退半步的动作认真的吗",
+      "onboard_time": 1744544542,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 102430,
       "num": 102430,
       "word": "日本大阪世博会中国馆正式开馆",
       "onboard_time": 1744539982,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102384,
+      "num": 102384,
+      "word": "美国店主很害怕母亲节生意彻底泡汤",
+      "onboard_time": 1744547301,
+      "rank": 42,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 101942,
@@ -2313,6 +2433,14 @@
       "onboard_time": 1744533502,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 100914,
+      "num": 100914,
+      "word": "国色芳华改编成功是极小概率事件",
+      "onboard_time": 1744545681,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 100507,
@@ -2467,12 +2595,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 88328,
+      "num": 88328,
+      "word": "游客爬黄山遇大风互相搀扶抱团抗风",
+      "onboard_time": 1744547962,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88103,
       "num": 88103,
       "word": "时代少年团对接回应五一演唱会",
       "onboard_time": 1744466485,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 86408,
+      "num": 86408,
+      "word": "蒲熠星伤痕妆",
+      "onboard_time": 1744547902,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 85322,
@@ -2587,6 +2731,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 59999,
+      "num": 166541,
+      "word": "直击内蒙古暴雪天气救援现场",
+      "onboard_time": 1744547062,
+      "rank": 28,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 58683,
       "num": 58683,
       "word": "内蒙古大风把蒙古獒幼崽吹到牧民家",
@@ -2683,6 +2835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 39807,
+      "num": 91206,
+      "word": "荣昌发力接下卤鹅哥这波流量",
+      "onboard_time": 1744546041,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39440,
       "num": 394213,
       "word": "北京多条地铁线恢复运营",
@@ -2721,6 +2881,14 @@
       "onboard_time": 1744482556,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 34165,
+      "num": 215350,
+      "word": "台当局规划商超当战时枢纽遭群嘲",
+      "onboard_time": 1744547841,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 31986,
@@ -2841,6 +3009,14 @@
       "onboard_time": 1744525761,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18835,
+      "num": 165864,
+      "word": "黑执事少爷又变美了",
+      "onboard_time": 1744517962,
+      "rank": 29,
+      "category": "动漫"
     },
     {
       "raw_hot": 17772,

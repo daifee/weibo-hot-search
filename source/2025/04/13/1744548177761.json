@@ -1,0 +1,410 @@
+{
+  "runTime": 1744548177761,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1676162,
+        "num": 1676162,
+        "word": "店主解释为何女装越做越小",
+        "onboard_time": 1744541421,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1285120,
+        "num": 1285120,
+        "word": "145%关税让1只熊猫玩偶卖80美元",
+        "onboard_time": 1744537883,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 113467,
+        "num": 843219,
+        "word": "美国多次发动关税战并受到惨痛教训",
+        "onboard_time": 1744531944,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 810526,
+        "num": 810526,
+        "word": "商务部回应美豁免部分产品关税",
+        "onboard_time": 1744544182,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 719396,
+        "num": 719396,
+        "word": "无忧渡",
+        "onboard_time": 1744534043,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 676837,
+        "num": 676837,
+        "word": "尹锡悦戴红帽子让韩国再次伟大",
+        "onboard_time": 1744544001,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 417140,
+        "num": 417140,
+        "word": "折腰粉丝靠一个预告活了两年",
+        "onboard_time": 1744545982,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 370235,
+        "num": 370235,
+        "word": "7岁男孩上学途中遭3只大型犬撕咬",
+        "onboard_time": 1744541001,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 327324,
+        "num": 327324,
+        "word": "折腰速抬",
+        "onboard_time": 1744536202,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219459,
+        "num": 322151,
+        "word": "敦促美方彻底取消对等关税错误做法",
+        "onboard_time": 1744546761,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2258010,
+        "num": 319447,
+        "word": "李佳琦不建议普通女生做医美",
+        "onboard_time": 1744543761,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 891697,
+        "num": 313384,
+        "word": "弟弟找开锁上门后发现姐姐已去世",
+        "onboard_time": 1744540761,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 692540,
+        "num": 301096,
+        "word": "赵丽颖 转型",
+        "onboard_time": 1744530322,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 622865,
+        "num": 299531,
+        "word": "电瓶燃爆烧伤男生称无法原谅室友",
+        "onboard_time": 1744546342,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 294394,
+        "num": 294394,
+        "word": "珀莱雅 易烊千玺",
+        "onboard_time": 1744540401,
+        "rank": 14,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 264313,
+        "num": 264313,
+        "word": "白鹿张凌赫周深等火到越南了",
+        "onboard_time": 1744535420,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244366,
+        "num": 244366,
+        "word": "柳智敏樱花粉裙",
+        "onboard_time": 1744542442,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229619,
+        "num": 229619,
+        "word": "无忧渡节奏 又快又慢",
+        "onboard_time": 1744545082,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228996,
+        "num": 228996,
+        "word": "刘宇宁直播",
+        "onboard_time": 1744545802,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34165,
+        "num": 215350,
+        "word": "台当局规划商超当战时枢纽遭群嘲",
+        "onboard_time": 1744547841,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 306666,
+        "num": 214970,
+        "word": "让体重逐渐下降的40个冷知识",
+        "onboard_time": 1744536922,
+        "rank": 20,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 213891,
+        "num": 213891,
+        "word": "国家安全机关破获一起重大间谍案件",
+        "onboard_time": 1744541782,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 211960,
+        "num": 211960,
+        "word": "三河强换商户招牌需给公众一个交代",
+        "onboard_time": 1744539622,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205060,
+        "num": 205060,
+        "word": "王晶回应怒怼姜涛",
+        "onboard_time": 1744547181,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169622,
+        "num": 169622,
+        "word": "宋祖儿哭戏",
+        "onboard_time": 1744547301,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130334,
+        "num": 169510,
+        "word": "陈赫这帮人还是太天真",
+        "onboard_time": 1744547602,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124030,
+        "num": 168601,
+        "word": "华晨宇佛山演唱会抢票",
+        "onboard_time": 1744546761,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 112843,
+        "num": 167692,
+        "word": "徐志胜 免费的鸡",
+        "onboard_time": 1744541601,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59999,
+        "num": 166541,
+        "word": "直击内蒙古暴雪天气救援现场",
+        "onboard_time": 1744547062,
+        "rank": 28,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 18835,
+        "num": 165864,
+        "word": "黑执事少爷又变美了",
+        "onboard_time": 1744517962,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 247955,
+        "num": 165526,
+        "word": "28岁网红因病去世留下4个孩子",
+        "onboard_time": 1744548082,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174871,
+        "num": 164697,
+        "word": "蔡徐坤微指破亿",
+        "onboard_time": 1744546881,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164218,
+        "num": 164218,
+        "word": "杭州一9岁男孩高楼坠下身亡",
+        "onboard_time": 1744529960,
+        "rank": 32,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 143577,
+        "num": 143577,
+        "word": "卖劳力士收了37万多后银行卡被冻结",
+        "onboard_time": 1744528220,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125305,
+        "num": 125305,
+        "word": "赵露思哭戏",
+        "onboard_time": 1744525401,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 123923,
+        "num": 123923,
+        "word": "仙逆",
+        "onboard_time": 1744540761,
+        "rank": 35,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 123106,
+        "num": 123106,
+        "word": "五一你快来我撑不住了",
+        "onboard_time": 1744539081,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121850,
+        "num": 121850,
+        "word": "被3只大型犬撕咬男孩母亲发声",
+        "onboard_time": 1744543343,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116189,
+        "num": 116189,
+        "word": "小朋友用冰箱贴打造mini博物馆",
+        "onboard_time": 1744542682,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108984,
+        "num": 108984,
+        "word": "韩国花商拟在云南买520万枝花",
+        "onboard_time": 1744530681,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106641,
+        "num": 106641,
+        "word": "EDGM战胜LGDNBW",
+        "onboard_time": 1744547301,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 105028,
+        "num": 105028,
+        "word": "张真源退半步的动作认真的吗",
+        "onboard_time": 1744544542,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 102384,
+        "num": 102384,
+        "word": "美国店主很害怕母亲节生意彻底泡汤",
+        "onboard_time": 1744547301,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 100914,
+        "num": 100914,
+        "word": "国色芳华改编成功是极小概率事件",
+        "onboard_time": 1744545681,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97374,
+        "num": 97374,
+        "word": "章若楠中国人民大学路演",
+        "onboard_time": 1744537281,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95611,
+        "num": 95611,
+        "word": "瘦不下来可能是因为湿气重",
+        "onboard_time": 1744539802,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 95304,
+        "num": 95304,
+        "word": "孙颖莎上班走出了哪吒的气势",
+        "onboard_time": 1744538721,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39807,
+        "num": 91206,
+        "word": "荣昌发力接下卤鹅哥这波流量",
+        "onboard_time": 1744546041,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88328,
+        "num": 88328,
+        "word": "游客爬黄山遇大风互相搀扶抱团抗风",
+        "onboard_time": 1744547962,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86408,
+        "num": 86408,
+        "word": "蒲熠星伤痕妆",
+        "onboard_time": 1744547902,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#中印尼建交75周年#"
+    }
+  }
+}
