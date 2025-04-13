@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744571927453,
+  "endTime": 1744572958395,
   "band_list": [
     {
       "raw_hot": 3004197,
@@ -3947,6 +3947,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 17504,
+      "num": 20563,
+      "word": "张小婉说当时感到脚下有异动",
+      "onboard_time": 1744572074,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 16825,
+      "num": 20560,
+      "word": "刘宇合肥演唱会舞台",
+      "onboard_time": 1744572016,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 16636,
       "num": 119532,
       "word": "卤鹅哥证明了念念不忘必有回响",
@@ -3993,6 +4009,14 @@
       "onboard_time": 1744500137,
       "rank": 30,
       "category": "财经,国际时政"
+    },
+    {
+      "raw_hot": 9913,
+      "num": 20630,
+      "word": "美关税乱政成了马戏表演",
+      "onboard_time": 1744572913,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 8997,
