@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1744537125324,
+  "endTime": 1744539944959,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -2227,6 +2227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 3004197,
+      "num": 3008395,
+      "word": "145%关税让1只熊猫玩偶卖80美元",
+      "onboard_time": 1744537883,
+      "rank": 0,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 2996452,
       "num": 2996452,
       "word": "三人行 李明德",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736845997,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2931671,
-      "num": 2931671,
-      "word": "孟子义李昀锐 他说她可爱",
-      "onboard_time": 1736003856,
-      "rank": 12,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
