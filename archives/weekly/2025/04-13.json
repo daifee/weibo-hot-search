@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744522053297,
+  "endTime": 1744523014313,
   "band_list": [
     {
       "raw_hot": 1750912,
@@ -9,6 +9,14 @@
       "onboard_time": 1744470805,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1738495,
+      "num": 1738495,
+      "word": "当年王宝强在跑男录制的好好的",
+      "onboard_time": 1744519101,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 1636165,
@@ -25,14 +33,6 @@
       "onboard_time": 1744514179,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1550807,
-      "num": 1550807,
-      "word": "当年王宝强在跑男录制的好好的",
-      "onboard_time": 1744519101,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 1452465,
@@ -291,6 +291,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 475682,
+      "num": 290717,
+      "word": "双相情感障碍又叫天才病",
+      "onboard_time": 1744522463,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 459500,
       "num": 459500,
       "word": "印尼鲜食椰子将进入中国市场",
@@ -369,6 +377,14 @@
       "onboard_time": 1744472304,
       "rank": 8,
       "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 363631,
+      "num": 363631,
+      "word": "加拿大民众用不买美国货表达不满",
+      "onboard_time": 1744518441,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 362750,
@@ -491,6 +507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 239950,
+      "num": 239950,
+      "word": "树木倒伏致55岁骑车女子被砸身亡",
+      "onboard_time": 1744521861,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 239209,
       "num": 239209,
       "word": "光与夜之恋",
@@ -571,14 +595,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 214605,
-      "num": 214605,
-      "word": "树木倒伏致55岁骑车女子被砸身亡",
-      "onboard_time": 1744521861,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 213102,
       "num": 213102,
       "word": "熬夜睡不够是胃癌的一大诱因",
@@ -643,12 +659,36 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 197287,
+      "num": 197287,
+      "word": "恋与制作人",
+      "onboard_time": 1744522102,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 191744,
       "num": 191744,
       "word": "不怕鬼压床就怕梨打墙",
       "onboard_time": 1744518382,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190910,
+      "num": 190910,
+      "word": "王一博VOGUE员工卡头像",
+      "onboard_time": 1744522162,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 190843,
+      "num": 190843,
+      "word": "苏炳添4x100米接力夺冠",
+      "onboard_time": 1744521681,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 189855,
@@ -681,14 +721,6 @@
       "onboard_time": 1744458683,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 185792,
-      "num": 287424,
-      "word": "加拿大民众用不买美国货表达不满",
-      "onboard_time": 1744518441,
-      "rank": 33,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 184705,
@@ -771,6 +803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170253,
+      "num": 170253,
+      "word": "西游记没骗我",
+      "onboard_time": 1744521501,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 169312,
       "num": 169312,
       "word": "美国滥施关税后欧洲领导人访华",
@@ -803,6 +843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164581,
+      "num": 164581,
+      "word": "大家有分手断联后又和好的经历吗",
+      "onboard_time": 1744519882,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 162359,
       "num": 163282,
       "word": "山西省长金湘军被查",
@@ -827,7 +875,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 159314,
+      "raw_hot": 161006,
       "num": 280719,
       "word": "记者暗访被神话的血液净化",
       "onboard_time": 1744520542,
@@ -843,12 +891,12 @@
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 155881,
-      "num": 155881,
-      "word": "大家有分手断联后又和好的经历吗",
-      "onboard_time": 1744519882,
-      "rank": 49,
-      "category": "情感"
+      "raw_hot": 156753,
+      "num": 156753,
+      "word": "曾舜晞我那刚回国的青梅竹马",
+      "onboard_time": 1744522102,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 153364,
@@ -899,6 +947,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 142325,
+      "num": 142325,
+      "word": "绝区零第二季",
+      "onboard_time": 1744522882,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 142285,
       "num": 184898,
       "word": "Henry连着唱跳八首歌",
@@ -923,12 +979,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 142082,
-      "num": 142082,
-      "word": "西游记没骗我",
-      "onboard_time": 1744521501,
-      "rank": 38,
-      "category": "幽默"
+      "raw_hot": 140393,
+      "num": 222988,
+      "word": "终于有人把大学专业讲清楚了",
+      "onboard_time": 1744521442,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 139451,
@@ -953,6 +1009,14 @@
       "onboard_time": 1744511721,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 136748,
+      "num": 136748,
+      "word": "谈论全球电影未来怎能不提中国",
+      "onboard_time": 1744518982,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 135849,
@@ -1003,6 +1067,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 126858,
+      "num": 126858,
+      "word": "同居租房男生出钱女生拒绝",
+      "onboard_time": 1744522822,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126478,
       "num": 126478,
       "word": "2025电影票房破250亿",
@@ -1019,28 +1091,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 125745,
-      "num": 125745,
-      "word": "苏炳添4x100米接力夺冠",
-      "onboard_time": 1744521681,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 122522,
       "num": 122522,
       "word": "全红婵有很多王楚钦的表情包",
       "onboard_time": 1744503502,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 122144,
-      "num": 122144,
-      "word": "谈论全球电影未来怎能不提中国",
-      "onboard_time": 1744518982,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 120636,
@@ -1163,6 +1219,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 99321,
+      "num": 177225,
+      "word": "汪苏泷这一脚每天必看",
+      "onboard_time": 1744521801,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 97990,
       "num": 97990,
       "word": "余宇涵这是在干什么",
@@ -1201,6 +1265,14 @@
       "onboard_time": 1744463725,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 92344,
+      "num": 131480,
+      "word": "沙尘借狂风直扑广东",
+      "onboard_time": 1744523002,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91907,
@@ -1251,6 +1323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83236,
+      "num": 136845,
+      "word": "预定大床房发现床还没家里沙发大",
+      "onboard_time": 1744522882,
+      "rank": 39,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 82944,
       "num": 82944,
       "word": "外交部再发重磅视频",
@@ -1273,22 +1353,6 @@
       "onboard_time": 1744515141,
       "rank": 37,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 79455,
-      "num": 168139,
-      "word": "汪苏泷这一脚每天必看",
-      "onboard_time": 1744521801,
-      "rank": 29,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 79033,
-      "num": 222988,
-      "word": "终于有人把大学专业讲清楚了",
-      "onboard_time": 1744521442,
-      "rank": 24,
-      "category": "教育"
     },
     {
       "raw_hot": 70067,
@@ -1457,6 +1521,14 @@
       "onboard_time": 1744499599,
       "rank": 8,
       "category": "国际时政,财经"
+    },
+    {
+      "raw_hot": 24541,
+      "num": 127475,
+      "word": "李雪琴不说话的爱影评",
+      "onboard_time": 1744523002,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 23492,
