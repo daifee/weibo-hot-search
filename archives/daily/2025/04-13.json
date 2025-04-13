@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744539944959,
+  "endTime": 1744540940279,
   "band_list": [
     {
       "raw_hot": 3004197,
@@ -275,6 +275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 706775,
+      "num": 706775,
+      "word": "折腰速抬",
+      "onboard_time": 1744536202,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 704378,
       "num": 704378,
       "word": "表妹万福",
@@ -288,14 +296,6 @@
       "word": "同居租房男生出钱女生拒绝",
       "onboard_time": 1744522822,
       "rank": 44,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 631169,
-      "num": 631169,
-      "word": "折腰速抬",
-      "onboard_time": 1744536202,
-      "rank": 40,
       "category": "剧集"
     },
     {
@@ -395,6 +395,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 521299,
+      "num": 285860,
+      "word": "官方称男孩坠楼时系一个人在家",
+      "onboard_time": 1744535723,
+      "rank": 14,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 517442,
+      "num": 235093,
+      "word": "让体重逐渐下降的40个冷知识",
+      "onboard_time": 1744536922,
+      "rank": 33,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 509020,
       "num": 415567,
       "word": "李羲承火力全开了",
@@ -419,15 +435,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 489858,
-      "num": 489858,
-      "word": "任教31年临退休遭解聘教师发声",
-      "onboard_time": 1744529780,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 486960,
+      "raw_hot": 490577,
       "num": 450403,
       "word": "白鹿张凌赫周深等火到越南了",
       "onboard_time": 1744535420,
@@ -435,12 +443,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 484532,
-      "num": 227850,
-      "word": "让体重逐渐下降的40个冷知识",
-      "onboard_time": 1744536922,
-      "rank": 33,
-      "category": "运动健身"
+      "raw_hot": 489858,
+      "num": 489858,
+      "word": "任教31年临退休遭解聘教师发声",
+      "onboard_time": 1744529780,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 459500,
@@ -553,6 +561,14 @@
       "onboard_time": 1744472304,
       "rank": 8,
       "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 366646,
+      "num": 277962,
+      "word": "双鹿 苏新皓",
+      "onboard_time": 1744538481,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 363631,
@@ -691,14 +707,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 277962,
-      "num": 277962,
-      "word": "双鹿 苏新皓",
-      "onboard_time": 1744538481,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 270693,
       "num": 503112,
       "word": "中国制造商明确表示不会降价保订单",
@@ -753,6 +761,14 @@
       "onboard_time": 1744470444,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 245750,
+      "num": 245750,
+      "word": "珀莱雅 易烊千玺",
+      "onboard_time": 1744540401,
+      "rank": 17,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 239950,
@@ -833,6 +849,22 @@
       "onboard_time": 1744517542,
       "rank": 25,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 225915,
+      "num": 228583,
+      "word": "孙颖莎上班走出了哪吒的气势",
+      "onboard_time": 1744538721,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 225757,
+      "num": 225757,
+      "word": "五一你快来我撑不住了",
+      "onboard_time": 1744539081,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 225232,
@@ -1123,14 +1155,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 181685,
-      "num": 228583,
-      "word": "孙颖莎上班走出了哪吒的气势",
-      "onboard_time": 1744538721,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 179676,
       "num": 179676,
       "word": "全红婵赛后采访说不可思议",
@@ -1291,7 +1315,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 162776,
+      "raw_hot": 163306,
       "num": 1033470,
       "word": "美国多次发动关税战并受到惨痛教训",
       "onboard_time": 1744531944,
@@ -1355,14 +1379,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 154504,
-      "num": 285860,
-      "word": "官方称男孩坠楼时系一个人在家",
-      "onboard_time": 1744535723,
-      "rank": 14,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 153364,
       "num": 153364,
       "word": "林珍娜二次狙击金善旴",
@@ -1376,6 +1392,14 @@
       "word": "雷公自曝寻子川川成功10月后被拉黑",
       "onboard_time": 1744487655,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152389,
+      "num": 152389,
+      "word": "三河强换商户招牌需给公众一个交代",
+      "onboard_time": 1744539622,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -1611,6 +1635,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 135310,
+      "num": 301761,
+      "word": "特朗普大厦商店用价签遮盖中国制造",
+      "onboard_time": 1744539262,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 134555,
       "num": 134555,
       "word": "崩坏星穹铁道超话",
@@ -1649,14 +1681,6 @@
       "onboard_time": 1744533443,
       "rank": 34,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 131806,
-      "num": 131806,
-      "word": "三河强换商户招牌需给公众一个交代",
-      "onboard_time": 1744539622,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 131191,
@@ -1699,14 +1723,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 128993,
-      "num": 128993,
-      "word": "五一你快来我撑不住了",
-      "onboard_time": 1744539081,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 128768,
       "num": 128768,
       "word": "未定事件簿",
@@ -1729,6 +1745,14 @@
       "onboard_time": 1744526781,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127448,
+      "num": 127448,
+      "word": "仙逆",
+      "onboard_time": 1744540761,
+      "rank": 33,
+      "category": "动漫"
     },
     {
       "raw_hot": 126960,
@@ -1777,6 +1801,14 @@
       "onboard_time": 1744532661,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122784,
+      "num": 122784,
+      "word": "弟弟找开锁上门后发现姐姐已去世",
+      "onboard_time": 1744540761,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122522,
@@ -1883,6 +1915,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 115780,
+      "num": 115780,
+      "word": "陈丽君浪姐跑着上班",
+      "onboard_time": 1744537642,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115428,
       "num": 115428,
       "word": "马吟吟浪姐合照九宫格",
@@ -1899,12 +1939,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 114193,
-      "num": 114193,
-      "word": "陈丽君浪姐跑着上班",
-      "onboard_time": 1744537642,
-      "rank": 45,
-      "category": "综艺"
+      "raw_hot": 114587,
+      "num": 261727,
+      "word": "无手女孩发文征集卫生巾优化建议",
+      "onboard_time": 1744539742,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114130,
@@ -1929,14 +1969,6 @@
       "onboard_time": 1744527622,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 113236,
-      "num": 113236,
-      "word": "特朗普大厦商店用价签遮盖中国制造",
-      "onboard_time": 1744539262,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 111366,
@@ -2041,6 +2073,14 @@
       "onboard_time": 1744526361,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 102430,
+      "num": 102430,
+      "word": "日本大阪世博会中国馆正式开馆",
+      "onboard_time": 1744539982,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101942,
@@ -2153,6 +2193,14 @@
       "onboard_time": 1744503981,
       "rank": 49,
       "category": "美食,民生新闻"
+    },
+    {
+      "raw_hot": 94305,
+      "num": 94305,
+      "word": "第一次菜架上都是我爱吃的菜",
+      "onboard_time": 1744537942,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 93437,
@@ -2323,14 +2371,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 57612,
-      "num": 173160,
-      "word": "无手女孩发文征集卫生巾优化建议",
-      "onboard_time": 1744539742,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 57223,
       "num": 110067,
       "word": "尹锡悦首次刑事审判定于14日举行",
@@ -2345,6 +2385,14 @@
       "onboard_time": 1744476799,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 50636,
+      "num": 127774,
+      "word": "瘦不下来可能是因为湿气重",
+      "onboard_time": 1744539802,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 47299,
@@ -2425,6 +2473,14 @@
       "onboard_time": 1744529422,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 37636,
+      "num": 326648,
+      "word": "多家企业亲述应对高关税经验",
+      "onboard_time": 1744539441,
+      "rank": 9,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 37301,
@@ -2601,22 +2657,6 @@
       "onboard_time": 1744488674,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 12628,
-      "num": 127774,
-      "word": "瘦不下来可能是因为湿气重",
-      "onboard_time": 1744539802,
-      "rank": 39,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 12190,
-      "num": 326648,
-      "word": "多家企业亲述应对高关税经验",
-      "onboard_time": 1744539441,
-      "rank": 9,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 12091,
