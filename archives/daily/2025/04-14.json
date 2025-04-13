@@ -1,6 +1,6 @@
 {
   "startTime": 1744561767834,
-  "endTime": 1744569067978,
+  "endTime": 1744569841157,
   "band_list": [
     {
       "raw_hot": 1234974,
@@ -483,20 +483,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 36078,
+      "num": 36078,
+      "word": "风还没吹完雪又来了",
+      "onboard_time": 1744567576,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34888,
       "num": 34888,
       "word": "25岁歌手演出第二天猝死",
       "onboard_time": 1744548262,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 34799,
-      "num": 34799,
-      "word": "风还没吹完雪又来了",
-      "onboard_time": 1744567576,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 34088,
@@ -531,8 +531,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 17061,
-      "num": 39553,
+      "raw_hot": 25906,
+      "num": 64792,
       "word": "原本要发美国的摩托车暂停出货",
       "onboard_time": 1744567216,
       "rank": 25,

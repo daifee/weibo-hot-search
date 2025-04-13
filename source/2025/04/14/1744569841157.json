@@ -1,0 +1,410 @@
+{
+  "runTime": 1744569841157,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 211571,
+        "num": 211571,
+        "word": "外媒问哪来的自信幻想中国人会跪",
+        "onboard_time": 1744558163,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 130273,
+        "num": 130273,
+        "word": "美国关税战已祸乱全球",
+        "onboard_time": 1744559181,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 64419,
+        "num": 108167,
+        "word": "大张旗鼓加税偷偷摸摸豁免",
+        "onboard_time": 1744553605,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 100937,
+        "num": 100937,
+        "word": "145%关税让1只熊猫玩偶卖80美元",
+        "onboard_time": 1744537883,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 86973,
+        "num": 86973,
+        "word": "店主解释为何女装越做越小",
+        "onboard_time": 1744541421,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76195,
+        "num": 76195,
+        "word": "陈哲远回复湖南卫视",
+        "onboard_time": 1744561580,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 66629,
+        "num": 66629,
+        "word": "汪苏泷复刻金宣虎wink",
+        "onboard_time": 1744561459,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 66156,
+        "num": 66156,
+        "word": "女生替去世前男友照顾家人还债60万",
+        "onboard_time": 1744554864,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57891,
+        "num": 65425,
+        "word": "折腰",
+        "onboard_time": 1744556122,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25906,
+        "num": 64792,
+        "word": "原本要发美国的摩托车暂停出货",
+        "onboard_time": 1744567216,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188823,
+        "num": 64046,
+        "word": "男演员退圈回老家赶集摆摊",
+        "onboard_time": 1744559242,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177736,
+        "num": 63353,
+        "word": "网曝超市将馒头扔地上给大爷大妈抢",
+        "onboard_time": 1744561520,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146168,
+        "num": 63005,
+        "word": "李佳琦不建议普通女生做医美",
+        "onboard_time": 1744543761,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 130052,
+        "num": 62226,
+        "word": "女子扮石矶娘娘被一男子辱骂成日本人",
+        "onboard_time": 1744552764,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82905,
+        "num": 61309,
+        "word": "杨幂 苹果掰开",
+        "onboard_time": 1744549944,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73622,
+        "num": 60106,
+        "word": "妈妈监控中发现孩子情绪异常查出脱臼",
+        "onboard_time": 1744558702,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59982,
+        "num": 59982,
+        "word": "电瓶燃爆烧伤男生称无法原谅室友",
+        "onboard_time": 1744546342,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59975,
+        "num": 59975,
+        "word": "金善旴回应被骂",
+        "onboard_time": 1744562358,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46002,
+        "num": 46002,
+        "word": "祝绪丹 丁禹兮是弟弟不能选",
+        "onboard_time": 1744556663,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44593,
+        "num": 44593,
+        "word": "周杰伦昆凌把旅综录成恋综",
+        "onboard_time": 1744552764,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40840,
+        "num": 40840,
+        "word": "弟弟找开锁上门后发现姐姐已去世",
+        "onboard_time": 1744540761,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40559,
+        "num": 40559,
+        "word": "胡先煦邓家佳易小星乘机遇大风",
+        "onboard_time": 1744559901,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39853,
+        "num": 39853,
+        "word": "尹锡悦戴红帽子让韩国再次伟大",
+        "onboard_time": 1744544001,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 37036,
+        "num": 37036,
+        "word": "鸟类感染病毒后脖子扭转180度",
+        "onboard_time": 1744550424,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36078,
+        "num": 36078,
+        "word": "风还没吹完雪又来了",
+        "onboard_time": 1744567576,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35324,
+        "num": 35324,
+        "word": "无忧渡",
+        "onboard_time": 1744534043,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34529,
+        "num": 34529,
+        "word": "好友为赵丽颖发声",
+        "onboard_time": 1744549103,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34300,
+        "num": 34300,
+        "word": "孙燕姿演唱会嘉宾林俊杰",
+        "onboard_time": 1744556063,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 31033,
+        "num": 31033,
+        "word": "桃黑黑 不直播",
+        "onboard_time": 1744549883,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 30870,
+        "num": 30870,
+        "word": "章昊谈爱豆的责任",
+        "onboard_time": 1744560442,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30290,
+        "num": 30290,
+        "word": "陈芋汐两连冠后发博",
+        "onboard_time": 1744554683,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29969,
+        "num": 29969,
+        "word": "美国折腾一周不如周末的风动静大",
+        "onboard_time": 1744554803,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 28443,
+        "num": 28443,
+        "word": "多地发布暴雪蓝色预警",
+        "onboard_time": 1744558401,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28162,
+        "num": 28162,
+        "word": "黑镜",
+        "onboard_time": 1744566616,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27856,
+        "num": 27856,
+        "word": "公司约9827万应收账款拍卖2.85万成交",
+        "onboard_time": 1744550603,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27794,
+        "num": 27794,
+        "word": "宋妍霏手纹重到不敢和人握手",
+        "onboard_time": 1744550964,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26862,
+        "num": 26862,
+        "word": "商务部回应美豁免部分产品关税",
+        "onboard_time": 1744544182,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 26638,
+        "num": 26638,
+        "word": "周震南这把鲨疯了",
+        "onboard_time": 1744559302,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26336,
+        "num": 26336,
+        "word": "毛不易依萍同款美学",
+        "onboard_time": 1744559181,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 26157,
+        "num": 26157,
+        "word": "25岁歌手演出第二天猝死",
+        "onboard_time": 1744548262,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24811,
+        "num": 24811,
+        "word": "你推荐哪部国产电视剧出海",
+        "onboard_time": 1744562299,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24502,
+        "num": 24502,
+        "word": "达利欧称60%美国人文化水平不到初中",
+        "onboard_time": 1744554864,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 23841,
+        "num": 24501,
+        "word": "超市回应将馒头扔地上给大爷大妈抢",
+        "onboard_time": 1744563198,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23798,
+        "num": 24499,
+        "word": "丝塔芙 成毅",
+        "onboard_time": 1744557982,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23797,
+        "num": 24496,
+        "word": "WCBA冠军之路",
+        "onboard_time": 1744560800,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 22619,
+        "num": 24496,
+        "word": "姚琛雨中万人蹦迪让人红温",
+        "onboard_time": 1744561881,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 22381,
+        "num": 24494,
+        "word": "刘冲让王一博快点切换频道",
+        "onboard_time": 1744559721,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22343,
+        "num": 24491,
+        "word": "湖南卫视连发20条陈哲远",
+        "onboard_time": 1744560081,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 18843,
+        "num": 24488,
+        "word": "姆巴佩红牌",
+        "onboard_time": 1744557203,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17718,
+        "num": 24485,
+        "word": "中国的山也太会摆pose了",
+        "onboard_time": 1744562179,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#中越山水相连文化相通#"
+    }
+  }
+}

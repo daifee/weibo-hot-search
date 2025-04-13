@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744569067978,
+  "endTime": 1744569841157,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -39827,6 +39827,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 36078,
+      "num": 36078,
+      "word": "风还没吹完雪又来了",
+      "onboard_time": 1744567576,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35875,
       "num": 219242,
       "word": "多国及国际组织反击美关税胁迫",
@@ -39905,14 +39913,6 @@
       "onboard_time": 1743615137,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 34799,
-      "num": 34799,
-      "word": "风还没吹完雪又来了",
-      "onboard_time": 1744567576,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 34744,
@@ -40865,6 +40865,14 @@
       "onboard_time": 1743503244,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 25906,
+      "num": 64792,
+      "word": "原本要发美国的摩托车暂停出货",
+      "onboard_time": 1744567216,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25806,
@@ -41953,14 +41961,6 @@
       "onboard_time": 1744231095,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 17061,
-      "num": 39553,
-      "word": "原本要发美国的摩托车暂停出货",
-      "onboard_time": 1744567216,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 16995,
