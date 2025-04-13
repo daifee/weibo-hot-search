@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744548177761,
+  "endTime": 1744549106796,
   "band_list": [
     {
       "raw_hot": 3004197,
@@ -43,8 +43,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1685075,
-      "num": 1685075,
+      "raw_hot": 1709371,
+      "num": 1709371,
       "word": "店主解释为何女装越做越小",
       "onboard_time": 1744541421,
       "rank": 1,
@@ -171,6 +171,14 @@
       "category": "网红,民生新闻"
     },
     {
+      "raw_hot": 1047089,
+      "num": 252100,
+      "word": "28岁网红因病去世留下4个孩子",
+      "onboard_time": 1744548082,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1027341,
       "num": 1027341,
       "word": "卖劳力士收了37万多后银行卡被冻结",
@@ -201,6 +209,22 @@
       "onboard_time": 1744516281,
       "rank": 4,
       "category": "演出"
+    },
+    {
+      "raw_hot": 882913,
+      "num": 882913,
+      "word": "无忧渡",
+      "onboard_time": 1744456823,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 869383,
+      "num": 299531,
+      "word": "电瓶燃爆烧伤男生称无法原谅室友",
+      "onboard_time": 1744546342,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 863596,
@@ -291,14 +315,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 719396,
-      "num": 719396,
-      "word": "无忧渡",
-      "onboard_time": 1744456823,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 717984,
       "num": 584236,
       "word": "10年前辞职看世界的女教师最新回应",
@@ -353,14 +369,6 @@
       "onboard_time": 1744525401,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 622865,
-      "num": 299531,
-      "word": "电瓶燃爆烧伤男生称无法原谅室友",
-      "onboard_time": 1744546342,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 614360,
@@ -843,20 +851,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 247955,
-      "num": 165526,
-      "word": "28岁网红因病去世留下4个孩子",
-      "onboard_time": 1744548082,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 246798,
       "num": 246798,
       "word": "金价上涨水贝模式受追捧",
       "onboard_time": 1744470444,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 245612,
+      "num": 245612,
+      "word": "无忧渡节奏 又快又慢",
+      "onboard_time": 1744545082,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 239950,
@@ -897,14 +905,6 @@
       "onboard_time": 1744519582,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 229619,
-      "num": 229619,
-      "word": "无忧渡节奏 又快又慢",
-      "onboard_time": 1744545082,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 228996,
@@ -1020,7 +1020,7 @@
     },
     {
       "raw_hot": 213891,
-      "num": 213891,
+      "num": 256597,
       "word": "国家安全机关破获一起重大间谍案件",
       "onboard_time": 1744541782,
       "rank": 41,
@@ -1057,6 +1057,14 @@
       "onboard_time": 1744539622,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 211568,
+      "num": 211568,
+      "word": "王晶回应怒怼姜涛",
+      "onboard_time": 1744547181,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 210459,
@@ -1105,14 +1113,6 @@
       "onboard_time": 1744535183,
       "rank": 31,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 205060,
-      "num": 205060,
-      "word": "王晶回应怒怼姜涛",
-      "onboard_time": 1744547181,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 204493,
@@ -1193,6 +1193,14 @@
       "onboard_time": 1744529361,
       "rank": 23,
       "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 194585,
+      "num": 194585,
+      "word": "AG对战狼队",
+      "onboard_time": 1744548503,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 193636,
@@ -1571,6 +1579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156029,
+      "num": 138169,
+      "word": "韩式英语一出来面相都变了",
+      "onboard_time": 1744547480,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 153364,
       "num": 153364,
       "word": "林珍娜二次狙击金善旴",
@@ -1627,12 +1643,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 149150,
+      "num": 169510,
+      "word": "陈赫这帮人还是太天真",
+      "onboard_time": 1744547602,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149009,
       "num": 155831,
       "word": "澳门世界杯女子签表",
       "onboard_time": 1744526541,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148064,
+      "num": 148064,
+      "word": "25岁歌手演出第二天猝死",
+      "onboard_time": 1744548262,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 147300,
@@ -1907,12 +1939,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 130334,
-      "num": 169510,
-      "word": "陈赫这帮人还是太天真",
-      "onboard_time": 1744547602,
-      "rank": 25,
-      "category": "综艺"
+      "raw_hot": 130308,
+      "num": 130308,
+      "word": "空腹吃快碳有哪些危害",
+      "onboard_time": 1744549042,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 129892,
@@ -2043,6 +2075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 123458,
+      "num": 123458,
+      "word": "陈熠徐奕获女双亚军",
+      "onboard_time": 1744549042,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122522,
       "num": 122522,
       "word": "全红婵有很多王楚钦的表情包",
@@ -2107,6 +2147,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 118478,
+      "num": 118478,
+      "word": "王一博VOGUE五月号预告",
+      "onboard_time": 1744548803,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 118204,
       "num": 118204,
       "word": "阿姨真的给足了VaVa安全感",
@@ -2147,6 +2195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117390,
+      "num": 117390,
+      "word": "邓为感谢总台北京总站的邀请",
+      "onboard_time": 1744548924,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116962,
       "num": 116962,
       "word": "关晓彤王子奇新剧路透",
@@ -2163,12 +2219,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 116380,
+      "num": 116380,
+      "word": "虞书欣南京出发进组新剧",
+      "onboard_time": 1744548562,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115780,
       "num": 115780,
       "word": "陈丽君浪姐跑着上班",
       "onboard_time": 1744537642,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115465,
+      "num": 110193,
+      "word": "五个哈妮克孜暴打渣妖",
+      "onboard_time": 1744546041,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 115428,
@@ -2265,6 +2337,14 @@
       "onboard_time": 1744467204,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109884,
+      "num": 110231,
+      "word": "CBA",
+      "onboard_time": 1744548321,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 109849,
@@ -2387,6 +2467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 103417,
+      "num": 103417,
+      "word": "国色芳华改编成功是极小概率事件",
+      "onboard_time": 1744545681,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102430,
       "num": 102430,
       "word": "日本大阪世博会中国馆正式开馆",
@@ -2435,12 +2523,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 100914,
-      "num": 100914,
-      "word": "国色芳华改编成功是极小概率事件",
-      "onboard_time": 1744545681,
-      "rank": 43,
-      "category": "剧集"
+      "raw_hot": 100574,
+      "num": 100574,
+      "word": "RD对战MRC",
+      "onboard_time": 1744548201,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 100507,
@@ -2699,6 +2787,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 67269,
+      "num": 166541,
+      "word": "直击内蒙古暴雪天气救援现场",
+      "onboard_time": 1744547062,
+      "rank": 28,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 64296,
       "num": 944665,
       "word": "以斗争精神捍卫国家利益",
@@ -2731,14 +2827,6 @@
       "category": "民生新闻,网红"
     },
     {
-      "raw_hot": 59999,
-      "num": 166541,
-      "word": "直击内蒙古暴雪天气救援现场",
-      "onboard_time": 1744547062,
-      "rank": 28,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 58683,
       "num": 58683,
       "word": "内蒙古大风把蒙古獒幼崽吹到牧民家",
@@ -2761,6 +2849,14 @@
       "onboard_time": 1744476799,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 49779,
+      "num": 215350,
+      "word": "台当局规划商超当战时枢纽遭群嘲",
+      "onboard_time": 1744547841,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 48536,
@@ -2881,14 +2977,6 @@
       "onboard_time": 1744482556,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 34165,
-      "num": 215350,
-      "word": "台当局规划商超当战时枢纽遭群嘲",
-      "onboard_time": 1744547841,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 31986,

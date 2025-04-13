@@ -1,0 +1,410 @@
+{
+  "runTime": 1744549106796,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1709371,
+        "num": 1709371,
+        "word": "店主解释为何女装越做越小",
+        "onboard_time": 1744541421,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1114210,
+        "num": 1114210,
+        "word": "145%关税让1只熊猫玩偶卖80美元",
+        "onboard_time": 1744537883,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 112756,
+        "num": 890388,
+        "word": "美国多次发动关税战并受到惨痛教训",
+        "onboard_time": 1744531944,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 882913,
+        "num": 882913,
+        "word": "无忧渡",
+        "onboard_time": 1744534043,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 700192,
+        "num": 700192,
+        "word": "商务部回应美豁免部分产品关税",
+        "onboard_time": 1744544182,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 573384,
+        "num": 573384,
+        "word": "尹锡悦戴红帽子让韩国再次伟大",
+        "onboard_time": 1744544001,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 354852,
+        "num": 354852,
+        "word": "7岁男孩上学途中遭3只大型犬撕咬",
+        "onboard_time": 1744541001,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 324463,
+        "num": 324463,
+        "word": "折腰粉丝靠一个预告活了两年",
+        "onboard_time": 1744545982,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256648,
+        "num": 256648,
+        "word": "折腰速抬",
+        "onboard_time": 1744536202,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179464,
+        "num": 256597,
+        "word": "国家安全机关破获一起重大间谍案件",
+        "onboard_time": 1744541782,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2165369,
+        "num": 254508,
+        "word": "李佳琦不建议普通女生做医美",
+        "onboard_time": 1744543761,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1047089,
+        "num": 252100,
+        "word": "28岁网红因病去世留下4个孩子",
+        "onboard_time": 1744548082,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 869383,
+        "num": 249927,
+        "word": "电瓶燃爆烧伤男生称无法原谅室友",
+        "onboard_time": 1744546342,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 692216,
+        "num": 247778,
+        "word": "弟弟找开锁上门后发现姐姐已去世",
+        "onboard_time": 1744540761,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 609734,
+        "num": 246287,
+        "word": "赵丽颖 转型",
+        "onboard_time": 1744530322,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 245612,
+        "num": 245612,
+        "word": "无忧渡节奏 又快又慢",
+        "onboard_time": 1744545082,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242202,
+        "num": 242202,
+        "word": "白鹿张凌赫周深等火到越南了",
+        "onboard_time": 1744535420,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240442,
+        "num": 240442,
+        "word": "珀莱雅 易烊千玺",
+        "onboard_time": 1744540401,
+        "rank": 17,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 211568,
+        "num": 211568,
+        "word": "王晶回应怒怼姜涛",
+        "onboard_time": 1744547181,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49779,
+        "num": 206008,
+        "word": "台当局规划商超当战时枢纽遭群嘲",
+        "onboard_time": 1744547841,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 324778,
+        "num": 205642,
+        "word": "让体重逐渐下降的40个冷知识",
+        "onboard_time": 1744536922,
+        "rank": 20,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 204581,
+        "num": 204581,
+        "word": "敦促美方彻底取消对等关税错误做法",
+        "onboard_time": 1744546761,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 194585,
+        "num": 194585,
+        "word": "AG对战狼队",
+        "onboard_time": 1744548503,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 193074,
+        "num": 193074,
+        "word": "柳智敏樱花粉裙",
+        "onboard_time": 1744542442,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185699,
+        "num": 185699,
+        "word": "三河强换商户招牌需给公众一个交代",
+        "onboard_time": 1744539622,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182622,
+        "num": 182622,
+        "word": "杭州一9岁男孩高楼坠下身亡",
+        "onboard_time": 1744529960,
+        "rank": 25,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 174468,
+        "num": 174468,
+        "word": "刘宇宁直播",
+        "onboard_time": 1744545802,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149150,
+        "num": 149150,
+        "word": "陈赫这帮人还是太天真",
+        "onboard_time": 1744547602,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148064,
+        "num": 148064,
+        "word": "25岁歌手演出第二天猝死",
+        "onboard_time": 1744548262,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143886,
+        "num": 143886,
+        "word": "宋祖儿哭戏",
+        "onboard_time": 1744547301,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156029,
+        "num": 138169,
+        "word": "韩式英语一出来面相都变了",
+        "onboard_time": 1744547480,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130308,
+        "num": 130308,
+        "word": "空腹吃快碳有哪些危害",
+        "onboard_time": 1744549042,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 123458,
+        "num": 123458,
+        "word": "陈熠徐奕获女双亚军",
+        "onboard_time": 1744549042,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118478,
+        "num": 118478,
+        "word": "王一博VOGUE五月号预告",
+        "onboard_time": 1744548803,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 117390,
+        "num": 117390,
+        "word": "邓为感谢总台北京总站的邀请",
+        "onboard_time": 1744548924,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114476,
+        "num": 116397,
+        "word": "卖劳力士收了37万多后银行卡被冻结",
+        "onboard_time": 1744528220,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116380,
+        "num": 116380,
+        "word": "虞书欣南京出发进组新剧",
+        "onboard_time": 1744548562,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116270,
+        "num": 116270,
+        "word": "仙逆",
+        "onboard_time": 1744540761,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 113407,
+        "num": 113407,
+        "word": "五一你快来我撑不住了",
+        "onboard_time": 1744539081,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109884,
+        "num": 110231,
+        "word": "CBA",
+        "onboard_time": 1744548321,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115465,
+        "num": 110193,
+        "word": "五个哈妮克孜暴打渣妖",
+        "onboard_time": 1744546041,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110124,
+        "num": 110124,
+        "word": "蔡徐坤微指破亿",
+        "onboard_time": 1744546881,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109888,
+        "num": 109888,
+        "word": "赵露思哭戏",
+        "onboard_time": 1744525401,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 103795,
+        "num": 103795,
+        "word": "小朋友用冰箱贴打造mini博物馆",
+        "onboard_time": 1744542682,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103417,
+        "num": 103417,
+        "word": "国色芳华改编成功是极小概率事件",
+        "onboard_time": 1744545681,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102481,
+        "num": 102481,
+        "word": "孙颖莎上班走出了哪吒的气势",
+        "onboard_time": 1744538721,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100574,
+        "num": 100574,
+        "word": "RD对战MRC",
+        "onboard_time": 1744548201,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100123,
+        "num": 100123,
+        "word": "章若楠中国人民大学路演",
+        "onboard_time": 1744537281,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67269,
+        "num": 99698,
+        "word": "直击内蒙古暴雪天气救援现场",
+        "onboard_time": 1744547062,
+        "rank": 48,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 99678,
+        "num": 99678,
+        "word": "张真源退半步的动作认真的吗",
+        "onboard_time": 1744544542,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平强调这个问题绝不是小事#"
+    }
+  }
+}
