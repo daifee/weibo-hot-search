@@ -1,0 +1,410 @@
+{
+  "runTime": 1744520655359,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1353677,
+        "num": 1353677,
+        "word": "胖东来工资单",
+        "onboard_time": 1744514179,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1073063,
+        "num": 1073063,
+        "word": "当年王宝强在跑男录制的好好的",
+        "onboard_time": 1744519101,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122676,
+        "num": 1006985,
+        "word": "美肆意加征关税非常危险",
+        "onboard_time": 1744502539,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 969206,
+        "num": 969206,
+        "word": "你好星期六收视第一",
+        "onboard_time": 1744515322,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 607311,
+        "num": 607311,
+        "word": "广东沙尘暴",
+        "onboard_time": 1744513521,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 454756,
+        "num": 454756,
+        "word": "美车辆起火24000磅鸡蛋被毁",
+        "onboard_time": 1744511181,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 832510,
+        "num": 444909,
+        "word": "bite me男伴舞",
+        "onboard_time": 1744518562,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 655023,
+        "num": 436864,
+        "word": "enhypen科切拉舞台",
+        "onboard_time": 1744516281,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 419903,
+        "num": 419903,
+        "word": "湿气重的7个习惯",
+        "onboard_time": 1744514420,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 310231,
+        "num": 310231,
+        "word": "拒绝上学门诊接待近1万人次",
+        "onboard_time": 1744504941,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235761,
+        "num": 308678,
+        "word": "官方通报树被风吹倒砸伤女子致死",
+        "onboard_time": 1744520421,
+        "rank": 10,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1527435,
+        "num": 296746,
+        "word": "谁来管管现在的女装",
+        "onboard_time": 1744515141,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 562722,
+        "num": 289940,
+        "word": "女生喉咙痛从就诊到去世仅10分钟",
+        "onboard_time": 1744469426,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 496822,
+        "num": 283123,
+        "word": "李羲承火力全开了",
+        "onboard_time": 1744517841,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 494326,
+        "num": 276521,
+        "word": "印度男子携准丈母娘卷款私奔",
+        "onboard_time": 1744516342,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 477953,
+        "num": 267481,
+        "word": "王宝强 初代跑男",
+        "onboard_time": 1744512562,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 424966,
+        "num": 261990,
+        "word": "官宣做卫生巾后黄子韬掉粉46万",
+        "onboard_time": 1744504222,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366083,
+        "num": 248573,
+        "word": "许嵩00后同事不懂灰色头像",
+        "onboard_time": 1744515440,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 311869,
+        "num": 246113,
+        "word": "垫音",
+        "onboard_time": 1744519161,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 239209,
+        "num": 239209,
+        "word": "光与夜之恋",
+        "onboard_time": 1744518743,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 286552,
+        "num": 239105,
+        "word": "enhypen开麦",
+        "onboard_time": 1744516461,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 254049,
+        "num": 238145,
+        "word": "宋祖儿演技",
+        "onboard_time": 1744505362,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250752,
+        "num": 237959,
+        "word": "科切拉",
+        "onboard_time": 1744516221,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 236284,
+        "num": 236284,
+        "word": "吴镇宇不记得合作过李沐宸",
+        "onboard_time": 1744513581,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178639,
+        "num": 215349,
+        "word": "特朗普家族参与加密货币获巨额利益",
+        "onboard_time": 1744519642,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 198084,
+        "num": 198084,
+        "word": "无忧渡爱奇艺热度破8000",
+        "onboard_time": 1744520482,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192470,
+        "num": 192470,
+        "word": "徐志胜鸟鸟你俩是怎么憋住不笑的",
+        "onboard_time": 1744517062,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191744,
+        "num": 191744,
+        "word": "不怕鬼压床就怕梨打墙",
+        "onboard_time": 1744518382,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188345,
+        "num": 188345,
+        "word": "731部队曾在中国多地投撒细菌",
+        "onboard_time": 1744508481,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119394,
+        "num": 187242,
+        "word": "胡兵坐轮椅五国机场无障碍测评",
+        "onboard_time": 1744519582,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142162,
+        "num": 186787,
+        "word": "3司机跑长报短偷逃9万7高速费获刑",
+        "onboard_time": 1744518743,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142285,
+        "num": 184898,
+        "word": "Henry连着唱跳八首歌",
+        "onboard_time": 1744520062,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 215596,
+        "num": 183283,
+        "word": "许墨真理之吻",
+        "onboard_time": 1744520183,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 182842,
+        "num": 182842,
+        "word": "原来村民和猪灵都是真人演的",
+        "onboard_time": 1744519041,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 179575,
+        "num": 179575,
+        "word": "加拿大民众用不买美国货表达不满",
+        "onboard_time": 1744518441,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 115669,
+        "num": 174692,
+        "word": "英政府紧急出手救助钢铁行业",
+        "onboard_time": 1744518683,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 174072,
+        "num": 174072,
+        "word": "男子漂流黄河30公里发现一遗体",
+        "onboard_time": 1744509141,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92647,
+        "num": 159771,
+        "word": "记者暗访被神话的血液净化",
+        "onboard_time": 1744520542,
+        "rank": 37,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 156067,
+        "num": 156067,
+        "word": "周峻纬祝齐思钧生日快乐",
+        "onboard_time": 1744517542,
+        "rank": 38,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 154976,
+        "num": 154976,
+        "word": "女子洗澡因热水器漏电致心脏骤停",
+        "onboard_time": 1744503981,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154536,
+        "num": 154536,
+        "word": "我不同意上班",
+        "onboard_time": 1744515561,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138292,
+        "num": 138292,
+        "word": "特朗普正在支付白痴溢价",
+        "onboard_time": 1744517241,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 101942,
+        "num": 137419,
+        "word": "武艺杨迪连发12条微博",
+        "onboard_time": 1744514902,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137077,
+        "num": 137077,
+        "word": "大家有分手断联后又和好的经历吗",
+        "onboard_time": 1744519882,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132607,
+        "num": 132607,
+        "word": "火箭全员复出",
+        "onboard_time": 1744517121,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125835,
+        "num": 125835,
+        "word": "理肤泉 张康乐",
+        "onboard_time": 1744516461,
+        "rank": 45,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 124226,
+        "num": 124226,
+        "word": "薛小婉晒出起诉韩安冉的判决书",
+        "onboard_time": 1744508602,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 122015,
+        "num": 122015,
+        "word": "蒲熠星shape of you",
+        "onboard_time": 1744517121,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 121273,
+        "num": 121273,
+        "word": "蒋一侨短发",
+        "onboard_time": 1744518982,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 119005,
+        "num": 119005,
+        "word": "大风天超市假装有菜卖",
+        "onboard_time": 1744520482,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定不移推进高水平对外开放观察#"
+    }
+  }
+}
