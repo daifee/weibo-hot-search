@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744551052330,
+  "endTime": 1744551849270,
   "band_list": [
     {
       "raw_hot": 3004197,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1378715,
-      "num": 288563,
+      "num": 315521,
       "word": "28岁网红因病去世留下4个孩子",
       "onboard_time": 1744548082,
       "rank": 30,
@@ -185,6 +185,14 @@
       "onboard_time": 1744528220,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 949226,
+      "num": 315185,
+      "word": "杨幂 苹果掰开",
+      "onboard_time": 1744549944,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 946050,
@@ -323,6 +331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 714891,
+      "num": 315071,
+      "word": "好友为赵丽颖发声",
+      "onboard_time": 1744549103,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 711002,
       "num": 405256,
       "word": "王宝强 初代跑男",
@@ -363,12 +379,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 665383,
-      "num": 284538,
-      "word": "杨幂 苹果掰开",
-      "onboard_time": 1744549944,
-      "rank": 13,
-      "category": "艺人"
+      "raw_hot": 637840,
+      "num": 313383,
+      "word": "鸟类感染病毒后脖子扭转180度",
+      "onboard_time": 1744550424,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 625836,
@@ -393,14 +409,6 @@
       "onboard_time": 1744524801,
       "rank": 17,
       "category": "美食"
-    },
-    {
-      "raw_hot": 594640,
-      "num": 280187,
-      "word": "好友为赵丽颖发声",
-      "onboard_time": 1744549103,
-      "rank": 15,
-      "category": "电影"
     },
     {
       "raw_hot": 574797,
@@ -459,6 +467,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 553192,
+      "num": 307292,
+      "word": "25岁歌手演出第二天猝死",
+      "onboard_time": 1744548262,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 547686,
       "num": 399964,
       "word": "留几手说不排斥和女生交往了",
@@ -475,14 +491,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 533085,
-      "num": 275577,
-      "word": "25岁歌手演出第二天猝死",
-      "onboard_time": 1744548262,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 521299,
       "num": 285860,
       "word": "官方称男孩坠楼时系一个人在家",
@@ -492,7 +500,7 @@
     },
     {
       "raw_hot": 517442,
-      "num": 258680,
+      "num": 279580,
       "word": "让体重逐渐下降的40个冷知识",
       "onboard_time": 1744536922,
       "rank": 33,
@@ -659,6 +667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 376260,
+      "num": 376260,
+      "word": "宋妍霏手纹重到不敢和人握手",
+      "onboard_time": 1744550964,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 370617,
       "num": 546228,
       "word": "中国企业集体出手无惧关税大棒",
@@ -739,6 +755,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 331815,
+      "num": 331815,
+      "word": "刘宇宁直播称新剧快播了",
+      "onboard_time": 1744551023,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 331809,
       "num": 331809,
       "word": "陈雨菲亚锦赛夺冠",
@@ -787,8 +811,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 313925,
-      "num": 313925,
+      "raw_hot": 314894,
+      "num": 314894,
       "word": "国家安全机关破获一起重大间谍案件",
       "onboard_time": 1744541782,
       "rank": 41,
@@ -835,16 +859,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 276694,
-      "num": 252668,
-      "word": "鸟类感染病毒后脖子扭转180度",
-      "onboard_time": 1744550424,
+      "raw_hot": 277923,
+      "num": 277923,
+      "word": "AG对战狼队",
+      "onboard_time": 1744548503,
       "rank": 22,
-      "category": "民生新闻"
+      "category": "电竞"
     },
     {
       "raw_hot": 275530,
-      "num": 275530,
+      "num": 296503,
       "word": "陈赫这帮人还是太天真",
       "onboard_time": 1744547602,
       "rank": 25,
@@ -897,6 +921,14 @@
       "onboard_time": 1744459464,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 253923,
+      "num": 290234,
+      "word": "陈雨菲说行不行自己说了算",
+      "onboard_time": 1744550722,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 250497,
@@ -1019,6 +1051,14 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 226232,
+      "num": 291272,
+      "word": "王珞丹终于要唱跳了",
+      "onboard_time": 1744549822,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 225915,
       "num": 228583,
       "word": "孙颖莎上班走出了哪吒的气势",
@@ -1073,6 +1113,14 @@
       "onboard_time": 1744520183,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 214597,
+      "num": 214597,
+      "word": "公司约9827万应收账款拍卖2.85万成交",
+      "onboard_time": 1744550603,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 214305,
@@ -1147,6 +1195,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 209746,
+      "num": 209746,
+      "word": "WCBA总决赛",
+      "onboard_time": 1744548622,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 208266,
       "num": 338307,
       "word": "尹锡悦或面临终身监禁甚至死刑",
@@ -1169,14 +1225,6 @@
       "onboard_time": 1744535183,
       "rank": 31,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 205053,
-      "num": 291272,
-      "word": "王珞丹终于要唱跳了",
-      "onboard_time": 1744549822,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 204493,
@@ -1265,14 +1313,6 @@
       "onboard_time": 1744547480,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 194585,
-      "num": 194585,
-      "word": "AG对战狼队",
-      "onboard_time": 1744548503,
-      "rank": 22,
-      "category": "电竞"
     },
     {
       "raw_hot": 193636,
@@ -1403,6 +1443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181598,
+      "num": 181598,
+      "word": "汪苏泷断眉",
+      "onboard_time": 1744551203,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 179676,
       "num": 179676,
       "word": "全红婵赛后采访说不可思议",
@@ -1417,14 +1465,6 @@
       "onboard_time": 1744518982,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 178441,
-      "num": 273823,
-      "word": "陈雨菲说行不行自己说了算",
-      "onboard_time": 1744550722,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 177037,
@@ -1457,6 +1497,14 @@
       "onboard_time": 1744546881,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 172895,
+      "num": 315913,
+      "word": "美国店主很害怕母亲节生意彻底泡汤",
+      "onboard_time": 1744547301,
+      "rank": 42,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 172733,
@@ -1555,6 +1603,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 166012,
+      "num": 166012,
+      "word": "九尾火舞燃尽了",
+      "onboard_time": 1744550842,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 164827,
       "num": 164827,
       "word": "梁师父回应是否再邀请甲亢哥来河南",
@@ -1627,6 +1683,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 160329,
+      "num": 179307,
+      "word": "灿如繁星",
+      "onboard_time": 1744551203,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158876,
       "num": 158876,
       "word": "不在小事上消耗孩子",
@@ -1683,14 +1747,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 152461,
-      "num": 152461,
-      "word": "宋妍霏手纹重到不敢和人握手",
-      "onboard_time": 1744550964,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 152050,
       "num": 152050,
       "word": "千秋令一脚踩碎替身文学",
@@ -1721,14 +1777,6 @@
       "onboard_time": 1744520482,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 149843,
-      "num": 149843,
-      "word": "公司约9827万应收账款拍卖2.85万成交",
-      "onboard_time": 1744550603,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 149783,
@@ -1763,12 +1811,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 146101,
-      "num": 146101,
-      "word": "WCBA总决赛",
-      "onboard_time": 1744548622,
-      "rank": 35,
-      "category": "体育"
+      "raw_hot": 146212,
+      "num": 146212,
+      "word": "年轻人把AI当成心理中医",
+      "onboard_time": 1744551023,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 146003,
@@ -1915,6 +1963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138380,
+      "num": 138380,
+      "word": "马嘉祺清唱晴天",
+      "onboard_time": 1744551263,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 138290,
       "num": 138290,
       "word": "瘦不下来可能是因为湿气重",
@@ -1923,11 +1979,27 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 138257,
+      "num": 138257,
+      "word": "CBA",
+      "onboard_time": 1744548321,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138213,
       "num": 138213,
       "word": "许嵩领着一队男模走T台秀",
       "onboard_time": 1744511721,
       "rank": 36,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 138135,
+      "num": 138135,
+      "word": "50岁正是追星的好年纪",
+      "onboard_time": 1744551143,
+      "rank": 39,
       "category": "演出"
     },
     {
@@ -1961,14 +2033,6 @@
       "onboard_time": 1744535183,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 136192,
-      "num": 136192,
-      "word": "九尾火舞燃尽了",
-      "onboard_time": 1744550842,
-      "rank": 40,
-      "category": "电竞"
     },
     {
       "raw_hot": 136032,
@@ -2049,6 +2113,14 @@
       "onboard_time": 1744528041,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130924,
+      "num": 130924,
+      "word": "在越南参加汉语水平考试是啥体验",
+      "onboard_time": 1744547241,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130399,
@@ -2179,14 +2251,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 125214,
-      "num": 285604,
-      "word": "美国店主很害怕母亲节生意彻底泡汤",
-      "onboard_time": 1744547301,
-      "rank": 42,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 124030,
       "num": 168601,
       "word": "华晨宇佛山演唱会抢票",
@@ -2289,14 +2353,6 @@
       "onboard_time": 1744523362,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 119467,
-      "num": 119467,
-      "word": "年轻人把AI当成心理中医",
-      "onboard_time": 1744551023,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 119341,
@@ -2499,14 +2555,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 109884,
-      "num": 110231,
-      "word": "CBA",
-      "onboard_time": 1744548321,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 109849,
       "num": 109849,
       "word": "陈赫说不会生三胎",
@@ -2633,14 +2681,6 @@
       "onboard_time": 1744545681,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 102783,
-      "num": 124755,
-      "word": "在越南参加汉语水平考试是啥体验",
-      "onboard_time": 1744547241,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 102430,
@@ -2921,14 +2961,6 @@
       "onboard_time": 1744533862,
       "rank": 19,
       "category": "网红"
-    },
-    {
-      "raw_hot": 73137,
-      "num": 146017,
-      "word": "刘宇宁直播称新剧快播了",
-      "onboard_time": 1744551023,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 70067,
