@@ -1,0 +1,410 @@
+{
+  "runTime": 1744519923281,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1581449,
+        "num": 1581449,
+        "word": "胖东来工资单",
+        "onboard_time": 1744514179,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1049320,
+        "num": 1049320,
+        "word": "你好星期六收视第一",
+        "onboard_time": 1744515322,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143661,
+        "num": 887616,
+        "word": "美肆意加征关税非常危险",
+        "onboard_time": 1744502539,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 789432,
+        "num": 789432,
+        "word": "广东沙尘暴",
+        "onboard_time": 1744513521,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 772476,
+        "num": 772476,
+        "word": "enhypen科切拉舞台",
+        "onboard_time": 1744516281,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 557642,
+        "num": 557642,
+        "word": "美车辆起火24000磅鸡蛋被毁",
+        "onboard_time": 1744511181,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 660977,
+        "num": 503387,
+        "word": "bite me男伴舞",
+        "onboard_time": 1744518562,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 437086,
+        "num": 437086,
+        "word": "许嵩00后同事不懂灰色头像",
+        "onboard_time": 1744515440,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 427215,
+        "num": 427215,
+        "word": "湿气重的7个习惯",
+        "onboard_time": 1744514420,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 250328,
+        "num": 250328,
+        "word": "拒绝上学门诊接待近1万人次",
+        "onboard_time": 1744504941,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1636165,
+        "num": 249946,
+        "word": "谁来管管现在的女装",
+        "onboard_time": 1744515141,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 603937,
+        "num": 247657,
+        "word": "王宝强 初代跑男",
+        "onboard_time": 1744512562,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 575990,
+        "num": 245352,
+        "word": "女生喉咙痛从就诊到去世仅10分钟",
+        "onboard_time": 1744469426,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 556184,
+        "num": 244958,
+        "word": "印度男子携准丈母娘卷款私奔",
+        "onboard_time": 1744516342,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 426832,
+        "num": 243253,
+        "word": "官宣做卫生巾后黄子韬掉粉46万",
+        "onboard_time": 1744504222,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 388031,
+        "num": 240629,
+        "word": "李羲承火力全开了",
+        "onboard_time": 1744517841,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 584972,
+        "num": 238813,
+        "word": "当年王宝强在跑男录制的好好的",
+        "onboard_time": 1744519101,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 382077,
+        "num": 236829,
+        "word": "enhypen开麦",
+        "onboard_time": 1744516461,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 49224,
+        "num": 236191,
+        "word": "英政府紧急出手救助钢铁行业",
+        "onboard_time": 1744518683,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 86465,
+        "num": 233212,
+        "word": "3司机跑长报短偷逃9万7高速费获刑",
+        "onboard_time": 1744518743,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315025,
+        "num": 232712,
+        "word": "科切拉",
+        "onboard_time": 1744516221,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 306081,
+        "num": 230751,
+        "word": "吴镇宇不记得合作过李沐宸",
+        "onboard_time": 1744513581,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271020,
+        "num": 228054,
+        "word": "宋祖儿演技",
+        "onboard_time": 1744505362,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227901,
+        "num": 227901,
+        "word": "垫音",
+        "onboard_time": 1744519161,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 225021,
+        "num": 225021,
+        "word": "光与夜之恋",
+        "onboard_time": 1744518743,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 222721,
+        "num": 222721,
+        "word": "731部队曾在中国多地投撒细菌",
+        "onboard_time": 1744508481,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217699,
+        "num": 217699,
+        "word": "徐志胜鸟鸟你俩是怎么憋住不笑的",
+        "onboard_time": 1744517062,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159423,
+        "num": 213638,
+        "word": "蒲熠星shape of you",
+        "onboard_time": 1744517121,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 156939,
+        "num": 210816,
+        "word": "特朗普家族参与加密货币获巨额利益",
+        "onboard_time": 1744519642,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 59574,
+        "num": 210416,
+        "word": "胡兵坐轮椅五国机场无障碍测评",
+        "onboard_time": 1744519582,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210125,
+        "num": 210125,
+        "word": "原来村民和猪灵都是真人演的",
+        "onboard_time": 1744519041,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 184864,
+        "num": 184864,
+        "word": "男子漂流黄河30公里发现一遗体",
+        "onboard_time": 1744509141,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201137,
+        "num": 184158,
+        "word": "划区",
+        "onboard_time": 1744518922,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 182572,
+        "num": 182572,
+        "word": "加拿大民众用不买美国货表达不满",
+        "onboard_time": 1744518441,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 178638,
+        "num": 178638,
+        "word": "蒋一侨短发",
+        "onboard_time": 1744518982,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 175064,
+        "num": 175064,
+        "word": "我不同意上班",
+        "onboard_time": 1744515561,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171564,
+        "num": 171564,
+        "word": "周峻纬祝齐思钧生日快乐",
+        "onboard_time": 1744517542,
+        "rank": 36,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 80961,
+        "num": 169228,
+        "word": "2025世博会中国馆今日开馆",
+        "onboard_time": 1744515141,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 168757,
+        "num": 168757,
+        "word": "不怕鬼压床就怕梨打墙",
+        "onboard_time": 1744518382,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155157,
+        "num": 155157,
+        "word": "女子洗澡因热水器漏电致心脏骤停",
+        "onboard_time": 1744503981,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153961,
+        "num": 153961,
+        "word": "理肤泉 张康乐",
+        "onboard_time": 1744516461,
+        "rank": 40,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 142311,
+        "num": 142311,
+        "word": "特朗普正在支付白痴溢价",
+        "onboard_time": 1744517241,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 141174,
+        "num": 141174,
+        "word": "大爷唯一吃过的苦就是当保安了",
+        "onboard_time": 1744511841,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130404,
+        "num": 130404,
+        "word": "男子舌头长到能舔胳膊肘",
+        "onboard_time": 1744476799,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128861,
+        "num": 128861,
+        "word": "薛小婉晒出起诉韩安冉的判决书",
+        "onboard_time": 1744508602,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 128846,
+        "num": 128846,
+        "word": "齐思钧生日发文",
+        "onboard_time": 1744516221,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127916,
+        "num": 127916,
+        "word": "enhypen上考场",
+        "onboard_time": 1744516101,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 122144,
+        "num": 122144,
+        "word": "谈论全球电影未来怎能不提中国",
+        "onboard_time": 1744518982,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 118886,
+        "num": 118886,
+        "word": "林珍娜二次狙击金善旴",
+        "onboard_time": 1744514302,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117186,
+        "num": 117186,
+        "word": "大家有分手断联后又和好的经历吗",
+        "onboard_time": 1744519882,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定不移推进高水平对外开放观察#"
+    }
+  }
+}

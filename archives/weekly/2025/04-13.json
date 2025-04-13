@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744517899677,
+  "endTime": 1744519923281,
   "band_list": [
     {
       "raw_hot": 1750912,
@@ -11,8 +11,16 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 1519822,
-      "num": 1519822,
+      "raw_hot": 1636165,
+      "num": 409623,
+      "word": "谁来管管现在的女装",
+      "onboard_time": 1744515141,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 1581449,
+      "num": 1581449,
       "word": "胖东来工资单",
       "onboard_time": 1744514179,
       "rank": 49,
@@ -75,14 +83,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1044400,
-      "num": 409623,
-      "word": "谁来管管现在的女装",
-      "onboard_time": 1744515141,
-      "rank": 10,
-      "category": "情感"
-    },
-    {
       "raw_hot": 946050,
       "num": 389770,
       "word": "男子舌头长到能舔胳膊肘",
@@ -139,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 789432,
+      "num": 789432,
+      "word": "广东沙尘暴",
+      "onboard_time": 1744513521,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 740131,
       "num": 312388,
       "word": "邓超陈赫王宝强亲亲合照",
@@ -163,12 +171,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 660346,
-      "num": 660346,
-      "word": "广东沙尘暴",
-      "onboard_time": 1744513521,
-      "rank": 26,
-      "category": "民生新闻"
+      "raw_hot": 660977,
+      "num": 503387,
+      "word": "bite me男伴舞",
+      "onboard_time": 1744518562,
+      "rank": 6,
+      "category": "演出"
     },
     {
       "raw_hot": 614360,
@@ -177,6 +185,14 @@
       "onboard_time": 1744468468,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 584972,
+      "num": 238813,
+      "word": "当年王宝强在跑男录制的好好的",
+      "onboard_time": 1744519101,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 573276,
@@ -217,6 +233,14 @@
       "onboard_time": 1744509141,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 556184,
+      "num": 244958,
+      "word": "印度男子携准丈母娘卷款私奔",
+      "onboard_time": 1744516342,
+      "rank": 24,
+      "category": "国际时政"
     },
     {
       "raw_hot": 547686,
@@ -283,6 +307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 427215,
+      "num": 427215,
+      "word": "湿气重的7个习惯",
+      "onboard_time": 1744514420,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 423148,
       "num": 423148,
       "word": "薛小婉晒出起诉韩安冉的判决书",
@@ -307,12 +339,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 382874,
-      "num": 382874,
-      "word": "湿气重的7个习惯",
-      "onboard_time": 1744514420,
-      "rank": 18,
-      "category": "健康医疗"
+      "raw_hot": 388031,
+      "num": 240629,
+      "word": "李羲承火力全开了",
+      "onboard_time": 1744517841,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 370617,
@@ -451,12 +483,12 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 230776,
-      "num": 230776,
-      "word": "印度男子携准丈母娘卷款私奔",
-      "onboard_time": 1744516342,
-      "rank": 24,
-      "category": "国际时政"
+      "raw_hot": 227901,
+      "num": 227901,
+      "word": "垫音",
+      "onboard_time": 1744519161,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 227362,
@@ -483,12 +515,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 225021,
+      "num": 225021,
+      "word": "光与夜之恋",
+      "onboard_time": 1744518743,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 217699,
+      "num": 217699,
+      "word": "徐志胜鸟鸟你俩是怎么憋住不笑的",
+      "onboard_time": 1744517062,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 213102,
       "num": 213102,
       "word": "熬夜睡不够是胃癌的一大诱因",
       "onboard_time": 1744503921,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 210125,
+      "num": 210125,
+      "word": "原来村民和猪灵都是真人演的",
+      "onboard_time": 1744519041,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 207835,
@@ -507,6 +563,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 201137,
+      "num": 184158,
+      "word": "划区",
+      "onboard_time": 1744518922,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 199583,
       "num": 199583,
       "word": "胡超 华晨宇",
@@ -521,14 +585,6 @@
       "onboard_time": 1744516461,
       "rank": 26,
       "category": "艺人,美妆"
-    },
-    {
-      "raw_hot": 191857,
-      "num": 191857,
-      "word": "徐志胜鸟鸟你俩是怎么憋住不笑的",
-      "onboard_time": 1744517062,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 189855,
@@ -571,12 +627,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 182572,
+      "num": 182572,
+      "word": "加拿大民众用不买美国货表达不满",
+      "onboard_time": 1744518441,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 179676,
       "num": 179676,
       "word": "全红婵赛后采访说不可思议",
       "onboard_time": 1744506741,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178638,
+      "num": 178638,
+      "word": "蒋一侨短发",
+      "onboard_time": 1744518982,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 177037,
@@ -593,6 +665,14 @@
       "onboard_time": 1744512801,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 175064,
+      "num": 175064,
+      "word": "我不同意上班",
+      "onboard_time": 1744515561,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 172524,
@@ -627,8 +707,16 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 168757,
+      "num": 168757,
+      "word": "不怕鬼压床就怕梨打墙",
+      "onboard_time": 1744518382,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168493,
-      "num": 168493,
+      "num": 213638,
       "word": "蒲熠星shape of you",
       "onboard_time": 1744517121,
       "rank": 35,
@@ -675,6 +763,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 156939,
+      "num": 210816,
+      "word": "特朗普家族参与加密货币获巨额利益",
+      "onboard_time": 1744519642,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 153364,
       "num": 153364,
       "word": "林珍娜二次狙击金善旴",
@@ -707,12 +803,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 143147,
-      "num": 143147,
-      "word": "我不同意上班",
-      "onboard_time": 1744515561,
-      "rank": 42,
-      "category": "幽默"
+      "raw_hot": 143661,
+      "num": 1022865,
+      "word": "美肆意加征关税非常危险",
+      "onboard_time": 1744502539,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 139451,
@@ -779,14 +875,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 128595,
-      "num": 128595,
-      "word": "李羲承火力全开了",
-      "onboard_time": 1744517841,
-      "rank": 45,
-      "category": "演出"
-    },
-    {
       "raw_hot": 126478,
       "num": 126478,
       "word": "2025电影票房破250亿",
@@ -809,6 +897,14 @@
       "onboard_time": 1744503502,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122144,
+      "num": 122144,
+      "word": "谈论全球电影未来怎能不提中国",
+      "onboard_time": 1744518982,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 119740,
@@ -841,6 +937,14 @@
       "onboard_time": 1744504882,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117186,
+      "num": 117186,
+      "word": "大家有分手断联后又和好的经历吗",
+      "onboard_time": 1744519882,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 116712,
@@ -897,14 +1001,6 @@
       "onboard_time": 1744509260,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 105420,
-      "num": 1022865,
-      "word": "美肆意加征关税非常危险",
-      "onboard_time": 1744502539,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 101634,
@@ -995,6 +1091,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 86465,
+      "num": 233212,
+      "word": "3司机跑长报短偷逃9万7高速费获刑",
+      "onboard_time": 1744518743,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85322,
       "num": 85322,
       "word": "特朗普说的暂停90天没完全落实",
@@ -1025,6 +1129,14 @@
       "onboard_time": 1744467324,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80961,
+      "num": 169228,
+      "word": "2025世博会中国馆今日开馆",
+      "onboard_time": 1744515141,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 70067,
@@ -1067,6 +1179,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 59574,
+      "num": 210416,
+      "word": "胡兵坐轮椅五国机场无障碍测评",
+      "onboard_time": 1744519582,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 58683,
       "num": 58683,
       "word": "内蒙古大风把蒙古獒幼崽吹到牧民家",
@@ -1089,6 +1209,14 @@
       "onboard_time": 1744476799,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 49224,
+      "num": 236191,
+      "word": "英政府紧急出手救助钢铁行业",
+      "onboard_time": 1744518683,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 47299,
