@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744576679730,
+  "endTime": 1744579320722,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -42427,6 +42427,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 13721,
+      "num": 15403,
+      "word": "中越山水相连文化相通",
+      "onboard_time": 1744576995,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 13445,
       "num": 321391,
       "word": "陈雨菲vs山口茜",
@@ -42473,6 +42481,14 @@
       "onboard_time": 1743592042,
       "rank": 29,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 13095,
+      "num": 35356,
+      "word": "美媒称市场处于快速去美元化过程中",
+      "onboard_time": 1744578674,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 13093,
