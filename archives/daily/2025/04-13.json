@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744509459404,
+  "endTime": 1744514274418,
   "band_list": [
     {
       "raw_hot": 1750912,
@@ -25,6 +25,14 @@
       "onboard_time": 1744465225,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1162291,
+      "num": 1185966,
+      "word": "美车辆起火24000磅鸡蛋被毁",
+      "onboard_time": 1744511181,
+      "rank": 0,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1123546,
@@ -75,6 +83,14 @@
       "category": "数码,网红"
     },
     {
+      "raw_hot": 829261,
+      "num": 829261,
+      "word": "731部队曾在中国多地投撒细菌",
+      "onboard_time": 1744508481,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 824905,
       "num": 824905,
       "word": "无意识变胖的4个习惯",
@@ -88,6 +104,14 @@
       "word": "齐思钧双相",
       "onboard_time": 1744467385,
       "rank": 4,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 740131,
+      "num": 295753,
+      "word": "邓超陈赫王宝强亲亲合照",
+      "onboard_time": 1744510941,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -123,6 +147,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 556220,
+      "num": 556220,
+      "word": "男子漂流黄河30公里发现一遗体",
+      "onboard_time": 1744509141,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 547686,
+      "num": 399964,
+      "word": "留几手说不排斥和女生交往了",
+      "onboard_time": 1744505063,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 545656,
       "num": 545656,
       "word": "奥黛丽赫本故居挂牌出售1.65亿元",
@@ -137,6 +177,14 @@
       "onboard_time": 1744506322,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 467327,
+      "num": 274111,
+      "word": "王宝强 初代跑男",
+      "onboard_time": 1744512562,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 459500,
@@ -155,6 +203,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 443795,
+      "num": 443795,
+      "word": "拒绝上学门诊接待近1万人次",
+      "onboard_time": 1744504941,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 423148,
+      "num": 423148,
+      "word": "薛小婉晒出起诉韩安冉的判决书",
+      "onboard_time": 1744508602,
+      "rank": 19,
+      "category": "网红"
+    },
+    {
       "raw_hot": 412203,
       "num": 412203,
       "word": "看无忧渡第一集满脑子都是Sa",
@@ -163,28 +227,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 407286,
-      "num": 407286,
-      "word": "拒绝上学门诊接待近1万人次",
-      "onboard_time": 1744504941,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 404935,
       "num": 293107,
       "word": "特朗普把made in china给遮住了",
       "onboard_time": 1744443084,
       "rank": 20,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 399964,
-      "num": 399964,
-      "word": "留几手说不排斥和女生交往了",
-      "onboard_time": 1744505063,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 370617,
@@ -235,6 +283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 324146,
+      "num": 324146,
+      "word": "吴镇宇不记得合作过李沐宸",
+      "onboard_time": 1744513581,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 321794,
       "num": 321794,
       "word": "全红婵回应获得亚军",
@@ -248,6 +304,14 @@
       "word": "齐思钧自己去看了两年心理治疗",
       "onboard_time": 1744470685,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 286175,
+      "num": 286175,
+      "word": "孙俪说请对我要求再高一点",
+      "onboard_time": 1744510220,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -307,14 +371,6 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 229322,
-      "num": 321805,
-      "word": "薛小婉晒出起诉韩安冉的判决书",
-      "onboard_time": 1744508602,
-      "rank": 19,
-      "category": "网红"
-    },
-    {
       "raw_hot": 227362,
       "num": 193325,
       "word": "生理性厌恶的8个表现",
@@ -347,12 +403,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203901,
+      "num": 203901,
+      "word": "大爷唯一吃过的苦就是当保安了",
+      "onboard_time": 1744511841,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 199583,
       "num": 199583,
       "word": "胡超 华晨宇",
       "onboard_time": 1744465705,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 189855,
+      "num": 189855,
+      "word": "enhypen科切拉舞台彩排",
+      "onboard_time": 1744513521,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 189061,
+      "num": 189061,
+      "word": "广东沙尘暴",
+      "onboard_time": 1744513521,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 188528,
@@ -371,12 +451,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 184800,
-      "num": 184800,
-      "word": "731部队曾在中国多地投撒细菌",
-      "onboard_time": 1744508481,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 183384,
+      "num": 183384,
+      "word": "KPL",
+      "onboard_time": 1744513581,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 179676,
@@ -385,6 +465,14 @@
       "onboard_time": 1744506741,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 177037,
+      "num": 177037,
+      "word": "赵丽颖 肌肉线条",
+      "onboard_time": 1744513342,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 172524,
@@ -459,14 +547,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 152105,
-      "num": 152105,
-      "word": "男子漂流黄河30公里发现一遗体",
-      "onboard_time": 1744509141,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 149783,
       "num": 149783,
       "word": "台当局或将用转基因食品进校园换关税",
@@ -483,6 +563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141736,
+      "num": 141736,
+      "word": "科切拉直播",
+      "onboard_time": 1744512801,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 139451,
       "num": 139451,
       "word": "沙尘暴",
@@ -497,6 +585,14 @@
       "onboard_time": 1744508961,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138213,
+      "num": 138213,
+      "word": "许嵩领着一队男模走T台秀",
+      "onboard_time": 1744511721,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 135849,
@@ -521,6 +617,14 @@
       "onboard_time": 1744503379,
       "rank": 40,
       "category": "健康医疗,艺人"
+    },
+    {
+      "raw_hot": 128689,
+      "num": 128689,
+      "word": "这苹果被切了几刀瞬间变贵了",
+      "onboard_time": 1744500679,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 126478,
@@ -571,14 +675,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 111391,
-      "num": 111391,
-      "word": "这苹果被切了几刀瞬间变贵了",
-      "onboard_time": 1744500679,
-      "rank": 45,
-      "category": "美食"
-    },
-    {
       "raw_hot": 111366,
       "num": 111366,
       "word": "BLG教练回应两连败",
@@ -593,6 +689,14 @@
       "onboard_time": 1744467204,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109849,
+      "num": 109849,
+      "word": "陈赫说不会生三胎",
+      "onboard_time": 1744512682,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 109223,
@@ -611,8 +715,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103362,
+      "num": 103362,
+      "word": "胖东来工资单",
+      "onboard_time": 1744514179,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 101634,
-      "num": 101634,
+      "num": 103803,
       "word": "普京说俄近5年建造了49艘舰艇",
       "onboard_time": 1744506741,
       "rank": 48,
@@ -771,6 +883,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57223,
+      "num": 110067,
+      "word": "尹锡悦首次刑事审判定于14日举行",
+      "onboard_time": 1744512201,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 52562,
+      "num": 316258,
+      "word": "中国馆在世博会惊艳亮相",
+      "onboard_time": 1744513521,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51902,
       "num": 51902,
       "word": "汪苏泷唱愚公移山主题曲",
@@ -913,6 +1041,14 @@
       "onboard_time": 1744485434,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 17765,
+      "num": 129220,
+      "word": "探访萨尔瓦多最大监狱",
+      "onboard_time": 1744513281,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 15360,
