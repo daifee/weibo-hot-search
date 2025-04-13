@@ -1,6 +1,6 @@
 {
   "startTime": 1744561767834,
-  "endTime": 1744586632214,
+  "endTime": 1744587514536,
   "band_list": [
     {
       "raw_hot": 1234974,
@@ -11,8 +11,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 890361,
-      "num": 922735,
+      "raw_hot": 1022447,
+      "num": 1022447,
       "word": "外媒问哪来的自信幻想中国人会跪",
       "onboard_time": 1744558163,
       "rank": 0,
@@ -27,7 +27,15 @@
       "category": "网红"
     },
     {
-      "raw_hot": 665616,
+      "raw_hot": 770026,
+      "num": 770026,
+      "word": "印度少女遭贩卖逃脱被警方强制送回",
+      "onboard_time": 1744582636,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 714004,
       "num": 291974,
       "word": "网曝超市将馒头扔地上给大爷大妈抢",
       "onboard_time": 1744561520,
@@ -35,19 +43,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 663591,
-      "num": 663591,
-      "word": "印度少女遭贩卖逃脱被警方强制送回",
-      "onboard_time": 1744582636,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 651613,
       "num": 651613,
       "word": "女生替去世前男友照顾家人还债60万",
       "onboard_time": 1744554864,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 608194,
+      "num": 293611,
+      "word": "女子扮石矶娘娘被一男子辱骂成日本人",
+      "onboard_time": 1744552764,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -59,14 +67,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 541808,
-      "num": 293611,
-      "word": "女子扮石矶娘娘被一男子辱骂成日本人",
-      "onboard_time": 1744552764,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 530982,
       "num": 530982,
       "word": "折腰",
@@ -75,8 +75,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 494605,
-      "num": 494605,
+      "raw_hot": 527927,
+      "num": 527927,
       "word": "145%关税让1只熊猫玩偶卖80美元",
       "onboard_time": 1744537883,
       "rank": 6,
@@ -99,19 +99,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 406091,
+      "num": 406091,
+      "word": "妈妈监控中发现孩子情绪异常查出脱臼",
+      "onboard_time": 1744558702,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 383226,
       "num": 248655,
       "word": "28岁网红因病去世留下4个孩子",
       "onboard_time": 1744548082,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 378275,
-      "num": 378275,
-      "word": "妈妈监控中发现孩子情绪异常查出脱臼",
-      "onboard_time": 1744558702,
-      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -147,6 +147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 244866,
+      "num": 244866,
+      "word": "鸟类感染病毒后脖子扭转180度",
+      "onboard_time": 1744550424,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 238688,
       "num": 238688,
       "word": "周杰伦昆凌把旅综录成恋综",
@@ -156,11 +164,27 @@
     },
     {
       "raw_hot": 224854,
-      "num": 549522,
+      "num": 556134,
       "word": "大张旗鼓加税偷偷摸摸豁免",
       "onboard_time": 1744553605,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 222684,
+      "num": 222684,
+      "word": "美国折腾一周不如周末的风动静大",
+      "onboard_time": 1744554803,
+      "rank": 20,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 221894,
+      "num": 298745,
+      "word": "多地发布暴雪蓝色预警",
+      "onboard_time": 1744558401,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 216265,
@@ -172,19 +196,19 @@
     },
     {
       "raw_hot": 215629,
-      "num": 247514,
+      "num": 291237,
       "word": "陈哲远回复湖南卫视",
       "onboard_time": 1744561580,
       "rank": 41,
       "category": "作品衍生"
     },
     {
-      "raw_hot": 209477,
-      "num": 209477,
-      "word": "鸟类感染病毒后脖子扭转180度",
-      "onboard_time": 1744550424,
-      "rank": 25,
-      "category": "民生新闻"
+      "raw_hot": 208395,
+      "num": 208395,
+      "word": "好友为赵丽颖发声",
+      "onboard_time": 1744549103,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 205119,
@@ -203,14 +227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 200813,
-      "num": 200813,
-      "word": "美国折腾一周不如周末的风动静大",
-      "onboard_time": 1744554803,
-      "rank": 20,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 198255,
       "num": 198255,
       "word": "原本要发美国的摩托车暂停出货",
@@ -227,28 +243,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 177032,
-      "num": 177032,
-      "word": "好友为赵丽颖发声",
-      "onboard_time": 1744549103,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 165437,
-      "num": 298745,
-      "word": "多地发布暴雪蓝色预警",
-      "onboard_time": 1744558401,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 145562,
       "num": 145562,
       "word": "张远 有一首歌红了真好",
       "onboard_time": 1744552764,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144675,
+      "num": 144675,
+      "word": "25岁歌手演出第二天猝死",
+      "onboard_time": 1744548262,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 142491,
@@ -283,14 +291,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 136937,
-      "num": 136937,
-      "word": "25岁歌手演出第二天猝死",
-      "onboard_time": 1744548262,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 136820,
       "num": 136820,
       "word": "湖南卫视连发20条陈哲远",
@@ -323,6 +323,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124977,
+      "num": 124977,
+      "word": "电瓶燃爆烧伤男生称无法原谅室友",
+      "onboard_time": 1744546342,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124176,
+      "num": 124176,
+      "word": "尹锡悦戴红帽子让韩国再次伟大",
+      "onboard_time": 1744544001,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 117502,
       "num": 117502,
       "word": "丝塔芙 成毅",
@@ -339,20 +355,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 115011,
-      "num": 115011,
-      "word": "电瓶燃爆烧伤男生称无法原谅室友",
-      "onboard_time": 1744546342,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 114717,
       "num": 114717,
       "word": "WCBA冠军之路",
       "onboard_time": 1744560800,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 108926,
+      "num": 108926,
+      "word": "公司约9827万应收账款拍卖2.85万成交",
+      "onboard_time": 1744550603,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108418,
@@ -372,19 +388,11 @@
     },
     {
       "raw_hot": 104842,
-      "num": 104842,
+      "num": 151821,
       "word": "宋妍霏手纹重到不敢和人握手",
       "onboard_time": 1744550964,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 101482,
-      "num": 101482,
-      "word": "尹锡悦戴红帽子让韩国再次伟大",
-      "onboard_time": 1744544001,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 99558,
@@ -419,16 +427,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 94207,
-      "num": 94207,
-      "word": "公司约9827万应收账款拍卖2.85万成交",
-      "onboard_time": 1744550603,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 92272,
-      "num": 111640,
+      "num": 195265,
       "word": "张小婉说当时感到脚下有异动",
       "onboard_time": 1744572074,
       "rank": 45,
@@ -465,6 +465,14 @@
       "onboard_time": 1744561702,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 87968,
+      "num": 87968,
+      "word": "曾任美国大学数学系教授陈敏已归国",
+      "onboard_time": 1744587319,
+      "rank": 37,
+      "category": "正能量"
     },
     {
       "raw_hot": 85543,
@@ -507,12 +515,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 73952,
-      "num": 73952,
+      "raw_hot": 79216,
+      "num": 79216,
       "word": "商务部回应美豁免部分产品关税",
       "onboard_time": 1744544182,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 76870,
+      "num": 159626,
+      "word": "深圳偶遇黄杨钿甜",
+      "onboard_time": 1744585578,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 73361,
+      "num": 73361,
+      "word": "勇士快船加时",
+      "onboard_time": 1744587378,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 67711,
@@ -520,6 +544,22 @@
       "word": "阿拉维斯vs皇马",
       "onboard_time": 1744557504,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 63047,
+      "num": 63047,
+      "word": "昙花一现你见过吗",
+      "onboard_time": 1744587080,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51609,
+      "num": 171931,
+      "word": "姆巴佩直红",
+      "onboard_time": 1744587140,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -545,14 +585,6 @@
       "onboard_time": 1744578674,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 42128,
-      "num": 159626,
-      "word": "深圳偶遇黄杨钿甜",
-      "onboard_time": 1744585578,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 42047,
@@ -595,6 +627,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 31055,
+      "num": 263968,
+      "word": "英国将暂停对89种产品征全球关税",
+      "onboard_time": 1744586959,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 30346,
       "num": 30346,
       "word": "黑镜",
@@ -609,6 +649,22 @@
       "onboard_time": 1744568415,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 25352,
+      "num": 253048,
+      "word": "美国宾州州长官邸遭纵火",
+      "onboard_time": 1744586659,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 20662,
+      "num": 226978,
+      "word": "特朗普政府肆意破坏WTO规则",
+      "onboard_time": 1744587080,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 20308,
@@ -681,6 +737,14 @@
       "onboard_time": 1744574354,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12574,
+      "num": 166375,
+      "word": "人民币成全球第三大贸易融资货币",
+      "onboard_time": 1744587200,
+      "rank": 26,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
