@@ -1,6 +1,6 @@
 {
   "startTime": 1744561767834,
-  "endTime": 1744572958395,
+  "endTime": 1744575890257,
   "band_list": [
     {
       "raw_hot": 1234974,
@@ -475,20 +475,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 46929,
+      "num": 36512,
+      "word": "25岁歌手演出第二天猝死",
+      "onboard_time": 1744548262,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 46260,
       "num": 305863,
       "word": "为啥4月有这么极端的大风",
       "onboard_time": 1744561161,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 38983,
-      "num": 36512,
-      "word": "25岁歌手演出第二天猝死",
-      "onboard_time": 1744548262,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 37940,
@@ -539,20 +539,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 18818,
+      "num": 20563,
+      "word": "张小婉说当时感到脚下有异动",
+      "onboard_time": 1744572074,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 18158,
       "num": 21405,
       "word": "我的后半生",
       "onboard_time": 1744571534,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 17504,
-      "num": 20563,
-      "word": "张小婉说当时感到脚下有异动",
-      "onboard_time": 1744572074,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 16825,
@@ -563,12 +563,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 9913,
+      "raw_hot": 15009,
       "num": 20630,
       "word": "美关税乱政成了马戏表演",
       "onboard_time": 1744572913,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 14458,
+      "num": 14458,
+      "word": "你的朋友圈和微博是两人在运营吗",
+      "onboard_time": 1744572194,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 11785,
+      "num": 15104,
+      "word": "00后姑娘收到人生第一面锦旗",
+      "onboard_time": 1744574354,
+      "rank": 42,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
