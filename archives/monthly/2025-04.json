@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744523014313,
+  "endTime": 1744525944332,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -2595,6 +2595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1053633,
+      "num": 591568,
+      "word": "甲亢哥对中国惦念不忘发文表白",
+      "onboard_time": 1744524081,
+      "rank": 3,
+      "category": "网红,民生新闻"
+    },
+    {
       "raw_hot": 1053405,
       "num": 980246,
       "word": "锤娜丽莎因为重度脂肪肝减肥",
@@ -4491,6 +4499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 717870,
+      "num": 717870,
+      "word": "特朗普政府再度退缩",
+      "onboard_time": 1744524021,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 717168,
       "num": 163648,
       "word": "2024的愚人节勇士站姐",
@@ -4667,6 +4683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 694423,
+      "num": 532594,
+      "word": "双相情感障碍又叫天才病",
+      "onboard_time": 1744522463,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 694344,
       "num": 694344,
       "word": "美国大型科技企业将成为反制目标",
@@ -4801,6 +4825,14 @@
       "onboard_time": 1744101921,
       "rank": 39,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 678327,
+      "num": 498713,
+      "word": "同居租房男生出钱女生拒绝",
+      "onboard_time": 1744522822,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 678194,
@@ -7211,14 +7243,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 475682,
-      "num": 290717,
-      "word": "双相情感障碍又叫天才病",
-      "onboard_time": 1744522463,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 475178,
       "num": 475178,
       "word": "宋茜唐艺昕张佳宁又约上了",
@@ -7889,6 +7913,14 @@
       "onboard_time": 1743838461,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 441154,
+      "num": 441154,
+      "word": "ITTF抽签",
+      "onboard_time": 1744523061,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 441020,
@@ -11155,6 +11187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 311746,
+      "num": 311746,
+      "word": "公摊面积最大的蔬菜",
+      "onboard_time": 1743485905,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 311536,
       "num": 442074,
       "word": "彭小苒浪姐比东宫还虐",
@@ -12745,14 +12785,6 @@
       "onboard_time": 1744287443,
       "rank": 8,
       "category": "演出"
-    },
-    {
-      "raw_hot": 271960,
-      "num": 271960,
-      "word": "公摊面积最大的蔬菜",
-      "onboard_time": 1743485905,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 271875,
@@ -16227,6 +16259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211527,
+      "num": 211527,
+      "word": "赵露思哭戏",
+      "onboard_time": 1744525401,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 211476,
       "num": 211476,
       "word": "苦尽柑来遇见你 三代女性托举",
@@ -19379,6 +19419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188170,
+      "num": 188170,
+      "word": "澳门世界杯",
+      "onboard_time": 1744523182,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188112,
       "num": 222951,
       "word": "尹锡悦被罢免后发表讲话",
@@ -19705,6 +19753,14 @@
       "onboard_time": 1743850162,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 185988,
+      "num": 185988,
+      "word": "首都机场地勤欺负老人",
+      "onboard_time": 1744524381,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 185968,
@@ -22049,6 +22105,14 @@
       "onboard_time": 1744335623,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168879,
+      "num": 168879,
+      "word": "朴成训上岸",
+      "onboard_time": 1744524261,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 168827,
@@ -24497,6 +24561,14 @@
       "onboard_time": 1744116801,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 152493,
+      "num": 152493,
+      "word": "主包",
+      "onboard_time": 1744523303,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 152483,
@@ -27011,6 +27083,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 137016,
+      "num": 137016,
+      "word": "快乐的大人",
+      "onboard_time": 1744525102,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136989,
       "num": 136989,
       "word": "21岁假道士收36岁徒弟狂骗其20多万",
@@ -27161,6 +27241,14 @@
       "onboard_time": 1743865222,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 136015,
+      "num": 136015,
+      "word": "国际乒联",
+      "onboard_time": 1744524141,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 135996,
@@ -28259,6 +28347,14 @@
       "category": "互联网,教育"
     },
     {
+      "raw_hot": 129892,
+      "num": 129892,
+      "word": "孙颖莎训练削上了",
+      "onboard_time": 1744524981,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129820,
       "num": 129820,
       "word": "卢昱晓茉莉花",
@@ -28313,6 +28409,14 @@
       "onboard_time": 1744450704,
       "rank": 43,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 129616,
+      "num": 129616,
+      "word": "任嘉伦专辑",
+      "onboard_time": 1744525640,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 129576,
@@ -28737,14 +28841,6 @@
       "onboard_time": 1743741080,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 126858,
-      "num": 126858,
-      "word": "同居租房男生出钱女生拒绝",
-      "onboard_time": 1744522822,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 126814,
@@ -29603,6 +29699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120982,
+      "num": 120982,
+      "word": "大风把柳絮刮走了",
+      "onboard_time": 1744525162,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 120981,
       "num": 348357,
       "word": "多次军演会不会曝光对台战术",
@@ -29883,6 +29987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119540,
+      "num": 119540,
+      "word": "西村力 银发男子",
+      "onboard_time": 1744523362,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 119519,
       "num": 119519,
       "word": "宠物狗被杀韩国女子欲杀父报仇",
@@ -29937,6 +30049,14 @@
       "onboard_time": 1743660863,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 119276,
+      "num": 119276,
+      "word": "缅甸发生5.4级地震",
+      "onboard_time": 1744525821,
+      "rank": 47,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 119238,
@@ -30881,6 +31001,14 @@
       "onboard_time": 1743606804,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 112923,
+      "num": 320691,
+      "word": "金价今年已刷新历史高点超20次",
+      "onboard_time": 1744524261,
+      "rank": 10,
+      "category": "财经"
     },
     {
       "raw_hot": 112821,
@@ -39603,6 +39731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18231,
+      "num": 131469,
+      "word": "极端复杂天气幕后推手是它",
+      "onboard_time": 1744525761,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18193,
       "num": 171000,
       "word": "地标建筑遇上花花秒变春日顶流",
@@ -39657,6 +39793,14 @@
       "onboard_time": 1743787757,
       "rank": 18,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 17298,
+      "num": 133295,
+      "word": "东北冷涡是这轮全国罕见天气的推手",
+      "onboard_time": 1744525821,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17216,

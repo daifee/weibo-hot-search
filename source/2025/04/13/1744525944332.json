@@ -1,0 +1,410 @@
+{
+  "runTime": 1744525944332,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1519118,
+        "num": 1519118,
+        "word": "当年王宝强在跑男录制的好好的",
+        "onboard_time": 1744519101,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 717870,
+        "num": 717870,
+        "word": "特朗普政府再度退缩",
+        "onboard_time": 1744524021,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 90157,
+        "num": 594167,
+        "word": "美肆意加征关税非常危险",
+        "onboard_time": 1744502539,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1053633,
+        "num": 591568,
+        "word": "甲亢哥对中国惦念不忘发文表白",
+        "onboard_time": 1744524081,
+        "rank": 3,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 548014,
+        "num": 548014,
+        "word": "胖东来工资单",
+        "onboard_time": 1744514179,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 538123,
+        "num": 538123,
+        "word": "官方通报树被风吹倒砸伤女子致死",
+        "onboard_time": 1744520421,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 694423,
+        "num": 532594,
+        "word": "双相情感障碍又叫天才病",
+        "onboard_time": 1744522463,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 678327,
+        "num": 498713,
+        "word": "同居租房男生出钱女生拒绝",
+        "onboard_time": 1744522822,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 441154,
+        "num": 441154,
+        "word": "ITTF抽签",
+        "onboard_time": 1744523061,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 321453,
+        "num": 321453,
+        "word": "广东沙尘暴",
+        "onboard_time": 1744513521,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112923,
+        "num": 320691,
+        "word": "金价今年已刷新历史高点超20次",
+        "onboard_time": 1744524261,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 831951,
+        "num": 319682,
+        "word": "谁来管管现在的女装",
+        "onboard_time": 1744515141,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 441151,
+        "num": 318525,
+        "word": "女生喉咙痛从就诊到去世仅10分钟",
+        "onboard_time": 1744469426,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 418779,
+        "num": 316963,
+        "word": "你好星期六收视第一",
+        "onboard_time": 1744515322,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 394857,
+        "num": 315153,
+        "word": "bite me男伴舞",
+        "onboard_time": 1744518562,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 360649,
+        "num": 313494,
+        "word": "李羲承火力全开了",
+        "onboard_time": 1744517841,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 336024,
+        "num": 312119,
+        "word": "官宣做卫生巾后黄子韬掉粉46万",
+        "onboard_time": 1744504222,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311746,
+        "num": 311746,
+        "word": "公摊面积最大的蔬菜",
+        "onboard_time": 1744524801,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 263498,
+        "num": 263498,
+        "word": "加拿大民众用不买美国货表达不满",
+        "onboard_time": 1744518441,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 205635,
+        "num": 232466,
+        "word": "印度男子携准丈母娘卷款私奔",
+        "onboard_time": 1744516342,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 229414,
+        "num": 229414,
+        "word": "宋祖儿演技",
+        "onboard_time": 1744505362,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213157,
+        "num": 213157,
+        "word": "垫音",
+        "onboard_time": 1744519161,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 211527,
+        "num": 211527,
+        "word": "赵露思哭戏",
+        "onboard_time": 1744525401,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 194758,
+        "num": 194758,
+        "word": "美车辆起火24000磅鸡蛋被毁",
+        "onboard_time": 1744511181,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 193636,
+        "num": 193636,
+        "word": "五哈",
+        "onboard_time": 1744523781,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188170,
+        "num": 188170,
+        "word": "澳门世界杯",
+        "onboard_time": 1744523182,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185988,
+        "num": 185988,
+        "word": "首都机场地勤欺负老人",
+        "onboard_time": 1744524381,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180291,
+        "num": 180291,
+        "word": "苏炳添4x100米接力夺冠",
+        "onboard_time": 1744521681,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168879,
+        "num": 168879,
+        "word": "朴成训上岸",
+        "onboard_time": 1744524261,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 159024,
+        "num": 159024,
+        "word": "湿气重的7个习惯",
+        "onboard_time": 1744514420,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 155672,
+        "num": 155672,
+        "word": "西游记没骗我",
+        "onboard_time": 1744521501,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152891,
+        "num": 152891,
+        "word": "拒绝上学门诊接待近1万人次",
+        "onboard_time": 1744504941,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152552,
+        "num": 152552,
+        "word": "树木倒伏致55岁骑车女子被砸身亡",
+        "onboard_time": 1744521861,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152493,
+        "num": 152493,
+        "word": "主包",
+        "onboard_time": 1744523303,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140159,
+        "num": 140159,
+        "word": "大家有分手断联后又和好的经历吗",
+        "onboard_time": 1744519882,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137864,
+        "num": 137864,
+        "word": "王一博VOGUE员工卡头像",
+        "onboard_time": 1744522162,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 137016,
+        "num": 137016,
+        "word": "快乐的大人",
+        "onboard_time": 1744525102,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136015,
+        "num": 136015,
+        "word": "国际乒联",
+        "onboard_time": 1744524141,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17298,
+        "num": 133295,
+        "word": "东北冷涡是这轮全国罕见天气的推手",
+        "onboard_time": 1744525821,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18231,
+        "num": 131469,
+        "word": "极端复杂天气幕后推手是它",
+        "onboard_time": 1744525761,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131243,
+        "num": 131243,
+        "word": "许嵩00后同事不懂灰色头像",
+        "onboard_time": 1744515440,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 131243,
+        "num": 131243,
+        "word": "塔吉克斯坦5.8级地震",
+        "onboard_time": 1744520902,
+        "rank": 41,
+        "category": "国际时政,国际时政"
+      },
+      {
+        "raw_hot": 129892,
+        "num": 129892,
+        "word": "孙颖莎训练削上了",
+        "onboard_time": 1744524981,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129616,
+        "num": 129616,
+        "word": "任嘉伦专辑",
+        "onboard_time": 1744525640,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 124682,
+        "num": 124682,
+        "word": "enhypen科切拉舞台",
+        "onboard_time": 1744516281,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 120982,
+        "num": 120982,
+        "word": "大风把柳絮刮走了",
+        "onboard_time": 1744525162,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119540,
+        "num": 119540,
+        "word": "西村力 银发男子",
+        "onboard_time": 1744523362,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 119276,
+        "num": 119276,
+        "word": "缅甸发生5.4级地震",
+        "onboard_time": 1744525821,
+        "rank": 47,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 118320,
+        "num": 118320,
+        "word": "胡兵坐轮椅五国机场无障碍测评",
+        "onboard_time": 1744519582,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117375,
+        "num": 117375,
+        "word": "终于有人把大学专业讲清楚了",
+        "onboard_time": 1744521442,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定奉行互利共赢的开放战略#"
+    }
+  }
+}
