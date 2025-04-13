@@ -1,0 +1,410 @@
+{
+  "runTime": 1744509459404,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1750912,
+        "num": 1750912,
+        "word": "美豁免从中国进口的部分产品关税",
+        "onboard_time": 1744470805,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1069363,
+        "num": 1069363,
+        "word": "陈若琳回应全红婵生长发育期",
+        "onboard_time": 1744504041,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46519,
+        "num": 944665,
+        "word": "以斗争精神捍卫国家利益",
+        "onboard_time": 1744472304,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1452465,
+        "num": 935721,
+        "word": "官宣做卫生巾后黄子韬掉粉46万",
+        "onboard_time": 1744504222,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 863596,
+        "num": 863596,
+        "word": "宋祖儿演技",
+        "onboard_time": 1744505362,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 573276,
+        "num": 573276,
+        "word": "特朗普承认美债出现波折",
+        "onboard_time": 1744504402,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 545656,
+        "num": 545656,
+        "word": "奥黛丽赫本故居挂牌出售1.65亿元",
+        "onboard_time": 1744508602,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 459500,
+        "num": 459500,
+        "word": "印尼鲜食椰子将进入中国市场",
+        "onboard_time": 1744504941,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 450525,
+        "num": 450525,
+        "word": "美方悄然豁免了手机电脑对等关税",
+        "onboard_time": 1744502241,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 407286,
+        "num": 407286,
+        "word": "拒绝上学门诊接待近1万人次",
+        "onboard_time": 1744504941,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 778530,
+        "num": 404232,
+        "word": "女生喉咙痛从就诊到去世仅10分钟",
+        "onboard_time": 1744469426,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 717984,
+        "num": 404188,
+        "word": "10年前辞职看世界的女教师最新回应",
+        "onboard_time": 1744477219,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 501333,
+        "num": 403457,
+        "word": "齐思钧蛋糕",
+        "onboard_time": 1744506322,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 399964,
+        "num": 399964,
+        "word": "留几手说不排斥和女生交往了",
+        "onboard_time": 1744505063,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70067,
+        "num": 391292,
+        "word": "河南66个大风预警信号生效中",
+        "onboard_time": 1744507821,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 389770,
+        "num": 389770,
+        "word": "男子舌头长到能舔胳膊肘",
+        "onboard_time": 1744476799,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 346081,
+        "num": 346081,
+        "word": "美对俄部分制裁措施将延长一年",
+        "onboard_time": 1744506922,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 334082,
+        "num": 334082,
+        "word": "曹承衍 金赛纶",
+        "onboard_time": 1744469785,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260305,
+        "num": 324533,
+        "word": "郝蕾一句话戳穿傅首尔",
+        "onboard_time": 1744501520,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229322,
+        "num": 321805,
+        "word": "薛小婉晒出起诉韩安冉的判决书",
+        "onboard_time": 1744508602,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 360805,
+        "num": 321803,
+        "word": "女子洗澡因热水器漏电致心脏骤停",
+        "onboard_time": 1744503981,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321794,
+        "num": 321794,
+        "word": "全红婵回应获得亚军",
+        "onboard_time": 1744506322,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 293107,
+        "num": 293107,
+        "word": "特朗普把made in china给遮住了",
+        "onboard_time": 1744443084,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 264054,
+        "num": 264054,
+        "word": "陈芋汐回应夺冠",
+        "onboard_time": 1744506741,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236227,
+        "num": 236227,
+        "word": "外贸企业出口转内销库存一扫而空",
+        "onboard_time": 1744507522,
+        "rank": 24,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 218316,
+        "num": 218316,
+        "word": "齐思钧双相",
+        "onboard_time": 1744467385,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213102,
+        "num": 213102,
+        "word": "熬夜睡不够是胃癌的一大诱因",
+        "onboard_time": 1744503921,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 188528,
+        "num": 195794,
+        "word": "登陆少年首次演唱会官宣",
+        "onboard_time": 1744508961,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 171072,
+        "num": 192429,
+        "word": "谢娜录浪姐冷到穿3条秋裤3双袜子",
+        "onboard_time": 1744503560,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147300,
+        "num": 190869,
+        "word": "陈都灵 楚后",
+        "onboard_time": 1744502180,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190505,
+        "num": 190505,
+        "word": "美媒称145%关税无异于对华贸易禁运",
+        "onboard_time": 1744465225,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 184800,
+        "num": 184800,
+        "word": "731部队曾在中国多地投撒细菌",
+        "onboard_time": 1744508481,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179676,
+        "num": 179676,
+        "word": "全红婵赛后采访说不可思议",
+        "onboard_time": 1744506741,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173399,
+        "num": 173399,
+        "word": "无意识变胖的4个习惯",
+        "onboard_time": 1744472183,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 169312,
+        "num": 169312,
+        "word": "美国滥施关税后欧洲领导人访华",
+        "onboard_time": 1744499478,
+        "rank": 34,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 152105,
+        "num": 152105,
+        "word": "男子漂流黄河30公里发现一遗体",
+        "onboard_time": 1744509141,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141505,
+        "num": 141505,
+        "word": "雷公自曝寻子川川成功10月后被拉黑",
+        "onboard_time": 1744487655,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139451,
+        "num": 139451,
+        "word": "沙尘暴",
+        "onboard_time": 1744505241,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138752,
+        "num": 138752,
+        "word": "念无双",
+        "onboard_time": 1744508961,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134555,
+        "num": 134555,
+        "word": "崩坏星穹铁道超话",
+        "onboard_time": 1744508781,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 134318,
+        "num": 134318,
+        "word": "双相情感障碍",
+        "onboard_time": 1744503379,
+        "rank": 40,
+        "category": "健康医疗,艺人"
+      },
+      {
+        "raw_hot": 128645,
+        "num": 128645,
+        "word": "美国免除智能手机电脑对等关税",
+        "onboard_time": 1744468468,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127972,
+        "num": 127972,
+        "word": "看无忧渡第一集满脑子都是Sa",
+        "onboard_time": 1744467686,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122522,
+        "num": 122522,
+        "word": "全红婵有很多王楚钦的表情包",
+        "onboard_time": 1744503502,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117476,
+        "num": 117476,
+        "word": "鞠婧祎这么权威的一张脸",
+        "onboard_time": 1744504882,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111391,
+        "num": 111391,
+        "word": "这苹果被切了几刀瞬间变贵了",
+        "onboard_time": 1744500679,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 111366,
+        "num": 111366,
+        "word": "BLG教练回应两连败",
+        "onboard_time": 1744508361,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108677,
+        "num": 108677,
+        "word": "王楚钦场地热身训练状态爆表",
+        "onboard_time": 1744509260,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101634,
+        "num": 101634,
+        "word": "普京说俄近5年建造了49艘舰艇",
+        "onboard_time": 1744506741,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 94460,
+        "num": 94460,
+        "word": "家里的绿叶菜尽量3天内吃完",
+        "onboard_time": 1744503981,
+        "rank": 49,
+        "category": "美食,民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#打关税战没有赢家#"
+    }
+  }
+}
