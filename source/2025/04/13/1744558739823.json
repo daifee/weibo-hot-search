@@ -1,0 +1,410 @@
+{
+  "runTime": 1744558739823,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1240847,
+        "num": 1240847,
+        "word": "女生替去世前男友照顾家人还债60万",
+        "onboard_time": 1744554864,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 799381,
+        "num": 799381,
+        "word": "店主解释为何女装越做越小",
+        "onboard_time": 1744541421,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272797,
+        "num": 709016,
+        "word": "大张旗鼓加税偷偷摸摸豁免",
+        "onboard_time": 1744553605,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 677468,
+        "num": 677468,
+        "word": "145%关税让1只熊猫玩偶卖80美元",
+        "onboard_time": 1744537883,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 667100,
+        "num": 667100,
+        "word": "折腰",
+        "onboard_time": 1744556122,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 607426,
+        "num": 607426,
+        "word": "孙燕姿演唱会嘉宾林俊杰",
+        "onboard_time": 1744556063,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 489135,
+        "num": 489135,
+        "word": "美国折腾一周不如周末的风动静大",
+        "onboard_time": 1744554803,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 450367,
+        "num": 450367,
+        "word": "陈芋汐两连冠后发博",
+        "onboard_time": 1744554683,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 413639,
+        "num": 413639,
+        "word": "祝绪丹 丁禹兮是弟弟不能选",
+        "onboard_time": 1744556663,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284318,
+        "num": 284318,
+        "word": "姆巴佩红牌",
+        "onboard_time": 1744557203,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1160741,
+        "num": 284060,
+        "word": "李佳琦不建议普通女生做医美",
+        "onboard_time": 1744543761,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 836637,
+        "num": 283800,
+        "word": "女子扮石矶娘娘被一男子辱骂成日本人",
+        "onboard_time": 1744552764,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 746341,
+        "num": 283346,
+        "word": "杨幂 苹果掰开",
+        "onboard_time": 1744549944,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271145,
+        "num": 282884,
+        "word": "威尔斯绝平三分",
+        "onboard_time": 1744557022,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 544435,
+        "num": 282153,
+        "word": "28岁网红因病去世留下4个孩子",
+        "onboard_time": 1744548082,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 430350,
+        "num": 281920,
+        "word": "周杰伦昆凌把旅综录成恋综",
+        "onboard_time": 1744552764,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 364966,
+        "num": 281396,
+        "word": "宋妍霏手纹重到不敢和人握手",
+        "onboard_time": 1744550964,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43233,
+        "num": 280785,
+        "word": "手机租赁平台定价全凭胆量",
+        "onboard_time": 1744558282,
+        "rank": 17,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 280592,
+        "num": 280592,
+        "word": "达利欧称60%美国人文化水平不到初中",
+        "onboard_time": 1744554864,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 275485,
+        "num": 278934,
+        "word": "张远 有一首歌红了真好",
+        "onboard_time": 1744552764,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300411,
+        "num": 278865,
+        "word": "好友为赵丽颖发声",
+        "onboard_time": 1744549103,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278509,
+        "num": 278509,
+        "word": "急性心梗30秒自救方法",
+        "onboard_time": 1744551923,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 271856,
+        "num": 271856,
+        "word": "鸟类感染病毒后脖子扭转180度",
+        "onboard_time": 1744550424,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269900,
+        "num": 269900,
+        "word": "镜妖 季离",
+        "onboard_time": 1744554202,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 251024,
+        "num": 251024,
+        "word": "祝绪丹也是穿上李晟的痛衣了",
+        "onboard_time": 1744553062,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230521,
+        "num": 230521,
+        "word": "无忧渡拍出了琵琶行",
+        "onboard_time": 1744556002,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212532,
+        "num": 212532,
+        "word": "程潇 试试新风格",
+        "onboard_time": 1744556422,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211541,
+        "num": 211541,
+        "word": "让体重逐渐下降的40个冷知识",
+        "onboard_time": 1744536922,
+        "rank": 27,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 196467,
+        "num": 196467,
+        "word": "弟弟找开锁上门后发现姐姐已去世",
+        "onboard_time": 1744540761,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191224,
+        "num": 191224,
+        "word": "无忧渡",
+        "onboard_time": 1744534043,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184586,
+        "num": 184586,
+        "word": "杨舒予总决赛MVP",
+        "onboard_time": 1744553605,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168187,
+        "num": 168187,
+        "word": "白桃星座",
+        "onboard_time": 1744555343,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156169,
+        "num": 156169,
+        "word": "外媒问哪来的自信幻想中国人会跪",
+        "onboard_time": 1744558163,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 154806,
+        "num": 154806,
+        "word": "周深人不能在同一处被刀两次",
+        "onboard_time": 1744557802,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 154433,
+        "num": 154433,
+        "word": "丝塔芙 成毅",
+        "onboard_time": 1744557982,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148932,
+        "num": 148932,
+        "word": "赵丽颖真相无人知谣言四起传",
+        "onboard_time": 1744555583,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142524,
+        "num": 142524,
+        "word": "岳阳楼景区说没游客背滕王阁序",
+        "onboard_time": 1744553424,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134525,
+        "num": 134525,
+        "word": "女生回应替去世前男友还债60万",
+        "onboard_time": 1744557622,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132006,
+        "num": 132006,
+        "word": "汪苏泷断眉",
+        "onboard_time": 1744551203,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 130203,
+        "num": 130203,
+        "word": "毛不易在抖包袱的时候抖包袱",
+        "onboard_time": 1744557682,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 129245,
+        "num": 129245,
+        "word": "商务部回应美豁免部分产品关税",
+        "onboard_time": 1744544182,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 128591,
+        "num": 128591,
+        "word": "25岁歌手演出第二天猝死",
+        "onboard_time": 1744548262,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126040,
+        "num": 126040,
+        "word": "电瓶燃爆烧伤男生称无法原谅室友",
+        "onboard_time": 1744546342,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125051,
+        "num": 125051,
+        "word": "多地发布暴雪蓝色预警",
+        "onboard_time": 1744558401,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123853,
+        "num": 123853,
+        "word": "阿拉维斯vs皇马",
+        "onboard_time": 1744557504,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113764,
+        "num": 113764,
+        "word": "桃黑黑 不直播",
+        "onboard_time": 1744549883,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 112542,
+        "num": 112542,
+        "word": "真正滋养生命的3种爱好",
+        "onboard_time": 1744554324,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108566,
+        "num": 108566,
+        "word": "尹锡悦戴红帽子让韩国再次伟大",
+        "onboard_time": 1744544001,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 104265,
+        "num": 104265,
+        "word": "妈妈监控中发现孩子情绪异常查出脱臼",
+        "onboard_time": 1744558702,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37490,
+        "num": 99827,
+        "word": "王曼昱穿蓝帽衫亮相世界杯晚宴",
+        "onboard_time": 1744552944,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中越山水相连文化相通#"
+    }
+  }
+}
