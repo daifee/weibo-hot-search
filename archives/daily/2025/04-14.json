@@ -1,6 +1,6 @@
 {
   "startTime": 1744561767834,
-  "endTime": 1744564823601,
+  "endTime": 1744565894577,
   "band_list": [
     {
       "raw_hot": 1234974,
@@ -473,6 +473,30 @@
       "onboard_time": 1744561161,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37940,
+      "num": 37940,
+      "word": "周震南这把鲨疯了",
+      "onboard_time": 1744559302,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 34888,
+      "num": 34888,
+      "word": "25岁歌手演出第二天猝死",
+      "onboard_time": 1744548262,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 34088,
+      "num": 34088,
+      "word": "杨某人 期待未来的每一场比赛",
+      "onboard_time": 1744565116,
+      "rank": 47,
+      "category": "电竞"
     }
   ],
   "hotgov_list": [
