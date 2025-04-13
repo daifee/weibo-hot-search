@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744536290872,
+  "endTime": 1744537125324,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -1907,6 +1907,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1267929,
+      "num": 690421,
+      "word": "张小婉回应踩了谢娜裙子",
+      "onboard_time": 1744533143,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1267072,
       "num": 1267072,
       "word": "电脑微信会惩罚每一个分手的人",
@@ -2177,14 +2185,6 @@
       "onboard_time": 1743580703,
       "rank": 4,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1163036,
-      "num": 565120,
-      "word": "张小婉回应踩了谢娜裙子",
-      "onboard_time": 1744533143,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 1162291,
@@ -7795,6 +7795,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 450403,
+      "num": 450403,
+      "word": "白鹿张凌赫周深等火到越南了",
+      "onboard_time": 1744535420,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 448912,
       "num": 507865,
       "word": "阿尔曼疑似被严浩翔淘汰",
@@ -9467,14 +9475,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 371008,
-      "num": 354563,
-      "word": "白鹿张凌赫周深等火到越南了",
-      "onboard_time": 1744535420,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 370831,
       "num": 370831,
       "word": "专家建议利用美股暴跌把股市搞起来",
@@ -10211,6 +10211,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 346822,
+      "num": 516273,
+      "word": "中方正在和多国共同应对美滥施关税",
+      "onboard_time": 1744531822,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 346590,
+      "num": 346590,
+      "word": "折腰速抬",
+      "onboard_time": 1744536202,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 346363,
       "num": 346363,
       "word": "杜小华提出公布入室抢婴案嫌犯照片",
@@ -10489,14 +10505,6 @@
       "onboard_time": 1744190723,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 336157,
-      "num": 516273,
-      "word": "中方正在和多国共同应对美滥施关税",
-      "onboard_time": 1744531822,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 335430,
@@ -12289,6 +12297,14 @@
       "onboard_time": 1744469245,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 288927,
+      "num": 288927,
+      "word": "迪丽热巴挡脸自拍",
+      "onboard_time": 1744534643,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 288923,
@@ -15051,6 +15067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 228982,
+      "num": 228982,
+      "word": "中国选手包揽羽毛球亚锦赛女单金银",
+      "onboard_time": 1744535962,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 228949,
       "num": 228949,
       "word": "特朗普家族参与加密货币获巨额利益",
@@ -15617,14 +15641,6 @@
       "onboard_time": 1743993923,
       "rank": 19,
       "category": "数码"
-    },
-    {
-      "raw_hot": 221852,
-      "num": 221852,
-      "word": "迪丽热巴挡脸自拍",
-      "onboard_time": 1744534643,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 221694,
@@ -17107,20 +17123,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 206005,
+      "num": 206005,
+      "word": "泰国宋干节",
+      "onboard_time": 1744535183,
+      "rank": 31,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 205973,
       "num": 205973,
       "word": "愚人节站姐发的肖战",
       "onboard_time": 1743481586,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 205891,
-      "num": 205891,
-      "word": "中国选手包揽羽毛球亚锦赛女单金银",
-      "onboard_time": 1744535962,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 205796,
@@ -22419,14 +22435,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 168515,
-      "num": 168515,
-      "word": "泰国宋干节",
-      "onboard_time": 1744535183,
-      "rank": 31,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 168493,
       "num": 213638,
       "word": "蒲熠星shape of you",
@@ -22681,6 +22689,14 @@
       "onboard_time": 1743672023,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166906,
+      "num": 166906,
+      "word": "九尾时隔227天重登赛场",
+      "onboard_time": 1744536742,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 166905,
@@ -23075,6 +23091,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 164196,
+      "num": 164196,
+      "word": "丁禹兮线上线下宣传齐思钧新书",
+      "onboard_time": 1744536801,
+      "rank": 31,
+      "category": "艺人,读书作家"
+    },
+    {
       "raw_hot": 164105,
       "num": 164105,
       "word": "陈妍希杨丞琳潘玮柏合影",
@@ -23105,6 +23129,14 @@
       "onboard_time": 1744447404,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164017,
+      "num": 164017,
+      "word": "陈若琳全红婵走的每一步她都经历过",
+      "onboard_time": 1744535002,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 163931,
@@ -23225,6 +23257,14 @@
       "onboard_time": 1743679882,
       "rank": 32,
       "category": "美食"
+    },
+    {
+      "raw_hot": 162931,
+      "num": 162931,
+      "word": "让体重逐渐下降的40个冷知识",
+      "onboard_time": 1744536922,
+      "rank": 33,
+      "category": "运动健身"
     },
     {
       "raw_hot": 162900,
@@ -26467,14 +26507,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 142767,
-      "num": 142767,
-      "word": "陈若琳全红婵走的每一步她都经历过",
-      "onboard_time": 1744535002,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 142709,
       "num": 142709,
       "word": "一个小绵羊可以集齐男人帮",
@@ -27059,6 +27091,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 139193,
+      "num": 139193,
+      "word": "鬼灭之刃无限城篇我妻善逸",
+      "onboard_time": 1744536202,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 139178,
       "num": 139178,
       "word": "乌云之上一晚三杀",
@@ -27595,6 +27635,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 136032,
+      "num": 136032,
+      "word": "赵丽颖向阳花角色有多颠覆",
+      "onboard_time": 1744535962,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 136015,
       "num": 136015,
       "word": "国际乒联",
@@ -27977,14 +28025,6 @@
       "onboard_time": 1744139954,
       "rank": 27,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 134083,
-      "num": 134083,
-      "word": "折腰速抬",
-      "onboard_time": 1744536202,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 134062,
@@ -28803,6 +28843,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 129596,
+      "num": 129596,
+      "word": "数饺子",
+      "onboard_time": 1744533082,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 129576,
       "num": 129576,
       "word": "迈阿密国际vs洛杉矶FC",
@@ -29363,6 +29411,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 126103,
+      "num": 126103,
+      "word": "孙燕姿演唱会cue李泽珑张钰琪",
+      "onboard_time": 1744535420,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 125980,
       "num": 264978,
       "word": "李泽锋说这次在剧里绝对不出轨",
@@ -29633,14 +29689,6 @@
       "onboard_time": 1743951803,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 124465,
-      "num": 124465,
-      "word": "赵丽颖向阳花角色有多颠覆",
-      "onboard_time": 1744535962,
-      "rank": 43,
-      "category": "电影"
     },
     {
       "raw_hot": 124444,
@@ -30195,14 +30243,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 120621,
-      "num": 120621,
-      "word": "孙燕姿演唱会cue李泽珑张钰琪",
-      "onboard_time": 1744535420,
-      "rank": 45,
-      "category": "演出"
-    },
-    {
       "raw_hot": 120574,
       "num": 120574,
       "word": "向鹏14比12弗朗西斯卡",
@@ -30297,14 +30337,6 @@
       "onboard_time": 1744028482,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 120158,
-      "num": 120158,
-      "word": "鬼灭之刃无限城篇我妻善逸",
-      "onboard_time": 1744536202,
-      "rank": 46,
-      "category": "动漫"
     },
     {
       "raw_hot": 120143,
@@ -31289,6 +31321,14 @@
       "onboard_time": 1743587061,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 114130,
+      "num": 114130,
+      "word": "孙颖莎训练志强在后面边看边笑",
+      "onboard_time": 1744536562,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 114104,
@@ -32369,14 +32409,6 @@
       "onboard_time": 1744466845,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 105445,
-      "num": 105445,
-      "word": "数饺子",
-      "onboard_time": 1744533082,
-      "rank": 45,
-      "category": "演出"
     },
     {
       "raw_hot": 105438,

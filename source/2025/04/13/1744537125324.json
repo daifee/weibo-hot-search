@@ -1,0 +1,410 @@
+{
+  "runTime": 1744537125324,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1427823,
+        "num": 1427823,
+        "word": "赵丽颖 转型",
+        "onboard_time": 1744530322,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 936066,
+        "num": 936066,
+        "word": "特朗普政府再度退缩",
+        "onboard_time": 1744524021,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 153460,
+        "num": 695918,
+        "word": "美国多次发动关税战并受到惨痛教训",
+        "onboard_time": 1744531944,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1267929,
+        "num": 690421,
+        "word": "张小婉回应踩了谢娜裙子",
+        "onboard_time": 1744533143,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 574797,
+        "num": 574797,
+        "word": "何同学 网约车",
+        "onboard_time": 1744534582,
+        "rank": 4,
+        "category": "数码,网红"
+      },
+      {
+        "raw_hot": 1216242,
+        "num": 540955,
+        "word": "杭州一9岁男孩高楼坠下身亡",
+        "onboard_time": 1744529960,
+        "rank": 5,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 505928,
+        "num": 505928,
+        "word": "卖劳力士收了37万多后银行卡被冻结",
+        "onboard_time": 1744528220,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 487214,
+        "num": 487214,
+        "word": "当年王宝强在跑男录制的好好的",
+        "onboard_time": 1744519101,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 450403,
+        "num": 450403,
+        "word": "白鹿张凌赫周深等火到越南了",
+        "onboard_time": 1744535420,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385302,
+        "num": 385302,
+        "word": "小伙给婚恋公司交17万第2天就领证",
+        "onboard_time": 1744533801,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 349743,
+        "num": 349743,
+        "word": "韩国花商拟在云南买520万枝花",
+        "onboard_time": 1744530681,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 346822,
+        "num": 346822,
+        "word": "中方正在和多国共同应对美滥施关税",
+        "onboard_time": 1744531822,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 346590,
+        "num": 346590,
+        "word": "折腰速抬",
+        "onboard_time": 1744536202,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 337563,
+        "num": 337563,
+        "word": "谢娜说别拜了踩我裙子了",
+        "onboard_time": 1744528100,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 296531,
+        "num": 296531,
+        "word": "表妹万福",
+        "onboard_time": 1744530021,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 288927,
+        "num": 288927,
+        "word": "迪丽热巴挡脸自拍",
+        "onboard_time": 1744534643,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255881,
+        "num": 255881,
+        "word": "任教31年临退休遭解聘教师发声",
+        "onboard_time": 1744529780,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250163,
+        "num": 250163,
+        "word": "陈雨菲亚锦赛夺冠",
+        "onboard_time": 1744534461,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228982,
+        "num": 228982,
+        "word": "中国选手包揽羽毛球亚锦赛女单金银",
+        "onboard_time": 1744535962,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50992,
+        "num": 227628,
+        "word": "辛选蛋蛋山东直播间爆单助农",
+        "onboard_time": 1744533862,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 276817,
+        "num": 224710,
+        "word": "网传宋祖儿周翊然演表妹万福",
+        "onboard_time": 1744532422,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 270630,
+        "num": 222907,
+        "word": "无忧渡",
+        "onboard_time": 1744534043,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258921,
+        "num": 221279,
+        "word": "双相情感障碍又叫天才病",
+        "onboard_time": 1744522463,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219404,
+        "num": 219404,
+        "word": "赵露思哭戏",
+        "onboard_time": 1744525401,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 218021,
+        "num": 218021,
+        "word": "女生喉咙痛从就诊到去世仅10分钟",
+        "onboard_time": 1744469426,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206005,
+        "num": 206005,
+        "word": "泰国宋干节",
+        "onboard_time": 1744535183,
+        "rank": 25,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 184943,
+        "num": 184943,
+        "word": "官方通报杭州一男孩27楼坠亡",
+        "onboard_time": 1744527561,
+        "rank": 26,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 181697,
+        "num": 181697,
+        "word": "贺峻霖 offer7",
+        "onboard_time": 1744535301,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173476,
+        "num": 173476,
+        "word": "谁来管管现在的女装",
+        "onboard_time": 1744515141,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172527,
+        "num": 172527,
+        "word": "胖东来工资单",
+        "onboard_time": 1744514179,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 166906,
+        "num": 166906,
+        "word": "九尾时隔227天重登赛场",
+        "onboard_time": 1744536742,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 164196,
+        "num": 164196,
+        "word": "丁禹兮线上线下宣传齐思钧新书",
+        "onboard_time": 1744536801,
+        "rank": 31,
+        "category": "艺人,读书作家"
+      },
+      {
+        "raw_hot": 164017,
+        "num": 164017,
+        "word": "陈若琳全红婵走的每一步她都经历过",
+        "onboard_time": 1744535002,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162931,
+        "num": 162931,
+        "word": "让体重逐渐下降的40个冷知识",
+        "onboard_time": 1744536922,
+        "rank": 33,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 152275,
+        "num": 152275,
+        "word": "撒贝宁王鸥包鱼丸互怼太欢乐",
+        "onboard_time": 1744534461,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141682,
+        "num": 141682,
+        "word": "甲亢哥对中国惦念不忘发文表白",
+        "onboard_time": 1744524081,
+        "rank": 35,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 141601,
+        "num": 141601,
+        "word": "何广智说缺爱的人爱是具体的",
+        "onboard_time": 1744534703,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139742,
+        "num": 139742,
+        "word": "无忧渡首日云合",
+        "onboard_time": 1744533801,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139193,
+        "num": 139193,
+        "word": "鬼灭之刃无限城篇我妻善逸",
+        "onboard_time": 1744536202,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 136032,
+        "num": 136032,
+        "word": "赵丽颖向阳花角色有多颠覆",
+        "onboard_time": 1744535962,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129596,
+        "num": 129596,
+        "word": "数饺子",
+        "onboard_time": 1744533082,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 126103,
+        "num": 126103,
+        "word": "孙燕姿演唱会cue李泽珑张钰琪",
+        "onboard_time": 1744535420,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 120701,
+        "num": 120701,
+        "word": "王一博采访刘冲",
+        "onboard_time": 1744531462,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 120627,
+        "num": 120627,
+        "word": "武契奇称颜色革命已结束",
+        "onboard_time": 1744533443,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 120091,
+        "num": 120091,
+        "word": "院人0713为齐思钧新书打call",
+        "onboard_time": 1744529661,
+        "rank": 44,
+        "category": "艺人,读书作家"
+      },
+      {
+        "raw_hot": 119837,
+        "num": 119837,
+        "word": "彭小苒红墙下的彝族姑娘",
+        "onboard_time": 1744535662,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 119825,
+        "num": 119825,
+        "word": "孙颖莎邱贻可对拉马琳支招",
+        "onboard_time": 1744535183,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118360,
+        "num": 118360,
+        "word": "广东沙尘暴",
+        "onboard_time": 1744513521,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117078,
+        "num": 117078,
+        "word": "倪虹洁 不敢拒绝任何工作机会",
+        "onboard_time": 1744532722,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114130,
+        "num": 114130,
+        "word": "孙颖莎训练志强在后面边看边笑",
+        "onboard_time": 1744536562,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平强调这个问题绝不是小事#"
+    }
+  }
+}
