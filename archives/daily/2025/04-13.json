@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744533758999,
+  "endTime": 1744536290872,
   "band_list": [
     {
       "raw_hot": 1958059,
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1291731,
+      "num": 1032654,
+      "word": "杭州一9岁男孩高楼坠下身亡",
+      "onboard_time": 1744529960,
+      "rank": 3,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 1208369,
       "num": 507574,
       "word": "谢娜说别拜了踩我裙子了",
@@ -73,6 +81,14 @@
       "onboard_time": 1744465225,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1163036,
+      "num": 565120,
+      "word": "张小婉回应踩了谢娜裙子",
+      "onboard_time": 1744533143,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 1162291,
@@ -121,14 +137,6 @@
       "onboard_time": 1744524081,
       "rank": 3,
       "category": "网红,民生新闻"
-    },
-    {
-      "raw_hot": 1032654,
-      "num": 1032654,
-      "word": "杭州一9岁男孩高楼坠下身亡",
-      "onboard_time": 1744529960,
-      "rank": 3,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 1027341,
@@ -483,6 +491,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 396077,
+      "num": 396077,
+      "word": "小伙给婚恋公司交17万第2天就领证",
+      "onboard_time": 1744533801,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 371008,
+      "num": 354563,
+      "word": "白鹿张凌赫周深等火到越南了",
+      "onboard_time": 1744535420,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 370617,
       "num": 546228,
       "word": "中国企业集体出手无惧关税大棒",
@@ -515,6 +539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 354196,
+      "num": 354196,
+      "word": "何同学 网约车",
+      "onboard_time": 1744534582,
+      "rank": 12,
+      "category": "数码,网红"
+    },
+    {
       "raw_hot": 347986,
       "num": 347986,
       "word": "齐思钧生日发文",
@@ -539,6 +571,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 336157,
+      "num": 516273,
+      "word": "中方正在和多国共同应对美滥施关税",
+      "onboard_time": 1744531822,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 331809,
+      "num": 331809,
+      "word": "陈雨菲亚锦赛夺冠",
+      "onboard_time": 1744534461,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 328292,
       "num": 178102,
       "word": "陈芋汐10米台冠军",
@@ -560,6 +608,14 @@
       "word": "网传宋祖儿周翊然演表妹万福",
       "onboard_time": 1744532422,
       "rank": 20,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 301531,
+      "num": 301531,
+      "word": "无忧渡",
+      "onboard_time": 1744456823,
+      "rank": 18,
       "category": "剧集"
     },
     {
@@ -595,14 +651,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 273907,
-      "num": 174538,
-      "word": "张小婉回应踩了谢娜裙子",
-      "onboard_time": 1744533143,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 270693,
       "num": 503112,
       "word": "中国制造商明确表示不会降价保订单",
@@ -617,14 +665,6 @@
       "onboard_time": 1744455144,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 265932,
-      "num": 516273,
-      "word": "中方正在和多国共同应对美滥施关税",
-      "onboard_time": 1744531822,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 264054,
@@ -707,6 +747,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 228062,
+      "num": 228062,
+      "word": "贺峻霖 offer7",
+      "onboard_time": 1744535301,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 227362,
       "num": 193325,
       "word": "生理性厌恶的8个表现",
@@ -729,6 +777,14 @@
       "onboard_time": 1744466064,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 221852,
+      "num": 221852,
+      "word": "迪丽热巴挡脸自拍",
+      "onboard_time": 1744534643,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 218481,
@@ -787,20 +843,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 207835,
-      "num": 207835,
-      "word": "无忧渡",
-      "onboard_time": 1744456823,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 206628,
       "num": 206628,
       "word": "朴成训上岸",
       "onboard_time": 1744524261,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 205891,
+      "num": 205891,
+      "word": "中国选手包揽羽毛球亚锦赛女单金银",
+      "onboard_time": 1744535962,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 204493,
@@ -939,6 +995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187811,
+      "num": 187811,
+      "word": "无忧渡首日云合",
+      "onboard_time": 1744533801,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186946,
       "num": 186946,
       "word": "白敬亭因为帅被偶遇网友认出",
@@ -985,6 +1049,14 @@
       "onboard_time": 1744513581,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 181807,
+      "num": 181807,
+      "word": "撒贝宁王鸥包鱼丸互怼太欢乐",
+      "onboard_time": 1744534461,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 179676,
@@ -1073,6 +1145,14 @@
       "onboard_time": 1744499478,
       "rank": 31,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 168515,
+      "num": 168515,
+      "word": "泰国宋干节",
+      "onboard_time": 1744535183,
+      "rank": 31,
+      "category": "旅游"
     },
     {
       "raw_hot": 168493,
@@ -1187,6 +1267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154984,
+      "num": 1033470,
+      "word": "美国多次发动关税战并受到惨痛教训",
+      "onboard_time": 1744531944,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 153364,
       "num": 153364,
       "word": "林珍娜二次狙击金善旴",
@@ -1201,6 +1289,14 @@
       "onboard_time": 1744487655,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151595,
+      "num": 151595,
+      "word": "彭小苒红墙下的彝族姑娘",
+      "onboard_time": 1744535662,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 150896,
@@ -1265,6 +1361,22 @@
       "onboard_time": 1744525162,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 142767,
+      "num": 142767,
+      "word": "陈若琳全红婵走的每一步她都经历过",
+      "onboard_time": 1744535002,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 142599,
+      "num": 142599,
+      "word": "何广智说缺爱的人爱是具体的",
+      "onboard_time": 1744534703,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 142325,
@@ -1363,6 +1475,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 136455,
+      "num": 136455,
+      "word": "孙颖莎邱贻可对拉马琳支招",
+      "onboard_time": 1744535183,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136015,
       "num": 136015,
       "word": "国际乒联",
@@ -1393,6 +1513,14 @@
       "onboard_time": 1744503379,
       "rank": 40,
       "category": "健康医疗,艺人"
+    },
+    {
+      "raw_hot": 134083,
+      "num": 134083,
+      "word": "折腰速抬",
+      "onboard_time": 1744536202,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 133200,
@@ -1491,6 +1619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124465,
+      "num": 124465,
+      "word": "赵丽颖向阳花角色有多颠覆",
+      "onboard_time": 1744535962,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 123662,
       "num": 123662,
       "word": "哈妮克孜演技",
@@ -1513,6 +1649,22 @@
       "onboard_time": 1744521922,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120621,
+      "num": 120621,
+      "word": "孙燕姿演唱会cue李泽珑张钰琪",
+      "onboard_time": 1744535420,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 120158,
+      "num": 120158,
+      "word": "鬼灭之刃无限城篇我妻善逸",
+      "onboard_time": 1744536202,
+      "rank": 46,
+      "category": "动漫"
     },
     {
       "raw_hot": 119740,
@@ -1563,14 +1715,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 118027,
-      "num": 1033470,
-      "word": "美国多次发动关税战并受到惨痛教训",
-      "onboard_time": 1744531944,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 117774,
       "num": 236191,
       "word": "英政府紧急出手救助钢铁行业",
@@ -1584,6 +1728,14 @@
       "word": "鞠婧祎这么权威的一张脸",
       "onboard_time": 1744504882,
       "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 116962,
+      "num": 116962,
+      "word": "关晓彤王子奇新剧路透",
+      "onboard_time": 1744535482,
+      "rank": 49,
       "category": "剧集"
     },
     {
@@ -1779,6 +1931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 99860,
+      "num": 142678,
+      "word": "中越经贸合作成果丰硕",
+      "onboard_time": 1744532542,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 99334,
       "num": 99334,
       "word": "范丞丞千金不换演特殊群体",
@@ -1937,6 +2097,14 @@
       "onboard_time": 1744515141,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 74995,
+      "num": 259157,
+      "word": "辛选蛋蛋山东直播间爆单助农",
+      "onboard_time": 1744533862,
+      "rank": 19,
+      "category": "网红"
     },
     {
       "raw_hot": 70067,
@@ -2195,14 +2363,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 21172,
-      "num": 138981,
-      "word": "中越经贸合作成果丰硕",
-      "onboard_time": 1744532542,
-      "rank": 32,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 20449,
       "num": 26146,
       "word": "种地吧",
@@ -2314,6 +2474,9 @@
     },
     {
       "word": "#习近平强调这个问题绝不是小事#"
+    },
+    {
+      "word": "#中印尼建交75周年#"
     }
   ]
 }
