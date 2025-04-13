@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744543152296,
+  "endTime": 1744544182417,
   "band_list": [
     {
       "raw_hot": 3004197,
@@ -35,6 +35,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1685075,
+      "num": 1685075,
+      "word": "店主解释为何女装越做越小",
+      "onboard_time": 1744541421,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1669739,
       "num": 1669739,
       "word": "特朗普政府再度退缩",
@@ -65,14 +73,6 @@
       "onboard_time": 1744504222,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1365348,
-      "num": 1365348,
-      "word": "店主解释为何女装越做越小",
-      "onboard_time": 1744541421,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1291731,
@@ -131,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1085189,
+      "num": 1085189,
+      "word": "弟弟找开锁上门后发现姐姐已去世",
+      "onboard_time": 1744540761,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1069363,
       "num": 1069363,
       "word": "陈若琳回应全红婵生长发育期",
@@ -153,14 +161,6 @@
       "onboard_time": 1744524081,
       "rank": 3,
       "category": "网红,民生新闻"
-    },
-    {
-      "raw_hot": 1052581,
-      "num": 258559,
-      "word": "弟弟找开锁上门后发现姐姐已去世",
-      "onboard_time": 1744540761,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1027341,
@@ -435,6 +435,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 504094,
+      "num": 504094,
+      "word": "珀莱雅 易烊千玺",
+      "onboard_time": 1744540401,
+      "rank": 17,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 501333,
       "num": 403457,
       "word": "齐思钧蛋糕",
@@ -465,14 +473,6 @@
       "onboard_time": 1744529780,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 481588,
-      "num": 352264,
-      "word": "珀莱雅 易烊千玺",
-      "onboard_time": 1744540401,
-      "rank": 17,
-      "category": "艺人,美妆"
     },
     {
       "raw_hot": 459500,
@@ -667,6 +667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 324785,
+      "num": 311874,
+      "word": "柳智敏樱花粉裙",
+      "onboard_time": 1744542442,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 324342,
       "num": 324342,
       "word": "特朗普大厦商店用价签遮盖中国制造",
@@ -729,6 +737,14 @@
       "onboard_time": 1744510220,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 285735,
+      "num": 285735,
+      "word": "7岁男孩上学途中遭3只大型犬撕咬",
+      "onboard_time": 1744541001,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 281704,
@@ -899,6 +915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 220612,
+      "num": 199169,
+      "word": "李佳琦不建议普通女生做医美",
+      "onboard_time": 1744543761,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
       "raw_hot": 218481,
       "num": 285586,
       "word": "塔吉克斯坦5.8级地震",
@@ -931,22 +955,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 213477,
-      "num": 213477,
-      "word": "柳智敏樱花粉裙",
-      "onboard_time": 1744542442,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 213189,
-      "num": 213189,
-      "word": "7岁男孩上学途中遭3只大型犬撕咬",
-      "onboard_time": 1744541001,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 213102,
       "num": 213102,
       "word": "熬夜睡不够是胃癌的一大诱因",
@@ -961,6 +969,14 @@
       "onboard_time": 1744541842,
       "rank": 26,
       "category": "网红"
+    },
+    {
+      "raw_hot": 212561,
+      "num": 196461,
+      "word": "Nicholas公式照",
+      "onboard_time": 1744543041,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 210459,
@@ -1027,12 +1043,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 202516,
+      "num": 202516,
+      "word": "仙逆",
+      "onboard_time": 1744540761,
+      "rank": 33,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 201137,
       "num": 184158,
       "word": "划区",
       "onboard_time": 1744518922,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 201116,
+      "num": 312188,
+      "word": "三河强换商户招牌需给公众一个交代",
+      "onboard_time": 1744539622,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 199588,
@@ -1081,14 +1113,6 @@
       "onboard_time": 1744529361,
       "rank": 23,
       "category": "网红,民生新闻"
-    },
-    {
-      "raw_hot": 196461,
-      "num": 196461,
-      "word": "Nicholas公式照",
-      "onboard_time": 1744543041,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 193636,
@@ -1380,7 +1404,7 @@
     },
     {
       "raw_hot": 163306,
-      "num": 1033470,
+      "num": 1313806,
       "word": "美国多次发动关税战并受到惨痛教训",
       "onboard_time": 1744531944,
       "rank": 2,
@@ -1427,20 +1451,20 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 158687,
+      "num": 158687,
+      "word": "徐志胜 免费的鸡",
+      "onboard_time": 1744541601,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158202,
       "num": 158202,
       "word": "国产剧最浪漫的兔子出现了",
       "onboard_time": 1744529721,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 157185,
-      "num": 157185,
-      "word": "徐志胜 免费的鸡",
-      "onboard_time": 1744541601,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 156753,
@@ -1467,12 +1491,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 152389,
-      "num": 229237,
-      "word": "三河强换商户招牌需给公众一个交代",
-      "onboard_time": 1744539622,
-      "rank": 36,
-      "category": "民生新闻"
+      "raw_hot": 152050,
+      "num": 152050,
+      "word": "千秋令一脚踩碎替身文学",
+      "onboard_time": 1744543102,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 151595,
@@ -1553,6 +1577,14 @@
       "onboard_time": 1744525162,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 142765,
+      "num": 142765,
+      "word": "蒲熠星上完英语课上舞蹈课",
+      "onboard_time": 1744543522,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 142599,
@@ -1643,6 +1675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138290,
+      "num": 138290,
+      "word": "瘦不下来可能是因为湿气重",
+      "onboard_time": 1744539802,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 138213,
       "num": 138213,
       "word": "许嵩领着一队男模走T台秀",
@@ -1707,6 +1747,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 134681,
+      "num": 134681,
+      "word": "黄仁俊罗渽民新发色",
+      "onboard_time": 1744543700,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 134555,
       "num": 134555,
       "word": "崩坏星穹铁道超话",
@@ -1721,22 +1769,6 @@
       "onboard_time": 1744503379,
       "rank": 40,
       "category": "健康医疗,艺人"
-    },
-    {
-      "raw_hot": 133946,
-      "num": 133946,
-      "word": "仙逆",
-      "onboard_time": 1744540761,
-      "rank": 33,
-      "category": "动漫"
-    },
-    {
-      "raw_hot": 133937,
-      "num": 133937,
-      "word": "瘦不下来可能是因为湿气重",
-      "onboard_time": 1744539802,
-      "rank": 39,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 133200,
@@ -1760,6 +1792,14 @@
       "word": "武契奇称颜色革命已结束",
       "onboard_time": 1744533443,
       "rank": 34,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 132012,
+      "num": 132012,
+      "word": "尹锡悦戴红帽子让韩国再次伟大",
+      "onboard_time": 1744544001,
+      "rank": 36,
       "category": "国际时政"
     },
     {
@@ -1817,6 +1857,14 @@
       "onboard_time": 1744500679,
       "rank": 45,
       "category": "美食"
+    },
+    {
+      "raw_hot": 128401,
+      "num": 128401,
+      "word": "谢可寅 就是喜欢丑东西",
+      "onboard_time": 1744543761,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 127736,
@@ -1913,6 +1961,14 @@
       "onboard_time": 1744542321,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121115,
+      "num": 121115,
+      "word": "小朋友用冰箱贴打造mini博物馆",
+      "onboard_time": 1744542682,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120636,
@@ -2019,6 +2075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 115307,
+      "num": 194196,
+      "word": "那个抱起全红婵的英国女孩",
+      "onboard_time": 1744543162,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115240,
       "num": 115240,
       "word": "左航右航中航",
@@ -2081,6 +2145,14 @@
       "onboard_time": 1744508361,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 111233,
+      "num": 111233,
+      "word": "无忧渡 夜半三更",
+      "onboard_time": 1744543942,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 110383,
@@ -2163,6 +2235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 106640,
+      "num": 106640,
+      "word": "被3只大型犬撕咬男孩母亲发声",
+      "onboard_time": 1744543343,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105955,
       "num": 105955,
       "word": "五哈直播",
@@ -2179,6 +2259,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 105665,
+      "num": 105665,
+      "word": "时代少年团四专先行曲试听",
+      "onboard_time": 1744544062,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 105300,
       "num": 105300,
       "word": "Gr 年锦",
@@ -2187,28 +2275,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 103327,
-      "num": 103327,
-      "word": "小朋友用冰箱贴打造mini博物馆",
-      "onboard_time": 1744542682,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 102430,
       "num": 102430,
       "word": "日本大阪世博会中国馆正式开馆",
       "onboard_time": 1744539982,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 102209,
-      "num": 102209,
-      "word": "千秋令一脚踩碎替身文学",
-      "onboard_time": 1744543102,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 101942,
@@ -2539,6 +2611,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 48536,
+      "num": 274127,
+      "word": "中国明星数学家夫妇旅美数十年后回国",
+      "onboard_time": 1744542381,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47299,
       "num": 48367,
       "word": "BLG对战JDG",
@@ -2667,14 +2747,6 @@
       "category": "国际时政,财经"
     },
     {
-      "raw_hot": 27753,
-      "num": 257294,
-      "word": "中国明星数学家夫妇旅美数十年后回国",
-      "onboard_time": 1744542381,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 26291,
       "num": 242841,
       "word": "耶伦批特朗普贸易政策是严重自残",
@@ -2745,6 +2817,14 @@
       "onboard_time": 1744483875,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 19098,
+      "num": 118759,
+      "word": "大阪世博会今日开幕",
+      "onboard_time": 1744543343,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 19089,

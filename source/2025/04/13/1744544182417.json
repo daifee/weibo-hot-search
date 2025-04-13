@@ -1,0 +1,410 @@
+{
+  "runTime": 1744544182417,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2122321,
+        "num": 2122321,
+        "word": "145%关税让1只熊猫玩偶卖80美元",
+        "onboard_time": 1744537883,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1685075,
+        "num": 1685075,
+        "word": "店主解释为何女装越做越小",
+        "onboard_time": 1744541421,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132305,
+        "num": 1313806,
+        "word": "美国多次发动关税战并受到惨痛教训",
+        "onboard_time": 1744531944,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1085189,
+        "num": 1085189,
+        "word": "弟弟找开锁上门后发现姐姐已去世",
+        "onboard_time": 1744540761,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 729189,
+        "num": 729189,
+        "word": "赵丽颖 转型",
+        "onboard_time": 1744530322,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 565044,
+        "num": 565044,
+        "word": "折腰速抬",
+        "onboard_time": 1744536202,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 504094,
+        "num": 504094,
+        "word": "珀莱雅 易烊千玺",
+        "onboard_time": 1744540401,
+        "rank": 6,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 393782,
+        "num": 393782,
+        "word": "白鹿张凌赫周深等火到越南了",
+        "onboard_time": 1744535420,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320316,
+        "num": 320316,
+        "word": "特朗普大厦商店用价签遮盖中国制造",
+        "onboard_time": 1744539262,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 201116,
+        "num": 312188,
+        "word": "三河强换商户招牌需给公众一个交代",
+        "onboard_time": 1744539622,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 383782,
+        "num": 312054,
+        "word": "杭州一9岁男孩高楼坠下身亡",
+        "onboard_time": 1744529960,
+        "rank": 10,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 324785,
+        "num": 311874,
+        "word": "柳智敏樱花粉裙",
+        "onboard_time": 1744542442,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311516,
+        "num": 311516,
+        "word": "特朗普政府再度退缩",
+        "onboard_time": 1744524021,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 285735,
+        "num": 285735,
+        "word": "7岁男孩上学途中遭3只大型犬撕咬",
+        "onboard_time": 1744541001,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48536,
+        "num": 274127,
+        "word": "中国明星数学家夫妇旅美数十年后回国",
+        "onboard_time": 1744542381,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272088,
+        "num": 272088,
+        "word": "卖劳力士收了37万多后银行卡被冻结",
+        "onboard_time": 1744528220,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267216,
+        "num": 267216,
+        "word": "无忧渡",
+        "onboard_time": 1744534043,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223605,
+        "num": 223605,
+        "word": "章若楠中国人民大学路演",
+        "onboard_time": 1744537281,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202516,
+        "num": 202516,
+        "word": "仙逆",
+        "onboard_time": 1744540761,
+        "rank": 18,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 178208,
+        "num": 202081,
+        "word": "卤鹅哥讲述文和友直播事件经过",
+        "onboard_time": 1744541842,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 329376,
+        "num": 199982,
+        "word": "让体重逐渐下降的40个冷知识",
+        "onboard_time": 1744536922,
+        "rank": 20,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 220612,
+        "num": 199169,
+        "word": "李佳琦不建议普通女生做医美",
+        "onboard_time": 1744543761,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 217592,
+        "num": 196364,
+        "word": "双鹿 苏新皓",
+        "onboard_time": 1744538481,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212561,
+        "num": 196077,
+        "word": "Nicholas公式照",
+        "onboard_time": 1744543041,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115307,
+        "num": 194196,
+        "word": "那个抱起全红婵的英国女孩",
+        "onboard_time": 1744543162,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193278,
+        "num": 193278,
+        "word": "五一你快来我撑不住了",
+        "onboard_time": 1744539081,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183333,
+        "num": 183333,
+        "word": "韩国花商拟在云南买520万枝花",
+        "onboard_time": 1744530681,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171627,
+        "num": 171627,
+        "word": "孙颖莎上班走出了哪吒的气势",
+        "onboard_time": 1744538721,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168690,
+        "num": 168690,
+        "word": "大风天强行带20余人登山被传唤",
+        "onboard_time": 1744537221,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158687,
+        "num": 158687,
+        "word": "徐志胜 免费的鸡",
+        "onboard_time": 1744541601,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152050,
+        "num": 152050,
+        "word": "千秋令一脚踩碎替身文学",
+        "onboard_time": 1744543102,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142765,
+        "num": 142765,
+        "word": "蒲熠星上完英语课上舞蹈课",
+        "onboard_time": 1744543522,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 142533,
+        "num": 142533,
+        "word": "赵露思哭戏",
+        "onboard_time": 1744525401,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 138290,
+        "num": 138290,
+        "word": "瘦不下来可能是因为湿气重",
+        "onboard_time": 1744539802,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 134808,
+        "num": 134808,
+        "word": "官方称男孩坠楼时系一个人在家",
+        "onboard_time": 1744535723,
+        "rank": 34,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 134681,
+        "num": 134681,
+        "word": "黄仁俊罗渽民新发色",
+        "onboard_time": 1744543700,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 132012,
+        "num": 132012,
+        "word": "尹锡悦戴红帽子让韩国再次伟大",
+        "onboard_time": 1744544001,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 128401,
+        "num": 128401,
+        "word": "谢可寅 就是喜欢丑东西",
+        "onboard_time": 1744543761,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121115,
+        "num": 121115,
+        "word": "小朋友用冰箱贴打造mini博物馆",
+        "onboard_time": 1744542682,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19098,
+        "num": 118759,
+        "word": "大阪世博会今日开幕",
+        "onboard_time": 1744543343,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 117942,
+        "num": 117942,
+        "word": "小伙给婚恋公司交17万第2天就领证",
+        "onboard_time": 1744533801,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115973,
+        "num": 115973,
+        "word": "尹锡悦或面临终身监禁甚至死刑",
+        "onboard_time": 1744538542,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 111233,
+        "num": 111233,
+        "word": "无忧渡 夜半三更",
+        "onboard_time": 1744543942,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109417,
+        "num": 109417,
+        "word": "双相情感障碍又叫天才病",
+        "onboard_time": 1744522463,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108203,
+        "num": 108203,
+        "word": "余景天得知和李佳薇pk后天塌了",
+        "onboard_time": 1744541121,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106640,
+        "num": 106640,
+        "word": "被3只大型犬撕咬男孩母亲发声",
+        "onboard_time": 1744543343,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106340,
+        "num": 106340,
+        "word": "国家安全机关破获一起重大间谍案件",
+        "onboard_time": 1744541782,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 105665,
+        "num": 105665,
+        "word": "时代少年团四专先行曲试听",
+        "onboard_time": 1744544062,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 99754,
+        "num": 99754,
+        "word": "酒店回应男子通卡刷开3名女子房间",
+        "onboard_time": 1744542800,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98719,
+        "num": 98719,
+        "word": "当年王宝强在跑男录制的好好的",
+        "onboard_time": 1744519101,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平强调这个问题绝不是小事#"
+    }
+  }
+}
