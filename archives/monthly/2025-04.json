@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744561767834,
+  "endTime": 1744562687721,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -2051,6 +2051,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1234974,
+      "num": 296812,
+      "word": "男演员退圈回老家赶集摆摊",
+      "onboard_time": 1744559242,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1234903,
       "num": 1100308,
       "word": "jayjay公开",
@@ -2160,14 +2168,6 @@
       "word": "金子涵脸都凹进去了",
       "onboard_time": 1744124063,
       "rank": 3,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1198818,
-      "num": 291751,
-      "word": "男演员退圈回老家赶集摆摊",
-      "onboard_time": 1744559242,
-      "rank": 10,
       "category": "艺人"
     },
     {
@@ -12435,6 +12435,14 @@
       "category": "剧集,教育"
     },
     {
+      "raw_hot": 291974,
+      "num": 291974,
+      "word": "网曝超市将馒头扔地上给大爷大妈抢",
+      "onboard_time": 1744561520,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 291837,
       "num": 418579,
       "word": "朴智妍晒朴孝敏婚礼照",
@@ -13129,6 +13137,14 @@
       "onboard_time": 1744125742,
       "rank": 30,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 277047,
+      "num": 277047,
+      "word": "妈妈监控中发现孩子情绪异常查出脱臼",
+      "onboard_time": 1744558702,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 277003,
@@ -15819,14 +15835,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 225889,
-      "num": 225889,
-      "word": "妈妈监控中发现孩子情绪异常查出脱臼",
-      "onboard_time": 1744558702,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 225853,
       "num": 225853,
       "word": "赵奕欢的裙子上是古代仕女图",
@@ -16553,6 +16561,14 @@
       "onboard_time": 1744000224,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 215896,
+      "num": 215896,
+      "word": "汪苏泷复刻金宣虎wink",
+      "onboard_time": 1744561459,
+      "rank": 21,
+      "category": "演出"
     },
     {
       "raw_hot": 215860,
@@ -17787,6 +17803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205119,
+      "num": 205119,
+      "word": "胡先煦邓家佳易小星乘机遇大风",
+      "onboard_time": 1744559901,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205044,
       "num": 205044,
       "word": "金铲铲",
@@ -17977,14 +18001,6 @@
       "onboard_time": 1743583521,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 203797,
-      "num": 203797,
-      "word": "胡先煦邓家佳易小星乘机遇大风",
-      "onboard_time": 1744559901,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 203717,
@@ -18497,14 +18513,6 @@
       "onboard_time": 1743981438,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 199256,
-      "num": 199256,
-      "word": "汪苏泷复刻金宣虎wink",
-      "onboard_time": 1744561459,
-      "rank": 21,
-      "category": "演出"
     },
     {
       "raw_hot": 199208,
@@ -20937,14 +20945,6 @@
       "onboard_time": 1743519387,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 184319,
-      "num": 184319,
-      "word": "网曝超市将馒头扔地上给大爷大妈抢",
-      "onboard_time": 1744561520,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 184288,
@@ -25081,6 +25081,14 @@
       "onboard_time": 1743944062,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155992,
+      "num": 155992,
+      "word": "陈哲远回复湖南卫视",
+      "onboard_time": 1744561580,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 155951,
@@ -30556,7 +30564,7 @@
     },
     {
       "raw_hot": 125051,
-      "num": 125051,
+      "num": 298745,
       "word": "多地发布暴雪蓝色预警",
       "onboard_time": 1744558401,
       "rank": 43,
@@ -33875,6 +33883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 102950,
+      "num": 102950,
+      "word": "金善旴回应被骂",
+      "onboard_time": 1744562358,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 102746,
       "num": 102746,
       "word": "鹭卓喜欢热热热热热热热热热的地方",
@@ -34097,14 +34113,6 @@
       "onboard_time": 1743554843,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 100673,
-      "num": 100673,
-      "word": "陈哲远回复湖南卫视",
-      "onboard_time": 1744561580,
-      "rank": 41,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 100653,
@@ -35203,6 +35211,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 88313,
+      "num": 88313,
+      "word": "黄霄雲你往图里加了什么",
+      "onboard_time": 1744561702,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 88227,
       "num": 382550,
       "word": "Gucci抓了好多明星为我读诗",
@@ -35443,6 +35459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 85543,
+      "num": 85543,
+      "word": "姚琛雨中万人蹦迪让人红温",
+      "onboard_time": 1744561881,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 85485,
       "num": 295412,
       "word": "张艺兴回应演技进化",
@@ -35667,6 +35691,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 83472,
+      "num": 83472,
+      "word": "中国的山也太会摆pose了",
+      "onboard_time": 1744562179,
+      "rank": 41,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 83438,
       "num": 302985,
       "word": "郑钦文vs亚历山德洛娃",
@@ -35883,14 +35915,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 81023,
-      "num": 81023,
-      "word": "黄霄雲你往图里加了什么",
-      "onboard_time": 1744561702,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 81012,
       "num": 169051,
       "word": "RW对战TTG",
@@ -36041,6 +36065,14 @@
       "onboard_time": 1744195882,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 79507,
+      "num": 79507,
+      "word": "你推荐哪部国产电视剧出海",
+      "onboard_time": 1744562299,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 79215,
