@@ -1,0 +1,410 @@
+{
+  "runTime": 1744551052330,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1682464,
+        "num": 1682464,
+        "word": "店主解释为何女装越做越小",
+        "onboard_time": 1744541421,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 956801,
+        "num": 956801,
+        "word": "145%关税让1只熊猫玩偶卖80美元",
+        "onboard_time": 1744537883,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 114727,
+        "num": 774140,
+        "word": "美国多次发动关税战并受到惨痛教训",
+        "onboard_time": 1744531944,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 728356,
+        "num": 728356,
+        "word": "无忧渡",
+        "onboard_time": 1744534043,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 518972,
+        "num": 518972,
+        "word": "商务部回应美豁免部分产品关税",
+        "onboard_time": 1744544182,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 457877,
+        "num": 457877,
+        "word": "尹锡悦戴红帽子让韩国再次伟大",
+        "onboard_time": 1744544001,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 313925,
+        "num": 313925,
+        "word": "国家安全机关破获一起重大间谍案件",
+        "onboard_time": 1744541782,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 298645,
+        "num": 298645,
+        "word": "7岁男孩上学途中遭3只大型犬撕咬",
+        "onboard_time": 1744541001,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 292887,
+        "num": 292887,
+        "word": "折腰粉丝靠一个预告活了两年",
+        "onboard_time": 1744545982,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205053,
+        "num": 291272,
+        "word": "王珞丹终于要唱跳了",
+        "onboard_time": 1744549822,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1898295,
+        "num": 289140,
+        "word": "李佳琦不建议普通女生做医美",
+        "onboard_time": 1744543761,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1378715,
+        "num": 288563,
+        "word": "28岁网红因病去世留下4个孩子",
+        "onboard_time": 1744548082,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125214,
+        "num": 285604,
+        "word": "美国店主很害怕母亲节生意彻底泡汤",
+        "onboard_time": 1744547301,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 665383,
+        "num": 284538,
+        "word": "杨幂 苹果掰开",
+        "onboard_time": 1744549944,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32907,
+        "num": 281379,
+        "word": "骗子装孙子诈骗老人6万元被逮捕",
+        "onboard_time": 1744549342,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 594640,
+        "num": 280187,
+        "word": "好友为赵丽颖发声",
+        "onboard_time": 1744549103,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 535820,
+        "num": 279373,
+        "word": "弟弟找开锁上门后发现姐姐已去世",
+        "onboard_time": 1744540761,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 533085,
+        "num": 275577,
+        "word": "25岁歌手演出第二天猝死",
+        "onboard_time": 1744548262,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275530,
+        "num": 275530,
+        "word": "陈赫这帮人还是太天真",
+        "onboard_time": 1744547602,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178441,
+        "num": 273823,
+        "word": "陈雨菲说行不行自己说了算",
+        "onboard_time": 1744550722,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 502369,
+        "num": 264546,
+        "word": "电瓶燃爆烧伤男生称无法原谅室友",
+        "onboard_time": 1744546342,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 329675,
+        "num": 258680,
+        "word": "让体重逐渐下降的40个冷知识",
+        "onboard_time": 1744536922,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 276694,
+        "num": 252668,
+        "word": "鸟类感染病毒后脖子扭转180度",
+        "onboard_time": 1744550424,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250497,
+        "num": 250497,
+        "word": "桃黑黑 不直播",
+        "onboard_time": 1744549883,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 246539,
+        "num": 246539,
+        "word": "王晶回应怒怼姜涛",
+        "onboard_time": 1744547181,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210144,
+        "num": 210144,
+        "word": "江宏杰称与福原爱见面并不尴尬",
+        "onboard_time": 1744550003,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195614,
+        "num": 195614,
+        "word": "韩式英语一出来面相都变了",
+        "onboard_time": 1744547480,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172667,
+        "num": 172667,
+        "word": "折腰速抬",
+        "onboard_time": 1744536202,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142510,
+        "num": 164697,
+        "word": "无忧渡节奏 又快又慢",
+        "onboard_time": 1744545082,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141793,
+        "num": 160687,
+        "word": "虞书欣南京出发进组新剧",
+        "onboard_time": 1744548562,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158500,
+        "num": 158500,
+        "word": "桥本帆乃香女单冠军",
+        "onboard_time": 1744549401,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153278,
+        "num": 153278,
+        "word": "三河强换商户招牌需给公众一个交代",
+        "onboard_time": 1744539622,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152461,
+        "num": 152461,
+        "word": "宋妍霏手纹重到不敢和人握手",
+        "onboard_time": 1744550964,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149843,
+        "num": 149843,
+        "word": "公司约9827万应收账款拍卖2.85万成交",
+        "onboard_time": 1744550603,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147263,
+        "num": 147263,
+        "word": "杭州一9岁男孩高楼坠下身亡",
+        "onboard_time": 1744529960,
+        "rank": 34,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 146101,
+        "num": 146101,
+        "word": "WCBA总决赛",
+        "onboard_time": 1744548622,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73137,
+        "num": 146017,
+        "word": "刘宇宁直播称新剧快播了",
+        "onboard_time": 1744551023,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145983,
+        "num": 145983,
+        "word": "游客爬黄山遇大风互相搀扶抱团抗风",
+        "onboard_time": 1744547962,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117363,
+        "num": 141226,
+        "word": "五个哈妮克孜暴打渣妖",
+        "onboard_time": 1744546041,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139956,
+        "num": 139956,
+        "word": "一诺鲁班七号好强",
+        "onboard_time": 1744550424,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 136192,
+        "num": 136192,
+        "word": "九尾火舞燃尽了",
+        "onboard_time": 1744550842,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 129420,
+        "num": 129420,
+        "word": "AL对战WBG",
+        "onboard_time": 1744550242,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 128559,
+        "num": 128559,
+        "word": "Max快和NeiNei一样高了",
+        "onboard_time": 1744549401,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125142,
+        "num": 125142,
+        "word": "敦促美方彻底取消对等关税错误做法",
+        "onboard_time": 1744546761,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 102783,
+        "num": 124755,
+        "word": "在越南参加汉语水平考试是啥体验",
+        "onboard_time": 1744547241,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124732,
+        "num": 124732,
+        "word": "AG对战狼队",
+        "onboard_time": 1744548503,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 123506,
+        "num": 123506,
+        "word": "空腹吃快碳有哪些危害",
+        "onboard_time": 1744549042,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 119974,
+        "num": 119974,
+        "word": "猫meme",
+        "onboard_time": 1744550543,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119467,
+        "num": 119467,
+        "word": "年轻人把AI当成心理中医",
+        "onboard_time": 1744551023,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118922,
+        "num": 118922,
+        "word": "朱雨玲女单亚军",
+        "onboard_time": 1744551023,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中印尼建交75周年#"
+    }
+  }
+}

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/13 20:58:26
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/13 21:30:52
 </p>
 </blockquote>
 <p>
@@ -1215,6 +1215,12 @@ RedVelvet 解散（热度：1601334）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2328%E5%B2%81%E7%BD%91%E7%BA%A2%E5%9B%A0%E7%97%85%E5%8E%BB%E4%B8%96%E7%95%99%E4%B8%8B4%E4%B8%AA%E5%AD%A9%E5%AD%90%23" target="weibo">
+28岁网红因病去世留下4个孩子（热度：1378715）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC40%E5%B2%81%E5%9C%B0%E9%93%81%E7%8C%A5%E4%BA%B5%E6%83%AF%E7%8A%AF%E8%A2%AB%E6%8A%93%E5%90%8E%E4%B8%8B%E8%B7%AA%23" target="weibo">
 北京40岁地铁猥亵惯犯被抓后下跪（热度：1377343）
 </a>
@@ -2033,12 +2039,6 @@ DeepSeek7小时攻克缅甸救灾语言关（热度：1104741）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8D%85%E4%BC%A4%E5%90%8C%E7%97%85%E6%88%BF%E7%88%B6%E5%AD%90%E5%90%8E%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1%23" target="weibo">
 男子捅伤同病房父子后跳楼身亡（热度：1049192）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2328%E5%B2%81%E7%BD%91%E7%BA%A2%E5%9B%A0%E7%97%85%E5%8E%BB%E4%B8%96%E7%95%99%E4%B8%8B4%E4%B8%AA%E5%AD%A9%E5%AD%90%23" target="weibo">
-28岁网红因病去世留下4个孩子（热度：1047089）
 </a>
 </li>
 
@@ -3789,6 +3789,12 @@ kissoflife一夜掉粉20万（热度：668428）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%20%E8%8B%B9%E6%9E%9C%E6%8E%B0%E5%BC%80%23" target="weibo">
+杨幂 苹果掰开（热度：665383）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%95%E8%80%81%E8%A2%ABMac%E5%88%A0%E9%99%A4%E5%A5%BD%E5%8F%8B%23" target="weibo">
 法老被Mac删除好友（热度：665284）
 </a>
@@ -4283,6 +4289,12 @@ rapper祥龙diss严浩翔（热度：600766）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8A%E5%A4%9C%E9%86%92%E6%9D%A5%E5%8F%91%E7%8E%B0%E6%89%8D%E6%98%AF%E5%87%8C%E6%99%A82%E7%82%B9%E5%8D%8A%23" target="weibo">
 半夜醒来发现才是凌晨2点半（热度：595795）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%BD%E5%8F%8B%E4%B8%BA%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%8F%91%E5%A3%B0%23" target="weibo">
+好友为赵丽颖发声（热度：594640）
 </a>
 </li>
 
@@ -4853,6 +4865,12 @@ Songha公开（热度：554934）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E5%86%8D%E7%8A%AF%E4%B8%80%E6%AC%A1%E7%99%BE%E5%B9%B4%E5%89%8D%E7%9A%84%E9%94%99%E8%AF%AF%E5%90%97%23" target="weibo">
 特朗普要再犯一次百年前的错误吗（热度：534375）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2325%E5%B2%81%E6%AD%8C%E6%89%8B%E6%BC%94%E5%87%BA%E7%AC%AC%E4%BA%8C%E5%A4%A9%E7%8C%9D%E6%AD%BB%23" target="weibo">
+25岁歌手演出第二天猝死（热度：533085）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ hanbi公开（热度：468837）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E8%B5%AB%E5%81%9A%E4%BA%86%E4%BA%94%E5%93%88%E5%85%84%E5%BC%9F%E5%9B%A2%E7%BE%8E%E7%94%B2%23" target="weibo">
 陈赫做了五哈兄弟团美甲（热度：446804）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2313%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%95%BF%E6%9C%9F%E9%A3%9F%E7%94%A8%E8%85%8C%E5%88%B6%E8%8F%9C%E7%A1%AE%E8%AF%8A%E8%83%83%E7%99%8C%23" target="weibo">
-13岁女孩长期食用腌制菜确诊胃癌（热度：446601）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%AD%A6%E6%A0%A1%E8%BE%9E%E9%80%80%E8%80%83%E5%85%AC%E8%80%83%E7%BC%96%E6%95%99%E5%B8%88%23" target="weibo">
-教育局回应学校辞退考公考编教师（热度：446351）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E6%92%9E%E8%84%B8%E5%87%BA%E9%81%93%E8%9B%8B%E7%B3%95%23" target="weibo">
-张艺兴撞脸出道蛋糕（热度：445719）
 </a>
 </li>
 
