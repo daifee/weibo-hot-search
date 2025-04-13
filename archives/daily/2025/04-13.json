@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744529751061,
+  "endTime": 1744532916181,
   "band_list": [
     {
       "raw_hot": 1750912,
@@ -17,6 +17,14 @@
       "onboard_time": 1744519101,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1692531,
+      "num": 1692531,
+      "word": "赵丽颖 转型",
+      "onboard_time": 1744530322,
+      "rank": 0,
+      "category": "电影"
     },
     {
       "raw_hot": 1669739,
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 1208369,
-      "num": 309059,
+      "num": 507574,
       "word": "谢娜说别拜了踩我裙子了",
       "onboard_time": 1744528100,
       "rank": 12,
@@ -121,6 +129,14 @@
       "onboard_time": 1744528220,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 995046,
+      "num": 995046,
+      "word": "杭州一9岁男孩高楼坠下身亡",
+      "onboard_time": 1744529960,
+      "rank": 3,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 946050,
@@ -243,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 702959,
+      "num": 702959,
+      "word": "表妹万福",
+      "onboard_time": 1744530021,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 678327,
       "num": 498713,
       "word": "同居租房男生出钱女生拒绝",
@@ -363,6 +387,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 489858,
+      "num": 489858,
+      "word": "任教31年临退休遭解聘教师发声",
+      "onboard_time": 1744529780,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 459500,
       "num": 459500,
       "word": "印尼鲜食椰子将进入中国市场",
@@ -417,6 +449,14 @@
       "onboard_time": 1744519161,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 424743,
+      "num": 424743,
+      "word": "韩国花商拟在云南买520万枝花",
+      "onboard_time": 1744530681,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 423148,
@@ -523,6 +563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 292764,
+      "num": 292764,
+      "word": "院人0713为齐思钧新书打call",
+      "onboard_time": 1744529661,
+      "rank": 18,
+      "category": "艺人,读书作家"
+    },
+    {
       "raw_hot": 286175,
       "num": 286175,
       "word": "孙俪说请对我要求再高一点",
@@ -545,6 +593,14 @@
       "onboard_time": 1744474702,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 267802,
+      "num": 267802,
+      "word": "网传宋祖儿周翊然演表妹万福",
+      "onboard_time": 1744532422,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 267658,
@@ -601,6 +657,14 @@
       "onboard_time": 1744518743,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 236884,
+      "num": 236884,
+      "word": "孙俪这段演到肝郁血虚",
+      "onboard_time": 1744529721,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 236227,
@@ -721,6 +785,14 @@
       "onboard_time": 1744524261,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 204493,
+      "num": 204493,
+      "word": "enhypen将6月5日回归",
+      "onboard_time": 1744532542,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 203901,
@@ -916,7 +988,7 @@
     },
     {
       "raw_hot": 172733,
-      "num": 172733,
+      "num": 191282,
       "word": "王曼昱谈澳门世界杯",
       "onboard_time": 1744527681,
       "rank": 26,
@@ -961,6 +1033,14 @@
       "onboard_time": 1744499478,
       "rank": 31,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 169184,
+      "num": 169184,
+      "word": "王一博采访刘冲",
+      "onboard_time": 1744531462,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 168493,
@@ -1011,12 +1091,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 164225,
-      "num": 164225,
-      "word": "孙俪这段演到肝郁血虚",
-      "onboard_time": 1744529721,
-      "rank": 28,
-      "category": "剧集"
+      "raw_hot": 164375,
+      "num": 164375,
+      "word": "金莎说千年之后我仍是一枚甜姐",
+      "onboard_time": 1744530982,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 162359,
@@ -1051,12 +1131,28 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 159226,
+      "num": 516273,
+      "word": "中方正在和多国共同应对美滥施关税",
+      "onboard_time": 1744531822,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 158876,
       "num": 158876,
       "word": "不在小事上消耗孩子",
       "onboard_time": 1744473802,
       "rank": 28,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 158202,
+      "num": 158202,
+      "word": "国产剧最浪漫的兔子出现了",
+      "onboard_time": 1744529721,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 156753,
@@ -1275,6 +1371,14 @@
       "category": "健康医疗,艺人"
     },
     {
+      "raw_hot": 133200,
+      "num": 133200,
+      "word": "艾福杰尼上五哈前没觉得自己像熊",
+      "onboard_time": 1744532061,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132607,
       "num": 132607,
       "word": "火箭全员复出",
@@ -1331,6 +1435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126960,
+      "num": 126960,
+      "word": "张杰玩游戏输在了歌太多",
+      "onboard_time": 1744531042,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126478,
       "num": 126478,
       "word": "2025电影票房破250亿",
@@ -1345,6 +1457,14 @@
       "onboard_time": 1744461025,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123662,
+      "num": 123662,
+      "word": "哈妮克孜演技",
+      "onboard_time": 1744532661,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 122522,
@@ -1364,7 +1484,7 @@
     },
     {
       "raw_hot": 119740,
-      "num": 316258,
+      "num": 553211,
       "word": "中国馆在世博会惊艳亮相",
       "onboard_time": 1744513521,
       "rank": 9,
@@ -1443,6 +1563,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113361,
+      "num": 113361,
+      "word": "倪虹洁 不敢拒绝任何工作机会",
+      "onboard_time": 1744532722,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 112544,
+      "num": 112544,
+      "word": "阿姨真的给足了VaVa安全感",
+      "onboard_time": 1744532182,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 111366,
       "num": 111366,
       "word": "BLG教练回应两连败",
@@ -1465,6 +1601,14 @@
       "onboard_time": 1744512682,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 109468,
+      "num": 109468,
+      "word": "孙颖莎王曼昱登台抽签",
+      "onboard_time": 1744530681,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 109441,
@@ -1523,6 +1667,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 105955,
+      "num": 105955,
+      "word": "五哈直播",
+      "onboard_time": 1744529902,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 105832,
       "num": 105832,
       "word": "悬浮小狗",
@@ -1545,6 +1697,14 @@
       "onboard_time": 1744506741,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 100507,
+      "num": 100507,
+      "word": "ITTF乒乓球单打世界杯",
+      "onboard_time": 1744530800,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 100124,
@@ -1577,14 +1737,6 @@
       "onboard_time": 1744469544,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 97391,
-      "num": 97391,
-      "word": "国产剧最浪漫的兔子出现了",
-      "onboard_time": 1744529721,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 96373,
@@ -1659,6 +1811,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 87436,
+      "num": 350634,
+      "word": "一脚下去百元一斤药材遭殃",
+      "onboard_time": 1744531882,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85322,
       "num": 85322,
       "word": "特朗普说的暂停90天没完全落实",
@@ -1705,6 +1865,14 @@
       "onboard_time": 1744515141,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 79537,
+      "num": 1017769,
+      "word": "美国多次发动关税战并受到惨痛教训",
+      "onboard_time": 1744531944,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 70067,
@@ -1947,6 +2115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 21172,
+      "num": 138981,
+      "word": "中越经贸合作成果丰硕",
+      "onboard_time": 1744532542,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 20449,
       "num": 26146,
       "word": "种地吧",
@@ -1985,6 +2161,14 @@
       "onboard_time": 1744513281,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 16636,
+      "num": 119532,
+      "word": "卤鹅哥证明了念念不忘必有回响",
+      "onboard_time": 1744531944,
+      "rank": 39,
+      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 16546,
@@ -2047,6 +2231,9 @@
     },
     {
       "word": "#坚定奉行互利共赢的开放战略#"
+    },
+    {
+      "word": "#习近平强调这个问题绝不是小事#"
     }
   ]
 }

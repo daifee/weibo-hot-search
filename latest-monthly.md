@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/13 15:35:51
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/13 16:28:36
 </p>
 </blockquote>
 <p>
@@ -779,6 +779,12 @@ C罗点评甲亢哥中国行（热度：2472029）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%A0%B8%E4%BC%A4%E5%A4%B4%E9%AA%A8%E7%9A%849%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%84%91%E7%BB%84%E7%BB%87%E5%B7%B2%E5%9D%8F%E6%AD%BB%23" target="weibo">
 被砸伤头骨的9岁女孩脑组织已坏死（热度：1695653）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%20%E8%BD%AC%E5%9E%8B%23" target="weibo">
+赵丽颖 转型（热度：1692531）
 </a>
 </li>
 
@@ -2147,6 +2153,12 @@ IU向雪莉金赛纶推荐同一心理医生（热度：1041446）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9C%A8%E5%B1%B1%E5%A7%86%E9%87%87%E8%B4%AD550%E4%B8%87%E5%85%83%E5%95%86%E5%93%81%E9%81%AD%E5%86%92%E9%A2%86%23" target="weibo">
 男子在山姆采购550万元商品遭冒领（热度：995124）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%B8%809%E5%B2%81%E7%94%B7%E5%AD%A9%E9%AB%98%E6%A5%BC%E5%9D%A0%E4%B8%8B%E8%BA%AB%E4%BA%A1%23" target="weibo">
+杭州一9岁男孩高楼坠下身亡（热度：995046）
 </a>
 </li>
 
@@ -3521,6 +3533,12 @@ TVB男演员陈键锋学厨以第一名毕业（热度：726197）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E2%23" target="weibo">
 疯狂动物城2（热度：705626）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A1%A8%E5%A6%B9%E4%B8%87%E7%A6%8F%23" target="weibo">
+表妹万福（热度：702959）
 </a>
 </li>
 
@@ -5313,6 +5331,12 @@ SM新男团（热度：491910）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%BB%E6%95%9931%E5%B9%B4%E4%B8%B4%E9%80%80%E4%BC%91%E9%81%AD%E8%A7%A3%E8%81%98%E6%95%99%E5%B8%88%E5%8F%91%E5%A3%B0%23" target="weibo">
+任教31年临退休遭解聘教师发声（热度：489858）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E6%97%A0%E7%BC%98%E5%A4%AA%E5%8E%9F%E7%AB%99%E7%94%B7%E5%A5%B3%E5%8D%95%E5%86%B3%E8%B5%9B%23" target="weibo">
 国乒无缘太原站男女单决赛（热度：488395）
 </a>
@@ -5990,30 +6014,6 @@ ITTF抽签（热度：441154）
 </a>
 </li>
 
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%BF%E7%90%AA%23" target="weibo">
-房琪（热度：440938）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A7%A3%E6%94%BE%E5%86%9B%E5%8F%B0%E5%B2%9B%E5%91%A8%E8%BE%B9%E5%BC%80%E5%B1%95%E8%81%94%E5%90%88%E6%BC%94%E8%AE%AD%23" target="weibo">
-解放军台岛周边开展联合演训（热度：440685）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%99%9F%E4%B8%89%E6%AC%A1%E4%B8%AA%E4%BA%BA%E7%AC%AC%E4%B8%80%23" target="weibo">
-李晟三次个人第一（热度：439966）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E5%B1%80%E5%8F%91%E5%A3%B0%E5%90%8E%E7%BE%8E%E7%94%B5%E5%BD%B1%E5%85%AC%E5%8F%B8%E8%82%A1%E4%BB%B7%E5%A4%A7%E8%B7%8C%23" target="weibo">
-电影局发声后美电影公司股价大跌（热度：437672）
-</a>
-</li>
-
 </ol>
 <h2>
 正能量
@@ -6311,6 +6311,12 @@ ITTF抽签（热度：441154）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E5%9D%9A%E5%AE%9A%E5%A5%89%E8%A1%8C%E4%BA%92%E5%88%A9%E5%85%B1%E8%B5%A2%E7%9A%84%E5%BC%80%E6%94%BE%E6%88%98%E7%95%A5%23%23" target="weibo">
 #坚定奉行互利共赢的开放战略#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BC%BA%E8%B0%83%E8%BF%99%E4%B8%AA%E9%97%AE%E9%A2%98%E7%BB%9D%E4%B8%8D%E6%98%AF%E5%B0%8F%E4%BA%8B%23%23" target="weibo">
+#习近平强调这个问题绝不是小事#
 </a>
 </li>
 
