@@ -1,0 +1,410 @@
+{
+  "runTime": 1744528911896,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1669739,
+        "num": 1669739,
+        "word": "特朗普政府再度退缩",
+        "onboard_time": 1744524021,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1226776,
+        "num": 1226776,
+        "word": "当年王宝强在跑男录制的好好的",
+        "onboard_time": 1744519101,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65692,
+        "num": 728146,
+        "word": "美肆意加征关税非常危险",
+        "onboard_time": 1744502539,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 721283,
+        "num": 721283,
+        "word": "卖劳力士收了37万多后银行卡被冻结",
+        "onboard_time": 1744528220,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 702865,
+        "num": 702865,
+        "word": "甲亢哥对中国惦念不忘发文表白",
+        "onboard_time": 1744524081,
+        "rank": 4,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 691667,
+        "num": 691667,
+        "word": "官方通报杭州一男孩27楼坠亡",
+        "onboard_time": 1744527561,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 608421,
+        "num": 608421,
+        "word": "公摊面积最大的蔬菜",
+        "onboard_time": 1744524801,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 536705,
+        "num": 536705,
+        "word": "双相情感障碍又叫天才病",
+        "onboard_time": 1744522463,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 433281,
+        "num": 433281,
+        "word": "同居租房男生出钱女生拒绝",
+        "onboard_time": 1744522822,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 340373,
+        "num": 340373,
+        "word": "官方通报树被风吹倒砸伤女子致死",
+        "onboard_time": 1744520421,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 721680,
+        "num": 337724,
+        "word": "谁来管管现在的女装",
+        "onboard_time": 1744515141,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 625836,
+        "num": 319404,
+        "word": "赵露思哭戏",
+        "onboard_time": 1744525401,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 467320,
+        "num": 309059,
+        "word": "谢娜说别拜了踩我裙子了",
+        "onboard_time": 1744528100,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 385756,
+        "num": 293566,
+        "word": "女生喉咙痛从就诊到去世仅10分钟",
+        "onboard_time": 1744469426,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 281704,
+        "num": 281704,
+        "word": "首都机场地勤欺负老人",
+        "onboard_time": 1744524381,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 277592,
+        "num": 277592,
+        "word": "官宣做卫生巾后黄子韬掉粉46万",
+        "onboard_time": 1744504222,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269275,
+        "num": 269275,
+        "word": "你好星期六收视第一",
+        "onboard_time": 1744515322,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258636,
+        "num": 258636,
+        "word": "李羲承火力全开了",
+        "onboard_time": 1744517841,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 253687,
+        "num": 253687,
+        "word": "胖东来工资单",
+        "onboard_time": 1744514179,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 23574,
+        "num": 242841,
+        "word": "耶伦批特朗普贸易政策是严重自残",
+        "onboard_time": 1744528581,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 234390,
+        "num": 234390,
+        "word": "宋祖儿演技",
+        "onboard_time": 1744505362,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33290,
+        "num": 214119,
+        "word": "虚构考研成绩为啥能成生意",
+        "onboard_time": 1744528521,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210459,
+        "num": 210459,
+        "word": "古希腊人在泥板上做Excel表格",
+        "onboard_time": 1744528220,
+        "rank": 22,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 210429,
+        "num": 210429,
+        "word": "主包",
+        "onboard_time": 1744523303,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206153,
+        "num": 206153,
+        "word": "广东沙尘暴",
+        "onboard_time": 1744513521,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203603,
+        "num": 203603,
+        "word": "bite me男伴舞",
+        "onboard_time": 1744518562,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 172733,
+        "num": 172733,
+        "word": "王曼昱谈澳门世界杯",
+        "onboard_time": 1744527681,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168282,
+        "num": 168282,
+        "word": "朴成训上岸",
+        "onboard_time": 1744524261,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 164827,
+        "num": 164827,
+        "word": "梁师父回应是否再邀请甲亢哥来河南",
+        "onboard_time": 1744527201,
+        "rank": 28,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 151051,
+        "num": 151051,
+        "word": "ITTF抽签",
+        "onboard_time": 1744523061,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149009,
+        "num": 149009,
+        "word": "澳门世界杯女子签表",
+        "onboard_time": 1744526541,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146465,
+        "num": 146465,
+        "word": "樊振东是首位超级金满贯得主",
+        "onboard_time": 1744528100,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143856,
+        "num": 143856,
+        "word": "塔吉克斯坦5.8级地震",
+        "onboard_time": 1744520902,
+        "rank": 32,
+        "category": "国际时政,国际时政"
+      },
+      {
+        "raw_hot": 142211,
+        "num": 142211,
+        "word": "金价今年已刷新历史高点超20次",
+        "onboard_time": 1744524261,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 139558,
+        "num": 139558,
+        "word": "湿气重的7个习惯",
+        "onboard_time": 1744514420,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 136959,
+        "num": 136959,
+        "word": "江宏杰回应卖掉与福原爱昔日爱巢",
+        "onboard_time": 1744527921,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133088,
+        "num": 133088,
+        "word": "许嵩00后同事不懂灰色头像",
+        "onboard_time": 1744515440,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 131191,
+        "num": 131191,
+        "word": "王楚钦普卡同组",
+        "onboard_time": 1744528041,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130108,
+        "num": 130108,
+        "word": "大风把柳絮刮走了",
+        "onboard_time": 1744525162,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127736,
+        "num": 127736,
+        "word": "院人要做一辈子的好朋友",
+        "onboard_time": 1744526781,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115240,
+        "num": 115240,
+        "word": "左航右航中航",
+        "onboard_time": 1744526963,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114104,
+        "num": 114104,
+        "word": "侯雯元以美之名里人如其名",
+        "onboard_time": 1744527622,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110843,
+        "num": 110843,
+        "word": "缅甸发生5.4级地震",
+        "onboard_time": 1744525821,
+        "rank": 42,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 109441,
+        "num": 109441,
+        "word": "神十九航天员快回地球了",
+        "onboard_time": 1744527860,
+        "rank": 43,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 108355,
+        "num": 108355,
+        "word": "学化学的和学食品的都沉默了",
+        "onboard_time": 1744528702,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108127,
+        "num": 108127,
+        "word": "虾滑鸡蛋煮饺子皮",
+        "onboard_time": 1744528761,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 107494,
+        "num": 107494,
+        "word": "好一节标准的小狗礼仪课",
+        "onboard_time": 1744528821,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105832,
+        "num": 105832,
+        "word": "悬浮小狗",
+        "onboard_time": 1744526361,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104251,
+        "num": 104251,
+        "word": "印度男子携准丈母娘卷款私奔",
+        "onboard_time": 1744516342,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 100567,
+        "num": 100567,
+        "word": "enhypen科切拉舞台",
+        "onboard_time": 1744516281,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定不移推进高水平对外开放观察#"
+    }
+  }
+}

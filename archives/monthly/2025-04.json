@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744526732813,
+  "endTime": 1744528911896,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -1049,6 +1049,14 @@
       "onboard_time": 1744369643,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1669739,
+      "num": 1669739,
+      "word": "特朗普政府再度退缩",
+      "onboard_time": 1744524021,
+      "rank": 1,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1667614,
@@ -2273,14 +2281,6 @@
       "onboard_time": 1744090162,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1134298,
-      "num": 1134298,
-      "word": "特朗普政府再度退缩",
-      "onboard_time": 1744524021,
-      "rank": 1,
-      "category": "国际时政"
     },
     {
       "raw_hot": 1133722,
@@ -4436,7 +4436,7 @@
     },
     {
       "raw_hot": 726425,
-      "num": 532594,
+      "num": 536705,
       "word": "双相情感障碍又叫天才病",
       "onboard_time": 1744522463,
       "rank": 12,
@@ -4473,6 +4473,14 @@
       "onboard_time": 1743733401,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 721283,
+      "num": 721283,
+      "word": "卖劳力士收了37万多后银行卡被冻结",
+      "onboard_time": 1744528220,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 720758,
@@ -4729,6 +4737,14 @@
       "onboard_time": 1744285102,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 691667,
+      "num": 691667,
+      "word": "官方通报杭州一男孩27楼坠亡",
+      "onboard_time": 1744527561,
+      "rank": 5,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 690225,
@@ -5187,6 +5203,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 625836,
+      "num": 372931,
+      "word": "赵露思哭戏",
+      "onboard_time": 1744525401,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 625744,
       "num": 397294,
       "word": "王祖蓝妹妹结婚",
@@ -5329,6 +5353,14 @@
       "onboard_time": 1744164004,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 608421,
+      "num": 608421,
+      "word": "公摊面积最大的蔬菜",
+      "onboard_time": 1743485905,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 607805,
@@ -5913,14 +5945,6 @@
       "onboard_time": 1743597082,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 563083,
-      "num": 563083,
-      "word": "公摊面积最大的蔬菜",
-      "onboard_time": 1743485905,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 562047,
@@ -7401,6 +7425,14 @@
       "onboard_time": 1743753681,
       "rank": 4,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 467320,
+      "num": 309059,
+      "word": "谢娜说别拜了踩我裙子了",
+      "onboard_time": 1744528100,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 466953,
@@ -9305,14 +9337,6 @@
       "onboard_time": 1744158444,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 372931,
-      "num": 372931,
-      "word": "赵露思哭戏",
-      "onboard_time": 1744525401,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 372853,
@@ -12465,6 +12489,14 @@
       "onboard_time": 1744314074,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 281704,
+      "num": 281704,
+      "word": "首都机场地勤欺负老人",
+      "onboard_time": 1744524381,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 281515,
@@ -16363,6 +16395,14 @@
       "category": "艺人,剧集"
     },
     {
+      "raw_hot": 210459,
+      "num": 210459,
+      "word": "古希腊人在泥板上做Excel表格",
+      "onboard_time": 1744528220,
+      "rank": 22,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 210457,
       "num": 411499,
       "word": "林俊杰发文纪念出道22周年",
@@ -16377,6 +16417,14 @@
       "onboard_time": 1743684862,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 210429,
+      "num": 210429,
+      "word": "主包",
+      "onboard_time": 1744523303,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 210343,
@@ -19371,14 +19419,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 188636,
-      "num": 188636,
-      "word": "主包",
-      "onboard_time": 1744523303,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 188609,
       "num": 177896,
       "word": "这样切水果不脏手又好看",
@@ -19769,14 +19809,6 @@
       "onboard_time": 1743850162,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 185988,
-      "num": 185988,
-      "word": "首都机场地勤欺负老人",
-      "onboard_time": 1744524381,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 185968,
@@ -21635,6 +21667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 172733,
+      "num": 172733,
+      "word": "王曼昱谈澳门世界杯",
+      "onboard_time": 1744527681,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 172717,
       "num": 350194,
       "word": "挪用数百万公款牵出非法套现504亿大案",
@@ -22721,6 +22761,14 @@
       "onboard_time": 1743606444,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 164827,
+      "num": 164827,
+      "word": "梁师父回应是否再邀请甲亢哥来河南",
+      "onboard_time": 1744527201,
+      "rank": 28,
+      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 164788,
@@ -25155,6 +25203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149009,
+      "num": 155831,
+      "word": "澳门世界杯女子签表",
+      "onboard_time": 1744526541,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148936,
       "num": 304639,
       "word": "朱雨玲4比2大藤沙月",
@@ -26451,14 +26507,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 140685,
-      "num": 155831,
-      "word": "澳门世界杯女子签表",
-      "onboard_time": 1744526541,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 140663,
       "num": 140663,
       "word": "猫耳崩了",
@@ -27129,6 +27177,14 @@
       "onboard_time": 1744077443,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136959,
+      "num": 136959,
+      "word": "江宏杰回应卖掉与福原爱昔日爱巢",
+      "onboard_time": 1744527921,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 136897,
@@ -28131,6 +28187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131191,
+      "num": 131191,
+      "word": "王楚钦普卡同组",
+      "onboard_time": 1744528041,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131110,
       "num": 409817,
       "word": "山东舰航母编队参加演练",
@@ -28745,6 +28809,14 @@
       "onboard_time": 1744028363,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127736,
+      "num": 127736,
+      "word": "院人要做一辈子的好朋友",
+      "onboard_time": 1744526781,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 127632,
@@ -30683,6 +30755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 115240,
+      "num": 115240,
+      "word": "左航右航中航",
+      "onboard_time": 1744526963,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115220,
       "num": 115220,
       "word": "穆祉丞舞台路透",
@@ -30865,6 +30945,14 @@
       "onboard_time": 1743587061,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 114104,
+      "num": 114104,
+      "word": "侯雯元以美之名里人如其名",
+      "onboard_time": 1744527622,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 114080,
@@ -31459,6 +31547,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 109441,
+      "num": 109441,
+      "word": "神十九航天员快回地球了",
+      "onboard_time": 1744527860,
+      "rank": 43,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 109339,
       "num": 109339,
       "word": "湖人收官战大规模轮休",
@@ -31619,6 +31715,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 108355,
+      "num": 108355,
+      "word": "学化学的和学食品的都沉默了",
+      "onboard_time": 1744528702,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 108349,
       "num": 108349,
       "word": "KPL春季赛第三轮赛程公布",
@@ -31641,6 +31745,14 @@
       "onboard_time": 1744344803,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108127,
+      "num": 108127,
+      "word": "虾滑鸡蛋煮饺子皮",
+      "onboard_time": 1744528761,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 108110,
@@ -31689,6 +31801,14 @@
       "onboard_time": 1743778943,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 107494,
+      "num": 107494,
+      "word": "好一节标准的小狗礼仪课",
+      "onboard_time": 1744528821,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 107451,
@@ -31817,6 +31937,14 @@
       "onboard_time": 1743690262,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 105832,
+      "num": 105832,
+      "word": "悬浮小狗",
+      "onboard_time": 1744526361,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 105777,
@@ -38051,6 +38179,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 33290,
+      "num": 214119,
+      "word": "虚构考研成绩为啥能成生意",
+      "onboard_time": 1744528521,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33221,
       "num": 294218,
       "word": "找到烈士父亲73岁老人哭得像个孩子",
@@ -39152,6 +39288,14 @@
       "word": "海地一地遭袭致262人死亡",
       "onboard_time": 1744068320,
       "rank": 14,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 23574,
+      "num": 242841,
+      "word": "耶伦批特朗普贸易政策是严重自残",
+      "onboard_time": 1744528581,
+      "rank": 19,
       "category": "国际时政"
     },
     {
