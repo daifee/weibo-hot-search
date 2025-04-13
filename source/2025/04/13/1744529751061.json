@@ -1,0 +1,410 @@
+{
+  "runTime": 1744529751061,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1561724,
+        "num": 1561724,
+        "word": "特朗普政府再度退缩",
+        "onboard_time": 1744524021,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1097041,
+        "num": 1097041,
+        "word": "当年王宝强在跑男录制的好好的",
+        "onboard_time": 1744519101,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58282,
+        "num": 1040568,
+        "word": "美肆意加征关税非常危险",
+        "onboard_time": 1744502539,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1027341,
+        "num": 1027341,
+        "word": "卖劳力士收了37万多后银行卡被冻结",
+        "onboard_time": 1744528220,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 933309,
+        "num": 933309,
+        "word": "官方通报杭州一男孩27楼坠亡",
+        "onboard_time": 1744527561,
+        "rank": 4,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 575450,
+        "num": 575450,
+        "word": "甲亢哥对中国惦念不忘发文表白",
+        "onboard_time": 1744524081,
+        "rank": 5,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 503621,
+        "num": 503621,
+        "word": "公摊面积最大的蔬菜",
+        "onboard_time": 1744524801,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 472277,
+        "num": 472277,
+        "word": "双相情感障碍又叫天才病",
+        "onboard_time": 1744522463,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339701,
+        "num": 339701,
+        "word": "同居租房男生出钱女生拒绝",
+        "onboard_time": 1744522822,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 266821,
+        "num": 266821,
+        "word": "官方通报树被风吹倒砸伤女子致死",
+        "onboard_time": 1744520421,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1208369,
+        "num": 265085,
+        "word": "谢娜说别拜了踩我裙子了",
+        "onboard_time": 1744528100,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 616100,
+        "num": 254022,
+        "word": "谁来管管现在的女装",
+        "onboard_time": 1744515141,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 545616,
+        "num": 250996,
+        "word": "赵露思哭戏",
+        "onboard_time": 1744525401,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 375153,
+        "num": 245022,
+        "word": "女生喉咙痛从就诊到去世仅10分钟",
+        "onboard_time": 1744469426,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63240,
+        "num": 236985,
+        "word": "虚构考研成绩为啥能成生意",
+        "onboard_time": 1744528521,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234351,
+        "num": 234351,
+        "word": "你好星期六收视第一",
+        "onboard_time": 1744515322,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232809,
+        "num": 232809,
+        "word": "首都机场地勤欺负老人",
+        "onboard_time": 1744524381,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230273,
+        "num": 230273,
+        "word": "官宣做卫生巾后黄子韬掉粉46万",
+        "onboard_time": 1744504222,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26291,
+        "num": 228508,
+        "word": "耶伦批特朗普贸易政策是严重自残",
+        "onboard_time": 1744528581,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 24123,
+        "num": 227222,
+        "word": "放飞自我的侯佩岑太吸粉了",
+        "onboard_time": 1744529001,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39193,
+        "num": 226967,
+        "word": "毛宁分享肯尼迪讲话视频",
+        "onboard_time": 1744529422,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 226953,
+        "num": 226953,
+        "word": "胖东来工资单",
+        "onboard_time": 1744514179,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 206628,
+        "num": 206628,
+        "word": "朴成训上岸",
+        "onboard_time": 1744524261,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 197151,
+        "num": 197151,
+        "word": "甲亢哥18宫格总结中国行",
+        "onboard_time": 1744529361,
+        "rank": 23,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 204657,
+        "num": 196616,
+        "word": "李羲承火力全开了",
+        "onboard_time": 1744517841,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 196012,
+        "num": 196012,
+        "word": "宋祖儿演技",
+        "onboard_time": 1744505362,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172144,
+        "num": 172144,
+        "word": "广东沙尘暴",
+        "onboard_time": 1744513521,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167173,
+        "num": 167173,
+        "word": "主包",
+        "onboard_time": 1744523303,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164225,
+        "num": 164225,
+        "word": "孙俪这段演到肝郁血虚",
+        "onboard_time": 1744529721,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150152,
+        "num": 150152,
+        "word": "bite me男伴舞",
+        "onboard_time": 1744518562,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 183988,
+        "num": 148058,
+        "word": "江宏杰回应卖掉与福原爱昔日爱巢",
+        "onboard_time": 1744527921,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141089,
+        "num": 141089,
+        "word": "王宝强才是邓超名场面的见证者",
+        "onboard_time": 1744529302,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127334,
+        "num": 127334,
+        "word": "塔吉克斯坦5.8级地震",
+        "onboard_time": 1744520902,
+        "rank": 32,
+        "category": "国际时政,国际时政"
+      },
+      {
+        "raw_hot": 127288,
+        "num": 127288,
+        "word": "王楚钦普卡同组",
+        "onboard_time": 1744528041,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124370,
+        "num": 124370,
+        "word": "湿气重的7个习惯",
+        "onboard_time": 1744514420,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 122098,
+        "num": 122098,
+        "word": "许嵩00后同事不懂灰色头像",
+        "onboard_time": 1744515440,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 119853,
+        "num": 119853,
+        "word": "樊振东是首位超级金满贯得主",
+        "onboard_time": 1744528100,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118028,
+        "num": 118028,
+        "word": "中越跨国瀑布上的彩虹桥",
+        "onboard_time": 1744529121,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 116677,
+        "num": 116677,
+        "word": "古希腊人在泥板上做Excel表格",
+        "onboard_time": 1744528220,
+        "rank": 38,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 114466,
+        "num": 114466,
+        "word": "院人要做一辈子的好朋友",
+        "onboard_time": 1744526781,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112048,
+        "num": 112048,
+        "word": "金价今年已刷新历史高点超20次",
+        "onboard_time": 1744524261,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 106360,
+        "num": 106360,
+        "word": "王曼昱谈澳门世界杯",
+        "onboard_time": 1744527681,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106169,
+        "num": 106169,
+        "word": "印度男子携准丈母娘卷款私奔",
+        "onboard_time": 1744516342,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 105873,
+        "num": 105873,
+        "word": "大风把柳絮刮走了",
+        "onboard_time": 1744525162,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105280,
+        "num": 105280,
+        "word": "enhypen科切拉舞台",
+        "onboard_time": 1744516281,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 103512,
+        "num": 103512,
+        "word": "学化学的和学食品的都沉默了",
+        "onboard_time": 1744528702,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102482,
+        "num": 102482,
+        "word": "澳门世界杯女子签表",
+        "onboard_time": 1744526541,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102105,
+        "num": 102105,
+        "word": "缅甸发生5.4级地震",
+        "onboard_time": 1744525821,
+        "rank": 47,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 97391,
+        "num": 97391,
+        "word": "国产剧最浪漫的兔子出现了",
+        "onboard_time": 1744529721,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95445,
+        "num": 95445,
+        "word": "左航右航中航",
+        "onboard_time": 1744526963,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定不移推进高水平对外开放观察#"
+    }
+  }
+}
