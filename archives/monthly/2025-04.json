@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744569841157,
+  "endTime": 1744571927453,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -38515,6 +38515,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 49568,
+      "num": 64792,
+      "word": "原本要发美国的摩托车暂停出货",
+      "onboard_time": 1744567216,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49481,
       "num": 83895,
       "word": "前TVB女演员回应摆摊卖鸡爪",
@@ -40865,14 +40873,6 @@
       "onboard_time": 1743503244,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 25906,
-      "num": 64792,
-      "word": "原本要发美国的摩托车暂停出货",
-      "onboard_time": 1744567216,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25806,
