@@ -1,6 +1,6 @@
 {
   "startTime": 1744561767834,
-  "endTime": 1744600283202,
+  "endTime": 1744601241612,
   "band_list": [
     {
       "raw_hot": 2083275,
@@ -11,8 +11,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1287554,
-      "num": 1287554,
+      "raw_hot": 1332237,
+      "num": 1332237,
       "word": "金价",
       "onboard_time": 1744593981,
       "rank": 8,
@@ -51,6 +51,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 816183,
+      "num": 816183,
+      "word": "Jennie科切拉舞台",
+      "onboard_time": 1744600280,
+      "rank": 1,
+      "category": "演出"
+    },
+    {
       "raw_hot": 804538,
       "num": 352429,
       "word": "李佳琦不建议普通女生做医美",
@@ -72,6 +80,14 @@
       "word": "网曝超市将馒头扔地上给大爷大妈抢",
       "onboard_time": 1744561520,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 653608,
+      "num": 123217,
+      "word": "肇事者父亲称一家三口被撞身亡是天灾",
+      "onboard_time": 1744600401,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -131,6 +147,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 519628,
+      "num": 519628,
+      "word": "奔跑吧13定档了",
+      "onboard_time": 1744596861,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 492903,
       "num": 492903,
       "word": "奥斯卡影帝把中国龙穿在身",
@@ -147,12 +171,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 489849,
-      "num": 489849,
-      "word": "奔跑吧13定档了",
-      "onboard_time": 1744596861,
-      "rank": 32,
-      "category": "综艺"
+      "raw_hot": 445231,
+      "num": 315021,
+      "word": "易小星 我遗书都发出去了",
+      "onboard_time": 1744600521,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 440912,
+      "num": 308840,
+      "word": "高校通报老师诱骗女学生恋爱",
+      "onboard_time": 1744598901,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 438583,
@@ -169,6 +201,14 @@
       "onboard_time": 1744541421,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 430720,
+      "num": 383132,
+      "word": "越南人有多爱中国电视剧",
+      "onboard_time": 1744599801,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 424321,
@@ -219,14 +259,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 383132,
-      "num": 383132,
-      "word": "越南人有多爱中国电视剧",
-      "onboard_time": 1744599801,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 368617,
       "num": 368617,
       "word": "祝绪丹 丁禹兮是弟弟不能选",
@@ -243,8 +275,24 @@
       "category": "体育"
     },
     {
+      "raw_hot": 331745,
+      "num": 267331,
+      "word": "八百年不联系的室友以为我没考上研",
+      "onboard_time": 1744598540,
+      "rank": 21,
+      "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 326854,
+      "num": 326854,
+      "word": "严格依法实施各项对美反制措施",
+      "onboard_time": 1744599741,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 309161,
-      "num": 199168,
+      "num": 266279,
       "word": "你洗过你的防晒口罩吗",
       "onboard_time": 1744598481,
       "rank": 20,
@@ -268,7 +316,7 @@
     },
     {
       "raw_hot": 270787,
-      "num": 609079,
+      "num": 615282,
       "word": "大张旗鼓加税偷偷摸摸豁免",
       "onboard_time": 1744553605,
       "rank": 2,
@@ -281,14 +329,6 @@
       "onboard_time": 1744561459,
       "rank": 21,
       "category": "演出"
-    },
-    {
-      "raw_hot": 259351,
-      "num": 194054,
-      "word": "八百年不联系的室友以为我没考上研",
-      "onboard_time": 1744598540,
-      "rank": 21,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 254689,
@@ -308,7 +348,7 @@
     },
     {
       "raw_hot": 250615,
-      "num": 188949,
+      "num": 246998,
       "word": "问界M8太能造了",
       "onboard_time": 1744598780,
       "rank": 22,
@@ -403,6 +443,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210270,
+      "num": 210270,
+      "word": "海关总署最新回应",
+      "onboard_time": 1744599861,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 209167,
+      "num": 209167,
+      "word": "Jennie 妈妈好帅",
+      "onboard_time": 1744600820,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 208395,
       "num": 208395,
       "word": "好友为赵丽颖发声",
@@ -411,20 +467,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205946,
+      "num": 205946,
+      "word": "段奥娟唱歌皱眉",
+      "onboard_time": 1744599920,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 205119,
       "num": 205119,
       "word": "胡先煦邓家佳易小星乘机遇大风",
       "onboard_time": 1744559901,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 204319,
-      "num": 204319,
-      "word": "严格依法实施各项对美反制措施",
-      "onboard_time": 1744599741,
-      "rank": 17,
-      "category": "国内时政"
     },
     {
       "raw_hot": 201570,
@@ -449,14 +505,6 @@
       "onboard_time": 1744595602,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 195951,
-      "num": 241224,
-      "word": "高校通报老师诱骗女学生恋爱",
-      "onboard_time": 1744598901,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 193134,
@@ -507,12 +555,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172556,
+      "num": 172556,
+      "word": "越南街头五星红旗飘扬",
+      "onboard_time": 1744600700,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 171465,
       "num": 171465,
       "word": "蔡徐坤活动人气",
       "onboard_time": 1744594881,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169456,
+      "num": 169456,
+      "word": "成家定档",
+      "onboard_time": 1744600940,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 166838,
@@ -523,20 +587,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 166462,
+      "num": 166462,
+      "word": "何同学掉粉",
+      "onboard_time": 1744600940,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
       "raw_hot": 157958,
       "num": 157958,
       "word": "拥有专注力是走向优秀的开始",
       "onboard_time": 1744590443,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 155668,
-      "num": 155668,
-      "word": "海关总署最新回应",
-      "onboard_time": 1744599861,
-      "rank": 33,
-      "category": "国内时政"
     },
     {
       "raw_hot": 152013,
@@ -587,20 +651,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 140183,
-      "num": 140183,
-      "word": "段奥娟唱歌皱眉",
-      "onboard_time": 1744599920,
-      "rank": 37,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 138957,
       "num": 131807,
       "word": "弟弟找开锁上门后发现姐姐已去世",
       "onboard_time": 1744540761,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138306,
+      "num": 305181,
+      "word": "哪吒汽车被执行金额超1.6亿",
+      "onboard_time": 1744600101,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 138176,
@@ -643,12 +707,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 133460,
+      "num": 133460,
+      "word": "白桃星座",
+      "onboard_time": 1744555343,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 131929,
       "num": 131929,
       "word": "毛不易依萍同款美学",
       "onboard_time": 1744559181,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 131618,
+      "num": 131618,
+      "word": "陈丽君浪姐录制路透",
+      "onboard_time": 1744600340,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 131512,
@@ -673,14 +753,6 @@
       "onboard_time": 1744557203,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 126262,
-      "num": 126262,
-      "word": "白桃星座",
-      "onboard_time": 1744555343,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 124977,
@@ -747,6 +819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 115588,
+      "num": 267623,
+      "word": "AI进入药房会取代药师吗",
+      "onboard_time": 1744599861,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 114717,
       "num": 114717,
       "word": "WCBA冠军之路",
@@ -755,12 +835,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 114259,
-      "num": 179476,
-      "word": "AI进入药房会取代药师吗",
-      "onboard_time": 1744599861,
-      "rank": 25,
-      "category": "互联网"
+      "raw_hot": 112863,
+      "num": 112863,
+      "word": "亚太股市集体飘红",
+      "onboard_time": 1744600882,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 112254,
@@ -793,14 +873,6 @@
       "onboard_time": 1744550964,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 103308,
-      "num": 150431,
-      "word": "哪吒汽车被执行金额超1.6亿",
-      "onboard_time": 1744600101,
-      "rank": 34,
-      "category": "汽车"
     },
     {
       "raw_hot": 102523,
@@ -955,6 +1027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68437,
+      "num": 167095,
+      "word": "单晓娜2比2伯格斯特隆",
+      "onboard_time": 1744599920,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 67711,
       "num": 67711,
       "word": "阿拉维斯vs皇马",
@@ -969,14 +1049,6 @@
       "onboard_time": 1744598360,
       "rank": 19,
       "category": "财经"
-    },
-    {
-      "raw_hot": 65398,
-      "num": 167095,
-      "word": "单晓娜2比2伯格斯特隆",
-      "onboard_time": 1744599920,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 51609,
@@ -1073,6 +1145,14 @@
       "onboard_time": 1744565116,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 31095,
+      "num": 123442,
+      "word": "租赁手机安装监管锁威胁消费者",
+      "onboard_time": 1744601182,
+      "rank": 43,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 30346,

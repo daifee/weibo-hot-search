@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744600283202,
+  "endTime": 1744601241612,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -1811,6 +1811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1332237,
+      "num": 1332237,
+      "word": "金价",
+      "onboard_time": 1743519987,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1331777,
       "num": 1331777,
       "word": "阿诺有非常严重的容貌焦虑",
@@ -1929,14 +1937,6 @@
       "onboard_time": 1744034065,
       "rank": 1,
       "category": "网红,艺人"
-    },
-    {
-      "raw_hot": 1287554,
-      "num": 1287554,
-      "word": "金价",
-      "onboard_time": 1743519987,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 1279382,
@@ -3963,6 +3963,14 @@
       "category": "网红,民生新闻"
     },
     {
+      "raw_hot": 816183,
+      "num": 816183,
+      "word": "Jennie科切拉舞台",
+      "onboard_time": 1744600280,
+      "rank": 1,
+      "category": "演出"
+    },
+    {
       "raw_hot": 815926,
       "num": 815926,
       "word": "特朗普支持率降至上任来最低",
@@ -5249,6 +5257,14 @@
       "onboard_time": 1743730401,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 653608,
+      "num": 123217,
+      "word": "肇事者父亲称一家三口被撞身亡是天灾",
+      "onboard_time": 1744600401,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 652798,
@@ -6843,6 +6859,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 519628,
+      "num": 519628,
+      "word": "奔跑吧13定档了",
+      "onboard_time": 1744596861,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 519490,
       "num": 519490,
       "word": "海警按一个中国原则环台岛执法管控",
@@ -7385,14 +7409,6 @@
       "onboard_time": 1744529780,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 489849,
-      "num": 489849,
-      "word": "奔跑吧13定档了",
-      "onboard_time": 1744596861,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 488395,
@@ -8227,6 +8243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 445231,
+      "num": 315021,
+      "word": "易小星 我遗书都发出去了",
+      "onboard_time": 1744600521,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 444198,
       "num": 893914,
       "word": "男子住32楼为防大风将窗户全封死",
@@ -8329,6 +8353,14 @@
       "onboard_time": 1743821060,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 440912,
+      "num": 308840,
+      "word": "高校通报老师诱骗女学生恋爱",
+      "onboard_time": 1744598901,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 440685,
@@ -8441,6 +8473,14 @@
       "onboard_time": 1744069462,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 430720,
+      "num": 383132,
+      "word": "越南人有多爱中国电视剧",
+      "onboard_time": 1744599801,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 430587,
@@ -9577,14 +9617,6 @@
       "onboard_time": 1743738201,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 383132,
-      "num": 383132,
-      "word": "越南人有多爱中国电视剧",
-      "onboard_time": 1744599801,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 382947,
@@ -11099,6 +11131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 331745,
+      "num": 267331,
+      "word": "八百年不联系的室友以为我没考上研",
+      "onboard_time": 1744598540,
+      "rank": 21,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 331603,
       "num": 337921,
       "word": "脆脆鲨品牌代言人虞书欣",
@@ -11209,6 +11249,14 @@
       "onboard_time": 1744378105,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 326854,
+      "num": 326854,
+      "word": "严格依法实施各项对美反制措施",
+      "onboard_time": 1744599741,
+      "rank": 17,
+      "category": "国内时政"
     },
     {
       "raw_hot": 326783,
@@ -11852,7 +11900,7 @@
     },
     {
       "raw_hot": 309161,
-      "num": 199168,
+      "num": 266279,
       "word": "你洗过你的防晒口罩吗",
       "onboard_time": 1744598481,
       "rank": 20,
@@ -14091,14 +14139,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 259351,
-      "num": 194054,
-      "word": "八百年不联系的室友以为我没考上研",
-      "onboard_time": 1744598540,
-      "rank": 21,
-      "category": "情感,休闲"
-    },
-    {
       "raw_hot": 259224,
       "num": 371984,
       "word": "女子夜乘顺风车司机全程智驾玩手机",
@@ -14540,7 +14580,7 @@
     },
     {
       "raw_hot": 250615,
-      "num": 188949,
+      "num": 246998,
       "word": "问界M8太能造了",
       "onboard_time": 1744598780,
       "rank": 22,
@@ -17339,6 +17379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210270,
+      "num": 210270,
+      "word": "海关总署最新回应",
+      "onboard_time": 1744599861,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 210192,
       "num": 210192,
       "word": "外交部回应美对华船只征收港口停靠费",
@@ -17465,6 +17513,14 @@
       "onboard_time": 1744374443,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 209167,
+      "num": 209167,
+      "word": "Jennie 妈妈好帅",
+      "onboard_time": 1744600820,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 209162,
@@ -17947,6 +18003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205946,
+      "num": 205946,
+      "word": "段奥娟唱歌皱眉",
+      "onboard_time": 1744599920,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 205796,
       "num": 205796,
       "word": "全圆佑cover了tomboy",
@@ -18153,14 +18217,6 @@
       "onboard_time": 1744031964,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 204319,
-      "num": 204319,
-      "word": "严格依法实施各项对美反制措施",
-      "onboard_time": 1744599741,
-      "rank": 17,
-      "category": "国内时政"
     },
     {
       "raw_hot": 204270,
@@ -19281,14 +19337,6 @@
       "onboard_time": 1744103421,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 195951,
-      "num": 241224,
-      "word": "高校通报老师诱骗女学生恋爱",
-      "onboard_time": 1744598901,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 195934,
@@ -22875,6 +22923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172556,
+      "num": 172556,
+      "word": "越南街头五星红旗飘扬",
+      "onboard_time": 1744600700,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 172535,
       "num": 172535,
       "word": "清明档电影票房破2.3亿",
@@ -23289,6 +23345,14 @@
       "onboard_time": 1744007002,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 169456,
+      "num": 169456,
+      "word": "成家定档",
+      "onboard_time": 1744600940,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 169439,
@@ -23745,6 +23809,14 @@
       "onboard_time": 1743743781,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166462,
+      "num": 166462,
+      "word": "何同学掉粉",
+      "onboard_time": 1744600940,
+      "rank": 33,
+      "category": "网红"
     },
     {
       "raw_hot": 166452,
@@ -25449,14 +25521,6 @@
       "onboard_time": 1744165281,
       "rank": 48,
       "category": "互联网,财经"
-    },
-    {
-      "raw_hot": 155668,
-      "num": 155668,
-      "word": "海关总署最新回应",
-      "onboard_time": 1744599861,
-      "rank": 33,
-      "category": "国内时政"
     },
     {
       "raw_hot": 155598,
@@ -28043,14 +28107,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 140183,
-      "num": 140183,
-      "word": "段奥娟唱歌皱眉",
-      "onboard_time": 1744599920,
-      "rank": 37,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 140141,
       "num": 140141,
       "word": "股票",
@@ -28433,6 +28489,14 @@
       "onboard_time": 1743740542,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 138306,
+      "num": 305181,
+      "word": "哪吒汽车被执行金额超1.6亿",
+      "onboard_time": 1744600101,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 138290,
@@ -29680,6 +29744,14 @@
       "word": "浪姐每次都压错宝",
       "onboard_time": 1744423461,
       "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 131618,
+      "num": 131618,
+      "word": "陈丽君浪姐录制路透",
+      "onboard_time": 1744600340,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -32531,6 +32603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115588,
+      "num": 267623,
+      "word": "AI进入药房会取代药师吗",
+      "onboard_time": 1744599861,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 115557,
       "num": 115557,
       "word": "李现的教养都体现在细节里",
@@ -32795,14 +32875,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 114259,
-      "num": 179476,
-      "word": "AI进入药房会取代药师吗",
-      "onboard_time": 1744599861,
-      "rank": 25,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 114185,
       "num": 204168,
       "word": "看完沪粤大战心脏受不了",
@@ -33001,6 +33073,14 @@
       "onboard_time": 1743606804,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 112863,
+      "num": 112863,
+      "word": "亚太股市集体飘红",
+      "onboard_time": 1744600882,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 112821,
@@ -34241,14 +34321,6 @@
       "onboard_time": 1744545681,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 103308,
-      "num": 150431,
-      "word": "哪吒汽车被执行金额超1.6亿",
-      "onboard_time": 1744600101,
-      "rank": 34,
-      "category": "汽车"
     },
     {
       "raw_hot": 103293,
@@ -37379,6 +37451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68437,
+      "num": 167095,
+      "word": "单晓娜2比2伯格斯特隆",
+      "onboard_time": 1744599920,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 68416,
       "num": 67084,
       "word": "Ning怒喷Cat",
@@ -37641,14 +37721,6 @@
       "onboard_time": 1743438142,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 65398,
-      "num": 167095,
-      "word": "单晓娜2比2伯格斯特隆",
-      "onboard_time": 1744599920,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 65360,
@@ -40841,6 +40913,14 @@
       "onboard_time": 1744461624,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31095,
+      "num": 123442,
+      "word": "租赁手机安装监管锁威胁消费者",
+      "onboard_time": 1744601182,
+      "rank": 43,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 31046,

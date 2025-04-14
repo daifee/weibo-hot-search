@@ -1,0 +1,410 @@
+{
+  "runTime": 1744601241612,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1332237,
+        "num": 1332237,
+        "word": "金价",
+        "onboard_time": 1744593981,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 816183,
+        "num": 816183,
+        "word": "Jennie科切拉舞台",
+        "onboard_time": 1744600280,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 222747,
+        "num": 615282,
+        "word": "大张旗鼓加税偷偷摸摸豁免",
+        "onboard_time": 1744553605,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1047742,
+        "num": 596122,
+        "word": "哪吒汽车原CEO张勇被曝已在英国",
+        "onboard_time": 1744596562,
+        "rank": 3,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 519628,
+        "num": 519628,
+        "word": "奔跑吧13定档了",
+        "onboard_time": 1744596861,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 390499,
+        "num": 390499,
+        "word": "马斯克发文暗示经济全球化",
+        "onboard_time": 1744593742,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1451936,
+        "num": 382278,
+        "word": "全红婵 那咋了这就破防了",
+        "onboard_time": 1744594581,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 430720,
+        "num": 368051,
+        "word": "越南人有多爱中国电视剧",
+        "onboard_time": 1744599801,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 347301,
+        "num": 347301,
+        "word": "略萨去世",
+        "onboard_time": 1744597043,
+        "rank": 8,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 326854,
+        "num": 326854,
+        "word": "严格依法实施各项对美反制措施",
+        "onboard_time": 1744599741,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 604244,
+        "num": 324669,
+        "word": "男演员退圈回老家赶集摆摊",
+        "onboard_time": 1744559242,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 460554,
+        "num": 320931,
+        "word": "李佳琦不建议普通女生做医美",
+        "onboard_time": 1744543761,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 445231,
+        "num": 315021,
+        "word": "易小星 我遗书都发出去了",
+        "onboard_time": 1744600521,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 440912,
+        "num": 308840,
+        "word": "高校通报老师诱骗女学生恋爱",
+        "onboard_time": 1744598901,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138306,
+        "num": 305181,
+        "word": "哪吒汽车被执行金额超1.6亿",
+        "onboard_time": 1744600101,
+        "rank": 14,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 300045,
+        "num": 300045,
+        "word": "当年都以为奔跑吧兄弟没有第二季",
+        "onboard_time": 1744589482,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282740,
+        "num": 282740,
+        "word": "奥斯卡影帝把中国龙穿在身",
+        "onboard_time": 1744592962,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 278141,
+        "num": 278141,
+        "word": "全妹多来点王楚钦怼脸拍",
+        "onboard_time": 1744596621,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 239375,
+        "num": 269553,
+        "word": "人民币成全球第三大贸易融资货币",
+        "onboard_time": 1744587200,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 115588,
+        "num": 267623,
+        "word": "AI进入药房会取代药师吗",
+        "onboard_time": 1744599861,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 331745,
+        "num": 267331,
+        "word": "八百年不联系的室友以为我没考上研",
+        "onboard_time": 1744598540,
+        "rank": 20,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 266279,
+        "num": 266279,
+        "word": "你洗过你的防晒口罩吗",
+        "onboard_time": 1744598481,
+        "rank": 21,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 246998,
+        "num": 246998,
+        "word": "问界M8太能造了",
+        "onboard_time": 1744598780,
+        "rank": 22,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 210270,
+        "num": 210270,
+        "word": "海关总署最新回应",
+        "onboard_time": 1744599861,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 209167,
+        "num": 209167,
+        "word": "Jennie 妈妈好帅",
+        "onboard_time": 1744600820,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 209156,
+        "num": 209156,
+        "word": "白鹿说这一季轻装上阵",
+        "onboard_time": 1744599081,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205946,
+        "num": 205946,
+        "word": "段奥娟唱歌皱眉",
+        "onboard_time": 1744599920,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 179610,
+        "num": 179610,
+        "word": "时代少年团太原演唱会官方回复",
+        "onboard_time": 1744594521,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 203169,
+        "num": 177189,
+        "word": "临近退休遭解聘老师退休前工资2000",
+        "onboard_time": 1744588521,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172556,
+        "num": 172556,
+        "word": "越南街头五星红旗飘扬",
+        "onboard_time": 1744600700,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 172190,
+        "num": 172190,
+        "word": "种地吧",
+        "onboard_time": 1744598301,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169456,
+        "num": 169456,
+        "word": "成家定档",
+        "onboard_time": 1744600940,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166976,
+        "num": 166976,
+        "word": "网曝超市将馒头扔地上给大爷大妈抢",
+        "onboard_time": 1744561520,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166462,
+        "num": 166462,
+        "word": "何同学掉粉",
+        "onboard_time": 1744600940,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 158623,
+        "num": 158623,
+        "word": "女生替去世前男友照顾家人还债60万",
+        "onboard_time": 1744554864,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148732,
+        "num": 148732,
+        "word": "外媒问哪来的自信幻想中国人会跪",
+        "onboard_time": 1744558163,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 148212,
+        "num": 148212,
+        "word": "灿如繁星将开机",
+        "onboard_time": 1744594639,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141474,
+        "num": 141474,
+        "word": "英国反华议员赴香港探亲被拒入境",
+        "onboard_time": 1744590261,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 133796,
+        "num": 133796,
+        "word": "黄圣依晒与陈梦程潇李嘉格合照",
+        "onboard_time": 1744590622,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68437,
+        "num": 133593,
+        "word": "单晓娜2比2伯格斯特隆",
+        "onboard_time": 1744599920,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133460,
+        "num": 133460,
+        "word": "白桃星座",
+        "onboard_time": 1744600160,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131618,
+        "num": 131618,
+        "word": "陈丽君浪姐录制路透",
+        "onboard_time": 1744600340,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126770,
+        "num": 126770,
+        "word": "145%关税让1只熊猫玩偶卖80美元",
+        "onboard_time": 1744537883,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 31095,
+        "num": 123442,
+        "word": "租赁手机安装监管锁威胁消费者",
+        "onboard_time": 1744601182,
+        "rank": 43,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 653608,
+        "num": 123217,
+        "word": "肇事者父亲称一家三口被撞身亡是天灾",
+        "onboard_time": 1744600401,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120519,
+        "num": 120519,
+        "word": "多种疾病的前期症状与春困很像",
+        "onboard_time": 1744598239,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 113902,
+        "num": 113902,
+        "word": "亚马逊出售的商品六七成来自中国",
+        "onboard_time": 1744590682,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 112863,
+        "num": 112863,
+        "word": "亚太股市集体飘红",
+        "onboard_time": 1744600882,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 110970,
+        "num": 110970,
+        "word": "xmx EDG",
+        "onboard_time": 1744596501,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108187,
+        "num": 108187,
+        "word": "印度少女遭贩卖逃脱被警方强制送回",
+        "onboard_time": 1744582636,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中越山水相连文化相通#"
+    }
+  }
+}
