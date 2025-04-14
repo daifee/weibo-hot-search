@@ -1,0 +1,410 @@
+{
+  "runTime": 1744613371935,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1187915,
+        "num": 1190066,
+        "word": "美国人开始飞中国代购中国制造",
+        "onboard_time": 1744605326,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 699940,
+        "num": 699940,
+        "word": "诗幂合作",
+        "onboard_time": 1744609763,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 192735,
+        "num": 543769,
+        "word": "中式奶茶成为越南年轻人的新宠",
+        "onboard_time": 1744602442,
+        "rank": 2,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 530387,
+        "num": 530387,
+        "word": "Jennie 妈妈好帅",
+        "onboard_time": 1744600820,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 522366,
+        "num": 522366,
+        "word": "苹果死守中国绝不是因为廉价",
+        "onboard_time": 1744602142,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 264573,
+        "num": 500930,
+        "word": "王皓陪练王楚钦",
+        "onboard_time": 1744611443,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 581432,
+        "num": 500405,
+        "word": "景德镇车祸遇难者家属患重度抑郁",
+        "onboard_time": 1744606705,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 499465,
+        "num": 499465,
+        "word": "何同学 向下拒绝",
+        "onboard_time": 1744609822,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 348971,
+        "num": 491640,
+        "word": "张艺谋新片题材是国家安全",
+        "onboard_time": 1744606344,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 244894,
+        "num": 482587,
+        "word": "驻日大使馆提醒注意防范地震",
+        "onboard_time": 1744603703,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2151874,
+        "num": 472056,
+        "word": "韩红母亲逝世",
+        "onboard_time": 1744610422,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 749621,
+        "num": 454194,
+        "word": "吃芒果是一件很私密的事",
+        "onboard_time": 1744604302,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 446045,
+        "num": 446045,
+        "word": "找工作被要求得过诺贝尔奖",
+        "onboard_time": 1744610302,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 431724,
+        "num": 431724,
+        "word": "章昊回国买了5部旧手机",
+        "onboard_time": 1744609343,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47545,
+        "num": 346993,
+        "word": "工作时猝死抢救超48小时无法认定工伤",
+        "onboard_time": 1744612702,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323534,
+        "num": 323534,
+        "word": "内娱第一对豹豹兔兔",
+        "onboard_time": 1744607123,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 322479,
+        "num": 322479,
+        "word": "杨幂圆梦了",
+        "onboard_time": 1744612043,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 195479,
+        "num": 291833,
+        "word": "张艺谋刘耀文再合作",
+        "onboard_time": 1744612523,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 287554,
+        "num": 287554,
+        "word": "美国若想生产婚纱得先培养缝纫工",
+        "onboard_time": 1744602442,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 99241,
+        "num": 258572,
+        "word": "发了1个月传单获利1万元被判刑了",
+        "onboard_time": 1744607123,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255883,
+        "num": 255883,
+        "word": "偶遇许玮甯邱泽手牵手散步",
+        "onboard_time": 1744607962,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253764,
+        "num": 253764,
+        "word": "学校再回应女教师临退休遭解聘",
+        "onboard_time": 1744611143,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250167,
+        "num": 250167,
+        "word": "景德镇车祸肇事方已转让店面",
+        "onboard_time": 1744611443,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243127,
+        "num": 243127,
+        "word": "关晓彤 体制内的美",
+        "onboard_time": 1744604903,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166728,
+        "num": 228929,
+        "word": "金饰价格涨破1000元",
+        "onboard_time": 1744610003,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 215204,
+        "num": 215204,
+        "word": "北京警方刑拘1名假富二代",
+        "onboard_time": 1744608204,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192980,
+        "num": 192980,
+        "word": "无忧渡 夜华的头套还留着呢",
+        "onboard_time": 1744606645,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174018,
+        "num": 174018,
+        "word": "黄金暴涨回收商不敢持金过夜",
+        "onboard_time": 1744607065,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 173385,
+        "num": 173385,
+        "word": "日本没有考虑对美征收报复性关税",
+        "onboard_time": 1744610302,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 42823,
+        "num": 167272,
+        "word": "前掘金主帅马龙告别信",
+        "onboard_time": 1744611981,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114032,
+        "num": 166525,
+        "word": "蔡文静 报备型女友",
+        "onboard_time": 1744610663,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166152,
+        "num": 166152,
+        "word": "女生的困境只有女生能懂",
+        "onboard_time": 1744610962,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157639,
+        "num": 157639,
+        "word": "美国玩具厂商快崩溃了",
+        "onboard_time": 1744605264,
+        "rank": 32,
+        "category": "国际时政,幽默"
+      },
+      {
+        "raw_hot": 157316,
+        "num": 157316,
+        "word": "问界M7沈阳车展事件",
+        "onboard_time": 1744612462,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 153796,
+        "num": 153796,
+        "word": "陈昊宇年代剧适配度",
+        "onboard_time": 1744612581,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150137,
+        "num": 150137,
+        "word": "赵又廷毛晓彤金世佳同框",
+        "onboard_time": 1744609822,
+        "rank": 35,
+        "category": "电影,综艺"
+      },
+      {
+        "raw_hot": 145489,
+        "num": 145489,
+        "word": "特朗普口中的世界第八大奇迹烂尾",
+        "onboard_time": 1744610483,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 11279,
+        "num": 145022,
+        "word": "日本人吐槽大阪世博吉祥物",
+        "onboard_time": 1744613242,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 26515,
+        "num": 144907,
+        "word": "驴友将他人背上山的水推下山坡",
+        "onboard_time": 1744612343,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19345,
+        "num": 144809,
+        "word": "大阪世博2.3亿美元木建筑漏雨",
+        "onboard_time": 1744612581,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 144796,
+        "num": 144796,
+        "word": "XG科切拉舞台",
+        "onboard_time": 1744610663,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 143251,
+        "num": 143251,
+        "word": "研究员违规携带水稻种质资源出境",
+        "onboard_time": 1744602201,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141291,
+        "num": 141291,
+        "word": "美国反复打脸又挽尊伤最狠是自身",
+        "onboard_time": 1744612881,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 140880,
+        "num": 140880,
+        "word": "黄英好像李晟的小手办",
+        "onboard_time": 1744613122,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139139,
+        "num": 139139,
+        "word": "VOGUE主编刘冲邀你线下打卡",
+        "onboard_time": 1744611803,
+        "rank": 44,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 137601,
+        "num": 137601,
+        "word": "何同学掉粉",
+        "onboard_time": 1744600940,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 136387,
+        "num": 136387,
+        "word": "小孩跳楼砸坏新车家长只赔几百",
+        "onboard_time": 1744613062,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135781,
+        "num": 135781,
+        "word": "simon EDG",
+        "onboard_time": 1744612281,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 131682,
+        "num": 131682,
+        "word": "长身体的主要原因不是因为吃",
+        "onboard_time": 1744612641,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 127127,
+        "num": 127127,
+        "word": "胡先煦乘机遇大风后感谢机组",
+        "onboard_time": 1744610603,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#隔海相望的千年友邻#"
+    }
+  }
+}
