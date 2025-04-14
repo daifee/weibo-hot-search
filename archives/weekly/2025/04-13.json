@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744619610001,
+  "endTime": 1744620412437,
   "band_list": [
     {
       "raw_hot": 3004197,
@@ -59,19 +59,19 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1985180,
+      "num": 1587932,
+      "word": "杨幂圆梦了",
+      "onboard_time": 1744612043,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1958059,
       "num": 1958059,
       "word": "赵丽颖 转型",
       "onboard_time": 1744530322,
       "rank": 0,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 1832916,
-      "num": 1587932,
-      "word": "杨幂圆梦了",
-      "onboard_time": 1744612043,
-      "rank": 34,
       "category": "电影"
     },
     {
@@ -123,6 +123,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1655380,
+      "num": 1655380,
+      "word": "江苏新增1名亿万富翁",
+      "onboard_time": 1744618163,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1636165,
       "num": 409623,
       "word": "谁来管管现在的女装",
@@ -160,14 +168,6 @@
       "word": "28岁网红因病去世留下4个孩子",
       "onboard_time": 1744548082,
       "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1353943,
-      "num": 1353943,
-      "word": "江苏新增1名亿万富翁",
-      "onboard_time": 1744618163,
-      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -275,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1094209,
+      "num": 1094209,
+      "word": "日本首相警告美国",
+      "onboard_time": 1744619003,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1085189,
       "num": 1085189,
       "word": "弟弟找开锁上门后发现姐姐已去世",
@@ -348,7 +356,7 @@
     },
     {
       "raw_hot": 974955,
-      "num": 360385,
+      "num": 368870,
       "word": "有棵树代言人",
       "onboard_time": 1744615522,
       "rank": 23,
@@ -683,6 +691,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 619677,
+      "num": 355791,
+      "word": "宋雨琦 你要毁了我吗",
+      "onboard_time": 1744616963,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 614360,
       "num": 614360,
       "word": "美国免除智能手机电脑对等关税",
@@ -713,14 +729,6 @@
       "onboard_time": 1744589482,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 588719,
-      "num": 266910,
-      "word": "宋雨琦 你要毁了我吗",
-      "onboard_time": 1744616963,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 574797,
@@ -1147,6 +1155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 409926,
+      "num": 409926,
+      "word": "宋祖儿陈都灵古装双A对决",
+      "onboard_time": 1744617322,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 406091,
       "num": 406091,
       "word": "妈妈监控中发现孩子情绪异常查出脱臼",
@@ -1171,6 +1187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 396433,
+      "num": 396433,
+      "word": "Jennie看向人群的这三秒",
+      "onboard_time": 1744616422,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 396077,
       "num": 396077,
       "word": "小伙给婚恋公司交17万第2天就领证",
@@ -1185,14 +1209,6 @@
       "onboard_time": 1744597043,
       "rank": 48,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 386578,
-      "num": 386578,
-      "word": "Jennie看向人群的这三秒",
-      "onboard_time": 1744616422,
-      "rank": 7,
-      "category": "演出"
     },
     {
       "raw_hot": 386382,
@@ -1225,14 +1241,6 @@
       "onboard_time": 1744605264,
       "rank": 19,
       "category": "国际时政,幽默"
-    },
-    {
-      "raw_hot": 372720,
-      "num": 372720,
-      "word": "日本首相警告美国",
-      "onboard_time": 1744619003,
-      "rank": 8,
-      "category": "国际时政"
     },
     {
       "raw_hot": 370690,
@@ -1339,6 +1347,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 340035,
+      "num": 340035,
+      "word": "满江红2",
+      "onboard_time": 1744618402,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 338562,
       "num": 648025,
       "word": "90艘货船正从中国驶向美国",
@@ -1377,14 +1393,6 @@
       "onboard_time": 1744598540,
       "rank": 21,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 329279,
-      "num": 329279,
-      "word": "宋祖儿陈都灵古装双A对决",
-      "onboard_time": 1744617322,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 328292,
@@ -1540,7 +1548,7 @@
     },
     {
       "raw_hot": 284991,
-      "num": 259347,
+      "num": 271541,
       "word": "生理性厌恶的8个表现",
       "onboard_time": 1744456703,
       "rank": 22,
@@ -1609,6 +1617,14 @@
       "onboard_time": 1744607962,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 273364,
+      "num": 325671,
+      "word": "第一次见录一半全睡了的综艺",
+      "onboard_time": 1744619482,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 271145,
@@ -1811,6 +1827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 240546,
+      "num": 265810,
+      "word": "女装退货率越来越高",
+      "onboard_time": 1744617803,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 240393,
       "num": 240393,
       "word": "北京警方刑拘1名假富二代",
@@ -1849,6 +1873,14 @@
       "onboard_time": 1744518743,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 237729,
+      "num": 237729,
+      "word": "iPhone17Pro十二大关键升级",
+      "onboard_time": 1744618942,
+      "rank": 44,
+      "category": "数码"
     },
     {
       "raw_hot": 236884,
@@ -1985,6 +2017,14 @@
       "onboard_time": 1744558401,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 221499,
+      "num": 221499,
+      "word": "连续跑步70天的面部变化",
+      "onboard_time": 1744619361,
+      "rank": 42,
+      "category": "运动健身"
     },
     {
       "raw_hot": 219459,
@@ -2185,14 +2225,6 @@
       "onboard_time": 1744599861,
       "rank": 33,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 210165,
-      "num": 268607,
-      "word": "满江红2",
-      "onboard_time": 1744618402,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 210144,
@@ -2460,7 +2492,7 @@
     },
     {
       "raw_hot": 196548,
-      "num": 256259,
+      "num": 266031,
       "word": "白鹿参加北上研讨会路透",
       "onboard_time": 1744618942,
       "rank": 25,
@@ -2513,6 +2545,14 @@
       "onboard_time": 1744554864,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 192598,
+      "num": 267027,
+      "word": "内地版小鹏X9竟在香港自己学会智驾了",
+      "onboard_time": 1744617922,
+      "rank": 24,
+      "category": "汽车"
     },
     {
       "raw_hot": 191744,
@@ -2627,12 +2667,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 185082,
-      "num": 258443,
-      "word": "内地版小鹏X9竟在香港自己学会智驾了",
-      "onboard_time": 1744617922,
-      "rank": 24,
-      "category": "汽车"
+      "raw_hot": 185224,
+      "num": 185224,
+      "word": "特朗普年度体检报告公布",
+      "onboard_time": 1744619902,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 184910,
@@ -2963,6 +3003,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 170229,
+      "num": 1236071,
+      "word": "美国关税政策乱上加乱",
+      "onboard_time": 1744619303,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 170140,
       "num": 170140,
       "word": "赵丽颖真相无人知谣言四起传",
@@ -3083,14 +3131,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 164301,
-      "num": 164301,
-      "word": "连续跑步70天的面部变化",
-      "onboard_time": 1744619361,
-      "rank": 42,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 164017,
       "num": 164017,
       "word": "陈若琳全红婵走的每一步她都经历过",
@@ -3113,14 +3153,6 @@
       "onboard_time": 1744605146,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 162680,
-      "num": 162680,
-      "word": "iPhone17Pro十二大关键升级",
-      "onboard_time": 1744618942,
-      "rank": 44,
-      "category": "数码"
     },
     {
       "raw_hot": 162661,
@@ -3531,14 +3563,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 142735,
-      "num": 142735,
-      "word": "第一次见录一半全睡了的综艺",
-      "onboard_time": 1744619482,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 142599,
       "num": 142599,
       "word": "何广智说缺爱的人爱是具体的",
@@ -3889,14 +3913,6 @@
       "onboard_time": 1744517121,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 132411,
-      "num": 265810,
-      "word": "女装退货率越来越高",
-      "onboard_time": 1744617803,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 132256,
@@ -4267,12 +4283,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120478,
+      "num": 120478,
+      "word": "曹笑天发长文",
+      "onboard_time": 1744619783,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120440,
       "num": 120440,
       "word": "宋妍霏来浪姐目的不单纯",
       "onboard_time": 1744613663,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120299,
+      "num": 120299,
+      "word": "建议内耗的人多接触可爱的东西",
+      "onboard_time": 1744619003,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 119974,
@@ -4515,6 +4547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112354,
+      "num": 240140,
+      "word": "邱贻可陪练孙颖莎还不忘吃瓜",
+      "onboard_time": 1744619543,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112308,
       "num": 112308,
       "word": "王一博登VOGUE五大满贯",
@@ -4601,6 +4641,14 @@
       "onboard_time": 1744551923,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109088,
+      "num": 308728,
+      "word": "马丽新片两眼一睁就是干",
+      "onboard_time": 1744619842,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 108677,
@@ -5211,14 +5259,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 67778,
-      "num": 216589,
-      "word": "邱贻可陪练孙颖莎还不忘吃瓜",
-      "onboard_time": 1744619543,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 67774,
       "num": 275626,
       "word": "阿尔卡拉斯首夺蒙特卡洛冠军",
@@ -5255,14 +5295,6 @@
       "num": 944665,
       "word": "以斗争精神捍卫国家利益",
       "onboard_time": 1744472304,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 64075,
-      "num": 1102447,
-      "word": "美国关税政策乱上加乱",
-      "onboard_time": 1744619303,
       "rank": 2,
       "category": "国内时政"
     },
@@ -5467,6 +5499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 43242,
+      "num": 286214,
+      "word": "棉花糖爸爸找到女儿小杨梅了",
+      "onboard_time": 1744619902,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42679,
       "num": 174581,
       "word": "这WB的配合太棒了",
@@ -5497,6 +5537,14 @@
       "onboard_time": 1744477939,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 41984,
+      "num": 362848,
+      "word": "中国传统美学和最新科技惊艳世博会",
+      "onboard_time": 1744618643,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41377,
@@ -5563,6 +5611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39257,
+      "num": 254705,
+      "word": "马龙发长文告别掘金",
+      "onboard_time": 1744613602,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 39193,
       "num": 226967,
       "word": "毛宁分享肯尼迪讲话视频",
@@ -5617,14 +5673,6 @@
       "onboard_time": 1744614441,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 36061,
-      "num": 362848,
-      "word": "中国传统美学和最新科技惊艳世博会",
-      "onboard_time": 1744618643,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 35652,
@@ -5763,6 +5811,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 24380,
+      "num": 251315,
+      "word": "郑钦文红土赛季新陪练",
+      "onboard_time": 1744619601,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 24358,
       "num": 215563,
       "word": "国足6月重庆战巴林",
@@ -5835,6 +5891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21473,
+      "num": 176454,
+      "word": "那些你不知道的北京地儿",
+      "onboard_time": 1744619181,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20662,
       "num": 226978,
       "word": "特朗普政府肆意破坏WTO规则",
@@ -5897,6 +5961,14 @@
       "onboard_time": 1744576995,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 18689,
+      "num": 176546,
+      "word": "鉴定面试HR热门话术",
+      "onboard_time": 1744620322,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 18370,
@@ -6081,6 +6153,9 @@
     },
     {
       "word": "#习近平开始对越南进行国事访问#"
+    },
+    {
+      "word": "#越南各界热切期待习近平到访#"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "startTime": 1744561767834,
-  "endTime": 1744619610001,
+  "endTime": 1744620412437,
   "band_list": [
     {
       "raw_hot": 2483493,
@@ -43,7 +43,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 1832916,
+      "raw_hot": 1985180,
       "num": 1587932,
       "word": "杨幂圆梦了",
       "onboard_time": 1744612043,
@@ -59,20 +59,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1655380,
+      "num": 1655380,
+      "word": "江苏新增1名亿万富翁",
+      "onboard_time": 1744618163,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1459988,
       "num": 1459988,
       "word": "苹果死守中国绝不是因为廉价",
       "onboard_time": 1744602142,
       "rank": 22,
       "category": "数码"
-    },
-    {
-      "raw_hot": 1353943,
-      "num": 1353943,
-      "word": "江苏新增1名亿万富翁",
-      "onboard_time": 1744618163,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1332237,
@@ -115,6 +115,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 1094209,
+      "num": 1094209,
+      "word": "日本首相警告美国",
+      "onboard_time": 1744619003,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1052209,
       "num": 417123,
       "word": "易小星 我遗书都发出去了",
@@ -148,7 +156,7 @@
     },
     {
       "raw_hot": 974955,
-      "num": 360385,
+      "num": 368870,
       "word": "有棵树代言人",
       "onboard_time": 1744615522,
       "rank": 23,
@@ -259,6 +267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 619677,
+      "num": 355791,
+      "word": "宋雨琦 你要毁了我吗",
+      "onboard_time": 1744616963,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 610507,
       "num": 610507,
       "word": "何同学 小布尔乔亚",
@@ -281,14 +297,6 @@
       "onboard_time": 1744589482,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 588719,
-      "num": 266910,
-      "word": "宋雨琦 你要毁了我吗",
-      "onboard_time": 1744616963,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 547397,
@@ -459,6 +467,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 409926,
+      "num": 409926,
+      "word": "宋祖儿陈都灵古装双A对决",
+      "onboard_time": 1744617322,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 406091,
       "num": 406091,
       "word": "妈妈监控中发现孩子情绪异常查出脱臼",
@@ -475,20 +491,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 396433,
+      "num": 396433,
+      "word": "Jennie看向人群的这三秒",
+      "onboard_time": 1744616422,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 387277,
       "num": 387277,
       "word": "略萨去世",
       "onboard_time": 1744597043,
       "rank": 48,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 386578,
-      "num": 386578,
-      "word": "Jennie看向人群的这三秒",
-      "onboard_time": 1744616422,
-      "rank": 7,
-      "category": "演出"
     },
     {
       "raw_hot": 386382,
@@ -531,14 +547,6 @@
       "category": "国际时政,幽默"
     },
     {
-      "raw_hot": 372720,
-      "num": 372720,
-      "word": "日本首相警告美国",
-      "onboard_time": 1744619003,
-      "rank": 8,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 368617,
       "num": 368617,
       "word": "祝绪丹 丁禹兮是弟弟不能选",
@@ -552,6 +560,14 @@
       "word": "惊蛰无声",
       "onboard_time": 1744606705,
       "rank": 14,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 340035,
+      "num": 340035,
+      "word": "满江红2",
+      "onboard_time": 1744618402,
+      "rank": 17,
       "category": "电影"
     },
     {
@@ -577,14 +593,6 @@
       "onboard_time": 1744598540,
       "rank": 21,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 329279,
-      "num": 329279,
-      "word": "宋祖儿陈都灵古装双A对决",
-      "onboard_time": 1744617322,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 326854,
@@ -644,7 +652,7 @@
     },
     {
       "raw_hot": 284991,
-      "num": 259347,
+      "num": 271541,
       "word": "生理性厌恶的8个表现",
       "onboard_time": 1744618102,
       "rank": 23,
@@ -665,6 +673,14 @@
       "onboard_time": 1744607962,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 273364,
+      "num": 325671,
+      "word": "第一次见录一半全睡了的综艺",
+      "onboard_time": 1744619482,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 270787,
@@ -787,6 +803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 240546,
+      "num": 265810,
+      "word": "女装退货率越来越高",
+      "onboard_time": 1744617803,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 240393,
       "num": 240393,
       "word": "北京警方刑拘1名假富二代",
@@ -817,6 +841,14 @@
       "onboard_time": 1744552764,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 237729,
+      "num": 237729,
+      "word": "iPhone17Pro十二大关键升级",
+      "onboard_time": 1744618942,
+      "rank": 44,
+      "category": "数码"
     },
     {
       "raw_hot": 232155,
@@ -865,6 +897,14 @@
       "onboard_time": 1744558401,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 221499,
+      "num": 221499,
+      "word": "连续跑步70天的面部变化",
+      "onboard_time": 1744619361,
+      "rank": 42,
+      "category": "运动健身"
     },
     {
       "raw_hot": 219359,
@@ -961,14 +1001,6 @@
       "onboard_time": 1744599861,
       "rank": 33,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 210165,
-      "num": 268607,
-      "word": "满江红2",
-      "onboard_time": 1744618402,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 209675,
@@ -1084,7 +1116,7 @@
     },
     {
       "raw_hot": 196548,
-      "num": 256259,
+      "num": 266031,
       "word": "白鹿参加北上研讨会路透",
       "onboard_time": 1744618942,
       "rank": 25,
@@ -1113,6 +1145,14 @@
       "onboard_time": 1744595480,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192598,
+      "num": 267027,
+      "word": "内地版小鹏X9竟在香港自己学会智驾了",
+      "onboard_time": 1744617922,
+      "rank": 24,
+      "category": "汽车"
     },
     {
       "raw_hot": 191529,
@@ -1147,12 +1187,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 185082,
-      "num": 258443,
-      "word": "内地版小鹏X9竟在香港自己学会智驾了",
-      "onboard_time": 1744617922,
-      "rank": 24,
-      "category": "汽车"
+      "raw_hot": 185224,
+      "num": 185224,
+      "word": "特朗普年度体检报告公布",
+      "onboard_time": 1744619902,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 184910,
@@ -1315,6 +1355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170229,
+      "num": 1236071,
+      "word": "美国关税政策乱上加乱",
+      "onboard_time": 1744619303,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 170001,
       "num": 170001,
       "word": "芒果补齐了宋妍霏庆典动作",
@@ -1339,28 +1387,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 164301,
-      "num": 164301,
-      "word": "连续跑步70天的面部变化",
-      "onboard_time": 1744619361,
-      "rank": 42,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 162851,
       "num": 162851,
       "word": "张小婉 内向的喜剧演员",
       "onboard_time": 1744605146,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 162680,
-      "num": 162680,
-      "word": "iPhone17Pro十二大关键升级",
-      "onboard_time": 1744618942,
-      "rank": 44,
-      "category": "数码"
     },
     {
       "raw_hot": 162661,
@@ -1531,14 +1563,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 142735,
-      "num": 142735,
-      "word": "第一次见录一半全睡了的综艺",
-      "onboard_time": 1744619482,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 142491,
       "num": 142491,
       "word": "NBA",
@@ -1673,14 +1697,6 @@
       "onboard_time": 1744615282,
       "rank": 44,
       "category": "美食"
-    },
-    {
-      "raw_hot": 132411,
-      "num": 265810,
-      "word": "女装退货率越来越高",
-      "onboard_time": 1744617803,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 131929,
@@ -1819,12 +1835,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 120478,
+      "num": 120478,
+      "word": "曹笑天发长文",
+      "onboard_time": 1744619783,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120440,
       "num": 120440,
       "word": "宋妍霏来浪姐目的不单纯",
       "onboard_time": 1744613663,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120299,
+      "num": 120299,
+      "word": "建议内耗的人多接触可爱的东西",
+      "onboard_time": 1744619003,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 117542,
@@ -1875,12 +1907,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 112354,
+      "num": 240140,
+      "word": "邱贻可陪练孙颖莎还不忘吃瓜",
+      "onboard_time": 1744619543,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112254,
       "num": 112254,
       "word": "哈登统治勇士快船加时赛",
       "onboard_time": 1744592841,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109088,
+      "num": 308728,
+      "word": "马丽新片两眼一睁就是干",
+      "onboard_time": 1744619842,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 108926,
@@ -2163,14 +2211,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 67778,
-      "num": 216589,
-      "word": "邱贻可陪练孙颖莎还不忘吃瓜",
-      "onboard_time": 1744619543,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 67711,
       "num": 67711,
       "word": "阿拉维斯vs皇马",
@@ -2193,14 +2233,6 @@
       "onboard_time": 1744611202,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 64075,
-      "num": 1102447,
-      "word": "美国关税政策乱上加乱",
-      "onboard_time": 1744619303,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 62726,
@@ -2307,6 +2339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 43242,
+      "num": 286214,
+      "word": "棉花糖爸爸找到女儿小杨梅了",
+      "onboard_time": 1744619902,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42235,
       "num": 279078,
       "word": "老板收购盗掘青铜器获刑10年",
@@ -2320,6 +2360,14 @@
       "word": "风还没吹完雪又来了",
       "onboard_time": 1744567576,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41984,
+      "num": 362848,
+      "word": "中国传统美学和最新科技惊艳世博会",
+      "onboard_time": 1744618643,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -2355,6 +2403,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 39257,
+      "num": 254705,
+      "word": "马龙发长文告别掘金",
+      "onboard_time": 1744613602,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 37940,
       "num": 37940,
       "word": "周震南这把鲨疯了",
@@ -2377,14 +2433,6 @@
       "onboard_time": 1744614441,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 36061,
-      "num": 362848,
-      "word": "中国传统美学和最新科技惊艳世博会",
-      "onboard_time": 1744618643,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 35652,
@@ -2467,6 +2515,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 24380,
+      "num": 251315,
+      "word": "郑钦文红土赛季新陪练",
+      "onboard_time": 1744619601,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 24358,
       "num": 215563,
       "word": "国足6月重庆战巴林",
@@ -2488,6 +2544,14 @@
       "word": "外卖小哥识破诈骗包裹挽回7万损失",
       "onboard_time": 1744608564,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21473,
+      "num": 176454,
+      "word": "那些你不知道的北京地儿",
+      "onboard_time": 1744619181,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -2521,6 +2585,14 @@
       "onboard_time": 1744576995,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 18689,
+      "num": 176546,
+      "word": "鉴定面试HR热门话术",
+      "onboard_time": 1744620322,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 18370,
@@ -2631,6 +2703,9 @@
     },
     {
       "word": "#习近平开始对越南进行国事访问#"
+    },
+    {
+      "word": "#越南各界热切期待习近平到访#"
     }
   ]
 }
