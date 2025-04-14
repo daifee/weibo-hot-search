@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744651331654,
+  "endTime": 1744652404499,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -17099,6 +17099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 225322,
+      "num": 225322,
+      "word": "smoggy",
+      "onboard_time": 1744650797,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 225239,
       "num": 255369,
       "word": "向佐穿的鞋子有20斤重",
@@ -23507,14 +23515,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 178366,
-      "num": 178366,
-      "word": "smoggy",
-      "onboard_time": 1744650797,
-      "rank": 3,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 178275,
       "num": 178275,
       "word": "剧名普普通通剧情香香甜甜",
@@ -29785,6 +29785,14 @@
       "onboard_time": 1744262303,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140944,
+      "num": 140944,
+      "word": "全球高度关注中国应对美关税霸凌",
+      "onboard_time": 1744650856,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 140900,
@@ -40667,14 +40675,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 59990,
-      "num": 114834,
-      "word": "全球高度关注中国应对美关税霸凌",
-      "onboard_time": 1744650856,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 59962,
       "num": 176916,
       "word": "王楚钦爆笑调侃队友",
@@ -41467,6 +41467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 50240,
+      "num": 94906,
+      "word": "十几岁的李宏毅",
+      "onboard_time": 1744650617,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 50086,
       "num": 440105,
       "word": "河北发大风红色预警",
@@ -41561,14 +41569,6 @@
       "onboard_time": 1744198407,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 49379,
-      "num": 94906,
-      "word": "十几岁的李宏毅",
-      "onboard_time": 1744650617,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 49070,
@@ -42833,6 +42833,14 @@
       "onboard_time": 1743846021,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38014,
+      "num": 46239,
+      "word": "荣耀之战",
+      "onboard_time": 1744651336,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 37940,
@@ -44124,7 +44132,7 @@
     },
     {
       "raw_hot": 26300,
-      "num": 60930,
+      "num": 66255,
       "word": "芝芙说欢迎大家多来越南看看",
       "onboard_time": 1744650318,
       "rank": 43,

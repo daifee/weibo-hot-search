@@ -1,6 +1,6 @@
 {
   "startTime": 1744648272763,
-  "endTime": 1744651331654,
+  "endTime": 1744652404499,
   "band_list": [
     {
       "raw_hot": 917825,
@@ -163,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 225322,
+      "num": 225322,
+      "word": "smoggy",
+      "onboard_time": 1744650797,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 207144,
       "num": 207144,
       "word": "撞死1家3口肇事者2次将油门踩到底",
@@ -177,14 +185,6 @@
       "onboard_time": 1744633822,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 178366,
-      "num": 178366,
-      "word": "smoggy",
-      "onboard_time": 1744650797,
-      "rank": 3,
-      "category": "电竞"
     },
     {
       "raw_hot": 174687,
@@ -233,6 +233,14 @@
       "onboard_time": 1744641204,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 140944,
+      "num": 140944,
+      "word": "全球高度关注中国应对美关税霸凌",
+      "onboard_time": 1744650856,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 134218,
@@ -411,14 +419,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 59990,
-      "num": 114834,
-      "word": "全球高度关注中国应对美关税霸凌",
-      "onboard_time": 1744650856,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 58397,
       "num": 60986,
       "word": "球球 工作不是儿戏",
@@ -435,12 +435,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 49379,
+      "raw_hot": 50240,
       "num": 94906,
       "word": "十几岁的李宏毅",
       "onboard_time": 1744650617,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 38014,
+      "num": 46239,
+      "word": "荣耀之战",
+      "onboard_time": 1744651336,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 27996,
@@ -452,10 +460,18 @@
     },
     {
       "raw_hot": 26300,
-      "num": 60930,
+      "num": 66255,
       "word": "芝芙说欢迎大家多来越南看看",
       "onboard_time": 1744650318,
       "rank": 43,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 9893,
+      "num": 190268,
+      "word": "一图看懂中越友谊",
+      "onboard_time": 1744637904,
+      "rank": 2,
       "category": "国内时政"
     }
   ],
