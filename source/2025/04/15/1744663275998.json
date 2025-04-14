@@ -1,0 +1,410 @@
+{
+  "runTime": 1744663275998,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 109859,
+        "num": 109859,
+        "word": "全球高度关注中国应对美关税霸凌",
+        "onboard_time": 1744650856,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 57184,
+        "num": 57184,
+        "word": "smoggy",
+        "onboard_time": 1744650797,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 11206,
+        "num": 47027,
+        "word": "一图看懂中越友谊",
+        "onboard_time": 1744637904,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 37069,
+        "num": 37069,
+        "word": "作曲家去世四年后大脑还能编曲",
+        "onboard_time": 1744635563,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36747,
+        "num": 36747,
+        "word": "驻日大使馆提醒注意防范地震",
+        "onboard_time": 1744603703,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34740,
+        "num": 34740,
+        "word": "特朗普关税横跳有多颠",
+        "onboard_time": 1744644621,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 30410,
+        "num": 30410,
+        "word": "第一次见录一半全睡了的综艺",
+        "onboard_time": 1744619482,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29566,
+        "num": 29566,
+        "word": "无忧渡折腰 对打",
+        "onboard_time": 1744636285,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27081,
+        "num": 27081,
+        "word": "外国人也爱看中国影视剧",
+        "onboard_time": 1744642344,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 23767,
+        "num": 23767,
+        "word": "绵绵的羊卫生巾被曝有异物",
+        "onboard_time": 1744644323,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91185,
+        "num": 23474,
+        "word": "路过围观人群竟是儿子儿媳孙子被撞亡",
+        "onboard_time": 1744646001,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58475,
+        "num": 23323,
+        "word": "撞死1家3口肇事者2次将油门踩到底",
+        "onboard_time": 1744638263,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57964,
+        "num": 22859,
+        "word": "女子唱K离话筒太近称感染无药可治",
+        "onboard_time": 1744642281,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53943,
+        "num": 22843,
+        "word": "男演员回应退圈回老家赶集摆摊",
+        "onboard_time": 1744648040,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38783,
+        "num": 22531,
+        "word": "Jennie女王",
+        "onboard_time": 1744636162,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 31063,
+        "num": 22171,
+        "word": "TVB男演员为省钱来深圳拔牙",
+        "onboard_time": 1744645701,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28475,
+        "num": 21831,
+        "word": "留几手现在140斤体脂率12%",
+        "onboard_time": 1744642825,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21610,
+        "num": 21610,
+        "word": "THE9成员9人实到2人",
+        "onboard_time": 1744626683,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21291,
+        "num": 21291,
+        "word": "康辉采访遇上一群越南少先队员",
+        "onboard_time": 1744647021,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 20354,
+        "num": 21282,
+        "word": "无忧渡",
+        "onboard_time": 1744629983,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22532,
+        "num": 21281,
+        "word": "不少年轻人流行用iPhone6拍照",
+        "onboard_time": 1744637063,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 21280,
+        "num": 21280,
+        "word": "美议员怒斥特朗普关税政策",
+        "onboard_time": 1744660394,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20989,
+        "num": 20989,
+        "word": "EDG无畏契约",
+        "onboard_time": 1744634662,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 20485,
+        "num": 20485,
+        "word": "4名中国留学生对美国政府提起诉讼",
+        "onboard_time": 1744644022,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20055,
+        "num": 20055,
+        "word": "TFBOYS曾坐地铁赶通告",
+        "onboard_time": 1744646363,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20016,
+        "num": 20016,
+        "word": "一家三口被撞身亡拒肇事方80万赔偿",
+        "onboard_time": 1744623624,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17734,
+        "num": 17734,
+        "word": "美社保署将6000多移民标为死亡",
+        "onboard_time": 1744644202,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 16009,
+        "num": 17691,
+        "word": "何老师不语只一味的本色出演",
+        "onboard_time": 1744660994,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15468,
+        "num": 17667,
+        "word": "阿米尔汗说喜欢成龙和沈腾马丽",
+        "onboard_time": 1744643903,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 14524,
+        "num": 17664,
+        "word": "成毅陈都灵邓为等火到马来西亚了",
+        "onboard_time": 1744632561,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17663,
+        "num": 17663,
+        "word": "梁老师发监控视频自证",
+        "onboard_time": 1744634904,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17259,
+        "num": 17259,
+        "word": "Simon聊天记录完整版",
+        "onboard_time": 1744641204,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 17048,
+        "num": 17048,
+        "word": "日本首相警告美国",
+        "onboard_time": 1744619003,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 16495,
+        "num": 16495,
+        "word": "东盟是我国第一大贸易伙伴",
+        "onboard_time": 1744645341,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 16408,
+        "num": 16408,
+        "word": "孙颖莎王楚钦世界杯赛前训练画面",
+        "onboard_time": 1744645941,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15419,
+        "num": 15419,
+        "word": "我国与东盟贸易互补不断增强",
+        "onboard_time": 1744638683,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 15395,
+        "num": 15395,
+        "word": "景德镇车祸遇难婴儿差七天满周岁",
+        "onboard_time": 1744633762,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15169,
+        "num": 15169,
+        "word": "关晓彤金发遛弯儿",
+        "onboard_time": 1744635864,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 14466,
+        "num": 14466,
+        "word": "nobody发博",
+        "onboard_time": 1744634603,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 14193,
+        "num": 14193,
+        "word": "越南人聚会也爱嗑瓜子",
+        "onboard_time": 1744650498,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 14178,
+        "num": 14178,
+        "word": "时代少年团不参加时代峰峻家族打歌舞台",
+        "onboard_time": 1744648520,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13783,
+        "num": 13783,
+        "word": "冰岛 异食癖的故乡",
+        "onboard_time": 1744625482,
+        "rank": 41,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 13665,
+        "num": 13665,
+        "word": "荣耀之战",
+        "onboard_time": 1744651336,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13111,
+        "num": 13664,
+        "word": "smoggy发博",
+        "onboard_time": 1744633822,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 12903,
+        "num": 13662,
+        "word": "全球多家大型养老基金暂停对美投资",
+        "onboard_time": 1744655895,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 12691,
+        "num": 13660,
+        "word": "外交部介绍中欧就美加征关税沟通情况",
+        "onboard_time": 1744652775,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 12091,
+        "num": 13659,
+        "word": "折腰",
+        "onboard_time": 1744624041,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11797,
+        "num": 13658,
+        "word": "水果姐将乘飞船进太空",
+        "onboard_time": 1744654575,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11757,
+        "num": 13657,
+        "word": "王嘉尔labubu",
+        "onboard_time": 1744662913,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11467,
+        "num": 13655,
+        "word": "乘风2025四公帮唱歌单",
+        "onboard_time": 1744637604,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#把中越友好接力棒一代代传下去#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744662452655,
+  "endTime": 1744663275998,
   "band_list": [
     {
       "raw_hot": 3336228,
@@ -7571,6 +7571,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 16009,
+      "num": 18350,
+      "word": "何老师不语只一味的本色出演",
+      "onboard_time": 1744660994,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 15484,
       "num": 27787,
       "word": "成毅侧颜牛仔套装",
@@ -7611,14 +7619,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 14316,
-      "num": 18350,
-      "word": "何老师不语只一味的本色出演",
-      "onboard_time": 1744660994,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 13939,
       "num": 20583,
       "word": "张远粉丝想要粉丝得到",
@@ -7649,6 +7649,14 @@
       "onboard_time": 1744499717,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 11757,
+      "num": 13657,
+      "word": "王嘉尔labubu",
+      "onboard_time": 1744662913,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 11595,

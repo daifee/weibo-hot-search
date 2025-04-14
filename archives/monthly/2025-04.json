@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744662452655,
+  "endTime": 1744663275998,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -45595,6 +45595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 16009,
+      "num": 18350,
+      "word": "何老师不语只一味的本色出演",
+      "onboard_time": 1744660994,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 15993,
       "num": 183380,
       "word": "薛飞2比3滨田一辉",
@@ -45881,14 +45889,6 @@
       "onboard_time": 1743758661,
       "rank": 39,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 14316,
-      "num": 18350,
-      "word": "何老师不语只一味的本色出演",
-      "onboard_time": 1744660994,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 14268,
@@ -46185,6 +46185,14 @@
       "onboard_time": 1744276341,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 11757,
+      "num": 13657,
+      "word": "王嘉尔labubu",
+      "onboard_time": 1744662913,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 11683,
