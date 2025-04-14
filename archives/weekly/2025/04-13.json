@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744601241612,
+  "endTime": 1744602758862,
   "band_list": [
     {
       "raw_hot": 3004197,
@@ -123,6 +123,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 1273842,
+      "num": 384464,
+      "word": "Jennie 妈妈好帅",
+      "onboard_time": 1744600820,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1267929,
       "num": 690421,
       "word": "张小婉回应踩了谢娜裙子",
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 1234974,
-      "num": 355623,
+      "num": 374745,
       "word": "男演员退圈回老家赶集摆摊",
       "onboard_time": 1744559242,
       "rank": 10,
@@ -153,6 +161,14 @@
       "onboard_time": 1744528100,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1176572,
+      "num": 1188251,
+      "word": "Jennie科切拉舞台",
+      "onboard_time": 1744600280,
+      "rank": 1,
+      "category": "演出"
     },
     {
       "raw_hot": 1172471,
@@ -225,6 +241,14 @@
       "onboard_time": 1744524081,
       "rank": 3,
       "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 1052209,
+      "num": 381327,
+      "word": "易小星 我遗书都发出去了",
+      "onboard_time": 1744600521,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1027341,
@@ -345,14 +369,6 @@
       "onboard_time": 1744552764,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 816183,
-      "num": 816183,
-      "word": "Jennie科切拉舞台",
-      "onboard_time": 1744600280,
-      "rank": 1,
-      "category": "演出"
     },
     {
       "raw_hot": 810526,
@@ -739,6 +755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 474279,
+      "num": 380662,
+      "word": "高校通报老师诱骗女学生恋爱",
+      "onboard_time": 1744598901,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 469940,
       "num": 469940,
       "word": "陈芋汐两连冠后发博",
@@ -787,14 +811,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 445231,
-      "num": 315021,
-      "word": "易小星 我遗书都发出去了",
-      "onboard_time": 1744600521,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 443795,
       "num": 443795,
       "word": "拒绝上学门诊接待近1万人次",
@@ -811,12 +827,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 440912,
-      "num": 308840,
-      "word": "高校通报老师诱骗女学生恋爱",
-      "onboard_time": 1744598901,
-      "rank": 14,
-      "category": "民生新闻"
+      "raw_hot": 430796,
+      "num": 383444,
+      "word": "何同学掉粉",
+      "onboard_time": 1744600940,
+      "rank": 33,
+      "category": "网红"
     },
     {
       "raw_hot": 430720,
@@ -955,6 +971,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 380500,
+      "num": 380500,
+      "word": "成家定档",
+      "onboard_time": 1744600940,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 370690,
       "num": 370690,
       "word": "急性心梗30秒自救方法",
@@ -1003,6 +1027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 364088,
+      "num": 364088,
+      "word": "何同学 小布尔乔亚",
+      "onboard_time": 1744601602,
+      "rank": 20,
+      "category": "网红"
+    },
+    {
       "raw_hot": 363631,
       "num": 363631,
       "word": "加拿大民众用不买美国货表达不满",
@@ -1025,6 +1057,14 @@
       "onboard_time": 1744503981,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 357241,
+      "num": 357241,
+      "word": "苹果死守中国绝不是因为廉价",
+      "onboard_time": 1744602142,
+      "rank": 22,
+      "category": "数码"
     },
     {
       "raw_hot": 347986,
@@ -1092,7 +1132,7 @@
     },
     {
       "raw_hot": 326854,
-      "num": 326854,
+      "num": 382944,
       "word": "严格依法实施各项对美反制措施",
       "onboard_time": 1744599741,
       "rank": 17,
@@ -1233,6 +1273,14 @@
       "onboard_time": 1744554864,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 278043,
+      "num": 185508,
+      "word": "内裤痕迹羞耻",
+      "onboard_time": 1744602563,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 277923,
@@ -1523,6 +1571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 225785,
+      "num": 225785,
+      "word": "无忧渡谈容貌焦虑",
+      "onboard_time": 1744601722,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 225757,
       "num": 225757,
       "word": "五一你快来我撑不住了",
@@ -1609,6 +1665,14 @@
       "onboard_time": 1744551143,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 213891,
+      "num": 367950,
+      "word": "上亿人写过的作文",
+      "onboard_time": 1744602021,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 213102,
@@ -1707,20 +1771,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 209167,
-      "num": 209167,
-      "word": "Jennie 妈妈好帅",
-      "onboard_time": 1744600820,
-      "rank": 24,
-      "category": "演出"
-    },
-    {
       "raw_hot": 208266,
       "num": 338307,
       "word": "尹锡悦或面临终身监禁甚至死刑",
       "onboard_time": 1744538542,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 208191,
+      "num": 208191,
+      "word": "当年奔跑吧导演换人之后",
+      "onboard_time": 1744601544,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 207622,
@@ -2011,6 +2075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184910,
+      "num": 184910,
+      "word": "无穷小亮反矫",
+      "onboard_time": 1744601781,
+      "rank": 32,
+      "category": "网红"
+    },
+    {
       "raw_hot": 184705,
       "num": 184705,
       "word": "喻言饭拍",
@@ -2032,6 +2104,14 @@
       "word": "倪虹洁 不敢拒绝任何工作机会",
       "onboard_time": 1744532722,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 183433,
+      "num": 183433,
+      "word": "陈赫邓超多次在五哈cue到跑男的梗",
+      "onboard_time": 1744601243,
+      "rank": 33,
       "category": "综艺"
     },
     {
@@ -2075,6 +2155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179271,
+      "num": 179271,
+      "word": "越南街头五星红旗飘扬",
+      "onboard_time": 1744600700,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 178638,
       "num": 178638,
       "word": "蒋一侨短发",
@@ -2097,6 +2185,14 @@
       "onboard_time": 1744595660,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 177126,
+      "num": 177126,
+      "word": "种地吧",
+      "onboard_time": 1744483875,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 177037,
@@ -2155,14 +2251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 173988,
-      "num": 173988,
-      "word": "种地吧",
-      "onboard_time": 1744483875,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 172895,
       "num": 315913,
       "word": "美国店主很害怕母亲节生意彻底泡汤",
@@ -2171,20 +2259,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 172737,
+      "num": 172737,
+      "word": "时代少年团新歌",
+      "onboard_time": 1744601903,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 172733,
       "num": 191282,
       "word": "王曼昱谈澳门世界杯",
       "onboard_time": 1744527681,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 172556,
-      "num": 172556,
-      "word": "越南街头五星红旗飘扬",
-      "onboard_time": 1744600700,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 172524,
@@ -2243,14 +2331,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 169456,
-      "num": 169456,
-      "word": "成家定档",
-      "onboard_time": 1744600940,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 169312,
       "num": 169312,
       "word": "美国滥施关税后欧洲领导人访华",
@@ -2297,14 +2377,6 @@
       "onboard_time": 1744597700,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 166462,
-      "num": 166462,
-      "word": "何同学掉粉",
-      "onboard_time": 1744600940,
-      "rank": 33,
-      "category": "网红"
     },
     {
       "raw_hot": 166438,
@@ -2515,6 +2587,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 151295,
+      "num": 151295,
+      "word": "研究员违规携带水稻种质资源出境",
+      "onboard_time": 1744602201,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 151197,
       "num": 151197,
       "word": "黄思静教练菜鸟赛季夺冠",
@@ -2545,6 +2625,14 @@
       "onboard_time": 1744592480,
       "rank": 42,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 149863,
+      "num": 149863,
+      "word": "美国若想生产婚纱得先培养缝纫工",
+      "onboard_time": 1744602442,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 149783,
@@ -2611,6 +2699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143862,
+      "num": 143862,
+      "word": "跳尊巴减肥",
+      "onboard_time": 1744601961,
+      "rank": 44,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 143661,
       "num": 1040568,
       "word": "美肆意加征关税非常危险",
@@ -2673,6 +2769,14 @@
       "onboard_time": 1744520062,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 142246,
+      "num": 142246,
+      "word": "陈意涵为老公新电影打call",
+      "onboard_time": 1744602683,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 142195,
@@ -3163,6 +3267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123714,
+      "num": 366169,
+      "word": "AI进入药房会取代药师吗",
+      "onboard_time": 1744599861,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 123662,
       "num": 123662,
       "word": "哈妮克孜演技",
@@ -3393,14 +3505,6 @@
       "onboard_time": 1744537642,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 115588,
-      "num": 267623,
-      "word": "AI进入药房会取代药师吗",
-      "onboard_time": 1744599861,
-      "rank": 25,
-      "category": "互联网"
     },
     {
       "raw_hot": 115428,
@@ -3971,6 +4075,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 84467,
+      "num": 382315,
+      "word": "美称中美已通过中间人就关税初步接触",
+      "onboard_time": 1744602262,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 83791,
       "num": 83791,
       "word": "女子做面部提拉手术心脏骤停家属发声",
@@ -4083,6 +4195,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 68934,
+      "num": 378659,
+      "word": "租赁手机安装监管锁威胁消费者",
+      "onboard_time": 1744601182,
+      "rank": 43,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 68437,
       "num": 167095,
       "word": "单晓娜2比2伯格斯特隆",
@@ -4155,6 +4275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57846,
+      "num": 372916,
+      "word": "秋名山名场面复刻",
+      "onboard_time": 1744602322,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 57223,
       "num": 110067,
       "word": "尹锡悦首次刑事审判定于14日举行",
@@ -4201,6 +4329,14 @@
       "onboard_time": 1744542381,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48228,
+      "num": 142325,
+      "word": "银行存款定期化趋势仍在持续",
+      "onboard_time": 1744594160,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 47299,
@@ -4257,6 +4393,14 @@
       "onboard_time": 1744495094,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 43907,
+      "num": 718460,
+      "word": "中式奶茶成为越南年轻人的新宠",
+      "onboard_time": 1744602442,
+      "rank": 2,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 42679,
@@ -4411,19 +4555,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32168,
+      "num": 185792,
+      "word": "黑执事塞巴斯背头造型",
+      "onboard_time": 1744602262,
+      "rank": 29,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 31986,
       "num": 383708,
       "word": "花1980办尊享卡买机票却比官网还贵",
       "onboard_time": 1744517542,
       "rank": 17,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 31095,
-      "num": 123442,
-      "word": "租赁手机安装监管锁威胁消费者",
-      "onboard_time": 1744601182,
-      "rank": 43,
       "category": "舆论监督"
     },
     {
@@ -4744,6 +4888,9 @@
     },
     {
       "word": "#中越山水相连文化相通#"
+    },
+    {
+      "word": "#隔海相望的千年友邻#"
     }
   ]
 }

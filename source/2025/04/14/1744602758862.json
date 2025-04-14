@@ -1,0 +1,410 @@
+{
+  "runTime": 1744602758862,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1176572,
+        "num": 1188251,
+        "word": "Jennie科切拉舞台",
+        "onboard_time": 1744600280,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 936806,
+        "num": 936806,
+        "word": "金价",
+        "onboard_time": 1744593981,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 43907,
+        "num": 718460,
+        "word": "中式奶茶成为越南年轻人的新宠",
+        "onboard_time": 1744602442,
+        "rank": 2,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 601751,
+        "num": 601751,
+        "word": "哪吒汽车原CEO张勇被曝已在英国",
+        "onboard_time": 1744596562,
+        "rank": 3,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 384558,
+        "num": 384558,
+        "word": "略萨去世",
+        "onboard_time": 1744597043,
+        "rank": 4,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 1273842,
+        "num": 384464,
+        "word": "Jennie 妈妈好帅",
+        "onboard_time": 1744600820,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 464305,
+        "num": 383997,
+        "word": "奔跑吧13定档了",
+        "onboard_time": 1744596861,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 430796,
+        "num": 383444,
+        "word": "何同学掉粉",
+        "onboard_time": 1744600940,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 295360,
+        "num": 382944,
+        "word": "严格依法实施各项对美反制措施",
+        "onboard_time": 1744599741,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 84467,
+        "num": 382315,
+        "word": "美称中美已通过中间人就关税初步接触",
+        "onboard_time": 1744602262,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1118735,
+        "num": 381621,
+        "word": "全红婵 那咋了这就破防了",
+        "onboard_time": 1744594581,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1052209,
+        "num": 381327,
+        "word": "易小星 我遗书都发出去了",
+        "onboard_time": 1744600521,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 474279,
+        "num": 380662,
+        "word": "高校通报老师诱骗女学生恋爱",
+        "onboard_time": 1744598901,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 380500,
+        "num": 380500,
+        "word": "成家定档",
+        "onboard_time": 1744600940,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68934,
+        "num": 378659,
+        "word": "租赁手机安装监管锁威胁消费者",
+        "onboard_time": 1744601182,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 377187,
+        "num": 377187,
+        "word": "越南人有多爱中国电视剧",
+        "onboard_time": 1744599801,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 420965,
+        "num": 374745,
+        "word": "男演员退圈回老家赶集摆摊",
+        "onboard_time": 1744559242,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57846,
+        "num": 372916,
+        "word": "秋名山名场面复刻",
+        "onboard_time": 1744602322,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 213891,
+        "num": 367950,
+        "word": "上亿人写过的作文",
+        "onboard_time": 1744602021,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123714,
+        "num": 366169,
+        "word": "AI进入药房会取代药师吗",
+        "onboard_time": 1744599861,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 364088,
+        "num": 364088,
+        "word": "何同学 小布尔乔亚",
+        "onboard_time": 1744601602,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 304216,
+        "num": 359492,
+        "word": "马斯克发文暗示经济全球化",
+        "onboard_time": 1744593742,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 357241,
+        "num": 357241,
+        "word": "苹果死守中国绝不是因为廉价",
+        "onboard_time": 1744602142,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 354028,
+        "num": 354028,
+        "word": "李佳琦不建议普通女生做医美",
+        "onboard_time": 1744543761,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 225785,
+        "num": 225785,
+        "word": "无忧渡谈容貌焦虑",
+        "onboard_time": 1744601722,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208191,
+        "num": 208191,
+        "word": "当年奔跑吧导演换人之后",
+        "onboard_time": 1744601544,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169684,
+        "num": 201469,
+        "word": "问界M8太能造了",
+        "onboard_time": 1744598780,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 201461,
+        "num": 201461,
+        "word": "大张旗鼓加税偷偷摸摸豁免",
+        "onboard_time": 1744553605,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 189797,
+        "num": 189797,
+        "word": "全妹多来点王楚钦怼脸拍",
+        "onboard_time": 1744596621,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32168,
+        "num": 185792,
+        "word": "黑执事塞巴斯背头造型",
+        "onboard_time": 1744602262,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 278043,
+        "num": 185508,
+        "word": "内裤痕迹羞耻",
+        "onboard_time": 1744602563,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 244040,
+        "num": 185327,
+        "word": "你洗过你的防晒口罩吗",
+        "onboard_time": 1744598481,
+        "rank": 31,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 184910,
+        "num": 184910,
+        "word": "无穷小亮反矫",
+        "onboard_time": 1744601781,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 183433,
+        "num": 183433,
+        "word": "陈赫邓超多次在五哈cue到跑男的梗",
+        "onboard_time": 1744601243,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181074,
+        "num": 181074,
+        "word": "奥斯卡影帝把中国龙穿在身",
+        "onboard_time": 1744592962,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 180664,
+        "num": 180664,
+        "word": "人民币成全球第三大贸易融资货币",
+        "onboard_time": 1744587200,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 179271,
+        "num": 179271,
+        "word": "越南街头五星红旗飘扬",
+        "onboard_time": 1744600700,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 177875,
+        "num": 177875,
+        "word": "海关总署最新回应",
+        "onboard_time": 1744599861,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 177126,
+        "num": 177126,
+        "word": "种地吧",
+        "onboard_time": 1744598301,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172737,
+        "num": 172737,
+        "word": "时代少年团新歌",
+        "onboard_time": 1744601903,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 151295,
+        "num": 151295,
+        "word": "研究员违规携带水稻种质资源出境",
+        "onboard_time": 1744602201,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149863,
+        "num": 149863,
+        "word": "美国若想生产婚纱得先培养缝纫工",
+        "onboard_time": 1744602442,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 149811,
+        "num": 149811,
+        "word": "临近退休遭解聘老师退休前工资2000",
+        "onboard_time": 1744588521,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149369,
+        "num": 149369,
+        "word": "当年都以为奔跑吧兄弟没有第二季",
+        "onboard_time": 1744589482,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143862,
+        "num": 143862,
+        "word": "跳尊巴减肥",
+        "onboard_time": 1744601961,
+        "rank": 44,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 143631,
+        "num": 143631,
+        "word": "英国反华议员赴香港探亲被拒入境",
+        "onboard_time": 1744590261,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 48228,
+        "num": 142325,
+        "word": "银行存款定期化趋势仍在持续",
+        "onboard_time": 1744594160,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 142246,
+        "num": 142246,
+        "word": "陈意涵为老公新电影打call",
+        "onboard_time": 1744602683,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141070,
+        "num": 141070,
+        "word": "网曝超市将馒头扔地上给大爷大妈抢",
+        "onboard_time": 1744561520,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129548,
+        "num": 129548,
+        "word": "女生替去世前男友照顾家人还债60万",
+        "onboard_time": 1744554864,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#隔海相望的千年友邻#"
+    }
+  }
+}
