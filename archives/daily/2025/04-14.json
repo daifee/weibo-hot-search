@@ -1,10 +1,10 @@
 {
   "startTime": 1744561767834,
-  "endTime": 1744604958733,
+  "endTime": 1744605832463,
   "band_list": [
     {
-      "raw_hot": 2341665,
-      "num": 255580,
+      "raw_hot": 2483493,
+      "num": 278440,
       "word": "内裤痕迹羞耻",
       "onboard_time": 1744602563,
       "rank": 30,
@@ -19,8 +19,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1888004,
-      "num": 612468,
+      "raw_hot": 1999599,
+      "num": 619279,
       "word": "美称中美已通过中间人就关税初步接触",
       "onboard_time": 1744602262,
       "rank": 9,
@@ -91,12 +91,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1022132,
+      "num": 381651,
+      "word": "吃芒果是一件很私密的事",
+      "onboard_time": 1744604302,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 895097,
       "num": 492856,
       "word": "临近退休遭解聘老师退休前工资2000",
       "onboard_time": 1744588521,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 891597,
+      "num": 891597,
+      "word": "美国若想生产婚纱得先培养缝纫工",
+      "onboard_time": 1744602442,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 804538,
@@ -179,14 +195,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 543524,
-      "num": 543524,
-      "word": "美国若想生产婚纱得先培养缝纫工",
-      "onboard_time": 1744602442,
-      "rank": 41,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 530982,
       "num": 530982,
       "word": "折腰",
@@ -203,12 +211,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 520326,
+      "num": 380634,
+      "word": "赵灵儿 裤子",
+      "onboard_time": 1744603642,
+      "rank": 12,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 519628,
       "num": 519628,
       "word": "奔跑吧13定档了",
       "onboard_time": 1744596861,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 505709,
+      "num": 505709,
+      "word": "驻日大使馆提醒注意防范地震",
+      "onboard_time": 1744603703,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 492903,
@@ -275,12 +299,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 419425,
-      "num": 419425,
-      "word": "驻日大使馆提醒注意防范地震",
-      "onboard_time": 1744603703,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 422518,
+      "num": 277748,
+      "word": "关晓彤 体制内的美",
+      "onboard_time": 1744604903,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 414356,
@@ -307,14 +331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 392995,
-      "num": 214378,
-      "word": "吃芒果是一件很私密的事",
-      "onboard_time": 1744604302,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 387277,
       "num": 387277,
       "word": "略萨去世",
@@ -323,20 +339,20 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 385859,
+      "num": 718460,
+      "word": "中式奶茶成为越南年轻人的新宠",
+      "onboard_time": 1744602442,
+      "rank": 2,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 383226,
       "num": 248655,
       "word": "28岁网红因病去世留下4个孩子",
       "onboard_time": 1744548082,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 380634,
-      "num": 380634,
-      "word": "赵灵儿 裤子",
-      "onboard_time": 1744603642,
-      "rank": 12,
-      "category": "游戏"
     },
     {
       "raw_hot": 380500,
@@ -353,14 +369,6 @@
       "onboard_time": 1744556663,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 358109,
-      "num": 718460,
-      "word": "中式奶茶成为越南年轻人的新宠",
-      "onboard_time": 1744602442,
-      "rank": 2,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 337736,
@@ -387,6 +395,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 326475,
+      "num": 277488,
+      "word": "美国人开始飞中国代购中国制造",
+      "onboard_time": 1744605326,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 317601,
+      "num": 317601,
+      "word": "王一博VOGUE",
+      "onboard_time": 1744604664,
+      "rank": 38,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 309161,
       "num": 266279,
       "word": "你洗过你的防晒口罩吗",
@@ -403,12 +427,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 307281,
+      "num": 270178,
+      "word": "问界回应M7沈阳车展失控",
+      "onboard_time": 1744604664,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 307104,
       "num": 307104,
       "word": "孙燕姿演唱会嘉宾林俊杰",
       "onboard_time": 1744556063,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 286292,
+      "num": 266851,
+      "word": "什么是屁股十级疼痛",
+      "onboard_time": 1744604302,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 277274,
+      "num": 277274,
+      "word": "越南女孩cue到赵露思的电视剧",
+      "onboard_time": 1744604484,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 270787,
@@ -459,20 +507,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 246867,
+      "num": 246867,
+      "word": "特朗普顾问回应被马斯克骂白痴",
+      "onboard_time": 1744604424,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 246676,
       "num": 246676,
       "word": "快船战胜勇士",
       "onboard_time": 1744585458,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 244947,
-      "num": 244947,
-      "word": "越南女孩cue到赵露思的电视剧",
-      "onboard_time": 1744604484,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 244866,
@@ -499,14 +547,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 238468,
-      "num": 238468,
-      "word": "什么是屁股十级疼痛",
-      "onboard_time": 1744604302,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 226936,
       "num": 240696,
       "word": "灿如繁星将开机",
@@ -523,6 +563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 224501,
+      "num": 278770,
+      "word": "美国玩具厂商快崩溃了",
+      "onboard_time": 1744605264,
+      "rank": 19,
+      "category": "国际时政,幽默"
+    },
+    {
       "raw_hot": 222684,
       "num": 222684,
       "word": "美国折腾一周不如周末的风动静大",
@@ -537,6 +585,14 @@
       "onboard_time": 1744558401,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 219359,
+      "num": 219359,
+      "word": "惊蛰无声开通官微",
+      "onboard_time": 1744598780,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 217066,
@@ -603,11 +659,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 210251,
-      "num": 210251,
-      "word": "问界回应M7沈阳车展失控",
-      "onboard_time": 1744604664,
-      "rank": 35,
+      "raw_hot": 208624,
+      "num": 208624,
+      "word": "哪吒汽车",
+      "onboard_time": 1744605085,
+      "rank": 37,
       "category": "汽车"
     },
     {
@@ -627,18 +683,10 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 205867,
-      "num": 205867,
-      "word": "特朗普顾问回应被马斯克骂白痴",
-      "onboard_time": 1744604424,
-      "rank": 36,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 205287,
-      "num": 192624,
-      "word": "王一博VOGUE",
-      "onboard_time": 1744604664,
+      "raw_hot": 205856,
+      "num": 205856,
+      "word": "田曦薇是标准P人",
+      "onboard_time": 1744604604,
       "rank": 38,
       "category": "作品衍生,时尚"
     },
@@ -659,6 +707,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 202465,
+      "num": 273808,
+      "word": "研究员违规携带水稻种质资源出境",
+      "onboard_time": 1744602201,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 201570,
       "num": 201570,
       "word": "刘冲让王一博快点切换频道",
@@ -668,7 +724,7 @@
     },
     {
       "raw_hot": 201428,
-      "num": 178073,
+      "num": 192927,
       "word": "折腰预告都看包浆了",
       "onboard_time": 1744603525,
       "rank": 40,
@@ -707,6 +763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185429,
+      "num": 185429,
+      "word": "余承东和工程师拼手速",
+      "onboard_time": 1744604903,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 184910,
       "num": 184910,
       "word": "无穷小亮反矫",
@@ -739,12 +803,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 178104,
-      "num": 178104,
-      "word": "研究员违规携带水稻种质资源出境",
-      "onboard_time": 1744602201,
-      "rank": 40,
-      "category": "民生新闻"
+      "raw_hot": 179000,
+      "num": 179000,
+      "word": "导师骂人有多高级",
+      "onboard_time": 1744601961,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 177518,
@@ -795,14 +859,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 170083,
-      "num": 170083,
-      "word": "导师骂人有多高级",
-      "onboard_time": 1744601961,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 166838,
       "num": 166838,
       "word": "剑网3联动仙剑奇侠传一",
@@ -811,20 +867,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 163883,
-      "num": 163883,
-      "word": "关晓彤 体制内的美",
-      "onboard_time": 1744604903,
+      "raw_hot": 162851,
+      "num": 162851,
+      "word": "张小婉 内向的喜剧演员",
+      "onboard_time": 1744605146,
       "rank": 45,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 162510,
-      "num": 162510,
-      "word": "惊蛰无声开通官微",
-      "onboard_time": 1744598780,
-      "rank": 45,
-      "category": "剧集"
+      "category": "综艺"
     },
     {
       "raw_hot": 162503,
@@ -835,20 +883,28 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 160320,
-      "num": 160320,
-      "word": "余承东和工程师拼手速",
-      "onboard_time": 1744604903,
-      "rank": 49,
-      "category": "数码"
-    },
-    {
       "raw_hot": 157958,
       "num": 157958,
       "word": "拥有专注力是走向优秀的开始",
       "onboard_time": 1744590443,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157013,
+      "num": 277889,
+      "word": "刘宇宁在线打假明星签名照",
+      "onboard_time": 1744605626,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 152240,
+      "num": 152240,
+      "word": "朴知元无缘米兰冬奥",
+      "onboard_time": 1744605684,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 152013,
@@ -1107,6 +1163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105726,
+      "num": 372916,
+      "word": "秋名山名场面复刻",
+      "onboard_time": 1744602322,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 105135,
       "num": 105135,
       "word": "无忧渡拍出了琵琶行",
@@ -1243,14 +1307,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 83148,
-      "num": 372916,
-      "word": "秋名山名场面复刻",
-      "onboard_time": 1744602322,
-      "rank": 17,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 81636,
       "num": 81636,
       "word": "超市回应将馒头扔地上给大爷大妈抢",
@@ -1283,6 +1339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 73048,
+      "num": 280022,
+      "word": "高盛上调金价预期至3700美元",
+      "onboard_time": 1744604966,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
       "raw_hot": 68934,
       "num": 378659,
       "word": "租赁手机安装监管锁威胁消费者",
@@ -1313,6 +1377,14 @@
       "onboard_time": 1744598360,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 56765,
+      "num": 381709,
+      "word": "美对等关税这剂药反噬自身",
+      "onboard_time": 1744604783,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 51609,
@@ -1361,6 +1433,14 @@
       "onboard_time": 1744578674,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 42235,
+      "num": 279078,
+      "word": "老板收购盗掘青铜器获刑10年",
+      "onboard_time": 1744604966,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42047,
@@ -1547,14 +1627,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 13274,
-      "num": 212381,
-      "word": "美对等关税这剂药反噬自身",
-      "onboard_time": 1744604783,
-      "rank": 33,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 12900,
       "num": 15689,
       "word": "00后姑娘收到人生第一面锦旗",
@@ -1563,7 +1635,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 4483,
+      "raw_hot": 5922,
       "num": 543655,
       "word": "2025世界互联网大会亚太峰会",
       "onboard_time": 1744515802,
@@ -1577,6 +1649,9 @@
     },
     {
       "word": "#隔海相望的千年友邻#"
+    },
+    {
+      "word": "#习主席今年首次出访这些看点值得关注#"
     }
   ]
 }
