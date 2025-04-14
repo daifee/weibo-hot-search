@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744665800491,
+  "endTime": 1744666678237,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -43507,6 +43507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 31730,
+      "num": 31730,
+      "word": "美议员怒斥特朗普关税政策",
+      "onboard_time": 1744660394,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 31618,
       "num": 31618,
       "word": "谢谢汉化组",
@@ -43841,14 +43849,6 @@
       "onboard_time": 1744274242,
       "rank": 29,
       "category": "教育,互联网"
-    },
-    {
-      "raw_hot": 29127,
-      "num": 29127,
-      "word": "美议员怒斥特朗普关税政策",
-      "onboard_time": 1744660394,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 29116,
@@ -45059,6 +45059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 19773,
+      "num": 19773,
+      "word": "何老师不语只一味的本色出演",
+      "onboard_time": 1744660994,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 19673,
       "num": 100243,
       "word": "向阳花硬刚污蔑片段",
@@ -45233,14 +45241,6 @@
       "onboard_time": 1744377444,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18937,
-      "num": 18937,
-      "word": "何老师不语只一味的本色出演",
-      "onboard_time": 1744660994,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 18858,
@@ -45499,6 +45499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16911,
+      "num": 32346,
+      "word": "外交部6连问回击美方谬论",
+      "onboard_time": 1744664533,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 16855,
       "num": 377708,
       "word": "远洋渔船船长公海被害案进展",
@@ -45657,6 +45665,14 @@
       "onboard_time": 1744362564,
       "rank": 26,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 15603,
+      "num": 15681,
+      "word": "婚礼上残疾母亲婉拒合影被抱上台",
+      "onboard_time": 1744665074,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15543,
@@ -45859,6 +45875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 14458,
+      "num": 15700,
+      "word": "王嘉尔labubu",
+      "onboard_time": 1744662913,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 14439,
       "num": 42932,
       "word": "200秒了解美国蛋荒危机发酵的背后",
@@ -45953,14 +45977,6 @@
       "onboard_time": 1744657634,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 13817,
-      "num": 15700,
-      "word": "王嘉尔labubu",
-      "onboard_time": 1744662913,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 13445,
@@ -46131,14 +46147,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 12225,
-      "num": 15681,
-      "word": "婚礼上残疾母亲婉拒合影被抱上台",
-      "onboard_time": 1744665074,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 12190,
       "num": 15359,
       "word": "对故人的思念从未远去",
@@ -46299,14 +46307,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 11047,
-      "num": 15667,
-      "word": "外交部6连问回击美方谬论",
-      "onboard_time": 1744664533,
-      "rank": 49,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 11035,
       "num": 145237,
       "word": "美国3救灾人员缅甸救援时被解雇",
@@ -46321,6 +46321,14 @@
       "onboard_time": 1743507024,
       "rank": 39,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 10979,
+      "num": 14606,
+      "word": "洛阳你真的把牡丹保护得很好",
+      "onboard_time": 1744665194,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 10898,

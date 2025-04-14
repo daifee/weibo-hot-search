@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744665800491,
+  "endTime": 1744666678237,
   "band_list": [
     {
       "raw_hot": 3336228,
@@ -7139,6 +7139,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 31730,
+      "num": 31730,
+      "word": "美议员怒斥特朗普关税政策",
+      "onboard_time": 1744660394,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 30346,
       "num": 30346,
       "word": "黑镜",
@@ -7177,14 +7185,6 @@
       "onboard_time": 1744626741,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 29127,
-      "num": 29127,
-      "word": "美议员怒斥特朗普关税政策",
-      "onboard_time": 1744660394,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 28816,
@@ -7443,6 +7443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 19773,
+      "num": 19773,
+      "word": "何老师不语只一味的本色出演",
+      "onboard_time": 1744660994,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 19345,
       "num": 144809,
       "word": "大阪世博2.3亿美元木建筑漏雨",
@@ -7473,14 +7481,6 @@
       "onboard_time": 1744525761,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18937,
-      "num": 18937,
-      "word": "何老师不语只一味的本色出演",
-      "onboard_time": 1744660994,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 18835,
@@ -7547,6 +7547,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 16911,
+      "num": 32346,
+      "word": "外交部6连问回击美方谬论",
+      "onboard_time": 1744664533,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 16825,
       "num": 20560,
       "word": "刘宇合肥演唱会舞台",
@@ -7577,6 +7585,14 @@
       "onboard_time": 1744618823,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 15603,
+      "num": 15681,
+      "word": "婚礼上残疾母亲婉拒合影被抱上台",
+      "onboard_time": 1744665074,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15484,
@@ -7611,6 +7627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 14458,
+      "num": 15700,
+      "word": "王嘉尔labubu",
+      "onboard_time": 1744662913,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 14439,
       "num": 42932,
       "word": "200秒了解美国蛋荒危机发酵的背后",
@@ -7627,14 +7651,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 13817,
-      "num": 15700,
-      "word": "王嘉尔labubu",
-      "onboard_time": 1744662913,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 13093,
       "num": 191964,
       "word": "鲍春来带亚锦赛吉祥物出镜",
@@ -7648,14 +7664,6 @@
       "word": "00后姑娘收到人生第一面锦旗",
       "onboard_time": 1744574354,
       "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 12225,
-      "num": 15681,
-      "word": "婚礼上残疾母亲婉拒合影被抱上台",
-      "onboard_time": 1744665074,
-      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -7683,12 +7691,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 11047,
-      "num": 15667,
-      "word": "外交部6连问回击美方谬论",
-      "onboard_time": 1744664533,
+      "raw_hot": 10979,
+      "num": 14606,
+      "word": "洛阳你真的把牡丹保护得很好",
+      "onboard_time": 1744665194,
       "rank": 49,
-      "category": "国际时政"
+      "category": "旅游"
     },
     {
       "raw_hot": 10677,
