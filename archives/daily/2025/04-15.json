@@ -1,6 +1,6 @@
 {
   "startTime": 1744648272763,
-  "endTime": 1744652404499,
+  "endTime": 1744655645770,
   "band_list": [
     {
       "raw_hot": 917825,
@@ -171,6 +171,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 223903,
+      "num": 223903,
+      "word": "全球高度关注中国应对美关税霸凌",
+      "onboard_time": 1744650856,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 207144,
       "num": 207144,
       "word": "撞死1家3口肇事者2次将油门踩到底",
@@ -233,14 +241,6 @@
       "onboard_time": 1744641204,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 140944,
-      "num": 140944,
-      "word": "全球高度关注中国应对美关税霸凌",
-      "onboard_time": 1744650856,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 134218,
@@ -459,6 +459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26556,
+      "num": 33255,
+      "word": "外交部介绍中欧就美加征关税沟通情况",
+      "onboard_time": 1744652775,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 26300,
       "num": 66255,
       "word": "芝芙说欢迎大家多来越南看看",
@@ -467,7 +475,39 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 9893,
+      "raw_hot": 23076,
+      "num": 32090,
+      "word": "无忧渡 吃梨吗",
+      "onboard_time": 1744654334,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 21277,
+      "num": 29537,
+      "word": "水果姐将乘飞船进太空",
+      "onboard_time": 1744654575,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 18341,
+      "num": 29456,
+      "word": "苏新皓直拍",
+      "onboard_time": 1744655234,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 17417,
+      "num": 29453,
+      "word": "越南人聚会也爱嗑瓜子",
+      "onboard_time": 1744650498,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 15553,
       "num": 190268,
       "word": "一图看懂中越友谊",
       "onboard_time": 1744637904,
