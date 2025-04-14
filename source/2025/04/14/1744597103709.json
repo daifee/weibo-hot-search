@@ -1,0 +1,410 @@
+{
+  "runTime": 1744597103709,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2083275,
+        "num": 2083275,
+        "word": "全红婵 那咋了这就破防了",
+        "onboard_time": 1744594581,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 602521,
+        "num": 602521,
+        "word": "金价",
+        "onboard_time": 1744593981,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 270787,
+        "num": 547422,
+        "word": "大张旗鼓加税偷偷摸摸豁免",
+        "onboard_time": 1744553605,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 521001,
+        "num": 521001,
+        "word": "当年都以为奔跑吧兄弟没有第二季",
+        "onboard_time": 1744589482,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 452464,
+        "num": 452464,
+        "word": "人民币成全球第三大贸易融资货币",
+        "onboard_time": 1744587200,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 589399,
+        "num": 449232,
+        "word": "临近退休遭解聘老师退休前工资2000",
+        "onboard_time": 1744588521,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 414356,
+        "num": 414356,
+        "word": "特朗普称将在下周一公布半导体关税细节",
+        "onboard_time": 1744595960,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 370332,
+        "num": 370332,
+        "word": "奥斯卡影帝把中国龙穿在身",
+        "onboard_time": 1744592962,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 357550,
+        "num": 357550,
+        "word": "英国反华议员赴香港探亲被拒入境",
+        "onboard_time": 1744590261,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 4483,
+        "num": 346502,
+        "word": "2025世界互联网大会亚太峰会",
+        "onboard_time": 1744515802,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 799101,
+        "num": 346290,
+        "word": "男演员退圈回老家赶集摆摊",
+        "onboard_time": 1744559242,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 633077,
+        "num": 346120,
+        "word": "李佳琦不建议普通女生做医美",
+        "onboard_time": 1744543761,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 345424,
+        "num": 345424,
+        "word": "哪吒汽车原CEO张勇被曝已在英国",
+        "onboard_time": 1744596562,
+        "rank": 12,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 326046,
+        "num": 326046,
+        "word": "马斯克发文暗示经济全球化",
+        "onboard_time": 1744593742,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 296045,
+        "num": 296045,
+        "word": "外媒问哪来的自信幻想中国人会跪",
+        "onboard_time": 1744558163,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 277149,
+        "num": 277149,
+        "word": "黄圣依晒与陈梦程潇李嘉格合照",
+        "onboard_time": 1744590622,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259059,
+        "num": 259059,
+        "word": "店主解释为何女装越做越小",
+        "onboard_time": 1744541421,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252114,
+        "num": 252114,
+        "word": "时代少年团太原演唱会官方回复",
+        "onboard_time": 1744594521,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 239511,
+        "num": 241976,
+        "word": "关晓彤新剧短发路透",
+        "onboard_time": 1744590862,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226936,
+        "num": 240696,
+        "word": "灿如繁星将开机",
+        "onboard_time": 1744594639,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239884,
+        "num": 239884,
+        "word": "剑网3",
+        "onboard_time": 1744595660,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 235297,
+        "num": 235297,
+        "word": "网曝超市将馒头扔地上给大爷大妈抢",
+        "onboard_time": 1744561520,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219432,
+        "num": 219432,
+        "word": "145%关税让1只熊猫玩偶卖80美元",
+        "onboard_time": 1744537883,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 210850,
+        "num": 210850,
+        "word": "女生替去世前男友照顾家人还债60万",
+        "onboard_time": 1744554864,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208013,
+        "num": 208013,
+        "word": "无忧渡",
+        "onboard_time": 1744593742,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207252,
+        "num": 207252,
+        "word": "英国将暂停对89种产品征全球关税",
+        "onboard_time": 1744586959,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 196033,
+        "num": 196033,
+        "word": "章昊谈去世粉丝",
+        "onboard_time": 1744595602,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193134,
+        "num": 193134,
+        "word": "奔跑吧",
+        "onboard_time": 1744595480,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189392,
+        "num": 189392,
+        "word": "天赐的声音6定档",
+        "onboard_time": 1744595960,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141093,
+        "num": 180525,
+        "word": "纽约坠毁直升机飞行员曾报告复飞",
+        "onboard_time": 1744592480,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 177518,
+        "num": 177518,
+        "word": "巴特勒受伤",
+        "onboard_time": 1744595660,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171465,
+        "num": 171465,
+        "word": "蔡徐坤活动人气",
+        "onboard_time": 1744594881,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171274,
+        "num": 171274,
+        "word": "奔跑吧13定档了",
+        "onboard_time": 1744596861,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167629,
+        "num": 167629,
+        "word": "祝绪丹 丁禹兮是弟弟不能选",
+        "onboard_time": 1744556663,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145715,
+        "num": 145715,
+        "word": "周杰伦昆凌把旅综录成恋综",
+        "onboard_time": 1744552764,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139142,
+        "num": 139142,
+        "word": "印度少女遭贩卖逃脱被警方强制送回",
+        "onboard_time": 1744582636,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 138176,
+        "num": 138176,
+        "word": "A股",
+        "onboard_time": 1744596381,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 136677,
+        "num": 136677,
+        "word": "拥有专注力是走向优秀的开始",
+        "onboard_time": 1744590443,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136613,
+        "num": 136613,
+        "word": "折腰",
+        "onboard_time": 1744556122,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130306,
+        "num": 130306,
+        "word": "亚马逊出售的商品六七成来自中国",
+        "onboard_time": 1744590682,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 23279,
+        "num": 125362,
+        "word": "邓亚萍穿汉服逛洛阳牡丹园",
+        "onboard_time": 1744589302,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125298,
+        "num": 125298,
+        "word": "昙花一现你见过吗",
+        "onboard_time": 1744587080,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123407,
+        "num": 123407,
+        "word": "xmx EDG",
+        "onboard_time": 1744596501,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 123278,
+        "num": 123278,
+        "word": "欧美股市剧震",
+        "onboard_time": 1744596440,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 113110,
+        "num": 113110,
+        "word": "杨幂 苹果掰开",
+        "onboard_time": 1744549944,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110569,
+        "num": 110569,
+        "word": "美国关税战已祸乱全球",
+        "onboard_time": 1744559181,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 103855,
+        "num": 103855,
+        "word": "广州本轮空气污染过程或持续2至3天",
+        "onboard_time": 1744594160,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99930,
+        "num": 99930,
+        "word": "全妹多来点王楚钦怼脸拍",
+        "onboard_time": 1744596621,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99260,
+        "num": 99260,
+        "word": "略萨去世",
+        "onboard_time": 1744597043,
+        "rank": 48,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 96268,
+        "num": 96268,
+        "word": "哈登统治勇士快船加时赛",
+        "onboard_time": 1744592841,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中越山水相连文化相通#"
+    }
+  }
+}

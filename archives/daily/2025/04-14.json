@@ -1,7 +1,15 @@
 {
   "startTime": 1744561767834,
-  "endTime": 1744595763748,
+  "endTime": 1744597103709,
   "band_list": [
+    {
+      "raw_hot": 2083275,
+      "num": 2083275,
+      "word": "全红婵 那咋了这就破防了",
+      "onboard_time": 1744594581,
+      "rank": 0,
+      "category": "体育"
+    },
     {
       "raw_hot": 1234974,
       "num": 355623,
@@ -9,14 +17,6 @@
       "onboard_time": 1744559242,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1171009,
-      "num": 1187361,
-      "word": "全红婵 那咋了这就破防了",
-      "onboard_time": 1744594581,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 1022447,
@@ -83,6 +83,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 602521,
+      "num": 602521,
+      "word": "金价",
+      "onboard_time": 1744593981,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
       "raw_hot": 593732,
       "num": 593732,
       "word": "当年都以为奔跑吧兄弟没有第二季",
@@ -147,6 +155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 414356,
+      "num": 414356,
+      "word": "特朗普称将在下周一公布半导体关税细节",
+      "onboard_time": 1744595960,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 406091,
       "num": 406091,
       "word": "妈妈监控中发现孩子情绪异常查出脱臼",
@@ -171,14 +187,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 369703,
-      "num": 369703,
-      "word": "金价",
-      "onboard_time": 1744593981,
-      "rank": 8,
-      "category": "财经"
-    },
-    {
       "raw_hot": 368617,
       "num": 368617,
       "word": "祝绪丹 丁禹兮是弟弟不能选",
@@ -187,8 +195,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 311811,
-      "num": 311811,
+      "raw_hot": 345424,
+      "num": 345424,
+      "word": "哪吒汽车原CEO张勇被曝已在英国",
+      "onboard_time": 1744596562,
+      "rank": 12,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 326046,
+      "num": 326046,
       "word": "马斯克发文暗示经济全球化",
       "onboard_time": 1744593742,
       "rank": 13,
@@ -211,6 +227,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 270787,
+      "num": 609079,
+      "word": "大张旗鼓加税偷偷摸摸豁免",
+      "onboard_time": 1744553605,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 268880,
       "num": 268880,
       "word": "汪苏泷复刻金宣虎wink",
@@ -225,6 +249,14 @@
       "onboard_time": 1744534043,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 252114,
+      "num": 252114,
+      "word": "时代少年团太原演唱会官方回复",
+      "onboard_time": 1744594521,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 248880,
@@ -251,12 +283,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 241657,
-      "num": 609079,
-      "word": "大张旗鼓加税偷偷摸摸豁免",
-      "onboard_time": 1744553605,
-      "rank": 2,
-      "category": "国内时政"
+      "raw_hot": 239884,
+      "num": 239884,
+      "word": "剑网3",
+      "onboard_time": 1744595660,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 238688,
@@ -265,6 +297,14 @@
       "onboard_time": 1744552764,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 226936,
+      "num": 240696,
+      "word": "灿如繁星将开机",
+      "onboard_time": 1744594639,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 222684,
@@ -315,14 +355,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 201637,
-      "num": 201637,
-      "word": "灿如繁星将开机",
-      "onboard_time": 1744594639,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 201570,
       "num": 201570,
       "word": "刘冲让王一博快点切换频道",
@@ -339,12 +371,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 190081,
-      "num": 190081,
-      "word": "时代少年团太原演唱会官方回复",
-      "onboard_time": 1744594521,
-      "rank": 19,
-      "category": "演出"
+      "raw_hot": 196033,
+      "num": 196033,
+      "word": "章昊谈去世粉丝",
+      "onboard_time": 1744595602,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 193134,
+      "num": 193134,
+      "word": "奔跑吧",
+      "onboard_time": 1744595480,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 189392,
+      "num": 189392,
+      "word": "天赐的声音6定档",
+      "onboard_time": 1744595960,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 182552,
@@ -355,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177518,
+      "num": 177518,
+      "word": "巴特勒受伤",
+      "onboard_time": 1744595660,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176149,
       "num": 176149,
       "word": "昙花一现你见过吗",
@@ -363,11 +419,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 167155,
-      "num": 167155,
-      "word": "奔跑吧",
-      "onboard_time": 1744595480,
-      "rank": 27,
+      "raw_hot": 171465,
+      "num": 171465,
+      "word": "蔡徐坤活动人气",
+      "onboard_time": 1744594881,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 171274,
+      "num": 171274,
+      "word": "奔跑吧13定档了",
+      "onboard_time": 1744596861,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -377,14 +441,6 @@
       "onboard_time": 1744590443,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 152565,
-      "num": 152565,
-      "word": "蔡徐坤活动人气",
-      "onboard_time": 1744594881,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 152013,
@@ -419,6 +475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141093,
+      "num": 180525,
+      "word": "纽约坠毁直升机飞行员曾报告复飞",
+      "onboard_time": 1744592480,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 140768,
       "num": 140768,
       "word": "达利欧称60%美国人文化水平不到初中",
@@ -433,6 +497,14 @@
       "onboard_time": 1744540761,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138176,
+      "num": 138176,
+      "word": "A股",
+      "onboard_time": 1744596381,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 137675,
@@ -507,6 +579,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 123407,
+      "num": 123407,
+      "word": "xmx EDG",
+      "onboard_time": 1744596501,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 123278,
+      "num": 123278,
+      "word": "欧美股市剧震",
+      "onboard_time": 1744596440,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 117502,
       "num": 117502,
       "word": "丝塔芙 成毅",
@@ -555,22 +643,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 107520,
-      "num": 107520,
-      "word": "巴特勒受伤",
-      "onboard_time": 1744595660,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 107188,
-      "num": 107188,
-      "word": "纽约坠毁直升机飞行员曾报告复飞",
-      "onboard_time": 1744592480,
-      "rank": 42,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 105135,
       "num": 105135,
       "word": "无忧渡拍出了琵琶行",
@@ -585,14 +657,6 @@
       "onboard_time": 1744550964,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 102918,
-      "num": 102918,
-      "word": "剑网3",
-      "onboard_time": 1744595660,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 102523,
@@ -617,6 +681,22 @@
       "onboard_time": 1744593681,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99930,
+      "num": 99930,
+      "word": "全妹多来点王楚钦怼脸拍",
+      "onboard_time": 1744596621,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 99260,
+      "num": 99260,
+      "word": "略萨去世",
+      "onboard_time": 1744597043,
+      "rank": 48,
+      "category": "读书作家"
     },
     {
       "raw_hot": 98543,
@@ -779,14 +859,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 46681,
-      "num": 153395,
-      "word": "章昊谈去世粉丝",
-      "onboard_time": 1744595602,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 46260,
       "num": 305863,
       "word": "为啥4月有这么极端的大风",
@@ -875,6 +947,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 23279,
+      "num": 125362,
+      "word": "邓亚萍穿汉服逛洛阳牡丹园",
+      "onboard_time": 1744589302,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 20662,
       "num": 226978,
       "word": "特朗普政府肆意破坏WTO规则",
@@ -955,7 +1035,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 2363,
+      "raw_hot": 4483,
       "num": 356007,
       "word": "2025世界互联网大会亚太峰会",
       "onboard_time": 1744515802,
