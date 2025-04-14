@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744608343633,
+  "endTime": 1744609326160,
   "band_list": [
     {
       "raw_hot": 3004197,
@@ -83,6 +83,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1676799,
+      "num": 1676799,
+      "word": "美国人开始飞中国代购中国制造",
+      "onboard_time": 1744605326,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1669739,
       "num": 1669739,
       "word": "特朗普政府再度退缩",
@@ -105,14 +113,6 @@
       "onboard_time": 1744514179,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1471294,
-      "num": 1471294,
-      "word": "美国人开始飞中国代购中国制造",
-      "onboard_time": 1744605326,
-      "rank": 25,
-      "category": "国际时政"
     },
     {
       "raw_hot": 1459988,
@@ -419,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 818854,
+      "num": 818854,
+      "word": "景德镇车祸遇难者家属患重度抑郁",
+      "onboard_time": 1744606705,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 810526,
       "num": 810526,
       "word": "商务部回应美豁免部分产品关税",
@@ -545,14 +553,6 @@
       "onboard_time": 1744544001,
       "rank": 36,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 672110,
-      "num": 672110,
-      "word": "景德镇车祸遇难者家属患重度抑郁",
-      "onboard_time": 1744606705,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 667100,
@@ -1075,6 +1075,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 386382,
+      "num": 370098,
+      "word": "内娱第一对豹豹兔兔",
+      "onboard_time": 1744607123,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 385859,
       "num": 763626,
       "word": "中式奶茶成为越南年轻人的新宠",
@@ -1459,6 +1467,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 269553,
+      "num": 269553,
+      "word": "偶遇许玮甯邱泽手牵手散步",
+      "onboard_time": 1744607962,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 268880,
       "num": 268880,
       "word": "汪苏泷复刻金宣虎wink",
@@ -1472,14 +1488,6 @@
       "word": "无忧渡 无磨皮",
       "onboard_time": 1744455144,
       "rank": 21,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 264458,
-      "num": 264458,
-      "word": "内娱第一对豹豹兔兔",
-      "onboard_time": 1744607123,
-      "rank": 15,
       "category": "剧集"
     },
     {
@@ -1569,6 +1577,14 @@
       "onboard_time": 1744586959,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 248073,
+      "num": 248073,
+      "word": "电影惊蛰无声主创联合倡议",
+      "onboard_time": 1744608142,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 246867,
@@ -2075,6 +2091,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 202252,
+      "num": 202252,
+      "word": "北京警方刑拘1名假富二代",
+      "onboard_time": 1744608204,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 202098,
       "num": 202098,
       "word": "惊蛰无声阵容",
@@ -2371,14 +2395,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 182661,
-      "num": 182661,
-      "word": "偶遇许玮甯邱泽手牵手散步",
-      "onboard_time": 1744607962,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 182552,
       "num": 182552,
       "word": "章昊谈爱豆的责任",
@@ -2395,6 +2411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182000,
+      "num": 182000,
+      "word": "刘亦菲聚餐吃火锅路透",
+      "onboard_time": 1744608804,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181807,
       "num": 181807,
       "word": "撒贝宁王鸥包鱼丸互怼太欢乐",
@@ -2409,6 +2433,14 @@
       "onboard_time": 1744608024,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 179986,
+      "num": 179986,
+      "word": "刘诗诗特别出演惊蛰无声",
+      "onboard_time": 1744607724,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 179676,
@@ -2523,14 +2555,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 173840,
-      "num": 173840,
-      "word": "刘诗诗特别出演惊蛰无声",
-      "onboard_time": 1744607724,
-      "rank": 36,
-      "category": "电影"
-    },
-    {
       "raw_hot": 173706,
       "num": 173706,
       "word": "打扮成埃及女王逛大英博物馆",
@@ -2627,14 +2651,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 168938,
-      "num": 183794,
-      "word": "电影惊蛰无声主创联合倡议",
-      "onboard_time": 1744608142,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
       "raw_hot": 168493,
       "num": 213638,
       "word": "蒲熠星shape of you",
@@ -2723,14 +2739,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 163802,
-      "num": 163802,
-      "word": "北京警方刑拘1名假富二代",
-      "onboard_time": 1744608204,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 163306,
       "num": 1313806,
       "word": "美国多次发动关税战并受到惨痛教训",
@@ -2744,6 +2752,14 @@
       "word": "张小婉 内向的喜剧演员",
       "onboard_time": 1744605146,
       "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 162661,
+      "num": 162661,
+      "word": "李嘉琦原来你真会唱跳啊",
+      "onboard_time": 1744609043,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -3051,6 +3067,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 143263,
+      "num": 143263,
+      "word": "欢迎人群挥舞中越国旗",
+      "onboard_time": 1744609043,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 142966,
       "num": 142966,
       "word": "大风把柳絮刮走了",
@@ -3129,6 +3153,14 @@
       "onboard_time": 1744548562,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141663,
+      "num": 141663,
+      "word": "日晕",
+      "onboard_time": 1744608742,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141089,
@@ -3491,6 +3523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129612,
+      "num": 129612,
+      "word": "labubu可口可乐",
+      "onboard_time": 1744609223,
+      "rank": 44,
+      "category": "休闲,美食"
+    },
+    {
       "raw_hot": 129596,
       "num": 129596,
       "word": "数饺子",
@@ -3835,6 +3875,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 116385,
+      "num": 116385,
+      "word": "东极岛 北影节",
+      "onboard_time": 1744609163,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 115780,
       "num": 115780,
       "word": "陈丽君浪姐跑着上班",
@@ -4049,6 +4097,14 @@
       "onboard_time": 1744528821,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 107136,
+      "num": 249917,
+      "word": "公职人员挂证取酬正被严肃查处",
+      "onboard_time": 1744608204,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106641,
@@ -4473,14 +4529,6 @@
       "onboard_time": 1744515141,
       "rank": 37,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 78147,
-      "num": 180044,
-      "word": "公职人员挂证取酬正被严肃查处",
-      "onboard_time": 1744608204,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 77585,
@@ -4963,6 +5011,14 @@
       "category": "国际时政,财经"
     },
     {
+      "raw_hot": 27202,
+      "num": 160661,
+      "word": "黄友政vs埃尔贝亚力",
+      "onboard_time": 1744608204,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 26554,
       "num": 26554,
       "word": "卓沅出去玩泥巴了",
@@ -5067,6 +5123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21952,
+      "num": 203303,
+      "word": "外卖小哥识破诈骗包裹挽回7万损失",
+      "onboard_time": 1744608564,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20662,
       "num": 226978,
       "word": "特朗普政府肆意破坏WTO规则",
@@ -5081,14 +5145,6 @@
       "onboard_time": 1744583536,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 19674,
-      "num": 160661,
-      "word": "黄友政vs埃尔贝亚力",
-      "onboard_time": 1744608204,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 19098,
@@ -5233,6 +5289,14 @@
       "onboard_time": 1744499717,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 11595,
+      "num": 172714,
+      "word": "超帅极道三巨头",
+      "onboard_time": 1744608564,
+      "rank": 29,
+      "category": "动漫"
     },
     {
       "raw_hot": 10677,

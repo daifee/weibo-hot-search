@@ -1,6 +1,6 @@
 {
   "startTime": 1744561767834,
-  "endTime": 1744608343633,
+  "endTime": 1744609326160,
   "band_list": [
     {
       "raw_hot": 2483493,
@@ -27,8 +27,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 1471294,
-      "num": 1471294,
+      "raw_hot": 1676799,
+      "num": 1676799,
       "word": "美国人开始飞中国代购中国制造",
       "onboard_time": 1744605326,
       "rank": 25,
@@ -123,6 +123,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 818854,
+      "num": 818854,
+      "word": "景德镇车祸遇难者家属患重度抑郁",
+      "onboard_time": 1744606705,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 804538,
       "num": 354028,
       "word": "李佳琦不建议普通女生做医美",
@@ -144,14 +152,6 @@
       "word": "网曝超市将馒头扔地上给大爷大妈抢",
       "onboard_time": 1744561520,
       "rank": 22,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 672110,
-      "num": 672110,
-      "word": "景德镇车祸遇难者家属患重度抑郁",
-      "onboard_time": 1744606705,
-      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -371,6 +371,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 386382,
+      "num": 370098,
+      "word": "内娱第一对豹豹兔兔",
+      "onboard_time": 1744607123,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 385859,
       "num": 763626,
       "word": "中式奶茶成为越南年轻人的新宠",
@@ -507,20 +515,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 269553,
+      "num": 269553,
+      "word": "偶遇许玮甯邱泽手牵手散步",
+      "onboard_time": 1744607962,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 268880,
       "num": 268880,
       "word": "汪苏泷复刻金宣虎wink",
       "onboard_time": 1744561459,
       "rank": 21,
       "category": "演出"
-    },
-    {
-      "raw_hot": 264458,
-      "num": 264458,
-      "word": "内娱第一对豹豹兔兔",
-      "onboard_time": 1744607123,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 261698,
@@ -561,6 +569,14 @@
       "onboard_time": 1744586959,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 248073,
+      "num": 248073,
+      "word": "电影惊蛰无声主创联合倡议",
+      "onboard_time": 1744608142,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 246867,
@@ -763,6 +779,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 202252,
+      "num": 202252,
+      "word": "北京警方刑拘1名假富二代",
+      "onboard_time": 1744608204,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 202098,
       "num": 202098,
       "word": "惊蛰无声阵容",
@@ -851,19 +875,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 182661,
-      "num": 182661,
-      "word": "偶遇许玮甯邱泽手牵手散步",
-      "onboard_time": 1744607962,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 182552,
       "num": 182552,
       "word": "章昊谈爱豆的责任",
       "onboard_time": 1744560442,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 182000,
+      "num": 182000,
+      "word": "刘亦菲聚餐吃火锅路透",
+      "onboard_time": 1744608804,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -873,6 +897,14 @@
       "onboard_time": 1744608024,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 179986,
+      "num": 179986,
+      "word": "刘诗诗特别出演惊蛰无声",
+      "onboard_time": 1744607724,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 179271,
@@ -915,14 +947,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 173840,
-      "num": 173840,
-      "word": "刘诗诗特别出演惊蛰无声",
-      "onboard_time": 1744607724,
-      "rank": 36,
-      "category": "电影"
-    },
-    {
       "raw_hot": 173706,
       "num": 173706,
       "word": "打扮成埃及女王逛大英博物馆",
@@ -947,14 +971,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 168938,
-      "num": 183794,
-      "word": "电影惊蛰无声主创联合倡议",
-      "onboard_time": 1744608142,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
       "raw_hot": 166838,
       "num": 166838,
       "word": "剑网3联动仙剑奇侠传一",
@@ -963,19 +979,19 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 163802,
-      "num": 163802,
-      "word": "北京警方刑拘1名假富二代",
-      "onboard_time": 1744608204,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 162851,
       "num": 162851,
       "word": "张小婉 内向的喜剧演员",
       "onboard_time": 1744605146,
       "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 162661,
+      "num": 162661,
+      "word": "李嘉琦原来你真会唱跳啊",
+      "onboard_time": 1744609043,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -1059,12 +1075,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 143263,
+      "num": 143263,
+      "word": "欢迎人群挥舞中越国旗",
+      "onboard_time": 1744609043,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 142491,
       "num": 142491,
       "word": "NBA",
       "onboard_time": 1744585999,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141663,
+      "num": 141663,
+      "word": "日晕",
+      "onboard_time": 1744608742,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140768,
@@ -1203,6 +1235,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 129612,
+      "num": 129612,
+      "word": "labubu可口可乐",
+      "onboard_time": 1744609223,
+      "rank": 44,
+      "category": "休闲,美食"
+    },
+    {
       "raw_hot": 124977,
       "num": 124977,
       "word": "电瓶燃爆烧伤男生称无法原谅室友",
@@ -1267,6 +1307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116385,
+      "num": 116385,
+      "word": "东极岛 北影节",
+      "onboard_time": 1744609163,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 114717,
       "num": 114717,
       "word": "WCBA冠军之路",
@@ -1296,6 +1344,14 @@
       "word": "公司约9827万应收账款拍卖2.85万成交",
       "onboard_time": 1744550603,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107136,
+      "num": 249917,
+      "word": "公职人员挂证取酬正被严肃查处",
+      "onboard_time": 1744608204,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -1457,14 +1513,6 @@
       "onboard_time": 1744544182,
       "rank": 45,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 78147,
-      "num": 180044,
-      "word": "公职人员挂证取酬正被严肃查处",
-      "onboard_time": 1744608204,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 76870,
@@ -1675,6 +1723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 27202,
+      "num": 160661,
+      "word": "黄友政vs埃尔贝亚力",
+      "onboard_time": 1744608204,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 26554,
       "num": 26554,
       "word": "卓沅出去玩泥巴了",
@@ -1715,6 +1771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 21952,
+      "num": 203303,
+      "word": "外卖小哥识破诈骗包裹挽回7万损失",
+      "onboard_time": 1744608564,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20662,
       "num": 226978,
       "word": "特朗普政府肆意破坏WTO规则",
@@ -1729,14 +1793,6 @@
       "onboard_time": 1744583536,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 19674,
-      "num": 160661,
-      "word": "黄友政vs埃尔贝亚力",
-      "onboard_time": 1744608204,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 18799,
@@ -1801,6 +1857,14 @@
       "onboard_time": 1744574354,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11595,
+      "num": 172714,
+      "word": "超帅极道三巨头",
+      "onboard_time": 1744608564,
+      "rank": 29,
+      "category": "动漫"
     },
     {
       "raw_hot": 9252,
