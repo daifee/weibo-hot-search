@@ -1,6 +1,6 @@
 {
   "startTime": 1744561767834,
-  "endTime": 1744638361748,
+  "endTime": 1744640738548,
   "band_list": [
     {
       "raw_hot": 3336228,
@@ -115,6 +115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1483182,
+      "num": 1483182,
+      "word": "人民日报评禁用红蓝招牌",
+      "onboard_time": 1744633942,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1459988,
       "num": 1459988,
       "word": "苹果死守中国绝不是因为廉价",
@@ -145,6 +153,14 @@
       "onboard_time": 1744600820,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1240710,
+      "num": 629999,
+      "word": "梁老师发监控视频自证",
+      "onboard_time": 1744634904,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 1234974,
@@ -201,14 +217,6 @@
       "onboard_time": 1744600521,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1029233,
-      "num": 1029233,
-      "word": "人民日报评禁用红蓝招牌",
-      "onboard_time": 1744633942,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1022447,
@@ -467,12 +475,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 626284,
-      "num": 626284,
-      "word": "梁老师发监控视频自证",
-      "onboard_time": 1744634904,
-      "rank": 49,
-      "category": "艺人"
+      "raw_hot": 622557,
+      "num": 622557,
+      "word": "关晓彤金发遛弯儿",
+      "onboard_time": 1744635864,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 619677,
@@ -563,6 +571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 519398,
+      "num": 519398,
+      "word": "咸鱼飞升",
+      "onboard_time": 1744637303,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 519130,
       "num": 519130,
       "word": "张艺谋新片题材是国家安全",
@@ -633,6 +649,14 @@
       "onboard_time": 1744606645,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 459887,
+      "num": 459887,
+      "word": "Jennie女王",
+      "onboard_time": 1744636162,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 456789,
@@ -787,6 +811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 376451,
+      "num": 376451,
+      "word": "撞死1家3口肇事者2次将油门踩到底",
+      "onboard_time": 1744638263,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 374649,
       "num": 374649,
       "word": "美国玩具厂商快崩溃了",
@@ -883,14 +915,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 317820,
-      "num": 317820,
-      "word": "Jennie女王",
-      "onboard_time": 1744636162,
-      "rank": 22,
-      "category": "演出"
-    },
-    {
       "raw_hot": 317601,
       "num": 317601,
       "word": "王一博VOGUE",
@@ -955,12 +979,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 275140,
-      "num": 275140,
-      "word": "咸鱼飞升",
-      "onboard_time": 1744637303,
-      "rank": 43,
-      "category": "剧集"
+      "raw_hot": 275763,
+      "num": 275763,
+      "word": "张凌赫为粉丝减肥操碎了心",
+      "onboard_time": 1744637483,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 273872,
@@ -1011,12 +1035,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 259804,
-      "num": 391553,
-      "word": "关晓彤金发遛弯儿",
-      "onboard_time": 1744635864,
-      "rank": 27,
-      "category": "作品衍生"
+      "raw_hot": 259450,
+      "num": 259449,
+      "word": "曼谷往事",
+      "onboard_time": 1744638982,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 254689,
@@ -1363,6 +1387,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 212016,
+      "num": 266887,
+      "word": "山西男篮战胜广东男篮",
+      "onboard_time": 1744639643,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 211912,
       "num": 211912,
       "word": "陈意涵为老公新电影打call",
@@ -1435,6 +1467,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 205196,
+      "num": 205196,
+      "word": "玩密室逃脱被NPC吓到摔破头住院",
+      "onboard_time": 1744638624,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 205119,
       "num": 205119,
       "word": "胡先煦邓家佳易小星乘机遇大风",
@@ -1483,6 +1523,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 203023,
+      "num": 146134,
+      "word": "猫妖换命引路木偶大变活人",
+      "onboard_time": 1744640005,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202098,
       "num": 202098,
       "word": "惊蛰无声阵容",
@@ -1512,6 +1560,14 @@
       "word": "登陆少年没有打歌舞台就自己做",
       "onboard_time": 1744622543,
       "rank": 24,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 199920,
+      "num": 271591,
+      "word": "时代峰峻暑假将启动家族打歌舞台",
+      "onboard_time": 1744640244,
+      "rank": 25,
       "category": "演出"
     },
     {
@@ -1659,6 +1715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188066,
+      "num": 207261,
+      "word": "乘风2025四公帮唱歌单",
+      "onboard_time": 1744637604,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186618,
       "num": 214004,
       "word": "2025年悬疑剧最大的黑马",
@@ -1747,6 +1811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181908,
+      "num": 181908,
+      "word": "不少年轻人流行用iPhone6拍照",
+      "onboard_time": 1744637063,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 181732,
       "num": 181732,
       "word": "苹果二手机回收已涨500元",
@@ -1811,14 +1883,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 178032,
-      "num": 178032,
-      "word": "乘风2025四公帮唱歌单",
-      "onboard_time": 1744637604,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 177518,
       "num": 177518,
       "word": "巴特勒受伤",
@@ -1865,14 +1929,6 @@
       "onboard_time": 1744629983,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 175198,
-      "num": 175198,
-      "word": "不少年轻人流行用iPhone6拍照",
-      "onboard_time": 1744637063,
-      "rank": 45,
-      "category": "数码"
     },
     {
       "raw_hot": 173868,
@@ -2147,6 +2203,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 145977,
+      "num": 145977,
+      "word": "宁德时代一季度净利润139.63亿",
+      "onboard_time": 1744640182,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 145562,
       "num": 145562,
       "word": "张远 有一首歌红了真好",
@@ -2168,14 +2232,6 @@
       "word": "虞书欣开箱自己的小卡",
       "onboard_time": 1744613782,
       "rank": 38,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 144690,
-      "num": 144690,
-      "word": "张凌赫为粉丝减肥操碎了心",
-      "onboard_time": 1744637483,
-      "rank": 42,
       "category": "艺人"
     },
     {
@@ -2201,6 +2257,14 @@
       "onboard_time": 1744614561,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143936,
+      "num": 143936,
+      "word": "郭敬明鞠婧祎合照",
+      "onboard_time": 1744639524,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 143641,
@@ -2449,14 +2513,6 @@
       "onboard_time": 1744600340,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 131586,
-      "num": 131586,
-      "word": "撞死1家3口肇事者2次将油门踩到底",
-      "onboard_time": 1744638263,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 131512,
@@ -3011,6 +3067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 87842,
+      "num": 1047382,
+      "word": "我国与东盟贸易互补不断增强",
+      "onboard_time": 1744638683,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 85543,
       "num": 85543,
       "word": "姚琛雨中万人蹦迪让人红温",
@@ -3089,6 +3153,14 @@
       "onboard_time": 1744618762,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76358,
+      "num": 320726,
+      "word": "2026冬奥会火炬发布",
+      "onboard_time": 1744639643,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 74731,
@@ -3459,12 +3531,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 34708,
+      "num": 259450,
+      "word": "领导要脱俗不是牌匾脱色的理由",
+      "onboard_time": 1744639643,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34088,
       "num": 34088,
       "word": "杨某人 期待未来的每一场比赛",
       "onboard_time": 1744565116,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 33965,
+      "num": 259954,
+      "word": "有人为了逃债伪造死亡证明",
+      "onboard_time": 1744639703,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32168,
@@ -3483,6 +3571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 30295,
+      "num": 637358,
+      "word": "那些你不知道的北京地儿",
+      "onboard_time": 1744619181,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29301,
       "num": 119599,
       "word": "全红婵回应剪辑技术越来好了",
@@ -3497,6 +3593,14 @@
       "onboard_time": 1744617441,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 27529,
+      "num": 259452,
+      "word": "带货主播称产品在外太空研究",
+      "onboard_time": 1744640604,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27518,
@@ -3611,14 +3715,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 21473,
-      "num": 176454,
-      "word": "那些你不知道的北京地儿",
-      "onboard_time": 1744619181,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 20662,
       "num": 226978,
       "word": "特朗普政府肆意破坏WTO规则",
@@ -3633,6 +3729,14 @@
       "onboard_time": 1744583536,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 20075,
+      "num": 264101,
+      "word": "尹锡悦涉嫌发动内乱案首次庭审举行",
+      "onboard_time": 1744640423,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 19345,
@@ -3797,6 +3901,9 @@
     },
     {
       "word": "#习近平同苏林会谈#"
+    },
+    {
+      "word": "#把中越友好接力棒一代代传下去#"
     }
   ]
 }
