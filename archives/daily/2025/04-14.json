@@ -1,6 +1,6 @@
 {
   "startTime": 1744561767834,
-  "endTime": 1744616324241,
+  "endTime": 1744619610001,
   "band_list": [
     {
       "raw_hot": 2483493,
@@ -19,6 +19,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2243666,
+      "num": 2243666,
+      "word": "特朗普的关税政策又变了",
+      "onboard_time": 1744613962,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 2083275,
       "num": 2083275,
       "word": "全红婵 那咋了这就破防了",
@@ -35,6 +43,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1832916,
+      "num": 1587932,
+      "word": "杨幂圆梦了",
+      "onboard_time": 1744612043,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1676799,
       "num": 1676799,
       "word": "美国人开始飞中国代购中国制造",
@@ -43,20 +59,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 1587932,
-      "num": 1587932,
-      "word": "杨幂圆梦了",
-      "onboard_time": 1744612043,
-      "rank": 34,
-      "category": "电影"
-    },
-    {
       "raw_hot": 1459988,
       "num": 1459988,
       "word": "苹果死守中国绝不是因为廉价",
       "onboard_time": 1744602142,
       "rank": 22,
       "category": "数码"
+    },
+    {
+      "raw_hot": 1353943,
+      "num": 1353943,
+      "word": "江苏新增1名亿万富翁",
+      "onboard_time": 1744618163,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1332237,
@@ -99,14 +115,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 1074006,
-      "num": 1074006,
-      "word": "特朗普的关税政策又变了",
-      "onboard_time": 1744613962,
-      "rank": 8,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 1052209,
       "num": 417123,
       "word": "易小星 我遗书都发出去了",
@@ -129,6 +137,22 @@
       "onboard_time": 1744604302,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1003271,
+      "num": 1003271,
+      "word": "韩红称遵照母亲遗愿不设灵堂",
+      "onboard_time": 1744618343,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 974955,
+      "num": 360385,
+      "word": "有棵树代言人",
+      "onboard_time": 1744615522,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 895097,
@@ -211,6 +235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 638857,
+      "num": 507021,
+      "word": "景德镇车祸肇事方已转让店面",
+      "onboard_time": 1744611443,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 637880,
       "num": 637880,
       "word": "人民币成全球第三大贸易融资货币",
@@ -225,14 +257,6 @@
       "onboard_time": 1744613843,
       "rank": 17,
       "category": "情感"
-    },
-    {
-      "raw_hot": 633223,
-      "num": 507021,
-      "word": "景德镇车祸肇事方已转让店面",
-      "onboard_time": 1744611443,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 610507,
@@ -257,6 +281,14 @@
       "onboard_time": 1744589482,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 588719,
+      "num": 266910,
+      "word": "宋雨琦 你要毁了我吗",
+      "onboard_time": 1744616963,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 547397,
@@ -451,6 +483,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 386578,
+      "num": 386578,
+      "word": "Jennie看向人群的这三秒",
+      "onboard_time": 1744616422,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 386382,
       "num": 370098,
       "word": "内娱第一对豹豹兔兔",
@@ -491,6 +531,14 @@
       "category": "国际时政,幽默"
     },
     {
+      "raw_hot": 372720,
+      "num": 372720,
+      "word": "日本首相警告美国",
+      "onboard_time": 1744619003,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 368617,
       "num": 368617,
       "word": "祝绪丹 丁禹兮是弟弟不能选",
@@ -529,6 +577,14 @@
       "onboard_time": 1744598540,
       "rank": 21,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 329279,
+      "num": 329279,
+      "word": "宋祖儿陈都灵古装双A对决",
+      "onboard_time": 1744617322,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 326854,
@@ -587,6 +643,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 284991,
+      "num": 259347,
+      "word": "生理性厌恶的8个表现",
+      "onboard_time": 1744618102,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 277274,
       "num": 277274,
       "word": "越南女孩cue到赵露思的电视剧",
@@ -609,6 +673,14 @@
       "onboard_time": 1744553605,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 269893,
+      "num": 269893,
+      "word": "倪妮 惊蛰无声",
+      "onboard_time": 1744616723,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 268880,
@@ -667,6 +739,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 249776,
+      "num": 358568,
+      "word": "辞职看世界女教师回应回到原点",
+      "onboard_time": 1744615522,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 248880,
       "num": 263968,
       "word": "英国将暂停对89种产品征全球关税",
@@ -715,6 +795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 240266,
+      "num": 240266,
+      "word": "倒贴上班",
+      "onboard_time": 1744616482,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 239884,
       "num": 239884,
       "word": "剑网3",
@@ -755,20 +843,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 223340,
-      "num": 223340,
-      "word": "有棵树代言人",
-      "onboard_time": 1744615522,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 222684,
       "num": 222684,
       "word": "美国折腾一周不如周末的风动静大",
       "onboard_time": 1744554803,
       "rank": 20,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 222269,
+      "num": 222269,
+      "word": "舞蹈家黄豆豆拟提拔为副局级干部",
+      "onboard_time": 1744615883,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 221894,
@@ -851,6 +939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 212741,
+      "num": 352595,
+      "word": "家属讲述司机泄愤撞死一家三口案细节",
+      "onboard_time": 1744614743,
+      "rank": 34,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 211912,
       "num": 211912,
       "word": "陈意涵为老公新电影打call",
@@ -865,6 +961,14 @@
       "onboard_time": 1744599861,
       "rank": 33,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 210165,
+      "num": 268607,
+      "word": "满江红2",
+      "onboard_time": 1744618402,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 209675,
@@ -963,12 +1067,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 198632,
+      "num": 198632,
+      "word": "男性也能打九价HPV疫苗了",
+      "onboard_time": 1744618282,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 198255,
       "num": 198255,
       "word": "原本要发美国的摩托车暂停出货",
       "onboard_time": 1744567216,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 196548,
+      "num": 256259,
+      "word": "白鹿参加北上研讨会路透",
+      "onboard_time": 1744618942,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 196033,
@@ -1027,6 +1147,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 185082,
+      "num": 258443,
+      "word": "内地版小鹏X9竟在香港自己学会智驾了",
+      "onboard_time": 1744617922,
+      "rank": 24,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 184910,
       "num": 184910,
       "word": "无穷小亮反矫",
@@ -1041,6 +1169,14 @@
       "onboard_time": 1744601243,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 182923,
+      "num": 253349,
+      "word": "宋佳演了张艺谋的女主",
+      "onboard_time": 1744618163,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 182833,
@@ -1083,14 +1219,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 180000,
-      "num": 352595,
-      "word": "家属讲述司机泄愤撞死一家三口案细节",
-      "onboard_time": 1744614743,
-      "rank": 34,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 179986,
       "num": 179986,
       "word": "刘诗诗特别出演惊蛰无声",
@@ -1121,6 +1249,14 @@
       "onboard_time": 1744601961,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 177704,
+      "num": 177704,
+      "word": "苹果二手机回收已涨500元",
+      "onboard_time": 1744619482,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 177518,
@@ -1163,6 +1299,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 171667,
+      "num": 171667,
+      "word": "哪吒内部人士回应传原CEO张勇在英国",
+      "onboard_time": 1744618224,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 171465,
       "num": 171465,
       "word": "蔡徐坤活动人气",
@@ -1195,12 +1339,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 165702,
-      "num": 165702,
-      "word": "舞蹈家黄豆豆拟提拔为副局级干部",
-      "onboard_time": 1744615883,
-      "rank": 33,
-      "category": "民生新闻"
+      "raw_hot": 164301,
+      "num": 164301,
+      "word": "连续跑步70天的面部变化",
+      "onboard_time": 1744619361,
+      "rank": 42,
+      "category": "运动健身"
     },
     {
       "raw_hot": 162851,
@@ -1209,6 +1353,14 @@
       "onboard_time": 1744605146,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162680,
+      "num": 162680,
+      "word": "iPhone17Pro十二大关键升级",
+      "onboard_time": 1744618942,
+      "rank": 44,
+      "category": "数码"
     },
     {
       "raw_hot": 162661,
@@ -1379,6 +1531,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 142735,
+      "num": 142735,
+      "word": "第一次见录一半全睡了的综艺",
+      "onboard_time": 1744619482,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142491,
       "num": 142491,
       "word": "NBA",
@@ -1513,6 +1673,14 @@
       "onboard_time": 1744615282,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 132411,
+      "num": 265810,
+      "word": "女装退货率越来越高",
+      "onboard_time": 1744617803,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131929,
@@ -1739,6 +1907,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 105551,
+      "num": 171697,
+      "word": "限制涉藏问题表现恶劣的美方人员签证",
+      "onboard_time": 1744617743,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 105135,
       "num": 105135,
       "word": "无忧渡拍出了琵琶行",
@@ -1795,14 +1971,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 99759,
-      "num": 358568,
-      "word": "辞职看世界女教师回应回到原点",
-      "onboard_time": 1744615522,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 99241,
       "num": 273920,
       "word": "发了1个月传单获利1万元被判刑了",
@@ -1857,6 +2025,14 @@
       "onboard_time": 1744555583,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 89406,
+      "num": 291750,
+      "word": "何运晨职场进阶找新offer",
+      "onboard_time": 1744616003,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 88435,
@@ -1987,6 +2163,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 67778,
+      "num": 216589,
+      "word": "邱贻可陪练孙颖莎还不忘吃瓜",
+      "onboard_time": 1744619543,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 67711,
       "num": 67711,
       "word": "阿拉维斯vs皇马",
@@ -2011,12 +2195,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 60977,
-      "num": 244220,
-      "word": "何运晨职场进阶找新offer",
-      "onboard_time": 1744616003,
-      "rank": 20,
-      "category": "综艺"
+      "raw_hot": 64075,
+      "num": 1102447,
+      "word": "美国关税政策乱上加乱",
+      "onboard_time": 1744619303,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 62726,
+      "num": 173787,
+      "word": "倒贴上班的九个表现",
+      "onboard_time": 1744619062,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 58293,
+      "num": 252093,
+      "word": "网曝四川一罐车向河中排放深色液体",
+      "onboard_time": 1744618224,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56765,
@@ -2100,7 +2300,7 @@
     },
     {
       "raw_hot": 43769,
-      "num": 182544,
+      "num": 251245,
       "word": "前掘金主帅马龙告别信",
       "onboard_time": 1744611981,
       "rank": 29,
@@ -2179,6 +2379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36061,
+      "num": 362848,
+      "word": "中国传统美学和最新科技惊艳世博会",
+      "onboard_time": 1744618643,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35652,
       "num": 94411,
       "word": "赵继伟说新疆男篮给我们上了一课",
@@ -2209,6 +2417,14 @@
       "onboard_time": 1744566616,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 28816,
+      "num": 134722,
+      "word": "成年人要学会照顾好自己",
+      "onboard_time": 1744617441,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 27202,
@@ -2331,6 +2547,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 16309,
+      "num": 171971,
+      "word": "美取消数百留学生和学者签证",
+      "onboard_time": 1744618823,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 15484,
       "num": 27787,
       "word": "成毅侧颜牛仔套装",
@@ -2404,6 +2628,9 @@
     },
     {
       "word": "#习主席今年首次出访这些看点值得关注#"
+    },
+    {
+      "word": "#习近平开始对越南进行国事访问#"
     }
   ]
 }
