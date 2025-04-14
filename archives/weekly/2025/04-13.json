@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744623717131,
+  "endTime": 1744626497072,
   "band_list": [
     {
       "raw_hot": 3004197,
@@ -83,6 +83,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1860947,
+      "num": 239918,
+      "word": "一家三口被撞身亡拒肇事方80万赔偿",
+      "onboard_time": 1744623624,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1750912,
       "num": 1750912,
       "word": "美豁免从中国进口的部分产品关税",
@@ -112,6 +120,14 @@
       "word": "店主解释为何女装越做越小",
       "onboard_time": 1744541421,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1680950,
+      "num": 1680950,
+      "word": "日本或发生巨大地震致29.8万人死亡",
+      "onboard_time": 1744624343,
+      "rank": 0,
       "category": "民生新闻"
     },
     {
@@ -393,6 +409,14 @@
       "onboard_time": 1744476799,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 934677,
+      "num": 238683,
+      "word": "芒果台丢下卤鹅哥那一刻",
+      "onboard_time": 1744623624,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 933309,
@@ -1331,6 +1355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 366297,
+      "num": 366297,
+      "word": "白鹿体制内女友风",
+      "onboard_time": 1744625182,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 365802,
       "num": 365802,
       "word": "辽宁男篮vs新疆男篮",
@@ -1344,6 +1376,14 @@
       "word": "加拿大民众用不买美国货表达不满",
       "onboard_time": 1744518441,
       "rank": 33,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 363522,
+      "num": 363522,
+      "word": "美卖家想找美国工厂生产没人回邮件",
+      "onboard_time": 1744624461,
+      "rank": 7,
       "category": "海外新闻"
     },
     {
@@ -1377,6 +1417,14 @@
       "onboard_time": 1744516221,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 347532,
+      "num": 225058,
+      "word": "冰岛 异食癖的故乡",
+      "onboard_time": 1744625482,
+      "rank": 22,
+      "category": "旅游"
     },
     {
       "raw_hot": 346822,
@@ -1473,6 +1521,14 @@
       "onboard_time": 1744506322,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 320469,
+      "num": 224726,
+      "word": "王一博鼻尖一点黄",
+      "onboard_time": 1744623682,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 317601,
@@ -1779,6 +1835,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 252066,
+      "num": 252066,
+      "word": "澳门永久性居民将获发1万澳门元",
+      "onboard_time": 1744624582,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 250615,
       "num": 246998,
       "word": "问界M8太能造了",
@@ -1859,6 +1923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 244052,
+      "num": 221470,
+      "word": "梁老师道歉",
+      "onboard_time": 1744623743,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 240546,
       "num": 265810,
       "word": "女装退货率越来越高",
@@ -1929,6 +2001,14 @@
       "onboard_time": 1744507522,
       "rank": 24,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 234400,
+      "num": 234400,
+      "word": "卤鹅哥成立食品科技公司",
+      "onboard_time": 1744623442,
+      "rank": 29,
+      "category": "网红"
     },
     {
       "raw_hot": 232155,
@@ -2113,14 +2193,6 @@
       "onboard_time": 1744612523,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 216392,
-      "num": 216392,
-      "word": "芒果台丢下卤鹅哥那一刻",
-      "onboard_time": 1744623624,
-      "rank": 18,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 215629,
@@ -2371,6 +2443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205005,
+      "num": 205005,
+      "word": "张杰纪念日发文",
+      "onboard_time": 1744625602,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 204666,
       "num": 204666,
       "word": "Like Jennie",
@@ -2555,20 +2635,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195826,
+      "num": 1236071,
+      "word": "美国关税政策乱上加乱",
+      "onboard_time": 1744619303,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 195614,
       "num": 195614,
       "word": "韩式英语一出来面相都变了",
       "onboard_time": 1744547480,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 195589,
-      "num": 195589,
-      "word": "王一博鼻尖一点黄",
-      "onboard_time": 1744623682,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 195293,
@@ -2771,6 +2851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183439,
+      "num": 183439,
+      "word": "任嘉伦无忧渡笑着哭更痛",
+      "onboard_time": 1744625422,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183433,
       "num": 183433,
       "word": "陈赫邓超多次在五哈cue到跑男的梗",
@@ -2891,6 +2979,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 179231,
+      "num": 179231,
+      "word": "刘耀文一个人就是一个团队",
+      "onboard_time": 1744625602,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179000,
       "num": 179000,
       "word": "导师骂人有多高级",
@@ -3003,6 +3099,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 173682,
+      "num": 236650,
+      "word": "拍照买微单还是买手机",
+      "onboard_time": 1744624403,
+      "rank": 13,
+      "category": "数码"
+    },
+    {
       "raw_hot": 172895,
       "num": 315913,
       "word": "美国店主很害怕母亲节生意彻底泡汤",
@@ -3073,14 +3177,6 @@
       "onboard_time": 1744521501,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 170229,
-      "num": 1236071,
-      "word": "美国关税政策乱上加乱",
-      "onboard_time": 1744619303,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 170140,
@@ -3491,6 +3587,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 150633,
+      "num": 150633,
+      "word": "教育部门通报学校禁止教师考公考编",
+      "onboard_time": 1744624822,
+      "rank": 34,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 150399,
       "num": 180525,
       "word": "纽约坠毁直升机飞行员曾报告复飞",
@@ -3803,6 +3907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138650,
+      "num": 254583,
+      "word": "一个乡镇小学有3份阴阳课表",
+      "onboard_time": 1744623022,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 138380,
       "num": 138380,
       "word": "马嘉祺清唱晴天",
@@ -4095,14 +4207,6 @@
       "num": 130924,
       "word": "在越南参加汉语水平考试是啥体验",
       "onboard_time": 1744547241,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 130687,
-      "num": 130687,
-      "word": "一家三口被撞身亡拒肇事方80万赔偿",
-      "onboard_time": 1744623624,
       "rank": 44,
       "category": "民生新闻"
     },
@@ -4505,6 +4609,14 @@
       "onboard_time": 1744551023,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118580,
+      "num": 229671,
+      "word": "当地回应女子被1.7万元拐卖拘禁",
+      "onboard_time": 1744625182,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118478,
@@ -4915,6 +5027,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 103546,
+      "num": 103546,
+      "word": "全红婵被扔娃娃陈若琳下意识保护",
+      "onboard_time": 1744626322,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103417,
       "num": 103417,
       "word": "国色芳华改编成功是极小概率事件",
@@ -4993,6 +5113,14 @@
       "onboard_time": 1744542800,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101528,
+      "num": 101528,
+      "word": "周末可以做的低成本小事",
+      "onboard_time": 1744625422,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 101341,
@@ -5105,6 +5233,14 @@
       "onboard_time": 1744541542,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 96608,
+      "num": 96608,
+      "word": "猫景房",
+      "onboard_time": 1744626443,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 96373,
@@ -5603,6 +5739,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 47284,
+      "num": 235530,
+      "word": "景德镇车祸遇难者家属拒绝赔偿和养老",
+      "onboard_time": 1744625722,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47187,
+      "num": 231815,
+      "word": "志胜亲友团都有谁",
+      "onboard_time": 1744625242,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 46954,
       "num": 48363,
       "word": "上海中心阻尼器开始明显摆动",
@@ -5649,14 +5801,6 @@
       "onboard_time": 1744607724,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 44163,
-      "num": 254583,
-      "word": "一个乡镇小学有3份阴阳课表",
-      "onboard_time": 1744623022,
-      "rank": 14,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 44088,
@@ -5777,6 +5921,14 @@
       "onboard_time": 1744461565,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 40263,
+      "num": 230301,
+      "word": "世界泳联发博祝贺中国跳水队",
+      "onboard_time": 1744625784,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 39807,
@@ -6009,14 +6161,6 @@
       "onboard_time": 1744523002,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 24505,
-      "num": 190548,
-      "word": "卤鹅哥成立食品科技公司",
-      "onboard_time": 1744623442,
-      "rank": 29,
-      "category": "网红"
     },
     {
       "raw_hot": 24380,
