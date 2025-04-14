@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744669423635,
+  "endTime": 1744670469004,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -6059,6 +6059,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 609040,
+      "num": 609040,
+      "word": "全球高度关注中国应对美关税霸凌",
+      "onboard_time": 1744650856,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 608421,
       "num": 608421,
       "word": "公摊面积最大的蔬菜",
@@ -8945,14 +8953,6 @@
       "onboard_time": 1743557541,
       "rank": 8,
       "category": "教育"
-    },
-    {
-      "raw_hot": 437112,
-      "num": 437112,
-      "word": "全球高度关注中国应对美关税霸凌",
-      "onboard_time": 1744650856,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 436724,
@@ -39107,6 +39107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75958,
+      "num": 75958,
+      "word": "美企业主称制造业回流美国难",
+      "onboard_time": 1744666993,
+      "rank": 13,
+      "category": "国际时政,国际时政"
+    },
+    {
       "raw_hot": 75957,
       "num": 96365,
       "word": "古人餐具自带您吃好弹幕提示",
@@ -42011,20 +42019,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44380,
+      "num": 44380,
+      "word": "美议员怒斥特朗普关税政策",
+      "onboard_time": 1744660394,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 44344,
       "num": 581439,
       "word": "如果能用思念寄张明信片",
       "onboard_time": 1743912742,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 44269,
-      "num": 44269,
-      "word": "美议员怒斥特朗普关税政策",
-      "onboard_time": 1744660394,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 44223,
@@ -42561,6 +42569,14 @@
       "onboard_time": 1743527896,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 40133,
+      "num": 40133,
+      "word": "婚礼上残疾母亲婉拒合影被抱上台",
+      "onboard_time": 1744665074,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40126,
@@ -43459,14 +43475,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 32424,
-      "num": 32424,
-      "word": "婚礼上残疾母亲婉拒合影被抱上台",
-      "onboard_time": 1744665074,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 32284,
       "num": 215489,
       "word": "打工人如何防止被人精套话",
@@ -43891,14 +43899,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 28942,
-      "num": 43803,
-      "word": "美企业主称制造业回流美国难",
-      "onboard_time": 1744666993,
-      "rank": 13,
-      "category": "国际时政,国际时政"
-    },
-    {
       "raw_hot": 28897,
       "num": 310002,
       "word": "梁王把对手打的没脾气",
@@ -44243,20 +44243,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 25695,
+      "num": 32346,
+      "word": "外交部6连问回击美方谬论",
+      "onboard_time": 1744664533,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 25692,
       "num": 138511,
       "word": "急性心梗如何自救",
       "onboard_time": 1744599741,
       "rank": 39,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 25686,
-      "num": 32346,
-      "word": "外交部6连问回击美方谬论",
-      "onboard_time": 1744664533,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 25640,
@@ -44609,6 +44609,14 @@
       "onboard_time": 1744276102,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 23760,
+      "num": 29104,
+      "word": "洛阳你真的把牡丹保护得很好",
+      "onboard_time": 1744665194,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 23729,
@@ -45059,6 +45067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20087,
+      "num": 29453,
+      "word": "越南人聚会也爱嗑瓜子",
+      "onboard_time": 1744650498,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 20068,
       "num": 131745,
       "word": "上海队绝杀解说破音了",
@@ -45081,6 +45097,14 @@
       "onboard_time": 1743841822,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19869,
+      "num": 29070,
+      "word": "地面上有蓝光闪烁赶紧跑",
+      "onboard_time": 1744669996,
+      "rank": 48,
+      "category": "科学科普"
     },
     {
       "raw_hot": 19831,
@@ -45267,6 +45291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18860,
+      "num": 29054,
+      "word": "绝经后我更像个人了",
+      "onboard_time": 1744670419,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 18858,
       "num": 37333,
       "word": "双轨杀青",
@@ -45281,14 +45313,6 @@
       "onboard_time": 1744517962,
       "rank": 29,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 18822,
-      "num": 29453,
-      "word": "越南人聚会也爱嗑瓜子",
-      "onboard_time": 1744650498,
-      "rank": 47,
-      "category": "国内时政"
     },
     {
       "raw_hot": 18820,
@@ -45449,14 +45473,6 @@
       "onboard_time": 1743454933,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 17818,
-      "num": 22423,
-      "word": "洛阳你真的把牡丹保护得很好",
-      "onboard_time": 1744665194,
-      "rank": 49,
-      "category": "旅游"
     },
     {
       "raw_hot": 17772,
