@@ -1,6 +1,6 @@
 {
   "startTime": 1744561767834,
-  "endTime": 1744626497072,
+  "endTime": 1744627500654,
   "band_list": [
     {
       "raw_hot": 2483493,
@@ -60,15 +60,15 @@
     },
     {
       "raw_hot": 1860947,
-      "num": 239918,
+      "num": 414289,
       "word": "一家三口被撞身亡拒肇事方80万赔偿",
       "onboard_time": 1744623624,
       "rank": 44,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1680950,
-      "num": 1680950,
+      "raw_hot": 1806688,
+      "num": 1806688,
       "word": "日本或发生巨大地震致29.8万人死亡",
       "onboard_time": 1744624343,
       "rank": 0,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 1008043,
-      "num": 292684,
+      "num": 404234,
       "word": "夫妻中1003万元大奖称不会告诉孩子",
       "onboard_time": 1744621582,
       "rank": 10,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 934677,
-      "num": 238683,
+      "num": 413508,
       "word": "芒果台丢下卤鹅哥那一刻",
       "onboard_time": 1744623624,
       "rank": 18,
@@ -265,6 +265,14 @@
       "onboard_time": 1744612702,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 719826,
+      "num": 719826,
+      "word": "冰岛 异食癖的故乡",
+      "onboard_time": 1744625482,
+      "rank": 22,
+      "category": "旅游"
     },
     {
       "raw_hot": 714004,
@@ -340,7 +348,7 @@
     },
     {
       "raw_hot": 612471,
-      "num": 269094,
+      "num": 384076,
       "word": "韩红回应母亲逝世",
       "onboard_time": 1744621164,
       "rank": 12,
@@ -361,6 +369,14 @@
       "onboard_time": 1744552764,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 601974,
+      "num": 406995,
+      "word": "白鹿体制内女友风",
+      "onboard_time": 1744625182,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 593732,
@@ -481,6 +497,22 @@
       "onboard_time": 1744606645,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 463054,
+      "num": 463054,
+      "word": "THE9成员9人实到2人",
+      "onboard_time": 1744626683,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 456789,
+      "num": 456789,
+      "word": "美卖家想找美国工厂生产没人回邮件",
+      "onboard_time": 1744624461,
+      "rank": 7,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 455020,
@@ -627,36 +659,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 366297,
-      "num": 366297,
-      "word": "白鹿体制内女友风",
-      "onboard_time": 1744625182,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 363522,
-      "num": 363522,
-      "word": "美卖家想找美国工厂生产没人回邮件",
-      "onboard_time": 1744624461,
-      "rank": 7,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 350736,
       "num": 350736,
       "word": "惊蛰无声",
       "onboard_time": 1744606705,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 347532,
-      "num": 225058,
-      "word": "冰岛 异食癖的故乡",
-      "onboard_time": 1744625482,
-      "rank": 22,
-      "category": "旅游"
     },
     {
       "raw_hot": 337736,
@@ -692,7 +700,7 @@
     },
     {
       "raw_hot": 320469,
-      "num": 224726,
+      "num": 312716,
       "word": "王一博鼻尖一点黄",
       "onboard_time": 1744623682,
       "rank": 26,
@@ -737,6 +745,14 @@
       "onboard_time": 1744556063,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 297842,
+      "num": 408438,
+      "word": "澳门永久性居民将获发1万澳门元",
+      "onboard_time": 1744624582,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 286292,
@@ -833,14 +849,6 @@
       "onboard_time": 1744594521,
       "rank": 19,
       "category": "演出"
-    },
-    {
-      "raw_hot": 252066,
-      "num": 252066,
-      "word": "澳门永久性居民将获发1万澳门元",
-      "onboard_time": 1744624582,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 250615,
@@ -1019,6 +1027,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 219536,
+      "num": 231204,
+      "word": "哪吒之魔童闹海票房破152亿",
+      "onboard_time": 1744626741,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 219359,
       "num": 219359,
       "word": "惊蛰无声开通官微",
@@ -1155,6 +1171,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 205559,
+      "num": 1236071,
+      "word": "美国关税政策乱上加乱",
+      "onboard_time": 1744619303,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 205119,
       "num": 205119,
       "word": "胡先煦邓家佳易小星乘机遇大风",
@@ -1169,6 +1193,14 @@
       "onboard_time": 1744625602,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 204718,
+      "num": 256651,
+      "word": "全红婵被扔娃娃陈若琳下意识保护",
+      "onboard_time": 1744626322,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 204666,
@@ -1257,14 +1289,6 @@
       "onboard_time": 1744595602,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 195826,
-      "num": 1236071,
-      "word": "美国关税政策乱上加乱",
-      "onboard_time": 1744619303,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 195293,
@@ -1500,7 +1524,7 @@
     },
     {
       "raw_hot": 173682,
-      "num": 236650,
+      "num": 410420,
       "word": "拍照买微单还是买手机",
       "onboard_time": 1744624403,
       "rank": 13,
@@ -1513,6 +1537,14 @@
       "onboard_time": 1744601903,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 172045,
+      "num": 172045,
+      "word": "肇事者父亲想用80万买我们家三条命",
+      "onboard_time": 1744627103,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 171667,
@@ -1763,6 +1795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141870,
+      "num": 229671,
+      "word": "当地回应女子被1.7万元拐卖拘禁",
+      "onboard_time": 1744625182,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141776,
       "num": 217945,
       "word": "刘国梁揭秘洛杉矶奥运备战蓝图",
@@ -2011,6 +2051,14 @@
       "category": "休闲,美食"
     },
     {
+      "raw_hot": 126550,
+      "num": 392733,
+      "word": "张栋梁扫楼合唱当你孤单你会想起谁",
+      "onboard_time": 1744626801,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 126468,
       "num": 222893,
       "word": "云合",
@@ -2025,6 +2073,14 @@
       "onboard_time": 1744614503,
       "rank": 44,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 125066,
+      "num": 125066,
+      "word": "虞书欣一周拿下三代言",
+      "onboard_time": 1744627403,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 124977,
@@ -2123,11 +2179,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 118580,
-      "num": 229671,
-      "word": "当地回应女子被1.7万元拐卖拘禁",
-      "onboard_time": 1744625182,
-      "rank": 19,
+      "raw_hot": 120058,
+      "num": 120058,
+      "word": "一家三口被撞案失独老人住进儿子婚房",
+      "onboard_time": 1744626741,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -2163,12 +2219,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 114836,
+      "num": 114836,
+      "word": "许玮甯晒照为李靓蕾庆生",
+      "onboard_time": 1744627341,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 114717,
       "num": 114717,
       "word": "WCBA冠军之路",
       "onboard_time": 1744560800,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 113537,
+      "num": 113537,
+      "word": "猫景房",
+      "onboard_time": 1744626443,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 112863,
@@ -2251,14 +2323,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 103546,
-      "num": 103546,
-      "word": "全红婵被扔娃娃陈若琳下意识保护",
-      "onboard_time": 1744626322,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 102701,
       "num": 174081,
       "word": "2025腾讯游戏发布会定档",
@@ -2339,14 +2403,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 96608,
-      "num": 96608,
-      "word": "猫景房",
-      "onboard_time": 1744626443,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 94896,
       "num": 94896,
       "word": "快船vs勇士",
@@ -2385,6 +2441,14 @@
       "onboard_time": 1744616003,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 89136,
+      "num": 409562,
+      "word": "景德镇车祸遇难者家属拒绝赔偿和养老",
+      "onboard_time": 1744625722,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88435,
@@ -2571,12 +2635,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 52483,
+      "num": 198274,
+      "word": "刘国梁谈运动员的榜样力量",
+      "onboard_time": 1744627041,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 51609,
       "num": 171931,
       "word": "姆巴佩直红",
       "onboard_time": 1744587140,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 50075,
+      "num": 188818,
+      "word": "厦门有现实版莫奈花园",
+      "onboard_time": 1744626562,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49653,
@@ -2595,6 +2675,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 49232,
+      "num": 405701,
+      "word": "国乒教练组也卷起来了",
+      "onboard_time": 1744627041,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 48228,
       "num": 142325,
       "word": "银行存款定期化趋势仍在持续",
@@ -2611,16 +2699,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 47284,
-      "num": 235530,
-      "word": "景德镇车祸遇难者家属拒绝赔偿和养老",
-      "onboard_time": 1744625722,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 47187,
-      "num": 231815,
+      "num": 404778,
       "word": "志胜亲友团都有谁",
       "onboard_time": 1744625242,
       "rank": 17,
@@ -2889,6 +2969,14 @@
       "onboard_time": 1744589302,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 22137,
+      "num": 415295,
+      "word": "美议员怒斥关税战只有混乱和腐败",
+      "onboard_time": 1744626982,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 21952,

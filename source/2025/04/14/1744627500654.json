@@ -1,0 +1,410 @@
+{
+  "runTime": 1744627500654,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1806688,
+        "num": 1806688,
+        "word": "日本或发生巨大地震致29.8万人死亡",
+        "onboard_time": 1744624343,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1322764,
+        "num": 1322764,
+        "word": "特朗普的关税政策又变了",
+        "onboard_time": 1744613962,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 205559,
+        "num": 990412,
+        "word": "美国关税政策乱上加乱",
+        "onboard_time": 1744619303,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 719826,
+        "num": 719826,
+        "word": "冰岛 异食癖的故乡",
+        "onboard_time": 1744625482,
+        "rank": 3,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 609820,
+        "num": 609820,
+        "word": "日本首相警告美国",
+        "onboard_time": 1744619003,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 589146,
+        "num": 589146,
+        "word": "第一次见录一半全睡了的综艺",
+        "onboard_time": 1744619482,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 463054,
+        "num": 463054,
+        "word": "THE9成员9人实到2人",
+        "onboard_time": 1744626683,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 456789,
+        "num": 456789,
+        "word": "美卖家想找美国工厂生产没人回邮件",
+        "onboard_time": 1744624461,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 416444,
+        "num": 416444,
+        "word": "满江红2",
+        "onboard_time": 1744618402,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 22137,
+        "num": 415295,
+        "word": "美议员怒斥关税战只有混乱和腐败",
+        "onboard_time": 1744626982,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1847262,
+        "num": 414289,
+        "word": "一家三口被撞身亡拒肇事方80万赔偿",
+        "onboard_time": 1744623624,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 893813,
+        "num": 413508,
+        "word": "芒果台丢下卤鹅哥那一刻",
+        "onboard_time": 1744623624,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 807314,
+        "num": 412542,
+        "word": "江苏新增1名亿万富翁",
+        "onboard_time": 1744618163,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167475,
+        "num": 410420,
+        "word": "拍照买微单还是买手机",
+        "onboard_time": 1744624403,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 89136,
+        "num": 409562,
+        "word": "景德镇车祸遇难者家属拒绝赔偿和养老",
+        "onboard_time": 1744625722,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 297842,
+        "num": 408438,
+        "word": "澳门永久性居民将获发1万澳门元",
+        "onboard_time": 1744624582,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 601974,
+        "num": 406995,
+        "word": "白鹿体制内女友风",
+        "onboard_time": 1744625182,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49232,
+        "num": 405701,
+        "word": "国乒教练组也卷起来了",
+        "onboard_time": 1744627041,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33764,
+        "num": 404778,
+        "word": "志胜亲友团都有谁",
+        "onboard_time": 1744625242,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 404234,
+        "num": 404234,
+        "word": "夫妻中1003万元大奖称不会告诉孩子",
+        "onboard_time": 1744621582,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126550,
+        "num": 392733,
+        "word": "张栋梁扫楼合唱当你孤单你会想起谁",
+        "onboard_time": 1744626801,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 384076,
+        "num": 384076,
+        "word": "韩红回应母亲逝世",
+        "onboard_time": 1744621164,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312716,
+        "num": 312716,
+        "word": "王一博鼻尖一点黄",
+        "onboard_time": 1744623682,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273337,
+        "num": 273337,
+        "word": "杨幂圆梦了",
+        "onboard_time": 1744612043,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 204718,
+        "num": 256651,
+        "word": "全红婵被扔娃娃陈若琳下意识保护",
+        "onboard_time": 1744626322,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 248419,
+        "num": 248419,
+        "word": "有棵树代言人",
+        "onboard_time": 1744615522,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219536,
+        "num": 231204,
+        "word": "哪吒之魔童闹海票房破152亿",
+        "onboard_time": 1744626741,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 228929,
+        "num": 228929,
+        "word": "驻日大使馆提醒注意防范地震",
+        "onboard_time": 1744603703,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52483,
+        "num": 198274,
+        "word": "刘国梁谈运动员的榜样力量",
+        "onboard_time": 1744627041,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50075,
+        "num": 188818,
+        "word": "厦门有现实版莫奈花园",
+        "onboard_time": 1744626562,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186331,
+        "num": 186331,
+        "word": "折腰",
+        "onboard_time": 1744624041,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172045,
+        "num": 172045,
+        "word": "肇事者父亲想用80万买我们家三条命",
+        "onboard_time": 1744627103,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167281,
+        "num": 167281,
+        "word": "梁老师道歉",
+        "onboard_time": 1744623743,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163181,
+        "num": 163181,
+        "word": "卤鹅哥成立食品科技公司",
+        "onboard_time": 1744623442,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 160465,
+        "num": 160465,
+        "word": "宋雨琦 你要毁了我吗",
+        "onboard_time": 1744616963,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148731,
+        "num": 148731,
+        "word": "张杰纪念日发文",
+        "onboard_time": 1744625602,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 141870,
+        "num": 141870,
+        "word": "当地回应女子被1.7万元拐卖拘禁",
+        "onboard_time": 1744625182,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139638,
+        "num": 139638,
+        "word": "连续跑步70天的面部变化",
+        "onboard_time": 1744619361,
+        "rank": 37,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 138040,
+        "num": 138040,
+        "word": "宋祖儿陈都灵古装双A对决",
+        "onboard_time": 1744617322,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135323,
+        "num": 135323,
+        "word": "美国人开始飞中国代购中国制造",
+        "onboard_time": 1744605326,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 125066,
+        "num": 125066,
+        "word": "虞书欣一周拿下三代言",
+        "onboard_time": 1744627403,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 121956,
+        "num": 121956,
+        "word": "iPhone17Pro十二大关键升级",
+        "onboard_time": 1744618942,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 121702,
+        "num": 121702,
+        "word": "一个乡镇小学有3份阴阳课表",
+        "onboard_time": 1744623022,
+        "rank": 42,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 120058,
+        "num": 120058,
+        "word": "一家三口被撞案失独老人住进儿子婚房",
+        "onboard_time": 1744626741,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114836,
+        "num": 114836,
+        "word": "许玮甯晒照为李靓蕾庆生",
+        "onboard_time": 1744627341,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113589,
+        "num": 113589,
+        "word": "教育部门通报学校禁止教师考公考编",
+        "onboard_time": 1744624822,
+        "rank": 45,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 113537,
+        "num": 113537,
+        "word": "猫景房",
+        "onboard_time": 1744626443,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112088,
+        "num": 112088,
+        "word": "小孩跳楼砸坏新车家长只赔几百",
+        "onboard_time": 1744613062,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109952,
+        "num": 109952,
+        "word": "韩红母亲逝世",
+        "onboard_time": 1744610422,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107635,
+        "num": 107635,
+        "word": "生理性厌恶的8个表现",
+        "onboard_time": 1744618102,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#越南各界热切期待习近平到访#"
+    }
+  }
+}
