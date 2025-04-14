@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744622907174,
+  "endTime": 1744623717131,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -3003,6 +3003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1008043,
+      "num": 292684,
+      "word": "夫妻中1003万元大奖称不会告诉孩子",
+      "onboard_time": 1744621582,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1005848,
       "num": 1005848,
       "word": "很舒服但很伤身的6个行为",
@@ -3883,14 +3891,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 847680,
-      "num": 292684,
-      "word": "夫妻中1003万元大奖称不会告诉孩子",
-      "onboard_time": 1744621582,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 844612,
       "num": 469132,
       "word": "iPhone16回收价已涨300元",
@@ -4401,6 +4401,14 @@
       "onboard_time": 1743577283,
       "rank": 7,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 786023,
+      "num": 786023,
+      "word": "无锡引进人才需要诺贝尔奖",
+      "onboard_time": 1744620563,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 782426,
@@ -5795,6 +5803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 612471,
+      "num": 269094,
+      "word": "韩红回应母亲逝世",
+      "onboard_time": 1744621164,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 610967,
       "num": 400469,
       "word": "金秀贤把鼻子上的妆抹掉了",
@@ -5825,14 +5841,6 @@
       "onboard_time": 1744164004,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 610100,
-      "num": 269094,
-      "word": "韩红回应母亲逝世",
-      "onboard_time": 1744621164,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 608421,
@@ -6041,14 +6049,6 @@
       "onboard_time": 1744109182,
       "rank": 24,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 596484,
-      "num": 596484,
-      "word": "无锡引进人才需要诺贝尔奖",
-      "onboard_time": 1744620563,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 596191,
@@ -17307,6 +17307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 216392,
+      "num": 216392,
+      "word": "芒果台丢下卤鹅哥那一刻",
+      "onboard_time": 1744623624,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 216332,
       "num": 216332,
       "word": "呼叫81192",
@@ -19147,6 +19155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201410,
+      "num": 223960,
+      "word": "登陆少年没有打歌舞台就自己做",
+      "onboard_time": 1744622543,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 201378,
       "num": 201378,
       "word": "阿瑟你的兵来了",
@@ -20057,6 +20073,14 @@
       "onboard_time": 1743937402,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 195589,
+      "num": 195589,
+      "word": "王一博鼻尖一点黄",
+      "onboard_time": 1744623682,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 195432,
@@ -24371,6 +24395,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 168343,
+      "num": 240140,
+      "word": "邱贻可陪练孙颖莎还不忘吃瓜",
+      "onboard_time": 1744619543,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168340,
       "num": 168340,
       "word": "金宝罗悼念金赛纶",
@@ -24523,14 +24555,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 167256,
-      "num": 240140,
-      "word": "邱贻可陪练孙颖莎还不忘吃瓜",
-      "onboard_time": 1744619543,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 167168,
       "num": 167168,
       "word": "吴敬平晒10岁樊振东反手技术",
@@ -24625,14 +24649,6 @@
       "onboard_time": 1744104502,
       "rank": 38,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 166594,
-      "num": 223960,
-      "word": "登陆少年没有打歌舞台就自己做",
-      "onboard_time": 1744622543,
-      "rank": 24,
-      "category": "演出"
     },
     {
       "raw_hot": 166553,
@@ -28499,6 +28515,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 143641,
+      "num": 143641,
+      "word": "为什么瑞幸不叫幸运咖",
+      "onboard_time": 1744620262,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 143625,
       "num": 143625,
       "word": "何泓姗淘汰",
@@ -28856,6 +28880,14 @@
       "word": "蒋敦豪 新蜂音乐节",
       "onboard_time": 1744258943,
       "rank": 48,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 141765,
+      "num": 195729,
+      "word": "LikeJENNIE好爽",
+      "onboard_time": 1744622782,
+      "rank": 46,
       "category": "演出"
     },
     {
@@ -30155,6 +30187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134814,
+      "num": 134814,
+      "word": "波西米亚风陶瓷转内销火爆",
+      "onboard_time": 1744623624,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134787,
       "num": 134787,
       "word": "内娱站姐发的权志龙",
@@ -30619,6 +30659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132490,
+      "num": 132490,
+      "word": "米修斯之印停运",
+      "onboard_time": 1744623203,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 132421,
       "num": 132421,
       "word": "邓佳鑫大屏",
@@ -31009,6 +31057,14 @@
       "onboard_time": 1743603144,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 130687,
+      "num": 130687,
+      "word": "一家三口被撞身亡拒肇事方80万赔偿",
+      "onboard_time": 1744623624,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130568,
@@ -32323,6 +32379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123857,
+      "num": 123857,
+      "word": "建议内耗的人多接触可爱的东西",
+      "onboard_time": 1744619003,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 123852,
       "num": 123852,
       "word": "谭松韵杀青照",
@@ -32731,6 +32795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121235,
+      "num": 242916,
+      "word": "昆明一商铺凌晨起火致8死",
+      "onboard_time": 1744621641,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121115,
       "num": 121115,
       "word": "小朋友用冰箱贴打造mini博物馆",
@@ -32921,14 +32993,6 @@
       "onboard_time": 1744316594,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 120299,
-      "num": 120299,
-      "word": "建议内耗的人多接触可爱的东西",
-      "onboard_time": 1744619003,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 120286,
@@ -33400,14 +33464,6 @@
       "word": "陈楚生割开一颗心回应每一箭",
       "onboard_time": 1744556364,
       "rank": 43,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 117682,
-      "num": 117682,
-      "word": "LikeJENNIE好爽",
-      "onboard_time": 1744622782,
-      "rank": 46,
       "category": "演出"
     },
     {
@@ -37891,14 +37947,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 77828,
-      "num": 242916,
-      "word": "昆明一商铺凌晨起火致8死",
-      "onboard_time": 1744621641,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 77730,
       "num": 303953,
       "word": "职业女哭灵人半个月连哭16场",
@@ -37985,6 +38033,14 @@
       "onboard_time": 1744356742,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 76522,
+      "num": 266810,
+      "word": "官方回应重庆一码头有人放生矿泉水",
+      "onboard_time": 1744618762,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76464,
@@ -40835,6 +40891,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 44163,
+      "num": 254583,
+      "word": "一个乡镇小学有3份阴阳课表",
+      "onboard_time": 1744623022,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 44155,
       "num": 238445,
       "word": "队友夺冠全红婵兴奋鼓掌拍照",
@@ -41257,6 +41321,14 @@
       "onboard_time": 1743998662,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 40766,
+      "num": 170806,
+      "word": "张栋梁新浪扫楼",
+      "onboard_time": 1744623383,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 40689,
@@ -43129,6 +43201,14 @@
       "onboard_time": 1744523002,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 24505,
+      "num": 190548,
+      "word": "卤鹅哥成立食品科技公司",
+      "onboard_time": 1744623442,
+      "rank": 29,
+      "category": "网红"
     },
     {
       "raw_hot": 24468,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1744623717131,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1772706,
+        "num": 1772706,
+        "word": "特朗普的关税政策又变了",
+        "onboard_time": 1744613962,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1082938,
+        "num": 1082938,
+        "word": "日本首相警告美国",
+        "onboard_time": 1744619003,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 52,
+        "num": 846715,
+        "word": "万千气象看山东",
+        "onboard_time": 1744619303,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 832213,
+        "num": 832213,
+        "word": "第一次见录一半全睡了的综艺",
+        "onboard_time": 1744619482,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 786023,
+        "num": 786023,
+        "word": "无锡引进人才需要诺贝尔奖",
+        "onboard_time": 1744620563,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 664570,
+        "num": 664570,
+        "word": "江苏新增1名亿万富翁",
+        "onboard_time": 1744618163,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 651445,
+        "num": 651445,
+        "word": "满江红2",
+        "onboard_time": 1744618402,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 288883,
+        "num": 288883,
+        "word": "宋祖儿陈都灵古装双A对决",
+        "onboard_time": 1744617322,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269205,
+        "num": 269205,
+        "word": "驻日大使馆提醒注意防范地震",
+        "onboard_time": 1744603703,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76522,
+        "num": 266810,
+        "word": "官方回应重庆一码头有人放生矿泉水",
+        "onboard_time": 1744618762,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1008043,
+        "num": 266641,
+        "word": "夫妻中1003万元大奖称不会告诉孩子",
+        "onboard_time": 1744621582,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 612471,
+        "num": 266533,
+        "word": "韩红回应母亲逝世",
+        "onboard_time": 1744621164,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266176,
+        "num": 266176,
+        "word": "韩红称遵照母亲遗愿不设灵堂",
+        "onboard_time": 1744618343,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413132,
+        "num": 262208,
+        "word": "有棵树代言人",
+        "onboard_time": 1744615522,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44163,
+        "num": 254583,
+        "word": "一个乡镇小学有3份阴阳课表",
+        "onboard_time": 1744623022,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 373486,
+        "num": 246702,
+        "word": "宋雨琦 你要毁了我吗",
+        "onboard_time": 1744616963,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268686,
+        "num": 235809,
+        "word": "Jennie看向人群的这三秒",
+        "onboard_time": 1744616422,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 229310,
+        "num": 229310,
+        "word": "美国人开始飞中国代购中国制造",
+        "onboard_time": 1744605326,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 216392,
+        "num": 216392,
+        "word": "芒果台丢下卤鹅哥那一刻",
+        "onboard_time": 1744623624,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 173031,
+        "num": 210790,
+        "word": "花花花花花人海海海海海",
+        "onboard_time": 1744621641,
+        "rank": 19,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 1035489,
+        "num": 210735,
+        "word": "杨幂圆梦了",
+        "onboard_time": 1744612043,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 222224,
+        "num": 210481,
+        "word": "生理性厌恶的8个表现",
+        "onboard_time": 1744618102,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 210085,
+        "num": 210085,
+        "word": "吃芒果是一件很私密的事",
+        "onboard_time": 1744604302,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 201410,
+        "num": 201410,
+        "word": "登陆少年没有打歌舞台就自己做",
+        "onboard_time": 1744622543,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 195916,
+        "num": 195916,
+        "word": "工作时猝死抢救超48小时无法认定工伤",
+        "onboard_time": 1744612702,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141765,
+        "num": 195729,
+        "word": "LikeJENNIE好爽",
+        "onboard_time": 1744622782,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 195589,
+        "num": 195589,
+        "word": "王一博鼻尖一点黄",
+        "onboard_time": 1744623682,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115151,
+        "num": 195402,
+        "word": "刘国梁揭秘洛杉矶奥运备战蓝图",
+        "onboard_time": 1744622243,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19873,
+        "num": 192761,
+        "word": "前掘金主帅马龙告别信",
+        "onboard_time": 1744611981,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24505,
+        "num": 190548,
+        "word": "卤鹅哥成立食品科技公司",
+        "onboard_time": 1744623442,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 138965,
+        "num": 189197,
+        "word": "倪妮 惊蛰无声",
+        "onboard_time": 1744616723,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 187603,
+        "num": 187603,
+        "word": "连续跑步70天的面部变化",
+        "onboard_time": 1744619361,
+        "rank": 31,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 173816,
+        "num": 173816,
+        "word": "iPhone17Pro十二大关键升级",
+        "onboard_time": 1744618942,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 40766,
+        "num": 170806,
+        "word": "张栋梁新浪扫楼",
+        "onboard_time": 1744623383,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 168343,
+        "num": 168343,
+        "word": "邱贻可陪练孙颖莎还不忘吃瓜",
+        "onboard_time": 1744619543,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162268,
+        "num": 162268,
+        "word": "小伙寻亲成功后发现姐姐也被拐",
+        "onboard_time": 1744620682,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150570,
+        "num": 150570,
+        "word": "小孩跳楼砸坏新车家长只赔几百",
+        "onboard_time": 1744613062,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143641,
+        "num": 143641,
+        "word": "为什么瑞幸不叫幸运咖",
+        "onboard_time": 1744620262,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 138062,
+        "num": 138062,
+        "word": "倒贴上班",
+        "onboard_time": 1744616482,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135871,
+        "num": 135871,
+        "word": "苹果二手机回收已涨500元",
+        "onboard_time": 1744619482,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 134814,
+        "num": 134814,
+        "word": "波西米亚风陶瓷转内销火爆",
+        "onboard_time": 1744623624,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123013,
+        "num": 133284,
+        "word": "何同学 向下拒绝",
+        "onboard_time": 1744609822,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 132490,
+        "num": 132490,
+        "word": "米修斯之印停运",
+        "onboard_time": 1744623203,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131729,
+        "num": 131729,
+        "word": "苹果死守中国绝不是因为廉价",
+        "onboard_time": 1744602142,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 130687,
+        "num": 130687,
+        "word": "一家三口被撞身亡拒肇事方80万赔偿",
+        "onboard_time": 1744623624,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123857,
+        "num": 123857,
+        "word": "建议内耗的人多接触可爱的东西",
+        "onboard_time": 1744619003,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122266,
+        "num": 122266,
+        "word": "张艺谋新片题材是国家安全",
+        "onboard_time": 1744606344,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121635,
+        "num": 121635,
+        "word": "女装退货率越来越高",
+        "onboard_time": 1744617803,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121235,
+        "num": 121235,
+        "word": "昆明一商铺凌晨起火致8死",
+        "onboard_time": 1744621641,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121089,
+        "num": 121089,
+        "word": "早买早祛魅",
+        "onboard_time": 1744613843,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平开始对越南进行国事访问#"
+    }
+  }
+}

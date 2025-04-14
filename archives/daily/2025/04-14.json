@@ -1,6 +1,6 @@
 {
   "startTime": 1744561767834,
-  "endTime": 1744622907174,
+  "endTime": 1744623717131,
   "band_list": [
     {
       "raw_hot": 2483493,
@@ -155,6 +155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1008043,
+      "num": 292684,
+      "word": "夫妻中1003万元大奖称不会告诉孩子",
+      "onboard_time": 1744621582,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1003271,
       "num": 1003271,
       "word": "韩红称遵照母亲遗愿不设灵堂",
@@ -187,14 +195,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 847680,
-      "num": 292684,
-      "word": "夫妻中1003万元大奖称不会告诉孩子",
-      "onboard_time": 1744621582,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 840325,
       "num": 840325,
       "word": "第一次见录一半全睡了的综艺",
@@ -217,6 +217,14 @@
       "onboard_time": 1744543761,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 786023,
+      "num": 786023,
+      "word": "无锡引进人才需要诺贝尔奖",
+      "onboard_time": 1744620563,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 770026,
@@ -307,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 612471,
+      "num": 269094,
+      "word": "韩红回应母亲逝世",
+      "onboard_time": 1744621164,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 610507,
       "num": 610507,
       "word": "何同学 小布尔乔亚",
@@ -315,27 +331,11 @@
       "category": "网红"
     },
     {
-      "raw_hot": 610100,
-      "num": 269094,
-      "word": "韩红回应母亲逝世",
-      "onboard_time": 1744621164,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 608194,
       "num": 293611,
       "word": "女子扮石矶娘娘被一男子辱骂成日本人",
       "onboard_time": 1744552764,
       "rank": 12,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 596484,
-      "num": 596484,
-      "word": "无锡引进人才需要诺贝尔奖",
-      "onboard_time": 1744620563,
-      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -963,6 +963,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 216392,
+      "num": 216392,
+      "word": "芒果台丢下卤鹅哥那一刻",
+      "onboard_time": 1744623624,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 216265,
       "num": 216265,
       "word": "陈芋汐两连冠后发博",
@@ -1123,6 +1131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201410,
+      "num": 223960,
+      "word": "登陆少年没有打歌舞台就自己做",
+      "onboard_time": 1744622543,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 199245,
       "num": 199245,
       "word": "王一博王编辑值班",
@@ -1160,6 +1176,14 @@
       "word": "章昊谈去世粉丝",
       "onboard_time": 1744595602,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 195589,
+      "num": 195589,
+      "word": "王一博鼻尖一点黄",
+      "onboard_time": 1744623682,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -1419,7 +1443,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 167256,
+      "raw_hot": 168343,
       "num": 240140,
       "word": "邱贻可陪练孙颖莎还不忘吃瓜",
       "onboard_time": 1744619543,
@@ -1433,14 +1457,6 @@
       "onboard_time": 1744597700,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 166594,
-      "num": 223960,
-      "word": "登陆少年没有打歌舞台就自己做",
-      "onboard_time": 1744622543,
-      "rank": 24,
-      "category": "演出"
     },
     {
       "raw_hot": 166152,
@@ -1619,6 +1635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143641,
+      "num": 143641,
+      "word": "为什么瑞幸不叫幸运咖",
+      "onboard_time": 1744620262,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 143263,
       "num": 143263,
       "word": "欢迎人群挥舞中越国旗",
@@ -1641,6 +1665,14 @@
       "onboard_time": 1744622243,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141765,
+      "num": 195729,
+      "word": "LikeJENNIE好爽",
+      "onboard_time": 1744622782,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 141663,
@@ -1747,6 +1779,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 134814,
+      "num": 134814,
+      "word": "波西米亚风陶瓷转内销火爆",
+      "onboard_time": 1744623624,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134557,
       "num": 134557,
       "word": "多种疾病的前期症状与春困很像",
@@ -1769,6 +1809,14 @@
       "onboard_time": 1744615282,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 132490,
+      "num": 132490,
+      "word": "米修斯之印停运",
+      "onboard_time": 1744623203,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 131929,
@@ -1817,6 +1865,14 @@
       "onboard_time": 1744557203,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130687,
+      "num": 130687,
+      "word": "一家三口被撞身亡拒肇事方80万赔偿",
+      "onboard_time": 1744623624,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130421,
@@ -1891,6 +1947,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 123857,
+      "num": 123857,
+      "word": "建议内耗的人多接触可爱的东西",
+      "onboard_time": 1744619003,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 123714,
       "num": 366169,
       "word": "AI进入药房会取代药师吗",
@@ -1923,6 +1987,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 121235,
+      "num": 242916,
+      "word": "昆明一商铺凌晨起火致8死",
+      "onboard_time": 1744621641,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120478,
       "num": 120478,
       "word": "曹笑天发长文",
@@ -1945,22 +2017,6 @@
       "onboard_time": 1744621221,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 120299,
-      "num": 120299,
-      "word": "建议内耗的人多接触可爱的东西",
-      "onboard_time": 1744619003,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 117682,
-      "num": 117682,
-      "word": "LikeJENNIE好爽",
-      "onboard_time": 1744622782,
-      "rank": 46,
-      "category": "演出"
     },
     {
       "raw_hot": 117542,
@@ -2267,20 +2323,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 77828,
-      "num": 242916,
-      "word": "昆明一商铺凌晨起火致8死",
-      "onboard_time": 1744621641,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 76870,
       "num": 159626,
       "word": "深圳偶遇黄杨钿甜",
       "onboard_time": 1744585578,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 76522,
+      "num": 266810,
+      "word": "官方回应重庆一码头有人放生矿泉水",
+      "onboard_time": 1744618762,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 73361,
@@ -2443,6 +2499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 44163,
+      "num": 254583,
+      "word": "一个乡镇小学有3份阴阳课表",
+      "onboard_time": 1744623022,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 44088,
       "num": 242493,
       "word": "原房主1套房卖2次获刑11年半",
@@ -2505,6 +2569,14 @@
       "onboard_time": 1744607005,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 40766,
+      "num": 170806,
+      "word": "张栋梁新浪扫楼",
+      "onboard_time": 1744623383,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 40643,
@@ -2641,6 +2713,14 @@
       "onboard_time": 1744586659,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 24505,
+      "num": 190548,
+      "word": "卤鹅哥成立食品科技公司",
+      "onboard_time": 1744623442,
+      "rank": 29,
+      "category": "网红"
     },
     {
       "raw_hot": 24380,
