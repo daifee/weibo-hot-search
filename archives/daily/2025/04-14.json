@@ -1,6 +1,6 @@
 {
   "startTime": 1744561767834,
-  "endTime": 1744637689795,
+  "endTime": 1744638361748,
   "band_list": [
     {
       "raw_hot": 3336228,
@@ -75,19 +75,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1873201,
+      "num": 1873201,
+      "word": "蜜雪冰城招牌红改绿实在管太宽",
+      "onboard_time": 1744633162,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1860947,
       "num": 766737,
       "word": "一家三口被撞身亡拒肇事方80万赔偿",
       "onboard_time": 1744623624,
       "rank": 44,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1724688,
-      "num": 1724688,
-      "word": "蜜雪冰城招牌红改绿实在管太宽",
-      "onboard_time": 1744633162,
-      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -123,6 +123,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1411247,
+      "num": 1411247,
+      "word": "Simon事件",
+      "onboard_time": 1744637063,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1332237,
       "num": 1332237,
       "word": "金价",
@@ -145,14 +153,6 @@
       "onboard_time": 1744559242,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1215759,
-      "num": 1215759,
-      "word": "Simon事件",
-      "onboard_time": 1744637063,
-      "rank": 4,
-      "category": "电竞"
     },
     {
       "raw_hot": 1176572,
@@ -201,6 +201,14 @@
       "onboard_time": 1744600521,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1029233,
+      "num": 1029233,
+      "word": "人民日报评禁用红蓝招牌",
+      "onboard_time": 1744633942,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1022447,
@@ -339,14 +347,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 789978,
-      "num": 789978,
-      "word": "人民日报评禁用红蓝招牌",
-      "onboard_time": 1744633942,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 786023,
       "num": 786023,
       "word": "无锡引进人才需要诺贝尔奖",
@@ -411,6 +411,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 675902,
+      "num": 675902,
+      "word": "无忧渡折腰 对打",
+      "onboard_time": 1744636285,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 665318,
       "num": 665318,
       "word": "满江红2",
@@ -459,6 +467,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 626284,
+      "num": 626284,
+      "word": "梁老师发监控视频自证",
+      "onboard_time": 1744634904,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 619677,
       "num": 355791,
       "word": "宋雨琦 你要毁了我吗",
@@ -497,14 +513,6 @@
       "onboard_time": 1744589482,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 578346,
-      "num": 578346,
-      "word": "无忧渡折腰 对打",
-      "onboard_time": 1744636285,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 547397,
@@ -731,14 +739,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 394640,
-      "num": 394640,
-      "word": "梁老师发监控视频自证",
-      "onboard_time": 1744634904,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 387277,
       "num": 387277,
       "word": "略萨去世",
@@ -883,6 +883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 317820,
+      "num": 317820,
+      "word": "Jennie女王",
+      "onboard_time": 1744636162,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 317601,
       "num": 317601,
       "word": "王一博VOGUE",
@@ -939,19 +947,19 @@
       "category": "情感"
     },
     {
-      "raw_hot": 282502,
-      "num": 282502,
-      "word": "Jennie女王",
-      "onboard_time": 1744636162,
-      "rank": 22,
-      "category": "演出"
-    },
-    {
       "raw_hot": 277274,
       "num": 277274,
       "word": "越南女孩cue到赵露思的电视剧",
       "onboard_time": 1744604484,
       "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 275140,
+      "num": 275140,
+      "word": "咸鱼飞升",
+      "onboard_time": 1744637303,
+      "rank": 43,
       "category": "剧集"
     },
     {
@@ -1001,6 +1009,14 @@
       "onboard_time": 1744602201,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 259804,
+      "num": 391553,
+      "word": "关晓彤金发遛弯儿",
+      "onboard_time": 1744635864,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 254689,
@@ -1217,14 +1233,6 @@
       "onboard_time": 1744601722,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 222856,
-      "num": 250529,
-      "word": "关晓彤金发遛弯儿",
-      "onboard_time": 1744635864,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 222684,
@@ -1467,6 +1475,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 203585,
+      "num": 203585,
+      "word": "刘耀文在惊蛰无声belike",
+      "onboard_time": 1744637243,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 202098,
       "num": 202098,
       "word": "惊蛰无声阵容",
@@ -1609,6 +1625,22 @@
       "onboard_time": 1744615282,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 191506,
+      "num": 191506,
+      "word": "月亮",
+      "onboard_time": 1744637845,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189978,
+      "num": 189978,
+      "word": "冰岛发酵鲨鱼肉",
+      "onboard_time": 1744636942,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 189392,
@@ -1779,6 +1811,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 178032,
+      "num": 178032,
+      "word": "乘风2025四公帮唱歌单",
+      "onboard_time": 1744637604,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177518,
       "num": 177518,
       "word": "巴特勒受伤",
@@ -1793,14 +1833,6 @@
       "onboard_time": 1744634482,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 177314,
-      "num": 177314,
-      "word": "冰岛发酵鲨鱼肉",
-      "onboard_time": 1744636942,
-      "rank": 36,
-      "category": "美食"
     },
     {
       "raw_hot": 177126,
@@ -1833,6 +1865,14 @@
       "onboard_time": 1744629983,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 175198,
+      "num": 175198,
+      "word": "不少年轻人流行用iPhone6拍照",
+      "onboard_time": 1744637063,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 173868,
@@ -1987,14 +2027,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 159837,
-      "num": 159837,
-      "word": "刘耀文在惊蛰无声belike",
-      "onboard_time": 1744637243,
-      "rank": 39,
-      "category": "电影"
-    },
-    {
       "raw_hot": 158275,
       "num": 303629,
       "word": "五一抢票日历",
@@ -2139,6 +2171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144690,
+      "num": 144690,
+      "word": "张凌赫为粉丝减肥操碎了心",
+      "onboard_time": 1744637483,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144680,
       "num": 770761,
       "word": "外交部反问美方6个是谁",
@@ -2179,14 +2219,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 142894,
-      "num": 142894,
-      "word": "咸鱼飞升",
-      "onboard_time": 1744637303,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 142491,
       "num": 142491,
       "word": "NBA",
@@ -2225,14 +2257,6 @@
       "onboard_time": 1744608742,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 141365,
-      "num": 141365,
-      "word": "不少年轻人流行用iPhone6拍照",
-      "onboard_time": 1744637063,
-      "rank": 45,
-      "category": "数码"
     },
     {
       "raw_hot": 141291,
@@ -2427,12 +2451,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 131517,
-      "num": 131517,
-      "word": "乘风2025四公帮唱歌单",
-      "onboard_time": 1744637604,
+      "raw_hot": 131586,
+      "num": 131586,
+      "word": "撞死1家3口肇事者2次将油门踩到底",
+      "onboard_time": 1744638263,
       "rank": 48,
-      "category": "综艺"
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131512,
@@ -2521,6 +2545,14 @@
       "onboard_time": 1744614503,
       "rank": 44,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 125882,
+      "num": 125882,
+      "word": "白鹿在路牌上",
+      "onboard_time": 1744638324,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 125674,
@@ -3227,6 +3259,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 48690,
+      "num": 399242,
+      "word": "室友电瓶燃爆致男生烧伤案新进展",
+      "onboard_time": 1744636823,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48228,
       "num": 142325,
       "word": "银行存款定期化趋势仍在持续",
@@ -3411,14 +3451,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 35827,
-      "num": 399242,
-      "word": "室友电瓶燃爆致男生烧伤案新进展",
-      "onboard_time": 1744636823,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 35652,
       "num": 94411,
       "word": "赵继伟说新疆男篮给我们上了一课",
@@ -3515,6 +3547,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 25065,
+      "num": 437469,
+      "word": "不予理会不是不反制更不是示弱",
+      "onboard_time": 1744638024,
+      "rank": 15,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 24380,
       "num": 251315,
       "word": "郑钦文红土赛季新陪练",
@@ -3561,6 +3601,14 @@
       "onboard_time": 1744608564,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21483,
+      "num": 1540646,
+      "word": "一图看懂中越友谊",
+      "onboard_time": 1744637904,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 21473,
@@ -3746,6 +3794,9 @@
     },
     {
       "word": "#越南各界热切期待习近平到访#"
+    },
+    {
+      "word": "#习近平同苏林会谈#"
     }
   ]
 }
