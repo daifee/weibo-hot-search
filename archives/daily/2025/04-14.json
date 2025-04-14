@@ -1,6 +1,6 @@
 {
   "startTime": 1744561767834,
-  "endTime": 1744615517641,
+  "endTime": 1744616324241,
   "band_list": [
     {
       "raw_hot": 2483493,
@@ -41,6 +41,14 @@
       "onboard_time": 1744605326,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1587932,
+      "num": 1587932,
+      "word": "杨幂圆梦了",
+      "onboard_time": 1744612043,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 1459988,
@@ -91,12 +99,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 1163762,
-      "num": 1186201,
-      "word": "杨幂圆梦了",
-      "onboard_time": 1744612043,
-      "rank": 34,
-      "category": "电影"
+      "raw_hot": 1074006,
+      "num": 1074006,
+      "word": "特朗普的关税政策又变了",
+      "onboard_time": 1744613962,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1052209,
@@ -211,6 +219,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 634269,
+      "num": 366362,
+      "word": "早买早祛魅",
+      "onboard_time": 1744613843,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 633223,
+      "num": 507021,
+      "word": "景德镇车祸肇事方已转让店面",
+      "onboard_time": 1744611443,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 610507,
       "num": 610507,
       "word": "何同学 小布尔乔亚",
@@ -281,14 +305,6 @@
       "onboard_time": 1744606344,
       "rank": 6,
       "category": "电影"
-    },
-    {
-      "raw_hot": 507021,
-      "num": 507021,
-      "word": "景德镇车祸肇事方已转让店面",
-      "onboard_time": 1744611443,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 505709,
@@ -403,14 +419,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 416154,
-      "num": 416154,
-      "word": "特朗普的关税政策又变了",
-      "onboard_time": 1744613962,
-      "rank": 8,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 414356,
       "num": 414356,
       "word": "特朗普称将在下周一公布半导体关税细节",
@@ -452,7 +460,7 @@
     },
     {
       "raw_hot": 385859,
-      "num": 796320,
+      "num": 880636,
       "word": "中式奶茶成为越南年轻人的新宠",
       "onboard_time": 1744602442,
       "rank": 2,
@@ -497,14 +505,6 @@
       "onboard_time": 1744606705,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 344313,
-      "num": 266385,
-      "word": "早买早祛魅",
-      "onboard_time": 1744613843,
-      "rank": 17,
-      "category": "情感"
     },
     {
       "raw_hot": 337736,
@@ -755,6 +755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 223340,
+      "num": 223340,
+      "word": "有棵树代言人",
+      "onboard_time": 1744615522,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 222684,
       "num": 222684,
       "word": "美国折腾一周不如周末的风动静大",
@@ -859,6 +867,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 209675,
+      "num": 372371,
+      "word": "三河牌匾变色疑因领导说要脱俗",
+      "onboard_time": 1744614862,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 208624,
       "num": 208624,
       "word": "哪吒汽车",
@@ -939,6 +955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199245,
+      "num": 199245,
+      "word": "王一博王编辑值班",
+      "onboard_time": 1744615461,
+      "rank": 47,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 198255,
       "num": 198255,
       "word": "原本要发美国的摩托车暂停出货",
@@ -955,12 +979,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195293,
+      "num": 261082,
+      "word": "美国进口订单出现崩溃迹象",
+      "onboard_time": 1744614682,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 193134,
       "num": 193134,
       "word": "奔跑吧",
       "onboard_time": 1744595480,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191529,
+      "num": 191529,
+      "word": "汪苏泷南昌",
+      "onboard_time": 1744615282,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 189392,
@@ -1019,14 +1059,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 182341,
-      "num": 182341,
-      "word": "三河牌匾变色疑因领导说要脱俗",
-      "onboard_time": 1744614862,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 182000,
       "num": 182000,
       "word": "刘亦菲聚餐吃火锅路透",
@@ -1041,6 +1073,22 @@
       "onboard_time": 1744608024,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 180608,
+      "num": 180608,
+      "word": "苹果首款折叠屏配置",
+      "onboard_time": 1744614203,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 180000,
+      "num": 352595,
+      "word": "家属讲述司机泄愤撞死一家三口案细节",
+      "onboard_time": 1744614743,
+      "rank": 34,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 179986,
@@ -1099,14 +1147,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 175797,
-      "num": 175797,
-      "word": "苹果首款折叠屏配置",
-      "onboard_time": 1744614203,
-      "rank": 32,
-      "category": "数码"
-    },
-    {
       "raw_hot": 173706,
       "num": 173706,
       "word": "打扮成埃及女王逛大英博物馆",
@@ -1131,6 +1171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170001,
+      "num": 170001,
+      "word": "芒果补齐了宋妍霏庆典动作",
+      "onboard_time": 1744615943,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166838,
       "num": 166838,
       "word": "剑网3联动仙剑奇侠传一",
@@ -1147,12 +1195,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 165643,
-      "num": 165643,
-      "word": "汪苏泷南昌",
-      "onboard_time": 1744615282,
+      "raw_hot": 165702,
+      "num": 165702,
+      "word": "舞蹈家黄豆豆拟提拔为副局级干部",
+      "onboard_time": 1744615883,
       "rank": 33,
-      "category": "演出"
+      "category": "民生新闻"
     },
     {
       "raw_hot": 162851,
@@ -1187,14 +1235,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 159839,
-      "num": 159839,
-      "word": "家属讲述司机泄愤撞死一家三口案细节",
-      "onboard_time": 1744614743,
-      "rank": 34,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 158214,
       "num": 158214,
       "word": "问界M7沈阳车展事件",
@@ -1219,6 +1259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156264,
+      "num": 156264,
+      "word": "超3万款母婴产品可享江西育儿补贴",
+      "onboard_time": 1744614561,
+      "rank": 36,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 154834,
       "num": 274475,
       "word": "蔡文静 报备型女友",
@@ -1241,14 +1289,6 @@
       "onboard_time": 1744612581,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 153332,
-      "num": 153332,
-      "word": "超3万款母婴产品可享江西育儿补贴",
-      "onboard_time": 1744614561,
-      "rank": 36,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 152240,
@@ -1321,6 +1361,14 @@
       "onboard_time": 1744548262,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144064,
+      "num": 182522,
+      "word": "陈雨菲分享和樊振东互关经历",
+      "onboard_time": 1744614561,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 143263,
@@ -1459,6 +1507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 132800,
+      "num": 132800,
+      "word": "只有新疆人才知道的吃馕方法",
+      "onboard_time": 1744615282,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 131929,
       "num": 131929,
       "word": "毛不易依萍同款美学",
@@ -1539,12 +1595,12 @@
       "category": "休闲,美食"
     },
     {
-      "raw_hot": 127278,
-      "num": 261082,
-      "word": "美国进口订单出现崩溃迹象",
-      "onboard_time": 1744614682,
-      "rank": 19,
-      "category": "国际时政"
+      "raw_hot": 126009,
+      "num": 126009,
+      "word": "痛包",
+      "onboard_time": 1744614503,
+      "rank": 44,
+      "category": "动漫"
     },
     {
       "raw_hot": 124977,
@@ -1561,14 +1617,6 @@
       "onboard_time": 1744615401,
       "rank": 43,
       "category": "财经"
-    },
-    {
-      "raw_hot": 124243,
-      "num": 124243,
-      "word": "只有新疆人才知道的吃馕方法",
-      "onboard_time": 1744615282,
-      "rank": 44,
-      "category": "美食"
     },
     {
       "raw_hot": 124176,
@@ -1601,14 +1649,6 @@
       "onboard_time": 1744596440,
       "rank": 43,
       "category": "财经"
-    },
-    {
-      "raw_hot": 120625,
-      "num": 120625,
-      "word": "王一博王编辑值班",
-      "onboard_time": 1744615461,
-      "rank": 47,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 120440,
@@ -1715,12 +1755,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102701,
+      "num": 174081,
+      "word": "2025腾讯游戏发布会定档",
+      "onboard_time": 1744612822,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 102523,
       "num": 102523,
       "word": "跳水世界杯中国队单日4金2银",
       "onboard_time": 1744595240,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101881,
+      "num": 206417,
+      "word": "东北雨姐带货红薯粉条厂欠税22.7万",
+      "onboard_time": 1744614561,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101757,
@@ -1737,6 +1793,14 @@
       "onboard_time": 1744593681,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99759,
+      "num": 358568,
+      "word": "辞职看世界女教师回应回到原点",
+      "onboard_time": 1744615522,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99241,
@@ -1809,14 +1873,6 @@
       "onboard_time": 1744561702,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 86462,
-      "num": 182522,
-      "word": "陈雨菲分享和樊振东互关经历",
-      "onboard_time": 1744614561,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 85543,
@@ -1923,6 +1979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68331,
+      "num": 163210,
+      "word": "大消费股全线大涨",
+      "onboard_time": 1744609882,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 67711,
       "num": 67711,
       "word": "阿拉维斯vs皇马",
@@ -1945,6 +2009,14 @@
       "onboard_time": 1744611202,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 60977,
+      "num": 244220,
+      "word": "何运晨职场进阶找新offer",
+      "onboard_time": 1744616003,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 56765,
@@ -2003,14 +2075,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 46134,
-      "num": 125306,
-      "word": "大消费股全线大涨",
-      "onboard_time": 1744609882,
-      "rank": 42,
-      "category": "财经"
-    },
-    {
       "raw_hot": 45654,
       "num": 182365,
       "word": "25秒回顾澳门世界杯抽签仪式现场",
@@ -2035,7 +2099,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 42823,
+      "raw_hot": 43769,
       "num": 182544,
       "word": "前掘金主帅马龙告别信",
       "onboard_time": 1744611981,
