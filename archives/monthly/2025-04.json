@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744644441880,
+  "endTime": 1744645226016,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -5467,6 +5467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 674530,
+      "num": 674530,
+      "word": "外国人也爱看中国影视剧",
+      "onboard_time": 1744642344,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 673051,
       "num": 1226788,
       "word": "哈尔滨亚冬会遭17万次来自美国网攻",
@@ -9233,14 +9241,6 @@
       "onboard_time": 1743725301,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 419306,
-      "num": 419306,
-      "word": "外国人也爱看中国影视剧",
-      "onboard_time": 1744642344,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 419245,
@@ -15587,6 +15587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 246535,
+      "num": 245838,
+      "word": "不少年轻人流行用iPhone6拍照",
+      "onboard_time": 1744637063,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 246282,
       "num": 468759,
       "word": "主人花16万元克隆去世爱犬",
@@ -15609,14 +15617,6 @@
       "onboard_time": 1743729142,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 245838,
-      "num": 245838,
-      "word": "不少年轻人流行用iPhone6拍照",
-      "onboard_time": 1744637063,
-      "rank": 45,
-      "category": "数码"
     },
     {
       "raw_hot": 245612,
@@ -16161,6 +16161,14 @@
       "onboard_time": 1744385063,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 236557,
+      "num": 236557,
+      "word": "胡夏直播",
+      "onboard_time": 1744644323,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 236306,
@@ -20723,6 +20731,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 194514,
+      "num": 194514,
+      "word": "JDG对战FPX",
+      "onboard_time": 1744644503,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 194469,
       "num": 194469,
       "word": "陈都灵杀青剧照",
@@ -21217,6 +21233,14 @@
       "onboard_time": 1744093344,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191895,
+      "num": 208793,
+      "word": "阿米尔汗说喜欢成龙和沈腾马丽",
+      "onboard_time": 1744643903,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 191891,
@@ -25267,6 +25291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166492,
+      "num": 166492,
+      "word": "绵绵的羊卫生巾被曝有异物",
+      "onboard_time": 1744644323,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166486,
       "num": 166486,
       "word": "勇士vs湖人",
@@ -28779,6 +28811,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 145977,
+      "num": 145977,
+      "word": "李飞 荣耀之战",
+      "onboard_time": 1744644862,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145969,
       "num": 145969,
       "word": "台湾宜兰县发生4.6级地震",
@@ -29329,6 +29369,14 @@
       "onboard_time": 1744609043,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 143174,
+      "num": 143174,
+      "word": "张杰说小北斗你要火了",
+      "onboard_time": 1744644142,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 143155,
@@ -32347,14 +32395,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 127949,
-      "num": 199348,
-      "word": "阿米尔汗说喜欢成龙和沈腾马丽",
-      "onboard_time": 1744643903,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
       "raw_hot": 127917,
       "num": 127917,
       "word": "Flamma道歉",
@@ -33707,14 +33747,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 120568,
-      "num": 120568,
-      "word": "绵绵的羊卫生巾被曝有异物",
-      "onboard_time": 1744644323,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 120541,
       "num": 122158,
       "word": "特朗普一系列关税公布后将立即生效",
@@ -35019,20 +35051,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 113672,
-      "num": 113672,
-      "word": "张杰说小北斗你要火了",
-      "onboard_time": 1744644142,
-      "rank": 48,
-      "category": "演出"
-    },
-    {
       "raw_hot": 113658,
       "num": 220957,
       "word": "巴特勒三分",
       "onboard_time": 1743743061,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113592,
+      "num": 363612,
+      "word": "4名中国留学生对美国政府提起诉讼",
+      "onboard_time": 1744644022,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113537,
@@ -36441,14 +36473,6 @@
       "onboard_time": 1743862164,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 103455,
-      "num": 151830,
-      "word": "胡夏直播",
-      "onboard_time": 1744644323,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 103417,
@@ -38483,6 +38507,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 82277,
+      "num": 314119,
+      "word": "美社保署将6000多移民标为死亡",
+      "onboard_time": 1744644202,
+      "rank": 26,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 82253,
       "num": 323801,
       "word": "最低10元就能AI复活去世亲人",
@@ -39115,14 +39147,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 74321,
-      "num": 217922,
-      "word": "美社保署将6000多移民标为死亡",
-      "onboard_time": 1744644202,
-      "rank": 26,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 74320,
       "num": 329337,
       "word": "和赵丽颖一起舒适过夏天",
@@ -39712,14 +39736,6 @@
       "word": "阿航回应备降深圳5小时不准下机",
       "onboard_time": 1744471223,
       "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 68470,
-      "num": 301784,
-      "word": "4名中国留学生对美国政府提起诉讼",
-      "onboard_time": 1744644022,
-      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -40393,6 +40409,14 @@
       "onboard_time": 1743990500,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 61839,
+      "num": 363023,
+      "word": "特朗普关税横跳有多颠",
+      "onboard_time": 1744644621,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 61786,

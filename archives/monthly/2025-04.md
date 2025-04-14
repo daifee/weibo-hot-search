@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/14 23:27:21
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/14 23:40:26
 </p>
 </blockquote>
 <p>
@@ -4113,6 +4113,12 @@ TVB男演员陈键锋学厨以第一名毕业（热度：726197）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%9B%BD%E4%BA%BA%E4%B9%9F%E7%88%B1%E7%9C%8B%E4%B8%AD%E5%9B%BD%E5%BD%B1%E8%A7%86%E5%89%A7%23" target="weibo">
+外国人也爱看中国影视剧（热度：674530）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E4%BA%9A%E5%86%AC%E4%BC%9A%E9%81%AD17%E4%B8%87%E6%AC%A1%E6%9D%A5%E8%87%AA%E7%BE%8E%E5%9B%BD%E7%BD%91%E6%94%BB%23" target="weibo">
 哈尔滨亚冬会遭17万次来自美国网攻（热度：673051）
 </a>
@@ -6005,12 +6011,6 @@ gidle曺薇娟吉克隽逸新歌（热度：482562）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%8A%9B%E5%AE%8F%E6%97%B6%E9%9A%94%E4%BA%94%E5%B9%B4%E5%9B%9E%E5%BD%92%E9%9F%B3%E7%BB%BC%23" target="weibo">
 王力宏时隔五年回归音综（热度：480122）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%81%E6%B3%A2%E5%8F%A3%E5%B2%B8%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E5%87%BA%E5%8F%A3%E6%9A%B4%E5%A2%9E439%25%23" target="weibo">
-宁波口岸新能源车出口暴增439%（热度：479771）
 </a>
 </li>
 

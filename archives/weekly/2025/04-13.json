@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744644441880,
+  "endTime": 1744645226016,
   "band_list": [
     {
       "raw_hot": 3336228,
@@ -851,6 +851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 674530,
+      "num": 674530,
+      "word": "外国人也爱看中国影视剧",
+      "onboard_time": 1744642344,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 667100,
       "num": 667100,
       "word": "折腰",
@@ -1393,14 +1401,6 @@
       "onboard_time": 1744508602,
       "rank": 19,
       "category": "网红"
-    },
-    {
-      "raw_hot": 419306,
-      "num": 419306,
-      "word": "外国人也爱看中国影视剧",
-      "onboard_time": 1744642344,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 418487,
@@ -2187,7 +2187,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 245838,
+      "raw_hot": 246535,
       "num": 245838,
       "word": "不少年轻人流行用iPhone6拍照",
       "onboard_time": 1744637063,
@@ -2281,6 +2281,14 @@
       "onboard_time": 1744529721,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 236557,
+      "num": 236557,
+      "word": "胡夏直播",
+      "onboard_time": 1744644323,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 236227,
@@ -3051,6 +3059,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 194514,
+      "num": 194514,
+      "word": "JDG对战FPX",
+      "onboard_time": 1744644503,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 194257,
       "num": 194257,
       "word": "小伙寻亲成功后发现姐姐也被拐",
@@ -3121,6 +3137,14 @@
       "onboard_time": 1744627764,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191895,
+      "num": 208793,
+      "word": "阿米尔汗说喜欢成龙和沈腾马丽",
+      "onboard_time": 1744643903,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 191744,
@@ -3779,6 +3803,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 166492,
+      "num": 166492,
+      "word": "绵绵的羊卫生巾被曝有异物",
+      "onboard_time": 1744644323,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166438,
       "num": 394941,
       "word": "金价今年已刷新历史高点超20次",
@@ -4259,6 +4291,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 145977,
+      "num": 145977,
+      "word": "李飞 荣耀之战",
+      "onboard_time": 1744644862,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145489,
       "num": 286321,
       "word": "特朗普口中的世界第八大奇迹烂尾",
@@ -4337,6 +4377,14 @@
       "onboard_time": 1744609043,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 143174,
+      "num": 143174,
+      "word": "张杰说小北斗你要火了",
+      "onboard_time": 1744644142,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 142966,
@@ -5003,14 +5051,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 127949,
-      "num": 199348,
-      "word": "阿米尔汗说喜欢成龙和沈腾马丽",
-      "onboard_time": 1744643903,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
       "raw_hot": 127736,
       "num": 127736,
       "word": "院人要做一辈子的好朋友",
@@ -5257,14 +5297,6 @@
       "onboard_time": 1744521922,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 120568,
-      "num": 120568,
-      "word": "绵绵的羊卫生巾被曝有异物",
-      "onboard_time": 1744644323,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 120478,
@@ -5563,12 +5595,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 113672,
-      "num": 113672,
-      "word": "张杰说小北斗你要火了",
-      "onboard_time": 1744644142,
-      "rank": 48,
-      "category": "演出"
+      "raw_hot": 113592,
+      "num": 363612,
+      "word": "4名中国留学生对美国政府提起诉讼",
+      "onboard_time": 1744644022,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113537,
@@ -5833,14 +5865,6 @@
       "onboard_time": 1744633942,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 103455,
-      "num": 151830,
-      "word": "胡夏直播",
-      "onboard_time": 1744644323,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 103417,
@@ -6251,6 +6275,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 82277,
+      "num": 314119,
+      "word": "美社保署将6000多移民标为死亡",
+      "onboard_time": 1744644202,
+      "rank": 26,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 82236,
       "num": 139096,
       "word": "全红婵坚决拒绝内耗",
@@ -6331,14 +6363,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 74321,
-      "num": 217922,
-      "word": "美社保署将6000多移民标为死亡",
-      "onboard_time": 1744644202,
-      "rank": 26,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 74164,
       "num": 332671,
       "word": "中欧双方团队就电动车谈判开始接触",
@@ -6393,14 +6417,6 @@
       "onboard_time": 1744601182,
       "rank": 43,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 68470,
-      "num": 301784,
-      "word": "4名中国留学生对美国政府提起诉讼",
-      "onboard_time": 1744644022,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 68437,
@@ -6489,6 +6505,14 @@
       "onboard_time": 1744515261,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 61839,
+      "num": 363023,
+      "word": "特朗普关税横跳有多颠",
+      "onboard_time": 1744644621,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 61582,
