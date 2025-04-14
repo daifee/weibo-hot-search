@@ -1,0 +1,410 @@
+{
+  "runTime": 1744612571825,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1131553,
+        "num": 1181048,
+        "word": "美国人开始飞中国代购中国制造",
+        "onboard_time": 1744605326,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 685519,
+        "num": 685519,
+        "word": "景德镇车祸遇难者家属患重度抑郁",
+        "onboard_time": 1744606705,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185778,
+        "num": 624806,
+        "word": "中式奶茶成为越南年轻人的新宠",
+        "onboard_time": 1744602442,
+        "rank": 2,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 598379,
+        "num": 598379,
+        "word": "苹果死守中国绝不是因为廉价",
+        "onboard_time": 1744602142,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 578928,
+        "num": 578928,
+        "word": "Jennie 妈妈好帅",
+        "onboard_time": 1744600820,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 496838,
+        "num": 496838,
+        "word": "何同学 向下拒绝",
+        "onboard_time": 1744609822,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 496701,
+        "num": 496701,
+        "word": "诗幂合作",
+        "onboard_time": 1744609763,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 362069,
+        "num": 362069,
+        "word": "内娱第一对豹豹兔兔",
+        "onboard_time": 1744607123,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 344158,
+        "num": 344158,
+        "word": "驻日大使馆提醒注意防范地震",
+        "onboard_time": 1744603703,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 338163,
+        "num": 338163,
+        "word": "张艺谋新片题材是国家安全",
+        "onboard_time": 1744606344,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 2260745,
+        "num": 337946,
+        "word": "韩红母亲逝世",
+        "onboard_time": 1744610422,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 710714,
+        "num": 337808,
+        "word": "吃芒果是一件很私密的事",
+        "onboard_time": 1744604302,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 480643,
+        "num": 337733,
+        "word": "章昊回国买了5部旧手机",
+        "onboard_time": 1744609343,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 337421,
+        "num": 337421,
+        "word": "找工作被要求得过诺贝尔奖",
+        "onboard_time": 1744610302,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144422,
+        "num": 286321,
+        "word": "特朗普口中的世界第八大奇迹烂尾",
+        "onboard_time": 1744610483,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 278592,
+        "num": 278592,
+        "word": "美国若想生产婚纱得先培养缝纫工",
+        "onboard_time": 1744602442,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 132207,
+        "num": 275928,
+        "word": "学校再回应女教师临退休遭解聘",
+        "onboard_time": 1744611143,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154834,
+        "num": 274475,
+        "word": "蔡文静 报备型女友",
+        "onboard_time": 1744610663,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55099,
+        "num": 273920,
+        "word": "发了1个月传单获利1万元被判刑了",
+        "onboard_time": 1744607123,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273872,
+        "num": 273872,
+        "word": "偶遇许玮甯邱泽手牵手散步",
+        "onboard_time": 1744607962,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265331,
+        "num": 265331,
+        "word": "关晓彤 体制内的美",
+        "onboard_time": 1744604903,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262596,
+        "num": 262596,
+        "word": "无忧渡 夜华的头套还留着呢",
+        "onboard_time": 1744606645,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240393,
+        "num": 240393,
+        "word": "北京警方刑拘1名假富二代",
+        "onboard_time": 1744608204,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223713,
+        "num": 223713,
+        "word": "王皓陪练王楚钦",
+        "onboard_time": 1744611443,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218041,
+        "num": 218041,
+        "word": "景德镇车祸肇事方已转让店面",
+        "onboard_time": 1744611443,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191459,
+        "num": 191459,
+        "word": "张艺谋刘耀文再合作",
+        "onboard_time": 1744612523,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 185865,
+        "num": 185865,
+        "word": "美国玩具厂商快崩溃了",
+        "onboard_time": 1744605264,
+        "rank": 26,
+        "category": "国际时政,幽默"
+      },
+      {
+        "raw_hot": 165706,
+        "num": 182538,
+        "word": "女生的困境只有女生能懂",
+        "onboard_time": 1744610962,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47331,
+        "num": 180041,
+        "word": "国足将主场对战巴林",
+        "onboard_time": 1744606764,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37597,
+        "num": 179784,
+        "word": "前掘金主帅马龙告别信",
+        "onboard_time": 1744611981,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179756,
+        "num": 179756,
+        "word": "胡先煦乘机遇大风后感谢机组",
+        "onboard_time": 1744610603,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176171,
+        "num": 176171,
+        "word": "日本没有考虑对美征收报复性关税",
+        "onboard_time": 1744610302,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 161333,
+        "num": 174283,
+        "word": "XG科切拉舞台",
+        "onboard_time": 1744610663,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 214629,
+        "num": 173994,
+        "word": "VOGUE主编刘冲邀你线下打卡",
+        "onboard_time": 1744611803,
+        "rank": 33,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 173681,
+        "num": 173681,
+        "word": "杨幂圆梦了",
+        "onboard_time": 1744612043,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 167068,
+        "num": 167068,
+        "word": "研究员违规携带水稻种质资源出境",
+        "onboard_time": 1744602201,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158420,
+        "num": 158420,
+        "word": "黄金暴涨回收商不敢持金过夜",
+        "onboard_time": 1744607065,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 158214,
+        "num": 158214,
+        "word": "问界M7沈阳车展事件",
+        "onboard_time": 1744612462,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 7777,
+        "num": 157867,
+        "word": "驴友将他人背上山的水推下山坡",
+        "onboard_time": 1744612343,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69929,
+        "num": 155500,
+        "word": "鼻塞鼻炎看这篇",
+        "onboard_time": 1744611502,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 39734,
+        "num": 151000,
+        "word": "汪苏泷模仿钢牙小土豆",
+        "onboard_time": 1744609461,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 129768,
+        "num": 149530,
+        "word": "为什么体检无异常发现却是晚期",
+        "onboard_time": 1744612162,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 148537,
+        "num": 148537,
+        "word": "金饰价格涨破1000元",
+        "onboard_time": 1744610003,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 146667,
+        "num": 146667,
+        "word": "赵又廷毛晓彤金世佳同框",
+        "onboard_time": 1744609822,
+        "rank": 43,
+        "category": "电影,综艺"
+      },
+      {
+        "raw_hot": 144476,
+        "num": 144476,
+        "word": "惊蛰无声",
+        "onboard_time": 1744606705,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141254,
+        "num": 141254,
+        "word": "何同学掉粉",
+        "onboard_time": 1744600940,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 82236,
+        "num": 139096,
+        "word": "全红婵坚决拒绝内耗",
+        "onboard_time": 1744611143,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138511,
+        "num": 138511,
+        "word": "李嘉琦原来你真会唱跳啊",
+        "onboard_time": 1744609043,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67061,
+        "num": 136115,
+        "word": "黄友政4比0埃尔贝亚利",
+        "onboard_time": 1744611202,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135028,
+        "num": 135028,
+        "word": "simon EDG",
+        "onboard_time": 1744612281,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席今年首次出访这些看点值得关注#"
+    }
+  }
+}
