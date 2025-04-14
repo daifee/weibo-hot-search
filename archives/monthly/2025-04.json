@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744620412437,
+  "endTime": 1744622907174,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -809,6 +809,14 @@
       "onboard_time": 1743776302,
       "rank": 41,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1920988,
+      "num": 213638,
+      "word": "特朗普年度体检报告公布",
+      "onboard_time": 1744619902,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1913224,
@@ -2451,6 +2459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1139900,
+      "num": 1139900,
+      "word": "日本首相警告美国",
+      "onboard_time": 1744619003,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1138029,
       "num": 720658,
       "word": "小米集团午后跌超4%",
@@ -2689,14 +2705,6 @@
       "onboard_time": 1743751040,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1094209,
-      "num": 1094209,
-      "word": "日本首相警告美国",
-      "onboard_time": 1744619003,
-      "rank": 8,
-      "category": "国际时政"
     },
     {
       "raw_hot": 1094148,
@@ -3875,6 +3883,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 847680,
+      "num": 292684,
+      "word": "夫妻中1003万元大奖称不会告诉孩子",
+      "onboard_time": 1744621582,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 844612,
       "num": 469132,
       "word": "iPhone16回收价已涨300元",
@@ -3897,6 +3913,14 @@
       "onboard_time": 1744113142,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 840325,
+      "num": 840325,
+      "word": "第一次见录一半全睡了的综艺",
+      "onboard_time": 1744619482,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 840173,
@@ -5291,6 +5315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 665318,
+      "num": 665318,
+      "word": "满江红2",
+      "onboard_time": 1744618402,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 665284,
       "num": 665284,
       "word": "法老被Mac删除好友",
@@ -5795,6 +5827,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 610100,
+      "num": 269094,
+      "word": "韩红回应母亲逝世",
+      "onboard_time": 1744621164,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 608421,
       "num": 608421,
       "word": "公摊面积最大的蔬菜",
@@ -6001,6 +6041,14 @@
       "onboard_time": 1744109182,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 596484,
+      "num": 596484,
+      "word": "无锡引进人才需要诺贝尔奖",
+      "onboard_time": 1744620563,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 596191,
@@ -11147,14 +11195,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 340035,
-      "num": 340035,
-      "word": "满江红2",
-      "onboard_time": 1744618402,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 339867,
       "num": 339867,
       "word": "美关税政策或重创亚洲服装纺织业",
@@ -13833,14 +13873,6 @@
       "onboard_time": 1744607962,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 273364,
-      "num": 325671,
-      "word": "第一次见录一半全睡了的综艺",
-      "onboard_time": 1744619482,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 273317,
@@ -20219,6 +20251,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 194257,
+      "num": 194257,
+      "word": "小伙寻亲成功后发现姐姐也被拐",
+      "onboard_time": 1744620682,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 194235,
       "num": 194235,
       "word": "阿联酋航班备降深圳5小时不准下机",
@@ -20385,6 +20425,14 @@
       "onboard_time": 1743650482,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193486,
+      "num": 193486,
+      "word": "米修斯之印",
+      "onboard_time": 1744620922,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 193422,
@@ -21755,14 +21803,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 185224,
-      "num": 185224,
-      "word": "特朗普年度体检报告公布",
-      "onboard_time": 1744619902,
-      "rank": 37,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 185220,
       "num": 237802,
       "word": "29岁叶紫薇破格晋升教授",
@@ -22347,6 +22387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181732,
+      "num": 181732,
+      "word": "苹果二手机回收已涨500元",
+      "onboard_time": 1744619482,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 181653,
       "num": 263945,
       "word": "空军战机围岛进逼",
@@ -22825,14 +22873,6 @@
       "onboard_time": 1743916821,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 177704,
-      "num": 177704,
-      "word": "苹果二手机回收已涨500元",
-      "onboard_time": 1744619482,
-      "rank": 37,
-      "category": "数码"
     },
     {
       "raw_hot": 177671,
@@ -23497,6 +23537,14 @@
       "onboard_time": 1744078163,
       "rank": 40,
       "category": "网红"
+    },
+    {
+      "raw_hot": 173868,
+      "num": 243214,
+      "word": "花花花花花人海海海海海",
+      "onboard_time": 1744621641,
+      "rank": 17,
+      "category": "民生新闻,旅游"
     },
     {
       "raw_hot": 173851,
@@ -24475,6 +24523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167256,
+      "num": 240140,
+      "word": "邱贻可陪练孙颖莎还不忘吃瓜",
+      "onboard_time": 1744619543,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 167168,
       "num": 167168,
       "word": "吴敬平晒10岁樊振东反手技术",
@@ -24569,6 +24625,14 @@
       "onboard_time": 1744104502,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 166594,
+      "num": 223960,
+      "word": "登陆少年没有打歌舞台就自己做",
+      "onboard_time": 1744622543,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 166553,
@@ -28779,6 +28843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141776,
+      "num": 217945,
+      "word": "刘国梁揭秘洛杉矶奥运备战蓝图",
+      "onboard_time": 1744622243,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141766,
       "num": 170841,
       "word": "蒋敦豪 新蜂音乐节",
@@ -31731,6 +31803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126468,
+      "num": 222893,
+      "word": "云合",
+      "onboard_time": 1744622123,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126411,
       "num": 126411,
       "word": "发自拍后被整容医生关注了",
@@ -32275,6 +32355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123584,
+      "num": 123584,
+      "word": "念无双三观",
+      "onboard_time": 1744621762,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 123566,
       "num": 123566,
       "word": "苹果公司市值蒸发2550亿美元",
@@ -32803,6 +32891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120409,
+      "num": 120409,
+      "word": "男子常年买100元彩票中1003万",
+      "onboard_time": 1744621221,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120374,
       "num": 270386,
       "word": "戛纳片单",
@@ -33304,6 +33400,14 @@
       "word": "陈楚生割开一颗心回应每一箭",
       "onboard_time": 1744556364,
       "rank": 43,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 117682,
+      "num": 117682,
+      "word": "LikeJENNIE好爽",
+      "onboard_time": 1744622782,
+      "rank": 46,
       "category": "演出"
     },
     {
@@ -34187,14 +34291,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 112354,
-      "num": 240140,
-      "word": "邱贻可陪练孙颖莎还不忘吃瓜",
-      "onboard_time": 1744619543,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 112308,
       "num": 112308,
       "word": "王一博登VOGUE五大满贯",
@@ -34289,6 +34385,14 @@
       "onboard_time": 1743779423,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111532,
+      "num": 111532,
+      "word": "中美贸易局势近期紧张升级",
+      "onboard_time": 1744622843,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 111510,
@@ -35777,6 +35881,14 @@
       "onboard_time": 1744533322,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 99969,
+      "num": 220185,
+      "word": "央视记者探访美国蛋荒现状",
+      "onboard_time": 1744622662,
+      "rank": 27,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 99860,
@@ -37777,6 +37889,14 @@
       "onboard_time": 1744385905,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 77828,
+      "num": 242916,
+      "word": "昆明一商铺凌晨起火致8死",
+      "onboard_time": 1744621641,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77730,
@@ -40729,6 +40849,14 @@
       "onboard_time": 1744163842,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 44088,
+      "num": 242493,
+      "word": "原房主1套房卖2次获刑11年半",
+      "onboard_time": 1744621521,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44000,
@@ -45143,6 +45271,14 @@
       "num": 1064053,
       "word": "清明祭扫务必筑牢防火墙",
       "onboard_time": 1743766523,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189,
+      "num": 1000485,
+      "word": "万千气象看山东",
+      "onboard_time": 1744619303,
       "rank": 2,
       "category": "民生新闻"
     }

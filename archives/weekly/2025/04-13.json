@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744620412437,
+  "endTime": 1744622907174,
   "band_list": [
     {
       "raw_hot": 3004197,
@@ -73,6 +73,14 @@
       "onboard_time": 1744530322,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1920988,
+      "num": 213638,
+      "word": "特朗普年度体检报告公布",
+      "onboard_time": 1744619902,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1750912,
@@ -259,6 +267,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1139900,
+      "num": 1139900,
+      "word": "日本首相警告美国",
+      "onboard_time": 1744619003,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1123546,
       "num": 470539,
       "word": "女生喉咙痛从就诊到去世仅10分钟",
@@ -273,14 +289,6 @@
       "onboard_time": 1744469785,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1094209,
-      "num": 1094209,
-      "word": "日本首相警告美国",
-      "onboard_time": 1744619003,
-      "rank": 8,
-      "category": "国际时政"
     },
     {
       "raw_hot": 1085189,
@@ -441,6 +449,22 @@
       "onboard_time": 1744466126,
       "rank": 47,
       "category": "数码,网红"
+    },
+    {
+      "raw_hot": 847680,
+      "num": 292684,
+      "word": "夫妻中1003万元大奖称不会告诉孩子",
+      "onboard_time": 1744621582,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 840325,
+      "num": 840325,
+      "word": "第一次见录一半全睡了的综艺",
+      "onboard_time": 1744619482,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 832510,
@@ -635,6 +659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 665318,
+      "num": 665318,
+      "word": "满江红2",
+      "onboard_time": 1744618402,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 660543,
       "num": 660543,
       "word": "鸟类感染病毒后脖子扭转180度",
@@ -715,12 +747,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 610100,
+      "num": 269094,
+      "word": "韩红回应母亲逝世",
+      "onboard_time": 1744621164,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 608421,
       "num": 608421,
       "word": "公摊面积最大的蔬菜",
       "onboard_time": 1744524801,
       "rank": 17,
       "category": "美食"
+    },
+    {
+      "raw_hot": 596484,
+      "num": 596484,
+      "word": "无锡引进人才需要诺贝尔奖",
+      "onboard_time": 1744620563,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 593732,
@@ -1347,14 +1395,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 340035,
-      "num": 340035,
-      "word": "满江红2",
-      "onboard_time": 1744618402,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 338562,
       "num": 648025,
       "word": "90艘货船正从中国驶向美国",
@@ -1617,14 +1657,6 @@
       "onboard_time": 1744607962,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 273364,
-      "num": 325671,
-      "word": "第一次见录一半全睡了的综艺",
-      "onboard_time": 1744619482,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 271145,
@@ -2523,12 +2555,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 194257,
+      "num": 194257,
+      "word": "小伙寻亲成功后发现姐姐也被拐",
+      "onboard_time": 1744620682,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 193636,
       "num": 193636,
       "word": "五哈",
       "onboard_time": 1744523781,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193486,
+      "num": 193486,
+      "word": "米修斯之印",
+      "onboard_time": 1744620922,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 193134,
@@ -2667,14 +2715,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 185224,
-      "num": 185224,
-      "word": "特朗普年度体检报告公布",
-      "onboard_time": 1744619902,
-      "rank": 37,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 184910,
       "num": 184910,
       "word": "无穷小亮反矫",
@@ -2771,6 +2811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181732,
+      "num": 181732,
+      "word": "苹果二手机回收已涨500元",
+      "onboard_time": 1744619482,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 181069,
       "num": 181069,
       "word": "年轻人的穿搭跟着天气一起升温",
@@ -2833,14 +2881,6 @@
       "onboard_time": 1744518982,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 177704,
-      "num": 177704,
-      "word": "苹果二手机回收已涨500元",
-      "onboard_time": 1744619482,
-      "rank": 37,
-      "category": "数码"
     },
     {
       "raw_hot": 177558,
@@ -2921,6 +2961,14 @@
       "onboard_time": 1744546881,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 173868,
+      "num": 243214,
+      "word": "花花花花花人海海海海海",
+      "onboard_time": 1744621641,
+      "rank": 17,
+      "category": "民生新闻,旅游"
     },
     {
       "raw_hot": 173706,
@@ -3067,6 +3115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167256,
+      "num": 240140,
+      "word": "邱贻可陪练孙颖莎还不忘吃瓜",
+      "onboard_time": 1744619543,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166906,
       "num": 166906,
       "word": "九尾时隔227天重登赛场",
@@ -3081,6 +3137,14 @@
       "onboard_time": 1744597700,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 166594,
+      "num": 223960,
+      "word": "登陆少年没有打歌舞台就自己做",
+      "onboard_time": 1744622543,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 166438,
@@ -3627,6 +3691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141776,
+      "num": 217945,
+      "word": "刘国梁揭秘洛杉矶奥运备战蓝图",
+      "onboard_time": 1744622243,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141663,
       "num": 141663,
       "word": "日晕",
@@ -4139,6 +4211,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 126468,
+      "num": 222893,
+      "word": "云合",
+      "onboard_time": 1744622123,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126103,
       "num": 126103,
       "word": "孙燕姿演唱会cue李泽珑张钰琪",
@@ -4209,6 +4289,14 @@
       "onboard_time": 1744532661,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123584,
+      "num": 123584,
+      "word": "念无双三观",
+      "onboard_time": 1744621762,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 123554,
@@ -4297,6 +4385,14 @@
       "onboard_time": 1744613663,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120409,
+      "num": 120409,
+      "word": "男子常年买100元彩票中1003万",
+      "onboard_time": 1744621221,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120299,
@@ -4392,6 +4488,14 @@
       "word": "陈楚生割开一颗心回应每一箭",
       "onboard_time": 1744556364,
       "rank": 43,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 117682,
+      "num": 117682,
+      "word": "LikeJENNIE好爽",
+      "onboard_time": 1744622782,
+      "rank": 46,
       "category": "演出"
     },
     {
@@ -4547,14 +4651,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 112354,
-      "num": 240140,
-      "word": "邱贻可陪练孙颖莎还不忘吃瓜",
-      "onboard_time": 1744619543,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 112308,
       "num": 112308,
       "word": "王一博登VOGUE五大满贯",
@@ -4569,6 +4665,14 @@
       "onboard_time": 1744592841,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111532,
+      "num": 111532,
+      "word": "中美贸易局势近期紧张升级",
+      "onboard_time": 1744622843,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 111366,
@@ -4875,6 +4979,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 99969,
+      "num": 220185,
+      "word": "央视记者探访美国蛋荒现状",
+      "onboard_time": 1744622662,
+      "rank": 27,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 99860,
       "num": 142678,
       "word": "中越经贸合作成果丰硕",
@@ -5161,6 +5273,14 @@
       "onboard_time": 1744515141,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 77828,
+      "num": 242916,
+      "word": "昆明一商铺凌晨起火致8死",
+      "onboard_time": 1744621641,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77585,
@@ -5473,6 +5593,14 @@
       "onboard_time": 1744607724,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 44088,
+      "num": 242493,
+      "word": "原房主1套房卖2次获刑11年半",
+      "onboard_time": 1744621521,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44000,
@@ -6120,6 +6248,14 @@
       "word": "大风已到山东",
       "onboard_time": 1744499898,
       "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189,
+      "num": 1000485,
+      "word": "万千气象看山东",
+      "onboard_time": 1744619303,
+      "rank": 2,
       "category": "民生新闻"
     }
   ],
