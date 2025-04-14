@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744666678237,
+  "endTime": 1744669423635,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -8947,6 +8947,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 437112,
+      "num": 437112,
+      "word": "全球高度关注中国应对美关税霸凌",
+      "onboard_time": 1744650856,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 436724,
       "num": 436724,
       "word": "何同学掉粉",
@@ -17177,14 +17185,6 @@
       "onboard_time": 1744263505,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 223903,
-      "num": 223903,
-      "word": "全球高度关注中国应对美关税霸凌",
-      "onboard_time": 1744650856,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 223670,
@@ -40123,6 +40123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65630,
+      "num": 225217,
+      "word": "康辉采访遇上一群越南少先队员",
+      "onboard_time": 1744647021,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 65469,
       "num": 134461,
       "word": "春日壁纸",
@@ -41155,14 +41163,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 54147,
-      "num": 225217,
-      "word": "康辉采访遇上一群越南少先队员",
-      "onboard_time": 1744647021,
-      "rank": 44,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 54082,
       "num": 54082,
       "word": "潘玮柏重回颜值巅峰",
@@ -42019,6 +42019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44269,
+      "num": 44269,
+      "word": "美议员怒斥特朗普关税政策",
+      "onboard_time": 1744660394,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 44223,
       "num": 383635,
       "word": "医生用羽毛球拍和塑料袋救人",
@@ -42747,6 +42755,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 38982,
+      "num": 38982,
+      "word": "何老师不语只一味的本色出演",
+      "onboard_time": 1744660994,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 38842,
       "num": 801144,
       "word": "陈雨菲亚锦赛晋级16强",
@@ -43443,6 +43459,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 32424,
+      "num": 32424,
+      "word": "婚礼上残疾母亲婉拒合影被抱上台",
+      "onboard_time": 1744665074,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32284,
       "num": 215489,
       "word": "打工人如何防止被人精套话",
@@ -43505,14 +43529,6 @@
       "onboard_time": 1743669741,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 31730,
-      "num": 31730,
-      "word": "美议员怒斥特朗普关税政策",
-      "onboard_time": 1744660394,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 31618,
@@ -43875,6 +43891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28942,
+      "num": 43803,
+      "word": "美企业主称制造业回流美国难",
+      "onboard_time": 1744666993,
+      "rank": 13,
+      "category": "国际时政,国际时政"
+    },
+    {
       "raw_hot": 28897,
       "num": 310002,
       "word": "梁王把对手打的没脾气",
@@ -44225,6 +44249,14 @@
       "onboard_time": 1744599741,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 25686,
+      "num": 32346,
+      "word": "外交部6连问回击美方谬论",
+      "onboard_time": 1744664533,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 25640,
@@ -45059,14 +45091,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 19773,
-      "num": 19773,
-      "word": "何老师不语只一味的本色出演",
-      "onboard_time": 1744660994,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 19673,
       "num": 100243,
       "word": "向阳花硬刚污蔑片段",
@@ -45259,6 +45283,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 18822,
+      "num": 29453,
+      "word": "越南人聚会也爱嗑瓜子",
+      "onboard_time": 1744650498,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 18820,
       "num": 170117,
       "word": "美国夫妇100万连住游轮15年",
@@ -45395,6 +45427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18187,
+      "num": 22428,
+      "word": "王嘉尔labubu",
+      "onboard_time": 1744662913,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 18132,
       "num": 191920,
       "word": "美民众担忧物价飞涨",
@@ -45409,6 +45449,14 @@
       "onboard_time": 1743454933,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 17818,
+      "num": 22423,
+      "word": "洛阳你真的把牡丹保护得很好",
+      "onboard_time": 1744665194,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 17772,
@@ -45441,14 +45489,6 @@
       "onboard_time": 1743787757,
       "rank": 18,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 17417,
-      "num": 29453,
-      "word": "越南人聚会也爱嗑瓜子",
-      "onboard_time": 1744650498,
-      "rank": 47,
-      "category": "国内时政"
     },
     {
       "raw_hot": 17216,
@@ -45497,14 +45537,6 @@
       "onboard_time": 1743677662,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16911,
-      "num": 32346,
-      "word": "外交部6连问回击美方谬论",
-      "onboard_time": 1744664533,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 16855,
@@ -45665,14 +45697,6 @@
       "onboard_time": 1744362564,
       "rank": 26,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 15603,
-      "num": 15681,
-      "word": "婚礼上残疾母亲婉拒合影被抱上台",
-      "onboard_time": 1744665074,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15543,
@@ -45873,14 +45897,6 @@
       "onboard_time": 1744572194,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 14458,
-      "num": 15700,
-      "word": "王嘉尔labubu",
-      "onboard_time": 1744662913,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 14439,
@@ -46321,14 +46337,6 @@
       "onboard_time": 1743507024,
       "rank": 39,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 10979,
-      "num": 14606,
-      "word": "洛阳你真的把牡丹保护得很好",
-      "onboard_time": 1744665194,
-      "rank": 49,
-      "category": "旅游"
     },
     {
       "raw_hot": 10898,

@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744666678237,
+  "endTime": 1744669423635,
   "band_list": [
     {
       "raw_hot": 3336228,
@@ -1363,6 +1363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 437112,
+      "num": 437112,
+      "word": "全球高度关注中国应对美关税霸凌",
+      "onboard_time": 1744650856,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 436724,
       "num": 436724,
       "word": "何同学掉粉",
@@ -2497,14 +2505,6 @@
       "onboard_time": 1744466064,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 223903,
-      "num": 223903,
-      "word": "全球高度关注中国应对美关税霸凌",
-      "onboard_time": 1744650856,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 222269,
@@ -6571,6 +6571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65630,
+      "num": 225217,
+      "word": "康辉采访遇上一群越南少先队员",
+      "onboard_time": 1744647021,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 64296,
       "num": 944665,
       "word": "以斗争精神捍卫国家利益",
@@ -6649,14 +6657,6 @@
       "onboard_time": 1744604783,
       "rank": 33,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 54147,
-      "num": 225217,
-      "word": "康辉采访遇上一群越南少先队员",
-      "onboard_time": 1744647021,
-      "rank": 44,
-      "category": "国内时政"
     },
     {
       "raw_hot": 52483,
@@ -6833,6 +6833,14 @@
       "onboard_time": 1744607724,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 44269,
+      "num": 44269,
+      "word": "美议员怒斥特朗普关税政策",
+      "onboard_time": 1744660394,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 44088,
@@ -7019,6 +7027,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 38982,
+      "num": 38982,
+      "word": "何老师不语只一味的本色出演",
+      "onboard_time": 1744660994,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 38014,
       "num": 46239,
       "word": "荣耀之战",
@@ -7123,6 +7139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32424,
+      "num": 32424,
+      "word": "婚礼上残疾母亲婉拒合影被抱上台",
+      "onboard_time": 1744665074,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32168,
       "num": 185792,
       "word": "黑执事塞巴斯背头造型",
@@ -7137,14 +7161,6 @@
       "onboard_time": 1744517542,
       "rank": 17,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 31730,
-      "num": 31730,
-      "word": "美议员怒斥特朗普关税政策",
-      "onboard_time": 1744660394,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 30346,
@@ -7185,6 +7201,14 @@
       "onboard_time": 1744626741,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 28942,
+      "num": 43803,
+      "word": "美企业主称制造业回流美国难",
+      "onboard_time": 1744666993,
+      "rank": 13,
+      "category": "国际时政,国际时政"
     },
     {
       "raw_hot": 28816,
@@ -7265,6 +7289,14 @@
       "onboard_time": 1744599741,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 25686,
+      "num": 32346,
+      "word": "外交部6连问回击美方谬论",
+      "onboard_time": 1744664533,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 25352,
@@ -7443,14 +7475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 19773,
-      "num": 19773,
-      "word": "何老师不语只一味的本色出演",
-      "onboard_time": 1744660994,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 19345,
       "num": 144809,
       "word": "大阪世博2.3亿美元木建筑漏雨",
@@ -7491,6 +7515,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 18822,
+      "num": 29453,
+      "word": "越南人聚会也爱嗑瓜子",
+      "onboard_time": 1744650498,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 18799,
       "num": 40105,
       "word": "中越山水相连文化相通",
@@ -7523,6 +7555,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 18187,
+      "num": 22428,
+      "word": "王嘉尔labubu",
+      "onboard_time": 1744662913,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 17818,
+      "num": 22423,
+      "word": "洛阳你真的把牡丹保护得很好",
+      "onboard_time": 1744665194,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 17772,
       "num": 26146,
       "word": "周深从澳洲闪现吉隆坡的后台",
@@ -7537,22 +7585,6 @@
       "onboard_time": 1744513281,
       "rank": 39,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 17417,
-      "num": 29453,
-      "word": "越南人聚会也爱嗑瓜子",
-      "onboard_time": 1744650498,
-      "rank": 47,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 16911,
-      "num": 32346,
-      "word": "外交部6连问回击美方谬论",
-      "onboard_time": 1744664533,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 16825,
@@ -7587,14 +7619,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 15603,
-      "num": 15681,
-      "word": "婚礼上残疾母亲婉拒合影被抱上台",
-      "onboard_time": 1744665074,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 15484,
       "num": 27787,
       "word": "成毅侧颜牛仔套装",
@@ -7625,14 +7649,6 @@
       "onboard_time": 1744572194,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 14458,
-      "num": 15700,
-      "word": "王嘉尔labubu",
-      "onboard_time": 1744662913,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 14439,
@@ -7689,14 +7705,6 @@
       "onboard_time": 1744613242,
       "rank": 37,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 10979,
-      "num": 14606,
-      "word": "洛阳你真的把牡丹保护得很好",
-      "onboard_time": 1744665194,
-      "rank": 49,
-      "category": "旅游"
     },
     {
       "raw_hot": 10677,
