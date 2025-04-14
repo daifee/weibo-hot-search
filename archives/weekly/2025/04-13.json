@@ -1,7 +1,15 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744634969606,
+  "endTime": 1744635874414,
   "band_list": [
+    {
+      "raw_hot": 3336228,
+      "num": 3336228,
+      "word": "zmjjkk发博",
+      "onboard_time": 1744634603,
+      "rank": 0,
+      "category": "电竞"
+    },
     {
       "raw_hot": 3004197,
       "num": 3008395,
@@ -92,19 +100,11 @@
     },
     {
       "raw_hot": 1860947,
-      "num": 431048,
+      "num": 507356,
       "word": "一家三口被撞身亡拒肇事方80万赔偿",
       "onboard_time": 1744623624,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1779834,
-      "num": 1779834,
-      "word": "zmjjkk发博",
-      "onboard_time": 1744634603,
-      "rank": 0,
-      "category": "电竞"
     },
     {
       "raw_hot": 1750912,
@@ -171,20 +171,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1596379,
+      "num": 1596379,
+      "word": "折腰首更六集",
+      "onboard_time": 1744632862,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1581449,
       "num": 1581449,
       "word": "胖东来工资单",
       "onboard_time": 1744514179,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1539698,
-      "num": 1539698,
-      "word": "折腰首更六集",
-      "onboard_time": 1744632862,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 1459988,
@@ -267,6 +267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1193412,
+      "num": 1193412,
+      "word": "蜜雪冰城招牌红改绿实在管太宽",
+      "onboard_time": 1744633162,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1176572,
       "num": 1188251,
       "word": "Jennie科切拉舞台",
@@ -297,6 +305,14 @@
       "onboard_time": 1744511181,
       "rank": 0,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1141040,
+      "num": 1141040,
+      "word": "nobody发博",
+      "onboard_time": 1744634603,
+      "rank": 10,
+      "category": "电竞"
     },
     {
       "raw_hot": 1139900,
@@ -363,14 +379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1041624,
-      "num": 431144,
-      "word": "nobody发博",
-      "onboard_time": 1744634603,
-      "rank": 10,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 1027341,
       "num": 1027341,
       "word": "卖劳力士收了37万多后银行卡被冻结",
@@ -419,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 951061,
+      "num": 951061,
+      "word": "EDG无畏契约",
+      "onboard_time": 1744634662,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 949717,
       "num": 949717,
       "word": "THE9成员9人实到2人",
@@ -465,6 +481,14 @@
       "onboard_time": 1744516281,
       "rank": 4,
       "category": "演出"
+    },
+    {
+      "raw_hot": 910978,
+      "num": 500099,
+      "word": "球球 工作不是儿戏",
+      "onboard_time": 1744634662,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 895097,
@@ -571,14 +595,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 809267,
-      "num": 219331,
-      "word": "球球 工作不是儿戏",
-      "onboard_time": 1744634662,
-      "rank": 30,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 806826,
       "num": 806826,
       "word": "齐思钧双相",
@@ -620,7 +636,7 @@
     },
     {
       "raw_hot": 781187,
-      "num": 467209,
+      "num": 687652,
       "word": "成毅陈都灵邓为等火到马来西亚了",
       "onboard_time": 1744632561,
       "rank": 6,
@@ -644,7 +660,7 @@
     },
     {
       "raw_hot": 757054,
-      "num": 466983,
+      "num": 687922,
       "word": "霍去病传奇改名风起大漠",
       "onboard_time": 1744631002,
       "rank": 7,
@@ -656,6 +672,14 @@
       "word": "邓超陈赫王宝强亲亲合照",
       "onboard_time": 1744510941,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 727259,
+      "num": 489558,
+      "word": "smoggy发博",
+      "onboard_time": 1744633822,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -867,14 +891,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 593864,
-      "num": 412396,
-      "word": "smoggy发博",
-      "onboard_time": 1744633822,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 593732,
       "num": 593732,
       "word": "当年都以为奔跑吧兄弟没有第二季",
@@ -971,19 +987,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 544203,
-      "num": 544203,
-      "word": "蜜雪冰城招牌红改绿实在管太宽",
-      "onboard_time": 1744633162,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 537945,
       "num": 537945,
       "word": "澳门永久性居民将获发1万澳门元",
       "onboard_time": 1744624582,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 537090,
+      "num": 537090,
+      "word": "人民日报评禁用红蓝招牌",
+      "onboard_time": 1744633942,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -1243,14 +1259,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 430860,
-      "num": 430860,
-      "word": "EDG无畏契约",
-      "onboard_time": 1744634662,
-      "rank": 12,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 430720,
       "num": 383132,
       "word": "越南人有多爱中国电视剧",
@@ -1265,6 +1273,14 @@
       "onboard_time": 1744551023,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 429353,
+      "num": 429353,
+      "word": "EDG simon",
+      "onboard_time": 1744635743,
+      "rank": 13,
+      "category": "电竞"
     },
     {
       "raw_hot": 427215,
@@ -1523,6 +1539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 352775,
+      "num": 352775,
+      "word": "作曲家去世四年后大脑还能编曲",
+      "onboard_time": 1744635563,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 350736,
       "num": 350736,
       "word": "惊蛰无声",
@@ -1635,6 +1659,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 323606,
+      "num": 352793,
+      "word": "翟潇闻说直播知无不言",
+      "onboard_time": 1744634843,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 321794,
       "num": 321794,
       "word": "全红婵回应获得亚军",
@@ -1648,6 +1680,14 @@
       "word": "王一博鼻尖一点黄",
       "onboard_time": 1744623682,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 318690,
+      "num": 318690,
+      "word": "第一个给艾米剪短发的人是天才",
+      "onboard_time": 1744634423,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -1979,14 +2019,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 249108,
-      "num": 431207,
-      "word": "人民日报评禁用红蓝招牌",
-      "onboard_time": 1744633942,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 248880,
       "num": 263968,
       "word": "英国将暂停对89种产品征全球关税",
@@ -2203,6 +2235,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 228578,
+      "num": 228578,
+      "word": "梁老师发监控视频自证",
+      "onboard_time": 1744634904,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 228062,
       "num": 228062,
       "word": "贺峻霖 offer7",
@@ -2225,6 +2265,14 @@
       "onboard_time": 1744517542,
       "rank": 25,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 227082,
+      "num": 227082,
+      "word": "景德镇车祸遇难婴儿差七天满周岁",
+      "onboard_time": 1744633762,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 226936,
@@ -2553,14 +2601,6 @@
       "onboard_time": 1744614862,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 209226,
-      "num": 209226,
-      "word": "第一个给艾米剪短发的人是天才",
-      "onboard_time": 1744634423,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 208624,
@@ -2947,14 +2987,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 191082,
-      "num": 191082,
-      "word": "景德镇车祸遇难婴儿差七天满周岁",
-      "onboard_time": 1744633762,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 190910,
       "num": 190910,
       "word": "王一博VOGUE员工卡头像",
@@ -3009,6 +3041,14 @@
       "onboard_time": 1744523182,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188102,
+      "num": 188102,
+      "word": "无忧渡热度破9000",
+      "onboard_time": 1744635563,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 187811,
@@ -3740,7 +3780,7 @@
     },
     {
       "raw_hot": 158275,
-      "num": 158275,
+      "num": 303629,
       "word": "五一抢票日历",
       "onboard_time": 1744632321,
       "rank": 41,
@@ -3833,6 +3873,14 @@
       "onboard_time": 1744630522,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 154070,
+      "num": 154070,
+      "word": "刘学义念无双收官长文",
+      "onboard_time": 1744635444,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 153796,
@@ -4467,22 +4515,6 @@
       "category": "健康医疗,艺人"
     },
     {
-      "raw_hot": 133692,
-      "num": 133692,
-      "word": "梁老师发监控视频自证",
-      "onboard_time": 1744634904,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 133649,
-      "num": 179316,
-      "word": "翟潇闻说直播知无不言",
-      "onboard_time": 1744634843,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 133200,
       "num": 133200,
       "word": "艾福杰尼上五哈前没觉得自己像熊",
@@ -4755,6 +4787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126306,
+      "num": 352777,
+      "word": "女儿病逝后夫妻为儿子选择安宁疗护",
+      "onboard_time": 1744634423,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126103,
       "num": 126103,
       "word": "孙燕姿演唱会cue李泽珑张钰琪",
@@ -4777,6 +4817,14 @@
       "onboard_time": 1744461025,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 125674,
+      "num": 125674,
+      "word": "王一博演技反差感",
+      "onboard_time": 1744635743,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 125389,
@@ -5363,6 +5411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108648,
+      "num": 122236,
+      "word": "世界之外",
+      "onboard_time": 1744635743,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 108355,
       "num": 108355,
       "word": "学化学的和学食品的都沉默了",
@@ -5459,6 +5515,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 103807,
+      "num": 392192,
+      "word": "禁用红蓝招牌这些问题待回应",
+      "onboard_time": 1744633942,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103417,
       "num": 103417,
       "word": "国色芳华改编成功是极小概率事件",
@@ -5488,14 +5552,6 @@
       "word": "日本大阪世博会中国馆正式开馆",
       "onboard_time": 1744539982,
       "rank": 40,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 102012,
-      "num": 392192,
-      "word": "禁用红蓝招牌这些问题待回应",
-      "onboard_time": 1744633942,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -5923,20 +5979,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 75545,
-      "num": 340493,
-      "word": "女儿病逝后夫妻为儿子选择安宁疗护",
-      "onboard_time": 1744634423,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 74995,
       "num": 259157,
       "word": "辛选蛋蛋山东直播间爆单助农",
       "onboard_time": 1744533862,
       "rank": 19,
       "category": "网红"
+    },
+    {
+      "raw_hot": 74731,
+      "num": 228781,
+      "word": "女子医美祛斑致面部九级伤残",
+      "onboard_time": 1744634363,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 74164,
@@ -6051,14 +6107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 64931,
-      "num": 221701,
-      "word": "女子医美祛斑致面部九级伤残",
-      "onboard_time": 1744634363,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 64296,
       "num": 944665,
       "word": "以斗争精神捍卫国家利益",
@@ -6153,6 +6201,14 @@
       "onboard_time": 1744587140,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 50981,
+      "num": 395159,
+      "word": "为赢钱溜进麻将馆给麻将牌装芯片",
+      "onboard_time": 1744634662,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50075,
@@ -6579,14 +6635,6 @@
       "category": "国际时政,财经"
     },
     {
-      "raw_hot": 28070,
-      "num": 253849,
-      "word": "为赢钱溜进麻将馆给麻将牌装芯片",
-      "onboard_time": 1744634662,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 27202,
       "num": 160661,
       "word": "黄友政vs埃尔贝亚力",
@@ -6739,6 +6787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20881,
+      "num": 1340178,
+      "word": "数读中越合作成就",
+      "onboard_time": 1744618942,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 20662,
       "num": 226978,
       "word": "特朗普政府肆意破坏WTO规则",
@@ -6753,14 +6809,6 @@
       "onboard_time": 1744583536,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 19485,
-      "num": 896305,
-      "word": "数读中越合作成就",
-      "onboard_time": 1744618942,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 19345,
