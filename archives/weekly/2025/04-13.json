@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744663275998,
+  "endTime": 1744665800491,
   "band_list": [
     {
       "raw_hot": 3336228,
@@ -7179,6 +7179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 29127,
+      "num": 29127,
+      "word": "美议员怒斥特朗普关税政策",
+      "onboard_time": 1744660394,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 28816,
       "num": 134722,
       "word": "成年人要学会照顾好自己",
@@ -7403,14 +7411,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 21868,
-      "num": 21868,
-      "word": "美议员怒斥特朗普关税政策",
-      "onboard_time": 1744660394,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 21483,
       "num": 1540646,
       "word": "一图看懂中越友谊",
@@ -7473,6 +7473,14 @@
       "onboard_time": 1744525761,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18937,
+      "num": 18937,
+      "word": "何老师不语只一味的本色出演",
+      "onboard_time": 1744660994,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 18835,
@@ -7571,14 +7579,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 16009,
-      "num": 18350,
-      "word": "何老师不语只一味的本色出演",
-      "onboard_time": 1744660994,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 15484,
       "num": 27787,
       "word": "成毅侧颜牛仔套装",
@@ -7627,6 +7627,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 13817,
+      "num": 15700,
+      "word": "王嘉尔labubu",
+      "onboard_time": 1744662913,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 13093,
       "num": 191964,
       "word": "鲍春来带亚锦赛吉祥物出镜",
@@ -7643,20 +7651,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 12225,
+      "num": 15681,
+      "word": "婚礼上残疾母亲婉拒合影被抱上台",
+      "onboard_time": 1744665074,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 12091,
       "num": 156115,
       "word": "伊美称首次谈判积极并具建设性",
       "onboard_time": 1744499717,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 11757,
-      "num": 13657,
-      "word": "王嘉尔labubu",
-      "onboard_time": 1744662913,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 11595,
@@ -7673,6 +7681,14 @@
       "onboard_time": 1744613242,
       "rank": 37,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 11047,
+      "num": 15667,
+      "word": "外交部6连问回击美方谬论",
+      "onboard_time": 1744664533,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 10677,

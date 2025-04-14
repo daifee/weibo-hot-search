@@ -1,6 +1,6 @@
 {
   "startTime": 1744648272763,
-  "endTime": 1744663275998,
+  "endTime": 1744665800491,
   "band_list": [
     {
       "raw_hot": 917825,
@@ -451,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 29127,
+      "num": 29127,
+      "word": "美议员怒斥特朗普关税政策",
+      "onboard_time": 1744660394,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 27996,
       "num": 60793,
       "word": "澳门永久性居民将获发1万澳门元",
@@ -499,14 +507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 21868,
-      "num": 21868,
-      "word": "美议员怒斥特朗普关税政策",
-      "onboard_time": 1744660394,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 21277,
       "num": 29537,
       "word": "水果姐将乘飞船进太空",
@@ -515,20 +515,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 18937,
+      "num": 18937,
+      "word": "何老师不语只一味的本色出演",
+      "onboard_time": 1744660994,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 17417,
       "num": 29453,
       "word": "越南人聚会也爱嗑瓜子",
       "onboard_time": 1744650498,
       "rank": 47,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 16009,
-      "num": 18350,
-      "word": "何老师不语只一味的本色出演",
-      "onboard_time": 1744660994,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 15553,
@@ -547,12 +547,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 11757,
-      "num": 13657,
+      "raw_hot": 13817,
+      "num": 15700,
       "word": "王嘉尔labubu",
       "onboard_time": 1744662913,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 12225,
+      "num": 15681,
+      "word": "婚礼上残疾母亲婉拒合影被抱上台",
+      "onboard_time": 1744665074,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11047,
+      "num": 15667,
+      "word": "外交部6连问回击美方谬论",
+      "onboard_time": 1744664533,
+      "rank": 49,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [
