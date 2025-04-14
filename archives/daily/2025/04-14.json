@@ -1,6 +1,6 @@
 {
   "startTime": 1744561767834,
-  "endTime": 1744641866868,
+  "endTime": 1744644441880,
   "band_list": [
     {
       "raw_hot": 3336228,
@@ -88,6 +88,14 @@
       "word": "蜜雪冰城招牌红改绿实在管太宽",
       "onboard_time": 1744633162,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1872549,
+      "num": 391186,
+      "word": "女子唱K离话筒太近称感染无药可治",
+      "onboard_time": 1744642281,
+      "rank": 10,
       "category": "民生新闻"
     },
     {
@@ -387,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 741237,
+      "num": 607334,
+      "word": "撞死1家3口肇事者2次将油门踩到底",
+      "onboard_time": 1744638263,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 727259,
       "num": 682078,
       "word": "smoggy发博",
@@ -425,14 +441,6 @@
       "onboard_time": 1744609763,
       "rank": 6,
       "category": "电影"
-    },
-    {
-      "raw_hot": 691584,
-      "num": 607334,
-      "word": "撞死1家3口肇事者2次将油门踩到底",
-      "onboard_time": 1744638263,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 675902,
@@ -731,6 +739,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 419306,
+      "num": 419306,
+      "word": "外国人也爱看中国影视剧",
+      "onboard_time": 1744642344,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 414356,
       "num": 414356,
       "word": "特朗普称将在下周一公布半导体关税细节",
@@ -955,8 +971,16 @@
       "category": "演出"
     },
     {
+      "raw_hot": 300915,
+      "num": 300915,
+      "word": "Simon聊天记录完整版",
+      "onboard_time": 1744641204,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 286920,
-      "num": 286920,
+      "num": 334517,
       "word": "时代峰峻暑假将启动家族打歌舞台",
       "onboard_time": 1744640244,
       "rank": 25,
@@ -1139,6 +1163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 245838,
+      "num": 245838,
+      "word": "不少年轻人流行用iPhone6拍照",
+      "onboard_time": 1744637063,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 244866,
       "num": 244866,
       "word": "鸟类感染病毒后脖子扭转180度",
@@ -1217,14 +1249,6 @@
       "onboard_time": 1744623442,
       "rank": 29,
       "category": "网红"
-    },
-    {
-      "raw_hot": 233853,
-      "num": 233853,
-      "word": "不少年轻人流行用iPhone6拍照",
-      "onboard_time": 1744637063,
-      "rank": 45,
-      "category": "数码"
     },
     {
       "raw_hot": 232940,
@@ -1715,14 +1739,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 190980,
-      "num": 190980,
-      "word": "Simon聊天记录完整版",
-      "onboard_time": 1744641204,
-      "rank": 34,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 189978,
       "num": 189978,
       "word": "冰岛发酵鲨鱼肉",
@@ -1795,6 +1811,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 184020,
+      "num": 184020,
+      "word": "王楚钦世界杯首战对阵萨琳",
+      "onboard_time": 1744642164,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 183439,
       "num": 183439,
       "word": "任嘉伦无忧渡笑着哭更痛",
@@ -1849,6 +1873,14 @@
       "onboard_time": 1744619482,
       "rank": 37,
       "category": "数码"
+    },
+    {
+      "raw_hot": 181158,
+      "num": 181158,
+      "word": "成毅抗剧能力",
+      "onboard_time": 1744643123,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 181069,
@@ -2115,6 +2147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 158451,
+      "num": 158451,
+      "word": "留几手现在140斤体脂率12%",
+      "onboard_time": 1744642825,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158275,
       "num": 303629,
       "word": "五一抢票日历",
@@ -2379,6 +2419,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 140490,
+      "num": 140490,
+      "word": "风象星座为什么能说不爱就不爱了",
+      "onboard_time": 1744642281,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 139928,
+      "num": 139928,
+      "word": "美股",
+      "onboard_time": 1744643123,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 138957,
       "num": 131807,
       "word": "弟弟找开锁上门后发现姐姐已去世",
@@ -2611,6 +2667,14 @@
       "category": "休闲,美食"
     },
     {
+      "raw_hot": 127949,
+      "num": 199348,
+      "word": "阿米尔汗说喜欢成龙和沈腾马丽",
+      "onboard_time": 1744643903,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 126550,
       "num": 392733,
       "word": "张栋梁扫楼合唱当你孤单你会想起谁",
@@ -2747,6 +2811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120568,
+      "num": 120568,
+      "word": "绵绵的羊卫生巾被曝有异物",
+      "onboard_time": 1744644323,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120478,
       "num": 120478,
       "word": "曹笑天发长文",
@@ -2819,6 +2891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116645,
+      "num": 1047382,
+      "word": "我国与东盟贸易互补不断增强",
+      "onboard_time": 1744638683,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 116385,
       "num": 116385,
       "word": "东极岛 北影节",
@@ -2857,6 +2937,14 @@
       "onboard_time": 1744629321,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113672,
+      "num": 113672,
+      "word": "张杰说小北斗你要火了",
+      "onboard_time": 1744644142,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 113537,
@@ -2971,6 +3059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103455,
+      "num": 151830,
+      "word": "胡夏直播",
+      "onboard_time": 1744644323,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 102701,
       "num": 174081,
       "word": "2025腾讯游戏发布会定档",
@@ -3049,14 +3145,6 @@
       "onboard_time": 1744554202,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 95893,
-      "num": 1047382,
-      "word": "我国与东盟贸易互补不断增强",
-      "onboard_time": 1744638683,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 94896,
@@ -3219,6 +3307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74321,
+      "num": 217922,
+      "word": "美社保署将6000多移民标为死亡",
+      "onboard_time": 1744644202,
+      "rank": 26,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 73361,
       "num": 73361,
       "word": "勇士快船加时",
@@ -3249,6 +3345,14 @@
       "onboard_time": 1744601182,
       "rank": 43,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 68470,
+      "num": 301784,
+      "word": "4名中国留学生对美国政府提起诉讼",
+      "onboard_time": 1744644022,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 68437,
@@ -3377,6 +3481,14 @@
       "onboard_time": 1744549883,
       "rank": 44,
       "category": "网红"
+    },
+    {
+      "raw_hot": 49488,
+      "num": 309874,
+      "word": "中国广告协会评三河店招禁色令",
+      "onboard_time": 1744642825,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48792,

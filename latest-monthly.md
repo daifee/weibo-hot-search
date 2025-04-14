@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/14 22:44:26
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/14 23:27:21
 </p>
 </blockquote>
 <p>
@@ -701,6 +701,12 @@ C罗点评甲亢哥中国行（热度：2472029）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E6%8B%9B%E7%89%8C%E7%BA%A2%E6%94%B9%E7%BB%BF%E5%AE%9E%E5%9C%A8%E7%AE%A1%E5%A4%AA%E5%AE%BD%23" target="weibo">
 蜜雪冰城招牌红改绿实在管太宽（热度：1873201）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%94%B1K%E7%A6%BB%E8%AF%9D%E7%AD%92%E5%A4%AA%E8%BF%91%E7%A7%B0%E6%84%9F%E6%9F%93%E6%97%A0%E8%8D%AF%E5%8F%AF%E6%B2%BB%23" target="weibo">
+女子唱K离话筒太近称感染无药可治（热度：1872549）
 </a>
 </li>
 
@@ -3645,6 +3651,12 @@ YERI和Wendy离开SM（热度：805847）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%92%9E%E6%AD%BB1%E5%AE%B63%E5%8F%A3%E8%82%87%E4%BA%8B%E8%80%852%E6%AC%A1%E5%B0%86%E6%B2%B9%E9%97%A8%E8%B8%A9%E5%88%B0%E5%BA%95%23" target="weibo">
+撞死1家3口肇事者2次将油门踩到底（热度：741237）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E5%BB%BA%E8%AE%AE%E5%B0%8F%E5%AD%A6%E5%BB%B6%E6%97%B6%E8%87%B36%E7%82%B9%E5%8D%8A%E6%94%BE%E5%AD%A6%23" target="weibo">
 家长建议小学延时至6点半放学（热度：740649）
 </a>
@@ -3995,12 +4007,6 @@ TVB男演员陈键锋学厨以第一名毕业（热度：726197）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2310%E7%BA%A7%E7%8B%82%E9%A3%8E%E5%A0%AA%E6%AF%94%E5%8F%B0%E9%A3%8E%E8%BF%87%E5%A2%83%23" target="weibo">
 10级狂风堪比台风过境（热度：692970）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%92%9E%E6%AD%BB1%E5%AE%B63%E5%8F%A3%E8%82%87%E4%BA%8B%E8%80%852%E6%AC%A1%E5%B0%86%E6%B2%B9%E9%97%A8%E8%B8%A9%E5%88%B0%E5%BA%95%23" target="weibo">
-撞死1家3口肇事者2次将油门踩到底（热度：691584）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ gidle曺薇娟吉克隽逸新歌（热度：482562）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%81%E6%B3%A2%E5%8F%A3%E5%B2%B8%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E5%87%BA%E5%8F%A3%E6%9A%B4%E5%A2%9E439%25%23" target="weibo">
 宁波口岸新能源车出口暴增439%（热度：479771）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E4%B8%BA%E4%BD%95%E5%A5%B3%E5%8E%95%E6%80%BB%E6%9C%89%E4%B8%80%E6%A0%BC%E6%89%93%E4%B8%8D%E5%BC%80%E4%BA%86%23" target="weibo">
-终于知道为何女厕总有一格打不开了（热度：479491）
 </a>
 </li>
 
