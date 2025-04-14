@@ -1,14 +1,22 @@
 {
   "startTime": 1744648272763,
-  "endTime": 1744672982706,
+  "endTime": 1744673852229,
   "band_list": [
     {
-      "raw_hot": 1049652,
-      "num": 1049652,
+      "raw_hot": 1154964,
+      "num": 1154964,
       "word": "全球高度关注中国应对美关税霸凌",
       "onboard_time": 1744650856,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1047431,
+      "num": 286119,
+      "word": "路过围观人群竟是儿子儿媳孙子被撞亡",
+      "onboard_time": 1744646001,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 917825,
@@ -19,11 +27,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 870596,
-      "num": 286119,
-      "word": "路过围观人群竟是儿子儿媳孙子被撞亡",
-      "onboard_time": 1744646001,
-      "rank": 10,
+      "raw_hot": 911723,
+      "num": 207144,
+      "word": "撞死1家3口肇事者2次将油门踩到底",
+      "onboard_time": 1744638263,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -51,14 +59,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 602370,
-      "num": 207144,
-      "word": "撞死1家3口肇事者2次将油门踩到底",
-      "onboard_time": 1744638263,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 538793,
       "num": 538793,
       "word": "外国人也爱看中国影视剧",
@@ -83,6 +83,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 450521,
+      "num": 450521,
+      "word": "第一次见录一半全睡了的综艺",
+      "onboard_time": 1744619482,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 444191,
       "num": 270666,
       "word": "TFBOYS曾坐地铁赶通告",
@@ -91,19 +99,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 436792,
+      "num": 226829,
+      "word": "TVB男演员为省钱来深圳拔牙",
+      "onboard_time": 1744645701,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 409587,
       "num": 212285,
       "word": "男演员回应退圈回老家赶集摆摊",
       "onboard_time": 1744648040,
       "rank": 25,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 391669,
-      "num": 226829,
-      "word": "TVB男演员为省钱来深圳拔牙",
-      "onboard_time": 1744645701,
-      "rank": 20,
       "category": "艺人"
     },
     {
@@ -123,12 +131,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 359771,
-      "num": 359771,
-      "word": "第一次见录一半全睡了的综艺",
-      "onboard_time": 1744619482,
-      "rank": 33,
-      "category": "综艺"
+      "raw_hot": 342136,
+      "num": 244495,
+      "word": "留几手现在140斤体脂率12%",
+      "onboard_time": 1744642825,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 333366,
+      "num": 333366,
+      "word": "作曲家去世四年后大脑还能编曲",
+      "onboard_time": 1744635563,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 310499,
@@ -147,28 +163,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 297982,
+      "num": 297982,
+      "word": "无忧渡折腰 对打",
+      "onboard_time": 1744636285,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 286462,
       "num": 286462,
       "word": "Simon事件",
       "onboard_time": 1744637063,
       "rank": 9,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 278119,
-      "num": 278119,
-      "word": "作曲家去世四年后大脑还能编曲",
-      "onboard_time": 1744635563,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 273005,
-      "num": 244495,
-      "word": "留几手现在140斤体脂率12%",
-      "onboard_time": 1744642825,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 264375,
@@ -179,20 +187,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 256700,
+      "num": 256700,
+      "word": "不少年轻人流行用iPhone6拍照",
+      "onboard_time": 1744637063,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 254795,
       "num": 254795,
       "word": "THE9成员9人实到2人",
       "onboard_time": 1744626683,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 245893,
-      "num": 245893,
-      "word": "无忧渡折腰 对打",
-      "onboard_time": 1744636285,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 225322,
@@ -203,12 +211,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 206243,
+      "num": 158519,
+      "word": "戴牙套五年后牙齿还是反弹了",
+      "onboard_time": 1744673119,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 192094,
       "num": 192094,
       "word": "smoggy发博",
       "onboard_time": 1744633822,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 191678,
+      "num": 191678,
+      "word": "4名中国留学生对美国政府提起诉讼",
+      "onboard_time": 1744644022,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 187044,
@@ -220,7 +244,7 @@
     },
     {
       "raw_hot": 174687,
-      "num": 112485,
+      "num": 122159,
       "word": "时代少年团不参加时代峰峻家族打歌舞台",
       "onboard_time": 1744648520,
       "rank": 31,
@@ -235,24 +259,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 167524,
-      "num": 167524,
-      "word": "不少年轻人流行用iPhone6拍照",
-      "onboard_time": 1744637063,
-      "rank": 31,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 153305,
-      "num": 153305,
-      "word": "4名中国留学生对美国政府提起诉讼",
-      "onboard_time": 1744644022,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 150034,
-      "num": 150034,
+      "num": 172546,
       "word": "驻日大使馆提醒注意防范地震",
       "onboard_time": 1744603703,
       "rank": 28,
@@ -264,6 +272,14 @@
       "word": "Simon聊天记录完整版",
       "onboard_time": 1744641204,
       "rank": 32,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 139907,
+      "num": 139907,
+      "word": "simon",
+      "onboard_time": 1744673059,
+      "rank": 22,
       "category": "电竞"
     },
     {
@@ -307,6 +323,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 110111,
+      "num": 110111,
+      "word": "绝经后我更像个人了",
+      "onboard_time": 1744670419,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108828,
       "num": 117272,
       "word": "时代峰峻暑假将启动家族打歌舞台",
@@ -321,6 +345,30 @@
       "onboard_time": 1744634603,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 101341,
+      "num": 117470,
+      "word": "阿米尔汗说喜欢成龙和沈腾马丽",
+      "onboard_time": 1744643903,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 99395,
+      "num": 99395,
+      "word": "减肥效果最好的室内运动",
+      "onboard_time": 1744673840,
+      "rank": 31,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 98702,
+      "num": 98702,
+      "word": "景德镇车祸遇难婴儿差七天满周岁",
+      "onboard_time": 1744633762,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96896,
@@ -339,12 +387,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 92394,
-      "num": 117470,
-      "word": "阿米尔汗说喜欢成龙和沈腾马丽",
-      "onboard_time": 1744643903,
-      "rank": 39,
-      "category": "电影"
+      "raw_hot": 93709,
+      "num": 93709,
+      "word": "地面上有蓝光闪烁赶紧跑",
+      "onboard_time": 1744669996,
+      "rank": 48,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 91849,
+      "num": 91849,
+      "word": "人类的肠道被设计的有多敏感",
+      "onboard_time": 1744673840,
+      "rank": 35,
+      "category": "科学科普"
     },
     {
       "raw_hot": 88279,
@@ -363,12 +419,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 83792,
-      "num": 79526,
-      "word": "地面上有蓝光闪烁赶紧跑",
-      "onboard_time": 1744669996,
-      "rank": 48,
-      "category": "科学科普"
+      "raw_hot": 85169,
+      "num": 85169,
+      "word": "婚礼上残疾母亲婉拒合影被抱上台",
+      "onboard_time": 1744665074,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84515,
+      "num": 100893,
+      "word": "十几岁的李宏毅",
+      "onboard_time": 1744650617,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 83567,
@@ -379,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 83247,
+      "num": 98012,
+      "word": "翟潇闻模仿了金宣虎wink笑",
+      "onboard_time": 1744671980,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 80935,
       "num": 80935,
       "word": "日本首相警告美国",
@@ -387,28 +459,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 79473,
-      "num": 79473,
-      "word": "绝经后我更像个人了",
-      "onboard_time": 1744670419,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 77036,
       "num": 77036,
       "word": "折腰",
       "onboard_time": 1744624041,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 74902,
-      "num": 74902,
-      "word": "景德镇车祸遇难婴儿差七天满周岁",
-      "onboard_time": 1744633762,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 74094,
@@ -435,22 +491,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 72077,
-      "num": 72077,
-      "word": "婚礼上残疾母亲婉拒合影被抱上台",
-      "onboard_time": 1744665074,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 70925,
-      "num": 94906,
-      "word": "十几岁的李宏毅",
-      "onboard_time": 1744650617,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 66453,
       "num": 547713,
       "word": "我国与东盟贸易互补不断增强",
@@ -467,12 +507,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 64817,
+      "num": 64817,
+      "word": "两只熊猫幼崽蛄蛹蛄蛹越贴越紧",
+      "onboard_time": 1744673421,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 61740,
       "num": 79693,
       "word": "何老师不语只一味的本色出演",
       "onboard_time": 1744660994,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 61717,
+      "num": 61717,
+      "word": "王楚钦加油",
+      "onboard_time": 1744672159,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 58397,
@@ -483,27 +539,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 49548,
-      "num": 98012,
-      "word": "翟潇闻模仿了金宣虎wink笑",
-      "onboard_time": 1744671980,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 47849,
       "num": 80767,
       "word": "太阳解雇布登霍尔泽",
       "onboard_time": 1744671980,
       "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 47007,
-      "num": 47007,
-      "word": "王楚钦加油",
-      "onboard_time": 1744672159,
-      "rank": 42,
       "category": "体育"
     },
     {
@@ -539,12 +579,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 30627,
-      "num": 282850,
+      "raw_hot": 37525,
+      "num": 364681,
       "word": "一图看懂中越友谊",
       "onboard_time": 1744637904,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 31159,
+      "num": 158594,
+      "word": "美国又威胁征收半导体关税",
+      "onboard_time": 1744673180,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 30195,
+      "num": 168848,
+      "word": "尹锡悦8次发言6提荒唐",
+      "onboard_time": 1744673000,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 27996,
@@ -617,6 +673,22 @@
       "onboard_time": 1744662913,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 17229,
+      "num": 184156,
+      "word": "俄美就俄乌和平方案进行对话",
+      "onboard_time": 1744673059,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 16192,
+      "num": 77925,
+      "word": "美债巨震",
+      "onboard_time": 1744673782,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 13939,

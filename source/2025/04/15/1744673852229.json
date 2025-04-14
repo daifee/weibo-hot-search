@@ -1,0 +1,410 @@
+{
+  "runTime": 1744673852229,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1154964,
+        "num": 1154964,
+        "word": "全球高度关注中国应对美关税霸凌",
+        "onboard_time": 1744650856,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 450521,
+        "num": 450521,
+        "word": "第一次见录一半全睡了的综艺",
+        "onboard_time": 1744619482,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37525,
+        "num": 364681,
+        "word": "一图看懂中越友谊",
+        "onboard_time": 1744637904,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 333366,
+        "num": 333366,
+        "word": "作曲家去世四年后大脑还能编曲",
+        "onboard_time": 1744635563,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 297982,
+        "num": 297982,
+        "word": "无忧渡折腰 对打",
+        "onboard_time": 1744636285,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256700,
+        "num": 256700,
+        "word": "不少年轻人流行用iPhone6拍照",
+        "onboard_time": 1744637063,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 227249,
+        "num": 227249,
+        "word": "特朗普关税横跳有多颠",
+        "onboard_time": 1744644621,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 191678,
+        "num": 191678,
+        "word": "4名中国留学生对美国政府提起诉讼",
+        "onboard_time": 1744644022,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184553,
+        "num": 184553,
+        "word": "美企业主称制造业回流美国难",
+        "onboard_time": 1744666993,
+        "rank": 8,
+        "category": "国际时政,国际时政"
+      },
+      {
+        "raw_hot": 17229,
+        "num": 184156,
+        "word": "俄美就俄乌和平方案进行对话",
+        "onboard_time": 1744673059,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1047431,
+        "num": 179324,
+        "word": "路过围观人群竟是儿子儿媳孙子被撞亡",
+        "onboard_time": 1744646001,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 911723,
+        "num": 177271,
+        "word": "撞死1家3口肇事者2次将油门踩到底",
+        "onboard_time": 1744638263,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 591379,
+        "num": 173566,
+        "word": "女子唱K离话筒太近称感染无药可治",
+        "onboard_time": 1744642281,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147372,
+        "num": 172546,
+        "word": "驻日大使馆提醒注意防范地震",
+        "onboard_time": 1744603703,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30195,
+        "num": 168848,
+        "word": "尹锡悦8次发言6提荒唐",
+        "onboard_time": 1744673000,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 436792,
+        "num": 167465,
+        "word": "TVB男演员为省钱来深圳拔牙",
+        "onboard_time": 1744645701,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389618,
+        "num": 164511,
+        "word": "男演员回应退圈回老家赶集摆摊",
+        "onboard_time": 1744648040,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342136,
+        "num": 160176,
+        "word": "留几手现在140斤体脂率12%",
+        "onboard_time": 1744642825,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159674,
+        "num": 159674,
+        "word": "绵绵的羊卫生巾被曝有异物",
+        "onboard_time": 1744644323,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31159,
+        "num": 158594,
+        "word": "美国又威胁征收半导体关税",
+        "onboard_time": 1744673180,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 206243,
+        "num": 158519,
+        "word": "戴牙套五年后牙齿还是反弹了",
+        "onboard_time": 1744673119,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158283,
+        "num": 158283,
+        "word": "TFBOYS曾坐地铁赶通告",
+        "onboard_time": 1744646363,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139907,
+        "num": 139907,
+        "word": "simon",
+        "onboard_time": 1744673059,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122159,
+        "num": 122159,
+        "word": "时代少年团不参加时代峰峻家族打歌舞台",
+        "onboard_time": 1744648520,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110111,
+        "num": 110111,
+        "word": "绝经后我更像个人了",
+        "onboard_time": 1744670419,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107647,
+        "num": 107647,
+        "word": "关晓彤金发遛弯儿",
+        "onboard_time": 1744635864,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 101341,
+        "num": 101341,
+        "word": "阿米尔汗说喜欢成龙和沈腾马丽",
+        "onboard_time": 1744643903,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 84515,
+        "num": 100893,
+        "word": "十几岁的李宏毅",
+        "onboard_time": 1744650617,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68949,
+        "num": 100400,
+        "word": "外国人也爱看中国影视剧",
+        "onboard_time": 1744642344,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 67118,
+        "num": 100003,
+        "word": "成毅陈都灵邓为等火到马来西亚了",
+        "onboard_time": 1744632561,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105470,
+        "num": 99725,
+        "word": "梁老师发监控视频自证",
+        "onboard_time": 1744634904,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99395,
+        "num": 99395,
+        "word": "减肥效果最好的室内运动",
+        "onboard_time": 1744673840,
+        "rank": 31,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 98702,
+        "num": 98702,
+        "word": "景德镇车祸遇难婴儿差七天满周岁",
+        "onboard_time": 1744633762,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93709,
+        "num": 93709,
+        "word": "地面上有蓝光闪烁赶紧跑",
+        "onboard_time": 1744669996,
+        "rank": 33,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 92367,
+        "num": 92367,
+        "word": "一家三口被撞身亡拒肇事方80万赔偿",
+        "onboard_time": 1744623624,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91849,
+        "num": 91849,
+        "word": "人类的肠道被设计的有多敏感",
+        "onboard_time": 1744673840,
+        "rank": 35,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 85169,
+        "num": 85169,
+        "word": "婚礼上残疾母亲婉拒合影被抱上台",
+        "onboard_time": 1744665074,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83247,
+        "num": 83247,
+        "word": "翟潇闻模仿了金宣虎wink笑",
+        "onboard_time": 1744671980,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16192,
+        "num": 77925,
+        "word": "美债巨震",
+        "onboard_time": 1744673782,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 75869,
+        "num": 75869,
+        "word": "Jennie女王",
+        "onboard_time": 1744636162,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 70517,
+        "num": 70517,
+        "word": "smoggy",
+        "onboard_time": 1744650797,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 66869,
+        "num": 66869,
+        "word": "孙颖莎王楚钦世界杯赛前训练画面",
+        "onboard_time": 1744645941,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64817,
+        "num": 64817,
+        "word": "两只熊猫幼崽蛄蛹蛄蛹越贴越紧",
+        "onboard_time": 1744673421,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 63769,
+        "num": 63769,
+        "word": "Simon聊天记录完整版",
+        "onboard_time": 1744641204,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 61717,
+        "num": 61717,
+        "word": "王楚钦加油",
+        "onboard_time": 1744672159,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61309,
+        "num": 61309,
+        "word": "美社保署将6000多移民标为死亡",
+        "onboard_time": 1744644202,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 59367,
+        "num": 59367,
+        "word": "折腰",
+        "onboard_time": 1744624041,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54146,
+        "num": 54146,
+        "word": "折腰首更六集",
+        "onboard_time": 1744632862,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52043,
+        "num": 52043,
+        "word": "无忧渡",
+        "onboard_time": 1744629983,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45305,
+        "num": 51965,
+        "word": "乘风2025四公帮唱歌单",
+        "onboard_time": 1744637604,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同苏林会谈#"
+    }
+  }
+}
