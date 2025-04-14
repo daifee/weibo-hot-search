@@ -1,0 +1,410 @@
+{
+  "runTime": 1744634969606,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1779834,
+        "num": 1779834,
+        "word": "zmjjkk发博",
+        "onboard_time": 1744634603,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1539698,
+        "num": 1539698,
+        "word": "折腰首更六集",
+        "onboard_time": 1744632862,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19485,
+        "num": 896305,
+        "word": "数读中越合作成就",
+        "onboard_time": 1744618942,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 782903,
+        "num": 782903,
+        "word": "THE9成员9人实到2人",
+        "onboard_time": 1744626683,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 544203,
+        "num": 544203,
+        "word": "蜜雪冰城招牌红改绿实在管太宽",
+        "onboard_time": 1744633162,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 476532,
+        "num": 476532,
+        "word": "冰岛 异食癖的故乡",
+        "onboard_time": 1744625482,
+        "rank": 5,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 781187,
+        "num": 467209,
+        "word": "成毅陈都灵邓为等火到马来西亚了",
+        "onboard_time": 1744632561,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 757054,
+        "num": 466983,
+        "word": "霍去病传奇改名风起大漠",
+        "onboard_time": 1744631002,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 452150,
+        "num": 452150,
+        "word": "张若昀毛晓彤风起大漠75集",
+        "onboard_time": 1744629802,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249108,
+        "num": 431207,
+        "word": "人民日报评禁用红蓝招牌",
+        "onboard_time": 1744633942,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1041624,
+        "num": 431144,
+        "word": "nobody发博",
+        "onboard_time": 1744634603,
+        "rank": 10,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 937289,
+        "num": 431048,
+        "word": "一家三口被撞身亡拒肇事方80万赔偿",
+        "onboard_time": 1744623624,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 430860,
+        "num": 430860,
+        "word": "EDG无畏契约",
+        "onboard_time": 1744634662,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 593864,
+        "num": 412396,
+        "word": "smoggy发博",
+        "onboard_time": 1744633822,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102012,
+        "num": 392192,
+        "word": "禁用红蓝招牌这些问题待回应",
+        "onboard_time": 1744633942,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 490146,
+        "num": 390869,
+        "word": "白鹿体制内女友风",
+        "onboard_time": 1744625182,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 385771,
+        "num": 385771,
+        "word": "澳门永久性居民将获发1万澳门元",
+        "onboard_time": 1744624582,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 347610,
+        "num": 382059,
+        "word": "第一次见录一半全睡了的综艺",
+        "onboard_time": 1744619482,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 381467,
+        "num": 381467,
+        "word": "招牌禁用红蓝黑是权力的任性",
+        "onboard_time": 1744629022,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75545,
+        "num": 340493,
+        "word": "女儿病逝后夫妻为儿子选择安宁疗护",
+        "onboard_time": 1744634423,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 336993,
+        "num": 336993,
+        "word": "日本首相警告美国",
+        "onboard_time": 1744619003,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 324762,
+        "num": 324762,
+        "word": "东方卫视 檀健次",
+        "onboard_time": 1744629562,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261368,
+        "num": 261368,
+        "word": "芒果台丢下卤鹅哥那一刻",
+        "onboard_time": 1744623624,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 28070,
+        "num": 253849,
+        "word": "为赢钱溜进麻将馆给麻将牌装芯片",
+        "onboard_time": 1744634662,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252184,
+        "num": 252184,
+        "word": "江苏新增1名亿万富翁",
+        "onboard_time": 1744618163,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251657,
+        "num": 251657,
+        "word": "无忧渡",
+        "onboard_time": 1744629983,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248384,
+        "num": 248384,
+        "word": "美国低价蛋买不到高价蛋买不起",
+        "onboard_time": 1744632442,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 227790,
+        "num": 227790,
+        "word": "国产悬疑剧统统都吻上来了",
+        "onboard_time": 1744633882,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101788,
+        "num": 226327,
+        "word": "金城武44岁时的状态",
+        "onboard_time": 1744630282,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64931,
+        "num": 221701,
+        "word": "女子医美祛斑致面部九级伤残",
+        "onboard_time": 1744634363,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 809267,
+        "num": 219331,
+        "word": "球球 工作不是儿戏",
+        "onboard_time": 1744634662,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 208557,
+        "num": 214763,
+        "word": "无忧渡 聊斋味",
+        "onboard_time": 1744634122,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186618,
+        "num": 214004,
+        "word": "2025年悬疑剧最大的黑马",
+        "onboard_time": 1744634363,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210631,
+        "num": 210631,
+        "word": "心疼半夏",
+        "onboard_time": 1744634423,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209226,
+        "num": 209226,
+        "word": "第一个给艾米剪短发的人是天才",
+        "onboard_time": 1744634423,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192678,
+        "num": 192678,
+        "word": "90后一家四口为省钱住毛坯房称很满足",
+        "onboard_time": 1744632561,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191082,
+        "num": 191082,
+        "word": "景德镇车祸遇难婴儿差七天满周岁",
+        "onboard_time": 1744633762,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187866,
+        "num": 187866,
+        "word": "驻日大使馆提醒注意防范地震",
+        "onboard_time": 1744603703,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185760,
+        "num": 185760,
+        "word": "满江红2",
+        "onboard_time": 1744618402,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133649,
+        "num": 179316,
+        "word": "翟潇闻说直播知无不言",
+        "onboard_time": 1744634843,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179015,
+        "num": 179015,
+        "word": "何美延致歉",
+        "onboard_time": 1744627522,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158275,
+        "num": 158275,
+        "word": "五一抢票日历",
+        "onboard_time": 1744632321,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154149,
+        "num": 154149,
+        "word": "金价从3100美元飙至3200美元仅11天",
+        "onboard_time": 1744630522,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 142564,
+        "num": 142564,
+        "word": "折腰",
+        "onboard_time": 1744624041,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141930,
+        "num": 141930,
+        "word": "连续跑步70天的面部变化",
+        "onboard_time": 1744619361,
+        "rank": 44,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 177457,
+        "num": 140990,
+        "word": "何美延有严重的产后抑郁",
+        "onboard_time": 1744634482,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139203,
+        "num": 139203,
+        "word": "美卖家想找美国工厂生产没人回邮件",
+        "onboard_time": 1744624461,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 134995,
+        "num": 134995,
+        "word": "哪吒之魔童闹海票房破152亿",
+        "onboard_time": 1744626741,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134356,
+        "num": 134356,
+        "word": "你好星期六发了安全倡议书",
+        "onboard_time": 1744632681,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133692,
+        "num": 133692,
+        "word": "梁老师发监控视频自证",
+        "onboard_time": 1744634904,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平开始对越南进行国事访问#"
+    }
+  }
+}
