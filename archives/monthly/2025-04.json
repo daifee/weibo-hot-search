@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744640738548,
+  "endTime": 1744641866868,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -704,6 +704,14 @@
       "word": "4月10日12时01分",
       "onboard_time": 1744258643,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2024622,
+      "num": 2024622,
+      "word": "人民日报评禁用红蓝招牌",
+      "onboard_time": 1744633942,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -1497,14 +1505,6 @@
       "onboard_time": 1744160365,
       "rank": 3,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1483182,
-      "num": 1483182,
-      "word": "人民日报评禁用红蓝招牌",
-      "onboard_time": 1744633942,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1481554,
@@ -5179,6 +5179,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 708487,
+      "num": 622557,
+      "word": "关晓彤金发遛弯儿",
+      "onboard_time": 1744635864,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 707836,
       "num": 380772,
       "word": "任时完取关金秀贤",
@@ -5305,6 +5313,14 @@
       "onboard_time": 1744285102,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 691584,
+      "num": 607334,
+      "word": "撞死1家3口肇事者2次将油门踩到底",
+      "onboard_time": 1744638263,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 690225,
@@ -5873,14 +5889,6 @@
       "onboard_time": 1743483985,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 622557,
-      "num": 622557,
-      "word": "关晓彤金发遛弯儿",
-      "onboard_time": 1744635864,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 621424,
@@ -6603,6 +6611,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 564508,
+      "num": 564508,
+      "word": "咸鱼飞升",
+      "onboard_time": 1744637303,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 563320,
       "num": 563320,
       "word": "常州惊现200平1.5万元纸豪宅",
@@ -7289,14 +7305,6 @@
       "onboard_time": 1743475822,
       "rank": 4,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 519398,
-      "num": 519398,
-      "word": "咸鱼飞升",
-      "onboard_time": 1744637303,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 519278,
@@ -8339,6 +8347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 463856,
+      "num": 463856,
+      "word": "Jennie女王",
+      "onboard_time": 1744636162,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 462999,
       "num": 462999,
       "word": "隆化县医院已接收部分养老院火灾伤者",
@@ -8385,14 +8401,6 @@
       "onboard_time": 1743660683,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 459887,
-      "num": 459887,
-      "word": "Jennie女王",
-      "onboard_time": 1744636162,
-      "rank": 22,
-      "category": "演出"
     },
     {
       "raw_hot": 459865,
@@ -10321,14 +10329,6 @@
       "onboard_time": 1743679641,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 376451,
-      "num": 376451,
-      "word": "撞死1家3口肇事者2次将油门踩到底",
-      "onboard_time": 1744638263,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 376428,
@@ -13555,6 +13555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 286920,
+      "num": 286920,
+      "word": "时代峰峻暑假将启动家族打歌舞台",
+      "onboard_time": 1744640244,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 286516,
       "num": 184082,
       "word": "在缅华人视频通话时目睹妻儿被掩埋",
@@ -16267,6 +16275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 233853,
+      "num": 233853,
+      "word": "不少年轻人流行用iPhone6拍照",
+      "onboard_time": 1744637063,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 233769,
       "num": 211992,
       "word": "特斯拉市值一夜蒸发超6000亿",
@@ -18171,6 +18187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 211704,
+      "num": 208998,
+      "word": "30年累死20头牛的大爷",
+      "onboard_time": 1744641323,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 211638,
       "num": 211638,
       "word": "景区狗狗被关进狼舍吓得呜咽",
@@ -18537,6 +18561,14 @@
       "onboard_time": 1743779543,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 208967,
+      "num": 208967,
+      "word": "无忧渡内娱无代餐",
+      "onboard_time": 1744641084,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 208942,
@@ -19761,14 +19793,6 @@
       "onboard_time": 1743683841,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 199920,
-      "num": 271591,
-      "word": "时代峰峻暑假将启动家族打歌舞台",
-      "onboard_time": 1744640244,
-      "rank": 25,
-      "category": "演出"
     },
     {
       "raw_hot": 199909,
@@ -21321,6 +21345,14 @@
       "onboard_time": 1744435523,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190980,
+      "num": 190980,
+      "word": "Simon聊天记录完整版",
+      "onboard_time": 1744641204,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 190959,
@@ -22889,14 +22921,6 @@
       "onboard_time": 1744608804,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 181908,
-      "num": 181908,
-      "word": "不少年轻人流行用iPhone6拍照",
-      "onboard_time": 1744637063,
-      "rank": 45,
-      "category": "数码"
     },
     {
       "raw_hot": 181818,
@@ -25713,6 +25737,14 @@
       "onboard_time": 1744531944,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 163294,
+      "num": 163294,
+      "word": "哈妮克孜一滴泪演技",
+      "onboard_time": 1744640903,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 163216,
@@ -30515,6 +30547,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 136360,
+      "num": 136360,
+      "word": "陕西省考成绩",
+      "onboard_time": 1744640844,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 136321,
       "num": 136321,
       "word": "黄景瑜金晨体型差",
@@ -34651,6 +34691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115085,
+      "num": 115085,
+      "word": "王鹤棣共享三张海边碎片",
+      "onboard_time": 1744641743,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115026,
       "num": 115026,
       "word": "王嘉尔说没有粉丝自己什么都不是",
@@ -35145,6 +35193,14 @@
       "onboard_time": 1743940881,
       "rank": 47,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 111629,
+      "num": 320726,
+      "word": "2026冬奥会火炬发布",
+      "onboard_time": 1744639643,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 111614,
@@ -37139,6 +37195,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 95893,
+      "num": 1047382,
+      "word": "我国与东盟贸易互补不断增强",
+      "onboard_time": 1744638683,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 95634,
       "num": 319565,
       "word": "养娃路上的神队友",
@@ -37833,14 +37897,6 @@
       "onboard_time": 1744061774,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 87842,
-      "num": 1047382,
-      "word": "我国与东盟贸易互补不断增强",
-      "onboard_time": 1744638683,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 87532,
@@ -38833,14 +38889,6 @@
       "onboard_time": 1744250423,
       "rank": 14,
       "category": "财经"
-    },
-    {
-      "raw_hot": 76358,
-      "num": 320726,
-      "word": "2026冬奥会火炬发布",
-      "onboard_time": 1744639643,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 76272,
@@ -41315,6 +41363,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 48792,
+      "num": 327942,
+      "word": "带货主播称产品在外太空研究",
+      "onboard_time": 1744640604,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48771,
       "num": 319948,
       "word": "7级大风就会感觉步行困难",
@@ -41969,6 +42025,14 @@
       "onboard_time": 1744532902,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 42649,
+      "num": 647019,
+      "word": "尹锡悦涉嫌发动内乱案首次庭审举行",
+      "onboard_time": 1744640423,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 42561,
@@ -43427,6 +43491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29843,
+      "num": 632319,
+      "word": "亚太峰会",
+      "onboard_time": 1744638564,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 29819,
       "num": 42623,
       "word": "中俄对表重要纪念活动",
@@ -43713,14 +43785,6 @@
       "onboard_time": 1744049715,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 27529,
-      "num": 259452,
-      "word": "带货主播称产品在外太空研究",
-      "onboard_time": 1744640604,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 27518,
@@ -44665,14 +44729,6 @@
       "onboard_time": 1744335381,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 20075,
-      "num": 264101,
-      "word": "尹锡悦涉嫌发动内乱案首次庭审举行",
-      "onboard_time": 1744640423,
-      "rank": 27,
-      "category": "国际时政"
     },
     {
       "raw_hot": 20068,
@@ -46481,6 +46537,9 @@
     },
     {
       "word": "#把中越友好接力棒一代代传下去#"
+    },
+    {
+      "word": "#中越两国是山水相连的社会主义邻邦#"
     }
   ]
 }

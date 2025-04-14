@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744640738548,
+  "endTime": 1744641866868,
   "band_list": [
     {
       "raw_hot": 3336228,
@@ -57,6 +57,14 @@
       "onboard_time": 1744594581,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2024622,
+      "num": 2024622,
+      "word": "人民日报评禁用红蓝招牌",
+      "onboard_time": 1744633942,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1999599,
@@ -193,14 +201,6 @@
       "onboard_time": 1744514179,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1483182,
-      "num": 1483182,
-      "word": "人民日报评禁用红蓝招牌",
-      "onboard_time": 1744633942,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1459988,
@@ -771,6 +771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 708487,
+      "num": 622557,
+      "word": "关晓彤金发遛弯儿",
+      "onboard_time": 1744635864,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 706775,
       "num": 706775,
       "word": "折腰速抬",
@@ -801,6 +809,14 @@
       "onboard_time": 1744609763,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 691584,
+      "num": 607334,
+      "word": "撞死1家3口肇事者2次将油门踩到底",
+      "onboard_time": 1744638263,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 678327,
@@ -899,14 +915,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 622557,
-      "num": 622557,
-      "word": "关晓彤金发遛弯儿",
-      "onboard_time": 1744635864,
-      "rank": 27,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 619677,
       "num": 355791,
       "word": "宋雨琦 你要毁了我吗",
@@ -969,6 +977,14 @@
       "onboard_time": 1744504402,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 564508,
+      "num": 564508,
+      "word": "咸鱼飞升",
+      "onboard_time": 1744637303,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 561598,
@@ -1073,14 +1089,6 @@
       "onboard_time": 1744596861,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 519398,
-      "num": 519398,
-      "word": "咸鱼飞升",
-      "onboard_time": 1744637303,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 519130,
@@ -1227,8 +1235,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 459887,
-      "num": 459887,
+      "raw_hot": 463856,
+      "num": 463856,
       "word": "Jennie女王",
       "onboard_time": 1744636162,
       "rank": 22,
@@ -1505,14 +1513,6 @@
       "onboard_time": 1744600940,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 376451,
-      "num": 376451,
-      "word": "撞死1家3口肇事者2次将油门踩到底",
-      "onboard_time": 1744638263,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 374649,
@@ -1841,6 +1841,14 @@
       "onboard_time": 1744553605,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 286920,
+      "num": 286920,
+      "word": "时代峰峻暑假将启动家族打歌舞台",
+      "onboard_time": 1744640244,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 286292,
@@ -2259,6 +2267,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 233853,
+      "num": 233853,
+      "word": "不少年轻人流行用iPhone6拍照",
+      "onboard_time": 1744637063,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 232940,
       "num": 256651,
       "word": "全红婵被扔娃娃陈若琳下意识保护",
@@ -2611,6 +2627,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 211704,
+      "num": 208998,
+      "word": "30年累死20头牛的大爷",
+      "onboard_time": 1744641323,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 210631,
       "num": 210631,
       "word": "心疼半夏",
@@ -2673,6 +2697,14 @@
       "onboard_time": 1744614862,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 208967,
+      "num": 208967,
+      "word": "无忧渡内娱无代餐",
+      "onboard_time": 1744641084,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 208624,
@@ -2872,14 +2904,6 @@
       "word": "划区",
       "onboard_time": 1744518922,
       "rank": 32,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 199920,
-      "num": 271591,
-      "word": "时代峰峻暑假将启动家族打歌舞台",
-      "onboard_time": 1744640244,
-      "rank": 25,
       "category": "演出"
     },
     {
@@ -3097,6 +3121,14 @@
       "onboard_time": 1744637845,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 190980,
+      "num": 190980,
+      "word": "Simon聊天记录完整版",
+      "onboard_time": 1744641204,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 190910,
@@ -3329,14 +3361,6 @@
       "onboard_time": 1744608804,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 181908,
-      "num": 181908,
-      "word": "不少年轻人流行用iPhone6拍照",
-      "onboard_time": 1744637063,
-      "rank": 45,
-      "category": "数码"
     },
     {
       "raw_hot": 181807,
@@ -3801,6 +3825,14 @@
       "onboard_time": 1744531944,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 163294,
+      "num": 163294,
+      "word": "哈妮克孜一滴泪演技",
+      "onboard_time": 1744640903,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 162851,
@@ -4553,6 +4585,14 @@
       "onboard_time": 1744535183,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136360,
+      "num": 136360,
+      "word": "陕西省考成绩",
+      "onboard_time": 1744640844,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 136084,
@@ -5379,6 +5419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 115085,
+      "num": 115085,
+      "word": "王鹤棣共享三张海边碎片",
+      "onboard_time": 1744641743,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 114836,
       "num": 114836,
       "word": "许玮甯晒照为李靓蕾庆生",
@@ -5480,6 +5528,14 @@
       "word": "哈登统治勇士快船加时赛",
       "onboard_time": 1744592841,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 111629,
+      "num": 320726,
+      "word": "2026冬奥会火炬发布",
+      "onboard_time": 1744639643,
+      "rank": 19,
       "category": "体育"
     },
     {
@@ -5907,6 +5963,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 95893,
+      "num": 1047382,
+      "word": "我国与东盟贸易互补不断增强",
+      "onboard_time": 1744638683,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 94896,
       "num": 94896,
       "word": "快船vs勇士",
@@ -6043,14 +6107,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 87842,
-      "num": 1047382,
-      "word": "我国与东盟贸易互补不断增强",
-      "onboard_time": 1744638683,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 86408,
       "num": 86408,
       "word": "蒲熠星伤痕妆",
@@ -6169,14 +6225,6 @@
       "onboard_time": 1744618762,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 76358,
-      "num": 320726,
-      "word": "2026冬奥会火炬发布",
-      "onboard_time": 1744639643,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 74995,
@@ -6443,6 +6491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48792,
+      "num": 327942,
+      "word": "带货主播称产品在外太空研究",
+      "onboard_time": 1744640604,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48690,
       "num": 399242,
       "word": "室友电瓶燃爆致男生烧伤案新进展",
@@ -6585,6 +6641,14 @@
       "onboard_time": 1744532902,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 42649,
+      "num": 647019,
+      "word": "尹锡悦涉嫌发动内乱案首次庭审举行",
+      "onboard_time": 1744640423,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 42235,
@@ -6843,6 +6907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29843,
+      "num": 632319,
+      "word": "亚太峰会",
+      "onboard_time": 1744638564,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 29789,
       "num": 29789,
       "word": "胃接收不到正确的食物会变成无底洞",
@@ -6873,14 +6945,6 @@
       "onboard_time": 1744499599,
       "rank": 8,
       "category": "国际时政,财经"
-    },
-    {
-      "raw_hot": 27529,
-      "num": 259452,
-      "word": "带货主播称产品在外太空研究",
-      "onboard_time": 1744640604,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 27518,
@@ -7073,14 +7137,6 @@
       "onboard_time": 1744583536,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 20075,
-      "num": 264101,
-      "word": "尹锡悦涉嫌发动内乱案首次庭审举行",
-      "onboard_time": 1744640423,
-      "rank": 27,
-      "category": "国际时政"
     },
     {
       "raw_hot": 19345,
@@ -7354,6 +7410,9 @@
     },
     {
       "word": "#把中越友好接力棒一代代传下去#"
+    },
+    {
+      "word": "#中越两国是山水相连的社会主义邻邦#"
     }
   ]
 }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1744641866868,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2024622,
+        "num": 2024622,
+        "word": "人民日报评禁用红蓝招牌",
+        "onboard_time": 1744633942,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1442751,
+        "num": 1442751,
+        "word": "zmjjkk发博",
+        "onboard_time": 1744634603,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 95893,
+        "num": 855025,
+        "word": "我国与东盟贸易互补不断增强",
+        "onboard_time": 1744638683,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 786113,
+        "num": 786113,
+        "word": "折腰首更六集",
+        "onboard_time": 1744632862,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 667029,
+        "num": 667029,
+        "word": "作曲家去世四年后大脑还能编曲",
+        "onboard_time": 1744635563,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1407074,
+        "num": 666999,
+        "word": "蜜雪冰城招牌红改绿实在管太宽",
+        "onboard_time": 1744633162,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 665336,
+        "num": 665336,
+        "word": "EDG simon",
+        "onboard_time": 1744635743,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 647051,
+        "num": 647051,
+        "word": "成毅陈都灵邓为等火到马来西亚了",
+        "onboard_time": 1744632561,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42649,
+        "num": 647019,
+        "word": "尹锡悦涉嫌发动内乱案首次庭审举行",
+        "onboard_time": 1744640423,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 29843,
+        "num": 632319,
+        "word": "亚太峰会",
+        "onboard_time": 1744638564,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1122364,
+        "num": 621876,
+        "word": "梁老师发监控视频自证",
+        "onboard_time": 1744634904,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 708487,
+        "num": 611627,
+        "word": "关晓彤金发遛弯儿",
+        "onboard_time": 1744635864,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 691584,
+        "num": 607334,
+        "word": "撞死1家3口肇事者2次将油门踩到底",
+        "onboard_time": 1744638263,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 651863,
+        "num": 592895,
+        "word": "一家三口被撞身亡拒肇事方80万赔偿",
+        "onboard_time": 1744623624,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 588534,
+        "num": 588534,
+        "word": "Simon事件",
+        "onboard_time": 1744637063,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 564508,
+        "num": 564508,
+        "word": "咸鱼飞升",
+        "onboard_time": 1744637303,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 516252,
+        "num": 516252,
+        "word": "无忧渡折腰 对打",
+        "onboard_time": 1744636285,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 463856,
+        "num": 463856,
+        "word": "Jennie女王",
+        "onboard_time": 1744636162,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 455457,
+        "num": 455457,
+        "word": "THE9成员9人实到2人",
+        "onboard_time": 1744626683,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48792,
+        "num": 327942,
+        "word": "带货主播称产品在外太空研究",
+        "onboard_time": 1744640604,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 317432,
+        "num": 317432,
+        "word": "smoggy发博",
+        "onboard_time": 1744633822,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 286920,
+        "num": 286920,
+        "word": "时代峰峻暑假将启动家族打歌舞台",
+        "onboard_time": 1744640244,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 274054,
+        "num": 274054,
+        "word": "霍去病传奇改名风起大漠",
+        "onboard_time": 1744631002,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260180,
+        "num": 260180,
+        "word": "EDG无畏契约",
+        "onboard_time": 1744634662,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 250989,
+        "num": 250989,
+        "word": "白鹿体制内女友风",
+        "onboard_time": 1744625182,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239142,
+        "num": 239142,
+        "word": "第一次见录一半全睡了的综艺",
+        "onboard_time": 1744619482,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233853,
+        "num": 233853,
+        "word": "不少年轻人流行用iPhone6拍照",
+        "onboard_time": 1744637063,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 214206,
+        "num": 214206,
+        "word": "景德镇车祸遇难婴儿差七天满周岁",
+        "onboard_time": 1744633762,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209088,
+        "num": 209088,
+        "word": "张凌赫为粉丝减肥操碎了心",
+        "onboard_time": 1744637483,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196222,
+        "num": 209003,
+        "word": "驻日大使馆提醒注意防范地震",
+        "onboard_time": 1744603703,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211704,
+        "num": 208998,
+        "word": "30年累死20头牛的大爷",
+        "onboard_time": 1744641323,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208967,
+        "num": 208967,
+        "word": "无忧渡内娱无代餐",
+        "onboard_time": 1744641084,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208025,
+        "num": 208025,
+        "word": "曼谷往事",
+        "onboard_time": 1744638982,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 202277,
+        "num": 202277,
+        "word": "nobody发博",
+        "onboard_time": 1744634603,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 190980,
+        "num": 190980,
+        "word": "Simon聊天记录完整版",
+        "onboard_time": 1744641204,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 185396,
+        "num": 185396,
+        "word": "乘风2025四公帮唱歌单",
+        "onboard_time": 1744637604,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175756,
+        "num": 175756,
+        "word": "玩密室逃脱被NPC吓到摔破头住院",
+        "onboard_time": 1744638624,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172948,
+        "num": 172948,
+        "word": "冰岛发酵鲨鱼肉",
+        "onboard_time": 1744636942,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 163294,
+        "num": 163294,
+        "word": "哈妮克孜一滴泪演技",
+        "onboard_time": 1744640903,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161270,
+        "num": 161270,
+        "word": "冰岛 异食癖的故乡",
+        "onboard_time": 1744625482,
+        "rank": 39,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 154296,
+        "num": 154296,
+        "word": "折腰",
+        "onboard_time": 1744624041,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149855,
+        "num": 149855,
+        "word": "澳门永久性居民将获发1万澳门元",
+        "onboard_time": 1744624582,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147375,
+        "num": 147375,
+        "word": "山西男篮战胜广东男篮",
+        "onboard_time": 1744639643,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136360,
+        "num": 136360,
+        "word": "陕西省考成绩",
+        "onboard_time": 1744640844,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 135961,
+        "num": 135961,
+        "word": "芒果台丢下卤鹅哥那一刻",
+        "onboard_time": 1744623624,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135161,
+        "num": 135161,
+        "word": "日本首相警告美国",
+        "onboard_time": 1744619003,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 131795,
+        "num": 131795,
+        "word": "张若昀毛晓彤风起大漠75集",
+        "onboard_time": 1744629802,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119387,
+        "num": 119387,
+        "word": "球球 工作不是儿戏",
+        "onboard_time": 1744634662,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 115085,
+        "num": 115085,
+        "word": "王鹤棣共享三张海边碎片",
+        "onboard_time": 1744641743,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111629,
+        "num": 111629,
+        "word": "2026冬奥会火炬发布",
+        "onboard_time": 1744639643,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中越两国是山水相连的社会主义邻邦#"
+    }
+  }
+}
