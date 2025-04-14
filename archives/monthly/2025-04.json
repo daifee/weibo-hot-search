@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744627500654,
+  "endTime": 1744629667311,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -819,6 +819,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1918468,
+      "num": 1918468,
+      "word": "日本或发生巨大地震致29.8万人死亡",
+      "onboard_time": 1744624343,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1913224,
       "num": 1913224,
       "word": "宋祖儿正式回归",
@@ -900,7 +908,7 @@
     },
     {
       "raw_hot": 1860947,
-      "num": 414289,
+      "num": 424699,
       "word": "一家三口被撞身亡拒肇事方80万赔偿",
       "onboard_time": 1744623624,
       "rank": 44,
@@ -1001,14 +1009,6 @@
       "onboard_time": 1743477144,
       "rank": 20,
       "category": "演出"
-    },
-    {
-      "raw_hot": 1806688,
-      "num": 1806688,
-      "word": "日本或发生巨大地震致29.8万人死亡",
-      "onboard_time": 1744624343,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1805961,
@@ -3571,6 +3571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 909177,
+      "num": 909177,
+      "word": "THE9成员9人实到2人",
+      "onboard_time": 1744626683,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 907017,
       "num": 1145122,
       "word": "向鹏男单冠军",
@@ -4737,6 +4745,14 @@
       "onboard_time": 1744510941,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 738905,
+      "num": 416199,
+      "word": "白鹿体制内女友风",
+      "onboard_time": 1744625182,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 738805,
@@ -5953,14 +5969,6 @@
       "onboard_time": 1743775463,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 601974,
-      "num": 406995,
-      "word": "白鹿体制内女友风",
-      "onboard_time": 1744625182,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 601658,
@@ -7619,6 +7627,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 493716,
+      "num": 493716,
+      "word": "澳门永久性居民将获发1万澳门元",
+      "onboard_time": 1744624582,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 493575,
       "num": 507125,
       "word": "柯淳新剧纯情男高",
@@ -8185,14 +8201,6 @@
       "onboard_time": 1744300821,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 463054,
-      "num": 463054,
-      "word": "THE9成员9人实到2人",
-      "onboard_time": 1744626683,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 462999,
@@ -10587,6 +10595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 362091,
+      "num": 362091,
+      "word": "何美延致歉",
+      "onboard_time": 1744627522,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 361851,
       "num": 361851,
       "word": "孟子坤 未成年",
@@ -12809,14 +12825,6 @@
       "onboard_time": 1743513383,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 297842,
-      "num": 408438,
-      "word": "澳门永久性居民将获发1万澳门元",
-      "onboard_time": 1744624582,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 297623,
@@ -15779,6 +15787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 237943,
+      "num": 237943,
+      "word": "阴阳师",
+      "onboard_time": 1744094542,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 237820,
       "num": 383207,
       "word": "雁回时oe",
@@ -16081,6 +16097,14 @@
       "onboard_time": 1743652222,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 232940,
+      "num": 256651,
+      "word": "全红婵被扔娃娃陈若琳下意识保护",
+      "onboard_time": 1744626322,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 232779,
@@ -17611,6 +17635,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 214546,
+      "num": 1236071,
+      "word": "美国关税政策乱上加乱",
+      "onboard_time": 1744619303,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 214509,
       "num": 1063451,
       "word": "白天PPT晚上八段锦",
@@ -18739,14 +18771,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 205559,
-      "num": 1236071,
-      "word": "美国关税政策乱上加乱",
-      "onboard_time": 1744619303,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 205520,
       "num": 205520,
       "word": "以为是莞莞类卿其实是正主纯元",
@@ -18825,14 +18849,6 @@
       "onboard_time": 1744083803,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 204718,
-      "num": 256651,
-      "word": "全红婵被扔娃娃陈若琳下意识保护",
-      "onboard_time": 1744626322,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 204685,
@@ -20775,6 +20791,14 @@
       "num": 192169,
       "word": "值得爱",
       "onboard_time": 1743689363,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 192159,
+      "num": 192159,
+      "word": "杨紫李现锦绣芳华过审下证了",
+      "onboard_time": 1744627764,
       "rank": 26,
       "category": "剧集"
     },
@@ -24187,6 +24211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 170841,
+      "num": 170841,
+      "word": "虞书欣一周拿下三代言",
+      "onboard_time": 1744627403,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 170769,
       "num": 170769,
       "word": "会计毕业生一块一顿饭",
@@ -24353,14 +24385,6 @@
       "onboard_time": 1743649462,
       "rank": 12,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 169084,
-      "num": 169084,
-      "word": "阴阳师",
-      "onboard_time": 1744094542,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 169081,
@@ -24961,6 +24985,14 @@
       "onboard_time": 1744015642,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 165415,
+      "num": 165415,
+      "word": "网友偶遇吴世勋吃饭",
+      "onboard_time": 1744628602,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 165378,
@@ -25689,6 +25721,14 @@
       "onboard_time": 1744093763,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160830,
+      "num": 409562,
+      "word": "景德镇车祸遇难者家属拒绝赔偿和养老",
+      "onboard_time": 1744625722,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160806,
@@ -27340,7 +27380,7 @@
     },
     {
       "raw_hot": 150633,
-      "num": 150633,
+      "num": 265241,
       "word": "教育部门通报学校禁止教师考公考编",
       "onboard_time": 1744624822,
       "rank": 34,
@@ -28467,6 +28507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144834,
+      "num": 144834,
+      "word": "DANIEL公式照",
+      "onboard_time": 1744629442,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 144767,
       "num": 144767,
       "word": "虞书欣开箱自己的小卡",
@@ -28745,6 +28793,14 @@
       "onboard_time": 1743514464,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 143400,
+      "num": 143400,
+      "word": "东方卫视 檀健次",
+      "onboard_time": 1744629562,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 143392,
@@ -30275,6 +30331,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 135240,
+      "num": 135240,
+      "word": "中国暂停3家美企输华资质",
+      "onboard_time": 1744628541,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 135239,
       "num": 135239,
       "word": "赴山海下证",
@@ -31635,6 +31699,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 128819,
+      "num": 128819,
+      "word": "JUSTIN公式照",
+      "onboard_time": 1744629502,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128804,
       "num": 128804,
       "word": "常见的低血糖也会致人死亡",
@@ -32283,14 +32355,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 125066,
-      "num": 125066,
-      "word": "虞书欣一周拿下三代言",
-      "onboard_time": 1744627403,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 125053,
       "num": 125053,
       "word": "北上广的跑步状态是两种极端",
@@ -32569,6 +32633,14 @@
       "onboard_time": 1744599861,
       "rank": 25,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 123681,
+      "num": 123681,
+      "word": "马嘉祺对柳絮的理解太到位了",
+      "onboard_time": 1744629201,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 123662,
@@ -33115,6 +33187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120449,
+      "num": 120449,
+      "word": "考研上岸后与室友关系变差了",
+      "onboard_time": 1744628243,
+      "rank": 47,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 120440,
       "num": 120440,
       "word": "宋妍霏来浪姐目的不单纯",
@@ -33233,6 +33313,14 @@
       "onboard_time": 1744550543,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 119973,
+      "num": 119973,
+      "word": "论文亲子鉴定显示是我亲生的",
+      "onboard_time": 1744628781,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 119940,
@@ -33513,6 +33601,14 @@
       "onboard_time": 1743635419,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 118417,
+      "num": 405701,
+      "word": "国乒教练组也卷起来了",
+      "onboard_time": 1744627041,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 118351,
@@ -34697,6 +34793,14 @@
       "onboard_time": 1744543942,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111233,
+      "num": 180908,
+      "word": "周琦受伤",
+      "onboard_time": 1744629321,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 111228,
@@ -36651,6 +36755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94503,
+      "num": 429636,
+      "word": "欧洲掀起抵制美国产品浪潮",
+      "onboard_time": 1744628962,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 94485,
       "num": 94485,
       "word": "当同一个色号在冷白皮和黄黑皮上",
@@ -37011,6 +37123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 90738,
+      "num": 227097,
+      "word": "米兰科尔蒂纳冬奥会火炬设计公布",
+      "onboard_time": 1744628003,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90710,
       "num": 375633,
       "word": "家国永念致敬英雄",
@@ -37129,14 +37249,6 @@
       "onboard_time": 1743946583,
       "rank": 22,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 89136,
-      "num": 409562,
-      "word": "景德镇车祸遇难者家属拒绝赔偿和养老",
-      "onboard_time": 1744625722,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 88985,
@@ -40667,14 +40779,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 49232,
-      "num": 405701,
-      "word": "国乒教练组也卷起来了",
-      "onboard_time": 1744627041,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 49070,
       "num": 218859,
       "word": "原来这么多汽车客运站默默消失了",
@@ -41529,6 +41633,14 @@
       "onboard_time": 1744391839,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 40866,
+      "num": 392586,
+      "word": "招牌禁用红蓝黑是权力的任性",
+      "onboard_time": 1744629022,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40819,
@@ -45129,6 +45241,14 @@
       "onboard_time": 1744021283,
       "rank": 39,
       "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 11492,
+      "num": 180494,
+      "word": "鲍春来带亚锦赛吉祥物出镜",
+      "onboard_time": 1744629442,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 11360,
