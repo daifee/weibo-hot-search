@@ -1,0 +1,410 @@
+{
+  "runTime": 1744600283202,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1287554,
+        "num": 1287554,
+        "word": "金价",
+        "onboard_time": 1744593981,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1172471,
+        "num": 1172471,
+        "word": "哪吒汽车原CEO张勇被曝已在英国",
+        "onboard_time": 1744596562,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 222424,
+        "num": 563602,
+        "word": "大张旗鼓加税偷偷摸摸豁免",
+        "onboard_time": 1744553605,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1366974,
+        "num": 552427,
+        "word": "全红婵 那咋了这就破防了",
+        "onboard_time": 1744594581,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 489849,
+        "num": 489849,
+        "word": "奔跑吧13定档了",
+        "onboard_time": 1744596861,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 424321,
+        "num": 424321,
+        "word": "马斯克发文暗示经济全球化",
+        "onboard_time": 1744593742,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 387277,
+        "num": 387277,
+        "word": "略萨去世",
+        "onboard_time": 1744597043,
+        "rank": 6,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 383132,
+        "num": 383132,
+        "word": "越南人有多爱中国电视剧",
+        "onboard_time": 1744599801,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 379877,
+        "num": 379877,
+        "word": "当年都以为奔跑吧兄弟没有第二季",
+        "onboard_time": 1744589482,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 344858,
+        "num": 344858,
+        "word": "奥斯卡影帝把中国龙穿在身",
+        "onboard_time": 1744592962,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 596892,
+        "num": 344383,
+        "word": "男演员退圈回老家赶集摆摊",
+        "onboard_time": 1744559242,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 467263,
+        "num": 341084,
+        "word": "李佳琦不建议普通女生做医美",
+        "onboard_time": 1744543761,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 337736,
+        "num": 337736,
+        "word": "全妹多来点王楚钦怼脸拍",
+        "onboard_time": 1744596621,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 259583,
+        "num": 259583,
+        "word": "人民币成全球第三大贸易融资货币",
+        "onboard_time": 1744587200,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 195951,
+        "num": 241224,
+        "word": "高校通报老师诱骗女学生恋爱",
+        "onboard_time": 1744598901,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232980,
+        "num": 232980,
+        "word": "时代少年团太原演唱会官方回复",
+        "onboard_time": 1744594521,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 212964,
+        "num": 212964,
+        "word": "白鹿说这一季轻装上阵",
+        "onboard_time": 1744599081,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204319,
+        "num": 204319,
+        "word": "严格依法实施各项对美反制措施",
+        "onboard_time": 1744599741,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 203330,
+        "num": 203330,
+        "word": "外媒问哪来的自信幻想中国人会跪",
+        "onboard_time": 1744558163,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 67495,
+        "num": 202918,
+        "word": "专家解读择机降准降息",
+        "onboard_time": 1744598360,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 309161,
+        "num": 199168,
+        "word": "你洗过你的防晒口罩吗",
+        "onboard_time": 1744598481,
+        "rank": 20,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 259351,
+        "num": 194054,
+        "word": "八百年不联系的室友以为我没考上研",
+        "onboard_time": 1744598540,
+        "rank": 21,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 250615,
+        "num": 188949,
+        "word": "问界M8太能造了",
+        "onboard_time": 1744598780,
+        "rank": 22,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 247696,
+        "num": 186497,
+        "word": "临近退休遭解聘老师退休前工资2000",
+        "onboard_time": 1744588521,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185264,
+        "num": 185264,
+        "word": "女生替去世前男友照顾家人还债60万",
+        "onboard_time": 1744554864,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114259,
+        "num": 179476,
+        "word": "AI进入药房会取代药师吗",
+        "onboard_time": 1744599861,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 173988,
+        "num": 173988,
+        "word": "种地吧",
+        "onboard_time": 1744598301,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156099,
+        "num": 169116,
+        "word": "黄圣依晒与陈梦程潇李嘉格合照",
+        "onboard_time": 1744590622,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183156,
+        "num": 168936,
+        "word": "灿如繁星将开机",
+        "onboard_time": 1744594639,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65398,
+        "num": 167095,
+        "word": "单晓娜2比2伯格斯特隆",
+        "onboard_time": 1744599920,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166838,
+        "num": 166838,
+        "word": "剑网3联动仙剑奇侠传一",
+        "onboard_time": 1744597700,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 181806,
+        "num": 165401,
+        "word": "网曝超市将馒头扔地上给大爷大妈抢",
+        "onboard_time": 1744561520,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163422,
+        "num": 163422,
+        "word": "英国反华议员赴香港探亲被拒入境",
+        "onboard_time": 1744590261,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 155668,
+        "num": 155668,
+        "word": "海关总署最新回应",
+        "onboard_time": 1744599861,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 103308,
+        "num": 150431,
+        "word": "哪吒汽车被执行金额超1.6亿",
+        "onboard_time": 1744600101,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 150399,
+        "num": 150399,
+        "word": "纽约坠毁直升机飞行员曾报告复飞",
+        "onboard_time": 1744592480,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 141828,
+        "num": 141828,
+        "word": "145%关税让1只熊猫玩偶卖80美元",
+        "onboard_time": 1744537883,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 140183,
+        "num": 140183,
+        "word": "段奥娟唱歌皱眉",
+        "onboard_time": 1744599920,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 36904,
+        "num": 139127,
+        "word": "大阪世博会状况百出",
+        "onboard_time": 1744599382,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 25692,
+        "num": 138511,
+        "word": "急性心梗如何自救",
+        "onboard_time": 1744599741,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 138247,
+        "num": 138247,
+        "word": "祝绪丹 丁禹兮是弟弟不能选",
+        "onboard_time": 1744556663,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134557,
+        "num": 134557,
+        "word": "多种疾病的前期症状与春困很像",
+        "onboard_time": 1744598239,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 130331,
+        "num": 130331,
+        "word": "亚马逊出售的商品六七成来自中国",
+        "onboard_time": 1744590682,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 129252,
+        "num": 129252,
+        "word": "关晓彤新剧短发路透",
+        "onboard_time": 1744590862,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126889,
+        "num": 126889,
+        "word": "印度少女遭贩卖逃脱被警方强制送回",
+        "onboard_time": 1744582636,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 122227,
+        "num": 126449,
+        "word": "惊蛰无声开通官微",
+        "onboard_time": 1744598780,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126262,
+        "num": 126262,
+        "word": "白桃星座",
+        "onboard_time": 1744600160,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122354,
+        "num": 122354,
+        "word": "xmx EDG",
+        "onboard_time": 1744596501,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 121414,
+        "num": 121414,
+        "word": "章昊谈去世粉丝",
+        "onboard_time": 1744595602,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117542,
+        "num": 117542,
+        "word": "张远演唱会嘉宾王心凌",
+        "onboard_time": 1744599920,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#中越山水相连文化相通#"
+    }
+  }
+}

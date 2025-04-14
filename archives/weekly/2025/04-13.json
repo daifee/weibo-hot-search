@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744597103709,
+  "endTime": 1744600283202,
   "band_list": [
     {
       "raw_hot": 3004197,
@@ -115,6 +115,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 1287554,
+      "num": 1287554,
+      "word": "金价",
+      "onboard_time": 1744593981,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1267929,
       "num": 690421,
       "word": "张小婉回应踩了谢娜裙子",
@@ -145,6 +153,14 @@
       "onboard_time": 1744528100,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1172471,
+      "num": 1172471,
+      "word": "哪吒汽车原CEO张勇被曝已在英国",
+      "onboard_time": 1744596562,
+      "rank": 12,
+      "category": "汽车"
     },
     {
       "raw_hot": 1169012,
@@ -515,14 +531,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 602521,
-      "num": 602521,
-      "word": "金价",
-      "onboard_time": 1744593981,
-      "rank": 8,
-      "category": "财经"
-    },
-    {
       "raw_hot": 593732,
       "num": 593732,
       "word": "当年都以为奔跑吧兄弟没有第二季",
@@ -707,6 +715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 489849,
+      "num": 489849,
+      "word": "奔跑吧13定档了",
+      "onboard_time": 1744596861,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 469940,
       "num": 469940,
       "word": "陈芋汐两连冠后发博",
@@ -803,6 +819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 424321,
+      "num": 424321,
+      "word": "马斯克发文暗示经济全球化",
+      "onboard_time": 1744593742,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 423148,
       "num": 423148,
       "word": "薛小婉晒出起诉韩安冉的判决书",
@@ -881,6 +905,22 @@
       "onboard_time": 1744533801,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 387277,
+      "num": 387277,
+      "word": "略萨去世",
+      "onboard_time": 1744597043,
+      "rank": 48,
+      "category": "读书作家"
+    },
+    {
+      "raw_hot": 383132,
+      "num": 383132,
+      "word": "越南人有多爱中国电视剧",
+      "onboard_time": 1744599801,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 370690,
@@ -979,20 +1019,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 345424,
-      "num": 345424,
-      "word": "哪吒汽车原CEO张勇被曝已在英国",
-      "onboard_time": 1744596562,
-      "rank": 12,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 338562,
       "num": 648025,
       "word": "90艘货船正从中国驶向美国",
       "onboard_time": 1744457063,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 337736,
+      "num": 337736,
+      "word": "全妹多来点王楚钦怼脸拍",
+      "onboard_time": 1744596621,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 331809,
@@ -1009,14 +1049,6 @@
       "onboard_time": 1744499478,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 326046,
-      "num": 326046,
-      "word": "马斯克发文暗示经济全球化",
-      "onboard_time": 1744593742,
-      "rank": 13,
-      "category": "国际时政"
     },
     {
       "raw_hot": 324785,
@@ -1065,6 +1097,14 @@
       "onboard_time": 1744554202,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 309161,
+      "num": 199168,
+      "word": "你洗过你的防晒口罩吗",
+      "onboard_time": 1744598481,
+      "rank": 20,
+      "category": "美妆"
     },
     {
       "raw_hot": 308196,
@@ -1219,6 +1259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 259351,
+      "num": 194054,
+      "word": "八百年不联系的室友以为我没考上研",
+      "onboard_time": 1744598540,
+      "rank": 21,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 258003,
       "num": 258003,
       "word": "丁禹兮线上线下宣传齐思钧新书",
@@ -1257,6 +1305,14 @@
       "onboard_time": 1744594521,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 250615,
+      "num": 188949,
+      "word": "问界M8太能造了",
+      "onboard_time": 1744598780,
+      "rank": 22,
+      "category": "汽车"
     },
     {
       "raw_hot": 250497,
@@ -1531,6 +1587,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 212964,
+      "num": 212964,
+      "word": "白鹿说这一季轻装上阵",
+      "onboard_time": 1744599081,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 212561,
       "num": 196461,
       "word": "Nicholas公式照",
@@ -1651,6 +1715,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 204319,
+      "num": 204319,
+      "word": "严格依法实施各项对美反制措施",
+      "onboard_time": 1744599741,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 203901,
       "num": 203901,
       "word": "大爷唯一吃过的苦就是当保安了",
@@ -1761,6 +1833,14 @@
       "onboard_time": 1744595602,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195951,
+      "num": 241224,
+      "word": "高校通报老师诱骗女学生恋爱",
+      "onboard_time": 1744598901,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 195614,
@@ -2027,6 +2107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173988,
+      "num": 173988,
+      "word": "种地吧",
+      "onboard_time": 1744483875,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172895,
       "num": 315913,
       "word": "美国店主很害怕母亲节生意彻底泡汤",
@@ -2065,14 +2153,6 @@
       "onboard_time": 1744594881,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 171274,
-      "num": 171274,
-      "word": "奔跑吧13定档了",
-      "onboard_time": 1744596861,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 171072,
@@ -2145,6 +2225,14 @@
       "onboard_time": 1744536742,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 166838,
+      "num": 166838,
+      "word": "剑网3联动仙剑奇侠传一",
+      "onboard_time": 1744597700,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 166438,
@@ -2299,6 +2387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 155668,
+      "num": 155668,
+      "word": "海关总署最新回应",
+      "onboard_time": 1744599861,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 154806,
       "num": 154806,
       "word": "周深人不能在同一处被刀两次",
@@ -2377,6 +2473,14 @@
       "onboard_time": 1744520482,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 150399,
+      "num": 180525,
+      "word": "纽约坠毁直升机飞行员曾报告复飞",
+      "onboard_time": 1744592480,
+      "rank": 42,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 149783,
@@ -2539,14 +2643,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 141093,
-      "num": 180525,
-      "word": "纽约坠毁直升机飞行员曾报告复飞",
-      "onboard_time": 1744592480,
-      "rank": 42,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 141089,
       "num": 141089,
       "word": "王宝强才是邓超名场面的见证者",
@@ -2561,6 +2657,14 @@
       "onboard_time": 1744521442,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 140183,
+      "num": 140183,
+      "word": "段奥娟唱歌皱眉",
+      "onboard_time": 1744599920,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 139956,
@@ -2721,6 +2825,14 @@
       "onboard_time": 1744554504,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134557,
+      "num": 134557,
+      "word": "多种疾病的前期症状与春困很像",
+      "onboard_time": 1744598239,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 134555,
@@ -3027,6 +3139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122227,
+      "num": 126449,
+      "word": "惊蛰无声开通官微",
+      "onboard_time": 1744598780,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122139,
       "num": 122139,
       "word": "梁祯元身材",
@@ -3147,6 +3267,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 117542,
+      "num": 117542,
+      "word": "张远演唱会嘉宾王心凌",
+      "onboard_time": 1744599920,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 117476,
       "num": 117476,
       "word": "鞠婧祎这么权威的一张脸",
@@ -3233,6 +3361,14 @@
       "onboard_time": 1744539742,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114259,
+      "num": 179476,
+      "word": "AI进入药房会取代药师吗",
+      "onboard_time": 1744599861,
+      "rank": 25,
+      "category": "互联网"
     },
     {
       "raw_hot": 114130,
@@ -3451,6 +3587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103308,
+      "num": 150431,
+      "word": "哪吒汽车被执行金额超1.6亿",
+      "onboard_time": 1744600101,
+      "rank": 34,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 102523,
       "num": 102523,
       "word": "跳水世界杯中国队单日4金2银",
@@ -3547,14 +3691,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 99930,
-      "num": 99930,
-      "word": "全妹多来点王楚钦怼脸拍",
-      "onboard_time": 1744596621,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 99860,
       "num": 142678,
       "word": "中越经贸合作成果丰硕",
@@ -3577,14 +3713,6 @@
       "onboard_time": 1744521801,
       "rank": 29,
       "category": "演出"
-    },
-    {
-      "raw_hot": 99260,
-      "num": 99260,
-      "word": "略萨去世",
-      "onboard_time": 1744597043,
-      "rank": 48,
-      "category": "读书作家"
     },
     {
       "raw_hot": 99073,
@@ -3891,12 +4019,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67495,
+      "num": 202918,
+      "word": "专家解读择机降准降息",
+      "onboard_time": 1744598360,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 67269,
       "num": 166541,
       "word": "直击内蒙古暴雪天气救援现场",
       "onboard_time": 1744547062,
       "rank": 28,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 65398,
+      "num": 167095,
+      "word": "单晓娜2比2伯格斯特隆",
+      "onboard_time": 1744599920,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 64296,
@@ -4155,6 +4299,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 36904,
+      "num": 139127,
+      "word": "大阪世博会状况百出",
+      "onboard_time": 1744599382,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 35652,
       "num": 94411,
       "word": "赵继伟说新疆男篮给我们上了一课",
@@ -4235,6 +4387,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 25692,
+      "num": 138511,
+      "word": "急性心梗如何自救",
+      "onboard_time": 1744599741,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 25352,
       "num": 253048,
       "word": "美国宾州州长官邸遭纵火",
@@ -4313,14 +4473,6 @@
       "onboard_time": 1744587080,
       "rank": 17,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 20449,
-      "num": 26146,
-      "word": "种地吧",
-      "onboard_time": 1744483875,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 20308,
