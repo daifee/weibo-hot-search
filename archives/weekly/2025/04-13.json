@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744613371935,
+  "endTime": 1744615517641,
   "band_list": [
     {
       "raw_hot": 3004197,
@@ -225,6 +225,14 @@
       "onboard_time": 1744465225,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1163762,
+      "num": 1186201,
+      "word": "杨幂圆梦了",
+      "onboard_time": 1744612043,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 1162291,
@@ -473,6 +481,14 @@
       "onboard_time": 1744582636,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 768927,
+      "num": 768927,
+      "word": "工作时猝死抢救超48小时无法认定工伤",
+      "onboard_time": 1744612702,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 740131,
@@ -795,6 +811,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 507021,
+      "num": 507021,
+      "word": "景德镇车祸肇事方已转让店面",
+      "onboard_time": 1744611443,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 505709,
       "num": 505709,
       "word": "驻日大使馆提醒注意防范地震",
@@ -923,6 +947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 455020,
+      "num": 446045,
+      "word": "找工作被要求得过诺贝尔奖",
+      "onboard_time": 1744610302,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 454633,
       "num": 348233,
       "word": "章若楠中国人民大学路演",
@@ -945,14 +977,6 @@
       "onboard_time": 1744516221,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 446045,
-      "num": 446045,
-      "word": "找工作被要求得过诺贝尔奖",
-      "onboard_time": 1744610302,
-      "rank": 13,
-      "category": "幽默"
     },
     {
       "raw_hot": 443795,
@@ -1051,6 +1075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 416154,
+      "num": 416154,
+      "word": "特朗普的关税政策又变了",
+      "onboard_time": 1744613962,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 414356,
       "num": 414356,
       "word": "特朗普称将在下周一公布半导体关税细节",
@@ -1124,7 +1156,7 @@
     },
     {
       "raw_hot": 385859,
-      "num": 763626,
+      "num": 796320,
       "word": "中式奶茶成为越南年轻人的新宠",
       "onboard_time": 1744602442,
       "rank": 2,
@@ -1251,6 +1283,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 344313,
+      "num": 266385,
+      "word": "早买早祛魅",
+      "onboard_time": 1744613843,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 338562,
       "num": 648025,
       "word": "90艘货船正从中国驶向美国",
@@ -1265,6 +1305,14 @@
       "onboard_time": 1744596621,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 332515,
+      "num": 259862,
+      "word": "小孩跳楼砸坏新车家长只赔几百",
+      "onboard_time": 1744613062,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 331809,
@@ -1313,14 +1361,6 @@
       "onboard_time": 1744539262,
       "rank": 47,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 322479,
-      "num": 322479,
-      "word": "杨幂圆梦了",
-      "onboard_time": 1744612043,
-      "rank": 34,
-      "category": "电影"
     },
     {
       "raw_hot": 321794,
@@ -1531,20 +1571,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 268777,
+      "num": 500930,
+      "word": "王皓陪练王楚钦",
+      "onboard_time": 1744611443,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 267658,
       "num": 193697,
       "word": "无忧渡 无磨皮",
       "onboard_time": 1744455144,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 264573,
-      "num": 500930,
-      "word": "王皓陪练王楚钦",
-      "onboard_time": 1744611443,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 264054,
@@ -1633,14 +1673,6 @@
       "onboard_time": 1744549883,
       "rank": 23,
       "category": "网红"
-    },
-    {
-      "raw_hot": 250167,
-      "num": 250167,
-      "word": "景德镇车祸肇事方已转让店面",
-      "onboard_time": 1744611443,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 248880,
@@ -1745,6 +1777,14 @@
       "onboard_time": 1744507522,
       "rank": 24,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 232155,
+      "num": 232155,
+      "word": "金饰价格涨破1000元",
+      "onboard_time": 1744610003,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 230910,
@@ -1905,6 +1945,14 @@
       "onboard_time": 1744604544,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 216831,
+      "num": 291833,
+      "word": "张艺谋刘耀文再合作",
+      "onboard_time": 1744612523,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 215629,
@@ -2299,14 +2347,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 195479,
-      "num": 291833,
-      "word": "张艺谋刘耀文再合作",
-      "onboard_time": 1744612523,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
       "raw_hot": 193636,
       "num": 193636,
       "word": "五哈",
@@ -2483,12 +2523,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 182833,
+      "num": 182833,
+      "word": "日本没有考虑对美征收报复性关税",
+      "onboard_time": 1744610302,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 182552,
       "num": 182552,
       "word": "章昊谈爱豆的责任",
       "onboard_time": 1744560442,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 182341,
+      "num": 182341,
+      "word": "三河牌匾变色疑因领导说要脱俗",
+      "onboard_time": 1744614862,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 182324,
@@ -2611,14 +2667,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 176171,
-      "num": 176171,
-      "word": "日本没有考虑对美征收报复性关税",
-      "onboard_time": 1744610302,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 176149,
       "num": 176149,
       "word": "昙花一现你见过吗",
@@ -2633,6 +2681,14 @@
       "onboard_time": 1744512801,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 175797,
+      "num": 175797,
+      "word": "苹果首款折叠屏配置",
+      "onboard_time": 1744614203,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 175064,
@@ -2795,14 +2851,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 166728,
-      "num": 228929,
-      "word": "金饰价格涨破1000元",
-      "onboard_time": 1744610003,
-      "rank": 42,
-      "category": "财经"
-    },
-    {
       "raw_hot": 166438,
       "num": 394941,
       "word": "金价今年已刷新历史高点超20次",
@@ -2825,6 +2873,14 @@
       "onboard_time": 1744550842,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 165643,
+      "num": 165643,
+      "word": "汪苏泷南昌",
+      "onboard_time": 1744615282,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 164827,
@@ -2937,6 +2993,14 @@
       "onboard_time": 1744551203,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159839,
+      "num": 159839,
+      "word": "家属讲述司机泄愤撞死一家三口案细节",
+      "onboard_time": 1744614743,
+      "rank": 34,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 158876,
@@ -3057,6 +3121,14 @@
       "onboard_time": 1744514302,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153332,
+      "num": 153332,
+      "word": "超3万款母婴产品可享江西育儿补贴",
+      "onboard_time": 1744614561,
+      "rank": 36,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 152916,
@@ -3217,6 +3289,14 @@
       "onboard_time": 1744557022,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144767,
+      "num": 144767,
+      "word": "虞书欣开箱自己的小卡",
+      "onboard_time": 1744613782,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 143661,
@@ -3491,14 +3571,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 136387,
-      "num": 136387,
-      "word": "小孩跳楼砸坏新车家长只赔几百",
-      "onboard_time": 1744613062,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 136084,
       "num": 136084,
       "word": "老板扛20斤硬币付工资法官让其清点",
@@ -3715,6 +3787,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 130022,
+      "num": 130022,
+      "word": "汪苏泷南昌抢票",
+      "onboard_time": 1744614982,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 129941,
       "num": 129941,
       "word": "周深灯火里的中国又火了一轮",
@@ -3811,6 +3891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127278,
+      "num": 261082,
+      "word": "美国进口订单出现崩溃迹象",
+      "onboard_time": 1744614682,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 126960,
       "num": 126960,
       "word": "张杰玩游戏输在了歌太多",
@@ -3849,6 +3937,22 @@
       "onboard_time": 1744542622,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124709,
+      "num": 124709,
+      "word": "A股放量三大指数上涨",
+      "onboard_time": 1744615401,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 124243,
+      "num": 124243,
+      "word": "只有新疆人才知道的吃馕方法",
+      "onboard_time": 1744615282,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 124030,
@@ -3952,6 +4056,22 @@
       "word": "蒋梦婕真人版江尤娜",
       "onboard_time": 1744521922,
       "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 120625,
+      "num": 120625,
+      "word": "王一博王编辑值班",
+      "onboard_time": 1744615461,
+      "rank": 47,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 120440,
+      "num": 120440,
+      "word": "宋妍霏来浪姐目的不单纯",
+      "onboard_time": 1744613663,
+      "rank": 48,
       "category": "综艺"
     },
     {
@@ -4675,6 +4795,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 86462,
+      "num": 182522,
+      "word": "陈雨菲分享和樊振东互关经历",
+      "onboard_time": 1744614561,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86408,
       "num": 86408,
       "word": "蒲熠星伤痕妆",
@@ -4987,14 +5115,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 47545,
-      "num": 346993,
-      "word": "工作时猝死抢救超48小时无法认定工伤",
-      "onboard_time": 1744612702,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 47331,
       "num": 180041,
       "word": "国足将主场对战巴林",
@@ -5035,6 +5155,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46134,
+      "num": 125306,
+      "word": "大消费股全线大涨",
+      "onboard_time": 1744609882,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 45654,
+      "num": 182365,
+      "word": "25秒回顾澳门世界杯抽签仪式现场",
+      "onboard_time": 1744614023,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 45606,
       "num": 335589,
       "word": "游客进景区未买门票被掀翻帐篷",
@@ -5068,7 +5204,7 @@
     },
     {
       "raw_hot": 42823,
-      "num": 179784,
+      "num": 182544,
       "word": "前掘金主帅马龙告别信",
       "onboard_time": 1744611981,
       "rank": 29,
@@ -5217,6 +5353,14 @@
       "onboard_time": 1744599382,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 36076,
+      "num": 182644,
+      "word": "2026冬奥会火炬设计即将揭晓",
+      "onboard_time": 1744614441,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 35652,
