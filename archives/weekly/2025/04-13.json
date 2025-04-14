@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744659364217,
+  "endTime": 1744662452655,
   "band_list": [
     {
       "raw_hot": 3336228,
@@ -7403,6 +7403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21868,
+      "num": 21868,
+      "word": "美议员怒斥特朗普关税政策",
+      "onboard_time": 1744660394,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 21483,
       "num": 1540646,
       "word": "一图看懂中越友谊",
@@ -7601,6 +7609,14 @@
       "onboard_time": 1744488674,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 14316,
+      "num": 18350,
+      "word": "何老师不语只一味的本色出演",
+      "onboard_time": 1744660994,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 13939,

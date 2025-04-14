@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/13 00:27:42 ~ 2025/04/15 03:36:04
+本榜单时间：2025/04/13 00:27:42 ~ 2025/04/15 04:27:32
 </p>
 </blockquote>
 <p>
@@ -5565,6 +5565,12 @@ BLG对战JDG（热度：47299）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%AE%AE%E5%91%98%E6%80%92%E6%96%A5%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E6%94%BF%E7%AD%96%23" target="weibo">
+美议员怒斥特朗普关税政策（热度：21868）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%9B%BE%E7%9C%8B%E6%87%82%E4%B8%AD%E8%B6%8A%E5%8F%8B%E8%B0%8A%23" target="weibo">
 一图看懂中越友谊（热度：21483）
 </a>
@@ -5711,6 +5717,12 @@ iG战胜TES（热度：15360）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23200%E7%A7%92%E4%BA%86%E8%A7%A3%E7%BE%8E%E5%9B%BD%E8%9B%8B%E8%8D%92%E5%8D%B1%E6%9C%BA%E5%8F%91%E9%85%B5%E7%9A%84%E8%83%8C%E5%90%8E%23" target="weibo">
 200秒了解美国蛋荒危机发酵的背后（热度：14439）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E8%80%81%E5%B8%88%E4%B8%8D%E8%AF%AD%E5%8F%AA%E4%B8%80%E5%91%B3%E7%9A%84%E6%9C%AC%E8%89%B2%E5%87%BA%E6%BC%94%23" target="weibo">
+何老师不语只一味的本色出演（热度：14316）
 </a>
 </li>
 
