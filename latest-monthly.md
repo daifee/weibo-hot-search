@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/14 12:43:52
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/14 13:25:43
 </p>
 </blockquote>
 <p>
@@ -1097,6 +1097,12 @@ RedVelvet 解散（热度：1601334）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E7%BB%B4%E4%BC%9F%E5%87%BA%E8%BD%A8%23" target="weibo">
 刘维伟出轨（热度：1473440）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BA%BA%E5%BC%80%E5%A7%8B%E9%A3%9E%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%B4%AD%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%23" target="weibo">
+美国人开始飞中国代购中国制造（热度：1471294）
 </a>
 </li>
 
@@ -3885,6 +3891,12 @@ TVB男演员陈键锋学厨以第一名毕业（热度：726197）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%BE%B7%E9%95%87%E8%BD%A6%E7%A5%B8%E9%81%87%E9%9A%BE%E8%80%85%E5%AE%B6%E5%B1%9E%E6%82%A3%E9%87%8D%E5%BA%A6%E6%8A%91%E9%83%81%23" target="weibo">
+景德镇车祸遇难者家属患重度抑郁（热度：672110）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%AD%98%E5%9C%A85%E5%8D%83%E5%A4%9A%E5%B9%B4%E5%A4%A7%E5%A4%9A%E6%97%B6%E5%80%99%E6%97%A0%E7%BE%8E%E5%9B%BD%23" target="weibo">
 中国存在5千多年大多时候无美国（热度：670951）
 </a>
@@ -5229,6 +5241,12 @@ Bin（热度：521478）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E8%B0%8B%E6%96%B0%E7%89%87%E9%A2%98%E6%9D%90%E6%98%AF%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%23" target="weibo">
+张艺谋新片题材是国家安全（热度：519130）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%A9%E4%BD%93%E9%87%8D%E9%80%90%E6%B8%90%E4%B8%8B%E9%99%8D%E7%9A%8440%E4%B8%AA%E5%86%B7%E7%9F%A5%E8%AF%86%23" target="weibo">
 让体重逐渐下降的40个冷知识（热度：517442）
 </a>
@@ -5751,6 +5769,12 @@ gidle曺薇娟吉克隽逸新歌（热度：482562）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%20%E4%BD%93%E5%88%B6%E5%86%85%E7%9A%84%E7%BE%8E%23" target="weibo">
+关晓彤 体制内的美（热度：477269）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E4%B8%8D%E5%8F%82%E5%8A%A0EXO%E5%91%A8%E5%B9%B4%E7%BA%AA%E5%BF%B5%E6%B4%BB%E5%8A%A8%23" target="weibo">
 张艺兴不参加EXO周年纪念活动（热度：477035）
 </a>
@@ -5943,6 +5967,12 @@ hanbi公开（热度：468837）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E5%BF%A7%E6%B8%A1%20%E5%A4%9C%E5%8D%8E%E7%9A%84%E5%A4%B4%E5%A5%97%E8%BF%98%E7%95%99%E7%9D%80%E5%91%A2%23" target="weibo">
+无忧渡 夜华的头套还留着呢（热度：465848）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8F%90%E5%89%8D%E8%BF%98%E6%88%BF%E8%B4%B7%E5%8F%98%E9%9A%BE%E4%BA%86%23" target="weibo">
 提前还房贷变难了（热度：465685）
 </a>
@@ -5981,36 +6011,6 @@ hanbi公开（热度：468837）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AF%B9%E7%AD%89%E5%85%B3%E7%A8%8E%23" target="weibo">
 对等关税（热度：462244）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%B9%E9%94%A1%E6%82%A6%E6%88%90%E9%9F%A9%E5%9B%BD%E7%AC%AC%E4%BA%8C%E4%BD%8D%E8%A2%AB%E7%BD%A2%E5%85%8D%E6%80%BB%E7%BB%9F%23" target="weibo">
-尹锡悦成韩国第二位被罢免总统（热度：461873）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E9%83%A8%E6%82%AC%E7%96%91%E5%89%A7%E5%87%91%E9%BD%90%E5%9B%9B%E4%B8%AA%E7%8B%A0%E5%A5%B3%23" target="weibo">
-一部悬疑剧凑齐四个狠女（热度：461752）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%80%9D%E7%BA%AF%E5%BC%A0%E6%9B%BC%E4%B9%90%20%E5%A4%A7%E7%90%86%23" target="weibo">
-马思纯张曼乐 大理（热度：460375）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B4%BE%E4%B9%83%E4%BA%AE%E6%8D%A2%E5%A4%B4%E5%83%8F%E4%B8%BA%E7%94%9C%E9%A6%A8%E6%96%B0%E5%8D%95%E6%9B%B2%E6%89%93call%23" target="weibo">
-贾乃亮换头像为甜馨新单曲打call（热度：460139）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B2%E4%BA%A2%E5%93%A5%E8%AF%B4%E4%B8%AD%E5%9B%BD%E6%98%AF%E8%A2%AB%E4%BD%8E%E4%BC%B0%E7%9A%84%E5%9C%B0%E6%96%B9%23" target="weibo">
-甲亢哥说中国是被低估的地方（热度：459865）
 </a>
 </li>
 

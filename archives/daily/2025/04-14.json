@@ -1,6 +1,6 @@
 {
   "startTime": 1744561767834,
-  "endTime": 1744605832463,
+  "endTime": 1744608343633,
   "band_list": [
     {
       "raw_hot": 2483493,
@@ -27,6 +27,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1471294,
+      "num": 1471294,
+      "word": "美国人开始飞中国代购中国制造",
+      "onboard_time": 1744605326,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1459988,
       "num": 1459988,
       "word": "苹果死守中国绝不是因为廉价",
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 1273842,
-      "num": 611561,
+      "num": 757149,
       "word": "Jennie 妈妈好帅",
       "onboard_time": 1744600820,
       "rank": 24,
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 1022132,
-      "num": 381651,
+      "num": 423314,
       "word": "吃芒果是一件很私密的事",
       "onboard_time": 1744604302,
       "rank": 32,
@@ -136,6 +144,14 @@
       "word": "网曝超市将馒头扔地上给大爷大妈抢",
       "onboard_time": 1744561520,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 672110,
+      "num": 672110,
+      "word": "景德镇车祸遇难者家属患重度抑郁",
+      "onboard_time": 1744606705,
+      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -227,6 +243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 519130,
+      "num": 519130,
+      "word": "张艺谋新片题材是国家安全",
+      "onboard_time": 1744606344,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 505709,
       "num": 505709,
       "word": "驻日大使馆提醒注意防范地震",
@@ -251,12 +275,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 477269,
+      "num": 422160,
+      "word": "关晓彤 体制内的美",
+      "onboard_time": 1744604903,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 474279,
       "num": 380662,
       "word": "高校通报老师诱骗女学生恋爱",
       "onboard_time": 1744598901,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 465848,
+      "num": 465848,
+      "word": "无忧渡 夜华的头套还留着呢",
+      "onboard_time": 1744606645,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 438583,
@@ -299,14 +339,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 422518,
-      "num": 277748,
-      "word": "关晓彤 体制内的美",
-      "onboard_time": 1744604903,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 414356,
       "num": 414356,
       "word": "特朗普称将在下周一公布半导体关税细节",
@@ -340,7 +372,7 @@
     },
     {
       "raw_hot": 385859,
-      "num": 718460,
+      "num": 763626,
       "word": "中式奶茶成为越南年轻人的新宠",
       "onboard_time": 1744602442,
       "rank": 2,
@@ -363,12 +395,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 374649,
+      "num": 374649,
+      "word": "美国玩具厂商快崩溃了",
+      "onboard_time": 1744605264,
+      "rank": 19,
+      "category": "国际时政,幽默"
+    },
+    {
       "raw_hot": 368617,
       "num": 368617,
       "word": "祝绪丹 丁禹兮是弟弟不能选",
       "onboard_time": 1744556663,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 350736,
+      "num": 350736,
+      "word": "惊蛰无声",
+      "onboard_time": 1744606705,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 337736,
@@ -393,14 +441,6 @@
       "onboard_time": 1744599741,
       "rank": 17,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 326475,
-      "num": 277488,
-      "word": "美国人开始飞中国代购中国制造",
-      "onboard_time": 1744605326,
-      "rank": 25,
-      "category": "国际时政"
     },
     {
       "raw_hot": 317601,
@@ -473,6 +513,22 @@
       "onboard_time": 1744561459,
       "rank": 21,
       "category": "演出"
+    },
+    {
+      "raw_hot": 264458,
+      "num": 264458,
+      "word": "内娱第一对豹豹兔兔",
+      "onboard_time": 1744607123,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 261698,
+      "num": 273808,
+      "word": "研究员违规携带水稻种质资源出境",
+      "onboard_time": 1744602201,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 254689,
@@ -561,14 +617,6 @@
       "onboard_time": 1744601722,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 224501,
-      "num": 278770,
-      "word": "美国玩具厂商快崩溃了",
-      "onboard_time": 1744605264,
-      "rank": 19,
-      "category": "国际时政,幽默"
     },
     {
       "raw_hot": 222684,
@@ -699,6 +747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204666,
+      "num": 204666,
+      "word": "Like Jennie",
+      "onboard_time": 1744607842,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 203889,
       "num": 203889,
       "word": "问界新M7全新配色曝光",
@@ -707,12 +763,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 202465,
-      "num": 273808,
-      "word": "研究员违规携带水稻种质资源出境",
-      "onboard_time": 1744602201,
-      "rank": 40,
-      "category": "民生新闻"
+      "raw_hot": 202098,
+      "num": 202098,
+      "word": "惊蛰无声阵容",
+      "onboard_time": 1744607364,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 201570,
@@ -763,6 +819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186082,
+      "num": 252970,
+      "word": "黄金暴涨回收商不敢持金过夜",
+      "onboard_time": 1744607065,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 185429,
       "num": 185429,
       "word": "余承东和工程师拼手速",
@@ -787,12 +851,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182661,
+      "num": 182661,
+      "word": "偶遇许玮甯邱泽手牵手散步",
+      "onboard_time": 1744607962,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182552,
       "num": 182552,
       "word": "章昊谈爱豆的责任",
       "onboard_time": 1744560442,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 181069,
+      "num": 181069,
+      "word": "年轻人的穿搭跟着天气一起升温",
+      "onboard_time": 1744608024,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 179271,
@@ -835,6 +915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 173840,
+      "num": 173840,
+      "word": "刘诗诗特别出演惊蛰无声",
+      "onboard_time": 1744607724,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 173706,
       "num": 173706,
       "word": "打扮成埃及女王逛大英博物馆",
@@ -859,12 +947,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 168938,
+      "num": 183794,
+      "word": "电影惊蛰无声主创联合倡议",
+      "onboard_time": 1744608142,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 166838,
       "num": 166838,
       "word": "剑网3联动仙剑奇侠传一",
       "onboard_time": 1744597700,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 163802,
+      "num": 163802,
+      "word": "北京警方刑拘1名假富二代",
+      "onboard_time": 1744608204,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 162851,
@@ -891,12 +995,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 157013,
+      "raw_hot": 157945,
       "num": 277889,
       "word": "刘宇宁在线打假明星签名照",
       "onboard_time": 1744605626,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154619,
+      "num": 154619,
+      "word": "田曦薇像我这么帅的只会出现在",
+      "onboard_time": 1744607603,
+      "rank": 42,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 152240,
@@ -921,6 +1033,14 @@
       "onboard_time": 1744592480,
       "rank": 42,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 149099,
+      "num": 149099,
+      "word": "入夏辣妹穿搭一个比一个养眼",
+      "onboard_time": 1744606285,
+      "rank": 44,
+      "category": "时尚"
     },
     {
       "raw_hot": 145562,
@@ -1001,6 +1121,22 @@
       "onboard_time": 1744560081,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 136084,
+      "num": 136084,
+      "word": "老板扛20斤硬币付工资法官让其清点",
+      "onboard_time": 1744606825,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135281,
+      "num": 184626,
+      "word": "孟佳连唱四首missA经典歌",
+      "onboard_time": 1744606344,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 134557,
@@ -1323,6 +1459,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 78147,
+      "num": 180044,
+      "word": "公职人员挂证取酬正被严肃查处",
+      "onboard_time": 1744608204,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76870,
       "num": 159626,
       "word": "深圳偶遇黄杨钿甜",
@@ -1427,6 +1571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45256,
+      "num": 202306,
+      "word": "全红婵解锁马里奥新造型",
+      "onboard_time": 1744607724,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 44000,
       "num": 59308,
       "word": "美媒称市场处于快速去美元化过程中",
@@ -1449,6 +1601,14 @@
       "onboard_time": 1744567576,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41201,
+      "num": 425556,
+      "word": "尹锡悦方否认所有公诉事实",
+      "onboard_time": 1744607005,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 40643,
@@ -1571,6 +1731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 19674,
+      "num": 160661,
+      "word": "黄友政vs埃尔贝亚力",
+      "onboard_time": 1744608204,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 18799,
       "num": 40105,
       "word": "中越山水相连文化相通",
@@ -1633,6 +1801,14 @@
       "onboard_time": 1744574354,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9252,
+      "num": 183448,
+      "word": "正是江南好风景条漫",
+      "onboard_time": 1744607484,
+      "rank": 29,
+      "category": "动漫"
     },
     {
       "raw_hot": 5922,

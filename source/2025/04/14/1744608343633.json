@@ -1,0 +1,410 @@
+{
+  "runTime": 1744608343633,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1471294,
+        "num": 1471294,
+        "word": "美国人开始飞中国代购中国制造",
+        "onboard_time": 1744605326,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 782873,
+        "num": 782873,
+        "word": "苹果死守中国绝不是因为廉价",
+        "onboard_time": 1744602142,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 281676,
+        "num": 763626,
+        "word": "中式奶茶成为越南年轻人的新宠",
+        "onboard_time": 1744602442,
+        "rank": 2,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 757149,
+        "num": 757149,
+        "word": "Jennie 妈妈好帅",
+        "onboard_time": 1744600820,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 672110,
+        "num": 672110,
+        "word": "景德镇车祸遇难者家属患重度抑郁",
+        "onboard_time": 1744606705,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 601738,
+        "num": 601738,
+        "word": "美国若想生产婚纱得先培养缝纫工",
+        "onboard_time": 1744602442,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 519130,
+        "num": 519130,
+        "word": "张艺谋新片题材是国家安全",
+        "onboard_time": 1744606344,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 465848,
+        "num": 465848,
+        "word": "无忧渡 夜华的头套还留着呢",
+        "onboard_time": 1744606645,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 462391,
+        "num": 462391,
+        "word": "驻日大使馆提醒注意防范地震",
+        "onboard_time": 1744603703,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41201,
+        "num": 425556,
+        "word": "尹锡悦方否认所有公诉事实",
+        "onboard_time": 1744607005,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1017359,
+        "num": 423314,
+        "word": "吃芒果是一件很私密的事",
+        "onboard_time": 1744604302,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 477269,
+        "num": 422160,
+        "word": "关晓彤 体制内的美",
+        "onboard_time": 1744604903,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 419065,
+        "num": 419065,
+        "word": "何同学 小布尔乔亚",
+        "onboard_time": 1744601602,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 374649,
+        "num": 374649,
+        "word": "美国玩具厂商快崩溃了",
+        "onboard_time": 1744605264,
+        "rank": 13,
+        "category": "国际时政,幽默"
+      },
+      {
+        "raw_hot": 350736,
+        "num": 350736,
+        "word": "惊蛰无声",
+        "onboard_time": 1744606705,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 264458,
+        "num": 264458,
+        "word": "内娱第一对豹豹兔兔",
+        "onboard_time": 1744607123,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 261748,
+        "num": 261748,
+        "word": "金价",
+        "onboard_time": 1744593981,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 256122,
+        "num": 256122,
+        "word": "何同学掉粉",
+        "onboard_time": 1744600940,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 186082,
+        "num": 252970,
+        "word": "黄金暴涨回收商不敢持金过夜",
+        "onboard_time": 1744607065,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 252139,
+        "num": 252139,
+        "word": "赵灵儿 裤子",
+        "onboard_time": 1744603642,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1769053,
+        "num": 240112,
+        "word": "内裤痕迹羞耻",
+        "onboard_time": 1744602563,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 261698,
+        "num": 238174,
+        "word": "研究员违规携带水稻种质资源出境",
+        "onboard_time": 1744602201,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206233,
+        "num": 206233,
+        "word": "易小星 我遗书都发出去了",
+        "onboard_time": 1744600521,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204666,
+        "num": 204666,
+        "word": "Like Jennie",
+        "onboard_time": 1744607842,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 45256,
+        "num": 202306,
+        "word": "全红婵解锁马里奥新造型",
+        "onboard_time": 1744607724,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202098,
+        "num": 202098,
+        "word": "惊蛰无声阵容",
+        "onboard_time": 1744607364,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 188626,
+        "num": 188626,
+        "word": "问界回应M7沈阳车展失控",
+        "onboard_time": 1744604664,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 135281,
+        "num": 184626,
+        "word": "孟佳连唱四首missA经典歌",
+        "onboard_time": 1744606344,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 168938,
+        "num": 183794,
+        "word": "电影惊蛰无声主创联合倡议",
+        "onboard_time": 1744608142,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 9252,
+        "num": 183448,
+        "word": "正是江南好风景条漫",
+        "onboard_time": 1744607484,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 183341,
+        "num": 183341,
+        "word": "王一博VOGUE",
+        "onboard_time": 1744604664,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 182661,
+        "num": 182661,
+        "word": "偶遇许玮甯邱泽手牵手散步",
+        "onboard_time": 1744607962,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181069,
+        "num": 181069,
+        "word": "年轻人的穿搭跟着天气一起升温",
+        "onboard_time": 1744608024,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 78147,
+        "num": 180044,
+        "word": "公职人员挂证取酬正被严肃查处",
+        "onboard_time": 1744608204,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179682,
+        "num": 179682,
+        "word": "越南人有多爱中国电视剧",
+        "onboard_time": 1744599801,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174781,
+        "num": 174781,
+        "word": "什么是屁股十级疼痛",
+        "onboard_time": 1744604302,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 173840,
+        "num": 173840,
+        "word": "刘诗诗特别出演惊蛰无声",
+        "onboard_time": 1744607724,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 172095,
+        "num": 172095,
+        "word": "人民币成全球第三大贸易融资货币",
+        "onboard_time": 1744587200,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 163802,
+        "num": 163802,
+        "word": "北京警方刑拘1名假富二代",
+        "onboard_time": 1744608204,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19674,
+        "num": 160661,
+        "word": "黄友政vs埃尔贝亚力",
+        "onboard_time": 1744608204,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157945,
+        "num": 157945,
+        "word": "刘宇宁在线打假明星签名照",
+        "onboard_time": 1744605626,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154860,
+        "num": 154860,
+        "word": "越南女孩cue到赵露思的电视剧",
+        "onboard_time": 1744604484,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154619,
+        "num": 154619,
+        "word": "田曦薇像我这么帅的只会出现在",
+        "onboard_time": 1744607603,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 149830,
+        "num": 149830,
+        "word": "男演员退圈回老家赶集摆摊",
+        "onboard_time": 1744559242,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149099,
+        "num": 149099,
+        "word": "入夏辣妹穿搭一个比一个养眼",
+        "onboard_time": 1744606285,
+        "rank": 44,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 141599,
+        "num": 141599,
+        "word": "导师骂人有多高级",
+        "onboard_time": 1744601961,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138070,
+        "num": 138070,
+        "word": "特朗普顾问回应被马斯克骂白痴",
+        "onboard_time": 1744604424,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 137501,
+        "num": 137501,
+        "word": "略萨去世",
+        "onboard_time": 1744597043,
+        "rank": 47,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 136509,
+        "num": 136509,
+        "word": "折腰预告都看包浆了",
+        "onboard_time": 1744603525,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136084,
+        "num": 136084,
+        "word": "老板扛20斤硬币付工资法官让其清点",
+        "onboard_time": 1744606825,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#隔海相望的千年友邻#"
+    }
+  }
+}
