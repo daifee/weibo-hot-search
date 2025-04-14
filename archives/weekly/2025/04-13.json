@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744587514536,
+  "endTime": 1744595763748,
   "band_list": [
     {
       "raw_hot": 3004197,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 1234974,
-      "num": 296812,
+      "num": 355623,
       "word": "男演员退圈回老家赶集摆摊",
       "onboard_time": 1744559242,
       "rank": 10,
@@ -137,6 +137,14 @@
       "onboard_time": 1744528100,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1171009,
+      "num": 1187361,
+      "word": "全红婵 那咋了这就破防了",
+      "onboard_time": 1744594581,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 1169012,
@@ -249,6 +257,14 @@
       "onboard_time": 1744516281,
       "rank": 4,
       "category": "演出"
+    },
+    {
+      "raw_hot": 895097,
+      "num": 492856,
+      "word": "临近退休遭解聘老师退休前工资2000",
+      "onboard_time": 1744588521,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 882913,
@@ -467,6 +483,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 637880,
+      "num": 637880,
+      "word": "人民币成全球第三大贸易融资货币",
+      "onboard_time": 1744587200,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 625836,
       "num": 372931,
       "word": "赵露思哭戏",
@@ -489,6 +513,14 @@
       "onboard_time": 1744524801,
       "rank": 17,
       "category": "美食"
+    },
+    {
+      "raw_hot": 593732,
+      "num": 593732,
+      "word": "当年都以为奔跑吧兄弟没有第二季",
+      "onboard_time": 1744589482,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 574797,
@@ -627,12 +659,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 492903,
+      "num": 492903,
+      "word": "奥斯卡影帝把中国龙穿在身",
+      "onboard_time": 1744592962,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 492124,
       "num": 399530,
       "word": "enhypen开麦",
       "onboard_time": 1744516461,
       "rank": 13,
       "category": "演出"
+    },
+    {
+      "raw_hot": 490606,
+      "num": 490606,
+      "word": "英国反华议员赴香港探亲被拒入境",
+      "onboard_time": 1744590261,
+      "rank": 6,
+      "category": "国际时政"
     },
     {
       "raw_hot": 490577,
@@ -803,6 +851,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 398666,
+      "num": 398666,
+      "word": "黄圣依晒与陈梦程潇李嘉格合照",
+      "onboard_time": 1744590622,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 396077,
       "num": 396077,
       "word": "小伙给婚恋公司交17万第2天就领证",
@@ -833,6 +889,14 @@
       "onboard_time": 1744541001,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 369703,
+      "num": 369703,
+      "word": "金价",
+      "onboard_time": 1744593981,
+      "rank": 8,
+      "category": "财经"
     },
     {
       "raw_hot": 369076,
@@ -971,6 +1035,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 311811,
+      "num": 311811,
+      "word": "马斯克发文暗示经济全球化",
+      "onboard_time": 1744593742,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 310386,
       "num": 310386,
       "word": "镜妖 季离",
@@ -985,6 +1057,14 @@
       "onboard_time": 1744550603,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 307701,
+      "num": 307701,
+      "word": "关晓彤新剧短发路透",
+      "onboard_time": 1744590862,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 296223,
@@ -1161,6 +1241,14 @@
       "onboard_time": 1744549883,
       "rank": 23,
       "category": "网红"
+    },
+    {
+      "raw_hot": 248880,
+      "num": 263968,
+      "word": "英国将暂停对89种产品征全球关税",
+      "onboard_time": 1744586959,
+      "rank": 13,
+      "category": "国际时政"
     },
     {
       "raw_hot": 246798,
@@ -1539,6 +1627,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 201637,
+      "num": 201637,
+      "word": "灿如繁星将开机",
+      "onboard_time": 1744594639,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201570,
       "num": 201570,
       "word": "刘冲让王一博快点切换频道",
@@ -1673,6 +1769,14 @@
       "onboard_time": 1744521681,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190081,
+      "num": 190081,
+      "word": "时代少年团太原演唱会官方回复",
+      "onboard_time": 1744594521,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 189855,
@@ -1827,6 +1931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 176149,
+      "num": 176149,
+      "word": "昙花一现你见过吗",
+      "onboard_time": 1744587080,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 175865,
       "num": 175865,
       "word": "科切拉直播",
@@ -1953,6 +2065,14 @@
       "onboard_time": 1744520844,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167155,
+      "num": 167155,
+      "word": "奔跑吧",
+      "onboard_time": 1744595480,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 166906,
@@ -2099,6 +2219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157958,
+      "num": 157958,
+      "word": "拥有专注力是走向优秀的开始",
+      "onboard_time": 1744590443,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156753,
       "num": 156753,
       "word": "曾舜晞我那刚回国的青梅竹马",
@@ -2139,12 +2267,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152565,
+      "num": 152565,
+      "word": "蔡徐坤活动人气",
+      "onboard_time": 1744594881,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152050,
       "num": 152050,
       "word": "千秋令一脚踩碎替身文学",
       "onboard_time": 1744543102,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152013,
+      "num": 152013,
+      "word": "亚马逊出售的商品六七成来自中国",
+      "onboard_time": 1744590682,
+      "rank": 34,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 151595,
@@ -2419,6 +2563,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 137459,
+      "num": 137459,
+      "word": "广州本轮空气污染过程或持续2至3天",
+      "onboard_time": 1744594160,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137016,
       "num": 137016,
       "word": "快乐的大人",
@@ -2553,6 +2705,14 @@
       "onboard_time": 1744559181,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 131512,
+      "num": 131512,
+      "word": "外贸企业转内销5小时瞬卖6万单",
+      "onboard_time": 1744587620,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131492,
@@ -3035,6 +3195,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 112254,
+      "num": 112254,
+      "word": "哈登统治勇士快船加时赛",
+      "onboard_time": 1744592841,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111366,
       "num": 111366,
       "word": "BLG教练回应两连败",
@@ -3131,12 +3299,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 107520,
+      "num": 107520,
+      "word": "巴特勒受伤",
+      "onboard_time": 1744595660,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107494,
       "num": 107494,
       "word": "好一节标准的小狗礼仪课",
       "onboard_time": 1744528821,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 107188,
+      "num": 107188,
+      "word": "纽约坠毁直升机飞行员曾报告复飞",
+      "onboard_time": 1744592480,
+      "rank": 42,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 106641,
@@ -3195,6 +3379,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102918,
+      "num": 102918,
+      "word": "剑网3",
+      "onboard_time": 1744595660,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 102523,
+      "num": 102523,
+      "word": "跳水世界杯中国队单日4金2银",
+      "onboard_time": 1744595240,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102430,
       "num": 102430,
       "word": "日本大阪世博会中国馆正式开馆",
@@ -3209,6 +3409,22 @@
       "onboard_time": 1744514902,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 101757,
+      "num": 101757,
+      "word": "曾任美国大学数学系教授陈敏已归国",
+      "onboard_time": 1744587319,
+      "rank": 37,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 101692,
+      "num": 101692,
+      "word": "勇士连续两年打附加赛",
+      "onboard_time": 1744593681,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 101634,
@@ -3451,14 +3667,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 87968,
-      "num": 87968,
-      "word": "曾任美国大学数学系教授陈敏已归国",
-      "onboard_time": 1744587319,
-      "rank": 37,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 86408,
       "num": 86408,
       "word": "蒲熠星伤痕妆",
@@ -3627,14 +3835,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 63047,
-      "num": 63047,
-      "word": "昙花一现你见过吗",
-      "onboard_time": 1744587080,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 62046,
       "num": 156335,
       "word": "汪苏泷你有这样的排比句进入演唱会",
@@ -3691,6 +3891,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 49653,
+      "num": 152570,
+      "word": "全红婵赛后发18宫格",
+      "onboard_time": 1744589902,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 48536,
       "num": 274127,
       "word": "中国明星数学家夫妇旅美数十年后回国",
@@ -3721,6 +3929,14 @@
       "onboard_time": 1744499717,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 46681,
+      "num": 153395,
+      "word": "章昊谈去世粉丝",
+      "onboard_time": 1744595602,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 46260,
@@ -3811,6 +4027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39630,
+      "num": 188533,
+      "word": "美媒拉响美国服务贸易警钟",
+      "onboard_time": 1744595360,
+      "rank": 20,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 39440,
       "num": 394213,
       "word": "北京多条地铁线恢复运营",
@@ -3897,14 +4121,6 @@
       "onboard_time": 1744517542,
       "rank": 17,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 31055,
-      "num": 263968,
-      "word": "英国将暂停对89种产品征全球关税",
-      "onboard_time": 1744586959,
-      "rank": 13,
-      "category": "国际时政"
     },
     {
       "raw_hot": 30346,
@@ -4169,14 +4385,6 @@
       "onboard_time": 1744574354,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 12574,
-      "num": 166375,
-      "word": "人民币成全球第三大贸易融资货币",
-      "onboard_time": 1744587200,
-      "rank": 26,
-      "category": "国内时政"
     },
     {
       "raw_hot": 12091,
