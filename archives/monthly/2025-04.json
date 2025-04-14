@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744629667311,
+  "endTime": 1744630582040,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -3323,6 +3323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 949717,
+      "num": 949717,
+      "word": "THE9成员9人实到2人",
+      "onboard_time": 1744626683,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 949226,
       "num": 431987,
       "word": "杨幂 苹果掰开",
@@ -3569,14 +3577,6 @@
       "onboard_time": 1743768442,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 909177,
-      "num": 909177,
-      "word": "THE9成员9人实到2人",
-      "onboard_time": 1744626683,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 907017,
@@ -4299,6 +4299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 803163,
+      "num": 416199,
+      "word": "白鹿体制内女友风",
+      "onboard_time": 1744625182,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 802897,
       "num": 1128463,
       "word": "孤独症男孩因高颜值走红妈妈发声",
@@ -4745,14 +4753,6 @@
       "onboard_time": 1744510941,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 738905,
-      "num": 416199,
-      "word": "白鹿体制内女友风",
-      "onboard_time": 1744625182,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 738805,
@@ -6851,6 +6851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 537945,
+      "num": 537945,
+      "word": "澳门永久性居民将获发1万澳门元",
+      "onboard_time": 1744624582,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 537703,
       "num": 537703,
       "word": "这五类电话号码不要接",
@@ -7625,14 +7633,6 @@
       "onboard_time": 1744190482,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 493716,
-      "num": 493716,
-      "word": "澳门永久性居民将获发1万澳门元",
-      "onboard_time": 1744624582,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 493575,
@@ -10219,6 +10219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 373340,
+      "num": 362091,
+      "word": "何美延致歉",
+      "onboard_time": 1744627522,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 372853,
       "num": 405151,
       "word": "齐思钧自己去看了两年心理治疗",
@@ -10593,14 +10601,6 @@
       "onboard_time": 1743757581,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 362091,
-      "num": 362091,
-      "word": "何美延致歉",
-      "onboard_time": 1744627522,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 361851,
@@ -13739,6 +13739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 278528,
+      "num": 241283,
+      "word": "东方卫视 檀健次",
+      "onboard_time": 1744629562,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 277923,
       "num": 277923,
       "word": "AG对战狼队",
@@ -15307,6 +15315,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 246699,
+      "num": 265241,
+      "word": "教育部门通报学校禁止教师考公考编",
+      "onboard_time": 1744624822,
+      "rank": 34,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 246676,
       "num": 246676,
       "word": "快船战胜勇士",
@@ -15929,6 +15945,14 @@
       "onboard_time": 1744423764,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 235869,
+      "num": 235869,
+      "word": "张若昀毛晓彤风起大漠75集",
+      "onboard_time": 1744629802,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 235863,
@@ -18811,6 +18835,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 205042,
+      "num": 205042,
+      "word": "JUSTIN公式照",
+      "onboard_time": 1744629502,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205005,
       "num": 205005,
       "word": "张杰纪念日发文",
@@ -20739,6 +20771,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 192638,
+      "num": 192638,
+      "word": "风起大漠",
+      "onboard_time": 1744629802,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192598,
       "num": 267027,
       "word": "内地版小鹏X9竟在香港自己学会智驾了",
@@ -20771,6 +20811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192370,
+      "num": 192370,
+      "word": "杨紫李现锦绣芳华过审下证了",
+      "onboard_time": 1744627764,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192331,
       "num": 271811,
       "word": "张艺兴被女儿木木现场表白",
@@ -20791,14 +20839,6 @@
       "num": 192169,
       "word": "值得爱",
       "onboard_time": 1743689363,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 192159,
-      "num": 192159,
-      "word": "杨紫李现锦绣芳华过审下证了",
-      "onboard_time": 1744627764,
       "rank": 26,
       "category": "剧集"
     },
@@ -22025,6 +22065,14 @@
       "onboard_time": 1744601781,
       "rank": 32,
       "category": "网红"
+    },
+    {
+      "raw_hot": 184910,
+      "num": 190027,
+      "word": "DANIEL公式照",
+      "onboard_time": 1744629442,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 184840,
@@ -23259,6 +23307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176741,
+      "num": 429636,
+      "word": "欧洲掀起抵制美国产品浪潮",
+      "onboard_time": 1744628962,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 176710,
       "num": 193451,
       "word": "站姐团建发的85花",
@@ -23441,6 +23497,14 @@
       "onboard_time": 1744162884,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 175617,
+      "num": 175617,
+      "word": "蔡徐坤灰发牛仔服造型",
+      "onboard_time": 1744629983,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 175496,
@@ -24988,7 +25052,7 @@
     },
     {
       "raw_hot": 165415,
-      "num": 165415,
+      "num": 240810,
       "word": "网友偶遇吴世勋吃饭",
       "onboard_time": 1744628602,
       "rank": 33,
@@ -27379,14 +27443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 150633,
-      "num": 265241,
-      "word": "教育部门通报学校禁止教师考公考编",
-      "onboard_time": 1744624822,
-      "rank": 34,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 150557,
       "num": 150557,
       "word": "已灭绝的权游冰原狼原型重生",
@@ -28507,14 +28563,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 144834,
-      "num": 144834,
-      "word": "DANIEL公式照",
-      "onboard_time": 1744629442,
-      "rank": 39,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 144767,
       "num": 144767,
       "word": "虞书欣开箱自己的小卡",
@@ -28793,14 +28841,6 @@
       "onboard_time": 1743514464,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 143400,
-      "num": 143400,
-      "word": "东方卫视 檀健次",
-      "onboard_time": 1744629562,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 143392,
@@ -29921,6 +29961,14 @@
       "onboard_time": 1744253242,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 137226,
+      "num": 405701,
+      "word": "国乒教练组也卷起来了",
+      "onboard_time": 1744627041,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 137158,
@@ -31171,6 +31219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130988,
+      "num": 392586,
+      "word": "招牌禁用红蓝黑是权力的任性",
+      "onboard_time": 1744629022,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130924,
       "num": 130924,
       "word": "在越南参加汉语水平考试是啥体验",
@@ -31697,14 +31753,6 @@
       "onboard_time": 1743478404,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 128819,
-      "num": 128819,
-      "word": "JUSTIN公式照",
-      "onboard_time": 1744629502,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 128804,
@@ -32449,6 +32497,14 @@
       "onboard_time": 1744287321,
       "rank": 26,
       "category": "数码"
+    },
+    {
+      "raw_hot": 124586,
+      "num": 124586,
+      "word": "金城武44岁时的状态",
+      "onboard_time": 1744630282,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 124565,
@@ -33603,14 +33659,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 118417,
-      "num": 405701,
-      "word": "国乒教练组也卷起来了",
-      "onboard_time": 1744627041,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 118351,
       "num": 118351,
       "word": "猫咪突发心脏病求救被主人抢回一命",
@@ -34307,6 +34355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114483,
+      "num": 187052,
+      "word": "周琦受伤",
+      "onboard_time": 1744629321,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114384,
       "num": 114384,
       "word": "什么是海峡雷霆",
@@ -34795,14 +34851,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 111233,
-      "num": 180908,
-      "word": "周琦受伤",
-      "onboard_time": 1744629321,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 111228,
       "num": 111228,
       "word": "天津人趁着大风放风筝",
@@ -35057,6 +35105,14 @@
       "onboard_time": 1743760941,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 109496,
+      "num": 109496,
+      "word": "金价从3100美元飙至3200美元仅11天",
+      "onboard_time": 1744630522,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 109468,
@@ -36753,14 +36809,6 @@
       "onboard_time": 1744300282,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 94503,
-      "num": 429636,
-      "word": "欧洲掀起抵制美国产品浪潮",
-      "onboard_time": 1744628962,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 94485,
@@ -39105,6 +39153,14 @@
       "onboard_time": 1743895217,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 68364,
+      "num": 245109,
+      "word": "八路军将军牺牲地改成了他的名字",
+      "onboard_time": 1744630162,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 68331,
@@ -41635,14 +41691,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 40866,
-      "num": 392586,
-      "word": "招牌禁用红蓝黑是权力的任性",
-      "onboard_time": 1744629022,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 40819,
       "num": 182024,
       "word": "白宫称这是美现代史最重要的日子之一",
@@ -42961,6 +43009,14 @@
       "onboard_time": 1744080742,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29301,
+      "num": 119599,
+      "word": "全红婵回应剪辑技术越来好了",
+      "onboard_time": 1744626741,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 29295,
@@ -44347,6 +44403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 18730,
+      "num": 203146,
+      "word": "全红婵手势舞上新",
+      "onboard_time": 1744626683,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 18723,
       "num": 199006,
       "word": "绍兴妹妹为绍兴做代言",
@@ -45043,6 +45107,14 @@
       "category": "体育,健康医疗"
     },
     {
+      "raw_hot": 13093,
+      "num": 191964,
+      "word": "鲍春来带亚锦赛吉祥物出镜",
+      "onboard_time": 1744629442,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 13063,
       "num": 131067,
       "word": "富士台高层包庇中居正广性侵",
@@ -45241,14 +45313,6 @@
       "onboard_time": 1744021283,
       "rank": 39,
       "category": "网红,民生新闻"
-    },
-    {
-      "raw_hot": 11492,
-      "num": 180494,
-      "word": "鲍春来带亚锦赛吉祥物出镜",
-      "onboard_time": 1744629442,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 11360,

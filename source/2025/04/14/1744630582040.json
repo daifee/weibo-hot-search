@@ -1,0 +1,410 @@
+{
+  "runTime": 1744630582040,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1231856,
+        "num": 1231856,
+        "word": "特朗普的关税政策又变了",
+        "onboard_time": 1744613962,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 949717,
+        "num": 949717,
+        "word": "THE9成员9人实到2人",
+        "onboard_time": 1744626683,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187375,
+        "num": 611392,
+        "word": "美国关税政策乱上加乱",
+        "onboard_time": 1744619303,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 568144,
+        "num": 568144,
+        "word": "冰岛 异食癖的故乡",
+        "onboard_time": 1744625482,
+        "rank": 3,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 537945,
+        "num": 537945,
+        "word": "澳门永久性居民将获发1万澳门元",
+        "onboard_time": 1744624582,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 483533,
+        "num": 483533,
+        "word": "日本首相警告美国",
+        "onboard_time": 1744619003,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 432856,
+        "num": 432856,
+        "word": "第一次见录一半全睡了的综艺",
+        "onboard_time": 1744619482,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 358094,
+        "num": 358094,
+        "word": "美卖家想找美国工厂生产没人回邮件",
+        "onboard_time": 1744624461,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 327512,
+        "num": 327512,
+        "word": "满江红2",
+        "onboard_time": 1744618402,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 246699,
+        "num": 246699,
+        "word": "教育部门通报学校禁止教师考公考编",
+        "onboard_time": 1744624822,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1149202,
+        "num": 246351,
+        "word": "一家三口被撞身亡拒肇事方80万赔偿",
+        "onboard_time": 1744623624,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 803163,
+        "num": 245736,
+        "word": "白鹿体制内女友风",
+        "onboard_time": 1744625182,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68364,
+        "num": 245109,
+        "word": "八路军将军牺牲地改成了他的名字",
+        "onboard_time": 1744630162,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 554837,
+        "num": 244541,
+        "word": "芒果台丢下卤鹅哥那一刻",
+        "onboard_time": 1744623624,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 130988,
+        "num": 243754,
+        "word": "招牌禁用红蓝黑是权力的任性",
+        "onboard_time": 1744629022,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 516259,
+        "num": 243559,
+        "word": "江苏新增1名亿万富翁",
+        "onboard_time": 1744618163,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 373340,
+        "num": 242545,
+        "word": "何美延致歉",
+        "onboard_time": 1744627522,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317790,
+        "num": 241883,
+        "word": "韩红回应母亲逝世",
+        "onboard_time": 1744621164,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278528,
+        "num": 241283,
+        "word": "东方卫视 檀健次",
+        "onboard_time": 1744629562,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158220,
+        "num": 240810,
+        "word": "网友偶遇吴世勋吃饭",
+        "onboard_time": 1744628602,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240673,
+        "num": 240673,
+        "word": "夫妻中1003万元大奖称不会告诉孩子",
+        "onboard_time": 1744621582,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235869,
+        "num": 235869,
+        "word": "张若昀毛晓彤风起大漠75集",
+        "onboard_time": 1744629802,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223571,
+        "num": 223571,
+        "word": "王一博鼻尖一点黄",
+        "onboard_time": 1744623682,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205042,
+        "num": 205042,
+        "word": "JUSTIN公式照",
+        "onboard_time": 1744629502,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18730,
+        "num": 203146,
+        "word": "全红婵手势舞上新",
+        "onboard_time": 1744626683,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203072,
+        "num": 203072,
+        "word": "全红婵被扔娃娃陈若琳下意识保护",
+        "onboard_time": 1744626322,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194732,
+        "num": 194732,
+        "word": "无忧渡",
+        "onboard_time": 1744629983,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192638,
+        "num": 192638,
+        "word": "风起大漠",
+        "onboard_time": 1744629802,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192370,
+        "num": 192370,
+        "word": "杨紫李现锦绣芳华过审下证了",
+        "onboard_time": 1744627764,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13093,
+        "num": 191964,
+        "word": "鲍春来带亚锦赛吉祥物出镜",
+        "onboard_time": 1744629442,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184910,
+        "num": 190027,
+        "word": "DANIEL公式照",
+        "onboard_time": 1744629442,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 183687,
+        "num": 189496,
+        "word": "奔跑吧",
+        "onboard_time": 1744629862,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193936,
+        "num": 187741,
+        "word": "有棵树代言人",
+        "onboard_time": 1744615522,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114483,
+        "num": 187052,
+        "word": "周琦受伤",
+        "onboard_time": 1744629321,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186282,
+        "num": 186282,
+        "word": "阴阳师",
+        "onboard_time": 1744628962,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 176741,
+        "num": 176741,
+        "word": "欧洲掀起抵制美国产品浪潮",
+        "onboard_time": 1744628962,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 175617,
+        "num": 175617,
+        "word": "蔡徐坤灰发牛仔服造型",
+        "onboard_time": 1744629983,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 153856,
+        "num": 153856,
+        "word": "驻日大使馆提醒注意防范地震",
+        "onboard_time": 1744603703,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152329,
+        "num": 152329,
+        "word": "上海地铁",
+        "onboard_time": 1744625242,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151516,
+        "num": 151516,
+        "word": "哪吒之魔童闹海票房破152亿",
+        "onboard_time": 1744626741,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 147838,
+        "num": 147838,
+        "word": "杨幂圆梦了",
+        "onboard_time": 1744612043,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 147282,
+        "num": 147282,
+        "word": "韩红母亲逝世",
+        "onboard_time": 1744610422,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141450,
+        "num": 141450,
+        "word": "虞书欣一周拿下三代言",
+        "onboard_time": 1744627403,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 137473,
+        "num": 137473,
+        "word": "肇事者父亲想用80万买我们家三条命",
+        "onboard_time": 1744627103,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137226,
+        "num": 137226,
+        "word": "国乒教练组也卷起来了",
+        "onboard_time": 1744627041,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132706,
+        "num": 132706,
+        "word": "连续跑步70天的面部变化",
+        "onboard_time": 1744619361,
+        "rank": 45,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 124586,
+        "num": 124586,
+        "word": "金城武44岁时的状态",
+        "onboard_time": 1744630282,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29301,
+        "num": 119599,
+        "word": "全红婵回应剪辑技术越来好了",
+        "onboard_time": 1744626741,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118241,
+        "num": 118241,
+        "word": "中国暂停3家美企输华资质",
+        "onboard_time": 1744628541,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 109496,
+        "num": 109496,
+        "word": "金价从3100美元飙至3200美元仅11天",
+        "onboard_time": 1744630522,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平开始对越南进行国事访问#"
+    }
+  }
+}
