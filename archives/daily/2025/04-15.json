@@ -1,6 +1,6 @@
 {
   "startTime": 1744648272763,
-  "endTime": 1744656449406,
+  "endTime": 1744658457245,
   "band_list": [
     {
       "raw_hot": 917825,
@@ -483,6 +483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 22447,
+      "num": 41643,
+      "word": "全球多家大型养老基金暂停对美投资",
+      "onboard_time": 1744655895,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 22120,
       "num": 29456,
       "word": "苏新皓直拍",
@@ -515,12 +523,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 12079,
-      "num": 41643,
-      "word": "全球多家大型养老基金暂停对美投资",
-      "onboard_time": 1744655895,
-      "rank": 14,
-      "category": "国内时政"
+      "raw_hot": 13939,
+      "num": 20583,
+      "word": "张远粉丝想要粉丝得到",
+      "onboard_time": 1744657634,
+      "rank": 49,
+      "category": "演出"
     }
   ],
   "hotgov_list": [
