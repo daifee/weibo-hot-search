@@ -1,0 +1,410 @@
+{
+  "runTime": 1744724075659,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 113791,
+        "num": 1018206,
+        "word": "悬赏通缉3名美国特工",
+        "onboard_time": 1744679662,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1146317,
+        "num": 1002421,
+        "word": "家属回应男子思念亡妻无法释怀去世",
+        "onboard_time": 1744717702,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16364,
+        "num": 814606,
+        "word": "发现美国特工线索拨打0451110",
+        "onboard_time": 1744680202,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2011799,
+        "num": 808697,
+        "word": "张予曦声明",
+        "onboard_time": 1744718782,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 795304,
+        "num": 795304,
+        "word": "终于有电视剧敢拍国安抓间谍了",
+        "onboard_time": 1744715182,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 677369,
+        "num": 677369,
+        "word": "越南是唯一一个庆祝猫年的国家",
+        "onboard_time": 1744718122,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 501713,
+        "num": 501713,
+        "word": "男子疑因思念亡妻无法释怀去世",
+        "onboard_time": 1744719682,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 445851,
+        "num": 445851,
+        "word": "大熊猫芦芦去世",
+        "onboard_time": 1744712843,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 434762,
+        "num": 434762,
+        "word": "林更新北京到底有谁在啊火到越南了",
+        "onboard_time": 1744722501,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 365411,
+        "num": 365411,
+        "word": "三河商户坚持没换招牌省下5万元",
+        "onboard_time": 1744721782,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 723072,
+        "num": 365409,
+        "word": "原来艺人的收入是这样算的",
+        "onboard_time": 1744702041,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 662774,
+        "num": 365140,
+        "word": "33岁男子疑因思念亡妻殉情",
+        "onboard_time": 1744716020,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12014,
+        "num": 364814,
+        "word": "撒贝宁见证电池包刮痧泡澡",
+        "onboard_time": 1744719682,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 564865,
+        "num": 364614,
+        "word": "苏炳添官宣生三胎",
+        "onboard_time": 1744716503,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67545,
+        "num": 364325,
+        "word": "一年一度泼水节保留节目",
+        "onboard_time": 1744722562,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 512676,
+        "num": 364166,
+        "word": "毛子一家生活点滴",
+        "onboard_time": 1744718782,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 110592,
+        "num": 363830,
+        "word": "极氪终于学会取悦女性用户",
+        "onboard_time": 1744720703,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 148852,
+        "num": 363513,
+        "word": "极氪第六次打破吉尼斯纪录",
+        "onboard_time": 1744722382,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 87711,
+        "num": 363224,
+        "word": "都别打架了一法院公布打架成本",
+        "onboard_time": 1744723523,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26405,
+        "num": 362964,
+        "word": "钓鱼佬救起跳河小伙",
+        "onboard_time": 1744722382,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 571512,
+        "num": 362925,
+        "word": "29岁女生不停运动6个月后",
+        "onboard_time": 1744720583,
+        "rank": 20,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 511255,
+        "num": 362628,
+        "word": "毛子 总有另一面",
+        "onboard_time": 1744722562,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 448731,
+        "num": 362254,
+        "word": "杜华让艺人别蹭乐华热度",
+        "onboard_time": 1744722741,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164395,
+        "num": 362092,
+        "word": "身上的衣服是白鹿选的",
+        "onboard_time": 1744717221,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156006,
+        "num": 361785,
+        "word": "何老师这回是真上桌了",
+        "onboard_time": 1744711163,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149215,
+        "num": 361679,
+        "word": "无忧渡病娇木偶叫姐姐",
+        "onboard_time": 1744719801,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142452,
+        "num": 361411,
+        "word": "无忧渡 猫妖换命",
+        "onboard_time": 1744717522,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96392,
+        "num": 361014,
+        "word": "敢透明才敢称豪华",
+        "onboard_time": 1744722382,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 132894,
+        "num": 360806,
+        "word": "被赶出门后老伯拾荒继续打赏女主播",
+        "onboard_time": 1744722501,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162104,
+        "num": 360638,
+        "word": "孙颖莎vs张默",
+        "onboard_time": 1744723282,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 428781,
+        "num": 360313,
+        "word": "赵露思红发",
+        "onboard_time": 1744706603,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 360248,
+        "num": 360248,
+        "word": "森碟17岁生日照",
+        "onboard_time": 1744713441,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257194,
+        "num": 257194,
+        "word": "日本不准备向美国做重大让步",
+        "onboard_time": 1744706842,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 214106,
+        "num": 214106,
+        "word": "苏炳添结婚近9年儿女双全",
+        "onboard_time": 1744718481,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207246,
+        "num": 207246,
+        "word": "山东泰山",
+        "onboard_time": 1744721963,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198404,
+        "num": 198404,
+        "word": "李昀锐敖瑞鹏同款",
+        "onboard_time": 1744723523,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194324,
+        "num": 194324,
+        "word": "一天中最易长胖的4个时间段",
+        "onboard_time": 1744700542,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 191568,
+        "num": 191568,
+        "word": "女生工作4年考研上北大母亲心疼落泪",
+        "onboard_time": 1744721963,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190832,
+        "num": 190832,
+        "word": "荣耀Power",
+        "onboard_time": 1744722922,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 184418,
+        "num": 184418,
+        "word": "GAI都瘦脱相了",
+        "onboard_time": 1744703420,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 175508,
+        "num": 175508,
+        "word": "小鹏X9很香",
+        "onboard_time": 1744717643,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 169003,
+        "num": 169003,
+        "word": "王者荣耀",
+        "onboard_time": 1744720341,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 152132,
+        "num": 152132,
+        "word": "订婚强奸案检方认定有实质性关系",
+        "onboard_time": 1744724003,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143511,
+        "num": 143511,
+        "word": "睡前3小时尽量不吃碳水",
+        "onboard_time": 1744717643,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 134735,
+        "num": 134735,
+        "word": "唐艺昕低调炫夫",
+        "onboard_time": 1744706603,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129410,
+        "num": 129410,
+        "word": "山东文旅发了蔡徐坤",
+        "onboard_time": 1744723944,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127610,
+        "num": 127610,
+        "word": "王曼昱连得5分带走胜利",
+        "onboard_time": 1744720403,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125733,
+        "num": 125733,
+        "word": "遍地高仿货minmin背刺多少消费者",
+        "onboard_time": 1744723702,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122349,
+        "num": 122349,
+        "word": "浙江全省癌症发病率增长9.68%",
+        "onboard_time": 1744717103,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 122105,
+        "num": 122105,
+        "word": "日本大学因亲王取消期末考试",
+        "onboard_time": 1744715421,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见中越人民大联欢活动代表#"
+    }
+  }
+}

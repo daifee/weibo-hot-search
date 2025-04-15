@@ -1,6 +1,6 @@
 {
   "startTime": 1744648272763,
-  "endTime": 1744722240714,
+  "endTime": 1744724075659,
   "band_list": [
     {
       "raw_hot": 3491899,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 1216415,
-      "num": 972516,
+      "num": 1002421,
       "word": "家属回应男子思念亡妻无法释怀去世",
       "onboard_time": 1744717702,
       "rank": 1,
@@ -411,6 +411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 677369,
+      "num": 677369,
+      "word": "越南是唯一一个庆祝猫年的国家",
+      "onboard_time": 1744718122,
+      "rank": 6,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 668048,
       "num": 668048,
       "word": "SU7坠崖车主发文感谢雷军",
@@ -441,14 +449,6 @@
       "onboard_time": 1744644323,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 630903,
-      "num": 630903,
-      "word": "越南是唯一一个庆祝猫年的国家",
-      "onboard_time": 1744718122,
-      "rank": 6,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 626898,
@@ -492,7 +492,7 @@
     },
     {
       "raw_hot": 594856,
-      "num": 309333,
+      "num": 362925,
       "word": "29岁女生不停运动6个月后",
       "onboard_time": 1744720583,
       "rank": 22,
@@ -531,12 +531,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 512676,
+      "num": 364166,
+      "word": "毛子一家生活点滴",
+      "onboard_time": 1744718782,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 511255,
+      "num": 362628,
+      "word": "毛子 总有另一面",
+      "onboard_time": 1744722562,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
       "raw_hot": 508830,
       "num": 246236,
       "word": "刘强东要求京东外卖利润不高于5%",
       "onboard_time": 1744709903,
       "rank": 39,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 501713,
+      "num": 501713,
+      "word": "男子疑因思念亡妻无法释怀去世",
+      "onboard_time": 1744719682,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 495195,
@@ -579,14 +603,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 457146,
-      "num": 355680,
-      "word": "毛子一家生活点滴",
-      "onboard_time": 1744718782,
-      "rank": 16,
-      "category": "网红"
-    },
-    {
       "raw_hot": 456506,
       "num": 456506,
       "word": "某部委员工主动向间谍发送投靠邮件",
@@ -611,6 +627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 448731,
+      "num": 362254,
+      "word": "杜华让艺人别蹭乐华热度",
+      "onboard_time": 1744722741,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 444191,
       "num": 270666,
       "word": "TFBOYS曾坐地铁赶通告",
@@ -625,6 +649,14 @@
       "onboard_time": 1744645701,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 434762,
+      "num": 434762,
+      "word": "林更新北京到底有谁在啊火到越南了",
+      "onboard_time": 1744722501,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 409587,
@@ -691,14 +723,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 371878,
-      "num": 486087,
-      "word": "男子疑因思念亡妻无法释怀去世",
-      "onboard_time": 1744719682,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 370646,
       "num": 309743,
       "word": "减肥效果最好的室内运动",
@@ -721,6 +745,14 @@
       "onboard_time": 1744715421,
       "rank": 32,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 365411,
+      "num": 365411,
+      "word": "三河商户坚持没换招牌省下5万元",
+      "onboard_time": 1744721782,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 353965,
@@ -1108,7 +1140,7 @@
     },
     {
       "raw_hot": 225517,
-      "num": 309902,
+      "num": 362092,
       "word": "身上的衣服是白鹿选的",
       "onboard_time": 1744717221,
       "rank": 21,
@@ -1220,7 +1252,7 @@
     },
     {
       "raw_hot": 208691,
-      "num": 287389,
+      "num": 361411,
       "word": "无忧渡 猫妖换命",
       "onboard_time": 1744717522,
       "rank": 27,
@@ -1233,6 +1265,14 @@
       "onboard_time": 1744688422,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207246,
+      "num": 207246,
+      "word": "山东泰山",
+      "onboard_time": 1744721963,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 206285,
@@ -1371,6 +1411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198404,
+      "num": 198404,
+      "word": "李昀锐敖瑞鹏同款",
+      "onboard_time": 1744723523,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197767,
       "num": 197767,
       "word": "浙江全省癌症发病率增长9.68%",
@@ -1411,14 +1459,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 194777,
-      "num": 194777,
-      "word": "山东泰山",
-      "onboard_time": 1744721963,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 193381,
       "num": 193381,
       "word": "小米手机3月激活量中国第一",
@@ -1451,12 +1491,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 191568,
+      "num": 191568,
+      "word": "女生工作4年考研上北大母亲心疼落泪",
+      "onboard_time": 1744721963,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 191326,
       "num": 191326,
       "word": "灿如繁星官宣",
       "onboard_time": 1744691183,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190832,
+      "num": 190832,
+      "word": "荣耀Power",
+      "onboard_time": 1744722922,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 190641,
@@ -1636,7 +1692,7 @@
     },
     {
       "raw_hot": 176277,
-      "num": 199084,
+      "num": 361679,
       "word": "无忧渡病娇木偶叫姐姐",
       "onboard_time": 1744719801,
       "rank": 34,
@@ -1673,6 +1729,14 @@
       "onboard_time": 1744691603,
       "rank": 28,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 175508,
+      "num": 291104,
+      "word": "小鹏X9很香",
+      "onboard_time": 1744717643,
+      "rank": 26,
+      "category": "汽车"
     },
     {
       "raw_hot": 175104,
@@ -1769,6 +1833,14 @@
       "onboard_time": 1744694421,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 162104,
+      "num": 360638,
+      "word": "孙颖莎vs张默",
+      "onboard_time": 1744723282,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 161897,
@@ -1899,14 +1971,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 154174,
-      "num": 154174,
-      "word": "女生工作4年考研上北大母亲心疼落泪",
-      "onboard_time": 1744721963,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 154031,
       "num": 154031,
       "word": "养小猫最好玩的时期",
@@ -1937,6 +2001,14 @@
       "onboard_time": 1744720041,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 152132,
+      "num": 152132,
+      "word": "订婚强奸案检方认定有实质性关系",
+      "onboard_time": 1744724003,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152097,
@@ -1971,14 +2043,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 150050,
-      "num": 291104,
-      "word": "小鹏X9很香",
-      "onboard_time": 1744717643,
-      "rank": 26,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 150034,
       "num": 172546,
       "word": "驻日大使馆提醒注意防范地震",
@@ -1993,6 +2057,14 @@
       "onboard_time": 1744708341,
       "rank": 18,
       "category": "民生新闻,汽车"
+    },
+    {
+      "raw_hot": 148852,
+      "num": 363513,
+      "word": "极氪第六次打破吉尼斯纪录",
+      "onboard_time": 1744722382,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 147100,
@@ -2017,14 +2089,6 @@
       "onboard_time": 1744706122,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 146339,
-      "num": 289309,
-      "word": "三河商户坚持没换招牌省下5万元",
-      "onboard_time": 1744721782,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 145879,
@@ -2227,6 +2291,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 132894,
+      "num": 360806,
+      "word": "被赶出门后老伯拾荒继续打赏女主播",
+      "onboard_time": 1744722501,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132767,
       "num": 132767,
       "word": "徐若晗曾以为25岁是谈婚论嫁的年纪",
@@ -2236,7 +2308,7 @@
     },
     {
       "raw_hot": 132699,
-      "num": 339256,
+      "num": 363830,
       "word": "极氪终于学会取悦女性用户",
       "onboard_time": 1744720703,
       "rank": 17,
@@ -2273,6 +2345,14 @@
       "onboard_time": 1744708762,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 129410,
+      "num": 129410,
+      "word": "山东文旅发了蔡徐坤",
+      "onboard_time": 1744723944,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 129160,
@@ -2393,6 +2473,14 @@
       "onboard_time": 1744686020,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 125733,
+      "num": 125733,
+      "word": "遍地高仿货minmin背刺多少消费者",
+      "onboard_time": 1744723702,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125555,
@@ -2699,6 +2787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 96392,
+      "num": 361014,
+      "word": "敢透明才敢称豪华",
+      "onboard_time": 1744722382,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 95649,
       "num": 91341,
       "word": "孙颖莎王楚钦世界杯赛前训练画面",
@@ -2753,6 +2849,14 @@
       "onboard_time": 1744625482,
       "rank": 41,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 87711,
+      "num": 363224,
+      "word": "都别打架了一法院公布打架成本",
+      "onboard_time": 1744723523,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86587,
@@ -2960,6 +3064,14 @@
       "word": "人人人机器人人人人",
       "onboard_time": 1744704501,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 67545,
+      "num": 364325,
+      "word": "一年一度泼水节保留节目",
+      "onboard_time": 1744722562,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -3281,6 +3393,14 @@
       "onboard_time": 1744704982,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 26405,
+      "num": 362964,
+      "word": "钓鱼佬救起跳河小伙",
+      "onboard_time": 1744722382,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26300,
