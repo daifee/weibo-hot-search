@@ -1,0 +1,410 @@
+{
+  "runTime": 1744728234566,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 103483,
+        "num": 1016557,
+        "word": "悬赏通缉3名美国特工",
+        "onboard_time": 1744679662,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1926523,
+        "num": 1000892,
+        "word": "男子疑因思念亡妻无法释怀去世",
+        "onboard_time": 1744719682,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61953,
+        "num": 835788,
+        "word": "反网络霸权网警在行动",
+        "onboard_time": 1744725623,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1568175,
+        "num": 834027,
+        "word": "张予曦声明",
+        "onboard_time": 1744718782,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 824441,
+        "num": 824441,
+        "word": "订婚强奸案检方认定有实质性关系",
+        "onboard_time": 1744724003,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 668240,
+        "num": 668240,
+        "word": "特朗普上一任期被指让美减少7.5万岗位",
+        "onboard_time": 1744726042,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 576752,
+        "num": 576752,
+        "word": "家属回应男子思念亡妻无法释怀去世",
+        "onboard_time": 1744717702,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 391256,
+        "num": 391256,
+        "word": "终于有电视剧敢拍国安抓间谍了",
+        "onboard_time": 1744715182,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 656606,
+        "num": 390592,
+        "word": "张予曦离开欢瑞",
+        "onboard_time": 1744725564,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 3894,
+        "num": 383914,
+        "word": "亚太峰会",
+        "onboard_time": 1744638564,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1035773,
+        "num": 380261,
+        "word": "他以身入局把13岁健全的女儿捆在身上",
+        "onboard_time": 1744726223,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 865160,
+        "num": 378141,
+        "word": "肖战武汉",
+        "onboard_time": 1744726404,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 754557,
+        "num": 373240,
+        "word": "李昊怎么了",
+        "onboard_time": 1744727603,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 572219,
+        "num": 369172,
+        "word": "杜华让艺人别蹭乐华热度",
+        "onboard_time": 1744722741,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 367824,
+        "num": 367824,
+        "word": "孙颖莎vs张默",
+        "onboard_time": 1744723282,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 361274,
+        "num": 361274,
+        "word": "毛子一家生活点滴",
+        "onboard_time": 1744718782,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 31840,
+        "num": 338451,
+        "word": "极氪007GT价格杀疯了",
+        "onboard_time": 1744726343,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 142104,
+        "num": 331841,
+        "word": "小鹏X9上市大升级不涨价",
+        "onboard_time": 1744726404,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 330625,
+        "num": 330625,
+        "word": "滨崎步的腰",
+        "onboard_time": 1744727603,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 68737,
+        "num": 327487,
+        "word": "沃尔沃全新XC90上市47.9万起",
+        "onboard_time": 1744727783,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 571257,
+        "num": 327282,
+        "word": "原来艺人的收入是这样算的",
+        "onboard_time": 1744702041,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 466311,
+        "num": 322638,
+        "word": "29岁女生不停运动6个月后",
+        "onboard_time": 1744720583,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 345844,
+        "num": 318445,
+        "word": "赵露思红发",
+        "onboard_time": 1744706603,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 317544,
+        "num": 317544,
+        "word": "大妈为年轻10岁做媚眼后哗哗流泪",
+        "onboard_time": 1744727603,
+        "rank": 23,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 76332,
+        "num": 309867,
+        "word": "青岛西海岸1比5山东泰山",
+        "onboard_time": 1744727842,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 307763,
+        "num": 307763,
+        "word": "演员童正维去世",
+        "onboard_time": 1744726464,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97523,
+        "num": 302019,
+        "word": "胡歌说表演可以NG但生命不能重来",
+        "onboard_time": 1744727663,
+        "rank": 26,
+        "category": "汽车,艺人"
+      },
+      {
+        "raw_hot": 196581,
+        "num": 298285,
+        "word": "林更新北京到底有谁在啊火到越南了",
+        "onboard_time": 1744722501,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171717,
+        "num": 284974,
+        "word": "悬疑剧这次打高端局",
+        "onboard_time": 1744727123,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104833,
+        "num": 280157,
+        "word": "孙颖莎说晚间比赛很兴奋",
+        "onboard_time": 1744727303,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 274216,
+        "num": 274216,
+        "word": "7旬老人没有肿瘤被切除5个器官",
+        "onboard_time": 1744725083,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252396,
+        "num": 252396,
+        "word": "折腰没播",
+        "onboard_time": 1744728144,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239140,
+        "num": 239140,
+        "word": "赵露思张婧仪田曦薇状态",
+        "onboard_time": 1744727363,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 217706,
+        "num": 217706,
+        "word": "毛子 总有另一面",
+        "onboard_time": 1744722562,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 213961,
+        "num": 213961,
+        "word": "苏炳添官宣生三胎",
+        "onboard_time": 1744716503,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211350,
+        "num": 211350,
+        "word": "越南是唯一一个庆祝猫年的国家",
+        "onboard_time": 1744718122,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 206703,
+        "num": 206703,
+        "word": "大熊猫芦芦去世",
+        "onboard_time": 1744712843,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20267,
+        "num": 191145,
+        "word": "王曼昱说听到好多男声加油",
+        "onboard_time": 1744728203,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190115,
+        "num": 190115,
+        "word": "老板悄悄将消防员餐食换成超大份",
+        "onboard_time": 1744726103,
+        "rank": 38,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 181164,
+        "num": 181164,
+        "word": "多地惊现奥特曼身影",
+        "onboard_time": 1744726704,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 178413,
+        "num": 178413,
+        "word": "遍地高仿货minmin背刺多少消费者",
+        "onboard_time": 1744723702,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177302,
+        "num": 177302,
+        "word": "滨崎步46岁红毯状态",
+        "onboard_time": 1744727244,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171419,
+        "num": 171419,
+        "word": "女生工作4年考研上北大母亲心疼落泪",
+        "onboard_time": 1744721963,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158200,
+        "num": 158200,
+        "word": "高晓松晒与曾轶可合照",
+        "onboard_time": 1744726464,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157270,
+        "num": 157270,
+        "word": "孙颖莎11比1张默",
+        "onboard_time": 1744728083,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155652,
+        "num": 155652,
+        "word": "赞多很感谢在中国的生活",
+        "onboard_time": 1744727064,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153292,
+        "num": 153292,
+        "word": "森碟17岁生日照",
+        "onboard_time": 1744713441,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61061,
+        "num": 150146,
+        "word": "林诗栋回应世界杯开门红",
+        "onboard_time": 1744726762,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149295,
+        "num": 149295,
+        "word": "甲亢哥保镖还在怀念中国",
+        "onboard_time": 1744721963,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 138619,
+        "num": 138619,
+        "word": "虞书欣陈靖可新剧演情侣",
+        "onboard_time": 1744725923,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对马来西亚进行国事访问#"
+    }
+  }
+}
