@@ -1,6 +1,6 @@
 {
   "startTime": 1744734585432,
-  "endTime": 1744738804813,
+  "endTime": 1744741926299,
   "band_list": [
     {
       "raw_hot": 2218614,
@@ -219,6 +219,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 169241,
+      "num": 150211,
+      "word": "超市闭店清仓500多辆购物车丢失",
+      "onboard_time": 1744736298,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 163439,
       "num": 163439,
       "word": "越南姑娘拿捏中国网络热梗",
@@ -233,14 +241,6 @@
       "onboard_time": 1744731921,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 150211,
-      "num": 150211,
-      "word": "超市闭店清仓500多辆购物车丢失",
-      "onboard_time": 1744736298,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 144702,
@@ -483,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 35718,
+      "num": 35718,
+      "word": "赵露思特别近的生图",
+      "onboard_time": 1744740794,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 34385,
       "num": 505366,
       "word": "反网络霸权网警在行动",
@@ -497,6 +505,30 @@
       "onboard_time": 1744738517,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 28573,
+      "num": 28573,
+      "word": "全网都在问肖战来武汉干啥",
+      "onboard_time": 1744739596,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 24655,
+      "num": 25666,
+      "word": "中马两国是隔海相望的好邻居",
+      "onboard_time": 1744739117,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 22086,
+      "num": 25663,
+      "word": "韩国公交女司机救中国留学生",
+      "onboard_time": 1744741814,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 18802,
