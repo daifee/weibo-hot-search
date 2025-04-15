@@ -1,13 +1,21 @@
 {
   "startTime": 1744648272763,
-  "endTime": 1744694738459,
+  "endTime": 1744695687830,
   "band_list": [
     {
-      "raw_hot": 2280704,
-      "num": 246393,
+      "raw_hot": 2611153,
+      "num": 377483,
       "word": "景德镇车祸",
       "onboard_time": 1744691723,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2377550,
+      "num": 375849,
+      "word": "司机泄愤撞死一家三口还谈笑风生",
+      "onboard_time": 1744693284,
+      "rank": 11,
       "category": "民生新闻"
     },
     {
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 1473206,
-      "num": 878450,
+      "num": 1081801,
       "word": "医生谈黄子韬医护级卫生巾",
       "onboard_time": 1744692201,
       "rank": 35,
@@ -112,14 +120,6 @@
       "word": "路过围观人群竟是儿子儿媳孙子被撞亡",
       "onboard_time": 1744646001,
       "rank": 10,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 949436,
-      "num": 246253,
-      "word": "司机泄愤撞死一家三口还谈笑风生",
-      "onboard_time": 1744693284,
-      "rank": 11,
       "category": "民生新闻"
     },
     {
@@ -227,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 668048,
+      "num": 668048,
+      "word": "SU7坠崖车主发文感谢雷军",
+      "onboard_time": 1744693523,
+      "rank": 5,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 647737,
       "num": 647737,
       "word": "电影永不失联的爱定档",
@@ -257,6 +265,14 @@
       "onboard_time": 1744682721,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 612988,
+      "num": 371469,
+      "word": "三河市委书记",
+      "onboard_time": 1744694902,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 607028,
@@ -379,6 +395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 385684,
+      "num": 363746,
+      "word": "建议睡前30到60分钟数字戒断",
+      "onboard_time": 1744692144,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 380799,
       "num": 380799,
       "word": "特朗普关税横跳有多颠",
@@ -403,12 +427,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 370489,
-      "num": 242546,
-      "word": "建议睡前30到60分钟数字戒断",
-      "onboard_time": 1744692144,
-      "rank": 48,
-      "category": "健康医疗"
+      "raw_hot": 360772,
+      "num": 360772,
+      "word": "谢娜二公被冷到大喊导演名字",
+      "onboard_time": 1744693942,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 353965,
@@ -449,14 +473,6 @@
       "onboard_time": 1744673901,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 318954,
-      "num": 318954,
-      "word": "SU7坠崖车主发文感谢雷军",
-      "onboard_time": 1744693523,
-      "rank": 5,
-      "category": "互联网"
     },
     {
       "raw_hot": 318859,
@@ -508,7 +524,7 @@
     },
     {
       "raw_hot": 293634,
-      "num": 242464,
+      "num": 262754,
       "word": "祖上3代中国人生出金发碧眼小美女",
       "onboard_time": 1744692682,
       "rank": 32,
@@ -537,6 +553,14 @@
       "onboard_time": 1744681341,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 271361,
+      "num": 271361,
+      "word": "小伙刮中100万忙送外卖让家人代领",
+      "onboard_time": 1744694363,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 270957,
@@ -587,7 +611,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 242786,
+      "raw_hot": 245503,
       "num": 384755,
       "word": "檀健次又偷吃零食",
       "onboard_time": 1744691664,
@@ -691,14 +715,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 209820,
-      "num": 242565,
-      "word": "谢娜二公被冷到大喊导演名字",
-      "onboard_time": 1744693942,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 208170,
       "num": 208170,
       "word": "天赐的声音6官宣首发阵容",
@@ -747,12 +763,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 201380,
+      "num": 201380,
+      "word": "京东回应美团嘲讽",
+      "onboard_time": 1744695141,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 200193,
+      "num": 363974,
+      "word": "王珞丹来浪姐的原因",
+      "onboard_time": 1744694602,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199993,
       "num": 199993,
       "word": "杨幂15年前就想和张艺谋合作",
       "onboard_time": 1744674921,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 199653,
+      "num": 199653,
+      "word": "没关门金毛跑出撞死邻居被判赔40万",
+      "onboard_time": 1744694121,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 195250,
@@ -809,14 +849,6 @@
       "onboard_time": 1744691183,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 190093,
-      "num": 190093,
-      "word": "没关门金毛跑出撞死邻居被判赔40万",
-      "onboard_time": 1744694121,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 189962,
@@ -987,20 +1019,12 @@
       "category": "美食,幽默"
     },
     {
-      "raw_hot": 165702,
-      "num": 165702,
-      "word": "小伙刮中100万忙送外卖让家人代领",
-      "onboard_time": 1744694363,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 163662,
-      "num": 178672,
-      "word": "王珞丹来浪姐的原因",
-      "onboard_time": 1744694602,
-      "rank": 43,
-      "category": "综艺"
+      "raw_hot": 162587,
+      "num": 378096,
+      "word": "特朗普考虑汽车零部件关税豁免",
+      "onboard_time": 1744694421,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 160565,
@@ -1067,20 +1091,20 @@
       "category": "财经,国际时政"
     },
     {
+      "raw_hot": 150498,
+      "num": 160794,
+      "word": "白夜行",
+      "onboard_time": 1744692382,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150034,
       "num": 172546,
       "word": "驻日大使馆提醒注意防范地震",
       "onboard_time": 1744603703,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 146885,
-      "num": 160794,
-      "word": "白夜行",
-      "onboard_time": 1744692382,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 146778,
@@ -1227,6 +1251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126296,
+      "num": 264646,
+      "word": "特朗普政府冻结对哈佛大学拨款",
+      "onboard_time": 1744695621,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 126177,
       "num": 126177,
       "word": "国漫黄金十年",
@@ -1265,14 +1297,6 @@
       "onboard_time": 1744645341,
       "rank": 27,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 121651,
-      "num": 243259,
-      "word": "特朗普考虑汽车零部件关税豁免",
-      "onboard_time": 1744694421,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 118743,
@@ -1404,7 +1428,7 @@
     },
     {
       "raw_hot": 89935,
-      "num": 242616,
+      "num": 286080,
       "word": "何小鹏称自研图灵AI芯片二季度上车",
       "onboard_time": 1744692382,
       "rank": 26,
@@ -1436,7 +1460,7 @@
     },
     {
       "raw_hot": 86371,
-      "num": 242515,
+      "num": 286057,
       "word": "戴虞书欣同款蝴蝶结的猪",
       "onboard_time": 1744692923,
       "rank": 30,
@@ -1452,7 +1476,7 @@
     },
     {
       "raw_hot": 84779,
-      "num": 242603,
+      "num": 361897,
       "word": "男性九价HPV疫苗三地开启接种",
       "onboard_time": 1744690282,
       "rank": 35,
@@ -1531,6 +1555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74322,
+      "num": 360826,
+      "word": "对不起我其实是友情脑",
+      "onboard_time": 1744695442,
+      "rank": 26,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 74094,
       "num": 272272,
       "word": "一季度我国货物贸易进出口总值同比增长1.3%",
@@ -1587,6 +1619,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 63106,
+      "num": 200449,
+      "word": "Haodong高情商发言",
+      "onboard_time": 1744692742,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 61740,
       "num": 79693,
       "word": "何老师不语只一味的本色出演",
@@ -1627,8 +1667,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 48071,
-      "num": 221195,
+      "raw_hot": 54279,
+      "num": 289183,
       "word": "张本智和11比0埃尔贝亚利",
       "onboard_time": 1744694723,
       "rank": 36,
@@ -1649,6 +1689,14 @@
       "onboard_time": 1744637904,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 46890,
+      "num": 369474,
+      "word": "你知道汽车安全带是谁发明的吗",
+      "onboard_time": 1744695141,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 45199,
@@ -1689,6 +1737,14 @@
       "onboard_time": 1744665194,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 40639,
+      "num": 373359,
+      "word": "长和港口最新交易细节曝光",
+      "onboard_time": 1744694963,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 38627,
@@ -1777,6 +1833,14 @@
       "onboard_time": 1744654334,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 22461,
+      "num": 367906,
+      "word": "超六成受访应届毕业生遇到过就业歧视",
+      "onboard_time": 1744694902,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22447,
