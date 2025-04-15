@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/04/15 13:41:27
+本榜单时间：2025/01/01 00:26:38 ~ 2025/04/15 14:34:53
 </p>
 </blockquote>
 <p>
@@ -1227,6 +1227,12 @@ bnd粉丝去世（热度：4621424）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B8%E6%9C%BA%E6%B3%84%E6%84%A4%E6%92%9E%E6%AD%BB%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E8%BF%98%E8%B0%88%E7%AC%91%E9%A3%8E%E7%94%9F%23" target="weibo">
+司机泄愤撞死一家三口还谈笑风生（热度：3491899）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E5%9B%9E%E5%BA%94%E5%B4%A9%E4%BA%86%23" target="weibo">
 王者荣耀回应崩了（热度：3483950）
 </a>
@@ -1805,12 +1811,6 @@ DeepSeek（热度：3038517）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%87%AA%E7%A7%B0%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%89%8D%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%96%8A%E8%AF%9D%E8%B5%B5%E9%9C%B2%E6%80%9D%23" target="weibo">
 自称赵露思前工作人员喊话赵露思（热度：2944850）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%99%93%E6%9B%BE%E8%A2%AB%E6%9B%9D%E7%A6%BB%E5%A9%9A%E5%8F%AF%E4%BB%A5%E5%87%80%E8%BA%AB%E5%87%BA%E6%88%B7%23" target="weibo">
-陈晓曾被曝离婚可以净身出户（热度：2943890）
 </a>
 </li>
 

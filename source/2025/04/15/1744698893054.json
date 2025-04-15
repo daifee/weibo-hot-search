@@ -1,0 +1,410 @@
+{
+  "runTime": 1744698893054,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 426164,
+        "num": 1068186,
+        "word": "悬赏通缉3名美国特工",
+        "onboard_time": 1744679662,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 628317,
+        "num": 628317,
+        "word": "SU7坠崖车主发文感谢雷军",
+        "onboard_time": 1744693523,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 150683,
+        "num": 497115,
+        "word": "人民币与美元欧元或形成并存新格局",
+        "onboard_time": 1744688662,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 912573,
+        "num": 486941,
+        "word": "医生谈黄子韬医护级卫生巾",
+        "onboard_time": 1744692201,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 383662,
+        "num": 383662,
+        "word": "国家安全部推出金猴降妖特别篇",
+        "onboard_time": 1744695862,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 298475,
+        "num": 298475,
+        "word": "巴西取代美国成中国最大的大豆供应国",
+        "onboard_time": 1744684340,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 297690,
+        "num": 297690,
+        "word": "张栋梁说在中国从不感觉自己是外人",
+        "onboard_time": 1744689863,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247642,
+        "num": 247642,
+        "word": "国产剧第一对忙着还债的男女主",
+        "onboard_time": 1744697603,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210234,
+        "num": 210234,
+        "word": "沈腾加入流浪地球3",
+        "onboard_time": 1744685482,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 160535,
+        "num": 209530,
+        "word": "黄金",
+        "onboard_time": 1744682001,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 3491899,
+        "num": 208128,
+        "word": "司机泄愤撞死一家三口还谈笑风生",
+        "onboard_time": 1744693284,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1068825,
+        "num": 205444,
+        "word": "景德镇车祸",
+        "onboard_time": 1744691723,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1060815,
+        "num": 204729,
+        "word": "杜华回应王怡人6年零工资",
+        "onboard_time": 1744696582,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129925,
+        "num": 202017,
+        "word": "特朗普政府冻结对哈佛大学拨款",
+        "onboard_time": 1744695621,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 100280,
+        "num": 201003,
+        "word": "美国屡次打击香港只会反噬其身",
+        "onboard_time": 1744697424,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 707847,
+        "num": 199304,
+        "word": "三河市委书记",
+        "onboard_time": 1744694902,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 505629,
+        "num": 195993,
+        "word": "夫妇遇害前叫醒熟睡两女儿躲过一劫",
+        "onboard_time": 1744686381,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 457621,
+        "num": 194998,
+        "word": "谢娜二公被冷到大喊导演名字",
+        "onboard_time": 1744693942,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156528,
+        "num": 192850,
+        "word": "林高远3比1约内斯库",
+        "onboard_time": 1744697902,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 381063,
+        "num": 191811,
+        "word": "黄杨钿甜北电第六",
+        "onboard_time": 1744689263,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 508639,
+        "num": 188953,
+        "word": "还以为殉情只是古老传言",
+        "onboard_time": 1744686801,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 355232,
+        "num": 188082,
+        "word": "建议睡前30到60分钟数字戒断",
+        "onboard_time": 1744692144,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 337600,
+        "num": 186023,
+        "word": "马思唯和女友海边泳装照",
+        "onboard_time": 1744697061,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261097,
+        "num": 183243,
+        "word": "张康乐与北电第六",
+        "onboard_time": 1744697662,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182937,
+        "num": 182937,
+        "word": "国色芳华2预告",
+        "onboard_time": 1744695862,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174762,
+        "num": 174762,
+        "word": "陈丽君中国非遗年度人物候选人",
+        "onboard_time": 1744679962,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139052,
+        "num": 174256,
+        "word": "无忧渡折腰 难兄难弟",
+        "onboard_time": 1744687581,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 317118,
+        "num": 173589,
+        "word": "小伙刮中100万忙送外卖让家人代领",
+        "onboard_time": 1744694363,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129080,
+        "num": 173185,
+        "word": "白夜行",
+        "onboard_time": 1744692382,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 280743,
+        "num": 172122,
+        "word": "景德镇车祸司机撞人前0.4秒才打方向",
+        "onboard_time": 1744686081,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228283,
+        "num": 171479,
+        "word": "一家被撞身亡案被告只认交通肇事",
+        "onboard_time": 1744687462,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177348,
+        "num": 171284,
+        "word": "外卖员被CoCo店员砸奶茶",
+        "onboard_time": 1744696883,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170675,
+        "num": 170675,
+        "word": "祖上3代中国人生出金发碧眼小美女",
+        "onboard_time": 1744692682,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169113,
+        "num": 169113,
+        "word": "虞书欣撕拉片vlog",
+        "onboard_time": 1744698202,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102025,
+        "num": 143205,
+        "word": "王楚钦vs萨琳",
+        "onboard_time": 1744698742,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170127,
+        "num": 142603,
+        "word": "叶一茜晒照为森碟庆生",
+        "onboard_time": 1744688121,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140923,
+        "num": 140923,
+        "word": "没关门金毛跑出撞死邻居被判赔40万",
+        "onboard_time": 1744694121,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74427,
+        "num": 139787,
+        "word": "一句妻子的责任抹杀了她全部价值",
+        "onboard_time": 1744698081,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108719,
+        "num": 139307,
+        "word": "Red胡静怡北电第十名",
+        "onboard_time": 1744698861,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65313,
+        "num": 139134,
+        "word": "你知道汽车安全带是谁发明的吗",
+        "onboard_time": 1744695141,
+        "rank": 39,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 139131,
+        "num": 139131,
+        "word": "国家安全比影视剧更惊心动魄",
+        "onboard_time": 1744697061,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 133514,
+        "num": 133514,
+        "word": "一个农村女孩拼尽全力考上了三本",
+        "onboard_time": 1744696582,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130483,
+        "num": 130483,
+        "word": "deepseek王炸组合",
+        "onboard_time": 1744694004,
+        "rank": 42,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 124966,
+        "num": 124966,
+        "word": "湖北文旅发了蔡徐坤",
+        "onboard_time": 1744693343,
+        "rank": 43,
+        "category": "艺人,旅游"
+      },
+      {
+        "raw_hot": 123022,
+        "num": 123022,
+        "word": "TikTok上刮起中国工厂旋风",
+        "onboard_time": 1744698622,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 121693,
+        "num": 121693,
+        "word": "iPhone17ProMax手机壳再曝光",
+        "onboard_time": 1744679362,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 120817,
+        "num": 120817,
+        "word": "特朗普考虑汽车零部件关税豁免",
+        "onboard_time": 1744694421,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 116179,
+        "num": 116179,
+        "word": "上海799一位的自助餐厅卷款跑路",
+        "onboard_time": 1744680981,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113767,
+        "num": 113767,
+        "word": "葛夕称抑郁症复发加大药量",
+        "onboard_time": 1744698861,
+        "rank": 48,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 97229,
+        "num": 111449,
+        "word": "奔跑吧西安录制古都寻韵",
+        "onboard_time": 1744698381,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同苏林会谈#"
+    }
+  }
+}
