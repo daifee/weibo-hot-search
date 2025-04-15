@@ -1,0 +1,410 @@
+{
+  "runTime": 1744694738459,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 598659,
+        "num": 1095785,
+        "word": "悬赏通缉3名美国特工",
+        "onboard_time": 1744679662,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1473206,
+        "num": 878450,
+        "word": "医生谈黄子韬医护级卫生巾",
+        "onboard_time": 1744692201,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181713,
+        "num": 683830,
+        "word": "人民币与美元欧元或形成并存新格局",
+        "onboard_time": 1744688662,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 575876,
+        "num": 575876,
+        "word": "巴西取代美国成中国最大的大豆供应国",
+        "onboard_time": 1744684340,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 466739,
+        "num": 466739,
+        "word": "张栋梁说在中国从不感觉自己是外人",
+        "onboard_time": 1744689863,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318954,
+        "num": 318954,
+        "word": "SU7坠崖车主发文感谢雷军",
+        "onboard_time": 1744693523,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 5144,
+        "num": 301145,
+        "word": "那些你不知道的北京地儿",
+        "onboard_time": 1744619181,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 297862,
+        "num": 297862,
+        "word": "沈腾加入流浪地球3",
+        "onboard_time": 1744685482,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 263538,
+        "num": 263538,
+        "word": "无忧渡折腰 难兄难弟",
+        "onboard_time": 1744687581,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246691,
+        "num": 246691,
+        "word": "黄金",
+        "onboard_time": 1744682001,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 2280704,
+        "num": 246393,
+        "word": "景德镇车祸",
+        "onboard_time": 1744691723,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 949436,
+        "num": 246253,
+        "word": "司机泄愤撞死一家三口还谈笑风生",
+        "onboard_time": 1744693284,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 892563,
+        "num": 245729,
+        "word": "三河市委主要负责人被免职",
+        "onboard_time": 1744684462,
+        "rank": 12,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 879804,
+        "num": 245373,
+        "word": "景德镇车祸司机撞人前0.4秒才打方向",
+        "onboard_time": 1744686081,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 803962,
+        "num": 245112,
+        "word": "黄杨钿甜北电第六",
+        "onboard_time": 1744689263,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 695781,
+        "num": 244432,
+        "word": "夫妇遇害前叫醒熟睡两女儿躲过一劫",
+        "onboard_time": 1744686381,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 599737,
+        "num": 244284,
+        "word": "一家被撞身亡案被告只认交通肇事",
+        "onboard_time": 1744687462,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 352182,
+        "num": 243569,
+        "word": "叶一茜晒照为森碟庆生",
+        "onboard_time": 1744688121,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121651,
+        "num": 243259,
+        "word": "特朗普考虑汽车零部件关税豁免",
+        "onboard_time": 1744694421,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 79088,
+        "num": 242899,
+        "word": "林高远vs约内斯库",
+        "onboard_time": 1744693882,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242786,
+        "num": 242786,
+        "word": "檀健次又偷吃零食",
+        "onboard_time": 1744691664,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182987,
+        "num": 242776,
+        "word": "手语吵架是一种什么体验",
+        "onboard_time": 1744693582,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 96775,
+        "num": 242757,
+        "word": "全国男性九价HPV疫苗首针开打",
+        "onboard_time": 1744690401,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170039,
+        "num": 242709,
+        "word": "湖北文旅发了蔡徐坤",
+        "onboard_time": 1744693343,
+        "rank": 23,
+        "category": "艺人,旅游"
+      },
+      {
+        "raw_hot": 942274,
+        "num": 242671,
+        "word": "还以为殉情只是古老传言",
+        "onboard_time": 1744686801,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 80406,
+        "num": 242657,
+        "word": "乒乓球这些内容可用鹰眼判罚",
+        "onboard_time": 1744694182,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89935,
+        "num": 242616,
+        "word": "何小鹏称自研图灵AI芯片二季度上车",
+        "onboard_time": 1744692382,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 70247,
+        "num": 242603,
+        "word": "男性九价HPV疫苗三地开启接种",
+        "onboard_time": 1744690282,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209820,
+        "num": 242565,
+        "word": "谢娜二公被冷到大喊导演名字",
+        "onboard_time": 1744693942,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 370489,
+        "num": 242546,
+        "word": "建议睡前30到60分钟数字戒断",
+        "onboard_time": 1744692144,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 86371,
+        "num": 242515,
+        "word": "戴虞书欣同款蝴蝶结的猪",
+        "onboard_time": 1744692923,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339824,
+        "num": 242490,
+        "word": "iPhone17ProMax手机壳再曝光",
+        "onboard_time": 1744679362,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 293634,
+        "num": 242464,
+        "word": "祖上3代中国人生出金发碧眼小美女",
+        "onboard_time": 1744692682,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242443,
+        "num": 242443,
+        "word": "415 TFBOYS",
+        "onboard_time": 1744677204,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232649,
+        "num": 232649,
+        "word": "ACT对战MRC",
+        "onboard_time": 1744693763,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 224781,
+        "num": 224781,
+        "word": "怀了双胞胎的胎动",
+        "onboard_time": 1744692503,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 48071,
+        "num": 221195,
+        "word": "张本智和11比0埃尔贝亚利",
+        "onboard_time": 1744694723,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47637,
+        "num": 221194,
+        "word": "一部沃尔沃半部安全史",
+        "onboard_time": 1744690343,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 221193,
+        "num": 221193,
+        "word": "陈丽君中国非遗年度人物候选人",
+        "onboard_time": 1744679962,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216090,
+        "num": 216090,
+        "word": "雷军回应小米手机第一",
+        "onboard_time": 1744692682,
+        "rank": 39,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 205307,
+        "num": 205307,
+        "word": "虞书欣小林老师报到",
+        "onboard_time": 1744694243,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198388,
+        "num": 198388,
+        "word": "上海799一位的自助餐厅卷款跑路",
+        "onboard_time": 1744680981,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190093,
+        "num": 190093,
+        "word": "没关门金毛跑出撞死邻居被判赔40万",
+        "onboard_time": 1744694121,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163662,
+        "num": 178672,
+        "word": "王珞丹来浪姐的原因",
+        "onboard_time": 1744694602,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137996,
+        "num": 173188,
+        "word": "苦尽柑来遇见你为何成了东亚榨泪机",
+        "onboard_time": 1744689682,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169477,
+        "num": 169477,
+        "word": "电影永不失联的爱定档",
+        "onboard_time": 1744686621,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 167047,
+        "num": 167047,
+        "word": "deepseek王炸组合",
+        "onboard_time": 1744694004,
+        "rank": 46,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 165702,
+        "num": 165702,
+        "word": "小伙刮中100万忙送外卖让家人代领",
+        "onboard_time": 1744694363,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146885,
+        "num": 160794,
+        "word": "白夜行",
+        "onboard_time": 1744692382,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160565,
+        "num": 160565,
+        "word": "天杀的烤箱对我孩子做了什么",
+        "onboard_time": 1744694542,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见越南国会主席陈青敏#"
+    }
+  }
+}

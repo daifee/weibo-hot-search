@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744692248240,
+  "endTime": 1744694738459,
   "band_list": [
     {
       "raw_hot": 3336228,
@@ -25,6 +25,14 @@
       "onboard_time": 1744602563,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2280704,
+      "num": 246393,
+      "word": "景德镇车祸",
+      "onboard_time": 1744691723,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2260745,
@@ -241,6 +249,14 @@
       "onboard_time": 1744680981,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1473206,
+      "num": 878450,
+      "word": "医生谈黄子韬医护级卫生巾",
+      "onboard_time": 1744692201,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 1459988,
@@ -593,6 +609,14 @@
       "onboard_time": 1744626683,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 949436,
+      "num": 246253,
+      "word": "司机泄愤撞死一家三口还谈笑风生",
+      "onboard_time": 1744693284,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 949226,
@@ -1179,6 +1203,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 599737,
+      "num": 389374,
+      "word": "一家被撞身亡案被告只认交通肇事",
+      "onboard_time": 1744687462,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 593732,
       "num": 593732,
       "word": "当年都以为奔跑吧兄弟没有第二季",
@@ -1755,14 +1787,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 389374,
-      "num": 389374,
-      "word": "一家被撞身亡案被告只认交通肇事",
-      "onboard_time": 1744687462,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 388194,
       "num": 311928,
       "word": "陈丽君中国非遗年度人物候选人",
@@ -1865,6 +1889,14 @@
       "onboard_time": 1744472304,
       "rank": 8,
       "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 370489,
+      "num": 242546,
+      "word": "建议睡前30到60分钟数字戒断",
+      "onboard_time": 1744692144,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 370235,
@@ -2091,6 +2123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 318954,
+      "num": 318954,
+      "word": "SU7坠崖车主发文感谢雷军",
+      "onboard_time": 1744693523,
+      "rank": 5,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 318859,
       "num": 318859,
       "word": "美国又威胁征收半导体关税",
@@ -2201,6 +2241,14 @@
       "onboard_time": 1744470685,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 293634,
+      "num": 242464,
+      "word": "祖上3代中国人生出金发碧眼小美女",
+      "onboard_time": 1744692682,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 292764,
@@ -2321,14 +2369,6 @@
       "onboard_time": 1744547602,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 274686,
-      "num": 274686,
-      "word": "医生谈黄子韬医护级卫生巾",
-      "onboard_time": 1744692201,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 274435,
@@ -2619,6 +2659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 242786,
+      "num": 384755,
+      "word": "檀健次又偷吃零食",
+      "onboard_time": 1744691664,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 240546,
       "num": 265810,
       "word": "女装退货率越来越高",
@@ -2737,6 +2785,14 @@
       "onboard_time": 1744626322,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 232649,
+      "num": 232649,
+      "word": "ACT对战MRC",
+      "onboard_time": 1744693763,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 232155,
@@ -2883,6 +2939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 224781,
+      "num": 224781,
+      "word": "怀了双胞胎的胎动",
+      "onboard_time": 1744692503,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 224687,
       "num": 481658,
       "word": "澳牛肉将填补美国牛肉出口",
@@ -2977,6 +3041,14 @@
       "onboard_time": 1744612523,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 216090,
+      "num": 216090,
+      "word": "雷军回应小米手机第一",
+      "onboard_time": 1744692682,
+      "rank": 39,
+      "category": "数码,互联网"
     },
     {
       "raw_hot": 215629,
@@ -3195,6 +3267,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 209820,
+      "num": 242565,
+      "word": "谢娜二公被冷到大喊导演名字",
+      "onboard_time": 1744693942,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209746,
       "num": 209746,
       "word": "WCBA总决赛",
@@ -3307,6 +3387,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 205307,
+      "num": 205307,
+      "word": "虞书欣小林老师报到",
+      "onboard_time": 1744694243,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205196,
       "num": 205196,
       "word": "玩密室逃脱被NPC吓到摔破头住院",
@@ -3353,14 +3441,6 @@
       "onboard_time": 1744532542,
       "rank": 23,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 204417,
-      "num": 204417,
-      "word": "景德镇车祸",
-      "onboard_time": 1744691723,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 203901,
@@ -3619,14 +3699,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 193794,
-      "num": 384755,
-      "word": "檀健次又偷吃零食",
-      "onboard_time": 1744691664,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 193636,
       "num": 193636,
       "word": "五哈",
@@ -3769,6 +3841,14 @@
       "onboard_time": 1744521681,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190093,
+      "num": 190093,
+      "word": "没关门金毛跑出撞死邻居被判赔40万",
+      "onboard_time": 1744694121,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 189978,
@@ -3985,6 +4065,14 @@
       "onboard_time": 1744601243,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 182987,
+      "num": 242776,
+      "word": "手语吵架是一种什么体验",
+      "onboard_time": 1744693582,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 182923,
@@ -4307,14 +4395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 174042,
-      "num": 174042,
-      "word": "建议睡前30到60分钟数字戒断",
-      "onboard_time": 1744692144,
-      "rank": 48,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 173868,
       "num": 243214,
       "word": "花花花花花人海海海海海",
@@ -4443,6 +4523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170039,
+      "num": 242709,
+      "word": "湖北文旅发了蔡徐坤",
+      "onboard_time": 1744693343,
+      "rank": 23,
+      "category": "艺人,旅游"
+    },
+    {
       "raw_hot": 170001,
       "num": 170001,
       "word": "芒果补齐了宋妍霏庆典动作",
@@ -4507,6 +4595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167047,
+      "num": 167047,
+      "word": "deepseek王炸组合",
+      "onboard_time": 1744694004,
+      "rank": 46,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 166906,
       "num": 166906,
       "word": "九尾时隔227天重登赛场",
@@ -4545,6 +4641,14 @@
       "onboard_time": 1744550842,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 165702,
+      "num": 165702,
+      "word": "小伙刮中100万忙送外卖让家人代领",
+      "onboard_time": 1744694363,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 165415,
@@ -4593,6 +4697,14 @@
       "onboard_time": 1744535002,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 163662,
+      "num": 178672,
+      "word": "王珞丹来浪姐的原因",
+      "onboard_time": 1744694602,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 163306,
@@ -4681,6 +4793,14 @@
       "onboard_time": 1744625722,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160565,
+      "num": 160565,
+      "word": "天杀的烤箱对我孩子做了什么",
+      "onboard_time": 1744694542,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 160329,
@@ -5008,6 +5128,14 @@
       "word": "陈都灵 楚后",
       "onboard_time": 1744502180,
       "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 146885,
+      "num": 160794,
+      "word": "白夜行",
+      "onboard_time": 1744692382,
+      "rank": 48,
       "category": "剧集"
     },
     {
@@ -6179,6 +6307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121651,
+      "num": 243259,
+      "word": "特朗普考虑汽车零部件关税豁免",
+      "onboard_time": 1744694421,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 121235,
       "num": 242916,
       "word": "昆明一商铺凌晨起火致8死",
@@ -7163,6 +7299,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 89935,
+      "num": 242616,
+      "word": "何小鹏称自研图灵AI芯片二季度上车",
+      "onboard_time": 1744692382,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 89406,
       "num": 291750,
       "word": "何运晨职场进阶找新offer",
@@ -7219,6 +7363,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 86371,
+      "num": 242515,
+      "word": "戴虞书欣同款蝴蝶结的猪",
+      "onboard_time": 1744692923,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 85543,
       "num": 85543,
       "word": "姚琛雨中万人蹦迪让人红温",
@@ -7244,7 +7396,7 @@
     },
     {
       "raw_hot": 84779,
-      "num": 232257,
+      "num": 242603,
       "word": "男性九价HPV疫苗三地开启接种",
       "onboard_time": 1744690282,
       "rank": 35,
@@ -7337,6 +7489,22 @@
       "onboard_time": 1744515141,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 80406,
+      "num": 242657,
+      "word": "乒乓球这些内容可用鹰眼判罚",
+      "onboard_time": 1744694182,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 79088,
+      "num": 242899,
+      "word": "林高远vs约内斯库",
+      "onboard_time": 1744693882,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 78178,
@@ -7761,6 +7929,14 @@
       "onboard_time": 1744594160,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 48071,
+      "num": 221195,
+      "word": "张本智和11比0埃尔贝亚利",
+      "onboard_time": 1744694723,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 47849,
