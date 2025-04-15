@@ -1,0 +1,410 @@
+{
+  "runTime": 1744706001109,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 335002,
+        "num": 1053600,
+        "word": "悬赏通缉3名美国特工",
+        "onboard_time": 1744679662,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 784678,
+        "num": 784678,
+        "word": "一天中最易长胖的4个时间段",
+        "onboard_time": 1744700542,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 55135,
+        "num": 463623,
+        "word": "发现美国特工线索拨打0451110",
+        "onboard_time": 1744680202,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 307867,
+        "num": 307867,
+        "word": "宋祖儿造型",
+        "onboard_time": 1744704862,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 293460,
+        "num": 293460,
+        "word": "三河市委主要负责人被免职处理",
+        "onboard_time": 1744702041,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1204214,
+        "num": 292931,
+        "word": "黄子韬卫生巾试用反馈",
+        "onboard_time": 1744701620,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286804,
+        "num": 286804,
+        "word": "特朗普政府冻结对哈佛大学拨款",
+        "onboard_time": 1744695621,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 270561,
+        "num": 270561,
+        "word": "半熟4女嘉宾",
+        "onboard_time": 1744704321,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250105,
+        "num": 250105,
+        "word": "国家安全部推出金猴降妖特别篇",
+        "onboard_time": 1744695862,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107195,
+        "num": 250029,
+        "word": "美企业要求法院叫停针对中国关税措施",
+        "onboard_time": 1744704921,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1683808,
+        "num": 247576,
+        "word": "原来艺人的收入是这样算的",
+        "onboard_time": 1744702041,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 737143,
+        "num": 246396,
+        "word": "GAI都瘦脱相了",
+        "onboard_time": 1744703420,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 567108,
+        "num": 245259,
+        "word": "葛夕称抑郁症复发加大药量",
+        "onboard_time": 1744698861,
+        "rank": 12,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 480296,
+        "num": 244325,
+        "word": "律师说撞死1家3口司机辩称没看清",
+        "onboard_time": 1744704562,
+        "rank": 13,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 397937,
+        "num": 242826,
+        "word": "比伯裤子",
+        "onboard_time": 1744701381,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367830,
+        "num": 241417,
+        "word": "杜华回应王怡人6年零工资",
+        "onboard_time": 1744696582,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201167,
+        "num": 240397,
+        "word": "张栋梁说在中国从不感觉自己是外人",
+        "onboard_time": 1744689863,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103750,
+        "num": 239574,
+        "word": "曝桥本环奈中川大志分手",
+        "onboard_time": 1744702641,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42546,
+        "num": 237294,
+        "word": "林高远说首场打得比较谨慎",
+        "onboard_time": 1744704261,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85978,
+        "num": 235969,
+        "word": "被认定校园欺凌者不得进入省级普高",
+        "onboard_time": 1744705162,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 360294,
+        "num": 234778,
+        "word": "夫妇遇害前叫醒熟睡两女儿躲过一劫",
+        "onboard_time": 1744686381,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234582,
+        "num": 234582,
+        "word": "建议睡前30到60分钟数字戒断",
+        "onboard_time": 1744692144,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 198605,
+        "num": 222928,
+        "word": "张婧仪活动生图",
+        "onboard_time": 1744705401,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 221215,
+        "num": 221215,
+        "word": "马思唯和女友海边泳装照",
+        "onboard_time": 1744697061,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216594,
+        "num": 216594,
+        "word": "SU7坠崖车主发文感谢雷军",
+        "onboard_time": 1744693523,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 211482,
+        "num": 211482,
+        "word": "白宫发言人多件着装中国制造",
+        "onboard_time": 1744700721,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 130470,
+        "num": 209553,
+        "word": "国色芳华2预告",
+        "onboard_time": 1744695862,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118697,
+        "num": 206600,
+        "word": "谭维维吐槽自己专辑封面脸没洗干净",
+        "onboard_time": 1744704623,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115177,
+        "num": 203663,
+        "word": "虞书欣旅行中",
+        "onboard_time": 1744705282,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21781,
+        "num": 201650,
+        "word": "拥有绝美颜值的二次元角色",
+        "onboard_time": 1744705162,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 200172,
+        "num": 200172,
+        "word": "你们自己没祖宗吗",
+        "onboard_time": 1744700901,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 181270,
+        "num": 181270,
+        "word": "京东本季度再招不低于5万外卖员",
+        "onboard_time": 1744704982,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 171859,
+        "num": 171859,
+        "word": "王楚钦vs萨琳",
+        "onboard_time": 1744698742,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170512,
+        "num": 170512,
+        "word": "黄杨钿甜北电第六",
+        "onboard_time": 1744689263,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31959,
+        "num": 162498,
+        "word": "Q1悬疑剧质感不差为啥热度不高",
+        "onboard_time": 1744705822,
+        "rank": 34,
+        "category": "剧集,议题讨论"
+      },
+      {
+        "raw_hot": 160181,
+        "num": 160181,
+        "word": "泽连斯基再次喊话特朗普",
+        "onboard_time": 1744703000,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 160117,
+        "num": 160117,
+        "word": "还以为殉情只是古老传言",
+        "onboard_time": 1744686801,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152237,
+        "num": 152237,
+        "word": "小伙刮中100万忙送外卖让家人代领",
+        "onboard_time": 1744694363,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27189,
+        "num": 149252,
+        "word": "靠墙静蹲康复逻辑",
+        "onboard_time": 1744704982,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 38808,
+        "num": 147073,
+        "word": "可灵AI开启视频生成2.0时代",
+        "onboard_time": 1744704080,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 146472,
+        "num": 146472,
+        "word": "宋雨琦银发公主切",
+        "onboard_time": 1744701081,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142160,
+        "num": 142160,
+        "word": "买300平送300平的复式顶楼",
+        "onboard_time": 1744697781,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142119,
+        "num": 142119,
+        "word": "若风回应月入千万",
+        "onboard_time": 1744700600,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 139657,
+        "num": 139657,
+        "word": "巴西取代美国成中国最大的大豆供应国",
+        "onboard_time": 1744684340,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 22440,
+        "num": 129335,
+        "word": "王楚钦皱成一团",
+        "onboard_time": 1744705942,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127057,
+        "num": 127057,
+        "word": "青海玉珠峰3名登山者遇难",
+        "onboard_time": 1744702041,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119625,
+        "num": 119625,
+        "word": "古人春天都玩什么",
+        "onboard_time": 1744700120,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119363,
+        "num": 119363,
+        "word": "人民币与美元欧元或形成并存新格局",
+        "onboard_time": 1744688662,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 118825,
+        "num": 118825,
+        "word": "王楚钦回应4比0首胜",
+        "onboard_time": 1744703782,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111479,
+        "num": 111479,
+        "word": "谢娜二公被冷到大喊导演名字",
+        "onboard_time": 1744693942,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#6点举措深化中越命运共同体建设#"
+    }
+  }
+}
