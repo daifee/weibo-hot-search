@@ -1,14 +1,22 @@
 {
   "startTime": 1744648272763,
-  "endTime": 1744689071347,
+  "endTime": 1744691381346,
   "band_list": [
     {
       "raw_hot": 1814732,
-      "num": 372703,
+      "num": 417538,
       "word": "还以为殉情只是古老传言",
       "onboard_time": 1744686801,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1806510,
+      "num": 482069,
+      "word": "景德镇车祸司机撞人前0.4秒才打方向",
+      "onboard_time": 1744686081,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1793983,
@@ -25,6 +33,14 @@
       "onboard_time": 1744680981,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1408401,
+      "num": 476265,
+      "word": "黄杨钿甜北电第六",
+      "onboard_time": 1744689263,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1354399,
@@ -44,18 +60,10 @@
     },
     {
       "raw_hot": 1273455,
-      "num": 449664,
+      "num": 470833,
       "word": "夫妇遇害前叫醒熟睡两女儿躲过一劫",
       "onboard_time": 1744686381,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1223350,
-      "num": 437684,
-      "word": "景德镇车祸司机撞人前0.4秒才打方向",
-      "onboard_time": 1744686081,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 1112333,
-      "num": 402499,
+      "num": 417827,
       "word": "415 TFBOYS",
       "onboard_time": 1744677204,
       "rank": 10,
@@ -155,8 +163,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 761269,
-      "num": 1121803,
+      "raw_hot": 764666,
+      "num": 1122346,
       "word": "悬赏通缉3名美国特工",
       "onboard_time": 1744679662,
       "rank": 0,
@@ -169,6 +177,14 @@
       "onboard_time": 1744675282,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 693623,
+      "num": 455525,
+      "word": "叶一茜晒照为森碟庆生",
+      "onboard_time": 1744688121,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 688762,
@@ -196,7 +212,7 @@
     },
     {
       "raw_hot": 626898,
-      "num": 296909,
+      "num": 332975,
       "word": "上海799一位的自助餐厅卷款跑路",
       "onboard_time": 1744680981,
       "rank": 20,
@@ -217,6 +233,14 @@
       "onboard_time": 1744679422,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 591303,
+      "num": 591303,
+      "word": "张栋梁说在中国从不感觉自己是外人",
+      "onboard_time": 1744689863,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 538793,
@@ -291,19 +315,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 416994,
+      "num": 416994,
+      "word": "无忧渡折腰 难兄难弟",
+      "onboard_time": 1744687581,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 409587,
       "num": 212285,
       "word": "男演员回应退圈回老家赶集摆摊",
       "onboard_time": 1744648040,
       "rank": 25,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 395335,
-      "num": 395335,
-      "word": "叶一茜晒照为森碟庆生",
-      "onboard_time": 1744688121,
-      "rank": 16,
       "category": "艺人"
     },
     {
@@ -387,6 +411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 327945,
+      "num": 327945,
+      "word": "一家被撞身亡案被告只认交通肇事",
+      "onboard_time": 1744687462,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 318859,
       "num": 318859,
       "word": "美国又威胁征收半导体关税",
@@ -411,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 308802,
+      "num": 308802,
+      "word": "光遇",
+      "onboard_time": 1744689502,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 298862,
       "num": 298862,
       "word": "成毅陈都灵邓为等火到马来西亚了",
@@ -424,14 +464,6 @@
       "word": "无忧渡折腰 对打",
       "onboard_time": 1744636285,
       "rank": 23,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 289656,
-      "num": 289656,
-      "word": "无忧渡折腰 难兄难弟",
-      "onboard_time": 1744687581,
-      "rank": 22,
       "category": "剧集"
     },
     {
@@ -460,7 +492,7 @@
     },
     {
       "raw_hot": 267326,
-      "num": 267326,
+      "num": 324317,
       "word": "流浪地球3",
       "onboard_time": 1744684942,
       "rank": 39,
@@ -491,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 245623,
+      "num": 245623,
+      "word": "美团闪购疑似嘲讽京东",
+      "onboard_time": 1744686261,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 240363,
       "num": 240363,
       "word": "原神5.5",
@@ -499,12 +539,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 239124,
+      "num": 324194,
+      "word": "苦尽柑来遇见你为何成了东亚榨泪机",
+      "onboard_time": 1744689682,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 230345,
       "num": 230345,
       "word": "戴牙套五年后牙齿还是反弹了",
       "onboard_time": 1744673119,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 230139,
+      "num": 963989,
+      "word": "人民币与美元欧元或形成并存新格局",
+      "onboard_time": 1744688662,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 226327,
+      "num": 226327,
+      "word": "光遇复刻",
+      "onboard_time": 1744690582,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 225322,
@@ -521,14 +585,6 @@
       "onboard_time": 1744686680,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 218438,
-      "num": 229387,
-      "word": "一家被撞身亡案被告只认交通肇事",
-      "onboard_time": 1744687462,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 211907,
@@ -553,6 +609,14 @@
       "onboard_time": 1744681040,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 208170,
+      "num": 208170,
+      "word": "天赐的声音6官宣首发阵容",
+      "onboard_time": 1744688422,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 206285,
@@ -595,20 +659,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 198439,
-      "num": 198439,
-      "word": "天赐的声音6官宣首发阵容",
-      "onboard_time": 1744688422,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 195250,
       "num": 195250,
       "word": "虞书欣陈靖可新剧开机应援",
       "onboard_time": 1744685182,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193381,
+      "num": 193381,
+      "word": "小米手机3月激活量中国第一",
+      "onboard_time": 1744689201,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 192990,
@@ -651,6 +715,22 @@
       "category": "国际时政,国际时政"
     },
     {
+      "raw_hot": 186870,
+      "num": 186870,
+      "word": "北电分数线",
+      "onboard_time": 1744690883,
+      "rank": 44,
+      "category": "教育,艺人"
+    },
+    {
+      "raw_hot": 184313,
+      "num": 273829,
+      "word": "张东升严良时隔五年再相遇",
+      "onboard_time": 1744691244,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182861,
       "num": 182861,
       "word": "奔跑吧西安录制",
@@ -667,6 +747,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 180709,
+      "num": 180709,
+      "word": "松鼠芙芙",
+      "onboard_time": 1744691363,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 179554,
       "num": 179554,
       "word": "易烊千玺代言珀莱雅",
@@ -681,6 +769,14 @@
       "onboard_time": 1744686921,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 177058,
+      "num": 177058,
+      "word": "KPL",
+      "onboard_time": 1744691304,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 176448,
@@ -715,14 +811,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 173975,
-      "num": 173975,
-      "word": "美团闪购疑似嘲讽京东",
-      "onboard_time": 1744686261,
-      "rank": 31,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 172077,
       "num": 172077,
       "word": "发现美国特工线索拨打0451110",
@@ -737,6 +825,22 @@
       "onboard_time": 1744634662,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 169167,
+      "num": 418521,
+      "word": "全国男性九价HPV疫苗首针开打",
+      "onboard_time": 1744690401,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159765,
+      "num": 492996,
+      "word": "三河通报里市委主要负责人是谁",
+      "onboard_time": 1744689563,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 159153,
@@ -1004,7 +1108,7 @@
     },
     {
       "raw_hot": 117453,
-      "num": 443738,
+      "num": 517507,
       "word": "第10个全民国家安全教育日",
       "onboard_time": 1744688542,
       "rank": 9,
@@ -1107,6 +1211,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 88976,
+      "num": 467066,
+      "word": "为什么虞书欣是天选代言人",
+      "onboard_time": 1744688001,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 88279,
       "num": 88279,
       "word": "冰岛 异食癖的故乡",
@@ -1131,12 +1243,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84779,
+      "num": 232257,
+      "word": "男性九价HPV疫苗三地开启接种",
+      "onboard_time": 1744690282,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84515,
       "num": 100893,
       "word": "十几岁的李宏毅",
       "onboard_time": 1744650617,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 84435,
+      "num": 421528,
+      "word": "周杰伦帅气回归营业",
+      "onboard_time": 1744690222,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 83567,
@@ -1161,6 +1289,22 @@
       "onboard_time": 1744619003,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 77494,
+      "num": 313044,
+      "word": "一部沃尔沃半部安全史",
+      "onboard_time": 1744690343,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 76950,
+      "num": 177161,
+      "word": "澳门世界杯首个11比0",
+      "onboard_time": 1744690163,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 74094,
@@ -1235,20 +1379,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 59011,
-      "num": 420510,
-      "word": "为什么虞书欣是天选代言人",
-      "onboard_time": 1744688001,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 58397,
       "num": 60986,
       "word": "球球 工作不是儿戏",
       "onboard_time": 1744634662,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 55217,
+      "num": 201602,
+      "word": "请假的终点都是身体不舒服",
+      "onboard_time": 1744690343,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 47849,
@@ -1291,6 +1435,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 44355,
+      "num": 177585,
+      "word": "飞猪把代言人宠成爽文女主",
+      "onboard_time": 1744690823,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 41190,
       "num": 42816,
       "word": "洛阳你真的把牡丹保护得很好",
@@ -1299,8 +1451,8 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 38235,
-      "num": 283919,
+      "raw_hot": 38944,
+      "num": 329115,
       "word": "成为飞猪代言人将拥有一架飞机",
       "onboard_time": 1744688061,
       "rank": 23,
@@ -1313,14 +1465,6 @@
       "onboard_time": 1744651336,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 30980,
-      "num": 831866,
-      "word": "人民币与美元欧元或形成并存新格局",
-      "onboard_time": 1744688662,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 30195,
@@ -1427,12 +1571,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 17731,
+      "num": 198330,
+      "word": "收购老人快递信息卖药诈骗126万",
+      "onboard_time": 1744691363,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17229,
       "num": 184156,
       "word": "俄美就俄乌和平方案进行对话",
       "onboard_time": 1744673059,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 16724,
+      "num": 501353,
+      "word": "亚太峰会",
+      "onboard_time": 1744638564,
+      "rank": 8,
+      "category": "正能量"
     },
     {
       "raw_hot": 13939,

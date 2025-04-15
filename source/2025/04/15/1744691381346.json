@@ -1,0 +1,410 @@
+{
+  "runTime": 1744691381346,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 764666,
+        "num": 1122346,
+        "word": "悬赏通缉3名美国特工",
+        "onboard_time": 1744679662,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1223575,
+        "num": 1087955,
+        "word": "三河市委主要负责人被免职",
+        "onboard_time": 1744684462,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 230139,
+        "num": 963989,
+        "word": "人民币与美元欧元或形成并存新格局",
+        "onboard_time": 1744688662,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 880678,
+        "num": 880678,
+        "word": "巴西取代美国成中国最大的大豆供应国",
+        "onboard_time": 1744684340,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 642754,
+        "num": 642754,
+        "word": "沈腾加入流浪地球3",
+        "onboard_time": 1744685482,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 591303,
+        "num": 591303,
+        "word": "张栋梁说在中国从不感觉自己是外人",
+        "onboard_time": 1744689863,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63476,
+        "num": 517507,
+        "word": "第10个全民国家安全教育日",
+        "onboard_time": 1744688542,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 501400,
+        "num": 501400,
+        "word": "廊坊通报三河广告牌匾禁用红蓝黑",
+        "onboard_time": 1744683321,
+        "rank": 7,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 16724,
+        "num": 501353,
+        "word": "亚太峰会",
+        "onboard_time": 1744638564,
+        "rank": 8,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 159765,
+        "num": 492996,
+        "word": "三河通报里市委主要负责人是谁",
+        "onboard_time": 1744689563,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1806510,
+        "num": 482069,
+        "word": "景德镇车祸司机撞人前0.4秒才打方向",
+        "onboard_time": 1744686081,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1408401,
+        "num": 476265,
+        "word": "黄杨钿甜北电第六",
+        "onboard_time": 1744689263,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1096499,
+        "num": 470833,
+        "word": "夫妇遇害前叫醒熟睡两女儿躲过一劫",
+        "onboard_time": 1744686381,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88976,
+        "num": 467066,
+        "word": "为什么虞书欣是天选代言人",
+        "onboard_time": 1744688001,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 786571,
+        "num": 457518,
+        "word": "高中男教师被举报与女学生发生关系",
+        "onboard_time": 1744680981,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 693623,
+        "num": 455525,
+        "word": "叶一茜晒照为森碟庆生",
+        "onboard_time": 1744688121,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 449376,
+        "num": 449376,
+        "word": "电影永不失联的爱定档",
+        "onboard_time": 1744686621,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 84435,
+        "num": 421528,
+        "word": "周杰伦帅气回归营业",
+        "onboard_time": 1744690222,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169167,
+        "num": 418521,
+        "word": "全国男性九价HPV疫苗首针开打",
+        "onboard_time": 1744690401,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 417827,
+        "num": 417827,
+        "word": "415 TFBOYS",
+        "onboard_time": 1744677204,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1386787,
+        "num": 417538,
+        "word": "还以为殉情只是古老传言",
+        "onboard_time": 1744686801,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 552642,
+        "num": 417496,
+        "word": "iPhone17ProMax手机壳再曝光",
+        "onboard_time": 1744679362,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 416994,
+        "num": 416994,
+        "word": "无忧渡折腰 难兄难弟",
+        "onboard_time": 1744687581,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 332975,
+        "num": 332975,
+        "word": "上海799一位的自助餐厅卷款跑路",
+        "onboard_time": 1744680981,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38944,
+        "num": 329115,
+        "word": "成为飞猪代言人将拥有一架飞机",
+        "onboard_time": 1744688061,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327945,
+        "num": 327945,
+        "word": "一家被撞身亡案被告只认交通肇事",
+        "onboard_time": 1744687462,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264840,
+        "num": 324317,
+        "word": "流浪地球3",
+        "onboard_time": 1744684942,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 239124,
+        "num": 324194,
+        "word": "苦尽柑来遇见你为何成了东亚榨泪机",
+        "onboard_time": 1744689682,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213117,
+        "num": 319092,
+        "word": "郑恺携家带口录跑男",
+        "onboard_time": 1744679422,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77494,
+        "num": 313044,
+        "word": "一部沃尔沃半部安全史",
+        "onboard_time": 1744690343,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 312969,
+        "num": 312969,
+        "word": "美国人吐槽所有东西都在涨价",
+        "onboard_time": 1744680082,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 308802,
+        "num": 308802,
+        "word": "光遇",
+        "onboard_time": 1744689502,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 184313,
+        "num": 273829,
+        "word": "张东升严良时隔五年再相遇",
+        "onboard_time": 1744691244,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265420,
+        "num": 265420,
+        "word": "黄金",
+        "onboard_time": 1744682001,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 245623,
+        "num": 245623,
+        "word": "美团闪购疑似嘲讽京东",
+        "onboard_time": 1744686261,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 84779,
+        "num": 232257,
+        "word": "男性九价HPV疫苗三地开启接种",
+        "onboard_time": 1744690282,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226327,
+        "num": 226327,
+        "word": "光遇复刻",
+        "onboard_time": 1744690582,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 208381,
+        "num": 208381,
+        "word": "陈丽君中国非遗年度人物候选人",
+        "onboard_time": 1744679962,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208170,
+        "num": 208170,
+        "word": "天赐的声音6官宣首发阵容",
+        "onboard_time": 1744688422,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55217,
+        "num": 201602,
+        "word": "请假的终点都是身体不舒服",
+        "onboard_time": 1744690343,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17731,
+        "num": 198330,
+        "word": "收购老人快递信息卖药诈骗126万",
+        "onboard_time": 1744691363,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197299,
+        "num": 197299,
+        "word": "crocs 白鹿",
+        "onboard_time": 1744685361,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193381,
+        "num": 193381,
+        "word": "小米手机3月激活量中国第一",
+        "onboard_time": 1744689201,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 188320,
+        "num": 188320,
+        "word": "澳牛肉将填补美国牛肉出口",
+        "onboard_time": 1744686680,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 186870,
+        "num": 186870,
+        "word": "北电分数线",
+        "onboard_time": 1744690883,
+        "rank": 44,
+        "category": "教育,艺人"
+      },
+      {
+        "raw_hot": 180709,
+        "num": 180709,
+        "word": "松鼠芙芙",
+        "onboard_time": 1744691363,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 44355,
+        "num": 177585,
+        "word": "飞猪把代言人宠成爽文女主",
+        "onboard_time": 1744690823,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 76950,
+        "num": 177161,
+        "word": "澳门世界杯首个11比0",
+        "onboard_time": 1744690163,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177058,
+        "num": 177058,
+        "word": "KPL",
+        "onboard_time": 1744691304,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 176719,
+        "num": 176719,
+        "word": "路过围观人群竟是儿子儿媳孙子被撞亡",
+        "onboard_time": 1744646001,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见越南国会主席陈青敏#"
+    }
+  }
+}
