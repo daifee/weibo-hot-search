@@ -1,6 +1,6 @@
 {
   "startTime": 1744734585432,
-  "endTime": 1744753075044,
+  "endTime": 1744755853131,
   "band_list": [
     {
       "raw_hot": 2218614,
@@ -27,6 +27,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 633320,
+      "num": 352793,
+      "word": "美国被曝要去深海非法挖稀土",
+      "onboard_time": 1744735158,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 614025,
       "num": 614025,
       "word": "男子疑因思念亡妻无法释怀去世",
@@ -49,14 +57,6 @@
       "onboard_time": 1744727603,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 453188,
-      "num": 344840,
-      "word": "美国被曝要去深海非法挖稀土",
-      "onboard_time": 1744735158,
-      "rank": 28,
-      "category": "国际时政"
     },
     {
       "raw_hot": 416087,
@@ -89,6 +89,14 @@
       "onboard_time": 1744730063,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 345677,
+      "num": 345677,
+      "word": "超市闭店清仓500多辆购物车丢失",
+      "onboard_time": 1744736298,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 316793,
@@ -219,14 +227,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 169241,
-      "num": 150211,
-      "word": "超市闭店清仓500多辆购物车丢失",
-      "onboard_time": 1744736298,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 163439,
       "num": 163439,
       "word": "越南姑娘拿捏中国网络热梗",
@@ -241,6 +241,14 @@
       "onboard_time": 1744731921,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 159055,
+      "num": 159055,
+      "word": "家具厂女员工拒绝向普京透露工资",
+      "onboard_time": 1744732401,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 144702,
@@ -275,6 +283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113295,
+      "num": 138136,
+      "word": "湖北荆州市委书记任上被查",
+      "onboard_time": 1744736298,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110858,
       "num": 164749,
       "word": "种地吧",
@@ -296,22 +312,6 @@
       "word": "遍地高仿货minmin背刺多少消费者",
       "onboard_time": 1744723702,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 101042,
-      "num": 101042,
-      "word": "家具厂女员工拒绝向普京透露工资",
-      "onboard_time": 1744732401,
-      "rank": 38,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 100320,
-      "num": 138136,
-      "word": "湖北荆州市委书记任上被查",
-      "onboard_time": 1744736298,
-      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -337,6 +337,14 @@
       "onboard_time": 1744730842,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92800,
+      "num": 92800,
+      "word": "全网都在问肖战来武汉干啥",
+      "onboard_time": 1744739596,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 81743,
@@ -452,7 +460,7 @@
     },
     {
       "raw_hot": 52743,
-      "num": 43717,
+      "num": 46190,
       "word": "赵露思特别近的生图",
       "onboard_time": 1744740794,
       "rank": 26,
@@ -467,8 +475,16 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 47735,
+      "num": 47735,
+      "word": "苏炳添结婚近9年儿女双全",
+      "onboard_time": 1744718481,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 46291,
-      "num": 50085,
+      "num": 108062,
       "word": "西安回应网友建议学校取消用电子屏",
       "onboard_time": 1744736238,
       "rank": 41,
@@ -515,14 +531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 29566,
-      "num": 29566,
-      "word": "全网都在问肖战来武汉干啥",
-      "onboard_time": 1744739596,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 24655,
       "num": 25666,
       "word": "中马两国是隔海相望的好邻居",
@@ -540,7 +548,7 @@
     },
     {
       "raw_hot": 22086,
-      "num": 25663,
+      "num": 26240,
       "word": "韩国公交女司机救中国留学生",
       "onboard_time": 1744741814,
       "rank": 48,
@@ -555,16 +563,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 21456,
-      "num": 23280,
-      "word": "苏炳添结婚近9年儿女双全",
-      "onboard_time": 1744718481,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 20150,
-      "num": 20150,
+      "num": 26232,
       "word": "结果都那样",
       "onboard_time": 1744745954,
       "rank": 33,
@@ -587,24 +587,24 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 17473,
-      "num": 17473,
+      "raw_hot": 18234,
+      "num": 26231,
       "word": "美国或有更多人失去工作",
       "onboard_time": 1744746915,
       "rank": 46,
       "category": "国际时政"
     },
     {
-      "raw_hot": 15864,
-      "num": 26221,
+      "raw_hot": 16606,
+      "num": 26223,
       "word": "天赐的声音",
       "onboard_time": 1744738517,
       "rank": 47,
       "category": "综艺"
     },
     {
-      "raw_hot": 13561,
-      "num": 19161,
+      "raw_hot": 14149,
+      "num": 26217,
       "word": "医学生有属于自己的综艺节目",
       "onboard_time": 1744743554,
       "rank": 49,

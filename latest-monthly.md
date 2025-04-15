@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/16 05:37:55
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/16 06:24:13
 </p>
 </blockquote>
 <p>
@@ -4767,6 +4767,12 @@ Prada正式收购范思哲（热度：644741）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%A2%AB%E6%9B%9D%E8%A6%81%E5%8E%BB%E6%B7%B1%E6%B5%B7%E9%9D%9E%E6%B3%95%E6%8C%96%E7%A8%80%E5%9C%9F%23" target="weibo">
+美国被曝要去深海非法挖稀土（热度：633320）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B0%E8%80%85%E6%9A%97%E8%AE%BF%E5%BC%B1%E7%B2%BE%E7%97%87%E6%A3%80%E6%B5%8B%E6%B2%BB%E7%96%97%E5%A5%97%E8%B7%AF%23" target="weibo">
 记者暗访弱精症检测治疗套路（热度：630721）
 </a>
@@ -6005,12 +6011,6 @@ speed 香港（热度：517066）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%BB%8F%E6%B5%8E%E9%99%B7%E5%85%A5%E8%A1%B0%E9%80%80%E6%A6%82%E7%8E%87%E5%8D%87%E8%87%B340%25%23" target="weibo">
 美国经济陷入衰退概率升至40%（热度：514810）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Switch2%E7%9B%B4%E9%9D%A2%E4%BC%9A%23" target="weibo">
-Switch2直面会（热度：514768）
 </a>
 </li>
 
