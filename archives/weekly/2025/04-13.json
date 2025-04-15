@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744759411520,
+  "endTime": 1744760270577,
   "band_list": [
     {
       "raw_hot": 3491899,
@@ -1675,6 +1675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 541408,
+      "num": 192863,
+      "word": "丈夫怒怼网友有子宫就有资格做母亲",
+      "onboard_time": 1744732401,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 537945,
       "num": 537945,
       "word": "澳门永久性居民将获发1万澳门元",
@@ -1809,14 +1817,6 @@
       "onboard_time": 1744673782,
       "rank": 38,
       "category": "财经"
-    },
-    {
-      "raw_hot": 494805,
-      "num": 192863,
-      "word": "丈夫怒怼网友有子宫就有资格做母亲",
-      "onboard_time": 1744732401,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 492903,
@@ -2001,6 +2001,14 @@
       "onboard_time": 1744502241,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 448146,
+      "num": 144814,
+      "word": "空腹断食12小时的变化",
+      "onboard_time": 1744758920,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 446900,
@@ -2217,6 +2225,14 @@
       "onboard_time": 1744726464,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 402184,
+      "num": 144906,
+      "word": "小猫悟空去世",
+      "onboard_time": 1744759579,
+      "rank": 13,
+      "category": "网红"
     },
     {
       "raw_hot": 398666,
@@ -2795,6 +2811,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 299251,
+      "num": 315595,
+      "word": "遍地高仿货minmin背刺多少消费者",
+      "onboard_time": 1744723702,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 296936,
       "num": 296936,
       "word": "三河市府办回应换招牌损失赔偿",
@@ -3195,14 +3219,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 253653,
-      "num": 141887,
-      "word": "空腹断食12小时的变化",
-      "onboard_time": 1744758920,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 252114,
       "num": 252114,
       "word": "时代少年团太原演唱会官方回复",
@@ -3417,14 +3433,6 @@
       "onboard_time": 1744689682,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 238989,
-      "num": 315595,
-      "word": "遍地高仿货minmin背刺多少消费者",
-      "onboard_time": 1744723702,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 237943,
@@ -3761,6 +3769,14 @@
       "onboard_time": 1744598780,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 218896,
+      "num": 218896,
+      "word": "这5类电话打进来直接挂断",
+      "onboard_time": 1744732341,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 218481,
@@ -4256,14 +4272,6 @@
       "word": "古人春天都玩什么",
       "onboard_time": 1744700120,
       "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 204960,
-      "num": 204960,
-      "word": "这5类电话打进来直接挂断",
-      "onboard_time": 1744732341,
-      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -5235,6 +5243,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 180192,
+      "num": 179244,
+      "word": "全网都在问肖战来武汉干啥",
+      "onboard_time": 1744739596,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179986,
       "num": 179986,
       "word": "刘诗诗特别出演惊蛰无声",
@@ -5281,14 +5297,6 @@
       "onboard_time": 1744600700,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 179244,
-      "num": 179244,
-      "word": "全网都在问肖战来武汉干啥",
-      "onboard_time": 1744739596,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 179231,
@@ -8059,6 +8067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119831,
+      "num": 119831,
+      "word": "赵朔 悟空",
+      "onboard_time": 1744759579,
+      "rank": 32,
+      "category": "网红"
+    },
+    {
       "raw_hot": 119740,
       "num": 553211,
       "word": "中国馆在世博会惊艳亮相",
@@ -8161,6 +8177,14 @@
       "onboard_time": 1744529121,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 117938,
+      "num": 117938,
+      "word": "体重控制不了可能与姿态有关",
+      "onboard_time": 1744759700,
+      "rank": 33,
+      "category": "运动健身"
     },
     {
       "raw_hot": 117774,
@@ -8755,6 +8779,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 104144,
+      "num": 124384,
+      "word": "宋祖儿把半夏的眼睛借给大家",
+      "onboard_time": 1744756937,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 103807,
       "num": 392192,
       "word": "禁用红蓝招牌这些问题待回应",
@@ -9059,6 +9091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94844,
+      "num": 144764,
+      "word": "沪指转涨",
+      "onboard_time": 1744758920,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 94778,
       "num": 263702,
       "word": "物业公司回应超市500多辆购物车丢失",
@@ -9227,6 +9267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 88157,
+      "num": 88157,
+      "word": "让美国乡巴佬在中华悠久历史前哀鸣",
+      "onboard_time": 1744743254,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 88103,
       "num": 88103,
       "word": "时代少年团对接回应五一演唱会",
@@ -9291,6 +9339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84901,
+      "num": 84901,
+      "word": "多特蒙德3比1巴萨",
+      "onboard_time": 1744760121,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 84779,
       "num": 361897,
       "word": "男性九价HPV疫苗三地开启接种",
@@ -9313,14 +9369,6 @@
       "onboard_time": 1744690222,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 83953,
-      "num": 115260,
-      "word": "沪指转涨",
-      "onboard_time": 1744758920,
-      "rank": 24,
-      "category": "财经"
     },
     {
       "raw_hot": 83791,
@@ -9385,6 +9433,14 @@
       "onboard_time": 1744467324,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81765,
+      "num": 81765,
+      "word": "朱开为iG失利下跪",
+      "onboard_time": 1744759700,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 81743,
@@ -9635,14 +9691,6 @@
       "category": "民生新闻,互联网"
     },
     {
-      "raw_hot": 71479,
-      "num": 71479,
-      "word": "让美国乡巴佬在中华悠久历史前哀鸣",
-      "onboard_time": 1744743254,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 70067,
       "num": 391292,
       "word": "河南66个大风预警信号生效中",
@@ -9665,14 +9713,6 @@
       "onboard_time": 1744704501,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 69559,
-      "num": 103053,
-      "word": "宋祖儿把半夏的眼睛借给大家",
-      "onboard_time": 1744756937,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 69004,
@@ -9745,6 +9785,14 @@
       "onboard_time": 1744598360,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 67270,
+      "num": 67270,
+      "word": "韩国公交女司机救中国留学生",
+      "onboard_time": 1744741814,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 67269,
@@ -9827,6 +9875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 63943,
+      "num": 63943,
+      "word": "找到了方圆脸最上镜的角度",
+      "onboard_time": 1744759700,
+      "rank": 45,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 63240,
       "num": 236985,
       "word": "虚构考研成绩为啥能成生意",
@@ -9857,6 +9913,22 @@
       "onboard_time": 1744709302,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 62404,
+      "num": 62404,
+      "word": "新同事一句话就让领导消气了",
+      "onboard_time": 1744759700,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 62098,
+      "num": 62098,
+      "word": "巴萨晋级欧冠半决赛",
+      "onboard_time": 1744760000,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 62046,
@@ -9923,14 +9995,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 58613,
-      "num": 58613,
-      "word": "韩国公交女司机救中国留学生",
-      "onboard_time": 1744741814,
-      "rank": 48,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 58344,
       "num": 246277,
       "word": "中国女篮集训名单公布",
@@ -9993,6 +10057,14 @@
       "onboard_time": 1744690343,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 55058,
+      "num": 62144,
+      "word": "杜华说陈昕葳投入比王怡人更大",
+      "onboard_time": 1744758199,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 54279,
@@ -10273,14 +10345,6 @@
       "onboard_time": 1744702641,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 42877,
-      "num": 58592,
-      "word": "杜华说陈昕葳投入比王怡人更大",
-      "onboard_time": 1744758199,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 42836,
@@ -11179,6 +11243,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 18822,
+      "num": 144787,
+      "word": "美股指数集体收跌",
+      "onboard_time": 1744760060,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 18799,
       "num": 40105,
       "word": "中越山水相连文化相通",
@@ -11473,6 +11545,14 @@
       "onboard_time": 1744745594,
       "rank": 34,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 9895,
+      "num": 144874,
+      "word": "关税大棒下美进口订单量暴跌64%",
+      "onboard_time": 1744759940,
+      "rank": 15,
+      "category": "海外新闻,财经"
     },
     {
       "raw_hot": 9648,

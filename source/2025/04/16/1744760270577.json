@@ -1,0 +1,410 @@
+{
+  "runTime": 1744760270577,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1251119,
+        "num": 1251119,
+        "word": "美国被曝要去深海非法挖稀土",
+        "onboard_time": 1744735158,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 734287,
+        "num": 734287,
+        "word": "超市闭店清仓500多辆购物车丢失",
+        "onboard_time": 1744736298,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35018,
+        "num": 529439,
+        "word": "反网络霸权网警在行动",
+        "onboard_time": 1744725623,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 398692,
+        "num": 398692,
+        "word": "家具厂女员工拒绝向普京透露工资",
+        "onboard_time": 1744732401,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 305835,
+        "num": 305835,
+        "word": "男子疑因思念亡妻无法释怀去世",
+        "onboard_time": 1744719682,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299251,
+        "num": 299251,
+        "word": "遍地高仿货minmin背刺多少消费者",
+        "onboard_time": 1744723702,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243811,
+        "num": 243811,
+        "word": "中国稀土管制扼住美军工命脉",
+        "onboard_time": 1744733001,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 218896,
+        "num": 218896,
+        "word": "这5类电话打进来直接挂断",
+        "onboard_time": 1744732341,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193375,
+        "num": 193375,
+        "word": "湖北荆州市委书记任上被查",
+        "onboard_time": 1744736298,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144952,
+        "num": 144952,
+        "word": "折腰没播",
+        "onboard_time": 1744728144,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 784246,
+        "num": 144939,
+        "word": "玫瑰",
+        "onboard_time": 1744736777,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 541408,
+        "num": 144933,
+        "word": "丈夫怒怼网友有子宫就有资格做母亲",
+        "onboard_time": 1744732401,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 495301,
+        "num": 144912,
+        "word": "毛子一家生活点滴",
+        "onboard_time": 1744718782,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 402184,
+        "num": 144906,
+        "word": "小猫悟空去世",
+        "onboard_time": 1744759579,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 370815,
+        "num": 144896,
+        "word": "他以身入局把13岁健全的女儿捆在身上",
+        "onboard_time": 1744726223,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 9895,
+        "num": 144874,
+        "word": "关税大棒下美进口订单量暴跌64%",
+        "onboard_time": 1744759940,
+        "rank": 15,
+        "category": "海外新闻,财经"
+      },
+      {
+        "raw_hot": 264777,
+        "num": 144871,
+        "word": "原来艺人的收入是这样算的",
+        "onboard_time": 1744702041,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253049,
+        "num": 144855,
+        "word": "心疼川川",
+        "onboard_time": 1744730303,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 245131,
+        "num": 144843,
+        "word": "李昊怎么了",
+        "onboard_time": 1744727603,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180192,
+        "num": 144827,
+        "word": "全网都在问肖战来武汉干啥",
+        "onboard_time": 1744739596,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 448146,
+        "num": 144814,
+        "word": "空腹断食12小时的变化",
+        "onboard_time": 1744758920,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 292369,
+        "num": 144804,
+        "word": "29岁女生不停运动6个月后",
+        "onboard_time": 1744720583,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 18822,
+        "num": 144787,
+        "word": "美股指数集体收跌",
+        "onboard_time": 1744760060,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 127473,
+        "num": 144770,
+        "word": "张予曦离开欢瑞",
+        "onboard_time": 1744725564,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94844,
+        "num": 144764,
+        "word": "沪指转涨",
+        "onboard_time": 1744758920,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 144753,
+        "num": 144753,
+        "word": "王一博长期贡献乐华超六成营收",
+        "onboard_time": 1744730003,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140616,
+        "num": 140616,
+        "word": "演员童正维去世",
+        "onboard_time": 1744726464,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104144,
+        "num": 124384,
+        "word": "宋祖儿把半夏的眼睛借给大家",
+        "onboard_time": 1744756937,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83215,
+        "num": 121924,
+        "word": "张予曦在浪姐爆哭",
+        "onboard_time": 1744728803,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80576,
+        "num": 121478,
+        "word": "Jennie科切拉",
+        "onboard_time": 1744730783,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 121394,
+        "num": 121394,
+        "word": "男子怕被妻子发现喝酒从18楼扔下酒瓶",
+        "onboard_time": 1744729763,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120811,
+        "num": 120811,
+        "word": "家属回应男子思念亡妻无法释怀去世",
+        "onboard_time": 1744717702,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119831,
+        "num": 119831,
+        "word": "赵朔 悟空",
+        "onboard_time": 1744759579,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 117938,
+        "num": 117938,
+        "word": "体重控制不了可能与姿态有关",
+        "onboard_time": 1744759700,
+        "rank": 33,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 115026,
+        "num": 115026,
+        "word": "苏炳添结婚近9年儿女双全",
+        "onboard_time": 1744718481,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101253,
+        "num": 101253,
+        "word": "赵露思特别近的生图",
+        "onboard_time": 1744740794,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100171,
+        "num": 100171,
+        "word": "大妈为年轻10岁做媚眼后哗哗流泪",
+        "onboard_time": 1744727603,
+        "rank": 36,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 98310,
+        "num": 98310,
+        "word": "西安回应网友建议学校取消用电子屏",
+        "onboard_time": 1744736238,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88951,
+        "num": 88951,
+        "word": "特朗普上一任期被指让美减少7.5万岗位",
+        "onboard_time": 1744726042,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 88157,
+        "num": 88157,
+        "word": "让美国乡巴佬在中华悠久历史前哀鸣",
+        "onboard_time": 1744743254,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 84901,
+        "num": 84901,
+        "word": "多特蒙德3比1巴萨",
+        "onboard_time": 1744760121,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81765,
+        "num": 81765,
+        "word": "朱开为iG失利下跪",
+        "onboard_time": 1744759700,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 72592,
+        "num": 72592,
+        "word": "时代少年团祝张真源22岁生日快乐",
+        "onboard_time": 1744737018,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71799,
+        "num": 71799,
+        "word": "中越发表联合声明",
+        "onboard_time": 1744730063,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 67270,
+        "num": 67270,
+        "word": "韩国公交女司机救中国留学生",
+        "onboard_time": 1744741814,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 63943,
+        "num": 63943,
+        "word": "找到了方圆脸最上镜的角度",
+        "onboard_time": 1744759700,
+        "rank": 45,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 62559,
+        "num": 62559,
+        "word": "TheShy状态",
+        "onboard_time": 1744731381,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 62404,
+        "num": 62404,
+        "word": "新同事一句话就让领导消气了",
+        "onboard_time": 1744759700,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 55058,
+        "num": 62144,
+        "word": "杜华说陈昕葳投入比王怡人更大",
+        "onboard_time": 1744758199,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62098,
+        "num": 62098,
+        "word": "巴萨晋级欧冠半决赛",
+        "onboard_time": 1744760000,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中马两国传统友谊绵延千年#"
+    }
+  }
+}
