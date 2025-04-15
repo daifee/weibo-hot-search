@@ -1,6 +1,6 @@
 {
   "startTime": 1744734585432,
-  "endTime": 1744735560930,
+  "endTime": 1744737744292,
   "band_list": [
     {
       "raw_hot": 2218614,
@@ -67,12 +67,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 395740,
+      "num": 138142,
+      "word": "玫瑰",
+      "onboard_time": 1744736777,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 360160,
       "num": 360160,
       "word": "中越发表联合声明",
       "onboard_time": 1744730063,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 327416,
+      "num": 327416,
+      "word": "美国被曝要去深海非法挖稀土",
+      "onboard_time": 1744735158,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 316793,
@@ -83,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 312153,
+      "num": 151150,
+      "word": "丈夫怒怼网友有子宫就有资格做母亲",
+      "onboard_time": 1744732401,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 311010,
       "num": 235205,
       "word": "赵露思张婧仪田曦薇状态",
@@ -91,7 +115,7 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 289518,
+      "raw_hot": 298471,
       "num": 219247,
       "word": "毛子 总有另一面",
       "onboard_time": 1744722562,
@@ -145,6 +169,14 @@
       "onboard_time": 1744726464,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207488,
+      "num": 207488,
+      "word": "zeta",
+      "onboard_time": 1744737557,
+      "rank": 5,
+      "category": "电竞"
     },
     {
       "raw_hot": 201567,
@@ -201,14 +233,6 @@
       "onboard_time": 1744731921,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 151150,
-      "num": 151150,
-      "word": "丈夫怒怼网友有子宫就有资格做母亲",
-      "onboard_time": 1744732401,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 144702,
@@ -275,6 +299,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 100320,
+      "num": 138136,
+      "word": "湖北荆州市委书记任上被查",
+      "onboard_time": 1744736298,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100101,
       "num": 100101,
       "word": "日本不准备向美国做重大让步",
@@ -299,11 +331,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94345,
+      "num": 103824,
+      "word": "超市闭店清仓500多辆购物车丢失",
+      "onboard_time": 1744736298,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81743,
       "num": 85003,
       "word": "田曦薇晒怼脸自拍",
       "onboard_time": 1744734439,
       "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 80116,
+      "num": 80116,
+      "word": "时代少年团祝张真源22岁生日快乐",
+      "onboard_time": 1744737018,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -345,14 +393,6 @@
       "onboard_time": 1744721963,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 75508,
-      "num": 126885,
-      "word": "美国被曝要去深海非法挖稀土",
-      "onboard_time": 1744735158,
-      "rank": 28,
-      "category": "国际时政"
     },
     {
       "raw_hot": 70070,
@@ -417,6 +457,22 @@
       "onboard_time": 1744679662,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 46291,
+      "num": 46291,
+      "word": "西安回应网友建议学校取消用电子屏",
+      "onboard_time": 1744736238,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40180,
+      "num": 45787,
+      "word": "韦礼安李东海合作",
+      "onboard_time": 1744736417,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 34385,
