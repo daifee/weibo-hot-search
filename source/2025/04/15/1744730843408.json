@@ -1,0 +1,410 @@
+{
+  "runTime": 1744730843408,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 77719,
+        "num": 1012435,
+        "word": "悬赏通缉3名美国特工",
+        "onboard_time": 1744679662,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1286895,
+        "num": 990288,
+        "word": "男子疑因思念亡妻无法释怀去世",
+        "onboard_time": 1744719682,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52870,
+        "num": 848938,
+        "word": "反网络霸权网警在行动",
+        "onboard_time": 1744725623,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1031943,
+        "num": 737213,
+        "word": "折腰没播",
+        "onboard_time": 1744728144,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1295638,
+        "num": 646608,
+        "word": "张予曦声明",
+        "onboard_time": 1744718782,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 631240,
+        "num": 631240,
+        "word": "订婚强奸案检方认定有实质性关系",
+        "onboard_time": 1744724003,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 519860,
+        "num": 519860,
+        "word": "特朗普上一任期被指让美减少7.5万岗位",
+        "onboard_time": 1744726042,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 394369,
+        "num": 394369,
+        "word": "家属回应男子思念亡妻无法释怀去世",
+        "onboard_time": 1744717702,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310263,
+        "num": 310263,
+        "word": "终于有电视剧敢拍国安抓间谍了",
+        "onboard_time": 1744715182,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 242911,
+        "num": 308645,
+        "word": "中越发表联合声明",
+        "onboard_time": 1744730063,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1140355,
+        "num": 307502,
+        "word": "李昊怎么了",
+        "onboard_time": 1744727603,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 977725,
+        "num": 306392,
+        "word": "他以身入局把13岁健全的女儿捆在身上",
+        "onboard_time": 1744726223,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 788493,
+        "num": 302898,
+        "word": "张予曦在浪姐爆哭",
+        "onboard_time": 1744728803,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 680774,
+        "num": 301096,
+        "word": "毛子一家生活点滴",
+        "onboard_time": 1744718782,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 494130,
+        "num": 299325,
+        "word": "原来艺人的收入是这样算的",
+        "onboard_time": 1744702041,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107140,
+        "num": 297307,
+        "word": "雅迪你别太宠王鹤棣了",
+        "onboard_time": 1744730542,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 468793,
+        "num": 296396,
+        "word": "赵露思张婧仪田曦薇状态",
+        "onboard_time": 1744727363,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 105897,
+        "num": 294718,
+        "word": "山崎贤人签名写了谢谢",
+        "onboard_time": 1744730482,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75708,
+        "num": 293255,
+        "word": "沃尔沃全新XC90上市47.9万起",
+        "onboard_time": 1744727783,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 51121,
+        "num": 290371,
+        "word": "被虐待致死男童母亲希望判凶手死刑",
+        "onboard_time": 1744729643,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 456597,
+        "num": 289403,
+        "word": "肖战武汉",
+        "onboard_time": 1744726404,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 454826,
+        "num": 286401,
+        "word": "29岁女生不停运动6个月后",
+        "onboard_time": 1744720583,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 402304,
+        "num": 285704,
+        "word": "演员童正维去世",
+        "onboard_time": 1744726464,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 411613,
+        "num": 282481,
+        "word": "滨崎步的腰",
+        "onboard_time": 1744727603,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 29576,
+        "num": 281912,
+        "word": "乘车安全不分男女老少",
+        "onboard_time": 1744730661,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 112453,
+        "num": 278690,
+        "word": "胡歌说表演可以NG但生命不能重来",
+        "onboard_time": 1744727663,
+        "rank": 25,
+        "category": "汽车,艺人"
+      },
+      {
+        "raw_hot": 278449,
+        "num": 278449,
+        "word": "NIP战胜iG",
+        "onboard_time": 1744729403,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 248807,
+        "num": 248807,
+        "word": "杜华让艺人别蹭乐华热度",
+        "onboard_time": 1744722741,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195091,
+        "num": 195091,
+        "word": "种地吧",
+        "onboard_time": 1744728803,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91924,
+        "num": 190998,
+        "word": "孙颖莎正手密不透风",
+        "onboard_time": 1744728265,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224337,
+        "num": 189870,
+        "word": "大妈为年轻10岁做媚眼后哗哗流泪",
+        "onboard_time": 1744727603,
+        "rank": 30,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 188110,
+        "num": 188110,
+        "word": "赵露思红发",
+        "onboard_time": 1744706603,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 23990,
+        "num": 185421,
+        "word": "孙颖莎说第一场比赛很投入",
+        "onboard_time": 1744730661,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184635,
+        "num": 184635,
+        "word": "高晓松晒与曾轶可合照",
+        "onboard_time": 1744726464,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179415,
+        "num": 179415,
+        "word": "心疼川川",
+        "onboard_time": 1744730303,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 73889,
+        "num": 176011,
+        "word": "胡歌说爸爸的爱是种叫沃尔沃的爱",
+        "onboard_time": 1744729823,
+        "rank": 35,
+        "category": "汽车,艺人"
+      },
+      {
+        "raw_hot": 175315,
+        "num": 175315,
+        "word": "王一博长期贡献乐华超六成营收",
+        "onboard_time": 1744730003,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82518,
+        "num": 167366,
+        "word": "小鹏X9上市大升级不涨价",
+        "onboard_time": 1744726404,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 161808,
+        "num": 161808,
+        "word": "遍地高仿货minmin背刺多少消费者",
+        "onboard_time": 1744723702,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161028,
+        "num": 161028,
+        "word": "大熊猫芦芦去世",
+        "onboard_time": 1744712843,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153045,
+        "num": 153045,
+        "word": "毛子 总有另一面",
+        "onboard_time": 1744722562,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 144041,
+        "num": 144041,
+        "word": "无忧渡",
+        "onboard_time": 1744713081,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136059,
+        "num": 136059,
+        "word": "女主不语只是一味的扇巴掌",
+        "onboard_time": 1744729342,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133898,
+        "num": 133898,
+        "word": "女生工作4年考研上北大母亲心疼落泪",
+        "onboard_time": 1744721963,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132278,
+        "num": 132278,
+        "word": "苏炳添官宣生三胎",
+        "onboard_time": 1744716503,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123280,
+        "num": 123280,
+        "word": "Jennie科切拉",
+        "onboard_time": 1744730783,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 123230,
+        "num": 123230,
+        "word": "7旬老人没有肿瘤被切除5个器官",
+        "onboard_time": 1744725083,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20752,
+        "num": 122434,
+        "word": "极氪007GT价格杀疯了",
+        "onboard_time": 1744726343,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 122312,
+        "num": 122312,
+        "word": "NIP对战IG",
+        "onboard_time": 1744722082,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 120452,
+        "num": 120452,
+        "word": "睡前3小时尽量不吃碳水",
+        "onboard_time": 1744717643,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#中马两国传统友谊绵延千年#"
+    }
+  }
+}

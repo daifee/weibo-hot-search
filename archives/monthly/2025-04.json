@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744728234566,
+  "endTime": 1744730843408,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -2691,6 +2691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1140355,
+      "num": 373240,
+      "word": "李昊怎么了",
+      "onboard_time": 1744727603,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1140320,
       "num": 1140320,
       "word": "金子涵 意难平",
@@ -3217,6 +3225,14 @@
       "onboard_time": 1744351582,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1031943,
+      "num": 737213,
+      "word": "折腰没播",
+      "onboard_time": 1744728144,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 1027341,
@@ -4867,6 +4883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 788493,
+      "num": 302898,
+      "word": "张予曦在浪姐爆哭",
+      "onboard_time": 1744728803,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 788032,
       "num": 788032,
       "word": "柯南坦白和小兰在交往",
@@ -5144,14 +5168,6 @@
       "word": "祝绪丹超话断签也会崩溃",
       "onboard_time": 1743911481,
       "rank": 8,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 754557,
-      "num": 373240,
-      "word": "李昊怎么了",
-      "onboard_time": 1744727603,
-      "rank": 12,
       "category": "艺人"
     },
     {
@@ -5833,6 +5849,14 @@
       "onboard_time": 1743588442,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 680774,
+      "num": 389789,
+      "word": "毛子一家生活点滴",
+      "onboard_time": 1744718782,
+      "rank": 16,
+      "category": "网红"
     },
     {
       "raw_hot": 680554,
@@ -7987,14 +8011,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 512676,
-      "num": 389789,
-      "word": "毛子一家生活点滴",
-      "onboard_time": 1744718782,
-      "rank": 16,
-      "category": "网红"
-    },
-    {
       "raw_hot": 511870,
       "num": 636669,
       "word": "男孩持续高热因骨盆里藏进一块布",
@@ -8825,6 +8841,14 @@
       "onboard_time": 1743680421,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 468793,
+      "num": 296396,
+      "word": "赵露思张婧仪田曦薇状态",
+      "onboard_time": 1744727363,
+      "rank": 32,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 468606,
@@ -10123,6 +10147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 411613,
+      "num": 330625,
+      "word": "滨崎步的腰",
+      "onboard_time": 1744727603,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 410907,
       "num": 410907,
       "word": "爆款短剧编剧收入高达一两百万",
@@ -10336,6 +10368,14 @@
       "word": "好想来 檀健次",
       "onboard_time": 1744434924,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 402304,
+      "num": 393788,
+      "word": "演员童正维去世",
+      "onboard_time": 1744726464,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -12531,14 +12571,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 330625,
-      "num": 330625,
-      "word": "滨崎步的腰",
-      "onboard_time": 1744727603,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 330588,
       "num": 330588,
       "word": "国色芳华2过审",
@@ -13497,14 +13529,6 @@
       "onboard_time": 1744107922,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 307763,
-      "num": 393788,
-      "word": "演员童正维去世",
-      "onboard_time": 1744726464,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 307701,
@@ -14841,6 +14865,14 @@
       "onboard_time": 1744374144,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 278449,
+      "num": 278449,
+      "word": "NIP战胜iG",
+      "onboard_time": 1744729403,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 277923,
@@ -16227,14 +16259,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 252396,
-      "num": 252396,
-      "word": "折腰没播",
-      "onboard_time": 1744728144,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 252354,
       "num": 252354,
       "word": "哪吒",
@@ -16763,6 +16787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 242911,
+      "num": 308645,
+      "word": "中越发表联合声明",
+      "onboard_time": 1744730063,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 242807,
       "num": 242807,
       "word": "上海大风",
@@ -16993,14 +17025,6 @@
       "onboard_time": 1743475521,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 239140,
-      "num": 239140,
-      "word": "赵露思张婧仪田曦薇状态",
-      "onboard_time": 1744727363,
-      "rank": 32,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 239134,
@@ -24035,6 +24059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 184635,
+      "num": 292282,
+      "word": "高晓松晒与曾轶可合照",
+      "onboard_time": 1744726464,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184571,
       "num": 234110,
       "word": "张杰鸟巢音响是去年2倍",
@@ -24931,6 +24963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179415,
+      "num": 179415,
+      "word": "心疼川川",
+      "onboard_time": 1744730303,
+      "rank": 34,
+      "category": "网红"
+    },
+    {
       "raw_hot": 179393,
       "num": 179393,
       "word": "上海弄堂里的小黄花引市民排队打卡",
@@ -25641,6 +25681,14 @@
       "onboard_time": 1744267463,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 175315,
+      "num": 175315,
+      "word": "王一博长期贡献乐华超六成营收",
+      "onboard_time": 1744730003,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 175312,
@@ -27601,14 +27649,6 @@
       "onboard_time": 1743921380,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 163026,
-      "num": 292282,
-      "word": "高晓松晒与曾轶可合照",
-      "onboard_time": 1744726464,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 162970,
@@ -32899,6 +32939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 136059,
+      "num": 136059,
+      "word": "女主不语只是一味的扇巴掌",
+      "onboard_time": 1744729342,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136039,
       "num": 141446,
       "word": "买金饰可优先考虑小克重",
@@ -37787,6 +37835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112453,
+      "num": 302019,
+      "word": "胡歌说表演可以NG但生命不能重来",
+      "onboard_time": 1744727663,
+      "rank": 26,
+      "category": "汽车,艺人"
+    },
+    {
       "raw_hot": 112446,
       "num": 112446,
       "word": "千秋令",
@@ -38587,6 +38643,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 107140,
+      "num": 297307,
+      "word": "雅迪你别太宠王鹤棣了",
+      "onboard_time": 1744730542,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107136,
       "num": 249917,
       "word": "公职人员挂证取酬正被严肃查处",
@@ -38713,6 +38777,14 @@
       "onboard_time": 1744529902,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 105897,
+      "num": 294718,
+      "word": "山崎贤人签名写了谢谢",
+      "onboard_time": 1744730482,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 105832,
@@ -39803,14 +39875,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 97523,
-      "num": 302019,
-      "word": "胡歌说表演可以NG但生命不能重来",
-      "onboard_time": 1744727663,
-      "rank": 26,
-      "category": "汽车,艺人"
-    },
-    {
       "raw_hot": 97488,
       "num": 216254,
       "word": "爱情在人生占比和年龄成反比",
@@ -40321,6 +40385,14 @@
       "onboard_time": 1743952872,
       "rank": 34,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 91924,
+      "num": 190998,
+      "word": "孙颖莎正手密不透风",
+      "onboard_time": 1744728265,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 91907,
@@ -41891,6 +41963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75708,
+      "num": 327487,
+      "word": "沃尔沃全新XC90上市47.9万起",
+      "onboard_time": 1744727783,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 75706,
       "num": 75706,
       "word": "邯郸黑熊出逃后偷吃了养蜂人的蜂蜜",
@@ -42097,6 +42177,14 @@
       "onboard_time": 1744002203,
       "rank": 19,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 73889,
+      "num": 176011,
+      "word": "胡歌说爸爸的爱是种叫沃尔沃的爱",
+      "onboard_time": 1744729823,
+      "rank": 35,
+      "category": "汽车,艺人"
     },
     {
       "raw_hot": 73636,
@@ -42625,14 +42713,6 @@
       "onboard_time": 1744722562,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 68737,
-      "num": 327487,
-      "word": "沃尔沃全新XC90上市47.9万起",
-      "onboard_time": 1744727783,
-      "rank": 19,
-      "category": "汽车"
     },
     {
       "raw_hot": 68588,
@@ -44353,6 +44433,14 @@
       "onboard_time": 1743701896,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 51121,
+      "num": 290371,
+      "word": "被虐待致死男童母亲希望判凶手死刑",
+      "onboard_time": 1744729643,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50981,
@@ -46875,6 +46963,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 29576,
+      "num": 281912,
+      "word": "乘车安全不分男女老少",
+      "onboard_time": 1744730661,
+      "rank": 24,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 29537,
       "num": 268061,
       "word": "入室抢婴案嫌犯曾因强奸盗窃入狱",
@@ -47689,6 +47785,14 @@
       "onboard_time": 1744529001,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 23990,
+      "num": 185421,
+      "word": "孙颖莎说第一场比赛很投入",
+      "onboard_time": 1744730661,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 23982,

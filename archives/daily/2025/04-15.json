@@ -1,6 +1,6 @@
 {
   "startTime": 1744648272763,
-  "endTime": 1744728234566,
+  "endTime": 1744730843408,
   "band_list": [
     {
       "raw_hot": 3491899,
@@ -163,6 +163,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1140355,
+      "num": 373240,
+      "word": "李昊怎么了",
+      "onboard_time": 1744727603,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1135950,
       "num": 380261,
       "word": "他以身入局把13岁健全的女儿捆在身上",
@@ -209,6 +217,14 @@
       "onboard_time": 1744646001,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1031943,
+      "num": 737213,
+      "word": "折腰没播",
+      "onboard_time": 1744728144,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 1006494,
@@ -347,6 +363,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 788493,
+      "num": 302898,
+      "word": "张予曦在浪姐爆哭",
+      "onboard_time": 1744728803,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 785256,
       "num": 651537,
       "word": "张若昀为霍去病写的长文",
@@ -403,14 +427,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 754557,
-      "num": 373240,
-      "word": "李昊怎么了",
-      "onboard_time": 1744727603,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 740042,
       "num": 740042,
       "word": "外交部回应谷歌地图将南海改名",
@@ -465,6 +481,14 @@
       "onboard_time": 1744642281,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 680774,
+      "num": 389789,
+      "word": "毛子一家生活点滴",
+      "onboard_time": 1744718782,
+      "rank": 16,
+      "category": "网红"
     },
     {
       "raw_hot": 677369,
@@ -595,14 +619,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 512676,
-      "num": 389789,
-      "word": "毛子一家生活点滴",
-      "onboard_time": 1744718782,
-      "rank": 16,
-      "category": "网红"
-    },
-    {
       "raw_hot": 511255,
       "num": 362628,
       "word": "毛子 总有另一面",
@@ -633,6 +649,14 @@
       "onboard_time": 1744711163,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 468793,
+      "num": 296396,
+      "word": "赵露思张婧仪田曦薇状态",
+      "onboard_time": 1744727363,
+      "rank": 32,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 468568,
@@ -715,11 +739,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 411613,
+      "num": 330625,
+      "word": "滨崎步的腰",
+      "onboard_time": 1744727603,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 409587,
       "num": 212285,
       "word": "男演员回应退圈回老家赶集摆摊",
       "onboard_time": 1744648040,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 402304,
+      "num": 393788,
+      "word": "演员童正维去世",
+      "onboard_time": 1744726464,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -867,14 +907,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 330625,
-      "num": 330625,
-      "word": "滨崎步的腰",
-      "onboard_time": 1744727603,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 330588,
       "num": 330588,
       "word": "国色芳华2过审",
@@ -955,14 +987,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 307763,
-      "num": 393788,
-      "word": "演员童正维去世",
-      "onboard_time": 1744726464,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 298862,
       "num": 298862,
       "word": "成毅陈都灵邓为等火到马来西亚了",
@@ -1017,6 +1041,14 @@
       "onboard_time": 1744720341,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 278449,
+      "num": 278449,
+      "word": "NIP战胜iG",
+      "onboard_time": 1744729403,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 277478,
@@ -1131,14 +1163,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 252396,
-      "num": 252396,
-      "word": "折腰没播",
-      "onboard_time": 1744728144,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 246169,
       "num": 963989,
       "word": "人民币与美元欧元或形成并存新格局",
@@ -1179,20 +1203,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 242911,
+      "num": 308645,
+      "word": "中越发表联合声明",
+      "onboard_time": 1744730063,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 240363,
       "num": 240363,
       "word": "原神5.5",
       "onboard_time": 1744687941,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 239140,
-      "num": 239140,
-      "word": "赵露思张婧仪田曦薇状态",
-      "onboard_time": 1744727363,
-      "rank": 32,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 239124,
@@ -1571,6 +1595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195091,
+      "num": 195091,
+      "word": "种地吧",
+      "onboard_time": 1744728803,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194819,
       "num": 194819,
       "word": "KPL",
@@ -1707,6 +1739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184635,
+      "num": 292282,
+      "word": "高晓松晒与曾轶可合照",
+      "onboard_time": 1744726464,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184313,
       "num": 317365,
       "word": "张东升严良时隔五年再相遇",
@@ -1819,6 +1859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179415,
+      "num": 179415,
+      "word": "心疼川川",
+      "onboard_time": 1744730303,
+      "rank": 34,
+      "category": "网红"
+    },
+    {
       "raw_hot": 178589,
       "num": 235969,
       "word": "被认定校园欺凌者不得进入省级普高",
@@ -1889,6 +1937,14 @@
       "onboard_time": 1744717643,
       "rank": 26,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 175315,
+      "num": 175315,
+      "word": "王一博长期贡献乐华超六成营收",
+      "onboard_time": 1744730003,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 175104,
@@ -1985,14 +2041,6 @@
       "onboard_time": 1744725923,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 163026,
-      "num": 292282,
-      "word": "高晓松晒与曾轶可合照",
-      "onboard_time": 1744726464,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 162970,
@@ -2459,6 +2507,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 136059,
+      "num": 136059,
+      "word": "女主不语只是一味的扇巴掌",
+      "onboard_time": 1744729342,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134647,
       "num": 185735,
       "word": "体脂率是身体最诚实的胖瘦指标",
@@ -2707,6 +2763,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 123280,
+      "num": 123280,
+      "word": "Jennie科切拉",
+      "onboard_time": 1744730783,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 122641,
       "num": 122641,
       "word": "极氪007GT价格",
@@ -2859,6 +2923,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 112453,
+      "num": 302019,
+      "word": "胡歌说表演可以NG但生命不能重来",
+      "onboard_time": 1744727663,
+      "rank": 26,
+      "category": "汽车,艺人"
+    },
+    {
       "raw_hot": 111887,
       "num": 196627,
       "word": "飞猪把代言人宠成爽文女主",
@@ -2907,12 +2979,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 107140,
+      "num": 297307,
+      "word": "雅迪你别太宠王鹤棣了",
+      "onboard_time": 1744730542,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 106094,
       "num": 106094,
       "word": "景德镇车祸家属带1家3口衣服出庭",
       "onboard_time": 1744715182,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105897,
+      "num": 294718,
+      "word": "山崎贤人签名写了谢谢",
+      "onboard_time": 1744730482,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 105569,
@@ -2987,14 +3075,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 97523,
-      "num": 302019,
-      "word": "胡歌说表演可以NG但生命不能重来",
-      "onboard_time": 1744727663,
-      "rank": 26,
-      "category": "汽车,艺人"
-    },
-    {
       "raw_hot": 97229,
       "num": 111449,
       "word": "奔跑吧西安录制古都寻韵",
@@ -3041,6 +3121,14 @@
       "onboard_time": 1744684401,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91924,
+      "num": 190998,
+      "word": "孙颖莎正手密不透风",
+      "onboard_time": 1744728265,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 91849,
@@ -3235,6 +3323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75708,
+      "num": 327487,
+      "word": "沃尔沃全新XC90上市47.9万起",
+      "onboard_time": 1744727783,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 74427,
       "num": 139787,
       "word": "一句妻子的责任抹杀了她全部价值",
@@ -3265,6 +3361,14 @@
       "onboard_time": 1744702221,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 73889,
+      "num": 176011,
+      "word": "胡歌说爸爸的爱是种叫沃尔沃的爱",
+      "onboard_time": 1744729823,
+      "rank": 35,
+      "category": "汽车,艺人"
     },
     {
       "raw_hot": 73642,
@@ -3305,14 +3409,6 @@
       "onboard_time": 1744722562,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 68737,
-      "num": 327487,
-      "word": "沃尔沃全新XC90上市47.9万起",
-      "onboard_time": 1744727783,
-      "rank": 19,
-      "category": "汽车"
     },
     {
       "raw_hot": 68536,
@@ -3457,6 +3553,14 @@
       "onboard_time": 1744694723,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 51121,
+      "num": 290371,
+      "word": "被虐待致死男童母亲希望判凶手死刑",
+      "onboard_time": 1744729643,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48730,
@@ -3635,6 +3739,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 29576,
+      "num": 281912,
+      "word": "乘车安全不分男女老少",
+      "onboard_time": 1744730661,
+      "rank": 24,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 28303,
       "num": 397257,
       "word": "五颜六色招牌是城市文化多样性载体",
@@ -3713,6 +3825,14 @@
       "onboard_time": 1744713081,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 23990,
+      "num": 185421,
+      "word": "孙颖莎说第一场比赛很投入",
+      "onboard_time": 1744730661,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 23143,
