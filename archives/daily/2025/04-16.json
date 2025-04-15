@@ -1,6 +1,6 @@
 {
   "startTime": 1744734585432,
-  "endTime": 1744737744292,
+  "endTime": 1744738804813,
   "band_list": [
     {
       "raw_hot": 2218614,
@@ -8,6 +8,14 @@
       "word": "毛子一家生活点滴",
       "onboard_time": 1744718782,
       "rank": 10,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 721689,
+      "num": 138142,
+      "word": "玫瑰",
+      "onboard_time": 1744736777,
+      "rank": 11,
       "category": "网红"
     },
     {
@@ -43,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 453188,
+      "num": 344840,
+      "word": "美国被曝要去深海非法挖稀土",
+      "onboard_time": 1744735158,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 416087,
       "num": 416087,
       "word": "张予曦在浪姐爆哭",
@@ -67,28 +83,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 395740,
-      "num": 138142,
-      "word": "玫瑰",
-      "onboard_time": 1744736777,
-      "rank": 11,
-      "category": "网红"
-    },
-    {
       "raw_hot": 360160,
       "num": 360160,
       "word": "中越发表联合声明",
       "onboard_time": 1744730063,
       "rank": 5,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 327416,
-      "num": 327416,
-      "word": "美国被曝要去深海非法挖稀土",
-      "onboard_time": 1744735158,
-      "rank": 28,
-      "category": "国际时政"
     },
     {
       "raw_hot": 316793,
@@ -235,6 +235,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 150211,
+      "num": 150211,
+      "word": "超市闭店清仓500多辆购物车丢失",
+      "onboard_time": 1744736298,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144702,
       "num": 144702,
       "word": "男子怕被妻子发现喝酒从18楼扔下酒瓶",
@@ -328,14 +336,6 @@
       "word": "物业公司回应超市500多辆购物车丢失",
       "onboard_time": 1744730842,
       "rank": 40,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 94345,
-      "num": 103824,
-      "word": "超市闭店清仓500多辆购物车丢失",
-      "onboard_time": 1744736298,
-      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -460,7 +460,7 @@
     },
     {
       "raw_hot": 46291,
-      "num": 46291,
+      "num": 50085,
       "word": "西安回应网友建议学校取消用电子屏",
       "onboard_time": 1744736238,
       "rank": 41,
@@ -468,11 +468,19 @@
     },
     {
       "raw_hot": 40180,
-      "num": 45787,
+      "num": 50048,
       "word": "韦礼安李东海合作",
       "onboard_time": 1744736417,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 36835,
+      "num": 50062,
+      "word": "奔跑吧前方发来报道",
+      "onboard_time": 1744737976,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 34385,
@@ -481,6 +489,14 @@
       "onboard_time": 1744725623,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 34048,
+      "num": 50058,
+      "word": "严浩翔这套图适合说晚安",
+      "onboard_time": 1744738517,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 18802,
