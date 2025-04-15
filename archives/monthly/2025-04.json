@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744673852229,
+  "endTime": 1744682089544,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -2619,6 +2619,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 1125023,
+      "num": 1180003,
+      "word": "公安机关悬赏通缉3名美国特工",
+      "onboard_time": 1744679662,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1124309,
       "num": 402794,
       "word": "印男子涉嫌杀妻入狱后发现妻子在世",
@@ -2721,6 +2729,14 @@
       "onboard_time": 1744292963,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1112333,
+      "num": 316822,
+      "word": "415 TFBOYS",
+      "onboard_time": 1744677204,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1111780,
@@ -2956,7 +2972,7 @@
     },
     {
       "raw_hot": 1047431,
-      "num": 286119,
+      "num": 314556,
       "word": "路过围观人群竟是儿子儿媳孙子被撞亡",
       "onboard_time": 1744646001,
       "rank": 10,
@@ -4491,6 +4507,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 797529,
+      "num": 316280,
+      "word": "高中男教师被举报与女学生发生关系",
+      "onboard_time": 1744680981,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 796927,
       "num": 472483,
       "word": "黄晓明晒增肥减肥对比照",
@@ -4577,6 +4601,14 @@
       "onboard_time": 1744620563,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 785256,
+      "num": 508734,
+      "word": "张若昀为霍去病写的长文",
+      "onboard_time": 1744678462,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 782426,
@@ -4801,6 +4833,14 @@
       "onboard_time": 1744297703,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 753451,
+      "num": 502174,
+      "word": "郑恺携家带口录跑男",
+      "onboard_time": 1744679422,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 752525,
@@ -5296,6 +5336,14 @@
       "word": "美方轮番加征关税沦为笑话",
       "onboard_time": 1744360647,
       "rank": 33,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 695710,
+      "num": 127300,
+      "word": "特朗普政府大规模撤销学签",
+      "onboard_time": 1744675282,
+      "rank": 45,
       "category": "国际时政"
     },
     {
@@ -5891,6 +5939,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 626898,
+      "num": 246828,
+      "word": "上海799一位的自助餐厅卷款跑路",
+      "onboard_time": 1744680981,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 625836,
       "num": 372931,
       "word": "赵露思哭戏",
@@ -5921,6 +5977,14 @@
       "onboard_time": 1743987741,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 624876,
+      "num": 624876,
+      "word": "iPhone17ProMax手机壳再曝光",
+      "onboard_time": 1744679362,
+      "rank": 1,
+      "category": "数码"
     },
     {
       "raw_hot": 624310,
@@ -6097,6 +6161,14 @@
       "onboard_time": 1744183223,
       "rank": 33,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 607028,
+      "num": 242973,
+      "word": "医生说猝死的年轻人通常有6个共性",
+      "onboard_time": 1744679422,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 605572,
@@ -7785,6 +7857,14 @@
       "onboard_time": 1744246105,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 495195,
+      "num": 495195,
+      "word": "美债巨震",
+      "onboard_time": 1744673782,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 495153,
@@ -10091,6 +10171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 388194,
+      "num": 311928,
+      "word": "陈丽君中国非遗年度人物候选人",
+      "onboard_time": 1744679962,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 388006,
       "num": 388006,
       "word": "爱奇艺 念无双",
@@ -10561,6 +10649,14 @@
       "onboard_time": 1744551923,
       "rank": 27,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 370646,
+      "num": 309743,
+      "word": "减肥效果最好的室内运动",
+      "onboard_time": 1744673840,
+      "rank": 31,
+      "category": "运动健身"
     },
     {
       "raw_hot": 370617,
@@ -11049,6 +11145,14 @@
       "onboard_time": 1743769164,
       "rank": 9,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 353965,
+      "num": 353965,
+      "word": "易烊千玺 大导缘",
+      "onboard_time": 1744677085,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 353889,
@@ -11819,6 +11923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 330588,
+      "num": 330588,
+      "word": "国色芳华2过审",
+      "onboard_time": 1744673901,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 330527,
       "num": 330527,
       "word": "国际金价高位跳水了",
@@ -12219,6 +12331,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 318859,
+      "num": 318859,
+      "word": "美国又威胁征收半导体关税",
+      "onboard_time": 1744673180,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 318690,
       "num": 318690,
       "word": "第一个给艾米剪短发的人是天才",
@@ -12609,6 +12729,14 @@
       "onboard_time": 1744022122,
       "rank": 19,
       "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 309226,
+      "num": 309226,
+      "word": "奔跑吧禁止任何应援物",
+      "onboard_time": 1744674200,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 309161,
@@ -14227,6 +14355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 274435,
+      "num": 237474,
+      "word": "白鹿讲述职场里肯定有多重要",
+      "onboard_time": 1744679422,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 274351,
       "num": 479040,
       "word": "戛纳",
@@ -14257,6 +14393,14 @@
       "onboard_time": 1743691583,
       "rank": 29,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 273010,
+      "num": 273010,
+      "word": "法院公告造谣岳云鹏私生女判决",
+      "onboard_time": 1744681341,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 272524,
@@ -15153,6 +15297,14 @@
       "onboard_time": 1743489384,
       "rank": 9,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 255435,
+      "num": 255435,
+      "word": "美国人吐槽所有东西都在涨价",
+      "onboard_time": 1744680082,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 255306,
@@ -16569,6 +16721,14 @@
       "onboard_time": 1744182803,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 230345,
+      "num": 230345,
+      "word": "戴牙套五年后牙齿还是反弹了",
+      "onboard_time": 1744673119,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 230310,
@@ -18411,6 +18571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210534,
+      "num": 210534,
+      "word": "成毅粉丝集体抵制黄牛",
+      "onboard_time": 1744681040,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 210528,
       "num": 210528,
       "word": "杨肸子人气",
@@ -19059,14 +19227,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 206243,
-      "num": 158519,
-      "word": "戴牙套五年后牙齿还是反弹了",
-      "onboard_time": 1744673119,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 206213,
       "num": 206213,
       "word": "雁回时庆功宴",
@@ -19659,6 +19819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201707,
+      "num": 201707,
+      "word": "MadeinChina的含金量还在上升",
+      "onboard_time": 1744677143,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 201676,
       "num": 302732,
       "word": "国产剧里的中女就该这么爽",
@@ -19889,6 +20057,14 @@
       "onboard_time": 1744281623,
       "rank": 24,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 199993,
+      "num": 199993,
+      "word": "杨幂15年前就想和张艺谋合作",
+      "onboard_time": 1744674921,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 199977,
@@ -23067,6 +23243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181938,
+      "num": 181938,
+      "word": "simon",
+      "onboard_time": 1744673059,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 181818,
       "num": 270107,
       "word": "为什么感觉假期过得格外快",
@@ -23955,6 +24139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175798,
+      "num": 188067,
+      "word": "严浩翔 唱功",
+      "onboard_time": 1744677322,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 175797,
       "num": 175797,
       "word": "王一博网球穿搭",
@@ -24105,6 +24297,14 @@
       "onboard_time": 1744444824,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 175104,
+      "num": 175104,
+      "word": "中药手串",
+      "onboard_time": 1744679721,
+      "rank": 31,
+      "category": "休闲"
     },
     {
       "raw_hot": 175093,
@@ -24569,6 +24769,14 @@
       "onboard_time": 1744415001,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172077,
+      "num": 172077,
+      "word": "发现美国特工线索拨打0451110",
+      "onboard_time": 1744680202,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 172045,
@@ -26923,6 +27131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157288,
+      "num": 182628,
+      "word": "美国代号S部门网络攻击亚冬会",
+      "onboard_time": 1744680022,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 157274,
       "num": 194843,
       "word": "严浩翔大通宵状态",
@@ -28771,6 +28987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146778,
+      "num": 313129,
+      "word": "何为国家安全",
+      "onboard_time": 1744679481,
+      "rank": 13,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 146728,
       "num": 146728,
       "word": "广东男篮vs上海男篮",
@@ -29185,6 +29409,14 @@
       "onboard_time": 1743832641,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 144603,
+      "num": 144603,
+      "word": "原生家庭最容易发生的打压",
+      "onboard_time": 1744676902,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 144573,
@@ -29995,6 +30227,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 140047,
+      "num": 140047,
+      "word": "HBO剧版哈利波特主演",
+      "onboard_time": 1744676242,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140021,
       "num": 140021,
       "word": "被陈哲远耍了",
@@ -30033,14 +30273,6 @@
       "onboard_time": 1743489384,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 139907,
-      "num": 139907,
-      "word": "simon",
-      "onboard_time": 1744673059,
-      "rank": 22,
-      "category": "电竞"
     },
     {
       "raw_hot": 139775,
@@ -30577,6 +30809,14 @@
       "onboard_time": 1744017805,
       "rank": 47,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 137149,
+      "num": 137149,
+      "word": "球球EDG",
+      "onboard_time": 1744680262,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 137113,
@@ -31443,6 +31683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133214,
+      "num": 133214,
+      "word": "Jennie妆造",
+      "onboard_time": 1744680920,
+      "rank": 42,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 133200,
       "num": 133200,
       "word": "艾福杰尼上五哈前没觉得自己像熊",
@@ -31473,6 +31721,14 @@
       "onboard_time": 1743498742,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133005,
+      "num": 133005,
+      "word": "美债遭投资者大量抛售",
+      "onboard_time": 1744677743,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 132979,
@@ -32483,6 +32739,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 127978,
+      "num": 127978,
+      "word": "现货黄金跌破3200美元",
+      "onboard_time": 1744676664,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 127973,
       "num": 127973,
       "word": "吒儿还在向前冲",
@@ -32929,6 +33193,14 @@
       "onboard_time": 1744450764,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 125555,
+      "num": 125555,
+      "word": "网信办整治4类短视频营销乱象",
+      "onboard_time": 1744681761,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125551,
@@ -34355,6 +34627,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 117997,
+      "num": 117997,
+      "word": "澳大利亚对中国的牛肉出口大幅增加",
+      "onboard_time": 1744682061,
+      "rank": 48,
+      "category": "财经,国际时政"
+    },
+    {
       "raw_hot": 117969,
       "num": 117969,
       "word": "甲亢哥一眼认出大张伟头像",
@@ -34417,6 +34697,14 @@
       "onboard_time": 1744556364,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 117715,
+      "num": 117715,
+      "word": "福宝和邻居成了好朋友",
+      "onboard_time": 1744676602,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117643,
@@ -37025,14 +37313,6 @@
       "onboard_time": 1743731061,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 99395,
-      "num": 99395,
-      "word": "减肥效果最好的室内运动",
-      "onboard_time": 1744673840,
-      "rank": 31,
-      "category": "运动健身"
     },
     {
       "raw_hot": 99334,
@@ -41859,6 +42139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47215,
+      "num": 1540646,
+      "word": "一图看懂中越友谊",
+      "onboard_time": 1744637904,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 47187,
       "num": 404778,
       "word": "志胜亲友团都有谁",
@@ -43027,14 +43315,6 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 37525,
-      "num": 1540646,
-      "word": "一图看懂中越友谊",
-      "onboard_time": 1744637904,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 37475,
       "num": 171910,
       "word": "专家辟谣抗生素洗头治疗脱发",
@@ -43721,14 +44001,6 @@
       "onboard_time": 1744461624,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 31159,
-      "num": 158594,
-      "word": "美国又威胁征收半导体关税",
-      "onboard_time": 1744673180,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 31046,
@@ -45737,14 +46009,6 @@
       "onboard_time": 1744402934,
       "rank": 46,
       "category": "健康医疗,运动健身"
-    },
-    {
-      "raw_hot": 16192,
-      "num": 77925,
-      "word": "美债巨震",
-      "onboard_time": 1744673782,
-      "rank": 38,
-      "category": "财经"
     },
     {
       "raw_hot": 16086,
