@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744717044780,
+  "endTime": 1744721332537,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -627,6 +627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2148208,
+      "num": 682349,
+      "word": "张予曦声明",
+      "onboard_time": 1744718782,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2145932,
       "num": 989111,
       "word": "千万网红刀小刀被查",
@@ -1236,7 +1244,7 @@
     },
     {
       "raw_hot": 1683808,
-      "num": 440522,
+      "num": 469492,
       "word": "原来艺人的收入是这样算的",
       "onboard_time": 1744702041,
       "rank": 30,
@@ -3155,6 +3163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1042145,
+      "num": 941247,
+      "word": "家属回应男子思念亡妻无法释怀去世",
+      "onboard_time": 1744717702,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1041446,
       "num": 286674,
       "word": "IU向雪莉金赛纶推荐同一心理医生",
@@ -3272,6 +3288,14 @@
       "word": "夫妻中1003万元大奖称不会告诉孩子",
       "onboard_time": 1744621582,
       "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1006494,
+      "num": 477041,
+      "word": "33岁男子疑因思念亡妻殉情",
+      "onboard_time": 1744716020,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -5867,6 +5891,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 666972,
+      "num": 666972,
+      "word": "终于有电视剧敢拍国安抓间谍了",
+      "onboard_time": 1744715182,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 665318,
       "num": 665318,
       "word": "满江红2",
@@ -5900,7 +5932,7 @@
     },
     {
       "raw_hot": 662872,
-      "num": 287839,
+      "num": 459954,
       "word": "森碟17岁生日照",
       "onboard_time": 1744713441,
       "rank": 36,
@@ -6193,6 +6225,14 @@
       "onboard_time": 1743904940,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 630903,
+      "num": 630903,
+      "word": "越南是唯一一个庆祝猫年的国家",
+      "onboard_time": 1744718122,
+      "rank": 6,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 630721,
@@ -7923,14 +7963,6 @@
       "category": "国际时政,财经"
     },
     {
-      "raw_hot": 509022,
-      "num": 509022,
-      "word": "终于有电视剧敢拍国安抓间谍了",
-      "onboard_time": 1744715182,
-      "rank": 8,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 509020,
       "num": 415567,
       "word": "李羲承火力全开了",
@@ -8660,7 +8692,7 @@
     },
     {
       "raw_hot": 470480,
-      "num": 470480,
+      "num": 500557,
       "word": "何老师这回是真上桌了",
       "onboard_time": 1744711163,
       "rank": 5,
@@ -11228,7 +11260,7 @@
     },
     {
       "raw_hot": 365966,
-      "num": 192758,
+      "num": 324079,
       "word": "日本大学因亲王取消期末考试",
       "onboard_time": 1744715421,
       "rank": 32,
@@ -11561,6 +11593,22 @@
       "onboard_time": 1744099641,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 355680,
+      "num": 355680,
+      "word": "毛子一家生活点滴",
+      "onboard_time": 1744718782,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 355283,
+      "num": 309333,
+      "word": "29岁女生不停运动6个月后",
+      "onboard_time": 1744720583,
+      "rank": 22,
+      "category": "运动健身"
     },
     {
       "raw_hot": 354641,
@@ -13569,6 +13617,14 @@
       "onboard_time": 1743820101,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 302218,
+      "num": 486087,
+      "word": "男子疑因思念亡妻无法释怀去世",
+      "onboard_time": 1744719682,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 302123,
@@ -16411,6 +16467,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 246101,
+      "num": 246101,
+      "word": "苏炳添结婚近9年儿女双全",
+      "onboard_time": 1744718481,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 245965,
       "num": 245965,
       "word": "陈星旭卢昱晓轧戏吻戏",
@@ -16481,14 +16545,6 @@
       "onboard_time": 1744028723,
       "rank": 17,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 244479,
-      "num": 244479,
-      "word": "33岁男子疑因思念亡妻殉情",
-      "onboard_time": 1744716020,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 244052,
@@ -17905,6 +17961,14 @@
       "onboard_time": 1744202966,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 225517,
+      "num": 309902,
+      "word": "身上的衣服是白鹿选的",
+      "onboard_time": 1744717221,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 225458,
@@ -19611,6 +19675,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 208691,
+      "num": 208691,
+      "word": "无忧渡 猫妖换命",
+      "onboard_time": 1744717522,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208686,
       "num": 208686,
       "word": "赵露思在追值得爱",
@@ -20539,6 +20611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202919,
+      "num": 202919,
+      "word": "原神",
+      "onboard_time": 1744720522,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 202687,
       "num": 499120,
       "word": "北京13级阵风可能出现在哪儿",
@@ -21289,6 +21369,14 @@
       "onboard_time": 1744375462,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 197767,
+      "num": 197767,
+      "word": "浙江全省癌症发病率增长9.68%",
+      "onboard_time": 1744717103,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 197737,
@@ -22889,6 +22977,14 @@
       "onboard_time": 1743669562,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189210,
+      "num": 200036,
+      "word": "时代少年团全员学院风",
+      "onboard_time": 1744720281,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 189021,
@@ -24571,6 +24667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179569,
+      "num": 179569,
+      "word": "睡前3小时尽量不吃碳水",
+      "onboard_time": 1744717643,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 179554,
       "num": 179554,
       "word": "易烊千玺代言珀莱雅",
@@ -25073,6 +25177,14 @@
       "onboard_time": 1743645141,
       "rank": 32,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 176277,
+      "num": 176277,
+      "word": "无忧渡病娇木偶叫姐姐",
+      "onboard_time": 1744719801,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 176189,
@@ -27459,6 +27571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161747,
+      "num": 161747,
+      "word": "王曼昱3比1伯格斯特隆",
+      "onboard_time": 1744720583,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161671,
       "num": 161671,
       "word": "河南申论 压分",
@@ -28443,6 +28563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156420,
+      "num": 156420,
+      "word": "严浩翔单条视频播放量破亿",
+      "onboard_time": 1744720943,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156411,
       "num": 183230,
       "word": "张艺兴的手语练成肌肉记忆了",
@@ -29081,6 +29209,14 @@
       "onboard_time": 1744342942,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153140,
+      "num": 437667,
+      "word": "特朗普指责泽连斯基总想买导弹",
+      "onboard_time": 1744720041,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 153085,
@@ -30073,6 +30209,14 @@
       "onboard_time": 1744413619,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 147655,
+      "num": 227212,
+      "word": "小鹏X9很香",
+      "onboard_time": 1744717643,
+      "rank": 26,
+      "category": "汽车"
     },
     {
       "raw_hot": 147607,
@@ -31545,6 +31689,14 @@
       "onboard_time": 1743575422,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140223,
+      "num": 140223,
+      "word": "极氪007GT",
+      "onboard_time": 1744718601,
+      "rank": 42,
+      "category": "汽车"
     },
     {
       "raw_hot": 140141,
@@ -34467,6 +34619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126734,
+      "num": 126734,
+      "word": "爱喝一点点 很old school的感觉",
+      "onboard_time": 1744715841,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 126732,
       "num": 126732,
       "word": "RED女团李芊语中传校考第37名",
@@ -35499,6 +35659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121461,
+      "num": 121461,
+      "word": "玖月晞著作权案二审胜诉",
+      "onboard_time": 1744719742,
+      "rank": 45,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 121401,
       "num": 121401,
       "word": "李嘉琦的分享好浓的班味儿",
@@ -35897,6 +36065,14 @@
       "onboard_time": 1744513521,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119704,
+      "num": 119704,
+      "word": "这和放学接孩子有什么区别",
+      "onboard_time": 1744720583,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 119683,
@@ -36443,14 +36619,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 117221,
-      "num": 117221,
-      "word": "爱喝一点点 很old school的感觉",
-      "onboard_time": 1744715841,
-      "rank": 44,
-      "category": "美食"
-    },
-    {
       "raw_hot": 117217,
       "num": 117217,
       "word": "王者兔狲雪豹藏狐联动皮肤",
@@ -36472,6 +36640,14 @@
       "word": "郭涛儿子石头晒自拍",
       "onboard_time": 1743902660,
       "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 117151,
+      "num": 117151,
+      "word": "BoA直播争议后再发文",
+      "onboard_time": 1744721182,
+      "rank": 47,
       "category": "艺人"
     },
     {
@@ -37193,6 +37369,14 @@
       "onboard_time": 1744032804,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113013,
+      "num": 113013,
+      "word": "美国向黑龙江Windows发加密字节",
+      "onboard_time": 1744721242,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 112975,
@@ -38169,6 +38353,14 @@
       "onboard_time": 1744715182,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106042,
+      "num": 327064,
+      "word": "王曼昱连得5分带走胜利",
+      "onboard_time": 1744720403,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 105992,
@@ -41249,6 +41441,14 @@
       "onboard_time": 1744709542,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 76765,
+      "num": 339256,
+      "word": "极氪终于学会取悦女性用户",
+      "onboard_time": 1744720703,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 76750,
@@ -44497,6 +44697,14 @@
       "onboard_time": 1744611981,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 43689,
+      "num": 324295,
+      "word": "张艺兴为电影花两个月学手语",
+      "onboard_time": 1744720403,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 43564,
@@ -47905,6 +48113,14 @@
       "onboard_time": 1743665003,
       "rank": 41,
       "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 18376,
+      "num": 468073,
+      "word": "撒贝宁见证电池包刮痧泡澡",
+      "onboard_time": 1744719682,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 18269,
