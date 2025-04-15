@@ -1,6 +1,6 @@
 {
   "startTime": 1744648272763,
-  "endTime": 1744721332537,
+  "endTime": 1744722240714,
   "band_list": [
     {
       "raw_hot": 3491899,
@@ -19,8 +19,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 2148208,
-      "num": 682349,
+      "raw_hot": 2157441,
+      "num": 848602,
       "word": "张予曦声明",
       "onboard_time": 1744718782,
       "rank": 3,
@@ -123,6 +123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1216415,
+      "num": 972516,
+      "word": "家属回应男子思念亡妻无法释怀去世",
+      "onboard_time": 1744717702,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1204214,
       "num": 292931,
       "word": "黄子韬卫生巾试用反馈",
@@ -184,14 +192,6 @@
       "word": "路过围观人群竟是儿子儿媳孙子被撞亡",
       "onboard_time": 1744646001,
       "rank": 10,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1042145,
-      "num": 941247,
-      "word": "家属回应男子思念亡妻无法释怀去世",
-      "onboard_time": 1744717702,
-      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -273,6 +273,14 @@
       "onboard_time": 1744716503,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 846609,
+      "num": 846609,
+      "word": "终于有电视剧敢拍国安抓间谍了",
+      "onboard_time": 1744715182,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 835622,
@@ -411,14 +419,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 666972,
-      "num": 666972,
-      "word": "终于有电视剧敢拍国安抓间谍了",
-      "onboard_time": 1744715182,
-      "rank": 8,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 662872,
       "num": 459954,
       "word": "森碟17岁生日照",
@@ -489,6 +489,14 @@
       "onboard_time": 1744687462,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 594856,
+      "num": 309333,
+      "word": "29岁女生不停运动6个月后",
+      "onboard_time": 1744720583,
+      "rank": 22,
+      "category": "运动健身"
     },
     {
       "raw_hot": 547165,
@@ -569,6 +577,14 @@
       "onboard_time": 1744693942,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 457146,
+      "num": 355680,
+      "word": "毛子一家生活点滴",
+      "onboard_time": 1744718782,
+      "rank": 16,
+      "category": "网红"
     },
     {
       "raw_hot": 456506,
@@ -675,6 +691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 371878,
+      "num": 486087,
+      "word": "男子疑因思念亡妻无法释怀去世",
+      "onboard_time": 1744719682,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 370646,
       "num": 309743,
       "word": "减肥效果最好的室内运动",
@@ -697,22 +721,6 @@
       "onboard_time": 1744715421,
       "rank": 32,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 355680,
-      "num": 355680,
-      "word": "毛子一家生活点滴",
-      "onboard_time": 1744718782,
-      "rank": 16,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 355283,
-      "num": 309333,
-      "word": "29岁女生不停运动6个月后",
-      "onboard_time": 1744720583,
-      "rank": 22,
-      "category": "运动健身"
     },
     {
       "raw_hot": 353965,
@@ -843,14 +851,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 302218,
-      "num": 486087,
-      "word": "男子疑因思念亡妻无法释怀去世",
-      "onboard_time": 1744719682,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 298862,
       "num": 298862,
       "word": "成毅陈都灵邓为等火到马来西亚了",
@@ -897,6 +897,14 @@
       "onboard_time": 1744637063,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 285646,
+      "num": 285646,
+      "word": "王者荣耀",
+      "onboard_time": 1744720341,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 277478,
@@ -1001,14 +1009,6 @@
       "onboard_time": 1744626683,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 251619,
-      "num": 251619,
-      "word": "王者荣耀",
-      "onboard_time": 1744720341,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 246169,
@@ -1220,7 +1220,7 @@
     },
     {
       "raw_hot": 208691,
-      "num": 208691,
+      "num": 287389,
       "word": "无忧渡 猫妖换命",
       "onboard_time": 1744717522,
       "rank": 27,
@@ -1241,6 +1241,14 @@
       "onboard_time": 1744686440,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206181,
+      "num": 299010,
+      "word": "睡前3小时尽量不吃碳水",
+      "onboard_time": 1744717643,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 205930,
@@ -1355,6 +1363,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 199077,
+      "num": 327064,
+      "word": "王曼昱连得5分带走胜利",
+      "onboard_time": 1744720403,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197767,
       "num": 197767,
       "word": "浙江全省癌症发病率增长9.68%",
@@ -1393,6 +1409,14 @@
       "onboard_time": 1744691304,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 194777,
+      "num": 194777,
+      "word": "山东泰山",
+      "onboard_time": 1744721963,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 193381,
@@ -1499,6 +1523,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 185150,
+      "num": 185150,
+      "word": "严浩翔单条视频播放量破亿",
+      "onboard_time": 1744720943,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184313,
       "num": 317365,
       "word": "张东升严良时隔五年再相遇",
@@ -1571,14 +1603,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 179569,
-      "num": 179569,
-      "word": "睡前3小时尽量不吃碳水",
-      "onboard_time": 1744717643,
-      "rank": 33,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 179554,
       "num": 179554,
       "word": "易烊千玺代言珀莱雅",
@@ -1612,7 +1636,7 @@
     },
     {
       "raw_hot": 176277,
-      "num": 176277,
+      "num": 199084,
       "word": "无忧渡病娇木偶叫姐姐",
       "onboard_time": 1744719801,
       "rank": 34,
@@ -1851,14 +1875,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 156420,
-      "num": 156420,
-      "word": "严浩翔单条视频播放量破亿",
-      "onboard_time": 1744720943,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 155952,
       "num": 155952,
       "word": "人没事就好 香坏了吧",
@@ -1883,6 +1899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154174,
+      "num": 154174,
+      "word": "女生工作4年考研上北大母亲心疼落泪",
+      "onboard_time": 1744721963,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154031,
       "num": 154031,
       "word": "养小猫最好玩的时期",
@@ -1897,6 +1921,14 @@
       "onboard_time": 1744682061,
       "rank": 48,
       "category": "财经,国际时政"
+    },
+    {
+      "raw_hot": 153968,
+      "num": 153968,
+      "word": "NIP对战IG",
+      "onboard_time": 1744722082,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 153140,
@@ -1939,6 +1971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150050,
+      "num": 291104,
+      "word": "小鹏X9很香",
+      "onboard_time": 1744717643,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 150034,
       "num": 172546,
       "word": "驻日大使馆提醒注意防范地震",
@@ -1953,14 +1993,6 @@
       "onboard_time": 1744708341,
       "rank": 18,
       "category": "民生新闻,汽车"
-    },
-    {
-      "raw_hot": 147655,
-      "num": 227212,
-      "word": "小鹏X9很香",
-      "onboard_time": 1744717643,
-      "rank": 26,
-      "category": "汽车"
     },
     {
       "raw_hot": 147100,
@@ -1985,6 +2017,14 @@
       "onboard_time": 1744706122,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146339,
+      "num": 289309,
+      "word": "三河商户坚持没换招牌省下5万元",
+      "onboard_time": 1744721782,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 145879,
@@ -2043,6 +2083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141658,
+      "num": 141658,
+      "word": "玖月晞著作权案二审胜诉",
+      "onboard_time": 1744719742,
+      "rank": 45,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 141296,
       "num": 141296,
       "word": "京城大师赛",
@@ -2096,6 +2144,14 @@
       "word": "曝桥本环奈中川大志分手",
       "onboard_time": 1744702641,
       "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 138375,
+      "num": 138375,
+      "word": "BoA直播争议后再发文",
+      "onboard_time": 1744721182,
+      "rank": 47,
       "category": "艺人"
     },
     {
@@ -2177,6 +2233,14 @@
       "onboard_time": 1744712002,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132699,
+      "num": 339256,
+      "word": "极氪终于学会取悦女性用户",
+      "onboard_time": 1744720703,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 132309,
@@ -2379,14 +2443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 121461,
-      "num": 121461,
-      "word": "玖月晞著作权案二审胜诉",
-      "onboard_time": 1744719742,
-      "rank": 45,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 121218,
       "num": 121218,
       "word": "刘强东要求京东外卖利润率不超5%",
@@ -2475,14 +2531,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 117151,
-      "num": 117151,
-      "word": "BoA直播争议后再发文",
-      "onboard_time": 1744721182,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 115177,
       "num": 203663,
       "word": "虞书欣旅行中",
@@ -2569,14 +2617,6 @@
       "onboard_time": 1744715182,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 106042,
-      "num": 327064,
-      "word": "王曼昱连得5分带走胜利",
-      "onboard_time": 1744720403,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 105569,
@@ -2859,14 +2899,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 76765,
-      "num": 339256,
-      "word": "极氪终于学会取悦女性用户",
-      "onboard_time": 1744720703,
-      "rank": 17,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 74427,
       "num": 139787,
       "word": "一句妻子的责任抹杀了她全部价值",
@@ -3075,6 +3107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47696,
+      "num": 324295,
+      "word": "张艺兴为电影花两个月学手语",
+      "onboard_time": 1744720403,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 47215,
       "num": 1018160,
       "word": "一图看懂中越友谊",
@@ -3105,14 +3145,6 @@
       "onboard_time": 1744660394,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 43689,
-      "num": 324295,
-      "word": "张艺兴为电影花两个月学手语",
-      "onboard_time": 1744720403,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 43125,
@@ -3201,6 +3233,14 @@
       "onboard_time": 1744705822,
       "rank": 34,
       "category": "剧集,议题讨论"
+    },
+    {
+      "raw_hot": 34299,
+      "num": 298246,
+      "word": "梁靖崑vs黄镇廷",
+      "onboard_time": 1744721543,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 32166,
@@ -3411,12 +3451,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 10072,
+      "num": 154064,
+      "word": "甲亢哥保镖还在怀念中国",
+      "onboard_time": 1744721963,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 8547,
       "num": 228582,
       "word": "涉严重抄袭博士论文已被期刊撤稿",
       "onboard_time": 1744715182,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7943,
+      "num": 153990,
+      "word": "大阪世博实现无现金支付",
+      "onboard_time": 1744722023,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 5144,
