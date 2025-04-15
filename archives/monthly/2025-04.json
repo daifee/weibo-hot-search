@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744724075659,
+  "endTime": 1744724730843,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -2129,6 +2129,14 @@
       "onboard_time": 1744047077,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1299688,
+      "num": 960837,
+      "word": "男子疑因思念亡妻无法释怀去世",
+      "onboard_time": 1744719682,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1299402,
@@ -6331,6 +6339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 622196,
+      "num": 362254,
+      "word": "杜华让艺人别蹭乐华热度",
+      "onboard_time": 1744722741,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 621651,
       "num": 621651,
       "word": "流浪地球3开机",
@@ -8163,14 +8179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 501713,
-      "num": 501713,
-      "word": "男子疑因思念亡妻无法释怀去世",
-      "onboard_time": 1744719682,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 501333,
       "num": 403457,
       "word": "齐思钧蛋糕",
@@ -9233,14 +9241,6 @@
       "onboard_time": 1744263023,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 448731,
-      "num": 362254,
-      "word": "杜华让艺人别蹭乐华热度",
-      "onboard_time": 1744722741,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 448448,
@@ -14491,6 +14491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 284864,
+      "num": 360638,
+      "word": "孙颖莎vs张默",
+      "onboard_time": 1744723282,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 284464,
       "num": 272172,
       "word": "玫瑰公主孟子义",
@@ -16185,6 +16193,14 @@
       "onboard_time": 1743932720,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 251637,
+      "num": 315998,
+      "word": "订婚强奸案检方认定有实质性关系",
+      "onboard_time": 1744724003,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 251516,
@@ -24051,6 +24067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 183617,
+      "num": 183617,
+      "word": "甲亢哥保镖还在怀念中国",
+      "onboard_time": 1744721963,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 183615,
       "num": 324685,
       "word": "片场捕捉野生文淇",
@@ -27611,14 +27635,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 162104,
-      "num": 360638,
-      "word": "孙颖莎vs张默",
-      "onboard_time": 1744723282,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 161955,
       "num": 161955,
       "word": "时代少年团 录播",
@@ -29155,6 +29171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153948,
+      "num": 153948,
+      "word": "遍地高仿货minmin背刺多少消费者",
+      "onboard_time": 1744723702,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 153920,
       "num": 331173,
       "word": "孙颖莎对红旗是真爱",
@@ -29457,14 +29481,6 @@
       "onboard_time": 1744605684,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 152132,
-      "num": 152132,
-      "word": "订婚强奸案检方认定有实质性关系",
-      "onboard_time": 1744724003,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 152097,
@@ -31609,6 +31625,14 @@
       "onboard_time": 1743555923,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 141097,
+      "num": 141097,
+      "word": "山东文旅发了蔡徐坤",
+      "onboard_time": 1744723944,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 141089,
@@ -34243,14 +34267,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 129410,
-      "num": 129410,
-      "word": "山东文旅发了蔡徐坤",
-      "onboard_time": 1744723944,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 129399,
       "num": 71883,
       "word": "陈芋汐全红婵女子10米台冠亚军",
@@ -34987,14 +35003,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 125733,
-      "num": 125733,
-      "word": "遍地高仿货minmin背刺多少消费者",
-      "onboard_time": 1744723702,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 125710,
       "num": 125710,
       "word": "站姐团建 经典回味",
@@ -35595,6 +35603,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 122641,
+      "num": 122641,
+      "word": "极氪007GT价格",
+      "onboard_time": 1744724663,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 122522,
       "num": 122522,
       "word": "全红婵有很多王楚钦的表情包",
@@ -35777,6 +35793,14 @@
       "onboard_time": 1744462463,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 121680,
+      "num": 121680,
+      "word": "武汉三镇vs北京国安",
+      "onboard_time": 1744724604,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 121655,
@@ -42387,6 +42411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68767,
+      "num": 364325,
+      "word": "一年一度泼水节保留节目",
+      "onboard_time": 1744722562,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68588,
       "num": 293399,
       "word": "电影大风杀聚焦禁枪前夕",
@@ -42505,14 +42537,6 @@
       "onboard_time": 1744155321,
       "rank": 49,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 67545,
-      "num": 364325,
-      "word": "一年一度泼水节保留节目",
-      "onboard_time": 1744722562,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 67532,
@@ -49323,14 +49347,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 10072,
-      "num": 154064,
-      "word": "甲亢哥保镖还在怀念中国",
-      "onboard_time": 1744721963,
-      "rank": 38,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 9953,
       "num": 134324,
       "word": "韩执政党前议员张济元意外身亡",
@@ -49441,6 +49457,14 @@
       "onboard_time": 1744499898,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8955,
+      "num": 946348,
+      "word": "报告显示投资者或被关税反复愚弄",
+      "onboard_time": 1744724663,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 8946,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/15 21:34:35
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/15 21:45:30
 </p>
 </blockquote>
 <p>
@@ -1607,6 +1607,12 @@ Simon事件（热度：1411247）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E9%AB%98%E5%BA%A6%E5%85%B3%E6%B3%A8%E4%B8%AD%E5%9B%BD%E7%8C%9B%E7%83%88%E5%8F%8D%E5%87%BB%E7%BE%8E%E5%9B%BD%23" target="weibo">
 全球高度关注中国猛烈反击美国（热度：1304384）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%96%91%E5%9B%A0%E6%80%9D%E5%BF%B5%E4%BA%A1%E5%A6%BB%E6%97%A0%E6%B3%95%E9%87%8A%E6%80%80%E5%8E%BB%E4%B8%96%23" target="weibo">
+男子疑因思念亡妻无法释怀去世（热度：1299688）
 </a>
 </li>
 
@@ -4761,6 +4767,12 @@ Daniel公开（热度：626903）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E5%8D%8E%E8%AE%A9%E8%89%BA%E4%BA%BA%E5%88%AB%E8%B9%AD%E4%B9%90%E5%8D%8E%E7%83%AD%E5%BA%A6%23" target="weibo">
+杜华让艺人别蹭乐华热度（热度：622196）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%81%E6%B5%AA%E5%9C%B0%E7%90%833%E5%BC%80%E6%9C%BA%23" target="weibo">
 流浪地球3开机（热度：621651）
 </a>
@@ -5999,18 +6011,6 @@ Switch2直面会（热度：514768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%85%B3%E7%A8%8E%E6%94%BF%E7%AD%96%E4%BC%A4%E4%BA%86%E8%B0%81%23" target="weibo">
 美国关税政策伤了谁（热度：510344）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%BE%B2%E6%89%BF%E7%81%AB%E5%8A%9B%E5%85%A8%E5%BC%80%E4%BA%86%23" target="weibo">
-李羲承火力全开了（热度：509020）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%8A%98%E8%85%BE%E4%B8%80%E5%91%A8%E4%B8%8D%E5%A6%82%E5%91%A8%E6%9C%AB%E7%9A%84%E9%A3%8E%E5%8A%A8%E9%9D%99%E5%A4%A7%23" target="weibo">
-美国折腾一周不如周末的风动静大（热度：508907）
 </a>
 </li>
 

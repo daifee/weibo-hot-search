@@ -1,6 +1,6 @@
 {
   "startTime": 1744648272763,
-  "endTime": 1744724075659,
+  "endTime": 1744724730843,
   "band_list": [
     {
       "raw_hot": 3491899,
@@ -105,6 +105,14 @@
       "onboard_time": 1744684340,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1299688,
+      "num": 960837,
+      "word": "男子疑因思念亡妻无法释怀去世",
+      "onboard_time": 1744719682,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1279124,
@@ -467,6 +475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 622196,
+      "num": 362254,
+      "word": "杜华让艺人别蹭乐华热度",
+      "onboard_time": 1744722741,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 621651,
       "num": 621651,
       "word": "流浪地球3开机",
@@ -555,14 +571,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 501713,
-      "num": 501713,
-      "word": "男子疑因思念亡妻无法释怀去世",
-      "onboard_time": 1744719682,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 495195,
       "num": 495195,
       "word": "美债巨震",
@@ -624,14 +632,6 @@
       "word": "第一次见录一半全睡了的综艺",
       "onboard_time": 1744619482,
       "rank": 33,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 448731,
-      "num": 362254,
-      "word": "杜华让艺人别蹭乐华热度",
-      "onboard_time": 1744722741,
-      "rank": 22,
       "category": "综艺"
     },
     {
@@ -939,6 +939,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 284864,
+      "num": 360638,
+      "word": "孙颖莎vs张默",
+      "onboard_time": 1744723282,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 277478,
       "num": 474686,
       "word": "张婧仪活动生图",
@@ -1041,6 +1049,14 @@
       "onboard_time": 1744626683,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 251637,
+      "num": 315998,
+      "word": "订婚强奸案检方认定有实质性关系",
+      "onboard_time": 1744724003,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 246169,
@@ -1603,6 +1619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 183617,
+      "num": 183617,
+      "word": "甲亢哥保镖还在怀念中国",
+      "onboard_time": 1744721963,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 182987,
       "num": 242776,
       "word": "手语吵架是一种什么体验",
@@ -1835,14 +1859,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 162104,
-      "num": 360638,
-      "word": "孙颖莎vs张默",
-      "onboard_time": 1744723282,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 161897,
       "num": 161897,
       "word": "ITZY获胜",
@@ -1995,20 +2011,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 153948,
+      "num": 153948,
+      "word": "遍地高仿货minmin背刺多少消费者",
+      "onboard_time": 1744723702,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 153140,
       "num": 437667,
       "word": "特朗普指责泽连斯基总想买导弹",
       "onboard_time": 1744720041,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 152132,
-      "num": 152132,
-      "word": "订婚强奸案检方认定有实质性关系",
-      "onboard_time": 1744724003,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 152097,
@@ -2161,6 +2177,14 @@
       "onboard_time": 1744715001,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 141097,
+      "num": 141097,
+      "word": "山东文旅发了蔡徐坤",
+      "onboard_time": 1744723944,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 140477,
@@ -2347,14 +2371,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 129410,
-      "num": 129410,
-      "word": "山东文旅发了蔡徐坤",
-      "onboard_time": 1744723944,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 129160,
       "num": 129160,
       "word": "奔跑吧",
@@ -2475,14 +2491,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 125733,
-      "num": 125733,
-      "word": "遍地高仿货minmin背刺多少消费者",
-      "onboard_time": 1744723702,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 125555,
       "num": 125555,
       "word": "网信办整治4类短视频营销乱象",
@@ -2515,6 +2523,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 122641,
+      "num": 122641,
+      "word": "极氪007GT价格",
+      "onboard_time": 1744724663,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 122085,
       "num": 122085,
       "word": "Gr对战WBG",
@@ -2528,6 +2544,14 @@
       "word": "王皓大声提醒大头接发球要果断",
       "onboard_time": 1744709721,
       "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 121680,
+      "num": 121680,
+      "word": "武汉三镇vs北京国安",
+      "onboard_time": 1744724604,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -3067,7 +3091,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 67545,
+      "raw_hot": 68767,
       "num": 364325,
       "word": "一年一度泼水节保留节目",
       "onboard_time": 1744722562,
@@ -3571,12 +3595,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 10072,
-      "num": 154064,
-      "word": "甲亢哥保镖还在怀念中国",
-      "onboard_time": 1744721963,
-      "rank": 38,
-      "category": "海外新闻"
+      "raw_hot": 8955,
+      "num": 946348,
+      "word": "报告显示投资者或被关税反复愚弄",
+      "onboard_time": 1744724663,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 8547,
