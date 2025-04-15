@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744713900235,
+  "endTime": 1744716065790,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -2497,6 +2497,14 @@
       "onboard_time": 1744008741,
       "rank": 1,
       "category": "互联网,财经"
+    },
+    {
+      "raw_hot": 1179967,
+      "num": 820685,
+      "word": "大熊猫芦芦去世",
+      "onboard_time": 1744712843,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1176572,
@@ -5307,14 +5315,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 721019,
-      "num": 499382,
-      "word": "大熊猫芦芦去世",
-      "onboard_time": 1744712843,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 720758,
       "num": 720758,
       "word": "严浩翔说有diss是很正常的事",
@@ -7067,6 +7067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 558537,
+      "num": 238109,
+      "word": "森碟17岁生日照",
+      "onboard_time": 1744713441,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 558398,
       "num": 558398,
       "word": "吴镇宇不记得合作过李沐宸",
@@ -7921,6 +7929,14 @@
       "onboard_time": 1744554803,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 508830,
+      "num": 246236,
+      "word": "刘强东要求京东外卖利润不高于5%",
+      "onboard_time": 1744709903,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 508724,
@@ -11747,14 +11763,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 348718,
-      "num": 246236,
-      "word": "刘强东要求京东外卖利润不高于5%",
-      "onboard_time": 1744709903,
-      "rank": 39,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 348299,
       "num": 348299,
       "word": "山姆客服称水果中吃出虫是正常情况",
@@ -12377,6 +12385,14 @@
       "onboard_time": 1744025244,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 329982,
+      "num": 329982,
+      "word": "网剧悬镜今日开播",
+      "onboard_time": 1744712780,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 329588,
@@ -15435,6 +15451,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 262295,
+      "num": 233305,
+      "word": "王俊凯五哈录制",
+      "onboard_time": 1744715543,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 262128,
       "num": 262128,
       "word": "王蓉浪姐疑似只签了一期",
@@ -16643,6 +16667,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 240358,
+      "num": 240358,
+      "word": "终于有电视剧敢拍国安抓间谍了",
+      "onboard_time": 1744715182,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 240320,
       "num": 301740,
       "word": "台军反应迟缓若实战或不战而溃",
@@ -17057,6 +17089,14 @@
       "onboard_time": 1744035744,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 234620,
+      "num": 234620,
+      "word": "赵露思给好友新店开业当嘉宾",
+      "onboard_time": 1744714763,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 234605,
@@ -17505,14 +17545,6 @@
       "onboard_time": 1744265662,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 228113,
-      "num": 228113,
-      "word": "网剧悬镜今日开播",
-      "onboard_time": 1744712780,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 228062,
@@ -22177,6 +22209,14 @@
       "onboard_time": 1743586821,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192758,
+      "num": 192758,
+      "word": "日本大学因亲王取消期末考试",
+      "onboard_time": 1744715421,
+      "rank": 32,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 192698,
@@ -27147,6 +27187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 163213,
+      "num": 233971,
+      "word": "三河市府办回应换招牌损失赔偿",
+      "onboard_time": 1744715063,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 163208,
       "num": 205622,
       "word": "老人百年祖宅被拆后维权7年",
@@ -27353,6 +27401,14 @@
       "onboard_time": 1743431064,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161897,
+      "num": 161897,
+      "word": "ITZY获胜",
+      "onboard_time": 1744711163,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 161896,
@@ -28780,7 +28836,7 @@
     },
     {
       "raw_hot": 154208,
-      "num": 154208,
+      "num": 240106,
       "word": "官方回应三河市委主要负责人是谁",
       "onboard_time": 1744709243,
       "rank": 38,
@@ -28929,14 +28985,6 @@
       "onboard_time": 1744451124,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 153681,
-      "num": 155148,
-      "word": "ITZY获胜",
-      "onboard_time": 1744711163,
-      "rank": 38,
-      "category": "电竞"
     },
     {
       "raw_hot": 153668,
@@ -30891,6 +30939,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 143382,
+      "num": 143382,
+      "word": "无缝球与有缝球有什么区别",
+      "onboard_time": 1744714943,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143364,
       "num": 228655,
       "word": "台独作妖引天火",
@@ -31219,12 +31275,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 141412,
-      "num": 141412,
-      "word": "森碟17岁生日照",
-      "onboard_time": 1744713441,
-      "rank": 36,
-      "category": "艺人"
+      "raw_hot": 141296,
+      "num": 141296,
+      "word": "京城大师赛",
+      "onboard_time": 1744715001,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 141294,
@@ -31489,6 +31545,14 @@
       "onboard_time": 1743513922,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 140002,
+      "num": 234608,
+      "word": "谍报上不封顶备案40集",
+      "onboard_time": 1744715361,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 139989,
@@ -32987,6 +33051,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 133286,
+      "num": 229779,
+      "word": "王曼昱vs伯格斯特隆",
+      "onboard_time": 1744713022,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133233,
       "num": 133233,
       "word": "武汉雷暴大风上演一秒天黑",
@@ -34388,7 +34460,7 @@
     },
     {
       "raw_hot": 126620,
-      "num": 126620,
+      "num": 232183,
       "word": "王楚钦说全是惊吧",
       "onboard_time": 1744712542,
       "rank": 46,
@@ -36267,6 +36339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117475,
+      "num": 117475,
+      "word": "当老师就像当爱豆",
+      "onboard_time": 1744712602,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 117453,
       "num": 517507,
       "word": "第10个全民国家安全教育日",
@@ -36337,6 +36417,14 @@
       "onboard_time": 1743830961,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 117221,
+      "num": 117221,
+      "word": "爱喝一点点 很old school的感觉",
+      "onboard_time": 1744715841,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 117217,
@@ -38043,6 +38131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106094,
+      "num": 106094,
+      "word": "景德镇车祸家属带1家3口衣服出庭",
+      "onboard_time": 1744715182,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105992,
       "num": 439480,
       "word": "缅甸地震已致3145人死亡",
@@ -38385,6 +38481,14 @@
       "onboard_time": 1743834501,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103892,
+      "num": 103892,
+      "word": "吴昕的阿珍认不出魏大勋的阿强",
+      "onboard_time": 1744715361,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 103835,
@@ -39321,6 +39425,14 @@
       "onboard_time": 1744174766,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 95157,
+      "num": 95157,
+      "word": "33岁男子疑因思念亡妻殉情",
+      "onboard_time": 1744716020,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94896,
@@ -40844,7 +40956,7 @@
     },
     {
       "raw_hot": 80260,
-      "num": 224416,
+      "num": 231037,
       "word": "小鹏X9排面",
       "onboard_time": 1744711522,
       "rank": 25,
@@ -41241,6 +41353,14 @@
       "onboard_time": 1744533862,
       "rank": 19,
       "category": "网红"
+    },
+    {
+      "raw_hot": 74852,
+      "num": 236306,
+      "word": "云南是这样浇朋友的",
+      "onboard_time": 1744715001,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 74770,
@@ -41937,14 +42057,6 @@
       "onboard_time": 1743895217,
       "rank": 36,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 68391,
-      "num": 229779,
-      "word": "王曼昱vs伯格斯特隆",
-      "onboard_time": 1744713022,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 68364,
@@ -42865,6 +42977,14 @@
       "onboard_time": 1744099583,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 59915,
+      "num": 231297,
+      "word": "比亚迪日本电动出行阵容上新",
+      "onboard_time": 1744715063,
+      "rank": 25,
+      "category": "汽车"
     },
     {
       "raw_hot": 59911,
@@ -48929,6 +49049,14 @@
       "onboard_time": 1743895999,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 8547,
+      "num": 228582,
+      "word": "涉严重抄袭博士论文已被期刊撤稿",
+      "onboard_time": 1744715182,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 8449,
