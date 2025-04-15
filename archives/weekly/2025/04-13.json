@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744716065790,
+  "endTime": 1744717044780,
   "band_list": [
     {
       "raw_hot": 3491899,
@@ -428,7 +428,7 @@
     },
     {
       "raw_hot": 1179967,
-      "num": 820685,
+      "num": 899040,
       "word": "大熊猫芦芦去世",
       "onboard_time": 1744712843,
       "rank": 3,
@@ -817,6 +817,14 @@
       "onboard_time": 1744505362,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 856915,
+      "num": 856915,
+      "word": "苏炳添官宣生三胎",
+      "onboard_time": 1744716503,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 853557,
@@ -1219,6 +1227,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 662872,
+      "num": 287839,
+      "word": "森碟17岁生日照",
+      "onboard_time": 1744713441,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 660543,
       "num": 660543,
       "word": "鸟类感染病毒后脖子扭转180度",
@@ -1411,14 +1427,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 558537,
-      "num": 238109,
-      "word": "森碟17岁生日照",
-      "onboard_time": 1744713441,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 558398,
       "num": 558398,
       "word": "吴镇宇不记得合作过李沐宸",
@@ -1553,6 +1561,14 @@
       "onboard_time": 1744704862,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 509022,
+      "num": 509022,
+      "word": "终于有电视剧敢拍国安抓间谍了",
+      "onboard_time": 1744715182,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 509020,
@@ -2155,6 +2171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 365966,
+      "num": 192758,
+      "word": "日本大学因亲王取消期末考试",
+      "onboard_time": 1744715421,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 365802,
       "num": 365802,
       "word": "辽宁男篮vs新疆男篮",
@@ -2515,6 +2539,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 296936,
+      "num": 296936,
+      "word": "三河市府办回应换招牌损失赔偿",
+      "onboard_time": 1744715063,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 296223,
       "num": 296223,
       "word": "齐思钧自己去看了两年心理治疗",
@@ -2691,6 +2723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 272565,
+      "num": 233305,
+      "word": "王俊凯五哈录制",
+      "onboard_time": 1744715543,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 271145,
       "num": 282884,
       "word": "威尔斯绝平三分",
@@ -2785,14 +2825,6 @@
       "onboard_time": 1744506741,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 262295,
-      "num": 233305,
-      "word": "王俊凯五哈录制",
-      "onboard_time": 1744715543,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 261744,
@@ -2995,11 +3027,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 244479,
+      "num": 244479,
+      "word": "33岁男子疑因思念亡妻殉情",
+      "onboard_time": 1744716020,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 244052,
       "num": 221470,
       "word": "梁老师道歉",
       "onboard_time": 1744623743,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 243828,
+      "num": 243828,
+      "word": "赵露思给好友新店开业当嘉宾",
+      "onboard_time": 1744714763,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -3033,14 +3081,6 @@
       "onboard_time": 1744687941,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 240358,
-      "num": 240358,
-      "word": "终于有电视剧敢拍国安抓间谍了",
-      "onboard_time": 1744715182,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 240266,
@@ -3129,14 +3169,6 @@
       "onboard_time": 1744507522,
       "rank": 24,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 234620,
-      "num": 234620,
-      "word": "赵露思给好友新店开业当嘉宾",
-      "onboard_time": 1744714763,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 234400,
@@ -4235,14 +4267,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 192758,
-      "num": 192758,
-      "word": "日本大学因亲王取消期末考试",
-      "onboard_time": 1744715421,
-      "rank": 32,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 192698,
       "num": 192698,
       "word": "PeRo战队PCL春季赛冠军",
@@ -5020,7 +5044,7 @@
     },
     {
       "raw_hot": 172077,
-      "num": 709951,
+      "num": 862058,
       "word": "发现美国特工线索拨打0451110",
       "onboard_time": 1744680202,
       "rank": 32,
@@ -5289,14 +5313,6 @@
       "onboard_time": 1744640903,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 163213,
-      "num": 233971,
-      "word": "三河市府办回应换招牌损失赔偿",
-      "onboard_time": 1744715063,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 162970,
@@ -5835,6 +5851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147100,
+      "num": 229779,
+      "word": "王曼昱vs伯格斯特隆",
+      "onboard_time": 1744713022,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146778,
       "num": 313129,
       "word": "何为国家安全",
@@ -5921,6 +5945,14 @@
       "onboard_time": 1744687220,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 144911,
+      "num": 189261,
+      "word": "饲养员悼念大熊猫芦芦",
+      "onboard_time": 1744716503,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144767,
@@ -6555,14 +6587,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 133286,
-      "num": 229779,
-      "word": "王曼昱vs伯格斯特隆",
-      "onboard_time": 1744713022,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 133200,
       "num": 133200,
       "word": "艾福杰尼上五哈前没觉得自己像熊",
@@ -6732,7 +6756,7 @@
     },
     {
       "raw_hot": 130098,
-      "num": 130098,
+      "num": 142403,
       "word": "王者老夫子红霸狐蓝霸狐",
       "onboard_time": 1744713022,
       "rank": 38,
@@ -7843,6 +7867,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 107814,
+      "num": 140593,
+      "word": "吴昕的阿珍认不出魏大勋的阿强",
+      "onboard_time": 1744715361,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 107494,
       "num": 107494,
       "word": "好一节标准的小狗礼仪课",
@@ -7947,20 +7979,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 103892,
-      "num": 103892,
-      "word": "吴昕的阿珍认不出魏大勋的阿强",
-      "onboard_time": 1744715361,
-      "rank": 47,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 103807,
       "num": 392192,
       "word": "禁用红蓝招牌这些问题待回应",
       "onboard_time": 1744633942,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103722,
+      "num": 131327,
+      "word": "易烊千玺待播电影",
+      "onboard_time": 1744716922,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 103417,
@@ -8081,6 +8113,14 @@
       "onboard_time": 1744530800,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100389,
+      "num": 100389,
+      "word": "周翊然男模级别",
+      "onboard_time": 1744716982,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 100287,
@@ -8209,14 +8249,6 @@
       "onboard_time": 1744645941,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 95157,
-      "num": 95157,
-      "word": "33岁男子疑因思念亡妻殉情",
-      "onboard_time": 1744716020,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 94896,
@@ -8563,6 +8595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78848,
+      "num": 236306,
+      "word": "云南是这样浇朋友的",
+      "onboard_time": 1744715001,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78178,
       "num": 247190,
       "word": "澳门世界杯赛场抽象名场面",
@@ -8633,14 +8673,6 @@
       "onboard_time": 1744533862,
       "rank": 19,
       "category": "网红"
-    },
-    {
-      "raw_hot": 74852,
-      "num": 236306,
-      "word": "云南是这样浇朋友的",
-      "onboard_time": 1744715001,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 74731,
@@ -8931,20 +8963,20 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 60749,
+      "num": 231297,
+      "word": "比亚迪日本电动出行阵容上新",
+      "onboard_time": 1744715063,
+      "rank": 25,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 60314,
       "num": 183545,
       "word": "王楚钦皱成一团",
       "onboard_time": 1744705942,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 59915,
-      "num": 231297,
-      "word": "比亚迪日本电动出行阵容上新",
-      "onboard_time": 1744715063,
-      "rank": 25,
-      "category": "汽车"
     },
     {
       "raw_hot": 58683,
@@ -9459,6 +9491,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 38701,
+      "num": 137177,
+      "word": "谁在试图偷走南海的名字",
+      "onboard_time": 1744716922,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 38627,
       "num": 412607,
       "word": "收购老人快递信息卖药诈骗126万",
@@ -9473,6 +9513,14 @@
       "onboard_time": 1744651336,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 37969,
+      "num": 138735,
+      "word": "白天多晒太阳能储存褪黑素",
+      "onboard_time": 1744716861,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 37940,
