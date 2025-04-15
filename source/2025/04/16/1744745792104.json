@@ -1,0 +1,410 @@
+{
+  "runTime": 1744745792104,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9464,
+        "num": 72914,
+        "word": "悬赏通缉3名美国特工",
+        "onboard_time": 1744679662,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 181364,
+        "num": 70596,
+        "word": "美国被曝要去深海非法挖稀土",
+        "onboard_time": 1744735158,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 11421,
+        "num": 64730,
+        "word": "反网络霸权网警在行动",
+        "onboard_time": 1744725623,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 100467,
+        "num": 63400,
+        "word": "超市闭店清仓500多辆购物车丢失",
+        "onboard_time": 1744736298,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61853,
+        "num": 61853,
+        "word": "男子疑因思念亡妻无法释怀去世",
+        "onboard_time": 1744719682,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50132,
+        "num": 50132,
+        "word": "湖北荆州市委书记任上被查",
+        "onboard_time": 1744736298,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49004,
+        "num": 49004,
+        "word": "zeta",
+        "onboard_time": 1744737557,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 42922,
+        "num": 42922,
+        "word": "中国稀土管制扼住美军工命脉",
+        "onboard_time": 1744733001,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 38028,
+        "num": 38028,
+        "word": "折腰没播",
+        "onboard_time": 1744728144,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29346,
+        "num": 38026,
+        "word": "Jennie科切拉",
+        "onboard_time": 1744730783,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 318917,
+        "num": 38021,
+        "word": "玫瑰",
+        "onboard_time": 1744736777,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 318251,
+        "num": 38012,
+        "word": "毛子一家生活点滴",
+        "onboard_time": 1744718782,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 98096,
+        "num": 38006,
+        "word": "丈夫怒怼网友有子宫就有资格做母亲",
+        "onboard_time": 1744732401,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75599,
+        "num": 38001,
+        "word": "心疼川川",
+        "onboard_time": 1744730303,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 73537,
+        "num": 37991,
+        "word": "毛子 总有另一面",
+        "onboard_time": 1744722562,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 58839,
+        "num": 37986,
+        "word": "李昊怎么了",
+        "onboard_time": 1744727603,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50198,
+        "num": 37977,
+        "word": "他以身入局把13岁健全的女儿捆在身上",
+        "onboard_time": 1744726223,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 43261,
+        "num": 37968,
+        "word": "赵露思特别近的生图",
+        "onboard_time": 1744740794,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38269,
+        "num": 37968,
+        "word": "原来艺人的收入是这样算的",
+        "onboard_time": 1744702041,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37962,
+        "num": 37962,
+        "word": "让美国乡巴佬在中华悠久历史前哀鸣",
+        "onboard_time": 1744743254,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 35409,
+        "num": 35409,
+        "word": "家具厂女员工拒绝向普京透露工资",
+        "onboard_time": 1744732401,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 30099,
+        "num": 30099,
+        "word": "29岁女生不停运动6个月后",
+        "onboard_time": 1744720583,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 28794,
+        "num": 28794,
+        "word": "赵露思张婧仪田曦薇状态",
+        "onboard_time": 1744727363,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 27657,
+        "num": 27657,
+        "word": "遍地高仿货minmin背刺多少消费者",
+        "onboard_time": 1744723702,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26775,
+        "num": 26775,
+        "word": "TheShy状态",
+        "onboard_time": 1744731381,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 10580,
+        "num": 26003,
+        "word": "电动车卷入车底路人2分钟抬车救人",
+        "onboard_time": 1744744875,
+        "rank": 25,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 25651,
+        "num": 25651,
+        "word": "家属回应男子思念亡妻无法释怀去世",
+        "onboard_time": 1744717702,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24649,
+        "num": 24649,
+        "word": "这5类电话打进来直接挂断",
+        "onboard_time": 1744732341,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20250,
+        "num": 24332,
+        "word": "无忧渡",
+        "onboard_time": 1744713081,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19739,
+        "num": 24328,
+        "word": "张予曦离开欢瑞",
+        "onboard_time": 1744725564,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24326,
+        "num": 24326,
+        "word": "Doinb太牛了",
+        "onboard_time": 1744731921,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 22857,
+        "num": 22857,
+        "word": "日本不准备向美国做重大让步",
+        "onboard_time": 1744706842,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 22288,
+        "num": 22288,
+        "word": "演员童正维去世",
+        "onboard_time": 1744726464,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22190,
+        "num": 22190,
+        "word": "男子怕被妻子发现喝酒从18楼扔下酒瓶",
+        "onboard_time": 1744729763,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10238,
+        "num": 21917,
+        "word": "校服运动服工作服一起变身抬车侠",
+        "onboard_time": 1744745594,
+        "rank": 34,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 21892,
+        "num": 21892,
+        "word": "全网都在问肖战来武汉干啥",
+        "onboard_time": 1744739596,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21649,
+        "num": 21649,
+        "word": "终于有电视剧敢拍国安抓间谍了",
+        "onboard_time": 1744715182,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 20999,
+        "num": 20999,
+        "word": "时代少年团祝张真源22岁生日快乐",
+        "onboard_time": 1744737018,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20606,
+        "num": 20606,
+        "word": "特朗普上一任期被指让美减少7.5万岗位",
+        "onboard_time": 1744726042,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 20324,
+        "num": 20324,
+        "word": "谁在床上吃贡菜呢",
+        "onboard_time": 1744732221,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 20045,
+        "num": 20045,
+        "word": "肖战武汉",
+        "onboard_time": 1744726404,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19988,
+        "num": 19988,
+        "word": "大妈为年轻10岁做媚眼后哗哗流泪",
+        "onboard_time": 1744727603,
+        "rank": 41,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 19817,
+        "num": 19817,
+        "word": "西安回应网友建议学校取消用电子屏",
+        "onboard_time": 1744736238,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19455,
+        "num": 19455,
+        "word": "中越发表联合声明",
+        "onboard_time": 1744730063,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 19107,
+        "num": 19107,
+        "word": "韩国公交女司机救中国留学生",
+        "onboard_time": 1744741814,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 18841,
+        "num": 18841,
+        "word": "滨崎步的腰",
+        "onboard_time": 1744727603,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 18351,
+        "num": 18840,
+        "word": "苏炳添结婚近9年儿女双全",
+        "onboard_time": 1744718481,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17994,
+        "num": 18835,
+        "word": "张予曦在浪姐爆哭",
+        "onboard_time": 1744728803,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15019,
+        "num": 18833,
+        "word": "天赐的声音",
+        "onboard_time": 1744738517,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13561,
+        "num": 18830,
+        "word": "医学生有属于自己的综艺节目",
+        "onboard_time": 1744743554,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#中马两国传统友谊绵延千年#"
+    }
+  }
+}
