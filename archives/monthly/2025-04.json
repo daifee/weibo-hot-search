@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744742764215,
+  "endTime": 1744744817960,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -44507,6 +44507,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 52743,
+      "num": 43717,
+      "word": "赵露思特别近的生图",
+      "onboard_time": 1744740794,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 52618,
       "num": 93616,
       "word": "8位在韩志愿军烈士身份被确认",
@@ -45553,14 +45561,6 @@
       "onboard_time": 1744532902,
       "rank": 29,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 42679,
-      "num": 39158,
-      "word": "赵露思特别近的生图",
-      "onboard_time": 1744740794,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 42649,
@@ -48459,6 +48459,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 21345,
+      "num": 49977,
+      "word": "让美国乡巴佬在中华悠久历史前哀鸣",
+      "onboard_time": 1744743254,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 21336,
       "num": 38477,
       "word": "张峻豪新歌卫冕",
@@ -48633,6 +48641,14 @@
       "onboard_time": 1743935841,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 19668,
+      "num": 19668,
+      "word": "时代少年团四专睡衣造型",
+      "onboard_time": 1744744274,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 19655,
@@ -49625,6 +49641,14 @@
       "onboard_time": 1743931641,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 13044,
+      "num": 19161,
+      "word": "医学生有属于自己的综艺节目",
+      "onboard_time": 1744743554,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 12900,

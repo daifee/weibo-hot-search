@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744742764215,
+  "endTime": 1744744817960,
   "band_list": [
     {
       "raw_hot": 3491899,
@@ -9939,6 +9939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 52743,
+      "num": 43717,
+      "word": "赵露思特别近的生图",
+      "onboard_time": 1744740794,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 52483,
       "num": 198274,
       "word": "刘国梁谈运动员的榜样力量",
@@ -10233,14 +10241,6 @@
       "onboard_time": 1744532902,
       "rank": 29,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 42679,
-      "num": 39158,
-      "word": "赵露思特别近的生图",
-      "onboard_time": 1744740794,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 42649,
@@ -11019,6 +11019,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 21345,
+      "num": 49977,
+      "word": "让美国乡巴佬在中华悠久历史前哀鸣",
+      "onboard_time": 1744743254,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 21277,
       "num": 29537,
       "word": "水果姐将乘飞船进太空",
@@ -11065,6 +11073,14 @@
       "onboard_time": 1744650498,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 19668,
+      "num": 19668,
+      "word": "时代少年团四专睡衣造型",
+      "onboard_time": 1744744274,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 19345,
@@ -11219,6 +11235,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 15864,
+      "num": 19174,
+      "word": "天赐的声音",
+      "onboard_time": 1744738517,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 15484,
       "num": 27787,
       "word": "成毅侧颜牛仔套装",
@@ -11289,6 +11313,14 @@
       "onboard_time": 1744629442,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 13044,
+      "num": 19161,
+      "word": "医学生有属于自己的综艺节目",
+      "onboard_time": 1744743554,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 12900,
