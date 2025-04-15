@@ -1,6 +1,6 @@
 {
   "startTime": 1744648272763,
-  "endTime": 1744701976432,
+  "endTime": 1744702814828,
   "band_list": [
     {
       "raw_hot": 3491899,
@@ -123,6 +123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1048177,
+      "num": 232314,
+      "word": "景德镇一家三口被撞身亡案择期宣判",
+      "onboard_time": 1744701022,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1047431,
       "num": 328283,
       "word": "路过围观人群竟是儿子儿媳孙子被撞亡",
@@ -131,7 +139,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 938628,
+      "raw_hot": 963113,
       "num": 238028,
       "word": "葛夕称抑郁症复发加大药量",
       "onboard_time": 1744698861,
@@ -217,14 +225,6 @@
       "onboard_time": 1744679662,
       "rank": 0,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 710347,
-      "num": 229328,
-      "word": "景德镇一家三口被撞身亡案择期宣判",
-      "onboard_time": 1744701022,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 707847,
@@ -539,12 +539,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 317461,
+      "num": 199179,
+      "word": "原来艺人的收入是这样算的",
+      "onboard_time": 1744702041,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 317118,
       "num": 271361,
       "word": "小伙刮中100万忙送外卖让家人代领",
       "onboard_time": 1744694363,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 314565,
+      "num": 209819,
+      "word": "比伯裤子",
+      "onboard_time": 1744701381,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 311028,
@@ -675,6 +691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 250393,
+      "num": 264646,
+      "word": "特朗普政府冻结对哈佛大学拨款",
+      "onboard_time": 1744695621,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 246169,
       "num": 963989,
       "word": "人民币与美元欧元或形成并存新格局",
@@ -689,6 +713,22 @@
       "onboard_time": 1744691664,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 242922,
+      "num": 206486,
+      "word": "宋雨琦银发公主切",
+      "onboard_time": 1744701081,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 241510,
+      "num": 241510,
+      "word": "黄子韬卫生巾试用反馈",
+      "onboard_time": 1744701620,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 240363,
@@ -755,12 +795,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 223198,
+      "num": 223198,
+      "word": "王楚钦4比0萨琳",
+      "onboard_time": 1744701921,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 221159,
       "num": 221159,
       "word": "若风回应月入千万",
       "onboard_time": 1744700600,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 216115,
+      "num": 216115,
+      "word": "三河市委主要负责人被免职处理",
+      "onboard_time": 1744702041,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 216090,
@@ -811,27 +867,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 208874,
-      "num": 208874,
-      "word": "比伯裤子",
-      "onboard_time": 1744701381,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 208170,
       "num": 208170,
       "word": "天赐的声音6官宣首发阵容",
       "onboard_time": 1744688422,
       "rank": 34,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 206486,
-      "num": 206486,
-      "word": "宋雨琦银发公主切",
-      "onboard_time": 1744701081,
-      "rank": 27,
       "category": "综艺"
     },
     {
@@ -849,6 +889,14 @@
       "onboard_time": 1744694243,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204968,
+      "num": 233905,
+      "word": "古人春天都玩什么",
+      "onboard_time": 1744700120,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 204408,
@@ -915,6 +963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 199050,
+      "num": 199050,
+      "word": "一天中最易长胖的4个时间段",
+      "onboard_time": 1744700542,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 197476,
       "num": 197476,
       "word": "外卖员被CoCo店员砸奶茶",
@@ -945,14 +1001,6 @@
       "onboard_time": 1744691304,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 193736,
-      "num": 233905,
-      "word": "古人春天都玩什么",
-      "onboard_time": 1744700120,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 193381,
@@ -1001,14 +1049,6 @@
       "onboard_time": 1744687101,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 187901,
-      "num": 264646,
-      "word": "特朗普政府冻结对哈佛大学拨款",
-      "onboard_time": 1744695621,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 187044,
@@ -1187,6 +1227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 162970,
+      "num": 162970,
+      "word": "买300平送300平的复式顶楼",
+      "onboard_time": 1744697781,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 162587,
       "num": 378096,
       "word": "特朗普考虑汽车零部件关税豁免",
@@ -1195,20 +1243,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 161640,
-      "num": 161640,
-      "word": "买300平送300平的复式顶楼",
-      "onboard_time": 1744697781,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 160565,
       "num": 160565,
       "word": "天杀的烤箱对我孩子做了什么",
       "onboard_time": 1744694542,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 159932,
+      "num": 159932,
+      "word": "檀健次好宠粉",
+      "onboard_time": 1744701800,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 159153,
@@ -1291,14 +1339,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 151501,
-      "num": 151501,
-      "word": "一天中最易长胖的4个时间段",
-      "onboard_time": 1744700542,
-      "rank": 40,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 150498,
       "num": 173848,
       "word": "白夜行",
@@ -1331,6 +1371,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 145908,
+      "num": 145908,
+      "word": "你们自己没祖宗吗",
+      "onboard_time": 1744700901,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 145879,
       "num": 112277,
       "word": "Simon聊天记录完整版",
@@ -1355,14 +1403,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 142225,
-      "num": 142225,
-      "word": "你们自己没祖宗吗",
-      "onboard_time": 1744700901,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 140477,
       "num": 140477,
       "word": "鸿蒙智行发起全民出行安全倡议",
@@ -1385,6 +1425,14 @@
       "onboard_time": 1744697061,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 139013,
+      "num": 139013,
+      "word": "曝桥本环奈中川大志分手",
+      "onboard_time": 1744702641,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 138016,
@@ -1451,14 +1499,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 133370,
-      "num": 223825,
-      "word": "黄子韬卫生巾试用反馈",
-      "onboard_time": 1744701620,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 133005,
       "num": 133005,
       "word": "美债遭投资者大量抛售",
@@ -1483,20 +1523,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 128977,
-      "num": 128977,
-      "word": "檀健次好宠粉",
-      "onboard_time": 1744701800,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 127978,
       "num": 127978,
       "word": "现货黄金跌破3200美元",
       "onboard_time": 1744676664,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 127570,
+      "num": 127570,
+      "word": "金秀贤被节目打码",
+      "onboard_time": 1744702521,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 127490,
+      "num": 127490,
+      "word": "云南泼水节",
+      "onboard_time": 1744701620,
+      "rank": 48,
+      "category": "民生新闻,旅游"
     },
     {
       "raw_hot": 127185,
@@ -1521,6 +1569,14 @@
       "onboard_time": 1744683142,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126346,
+      "num": 126346,
+      "word": "COA8全球总决赛",
+      "onboard_time": 1744702401,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 126177,
@@ -1561,14 +1617,6 @@
       "onboard_time": 1744645341,
       "rank": 27,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 122803,
-      "num": 122803,
-      "word": "云南泼水节",
-      "onboard_time": 1744701620,
-      "rank": 48,
-      "category": "民生新闻,旅游"
     },
     {
       "raw_hot": 118743,
@@ -1867,6 +1915,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 73990,
+      "num": 208044,
+      "word": "被名字耽误的5所宝藏大学",
+      "onboard_time": 1744702221,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 73642,
       "num": 73642,
       "word": "王楚钦世界杯首战对阵萨琳",
@@ -1883,12 +1939,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 66772,
+      "raw_hot": 72216,
       "num": 224508,
       "word": "罗永浩力挺闪购",
       "onboard_time": 1744700901,
       "rank": 19,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 71957,
+      "num": 214182,
+      "word": "青海玉珠峰3名登山者遇难",
+      "onboard_time": 1744702041,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 66453,
@@ -1971,14 +2035,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 56513,
-      "num": 164039,
-      "word": "王楚钦4比0萨琳",
-      "onboard_time": 1744701921,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 55217,
       "num": 201602,
       "word": "请假的终点都是身体不舒服",
@@ -1993,6 +2049,14 @@
       "onboard_time": 1744694723,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 48730,
+      "num": 154078,
+      "word": "时间是管理不了的",
+      "onboard_time": 1744702461,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 47849,
@@ -2033,6 +2097,22 @@
       "onboard_time": 1744660394,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 43125,
+      "num": 181153,
+      "word": "张本智和4比0埃尔贝亚利",
+      "onboard_time": 1744702641,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 42570,
+      "num": 217193,
+      "word": "宠物做饭的视频多少人信了",
+      "onboard_time": 1744702100,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42358,
