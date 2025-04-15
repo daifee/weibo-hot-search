@@ -1,0 +1,410 @@
+{
+  "runTime": 1744689071347,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 761269,
+        "num": 1121803,
+        "word": "悬赏通缉3名美国特工",
+        "onboard_time": 1744679662,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1447588,
+        "num": 1023995,
+        "word": "三河市委主要负责人被免职",
+        "onboard_time": 1744684462,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 30980,
+        "num": 831866,
+        "word": "人民币与美元欧元或形成并存新格局",
+        "onboard_time": 1744688662,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1179752,
+        "num": 796977,
+        "word": "巴西取代美国成中国最大的大豆供应国",
+        "onboard_time": 1744684340,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 729699,
+        "num": 729699,
+        "word": "沈腾加入流浪地球3",
+        "onboard_time": 1744685482,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 647737,
+        "num": 647737,
+        "word": "电影永不失联的爱定档",
+        "onboard_time": 1744686621,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 637992,
+        "num": 637992,
+        "word": "廊坊通报三河广告牌匾禁用红蓝黑",
+        "onboard_time": 1744683321,
+        "rank": 6,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 633003,
+        "num": 633003,
+        "word": "iPhone17ProMax手机壳再曝光",
+        "onboard_time": 1744679362,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 444592,
+        "num": 444592,
+        "word": "黄金",
+        "onboard_time": 1744682001,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 117453,
+        "num": 443738,
+        "word": "第10个全民国家安全教育日",
+        "onboard_time": 1744688542,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1273455,
+        "num": 436066,
+        "word": "夫妇遇害前叫醒熟睡两女儿躲过一劫",
+        "onboard_time": 1744686381,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1223350,
+        "num": 424613,
+        "word": "景德镇车祸司机撞人前0.4秒才打方向",
+        "onboard_time": 1744686081,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59011,
+        "num": 420510,
+        "word": "为什么虞书欣是天选代言人",
+        "onboard_time": 1744688001,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 805538,
+        "num": 413901,
+        "word": "高中男教师被举报与女学生发生关系",
+        "onboard_time": 1744680981,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25259,
+        "num": 402503,
+        "word": "保洁员值得拥有一间体面的休息室",
+        "onboard_time": 1744688301,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 453573,
+        "num": 400469,
+        "word": "415 TFBOYS",
+        "onboard_time": 1744677204,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 395335,
+        "num": 395335,
+        "word": "叶一茜晒照为森碟庆生",
+        "onboard_time": 1744688121,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380501,
+        "num": 380501,
+        "word": "美国人吐槽所有东西都在涨价",
+        "onboard_time": 1744680082,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 340563,
+        "num": 340563,
+        "word": "郑恺携家带口录跑男",
+        "onboard_time": 1744679422,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300290,
+        "num": 300290,
+        "word": "crocs 白鹿",
+        "onboard_time": 1744685361,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1814732,
+        "num": 299946,
+        "word": "还以为殉情只是古老传言",
+        "onboard_time": 1744686801,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 309968,
+        "num": 296909,
+        "word": "上海799一位的自助餐厅卷款跑路",
+        "onboard_time": 1744680981,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 289656,
+        "num": 289656,
+        "word": "无忧渡折腰 难兄难弟",
+        "onboard_time": 1744687581,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38235,
+        "num": 283919,
+        "word": "成为飞猪代言人将拥有一架飞机",
+        "onboard_time": 1744688061,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280158,
+        "num": 280158,
+        "word": "金善旴长文道歉",
+        "onboard_time": 1744683862,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267326,
+        "num": 267326,
+        "word": "流浪地球3",
+        "onboard_time": 1744684942,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 261146,
+        "num": 261146,
+        "word": "某部委员工主动向间谍发送投靠邮件",
+        "onboard_time": 1744682841,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 240363,
+        "num": 240363,
+        "word": "原神5.5",
+        "onboard_time": 1744687941,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 218279,
+        "num": 232339,
+        "word": "张若昀为霍去病写的长文",
+        "onboard_time": 1744678462,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218438,
+        "num": 229387,
+        "word": "一家被撞身亡案被告只认交通肇事",
+        "onboard_time": 1744687462,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228146,
+        "num": 228146,
+        "word": "路过围观人群竟是儿子儿媳孙子被撞亡",
+        "onboard_time": 1744646001,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224687,
+        "num": 224687,
+        "word": "澳牛肉将填补美国牛肉出口",
+        "onboard_time": 1744686680,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 213039,
+        "num": 213039,
+        "word": "医生说猝死的年轻人通常有6个共性",
+        "onboard_time": 1744679422,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 211907,
+        "num": 211907,
+        "word": "一家三口被撞案家属抱儿孙遗照进法院",
+        "onboard_time": 1744687761,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198439,
+        "num": 198439,
+        "word": "天赐的声音6官宣首发阵容",
+        "onboard_time": 1744688422,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195282,
+        "num": 195282,
+        "word": "陈丽君中国非遗年度人物候选人",
+        "onboard_time": 1744679962,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179554,
+        "num": 179554,
+        "word": "易烊千玺代言珀莱雅",
+        "onboard_time": 1744688961,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179468,
+        "num": 179468,
+        "word": "看捉妖剧就是为了看这种场面啊",
+        "onboard_time": 1744686921,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161123,
+        "num": 161123,
+        "word": "虞书欣抹胸花朵裙",
+        "onboard_time": 1744686381,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 25725,
+        "num": 155056,
+        "word": "特朗普想驱逐美国囚犯",
+        "onboard_time": 1744688961,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 154482,
+        "num": 154482,
+        "word": "奔跑吧西安录制",
+        "onboard_time": 1744685182,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154274,
+        "num": 154274,
+        "word": "simon",
+        "onboard_time": 1744673059,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 151506,
+        "num": 151506,
+        "word": "灿如繁星开机",
+        "onboard_time": 1744686440,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65952,
+        "num": 145752,
+        "word": "林孝埈全力以赴2026",
+        "onboard_time": 1744685420,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143863,
+        "num": 143863,
+        "word": "Icon怒喷乐言",
+        "onboard_time": 1744686321,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 133795,
+        "num": 133795,
+        "word": "易烊千玺 大导缘",
+        "onboard_time": 1744677085,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129314,
+        "num": 129314,
+        "word": "王鹤棣素颜录音",
+        "onboard_time": 1744685900,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125513,
+        "num": 125513,
+        "word": "体脂率是身体最诚实的胖瘦指标",
+        "onboard_time": 1744685602,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 124109,
+        "num": 124109,
+        "word": "林孝埈安踏品牌代言人",
+        "onboard_time": 1744686081,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120242,
+        "num": 120242,
+        "word": "美团闪购疑似嘲讽京东",
+        "onboard_time": 1744686261,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同苏林会谈#"
+    }
+  }
+}
