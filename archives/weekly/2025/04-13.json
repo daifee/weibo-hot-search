@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744731695396,
+  "endTime": 1744734585432,
   "band_list": [
     {
       "raw_hot": 3491899,
@@ -97,6 +97,14 @@
       "onboard_time": 1744633942,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2004811,
+      "num": 389789,
+      "word": "毛子一家生活点滴",
+      "onboard_time": 1744718782,
+      "rank": 16,
+      "category": "网红"
     },
     {
       "raw_hot": 1999599,
@@ -569,14 +577,6 @@
       "onboard_time": 1744677204,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1087383,
-      "num": 389789,
-      "word": "毛子一家生活点滴",
-      "onboard_time": 1744718782,
-      "rank": 16,
-      "category": "网红"
     },
     {
       "raw_hot": 1085189,
@@ -1457,6 +1457,14 @@
       "onboard_time": 1744682721,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 620504,
+      "num": 237804,
+      "word": "心疼川川",
+      "onboard_time": 1744730303,
+      "rank": 34,
+      "category": "网红"
     },
     {
       "raw_hot": 619677,
@@ -2859,6 +2867,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 278698,
+      "num": 278698,
+      "word": "TheShy状态",
+      "onboard_time": 1744731381,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 278449,
       "num": 278449,
       "word": "NIP战胜iG",
@@ -3379,14 +3395,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 236842,
-      "num": 236842,
-      "word": "心疼川川",
-      "onboard_time": 1744730303,
-      "rank": 34,
-      "category": "网红"
-    },
-    {
       "raw_hot": 236557,
       "num": 236557,
       "word": "胡夏直播",
@@ -3723,6 +3731,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 216821,
+      "num": 216821,
+      "word": "Jennie科切拉",
+      "onboard_time": 1744730783,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 216090,
       "num": 216090,
       "word": "雷军回应小米手机第一",
@@ -3889,6 +3905,14 @@
       "onboard_time": 1744687761,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 211905,
+      "num": 238629,
+      "word": "中国稀土管制扼住美军工命脉",
+      "onboard_time": 1744733001,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 211704,
@@ -4377,6 +4401,14 @@
       "onboard_time": 1744710503,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 199107,
+      "num": 297307,
+      "word": "雅迪你别太宠王鹤棣了",
+      "onboard_time": 1744730542,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 199077,
@@ -5627,14 +5659,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 167420,
-      "num": 167420,
-      "word": "TheShy状态",
-      "onboard_time": 1744731381,
-      "rank": 35,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 166906,
       "num": 166906,
       "word": "九尾时隔227天重登赛场",
@@ -5739,6 +5763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163439,
+      "num": 163439,
+      "word": "越南姑娘拿捏中国网络热梗",
+      "onboard_time": 1744731982,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 163306,
       "num": 1313806,
       "word": "美国多次发动关税战并受到惨痛教训",
@@ -5753,14 +5785,6 @@
       "onboard_time": 1744640903,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 163098,
-      "num": 163098,
-      "word": "Jennie科切拉",
-      "onboard_time": 1744730783,
-      "rank": 45,
-      "category": "演出"
     },
     {
       "raw_hot": 162970,
@@ -5921,6 +5945,14 @@
       "onboard_time": 1744701800,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 159493,
+      "num": 159493,
+      "word": "Doinb太牛了",
+      "onboard_time": 1744731921,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 159153,
@@ -6267,6 +6299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151150,
+      "num": 151150,
+      "word": "丈夫怒怼网友有子宫就有资格做母亲",
+      "onboard_time": 1744732401,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150896,
       "num": 150896,
       "word": "任嘉伦专辑",
@@ -6513,6 +6553,14 @@
       "onboard_time": 1744614561,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144012,
+      "num": 144012,
+      "word": "谁在床上吃贡菜呢",
+      "onboard_time": 1744732221,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 143936,
@@ -8155,6 +8203,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 116645,
+      "num": 116645,
+      "word": "这5类电话打进来直接挂断",
+      "onboard_time": 1744732341,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116385,
       "num": 116385,
       "word": "东极岛 北影节",
@@ -8515,14 +8571,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 107140,
-      "num": 297307,
-      "word": "雅迪你别太宠王鹤棣了",
-      "onboard_time": 1744730542,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 107136,
       "num": 249917,
       "word": "公职人员挂证取酬正被严肃查处",
@@ -8755,6 +8803,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 101042,
+      "num": 101042,
+      "word": "家具厂女员工拒绝向普京透露工资",
+      "onboard_time": 1744732401,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 100574,
       "num": 100574,
       "word": "RD对战MRC",
@@ -8929,6 +8985,14 @@
       "onboard_time": 1744586059,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94778,
+      "num": 263702,
+      "word": "物业公司回应超市500多辆购物车丢失",
+      "onboard_time": 1744730842,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94460,
@@ -9283,6 +9347,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 79524,
+      "num": 286661,
+      "word": "脱口秀拆解美国贸易战死循环",
+      "onboard_time": 1744729284,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 79088,
       "num": 242899,
       "word": "林高远vs约内斯库",
@@ -9451,14 +9523,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 72778,
-      "num": 286661,
-      "word": "脱口秀拆解美国贸易战死循环",
-      "onboard_time": 1744729284,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 72674,
       "num": 72674,
       "word": "无忧渡最大优点 质感扎实",
@@ -9555,14 +9619,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 67986,
-      "num": 263702,
-      "word": "物业公司回应超市500多辆购物车丢失",
-      "onboard_time": 1744730842,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 67774,
       "num": 275626,
       "word": "阿尔卡拉斯首夺蒙特卡洛冠军",
@@ -9603,12 +9659,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66653,
+      "num": 66653,
+      "word": "为什么一些癌症逐渐盯上年轻人",
+      "onboard_time": 1744734500,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 65952,
       "num": 145752,
       "word": "林孝埈全力以赴2026",
       "onboard_time": 1744685420,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 65665,
+      "num": 65665,
+      "word": "田曦薇晒怼脸自拍",
+      "onboard_time": 1744734439,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 65630,

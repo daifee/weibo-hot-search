@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744731695396,
+  "endTime": 1744734585432,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -745,6 +745,14 @@
       "onboard_time": 1744633942,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2004811,
+      "num": 389789,
+      "word": "毛子一家生活点滴",
+      "onboard_time": 1744718782,
+      "rank": 16,
+      "category": "网红"
     },
     {
       "raw_hot": 1999599,
@@ -2993,14 +3001,6 @@
       "onboard_time": 1744385063,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1087383,
-      "num": 389789,
-      "word": "毛子一家生活点滴",
-      "onboard_time": 1744718782,
-      "rank": 16,
-      "category": "网红"
     },
     {
       "raw_hot": 1085189,
@@ -6433,6 +6433,14 @@
       "onboard_time": 1744371323,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 620504,
+      "num": 237804,
+      "word": "心疼川川",
+      "onboard_time": 1744730303,
+      "rank": 34,
+      "category": "网红"
     },
     {
       "raw_hot": 619677,
@@ -14875,6 +14883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 278698,
+      "num": 278698,
+      "word": "TheShy状态",
+      "onboard_time": 1744731381,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 278449,
       "num": 278449,
       "word": "NIP战胜iG",
@@ -17203,14 +17219,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 236842,
-      "num": 236842,
-      "word": "心疼川川",
-      "onboard_time": 1744730303,
-      "rank": 34,
-      "category": "网红"
-    },
-    {
       "raw_hot": 236768,
       "num": 278325,
       "word": "儿子拒付赡养费还将九旬母亲房门焊死",
@@ -19395,6 +19403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 211905,
+      "num": 238629,
+      "word": "中国稀土管制扼住美军工命脉",
+      "onboard_time": 1744733001,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 211857,
       "num": 211857,
       "word": "陈都灵 邪恶兔兔",
@@ -21313,6 +21329,14 @@
       "onboard_time": 1744710503,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 199107,
+      "num": 297307,
+      "word": "雅迪你别太宠王鹤棣了",
+      "onboard_time": 1744730542,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 199081,
@@ -26995,14 +27019,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 167420,
-      "num": 167420,
-      "word": "TheShy状态",
-      "onboard_time": 1744731381,
-      "rank": 35,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 167168,
       "num": 167168,
       "word": "吴敬平晒10岁樊振东反手技术",
@@ -27609,6 +27625,14 @@
       "onboard_time": 1743670341,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163439,
+      "num": 163439,
+      "word": "越南姑娘拿捏中国网络热梗",
+      "onboard_time": 1744731982,
+      "rank": 28,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 163336,
@@ -28329,6 +28353,14 @@
       "onboard_time": 1743702735,
       "rank": 45,
       "category": "国内时政,民生新闻"
+    },
+    {
+      "raw_hot": 159493,
+      "num": 159493,
+      "word": "Doinb太牛了",
+      "onboard_time": 1744731921,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 159483,
@@ -29883,6 +29915,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 151150,
+      "num": 151150,
+      "word": "丈夫怒怼网友有子宫就有资格做母亲",
+      "onboard_time": 1744732401,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 151149,
       "num": 151149,
       "word": "莫雷加德大赞王楚钦",
@@ -31313,6 +31353,14 @@
       "onboard_time": 1743472221,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 144012,
+      "num": 144012,
+      "word": "谁在床上吃贡菜呢",
+      "onboard_time": 1744732221,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 143917,
@@ -37155,6 +37203,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 116645,
+      "num": 116645,
+      "word": "这5类电话打进来直接挂断",
+      "onboard_time": 1744732341,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116600,
       "num": 116600,
       "word": "王艺迪vs陈幸同",
@@ -38675,14 +38731,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 107140,
-      "num": 297307,
-      "word": "雅迪你别太宠王鹤棣了",
-      "onboard_time": 1744730542,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 107136,
       "num": 249917,
       "word": "公职人员挂证取酬正被严肃查处",
@@ -39491,6 +39539,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 101042,
+      "num": 101042,
+      "word": "家具厂女员工拒绝向普京透露工资",
+      "onboard_time": 1744732401,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 101033,
       "num": 101033,
       "word": "峰哥取代徐静雨与美娜再续前缘",
@@ -40145,6 +40201,14 @@
       "onboard_time": 1743961817,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 94778,
+      "num": 263702,
+      "word": "物业公司回应超市500多辆购物车丢失",
+      "onboard_time": 1744730842,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94689,
@@ -41739,6 +41803,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 79524,
+      "num": 286661,
+      "word": "脱口秀拆解美国贸易战死循环",
+      "onboard_time": 1744729284,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 79215,
       "num": 79215,
       "word": "胡冰卿带我把所有的花都看了一遍",
@@ -42323,14 +42395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 72778,
-      "num": 286661,
-      "word": "脱口秀拆解美国贸易战死循环",
-      "onboard_time": 1744729284,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 72674,
       "num": 72674,
       "word": "无忧渡最大优点 质感扎实",
@@ -42843,14 +42907,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 67986,
-      "num": 263702,
-      "word": "物业公司回应超市500多辆购物车丢失",
-      "onboard_time": 1744730842,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 67927,
       "num": 67927,
       "word": "nctwish香港演唱会",
@@ -42987,6 +43043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66653,
+      "num": 66653,
+      "word": "为什么一些癌症逐渐盯上年轻人",
+      "onboard_time": 1744734500,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 66638,
       "num": 912984,
       "word": "清明念英烈",
@@ -43097,6 +43161,14 @@
       "onboard_time": 1744018823,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 65665,
+      "num": 65665,
+      "word": "田曦薇晒怼脸自拍",
+      "onboard_time": 1744734439,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 65649,
