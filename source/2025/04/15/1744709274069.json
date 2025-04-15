@@ -1,0 +1,410 @@
+{
+  "runTime": 1744709274069,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 248743,
+        "num": 1039798,
+        "word": "悬赏通缉3名美国特工",
+        "onboard_time": 1744679662,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 778106,
+        "num": 778106,
+        "word": "日本不准备向美国做重大让步",
+        "onboard_time": 1744706842,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 50062,
+        "num": 763756,
+        "word": "中马两国经贸合作有多火热",
+        "onboard_time": 1744708281,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 763503,
+        "num": 763503,
+        "word": "三河市公安局警徽改色再引质疑",
+        "onboard_time": 1744707981,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 740042,
+        "num": 740042,
+        "word": "外交部回应谷歌地图将南海改名",
+        "onboard_time": 1744706901,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 557046,
+        "num": 557046,
+        "word": "一天中最易长胖的4个时间段",
+        "onboard_time": 1744700542,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 513641,
+        "num": 513641,
+        "word": "宋祖儿造型",
+        "onboard_time": 1744704862,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 266469,
+        "num": 266469,
+        "word": "张婧仪活动生图",
+        "onboard_time": 1744705401,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 233106,
+        "num": 233106,
+        "word": "特朗普政府冻结对哈佛大学拨款",
+        "onboard_time": 1744695621,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 4913,
+        "num": 233104,
+        "word": "亚太峰会",
+        "onboard_time": 1744638564,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1479437,
+        "num": 232717,
+        "word": "律师说撞死1家3口司机辩称没看清",
+        "onboard_time": 1744704562,
+        "rank": 10,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1293150,
+        "num": 232364,
+        "word": "赵露思红发",
+        "onboard_time": 1744706603,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1220954,
+        "num": 232304,
+        "word": "原来艺人的收入是这样算的",
+        "onboard_time": 1744702041,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 970148,
+        "num": 232061,
+        "word": "心疼李昊",
+        "onboard_time": 1744708403,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231802,
+        "num": 231802,
+        "word": "交警回应斑马线上装U型护栏",
+        "onboard_time": 1744707021,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 835622,
+        "num": 231737,
+        "word": "唐艺昕低调炫夫",
+        "onboard_time": 1744706603,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 432926,
+        "num": 231571,
+        "word": "葛夕称抑郁症复发加大药量",
+        "onboard_time": 1744698861,
+        "rank": 16,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 105569,
+        "num": 231243,
+        "word": "比亚迪海外口碑崛起",
+        "onboard_time": 1744708341,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 141701,
+        "num": 231112,
+        "word": "SU7坠崖车主一家再提SU7",
+        "onboard_time": 1744708341,
+        "rank": 18,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 188035,
+        "num": 230997,
+        "word": "王楚钦说英语回应对手",
+        "onboard_time": 1744708462,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 325901,
+        "num": 230650,
+        "word": "夫妇遇害前叫醒熟睡两女儿躲过一劫",
+        "onboard_time": 1744686381,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 308582,
+        "num": 230554,
+        "word": "GAI都瘦脱相了",
+        "onboard_time": 1744703420,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 230403,
+        "num": 230403,
+        "word": "韩安冉发文力挺董明珠",
+        "onboard_time": 1744708222,
+        "rank": 22,
+        "category": "网红,互联网"
+      },
+      {
+        "raw_hot": 225290,
+        "num": 225290,
+        "word": "杜华回应王怡人6年零工资",
+        "onboard_time": 1744696582,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210291,
+        "num": 210291,
+        "word": "国家安全部推出金猴降妖特别篇",
+        "onboard_time": 1744695862,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190641,
+        "num": 190641,
+        "word": "三河",
+        "onboard_time": 1744708341,
+        "rank": 25,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 190339,
+        "num": 190339,
+        "word": "建议睡前30到60分钟数字戒断",
+        "onboard_time": 1744692144,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 186110,
+        "num": 186110,
+        "word": "美大豆协会主席恳求特朗普结束关税战",
+        "onboard_time": 1744706662,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 181274,
+        "num": 181274,
+        "word": "王俊凯成都",
+        "onboard_time": 1744708821,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158411,
+        "num": 178698,
+        "word": "灿如繁星",
+        "onboard_time": 1744708281,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178589,
+        "num": 178589,
+        "word": "被认定校园欺凌者不得进入省级普高",
+        "onboard_time": 1744705162,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175804,
+        "num": 175804,
+        "word": "金秀贤方控告网友",
+        "onboard_time": 1744707202,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173445,
+        "num": 173445,
+        "word": "比伯裤子",
+        "onboard_time": 1744701381,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170017,
+        "num": 170017,
+        "word": "父亲当着小女孩的面卖掉了小狗",
+        "onboard_time": 1744706901,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163344,
+        "num": 163344,
+        "word": "南海一直是国际社会公认的通用地名",
+        "onboard_time": 1744708522,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 161842,
+        "num": 161842,
+        "word": "SU7坠崖车主发文感谢雷军",
+        "onboard_time": 1744693523,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 160768,
+        "num": 160768,
+        "word": "跟着悟空守护国家安全",
+        "onboard_time": 1744708341,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 76945,
+        "num": 140869,
+        "word": "曹巍说不为难王楚钦",
+        "onboard_time": 1744709181,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140713,
+        "num": 140713,
+        "word": "官方回应三河市委主要负责人是谁",
+        "onboard_time": 1744709243,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101904,
+        "num": 134283,
+        "word": "在半熟4里嗑到再见爱人了",
+        "onboard_time": 1744707082,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133926,
+        "num": 133926,
+        "word": "小伙刮中100万忙送外卖让家人代领",
+        "onboard_time": 1744694363,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130871,
+        "num": 130871,
+        "word": "一家人淤泥中摸回爷爷的33克金戒指",
+        "onboard_time": 1744709002,
+        "rank": 41,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 129569,
+        "num": 129569,
+        "word": "这设计师是真上过大学",
+        "onboard_time": 1744708762,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126319,
+        "num": 126319,
+        "word": "宋雨琦银发公主切",
+        "onboard_time": 1744701081,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121218,
+        "num": 121218,
+        "word": "刘强东要求京东外卖利润率不超5%",
+        "onboard_time": 1744709243,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 98715,
+        "num": 118131,
+        "word": "折腰光造型就美成这样",
+        "onboard_time": 1744709061,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115054,
+        "num": 115054,
+        "word": "景德镇车祸案被告方希望轻判",
+        "onboard_time": 1744709181,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114370,
+        "num": 114370,
+        "word": "巴西取代美国成中国最大的大豆供应国",
+        "onboard_time": 1744684340,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 94399,
+        "num": 113836,
+        "word": "张栋梁说在中国从不感觉自己是外人",
+        "onboard_time": 1744689863,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93929,
+        "num": 113416,
+        "word": "半熟4女嘉宾",
+        "onboard_time": 1744704321,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席今年首访第一天#"
+    }
+  }
+}
