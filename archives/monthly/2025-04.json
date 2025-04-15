@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744734585432,
+  "endTime": 1744735560930,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -595,6 +595,14 @@
       "category": "电影,剧集"
     },
     {
+      "raw_hot": 2218614,
+      "num": 389789,
+      "word": "毛子一家生活点滴",
+      "onboard_time": 1744718782,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 2201552,
       "num": 285216,
       "word": "曝孟子坤出轨",
@@ -745,14 +753,6 @@
       "onboard_time": 1744633942,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2004811,
-      "num": 389789,
-      "word": "毛子一家生活点滴",
-      "onboard_time": 1744718782,
-      "rank": 16,
-      "category": "网红"
     },
     {
       "raw_hot": 1999599,
@@ -6259,6 +6259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 639402,
+      "num": 237804,
+      "word": "心疼川川",
+      "onboard_time": 1744730303,
+      "rank": 34,
+      "category": "网红"
+    },
+    {
       "raw_hot": 638857,
       "num": 507021,
       "word": "景德镇车祸肇事方已转让店面",
@@ -6433,14 +6441,6 @@
       "onboard_time": 1744371323,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 620504,
-      "num": 237804,
-      "word": "心疼川川",
-      "onboard_time": 1744730303,
-      "rank": 34,
-      "category": "网红"
     },
     {
       "raw_hot": 619677,
@@ -10521,6 +10521,14 @@
       "onboard_time": 1744202846,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 398298,
+      "num": 398298,
+      "word": "中国稀土管制扼住美军工命脉",
+      "onboard_time": 1744733001,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 397982,
@@ -17355,6 +17363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 234888,
+      "num": 234888,
+      "word": "Jennie科切拉",
+      "onboard_time": 1743872718,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 234788,
       "num": 243597,
       "word": "肖战谍报上不封顶上海置景",
@@ -18851,14 +18867,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 216918,
-      "num": 216918,
-      "word": "Jennie科切拉",
-      "onboard_time": 1743872718,
-      "rank": 28,
-      "category": "演出"
-    },
-    {
       "raw_hot": 216841,
       "num": 216841,
       "word": "浪姐第一季yyds",
@@ -19401,14 +19409,6 @@
       "onboard_time": 1744687761,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 211905,
-      "num": 238629,
-      "word": "中国稀土管制扼住美军工命脉",
-      "onboard_time": 1744733001,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 211857,
@@ -41547,6 +41547,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 81743,
+      "num": 85003,
+      "word": "田曦薇晒怼脸自拍",
+      "onboard_time": 1744734439,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 81684,
       "num": 343997,
       "word": "美特使提议像战后柏林一样瓜分乌克兰",
@@ -42097,6 +42105,14 @@
       "onboard_time": 1744258102,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 75508,
+      "num": 126885,
+      "word": "美国被曝要去深海非法挖稀土",
+      "onboard_time": 1744735158,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 75502,
@@ -43163,14 +43179,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 65665,
-      "num": 65665,
-      "word": "田曦薇晒怼脸自拍",
-      "onboard_time": 1744734439,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 65649,
       "num": 244168,
       "word": "东契奇回应被驱逐",
@@ -43369,6 +43377,14 @@
       "onboard_time": 1744472304,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 64248,
+      "num": 84969,
+      "word": "敖瑞鹏送上两条视频",
+      "onboard_time": 1744735158,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 64234,
@@ -44059,6 +44075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 56918,
+      "num": 112207,
+      "word": "中方谴责美国政府的恶意网络行为",
+      "onboard_time": 1744734619,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 56893,
       "num": 104588,
       "word": "台湾当归也必归",
@@ -44193,6 +44217,14 @@
       "onboard_time": 1743600082,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55381,
+      "num": 84959,
+      "word": "遇到这3种人请好好珍惜",
+      "onboard_time": 1744732700,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 55314,

@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744734585432,
+  "endTime": 1744735560930,
   "band_list": [
     {
       "raw_hot": 3491899,
@@ -75,6 +75,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 2218614,
+      "num": 389789,
+      "word": "毛子一家生活点滴",
+      "onboard_time": 1744718782,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 2157441,
       "num": 856574,
       "word": "张予曦声明",
@@ -97,14 +105,6 @@
       "onboard_time": 1744633942,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2004811,
-      "num": 389789,
-      "word": "毛子一家生活点滴",
-      "onboard_time": 1744718782,
-      "rank": 16,
-      "category": "网红"
     },
     {
       "raw_hot": 1999599,
@@ -1395,6 +1395,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 639402,
+      "num": 237804,
+      "word": "心疼川川",
+      "onboard_time": 1744730303,
+      "rank": 34,
+      "category": "网红"
+    },
+    {
       "raw_hot": 638857,
       "num": 507021,
       "word": "景德镇车祸肇事方已转让店面",
@@ -1457,14 +1465,6 @@
       "onboard_time": 1744682721,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 620504,
-      "num": 237804,
-      "word": "心疼川川",
-      "onboard_time": 1744730303,
-      "rank": 34,
-      "category": "网红"
     },
     {
       "raw_hot": 619677,
@@ -2185,6 +2185,14 @@
       "onboard_time": 1744590622,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 398298,
+      "num": 398298,
+      "word": "中国稀土管制扼住美军工命脉",
+      "onboard_time": 1744733001,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 397937,
@@ -3411,6 +3419,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 234888,
+      "num": 234888,
+      "word": "Jennie科切拉",
+      "onboard_time": 1744730783,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 234400,
       "num": 234400,
       "word": "卤鹅哥成立食品科技公司",
@@ -3731,14 +3747,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 216821,
-      "num": 216821,
-      "word": "Jennie科切拉",
-      "onboard_time": 1744730783,
-      "rank": 45,
-      "category": "演出"
-    },
-    {
       "raw_hot": 216090,
       "num": 216090,
       "word": "雷军回应小米手机第一",
@@ -3905,14 +3913,6 @@
       "onboard_time": 1744687761,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 211905,
-      "num": 238629,
-      "word": "中国稀土管制扼住美军工命脉",
-      "onboard_time": 1744733001,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 211704,
@@ -9307,6 +9307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 81743,
+      "num": 85003,
+      "word": "田曦薇晒怼脸自拍",
+      "onboard_time": 1744734439,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 81636,
       "num": 81636,
       "word": "超市回应将馒头扔地上给大爷大妈抢",
@@ -9441,6 +9449,14 @@
       "onboard_time": 1744727842,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 75508,
+      "num": 126885,
+      "word": "美国被曝要去深海非法挖稀土",
+      "onboard_time": 1744735158,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 74995,
@@ -9675,14 +9691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 65665,
-      "num": 65665,
-      "word": "田曦薇晒怼脸自拍",
-      "onboard_time": 1744734439,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 65630,
       "num": 225217,
       "word": "康辉采访遇上一群越南少先队员",
@@ -9713,6 +9721,14 @@
       "onboard_time": 1744472304,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 64248,
+      "num": 84969,
+      "word": "敖瑞鹏送上两条视频",
+      "onboard_time": 1744735158,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 63240,
@@ -9843,12 +9859,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 56918,
+      "num": 112207,
+      "word": "中方谴责美国政府的恶意网络行为",
+      "onboard_time": 1744734619,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 56765,
       "num": 381709,
       "word": "美对等关税这剂药反噬自身",
       "onboard_time": 1744604783,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 55381,
+      "num": 84959,
+      "word": "遇到这3种人请好好珍惜",
+      "onboard_time": 1744732700,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 55217,

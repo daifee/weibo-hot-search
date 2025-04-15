@@ -1,9 +1,9 @@
 {
   "startTime": 1744734585432,
-  "endTime": 1744734585432,
+  "endTime": 1744735560930,
   "band_list": [
     {
-      "raw_hot": 2004811,
+      "raw_hot": 2218614,
       "num": 238393,
       "word": "毛子一家生活点滴",
       "onboard_time": 1744718782,
@@ -11,7 +11,7 @@
       "category": "网红"
     },
     {
-      "raw_hot": 620504,
+      "raw_hot": 639402,
       "num": 237804,
       "word": "心疼川川",
       "onboard_time": 1744730303,
@@ -59,6 +59,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 398298,
+      "num": 398298,
+      "word": "中国稀土管制扼住美军工命脉",
+      "onboard_time": 1744733001,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 360160,
       "num": 360160,
       "word": "中越发表联合声明",
@@ -81,6 +89,14 @@
       "onboard_time": 1744727363,
       "rank": 15,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 289518,
+      "num": 219247,
+      "word": "毛子 总有另一面",
+      "onboard_time": 1744722562,
+      "rank": 21,
+      "category": "网红"
     },
     {
       "raw_hot": 280130,
@@ -115,36 +131,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 234544,
-      "num": 234544,
-      "word": "演员童正维去世",
-      "onboard_time": 1744726464,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 219247,
-      "num": 219247,
-      "word": "毛子 总有另一面",
-      "onboard_time": 1744722562,
-      "rank": 21,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 216821,
-      "num": 216821,
+      "raw_hot": 234888,
+      "num": 234888,
       "word": "Jennie科切拉",
       "onboard_time": 1744730783,
       "rank": 22,
       "category": "演出"
     },
     {
-      "raw_hot": 211905,
-      "num": 238629,
-      "word": "中国稀土管制扼住美军工命脉",
-      "onboard_time": 1744733001,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 234544,
+      "num": 234544,
+      "word": "演员童正维去世",
+      "onboard_time": 1744726464,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 201567,
@@ -299,8 +299,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 81743,
+      "num": 85003,
+      "word": "田曦薇晒怼脸自拍",
+      "onboard_time": 1744734439,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 79987,
-      "num": 79987,
+      "num": 84975,
       "word": "大熊猫芦芦去世",
       "onboard_time": 1744712843,
       "rank": 42,
@@ -308,7 +316,7 @@
     },
     {
       "raw_hot": 79842,
-      "num": 79842,
+      "num": 84957,
       "word": "被虐待致死男童母亲希望判凶手死刑",
       "onboard_time": 1744729643,
       "rank": 43,
@@ -316,7 +324,7 @@
     },
     {
       "raw_hot": 79524,
-      "num": 79524,
+      "num": 84965,
       "word": "脱口秀拆解美国贸易战死循环",
       "onboard_time": 1744729284,
       "rank": 44,
@@ -324,7 +332,7 @@
     },
     {
       "raw_hot": 78339,
-      "num": 78339,
+      "num": 84994,
       "word": "杜华让艺人别蹭乐华热度",
       "onboard_time": 1744722741,
       "rank": 45,
@@ -332,11 +340,19 @@
     },
     {
       "raw_hot": 75919,
-      "num": 75919,
+      "num": 84981,
       "word": "女生工作4年考研上北大母亲心疼落泪",
       "onboard_time": 1744721963,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75508,
+      "num": 126885,
+      "word": "美国被曝要去深海非法挖稀土",
+      "onboard_time": 1744735158,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 70070,
@@ -363,12 +379,28 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 65665,
-      "num": 65665,
-      "word": "田曦薇晒怼脸自拍",
-      "onboard_time": 1744734439,
-      "rank": 49,
+      "raw_hot": 64248,
+      "num": 84969,
+      "word": "敖瑞鹏送上两条视频",
+      "onboard_time": 1744735158,
+      "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 56918,
+      "num": 112207,
+      "word": "中方谴责美国政府的恶意网络行为",
+      "onboard_time": 1744734619,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 55381,
+      "num": 84959,
+      "word": "遇到这3种人请好好珍惜",
+      "onboard_time": 1744732700,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 53218,
@@ -406,6 +438,9 @@
   "hotgov_list": [
     {
       "word": "#习近平对马来西亚进行国事访问#"
+    },
+    {
+      "word": "#马方热烈欢迎习主席到访#"
     }
   ]
 }
