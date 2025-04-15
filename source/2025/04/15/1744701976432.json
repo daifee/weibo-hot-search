@@ -1,0 +1,410 @@
+{
+  "runTime": 1744701976432,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 373039,
+        "num": 1059686,
+        "word": "悬赏通缉3名美国特工",
+        "onboard_time": 1744679662,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 625218,
+        "num": 625218,
+        "word": "王楚钦vs萨琳",
+        "onboard_time": 1744698742,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157628,
+        "num": 438488,
+        "word": "人民币与美元欧元或形成并存新格局",
+        "onboard_time": 1744688662,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 325142,
+        "num": 325142,
+        "word": "国家安全部推出金猴降妖特别篇",
+        "onboard_time": 1744695862,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 318154,
+        "num": 318154,
+        "word": "国产剧第一对忙着还债的男女主",
+        "onboard_time": 1744697603,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 311028,
+        "num": 311028,
+        "word": "美国屡次打击香港只会反噬其身",
+        "onboard_time": 1744697424,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 243370,
+        "num": 243370,
+        "word": "巴西取代美国成中国最大的大豆供应国",
+        "onboard_time": 1744684340,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 233997,
+        "num": 233997,
+        "word": "张栋梁说在中国从不感觉自己是外人",
+        "onboard_time": 1744689863,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193736,
+        "num": 233905,
+        "word": "古人春天都玩什么",
+        "onboard_time": 1744700120,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187901,
+        "num": 232818,
+        "word": "特朗普政府冻结对哈佛大学拨款",
+        "onboard_time": 1744695621,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 2781311,
+        "num": 231656,
+        "word": "司机泄愤撞死一家三口还谈笑风生",
+        "onboard_time": 1744693284,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1250294,
+        "num": 231009,
+        "word": "景德镇车祸",
+        "onboard_time": 1744691723,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 938628,
+        "num": 230042,
+        "word": "葛夕称抑郁症复发加大药量",
+        "onboard_time": 1744698861,
+        "rank": 12,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 710347,
+        "num": 229328,
+        "word": "景德镇一家三口被撞身亡案择期宣判",
+        "onboard_time": 1744701022,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 706771,
+        "num": 229166,
+        "word": "杜华回应王怡人6年零工资",
+        "onboard_time": 1744696582,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 542348,
+        "num": 228156,
+        "word": "马思唯和女友海边泳装照",
+        "onboard_time": 1744697061,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 433642,
+        "num": 227403,
+        "word": "夫妇遇害前叫醒熟睡两女儿躲过一劫",
+        "onboard_time": 1744686381,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 292434,
+        "num": 226388,
+        "word": "谢娜二公被冷到大喊导演名字",
+        "onboard_time": 1744693942,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285579,
+        "num": 225897,
+        "word": "黄杨钿甜北电第六",
+        "onboard_time": 1744689263,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66772,
+        "num": 224508,
+        "word": "罗永浩力挺闪购",
+        "onboard_time": 1744700901,
+        "rank": 19,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 133370,
+        "num": 223825,
+        "word": "黄子韬卫生巾试用反馈",
+        "onboard_time": 1744701620,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 507702,
+        "num": 223305,
+        "word": "SU7坠崖车主发文感谢雷军",
+        "onboard_time": 1744693523,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 366983,
+        "num": 222418,
+        "word": "还以为殉情只是古老传言",
+        "onboard_time": 1744686801,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 247553,
+        "num": 221572,
+        "word": "建议睡前30到60分钟数字戒断",
+        "onboard_time": 1744692144,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 221159,
+        "num": 221159,
+        "word": "若风回应月入千万",
+        "onboard_time": 1744700600,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 209765,
+        "num": 209765,
+        "word": "小伙刮中100万忙送外卖让家人代领",
+        "onboard_time": 1744694363,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208874,
+        "num": 208874,
+        "word": "比伯裤子",
+        "onboard_time": 1744701381,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206486,
+        "num": 206486,
+        "word": "宋雨琦银发公主切",
+        "onboard_time": 1744701081,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204408,
+        "num": 204408,
+        "word": "王楚钦12比10萨琳",
+        "onboard_time": 1744701381,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134455,
+        "num": 199244,
+        "word": "国色芳华2预告",
+        "onboard_time": 1744695862,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196120,
+        "num": 196120,
+        "word": "孙燕姿说林俊杰是小甜心",
+        "onboard_time": 1744701201,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 194394,
+        "num": 194394,
+        "word": "景德镇车祸司机撞人前0.4秒才打方向",
+        "onboard_time": 1744686081,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164660,
+        "num": 164660,
+        "word": "外卖员被CoCo店员砸奶茶",
+        "onboard_time": 1744696883,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212405,
+        "num": 164552,
+        "word": "豪士直播",
+        "onboard_time": 1744700000,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56513,
+        "num": 164039,
+        "word": "王楚钦4比0萨琳",
+        "onboard_time": 1744701921,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163986,
+        "num": 163986,
+        "word": "南京医科大学一宿舍楼突发火灾",
+        "onboard_time": 1744701681,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161640,
+        "num": 161640,
+        "word": "买300平送300平的复式顶楼",
+        "onboard_time": 1744697781,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157437,
+        "num": 157437,
+        "word": "睡前玩手机1小时失眠概率增59%",
+        "onboard_time": 1744701320,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 110580,
+        "num": 154328,
+        "word": "沈腾加入流浪地球3",
+        "onboard_time": 1744685482,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 17980,
+        "num": 152171,
+        "word": "一百度到两千度近视的世界",
+        "onboard_time": 1744701320,
+        "rank": 39,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 151501,
+        "num": 151501,
+        "word": "一天中最易长胖的4个时间段",
+        "onboard_time": 1744700542,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 137654,
+        "num": 143878,
+        "word": "SU7坠崖车主又提SU7",
+        "onboard_time": 1744700841,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 117522,
+        "num": 142732,
+        "word": "关税风暴正在反噬美国自身",
+        "onboard_time": 1744699342,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 142225,
+        "num": 142225,
+        "word": "你们自己没祖宗吗",
+        "onboard_time": 1744700901,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137666,
+        "num": 137666,
+        "word": "公司天花板来了一只小猫",
+        "onboard_time": 1744700841,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131427,
+        "num": 131427,
+        "word": "张康乐与北电第六",
+        "onboard_time": 1744697662,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128977,
+        "num": 128977,
+        "word": "檀健次好宠粉",
+        "onboard_time": 1744701800,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124921,
+        "num": 124921,
+        "word": "祖上3代中国人生出金发碧眼小美女",
+        "onboard_time": 1744692682,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122803,
+        "num": 122803,
+        "word": "云南泼水节",
+        "onboard_time": 1744701620,
+        "rank": 48,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 121704,
+        "num": 121704,
+        "word": "TikTok上刮起中国工厂旋风",
+        "onboard_time": 1744698622,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#6点举措深化中越命运共同体建设#"
+    }
+  }
+}
