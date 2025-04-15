@@ -1,6 +1,6 @@
 {
   "startTime": 1744734585432,
-  "endTime": 1744752210435,
+  "endTime": 1744753075044,
   "band_list": [
     {
       "raw_hot": 2218614,
@@ -515,8 +515,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 28573,
-      "num": 28573,
+      "raw_hot": 29566,
+      "num": 29566,
       "word": "全网都在问肖战来武汉干啥",
       "onboard_time": 1744739596,
       "rank": 37,
@@ -555,7 +555,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 21082,
+      "raw_hot": 21456,
       "num": 23280,
       "word": "苏炳添结婚近9年儿女双全",
       "onboard_time": 1744718481,
@@ -587,8 +587,8 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 17184,
-      "num": 17184,
+      "raw_hot": 17473,
+      "num": 17473,
       "word": "美国或有更多人失去工作",
       "onboard_time": 1744746915,
       "rank": 46,
@@ -596,7 +596,7 @@
     },
     {
       "raw_hot": 15864,
-      "num": 21413,
+      "num": 26221,
       "word": "天赐的声音",
       "onboard_time": 1744738517,
       "rank": 47,
@@ -625,6 +625,14 @@
       "onboard_time": 1744742474,
       "rank": 19,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 10740,
+      "num": 17395,
+      "word": "朱志鑫part",
+      "onboard_time": 1744742895,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 10580,

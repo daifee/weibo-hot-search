@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744752210435,
+  "endTime": 1744753075044,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -47219,6 +47219,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 29566,
+      "num": 29566,
+      "word": "全网都在问肖战来武汉干啥",
+      "onboard_time": 1744739596,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 29537,
       "num": 268061,
       "word": "入室抢婴案嫌犯曾因强奸盗窃入狱",
@@ -47345,14 +47353,6 @@
       "onboard_time": 1743608483,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28573,
-      "num": 28573,
-      "word": "全网都在问肖战来武汉干啥",
-      "onboard_time": 1744739596,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 28472,
@@ -49051,6 +49051,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 17473,
+      "num": 17473,
+      "word": "美国或有更多人失去工作",
+      "onboard_time": 1744746915,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 17229,
       "num": 184156,
       "word": "俄美就俄乌和平方案进行对话",
@@ -49073,14 +49081,6 @@
       "onboard_time": 1743886754,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 17184,
-      "num": 17184,
-      "word": "美国或有更多人失去工作",
-      "onboard_time": 1744746915,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 17172,
@@ -49961,6 +49961,14 @@
       "onboard_time": 1743796694,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10740,
+      "num": 17395,
+      "word": "朱志鑫part",
+      "onboard_time": 1744742895,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 10677,
