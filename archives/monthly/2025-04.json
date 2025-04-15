@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744682089544,
+  "endTime": 1744683426561,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -1401,6 +1401,14 @@
       "onboard_time": 1743758723,
       "rank": 45,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1544552,
+      "num": 316280,
+      "word": "高中男教师被举报与女学生发生关系",
+      "onboard_time": 1744680981,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1532925,
@@ -3643,6 +3651,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 919087,
+      "num": 919087,
+      "word": "iPhone17ProMax手机壳再曝光",
+      "onboard_time": 1744679362,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
       "raw_hot": 916538,
       "num": 916538,
       "word": "廊坊一蜜雪冰城招牌变绿色",
@@ -4507,14 +4523,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 797529,
-      "num": 316280,
-      "word": "高中男教师被举报与女学生发生关系",
-      "onboard_time": 1744680981,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 796927,
       "num": 472483,
       "word": "黄晓明晒增肥减肥对比照",
@@ -4553,6 +4561,14 @@
       "onboard_time": 1744445663,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 791153,
+      "num": 791153,
+      "word": "郑恺携家带口录跑男",
+      "onboard_time": 1744679422,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 790334,
@@ -4604,7 +4620,7 @@
     },
     {
       "raw_hot": 785256,
-      "num": 508734,
+      "num": 651537,
       "word": "张若昀为霍去病写的长文",
       "onboard_time": 1744678462,
       "rank": 3,
@@ -4833,14 +4849,6 @@
       "onboard_time": 1744297703,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 753451,
-      "num": 502174,
-      "word": "郑恺携家带口录跑男",
-      "onboard_time": 1744679422,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 752525,
@@ -5977,14 +5985,6 @@
       "onboard_time": 1743987741,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 624876,
-      "num": 624876,
-      "word": "iPhone17ProMax手机壳再曝光",
-      "onboard_time": 1744679362,
-      "rank": 1,
-      "category": "数码"
     },
     {
       "raw_hot": 624310,
@@ -8025,6 +8025,14 @@
       "onboard_time": 1743909620,
       "rank": 38,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 484971,
+      "num": 484971,
+      "word": "美国人吐槽所有东西都在涨价",
+      "onboard_time": 1744680082,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 484912,
@@ -14651,6 +14659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 267550,
+      "num": 267550,
+      "word": "流浪地球3开机",
+      "onboard_time": 1744682721,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 267494,
       "num": 267494,
       "word": "杨幂站姐拍的迪丽热巴",
@@ -15297,14 +15313,6 @@
       "onboard_time": 1743489384,
       "rank": 9,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 255435,
-      "num": 255435,
-      "word": "美国人吐槽所有东西都在涨价",
-      "onboard_time": 1744680082,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 255306,
@@ -19633,6 +19641,14 @@
       "onboard_time": 1744637243,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 203579,
+      "num": 203579,
+      "word": "原来春天容易困是体质原因",
+      "onboard_time": 1744683201,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 203574,
@@ -27235,6 +27251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156663,
+      "num": 156663,
+      "word": "iPhone17ProMax机模",
+      "onboard_time": 1744682361,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 156585,
       "num": 156585,
       "word": "美股三大股指转涨",
@@ -27361,6 +27385,14 @@
       "onboard_time": 1743674962,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155939,
+      "num": 155939,
+      "word": "美商务部长称芯片必须在美制造",
+      "onboard_time": 1744682481,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 155919,
@@ -27673,6 +27705,14 @@
       "onboard_time": 1744635444,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154024,
+      "num": 154024,
+      "word": "澳大利亚对中国的牛肉出口大幅增加",
+      "onboard_time": 1744682061,
+      "rank": 48,
+      "category": "财经,国际时政"
     },
     {
       "raw_hot": 154000,
@@ -30699,6 +30739,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 138016,
+      "num": 225442,
+      "word": "孙颖莎王楚钦领衔出战",
+      "onboard_time": 1744682481,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138003,
       "num": 138003,
       "word": "赵丽颖拔刀戏幕后",
@@ -31403,6 +31451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134442,
+      "num": 134442,
+      "word": "Jennie妆造",
+      "onboard_time": 1744680920,
+      "rank": 42,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 134416,
       "num": 134416,
       "word": "LadyGaga科切拉",
@@ -31681,14 +31737,6 @@
       "onboard_time": 1744369104,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 133214,
-      "num": 133214,
-      "word": "Jennie妆造",
-      "onboard_time": 1744680920,
-      "rank": 42,
-      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 133200,
@@ -32859,6 +32907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127185,
+      "num": 127185,
+      "word": "郑钦文长裙出海照",
+      "onboard_time": 1744682241,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127181,
       "num": 127181,
       "word": "手把手教你办理宠物托运",
@@ -32913,6 +32969,14 @@
       "onboard_time": 1744103000,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 126966,
+      "num": 126966,
+      "word": "金冬天表情管理",
+      "onboard_time": 1744683142,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 126960,
@@ -34627,14 +34691,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 117997,
-      "num": 117997,
-      "word": "澳大利亚对中国的牛肉出口大幅增加",
-      "onboard_time": 1744682061,
-      "rank": 48,
-      "category": "财经,国际时政"
-    },
-    {
       "raw_hot": 117969,
       "num": 117969,
       "word": "甲亢哥一眼认出大张伟头像",
@@ -34961,6 +35017,14 @@
       "onboard_time": 1743648982,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 116324,
+      "num": 116324,
+      "word": "陶喆新专",
+      "onboard_time": 1744683321,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 116264,
@@ -40195,6 +40259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68462,
+      "num": 169507,
+      "word": "廊坊通报三河广告牌匾禁用红蓝黑",
+      "onboard_time": 1744683321,
+      "rank": 30,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 68437,
       "num": 167095,
       "word": "单晓娜2比2伯格斯特隆",
@@ -40825,6 +40897,14 @@
       "onboard_time": 1743751221,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 62284,
+      "num": 293806,
+      "word": "某部委员工主动向间谍发送投靠邮件",
+      "onboard_time": 1744682841,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 62232,
@@ -42361,6 +42441,14 @@
       "onboard_time": 1743804494,
       "rank": 47,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 44642,
+      "num": 172174,
+      "word": "一文披露美针对亚冬会网攻细节",
+      "onboard_time": 1744682182,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 44578,
@@ -44792,6 +44880,14 @@
       "word": "王祉怡亚锦赛晋级16强",
       "onboard_time": 1744207406,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 24721,
+      "num": 166495,
+      "word": "李春丽回应参加澳门世界杯",
+      "onboard_time": 1744683321,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -47276,6 +47372,9 @@
     },
     {
       "word": "#中越两国是山水相连的社会主义邻邦#"
+    },
+    {
+      "word": "#习近平会见越南国会主席陈青敏#"
     }
   ]
 }
