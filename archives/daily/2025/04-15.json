@@ -1,6 +1,6 @@
 {
   "startTime": 1744648272763,
-  "endTime": 1744710061144,
+  "endTime": 1744712844252,
   "band_list": [
     {
       "raw_hot": 3491899,
@@ -283,6 +283,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 782083,
+      "num": 253795,
+      "word": "宋祖儿转了新华社发文",
+      "onboard_time": 1744710801,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 777147,
       "num": 777147,
       "word": "黄金",
@@ -297,6 +305,14 @@
       "onboard_time": 1744679662,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 772644,
+      "num": 253974,
+      "word": "景德镇车祸案被告方希望轻判",
+      "onboard_time": 1744709181,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 740042,
@@ -587,6 +603,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 370248,
+      "num": 370248,
+      "word": "何老师这回是真上桌了",
+      "onboard_time": 1744711163,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 369389,
       "num": 369389,
       "word": "国产剧第一对忙着还债的男女主",
@@ -601,6 +625,14 @@
       "onboard_time": 1744677085,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 346321,
+      "num": 267862,
+      "word": "韩安冉发文力挺董明珠",
+      "onboard_time": 1744708222,
+      "rank": 22,
+      "category": "网红,互联网"
     },
     {
       "raw_hot": 342136,
@@ -681,6 +713,14 @@
       "onboard_time": 1744632862,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 309828,
+      "num": 309828,
+      "word": "小米成立芯片平台部",
+      "onboard_time": 1744711462,
+      "rank": 7,
+      "category": "数码"
     },
     {
       "raw_hot": 309226,
@@ -779,14 +819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 267862,
-      "num": 267862,
-      "word": "韩安冉发文力挺董明珠",
-      "onboard_time": 1744708222,
-      "rank": 22,
-      "category": "网红,互联网"
-    },
-    {
       "raw_hot": 267326,
       "num": 375162,
       "word": "流浪地球3",
@@ -825,6 +857,14 @@
       "onboard_time": 1744626683,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 246236,
+      "num": 246236,
+      "word": "刘强东要求京东外卖利润不高于5%",
+      "onboard_time": 1744709903,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 246169,
@@ -889,6 +929,14 @@
       "onboard_time": 1744673119,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 228090,
+      "num": 228090,
+      "word": "王艺迪1比3袁嘉楠",
+      "onboard_time": 1744712063,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 226327,
@@ -1043,6 +1091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204311,
+      "num": 204311,
+      "word": "2025音乐节阵容",
+      "onboard_time": 1744711822,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 203579,
       "num": 203579,
       "word": "原来春天容易困是体质原因",
@@ -1097,6 +1153,14 @@
       "onboard_time": 1744694121,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 199138,
+      "num": 199138,
+      "word": "林允这是我认识的男人装吗",
+      "onboard_time": 1744710503,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 197476,
@@ -1195,6 +1259,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 187183,
+      "num": 187183,
+      "word": "网剧悬镜今日开播",
+      "onboard_time": 1744712780,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187044,
       "num": 187044,
       "word": "美企业主称制造业回流美国难",
@@ -1217,14 +1289,6 @@
       "onboard_time": 1744706662,
       "rank": 31,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 185160,
-      "num": 185160,
-      "word": "景德镇车祸案被告方希望轻判",
-      "onboard_time": 1744709181,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 184313,
@@ -1427,6 +1491,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 164258,
+      "num": 246998,
+      "word": "全圆佑晒黑了",
+      "onboard_time": 1744712063,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163986,
       "num": 163986,
       "word": "南京医科大学一宿舍楼突发火灾",
@@ -1441,6 +1513,14 @@
       "onboard_time": 1744697781,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 162631,
+      "num": 249677,
+      "word": "吴宣仪浪姐路透自带发光buff",
+      "onboard_time": 1744711763,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 162587,
@@ -1491,12 +1571,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 158641,
-      "num": 158641,
-      "word": "刘强东要求京东外卖利润不高于5%",
-      "onboard_time": 1744709903,
-      "rank": 39,
-      "category": "互联网"
+      "raw_hot": 158844,
+      "num": 158844,
+      "word": "王化回应小米成立芯片平台部",
+      "onboard_time": 1744712182,
+      "rank": 35,
+      "category": "数码,互联网"
     },
     {
       "raw_hot": 158411,
@@ -1577,6 +1657,30 @@
       "onboard_time": 1744682061,
       "rank": 48,
       "category": "财经,国际时政"
+    },
+    {
+      "raw_hot": 153966,
+      "num": 153966,
+      "word": "三河市政府官网已删除付顺义简历",
+      "onboard_time": 1744712483,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153681,
+      "num": 155148,
+      "word": "ITZY获胜",
+      "onboard_time": 1744711163,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 152097,
+      "num": 248523,
+      "word": "药价也能讨价还价了",
+      "onboard_time": 1744711522,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151999,
@@ -1771,6 +1875,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 132767,
+      "num": 132767,
+      "word": "徐若晗曾以为25岁是谈婚论嫁的年纪",
+      "onboard_time": 1744712002,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132309,
       "num": 132309,
       "word": "第五人格",
@@ -1803,12 +1915,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128776,
+      "num": 128418,
+      "word": "Epic说大家领了游戏不玩",
+      "onboard_time": 1744712243,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 128456,
+      "num": 128456,
+      "word": "王艺迪vs袁嘉楠",
+      "onboard_time": 1744711522,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127978,
       "num": 127978,
       "word": "现货黄金跌破3200美元",
       "onboard_time": 1744676664,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 127720,
+      "num": 199451,
+      "word": "伊利育儿补贴再加码",
+      "onboard_time": 1744711522,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127570,
@@ -1859,6 +1995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126620,
+      "num": 126620,
+      "word": "王楚钦说全是惊吧",
+      "onboard_time": 1744712542,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126346,
       "num": 126346,
       "word": "COA8全球总决赛",
@@ -1888,6 +2032,14 @@
       "word": "无忧渡",
       "onboard_time": 1744629983,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 124176,
+      "num": 200872,
+      "word": "折腰光造型就美成这样",
+      "onboard_time": 1744709061,
+      "rank": 45,
       "category": "剧集"
     },
     {
@@ -1921,14 +2073,6 @@
       "onboard_time": 1744709243,
       "rank": 44,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 119979,
-      "num": 200872,
-      "word": "折腰光造型就美成这样",
-      "onboard_time": 1744709061,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 118825,
@@ -2243,6 +2387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 80260,
+      "num": 207186,
+      "word": "小鹏X9排面",
+      "onboard_time": 1744711522,
+      "rank": 25,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 79088,
       "num": 242899,
       "word": "林高远vs约内斯库",
@@ -2481,6 +2633,14 @@
       "onboard_time": 1744671980,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 47614,
+      "num": 252817,
+      "word": "美国有小企业主称可能6个月内破产",
+      "onboard_time": 1744711700,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 47215,
@@ -2808,6 +2968,9 @@
     },
     {
       "word": "#习近平会见中越人民大联欢活动代表#"
+    },
+    {
+      "word": "#中越铁路合作机制启动仪式#"
     }
   ]
 }

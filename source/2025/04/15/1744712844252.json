@@ -1,0 +1,410 @@
+{
+  "runTime": 1744712844252,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 209556,
+        "num": 1033529,
+        "word": "悬赏通缉3名美国特工",
+        "onboard_time": 1744679662,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 811869,
+        "num": 811869,
+        "word": "日本不准备向美国做重大让步",
+        "onboard_time": 1744706842,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 32831,
+        "num": 605244,
+        "word": "发现美国特工线索拨打0451110",
+        "onboard_time": 1744680202,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 473317,
+        "num": 473317,
+        "word": "外交部回应谷歌地图将南海改名",
+        "onboard_time": 1744706901,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 411470,
+        "num": 411470,
+        "word": "一天中最易长胖的4个时间段",
+        "onboard_time": 1744700542,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 370248,
+        "num": 370248,
+        "word": "何老师这回是真上桌了",
+        "onboard_time": 1744711163,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 329910,
+        "num": 329910,
+        "word": "王楚钦说英语回应对手",
+        "onboard_time": 1744708462,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 309828,
+        "num": 309828,
+        "word": "小米成立芯片平台部",
+        "onboard_time": 1744711462,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 256839,
+        "num": 256839,
+        "word": "宋祖儿造型",
+        "onboard_time": 1744704862,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 4340,
+        "num": 256302,
+        "word": "那些你不知道的北京地儿",
+        "onboard_time": 1744619181,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1079492,
+        "num": 256019,
+        "word": "原来艺人的收入是这样算的",
+        "onboard_time": 1744702041,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 865432,
+        "num": 254782,
+        "word": "赵露思红发",
+        "onboard_time": 1744706603,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 772644,
+        "num": 253974,
+        "word": "景德镇车祸案被告方希望轻判",
+        "onboard_time": 1744709181,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 782083,
+        "num": 253795,
+        "word": "宋祖儿转了新华社发文",
+        "onboard_time": 1744710801,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47614,
+        "num": 252817,
+        "word": "美国有小企业主称可能6个月内破产",
+        "onboard_time": 1744711700,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 728470,
+        "num": 252052,
+        "word": "律师说撞死1家3口司机辩称没看清",
+        "onboard_time": 1744704562,
+        "rank": 15,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 346321,
+        "num": 251444,
+        "word": "韩安冉发文力挺董明珠",
+        "onboard_time": 1744708222,
+        "rank": 16,
+        "category": "网红,互联网"
+      },
+      {
+        "raw_hot": 344806,
+        "num": 250142,
+        "word": "唐艺昕低调炫夫",
+        "onboard_time": 1744706603,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162631,
+        "num": 249677,
+        "word": "吴宣仪浪姐路透自带发光buff",
+        "onboard_time": 1744711763,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152097,
+        "num": 248523,
+        "word": "药价也能讨价还价了",
+        "onboard_time": 1744711522,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307828,
+        "num": 248053,
+        "word": "葛夕称抑郁症复发加大药量",
+        "onboard_time": 1744698861,
+        "rank": 20,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 164258,
+        "num": 246998,
+        "word": "全圆佑晒黑了",
+        "onboard_time": 1744712063,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92457,
+        "num": 246712,
+        "word": "比亚迪海外口碑崛起",
+        "onboard_time": 1744708341,
+        "rank": 22,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 246236,
+        "num": 246236,
+        "word": "刘强东要求京东外卖利润不高于5%",
+        "onboard_time": 1744709903,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 228090,
+        "num": 228090,
+        "word": "王艺迪1比3袁嘉楠",
+        "onboard_time": 1744712063,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80260,
+        "num": 207186,
+        "word": "小鹏X9排面",
+        "onboard_time": 1744711522,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 204311,
+        "num": 204311,
+        "word": "2025音乐节阵容",
+        "onboard_time": 1744711822,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127720,
+        "num": 199451,
+        "word": "伊利育儿补贴再加码",
+        "onboard_time": 1744711522,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199138,
+        "num": 199138,
+        "word": "林允这是我认识的男人装吗",
+        "onboard_time": 1744710503,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 137340,
+        "num": 187591,
+        "word": "张婧仪活动生图",
+        "onboard_time": 1744705401,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 187183,
+        "num": 187183,
+        "word": "网剧悬镜今日开播",
+        "onboard_time": 1744712780,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125505,
+        "num": 186706,
+        "word": "SU7坠崖车主一家再提SU7",
+        "onboard_time": 1744708341,
+        "rank": 31,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 186420,
+        "num": 186420,
+        "word": "一家人淤泥中摸回爷爷的33克金戒指",
+        "onboard_time": 1744709002,
+        "rank": 32,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 183622,
+        "num": 183622,
+        "word": "美大豆协会主席恳求特朗普结束关税战",
+        "onboard_time": 1744706662,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 177488,
+        "num": 177488,
+        "word": "GAI都瘦脱相了",
+        "onboard_time": 1744703420,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 158844,
+        "num": 158844,
+        "word": "王化回应小米成立芯片平台部",
+        "onboard_time": 1744712182,
+        "rank": 35,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 156870,
+        "num": 156870,
+        "word": "南海一直是国际社会公认的通用地名",
+        "onboard_time": 1744708522,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 156808,
+        "num": 156808,
+        "word": "王俊凯成都",
+        "onboard_time": 1744708821,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153681,
+        "num": 155148,
+        "word": "ITZY获胜",
+        "onboard_time": 1744711163,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 153966,
+        "num": 153966,
+        "word": "三河市政府官网已删除付顺义简历",
+        "onboard_time": 1744712483,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151450,
+        "num": 151450,
+        "word": "建议睡前30到60分钟数字戒断",
+        "onboard_time": 1744692144,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 138737,
+        "num": 138737,
+        "word": "官方回应三河市委主要负责人是谁",
+        "onboard_time": 1744709243,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133466,
+        "num": 133466,
+        "word": "杜华回应王怡人6年零工资",
+        "onboard_time": 1744696582,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132767,
+        "num": 132767,
+        "word": "徐若晗曾以为25岁是谈婚论嫁的年纪",
+        "onboard_time": 1744712002,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128456,
+        "num": 128456,
+        "word": "王艺迪vs袁嘉楠",
+        "onboard_time": 1744711522,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128776,
+        "num": 128418,
+        "word": "Epic说大家领了游戏不玩",
+        "onboard_time": 1744712243,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 126620,
+        "num": 126620,
+        "word": "王楚钦说全是惊吧",
+        "onboard_time": 1744712542,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124176,
+        "num": 124176,
+        "word": "折腰光造型就美成这样",
+        "onboard_time": 1744709061,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125799,
+        "num": 123322,
+        "word": "父亲当着小女孩的面卖掉了小狗",
+        "onboard_time": 1744706901,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121794,
+        "num": 121794,
+        "word": "国家安全部推出金猴降妖特别篇",
+        "onboard_time": 1744695862,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中越铁路合作机制启动仪式#"
+    }
+  }
+}
