@@ -1,6 +1,6 @@
 {
   "startTime": 1744734585432,
-  "endTime": 1744748852789,
+  "endTime": 1744749639979,
   "band_list": [
     {
       "raw_hot": 2218614,
@@ -555,8 +555,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 19683,
-      "num": 19683,
+      "raw_hot": 20150,
+      "num": 20150,
       "word": "结果都那样",
       "onboard_time": 1744745954,
       "rank": 33,
@@ -595,6 +595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 15214,
+      "num": 15214,
+      "word": "美国或有更多人失去工作",
+      "onboard_time": 1744746915,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 13561,
       "num": 19161,
       "word": "医学生有属于自己的综艺节目",
@@ -627,7 +635,7 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 10431,
+      "raw_hot": 10481,
       "num": 36708,
       "word": "越南中秋节也是儿童节",
       "onboard_time": 1744748595,
@@ -641,6 +649,14 @@
       "onboard_time": 1744745594,
       "rank": 34,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 9648,
+      "num": 18865,
+      "word": "吉隆坡街头飘扬中马两国国旗",
+      "onboard_time": 1744749314,
+      "rank": 38,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [

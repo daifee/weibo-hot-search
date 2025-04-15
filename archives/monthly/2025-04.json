@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744748852789,
+  "endTime": 1744749639979,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -48595,6 +48595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20150,
+      "num": 20150,
+      "word": "结果都那样",
+      "onboard_time": 1744745954,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
       "raw_hot": 20087,
       "num": 29453,
       "word": "越南人聚会也爱嗑瓜子",
@@ -48633,14 +48641,6 @@
       "onboard_time": 1743956000,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 19683,
-      "num": 19683,
-      "word": "结果都那样",
-      "onboard_time": 1744745954,
-      "rank": 33,
-      "category": "网红"
     },
     {
       "raw_hot": 19673,
@@ -49363,6 +49363,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 15214,
+      "num": 15214,
+      "word": "美国或有更多人失去工作",
+      "onboard_time": 1744746915,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 15193,
       "num": 268646,
       "word": "凡晨组合再合体",
@@ -49995,7 +50003,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 10431,
+      "raw_hot": 10481,
       "num": 36708,
       "word": "越南中秋节也是儿童节",
       "onboard_time": 1744748595,
@@ -50089,6 +50097,14 @@
       "onboard_time": 1743601344,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 9648,
+      "num": 18865,
+      "word": "吉隆坡街头飘扬中马两国国旗",
+      "onboard_time": 1744749314,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 9529,
