@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744698893054,
+  "endTime": 1744699681602,
   "band_list": [
     {
       "raw_hot": 3491899,
@@ -508,7 +508,7 @@
     },
     {
       "raw_hot": 1060815,
-      "num": 204729,
+      "num": 249379,
       "word": "杜华回应王怡人6年零工资",
       "onboard_time": 1744696582,
       "rank": 12,
@@ -1331,6 +1331,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 547165,
+      "num": 241440,
+      "word": "马思唯和女友海边泳装照",
+      "onboard_time": 1744697061,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 545656,
       "num": 545656,
       "word": "奥黛丽赫本故居挂牌出售1.65亿元",
@@ -1545,6 +1553,14 @@
       "onboard_time": 1744606645,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 460806,
+      "num": 238028,
+      "word": "葛夕称抑郁症复发加大药量",
+      "onboard_time": 1744698861,
+      "rank": 48,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 459500,
@@ -1947,6 +1963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 369389,
+      "num": 369389,
+      "word": "国产剧第一对忙着还债的男女主",
+      "onboard_time": 1744697603,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 369076,
       "num": 369076,
       "word": "张远 有一首歌红了真好",
@@ -2057,14 +2081,6 @@
       "onboard_time": 1744596621,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 337600,
-      "num": 186023,
-      "word": "马思唯和女友海边泳装照",
-      "onboard_time": 1744697061,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 332515,
@@ -2273,6 +2289,14 @@
       "onboard_time": 1744604664,
       "rank": 35,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 301851,
+      "num": 301851,
+      "word": "美国屡次打击香港只会反噬其身",
+      "onboard_time": 1744697424,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 300915,
@@ -2515,20 +2539,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 261744,
+      "num": 203692,
+      "word": "张康乐与北电第六",
+      "onboard_time": 1744697662,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 261698,
       "num": 273808,
       "word": "研究员违规携带水稻种质资源出境",
       "onboard_time": 1744602201,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 261097,
-      "num": 183243,
-      "word": "张康乐与北电第六",
-      "onboard_time": 1744697662,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 260305,
@@ -2595,6 +2619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 253067,
+      "num": 253067,
+      "word": "王楚钦vs萨琳",
+      "onboard_time": 1744698742,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 252114,
       "num": 252114,
       "word": "时代少年团太原演唱会官方回复",
@@ -2649,14 +2681,6 @@
       "onboard_time": 1744608142,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 247642,
-      "num": 247642,
-      "word": "国产剧第一对忙着还债的男女主",
-      "onboard_time": 1744697603,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 246867,
@@ -3347,6 +3371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 209041,
+      "num": 209041,
+      "word": "虞书欣撕拉片vlog",
+      "onboard_time": 1744698202,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208967,
       "num": 208967,
       "word": "无忧渡内娱无代餐",
@@ -3697,6 +3729,14 @@
       "onboard_time": 1744552764,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197476,
+      "num": 197476,
+      "word": "外卖员被CoCo店员砸奶茶",
+      "onboard_time": 1744696883,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 197287,
@@ -4148,7 +4188,7 @@
     },
     {
       "raw_hot": 182937,
-      "num": 182937,
+      "num": 217734,
       "word": "国色芳华2预告",
       "onboard_time": 1744695862,
       "rank": 24,
@@ -4355,14 +4395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 177348,
-      "num": 171284,
-      "word": "外卖员被CoCo店员砸奶茶",
-      "onboard_time": 1744696883,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 177126,
       "num": 177126,
       "word": "种地吧",
@@ -4441,6 +4473,14 @@
       "onboard_time": 1744629983,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 175450,
+      "num": 264646,
+      "word": "特朗普政府冻结对哈佛大学拨款",
+      "onboard_time": 1744695621,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 175104,
@@ -4651,14 +4691,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 169113,
-      "num": 169113,
-      "word": "虞书欣撕拉片vlog",
-      "onboard_time": 1744698202,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 168493,
       "num": 213638,
       "word": "蒲熠星shape of you",
@@ -4675,6 +4707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168320,
+      "num": 168320,
+      "word": "deepseek王炸组合",
+      "onboard_time": 1744694004,
+      "rank": 46,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 168094,
       "num": 168094,
       "word": "卤鹅哥称房贷已经停了几个月",
@@ -4689,14 +4729,6 @@
       "onboard_time": 1744520844,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 167047,
-      "num": 167047,
-      "word": "deepseek王炸组合",
-      "onboard_time": 1744694004,
-      "rank": 46,
-      "category": "美食,幽默"
     },
     {
       "raw_hot": 166906,
@@ -5147,6 +5179,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 151999,
+      "num": 151999,
+      "word": "TikTok上刮起中国工厂旋风",
+      "onboard_time": 1744698622,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 151595,
       "num": 151595,
       "word": "彭小苒红墙下的彝族姑娘",
@@ -5180,7 +5220,7 @@
     },
     {
       "raw_hot": 150498,
-      "num": 173185,
+      "num": 173848,
       "word": "白夜行",
       "onboard_time": 1744692382,
       "rank": 48,
@@ -5193,6 +5233,14 @@
       "onboard_time": 1744592480,
       "rank": 42,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 150338,
+      "num": 222229,
+      "word": "Red胡静怡北电第十名",
+      "onboard_time": 1744698861,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 150137,
@@ -6059,14 +6107,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 129925,
-      "num": 264646,
-      "word": "特朗普政府冻结对哈佛大学拨款",
-      "onboard_time": 1744695621,
-      "rank": 34,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 129892,
       "num": 129892,
       "word": "孙颖莎训练削上了",
@@ -6401,14 +6441,6 @@
       "onboard_time": 1744596440,
       "rank": 43,
       "category": "财经"
-    },
-    {
-      "raw_hot": 123022,
-      "num": 123022,
-      "word": "TikTok上刮起中国工厂旋风",
-      "onboard_time": 1744698622,
-      "rank": 44,
-      "category": "互联网"
     },
     {
       "raw_hot": 122522,
@@ -6787,14 +6819,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 113767,
-      "num": 113767,
-      "word": "葛夕称抑郁症复发加大药量",
-      "onboard_time": 1744698861,
-      "rank": 48,
-      "category": "民生新闻,艺人"
-    },
-    {
       "raw_hot": 113537,
       "num": 113537,
       "word": "猫景房",
@@ -6963,14 +6987,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 108719,
-      "num": 139307,
-      "word": "Red胡静怡北电第十名",
-      "onboard_time": 1744698861,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 108677,
       "num": 108677,
       "word": "王楚钦场地热身训练状态爆表",
@@ -7123,14 +7139,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 102025,
-      "num": 143205,
-      "word": "王楚钦vs萨琳",
-      "onboard_time": 1744698742,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 101942,
       "num": 137419,
       "word": "武艺杨迪连发12条微博",
@@ -7209,14 +7217,6 @@
       "onboard_time": 1744530800,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 100280,
-      "num": 201003,
-      "word": "美国屡次打击香港只会反噬其身",
-      "onboard_time": 1744697424,
-      "rank": 14,
-      "category": "国内时政"
     },
     {
       "raw_hot": 100124,
@@ -7321,6 +7321,14 @@
       "onboard_time": 1744467984,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96306,
+      "num": 102596,
+      "word": "买300平送300平的复式顶楼",
+      "onboard_time": 1744697781,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 95907,
@@ -8011,6 +8019,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 57047,
+      "num": 246893,
+      "word": "关税风暴正在反噬美国自身",
+      "onboard_time": 1744699342,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 56765,
       "num": 381709,
       "word": "美对等关税这剂药反噬自身",
@@ -8571,6 +8587,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 32166,
+      "num": 128352,
+      "word": "虞书欣在旅游界还是太权威了",
+      "onboard_time": 1744699522,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 31986,
       "num": 383708,
       "word": "花1980办尊享卡买机票却比官网还贵",
@@ -9097,6 +9121,14 @@
       "onboard_time": 1744488674,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 14295,
+      "num": 152754,
+      "word": "大阪世博会造价2亿日元的厕所",
+      "onboard_time": 1744699041,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 13939,
