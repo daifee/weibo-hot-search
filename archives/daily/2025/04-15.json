@@ -1,6 +1,6 @@
 {
   "startTime": 1744648272763,
-  "endTime": 1744724730843,
+  "endTime": 1744727123115,
   "band_list": [
     {
       "raw_hot": 3491899,
@@ -19,8 +19,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2304097,
+      "num": 1008807,
+      "word": "男子疑因思念亡妻无法释怀去世",
+      "onboard_time": 1744719682,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2157441,
-      "num": 848602,
+      "num": 856574,
       "word": "张予曦声明",
       "onboard_time": 1744718782,
       "rank": 3,
@@ -107,14 +115,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 1299688,
-      "num": 960837,
-      "word": "男子疑因思念亡妻无法释怀去世",
-      "onboard_time": 1744719682,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1279124,
       "num": 983474,
       "word": "廊坊通报三河广告牌匾禁用红蓝黑",
@@ -161,6 +161,14 @@
       "onboard_time": 1744650856,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1135950,
+      "num": 309056,
+      "word": "他以身入局把13岁健全的女儿捆在身上",
+      "onboard_time": 1744726223,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 1125023,
@@ -225,6 +233,14 @@
       "onboard_time": 1744698861,
       "rank": 48,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 939769,
+      "num": 408303,
+      "word": "肖战武汉",
+      "onboard_time": 1744726404,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 926368,
@@ -299,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 834458,
+      "num": 834458,
+      "word": "订婚强奸案检方认定有实质性关系",
+      "onboard_time": 1744724003,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 799490,
       "num": 763503,
       "word": "三河市公安局警徽改色再引质疑",
@@ -371,6 +395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 771829,
+      "num": 407397,
+      "word": "杜华让艺人别蹭乐华热度",
+      "onboard_time": 1744722741,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 740042,
       "num": 740042,
       "word": "外交部回应谷歌地图将南海改名",
@@ -408,6 +440,14 @@
       "word": "叶一茜晒照为森碟庆生",
       "onboard_time": 1744688121,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 692074,
+      "num": 405457,
+      "word": "张予曦离开欢瑞",
+      "onboard_time": 1744725564,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -475,14 +515,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 622196,
-      "num": 362254,
-      "word": "杜华让艺人别蹭乐华热度",
-      "onboard_time": 1744722741,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 621651,
       "num": 621651,
       "word": "流浪地球3开机",
@@ -508,7 +540,7 @@
     },
     {
       "raw_hot": 594856,
-      "num": 362925,
+      "num": 390514,
       "word": "29岁女生不停运动6个月后",
       "onboard_time": 1744720583,
       "rank": 22,
@@ -548,7 +580,7 @@
     },
     {
       "raw_hot": 512676,
-      "num": 364166,
+      "num": 389789,
       "word": "毛子一家生活点滴",
       "onboard_time": 1744718782,
       "rank": 16,
@@ -657,6 +689,14 @@
       "onboard_time": 1744722501,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 411674,
+      "num": 411674,
+      "word": "孙颖莎vs张默",
+      "onboard_time": 1744723282,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 409587,
@@ -939,14 +979,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 284864,
-      "num": 360638,
-      "word": "孙颖莎vs张默",
-      "onboard_time": 1744723282,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 277478,
       "num": 474686,
       "word": "张婧仪活动生图",
@@ -1035,6 +1067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 257235,
+      "num": 393788,
+      "word": "演员童正维去世",
+      "onboard_time": 1744726464,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 256700,
       "num": 256700,
       "word": "不少年轻人流行用iPhone6拍照",
@@ -1049,14 +1089,6 @@
       "onboard_time": 1744626683,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 251637,
-      "num": 315998,
-      "word": "订婚强奸案检方认定有实质性关系",
-      "onboard_time": 1744724003,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 246169,
@@ -1121,6 +1153,14 @@
       "onboard_time": 1744712063,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 232984,
+      "num": 391209,
+      "word": "孙颖莎4比0胜张默",
+      "onboard_time": 1744725984,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 232649,
@@ -1201,6 +1241,14 @@
       "onboard_time": 1744700600,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 219953,
+      "num": 219953,
+      "word": "女生工作4年考研上北大母亲心疼落泪",
+      "onboard_time": 1744721963,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 216090,
@@ -1507,14 +1555,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 191568,
-      "num": 191568,
-      "word": "女生工作4年考研上北大母亲心疼落泪",
-      "onboard_time": 1744721963,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 191326,
       "num": 191326,
       "word": "灿如繁星官宣",
@@ -1609,6 +1649,14 @@
       "onboard_time": 1744691244,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 184124,
+      "num": 315595,
+      "word": "遍地高仿货minmin背刺多少消费者",
+      "onboard_time": 1744723702,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 183900,
@@ -1779,6 +1827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172359,
+      "num": 411052,
+      "word": "特朗普上一任期被指让美减少7.5万岗位",
+      "onboard_time": 1744726042,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 172077,
       "num": 862058,
       "word": "发现美国特工线索拨打0451110",
@@ -1811,12 +1867,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 169997,
+      "num": 311271,
+      "word": "多地惊现奥特曼身影",
+      "onboard_time": 1744726704,
+      "rank": 29,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 169167,
       "num": 418521,
       "word": "全国男性九价HPV疫苗首针开打",
       "onboard_time": 1744690401,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168902,
+      "num": 327409,
+      "word": "陈少熙最怕鹭卓和卓沅突然的关心",
+      "onboard_time": 1744726464,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 168320,
@@ -1835,12 +1907,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 163922,
+      "num": 321058,
+      "word": "虞书欣陈靖可新剧演情侣",
+      "onboard_time": 1744725923,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 163026,
+      "num": 292282,
+      "word": "高晓松晒与曾轶可合照",
+      "onboard_time": 1744726464,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162970,
       "num": 162970,
       "word": "买300平送300平的复式顶楼",
       "onboard_time": 1744697781,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 162969,
+      "num": 162969,
+      "word": "chiikawa走红毯好可爱",
+      "onboard_time": 1744726163,
+      "rank": 39,
+      "category": "动漫"
     },
     {
       "raw_hot": 162631,
@@ -1889,6 +1985,14 @@
       "onboard_time": 1744694542,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 160450,
+      "num": 395665,
+      "word": "7旬老人没有肿瘤被切除5个器官",
+      "onboard_time": 1744725083,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160181,
@@ -2011,14 +2115,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 153948,
-      "num": 153948,
-      "word": "遍地高仿货minmin背刺多少消费者",
-      "onboard_time": 1744723702,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 153140,
       "num": 437667,
       "word": "特朗普指责泽连斯基总想买导弹",
@@ -2137,6 +2233,14 @@
       "onboard_time": 1744676902,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 144152,
+      "num": 398976,
+      "word": "小鹏X9上市大升级不涨价",
+      "onboard_time": 1744726404,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 143745,
@@ -2561,6 +2665,14 @@
       "onboard_time": 1744709243,
       "rank": 44,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 120869,
+      "num": 120869,
+      "word": "赞多很感谢在中国的生活",
+      "onboard_time": 1744727064,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 119962,
@@ -3099,6 +3211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68536,
+      "num": 867921,
+      "word": "反网络霸权网警在行动",
+      "onboard_time": 1744725623,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 66765,
       "num": 237294,
       "word": "林高远说首场打得比较谨慎",
@@ -3211,12 +3331,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 57390,
+      "num": 403221,
+      "word": "老板悄悄将消防员餐食换成超大份",
+      "onboard_time": 1744726103,
+      "rank": 14,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 55217,
       "num": 201602,
       "word": "请假的终点都是身体不舒服",
       "onboard_time": 1744690343,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 54344,
+      "num": 396811,
+      "word": "林诗栋回应世界杯开门红",
+      "onboard_time": 1744726762,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 54279,
@@ -3321,6 +3457,14 @@
       "onboard_time": 1744694963,
       "rank": 14,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 39590,
+      "num": 400499,
+      "word": "极氪007GT价格杀疯了",
+      "onboard_time": 1744726343,
+      "rank": 16,
+      "category": "汽车"
     },
     {
       "raw_hot": 38808,
@@ -3473,6 +3617,14 @@
       "onboard_time": 1744713081,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 23143,
+      "num": 409699,
+      "word": "关于国安法的那些知识盲区",
+      "onboard_time": 1744725623,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 23076,
@@ -3651,6 +3803,9 @@
     },
     {
       "word": "#中越铁路合作机制启动仪式#"
+    },
+    {
+      "word": "#中马两国传统友谊绵延千年#"
     }
   ]
 }
