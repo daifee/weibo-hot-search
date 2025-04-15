@@ -1,6 +1,6 @@
 {
   "startTime": 1744648272763,
-  "endTime": 1744712844252,
+  "endTime": 1744713900235,
   "band_list": [
     {
       "raw_hot": 3491899,
@@ -219,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 917181,
+      "num": 260895,
+      "word": "宋祖儿转了新华社发文",
+      "onboard_time": 1744710801,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 911723,
       "num": 207144,
       "word": "撞死1家3口肇事者2次将油门踩到底",
@@ -283,14 +291,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 782083,
-      "num": 253795,
-      "word": "宋祖儿转了新华社发文",
-      "onboard_time": 1744710801,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 777147,
       "num": 777147,
       "word": "黄金",
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 772644,
-      "num": 253974,
+      "num": 255650,
       "word": "景德镇车祸案被告方希望轻判",
       "onboard_time": 1744709181,
       "rank": 46,
@@ -329,6 +329,14 @@
       "onboard_time": 1744703420,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 721019,
+      "num": 499382,
+      "word": "大熊猫芦芦去世",
+      "onboard_time": 1744712843,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 707847,
@@ -467,6 +475,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 470480,
+      "num": 470480,
+      "word": "何老师这回是真上桌了",
+      "onboard_time": 1744711163,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 468568,
       "num": 468568,
       "word": "无忧渡折腰 难兄难弟",
@@ -603,14 +619,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 370248,
-      "num": 370248,
-      "word": "何老师这回是真上桌了",
-      "onboard_time": 1744711163,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 369389,
       "num": 369389,
       "word": "国产剧第一对忙着还债的男女主",
@@ -625,6 +633,14 @@
       "onboard_time": 1744677085,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 348718,
+      "num": 246236,
+      "word": "刘强东要求京东外卖利润不高于5%",
+      "onboard_time": 1744709903,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 346321,
@@ -819,12 +835,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 269815,
+      "num": 269815,
+      "word": "三河市政府官网已删除付顺义简历",
+      "onboard_time": 1744712483,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 267326,
       "num": 375162,
       "word": "流浪地球3",
       "onboard_time": 1744684942,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 266095,
+      "num": 234542,
+      "word": "王艺迪1比3袁嘉楠",
+      "onboard_time": 1744712063,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 264375,
@@ -857,14 +889,6 @@
       "onboard_time": 1744626683,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 246236,
-      "num": 246236,
-      "word": "刘强东要求京东外卖利润不高于5%",
-      "onboard_time": 1744709903,
-      "rank": 39,
-      "category": "互联网"
     },
     {
       "raw_hot": 246169,
@@ -907,6 +931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 237817,
+      "num": 246998,
+      "word": "全圆佑晒黑了",
+      "onboard_time": 1744712063,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 232649,
       "num": 232649,
       "word": "ACT对战MRC",
@@ -931,12 +963,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 228090,
-      "num": 228090,
-      "word": "王艺迪1比3袁嘉楠",
-      "onboard_time": 1744712063,
-      "rank": 24,
-      "category": "体育"
+      "raw_hot": 228113,
+      "num": 228113,
+      "word": "网剧悬镜今日开播",
+      "onboard_time": 1744712780,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 226327,
@@ -993,6 +1025,14 @@
       "onboard_time": 1744692682,
       "rank": 39,
       "category": "数码,互联网"
+    },
+    {
+      "raw_hot": 213387,
+      "num": 252817,
+      "word": "美国有小企业主称可能6个月内破产",
+      "onboard_time": 1744711700,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 212405,
@@ -1251,20 +1291,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189256,
+      "num": 216909,
+      "word": "无忧渡",
+      "onboard_time": 1744629983,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187649,
       "num": 187649,
       "word": "一家人淤泥中摸回爷爷的33克金戒指",
       "onboard_time": 1744709002,
       "rank": 41,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 187183,
-      "num": 187183,
-      "word": "网剧悬镜今日开播",
-      "onboard_time": 1744712780,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 187044,
@@ -1491,14 +1531,6 @@
       "category": "美食,幽默"
     },
     {
-      "raw_hot": 164258,
-      "num": 246998,
-      "word": "全圆佑晒黑了",
-      "onboard_time": 1744712063,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 163986,
       "num": 163986,
       "word": "南京医科大学一宿舍楼突发火灾",
@@ -1659,14 +1691,6 @@
       "category": "财经,国际时政"
     },
     {
-      "raw_hot": 153966,
-      "num": 153966,
-      "word": "三河市政府官网已删除付顺义简历",
-      "onboard_time": 1744712483,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 153681,
       "num": 155148,
       "word": "ITZY获胜",
@@ -1769,6 +1793,14 @@
       "onboard_time": 1744704921,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 141412,
+      "num": 141412,
+      "word": "森碟17岁生日照",
+      "onboard_time": 1744713441,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 140477,
@@ -1899,6 +1931,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 130098,
+      "num": 130098,
+      "word": "王者老夫子红霸狐蓝霸狐",
+      "onboard_time": 1744713022,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 129569,
       "num": 129569,
       "word": "这设计师是真上过大学",
@@ -1916,7 +1956,7 @@
     },
     {
       "raw_hot": 128776,
-      "num": 128418,
+      "num": 215000,
       "word": "Epic说大家领了游戏不玩",
       "onboard_time": 1744712243,
       "rank": 45,
@@ -1940,7 +1980,7 @@
     },
     {
       "raw_hot": 127720,
-      "num": 199451,
+      "num": 245011,
       "word": "伊利育儿补贴再加码",
       "onboard_time": 1744711522,
       "rank": 27,
@@ -2027,14 +2067,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 124304,
-      "num": 124304,
-      "word": "无忧渡",
-      "onboard_time": 1744629983,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 124176,
       "num": 200872,
       "word": "折腰光造型就美成这样",
@@ -2059,6 +2091,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 122085,
+      "num": 122085,
+      "word": "Gr对战WBG",
+      "onboard_time": 1744713322,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 121753,
       "num": 187664,
       "word": "王皓大声提醒大头接发球要果断",
@@ -2073,6 +2113,14 @@
       "onboard_time": 1744709243,
       "rank": 44,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 119962,
+      "num": 215385,
+      "word": "徐志胜新剧恋爱吃上细糠了",
+      "onboard_time": 1744712963,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 118825,
@@ -2123,6 +2171,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 117333,
+      "num": 117333,
+      "word": "实地探访三河市儿童医院",
+      "onboard_time": 1744713381,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115177,
       "num": 203663,
       "word": "虞书欣旅行中",
@@ -2137,6 +2193,14 @@
       "onboard_time": 1744687521,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 114697,
+      "num": 114697,
+      "word": "悬疑剧窝囊赛道的神来了",
+      "onboard_time": 1744713803,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 111887,
@@ -2388,7 +2452,7 @@
     },
     {
       "raw_hot": 80260,
-      "num": 207186,
+      "num": 224416,
       "word": "小鹏X9排面",
       "onboard_time": 1744711522,
       "rank": 25,
@@ -2497,6 +2561,14 @@
       "onboard_time": 1744704501,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68391,
+      "num": 229779,
+      "word": "王曼昱vs伯格斯特隆",
+      "onboard_time": 1744713022,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 66765,
@@ -2633,14 +2705,6 @@
       "onboard_time": 1744671980,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 47614,
-      "num": 252817,
-      "word": "美国有小企业主称可能6个月内破产",
-      "onboard_time": 1744711700,
-      "rank": 14,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 47215,
@@ -2825,6 +2889,14 @@
       "onboard_time": 1744683321,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 24646,
+      "num": 129516,
+      "word": "顶级抗炎的生活习惯",
+      "onboard_time": 1744713081,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 23076,

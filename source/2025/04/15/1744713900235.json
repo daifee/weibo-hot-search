@@ -1,0 +1,410 @@
+{
+  "runTime": 1744713900235,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 202534,
+        "num": 1032405,
+        "word": "悬赏通缉3名美国特工",
+        "onboard_time": 1744679662,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 611785,
+        "num": 611785,
+        "word": "日本不准备向美国做重大让步",
+        "onboard_time": 1744706842,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 28798,
+        "num": 508229,
+        "word": "发现美国特工线索拨打0451110",
+        "onboard_time": 1744680202,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 721019,
+        "num": 499382,
+        "word": "大熊猫芦芦去世",
+        "onboard_time": 1744712843,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 470480,
+        "num": 470480,
+        "word": "何老师这回是真上桌了",
+        "onboard_time": 1744711163,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 417679,
+        "num": 417679,
+        "word": "一天中最易长胖的4个时间段",
+        "onboard_time": 1744700542,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 341267,
+        "num": 341267,
+        "word": "外交部回应谷歌地图将南海改名",
+        "onboard_time": 1744706901,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 302935,
+        "num": 302935,
+        "word": "小米成立芯片平台部",
+        "onboard_time": 1744711462,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 287482,
+        "num": 287482,
+        "word": "王楚钦说英语回应对手",
+        "onboard_time": 1744708462,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 269815,
+        "num": 269815,
+        "word": "三河市政府官网已删除付顺义简历",
+        "onboard_time": 1744712483,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1130340,
+        "num": 266900,
+        "word": "原来艺人的收入是这样算的",
+        "onboard_time": 1744702041,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 917181,
+        "num": 260895,
+        "word": "宋祖儿转了新华社发文",
+        "onboard_time": 1744710801,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 764615,
+        "num": 256954,
+        "word": "赵露思红发",
+        "onboard_time": 1744706603,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 711850,
+        "num": 255650,
+        "word": "景德镇车祸案被告方希望轻判",
+        "onboard_time": 1744709181,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 495312,
+        "num": 247604,
+        "word": "律师说撞死1家3口司机辩称没看清",
+        "onboard_time": 1744704562,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 99675,
+        "num": 245011,
+        "word": "伊利育儿补贴再加码",
+        "onboard_time": 1744711522,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113031,
+        "num": 238317,
+        "word": "药价也能讨价还价了",
+        "onboard_time": 1744711522,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237817,
+        "num": 237817,
+        "word": "全圆佑晒黑了",
+        "onboard_time": 1744712063,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266095,
+        "num": 234542,
+        "word": "王艺迪1比3袁嘉楠",
+        "onboard_time": 1744712063,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68391,
+        "num": 229779,
+        "word": "王曼昱vs伯格斯特隆",
+        "onboard_time": 1744713022,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228113,
+        "num": 228113,
+        "word": "网剧悬镜今日开播",
+        "onboard_time": 1744712780,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 348718,
+        "num": 227098,
+        "word": "刘强东要求京东外卖利润不高于5%",
+        "onboard_time": 1744709903,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 296502,
+        "num": 224864,
+        "word": "唐艺昕低调炫夫",
+        "onboard_time": 1744706603,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53575,
+        "num": 224416,
+        "word": "小鹏X9排面",
+        "onboard_time": 1744711522,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 267450,
+        "num": 222573,
+        "word": "葛夕称抑郁症复发加大药量",
+        "onboard_time": 1744698861,
+        "rank": 24,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 231076,
+        "num": 221129,
+        "word": "韩安冉发文力挺董明珠",
+        "onboard_time": 1744708222,
+        "rank": 25,
+        "category": "网红,互联网"
+      },
+      {
+        "raw_hot": 202249,
+        "num": 219404,
+        "word": "宋祖儿造型",
+        "onboard_time": 1744704862,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189256,
+        "num": 216909,
+        "word": "无忧渡",
+        "onboard_time": 1744713081,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119962,
+        "num": 215385,
+        "word": "徐志胜新剧恋爱吃上细糠了",
+        "onboard_time": 1744712963,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101822,
+        "num": 215000,
+        "word": "Epic说大家领了游戏不玩",
+        "onboard_time": 1744712243,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 213387,
+        "num": 213387,
+        "word": "美国有小企业主称可能6个月内破产",
+        "onboard_time": 1744711700,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 183782,
+        "num": 183782,
+        "word": "GAI都瘦脱相了",
+        "onboard_time": 1744703420,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 164462,
+        "num": 164462,
+        "word": "林允这是我认识的男人装吗",
+        "onboard_time": 1744710503,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 160545,
+        "num": 160545,
+        "word": "一家人淤泥中摸回爷爷的33克金戒指",
+        "onboard_time": 1744709002,
+        "rank": 33,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 155708,
+        "num": 155708,
+        "word": "王俊凯成都",
+        "onboard_time": 1744708821,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143372,
+        "num": 143372,
+        "word": "建议睡前30到60分钟数字戒断",
+        "onboard_time": 1744692144,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 141412,
+        "num": 141412,
+        "word": "森碟17岁生日照",
+        "onboard_time": 1744713441,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137547,
+        "num": 137547,
+        "word": "ITZY获胜",
+        "onboard_time": 1744711163,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 130098,
+        "num": 130098,
+        "word": "王者老夫子红霸狐蓝霸狐",
+        "onboard_time": 1744713022,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 24646,
+        "num": 129516,
+        "word": "顶级抗炎的生活习惯",
+        "onboard_time": 1744713081,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 129083,
+        "num": 129083,
+        "word": "官方回应三河市委主要负责人是谁",
+        "onboard_time": 1744709243,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125573,
+        "num": 125573,
+        "word": "美大豆协会主席恳求特朗普结束关税战",
+        "onboard_time": 1744706662,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 122085,
+        "num": 122085,
+        "word": "Gr对战WBG",
+        "onboard_time": 1744713322,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119495,
+        "num": 119495,
+        "word": "南海一直是国际社会公认的通用地名",
+        "onboard_time": 1744708522,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 118152,
+        "num": 118152,
+        "word": "杜华回应王怡人6年零工资",
+        "onboard_time": 1744696582,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117333,
+        "num": 117333,
+        "word": "实地探访三河市儿童医院",
+        "onboard_time": 1744713381,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115600,
+        "num": 115600,
+        "word": "2025音乐节阵容",
+        "onboard_time": 1744711822,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 114697,
+        "num": 114697,
+        "word": "悬疑剧窝囊赛道的神来了",
+        "onboard_time": 1744713803,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114807,
+        "num": 113201,
+        "word": "王楚钦说全是惊吧",
+        "onboard_time": 1744712542,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99286,
+        "num": 112816,
+        "word": "张婧仪活动生图",
+        "onboard_time": 1744705401,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见中越人民大联欢活动代表#"
+    }
+  }
+}
