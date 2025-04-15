@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744756884432,
+  "endTime": 1744759411520,
   "band_list": [
     {
       "raw_hot": 3491899,
@@ -345,6 +345,14 @@
       "onboard_time": 1744689263,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1395317,
+      "num": 1395317,
+      "word": "美国被曝要去深海非法挖稀土",
+      "onboard_time": 1744735158,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1378715,
@@ -715,6 +723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 971139,
+      "num": 193399,
+      "word": "玫瑰",
+      "onboard_time": 1744736777,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 970148,
       "num": 425911,
       "word": "心疼李昊",
@@ -849,14 +865,6 @@
       "onboard_time": 1744634662,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 895716,
-      "num": 371675,
-      "word": "美国被曝要去深海非法挖稀土",
-      "onboard_time": 1744735158,
-      "rank": 28,
-      "category": "国际时政"
     },
     {
       "raw_hot": 895097,
@@ -1091,6 +1099,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 776710,
+      "num": 776710,
+      "word": "超市闭店清仓500多辆购物车丢失",
+      "onboard_time": 1744736298,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 775698,
       "num": 1124111,
       "word": "悬赏通缉3名美国特工",
@@ -1161,14 +1177,6 @@
       "onboard_time": 1744703420,
       "rank": 11,
       "category": "演出"
-    },
-    {
-      "raw_hot": 728447,
-      "num": 138142,
-      "word": "玫瑰",
-      "onboard_time": 1744736777,
-      "rank": 11,
-      "category": "网红"
     },
     {
       "raw_hot": 727259,
@@ -1803,6 +1811,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 494805,
+      "num": 192863,
+      "word": "丈夫怒怼网友有子宫就有资格做母亲",
+      "onboard_time": 1744732401,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 492903,
       "num": 492903,
       "word": "奥斯卡影帝把中国龙穿在身",
@@ -1840,14 +1856,6 @@
       "word": "任教31年临退休遭解聘教师发声",
       "onboard_time": 1744529780,
       "rank": 11,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 484646,
-      "num": 345677,
-      "word": "超市闭店清仓500多辆购物车丢失",
-      "onboard_time": 1744736298,
-      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -2193,6 +2201,14 @@
       "onboard_time": 1744443084,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 402628,
+      "num": 402628,
+      "word": "家具厂女员工拒绝向普京透露工资",
+      "onboard_time": 1744732401,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 402304,
@@ -2699,14 +2715,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 312153,
-      "num": 151150,
-      "word": "丈夫怒怼网友有子宫就有资格做母亲",
-      "onboard_time": 1744732401,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 311028,
       "num": 311028,
       "word": "美国屡次打击香港只会反噬其身",
@@ -3187,6 +3195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 253653,
+      "num": 141887,
+      "word": "空腹断食12小时的变化",
+      "onboard_time": 1744758920,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 252114,
       "num": 252114,
       "word": "时代少年团太原演唱会官方回复",
@@ -3401,6 +3417,14 @@
       "onboard_time": 1744689682,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 238989,
+      "num": 315595,
+      "word": "遍地高仿货minmin背刺多少消费者",
+      "onboard_time": 1744723702,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 237943,
@@ -3777,14 +3801,6 @@
       "onboard_time": 1744612523,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 216648,
-      "num": 216648,
-      "word": "家具厂女员工拒绝向普京透露工资",
-      "onboard_time": 1744732401,
-      "rank": 38,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 216090,
@@ -4243,6 +4259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 204960,
+      "num": 204960,
+      "word": "这5类电话打进来直接挂断",
+      "onboard_time": 1744732341,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 204666,
       "num": 204666,
       "word": "Like Jennie",
@@ -4617,6 +4641,14 @@
       "onboard_time": 1744644503,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 194259,
+      "num": 194259,
+      "word": "湖北荆州市委书记任上被查",
+      "onboard_time": 1744736298,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 194257,
@@ -5003,14 +5035,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 184124,
-      "num": 315595,
-      "word": "遍地高仿货minmin背刺多少消费者",
-      "onboard_time": 1744723702,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 184020,
       "num": 184020,
       "word": "王楚钦世界杯首战对阵萨琳",
@@ -5257,6 +5281,14 @@
       "onboard_time": 1744600700,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 179244,
+      "num": 179244,
+      "word": "全网都在问肖战来武汉干啥",
+      "onboard_time": 1744739596,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 179231,
@@ -6139,14 +6171,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 156507,
-      "num": 156507,
-      "word": "湖北荆州市委书记任上被查",
-      "onboard_time": 1744736298,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 156369,
       "num": 156369,
       "word": "男子怕被妻子发现喝酒从18楼扔下酒瓶",
@@ -6819,14 +6843,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 141225,
-      "num": 120756,
-      "word": "全网都在问肖战来武汉干啥",
-      "onboard_time": 1744739596,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 141097,
       "num": 141097,
       "word": "山东文旅发了蔡徐坤",
@@ -7409,14 +7425,6 @@
       "onboard_time": 1744557504,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 130469,
-      "num": 130469,
-      "word": "这5类电话打进来直接挂断",
-      "onboard_time": 1744732341,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 130421,
@@ -8539,6 +8547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109460,
+      "num": 109460,
+      "word": "西安回应网友建议学校取消用电子屏",
+      "onboard_time": 1744736238,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109441,
       "num": 109441,
       "word": "神十九航天员快回地球了",
@@ -8761,6 +8777,14 @@
       "onboard_time": 1744545681,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 103005,
+      "num": 103005,
+      "word": "赵露思特别近的生图",
+      "onboard_time": 1744740794,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 102701,
@@ -9291,6 +9315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 83953,
+      "num": 115260,
+      "word": "沪指转涨",
+      "onboard_time": 1744758920,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 83791,
       "num": 83791,
       "word": "女子做面部提拉手术心脏骤停家属发声",
@@ -9441,14 +9473,6 @@
       "onboard_time": 1744637543,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 77893,
-      "num": 108062,
-      "word": "西安回应网友建议学校取消用电子屏",
-      "onboard_time": 1744736238,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 77585,
@@ -9611,6 +9635,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 71479,
+      "num": 71479,
+      "word": "让美国乡巴佬在中华悠久历史前哀鸣",
+      "onboard_time": 1744743254,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 70067,
       "num": 391292,
       "word": "河南66个大风预警信号生效中",
@@ -9633,6 +9665,14 @@
       "onboard_time": 1744704501,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 69559,
+      "num": 103053,
+      "word": "宋祖儿把半夏的眼睛借给大家",
+      "onboard_time": 1744756937,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 69004,
@@ -9753,14 +9793,6 @@
       "onboard_time": 1744647021,
       "rank": 44,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 65384,
-      "num": 65384,
-      "word": "赵露思特别近的生图",
-      "onboard_time": 1744740794,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 65313,
@@ -9889,6 +9921,14 @@
       "onboard_time": 1744487355,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58613,
+      "num": 58613,
+      "word": "韩国公交女司机救中国留学生",
+      "onboard_time": 1744741814,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 58344,
@@ -10235,6 +10275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 42877,
+      "num": 58592,
+      "word": "杜华说陈昕葳投入比王怡人更大",
+      "onboard_time": 1744758199,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 42836,
       "num": 262261,
       "word": "孙颖莎说第一场比赛很投入",
@@ -10459,14 +10507,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 38290,
-      "num": 49977,
-      "word": "让美国乡巴佬在中华悠久历史前哀鸣",
-      "onboard_time": 1744743254,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 38014,
       "num": 46239,
       "word": "荣耀之战",
@@ -10545,6 +10585,14 @@
       "onboard_time": 1744586539,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 35002,
+      "num": 58589,
+      "word": "人人人白牡丹人人人",
+      "onboard_time": 1744758619,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 34708,
@@ -10713,14 +10761,6 @@
       "onboard_time": 1744691422,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28278,
-      "num": 33166,
-      "word": "韩国公交女司机救中国留学生",
-      "onboard_time": 1744741814,
-      "rank": 48,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 27518,
