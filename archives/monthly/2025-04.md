@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/16 06:24:13
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/16 06:41:24
 </p>
 </blockquote>
 <p>
@@ -3051,6 +3051,12 @@ SM新男团 撞名（热度：910464）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%A2%AB%E6%9B%9D%E8%A6%81%E5%8E%BB%E6%B7%B1%E6%B5%B7%E9%9D%9E%E6%B3%95%E6%8C%96%E7%A8%80%E5%9C%9F%23" target="weibo">
+美国被曝要去深海非法挖稀土（热度：895716）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%B4%E8%BF%91%E9%80%80%E4%BC%91%E9%81%AD%E8%A7%A3%E8%81%98%E8%80%81%E5%B8%88%E9%80%80%E4%BC%91%E5%89%8D%E5%B7%A5%E8%B5%842000%23" target="weibo">
 临近退休遭解聘老师退休前工资2000（热度：895097）
 </a>
@@ -4041,6 +4047,12 @@ GAI都瘦脱相了（热度：737143）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%AB%E7%91%B0%23" target="weibo">
+玫瑰（热度：728447）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23smoggy%E5%8F%91%E5%8D%9A%23" target="weibo">
 smoggy发博（热度：727259）
 </a>
@@ -4079,12 +4091,6 @@ TVB男演员陈键锋学厨以第一名毕业（热度：726197）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%B9%E9%94%A1%E6%82%A6%E5%BC%B9%E5%8A%BE%E6%A1%88%E5%AE%A3%E5%88%A4%23" target="weibo">
 尹锡悦弹劾案宣判（热度：722608）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%AB%E7%91%B0%23" target="weibo">
-玫瑰（热度：721689）
 </a>
 </li>
 
@@ -4763,12 +4769,6 @@ Prada正式收购范思哲（热度：644741）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E5%8D%8E%E6%99%92%E4%B8%8E%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%90%88%E7%85%A7%23" target="weibo">
 杜华晒与赵丽颖合照（热度：633645）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%A2%AB%E6%9B%9D%E8%A6%81%E5%8E%BB%E6%B7%B1%E6%B5%B7%E9%9D%9E%E6%B3%95%E6%8C%96%E7%A8%80%E5%9C%9F%23" target="weibo">
-美国被曝要去深海非法挖稀土（热度：633320）
 </a>
 </li>
 
