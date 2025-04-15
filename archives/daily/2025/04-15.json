@@ -1,14 +1,22 @@
 {
   "startTime": 1744648272763,
-  "endTime": 1744686566461,
+  "endTime": 1744687587475,
   "band_list": [
     {
-      "raw_hot": 1759922,
+      "raw_hot": 1793983,
       "num": 1107723,
       "word": "三河市委主要负责人被免职",
       "onboard_time": 1744684462,
       "rank": 1,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 1560729,
+      "num": 372703,
+      "word": "还以为殉情只是古老传言",
+      "onboard_time": 1744686801,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 1544552,
@@ -19,8 +27,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1281095,
-      "num": 944996,
+      "raw_hot": 1354399,
+      "num": 1011389,
       "word": "巴西取代美国成中国最大的大豆供应国",
       "onboard_time": 1744684340,
       "rank": 3,
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 1279124,
-      "num": 912487,
+      "num": 983474,
       "word": "廊坊通报三河广告牌匾禁用红蓝黑",
       "onboard_time": 1744683321,
       "rank": 30,
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 1112333,
-      "num": 396471,
+      "num": 402499,
       "word": "415 TFBOYS",
       "onboard_time": 1744677204,
       "rank": 10,
@@ -65,6 +73,14 @@
       "onboard_time": 1744646001,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 925151,
+      "num": 925151,
+      "word": "沈腾加入流浪地球3",
+      "onboard_time": 1744685482,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 919087,
@@ -203,14 +219,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 488140,
-      "num": 488140,
-      "word": "沈腾加入流浪地球3",
-      "onboard_time": 1744685482,
-      "rank": 12,
-      "category": "电影"
-    },
-    {
       "raw_hot": 466016,
       "num": 276147,
       "word": "Jennie女王",
@@ -243,12 +251,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 449664,
+      "num": 449664,
+      "word": "夫妇遇害前叫醒熟睡两女儿躲过一劫",
+      "onboard_time": 1744686381,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 444191,
       "num": 270666,
       "word": "TFBOYS曾坐地铁赶通告",
       "onboard_time": 1744646363,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 437684,
+      "num": 437684,
+      "word": "景德镇车祸司机撞人前0.4秒才打方向",
+      "onboard_time": 1744686081,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 436792,
@@ -291,6 +315,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 380309,
+      "num": 423770,
+      "word": "crocs 白鹿",
+      "onboard_time": 1744685361,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 370646,
       "num": 309743,
       "word": "减肥效果最好的室内运动",
@@ -323,8 +355,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 330745,
-      "num": 330745,
+      "raw_hot": 330881,
+      "num": 330881,
       "word": "金善旴长文道歉",
       "onboard_time": 1744683862,
       "rank": 16,
@@ -337,6 +369,14 @@
       "onboard_time": 1744673901,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 326862,
+      "num": 406458,
+      "word": "电影永不失联的爱定档",
+      "onboard_time": 1744686621,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 318859,
@@ -427,14 +467,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 243593,
-      "num": 243593,
-      "word": "crocs 白鹿",
-      "onboard_time": 1744685361,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 230345,
       "num": 230345,
       "word": "戴牙套五年后牙齿还是反弹了",
@@ -465,6 +497,14 @@
       "onboard_time": 1744681040,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206285,
+      "num": 206285,
+      "word": "灿如繁星开机",
+      "onboard_time": 1744686440,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 203579,
@@ -507,6 +547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192990,
+      "num": 184669,
+      "word": "虞书欣抹胸花朵裙",
+      "onboard_time": 1744686381,
+      "rank": 42,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 192094,
       "num": 192094,
       "word": "smoggy发博",
@@ -521,6 +569,14 @@
       "onboard_time": 1744644022,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189962,
+      "num": 189962,
+      "word": "借命而生定档",
+      "onboard_time": 1744687101,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 187044,
@@ -544,6 +600,14 @@
       "word": "simon",
       "onboard_time": 1744673059,
       "rank": 22,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 176448,
+      "num": 176448,
+      "word": "Icon怒喷乐言",
+      "onboard_time": 1744686321,
+      "rank": 41,
       "category": "电竞"
     },
     {
@@ -571,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173975,
+      "num": 173975,
+      "word": "美团闪购疑似嘲讽京东",
+      "onboard_time": 1744686261,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 172077,
       "num": 172077,
       "word": "发现美国特工线索拨打0451110",
@@ -587,12 +659,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 170643,
-      "num": 170643,
-      "word": "美团闪购疑似嘲讽京东",
-      "onboard_time": 1744686261,
-      "rank": 31,
-      "category": "互联网"
+      "raw_hot": 168356,
+      "num": 168356,
+      "word": "流浪地球3",
+      "onboard_time": 1744684942,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 164276,
+      "num": 164276,
+      "word": "看捉妖剧就是为了看这种场面啊",
+      "onboard_time": 1744686921,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 159153,
@@ -651,14 +731,6 @@
       "category": "财经,国际时政"
     },
     {
-      "raw_hot": 153417,
-      "num": 153417,
-      "word": "夫妇遇害前叫醒熟睡两女儿躲过一劫",
-      "onboard_time": 1744686381,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 150034,
       "num": 172546,
       "word": "驻日大使馆提醒注意防范地震",
@@ -683,6 +755,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 145110,
+      "num": 145110,
+      "word": "时代少年团特权码",
+      "onboard_time": 1744687220,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 144603,
       "num": 144603,
       "word": "原生家庭最容易发生的打压",
@@ -691,12 +771,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 141235,
-      "num": 141235,
-      "word": "流浪地球3",
-      "onboard_time": 1744684942,
-      "rank": 39,
-      "category": "电影"
+      "raw_hot": 140477,
+      "num": 140477,
+      "word": "鸿蒙智行发起全民出行安全倡议",
+      "onboard_time": 1744686621,
+      "rank": 45,
+      "category": "汽车"
     },
     {
       "raw_hot": 140047,
@@ -705,22 +785,6 @@
       "onboard_time": 1744676242,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 138936,
-      "num": 138936,
-      "word": "Icon怒喷乐言",
-      "onboard_time": 1744686321,
-      "rank": 41,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 138317,
-      "num": 138317,
-      "word": "虞书欣抹胸花朵裙",
-      "onboard_time": 1744686381,
-      "rank": 42,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 138016,
@@ -737,6 +801,14 @@
       "onboard_time": 1744680262,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 134647,
+      "num": 185735,
+      "word": "体脂率是身体最诚实的胖瘦指标",
+      "onboard_time": 1744685602,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 134442,
@@ -787,16 +859,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 127725,
-      "num": 127725,
-      "word": "灿如繁星开机",
-      "onboard_time": 1744686440,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 127185,
-      "num": 127185,
+      "num": 267956,
       "word": "郑钦文长裙出海照",
       "onboard_time": 1744682241,
       "rank": 44,
@@ -817,14 +881,6 @@
       "onboard_time": 1744683142,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 126532,
-      "num": 185735,
-      "word": "体脂率是身体最诚实的胖瘦指标",
-      "onboard_time": 1744685602,
-      "rank": 29,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 126177,
@@ -883,6 +939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115016,
+      "num": 145112,
+      "word": "中医人眼中的肿瘤防治",
+      "onboard_time": 1744687521,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 111234,
       "num": 111234,
       "word": "美社保署将6000多移民标为死亡",
@@ -897,6 +961,14 @@
       "onboard_time": 1744670419,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 109554,
+      "num": 481658,
+      "word": "澳牛肉将填补美国牛肉出口",
+      "onboard_time": 1744686680,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 108828,
@@ -956,7 +1028,7 @@
     },
     {
       "raw_hot": 93411,
-      "num": 321642,
+      "num": 404044,
       "word": "旅游途中被河南国补圈粉",
       "onboard_time": 1744684401,
       "rank": 18,
@@ -1091,6 +1163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60313,
+      "num": 158646,
+      "word": "一家被撞身亡案被告只认交通肇事",
+      "onboard_time": 1744687462,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58397,
       "num": 60986,
       "word": "球球 工作不是儿戏",
@@ -1108,7 +1188,7 @@
     },
     {
       "raw_hot": 47215,
-      "num": 1010909,
+      "num": 1018160,
       "word": "一图看懂中越友谊",
       "onboard_time": 1744637904,
       "rank": 2,
@@ -1201,14 +1281,6 @@
       "onboard_time": 1744654334,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 22712,
-      "num": 320358,
-      "word": "景德镇车祸司机撞人前0.4秒才打方向",
-      "onboard_time": 1744686081,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 22447,
