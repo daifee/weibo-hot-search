@@ -1,14 +1,38 @@
 {
   "startTime": 1744648272763,
-  "endTime": 1744683426561,
+  "endTime": 1744686566461,
   "band_list": [
     {
+      "raw_hot": 1759922,
+      "num": 1107723,
+      "word": "三河市委主要负责人被免职",
+      "onboard_time": 1744684462,
+      "rank": 1,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 1544552,
-      "num": 316280,
+      "num": 508066,
       "word": "高中男教师被举报与女学生发生关系",
       "onboard_time": 1744680981,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1281095,
+      "num": 944996,
+      "word": "巴西取代美国成中国最大的大豆供应国",
+      "onboard_time": 1744684340,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 1279124,
+      "num": 912487,
+      "word": "廊坊通报三河广告牌匾禁用红蓝黑",
+      "onboard_time": 1744683321,
+      "rank": 30,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 1154964,
@@ -28,7 +52,7 @@
     },
     {
       "raw_hot": 1112333,
-      "num": 316822,
+      "num": 396471,
       "word": "415 TFBOYS",
       "onboard_time": 1744677204,
       "rank": 10,
@@ -36,7 +60,7 @@
     },
     {
       "raw_hot": 1047431,
-      "num": 314556,
+      "num": 328283,
       "word": "路过围观人群竟是儿子儿媳孙子被撞亡",
       "onboard_time": 1744646001,
       "rank": 10,
@@ -91,6 +115,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 777147,
+      "num": 777147,
+      "word": "黄金",
+      "onboard_time": 1744682001,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 752130,
+      "num": 1120340,
+      "word": "悬赏通缉3名美国特工",
+      "onboard_time": 1744679662,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 695710,
       "num": 127300,
       "word": "特朗普政府大规模撤销学签",
@@ -116,15 +156,23 @@
     },
     {
       "raw_hot": 626898,
-      "num": 246828,
+      "num": 273878,
       "word": "上海799一位的自助餐厅卷款跑路",
       "onboard_time": 1744680981,
       "rank": 20,
       "category": "民生新闻"
     },
     {
+      "raw_hot": 621651,
+      "num": 621651,
+      "word": "流浪地球3开机",
+      "onboard_time": 1744682721,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 607028,
-      "num": 242973,
+      "num": 320000,
       "word": "医生说猝死的年轻人通常有6个共性",
       "onboard_time": 1744679422,
       "rank": 21,
@@ -139,6 +187,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 532486,
+      "num": 532486,
+      "word": "美国人吐槽所有东西都在涨价",
+      "onboard_time": 1744680082,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 495195,
       "num": 495195,
       "word": "美债巨震",
@@ -147,12 +203,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 484971,
-      "num": 484971,
-      "word": "美国人吐槽所有东西都在涨价",
-      "onboard_time": 1744680082,
-      "rank": 19,
-      "category": "国际时政"
+      "raw_hot": 488140,
+      "num": 488140,
+      "word": "沈腾加入流浪地球3",
+      "onboard_time": 1744685482,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 466016,
@@ -161,6 +217,14 @@
       "onboard_time": 1744636162,
       "rank": 12,
       "category": "演出"
+    },
+    {
+      "raw_hot": 456506,
+      "num": 456506,
+      "word": "某部委员工主动向间谍发送投靠邮件",
+      "onboard_time": 1744682841,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 455883,
@@ -259,6 +323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 330745,
+      "num": 330745,
+      "word": "金善旴长文道歉",
+      "onboard_time": 1744683862,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 330588,
       "num": 330588,
       "word": "国色芳华2过审",
@@ -307,14 +379,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 287986,
-      "num": 287986,
-      "word": "黄金",
-      "onboard_time": 1744682001,
-      "rank": 34,
-      "category": "财经"
-    },
-    {
       "raw_hot": 286462,
       "num": 286462,
       "word": "Simon事件",
@@ -337,14 +401,6 @@
       "onboard_time": 1744681341,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 267550,
-      "num": 267550,
-      "word": "流浪地球3开机",
-      "onboard_time": 1744682721,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 264375,
@@ -371,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 243593,
+      "num": 243593,
+      "word": "crocs 白鹿",
+      "onboard_time": 1744685361,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 230345,
       "num": 230345,
       "word": "戴牙套五年后牙齿还是反弹了",
@@ -385,6 +449,14 @@
       "onboard_time": 1744650797,
       "rank": 3,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 211246,
+      "num": 211246,
+      "word": "林孝埈安踏品牌代言人",
+      "onboard_time": 1744686081,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 210534,
@@ -403,6 +475,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 202109,
+      "num": 202109,
+      "word": "折腰",
+      "onboard_time": 1744624041,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201707,
       "num": 201707,
       "word": "MadeinChina的含金量还在上升",
@@ -417,6 +497,14 @@
       "onboard_time": 1744674921,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 195250,
+      "num": 195250,
+      "word": "虞书欣陈靖可新剧开机应援",
+      "onboard_time": 1744685182,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 192094,
@@ -441,6 +529,14 @@
       "onboard_time": 1744666993,
       "rank": 13,
       "category": "国际时政,国际时政"
+    },
+    {
+      "raw_hot": 182861,
+      "num": 182861,
+      "word": "奔跑吧西安录制",
+      "onboard_time": 1744685182,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 181938,
@@ -491,6 +587,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 170643,
+      "num": 170643,
+      "word": "美团闪购疑似嘲讽京东",
+      "onboard_time": 1744686261,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 159153,
+      "num": 158238,
+      "word": "王鹤棣素颜录音",
+      "onboard_time": 1744685900,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157288,
       "num": 182628,
       "word": "美国代号S部门网络攻击亚冬会",
@@ -507,6 +619,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 155952,
+      "num": 155952,
+      "word": "人没事就好 香坏了吧",
+      "onboard_time": 1744685541,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 155939,
       "num": 155939,
       "word": "美商务部长称芯片必须在美制造",
@@ -515,12 +635,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 154031,
+      "num": 154031,
+      "word": "养小猫最好玩的时期",
+      "onboard_time": 1744685661,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 154024,
       "num": 154024,
       "word": "澳大利亚对中国的牛肉出口大幅增加",
       "onboard_time": 1744682061,
       "rank": 48,
       "category": "财经,国际时政"
+    },
+    {
+      "raw_hot": 153417,
+      "num": 153417,
+      "word": "夫妇遇害前叫醒熟睡两女儿躲过一劫",
+      "onboard_time": 1744686381,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150034,
@@ -555,12 +691,36 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 141235,
+      "num": 141235,
+      "word": "流浪地球3",
+      "onboard_time": 1744684942,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 140047,
       "num": 140047,
       "word": "HBO剧版哈利波特主演",
       "onboard_time": 1744676242,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138936,
+      "num": 138936,
+      "word": "Icon怒喷乐言",
+      "onboard_time": 1744686321,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 138317,
+      "num": 138317,
+      "word": "虞书欣抹胸花朵裙",
+      "onboard_time": 1744686381,
+      "rank": 42,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 138016,
@@ -603,12 +763,36 @@
       "category": "财经"
     },
     {
+      "raw_hot": 132309,
+      "num": 132309,
+      "word": "第五人格",
+      "onboard_time": 1744683021,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 129160,
+      "num": 129160,
+      "word": "奔跑吧",
+      "onboard_time": 1744684761,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127978,
       "num": 127978,
       "word": "现货黄金跌破3200美元",
       "onboard_time": 1744676664,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 127725,
+      "num": 127725,
+      "word": "灿如繁星开机",
+      "onboard_time": 1744686440,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 127185,
@@ -619,12 +803,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127136,
+      "num": 127136,
+      "word": "陶喆新专",
+      "onboard_time": 1744683321,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 126966,
       "num": 126966,
       "word": "金冬天表情管理",
       "onboard_time": 1744683142,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126532,
+      "num": 185735,
+      "word": "体脂率是身体最诚实的胖瘦指标",
+      "onboard_time": 1744685602,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 126177,
+      "num": 126177,
+      "word": "国漫黄金十年",
+      "onboard_time": 1744686020,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 125555,
@@ -659,20 +867,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 118743,
+      "num": 508489,
+      "word": "绵绵的羊暂未回应",
+      "onboard_time": 1744684161,
+      "rank": 9,
+      "category": "网红"
+    },
+    {
       "raw_hot": 117715,
       "num": 117715,
       "word": "福宝和邻居成了好朋友",
       "onboard_time": 1744676602,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 116324,
-      "num": 116324,
-      "word": "陶喆新专",
-      "onboard_time": 1744683321,
-      "rank": 47,
-      "category": "音乐"
     },
     {
       "raw_hot": 111234,
@@ -747,6 +955,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 93411,
+      "num": 321642,
+      "word": "旅游途中被河南国补圈粉",
+      "onboard_time": 1744684401,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91849,
       "num": 91849,
       "word": "人类的肠道被设计的有多敏感",
@@ -811,14 +1027,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 77036,
-      "num": 77036,
-      "word": "折腰",
-      "onboard_time": 1744624041,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 74094,
       "num": 272272,
       "word": "一季度我国货物贸易进出口总值同比增长1.3%",
@@ -843,14 +1051,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 68462,
-      "num": 169507,
-      "word": "廊坊通报三河广告牌匾禁用红蓝黑",
-      "onboard_time": 1744683321,
-      "rank": 30,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 66453,
       "num": 547713,
       "word": "我国与东盟贸易互补不断增强",
@@ -873,14 +1073,6 @@
       "onboard_time": 1744673421,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 62284,
-      "num": 293806,
-      "word": "某部委员工主动向间谍发送投靠邮件",
-      "onboard_time": 1744682841,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 61740,
@@ -916,7 +1108,7 @@
     },
     {
       "raw_hot": 47215,
-      "num": 822939,
+      "num": 1010909,
       "word": "一图看懂中越友谊",
       "onboard_time": 1744637904,
       "rank": 2,
@@ -1009,6 +1201,14 @@
       "onboard_time": 1744654334,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 22712,
+      "num": 320358,
+      "word": "景德镇车祸司机撞人前0.4秒才打方向",
+      "onboard_time": 1744686081,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22447,
