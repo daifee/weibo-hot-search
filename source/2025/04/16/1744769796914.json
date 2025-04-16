@@ -1,0 +1,410 @@
+{
+  "runTime": 1744769796914,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 725625,
+        "num": 1116100,
+        "word": "拜登公开抨击特朗普",
+        "onboard_time": 1744768041,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 436309,
+        "num": 436309,
+        "word": "美国被曝要去深海非法挖稀土",
+        "onboard_time": 1744735158,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 34374,
+        "num": 423263,
+        "word": "反网络霸权网警在行动",
+        "onboard_time": 1744725623,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 414623,
+        "num": 414623,
+        "word": "张凌赫和替身走戏",
+        "onboard_time": 1744766303,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 343095,
+        "num": 343095,
+        "word": "金价",
+        "onboard_time": 1744765283,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 316112,
+        "num": 316112,
+        "word": "北京一大学生获得重大贡献奖励",
+        "onboard_time": 1744760480,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246970,
+        "num": 246970,
+        "word": "明天可买五一当天火车票",
+        "onboard_time": 1744768161,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240518,
+        "num": 240518,
+        "word": "这5类电话打进来直接挂断",
+        "onboard_time": 1744732341,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197844,
+        "num": 239951,
+        "word": "折腰没播",
+        "onboard_time": 1744728144,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239652,
+        "num": 239652,
+        "word": "超市闭店清仓500多辆购物车丢失",
+        "onboard_time": 1744736298,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1984270,
+        "num": 236139,
+        "word": "12306崩了",
+        "onboard_time": 1744766002,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1862675,
+        "num": 230651,
+        "word": "特朗普凌晨2点开记者会折磨媒体",
+        "onboard_time": 1744764503,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1231887,
+        "num": 227767,
+        "word": "小猫悟空去世",
+        "onboard_time": 1744759579,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 668221,
+        "num": 222106,
+        "word": "我的存款已经足够下半辈子不吃不喝了",
+        "onboard_time": 1744767741,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 607171,
+        "num": 219786,
+        "word": "花1400打独享顺风车拼了7个人",
+        "onboard_time": 1744765221,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217130,
+        "num": 217130,
+        "word": "美企更可能寻找低关税国家布局",
+        "onboard_time": 1744764503,
+        "rank": 15,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 192585,
+        "num": 192585,
+        "word": "易烊千玺感谢新华社邀请",
+        "onboard_time": 1744769002,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185100,
+        "num": 185100,
+        "word": "赵朔 悟空",
+        "onboard_time": 1744759579,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 184077,
+        "num": 184077,
+        "word": "李昊怎么了",
+        "onboard_time": 1744727603,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176460,
+        "num": 176460,
+        "word": "与君歌",
+        "onboard_time": 1744768761,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 474407,
+        "num": 170111,
+        "word": "2名中国公民罗马遇害",
+        "onboard_time": 1744764082,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 393794,
+        "num": 167540,
+        "word": "26岁小伙被大9岁已婚女子骗婚",
+        "onboard_time": 1744764503,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214140,
+        "num": 165768,
+        "word": "空腹断食12小时的变化",
+        "onboard_time": 1744758920,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161339,
+        "num": 161339,
+        "word": "体重控制不了可能与姿态有关",
+        "onboard_time": 1744759700,
+        "rank": 23,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 60587,
+        "num": 160996,
+        "word": "独行侠不后悔交易东契奇",
+        "onboard_time": 1744765943,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160744,
+        "num": 160744,
+        "word": "春天的花一波又一波上新",
+        "onboard_time": 1744763723,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151492,
+        "num": 151492,
+        "word": "29岁女生不停运动6个月后",
+        "onboard_time": 1744720583,
+        "rank": 26,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 146383,
+        "num": 146383,
+        "word": "与君歌是张予曦第一部古偶女主剧",
+        "onboard_time": 1744764382,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122857,
+        "num": 146299,
+        "word": "肖战藏海传央八上星",
+        "onboard_time": 1744767382,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93499,
+        "num": 146017,
+        "word": "江苏发布最新癌情信息",
+        "onboard_time": 1744769423,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 3076699,
+        "num": 145690,
+        "word": "订婚强奸案二审驳回上诉",
+        "onboard_time": 1744769062,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 281879,
+        "num": 145255,
+        "word": "她差点拍到了自己的死亡",
+        "onboard_time": 1744769182,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 52116,
+        "num": 145145,
+        "word": "韩国警方搜查总统府",
+        "onboard_time": 1744769662,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 163390,
+        "num": 144852,
+        "word": "订婚强奸案",
+        "onboard_time": 1744769782,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144613,
+        "num": 144613,
+        "word": "男子吃药只喝一口水致食管被药腐蚀",
+        "onboard_time": 1744761621,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143599,
+        "num": 143599,
+        "word": "我国抢占地月空间探索制高点",
+        "onboard_time": 1744764022,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 131695,
+        "num": 131695,
+        "word": "江西超1500年树龄银杏树倒塌",
+        "onboard_time": 1744764323,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123001,
+        "num": 123001,
+        "word": "全球首次半机械蟑螂参与地震救援",
+        "onboard_time": 1744768641,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122995,
+        "num": 122995,
+        "word": "遍地高仿货minmin背刺多少消费者",
+        "onboard_time": 1744723702,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116120,
+        "num": 122340,
+        "word": "任敏此沙二搭",
+        "onboard_time": 1744769722,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72332,
+        "num": 122296,
+        "word": "驻意使馆回应2名中国公民罗马遇害",
+        "onboard_time": 1744767802,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 122254,
+        "num": 122254,
+        "word": "中国稀土管制扼住美军工命脉",
+        "onboard_time": 1744733001,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 121487,
+        "num": 121487,
+        "word": "他以身入局把13岁健全的女儿捆在身上",
+        "onboard_time": 1744726223,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 94487,
+        "num": 121445,
+        "word": "张予曦离开欢瑞",
+        "onboard_time": 1744725564,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121430,
+        "num": 121430,
+        "word": "37岁的朱一龙",
+        "onboard_time": 1744767262,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121344,
+        "num": 121344,
+        "word": "朱一龙37岁作品实绩",
+        "onboard_time": 1744765822,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116699,
+        "num": 116699,
+        "word": "吃红肉 不痛经",
+        "onboard_time": 1744768761,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115085,
+        "num": 115085,
+        "word": "沈小婷跺脚变装",
+        "onboard_time": 1744766123,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112930,
+        "num": 112930,
+        "word": "10只蟑螂背特制相机包参与地震救援",
+        "onboard_time": 1744768882,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112253,
+        "num": 112253,
+        "word": "减脂期没戴眼镜",
+        "onboard_time": 1744765881,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#中马两国传统友谊绵延千年#"
+    }
+  }
+}
