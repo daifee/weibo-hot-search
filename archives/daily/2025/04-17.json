@@ -1,6 +1,6 @@
 {
   "startTime": 1744821103506,
-  "endTime": 1744832172192,
+  "endTime": 1744835265159,
   "band_list": [
     {
       "raw_hot": 874042,
@@ -515,6 +515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 18760,
+      "num": 18760,
+      "word": "崔乐北电表演专业第一",
+      "onboard_time": 1744832294,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 17688,
       "num": 61381,
       "word": "中柬铁杆友谊",
@@ -539,6 +547,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 16477,
+      "num": 16594,
+      "word": "女子遭前男友烧残生活仍不能自理",
+      "onboard_time": 1744831814,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14796,
       "num": 16598,
       "word": "无限超越班",
@@ -547,15 +563,15 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 13295,
-      "num": 16594,
-      "word": "女子遭前男友烧残生活仍不能自理",
-      "onboard_time": 1744831814,
-      "rank": 49,
-      "category": "民生新闻"
+      "raw_hot": 13229,
+      "num": 16379,
+      "word": "我国首次验证用卫星跟踪卫星",
+      "onboard_time": 1744833193,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
-      "raw_hot": 10110,
+      "raw_hot": 12217,
       "num": 29674,
       "word": "美方无所不用其极搞监控窃密攻击",
       "onboard_time": 1744831395,
