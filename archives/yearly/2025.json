@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1744769796914,
+  "endTime": 1744772943224,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -905,6 +905,14 @@
       "onboard_time": 1742052569,
       "rank": 20,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 5681455,
+      "num": 5681455,
+      "word": "订婚强奸案二审驳回上诉",
+      "onboard_time": 1744769062,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 5557391,
@@ -2129,14 +2137,6 @@
       "onboard_time": 1736295803,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3076699,
-      "num": 145690,
-      "word": "订婚强奸案二审驳回上诉",
-      "onboard_time": 1744769062,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 3068014,
