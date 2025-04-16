@@ -1,6 +1,6 @@
 {
   "startTime": 1744734585432,
-  "endTime": 1744788274382,
+  "endTime": 1744789095745,
   "band_list": [
     {
       "raw_hot": 10606514,
@@ -108,11 +108,19 @@
     },
     {
       "raw_hot": 1082767,
-      "num": 173196,
+      "num": 187429,
       "word": "破除订婚就有性权利的错误观念",
       "onboard_time": 1744782321,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1042827,
+      "num": 306699,
+      "word": "主播靠暴食和擦边表演卖爆减肥产品",
+      "onboard_time": 1744784182,
+      "rank": 28,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 971139,
@@ -121,14 +129,6 @@
       "onboard_time": 1744736777,
       "rank": 11,
       "category": "网红"
-    },
-    {
-      "raw_hot": 851713,
-      "num": 306699,
-      "word": "主播靠暴食和擦边表演卖爆减肥产品",
-      "onboard_time": 1744784182,
-      "rank": 28,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 843489,
@@ -187,6 +187,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 697248,
+      "num": 306116,
+      "word": "网红小猫悟空主人已谅解车主",
+      "onboard_time": 1744785921,
+      "rank": 44,
+      "category": "网红"
+    },
+    {
       "raw_hot": 687744,
       "num": 387485,
       "word": "马頔怎么了",
@@ -232,14 +240,6 @@
       "word": "心疼川川",
       "onboard_time": 1744730303,
       "rank": 11,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 635558,
-      "num": 306116,
-      "word": "网红小猫悟空主人已谅解车主",
-      "onboard_time": 1744785921,
-      "rank": 44,
       "category": "网红"
     },
     {
@@ -299,6 +299,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 512257,
+      "num": 187413,
+      "word": "订婚强奸案男子坐牢近2年其父拒和解",
+      "onboard_time": 1744786462,
+      "rank": 36,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 511092,
       "num": 228651,
       "word": "她差点拍到了自己的死亡",
@@ -313,6 +321,14 @@
       "onboard_time": 1744765283,
       "rank": 8,
       "category": "财经"
+    },
+    {
+      "raw_hot": 493992,
+      "num": 287465,
+      "word": "基因相似度0%意味着什么",
+      "onboard_time": 1744787001,
+      "rank": 33,
+      "category": "读书作家"
     },
     {
       "raw_hot": 479854,
@@ -353,6 +369,14 @@
       "onboard_time": 1744778665,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 439198,
+      "num": 439198,
+      "word": "哈啰回应1400元顺风车拼了7个人",
+      "onboard_time": 1744784002,
+      "rank": 21,
+      "category": "互联网"
     },
     {
       "raw_hot": 426947,
@@ -419,22 +443,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 376663,
-      "num": 406906,
-      "word": "哈啰回应1400元顺风车拼了7个人",
-      "onboard_time": 1744784002,
-      "rank": 21,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 363431,
-      "num": 172698,
-      "word": "基因相似度0%意味着什么",
-      "onboard_time": 1744787001,
-      "rank": 33,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 360913,
       "num": 360913,
       "word": "玉米蛋挞",
@@ -449,6 +457,30 @@
       "onboard_time": 1744730063,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 353654,
+      "num": 287074,
+      "word": "刘若谷中戏第一",
+      "onboard_time": 1744787722,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 350485,
+      "num": 350485,
+      "word": "虞书欣大失败陈靖可那咋了",
+      "onboard_time": 1744786641,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 348448,
+      "num": 348448,
+      "word": "12306求候补",
+      "onboard_time": 1744787540,
+      "rank": 8,
+      "category": "互联网"
     },
     {
       "raw_hot": 335826,
@@ -489,14 +521,6 @@
       "onboard_time": 1744727363,
       "rank": 15,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 307051,
-      "num": 307051,
-      "word": "12306求候补",
-      "onboard_time": 1744787540,
-      "rank": 8,
-      "category": "互联网"
     },
     {
       "raw_hot": 302387,
@@ -547,6 +571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 285352,
+      "num": 285352,
+      "word": "三星李在镕痛失韩国首富",
+      "onboard_time": 1744787481,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 280211,
       "num": 280211,
       "word": "明天可买五一当天火车票",
@@ -564,7 +596,7 @@
     },
     {
       "raw_hot": 278667,
-      "num": 163649,
+      "num": 187394,
       "word": "订婚强奸案有完整的证据链",
       "onboard_time": 1744782622,
       "rank": 45,
@@ -579,20 +611,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 271664,
+      "num": 271664,
+      "word": "田小娟对爱豆恋爱的态度",
+      "onboard_time": 1744788681,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 269126,
+      "num": 292827,
+      "word": "三体2胡歌段奕宏",
+      "onboard_time": 1744787781,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 264088,
       "num": 264088,
       "word": "家属回应男子思念亡妻无法释怀去世",
       "onboard_time": 1744717702,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 262467,
-      "num": 160870,
-      "word": "订婚强奸案男子坐牢近2年其父拒和解",
-      "onboard_time": 1744786462,
-      "rank": 36,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 261935,
@@ -632,14 +672,6 @@
       "word": "宋祖儿靠演技杀回来了",
       "onboard_time": 1744770741,
       "rank": 9,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 250622,
-      "num": 250622,
-      "word": "虞书欣大失败陈靖可那咋了",
-      "onboard_time": 1744786641,
-      "rank": 18,
       "category": "剧集"
     },
     {
@@ -729,14 +761,6 @@
       "onboard_time": 1744767741,
       "rank": 15,
       "category": "情感"
-    },
-    {
-      "raw_hot": 223398,
-      "num": 223398,
-      "word": "三星李在镕痛失韩国首富",
-      "onboard_time": 1744787481,
-      "rank": 25,
-      "category": "财经"
     },
     {
       "raw_hot": 219062,
@@ -883,6 +907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193615,
+      "num": 193615,
+      "word": "白鹿孟子义宋雨琦造型",
+      "onboard_time": 1744788262,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193306,
       "num": 191477,
       "word": "高圆圆演了个反派",
@@ -947,6 +979,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187494,
+      "num": 235726,
+      "word": "警方回应网红小猫悟空去世",
+      "onboard_time": 1744786641,
+      "rank": 22,
+      "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 187322,
+      "num": 187322,
+      "word": "这是吴昕很重要的一期大侦探",
+      "onboard_time": 1744788022,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187266,
       "num": 205148,
       "word": "任敏此沙二搭",
@@ -995,14 +1043,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 185442,
-      "num": 239710,
-      "word": "刘若谷中戏第一",
-      "onboard_time": 1744787722,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 185100,
       "num": 185100,
       "word": "赵朔 悟空",
@@ -1011,12 +1051,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 182628,
-      "num": 182628,
-      "word": "三体2胡歌段奕宏",
-      "onboard_time": 1744787781,
-      "rank": 27,
-      "category": "剧集"
+      "raw_hot": 182931,
+      "num": 306937,
+      "word": "国台办谈甲亢哥中国之旅",
+      "onboard_time": 1744786521,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 181047,
+      "num": 181047,
+      "word": "星河入梦延期上映",
+      "onboard_time": 1744786462,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 180799,
@@ -1051,12 +1099,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 176128,
-      "num": 235726,
-      "word": "警方回应网红小猫悟空去世",
-      "onboard_time": 1744786641,
-      "rank": 22,
-      "category": "网红,民生新闻"
+      "raw_hot": 176445,
+      "num": 176445,
+      "word": "伊能静吃醋秦昊新剧眼神戏",
+      "onboard_time": 1744787902,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 175359,
@@ -1219,12 +1267,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 155816,
-      "num": 173320,
-      "word": "星河入梦延期上映",
-      "onboard_time": 1744786462,
-      "rank": 29,
-      "category": "电影"
+      "raw_hot": 157274,
+      "num": 157274,
+      "word": "外交部回应美对华加征245%关税",
+      "onboard_time": 1744789041,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 154439,
@@ -1363,20 +1411,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142652,
+      "num": 142652,
+      "word": "半熟4第五期cp冷静期",
+      "onboard_time": 1744788141,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142264,
       "num": 244158,
       "word": "范大将军喜提新XT6",
       "onboard_time": 1744781903,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 141389,
-      "num": 141389,
-      "word": "这是吴昕很重要的一期大侦探",
-      "onboard_time": 1744788022,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 139289,
@@ -1401,6 +1449,14 @@
       "onboard_time": 1744778724,
       "rank": 12,
       "category": "财经"
+    },
+    {
+      "raw_hot": 135663,
+      "num": 249240,
+      "word": "孙颖莎攻防无懈可击",
+      "onboard_time": 1744787841,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 135566,
@@ -1491,20 +1547,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 124723,
+      "num": 305312,
+      "word": "孙颖莎说淘汰赛全力去拼",
+      "onboard_time": 1744787121,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123001,
       "num": 123001,
       "word": "全球首次半机械蟑螂参与地震救援",
       "onboard_time": 1744768641,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 122837,
-      "num": 122837,
-      "word": "半熟4第五期cp冷静期",
-      "onboard_time": 1744788141,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 121598,
@@ -1627,14 +1683,6 @@
       "category": "电影,动漫"
     },
     {
-      "raw_hot": 105231,
-      "num": 249240,
-      "word": "孙颖莎攻防无懈可击",
-      "onboard_time": 1744787841,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 105073,
       "num": 105073,
       "word": "订婚强奸案被告不符合适用缓刑",
@@ -1739,14 +1787,6 @@
       "category": "互联网,民生新闻"
     },
     {
-      "raw_hot": 92030,
-      "num": 305312,
-      "word": "孙颖莎说淘汰赛全力去拼",
-      "onboard_time": 1744787121,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 90465,
       "num": 90465,
       "word": "广佛线",
@@ -1796,7 +1836,7 @@
     },
     {
       "raw_hot": 84073,
-      "num": 173196,
+      "num": 187466,
       "word": "一年内三上央视钟睒睒说了什么",
       "onboard_time": 1744785202,
       "rank": 39,
@@ -1889,14 +1929,6 @@
       "onboard_time": 1744722741,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 77661,
-      "num": 306937,
-      "word": "国台办谈甲亢哥中国之旅",
-      "onboard_time": 1744786521,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 77190,
@@ -2033,6 +2065,14 @@
       "onboard_time": 1744765943,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 59872,
+      "num": 276884,
+      "word": "已收到超3000封台独打手举报邮件",
+      "onboard_time": 1744788681,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 59846,
@@ -2203,6 +2243,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 38732,
+      "num": 176633,
+      "word": "林诗栋回应晋级世界杯16强",
+      "onboard_time": 1744788981,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 37599,
       "num": 205686,
       "word": "张本智和晋级澳门世界杯16强",
@@ -2267,12 +2315,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 29255,
+      "num": 177290,
+      "word": "父亲当小孩面卖掉了她的小狗",
+      "onboard_time": 1744788141,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27844,
       "num": 175553,
       "word": "为了生存付出无数个并不认同的努力",
       "onboard_time": 1744772542,
       "rank": 29,
       "category": "情感,时尚"
+    },
+    {
+      "raw_hot": 27553,
+      "num": 121505,
+      "word": "独居生病最可怕的不是孤独",
+      "onboard_time": 1744787902,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 24655,
@@ -2339,14 +2403,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 19115,
-      "num": 114770,
-      "word": "独居生病最可怕的不是孤独",
-      "onboard_time": 1744787902,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 18919,
       "num": 186712,
       "word": "美制造商价格高3倍质量仍不如中企",
@@ -2379,6 +2435,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 16798,
+      "num": 165995,
+      "word": "山崎贤人有多受欢迎",
+      "onboard_time": 1744785262,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 16606,
       "num": 26223,
       "word": "天赐的声音",
@@ -2395,20 +2459,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 15631,
-      "num": 156708,
-      "word": "山崎贤人有多受欢迎",
-      "onboard_time": 1744785262,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 13155,
       "num": 23276,
       "word": "马来人吃榴莲爱配山竹",
       "onboard_time": 1744742714,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 12031,
+      "num": 187474,
+      "word": "专家解读美对华关税最高可达245%",
+      "onboard_time": 1744788922,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 11662,
@@ -2451,6 +2515,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 10329,
+      "num": 152419,
+      "word": "世界货币体系构建逻辑",
+      "onboard_time": 1744787841,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 10238,
       "num": 21917,
       "word": "校服运动服工作服一起变身抬车侠",
@@ -2473,22 +2545,6 @@
       "onboard_time": 1744749314,
       "rank": 38,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 8626,
-      "num": 152419,
-      "word": "世界货币体系构建逻辑",
-      "onboard_time": 1744787841,
-      "rank": 38,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 6659,
-      "num": 149979,
-      "word": "父亲当小孩面卖掉了她的小狗",
-      "onboard_time": 1744788141,
-      "rank": 39,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
