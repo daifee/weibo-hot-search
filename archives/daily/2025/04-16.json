@@ -1,6 +1,6 @@
 {
   "startTime": 1744734585432,
-  "endTime": 1744786082873,
+  "endTime": 1744788274382,
   "band_list": [
     {
       "raw_hot": 10606514,
@@ -83,6 +83,14 @@
       "category": "游戏,电影"
     },
     {
+      "raw_hot": 1340175,
+      "num": 1340175,
+      "word": "12306爱我一次",
+      "onboard_time": 1744782741,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1283919,
       "num": 504209,
       "word": "小猫悟空去世",
@@ -99,12 +107,28 @@
       "category": "游戏,电影"
     },
     {
+      "raw_hot": 1082767,
+      "num": 173196,
+      "word": "破除订婚就有性权利的错误观念",
+      "onboard_time": 1744782321,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 971139,
       "num": 193399,
       "word": "玫瑰",
       "onboard_time": 1744736777,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 851713,
+      "num": 306699,
+      "word": "主播靠暴食和擦边表演卖爆减肥产品",
+      "onboard_time": 1744784182,
+      "rank": 28,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 843489,
@@ -120,6 +144,14 @@
       "word": "马頔深夜发文",
       "onboard_time": 1744780283,
       "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 785965,
+      "num": 306400,
+      "word": "黄杨钿甜中戏第二",
+      "onboard_time": 1744786641,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -145,14 +177,6 @@
       "onboard_time": 1744768041,
       "rank": 17,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 725294,
-      "num": 149945,
-      "word": "破除订婚就有性权利的错误观念",
-      "onboard_time": 1744782321,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 713324,
@@ -208,6 +232,14 @@
       "word": "心疼川川",
       "onboard_time": 1744730303,
       "rank": 11,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 635558,
+      "num": 306116,
+      "word": "网红小猫悟空主人已谅解车主",
+      "onboard_time": 1744785921,
+      "rank": 44,
       "category": "网红"
     },
     {
@@ -387,6 +419,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 376663,
+      "num": 406906,
+      "word": "哈啰回应1400元顺风车拼了7个人",
+      "onboard_time": 1744784002,
+      "rank": 21,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 363431,
+      "num": 172698,
+      "word": "基因相似度0%意味着什么",
+      "onboard_time": 1744787001,
+      "rank": 33,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 360913,
       "num": 360913,
       "word": "玉米蛋挞",
@@ -427,14 +475,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 320255,
-      "num": 408556,
-      "word": "12306爱我一次",
-      "onboard_time": 1744782741,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 316793,
       "num": 236155,
       "word": "原来艺人的收入是这样算的",
@@ -449,6 +489,14 @@
       "onboard_time": 1744727363,
       "rank": 15,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 307051,
+      "num": 307051,
+      "word": "12306求候补",
+      "onboard_time": 1744787540,
+      "rank": 8,
+      "category": "互联网"
     },
     {
       "raw_hot": 302387,
@@ -515,6 +563,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 278667,
+      "num": 163649,
+      "word": "订婚强奸案有完整的证据链",
+      "onboard_time": 1744782622,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 271791,
       "num": 271791,
       "word": "京东外卖崩了",
@@ -529,6 +585,14 @@
       "onboard_time": 1744717702,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 262467,
+      "num": 160870,
+      "word": "订婚强奸案男子坐牢近2年其父拒和解",
+      "onboard_time": 1744786462,
+      "rank": 36,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 261935,
@@ -568,6 +632,14 @@
       "word": "宋祖儿靠演技杀回来了",
       "onboard_time": 1744770741,
       "rank": 9,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 250622,
+      "num": 250622,
+      "word": "虞书欣大失败陈靖可那咋了",
+      "onboard_time": 1744786641,
+      "rank": 18,
       "category": "剧集"
     },
     {
@@ -643,14 +715,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 230580,
-      "num": 406906,
-      "word": "哈啰回应1400元顺风车拼了7个人",
-      "onboard_time": 1744784002,
-      "rank": 21,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 229565,
       "num": 181952,
       "word": "第一次见这么接地气的富二代",
@@ -665,6 +729,14 @@
       "onboard_time": 1744767741,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 223398,
+      "num": 223398,
+      "word": "三星李在镕痛失韩国首富",
+      "onboard_time": 1744787481,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 219062,
@@ -753,6 +825,14 @@
       "onboard_time": 1744715182,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 200623,
+      "num": 200623,
+      "word": "女子泼水节被男子高压水枪呲眼",
+      "onboard_time": 1744785143,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 199107,
@@ -915,6 +995,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 185442,
+      "num": 239710,
+      "word": "刘若谷中戏第一",
+      "onboard_time": 1744787722,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185100,
       "num": 185100,
       "word": "赵朔 悟空",
@@ -923,12 +1011,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 181772,
-      "num": 181772,
-      "word": "主播靠暴食和擦边表演卖爆减肥产品",
-      "onboard_time": 1744784182,
-      "rank": 28,
-      "category": "舆论监督"
+      "raw_hot": 182628,
+      "num": 182628,
+      "word": "三体2胡歌段奕宏",
+      "onboard_time": 1744787781,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 180799,
@@ -963,6 +1051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176128,
+      "num": 235726,
+      "word": "警方回应网红小猫悟空去世",
+      "onboard_time": 1744786641,
+      "rank": 22,
+      "category": "网红,民生新闻"
+    },
+    {
       "raw_hot": 175359,
       "num": 223411,
       "word": "广东一毒枭房产七折起拍",
@@ -977,6 +1073,14 @@
       "onboard_time": 1744726404,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 174242,
+      "num": 174242,
+      "word": "鹭卓卓沅种地吧面试细节",
+      "onboard_time": 1744786762,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 172938,
@@ -1115,6 +1219,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 155816,
+      "num": 173320,
+      "word": "星河入梦延期上映",
+      "onboard_time": 1744786462,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 154439,
       "num": 154439,
       "word": "火勇大战",
@@ -1169,14 +1281,6 @@
       "onboard_time": 1744777104,
       "rank": 19,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 147535,
-      "num": 147535,
-      "word": "订婚强奸案有完整的证据链",
-      "onboard_time": 1744782622,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 146931,
@@ -1267,12 +1371,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 141075,
-      "num": 141075,
-      "word": "女子泼水节被男子高压水枪呲眼",
-      "onboard_time": 1744785143,
-      "rank": 48,
-      "category": "民生新闻"
+      "raw_hot": 141389,
+      "num": 141389,
+      "word": "这是吴昕很重要的一期大侦探",
+      "onboard_time": 1744788022,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 139289,
@@ -1355,6 +1459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128489,
+      "num": 128489,
+      "word": "原来小孩子没有腰是避谶",
+      "onboard_time": 1744787962,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 127739,
       "num": 127739,
       "word": "减脂期没戴眼镜",
@@ -1385,6 +1497,14 @@
       "onboard_time": 1744768641,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122837,
+      "num": 122837,
+      "word": "半熟4第五期cp冷静期",
+      "onboard_time": 1744788141,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 121598,
@@ -1425,14 +1545,6 @@
       "onboard_time": 1744767442,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 116477,
-      "num": 116477,
-      "word": "网红小猫悟空主人已谅解车主",
-      "onboard_time": 1744785921,
-      "rank": 44,
-      "category": "网红"
     },
     {
       "raw_hot": 115034,
@@ -1513,6 +1625,14 @@
       "onboard_time": 1744778066,
       "rank": 29,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 105231,
+      "num": 249240,
+      "word": "孙颖莎攻防无懈可击",
+      "onboard_time": 1744787841,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 105073,
@@ -1619,6 +1739,14 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 92030,
+      "num": 305312,
+      "word": "孙颖莎说淘汰赛全力去拼",
+      "onboard_time": 1744787121,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90465,
       "num": 90465,
       "word": "广佛线",
@@ -1668,7 +1796,7 @@
     },
     {
       "raw_hot": 84073,
-      "num": 151025,
+      "num": 173196,
       "word": "一年内三上央视钟睒睒说了什么",
       "onboard_time": 1744785202,
       "rank": 39,
@@ -1761,6 +1889,14 @@
       "onboard_time": 1744722741,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 77661,
+      "num": 306937,
+      "word": "国台办谈甲亢哥中国之旅",
+      "onboard_time": 1744786521,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 77190,
@@ -2203,6 +2339,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 19115,
+      "num": 114770,
+      "word": "独居生病最可怕的不是孤独",
+      "onboard_time": 1744787902,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 18919,
       "num": 186712,
       "word": "美制造商价格高3倍质量仍不如中企",
@@ -2251,8 +2395,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 14433,
-      "num": 125150,
+      "raw_hot": 15631,
+      "num": 156708,
       "word": "山崎贤人有多受欢迎",
       "onboard_time": 1744785262,
       "rank": 43,
@@ -2329,6 +2473,22 @@
       "onboard_time": 1744749314,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 8626,
+      "num": 152419,
+      "word": "世界货币体系构建逻辑",
+      "onboard_time": 1744787841,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 6659,
+      "num": 149979,
+      "word": "父亲当小孩面卖掉了她的小狗",
+      "onboard_time": 1744788141,
+      "rank": 39,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
@@ -2343,6 +2503,9 @@
     },
     {
       "word": "#中越关系的高光时刻#"
+    },
+    {
+      "word": "#习近平巧喻中越交往#"
     }
   ]
 }
