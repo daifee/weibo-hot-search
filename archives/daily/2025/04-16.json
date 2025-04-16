@@ -1,6 +1,6 @@
 {
   "startTime": 1744734585432,
-  "endTime": 1744817257341,
+  "endTime": 1744818125624,
   "band_list": [
     {
       "raw_hot": 10606514,
@@ -108,11 +108,19 @@
     },
     {
       "raw_hot": 1363422,
-      "num": 310367,
+      "num": 372669,
       "word": "小狗毛毛去世",
       "onboard_time": 1744810821,
       "rank": 40,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1360107,
+      "num": 1360107,
+      "word": "美国批准韩企申请饺子外观专利",
+      "onboard_time": 1744813524,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1353618,
@@ -161,14 +169,6 @@
       "onboard_time": 1744792223,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1112232,
-      "num": 1177957,
-      "word": "美国批准韩企申请饺子外观专利",
-      "onboard_time": 1744813524,
-      "rank": 29,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1107660,
@@ -515,7 +515,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 544896,
+      "raw_hot": 547953,
       "num": 246309,
       "word": "8个月女婴被虐待体重仅6斤",
       "onboard_time": 1744814783,
@@ -545,6 +545,14 @@
       "onboard_time": 1744784782,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 526949,
+      "num": 526949,
+      "word": "李晟四公第一",
+      "onboard_time": 1744817122,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 514091,
@@ -579,20 +587,20 @@
       "category": "国内时政,艺人"
     },
     {
+      "raw_hot": 499385,
+      "num": 499385,
+      "word": "澳门世界杯抽签",
+      "onboard_time": 1744816101,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 498476,
       "num": 672276,
       "word": "三星李在镕痛失韩国首富",
       "onboard_time": 1744787481,
       "rank": 25,
       "category": "财经"
-    },
-    {
-      "raw_hot": 496642,
-      "num": 496642,
-      "word": "澳门世界杯抽签",
-      "onboard_time": 1744816101,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 493992,
@@ -801,6 +809,14 @@
       "onboard_time": 1744813044,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 382760,
+      "num": 382760,
+      "word": "林昀儒 鹰眼",
+      "onboard_time": 1744816462,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 361564,
@@ -1107,14 +1123,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 260958,
-      "num": 260958,
-      "word": "李晟四公第一",
-      "onboard_time": 1744817122,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 260341,
       "num": 260341,
       "word": "人不要在同一个环境下浸泡太久",
@@ -1195,14 +1203,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 244937,
-      "num": 244937,
-      "word": "林昀儒 鹰眼",
-      "onboard_time": 1744816462,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 240518,
       "num": 240518,
       "word": "这5类电话打进来直接挂断",
@@ -1233,6 +1233,14 @@
       "onboard_time": 1744770022,
       "rank": 17,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 236855,
+      "num": 236855,
+      "word": "毛毛果已缺货",
+      "onboard_time": 1744817242,
+      "rank": 16,
+      "category": "网红"
     },
     {
       "raw_hot": 235998,
@@ -1627,6 +1635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193917,
+      "num": 193917,
+      "word": "奥恰洛夫3比1林昀儒",
+      "onboard_time": 1744817661,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193615,
       "num": 193615,
       "word": "白鹿孟子义宋雨琦造型",
@@ -1729,6 +1745,14 @@
       "onboard_time": 1744809201,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189804,
+      "num": 382300,
+      "word": "加州宣布将起诉特朗普政府",
+      "onboard_time": 1744817301,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 189341,
@@ -1857,6 +1881,14 @@
       "onboard_time": 1744786521,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 181853,
+      "num": 181853,
+      "word": "男子失联一天一夜同事找开锁上门",
+      "onboard_time": 1744816763,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 181047,
@@ -2363,6 +2395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148561,
+      "num": 265494,
+      "word": "互联网公司直播员工周末上班",
+      "onboard_time": 1744815863,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148185,
       "num": 148185,
       "word": "谁给费启鸣化的雀斑",
@@ -2452,7 +2492,7 @@
     },
     {
       "raw_hot": 144451,
-      "num": 144451,
+      "num": 195384,
       "word": "有金店1周卖了近2500万元",
       "onboard_time": 1744813343,
       "rank": 43,
@@ -2665,14 +2705,6 @@
       "onboard_time": 1744806682,
       "rank": 46,
       "category": "国际时政,互联网"
-    },
-    {
-      "raw_hot": 130603,
-      "num": 130603,
-      "word": "男子失联一天一夜同事找开锁上门",
-      "onboard_time": 1744816763,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128935,
@@ -2891,6 +2923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111562,
+      "num": 140158,
+      "word": "小孩路边认出罂粟奖励坐警车上学",
+      "onboard_time": 1744817122,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110858,
       "num": 164749,
       "word": "种地吧",
@@ -3017,14 +3057,6 @@
       "onboard_time": 1744767802,
       "rank": 21,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 100484,
-      "num": 265494,
-      "word": "互联网公司直播员工周末上班",
-      "onboard_time": 1744815863,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 100467,
@@ -3160,14 +3192,6 @@
       "word": "广佛线",
       "onboard_time": 1744764863,
       "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 89327,
-      "num": 140158,
-      "word": "小孩路边认出罂粟奖励坐警车上学",
-      "onboard_time": 1744817122,
-      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -3355,6 +3379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 76572,
+      "num": 195841,
+      "word": "武艺直播",
+      "onboard_time": 1744817842,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 76047,
       "num": 197135,
       "word": "毛利小五郎妃英理重归于好",
@@ -3451,6 +3483,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 66412,
+      "num": 177003,
+      "word": "华人讲述中国夫妇在意遭枪击遇害",
+      "onboard_time": 1744816221,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 64248,
       "num": 84969,
       "word": "敖瑞鹏送上两条视频",
@@ -3529,14 +3569,6 @@
       "onboard_time": 1744777104,
       "rank": 29,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 59406,
-      "num": 177003,
-      "word": "华人讲述中国夫妇在意遭枪击遇害",
-      "onboard_time": 1744816221,
-      "rank": 29,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 59211,
@@ -3827,6 +3859,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 34644,
+      "num": 541271,
+      "word": "警惕美国正向全世界摊派空气税",
+      "onboard_time": 1744817661,
+      "rank": 2,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 34048,
       "num": 50058,
       "word": "严浩翔这套图适合说晚安",
@@ -3907,8 +3947,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 26274,
-      "num": 134435,
+      "raw_hot": 26330,
+      "num": 148690,
       "word": "微博文化交流之夜精彩舞台",
       "onboard_time": 1744816941,
       "rank": 39,
@@ -3921,6 +3961,14 @@
       "onboard_time": 1744801521,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 25169,
+      "num": 194860,
+      "word": "景区回应游客被高压水枪喷伤眼睛",
+      "onboard_time": 1744817842,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24655,
