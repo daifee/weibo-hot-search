@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744785298088,
+  "endTime": 1744786082873,
   "band_list": [
     {
       "raw_hot": 10606514,
@@ -339,20 +339,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1569327,
+      "num": 1569327,
+      "word": "歌手首发阵容",
+      "onboard_time": 1744783463,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1544552,
       "num": 508066,
       "word": "高中男教师被举报与女学生发生关系",
       "onboard_time": 1744680981,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1496193,
-      "num": 1496193,
-      "word": "歌手首发阵容",
-      "onboard_time": 1744783463,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 1479437,
@@ -1243,6 +1243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 765645,
+      "num": 765645,
+      "word": "间谍竟想重金买回被发现的窃密装置",
+      "onboard_time": 1744780283,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 757054,
       "num": 687922,
       "word": "霍去病传奇改名风起大漠",
@@ -1297,6 +1305,14 @@
       "onboard_time": 1744522463,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 725294,
+      "num": 149945,
+      "word": "破除订婚就有性权利的错误观念",
+      "onboard_time": 1744782321,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 719826,
@@ -1420,7 +1436,7 @@
     },
     {
       "raw_hot": 687744,
-      "num": 382812,
+      "num": 387485,
       "word": "马頔怎么了",
       "onboard_time": 1744779322,
       "rank": 15,
@@ -1500,7 +1516,7 @@
     },
     {
       "raw_hot": 666594,
-      "num": 381207,
+      "num": 398827,
       "word": "中国夫妇在意大利家门口遭伏击枪杀",
       "onboard_time": 1744782622,
       "rank": 11,
@@ -1867,12 +1883,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 524083,
-      "num": 524083,
-      "word": "间谍竟想重金买回被发现的窃密装置",
-      "onboard_time": 1744780283,
-      "rank": 48,
-      "category": "国内时政"
+      "raw_hot": 529060,
+      "num": 529060,
+      "word": "周杰伦厦门抢票",
+      "onboard_time": 1744784782,
+      "rank": 7,
+      "category": "演出"
     },
     {
       "raw_hot": 521299,
@@ -2051,6 +2067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 479854,
+      "num": 452153,
+      "word": "李晨奔跑吧录制问这是谁拍的",
+      "onboard_time": 1744781543,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 477269,
       "num": 422160,
       "word": "关晓彤 体制内的美",
@@ -2113,14 +2137,6 @@
       "onboard_time": 1744606645,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 463821,
-      "num": 133146,
-      "word": "破除订婚就有性权利的错误观念",
-      "onboard_time": 1744782321,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 462275,
@@ -2195,14 +2211,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 452153,
-      "num": 452153,
-      "word": "李晨奔跑吧录制问这是谁拍的",
-      "onboard_time": 1744781543,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 452150,
       "num": 452150,
       "word": "张若昀毛晓彤风起大漠75集",
@@ -2241,6 +2249,14 @@
       "onboard_time": 1744646363,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 443796,
+      "num": 419949,
+      "word": "无忧渡 黑马",
+      "onboard_time": 1744778665,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 443795,
@@ -2345,14 +2361,6 @@
       "onboard_time": 1744508602,
       "rank": 19,
       "category": "网红"
-    },
-    {
-      "raw_hot": 419949,
-      "num": 419949,
-      "word": "无忧渡 黑马",
-      "onboard_time": 1744778665,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 419810,
@@ -2577,14 +2585,6 @@
       "onboard_time": 1744629022,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 381371,
-      "num": 381371,
-      "word": "周杰伦厦门抢票",
-      "onboard_time": 1744784782,
-      "rank": 7,
-      "category": "演出"
     },
     {
       "raw_hot": 380799,
@@ -2961,6 +2961,14 @@
       "onboard_time": 1744623682,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 320255,
+      "num": 408556,
+      "word": "12306爱我一次",
+      "onboard_time": 1744782741,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 318859,
@@ -3363,6 +3371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 271791,
+      "num": 271791,
+      "word": "京东外卖崩了",
+      "onboard_time": 1744779684,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 271145,
       "num": 282884,
       "word": "威尔斯绝平三分",
@@ -3459,6 +3475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 261935,
+      "num": 195699,
+      "word": "宋亚轩祝22岁的张哥生日快乐",
+      "onboard_time": 1744785322,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 261744,
       "num": 203692,
       "word": "张康乐与北电第六",
@@ -3545,14 +3569,6 @@
       "onboard_time": 1744637063,
       "rank": 45,
       "category": "数码"
-    },
-    {
-      "raw_hot": 255582,
-      "num": 255582,
-      "word": "京东外卖崩了",
-      "onboard_time": 1744779684,
-      "rank": 36,
-      "category": "互联网"
     },
     {
       "raw_hot": 254788,
@@ -3955,6 +3971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 230580,
+      "num": 406906,
+      "word": "哈啰回应1400元顺风车拼了7个人",
+      "onboard_time": 1744784002,
+      "rank": 21,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 230345,
       "num": 230345,
       "word": "戴牙套五年后牙齿还是反弹了",
@@ -4209,6 +4233,14 @@
       "onboard_time": 1744520902,
       "rank": 13,
       "category": "国际时政,国际时政"
+    },
+    {
+      "raw_hot": 218351,
+      "num": 235921,
+      "word": "台湾同胞跟着电视剧难哄打卡重庆",
+      "onboard_time": 1744782022,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 217726,
@@ -4979,14 +5011,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 198945,
-      "num": 235921,
-      "word": "台湾同胞跟着电视剧难哄打卡重庆",
-      "onboard_time": 1744782022,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 198758,
       "num": 772325,
       "word": "孙颖莎vs简彤娟",
@@ -5025,14 +5049,6 @@
       "onboard_time": 1744520482,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 197964,
-      "num": 197964,
-      "word": "12306爱我一次",
-      "onboard_time": 1744782741,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 197954,
@@ -5105,14 +5121,6 @@
       "onboard_time": 1744595602,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 195692,
-      "num": 195692,
-      "word": "哈啰回应1400元顺风车拼了7个人",
-      "onboard_time": 1744784002,
-      "rank": 21,
-      "category": "互联网"
     },
     {
       "raw_hot": 195614,
@@ -5227,6 +5235,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 193306,
+      "num": 191477,
+      "word": "高圆圆演了个反派",
+      "onboard_time": 1744783881,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193134,
       "num": 236860,
       "word": "奔跑吧",
@@ -5307,6 +5323,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 191845,
+      "num": 198261,
+      "word": "无忧渡我真没空陪你闹了",
+      "onboard_time": 1744784182,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191744,
       "num": 191744,
       "word": "不怕鬼压床就怕梨打墙",
@@ -5337,14 +5361,6 @@
       "onboard_time": 1744637845,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 191477,
-      "num": 191477,
-      "word": "高圆圆演了个反派",
-      "onboard_time": 1744783881,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 191326,
@@ -5489,6 +5505,14 @@
       "onboard_time": 1744533801,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187723,
+      "num": 187723,
+      "word": "宋雨琦橙衣古装",
+      "onboard_time": 1744785022,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 187649,
@@ -5763,14 +5787,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 182626,
-      "num": 198261,
-      "word": "无忧渡我真没空陪你闹了",
-      "onboard_time": 1744784182,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 182552,
       "num": 182552,
       "word": "章昊谈爱豆的责任",
@@ -5809,6 +5825,14 @@
       "onboard_time": 1744534461,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 181772,
+      "num": 181772,
+      "word": "主播靠暴食和擦边表演卖爆减肥产品",
+      "onboard_time": 1744784182,
+      "rank": 28,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 181732,
@@ -7307,6 +7331,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 147535,
+      "num": 147535,
+      "word": "订婚强奸案有完整的证据链",
+      "onboard_time": 1744782622,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147300,
       "num": 190869,
       "word": "陈都灵 楚后",
@@ -7747,6 +7779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141075,
+      "num": 141075,
+      "word": "女子泼水节被男子高压水枪呲眼",
+      "onboard_time": 1744785143,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140880,
       "num": 140880,
       "word": "黄英好像李晟的小手办",
@@ -7849,14 +7889,6 @@
       "onboard_time": 1744697061,
       "rank": 40,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 139036,
-      "num": 139036,
-      "word": "主播靠暴食和擦边表演卖爆减肥产品",
-      "onboard_time": 1744784182,
-      "rank": 28,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 139013,
@@ -8081,6 +8113,14 @@
       "onboard_time": 1744612281,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 135566,
+      "num": 156982,
+      "word": "陈德容事业运",
+      "onboard_time": 1744785383,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 135281,
@@ -8369,14 +8409,6 @@
       "onboard_time": 1744547241,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 130689,
-      "num": 127304,
-      "word": "宋雨琦橙衣古装",
-      "onboard_time": 1744785022,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 130568,
@@ -8779,14 +8811,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 124744,
-      "num": 124744,
-      "word": "订婚强奸案有完整的证据链",
-      "onboard_time": 1744782622,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 124709,
       "num": 124709,
       "word": "A股放量三大指数上涨",
@@ -9051,6 +9075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120186,
+      "num": 120186,
+      "word": "原来这是猫猫在翘二郎腿",
+      "onboard_time": 1744785502,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 120058,
       "num": 120058,
       "word": "一家三口被撞案失独老人住进儿子婚房",
@@ -9187,6 +9219,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 117919,
+      "num": 117919,
+      "word": "张真源帅照被格式化了",
+      "onboard_time": 1744785621,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 117774,
       "num": 236191,
       "word": "英政府紧急出手救助钢铁行业",
@@ -9225,14 +9265,6 @@
       "onboard_time": 1744699342,
       "rank": 12,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 117484,
-      "num": 117484,
-      "word": "女子泼水节被男子高压水枪呲眼",
-      "onboard_time": 1744785143,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 117476,
@@ -9313,6 +9345,14 @@
       "onboard_time": 1744767442,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116477,
+      "num": 116477,
+      "word": "网红小猫悟空主人已谅解车主",
+      "onboard_time": 1744785921,
+      "rank": 44,
+      "category": "网红"
     },
     {
       "raw_hot": 116385,
@@ -9825,6 +9865,14 @@
       "onboard_time": 1744542560,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 105073,
+      "num": 105073,
+      "word": "订婚强奸案被告不符合适用缓刑",
+      "onboard_time": 1744785561,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105028,
@@ -10515,6 +10563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 84073,
+      "num": 151025,
+      "word": "一年内三上央视钟睒睒说了什么",
+      "onboard_time": 1744785202,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83791,
       "num": 83791,
       "word": "女子做面部提拉手术心脏骤停家属发声",
@@ -10923,6 +10979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69562,
+      "num": 156664,
+      "word": "中国人在集中精力做好自己的事",
+      "onboard_time": 1744785022,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 69004,
       "num": 69004,
       "word": "以为是茶杯其实是防烫手的杯托",
@@ -11313,14 +11377,6 @@
       "onboard_time": 1744604783,
       "rank": 33,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 56284,
-      "num": 156664,
-      "word": "中国人在集中精力做好自己的事",
-      "onboard_time": 1744785022,
-      "rank": 25,
-      "category": "国内时政"
     },
     {
       "raw_hot": 55505,
@@ -12587,14 +12643,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 20447,
-      "num": 127964,
-      "word": "一年内三上央视钟睒睒说了什么",
-      "onboard_time": 1744785202,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 20308,
       "num": 40112,
       "word": "宋亚轩蛇我其谁非洲vlog",
@@ -12859,6 +12907,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 14433,
+      "num": 125150,
+      "word": "山崎贤人有多受欢迎",
+      "onboard_time": 1744785262,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 14295,
       "num": 152754,
       "word": "大阪世博会造价2亿日元的厕所",
@@ -13025,14 +13081,6 @@
       "onboard_time": 1744722023,
       "rank": 39,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 7010,
-      "num": 125150,
-      "word": "山崎贤人有多受欢迎",
-      "onboard_time": 1744785262,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 189,
