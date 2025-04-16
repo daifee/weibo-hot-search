@@ -1,0 +1,410 @@
+{
+  "runTime": 1744785298088,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1496193,
+        "num": 1496193,
+        "word": "歌手首发阵容",
+        "onboard_time": 1744783463,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1353618,
+        "num": 1353618,
+        "word": "敖隐 敖丙",
+        "onboard_time": 1744780463,
+        "rank": 1,
+        "category": "游戏,电影"
+      },
+      {
+        "raw_hot": 253270,
+        "num": 850172,
+        "word": "全球多国正在中国买买买卖卖卖",
+        "onboard_time": 1744778904,
+        "rank": 2,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 524083,
+        "num": 524083,
+        "word": "间谍竟想重金买回被发现的窃密装置",
+        "onboard_time": 1744780283,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 517066,
+        "num": 517066,
+        "word": "王者荣耀联动哪吒",
+        "onboard_time": 1744778904,
+        "rank": 4,
+        "category": "游戏,电影"
+      },
+      {
+        "raw_hot": 452153,
+        "num": 452153,
+        "word": "李晨奔跑吧录制问这是谁拍的",
+        "onboard_time": 1744781543,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 419949,
+        "num": 419949,
+        "word": "无忧渡 黑马",
+        "onboard_time": 1744778665,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 381371,
+        "num": 381371,
+        "word": "周杰伦厦门抢票",
+        "onboard_time": 1744784782,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 215673,
+        "num": 381363,
+        "word": "金价",
+        "onboard_time": 1744765283,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 198758,
+        "num": 381303,
+        "word": "孙颖莎vs简彤娟",
+        "onboard_time": 1744781123,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2954512,
+        "num": 381257,
+        "word": "订婚强奸案二审驳回上诉",
+        "onboard_time": 1744769062,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 666594,
+        "num": 381207,
+        "word": "中国夫妇在意大利家门口遭伏击枪杀",
+        "onboard_time": 1744782622,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 449099,
+        "num": 381180,
+        "word": "我的存款已经足够下半辈子不吃不喝了",
+        "onboard_time": 1744767741,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 381161,
+        "num": 381161,
+        "word": "马頔怎么了",
+        "onboard_time": 1744779322,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347924,
+        "num": 347924,
+        "word": "小猫悟空去世",
+        "onboard_time": 1744759579,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 246465,
+        "num": 246465,
+        "word": "京东外卖崩了",
+        "onboard_time": 1744779684,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 198945,
+        "num": 198945,
+        "word": "台湾同胞跟着电视剧难哄打卡重庆",
+        "onboard_time": 1744782022,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182626,
+        "num": 198261,
+        "word": "无忧渡我真没空陪你闹了",
+        "onboard_time": 1744784182,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142264,
+        "num": 197966,
+        "word": "范大将军喜提新XT6",
+        "onboard_time": 1744781903,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197964,
+        "num": 197964,
+        "word": "12306爱我一次",
+        "onboard_time": 1744782741,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287987,
+        "num": 196904,
+        "word": "男子花155万买迈巴赫跑网约车",
+        "onboard_time": 1744774643,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195692,
+        "num": 195692,
+        "word": "哈啰回应1400元顺风车拼了7个人",
+        "onboard_time": 1744784002,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 191477,
+        "num": 191477,
+        "word": "高圆圆演了个反派",
+        "onboard_time": 1744783881,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176680,
+        "num": 176680,
+        "word": "特朗普凌晨2点开记者会折磨媒体",
+        "onboard_time": 1744764503,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 162864,
+        "num": 162864,
+        "word": "孙颖莎3比1简彤娟",
+        "onboard_time": 1744784122,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 56284,
+        "num": 156664,
+        "word": "中国人在集中精力做好自己的事",
+        "onboard_time": 1744785022,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 154423,
+        "num": 154423,
+        "word": "牙医说他的牙连玉米饼都吃不了",
+        "onboard_time": 1744775543,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145343,
+        "num": 145343,
+        "word": "花融",
+        "onboard_time": 1744784122,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 139036,
+        "num": 139036,
+        "word": "主播靠暴食和擦边表演卖爆减肥产品",
+        "onboard_time": 1744784182,
+        "rank": 28,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 136113,
+        "num": 136113,
+        "word": "Doinb回应朱开下跪",
+        "onboard_time": 1744781123,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 747848,
+        "num": 135539,
+        "word": "审判长回应女方处女膜未破裂",
+        "onboard_time": 1744773683,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133657,
+        "num": 133657,
+        "word": "谭维维 太想跟你们待在一起了",
+        "onboard_time": 1744784962,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 463821,
+        "num": 133146,
+        "word": "破除订婚就有性权利的错误观念",
+        "onboard_time": 1744782321,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132478,
+        "num": 132478,
+        "word": "26岁小伙被大9岁已婚女子骗婚",
+        "onboard_time": 1744764503,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49281,
+        "num": 132334,
+        "word": "胡歌把悬镜和琅琊榜联系起来了",
+        "onboard_time": 1744781782,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 430186,
+        "num": 131590,
+        "word": "法院回应山西订婚强奸案焦点问题",
+        "onboard_time": 1744773503,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56865,
+        "num": 131200,
+        "word": "国台办回应推出台独打手举报专栏",
+        "onboard_time": 1744784243,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 214122,
+        "num": 130631,
+        "word": "订婚强奸案男方母亲说罪名太丢人",
+        "onboard_time": 1744772061,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130396,
+        "num": 130396,
+        "word": "田曦薇方维权声明",
+        "onboard_time": 1744782081,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20447,
+        "num": 127964,
+        "word": "一年内三上央视钟睒睒说了什么",
+        "onboard_time": 1744785202,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130689,
+        "num": 127304,
+        "word": "宋雨琦橙衣古装",
+        "onboard_time": 1744785022,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38250,
+        "num": 126541,
+        "word": "何小鹏给香港首批X9车主交车",
+        "onboard_time": 1744781363,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 126498,
+        "num": 126498,
+        "word": "火勇大战",
+        "onboard_time": 1744781722,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7010,
+        "num": 125150,
+        "word": "山崎贤人有多受欢迎",
+        "onboard_time": 1744785262,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113516,
+        "num": 124876,
+        "word": "孙颖莎进16强",
+        "onboard_time": 1744783525,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124744,
+        "num": 124744,
+        "word": "订婚强奸案有完整的证据链",
+        "onboard_time": 1744782622,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122015,
+        "num": 122015,
+        "word": "林黛玉吃药 打工人打卡",
+        "onboard_time": 1744778963,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121930,
+        "num": 121930,
+        "word": "白鹿 奔跑吧海报",
+        "onboard_time": 1744778425,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117484,
+        "num": 117484,
+        "word": "女子泼水节被男子高压水枪呲眼",
+        "onboard_time": 1744785143,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114436,
+        "num": 114436,
+        "word": "戚薇在逃森系公主",
+        "onboard_time": 1744782202,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中越关系的高光时刻#"
+    }
+  }
+}

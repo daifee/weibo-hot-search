@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744782098571,
+  "endTime": 1744785298088,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -1627,6 +1627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1496193,
+      "num": 1496193,
+      "word": "歌手首发阵容",
+      "onboard_time": 1744783463,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1488053,
       "num": 1488053,
       "word": "艺考机构称陈晓已上3次课",
@@ -2049,6 +2057,14 @@
       "onboard_time": 1744684340,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1353618,
+      "num": 1353618,
+      "word": "敖隐 敖丙",
+      "onboard_time": 1744780463,
+      "rank": 4,
+      "category": "游戏,电影"
     },
     {
       "raw_hot": 1352189,
@@ -4643,14 +4659,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 819928,
-      "num": 819928,
-      "word": "敖隐 敖丙",
-      "onboard_time": 1744780463,
-      "rank": 4,
-      "category": "游戏,电影"
-    },
-    {
       "raw_hot": 819276,
       "num": 434715,
       "word": "周杰伦昆凌把旅综录成恋综",
@@ -6137,6 +6145,14 @@
       "onboard_time": 1744693523,
       "rank": 5,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 666594,
+      "num": 381207,
+      "word": "中国夫妇在意大利家门口遭伏击枪杀",
+      "onboard_time": 1744782622,
+      "rank": 11,
+      "category": "国际时政"
     },
     {
       "raw_hot": 665318,
@@ -7995,6 +8011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 524083,
+      "num": 524083,
+      "word": "间谍竟想重金买回被发现的窃密装置",
+      "onboard_time": 1744780283,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 523674,
       "num": 413268,
       "word": "面筋哥生前后悔出名宁做普通人",
@@ -9195,6 +9219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 463821,
+      "num": 133146,
+      "word": "破除订婚就有性权利的错误观念",
+      "onboard_time": 1744782321,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 462999,
       "num": 462999,
       "word": "隆化县医院已接收部分养老院火灾伤者",
@@ -9449,6 +9481,14 @@
       "onboard_time": 1744343002,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 452153,
+      "num": 452153,
+      "word": "李晨奔跑吧录制问这是谁拍的",
+      "onboard_time": 1744781543,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 452150,
@@ -10131,6 +10171,14 @@
       "category": "综艺,体育"
     },
     {
+      "raw_hot": 419949,
+      "num": 419949,
+      "word": "无忧渡 黑马",
+      "onboard_time": 1744778665,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 419911,
       "num": 378447,
       "word": "沈梦辰和女网红撞衫",
@@ -10417,14 +10465,6 @@
       "onboard_time": 1744727603,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 411219,
-      "num": 333079,
-      "word": "无忧渡 黑马",
-      "onboard_time": 1744778665,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 410907,
@@ -11265,6 +11305,14 @@
       "onboard_time": 1743744980,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 381371,
+      "num": 381371,
+      "word": "周杰伦厦门抢票",
+      "onboard_time": 1744784782,
+      "rank": 7,
+      "category": "演出"
     },
     {
       "raw_hot": 380799,
@@ -20243,14 +20291,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 209250,
-      "num": 344588,
-      "word": "李晨奔跑吧录制问这是谁拍的",
-      "onboard_time": 1744781543,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 209245,
       "num": 209245,
       "word": "时代少年团新专辑加冠",
@@ -21867,6 +21907,14 @@
       "category": "网红,民生新闻"
     },
     {
+      "raw_hot": 198945,
+      "num": 235921,
+      "word": "台湾同胞跟着电视剧难哄打卡重庆",
+      "onboard_time": 1744782022,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198928,
       "num": 222670,
       "word": "我的世界",
@@ -21928,6 +21976,14 @@
       "word": "张继科称带的学生多个考上名校",
       "onboard_time": 1744286002,
       "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 198758,
+      "num": 772325,
+      "word": "孙颖莎vs简彤娟",
+      "onboard_time": 1744781123,
+      "rank": 9,
       "category": "体育"
     },
     {
@@ -22097,6 +22153,14 @@
       "onboard_time": 1744349901,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 197964,
+      "num": 197964,
+      "word": "12306爱我一次",
+      "onboard_time": 1744782741,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 197954,
@@ -22489,6 +22553,14 @@
       "onboard_time": 1743657442,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195692,
+      "num": 195692,
+      "word": "哈啰回应1400元顺风车拼了7个人",
+      "onboard_time": 1744784002,
+      "rank": 21,
+      "category": "互联网"
     },
     {
       "raw_hot": 195659,
@@ -23345,6 +23417,14 @@
       "onboard_time": 1744352661,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 191477,
+      "num": 191477,
+      "word": "高圆圆演了个反派",
+      "onboard_time": 1744783881,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 191460,
@@ -25097,6 +25177,14 @@
       "onboard_time": 1744340423,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 182626,
+      "num": 198261,
+      "word": "无忧渡我真没空陪你闹了",
+      "onboard_time": 1744784182,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 182575,
@@ -28441,6 +28529,14 @@
       "onboard_time": 1743773782,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 162864,
+      "num": 162864,
+      "word": "孙颖莎3比1简彤娟",
+      "onboard_time": 1744784122,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 162851,
@@ -31915,6 +32011,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 145343,
+      "num": 145343,
+      "word": "花融",
+      "onboard_time": 1744784122,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 145322,
       "num": 145322,
       "word": "小猫看见家里淹水急得站了起来",
@@ -32521,6 +32625,14 @@
       "onboard_time": 1744520062,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 142264,
+      "num": 244158,
+      "word": "范大将军喜提新XT6",
+      "onboard_time": 1744781903,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 142195,
@@ -33225,6 +33337,14 @@
       "onboard_time": 1743736219,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 139036,
+      "num": 139036,
+      "word": "主播靠暴食和擦边表演卖爆减肥产品",
+      "onboard_time": 1744784182,
+      "rank": 28,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 139028,
@@ -34443,6 +34563,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 133657,
+      "num": 133657,
+      "word": "谭维维 太想跟你们待在一起了",
+      "onboard_time": 1744784962,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133564,
       "num": 133564,
       "word": "Siri已可控制小米汽车",
@@ -35105,6 +35233,14 @@
       "onboard_time": 1743603144,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 130689,
+      "num": 127304,
+      "word": "宋雨琦橙衣古装",
+      "onboard_time": 1744785022,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 130568,
@@ -36435,6 +36571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124744,
+      "num": 124744,
+      "word": "订婚强奸案有完整的证据链",
+      "onboard_time": 1744782622,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124720,
       "num": 124720,
       "word": "Melody晒与女儿拥抱照",
@@ -36545,14 +36689,6 @@
       "onboard_time": 1744040603,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 124206,
-      "num": 124206,
-      "word": "间谍竟想重金买回被发现的窃密装置",
-      "onboard_time": 1744780283,
-      "rank": 48,
-      "category": "国内时政"
     },
     {
       "raw_hot": 124187,
@@ -36897,14 +37033,6 @@
       "onboard_time": 1744290204,
       "rank": 49,
       "category": "财经,国际时政"
-    },
-    {
-      "raw_hot": 122141,
-      "num": 244158,
-      "word": "范大将军喜提新XT6",
-      "onboard_time": 1744781903,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 122139,
@@ -37963,6 +38091,14 @@
       "category": "国际时政,财经"
     },
     {
+      "raw_hot": 117484,
+      "num": 117484,
+      "word": "女子泼水节被男子高压水枪呲眼",
+      "onboard_time": 1744785143,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117476,
       "num": 117476,
       "word": "鞠婧祎这么权威的一张脸",
@@ -38563,6 +38699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114436,
+      "num": 114436,
+      "word": "戚薇在逃森系公主",
+      "onboard_time": 1744782202,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 114384,
       "num": 114384,
       "word": "什么是海峡雷霆",
@@ -38713,6 +38857,14 @@
       "onboard_time": 1744626443,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 113516,
+      "num": 124876,
+      "word": "孙颖莎进16强",
+      "onboard_time": 1744783525,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 113392,
@@ -42259,14 +42411,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 85248,
-      "num": 235921,
-      "word": "台湾同胞跟着电视剧难哄打卡重庆",
-      "onboard_time": 1744782022,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 85231,
       "num": 85231,
       "word": "福建舰海试大片震撼",
@@ -42345,14 +42489,6 @@
       "onboard_time": 1743809178,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 84837,
-      "num": 772325,
-      "word": "孙颖莎vs简彤娟",
-      "onboard_time": 1744781123,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 84779,
@@ -45371,6 +45507,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 56865,
+      "num": 131200,
+      "word": "国台办回应推出台独打手举报专栏",
+      "onboard_time": 1744784243,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 56809,
       "num": 76608,
       "word": "深圳混血小孩哥用AI把爷爷忽悠成厨子",
@@ -45417,6 +45561,14 @@
       "onboard_time": 1744268481,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56284,
+      "num": 156664,
+      "word": "中国人在集中精力做好自己的事",
+      "onboard_time": 1744785022,
+      "rank": 25,
+      "category": "国内时政"
     },
     {
       "raw_hot": 56187,
@@ -49939,6 +50091,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 20447,
+      "num": 127964,
+      "word": "一年内三上央视钟睒睒说了什么",
+      "onboard_time": 1744785202,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20308,
       "num": 40112,
       "word": "宋亚轩蛇我其谁非洲vlog",
@@ -51705,6 +51865,14 @@
       "onboard_time": 1743553283,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 7010,
+      "num": 125150,
+      "word": "山崎贤人有多受欢迎",
+      "onboard_time": 1744785262,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 6968,
