@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744831117901,
+  "endTime": 1744832172192,
   "band_list": [
     {
       "raw_hot": 10606514,
@@ -14867,20 +14867,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 17371,
+      "num": 23896,
+      "word": "多方回应上海安福路老法师偷拍女性",
+      "onboard_time": 1744829775,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17229,
       "num": 184156,
       "word": "俄美就俄乌和平方案进行对话",
       "onboard_time": 1744673059,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 17019,
-      "num": 23896,
-      "word": "多方回应上海安福路老法师偷拍女性",
-      "onboard_time": 1744829775,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 16825,
@@ -14971,6 +14971,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 14796,
+      "num": 16598,
+      "word": "无限超越班",
+      "onboard_time": 1744827075,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 14458,
       "num": 15700,
       "word": "你的朋友圈和微博是两人在运营吗",
@@ -15001,6 +15009,14 @@
       "onboard_time": 1744657634,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 13295,
+      "num": 16594,
+      "word": "女子遭前男友烧残生活仍不能自理",
+      "onboard_time": 1744831814,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13155,
@@ -15129,6 +15145,14 @@
       "onboard_time": 1744799120,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 10110,
+      "num": 29674,
+      "word": "美方无所不用其极搞监控窃密攻击",
+      "onboard_time": 1744831395,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 9895,

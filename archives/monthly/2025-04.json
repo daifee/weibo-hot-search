@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744831117901,
+  "endTime": 1744832172192,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -52683,6 +52683,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 17371,
+      "num": 23896,
+      "word": "多方回应上海安福路老法师偷拍女性",
+      "onboard_time": 1744829775,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17229,
       "num": 184156,
       "word": "俄美就俄乌和平方案进行对话",
@@ -52713,14 +52721,6 @@
       "onboard_time": 1744231095,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 17019,
-      "num": 23896,
-      "word": "多方回应上海安福路老法师偷拍女性",
-      "onboard_time": 1744829775,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 16995,
@@ -53075,6 +53075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14796,
+      "num": 16598,
+      "word": "无限超越班",
+      "onboard_time": 1744827075,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 14729,
       "num": 16326,
       "word": "直击中东部大风强降温",
@@ -53249,6 +53257,14 @@
       "onboard_time": 1743565222,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 13295,
+      "num": 16594,
+      "word": "女子遭前男友烧残生活仍不能自理",
+      "onboard_time": 1744831814,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13260,
@@ -53745,6 +53761,14 @@
       "onboard_time": 1743849443,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 10110,
+      "num": 29674,
+      "word": "美方无所不用其极搞监控窃密攻击",
+      "onboard_time": 1744831395,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 9953,
