@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744821103506,
+  "endTime": 1744822077959,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -8289,6 +8289,14 @@
       "onboard_time": 1744433964,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 526310,
+      "num": 526310,
+      "word": "杭州警方通报浙江队外援坠亡",
+      "onboard_time": 1744819462,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 525456,
@@ -19251,6 +19259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 225905,
+      "num": 208923,
+      "word": "林允这是要开中餐厅吗",
+      "onboard_time": 1744819401,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 225853,
       "num": 225853,
       "word": "赵奕欢的裙子上是古代仕女图",
@@ -19616,14 +19632,6 @@
       "word": "多地发布暴雪蓝色预警",
       "onboard_time": 1744558401,
       "rank": 43,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 221742,
-      "num": 221742,
-      "word": "杭州警方通报浙江队外援坠亡",
-      "onboard_time": 1744819462,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -20001,6 +20009,14 @@
       "onboard_time": 1744123823,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 217775,
+      "num": 177686,
+      "word": "知情人回应网红小猫悟空去世",
+      "onboard_time": 1744818920,
+      "rank": 18,
+      "category": "网红"
     },
     {
       "raw_hot": 217726,
@@ -21027,6 +21043,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 209260,
+      "num": 209260,
+      "word": "这下不是半夏是全夏了",
+      "onboard_time": 1744819881,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209245,
       "num": 209245,
       "word": "时代少年团新专辑加冠",
@@ -21129,14 +21153,6 @@
       "onboard_time": 1744426524,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 208923,
-      "num": 208923,
-      "word": "林允这是要开中餐厅吗",
-      "onboard_time": 1744819401,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 208868,
@@ -23241,14 +23257,6 @@
       "onboard_time": 1744253423,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 196408,
-      "num": 196408,
-      "word": "这下不是半夏是全夏了",
-      "onboard_time": 1744819881,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 196368,
@@ -26921,14 +26929,6 @@
       "onboard_time": 1743916821,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 177686,
-      "num": 177686,
-      "word": "知情人回应网红小猫悟空去世",
-      "onboard_time": 1744818920,
-      "rank": 18,
-      "category": "网红"
     },
     {
       "raw_hot": 177671,
@@ -42915,6 +42915,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 96277,
+      "num": 133219,
+      "word": "媒体人说朱一龙不应该被归类在流量",
+      "onboard_time": 1744821139,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 96209,
       "num": 96209,
       "word": "刘昊然大年初一骑摩托当闪送",
@@ -43681,6 +43689,14 @@
       "onboard_time": 1744776324,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88555,
+      "num": 88555,
+      "word": "宋祖儿一人分饰两角",
+      "onboard_time": 1744820241,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 88494,
@@ -44643,14 +44659,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 80662,
-      "num": 80662,
-      "word": "宋祖儿一人分饰两角",
-      "onboard_time": 1744820241,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 80603,
       "num": 227780,
       "word": "何小鹏给香港首批X9车主交车",
@@ -45040,6 +45048,14 @@
       "word": "乘风二公的本草纲目太幽默了",
       "onboard_time": 1744356742,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 76657,
+      "num": 76657,
+      "word": "孟子义得到了周深的认可",
+      "onboard_time": 1744821500,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -46521,6 +46537,14 @@
       "onboard_time": 1744457063,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63787,
+      "num": 63787,
+      "word": "TTG首次无缘季后赛",
+      "onboard_time": 1744818621,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 63679,
@@ -49739,12 +49763,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36539,
+      "num": 78429,
+      "word": "继榴莲之后马来椰子也要来华了",
+      "onboard_time": 1744821500,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36432,
       "num": 245895,
       "word": "向鹏3比1张禹珍",
       "onboard_time": 1743690441,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 36276,
+      "num": 72474,
+      "word": "卤鹅哥店门口围满了全国各地游客",
+      "onboard_time": 1744821797,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36229,
