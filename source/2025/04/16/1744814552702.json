@@ -1,0 +1,410 @@
+{
+  "runTime": 1744814552702,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 938057,
+        "num": 1150089,
+        "word": "拜登说想见见300岁还领社保的人",
+        "onboard_time": 1744807043,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 642284,
+        "num": 891709,
+        "word": "肥娟119元网购桶装冰激凌卖2元一杯",
+        "onboard_time": 1744808602,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185005,
+        "num": 863303,
+        "word": "美企说承受不起巨额关税账单",
+        "onboard_time": 1744805181,
+        "rank": 2,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 862867,
+        "num": 862867,
+        "word": "王蓉疑似明涵浪姐有剧本",
+        "onboard_time": 1744812264,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 619174,
+        "num": 619174,
+        "word": "外交部回应美对华加征245%关税",
+        "onboard_time": 1744789041,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 507192,
+        "num": 507192,
+        "word": "黄金",
+        "onboard_time": 1744811962,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 434527,
+        "num": 434527,
+        "word": "中方不予理会美方关税数字游戏",
+        "onboard_time": 1744807762,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 393634,
+        "num": 393634,
+        "word": "谭薇淘汰",
+        "onboard_time": 1744812081,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 308169,
+        "num": 308169,
+        "word": "特朗普听故宫三原色道理后懵圈",
+        "onboard_time": 1744803921,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299880,
+        "num": 299880,
+        "word": "花田错839分",
+        "onboard_time": 1744805542,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1245414,
+        "num": 298381,
+        "word": "小狗毛毛去世",
+        "onboard_time": 1744810821,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1149302,
+        "num": 297522,
+        "word": "虎门站一旅客跳股道身亡",
+        "onboard_time": 1744811723,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 948731,
+        "num": 295987,
+        "word": "刘耀文回应和张真源冷战",
+        "onboard_time": 1744808602,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67495,
+        "num": 293124,
+        "word": "王安宇真的没开美白滤镜吗",
+        "onboard_time": 1744811182,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91274,
+        "num": 291280,
+        "word": "马来西亚热烈欢迎远道而来的贵宾",
+        "onboard_time": 1744814002,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 760713,
+        "num": 289264,
+        "word": "朱一龙回应杨蓉",
+        "onboard_time": 1744805722,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257571,
+        "num": 286965,
+        "word": "花田错",
+        "onboard_time": 1744809081,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372366,
+        "num": 284920,
+        "word": "结婚3年妻子开着宝马带孩子走了",
+        "onboard_time": 1744801401,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54100,
+        "num": 284228,
+        "word": "江西最古老超1500年树龄银杏树倒塌",
+        "onboard_time": 1744813524,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100426,
+        "num": 280838,
+        "word": "王楚钦说大家加油越来越专业",
+        "onboard_time": 1744813703,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 385760,
+        "num": 279530,
+        "word": "王俊凯五哈录制全黑look",
+        "onboard_time": 1744813044,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 213207,
+        "num": 276913,
+        "word": "林允短剧霸总人格觉醒",
+        "onboard_time": 1744813284,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276659,
+        "num": 276659,
+        "word": "无忧渡迟雪 中戏第一",
+        "onboard_time": 1744803143,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273183,
+        "num": 273183,
+        "word": "王楚钦回应晋级淘汰赛",
+        "onboard_time": 1744811063,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236400,
+        "num": 236400,
+        "word": "上海女教师怒怼安福路偷拍老法师",
+        "onboard_time": 1744804282,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225777,
+        "num": 225777,
+        "word": "柯淳拐弯抹角打听赵丽颖",
+        "onboard_time": 1744803322,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196772,
+        "num": 209507,
+        "word": "仙台有树韩国播出",
+        "onboard_time": 1744813224,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191053,
+        "num": 206341,
+        "word": "浪姐取消复活赛赛制",
+        "onboard_time": 1744806021,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204790,
+        "num": 204790,
+        "word": "敖隐 敖丙",
+        "onboard_time": 1744780463,
+        "rank": 28,
+        "category": "游戏,电影"
+      },
+      {
+        "raw_hot": 117346,
+        "num": 196922,
+        "word": "美国批准韩企申请饺子外观专利",
+        "onboard_time": 1744813524,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 194657,
+        "num": 194657,
+        "word": "王鹤棣委托工作人员出来安慰粉丝",
+        "onboard_time": 1744806562,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186551,
+        "num": 186551,
+        "word": "久哲 败采",
+        "onboard_time": 1744812143,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 183255,
+        "num": 183255,
+        "word": "国台办回应Tank感谢祖国",
+        "onboard_time": 1744801882,
+        "rank": 32,
+        "category": "国内时政,艺人"
+      },
+      {
+        "raw_hot": 180312,
+        "num": 180312,
+        "word": "歌手首发阵容",
+        "onboard_time": 1744783463,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90520,
+        "num": 172566,
+        "word": "安全测试又被吉利加了难度",
+        "onboard_time": 1744812442,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 169684,
+        "num": 169684,
+        "word": "值得爱",
+        "onboard_time": 1744812503,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166019,
+        "num": 166019,
+        "word": "毛毛果",
+        "onboard_time": 1744810642,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 163036,
+        "num": 163036,
+        "word": "半夏一个眼神宣夜道心不稳",
+        "onboard_time": 1744813763,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159607,
+        "num": 159607,
+        "word": "无限暖暖",
+        "onboard_time": 1744812201,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 30481,
+        "num": 156258,
+        "word": "我为什么喜欢吉卜力动画",
+        "onboard_time": 1744810103,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 154239,
+        "num": 154239,
+        "word": "为什么冰块可以很好的清洗油锅",
+        "onboard_time": 1744810703,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 48564,
+        "num": 146569,
+        "word": "男童被父亲女友虐待后死亡案17日开庭",
+        "onboard_time": 1744814423,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140478,
+        "num": 140478,
+        "word": "山西男篮vs广东男篮",
+        "onboard_time": 1744804942,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137299,
+        "num": 137299,
+        "word": "F勒布伦无缘世界杯16强",
+        "onboard_time": 1744812442,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135705,
+        "num": 135705,
+        "word": "外国选手被孙颖莎的勤奋震撼到了",
+        "onboard_time": 1744811242,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134316,
+        "num": 134316,
+        "word": "贺峻霖一下好像又回到了好几年前",
+        "onboard_time": 1744813943,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120627,
+        "num": 120627,
+        "word": "无忧渡伍娘演技",
+        "onboard_time": 1744805902,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120137,
+        "num": 120137,
+        "word": "面对亲人离世越冷静越危险",
+        "onboard_time": 1744806922,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119919,
+        "num": 119919,
+        "word": "王曼昱小组第一出线",
+        "onboard_time": 1744811783,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115691,
+        "num": 115691,
+        "word": "基因相似度0%意味着什么",
+        "onboard_time": 1744787001,
+        "rank": 49,
+        "category": "读书作家"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同马来西亚总理举行会谈#"
+    }
+  }
+}

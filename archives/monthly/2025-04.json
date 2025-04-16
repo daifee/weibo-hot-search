@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744813486105,
+  "endTime": 1744814552702,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -2771,6 +2771,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 1149302,
+      "num": 305459,
+      "word": "虎门站一旅客跳股道身亡",
+      "onboard_time": 1744811723,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1149234,
       "num": 1000125,
       "word": "白冰冰7年做了16次试管婴儿",
@@ -3952,14 +3960,6 @@
       "word": "全国最能生娃省份排名出炉",
       "onboard_time": 1743746120,
       "rank": 1,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 935229,
-      "num": 305459,
-      "word": "虎门站一旅客跳股道身亡",
-      "onboard_time": 1744811723,
-      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -11315,6 +11315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 393634,
+      "num": 393634,
+      "word": "谭薇淘汰",
+      "onboard_time": 1744812081,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 393436,
       "num": 393436,
       "word": "关税将让美国家庭每年多花3.6万元",
@@ -11529,6 +11537,14 @@
       "onboard_time": 1744602442,
       "rank": 2,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 385760,
+      "num": 281971,
+      "word": "王俊凯五哈录制全黑look",
+      "onboard_time": 1744813044,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 385711,
@@ -12425,14 +12441,6 @@
       "onboard_time": 1743646520,
       "rank": 9,
       "category": "国际时政,国内时政"
-    },
-    {
-      "raw_hot": 357110,
-      "num": 298351,
-      "word": "谭薇淘汰",
-      "onboard_time": 1744812081,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 356853,
@@ -13425,14 +13433,6 @@
       "onboard_time": 1744154000,
       "rank": 35,
       "category": "情感,民生新闻"
-    },
-    {
-      "raw_hot": 328422,
-      "num": 281971,
-      "word": "王俊凯五哈录制全黑look",
-      "onboard_time": 1744813044,
-      "rank": 20,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 328292,
@@ -16963,6 +16963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 257571,
+      "num": 286965,
+      "word": "花田错",
+      "onboard_time": 1744809081,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 257526,
       "num": 257526,
       "word": "谷爱凌晒与张若昀合照",
@@ -19315,14 +19323,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 224609,
-      "num": 224609,
-      "word": "花田错",
-      "onboard_time": 1744809081,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 224439,
       "num": 345026,
       "word": "月鳞绮纪杀青",
@@ -20385,6 +20385,14 @@
       "onboard_time": 1744091062,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 213207,
+      "num": 276913,
+      "word": "林允短剧霸总人格觉醒",
+      "onboard_time": 1744813284,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 213125,
@@ -28931,6 +28939,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 166019,
+      "num": 166019,
+      "word": "毛毛果",
+      "onboard_time": 1744810642,
+      "rank": 41,
+      "category": "网红"
+    },
+    {
       "raw_hot": 166012,
       "num": 166012,
       "word": "九尾火舞燃尽了",
@@ -29473,6 +29489,14 @@
       "onboard_time": 1743921380,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 163036,
+      "num": 163036,
+      "word": "半夏一个眼神宣夜道心不稳",
+      "onboard_time": 1744813763,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 162970,
@@ -30195,6 +30219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159607,
+      "num": 159607,
+      "word": "无限暖暖",
+      "onboard_time": 1743917300,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 159540,
       "num": 159540,
       "word": "永远记住你",
@@ -30371,14 +30403,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 158771,
-      "num": 158771,
-      "word": "无限暖暖",
-      "onboard_time": 1743917300,
-      "rank": 42,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 158687,
       "num": 167692,
       "word": "徐志胜 免费的鸡",
@@ -30497,14 +30521,6 @@
       "onboard_time": 1744030644,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 158042,
-      "num": 158042,
-      "word": "毛毛果",
-      "onboard_time": 1744810642,
-      "rank": 41,
-      "category": "网红"
     },
     {
       "raw_hot": 158008,
@@ -31241,6 +31257,14 @@
       "onboard_time": 1743838100,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154239,
+      "num": 154239,
+      "word": "为什么冰块可以很好的清洗油锅",
+      "onboard_time": 1744810703,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 154208,
@@ -33353,14 +33377,6 @@
       "onboard_time": 1744022722,
       "rank": 35,
       "category": "网红,民生新闻"
-    },
-    {
-      "raw_hot": 144157,
-      "num": 144157,
-      "word": "为什么冰块可以很好的清洗油锅",
-      "onboard_time": 1744810703,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 144152,
@@ -35593,6 +35609,14 @@
       "onboard_time": 1744503379,
       "rank": 40,
       "category": "健康医疗,艺人"
+    },
+    {
+      "raw_hot": 134316,
+      "num": 134316,
+      "word": "贺峻霖一下好像又回到了好几年前",
+      "onboard_time": 1744813943,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 134297,
@@ -39419,6 +39443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117346,
+      "num": 196922,
+      "word": "美国批准韩企申请饺子外观专利",
+      "onboard_time": 1744813524,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 117344,
       "num": 117344,
       "word": "五哈神金特效缠上了艾福杰尼",
@@ -39889,14 +39921,6 @@
       "onboard_time": 1744117163,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 114937,
-      "num": 229119,
-      "word": "林允短剧霸总人格觉醒",
-      "onboard_time": 1744813284,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 114935,
@@ -42139,6 +42163,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 100426,
+      "num": 280838,
+      "word": "王楚钦说大家加油越来越专业",
+      "onboard_time": 1744813703,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100423,
       "num": 100423,
       "word": "陈梦去踏青了",
@@ -43161,6 +43193,14 @@
       "onboard_time": 1743758361,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 91274,
+      "num": 291280,
+      "word": "马来西亚热烈欢迎远道而来的贵宾",
+      "onboard_time": 1744814002,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 91267,
@@ -47307,6 +47347,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 54100,
+      "num": 284228,
+      "word": "江西最古老超1500年树龄银杏树倒塌",
+      "onboard_time": 1744813524,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54082,
       "num": 54082,
       "word": "潘玮柏重回颜值巅峰",
@@ -47800,6 +47848,14 @@
       "word": "室友电瓶燃爆致男生烧伤案新进展",
       "onboard_time": 1744636823,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48564,
+      "num": 146569,
+      "word": "男童被父亲女友虐待后死亡案17日开庭",
+      "onboard_time": 1744814423,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
