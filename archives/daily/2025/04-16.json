@@ -1,6 +1,6 @@
 {
   "startTime": 1744734585432,
-  "endTime": 1744808680783,
+  "endTime": 1744810449314,
   "band_list": [
     {
       "raw_hot": 10606514,
@@ -84,11 +84,19 @@
     },
     {
       "raw_hot": 1506573,
-      "num": 376274,
+      "num": 535377,
       "word": "朱一龙回应杨蓉",
       "onboard_time": 1744805722,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1443622,
+      "num": 1443622,
+      "word": "拜登说想见见300岁还领社保的人",
+      "onboard_time": 1744807043,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1395317,
@@ -147,6 +155,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 1099237,
+      "num": 534785,
+      "word": "刘耀文回应和张真源冷战",
+      "onboard_time": 1744808602,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1082767,
       "num": 272187,
       "word": "破除订婚就有性权利的错误观念",
@@ -188,7 +204,7 @@
     },
     {
       "raw_hot": 877339,
-      "num": 412036,
+      "num": 412963,
       "word": "结婚3年妻子开着宝马带孩子走了",
       "onboard_time": 1744801401,
       "rank": 10,
@@ -316,11 +332,19 @@
     },
     {
       "raw_hot": 680220,
-      "num": 370444,
+      "num": 530314,
       "word": "上海女教师怒怼安福路偷拍老法师",
       "onboard_time": 1744804282,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 670904,
+      "num": 670904,
+      "word": "中方不予理会美方关税数字游戏",
+      "onboard_time": 1744807762,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 669713,
@@ -371,6 +395,30 @@
       "category": "网红"
     },
     {
+      "raw_hot": 629446,
+      "num": 629446,
+      "word": "花田错839分",
+      "onboard_time": 1744805542,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 626016,
+      "num": 1093775,
+      "word": "肥娟119元网购桶装冰激凌卖2元一杯",
+      "onboard_time": 1744808602,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 619763,
+      "num": 631505,
+      "word": "王楚钦vs普卡",
+      "onboard_time": 1744807942,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 614025,
       "num": 614025,
       "word": "男子疑因思念亡妻无法释怀去世",
@@ -401,22 +449,6 @@
       "onboard_time": 1744727603,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 586117,
-      "num": 586117,
-      "word": "拜登说想见见300岁还领社保的人",
-      "onboard_time": 1744807043,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 578246,
-      "num": 578246,
-      "word": "花田错839分",
-      "onboard_time": 1744805542,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 572941,
@@ -635,20 +667,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 415280,
+      "num": 578509,
+      "word": "浪姐取消复活赛赛制",
+      "onboard_time": 1744806021,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 409514,
       "num": 409514,
       "word": "折腰没播",
       "onboard_time": 1744728144,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 406288,
-      "num": 398850,
-      "word": "浪姐取消复活赛赛制",
-      "onboard_time": 1744806021,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 402628,
@@ -676,7 +708,7 @@
     },
     {
       "raw_hot": 394550,
-      "num": 367930,
+      "num": 387639,
       "word": "柯淳拐弯抹角打听赵丽颖",
       "onboard_time": 1744803322,
       "rank": 35,
@@ -691,12 +723,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 361564,
+      "num": 361564,
+      "word": "王鹤棣委托工作人员出来安慰粉丝",
+      "onboard_time": 1744806562,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 360913,
       "num": 360913,
       "word": "玉米蛋挞",
       "onboard_time": 1744773625,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 360486,
+      "num": 404320,
+      "word": "浙江队悼念布彭扎",
+      "onboard_time": 1744809803,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 360160,
@@ -737,14 +785,6 @@
       "onboard_time": 1744787540,
       "rank": 8,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 344733,
-      "num": 344733,
-      "word": "刘耀文回应和张真源冷战",
-      "onboard_time": 1744808602,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 335826,
@@ -801,22 +841,6 @@
       "onboard_time": 1744778425,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 301870,
-      "num": 301870,
-      "word": "肥娟119元网购桶装冰激凌卖2元一杯",
-      "onboard_time": 1744808602,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 300396,
-      "num": 371377,
-      "word": "中方不予理会美方关税数字游戏",
-      "onboard_time": 1744807762,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 299251,
@@ -1155,14 +1179,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 222199,
-      "num": 222199,
-      "word": "王鹤棣委托工作人员出来安慰粉丝",
-      "onboard_time": 1744806562,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 219062,
       "num": 219062,
       "word": "A股",
@@ -1236,7 +1252,7 @@
     },
     {
       "raw_hot": 208868,
-      "num": 208868,
+      "num": 897399,
       "word": "美企说承受不起巨额关税账单",
       "onboard_time": 1744805181,
       "rank": 21,
@@ -1267,12 +1283,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 206488,
+      "num": 206488,
+      "word": "王楚钦11比3普卡",
+      "onboard_time": 1744809981,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203221,
       "num": 203221,
       "word": "你说这个杀猪的是钟楚曦吗",
       "onboard_time": 1744791322,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203170,
+      "num": 203170,
+      "word": "王楚钦11比5普卡",
+      "onboard_time": 1744810283,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 202737,
@@ -1323,6 +1355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 199755,
+      "num": 209284,
+      "word": "花田错",
+      "onboard_time": 1744809081,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199107,
       "num": 234906,
       "word": "雅迪你别太宠王鹤棣了",
@@ -1347,12 +1387,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 198382,
-      "num": 315159,
-      "word": "王楚钦vs普卡",
-      "onboard_time": 1744807942,
-      "rank": 19,
-      "category": "体育"
+      "raw_hot": 198658,
+      "num": 198658,
+      "word": "面对亲人离世越冷静越危险",
+      "onboard_time": 1744806922,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 197911,
@@ -1377,6 +1417,14 @@
       "onboard_time": 1744802663,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195956,
+      "num": 195956,
+      "word": "黄英的车又来了",
+      "onboard_time": 1744808842,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 195484,
@@ -1459,6 +1507,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 191929,
+      "num": 368745,
+      "word": "金价暴涨致回收客户临时毁约",
+      "onboard_time": 1744805422,
+      "rank": 28,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 191845,
       "num": 198261,
       "word": "无忧渡我真没空陪你闹了",
@@ -1497,6 +1553,14 @@
       "onboard_time": 1744796722,
       "rank": 26,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 190365,
+      "num": 192864,
+      "word": "THEBOYZ闯中了",
+      "onboard_time": 1744809201,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 189341,
@@ -1643,14 +1707,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 179719,
-      "num": 179719,
-      "word": "面对亲人离世越冷静越危险",
-      "onboard_time": 1744806922,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 177929,
       "num": 177929,
       "word": "白鹿今晚还回家吗",
@@ -1795,6 +1851,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 167846,
+      "num": 167846,
+      "word": "神二十发射",
+      "onboard_time": 1744808062,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 167508,
       "num": 341372,
       "word": "王艺迪小组出局",
@@ -1841,6 +1905,14 @@
       "onboard_time": 1744763723,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 163733,
+      "num": 207200,
+      "word": "宋祖儿段半夏出水芙蓉",
+      "onboard_time": 1744809323,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 163439,
@@ -2107,14 +2179,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 145266,
-      "num": 145266,
-      "word": "神二十发射",
-      "onboard_time": 1744808062,
-      "rank": 35,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 144753,
       "num": 144753,
       "word": "王一博长期贡献乐华超六成营收",
@@ -2235,14 +2299,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 136327,
-      "num": 368745,
-      "word": "金价暴涨致回收客户临时毁约",
-      "onboard_time": 1744805422,
-      "rank": 28,
-      "category": "民生新闻,财经"
-    },
-    {
       "raw_hot": 135692,
       "num": 951794,
       "word": "美国滥施关税是在搬起石头砸自己的脚",
@@ -2331,6 +2387,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 130804,
+      "num": 130804,
+      "word": "英伟达H20芯片向中国出口需获许可",
+      "onboard_time": 1744806682,
+      "rank": 46,
+      "category": "国际时政,互联网"
+    },
+    {
+      "raw_hot": 129471,
+      "num": 341867,
+      "word": "王楚钦进16强",
+      "onboard_time": 1744809922,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128935,
       "num": 128935,
       "word": "一首情诗就能查出现任出轨",
@@ -2377,6 +2449,14 @@
       "onboard_time": 1744775423,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 125389,
+      "num": 125389,
+      "word": "商务部回应美对华加征245%关税",
+      "onboard_time": 1744809261,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 124880,
@@ -2449,6 +2529,14 @@
       "onboard_time": 1744785502,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 119504,
+      "num": 119504,
+      "word": "起猛了上班偶遇三个奥特曼",
+      "onboard_time": 1744809442,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 118981,
@@ -3139,6 +3227,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 56429,
+      "num": 170702,
+      "word": "四驱会成为新能源时代标配吗",
+      "onboard_time": 1744809323,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 55505,
       "num": 205857,
       "word": "欧盟赴美官员带一次性手机防偷窥",
@@ -3227,6 +3323,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 50207,
+      "num": 537185,
+      "word": "被现实版孙悟空下山硬控了",
+      "onboard_time": 1744809803,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48472,
       "num": 207059,
       "word": "张本智和回应晋级世界杯16强",
@@ -3257,6 +3361,14 @@
       "onboard_time": 1744790362,
       "rank": 35,
       "category": "游戏,电影"
+    },
+    {
+      "raw_hot": 42507,
+      "num": 201523,
+      "word": "15万腕表保修期内维修还要花2万多",
+      "onboard_time": 1744808540,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40994,
@@ -3425,14 +3537,6 @@
       "onboard_time": 1744739117,
       "rank": 46,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 24389,
-      "num": 201523,
-      "word": "15万腕表保修期内维修还要花2万多",
-      "onboard_time": 1744808540,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23375,
@@ -3611,6 +3715,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 11534,
+      "num": 211199,
+      "word": "我为什么喜欢吉卜力动画",
+      "onboard_time": 1744810103,
+      "rank": 26,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 10740,
       "num": 17395,
       "word": "朱志鑫part",
@@ -3683,6 +3795,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 8256,
+      "num": 167930,
+      "word": "芒市泼水节最猛柯基",
+      "onboard_time": 1744810283,
+      "rank": 39,
+      "category": "幽默,民生新闻"
+    },
+    {
       "raw_hot": 8061,
       "num": 199802,
       "word": "军校VS警校报考指南",
@@ -3715,6 +3835,9 @@
     },
     {
       "word": "#习近平这样阐述中越关系#"
+    },
+    {
+      "word": "#习近平同马来西亚总理举行会谈#"
     }
   ]
 }
