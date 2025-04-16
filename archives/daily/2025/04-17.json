@@ -1,6 +1,6 @@
 {
   "startTime": 1744821103506,
-  "endTime": 1744825195362,
+  "endTime": 1744828468795,
   "band_list": [
     {
       "raw_hot": 874042,
@@ -475,12 +475,44 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 25616,
+      "num": 25616,
+      "word": "上海女教师怒怼安福路偷拍老法师",
+      "onboard_time": 1744804282,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21131,
+      "num": 21375,
+      "word": "张晚意的25岁是事业转折点",
+      "onboard_time": 1744827017,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 21069,
+      "num": 21069,
+      "word": "太湖湾音乐节",
+      "onboard_time": 1744828154,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 20631,
       "num": 36751,
       "word": "柬埔寨首都街头随处可见中文标识",
       "onboard_time": 1744824376,
       "rank": 44,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 20258,
+      "num": 20258,
+      "word": "奔跑吧祝张真源闪闪发光",
+      "onboard_time": 1744828455,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 17688,
