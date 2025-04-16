@@ -1,10 +1,10 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744773936477,
+  "endTime": 1744775458914,
   "band_list": [
     {
-      "raw_hot": 9984237,
-      "num": 9984237,
+      "raw_hot": 10606514,
+      "num": 10606514,
       "word": "订婚强奸案二审驳回上诉",
       "onboard_time": 1744769062,
       "rank": 30,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 2338037,
-      "num": 230651,
+      "num": 231980,
       "word": "特朗普凌晨2点开记者会折磨媒体",
       "onboard_time": 1744764503,
       "rank": 10,
@@ -260,7 +260,7 @@
     },
     {
       "raw_hot": 1694507,
-      "num": 222106,
+      "num": 236725,
       "word": "我的存款已经足够下半辈子不吃不喝了",
       "onboard_time": 1744767741,
       "rank": 13,
@@ -305,6 +305,14 @@
       "onboard_time": 1744515141,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1624465,
+      "num": 179303,
+      "word": "审判长回应女方处女膜未破裂",
+      "onboard_time": 1744773683,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1596379,
@@ -420,7 +428,7 @@
     },
     {
       "raw_hot": 1283919,
-      "num": 227767,
+      "num": 233196,
       "word": "小猫悟空去世",
       "onboard_time": 1744759579,
       "rank": 13,
@@ -1836,7 +1844,7 @@
     },
     {
       "raw_hot": 511092,
-      "num": 205475,
+      "num": 228651,
       "word": "她差点拍到了自己的死亡",
       "onboard_time": 1744769182,
       "rank": 31,
@@ -2036,7 +2044,7 @@
     },
     {
       "raw_hot": 459376,
-      "num": 205521,
+      "num": 227767,
       "word": "吃红肉 不痛经",
       "onboard_time": 1744768761,
       "rank": 46,
@@ -2228,7 +2236,7 @@
     },
     {
       "raw_hot": 419810,
-      "num": 205326,
+      "num": 219239,
       "word": "26岁小伙被大9岁已婚女子骗婚",
       "onboard_time": 1744764503,
       "rank": 22,
@@ -2257,6 +2265,14 @@
       "onboard_time": 1744772061,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 415504,
+      "num": 231066,
+      "word": "12306回应五一抢票崩了",
+      "onboard_time": 1744773443,
+      "rank": 22,
+      "category": "互联网"
     },
     {
       "raw_hot": 414356,
@@ -2675,6 +2691,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 333688,
+      "num": 333688,
+      "word": "良陈美锦开机",
+      "onboard_time": 1744770683,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 333404,
+      "num": 222764,
+      "word": "男子花155万买迈巴赫跑网约车",
+      "onboard_time": 1744774643,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 332515,
       "num": 259862,
       "word": "小孩跳楼砸坏新车家长只赔几百",
@@ -2731,6 +2763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 328371,
+      "num": 176384,
+      "word": "法院回应山西订婚强奸案焦点问题",
+      "onboard_time": 1744773503,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 328292,
       "num": 178102,
       "word": "陈芋汐10米台冠军",
@@ -2777,14 +2817,6 @@
       "onboard_time": 1744634843,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 322720,
-      "num": 322720,
-      "word": "良陈美锦开机",
-      "onboard_time": 1744770683,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 321794,
@@ -2857,6 +2889,14 @@
       "onboard_time": 1744541782,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 314653,
+      "num": 220524,
+      "word": "有棵树 张予曦",
+      "onboard_time": 1744774703,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 311028,
@@ -2955,14 +2995,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 296722,
-      "num": 179303,
-      "word": "审判长回应女方处女膜未破裂",
-      "onboard_time": 1744773683,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 296223,
       "num": 296223,
       "word": "齐思钧自己去看了两年心理治疗",
@@ -2985,6 +3017,14 @@
       "onboard_time": 1744529661,
       "rank": 18,
       "category": "艺人,读书作家"
+    },
+    {
+      "raw_hot": 292503,
+      "num": 292503,
+      "word": "金饰价格涨至1007元",
+      "onboard_time": 1744771221,
+      "rank": 5,
+      "category": "财经"
     },
     {
       "raw_hot": 288927,
@@ -3035,6 +3075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 285903,
+      "num": 152530,
+      "word": "订婚强奸案被告人母亲被训诫",
+      "onboard_time": 1744773922,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 285646,
       "num": 285646,
       "word": "王者荣耀",
@@ -3075,6 +3123,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 280211,
+      "num": 280211,
+      "word": "明天可买五一当天火车票",
+      "onboard_time": 1744768161,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 278698,
       "num": 278698,
       "word": "TheShy状态",
@@ -3113,14 +3169,6 @@
       "onboard_time": 1744604484,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 276361,
-      "num": 276361,
-      "word": "金饰价格涨至1007元",
-      "onboard_time": 1744771221,
-      "rank": 5,
-      "category": "财经"
     },
     {
       "raw_hot": 276019,
@@ -3275,14 +3323,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 265601,
-      "num": 205253,
-      "word": "12306回应五一抢票崩了",
-      "onboard_time": 1744773443,
-      "rank": 22,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 264054,
       "num": 264054,
       "word": "陈芋汐回应夺冠",
@@ -3347,6 +3387,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 256756,
+      "num": 256756,
+      "word": "宋祖儿靠演技杀回来了",
+      "onboard_time": 1744770741,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 256700,
       "num": 256700,
       "word": "不少年轻人流行用iPhone6拍照",
@@ -3395,6 +3443,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 250548,
+      "num": 250548,
+      "word": "美正式将韩国列为敏感国家",
+      "onboard_time": 1744772123,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 250497,
       "num": 250497,
       "word": "桃黑黑 不直播",
@@ -3433,22 +3489,6 @@
       "onboard_time": 1744608142,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 247483,
-      "num": 205145,
-      "word": "美正式将韩国列为敏感国家",
-      "onboard_time": 1744772123,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 246970,
-      "num": 246970,
-      "word": "明天可买五一当天火车票",
-      "onboard_time": 1744768161,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 246867,
@@ -3617,6 +3657,14 @@
       "onboard_time": 1744689682,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 238126,
+      "num": 238126,
+      "word": "一季度GDP同比增长5.4%",
+      "onboard_time": 1744770022,
+      "rank": 17,
+      "category": "国内时政"
     },
     {
       "raw_hot": 237943,
@@ -3915,14 +3963,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 221738,
-      "num": 221738,
-      "word": "宋祖儿靠演技杀回来了",
-      "onboard_time": 1744770741,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 221499,
       "num": 221499,
       "word": "连续跑步70天的面部变化",
@@ -3971,6 +4011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 219062,
+      "num": 219062,
+      "word": "A股",
+      "onboard_time": 1744596381,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 218481,
       "num": 285586,
       "word": "塔吉克斯坦5.8级地震",
@@ -4009,14 +4057,6 @@
       "onboard_time": 1744612523,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 216242,
-      "num": 176384,
-      "word": "法院回应山西订婚强奸案焦点问题",
-      "onboard_time": 1744773503,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 216090,
@@ -4129,6 +4169,14 @@
       "onboard_time": 1744599081,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 212875,
+      "num": 226689,
+      "word": "长风起开机",
+      "onboard_time": 1744771581,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 212741,
@@ -4395,14 +4443,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 206790,
-      "num": 205799,
-      "word": "一季度GDP同比增长5.4%",
-      "onboard_time": 1744770022,
-      "rank": 17,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 206628,
       "num": 206628,
       "word": "朴成训上岸",
@@ -4451,14 +4491,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 205878,
-      "num": 205878,
-      "word": "长风起开机",
-      "onboard_time": 1744771581,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 205856,
       "num": 205856,
       "word": "田曦薇是标准P人",
@@ -4489,6 +4521,14 @@
       "onboard_time": 1744559901,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 205115,
+      "num": 205115,
+      "word": "玉米蛋挞",
+      "onboard_time": 1744773625,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 205042,
@@ -5651,6 +5691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 177929,
+      "num": 177929,
+      "word": "白鹿今晚还回家吗",
+      "onboard_time": 1744774343,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 177558,
       "num": 177558,
       "word": "行星文化 荧光棒",
@@ -6091,6 +6139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167218,
+      "num": 167218,
+      "word": "饺子外形设计专利",
+      "onboard_time": 1744773683,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 166906,
       "num": 166906,
       "word": "九尾时隔227天重登赛场",
@@ -6145,14 +6201,6 @@
       "onboard_time": 1744527201,
       "rank": 28,
       "category": "网红,民生新闻"
-    },
-    {
-      "raw_hot": 164827,
-      "num": 164827,
-      "word": "A股",
-      "onboard_time": 1744596381,
-      "rank": 36,
-      "category": "财经"
     },
     {
       "raw_hot": 164581,
@@ -6233,6 +6281,14 @@
       "onboard_time": 1744640903,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 163290,
+      "num": 163290,
+      "word": "石头科技创始人清空社媒账号",
+      "onboard_time": 1744774823,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 163198,
@@ -6347,14 +6403,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 161674,
-      "num": 161674,
-      "word": "饺子外形设计专利",
-      "onboard_time": 1744773683,
-      "rank": 42,
-      "category": "美食"
-    },
-    {
       "raw_hot": 161526,
       "num": 161526,
       "word": "沈腾马丽谁把谁吃了",
@@ -6392,6 +6440,14 @@
       "word": "景德镇车祸遇难者家属拒绝赔偿和养老",
       "onboard_time": 1744625722,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160822,
+      "num": 160822,
+      "word": "律师解读订婚强奸案二审维持原判",
+      "onboard_time": 1744774464,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -6747,6 +6803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152809,
+      "num": 152809,
+      "word": "12306已恢复正常",
+      "onboard_time": 1744775122,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 152240,
       "num": 152240,
       "word": "朴知元无缘米兰冬奥",
@@ -6851,6 +6915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150206,
+      "num": 150206,
+      "word": "第一次见这么接地气的富二代",
+      "onboard_time": 1744775304,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150137,
       "num": 150137,
       "word": "赵又廷毛晓彤金世佳同框",
@@ -6873,14 +6945,6 @@
       "onboard_time": 1744472363,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 149758,
-      "num": 149758,
-      "word": "玉米蛋挞",
-      "onboard_time": 1744773625,
-      "rank": 47,
-      "category": "美食"
     },
     {
       "raw_hot": 149099,
@@ -7387,6 +7451,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 139624,
+      "num": 223411,
+      "word": "广东一毒枭房产七折起拍",
+      "onboard_time": 1744774944,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 139451,
       "num": 139451,
       "word": "沙尘暴",
@@ -7449,6 +7521,14 @@
       "onboard_time": 1744721182,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 138375,
+      "num": 138375,
+      "word": "未闻花名原班人马新作",
+      "onboard_time": 1744775003,
+      "rank": 44,
+      "category": "动漫"
     },
     {
       "raw_hot": 138306,
@@ -7817,6 +7897,14 @@
       "onboard_time": 1744533443,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 132255,
+      "num": 167226,
+      "word": "用肖战藏海传打开山东这些古风建筑",
+      "onboard_time": 1744775242,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 132096,
@@ -8243,6 +8331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125578,
+      "num": 125578,
+      "word": "朱一龙舒淇张真源同一天生日",
+      "onboard_time": 1744775423,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125555,
       "num": 125555,
       "word": "网信办整治4类短视频营销乱象",
@@ -8257,6 +8353,14 @@
       "onboard_time": 1744542622,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124722,
+      "num": 124722,
+      "word": "张杰鸟巢包月员工上班打卡成功",
+      "onboard_time": 1744775063,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 124709,
@@ -9545,6 +9649,14 @@
       "onboard_time": 1744698381,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 96527,
+      "num": 153364,
+      "word": "订婚强奸案女方已退还彩礼男方拒领",
+      "onboard_time": 1744774042,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96392,
@@ -10865,6 +10977,14 @@
       "onboard_time": 1744682182,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 44576,
+      "num": 155116,
+      "word": "坚持一个月把鼻炎养好",
+      "onboard_time": 1744774403,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 44380,
@@ -12225,6 +12345,14 @@
       "onboard_time": 1744722023,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 6770,
+      "num": 388137,
+      "word": "公安部网安局反网络霸权在行动",
+      "onboard_time": 1744775364,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 189,

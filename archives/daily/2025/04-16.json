@@ -1,10 +1,10 @@
 {
   "startTime": 1744734585432,
-  "endTime": 1744773936477,
+  "endTime": 1744775458914,
   "band_list": [
     {
-      "raw_hot": 9984237,
-      "num": 9984237,
+      "raw_hot": 10606514,
+      "num": 10606514,
       "word": "订婚强奸案二审驳回上诉",
       "onboard_time": 1744769062,
       "rank": 30,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2338037,
-      "num": 230651,
+      "num": 231980,
       "word": "特朗普凌晨2点开记者会折磨媒体",
       "onboard_time": 1744764503,
       "rank": 10,
@@ -36,11 +36,19 @@
     },
     {
       "raw_hot": 1694507,
-      "num": 222106,
+      "num": 236725,
       "word": "我的存款已经足够下半辈子不吃不喝了",
       "onboard_time": 1744767741,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1624465,
+      "num": 179303,
+      "word": "审判长回应女方处女膜未破裂",
+      "onboard_time": 1744773683,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1395317,
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 1283919,
-      "num": 227767,
+      "num": 233196,
       "word": "小猫悟空去世",
       "onboard_time": 1744759579,
       "rank": 13,
@@ -156,11 +164,19 @@
     },
     {
       "raw_hot": 511092,
-      "num": 205475,
+      "num": 228651,
       "word": "她差点拍到了自己的死亡",
       "onboard_time": 1744769182,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 463168,
+      "num": 463168,
+      "word": "金价",
+      "onboard_time": 1744765283,
+      "rank": 8,
+      "category": "财经"
     },
     {
       "raw_hot": 462275,
@@ -172,19 +188,11 @@
     },
     {
       "raw_hot": 459376,
-      "num": 205521,
+      "num": 227767,
       "word": "吃红肉 不痛经",
       "onboard_time": 1744768761,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 454413,
-      "num": 454413,
-      "word": "金价",
-      "onboard_time": 1744765283,
-      "rank": 8,
-      "category": "财经"
     },
     {
       "raw_hot": 448146,
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 419810,
-      "num": 205326,
+      "num": 219239,
       "word": "26岁小伙被大9岁已婚女子骗婚",
       "onboard_time": 1744764503,
       "rank": 22,
@@ -217,6 +225,14 @@
       "onboard_time": 1744728803,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 415504,
+      "num": 231066,
+      "word": "12306回应五一抢票崩了",
+      "onboard_time": 1744773443,
+      "rank": 22,
+      "category": "互联网"
     },
     {
       "raw_hot": 409514,
@@ -259,12 +275,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 322720,
-      "num": 322720,
+      "raw_hot": 333688,
+      "num": 333688,
       "word": "良陈美锦开机",
       "onboard_time": 1744770683,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 333404,
+      "num": 222764,
+      "word": "男子花155万买迈巴赫跑网约车",
+      "onboard_time": 1744774643,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 328371,
+      "num": 176384,
+      "word": "法院回应山西订婚强奸案焦点问题",
+      "onboard_time": 1744773503,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 316793,
@@ -272,6 +304,14 @@
       "word": "原来艺人的收入是这样算的",
       "onboard_time": 1744702041,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 314653,
+      "num": 220524,
+      "word": "有棵树 张予曦",
+      "onboard_time": 1744774703,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -299,12 +339,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 296722,
-      "num": 179303,
-      "word": "审判长回应女方处女膜未破裂",
-      "onboard_time": 1744773683,
-      "rank": 35,
-      "category": "民生新闻"
+      "raw_hot": 292503,
+      "num": 292503,
+      "word": "金饰价格涨至1007元",
+      "onboard_time": 1744771221,
+      "rank": 5,
+      "category": "财经"
     },
     {
       "raw_hot": 292369,
@@ -315,28 +355,28 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 285903,
+      "num": 152530,
+      "word": "订婚强奸案被告人母亲被训诫",
+      "onboard_time": 1744773922,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 280211,
+      "num": 280211,
+      "word": "明天可买五一当天火车票",
+      "onboard_time": 1744768161,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 278698,
       "num": 278698,
       "word": "TheShy状态",
       "onboard_time": 1744731381,
       "rank": 6,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 276361,
-      "num": 276361,
-      "word": "金饰价格涨至1007元",
-      "onboard_time": 1744771221,
-      "rank": 5,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 265601,
-      "num": 205253,
-      "word": "12306回应五一抢票崩了",
-      "onboard_time": 1744773443,
-      "rank": 22,
-      "category": "互联网"
     },
     {
       "raw_hot": 264088,
@@ -355,20 +395,20 @@
       "category": "财经,民生新闻"
     },
     {
-      "raw_hot": 247483,
-      "num": 205145,
+      "raw_hot": 256756,
+      "num": 256756,
+      "word": "宋祖儿靠演技杀回来了",
+      "onboard_time": 1744770741,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 250548,
+      "num": 250548,
       "word": "美正式将韩国列为敏感国家",
       "onboard_time": 1744772123,
       "rank": 38,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 246970,
-      "num": 246970,
-      "word": "明天可买五一当天火车票",
-      "onboard_time": 1744768161,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 240518,
@@ -385,6 +425,14 @@
       "onboard_time": 1744725564,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 238126,
+      "num": 238126,
+      "word": "一季度GDP同比增长5.4%",
+      "onboard_time": 1744770022,
+      "rank": 17,
+      "category": "国内时政"
     },
     {
       "raw_hot": 234888,
@@ -411,20 +459,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 221738,
-      "num": 221738,
-      "word": "宋祖儿靠演技杀回来了",
-      "onboard_time": 1744770741,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 216242,
-      "num": 176384,
-      "word": "法院回应山西订婚强奸案焦点问题",
-      "onboard_time": 1744773503,
-      "rank": 36,
-      "category": "民生新闻"
+      "raw_hot": 219062,
+      "num": 219062,
+      "word": "A股",
+      "onboard_time": 1744771462,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 215589,
@@ -433,6 +473,14 @@
       "onboard_time": 1744770623,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 212875,
+      "num": 226689,
+      "word": "长风起开机",
+      "onboard_time": 1744771581,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 212061,
@@ -459,20 +507,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 206790,
-      "num": 205799,
-      "word": "一季度GDP同比增长5.4%",
-      "onboard_time": 1744770022,
-      "rank": 17,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 205878,
-      "num": 205878,
-      "word": "长风起开机",
-      "onboard_time": 1744771581,
-      "rank": 12,
-      "category": "剧集"
+      "raw_hot": 205115,
+      "num": 205115,
+      "word": "玉米蛋挞",
+      "onboard_time": 1744773625,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 201567,
@@ -595,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177929,
+      "num": 177929,
+      "word": "白鹿今晚还回家吗",
+      "onboard_time": 1744774343,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176460,
       "num": 176460,
       "word": "与君歌",
@@ -635,12 +683,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 164827,
-      "num": 164827,
-      "word": "A股",
-      "onboard_time": 1744771462,
-      "rank": 37,
-      "category": "财经"
+      "raw_hot": 167218,
+      "num": 167218,
+      "word": "饺子外形设计专利",
+      "onboard_time": 1744773683,
+      "rank": 42,
+      "category": "美食"
     },
     {
       "raw_hot": 163808,
@@ -657,6 +705,14 @@
       "onboard_time": 1744731982,
       "rank": 28,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 163290,
+      "num": 163290,
+      "word": "石头科技创始人清空社媒账号",
+      "onboard_time": 1744774823,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 163198,
@@ -691,12 +747,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 161674,
-      "num": 161674,
-      "word": "饺子外形设计专利",
-      "onboard_time": 1744773683,
-      "rank": 42,
-      "category": "美食"
+      "raw_hot": 160822,
+      "num": 160822,
+      "word": "律师解读订婚强奸案二审维持原判",
+      "onboard_time": 1744774464,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160781,
@@ -723,6 +779,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 152809,
+      "num": 152809,
+      "word": "12306已恢复正常",
+      "onboard_time": 1744775122,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 151358,
       "num": 151358,
       "word": "朱一龙37岁作品实绩",
@@ -731,12 +795,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 149758,
-      "num": 149758,
-      "word": "玉米蛋挞",
-      "onboard_time": 1744773625,
-      "rank": 47,
-      "category": "美食"
+      "raw_hot": 150206,
+      "num": 150206,
+      "word": "第一次见这么接地气的富二代",
+      "onboard_time": 1744775304,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 146383,
@@ -795,6 +859,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139624,
+      "num": 223411,
+      "word": "广东一毒枭房产七折起拍",
+      "onboard_time": 1744774944,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138375,
+      "num": 138375,
+      "word": "未闻花名原班人马新作",
+      "onboard_time": 1744775003,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 134092,
       "num": 134092,
       "word": "国漫暗黑教科书伊莱克斯定档",
@@ -811,12 +891,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 132255,
+      "num": 167226,
+      "word": "用肖战藏海传打开山东这些古风建筑",
+      "onboard_time": 1744775242,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127739,
       "num": 127739,
       "word": "减脂期没戴眼镜",
       "onboard_time": 1744765881,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 125578,
+      "num": 125578,
+      "word": "朱一龙舒淇张真源同一天生日",
+      "onboard_time": 1744775423,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 124722,
+      "num": 124722,
+      "word": "张杰鸟巢包月员工上班打卡成功",
+      "onboard_time": 1744775063,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 123001,
@@ -921,6 +1025,14 @@
       "onboard_time": 1744766961,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 96527,
+      "num": 153364,
+      "word": "订婚强奸案女方已退还彩礼男方拒领",
+      "onboard_time": 1744774042,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96514,
@@ -1211,6 +1323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 44576,
+      "num": 155116,
+      "word": "坚持一个月把鼻炎养好",
+      "onboard_time": 1744774403,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 40994,
       "num": 169330,
       "word": "法院解释订婚强奸案二审为何维持原判",
@@ -1464,6 +1584,14 @@
       "word": "吉隆坡街头飘扬中马两国国旗",
       "onboard_time": 1744749314,
       "rank": 38,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 6770,
+      "num": 388137,
+      "word": "公安部网安局反网络霸权在行动",
+      "onboard_time": 1744775364,
+      "rank": 2,
       "category": "国内时政"
     }
   ],
