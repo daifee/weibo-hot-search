@@ -1,6 +1,6 @@
 {
   "startTime": 1744734585432,
-  "endTime": 1744814552702,
+  "endTime": 1744817257341,
   "band_list": [
     {
       "raw_hot": 10606514,
@@ -163,6 +163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1112232,
+      "num": 1177957,
+      "word": "美国批准韩企申请饺子外观专利",
+      "onboard_time": 1744813524,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1107660,
       "num": 272772,
       "word": "订婚强奸案男子坐牢近2年其父拒和解",
@@ -203,6 +211,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 923523,
+      "num": 923523,
+      "word": "王蓉疑似明涵浪姐有剧本",
+      "onboard_time": 1744812264,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 917172,
       "num": 917172,
       "word": "12306平稳度过今日售票高峰",
@@ -217,14 +233,6 @@
       "onboard_time": 1744791142,
       "rank": 4,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 888133,
-      "num": 888133,
-      "word": "王蓉疑似明涵浪姐有剧本",
-      "onboard_time": 1744812264,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 877339,
@@ -467,6 +475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 608369,
+      "num": 608369,
+      "word": "黄金",
+      "onboard_time": 1744811962,
+      "rank": 5,
+      "category": "财经"
+    },
+    {
       "raw_hot": 605603,
       "num": 236305,
       "word": "李昊怎么了",
@@ -496,6 +512,14 @@
       "word": "男子花155万买迈巴赫跑网约车",
       "onboard_time": 1744774643,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 544896,
+      "num": 246309,
+      "word": "8个月女婴被虐待体重仅6斤",
+      "onboard_time": 1744814783,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -547,14 +571,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 507192,
-      "num": 602124,
-      "word": "黄金",
-      "onboard_time": 1744811962,
-      "rank": 5,
-      "category": "财经"
-    },
-    {
       "raw_hot": 501445,
       "num": 501445,
       "word": "国台办回应Tank感谢祖国",
@@ -569,6 +585,14 @@
       "onboard_time": 1744787481,
       "rank": 25,
       "category": "财经"
+    },
+    {
+      "raw_hot": 496642,
+      "num": 496642,
+      "word": "澳门世界杯抽签",
+      "onboard_time": 1744816101,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 493992,
@@ -663,6 +687,14 @@
       "num": 578509,
       "word": "浪姐取消复活赛赛制",
       "onboard_time": 1744806021,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 421959,
+      "num": 421959,
+      "word": "宋雨琦证明孟子义真的会唱",
+      "onboard_time": 1744815443,
       "rank": 7,
       "category": "综艺"
     },
@@ -1035,6 +1067,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 265059,
+      "num": 245810,
+      "word": "双一流大学研究生是怎么洗澡的",
+      "onboard_time": 1744815622,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 264088,
       "num": 264088,
       "word": "家属回应男子思念亡妻无法释怀去世",
@@ -1065,6 +1105,14 @@
       "onboard_time": 1744778904,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 260958,
+      "num": 260958,
+      "word": "李晟四公第一",
+      "onboard_time": 1744817122,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 260341,
@@ -1137,6 +1185,22 @@
       "onboard_time": 1744778963,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 246649,
+      "num": 246649,
+      "word": "小学生看了两眼发现罂粟",
+      "onboard_time": 1744815381,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 244937,
+      "num": 244937,
+      "word": "林昀儒 鹰眼",
+      "onboard_time": 1744816462,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 240518,
@@ -1771,6 +1835,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 184786,
+      "num": 184786,
+      "word": "胡明轩被驱逐",
+      "onboard_time": 1744814724,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184303,
       "num": 184303,
       "word": "景区火到韩国张家界却在亏损",
@@ -1833,6 +1905,14 @@
       "onboard_time": 1744792042,
       "rank": 41,
       "category": "教育"
+    },
+    {
+      "raw_hot": 176969,
+      "num": 176969,
+      "word": "因记得外婆家竹林被拐30年后找到家",
+      "onboard_time": 1744814602,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 176460,
@@ -2219,12 +2299,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 152082,
+      "num": 152082,
+      "word": "换保姆争议后张馨月发声",
+      "onboard_time": 1744815143,
+      "rank": 32,
+      "category": "网红"
+    },
+    {
       "raw_hot": 151787,
       "num": 169182,
       "word": "遇到姿势诡异动物赶紧远离",
       "onboard_time": 1744801822,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151381,
+      "num": 151381,
+      "word": "朱开回应iG投资人",
+      "onboard_time": 1744816462,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 151358,
@@ -2571,6 +2667,14 @@
       "category": "国际时政,互联网"
     },
     {
+      "raw_hot": 130603,
+      "num": 130603,
+      "word": "男子失联一天一夜同事找开锁上门",
+      "onboard_time": 1744816763,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128935,
       "num": 128935,
       "word": "一首情诗就能查出现任出轨",
@@ -2585,6 +2689,14 @@
       "onboard_time": 1744787962,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 127744,
+      "num": 127744,
+      "word": "欧盟官员直言再不和中国合作就是傻子",
+      "onboard_time": 1744814843,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 127739,
@@ -2721,14 +2833,6 @@
       "onboard_time": 1744785621,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 117346,
-      "num": 196922,
-      "word": "美国批准韩企申请饺子外观专利",
-      "onboard_time": 1744813524,
-      "rank": 29,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 117333,
@@ -2915,6 +3019,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 100484,
+      "num": 265494,
+      "word": "互联网公司直播员工周末上班",
+      "onboard_time": 1744815863,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100467,
       "num": 175993,
       "word": "安全测试又被吉利加了难度",
@@ -3048,6 +3160,14 @@
       "word": "广佛线",
       "onboard_time": 1744764863,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89327,
+      "num": 140158,
+      "word": "小孩路边认出罂粟奖励坐警车上学",
+      "onboard_time": 1744817122,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -3411,6 +3531,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 59406,
+      "num": 177003,
+      "word": "华人讲述中国夫妇在意遭枪击遇害",
+      "onboard_time": 1744816221,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 59211,
       "num": 240039,
       "word": "美国在中东形成双航母打击群",
@@ -3635,6 +3763,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 39187,
+      "num": 246701,
+      "word": "水电站员工为图方便往水中倾倒垃圾",
+      "onboard_time": 1744815982,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38732,
       "num": 176633,
       "word": "林诗栋回应晋级世界杯16强",
@@ -3769,6 +3905,14 @@
       "onboard_time": 1744787902,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 26274,
+      "num": 134435,
+      "word": "微博文化交流之夜精彩舞台",
+      "onboard_time": 1744816941,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 25997,
