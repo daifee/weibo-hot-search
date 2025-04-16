@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744792397480,
+  "endTime": 1744793224766,
   "band_list": [
     {
       "raw_hot": 10606514,
@@ -684,7 +684,7 @@
     },
     {
       "raw_hot": 1107660,
-      "num": 240202,
+      "num": 272772,
       "word": "订婚强奸案男子坐牢近2年其父拒和解",
       "onboard_time": 1744786462,
       "rank": 36,
@@ -700,7 +700,7 @@
     },
     {
       "raw_hot": 1082767,
-      "num": 233300,
+      "num": 272187,
       "word": "破除订婚就有性权利的错误观念",
       "onboard_time": 1744782321,
       "rank": 32,
@@ -1059,6 +1059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 840893,
+      "num": 840893,
+      "word": "淘宝在美国突然爆火",
+      "onboard_time": 1744791142,
+      "rank": 4,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 840325,
       "num": 840325,
       "word": "第一次见录一半全睡了的综艺",
@@ -1337,14 +1345,6 @@
       "onboard_time": 1744703420,
       "rank": 11,
       "category": "演出"
-    },
-    {
-      "raw_hot": 731532,
-      "num": 731532,
-      "word": "淘宝在美国突然爆火",
-      "onboard_time": 1744791142,
-      "rank": 4,
-      "category": "互联网"
     },
     {
       "raw_hot": 727259,
@@ -1747,6 +1747,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 610178,
+      "num": 580869,
+      "word": "萧亚轩至今动了5次手术",
+      "onboard_time": 1744789403,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 608421,
       "num": 608421,
       "word": "公摊面积最大的蔬菜",
@@ -1785,14 +1793,6 @@
       "onboard_time": 1744589482,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 580869,
-      "num": 580869,
-      "word": "萧亚轩至今动了5次手术",
-      "onboard_time": 1744789403,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 575249,
@@ -2081,6 +2081,14 @@
       "onboard_time": 1744609822,
       "rank": 5,
       "category": "网红"
+    },
+    {
+      "raw_hot": 498476,
+      "num": 335259,
+      "word": "三星李在镕痛失韩国首富",
+      "onboard_time": 1744787481,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 495195,
@@ -2483,6 +2491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 416125,
+      "num": 1227728,
+      "word": "中国完成史诗级救星任务",
+      "onboard_time": 1744789342,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 415504,
       "num": 231066,
       "word": "12306回应五一抢票崩了",
@@ -2683,6 +2699,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 380665,
+      "num": 330519,
+      "word": "歌手 张惠妹",
+      "onboard_time": 1744792101,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 380500,
       "num": 380500,
       "word": "成家定档",
@@ -2841,6 +2865,14 @@
       "onboard_time": 1744787722,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 350839,
+      "num": 593821,
+      "word": "魏大勋周雨彤谈演绎父母爱情",
+      "onboard_time": 1744791622,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 350736,
@@ -3059,14 +3091,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 322013,
-      "num": 593821,
-      "word": "魏大勋周雨彤谈演绎父母爱情",
-      "onboard_time": 1744791622,
-      "rank": 6,
-      "category": "电影"
-    },
-    {
       "raw_hot": 321794,
       "num": 321794,
       "word": "全红婵回应获得亚军",
@@ -3081,6 +3105,14 @@
       "onboard_time": 1744623682,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 319627,
+      "num": 319627,
+      "word": "香港全款400万15平的小家",
+      "onboard_time": 1744791681,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 318859,
@@ -3129,14 +3161,6 @@
       "onboard_time": 1744532422,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 315859,
-      "num": 315859,
-      "word": "三星李在镕痛失韩国首富",
-      "onboard_time": 1744787481,
-      "rank": 25,
-      "category": "财经"
     },
     {
       "raw_hot": 314894,
@@ -3691,20 +3715,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 259178,
+      "num": 319969,
+      "word": "孟子义 异域公主",
+      "onboard_time": 1744789461,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 259071,
+      "num": 325126,
+      "word": "男子工亡婆婆分14万嫌少起诉儿媳",
+      "onboard_time": 1744792223,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 258003,
       "num": 258003,
       "word": "丁禹兮线上线下宣传齐思钧新书",
       "onboard_time": 1744536801,
       "rank": 31,
       "category": "艺人,读书作家"
-    },
-    {
-      "raw_hot": 257175,
-      "num": 1227728,
-      "word": "中国完成史诗级救星任务",
-      "onboard_time": 1744789342,
-      "rank": 1,
-      "category": "国内时政"
     },
     {
       "raw_hot": 257055,
@@ -3891,14 +3923,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 244904,
-      "num": 314783,
-      "word": "孟子义 异域公主",
-      "onboard_time": 1744789461,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 244052,
       "num": 221470,
       "word": "梁老师道歉",
@@ -3985,6 +4009,14 @@
       "onboard_time": 1744518743,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 239160,
+      "num": 584763,
+      "word": "郑州禁止在人多的公共场所遛狗",
+      "onboard_time": 1744791382,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 239124,
@@ -4291,14 +4323,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 225026,
-      "num": 225026,
-      "word": "歌手 张惠妹",
-      "onboard_time": 1744792101,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 224781,
       "num": 224781,
       "word": "怀了双胞胎的胎动",
@@ -4329,14 +4353,6 @@
       "onboard_time": 1744701921,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 223180,
-      "num": 223180,
-      "word": "香港全款400万15平的小家",
-      "onboard_time": 1744791681,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 222359,
@@ -4428,7 +4444,7 @@
     },
     {
       "raw_hot": 218351,
-      "num": 235921,
+      "num": 273183,
       "word": "台湾同胞跟着电视剧难哄打卡重庆",
       "onboard_time": 1744782022,
       "rank": 33,
@@ -4795,6 +4811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208679,
+      "num": 208679,
+      "word": "王蓉说蹉跎苦我一个人受了就行",
+      "onboard_time": 1744792522,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208624,
       "num": 208624,
       "word": "哪吒汽车",
@@ -5145,6 +5169,14 @@
       "onboard_time": 1744518922,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 200904,
+      "num": 200904,
+      "word": "尚界",
+      "onboard_time": 1744792763,
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 200623,
@@ -5643,12 +5675,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 190791,
+      "num": 190791,
+      "word": "外交部回应特朗普称球在中国那边",
+      "onboard_time": 1744792342,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 190641,
       "num": 190641,
       "word": "三河",
       "onboard_time": 1744708341,
       "rank": 25,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 190609,
+      "num": 190609,
+      "word": "泡泡玛特哪吒",
+      "onboard_time": 1744793062,
+      "rank": 42,
+      "category": "动漫"
     },
     {
       "raw_hot": 190115,
@@ -5713,14 +5761,6 @@
       "onboard_time": 1744720281,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 189120,
-      "num": 189120,
-      "word": "外交部回应特朗普称球在中国那边",
-      "onboard_time": 1744792342,
-      "rank": 48,
-      "category": "国际时政"
     },
     {
       "raw_hot": 188528,
@@ -7316,7 +7356,7 @@
     },
     {
       "raw_hot": 155821,
-      "num": 313589,
+      "num": 327775,
       "word": "问界M8七重安全设计",
       "onboard_time": 1744790663,
       "rank": 19,
@@ -7601,14 +7641,6 @@
       "onboard_time": 1744606285,
       "rank": 44,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 149091,
-      "num": 224090,
-      "word": "男子工亡婆婆分14万嫌少起诉儿媳",
-      "onboard_time": 1744792223,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 149009,
@@ -8299,6 +8331,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 137529,
+      "num": 152871,
+      "word": "黄金回收业务量大涨",
+      "onboard_time": 1744792941,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 137459,
       "num": 137459,
       "word": "广州本轮空气污染过程或持续2至3天",
@@ -8537,6 +8577,14 @@
       "onboard_time": 1744503379,
       "rank": 40,
       "category": "健康医疗,艺人"
+    },
+    {
+      "raw_hot": 134137,
+      "num": 272926,
+      "word": "薛之谦守村人实体专周边",
+      "onboard_time": 1744790601,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 134092,
@@ -9689,6 +9737,14 @@
       "onboard_time": 1744609163,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 116105,
+      "num": 951794,
+      "word": "美国滥施关税是在搬起石头砸自己的脚",
+      "onboard_time": 1744791981,
+      "rank": 2,
+      "category": "国际时政"
     },
     {
       "raw_hot": 115780,
@@ -11051,6 +11107,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 80205,
+      "num": 200004,
+      "word": "白鹿脱不下来的洞洞鞋",
+      "onboard_time": 1744792101,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 80116,
       "num": 80116,
       "word": "时代少年团祝张真源22岁生日快乐",
@@ -11089,6 +11153,14 @@
       "onboard_time": 1744715001,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78642,
+      "num": 581239,
+      "word": "一季度中国经济成绩单来了",
+      "onboard_time": 1744791741,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 78178,
@@ -11217,6 +11289,14 @@
       "onboard_time": 1744695442,
       "rank": 26,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 74248,
+      "num": 326935,
+      "word": "问界M8三季度升级ADS4",
+      "onboard_time": 1744792401,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 74164,
@@ -11377,14 +11457,6 @@
       "onboard_time": 1744630162,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 68349,
-      "num": 178322,
-      "word": "白鹿脱不下来的洞洞鞋",
-      "onboard_time": 1744792101,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 68331,
@@ -11833,14 +11905,6 @@
       "onboard_time": 1744587140,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 51197,
-      "num": 584763,
-      "word": "郑州禁止在人多的公共场所遛狗",
-      "onboard_time": 1744791382,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 50983,
@@ -12755,14 +12819,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 26133,
-      "num": 581239,
-      "word": "一季度中国经济成绩单来了",
-      "onboard_time": 1744791741,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 25725,
       "num": 155056,
       "word": "特朗普想驱逐美国囚犯",
@@ -13073,14 +13129,6 @@
       "onboard_time": 1744728203,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 20157,
-      "num": 919537,
-      "word": "美国滥施关税是在搬起石头砸自己的脚",
-      "onboard_time": 1744791981,
-      "rank": 2,
-      "category": "国际时政"
     },
     {
       "raw_hot": 20087,
@@ -13523,6 +13571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 8061,
+      "num": 199802,
+      "word": "军校VS警校报考指南",
+      "onboard_time": 1744793003,
+      "rank": 39,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 7943,
       "num": 153990,
       "word": "大阪世博实现无现金支付",
@@ -13614,6 +13670,9 @@
     },
     {
       "word": "#习近平会见马来西亚最高元首#"
+    },
+    {
+      "word": "#打造高水平战略性中马命运共同体#"
     }
   ]
 }
