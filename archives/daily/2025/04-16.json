@@ -1,10 +1,10 @@
 {
   "startTime": 1744734585432,
-  "endTime": 1744772943224,
+  "endTime": 1744773936477,
   "band_list": [
     {
-      "raw_hot": 5681455,
-      "num": 5681455,
+      "raw_hot": 9984237,
+      "num": 9984237,
       "word": "订婚强奸案二审驳回上诉",
       "onboard_time": 1744769062,
       "rank": 30,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 843489,
-      "num": 172701,
+      "num": 184947,
       "word": "山西订婚强奸案男方已被羁押711天",
       "onboard_time": 1744769962,
       "rank": 31,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 669713,
-      "num": 171184,
+      "num": 183779,
       "word": "认定席某某强奸事实证据有哪些",
       "onboard_time": 1744770623,
       "rank": 32,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 511092,
-      "num": 186161,
+      "num": 205475,
       "word": "她差点拍到了自己的死亡",
       "onboard_time": 1744769182,
       "rank": 31,
@@ -172,11 +172,19 @@
     },
     {
       "raw_hot": 459376,
-      "num": 185999,
+      "num": 205521,
       "word": "吃红肉 不痛经",
       "onboard_time": 1744768761,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 454413,
+      "num": 454413,
+      "word": "金价",
+      "onboard_time": 1744765283,
+      "rank": 8,
+      "category": "财经"
     },
     {
       "raw_hot": 448146,
@@ -187,19 +195,19 @@
       "category": "情感"
     },
     {
-      "raw_hot": 432225,
-      "num": 432225,
-      "word": "金价",
-      "onboard_time": 1744765283,
-      "rank": 8,
-      "category": "财经"
-    },
-    {
       "raw_hot": 419810,
-      "num": 187319,
+      "num": 205326,
       "word": "26岁小伙被大9岁已婚女子骗婚",
       "onboard_time": 1744764503,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 416408,
+      "num": 180038,
+      "word": "订婚强奸案男方母亲说罪名太丢人",
+      "onboard_time": 1744772061,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -251,20 +259,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 322720,
+      "num": 322720,
+      "word": "良陈美锦开机",
+      "onboard_time": 1744770683,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 316793,
       "num": 236155,
       "word": "原来艺人的收入是这样算的",
       "onboard_time": 1744702041,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 316217,
-      "num": 316217,
-      "word": "良陈美锦开机",
-      "onboard_time": 1744770683,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 311010,
@@ -291,6 +299,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 296722,
+      "num": 179303,
+      "word": "审判长回应女方处女膜未破裂",
+      "onboard_time": 1744773683,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 292369,
       "num": 220073,
       "word": "29岁女生不停运动6个月后",
@@ -315,6 +331,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 265601,
+      "num": 205253,
+      "word": "12306回应五一抢票崩了",
+      "onboard_time": 1744773443,
+      "rank": 22,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 264088,
       "num": 264088,
       "word": "家属回应男子思念亡妻无法释怀去世",
@@ -331,12 +355,12 @@
       "category": "财经,民生新闻"
     },
     {
-      "raw_hot": 250885,
-      "num": 170186,
-      "word": "订婚强奸案男方母亲说罪名太丢人",
-      "onboard_time": 1744772061,
-      "rank": 33,
-      "category": "民生新闻"
+      "raw_hot": 247483,
+      "num": 205145,
+      "word": "美正式将韩国列为敏感国家",
+      "onboard_time": 1744772123,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 246970,
@@ -387,6 +411,30 @@
       "category": "情感"
     },
     {
+      "raw_hot": 221738,
+      "num": 221738,
+      "word": "宋祖儿靠演技杀回来了",
+      "onboard_time": 1744770741,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 216242,
+      "num": 176384,
+      "word": "法院回应山西订婚强奸案焦点问题",
+      "onboard_time": 1744773503,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 215589,
+      "num": 215589,
+      "word": "黄友政vs张本智和",
+      "onboard_time": 1744770623,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 212061,
       "num": 168285,
       "word": "订婚强奸案",
@@ -396,19 +444,11 @@
     },
     {
       "raw_hot": 208232,
-      "num": 166464,
+      "num": 174534,
       "word": "审判长解释构成婚前强奸罪的理由",
       "onboard_time": 1744772302,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 207945,
-      "num": 207945,
-      "word": "黄友政vs张本智和",
-      "onboard_time": 1744770623,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 207488,
@@ -420,15 +460,15 @@
     },
     {
       "raw_hot": 206790,
-      "num": 186977,
+      "num": 205799,
       "word": "一季度GDP同比增长5.4%",
       "onboard_time": 1744770022,
       "rank": 17,
       "category": "国内时政"
     },
     {
-      "raw_hot": 203473,
-      "num": 203473,
+      "raw_hot": 205878,
+      "num": 205878,
       "word": "长风起开机",
       "onboard_time": 1744771581,
       "rank": 12,
@@ -483,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189341,
+      "num": 205462,
+      "word": "BEAST回归",
+      "onboard_time": 1744773263,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 187853,
       "num": 187853,
       "word": "滨崎步的腰",
@@ -491,12 +539,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 187368,
+      "num": 187368,
+      "word": "语文就得晚上考",
+      "onboard_time": 1744772362,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 187266,
-      "num": 187266,
+      "num": 205148,
       "word": "任敏此沙二搭",
       "onboard_time": 1744769722,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186598,
+      "num": 186598,
+      "word": "GDP",
+      "onboard_time": 1744773322,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 185882,
@@ -515,14 +579,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 185022,
-      "num": 165052,
-      "word": "语文就得晚上考",
-      "onboard_time": 1744772362,
-      "rank": 36,
-      "category": "教育"
-    },
-    {
       "raw_hot": 180799,
       "num": 180799,
       "word": "舒淇生日长文",
@@ -537,14 +593,6 @@
       "onboard_time": 1744739596,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 178501,
-      "num": 205624,
-      "word": "宋祖儿靠演技杀回来了",
-      "onboard_time": 1744770741,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 176460,
@@ -611,14 +659,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 163336,
-      "num": 163336,
-      "word": "美正式将韩国列为敏感国家",
-      "onboard_time": 1744772123,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 163198,
       "num": 161882,
       "word": "一个月唯一开心的一天",
@@ -635,12 +675,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 162134,
+      "num": 205357,
+      "word": "檀健次北影节开幕式红毯官宣",
+      "onboard_time": 1744772843,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 162033,
       "num": 162033,
       "word": "灰熊vs勇士",
       "onboard_time": 1744771522,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161674,
+      "num": 161674,
+      "word": "饺子外形设计专利",
+      "onboard_time": 1744773683,
+      "rank": 42,
+      "category": "美食"
     },
     {
       "raw_hot": 160781,
@@ -673,6 +729,14 @@
       "onboard_time": 1744765822,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 149758,
+      "num": 149758,
+      "word": "玉米蛋挞",
+      "onboard_time": 1744773625,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 146383,
@@ -868,7 +932,7 @@
     },
     {
       "raw_hot": 95387,
-      "num": 186725,
+      "num": 205082,
       "word": "跨境电商概念多股涨停",
       "onboard_time": 1744772663,
       "rank": 18,
@@ -995,14 +1059,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 72903,
-      "num": 150045,
-      "word": "檀健次北影节开幕式红毯官宣",
-      "onboard_time": 1744772843,
-      "rank": 44,
-      "category": "电影"
-    },
-    {
       "raw_hot": 72451,
       "num": 193377,
       "word": "黄友政暴力正手对攻张本智和",
@@ -1083,12 +1139,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58419,
+      "num": 392281,
+      "word": "报告显示投资者或被关税反复愚弄",
+      "onboard_time": 1744724663,
+      "rank": 2,
+      "category": "国内时政,财经"
+    },
+    {
       "raw_hot": 56918,
       "num": 112207,
       "word": "中方谴责美国政府的恶意网络行为",
       "onboard_time": 1744734619,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 55505,
+      "num": 205857,
+      "word": "欧盟赴美官员带一次性手机防偷窥",
+      "onboard_time": 1744773023,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 55381,
@@ -1139,12 +1211,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 45732,
-      "num": 392281,
-      "word": "报告显示投资者或被关税反复愚弄",
-      "onboard_time": 1744724663,
-      "rank": 2,
-      "category": "国内时政,财经"
+      "raw_hot": 40994,
+      "num": 169330,
+      "word": "法院解释订婚强奸案二审为何维持原判",
+      "onboard_time": 1744773263,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40180,
@@ -1163,12 +1235,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 37599,
+      "num": 205686,
+      "word": "张本智和晋级澳门世界杯16强",
+      "onboard_time": 1744773625,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 36835,
       "num": 50062,
       "word": "奔跑吧前方发来报道",
       "onboard_time": 1744737976,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 36188,
+      "num": 205222,
+      "word": "孙颖莎世界杯首战速胜",
+      "onboard_time": 1744773625,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 35002,
@@ -1185,6 +1273,14 @@
       "onboard_time": 1744738517,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 31865,
+      "num": 205397,
+      "word": "黄友政无缘澳门世界杯16强",
+      "onboard_time": 1744773625,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 27844,
@@ -1235,12 +1331,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 21669,
+      "num": 205648,
+      "word": "安宰贤3比1阿萨尔",
+      "onboard_time": 1744773625,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 19668,
       "num": 19668,
       "word": "时代少年团四专睡衣造型",
       "onboard_time": 1744744274,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 18919,
+      "num": 186712,
+      "word": "美制造商价格高3倍质量仍不如中企",
+      "onboard_time": 1744773202,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 18822,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1744773936477,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 688111,
+        "num": 1110097,
+        "word": "拜登公开抨击特朗普",
+        "onboard_time": 1744768041,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 454413,
+        "num": 454413,
+        "word": "金价",
+        "onboard_time": 1744765283,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 58419,
+        "num": 388184,
+        "word": "报告显示投资者或被关税反复愚弄",
+        "onboard_time": 1744724663,
+        "rank": 2,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 341118,
+        "num": 341118,
+        "word": "张凌赫和替身走戏",
+        "onboard_time": 1744766303,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 322720,
+        "num": 322720,
+        "word": "良陈美锦开机",
+        "onboard_time": 1744770683,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 263806,
+        "num": 263806,
+        "word": "金饰价格涨至1007元",
+        "onboard_time": 1744771221,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 221738,
+        "num": 221738,
+        "word": "宋祖儿靠演技杀回来了",
+        "onboard_time": 1744770741,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215589,
+        "num": 215589,
+        "word": "黄友政vs张本智和",
+        "onboard_time": 1744770623,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205878,
+        "num": 205878,
+        "word": "长风起开机",
+        "onboard_time": 1744771581,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55505,
+        "num": 205857,
+        "word": "欧盟赴美官员带一次性手机防偷窥",
+        "onboard_time": 1744773023,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 185657,
+        "num": 205799,
+        "word": "一季度GDP同比增长5.4%",
+        "onboard_time": 1744770022,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1421932,
+        "num": 205770,
+        "word": "我的存款已经足够下半辈子不吃不喝了",
+        "onboard_time": 1744767741,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 984140,
+        "num": 205699,
+        "word": "小猫悟空去世",
+        "onboard_time": 1744759579,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 37599,
+        "num": 205686,
+        "word": "张本智和晋级澳门世界杯16强",
+        "onboard_time": 1744773625,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21669,
+        "num": 205648,
+        "word": "安宰贤3比1阿萨尔",
+        "onboard_time": 1744773625,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 604919,
+        "num": 205585,
+        "word": "特朗普凌晨2点开记者会折磨媒体",
+        "onboard_time": 1744764503,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 457296,
+        "num": 205521,
+        "word": "吃红肉 不痛经",
+        "onboard_time": 1744768761,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 368327,
+        "num": 205475,
+        "word": "她差点拍到了自己的死亡",
+        "onboard_time": 1744769182,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189341,
+        "num": 205462,
+        "word": "BEAST回归",
+        "onboard_time": 1744773263,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 31865,
+        "num": 205397,
+        "word": "黄友政无缘澳门世界杯16强",
+        "onboard_time": 1744773625,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162134,
+        "num": 205357,
+        "word": "檀健次北影节开幕式红毯官宣",
+        "onboard_time": 1744772843,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 272302,
+        "num": 205326,
+        "word": "26岁小伙被大9岁已婚女子骗婚",
+        "onboard_time": 1744764503,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265601,
+        "num": 205253,
+        "word": "12306回应五一抢票崩了",
+        "onboard_time": 1744773443,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 36188,
+        "num": 205222,
+        "word": "孙颖莎世界杯首战速胜",
+        "onboard_time": 1744773625,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169153,
+        "num": 205148,
+        "word": "任敏此沙二搭",
+        "onboard_time": 1744769722,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247483,
+        "num": 205145,
+        "word": "美正式将韩国列为敏感国家",
+        "onboard_time": 1744772123,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 87686,
+        "num": 205082,
+        "word": "跨境电商概念多股涨停",
+        "onboard_time": 1744772663,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 205057,
+        "num": 205057,
+        "word": "明天可买五一当天火车票",
+        "onboard_time": 1744768161,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187368,
+        "num": 187368,
+        "word": "语文就得晚上考",
+        "onboard_time": 1744772362,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 18919,
+        "num": 186712,
+        "word": "美制造商价格高3倍质量仍不如中企",
+        "onboard_time": 1744773202,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 9984237,
+        "num": 9984237,
+        "word": "订婚强奸案二审驳回上诉",
+        "onboard_time": 1744769062,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186598,
+        "num": 186598,
+        "word": "GDP",
+        "onboard_time": 1744773322,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 776252,
+        "num": 184947,
+        "word": "山西订婚强奸案男方已被羁押711天",
+        "onboard_time": 1744769962,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 537960,
+        "num": 183779,
+        "word": "认定席某某强奸事实证据有哪些",
+        "onboard_time": 1744770623,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 416408,
+        "num": 180038,
+        "word": "订婚强奸案男方母亲说罪名太丢人",
+        "onboard_time": 1744772061,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296722,
+        "num": 179303,
+        "word": "审判长回应女方处女膜未破裂",
+        "onboard_time": 1744773683,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216242,
+        "num": 176384,
+        "word": "法院回应山西订婚强奸案焦点问题",
+        "onboard_time": 1744773503,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174620,
+        "num": 174620,
+        "word": "美国被曝要去深海非法挖稀土",
+        "onboard_time": 1744735158,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 174534,
+        "num": 174534,
+        "word": "审判长解释构成婚前强奸罪的理由",
+        "onboard_time": 1744772302,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40994,
+        "num": 169330,
+        "word": "法院解释订婚强奸案二审为何维持原判",
+        "onboard_time": 1744773263,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168926,
+        "num": 168926,
+        "word": "花1400打独享顺风车拼了7个人",
+        "onboard_time": 1744765221,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165175,
+        "num": 165175,
+        "word": "空腹断食12小时的变化",
+        "onboard_time": 1744758920,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161674,
+        "num": 161674,
+        "word": "饺子外形设计专利",
+        "onboard_time": 1744773683,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 161481,
+        "num": 161481,
+        "word": "灰熊vs勇士",
+        "onboard_time": 1744771522,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158129,
+        "num": 158129,
+        "word": "订婚强奸案",
+        "onboard_time": 1744769782,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157768,
+        "num": 157768,
+        "word": "舒淇生日长文",
+        "onboard_time": 1744769962,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150317,
+        "num": 150317,
+        "word": "易烊千玺感谢新华社邀请",
+        "onboard_time": 1744769002,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149758,
+        "num": 149758,
+        "word": "玉米蛋挞",
+        "onboard_time": 1744773625,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 107961,
+        "num": 147683,
+        "word": "庄达菲新剧嘴里是恨眼里是爱",
+        "onboard_time": 1744772422,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130314,
+        "num": 147015,
+        "word": "折腰没播",
+        "onboard_time": 1744728144,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对马来西亚进行国事访问#"
+    }
+  }
+}
