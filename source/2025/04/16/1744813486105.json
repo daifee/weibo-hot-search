@@ -1,0 +1,410 @@
+{
+  "runTime": 1744813486105,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1275981,
+        "num": 1275981,
+        "word": "拜登说想见见300岁还领社保的人",
+        "onboard_time": 1744807043,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 799786,
+        "num": 893716,
+        "word": "肥娟119元网购桶装冰激凌卖2元一杯",
+        "onboard_time": 1744808602,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158125,
+        "num": 890536,
+        "word": "美企说承受不起巨额关税账单",
+        "onboard_time": 1744805181,
+        "rank": 2,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 888133,
+        "num": 888133,
+        "word": "王蓉疑似明涵浪姐有剧本",
+        "onboard_time": 1744812264,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 680560,
+        "num": 680560,
+        "word": "外交部回应美对华加征245%关税",
+        "onboard_time": 1744789041,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 354839,
+        "num": 602124,
+        "word": "黄金",
+        "onboard_time": 1744811962,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 524336,
+        "num": 524336,
+        "word": "中方不予理会美方关税数字游戏",
+        "onboard_time": 1744807762,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 378414,
+        "num": 378414,
+        "word": "花田错839分",
+        "onboard_time": 1744805542,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313689,
+        "num": 313689,
+        "word": "特朗普听故宫三原色道理后懵圈",
+        "onboard_time": 1744803921,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107635,
+        "num": 313160,
+        "word": "神二十近日择机发射",
+        "onboard_time": 1744811361,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1363422,
+        "num": 310367,
+        "word": "小狗毛毛去世",
+        "onboard_time": 1744810821,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1048670,
+        "num": 308657,
+        "word": "刘耀文回应和张真源冷战",
+        "onboard_time": 1744808602,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 935229,
+        "num": 305459,
+        "word": "虎门站一旅客跳股道身亡",
+        "onboard_time": 1744811723,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 886517,
+        "num": 301987,
+        "word": "朱一龙回应杨蓉",
+        "onboard_time": 1744805722,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 377030,
+        "num": 299662,
+        "word": "结婚3年妻子开着宝马带孩子走了",
+        "onboard_time": 1744801401,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 357110,
+        "num": 298351,
+        "word": "谭薇淘汰",
+        "onboard_time": 1744812081,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105920,
+        "num": 296300,
+        "word": "王安宇真的没开美白滤镜吗",
+        "onboard_time": 1744811182,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294046,
+        "num": 294046,
+        "word": "王楚钦回应晋级淘汰赛",
+        "onboard_time": 1744811063,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 288099,
+        "num": 288099,
+        "word": "无忧渡迟雪 中戏第一",
+        "onboard_time": 1744803143,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287038,
+        "num": 287038,
+        "word": "上海女教师怒怼安福路偷拍老法师",
+        "onboard_time": 1744804282,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 328422,
+        "num": 281971,
+        "word": "王俊凯五哈录制全黑look",
+        "onboard_time": 1744813044,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 256236,
+        "num": 256236,
+        "word": "王鹤棣委托工作人员出来安慰粉丝",
+        "onboard_time": 1744806562,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253536,
+        "num": 253536,
+        "word": "浪姐取消复活赛赛制",
+        "onboard_time": 1744806021,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210512,
+        "num": 252318,
+        "word": "国台办回应Tank感谢祖国",
+        "onboard_time": 1744801882,
+        "rank": 23,
+        "category": "国内时政,艺人"
+      },
+      {
+        "raw_hot": 209466,
+        "num": 251005,
+        "word": "F勒布伦无缘世界杯16强",
+        "onboard_time": 1744812442,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204643,
+        "num": 249657,
+        "word": "仙台有树韩国播出",
+        "onboard_time": 1744813224,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31052,
+        "num": 247648,
+        "word": "我为什么喜欢吉卜力动画",
+        "onboard_time": 1744810103,
+        "rank": 26,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 202982,
+        "num": 246011,
+        "word": "值得爱",
+        "onboard_time": 1744812503,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244875,
+        "num": 244875,
+        "word": "柯淳拐弯抹角打听赵丽颖",
+        "onboard_time": 1744803322,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114937,
+        "num": 229119,
+        "word": "林允短剧霸总人格觉醒",
+        "onboard_time": 1744813284,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224609,
+        "num": 224609,
+        "word": "花田错",
+        "onboard_time": 1744809081,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217658,
+        "num": 217658,
+        "word": "久哲 败采",
+        "onboard_time": 1744812143,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 207647,
+        "num": 207647,
+        "word": "敖隐 敖丙",
+        "onboard_time": 1744780463,
+        "rank": 32,
+        "category": "游戏,电影"
+      },
+      {
+        "raw_hot": 195677,
+        "num": 195677,
+        "word": "歌手首发阵容",
+        "onboard_time": 1744783463,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177893,
+        "num": 177893,
+        "word": "王曼昱小组第一出线",
+        "onboard_time": 1744811783,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100467,
+        "num": 175993,
+        "word": "安全测试又被吉利加了难度",
+        "onboard_time": 1744812442,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 175132,
+        "num": 175132,
+        "word": "王楚钦vs普卡",
+        "onboard_time": 1744807942,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173380,
+        "num": 173380,
+        "word": "山西男篮vs广东男篮",
+        "onboard_time": 1744804942,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168635,
+        "num": 168635,
+        "word": "王蓉说蹉跎苦我一个人受了就行",
+        "onboard_time": 1744792522,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158771,
+        "num": 158771,
+        "word": "无限暖暖",
+        "onboard_time": 1744812201,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 147906,
+        "num": 147906,
+        "word": "无忧渡伍娘演技",
+        "onboard_time": 1744805902,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147269,
+        "num": 147269,
+        "word": "基因相似度0%意味着什么",
+        "onboard_time": 1744787001,
+        "rank": 41,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 146282,
+        "num": 146282,
+        "word": "外国选手被孙颖莎的勤奋震撼到了",
+        "onboard_time": 1744811242,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144451,
+        "num": 144451,
+        "word": "有金店1周卖了近2500万元",
+        "onboard_time": 1744813343,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 144412,
+        "num": 144412,
+        "word": "乘风2025四公结果",
+        "onboard_time": 1744807642,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144157,
+        "num": 144157,
+        "word": "为什么冰块可以很好的清洗油锅",
+        "onboard_time": 1744810703,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137146,
+        "num": 141735,
+        "word": "袁娅维直播吃早茶配火锅",
+        "onboard_time": 1744811843,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140633,
+        "num": 140633,
+        "word": "面对亲人离世越冷静越危险",
+        "onboard_time": 1744806922,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140580,
+        "num": 140580,
+        "word": "林高远无缘澳门世界杯16强",
+        "onboard_time": 1744803202,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121709,
+        "num": 132766,
+        "word": "毛毛果",
+        "onboard_time": 1744810642,
+        "rank": 49,
+        "category": "网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#老朋友擘画中马关系新未来#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1744734585432,
-  "endTime": 1744811126410,
+  "endTime": 1744813486105,
   "band_list": [
     {
       "raw_hot": 10606514,
@@ -107,6 +107,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1363422,
+      "num": 310367,
+      "word": "小狗毛毛去世",
+      "onboard_time": 1744810821,
+      "rank": 40,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1353618,
       "num": 1353618,
       "word": "敖隐 敖丙",
@@ -187,6 +195,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 935229,
+      "num": 305459,
+      "word": "虎门站一旅客跳股道身亡",
+      "onboard_time": 1744811723,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 917172,
       "num": 917172,
       "word": "12306平稳度过今日售票高峰",
@@ -201,6 +217,14 @@
       "onboard_time": 1744791142,
       "rank": 4,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 888133,
+      "num": 888133,
+      "word": "王蓉疑似明涵浪姐有剧本",
+      "onboard_time": 1744812264,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 877339,
@@ -755,6 +779,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 357110,
+      "num": 298351,
+      "word": "谭薇淘汰",
+      "onboard_time": 1744812081,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 354839,
+      "num": 602124,
+      "word": "黄金",
+      "onboard_time": 1744811962,
+      "rank": 5,
+      "category": "财经"
+    },
+    {
       "raw_hot": 353654,
       "num": 287074,
       "word": "刘若谷中戏第一",
@@ -801,6 +841,14 @@
       "onboard_time": 1744770683,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 328422,
+      "num": 281971,
+      "word": "王俊凯五哈录制全黑look",
+      "onboard_time": 1744813044,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 324899,
@@ -865,6 +913,14 @@
       "onboard_time": 1744794982,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 294046,
+      "num": 294046,
+      "word": "王楚钦回应晋级淘汰赛",
+      "onboard_time": 1744811063,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 293069,
@@ -1171,6 +1227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 224609,
+      "num": 224609,
+      "word": "花田错",
+      "onboard_time": 1744809081,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 223416,
       "num": 188275,
       "word": "我的存款已经足够下半辈子吃不喝了",
@@ -1201,6 +1265,14 @@
       "onboard_time": 1744782022,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 217658,
+      "num": 217658,
+      "word": "久哲 败采",
+      "onboard_time": 1744812143,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 215589,
@@ -1259,6 +1331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209466,
+      "num": 251005,
+      "word": "F勒布伦无缘世界杯16强",
+      "onboard_time": 1744812442,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 208868,
       "num": 897399,
       "word": "美企说承受不起巨额关税账单",
@@ -1307,6 +1387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204643,
+      "num": 249657,
+      "word": "仙台有树韩国播出",
+      "onboard_time": 1744813224,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203221,
       "num": 203221,
       "word": "你说这个杀猪的是钟楚曦吗",
@@ -1321,6 +1409,14 @@
       "onboard_time": 1744810283,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202982,
+      "num": 246011,
+      "word": "值得爱",
+      "onboard_time": 1744799241,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 202737,
@@ -1369,14 +1465,6 @@
       "onboard_time": 1744785143,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 199755,
-      "num": 209284,
-      "word": "花田错",
-      "onboard_time": 1744809081,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 199107,
@@ -1723,6 +1811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177893,
+      "num": 177893,
+      "word": "王曼昱小组第一出线",
+      "onboard_time": 1744811783,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177432,
       "num": 212572,
       "word": "多所院校考研复试圆满结束",
@@ -1785,6 +1881,14 @@
       "onboard_time": 1744794862,
       "rank": 44,
       "category": "民生新闻,体育"
+    },
+    {
+      "raw_hot": 173380,
+      "num": 173380,
+      "word": "山西男篮vs广东男篮",
+      "onboard_time": 1744804942,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 172938,
@@ -1899,14 +2003,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 165524,
-      "num": 196431,
-      "word": "值得爱",
-      "onboard_time": 1744799241,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 164192,
       "num": 373106,
       "word": "极氪是懂豪华的",
@@ -1979,14 +2075,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 161985,
-      "num": 161985,
-      "word": "小狗毛毛去世",
-      "onboard_time": 1744810821,
-      "rank": 40,
-      "category": "网红"
-    },
-    {
       "raw_hot": 161568,
       "num": 169397,
       "word": "30万级豪华大六座怎么选",
@@ -2033,6 +2121,14 @@
       "onboard_time": 1744731921,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 158771,
+      "num": 158771,
+      "word": "无限暖暖",
+      "onboard_time": 1744812201,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 158042,
@@ -2187,6 +2283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146282,
+      "num": 146282,
+      "word": "外国选手被孙颖莎的勤奋震撼到了",
+      "onboard_time": 1744811242,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146028,
       "num": 146028,
       "word": "妻子哭诉骑电车比开130万宝马开心",
@@ -2225,6 +2329,22 @@
       "onboard_time": 1744729763,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144451,
+      "num": 144451,
+      "word": "有金店1周卖了近2500万元",
+      "onboard_time": 1744813343,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 144157,
+      "num": 144157,
+      "word": "为什么冰块可以很好的清洗油锅",
+      "onboard_time": 1744810703,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 144051,
@@ -2315,6 +2435,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 137146,
+      "num": 141735,
+      "word": "袁娅维直播吃早茶配火锅",
+      "onboard_time": 1744811843,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136985,
       "num": 233152,
       "word": "现货黄金突破3230美元关口",
@@ -2328,14 +2456,6 @@
       "word": "周雨夸王楚钦太全面了",
       "onboard_time": 1744795882,
       "rank": 19,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 136158,
-      "num": 136158,
-      "word": "山西男篮vs广东男篮",
-      "onboard_time": 1744804942,
-      "rank": 32,
       "category": "体育"
     },
     {
@@ -2571,14 +2691,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 118507,
-      "num": 118507,
-      "word": "为什么冰块可以很好的清洗油锅",
-      "onboard_time": 1744810703,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 117919,
       "num": 117919,
       "word": "张真源帅照被格式化了",
@@ -2609,6 +2721,14 @@
       "onboard_time": 1744727603,
       "rank": 36,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 114937,
+      "num": 229119,
+      "word": "林允短剧霸总人格觉醒",
+      "onboard_time": 1744813284,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 114436,
@@ -2683,12 +2803,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 107635,
+      "num": 313160,
+      "word": "神二十近日择机发射",
+      "onboard_time": 1744811361,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 106291,
       "num": 354668,
       "word": "澳门世界杯王曼昱出线形势",
       "onboard_time": 1744777824,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105920,
+      "num": 296300,
+      "word": "王安宇真的没开美白滤镜吗",
+      "onboard_time": 1744811182,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 105744,
@@ -2753,6 +2889,14 @@
       "onboard_time": 1744767802,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 100467,
+      "num": 175993,
+      "word": "安全测试又被吉利加了难度",
+      "onboard_time": 1744812442,
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 100101,
@@ -3523,19 +3667,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 31052,
+      "num": 247648,
+      "word": "我为什么喜欢吉卜力动画",
+      "onboard_time": 1744810103,
+      "rank": 26,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 30934,
       "num": 230420,
       "word": "孙颖莎世界杯赛前训练",
       "onboard_time": 1744780583,
       "rank": 14,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 29607,
-      "num": 162324,
-      "word": "王楚钦回应晋级淘汰赛",
-      "onboard_time": 1744811063,
-      "rank": 38,
       "category": "体育"
     },
     {
@@ -3585,14 +3729,6 @@
       "onboard_time": 1744739117,
       "rank": 46,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 24134,
-      "num": 211199,
-      "word": "我为什么喜欢吉卜力动画",
-      "onboard_time": 1744810103,
-      "rank": 26,
-      "category": "动漫"
     },
     {
       "raw_hot": 23375,
@@ -3886,6 +4022,9 @@
     },
     {
       "word": "#习近平同马来西亚总理举行会谈#"
+    },
+    {
+      "word": "#老朋友擘画中马关系新未来#"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744811126410,
+  "endTime": 1744813486105,
   "band_list": [
     {
       "raw_hot": 10606514,
@@ -449,6 +449,14 @@
       "onboard_time": 1744548082,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1363422,
+      "num": 310367,
+      "word": "小狗毛毛去世",
+      "onboard_time": 1744810821,
+      "rank": 40,
+      "category": "网红"
     },
     {
       "raw_hot": 1354399,
@@ -955,6 +963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 935229,
+      "num": 305459,
+      "word": "虎门站一旅客跳股道身亡",
+      "onboard_time": 1744811723,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 934677,
       "num": 413508,
       "word": "芒果台丢下卤鹅哥那一刻",
@@ -1057,6 +1073,14 @@
       "onboard_time": 1744791142,
       "rank": 4,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 888133,
+      "num": 888133,
+      "word": "王蓉疑似明涵浪姐有剧本",
+      "onboard_time": 1744812264,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 882913,
@@ -3091,6 +3115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 357110,
+      "num": 298351,
+      "word": "谭薇淘汰",
+      "onboard_time": 1744812081,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 353965,
       "num": 353965,
       "word": "易烊千玺 大导缘",
@@ -3273,6 +3305,14 @@
       "onboard_time": 1744712780,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 328422,
+      "num": 281971,
+      "word": "王俊凯五哈录制全黑look",
+      "onboard_time": 1744813044,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 328292,
@@ -3529,6 +3569,14 @@
       "onboard_time": 1744794982,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 294046,
+      "num": 294046,
+      "word": "王楚钦回应晋级淘汰赛",
+      "onboard_time": 1744811063,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 293634,
@@ -4651,6 +4699,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 224609,
+      "num": 224609,
+      "word": "花田错",
+      "onboard_time": 1744809081,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 223416,
       "num": 188275,
       "word": "我的存款已经足够下半辈子吃不喝了",
@@ -4777,6 +4833,14 @@
       "onboard_time": 1744517062,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 217658,
+      "num": 217658,
+      "word": "久哲 败采",
+      "onboard_time": 1744812143,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 217066,
@@ -5107,6 +5171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 209466,
+      "num": 251005,
+      "word": "F勒布伦无缘世界杯16强",
+      "onboard_time": 1744812442,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 209041,
       "num": 209041,
       "word": "虞书欣撕拉片vlog",
@@ -5347,6 +5419,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 204643,
+      "num": 249657,
+      "word": "仙台有树韩国播出",
+      "onboard_time": 1744813224,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204493,
       "num": 204493,
       "word": "enhypen将6月5日回归",
@@ -5424,6 +5504,14 @@
       "word": "猫妖换命引路木偶大变活人",
       "onboard_time": 1744640005,
       "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 202982,
+      "num": 246011,
+      "word": "值得爱",
+      "onboard_time": 1744799241,
+      "rank": 47,
       "category": "剧集"
     },
     {
@@ -5553,14 +5641,6 @@
       "onboard_time": 1744674921,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 199755,
-      "num": 209284,
-      "word": "花田错",
-      "onboard_time": 1744809081,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 199653,
@@ -6763,6 +6843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177893,
+      "num": 177893,
+      "word": "王曼昱小组第一出线",
+      "onboard_time": 1744811783,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177558,
       "num": 177558,
       "word": "行星文化 荧光棒",
@@ -7025,6 +7113,14 @@
       "onboard_time": 1744624403,
       "rank": 13,
       "category": "数码"
+    },
+    {
+      "raw_hot": 173380,
+      "num": 173380,
+      "word": "山西男篮vs广东男篮",
+      "onboard_time": 1744804942,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 172938,
@@ -7379,14 +7475,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 165524,
-      "num": 196431,
-      "word": "值得爱",
-      "onboard_time": 1744799241,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 165415,
       "num": 240810,
       "word": "网友偶遇吴世勋吃饭",
@@ -7603,14 +7691,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 161985,
-      "num": 161985,
-      "word": "小狗毛毛去世",
-      "onboard_time": 1744810821,
-      "rank": 40,
-      "category": "网红"
-    },
-    {
       "raw_hot": 161897,
       "num": 161897,
       "word": "ITZY获胜",
@@ -7777,6 +7857,14 @@
       "onboard_time": 1744712182,
       "rank": 35,
       "category": "数码,互联网"
+    },
+    {
+      "raw_hot": 158771,
+      "num": 158771,
+      "word": "无限暖暖",
+      "onboard_time": 1744812201,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 158687,
@@ -8371,6 +8459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146282,
+      "num": 146282,
+      "word": "外国选手被孙颖莎的勤奋震撼到了",
+      "onboard_time": 1744811242,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146212,
       "num": 146212,
       "word": "年轻人把AI当成心理中医",
@@ -8497,6 +8593,22 @@
       "onboard_time": 1744676902,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 144451,
+      "num": 144451,
+      "word": "有金店1周卖了近2500万元",
+      "onboard_time": 1744813343,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 144157,
+      "num": 144157,
+      "word": "为什么冰块可以很好的清洗油锅",
+      "onboard_time": 1744810703,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 144152,
@@ -9019,6 +9131,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 137146,
+      "num": 141735,
+      "word": "袁娅维直播吃早茶配火锅",
+      "onboard_time": 1744811843,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137016,
       "num": 137016,
       "word": "快乐的大人",
@@ -9081,14 +9201,6 @@
       "onboard_time": 1744640844,
       "rank": 43,
       "category": "教育"
-    },
-    {
-      "raw_hot": 136158,
-      "num": 136158,
-      "word": "山西男篮vs广东男篮",
-      "onboard_time": 1744804942,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 136084,
@@ -10331,14 +10443,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 118507,
-      "num": 118507,
-      "word": "为什么冰块可以很好的清洗油锅",
-      "onboard_time": 1744810703,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 118478,
       "num": 118478,
       "word": "王一博VOGUE五月号预告",
@@ -10569,6 +10673,14 @@
       "onboard_time": 1744687521,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 114937,
+      "num": 229119,
+      "word": "林允短剧霸总人格觉醒",
+      "onboard_time": 1744813284,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 114836,
@@ -10923,6 +11035,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 107635,
+      "num": 313160,
+      "word": "神二十近日择机发射",
+      "onboard_time": 1744811361,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 107494,
       "num": 107494,
       "word": "好一节标准的小狗礼仪课",
@@ -10969,6 +11089,14 @@
       "onboard_time": 1744529902,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 105920,
+      "num": 296300,
+      "word": "王安宇真的没开美白滤镜吗",
+      "onboard_time": 1744811182,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 105897,
@@ -11249,6 +11377,14 @@
       "onboard_time": 1744530800,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100467,
+      "num": 175993,
+      "word": "安全测试又被吉利加了难度",
+      "onboard_time": 1744812442,
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 100389,
@@ -13579,6 +13715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 31052,
+      "num": 247648,
+      "word": "我为什么喜欢吉卜力动画",
+      "onboard_time": 1744810103,
+      "rank": 26,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 30934,
       "num": 230420,
       "word": "孙颖莎世界杯赛前训练",
@@ -13625,14 +13769,6 @@
       "onboard_time": 1744490595,
       "rank": 34,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 29607,
-      "num": 162324,
-      "word": "王楚钦回应晋级淘汰赛",
-      "onboard_time": 1744811063,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 29576,
@@ -13873,14 +14009,6 @@
       "onboard_time": 1744603944,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 24134,
-      "num": 211199,
-      "word": "我为什么喜欢吉卜力动画",
-      "onboard_time": 1744810103,
-      "rank": 26,
-      "category": "动漫"
     },
     {
       "raw_hot": 24123,
@@ -14695,6 +14823,9 @@
     },
     {
       "word": "#习近平同马来西亚总理举行会谈#"
+    },
+    {
+      "word": "#老朋友擘画中马关系新未来#"
     }
   ]
 }
