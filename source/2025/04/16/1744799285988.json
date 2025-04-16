@@ -1,0 +1,410 @@
+{
+  "runTime": 1744799285988,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1755592,
+        "num": 1755592,
+        "word": "外交部回应美对华加征245%关税",
+        "onboard_time": 1744789041,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 844234,
+        "num": 844234,
+        "word": "夫妻闭店3天陪儿子救了个人",
+        "onboard_time": 1744795341,
+        "rank": 1,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 107185,
+        "num": 738320,
+        "word": "美国滥施关税是在搬起石头砸自己的脚",
+        "onboard_time": 1744791981,
+        "rank": 2,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 736612,
+        "num": 736612,
+        "word": "泡泡玛特哪吒",
+        "onboard_time": 1744793062,
+        "rank": 3,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 638562,
+        "num": 638562,
+        "word": "12306平稳度过今日售票高峰",
+        "onboard_time": 1744796600,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 603978,
+        "num": 603978,
+        "word": "歌手首发阵容",
+        "onboard_time": 1744783463,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 428658,
+        "num": 428658,
+        "word": "淘宝在美国突然爆火",
+        "onboard_time": 1744791142,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 395736,
+        "num": 395736,
+        "word": "折腰站内热度",
+        "onboard_time": 1744796662,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 343994,
+        "num": 343994,
+        "word": "敖隐 敖丙",
+        "onboard_time": 1744780463,
+        "rank": 8,
+        "category": "游戏,电影"
+      },
+      {
+        "raw_hot": 216804,
+        "num": 343465,
+        "word": "东方美学给世界亿点点震撼",
+        "onboard_time": 1744794982,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 825711,
+        "num": 340355,
+        "word": "香港全款400万15平的小家",
+        "onboard_time": 1744791681,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 709789,
+        "num": 339506,
+        "word": "浙江外援",
+        "onboard_time": 1744796600,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 695924,
+        "num": 337523,
+        "word": "我的存款已经足够下半辈子不吃不喝了",
+        "onboard_time": 1744767741,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 532438,
+        "num": 335706,
+        "word": "男子工亡婆婆分14万嫌少起诉儿媳",
+        "onboard_time": 1744792223,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31490,
+        "num": 333159,
+        "word": "孙颖莎说真正的挑战会越来越多",
+        "onboard_time": 1744798701,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 449911,
+        "num": 332778,
+        "word": "吴磊连续7年保持北电表演系最高分",
+        "onboard_time": 1744793902,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 386640,
+        "num": 329971,
+        "word": "网红小猫悟空主人已谅解车主",
+        "onboard_time": 1744785921,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 51910,
+        "num": 328705,
+        "word": "极氪是懂豪华的",
+        "onboard_time": 1744795042,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 61207,
+        "num": 326224,
+        "word": "问界新M7牧野青限时23万起",
+        "onboard_time": 1744794322,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 18533,
+        "num": 324252,
+        "word": "林高远vs户上隼辅",
+        "onboard_time": 1744798762,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 323732,
+        "num": 323732,
+        "word": "王蓉说蹉跎苦我一个人受了就行",
+        "onboard_time": 1744792522,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 308633,
+        "num": 308633,
+        "word": "郑州禁止在人多的公共场所遛狗",
+        "onboard_time": 1744791382,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250031,
+        "num": 250031,
+        "word": "特朗普希望哈佛大学道歉",
+        "onboard_time": 1744794862,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 61832,
+        "num": 232339,
+        "word": "问界M8动态评测首发",
+        "onboard_time": 1744796240,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 125500,
+        "num": 225758,
+        "word": "鸿蒙智行第五界尚界正式亮相",
+        "onboard_time": 1744795341,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 220613,
+        "num": 220613,
+        "word": "多方回应湖南一学校300年银杏被砍",
+        "onboard_time": 1744794203,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190604,
+        "num": 215809,
+        "word": "享界S9增程版十亿投入六大升级",
+        "onboard_time": 1744796722,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 213547,
+        "num": 213547,
+        "word": "无忧渡",
+        "onboard_time": 1744797682,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157257,
+        "num": 203373,
+        "word": "虞书欣大失败陈靖可那咋了",
+        "onboard_time": 1744786641,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139487,
+        "num": 196991,
+        "word": "歌手2025",
+        "onboard_time": 1744797021,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245208,
+        "num": 196970,
+        "word": "歌手 张惠妹",
+        "onboard_time": 1744792101,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196743,
+        "num": 196743,
+        "word": "甲状腺与胆囊之间的关系",
+        "onboard_time": 1744794024,
+        "rank": 31,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 176318,
+        "num": 176318,
+        "word": "第一次见恋综男嘉宾走杨迪赛道",
+        "onboard_time": 1744798341,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174499,
+        "num": 174499,
+        "word": "去音乐节只有第一次和无数次",
+        "onboard_time": 1744798461,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171301,
+        "num": 171301,
+        "word": "尚界汽车正式官宣",
+        "onboard_time": 1744798401,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 120785,
+        "num": 165021,
+        "word": "孟子义 异域公主",
+        "onboard_time": 1744789461,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160346,
+        "num": 160346,
+        "word": "放过谷江山",
+        "onboard_time": 1744798881,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158231,
+        "num": 158231,
+        "word": "王者荣耀联动哪吒",
+        "onboard_time": 1744778904,
+        "rank": 37,
+        "category": "游戏,电影"
+      },
+      {
+        "raw_hot": 55124,
+        "num": 154967,
+        "word": "强奸案被告人母亲多次把被害人隐私发网上",
+        "onboard_time": 1744798582,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10221,
+        "num": 153940,
+        "word": "这个赛道中国网友太超前了",
+        "onboard_time": 1744799120,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 153668,
+        "num": 153668,
+        "word": "遭前男友泼汽油毁容女生发声",
+        "onboard_time": 1744798162,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149873,
+        "num": 149873,
+        "word": "景区火到韩国张家界却在亏损",
+        "onboard_time": 1744798641,
+        "rank": 41,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 147851,
+        "num": 147851,
+        "word": "萧亚轩至今动了5次手术",
+        "onboard_time": 1744789403,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143901,
+        "num": 143901,
+        "word": "基因相似度0%意味着什么",
+        "onboard_time": 1744787001,
+        "rank": 43,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 129970,
+        "num": 129970,
+        "word": "男子回应撞脸樊振东",
+        "onboard_time": 1744794862,
+        "rank": 44,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 126138,
+        "num": 126138,
+        "word": "赵露思金泰熙同款造型",
+        "onboard_time": 1744799241,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124077,
+        "num": 124077,
+        "word": "三星李在镕痛失韩国首富",
+        "onboard_time": 1744787481,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 122479,
+        "num": 122479,
+        "word": "值得爱",
+        "onboard_time": 1744799241,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121853,
+        "num": 121853,
+        "word": "裤子太长拖地怎么办",
+        "onboard_time": 1744797500,
+        "rank": 48,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 120924,
+        "num": 120924,
+        "word": "人不要在同一个环境下浸泡太久",
+        "onboard_time": 1744795402,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平这样阐述中越关系#"
+    }
+  }
+}

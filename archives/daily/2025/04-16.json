@@ -1,6 +1,6 @@
 {
   "startTime": 1744734585432,
-  "endTime": 1744796510364,
+  "endTime": 1744799285988,
   "band_list": [
     {
       "raw_hot": 10606514,
@@ -163,6 +163,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 844234,
+      "num": 844234,
+      "word": "夫妻闭店3天陪儿子救了个人",
+      "onboard_time": 1744795341,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 843489,
       "num": 184947,
       "word": "山西订婚强奸案男方已被羁押711天",
@@ -177,6 +185,14 @@
       "onboard_time": 1744780283,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 825711,
+      "num": 390502,
+      "word": "香港全款400万15平的小家",
+      "onboard_time": 1744791681,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 785965,
@@ -211,12 +227,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 736612,
+      "num": 736612,
+      "word": "泡泡玛特哪吒",
+      "onboard_time": 1744793062,
+      "rank": 42,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 713324,
       "num": 188446,
       "word": "2名中国公民罗马遇害",
       "onboard_time": 1744764082,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 709789,
+      "num": 339506,
+      "word": "浙江外援",
+      "onboard_time": 1744796600,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 697248,
@@ -233,14 +265,6 @@
       "onboard_time": 1744779322,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 670880,
-      "num": 670880,
-      "word": "泡泡玛特哪吒",
-      "onboard_time": 1744793062,
-      "rank": 42,
-      "category": "动漫"
     },
     {
       "raw_hot": 669713,
@@ -281,6 +305,14 @@
       "onboard_time": 1744730303,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 638562,
+      "num": 638562,
+      "word": "12306平稳度过今日售票高峰",
+      "onboard_time": 1744796600,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 614025,
@@ -337,14 +369,6 @@
       "onboard_time": 1744774643,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 546596,
-      "num": 390502,
-      "word": "香港全款400万15平的小家",
-      "onboard_time": 1744791681,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 541408,
@@ -433,6 +457,14 @@
       "onboard_time": 1744768761,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 449911,
+      "num": 359612,
+      "word": "吴磊连续7年保持北电表演系最高分",
+      "onboard_time": 1744793902,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 448146,
@@ -531,6 +563,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 395736,
+      "num": 395736,
+      "word": "折腰站内热度",
+      "onboard_time": 1744796662,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 390810,
       "num": 843124,
       "word": "郑州禁止在人多的公共场所遛狗",
@@ -553,14 +593,6 @@
       "onboard_time": 1744730063,
       "rank": 5,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 359612,
-      "num": 359612,
-      "word": "吴磊连续7年保持北电表演系最高分",
-      "onboard_time": 1744793902,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 353654,
@@ -827,6 +859,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 250031,
+      "num": 270317,
+      "word": "特朗普希望哈佛大学道歉",
+      "onboard_time": 1744794862,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 247246,
       "num": 240912,
       "word": "林黛玉吃药 打工人打卡",
@@ -931,14 +971,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 220390,
-      "num": 270317,
-      "word": "特朗普希望哈佛大学道歉",
-      "onboard_time": 1744794862,
-      "rank": 29,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 219062,
       "num": 219062,
       "word": "A股",
@@ -955,6 +987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 216804,
+      "num": 343465,
+      "word": "东方美学给世界亿点点震撼",
+      "onboard_time": 1744794982,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 215589,
       "num": 215589,
       "word": "黄友政vs张本智和",
@@ -969,6 +1009,14 @@
       "onboard_time": 1744771522,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 213547,
+      "num": 213547,
+      "word": "无忧渡",
+      "onboard_time": 1744713081,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 212875,
@@ -1091,6 +1139,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 196743,
+      "num": 196743,
+      "word": "甲状腺与胆囊之间的关系",
+      "onboard_time": 1744794024,
+      "rank": 41,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 195484,
       "num": 187058,
       "word": "37岁的朱一龙",
@@ -1201,6 +1257,14 @@
       "onboard_time": 1744792342,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 190604,
+      "num": 215809,
+      "word": "享界S9增程版十亿投入六大升级",
+      "onboard_time": 1744796722,
+      "rank": 26,
+      "category": "汽车"
     },
     {
       "raw_hot": 189341,
@@ -1363,6 +1427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176318,
+      "num": 176318,
+      "word": "第一次见恋综男嘉宾走杨迪赛道",
+      "onboard_time": 1744798341,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175359,
       "num": 223411,
       "word": "广东一毒枭房产七折起拍",
@@ -1377,6 +1449,14 @@
       "onboard_time": 1744726404,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 174499,
+      "num": 174499,
+      "word": "去音乐节只有第一次和无数次",
+      "onboard_time": 1744798461,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 174242,
@@ -1401,6 +1481,14 @@
       "onboard_time": 1744761621,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171301,
+      "num": 171301,
+      "word": "尚界汽车正式官宣",
+      "onboard_time": 1744798401,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 170844,
@@ -1531,6 +1619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160346,
+      "num": 160346,
+      "word": "放过谷江山",
+      "onboard_time": 1744798881,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 160039,
       "num": 223093,
       "word": "田曦薇方维权声明",
@@ -1571,6 +1667,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 153668,
+      "num": 153668,
+      "word": "遭前男友泼汽油毁容女生发声",
+      "onboard_time": 1744798162,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 152809,
       "num": 152809,
       "word": "12306已恢复正常",
@@ -1585,6 +1689,14 @@
       "onboard_time": 1744765822,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 149873,
+      "num": 149873,
+      "word": "景区火到韩国张家界却在亏损",
+      "onboard_time": 1744798641,
+      "rank": 41,
+      "category": "旅游"
     },
     {
       "raw_hot": 148835,
@@ -1643,28 +1755,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 145419,
-      "num": 145419,
-      "word": "甲状腺与胆囊之间的关系",
-      "onboard_time": 1744794024,
-      "rank": 41,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 145343,
       "num": 145343,
       "word": "花融",
       "onboard_time": 1744784122,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 145210,
-      "num": 400901,
-      "word": "夫妻闭店3天陪儿子救了个人",
-      "onboard_time": 1744795341,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 144753,
@@ -1737,6 +1833,14 @@
       "onboard_time": 1744794681,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139487,
+      "num": 196991,
+      "word": "歌手2025",
+      "onboard_time": 1744797021,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 139289,
@@ -1875,6 +1979,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 126138,
+      "num": 126138,
+      "word": "赵露思金泰熙同款造型",
+      "onboard_time": 1744799241,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125578,
       "num": 125578,
       "word": "朱一龙舒淇张真源同一天生日",
@@ -1907,20 +2019,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122479,
+      "num": 122479,
+      "word": "值得爱",
+      "onboard_time": 1744799241,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 121853,
+      "num": 121853,
+      "word": "裤子太长拖地怎么办",
+      "onboard_time": 1744797500,
+      "rank": 48,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 121598,
       "num": 121598,
       "word": "重庆省考成绩",
       "onboard_time": 1744766542,
       "rank": 39,
       "category": "教育"
-    },
-    {
-      "raw_hot": 121263,
-      "num": 172274,
-      "word": "东方美学给世界亿点点震撼",
-      "onboard_time": 1744794982,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 120491,
@@ -2028,7 +2148,7 @@
     },
     {
       "raw_hot": 107870,
-      "num": 260914,
+      "num": 326224,
       "word": "问界新M7牧野青限时23万起",
       "onboard_time": 1744794322,
       "rank": 32,
@@ -2105,14 +2225,6 @@
       "onboard_time": 1744774042,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 96514,
-      "num": 163891,
-      "word": "无忧渡",
-      "onboard_time": 1744713081,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 95387,
@@ -2571,6 +2683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 55124,
+      "num": 154967,
+      "word": "强奸案被告人母亲多次把被害人隐私发网上",
+      "onboard_time": 1744798582,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55058,
       "num": 62144,
       "word": "杜华说陈昕葳投入比王怡人更大",
@@ -2755,6 +2875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 31490,
+      "num": 333159,
+      "word": "孙颖莎说真正的挑战会越来越多",
+      "onboard_time": 1744798701,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 30934,
       "num": 230420,
       "word": "孙颖莎世界杯赛前训练",
@@ -2883,6 +3011,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 18533,
+      "num": 324252,
+      "word": "林高远vs户上隼辅",
+      "onboard_time": 1744798762,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 18234,
       "num": 26231,
       "word": "美国或有更多人失去工作",
@@ -2985,6 +3121,14 @@
       "onboard_time": 1744745594,
       "rank": 34,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 10221,
+      "num": 153940,
+      "word": "这个赛道中国网友太超前了",
+      "onboard_time": 1744799120,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 9895,
