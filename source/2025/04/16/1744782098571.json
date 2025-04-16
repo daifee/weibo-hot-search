@@ -1,0 +1,410 @@
+{
+  "runTime": 1744782098571,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 956398,
+        "num": 1153023,
+        "word": "王者荣耀联动哪吒",
+        "onboard_time": 1744778904,
+        "rank": 0,
+        "category": "游戏,电影"
+      },
+      {
+        "raw_hot": 2387138,
+        "num": 1148143,
+        "word": "美国声称对华关税加到245%",
+        "onboard_time": 1744779204,
+        "rank": 1,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 261228,
+        "num": 1073289,
+        "word": "全球多国正在中国买买买卖卖卖",
+        "onboard_time": 1744778904,
+        "rank": 2,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 262311,
+        "num": 1011792,
+        "word": "白鹿 奔跑吧海报",
+        "onboard_time": 1744778425,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210227,
+        "num": 926734,
+        "word": "张凌赫和替身走戏",
+        "onboard_time": 1744766303,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 292584,
+        "num": 862239,
+        "word": "金价",
+        "onboard_time": 1744765283,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 819928,
+        "num": 819928,
+        "word": "敖隐 敖丙",
+        "onboard_time": 1744780463,
+        "rank": 6,
+        "category": "游戏,电影"
+      },
+      {
+        "raw_hot": 85091,
+        "num": 809810,
+        "word": "打卡第五届消博会",
+        "onboard_time": 1744781662,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74811,
+        "num": 790574,
+        "word": "林诗栋晋级澳门世界杯16强",
+        "onboard_time": 1744781123,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84837,
+        "num": 772325,
+        "word": "孙颖莎vs简彤娟",
+        "onboard_time": 1744781123,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 6371578,
+        "num": 6371578,
+        "word": "订婚强奸案二审驳回上诉",
+        "onboard_time": 1744769062,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 827149,
+        "num": 749110,
+        "word": "马頔深夜发文",
+        "onboard_time": 1744780283,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330452,
+        "num": 735102,
+        "word": "拜登公开抨击特朗普",
+        "onboard_time": 1744768041,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 720480,
+        "num": 720480,
+        "word": "我的存款已经足够下半辈子不吃不喝了",
+        "onboard_time": 1744767741,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120491,
+        "num": 554119,
+        "word": "香港暂停寄往美国邮递服务",
+        "onboard_time": 1744777045,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 504209,
+        "num": 504209,
+        "word": "小猫悟空去世",
+        "onboard_time": 1744759579,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 382812,
+        "num": 382812,
+        "word": "马頔怎么了",
+        "onboard_time": 1744779322,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 363812,
+        "num": 363812,
+        "word": "特朗普凌晨2点开记者会折磨媒体",
+        "onboard_time": 1744764503,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 209250,
+        "num": 344588,
+        "word": "李晨奔跑吧录制问这是谁拍的",
+        "onboard_time": 1744781543,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81383,
+        "num": 334759,
+        "word": "你可以永远相信库里",
+        "onboard_time": 1744781183,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 333079,
+        "num": 333079,
+        "word": "无忧渡 黑马",
+        "onboard_time": 1744778665,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 304181,
+        "num": 304181,
+        "word": "男子花155万买迈巴赫跑网约车",
+        "onboard_time": 1744774643,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255582,
+        "num": 255582,
+        "word": "京东外卖崩了",
+        "onboard_time": 1744779684,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 122141,
+        "num": 244158,
+        "word": "范大将军喜提新XT6",
+        "onboard_time": 1744781903,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209614,
+        "num": 241322,
+        "word": "高圆圆糖耳朵一吃帕梅拉白练",
+        "onboard_time": 1744779264,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17402,
+        "num": 241097,
+        "word": "滨崎步微博文化交流之夜最佳艺人",
+        "onboard_time": 1744778665,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240912,
+        "num": 240912,
+        "word": "林黛玉吃药 打工人打卡",
+        "onboard_time": 1744778963,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135413,
+        "num": 240207,
+        "word": "良陈美锦开机",
+        "onboard_time": 1744770683,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59211,
+        "num": 240039,
+        "word": "美国在中东形成双航母打击群",
+        "onboard_time": 1744781722,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 54917,
+        "num": 239164,
+        "word": "比杏花雨更浪漫的是杏花雪",
+        "onboard_time": 1744781123,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 912476,
+        "num": 237884,
+        "word": "审判长回应女方处女膜未破裂",
+        "onboard_time": 1744773683,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123815,
+        "num": 236860,
+        "word": "奔跑吧",
+        "onboard_time": 1744780524,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 411654,
+        "num": 236592,
+        "word": "法院回应山西订婚强奸案焦点问题",
+        "onboard_time": 1744773503,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85248,
+        "num": 235921,
+        "word": "台湾同胞跟着电视剧难哄打卡重庆",
+        "onboard_time": 1744782022,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 251408,
+        "num": 234447,
+        "word": "订婚强奸案男方母亲说罪名太丢人",
+        "onboard_time": 1744772061,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234272,
+        "num": 234272,
+        "word": "库里关键三分",
+        "onboard_time": 1744780104,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233800,
+        "num": 233800,
+        "word": "恋与深空",
+        "onboard_time": 1744778844,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 80603,
+        "num": 227780,
+        "word": "何小鹏给香港首批X9车主交车",
+        "onboard_time": 1744781363,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 160039,
+        "num": 223093,
+        "word": "田曦薇方维权声明",
+        "onboard_time": 1744782081,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221980,
+        "num": 221980,
+        "word": "美正式将韩国列为敏感国家",
+        "onboard_time": 1744772123,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 212236,
+        "num": 212236,
+        "word": "Doinb回应朱开下跪",
+        "onboard_time": 1744781123,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 75407,
+        "num": 206819,
+        "word": "胡歌把悬镜和琅琊榜联系起来了",
+        "onboard_time": 1744781782,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204006,
+        "num": 204006,
+        "word": "有棵树 张予曦",
+        "onboard_time": 1744774703,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192588,
+        "num": 192588,
+        "word": "席某某刑期还有384天",
+        "onboard_time": 1744776024,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186690,
+        "num": 186690,
+        "word": "季后赛版巴特勒上线",
+        "onboard_time": 1744781662,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167482,
+        "num": 167482,
+        "word": "26岁小伙被大9岁已婚女子骗婚",
+        "onboard_time": 1744764503,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166997,
+        "num": 166997,
+        "word": "牙医说他的牙连玉米饼都吃不了",
+        "onboard_time": 1744775543,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 82755,
+        "num": 164121,
+        "word": "李惠利出席电影野党发布会",
+        "onboard_time": 1744778364,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 163295,
+        "num": 163295,
+        "word": "严浩翔张哥在我生命中的时间又增加了一年",
+        "onboard_time": 1744780762,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154439,
+        "num": 154439,
+        "word": "火勇大战",
+        "onboard_time": 1744781722,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中越关系的高光时刻#"
+    }
+  }
+}
