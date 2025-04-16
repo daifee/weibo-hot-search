@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744803368333,
+  "endTime": 1744807762688,
   "band_list": [
     {
       "raw_hot": 10606514,
@@ -369,6 +369,14 @@
       "onboard_time": 1744680981,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1506573,
+      "num": 376274,
+      "word": "朱一龙回应杨蓉",
+      "onboard_time": 1744805722,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1479437,
@@ -1315,6 +1323,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 775437,
+      "num": 775437,
+      "word": "特朗普听故宫三原色道理后懵圈",
+      "onboard_time": 1744803921,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 772644,
       "num": 255650,
       "word": "景德镇车祸案被告方希望轻判",
@@ -1819,6 +1835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 610938,
+      "num": 366749,
+      "word": "上海女教师怒怼安福路偷拍老法师",
+      "onboard_time": 1744804282,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 610507,
       "num": 610507,
       "word": "何同学 小布尔乔亚",
@@ -2091,6 +2115,22 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 514861,
+      "num": 514861,
+      "word": "花田错839分",
+      "onboard_time": 1744805542,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 514091,
+      "num": 337654,
+      "word": "无忧渡迟雪 中戏第一",
+      "onboard_time": 1744803143,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 513641,
       "num": 513641,
       "word": "宋祖儿造型",
@@ -2153,6 +2193,14 @@
       "onboard_time": 1744540401,
       "rank": 17,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 501445,
+      "num": 501445,
+      "word": "国台办回应Tank感谢祖国",
+      "onboard_time": 1744801882,
+      "rank": 19,
+      "category": "国内时政,艺人"
     },
     {
       "raw_hot": 501333,
@@ -2515,14 +2563,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 428534,
-      "num": 428534,
-      "word": "国台办回应Tank感谢祖国",
-      "onboard_time": 1744801882,
-      "rank": 19,
-      "category": "国内时政,艺人"
-    },
-    {
       "raw_hot": 427215,
       "num": 427215,
       "word": "湿气重的7个习惯",
@@ -2545,6 +2585,14 @@
       "onboard_time": 1744519161,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 426487,
+      "num": 426487,
+      "word": "林高远无缘澳门世界杯16强",
+      "onboard_time": 1744803202,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 424743,
@@ -2707,6 +2755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 398850,
+      "num": 398850,
+      "word": "浪姐取消复活赛赛制",
+      "onboard_time": 1744806021,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 398666,
       "num": 398666,
       "word": "黄圣依晒与陈梦程潇李嘉格合照",
@@ -2753,6 +2809,14 @@
       "onboard_time": 1744796662,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 394550,
+      "num": 331876,
+      "word": "柯淳拐弯抹角打听赵丽颖",
+      "onboard_time": 1744803322,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 390810,
@@ -3361,6 +3425,14 @@
       "onboard_time": 1744778425,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 301822,
+      "num": 301822,
+      "word": "甲亢哥是美国网红最正常的一个",
+      "onboard_time": 1744802961,
+      "rank": 37,
+      "category": "网红,海外新闻"
     },
     {
       "raw_hot": 300915,
@@ -4547,6 +4619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 222199,
+      "num": 222199,
+      "word": "王鹤棣委托工作人员出来安慰粉丝",
+      "onboard_time": 1744806562,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 221894,
       "num": 298745,
       "word": "多地发布暴雪蓝色预警",
@@ -4985,6 +5065,14 @@
       "onboard_time": 1744641084,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 208868,
+      "num": 208868,
+      "word": "美企说承受不起巨额关税账单",
+      "onboard_time": 1744805181,
+      "rank": 21,
+      "category": "国际时政"
     },
     {
       "raw_hot": 208691,
@@ -7163,6 +7251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165087,
+      "num": 165087,
+      "word": "乘风2025四公结果",
+      "onboard_time": 1744807642,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164827,
       "num": 164827,
       "word": "梁师父回应是否再邀请甲亢哥来河南",
@@ -7467,14 +7563,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 160453,
-      "num": 160453,
-      "word": "柯淳拐弯抹角打听赵丽颖",
-      "onboard_time": 1744803322,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 160329,
       "num": 179307,
       "word": "灿如繁星",
@@ -7497,6 +7585,14 @@
       "onboard_time": 1744782081,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160034,
+      "num": 377076,
+      "word": "拜登说想见见300岁还领社保的人",
+      "onboard_time": 1744807043,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 159932,
@@ -7649,6 +7745,14 @@
       "onboard_time": 1744697902,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156419,
+      "num": 156419,
+      "word": "无忧渡伍娘演技",
+      "onboard_time": 1744805902,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 156369,
@@ -7913,6 +8017,14 @@
       "onboard_time": 1744554864,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 151068,
+      "num": 151068,
+      "word": "爱上姐姐成为姐姐取代姐姐",
+      "onboard_time": 1744806741,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 150896,
@@ -8201,14 +8313,6 @@
       "onboard_time": 1744716503,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 144831,
-      "num": 144831,
-      "word": "林高远无缘澳门世界杯16强",
-      "onboard_time": 1744803202,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 144767,
@@ -8587,14 +8691,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 139711,
-      "num": 139711,
-      "word": "无忧渡迟雪 中戏第一",
-      "onboard_time": 1744803143,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 139487,
       "num": 196991,
       "word": "歌手2025",
@@ -8825,6 +8921,14 @@
       "onboard_time": 1744640844,
       "rank": 43,
       "category": "教育"
+    },
+    {
+      "raw_hot": 136327,
+      "num": 136327,
+      "word": "金价暴涨致回收客户临时毁约",
+      "onboard_time": 1744805422,
+      "rank": 28,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 136084,
@@ -9145,6 +9249,14 @@
       "onboard_time": 1744559181,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 131690,
+      "num": 131690,
+      "word": "山西男篮vs广东男篮",
+      "onboard_time": 1744804942,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 131682,
@@ -9867,6 +9979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120934,
+      "num": 120934,
+      "word": "曾因亏4万上热搜的买金客已赚7万",
+      "onboard_time": 1744805122,
+      "rank": 40,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 120636,
       "num": 120636,
       "word": "蒋梦婕真人版江尤娜",
@@ -10227,6 +10347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 115363,
+      "num": 115363,
+      "word": "面对亲人离世越冷静越危险",
+      "onboard_time": 1744806922,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115307,
       "num": 194196,
       "word": "那个抱起全红婵的英国女孩",
@@ -10353,6 +10481,14 @@
       "onboard_time": 1744783525,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113143,
+      "num": 113143,
+      "word": "陈昊宇陈丽君帮唱侯佩岑组胜出",
+      "onboard_time": 1744805122,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 113013,
@@ -11179,6 +11315,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 93558,
+      "num": 93558,
+      "word": "内蒙古省考成绩",
+      "onboard_time": 1744807520,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 93499,
       "num": 146017,
       "word": "江苏发布最新癌情信息",
@@ -11281,6 +11425,14 @@
       "onboard_time": 1744764863,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90200,
+      "num": 90200,
+      "word": "谁给费启鸣化的雀斑",
+      "onboard_time": 1744807520,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 90090,
@@ -13315,6 +13467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28248,
+      "num": 135576,
+      "word": "最喜爱的高个子动漫角色",
+      "onboard_time": 1744807221,
+      "rank": 29,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 27844,
       "num": 175553,
       "word": "为了生存付出无数个并不认同的努力",
@@ -13675,6 +13835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 21626,
+      "num": 122050,
+      "word": "36小时漂流奇迹是不放弃的具象化",
+      "onboard_time": 1744805301,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21277,
       "num": 29537,
       "word": "水果姐将乘飞船进太空",
@@ -13865,6 +14033,14 @@
       "onboard_time": 1744701320,
       "rank": 39,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 17881,
+      "num": 121194,
+      "word": "世界第一所近代华侨学校已127年",
+      "onboard_time": 1744805122,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 17772,
@@ -14145,14 +14321,6 @@
       "onboard_time": 1744759940,
       "rank": 15,
       "category": "海外新闻,财经"
-    },
-    {
-      "raw_hot": 9670,
-      "num": 150061,
-      "word": "甲亢哥是美国网红最正常的一个",
-      "onboard_time": 1744802961,
-      "rank": 37,
-      "category": "网红,海外新闻"
     },
     {
       "raw_hot": 9648,

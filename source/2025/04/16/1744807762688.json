@@ -1,0 +1,410 @@
+{
+  "runTime": 1744807762688,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1211973,
+        "num": 1211973,
+        "word": "外交部回应美对华加征245%关税",
+        "onboard_time": 1744789041,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 775437,
+        "num": 775437,
+        "word": "特朗普听故宫三原色道理后懵圈",
+        "onboard_time": 1744803921,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92025,
+        "num": 543368,
+        "word": "美国滥施关税是在搬起石头砸自己的脚",
+        "onboard_time": 1744791981,
+        "rank": 2,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 514861,
+        "num": 514861,
+        "word": "花田错839分",
+        "onboard_time": 1744805542,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 501445,
+        "num": 501445,
+        "word": "国台办回应Tank感谢祖国",
+        "onboard_time": 1744801882,
+        "rank": 4,
+        "category": "国内时政,艺人"
+      },
+      {
+        "raw_hot": 426487,
+        "num": 426487,
+        "word": "林高远无缘澳门世界杯16强",
+        "onboard_time": 1744803202,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 413413,
+        "num": 413413,
+        "word": "敖隐 敖丙",
+        "onboard_time": 1744780463,
+        "rank": 6,
+        "category": "游戏,电影"
+      },
+      {
+        "raw_hot": 398850,
+        "num": 398850,
+        "word": "浪姐取消复活赛赛制",
+        "onboard_time": 1744806021,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 385445,
+        "num": 385445,
+        "word": "歌手首发阵容",
+        "onboard_time": 1744783463,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160034,
+        "num": 377076,
+        "word": "拜登说想见见300岁还领社保的人",
+        "onboard_time": 1744807043,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1506573,
+        "num": 376274,
+        "word": "朱一龙回应杨蓉",
+        "onboard_time": 1744805722,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 610938,
+        "num": 366749,
+        "word": "上海女教师怒怼安福路偷拍老法师",
+        "onboard_time": 1744804282,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 587287,
+        "num": 357817,
+        "word": "结婚3年妻子开着宝马带孩子走了",
+        "onboard_time": 1744801401,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 526252,
+        "num": 345109,
+        "word": "留几手做医美",
+        "onboard_time": 1744801162,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 514091,
+        "num": 337654,
+        "word": "无忧渡迟雪 中戏第一",
+        "onboard_time": 1744803143,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 394550,
+        "num": 331876,
+        "word": "柯淳拐弯抹角打听赵丽颖",
+        "onboard_time": 1744803322,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 324680,
+        "num": 324680,
+        "word": "外交部回应暂停接收波音飞机",
+        "onboard_time": 1744800321,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 301822,
+        "num": 301822,
+        "word": "甲亢哥是美国网红最正常的一个",
+        "onboard_time": 1744802961,
+        "rank": 17,
+        "category": "网红,海外新闻"
+      },
+      {
+        "raw_hot": 290682,
+        "num": 290682,
+        "word": "我的存款已经足够下半辈子不吃不喝了",
+        "onboard_time": 1744767741,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 256410,
+        "num": 256410,
+        "word": "12306平稳度过今日售票高峰",
+        "onboard_time": 1744796600,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222199,
+        "num": 222199,
+        "word": "王鹤棣委托工作人员出来安慰粉丝",
+        "onboard_time": 1744806562,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208868,
+        "num": 208868,
+        "word": "美企说承受不起巨额关税账单",
+        "onboard_time": 1744805181,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 170924,
+        "num": 170924,
+        "word": "香港全款400万15平的小家",
+        "onboard_time": 1744791681,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165087,
+        "num": 165087,
+        "word": "乘风2025四公结果",
+        "onboard_time": 1744807642,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158188,
+        "num": 158188,
+        "word": "网红小猫悟空主人已谅解车主",
+        "onboard_time": 1744785921,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 156419,
+        "num": 156419,
+        "word": "无忧渡伍娘演技",
+        "onboard_time": 1744805902,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155176,
+        "num": 155176,
+        "word": "澳门世界杯",
+        "onboard_time": 1744806263,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151068,
+        "num": 151068,
+        "word": "爱上姐姐成为姐姐取代姐姐",
+        "onboard_time": 1744806741,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136327,
+        "num": 136327,
+        "word": "金价暴涨致回收客户临时毁约",
+        "onboard_time": 1744805422,
+        "rank": 28,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 28248,
+        "num": 135576,
+        "word": "最喜爱的高个子动漫角色",
+        "onboard_time": 1744807221,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 155517,
+        "num": 135434,
+        "word": "赵露思金泰熙同款造型",
+        "onboard_time": 1744799241,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135017,
+        "num": 135017,
+        "word": "吴磊连续7年保持北电表演系最高分",
+        "onboard_time": 1744793902,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131690,
+        "num": 131690,
+        "word": "山西男篮vs广东男篮",
+        "onboard_time": 1744804942,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129009,
+        "num": 129009,
+        "word": "丁禹兮给粉丝模仿金宣虎笑",
+        "onboard_time": 1744801822,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125323,
+        "num": 125323,
+        "word": "秦昊一年奖励自己一部悬疑剧",
+        "onboard_time": 1744799421,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122776,
+        "num": 122776,
+        "word": "泡泡玛特哪吒",
+        "onboard_time": 1744793062,
+        "rank": 35,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 21626,
+        "num": 122050,
+        "word": "36小时漂流奇迹是不放弃的具象化",
+        "onboard_time": 1744805301,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121568,
+        "num": 121568,
+        "word": "基因相似度0%意味着什么",
+        "onboard_time": 1744787001,
+        "rank": 37,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 17881,
+        "num": 121194,
+        "word": "世界第一所近代华侨学校已127年",
+        "onboard_time": 1744805122,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 135989,
+        "num": 121112,
+        "word": "无忧渡",
+        "onboard_time": 1744797682,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120934,
+        "num": 120934,
+        "word": "曾因亏4万上热搜的买金客已赚7万",
+        "onboard_time": 1744805122,
+        "rank": 40,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 118261,
+        "num": 118261,
+        "word": "折腰站内热度",
+        "onboard_time": 1744796662,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117288,
+        "num": 117288,
+        "word": "宋雨琦周深轮流教孟子义唱radio",
+        "onboard_time": 1744803080,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115363,
+        "num": 115363,
+        "word": "面对亲人离世越冷静越危险",
+        "onboard_time": 1744806922,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113143,
+        "num": 113143,
+        "word": "陈昊宇陈丽君帮唱侯佩岑组胜出",
+        "onboard_time": 1744805122,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112423,
+        "num": 112423,
+        "word": "iG老板三问朱开",
+        "onboard_time": 1744802123,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100973,
+        "num": 100973,
+        "word": "值得爱",
+        "onboard_time": 1744799241,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93558,
+        "num": 93558,
+        "word": "内蒙古省考成绩",
+        "onboard_time": 1744807520,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 92600,
+        "num": 92600,
+        "word": "夫妻闭店3天陪儿子救了个人",
+        "onboard_time": 1744795341,
+        "rank": 48,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 90200,
+        "num": 90200,
+        "word": "谁给费启鸣化的雀斑",
+        "onboard_time": 1744807520,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平这样阐述中越关系#"
+    }
+  }
+}
