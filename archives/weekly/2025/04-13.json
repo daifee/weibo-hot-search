@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744800303304,
+  "endTime": 1744802471231,
   "band_list": [
     {
       "raw_hot": 10606514,
@@ -779,6 +779,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 1036792,
+      "num": 1036792,
+      "word": "浙江外援布彭扎坠亡",
+      "onboard_time": 1744800923,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1031943,
       "num": 926617,
       "word": "折腰没播",
@@ -1347,6 +1355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 746684,
+      "num": 412036,
+      "word": "结婚3年妻子开着宝马带孩子走了",
+      "onboard_time": 1744801401,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 740131,
       "num": 312388,
       "word": "邓超陈赫王宝强亲亲合照",
@@ -1452,7 +1468,7 @@
     },
     {
       "raw_hot": 709789,
-      "num": 360129,
+      "num": 456487,
       "word": "浙江外援",
       "onboard_time": 1744796600,
       "rank": 11,
@@ -2315,6 +2331,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 457655,
+      "num": 457655,
+      "word": "外交部回应暂停接收波音飞机",
+      "onboard_time": 1744800321,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 457621,
       "num": 360772,
       "word": "谢娜二公被冷到大喊导演名字",
@@ -2611,6 +2635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 411649,
+      "num": 411649,
+      "word": "留几手做医美",
+      "onboard_time": 1744801162,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 411613,
       "num": 330625,
       "word": "滨崎步的腰",
@@ -2708,7 +2740,7 @@
     },
     {
       "raw_hot": 395736,
-      "num": 395736,
+      "num": 412235,
       "word": "折腰站内热度",
       "onboard_time": 1744796662,
       "rank": 7,
@@ -3843,6 +3875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 258962,
+      "num": 258962,
+      "word": "享界S9增程版售价31万起",
+      "onboard_time": 1744801401,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 258003,
       "num": 258003,
       "word": "丁禹兮线上线下宣传齐思钧新书",
@@ -4289,6 +4329,14 @@
       "onboard_time": 1744673119,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 230173,
+      "num": 230173,
+      "word": "辛云来直播做饭",
+      "onboard_time": 1744801462,
+      "rank": 18,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 230139,
@@ -5203,6 +5251,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 202247,
+      "num": 176318,
+      "word": "第一次见恋综男嘉宾走杨迪赛道",
+      "onboard_time": 1744798341,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202104,
       "num": 202104,
       "word": "问界M8价格",
@@ -5473,6 +5529,14 @@
       "onboard_time": 1744529361,
       "rank": 23,
       "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 196985,
+      "num": 168001,
+      "word": "丁禹兮给粉丝模仿金宣虎笑",
+      "onboard_time": 1744801822,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 196743,
@@ -6555,14 +6619,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 176318,
-      "num": 176318,
-      "word": "第一次见恋综男嘉宾走杨迪赛道",
-      "onboard_time": 1744798341,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 176277,
       "num": 361679,
       "word": "无忧渡病娇木偶叫姐姐",
@@ -6769,6 +6825,14 @@
       "onboard_time": 1744527681,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 172570,
+      "num": 172570,
+      "word": "国台办回应Tank感谢祖国",
+      "onboard_time": 1744801882,
+      "rank": 19,
+      "category": "国内时政,艺人"
     },
     {
       "raw_hot": 172524,
@@ -7027,6 +7091,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 166429,
+      "num": 324252,
+      "word": "林高远vs户上隼辅",
+      "onboard_time": 1744798762,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166381,
       "num": 166381,
       "word": "放过谷江山",
@@ -7281,6 +7353,14 @@
       "onboard_time": 1744720583,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161568,
+      "num": 168011,
+      "word": "30万级豪华大六座怎么选",
+      "onboard_time": 1744801401,
+      "rank": 27,
+      "category": "汽车"
     },
     {
       "raw_hot": 161526,
@@ -7968,6 +8048,14 @@
       "word": "年轻人把AI当成心理中医",
       "onboard_time": 1744551023,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 146028,
+      "num": 146028,
+      "word": "妻子哭诉骑电车比开130万宝马开心",
+      "onboard_time": 1744801401,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -8667,6 +8755,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 136192,
+      "num": 168015,
+      "word": "秦昊一年奖励自己一部悬疑剧",
+      "onboard_time": 1744799421,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136084,
       "num": 136084,
       "word": "老板扛20斤硬币付工资法官让其清点",
@@ -8809,6 +8905,14 @@
       "onboard_time": 1744557622,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134446,
+      "num": 168021,
+      "word": "为什么年轻人执着于考公",
+      "onboard_time": 1744801401,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 134442,
@@ -8969,6 +9073,14 @@
       "onboard_time": 1744703182,
       "rank": 42,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 131935,
+      "num": 347937,
+      "word": "84岁老太被大女儿带出养老院取光存款",
+      "onboard_time": 1744800801,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131929,
@@ -9251,6 +9363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127703,
+      "num": 127703,
+      "word": "朱一龙自驾露营",
+      "onboard_time": 1744801582,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127570,
       "num": 127570,
       "word": "金秀贤被节目打码",
@@ -9387,6 +9507,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 125884,
+      "num": 125884,
+      "word": "问界M8一小时大定2万台",
+      "onboard_time": 1744800923,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 125882,
       "num": 125882,
       "word": "白鹿在路牌上",
@@ -9473,6 +9601,14 @@
       "onboard_time": 1744709061,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124043,
+      "num": 168009,
+      "word": "遇到姿势诡异动物赶紧远离",
+      "onboard_time": 1744801822,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124030,
@@ -9633,14 +9769,6 @@
       "onboard_time": 1744709721,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 121751,
-      "num": 121751,
-      "word": "秦昊一年奖励自己一部悬疑剧",
-      "onboard_time": 1744799421,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 121680,
@@ -9977,6 +10105,14 @@
       "onboard_time": 1744713381,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117333,
+      "num": 117333,
+      "word": "无知的亲人是最大的凶手",
+      "onboard_time": 1744800441,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 116962,
@@ -10561,6 +10697,14 @@
       "onboard_time": 1744706781,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 104373,
+      "num": 168005,
+      "word": "警方提醒谨慎刷脸别成电诈工具人",
+      "onboard_time": 1744801101,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104144,
@@ -11217,6 +11361,14 @@
       "onboard_time": 1744781662,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84960,
+      "num": 168009,
+      "word": "iG老板三问朱开",
+      "onboard_time": 1744802123,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 84901,
@@ -12241,6 +12393,14 @@
       "onboard_time": 1744634662,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50577,
+      "num": 155703,
+      "word": "教资面试才是真正的表演对决",
+      "onboard_time": 1744801221,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 50075,
@@ -13587,14 +13747,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 18533,
-      "num": 324252,
-      "word": "林高远vs户上隼辅",
-      "onboard_time": 1744798762,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 18376,
       "num": 468073,
       "word": "撒贝宁见证电池包刮痧泡澡",
@@ -13641,6 +13793,14 @@
       "onboard_time": 1744485434,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 17770,
+      "num": 155408,
+      "word": "30岁后才读懂语文诗词的意义",
+      "onboard_time": 1744801822,
+      "rank": 39,
+      "category": "读书作家"
     },
     {
       "raw_hot": 17765,
@@ -13825,6 +13985,14 @@
       "onboard_time": 1744608564,
       "rank": 29,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 11447,
+      "num": 154910,
+      "word": "胡兵让世界看到东方的浪漫",
+      "onboard_time": 1744801521,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 11279,

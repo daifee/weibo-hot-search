@@ -1,0 +1,410 @@
+{
+  "runTime": 1744802471231,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1299361,
+        "num": 1299361,
+        "word": "外交部回应美对华加征245%关税",
+        "onboard_time": 1744789041,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1036792,
+        "num": 1036792,
+        "word": "浙江外援布彭扎坠亡",
+        "onboard_time": 1744800923,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94439,
+        "num": 773068,
+        "word": "美国滥施关税是在搬起石头砸自己的脚",
+        "onboard_time": 1744791981,
+        "rank": 2,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 760852,
+        "num": 760852,
+        "word": "歌手首发阵容",
+        "onboard_time": 1744783463,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 696638,
+        "num": 696638,
+        "word": "12306平稳度过今日售票高峰",
+        "onboard_time": 1744796600,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 593990,
+        "num": 593990,
+        "word": "敖隐 敖丙",
+        "onboard_time": 1744780463,
+        "rank": 5,
+        "category": "游戏,电影"
+      },
+      {
+        "raw_hot": 457655,
+        "num": 457655,
+        "word": "外交部回应暂停接收波音飞机",
+        "onboard_time": 1744800321,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 456487,
+        "num": 456487,
+        "word": "浙江外援",
+        "onboard_time": 1744796600,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 416731,
+        "num": 416731,
+        "word": "泡泡玛特哪吒",
+        "onboard_time": 1744793062,
+        "rank": 8,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 281059,
+        "num": 412235,
+        "word": "折腰站内热度",
+        "onboard_time": 1744796662,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 746684,
+        "num": 412036,
+        "word": "结婚3年妻子开着宝马带孩子走了",
+        "onboard_time": 1744801401,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 521126,
+        "num": 411974,
+        "word": "我的存款已经足够下半辈子不吃不喝了",
+        "onboard_time": 1744767741,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 411649,
+        "num": 411649,
+        "word": "留几手做医美",
+        "onboard_time": 1744801162,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 387783,
+        "num": 387783,
+        "word": "香港全款400万15平的小家",
+        "onboard_time": 1744791681,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131935,
+        "num": 347937,
+        "word": "84岁老太被大女儿带出养老院取光存款",
+        "onboard_time": 1744800801,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 314477,
+        "num": 314477,
+        "word": "夫妻闭店3天陪儿子救了个人",
+        "onboard_time": 1744795341,
+        "rank": 15,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 298525,
+        "num": 298525,
+        "word": "网红小猫悟空主人已谅解车主",
+        "onboard_time": 1744785921,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 258962,
+        "num": 258962,
+        "word": "享界S9增程版售价31万起",
+        "onboard_time": 1744801401,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 230173,
+        "num": 230173,
+        "word": "辛云来直播做饭",
+        "onboard_time": 1744801462,
+        "rank": 18,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 172570,
+        "num": 172570,
+        "word": "国台办回应Tank感谢祖国",
+        "onboard_time": 1744801882,
+        "rank": 19,
+        "category": "国内时政,艺人"
+      },
+      {
+        "raw_hot": 281507,
+        "num": 172186,
+        "word": "赵露思金泰熙同款造型",
+        "onboard_time": 1744799241,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243135,
+        "num": 171586,
+        "word": "吴磊连续7年保持北电表演系最高分",
+        "onboard_time": 1744793902,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202247,
+        "num": 171009,
+        "word": "第一次见恋综男嘉宾走杨迪赛道",
+        "onboard_time": 1744798341,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168022,
+        "num": 168022,
+        "word": "无忧渡",
+        "onboard_time": 1744797682,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134446,
+        "num": 168021,
+        "word": "为什么年轻人执着于考公",
+        "onboard_time": 1744801401,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 149689,
+        "num": 168017,
+        "word": "值得爱",
+        "onboard_time": 1744799241,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136192,
+        "num": 168015,
+        "word": "秦昊一年奖励自己一部悬疑剧",
+        "onboard_time": 1744799421,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161568,
+        "num": 168011,
+        "word": "30万级豪华大六座怎么选",
+        "onboard_time": 1744801401,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 84960,
+        "num": 168009,
+        "word": "iG老板三问朱开",
+        "onboard_time": 1744802123,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 124043,
+        "num": 168009,
+        "word": "遇到姿势诡异动物赶紧远离",
+        "onboard_time": 1744801822,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104373,
+        "num": 168005,
+        "word": "警方提醒谨慎刷脸别成电诈工具人",
+        "onboard_time": 1744801101,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242724,
+        "num": 168003,
+        "word": "淘宝在美国突然爆火",
+        "onboard_time": 1744791142,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 196985,
+        "num": 168001,
+        "word": "丁禹兮给粉丝模仿金宣虎笑",
+        "onboard_time": 1744801822,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167998,
+        "num": 167998,
+        "word": "王蓉说蹉跎苦我一个人受了就行",
+        "onboard_time": 1744792522,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166429,
+        "num": 166429,
+        "word": "林高远vs户上隼辅",
+        "onboard_time": 1744798762,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164216,
+        "num": 164216,
+        "word": "特朗普希望哈佛大学道歉",
+        "onboard_time": 1744794862,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 160098,
+        "num": 160098,
+        "word": "基因相似度0%意味着什么",
+        "onboard_time": 1744787001,
+        "rank": 36,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 50609,
+        "num": 157144,
+        "word": "伊朗与美国就核问题间接谈判",
+        "onboard_time": 1744790962,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 50577,
+        "num": 155703,
+        "word": "教资面试才是真正的表演对决",
+        "onboard_time": 1744801221,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17770,
+        "num": 155408,
+        "word": "30岁后才读懂语文诗词的意义",
+        "onboard_time": 1744801822,
+        "rank": 39,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 155277,
+        "num": 155277,
+        "word": "景区火到韩国张家界却在亏损",
+        "onboard_time": 1744798641,
+        "rank": 40,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 11447,
+        "num": 154910,
+        "word": "胡兵让世界看到东方的浪漫",
+        "onboard_time": 1744801521,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154740,
+        "num": 154740,
+        "word": "东方美学给世界亿点点震撼",
+        "onboard_time": 1744794982,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146028,
+        "num": 146028,
+        "word": "妻子哭诉骑电车比开130万宝马开心",
+        "onboard_time": 1744801401,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129683,
+        "num": 129683,
+        "word": "遭前男友泼汽油毁容女生发声",
+        "onboard_time": 1744798162,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127703,
+        "num": 127703,
+        "word": "朱一龙自驾露营",
+        "onboard_time": 1744801582,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126445,
+        "num": 126445,
+        "word": "歌手 张惠妹",
+        "onboard_time": 1744792101,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125884,
+        "num": 125884,
+        "word": "问界M8一小时大定2万台",
+        "onboard_time": 1744800923,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 118072,
+        "num": 118072,
+        "word": "男子工亡婆婆分14万嫌少起诉儿媳",
+        "onboard_time": 1744792223,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117333,
+        "num": 117333,
+        "word": "无知的亲人是最大的凶手",
+        "onboard_time": 1744800441,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见马来西亚最高元首#"
+    }
+  }
+}
