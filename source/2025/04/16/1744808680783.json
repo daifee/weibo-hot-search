@@ -1,0 +1,410 @@
+{
+  "runTime": 1744808680783,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1131009,
+        "num": 1180961,
+        "word": "外交部回应美对华加征245%关税",
+        "onboard_time": 1744789041,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 824162,
+        "num": 824162,
+        "word": "特朗普听故宫三原色道理后懵圈",
+        "onboard_time": 1744803921,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87426,
+        "num": 657731,
+        "word": "美国滥施关税是在搬起石头砸自己的脚",
+        "onboard_time": 1744791981,
+        "rank": 2,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 586117,
+        "num": 586117,
+        "word": "拜登说想见见300岁还领社保的人",
+        "onboard_time": 1744807043,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 578246,
+        "num": 578246,
+        "word": "花田错839分",
+        "onboard_time": 1744805542,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 389981,
+        "num": 389981,
+        "word": "国台办回应Tank感谢祖国",
+        "onboard_time": 1744801882,
+        "rank": 5,
+        "category": "国内时政,艺人"
+      },
+      {
+        "raw_hot": 406288,
+        "num": 381843,
+        "word": "浪姐取消复活赛赛制",
+        "onboard_time": 1744806021,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 371995,
+        "num": 371995,
+        "word": "敖隐 敖丙",
+        "onboard_time": 1744780463,
+        "rank": 7,
+        "category": "游戏,电影"
+      },
+      {
+        "raw_hot": 336815,
+        "num": 371613,
+        "word": "林高远无缘澳门世界杯16强",
+        "onboard_time": 1744803202,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 300396,
+        "num": 371377,
+        "word": "中方不予理会美方关税数字游戏",
+        "onboard_time": 1744807762,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1467268,
+        "num": 370849,
+        "word": "朱一龙回应杨蓉",
+        "onboard_time": 1744805722,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 680220,
+        "num": 370444,
+        "word": "上海女教师怒怼安福路偷拍老法师",
+        "onboard_time": 1744804282,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 479175,
+        "num": 369862,
+        "word": "结婚3年妻子开着宝马带孩子走了",
+        "onboard_time": 1744801401,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 469242,
+        "num": 369119,
+        "word": "留几手做医美",
+        "onboard_time": 1744801162,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131525,
+        "num": 368745,
+        "word": "金价暴涨致回收客户临时毁约",
+        "onboard_time": 1744805422,
+        "rank": 14,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 431336,
+        "num": 368060,
+        "word": "无忧渡迟雪 中戏第一",
+        "onboard_time": 1744803143,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 367930,
+        "num": 367930,
+        "word": "柯淳拐弯抹角打听赵丽颖",
+        "onboard_time": 1744803322,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 344733,
+        "num": 344733,
+        "word": "刘耀文回应和张真源冷战",
+        "onboard_time": 1744808602,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336885,
+        "num": 336885,
+        "word": "歌手首发阵容",
+        "onboard_time": 1744783463,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198382,
+        "num": 315159,
+        "word": "王楚钦vs普卡",
+        "onboard_time": 1744807942,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 313937,
+        "num": 313937,
+        "word": "甲亢哥是美国网红最正常的一个",
+        "onboard_time": 1744802961,
+        "rank": 20,
+        "category": "网红,海外新闻"
+      },
+      {
+        "raw_hot": 301870,
+        "num": 301870,
+        "word": "肥娟119元网购桶装冰激凌卖2元一杯",
+        "onboard_time": 1744808602,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275558,
+        "num": 275558,
+        "word": "我的存款已经足够下半辈子不吃不喝了",
+        "onboard_time": 1744767741,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 229057,
+        "num": 229057,
+        "word": "外交部回应暂停接收波音飞机",
+        "onboard_time": 1744800321,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 228929,
+        "num": 228929,
+        "word": "12306平稳度过今日售票高峰",
+        "onboard_time": 1744796600,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186929,
+        "num": 224555,
+        "word": "乘风2025四公结果",
+        "onboard_time": 1744807642,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162021,
+        "num": 218141,
+        "word": "无忧渡伍娘演技",
+        "onboard_time": 1744805902,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146836,
+        "num": 210623,
+        "word": "无忧渡",
+        "onboard_time": 1744797682,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24389,
+        "num": 201523,
+        "word": "15万腕表保修期内维修还要花2万多",
+        "onboard_time": 1744808540,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76047,
+        "num": 197135,
+        "word": "毛利小五郎妃英理重归于好",
+        "onboard_time": 1744807762,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 192251,
+        "num": 192251,
+        "word": "美企说承受不起巨额关税账单",
+        "onboard_time": 1744805181,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 190726,
+        "num": 190726,
+        "word": "王鹤棣委托工作人员出来安慰粉丝",
+        "onboard_time": 1744806562,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179719,
+        "num": 179719,
+        "word": "面对亲人离世越冷静越危险",
+        "onboard_time": 1744806922,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169664,
+        "num": 169664,
+        "word": "您的包裹正在东张西望",
+        "onboard_time": 1744808182,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148185,
+        "num": 148185,
+        "word": "谁给费启鸣化的雀斑",
+        "onboard_time": 1744807520,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145266,
+        "num": 145266,
+        "word": "神二十发射",
+        "onboard_time": 1744808062,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 14105,
+        "num": 144735,
+        "word": "世界第一所近代华侨学校已127年",
+        "onboard_time": 1744805122,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 19718,
+        "num": 144473,
+        "word": "36小时漂流奇迹是不放弃的具象化",
+        "onboard_time": 1744805301,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144468,
+        "num": 144468,
+        "word": "赵露思金泰熙同款造型",
+        "onboard_time": 1744799241,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132696,
+        "num": 132696,
+        "word": "香港全款400万15平的小家",
+        "onboard_time": 1744791681,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126017,
+        "num": 126017,
+        "word": "基因相似度0%意味着什么",
+        "onboard_time": 1744787001,
+        "rank": 40,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 116440,
+        "num": 116440,
+        "word": "吴磊连续7年保持北电表演系最高分",
+        "onboard_time": 1744793902,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115878,
+        "num": 115878,
+        "word": "王蓉说蹉跎苦我一个人受了就行",
+        "onboard_time": 1744792522,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113626,
+        "num": 113626,
+        "word": "歌手 张惠妹",
+        "onboard_time": 1744792101,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110779,
+        "num": 110779,
+        "word": "山西男篮vs广东男篮",
+        "onboard_time": 1744804942,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105454,
+        "num": 105454,
+        "word": "泡泡玛特哪吒",
+        "onboard_time": 1744793062,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 105167,
+        "num": 105167,
+        "word": "澳门世界杯",
+        "onboard_time": 1744806263,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102368,
+        "num": 102368,
+        "word": "宋雨琦周深轮流教孟子义唱radio",
+        "onboard_time": 1744803080,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102276,
+        "num": 102276,
+        "word": "秦昊一年奖励自己一部悬疑剧",
+        "onboard_time": 1744799421,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101345,
+        "num": 101345,
+        "word": "丁禹兮给粉丝模仿金宣虎笑",
+        "onboard_time": 1744801822,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见马来西亚最高元首#"
+    }
+  }
+}
