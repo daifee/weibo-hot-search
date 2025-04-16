@@ -1,0 +1,410 @@
+{
+  "runTime": 1744777761900,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 680265,
+        "num": 1108842,
+        "word": "拜登公开抨击特朗普",
+        "onboard_time": 1744768041,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 497822,
+        "num": 497822,
+        "word": "金价",
+        "onboard_time": 1744765283,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 47756,
+        "num": 438999,
+        "word": "公安部网安局反网络霸权在行动",
+        "onboard_time": 1744775364,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 426947,
+        "num": 426947,
+        "word": "美正式将韩国列为敏感国家",
+        "onboard_time": 1744772123,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 318490,
+        "num": 318490,
+        "word": "张凌赫和替身走戏",
+        "onboard_time": 1744766303,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 316088,
+        "num": 316088,
+        "word": "语文就得晚上考",
+        "onboard_time": 1744772362,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 261408,
+        "num": 261408,
+        "word": "良陈美锦开机",
+        "onboard_time": 1744770683,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257094,
+        "num": 257094,
+        "word": "金饰价格涨至1007元",
+        "onboard_time": 1744771221,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 233761,
+        "num": 233761,
+        "word": "玉米蛋挞",
+        "onboard_time": 1744773625,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 88749,
+        "num": 231888,
+        "word": "刘满仓被逮捕",
+        "onboard_time": 1744776324,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9873660,
+        "num": 9873660,
+        "word": "订婚强奸案二审驳回上诉",
+        "onboard_time": 1744769062,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 924892,
+        "num": 229002,
+        "word": "我的存款已经足够下半辈子不吃不喝了",
+        "onboard_time": 1744767741,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 813421,
+        "num": 225838,
+        "word": "特朗普凌晨2点开记者会折磨媒体",
+        "onboard_time": 1744764503,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 572941,
+        "num": 224475,
+        "word": "有棵树 张予曦",
+        "onboard_time": 1744774703,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 570310,
+        "num": 223393,
+        "word": "小猫悟空去世",
+        "onboard_time": 1744759579,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 264711,
+        "num": 219537,
+        "word": "她差点拍到了自己的死亡",
+        "onboard_time": 1744769182,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 255612,
+        "num": 217549,
+        "word": "12306回应五一抢票崩了",
+        "onboard_time": 1744773443,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 217305,
+        "num": 217305,
+        "word": "宋祖儿靠演技杀回来了",
+        "onboard_time": 1744770741,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181310,
+        "num": 212891,
+        "word": "长风起开机",
+        "onboard_time": 1744771581,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147681,
+        "num": 212621,
+        "word": "当育儿从单打独斗变成团队作战",
+        "onboard_time": 1744777104,
+        "rank": 19,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 28292,
+        "num": 206888,
+        "word": "敦煌网在美区苹果商店排名第二",
+        "onboard_time": 1744777404,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 142634,
+        "num": 201100,
+        "word": "易烊千玺护苗主题曲守一扇心窗",
+        "onboard_time": 1744771701,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 23936,
+        "num": 198067,
+        "word": "敦煌网回应在美国爆火",
+        "onboard_time": 1744777465,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 194005,
+        "num": 194005,
+        "word": "A股",
+        "onboard_time": 1744771462,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 190454,
+        "num": 190454,
+        "word": "灰熊vs勇士",
+        "onboard_time": 1744771522,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186438,
+        "num": 186438,
+        "word": "任国超抢任嘉伦戏份",
+        "onboard_time": 1744776624,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139289,
+        "num": 186417,
+        "word": "天赐的声音6首发集结",
+        "onboard_time": 1744776265,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22271,
+        "num": 185406,
+        "word": "敦煌网称在美国爆火始料未及",
+        "onboard_time": 1744777465,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 24644,
+        "num": 184902,
+        "word": "敦煌网在美爆火",
+        "onboard_time": 1744777404,
+        "rank": 28,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 54135,
+        "num": 183651,
+        "word": "低能量不自律小狗的一天",
+        "onboard_time": 1744777104,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 531670,
+        "num": 183028,
+        "word": "男子花155万买迈巴赫跑网约车",
+        "onboard_time": 1744774643,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261535,
+        "num": 182631,
+        "word": "26岁小伙被大9岁已婚女子骗婚",
+        "onboard_time": 1744764503,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127276,
+        "num": 181979,
+        "word": "张杰鸟巢包月员工上班打卡成功",
+        "onboard_time": 1744775063,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1407127,
+        "num": 181320,
+        "word": "审判长回应女方处女膜未破裂",
+        "onboard_time": 1744773683,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261262,
+        "num": 180692,
+        "word": "牙医说他的牙连玉米饼都吃不了",
+        "onboard_time": 1744775543,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 523690,
+        "num": 179638,
+        "word": "法院回应山西订婚强奸案焦点问题",
+        "onboard_time": 1744773503,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243062,
+        "num": 178815,
+        "word": "吃红肉 不痛经",
+        "onboard_time": 1744768761,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 312816,
+        "num": 178246,
+        "word": "订婚强奸案男方母亲说罪名太丢人",
+        "onboard_time": 1744772061,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51897,
+        "num": 177268,
+        "word": "订婚强奸案男方家属将提起申诉",
+        "onboard_time": 1744776803,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56929,
+        "num": 177052,
+        "word": "日本人看到中国馆走不动道了",
+        "onboard_time": 1744776865,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 229565,
+        "num": 176237,
+        "word": "第一次见这么接地气的富二代",
+        "onboard_time": 1744775304,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175752,
+        "num": 175752,
+        "word": "明天可买五一当天火车票",
+        "onboard_time": 1744768161,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175359,
+        "num": 175359,
+        "word": "广东一毒枭房产七折起拍",
+        "onboard_time": 1744774944,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174992,
+        "num": 174992,
+        "word": "一季度GDP同比增长5.4%",
+        "onboard_time": 1744770022,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 173114,
+        "num": 173114,
+        "word": "席某某刑期还有384天",
+        "onboard_time": 1744776024,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167508,
+        "num": 167508,
+        "word": "王艺迪小组出局",
+        "onboard_time": 1744776265,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162886,
+        "num": 162886,
+        "word": "白鹿今晚还回家吗",
+        "onboard_time": 1744774343,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159519,
+        "num": 159519,
+        "word": "石头科技创始人清空社媒账号",
+        "onboard_time": 1744774823,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 271794,
+        "num": 153488,
+        "word": "订婚强奸案被告人母亲被训诫",
+        "onboard_time": 1744773922,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143845,
+        "num": 143845,
+        "word": "饺子外形设计专利",
+        "onboard_time": 1744773683,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#马方热烈欢迎习主席到访#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744775458914,
+  "endTime": 1744777761900,
   "band_list": [
     {
       "raw_hot": 10606514,
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 1624465,
-      "num": 179303,
+      "num": 181320,
       "word": "审判长回应女方处女膜未破裂",
       "onboard_time": 1744773683,
       "rank": 35,
@@ -1675,6 +1675,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 572941,
+      "num": 224475,
+      "word": "有棵树 张予曦",
+      "onboard_time": 1744774703,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 564508,
       "num": 564508,
       "word": "咸鱼飞升",
@@ -1785,6 +1793,22 @@
       "onboard_time": 1744680082,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 531670,
+      "num": 222764,
+      "word": "男子花155万买迈巴赫跑网约车",
+      "onboard_time": 1744774643,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 523690,
+      "num": 179638,
+      "word": "法院回应山西订婚强奸案焦点问题",
+      "onboard_time": 1744773503,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 521299,
@@ -2201,6 +2225,14 @@
       "onboard_time": 1744514420,
       "rank": 18,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 426947,
+      "num": 426947,
+      "word": "美正式将韩国列为敏感国家",
+      "onboard_time": 1744772123,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 426876,
@@ -2699,14 +2731,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 333404,
-      "num": 222764,
-      "word": "男子花155万买迈巴赫跑网约车",
-      "onboard_time": 1744774643,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 332515,
       "num": 259862,
       "word": "小孩跳楼砸坏新车家长只赔几百",
@@ -2761,14 +2785,6 @@
       "onboard_time": 1744712780,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 328371,
-      "num": 176384,
-      "word": "法院回应山西订婚强奸案焦点问题",
-      "onboard_time": 1744773503,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 328292,
@@ -2883,20 +2899,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 316088,
+      "num": 316088,
+      "word": "语文就得晚上考",
+      "onboard_time": 1744772362,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 314894,
       "num": 314894,
       "word": "国家安全机关破获一起重大间谍案件",
       "onboard_time": 1744541782,
       "rank": 41,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 314653,
-      "num": 220524,
-      "word": "有棵树 张予曦",
-      "onboard_time": 1744774703,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 311028,
@@ -3076,7 +3092,7 @@
     },
     {
       "raw_hot": 285903,
-      "num": 152530,
+      "num": 153488,
       "word": "订婚强奸案被告人母亲被训诫",
       "onboard_time": 1744773922,
       "rank": 40,
@@ -3347,6 +3363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 261262,
+      "num": 180692,
+      "word": "牙医说他的牙连玉米饼都吃不了",
+      "onboard_time": 1744775543,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 260305,
       "num": 324533,
       "word": "郝蕾一句话戳穿傅首尔",
@@ -3441,14 +3465,6 @@
       "onboard_time": 1744598780,
       "rank": 22,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 250548,
-      "num": 250548,
-      "word": "美正式将韩国列为敏感国家",
-      "onboard_time": 1744772123,
-      "rank": 38,
-      "category": "国际时政"
     },
     {
       "raw_hot": 250497,
@@ -3731,6 +3747,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 233761,
+      "num": 233761,
+      "word": "玉米蛋挞",
+      "onboard_time": 1744773625,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 232984,
       "num": 391209,
       "word": "孙颖莎4比0胜张默",
@@ -3785,6 +3809,14 @@
       "onboard_time": 1744673119,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 229565,
+      "num": 176237,
+      "word": "第一次见这么接地气的富二代",
+      "onboard_time": 1744775304,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 228996,
@@ -4523,14 +4555,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 205115,
-      "num": 205115,
-      "word": "玉米蛋挞",
-      "onboard_time": 1744773625,
-      "rank": 47,
-      "category": "美食"
-    },
-    {
       "raw_hot": 205042,
       "num": 205042,
       "word": "JUSTIN公式照",
@@ -5131,6 +5155,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 190454,
+      "num": 190454,
+      "word": "灰熊vs勇士",
+      "onboard_time": 1744771522,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190115,
       "num": 403221,
       "word": "老板悄悄将消防员餐食换成超大份",
@@ -5243,14 +5275,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 187368,
-      "num": 187368,
-      "word": "语文就得晚上考",
-      "onboard_time": 1744772362,
-      "rank": 36,
-      "category": "教育"
-    },
-    {
       "raw_hot": 187266,
       "num": 205148,
       "word": "任敏此沙二搭",
@@ -5297,6 +5321,14 @@
       "onboard_time": 1744773322,
       "rank": 31,
       "category": "财经"
+    },
+    {
+      "raw_hot": 186438,
+      "num": 186438,
+      "word": "任国超抢任嘉伦戏份",
+      "onboard_time": 1744776624,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 186110,
@@ -5843,6 +5875,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 175359,
+      "num": 223411,
+      "word": "广东一毒枭房产七折起拍",
+      "onboard_time": 1744774944,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 175315,
       "num": 175315,
       "word": "王一博长期贡献乐华超六成营收",
@@ -5913,6 +5953,14 @@
       "onboard_time": 1744624403,
       "rank": 13,
       "category": "数码"
+    },
+    {
+      "raw_hot": 173114,
+      "num": 173114,
+      "word": "席某某刑期还有384天",
+      "onboard_time": 1744776024,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 172938,
@@ -6137,6 +6185,14 @@
       "onboard_time": 1744520844,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167508,
+      "num": 167508,
+      "word": "王艺迪小组出局",
+      "onboard_time": 1744776265,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 167218,
@@ -6377,14 +6433,6 @@
       "onboard_time": 1744772843,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 162033,
-      "num": 162033,
-      "word": "灰熊vs勇士",
-      "onboard_time": 1744771522,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 161897,
@@ -6772,7 +6820,7 @@
     },
     {
       "raw_hot": 153742,
-      "num": 177505,
+      "num": 201100,
       "word": "易烊千玺护苗主题曲守一扇心窗",
       "onboard_time": 1744771701,
       "rank": 28,
@@ -6915,14 +6963,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 150206,
-      "num": 150206,
-      "word": "第一次见这么接地气的富二代",
-      "onboard_time": 1744775304,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 150137,
       "num": 150137,
       "word": "赵又廷毛晓彤金世佳同框",
@@ -6969,6 +7009,14 @@
       "onboard_time": 1744722382,
       "rank": 17,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 147681,
+      "num": 212621,
+      "word": "当育儿从单打独斗变成团队作战",
+      "onboard_time": 1744777104,
+      "rank": 19,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 147300,
@@ -7451,20 +7499,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 139624,
-      "num": 223411,
-      "word": "广东一毒枭房产七折起拍",
-      "onboard_time": 1744774944,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 139451,
       "num": 139451,
       "word": "沙尘暴",
       "onboard_time": 1744505241,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139289,
+      "num": 186417,
+      "word": "天赐的声音6首发集结",
+      "onboard_time": 1744776265,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 139193,
@@ -8187,6 +8235,14 @@
       "category": "民生新闻,旅游"
     },
     {
+      "raw_hot": 127276,
+      "num": 181979,
+      "word": "张杰鸟巢包月员工上班打卡成功",
+      "onboard_time": 1744775063,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 127185,
       "num": 267956,
       "word": "郑钦文长裙出海照",
@@ -8353,14 +8409,6 @@
       "onboard_time": 1744542622,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 124722,
-      "num": 124722,
-      "word": "张杰鸟巢包月员工上班打卡成功",
-      "onboard_time": 1744775063,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 124709,
@@ -9883,6 +9931,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 88749,
+      "num": 231888,
+      "word": "刘满仓被逮捕",
+      "onboard_time": 1744776324,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88435,
       "num": 88435,
       "word": "你推荐哪部国产电视剧出海",
@@ -10691,6 +10747,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 56929,
+      "num": 177052,
+      "word": "日本人看到中国馆走不动道了",
+      "onboard_time": 1744776865,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 56918,
       "num": 112207,
       "word": "中方谴责美国政府的恶意网络行为",
@@ -10747,6 +10811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54135,
+      "num": 183651,
+      "word": "低能量不自律小狗的一天",
+      "onboard_time": 1744777104,
+      "rank": 29,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 52483,
       "num": 198274,
       "word": "刘国梁谈运动员的榜样力量",
@@ -10769,6 +10841,14 @@
       "onboard_time": 1744476799,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 51897,
+      "num": 177268,
+      "word": "订婚强奸案男方家属将提起申诉",
+      "onboard_time": 1744776803,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51609,
@@ -10873,6 +10953,14 @@
       "onboard_time": 1744671980,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 47756,
+      "num": 438999,
+      "word": "公安部网安局反网络霸权在行动",
+      "onboard_time": 1744775364,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 47696,
@@ -11555,6 +11643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28292,
+      "num": 206888,
+      "word": "敦煌网在美区苹果商店排名第二",
+      "onboard_time": 1744777404,
+      "rank": 20,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 27844,
       "num": 175553,
       "word": "为了生存付出无数个并不认同的努力",
@@ -11699,6 +11795,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 24644,
+      "num": 184902,
+      "word": "敦煌网在美爆火",
+      "onboard_time": 1744777404,
+      "rank": 28,
+      "category": "互联网,民生新闻"
+    },
+    {
       "raw_hot": 24541,
       "num": 127475,
       "word": "李雪琴不说话的爱影评",
@@ -11729,6 +11833,14 @@
       "onboard_time": 1744529001,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 23936,
+      "num": 198067,
+      "word": "敦煌网回应在美国爆火",
+      "onboard_time": 1744777465,
+      "rank": 22,
+      "category": "互联网"
     },
     {
       "raw_hot": 23492,
@@ -11825,6 +11937,14 @@
       "onboard_time": 1744745954,
       "rank": 33,
       "category": "网红"
+    },
+    {
+      "raw_hot": 22271,
+      "num": 185406,
+      "word": "敦煌网称在美国爆火始料未及",
+      "onboard_time": 1744777465,
+      "rank": 27,
+      "category": "互联网"
     },
     {
       "raw_hot": 22137,
@@ -12345,14 +12465,6 @@
       "onboard_time": 1744722023,
       "rank": 39,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 6770,
-      "num": 388137,
-      "word": "公安部网安局反网络霸权在行动",
-      "onboard_time": 1744775364,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 189,
