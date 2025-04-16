@@ -1,0 +1,410 @@
+{
+  "runTime": 1744796510364,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1952844,
+        "num": 1952844,
+        "word": "外交部回应美对华加征245%关税",
+        "onboard_time": 1744789041,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 390810,
+        "num": 843124,
+        "word": "郑州禁止在人多的公共场所遛狗",
+        "onboard_time": 1744791382,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131529,
+        "num": 800353,
+        "word": "美国滥施关税是在搬起石头砸自己的脚",
+        "onboard_time": 1744791981,
+        "rank": 2,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 759942,
+        "num": 759942,
+        "word": "淘宝在美国突然爆火",
+        "onboard_time": 1744791142,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 737785,
+        "num": 737785,
+        "word": "歌手首发阵容",
+        "onboard_time": 1744783463,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 352573,
+        "num": 672276,
+        "word": "三星李在镕痛失韩国首富",
+        "onboard_time": 1744787481,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 670880,
+        "num": 670880,
+        "word": "泡泡玛特哪吒",
+        "onboard_time": 1744793062,
+        "rank": 6,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 224133,
+        "num": 484054,
+        "word": "孟子义 异域公主",
+        "onboard_time": 1744789461,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 402221,
+        "num": 402221,
+        "word": "敖隐 敖丙",
+        "onboard_time": 1744780463,
+        "rank": 8,
+        "category": "游戏,电影"
+      },
+      {
+        "raw_hot": 145210,
+        "num": 400901,
+        "word": "夫妻闭店3天陪儿子救了个人",
+        "onboard_time": 1744795341,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 979361,
+        "num": 397058,
+        "word": "男子工亡婆婆分14万嫌少起诉儿媳",
+        "onboard_time": 1744792223,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 724826,
+        "num": 393637,
+        "word": "我的存款已经足够下半辈子不吃不喝了",
+        "onboard_time": 1744767741,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 546596,
+        "num": 390502,
+        "word": "香港全款400万15平的小家",
+        "onboard_time": 1744791681,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 468439,
+        "num": 386570,
+        "word": "歌手 张惠妹",
+        "onboard_time": 1744792101,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211988,
+        "num": 381600,
+        "word": "魏大勋周雨彤谈演绎父母爱情",
+        "onboard_time": 1744791622,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 460876,
+        "num": 378727,
+        "word": "王蓉说蹉跎苦我一个人受了就行",
+        "onboard_time": 1744792522,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47555,
+        "num": 376031,
+        "word": "问界M8三季度升级ADS4",
+        "onboard_time": 1744792401,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 113714,
+        "num": 373106,
+        "word": "极氪是懂豪华的",
+        "onboard_time": 1744795042,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 85389,
+        "num": 368145,
+        "word": "朱开说和Doinb不熟",
+        "onboard_time": 1744795462,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 136834,
+        "num": 366549,
+        "word": "周雨夸王楚钦太全面了",
+        "onboard_time": 1744795882,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 430752,
+        "num": 363121,
+        "word": "网红小猫悟空主人已谅解车主",
+        "onboard_time": 1744785921,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 359612,
+        "num": 359612,
+        "word": "吴磊连续7年保持北电表演系最高分",
+        "onboard_time": 1744793902,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320905,
+        "num": 320905,
+        "word": "萧亚轩至今动了5次手术",
+        "onboard_time": 1744789403,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192111,
+        "num": 319500,
+        "word": "易烊千玺新歌听得我朝气蓬勃",
+        "onboard_time": 1744795582,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 60906,
+        "num": 309354,
+        "word": "撑起大国脊梁的国防七子高校",
+        "onboard_time": 1744796122,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 79214,
+        "num": 303116,
+        "word": "问界M8动态评测首发",
+        "onboard_time": 1744796240,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 189939,
+        "num": 297273,
+        "word": "中国完成史诗级救星任务",
+        "onboard_time": 1744789342,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 293069,
+        "num": 293069,
+        "word": "鸿蒙智行第五界尚界正式亮相",
+        "onboard_time": 1744795341,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 140579,
+        "num": 273835,
+        "word": "虞书欣大失败陈靖可那咋了",
+        "onboard_time": 1744786641,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220390,
+        "num": 270317,
+        "word": "特朗普希望哈佛大学道歉",
+        "onboard_time": 1744794862,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 266950,
+        "num": 266950,
+        "word": "多方回应湖南一学校300年银杏被砍",
+        "onboard_time": 1744794203,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 311275,
+        "num": 264997,
+        "word": "基因相似度0%意味着什么",
+        "onboard_time": 1744787001,
+        "rank": 31,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 107870,
+        "num": 260914,
+        "word": "问界新M7牧野青限时23万起",
+        "onboard_time": 1744794322,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 260341,
+        "num": 260341,
+        "word": "人不要在同一个环境下浸泡太久",
+        "onboard_time": 1744795402,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 202328,
+        "num": 202328,
+        "word": "女大有自己的五一穿搭",
+        "onboard_time": 1744794441,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 69119,
+        "num": 184119,
+        "word": "白鹿脱不下来的洞洞鞋",
+        "onboard_time": 1744792101,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174240,
+        "num": 174240,
+        "word": "男子回应撞脸樊振东",
+        "onboard_time": 1744794862,
+        "rank": 36,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 173508,
+        "num": 173508,
+        "word": "王者荣耀联动哪吒",
+        "onboard_time": 1744778904,
+        "rank": 37,
+        "category": "游戏,电影"
+      },
+      {
+        "raw_hot": 172141,
+        "num": 172141,
+        "word": "问界M8价格",
+        "onboard_time": 1744791741,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 158405,
+        "num": 158405,
+        "word": "全球多国正在中国买买买卖卖卖",
+        "onboard_time": 1744778904,
+        "rank": 39,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 148643,
+        "num": 148643,
+        "word": "甄嬛都来支持孙俪胡曼黎了",
+        "onboard_time": 1744795943,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145419,
+        "num": 145419,
+        "word": "甲状腺与胆囊之间的关系",
+        "onboard_time": 1744794024,
+        "rank": 41,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 143318,
+        "num": 143318,
+        "word": "工作人员称黄杨钿甜将专心备考",
+        "onboard_time": 1744789701,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137644,
+        "num": 137644,
+        "word": "尚界",
+        "onboard_time": 1744792763,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 136223,
+        "num": 136223,
+        "word": "中方多次阐明在关税问题上的严正立场",
+        "onboard_time": 1744789942,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 136099,
+        "num": 136099,
+        "word": "哈啰回应1400元顺风车拼了7个人",
+        "onboard_time": 1744784002,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 135670,
+        "num": 135670,
+        "word": "刘若谷中戏第一",
+        "onboard_time": 1744787722,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123277,
+        "num": 123277,
+        "word": "无忧渡 黑马",
+        "onboard_time": 1744778665,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89438,
+        "num": 123276,
+        "word": "黄金回收业务量大涨",
+        "onboard_time": 1744792941,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 130816,
+        "num": 122846,
+        "word": "黄杨钿甜中戏第二",
+        "onboard_time": 1744786641,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平这样阐述中越关系#"
+    }
+  }
+}
