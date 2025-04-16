@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744778616949,
+  "endTime": 1744781084684,
   "band_list": [
     {
       "raw_hot": 10606514,
@@ -113,6 +113,14 @@
       "onboard_time": 1744594581,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2025549,
+      "num": 2025549,
+      "word": "美国声称对华关税加到245%",
+      "onboard_time": 1744779204,
+      "rank": 0,
+      "category": "国际时政"
     },
     {
       "raw_hot": 2024622,
@@ -561,6 +569,14 @@
       "onboard_time": 1744650856,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1147597,
+      "num": 1147597,
+      "word": "王者荣耀联动哪吒",
+      "onboard_time": 1744778904,
+      "rank": 1,
+      "category": "游戏,电影"
     },
     {
       "raw_hot": 1141040,
@@ -1379,6 +1395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 687744,
+      "num": 228902,
+      "word": "马頔怎么了",
+      "onboard_time": 1744779322,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 678327,
       "num": 498713,
       "word": "同居租房男生出钱女生拒绝",
@@ -2107,6 +2131,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 455244,
+      "num": 206087,
+      "word": "马頔深夜发文",
+      "onboard_time": 1744780283,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 455020,
       "num": 446045,
       "word": "找工作被要求得过诺贝尔奖",
@@ -2345,6 +2377,14 @@
       "onboard_time": 1744727603,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 411219,
+      "num": 222285,
+      "word": "无忧渡 黑马",
+      "onboard_time": 1744778665,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 409926,
@@ -2657,6 +2697,14 @@
       "onboard_time": 1744606705,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 348721,
+      "num": 348721,
+      "word": "敖隐 敖丙",
+      "onboard_time": 1744780463,
+      "rank": 4,
+      "category": "游戏,电影"
     },
     {
       "raw_hot": 347986,
@@ -2993,6 +3041,14 @@
       "onboard_time": 1744604664,
       "rank": 35,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 302387,
+      "num": 302387,
+      "word": "白鹿 奔跑吧海报",
+      "onboard_time": 1744778425,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 300915,
@@ -3515,6 +3571,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 247246,
+      "num": 204598,
+      "word": "林黛玉吃药 打工人打卡",
+      "onboard_time": 1744778963,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 246867,
       "num": 246867,
       "word": "特朗普顾问回应被马斯克骂白痴",
@@ -3683,6 +3747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 238611,
+      "num": 227326,
+      "word": "高圆圆糖耳朵一吃帕梅拉白练",
+      "onboard_time": 1744779264,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 238126,
       "num": 238126,
       "word": "一季度GDP同比增长5.4%",
@@ -3737,6 +3809,14 @@
       "onboard_time": 1744507522,
       "rank": 24,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 235998,
+      "num": 235998,
+      "word": "库里关键三分",
+      "onboard_time": 1744780104,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 234888,
@@ -4123,6 +4203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 215572,
+      "num": 215572,
+      "word": "灰熊vs勇士",
+      "onboard_time": 1744771522,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 214676,
       "num": 214676,
       "word": "当年奔跑吧导演换人之后",
@@ -4217,6 +4305,14 @@
       "onboard_time": 1744614743,
       "rank": 34,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 212638,
+      "num": 203347,
+      "word": "京东外卖崩了",
+      "onboard_time": 1744779684,
+      "rank": 36,
+      "category": "互联网"
     },
     {
       "raw_hot": 212561,
@@ -4441,6 +4537,14 @@
       "onboard_time": 1744688422,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207692,
+      "num": 207692,
+      "word": "严浩翔张哥在我生命中的时间又增加了一年",
+      "onboard_time": 1744780762,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 207622,
@@ -4803,6 +4907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198999,
+      "num": 500006,
+      "word": "全球多国正在中国买买买卖卖卖",
+      "onboard_time": 1744778904,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 198632,
       "num": 198632,
       "word": "男性也能打九价HPV疫苗了",
@@ -5020,7 +5132,7 @@
     },
     {
       "raw_hot": 193134,
-      "num": 193134,
+      "num": 220707,
       "word": "奔跑吧",
       "onboard_time": 1744595480,
       "rank": 27,
@@ -5161,14 +5273,6 @@
       "onboard_time": 1744708341,
       "rank": 25,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 190454,
-      "num": 190454,
-      "word": "灰熊vs勇士",
-      "onboard_time": 1744771522,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 190115,
@@ -6075,6 +6179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170844,
+      "num": 343351,
+      "word": "标价上万美元的奢侈品大多是中国制造",
+      "onboard_time": 1744777824,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 170841,
       "num": 170841,
       "word": "虞书欣一周拿下三代言",
@@ -6441,14 +6553,6 @@
       "onboard_time": 1744762943,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 162165,
-      "num": 217142,
-      "word": "白鹿 奔跑吧海报",
-      "onboard_time": 1744778425,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 162134,
@@ -7035,6 +7139,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 148835,
+      "num": 207698,
+      "word": "大侦探",
+      "onboard_time": 1744779384,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148819,
       "num": 211192,
       "word": "杨紫李祯幅巾造型",
@@ -7064,6 +7176,14 @@
       "word": "王曼昱vs伯格斯特隆",
       "onboard_time": 1744713022,
       "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 146931,
+      "num": 146931,
+      "word": "莫兰特受伤",
+      "onboard_time": 1744778605,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -7699,6 +7819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136985,
+      "num": 233152,
+      "word": "现货黄金突破3230美元关口",
+      "onboard_time": 1744778724,
+      "rank": 12,
+      "category": "财经"
+    },
+    {
       "raw_hot": 136820,
       "num": 136820,
       "word": "湖南卫视连发20条陈哲远",
@@ -8187,6 +8315,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 128935,
+      "num": 128935,
+      "word": "一首情诗就能查出现任出轨",
+      "onboard_time": 1744779204,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128776,
       "num": 215000,
       "word": "Epic说大家领了游戏不玩",
@@ -8451,6 +8587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124880,
+      "num": 124880,
+      "word": "我是打野我为自己发声",
+      "onboard_time": 1744781062,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 124709,
       "num": 124709,
       "word": "A股放量三大指数上涨",
@@ -8465,6 +8609,14 @@
       "onboard_time": 1744630282,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 124206,
+      "num": 124206,
+      "word": "间谍竟想重金买回被发现的窃密装置",
+      "onboard_time": 1744780283,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 124176,
@@ -9619,14 +9771,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 101459,
-      "num": 343351,
-      "word": "标价上万美元的奢侈品大多是中国制造",
-      "onboard_time": 1744777824,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 101341,
       "num": 101341,
       "word": "第一次见真正的拔河",
@@ -10185,6 +10329,14 @@
       "onboard_time": 1744454484,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 82683,
+      "num": 230997,
+      "word": "进口订单暴跌美港口预警贸易冻结",
+      "onboard_time": 1744779442,
+      "rank": 13,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 82327,
@@ -10923,6 +11075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 54703,
+      "num": 209445,
+      "word": "王艺迪说能赢球也能接受输球",
+      "onboard_time": 1744779864,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 54279,
       "num": 289183,
       "word": "张本智和11比0埃尔贝亚利",
@@ -11041,6 +11201,14 @@
       "onboard_time": 1744542381,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48472,
+      "num": 207059,
+      "word": "张本智和回应晋级世界杯16强",
+      "onboard_time": 1744779925,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 48228,
@@ -11563,6 +11731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 35284,
+      "num": 147158,
+      "word": "中国制造智能设备成外贸新亮点",
+      "onboard_time": 1744779024,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35002,
       "num": 58589,
       "word": "人人人白牡丹人人人",
@@ -11664,6 +11840,14 @@
       "word": "黄友政无缘澳门世界杯16强",
       "onboard_time": 1744773625,
       "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 30934,
+      "num": 230420,
+      "word": "孙颖莎世界杯赛前训练",
+      "onboard_time": 1744780583,
+      "rank": 14,
       "category": "体育"
     },
     {
@@ -11969,6 +12153,14 @@
       "onboard_time": 1744654334,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 22938,
+      "num": 215795,
+      "word": "滨崎步微博文化交流之夜最佳艺人",
+      "onboard_time": 1744778665,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 22717,

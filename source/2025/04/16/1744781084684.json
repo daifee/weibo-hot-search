@@ -1,0 +1,410 @@
+{
+  "runTime": 1744781084684,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2025549,
+        "num": 2025549,
+        "word": "美国声称对华关税加到245%",
+        "onboard_time": 1744779204,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1147597,
+        "num": 1147597,
+        "word": "王者荣耀联动哪吒",
+        "onboard_time": 1744778904,
+        "rank": 1,
+        "category": "游戏,电影"
+      },
+      {
+        "raw_hot": 198999,
+        "num": 500006,
+        "word": "全球多国正在中国买买买卖卖卖",
+        "onboard_time": 1744778904,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 400403,
+        "num": 400403,
+        "word": "拜登公开抨击特朗普",
+        "onboard_time": 1744768041,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 348721,
+        "num": 348721,
+        "word": "敖隐 敖丙",
+        "onboard_time": 1744780463,
+        "rank": 4,
+        "category": "游戏,电影"
+      },
+      {
+        "raw_hot": 340805,
+        "num": 340805,
+        "word": "金价",
+        "onboard_time": 1744765283,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 302387,
+        "num": 302387,
+        "word": "白鹿 奔跑吧海报",
+        "onboard_time": 1744778425,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284691,
+        "num": 284691,
+        "word": "美正式将韩国列为敏感国家",
+        "onboard_time": 1744772123,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 242548,
+        "num": 242548,
+        "word": "张凌赫和替身走戏",
+        "onboard_time": 1744766303,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235998,
+        "num": 235998,
+        "word": "库里关键三分",
+        "onboard_time": 1744780104,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 6880647,
+        "num": 6880647,
+        "word": "订婚强奸案二审驳回上诉",
+        "onboard_time": 1744769062,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 815809,
+        "num": 233631,
+        "word": "我的存款已经足够下半辈子不吃不喝了",
+        "onboard_time": 1744767741,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136985,
+        "num": 233152,
+        "word": "现货黄金突破3230美元关口",
+        "onboard_time": 1744778724,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 82683,
+        "num": 230997,
+        "word": "进口订单暴跌美港口预警贸易冻结",
+        "onboard_time": 1744779442,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 30934,
+        "num": 230420,
+        "word": "孙颖莎世界杯赛前训练",
+        "onboard_time": 1744780583,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 687744,
+        "num": 228902,
+        "word": "马頔怎么了",
+        "onboard_time": 1744779322,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238611,
+        "num": 227326,
+        "word": "高圆圆糖耳朵一吃帕梅拉白练",
+        "onboard_time": 1744779264,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 541255,
+        "num": 225826,
+        "word": "小猫悟空去世",
+        "onboard_time": 1744759579,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 533638,
+        "num": 224118,
+        "word": "特朗普凌晨2点开记者会折磨媒体",
+        "onboard_time": 1744764503,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 71151,
+        "num": 222963,
+        "word": "当育儿从单打独斗变成团队作战",
+        "onboard_time": 1744777104,
+        "rank": 19,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 411219,
+        "num": 222285,
+        "word": "无忧渡 黑马",
+        "onboard_time": 1744778665,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191814,
+        "num": 220707,
+        "word": "奔跑吧",
+        "onboard_time": 1744780524,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 371274,
+        "num": 218346,
+        "word": "男子花155万买迈巴赫跑网约车",
+        "onboard_time": 1744774643,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 308337,
+        "num": 217613,
+        "word": "有棵树 张予曦",
+        "onboard_time": 1744774703,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22938,
+        "num": 215795,
+        "word": "滨崎步微博文化交流之夜最佳艺人",
+        "onboard_time": 1744778665,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215572,
+        "num": 215572,
+        "word": "灰熊vs勇士",
+        "onboard_time": 1744771522,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54703,
+        "num": 209445,
+        "word": "王艺迪说能赢球也能接受输球",
+        "onboard_time": 1744779864,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179928,
+        "num": 207830,
+        "word": "良陈美锦开机",
+        "onboard_time": 1744770683,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148835,
+        "num": 207698,
+        "word": "大侦探",
+        "onboard_time": 1744779384,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207692,
+        "num": 207692,
+        "word": "严浩翔张哥在我生命中的时间又增加了一年",
+        "onboard_time": 1744780762,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48472,
+        "num": 207059,
+        "word": "张本智和回应晋级世界杯16强",
+        "onboard_time": 1744779925,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1135175,
+        "num": 206904,
+        "word": "审判长回应女方处女膜未破裂",
+        "onboard_time": 1744773683,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 455244,
+        "num": 206087,
+        "word": "马頔深夜发文",
+        "onboard_time": 1744780283,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 483178,
+        "num": 205168,
+        "word": "法院回应山西订婚强奸案焦点问题",
+        "onboard_time": 1744773503,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247246,
+        "num": 204598,
+        "word": "林黛玉吃药 打工人打卡",
+        "onboard_time": 1744778963,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 281304,
+        "num": 203663,
+        "word": "订婚强奸案男方母亲说罪名太丢人",
+        "onboard_time": 1744772061,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212638,
+        "num": 203347,
+        "word": "京东外卖崩了",
+        "onboard_time": 1744779684,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 202982,
+        "num": 202982,
+        "word": "26岁小伙被大9岁已婚女子骗婚",
+        "onboard_time": 1744764503,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170844,
+        "num": 170844,
+        "word": "标价上万美元的奢侈品大多是中国制造",
+        "onboard_time": 1744777824,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169324,
+        "num": 169324,
+        "word": "席某某刑期还有384天",
+        "onboard_time": 1744776024,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165486,
+        "num": 165486,
+        "word": "牙医说他的牙连玉米饼都吃不了",
+        "onboard_time": 1744775543,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151993,
+        "num": 151993,
+        "word": "玉米蛋挞",
+        "onboard_time": 1744773625,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 35284,
+        "num": 147158,
+        "word": "中国制造智能设备成外贸新亮点",
+        "onboard_time": 1744779024,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146931,
+        "num": 146931,
+        "word": "莫兰特受伤",
+        "onboard_time": 1744778605,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134802,
+        "num": 134802,
+        "word": "日本人看到中国馆走不动道了",
+        "onboard_time": 1744776865,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 132868,
+        "num": 132868,
+        "word": "语文就得晚上考",
+        "onboard_time": 1744772362,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 128935,
+        "num": 128935,
+        "word": "一首情诗就能查出现任出轨",
+        "onboard_time": 1744779204,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124880,
+        "num": 124880,
+        "word": "我是打野我为自己发声",
+        "onboard_time": 1744781062,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 124206,
+        "num": 124206,
+        "word": "间谍竟想重金买回被发现的窃密装置",
+        "onboard_time": 1744780283,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 123195,
+        "num": 123195,
+        "word": "吃红肉 不痛经",
+        "onboard_time": 1744768761,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对马来西亚进行国事访问#"
+    }
+  }
+}
