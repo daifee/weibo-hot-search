@@ -1,7 +1,15 @@
 {
   "startTime": 1744821103506,
-  "endTime": 1744843326881,
+  "endTime": 1744845783196,
   "band_list": [
+    {
+      "raw_hot": 896216,
+      "num": 704313,
+      "word": "杭州警方通报浙江队外援坠亡",
+      "onboard_time": 1744819462,
+      "rank": 9,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 874042,
       "num": 504359,
@@ -11,20 +19,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 692938,
+      "num": 221716,
+      "word": "8个月女婴被虐待体重仅6斤",
+      "onboard_time": 1744814783,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 673248,
       "num": 866070,
       "word": "加州宣布将起诉特朗普政府",
       "onboard_time": 1744817301,
       "rank": 0,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 636982,
-      "num": 221716,
-      "word": "8个月女婴被虐待体重仅6斤",
-      "onboard_time": 1744814783,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 635260,
@@ -48,14 +56,6 @@
       "word": "虎门站一旅客跳股道身亡",
       "onboard_time": 1744811723,
       "rank": 20,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 570004,
-      "num": 570004,
-      "word": "杭州警方通报浙江队外援坠亡",
-      "onboard_time": 1744819462,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -91,6 +91,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 351451,
+      "num": 191922,
+      "word": "知情人回应网红小猫悟空去世",
+      "onboard_time": 1744818920,
+      "rank": 18,
+      "category": "网红"
+    },
+    {
       "raw_hot": 351343,
       "num": 351343,
       "word": "外交部回应美对华加征245%关税",
@@ -115,6 +123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 232129,
+      "num": 221372,
+      "word": "拜登说想见见300岁还领社保的人",
+      "onboard_time": 1744807043,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 232022,
       "num": 232022,
       "word": "王曼昱淘汰赛对阵张本美和",
@@ -123,12 +139,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 229329,
-      "num": 177686,
-      "word": "知情人回应网红小猫悟空去世",
-      "onboard_time": 1744818920,
-      "rank": 18,
-      "category": "网红"
+      "raw_hot": 227995,
+      "num": 227995,
+      "word": "国台办回应Tank感谢祖国",
+      "onboard_time": 1744801882,
+      "rank": 34,
+      "category": "国内时政,艺人"
     },
     {
       "raw_hot": 225905,
@@ -139,12 +155,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 221373,
-      "num": 221372,
-      "word": "拜登说想见见300岁还领社保的人",
-      "onboard_time": 1744807043,
-      "rank": 14,
-      "category": "国际时政"
+      "raw_hot": 223273,
+      "num": 223273,
+      "word": "肥娟119元网购桶装冰激凌卖2元一杯",
+      "onboard_time": 1744808602,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 211627,
@@ -155,12 +171,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 210101,
+      "num": 210101,
+      "word": "特朗普听故宫三原色道理后懵圈",
+      "onboard_time": 1744803921,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 209260,
       "num": 209260,
       "word": "这下不是半夏是全夏了",
       "onboard_time": 1744819881,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187718,
+      "num": 187718,
+      "word": "结婚3年妻子开着宝马带孩子走了",
+      "onboard_time": 1744801401,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 184560,
+      "num": 184560,
+      "word": "上海女教师怒怼安福路偷拍老法师",
+      "onboard_time": 1744804282,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 182141,
@@ -195,14 +235,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 138818,
-      "num": 138818,
-      "word": "国台办回应Tank感谢祖国",
-      "onboard_time": 1744801882,
-      "rank": 34,
-      "category": "国内时政,艺人"
-    },
-    {
       "raw_hot": 132941,
       "num": 133219,
       "word": "媒体人说朱一龙不应该被归类在流量",
@@ -219,11 +251,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 124902,
-      "num": 124902,
-      "word": "肥娟119元网购桶装冰激凌卖2元一杯",
-      "onboard_time": 1744808602,
-      "rank": 25,
+      "raw_hot": 130757,
+      "num": 130757,
+      "word": "小学生看了两眼发现罂粟",
+      "onboard_time": 1744815381,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -235,28 +267,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 116919,
-      "num": 103128,
-      "word": "上海女教师怒怼安福路偷拍老法师",
-      "onboard_time": 1744804282,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 113338,
-      "num": 113338,
-      "word": "特朗普听故宫三原色道理后懵圈",
-      "onboard_time": 1744803921,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 112832,
       "num": 112832,
       "word": "值得爱he",
       "onboard_time": 1744824317,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112177,
+      "num": 129978,
+      "word": "崔乐北电表演专业第一",
+      "onboard_time": 1744832294,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 106079,
@@ -275,28 +299,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 104718,
-      "num": 104718,
-      "word": "小学生看了两眼发现罂粟",
-      "onboard_time": 1744815381,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 104464,
       "num": 104464,
       "word": "享界S9首发手势控车",
       "onboard_time": 1744819700,
       "rank": 31,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 103788,
-      "num": 103788,
-      "word": "结婚3年妻子开着宝马带孩子走了",
-      "onboard_time": 1744801401,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 100343,
@@ -347,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 85976,
+      "num": 85976,
+      "word": "美企说承受不起巨额关税账单",
+      "onboard_time": 1744805181,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 83697,
       "num": 83697,
       "word": "谭薇淘汰",
@@ -355,20 +371,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 82914,
-      "num": 82914,
-      "word": "美企说承受不起巨额关税账单",
-      "onboard_time": 1744805181,
-      "rank": 41,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 81580,
       "num": 81580,
       "word": "欧盟官员直言再不和中国合作就是傻子",
       "onboard_time": 1744814843,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 81003,
+      "num": 81003,
+      "word": "多方回应上海安福路老法师偷拍女性",
+      "onboard_time": 1744829775,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80719,
@@ -388,11 +404,19 @@
     },
     {
       "raw_hot": 76657,
-      "num": 76657,
+      "num": 81710,
       "word": "孟子义得到了周深的认可",
       "onboard_time": 1744821500,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 75817,
+      "num": 75817,
+      "word": "四个动作让你不知不觉变好看",
+      "onboard_time": 1744845198,
+      "rank": 31,
+      "category": "运动健身"
     },
     {
       "raw_hot": 72245,
@@ -400,6 +424,14 @@
       "word": "王鹤棣委托工作人员出来安慰粉丝",
       "onboard_time": 1744806562,
       "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 70575,
+      "num": 70575,
+      "word": "张晚意的25岁是事业转折点",
+      "onboard_time": 1744827017,
+      "rank": 42,
       "category": "艺人"
     },
     {
@@ -419,12 +451,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 64668,
-      "num": 64668,
-      "word": "崔乐北电表演专业第一",
-      "onboard_time": 1744832294,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 66619,
+      "num": 66619,
+      "word": "女子遭前男友烧残生活仍不能自理",
+      "onboard_time": 1744831814,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63787,
@@ -467,36 +499,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 48401,
-      "num": 48401,
-      "word": "张晚意的25岁是事业转折点",
-      "onboard_time": 1744827017,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 43717,
-      "num": 43717,
-      "word": "多方回应上海安福路老法师偷拍女性",
-      "onboard_time": 1744829775,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 43407,
       "num": 43407,
       "word": "看似奇葩却能秒睡的姿势",
       "onboard_time": 1744836314,
       "rank": 38,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 38261,
-      "num": 38261,
-      "word": "女子遭前男友烧残生活仍不能自理",
-      "onboard_time": 1744831814,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 36860,
@@ -515,12 +523,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 33759,
+      "num": 66451,
+      "word": "无限超越班",
+      "onboard_time": 1744827075,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 29768,
       "num": 109301,
       "word": "引领中马关系长期稳定发展",
       "onboard_time": 1744820779,
       "rank": 27,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 28116,
+      "num": 129208,
+      "word": "王楚钦淘汰赛对阵贾哈",
+      "onboard_time": 1744845078,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 21069,
@@ -553,14 +577,6 @@
       "onboard_time": 1744833193,
       "rank": 41,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 19044,
-      "num": 37537,
-      "word": "无限超越班",
-      "onboard_time": 1744827075,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 17688,
