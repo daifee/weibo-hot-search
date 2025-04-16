@@ -1,6 +1,6 @@
 {
   "startTime": 1744821103506,
-  "endTime": 1744835265159,
+  "endTime": 1744836080912,
   "band_list": [
     {
       "raw_hot": 874042,
@@ -499,6 +499,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 20839,
+      "num": 20839,
+      "word": "崔乐北电表演专业第一",
+      "onboard_time": 1744832294,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 20631,
       "num": 36751,
       "word": "柬埔寨首都街头随处可见中文标识",
@@ -513,14 +521,6 @@
       "onboard_time": 1744828455,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 18760,
-      "num": 18760,
-      "word": "崔乐北电表演专业第一",
-      "onboard_time": 1744832294,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 17688,
@@ -539,20 +539,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16847,
+      "num": 16847,
+      "word": "女子遭前男友烧残生活仍不能自理",
+      "onboard_time": 1744831814,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16821,
       "num": 20665,
       "word": "中国经济的未来从来不由别人定义",
       "onboard_time": 1744826776,
       "rank": 48,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 16477,
-      "num": 16594,
-      "word": "女子遭前男友烧残生活仍不能自理",
-      "onboard_time": 1744831814,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14796,
@@ -571,12 +571,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 12217,
+      "raw_hot": 13156,
       "num": 29674,
       "word": "美方无所不用其极搞监控窃密攻击",
       "onboard_time": 1744831395,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 11103,
+      "num": 14796,
+      "word": "杜润旺迪亚洛冲突",
+      "onboard_time": 1744836014,
+      "rank": 49,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
