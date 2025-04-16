@@ -1,6 +1,6 @@
 {
   "startTime": 1744821103506,
-  "endTime": 1744822077959,
+  "endTime": 1744824111078,
   "band_list": [
     {
       "raw_hot": 874042,
@@ -51,8 +51,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 526310,
-      "num": 526310,
+      "raw_hot": 570004,
+      "num": 570004,
       "word": "杭州警方通报浙江队外援坠亡",
       "onboard_time": 1744819462,
       "rank": 9,
@@ -195,6 +195,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 132941,
+      "num": 133219,
+      "word": "媒体人说朱一龙不应该被归类在流量",
+      "onboard_time": 1744821139,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132227,
       "num": 132227,
       "word": "花田错",
@@ -281,14 +289,6 @@
       "onboard_time": 1744818201,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 96277,
-      "num": 133219,
-      "word": "媒体人说朱一龙不应该被归类在流量",
-      "onboard_time": 1744821139,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 95137,
@@ -419,19 +419,35 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 36539,
-      "num": 78429,
-      "word": "继榴莲之后马来椰子也要来华了",
-      "onboard_time": 1744821500,
-      "rank": 32,
-      "category": "民生新闻"
+      "raw_hot": 52115,
+      "num": 50996,
+      "word": "姚琛的嘴是个大漏勺",
+      "onboard_time": 1744823476,
+      "rank": 34,
+      "category": "艺人"
     },
     {
-      "raw_hot": 36276,
+      "raw_hot": 49738,
+      "num": 49738,
+      "word": "网红黏苞米糊糊结婚",
+      "onboard_time": 1744821439,
+      "rank": 35,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 49634,
       "num": 72474,
       "word": "卤鹅哥店门口围满了全国各地游客",
       "onboard_time": 1744821797,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36860,
+      "num": 78429,
+      "word": "继榴莲之后马来椰子也要来华了",
+      "onboard_time": 1744821500,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -446,6 +462,9 @@
   "hotgov_list": [
     {
       "word": "#习近平同马来西亚总理举行会谈#"
+    },
+    {
+      "word": "#老朋友擘画中马关系新未来#"
     }
   ]
 }
