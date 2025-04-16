@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/16 18:28:05
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/16 18:45:03
 </p>
 </blockquote>
 <p>
@@ -3051,6 +3051,12 @@ iPhone17ProMax手机壳再曝光（热度：919087）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2312306%E5%B9%B3%E7%A8%B3%E5%BA%A6%E8%BF%87%E4%BB%8A%E6%97%A5%E5%94%AE%E7%A5%A8%E9%AB%98%E5%B3%B0%23" target="weibo">
+12306平稳度过今日售票高峰（热度：917172）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BB%8A%E5%9D%8A%E4%B8%80%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E6%8B%9B%E7%89%8C%E5%8F%98%E7%BB%BF%E8%89%B2%23" target="weibo">
 廊坊一蜜雪冰城招牌变绿色（热度：916538）
 </a>
@@ -4931,12 +4937,6 @@ Prada正式收购范思哲（热度：644741）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%BE%B7%E9%95%87%E8%BD%A6%E7%A5%B8%E8%82%87%E4%BA%8B%E6%96%B9%E5%B7%B2%E8%BD%AC%E8%AE%A9%E5%BA%97%E9%9D%A2%23" target="weibo">
 景德镇车祸肇事方已转让店面（热度：638857）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2312306%E5%B9%B3%E7%A8%B3%E5%BA%A6%E8%BF%87%E4%BB%8A%E6%97%A5%E5%94%AE%E7%A5%A8%E9%AB%98%E5%B3%B0%23" target="weibo">
-12306平稳度过今日售票高峰（热度：638562）
 </a>
 </li>
 

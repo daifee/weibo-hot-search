@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744799285988,
+  "endTime": 1744800303304,
   "band_list": [
     {
       "raw_hot": 10606514,
@@ -971,6 +971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 917172,
+      "num": 917172,
+      "word": "12306平稳度过今日售票高峰",
+      "onboard_time": 1744796600,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 916460,
       "num": 916460,
       "word": "enhypen科切拉舞台",
@@ -1444,7 +1452,7 @@
     },
     {
       "raw_hot": 709789,
-      "num": 339506,
+      "num": 360129,
       "word": "浙江外援",
       "onboard_time": 1744796600,
       "rank": 11,
@@ -1696,14 +1704,6 @@
       "word": "景德镇车祸肇事方已转让店面",
       "onboard_time": 1744611443,
       "rank": 24,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 638562,
-      "num": 638562,
-      "word": "12306平稳度过今日售票高峰",
-      "onboard_time": 1744796600,
-      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -3355,6 +3355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 295345,
+      "num": 375554,
+      "word": "东方美学给世界亿点点震撼",
+      "onboard_time": 1744794982,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 293634,
       "num": 262754,
       "word": "祖上3代中国人生出金发碧眼小美女",
@@ -3432,6 +3440,14 @@
       "word": "孙俪说请对我要求再高一点",
       "onboard_time": 1744510220,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 286123,
+      "num": 286123,
+      "word": "赵露思金泰熙同款造型",
+      "onboard_time": 1744799241,
+      "rank": 45,
       "category": "艺人"
     },
     {
@@ -3723,6 +3739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 266627,
+      "num": 270317,
+      "word": "特朗普希望哈佛大学道歉",
+      "onboard_time": 1744794862,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 266095,
       "num": 234542,
       "word": "王艺迪1比3袁嘉楠",
@@ -3905,14 +3929,6 @@
       "onboard_time": 1744549883,
       "rank": 23,
       "category": "网红"
-    },
-    {
-      "raw_hot": 250031,
-      "num": 270317,
-      "word": "特朗普希望哈佛大学道歉",
-      "onboard_time": 1744794862,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 249776,
@@ -4577,14 +4593,6 @@
       "onboard_time": 1744612523,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 216804,
-      "num": 343465,
-      "word": "东方美学给世界亿点点震撼",
-      "onboard_time": 1744794982,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 216090,
@@ -5371,6 +5379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198693,
+      "num": 198693,
+      "word": "强奸案被告人母亲多次把被害人隐私发网上",
+      "onboard_time": 1744798582,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 198632,
       "num": 198632,
       "word": "男性也能打九价HPV疫苗了",
@@ -6121,6 +6137,14 @@
       "onboard_time": 1744691244,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 184303,
+      "num": 184303,
+      "word": "景区火到韩国张家界却在亏损",
+      "onboard_time": 1744798641,
+      "rank": 41,
+      "category": "旅游"
     },
     {
       "raw_hot": 184020,
@@ -7003,6 +7027,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 166381,
+      "num": 166381,
+      "word": "放过谷江山",
+      "onboard_time": 1744798881,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166152,
       "num": 182538,
       "word": "女生的困境只有女生能懂",
@@ -7017,6 +7049,14 @@
       "onboard_time": 1744550842,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 165524,
+      "num": 196431,
+      "word": "值得爱",
+      "onboard_time": 1744799241,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 165415,
@@ -7313,14 +7353,6 @@
       "onboard_time": 1744694542,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 160346,
-      "num": 160346,
-      "word": "放过谷江山",
-      "onboard_time": 1744798881,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 160329,
@@ -7801,14 +7833,6 @@
       "onboard_time": 1744609822,
       "rank": 43,
       "category": "电影,综艺"
-    },
-    {
-      "raw_hot": 149873,
-      "num": 149873,
-      "word": "景区火到韩国张家界却在亏损",
-      "onboard_time": 1744798641,
-      "rank": 41,
-      "category": "旅游"
     },
     {
       "raw_hot": 149798,
@@ -9347,14 +9371,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 126138,
-      "num": 126138,
-      "word": "赵露思金泰熙同款造型",
-      "onboard_time": 1744799241,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 126103,
       "num": 126103,
       "word": "孙燕姿演唱会cue李泽珑张钰琪",
@@ -9579,14 +9595,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 122479,
-      "num": 122479,
-      "word": "值得爱",
-      "onboard_time": 1744799241,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 122139,
       "num": 122139,
       "word": "梁祯元身材",
@@ -9625,6 +9633,14 @@
       "onboard_time": 1744709721,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121751,
+      "num": 121751,
+      "word": "秦昊一年奖励自己一部悬疑剧",
+      "onboard_time": 1744799421,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 121680,
@@ -10811,6 +10827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97691,
+      "num": 97691,
+      "word": "婚姻绝不是谁花钱谁有理的生意场",
+      "onboard_time": 1744796542,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97648,
       "num": 229233,
       "word": "中国组装美iphone机型产线未停工",
@@ -10833,6 +10857,14 @@
       "onboard_time": 1744774042,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96439,
+      "num": 334347,
+      "word": "众多品牌金饰克价过千",
+      "onboard_time": 1744798461,
+      "rank": 16,
+      "category": "财经"
     },
     {
       "raw_hot": 96392,
@@ -12123,14 +12155,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 55124,
-      "num": 154967,
-      "word": "强奸案被告人母亲多次把被害人隐私发网上",
-      "onboard_time": 1744798582,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 55058,
       "num": 62144,
       "word": "杜华说陈昕葳投入比王怡人更大",
@@ -12619,6 +12643,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 40523,
+      "num": 112590,
+      "word": "植物的生命力有多顽强",
+      "onboard_time": 1744800202,
+      "rank": 44,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 40264,
       "num": 40264,
       "word": "孟子义我答应她了出来给她签",
@@ -12801,6 +12833,14 @@
       "onboard_time": 1744737976,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 36703,
+      "num": 289153,
+      "word": "国乒专用松弛感姿势上新了",
+      "onboard_time": 1744799662,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 36188,
@@ -13409,6 +13449,14 @@
       "onboard_time": 1744709362,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 21077,
+      "num": 135270,
+      "word": "生活常用物品的维修技巧",
+      "onboard_time": 1744799362,
+      "rank": 39,
+      "category": "科学科普"
     },
     {
       "raw_hot": 20662,
