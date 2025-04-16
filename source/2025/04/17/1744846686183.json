@@ -1,0 +1,410 @@
+{
+  "runTime": 1744846686183,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 571810,
+        "num": 909007,
+        "word": "加州宣布将起诉特朗普政府",
+        "onboard_time": 1744817301,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 358249,
+        "num": 358249,
+        "word": "黄金",
+        "onboard_time": 1744811962,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 198054,
+        "num": 303795,
+        "word": "警惕美国正向全世界摊派空气税",
+        "onboard_time": 1744817661,
+        "rank": 2,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 278710,
+        "num": 278710,
+        "word": "肥娟119元网购桶装冰激凌卖2元一杯",
+        "onboard_time": 1744808602,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266633,
+        "num": 266633,
+        "word": "外交部回应美对华加征245%关税",
+        "onboard_time": 1744789041,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 850084,
+        "num": 257823,
+        "word": "杭州警方通报浙江队外援坠亡",
+        "onboard_time": 1744819462,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236131,
+        "num": 236131,
+        "word": "国台办回应Tank感谢祖国",
+        "onboard_time": 1744801882,
+        "rank": 6,
+        "category": "国内时政,艺人"
+      },
+      {
+        "raw_hot": 206119,
+        "num": 206119,
+        "word": "特朗普听故宫三原色道理后懵圈",
+        "onboard_time": 1744803921,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180830,
+        "num": 205995,
+        "word": "这下不是半夏是全夏了",
+        "onboard_time": 1744819881,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108224,
+        "num": 205881,
+        "word": "李晟四公第一",
+        "onboard_time": 1744817122,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 760924,
+        "num": 205832,
+        "word": "8个月女婴被虐待体重仅6斤",
+        "onboard_time": 1744814783,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 671026,
+        "num": 205721,
+        "word": "中戏前四vs北电前四",
+        "onboard_time": 1744846640,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 584743,
+        "num": 205498,
+        "word": "毛毛果已缺货",
+        "onboard_time": 1744817242,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 205475,
+        "num": 205475,
+        "word": "欧冠",
+        "onboard_time": 1744846278,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 347106,
+        "num": 197368,
+        "word": "知情人回应网红小猫悟空去世",
+        "onboard_time": 1744818920,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 266599,
+        "num": 194491,
+        "word": "拜登说想见见300岁还领社保的人",
+        "onboard_time": 1744807043,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 237465,
+        "num": 194389,
+        "word": "结婚3年妻子开着宝马带孩子走了",
+        "onboard_time": 1744801401,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188471,
+        "num": 188471,
+        "word": "皇马1比2阿森纳",
+        "onboard_time": 1744846278,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127268,
+        "num": 188444,
+        "word": "崔乐北电表演专业第一",
+        "onboard_time": 1744832294,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105510,
+        "num": 188229,
+        "word": "宋雨琦证明孟子义真的会唱",
+        "onboard_time": 1744815443,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250256,
+        "num": 187894,
+        "word": "以为很干净其实很脏的生活习惯",
+        "onboard_time": 1744846521,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 248696,
+        "num": 187597,
+        "word": "公公给儿媳59克黄金当改口红包",
+        "onboard_time": 1744846521,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228978,
+        "num": 187496,
+        "word": "虎门站一旅客跳股道身亡",
+        "onboard_time": 1744811723,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187312,
+        "num": 187312,
+        "word": "上海女教师怒怼安福路偷拍老法师",
+        "onboard_time": 1744804282,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172276,
+        "num": 172276,
+        "word": "王蓉疑似明涵浪姐有剧本",
+        "onboard_time": 1744812264,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166182,
+        "num": 166182,
+        "word": "小学生看了两眼发现罂粟",
+        "onboard_time": 1744815381,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154273,
+        "num": 154273,
+        "word": "男子失联一天一夜同事找开锁上门",
+        "onboard_time": 1744816763,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126773,
+        "num": 126773,
+        "word": "内江地震",
+        "onboard_time": 1744846278,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119092,
+        "num": 119092,
+        "word": "媒体人说朱一龙不应该被归类在流量",
+        "onboard_time": 1744821139,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117957,
+        "num": 117957,
+        "word": "阿森纳晋级欧冠四强",
+        "onboard_time": 1744846400,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100818,
+        "num": 100818,
+        "word": "中方不予理会美方关税数字游戏",
+        "onboard_time": 1744807762,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 100450,
+        "num": 100450,
+        "word": "四个动作让你不知不觉变好看",
+        "onboard_time": 1744845198,
+        "rank": 31,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 99758,
+        "num": 99758,
+        "word": "刘耀文回应和张真源冷战",
+        "onboard_time": 1744808602,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99306,
+        "num": 99306,
+        "word": "换保姆争议后张馨月发声",
+        "onboard_time": 1744815143,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 97382,
+        "num": 97382,
+        "word": "张晚意的25岁是事业转折点",
+        "onboard_time": 1744827017,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97149,
+        "num": 97149,
+        "word": "国际米兰2比2拜仁",
+        "onboard_time": 1744846278,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91641,
+        "num": 91641,
+        "word": "美企说承受不起巨额关税账单",
+        "onboard_time": 1744805181,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 90813,
+        "num": 90813,
+        "word": "美联储",
+        "onboard_time": 1744846400,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 81911,
+        "num": 81911,
+        "word": "多方回应上海安福路老法师偷拍女性",
+        "onboard_time": 1744829775,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81624,
+        "num": 81624,
+        "word": "美联储主席发出通胀警告",
+        "onboard_time": 1744846400,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 29250,
+        "num": 79489,
+        "word": "朴彩英入选时代杂志百大影响力人物",
+        "onboard_time": 1744846640,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 79457,
+        "num": 79457,
+        "word": "小狗毛毛去世",
+        "onboard_time": 1744810821,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 77598,
+        "num": 77598,
+        "word": "欧盟官员直言再不和中国合作就是傻子",
+        "onboard_time": 1744814843,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 77139,
+        "num": 77139,
+        "word": "王曼昱淘汰赛对阵张本美和",
+        "onboard_time": 1744819161,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74848,
+        "num": 74848,
+        "word": "女子遭前男友烧残生活仍不能自理",
+        "onboard_time": 1744831814,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73741,
+        "num": 73741,
+        "word": "王楚钦淘汰赛对阵贾哈",
+        "onboard_time": 1744845078,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62286,
+        "num": 62286,
+        "word": "欧冠联赛",
+        "onboard_time": 1744846400,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61826,
+        "num": 61826,
+        "word": "值得爱he",
+        "onboard_time": 1744824317,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60493,
+        "num": 60493,
+        "word": "美股芯片股集体下挫",
+        "onboard_time": 1744846521,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 49966,
+        "num": 59357,
+        "word": "孟子义得到了周深的认可",
+        "onboard_time": 1744821500,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#老朋友擘画中马关系新未来#"
+    }
+  }
+}
