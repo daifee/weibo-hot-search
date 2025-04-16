@@ -1,6 +1,6 @@
 {
   "startTime": 1744734585432,
-  "endTime": 1744802471231,
+  "endTime": 1744803368333,
   "band_list": [
     {
       "raw_hot": 10606514,
@@ -49,6 +49,14 @@
       "onboard_time": 1744766002,
       "rank": 11,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1766346,
+      "num": 1766346,
+      "word": "浙江外援布彭扎坠亡",
+      "onboard_time": 1744800923,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 1694507,
@@ -147,14 +155,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 1036792,
-      "num": 1036792,
-      "word": "浙江外援布彭扎坠亡",
-      "onboard_time": 1744800923,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 971139,
       "num": 193399,
       "word": "玫瑰",
@@ -177,6 +177,14 @@
       "onboard_time": 1744791142,
       "rank": 4,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 877339,
+      "num": 412036,
+      "word": "结婚3年妻子开着宝马带孩子走了",
+      "onboard_time": 1744801401,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 844234,
@@ -235,14 +243,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 746684,
-      "num": 412036,
-      "word": "结婚3年妻子开着宝马带孩子走了",
-      "onboard_time": 1744801401,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 737258,
       "num": 1117961,
       "word": "拜登公开抨击特朗普",
@@ -283,6 +283,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 692646,
+      "num": 692646,
+      "word": "外交部回应暂停接收波音飞机",
+      "onboard_time": 1744800321,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 687744,
       "num": 387485,
       "word": "马頔怎么了",
@@ -305,6 +313,14 @@
       "onboard_time": 1744782622,
       "rank": 11,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 663201,
+      "num": 411649,
+      "word": "留几手做医美",
+      "onboard_time": 1744801162,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 660039,
@@ -475,14 +491,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 457655,
-      "num": 457655,
-      "word": "外交部回应暂停接收波音飞机",
-      "onboard_time": 1744800321,
-      "rank": 6,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 449911,
       "num": 359612,
       "word": "吴磊连续7年保持北电表演系最高分",
@@ -513,6 +521,14 @@
       "onboard_time": 1744778665,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 428534,
+      "num": 428534,
+      "word": "国台办回应Tank感谢祖国",
+      "onboard_time": 1744801882,
+      "rank": 19,
+      "category": "国内时政,艺人"
     },
     {
       "raw_hot": 426947,
@@ -563,14 +579,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 411649,
-      "num": 411649,
-      "word": "留几手做医美",
-      "onboard_time": 1744801162,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 409514,
       "num": 409514,
       "word": "折腰没播",
@@ -596,7 +604,7 @@
     },
     {
       "raw_hot": 395736,
-      "num": 412235,
+      "num": 462962,
       "word": "折腰站内热度",
       "onboard_time": 1744796662,
       "rank": 7,
@@ -900,7 +908,7 @@
     },
     {
       "raw_hot": 258962,
-      "num": 258962,
+      "num": 260622,
       "word": "享界S9增程版售价31万起",
       "onboard_time": 1744801401,
       "rank": 17,
@@ -913,6 +921,14 @@
       "onboard_time": 1744770741,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 256461,
+      "num": 324252,
+      "word": "林高远vs户上隼辅",
+      "onboard_time": 1744798762,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 253757,
@@ -1099,6 +1115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 211649,
+      "num": 211649,
+      "word": "丁禹兮给粉丝模仿金宣虎笑",
+      "onboard_time": 1744801822,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208232,
       "num": 174534,
       "word": "审判长解释构成婚前强奸罪的理由",
@@ -1131,7 +1155,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 202247,
+      "raw_hot": 202737,
       "num": 176318,
       "word": "第一次见恋综男嘉宾走杨迪赛道",
       "onboard_time": 1744798341,
@@ -1211,20 +1235,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 196985,
-      "num": 168001,
-      "word": "丁禹兮给粉丝模仿金宣虎笑",
-      "onboard_time": 1744801822,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 196743,
       "num": 196743,
       "word": "甲状腺与胆囊之间的关系",
       "onboard_time": 1744794024,
       "rank": 41,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 196368,
+      "num": 256517,
+      "word": "辛云来直播",
+      "onboard_time": 1744802663,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 195484,
@@ -1563,14 +1587,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 172570,
-      "num": 172570,
-      "word": "国台办回应Tank感谢祖国",
-      "onboard_time": 1744801882,
-      "rank": 19,
-      "category": "国内时政,艺人"
-    },
-    {
       "raw_hot": 171301,
       "num": 171301,
       "word": "尚界汽车正式官宣",
@@ -1595,6 +1611,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 169749,
+      "num": 169749,
+      "word": "秦昊一年奖励自己一部悬疑剧",
+      "onboard_time": 1744799421,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168421,
       "num": 168421,
       "word": "中方多次阐明在关税问题上的严正立场",
@@ -1611,6 +1635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168012,
+      "num": 168012,
+      "word": "iG老板三问朱开",
+      "onboard_time": 1744802123,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 167508,
       "num": 341372,
       "word": "王艺迪小组出局",
@@ -1625,14 +1657,6 @@
       "onboard_time": 1744773683,
       "rank": 42,
       "category": "美食"
-    },
-    {
-      "raw_hot": 166429,
-      "num": 324252,
-      "word": "林高远vs户上隼辅",
-      "onboard_time": 1744798762,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 166381,
@@ -1716,11 +1740,19 @@
     },
     {
       "raw_hot": 161568,
-      "num": 168011,
+      "num": 169397,
       "word": "30万级豪华大六座怎么选",
       "onboard_time": 1744801401,
       "rank": 27,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 160826,
+      "num": 347937,
+      "word": "84岁老太被大女儿带出养老院取光存款",
+      "onboard_time": 1744800801,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160822,
@@ -1737,6 +1769,14 @@
       "onboard_time": 1744771762,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160453,
+      "num": 160453,
+      "word": "柯淳拐弯抹角打听赵丽颖",
+      "onboard_time": 1744803322,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 160039,
@@ -1795,6 +1835,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 151787,
+      "num": 169182,
+      "word": "遇到姿势诡异动物赶紧远离",
+      "onboard_time": 1744801822,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 151358,
       "num": 151358,
       "word": "朱一龙37岁作品实绩",
@@ -1835,6 +1883,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 147345,
+      "num": 147345,
+      "word": "宋雨琦周深轮流教孟子义唱radio",
+      "onboard_time": 1744803080,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146931,
       "num": 146931,
       "word": "莫兰特受伤",
@@ -1873,6 +1929,14 @@
       "onboard_time": 1744784122,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 144831,
+      "num": 144831,
+      "word": "林高远无缘澳门世界杯16强",
+      "onboard_time": 1744803202,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 144753,
@@ -1947,6 +2011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139711,
+      "num": 139711,
+      "word": "无忧渡迟雪 中戏第一",
+      "onboard_time": 1744803143,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139487,
       "num": 196991,
       "word": "歌手2025",
@@ -1995,14 +2067,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 136192,
-      "num": 168015,
-      "word": "秦昊一年奖励自己一部悬疑剧",
-      "onboard_time": 1744799421,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 135692,
       "num": 951794,
       "word": "美国滥施关税是在搬起石头砸自己的脚",
@@ -2028,7 +2092,7 @@
     },
     {
       "raw_hot": 134446,
-      "num": 168021,
+      "num": 191438,
       "word": "为什么年轻人执着于考公",
       "onboard_time": 1744801401,
       "rank": 24,
@@ -2073,14 +2137,6 @@
       "onboard_time": 1744775242,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 131935,
-      "num": 347937,
-      "word": "84岁老太被大女儿带出养老院取光存款",
-      "onboard_time": 1744800801,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 131002,
@@ -2155,12 +2211,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 124043,
-      "num": 168009,
-      "word": "遇到姿势诡异动物赶紧远离",
-      "onboard_time": 1744801822,
-      "rank": 29,
-      "category": "民生新闻"
+      "raw_hot": 123618,
+      "num": 123618,
+      "word": "周琦复出",
+      "onboard_time": 1744802842,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 123001,
@@ -2323,6 +2379,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 105677,
+      "num": 147932,
+      "word": "塌鼻梁练这个动作就好了",
+      "onboard_time": 1744802542,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 105073,
       "num": 105073,
       "word": "订婚强奸案被告不符合适用缓刑",
@@ -2345,6 +2409,14 @@
       "onboard_time": 1744756937,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 103830,
+      "num": 147366,
+      "word": "韩国女校5500元自助午饭长啥样",
+      "onboard_time": 1744803202,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 103005,
@@ -2384,6 +2456,14 @@
       "word": "婚姻绝不是谁花钱谁有理的生意场",
       "onboard_time": 1744796542,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96851,
+      "num": 421205,
+      "word": "12306短暂延时现象已消除",
+      "onboard_time": 1744802542,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -2489,14 +2569,6 @@
       "onboard_time": 1744781662,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 84960,
-      "num": 168009,
-      "word": "iG老板三问朱开",
-      "onboard_time": 1744802123,
-      "rank": 28,
-      "category": "电竞"
     },
     {
       "raw_hot": 84901,
@@ -3115,6 +3187,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 25997,
+      "num": 154910,
+      "word": "胡兵让世界看到东方的浪漫",
+      "onboard_time": 1744801521,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 24655,
       "num": 25666,
       "word": "中马两国是隔海相望的好邻居",
@@ -3283,14 +3363,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 11447,
-      "num": 154910,
-      "word": "胡兵让世界看到东方的浪漫",
-      "onboard_time": 1744801521,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 10740,
       "num": 17395,
       "word": "朱志鑫part",
@@ -3353,6 +3425,14 @@
       "onboard_time": 1744759940,
       "rank": 15,
       "category": "海外新闻,财经"
+    },
+    {
+      "raw_hot": 9670,
+      "num": 150061,
+      "word": "甲亢哥是美国网红最正常的一个",
+      "onboard_time": 1744802961,
+      "rank": 37,
+      "category": "网红,海外新闻"
     },
     {
       "raw_hot": 9648,
