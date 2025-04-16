@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744818125624,
+  "endTime": 1744821103506,
   "band_list": [
     {
       "raw_hot": 10606514,
@@ -1691,6 +1691,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 673248,
+      "num": 866070,
+      "word": "加州宣布将起诉特朗普政府",
+      "onboard_time": 1744817301,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 670904,
       "num": 670904,
       "word": "中方不予理会美方关税数字游戏",
@@ -1835,12 +1843,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 636982,
+      "num": 246309,
+      "word": "8个月女婴被虐待体重仅6斤",
+      "onboard_time": 1744814783,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 635322,
       "num": 635322,
       "word": "绵绵的羊卫生巾被曝有异物",
       "onboard_time": 1744644323,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 635260,
+      "num": 236855,
+      "word": "毛毛果已缺货",
+      "onboard_time": 1744817242,
+      "rank": 16,
+      "category": "网红"
     },
     {
       "raw_hot": 634269,
@@ -2080,14 +2104,6 @@
       "word": "男子花155万买迈巴赫跑网约车",
       "onboard_time": 1744774643,
       "rank": 20,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 547953,
-      "num": 246309,
-      "word": "8个月女婴被虐待体重仅6斤",
-      "onboard_time": 1744814783,
-      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -4491,14 +4507,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 236855,
-      "num": 236855,
-      "word": "毛毛果已缺货",
-      "onboard_time": 1744817242,
-      "rank": 16,
-      "category": "网红"
-    },
-    {
       "raw_hot": 236557,
       "num": 236557,
       "word": "胡夏直播",
@@ -4585,6 +4593,14 @@
       "onboard_time": 1744610003,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 232022,
+      "num": 232022,
+      "word": "王曼昱淘汰赛对阵张本美和",
+      "onboard_time": 1744819161,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 231802,
@@ -4816,6 +4832,14 @@
       "word": "多地发布暴雪蓝色预警",
       "onboard_time": 1744558401,
       "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 221742,
+      "num": 221742,
+      "word": "杭州警方通报浙江队外援坠亡",
+      "onboard_time": 1744819462,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -5273,6 +5297,14 @@
       "onboard_time": 1744641084,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 208923,
+      "num": 208923,
+      "word": "林允这是要开中餐厅吗",
+      "onboard_time": 1744819401,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 208868,
@@ -5907,6 +5939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196408,
+      "num": 196408,
+      "word": "这下不是半夏是全夏了",
+      "onboard_time": 1744819881,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196368,
       "num": 256517,
       "word": "辛云来直播",
@@ -6321,14 +6361,6 @@
       "onboard_time": 1744513521,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 189804,
-      "num": 382300,
-      "word": "加州宣布将起诉特朗普政府",
-      "onboard_time": 1744817301,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 189469,
@@ -6747,6 +6779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182141,
+      "num": 541271,
+      "word": "警惕美国正向全世界摊派空气税",
+      "onboard_time": 1744817661,
+      "rank": 2,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 182000,
       "num": 182000,
       "word": "刘亦菲聚餐吃火锅路透",
@@ -6961,6 +7001,14 @@
       "onboard_time": 1744811783,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 177686,
+      "num": 177686,
+      "word": "知情人回应网红小猫悟空去世",
+      "onboard_time": 1744818920,
+      "rank": 18,
+      "category": "网红"
     },
     {
       "raw_hot": 177558,
@@ -11363,6 +11411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104464,
+      "num": 104464,
+      "word": "享界S9首发手势控车",
+      "onboard_time": 1744819700,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 104422,
       "num": 104422,
       "word": "外交部回应3名美国特工被中方通缉",
@@ -11632,6 +11688,14 @@
       "word": "发了1个月传单获利1万元被判刑了",
       "onboard_time": 1744607123,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99154,
+      "num": 99154,
+      "word": "林业局回应郑州天屎之路争议",
+      "onboard_time": 1744818201,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -12257,6 +12321,14 @@
       "onboard_time": 1744515141,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 80662,
+      "num": 80662,
+      "word": "宋祖儿一人分饰两角",
+      "onboard_time": 1744820241,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 80603,
@@ -13033,6 +13105,14 @@
       "onboard_time": 1744809323,
       "rank": 38,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 55879,
+      "num": 83941,
+      "word": "中马双方交换30多份双边合作文本",
+      "onboard_time": 1744819580,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 55505,
@@ -13835,14 +13915,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 34644,
-      "num": 541271,
-      "word": "警惕美国正向全世界摊派空气税",
-      "onboard_time": 1744817661,
-      "rank": 2,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 34607,
       "num": 180507,
       "word": "Q1悬疑剧质感不差为啥热度不高",
@@ -14001,6 +14073,14 @@
       "onboard_time": 1744490595,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 29768,
+      "num": 109301,
+      "word": "引领中马关系长期稳定发展",
+      "onboard_time": 1744820779,
+      "rank": 27,
+      "category": "国内时政"
     },
     {
       "raw_hot": 29576,

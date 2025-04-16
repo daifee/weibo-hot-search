@@ -1,0 +1,410 @@
+{
+  "runTime": 1744821103506,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 673248,
+        "num": 866070,
+        "word": "加州宣布将起诉特朗普政府",
+        "onboard_time": 1744817301,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 607056,
+        "num": 607056,
+        "word": "黄金",
+        "onboard_time": 1744811962,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 182141,
+        "num": 495639,
+        "word": "警惕美国正向全世界摊派空气税",
+        "onboard_time": 1744817661,
+        "rank": 2,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 874042,
+        "num": 461109,
+        "word": "美国批准韩企申请饺子外观专利",
+        "onboard_time": 1744813524,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 388105,
+        "num": 388105,
+        "word": "李晟四公第一",
+        "onboard_time": 1744817122,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 351343,
+        "num": 351343,
+        "word": "外交部回应美对华加征245%关税",
+        "onboard_time": 1744789041,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 257581,
+        "num": 257581,
+        "word": "宋雨琦证明孟子义真的会唱",
+        "onboard_time": 1744815443,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254183,
+        "num": 254183,
+        "word": "林昀儒 鹰眼",
+        "onboard_time": 1744816462,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232022,
+        "num": 232022,
+        "word": "王曼昱淘汰赛对阵张本美和",
+        "onboard_time": 1744819161,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221742,
+        "num": 221742,
+        "word": "杭州警方通报浙江队外援坠亡",
+        "onboard_time": 1744819462,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 636982,
+        "num": 221716,
+        "word": "8个月女婴被虐待体重仅6斤",
+        "onboard_time": 1744814783,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 635260,
+        "num": 221626,
+        "word": "毛毛果已缺货",
+        "onboard_time": 1744817242,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 473706,
+        "num": 221473,
+        "word": "刘耀文回应和张真源冷战",
+        "onboard_time": 1744808602,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 428153,
+        "num": 221373,
+        "word": "小狗毛毛去世",
+        "onboard_time": 1744810821,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 221373,
+        "num": 221372,
+        "word": "拜登说想见见300岁还领社保的人",
+        "onboard_time": 1744807043,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 211627,
+        "num": 211627,
+        "word": "中方不予理会美方关税数字游戏",
+        "onboard_time": 1744807762,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 208923,
+        "num": 208923,
+        "word": "林允这是要开中餐厅吗",
+        "onboard_time": 1744819401,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196408,
+        "num": 196408,
+        "word": "这下不是半夏是全夏了",
+        "onboard_time": 1744819881,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177686,
+        "num": 177686,
+        "word": "知情人回应网红小猫悟空去世",
+        "onboard_time": 1744818920,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 151446,
+        "num": 151446,
+        "word": "朱一龙回应杨蓉",
+        "onboard_time": 1744805722,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 579339,
+        "num": 151302,
+        "word": "虎门站一旅客跳股道身亡",
+        "onboard_time": 1744811723,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 364604,
+        "num": 151215,
+        "word": "王蓉疑似明涵浪姐有剧本",
+        "onboard_time": 1744812264,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175910,
+        "num": 150957,
+        "word": "男子失联一天一夜同事找开锁上门",
+        "onboard_time": 1744816763,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150655,
+        "num": 150655,
+        "word": "双一流大学研究生是怎么洗澡的",
+        "onboard_time": 1744815622,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132227,
+        "num": 132227,
+        "word": "花田错",
+        "onboard_time": 1744809081,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124902,
+        "num": 124902,
+        "word": "肥娟119元网购桶装冰激凌卖2元一杯",
+        "onboard_time": 1744808602,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118045,
+        "num": 118045,
+        "word": "值得爱",
+        "onboard_time": 1744812503,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29768,
+        "num": 109301,
+        "word": "引领中马关系长期稳定发展",
+        "onboard_time": 1744820779,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 106079,
+        "num": 106079,
+        "word": "澳门世界杯抽签",
+        "onboard_time": 1744816101,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105444,
+        "num": 105444,
+        "word": "柯淳拐弯抹角打听赵丽颖",
+        "onboard_time": 1744803322,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104718,
+        "num": 104718,
+        "word": "小学生看了两眼发现罂粟",
+        "onboard_time": 1744815381,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104464,
+        "num": 104464,
+        "word": "享界S9首发手势控车",
+        "onboard_time": 1744819700,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 103788,
+        "num": 103788,
+        "word": "结婚3年妻子开着宝马带孩子走了",
+        "onboard_time": 1744801401,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100343,
+        "num": 100343,
+        "word": "敖隐 敖丙",
+        "onboard_time": 1744780463,
+        "rank": 33,
+        "category": "游戏,电影"
+      },
+      {
+        "raw_hot": 99639,
+        "num": 99639,
+        "word": "国台办回应Tank感谢祖国",
+        "onboard_time": 1744801882,
+        "rank": 34,
+        "category": "国内时政,艺人"
+      },
+      {
+        "raw_hot": 99154,
+        "num": 99154,
+        "word": "林业局回应郑州天屎之路争议",
+        "onboard_time": 1744818201,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95137,
+        "num": 95137,
+        "word": "换保姆争议后张馨月发声",
+        "onboard_time": 1744815143,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 86988,
+        "num": 86988,
+        "word": "无忧渡迟雪 中戏第一",
+        "onboard_time": 1744803143,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86785,
+        "num": 86785,
+        "word": "赵露思金泰熙同款造型",
+        "onboard_time": 1744799241,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55879,
+        "num": 83941,
+        "word": "中马双方交换30多份双边合作文本",
+        "onboard_time": 1744819580,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 83697,
+        "num": 83697,
+        "word": "谭薇淘汰",
+        "onboard_time": 1744812081,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82914,
+        "num": 82914,
+        "word": "美企说承受不起巨额关税账单",
+        "onboard_time": 1744805181,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 81580,
+        "num": 81580,
+        "word": "欧盟官员直言再不和中国合作就是傻子",
+        "onboard_time": 1744814843,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 80719,
+        "num": 80719,
+        "word": "小孩路边认出罂粟奖励坐警车上学",
+        "onboard_time": 1744817122,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80662,
+        "num": 80662,
+        "word": "宋祖儿一人分饰两角",
+        "onboard_time": 1744820241,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72245,
+        "num": 72245,
+        "word": "王鹤棣委托工作人员出来安慰粉丝",
+        "onboard_time": 1744806562,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77255,
+        "num": 71927,
+        "word": "无忧渡",
+        "onboard_time": 1744797682,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70139,
+        "num": 70139,
+        "word": "歌手首发阵容",
+        "onboard_time": 1744783463,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69656,
+        "num": 69656,
+        "word": "胡明轩被驱逐",
+        "onboard_time": 1744814724,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69111,
+        "num": 69111,
+        "word": "特朗普听故宫三原色道理后懵圈",
+        "onboard_time": 1744803921,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同马来西亚总理举行会谈#"
+    }
+  }
+}
