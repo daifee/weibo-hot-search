@@ -1,6 +1,6 @@
 {
   "startTime": 1744907462255,
-  "endTime": 1744911625013,
+  "endTime": 1744914798825,
   "band_list": [
     {
       "raw_hot": 901179,
@@ -467,12 +467,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 23521,
+      "raw_hot": 25508,
       "num": 40658,
       "word": "旅游博主境外直播被间谍盯上",
       "onboard_time": 1744910297,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22751,
+      "num": 22751,
+      "word": "丁程鑫早点睡吧别太累",
+      "onboard_time": 1744914195,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 21058,
+      "num": 22520,
+      "word": "4K超高清的视界每一帧都震撼",
+      "onboard_time": 1744913596,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 19940,
@@ -483,7 +499,15 @@
       "category": "体育"
     },
     {
-      "raw_hot": 10052,
+      "raw_hot": 16722,
+      "num": 22518,
+      "word": "时代少年团特权码",
+      "onboard_time": 1744914135,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 10592,
       "num": 242925,
       "word": "60秒带你看柬埔寨",
       "onboard_time": 1744895901,
