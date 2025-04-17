@@ -1,0 +1,410 @@
+{
+  "runTime": 1744878751664,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 906882,
+        "num": 1145101,
+        "word": "1.68米女子被忽悠断骨增高每天打止痛针",
+        "onboard_time": 1744870761,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 653163,
+        "num": 653163,
+        "word": "全红婵晒虞书欣送的娃娃",
+        "onboard_time": 1744874542,
+        "rank": 1,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 22131,
+        "num": 564684,
+        "word": "守一扇心窗唱响护苗新篇章",
+        "onboard_time": 1744863863,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 541932,
+        "num": 541932,
+        "word": "多家骑手回应京东外卖净利不超5%",
+        "onboard_time": 1744872981,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 489458,
+        "num": 489458,
+        "word": "甲亢哥来华的幕后推手",
+        "onboard_time": 1744873761,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 413497,
+        "num": 413497,
+        "word": "长期处于饥饿状态会怎么样",
+        "onboard_time": 1744861461,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 2970659,
+        "num": 410956,
+        "word": "已脑死亡男孩听到妈妈来了流下眼泪",
+        "onboard_time": 1744876401,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 375139,
+        "num": 375139,
+        "word": "让孙俪胡杏儿演对手戏简直天才",
+        "onboard_time": 1744875743,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 306790,
+        "num": 306790,
+        "word": "黄仁勋时隔3个月再次到访北京",
+        "onboard_time": 1744875322,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 304664,
+        "num": 304664,
+        "word": "半个娱乐圈团建的含金量",
+        "onboard_time": 1744861403,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 586927,
+        "num": 303697,
+        "word": "张檬韩国婆婆特意赶来香港",
+        "onboard_time": 1744872981,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66398,
+        "num": 302266,
+        "word": "12306候补成功率多高能抢到票",
+        "onboard_time": 1744878324,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 400886,
+        "num": 302124,
+        "word": "董力把家人气到失眠",
+        "onboard_time": 1744871902,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301365,
+        "num": 301365,
+        "word": "灵魂摆渡 原班人马",
+        "onboard_time": 1744877421,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96837,
+        "num": 300591,
+        "word": "李永乐否认做网红有上千万收入",
+        "onboard_time": 1744878022,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 343955,
+        "num": 300308,
+        "word": "张檬晒照官宣生子",
+        "onboard_time": 1744861641,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157147,
+        "num": 298795,
+        "word": "2025了谁还手洗内衣袜子",
+        "onboard_time": 1744874542,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 55969,
+        "num": 298248,
+        "word": "好想在这部电影里活下来",
+        "onboard_time": 1744877482,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 49921,
+        "num": 296888,
+        "word": "谁在抢购面包刺客",
+        "onboard_time": 1744877001,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62756,
+        "num": 296436,
+        "word": "理疗馆给半岁婴儿刮痧引质疑",
+        "onboard_time": 1744877482,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 372617,
+        "num": 295146,
+        "word": "一对双胞胎生了一对龙凤胎",
+        "onboard_time": 1744875141,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 66600,
+        "num": 294446,
+        "word": "张艺兴印象最深的大事件是EXO出道",
+        "onboard_time": 1744876821,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293957,
+        "num": 293957,
+        "word": "终于有剧拍了离婚女人有多爽了",
+        "onboard_time": 1744860321,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 293732,
+        "num": 293732,
+        "word": "柬埔寨",
+        "onboard_time": 1744867402,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 223565,
+        "num": 293243,
+        "word": "白鹿嗓子哑了周深问谁在说话",
+        "onboard_time": 1744875922,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209942,
+        "num": 284246,
+        "word": "大侦探一癫更比一癫强",
+        "onboard_time": 1744877902,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93560,
+        "num": 278684,
+        "word": "大哥卖60克金项链赚了1万8",
+        "onboard_time": 1744878501,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65513,
+        "num": 274266,
+        "word": "美一客机疑起飞时撞兔子致空中起火",
+        "onboard_time": 1744877962,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 36314,
+        "num": 266464,
+        "word": "伊藤美诚4比1迪亚兹",
+        "onboard_time": 1744878442,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34790,
+        "num": 259356,
+        "word": "林诗栋说今天发挥不是特别好",
+        "onboard_time": 1744878442,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 256945,
+        "num": 256945,
+        "word": "卤制品三巨头大幅关店网友吐槽吃不起",
+        "onboard_time": 1744877781,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234454,
+        "num": 234454,
+        "word": "iPhone17Pro外观辨识度",
+        "onboard_time": 1744875263,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 218190,
+        "num": 218190,
+        "word": "12306的花语是手慢无",
+        "onboard_time": 1744872862,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 213193,
+        "num": 213193,
+        "word": "世纪佳缘取消3人婚礼预定",
+        "onboard_time": 1744866683,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 367141,
+        "num": 212552,
+        "word": "杨幂polo裙",
+        "onboard_time": 1744876762,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197372,
+        "num": 197372,
+        "word": "部分中国商品紧急转口马来西亚",
+        "onboard_time": 1744875502,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 195972,
+        "num": 195972,
+        "word": "我和我担是同担",
+        "onboard_time": 1744877601,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46548,
+        "num": 184128,
+        "word": "内行人是如何去金店买黄金的",
+        "onboard_time": 1744877482,
+        "rank": 37,
+        "category": "幽默,议题讨论"
+      },
+      {
+        "raw_hot": 176542,
+        "num": 176542,
+        "word": "一个谣言毁了三个人的人生",
+        "onboard_time": 1744878201,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26270,
+        "num": 169014,
+        "word": "985新传硕分享毕业后生活",
+        "onboard_time": 1744877841,
+        "rank": 39,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 167647,
+        "num": 167647,
+        "word": "男孩走失后考上美国名校回国寻亲",
+        "onboard_time": 1744875441,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161236,
+        "num": 161236,
+        "word": "泼水节一理想汽车被人喊开门后泼水",
+        "onboard_time": 1744877181,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154801,
+        "num": 154801,
+        "word": "种地吧导演回应缺人",
+        "onboard_time": 1744872322,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154074,
+        "num": 154074,
+        "word": "海陆为李晟拿第一感到高兴",
+        "onboard_time": 1744874181,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146189,
+        "num": 146189,
+        "word": "旅游博主被关小黑屋强迫接受间谍任务",
+        "onboard_time": 1744863022,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144036,
+        "num": 144036,
+        "word": "李昀锐奔跑吧发布会请假",
+        "onboard_time": 1744875200,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142613,
+        "num": 142613,
+        "word": "演员板垣瑞生去世",
+        "onboard_time": 1744868300,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139453,
+        "num": 139453,
+        "word": "两个50岁不自律女生同居的一天",
+        "onboard_time": 1744869802,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139347,
+        "num": 139347,
+        "word": "原来春天常犯困和体质有关",
+        "onboard_time": 1744877302,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137253,
+        "num": 137253,
+        "word": "孙颖莎连救6个局点",
+        "onboard_time": 1744875802,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在柬埔寨媒体发表署名文章#"
+    }
+  }
+}
