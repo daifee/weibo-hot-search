@@ -1,0 +1,410 @@
+{
+  "runTime": 1744871676168,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 976700,
+        "num": 1156272,
+        "word": "演员板垣瑞生去世",
+        "onboard_time": 1744868300,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 786452,
+        "num": 786452,
+        "word": "旅游博主被关小黑屋强迫接受间谍任务",
+        "onboard_time": 1744863022,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24258,
+        "num": 759482,
+        "word": "守一扇心窗唱响护苗新篇章",
+        "onboard_time": 1744863863,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 743972,
+        "num": 743972,
+        "word": "柬埔寨",
+        "onboard_time": 1744867402,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 636492,
+        "num": 636492,
+        "word": "半个娱乐圈团建的含金量",
+        "onboard_time": 1744861403,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 534091,
+        "num": 534091,
+        "word": "长期处于饥饿状态会怎么样",
+        "onboard_time": 1744861461,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 413102,
+        "num": 413102,
+        "word": "管乐给张小婉发180秒语音",
+        "onboard_time": 1744866203,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 388718,
+        "num": 388718,
+        "word": "奔跑吧直播",
+        "onboard_time": 1744870402,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332945,
+        "num": 332945,
+        "word": "5吨大米淘500克金米被指浪费粮食",
+        "onboard_time": 1744861762,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321327,
+        "num": 321327,
+        "word": "12306候补",
+        "onboard_time": 1744850543,
+        "rank": 9,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 1362001,
+        "num": 317588,
+        "word": "世纪佳缘取消3人婚礼预定",
+        "onboard_time": 1744866683,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1281797,
+        "num": 313749,
+        "word": "内裤袜子丢进洗衣机里比手洗好",
+        "onboard_time": 1744867461,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 911695,
+        "num": 311479,
+        "word": "张檬晒照官宣生子",
+        "onboard_time": 1744861641,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308657,
+        "num": 308657,
+        "word": "孙颖莎晋级女单8强",
+        "onboard_time": 1744870522,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42709,
+        "num": 304875,
+        "word": "认养一头牛曾被要求披露是否涉传销",
+        "onboard_time": 1744870582,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 525327,
+        "num": 300872,
+        "word": "终于有剧拍了离婚女人有多爽了",
+        "onboard_time": 1744860321,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 379131,
+        "num": 296690,
+        "word": "韩媒曝金秀贤对金赛纶方诉讼有变",
+        "onboard_time": 1744864524,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353039,
+        "num": 293144,
+        "word": "江西景德镇发生一起刑事案件",
+        "onboard_time": 1744856360,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 340283,
+        "num": 288770,
+        "word": "杨紫白鹿等火到柬埔寨了",
+        "onboard_time": 1744861461,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285426,
+        "num": 285426,
+        "word": "赵小童晒十个勤天新合照",
+        "onboard_time": 1744868362,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138887,
+        "num": 281320,
+        "word": "特朗普突然亲自与日本谈判",
+        "onboard_time": 1744870941,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 116590,
+        "num": 280977,
+        "word": "金价疯涨孙悟空都得卖金箍棒",
+        "onboard_time": 1744868842,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 112999,
+        "num": 280892,
+        "word": "武汉一54层江景房顶出现楼上楼",
+        "onboard_time": 1744871361,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 280858,
+        "num": 280858,
+        "word": "金喜善48岁状态",
+        "onboard_time": 1744866023,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257127,
+        "num": 257127,
+        "word": "白宫承认中方没打来过电话",
+        "onboard_time": 1744847722,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 220688,
+        "num": 220688,
+        "word": "折腰小说",
+        "onboard_time": 1744867581,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189908,
+        "num": 213812,
+        "word": "是你吗高启盛",
+        "onboard_time": 1744871061,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166859,
+        "num": 207630,
+        "word": "大麦网总裁分享华晨宇日出演唱会",
+        "onboard_time": 1744870881,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 72284,
+        "num": 207468,
+        "word": "新中国航空工业创建74周年",
+        "onboard_time": 1744870461,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 207372,
+        "num": 207372,
+        "word": "1.68米女子被忽悠断骨增高每天打止痛针",
+        "onboard_time": 1744870761,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 382721,
+        "num": 206043,
+        "word": "两个50岁不自律女生同居的一天",
+        "onboard_time": 1744869802,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 204494,
+        "num": 204494,
+        "word": "孙颖莎下轮对阵郑怡静",
+        "onboard_time": 1744871303,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201929,
+        "num": 201929,
+        "word": "白宫发言人无视记者直接闭麦",
+        "onboard_time": 1744870041,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 199112,
+        "num": 199112,
+        "word": "被制裁5次的中国企业如今订单满满",
+        "onboard_time": 1744863022,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187889,
+        "num": 187889,
+        "word": "谁允许你们大学生飞檐走壁的",
+        "onboard_time": 1744870641,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 186271,
+        "num": 186271,
+        "word": "ITZY获胜",
+        "onboard_time": 1744871061,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 133363,
+        "num": 185547,
+        "word": "许嵩五月全勤",
+        "onboard_time": 1744870222,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 27557,
+        "num": 175632,
+        "word": "低焦油香烟不等于低危害",
+        "onboard_time": 1744869802,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112432,
+        "num": 170874,
+        "word": "胡冰卿高能量女生爬黄山的一天",
+        "onboard_time": 1744870341,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84919,
+        "num": 167111,
+        "word": "STR分型检测破解强奸案",
+        "onboard_time": 1744871241,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136485,
+        "num": 163676,
+        "word": "水饺皇后马丽演技",
+        "onboard_time": 1744871122,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 158639,
+        "num": 158639,
+        "word": "官方回应男子与现任前任办3人婚礼",
+        "onboard_time": 1744862843,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155077,
+        "num": 155077,
+        "word": "男童被生父女友虐死案一审择期宣判",
+        "onboard_time": 1744868662,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148933,
+        "num": 148933,
+        "word": "能叫停关税的只有美债",
+        "onboard_time": 1744860922,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 148249,
+        "num": 148249,
+        "word": "贺峻霖北京电影节表演嘉宾",
+        "onboard_time": 1744861042,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 143088,
+        "num": 143088,
+        "word": "警方证实贵州一夫二妻婚宴是闹剧",
+        "onboard_time": 1744862004,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142059,
+        "num": 142059,
+        "word": "孙颖莎VS波尔卡诺娃",
+        "onboard_time": 1744862602,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137619,
+        "num": 137619,
+        "word": "认养一头牛广告被指嘲讽打工人",
+        "onboard_time": 1744854141,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136533,
+        "num": 136533,
+        "word": "李昊种地的三年",
+        "onboard_time": 1744854080,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133168,
+        "num": 133168,
+        "word": "金价还会继续飙涨吗",
+        "onboard_time": 1744870702,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#柬埔寨盛情迎接习主席到访#"
+    }
+  }
+}
