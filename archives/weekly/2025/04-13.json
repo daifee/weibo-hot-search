@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744917608485,
+  "endTime": 1744918596871,
   "band_list": [
     {
       "raw_hot": 10606514,
@@ -18219,6 +18219,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 24943,
+      "num": 24943,
+      "word": "美国滥施关税搅乱全球经济秩序",
+      "onboard_time": 1744915755,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 24721,
       "num": 166495,
       "word": "李春丽回应参加澳门世界杯",
@@ -18939,12 +18947,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 14847,
-      "num": 19286,
-      "word": "美国滥施关税搅乱全球经济秩序",
-      "onboard_time": 1744915755,
-      "rank": 34,
-      "category": "国际时政"
+      "raw_hot": 14996,
+      "num": 14996,
+      "word": "女子因提分手被60岁男友杀害案将开庭",
+      "onboard_time": 1744917794,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14757,
@@ -18961,6 +18969,14 @@
       "onboard_time": 1744912696,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 14610,
+      "num": 15704,
+      "word": "虞书欣回应送全红婵娃娃",
+      "onboard_time": 1744917673,
+      "rank": 39,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 14506,
@@ -19161,6 +19177,14 @@
       "onboard_time": 1744744875,
       "rank": 25,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 10527,
+      "num": 27050,
+      "word": "柬埔寨国王热情迎接",
+      "onboard_time": 1744918154,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 10481,
