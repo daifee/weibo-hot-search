@@ -1,0 +1,410 @@
+{
+  "runTime": 1744894113894,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 654684,
+        "num": 1104749,
+        "word": "歌手",
+        "onboard_time": 1744891460,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 506535,
+        "num": 506535,
+        "word": "认养一头牛称暂不考虑撤掉广告",
+        "onboard_time": 1744892421,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88847,
+        "num": 431232,
+        "word": "美国关税讹诈是典型的霸凌行为",
+        "onboard_time": 1744888882,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 413967,
+        "num": 413967,
+        "word": "王楚钦vs贾哈",
+        "onboard_time": 1744888821,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 374336,
+        "num": 374336,
+        "word": "王曼昱4比3胜张本美和",
+        "onboard_time": 1744889782,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 349442,
+        "num": 349442,
+        "word": "终于有综艺要严格培训爱豆唱功了",
+        "onboard_time": 1744888041,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 328822,
+        "num": 328822,
+        "word": "王牌对王牌9即将开录",
+        "onboard_time": 1744888941,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306816,
+        "num": 306816,
+        "word": "王曼昱vs张本美和",
+        "onboard_time": 1744885522,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 275724,
+        "num": 275724,
+        "word": "卤制品三巨头大幅关店网友吐槽吃不起",
+        "onboard_time": 1744877781,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248985,
+        "num": 248985,
+        "word": "油价大幅下调",
+        "onboard_time": 1744887741,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1756939,
+        "num": 248686,
+        "word": "杨采钰怀孕",
+        "onboard_time": 1744886481,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1670637,
+        "num": 248549,
+        "word": "男子欲与女技师发生性关系被控强奸",
+        "onboard_time": 1744891040,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 760517,
+        "num": 248028,
+        "word": "谁二搭会轰动娱乐圈",
+        "onboard_time": 1744889841,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 639105,
+        "num": 247922,
+        "word": "戒掉咖啡一个月后的身体变化",
+        "onboard_time": 1744888102,
+        "rank": 13,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 513809,
+        "num": 247252,
+        "word": "张檬产前vs产后",
+        "onboard_time": 1744885402,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235471,
+        "num": 247185,
+        "word": "王楚钦4比1战胜贾哈",
+        "onboard_time": 1744893022,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 503728,
+        "num": 246761,
+        "word": "Swisse致歉",
+        "onboard_time": 1744885760,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 311944,
+        "num": 246173,
+        "word": "揭秘李昊经纪公司",
+        "onboard_time": 1744879642,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246157,
+        "num": 246157,
+        "word": "妈妈说早知孩子受罪不如难产走掉",
+        "onboard_time": 1744891823,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11009,
+        "num": 244895,
+        "word": "无忧渡好看在什么地方",
+        "onboard_time": 1744893261,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278315,
+        "num": 244892,
+        "word": "张檬早期因男友嘲讽丑去整容",
+        "onboard_time": 1744884202,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244569,
+        "num": 244569,
+        "word": "英伟达坚定不移服务中国市场",
+        "onboard_time": 1744883362,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 244331,
+        "num": 244331,
+        "word": "刘涛爆料被晋江文学小考笑趴在地上",
+        "onboard_time": 1744893322,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199090,
+        "num": 237587,
+        "word": "成毅娜扎录制你好星期六",
+        "onboard_time": 1744893142,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198075,
+        "num": 236787,
+        "word": "王一博嘉实多官宣预热",
+        "onboard_time": 1744892962,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236278,
+        "num": 236278,
+        "word": "无忧渡少爷第一次带姑娘来",
+        "onboard_time": 1744891102,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101924,
+        "num": 224560,
+        "word": "余承东说智界R7增程续航可达1673km",
+        "onboard_time": 1744893441,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 74801,
+        "num": 224164,
+        "word": "全国各地网友庭审前拥抱男童生母",
+        "onboard_time": 1744889601,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197370,
+        "num": 224162,
+        "word": "王楚钦晋级澳门世界杯8强",
+        "onboard_time": 1744893082,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224161,
+        "num": 224161,
+        "word": "天女兽",
+        "onboard_time": 1744892362,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 214417,
+        "num": 214417,
+        "word": "又被面包店逼疯一个",
+        "onboard_time": 1744893022,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 207690,
+        "num": 207690,
+        "word": "终于知道养气血该怎么吃了",
+        "onboard_time": 1744889421,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 182291,
+        "num": 205708,
+        "word": "孙俪新剧开播就跳水",
+        "onboard_time": 1744882462,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204715,
+        "num": 204715,
+        "word": "王曼昱跪地庆祝",
+        "onboard_time": 1744891700,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199650,
+        "num": 199650,
+        "word": "王楚钦世界杯进8强",
+        "onboard_time": 1744893682,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189980,
+        "num": 189980,
+        "word": "王曼昱这一球请全体起立",
+        "onboard_time": 1744891160,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189368,
+        "num": 189368,
+        "word": "智界 刘亦菲",
+        "onboard_time": 1744894042,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 180973,
+        "num": 180973,
+        "word": "25岁裸辞后找了个上1休1的工作",
+        "onboard_time": 1744893562,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177245,
+        "num": 177245,
+        "word": "拐卖46名外籍女子反复嫁人获利133万",
+        "onboard_time": 1744890021,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19224,
+        "num": 176659,
+        "word": "做了四年假鼻子的真实感受",
+        "onboard_time": 1744893502,
+        "rank": 39,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 176590,
+        "num": 176590,
+        "word": "奔跑吧",
+        "onboard_time": 1744892900,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92210,
+        "num": 160472,
+        "word": "46名外籍女子被反复贩卖",
+        "onboard_time": 1744887981,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154618,
+        "num": 154618,
+        "word": "减肥要熬过这4个时间点",
+        "onboard_time": 1744891402,
+        "rank": 42,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 150361,
+        "num": 150361,
+        "word": "董力回应求婚只有9朵玫瑰",
+        "onboard_time": 1744890441,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144540,
+        "num": 144540,
+        "word": "第一次见东北包饭里加螺蛳粉的",
+        "onboard_time": 1744893621,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142105,
+        "num": 142105,
+        "word": "女子抑郁躯体化治愈送999朵玫瑰谢医生",
+        "onboard_time": 1744889181,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132972,
+        "num": 132972,
+        "word": "买10万黄金ETF半月赚超5000元",
+        "onboard_time": 1744891582,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 132969,
+        "num": 132969,
+        "word": "孟子义说不能和范丞丞一组",
+        "onboard_time": 1744892243,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108727,
+        "num": 126759,
+        "word": "女婴被饿成皮包骨住进重症监护室",
+        "onboard_time": 1744892061,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126708,
+        "num": 126708,
+        "word": "男子伪造身份证提前退休",
+        "onboard_time": 1744891881,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平出席西哈莫尼举行的欢迎仪式#"
+    }
+  }
+}
