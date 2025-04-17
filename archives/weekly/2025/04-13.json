@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744886633690,
+  "endTime": 1744888854995,
   "band_list": [
     {
       "raw_hot": 10606514,
@@ -41,6 +41,14 @@
       "onboard_time": 1744876401,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2768175,
+      "num": 295397,
+      "word": "杨采钰怀孕",
+      "onboard_time": 1744886481,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 2744415,
@@ -884,7 +892,7 @@
     },
     {
       "raw_hot": 1091367,
-      "num": 280195,
+      "num": 293920,
       "word": "张檬早期因男友嘲讽丑去整容",
       "onboard_time": 1744884202,
       "rank": 10,
@@ -1091,6 +1099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 964519,
+      "num": 655677,
+      "word": "被虐死男童妈妈晕倒被送医",
+      "onboard_time": 1744884802,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 963113,
       "num": 416758,
       "word": "葛夕称抑郁症复发加大药量",
@@ -1281,6 +1297,14 @@
       "onboard_time": 1744791142,
       "rank": 4,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 887548,
+      "num": 1142007,
+      "word": "王曼昱vs张本美和",
+      "onboard_time": 1744885522,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 882913,
@@ -2059,14 +2083,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 655677,
-      "num": 655677,
-      "word": "被虐死男童妈妈晕倒被送医",
-      "onboard_time": 1744884802,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 653608,
       "num": 123217,
       "word": "肇事者父亲称一家三口被撞身亡是天灾",
@@ -2316,7 +2332,7 @@
     },
     {
       "raw_hot": 594349,
-      "num": 246531,
+      "num": 259606,
       "word": "张檬产前vs产后",
       "onboard_time": 1744885402,
       "rank": 26,
@@ -2377,6 +2393,14 @@
       "onboard_time": 1744792101,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 565073,
+      "num": 565073,
+      "word": "Swisse致歉",
+      "onboard_time": 1744885760,
+      "rank": 23,
+      "category": "美食"
     },
     {
       "raw_hot": 564508,
@@ -2833,14 +2857,6 @@
       "onboard_time": 1744598901,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 472132,
-      "num": 472132,
-      "word": "王曼昱vs张本美和",
-      "onboard_time": 1744885522,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 471051,
@@ -3555,14 +3571,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 380327,
-      "num": 245017,
-      "word": "杨采钰怀孕",
-      "onboard_time": 1744886481,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 380309,
       "num": 423770,
       "word": "crocs 白鹿",
@@ -3833,6 +3841,14 @@
       "onboard_time": 1744506922,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 344920,
+      "num": 344920,
+      "word": "英伟达坚定不移服务中国市场",
+      "onboard_time": 1744883362,
+      "rank": 25,
+      "category": "互联网"
     },
     {
       "raw_hot": 342136,
@@ -4451,6 +4467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 281253,
+      "num": 281253,
+      "word": "日本消费者涌向韩国买米",
+      "onboard_time": 1744886123,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 280592,
       "num": 430035,
       "word": "达利欧称60%美国人文化水平不到初中",
@@ -4585,6 +4609,14 @@
       "onboard_time": 1744715543,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 272079,
+      "num": 235529,
+      "word": "戒掉咖啡一个月后的身体变化",
+      "onboard_time": 1744888102,
+      "rank": 20,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 271791,
@@ -5427,6 +5459,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 231412,
+      "num": 241489,
+      "word": "黄杨钿甜不加修饰的生命力",
+      "onboard_time": 1744885461,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 230910,
       "num": 230910,
       "word": "胡兵坐轮椅五国机场无障碍测评",
@@ -5441,6 +5481,14 @@
       "onboard_time": 1744673119,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 230263,
+      "num": 249346,
+      "word": "终于有综艺要严格培训爱豆唱功了",
+      "onboard_time": 1744888041,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 230173,
@@ -5793,14 +5841,6 @@
       "onboard_time": 1744872862,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 217838,
-      "num": 217838,
-      "word": "Swisse致歉",
-      "onboard_time": 1744885760,
-      "rank": 23,
-      "category": "美食"
     },
     {
       "raw_hot": 217726,
@@ -6177,14 +6217,6 @@
       "onboard_time": 1744877902,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 209907,
-      "num": 241489,
-      "word": "黄杨钿甜不加修饰的生命力",
-      "onboard_time": 1744885461,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 209773,
@@ -6819,6 +6851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199254,
+      "num": 199254,
+      "word": "丁禹兮 路上了",
+      "onboard_time": 1744887622,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199245,
       "num": 199245,
       "word": "王一博王编辑值班",
@@ -7291,6 +7331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192246,
+      "num": 192246,
+      "word": "虞书欣猪包秒切女神",
+      "onboard_time": 1744887802,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192111,
       "num": 319500,
       "word": "易烊千玺新歌听得我朝气蓬勃",
@@ -7521,6 +7569,14 @@
       "onboard_time": 1744720281,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188899,
+      "num": 188899,
+      "word": "油价大幅下调",
+      "onboard_time": 1744887741,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 188616,
@@ -8177,14 +8233,6 @@
       "onboard_time": 1744601961,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 178970,
-      "num": 181813,
-      "word": "英伟达坚定不移服务中国市场",
-      "onboard_time": 1744883362,
-      "rank": 25,
-      "category": "互联网"
     },
     {
       "raw_hot": 178962,
@@ -8963,6 +9011,14 @@
       "category": "网红,民生新闻"
     },
     {
+      "raw_hot": 164768,
+      "num": 198736,
+      "word": "中年夫妻难道只有恩没有爱吗",
+      "onboard_time": 1744886782,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164581,
       "num": 164581,
       "word": "大家有分手断联后又和好的经历吗",
@@ -9345,6 +9401,14 @@
       "onboard_time": 1744703000,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 160169,
+      "num": 196036,
+      "word": "内裤扔洗衣机里风险有多高",
+      "onboard_time": 1744887741,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 160039,
@@ -10348,7 +10412,7 @@
     },
     {
       "raw_hot": 144950,
-      "num": 144950,
+      "num": 199911,
       "word": "两电一邮到底有多牛",
       "onboard_time": 1744883182,
       "rank": 47,
@@ -10787,6 +10851,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 139723,
+      "num": 139723,
+      "word": "eStar战胜Hero",
+      "onboard_time": 1744887561,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 139635,
       "num": 139635,
       "word": "金价飙涨再创历史新高",
@@ -10921,6 +10993,14 @@
       "onboard_time": 1744682481,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137755,
+      "num": 137755,
+      "word": "余承东称全力以赴保问界M8交付",
+      "onboard_time": 1744887561,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 137696,
@@ -11081,6 +11161,14 @@
       "onboard_time": 1744535183,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136442,
+      "num": 197171,
+      "word": "宣夜一秒识破假半夏",
+      "onboard_time": 1744887921,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 136360,
@@ -11545,6 +11633,14 @@
       "onboard_time": 1744777465,
       "rank": 22,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 130943,
+      "num": 130943,
+      "word": "46名外籍女子被反复贩卖",
+      "onboard_time": 1744887981,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130924,
@@ -12219,6 +12315,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 123264,
+      "num": 123264,
+      "word": "王楚钦vs贾哈",
+      "onboard_time": 1744888821,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123001,
       "num": 123001,
       "word": "全球首次半机械蟑螂参与地震救援",
@@ -12627,6 +12731,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 117767,
+      "num": 117767,
+      "word": "河南培育爱马仕牡丹售价10万",
+      "onboard_time": 1744887441,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117722,
       "num": 123048,
       "word": "陈楚生割开一颗心回应每一箭",
@@ -12729,6 +12841,14 @@
       "onboard_time": 1744514962,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 116661,
+      "num": 116661,
+      "word": "2025国产爽剧上新了",
+      "onboard_time": 1744888821,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 116645,
@@ -14115,6 +14235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 89210,
+      "num": 135063,
+      "word": "长城高管说永远不会做增程",
+      "onboard_time": 1744888581,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 88976,
       "num": 467066,
       "word": "为什么虞书欣是天选代言人",
@@ -15019,14 +15147,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 66005,
-      "num": 248114,
-      "word": "日本消费者涌向韩国买米",
-      "onboard_time": 1744886123,
-      "rank": 14,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 65952,
       "num": 145752,
       "word": "林孝埈全力以赴2026",
@@ -15587,6 +15707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51152,
+      "num": 236541,
+      "word": "闫妮官宣新身份",
+      "onboard_time": 1744887802,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 50983,
       "num": 186534,
       "word": "郑钦文被吓出表情包",
@@ -15771,6 +15899,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 48162,
+      "num": 304455,
+      "word": "埃文再次向中国捐赠抗战史料",
+      "onboard_time": 1744876521,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 47849,
       "num": 80767,
       "word": "太阳解雇布登霍尔泽",
@@ -15913,6 +16049,14 @@
       "onboard_time": 1744652775,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 44707,
+      "num": 194069,
+      "word": "王皓让林诗栋怎么舒服怎么来",
+      "onboard_time": 1744888341,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 44672,
@@ -17651,6 +17795,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 14194,
+      "num": 594634,
+      "word": "一图带你了解中柬关系",
+      "onboard_time": 1744888461,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 13939,
       "num": 20583,
       "word": "张远粉丝想要粉丝得到",
@@ -17705,6 +17857,14 @@
       "onboard_time": 1744629442,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 12914,
+      "num": 192898,
+      "word": "文化中国行跟着游记去旅行",
+      "onboard_time": 1744888702,
+      "rank": 30,
+      "category": "旅游"
     },
     {
       "raw_hot": 12900,
@@ -18027,6 +18187,9 @@
     },
     {
       "word": "#柬埔寨盛情迎接习主席到访#"
+    },
+    {
+      "word": "#习近平出席西哈莫尼举行的欢迎仪式#"
     }
   ]
 }
