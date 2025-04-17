@@ -1,9 +1,9 @@
 {
   "startTime": 1744821103506,
-  "endTime": 1744859264589,
+  "endTime": 1744859792862,
   "band_list": [
     {
-      "raw_hot": 1524779,
+      "raw_hot": 1539120,
       "num": 387166,
       "word": "江西景德镇发生一起刑事案件",
       "onboard_time": 1744856360,
@@ -83,6 +83,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 721132,
+      "num": 721132,
+      "word": "男童被生父女友虐死案开庭",
+      "onboard_time": 1744856840,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 673248,
       "num": 909007,
       "word": "加州宣布将起诉特朗普政府",
@@ -99,14 +107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 650059,
-      "num": 650059,
-      "word": "男童被生父女友虐死案开庭",
-      "onboard_time": 1744856840,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 635260,
       "num": 325254,
       "word": "毛毛果已缺货",
@@ -115,12 +115,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 596830,
-      "num": 596830,
+      "raw_hot": 616559,
+      "num": 616559,
       "word": "李昊种地的三年",
       "onboard_time": 1744854080,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 601374,
+      "num": 601374,
+      "word": "东极岛",
+      "onboard_time": 1744857441,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 579339,
@@ -155,14 +163,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 432240,
-      "num": 432240,
-      "word": "东极岛",
-      "onboard_time": 1744857441,
-      "rank": 7,
-      "category": "电影"
-    },
-    {
       "raw_hot": 431368,
       "num": 431368,
       "word": "特朗普吹牛日入20亿关税被揭穿",
@@ -177,6 +177,14 @@
       "onboard_time": 1744810821,
       "rank": 13,
       "category": "网红"
+    },
+    {
+      "raw_hot": 421144,
+      "num": 306514,
+      "word": "钟汉良朱珠吻戏",
+      "onboard_time": 1744859120,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 415181,
@@ -251,6 +259,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 291244,
+      "num": 223848,
+      "word": "女生以为挖到超大竹笋结果被嘲笑",
+      "onboard_time": 1744859421,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 286047,
       "num": 286047,
       "word": "陈德容房琪进五公",
@@ -284,7 +300,7 @@
     },
     {
       "raw_hot": 273383,
-      "num": 202452,
+      "num": 219354,
       "word": "老兵身上33枚钢珠被医生误认成项链",
       "onboard_time": 1744856540,
       "rank": 20,
@@ -371,6 +387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 228669,
+      "num": 388907,
+      "word": "认养一头牛回应广告争议",
+      "onboard_time": 1744854442,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 225905,
       "num": 208923,
       "word": "林允这是要开中餐厅吗",
@@ -411,28 +435,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 208822,
-      "num": 388907,
-      "word": "认养一头牛回应广告争议",
-      "onboard_time": 1744854442,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 206593,
-      "num": 206593,
-      "word": "钟汉良朱珠吻戏",
-      "onboard_time": 1744859120,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 205475,
       "num": 205475,
       "word": "欧冠",
       "onboard_time": 1744846278,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198731,
+      "num": 198731,
+      "word": "赵奕欢素颜打羽毛球",
+      "onboard_time": 1744858880,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 198605,
+      "num": 227577,
+      "word": "肖战新浪娱乐VCR",
+      "onboard_time": 1744859481,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 198054,
@@ -483,12 +507,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 171204,
-      "num": 171204,
-      "word": "赵奕欢素颜打羽毛球",
-      "onboard_time": 1744858880,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 169117,
+      "num": 169117,
+      "word": "突然有点后悔养花了",
+      "onboard_time": 1744859481,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 166182,
@@ -507,8 +531,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 163065,
+      "num": 163065,
+      "word": "理疗馆给半岁婴儿刮痧引争议",
+      "onboard_time": 1744858102,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 162618,
-      "num": 170262,
+      "num": 185957,
       "word": "南部档案杀青",
       "onboard_time": 1744856181,
       "rank": 27,
@@ -529,14 +561,6 @@
       "onboard_time": 1744850602,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 152256,
-      "num": 152256,
-      "word": "理疗馆给半岁婴儿刮痧引争议",
-      "onboard_time": 1744858102,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 151880,
@@ -571,20 +595,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150204,
+      "num": 150204,
+      "word": "绵绵的羊问题卫生巾已下架",
+      "onboard_time": 1744855641,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146841,
       "num": 146841,
       "word": "ONER结拜",
       "onboard_time": 1744851923,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 146835,
-      "num": 146835,
-      "word": "绵绵的羊问题卫生巾已下架",
-      "onboard_time": 1744855641,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 144985,
@@ -595,12 +619,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 140179,
-      "num": 140179,
+      "raw_hot": 140792,
+      "num": 205937,
       "word": "全红婵陈芋汐2小时内决胜负",
       "onboard_time": 1744857080,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139954,
+      "num": 179068,
+      "word": "歌手 网飞直播",
+      "onboard_time": 1744858760,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 139635,
@@ -609,6 +641,14 @@
       "onboard_time": 1744855281,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 137696,
+      "num": 137696,
+      "word": "可悠然 丁禹兮",
+      "onboard_time": 1744859481,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 137480,
@@ -635,6 +675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130272,
+      "num": 130272,
+      "word": "5月只需上19天班",
+      "onboard_time": 1744855942,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129840,
       "num": 180010,
       "word": "A股芯片股爆发",
@@ -648,22 +696,6 @@
       "word": "74岁父亲带5岁女儿的一天",
       "onboard_time": 1744846880,
       "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 128617,
-      "num": 169733,
-      "word": "歌手 网飞直播",
-      "onboard_time": 1744858760,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 127340,
-      "num": 127340,
-      "word": "5月只需上19天班",
-      "onboard_time": 1744855942,
-      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -699,6 +731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120900,
+      "num": 120900,
+      "word": "被虐致死3岁男童太阳穴都是伤",
+      "onboard_time": 1744859361,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118549,
       "num": 118549,
       "word": "乒乓球世界杯",
@@ -721,6 +761,14 @@
       "onboard_time": 1744846400,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114081,
+      "num": 114081,
+      "word": "陈都灵感谢苏有朋",
+      "onboard_time": 1744859541,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 113709,
@@ -1067,6 +1115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44400,
+      "num": 293269,
+      "word": "青岛多孩家庭购房最高补贴10万",
+      "onboard_time": 1744858880,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43407,
       "num": 43407,
       "word": "看似奇葩却能秒睡的姿势",
@@ -1115,11 +1171,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 23534,
-      "num": 293269,
-      "word": "青岛多孩家庭购房最高补贴10万",
-      "onboard_time": 1744858880,
-      "rank": 14,
+      "raw_hot": 22448,
+      "num": 176349,
+      "word": "被虐死男童生父以被害者家属身份出庭",
+      "onboard_time": 1744859602,
+      "rank": 30,
       "category": "民生新闻"
     },
     {

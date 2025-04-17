@@ -1,0 +1,410 @@
+{
+  "runTime": 1744859792862,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 999320,
+        "num": 1159891,
+        "word": "歌手 单依纯",
+        "onboard_time": 1744853062,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 721132,
+        "num": 721132,
+        "word": "男童被生父女友虐死案开庭",
+        "onboard_time": 1744856840,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143515,
+        "num": 714755,
+        "word": "警惕美国正向全世界摊派空气税",
+        "onboard_time": 1744817661,
+        "rank": 2,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1334623,
+        "num": 714681,
+        "word": "认养一头牛广告被指嘲讽打工人",
+        "onboard_time": 1744854141,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 714540,
+        "num": 714540,
+        "word": "白宫承认中方没打来过电话",
+        "onboard_time": 1744847722,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 616559,
+        "num": 616559,
+        "word": "李昊种地的三年",
+        "onboard_time": 1744854080,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 601374,
+        "num": 601374,
+        "word": "东极岛",
+        "onboard_time": 1744857441,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 445997,
+        "num": 445997,
+        "word": "12306候补",
+        "onboard_time": 1744850543,
+        "rank": 7,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 394520,
+        "num": 394520,
+        "word": "特朗普吹牛日入20亿关税被揭穿",
+        "onboard_time": 1744853062,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 316589,
+        "num": 316589,
+        "word": "3岁男童遭虐待致死案母亲再发声",
+        "onboard_time": 1744855700,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1539120,
+        "num": 312034,
+        "word": "江西景德镇发生一起刑事案件",
+        "onboard_time": 1744856360,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 421144,
+        "num": 306514,
+        "word": "钟汉良朱珠吻戏",
+        "onboard_time": 1744859120,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 294700,
+        "num": 294700,
+        "word": "毛毛果已缺货",
+        "onboard_time": 1744817242,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 59286,
+        "num": 279360,
+        "word": "陈幸同VS申裕斌",
+        "onboard_time": 1744858880,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44400,
+        "num": 278012,
+        "word": "青岛多孩家庭购房最高补贴10万",
+        "onboard_time": 1744858880,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 277656,
+        "num": 277656,
+        "word": "黄金",
+        "onboard_time": 1744811962,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 258154,
+        "num": 258154,
+        "word": "张小婉被粉丝叫老婆的反应",
+        "onboard_time": 1744854023,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250620,
+        "num": 250620,
+        "word": "浪姐五公分组",
+        "onboard_time": 1744856721,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228669,
+        "num": 228669,
+        "word": "认养一头牛回应广告争议",
+        "onboard_time": 1744854442,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198605,
+        "num": 227577,
+        "word": "肖战新浪娱乐VCR",
+        "onboard_time": 1744859481,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 291244,
+        "num": 223848,
+        "word": "女生以为挖到超大竹笋结果被嘲笑",
+        "onboard_time": 1744859421,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255390,
+        "num": 219354,
+        "word": "老兵身上33枚钢珠被医生误认成项链",
+        "onboard_time": 1744856540,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229381,
+        "num": 216226,
+        "word": "公公给儿媳59克黄金当改口红包",
+        "onboard_time": 1744846521,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213787,
+        "num": 213787,
+        "word": "以为很干净其实很脏的生活习惯",
+        "onboard_time": 1744846521,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140792,
+        "num": 205937,
+        "word": "全红婵陈芋汐2小时内决胜负",
+        "onboard_time": 1744857080,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198731,
+        "num": 198731,
+        "word": "赵奕欢素颜打羽毛球",
+        "onboard_time": 1744858880,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187385,
+        "num": 187385,
+        "word": "外交部回应美对华加征245%关税",
+        "onboard_time": 1744789041,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 162030,
+        "num": 185957,
+        "word": "南部档案杀青",
+        "onboard_time": 1744856181,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161826,
+        "num": 182126,
+        "word": "沙溢黑到反光",
+        "onboard_time": 1744851201,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139954,
+        "num": 179068,
+        "word": "歌手 网飞直播",
+        "onboard_time": 1744858760,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22448,
+        "num": 176349,
+        "word": "被虐死男童生父以被害者家属身份出庭",
+        "onboard_time": 1744859602,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176115,
+        "num": 176115,
+        "word": "三亚警方通报60岁女子开车撞伤6人",
+        "onboard_time": 1744848500,
+        "rank": 31,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 169117,
+        "num": 169117,
+        "word": "突然有点后悔养花了",
+        "onboard_time": 1744859481,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 164625,
+        "num": 164625,
+        "word": "路人发现女子头孢配酒果断报警",
+        "onboard_time": 1744857621,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163065,
+        "num": 163065,
+        "word": "理疗馆给半岁婴儿刮痧引争议",
+        "onboard_time": 1744858102,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161761,
+        "num": 161761,
+        "word": "加州宣布将起诉特朗普政府",
+        "onboard_time": 1744817301,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 160931,
+        "num": 160931,
+        "word": "央视披露兰州无人机驾考作弊案细节",
+        "onboard_time": 1744849883,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150204,
+        "num": 150204,
+        "word": "绵绵的羊问题卫生巾已下架",
+        "onboard_time": 1744855641,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147368,
+        "num": 147368,
+        "word": "王者荣耀",
+        "onboard_time": 1744850423,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 128796,
+        "num": 140351,
+        "word": "李现长风起造型出妆",
+        "onboard_time": 1744858341,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139504,
+        "num": 139504,
+        "word": "金饰价飙到1027元",
+        "onboard_time": 1744854921,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 138624,
+        "num": 138624,
+        "word": "99年女生摆摊7年靠自己成功买房",
+        "onboard_time": 1744848982,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137696,
+        "num": 137696,
+        "word": "可悠然 丁禹兮",
+        "onboard_time": 1744859481,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134543,
+        "num": 134543,
+        "word": "美方畸高关税在经济上已无实际意义",
+        "onboard_time": 1744856780,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 130272,
+        "num": 130272,
+        "word": "5月只需上19天班",
+        "onboard_time": 1744855942,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120900,
+        "num": 120900,
+        "word": "被虐致死3岁男童太阳穴都是伤",
+        "onboard_time": 1744859361,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114230,
+        "num": 114230,
+        "word": "A股芯片股爆发",
+        "onboard_time": 1744857621,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 114081,
+        "num": 114081,
+        "word": "陈都灵感谢苏有朋",
+        "onboard_time": 1744859541,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108402,
+        "num": 108402,
+        "word": "金价飙涨再创历史新高",
+        "onboard_time": 1744855281,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 105969,
+        "num": 105969,
+        "word": "多型海军舰艇首次公开面向公众开放",
+        "onboard_time": 1744858221,
+        "rank": 49,
+        "category": "军事"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同马来西亚总理举行会谈#"
+    }
+  }
+}
