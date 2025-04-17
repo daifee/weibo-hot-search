@@ -1,0 +1,410 @@
+{
+  "runTime": 1744882071586,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1315078,
+        "num": 1315078,
+        "word": "卤制品三巨头大幅关店网友吐槽吃不起",
+        "onboard_time": 1744877781,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 914672,
+        "num": 914672,
+        "word": "中马互免签证",
+        "onboard_time": 1744878981,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21233,
+        "num": 658472,
+        "word": "守一扇心窗唱响护苗新篇章",
+        "onboard_time": 1744863863,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 562790,
+        "num": 562790,
+        "word": "灵魂摆渡 原班人马",
+        "onboard_time": 1744877421,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 548411,
+        "num": 548411,
+        "word": "1.68米女子被忽悠断骨增高每天打止痛针",
+        "onboard_time": 1744870761,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2367356,
+        "num": 545722,
+        "word": "已脑死亡男孩听到妈妈来了流下眼泪",
+        "onboard_time": 1744876401,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 535932,
+        "num": 535932,
+        "word": "大哥卖60克金项链赚了1万8",
+        "onboard_time": 1744878501,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 460600,
+        "num": 535750,
+        "word": "全红婵晒虞书欣送的娃娃",
+        "onboard_time": 1744874542,
+        "rank": 7,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 234635,
+        "num": 529201,
+        "word": "甲亢哥来华的幕后推手",
+        "onboard_time": 1744873761,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 123381,
+        "num": 522003,
+        "word": "外交部回应中马签署互免签证协定",
+        "onboard_time": 1744881323,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 579618,
+        "num": 516248,
+        "word": "揭秘李昊经纪公司",
+        "onboard_time": 1744879642,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 515502,
+        "num": 515502,
+        "word": "刘宇宁曾说折腰按照原著演大家都得进去",
+        "onboard_time": 1744880183,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 512295,
+        "num": 512295,
+        "word": "李永乐因做网红患抑郁症",
+        "onboard_time": 1744879041,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 39104,
+        "num": 421101,
+        "word": "国内黄金ETF规模已超千亿",
+        "onboard_time": 1744880962,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 94646,
+        "num": 420226,
+        "word": "夸克在台湾地区AppStore登顶爆火",
+        "onboard_time": 1744880482,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 419581,
+        "num": 419581,
+        "word": "吴磊北电最高分的含金量",
+        "onboard_time": 1744880723,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 387737,
+        "num": 387737,
+        "word": "董力把家人气到失眠",
+        "onboard_time": 1744871902,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 368653,
+        "num": 368653,
+        "word": "长期处于饥饿状态会怎么样",
+        "onboard_time": 1744861461,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 195938,
+        "num": 334236,
+        "word": "老家的驿站排满了取快递的老人",
+        "onboard_time": 1744880602,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 331366,
+        "num": 331366,
+        "word": "张檬韩国婆婆特意赶来香港",
+        "onboard_time": 1744872981,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313161,
+        "num": 313161,
+        "word": "12306候补成功率多高能抢到票",
+        "onboard_time": 1744878324,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210147,
+        "num": 210147,
+        "word": "一对双胞胎生了一对龙凤胎",
+        "onboard_time": 1744875141,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 180662,
+        "num": 210130,
+        "word": "让孙俪胡杏儿演对手戏简直天才",
+        "onboard_time": 1744875743,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159690,
+        "num": 209739,
+        "word": "白鹿嗓子哑了周深问谁在说话",
+        "onboard_time": 1744875922,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48553,
+        "num": 209620,
+        "word": "林诗栋男单进八强",
+        "onboard_time": 1744881142,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84414,
+        "num": 209495,
+        "word": "向佐亲测小鹏X9直呼要再买一台",
+        "onboard_time": 1744878861,
+        "rank": 25,
+        "category": "汽车,艺人"
+      },
+      {
+        "raw_hot": 146822,
+        "num": 209269,
+        "word": "无忧渡反方一辩对战七人",
+        "onboard_time": 1744881681,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145745,
+        "num": 208975,
+        "word": "孙俪马龙同框",
+        "onboard_time": 1744881803,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 138139,
+        "num": 208768,
+        "word": "半个娱乐圈团建的含金量",
+        "onboard_time": 1744861403,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37854,
+        "num": 208519,
+        "word": "18岁男生失联超半月同行者疑已出国",
+        "onboard_time": 1744881442,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 300017,
+        "num": 208411,
+        "word": "张檬晒照官宣生子",
+        "onboard_time": 1744861641,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208225,
+        "num": 208225,
+        "word": "原来牙齿的神经长这样",
+        "onboard_time": 1744880542,
+        "rank": 31,
+        "category": "科学科普,民生新闻"
+      },
+      {
+        "raw_hot": 199531,
+        "num": 199531,
+        "word": "武契奇称即使天塌下来也要去莫斯科",
+        "onboard_time": 1744878922,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 170249,
+        "num": 196629,
+        "word": "王鹤棣白T自拍九宫格",
+        "onboard_time": 1744881023,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194395,
+        "num": 194395,
+        "word": "黄仁勋时隔3个月再次到访北京",
+        "onboard_time": 1744875322,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 197805,
+        "num": 194358,
+        "word": "多名女性进少林景区男厕被大爷训斥",
+        "onboard_time": 1744881023,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179098,
+        "num": 179098,
+        "word": "英伟达CEO到访北京",
+        "onboard_time": 1744881261,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 163476,
+        "num": 163476,
+        "word": "宋祖儿边看无忧渡边翻花绳",
+        "onboard_time": 1744880003,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42431,
+        "num": 163237,
+        "word": "贵州的校花校草高冷不了一点",
+        "onboard_time": 1744881142,
+        "rank": 38,
+        "category": "教育,议题讨论"
+      },
+      {
+        "raw_hot": 15725,
+        "num": 163231,
+        "word": "快速算出零食热量的方法",
+        "onboard_time": 1744881742,
+        "rank": 39,
+        "category": "科学科普,民生新闻"
+      },
+      {
+        "raw_hot": 55919,
+        "num": 163230,
+        "word": "肿瘤患者掉体重有多危险",
+        "onboard_time": 1744873881,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 163229,
+        "num": 163229,
+        "word": "美一客机疑起飞时撞兔子致空中起火",
+        "onboard_time": 1744877962,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 160656,
+        "num": 160656,
+        "word": "千万别小瞧研究生的自愈能力",
+        "onboard_time": 1744879102,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152669,
+        "num": 152669,
+        "word": "iPhone17Pro外观辨识度",
+        "onboard_time": 1744875263,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 150281,
+        "num": 150281,
+        "word": "四月的顶流",
+        "onboard_time": 1744879882,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149476,
+        "num": 149476,
+        "word": "ZZZ对战MRC",
+        "onboard_time": 1744880962,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 144361,
+        "num": 144361,
+        "word": "市民自发前来为被虐死男童发声",
+        "onboard_time": 1744879522,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139774,
+        "num": 139774,
+        "word": "泼水节一理想汽车被人喊开门后泼水",
+        "onboard_time": 1744877181,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127868,
+        "num": 127868,
+        "word": "终于有剧拍了离婚女人有多爽了",
+        "onboard_time": 1744860321,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125912,
+        "num": 125912,
+        "word": "安兔兔称跑分没用",
+        "onboard_time": 1744879822,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#构建高水平战略性中马命运共同体#"
+    }
+  }
+}
