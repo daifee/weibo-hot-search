@@ -1,6 +1,6 @@
 {
   "startTime": 1744821103506,
-  "endTime": 1744882071586,
+  "endTime": 1744882835278,
   "band_list": [
     {
       "raw_hot": 2970659,
@@ -67,6 +67,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1379088,
+      "num": 1379088,
+      "word": "卤制品三巨头大幅关店网友吐槽吃不起",
+      "onboard_time": 1744877781,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1362001,
       "num": 345163,
       "word": "世纪佳缘取消3人婚礼预定",
@@ -80,14 +88,6 @@
       "word": "1.68米女子被忽悠断骨增高每天打止痛针",
       "onboard_time": 1744870761,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1315078,
-      "num": 1315078,
-      "word": "卤制品三巨头大幅关店网友吐槽吃不起",
-      "onboard_time": 1744877781,
-      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -171,8 +171,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 914672,
-      "num": 914672,
+      "raw_hot": 915086,
+      "num": 915086,
       "word": "中马互免签证",
       "onboard_time": 1744878981,
       "rank": 21,
@@ -249,6 +249,14 @@
       "onboard_time": 1744859120,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 729489,
+      "num": 516248,
+      "word": "揭秘李昊经纪公司",
+      "onboard_time": 1744879642,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 725340,
@@ -339,14 +347,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 579618,
-      "num": 516248,
-      "word": "揭秘李昊经纪公司",
-      "onboard_time": 1744879642,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 579339,
       "num": 187496,
       "word": "虎门站一旅客跳股道身亡",
@@ -360,6 +360,14 @@
       "word": "灵魂摆渡 原班人马",
       "onboard_time": 1744877421,
       "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 545105,
+      "num": 515502,
+      "word": "刘宇宁曾说折腰按照原著演大家都得进去",
+      "onboard_time": 1744880183,
+      "rank": 11,
       "category": "剧集"
     },
     {
@@ -385,14 +393,6 @@
       "onboard_time": 1744878501,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 515502,
-      "num": 515502,
-      "word": "刘宇宁曾说折腰按照原著演大家都得进去",
-      "onboard_time": 1744880183,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 489458,
@@ -651,6 +651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 295012,
+      "num": 228979,
+      "word": "原来牙齿的神经长这样",
+      "onboard_time": 1744880542,
+      "rank": 31,
+      "category": "科学科普,民生新闻"
+    },
+    {
       "raw_hot": 292771,
       "num": 292771,
       "word": "无限暖暖联机",
@@ -713,6 +721,14 @@
       "onboard_time": 1744808602,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 276299,
+      "num": 276299,
+      "word": "英伟达CEO到访北京",
+      "onboard_time": 1744881261,
+      "rank": 36,
+      "category": "互联网"
     },
     {
       "raw_hot": 273383,
@@ -899,6 +915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 227595,
+      "num": 227595,
+      "word": "宋祖儿边看无忧渡边翻花绳",
+      "onboard_time": 1744880003,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 227148,
       "num": 227148,
       "word": "李昀锐奔跑吧发布会请假",
@@ -953,6 +977,14 @@
       "onboard_time": 1744872862,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 214786,
+      "num": 256867,
+      "word": "孙俪新剧开播就跳水",
+      "onboard_time": 1744882462,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 214515,
@@ -1027,12 +1059,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 208225,
-      "num": 208225,
-      "word": "原来牙齿的神经长这样",
-      "onboard_time": 1744880542,
-      "rank": 31,
-      "category": "科学科普,民生新闻"
+      "raw_hot": 208001,
+      "num": 251600,
+      "word": "孙俪马龙同框",
+      "onboard_time": 1744881803,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 207090,
+      "num": 207090,
+      "word": "多名女性进少林景区男厕被大爷训斥",
+      "onboard_time": 1744881023,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 206325,
@@ -1131,14 +1171,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 197805,
-      "num": 194358,
-      "word": "多名女性进少林景区男厕被大爷训斥",
-      "onboard_time": 1744881023,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 197372,
       "num": 197372,
       "word": "部分中国商品紧急转口马来西亚",
@@ -1184,6 +1216,14 @@
       "word": "任嘉伦演技",
       "onboard_time": 1744863382,
       "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 191069,
+      "num": 228175,
+      "word": "灵魂摆渡",
+      "onboard_time": 1744882101,
+      "rank": 24,
       "category": "剧集"
     },
     {
@@ -1275,12 +1315,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 179098,
-      "num": 179098,
-      "word": "英伟达CEO到访北京",
-      "onboard_time": 1744881261,
-      "rank": 36,
-      "category": "互联网"
+      "raw_hot": 179084,
+      "num": 228010,
+      "word": "邵子恒出道后首个综艺",
+      "onboard_time": 1744882462,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 176542,
@@ -1385,14 +1425,6 @@
       "onboard_time": 1744857621,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 163476,
-      "num": 163476,
-      "word": "宋祖儿边看无忧渡边翻花绳",
-      "onboard_time": 1744880003,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 163229,
@@ -1620,7 +1652,7 @@
     },
     {
       "raw_hot": 146822,
-      "num": 209269,
+      "num": 227923,
       "word": "无忧渡反方一辩对战七人",
       "onboard_time": 1744881681,
       "rank": 26,
@@ -1641,14 +1673,6 @@
       "onboard_time": 1744855942,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 145745,
-      "num": 208975,
-      "word": "孙俪马龙同框",
-      "onboard_time": 1744881803,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 145285,
@@ -1729,6 +1753,14 @@
       "onboard_time": 1744877302,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 138011,
+      "num": 420226,
+      "word": "夸克在台湾地区AppStore登顶爆火",
+      "onboard_time": 1744880482,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 137696,
@@ -1819,6 +1851,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132059,
+      "num": 132059,
+      "word": "谭维维下身失踪穿搭",
+      "onboard_time": 1744882582,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 131808,
+      "num": 522003,
+      "word": "外交部回应中马签署互免签证协定",
+      "onboard_time": 1744881323,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 130694,
       "num": 130694,
       "word": "孙颖莎4比0波尔卡诺娃",
@@ -1841,6 +1889,14 @@
       "onboard_time": 1744868842,
       "rank": 21,
       "category": "财经"
+    },
+    {
+      "raw_hot": 129365,
+      "num": 129365,
+      "word": "腾讯开启史上最大就业计划",
+      "onboard_time": 1744882702,
+      "rank": 41,
+      "category": "互联网"
     },
     {
       "raw_hot": 128695,
@@ -1875,6 +1931,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 124544,
+      "num": 124544,
+      "word": "张檬透露40岁之前要二胎",
+      "onboard_time": 1744882641,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 124425,
       "num": 124425,
       "word": "无忧渡拍出了牵丝戏",
@@ -1883,12 +1947,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 123381,
-      "num": 522003,
-      "word": "外交部回应中马签署互免签证协定",
-      "onboard_time": 1744881323,
-      "rank": 9,
-      "category": "国内时政"
+      "raw_hot": 123621,
+      "num": 123621,
+      "word": "我是观众我同意这仨演张家人",
+      "onboard_time": 1744882402,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 122973,
@@ -2155,12 +2219,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 94646,
-      "num": 420226,
-      "word": "夸克在台湾地区AppStore登顶爆火",
-      "onboard_time": 1744880482,
-      "rank": 14,
-      "category": "互联网"
+      "raw_hot": 96467,
+      "num": 421101,
+      "word": "国内黄金ETF规模已超千亿",
+      "onboard_time": 1744880962,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 91641,
@@ -2212,7 +2276,7 @@
     },
     {
       "raw_hot": 84414,
-      "num": 209495,
+      "num": 228066,
       "word": "向佐亲测小鹏X9直呼要再买一台",
       "onboard_time": 1744878861,
       "rank": 26,
@@ -2385,6 +2449,14 @@
       "onboard_time": 1744818621,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 62855,
+      "num": 227694,
+      "word": "18岁男生失联超半月同行者疑已出国",
+      "onboard_time": 1744881442,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62756,
@@ -2675,22 +2747,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 39104,
-      "num": 421101,
-      "word": "国内黄金ETF规模已超千亿",
-      "onboard_time": 1744880962,
-      "rank": 13,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 37854,
-      "num": 208519,
-      "word": "18岁男生失联超半月同行者疑已出国",
-      "onboard_time": 1744881442,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 37203,
       "num": 162619,
       "word": "OpenAI发布o3和o4mini",
@@ -2747,6 +2803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 31764,
+      "num": 242808,
+      "word": "机器人马拉松北京亦庄开跑",
+      "onboard_time": 1744882282,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 29768,
       "num": 109301,
       "word": "引领中马关系长期稳定发展",
@@ -2761,6 +2825,14 @@
       "onboard_time": 1744846640,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 28060,
+      "num": 163231,
+      "word": "快速算出零食热量的方法",
+      "onboard_time": 1744881742,
+      "rank": 39,
+      "category": "科学科普,民生新闻"
     },
     {
       "raw_hot": 27730,
@@ -2793,6 +2865,14 @@
       "onboard_time": 1744872443,
       "rank": 39,
       "category": "体育,民生新闻"
+    },
+    {
+      "raw_hot": 24075,
+      "num": 131857,
+      "word": "用星际穿越的方式换灯泡",
+      "onboard_time": 1744882282,
+      "rank": 39,
+      "category": "情感,议题讨论"
     },
     {
       "raw_hot": 21069,
@@ -2881,14 +2961,6 @@
       "onboard_time": 1744826776,
       "rank": 48,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 15725,
-      "num": 163231,
-      "word": "快速算出零食热量的方法",
-      "onboard_time": 1744881742,
-      "rank": 39,
-      "category": "科学科普,民生新闻"
     },
     {
       "raw_hot": 14757,
