@@ -1,6 +1,6 @@
 {
   "startTime": 1744821103506,
-  "endTime": 1744895008388,
+  "endTime": 1744896797536,
   "band_list": [
     {
       "raw_hot": 2970659,
@@ -275,6 +275,14 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 768568,
+      "num": 768568,
+      "word": "智界 刘亦菲",
+      "onboard_time": 1744894042,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 760924,
       "num": 221716,
       "word": "8个月女婴被虐待体重仅6斤",
@@ -337,6 +345,14 @@
       "onboard_time": 1744856840,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 687527,
+      "num": 252621,
+      "word": "25岁裸辞后找了个上1休1的工作",
+      "onboard_time": 1744893562,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 673248,
@@ -451,6 +467,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 571367,
+      "num": 571367,
+      "word": "妈妈说早知孩子受罪不如难产走掉",
+      "onboard_time": 1744891823,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 568029,
+      "num": 568029,
+      "word": "刘涛爆料被晋江文学小考笑趴在地上",
+      "onboard_time": 1744893322,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 562790,
       "num": 562790,
       "word": "灵魂摆渡 原班人马",
@@ -507,12 +539,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 497822,
-      "num": 497822,
-      "word": "智界 刘亦菲",
-      "onboard_time": 1744894042,
-      "rank": 36,
-      "category": "作品衍生"
+      "raw_hot": 518577,
+      "num": 253193,
+      "word": "又被面包店逼疯一个",
+      "onboard_time": 1744893022,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 489458,
@@ -771,14 +803,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 327384,
-      "num": 253193,
-      "word": "又被面包店逼疯一个",
-      "onboard_time": 1744893022,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 325824,
       "num": 325824,
       "word": "女生以为挖到超大竹笋结果被嘲笑",
@@ -811,14 +835,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 306805,
-      "num": 272953,
-      "word": "刘涛爆料被晋江文学小考笑趴在地上",
-      "onboard_time": 1744893322,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 306790,
       "num": 306790,
       "word": "黄仁勋时隔3个月再次到访北京",
@@ -849,14 +865,6 @@
       "onboard_time": 1744848382,
       "rank": 13,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 287423,
-      "num": 252621,
-      "word": "25岁裸辞后找了个上1休1的工作",
-      "onboard_time": 1744893562,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 286047,
@@ -923,6 +931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 271540,
+      "num": 271540,
+      "word": "折腰",
+      "onboard_time": 1744894402,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 267603,
       "num": 218060,
       "word": "99年女生摆摊7年靠自己成功买房",
@@ -963,12 +979,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 259252,
-      "num": 259252,
-      "word": "妈妈说早知孩子受罪不如难产走掉",
-      "onboard_time": 1744891823,
+      "raw_hot": 257739,
+      "num": 217608,
+      "word": "胡静诠释了什么叫端庄大方",
+      "onboard_time": 1744895122,
       "rank": 18,
-      "category": "民生新闻"
+      "category": "艺人"
     },
     {
       "raw_hot": 257581,
@@ -1041,6 +1057,14 @@
       "onboard_time": 1744875141,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 240095,
+      "num": 240095,
+      "word": "天女兽",
+      "onboard_time": 1744892362,
+      "rank": 29,
+      "category": "动漫"
     },
     {
       "raw_hot": 239573,
@@ -1203,14 +1227,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 224161,
-      "num": 224161,
-      "word": "天女兽",
-      "onboard_time": 1744892362,
-      "rank": 29,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 223993,
       "num": 223993,
       "word": "王安宇演技含金量",
@@ -1297,6 +1313,14 @@
       "onboard_time": 1744862843,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 209585,
+      "num": 199954,
+      "word": "刘亦菲黄亦玫限定返场",
+      "onboard_time": 1744895962,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 209260,
@@ -1395,6 +1419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200854,
+      "num": 200854,
+      "word": "12306",
+      "onboard_time": 1744896322,
+      "rank": 21,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 200387,
       "num": 200387,
       "word": "郑怡静4比3早田希娜",
@@ -1473,6 +1505,14 @@
       "onboard_time": 1744817661,
       "rank": 2,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 197932,
+      "num": 197932,
+      "word": "王楚钦采访又有新梗了",
+      "onboard_time": 1744895063,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 197372,
@@ -1707,14 +1747,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 176264,
-      "num": 183892,
-      "word": "折腰",
-      "onboard_time": 1744894402,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 176223,
       "num": 176223,
       "word": "原神",
@@ -1731,7 +1763,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 174685,
+      "raw_hot": 174932,
       "num": 183470,
       "word": "减肥要熬过这4个时间点",
       "onboard_time": 1744891402,
@@ -1740,7 +1772,7 @@
     },
     {
       "raw_hot": 173023,
-      "num": 182949,
+      "num": 199287,
       "word": "孙俪演技",
       "onboard_time": 1744894462,
       "rank": 28,
@@ -1827,12 +1859,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 166356,
+      "num": 166356,
+      "word": "33职业七周年太有排面了",
+      "onboard_time": 1744896083,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 166182,
       "num": 166182,
       "word": "小学生看了两眼发现罂粟",
       "onboard_time": 1744815381,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 165972,
+      "num": 165972,
+      "word": "张本美和谈全场最关键的一个球",
+      "onboard_time": 1744895543,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 165453,
@@ -1947,6 +1995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158820,
+      "num": 158820,
+      "word": "外媒曝黄仁勋与DeepSeek创始人见面",
+      "onboard_time": 1744895662,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 158625,
       "num": 158625,
       "word": "孙颖莎11比3波尔卡诺娃",
@@ -1969,6 +2025,14 @@
       "onboard_time": 1744856780,
       "rank": 32,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 155925,
+      "num": 155925,
+      "word": "蒯曼vs徐孝元",
+      "onboard_time": 1744896382,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 155276,
@@ -2001,6 +2065,14 @@
       "onboard_time": 1744889482,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152175,
+      "num": 152175,
+      "word": "内蒙古一两烧麦随机吃撑一个外地人",
+      "onboard_time": 1744896083,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151880,
@@ -2235,6 +2307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143848,
+      "num": 143848,
+      "word": "金玉良缘",
+      "onboard_time": 1744896562,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142105,
       "num": 142105,
       "word": "女子抑郁躯体化治愈送999朵玫瑰谢医生",
@@ -2371,6 +2451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135863,
+      "num": 661175,
+      "word": "美国关税讹诈是典型的霸凌行为",
+      "onboard_time": 1744888882,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135170,
       "num": 135170,
       "word": "凤凰传奇曾毅路过全网爆梗",
@@ -2393,6 +2481,14 @@
       "onboard_time": 1744889001,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 134218,
+      "num": 210959,
+      "word": "李晟说自己不是翻红而是在路上",
+      "onboard_time": 1744895362,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 133386,
@@ -2537,6 +2633,14 @@
       "onboard_time": 1744891881,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126150,
+      "num": 126150,
+      "word": "智界品牌之夜",
+      "onboard_time": 1744895782,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 125912,
@@ -2931,6 +3035,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 96042,
+      "num": 152452,
+      "word": "王楚钦说不太敢看对手的高抛球",
+      "onboard_time": 1744895543,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91641,
       "num": 91641,
       "word": "美企说承受不起巨额关税账单",
@@ -2945,14 +3057,6 @@
       "onboard_time": 1744888581,
       "rank": 39,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 88847,
-      "num": 661175,
-      "word": "美国关税讹诈是典型的霸凌行为",
-      "onboard_time": 1744888882,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 88643,
@@ -3075,6 +3179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74739,
+      "num": 198555,
+      "word": "王楚钦丢球后打了自己一巴掌",
+      "onboard_time": 1744896201,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 74566,
       "num": 169760,
       "word": "肿瘤患者掉体重有多危险",
@@ -3113,6 +3225,14 @@
       "onboard_time": 1744876521,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 71648,
+      "num": 232865,
+      "word": "山西一镇95%适龄儿童选择去县城上学",
+      "onboard_time": 1744895662,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70962,
@@ -3363,6 +3483,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 49722,
+      "num": 638233,
+      "word": "60秒带你看柬埔寨",
+      "onboard_time": 1744895901,
+      "rank": 2,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 49654,
       "num": 208527,
       "word": "曝特朗普政府要求取消哈佛免税资格",
@@ -3401,6 +3529,14 @@
       "onboard_time": 1744877482,
       "rank": 37,
       "category": "幽默,议题讨论"
+    },
+    {
+      "raw_hot": 46337,
+      "num": 198685,
+      "word": "30岁进青年养老院的人后悔了",
+      "onboard_time": 1744895901,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46120,
@@ -3571,6 +3707,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 34738,
+      "num": 154682,
+      "word": "其实人生根本不需要提前焦虑",
+      "onboard_time": 1744895901,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 34098,
       "num": 218625,
       "word": "男童被虐致死案生父女友至今未道歉",
@@ -3667,6 +3811,14 @@
       "category": "情感,议题讨论"
     },
     {
+      "raw_hot": 23377,
+      "num": 230563,
+      "word": "谢震业想第五次登上奥运赛场",
+      "onboard_time": 1744894881,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 22007,
       "num": 166318,
       "word": "怪盗圣少女这是真女神",
@@ -3713,14 +3865,6 @@
       "onboard_time": 1744828455,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 19503,
-      "num": 130646,
-      "word": "谢震业想第五次登上奥运赛场",
-      "onboard_time": 1744894881,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 19276,
@@ -3785,6 +3929,14 @@
       "onboard_time": 1744826776,
       "rank": 48,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 15867,
+      "num": 238883,
+      "word": "解锁5.4%增长背后的活力密码",
+      "onboard_time": 1744896263,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 14757,

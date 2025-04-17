@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744895008388,
+  "endTime": 1744896797536,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -5667,6 +5667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 768568,
+      "num": 768568,
+      "word": "智界 刘亦菲",
+      "onboard_time": 1744894042,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 767652,
       "num": 767652,
       "word": "美国完全是在耍赖抢钱",
@@ -6497,6 +6505,14 @@
       "onboard_time": 1744779322,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 687527,
+      "num": 252621,
+      "word": "25岁裸辞后找了个上1休1的工作",
+      "onboard_time": 1744893562,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 686112,
@@ -7987,6 +8003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 571367,
+      "num": 571367,
+      "word": "妈妈说早知孩子受罪不如难产走掉",
+      "onboard_time": 1744891823,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 570012,
       "num": 386570,
       "word": "歌手 张惠妹",
@@ -8049,6 +8073,14 @@
       "onboard_time": 1743639503,
       "rank": 12,
       "category": "网红"
+    },
+    {
+      "raw_hot": 568029,
+      "num": 568029,
+      "word": "刘涛爆料被晋江文学小考笑趴在地上",
+      "onboard_time": 1744893322,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 565906,
@@ -8891,6 +8923,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 518577,
+      "num": 253193,
+      "word": "又被面包店逼疯一个",
+      "onboard_time": 1744893022,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 517442,
       "num": 333706,
       "word": "让体重逐渐下降的40个冷知识",
@@ -9329,14 +9369,6 @@
       "onboard_time": 1743998903,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 497822,
-      "num": 497822,
-      "word": "智界 刘亦菲",
-      "onboard_time": 1744894042,
-      "rank": 36,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 497362,
@@ -14203,14 +14235,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 327384,
-      "num": 253193,
-      "word": "又被面包店逼疯一个",
-      "onboard_time": 1744893022,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 327288,
       "num": 327288,
       "word": "倪妮瑞士被偶遇",
@@ -15137,14 +15161,6 @@
       "onboard_time": 1744604664,
       "rank": 35,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 306805,
-      "num": 272953,
-      "word": "刘涛爆料被晋江文学小考笑趴在地上",
-      "onboard_time": 1744893322,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 306790,
@@ -16121,14 +16137,6 @@
       "onboard_time": 1744444163,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 287423,
-      "num": 252621,
-      "word": "25岁裸辞后找了个上1休1的工作",
-      "onboard_time": 1744893562,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 287392,
@@ -17771,14 +17779,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 259252,
-      "num": 259252,
-      "word": "妈妈说早知孩子受罪不如难产走掉",
-      "onboard_time": 1744891823,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 259224,
       "num": 371984,
       "word": "女子夜乘顺风车司机全程智驾玩手机",
@@ -17881,6 +17881,14 @@
       "onboard_time": 1744117943,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 257739,
+      "num": 217608,
+      "word": "胡静诠释了什么叫端庄大方",
+      "onboard_time": 1744895122,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 257621,
@@ -18969,6 +18977,14 @@
       "onboard_time": 1744249580,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 240095,
+      "num": 240095,
+      "word": "天女兽",
+      "onboard_time": 1744892362,
+      "rank": 29,
+      "category": "动漫"
     },
     {
       "raw_hot": 239950,
@@ -20481,14 +20497,6 @@
       "onboard_time": 1744263505,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 224161,
-      "num": 224161,
-      "word": "天女兽",
-      "onboard_time": 1744892362,
-      "rank": 29,
-      "category": "动漫"
     },
     {
       "raw_hot": 223993,
@@ -22107,6 +22115,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 209585,
+      "num": 199954,
+      "word": "刘亦菲黄亦玫限定返场",
+      "onboard_time": 1744895962,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209466,
       "num": 251005,
       "word": "F勒布伦无缘世界杯16强",
@@ -23691,6 +23707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200854,
+      "num": 200854,
+      "word": "12306",
+      "onboard_time": 1744896322,
+      "rank": 21,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 200623,
       "num": 200623,
       "word": "女子泼水节被男子高压水枪呲眼",
@@ -24289,6 +24313,14 @@
       "onboard_time": 1744375462,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 197932,
+      "num": 197932,
+      "word": "王楚钦采访又有新梗了",
+      "onboard_time": 1744895063,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 197911,
@@ -29091,6 +29123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 174932,
+      "num": 183470,
+      "word": "减肥要熬过这4个时间点",
+      "onboard_time": 1744891402,
+      "rank": 42,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 174898,
       "num": 174898,
       "word": "九尾海月MVP",
@@ -29137,14 +29177,6 @@
       "onboard_time": 1744648520,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 174685,
-      "num": 183470,
-      "word": "减肥要熬过这4个时间点",
-      "onboard_time": 1744891402,
-      "rank": 42,
-      "category": "运动健身"
     },
     {
       "raw_hot": 174676,
@@ -29372,7 +29404,7 @@
     },
     {
       "raw_hot": 173023,
-      "num": 182949,
+      "num": 199287,
       "word": "孙俪演技",
       "onboard_time": 1743778341,
       "rank": 27,
@@ -30627,6 +30659,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 166356,
+      "num": 166356,
+      "word": "33职业七周年太有排面了",
+      "onboard_time": 1744896083,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 166245,
       "num": 166245,
       "word": "鹿晗正定vlog下集",
@@ -30665,6 +30705,14 @@
       "onboard_time": 1744550842,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 165972,
+      "num": 165972,
+      "word": "张本美和谈全场最关键的一个球",
+      "onboard_time": 1744895543,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 165935,
@@ -32187,6 +32235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 158820,
+      "num": 158820,
+      "word": "外媒曝黄仁勋与DeepSeek创始人见面",
+      "onboard_time": 1744895662,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 158810,
       "num": 268629,
       "word": "张艺兴谈从偶像到演员",
@@ -32793,6 +32849,14 @@
       "onboard_time": 1744682481,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 155925,
+      "num": 155925,
+      "word": "蒯曼vs徐孝元",
+      "onboard_time": 1744896382,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 155919,
@@ -33553,6 +33617,14 @@
       "onboard_time": 1744605684,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152175,
+      "num": 152175,
+      "word": "内蒙古一两烧麦随机吃撑一个外地人",
+      "onboard_time": 1744896083,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152097,
@@ -35539,6 +35611,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 143848,
+      "num": 143848,
+      "word": "金玉良缘",
+      "onboard_time": 1744896562,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143833,
       "num": 156342,
       "word": "吴宣仪今天当倪虹洁站姐",
@@ -37459,6 +37539,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 135863,
+      "num": 661175,
+      "word": "美国关税讹诈是典型的霸凌行为",
+      "onboard_time": 1744888882,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135781,
       "num": 135781,
       "word": "simon EDG",
@@ -37912,6 +38000,14 @@
       "word": "王鹤棣假期出游",
       "onboard_time": 1743947545,
       "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 134218,
+      "num": 210959,
+      "word": "李晟说自己不是翻红而是在路上",
+      "onboard_time": 1744895362,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -39921,6 +40017,14 @@
       "onboard_time": 1744266682,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 126150,
+      "num": 126150,
+      "word": "智界品牌之夜",
+      "onboard_time": 1744895782,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 126103,
@@ -45507,6 +45611,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 96042,
+      "num": 152452,
+      "word": "王楚钦说不太敢看对手的高抛球",
+      "onboard_time": 1744895543,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95907,
       "num": 95907,
       "word": "林宥嘉说很开心来到王源演唱会",
@@ -46241,14 +46353,6 @@
       "onboard_time": 1744456643,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 88847,
-      "num": 661175,
-      "word": "美国关税讹诈是典型的霸凌行为",
-      "onboard_time": 1744888882,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 88749,
@@ -47867,6 +47971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 74739,
+      "num": 198555,
+      "word": "王楚钦丢球后打了自己一巴掌",
+      "onboard_time": 1744896201,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 74731,
       "num": 228781,
       "word": "女子医美祛斑致面部九级伤残",
@@ -48257,6 +48369,14 @@
       "onboard_time": 1744348163,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 71648,
+      "num": 232865,
+      "word": "山西一镇95%适龄儿童选择去县城上学",
+      "onboard_time": 1744895662,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71187,
@@ -50883,6 +51003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49722,
+      "num": 638233,
+      "word": "60秒带你看柬埔寨",
+      "onboard_time": 1744895901,
+      "rank": 2,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 49654,
       "num": 208527,
       "word": "曝特朗普政府要求取消哈佛免税资格",
@@ -51272,6 +51400,14 @@
       "word": "加油站中大奖等半年被告知作废",
       "onboard_time": 1743575361,
       "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46337,
+      "num": 198685,
+      "word": "30岁进青年养老院的人后悔了",
+      "onboard_time": 1744895901,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -53009,6 +53145,14 @@
       "onboard_time": 1744077923,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 34738,
+      "num": 154682,
+      "word": "其实人生根本不需要提前焦虑",
+      "onboard_time": 1744895901,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 34736,
@@ -54779,6 +54923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23377,
+      "num": 230563,
+      "word": "谢震业想第五次登上奥运赛场",
+      "onboard_time": 1744894881,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 23375,
       "num": 23375,
       "word": "檀健次六分钟饭撒",
@@ -55425,14 +55577,6 @@
       "onboard_time": 1744052894,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 19503,
-      "num": 130646,
-      "word": "谢震业想第五次登上奥运赛场",
-      "onboard_time": 1744894881,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 19439,
@@ -56089,6 +56233,14 @@
       "onboard_time": 1744270282,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15867,
+      "num": 238883,
+      "word": "解锁5.4%增长背后的活力密码",
+      "onboard_time": 1744896263,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 15828,
