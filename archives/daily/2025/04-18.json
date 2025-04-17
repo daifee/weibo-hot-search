@@ -1,7 +1,15 @@
 {
   "startTime": 1744907462255,
-  "endTime": 1744929635751,
+  "endTime": 1744932205950,
   "band_list": [
+    {
+      "raw_hot": 1007415,
+      "num": 1007415,
+      "word": "一家人出门没拔充电器家里被烧光",
+      "onboard_time": 1744903342,
+      "rank": 5,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 901179,
       "num": 909813,
@@ -27,7 +35,15 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 673137,
+      "raw_hot": 695540,
+      "num": 695540,
+      "word": "医院回应女子微创手术后脑死亡",
+      "onboard_time": 1744906400,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 685820,
       "num": 319589,
       "word": "男子欲与女技师发生性关系被控强奸",
       "onboard_time": 1744891040,
@@ -51,14 +67,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 575610,
-      "num": 575610,
-      "word": "一家人出门没拔充电器家里被烧光",
-      "onboard_time": 1744903342,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 504690,
       "num": 504690,
       "word": "金玉良缘",
@@ -75,16 +83,24 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 453890,
-      "num": 453890,
-      "word": "医院回应女子微创手术后脑死亡",
-      "onboard_time": 1744906400,
-      "rank": 9,
+      "raw_hot": 446398,
+      "num": 317255,
+      "word": "儿媳每月给婆婆3000元感谢其帮带娃",
+      "onboard_time": 1744898063,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 361810,
-      "num": 361810,
+      "raw_hot": 441195,
+      "num": 441195,
+      "word": "特朗普用收税威胁哈佛道歉",
+      "onboard_time": 1744920674,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 367887,
+      "num": 367887,
       "word": "黄仁勋承认美芯片限令影响巨大",
       "onboard_time": 1744905500,
       "rank": 8,
@@ -107,11 +123,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 317255,
-      "num": 317255,
-      "word": "儿媳每月给婆婆3000元感谢其帮带娃",
-      "onboard_time": 1744898063,
-      "rank": 13,
+      "raw_hot": 324814,
+      "num": 254064,
+      "word": "导演澄清陈妍希张书豪绯闻",
+      "onboard_time": 1744903523,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 314016,
+      "num": 314016,
+      "word": "售楼部回应房价4年后打4折",
+      "onboard_time": 1744906340,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -123,6 +147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 253950,
+      "num": 253950,
+      "word": "杭铁回应地铁口被吐槽像棺材",
+      "onboard_time": 1744901662,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 244434,
       "num": 244434,
       "word": "丁程鑫发博安慰粉丝",
@@ -131,12 +163,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 209751,
-      "num": 209751,
-      "word": "特朗普用收税威胁哈佛道歉",
-      "onboard_time": 1744920674,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 202976,
+      "num": 202976,
+      "word": "认养一头牛称暂不考虑撤掉广告",
+      "onboard_time": 1744892421,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 202575,
@@ -147,28 +179,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 198159,
-      "num": 198159,
-      "word": "售楼部回应房价4年后打4折",
-      "onboard_time": 1744906340,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 198116,
-      "num": 124012,
+      "num": 178908,
       "word": "湖南卫视连发20条杨幂",
       "onboard_time": 1744907538,
       "rank": 31,
       "category": "艺人"
     },
     {
-      "raw_hot": 171482,
-      "num": 171482,
-      "word": "导演澄清陈妍希张书豪绯闻",
-      "onboard_time": 1744903523,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 189087,
+      "num": 245147,
+      "word": "关税成本最终将转嫁给美国普通消费者",
+      "onboard_time": 1744904482,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 160588,
@@ -187,14 +211,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 154043,
-      "num": 154043,
-      "word": "认养一头牛称暂不考虑撤掉广告",
-      "onboard_time": 1744892421,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 146514,
       "num": 146514,
       "word": "皮肤瘙痒发黄还有蜘蛛痣最好查查肝",
@@ -204,7 +220,7 @@
     },
     {
       "raw_hot": 142046,
-      "num": 177530,
+      "num": 299410,
       "word": "肖战张婧仪藏海传Q2播出",
       "onboard_time": 1744898602,
       "rank": 23,
@@ -227,8 +243,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 135952,
-      "num": 135952,
+      "raw_hot": 136084,
+      "num": 136084,
       "word": "36岁张檬备孕3年迎来蛇宝宝",
       "onboard_time": 1744905441,
       "rank": 34,
@@ -251,14 +267,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 123141,
-      "num": 245147,
-      "word": "关税成本最终将转嫁给美国普通消费者",
-      "onboard_time": 1744904482,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 117248,
       "num": 117248,
       "word": "戒掉咖啡一个月后的身体变化",
@@ -267,20 +275,20 @@
       "category": "幽默,民生新闻"
     },
     {
-      "raw_hot": 116810,
-      "num": 106364,
-      "word": "杭铁回应地铁口被吐槽像棺材",
-      "onboard_time": 1744901662,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 107762,
       "num": 107762,
       "word": "朱一龙吴磊等将亮相北影节红毯",
       "onboard_time": 1744900224,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 94761,
+      "num": 289512,
+      "word": "王牌对王牌9将回归",
+      "onboard_time": 1744925054,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 91353,
@@ -307,20 +315,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 80315,
+      "num": 80315,
+      "word": "女主播3年顿顿吃外卖查出胃癌",
+      "onboard_time": 1744900224,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78557,
+      "num": 78557,
+      "word": "美国人来华扫货消费金额短期暴涨",
+      "onboard_time": 1744909097,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77055,
       "num": 77055,
       "word": "刘亦菲导航语音包",
       "onboard_time": 1744905921,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 75198,
-      "num": 75198,
-      "word": "女主播3年顿顿吃外卖查出胃癌",
-      "onboard_time": 1744900224,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 74369,
@@ -331,19 +347,11 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 73060,
-      "num": 179075,
-      "word": "王牌对王牌9将回归",
-      "onboard_time": 1744925054,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 66458,
-      "num": 66458,
-      "word": "美国人来华扫货消费金额短期暴涨",
-      "onboard_time": 1744909097,
-      "rank": 32,
+      "raw_hot": 68299,
+      "num": 68299,
+      "word": "女子因提分手被60岁男友杀害案将开庭",
+      "onboard_time": 1744917794,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -435,6 +443,30 @@
       "category": "网红,民生新闻"
     },
     {
+      "raw_hot": 50047,
+      "num": 50047,
+      "word": "10只小强背上特制相机包组队救人",
+      "onboard_time": 1744929677,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49999,
+      "num": 68596,
+      "word": "虞书欣回应送全红婵娃娃",
+      "onboard_time": 1744917673,
+      "rank": 39,
+      "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 48454,
+      "num": 48454,
+      "word": "孙俪胡杏儿烈日灼阳vs阳春白雪",
+      "onboard_time": 1744929797,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 45458,
       "num": 65781,
       "word": "澳门世界杯8强对阵",
@@ -443,12 +475,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 44274,
-      "num": 44274,
-      "word": "女子因提分手被60岁男友杀害案将开庭",
-      "onboard_time": 1744917794,
-      "rank": 43,
+      "raw_hot": 43359,
+      "num": 46885,
+      "word": "旅游博主境外直播被间谍盯上",
+      "onboard_time": 1744910297,
+      "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41629,
+      "num": 46875,
+      "word": "在王祖蓝和王祖贤之间随意切换",
+      "onboard_time": 1744921333,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 34210,
@@ -483,14 +523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 29314,
-      "num": 40658,
-      "word": "旅游博主境外直播被间谍盯上",
-      "onboard_time": 1744910297,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 26471,
       "num": 74339,
       "word": "王楚钦又打大头了",
@@ -499,12 +531,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 25785,
-      "num": 43006,
-      "word": "虞书欣回应送全红婵娃娃",
-      "onboard_time": 1744917673,
-      "rank": 39,
-      "category": "艺人,体育"
+      "raw_hot": 26418,
+      "num": 478805,
+      "word": "60秒带你看柬埔寨",
+      "onboard_time": 1744895901,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25898,
+      "num": 46845,
+      "word": "陈紫函cos紫萱",
+      "onboard_time": 1744931900,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 24943,
@@ -521,14 +561,6 @@
       "onboard_time": 1744914195,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 22142,
-      "num": 28694,
-      "word": "在王祖蓝和王祖贤之间随意切换",
-      "onboard_time": 1744921333,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 21058,
@@ -569,14 +601,6 @@
       "onboard_time": 1744914135,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 15639,
-      "num": 378158,
-      "word": "60秒带你看柬埔寨",
-      "onboard_time": 1744895901,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14661,
