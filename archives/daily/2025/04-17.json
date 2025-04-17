@@ -1,6 +1,6 @@
 {
   "startTime": 1744821103506,
-  "endTime": 1744871676168,
+  "endTime": 1744872466581,
   "band_list": [
     {
       "raw_hot": 2125500,
@@ -51,8 +51,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1451847,
+      "num": 351392,
+      "word": "内裤袜子丢进洗衣机里比手洗好",
+      "onboard_time": 1744867461,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1362001,
-      "num": 317588,
+      "num": 345163,
       "word": "世纪佳缘取消3人婚礼预定",
       "onboard_time": 1744866683,
       "rank": 30,
@@ -65,14 +73,6 @@
       "onboard_time": 1744853062,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1281797,
-      "num": 313749,
-      "word": "内裤袜子丢进洗衣机里比手洗好",
-      "onboard_time": 1744867461,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 1182705,
@@ -97,6 +97,14 @@
       "onboard_time": 1744860141,
       "rank": 0,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 1026332,
+      "num": 1164213,
+      "word": "柬埔寨",
+      "onboard_time": 1744867402,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 979847,
@@ -171,16 +179,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 743972,
-      "num": 743972,
-      "word": "柬埔寨",
-      "onboard_time": 1744867402,
-      "rank": 44,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 732315,
-      "num": 534091,
+      "num": 554199,
       "word": "长期处于饥饿状态会怎么样",
       "onboard_time": 1744861461,
       "rank": 20,
@@ -372,7 +372,7 @@
     },
     {
       "raw_hot": 382721,
-      "num": 206043,
+      "num": 324709,
       "word": "两个50岁不自律女生同居的一天",
       "onboard_time": 1744869802,
       "rank": 30,
@@ -393,6 +393,14 @@
       "onboard_time": 1744812264,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 354523,
+      "num": 354523,
+      "word": "特朗普突然亲自与日本谈判",
+      "onboard_time": 1744870941,
+      "rank": 20,
+      "category": "国际时政"
     },
     {
       "raw_hot": 353073,
@@ -481,6 +489,14 @@
       "onboard_time": 1744848382,
       "rank": 13,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 288780,
+      "num": 288780,
+      "word": "1.68米女子被忽悠断骨增高每天打止痛针",
+      "onboard_time": 1744870761,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 286047,
@@ -619,6 +635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 236237,
+      "num": 330430,
+      "word": "电影东极岛角色造型曝光",
+      "onboard_time": 1744872022,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 236131,
       "num": 236131,
       "word": "国台办回应Tank感谢祖国",
@@ -715,6 +739,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 211852,
+      "num": 324737,
+      "word": "孙颖莎下轮对阵郑怡静",
+      "onboard_time": 1744871303,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 211627,
       "num": 211627,
       "word": "中方不予理会美方关税数字游戏",
@@ -755,14 +787,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 207372,
-      "num": 207372,
-      "word": "1.68米女子被忽悠断骨增高每天打止痛针",
-      "onboard_time": 1744870761,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 206325,
       "num": 206325,
       "word": "灵魂摆渡十年",
@@ -784,14 +808,6 @@
       "word": "欧冠",
       "onboard_time": 1744846278,
       "rank": 13,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 204494,
-      "num": 204494,
-      "word": "孙颖莎下轮对阵郑怡静",
-      "onboard_time": 1744871303,
-      "rank": 31,
       "category": "体育"
     },
     {
@@ -841,6 +857,14 @@
       "onboard_time": 1744817661,
       "rank": 2,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 193958,
+      "num": 193958,
+      "word": "孙颖莎最萌身高差",
+      "onboard_time": 1744872263,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 193914,
@@ -904,6 +928,14 @@
       "word": "广东廉江一家三口遭同村村民杀害",
       "onboard_time": 1744846759,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 183025,
+      "num": 324709,
+      "word": "武汉一54层江景房顶出现楼上楼",
+      "onboard_time": 1744871361,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -979,6 +1011,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 168243,
+      "num": 304579,
+      "word": "张檬晒小五剪脐带照",
+      "onboard_time": 1744872141,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166859,
       "num": 207630,
       "word": "大麦网总裁分享华晨宇日出演唱会",
@@ -1051,12 +1091,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158625,
+      "num": 158625,
+      "word": "孙颖莎11比3波尔卡诺娃",
+      "onboard_time": 1744871963,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157528,
       "num": 157528,
       "word": "美方畸高关税在经济上已无实际意义",
       "onboard_time": 1744856780,
       "rank": 32,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 156560,
+      "num": 227805,
+      "word": "董力把家人气到失眠",
+      "onboard_time": 1744871902,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 155077,
@@ -1203,6 +1259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140638,
+      "num": 140638,
+      "word": "种地吧导演回应缺人",
+      "onboard_time": 1744872322,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139954,
       "num": 179068,
       "word": "歌手 网飞直播",
@@ -1217,14 +1281,6 @@
       "onboard_time": 1744855281,
       "rank": 34,
       "category": "财经"
-    },
-    {
-      "raw_hot": 138887,
-      "num": 281320,
-      "word": "特朗普突然亲自与日本谈判",
-      "onboard_time": 1744870941,
-      "rank": 20,
-      "category": "国际时政"
     },
     {
       "raw_hot": 137696,
@@ -1307,11 +1363,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130694,
+      "num": 130694,
+      "word": "孙颖莎4比0波尔卡诺娃",
+      "onboard_time": 1744872022,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129840,
       "num": 180010,
       "word": "A股芯片股爆发",
       "onboard_time": 1744857621,
       "rank": 24,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 129772,
+      "num": 336688,
+      "word": "金价疯涨孙悟空都得卖金箍棒",
+      "onboard_time": 1744868842,
+      "rank": 21,
       "category": "财经"
     },
     {
@@ -1395,14 +1467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 116590,
-      "num": 280977,
-      "word": "金价疯涨孙悟空都得卖金箍棒",
-      "onboard_time": 1744868842,
-      "rank": 21,
-      "category": "财经"
-    },
-    {
       "raw_hot": 113709,
       "num": 113709,
       "word": "不要挽回土象星座",
@@ -1417,14 +1481,6 @@
       "onboard_time": 1744864043,
       "rank": 28,
       "category": "财经"
-    },
-    {
-      "raw_hot": 112999,
-      "num": 280892,
-      "word": "武汉一54层江景房顶出现楼上楼",
-      "onboard_time": 1744871361,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 112832,
@@ -1859,6 +1915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 51306,
+      "num": 304875,
+      "word": "认养一头牛曾被要求披露是否涉传销",
+      "onboard_time": 1744870582,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50855,
       "num": 191864,
       "word": "苹果市值再跌破3万亿美元",
@@ -1923,6 +1987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45403,
+      "num": 159568,
+      "word": "中柬关系始终坚如磐石",
+      "onboard_time": 1744872443,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 44672,
       "num": 181558,
       "word": "00后整顿职场是对还是错",
@@ -1944,14 +2016,6 @@
       "word": "律师称遭虐死幼童生父明显失职",
       "onboard_time": 1744863863,
       "rank": 25,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 42709,
-      "num": 304875,
-      "word": "认养一头牛曾被要求披露是否涉传销",
-      "onboard_time": 1744870582,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -1985,6 +2049,14 @@
       "onboard_time": 1744821500,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36245,
+      "num": 234907,
+      "word": "WTA更新郑钦文形象照",
+      "onboard_time": 1744872322,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 35357,
@@ -2041,6 +2113,14 @@
       "onboard_time": 1744869802,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25116,
+      "num": 158718,
+      "word": "世界抓人大赛中美团队对决",
+      "onboard_time": 1744872443,
+      "rank": 39,
+      "category": "体育,民生新闻"
     },
     {
       "raw_hot": 21069,
@@ -2129,6 +2209,14 @@
       "onboard_time": 1744864825,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 10392,
+      "num": 226017,
+      "word": "2025年苏迪曼杯倒计时",
+      "onboard_time": 1744872380,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 9214,
