@@ -1,0 +1,410 @@
+{
+  "runTime": 1744861844308,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 979847,
+        "num": 1156775,
+        "word": "小米汽车",
+        "onboard_time": 1744860141,
+        "rank": 0,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 632767,
+        "num": 871727,
+        "word": "男童被生父女友虐死案开庭",
+        "onboard_time": 1744856840,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138621,
+        "num": 832380,
+        "word": "警惕美国正向全世界摊派空气税",
+        "onboard_time": 1744817661,
+        "rank": 2,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 794445,
+        "num": 794445,
+        "word": "歌手 单依纯",
+        "onboard_time": 1744853062,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 685947,
+        "num": 685947,
+        "word": "白宫承认中方没打来过电话",
+        "onboard_time": 1744847722,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 943746,
+        "num": 683877,
+        "word": "认养一头牛广告被指嘲讽打工人",
+        "onboard_time": 1744854141,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 552972,
+        "num": 552972,
+        "word": "李昊种地的三年",
+        "onboard_time": 1744854080,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 495773,
+        "num": 495773,
+        "word": "东极岛",
+        "onboard_time": 1744857441,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 415399,
+        "num": 415399,
+        "word": "被虐死男童生父以被害者家属身份出庭",
+        "onboard_time": 1744859602,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42056,
+        "num": 412398,
+        "word": "唐仁健被提起公诉",
+        "onboard_time": 1744857500,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1491516,
+        "num": 407378,
+        "word": "终于有剧拍了离婚女人有多爽了",
+        "onboard_time": 1744860321,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1015748,
+        "num": 403178,
+        "word": "江西景德镇发生一起刑事案件",
+        "onboard_time": 1744856360,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 730308,
+        "num": 397360,
+        "word": "钟汉良朱珠吻戏",
+        "onboard_time": 1744859120,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80149,
+        "num": 391356,
+        "word": "首批吃卤鹅的游客已抵达重庆荣昌",
+        "onboard_time": 1744860562,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65394,
+        "num": 385771,
+        "word": "青岛多孩家庭购房最高补贴10万",
+        "onboard_time": 1744858880,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307940,
+        "num": 376918,
+        "word": "杨紫白鹿等火到柬埔寨了",
+        "onboard_time": 1744861461,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48358,
+        "num": 373283,
+        "word": "梁靖崑VS户上隼辅",
+        "onboard_time": 1744858341,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 371210,
+        "num": 371210,
+        "word": "12306候补",
+        "onboard_time": 1744850543,
+        "rank": 17,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 240630,
+        "num": 368898,
+        "word": "北影节表演嘉宾",
+        "onboard_time": 1744860681,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 72086,
+        "num": 355388,
+        "word": "能叫停关税的只有美债",
+        "onboard_time": 1744860922,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 397600,
+        "num": 338258,
+        "word": "长期处于饥饿状态会怎么样",
+        "onboard_time": 1744861461,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 252561,
+        "num": 327264,
+        "word": "半个娱乐圈团建的含金量",
+        "onboard_time": 1744861403,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 325824,
+        "num": 325824,
+        "word": "女生以为挖到超大竹笋结果被嘲笑",
+        "onboard_time": 1744859421,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296259,
+        "num": 296259,
+        "word": "贺峻霖北京电影节表演嘉宾",
+        "onboard_time": 1744861042,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 295271,
+        "num": 295271,
+        "word": "特朗普吹牛日入20亿关税被揭穿",
+        "onboard_time": 1744853062,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 227183,
+        "num": 227183,
+        "word": "李晟吴宣仪宋妍霏一组",
+        "onboard_time": 1744860260,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222161,
+        "num": 222161,
+        "word": "网剧权宠开播",
+        "onboard_time": 1744860562,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122973,
+        "num": 221630,
+        "word": "合资能不能做好智能化",
+        "onboard_time": 1744861461,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 34098,
+        "num": 218625,
+        "word": "男童被虐致死案生父女友至今未道歉",
+        "onboard_time": 1744860200,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27730,
+        "num": 215472,
+        "word": "蜜桃粉穿搭",
+        "onboard_time": 1744861340,
+        "rank": 29,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 167619,
+        "num": 210315,
+        "word": "肖战新浪娱乐VCR",
+        "onboard_time": 1744859481,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1129000,
+        "num": 206243,
+        "word": "老爸评测避孕套pH",
+        "onboard_time": 1744859900,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 205662,
+        "num": 205662,
+        "word": "老兵身上33枚钢珠被医生误认成项链",
+        "onboard_time": 1744856540,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203192,
+        "num": 203192,
+        "word": "毛毛果已缺货",
+        "onboard_time": 1744817242,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 196204,
+        "num": 196204,
+        "word": "张檬晒照官宣生子",
+        "onboard_time": 1744861641,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50855,
+        "num": 191864,
+        "word": "苹果市值再跌破3万亿美元",
+        "onboard_time": 1744861102,
+        "rank": 35,
+        "category": "财经,数码"
+      },
+      {
+        "raw_hot": 166700,
+        "num": 191803,
+        "word": "原神超话",
+        "onboard_time": 1744860741,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 191802,
+        "num": 191802,
+        "word": "公公给儿媳59克黄金当改口红包",
+        "onboard_time": 1744846521,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181390,
+        "num": 181390,
+        "word": "以为很干净其实很脏的生活习惯",
+        "onboard_time": 1744846521,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180633,
+        "num": 180633,
+        "word": "浪姐五公分组",
+        "onboard_time": 1744856721,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170082,
+        "num": 170082,
+        "word": "韩庚新剧爆改流浪汉",
+        "onboard_time": 1744860922,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169926,
+        "num": 169926,
+        "word": "懂事的大学生已经在为五一做准备了",
+        "onboard_time": 1744861461,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163203,
+        "num": 163203,
+        "word": "一站到底回归",
+        "onboard_time": 1744861403,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158601,
+        "num": 158601,
+        "word": "路人发现女子头孢配酒果断报警",
+        "onboard_time": 1744857621,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148972,
+        "num": 148972,
+        "word": "认养一头牛回应广告争议",
+        "onboard_time": 1744854442,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147869,
+        "num": 147869,
+        "word": "5吨大米淘500克金米被指浪费粮食",
+        "onboard_time": 1744861762,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146423,
+        "num": 146423,
+        "word": "5月只需上19天班",
+        "onboard_time": 1744855942,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144842,
+        "num": 144842,
+        "word": "全红婵陈芋汐2小时内决胜负",
+        "onboard_time": 1744857080,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141087,
+        "num": 141087,
+        "word": "赵奕欢素颜打羽毛球",
+        "onboard_time": 1744858880,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139374,
+        "num": 139374,
+        "word": "外交部回应美对华加征245%关税",
+        "onboard_time": 1744789041,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同马来西亚总理举行会谈#"
+    }
+  }
+}

@@ -1,14 +1,22 @@
 {
   "startTime": 1744821103506,
-  "endTime": 1744859792862,
+  "endTime": 1744861844308,
   "band_list": [
     {
       "raw_hot": 1539120,
-      "num": 387166,
+      "num": 403178,
       "word": "江西景德镇发生一起刑事案件",
       "onboard_time": 1744856360,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1491516,
+      "num": 407378,
+      "word": "终于有剧拍了离婚女人有多爽了",
+      "onboard_time": 1744860321,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 1481763,
@@ -33,6 +41,22 @@
       "onboard_time": 1744853062,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1129000,
+      "num": 206243,
+      "word": "老爸评测避孕套pH",
+      "onboard_time": 1744859900,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 979847,
+      "num": 1156775,
+      "word": "小米汽车",
+      "onboard_time": 1744860141,
+      "rank": 0,
+      "category": "汽车"
     },
     {
       "raw_hot": 971104,
@@ -75,6 +99,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 730308,
+      "num": 397360,
+      "word": "钟汉良朱珠吻戏",
+      "onboard_time": 1744859120,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 725340,
       "num": 1163834,
       "word": "黄金",
@@ -84,7 +116,7 @@
     },
     {
       "raw_hot": 721132,
-      "num": 721132,
+      "num": 871727,
       "word": "男童被生父女友虐死案开庭",
       "onboard_time": 1744856840,
       "rank": 4,
@@ -179,12 +211,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 421144,
-      "num": 306514,
-      "word": "钟汉良朱珠吻戏",
-      "onboard_time": 1744859120,
-      "rank": 18,
-      "category": "剧集"
+      "raw_hot": 415399,
+      "num": 415399,
+      "word": "被虐死男童生父以被害者家属身份出庭",
+      "onboard_time": 1744859602,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 415181,
@@ -193,6 +225,14 @@
       "onboard_time": 1744847722,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 397600,
+      "num": 338258,
+      "word": "长期处于饥饿状态会怎么样",
+      "onboard_time": 1744861461,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 388105,
@@ -243,6 +283,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 325824,
+      "num": 325824,
+      "word": "女生以为挖到超大竹笋结果被嘲笑",
+      "onboard_time": 1744859421,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 307940,
+      "num": 376918,
+      "word": "杨紫白鹿等火到柬埔寨了",
+      "onboard_time": 1744861461,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 307347,
       "num": 219465,
       "word": "公公给儿媳59克黄金当改口红包",
@@ -251,20 +307,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 296259,
+      "num": 296259,
+      "word": "贺峻霖北京电影节表演嘉宾",
+      "onboard_time": 1744861042,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 291259,
       "num": 291259,
       "word": "京东和美团同时开始即时零售",
       "onboard_time": 1744848382,
       "rank": 13,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 291244,
-      "num": 223848,
-      "word": "女生以为挖到超大竹笋结果被嘲笑",
-      "onboard_time": 1744859421,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 286047,
@@ -363,6 +419,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 252561,
+      "num": 327264,
+      "word": "半个娱乐圈团建的含金量",
+      "onboard_time": 1744861403,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 240630,
+      "num": 368898,
+      "word": "北影节表演嘉宾",
+      "onboard_time": 1744860681,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 237465,
       "num": 194389,
       "word": "结婚3年妻子开着宝马带孩子走了",
@@ -395,12 +467,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 227183,
+      "num": 227183,
+      "word": "李晟吴宣仪宋妍霏一组",
+      "onboard_time": 1744860260,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 225905,
       "num": 208923,
       "word": "林允这是要开中餐厅吗",
       "onboard_time": 1744819401,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 222161,
+      "num": 222161,
+      "word": "网剧权宠开播",
+      "onboard_time": 1744860562,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 214515,
@@ -467,6 +555,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 196204,
+      "num": 196204,
+      "word": "张檬晒照官宣生子",
+      "onboard_time": 1744861641,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188471,
       "num": 188471,
       "word": "皇马1比2阿森纳",
@@ -507,12 +603,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 170082,
+      "num": 170082,
+      "word": "韩庚新剧爆改流浪汉",
+      "onboard_time": 1744860922,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 169926,
+      "num": 169926,
+      "word": "懂事的大学生已经在为五一做准备了",
+      "onboard_time": 1744861461,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 169117,
       "num": 169117,
       "word": "突然有点后悔养花了",
       "onboard_time": 1744859481,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 166700,
+      "num": 191803,
+      "word": "原神超话",
+      "onboard_time": 1744860741,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 166182,
@@ -529,6 +649,14 @@
       "onboard_time": 1744857621,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 163203,
+      "num": 163203,
+      "word": "一站到底回归",
+      "onboard_time": 1744861403,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 163065,
@@ -603,12 +731,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147869,
+      "num": 147869,
+      "word": "5吨大米淘500克金米被指浪费粮食",
+      "onboard_time": 1744861762,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146841,
       "num": 146841,
       "word": "ONER结拜",
       "onboard_time": 1744851923,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146423,
+      "num": 146423,
+      "word": "5月只需上19天班",
+      "onboard_time": 1744855942,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144985,
@@ -619,7 +763,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 140792,
+      "raw_hot": 144842,
       "num": 205937,
       "word": "全红婵陈芋汐2小时内决胜负",
       "onboard_time": 1744857080,
@@ -675,14 +819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 130272,
-      "num": 130272,
-      "word": "5月只需上19天班",
-      "onboard_time": 1744855942,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 129840,
       "num": 180010,
       "word": "A股芯片股爆发",
@@ -713,6 +849,14 @@
       "onboard_time": 1744846278,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122973,
+      "num": 221630,
+      "word": "合资能不能做好智能化",
+      "onboard_time": 1744861461,
+      "rank": 27,
+      "category": "汽车"
     },
     {
       "raw_hot": 122414,
@@ -868,7 +1012,7 @@
     },
     {
       "raw_hot": 103417,
-      "num": 103417,
+      "num": 373283,
       "word": "梁靖崑VS户上隼辅",
       "onboard_time": 1744858341,
       "rank": 49,
@@ -995,6 +1139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80149,
+      "num": 391356,
+      "word": "首批吃卤鹅的游客已抵达重庆荣昌",
+      "onboard_time": 1744860562,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77255,
       "num": 71927,
       "word": "无忧渡",
@@ -1035,6 +1187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 72086,
+      "num": 355388,
+      "word": "能叫停关税的只有美债",
+      "onboard_time": 1744860922,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 70139,
       "num": 70139,
       "word": "歌手首发阵容",
@@ -1057,6 +1217,14 @@
       "onboard_time": 1744858880,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 65394,
+      "num": 385771,
+      "word": "青岛多孩家庭购房最高补贴10万",
+      "onboard_time": 1744858880,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63787,
@@ -1099,6 +1267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 50855,
+      "num": 191864,
+      "word": "苹果市值再跌破3万亿美元",
+      "onboard_time": 1744861102,
+      "rank": 35,
+      "category": "财经,数码"
+    },
+    {
       "raw_hot": 49738,
       "num": 49738,
       "word": "网红黏苞米糊糊结婚",
@@ -1115,20 +1291,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 44400,
-      "num": 293269,
-      "word": "青岛多孩家庭购房最高补贴10万",
-      "onboard_time": 1744858880,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 43407,
       "num": 43407,
       "word": "看似奇葩却能秒睡的姿势",
       "onboard_time": 1744836314,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 42056,
+      "num": 412398,
+      "word": "唐仁健被提起公诉",
+      "onboard_time": 1744857500,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 36860,
@@ -1145,6 +1321,14 @@
       "onboard_time": 1744824136,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 34098,
+      "num": 218625,
+      "word": "男童被虐致死案生父女友至今未道歉",
+      "onboard_time": 1744860200,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33759,
@@ -1171,12 +1355,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 22448,
-      "num": 176349,
-      "word": "被虐死男童生父以被害者家属身份出庭",
-      "onboard_time": 1744859602,
-      "rank": 30,
-      "category": "民生新闻"
+      "raw_hot": 27730,
+      "num": 215472,
+      "word": "蜜桃粉穿搭",
+      "onboard_time": 1744861340,
+      "rank": 29,
+      "category": "时尚"
     },
     {
       "raw_hot": 21069,
