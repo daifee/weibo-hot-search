@@ -1,6 +1,6 @@
 {
   "startTime": 1744907462255,
-  "endTime": 1744918596871,
+  "endTime": 1744921604067,
   "band_list": [
     {
       "raw_hot": 901179,
@@ -499,6 +499,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 20492,
+      "num": 20492,
+      "word": "女子因提分手被60岁男友杀害案将开庭",
+      "onboard_time": 1744917794,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19940,
       "num": 86208,
       "word": "王楚钦标配秘密武器",
@@ -521,14 +529,6 @@
       "onboard_time": 1744904602,
       "rank": 46,
       "category": "国内时政,民生新闻"
-    },
-    {
-      "raw_hot": 14996,
-      "num": 14996,
-      "word": "女子因提分手被60岁男友杀害案将开庭",
-      "onboard_time": 1744917794,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14661,
@@ -555,12 +555,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 14193,
+      "num": 45898,
+      "word": "特朗普用收税威胁哈佛道歉",
+      "onboard_time": 1744920674,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 12834,
       "num": 16205,
       "word": "惠英红祝福新浪娱乐25周年",
       "onboard_time": 1744911915,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 12731,
+      "num": 13015,
+      "word": "在王祖蓝和王祖贤之间随意切换",
+      "onboard_time": 1744921333,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 10592,
