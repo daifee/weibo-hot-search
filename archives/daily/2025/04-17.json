@@ -1,6 +1,6 @@
 {
   "startTime": 1744821103506,
-  "endTime": 1744872466581,
+  "endTime": 1744874750968,
   "band_list": [
     {
       "raw_hot": 2125500,
@@ -67,6 +67,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1355369,
+      "num": 1355369,
+      "word": "1.68米女子被忽悠断骨增高每天打止痛针",
+      "onboard_time": 1744870761,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1299802,
       "num": 1299802,
       "word": "歌手 单依纯",
@@ -99,7 +107,7 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 1026332,
+      "raw_hot": 1086355,
       "num": 1164213,
       "word": "柬埔寨",
       "onboard_time": 1744867402,
@@ -129,6 +137,14 @@
       "onboard_time": 1744851082,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 924282,
+      "num": 924282,
+      "word": "特朗普突然亲自与日本谈判",
+      "onboard_time": 1744870941,
+      "rank": 20,
+      "category": "国际时政"
     },
     {
       "raw_hot": 896216,
@@ -211,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 697252,
+      "num": 697252,
+      "word": "无手女孩怀孕丈夫再回应恶评",
+      "onboard_time": 1744872862,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 673248,
       "num": 909007,
       "word": "加州宣布将起诉特朗普政府",
@@ -233,6 +257,14 @@
       "onboard_time": 1744861762,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 638111,
+      "num": 294313,
+      "word": "张檬韩国婆婆特意赶来香港",
+      "onboard_time": 1744872981,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 635260,
@@ -265,6 +297,14 @@
       "onboard_time": 1744857441,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 592775,
+      "num": 271446,
+      "word": "董力把家人气到失眠",
+      "onboard_time": 1744871902,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 579339,
@@ -395,14 +435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 354523,
-      "num": 354523,
-      "word": "特朗普突然亲自与日本谈判",
-      "onboard_time": 1744870941,
-      "rank": 20,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 353073,
       "num": 353073,
       "word": "被制裁5次的中国企业如今订单满满",
@@ -435,6 +467,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 330581,
+      "num": 304579,
+      "word": "张檬晒小五剪脐带照",
+      "onboard_time": 1744872141,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 329379,
       "num": 475579,
       "word": "女子收养女婴10年仍是黑户",
@@ -449,6 +489,14 @@
       "onboard_time": 1744859421,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 310975,
+      "num": 310975,
+      "word": "多家骑手回应京东外卖净利不超5%",
+      "onboard_time": 1744872981,
+      "rank": 9,
+      "category": "互联网"
     },
     {
       "raw_hot": 308657,
@@ -491,12 +539,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 288780,
-      "num": 288780,
-      "word": "1.68米女子被忽悠断骨增高每天打止痛针",
-      "onboard_time": 1744870761,
-      "rank": 29,
-      "category": "民生新闻"
+      "raw_hot": 286424,
+      "num": 184187,
+      "word": "甲亢哥来华的幕后推手",
+      "onboard_time": 1744873761,
+      "rank": 31,
+      "category": "网红"
     },
     {
       "raw_hot": 286047,
@@ -611,6 +659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 250809,
+      "num": 250809,
+      "word": "全红婵晒虞书欣送的娃娃",
+      "onboard_time": 1744874542,
+      "rank": 15,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 240630,
       "num": 368898,
       "word": "北影节表演嘉宾",
@@ -657,6 +713,14 @@
       "onboard_time": 1744867581,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 233145,
+      "num": 324709,
+      "word": "武汉一54层江景房顶出现楼上楼",
+      "onboard_time": 1744871361,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 232860,
@@ -720,6 +784,14 @@
       "word": "网剧权宠开播",
       "onboard_time": 1744860562,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 218403,
+      "num": 248502,
+      "word": "海陆为李晟拿第一感到高兴",
+      "onboard_time": 1744874181,
+      "rank": 16,
       "category": "剧集"
     },
     {
@@ -809,6 +881,14 @@
       "onboard_time": 1744846278,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203671,
+      "num": 245208,
+      "word": "2025了谁还手洗内衣袜子",
+      "onboard_time": 1744874542,
+      "rank": 18,
+      "category": "数码"
     },
     {
       "raw_hot": 202543,
@@ -907,6 +987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 187806,
+      "num": 187806,
+      "word": "种地吧导演回应缺人",
+      "onboard_time": 1744872322,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187312,
       "num": 187312,
       "word": "上海女教师怒怼安福路偷拍老法师",
@@ -931,12 +1019,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 183025,
-      "num": 324709,
-      "word": "武汉一54层江景房顶出现楼上楼",
-      "onboard_time": 1744871361,
-      "rank": 22,
-      "category": "民生新闻"
+      "raw_hot": 183004,
+      "num": 183004,
+      "word": "以色列游客在泰国叫嚣遭群殴",
+      "onboard_time": 1744873103,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 182722,
@@ -979,6 +1067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 170544,
+      "num": 170544,
+      "word": "12306的花语是手慢无",
+      "onboard_time": 1744872862,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 170082,
       "num": 170082,
       "word": "韩庚新剧爆改流浪汉",
@@ -1011,12 +1107,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 168243,
-      "num": 304579,
-      "word": "张檬晒小五剪脐带照",
-      "onboard_time": 1744872141,
-      "rank": 22,
-      "category": "艺人"
+      "raw_hot": 166915,
+      "num": 186520,
+      "word": "楚后 周翊然",
+      "onboard_time": 1744873822,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 166859,
@@ -1107,14 +1203,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 156560,
-      "num": 227805,
-      "word": "董力把家人气到失眠",
-      "onboard_time": 1744871902,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 155077,
       "num": 155077,
       "word": "男童被生父女友虐死案一审择期宣判",
@@ -1203,6 +1291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147936,
+      "num": 297408,
+      "word": "林诗栋VS卡尔伯格",
+      "onboard_time": 1744866981,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146841,
       "num": 146841,
       "word": "ONER结拜",
@@ -1225,6 +1321,14 @@
       "onboard_time": 1744855942,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145277,
+      "num": 212427,
+      "word": "原神魈",
+      "onboard_time": 1744874482,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 144985,
@@ -1257,14 +1361,6 @@
       "onboard_time": 1744859541,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 140638,
-      "num": 140638,
-      "word": "种地吧导演回应缺人",
-      "onboard_time": 1744872322,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 139954,
@@ -1323,8 +1419,16 @@
       "category": "电影"
     },
     {
+      "raw_hot": 135045,
+      "num": 135045,
+      "word": "陈昊宇喊话私生",
+      "onboard_time": 1744873822,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134657,
-      "num": 902114,
+      "num": 931421,
       "word": "守一扇心窗唱响护苗新篇章",
       "onboard_time": 1744863863,
       "rank": 2,
@@ -1411,6 +1515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124425,
+      "num": 124425,
+      "word": "无忧渡拍出了牵丝戏",
+      "onboard_time": 1744874001,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122973,
       "num": 378058,
       "word": "合资能不能做好智能化",
@@ -1441,6 +1553,14 @@
       "onboard_time": 1744859361,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120548,
+      "num": 120548,
+      "word": "低精力 一天只能做一件事",
+      "onboard_time": 1744872622,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 118549,
@@ -1481,6 +1601,14 @@
       "onboard_time": 1744864043,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 113056,
+      "num": 113056,
+      "word": "苏绣版后母戊鼎立体感绝了",
+      "onboard_time": 1744871841,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112832,
@@ -1619,6 +1747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97830,
+      "num": 187426,
+      "word": "别用劝不生恶意言辞给无手女孩添堵",
+      "onboard_time": 1744874482,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97382,
       "num": 97382,
       "word": "张晚意的25岁是事业转折点",
@@ -1753,6 +1889,14 @@
       "onboard_time": 1744831814,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74566,
+      "num": 169760,
+      "word": "肿瘤患者掉体重有多危险",
+      "onboard_time": 1744873881,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 73741,
@@ -1931,6 +2075,14 @@
       "category": "财经,数码"
     },
     {
+      "raw_hot": 50704,
+      "num": 121922,
+      "word": "光夜官宣参加腾讯发布会",
+      "onboard_time": 1744873942,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 50027,
       "num": 373587,
       "word": "肠癌筛查黄金期超十年",
@@ -1968,14 +2120,6 @@
       "word": "跳水世界杯总决赛增设1V1环节",
       "onboard_time": 1744863803,
       "rank": 47,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 48365,
-      "num": 297408,
-      "word": "林诗栋VS卡尔伯格",
-      "onboard_time": 1744866981,
-      "rank": 14,
       "category": "体育"
     },
     {
@@ -2017,6 +2161,14 @@
       "onboard_time": 1744863863,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42240,
+      "num": 143831,
+      "word": "护士姐姐教你一些生活小妙招",
+      "onboard_time": 1744874242,
+      "rank": 39,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 42056,
@@ -2113,6 +2265,14 @@
       "onboard_time": 1744869802,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25449,
+      "num": 240941,
+      "word": "关税将使美家庭每年多付5000美元",
+      "onboard_time": 1744874362,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 25116,

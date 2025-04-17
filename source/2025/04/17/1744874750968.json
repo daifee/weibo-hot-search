@@ -1,0 +1,410 @@
+{
+  "runTime": 1744874750968,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1355369,
+        "num": 1355369,
+        "word": "1.68米女子被忽悠断骨增高每天打止痛针",
+        "onboard_time": 1744870761,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1086355,
+        "num": 1086355,
+        "word": "柬埔寨",
+        "onboard_time": 1744867402,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 25804,
+        "num": 931421,
+        "word": "守一扇心窗唱响护苗新篇章",
+        "onboard_time": 1744863863,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 924282,
+        "num": 924282,
+        "word": "特朗普突然亲自与日本谈判",
+        "onboard_time": 1744870941,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 697252,
+        "num": 697252,
+        "word": "无手女孩怀孕丈夫再回应恶评",
+        "onboard_time": 1744872862,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 492822,
+        "num": 492822,
+        "word": "半个娱乐圈团建的含金量",
+        "onboard_time": 1744861403,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 426732,
+        "num": 426732,
+        "word": "演员板垣瑞生去世",
+        "onboard_time": 1744868300,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 422191,
+        "num": 422191,
+        "word": "长期处于饥饿状态会怎么样",
+        "onboard_time": 1744861461,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 361812,
+        "num": 361812,
+        "word": "旅游博主被关小黑屋强迫接受间谍任务",
+        "onboard_time": 1744863022,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310975,
+        "num": 310975,
+        "word": "多家骑手回应京东外卖净利不超5%",
+        "onboard_time": 1744872981,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 658865,
+        "num": 307960,
+        "word": "张檬晒照官宣生子",
+        "onboard_time": 1744861641,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 638111,
+        "num": 294313,
+        "word": "张檬韩国婆婆特意赶来香港",
+        "onboard_time": 1744872981,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 629269,
+        "num": 280255,
+        "word": "世纪佳缘取消3人婚礼预定",
+        "onboard_time": 1744866683,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 592775,
+        "num": 271446,
+        "word": "董力把家人气到失眠",
+        "onboard_time": 1744871902,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264743,
+        "num": 264743,
+        "word": "奔跑吧直播",
+        "onboard_time": 1744870402,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250809,
+        "num": 250809,
+        "word": "全红婵晒虞书欣送的娃娃",
+        "onboard_time": 1744874542,
+        "rank": 15,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 218403,
+        "num": 248502,
+        "word": "海陆为李晟拿第一感到高兴",
+        "onboard_time": 1744874181,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208690,
+        "num": 248016,
+        "word": "管乐给张小婉发180秒语音",
+        "onboard_time": 1744866203,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203671,
+        "num": 245208,
+        "word": "2025了谁还手洗内衣袜子",
+        "onboard_time": 1744874542,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 25449,
+        "num": 240941,
+        "word": "关税将使美家庭每年多付5000美元",
+        "onboard_time": 1744874362,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 536779,
+        "num": 239148,
+        "word": "终于有剧拍了离婚女人有多爽了",
+        "onboard_time": 1744860321,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 330581,
+        "num": 237103,
+        "word": "张檬晒小五剪脐带照",
+        "onboard_time": 1744872141,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254055,
+        "num": 233399,
+        "word": "两个50岁不自律女生同居的一天",
+        "onboard_time": 1744869802,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 233145,
+        "num": 233145,
+        "word": "武汉一54层江景房顶出现楼上楼",
+        "onboard_time": 1744871361,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145277,
+        "num": 212427,
+        "word": "原神魈",
+        "onboard_time": 1744874482,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 196841,
+        "num": 196841,
+        "word": "赵小童晒十个勤天新合照",
+        "onboard_time": 1744868362,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187806,
+        "num": 187806,
+        "word": "种地吧导演回应缺人",
+        "onboard_time": 1744872322,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97830,
+        "num": 187426,
+        "word": "别用劝不生恶意言辞给无手女孩添堵",
+        "onboard_time": 1744874482,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166915,
+        "num": 186520,
+        "word": "楚后 周翊然",
+        "onboard_time": 1744873822,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156753,
+        "num": 185971,
+        "word": "是你吗高启盛",
+        "onboard_time": 1744871061,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218560,
+        "num": 185353,
+        "word": "5吨大米淘500克金米被指浪费粮食",
+        "onboard_time": 1744861762,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286424,
+        "num": 184187,
+        "word": "甲亢哥来华的幕后推手",
+        "onboard_time": 1744873761,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 205611,
+        "num": 183389,
+        "word": "江西景德镇发生一起刑事案件",
+        "onboard_time": 1744856360,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183004,
+        "num": 183004,
+        "word": "以色列游客在泰国叫嚣遭群殴",
+        "onboard_time": 1744873103,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 170544,
+        "num": 170544,
+        "word": "12306的花语是手慢无",
+        "onboard_time": 1744872862,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 74566,
+        "num": 169760,
+        "word": "肿瘤患者掉体重有多危险",
+        "onboard_time": 1744873881,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 169502,
+        "num": 169502,
+        "word": "12306候补",
+        "onboard_time": 1744850543,
+        "rank": 36,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 168640,
+        "num": 168640,
+        "word": "孙颖莎最萌身高差",
+        "onboard_time": 1744872263,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147936,
+        "num": 147936,
+        "word": "林诗栋VS卡尔伯格",
+        "onboard_time": 1744866981,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42240,
+        "num": 143831,
+        "word": "护士姐姐教你一些生活小妙招",
+        "onboard_time": 1744874242,
+        "rank": 39,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 143811,
+        "num": 143811,
+        "word": "金喜善48岁状态",
+        "onboard_time": 1744866023,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135045,
+        "num": 135045,
+        "word": "陈昊宇喊话私生",
+        "onboard_time": 1744873822,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134124,
+        "num": 134124,
+        "word": "官方回应男子与现任前任办3人婚礼",
+        "onboard_time": 1744862843,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127400,
+        "num": 127400,
+        "word": "白宫承认中方没打来过电话",
+        "onboard_time": 1744847722,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 126670,
+        "num": 126670,
+        "word": "金价疯涨孙悟空都得卖金箍棒",
+        "onboard_time": 1744868842,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 124425,
+        "num": 124425,
+        "word": "无忧渡拍出了牵丝戏",
+        "onboard_time": 1744874001,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50704,
+        "num": 121922,
+        "word": "光夜官宣参加腾讯发布会",
+        "onboard_time": 1744873942,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 120548,
+        "num": 120548,
+        "word": "低精力 一天只能做一件事",
+        "onboard_time": 1744872622,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113069,
+        "num": 113069,
+        "word": "ITZY获胜",
+        "onboard_time": 1744871061,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113056,
+        "num": 113056,
+        "word": "苏绣版后母戊鼎立体感绝了",
+        "onboard_time": 1744871841,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在柬埔寨媒体发表署名文章#"
+    }
+  }
+}
