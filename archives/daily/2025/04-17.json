@@ -1,6 +1,6 @@
 {
   "startTime": 1744821103506,
-  "endTime": 1744885644841,
+  "endTime": 1744886633690,
   "band_list": [
     {
       "raw_hot": 2970659,
@@ -299,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 655677,
+      "num": 655677,
+      "word": "被虐死男童妈妈晕倒被送医",
+      "onboard_time": 1744884802,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 653163,
       "num": 653163,
       "word": "全红婵晒虞书欣送的娃娃",
@@ -321,6 +329,14 @@
       "onboard_time": 1744817242,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 626366,
+      "num": 626366,
+      "word": "孙俪新剧开播就跳水",
+      "onboard_time": 1744882462,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 618932,
@@ -347,20 +363,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 594349,
+      "num": 246531,
+      "word": "张檬产前vs产后",
+      "onboard_time": 1744885402,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 592775,
       "num": 387737,
       "word": "董力把家人气到失眠",
       "onboard_time": 1744871902,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 590647,
-      "num": 590647,
-      "word": "孙俪新剧开播就跳水",
-      "onboard_time": 1744882462,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 579339,
@@ -451,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 472132,
+      "num": 472132,
+      "word": "王曼昱vs张本美和",
+      "onboard_time": 1744885522,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 471051,
       "num": 389464,
       "word": "沙溢黑到反光",
@@ -489,6 +513,14 @@
       "onboard_time": 1744810821,
       "rank": 13,
       "category": "网红"
+    },
+    {
+      "raw_hot": 425329,
+      "num": 248558,
+      "word": "粉丝不用夜排了",
+      "onboard_time": 1744883121,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 419581,
@@ -553,6 +585,14 @@
       "onboard_time": 1744869802,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 380327,
+      "num": 245017,
+      "word": "杨采钰怀孕",
+      "onboard_time": 1744886481,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 375139,
@@ -803,6 +843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 254213,
+      "num": 254213,
+      "word": "无忧渡",
+      "onboard_time": 1744797682,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 254183,
       "num": 254183,
       "word": "林昀儒 鹰眼",
@@ -1003,6 +1051,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 217838,
+      "num": 217838,
+      "word": "Swisse致歉",
+      "onboard_time": 1744885760,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
       "raw_hot": 214515,
       "num": 214515,
       "word": "美联储主席发出通胀警告",
@@ -1035,22 +1091,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 211576,
-      "num": 211576,
-      "word": "无忧渡",
-      "onboard_time": 1744797682,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 211007,
-      "num": 211007,
-      "word": "粉丝不用夜排了",
-      "onboard_time": 1744883121,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 210101,
       "num": 210101,
       "word": "特朗普听故宫三原色道理后懵圈",
@@ -1065,6 +1105,14 @@
       "onboard_time": 1744877902,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209907,
+      "num": 241489,
+      "word": "黄杨钿甜不加修饰的生命力",
+      "onboard_time": 1744885461,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 209773,
@@ -1211,6 +1259,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 196767,
+      "num": 179088,
+      "word": "黄仁勋称希望将继续与中国合作",
+      "onboard_time": 1744886060,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 195972,
       "num": 195972,
       "word": "我和我担是同担",
@@ -1267,6 +1323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189235,
+      "num": 180492,
+      "word": "王源 返老还童一下",
+      "onboard_time": 1744886001,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188616,
       "num": 188616,
       "word": "孙颖莎被球打到脸",
@@ -1305,14 +1369,6 @@
       "onboard_time": 1744871061,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 185723,
-      "num": 185723,
-      "word": "王曼昱vs张本美和",
-      "onboard_time": 1744885522,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 185686,
@@ -1372,11 +1428,19 @@
     },
     {
       "raw_hot": 178970,
-      "num": 178970,
+      "num": 181813,
       "word": "英伟达坚定不移服务中国市场",
       "onboard_time": 1744883362,
       "rank": 25,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 178962,
+      "num": 178962,
+      "word": "王者米莱狄新源梦皮肤",
+      "onboard_time": 1744885701,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 176542,
@@ -1465,14 +1529,6 @@
       "onboard_time": 1744860741,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 166327,
-      "num": 166327,
-      "word": "张檬产前vs产后",
-      "onboard_time": 1744885402,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 166182,
@@ -1579,20 +1635,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 157701,
-      "num": 282192,
-      "word": "被虐死男童妈妈晕倒被送医",
-      "onboard_time": 1744884802,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 157528,
       "num": 157528,
       "word": "美方畸高关税在经济上已无实际意义",
       "onboard_time": 1744856780,
       "rank": 32,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 155276,
+      "num": 155276,
+      "word": "中国商家决定给美国商品涨价",
+      "onboard_time": 1744884141,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 155077,
@@ -1763,6 +1819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 146410,
+      "num": 182804,
+      "word": "王珞丹组四公团秀第一",
+      "onboard_time": 1744886301,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145285,
       "num": 170244,
       "word": "邓超gogogo出发喽方言挑战",
@@ -1787,6 +1851,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 144950,
+      "num": 144950,
+      "word": "两电一邮到底有多牛",
+      "onboard_time": 1744883182,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 144842,
       "num": 205937,
       "word": "全红婵陈芋汐2小时内决胜负",
@@ -1809,14 +1881,6 @@
       "onboard_time": 1744862602,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 141891,
-      "num": 150074,
-      "word": "中国商家决定给美国商品涨价",
-      "onboard_time": 1744884141,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 141019,
@@ -1900,7 +1964,7 @@
     },
     {
       "raw_hot": 136148,
-      "num": 136148,
+      "num": 241248,
       "word": "英伟达CEO说中国是非常重要的市场",
       "onboard_time": 1744884081,
       "rank": 44,
@@ -2019,27 +2083,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 128358,
-      "num": 128358,
-      "word": "两电一邮到底有多牛",
-      "onboard_time": 1744883182,
-      "rank": 47,
-      "category": "教育"
-    },
-    {
       "raw_hot": 127268,
       "num": 188444,
       "word": "崔乐北电表演专业第一",
       "onboard_time": 1744832294,
       "rank": 26,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 127067,
-      "num": 127067,
-      "word": "黄杨钿甜不加修饰的生命力",
-      "onboard_time": 1744885461,
-      "rank": 48,
       "category": "艺人"
     },
     {
@@ -2099,6 +2147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122098,
+      "num": 122098,
+      "word": "来看看你好星期六附近居民怎么说",
+      "onboard_time": 1744885882,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121334,
       "num": 121334,
       "word": "家属回应一家三口遭同村村民杀害",
@@ -2153,6 +2209,14 @@
       "onboard_time": 1744846400,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114648,
+      "num": 114648,
+      "word": "小猫不明白为什么自己会离开箱子",
+      "onboard_time": 1744884501,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 113709,
@@ -2233,6 +2297,22 @@
       "onboard_time": 1744853899,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110386,
+      "num": 153941,
+      "word": "手机跑分到底有没有意义",
+      "onboard_time": 1744886361,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 109290,
+      "num": 109290,
+      "word": "国内油价近三年最大跌幅",
+      "onboard_time": 1744883422,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 106293,
@@ -2553,6 +2633,14 @@
       "onboard_time": 1744876821,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 66005,
+      "num": 248114,
+      "word": "日本消费者涌向韩国买米",
+      "onboard_time": 1744886123,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 65394,
@@ -3035,6 +3123,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 20949,
+      "num": 150074,
+      "word": "备考时和朋友渐行渐远怎么办",
+      "onboard_time": 1744885580,
+      "rank": 38,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 20631,
       "num": 36751,
       "word": "柬埔寨首都街头随处可见中文标识",
@@ -3201,14 +3297,6 @@
       "onboard_time": 1744875441,
       "rank": 39,
       "category": "幽默,教育"
-    },
-    {
-      "raw_hot": 6465,
-      "num": 150074,
-      "word": "备考时和朋友渐行渐远怎么办",
-      "onboard_time": 1744885580,
-      "rank": 38,
-      "category": "议题讨论"
     }
   ],
   "hotgov_list": [

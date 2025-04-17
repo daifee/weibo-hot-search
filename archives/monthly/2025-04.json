@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744885644841,
+  "endTime": 1744886633690,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -6811,6 +6811,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 655677,
+      "num": 655677,
+      "word": "被虐死男童妈妈晕倒被送医",
+      "onboard_time": 1744884802,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 653608,
       "num": 123217,
       "word": "肇事者父亲称一家三口被撞身亡是天灾",
@@ -7105,6 +7113,14 @@
       "onboard_time": 1744680981,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 626366,
+      "num": 626366,
+      "word": "孙俪新剧开播就跳水",
+      "onboard_time": 1744882462,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 625836,
@@ -7587,6 +7603,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 594349,
+      "num": 246531,
+      "word": "张檬产前vs产后",
+      "onboard_time": 1744885402,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 593732,
       "num": 593732,
       "word": "当年都以为奔跑吧兄弟没有第二季",
@@ -7657,14 +7681,6 @@
       "onboard_time": 1743542353,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 590647,
-      "num": 590647,
-      "word": "孙俪新剧开播就跳水",
-      "onboard_time": 1744882462,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 590444,
@@ -9763,6 +9779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 472132,
+      "num": 472132,
+      "word": "王曼昱vs张本美和",
+      "onboard_time": 1744885522,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 472076,
       "num": 472076,
       "word": "Switch2价格公布",
@@ -10849,6 +10873,14 @@
       "onboard_time": 1743916161,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 425329,
+      "num": 248558,
+      "word": "粉丝不用夜排了",
+      "onboard_time": 1744883121,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 424861,
@@ -12265,6 +12297,14 @@
       "onboard_time": 1743990080,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 380327,
+      "num": 245017,
+      "word": "杨采钰怀孕",
+      "onboard_time": 1744886481,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 380309,
@@ -20843,6 +20883,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 217838,
+      "num": 217838,
+      "word": "Swisse致歉",
+      "onboard_time": 1744885760,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
       "raw_hot": 217726,
       "num": 242325,
       "word": "汪苏泷断眉",
@@ -21643,14 +21691,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 211007,
-      "num": 211007,
-      "word": "粉丝不用夜排了",
-      "onboard_time": 1744883121,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 210903,
       "num": 210903,
       "word": "SM失去了四名最佳主唱",
@@ -21817,6 +21857,14 @@
       "onboard_time": 1744877902,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209907,
+      "num": 241489,
+      "word": "黄杨钿甜不加修饰的生命力",
+      "onboard_time": 1744885461,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 209788,
@@ -24203,6 +24251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196767,
+      "num": 179088,
+      "word": "黄仁勋称希望将继续与中国合作",
+      "onboard_time": 1744886060,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 196743,
       "num": 196743,
       "word": "甲状腺与胆囊之间的关系",
@@ -25867,6 +25923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189235,
+      "num": 180492,
+      "word": "王源 返老还童一下",
+      "onboard_time": 1744886001,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189223,
       "num": 147996,
       "word": "鞠婧祎逆应援",
@@ -26585,14 +26649,6 @@
       "onboard_time": 1743923122,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 185723,
-      "num": 185723,
-      "word": "王曼昱vs张本美和",
-      "onboard_time": 1744885522,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 185704,
@@ -27940,11 +27996,19 @@
     },
     {
       "raw_hot": 178970,
-      "num": 178970,
+      "num": 181813,
       "word": "英伟达坚定不移服务中国市场",
       "onboard_time": 1744883362,
       "rank": 25,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 178962,
+      "num": 178962,
+      "word": "王者米莱狄新源梦皮肤",
+      "onboard_time": 1744885701,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 178922,
@@ -30291,14 +30355,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 166327,
-      "num": 166327,
-      "word": "张檬产前vs产后",
-      "onboard_time": 1744885402,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 166245,
       "num": 166245,
       "word": "鹿晗正定vlog下集",
@@ -32043,14 +32099,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 157701,
-      "num": 282192,
-      "word": "被虐死男童妈妈晕倒被送医",
-      "onboard_time": 1744884802,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 157698,
       "num": 157698,
       "word": "抢不到门票的二次元有多抽象",
@@ -32553,6 +32601,14 @@
       "onboard_time": 1743945082,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155276,
+      "num": 155276,
+      "word": "中国商家决定给美国商品涨价",
+      "onboard_time": 1744884141,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 155198,
@@ -34531,6 +34587,14 @@
       "category": "财经,国际时政"
     },
     {
+      "raw_hot": 146410,
+      "num": 182804,
+      "word": "王珞丹组四公团秀第一",
+      "onboard_time": 1744886301,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146383,
       "num": 175397,
       "word": "与君歌是张予曦第一部古偶女主剧",
@@ -34897,6 +34961,14 @@
       "onboard_time": 1743946463,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144950,
+      "num": 144950,
+      "word": "两电一邮到底有多牛",
+      "onboard_time": 1744883182,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 144933,
@@ -35553,14 +35625,6 @@
       "onboard_time": 1743740121,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 141891,
-      "num": 150074,
-      "word": "中国商家决定给美国商品涨价",
-      "onboard_time": 1744884141,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 141870,
@@ -36924,7 +36988,7 @@
     },
     {
       "raw_hot": 136148,
-      "num": 136148,
+      "num": 241248,
       "word": "英伟达CEO说中国是非常重要的市场",
       "onboard_time": 1744884081,
       "rank": 44,
@@ -38923,14 +38987,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 128358,
-      "num": 128358,
-      "word": "两电一邮到底有多牛",
-      "onboard_time": 1744883182,
-      "rank": 47,
-      "category": "教育"
-    },
-    {
       "raw_hot": 128222,
       "num": 128222,
       "word": "张远演唱会奇观",
@@ -39201,14 +39257,6 @@
       "onboard_time": 1744461326,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 127067,
-      "num": 127067,
-      "word": "黄杨钿甜不加修饰的生命力",
-      "onboard_time": 1744885461,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 127057,
@@ -40313,6 +40361,14 @@
       "onboard_time": 1743567983,
       "rank": 33,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 122098,
+      "num": 122098,
+      "word": "来看看你好星期六附近居民怎么说",
+      "onboard_time": 1744885882,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 122085,
@@ -42019,6 +42075,14 @@
       "category": "财经,数码"
     },
     {
+      "raw_hot": 114648,
+      "num": 114648,
+      "word": "小猫不明白为什么自己会离开箱子",
+      "onboard_time": 1744884501,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 114587,
       "num": 261727,
       "word": "无手女孩发文征集卫生巾优化建议",
@@ -42859,6 +42923,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 110386,
+      "num": 153941,
+      "word": "手机跑分到底有没有意义",
+      "onboard_time": 1744886361,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 110378,
       "num": 110378,
       "word": "小猫把小狗脑袋扶正了",
@@ -42993,6 +43065,14 @@
       "onboard_time": 1744526180,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109290,
+      "num": 109290,
+      "word": "国内油价近三年最大跌幅",
+      "onboard_time": 1744883422,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 109288,
@@ -48345,6 +48425,14 @@
       "onboard_time": 1743525799,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 66005,
+      "num": 248114,
+      "word": "日本消费者涌向韩国买米",
+      "onboard_time": 1744886123,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 65952,
@@ -54603,6 +54691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20949,
+      "num": 150074,
+      "word": "备考时和朋友渐行渐远怎么办",
+      "onboard_time": 1744885580,
+      "rank": 38,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 20887,
       "num": 119282,
       "word": "新媒体运营那些黑话",
@@ -56665,14 +56761,6 @@
       "onboard_time": 1743995603,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 6465,
-      "num": 150074,
-      "word": "备考时和朋友渐行渐远怎么办",
-      "onboard_time": 1744885580,
-      "rank": 38,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 6206,
