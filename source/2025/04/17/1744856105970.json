@@ -1,0 +1,410 @@
+{
+  "runTime": 1744856105970,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1299802,
+        "num": 1299802,
+        "word": "歌手 单依纯",
+        "onboard_time": 1744853062,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1141093,
+        "num": 1247781,
+        "word": "认养一头牛广告被指嘲讽打工人",
+        "onboard_time": 1744854141,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157727,
+        "num": 1226767,
+        "word": "警惕美国正向全世界摊派空气税",
+        "onboard_time": 1744817661,
+        "rank": 2,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1219674,
+        "num": 1219674,
+        "word": "白宫承认中方没打来过电话",
+        "onboard_time": 1744847722,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 692526,
+        "num": 692526,
+        "word": "12306候补",
+        "onboard_time": 1744850543,
+        "rank": 4,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 587508,
+        "num": 587508,
+        "word": "黄金",
+        "onboard_time": 1744811962,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 451230,
+        "num": 451230,
+        "word": "央视披露兰州无人机驾考作弊案细节",
+        "onboard_time": 1744849883,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 415181,
+        "num": 415181,
+        "word": "母亲谈9岁女童从25楼坠落奇迹生还",
+        "onboard_time": 1744847722,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 389464,
+        "num": 389464,
+        "word": "沙溢黑到反光",
+        "onboard_time": 1744851201,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 371807,
+        "num": 371807,
+        "word": "特朗普吹牛日入20亿关税被揭穿",
+        "onboard_time": 1744853062,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 636170,
+        "num": 368966,
+        "word": "9岁女童从25楼坠落生还喊妈妈救我",
+        "onboard_time": 1744851082,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 363609,
+        "num": 363609,
+        "word": "李昊种地的三年",
+        "onboard_time": 1744854080,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325254,
+        "num": 325254,
+        "word": "毛毛果已缺货",
+        "onboard_time": 1744817242,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 69962,
+        "num": 284282,
+        "word": "3岁男童遭虐待致死案母亲再发声",
+        "onboard_time": 1744855700,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259505,
+        "num": 259505,
+        "word": "外交部回应美对华加征245%关税",
+        "onboard_time": 1744789041,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 252650,
+        "num": 252650,
+        "word": "李嘉琦四公淘汰",
+        "onboard_time": 1744851443,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249749,
+        "num": 249749,
+        "word": "加州宣布将起诉特朗普政府",
+        "onboard_time": 1744817301,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 232701,
+        "num": 232701,
+        "word": "中戏前四vs北电前四",
+        "onboard_time": 1744846640,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224345,
+        "num": 224345,
+        "word": "三亚警方通报60岁女子开车撞伤6人",
+        "onboard_time": 1744848500,
+        "rank": 18,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 196530,
+        "num": 205403,
+        "word": "陈德容房琪进五公",
+        "onboard_time": 1744848861,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 299001,
+        "num": 202796,
+        "word": "公公给儿媳59克黄金当改口红包",
+        "onboard_time": 1744846521,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275892,
+        "num": 200554,
+        "word": "以为很干净其实很脏的生活习惯",
+        "onboard_time": 1744846521,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 198117,
+        "num": 198117,
+        "word": "王者荣耀",
+        "onboard_time": 1744850423,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 187265,
+        "num": 187265,
+        "word": "京东和美团同时开始即时零售",
+        "onboard_time": 1744848382,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 186321,
+        "num": 186321,
+        "word": "99年女生摆摊7年靠自己成功买房",
+        "onboard_time": 1744848982,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158529,
+        "num": 158529,
+        "word": "张小婉被粉丝叫老婆的反应",
+        "onboard_time": 1744854023,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154001,
+        "num": 154001,
+        "word": "中方不予理会美方关税数字游戏",
+        "onboard_time": 1744807762,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 151880,
+        "num": 151880,
+        "word": "金饰价飙到1027元",
+        "onboard_time": 1744854921,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 148168,
+        "num": 148168,
+        "word": "业内称女明星真人颜值非常高",
+        "onboard_time": 1744850602,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135144,
+        "num": 147497,
+        "word": "李晟四公第一",
+        "onboard_time": 1744817122,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74486,
+        "num": 147015,
+        "word": "杨瀚森宣布参加今年NBA选秀",
+        "onboard_time": 1744853899,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146836,
+        "num": 146836,
+        "word": "广东廉江一家三口遭同村村民杀害",
+        "onboard_time": 1744846759,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144985,
+        "num": 144985,
+        "word": "德国小伙赴美旅游被无端拘留16天",
+        "onboard_time": 1744853601,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 142725,
+        "num": 142725,
+        "word": "认养一头牛回应广告争议",
+        "onboard_time": 1744854442,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139635,
+        "num": 139635,
+        "word": "金价飙涨再创历史新高",
+        "onboard_time": 1744855281,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 64576,
+        "num": 137508,
+        "word": "今晚油价或现年内最大跌幅",
+        "onboard_time": 1744848922,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 136538,
+        "num": 136538,
+        "word": "ONER结拜",
+        "onboard_time": 1744851923,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136317,
+        "num": 136317,
+        "word": "美联储主席发出通胀警告",
+        "onboard_time": 1744846400,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 133020,
+        "num": 133020,
+        "word": "王一博园丁",
+        "onboard_time": 1744853301,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129429,
+        "num": 129429,
+        "word": "小学生看了两眼发现罂粟",
+        "onboard_time": 1744815381,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128420,
+        "num": 128420,
+        "word": "绵绵的羊问题卫生巾已下架",
+        "onboard_time": 1744855641,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122414,
+        "num": 122414,
+        "word": "五一车票今日开售",
+        "onboard_time": 1744847781,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113709,
+        "num": 113709,
+        "word": "不要挽回土象星座",
+        "onboard_time": 1744852463,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110426,
+        "num": 110426,
+        "word": "5月只需上19天班",
+        "onboard_time": 1744855942,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106865,
+        "num": 106865,
+        "word": "74岁父亲带5岁女儿的一天",
+        "onboard_time": 1744846880,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106128,
+        "num": 106128,
+        "word": "美联储",
+        "onboard_time": 1744846400,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 104684,
+        "num": 104684,
+        "word": "女生画卷后跳中国舞宛如仙子",
+        "onboard_time": 1744855100,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104058,
+        "num": 104058,
+        "word": "公司有这食堂就算月薪3k我也愿意",
+        "onboard_time": 1744850483,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 97456,
+        "num": 97456,
+        "word": "家属回应一家三口遭同村村民杀害",
+        "onboard_time": 1744852043,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85614,
+        "num": 96666,
+        "word": "宋雨琦证明孟子义真的会唱",
+        "onboard_time": 1744815443,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#老朋友擘画中马关系新未来#"
+    }
+  }
+}

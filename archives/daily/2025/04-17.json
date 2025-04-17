@@ -1,6 +1,6 @@
 {
   "startTime": 1744821103506,
-  "endTime": 1744854762867,
+  "endTime": 1744856105970,
   "band_list": [
     {
       "raw_hot": 1481763,
@@ -11,16 +11,24 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 1051376,
-      "num": 1051376,
+      "raw_hot": 1299802,
+      "num": 1299802,
       "word": "歌手 单依纯",
       "onboard_time": 1744853062,
       "rank": 3,
       "category": "综艺"
     },
     {
+      "raw_hot": 1141093,
+      "num": 1247781,
+      "word": "认养一头牛广告被指嘲讽打工人",
+      "onboard_time": 1744854141,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 971104,
-      "num": 307946,
+      "num": 368966,
       "word": "9岁女童从25楼坠落生还喊妈妈救我",
       "onboard_time": 1744851082,
       "rank": 10,
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 635260,
-      "num": 307095,
+      "num": 325254,
       "word": "毛毛果已缺货",
       "onboard_time": 1744817242,
       "rank": 11,
@@ -108,11 +116,19 @@
     },
     {
       "raw_hot": 471051,
-      "num": 382734,
+      "num": 389464,
       "word": "沙溢黑到反光",
       "onboard_time": 1744851201,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 451230,
+      "num": 451230,
+      "word": "央视披露兰州无人机驾考作弊案细节",
+      "onboard_time": 1744849883,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 428153,
@@ -123,8 +139,8 @@
       "category": "网红"
     },
     {
-      "raw_hot": 391928,
-      "num": 391928,
+      "raw_hot": 415181,
+      "num": 415181,
       "word": "母亲谈9岁女童从25楼坠落奇迹生还",
       "onboard_time": 1744847722,
       "rank": 5,
@@ -139,6 +155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 371807,
+      "num": 371807,
+      "word": "特朗普吹牛日入20亿关税被揭穿",
+      "onboard_time": 1744853062,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 364604,
       "num": 172276,
       "word": "王蓉疑似明涵浪姐有剧本",
@@ -147,12 +171,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 351774,
-      "num": 351774,
-      "word": "央视披露兰州无人机驾考作弊案细节",
-      "onboard_time": 1744849883,
-      "rank": 7,
-      "category": "民生新闻"
+      "raw_hot": 363609,
+      "num": 363609,
+      "word": "李昊种地的三年",
+      "onboard_time": 1744854080,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 351451,
@@ -236,7 +260,7 @@
     },
     {
       "raw_hot": 265788,
-      "num": 216418,
+      "num": 224345,
       "word": "三亚警方通报60岁女子开车撞伤6人",
       "onboard_time": 1744848500,
       "rank": 23,
@@ -259,12 +283,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 247765,
-      "num": 247765,
-      "word": "认养一头牛广告被指嘲讽打工人",
-      "onboard_time": 1744854141,
-      "rank": 17,
-      "category": "民生新闻"
+      "raw_hot": 252650,
+      "num": 252650,
+      "word": "李嘉琦四公淘汰",
+      "onboard_time": 1744851443,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 237465,
@@ -297,22 +321,6 @@
       "onboard_time": 1744819401,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 223672,
-      "num": 311481,
-      "word": "特朗普吹牛日入20亿关税被揭穿",
-      "onboard_time": 1744853062,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 222101,
-      "num": 222101,
-      "word": "李嘉琦四公淘汰",
-      "onboard_time": 1744851443,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 214515,
@@ -364,19 +372,11 @@
     },
     {
       "raw_hot": 198054,
-      "num": 1100733,
+      "num": 1226767,
       "word": "警惕美国正向全世界摊派空气税",
       "onboard_time": 1744817661,
       "rank": 2,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 197838,
-      "num": 220855,
-      "word": "李昊种地的三年",
-      "onboard_time": 1744854080,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 188471,
@@ -435,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151880,
+      "num": 151880,
+      "word": "金饰价飙到1027元",
+      "onboard_time": 1744854921,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 151446,
       "num": 151446,
       "word": "朱一龙回应杨蓉",
@@ -467,6 +475,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144985,
+      "num": 144985,
+      "word": "德国小伙赴美旅游被无端拘留16天",
+      "onboard_time": 1744853601,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 142725,
+      "num": 142725,
+      "word": "认养一头牛回应广告争议",
+      "onboard_time": 1744854442,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139635,
+      "num": 139635,
+      "word": "金价飙涨再创历史新高",
+      "onboard_time": 1744855281,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 132941,
       "num": 133219,
       "word": "媒体人说朱一龙不应该被归类在流量",
@@ -491,12 +523,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 128115,
-      "num": 128115,
-      "word": "德国小伙赴美旅游被无端拘留16天",
-      "onboard_time": 1744853601,
-      "rank": 37,
-      "category": "国际时政"
+      "raw_hot": 128420,
+      "num": 128420,
+      "word": "绵绵的羊问题卫生巾已下架",
+      "onboard_time": 1744855641,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127268,
@@ -515,11 +547,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 125051,
-      "num": 125051,
-      "word": "认养一头牛回应广告争议",
-      "onboard_time": 1744854442,
-      "rank": 38,
+      "raw_hot": 122414,
+      "num": 122414,
+      "word": "五一车票今日开售",
+      "onboard_time": 1744847781,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -555,12 +587,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 117404,
-      "num": 117404,
-      "word": "五一车票今日开售",
-      "onboard_time": 1744847781,
+      "raw_hot": 113709,
+      "num": 113709,
+      "word": "不要挽回土象星座",
+      "onboard_time": 1744852463,
       "rank": 42,
-      "category": "民生新闻"
+      "category": "情感"
     },
     {
       "raw_hot": 112832,
@@ -596,11 +628,19 @@
     },
     {
       "raw_hot": 110972,
-      "num": 110972,
+      "num": 147015,
       "word": "杨瀚森宣布参加今年NBA选秀",
       "onboard_time": 1744853899,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110426,
+      "num": 110426,
+      "word": "5月只需上19天班",
+      "onboard_time": 1744855942,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106079,
@@ -617,6 +657,14 @@
       "onboard_time": 1744803322,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 104684,
+      "num": 104684,
+      "word": "女生画卷后跳中国舞宛如仙子",
+      "onboard_time": 1744855100,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104464,
@@ -793,6 +841,14 @@
       "onboard_time": 1744783463,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 69962,
+      "num": 284282,
+      "word": "3岁男童遭虐待致死案母亲再发声",
+      "onboard_time": 1744855700,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 69656,
