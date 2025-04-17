@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744865074176,
+  "endTime": 1744867496944,
   "band_list": [
     {
       "raw_hot": 10606514,
@@ -457,6 +457,14 @@
       "onboard_time": 1744504222,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1422487,
+      "num": 1422487,
+      "word": "旅游博主被关小黑屋强迫接受间谍任务",
+      "onboard_time": 1744863022,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1411247,
@@ -2107,6 +2115,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 613932,
+      "num": 352499,
+      "word": "韩媒曝金秀贤对金赛纶方诉讼有变",
+      "onboard_time": 1744864524,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 612471,
       "num": 384076,
       "word": "韩红回应母亲逝世",
@@ -2201,14 +2217,6 @@
       "onboard_time": 1744504402,
       "rank": 5,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 572971,
-      "num": 572971,
-      "word": "旅游博主被关小黑屋强迫接受间谍任务",
-      "onboard_time": 1744863022,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 572941,
@@ -3451,14 +3459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 352499,
-      "num": 352499,
-      "word": "韩媒曝金秀贤对金赛纶方诉讼有变",
-      "onboard_time": 1744864524,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 351451,
       "num": 197368,
       "word": "知情人回应网红小猫悟空去世",
@@ -3643,6 +3643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 329379,
+      "num": 475579,
+      "word": "女子收养女婴10年仍是黑户",
+      "onboard_time": 1744863143,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 328292,
       "num": 178102,
       "word": "陈芋汐10米台冠军",
@@ -3785,14 +3793,6 @@
       "onboard_time": 1744802961,
       "rank": 37,
       "category": "网红,海外新闻"
-    },
-    {
-      "raw_hot": 313147,
-      "num": 475579,
-      "word": "女子收养女婴10年仍是黑户",
-      "onboard_time": 1744863143,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 312694,
@@ -3963,6 +3963,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 292771,
+      "num": 292771,
+      "word": "无限暖暖联机",
+      "onboard_time": 1744865303,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 292764,
       "num": 292764,
       "word": "院人0713为齐思钧新书打call",
@@ -4083,12 +4091,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 284782,
+      "num": 269736,
+      "word": "警方证实贵州一夫二妻婚宴是闹剧",
+      "onboard_time": 1744862004,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 284318,
       "num": 284318,
       "word": "姆巴佩红牌",
       "onboard_time": 1744557203,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 281774,
+      "num": 281774,
+      "word": "金喜善48岁状态",
+      "onboard_time": 1744866023,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 281704,
@@ -4296,14 +4320,6 @@
       "word": "三河市政府官网已删除付顺义简历",
       "onboard_time": 1744712483,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 269736,
-      "num": 269736,
-      "word": "警方证实贵州一夫二妻婚宴是闹剧",
-      "onboard_time": 1744862004,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -5091,6 +5107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 228418,
+      "num": 228418,
+      "word": "管乐给张小婉发180秒语音",
+      "onboard_time": 1744866203,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 228062,
       "num": 228062,
       "word": "贺峻霖 offer7",
@@ -5699,6 +5723,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 210013,
+      "num": 189416,
+      "word": "世纪佳缘取消3人婚礼预定",
+      "onboard_time": 1744866683,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 209773,
       "num": 209773,
       "word": "官方回应男子与现任前任办3人婚礼",
@@ -5761,6 +5793,14 @@
       "onboard_time": 1744805181,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 208816,
+      "num": 208816,
+      "word": "陈赫徐志胜吃虫吃到精神恍惚",
+      "onboard_time": 1744865244,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 208691,
@@ -7323,6 +7363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181982,
+      "num": 181982,
+      "word": "北京电影节红毯阵容",
+      "onboard_time": 1744866923,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 181938,
       "num": 181938,
       "word": "simon",
@@ -7369,6 +7417,14 @@
       "onboard_time": 1744704982,
       "rank": 31,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 181270,
+      "num": 181270,
+      "word": "长隆动物园就是巨大的养猪场",
+      "onboard_time": 1744866621,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 181164,
@@ -8947,6 +9003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153278,
+      "num": 153278,
+      "word": "柬埔寨",
+      "onboard_time": 1744867402,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 153140,
       "num": 437667,
       "word": "特朗普指责泽连斯基总想买导弹",
@@ -8977,6 +9041,14 @@
       "onboard_time": 1744775122,
       "rank": 39,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 152282,
+      "num": 152282,
+      "word": "买黄金前一定要了解的冷知识",
+      "onboard_time": 1744866143,
+      "rank": 45,
+      "category": "科学科普"
     },
     {
       "raw_hot": 152240,
@@ -9027,6 +9099,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 151910,
+      "num": 151910,
+      "word": "内裤袜子丢进洗衣机里比手洗好",
+      "onboard_time": 1744867461,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 151880,
       "num": 151880,
       "word": "金饰价飙到1027元",
@@ -9041,6 +9121,14 @@
       "onboard_time": 1744801822,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151614,
+      "num": 188289,
+      "word": "王安宇演技含金量",
+      "onboard_time": 1744867162,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 151595,
@@ -9073,6 +9161,14 @@
       "onboard_time": 1744765822,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 151304,
+      "num": 189403,
+      "word": "古子成模仿金宣虎wink笑",
+      "onboard_time": 1744866023,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 151197,
@@ -9297,6 +9393,14 @@
       "onboard_time": 1744679481,
       "rank": 13,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 146726,
+      "num": 146726,
+      "word": "独行侠淘汰国王",
+      "onboard_time": 1744867402,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 146597,
@@ -10091,6 +10195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 136774,
+      "num": 194496,
+      "word": "梁靖崑晋级澳门世界杯八强",
+      "onboard_time": 1744867222,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136748,
       "num": 136748,
       "word": "谈论全球电影未来怎能不提中国",
@@ -10209,6 +10321,14 @@
       "onboard_time": 1744628541,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 135170,
+      "num": 135170,
+      "word": "凤凰传奇曾毅路过全网爆梗",
+      "onboard_time": 1744866563,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 134814,
@@ -13835,6 +13955,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 65148,
+      "num": 184138,
+      "word": "WTT",
+      "onboard_time": 1744865303,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 64817,
       "num": 64817,
       "word": "两只熊猫幼崽蛄蛹蛄蛹越贴越紧",
@@ -14041,6 +14169,14 @@
       "onboard_time": 1744777104,
       "rank": 29,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 59652,
+      "num": 181983,
+      "word": "无忧渡有自己的真假美猴王",
+      "onboard_time": 1744866443,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 59476,
@@ -14355,6 +14491,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 49654,
+      "num": 189418,
+      "word": "曝特朗普政府要求取消哈佛免税资格",
+      "onboard_time": 1744866862,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 49653,
       "num": 152570,
       "word": "全红婵赛后发18宫格",
@@ -14432,6 +14576,14 @@
       "word": "张本智和回应晋级世界杯16强",
       "onboard_time": 1744779925,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 48365,
+      "num": 297408,
+      "word": "林诗栋VS卡尔伯格",
+      "onboard_time": 1744866981,
+      "rank": 14,
       "category": "体育"
     },
     {
@@ -14931,6 +15083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38416,
+      "num": 181558,
+      "word": "00后整顿职场是对还是错",
+      "onboard_time": 1744867402,
+      "rank": 39,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 38014,
       "num": 46239,
       "word": "荣耀之战",
@@ -14953,6 +15113,14 @@
       "onboard_time": 1744559302,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 37938,
+      "num": 209874,
+      "word": "3岁男童被虐待致死案母亲曝光细节",
+      "onboard_time": 1744867222,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37900,
