@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744856105970,
+  "endTime": 1744859264589,
   "band_list": [
     {
       "raw_hot": 10606514,
@@ -379,6 +379,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1524779,
+      "num": 387166,
+      "word": "江西景德镇发生一起刑事案件",
+      "onboard_time": 1744856360,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1506573,
       "num": 535377,
       "word": "朱一龙回应杨蓉",
@@ -417,6 +425,14 @@
       "onboard_time": 1744602142,
       "rank": 22,
       "category": "数码"
+    },
+    {
+      "raw_hot": 1452966,
+      "num": 1452966,
+      "word": "认养一头牛广告被指嘲讽打工人",
+      "onboard_time": 1744854141,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1452465,
@@ -673,14 +689,6 @@
       "onboard_time": 1744778904,
       "rank": 1,
       "category": "游戏,电影"
-    },
-    {
-      "raw_hot": 1141093,
-      "num": 1247781,
-      "word": "认养一头牛广告被指嘲讽打工人",
-      "onboard_time": 1744854141,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1141040,
@@ -1859,6 +1867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 650059,
+      "num": 650059,
+      "word": "男童被生父女友虐死案开庭",
+      "onboard_time": 1744856840,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 649541,
       "num": 649541,
       "word": "孙燕姿演唱会嘉宾林俊杰",
@@ -2041,6 +2057,14 @@
       "onboard_time": 1744687462,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 596830,
+      "num": 596830,
+      "word": "李昊种地的三年",
+      "onboard_time": 1744854080,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 594856,
@@ -2731,6 +2755,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 432240,
+      "num": 432240,
+      "word": "东极岛",
+      "onboard_time": 1744857441,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 431368,
+      "num": 431368,
+      "word": "特朗普吹牛日入20亿关税被揭穿",
+      "onboard_time": 1744853062,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 430720,
       "num": 383132,
       "word": "越南人有多爱中国电视剧",
@@ -3147,14 +3187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 371807,
-      "num": 371807,
-      "word": "特朗普吹牛日入20亿关税被揭穿",
-      "onboard_time": 1744853062,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 370690,
       "num": 370690,
       "word": "急性心梗30秒自救方法",
@@ -3177,6 +3209,14 @@
       "onboard_time": 1744472304,
       "rank": 8,
       "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 370335,
+      "num": 370335,
+      "word": "3岁男童遭虐待致死案母亲再发声",
+      "onboard_time": 1744855700,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 370235,
@@ -3241,14 +3281,6 @@
       "onboard_time": 1744518441,
       "rank": 33,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 363609,
-      "num": 363609,
-      "word": "李昊种地的三年",
-      "onboard_time": 1744854080,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 362750,
@@ -3883,6 +3915,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 285621,
+      "num": 285621,
+      "word": "张小婉被粉丝叫老婆的反应",
+      "onboard_time": 1744854023,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 284991,
       "num": 271541,
       "word": "生理性厌恶的8个表现",
@@ -4017,6 +4057,14 @@
       "onboard_time": 1744607962,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 273383,
+      "num": 202452,
+      "word": "老兵身上33枚钢珠被医生误认成项链",
+      "onboard_time": 1744856540,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 273010,
@@ -4241,6 +4289,14 @@
       "onboard_time": 1744778904,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 260566,
+      "num": 260566,
+      "word": "浪姐五公分组",
+      "onboard_time": 1744856721,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 260341,
@@ -5483,6 +5539,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 208822,
+      "num": 388907,
+      "word": "认养一头牛回应广告争议",
+      "onboard_time": 1744854442,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 208691,
       "num": 361411,
       "word": "无忧渡 猫妖换命",
@@ -5513,14 +5577,6 @@
       "onboard_time": 1744538542,
       "rank": 8,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 208243,
-      "num": 208243,
-      "word": "张小婉被粉丝叫老婆的反应",
-      "onboard_time": 1744854023,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 208232,
@@ -5593,6 +5649,14 @@
       "onboard_time": 1744524261,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 206593,
+      "num": 206593,
+      "word": "钟汉良朱珠吻戏",
+      "onboard_time": 1744859120,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 206488,
@@ -7579,6 +7643,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 171204,
+      "num": 171204,
+      "word": "赵奕欢素颜打羽毛球",
+      "onboard_time": 1744858880,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171072,
       "num": 192429,
       "word": "谢娜录浪姐冷到穿3条秋裤3双袜子",
@@ -7843,6 +7915,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 165453,
+      "num": 165453,
+      "word": "路人发现女子头孢配酒果断报警",
+      "onboard_time": 1744857621,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 165415,
       "num": 240810,
       "word": "网友偶遇吴世勋吃饭",
@@ -8025,6 +8105,14 @@
       "onboard_time": 1744711763,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162618,
+      "num": 170262,
+      "word": "南部档案杀青",
+      "onboard_time": 1744856181,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 162587,
@@ -8315,6 +8403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157528,
+      "num": 157528,
+      "word": "美方畸高关税在经济上已无实际意义",
+      "onboard_time": 1744856780,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 157437,
       "num": 157437,
       "word": "睡前玩手机1小时失眠概率增59%",
@@ -8569,6 +8665,14 @@
       "onboard_time": 1744775122,
       "rank": 39,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 152256,
+      "num": 152256,
+      "word": "理疗馆给半岁婴儿刮痧引争议",
+      "onboard_time": 1744858102,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152240,
@@ -8857,6 +8961,14 @@
       "onboard_time": 1744851923,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146835,
+      "num": 146835,
+      "word": "绵绵的羊问题卫生巾已下架",
+      "onboard_time": 1744855641,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 146778,
@@ -9171,14 +9283,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 142725,
-      "num": 142725,
-      "word": "认养一头牛回应广告争议",
-      "onboard_time": 1744854442,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 142652,
       "num": 142652,
       "word": "半熟4第五期cp冷静期",
@@ -9371,6 +9475,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 140179,
+      "num": 140179,
+      "word": "全红婵陈芋汐2小时内决胜负",
+      "onboard_time": 1744857080,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140047,
       "num": 140047,
       "word": "HBO剧版哈利波特主演",
@@ -9553,6 +9665,14 @@
       "onboard_time": 1744792941,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 137480,
+      "num": 169955,
+      "word": "李现长风起造型出妆",
+      "onboard_time": 1744858341,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 137459,
@@ -10123,6 +10243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129840,
+      "num": 180010,
+      "word": "A股芯片股爆发",
+      "onboard_time": 1744857621,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 129768,
       "num": 149530,
       "word": "为什么体检无异常发现却是晚期",
@@ -10211,6 +10339,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 128617,
+      "num": 169733,
+      "word": "歌手 网飞直播",
+      "onboard_time": 1744858760,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 128559,
       "num": 128559,
       "word": "Max快和NeiNei一样高了",
@@ -10233,14 +10369,6 @@
       "onboard_time": 1744711522,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 128420,
-      "num": 128420,
-      "word": "绵绵的羊问题卫生巾已下架",
-      "onboard_time": 1744855641,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128401,
@@ -10313,6 +10441,14 @@
       "onboard_time": 1744701620,
       "rank": 48,
       "category": "民生新闻,旅游"
+    },
+    {
+      "raw_hot": 127340,
+      "num": 127340,
+      "word": "5月只需上19天班",
+      "onboard_time": 1744855942,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127268,
@@ -11435,6 +11571,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 111413,
+      "num": 111413,
+      "word": "多型海军舰艇首次公开面向公众开放",
+      "onboard_time": 1744858221,
+      "rank": 46,
+      "category": "军事"
+    },
+    {
       "raw_hot": 111366,
       "num": 111366,
       "word": "BLG教练回应两连败",
@@ -11473,14 +11617,6 @@
       "onboard_time": 1744853899,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 110426,
-      "num": 110426,
-      "word": "5月只需上19天班",
-      "onboard_time": 1744855942,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 110383,
@@ -11657,6 +11793,14 @@
       "onboard_time": 1744547301,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 106293,
+      "num": 106293,
+      "word": "叠在一起睡觉的两只狗狗",
+      "onboard_time": 1744859241,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 106291,
@@ -11857,6 +12001,14 @@
       "onboard_time": 1744545681,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 103417,
+      "num": 103417,
+      "word": "梁靖崑VS户上隼辅",
+      "onboard_time": 1744858341,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 103005,
@@ -13099,14 +13251,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 69962,
-      "num": 284282,
-      "word": "3岁男童遭虐待致死案母亲再发声",
-      "onboard_time": 1744855700,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 69929,
       "num": 155500,
       "word": "鼻塞鼻炎看这篇",
@@ -13209,6 +13353,14 @@
       "onboard_time": 1744598360,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 67418,
+      "num": 300338,
+      "word": "陈幸同VS申裕斌",
+      "onboard_time": 1744858880,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 67270,
@@ -14891,6 +15043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 23534,
+      "num": 293269,
+      "word": "青岛多孩家庭购房最高补贴10万",
+      "onboard_time": 1744858880,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23492,
       "num": 33585,
       "word": "2025F1巴林大奖赛",
@@ -15273,6 +15433,14 @@
       "onboard_time": 1744577534,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 18340,
+      "num": 132389,
+      "word": "打了石膏的狗狗们",
+      "onboard_time": 1744858819,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 18234,

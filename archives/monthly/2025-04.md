@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/17 10:15:05
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/17 11:07:44
 </p>
 </blockquote>
 <p>
@@ -1203,6 +1203,12 @@ RedVelvet 解散（热度：1601334）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E6%99%AF%E5%BE%B7%E9%95%87%E5%8F%91%E7%94%9F%E4%B8%80%E8%B5%B7%E5%88%91%E4%BA%8B%E6%A1%88%E4%BB%B6%23" target="weibo">
+江西景德镇发生一起刑事案件（热度：1524779）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%85%B3%E7%A8%8E%E5%A4%A7%E6%A3%92%E6%88%96%E8%87%B4%E5%9B%BD%E5%86%85%E8%9B%8B%E4%BB%B7%E5%86%8D%E6%AC%A1%E4%B8%8A%E6%B6%A8%23" target="weibo">
 美国关税大棒或致国内蛋价再次上涨（热度：1522814）
 </a>
@@ -1343,6 +1349,12 @@ RedVelvet 解散（热度：1601334）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E6%96%B0%E7%94%B5%E5%BD%B1%E9%A5%AD%E5%88%B6%E6%B5%B7%E6%8A%A5%23" target="weibo">
 贾玲新电影饭制海报（热度：1457384）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AE%A4%E5%85%BB%E4%B8%80%E5%A4%B4%E7%89%9B%E5%B9%BF%E5%91%8A%E8%A2%AB%E6%8C%87%E5%98%B2%E8%AE%BD%E6%89%93%E5%B7%A5%E4%BA%BA%23" target="weibo">
+认养一头牛广告被指嘲讽打工人（热度：1452966）
 </a>
 </li>
 
@@ -2147,12 +2159,6 @@ Jennie科切拉舞台（热度：1176572）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E6%80%80%E4%BB%813.6%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
 山西怀仁3.6级地震（热度：1143523）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AE%A4%E5%85%BB%E4%B8%80%E5%A4%B4%E7%89%9B%E5%B9%BF%E5%91%8A%E8%A2%AB%E6%8C%87%E5%98%B2%E8%AE%BD%E6%89%93%E5%B7%A5%E4%BA%BA%23" target="weibo">
-认养一头牛广告被指嘲讽打工人（热度：1141093）
 </a>
 </li>
 
@@ -4983,6 +4989,12 @@ SU7坠崖车主发文感谢雷军（热度：668048）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%AB%A5%E8%A2%AB%E7%94%9F%E7%88%B6%E5%A5%B3%E5%8F%8B%E8%99%90%E6%AD%BB%E6%A1%88%E5%BC%80%E5%BA%AD%23" target="weibo">
+男童被生父女友虐死案开庭（热度：650059）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E7%87%95%E5%A7%BF%E6%BC%94%E5%94%B1%E4%BC%9A%E5%98%89%E5%AE%BE%E6%9E%97%E4%BF%8A%E6%9D%B0%23" target="weibo">
 孙燕姿演唱会嘉宾林俊杰（热度：649541）
 </a>
@@ -5493,6 +5505,12 @@ rapper祥龙diss严浩翔（热度：600766）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%98%8A%E7%A7%8D%E5%9C%B0%E7%9A%84%E4%B8%89%E5%B9%B4%23" target="weibo">
+李昊种地的三年（热度：596830）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%AF%B9%E8%B6%8A%E5%8D%97%E9%9B%B6%E5%85%B3%E7%A8%8E%E6%8F%90%E8%AE%AE%E4%B8%8D%E5%B1%91%E4%B8%80%E9%A1%BE%23" target="weibo">
 美国对越南零关税提议不屑一顾（热度：596521）
 </a>
@@ -5993,24 +6011,6 @@ Songha公开（热度：554934）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E4%BA%BA%E5%9C%A8%E5%81%A5%E8%BA%AB%E6%88%BF%E7%BB%84%E7%BB%87%E5%8D%96%E6%B7%AB%E6%9C%80%E9%AB%98%E5%88%A45%E5%B9%B4%E5%8D%8A%23" target="weibo">
 多人在健身房组织卖淫最高判5年半（热度：546315）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2326%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%B8%8D%E5%90%83%E6%97%A9%E9%A5%AD%E8%83%86%E5%9B%8A%E9%95%BF%E6%BB%A1%E7%A2%8E%E7%9F%B3%23" target="weibo">
-26岁女孩不吃早饭胆囊长满碎石（热度：546258）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%80%E5%B0%8F%E5%88%80%E5%9B%9E%E5%BA%94%E8%A2%AB%E8%AD%A6%E5%AF%9F%E5%B8%A6%E8%B5%B0%23" target="weibo">
-刀小刀回应被警察带走（热度：546044）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%A6%A8%E4%BA%88%E4%BD%93%E8%84%82%E8%82%AA%E5%90%AB%E9%87%8F32%25%23" target="weibo">
-张馨予体脂肪含量32%（热度：545890）
 </a>
 </li>
 

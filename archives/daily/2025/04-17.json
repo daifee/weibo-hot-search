@@ -1,7 +1,15 @@
 {
   "startTime": 1744821103506,
-  "endTime": 1744856105970,
+  "endTime": 1744859264589,
   "band_list": [
+    {
+      "raw_hot": 1524779,
+      "num": 387166,
+      "word": "江西景德镇发生一起刑事案件",
+      "onboard_time": 1744856360,
+      "rank": 10,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 1481763,
       "num": 1481763,
@@ -11,20 +19,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1452966,
+      "num": 1452966,
+      "word": "认养一头牛广告被指嘲讽打工人",
+      "onboard_time": 1744854141,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1299802,
       "num": 1299802,
       "word": "歌手 单依纯",
       "onboard_time": 1744853062,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1141093,
-      "num": 1247781,
-      "word": "认养一头牛广告被指嘲讽打工人",
-      "onboard_time": 1744854141,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 971104,
@@ -91,12 +99,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 650059,
+      "num": 650059,
+      "word": "男童被生父女友虐死案开庭",
+      "onboard_time": 1744856840,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 635260,
       "num": 325254,
       "word": "毛毛果已缺货",
       "onboard_time": 1744817242,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 596830,
+      "num": 596830,
+      "word": "李昊种地的三年",
+      "onboard_time": 1744854080,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 579339,
@@ -131,6 +155,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 432240,
+      "num": 432240,
+      "word": "东极岛",
+      "onboard_time": 1744857441,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 431368,
+      "num": 431368,
+      "word": "特朗普吹牛日入20亿关税被揭穿",
+      "onboard_time": 1744853062,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 428153,
       "num": 221373,
       "word": "小狗毛毛去世",
@@ -155,12 +195,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 371807,
-      "num": 371807,
-      "word": "特朗普吹牛日入20亿关税被揭穿",
-      "onboard_time": 1744853062,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 370335,
+      "num": 370335,
+      "word": "3岁男童遭虐待致死案母亲再发声",
+      "onboard_time": 1744855700,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 364604,
@@ -168,14 +208,6 @@
       "word": "王蓉疑似明涵浪姐有剧本",
       "onboard_time": 1744812264,
       "rank": 21,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 363609,
-      "num": 363609,
-      "word": "李昊种地的三年",
-      "onboard_time": 1744854080,
-      "rank": 19,
       "category": "综艺"
     },
     {
@@ -227,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 285621,
+      "num": 285621,
+      "word": "张小婉被粉丝叫老婆的反应",
+      "onboard_time": 1744854023,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 279108,
       "num": 279108,
       "word": "王者荣耀",
@@ -240,6 +280,14 @@
       "word": "肥娟119元网购桶装冰激凌卖2元一杯",
       "onboard_time": 1744808602,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 273383,
+      "num": 202452,
+      "word": "老兵身上33枚钢珠被医生误认成项链",
+      "onboard_time": 1744856540,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -265,6 +313,14 @@
       "onboard_time": 1744848500,
       "rank": 23,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 260566,
+      "num": 260566,
+      "word": "浪姐五公分组",
+      "onboard_time": 1744856721,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 257581,
@@ -355,12 +411,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 208243,
-      "num": 208243,
-      "word": "张小婉被粉丝叫老婆的反应",
-      "onboard_time": 1744854023,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 208822,
+      "num": 388907,
+      "word": "认养一头牛回应广告争议",
+      "onboard_time": 1744854442,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 206593,
+      "num": 206593,
+      "word": "钟汉良朱珠吻戏",
+      "onboard_time": 1744859120,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 205475,
@@ -419,6 +483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 171204,
+      "num": 171204,
+      "word": "赵奕欢素颜打羽毛球",
+      "onboard_time": 1744858880,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166182,
       "num": 166182,
       "word": "小学生看了两眼发现罂粟",
@@ -427,12 +499,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165453,
+      "num": 165453,
+      "word": "路人发现女子头孢配酒果断报警",
+      "onboard_time": 1744857621,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162618,
+      "num": 170262,
+      "word": "南部档案杀青",
+      "onboard_time": 1744856181,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 157528,
+      "num": 157528,
+      "word": "美方畸高关税在经济上已无实际意义",
+      "onboard_time": 1744856780,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 153116,
       "num": 153116,
       "word": "业内称女明星真人颜值非常高",
       "onboard_time": 1744850602,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152256,
+      "num": 152256,
+      "word": "理疗馆给半岁婴儿刮痧引争议",
+      "onboard_time": 1744858102,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151880,
@@ -475,6 +579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146835,
+      "num": 146835,
+      "word": "绵绵的羊问题卫生巾已下架",
+      "onboard_time": 1744855641,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144985,
       "num": 144985,
       "word": "德国小伙赴美旅游被无端拘留16天",
@@ -483,12 +595,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 142725,
-      "num": 142725,
-      "word": "认养一头牛回应广告争议",
-      "onboard_time": 1744854442,
-      "rank": 38,
-      "category": "民生新闻"
+      "raw_hot": 140179,
+      "num": 140179,
+      "word": "全红婵陈芋汐2小时内决胜负",
+      "onboard_time": 1744857080,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 139635,
@@ -497,6 +609,14 @@
       "onboard_time": 1744855281,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 137480,
+      "num": 169955,
+      "word": "李现长风起造型出妆",
+      "onboard_time": 1744858341,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 132941,
@@ -515,6 +635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129840,
+      "num": 180010,
+      "word": "A股芯片股爆发",
+      "onboard_time": 1744857621,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 128695,
       "num": 128695,
       "word": "74岁父亲带5岁女儿的一天",
@@ -523,11 +651,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 128420,
-      "num": 128420,
-      "word": "绵绵的羊问题卫生巾已下架",
-      "onboard_time": 1744855641,
-      "rank": 40,
+      "raw_hot": 128617,
+      "num": 169733,
+      "word": "歌手 网飞直播",
+      "onboard_time": 1744858760,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 127340,
+      "num": 127340,
+      "word": "5月只需上19天班",
+      "onboard_time": 1744855942,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -619,6 +755,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 111413,
+      "num": 111413,
+      "word": "多型海军舰艇首次公开面向公众开放",
+      "onboard_time": 1744858221,
+      "rank": 46,
+      "category": "军事"
+    },
+    {
       "raw_hot": 110983,
       "num": 110983,
       "word": "iOS18.4.1正式版发布",
@@ -635,12 +779,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 110426,
-      "num": 110426,
-      "word": "5月只需上19天班",
-      "onboard_time": 1744855942,
-      "rank": 43,
-      "category": "民生新闻"
+      "raw_hot": 106293,
+      "num": 106293,
+      "word": "叠在一起睡觉的两只狗狗",
+      "onboard_time": 1744859241,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 106079,
@@ -673,6 +817,14 @@
       "onboard_time": 1744819700,
       "rank": 31,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 103417,
+      "num": 103417,
+      "word": "梁靖崑VS户上隼辅",
+      "onboard_time": 1744858341,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 100450,
@@ -843,19 +995,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 69962,
-      "num": 284282,
-      "word": "3岁男童遭虐待致死案母亲再发声",
-      "onboard_time": 1744855700,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 69656,
       "num": 69656,
       "word": "胡明轩被驱逐",
       "onboard_time": 1744814724,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 67418,
+      "num": 300338,
+      "word": "陈幸同VS申裕斌",
+      "onboard_time": 1744858880,
+      "rank": 13,
       "category": "体育"
     },
     {
@@ -963,6 +1115,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 23534,
+      "num": 293269,
+      "word": "青岛多孩家庭购房最高补贴10万",
+      "onboard_time": 1744858880,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21069,
       "num": 21069,
       "word": "太湖湾音乐节",
@@ -993,6 +1153,14 @@
       "onboard_time": 1744833193,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 18340,
+      "num": 132389,
+      "word": "打了石膏的狗狗们",
+      "onboard_time": 1744858819,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 17688,
