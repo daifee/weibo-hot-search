@@ -1,7 +1,31 @@
 {
   "startTime": 1744821103506,
-  "endTime": 1744846686183,
+  "endTime": 1744854762867,
   "band_list": [
+    {
+      "raw_hot": 1481763,
+      "num": 1481763,
+      "word": "白宫承认中方没打来过电话",
+      "onboard_time": 1744847722,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 1051376,
+      "num": 1051376,
+      "word": "歌手 单依纯",
+      "onboard_time": 1744853062,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 971104,
+      "num": 307946,
+      "word": "9岁女童从25楼坠落生还喊妈妈救我",
+      "onboard_time": 1744851082,
+      "rank": 10,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 896216,
       "num": 704313,
@@ -19,12 +43,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 783308,
+      "num": 783308,
+      "word": "12306候补",
+      "onboard_time": 1744850543,
+      "rank": 4,
+      "category": "互联网,民生新闻"
+    },
+    {
       "raw_hot": 760924,
       "num": 221716,
       "word": "8个月女婴被虐待体重仅6斤",
       "onboard_time": 1744814783,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 725340,
+      "num": 1163834,
+      "word": "黄金",
+      "onboard_time": 1744811962,
+      "rank": 1,
+      "category": "财经"
     },
     {
       "raw_hot": 673248,
@@ -36,7 +76,7 @@
     },
     {
       "raw_hot": 671026,
-      "num": 205721,
+      "num": 304131,
       "word": "中戏前四vs北电前四",
       "onboard_time": 1744846640,
       "rank": 11,
@@ -44,19 +84,11 @@
     },
     {
       "raw_hot": 635260,
-      "num": 221626,
+      "num": 307095,
       "word": "毛毛果已缺货",
       "onboard_time": 1744817242,
       "rank": 11,
       "category": "网红"
-    },
-    {
-      "raw_hot": 607056,
-      "num": 607056,
-      "word": "黄金",
-      "onboard_time": 1744811962,
-      "rank": 1,
-      "category": "财经"
     },
     {
       "raw_hot": 579339,
@@ -75,12 +107,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 471051,
+      "num": 382734,
+      "word": "沙溢黑到反光",
+      "onboard_time": 1744851201,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 428153,
       "num": 221373,
       "word": "小狗毛毛去世",
       "onboard_time": 1744810821,
       "rank": 13,
       "category": "网红"
+    },
+    {
+      "raw_hot": 391928,
+      "num": 391928,
+      "word": "母亲谈9岁女童从25楼坠落奇迹生还",
+      "onboard_time": 1744847722,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 388105,
@@ -99,6 +147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 351774,
+      "num": 351774,
+      "word": "央视披露兰州无人机驾考作弊案细节",
+      "onboard_time": 1744849883,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 351451,
       "num": 197368,
       "word": "知情人回应网红小猫悟空去世",
@@ -115,11 +171,59 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 341982,
+      "num": 219672,
+      "word": "以为很干净其实很脏的生活习惯",
+      "onboard_time": 1744846521,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 307347,
+      "num": 219465,
+      "word": "公公给儿媳59克黄金当改口红包",
+      "onboard_time": 1744846521,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 291259,
+      "num": 291259,
+      "word": "京东和美团同时开始即时零售",
+      "onboard_time": 1744848382,
+      "rank": 13,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 286047,
+      "num": 286047,
+      "word": "陈德容房琪进五公",
+      "onboard_time": 1744848861,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 279108,
+      "num": 279108,
+      "word": "王者荣耀",
+      "onboard_time": 1744850423,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 278710,
       "num": 278710,
       "word": "肥娟119元网购桶装冰激凌卖2元一杯",
       "onboard_time": 1744808602,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 267603,
+      "num": 218060,
+      "word": "99年女生摆摊7年靠自己成功买房",
+      "onboard_time": 1744848982,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -129,6 +233,14 @@
       "onboard_time": 1744807043,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 265788,
+      "num": 216418,
+      "word": "三亚警方通报60岁女子开车撞伤6人",
+      "onboard_time": 1744848500,
+      "rank": 23,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 257581,
@@ -147,19 +259,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 250256,
-      "num": 187894,
-      "word": "以为很干净其实很脏的生活习惯",
-      "onboard_time": 1744846521,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 248696,
-      "num": 187597,
-      "word": "公公给儿媳59克黄金当改口红包",
-      "onboard_time": 1744846521,
-      "rank": 21,
+      "raw_hot": 247765,
+      "num": 247765,
+      "word": "认养一头牛广告被指嘲讽打工人",
+      "onboard_time": 1744854141,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -195,6 +299,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 223672,
+      "num": 311481,
+      "word": "特朗普吹牛日入20亿关税被揭穿",
+      "onboard_time": 1744853062,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 222101,
+      "num": 222101,
+      "word": "李嘉琦四公淘汰",
+      "onboard_time": 1744851443,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 214515,
+      "num": 214515,
+      "word": "美联储主席发出通胀警告",
+      "onboard_time": 1744846400,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 211627,
       "num": 211627,
       "word": "中方不予理会美方关税数字游戏",
@@ -219,6 +347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208243,
+      "num": 208243,
+      "word": "张小婉被粉丝叫老婆的反应",
+      "onboard_time": 1744854023,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205475,
       "num": 205475,
       "word": "欧冠",
@@ -228,11 +364,19 @@
     },
     {
       "raw_hot": 198054,
-      "num": 508155,
+      "num": 1100733,
       "word": "警惕美国正向全世界摊派空气税",
       "onboard_time": 1744817661,
       "rank": 2,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 197838,
+      "num": 220855,
+      "word": "李昊种地的三年",
+      "onboard_time": 1744854080,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 188471,
@@ -251,6 +395,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 185686,
+      "num": 185686,
+      "word": "广东廉江一家三口遭同村村民杀害",
+      "onboard_time": 1744846759,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 182722,
+      "num": 182722,
+      "word": "美联储",
+      "onboard_time": 1744846400,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 175910,
       "num": 154273,
       "word": "男子失联一天一夜同事找开锁上门",
@@ -265,6 +425,14 @@
       "onboard_time": 1744815381,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153116,
+      "num": 153116,
+      "word": "业内称女明星真人颜值非常高",
+      "onboard_time": 1744850602,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 151446,
@@ -283,6 +451,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 150623,
+      "num": 150623,
+      "word": "王一博园丁",
+      "onboard_time": 1744853301,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 146841,
+      "num": 146841,
+      "word": "ONER结拜",
+      "onboard_time": 1744851923,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132941,
       "num": 133219,
       "word": "媒体人说朱一龙不应该被归类在流量",
@@ -297,6 +481,22 @@
       "onboard_time": 1744809081,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128695,
+      "num": 128695,
+      "word": "74岁父亲带5岁女儿的一天",
+      "onboard_time": 1744846880,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128115,
+      "num": 128115,
+      "word": "德国小伙赴美旅游被无端拘留16天",
+      "onboard_time": 1744853601,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 127268,
@@ -315,6 +515,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125051,
+      "num": 125051,
+      "word": "认养一头牛回应广告争议",
+      "onboard_time": 1744854442,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121334,
+      "num": 121334,
+      "word": "家属回应一家三口遭同村村民杀害",
+      "onboard_time": 1744852043,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118549,
+      "num": 118549,
+      "word": "乒乓球世界杯",
+      "onboard_time": 1744849823,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118045,
       "num": 118045,
       "word": "值得爱",
@@ -331,12 +555,52 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117404,
+      "num": 117404,
+      "word": "五一车票今日开售",
+      "onboard_time": 1744847781,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112832,
       "num": 112832,
       "word": "值得爱he",
       "onboard_time": 1744824317,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112531,
+      "num": 112531,
+      "word": "公司有这食堂就算月薪3k我也愿意",
+      "onboard_time": 1744850483,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 111620,
+      "num": 111620,
+      "word": "浙江企业拒绝美国客户半价提货",
+      "onboard_time": 1744846880,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 110983,
+      "num": 110983,
+      "word": "iOS18.4.1正式版发布",
+      "onboard_time": 1744852162,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 110972,
+      "num": 110972,
+      "word": "杨瀚森宣布参加今年NBA选秀",
+      "onboard_time": 1744853899,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 106079,
@@ -419,12 +683,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 90813,
-      "num": 90813,
-      "word": "美联储",
-      "onboard_time": 1744846400,
-      "rank": 37,
-      "category": "国际时政"
+      "raw_hot": 88643,
+      "num": 215169,
+      "word": "今晚油价或现年内最大跌幅",
+      "onboard_time": 1744848922,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 88555,
@@ -465,14 +729,6 @@
       "onboard_time": 1744829775,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 81624,
-      "num": 81624,
-      "word": "美联储主席发出通胀警告",
-      "onboard_time": 1744846400,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 81580,
