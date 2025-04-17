@@ -1,0 +1,410 @@
+{
+  "runTime": 1744868500027,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1560047,
+        "num": 1560047,
+        "word": "旅游博主被关小黑屋强迫接受间谍任务",
+        "onboard_time": 1744863022,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 942442,
+        "num": 942442,
+        "word": "半个娱乐圈团建的含金量",
+        "onboard_time": 1744861403,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28511,
+        "num": 706329,
+        "word": "守一扇心窗唱响护苗新篇章",
+        "onboard_time": 1744863863,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 495849,
+        "num": 495849,
+        "word": "5吨大米淘500克金米被指浪费粮食",
+        "onboard_time": 1744861762,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 456443,
+        "num": 456443,
+        "word": "白宫承认中方没打来过电话",
+        "onboard_time": 1744847722,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 434030,
+        "num": 434030,
+        "word": "杨紫白鹿等火到柬埔寨了",
+        "onboard_time": 1744861461,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390275,
+        "num": 390275,
+        "word": "能叫停关税的只有美债",
+        "onboard_time": 1744860922,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 353073,
+        "num": 353073,
+        "word": "被制裁5次的中国企业如今订单满满",
+        "onboard_time": 1744863022,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 326190,
+        "num": 326190,
+        "word": "女子收养女婴10年仍是黑户",
+        "onboard_time": 1744863143,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 326007,
+        "num": 326007,
+        "word": "贺峻霖北京电影节表演嘉宾",
+        "onboard_time": 1744861042,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1250821,
+        "num": 323738,
+        "word": "张檬晒照官宣生子",
+        "onboard_time": 1744861641,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 911139,
+        "num": 321577,
+        "word": "终于有剧拍了离婚女人有多爽了",
+        "onboard_time": 1744860321,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 618932,
+        "num": 319220,
+        "word": "韩媒曝金秀贤对金赛纶方诉讼有变",
+        "onboard_time": 1744864524,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 514221,
+        "num": 318088,
+        "word": "江西景德镇发生一起刑事案件",
+        "onboard_time": 1744856360,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 470579,
+        "num": 315792,
+        "word": "认养一头牛广告被指嘲讽打工人",
+        "onboard_time": 1744854141,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 419015,
+        "num": 314285,
+        "word": "金喜善48岁状态",
+        "onboard_time": 1744866023,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312180,
+        "num": 312180,
+        "word": "管乐给张小婉发180秒语音",
+        "onboard_time": 1744866203,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274967,
+        "num": 274967,
+        "word": "李昊种地的三年",
+        "onboard_time": 1744854080,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56120,
+        "num": 273270,
+        "word": "美国一处导弹试验场发生强烈爆炸",
+        "onboard_time": 1744867822,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 70962,
+        "num": 271975,
+        "word": "3岁男童被虐待致死案母亲曝光细节",
+        "onboard_time": 1744867222,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 442741,
+        "num": 270806,
+        "word": "长期处于饥饿状态会怎么样",
+        "onboard_time": 1744861461,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 407810,
+        "num": 268155,
+        "word": "世纪佳缘取消3人婚礼预定",
+        "onboard_time": 1744866683,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268017,
+        "num": 268017,
+        "word": "歌手 单依纯",
+        "onboard_time": 1744853062,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250373,
+        "num": 250373,
+        "word": "警方证实贵州一夫二妻婚宴是闹剧",
+        "onboard_time": 1744862004,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233704,
+        "num": 233704,
+        "word": "折腰小说",
+        "onboard_time": 1744867581,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232750,
+        "num": 232750,
+        "word": "内裤袜子丢进洗衣机里比手洗好",
+        "onboard_time": 1744867461,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 192741,
+        "num": 226985,
+        "word": "演员板垣瑞生去世",
+        "onboard_time": 1744868300,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223993,
+        "num": 223993,
+        "word": "王安宇演技含金量",
+        "onboard_time": 1744867162,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212902,
+        "num": 212902,
+        "word": "买黄金前一定要了解的冷知识",
+        "onboard_time": 1744866143,
+        "rank": 28,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 48559,
+        "num": 208527,
+        "word": "曝特朗普政府要求取消哈佛免税资格",
+        "onboard_time": 1744866862,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 205745,
+        "num": 205745,
+        "word": "柬埔寨",
+        "onboard_time": 1744867402,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 200387,
+        "num": 200387,
+        "word": "郑怡静4比3早田希娜",
+        "onboard_time": 1744868182,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197037,
+        "num": 197037,
+        "word": "12306候补",
+        "onboard_time": 1744850543,
+        "rank": 32,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 175875,
+        "num": 175875,
+        "word": "赵小童晒十个勤天新合照",
+        "onboard_time": 1744868362,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173343,
+        "num": 173343,
+        "word": "钟汉良朱珠吻戏",
+        "onboard_time": 1744859120,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167385,
+        "num": 167385,
+        "word": "陈赫徐志胜吃虫吃到精神恍惚",
+        "onboard_time": 1744865244,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165487,
+        "num": 165487,
+        "word": "女生以为挖到超大竹笋结果被嘲笑",
+        "onboard_time": 1744859421,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160525,
+        "num": 160525,
+        "word": "苏新皓 爱豆届的阿拉丁神灯",
+        "onboard_time": 1744867702,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158877,
+        "num": 158877,
+        "word": "董力辟谣拒绝亲密行为",
+        "onboard_time": 1744867702,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44672,
+        "num": 158780,
+        "word": "00后整顿职场是对还是错",
+        "onboard_time": 1744867402,
+        "rank": 39,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 158753,
+        "num": 158753,
+        "word": "原神",
+        "onboard_time": 1744866143,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 40195,
+        "num": 156836,
+        "word": "这简历已经是Toplevel了",
+        "onboard_time": 1744868481,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155557,
+        "num": 155557,
+        "word": "无限暖暖联机",
+        "onboard_time": 1744865303,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 153643,
+        "num": 153643,
+        "word": "男童被生父女友虐死案开庭",
+        "onboard_time": 1744856840,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70633,
+        "num": 153621,
+        "word": "特朗普吹牛日入20亿关税被揭穿",
+        "onboard_time": 1744853062,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 37740,
+        "num": 153615,
+        "word": "林诗栋VS卡尔伯格",
+        "onboard_time": 1744866981,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153614,
+        "num": 153614,
+        "word": "台湾媒体称大陆AI远超美国",
+        "onboard_time": 1744864223,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 148929,
+        "num": 148929,
+        "word": "无忧渡拼好人",
+        "onboard_time": 1744868124,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140401,
+        "num": 140401,
+        "word": "长隆动物园就是巨大的养猪场",
+        "onboard_time": 1744866621,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139129,
+        "num": 139129,
+        "word": "官方回应男子与现任前任办3人婚礼",
+        "onboard_time": 1744862843,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#柬埔寨盛情迎接习主席到访#"
+    }
+  }
+}

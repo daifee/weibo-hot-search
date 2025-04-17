@@ -1,6 +1,6 @@
 {
   "startTime": 1744821103506,
-  "endTime": 1744867496944,
+  "endTime": 1744868500027,
   "band_list": [
     {
       "raw_hot": 2125500,
@@ -17,6 +17,14 @@
       "onboard_time": 1744860321,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1560047,
+      "num": 1560047,
+      "word": "旅游博主被关小黑屋强迫接受间谍任务",
+      "onboard_time": 1744863022,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1539120,
@@ -40,14 +48,6 @@
       "word": "认养一头牛广告被指嘲讽打工人",
       "onboard_time": 1744854141,
       "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1422487,
-      "num": 1422487,
-      "word": "旅游博主被关小黑屋强迫接受间谍任务",
-      "onboard_time": 1744863022,
-      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -211,20 +211,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 618932,
+      "num": 352499,
+      "word": "韩媒曝金秀贤对金赛纶方诉讼有变",
+      "onboard_time": 1744864524,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 616559,
       "num": 616559,
       "word": "李昊种地的三年",
       "onboard_time": 1744854080,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 613932,
-      "num": 352499,
-      "word": "韩媒曝金秀贤对金赛纶方诉讼有变",
-      "onboard_time": 1744864524,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 601374,
@@ -291,6 +291,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 419015,
+      "num": 314285,
+      "word": "金喜善48岁状态",
+      "onboard_time": 1744866023,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 415399,
       "num": 415399,
       "word": "被虐死男童生父以被害者家属身份出庭",
@@ -304,6 +312,14 @@
       "word": "母亲谈9岁女童从25楼坠落奇迹生还",
       "onboard_time": 1744847722,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 407810,
+      "num": 268155,
+      "word": "世纪佳缘取消3人婚礼预定",
+      "onboard_time": 1744866683,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -329,6 +345,14 @@
       "onboard_time": 1744812264,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 353073,
+      "num": 353073,
+      "word": "被制裁5次的中国企业如今订单满满",
+      "onboard_time": 1744863022,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 351451,
@@ -371,12 +395,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 312694,
-      "num": 312694,
-      "word": "被制裁5次的中国企业如今订单满满",
-      "onboard_time": 1744863022,
-      "rank": 32,
-      "category": "民生新闻"
+      "raw_hot": 312180,
+      "num": 312180,
+      "word": "管乐给张小婉发180秒语音",
+      "onboard_time": 1744866203,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 307347,
@@ -433,14 +457,6 @@
       "onboard_time": 1744862004,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 281774,
-      "num": 281774,
-      "word": "金喜善48岁状态",
-      "onboard_time": 1744866023,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 279108,
@@ -555,12 +571,28 @@
       "category": "国内时政,艺人"
     },
     {
+      "raw_hot": 233704,
+      "num": 233704,
+      "word": "折腰小说",
+      "onboard_time": 1744867581,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 232860,
       "num": 254441,
       "word": "张小婉又选了管乐",
       "onboard_time": 1744864282,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 232750,
+      "num": 232750,
+      "word": "内裤袜子丢进洗衣机里比手洗好",
+      "onboard_time": 1744867461,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 232022,
@@ -587,14 +619,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 228418,
-      "num": 228418,
-      "word": "管乐给张小婉发180秒语音",
-      "onboard_time": 1744866203,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 225905,
       "num": 208923,
       "word": "林允这是要开中餐厅吗",
@@ -609,6 +633,14 @@
       "onboard_time": 1744863202,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 223993,
+      "num": 223993,
+      "word": "王安宇演技含金量",
+      "onboard_time": 1744867162,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 222161,
@@ -627,6 +659,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 212902,
+      "num": 212902,
+      "word": "买黄金前一定要了解的冷知识",
+      "onboard_time": 1744866143,
+      "rank": 45,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 211627,
       "num": 211627,
       "word": "中方不予理会美方关税数字游戏",
@@ -640,14 +680,6 @@
       "word": "特朗普听故宫三原色道理后懵圈",
       "onboard_time": 1744803921,
       "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 210013,
-      "num": 189416,
-      "word": "世纪佳缘取消3人婚礼预定",
-      "onboard_time": 1744866683,
-      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -691,6 +723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205745,
+      "num": 205745,
+      "word": "柬埔寨",
+      "onboard_time": 1744867402,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 205475,
       "num": 205475,
       "word": "欧冠",
@@ -705,6 +745,14 @@
       "onboard_time": 1744864223,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 200387,
+      "num": 200387,
+      "word": "郑怡静4比3早田希娜",
+      "onboard_time": 1744868182,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 198731,
@@ -737,6 +785,14 @@
       "onboard_time": 1744860141,
       "rank": 42,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 192741,
+      "num": 226985,
+      "word": "演员板垣瑞生去世",
+      "onboard_time": 1744868300,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 191929,
@@ -809,6 +865,14 @@
       "onboard_time": 1744816763,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 175875,
+      "num": 175875,
+      "word": "赵小童晒十个勤天新合照",
+      "onboard_time": 1744868362,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 170082,
@@ -891,20 +955,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160525,
+      "num": 160525,
+      "word": "苏新皓 爱豆届的阿拉丁神灯",
+      "onboard_time": 1744867702,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 158877,
+      "num": 158877,
+      "word": "董力辟谣拒绝亲密行为",
+      "onboard_time": 1744867702,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157528,
       "num": 157528,
       "word": "美方畸高关税在经济上已无实际意义",
       "onboard_time": 1744856780,
       "rank": 32,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 153278,
-      "num": 153278,
-      "word": "柬埔寨",
-      "onboard_time": 1744867402,
-      "rank": 44,
-      "category": "国际时政"
     },
     {
       "raw_hot": 153116,
@@ -915,36 +987,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 152282,
-      "num": 152282,
-      "word": "买黄金前一定要了解的冷知识",
-      "onboard_time": 1744866143,
-      "rank": 45,
-      "category": "科学科普"
-    },
-    {
-      "raw_hot": 151910,
-      "num": 151910,
-      "word": "内裤袜子丢进洗衣机里比手洗好",
-      "onboard_time": 1744867461,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 151880,
       "num": 151880,
       "word": "金饰价飙到1027元",
       "onboard_time": 1744854921,
       "rank": 27,
       "category": "财经"
-    },
-    {
-      "raw_hot": 151614,
-      "num": 188289,
-      "word": "王安宇演技含金量",
-      "onboard_time": 1744867162,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 151446,
@@ -1001,6 +1049,14 @@
       "onboard_time": 1744855641,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148929,
+      "num": 148929,
+      "word": "无忧渡拼好人",
+      "onboard_time": 1744868124,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 146841,
@@ -1507,6 +1563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 70962,
+      "num": 271975,
+      "word": "3岁男童被虐待致死案母亲曝光细节",
+      "onboard_time": 1744867222,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70139,
       "num": 70139,
       "word": "歌手首发阵容",
@@ -1603,6 +1667,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 56120,
+      "num": 273270,
+      "word": "美国一处导弹试验场发生强烈爆炸",
+      "onboard_time": 1744867822,
+      "rank": 18,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 55879,
       "num": 83941,
       "word": "中马双方交换30多份双边合作文本",
@@ -1652,7 +1724,7 @@
     },
     {
       "raw_hot": 49654,
-      "num": 189418,
+      "num": 208527,
       "word": "曝特朗普政府要求取消哈佛免税资格",
       "onboard_time": 1744866862,
       "rank": 29,
@@ -1691,6 +1763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44672,
+      "num": 181558,
+      "word": "00后整顿职场是对还是错",
+      "onboard_time": 1744867402,
+      "rank": 39,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 43407,
       "num": 43407,
       "word": "看似奇葩却能秒睡的姿势",
@@ -1715,20 +1795,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 38416,
-      "num": 181558,
-      "word": "00后整顿职场是对还是错",
-      "onboard_time": 1744867402,
-      "rank": 39,
-      "category": "教育,民生新闻"
-    },
-    {
-      "raw_hot": 37938,
-      "num": 209874,
-      "word": "3岁男童被虐待致死案母亲曝光细节",
-      "onboard_time": 1744867222,
-      "rank": 23,
-      "category": "民生新闻"
+      "raw_hot": 40195,
+      "num": 156836,
+      "word": "这简历已经是Toplevel了",
+      "onboard_time": 1744868481,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 37203,
@@ -1903,6 +1975,9 @@
     },
     {
       "word": "#习近平在柬埔寨媒体发表署名文章#"
+    },
+    {
+      "word": "#柬埔寨盛情迎接习主席到访#"
     }
   ]
 }
