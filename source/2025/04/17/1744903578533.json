@@ -1,0 +1,410 @@
+{
+  "runTime": 1744903578533,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1259493,
+        "num": 1259493,
+        "word": "金玉良缘",
+        "onboard_time": 1744896562,
+        "rank": 0,
+        "category": "剧集,电竞"
+      },
+      {
+        "raw_hot": 489228,
+        "num": 489228,
+        "word": "皮肤瘙痒发黄还有蜘蛛痣最好查查肝",
+        "onboard_time": 1744900224,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 118640,
+        "num": 456837,
+        "word": "马来西亚小哥大喊我爱中国",
+        "onboard_time": 1744897160,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 451472,
+        "num": 451472,
+        "word": "歌手",
+        "onboard_time": 1744891460,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 440510,
+        "num": 440510,
+        "word": "美国游客用支付宝消费涨百分之二百",
+        "onboard_time": 1744897642,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 563105,
+        "num": 405525,
+        "word": "妈妈说早知孩子受罪不如难产走掉",
+        "onboard_time": 1744891823,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 352836,
+        "num": 352836,
+        "word": "肖战张婧仪藏海传Q2播出",
+        "onboard_time": 1744898602,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 312494,
+        "num": 312494,
+        "word": "王楚钦国乒发带富翁",
+        "onboard_time": 1744898123,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 304301,
+        "num": 304301,
+        "word": "金泰妍演唱会取消",
+        "onboard_time": 1744901423,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 37695,
+        "num": 298628,
+        "word": "多方回应饭店员工用碗清理下水道",
+        "onboard_time": 1744902682,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2374466,
+        "num": 294413,
+        "word": "小米SU7Ultra撞飞电动车受害者去世",
+        "onboard_time": 1744901662,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1086649,
+        "num": 291093,
+        "word": "杨采钰怀孕",
+        "onboard_time": 1744886481,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 864487,
+        "num": 279344,
+        "word": "男子欲与女技师发生性关系被控强奸",
+        "onboard_time": 1744891040,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279093,
+        "num": 279093,
+        "word": "朱一龙吴磊等将亮相北影节红毯",
+        "onboard_time": 1744900224,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 733311,
+        "num": 275639,
+        "word": "郑州一房屋起火伴多次爆炸",
+        "onboard_time": 1744899384,
+        "rank": 14,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 106761,
+        "num": 271503,
+        "word": "科学家或发现外星生命存在最有力证据",
+        "onboard_time": 1744903282,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 691538,
+        "num": 266026,
+        "word": "儿媳每月给婆婆3000元感谢其帮带娃",
+        "onboard_time": 1744898063,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 510354,
+        "num": 264011,
+        "word": "张康乐 王者头像",
+        "onboard_time": 1744898963,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 468241,
+        "num": 256077,
+        "word": "25岁裸辞后找了个上1休1的工作",
+        "onboard_time": 1744893562,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 77952,
+        "num": 253221,
+        "word": "花21万追女生签自愿赠与协议后起诉",
+        "onboard_time": 1744903224,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46609,
+        "num": 246558,
+        "word": "刘亦菲和她副驾的朋友直播",
+        "onboard_time": 1744900763,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 489011,
+        "num": 244152,
+        "word": "身上痒了两个多月以为过敏一查肝癌",
+        "onboard_time": 1744898063,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 463822,
+        "num": 237091,
+        "word": "丁程鑫发博安慰粉丝",
+        "onboard_time": 1744897402,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283745,
+        "num": 234268,
+        "word": "认养一头牛称暂不考虑撤掉广告",
+        "onboard_time": 1744892421,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230882,
+        "num": 230882,
+        "word": "张檬产前vs产后",
+        "onboard_time": 1744885402,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221235,
+        "num": 221235,
+        "word": "杭铁回应地铁口被吐槽像棺材",
+        "onboard_time": 1744901662,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200023,
+        "num": 200023,
+        "word": "戒掉咖啡一个月后的身体变化",
+        "onboard_time": 1744888102,
+        "rank": 26,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 80698,
+        "num": 198093,
+        "word": "一家人出门没拔充电器家里被烧光",
+        "onboard_time": 1744903342,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43243,
+        "num": 197718,
+        "word": "刘亦菲泊车亦如反掌",
+        "onboard_time": 1744899203,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 197614,
+        "num": 197614,
+        "word": "卤制品三巨头大幅关店网友吐槽吃不起",
+        "onboard_time": 1744877781,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164645,
+        "num": 164645,
+        "word": "宋亚轩说会更好的",
+        "onboard_time": 1744902323,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47240,
+        "num": 162023,
+        "word": "蒯曼4比0徐孝元",
+        "onboard_time": 1744902983,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161080,
+        "num": 161080,
+        "word": "又被面包店逼疯一个",
+        "onboard_time": 1744893022,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101254,
+        "num": 158603,
+        "word": "对手夸王楚钦是世界第一",
+        "onboard_time": 1744902022,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121045,
+        "num": 156753,
+        "word": "王牌对王牌9即将开录",
+        "onboard_time": 1744888941,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156304,
+        "num": 156304,
+        "word": "女主播3年顿顿吃外卖查出胃癌",
+        "onboard_time": 1744900224,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142521,
+        "num": 142521,
+        "word": "终于知道养气血该怎么吃了",
+        "onboard_time": 1744889421,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136848,
+        "num": 136848,
+        "word": "易烊千玺人夫感和少年感共存",
+        "onboard_time": 1744901901,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136142,
+        "num": 136142,
+        "word": "沪上阿姨 欲言难止",
+        "onboard_time": 1744902142,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 120233,
+        "num": 120233,
+        "word": "金价",
+        "onboard_time": 1744897584,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 119509,
+        "num": 119509,
+        "word": "张檬早期因男友嘲讽丑去整容",
+        "onboard_time": 1744884202,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116880,
+        "num": 116880,
+        "word": "减肥要熬过这4个时间点",
+        "onboard_time": 1744891402,
+        "rank": 41,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 115257,
+        "num": 115257,
+        "word": "谍报上不封顶",
+        "onboard_time": 1744900642,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98785,
+        "num": 98785,
+        "word": "杨肸子0帧起手gogogo出发咯",
+        "onboard_time": 1744901362,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96658,
+        "num": 96658,
+        "word": "赵丽颖K歌喜欢唱baby",
+        "onboard_time": 1744897762,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93896,
+        "num": 93896,
+        "word": "其实人生根本不需要提前焦虑",
+        "onboard_time": 1744895901,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 92361,
+        "num": 92361,
+        "word": "柬埔寨国王颁授勋章",
+        "onboard_time": 1744899683,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 89650,
+        "num": 89650,
+        "word": "孙俪新剧开播就跳水",
+        "onboard_time": 1744882462,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89136,
+        "num": 89136,
+        "word": "丈夫当着妻子面护短情人",
+        "onboard_time": 1744896803,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84008,
+        "num": 84008,
+        "word": "导演澄清陈妍希张书豪绯闻",
+        "onboard_time": 1744903523,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见洪森#"
+    }
+  }
+}
