@@ -1,6 +1,6 @@
 {
   "startTime": 1744907462255,
-  "endTime": 1744924994752,
+  "endTime": 1744925775792,
   "band_list": [
     {
       "raw_hot": 901179,
@@ -291,20 +291,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 79808,
+      "num": 79808,
+      "word": "特朗普用收税威胁哈佛道歉",
+      "onboard_time": 1744920674,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 77055,
       "num": 77055,
       "word": "刘亦菲导航语音包",
       "onboard_time": 1744905921,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 76157,
-      "num": 76157,
-      "word": "特朗普用收税威胁哈佛道歉",
-      "onboard_time": 1744920674,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 75198,
@@ -539,8 +539,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 15837,
-      "num": 15837,
+      "raw_hot": 16621,
+      "num": 16621,
       "word": "在王祖蓝和王祖贤之间随意切换",
       "onboard_time": 1744921333,
       "rank": 46,
@@ -553,6 +553,14 @@
       "onboard_time": 1744912696,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 14644,
+      "num": 20470,
+      "word": "王牌对王牌9将回归",
+      "onboard_time": 1744925054,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 14610,
@@ -587,6 +595,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 11142,
+      "num": 51706,
+      "word": "2025年中国航天日海报出炉",
+      "onboard_time": 1744922594,
+      "rank": 13,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 11045,
       "num": 47277,
       "word": "第10个中国航天日",
@@ -595,12 +611,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 10866,
-      "num": 51706,
-      "word": "2025年中国航天日海报出炉",
-      "onboard_time": 1744922594,
-      "rank": 13,
-      "category": "国内时政"
+      "raw_hot": 10789,
+      "num": 26418,
+      "word": "黄仁勋称AI将在每个行业引发颠覆性变革",
+      "onboard_time": 1744925473,
+      "rank": 23,
+      "category": "互联网"
     },
     {
       "raw_hot": 10592,
