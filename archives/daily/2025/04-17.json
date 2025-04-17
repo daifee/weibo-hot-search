@@ -1,6 +1,6 @@
 {
   "startTime": 1744821103506,
-  "endTime": 1744888854995,
+  "endTime": 1744889805738,
   "band_list": [
     {
       "raw_hot": 2970659,
@@ -25,6 +25,14 @@
       "onboard_time": 1744861641,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1699741,
+      "num": 1699741,
+      "word": "王曼昱vs张本美和",
+      "onboard_time": 1744885522,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 1670192,
@@ -211,14 +219,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 887548,
-      "num": 1142007,
-      "word": "王曼昱vs张本美和",
-      "onboard_time": 1744885522,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 874042,
       "num": 504359,
       "word": "美国批准韩企申请饺子外观专利",
@@ -233,6 +233,14 @@
       "onboard_time": 1744872981,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 842126,
+      "num": 842126,
+      "word": "Swisse致歉",
+      "onboard_time": 1744885760,
+      "rank": 23,
+      "category": "美食"
     },
     {
       "raw_hot": 810808,
@@ -403,14 +411,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 565073,
-      "num": 565073,
-      "word": "Swisse致歉",
-      "onboard_time": 1744885760,
-      "rank": 23,
-      "category": "美食"
-    },
-    {
       "raw_hot": 562790,
       "num": 562790,
       "word": "灵魂摆渡 原班人马",
@@ -579,6 +579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 409105,
+      "num": 409105,
+      "word": "英伟达坚定不移服务中国市场",
+      "onboard_time": 1744883362,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 388718,
       "num": 388718,
       "word": "奔跑吧直播",
@@ -609,6 +617,14 @@
       "onboard_time": 1744875743,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 371678,
+      "num": 265419,
+      "word": "戒掉咖啡一个月后的身体变化",
+      "onboard_time": 1744888102,
+      "rank": 20,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 370335,
@@ -659,14 +675,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 344920,
-      "num": 344920,
-      "word": "英伟达坚定不移服务中国市场",
-      "onboard_time": 1744883362,
-      "rank": 25,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 341982,
       "num": 219672,
       "word": "以为很干净其实很脏的生活习惯",
@@ -697,6 +705,22 @@
       "onboard_time": 1744859421,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 324789,
+      "num": 324789,
+      "word": "终于有综艺要严格培训爱豆唱功了",
+      "onboard_time": 1744888041,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 322160,
+      "num": 322160,
+      "word": "王楚钦vs贾哈",
+      "onboard_time": 1744888821,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 313161,
@@ -819,14 +843,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 272079,
-      "num": 235529,
-      "word": "戒掉咖啡一个月后的身体变化",
-      "onboard_time": 1744888102,
-      "rank": 20,
-      "category": "幽默,民生新闻"
-    },
-    {
       "raw_hot": 267603,
       "num": 218060,
       "word": "99年女生摆摊7年靠自己成功买房",
@@ -899,6 +915,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 251958,
+      "num": 251958,
+      "word": "王牌对王牌9即将开录",
+      "onboard_time": 1744888941,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 246176,
+      "num": 246176,
+      "word": "黄杨钿甜不加修饰的生命力",
+      "onboard_time": 1744885461,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242964,
       "num": 248502,
       "word": "海陆为李晟拿第一感到高兴",
@@ -937,6 +969,14 @@
       "onboard_time": 1744801401,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 236994,
+      "num": 236994,
+      "word": "终于知道养气血该怎么吃了",
+      "onboard_time": 1744889421,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 236237,
@@ -1011,19 +1051,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 231412,
-      "num": 241489,
-      "word": "黄杨钿甜不加修饰的生命力",
-      "onboard_time": 1744885461,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 230263,
-      "num": 249346,
-      "word": "终于有综艺要严格培训爱豆唱功了",
-      "onboard_time": 1744888041,
-      "rank": 17,
+      "raw_hot": 228702,
+      "num": 252112,
+      "word": "戚薇说刚和铉哥在一起时不被看好",
+      "onboard_time": 1744889181,
+      "rank": 18,
       "category": "综艺"
     },
     {
@@ -1363,6 +1395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190316,
+      "num": 190316,
+      "word": "油价大幅下调",
+      "onboard_time": 1744887741,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
       "raw_hot": 189908,
       "num": 213812,
       "word": "是你吗高启盛",
@@ -1377,14 +1417,6 @@
       "onboard_time": 1744886001,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 188899,
-      "num": 188899,
-      "word": "油价大幅下调",
-      "onboard_time": 1744887741,
-      "rank": 32,
-      "category": "财经"
     },
     {
       "raw_hot": 188616,
@@ -1515,6 +1547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 171495,
+      "num": 171495,
+      "word": "2025国产爽剧上新了",
+      "onboard_time": 1744888821,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170249,
       "num": 196629,
       "word": "王鹤棣白T自拍九宫格",
@@ -1635,6 +1675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161945,
+      "num": 161945,
+      "word": "上班我很勇 下班兵马俑",
+      "onboard_time": 1744889122,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 161764,
       "num": 161764,
       "word": "陈昊宇喊话私生",
@@ -1664,6 +1712,14 @@
       "word": "苏新皓 爱豆届的阿拉丁神灯",
       "onboard_time": 1744867702,
       "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 160401,
+      "num": 160401,
+      "word": "没有人比张柏芝更适合这个红色",
+      "onboard_time": 1744889122,
+      "rank": 32,
       "category": "艺人"
     },
     {
@@ -1729,6 +1785,14 @@
       "onboard_time": 1744850602,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153023,
+      "num": 190570,
+      "word": "王曼昱扳平张本美和",
+      "onboard_time": 1744889482,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 151880,
@@ -2083,6 +2147,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134448,
+      "num": 134448,
+      "word": "王一博春日牛仔装",
+      "onboard_time": 1744889001,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 133386,
+      "num": 133386,
+      "word": "全国各地网友庭审前拥抱男童生母",
+      "onboard_time": 1744889601,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133363,
       "num": 185547,
       "word": "许嵩五月全勤",
@@ -2155,6 +2235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129976,
+      "num": 129976,
+      "word": "女子抑郁躯体化治愈送999朵玫瑰谢医生",
+      "onboard_time": 1744889181,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129840,
       "num": 180010,
       "word": "A股芯片股爆发",
@@ -2219,20 +2307,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123968,
+      "num": 123968,
+      "word": "王曼昱4比3胜张本美和",
+      "onboard_time": 1744889782,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123621,
       "num": 123621,
       "word": "我是观众我同意这仨演张家人",
       "onboard_time": 1744882402,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 123264,
-      "num": 123264,
-      "word": "王楚钦vs贾哈",
-      "onboard_time": 1744888821,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 122973,
@@ -2299,6 +2387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118327,
+      "num": 118327,
+      "word": "揭秘十个勤天经纪公司",
+      "onboard_time": 1744889721,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118045,
       "num": 118045,
       "word": "值得爱",
@@ -2323,12 +2419,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 116661,
-      "num": 116661,
-      "word": "2025国产爽剧上新了",
-      "onboard_time": 1744888821,
-      "rank": 48,
-      "category": "剧集"
+      "raw_hot": 115482,
+      "num": 115482,
+      "word": "吃点意思意思吧 别寒了猫的心",
+      "onboard_time": 1744889721,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 114648,
@@ -2723,6 +2819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 71963,
+      "num": 304455,
+      "word": "埃文再次向中国捐赠抗战史料",
+      "onboard_time": 1744876521,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 70962,
       "num": 271975,
       "word": "3岁男童被虐待致死案母亲曝光细节",
@@ -2883,6 +2987,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 55845,
+      "num": 162270,
+      "word": "辽宁一景区肥胖人士可免费爬山",
+      "onboard_time": 1744889662,
+      "rank": 30,
+      "category": "民生新闻,旅游"
+    },
+    {
       "raw_hot": 55109,
       "num": 476275,
       "word": "中国的铁杆朋友柬埔寨",
@@ -2916,7 +3028,7 @@
     },
     {
       "raw_hot": 51152,
-      "num": 236541,
+      "num": 251979,
       "word": "闫妮官宣新身份",
       "onboard_time": 1744887802,
       "rank": 19,
@@ -2995,12 +3107,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 48162,
-      "num": 304455,
-      "word": "埃文再次向中国捐赠抗战史料",
-      "onboard_time": 1744876521,
-      "rank": 9,
-      "category": "国内时政"
+      "raw_hot": 47664,
+      "num": 661175,
+      "word": "美国关税讹诈是典型的霸凌行为",
+      "onboard_time": 1744888882,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46548,
@@ -3017,6 +3129,14 @@
       "onboard_time": 1744878442,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 45874,
+      "num": 130706,
+      "word": "广场舞也能瘦肚子",
+      "onboard_time": 1744889181,
+      "rank": 39,
+      "category": "运动健身"
     },
     {
       "raw_hot": 45561,
@@ -3153,6 +3273,14 @@
       "onboard_time": 1744824136,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 35269,
+      "num": 288529,
+      "word": "文化中国行跟着游记去旅行",
+      "onboard_time": 1744888702,
+      "rank": 30,
+      "category": "旅游"
     },
     {
       "raw_hot": 34098,
@@ -3403,14 +3531,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 12914,
-      "num": 192898,
-      "word": "文化中国行跟着游记去旅行",
-      "onboard_time": 1744888702,
-      "rank": 30,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 11103,
       "num": 14796,
       "word": "杜润旺迪亚洛冲突",
@@ -3477,6 +3597,9 @@
     },
     {
       "word": "#习近平出席西哈莫尼举行的欢迎仪式#"
+    },
+    {
+      "word": "#中柬关系始终坚如磐石#"
     }
   ]
 }

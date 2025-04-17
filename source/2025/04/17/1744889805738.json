@@ -1,0 +1,410 @@
+{
+  "runTime": 1744889805738,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1699741,
+        "num": 1699741,
+        "word": "王曼昱vs张本美和",
+        "onboard_time": 1744885522,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 842126,
+        "num": 842126,
+        "word": "Swisse致歉",
+        "onboard_time": 1744885760,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 47664,
+        "num": 661175,
+        "word": "美国关税讹诈是典型的霸凌行为",
+        "onboard_time": 1744888882,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 569076,
+        "num": 569076,
+        "word": "卤制品三巨头大幅关店网友吐槽吃不起",
+        "onboard_time": 1744877781,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 409105,
+        "num": 409105,
+        "word": "英伟达坚定不移服务中国市场",
+        "onboard_time": 1744883362,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 324789,
+        "num": 324789,
+        "word": "终于有综艺要严格培训爱豆唱功了",
+        "onboard_time": 1744888041,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 322160,
+        "num": 322160,
+        "word": "王楚钦vs贾哈",
+        "onboard_time": 1744888821,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 289204,
+        "num": 289204,
+        "word": "孙俪新剧开播就跳水",
+        "onboard_time": 1744882462,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35269,
+        "num": 288529,
+        "word": "文化中国行跟着游记去旅行",
+        "onboard_time": 1744888702,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71963,
+        "num": 280194,
+        "word": "埃文再次向中国捐赠抗战史料",
+        "onboard_time": 1744876521,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2418008,
+        "num": 277086,
+        "word": "杨采钰怀孕",
+        "onboard_time": 1744886481,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 488449,
+        "num": 273969,
+        "word": "张檬早期因男友嘲讽丑去整容",
+        "onboard_time": 1744884202,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412007,
+        "num": 269972,
+        "word": "揭秘李昊经纪公司",
+        "onboard_time": 1744879642,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 371678,
+        "num": 265419,
+        "word": "戒掉咖啡一个月后的身体变化",
+        "onboard_time": 1744888102,
+        "rank": 13,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 97372,
+        "num": 258689,
+        "word": "老家的驿站排满了取快递的老人",
+        "onboard_time": 1744887681,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256373,
+        "num": 256373,
+        "word": "英伟达CEO到访北京",
+        "onboard_time": 1744881261,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 253126,
+        "num": 253126,
+        "word": "无忧渡",
+        "onboard_time": 1744884802,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 363284,
+        "num": 253003,
+        "word": "张檬产前vs产后",
+        "onboard_time": 1744885402,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228702,
+        "num": 252112,
+        "word": "戚薇说刚和铉哥在一起时不被看好",
+        "onboard_time": 1744889181,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44080,
+        "num": 251979,
+        "word": "闫妮官宣新身份",
+        "onboard_time": 1744887802,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 251958,
+        "num": 251958,
+        "word": "王牌对王牌9即将开录",
+        "onboard_time": 1744888941,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246176,
+        "num": 246176,
+        "word": "黄杨钿甜不加修饰的生命力",
+        "onboard_time": 1744885461,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236994,
+        "num": 236994,
+        "word": "终于知道养气血该怎么吃了",
+        "onboard_time": 1744889421,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 233406,
+        "num": 233406,
+        "word": "日本消费者涌向韩国买米",
+        "onboard_time": 1744886123,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 221802,
+        "num": 221802,
+        "word": "中马互免签证",
+        "onboard_time": 1744878981,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 208392,
+        "num": 208392,
+        "word": "刘宇宁曾说折腰按照原著演大家都得进去",
+        "onboard_time": 1744880183,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153023,
+        "num": 190570,
+        "word": "王曼昱扳平张本美和",
+        "onboard_time": 1744889482,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190316,
+        "num": 190316,
+        "word": "油价大幅下调",
+        "onboard_time": 1744887741,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 171495,
+        "num": 171495,
+        "word": "2025国产爽剧上新了",
+        "onboard_time": 1744888821,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153320,
+        "num": 163196,
+        "word": "中年夫妻难道只有恩没有爱吗",
+        "onboard_time": 1744886782,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55845,
+        "num": 162270,
+        "word": "辽宁一景区肥胖人士可免费爬山",
+        "onboard_time": 1744889662,
+        "rank": 30,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 161945,
+        "num": 161945,
+        "word": "上班我很勇 下班兵马俑",
+        "onboard_time": 1744889122,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160401,
+        "num": 160401,
+        "word": "没有人比张柏芝更适合这个红色",
+        "onboard_time": 1744889122,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158049,
+        "num": 158049,
+        "word": "原来牙齿的神经长这样",
+        "onboard_time": 1744880542,
+        "rank": 33,
+        "category": "科学科普,民生新闻"
+      },
+      {
+        "raw_hot": 150479,
+        "num": 150479,
+        "word": "1.68米女子被忽悠断骨增高每天打止痛针",
+        "onboard_time": 1744870761,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139912,
+        "num": 139912,
+        "word": "内裤扔洗衣机里风险有多高",
+        "onboard_time": 1744887741,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 134448,
+        "num": 134448,
+        "word": "王一博春日牛仔装",
+        "onboard_time": 1744889001,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 133386,
+        "num": 133386,
+        "word": "全国各地网友庭审前拥抱男童生母",
+        "onboard_time": 1744889601,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87685,
+        "num": 131451,
+        "word": "长城高管说永远不会做增程",
+        "onboard_time": 1744888581,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 45874,
+        "num": 130706,
+        "word": "广场舞也能瘦肚子",
+        "onboard_time": 1744889181,
+        "rank": 39,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 129976,
+        "num": 129976,
+        "word": "女子抑郁躯体化治愈送999朵玫瑰谢医生",
+        "onboard_time": 1744889181,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49673,
+        "num": 129725,
+        "word": "两电一邮到底有多牛",
+        "onboard_time": 1744883182,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 129654,
+        "num": 129654,
+        "word": "老兵做CT时被误认为戴了项链",
+        "onboard_time": 1744883061,
+        "rank": 42,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 127786,
+        "num": 129023,
+        "word": "夸克在台湾地区AppStore登顶爆火",
+        "onboard_time": 1744880482,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 128680,
+        "num": 128680,
+        "word": "黄仁勋时隔3个月再次到访北京",
+        "onboard_time": 1744875322,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 126649,
+        "num": 126649,
+        "word": "白鹿嗓子哑了周深问谁在说话",
+        "onboard_time": 1744875922,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123968,
+        "num": 123968,
+        "word": "王曼昱4比3胜张本美和",
+        "onboard_time": 1744889782,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121227,
+        "num": 121227,
+        "word": "大哥卖60克金项链赚了1万8",
+        "onboard_time": 1744878501,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118327,
+        "num": 118327,
+        "word": "揭秘十个勤天经纪公司",
+        "onboard_time": 1744889721,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115482,
+        "num": 115482,
+        "word": "吃点意思意思吧 别寒了猫的心",
+        "onboard_time": 1744889721,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#中柬关系始终坚如磐石#"
+    }
+  }
+}
