@@ -1,22 +1,30 @@
 {
   "startTime": 1744821103506,
-  "endTime": 1744861844308,
+  "endTime": 1744864166866,
   "band_list": [
     {
-      "raw_hot": 1539120,
-      "num": 403178,
-      "word": "江西景德镇发生一起刑事案件",
-      "onboard_time": 1744856360,
-      "rank": 10,
-      "category": "民生新闻"
+      "raw_hot": 2125500,
+      "num": 476547,
+      "word": "张檬晒照官宣生子",
+      "onboard_time": 1744861641,
+      "rank": 34,
+      "category": "艺人"
     },
     {
-      "raw_hot": 1491516,
-      "num": 407378,
+      "raw_hot": 1670192,
+      "num": 475196,
       "word": "终于有剧拍了离婚女人有多爽了",
       "onboard_time": 1744860321,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1539120,
+      "num": 474828,
+      "word": "江西景德镇发生一起刑事案件",
+      "onboard_time": 1744856360,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1481763,
@@ -51,6 +59,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1127733,
+      "num": 1180437,
+      "word": "小米汽车确认YU7不参加上海车展",
+      "onboard_time": 1744860141,
+      "rank": 0,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 1102648,
+      "num": 1102648,
+      "word": "半个娱乐圈团建的含金量",
+      "onboard_time": 1744861403,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 979847,
       "num": 1156775,
       "word": "小米汽车",
@@ -83,6 +107,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 810808,
+      "num": 810808,
+      "word": "能叫停关税的只有美债",
+      "onboard_time": 1744860922,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 783308,
       "num": 783308,
       "word": "12306候补",
@@ -97,6 +129,14 @@
       "onboard_time": 1744814783,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 747235,
+      "num": 747235,
+      "word": "杨紫白鹿等火到柬埔寨了",
+      "onboard_time": 1744861461,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 730308,
@@ -121,6 +161,14 @@
       "onboard_time": 1744856840,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 716540,
+      "num": 440641,
+      "word": "长期处于饥饿状态会怎么样",
+      "onboard_time": 1744861461,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 673248,
@@ -169,6 +217,22 @@
       "onboard_time": 1744811723,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 517906,
+      "num": 517906,
+      "word": "5吨大米淘500克金米被指浪费粮食",
+      "onboard_time": 1744861762,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 476557,
+      "num": 476557,
+      "word": "贺峻霖北京电影节表演嘉宾",
+      "onboard_time": 1744861042,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 473706,
@@ -227,14 +291,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 397600,
-      "num": 338258,
-      "word": "长期处于饥饿状态会怎么样",
-      "onboard_time": 1744861461,
-      "rank": 20,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 388105,
       "num": 388105,
       "word": "李晟四公第一",
@@ -291,12 +347,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 307940,
-      "num": 376918,
-      "word": "杨紫白鹿等火到柬埔寨了",
-      "onboard_time": 1744861461,
-      "rank": 15,
-      "category": "艺人"
+      "raw_hot": 314512,
+      "num": 314512,
+      "word": "旅游博主被关小黑屋强迫接受间谍任务",
+      "onboard_time": 1744863022,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 312694,
+      "num": 312694,
+      "word": "被制裁5次的中国企业如今订单满满",
+      "onboard_time": 1744863022,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 307347,
@@ -305,14 +369,6 @@
       "onboard_time": 1744846521,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 296259,
-      "num": 296259,
-      "word": "贺峻霖北京电影节表演嘉宾",
-      "onboard_time": 1744861042,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 291259,
@@ -419,12 +475,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 252561,
-      "num": 327264,
-      "word": "半个娱乐圈团建的含金量",
-      "onboard_time": 1744861403,
-      "rank": 21,
-      "category": "艺人"
+      "raw_hot": 252199,
+      "num": 252199,
+      "word": "警方证实贵州一夫二妻婚宴是闹剧",
+      "onboard_time": 1744862004,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 240630,
@@ -435,12 +491,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 239573,
+      "num": 388507,
+      "word": "李晟吴宣仪宋妍霏一组",
+      "onboard_time": 1744860260,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 237465,
       "num": 194389,
       "word": "结婚3年妻子开着宝马带孩子走了",
       "onboard_time": 1744801401,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 236580,
+      "num": 379572,
+      "word": "终于有短剧拍出了细水长流的爱情",
+      "onboard_time": 1744862843,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 236131,
@@ -465,14 +537,6 @@
       "onboard_time": 1744854442,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 227183,
-      "num": 227183,
-      "word": "李晟吴宣仪宋妍霏一组",
-      "onboard_time": 1744860260,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 225905,
@@ -515,11 +579,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 209773,
+      "num": 209773,
+      "word": "官方回应男子与现任前任办3人婚礼",
+      "onboard_time": 1744862843,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 209260,
       "num": 209260,
       "word": "这下不是半夏是全夏了",
       "onboard_time": 1744819881,
       "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 206314,
+      "num": 206314,
+      "word": "丁禹兮张新成领衔主演",
+      "onboard_time": 1744863382,
+      "rank": 39,
       "category": "剧集"
     },
     {
@@ -555,12 +635,36 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 196204,
-      "num": 196204,
-      "word": "张檬晒照官宣生子",
-      "onboard_time": 1744861641,
-      "rank": 34,
-      "category": "艺人"
+      "raw_hot": 195521,
+      "num": 195521,
+      "word": "灵魂摆渡十年",
+      "onboard_time": 1744863923,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 193914,
+      "num": 193914,
+      "word": "加拿大天空惊现异象",
+      "onboard_time": 1744860141,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 193360,
+      "num": 193360,
+      "word": "秦彻",
+      "onboard_time": 1744863202,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 191929,
+      "num": 191929,
+      "word": "任嘉伦演技",
+      "onboard_time": 1744863382,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 188471,
@@ -635,6 +739,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 166667,
+      "num": 475579,
+      "word": "女子收养女婴10年仍是黑户",
+      "onboard_time": 1744863143,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166182,
       "num": 166182,
       "word": "小学生看了两眼发现罂粟",
@@ -707,12 +819,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151399,
+      "num": 465451,
+      "word": "王一博祝新浪娱乐25周年快乐",
+      "onboard_time": 1744861461,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150655,
       "num": 150655,
       "word": "双一流大学研究生是怎么洗澡的",
       "onboard_time": 1744815622,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 150632,
+      "num": 465366,
+      "word": "伊利1600元生育补贴能领什么",
+      "onboard_time": 1744862781,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150623,
@@ -728,14 +856,6 @@
       "word": "绵绵的羊问题卫生巾已下架",
       "onboard_time": 1744855641,
       "rank": 40,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 147869,
-      "num": 147869,
-      "word": "5吨大米淘500克金米被指浪费粮食",
-      "onboard_time": 1744861762,
-      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -852,7 +972,7 @@
     },
     {
       "raw_hot": 122973,
-      "num": 221630,
+      "num": 378058,
       "word": "合资能不能做好智能化",
       "onboard_time": 1744861461,
       "rank": 27,
@@ -873,6 +993,14 @@
       "onboard_time": 1744852043,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121248,
+      "num": 475317,
+      "word": "张本智和4比0冯翊新",
+      "onboard_time": 1744863262,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 120900,
@@ -923,6 +1051,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 113351,
+      "num": 374768,
+      "word": "A股近4200只股上涨",
+      "onboard_time": 1744864043,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 112832,
       "num": 112832,
       "word": "值得爱he",
@@ -968,6 +1104,14 @@
       "word": "杨瀚森宣布参加今年NBA选秀",
       "onboard_time": 1744853899,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 108987,
+      "num": 475975,
+      "word": "孙颖莎VS波尔卡诺娃",
+      "onboard_time": 1744862602,
+      "rank": 12,
       "category": "体育"
     },
     {
@@ -1187,14 +1331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 72086,
-      "num": 355388,
-      "word": "能叫停关税的只有美债",
-      "onboard_time": 1744860922,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 70139,
       "num": 70139,
       "word": "歌手首发阵容",
@@ -1251,6 +1387,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 58311,
+      "num": 199236,
+      "word": "不良人主创空降",
+      "onboard_time": 1744862662,
+      "rank": 40,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 55879,
       "num": 83941,
       "word": "中马双方交换30多份双边合作文本",
@@ -1291,6 +1435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48630,
+      "num": 161638,
+      "word": "跳水世界杯总决赛增设1V1环节",
+      "onboard_time": 1744863803,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 43407,
       "num": 43407,
       "word": "看似奇葩却能秒睡的姿势",
@@ -1307,11 +1459,27 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 37203,
+      "num": 162619,
+      "word": "OpenAI发布o3和o4mini",
+      "onboard_time": 1744862361,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 36860,
       "num": 78429,
       "word": "继榴莲之后马来椰子也要来华了",
       "onboard_time": 1744821500,
       "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36199,
+      "num": 902114,
+      "word": "守一扇心窗唱响护苗新篇章",
+      "onboard_time": 1744863863,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -1339,6 +1507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 32559,
+      "num": 254057,
+      "word": "美对中国滥施关税已影响特斯拉生产",
+      "onboard_time": 1744864043,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 29768,
       "num": 109301,
       "word": "引领中马关系长期稳定发展",
@@ -1361,6 +1537,22 @@
       "onboard_time": 1744861340,
       "rank": 29,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 26517,
+      "num": 476275,
+      "word": "中国的铁杆朋友柬埔寨",
+      "onboard_time": 1744863683,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22195,
+      "num": 373587,
+      "word": "肠癌筛查黄金期超十年",
+      "onboard_time": 1744863623,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 21069,
@@ -1419,6 +1611,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 14179,
+      "num": 384367,
+      "word": "律师称遭虐死幼童生父明显失职",
+      "onboard_time": 1744863863,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 13156,
       "num": 29674,
       "word": "美方无所不用其极搞监控窃密攻击",
@@ -1441,6 +1641,9 @@
     },
     {
       "word": "#老朋友擘画中马关系新未来#"
+    },
+    {
+      "word": "#构建高水平战略性中马命运共同体#"
     }
   ]
 }
