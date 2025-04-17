@@ -1,0 +1,410 @@
+{
+  "runTime": 1744885644841,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1003853,
+        "num": 1160616,
+        "word": "卤制品三巨头大幅关店网友吐槽吃不起",
+        "onboard_time": 1744877781,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 612187,
+        "num": 612187,
+        "word": "中马互免签证",
+        "onboard_time": 1744878981,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 19875,
+        "num": 593326,
+        "word": "守一扇心窗唱响护苗新篇章",
+        "onboard_time": 1744863863,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 590647,
+        "num": 590647,
+        "word": "孙俪新剧开播就跳水",
+        "onboard_time": 1744882462,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 555356,
+        "num": 555356,
+        "word": "原来牙齿的神经长这样",
+        "onboard_time": 1744880542,
+        "rank": 4,
+        "category": "科学科普,民生新闻"
+      },
+      {
+        "raw_hot": 532498,
+        "num": 532498,
+        "word": "英伟达CEO到访北京",
+        "onboard_time": 1744881261,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 354869,
+        "num": 354869,
+        "word": "大哥卖60克金项链赚了1万8",
+        "onboard_time": 1744878501,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226786,
+        "num": 304173,
+        "word": "灵魂摆渡 原班人马",
+        "onboard_time": 1744877421,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 282880,
+        "num": 282880,
+        "word": "长期处于饥饿状态会怎么样",
+        "onboard_time": 1744861461,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 157701,
+        "num": 282192,
+        "word": "被虐死男童妈妈晕倒被送医",
+        "onboard_time": 1744884802,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1091367,
+        "num": 280195,
+        "word": "张檬早期因男友嘲讽丑去整容",
+        "onboard_time": 1744884202,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1562106,
+        "num": 276734,
+        "word": "已脑死亡男孩听到妈妈来了流下眼泪",
+        "onboard_time": 1744876401,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 619595,
+        "num": 274741,
+        "word": "揭秘李昊经纪公司",
+        "onboard_time": 1744879642,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 541150,
+        "num": 270721,
+        "word": "刘宇宁曾说折腰按照原著演大家都得进去",
+        "onboard_time": 1744880183,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 367923,
+        "num": 269254,
+        "word": "1.68米女子被忽悠断骨增高每天打止痛针",
+        "onboard_time": 1744870761,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267890,
+        "num": 267890,
+        "word": "12306候补成功率多高能抢到票",
+        "onboard_time": 1744878324,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265699,
+        "num": 265699,
+        "word": "夸克在台湾地区AppStore登顶爆火",
+        "onboard_time": 1744880482,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 230477,
+        "num": 230477,
+        "word": "吴磊北电最高分的含金量",
+        "onboard_time": 1744880723,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229609,
+        "num": 229609,
+        "word": "张檬韩国婆婆特意赶来香港",
+        "onboard_time": 1744872981,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211576,
+        "num": 211576,
+        "word": "无忧渡",
+        "onboard_time": 1744884802,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211007,
+        "num": 211007,
+        "word": "粉丝不用夜排了",
+        "onboard_time": 1744883121,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205545,
+        "num": 205545,
+        "word": "李永乐因做网红患抑郁症",
+        "onboard_time": 1744879041,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 191962,
+        "num": 191962,
+        "word": "孙俪马龙同框",
+        "onboard_time": 1744881803,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 185723,
+        "num": 185723,
+        "word": "王曼昱vs张本美和",
+        "onboard_time": 1744885522,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165222,
+        "num": 180985,
+        "word": "宋祖儿边看无忧渡边翻花绳",
+        "onboard_time": 1744880003,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178970,
+        "num": 178970,
+        "word": "英伟达坚定不移服务中国市场",
+        "onboard_time": 1744883362,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 166327,
+        "num": 166327,
+        "word": "张檬产前vs产后",
+        "onboard_time": 1744885402,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22007,
+        "num": 166318,
+        "word": "怪盗圣少女这是真女神",
+        "onboard_time": 1744884621,
+        "rank": 27,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 13098,
+        "num": 166302,
+        "word": "守护甜心真萌神降临",
+        "onboard_time": 1744884621,
+        "rank": 28,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 65339,
+        "num": 166284,
+        "word": "孙颖莎毛巾擦了桌子又擦脸",
+        "onboard_time": 1744884862,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25707,
+        "num": 166272,
+        "word": "腾讯游戏发布会前瞻看点",
+        "onboard_time": 1744884381,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 168464,
+        "num": 166269,
+        "word": "邵子恒出道后首个综艺",
+        "onboard_time": 1744882462,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181274,
+        "num": 166255,
+        "word": "老兵做CT时被误认为戴了项链",
+        "onboard_time": 1744883061,
+        "rank": 32,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 166242,
+        "num": 166242,
+        "word": "董力把家人气到失眠",
+        "onboard_time": 1744871902,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157809,
+        "num": 157809,
+        "word": "腾讯开启史上最大就业计划",
+        "onboard_time": 1744882702,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 150081,
+        "num": 150081,
+        "word": "你好星期六取消粉丝应援原因",
+        "onboard_time": 1744884981,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137641,
+        "num": 150081,
+        "word": "周震南姚琛喻言要进训练营了",
+        "onboard_time": 1744884141,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132345,
+        "num": 150076,
+        "word": "宋雨琦奔跑吧发布会造型",
+        "onboard_time": 1744884023,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 6465,
+        "num": 150074,
+        "word": "备考时和朋友渐行渐远怎么办",
+        "onboard_time": 1744885580,
+        "rank": 38,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 141891,
+        "num": 150074,
+        "word": "中国商家决定给美国商品涨价",
+        "onboard_time": 1744884141,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 136110,
+        "num": 150070,
+        "word": "肖战带你走进4K超高清的视界",
+        "onboard_time": 1744884323,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150070,
+        "num": 150069,
+        "word": "武契奇称即使天塌下来也要去莫斯科",
+        "onboard_time": 1744878922,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 149203,
+        "num": 149203,
+        "word": "多名女性进少林景区男厕被大爷训斥",
+        "onboard_time": 1744881023,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83313,
+        "num": 139015,
+        "word": "袁咏仪张智霖普陀山之约",
+        "onboard_time": 1744884862,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136148,
+        "num": 136148,
+        "word": "英伟达CEO说中国是非常重要的市场",
+        "onboard_time": 1744884081,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 135696,
+        "num": 135696,
+        "word": "一对双胞胎生了一对龙凤胎",
+        "onboard_time": 1744875141,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133265,
+        "num": 133265,
+        "word": "白鹿嗓子哑了周深问谁在说话",
+        "onboard_time": 1744875922,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128358,
+        "num": 128358,
+        "word": "两电一邮到底有多牛",
+        "onboard_time": 1744883182,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 127067,
+        "num": 127067,
+        "word": "黄杨钿甜不加修饰的生命力",
+        "onboard_time": 1744885461,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120391,
+        "num": 120391,
+        "word": "甲亢哥来华的幕后推手",
+        "onboard_time": 1744873761,
+        "rank": 49,
+        "category": "网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#构建高水平战略性中马命运共同体#"
+    }
+  }
+}

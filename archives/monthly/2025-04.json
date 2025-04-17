@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744882835278,
+  "endTime": 1744885644841,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -3305,6 +3305,14 @@
       "onboard_time": 1744385063,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1091367,
+      "num": 280195,
+      "word": "张檬早期因男友嘲讽丑去整容",
+      "onboard_time": 1744884202,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1086355,
@@ -7651,6 +7659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 590647,
+      "num": 590647,
+      "word": "孙俪新剧开播就跳水",
+      "onboard_time": 1744882462,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 590444,
       "num": 868282,
       "word": "和分手六年的前任破镜重圆了",
@@ -8065,6 +8081,14 @@
       "onboard_time": 1743769702,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 555356,
+      "num": 555356,
+      "word": "原来牙齿的神经长这样",
+      "onboard_time": 1744880542,
+      "rank": 31,
+      "category": "科学科普,民生新闻"
     },
     {
       "raw_hot": 554934,
@@ -8489,6 +8513,14 @@
       "onboard_time": 1744789701,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 532498,
+      "num": 532498,
+      "word": "英伟达CEO到访北京",
+      "onboard_time": 1744881261,
+      "rank": 36,
+      "category": "互联网"
     },
     {
       "raw_hot": 532486,
@@ -15507,14 +15539,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 295012,
-      "num": 228979,
-      "word": "原来牙齿的神经长这样",
-      "onboard_time": 1744880542,
-      "rank": 31,
-      "category": "科学科普,民生新闻"
-    },
-    {
       "raw_hot": 294835,
       "num": 294835,
       "word": "白鹿王星越 眼神",
@@ -16563,14 +16587,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 276299,
-      "num": 276299,
-      "word": "英伟达CEO到访北京",
-      "onboard_time": 1744881261,
-      "rank": 36,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 276019,
       "num": 276019,
       "word": "美国普通人担心关税让钱包受伤",
@@ -17153,6 +17169,14 @@
       "onboard_time": 1743908000,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 265699,
+      "num": 420226,
+      "word": "夸克在台湾地区AppStore登顶爆火",
+      "onboard_time": 1744880482,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 265646,
@@ -21099,14 +21123,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 214786,
-      "num": 256867,
-      "word": "孙俪新剧开播就跳水",
-      "onboard_time": 1744882462,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 214777,
       "num": 214777,
       "word": "Mandy称不会去曝光孩子",
@@ -21625,6 +21641,14 @@
       "onboard_time": 1743842180,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 211007,
+      "num": 211007,
+      "word": "粉丝不用夜排了",
+      "onboard_time": 1744883121,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 210903,
@@ -26563,6 +26587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185723,
+      "num": 185723,
+      "word": "王曼昱vs张本美和",
+      "onboard_time": 1744885522,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 185704,
       "num": 185704,
       "word": "九尾太自律了",
@@ -27475,6 +27507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181274,
+      "num": 166255,
+      "word": "老兵做CT时被误认为戴了项链",
+      "onboard_time": 1744883061,
+      "rank": 32,
+      "category": "军事"
+    },
+    {
       "raw_hot": 181270,
       "num": 181270,
       "word": "京东本季度再招不低于5万外卖员",
@@ -27897,6 +27937,14 @@
       "onboard_time": 1744601961,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 178970,
+      "num": 178970,
+      "word": "英伟达坚定不移服务中国市场",
+      "onboard_time": 1744883362,
+      "rank": 25,
+      "category": "互联网"
     },
     {
       "raw_hot": 178922,
@@ -30243,6 +30291,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 166327,
+      "num": 166327,
+      "word": "张檬产前vs产后",
+      "onboard_time": 1744885402,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166245,
       "num": 166245,
       "word": "鹿晗正定vlog下集",
@@ -31971,12 +32027,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 157809,
+      "num": 157809,
+      "word": "腾讯开启史上最大就业计划",
+      "onboard_time": 1744882702,
+      "rank": 41,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 157738,
       "num": 157738,
       "word": "吃饭跑步和恋爱 姐狗文学",
       "onboard_time": 1744254143,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157701,
+      "num": 282192,
+      "word": "被虐死男童妈妈晕倒被送医",
+      "onboard_time": 1744884802,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 157698,
@@ -33593,6 +33665,14 @@
       "onboard_time": 1743912441,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 150081,
+      "num": 150081,
+      "word": "你好星期六取消粉丝应援原因",
+      "onboard_time": 1744884981,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 150060,
@@ -35475,6 +35555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141891,
+      "num": 150074,
+      "word": "中国商家决定给美国商品涨价",
+      "onboard_time": 1744884141,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 141870,
       "num": 229671,
       "word": "当地回应女子被1.7万元拐卖拘禁",
@@ -36427,14 +36515,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 138011,
-      "num": 420226,
-      "word": "夸克在台湾地区AppStore登顶爆火",
-      "onboard_time": 1744880482,
-      "rank": 14,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 138003,
       "num": 138003,
       "word": "赵丽颖拔刀戏幕后",
@@ -36489,6 +36569,14 @@
       "onboard_time": 1744700841,
       "rank": 41,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 137641,
+      "num": 150081,
+      "word": "周震南姚琛喻言要进训练营了",
+      "onboard_time": 1744884141,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 137594,
@@ -36833,6 +36921,22 @@
       "onboard_time": 1743486862,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136148,
+      "num": 136148,
+      "word": "英伟达CEO说中国是非常重要的市场",
+      "onboard_time": 1744884081,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 136110,
+      "num": 150070,
+      "word": "肖战带你走进4K超高清的视界",
+      "onboard_time": 1744884323,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 136096,
@@ -37803,6 +37907,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 132345,
+      "num": 150076,
+      "word": "宋雨琦奔跑吧发布会造型",
+      "onboard_time": 1744884023,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132313,
       "num": 132313,
       "word": "张杰魏大勋你好星期六预告",
@@ -38603,14 +38715,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 129365,
-      "num": 129365,
-      "word": "腾讯开启史上最大就业计划",
-      "onboard_time": 1744882702,
-      "rank": 41,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 129301,
       "num": 129301,
       "word": "RVL对战Gr",
@@ -38817,6 +38921,14 @@
       "onboard_time": 1744543761,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128358,
+      "num": 128358,
+      "word": "两电一邮到底有多牛",
+      "onboard_time": 1744883182,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 128222,
@@ -39089,6 +39201,14 @@
       "onboard_time": 1744461326,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127067,
+      "num": 127067,
+      "word": "黄杨钿甜不加修饰的生命力",
+      "onboard_time": 1744885461,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 127057,
@@ -46235,6 +46355,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 83313,
+      "num": 139015,
+      "word": "袁咏仪张智霖普陀山之约",
+      "onboard_time": 1744884862,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 83304,
       "num": 134337,
       "word": "乘风2025四公帮唱组队征集",
@@ -48305,6 +48433,14 @@
       "onboard_time": 1743929841,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 65339,
+      "num": 166284,
+      "word": "孙颖莎毛巾擦了桌子又擦脸",
+      "onboard_time": 1744884862,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 65313,
@@ -53531,6 +53667,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 25707,
+      "num": 166272,
+      "word": "腾讯游戏发布会前瞻看点",
+      "onboard_time": 1744884381,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 25695,
       "num": 32346,
       "word": "外交部6连问回击美方谬论",
@@ -54289,6 +54433,14 @@
       "onboard_time": 1743830781,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 22007,
+      "num": 166318,
+      "word": "怪盗圣少女这是真女神",
+      "onboard_time": 1744884621,
+      "rank": 27,
+      "category": "动漫"
     },
     {
       "raw_hot": 21995,
@@ -55715,6 +55867,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 13098,
+      "num": 166302,
+      "word": "守护甜心真萌神降临",
+      "onboard_time": 1744884621,
+      "rank": 28,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 13093,
       "num": 153194,
       "word": "邓亚萍亮相乌镇健康大会",
@@ -56505,6 +56665,14 @@
       "onboard_time": 1743995603,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 6465,
+      "num": 150074,
+      "word": "备考时和朋友渐行渐远怎么办",
+      "onboard_time": 1744885580,
+      "rank": 38,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 6206,
