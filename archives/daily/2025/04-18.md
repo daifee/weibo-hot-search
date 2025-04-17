@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/18 00:31:02 ~ 2025/04/18 02:33:18
+本榜单时间：2025/04/18 00:31:02 ~ 2025/04/18 02:46:52
 </p>
 </blockquote>
 <p>
@@ -389,6 +389,18 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E7%89%B9%E6%9D%83%E7%A0%81%23" target="weibo">
 时代少年团特权码（热度：16722）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%232025%E5%B9%B4%E4%B8%BA%E4%B8%AD%E6%9F%AC%E6%97%85%E6%B8%B8%E5%B9%B4%23" target="weibo">
+2025年为中柬旅游年（热度：15622）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E8%89%BA%E6%B5%81%E6%B0%B4%E7%9A%84%E5%A4%A7%E5%93%A5%E9%93%81%E6%89%93%E7%9A%84%E5%B0%8F%E5%BC%9F%23" target="weibo">
+武艺流水的大哥铁打的小弟（热度：14506）
 </a>
 </li>
 

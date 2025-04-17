@@ -1,0 +1,410 @@
+{
+  "runTime": 1744915612904,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 168621,
+        "num": 168621,
+        "word": "一家人出门没拔充电器家里被烧光",
+        "onboard_time": 1744903342,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133812,
+        "num": 133812,
+        "word": "00后女生微创手术后缺氧致脑死亡",
+        "onboard_time": 1744904002,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10079,
+        "num": 105971,
+        "word": "60秒带你看柬埔寨",
+        "onboard_time": 1744895901,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104771,
+        "num": 104771,
+        "word": "黄仁勋承认美芯片限令影响巨大",
+        "onboard_time": 1744905500,
+        "rank": 3,
+        "category": "国际时政,互联网"
+      },
+      {
+        "raw_hot": 99720,
+        "num": 99720,
+        "word": "医院回应女子微创手术后脑死亡",
+        "onboard_time": 1744906400,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86053,
+        "num": 86053,
+        "word": "花21万追女生签自愿赠与协议后起诉",
+        "onboard_time": 1744903224,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78200,
+        "num": 78200,
+        "word": "科学家或发现外星生命存在最有力证据",
+        "onboard_time": 1744903282,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67726,
+        "num": 67726,
+        "word": "售楼部回应房价4年后打4折",
+        "onboard_time": 1744906340,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40182,
+        "num": 67455,
+        "word": "智界 刘亦菲",
+        "onboard_time": 1744894042,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 40034,
+        "num": 67313,
+        "word": "卤鹅哥再现与甲亢哥送鹅现场",
+        "onboard_time": 1744910356,
+        "rank": 9,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 168143,
+        "num": 67029,
+        "word": "男子欲与女技师发生性关系被控强奸",
+        "onboard_time": 1744891040,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120247,
+        "num": 66724,
+        "word": "谢娜骑车到鸟巢給张杰送花",
+        "onboard_time": 1744904422,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 95398,
+        "num": 66452,
+        "word": "湖南卫视连发20条杨幂",
+        "onboard_time": 1744907538,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95288,
+        "num": 66232,
+        "word": "杨采钰怀孕",
+        "onboard_time": 1744886481,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28781,
+        "num": 65754,
+        "word": "金玉良缘",
+        "onboard_time": 1744896562,
+        "rank": 14,
+        "category": "剧集,电竞"
+      },
+      {
+        "raw_hot": 76947,
+        "num": 65624,
+        "word": "25岁裸辞后找了个上1休1的工作",
+        "onboard_time": 1744893562,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 65450,
+        "num": 65450,
+        "word": "儿媳每月给婆婆3000元感谢其帮带娃",
+        "onboard_time": 1744898063,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63067,
+        "num": 63067,
+        "word": "导演澄清陈妍希张书豪绯闻",
+        "onboard_time": 1744903523,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50397,
+        "num": 50397,
+        "word": "丁程鑫发博安慰粉丝",
+        "onboard_time": 1744897402,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48434,
+        "num": 48434,
+        "word": "认养一头牛称暂不考虑撤掉广告",
+        "onboard_time": 1744892421,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37100,
+        "num": 37100,
+        "word": "张康乐 王者头像",
+        "onboard_time": 1744898963,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33964,
+        "num": 33964,
+        "word": "关税成本最终将转嫁给美国普通消费者",
+        "onboard_time": 1744904482,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 31917,
+        "num": 31917,
+        "word": "美国人来华扫货消费金额短期暴涨",
+        "onboard_time": 1744909097,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29794,
+        "num": 29794,
+        "word": "皮肤瘙痒发黄还有蜘蛛痣最好查查肝",
+        "onboard_time": 1744900224,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 29365,
+        "num": 29365,
+        "word": "杭铁回应地铁口被吐槽像棺材",
+        "onboard_time": 1744901662,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29329,
+        "num": 29329,
+        "word": "张檬产前vs产后",
+        "onboard_time": 1744885402,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28445,
+        "num": 28445,
+        "word": "长期吃零食的人身体会发生什么变化",
+        "onboard_time": 1744899742,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26434,
+        "num": 27706,
+        "word": "歌手",
+        "onboard_time": 1744891460,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24450,
+        "num": 27465,
+        "word": "肖战张婧仪藏海传Q2播出",
+        "onboard_time": 1744898602,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22321,
+        "num": 27418,
+        "word": "金泰妍演唱会取消",
+        "onboard_time": 1744901423,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 27405,
+        "num": 27405,
+        "word": "中国通史将乾隆照片错配成雍正",
+        "onboard_time": 1744904302,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24537,
+        "num": 24537,
+        "word": "戒掉咖啡一个月后的身体变化",
+        "onboard_time": 1744888102,
+        "rank": 31,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 24293,
+        "num": 24293,
+        "word": "又被面包店逼疯一个",
+        "onboard_time": 1744893022,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 24152,
+        "num": 24152,
+        "word": "减肥要熬过这4个时间点",
+        "onboard_time": 1744891402,
+        "rank": 33,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 21693,
+        "num": 21693,
+        "word": "女主播3年顿顿吃外卖查出胃癌",
+        "onboard_time": 1744900224,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21289,
+        "num": 21289,
+        "word": "36岁张檬备孕3年迎来蛇宝宝",
+        "onboard_time": 1744905441,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20706,
+        "num": 20706,
+        "word": "美国游客用支付宝消费涨百分之二百",
+        "onboard_time": 1744897642,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20496,
+        "num": 20496,
+        "word": "易烊千玺人夫感和少年感共存",
+        "onboard_time": 1744901901,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20469,
+        "num": 20469,
+        "word": "旅游博主境外直播被间谍盯上",
+        "onboard_time": 1744910297,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19695,
+        "num": 19695,
+        "word": "丁程鑫早点睡吧别太累",
+        "onboard_time": 1744914195,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18691,
+        "num": 19694,
+        "word": "终于知道养气血该怎么吃了",
+        "onboard_time": 1744889421,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 18178,
+        "num": 19692,
+        "word": "2025北影节",
+        "onboard_time": 1744904961,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 17658,
+        "num": 19688,
+        "word": "金泰妍演唱会因设备问题取消",
+        "onboard_time": 1744909997,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 17410,
+        "num": 19686,
+        "word": "卤制品三巨头大幅关店网友吐槽吃不起",
+        "onboard_time": 1744877781,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17178,
+        "num": 19684,
+        "word": "刘亦菲导航语音包",
+        "onboard_time": 1744905921,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 16354,
+        "num": 19681,
+        "word": "朱一龙吴磊等将亮相北影节红毯",
+        "onboard_time": 1744900224,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 15622,
+        "num": 19677,
+        "word": "2025年为中柬旅游年",
+        "onboard_time": 1744904602,
+        "rank": 46,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 15109,
+        "num": 19675,
+        "word": "2025北京国际电影节",
+        "onboard_time": 1744906878,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 14506,
+        "num": 19672,
+        "word": "武艺流水的大哥铁打的小弟",
+        "onboard_time": 1744915095,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14062,
+        "num": 19669,
+        "word": "王楚钦国乒发带富翁",
+        "onboard_time": 1744898123,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中柬铁杆友谊一定会初心如磐成色十足#"
+    }
+  }
+}
