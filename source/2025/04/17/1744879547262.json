@@ -1,0 +1,410 @@
+{
+  "runTime": 1744879547262,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 858220,
+        "num": 1137315,
+        "word": "1.68米女子被忽悠断骨增高每天打止痛针",
+        "onboard_time": 1744870761,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 475176,
+        "num": 475176,
+        "word": "灵魂摆渡 原班人马",
+        "onboard_time": 1744877421,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25299,
+        "num": 474902,
+        "word": "守一扇心窗唱响护苗新篇章",
+        "onboard_time": 1744863863,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 474779,
+        "num": 474779,
+        "word": "甲亢哥来华的幕后推手",
+        "onboard_time": 1744873761,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 439691,
+        "num": 439691,
+        "word": "卤制品三巨头大幅关店网友吐槽吃不起",
+        "onboard_time": 1744877781,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2777041,
+        "num": 432131,
+        "word": "已脑死亡男孩听到妈妈来了流下眼泪",
+        "onboard_time": 1744876401,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 592855,
+        "num": 430555,
+        "word": "全红婵晒虞书欣送的娃娃",
+        "onboard_time": 1744874542,
+        "rank": 6,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 397562,
+        "num": 397562,
+        "word": "多家骑手回应京东外卖净利不超5%",
+        "onboard_time": 1744872981,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 365039,
+        "num": 365039,
+        "word": "长期处于饥饿状态会怎么样",
+        "onboard_time": 1744861461,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 206698,
+        "num": 351951,
+        "word": "12306候补成功率多高能抢到票",
+        "onboard_time": 1744878324,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 539086,
+        "num": 345594,
+        "word": "李永乐因做网红患抑郁症",
+        "onboard_time": 1744879041,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 476479,
+        "num": 323185,
+        "word": "张檬韩国婆婆特意赶来香港",
+        "onboard_time": 1744872981,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 377972,
+        "num": 308059,
+        "word": "董力把家人气到失眠",
+        "onboard_time": 1744871902,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303679,
+        "num": 303679,
+        "word": "让孙俪胡杏儿演对手戏简直天才",
+        "onboard_time": 1744875743,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79042,
+        "num": 277052,
+        "word": "李永乐否认做网红有上千万收入",
+        "onboard_time": 1744878022,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270237,
+        "num": 270237,
+        "word": "黄仁勋时隔3个月再次到访北京",
+        "onboard_time": 1744875322,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 341885,
+        "num": 268374,
+        "word": "张檬晒照官宣生子",
+        "onboard_time": 1744861641,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257179,
+        "num": 257179,
+        "word": "半个娱乐圈团建的含金量",
+        "onboard_time": 1744861403,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245178,
+        "num": 245178,
+        "word": "终于有剧拍了离婚女人有多爽了",
+        "onboard_time": 1744860321,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167621,
+        "num": 216511,
+        "word": "大哥卖60克金项链赚了1万8",
+        "onboard_time": 1744878501,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 325000,
+        "num": 216473,
+        "word": "一对双胞胎生了一对龙凤胎",
+        "onboard_time": 1744875141,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 216381,
+        "num": 216381,
+        "word": "中马互免签证",
+        "onboard_time": 1744878981,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 182038,
+        "num": 215892,
+        "word": "白鹿嗓子哑了周深问谁在说话",
+        "onboard_time": 1744875922,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161591,
+        "num": 213288,
+        "word": "一个谣言毁了三个人的人生",
+        "onboard_time": 1744878201,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39490,
+        "num": 209824,
+        "word": "金价还会继续飙涨吗",
+        "onboard_time": 1744870702,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 125288,
+        "num": 208245,
+        "word": "大侦探一癫更比一癫强",
+        "onboard_time": 1744877902,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61452,
+        "num": 205381,
+        "word": "向佐亲测小鹏X9直呼要再买一台",
+        "onboard_time": 1744878861,
+        "rank": 26,
+        "category": "汽车,艺人"
+      },
+      {
+        "raw_hot": 115789,
+        "num": 203821,
+        "word": "美一客机疑起飞时撞兔子致空中起火",
+        "onboard_time": 1744877962,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 28623,
+        "num": 200461,
+        "word": "伊藤美诚4比1迪亚兹",
+        "onboard_time": 1744878442,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46120,
+        "num": 199117,
+        "word": "林诗栋说今天发挥不是特别好",
+        "onboard_time": 1744878442,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98432,
+        "num": 196904,
+        "word": "李马克购入50亿韩元住宅",
+        "onboard_time": 1744879462,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121960,
+        "num": 194219,
+        "word": "种地吧导演回应缺人",
+        "onboard_time": 1744872322,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192788,
+        "num": 192788,
+        "word": "部分中国商品紧急转口马来西亚",
+        "onboard_time": 1744875502,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 44591,
+        "num": 192684,
+        "word": "孙颖莎刚赢完就去训练了",
+        "onboard_time": 1744879341,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16886,
+        "num": 192418,
+        "word": "如何规划好高考最后50天",
+        "onboard_time": 1744879522,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 13600,
+        "num": 192069,
+        "word": "老师你好像在霍格沃兹教过书",
+        "onboard_time": 1744879462,
+        "rank": 35,
+        "category": "教育,议题讨论"
+      },
+      {
+        "raw_hot": 19236,
+        "num": 192002,
+        "word": "有问题的从来都不是AI",
+        "onboard_time": 1744879341,
+        "rank": 36,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 13340,
+        "num": 191706,
+        "word": "石棉瓦的危害有多恐怖",
+        "onboard_time": 1744878861,
+        "rank": 37,
+        "category": "科学科普,民生新闻"
+      },
+      {
+        "raw_hot": 8810,
+        "num": 191438,
+        "word": "月光下的新疆春耕令人震撼",
+        "onboard_time": 1744878861,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19007,
+        "num": 191092,
+        "word": "用白砂糖能给自己做一只左手",
+        "onboard_time": 1744879462,
+        "rank": 39,
+        "category": "幽默,议题讨论"
+      },
+      {
+        "raw_hot": 191091,
+        "num": 191091,
+        "word": "iPhone17Pro外观辨识度",
+        "onboard_time": 1744875263,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 189776,
+        "num": 189776,
+        "word": "武契奇称即使天塌下来也要去莫斯科",
+        "onboard_time": 1744878922,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 180374,
+        "num": 180374,
+        "word": "柬埔寨",
+        "onboard_time": 1744867402,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 175478,
+        "num": 175478,
+        "word": "世纪佳缘取消3人婚礼预定",
+        "onboard_time": 1744866683,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152610,
+        "num": 152610,
+        "word": "12306的花语是手慢无",
+        "onboard_time": 1744872862,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147478,
+        "num": 147478,
+        "word": "泼水节一理想汽车被人喊开门后泼水",
+        "onboard_time": 1744877181,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145223,
+        "num": 145223,
+        "word": "千万别小瞧研究生的自愈能力",
+        "onboard_time": 1744879102,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136732,
+        "num": 136732,
+        "word": "男孩走失后考上美国名校回国寻亲",
+        "onboard_time": 1744875441,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132359,
+        "num": 132359,
+        "word": "旅游博主被关小黑屋强迫接受间谍任务",
+        "onboard_time": 1744863022,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129286,
+        "num": 129286,
+        "word": "市民自发前来为被虐死男童发声",
+        "onboard_time": 1744879522,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#构建高水平战略性中马命运共同体#"
+    }
+  }
+}
