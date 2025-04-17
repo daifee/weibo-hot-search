@@ -1,0 +1,410 @@
+{
+  "runTime": 1744865074176,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1182705,
+        "num": 1189232,
+        "word": "半个娱乐圈团建的含金量",
+        "onboard_time": 1744861403,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1103637,
+        "num": 1103637,
+        "word": "小米汽车确认YU7不参加上海车展",
+        "onboard_time": 1744860141,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 9214,
+        "num": 936790,
+        "word": "这根本不是对等关税而是空气税",
+        "onboard_time": 1744864825,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 777344,
+        "num": 777344,
+        "word": "能叫停关税的只有美债",
+        "onboard_time": 1744860922,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 649346,
+        "num": 649346,
+        "word": "5吨大米淘500克金米被指浪费粮食",
+        "onboard_time": 1744861762,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 639792,
+        "num": 639792,
+        "word": "杨紫白鹿等火到柬埔寨了",
+        "onboard_time": 1744861461,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 627727,
+        "num": 627727,
+        "word": "白宫承认中方没打来过电话",
+        "onboard_time": 1744847722,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 572971,
+        "num": 572971,
+        "word": "旅游博主被关小黑屋强迫接受间谍任务",
+        "onboard_time": 1744863022,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 461418,
+        "num": 461418,
+        "word": "贺峻霖北京电影节表演嘉宾",
+        "onboard_time": 1744861042,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 55109,
+        "num": 454697,
+        "word": "中国的铁杆朋友柬埔寨",
+        "onboard_time": 1744863683,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2118047,
+        "num": 452531,
+        "word": "张檬晒照官宣生子",
+        "onboard_time": 1744861641,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1528108,
+        "num": 452095,
+        "word": "终于有剧拍了离婚女人有多爽了",
+        "onboard_time": 1744860321,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 448104,
+        "num": 448104,
+        "word": "李昊种地的三年",
+        "onboard_time": 1744854080,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43012,
+        "num": 413225,
+        "word": "律师称遭虐死幼童生父明显失职",
+        "onboard_time": 1744863863,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107602,
+        "num": 400707,
+        "word": "孙颖莎VS波尔卡诺娃",
+        "onboard_time": 1744862602,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 393226,
+        "num": 393226,
+        "word": "歌手 单依纯",
+        "onboard_time": 1744853062,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 844373,
+        "num": 386973,
+        "word": "江西景德镇发生一起刑事案件",
+        "onboard_time": 1744856360,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138738,
+        "num": 383050,
+        "word": "伊利1600元生育补贴能领什么",
+        "onboard_time": 1744862781,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141019,
+        "num": 375096,
+        "word": "陈都灵感谢苏有朋",
+        "onboard_time": 1744859541,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57565,
+        "num": 366555,
+        "word": "6800元演唱会套票平台不出票不退款",
+        "onboard_time": 1744864282,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 732315,
+        "num": 365056,
+        "word": "长期处于饥饿状态会怎么样",
+        "onboard_time": 1744861461,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 679259,
+        "num": 353713,
+        "word": "认养一头牛广告被指嘲讽打工人",
+        "onboard_time": 1744854141,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 352499,
+        "num": 352499,
+        "word": "韩媒曝金秀贤对金赛纶方诉讼有变",
+        "onboard_time": 1744864524,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 333274,
+        "num": 333274,
+        "word": "男童被生父女友虐死案开庭",
+        "onboard_time": 1744856840,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87680,
+        "num": 325009,
+        "word": "A股近4200只股上涨",
+        "onboard_time": 1744864043,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 323754,
+        "num": 323754,
+        "word": "钟汉良朱珠吻戏",
+        "onboard_time": 1744859120,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 305728,
+        "num": 322474,
+        "word": "终于有短剧拍出了细水长流的爱情",
+        "onboard_time": 1744862843,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53443,
+        "num": 320605,
+        "word": "合资能不能做好智能化",
+        "onboard_time": 1744861461,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 45561,
+        "num": 319959,
+        "word": "村民称被虐致死男童脸上全是淤青",
+        "onboard_time": 1744864763,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59476,
+        "num": 316802,
+        "word": "美对中国滥施关税已影响特斯拉生产",
+        "onboard_time": 1744864043,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 228553,
+        "num": 316110,
+        "word": "李晟吴宣仪宋妍霏一组",
+        "onboard_time": 1744860260,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 10401,
+        "num": 313669,
+        "word": "在媒体工作能快乐追星吗",
+        "onboard_time": 1744864825,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313147,
+        "num": 313147,
+        "word": "女子收养女婴10年仍是黑户",
+        "onboard_time": 1744863143,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279322,
+        "num": 279322,
+        "word": "被制裁5次的中国企业如今订单满满",
+        "onboard_time": 1744863022,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20533,
+        "num": 276223,
+        "word": "3点意见建设中马命运共同体",
+        "onboard_time": 1744864884,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276123,
+        "num": 276123,
+        "word": "被虐死男童生父以被害者家属身份出庭",
+        "onboard_time": 1744859602,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269736,
+        "num": 269736,
+        "word": "警方证实贵州一夫二妻婚宴是闹剧",
+        "onboard_time": 1744862004,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268936,
+        "num": 268936,
+        "word": "女生以为挖到超大竹笋结果被嘲笑",
+        "onboard_time": 1744859421,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232860,
+        "num": 254441,
+        "word": "张小婉又选了管乐",
+        "onboard_time": 1744864282,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82762,
+        "num": 250751,
+        "word": "歼15超低空掠海突袭",
+        "onboard_time": 1744864884,
+        "rank": 39,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 249344,
+        "num": 249344,
+        "word": "12306候补",
+        "onboard_time": 1744850543,
+        "rank": 40,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 50027,
+        "num": 235422,
+        "word": "肠癌筛查黄金期超十年",
+        "onboard_time": 1744863623,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 231560,
+        "num": 231560,
+        "word": "无限暖暖与美好的世界牵手",
+        "onboard_time": 1744865003,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 224638,
+        "num": 224638,
+        "word": "秦彻",
+        "onboard_time": 1744863202,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 134657,
+        "num": 213750,
+        "word": "守一扇心窗唱响护苗新篇章",
+        "onboard_time": 1744863863,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206325,
+        "num": 206325,
+        "word": "灵魂摆渡十年",
+        "onboard_time": 1744863923,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202543,
+        "num": 202543,
+        "word": "台湾媒体称大陆AI远超美国",
+        "onboard_time": 1744864223,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 192754,
+        "num": 192754,
+        "word": "官方回应男子与现任前任办3人婚礼",
+        "onboard_time": 1744862843,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188317,
+        "num": 188317,
+        "word": "加拿大天空惊现异象",
+        "onboard_time": 1744860141,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 169634,
+        "num": 169634,
+        "word": "张本智和4比0冯翊新",
+        "onboard_time": 1744863262,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在柬埔寨媒体发表署名文章#"
+    }
+  }
+}

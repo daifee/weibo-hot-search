@@ -1,6 +1,6 @@
 {
   "startTime": 1744821103506,
-  "endTime": 1744864166866,
+  "endTime": 1744865074176,
   "band_list": [
     {
       "raw_hot": 2125500,
@@ -51,6 +51,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1182705,
+      "num": 1189232,
+      "word": "半个娱乐圈团建的含金量",
+      "onboard_time": 1744861403,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1129000,
       "num": 206243,
       "word": "老爸评测避孕套pH",
@@ -65,14 +73,6 @@
       "onboard_time": 1744860141,
       "rank": 0,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 1102648,
-      "num": 1102648,
-      "word": "半个娱乐圈团建的含金量",
-      "onboard_time": 1744861403,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 979847,
@@ -139,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 732315,
+      "num": 440641,
+      "word": "长期处于饥饿状态会怎么样",
+      "onboard_time": 1744861461,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 730308,
       "num": 397360,
       "word": "钟汉良朱珠吻戏",
@@ -163,14 +171,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 716540,
-      "num": 440641,
-      "word": "长期处于饥饿状态会怎么样",
-      "onboard_time": 1744861461,
-      "rank": 20,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 673248,
       "num": 909007,
       "word": "加州宣布将起诉特朗普政府",
@@ -185,6 +185,14 @@
       "onboard_time": 1744846640,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 649346,
+      "num": 649346,
+      "word": "5吨大米淘500克金米被指浪费粮食",
+      "onboard_time": 1744861762,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 635260,
@@ -219,11 +227,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 517906,
-      "num": 517906,
-      "word": "5吨大米淘500克金米被指浪费粮食",
-      "onboard_time": 1744861762,
-      "rank": 45,
+      "raw_hot": 572971,
+      "num": 572971,
+      "word": "旅游博主被关小黑屋强迫接受间谍任务",
+      "onboard_time": 1744863022,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -315,6 +323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 352499,
+      "num": 352499,
+      "word": "韩媒曝金秀贤对金赛纶方诉讼有变",
+      "onboard_time": 1744864524,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 351451,
       "num": 197368,
       "word": "知情人回应网红小猫悟空去世",
@@ -347,11 +363,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 314512,
-      "num": 314512,
-      "word": "旅游博主被关小黑屋强迫接受间谍任务",
-      "onboard_time": 1744863022,
-      "rank": 31,
+      "raw_hot": 313147,
+      "num": 475579,
+      "word": "女子收养女婴10年仍是黑户",
+      "onboard_time": 1744863143,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -369,6 +385,14 @@
       "onboard_time": 1744846521,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 305728,
+      "num": 379572,
+      "word": "终于有短剧拍出了细水长流的爱情",
+      "onboard_time": 1744862843,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 291259,
@@ -416,6 +440,14 @@
       "word": "老兵身上33枚钢珠被医生误认成项链",
       "onboard_time": 1744856540,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 269736,
+      "num": 269736,
+      "word": "警方证实贵州一夫二妻婚宴是闹剧",
+      "onboard_time": 1744862004,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -475,14 +507,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 252199,
-      "num": 252199,
-      "word": "警方证实贵州一夫二妻婚宴是闹剧",
-      "onboard_time": 1744862004,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 240630,
       "num": 368898,
       "word": "北影节表演嘉宾",
@@ -507,14 +531,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 236580,
-      "num": 379572,
-      "word": "终于有短剧拍出了细水长流的爱情",
-      "onboard_time": 1744862843,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 236131,
       "num": 236131,
       "word": "国台办回应Tank感谢祖国",
@@ -523,12 +539,28 @@
       "category": "国内时政,艺人"
     },
     {
+      "raw_hot": 232860,
+      "num": 254441,
+      "word": "张小婉又选了管乐",
+      "onboard_time": 1744864282,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232022,
       "num": 232022,
       "word": "王曼昱淘汰赛对阵张本美和",
       "onboard_time": 1744819161,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 231560,
+      "num": 231560,
+      "word": "无限暖暖与美好的世界牵手",
+      "onboard_time": 1744865003,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 228669,
@@ -545,6 +577,14 @@
       "onboard_time": 1744819401,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 224638,
+      "num": 224638,
+      "word": "秦彻",
+      "onboard_time": 1744863202,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 222161,
@@ -595,6 +635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206325,
+      "num": 206325,
+      "word": "灵魂摆渡十年",
+      "onboard_time": 1744863923,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206314,
       "num": 206314,
       "word": "丁禹兮张新成领衔主演",
@@ -609,6 +657,14 @@
       "onboard_time": 1744846278,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202543,
+      "num": 202543,
+      "word": "台湾媒体称大陆AI远超美国",
+      "onboard_time": 1744864223,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 198731,
@@ -635,28 +691,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 195521,
-      "num": 195521,
-      "word": "灵魂摆渡十年",
-      "onboard_time": 1744863923,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 193914,
       "num": 193914,
       "word": "加拿大天空惊现异象",
       "onboard_time": 1744860141,
       "rank": 42,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 193360,
-      "num": 193360,
-      "word": "秦彻",
-      "onboard_time": 1744863202,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 191929,
@@ -723,6 +763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 169634,
+      "num": 475317,
+      "word": "张本智和4比0冯翊新",
+      "onboard_time": 1744863262,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169117,
       "num": 169117,
       "word": "突然有点后悔养花了",
@@ -737,14 +785,6 @@
       "onboard_time": 1744860741,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 166667,
-      "num": 475579,
-      "word": "女子收养女婴10年仍是黑户",
-      "onboard_time": 1744863143,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 166182,
@@ -891,6 +931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141019,
+      "num": 375096,
+      "word": "陈都灵感谢苏有朋",
+      "onboard_time": 1744859541,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139954,
       "num": 179068,
       "word": "歌手 网飞直播",
@@ -921,6 +969,14 @@
       "onboard_time": 1744858341,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134657,
+      "num": 902114,
+      "word": "守一扇心窗唱响护苗新篇章",
+      "onboard_time": 1744863863,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132941,
@@ -995,14 +1051,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 121248,
-      "num": 475317,
-      "word": "张本智和4比0冯翊新",
-      "onboard_time": 1744863262,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 120900,
       "num": 120900,
       "word": "被虐致死3岁男童太阳穴都是伤",
@@ -1033,14 +1081,6 @@
       "onboard_time": 1744846400,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 114081,
-      "num": 114081,
-      "word": "陈都灵感谢苏有朋",
-      "onboard_time": 1744859541,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 113709,
@@ -1259,6 +1299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 82762,
+      "num": 250751,
+      "word": "歼15超低空掠海突袭",
+      "onboard_time": 1744864884,
+      "rank": 39,
+      "category": "军事"
+    },
+    {
       "raw_hot": 81911,
       "num": 81911,
       "word": "多方回应上海安福路老法师偷拍女性",
@@ -1387,6 +1435,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 59476,
+      "num": 316802,
+      "word": "美对中国滥施关税已影响特斯拉生产",
+      "onboard_time": 1744864043,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 58311,
       "num": 199236,
       "word": "不良人主创空降",
@@ -1395,12 +1451,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 57565,
+      "num": 366555,
+      "word": "6800元演唱会套票平台不出票不退款",
+      "onboard_time": 1744864282,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 55879,
       "num": 83941,
       "word": "中马双方交换30多份双边合作文本",
       "onboard_time": 1744819580,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 55109,
+      "num": 476275,
+      "word": "中国的铁杆朋友柬埔寨",
+      "onboard_time": 1744863683,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 52115,
@@ -1417,6 +1489,14 @@
       "onboard_time": 1744861102,
       "rank": 35,
       "category": "财经,数码"
+    },
+    {
+      "raw_hot": 50027,
+      "num": 373587,
+      "word": "肠癌筛查黄金期超十年",
+      "onboard_time": 1744863623,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 49738,
@@ -1443,12 +1523,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 45561,
+      "num": 319959,
+      "word": "村民称被虐致死男童脸上全是淤青",
+      "onboard_time": 1744864763,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43407,
       "num": 43407,
       "word": "看似奇葩却能秒睡的姿势",
       "onboard_time": 1744836314,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 43012,
+      "num": 413225,
+      "word": "律师称遭虐死幼童生父明显失职",
+      "onboard_time": 1744863863,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42056,
@@ -1472,14 +1568,6 @@
       "word": "继榴莲之后马来椰子也要来华了",
       "onboard_time": 1744821500,
       "rank": 32,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 36199,
-      "num": 902114,
-      "word": "守一扇心窗唱响护苗新篇章",
-      "onboard_time": 1744863863,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -1507,14 +1595,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 32559,
-      "num": 254057,
-      "word": "美对中国滥施关税已影响特斯拉生产",
-      "onboard_time": 1744864043,
-      "rank": 36,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 29768,
       "num": 109301,
       "word": "引领中马关系长期稳定发展",
@@ -1539,22 +1619,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 26517,
-      "num": 476275,
-      "word": "中国的铁杆朋友柬埔寨",
-      "onboard_time": 1744863683,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 22195,
-      "num": 373587,
-      "word": "肠癌筛查黄金期超十年",
-      "onboard_time": 1744863623,
-      "rank": 29,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 21069,
       "num": 21069,
       "word": "太湖湾音乐节",
@@ -1569,6 +1633,14 @@
       "onboard_time": 1744824376,
       "rank": 44,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 20533,
+      "num": 276223,
+      "word": "3点意见建设中马命运共同体",
+      "onboard_time": 1744864884,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20258,
@@ -1611,14 +1683,6 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 14179,
-      "num": 384367,
-      "word": "律师称遭虐死幼童生父明显失职",
-      "onboard_time": 1744863863,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 13156,
       "num": 29674,
       "word": "美方无所不用其极搞监控窃密攻击",
@@ -1633,6 +1697,22 @@
       "onboard_time": 1744836014,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 10401,
+      "num": 313669,
+      "word": "在媒体工作能快乐追星吗",
+      "onboard_time": 1744864825,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 9214,
+      "num": 936790,
+      "word": "这根本不是对等关税而是空气税",
+      "onboard_time": 1744864825,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
@@ -1644,6 +1724,9 @@
     },
     {
       "word": "#构建高水平战略性中马命运共同体#"
+    },
+    {
+      "word": "#习近平在柬埔寨媒体发表署名文章#"
     }
   ]
 }
