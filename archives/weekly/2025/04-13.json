@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744897466480,
+  "endTime": 1744899822364,
   "band_list": [
     {
       "raw_hot": 10606514,
@@ -619,6 +619,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1305464,
+      "num": 283783,
+      "word": "儿媳每月给婆婆3000元感谢其帮带娃",
+      "onboard_time": 1744898063,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1299802,
       "num": 1299802,
       "word": "歌手 单依纯",
@@ -1147,6 +1155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 952797,
+      "num": 276862,
+      "word": "郑州一房屋起火伴多次爆炸",
+      "onboard_time": 1744899384,
+      "rank": 13,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 951061,
       "num": 951061,
       "word": "EDG无畏契约",
@@ -1305,6 +1321,14 @@
       "onboard_time": 1744588521,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 892158,
+      "num": 1142745,
+      "word": "智界 刘亦菲",
+      "onboard_time": 1744894042,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 891597,
@@ -1505,14 +1529,6 @@
       "onboard_time": 1744606705,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 810821,
-      "num": 1129731,
-      "word": "智界 刘亦菲",
-      "onboard_time": 1744894042,
-      "rank": 36,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 810808,
@@ -1915,6 +1931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 701628,
+      "num": 701628,
+      "word": "妈妈说早知孩子受罪不如难产走掉",
+      "onboard_time": 1744891823,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 699940,
       "num": 699940,
       "word": "诗幂合作",
@@ -1977,6 +2001,14 @@
       "onboard_time": 1744893562,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 682164,
+      "num": 267697,
+      "word": "丁程鑫发博安慰粉丝",
+      "onboard_time": 1744897402,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 680220,
@@ -2131,6 +2163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 656634,
+      "num": 656634,
+      "word": "金玉良缘",
+      "onboard_time": 1744896562,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 654684,
       "num": 1104749,
       "word": "歌手",
@@ -2185,6 +2225,14 @@
       "onboard_time": 1744686621,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 642775,
+      "num": 568029,
+      "word": "刘涛爆料被晋江文学小考笑趴在地上",
+      "onboard_time": 1744893322,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 639402,
@@ -2411,20 +2459,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 592799,
-      "num": 592799,
-      "word": "妈妈说早知孩子受罪不如难产走掉",
-      "onboard_time": 1744891823,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 592775,
       "num": 387737,
       "word": "董力把家人气到失眠",
       "onboard_time": 1744871902,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 582635,
+      "num": 249245,
+      "word": "身上痒了两个多月以为过敏一查肝癌",
+      "onboard_time": 1744898063,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 576815,
@@ -2472,14 +2520,6 @@
       "word": "歌手 张惠妹",
       "onboard_time": 1744792101,
       "rank": 33,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 568029,
-      "num": 568029,
-      "word": "刘涛爆料被晋江文学小考笑趴在地上",
-      "onboard_time": 1744893322,
-      "rank": 22,
       "category": "综艺"
     },
     {
@@ -3827,6 +3867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 361624,
+      "num": 298437,
+      "word": "肖战张婧仪藏海传Q2播出",
+      "onboard_time": 1744898602,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 361564,
       "num": 361564,
       "word": "王鹤棣委托工作人员出来安慰粉丝",
@@ -4337,6 +4385,14 @@
       "onboard_time": 1744604664,
       "rank": 35,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 306797,
+      "num": 306797,
+      "word": "美国游客用支付宝消费涨百分之二百",
+      "onboard_time": 1744897642,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 306790,
@@ -5435,14 +5491,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 237415,
-      "num": 237415,
-      "word": "金玉良缘",
-      "onboard_time": 1744896562,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 236994,
       "num": 236994,
       "word": "终于知道养气血该怎么吃了",
@@ -5513,6 +5561,14 @@
       "onboard_time": 1744730783,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 234804,
+      "num": 234804,
+      "word": "张康乐 王者头像",
+      "onboard_time": 1744898963,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 234653,
@@ -6873,6 +6929,14 @@
       "onboard_time": 1744540761,
       "rank": 33,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 202488,
+      "num": 202488,
+      "word": "王楚钦国乒发带富翁",
+      "onboard_time": 1744898123,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 202104,
@@ -9153,6 +9217,14 @@
       "onboard_time": 1744802123,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 167906,
+      "num": 198555,
+      "word": "王楚钦丢球后打了自己一巴掌",
+      "onboard_time": 1744896201,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 167884,
@@ -11819,20 +11891,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133597,
+      "num": 133597,
+      "word": "赵丽颖K歌喜欢唱baby",
+      "onboard_time": 1744897762,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133514,
       "num": 133514,
       "word": "一个农村女孩拼尽全力考上了三本",
       "onboard_time": 1744696582,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 133429,
-      "num": 133429,
-      "word": "丁程鑫发博安慰粉丝",
-      "onboard_time": 1744897402,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 133386,
@@ -12771,6 +12843,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 123164,
+      "num": 123164,
+      "word": "孙俪发长文介绍胡曼黎",
+      "onboard_time": 1744899742,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 123001,
       "num": 123001,
       "word": "全球首次半机械蟑螂参与地震救援",
@@ -13211,6 +13291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117647,
+      "num": 154682,
+      "word": "其实人生根本不需要提前焦虑",
+      "onboard_time": 1744895901,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 117542,
       "num": 117542,
       "word": "张远演唱会嘉宾王心凌",
@@ -13331,14 +13419,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 115930,
-      "num": 198555,
-      "word": "王楚钦丢球后打了自己一巴掌",
-      "onboard_time": 1744896201,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 115780,
       "num": 115780,
       "word": "陈丽君浪姐跑着上班",
@@ -13393,6 +13473,14 @@
       "onboard_time": 1744641743,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115069,
+      "num": 115069,
+      "word": "王楚钦又打大头了",
+      "onboard_time": 1744899623,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 115016,
@@ -13521,6 +13609,14 @@
       "onboard_time": 1744805122,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 113112,
+      "num": 667705,
+      "word": "马来西亚小哥大喊我爱中国",
+      "onboard_time": 1744897160,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113056,
@@ -13707,6 +13803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110429,
+      "num": 136406,
+      "word": "柬埔寨国王颁授勋章",
+      "onboard_time": 1744899683,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 110386,
       "num": 153941,
       "word": "手机跑分到底有没有意义",
@@ -13817,6 +13921,14 @@
       "onboard_time": 1744892061,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108717,
+      "num": 108717,
+      "word": "长期吃零食的人身体会发生什么变化",
+      "onboard_time": 1744899742,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 108677,
@@ -14129,6 +14241,14 @@
       "onboard_time": 1744740794,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 102825,
+      "num": 257411,
+      "word": "余承东说智界S7是稳得住的快",
+      "onboard_time": 1744897223,
+      "rank": 23,
+      "category": "汽车"
     },
     {
       "raw_hot": 102701,
@@ -14963,6 +15083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83769,
+      "num": 254004,
+      "word": "中国始终是外资企业投资和贸易的沃土",
+      "onboard_time": 1744898842,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83472,
       "num": 83472,
       "word": "中国的山也太会摆pose了",
@@ -15315,6 +15443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 75110,
+      "num": 139234,
+      "word": "WBG对战NIP",
+      "onboard_time": 1744897642,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 74995,
       "num": 259157,
       "word": "辛选蛋蛋山东直播间爆单助农",
@@ -15409,6 +15545,14 @@
       "onboard_time": 1744845078,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 73668,
+      "num": 298922,
+      "word": "美关税政策将反噬美国消费者",
+      "onboard_time": 1744897043,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 73361,
@@ -15515,6 +15659,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 69259,
+      "num": 145798,
+      "word": "王楚钦展望交手杜达",
+      "onboard_time": 1744899563,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 69004,
       "num": 69004,
       "word": "以为是茶杯其实是防烫手的杯托",
@@ -15577,6 +15729,14 @@
       "onboard_time": 1744609882,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 68219,
+      "num": 260101,
+      "word": "中学时期的权志龙",
+      "onboard_time": 1744898003,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 67774,
@@ -15939,14 +16099,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 59842,
-      "num": 230128,
-      "word": "余承东说智界S7是稳得住的快",
-      "onboard_time": 1744897223,
-      "rank": 23,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 59652,
       "num": 181983,
       "word": "无忧渡有自己的真假美猴王",
@@ -16163,6 +16315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54601,
+      "num": 125935,
+      "word": "刘亦菲泊车亦如反掌",
+      "onboard_time": 1744899203,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 54279,
       "num": 289183,
       "word": "张本智和11比0埃尔贝亚利",
@@ -16289,6 +16449,14 @@
       "onboard_time": 1744801221,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 50398,
+      "num": 143207,
+      "word": "雨果4比1篠塚大登",
+      "onboard_time": 1744899563,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 50075,
@@ -17059,6 +17227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 37802,
+      "num": 124226,
+      "word": "剑网3太极秘录",
+      "onboard_time": 1744899683,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 37636,
       "num": 326648,
       "word": "多家企业亲述应对高关税经验",
@@ -17201,14 +17377,6 @@
       "onboard_time": 1744758619,
       "rank": 48,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 34738,
-      "num": 154682,
-      "word": "其实人生根本不需要提前焦虑",
-      "onboard_time": 1744895901,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 34708,
@@ -18035,14 +18203,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 19948,
-      "num": 276785,
-      "word": "美关税政策将反噬美国消费者",
-      "onboard_time": 1744897043,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 19668,
       "num": 19668,
       "word": "时代少年团四专睡衣造型",
@@ -18651,14 +18811,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 9074,
-      "num": 526750,
-      "word": "马来西亚小哥大喊我爱中国",
-      "onboard_time": 1744897160,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 8997,
       "num": 139176,
       "word": "大风已到山东",
@@ -18831,6 +18983,9 @@
     },
     {
       "word": "#习近平同柬埔寨首相洪玛奈会谈#"
+    },
+    {
+      "word": "#中柬铁杆友谊一定会初心如磐成色十足#"
     }
   ]
 }
