@@ -1,6 +1,6 @@
 {
   "startTime": 1744907462255,
-  "endTime": 1744980367257,
+  "endTime": 1744981281727,
   "band_list": [
     {
       "raw_hot": 2716065,
@@ -33,6 +33,14 @@
       "onboard_time": 1744958962,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 2044688,
+      "num": 613896,
+      "word": "日本",
+      "onboard_time": 1744979242,
+      "rank": 12,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1897871,
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 939030,
-      "num": 333547,
+      "num": 338447,
       "word": "孙珍妮回应脸肿",
       "onboard_time": 1744978041,
       "rank": 10,
@@ -217,6 +225,14 @@
       "onboard_time": 1744936460,
       "rank": 1,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 744633,
+      "num": 744633,
+      "word": "王曼昱vs蒯曼",
+      "onboard_time": 1744978041,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 724320,
@@ -371,6 +387,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 527290,
+      "num": 527290,
+      "word": "折腰名字改回来了",
+      "onboard_time": 1744974862,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 515961,
       "num": 405690,
       "word": "大疆水印 电子内裤边边",
@@ -385,14 +409,6 @@
       "onboard_time": 1744971141,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 505812,
-      "num": 505812,
-      "word": "折腰名字改回来了",
-      "onboard_time": 1744974862,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 504690,
@@ -417,14 +433,6 @@
       "onboard_time": 1744946841,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 494083,
-      "num": 494083,
-      "word": "王曼昱vs蒯曼",
-      "onboard_time": 1744978041,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 491741,
@@ -540,7 +548,7 @@
     },
     {
       "raw_hot": 417127,
-      "num": 333290,
+      "num": 337145,
       "word": "北大42岁副教授陈昊去世",
       "onboard_time": 1744978523,
       "rank": 11,
@@ -561,6 +569,14 @@
       "onboard_time": 1744946841,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 405274,
+      "num": 405274,
+      "word": "王鹤棣 别整那些播不了的",
+      "onboard_time": 1744978041,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 405170,
@@ -747,14 +763,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 328067,
-      "num": 328067,
-      "word": "日本",
-      "onboard_time": 1744979242,
-      "rank": 12,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 327843,
       "num": 327843,
       "word": "中国通史将乾隆照片错配成雍正",
@@ -785,14 +793,6 @@
       "onboard_time": 1744971320,
       "rank": 15,
       "category": "电影"
-    },
-    {
-      "raw_hot": 317351,
-      "num": 260313,
-      "word": "王鹤棣 别整那些播不了的",
-      "onboard_time": 1744978041,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 315715,
@@ -835,6 +835,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 280782,
+      "num": 280782,
+      "word": "刘宇宁说折腰没有吻戏",
+      "onboard_time": 1744980382,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 280418,
       "num": 274940,
       "word": "百万人排队抢古茗",
@@ -867,6 +875,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 269768,
+      "num": 269768,
+      "word": "张杰演唱会",
+      "onboard_time": 1744975281,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 266025,
       "num": 266025,
       "word": "孙颖莎世界杯进4强",
@@ -883,14 +899,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 263401,
-      "num": 263401,
-      "word": "张杰演唱会",
-      "onboard_time": 1744975281,
-      "rank": 26,
-      "category": "演出"
-    },
-    {
       "raw_hot": 259859,
       "num": 253313,
       "word": "钟南山院士喊你减肥啦",
@@ -905,6 +913,14 @@
       "onboard_time": 1744892421,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 257295,
+      "num": 257295,
+      "word": "结节真的是被气出来的吗",
+      "onboard_time": 1744979722,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 257087,
@@ -1179,14 +1195,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 204169,
-      "num": 204169,
-      "word": "结节真的是被气出来的吗",
-      "onboard_time": 1744979722,
-      "rank": 23,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 203987,
       "num": 265253,
       "word": "王楚钦男单4强",
@@ -1347,6 +1355,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 187363,
+      "num": 187363,
+      "word": "无忧渡热度",
+      "onboard_time": 1744979542,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186206,
       "num": 277364,
       "word": "秦彻牢笼可不是野兽的归宿",
@@ -1379,12 +1395,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 179713,
-      "num": 179713,
-      "word": "无忧渡热度",
-      "onboard_time": 1744979542,
-      "rank": 32,
-      "category": "剧集"
+      "raw_hot": 180402,
+      "num": 255540,
+      "word": "高速突然爆胎如何应对",
+      "onboard_time": 1744979902,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 179632,
@@ -1409,6 +1425,14 @@
       "onboard_time": 1744952184,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 176893,
+      "num": 176893,
+      "word": "鞠婧祎醒过来咯",
+      "onboard_time": 1744980501,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 176609,
@@ -1441,6 +1465,14 @@
       "onboard_time": 1744974202,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 174159,
+      "num": 174159,
+      "word": "李晟敏与SM不续约",
+      "onboard_time": 1744980202,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 174050,
@@ -1505,14 +1537,6 @@
       "onboard_time": 1744966880,
       "rank": 42,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 167012,
-      "num": 255540,
-      "word": "高速突然爆胎如何应对",
-      "onboard_time": 1744979902,
-      "rank": 17,
-      "category": "汽车"
     },
     {
       "raw_hot": 166600,
@@ -1779,6 +1803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147785,
+      "num": 147785,
+      "word": "谭卓带着她的美貌杀回来了",
+      "onboard_time": 1744980082,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 147770,
       "num": 1319394,
       "word": "美国军民企业高度依赖中国稀土",
@@ -1801,6 +1833,14 @@
       "onboard_time": 1744975582,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146866,
+      "num": 146866,
+      "word": "这锤子下去从三维干到二维了",
+      "onboard_time": 1744980202,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 146679,
@@ -1860,7 +1900,7 @@
     },
     {
       "raw_hot": 145427,
-      "num": 145427,
+      "num": 249845,
       "word": "庄达菲 不可以离的这么近吗",
       "onboard_time": 1744980142,
       "rank": 42,
@@ -1891,19 +1931,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 143694,
-      "num": 143694,
-      "word": "这锤子下去从三维干到二维了",
-      "onboard_time": 1744980202,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 142380,
-      "num": 142380,
-      "word": "谭卓带着她的美貌杀回来了",
-      "onboard_time": 1744980082,
-      "rank": 45,
+      "raw_hot": 144287,
+      "num": 144287,
+      "word": "黄奕好小的脸",
+      "onboard_time": 1744980442,
+      "rank": 35,
       "category": "电影"
     },
     {
@@ -2052,7 +2084,7 @@
     },
     {
       "raw_hot": 135553,
-      "num": 135553,
+      "num": 259580,
       "word": "国常会指出要持续稳定股市",
       "onboard_time": 1744978102,
       "rank": 47,
@@ -2073,14 +2105,6 @@
       "onboard_time": 1744963581,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 133868,
-      "num": 133868,
-      "word": "李晟敏与SM不续约",
-      "onboard_time": 1744980202,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 133418,
@@ -2299,6 +2323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113944,
+      "num": 113944,
+      "word": "舒畅38岁状态",
+      "onboard_time": 1744981042,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 112862,
       "num": 150010,
       "word": "对手教练也在夸王楚钦",
@@ -2435,6 +2467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 98615,
+      "num": 98615,
+      "word": "躺床上玩手机才叫真正为自己活着",
+      "onboard_time": 1744981163,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 97798,
       "num": 355509,
       "word": "看庄达菲直播好像在和闺蜜打视频",
@@ -2449,6 +2489,14 @@
       "onboard_time": 1744971500,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 96781,
+      "num": 96781,
+      "word": "逆水寒手游",
+      "onboard_time": 1744978102,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 96284,
@@ -2707,6 +2755,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 67455,
+      "num": 129687,
+      "word": "骗子用3个手机APP协作刷走钱",
+      "onboard_time": 1744978462,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67211,
       "num": 67211,
       "word": "杀生丸一家四口又发糖了",
@@ -2897,6 +2953,14 @@
       "onboard_time": 1744963881,
       "rank": 19,
       "category": "时尚,民生新闻"
+    },
+    {
+      "raw_hot": 52381,
+      "num": 248054,
+      "word": "整个宇宙都在转圈圈吗",
+      "onboard_time": 1744980564,
+      "rank": 19,
+      "category": "科学科普"
     },
     {
       "raw_hot": 52371,
