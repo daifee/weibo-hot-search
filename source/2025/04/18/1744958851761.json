@@ -1,0 +1,410 @@
+{
+  "runTime": 1744958851761,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2206454,
+        "num": 2206454,
+        "word": "特朗普撑不住暗示降低对华关税",
+        "onboard_time": 1744957223,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 732663,
+        "num": 732663,
+        "word": "王楚钦vs杜达",
+        "onboard_time": 1744954101,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116627,
+        "num": 717999,
+        "word": "美国军民企业高度依赖中国稀土",
+        "onboard_time": 1744950082,
+        "rank": 2,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1030878,
+        "num": 716269,
+        "word": "日本多地发生无差别杀人事件",
+        "onboard_time": 1744945102,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 712069,
+        "num": 712069,
+        "word": "贾玲 王牌对王牌",
+        "onboard_time": 1744947622,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 602391,
+        "num": 602391,
+        "word": "古茗崩了",
+        "onboard_time": 1744954042,
+        "rank": 5,
+        "category": "美食,游戏"
+      },
+      {
+        "raw_hot": 578322,
+        "num": 578322,
+        "word": "王楚钦4比3杜达",
+        "onboard_time": 1744957702,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 560543,
+        "num": 560543,
+        "word": "三体 胡歌",
+        "onboard_time": 1744955481,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 537259,
+        "num": 537259,
+        "word": "这种手机充电方式很危险",
+        "onboard_time": 1744943240,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114915,
+        "num": 466796,
+        "word": "美国小公司老板起诉特朗普",
+        "onboard_time": 1744958182,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 724320,
+        "num": 463265,
+        "word": "孙恩盛直播时突然缺氧和躯体化",
+        "onboard_time": 1744955002,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 456428,
+        "num": 456428,
+        "word": "警方通报江西杀害夫妻2人嫌犯被抓",
+        "onboard_time": 1744936460,
+        "rank": 11,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 445693,
+        "num": 445693,
+        "word": "张伦硕否认为了钱接近钟丽缇",
+        "onboard_time": 1744953502,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 438635,
+        "num": 438635,
+        "word": "以为巨长胖实际能减肥的食物",
+        "onboard_time": 1744955902,
+        "rank": 13,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 89020,
+        "num": 386881,
+        "word": "美国一退伍军人劫持飞机刺伤乘客",
+        "onboard_time": 1744957821,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 381975,
+        "num": 381975,
+        "word": "aespa四人四封",
+        "onboard_time": 1744956681,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 315195,
+        "num": 315195,
+        "word": "李一桐评论区好多明星团建",
+        "onboard_time": 1744952963,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 428495,
+        "num": 312432,
+        "word": "薛凯琪谈方大同去世",
+        "onboard_time": 1744948703,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228202,
+        "num": 307958,
+        "word": "乘风三公",
+        "onboard_time": 1744956383,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96284,
+        "num": 306220,
+        "word": "韩决定明年不再扩招医学生",
+        "onboard_time": 1744957041,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 241237,
+        "num": 303220,
+        "word": "李晟回应上热一的感觉",
+        "onboard_time": 1744957281,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300461,
+        "num": 300461,
+        "word": "侯佩岑组听到陈德容加入的表情",
+        "onboard_time": 1744957761,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49725,
+        "num": 279401,
+        "word": "哈马斯准备释放所有人质",
+        "onboard_time": 1744958601,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 251413,
+        "num": 278031,
+        "word": "叶童拒绝陈德容",
+        "onboard_time": 1744958482,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186206,
+        "num": 277364,
+        "word": "秦彻牢笼可不是野兽的归宿",
+        "onboard_time": 1744955902,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 277327,
+        "num": 277327,
+        "word": "早期的鹿晗",
+        "onboard_time": 1744953142,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59761,
+        "num": 268812,
+        "word": "魏建军提议多练内功少说空话",
+        "onboard_time": 1744958420,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 203987,
+        "num": 265253,
+        "word": "王楚钦男单4强",
+        "onboard_time": 1744958301,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262735,
+        "num": 262735,
+        "word": "湖南机场集团董事长涉嫌性侵",
+        "onboard_time": 1744948585,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189410,
+        "num": 243854,
+        "word": "李一桐这次演爽了",
+        "onboard_time": 1744958420,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230909,
+        "num": 230909,
+        "word": "鬼鬼公开冻卵的整个过程",
+        "onboard_time": 1744957882,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223927,
+        "num": 223927,
+        "word": "吴宣仪二公个人第一",
+        "onboard_time": 1744954761,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204993,
+        "num": 204993,
+        "word": "霸王茶姬",
+        "onboard_time": 1744941199,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 197162,
+        "num": 197162,
+        "word": "伍娘内娱掌公主",
+        "onboard_time": 1744957642,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177303,
+        "num": 177303,
+        "word": "姚PD始终没能逃过自己的梗",
+        "onboard_time": 1744958122,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171239,
+        "num": 171239,
+        "word": "西湖边松鼠被游客投喂成松猪",
+        "onboard_time": 1744946841,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165128,
+        "num": 165128,
+        "word": "刘涛时隔19年再演白素贞",
+        "onboard_time": 1744953622,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137725,
+        "num": 137725,
+        "word": "美国女警儿子在大学开枪杀人",
+        "onboard_time": 1744956383,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 136379,
+        "num": 136379,
+        "word": "小盐巴闭店",
+        "onboard_time": 1744958662,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 135799,
+        "num": 135799,
+        "word": "章昊初登hi6",
+        "onboard_time": 1744958601,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133694,
+        "num": 133694,
+        "word": "多名骑手表示全职后稳定月入过万",
+        "onboard_time": 1744958662,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127794,
+        "num": 127794,
+        "word": "未网购却收到快递52万积蓄被骗光",
+        "onboard_time": 1744953082,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123753,
+        "num": 123753,
+        "word": "古茗排队",
+        "onboard_time": 1744944981,
+        "rank": 42,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 111150,
+        "num": 123110,
+        "word": "IU 给粉丝隔空投送自拍",
+        "onboard_time": 1744957163,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121021,
+        "num": 123084,
+        "word": "林志玲安妮海瑟薇秀场合照",
+        "onboard_time": 1744952604,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123060,
+        "num": 123060,
+        "word": "刘亦菲跳拉丁舞",
+        "onboard_time": 1744953442,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121049,
+        "num": 121049,
+        "word": "你常吃的这种面包是促炎高手",
+        "onboard_time": 1744953622,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 119421,
+        "num": 119421,
+        "word": "郭艾伦首次回应眼睛受伤",
+        "onboard_time": 1744955063,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117694,
+        "num": 117694,
+        "word": "美国人喜欢的三蹦子可能要断货了",
+        "onboard_time": 1744933219,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 114619,
+        "num": 114619,
+        "word": "苹果特斯拉星巴克市场被蚕食",
+        "onboard_time": 1744954941,
+        "rank": 49,
+        "category": "互联网,数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#开启中马关系新的黄金50年#"
+    }
+  }
+}
