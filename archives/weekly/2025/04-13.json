@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744993775892,
+  "endTime": 1744994655389,
   "band_list": [
     {
       "raw_hot": 10606514,
@@ -41,6 +41,14 @@
       "onboard_time": 1744876401,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2817932,
+      "num": 1145113,
+      "word": "日本",
+      "onboard_time": 1744979242,
+      "rank": 12,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 2768175,
@@ -121,14 +129,6 @@
       "onboard_time": 1744719682,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2272825,
-      "num": 1145113,
-      "word": "日本",
-      "onboard_time": 1744979242,
-      "rank": 12,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 2260745,
@@ -3307,6 +3307,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 510450,
+      "num": 510450,
+      "word": "美国公布罗伯特肯尼迪遇刺案记录",
+      "onboard_time": 1744991301,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 510354,
       "num": 264011,
       "word": "张康乐 王者头像",
@@ -4227,14 +4235,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 403534,
-      "num": 403534,
-      "word": "美国公布罗伯特肯尼迪遇刺案记录",
-      "onboard_time": 1744991301,
-      "rank": 6,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 402628,
       "num": 402628,
       "word": "家具厂女员工拒绝向普京透露工资",
@@ -4747,6 +4747,22 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 356468,
+      "num": 356468,
+      "word": "张雨绮北影节生图真的太生了",
+      "onboard_time": 1744992323,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 356459,
+      "num": 356459,
+      "word": "张杰演唱会麦给谢娜VaVa吴宣仪",
+      "onboard_time": 1744990703,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 356046,
       "num": 356046,
       "word": "张继科说要给王曼昱空间",
@@ -4833,14 +4849,6 @@
       "onboard_time": 1744888041,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 349206,
-      "num": 349206,
-      "word": "张杰演唱会麦给谢娜VaVa吴宣仪",
-      "onboard_time": 1744990703,
-      "rank": 46,
-      "category": "演出"
     },
     {
       "raw_hot": 348975,
@@ -6051,14 +6059,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 265738,
-      "num": 265738,
-      "word": "张雨绮北影节生图真的太生了",
-      "onboard_time": 1744992323,
-      "rank": 15,
-      "category": "电影"
-    },
-    {
       "raw_hot": 265699,
       "num": 420226,
       "word": "夸克在台湾地区AppStore登顶爆火",
@@ -7259,6 +7259,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 222313,
+      "num": 204692,
+      "word": "hi6",
+      "onboard_time": 1744990703,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 222269,
       "num": 222269,
       "word": "舞蹈家黄豆豆拟提拔为副局级干部",
@@ -7971,6 +7979,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 207813,
+      "num": 207813,
+      "word": "Rookie一滴血抢龙",
+      "onboard_time": 1744991842,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 207692,
       "num": 207692,
       "word": "严浩翔张哥在我生命中的时间又增加了一年",
@@ -8185,14 +8201,6 @@
       "onboard_time": 1744891700,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 204692,
-      "num": 204692,
-      "word": "hi6",
-      "onboard_time": 1744990703,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 204687,
@@ -9747,6 +9755,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 186504,
+      "num": 186504,
+      "word": "特朗普暗示不想继续提高对华关税",
+      "onboard_time": 1744993282,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 186438,
       "num": 186438,
       "word": "任国超抢任嘉伦戏份",
@@ -9924,7 +9940,7 @@
     },
     {
       "raw_hot": 184235,
-      "num": 184235,
+      "num": 349536,
       "word": "关税大棒下世界超市义乌的现状",
       "onboard_time": 1744985063,
       "rank": 45,
@@ -9945,14 +9961,6 @@
       "onboard_time": 1744527921,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 183951,
-      "num": 183951,
-      "word": "Rookie一滴血抢龙",
-      "onboard_time": 1744991842,
-      "rank": 23,
-      "category": "电竞"
     },
     {
       "raw_hot": 183900,
@@ -17587,14 +17595,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 97808,
-      "num": 97808,
-      "word": "特朗普暗示不想继续提高对华关税",
-      "onboard_time": 1744993282,
-      "rank": 41,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 97798,
       "num": 355509,
       "word": "看庄达菲直播好像在和闺蜜打视频",
@@ -17649,6 +17649,14 @@
       "onboard_time": 1744846278,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96890,
+      "num": 96890,
+      "word": "一招拿下射手座",
+      "onboard_time": 1744991962,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 96851,
@@ -18579,14 +18587,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 78791,
-      "num": 78791,
-      "word": "一招拿下射手座",
-      "onboard_time": 1744991962,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 78642,
       "num": 581239,
       "word": "一季度中国经济成绩单来了",
@@ -18945,6 +18945,14 @@
       "onboard_time": 1744876521,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 71156,
+      "num": 71156,
+      "word": "陈丽君邀请你进入大观园",
+      "onboard_time": 1744994479,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 70962,
@@ -19401,6 +19409,14 @@
       "onboard_time": 1744759700,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 62387,
+      "num": 62387,
+      "word": "章昊韩维辰舞台",
+      "onboard_time": 1744990641,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 62286,
