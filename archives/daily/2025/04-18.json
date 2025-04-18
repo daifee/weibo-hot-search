@@ -1,6 +1,6 @@
 {
   "startTime": 1744907462255,
-  "endTime": 1744989925271,
+  "endTime": 1744990779746,
   "band_list": [
     {
       "raw_hot": 2716065,
@@ -115,6 +115,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1113071,
+      "num": 1113071,
+      "word": "iG战胜JDG",
+      "onboard_time": 1744989624,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1097340,
       "num": 399062,
       "word": "谢娜夜骑到鸟巢给张杰送玫瑰花",
@@ -187,8 +195,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 920162,
-      "num": 920162,
+      "raw_hot": 930659,
+      "num": 930659,
       "word": "特朗普称1个月内会与中国达成协议",
       "onboard_time": 1744985725,
       "rank": 33,
@@ -433,14 +441,6 @@
       "onboard_time": 1744957702,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 560228,
-      "num": 560228,
-      "word": "iG战胜JDG",
-      "onboard_time": 1744989624,
-      "rank": 6,
-      "category": "电竞"
     },
     {
       "raw_hot": 546490,
@@ -827,6 +827,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 356046,
+      "num": 356046,
+      "word": "张继科说要给王曼昱空间",
+      "onboard_time": 1744988484,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 354532,
       "num": 354532,
       "word": "歌手",
@@ -884,7 +892,7 @@
     },
     {
       "raw_hot": 336337,
-      "num": 269360,
+      "num": 299975,
       "word": "檀健次哪吒2梦幻联动",
       "onboard_time": 1744985482,
       "rank": 42,
@@ -971,6 +979,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 300140,
+      "num": 258873,
+      "word": "秦彻",
+      "onboard_time": 1744989262,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 291012,
       "num": 234923,
       "word": "96名业主自筹千万烂尾楼复工",
@@ -1035,6 +1051,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 271823,
+      "num": 271823,
+      "word": "iG绝地翻盘",
+      "onboard_time": 1744990703,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 269768,
       "num": 269768,
       "word": "张杰演唱会",
@@ -1060,7 +1084,7 @@
     },
     {
       "raw_hot": 263266,
-      "num": 263266,
+      "num": 276504,
       "word": "全员加速中 推迟录制",
       "onboard_time": 1744985243,
       "rank": 34,
@@ -1171,14 +1195,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 243596,
-      "num": 243596,
-      "word": "秦彻",
-      "onboard_time": 1744989262,
-      "rank": 22,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 241670,
       "num": 252711,
       "word": "徐明浩直播还是这么松弛",
@@ -1193,6 +1209,14 @@
       "onboard_time": 1744957281,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 241018,
+      "num": 241018,
+      "word": "重庆冰雹",
+      "onboard_time": 1744989503,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 240337,
@@ -1219,20 +1243,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 236576,
+      "num": 236576,
+      "word": "孙俪妈妈羡慕孙俪和马龙合影",
+      "onboard_time": 1744986565,
+      "rank": 42,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 235679,
       "num": 235679,
       "word": "女子每天吃十几个橙子确诊糖尿病",
       "onboard_time": 1744986503,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 235089,
-      "num": 235089,
-      "word": "孙俪妈妈羡慕孙俪和马龙合影",
-      "onboard_time": 1744986565,
-      "rank": 42,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 233749,
@@ -1297,14 +1321,6 @@
       "onboard_time": 1744953082,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 221017,
-      "num": 221017,
-      "word": "张继科说要给王曼昱空间",
-      "onboard_time": 1744988484,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 220892,
@@ -1499,6 +1515,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 201774,
+      "num": 201774,
+      "word": "佛山电翰对钱没有太多的欲望",
+      "onboard_time": 1744990343,
+      "rank": 29,
+      "category": "网红"
+    },
+    {
       "raw_hot": 201580,
       "num": 201580,
       "word": "贺峻霖killbill",
@@ -1571,6 +1595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195548,
+      "num": 238399,
+      "word": "成毅歌声和武夷山有多适配",
+      "onboard_time": 1744988843,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193709,
       "num": 193709,
       "word": "孙颖莎4比1郑怡静",
@@ -1633,14 +1665,6 @@
       "onboard_time": 1744959983,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 191358,
-      "num": 238399,
-      "word": "成毅歌声和武夷山有多适配",
-      "onboard_time": 1744988843,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 190565,
@@ -1809,14 +1833,6 @@
       "onboard_time": 1744974202,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 174483,
-      "num": 174483,
-      "word": "重庆冰雹",
-      "onboard_time": 1744989503,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 174159,
@@ -2051,6 +2067,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 155104,
+      "num": 155104,
+      "word": "陈德容",
+      "onboard_time": 1744988302,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154915,
       "num": 154915,
       "word": "过敏人春天全副武装出门",
@@ -2145,14 +2169,6 @@
       "onboard_time": 1744974682,
       "rank": 37,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 150340,
-      "num": 150340,
-      "word": "陈德容",
-      "onboard_time": 1744988302,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 150131,
@@ -2419,6 +2435,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 140175,
+      "num": 427819,
+      "word": "商务部回应美方301调查",
+      "onboard_time": 1744990222,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 139827,
       "num": 396060,
       "word": "陈建斌蒋勤勤独一无二手势杀",
@@ -2507,6 +2531,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 134629,
+      "num": 134629,
+      "word": "周深发长文告别三巡",
+      "onboard_time": 1744990102,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 134601,
       "num": 134601,
       "word": "张凌赫丝绸粉衬衫",
@@ -2524,7 +2556,7 @@
     },
     {
       "raw_hot": 133860,
-      "num": 133860,
+      "num": 273108,
       "word": "半个北影节后台都在唱苍茫爱片名",
       "onboard_time": 1744989682,
       "rank": 40,
@@ -2835,6 +2867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 111181,
+      "num": 235228,
+      "word": "杭州买500万的房子可省10万",
+      "onboard_time": 1744988003,
+      "rank": 27,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 111084,
       "num": 111084,
       "word": "狗 你是猪吗",
@@ -2849,6 +2889,14 @@
       "onboard_time": 1744945041,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 108256,
+      "num": 108256,
+      "word": "张杰演唱会麦给谢娜VaVa吴宣仪",
+      "onboard_time": 1744990703,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 107864,
@@ -2915,14 +2963,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 105475,
-      "num": 235228,
-      "word": "杭州买500万的房子可省10万",
-      "onboard_time": 1744988003,
-      "rank": 27,
-      "category": "民生新闻,财经"
-    },
-    {
       "raw_hot": 105016,
       "num": 105016,
       "word": "不要给情绪低落的人输出大道理",
@@ -2939,6 +2979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104429,
+      "num": 104429,
+      "word": "巴西打算替代美国成供应国",
+      "onboard_time": 1744989983,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 103650,
       "num": 103650,
       "word": "ApplePencil或将支持无线通信",
@@ -2951,6 +2999,14 @@
       "num": 102169,
       "word": "蒋一侨回应再不火就回家上班",
       "onboard_time": 1744972882,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 101962,
+      "num": 101962,
+      "word": "hi6",
+      "onboard_time": 1744990703,
       "rank": 49,
       "category": "综艺"
     },
@@ -3393,6 +3449,14 @@
       "onboard_time": 1744906878,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 61801,
+      "num": 244812,
+      "word": "五一前机票低至2折",
+      "onboard_time": 1744990402,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61192,
