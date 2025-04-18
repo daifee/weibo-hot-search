@@ -1,6 +1,6 @@
 {
   "startTime": 1744993775892,
-  "endTime": 1745008742645,
+  "endTime": 1745011345700,
   "band_list": [
     {
       "raw_hot": 2817932,
@@ -523,20 +523,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 30056,
+      "num": 33644,
+      "word": "00后女辅警40米深井救出幼童",
+      "onboard_time": 1745006775,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 29550,
       "num": 34205,
       "word": "我给虞书欣拍的撕拉片",
       "onboard_time": 1744999876,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 26754,
-      "num": 33644,
-      "word": "00后女辅警40米深井救出幼童",
-      "onboard_time": 1745006775,
-      "rank": 9,
-      "category": "正能量"
     },
     {
       "raw_hot": 25824,
@@ -595,12 +595,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 16948,
+      "num": 35726,
+      "word": "特朗普称本周将收到俄方反馈",
+      "onboard_time": 1745007553,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 16786,
       "num": 16786,
       "word": "在马来西亚这群建设者哭过更笑过",
       "onboard_time": 1745005154,
       "rank": 35,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 16530,
+      "num": 16530,
+      "word": "李晟是宋妍霏唯一的选择",
+      "onboard_time": 1745009834,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 16177,
@@ -643,12 +659,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 13066,
-      "num": 35726,
-      "word": "特朗普称本周将收到俄方反馈",
-      "onboard_time": 1745007553,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 13200,
+      "num": 15156,
+      "word": "杭州发布契税新政",
+      "onboard_time": 1745009174,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12656,
+      "num": 15131,
+      "word": "特斯拉从中国向美运汽车零件受阻",
+      "onboard_time": 1745011154,
+      "rank": 48,
+      "category": "汽车"
     }
   ],
   "hotgov_list": [
