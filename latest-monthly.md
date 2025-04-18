@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/18 10:12:33
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/18 11:04:53
 </p>
 </blockquote>
 <p>
@@ -1857,6 +1857,12 @@ Simon事件（热度：1411247）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%89%8C%E5%AF%B9%E7%8E%8B%E7%89%8C%20%E5%8E%9F%E7%8F%AD%E4%BA%BA%E9%A9%AC%23" target="weibo">
+王牌对王牌 原班人马（热度：1291305）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B2%E4%BA%A2%E5%93%A5%E6%89%AB%E8%B4%A7%E8%A2%AB%E6%8F%90%E9%86%92%E5%90%8E%E7%BB%86%E5%BF%83%E6%94%BE%E5%A5%BD%E6%89%8B%E6%9C%BA%23" target="weibo">
 甲亢哥扫货被提醒后细心放好手机（热度：1290624）
 </a>
@@ -2111,6 +2117,12 @@ VaVa 灰原哀（热度：1212430）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E5%92%8C%E5%8F%8B%23" target="weibo">
 文和友（热度：1196332）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%A4%E8%8C%97%E6%8E%92%E9%98%9F%23" target="weibo">
+古茗排队（热度：1196046）
 </a>
 </li>
 
@@ -2625,6 +2637,12 @@ DeepSeek7小时攻克缅甸救灾语言关（热度：1104741）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%23" target="weibo">
+霸王茶姬（热度：1062026）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E5%8D%8E%E5%9B%9E%E5%BA%94%E7%8E%8B%E6%80%A1%E4%BA%BA6%E5%B9%B4%E9%9B%B6%E5%B7%A5%E8%B5%84%23" target="weibo">
 杜华回应王怡人6年零工资（热度：1060815）
 </a>
@@ -2759,6 +2777,12 @@ IU向雪莉金赛纶推荐同一心理医生（热度：1041446）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8A%98%E8%85%B0%E6%B2%A1%E6%92%AD%23" target="weibo">
 折腰没播（热度：1031943）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A4%9A%E5%9C%B0%E5%8F%91%E7%94%9F%E6%97%A0%E5%B7%AE%E5%88%AB%E6%9D%80%E4%BA%BA%E4%BA%8B%E4%BB%B6%23" target="weibo">
+日本多地发生无差别杀人事件（热度：1029027）
 </a>
 </li>
 
@@ -3587,6 +3611,12 @@ SM新男团 撞名（热度：910464）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%80%E5%AE%B3%E5%A5%B3%E6%95%99%E5%B8%88%E5%85%AD%E6%97%AC%E7%94%B7%E5%AD%90%E9%9D%A0%E5%A5%B3%E5%8F%8B%E5%B7%A5%E8%B5%84%E7%94%9F%E6%B4%BB%23" target="weibo">
 杀害女教师六旬男子靠女友工资生活（热度：866554）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%A7%8D%E6%89%8B%E6%9C%BA%E5%85%85%E7%94%B5%E6%96%B9%E5%BC%8F%E5%BE%88%E5%8D%B1%E9%99%A9%23" target="weibo">
+这种手机充电方式很危险（热度：866067）
 </a>
 </li>
 
@@ -4785,6 +4815,12 @@ TVB男演员陈键锋学厨以第一名毕业（热度：726197）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%B2%B3%E5%B8%82%E4%B8%80%E5%9C%B0%E8%A7%A3%E9%99%A4%E4%B8%89%E8%89%B2%E7%A6%81%E4%BB%A4%23" target="weibo">
+三河市一地解除三色禁令（热度：708863）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E7%80%9A%23" target="weibo">
 林瀚（热度：708786）
 </a>
@@ -5975,42 +6011,6 @@ Angelababy女王权杖（热度：593316）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E7%A7%80%E8%B4%A4%E6%81%90%E9%9D%A2%E4%B8%B4%E7%A0%B4%E4%BA%A7%E5%8D%B1%E6%9C%BA%23" target="weibo">
 金秀贤恐面临破产危机（热度：587787）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E4%B8%80%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%95%85%E8%87%B47%E6%AD%BB1%E4%BC%A4%23" target="weibo">
-重庆一交通事故致7死1伤（热度：587221）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E8%BA%BA%E5%9C%A8%E9%99%88%E9%83%BD%E7%81%B5%E6%80%80%E9%87%8C%23" target="weibo">
-鞠婧祎躺在陈都灵怀里（热度：587086）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%9D%A8%E9%92%BF%E7%94%9C%E9%80%9A%E8%BF%87%E4%B8%AD%E4%BC%A0%E8%89%BA%E8%80%83%23" target="weibo">
-黄杨钿甜通过中传艺考（热度：586477）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%9D%E4%B8%80%E5%A5%B3%E7%94%9F%E7%88%B6%E4%BA%B2%E6%A0%A1%E9%97%A8%E5%8F%A3%E6%AE%B4%E6%89%93%E5%85%AD%E5%B9%B4%E7%BA%A7%E5%AD%A6%E7%94%9F%23" target="weibo">
-初一女生父亲校门口殴打六年级学生（热度：585777）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E5%B0%8F%E7%B1%B3SU7Ultra%E6%92%9E%E9%A3%9E%E5%A5%B3%E5%AD%90%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0%23" target="weibo">
-疑似小米SU7Ultra撞飞女子家属发声（热度：584941）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E6%9B%B2%E9%9D%A2%E5%B1%8F%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B6%88%E5%A4%B1%E4%BA%86%23" target="weibo">
-手机曲面屏为什么消失了（热度：584760）
 </a>
 </li>
 

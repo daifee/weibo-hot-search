@@ -1,10 +1,26 @@
 {
   "startTime": 1744907462255,
-  "endTime": 1744942353382,
+  "endTime": 1744945493472,
   "band_list": [
     {
+      "raw_hot": 1291305,
+      "num": 1291305,
+      "word": "王牌对王牌 原班人马",
+      "onboard_time": 1744943060,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1196046,
+      "num": 1196046,
+      "word": "古茗排队",
+      "onboard_time": 1744944981,
+      "rank": 1,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1097340,
-      "num": 243054,
+      "num": 399062,
       "word": "谢娜夜骑到鸟巢给张杰送玫瑰花",
       "onboard_time": 1744904422,
       "rank": 10,
@@ -19,12 +35,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1062026,
+      "num": 1062026,
+      "word": "霸王茶姬",
+      "onboard_time": 1744941199,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1052122,
-      "num": 240852,
+      "num": 410408,
       "word": "鬼鬼产后一天只吃一餐",
       "onboard_time": 1744937422,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1029027,
+      "num": 1029027,
+      "word": "日本多地发生无差别杀人事件",
+      "onboard_time": 1744945102,
+      "rank": 4,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1022511,
@@ -49,6 +81,14 @@
       "onboard_time": 1744904422,
       "rank": 10,
       "category": "演出"
+    },
+    {
+      "raw_hot": 866067,
+      "num": 866067,
+      "word": "这种手机充电方式很危险",
+      "onboard_time": 1744943240,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 756052,
@@ -80,6 +120,14 @@
       "word": "00后女生微创手术后缺氧致脑死亡",
       "onboard_time": 1744904002,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 708863,
+      "num": 708863,
+      "word": "三河市一地解除三色禁令",
+      "onboard_time": 1744943360,
+      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -116,7 +164,7 @@
     },
     {
       "raw_hot": 546490,
-      "num": 240066,
+      "num": 361406,
       "word": "黄晓明起诉龚文祥",
       "onboard_time": 1744938982,
       "rank": 13,
@@ -129,6 +177,14 @@
       "onboard_time": 1744920674,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 515961,
+      "num": 405690,
+      "word": "大疆水印 电子内裤边边",
+      "onboard_time": 1744940601,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 504690,
@@ -156,11 +212,19 @@
     },
     {
       "raw_hot": 440898,
-      "num": 237418,
+      "num": 249066,
       "word": "张杰一手抱花一手抱谢娜",
       "onboard_time": 1744936882,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 420590,
+      "num": 420590,
+      "word": "张新成演技",
+      "onboard_time": 1744942040,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 416650,
@@ -179,8 +243,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 389642,
+      "num": 389642,
+      "word": "张檬生小孩后一点变化没有",
+      "onboard_time": 1744944440,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 380137,
-      "num": 232226,
+      "num": 251584,
       "word": "市长来1小时你耽误他10分钟",
       "onboard_time": 1744933281,
       "rank": 21,
@@ -227,6 +299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 326011,
+      "num": 419041,
+      "word": "三河商户称牌匾换回费用政府承担",
+      "onboard_time": 1744943240,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 310696,
       "num": 310696,
       "word": "25岁裸辞后找了个上1休1的工作",
@@ -259,6 +339,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 259859,
+      "num": 253313,
+      "word": "钟南山院士喊你减肥啦",
+      "onboard_time": 1744943300,
+      "rank": 20,
+      "category": "民生新闻,运动健身"
+    },
+    {
       "raw_hot": 259840,
       "num": 259840,
       "word": "认养一头牛称暂不考虑撤掉广告",
@@ -272,6 +360,14 @@
       "word": "业主119万房子4年后只值40万",
       "onboard_time": 1744935801,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 254107,
+      "num": 254107,
+      "word": "90后男子搬砖9年攒下200万",
+      "onboard_time": 1744933879,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -299,22 +395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 238964,
-      "num": 238964,
-      "word": "90后男子搬砖9年攒下200万",
-      "onboard_time": 1744933879,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 231919,
-      "num": 231919,
-      "word": "大疆水印 电子内裤边边",
-      "onboard_time": 1744940601,
-      "rank": 35,
-      "category": "数码"
-    },
-    {
       "raw_hot": 230775,
       "num": 245010,
       "word": "震耳欲聋",
@@ -323,12 +403,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 208751,
-      "num": 208751,
-      "word": "霸王茶姬",
-      "onboard_time": 1744941199,
+      "raw_hot": 229133,
+      "num": 229133,
+      "word": "喝不喝咖啡身体3个差距很明显",
+      "onboard_time": 1744944141,
       "rank": 23,
-      "category": "美食"
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 211182,
+      "num": 211182,
+      "word": "宋雨琦 看得出她是公主",
+      "onboard_time": 1744940601,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 206035,
@@ -355,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193539,
+      "num": 193539,
+      "word": "冰湖重生官宣杀青礼",
+      "onboard_time": 1744945041,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192588,
       "num": 232472,
       "word": "震耳欲聋全阵容",
@@ -369,6 +465,14 @@
       "onboard_time": 1744904482,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 188707,
+      "num": 188707,
+      "word": "恋与深空",
+      "onboard_time": 1744945102,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 185763,
@@ -403,20 +507,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 165676,
-      "num": 165676,
-      "word": "宋雨琦 看得出她是公主",
-      "onboard_time": 1744940601,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 164526,
       "num": 179548,
       "word": "虞书欣回应送全红婵娃娃",
       "onboard_time": 1744917673,
       "rank": 39,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 163199,
+      "num": 163199,
+      "word": "男子诬告同事是间谍",
+      "onboard_time": 1744943240,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160588,
@@ -459,6 +563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148046,
+      "num": 148046,
+      "word": "特大地磁暴周末减弱",
+      "onboard_time": 1744945102,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146514,
       "num": 146514,
       "word": "皮肤瘙痒发黄还有蜘蛛痣最好查查肝",
@@ -497,14 +609,6 @@
       "onboard_time": 1744885402,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 135630,
-      "num": 135630,
-      "word": "张新成演技",
-      "onboard_time": 1744942040,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 135601,
@@ -563,12 +667,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 111738,
+      "num": 111738,
+      "word": "杜华表情管理",
+      "onboard_time": 1744942341,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 107762,
       "num": 107762,
       "word": "朱一龙吴磊等将亮相北影节红毯",
       "onboard_time": 1744900224,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 107635,
+      "num": 188856,
+      "word": "王牌对王牌9网传阵容",
+      "onboard_time": 1744945041,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 105016,
@@ -612,7 +732,7 @@
     },
     {
       "raw_hot": 93542,
-      "num": 100575,
+      "num": 115236,
       "word": "吴晓求称别让东方集团跑了",
       "onboard_time": 1744939460,
       "rank": 45,
@@ -844,7 +964,7 @@
     },
     {
       "raw_hot": 46384,
-      "num": 654482,
+      "num": 1069618,
       "word": "马来西亚榴莲如何来到中国餐桌",
       "onboard_time": 1744896923,
       "rank": 2,
