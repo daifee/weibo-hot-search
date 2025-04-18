@@ -1,6 +1,6 @@
 {
   "startTime": 1744907462255,
-  "endTime": 1744983055586,
+  "endTime": 1744983737327,
   "band_list": [
     {
       "raw_hot": 2716065,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2272825,
-      "num": 745715,
+      "num": 1145113,
       "word": "日本",
       "onboard_time": 1744979242,
       "rank": 12,
@@ -57,6 +57,14 @@
       "onboard_time": 1744948703,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1512838,
+      "num": 1512838,
+      "word": "王曼昱无缘女单四强",
+      "onboard_time": 1744981524,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 1418614,
@@ -105,14 +113,6 @@
       "onboard_time": 1744903342,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1070659,
-      "num": 1070659,
-      "word": "王曼昱无缘女单四强",
-      "onboard_time": 1744981524,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 1062026,
@@ -371,6 +371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 581291,
+      "num": 581291,
+      "word": "被室友电瓶烧伤男生283天后再次发声",
+      "onboard_time": 1744981405,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 578322,
       "num": 578322,
       "word": "王楚钦4比3杜达",
@@ -401,6 +409,14 @@
       "onboard_time": 1744920674,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 536861,
+      "num": 536861,
+      "word": "刘宇宁说折腰没有吻戏",
+      "onboard_time": 1744980382,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 527290,
@@ -441,14 +457,6 @@
       "onboard_time": 1744974022,
       "rank": 10,
       "category": "综艺,演出"
-    },
-    {
-      "raw_hot": 501527,
-      "num": 501527,
-      "word": "刘宇宁说折腰没有吻戏",
-      "onboard_time": 1744980382,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 494555,
@@ -513,6 +521,14 @@
       "onboard_time": 1744973783,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 451102,
+      "num": 429996,
+      "word": "王俊凯直播",
+      "onboard_time": 1744983625,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 448935,
@@ -851,6 +867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 289165,
+      "num": 289165,
+      "word": "王者荣耀 哪吒",
+      "onboard_time": 1744983625,
+      "rank": 25,
+      "category": "游戏,电影"
+    },
+    {
       "raw_hot": 284811,
       "num": 377306,
       "word": "北影节红毯",
@@ -971,6 +995,22 @@
       "category": "幽默,民生新闻"
     },
     {
+      "raw_hot": 252386,
+      "num": 252386,
+      "word": "特朗普表示对中美达成协议有信心",
+      "onboard_time": 1744983683,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 250625,
+      "num": 417014,
+      "word": "无忧渡热度",
+      "onboard_time": 1744979542,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 250274,
       "num": 250274,
       "word": "恋与深空",
@@ -1012,7 +1052,7 @@
     },
     {
       "raw_hot": 241670,
-      "num": 241670,
+      "num": 252711,
       "word": "徐明浩直播还是这么松弛",
       "onboard_time": 1744980682,
       "rank": 16,
@@ -1073,14 +1113,6 @@
       "onboard_time": 1744941142,
       "rank": 8,
       "category": "电影"
-    },
-    {
-      "raw_hot": 230081,
-      "num": 239590,
-      "word": "无忧渡热度",
-      "onboard_time": 1744979542,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 229753,
@@ -1220,7 +1252,7 @@
     },
     {
       "raw_hot": 204356,
-      "num": 204356,
+      "num": 252397,
       "word": "张婧仪公主头",
       "onboard_time": 1744979422,
       "rank": 33,
@@ -1379,6 +1411,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 190823,
+      "num": 190823,
+      "word": "JDG对战iG",
+      "onboard_time": 1744983625,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 190565,
+      "num": 190565,
+      "word": "蒯曼晋级澳门世界杯四强",
+      "onboard_time": 1744983503,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189410,
       "num": 243854,
       "word": "李一桐这次演爽了",
@@ -1436,7 +1484,7 @@
     },
     {
       "raw_hot": 180402,
-      "num": 255540,
+      "num": 409722,
       "word": "高速突然爆胎如何应对",
       "onboard_time": 1744979902,
       "rank": 17,
@@ -1651,6 +1699,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 159887,
+      "num": 159887,
+      "word": "智己L6",
+      "onboard_time": 1744983503,
+      "rank": 36,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 159614,
       "num": 159614,
       "word": "杭州一地铁出入口被指像棺材",
@@ -1697,14 +1753,6 @@
       "onboard_time": 1744971980,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 155456,
-      "num": 270516,
-      "word": "被室友电瓶烧伤男生283天后再次发声",
-      "onboard_time": 1744981405,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 154867,
@@ -2059,6 +2107,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 139827,
+      "num": 396060,
+      "word": "陈建斌蒋勤勤独一无二手势杀",
+      "onboard_time": 1744982124,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 139087,
       "num": 139087,
       "word": "逆水寒",
@@ -2113,14 +2169,6 @@
       "onboard_time": 1744978102,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 136748,
-      "num": 228053,
-      "word": "陈建斌蒋勤勤独一无二手势杀",
-      "onboard_time": 1744982124,
-      "rank": 21,
-      "category": "电影"
     },
     {
       "raw_hot": 135799,
@@ -2291,6 +2339,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 121747,
+      "num": 369947,
+      "word": "王曼昱球品如人品",
+      "onboard_time": 1744983322,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121520,
       "num": 121520,
       "word": "敖瑞鹏hi6录制逆应援",
@@ -2363,6 +2419,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 117607,
+      "num": 117607,
+      "word": "wego痛包",
+      "onboard_time": 1744983683,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 115469,
       "num": 115469,
       "word": "全美没有一家工厂能生产娃娃头发",
@@ -2403,6 +2467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112901,
+      "num": 112901,
+      "word": "连悬疑剧也不放过打工人了",
+      "onboard_time": 1744983082,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 112862,
       "num": 150010,
       "word": "对手教练也在夸王楚钦",
@@ -2435,6 +2507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 107864,
+      "num": 107864,
+      "word": "选好光线对颜值影响有多大",
+      "onboard_time": 1744983143,
+      "rank": 48,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 107850,
       "num": 107850,
       "word": "贺峻霖主持",
@@ -2457,6 +2537,22 @@
       "onboard_time": 1744970540,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107635,
+      "num": 107635,
+      "word": "Wolves对战RC",
+      "onboard_time": 1744983683,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 107431,
+      "num": 367823,
+      "word": "林诗栋在训练馆收到鲜花和蛋糕",
+      "onboard_time": 1744983322,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 105770,
@@ -3035,6 +3131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51905,
+      "num": 354171,
+      "word": "WTT祝林诗栋生日快乐",
+      "onboard_time": 1744982602,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 50571,
       "num": 110419,
       "word": "卤鹅哥再现与甲亢哥送鹅现场",
@@ -3081,14 +3185,6 @@
       "onboard_time": 1744929797,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 47571,
-      "num": 213141,
-      "word": "WTT祝林诗栋生日快乐",
-      "onboard_time": 1744982602,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 47310,
@@ -3243,6 +3339,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 37730,
+      "num": 1162124,
+      "word": "美国加关税是搬石头砸自己脚",
+      "onboard_time": 1744982901,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 37002,
       "num": 149058,
       "word": "中考体育800米跑步技巧",
@@ -3289,6 +3393,14 @@
       "onboard_time": 1744910356,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 33741,
+      "num": 382254,
+      "word": "马来西亚航空或购买中国商用飞机",
+      "onboard_time": 1744983322,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 33689,
@@ -3572,7 +3684,7 @@
     },
     {
       "raw_hot": 12836,
-      "num": 133641,
+      "num": 444339,
       "word": "柬多位官员谈公平贸易重要性",
       "onboard_time": 1744977202,
       "rank": 36,
@@ -3659,14 +3771,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 8989,
-      "num": 766895,
-      "word": "美国加关税是搬石头砸自己脚",
-      "onboard_time": 1744982901,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 8669,
       "num": 124201,
       "word": "跳远满分的技巧",
@@ -3704,6 +3808,9 @@
     },
     {
       "word": "#中马关系新的黄金50年#"
+    },
+    {
+      "word": "#习近平结束国事访问回到北京#"
     }
   ]
 }

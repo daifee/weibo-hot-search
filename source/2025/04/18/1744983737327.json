@@ -1,0 +1,410 @@
+{
+  "runTime": 1744983737327,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1512838,
+        "num": 1512838,
+        "word": "王曼昱无缘女单四强",
+        "onboard_time": 1744981524,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1310880,
+        "num": 1310880,
+        "word": "中国被曝已不再生产出口美国的玩具",
+        "onboard_time": 1744958962,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 37730,
+        "num": 1162124,
+        "word": "美国加关税是搬石头砸自己脚",
+        "onboard_time": 1744982901,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2256350,
+        "num": 1145113,
+        "word": "日本",
+        "onboard_time": 1744979242,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1079255,
+        "num": 1079255,
+        "word": "日本多地发生无差别杀人事件",
+        "onboard_time": 1744945102,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 581291,
+        "num": 581291,
+        "word": "被室友电瓶烧伤男生283天后再次发声",
+        "onboard_time": 1744981405,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 536861,
+        "num": 536861,
+        "word": "刘宇宁说折腰没有吻戏",
+        "onboard_time": 1744980382,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 483195,
+        "num": 483195,
+        "word": "蒯曼4比2王曼昱",
+        "onboard_time": 1744981524,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 446645,
+        "num": 446645,
+        "word": "王鹤棣 别整那些播不了的",
+        "onboard_time": 1744978041,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12397,
+        "num": 444339,
+        "word": "柬多位官员谈公平贸易重要性",
+        "onboard_time": 1744977202,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 727181,
+        "num": 437118,
+        "word": "孙珍妮回应脸肿",
+        "onboard_time": 1744978041,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 546113,
+        "num": 434531,
+        "word": "王曼昱vs蒯曼",
+        "onboard_time": 1744978041,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 451102,
+        "num": 429996,
+        "word": "王俊凯直播",
+        "onboard_time": 1744983625,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334757,
+        "num": 422526,
+        "word": "折腰名字改回来了",
+        "onboard_time": 1744974862,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250625,
+        "num": 417014,
+        "word": "无忧渡热度",
+        "onboard_time": 1744979542,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 414541,
+        "num": 414541,
+        "word": "陈德容 我没有跳个大概",
+        "onboard_time": 1744975101,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100401,
+        "num": 409722,
+        "word": "高速突然爆胎如何应对",
+        "onboard_time": 1744979902,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 139827,
+        "num": 396060,
+        "word": "陈建斌蒋勤勤独一无二手势杀",
+        "onboard_time": 1744982124,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 33741,
+        "num": 382254,
+        "word": "马来西亚航空或购买中国商用飞机",
+        "onboard_time": 1744983322,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 121747,
+        "num": 369947,
+        "word": "王曼昱球品如人品",
+        "onboard_time": 1744983322,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107431,
+        "num": 367823,
+        "word": "林诗栋在训练馆收到鲜花和蛋糕",
+        "onboard_time": 1744983322,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 356427,
+        "num": 356427,
+        "word": "北大42岁副教授陈昊去世",
+        "onboard_time": 1744978523,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 938474,
+        "num": 355158,
+        "word": "猫一杯案开庭",
+        "onboard_time": 1744967900,
+        "rank": 22,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 51905,
+        "num": 354171,
+        "word": "WTT祝林诗栋生日快乐",
+        "onboard_time": 1744982602,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 353784,
+        "num": 353784,
+        "word": "为什么王楚钦打德国选手很艰难",
+        "onboard_time": 1744973783,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 289165,
+        "num": 289165,
+        "word": "王者荣耀 哪吒",
+        "onboard_time": 1744983625,
+        "rank": 25,
+        "category": "游戏,电影"
+      },
+      {
+        "raw_hot": 256611,
+        "num": 256611,
+        "word": "结节真的是被气出来的吗",
+        "onboard_time": 1744979722,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 175578,
+        "num": 252711,
+        "word": "徐明浩直播还是这么松弛",
+        "onboard_time": 1744980682,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210331,
+        "num": 252513,
+        "word": "张杰演唱会",
+        "onboard_time": 1744975281,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 202070,
+        "num": 252397,
+        "word": "张婧仪公主头",
+        "onboard_time": 1744979422,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 252386,
+        "num": 252386,
+        "word": "特朗普表示对中美达成协议有信心",
+        "onboard_time": 1744983683,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 207036,
+        "num": 207036,
+        "word": "女子没输密码验证码却被转走12万",
+        "onboard_time": 1744975881,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190823,
+        "num": 190823,
+        "word": "JDG对战iG",
+        "onboard_time": 1744983625,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 190565,
+        "num": 190565,
+        "word": "蒯曼晋级澳门世界杯四强",
+        "onboard_time": 1744983503,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134229,
+        "num": 179184,
+        "word": "朱一龙吴磊檀健次贺峻霖怼脸生图",
+        "onboard_time": 1744979661,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 178356,
+        "num": 178356,
+        "word": "整治利用未成年人形象不当牟利",
+        "onboard_time": 1744981464,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159887,
+        "num": 159887,
+        "word": "智己L6",
+        "onboard_time": 1744983503,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 149567,
+        "num": 149567,
+        "word": "网瘾少年专升本考研上岸中南大学",
+        "onboard_time": 1744976362,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140583,
+        "num": 140583,
+        "word": "德国人买了中国制造后开始疯狂安利",
+        "onboard_time": 1744970540,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 129202,
+        "num": 129202,
+        "word": "孙俪新剧收视第一",
+        "onboard_time": 1744978582,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121732,
+        "num": 121732,
+        "word": "林诗栋20比18莫雷加德",
+        "onboard_time": 1744978102,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121548,
+        "num": 121548,
+        "word": "朱珠写长文回应钟汉良粉丝",
+        "onboard_time": 1744974802,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118082,
+        "num": 118082,
+        "word": "心软一次被行业禁入两年",
+        "onboard_time": 1744978402,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117608,
+        "num": 117608,
+        "word": "双轨我承认之前对你声音大了点",
+        "onboard_time": 1744979902,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117607,
+        "num": 117607,
+        "word": "wego痛包",
+        "onboard_time": 1744983683,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 117357,
+        "num": 117357,
+        "word": "李晟敏与SM不续约",
+        "onboard_time": 1744980202,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116623,
+        "num": 116623,
+        "word": "高速上一轮胎滚进服务区撞人致死",
+        "onboard_time": 1744966220,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112901,
+        "num": 112901,
+        "word": "连悬疑剧也不放过打工人了",
+        "onboard_time": 1744983082,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107864,
+        "num": 107864,
+        "word": "选好光线对颜值影响有多大",
+        "onboard_time": 1744983143,
+        "rank": 48,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 107635,
+        "num": 107635,
+        "word": "Wolves对战RC",
+        "onboard_time": 1744983683,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平结束国事访问回到北京#"
+    }
+  }
+}
