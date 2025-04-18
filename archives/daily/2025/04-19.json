@@ -1,6 +1,6 @@
 {
   "startTime": 1744993775892,
-  "endTime": 1745005005020,
+  "endTime": 1745007958064,
   "band_list": [
     {
       "raw_hot": 2817932,
@@ -587,6 +587,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 16786,
+      "num": 16786,
+      "word": "在马来西亚这群建设者哭过更笑过",
+      "onboard_time": 1745005154,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 16177,
+      "num": 32808,
+      "word": "第一次见一部电影有18个喜剧人",
+      "onboard_time": 1745004794,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 16166,
       "num": 24586,
       "word": "入职民办高校北大博主发声",
@@ -611,7 +627,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 11452,
+      "raw_hot": 15556,
       "num": 45859,
       "word": "鲁比奥说俄乌和谈没进展美国就不管了",
       "onboard_time": 1745004374,
@@ -619,12 +635,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 11017,
-      "num": 32808,
-      "word": "第一次见一部电影有18个喜剧人",
-      "onboard_time": 1745004794,
-      "rank": 24,
-      "category": "电影"
+      "raw_hot": 12928,
+      "num": 33644,
+      "word": "00后女辅警40米深井救出幼童",
+      "onboard_time": 1745006775,
+      "rank": 9,
+      "category": "正能量"
     }
   ],
   "hotgov_list": [

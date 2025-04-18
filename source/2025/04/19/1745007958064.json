@@ -1,0 +1,410 @@
+{
+  "runTime": 1745007958064,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 123733,
+        "num": 123733,
+        "word": "特朗普暗示不想继续提高对华关税",
+        "onboard_time": 1744993282,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 85283,
+        "num": 85283,
+        "word": "中国被曝已不再生产出口美国的玩具",
+        "onboard_time": 1744958962,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 18193,
+        "num": 80736,
+        "word": "美国加关税是搬石头砸自己脚",
+        "onboard_time": 1744982901,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 141290,
+        "num": 80440,
+        "word": "日本",
+        "onboard_time": 1744979242,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 79135,
+        "num": 79135,
+        "word": "美国公布罗伯特肯尼迪遇刺案记录",
+        "onboard_time": 1744991301,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 50934,
+        "num": 50934,
+        "word": "张杰演唱会唱了就是哪吒",
+        "onboard_time": 1744995618,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 48386,
+        "num": 48386,
+        "word": "日本多地发生无差别杀人事件",
+        "onboard_time": 1744945102,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 46500,
+        "num": 46500,
+        "word": "张雨绮北影节生图真的太生了",
+        "onboard_time": 1744992323,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 34106,
+        "num": 34106,
+        "word": "王曼昱球品如人品",
+        "onboard_time": 1744983322,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12928,
+        "num": 33644,
+        "word": "00后女辅警40米深井救出幼童",
+        "onboard_time": 1745006775,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 103072,
+        "num": 33317,
+        "word": "深圳一程序员4年不租房睡车里",
+        "onboard_time": 1744995438,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47428,
+        "num": 32854,
+        "word": "特朗普称1个月内会与中国达成协议",
+        "onboard_time": 1744985725,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 46296,
+        "num": 32182,
+        "word": "任敏好辣",
+        "onboard_time": 1744987824,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31705,
+        "num": 31705,
+        "word": "周深拉斯维加斯站创最高票房纪录",
+        "onboard_time": 1744986503,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 30697,
+        "num": 30697,
+        "word": "Rookie一滴血抢龙",
+        "onboard_time": 1744991842,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 30364,
+        "num": 30364,
+        "word": "秦彻",
+        "onboard_time": 1744989262,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 29879,
+        "num": 29879,
+        "word": "王曼昱无缘女单四强",
+        "onboard_time": 1744981524,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25271,
+        "num": 29771,
+        "word": "檀健次深情献唱哪吒2片尾曲",
+        "onboard_time": 1744985003,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 21757,
+        "num": 29600,
+        "word": "新版北京欢迎你",
+        "onboard_time": 1744985843,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 21028,
+        "num": 29468,
+        "word": "BOYNEXTDOOR回归新歌",
+        "onboard_time": 1744992381,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 67783,
+        "num": 29274,
+        "word": "猫一杯案开庭",
+        "onboard_time": 1744967900,
+        "rank": 20,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 29890,
+        "num": 29046,
+        "word": "女子每天吃十几个橙子确诊糖尿病",
+        "onboard_time": 1744986503,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29044,
+        "num": 29044,
+        "word": "关税大棒下世界超市义乌的现状",
+        "onboard_time": 1744985063,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22555,
+        "num": 22555,
+        "word": "iG战胜JDG",
+        "onboard_time": 1744989624,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 22266,
+        "num": 22266,
+        "word": "北大博士回应入职民办高校被指浪费",
+        "onboard_time": 1744985362,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20977,
+        "num": 20977,
+        "word": "iG绝地翻盘",
+        "onboard_time": 1744990703,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 20078,
+        "num": 20078,
+        "word": "刘宇宁说折腰没有吻戏",
+        "onboard_time": 1744980382,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20044,
+        "num": 20044,
+        "word": "黄文秀生前最后一张照片",
+        "onboard_time": 1745002875,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18819,
+        "num": 18819,
+        "word": "susu福福",
+        "onboard_time": 1745001315,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18794,
+        "num": 18794,
+        "word": "一招拿下射手座",
+        "onboard_time": 1744991962,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 18330,
+        "num": 18330,
+        "word": "希音Temu告知美国消费者25日起涨价",
+        "onboard_time": 1745001675,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 17902,
+        "num": 17902,
+        "word": "孙恩盛直播",
+        "onboard_time": 1744998737,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 17479,
+        "num": 17479,
+        "word": "孙俪救视主",
+        "onboard_time": 1744999336,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16868,
+        "num": 16868,
+        "word": "张继科说要给王曼昱空间",
+        "onboard_time": 1744988484,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16852,
+        "num": 16852,
+        "word": "五一前机票低至2折",
+        "onboard_time": 1744990402,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16786,
+        "num": 16786,
+        "word": "在马来西亚这群建设者哭过更笑过",
+        "onboard_time": 1745005154,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 16658,
+        "num": 16658,
+        "word": "孙珍妮回应脸肿",
+        "onboard_time": 1744978041,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17364,
+        "num": 16618,
+        "word": "孙俪妈妈羡慕孙俪和马龙合影",
+        "onboard_time": 1744986565,
+        "rank": 37,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 16578,
+        "num": 16578,
+        "word": "wego痛包",
+        "onboard_time": 1744983683,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 16340,
+        "num": 16340,
+        "word": "张杰演唱会麦给谢娜VaVa吴宣仪",
+        "onboard_time": 1744990703,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 16177,
+        "num": 16177,
+        "word": "第一次见一部电影有18个喜剧人",
+        "onboard_time": 1745004794,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 15741,
+        "num": 15741,
+        "word": "陈德容 我没有跳个大概",
+        "onboard_time": 1744975101,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15738,
+        "num": 15738,
+        "word": "重庆冰雹",
+        "onboard_time": 1744989503,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15556,
+        "num": 15556,
+        "word": "鲁比奥说俄乌和谈没进展美国就不管了",
+        "onboard_time": 1745004374,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15246,
+        "num": 15246,
+        "word": "入职民办高校北大博主发声",
+        "onboard_time": 1745003776,
+        "rank": 44,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 15131,
+        "num": 15131,
+        "word": "意大利发生缆车轿厢坠落事故",
+        "onboard_time": 1745000535,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 15588,
+        "num": 15131,
+        "word": "陈德容对吴宣仪的爱是手放开",
+        "onboard_time": 1744997597,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14120,
+        "num": 15130,
+        "word": "丁禹兮音乐节粉丝应援",
+        "onboard_time": 1744996699,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 13753,
+        "num": 15129,
+        "word": "iG赛后采访",
+        "onboard_time": 1744993102,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 13431,
+        "num": 15129,
+        "word": "章昊韩维辰舞台",
+        "onboard_time": 1744990641,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#构建新时代全天候中柬命运共同体#"
+    }
+  }
+}
