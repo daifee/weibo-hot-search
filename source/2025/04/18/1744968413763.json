@@ -1,0 +1,410 @@
+{
+  "runTime": 1744968413763,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1636864,
+        "num": 1636864,
+        "word": "中国被曝已不再生产出口美国的玩具",
+        "onboard_time": 1744958962,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1256374,
+        "num": 1256374,
+        "word": "折腰下证",
+        "onboard_time": 1744963939,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128185,
+        "num": 1246820,
+        "word": "滥施关税挡不住中国制造",
+        "onboard_time": 1744966101,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1245484,
+        "num": 1245484,
+        "word": "日本多地发生无差别杀人事件",
+        "onboard_time": 1744945102,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 823566,
+        "num": 823566,
+        "word": "能吃苦的老一辈果然投胎回来了",
+        "onboard_time": 1744963700,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 624888,
+        "num": 624888,
+        "word": "手机电池不喜欢100%满电",
+        "onboard_time": 1744959021,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 103451,
+        "num": 531933,
+        "word": "全球各国正在中国进行一站式采购",
+        "onboard_time": 1744966341,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 368305,
+        "num": 519666,
+        "word": "佛山电翰不打螺丝后的75天",
+        "onboard_time": 1744962801,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 518526,
+        "num": 518526,
+        "word": "外交部回应泽连斯基宣称中国向俄军援",
+        "onboard_time": 1744964901,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 36524,
+        "num": 500938,
+        "word": "中国制造的工程机械连样机都被抢空了",
+        "onboard_time": 1744950503,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 483524,
+        "num": 483524,
+        "word": "猫一杯案开庭",
+        "onboard_time": 1744967900,
+        "rank": 10,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 460194,
+        "num": 460194,
+        "word": "这种手机充电方式很危险",
+        "onboard_time": 1744943240,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21204,
+        "num": 439711,
+        "word": "夕阳下神二十船箭组合体绝美视角",
+        "onboard_time": 1744967961,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 435613,
+        "num": 435613,
+        "word": "高速上一轮胎滚进服务区撞人致死",
+        "onboard_time": 1744966220,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124302,
+        "num": 435536,
+        "word": "199元的写真套餐最终花了5238元",
+        "onboard_time": 1744963581,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 439172,
+        "num": 431960,
+        "word": "警方通报江西杀害夫妻2人嫌犯被抓",
+        "onboard_time": 1744936460,
+        "rank": 15,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 240337,
+        "num": 429337,
+        "word": "蒋梦婕我知道我没有名字",
+        "onboard_time": 1744967181,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133418,
+        "num": 427559,
+        "word": "赵今麦和她的蓝朋友",
+        "onboard_time": 1744965680,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 426211,
+        "num": 426211,
+        "word": "孙恩盛直播时突然缺氧和躯体化",
+        "onboard_time": 1744955002,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29305,
+        "num": 395880,
+        "word": "胃不好不能喝咖啡吗",
+        "onboard_time": 1744967480,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 690185,
+        "num": 393844,
+        "word": "侯佩岑组听到陈德容加入的表情",
+        "onboard_time": 1744957761,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64977,
+        "num": 391268,
+        "word": "郑秀晶王紫璇为郑秀妍庆生",
+        "onboard_time": 1744967900,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389632,
+        "num": 389632,
+        "word": "中国将在没美国的情况下再活五千年",
+        "onboard_time": 1744963700,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 272954,
+        "num": 388308,
+        "word": "戚薇因一个数字发现李承铉反常",
+        "onboard_time": 1744965980,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125200,
+        "num": 385428,
+        "word": "AG跨次元自拍",
+        "onboard_time": 1744967420,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 253396,
+        "num": 382861,
+        "word": "贾玲 王牌对王牌",
+        "onboard_time": 1744947622,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70901,
+        "num": 381085,
+        "word": "大众德国老板直播秀ID3硬刚追尾",
+        "onboard_time": 1744966040,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242397,
+        "num": 377306,
+        "word": "北影节红毯",
+        "onboard_time": 1744961300,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 29855,
+        "num": 373662,
+        "word": "王楚钦谈决胜局对手先拿到赛点",
+        "onboard_time": 1744968201,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35028,
+        "num": 372527,
+        "word": "世界羽联总决赛改期",
+        "onboard_time": 1744967721,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 370831,
+        "num": 370831,
+        "word": "金晨变美了",
+        "onboard_time": 1744963640,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 383311,
+        "num": 363706,
+        "word": "叶童拒绝陈德容",
+        "onboard_time": 1744958482,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 350454,
+        "num": 350454,
+        "word": "女子左眼左耳残疾无法办理残疾人证",
+        "onboard_time": 1744961420,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315715,
+        "num": 315715,
+        "word": "昀牵孟绕",
+        "onboard_time": 1744965139,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 307141,
+        "num": 307141,
+        "word": "警方通报湖南机场董事长涉嫌性侵",
+        "onboard_time": 1744964901,
+        "rank": 34,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 285597,
+        "num": 285597,
+        "word": "王楚钦说你要能抽死我就给你了",
+        "onboard_time": 1744960341,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236252,
+        "num": 236252,
+        "word": "鬼鬼公开冻卵的整个过程",
+        "onboard_time": 1744957882,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214705,
+        "num": 214705,
+        "word": "百万人排队抢古茗",
+        "onboard_time": 1744966880,
+        "rank": 37,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 83327,
+        "num": 210237,
+        "word": "丁程鑫直播剧透新歌造型",
+        "onboard_time": 1744968381,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 11805,
+        "num": 209678,
+        "word": "如何筛选导师",
+        "onboard_time": 1744967420,
+        "rank": 39,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 209127,
+        "num": 209127,
+        "word": "倪妮五层玉髓项链",
+        "onboard_time": 1744966220,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 205506,
+        "num": 205506,
+        "word": "中方在乌克兰问题上一直劝和促谈",
+        "onboard_time": 1744967059,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 167316,
+        "num": 167316,
+        "word": "过度加工食品对肥胖的危害性",
+        "onboard_time": 1744966880,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 163902,
+        "num": 163902,
+        "word": "以为巨长胖实际能减肥的食物",
+        "onboard_time": 1744955902,
+        "rank": 43,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 161796,
+        "num": 161796,
+        "word": "湖南机场集团董事长涉嫌性侵",
+        "onboard_time": 1744948585,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151204,
+        "num": 151204,
+        "word": "古茗崩了",
+        "onboard_time": 1744954042,
+        "rank": 45,
+        "category": "美食,游戏"
+      },
+      {
+        "raw_hot": 145272,
+        "num": 145272,
+        "word": "吴宣仪教倪虹洁跳我又初恋了",
+        "onboard_time": 1744967480,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143808,
+        "num": 143808,
+        "word": "古茗店员最崩溃的一天",
+        "onboard_time": 1744968019,
+        "rank": 47,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 142363,
+        "num": 142363,
+        "word": "坏了这是真上过大学",
+        "onboard_time": 1744968201,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 25575,
+        "num": 129335,
+        "word": "马丽人生一波三折好便宜",
+        "onboard_time": 1744966040,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平圆满结束对柬埔寨国事访问#"
+    }
+  }
+}
