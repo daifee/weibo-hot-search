@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1745018555033,
+  "endTime": 1745019468594,
   "band_list": [
     {
       "raw_hot": 10606514,
@@ -1537,6 +1537,14 @@
       "onboard_time": 1744987824,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 904927,
+      "num": 156344,
+      "word": "女子被轮胎撞死时正和丈夫停车休整",
+      "onboard_time": 1745018058,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 901179,
@@ -3219,14 +3227,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 527250,
-      "num": 156344,
-      "word": "女子被轮胎撞死时正和丈夫停车休整",
-      "onboard_time": 1745018058,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 526949,
       "num": 526949,
       "word": "李晟四公第一",
@@ -4683,6 +4683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 364906,
+      "num": 364906,
+      "word": "关税大棒下世界超市义乌的现状",
+      "onboard_time": 1744985063,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 363631,
       "num": 363631,
       "word": "加拿大民众用不买美国货表达不满",
@@ -4721,6 +4729,14 @@
       "onboard_time": 1744806562,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 361246,
+      "num": 129899,
+      "word": "宝妈5个月没睡过整觉查出胃癌晚期",
+      "onboard_time": 1745019380,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 360913,
@@ -5619,14 +5635,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 286057,
-      "num": 349536,
-      "word": "关税大棒下世界超市义乌的现状",
-      "onboard_time": 1744985063,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 286047,
       "num": 286047,
       "word": "陈德容房琪进五公",
@@ -5817,6 +5825,14 @@
       "onboard_time": 1744986263,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 276066,
+      "num": 110528,
+      "word": "原来这就是两口子久处不腻的方法",
+      "onboard_time": 1745018058,
+      "rank": 30,
+      "category": "正能量"
     },
     {
       "raw_hot": 276019,
@@ -10395,6 +10411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177629,
+      "num": 177629,
+      "word": "00后女辅警40米深井救出幼童",
+      "onboard_time": 1745006775,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 177558,
       "num": 177558,
       "word": "行星文化 荧光棒",
@@ -10809,14 +10833,6 @@
       "onboard_time": 1744486816,
       "rank": 23,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 172467,
-      "num": 76260,
-      "word": "原来这就是两口子久处不腻的方法",
-      "onboard_time": 1745018058,
-      "rank": 30,
-      "category": "正能量"
     },
     {
       "raw_hot": 172363,
@@ -11585,14 +11601,6 @@
       "onboard_time": 1744605146,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 162789,
-      "num": 162789,
-      "word": "00后女辅警40米深井救出幼童",
-      "onboard_time": 1745006775,
-      "rank": 9,
-      "category": "正能量"
     },
     {
       "raw_hot": 162661,
@@ -14299,6 +14307,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 135336,
+      "num": 135336,
+      "word": "特朗普再度施压美联储",
+      "onboard_time": 1745016617,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 135281,
       "num": 184626,
       "word": "孟佳连唱四首missA经典歌",
@@ -15379,6 +15395,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 125091,
+      "num": 125091,
+      "word": "电影射雕英雄传侠之大者",
+      "onboard_time": 1745019380,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 125064,
       "num": 125064,
       "word": "郭艾伦首次回应眼睛受伤",
@@ -15409,14 +15433,6 @@
       "onboard_time": 1744781062,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 124869,
-      "num": 124869,
-      "word": "特朗普再度施压美联储",
-      "onboard_time": 1745016617,
-      "rank": 15,
-      "category": "国际时政"
     },
     {
       "raw_hot": 124723,
@@ -16392,6 +16408,14 @@
       "word": "悬疑剧窝囊赛道的神来了",
       "onboard_time": 1744713803,
       "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 114666,
+      "num": 123433,
+      "word": "胡杏儿演蛮好的人生演爽了",
+      "onboard_time": 1745013796,
+      "rank": 39,
       "category": "剧集"
     },
     {
@@ -17603,6 +17627,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 98968,
+      "num": 98968,
+      "word": "特朗普妄想威胁他国别买中国货",
+      "onboard_time": 1745019380,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 98789,
       "num": 316961,
       "word": "王牌对王牌9将回归",
@@ -17617,14 +17649,6 @@
       "onboard_time": 1744901362,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 98740,
-      "num": 123433,
-      "word": "胡杏儿演蛮好的人生演爽了",
-      "onboard_time": 1745013796,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 98731,
@@ -18073,6 +18097,22 @@
       "onboard_time": 1744692382,
       "rank": 26,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 89672,
+      "num": 89672,
+      "word": "阚清子说前几年拍戏女主得男主定",
+      "onboard_time": 1745019380,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 89655,
+      "num": 89655,
+      "word": "奥运百米冠军参加家长运动会",
+      "onboard_time": 1745019380,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 89546,
@@ -18699,6 +18739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77860,
+      "num": 103182,
+      "word": "看赵丽颖得奖像看大女主剧",
+      "onboard_time": 1745018058,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 77585,
       "num": 229247,
       "word": "李斯丹妮模仿何洁摆妖娆pose",
@@ -18753,6 +18801,14 @@
       "onboard_time": 1744690163,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 76939,
+      "num": 101574,
+      "word": "刘亦菲能靠玫瑰的故事拿视后吗",
+      "onboard_time": 1745018058,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 76870,
@@ -18825,6 +18881,14 @@
       "onboard_time": 1744807762,
       "rank": 29,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 75826,
+      "num": 122252,
+      "word": "孙俪救视主",
+      "onboard_time": 1744999336,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 75407,
@@ -18987,6 +19051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 72784,
+      "num": 87245,
+      "word": "出现蜘蛛痣肝掌警惕肝病",
+      "onboard_time": 1745016497,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 72674,
       "num": 72674,
       "word": "无忧渡最大优点 质感扎实",
@@ -19041,6 +19113,14 @@
       "onboard_time": 1744867222,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 70915,
+      "num": 70915,
+      "word": "美国不卖显卡港科大反手拿专利",
+      "onboard_time": 1745019319,
+      "rank": 35,
+      "category": "民生新闻,数码"
     },
     {
       "raw_hot": 70901,
@@ -19307,6 +19387,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 65977,
+      "num": 65977,
+      "word": "业内评关晓彤王安宇表演出彩",
+      "onboard_time": 1745019439,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 65952,
       "num": 145752,
       "word": "林孝埈全力以赴2026",
@@ -19385,14 +19473,6 @@
       "onboard_time": 1744673421,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 64793,
-      "num": 122252,
-      "word": "孙俪救视主",
-      "onboard_time": 1744999336,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 64452,
@@ -19561,6 +19641,14 @@
       "onboard_time": 1744515261,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 61756,
+      "num": 61756,
+      "word": "白鹿曾舜晞临江仙下证",
+      "onboard_time": 1745019319,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 61740,
@@ -19803,14 +19891,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 56140,
-      "num": 77791,
-      "word": "看赵丽颖得奖像看大女主剧",
-      "onboard_time": 1745018058,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 56120,
       "num": 273270,
       "word": "美国一处导弹试验场发生强烈爆炸",
@@ -19857,14 +19937,6 @@
       "onboard_time": 1744732700,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 55256,
-      "num": 77396,
-      "word": "刘亦菲能靠玫瑰的故事拿视后吗",
-      "onboard_time": 1745018058,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 55217,
@@ -19936,6 +20008,14 @@
       "word": "江西最古老超1500年树龄银杏树倒塌",
       "onboard_time": 1744813524,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53874,
+      "num": 53874,
+      "word": "男孩吃辣条后嘴唇起泡结黑痂无法张嘴",
+      "onboard_time": 1745018058,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -20027,14 +20107,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 51957,
-      "num": 87245,
-      "word": "出现蜘蛛痣肝掌警惕肝病",
-      "onboard_time": 1745016497,
-      "rank": 24,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 51905,
       "num": 354171,
       "word": "WTT祝林诗栋生日快乐",
@@ -20051,6 +20123,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 51712,
+      "num": 55817,
+      "word": "黄文秀生前最后一张照片",
+      "onboard_time": 1745002875,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51609,
       "num": 171931,
       "word": "姆巴佩直红",
@@ -20064,6 +20144,14 @@
       "word": "认养一头牛曾被要求披露是否涉传销",
       "onboard_time": 1744870582,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51214,
+      "num": 108584,
+      "word": "向市长递简历学生称自己不是第一个",
+      "onboard_time": 1745018119,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -20339,14 +20427,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 48049,
-      "num": 55817,
-      "word": "黄文秀生前最后一张照片",
-      "onboard_time": 1745002875,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 47849,
       "num": 80767,
       "word": "太阳解雇布登霍尔泽",
@@ -20497,6 +20577,14 @@
       "onboard_time": 1744878442,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 45972,
+      "num": 41670,
+      "word": "檀健次龚俊白鹿演唱新版北京欢迎你",
+      "onboard_time": 1745018179,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 45874,
@@ -20659,6 +20747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 43932,
+      "num": 43932,
+      "word": "Uzi喊话Ale写检讨",
+      "onboard_time": 1745018058,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 43775,
       "num": 223212,
       "word": "王者哪吒携手点亮双子塔",
@@ -20785,14 +20881,6 @@
       "onboard_time": 1744964661,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 42244,
-      "num": 42244,
-      "word": "Uzi喊话Ale写检讨",
-      "onboard_time": 1745018058,
-      "rank": 36,
-      "category": "电竞"
     },
     {
       "raw_hot": 42240,
@@ -21459,14 +21547,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 33719,
-      "num": 33719,
-      "word": "檀健次龚俊白鹿演唱新版北京欢迎你",
-      "onboard_time": 1745018179,
-      "rank": 45,
-      "category": "电影"
-    },
-    {
       "raw_hot": 33689,
       "num": 398157,
       "word": "有旅行社拒绝律师记者等报团",
@@ -21489,14 +21569,6 @@
       "onboard_time": 1744953561,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 32584,
-      "num": 32584,
-      "word": "男孩吃辣条后嘴唇起泡结黑痂无法张嘴",
-      "onboard_time": 1745018058,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 32227,

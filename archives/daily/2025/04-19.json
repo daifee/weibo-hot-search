@@ -1,6 +1,6 @@
 {
   "startTime": 1744993775892,
-  "endTime": 1745018555033,
+  "endTime": 1745019468594,
   "band_list": [
     {
       "raw_hot": 2817932,
@@ -9,6 +9,14 @@
       "onboard_time": 1744979242,
       "rank": 3,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 904927,
+      "num": 156344,
+      "word": "女子被轮胎撞死时正和丈夫停车休整",
+      "onboard_time": 1745018058,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 864970,
@@ -51,14 +59,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 527250,
-      "num": 156344,
-      "word": "女子被轮胎撞死时正和丈夫停车休整",
-      "onboard_time": 1745018058,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 510450,
       "num": 510450,
       "word": "美国公布罗伯特肯尼迪遇刺案记录",
@@ -91,12 +91,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 364906,
+      "num": 364906,
+      "word": "关税大棒下世界超市义乌的现状",
+      "onboard_time": 1744985063,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 362453,
       "num": 362453,
       "word": "周深拉斯维加斯站创最高票房纪录",
       "onboard_time": 1744986503,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 361246,
+      "num": 129899,
+      "word": "宝妈5个月没睡过整觉查出胃癌晚期",
+      "onboard_time": 1745019380,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 356468,
@@ -147,12 +163,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 286057,
-      "num": 349536,
-      "word": "关税大棒下世界超市义乌的现状",
-      "onboard_time": 1744985063,
-      "rank": 42,
-      "category": "民生新闻"
+      "raw_hot": 276066,
+      "num": 110528,
+      "word": "原来这就是两口子久处不腻的方法",
+      "onboard_time": 1745018058,
+      "rank": 30,
+      "category": "正能量"
     },
     {
       "raw_hot": 250681,
@@ -243,28 +259,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 177629,
+      "num": 177629,
+      "word": "00后女辅警40米深井救出幼童",
+      "onboard_time": 1745006775,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 175102,
       "num": 175102,
       "word": "王鹤棣 别整那些播不了的",
       "onboard_time": 1744978041,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 172467,
-      "num": 76260,
-      "word": "原来这就是两口子久处不腻的方法",
-      "onboard_time": 1745018058,
-      "rank": 30,
-      "category": "正能量"
-    },
-    {
-      "raw_hot": 162789,
-      "num": 162789,
-      "word": "00后女辅警40米深井救出幼童",
-      "onboard_time": 1745006775,
-      "rank": 9,
-      "category": "正能量"
     },
     {
       "raw_hot": 162743,
@@ -307,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 135336,
+      "num": 135336,
+      "word": "特朗普再度施压美联储",
+      "onboard_time": 1745016617,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 134848,
       "num": 134848,
       "word": "金智秀齐刘海黑短裙",
@@ -323,12 +339,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 124869,
-      "num": 124869,
-      "word": "特朗普再度施压美联储",
-      "onboard_time": 1745016617,
-      "rank": 15,
-      "category": "国际时政"
+      "raw_hot": 125091,
+      "num": 125091,
+      "word": "电影射雕英雄传侠之大者",
+      "onboard_time": 1745019380,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 117887,
@@ -345,6 +361,14 @@
       "onboard_time": 1744984042,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 114666,
+      "num": 123433,
+      "word": "胡杏儿演蛮好的人生演爽了",
+      "onboard_time": 1745013796,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 114048,
@@ -369,6 +393,14 @@
       "onboard_time": 1744990343,
       "rank": 38,
       "category": "网红"
+    },
+    {
+      "raw_hot": 111242,
+      "num": 111242,
+      "word": "王者荣耀",
+      "onboard_time": 1745019319,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 111186,
@@ -411,12 +443,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 98740,
-      "num": 123433,
-      "word": "胡杏儿演蛮好的人生演爽了",
-      "onboard_time": 1745013796,
-      "rank": 39,
-      "category": "剧集"
+      "raw_hot": 98968,
+      "num": 98968,
+      "word": "特朗普妄想威胁他国别买中国货",
+      "onboard_time": 1745019380,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 91874,
@@ -451,6 +483,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 89672,
+      "num": 89672,
+      "word": "阚清子说前几年拍戏女主得男主定",
+      "onboard_time": 1745019380,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 89655,
+      "num": 89655,
+      "word": "奥运百米冠军参加家长运动会",
+      "onboard_time": 1745019380,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86568,
       "num": 86568,
       "word": "巴西打算替代美国成供应国",
@@ -475,6 +523,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 77860,
+      "num": 103182,
+      "word": "看赵丽颖得奖像看大女主剧",
+      "onboard_time": 1745018058,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 77394,
       "num": 77394,
       "word": "北京电影节红毯开始了",
@@ -483,12 +539,44 @@
       "category": "电影"
     },
     {
+      "raw_hot": 76939,
+      "num": 101574,
+      "word": "刘亦菲能靠玫瑰的故事拿视后吗",
+      "onboard_time": 1745018058,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 75826,
+      "num": 122252,
+      "word": "孙俪救视主",
+      "onboard_time": 1744999336,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 72784,
+      "num": 87245,
+      "word": "出现蜘蛛痣肝掌警惕肝病",
+      "onboard_time": 1745016497,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 71156,
       "num": 71156,
       "word": "陈丽君邀请你进入大观园",
       "onboard_time": 1744994479,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 70915,
+      "num": 70915,
+      "word": "美国不卖显卡港科大反手拿专利",
+      "onboard_time": 1745019319,
+      "rank": 35,
+      "category": "民生新闻,数码"
     },
     {
       "raw_hot": 69710,
@@ -507,12 +595,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 64793,
-      "num": 122252,
-      "word": "孙俪救视主",
-      "onboard_time": 1744999336,
-      "rank": 28,
-      "category": "剧集"
+      "raw_hot": 65977,
+      "num": 65977,
+      "word": "业内评关晓彤王安宇表演出彩",
+      "onboard_time": 1745019439,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 62978,
@@ -539,28 +627,36 @@
       "category": "演出"
     },
     {
-      "raw_hot": 56140,
-      "num": 77791,
-      "word": "看赵丽颖得奖像看大女主剧",
-      "onboard_time": 1745018058,
-      "rank": 27,
+      "raw_hot": 61756,
+      "num": 61756,
+      "word": "白鹿曾舜晞临江仙下证",
+      "onboard_time": 1745019319,
+      "rank": 40,
       "category": "剧集"
     },
     {
-      "raw_hot": 55256,
-      "num": 77396,
-      "word": "刘亦菲能靠玫瑰的故事拿视后吗",
+      "raw_hot": 53874,
+      "num": 53874,
+      "word": "男孩吃辣条后嘴唇起泡结黑痂无法张嘴",
       "onboard_time": 1745018058,
-      "rank": 28,
-      "category": "剧集"
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 51957,
-      "num": 87245,
-      "word": "出现蜘蛛痣肝掌警惕肝病",
-      "onboard_time": 1745016497,
-      "rank": 24,
-      "category": "健康医疗"
+      "raw_hot": 51712,
+      "num": 55817,
+      "word": "黄文秀生前最后一张照片",
+      "onboard_time": 1745002875,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51214,
+      "num": 108584,
+      "word": "向市长递简历学生称自己不是第一个",
+      "onboard_time": 1745018119,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50492,
@@ -579,14 +675,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 48049,
-      "num": 55817,
-      "word": "黄文秀生前最后一张照片",
-      "onboard_time": 1745002875,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 46767,
       "num": 46767,
       "word": "李健新歌摇滚起来了",
@@ -603,8 +691,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 42244,
-      "num": 42244,
+      "raw_hot": 45972,
+      "num": 41670,
+      "word": "檀健次龚俊白鹿演唱新版北京欢迎你",
+      "onboard_time": 1745018179,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 43932,
+      "num": 43932,
       "word": "Uzi喊话Ale写检讨",
       "onboard_time": 1745018058,
       "rank": 36,
@@ -617,22 +713,6 @@
       "onboard_time": 1745003776,
       "rank": 47,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 33719,
-      "num": 33719,
-      "word": "檀健次龚俊白鹿演唱新版北京欢迎你",
-      "onboard_time": 1745018179,
-      "rank": 45,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 32584,
-      "num": 32584,
-      "word": "男孩吃辣条后嘴唇起泡结黑痂无法张嘴",
-      "onboard_time": 1745018058,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 31987,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/19 07:22:35
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/19 07:37:48
 </p>
 </blockquote>
 <p>
@@ -3525,6 +3525,12 @@ SM新男团 撞名（热度：910464）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%AB%E8%BD%AE%E8%83%8E%E6%92%9E%E6%AD%BB%E6%97%B6%E6%AD%A3%E5%92%8C%E4%B8%88%E5%A4%AB%E5%81%9C%E8%BD%A6%E4%BC%91%E6%95%B4%23" target="weibo">
+女子被轮胎撞死时正和丈夫停车休整（热度：904927）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%80%E5%B0%8F%E5%88%80%E6%8B%96%E6%AC%A0%E8%A7%A3%E7%BA%A6%E8%B5%94%E5%81%BF%E9%87%91400%E5%A4%9A%E4%B8%87%23" target="weibo">
 刀小刀拖欠解约赔偿金400多万（热度：903650）
 </a>
@@ -6005,12 +6011,6 @@ Daniel公开（热度：626903）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E7%A7%B0%E7%BE%8E%E5%9B%BD%E7%9A%84%E7%97%9B%E8%8B%A6%E6%98%AF%E8%87%AA%E4%BD%9C%E8%87%AA%E5%8F%97%23" target="weibo">
 外媒称美国的痛苦是自作自受（热度：601658）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E6%9E%81%E5%B2%9B%23" target="weibo">
-东极岛（热度：601374）
 </a>
 </li>
 

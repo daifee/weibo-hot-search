@@ -1,0 +1,410 @@
+{
+  "runTime": 1745019468594,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 631728,
+        "num": 918593,
+        "word": "中国被曝已不再生产出口美国的玩具",
+        "onboard_time": 1744958962,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 364906,
+        "num": 364906,
+        "word": "关税大棒下世界超市义乌的现状",
+        "onboard_time": 1744985063,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75863,
+        "num": 247689,
+        "word": "美国加关税是搬石头砸自己脚",
+        "onboard_time": 1744982901,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 552490,
+        "num": 239406,
+        "word": "日本",
+        "onboard_time": 1744979242,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 226791,
+        "num": 226791,
+        "word": "美国公布罗伯特肯尼迪遇刺案记录",
+        "onboard_time": 1744991301,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 177629,
+        "num": 177629,
+        "word": "00后女辅警40米深井救出幼童",
+        "onboard_time": 1745006775,
+        "rank": 5,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 175911,
+        "num": 175911,
+        "word": "日本多地发生无差别杀人事件",
+        "onboard_time": 1744945102,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 165723,
+        "num": 165723,
+        "word": "张杰演唱会唱了就是哪吒",
+        "onboard_time": 1744995618,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 160098,
+        "num": 160098,
+        "word": "北大博士回应入职民办高校被指浪费",
+        "onboard_time": 1744985362,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135336,
+        "num": 135336,
+        "word": "特朗普再度施压美联储",
+        "onboard_time": 1745016617,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 904927,
+        "num": 134577,
+        "word": "女子被轮胎撞死时正和丈夫停车休整",
+        "onboard_time": 1745018058,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 398669,
+        "num": 131286,
+        "word": "深圳一程序员4年不租房睡车里",
+        "onboard_time": 1744995438,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 361246,
+        "num": 129899,
+        "word": "宝妈5个月没睡过整觉查出胃癌晚期",
+        "onboard_time": 1745019380,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184849,
+        "num": 126063,
+        "word": "特朗普称1个月内会与中国达成协议",
+        "onboard_time": 1744985725,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 125091,
+        "num": 125091,
+        "word": "电影射雕英雄传侠之大者",
+        "onboard_time": 1745019380,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 178029,
+        "num": 124297,
+        "word": "任敏好辣",
+        "onboard_time": 1744987824,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122071,
+        "num": 122071,
+        "word": "孙俪妈妈羡慕孙俪和马龙合影",
+        "onboard_time": 1744986565,
+        "rank": 16,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 114666,
+        "num": 114666,
+        "word": "胡杏儿演蛮好的人生演爽了",
+        "onboard_time": 1745013796,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111242,
+        "num": 111242,
+        "word": "王者荣耀",
+        "onboard_time": 1745019319,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 110840,
+        "num": 110840,
+        "word": "李晟是宋妍霏唯一的选择",
+        "onboard_time": 1745009834,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276066,
+        "num": 110528,
+        "word": "原来这就是两口子久处不腻的方法",
+        "onboard_time": 1745018058,
+        "rank": 20,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 128772,
+        "num": 109700,
+        "word": "猫一杯案开庭",
+        "onboard_time": 1744967900,
+        "rank": 21,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 51214,
+        "num": 108584,
+        "word": "向市长递简历学生称自己不是第一个",
+        "onboard_time": 1745018119,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107666,
+        "num": 107666,
+        "word": "王曼昱球品如人品",
+        "onboard_time": 1744983322,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123458,
+        "num": 107319,
+        "word": "女子每天吃十几个橙子确诊糖尿病",
+        "onboard_time": 1744986503,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75826,
+        "num": 104974,
+        "word": "孙俪救视主",
+        "onboard_time": 1744999336,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77860,
+        "num": 103182,
+        "word": "看赵丽颖得奖像看大女主剧",
+        "onboard_time": 1745018058,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76939,
+        "num": 101574,
+        "word": "刘亦菲能靠玫瑰的故事拿视后吗",
+        "onboard_time": 1745018058,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74658,
+        "num": 99810,
+        "word": "新版北京欢迎你",
+        "onboard_time": 1744985843,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 98968,
+        "num": 98968,
+        "word": "特朗普妄想威胁他国别买中国货",
+        "onboard_time": 1745019380,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 89672,
+        "num": 89672,
+        "word": "阚清子说前几年拍戏女主得男主定",
+        "onboard_time": 1745019380,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89655,
+        "num": 89655,
+        "word": "奥运百米冠军参加家长运动会",
+        "onboard_time": 1745019380,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82398,
+        "num": 82398,
+        "word": "王曼昱无缘女单四强",
+        "onboard_time": 1744981524,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76109,
+        "num": 76109,
+        "word": "张继科说要给王曼昱空间",
+        "onboard_time": 1744988484,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72784,
+        "num": 72784,
+        "word": "出现蜘蛛痣肝掌警惕肝病",
+        "onboard_time": 1745016497,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 70915,
+        "num": 70915,
+        "word": "美国不卖显卡港科大反手拿专利",
+        "onboard_time": 1745019319,
+        "rank": 35,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 70800,
+        "num": 70800,
+        "word": "特斯拉从中国向美运汽车零件受阻",
+        "onboard_time": 1745011154,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 64593,
+        "num": 68616,
+        "word": "刘宇宁说折腰没有吻戏",
+        "onboard_time": 1744980382,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68312,
+        "num": 68312,
+        "word": "这泼天的富贵轮到了巴西",
+        "onboard_time": 1745011334,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 65977,
+        "num": 65977,
+        "word": "业内评关晓彤王安宇表演出彩",
+        "onboard_time": 1745019439,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 61756,
+        "num": 61756,
+        "word": "白鹿曾舜晞临江仙下证",
+        "onboard_time": 1745019319,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53874,
+        "num": 53874,
+        "word": "男孩吃辣条后嘴唇起泡结黑痂无法张嘴",
+        "onboard_time": 1745018058,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51712,
+        "num": 51712,
+        "word": "黄文秀生前最后一张照片",
+        "onboard_time": 1745002875,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47958,
+        "num": 50029,
+        "word": "檀健次深情献唱哪吒2片尾曲",
+        "onboard_time": 1744985003,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 49499,
+        "num": 49499,
+        "word": "Rookie一滴血抢龙",
+        "onboard_time": 1744991842,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 43970,
+        "num": 43970,
+        "word": "陈德容 我没有跳个大概",
+        "onboard_time": 1744975101,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43932,
+        "num": 43932,
+        "word": "Uzi喊话Ale写检讨",
+        "onboard_time": 1745018058,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 41798,
+        "num": 41798,
+        "word": "孙珍妮回应脸肿",
+        "onboard_time": 1744978041,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45972,
+        "num": 41670,
+        "word": "檀健次龚俊白鹿演唱新版北京欢迎你",
+        "onboard_time": 1745018179,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 41457,
+        "num": 41457,
+        "word": "重庆冰雹",
+        "onboard_time": 1744989503,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#构建新时代全天候中柬命运共同体#"
+    }
+  }
+}
