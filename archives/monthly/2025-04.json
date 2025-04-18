@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744986167519,
+  "endTime": 1744987237413,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -3419,6 +3419,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 1105208,
+      "num": 1105208,
+      "word": "王者荣耀 哪吒",
+      "onboard_time": 1744983625,
+      "rank": 25,
+      "category": "游戏,电影"
+    },
+    {
       "raw_hot": 1104741,
       "num": 1104741,
       "word": "DeepSeek7小时攻克缅甸救灾语言关",
@@ -5331,6 +5339,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 820290,
+      "num": 820290,
+      "word": "王曼昱球品如人品",
+      "onboard_time": 1744983322,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 819276,
       "num": 434715,
       "word": "周杰伦昆凌把旅综录成恋综",
@@ -5513,14 +5529,6 @@
       "onboard_time": 1744520421,
       "rank": 10,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 803739,
-      "num": 803739,
-      "word": "王者荣耀 哪吒",
-      "onboard_time": 1744983625,
-      "rank": 25,
-      "category": "游戏,电影"
     },
     {
       "raw_hot": 803611,
@@ -6329,14 +6337,6 @@
       "onboard_time": 1743678080,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 725611,
-      "num": 725611,
-      "word": "王曼昱球品如人品",
-      "onboard_time": 1744983322,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 724601,
@@ -9907,6 +9907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 496278,
+      "num": 496278,
+      "word": "北大博士回应入职民办高校被指浪费",
+      "onboard_time": 1744985362,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 496270,
       "num": 414663,
       "word": "长沙文旅",
@@ -11027,6 +11035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 449776,
+      "num": 786575,
+      "word": "檀健次深情献唱哪吒2片尾曲",
+      "onboard_time": 1744985003,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 448935,
       "num": 448935,
       "word": "北大42岁副教授陈昊去世",
@@ -11313,6 +11329,14 @@
       "onboard_time": 1743464240,
       "rank": 11,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 440663,
+      "num": 600853,
+      "word": "新版北京欢迎你",
+      "onboard_time": 1744985843,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 440510,
@@ -12179,6 +12203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 410185,
+      "num": 410185,
+      "word": "特朗普称1个月内会与中国达成协议",
+      "onboard_time": 1744985725,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 410011,
       "num": 333570,
       "word": "怪不得长辈都喜欢大大方方的孩子",
@@ -12521,14 +12553,6 @@
       "onboard_time": 1744590622,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 398346,
-      "num": 786575,
-      "word": "檀健次深情献唱哪吒2片尾曲",
-      "onboard_time": 1744985003,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 398317,
@@ -17731,6 +17755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 276657,
+      "num": 276657,
+      "word": "王楚钦对阵雨果",
+      "onboard_time": 1744986263,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 276648,
       "num": 276648,
       "word": "女子因车祸致右眼摘除自制发光眼片",
@@ -19299,6 +19331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 252699,
+      "num": 252699,
+      "word": "檀健次哪吒2梦幻联动",
+      "onboard_time": 1744985482,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 252650,
       "num": 252650,
       "word": "李嘉琦四公淘汰",
@@ -19875,6 +19915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 243751,
+      "num": 243751,
+      "word": "全员加速中 推迟录制",
+      "onboard_time": 1744985243,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 243707,
       "num": 243707,
       "word": "达芬奇都调不出菏泽牡丹的美",
@@ -20105,6 +20153,14 @@
       "onboard_time": 1743566842,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 240269,
+      "num": 240269,
+      "word": "周深拉斯维加斯站创最高票房纪录",
+      "onboard_time": 1744986503,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 240266,
@@ -20857,6 +20913,14 @@
       "onboard_time": 1743995963,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 231932,
+      "num": 423346,
+      "word": "洪秀柱称台独拖着2300万人走绝路",
+      "onboard_time": 1744984884,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 231802,
@@ -23699,28 +23763,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 208054,
-      "num": 208054,
-      "word": "特朗普称1个月内会与中国达成协议",
-      "onboard_time": 1744985725,
-      "rank": 33,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 208001,
       "num": 251600,
       "word": "孙俪马龙同框",
       "onboard_time": 1744881803,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 207771,
-      "num": 207771,
-      "word": "全员加速中 推迟录制",
-      "onboard_time": 1744985243,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 207752,
@@ -24257,14 +24305,6 @@
       "onboard_time": 1744694243,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 205215,
-      "num": 205215,
-      "word": "新版北京欢迎你",
-      "onboard_time": 1744985843,
-      "rank": 35,
-      "category": "电影"
     },
     {
       "raw_hot": 205196,
@@ -25155,12 +25195,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200697,
+      "num": 200697,
+      "word": "这居然是许魏洲",
+      "onboard_time": 1744986742,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 200623,
       "num": 200623,
       "word": "女子泼水节被男子高压水枪呲眼",
       "onboard_time": 1744785143,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 200622,
+      "num": 200622,
+      "word": "虞书欣蛋卷头",
+      "onboard_time": 1744986503,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 200599,
@@ -27883,14 +27939,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 188503,
-      "num": 188503,
-      "word": "檀健次哪吒2梦幻联动",
-      "onboard_time": 1744985482,
-      "rank": 42,
-      "category": "电影"
-    },
-    {
       "raw_hot": 188481,
       "num": 234051,
       "word": "孙俪一哭汪俊鸡皮疙瘩起来了",
@@ -28251,6 +28299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 186905,
+      "num": 186905,
+      "word": "欧阳娜娜大提琴开场大秀",
+      "onboard_time": 1744986684,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 186903,
       "num": 186903,
       "word": "男团版TWICE金曲也太火热了",
@@ -28497,6 +28553,14 @@
       "onboard_time": 1743579505,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185865,
+      "num": 185865,
+      "word": "贺峻霖采访朱一龙吴磊",
+      "onboard_time": 1744986203,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 185812,
@@ -32523,6 +32587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165960,
+      "num": 165960,
+      "word": "雨果4比1张本智和",
+      "onboard_time": 1744986623,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165935,
       "num": 159562,
       "word": "凌晨一点钟的养老院",
@@ -33313,6 +33385,14 @@
       "onboard_time": 1743512003,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162472,
+      "num": 162472,
+      "word": "孙俪妈妈羡慕孙俪和马龙合影",
+      "onboard_time": 1744986565,
+      "rank": 42,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 162438,
@@ -34435,6 +34515,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 157410,
+      "num": 825924,
+      "word": "这就是MadeinChina的底气",
+      "onboard_time": 1744983983,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 157409,
       "num": 157409,
       "word": "白敬亭海棠花vlog",
@@ -34969,6 +35057,14 @@
       "onboard_time": 1744418663,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 154915,
+      "num": 154915,
+      "word": "过敏人春天全副武装出门",
+      "onboard_time": 1744986082,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 154914,
@@ -35657,14 +35753,6 @@
       "onboard_time": 1744698622,
       "rank": 44,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 151956,
-      "num": 151956,
-      "word": "过敏人春天全副武装出门",
-      "onboard_time": 1744986082,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 151910,
@@ -39443,14 +39531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 137357,
-      "num": 370057,
-      "word": "北大博士回应入职民办高校被指浪费",
-      "onboard_time": 1744985362,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 137257,
       "num": 141062,
       "word": "金饰价一夜大涨31元",
@@ -41139,6 +41219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131125,
+      "num": 131125,
+      "word": "女子每天吃十几个橙子确诊糖尿病",
+      "onboard_time": 1744986503,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131110,
       "num": 409817,
       "word": "山东舰航母编队参加演练",
@@ -42473,14 +42561,6 @@
       "onboard_time": 1743494843,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 125959,
-      "num": 825924,
-      "word": "这就是MadeinChina的底气",
-      "onboard_time": 1744983983,
-      "rank": 6,
-      "category": "国内时政"
     },
     {
       "raw_hot": 125912,
@@ -49179,6 +49259,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 89546,
+      "num": 402655,
+      "word": "赵今麦官宣新身份",
+      "onboard_time": 1744984225,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 89532,
       "num": 89532,
       "word": "陈若琳上有老下有小的感觉",
@@ -49817,6 +49905,14 @@
       "onboard_time": 1744690282,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84756,
+      "num": 288019,
+      "word": "蒋勤勤张婧仪地母系母女好养眼",
+      "onboard_time": 1744985302,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 84755,
@@ -51483,14 +51579,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 71174,
-      "num": 402655,
-      "word": "赵今麦官宣新身份",
-      "onboard_time": 1744984225,
-      "rank": 17,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 71118,
       "num": 290356,
       "word": "卤味一哥去年净利润跌超3成",
@@ -51601,14 +51689,6 @@
       "onboard_time": 1744973722,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 70407,
-      "num": 423346,
-      "word": "洪秀柱称台独拖着2300万人走绝路",
-      "onboard_time": 1744984884,
-      "rank": 14,
-      "category": "国内时政"
     },
     {
       "raw_hot": 70342,
@@ -52849,14 +52929,6 @@
       "onboard_time": 1743990500,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 61798,
-      "num": 288019,
-      "word": "蒋勤勤张婧仪地母系母女好养眼",
-      "onboard_time": 1744985302,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 61786,
@@ -55675,6 +55747,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 41217,
+      "num": 232093,
+      "word": "刘国梁谈乒乓球金牌增至6块",
+      "onboard_time": 1744985903,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 41201,
       "num": 425556,
       "word": "尹锡悦方否认所有公诉事实",
@@ -56729,14 +56809,6 @@
       "onboard_time": 1743615137,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 34809,
-      "num": 232093,
-      "word": "刘国梁谈乒乓球金牌增至6块",
-      "onboard_time": 1744985903,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 34744,

@@ -1,6 +1,6 @@
 {
   "startTime": 1744907462255,
-  "endTime": 1744986167519,
+  "endTime": 1744987237413,
   "band_list": [
     {
       "raw_hot": 2716065,
@@ -105,6 +105,14 @@
       "onboard_time": 1744983683,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1105208,
+      "num": 1105208,
+      "word": "王者荣耀 哪吒",
+      "onboard_time": 1744983625,
+      "rank": 25,
+      "category": "游戏,电影"
     },
     {
       "raw_hot": 1097340,
@@ -219,12 +227,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 803739,
-      "num": 803739,
-      "word": "王者荣耀 哪吒",
-      "onboard_time": 1744983625,
-      "rank": 25,
-      "category": "游戏,电影"
+      "raw_hot": 820290,
+      "num": 820290,
+      "word": "王曼昱球品如人品",
+      "onboard_time": 1744983322,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 774684,
@@ -265,14 +273,6 @@
       "onboard_time": 1744936460,
       "rank": 1,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 725611,
-      "num": 725611,
-      "word": "王曼昱球品如人品",
-      "onboard_time": 1744983322,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 724320,
@@ -483,6 +483,14 @@
       "category": "综艺,演出"
     },
     {
+      "raw_hot": 496278,
+      "num": 496278,
+      "word": "北大博士回应入职民办高校被指浪费",
+      "onboard_time": 1744985362,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 494555,
       "num": 494555,
       "word": "西湖边松鼠被游客投喂成松猪",
@@ -555,6 +563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 449776,
+      "num": 786575,
+      "word": "檀健次深情献唱哪吒2片尾曲",
+      "onboard_time": 1744985003,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 448935,
       "num": 448935,
       "word": "北大42岁副教授陈昊去世",
@@ -577,6 +593,14 @@
       "onboard_time": 1744936882,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 440663,
+      "num": 600853,
+      "word": "新版北京欢迎你",
+      "onboard_time": 1744985843,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 438595,
@@ -643,20 +667,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 410185,
+      "num": 410185,
+      "word": "特朗普称1个月内会与中国达成协议",
+      "onboard_time": 1744985725,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 405170,
       "num": 632525,
       "word": "佛山电翰不打螺丝后的75天",
       "onboard_time": 1744962801,
       "rank": 16,
       "category": "网红"
-    },
-    {
-      "raw_hot": 398346,
-      "num": 786575,
-      "word": "檀健次深情献唱哪吒2片尾曲",
-      "onboard_time": 1744985003,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 396980,
@@ -947,6 +971,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 276657,
+      "num": 276657,
+      "word": "王楚钦对阵雨果",
+      "onboard_time": 1744986263,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 274196,
       "num": 236448,
       "word": "8月龄仅6斤重女婴父亲发声",
@@ -1043,6 +1075,14 @@
       "category": "幽默,民生新闻"
     },
     {
+      "raw_hot": 252699,
+      "num": 252699,
+      "word": "檀健次哪吒2梦幻联动",
+      "onboard_time": 1744985482,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 250625,
       "num": 417014,
       "word": "无忧渡热度",
@@ -1091,6 +1131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 243751,
+      "num": 243751,
+      "word": "全员加速中 推迟录制",
+      "onboard_time": 1744985243,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 241670,
       "num": 252711,
       "word": "徐明浩直播还是这么松弛",
@@ -1113,6 +1161,14 @@
       "onboard_time": 1744967181,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 240269,
+      "num": 240269,
+      "word": "周深拉斯维加斯站创最高票房纪录",
+      "onboard_time": 1744986503,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 237799,
@@ -1145,6 +1201,14 @@
       "onboard_time": 1744978402,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 231932,
+      "num": 423346,
+      "word": "洪秀柱称台独拖着2300万人走绝路",
+      "onboard_time": 1744984884,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 231058,
@@ -1267,22 +1331,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 208054,
-      "num": 208054,
-      "word": "特朗普称1个月内会与中国达成协议",
-      "onboard_time": 1744985725,
-      "rank": 33,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 207771,
-      "num": 207771,
-      "word": "全员加速中 推迟录制",
-      "onboard_time": 1744985243,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 206216,
       "num": 206216,
       "word": "李耕耘古乐风华录",
@@ -1297,14 +1345,6 @@
       "onboard_time": 1744937481,
       "rank": 8,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 205215,
-      "num": 205215,
-      "word": "新版北京欢迎你",
-      "onboard_time": 1744985843,
-      "rank": 35,
-      "category": "电影"
     },
     {
       "raw_hot": 204687,
@@ -1417,6 +1457,22 @@
       "onboard_time": 1744953142,
       "rank": 26,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 200697,
+      "num": 200697,
+      "word": "这居然是许魏洲",
+      "onboard_time": 1744986742,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 200622,
+      "num": 200622,
+      "word": "虞书欣蛋卷头",
+      "onboard_time": 1744986503,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 198116,
@@ -1547,11 +1603,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 188503,
-      "num": 188503,
-      "word": "檀健次哪吒2梦幻联动",
-      "onboard_time": 1744985482,
-      "rank": 42,
+      "raw_hot": 186905,
+      "num": 186905,
+      "word": "欧阳娜娜大提琴开场大秀",
+      "onboard_time": 1744986684,
+      "rank": 30,
       "category": "电影"
     },
     {
@@ -1569,6 +1625,14 @@
       "onboard_time": 1744955902,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 185865,
+      "num": 185865,
+      "word": "贺峻霖采访朱一龙吴磊",
+      "onboard_time": 1744986203,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 185763,
@@ -1787,6 +1851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165960,
+      "num": 165960,
+      "word": "雨果4比1张本智和",
+      "onboard_time": 1744986623,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165483,
       "num": 165483,
       "word": "谭薇哭成typeC",
@@ -1833,6 +1905,14 @@
       "onboard_time": 1744978582,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 162472,
+      "num": 162472,
+      "word": "孙俪妈妈羡慕孙俪和马龙合影",
+      "onboard_time": 1744986565,
+      "rank": 42,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 160588,
@@ -1883,6 +1963,14 @@
       "category": "情感,民生新闻"
     },
     {
+      "raw_hot": 157410,
+      "num": 825924,
+      "word": "这就是MadeinChina的底气",
+      "onboard_time": 1744983983,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 157369,
       "num": 139644,
       "word": "六公主镜头下的贺峻霖",
@@ -1896,6 +1984,14 @@
       "word": "专门做卤猪蛋生意的老板",
       "onboard_time": 1744971980,
       "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 154915,
+      "num": 154915,
+      "word": "过敏人春天全副武装出门",
+      "onboard_time": 1744986082,
+      "rank": 49,
       "category": "幽默"
     },
     {
@@ -1969,14 +2065,6 @@
       "onboard_time": 1744954282,
       "rank": 40,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 151956,
-      "num": 151956,
-      "word": "过敏人春天全副武装出门",
-      "onboard_time": 1744986082,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 151460,
@@ -2307,14 +2395,6 @@
       "category": "互联网,数码"
     },
     {
-      "raw_hot": 137357,
-      "num": 370057,
-      "word": "北大博士回应入职民办高校被指浪费",
-      "onboard_time": 1744985362,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 136824,
       "num": 136824,
       "word": "张檬产前vs产后",
@@ -2403,6 +2483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131125,
+      "num": 131125,
+      "word": "女子每天吃十几个橙子确诊糖尿病",
+      "onboard_time": 1744986503,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130872,
       "num": 130872,
       "word": "有商有量你们也是过上日子了",
@@ -2449,14 +2537,6 @@
       "onboard_time": 1744946901,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 125959,
-      "num": 825924,
-      "word": "这就是MadeinChina的底气",
-      "onboard_time": 1744983983,
-      "rank": 6,
-      "category": "国内时政"
     },
     {
       "raw_hot": 125388,
@@ -2883,6 +2963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 89546,
+      "num": 402655,
+      "word": "赵今麦官宣新身份",
+      "onboard_time": 1744984225,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 88218,
       "num": 88218,
       "word": "港股今天休市",
@@ -2913,6 +3001,14 @@
       "onboard_time": 1744979182,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84756,
+      "num": 288019,
+      "word": "蒋勤勤张婧仪地母系母女好养眼",
+      "onboard_time": 1744985302,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 84606,
@@ -3059,14 +3155,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 71174,
-      "num": 402655,
-      "word": "赵今麦官宣新身份",
-      "onboard_time": 1744984225,
-      "rank": 17,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 70901,
       "num": 381085,
       "word": "大众德国老板直播秀ID3硬刚追尾",
@@ -3089,14 +3177,6 @@
       "onboard_time": 1744973722,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 70407,
-      "num": 423346,
-      "word": "洪秀柱称台独拖着2300万人走绝路",
-      "onboard_time": 1744984884,
-      "rank": 14,
-      "category": "国内时政"
     },
     {
       "raw_hot": 67455,
@@ -3200,14 +3280,6 @@
       "word": "2025北京国际电影节",
       "onboard_time": 1744906878,
       "rank": 44,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 61798,
-      "num": 288019,
-      "word": "蒋勤勤张婧仪地母系母女好养眼",
-      "onboard_time": 1744985302,
-      "rank": 23,
       "category": "电影"
     },
     {
@@ -3483,6 +3555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 41217,
+      "num": 232093,
+      "word": "刘国梁谈乒乓球金牌增至6块",
+      "onboard_time": 1744985903,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 41188,
       "num": 373662,
       "word": "王楚钦谈决胜局对手先拿到赛点",
@@ -3568,14 +3648,6 @@
       "word": "世界羽联总决赛改期",
       "onboard_time": 1744967721,
       "rank": 29,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 34809,
-      "num": 232093,
-      "word": "刘国梁谈乒乓球金牌增至6块",
-      "onboard_time": 1744985903,
-      "rank": 30,
       "category": "体育"
     },
     {
