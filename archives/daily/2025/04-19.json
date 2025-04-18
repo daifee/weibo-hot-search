@@ -1,6 +1,6 @@
 {
   "startTime": 1744993775892,
-  "endTime": 1745001943071,
+  "endTime": 1745004007682,
   "band_list": [
     {
       "raw_hot": 2817932,
@@ -435,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 68966,
+      "num": 55483,
+      "word": "孙恩盛直播",
+      "onboard_time": 1744998737,
+      "rank": 35,
+      "category": "网红"
+    },
+    {
       "raw_hot": 62978,
       "num": 66168,
       "word": "wego痛包",
@@ -499,12 +507,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 32022,
-      "num": 34226,
-      "word": "孙恩盛直播",
-      "onboard_time": 1744998737,
-      "rank": 35,
-      "category": "网红"
+      "raw_hot": 31987,
+      "num": 58977,
+      "word": "希音Temu告知美国消费者25日起涨价",
+      "onboard_time": 1745001675,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 29550,
@@ -547,6 +555,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 22084,
+      "num": 55817,
+      "word": "黄文秀生前最后一张照片",
+      "onboard_time": 1745002875,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21282,
       "num": 31893,
       "word": "欧阳娜娜北京国际电影节",
@@ -555,12 +571,28 @@
       "category": "电影"
     },
     {
-      "raw_hot": 15418,
-      "num": 58977,
-      "word": "希音Temu告知美国消费者25日起涨价",
-      "onboard_time": 1745001675,
-      "rank": 14,
-      "category": "海外新闻"
+      "raw_hot": 16166,
+      "num": 24586,
+      "word": "入职民办高校北大博主发声",
+      "onboard_time": 1745003776,
+      "rank": 47,
+      "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 15625,
+      "num": 24584,
+      "word": "王源其实是宇宙超级无敌大i人",
+      "onboard_time": 1745002515,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 15597,
+      "num": 24581,
+      "word": "宋妍霏回应让C位",
+      "onboard_time": 1745001555,
+      "rank": 49,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
