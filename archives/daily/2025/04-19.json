@@ -1,6 +1,6 @@
 {
   "startTime": 1744993775892,
-  "endTime": 1744997971685,
+  "endTime": 1745001146228,
   "band_list": [
     {
       "raw_hot": 2817932,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 427908,
-      "num": 186504,
+      "num": 247266,
       "word": "特朗普暗示不想继续提高对华关税",
       "onboard_time": 1744993282,
       "rank": 41,
@@ -443,20 +443,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 62904,
+      "num": 62904,
+      "word": "陈德容对吴宣仪的爱是手放开",
+      "onboard_time": 1744997597,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 62387,
       "num": 62387,
       "word": "章昊韩维辰舞台",
       "onboard_time": 1744990641,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 59118,
-      "num": 59118,
-      "word": "陈德容对吴宣仪的爱是手放开",
-      "onboard_time": 1744997597,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 50492,
@@ -489,6 +489,46 @@
       "onboard_time": 1744974862,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 35754,
+      "num": 35754,
+      "word": "孙俪救视主",
+      "onboard_time": 1744999336,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 30348,
+      "num": 34226,
+      "word": "孙恩盛直播",
+      "onboard_time": 1744998737,
+      "rank": 35,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 29550,
+      "num": 34205,
+      "word": "我给虞书欣拍的撕拉片",
+      "onboard_time": 1744999876,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 25824,
+      "num": 34176,
+      "word": "意大利发生缆车轿厢坠落事故",
+      "onboard_time": 1745000535,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 23221,
+      "num": 34151,
+      "word": "林诗栋世界杯晋级4强",
+      "onboard_time": 1744998618,
+      "rank": 48,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
