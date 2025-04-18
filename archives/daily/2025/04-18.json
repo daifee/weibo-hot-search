@@ -1,6 +1,6 @@
 {
   "startTime": 1744907462255,
-  "endTime": 1744969209265,
+  "endTime": 1744972052112,
   "band_list": [
     {
       "raw_hot": 2716065,
@@ -17,6 +17,14 @@
       "onboard_time": 1744957223,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 2206037,
+      "num": 2206037,
+      "word": "猫一杯案开庭",
+      "onboard_time": 1744967900,
+      "rank": 10,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 2145973,
@@ -73,14 +81,6 @@
       "onboard_time": 1744963939,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1101789,
-      "num": 1101789,
-      "word": "猫一杯案开庭",
-      "onboard_time": 1744967900,
-      "rank": 10,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 1097340,
@@ -283,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 610503,
+      "num": 496210,
+      "word": "高速上一轮胎滚进服务区撞人致死",
+      "onboard_time": 1744966220,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 604805,
       "num": 604805,
       "word": "三体 胡歌",
@@ -353,14 +361,6 @@
       "onboard_time": 1744896562,
       "rank": 3,
       "category": "剧集,电竞"
-    },
-    {
-      "raw_hot": 496210,
-      "num": 496210,
-      "word": "高速上一轮胎滚进服务区撞人致死",
-      "onboard_time": 1744966220,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 494555,
@@ -587,6 +587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 357489,
+      "num": 410571,
+      "word": "警方通报湖南机场董事长涉嫌性侵",
+      "onboard_time": 1744964901,
+      "rank": 32,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 354532,
       "num": 354532,
       "word": "歌手",
@@ -601,6 +609,14 @@
       "onboard_time": 1744903523,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 347171,
+      "num": 393644,
+      "word": "戚薇因一个数字发现李承铉反常",
+      "onboard_time": 1744965980,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 346516,
@@ -651,14 +667,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 313269,
-      "num": 410571,
-      "word": "警方通报湖南机场董事长涉嫌性侵",
-      "onboard_time": 1744964901,
-      "rank": 32,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 312404,
       "num": 312404,
       "word": "丁程鑫直播",
@@ -673,6 +681,14 @@
       "onboard_time": 1744893562,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 299748,
+      "num": 356637,
+      "word": "张婧仪拿着塑料袋走红毯",
+      "onboard_time": 1744970420,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 291012,
@@ -691,6 +707,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 280418,
+      "num": 274940,
+      "word": "百万人排队抢古茗",
+      "onboard_time": 1744966880,
+      "rank": 37,
+      "category": "游戏,美食"
+    },
+    {
       "raw_hot": 277517,
       "num": 277517,
       "word": "薛凯琪不想自己的状态麻烦他人",
@@ -699,28 +723,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 274940,
-      "num": 274940,
-      "word": "百万人排队抢古茗",
-      "onboard_time": 1744966880,
-      "rank": 37,
-      "category": "游戏,美食"
-    },
-    {
       "raw_hot": 274196,
       "num": 236448,
       "word": "8月龄仅6斤重女婴父亲发声",
       "onboard_time": 1744940660,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 272954,
-      "num": 388308,
-      "word": "戚薇因一个数字发现李承铉反常",
-      "onboard_time": 1744965980,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 272527,
@@ -819,6 +827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 241387,
+      "num": 352094,
+      "word": "黄奕披肩一打开哇声一片",
+      "onboard_time": 1744971320,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 241237,
       "num": 303220,
       "word": "李晟回应上热一的感觉",
@@ -833,6 +849,14 @@
       "onboard_time": 1744967181,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 237977,
+      "num": 237977,
+      "word": "孙颖莎vs郑怡静",
+      "onboard_time": 1744971141,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 237799,
@@ -1177,6 +1201,14 @@
       "onboard_time": 1744959202,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 175291,
+      "num": 175291,
+      "word": "德国人买了中国制造后开始疯狂安利",
+      "onboard_time": 1744970540,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 174050,
@@ -1755,6 +1787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123309,
+      "num": 123309,
+      "word": "雨中北影节红毯星光璀璨",
+      "onboard_time": 1744971800,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 122812,
       "num": 554893,
       "word": "全球各国正在中国进行一站式采购",
@@ -1769,6 +1809,14 @@
       "onboard_time": 1744941500,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121465,
+      "num": 121465,
+      "word": "漫客复刊",
+      "onboard_time": 1744971020,
+      "rank": 41,
+      "category": "动漫"
     },
     {
       "raw_hot": 121049,
@@ -1827,12 +1875,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113302,
+      "num": 113302,
+      "word": "王鹤棣直播",
+      "onboard_time": 1744971860,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 112862,
       "num": 150010,
       "word": "对手教练也在夸王楚钦",
       "onboard_time": 1744968740,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112380,
+      "num": 112380,
+      "word": "BFX对战T1",
+      "onboard_time": 1744971620,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 111738,
@@ -1851,8 +1915,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 109763,
-      "num": 109763,
+      "raw_hot": 110768,
+      "num": 110768,
       "word": "全美没有一家工厂能生产娃娃头发",
       "onboard_time": 1744968920,
       "rank": 47,
@@ -1915,6 +1979,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 101522,
+      "num": 101522,
+      "word": "专门做卤猪蛋生意的老板",
+      "onboard_time": 1744971980,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 100669,
       "num": 100669,
       "word": "男生回应春招时向市长自荐",
@@ -1963,6 +2035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97732,
+      "num": 97732,
+      "word": "人类驯服飞机的珍贵影像",
+      "onboard_time": 1744971500,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 96284,
       "num": 306220,
       "word": "韩决定明年不再扩招医学生",
@@ -1979,6 +2059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 93824,
+      "num": 349987,
+      "word": "当地回应白宫发言人衣服花边产自温州",
+      "onboard_time": 1744970540,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 93542,
       "num": 115236,
       "word": "吴晓求称别让东方集团跑了",
@@ -1993,6 +2081,22 @@
       "onboard_time": 1744901901,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 90366,
+      "num": 343933,
+      "word": "孙俪说自洽才是胡曼黎的成长",
+      "onboard_time": 1744971141,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 89891,
+      "num": 354620,
+      "word": "当地妇联已介入三人婚礼闹剧调查",
+      "onboard_time": 1744970540,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88218,
@@ -2187,6 +2291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 65226,
+      "num": 191967,
+      "word": "一起捏出清融动物塑",
+      "onboard_time": 1744971020,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 65217,
       "num": 293138,
       "word": "黄雅琼一句话让徐嘉余笑场",
@@ -2265,6 +2377,14 @@
       "onboard_time": 1744884202,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 56151,
+      "num": 368282,
+      "word": "经济学家称关税战是负和博弈",
+      "onboard_time": 1744971200,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 55204,
@@ -2459,6 +2579,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 39958,
+      "num": 348523,
+      "word": "为什么重庆这么热",
+      "onboard_time": 1744969940,
+      "rank": 18,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 39183,
+      "num": 186731,
+      "word": "新加坡公开赛国羽名单",
+      "onboard_time": 1744971020,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 36847,
       "num": 170932,
       "word": "鉴定神仙公司冷门办公室",
@@ -2585,6 +2721,14 @@
       "onboard_time": 1744899623,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 26344,
+      "num": 123727,
+      "word": "咖啡除了提神其他的好处",
+      "onboard_time": 1744971080,
+      "rank": 39,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 26109,
@@ -2739,6 +2883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 12775,
+      "num": 347168,
+      "word": "2025澳门世界杯冠军会是谁",
+      "onboard_time": 1744971439,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 11805,
       "num": 209678,
       "word": "如何筛选导师",
@@ -2779,6 +2931,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 8669,
+      "num": 124201,
+      "word": "跳远满分的技巧",
+      "onboard_time": 1744971141,
+      "rank": 38,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 8431,
       "num": 163868,
       "word": "高血压自愈的自然疗法",
@@ -2805,6 +2965,9 @@
     },
     {
       "word": "#习近平圆满结束对柬埔寨国事访问#"
+    },
+    {
+      "word": "#中马关系新的黄金50年#"
     }
   ]
 }

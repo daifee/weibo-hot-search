@@ -1,0 +1,410 @@
+{
+  "runTime": 1744972052112,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2206037,
+        "num": 2206037,
+        "word": "猫一杯案开庭",
+        "onboard_time": 1744967900,
+        "rank": 0,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 1289277,
+        "num": 1289277,
+        "word": "中国被曝已不再生产出口美国的玩具",
+        "onboard_time": 1744958962,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 113364,
+        "num": 1175509,
+        "word": "滥施关税挡不住中国制造",
+        "onboard_time": 1744966101,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1158665,
+        "num": 1158665,
+        "word": "日本多地发生无差别杀人事件",
+        "onboard_time": 1744945102,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 840002,
+        "num": 840002,
+        "word": "折腰下证",
+        "onboard_time": 1744963939,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 571159,
+        "num": 571159,
+        "word": "外交部回应泽连斯基宣称中国向俄军援",
+        "onboard_time": 1744964901,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 522638,
+        "num": 522638,
+        "word": "手机电池不喜欢100%满电",
+        "onboard_time": 1744959021,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 510532,
+        "num": 510532,
+        "word": "能吃苦的老一辈果然投胎回来了",
+        "onboard_time": 1744963700,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 347171,
+        "num": 393644,
+        "word": "戚薇因一个数字发现李承铉反常",
+        "onboard_time": 1744965980,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56151,
+        "num": 368282,
+        "word": "经济学家称关税战是负和博弈",
+        "onboard_time": 1744971200,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 610503,
+        "num": 363588,
+        "word": "高速上一轮胎滚进服务区撞人致死",
+        "onboard_time": 1744966220,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 357489,
+        "num": 357489,
+        "word": "警方通报湖南机场董事长涉嫌性侵",
+        "onboard_time": 1744964901,
+        "rank": 11,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 299748,
+        "num": 356637,
+        "word": "张婧仪拿着塑料袋走红毯",
+        "onboard_time": 1744970420,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 246215,
+        "num": 355166,
+        "word": "佛山电翰不打螺丝后的75天",
+        "onboard_time": 1744962801,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 89891,
+        "num": 354620,
+        "word": "当地妇联已介入三人婚礼闹剧调查",
+        "onboard_time": 1744970540,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241387,
+        "num": 352094,
+        "word": "黄奕披肩一打开哇声一片",
+        "onboard_time": 1744971320,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 218076,
+        "num": 350702,
+        "word": "北影节红毯",
+        "onboard_time": 1744961300,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 93824,
+        "num": 349987,
+        "word": "当地回应白宫发言人衣服花边产自温州",
+        "onboard_time": 1744970540,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 39958,
+        "num": 348523,
+        "word": "为什么重庆这么热",
+        "onboard_time": 1744969940,
+        "rank": 18,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 12775,
+        "num": 347168,
+        "word": "2025澳门世界杯冠军会是谁",
+        "onboard_time": 1744971439,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 478855,
+        "num": 346212,
+        "word": "侯佩岑组听到陈德容加入的表情",
+        "onboard_time": 1744957761,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90366,
+        "num": 343933,
+        "word": "孙俪说自洽才是胡曼黎的成长",
+        "onboard_time": 1744971141,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 343401,
+        "num": 343401,
+        "word": "金晨变美了",
+        "onboard_time": 1744963640,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326287,
+        "num": 326287,
+        "word": "警方通报江西杀害夫妻2人嫌犯被抓",
+        "onboard_time": 1744936460,
+        "rank": 23,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 291345,
+        "num": 291345,
+        "word": "中国将在没美国的情况下再活五千年",
+        "onboard_time": 1744963700,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 263592,
+        "num": 263592,
+        "word": "女子左眼左耳残疾无法办理残疾人证",
+        "onboard_time": 1744961420,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243092,
+        "num": 243092,
+        "word": "叶童拒绝陈德容",
+        "onboard_time": 1744958482,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237977,
+        "num": 237977,
+        "word": "孙颖莎vs郑怡静",
+        "onboard_time": 1744971141,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65226,
+        "num": 191967,
+        "word": "一起捏出清融动物塑",
+        "onboard_time": 1744971020,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 39183,
+        "num": 186731,
+        "word": "新加坡公开赛国羽名单",
+        "onboard_time": 1744971020,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 280418,
+        "num": 186312,
+        "word": "百万人排队抢古茗",
+        "onboard_time": 1744966880,
+        "rank": 30,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 183384,
+        "num": 183384,
+        "word": "昀牵孟绕",
+        "onboard_time": 1744965139,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 175291,
+        "num": 175291,
+        "word": "德国人买了中国制造后开始疯狂安利",
+        "onboard_time": 1744970540,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 156170,
+        "num": 156170,
+        "word": "这种手机充电方式很危险",
+        "onboard_time": 1744943240,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150481,
+        "num": 150481,
+        "word": "贾玲 王牌对王牌",
+        "onboard_time": 1744947622,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148108,
+        "num": 148108,
+        "word": "古茗店员最崩溃的一天",
+        "onboard_time": 1744968019,
+        "rank": 35,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 142530,
+        "num": 142530,
+        "word": "孙恩盛直播时突然缺氧和躯体化",
+        "onboard_time": 1744955002,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126701,
+        "num": 126701,
+        "word": "王楚钦说你要能抽死我就给你了",
+        "onboard_time": 1744960341,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 8669,
+        "num": 124201,
+        "word": "跳远满分的技巧",
+        "onboard_time": 1744971141,
+        "rank": 38,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 26344,
+        "num": 123727,
+        "word": "咖啡除了提神其他的好处",
+        "onboard_time": 1744971080,
+        "rank": 39,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 123309,
+        "num": 123309,
+        "word": "雨中北影节红毯星光璀璨",
+        "onboard_time": 1744971800,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121465,
+        "num": 121465,
+        "word": "漫客复刊",
+        "onboard_time": 1744971020,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 120024,
+        "num": 120024,
+        "word": "中方在乌克兰问题上一直劝和促谈",
+        "onboard_time": 1744967059,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 113302,
+        "num": 113302,
+        "word": "王鹤棣直播",
+        "onboard_time": 1744971860,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112792,
+        "num": 112792,
+        "word": "鬼鬼公开冻卵的整个过程",
+        "onboard_time": 1744957882,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36373,
+        "num": 112437,
+        "word": "大众德国老板直播秀ID3硬刚追尾",
+        "onboard_time": 1744966040,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112380,
+        "num": 112380,
+        "word": "BFX对战T1",
+        "onboard_time": 1744971620,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 110768,
+        "num": 110768,
+        "word": "全美没有一家工厂能生产娃娃头发",
+        "onboard_time": 1744968920,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 101522,
+        "num": 101522,
+        "word": "专门做卤猪蛋生意的老板",
+        "onboard_time": 1744971980,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 97732,
+        "num": 97732,
+        "word": "人类驯服飞机的珍贵影像",
+        "onboard_time": 1744971500,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#中马关系新的黄金50年#"
+    }
+  }
+}
