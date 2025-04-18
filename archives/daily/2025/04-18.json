@@ -1,10 +1,10 @@
 {
   "startTime": 1744907462255,
-  "endTime": 1744950527015,
+  "endTime": 1744951469460,
   "band_list": [
     {
-      "raw_hot": 2197914,
-      "num": 1245661,
+      "raw_hot": 2716065,
+      "num": 1313525,
       "word": "日本多地发生无差别杀人事件",
       "onboard_time": 1744945102,
       "rank": 4,
@@ -20,15 +20,23 @@
     },
     {
       "raw_hot": 1662071,
-      "num": 396725,
+      "num": 480241,
       "word": "薛凯琪谈方大同去世",
       "onboard_time": 1744948703,
       "rank": 10,
       "category": "艺人"
     },
     {
-      "raw_hot": 1345941,
-      "num": 1345941,
+      "raw_hot": 1405062,
+      "num": 1405062,
+      "word": "贾玲 王牌对王牌",
+      "onboard_time": 1744947622,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1375283,
+      "num": 1375283,
       "word": "女子用250元侮辱性红包付抚养费",
       "onboard_time": 1744946121,
       "rank": 20,
@@ -40,14 +48,6 @@
       "word": "王牌对王牌 原班人马",
       "onboard_time": 1744943060,
       "rank": 0,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1242033,
-      "num": 1242033,
-      "word": "贾玲 王牌对王牌",
-      "onboard_time": 1744947622,
-      "rank": 28,
       "category": "综艺"
     },
     {
@@ -123,6 +123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 757442,
+      "num": 479977,
+      "word": "湖南机场集团董事长涉嫌性侵",
+      "onboard_time": 1744948585,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 756052,
       "num": 319589,
       "word": "男子欲与女技师发生性关系被控强奸",
@@ -144,14 +152,6 @@
       "word": "医院回应女子微创手术后脑死亡",
       "onboard_time": 1744906400,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 716465,
-      "num": 395905,
-      "word": "湖南机场集团董事长涉嫌性侵",
-      "onboard_time": 1744948585,
-      "rank": 11,
       "category": "民生新闻"
     },
     {
@@ -243,6 +243,14 @@
       "category": "剧集,电竞"
     },
     {
+      "raw_hot": 494555,
+      "num": 494555,
+      "word": "西湖边松鼠被游客投喂成松猪",
+      "onboard_time": 1744946841,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 481643,
       "num": 317255,
       "word": "儿媳每月给婆婆3000元感谢其帮带娃",
@@ -323,20 +331,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 394662,
+      "num": 394662,
+      "word": "柯淳演许仙",
+      "onboard_time": 1744949483,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 392772,
       "num": 392772,
       "word": "我承认对无忧渡编剧声音太大了",
       "onboard_time": 1744946901,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 387237,
-      "num": 387237,
-      "word": "西湖边松鼠被游客投喂成松猪",
-      "onboard_time": 1744946841,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 380137,
@@ -377,14 +385,6 @@
       "onboard_time": 1744903523,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 343548,
-      "num": 387269,
-      "word": "柯淳演许仙",
-      "onboard_time": 1744949483,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 334442,
@@ -467,6 +467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 257087,
+      "num": 257087,
+      "word": "电影学院失联大四女生手机被格式化",
+      "onboard_time": 1744950862,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 256836,
       "num": 191397,
       "word": "业主119万房子4年后只值40万",
@@ -531,6 +539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 216769,
+      "num": 324795,
+      "word": "虞书欣杀青vlog掉落",
+      "onboard_time": 1744950560,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 211182,
       "num": 211182,
       "word": "宋雨琦 看得出她是公主",
@@ -563,6 +579,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 203599,
+      "num": 324904,
+      "word": "徐若晗兰蔻活动",
+      "onboard_time": 1744950623,
+      "rank": 26,
+      "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 202670,
+      "num": 202670,
+      "word": "腾讯片单",
+      "onboard_time": 1744950444,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202575,
       "num": 202575,
       "word": "张康乐 王者头像",
@@ -584,6 +616,14 @@
       "word": "冰湖重生官宣杀青礼",
       "onboard_time": 1744945041,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 193083,
+      "num": 391905,
+      "word": "蓄水期抢跑计划",
+      "onboard_time": 1744950862,
+      "rank": 18,
       "category": "剧集"
     },
     {
@@ -617,6 +657,14 @@
       "onboard_time": 1744946422,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 179514,
+      "num": 194359,
+      "word": "电影学院女大学生失联已近1个月",
+      "onboard_time": 1744949242,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 174050,
@@ -667,6 +715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161127,
+      "num": 389661,
+      "word": "年轻人请阿姨上门做饭比外卖便宜",
+      "onboard_time": 1744950560,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 160588,
       "num": 160588,
       "word": "金泰妍演唱会取消",
@@ -681,6 +737,14 @@
       "onboard_time": 1744935501,
       "rank": 30,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 158264,
+      "num": 286320,
+      "word": "成年人从不戳破友谊里的假性亲密",
+      "onboard_time": 1744950560,
+      "rank": 29,
+      "category": "情感,民生新闻"
     },
     {
       "raw_hot": 154867,
@@ -708,7 +772,7 @@
     },
     {
       "raw_hot": 152828,
-      "num": 163186,
+      "num": 168166,
       "word": "高低音被希林娜依高玩明白了",
       "onboard_time": 1744947202,
       "rank": 37,
@@ -739,12 +803,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147770,
+      "num": 1319394,
+      "word": "美国军民企业高度依赖中国稀土",
+      "onboard_time": 1744950082,
+      "rank": 2,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 146514,
       "num": 146514,
       "word": "皮肤瘙痒发黄还有蜘蛛痣最好查查肝",
       "onboard_time": 1744900224,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 145993,
+      "num": 145993,
+      "word": "韩庚新剧刚开场就被暴揍",
+      "onboard_time": 1744951283,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 145375,
@@ -787,12 +867,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 140630,
-      "num": 140630,
-      "word": "腾讯片单",
-      "onboard_time": 1744950444,
-      "rank": 48,
-      "category": "剧集"
+      "raw_hot": 140455,
+      "num": 140455,
+      "word": "李昀锐被粉丝叫错的反应",
+      "onboard_time": 1744950383,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 138564,
+      "num": 138564,
+      "word": "刘雨昕北影节表演嘉宾",
+      "onboard_time": 1744948101,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 136824,
@@ -817,14 +905,6 @@
       "onboard_time": 1744950383,
       "rank": 49,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 130934,
-      "num": 194359,
-      "word": "电影学院女大学生失联已近1个月",
-      "onboard_time": 1744949242,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 129449,
@@ -883,14 +963,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 116042,
-      "num": 116042,
-      "word": "刘雨昕北影节表演嘉宾",
-      "onboard_time": 1744948101,
-      "rank": 49,
-      "category": "电影"
-    },
-    {
       "raw_hot": 115370,
       "num": 115370,
       "word": "田馥甄新歌",
@@ -939,11 +1011,27 @@
       "category": "数码"
     },
     {
+      "raw_hot": 103276,
+      "num": 393180,
+      "word": "外卖和外卖能有什么区别",
+      "onboard_time": 1744950983,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100669,
       "num": 100669,
       "word": "男生回应春招时向市长自荐",
       "onboard_time": 1744938562,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99830,
+      "num": 538169,
+      "word": "中国制造的工程机械连样机都被抢空了",
+      "onboard_time": 1744950503,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -1107,14 +1195,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 66573,
-      "num": 149222,
-      "word": "中国制造的工程机械连样机都被抢空了",
-      "onboard_time": 1744950503,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 66454,
       "num": 74364,
       "word": "王牌对王牌9即将开录",
@@ -1179,14 +1259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 56269,
-      "num": 1248386,
-      "word": "美国军民企业高度依赖中国稀土",
-      "onboard_time": 1744950082,
-      "rank": 2,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 56233,
       "num": 74259,
       "word": "张檬早期因男友嘲讽丑去整容",
@@ -1201,6 +1273,14 @@
       "onboard_time": 1744896803,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 55082,
+      "num": 330800,
+      "word": "秦彻小狸花祝你生日快乐",
+      "onboard_time": 1744950745,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 53956,
@@ -1305,6 +1385,14 @@
       "onboard_time": 1744910356,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 33689,
+      "num": 398157,
+      "word": "有旅行社拒绝律师记者等报团",
+      "onboard_time": 1744950560,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32227,
@@ -1473,6 +1561,14 @@
       "onboard_time": 1744918154,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 8431,
+      "num": 163868,
+      "word": "高血压自愈的自然疗法",
+      "onboard_time": 1744951223,
+      "rank": 39,
+      "category": "健康医疗"
     }
   ],
   "hotgov_list": [
