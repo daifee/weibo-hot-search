@@ -1,6 +1,6 @@
 {
   "startTime": 1744993775892,
-  "endTime": 1745007958064,
+  "endTime": 1745008742645,
   "band_list": [
     {
       "raw_hot": 2817932,
@@ -531,6 +531,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 26754,
+      "num": 33644,
+      "word": "00后女辅警40米深井救出幼童",
+      "onboard_time": 1745006775,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 25824,
       "num": 34176,
       "word": "意大利发生缆车轿厢坠落事故",
@@ -619,6 +627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 15624,
+      "num": 45859,
+      "word": "鲁比奥说俄乌和谈没进展美国就不管了",
+      "onboard_time": 1745004374,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 15597,
       "num": 24581,
       "word": "宋妍霏回应让C位",
@@ -627,20 +643,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 15556,
-      "num": 45859,
-      "word": "鲁比奥说俄乌和谈没进展美国就不管了",
-      "onboard_time": 1745004374,
+      "raw_hot": 13066,
+      "num": 35726,
+      "word": "特朗普称本周将收到俄方反馈",
+      "onboard_time": 1745007553,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 12928,
-      "num": 33644,
-      "word": "00后女辅警40米深井救出幼童",
-      "onboard_time": 1745006775,
-      "rank": 9,
-      "category": "正能量"
     }
   ],
   "hotgov_list": [
