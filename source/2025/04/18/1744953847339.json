@@ -1,0 +1,410 @@
+{
+  "runTime": 1744953847339,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1418614,
+        "num": 1418614,
+        "word": "贾玲 王牌对王牌",
+        "onboard_time": 1744947622,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 833232,
+        "num": 833232,
+        "word": "这种手机充电方式很危险",
+        "onboard_time": 1744943240,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142635,
+        "num": 740290,
+        "word": "美国军民企业高度依赖中国稀土",
+        "onboard_time": 1744950082,
+        "rank": 2,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1887237,
+        "num": 737532,
+        "word": "日本多地发生无差别杀人事件",
+        "onboard_time": 1744945102,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 672581,
+        "num": 672581,
+        "word": "古茗排队",
+        "onboard_time": 1744944981,
+        "rank": 4,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 944671,
+        "num": 589801,
+        "word": "女子用250元侮辱性红包付抚养费",
+        "onboard_time": 1744946121,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 415901,
+        "num": 415901,
+        "word": "西湖边松鼠被游客投喂成松猪",
+        "onboard_time": 1744946841,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 380724,
+        "num": 380724,
+        "word": "乖乖女导演又拍出了救赎天花板",
+        "onboard_time": 1744946541,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 346516,
+        "num": 346516,
+        "word": "美国人喜欢的三蹦子可能要断货了",
+        "onboard_time": 1744933219,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 328212,
+        "num": 328212,
+        "word": "柯淳演许仙",
+        "onboard_time": 1744949483,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1091242,
+        "num": 328199,
+        "word": "薛凯琪谈方大同去世",
+        "onboard_time": 1744948703,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 519514,
+        "num": 321743,
+        "word": "警方通报江西杀害夫妻2人嫌犯被抓",
+        "onboard_time": 1744936460,
+        "rank": 11,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 502043,
+        "num": 319167,
+        "word": "湖南机场集团董事长涉嫌性侵",
+        "onboard_time": 1744948585,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 346069,
+        "num": 315493,
+        "word": "鬼鬼产后一天只吃一餐",
+        "onboard_time": 1744937422,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93531,
+        "num": 313061,
+        "word": "未网购却收到快递52万积蓄被骗光",
+        "onboard_time": 1744953082,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 311631,
+        "num": 311631,
+        "word": "霸王茶姬",
+        "onboard_time": 1744941199,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 299263,
+        "num": 299263,
+        "word": "CBA官方严重警告山西男篮",
+        "onboard_time": 1744948762,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224493,
+        "num": 290024,
+        "word": "李一桐评论区好多明星团建",
+        "onboard_time": 1744952963,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207144,
+        "num": 288614,
+        "word": "王牌对王牌 原班人马",
+        "onboard_time": 1744943060,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154713,
+        "num": 288430,
+        "word": "外卖和外卖能有什么区别",
+        "onboard_time": 1744950983,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 288261,
+        "num": 288261,
+        "word": "电影学院女大学生失联已近1个月",
+        "onboard_time": 1744949242,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248563,
+        "num": 248563,
+        "word": "早期的鹿晗",
+        "onboard_time": 1744953142,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237799,
+        "num": 237799,
+        "word": "虞书欣高踢腿",
+        "onboard_time": 1744951824,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 233749,
+        "num": 233749,
+        "word": "年轻人请阿姨上门做饭比外卖便宜",
+        "onboard_time": 1744950560,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207068,
+        "num": 207068,
+        "word": "我承认对无忧渡编剧声音太大了",
+        "onboard_time": 1744946901,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204687,
+        "num": 204687,
+        "word": "奔跑吧路透",
+        "onboard_time": 1744951703,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200967,
+        "num": 200967,
+        "word": "五一低成本出片穿搭",
+        "onboard_time": 1744953142,
+        "rank": 26,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 191267,
+        "num": 191267,
+        "word": "市长来1小时你耽误他10分钟",
+        "onboard_time": 1744933281,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22728,
+        "num": 188660,
+        "word": "你常吃的这种面包是促炎高手",
+        "onboard_time": 1744953622,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 32712,
+        "num": 188273,
+        "word": "热播剧被切条传播判侵权",
+        "onboard_time": 1744953561,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 209887,
+        "num": 188226,
+        "word": "林志玲安妮海瑟薇秀场合照",
+        "onboard_time": 1744952604,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188039,
+        "num": 188039,
+        "word": "电影学院失联大四女生手机被格式化",
+        "onboard_time": 1744950862,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185942,
+        "num": 185942,
+        "word": "喝不喝咖啡身体3个差距很明显",
+        "onboard_time": 1744944141,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 18231,
+        "num": 185489,
+        "word": "中华体育精神颂",
+        "onboard_time": 1744952963,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185184,
+        "num": 185184,
+        "word": "张檬生小孩后一点变化没有",
+        "onboard_time": 1744944440,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176945,
+        "num": 176945,
+        "word": "北京下雨",
+        "onboard_time": 1744952184,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167225,
+        "num": 167225,
+        "word": "张伦硕否认为了钱接近钟丽缇",
+        "onboard_time": 1744953502,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165128,
+        "num": 165128,
+        "word": "澳门世界杯",
+        "onboard_time": 1744953021,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159129,
+        "num": 159129,
+        "word": "撕拉片 女明星肉眼看到的样子",
+        "onboard_time": 1744950383,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 155520,
+        "num": 155520,
+        "word": "腾讯片单",
+        "onboard_time": 1744950444,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140904,
+        "num": 140904,
+        "word": "96名业主自筹千万烂尾楼复工",
+        "onboard_time": 1744936161,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133091,
+        "num": 133091,
+        "word": "刘亦菲跳拉丁舞",
+        "onboard_time": 1744953442,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128261,
+        "num": 128261,
+        "word": "特朗普关税政策正在损害美国品牌",
+        "onboard_time": 1744950143,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127526,
+        "num": 127526,
+        "word": "李昀锐被粉丝叫错的反应",
+        "onboard_time": 1744950383,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123528,
+        "num": 123528,
+        "word": "原来我一直误会这些虫子了",
+        "onboard_time": 1744952184,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121765,
+        "num": 121765,
+        "word": "8月龄仅6斤重女婴父亲发声",
+        "onboard_time": 1744940660,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121376,
+        "num": 121376,
+        "word": "国色芳华现象级作品",
+        "onboard_time": 1744946901,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120152,
+        "num": 120152,
+        "word": "王楚钦说变老了呗",
+        "onboard_time": 1744952424,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119159,
+        "num": 119159,
+        "word": "谢娜夜骑到鸟巢给张杰送玫瑰花",
+        "onboard_time": 1744904422,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 113998,
+        "num": 113998,
+        "word": "檀健次李兰迪直拍",
+        "onboard_time": 1744953323,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#开启中马关系新的黄金50年#"
+    }
+  }
+}
