@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744958851761,
+  "endTime": 1744961145825,
   "band_list": [
     {
       "raw_hot": 10606514,
@@ -177,6 +177,14 @@
       "onboard_time": 1744594581,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2077358,
+      "num": 2077358,
+      "word": "中国被曝已不再生产出口美国的玩具",
+      "onboard_time": 1744958962,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 2024622,
@@ -1251,6 +1259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 968959,
+      "num": 968959,
+      "word": "侯佩岑组听到陈德容加入的表情",
+      "onboard_time": 1744957761,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 964519,
       "num": 655677,
       "word": "被虐死男童妈妈晕倒被送医",
@@ -1609,6 +1625,14 @@
       "onboard_time": 1744724003,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 832827,
+      "num": 832827,
+      "word": "手机电池不喜欢100%满电",
+      "onboard_time": 1744959021,
+      "rank": 4,
+      "category": "数码"
     },
     {
       "raw_hot": 832510,
@@ -2401,6 +2425,14 @@
       "onboard_time": 1744874542,
       "rank": 15,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 650852,
+      "num": 533067,
+      "word": "叶童拒绝陈德容",
+      "onboard_time": 1744958482,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 649541,
@@ -3515,6 +3547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 442656,
+      "num": 442656,
+      "word": "以为巨长胖实际能减肥的食物",
+      "onboard_time": 1744955902,
+      "rank": 8,
+      "category": "健康医疗,美食"
+    },
+    {
       "raw_hot": 441154,
       "num": 441154,
       "word": "ITTF抽签",
@@ -3537,14 +3577,6 @@
       "onboard_time": 1744897642,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 438635,
-      "num": 438635,
-      "word": "以为巨长胖实际能减肥的食物",
-      "onboard_time": 1744955902,
-      "rank": 8,
-      "category": "健康医疗,美食"
     },
     {
       "raw_hot": 438595,
@@ -3961,6 +3993,14 @@
       "onboard_time": 1744701381,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 396980,
+      "num": 396980,
+      "word": "王楚钦朝球迷竖大拇指",
+      "onboard_time": 1744959683,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 396433,
@@ -4483,6 +4523,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 346516,
+      "num": 397952,
+      "word": "佛山电翰称不否认做网红是在赚快钱",
+      "onboard_time": 1744959922,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 346321,
       "num": 267862,
       "word": "韩安冉发文力挺董明珠",
@@ -4537,6 +4585,14 @@
       "onboard_time": 1744760480,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 335635,
+      "num": 335635,
+      "word": "鬼鬼公开冻卵的整个过程",
+      "onboard_time": 1744957882,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 334442,
@@ -4929,14 +4985,6 @@
       "onboard_time": 1744641204,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 300461,
-      "num": 300461,
-      "word": "侯佩岑组听到陈德容加入的表情",
-      "onboard_time": 1744957761,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 299251,
@@ -5755,14 +5803,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 251413,
-      "num": 278031,
-      "word": "叶童拒绝陈德容",
-      "onboard_time": 1744958482,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 250615,
       "num": 246998,
       "word": "问界M8太能造了",
@@ -5937,6 +5977,14 @@
       "onboard_time": 1744691664,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 244323,
+      "num": 244323,
+      "word": "多名骑手表示全职后稳定月入过万",
+      "onboard_time": 1744958662,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 244052,
@@ -6320,14 +6368,6 @@
       "word": "胡兵坐轮椅五国机场无障碍测评",
       "onboard_time": 1744519582,
       "rank": 29,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 230909,
-      "num": 230909,
-      "word": "鬼鬼公开冻卵的整个过程",
-      "onboard_time": 1744957882,
-      "rank": 41,
       "category": "艺人"
     },
     {
@@ -6777,6 +6817,14 @@
       "onboard_time": 1744950560,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 216552,
+      "num": 216552,
+      "word": "王楚钦说你要能抽死我就给你了",
+      "onboard_time": 1744960341,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 216090,
@@ -7529,6 +7577,14 @@
       "onboard_time": 1744532542,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 204464,
+      "num": 367754,
+      "word": "管乐气得喊了三遍张小婉大名",
+      "onboard_time": 1744958962,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 204408,
@@ -8363,6 +8419,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 192710,
+      "num": 145651,
+      "word": "王珞丹崩溃痛哭",
+      "onboard_time": 1744960941,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192698,
       "num": 192698,
       "word": "PeRo战队PCL春季赛冠军",
@@ -8513,6 +8577,14 @@
       "onboard_time": 1744637845,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 191480,
+      "num": 191480,
+      "word": "被巨物包围的窒息感谁懂",
+      "onboard_time": 1744959983,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 191326,
@@ -8681,6 +8753,14 @@
       "onboard_time": 1744720281,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189132,
+      "num": 283458,
+      "word": "小盐巴闭店",
+      "onboard_time": 1744958662,
+      "rank": 38,
+      "category": "网红"
     },
     {
       "raw_hot": 189087,
@@ -9555,6 +9635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176329,
+      "num": 176329,
+      "word": "张杰演唱会灯光被当作UFO",
+      "onboard_time": 1744959202,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 176277,
       "num": 361679,
       "word": "无忧渡病娇木偶叫姐姐",
@@ -10017,6 +10105,14 @@
       "onboard_time": 1744808062,
       "rank": 35,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 169390,
+      "num": 386881,
+      "word": "美国一退伍军人劫持飞机刺伤乘客",
+      "onboard_time": 1744957821,
+      "rank": 22,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 169312,
@@ -11267,6 +11363,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 152288,
+      "num": 440652,
+      "word": "玩具在美国将成为奢侈品",
+      "onboard_time": 1744960402,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 152243,
       "num": 152243,
       "word": "G社是林志玲站姐吧",
@@ -11737,6 +11841,14 @@
       "onboard_time": 1744867402,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146679,
+      "num": 466796,
+      "word": "美国小公司老板起诉特朗普",
+      "onboard_time": 1744958182,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 146597,
@@ -12283,6 +12395,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 141156,
+      "num": 141156,
+      "word": "终于有人把妇科检查说清了",
+      "onboard_time": 1744961001,
+      "rank": 45,
+      "category": "健康医疗,民生新闻"
+    },
+    {
       "raw_hot": 141097,
       "num": 141097,
       "word": "山东文旅发了蔡徐坤",
@@ -12779,14 +12899,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 136379,
-      "num": 136379,
-      "word": "小盐巴闭店",
-      "onboard_time": 1744958662,
-      "rank": 38,
-      "category": "网红"
-    },
-    {
       "raw_hot": 136360,
       "num": 136360,
       "word": "陕西省考成绩",
@@ -13073,14 +13185,6 @@
       "onboard_time": 1744772061,
       "rank": 48,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 133694,
-      "num": 133694,
-      "word": "多名骑手表示全职后稳定月入过万",
-      "onboard_time": 1744958662,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 133657,
@@ -14651,6 +14755,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 117514,
+      "num": 406123,
+      "word": "公交司机8个月26次开车打瞌睡被辞退",
+      "onboard_time": 1744960103,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117476,
       "num": 117476,
       "word": "鞠婧祎这么权威的一张脸",
@@ -14833,14 +14945,6 @@
       "onboard_time": 1744687521,
       "rank": 42,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 114915,
-      "num": 466796,
-      "word": "美国小公司老板起诉特朗普",
-      "onboard_time": 1744958182,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 114836,
@@ -15145,6 +15249,14 @@
       "onboard_time": 1744543942,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111084,
+      "num": 111084,
+      "word": "狗 你是猪吗",
+      "onboard_time": 1744946722,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 110983,
@@ -15867,6 +15979,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 99738,
+      "num": 375034,
+      "word": "马拉松私拍10秒视频收88.88元",
+      "onboard_time": 1744960162,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 99334,
       "num": 99334,
       "word": "范丞丞千金不换演特殊群体",
@@ -16315,14 +16435,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 89020,
-      "num": 386881,
-      "word": "美国一退伍军人劫持飞机刺伤乘客",
-      "onboard_time": 1744957821,
-      "rank": 22,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 88976,
       "num": 467066,
       "word": "为什么虞书欣是天选代言人",
@@ -16585,6 +16697,14 @@
       "onboard_time": 1744898842,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83686,
+      "num": 268812,
+      "word": "魏建军提议多练内功少说空话",
+      "onboard_time": 1744958420,
+      "rank": 26,
+      "category": "汽车"
     },
     {
       "raw_hot": 83472,
@@ -16923,6 +17043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 76810,
+      "num": 180481,
+      "word": "马拉松机器人为什么要穿鞋",
+      "onboard_time": 1744959802,
+      "rank": 33,
+      "category": "互联网,运动健身"
+    },
+    {
       "raw_hot": 76803,
       "num": 461414,
       "word": "外交部回应中方通缉3名美国特工",
@@ -17001,6 +17129,14 @@
       "onboard_time": 1744533862,
       "rank": 19,
       "category": "网红"
+    },
+    {
+      "raw_hot": 74984,
+      "num": 180266,
+      "word": "阿诺嫁到中国第一次有家的感觉",
+      "onboard_time": 1744960880,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 74848,
@@ -17163,6 +17299,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 71822,
+      "num": 170270,
+      "word": "女子左眼失明办残疾人证遭拒",
+      "onboard_time": 1744961060,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70962,
       "num": 271975,
       "word": "3岁男童被虐待致死案母亲曝光细节",
@@ -17201,6 +17345,14 @@
       "onboard_time": 1744785022,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 69495,
+      "num": 355509,
+      "word": "看庄达菲直播好像在和闺蜜打视频",
+      "onboard_time": 1744960640,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 69259,
@@ -17675,14 +17827,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 59761,
-      "num": 268812,
-      "word": "魏建军提议多练内功少说空话",
-      "onboard_time": 1744958420,
-      "rank": 26,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 59652,
       "num": 181983,
       "word": "无忧渡有自己的真假美猴王",
@@ -18083,6 +18227,14 @@
       "category": "网红,民生新闻"
     },
     {
+      "raw_hot": 50408,
+      "num": 327597,
+      "word": "安慰别人时要克制表达欲",
+      "onboard_time": 1744960341,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 50398,
       "num": 143207,
       "word": "雨果4比1篠塚大登",
@@ -18323,6 +18475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47226,
+      "num": 169602,
+      "word": "飞蚊症的发生原因和改善方法",
+      "onboard_time": 1744960640,
+      "rank": 39,
+      "category": "健康医疗,民生新闻"
+    },
+    {
       "raw_hot": 47215,
       "num": 1540646,
       "word": "一图看懂中越友谊",
@@ -18425,6 +18585,14 @@
       "onboard_time": 1744864763,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45465,
+      "num": 396851,
+      "word": "肥胖带来的健康风险有多大",
+      "onboard_time": 1744959983,
+      "rank": 18,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 45458,
