@@ -1,0 +1,410 @@
+{
+  "runTime": 1744958049455,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1351861,
+        "num": 1351861,
+        "word": "特朗普撑不住暗示降低对华关税",
+        "onboard_time": 1744957223,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 956076,
+        "num": 956076,
+        "word": "王楚钦vs杜达",
+        "onboard_time": 1744954101,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114830,
+        "num": 844852,
+        "word": "美国军民企业高度依赖中国稀土",
+        "onboard_time": 1744950082,
+        "rank": 2,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1088859,
+        "num": 838709,
+        "word": "日本多地发生无差别杀人事件",
+        "onboard_time": 1744945102,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 819389,
+        "num": 819389,
+        "word": "贾玲 王牌对王牌",
+        "onboard_time": 1744947622,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 604805,
+        "num": 604805,
+        "word": "三体 胡歌",
+        "onboard_time": 1744955481,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 596527,
+        "num": 596527,
+        "word": "这种手机充电方式很危险",
+        "onboard_time": 1744943240,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 555254,
+        "num": 555254,
+        "word": "古茗崩了",
+        "onboard_time": 1744954042,
+        "rank": 7,
+        "category": "美食,游戏"
+      },
+      {
+        "raw_hot": 427069,
+        "num": 427069,
+        "word": "以为巨长胖实际能减肥的食物",
+        "onboard_time": 1744955902,
+        "rank": 8,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 399258,
+        "num": 399258,
+        "word": "李一桐评论区好多明星团建",
+        "onboard_time": 1744952963,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 693411,
+        "num": 366663,
+        "word": "孙恩盛直播时突然缺氧和躯体化",
+        "onboard_time": 1744955002,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 500726,
+        "num": 350012,
+        "word": "薛凯琪谈方大同去世",
+        "onboard_time": 1744948703,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 491741,
+        "num": 339977,
+        "word": "张伦硕否认为了钱接近钟丽缇",
+        "onboard_time": 1744953502,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324963,
+        "num": 324963,
+        "word": "aespa四人四封",
+        "onboard_time": 1744956681,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 244446,
+        "num": 244446,
+        "word": "王楚钦4比3杜达",
+        "onboard_time": 1744957702,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 248437,
+        "num": 243290,
+        "word": "吴宣仪二公个人第一",
+        "onboard_time": 1744954761,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 452251,
+        "num": 242143,
+        "word": "警方通报江西杀害夫妻2人嫌犯被抓",
+        "onboard_time": 1744936460,
+        "rank": 16,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 227151,
+        "num": 240953,
+        "word": "李晟回应上热一的感觉",
+        "onboard_time": 1744957281,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292689,
+        "num": 239604,
+        "word": "湖南机场集团董事长涉嫌性侵",
+        "onboard_time": 1744948585,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42395,
+        "num": 238395,
+        "word": "韩决定明年不再扩招医学生",
+        "onboard_time": 1744957041,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 194137,
+        "num": 236599,
+        "word": "乘风三公",
+        "onboard_time": 1744956383,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 319865,
+        "num": 235362,
+        "word": "早期的鹿晗",
+        "onboard_time": 1744953142,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57912,
+        "num": 234266,
+        "word": "美国一退伍军人劫持飞机刺伤乘客",
+        "onboard_time": 1744957821,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 120306,
+        "num": 233638,
+        "word": "梁靖崑进世界杯四强",
+        "onboard_time": 1744956802,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232519,
+        "num": 232519,
+        "word": "西湖边松鼠被游客投喂成松猪",
+        "onboard_time": 1744946841,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194632,
+        "num": 194632,
+        "word": "霸王茶姬",
+        "onboard_time": 1744941199,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 176609,
+        "num": 176609,
+        "word": "刘涛时隔19年再演白素贞",
+        "onboard_time": 1744953622,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174291,
+        "num": 174291,
+        "word": "林志玲安妮海瑟薇秀场合照",
+        "onboard_time": 1744952604,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168355,
+        "num": 168355,
+        "word": "美国女警儿子在大学开枪杀人",
+        "onboard_time": 1744956383,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 166327,
+        "num": 166327,
+        "word": "李一桐初代仙女施法手势",
+        "onboard_time": 1744955783,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173730,
+        "num": 165529,
+        "word": "侯佩岑组听到陈德容加入的表情",
+        "onboard_time": 1744957761,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162205,
+        "num": 162205,
+        "word": "古茗排队",
+        "onboard_time": 1744944981,
+        "rank": 31,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 160894,
+        "num": 160894,
+        "word": "未网购却收到快递52万积蓄被骗光",
+        "onboard_time": 1744953082,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147530,
+        "num": 160691,
+        "word": "IU 给粉丝隔空投送自拍",
+        "onboard_time": 1744957163,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160529,
+        "num": 160529,
+        "word": "伍娘内娱掌公主",
+        "onboard_time": 1744957642,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152243,
+        "num": 152243,
+        "word": "G社是林志玲站姐吧",
+        "onboard_time": 1744954282,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 145720,
+        "num": 145720,
+        "word": "鬼鬼产后一天只吃一餐",
+        "onboard_time": 1744937422,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142802,
+        "num": 142802,
+        "word": "美国人喜欢的三蹦子可能要断货了",
+        "onboard_time": 1744933219,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 137470,
+        "num": 137470,
+        "word": "苹果特斯拉星巴克市场被蚕食",
+        "onboard_time": 1744954941,
+        "rank": 38,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 132274,
+        "num": 132274,
+        "word": "肖战初夏粉衬衫",
+        "onboard_time": 1744956502,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 130701,
+        "num": 130701,
+        "word": "日本埼玉女高中生遇害",
+        "onboard_time": 1744954822,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 134419,
+        "num": 130503,
+        "word": "鬼鬼公开冻卵的整个过程",
+        "onboard_time": 1744957882,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129973,
+        "num": 129973,
+        "word": "柯淳演许仙",
+        "onboard_time": 1744949483,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125995,
+        "num": 125995,
+        "word": "刘亦菲跳拉丁舞",
+        "onboard_time": 1744953442,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125064,
+        "num": 125064,
+        "word": "郭艾伦首次回应眼睛受伤",
+        "onboard_time": 1744955063,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122339,
+        "num": 122339,
+        "word": "乖乖女导演又拍出了救赎天花板",
+        "onboard_time": 1744946541,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66492,
+        "num": 120215,
+        "word": "王楚钦说变老了呗",
+        "onboard_time": 1744952424,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119981,
+        "num": 119981,
+        "word": "你常吃的这种面包是促炎高手",
+        "onboard_time": 1744953622,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 118545,
+        "num": 118545,
+        "word": "冯彦哲 搭档",
+        "onboard_time": 1744954522,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114569,
+        "num": 114569,
+        "word": "澳门世界杯",
+        "onboard_time": 1744953021,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#开启中马关系新的黄金50年#"
+    }
+  }
+}

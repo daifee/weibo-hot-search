@@ -1,6 +1,6 @@
 {
   "startTime": 1744907462255,
-  "endTime": 1744954870722,
+  "endTime": 1744958049455,
   "band_list": [
     {
       "raw_hot": 2716065,
@@ -41,6 +41,14 @@
       "onboard_time": 1744946121,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1351861,
+      "num": 1351861,
+      "word": "特朗普撑不住暗示降低对华关税",
+      "onboard_time": 1744957223,
+      "rank": 0,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1337043,
@@ -89,6 +97,14 @@
       "onboard_time": 1744933219,
       "rank": 0,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 956076,
+      "num": 956076,
+      "word": "王楚钦vs杜达",
+      "onboard_time": 1744954101,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 901179,
@@ -179,6 +195,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 693411,
+      "num": 366663,
+      "word": "孙恩盛直播时突然缺氧和躯体化",
+      "onboard_time": 1744955002,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 661985,
       "num": 423146,
       "word": "张檬生小孩后一点变化没有",
@@ -195,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 604805,
+      "num": 604805,
+      "word": "三体 胡歌",
+      "onboard_time": 1744955481,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
       "raw_hot": 603911,
       "num": 603911,
       "word": "爱马仕宣布在美国全线涨价",
@@ -209,6 +241,14 @@
       "onboard_time": 1744904722,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 555254,
+      "num": 555254,
+      "word": "古茗崩了",
+      "onboard_time": 1744954042,
+      "rank": 36,
+      "category": "美食,游戏"
     },
     {
       "raw_hot": 546490,
@@ -249,6 +289,14 @@
       "onboard_time": 1744946841,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 491741,
+      "num": 339977,
+      "word": "张伦硕否认为了钱接近钟丽缇",
+      "onboard_time": 1744953502,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 481643,
@@ -305,6 +353,14 @@
       "onboard_time": 1744953142,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 427069,
+      "num": 427069,
+      "word": "以为巨长胖实际能减肥的食物",
+      "onboard_time": 1744955902,
+      "rank": 8,
+      "category": "健康医疗,美食"
     },
     {
       "raw_hot": 422271,
@@ -435,20 +491,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 324963,
+      "num": 324963,
+      "word": "aespa四人四封",
+      "onboard_time": 1744956681,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 310696,
       "num": 310696,
       "word": "25岁裸辞后找了个上1休1的工作",
       "onboard_time": 1744893562,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 295533,
-      "num": 295532,
-      "word": "张伦硕否认为了钱接近钟丽缇",
-      "onboard_time": 1744953502,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 291012,
@@ -539,6 +595,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 248437,
+      "num": 243290,
+      "word": "吴宣仪二公个人第一",
+      "onboard_time": 1744954761,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 246040,
       "num": 246040,
       "word": "多地气温满30减10",
@@ -547,20 +611,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 244446,
+      "num": 244446,
+      "word": "王楚钦4比3杜达",
+      "onboard_time": 1744957702,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 244434,
       "num": 244434,
       "word": "丁程鑫发博安慰粉丝",
       "onboard_time": 1744897402,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 240658,
-      "num": 298320,
-      "word": "王楚钦vs杜达",
-      "onboard_time": 1744954101,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 237799,
@@ -593,6 +657,14 @@
       "onboard_time": 1744946901,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 227151,
+      "num": 240953,
+      "word": "李晟回应上热一的感觉",
+      "onboard_time": 1744957281,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 222433,
@@ -707,6 +779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194137,
+      "num": 236599,
+      "word": "乘风三公",
+      "onboard_time": 1744956383,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193083,
       "num": 391905,
       "word": "蓄水期抢跑计划",
@@ -763,12 +843,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176609,
+      "num": 176609,
+      "word": "刘涛时隔19年再演白素贞",
+      "onboard_time": 1744953622,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 174050,
       "num": 206986,
       "word": "许连捷去世",
       "onboard_time": 1744941381,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 173730,
+      "num": 165529,
+      "word": "侯佩岑组听到陈德容加入的表情",
+      "onboard_time": 1744957761,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 172363,
@@ -787,6 +883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 168355,
+      "num": 168355,
+      "word": "美国女警儿子在大学开枪杀人",
+      "onboard_time": 1744956383,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 167564,
       "num": 219024,
       "word": "Doinb称赞Tian",
@@ -801,6 +905,14 @@
       "onboard_time": 1744939460,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166327,
+      "num": 166327,
+      "word": "李一桐初代仙女施法手势",
+      "onboard_time": 1744955783,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 165128,
@@ -833,6 +945,14 @@
       "onboard_time": 1744901423,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 160529,
+      "num": 160529,
+      "word": "伍娘内娱掌公主",
+      "onboard_time": 1744957642,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 159614,
@@ -899,12 +1019,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 152491,
-      "num": 152491,
-      "word": "古茗崩了",
-      "onboard_time": 1744954042,
-      "rank": 36,
-      "category": "美食,游戏"
+      "raw_hot": 152243,
+      "num": 152243,
+      "word": "G社是林志玲站姐吧",
+      "onboard_time": 1744954282,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 150131,
@@ -929,14 +1049,6 @@
       "onboard_time": 1744950143,
       "rank": 45,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 148479,
-      "num": 148479,
-      "word": "G社是林志玲站姐吧",
-      "onboard_time": 1744954282,
-      "rank": 40,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 148373,
@@ -969,6 +1081,14 @@
       "onboard_time": 1744950082,
       "rank": 2,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 147530,
+      "num": 160691,
+      "word": "IU 给粉丝隔空投送自拍",
+      "onboard_time": 1744957163,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 146514,
@@ -1043,6 +1163,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 137470,
+      "num": 137470,
+      "word": "苹果特斯拉星巴克市场被蚕食",
+      "onboard_time": 1744954941,
+      "rank": 38,
+      "category": "互联网,数码"
+    },
+    {
       "raw_hot": 136824,
       "num": 136824,
       "word": "张檬产前vs产后",
@@ -1067,12 +1195,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 134419,
+      "num": 130503,
+      "word": "鬼鬼公开冻卵的整个过程",
+      "onboard_time": 1744957882,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 132274,
+      "num": 132274,
+      "word": "肖战初夏粉衬衫",
+      "onboard_time": 1744956502,
+      "rank": 39,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 131642,
       "num": 131642,
       "word": "冯彦哲 搭档",
       "onboard_time": 1744954522,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130701,
+      "num": 149364,
+      "word": "日本埼玉女高中生遇害",
+      "onboard_time": 1744954822,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 129449,
@@ -1091,14 +1243,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 128316,
-      "num": 128316,
-      "word": "吴宣仪二公个人第一",
-      "onboard_time": 1744954761,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 127827,
       "num": 195188,
       "word": "秦彻至心栖之处",
@@ -1113,6 +1257,14 @@
       "onboard_time": 1744940601,
       "rank": 33,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 125064,
+      "num": 125064,
+      "word": "郭艾伦首次回应眼睛受伤",
+      "onboard_time": 1744955063,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 123528,
@@ -1139,12 +1291,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120306,
+      "num": 233638,
+      "word": "梁靖崑进世界杯四强",
+      "onboard_time": 1744956802,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120152,
-      "num": 120152,
+      "num": 120215,
       "word": "王楚钦说变老了呗",
       "onboard_time": 1744952424,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119981,
+      "num": 188660,
+      "word": "你常吃的这种面包是促炎高手",
+      "onboard_time": 1744953622,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 118978,
@@ -1331,14 +1499,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 80283,
-      "num": 188660,
-      "word": "你常吃的这种面包是促炎高手",
-      "onboard_time": 1744953622,
-      "rank": 28,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 78557,
       "num": 78557,
       "word": "美国人来华扫货消费金额短期暴涨",
@@ -1451,6 +1611,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 57912,
+      "num": 234266,
+      "word": "美国一退伍军人劫持飞机刺伤乘客",
+      "onboard_time": 1744957821,
+      "rank": 22,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 57352,
       "num": 81131,
       "word": "折腰",
@@ -1547,14 +1715,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 45940,
-      "num": 149364,
-      "word": "日本埼玉女高中生遇害",
-      "onboard_time": 1744954822,
-      "rank": 38,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 45458,
       "num": 65781,
       "word": "澳门世界杯8强对阵",
@@ -1569,6 +1729,14 @@
       "onboard_time": 1744910297,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42395,
+      "num": 238395,
+      "word": "韩决定明年不再扩招医学生",
+      "onboard_time": 1744957041,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 42143,
