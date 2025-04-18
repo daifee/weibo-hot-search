@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744996913624,
+  "endTime": 1744997971685,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -53579,6 +53579,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 59118,
+      "num": 59118,
+      "word": "陈德容对吴宣仪的爱是手放开",
+      "onboard_time": 1744997597,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 59100,
       "num": 175153,
       "word": "韩国人为何钟爱张家界山水",
@@ -54611,6 +54619,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 50492,
+      "num": 66154,
+      "word": "丁禹兮音乐节粉丝应援",
+      "onboard_time": 1744996699,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 50408,
       "num": 327597,
       "word": "安慰别人时要克制表达欲",
@@ -54649,14 +54665,6 @@
       "onboard_time": 1744975823,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 50196,
-      "num": 66154,
-      "word": "丁禹兮音乐节粉丝应援",
-      "onboard_time": 1744996699,
-      "rank": 45,
-      "category": "演出"
     },
     {
       "raw_hot": 50086,
@@ -54785,6 +54793,14 @@
       "onboard_time": 1743625213,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 49552,
+      "num": 49552,
+      "word": "那英没走红毯",
+      "onboard_time": 1744997178,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 49488,
@@ -55153,6 +55169,14 @@
       "onboard_time": 1744153879,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 46767,
+      "num": 46767,
+      "word": "李健新歌摇滚起来了",
+      "onboard_time": 1744997357,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 46765,
