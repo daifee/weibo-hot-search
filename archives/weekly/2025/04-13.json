@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744975225810,
+  "endTime": 1744976190459,
   "band_list": [
     {
       "raw_hot": 10606514,
@@ -2995,6 +2995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 541055,
+      "num": 541055,
+      "word": "德国人买了中国制造后开始疯狂安利",
+      "onboard_time": 1744970540,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 539195,
       "num": 539195,
       "word": "特朗普用收税威胁哈佛道歉",
@@ -3204,7 +3212,7 @@
     },
     {
       "raw_hot": 503374,
-      "num": 361601,
+      "num": 495969,
       "word": "浪姐团建看张杰演唱会",
       "onboard_time": 1744974022,
       "rank": 10,
@@ -3329,14 +3337,6 @@
       "onboard_time": 1744873761,
       "rank": 31,
       "category": "网红"
-    },
-    {
-      "raw_hot": 485802,
-      "num": 485802,
-      "word": "德国人买了中国制造后开始疯狂安利",
-      "onboard_time": 1744970540,
-      "rank": 32,
-      "category": "国际时政"
     },
     {
       "raw_hot": 480643,
@@ -4571,6 +4571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 352601,
+      "num": 352601,
+      "word": "雨中北影节红毯星光璀璨",
+      "onboard_time": 1744971800,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 351451,
       "num": 197368,
       "word": "知情人回应网红小猫悟空去世",
@@ -4811,6 +4819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 329521,
+      "num": 329521,
+      "word": "陈德容 我没有跳个大概",
+      "onboard_time": 1744975101,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 329379,
       "num": 475579,
       "word": "女子收养女婴10年仍是黑户",
@@ -4937,14 +4953,6 @@
       "onboard_time": 1744634423,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 318327,
-      "num": 318327,
-      "word": "雨中北影节红毯星光璀璨",
-      "onboard_time": 1744971800,
-      "rank": 40,
-      "category": "电影"
     },
     {
       "raw_hot": 317601,
@@ -6555,6 +6563,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 231058,
+      "num": 231058,
+      "word": "孙颖莎救球太强了",
+      "onboard_time": 1744975762,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 230910,
       "num": 230910,
       "word": "胡兵坐轮椅五国机场无障碍测评",
@@ -7971,6 +7987,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202463,
+      "num": 202463,
+      "word": "为什么王楚钦打德国选手很艰难",
+      "onboard_time": 1744973783,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 202296,
+      "num": 202296,
+      "word": "朱一龙好帅",
+      "onboard_time": 1744973182,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 202104,
       "num": 202104,
       "word": "问界M8价格",
@@ -8419,6 +8451,14 @@
       "category": "网红,民生新闻"
     },
     {
+      "raw_hot": 196879,
+      "num": 196879,
+      "word": "张杰演唱会",
+      "onboard_time": 1744975281,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 196767,
       "num": 179088,
       "word": "黄仁勋称希望将继续与中国合作",
@@ -8601,6 +8641,14 @@
       "onboard_time": 1744860141,
       "rank": 42,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 193709,
+      "num": 193709,
+      "word": "孙颖莎4比1郑怡静",
+      "onboard_time": 1744974862,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 193636,
@@ -9155,14 +9203,6 @@
       "category": "教育,艺人"
     },
     {
-      "raw_hot": 186854,
-      "num": 186854,
-      "word": "孙颖莎4比1郑怡静",
-      "onboard_time": 1744974862,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 186736,
       "num": 186736,
       "word": "日本人看到中国馆走不动道了",
@@ -9233,6 +9273,14 @@
       "onboard_time": 1744607065,
       "rank": 18,
       "category": "财经"
+    },
+    {
+      "raw_hot": 185977,
+      "num": 185977,
+      "word": "折腰名字改回来了",
+      "onboard_time": 1744974862,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 185882,
@@ -9321,14 +9369,6 @@
       "onboard_time": 1744521082,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 184662,
-      "num": 184662,
-      "word": "为什么王楚钦打德国选手很艰难",
-      "onboard_time": 1744973783,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 184635,
@@ -9971,6 +10011,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 175519,
+      "num": 361712,
+      "word": "林诗栋vs莫雷加德",
+      "onboard_time": 1744974202,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175508,
       "num": 291104,
       "word": "小鹏X9很香",
@@ -10449,14 +10497,6 @@
       "onboard_time": 1744694004,
       "rank": 46,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 168320,
-      "num": 168320,
-      "word": "朱一龙好帅",
-      "onboard_time": 1744973182,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 168094,
@@ -11169,14 +11209,6 @@
       "onboard_time": 1744731921,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 159269,
-      "num": 159269,
-      "word": "陈德容 我没有跳个大概",
-      "onboard_time": 1744975101,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 159195,
@@ -12163,6 +12195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146873,
+      "num": 146873,
+      "word": "十个勤天经纪公司持有40%股权",
+      "onboard_time": 1744975582,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146841,
       "num": 146841,
       "word": "ONER结拜",
@@ -12209,6 +12249,14 @@
       "onboard_time": 1744706122,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146475,
+      "num": 218216,
+      "word": "建议查查这帮喜剧人的精神状态",
+      "onboard_time": 1744975281,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 146465,
@@ -12425,6 +12473,14 @@
       "onboard_time": 1744853601,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 144968,
+      "num": 144968,
+      "word": "朱珠写长文回应钟汉良粉丝",
+      "onboard_time": 1744974802,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 144950,
@@ -13955,6 +14011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130657,
+      "num": 130657,
+      "word": "买买买买外国人来华买买买买",
+      "onboard_time": 1744976062,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130568,
       "num": 130568,
       "word": "阿拉维斯vs皇马",
@@ -14361,14 +14425,6 @@
       "onboard_time": 1744634423,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 126250,
-      "num": 126250,
-      "word": "折腰名字改回来了",
-      "onboard_time": 1744974862,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 126177,
@@ -15072,14 +15128,6 @@
       "word": "何依婷官宣生女",
       "onboard_time": 1744973362,
       "rank": 48,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 119079,
-      "num": 119079,
-      "word": "朱珠写长文回应钟汉良粉丝",
-      "onboard_time": 1744974802,
-      "rank": 49,
       "category": "艺人"
     },
     {
@@ -16659,6 +16707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97783,
+      "num": 203105,
+      "word": "女子没输密码验证码却被转走12万",
+      "onboard_time": 1744975881,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97732,
       "num": 97732,
       "word": "人类驯服飞机的珍贵影像",
@@ -16865,14 +16921,6 @@
       "onboard_time": 1744669996,
       "rank": 48,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 93619,
-      "num": 361712,
-      "word": "林诗栋vs莫雷加德",
-      "onboard_time": 1744974202,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 93558,
@@ -17265,6 +17313,14 @@
       "onboard_time": 1744948101,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 84559,
+      "num": 149017,
+      "word": "中方回应泽连斯基涉华言论",
+      "onboard_time": 1744975161,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 84515,
@@ -18523,14 +18579,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 59255,
-      "num": 147116,
-      "word": "中方回应泽连斯基涉华言论",
-      "onboard_time": 1744975161,
-      "rank": 36,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 59211,
       "num": 240039,
       "word": "美国在中东形成双航母打击群",
@@ -18944,6 +18992,14 @@
       "word": "雨果4比1篠塚大登",
       "onboard_time": 1744899563,
       "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 50294,
+      "num": 194125,
+      "word": "王楚钦手锤胸口",
+      "onboard_time": 1744975823,
+      "rank": 28,
       "category": "体育"
     },
     {
@@ -19851,6 +19907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38135,
+      "num": 211664,
+      "word": "你觉得太阳系外存在生命吗",
+      "onboard_time": 1744974982,
+      "rank": 28,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 38014,
       "num": 46239,
       "word": "荣耀之战",
@@ -19913,6 +19977,14 @@
       "onboard_time": 1744862361,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 37002,
+      "num": 149058,
+      "word": "中考体育800米跑步技巧",
+      "onboard_time": 1744975881,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 36904,
@@ -20467,6 +20539,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 27157,
+      "num": 149056,
+      "word": "人怎么可以勇成这个样子",
+      "onboard_time": 1744975701,
+      "rank": 38,
+      "category": "情感,民生新闻"
+    },
+    {
       "raw_hot": 26818,
       "num": 146221,
       "word": "日本新宿一女子攻击路人",
@@ -20601,6 +20681,14 @@
       "onboard_time": 1744966040,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 25494,
+      "num": 195000,
+      "word": "北京亦庄人形机器人半马",
+      "onboard_time": 1744975881,
+      "rank": 27,
+      "category": "互联网"
     },
     {
       "raw_hot": 25467,
@@ -21019,14 +21107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 20277,
-      "num": 185567,
-      "word": "你觉得太阳系外存在生命吗",
-      "onboard_time": 1744974982,
-      "rank": 28,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 20267,
       "num": 191145,
       "word": "王曼昱说听到好多男声加油",
@@ -21419,6 +21499,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 15060,
+      "num": 149036,
+      "word": "伊朗迎接沙特国防大臣",
+      "onboard_time": 1744974982,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 15009,
       "num": 20630,
       "word": "美关税乱政成了马戏表演",
@@ -21585,14 +21673,6 @@
       "onboard_time": 1744972399,
       "rank": 39,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 12345,
-      "num": 144506,
-      "word": "伊朗迎接沙特国防大臣",
-      "onboard_time": 1744974982,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 12091,
