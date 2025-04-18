@@ -1,0 +1,410 @@
+{
+  "runTime": 1744950527015,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1431932,
+        "num": 1431932,
+        "word": "古茗排队",
+        "onboard_time": 1744944981,
+        "rank": 0,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 1345941,
+        "num": 1345941,
+        "word": "女子用250元侮辱性红包付抚养费",
+        "onboard_time": 1744946121,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56269,
+        "num": 1248386,
+        "word": "美国军民企业高度依赖中国稀土",
+        "onboard_time": 1744950082,
+        "rank": 2,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1805345,
+        "num": 1245661,
+        "word": "日本多地发生无差别杀人事件",
+        "onboard_time": 1744945102,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1242033,
+        "num": 1242033,
+        "word": "贾玲 王牌对王牌",
+        "onboard_time": 1744947622,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 613343,
+        "num": 1076387,
+        "word": "这种手机充电方式很危险",
+        "onboard_time": 1744943240,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 998546,
+        "num": 998546,
+        "word": "王牌对王牌 原班人马",
+        "onboard_time": 1744943060,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 773643,
+        "num": 773643,
+        "word": "乖乖女导演又拍出了救赎天花板",
+        "onboard_time": 1744946541,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 436043,
+        "num": 436043,
+        "word": "CBA官方严重警告山西男篮",
+        "onboard_time": 1744948762,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 397138,
+        "num": 397138,
+        "word": "美国人喜欢的三蹦子可能要断货了",
+        "onboard_time": 1744933219,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1662071,
+        "num": 396725,
+        "word": "薛凯琪谈方大同去世",
+        "onboard_time": 1744948703,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 716465,
+        "num": 395905,
+        "word": "湖南机场集团董事长涉嫌性侵",
+        "onboard_time": 1744948585,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 556790,
+        "num": 395701,
+        "word": "警方通报江西杀害夫妻2人嫌犯被抓",
+        "onboard_time": 1744936460,
+        "rank": 12,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 406337,
+        "num": 394806,
+        "word": "鬼鬼产后一天只吃一餐",
+        "onboard_time": 1744937422,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66893,
+        "num": 394253,
+        "word": "棉花糖爸爸与寻找19年女儿今日相见",
+        "onboard_time": 1744946541,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29575,
+        "num": 393853,
+        "word": "首发经济点亮消博会",
+        "onboard_time": 1744948703,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 405459,
+        "num": 393366,
+        "word": "张檬生小孩后一点变化没有",
+        "onboard_time": 1744944440,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 392772,
+        "num": 392772,
+        "word": "我承认对无忧渡编剧声音太大了",
+        "onboard_time": 1744946901,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 388741,
+        "num": 388741,
+        "word": "喝不喝咖啡身体3个差距很明显",
+        "onboard_time": 1744944141,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 343548,
+        "num": 387269,
+        "word": "柯淳演许仙",
+        "onboard_time": 1744949483,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 387237,
+        "num": 387237,
+        "word": "西湖边松鼠被游客投喂成松猪",
+        "onboard_time": 1744946841,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 364872,
+        "num": 364872,
+        "word": "霸王茶姬",
+        "onboard_time": 1744941199,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 334442,
+        "num": 334442,
+        "word": "赵丽颖蕾丝吊带长裙",
+        "onboard_time": 1744947321,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 253648,
+        "num": 253648,
+        "word": "谢娜夜骑到鸟巢给张杰送玫瑰花",
+        "onboard_time": 1744904422,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 111368,
+        "num": 219024,
+        "word": "Doinb称赞Tian",
+        "onboard_time": 1744946782,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 206216,
+        "num": 206216,
+        "word": "李耕耘古乐风华录",
+        "onboard_time": 1744949902,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198833,
+        "num": 198833,
+        "word": "国色芳华现象级作品",
+        "onboard_time": 1744946901,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77761,
+        "num": 197712,
+        "word": "金泰妍发泡泡道歉",
+        "onboard_time": 1744946001,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 75066,
+        "num": 197117,
+        "word": "宝妈哺乳期内被辞退获赔8万",
+        "onboard_time": 1744948943,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130934,
+        "num": 194359,
+        "word": "电影学院女大学生失联已近1个月",
+        "onboard_time": 1744949242,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233104,
+        "num": 192239,
+        "word": "市长来1小时你耽误他10分钟",
+        "onboard_time": 1744933281,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202226,
+        "num": 191650,
+        "word": "薛凯琪不想自己的状态麻烦他人",
+        "onboard_time": 1744946841,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190465,
+        "num": 190465,
+        "word": "潍坊风筝节惊现人形道歉信",
+        "onboard_time": 1744946841,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 164568,
+        "num": 164568,
+        "word": "96名业主自筹千万烂尾楼复工",
+        "onboard_time": 1744936161,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163665,
+        "num": 163665,
+        "word": "无尽的尽头定档",
+        "onboard_time": 1744949242,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161899,
+        "num": 161899,
+        "word": "张新成演技",
+        "onboard_time": 1744942040,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152828,
+        "num": 160862,
+        "word": "高低音被希林娜依高玩明白了",
+        "onboard_time": 1744947202,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 160491,
+        "num": 160491,
+        "word": "美国提出乌领土分割方案",
+        "onboard_time": 1744935200,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 157621,
+        "num": 157621,
+        "word": "男子诬告同事是间谍",
+        "onboard_time": 1744943240,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151317,
+        "num": 151317,
+        "word": "张杰一手抱花一手抱谢娜",
+        "onboard_time": 1744936882,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150131,
+        "num": 150131,
+        "word": "好莱坞开始为美国关税买单",
+        "onboard_time": 1744947022,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 66573,
+        "num": 149222,
+        "word": "中国制造的工程机械连样机都被抢空了",
+        "onboard_time": 1744950503,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148564,
+        "num": 148564,
+        "word": "90后男子搬砖9年攒下200万",
+        "onboard_time": 1744933879,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147761,
+        "num": 147761,
+        "word": "8月龄仅6斤重女婴父亲发声",
+        "onboard_time": 1744940660,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145541,
+        "num": 145541,
+        "word": "大疆水印 电子内裤边边",
+        "onboard_time": 1744940601,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 145375,
+        "num": 145375,
+        "word": "特朗普关税政策正在损害美国品牌",
+        "onboard_time": 1744950143,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 81563,
+        "num": 141530,
+        "word": "经济霸凌损害美国国家信誉",
+        "onboard_time": 1744949062,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 140940,
+        "num": 140940,
+        "word": "乘风2025",
+        "onboard_time": 1744949963,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140630,
+        "num": 140630,
+        "word": "腾讯片单",
+        "onboard_time": 1744950444,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131819,
+        "num": 131819,
+        "word": "撕拉片 女明星肉眼看到的样子",
+        "onboard_time": 1744950383,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#构建新时代全天候中柬命运共同体#"
+    }
+  }
+}

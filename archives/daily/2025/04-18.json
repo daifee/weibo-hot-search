@@ -1,10 +1,10 @@
 {
   "startTime": 1744907462255,
-  "endTime": 1744948147941,
+  "endTime": 1744950527015,
   "band_list": [
     {
       "raw_hot": 2197914,
-      "num": 1029027,
+      "num": 1245661,
       "word": "日本多地发生无差别杀人事件",
       "onboard_time": 1744945102,
       "rank": 4,
@@ -19,11 +19,35 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1662071,
+      "num": 396725,
+      "word": "薛凯琪谈方大同去世",
+      "onboard_time": 1744948703,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1345941,
+      "num": 1345941,
+      "word": "女子用250元侮辱性红包付抚养费",
+      "onboard_time": 1744946121,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1337043,
       "num": 1337043,
       "word": "王牌对王牌 原班人马",
       "onboard_time": 1744943060,
       "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1242033,
+      "num": 1242033,
+      "word": "贾玲 王牌对王牌",
+      "onboard_time": 1744947622,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -76,7 +100,7 @@
     },
     {
       "raw_hot": 894432,
-      "num": 894432,
+      "num": 1076387,
       "word": "这种手机充电方式很危险",
       "onboard_time": 1744943240,
       "rank": 5,
@@ -89,6 +113,14 @@
       "onboard_time": 1744904422,
       "rank": 10,
       "category": "演出"
+    },
+    {
+      "raw_hot": 773643,
+      "num": 773643,
+      "word": "乖乖女导演又拍出了救赎天花板",
+      "onboard_time": 1744946541,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 756052,
@@ -112,6 +144,14 @@
       "word": "医院回应女子微创手术后脑死亡",
       "onboard_time": 1744906400,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 716465,
+      "num": 395905,
+      "word": "湖南机场集团董事长涉嫌性侵",
+      "onboard_time": 1744948585,
+      "rank": 11,
       "category": "民生新闻"
     },
     {
@@ -145,14 +185,6 @@
       "onboard_time": 1744944440,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 659858,
-      "num": 659858,
-      "word": "乖乖女导演又拍出了救赎天花板",
-      "onboard_time": 1744946541,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 619368,
@@ -243,6 +275,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 436043,
+      "num": 436043,
+      "word": "CBA官方严重警告山西男篮",
+      "onboard_time": 1744948762,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 422271,
       "num": 422271,
       "word": "男子诬告同事是间谍",
@@ -283,6 +323,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 392772,
+      "num": 392772,
+      "word": "我承认对无忧渡编剧声音太大了",
+      "onboard_time": 1744946901,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 387237,
+      "num": 387237,
+      "word": "西湖边松鼠被游客投喂成松猪",
+      "onboard_time": 1744946841,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 380137,
       "num": 258116,
       "word": "市长来1小时你耽误他10分钟",
@@ -297,14 +353,6 @@
       "onboard_time": 1744905500,
       "rank": 8,
       "category": "国际时政,互联网"
-    },
-    {
-      "raw_hot": 363599,
-      "num": 363599,
-      "word": "女子用250元侮辱性红包付抚养费",
-      "onboard_time": 1744946121,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 358567,
@@ -329,6 +377,22 @@
       "onboard_time": 1744903523,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 343548,
+      "num": 387269,
+      "word": "柯淳演许仙",
+      "onboard_time": 1744949483,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 334442,
+      "num": 334442,
+      "word": "赵丽颖蕾丝吊带长裙",
+      "onboard_time": 1744947321,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 327843,
@@ -451,14 +515,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 236640,
-      "num": 219795,
-      "word": "赵丽颖蕾丝吊带长裙",
-      "onboard_time": 1744947321,
-      "rank": 26,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 230775,
       "num": 245010,
       "word": "震耳欲聋",
@@ -472,14 +528,6 @@
       "word": "国色芳华现象级作品",
       "onboard_time": 1744946901,
       "rank": 25,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 229671,
-      "num": 229671,
-      "word": "我承认对无忧渡编剧声音太大了",
-      "onboard_time": 1744946901,
-      "rank": 24,
       "category": "剧集"
     },
     {
@@ -497,6 +545,14 @@
       "onboard_time": 1744947741,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206216,
+      "num": 206216,
+      "word": "李耕耘古乐风华录",
+      "onboard_time": 1744949902,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 206035,
@@ -529,22 +585,6 @@
       "onboard_time": 1744945041,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 196503,
-      "num": 363660,
-      "word": "西湖边松鼠被游客投喂成松猪",
-      "onboard_time": 1744946841,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 196152,
-      "num": 196152,
-      "word": "贾玲 王牌对王牌",
-      "onboard_time": 1744947622,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 192588,
@@ -596,7 +636,7 @@
     },
     {
       "raw_hot": 167564,
-      "num": 167564,
+      "num": 219024,
       "word": "Doinb称赞Tian",
       "onboard_time": 1744946782,
       "rank": 36,
@@ -617,6 +657,14 @@
       "onboard_time": 1744917673,
       "rank": 39,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 163665,
+      "num": 163665,
+      "word": "无尽的尽头定档",
+      "onboard_time": 1744949242,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 160588,
@@ -659,6 +707,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152828,
+      "num": 163186,
+      "word": "高低音被希林娜依高玩明白了",
+      "onboard_time": 1744947202,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 150131,
+      "num": 417767,
+      "word": "好莱坞开始为美国关税买单",
+      "onboard_time": 1744947022,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 149815,
       "num": 149815,
       "word": "A股",
@@ -681,6 +745,14 @@
       "onboard_time": 1744900224,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 145375,
+      "num": 145375,
+      "word": "特朗普关税政策正在损害美国品牌",
+      "onboard_time": 1744950143,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 145109,
@@ -707,6 +779,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 140940,
+      "num": 140940,
+      "word": "乘风2025",
+      "onboard_time": 1744949963,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 140630,
+      "num": 140630,
+      "word": "腾讯片单",
+      "onboard_time": 1744950444,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136824,
       "num": 136824,
       "word": "张檬产前vs产后",
@@ -720,6 +808,22 @@
       "word": "在中国住了40年的老外劝诫美国",
       "onboard_time": 1744935082,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131819,
+      "num": 131819,
+      "word": "撕拉片 女明星肉眼看到的样子",
+      "onboard_time": 1744950383,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 130934,
+      "num": 194359,
+      "word": "电影学院女大学生失联已近1个月",
+      "onboard_time": 1744949242,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -835,14 +939,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 102237,
-      "num": 417767,
-      "word": "好莱坞开始为美国关税买单",
-      "onboard_time": 1744947022,
-      "rank": 14,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 100669,
       "num": 100669,
       "word": "男生回应春招时向市长自荐",
@@ -883,14 +979,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 91275,
-      "num": 163186,
-      "word": "高低音被希林娜依高玩明白了",
-      "onboard_time": 1744947202,
-      "rank": 37,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 88218,
       "num": 88218,
       "word": "港股今天休市",
@@ -916,7 +1004,7 @@
     },
     {
       "raw_hot": 84007,
-      "num": 84007,
+      "num": 197712,
       "word": "金泰妍发泡泡道歉",
       "onboard_time": 1744946001,
       "rank": 47,
@@ -947,6 +1035,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 81563,
+      "num": 141530,
+      "word": "经济霸凌损害美国国家信誉",
+      "onboard_time": 1744949062,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 81385,
       "num": 81385,
       "word": "小天与Doinb碰拳",
@@ -971,6 +1067,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 75066,
+      "num": 197117,
+      "word": "宝妈哺乳期内被辞退获赔8万",
+      "onboard_time": 1744948943,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74830,
       "num": 81186,
       "word": "无忧渡少爷第一次带姑娘来",
@@ -993,6 +1097,22 @@
       "onboard_time": 1744932680,
       "rank": 34,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 66893,
+      "num": 394253,
+      "word": "棉花糖爸爸与寻找19年女儿今日相见",
+      "onboard_time": 1744946541,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66573,
+      "num": 149222,
+      "word": "中国制造的工程机械连样机都被抢空了",
+      "onboard_time": 1744950503,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 66454,
@@ -1057,6 +1177,14 @@
       "onboard_time": 1744894402,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 56269,
+      "num": 1248386,
+      "word": "美国军民企业高度依赖中国稀土",
+      "onboard_time": 1744950082,
+      "rank": 2,
+      "category": "国际时政"
     },
     {
       "raw_hot": 56233,
@@ -1201,6 +1329,14 @@
       "onboard_time": 1744911196,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 29575,
+      "num": 393853,
+      "word": "首发经济点亮消博会",
+      "onboard_time": 1744948703,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29056,
@@ -1348,6 +1484,9 @@
     },
     {
       "word": "#习近平会见洪森#"
+    },
+    {
+      "word": "#构建新时代全天候中柬命运共同体#"
     }
   ]
 }
