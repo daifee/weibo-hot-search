@@ -1,0 +1,410 @@
+{
+  "runTime": 1744980367257,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1190007,
+        "num": 1190401,
+        "word": "中国被曝已不再生产出口美国的玩具",
+        "onboard_time": 1744958962,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 614519,
+        "num": 614519,
+        "word": "陈德容 我没有跳个大概",
+        "onboard_time": 1744975101,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85447,
+        "num": 604970,
+        "word": "滥施关税挡不住中国制造",
+        "onboard_time": 1744966101,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 601399,
+        "num": 601399,
+        "word": "日本多地发生无差别杀人事件",
+        "onboard_time": 1744945102,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 505812,
+        "num": 505812,
+        "word": "折腰名字改回来了",
+        "onboard_time": 1744974862,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 494083,
+        "num": 494083,
+        "word": "王曼昱vs蒯曼",
+        "onboard_time": 1744978041,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 451639,
+        "num": 451639,
+        "word": "为什么王楚钦打德国选手很艰难",
+        "onboard_time": 1744973783,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 430843,
+        "num": 430843,
+        "word": "网瘾少年专升本考研上岸中南大学",
+        "onboard_time": 1744976362,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 361857,
+        "num": 361857,
+        "word": "女子没输密码验证码却被转走12万",
+        "onboard_time": 1744975881,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86338,
+        "num": 337774,
+        "word": "男生回应从网瘾少年专升本考研985",
+        "onboard_time": 1744979182,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 939030,
+        "num": 333547,
+        "word": "孙珍妮回应脸肿",
+        "onboard_time": 1744978041,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 417127,
+        "num": 333290,
+        "word": "北大42岁副教授陈昊去世",
+        "onboard_time": 1744978523,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 328067,
+        "num": 328067,
+        "word": "日本",
+        "onboard_time": 1744979242,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 326115,
+        "num": 326115,
+        "word": "林诗栋20比18莫雷加德",
+        "onboard_time": 1744978102,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 263401,
+        "num": 263401,
+        "word": "张杰演唱会",
+        "onboard_time": 1744975281,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 265892,
+        "num": 261685,
+        "word": "朱一龙吴磊檀健次贺峻霖怼脸生图",
+        "onboard_time": 1744979661,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 317351,
+        "num": 260313,
+        "word": "王鹤棣 别整那些播不了的",
+        "onboard_time": 1744978041,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167012,
+        "num": 255540,
+        "word": "高速突然爆胎如何应对",
+        "onboard_time": 1744979902,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 254053,
+        "num": 254053,
+        "word": "德国人买了中国制造后开始疯狂安利",
+        "onboard_time": 1744970540,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 13628,
+        "num": 242961,
+        "word": "为什么罗云熙的歌能在太空播放",
+        "onboard_time": 1744979422,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1347576,
+        "num": 238762,
+        "word": "猫一杯案开庭",
+        "onboard_time": 1744967900,
+        "rank": 20,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 233342,
+        "num": 233342,
+        "word": "心软一次被行业禁入两年",
+        "onboard_time": 1744978402,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211529,
+        "num": 211529,
+        "word": "外交部回应泽连斯基宣称中国向俄军援",
+        "onboard_time": 1744964901,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 204169,
+        "num": 204169,
+        "word": "结节真的是被气出来的吗",
+        "onboard_time": 1744979722,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 203085,
+        "num": 203085,
+        "word": "雨中北影节红毯星光璀璨",
+        "onboard_time": 1744971800,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 191565,
+        "num": 191565,
+        "word": "虞书欣哭戏",
+        "onboard_time": 1744979722,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179809,
+        "num": 179809,
+        "word": "浪姐团建看张杰演唱会",
+        "onboard_time": 1744974022,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 45156,
+        "num": 179798,
+        "word": "伞兵蝉联狼王",
+        "onboard_time": 1744979962,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 57555,
+        "num": 179788,
+        "word": "武大华科强基计划重磅发布",
+        "onboard_time": 1744979842,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 70675,
+        "num": 179771,
+        "word": "JDG周决开门红",
+        "onboard_time": 1744979782,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 215463,
+        "num": 179737,
+        "word": "剑网3送肥啾啦",
+        "onboard_time": 1744979062,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 185386,
+        "num": 179721,
+        "word": "双轨我承认之前对你声音大了点",
+        "onboard_time": 1744979902,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179713,
+        "num": 179713,
+        "word": "无忧渡热度",
+        "onboard_time": 1744979542,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176299,
+        "num": 176299,
+        "word": "张婧仪公主头",
+        "onboard_time": 1744979422,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 167712,
+        "num": 167712,
+        "word": "瑞思白",
+        "onboard_time": 1744979542,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166179,
+        "num": 166179,
+        "word": "高速上一轮胎滚进服务区撞人致死",
+        "onboard_time": 1744966220,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90888,
+        "num": 163851,
+        "word": "女子直播间买70余件玉器后被拉黑",
+        "onboard_time": 1744978462,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10594,
+        "num": 163415,
+        "word": "杭州7月承办中国男篮热身赛",
+        "onboard_time": 1744979062,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162988,
+        "num": 162988,
+        "word": "孙俪新剧收视第一",
+        "onboard_time": 1744978582,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159400,
+        "num": 159400,
+        "word": "折腰下证",
+        "onboard_time": 1744963939,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152504,
+        "num": 152504,
+        "word": "西安一民办小学被指校长曾获刑",
+        "onboard_time": 1744978161,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150350,
+        "num": 150350,
+        "word": "日本新宿一女子攻击路人",
+        "onboard_time": 1744974682,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 145427,
+        "num": 145427,
+        "word": "庄达菲 不可以离的这么近吗",
+        "onboard_time": 1744980142,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143694,
+        "num": 143694,
+        "word": "这锤子下去从三维干到二维了",
+        "onboard_time": 1744980202,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38567,
+        "num": 142748,
+        "word": "又让我在网上学到真东西了",
+        "onboard_time": 1744979122,
+        "rank": 44,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 142380,
+        "num": 142380,
+        "word": "谭卓带着她的美貌杀回来了",
+        "onboard_time": 1744980082,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136791,
+        "num": 136791,
+        "word": "无期迷途",
+        "onboard_time": 1744978102,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135553,
+        "num": 135553,
+        "word": "国常会指出要持续稳定股市",
+        "onboard_time": 1744978102,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 132113,
+        "num": 134290,
+        "word": "张婧仪拿着塑料袋走红毯",
+        "onboard_time": 1744970420,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133868,
+        "num": 133868,
+        "word": "李晟敏与SM不续约",
+        "onboard_time": 1744980202,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中马关系新的黄金50年#"
+    }
+  }
+}
