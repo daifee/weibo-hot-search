@@ -1,0 +1,410 @@
+{
+  "runTime": 1744948147941,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1897871,
+        "num": 1897871,
+        "word": "古茗排队",
+        "onboard_time": 1744944981,
+        "rank": 0,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 1285165,
+        "num": 1285165,
+        "word": "王牌对王牌 原班人马",
+        "onboard_time": 1744943060,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35420,
+        "num": 940206,
+        "word": "马来西亚榴莲如何来到中国餐桌",
+        "onboard_time": 1744896923,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2197914,
+        "num": 921308,
+        "word": "日本多地发生无差别杀人事件",
+        "onboard_time": 1744945102,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 807620,
+        "num": 807620,
+        "word": "这种手机充电方式很危险",
+        "onboard_time": 1744943240,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 659858,
+        "num": 659858,
+        "word": "乖乖女导演又拍出了救赎天花板",
+        "onboard_time": 1744946541,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 539177,
+        "num": 539177,
+        "word": "霸王茶姬",
+        "onboard_time": 1744941199,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 438595,
+        "num": 438595,
+        "word": "喝不喝咖啡身体3个差距很明显",
+        "onboard_time": 1744944141,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 423575,
+        "num": 423575,
+        "word": "三河市一地解除三色禁令",
+        "onboard_time": 1744943360,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107763,
+        "num": 423555,
+        "word": "特大地磁暴周末减弱",
+        "onboard_time": 1744945102,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 661985,
+        "num": 423146,
+        "word": "张檬生小孩后一点变化没有",
+        "onboard_time": 1744944440,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 557619,
+        "num": 422631,
+        "word": "警方通报江西杀害夫妻2人嫌犯被抓",
+        "onboard_time": 1744936460,
+        "rank": 11,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 479541,
+        "num": 422314,
+        "word": "鬼鬼产后一天只吃一餐",
+        "onboard_time": 1744937422,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 422271,
+        "num": 422271,
+        "word": "男子诬告同事是间谍",
+        "onboard_time": 1744943240,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102237,
+        "num": 417767,
+        "word": "好莱坞开始为美国关税买单",
+        "onboard_time": 1744947022,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 413467,
+        "num": 413467,
+        "word": "潍坊风筝节惊现人形道歉信",
+        "onboard_time": 1744946841,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 385058,
+        "num": 385058,
+        "word": "美国人喜欢的三蹦子可能要断货了",
+        "onboard_time": 1744933219,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 368203,
+        "num": 368203,
+        "word": "谢娜夜骑到鸟巢给张杰送玫瑰花",
+        "onboard_time": 1744904422,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 293954,
+        "num": 364111,
+        "word": "张新成演技",
+        "onboard_time": 1744942040,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196503,
+        "num": 363660,
+        "word": "西湖边松鼠被游客投喂成松猪",
+        "onboard_time": 1744946841,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 363599,
+        "num": 363599,
+        "word": "女子用250元侮辱性红包付抚养费",
+        "onboard_time": 1744946121,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 277517,
+        "num": 277517,
+        "word": "薛凯琪不想自己的状态麻烦他人",
+        "onboard_time": 1744946841,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272295,
+        "num": 272295,
+        "word": "大疆水印 电子内裤边边",
+        "onboard_time": 1744940601,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 241515,
+        "num": 241515,
+        "word": "美国提出乌领土分割方案",
+        "onboard_time": 1744935200,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 229671,
+        "num": 229671,
+        "word": "我承认对无忧渡编剧声音太大了",
+        "onboard_time": 1744946901,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229753,
+        "num": 224066,
+        "word": "国色芳华现象级作品",
+        "onboard_time": 1744946901,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236640,
+        "num": 219795,
+        "word": "赵丽颖蕾丝吊带长裙",
+        "onboard_time": 1744947321,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 208905,
+        "num": 208905,
+        "word": "王牌对王牌",
+        "onboard_time": 1744947741,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196152,
+        "num": 196152,
+        "word": "贾玲 王牌对王牌",
+        "onboard_time": 1744947622,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182748,
+        "num": 195727,
+        "word": "吉克隽逸内娱抽辣条第一人",
+        "onboard_time": 1744946422,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127827,
+        "num": 195188,
+        "word": "秦彻至心栖之处",
+        "onboard_time": 1744946901,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 209108,
+        "num": 194248,
+        "word": "市长来1小时你耽误他10分钟",
+        "onboard_time": 1744933281,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200817,
+        "num": 193775,
+        "word": "张杰一手抱花一手抱谢娜",
+        "onboard_time": 1744936882,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193449,
+        "num": 193449,
+        "word": "爱马仕宣布在美国全线涨价",
+        "onboard_time": 1744935200,
+        "rank": 33,
+        "category": "财经,时尚"
+      },
+      {
+        "raw_hot": 176906,
+        "num": 176906,
+        "word": "黄晓明起诉龚文祥",
+        "onboard_time": 1744938982,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168570,
+        "num": 168570,
+        "word": "钟南山院士喊你减肥啦",
+        "onboard_time": 1744943300,
+        "rank": 35,
+        "category": "民生新闻,运动健身"
+      },
+      {
+        "raw_hot": 167564,
+        "num": 167564,
+        "word": "Doinb称赞Tian",
+        "onboard_time": 1744946782,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 91275,
+        "num": 163186,
+        "word": "高低音被希林娜依高玩明白了",
+        "onboard_time": 1744947202,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 34458,
+        "num": 161220,
+        "word": "夏天要开始养心",
+        "onboard_time": 1744947381,
+        "rank": 38,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 84606,
+        "num": 160361,
+        "word": "祁煜无人机烟花全记录",
+        "onboard_time": 1744948101,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 160189,
+        "num": 160189,
+        "word": "96名业主自筹千万烂尾楼复工",
+        "onboard_time": 1744936161,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157910,
+        "num": 157910,
+        "word": "古乐风华录全阵容官宣",
+        "onboard_time": 1744941142,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156286,
+        "num": 156286,
+        "word": "90后男子搬砖9年攒下200万",
+        "onboard_time": 1744933879,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154550,
+        "num": 154550,
+        "word": "8月龄仅6斤重女婴父亲发声",
+        "onboard_time": 1744940660,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140983,
+        "num": 140983,
+        "word": "一家人出门没拔充电器家里被烧光",
+        "onboard_time": 1744903342,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135834,
+        "num": 135834,
+        "word": "宋雨琦 看得出她是公主",
+        "onboard_time": 1744940601,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134378,
+        "num": 134378,
+        "word": "恋与深空",
+        "onboard_time": 1744945102,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 121483,
+        "num": 121483,
+        "word": "杭州一地铁出入口被指像棺材",
+        "onboard_time": 1744935501,
+        "rank": 47,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 121204,
+        "num": 121204,
+        "word": "业主119万房子4年后只值40万",
+        "onboard_time": 1744935801,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116042,
+        "num": 116042,
+        "word": "刘雨昕北影节表演嘉宾",
+        "onboard_time": 1744948101,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见洪森#"
+    }
+  }
+}

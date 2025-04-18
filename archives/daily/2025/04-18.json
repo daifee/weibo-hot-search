@@ -1,9 +1,9 @@
 {
   "startTime": 1744907462255,
-  "endTime": 1744946044313,
+  "endTime": 1744948147941,
   "band_list": [
     {
-      "raw_hot": 1917985,
+      "raw_hot": 2197914,
       "num": 1029027,
       "word": "日本多地发生无差别杀人事件",
       "onboard_time": 1744945102,
@@ -11,8 +11,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 1546158,
-      "num": 1546158,
+      "raw_hot": 1897871,
+      "num": 1897871,
       "word": "古茗排队",
       "onboard_time": 1744944981,
       "rank": 1,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1052122,
-      "num": 410408,
+      "num": 422314,
       "word": "鬼鬼产后一天只吃一餐",
       "onboard_time": 1744937422,
       "rank": 11,
@@ -139,6 +139,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 661985,
+      "num": 423146,
+      "word": "张檬生小孩后一点变化没有",
+      "onboard_time": 1744944440,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 659858,
+      "num": 659858,
+      "word": "乖乖女导演又拍出了救赎天花板",
+      "onboard_time": 1744946541,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 619368,
       "num": 318863,
       "word": "杨采钰怀孕",
@@ -195,14 +211,6 @@
       "category": "剧集,电竞"
     },
     {
-      "raw_hot": 494651,
-      "num": 389642,
-      "word": "张檬生小孩后一点变化没有",
-      "onboard_time": 1744944440,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 481643,
       "num": 317255,
       "word": "儿媳每月给婆婆3000元感谢其帮带娃",
@@ -227,6 +235,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 438595,
+      "num": 438595,
+      "word": "喝不喝咖啡身体3个差距很明显",
+      "onboard_time": 1744944141,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 422271,
+      "num": 422271,
+      "word": "男子诬告同事是间谍",
+      "onboard_time": 1744943240,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 420590,
       "num": 420590,
       "word": "张新成演技",
@@ -241,6 +265,14 @@
       "onboard_time": 1744941142,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 413467,
+      "num": 413467,
+      "word": "潍坊风筝节惊现人形道歉信",
+      "onboard_time": 1744946841,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 394936,
@@ -265,6 +297,14 @@
       "onboard_time": 1744905500,
       "rank": 8,
       "category": "国际时政,互联网"
+    },
+    {
+      "raw_hot": 363599,
+      "num": 363599,
+      "word": "女子用250元侮辱性红包付抚养费",
+      "onboard_time": 1744946121,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 358567,
@@ -323,12 +363,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 282078,
-      "num": 282078,
-      "word": "喝不喝咖啡身体3个差距很明显",
-      "onboard_time": 1744944141,
-      "rank": 23,
-      "category": "健康医疗"
+      "raw_hot": 277517,
+      "num": 277517,
+      "word": "薛凯琪不想自己的状态麻烦他人",
+      "onboard_time": 1744946841,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 274196,
@@ -411,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 236640,
+      "num": 219795,
+      "word": "赵丽颖蕾丝吊带长裙",
+      "onboard_time": 1744947321,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 230775,
       "num": 245010,
       "word": "震耳欲聋",
@@ -419,11 +467,35 @@
       "category": "电影"
     },
     {
+      "raw_hot": 229753,
+      "num": 224066,
+      "word": "国色芳华现象级作品",
+      "onboard_time": 1744946901,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 229671,
+      "num": 229671,
+      "word": "我承认对无忧渡编剧声音太大了",
+      "onboard_time": 1744946901,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 211182,
       "num": 211182,
       "word": "宋雨琦 看得出她是公主",
       "onboard_time": 1744940601,
       "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 208905,
+      "num": 208905,
+      "word": "王牌对王牌",
+      "onboard_time": 1744947741,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -459,6 +531,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196503,
+      "num": 363660,
+      "word": "西湖边松鼠被游客投喂成松猪",
+      "onboard_time": 1744946841,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 196152,
+      "num": 196152,
+      "word": "贾玲 王牌对王牌",
+      "onboard_time": 1744947622,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192588,
       "num": 232472,
       "word": "震耳欲聋全阵容",
@@ -483,6 +571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 182748,
+      "num": 195727,
+      "word": "吉克隽逸内娱抽辣条第一人",
+      "onboard_time": 1744946422,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174050,
       "num": 206986,
       "word": "许连捷去世",
@@ -499,6 +595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167564,
+      "num": 167564,
+      "word": "Doinb称赞Tian",
+      "onboard_time": 1744946782,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 166600,
       "num": 166600,
       "word": "甘肃市政回应员工上班时间做操",
@@ -513,14 +617,6 @@
       "onboard_time": 1744917673,
       "rank": 39,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 163199,
-      "num": 282962,
-      "word": "男子诬告同事是间谍",
-      "onboard_time": 1744943240,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 160588,
@@ -572,7 +668,7 @@
     },
     {
       "raw_hot": 148046,
-      "num": 148046,
+      "num": 423555,
       "word": "特大地磁暴周末减弱",
       "onboard_time": 1744945102,
       "rank": 33,
@@ -643,6 +739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127827,
+      "num": 195188,
+      "word": "秦彻至心栖之处",
+      "onboard_time": 1744946901,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 125388,
       "num": 125388,
       "word": "霸王茶姬上市首日涨15%",
@@ -673,6 +777,14 @@
       "onboard_time": 1744945581,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 116042,
+      "num": 116042,
+      "word": "刘雨昕北影节表演嘉宾",
+      "onboard_time": 1744948101,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 115370,
@@ -723,6 +835,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 102237,
+      "num": 417767,
+      "word": "好莱坞开始为美国关税买单",
+      "onboard_time": 1744947022,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 100669,
       "num": 100669,
       "word": "男生回应春招时向市长自荐",
@@ -763,6 +883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 91275,
+      "num": 163186,
+      "word": "高低音被希林娜依高玩明白了",
+      "onboard_time": 1744947202,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 88218,
       "num": 88218,
       "word": "港股今天休市",
@@ -777,6 +905,14 @@
       "onboard_time": 1744900224,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84606,
+      "num": 160361,
+      "word": "祁煜无人机烟花全记录",
+      "onboard_time": 1744948101,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 84007,
@@ -1025,6 +1161,14 @@
       "onboard_time": 1744932499,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 34458,
+      "num": 161220,
+      "word": "夏天要开始养心",
+      "onboard_time": 1744947381,
+      "rank": 38,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 34210,
