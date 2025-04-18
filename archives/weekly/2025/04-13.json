@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744972052112,
+  "endTime": 1744973095478,
   "band_list": [
     {
       "raw_hot": 10606514,
@@ -99,6 +99,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2367949,
+      "num": 2367949,
+      "word": "猫一杯案开庭",
+      "onboard_time": 1744967900,
+      "rank": 10,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 2338037,
       "num": 363812,
       "word": "特朗普凌晨2点开记者会折磨媒体",
@@ -153,14 +161,6 @@
       "onboard_time": 1744957223,
       "rank": 0,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 2206037,
-      "num": 2206037,
-      "word": "猫一杯案开庭",
-      "onboard_time": 1744967900,
-      "rank": 10,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 2157441,
@@ -4171,6 +4171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 387894,
+      "num": 387894,
+      "word": "孙颖莎vs郑怡静",
+      "onboard_time": 1744971141,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 387277,
       "num": 387277,
       "word": "略萨去世",
@@ -4281,6 +4289,14 @@
       "onboard_time": 1744933281,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 376869,
+      "num": 376869,
+      "word": "张婧仪拿着塑料袋走红毯",
+      "onboard_time": 1744970420,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 375139,
@@ -4867,6 +4883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 322971,
+      "num": 352094,
+      "word": "黄奕披肩一打开哇声一片",
+      "onboard_time": 1744971320,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 321794,
       "num": 321794,
       "word": "全红婵回应获得亚军",
@@ -5043,6 +5067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 308193,
+      "num": 308193,
+      "word": "雨中北影节红毯星光璀璨",
+      "onboard_time": 1744971800,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 307701,
       "num": 307701,
       "word": "关晓彤新剧短发路透",
@@ -5097,14 +5129,6 @@
       "onboard_time": 1744641204,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 299748,
-      "num": 356637,
-      "word": "张婧仪拿着塑料袋走红毯",
-      "onboard_time": 1744970420,
-      "rank": 12,
-      "category": "电影"
     },
     {
       "raw_hot": 299251,
@@ -6155,14 +6179,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 241387,
-      "num": 352094,
-      "word": "黄奕披肩一打开哇声一片",
-      "onboard_time": 1744971320,
-      "rank": 15,
-      "category": "电影"
-    },
-    {
       "raw_hot": 241237,
       "num": 303220,
       "word": "李晟回应上热一的感觉",
@@ -6289,14 +6305,6 @@
       "onboard_time": 1744770022,
       "rank": 17,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 237977,
-      "num": 237977,
-      "word": "孙颖莎vs郑怡静",
-      "onboard_time": 1744971141,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 237943,
@@ -6433,6 +6441,14 @@
       "onboard_time": 1744950560,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 233711,
+      "num": 233711,
+      "word": "德国人买了中国制造后开始疯狂安利",
+      "onboard_time": 1744970540,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 233704,
@@ -9931,14 +9947,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 175291,
-      "num": 175291,
-      "word": "德国人买了中国制造后开始疯狂安利",
-      "onboard_time": 1744970540,
-      "rank": 32,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 175104,
       "num": 175104,
       "word": "中药手串",
@@ -11299,6 +11307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156694,
+      "num": 156694,
+      "word": "专门做卤猪蛋生意的老板",
+      "onboard_time": 1744971980,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 156663,
       "num": 156663,
       "word": "iPhone17ProMax机模",
@@ -11441,6 +11457,14 @@
       "onboard_time": 1744607603,
       "rank": 42,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 154588,
+      "num": 154588,
+      "word": "王鹤棣直播",
+      "onboard_time": 1744971860,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 154439,
@@ -12219,6 +12243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145930,
+      "num": 145930,
+      "word": "孙俪说和保险人走的很近",
+      "onboard_time": 1744972220,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145852,
       "num": 145852,
       "word": "无忧渡内子怕猫",
@@ -12945,6 +12977,14 @@
       "onboard_time": 1744623022,
       "rank": 14,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 138578,
+      "num": 138578,
+      "word": "BFX对战T1",
+      "onboard_time": 1744971620,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 138564,
@@ -14555,14 +14595,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 123309,
-      "num": 123309,
-      "word": "雨中北影节红毯星光璀璨",
-      "onboard_time": 1744971800,
-      "rank": 40,
-      "category": "电影"
-    },
-    {
       "raw_hot": 123278,
       "num": 123278,
       "word": "欧美股市剧震",
@@ -14995,6 +15027,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 118703,
+      "num": 118703,
+      "word": "张杰鸟巢12场上班指南",
+      "onboard_time": 1744972762,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 118697,
       "num": 206600,
       "word": "谭维维吐槽自己专辑封面脸没洗干净",
@@ -15243,6 +15283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 115469,
+      "num": 115469,
+      "word": "全美没有一家工厂能生产娃娃头发",
+      "onboard_time": 1744968920,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 115428,
       "num": 115428,
       "word": "马吟吟浪姐合照九宫格",
@@ -15427,14 +15475,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 113302,
-      "num": 113302,
-      "word": "王鹤棣直播",
-      "onboard_time": 1744971860,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 113143,
       "num": 113143,
       "word": "陈昊宇陈丽君帮唱侯佩岑组胜出",
@@ -15529,14 +15569,6 @@
       "onboard_time": 1744870341,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 112380,
-      "num": 112380,
-      "word": "BFX对战T1",
-      "onboard_time": 1744971620,
-      "rank": 46,
-      "category": "电竞"
     },
     {
       "raw_hot": 112308,
@@ -15657,14 +15689,6 @@
       "onboard_time": 1744853899,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 110768,
-      "num": 110768,
-      "word": "全美没有一家工厂能生产娃娃头发",
-      "onboard_time": 1744968920,
-      "rank": 47,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 110386,
@@ -15857,6 +15881,14 @@
       "onboard_time": 1744715361,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 107697,
+      "num": 354620,
+      "word": "当地妇联已介入三人婚礼闹剧调查",
+      "onboard_time": 1744970540,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107635,
@@ -16187,6 +16219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102169,
+      "num": 102169,
+      "word": "蒋一侨回应再不火就回家上班",
+      "onboard_time": 1744972882,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101942,
       "num": 137419,
       "word": "武艺杨迪连发12条微博",
@@ -16265,14 +16305,6 @@
       "onboard_time": 1744625422,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 101522,
-      "num": 101522,
-      "word": "专门做卤猪蛋生意的老板",
-      "onboard_time": 1744971980,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 101341,
@@ -16881,14 +16913,6 @@
       "onboard_time": 1744692382,
       "rank": 26,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 89891,
-      "num": 354620,
-      "word": "当地妇联已介入三人婚礼闹剧调查",
-      "onboard_time": 1744970540,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 89406,
@@ -17563,6 +17587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 76566,
+      "num": 118353,
+      "word": "柯南2026剧场版主角",
+      "onboard_time": 1744972460,
+      "rank": 43,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 76522,
       "num": 266810,
       "word": "官方回应重庆一码头有人放生矿泉水",
@@ -18155,6 +18187,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 62955,
+      "num": 368282,
+      "word": "经济学家称关税战是负和博弈",
+      "onboard_time": 1744971200,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 62916,
       "num": 209231,
       "word": "订婚强奸案男方家属将提起申诉",
@@ -18473,14 +18513,6 @@
       "onboard_time": 1744809323,
       "rank": 38,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 56151,
-      "num": 368282,
-      "word": "经济学家称关税战是负和博弈",
-      "onboard_time": 1744971200,
-      "rank": 9,
-      "category": "财经"
     },
     {
       "raw_hot": 56120,
@@ -19387,6 +19419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42216,
+      "num": 348523,
+      "word": "为什么重庆这么热",
+      "onboard_time": 1744969940,
+      "rank": 18,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 42143,
       "num": 43910,
       "word": "林诗栋对阵莫雷加德",
@@ -19425,6 +19465,14 @@
       "onboard_time": 1744618643,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41385,
+      "num": 167629,
+      "word": "国际乒联回应洛杉矶奥运会变化",
+      "onboard_time": 1744972519,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 41377,
@@ -19553,14 +19601,6 @@
       "onboard_time": 1744736417,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 39958,
-      "num": 348523,
-      "word": "为什么重庆这么热",
-      "onboard_time": 1744969940,
-      "rank": 18,
-      "category": "科学科普"
     },
     {
       "raw_hot": 39807,
@@ -19841,6 +19881,14 @@
       "onboard_time": 1744888702,
       "rank": 30,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 35171,
+      "num": 119246,
+      "word": "崩的不是古茗是我",
+      "onboard_time": 1744972340,
+      "rank": 41,
+      "category": "游戏,美食"
     },
     {
       "raw_hot": 35028,
@@ -21371,6 +21419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 12407,
+      "num": 120532,
+      "word": "数百名美国居民帮助书店搬书",
+      "onboard_time": 1744972399,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 12091,
       "num": 156115,
       "word": "伊美称首次谈判积极并具建设性",
@@ -21545,6 +21601,14 @@
       "onboard_time": 1744799120,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 9981,
+      "num": 235084,
+      "word": "李健巡演北京站歌单都有哪些歌",
+      "onboard_time": 1744972580,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 9895,
