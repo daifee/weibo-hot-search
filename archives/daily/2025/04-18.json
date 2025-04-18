@@ -1,6 +1,6 @@
 {
   "startTime": 1744907462255,
-  "endTime": 1744965062608,
+  "endTime": 1744965893824,
   "band_list": [
     {
       "raw_hot": 2716065,
@@ -65,6 +65,14 @@
       "onboard_time": 1744943060,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1318509,
+      "num": 1318509,
+      "word": "折腰下证",
+      "onboard_time": 1744963939,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 1097340,
@@ -159,14 +167,6 @@
       "num": 773643,
       "word": "乖乖女导演又拍出了救赎天花板",
       "onboard_time": 1744946541,
-      "rank": 5,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 761580,
-      "num": 761580,
-      "word": "折腰下证",
-      "onboard_time": 1744963939,
       "rank": 5,
       "category": "剧集"
     },
@@ -315,6 +315,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 536619,
+      "num": 460522,
+      "word": "能吃苦的老一辈果然投胎回来了",
+      "onboard_time": 1744963700,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 515961,
       "num": 405690,
       "word": "大疆水印 电子内裤边边",
@@ -371,12 +379,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 460522,
-      "num": 460522,
-      "word": "能吃苦的老一辈果然投胎回来了",
-      "onboard_time": 1744963700,
-      "rank": 13,
-      "category": "幽默"
+      "raw_hot": 459718,
+      "num": 459718,
+      "word": "女子左眼左耳残疾无法办理残疾人证",
+      "onboard_time": 1744961420,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 442656,
@@ -435,14 +443,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 420086,
-      "num": 420086,
-      "word": "女子左眼左耳残疾无法办理残疾人证",
-      "onboard_time": 1744961420,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 416650,
       "num": 416650,
       "word": "古乐风华录全阵容官宣",
@@ -459,8 +459,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 404914,
-      "num": 404914,
+      "raw_hot": 405170,
+      "num": 405170,
       "word": "佛山电翰不打螺丝后的75天",
       "onboard_time": 1744962801,
       "rank": 16,
@@ -619,6 +619,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 302467,
+      "num": 615125,
+      "word": "中国将在没美国的情况下再活五千年",
+      "onboard_time": 1744963700,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 291012,
       "num": 234923,
       "word": "96名业主自筹千万烂尾楼复工",
@@ -627,7 +635,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 278813,
+      "raw_hot": 284811,
       "num": 317961,
       "word": "北影节红毯",
       "onboard_time": 1744961300,
@@ -657,6 +665,14 @@
       "onboard_time": 1744933400,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 269074,
+      "num": 269074,
+      "word": "金晨变美了",
+      "onboard_time": 1744963640,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 259859,
@@ -803,12 +819,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 221168,
+      "num": 221168,
+      "word": "外交部回应泽连斯基宣称中国向俄军援",
+      "onboard_time": 1744964901,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 220892,
       "num": 440652,
       "word": "玩具在美国将成为奢侈品",
       "onboard_time": 1744960402,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 218911,
+      "num": 293603,
+      "word": "尹子维来了内娱也得拍古偶",
+      "onboard_time": 1744964542,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 216769,
@@ -843,12 +875,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 208331,
-      "num": 615125,
-      "word": "中国将在没美国的情况下再活五千年",
-      "onboard_time": 1744963700,
-      "rank": 8,
-      "category": "国内时政"
+      "raw_hot": 208241,
+      "num": 208241,
+      "word": "昀牵孟绕",
+      "onboard_time": 1744965139,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 206216,
@@ -937,14 +969,6 @@
       "onboard_time": 1744953142,
       "rank": 26,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 200885,
-      "num": 200885,
-      "word": "金晨变美了",
-      "onboard_time": 1744963640,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 198116,
@@ -1043,6 +1067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179713,
+      "num": 410571,
+      "word": "警方通报湖南机场董事长涉嫌性侵",
+      "onboard_time": 1744964901,
+      "rank": 32,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 179632,
       "num": 179632,
       "word": "无畏这条微博有两只猫咪",
@@ -1113,14 +1145,6 @@
       "onboard_time": 1744957821,
       "rank": 22,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 169360,
-      "num": 169360,
-      "word": "尹子维来了内娱也得拍古偶",
-      "onboard_time": 1744964542,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 168355,
@@ -1315,6 +1339,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 148823,
+      "num": 148823,
+      "word": "五月天杭州演唱会官宣",
+      "onboard_time": 1744964779,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 148373,
       "num": 148373,
       "word": "伊藤美诚4比2大藤沙月",
@@ -1387,14 +1419,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 145761,
-      "num": 145761,
-      "word": "外交部回应泽连斯基宣称中国向俄军援",
-      "onboard_time": 1744964901,
-      "rank": 41,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 145109,
       "num": 145109,
       "word": "36岁张檬备孕3年迎来蛇宝宝",
@@ -1441,6 +1465,14 @@
       "onboard_time": 1744949963,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140719,
+      "num": 140719,
+      "word": "台湾媒体建议年轻人用大陆AI",
+      "onboard_time": 1744964840,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140455,
@@ -1899,8 +1931,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 78182,
-      "num": 134360,
+      "raw_hot": 78432,
+      "num": 291786,
       "word": "王楚钦说托您的福",
       "onboard_time": 1744964960,
       "rank": 44,
@@ -1955,12 +1987,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 73047,
-      "num": 171051,
-      "word": "警方通报湖南机场董事长涉嫌性侵",
-      "onboard_time": 1744964901,
-      "rank": 32,
-      "category": "辟谣/通报"
+      "raw_hot": 69553,
+      "num": 306794,
+      "word": "赵今麦和她的蓝朋友",
+      "onboard_time": 1744965680,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 67211,
@@ -1995,12 +2027,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 65217,
+      "num": 293138,
+      "word": "黄雅琼一句话让徐嘉余笑场",
+      "onboard_time": 1744965261,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 64738,
       "num": 584904,
       "word": "马来西亚小哥大喊我爱中国",
       "onboard_time": 1744897160,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64452,
+      "num": 290413,
+      "word": "花海上班摸鱼",
+      "onboard_time": 1744965080,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 62639,
@@ -2075,6 +2123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 53472,
+      "num": 304248,
+      "word": "朱珠和老公逛北京胡同",
+      "onboard_time": 1744965380,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 53248,
       "num": 74240,
       "word": "余承东称智界也可以软硬件升级",
@@ -2128,6 +2184,14 @@
       "word": "哈马斯准备释放所有人质",
       "onboard_time": 1744958601,
       "rank": 22,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 49240,
+      "num": 439681,
+      "word": "AI华盛顿质问特朗普",
+      "onboard_time": 1744963881,
+      "rank": 14,
       "category": "国际时政"
     },
     {
@@ -2187,6 +2251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43148,
+      "num": 317431,
+      "word": "减肥可以吃碳水吗",
+      "onboard_time": 1744965080,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 42278,
       "num": 320260,
       "word": "陈幸同4比1高桥布鲁娜",
@@ -2203,12 +2275,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 40593,
-      "num": 439681,
-      "word": "AI华盛顿质问特朗普",
-      "onboard_time": 1744963881,
-      "rank": 14,
+      "raw_hot": 41052,
+      "num": 323133,
+      "word": "跨境卖家称少赚也要跳出美国市场",
+      "onboard_time": 1744964362,
+      "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 36847,
+      "num": 170932,
+      "word": "鉴定神仙公司冷门办公室",
+      "onboard_time": 1744965739,
+      "rank": 39,
+      "category": "情感,民生新闻"
     },
     {
       "raw_hot": 34458,
@@ -2299,19 +2379,19 @@
       "category": "情感,民生新闻"
     },
     {
-      "raw_hot": 27354,
-      "num": 323133,
-      "word": "跨境卖家称少赚也要跳出美国市场",
-      "onboard_time": 1744964362,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 26471,
       "num": 74339,
       "word": "王楚钦又打大头了",
       "onboard_time": 1744899623,
       "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 26109,
+      "num": 288205,
+      "word": "王曼昱五佳球",
+      "onboard_time": 1744965320,
+      "rank": 29,
       "category": "体育"
     },
     {
@@ -2321,6 +2401,14 @@
       "onboard_time": 1744931900,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 25467,
+      "num": 171821,
+      "word": "马来西亚为什么有9个国王",
+      "onboard_time": 1744965739,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 24943,
