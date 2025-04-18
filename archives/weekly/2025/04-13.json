@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744973095478,
+  "endTime": 1744975225810,
   "band_list": [
     {
       "raw_hot": 10606514,
@@ -3131,6 +3131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 511880,
+      "num": 511880,
+      "word": "孙颖莎vs郑怡静",
+      "onboard_time": 1744971141,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 511255,
       "num": 362628,
       "word": "毛子 总有另一面",
@@ -3193,6 +3201,14 @@
       "onboard_time": 1744540401,
       "rank": 17,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 503374,
+      "num": 361601,
+      "word": "浪姐团建看张杰演唱会",
+      "onboard_time": 1744974022,
+      "rank": 10,
+      "category": "综艺,演出"
     },
     {
       "raw_hot": 501445,
@@ -3313,6 +3329,14 @@
       "onboard_time": 1744873761,
       "rank": 31,
       "category": "网红"
+    },
+    {
+      "raw_hot": 485802,
+      "num": 485802,
+      "word": "德国人买了中国制造后开始疯狂安利",
+      "onboard_time": 1744970540,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 480643,
@@ -4171,14 +4195,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 387894,
-      "num": 387894,
-      "word": "孙颖莎vs郑怡静",
-      "onboard_time": 1744971141,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 387277,
       "num": 387277,
       "word": "略萨去世",
@@ -4923,6 +4939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 318327,
+      "num": 318327,
+      "word": "雨中北影节红毯星光璀璨",
+      "onboard_time": 1744971800,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 317601,
       "num": 317601,
       "word": "王一博VOGUE",
@@ -5065,14 +5089,6 @@
       "onboard_time": 1744550603,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 308193,
-      "num": 308193,
-      "word": "雨中北影节红毯星光璀璨",
-      "onboard_time": 1744971800,
-      "rank": 40,
-      "category": "电影"
     },
     {
       "raw_hot": 307701,
@@ -5696,6 +5712,14 @@
       "word": "王艺迪1比3袁嘉楠",
       "onboard_time": 1744712063,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 266025,
+      "num": 266025,
+      "word": "孙颖莎世界杯进4强",
+      "onboard_time": 1744974442,
+      "rank": 17,
       "category": "体育"
     },
     {
@@ -6441,14 +6465,6 @@
       "onboard_time": 1744950560,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 233711,
-      "num": 233711,
-      "word": "德国人买了中国制造后开始疯狂安利",
-      "onboard_time": 1744970540,
-      "rank": 32,
-      "category": "国际时政"
     },
     {
       "raw_hot": 233704,
@@ -7212,7 +7228,7 @@
     },
     {
       "raw_hot": 212022,
-      "num": 212022,
+      "num": 327459,
       "word": "中方在乌克兰问题上一直劝和促谈",
       "onboard_time": 1744967059,
       "rank": 41,
@@ -8033,6 +8049,22 @@
       "onboard_time": 1744695141,
       "rank": 38,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 201286,
+      "num": 201286,
+      "word": "无忧渡这个单元封神了",
+      "onboard_time": 1744974622,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 201249,
+      "num": 201249,
+      "word": "不知道杨洋在说什么光看脸了",
+      "onboard_time": 1744974682,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 201137,
@@ -9123,6 +9155,14 @@
       "category": "教育,艺人"
     },
     {
+      "raw_hot": 186854,
+      "num": 186854,
+      "word": "孙颖莎4比1郑怡静",
+      "onboard_time": 1744974862,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186736,
       "num": 186736,
       "word": "日本人看到中国馆走不动道了",
@@ -9281,6 +9321,14 @@
       "onboard_time": 1744521082,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 184662,
+      "num": 184662,
+      "word": "为什么王楚钦打德国选手很艰难",
+      "onboard_time": 1744973783,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 184635,
@@ -10403,6 +10451,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 168320,
+      "num": 168320,
+      "word": "朱一龙好帅",
+      "onboard_time": 1744973182,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 168094,
       "num": 168094,
       "word": "卤鹅哥称房贷已经停了几个月",
@@ -10561,6 +10617,14 @@
       "onboard_time": 1744610962,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166036,
+      "num": 166036,
+      "word": "章昊初见hi6嘉宾鞠了800次躬",
+      "onboard_time": 1744974740,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 166019,
@@ -11107,6 +11171,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 159269,
+      "num": 159269,
+      "word": "陈德容 我没有跳个大概",
+      "onboard_time": 1744975101,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 159195,
       "num": 159195,
       "word": "内蒙古一两烧麦随机吃撑一个外地人",
@@ -11185,6 +11257,14 @@
       "onboard_time": 1744549401,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158319,
+      "num": 148306,
+      "word": "朱一龙白领带黑西装造型",
+      "onboard_time": 1744974561,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 158291,
@@ -12995,6 +13075,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 138537,
+      "num": 143897,
+      "word": "崩坏星穹铁道",
+      "onboard_time": 1744974500,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 138380,
       "num": 138380,
       "word": "马嘉祺清唱晴天",
@@ -14275,6 +14363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126250,
+      "num": 126250,
+      "word": "折腰名字改回来了",
+      "onboard_time": 1744974862,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126177,
       "num": 126177,
       "word": "国漫黄金十年",
@@ -14969,6 +15065,22 @@
       "onboard_time": 1744474223,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 119151,
+      "num": 119151,
+      "word": "何依婷官宣生女",
+      "onboard_time": 1744973362,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 119079,
+      "num": 119079,
+      "word": "朱珠写长文回应钟汉良粉丝",
+      "onboard_time": 1744974802,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 118981,
@@ -16755,6 +16867,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 93619,
+      "num": 361712,
+      "word": "林诗栋vs莫雷加德",
+      "onboard_time": 1744974202,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93558,
       "num": 93558,
       "word": "内蒙古省考成绩",
@@ -17835,6 +17955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 70416,
+      "num": 322843,
+      "word": "王长田回应哪吒3票房能否超2",
+      "onboard_time": 1744973722,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 70067,
       "num": 391292,
       "word": "河南66个大风预警信号生效中",
@@ -18391,6 +18519,14 @@
       "num": 316802,
       "word": "美对中国滥施关税已影响特斯拉生产",
       "onboard_time": 1744864043,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 59255,
+      "num": 147116,
+      "word": "中方回应泽连斯基涉华言论",
+      "onboard_time": 1744975161,
       "rank": 36,
       "category": "国际时政"
     },
@@ -19249,6 +19385,14 @@
       "onboard_time": 1744660394,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 44196,
+      "num": 145469,
+      "word": "阻止减肥的首要因素",
+      "onboard_time": 1744973302,
+      "rank": 38,
+      "category": "运动健身,民生新闻"
     },
     {
       "raw_hot": 44088,
@@ -20323,6 +20467,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 26818,
+      "num": 146221,
+      "word": "日本新宿一女子攻击路人",
+      "onboard_time": 1744974682,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 26554,
       "num": 26554,
       "word": "卓沅出去玩泥巴了",
@@ -20865,6 +21017,14 @@
       "onboard_time": 1744583536,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 20277,
+      "num": 185567,
+      "word": "你觉得太阳系外存在生命吗",
+      "onboard_time": 1744974982,
+      "rank": 28,
+      "category": "科学科普"
     },
     {
       "raw_hot": 20267,
@@ -21425,6 +21585,14 @@
       "onboard_time": 1744972399,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 12345,
+      "num": 144506,
+      "word": "伊朗迎接沙特国防大臣",
+      "onboard_time": 1744974982,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 12091,

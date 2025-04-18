@@ -1,0 +1,410 @@
+{
+  "runTime": 1744975225810,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1919172,
+        "num": 1919172,
+        "word": "猫一杯案开庭",
+        "onboard_time": 1744967900,
+        "rank": 0,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 1516079,
+        "num": 1516079,
+        "word": "中国被曝已不再生产出口美国的玩具",
+        "onboard_time": 1744958962,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 95483,
+        "num": 1030344,
+        "word": "滥施关税挡不住中国制造",
+        "onboard_time": 1744966101,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 762744,
+        "num": 762744,
+        "word": "日本多地发生无差别杀人事件",
+        "onboard_time": 1744945102,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 574301,
+        "num": 574301,
+        "word": "折腰下证",
+        "onboard_time": 1744963939,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 511880,
+        "num": 511880,
+        "word": "孙颖莎vs郑怡静",
+        "onboard_time": 1744971141,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 485802,
+        "num": 485802,
+        "word": "德国人买了中国制造后开始疯狂安利",
+        "onboard_time": 1744970540,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 374930,
+        "num": 374930,
+        "word": "外交部回应泽连斯基宣称中国向俄军援",
+        "onboard_time": 1744964901,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 327459,
+        "num": 363790,
+        "word": "张婧仪拿着塑料袋走红毯",
+        "onboard_time": 1744970420,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 93619,
+        "num": 361712,
+        "word": "林诗栋vs莫雷加德",
+        "onboard_time": 1744974202,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 503374,
+        "num": 361601,
+        "word": "浪姐团建看张杰演唱会",
+        "onboard_time": 1744974022,
+        "rank": 10,
+        "category": "综艺,演出"
+      },
+      {
+        "raw_hot": 361457,
+        "num": 361457,
+        "word": "高速上一轮胎滚进服务区撞人致死",
+        "onboard_time": 1744966220,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 340624,
+        "num": 340624,
+        "word": "金晨变美了",
+        "onboard_time": 1744963640,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78632,
+        "num": 327459,
+        "word": "中方在乌克兰问题上一直劝和促谈",
+        "onboard_time": 1744967059,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 70416,
+        "num": 322843,
+        "word": "王长田回应哪吒3票房能否超2",
+        "onboard_time": 1744973722,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 318327,
+        "num": 318327,
+        "word": "雨中北影节红毯星光璀璨",
+        "onboard_time": 1744971800,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 316012,
+        "num": 316012,
+        "word": "手机电池不喜欢100%满电",
+        "onboard_time": 1744959021,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 266025,
+        "num": 266025,
+        "word": "孙颖莎世界杯进4强",
+        "onboard_time": 1744974442,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249688,
+        "num": 262057,
+        "word": "戚薇因一个数字发现李承铉反常",
+        "onboard_time": 1744965980,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261334,
+        "num": 261334,
+        "word": "能吃苦的老一辈果然投胎回来了",
+        "onboard_time": 1744963700,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 271096,
+        "num": 258808,
+        "word": "侯佩岑组听到陈德容加入的表情",
+        "onboard_time": 1744957761,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252252,
+        "num": 252252,
+        "word": "警方通报湖南机场董事长涉嫌性侵",
+        "onboard_time": 1744964901,
+        "rank": 21,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 241042,
+        "num": 241042,
+        "word": "黄奕披肩一打开哇声一片",
+        "onboard_time": 1744971320,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 240017,
+        "num": 240017,
+        "word": "中国将在没美国的情况下再活五千年",
+        "onboard_time": 1744963700,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 201286,
+        "num": 201286,
+        "word": "无忧渡这个单元封神了",
+        "onboard_time": 1744974622,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201249,
+        "num": 201249,
+        "word": "不知道杨洋在说什么光看脸了",
+        "onboard_time": 1744974682,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192905,
+        "num": 192905,
+        "word": "女子左眼左耳残疾无法办理残疾人证",
+        "onboard_time": 1744961420,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186854,
+        "num": 186854,
+        "word": "孙颖莎4比1郑怡静",
+        "onboard_time": 1744974862,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20277,
+        "num": 185567,
+        "word": "你觉得太阳系外存在生命吗",
+        "onboard_time": 1744974982,
+        "rank": 28,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 184662,
+        "num": 184662,
+        "word": "为什么王楚钦打德国选手很艰难",
+        "onboard_time": 1744973783,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168320,
+        "num": 168320,
+        "word": "朱一龙好帅",
+        "onboard_time": 1744973182,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 166036,
+        "num": 166036,
+        "word": "章昊初见hi6嘉宾鞠了800次躬",
+        "onboard_time": 1744974740,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163654,
+        "num": 163654,
+        "word": "警方通报江西杀害夫妻2人嫌犯被抓",
+        "onboard_time": 1744936460,
+        "rank": 32,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 159269,
+        "num": 159269,
+        "word": "陈德容 我没有跳个大概",
+        "onboard_time": 1744975101,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148367,
+        "num": 148367,
+        "word": "古茗店员最崩溃的一天",
+        "onboard_time": 1744968019,
+        "rank": 34,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 158319,
+        "num": 148306,
+        "word": "朱一龙白领带黑西装造型",
+        "onboard_time": 1744974561,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 59255,
+        "num": 147116,
+        "word": "中方回应泽连斯基涉华言论",
+        "onboard_time": 1744975161,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 26818,
+        "num": 146221,
+        "word": "日本新宿一女子攻击路人",
+        "onboard_time": 1744974682,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 44196,
+        "num": 145469,
+        "word": "阻止减肥的首要因素",
+        "onboard_time": 1744973302,
+        "rank": 38,
+        "category": "运动健身,民生新闻"
+      },
+      {
+        "raw_hot": 12345,
+        "num": 144506,
+        "word": "伊朗迎接沙特国防大臣",
+        "onboard_time": 1744974982,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 138537,
+        "num": 143897,
+        "word": "崩坏星穹铁道",
+        "onboard_time": 1744974500,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 143295,
+        "num": 143295,
+        "word": "专门做卤猪蛋生意的老板",
+        "onboard_time": 1744971980,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139346,
+        "num": 139346,
+        "word": "昀牵孟绕",
+        "onboard_time": 1744965139,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 134934,
+        "num": 134934,
+        "word": "北影节红毯",
+        "onboard_time": 1744961300,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132963,
+        "num": 132963,
+        "word": "贾玲 王牌对王牌",
+        "onboard_time": 1744947622,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130342,
+        "num": 130342,
+        "word": "王楚钦说你要能抽死我就给你了",
+        "onboard_time": 1744960341,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126250,
+        "num": 126250,
+        "word": "折腰名字改回来了",
+        "onboard_time": 1744974862,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120169,
+        "num": 120169,
+        "word": "佛山电翰不打螺丝后的75天",
+        "onboard_time": 1744962801,
+        "rank": 47,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 119151,
+        "num": 119151,
+        "word": "何依婷官宣生女",
+        "onboard_time": 1744973362,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119079,
+        "num": 119079,
+        "word": "朱珠写长文回应钟汉良粉丝",
+        "onboard_time": 1744974802,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平圆满结束对柬埔寨国事访问#"
+    }
+  }
+}
