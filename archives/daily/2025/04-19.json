@@ -1,6 +1,6 @@
 {
   "startTime": 1744993775892,
-  "endTime": 1745004007682,
+  "endTime": 1745005005020,
   "band_list": [
     {
       "raw_hot": 2817932,
@@ -507,6 +507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 35154,
+      "num": 55817,
+      "word": "黄文秀生前最后一张照片",
+      "onboard_time": 1745002875,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31987,
       "num": 58977,
       "word": "希音Temu告知美国消费者25日起涨价",
@@ -547,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 22773,
+      "num": 22773,
+      "word": "时代少年团新专辑概念影像",
+      "onboard_time": 1745004374,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 22434,
       "num": 31901,
       "word": "雨中红毯",
@@ -555,19 +571,19 @@
       "category": "电影"
     },
     {
-      "raw_hot": 22084,
-      "num": 55817,
-      "word": "黄文秀生前最后一张照片",
-      "onboard_time": 1745002875,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 21282,
       "num": 31893,
       "word": "欧阳娜娜北京国际电影节",
       "onboard_time": 1745001855,
       "rank": 48,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 19081,
+      "num": 19081,
+      "word": "檀健次电影震耳欲聋抽烟海报",
+      "onboard_time": 1745004314,
+      "rank": 39,
       "category": "电影"
     },
     {
@@ -593,6 +609,22 @@
       "onboard_time": 1745001555,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 11452,
+      "num": 45859,
+      "word": "鲁比奥说俄乌和谈没进展美国就不管了",
+      "onboard_time": 1745004374,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 11017,
+      "num": 32808,
+      "word": "第一次见一部电影有18个喜剧人",
+      "onboard_time": 1745004794,
+      "rank": 24,
+      "category": "电影"
     }
   ],
   "hotgov_list": [
