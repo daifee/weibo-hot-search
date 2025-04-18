@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744933096143,
+  "endTime": 1744940996375,
   "band_list": [
     {
       "raw_hot": 10606514,
@@ -1003,6 +1003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1060400,
+      "num": 179186,
+      "word": "谢娜夜骑到鸟巢给张杰送玫瑰花",
+      "onboard_time": 1744904422,
+      "rank": 10,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1056184,
       "num": 1056184,
       "word": "你好星期六收视第一",
@@ -1024,6 +1032,14 @@
       "word": "易小星 我遗书都发出去了",
       "onboard_time": 1744600521,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1052122,
+      "num": 178870,
+      "word": "鬼鬼产后一天只吃一餐",
+      "onboard_time": 1744937422,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -1065,6 +1081,14 @@
       "onboard_time": 1744528220,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1022511,
+      "num": 1163601,
+      "word": "美国人喜欢的三蹦子可能要断货了",
+      "onboard_time": 1744933219,
+      "rank": 0,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1022447,
@@ -1971,6 +1995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 705307,
+      "num": 609445,
+      "word": "美国提出乌领土分割方案",
+      "onboard_time": 1744935200,
+      "rank": 3,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 704378,
       "num": 704378,
       "word": "表妹万福",
@@ -2275,6 +2307,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 646344,
+      "num": 646344,
+      "word": "警方通报江西杀害夫妻2人嫌犯被抓",
+      "onboard_time": 1744936460,
+      "rank": 1,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 642775,
       "num": 568029,
       "word": "刘涛爆料被晋江文学小考笑趴在地上",
@@ -2465,6 +2505,14 @@
       "onboard_time": 1744679422,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 603911,
+      "num": 603911,
+      "word": "爱马仕宣布在美国全线涨价",
+      "onboard_time": 1744935200,
+      "rank": 4,
+      "category": "财经,时尚"
     },
     {
       "raw_hot": 601374,
@@ -3059,6 +3107,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 474513,
+      "num": 178283,
+      "word": "黄晓明起诉龚文祥",
+      "onboard_time": 1744938982,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 474279,
       "num": 380662,
       "word": "高校通报老师诱骗女学生恋爱",
@@ -3289,6 +3345,14 @@
       "onboard_time": 1744523061,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 440898,
+      "num": 177540,
+      "word": "张杰一手抱花一手抱谢娜",
+      "onboard_time": 1744936882,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 440510,
@@ -3825,6 +3889,14 @@
       "onboard_time": 1744685361,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 380137,
+      "num": 174280,
+      "word": "市长来1小时你耽误他10分钟",
+      "onboard_time": 1744933281,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 375139,
@@ -4667,6 +4739,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 291012,
+      "num": 176490,
+      "word": "96名业主自筹千万烂尾楼复工",
+      "onboard_time": 1744936161,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 288927,
       "num": 288927,
       "word": "迪丽热巴挡脸自拍",
@@ -5011,6 +5091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 269683,
+      "num": 269683,
+      "word": "特朗普说美联储主席该尽早走人",
+      "onboard_time": 1744933400,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 269126,
       "num": 292827,
       "word": "三体2胡歌段奕宏",
@@ -5249,6 +5337,14 @@
       "onboard_time": 1744459464,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 256836,
+      "num": 173636,
+      "word": "业主119万房子4年后只值40万",
+      "onboard_time": 1744935801,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 256756,
@@ -5833,6 +5929,14 @@
       "onboard_time": 1744865003,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 230937,
+      "num": 172969,
+      "word": "8月龄仅6斤重女婴父亲发声",
+      "onboard_time": 1744940660,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 230910,
@@ -7939,6 +8043,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 190564,
+      "num": 190564,
+      "word": "多地气温满30减10",
+      "onboard_time": 1744936882,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 190365,
       "num": 192864,
       "word": "THEBOYZ闯中了",
@@ -8257,6 +8369,14 @@
       "onboard_time": 1744533201,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185763,
+      "num": 171326,
+      "word": "四川村民晨跑遇上大熊猫",
+      "onboard_time": 1744935200,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 185686,
@@ -8649,6 +8769,14 @@
       "onboard_time": 1744506741,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 179608,
+      "num": 179608,
+      "word": "朱开开团Doinb",
+      "onboard_time": 1744937481,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 179554,
@@ -9163,6 +9291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170883,
+      "num": 170883,
+      "word": "原来这就是曾经的军艺校草",
+      "onboard_time": 1744938562,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170844,
       "num": 343351,
       "word": "标价上万美元的奢侈品大多是中国制造",
@@ -9451,6 +9587,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 166600,
+      "num": 166600,
+      "word": "甘肃市政回应员工上班时间做操",
+      "onboard_time": 1744939460,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166438,
       "num": 394941,
       "word": "金价今年已刷新历史高点超20次",
@@ -9481,6 +9625,14 @@
       "onboard_time": 1744610962,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166052,
+      "num": 175148,
+      "word": "90后男子搬砖9年攒下200万",
+      "onboard_time": 1744933879,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 166019,
@@ -9553,6 +9705,14 @@
       "onboard_time": 1744519882,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 164526,
+      "num": 179548,
+      "word": "虞书欣回应送全红婵娃娃",
+      "onboard_time": 1744917673,
+      "rank": 39,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 164375,
@@ -9969,6 +10129,14 @@
       "onboard_time": 1744701800,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 159614,
+      "num": 159614,
+      "word": "杭州一地铁出入口被指像棺材",
+      "onboard_time": 1744935501,
+      "rank": 30,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 159607,
@@ -11939,6 +12107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135601,
+      "num": 135601,
+      "word": "在中国住了40年的老外劝诫美国",
+      "onboard_time": 1744935082,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135566,
       "num": 156982,
       "word": "陈德容事业运",
@@ -12891,6 +13067,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 125388,
+      "num": 125388,
+      "word": "霸王茶姬上市首日涨15%",
+      "onboard_time": 1744940601,
+      "rank": 33,
+      "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 125060,
+      "num": 125060,
+      "word": "大疆水印 电子内裤边边",
+      "onboard_time": 1744940601,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 124880,
       "num": 124880,
       "word": "我是打野我为自己发声",
@@ -13699,6 +13891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 115370,
+      "num": 115370,
+      "word": "田馥甄新歌",
+      "onboard_time": 1744940361,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 115307,
       "num": 194196,
       "word": "那个抱起全红婵的英国女孩",
@@ -14275,6 +14475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106288,
+      "num": 106288,
+      "word": "刘亦菲红裙起舞",
+      "onboard_time": 1744937781,
+      "rank": 41,
+      "category": "艺人,汽车"
+    },
+    {
       "raw_hot": 106181,
       "num": 106181,
       "word": "王楚钦怕对手发球把自己晃了",
@@ -14369,6 +14577,14 @@
       "onboard_time": 1744617743,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 105549,
+      "num": 105549,
+      "word": "宋雨琦 看得出她是公主",
+      "onboard_time": 1744940601,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 105300,
@@ -14617,6 +14833,14 @@
       "onboard_time": 1744902022,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100669,
+      "num": 100669,
+      "word": "男生回应春招时向市长自荐",
+      "onboard_time": 1744938562,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100574,
@@ -14985,6 +15209,14 @@
       "onboard_time": 1744807520,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 93542,
+      "num": 100575,
+      "word": "吴晓求称别让东方集团跑了",
+      "onboard_time": 1744939460,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 93499,
@@ -15409,6 +15641,14 @@
       "onboard_time": 1744522882,
       "rank": 39,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 83195,
+      "num": 100167,
+      "word": "田曦薇逐玉正式杀青",
+      "onboard_time": 1744934601,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 83169,
@@ -16515,14 +16755,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 58237,
-      "num": 81154,
-      "word": "虞书欣回应送全红婵娃娃",
-      "onboard_time": 1744917673,
-      "rank": 39,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 57998,
       "num": 355078,
       "word": "胡凯夺得男子10米气手枪金牌",
@@ -17105,6 +17337,14 @@
       "onboard_time": 1744877482,
       "rank": 37,
       "category": "幽默,议题讨论"
+    },
+    {
+      "raw_hot": 46384,
+      "num": 609568,
+      "word": "马来西亚榴莲如何来到中国餐桌",
+      "onboard_time": 1744896923,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46337,

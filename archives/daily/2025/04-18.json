@@ -1,6 +1,6 @@
 {
   "startTime": 1744907462255,
-  "endTime": 1744933096143,
+  "endTime": 1744940996375,
   "band_list": [
     {
       "raw_hot": 1086095,
@@ -9,6 +9,30 @@
       "onboard_time": 1744903342,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1060400,
+      "num": 179186,
+      "word": "谢娜夜骑到鸟巢给张杰送玫瑰花",
+      "onboard_time": 1744904422,
+      "rank": 10,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 1052122,
+      "num": 178870,
+      "word": "鬼鬼产后一天只吃一餐",
+      "onboard_time": 1744937422,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1022511,
+      "num": 1163601,
+      "word": "美国人喜欢的三蹦子可能要断货了",
+      "onboard_time": 1744933219,
+      "rank": 0,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 901179,
@@ -51,12 +75,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 705307,
+      "num": 609445,
+      "word": "美国提出乌领土分割方案",
+      "onboard_time": 1744935200,
+      "rank": 3,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 646344,
+      "num": 646344,
+      "word": "警方通报江西杀害夫妻2人嫌犯被抓",
+      "onboard_time": 1744936460,
+      "rank": 1,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 619368,
       "num": 318863,
       "word": "杨采钰怀孕",
       "onboard_time": 1744886481,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 603911,
+      "num": 603911,
+      "word": "爱马仕宣布在美国全线涨价",
+      "onboard_time": 1744935200,
+      "rank": 4,
+      "category": "财经,时尚"
     },
     {
       "raw_hot": 584941,
@@ -99,11 +147,35 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 474513,
+      "num": 178283,
+      "word": "黄晓明起诉龚文祥",
+      "onboard_time": 1744938982,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 440898,
+      "num": 177540,
+      "word": "张杰一手抱花一手抱谢娜",
+      "onboard_time": 1744936882,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 394936,
       "num": 272410,
       "word": "杭铁回应地铁口被吐槽像棺材",
       "onboard_time": 1744901662,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 380137,
+      "num": 174280,
+      "word": "市长来1小时你耽误他10分钟",
+      "onboard_time": 1744933281,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -155,6 +227,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 291012,
+      "num": 176490,
+      "word": "96名业主自筹千万烂尾楼复工",
+      "onboard_time": 1744936161,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 269683,
+      "num": 269683,
+      "word": "特朗普说美联储主席该尽早走人",
+      "onboard_time": 1744933400,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 259840,
       "num": 259840,
       "word": "认养一头牛称暂不考虑撤掉广告",
@@ -163,12 +251,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 256836,
+      "num": 173636,
+      "word": "业主119万房子4年后只值40万",
+      "onboard_time": 1744935801,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 253719,
+      "num": 175559,
+      "word": "戒掉咖啡一个月后的身体变化",
+      "onboard_time": 1744888102,
+      "rank": 28,
+      "category": "幽默,民生新闻"
+    },
+    {
       "raw_hot": 244434,
       "num": 244434,
       "word": "丁程鑫发博安慰粉丝",
       "onboard_time": 1744897402,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 230937,
+      "num": 172969,
+      "word": "8月龄仅6斤重女婴父亲发声",
+      "onboard_time": 1744940660,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 202575,
@@ -187,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190564,
+      "num": 190564,
+      "word": "多地气温满30减10",
+      "onboard_time": 1744936882,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 189087,
       "num": 245147,
       "word": "关税成本最终将转嫁给美国普通消费者",
@@ -195,12 +315,68 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 185763,
+      "num": 171326,
+      "word": "四川村民晨跑遇上大熊猫",
+      "onboard_time": 1744935200,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 179608,
+      "num": 179608,
+      "word": "朱开开团Doinb",
+      "onboard_time": 1744937481,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 170883,
+      "num": 170883,
+      "word": "原来这就是曾经的军艺校草",
+      "onboard_time": 1744938562,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 166600,
+      "num": 166600,
+      "word": "甘肃市政回应员工上班时间做操",
+      "onboard_time": 1744939460,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166052,
+      "num": 175148,
+      "word": "90后男子搬砖9年攒下200万",
+      "onboard_time": 1744933879,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 164526,
+      "num": 179548,
+      "word": "虞书欣回应送全红婵娃娃",
+      "onboard_time": 1744917673,
+      "rank": 39,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 160588,
       "num": 160588,
       "word": "金泰妍演唱会取消",
       "onboard_time": 1744901423,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 159614,
+      "num": 159614,
+      "word": "杭州一地铁出入口被指像棺材",
+      "onboard_time": 1744935501,
+      "rank": 30,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 154867,
@@ -251,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135601,
+      "num": 135601,
+      "word": "在中国住了40年的老外劝诫美国",
+      "onboard_time": 1744935082,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129449,
       "num": 129449,
       "word": "长期吃零食的人身体会发生什么变化",
@@ -267,12 +451,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 126477,
-      "num": 126477,
-      "word": "戒掉咖啡一个月后的身体变化",
-      "onboard_time": 1744888102,
-      "rank": 28,
-      "category": "幽默,民生新闻"
+      "raw_hot": 125388,
+      "num": 125388,
+      "word": "霸王茶姬上市首日涨15%",
+      "onboard_time": 1744940601,
+      "rank": 33,
+      "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 125060,
+      "num": 125060,
+      "word": "大疆水印 电子内裤边边",
+      "onboard_time": 1744940601,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 120733,
@@ -283,6 +475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115370,
+      "num": 115370,
+      "word": "田馥甄新歌",
+      "onboard_time": 1744940361,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 107762,
       "num": 107762,
       "word": "朱一龙吴磊等将亮相北影节红毯",
@@ -291,12 +491,44 @@
       "category": "电影"
     },
     {
+      "raw_hot": 106288,
+      "num": 106288,
+      "word": "刘亦菲红裙起舞",
+      "onboard_time": 1744937781,
+      "rank": 41,
+      "category": "艺人,汽车"
+    },
+    {
+      "raw_hot": 105549,
+      "num": 105549,
+      "word": "宋雨琦 看得出她是公主",
+      "onboard_time": 1744940601,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100669,
+      "num": 100669,
+      "word": "男生回应春招时向市长自荐",
+      "onboard_time": 1744938562,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98789,
       "num": 316961,
       "word": "王牌对王牌9将回归",
       "onboard_time": 1744925054,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 93542,
+      "num": 100575,
+      "word": "吴晓求称别让东方集团跑了",
+      "onboard_time": 1744939460,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 91353,
@@ -321,6 +553,14 @@
       "onboard_time": 1744898123,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 83195,
+      "num": 100167,
+      "word": "田曦薇逐玉正式杀青",
+      "onboard_time": 1744934601,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 82742,
@@ -435,14 +675,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 58237,
-      "num": 81154,
-      "word": "虞书欣回应送全红婵娃娃",
-      "onboard_time": 1744917673,
-      "rank": 39,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 57352,
       "num": 81131,
       "word": "折腰",
@@ -521,6 +753,14 @@
       "onboard_time": 1744921333,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 46384,
+      "num": 609568,
+      "word": "马来西亚榴莲如何来到中国餐桌",
+      "onboard_time": 1744896923,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45458,
