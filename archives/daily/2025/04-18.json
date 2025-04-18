@@ -1,6 +1,6 @@
 {
   "startTime": 1744907462255,
-  "endTime": 1744961145825,
+  "endTime": 1744961893402,
   "band_list": [
     {
       "raw_hot": 2716065,
@@ -19,8 +19,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 2077358,
-      "num": 2077358,
+      "raw_hot": 2145973,
+      "num": 2145973,
       "word": "中国被曝已不再生产出口美国的玩具",
       "onboard_time": 1744958962,
       "rank": 0,
@@ -99,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1034193,
+      "num": 1034193,
+      "word": "侯佩岑组听到陈德容加入的表情",
+      "onboard_time": 1744957761,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1022511,
       "num": 1163601,
       "word": "美国人喜欢的三蹦子可能要断货了",
@@ -107,20 +115,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 968959,
-      "num": 968959,
-      "word": "侯佩岑组听到陈德容加入的表情",
-      "onboard_time": 1744957761,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 956076,
       "num": 956076,
       "word": "王楚钦vs杜达",
       "onboard_time": 1744954101,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 915015,
+      "num": 915015,
+      "word": "手机电池不喜欢100%满电",
+      "onboard_time": 1744959021,
+      "rank": 4,
+      "category": "数码"
     },
     {
       "raw_hot": 901179,
@@ -145,14 +153,6 @@
       "onboard_time": 1744904422,
       "rank": 10,
       "category": "演出"
-    },
-    {
-      "raw_hot": 832827,
-      "num": 832827,
-      "word": "手机电池不喜欢100%满电",
-      "onboard_time": 1744959021,
-      "rank": 4,
-      "category": "数码"
     },
     {
       "raw_hot": 773643,
@@ -524,7 +524,7 @@
     },
     {
       "raw_hot": 346516,
-      "num": 397952,
+      "num": 403237,
       "word": "佛山电翰称不否认做网红是在赚快钱",
       "onboard_time": 1744959922,
       "rank": 16,
@@ -563,6 +563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 312404,
+      "num": 312404,
+      "word": "丁程鑫直播",
+      "onboard_time": 1744961361,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 310696,
       "num": 310696,
       "word": "25岁裸辞后找了个上1休1的工作",
@@ -577,6 +585,14 @@
       "onboard_time": 1744936161,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 279600,
+      "num": 279600,
+      "word": "王楚钦说你要能抽死我就给你了",
+      "onboard_time": 1744960341,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 277517,
@@ -747,20 +763,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 220892,
+      "num": 440652,
+      "word": "玩具在美国将成为奢侈品",
+      "onboard_time": 1744960402,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 216769,
       "num": 324795,
       "word": "虞书欣杀青vlog掉落",
       "onboard_time": 1744950560,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 216552,
-      "num": 216552,
-      "word": "王楚钦说你要能抽死我就给你了",
-      "onboard_time": 1744960341,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 211182,
@@ -816,6 +832,14 @@
       "word": "管乐气得喊了三遍张小婉大名",
       "onboard_time": 1744958962,
       "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 204218,
+      "num": 145651,
+      "word": "王珞丹崩溃痛哭",
+      "onboard_time": 1744960941,
+      "rank": 44,
       "category": "综艺"
     },
     {
@@ -891,14 +915,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 192710,
-      "num": 145651,
-      "word": "王珞丹崩溃痛哭",
-      "onboard_time": 1744960941,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 192588,
       "num": 232472,
       "word": "震耳欲聋全阵容",
@@ -913,6 +929,14 @@
       "onboard_time": 1744959983,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 191378,
+      "num": 268143,
+      "word": "北影节红毯",
+      "onboard_time": 1744961300,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 189410,
@@ -996,7 +1020,7 @@
     },
     {
       "raw_hot": 176329,
-      "num": 176329,
+      "num": 197461,
       "word": "张杰演唱会灯光被当作UFO",
       "onboard_time": 1744959202,
       "rank": 36,
@@ -1065,6 +1089,22 @@
       "onboard_time": 1744955783,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165483,
+      "num": 165483,
+      "word": "谭薇哭成typeC",
+      "onboard_time": 1744961182,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 165286,
+      "num": 406123,
+      "word": "公交司机8个月26次开车打瞌睡被辞退",
+      "onboard_time": 1744960103,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 165128,
@@ -1163,14 +1203,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 152288,
-      "num": 440652,
-      "word": "玩具在美国将成为奢侈品",
-      "onboard_time": 1744960402,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 152243,
       "num": 152243,
       "word": "G社是林志玲站姐吧",
@@ -1235,6 +1267,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 147713,
+      "num": 147713,
+      "word": "女子左眼左耳残疾无法办理残疾人证",
+      "onboard_time": 1744961420,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147530,
       "num": 160691,
       "word": "IU 给粉丝隔空投送自拍",
@@ -1292,7 +1332,7 @@
     },
     {
       "raw_hot": 141156,
-      "num": 141156,
+      "num": 151179,
       "word": "终于有人把妇科检查说清了",
       "onboard_time": 1744961001,
       "rank": 45,
@@ -1313,6 +1353,14 @@
       "onboard_time": 1744950383,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 140300,
+      "num": 140300,
+      "word": "北京国际电影节",
+      "onboard_time": 1744961420,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 139087,
@@ -1491,14 +1539,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 117514,
-      "num": 406123,
-      "word": "公交司机8个月26次开车打瞌睡被辞退",
-      "onboard_time": 1744960103,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 115370,
       "num": 115370,
       "word": "田馥甄新歌",
@@ -1547,12 +1587,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 105770,
+      "num": 105770,
+      "word": "残联回应双眼失明才能办残疾人证",
+      "onboard_time": 1744960941,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105016,
       "num": 105016,
       "word": "不要给情绪低落的人输出大道理",
       "onboard_time": 1744941860,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 104554,
+      "num": 104554,
+      "word": "陈幸同vs高桥布鲁娜",
+      "onboard_time": 1744961839,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 103650,
@@ -1603,12 +1659,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97798,
+      "num": 355509,
+      "word": "看庄达菲直播好像在和闺蜜打视频",
+      "onboard_time": 1744960640,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 96284,
       "num": 306220,
       "word": "韩决定明年不再扩招医学生",
       "onboard_time": 1744957041,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 94333,
+      "num": 230135,
+      "word": "女子左眼失明办残疾人证遭拒",
+      "onboard_time": 1744961060,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93542,
@@ -1660,7 +1732,7 @@
     },
     {
       "raw_hot": 83686,
-      "num": 268812,
+      "num": 280279,
       "word": "魏建军提议多练内功少说空话",
       "onboard_time": 1744958420,
       "rank": 26,
@@ -1761,22 +1833,6 @@
       "onboard_time": 1744891402,
       "rank": 39,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 71822,
-      "num": 170270,
-      "word": "女子左眼失明办残疾人证遭拒",
-      "onboard_time": 1744961060,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 69495,
-      "num": 355509,
-      "word": "看庄达菲直播好像在和闺蜜打视频",
-      "onboard_time": 1744960640,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 67211,
@@ -2043,6 +2099,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 31537,
+      "num": 311914,
+      "word": "哪些结节才是真危险",
+      "onboard_time": 1744961541,
+      "rank": 17,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 30620,
       "num": 44872,
       "word": "孙俪新剧开播就跳水",
@@ -2145,6 +2209,14 @@
       "onboard_time": 1744952963,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 16925,
+      "num": 310777,
+      "word": "为什么手机不能保持满电状态",
+      "onboard_time": 1744961300,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 16722,
