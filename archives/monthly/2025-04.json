@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744990779746,
+  "endTime": 1744993775892,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -12395,6 +12395,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 403534,
+      "num": 403534,
+      "word": "美国公布罗伯特肯尼迪遇刺案记录",
+      "onboard_time": 1744991301,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 403393,
       "num": 862834,
       "word": "内娱终于拍出了武侠穿",
@@ -14377,6 +14385,14 @@
       "onboard_time": 1743509782,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 349206,
+      "num": 349206,
+      "word": "张杰演唱会麦给谢娜VaVa吴宣仪",
+      "onboard_time": 1744990703,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 348975,
@@ -16425,6 +16441,14 @@
       "onboard_time": 1744778425,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 302277,
+      "num": 302277,
+      "word": "重庆冰雹",
+      "onboard_time": 1744989503,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 302123,
@@ -18499,6 +18523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 265738,
+      "num": 265738,
+      "word": "张雨绮北影节生图真的太生了",
+      "onboard_time": 1744992323,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 265699,
       "num": 420226,
       "word": "夸克在台湾地区AppStore登顶爆火",
@@ -20121,14 +20153,6 @@
       "onboard_time": 1744957281,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 241018,
-      "num": 241018,
-      "word": "重庆冰雹",
-      "onboard_time": 1744989503,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 240994,
@@ -24467,6 +24491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204692,
+      "num": 204692,
+      "word": "hi6",
+      "onboard_time": 1744990703,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204687,
       "num": 204687,
       "word": "奔跑吧路透",
@@ -28195,6 +28227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187753,
+      "num": 187753,
+      "word": "贺峻霖北影节开场献唱",
+      "onboard_time": 1744991721,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 187739,
       "num": 315770,
       "word": "麦琳分享减脂餐",
@@ -28388,7 +28428,7 @@
     },
     {
       "raw_hot": 186905,
-      "num": 186905,
+      "num": 349851,
       "word": "欧阳娜娜大提琴开场大秀",
       "onboard_time": 1744986684,
       "rank": 30,
@@ -29083,6 +29123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183951,
+      "num": 183951,
+      "word": "Rookie一滴血抢龙",
+      "onboard_time": 1744991842,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 183950,
       "num": 280598,
       "word": "赴山海成毅领衔主演",
@@ -29536,6 +29584,14 @@
       "word": "男子失联一天一夜同事找开锁上门",
       "onboard_time": 1744816763,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181852,
+      "num": 244812,
+      "word": "五一前机票低至2折",
+      "onboard_time": 1744990402,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -34017,6 +34073,14 @@
       "onboard_time": 1744446924,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 160076,
+      "num": 160076,
+      "word": "BOYNEXTDOOR回归新歌",
+      "onboard_time": 1744992381,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 160063,
@@ -45603,6 +45667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 114048,
+      "num": 114048,
+      "word": "王源姚晓棠就这样唱到下一个天亮",
+      "onboard_time": 1744992861,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 113998,
       "num": 113998,
       "word": "檀健次李兰迪直拍",
@@ -46763,14 +46835,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 108256,
-      "num": 108256,
-      "word": "张杰演唱会麦给谢娜VaVa吴宣仪",
-      "onboard_time": 1744990703,
-      "rank": 46,
-      "category": "演出"
-    },
-    {
       "raw_hot": 108127,
       "num": 108127,
       "word": "虾滑鸡蛋煮饺子皮",
@@ -47491,6 +47555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104366,
+      "num": 104366,
+      "word": "iG赛后采访",
+      "onboard_time": 1744993102,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 104353,
       "num": 182192,
       "word": "儿童精神科诊室里沉默的父亲们",
@@ -47743,14 +47815,6 @@
       "num": 102169,
       "word": "蒋一侨回应再不火就回家上班",
       "onboard_time": 1744972882,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 101962,
-      "num": 101962,
-      "word": "hi6",
-      "onboard_time": 1744990703,
       "rank": 49,
       "category": "综艺"
     },
@@ -48433,6 +48497,14 @@
       "onboard_time": 1743813200,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97808,
+      "num": 97808,
+      "word": "特朗普暗示不想继续提高对华关税",
+      "onboard_time": 1744993282,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 97798,
@@ -49217,6 +49289,14 @@
       "onboard_time": 1743758361,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 91350,
+      "num": 91350,
+      "word": "请你相信时间的力量",
+      "onboard_time": 1744993520,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 91274,
@@ -50899,6 +50979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78791,
+      "num": 78791,
+      "word": "一招拿下射手座",
+      "onboard_time": 1744991962,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 78754,
       "num": 78754,
       "word": "被点名的四个星座做好脱单的准备",
@@ -51001,6 +51089,14 @@
       "onboard_time": 1744690343,
       "rank": 29,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 77394,
+      "num": 77394,
+      "word": "北京电影节红毯开始了",
+      "onboard_time": 1744991602,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 77261,
@@ -53089,14 +53185,6 @@
       "onboard_time": 1743990500,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 61801,
-      "num": 244812,
-      "word": "五一前机票低至2折",
-      "onboard_time": 1744990402,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 61786,

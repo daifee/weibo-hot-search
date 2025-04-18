@@ -1,0 +1,411 @@
+{
+  "startTime": 1744993775892,
+  "endTime": 1744993775892,
+  "band_list": [
+    {
+      "raw_hot": 2011967,
+      "num": 497742,
+      "word": "日本",
+      "onboard_time": 1744979242,
+      "rank": 3,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 864970,
+      "num": 918673,
+      "word": "中国被曝已不再生产出口美国的玩具",
+      "onboard_time": 1744958962,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 693435,
+      "num": 349701,
+      "word": "任敏好辣",
+      "onboard_time": 1744987824,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 571779,
+      "num": 200195,
+      "word": "猫一杯案开庭",
+      "onboard_time": 1744967900,
+      "rank": 20,
+      "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 556588,
+      "num": 556588,
+      "word": "特朗普称1个月内会与中国达成协议",
+      "onboard_time": 1744985725,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 492059,
+      "num": 492059,
+      "word": "新版北京欢迎你",
+      "onboard_time": 1744985843,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 485552,
+      "num": 485552,
+      "word": "日本多地发生无差别杀人事件",
+      "onboard_time": 1744945102,
+      "rank": 5,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 403534,
+      "num": 403534,
+      "word": "美国公布罗伯特肯尼迪遇刺案记录",
+      "onboard_time": 1744991301,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 362453,
+      "num": 362453,
+      "word": "周深拉斯维加斯站创最高票房纪录",
+      "onboard_time": 1744986503,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 355271,
+      "num": 355271,
+      "word": "张继科说要给王曼昱空间",
+      "onboard_time": 1744988484,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 349206,
+      "num": 349206,
+      "word": "张杰演唱会麦给谢娜VaVa吴宣仪",
+      "onboard_time": 1744990703,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 306535,
+      "num": 306535,
+      "word": "檀健次深情献唱哪吒2片尾曲",
+      "onboard_time": 1744985003,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 302905,
+      "num": 302905,
+      "word": "iG战胜JDG",
+      "onboard_time": 1744989624,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 302277,
+      "num": 302277,
+      "word": "重庆冰雹",
+      "onboard_time": 1744989503,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 265738,
+      "num": 265738,
+      "word": "张雨绮北影节生图真的太生了",
+      "onboard_time": 1744992323,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 250681,
+      "num": 250681,
+      "word": "王曼昱球品如人品",
+      "onboard_time": 1744983322,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 225786,
+      "num": 225786,
+      "word": "孙俪妈妈羡慕孙俪和马龙合影",
+      "onboard_time": 1744986565,
+      "rank": 17,
+      "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 213630,
+      "num": 213630,
+      "word": "孙珍妮回应脸肿",
+      "onboard_time": 1744978041,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 204692,
+      "num": 204692,
+      "word": "hi6",
+      "onboard_time": 1744990703,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 187813,
+      "num": 187813,
+      "word": "iG绝地翻盘",
+      "onboard_time": 1744990703,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 187753,
+      "num": 187753,
+      "word": "贺峻霖北影节开场献唱",
+      "onboard_time": 1744991721,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 183951,
+      "num": 183951,
+      "word": "Rookie一滴血抢龙",
+      "onboard_time": 1744991842,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 183014,
+      "num": 183014,
+      "word": "北大博士回应入职民办高校被指浪费",
+      "onboard_time": 1744985362,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181852,
+      "num": 181852,
+      "word": "五一前机票低至2折",
+      "onboard_time": 1744990402,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 175102,
+      "num": 175102,
+      "word": "王鹤棣 别整那些播不了的",
+      "onboard_time": 1744978041,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 162743,
+      "num": 162743,
+      "word": "全员加速中 推迟录制",
+      "onboard_time": 1744985243,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 161122,
+      "num": 161122,
+      "word": "檀健次哪吒2梦幻联动",
+      "onboard_time": 1744985482,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 160076,
+      "num": 160076,
+      "word": "BOYNEXTDOOR回归新歌",
+      "onboard_time": 1744992381,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 160070,
+      "num": 160070,
+      "word": "女子每天吃十几个橙子确诊糖尿病",
+      "onboard_time": 1744986503,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159324,
+      "num": 159324,
+      "word": "秦彻",
+      "onboard_time": 1744989262,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 143396,
+      "num": 143396,
+      "word": "陈德容 我没有跳个大概",
+      "onboard_time": 1744975101,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 134848,
+      "num": 134848,
+      "word": "金智秀齐刘海黑短裙",
+      "onboard_time": 1744984283,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 130860,
+      "num": 130860,
+      "word": "王曼昱无缘女单四强",
+      "onboard_time": 1744981524,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 117887,
+      "num": 113796,
+      "word": "陈德容",
+      "onboard_time": 1744988302,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 117076,
+      "num": 117076,
+      "word": "张杰三折叠大屏",
+      "onboard_time": 1744984042,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 114048,
+      "num": 114048,
+      "word": "王源姚晓棠就这样唱到下一个天亮",
+      "onboard_time": 1744992861,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 111294,
+      "num": 111294,
+      "word": "佛山电翰对钱没有太多的欲望",
+      "onboard_time": 1744990343,
+      "rank": 38,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 111186,
+      "num": 111186,
+      "word": "商务部回应美方301调查",
+      "onboard_time": 1744990222,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 110080,
+      "num": 349851,
+      "word": "欧阳娜娜大提琴开场大秀",
+      "onboard_time": 1744986684,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 104366,
+      "num": 104366,
+      "word": "iG赛后采访",
+      "onboard_time": 1744993102,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 100730,
+      "num": 497957,
+      "word": "美国加关税是搬石头砸自己脚",
+      "onboard_time": 1744982901,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 97808,
+      "num": 97808,
+      "word": "特朗普暗示不想继续提高对华关税",
+      "onboard_time": 1744993282,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 93698,
+      "num": 93698,
+      "word": "关税大棒下世界超市义乌的现状",
+      "onboard_time": 1744985063,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91874,
+      "num": 91874,
+      "word": "杭州买500万的房子可省10万",
+      "onboard_time": 1744988003,
+      "rank": 43,
+      "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 91350,
+      "num": 91350,
+      "word": "请你相信时间的力量",
+      "onboard_time": 1744993520,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 90999,
+      "num": 90999,
+      "word": "刘宇宁说折腰没有吻戏",
+      "onboard_time": 1744980382,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 86568,
+      "num": 86568,
+      "word": "巴西打算替代美国成供应国",
+      "onboard_time": 1744989983,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 86133,
+      "num": 86133,
+      "word": "成毅歌声和武夷山有多适配",
+      "onboard_time": 1744988843,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 78791,
+      "num": 78791,
+      "word": "一招拿下射手座",
+      "onboard_time": 1744991962,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 77394,
+      "num": 77394,
+      "word": "北京电影节红毯开始了",
+      "onboard_time": 1744991602,
+      "rank": 49,
+      "category": "电影"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#习近平结束国事访问回到北京#"
+    }
+  ]
+}

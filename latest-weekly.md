@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/13 00:27:42 ~ 2025/04/18 23:39:39
+本榜单时间：2025/04/13 00:27:42 ~ 2025/04/19 00:29:35
 </p>
 </blockquote>
 <p>
@@ -3183,6 +3183,12 @@ CBA官方严重警告山西男篮（热度：436043）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%85%AC%E5%B8%83%E7%BD%97%E4%BC%AF%E7%89%B9%E8%82%AF%E5%B0%BC%E8%BF%AA%E9%81%87%E5%88%BA%E6%A1%88%E8%AE%B0%E5%BD%95%23" target="weibo">
+美国公布罗伯特肯尼迪遇刺案记录（热度：403534）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E5%85%B7%E5%8E%82%E5%A5%B3%E5%91%98%E5%B7%A5%E6%8B%92%E7%BB%9D%E5%90%91%E6%99%AE%E4%BA%AC%E9%80%8F%E9%9C%B2%E5%B7%A5%E8%B5%84%23" target="weibo">
 家具厂女员工拒绝向普京透露工资（热度：402628）
 </a>
@@ -3633,6 +3639,12 @@ crocs 白鹿（热度：380309）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E9%BA%A6%E7%BB%99%E8%B0%A2%E5%A8%9CVaVa%E5%90%B4%E5%AE%A3%E4%BB%AA%23" target="weibo">
+张杰演唱会麦给谢娜VaVa吴宣仪（热度：349206）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AF%BC%E6%BC%94%E6%BE%84%E6%B8%85%E9%99%88%E5%A6%8D%E5%B8%8C%E5%BC%A0%E4%B9%A6%E8%B1%AA%E7%BB%AF%E9%97%BB%23" target="weibo">
 导演澄清陈妍希张书豪绯闻（热度：348975）
 </a>
@@ -4049,6 +4061,12 @@ JDG对战iG（热度：315710）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%20%E5%A5%94%E8%B7%91%E5%90%A7%E6%B5%B7%E6%8A%A5%23" target="weibo">
 白鹿 奔跑吧海报（热度：302387）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E5%86%B0%E9%9B%B9%23" target="weibo">
+重庆冰雹（热度：302277）
 </a>
 </li>
 
@@ -4533,6 +4551,12 @@ iG绝地翻盘（热度：271823）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%A8%E7%BB%AE%E5%8C%97%E5%BD%B1%E8%8A%82%E7%94%9F%E5%9B%BE%E7%9C%9F%E7%9A%84%E5%A4%AA%E7%94%9F%E4%BA%86%23" target="weibo">
+张雨绮北影节生图真的太生了（热度：265738）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%B8%E5%85%8B%E5%9C%A8%E5%8F%B0%E6%B9%BE%E5%9C%B0%E5%8C%BAAppStore%E7%99%BB%E9%A1%B6%E7%88%86%E7%81%AB%23" target="weibo">
 夸克在台湾地区AppStore登顶爆火（热度：265699）
 </a>
@@ -4913,12 +4937,6 @@ iG绝地翻盘（热度：271823）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%99%9F%E5%9B%9E%E5%BA%94%E4%B8%8A%E7%83%AD%E4%B8%80%E7%9A%84%E6%84%9F%E8%A7%89%23" target="weibo">
 李晟回应上热一的感觉（热度：241237）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E5%86%B0%E9%9B%B9%23" target="weibo">
-重庆冰雹（热度：241018）
 </a>
 </li>
 
@@ -6135,6 +6153,12 @@ JUSTIN公式照（热度：205042）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23hi6%23" target="weibo">
+hi6（热度：204692）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%E8%B7%AF%E9%80%8F%23" target="weibo">
 奔跑吧路透（热度：204687）
 </a>
@@ -7203,6 +7227,12 @@ BEAST回归（热度：189341）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B4%BA%E5%B3%BB%E9%9C%96%E5%8C%97%E5%BD%B1%E8%8A%82%E5%BC%80%E5%9C%BA%E7%8C%AE%E5%94%B1%23" target="weibo">
+贺峻霖北影节开场献唱（热度：187753）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E9%9B%A8%E7%90%A6%E6%A9%99%E8%A1%A3%E5%8F%A4%E8%A3%85%23" target="weibo">
 宋雨琦橙衣古装（热度：187723）
 </a>
@@ -7443,6 +7473,12 @@ DANIEL公式照（热度：184910）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Rookie%E4%B8%80%E6%BB%B4%E8%A1%80%E6%8A%A2%E9%BE%99%23" target="weibo">
+Rookie一滴血抢龙（热度：183951）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%B2%B3%E9%80%9A%E6%8A%A5%E9%87%8C%E5%B8%82%E5%A7%94%E4%B8%BB%E8%A6%81%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%98%AF%E8%B0%81%23" target="weibo">
 三河通报里市委主要负责人是谁（热度：183900）
 </a>
@@ -7559,6 +7595,12 @@ simon（热度：181938）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%A4%B1%E8%81%94%E4%B8%80%E5%A4%A9%E4%B8%80%E5%A4%9C%E5%90%8C%E4%BA%8B%E6%89%BE%E5%BC%80%E9%94%81%E4%B8%8A%E9%97%A8%23" target="weibo">
 男子失联一天一夜同事找开锁上门（热度：181853）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E4%B8%80%E5%89%8D%E6%9C%BA%E7%A5%A8%E4%BD%8E%E8%87%B32%E6%8A%98%23" target="weibo">
+五一前机票低至2折（热度：181852）
 </a>
 </li>
 
@@ -8801,6 +8843,12 @@ NBA（热度：160781）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E8%A3%A4%E6%89%94%E6%B4%97%E8%A1%A3%E6%9C%BA%E9%87%8C%E9%A3%8E%E9%99%A9%E6%9C%89%E5%A4%9A%E9%AB%98%23" target="weibo">
 内裤扔洗衣机里风险有多高（热度：160169）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23BOYNEXTDOOR%E5%9B%9E%E5%BD%92%E6%96%B0%E6%AD%8C%23" target="weibo">
+BOYNEXTDOOR回归新歌（热度：160076）
 </a>
 </li>
 
@@ -12261,6 +12309,12 @@ WCBA冠军之路（热度：114717）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E5%A7%9A%E6%99%93%E6%A3%A0%E5%B0%B1%E8%BF%99%E6%A0%B7%E5%94%B1%E5%88%B0%E4%B8%8B%E4%B8%80%E4%B8%AA%E5%A4%A9%E4%BA%AE%23" target="weibo">
+王源姚晓棠就这样唱到下一个天亮（热度：114048）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E6%9D%8E%E5%85%B0%E8%BF%AA%E7%9B%B4%E6%8B%8D%23" target="weibo">
 檀健次李兰迪直拍（热度：113998）
 </a>
@@ -12597,12 +12651,6 @@ iOS18.4.1正式版发布（热度：110983）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E9%BA%A6%E7%BB%99%E8%B0%A2%E5%A8%9CVaVa%E5%90%B4%E5%AE%A3%E4%BB%AA%23" target="weibo">
-张杰演唱会麦给谢娜VaVa吴宣仪（热度：108256）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%99%BE%E6%BB%91%E9%B8%A1%E8%9B%8B%E7%85%AE%E9%A5%BA%E5%AD%90%E7%9A%AE%23" target="weibo">
 虾滑鸡蛋煮饺子皮（热度：108127）
 </a>
@@ -12837,6 +12885,12 @@ Gr 年锦（热度：105300）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23iG%E8%B5%9B%E5%90%8E%E9%87%87%E8%AE%BF%23" target="weibo">
+iG赛后采访（热度：104366）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E7%A5%96%E5%84%BF%E6%8A%8A%E5%8D%8A%E5%A4%8F%E7%9A%84%E7%9C%BC%E7%9D%9B%E5%80%9F%E7%BB%99%E5%A4%A7%E5%AE%B6%23" target="weibo">
 宋祖儿把半夏的眼睛借给大家（热度：104144）
 </a>
@@ -12911,12 +12965,6 @@ ApplePencil或将支持无线通信（热度：103650）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%92%8B%E4%B8%80%E4%BE%A8%E5%9B%9E%E5%BA%94%E5%86%8D%E4%B8%8D%E7%81%AB%E5%B0%B1%E5%9B%9E%E5%AE%B6%E4%B8%8A%E7%8F%AD%23" target="weibo">
 蒋一侨回应再不火就回家上班（热度：102169）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23hi6%23" target="weibo">
-hi6（热度：101962）
 </a>
 </li>
 
@@ -13151,6 +13199,12 @@ DK对战GEN（热度：99073）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%99%E5%AE%87%E6%B6%B5%E8%BF%99%E6%98%AF%E5%9C%A8%E5%B9%B2%E4%BB%80%E4%B9%88%23" target="weibo">
 余宇涵这是在干什么（热度：97990）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%9A%97%E7%A4%BA%E4%B8%8D%E6%83%B3%E7%BB%A7%E7%BB%AD%E6%8F%90%E9%AB%98%E5%AF%B9%E5%8D%8E%E5%85%B3%E7%A8%8E%23" target="weibo">
+特朗普暗示不想继续提高对华关税（热度：97808）
 </a>
 </li>
 
@@ -13391,6 +13445,12 @@ DK对战GEN（热度：99073）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%B1%BB%E7%9A%84%E8%82%A0%E9%81%93%E8%A2%AB%E8%AE%BE%E8%AE%A1%E7%9A%84%E6%9C%89%E5%A4%9A%E6%95%8F%E6%84%9F%23" target="weibo">
 人类的肠道被设计的有多敏感（热度：91849）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AF%B7%E4%BD%A0%E7%9B%B8%E4%BF%A1%E6%97%B6%E9%97%B4%E7%9A%84%E5%8A%9B%E9%87%8F%23" target="weibo">
+请你相信时间的力量（热度：91350）
 </a>
 </li>
 
@@ -13887,6 +13947,12 @@ STR分型检测破解强奸案（热度：84919）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%8B%9B%E6%8B%BF%E4%B8%8B%E5%B0%84%E6%89%8B%E5%BA%A7%23" target="weibo">
+一招拿下射手座（热度：78791）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%AD%A3%E5%BA%A6%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%88%90%E7%BB%A9%E5%8D%95%E6%9D%A5%E4%BA%86%23" target="weibo">
 一季度中国经济成绩单来了（热度：78642）
 </a>
@@ -13919,6 +13985,12 @@ STR分型检测破解强奸案（热度：84919）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E9%83%A8%E6%B2%83%E5%B0%94%E6%B2%83%E5%8D%8A%E9%83%A8%E5%AE%89%E5%85%A8%E5%8F%B2%23" target="weibo">
 一部沃尔沃半部安全史（热度：77494）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E7%94%B5%E5%BD%B1%E8%8A%82%E7%BA%A2%E6%AF%AF%E5%BC%80%E5%A7%8B%E4%BA%86%23" target="weibo">
+北京电影节红毯开始了（热度：77394）
 </a>
 </li>
 
@@ -14513,12 +14585,6 @@ Haodong高情商发言（热度：63106）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E4%BD%A0%E6%9C%89%E8%BF%99%E6%A0%B7%E7%9A%84%E6%8E%92%E6%AF%94%E5%8F%A5%E8%BF%9B%E5%85%A5%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 汪苏泷你有这样的排比句进入演唱会（热度：62046）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E4%B8%80%E5%89%8D%E6%9C%BA%E7%A5%A8%E4%BD%8E%E8%87%B32%E6%8A%98%23" target="weibo">
-五一前机票低至2折（热度：61801）
 </a>
 </li>
 
