@@ -1,6 +1,6 @@
 {
   "startTime": 1744993775892,
-  "endTime": 1745011345700,
+  "endTime": 1745012257121,
   "band_list": [
     {
       "raw_hot": 2817932,
@@ -499,6 +499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 41878,
+      "num": 41878,
+      "word": "00后女辅警40米深井救出幼童",
+      "onboard_time": 1745006775,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 37431,
       "num": 37431,
       "word": "孙俪救视主",
@@ -521,14 +529,6 @@
       "onboard_time": 1745001675,
       "rank": 14,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 30056,
-      "num": 33644,
-      "word": "00后女辅警40米深井救出幼童",
-      "onboard_time": 1745006775,
-      "rank": 9,
-      "category": "正能量"
     },
     {
       "raw_hot": 29550,
@@ -587,6 +587,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 20740,
+      "num": 22040,
+      "word": "李晟是宋妍霏唯一的选择",
+      "onboard_time": 1745009834,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 20305,
+      "num": 20305,
+      "word": "特斯拉从中国向美运汽车零件受阻",
+      "onboard_time": 1745011154,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 19081,
       "num": 19081,
       "word": "檀健次电影震耳欲聋抽烟海报",
@@ -595,12 +611,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 16948,
+      "raw_hot": 17603,
       "num": 35726,
       "word": "特朗普称本周将收到俄方反馈",
       "onboard_time": 1745007553,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 16910,
+      "num": 24586,
+      "word": "入职民办高校北大博主发声",
+      "onboard_time": 1745003776,
+      "rank": 47,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 16786,
@@ -611,12 +635,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 16530,
-      "num": 16530,
-      "word": "李晟是宋妍霏唯一的选择",
-      "onboard_time": 1745009834,
-      "rank": 32,
-      "category": "综艺"
+      "raw_hot": 16591,
+      "num": 16591,
+      "word": "这泼天的富贵轮到了巴西",
+      "onboard_time": 1745011334,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 16223,
+      "num": 16223,
+      "word": "杭州发布契税新政",
+      "onboard_time": 1745009174,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16177,
@@ -625,14 +657,6 @@
       "onboard_time": 1745004794,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 16166,
-      "num": 24586,
-      "word": "入职民办高校北大博主发声",
-      "onboard_time": 1745003776,
-      "rank": 47,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 15625,
@@ -657,22 +681,6 @@
       "onboard_time": 1745001555,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 13200,
-      "num": 15156,
-      "word": "杭州发布契税新政",
-      "onboard_time": 1745009174,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 12656,
-      "num": 15131,
-      "word": "特斯拉从中国向美运汽车零件受阻",
-      "onboard_time": 1745011154,
-      "rank": 48,
-      "category": "汽车"
     }
   ],
   "hotgov_list": [
