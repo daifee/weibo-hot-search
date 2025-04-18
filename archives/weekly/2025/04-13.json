@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744983737327,
+  "endTime": 1744986167519,
   "band_list": [
     {
       "raw_hot": 10606514,
@@ -963,6 +963,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1135942,
+      "num": 1135942,
+      "word": "特朗普表示对中美达成协议有信心",
+      "onboard_time": 1744983683,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1134365,
       "num": 1134365,
       "word": "男子工亡婆婆分14万嫌少起诉儿媳",
@@ -1372,7 +1380,7 @@
     },
     {
       "raw_hot": 939030,
-      "num": 456434,
+      "num": 688579,
       "word": "孙珍妮回应脸肿",
       "onboard_time": 1744978041,
       "rank": 10,
@@ -1787,6 +1795,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 803739,
+      "num": 803739,
+      "word": "王者荣耀 哪吒",
+      "onboard_time": 1744983625,
+      "rank": 25,
+      "category": "游戏,电影"
+    },
+    {
       "raw_hot": 803163,
       "num": 416199,
       "word": "白鹿体制内女友风",
@@ -1897,6 +1913,14 @@
       "onboard_time": 1744679662,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 774684,
+      "num": 774684,
+      "word": "被室友电瓶烧伤男生283天后再次发声",
+      "onboard_time": 1744981405,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 773643,
@@ -2073,6 +2097,14 @@
       "onboard_time": 1744522463,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 725611,
+      "num": 725611,
+      "word": "王曼昱球品如人品",
+      "onboard_time": 1744983322,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 724320,
@@ -2835,14 +2867,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 581291,
-      "num": 581291,
-      "word": "被室友电瓶烧伤男生283天后再次发声",
-      "onboard_time": 1744981405,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 578322,
       "num": 578322,
       "word": "王楚钦4比3杜达",
@@ -3084,7 +3108,7 @@
     },
     {
       "raw_hot": 536861,
-      "num": 536861,
+      "num": 814058,
       "word": "刘宇宁说折腰没有吻戏",
       "onboard_time": 1744980382,
       "rank": 13,
@@ -4171,6 +4195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 398346,
+      "num": 786575,
+      "word": "檀健次深情献唱哪吒2片尾曲",
+      "onboard_time": 1744985003,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 398298,
       "num": 398298,
       "word": "中国稀土管制扼住美军工命脉",
@@ -4803,6 +4835,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 342385,
+      "num": 342385,
+      "word": "张本智和vs雨果",
+      "onboard_time": 1744984702,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 342136,
       "num": 244495,
       "word": "留几手现在140斤体脂率12%",
@@ -4825,6 +4865,14 @@
       "onboard_time": 1744457063,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 338109,
+      "num": 509826,
+      "word": "张杰三折叠大屏",
+      "onboard_time": 1744984042,
+      "rank": 13,
+      "category": "演出"
     },
     {
       "raw_hot": 337736,
@@ -5379,14 +5427,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 289165,
-      "num": 289165,
-      "word": "王者荣耀 哪吒",
-      "onboard_time": 1744983625,
-      "rank": 25,
-      "category": "游戏,电影"
-    },
-    {
       "raw_hot": 288927,
       "num": 288927,
       "word": "迪丽热巴挡脸自拍",
@@ -5617,6 +5657,14 @@
       "onboard_time": 1744604484,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 277024,
+      "num": 277024,
+      "word": "陈哲远剪寸头",
+      "onboard_time": 1744984343,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 276019,
@@ -6139,14 +6187,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 252386,
-      "num": 252386,
-      "word": "特朗普表示对中美达成协议有信心",
-      "onboard_time": 1744983683,
-      "rank": 30,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 252114,
       "num": 252114,
       "word": "时代少年团太原演唱会官方回复",
@@ -6537,6 +6577,14 @@
       "onboard_time": 1744951824,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 237798,
+      "num": 237798,
+      "word": "倪妮内场造型",
+      "onboard_time": 1744984283,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 237729,
@@ -7755,12 +7803,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208054,
+      "num": 208054,
+      "word": "特朗普称1个月内会与中国达成协议",
+      "onboard_time": 1744985725,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 208001,
       "num": 251600,
       "word": "孙俪马龙同框",
       "onboard_time": 1744881803,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 207771,
+      "num": 207771,
+      "word": "全员加速中 推迟录制",
+      "onboard_time": 1744985243,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 207692,
@@ -7929,6 +7993,14 @@
       "onboard_time": 1744694243,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205215,
+      "num": 205215,
+      "word": "新版北京欢迎你",
+      "onboard_time": 1744985843,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 205196,
@@ -8225,6 +8297,14 @@
       "onboard_time": 1744677143,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 201580,
+      "num": 201580,
+      "word": "贺峻霖killbill",
+      "onboard_time": 1744985664,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 201570,
@@ -8859,6 +8939,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 193425,
+      "num": 193425,
+      "word": "青岛男篮vs广厦男篮",
+      "onboard_time": 1744985003,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193381,
       "num": 193381,
       "word": "小米手机3月激活量中国第一",
@@ -8969,6 +9057,14 @@
       "onboard_time": 1744769002,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192570,
+      "num": 192570,
+      "word": "美国商家呼吁同行别撕中国制标签",
+      "onboard_time": 1744985243,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 192370,
@@ -9299,6 +9395,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 188503,
+      "num": 188503,
+      "word": "檀健次哪吒2梦幻联动",
+      "onboard_time": 1744985482,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 188471,
       "num": 188471,
       "word": "皇马1比2阿森纳",
@@ -9425,6 +9529,14 @@
       "onboard_time": 1744776865,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 186708,
+      "num": 193185,
+      "word": "天赐的声音",
+      "onboard_time": 1744738517,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 186690,
@@ -9595,6 +9707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184390,
+      "num": 184390,
+      "word": "辽宁男篮晋级四强",
+      "onboard_time": 1744985543,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184313,
       "num": 317365,
       "word": "张东升严良时隔五年再相遇",
@@ -9609,6 +9729,14 @@
       "onboard_time": 1744798641,
       "rank": 41,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 184235,
+      "num": 184235,
+      "word": "关税大棒下世界超市义乌的现状",
+      "onboard_time": 1744985063,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 184020,
@@ -10211,6 +10339,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 175808,
+      "num": 175808,
+      "word": "金智秀齐刘海黑短裙",
+      "onboard_time": 1744984283,
+      "rank": 46,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 175804,
       "num": 175804,
       "word": "金秀贤方控告网友",
@@ -10340,7 +10476,7 @@
     },
     {
       "raw_hot": 174159,
-      "num": 174159,
+      "num": 277316,
       "word": "李晟敏与SM不续约",
       "onboard_time": 1744980202,
       "rank": 49,
@@ -10689,6 +10825,14 @@
       "onboard_time": 1744859481,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 169099,
+      "num": 169099,
+      "word": "wego痛包",
+      "onboard_time": 1744983683,
+      "rank": 44,
+      "category": "动漫"
     },
     {
       "raw_hot": 168902,
@@ -12073,6 +12217,14 @@
       "onboard_time": 1744698622,
       "rank": 44,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 151956,
+      "num": 151956,
+      "word": "过敏人春天全副武装出门",
+      "onboard_time": 1744986082,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 151880,
@@ -13595,6 +13747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137357,
+      "num": 370057,
+      "word": "北大博士回应入职民办高校被指浪费",
+      "onboard_time": 1744985362,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137253,
       "num": 137253,
       "word": "孙颖莎连救6个局点",
@@ -14811,6 +14971,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 125959,
+      "num": 825924,
+      "word": "这就是MadeinChina的底气",
+      "onboard_time": 1744983983,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 125912,
       "num": 125912,
       "word": "安兔兔称跑分没用",
@@ -14905,6 +15073,14 @@
       "onboard_time": 1744955063,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124987,
+      "num": 1162124,
+      "word": "美国加关税是搬石头砸自己脚",
+      "onboard_time": 1744982901,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 124957,
@@ -15216,14 +15392,6 @@
       "word": "王皓大声提醒大头接发球要果断",
       "onboard_time": 1744709721,
       "rank": 29,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 121747,
-      "num": 369947,
-      "word": "王曼昱球品如人品",
-      "onboard_time": 1744983322,
-      "rank": 19,
       "category": "体育"
     },
     {
@@ -15667,14 +15835,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 117607,
-      "num": 117607,
-      "word": "wego痛包",
-      "onboard_time": 1744983683,
-      "rank": 44,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 117542,
       "num": 117542,
       "word": "张远演唱会嘉宾王心凌",
@@ -16089,6 +16249,14 @@
       "onboard_time": 1744541121,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 112636,
+      "num": 278861,
+      "word": "王曼昱主动和裁判说对方得分",
+      "onboard_time": 1744984884,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 112617,
@@ -18427,6 +18595,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 71174,
+      "num": 402655,
+      "word": "赵今麦官宣新身份",
+      "onboard_time": 1744984225,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 70962,
       "num": 271975,
       "word": "3岁男童被虐待致死案母亲曝光细节",
@@ -18457,6 +18633,14 @@
       "onboard_time": 1744973722,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 70407,
+      "num": 423346,
+      "word": "洪秀柱称台独拖着2300万人走绝路",
+      "onboard_time": 1744984884,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 70067,
@@ -18913,6 +19097,14 @@
       "onboard_time": 1744515261,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 61798,
+      "num": 288019,
+      "word": "蒋勤勤张婧仪地母系母女好养眼",
+      "onboard_time": 1744985302,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 61740,
@@ -20371,6 +20563,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 38758,
+      "num": 232127,
+      "word": "被前男友泼汽油毁容女子望二审重判",
+      "onboard_time": 1744985063,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38732,
       "num": 176633,
       "word": "林诗栋回应晋级世界杯16强",
@@ -20441,14 +20641,6 @@
       "onboard_time": 1744552944,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 37730,
-      "num": 1162124,
-      "word": "美国加关税是搬石头砸自己脚",
-      "onboard_time": 1744982901,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 37636,
@@ -20625,6 +20817,14 @@
       "onboard_time": 1744758619,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 34809,
+      "num": 232093,
+      "word": "刘国梁谈乒乓球金牌增至6块",
+      "onboard_time": 1744985903,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 34708,
@@ -21443,6 +21643,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 22215,
+      "num": 184614,
+      "word": "轻断食真的靠谱吗",
+      "onboard_time": 1744984884,
+      "rank": 43,
+      "category": "科学科普,民生新闻"
+    },
+    {
       "raw_hot": 22137,
       "num": 415295,
       "word": "美议员怒斥关税战只有混乱和腐败",
@@ -21955,14 +22163,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 16606,
-      "num": 26223,
-      "word": "天赐的声音",
-      "onboard_time": 1744738517,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 16546,
       "num": 578543,
       "word": "2025世界互联网大会亚太峰会",
@@ -22089,6 +22289,14 @@
       "onboard_time": 1744657634,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 13724,
+      "num": 374978,
+      "word": "如何看待澳门世乒赛林诗栋晋级八强",
+      "onboard_time": 1744985424,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 13628,
@@ -22489,6 +22697,14 @@
       "onboard_time": 1744875441,
       "rank": 39,
       "category": "幽默,教育"
+    },
+    {
+      "raw_hot": 4552,
+      "num": 193039,
+      "word": "你没见过的蝌蚪吃鱼",
+      "onboard_time": 1744985482,
+      "rank": 39,
+      "category": "科学科普"
     },
     {
       "raw_hot": 189,

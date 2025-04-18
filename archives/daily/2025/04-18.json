@@ -1,6 +1,6 @@
 {
   "startTime": 1744907462255,
-  "endTime": 1744983737327,
+  "endTime": 1744986167519,
   "band_list": [
     {
       "raw_hot": 2716065,
@@ -99,6 +99,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1135942,
+      "num": 1135942,
+      "word": "特朗普表示对中美达成协议有信心",
+      "onboard_time": 1744983683,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1097340,
       "num": 399062,
       "word": "谢娜夜骑到鸟巢给张杰送玫瑰花",
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 939030,
-      "num": 456434,
+      "num": 688579,
       "word": "孙珍妮回应脸肿",
       "onboard_time": 1744978041,
       "rank": 10,
@@ -211,6 +219,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 803739,
+      "num": 803739,
+      "word": "王者荣耀 哪吒",
+      "onboard_time": 1744983625,
+      "rank": 25,
+      "category": "游戏,电影"
+    },
+    {
+      "raw_hot": 774684,
+      "num": 774684,
+      "word": "被室友电瓶烧伤男生283天后再次发声",
+      "onboard_time": 1744981405,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 773643,
       "num": 773643,
       "word": "乖乖女导演又拍出了救赎天花板",
@@ -241,6 +265,14 @@
       "onboard_time": 1744936460,
       "rank": 1,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 725611,
+      "num": 725611,
+      "word": "王曼昱球品如人品",
+      "onboard_time": 1744983322,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 724320,
@@ -371,14 +403,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 581291,
-      "num": 581291,
-      "word": "被室友电瓶烧伤男生283天后再次发声",
-      "onboard_time": 1744981405,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 578322,
       "num": 578322,
       "word": "王楚钦4比3杜达",
@@ -412,7 +436,7 @@
     },
     {
       "raw_hot": 536861,
-      "num": 536861,
+      "num": 814058,
       "word": "刘宇宁说折腰没有吻戏",
       "onboard_time": 1744980382,
       "rank": 13,
@@ -627,6 +651,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 398346,
+      "num": 786575,
+      "word": "檀健次深情献唱哪吒2片尾曲",
+      "onboard_time": 1744985003,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 396980,
       "num": 396980,
       "word": "王楚钦朝球迷竖大拇指",
@@ -787,6 +819,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 342385,
+      "num": 342385,
+      "word": "张本智和vs雨果",
+      "onboard_time": 1744984702,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 338109,
+      "num": 509826,
+      "word": "张杰三折叠大屏",
+      "onboard_time": 1744984042,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
       "raw_hot": 335635,
       "num": 335635,
       "word": "鬼鬼公开冻卵的整个过程",
@@ -867,14 +915,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 289165,
-      "num": 289165,
-      "word": "王者荣耀 哪吒",
-      "onboard_time": 1744983625,
-      "rank": 25,
-      "category": "游戏,电影"
-    },
-    {
       "raw_hot": 284811,
       "num": 377306,
       "word": "北影节红毯",
@@ -897,6 +937,14 @@
       "onboard_time": 1744946841,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 277024,
+      "num": 277024,
+      "word": "陈哲远剪寸头",
+      "onboard_time": 1744984343,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 274196,
@@ -995,14 +1043,6 @@
       "category": "幽默,民生新闻"
     },
     {
-      "raw_hot": 252386,
-      "num": 252386,
-      "word": "特朗普表示对中美达成协议有信心",
-      "onboard_time": 1744983683,
-      "rank": 30,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 250625,
       "num": 417014,
       "word": "无忧渡热度",
@@ -1081,6 +1121,14 @@
       "onboard_time": 1744951824,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 237798,
+      "num": 237798,
+      "word": "倪妮内场造型",
+      "onboard_time": 1744984283,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 233749,
@@ -1219,6 +1267,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208054,
+      "num": 208054,
+      "word": "特朗普称1个月内会与中国达成协议",
+      "onboard_time": 1744985725,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 207771,
+      "num": 207771,
+      "word": "全员加速中 推迟录制",
+      "onboard_time": 1744985243,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206216,
       "num": 206216,
       "word": "李耕耘古乐风华录",
@@ -1233,6 +1297,14 @@
       "onboard_time": 1744937481,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 205215,
+      "num": 205215,
+      "word": "新版北京欢迎你",
+      "onboard_time": 1744985843,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 204687,
@@ -1315,6 +1387,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 201580,
+      "num": 201580,
+      "word": "贺峻霖killbill",
+      "onboard_time": 1744985664,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201286,
       "num": 201286,
       "word": "无忧渡这个单元封神了",
@@ -1371,6 +1451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193425,
+      "num": 193425,
+      "word": "青岛男篮vs广厦男篮",
+      "onboard_time": 1744985003,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193083,
       "num": 391905,
       "word": "蓄水期抢跑计划",
@@ -1393,6 +1481,14 @@
       "onboard_time": 1744941681,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 192570,
+      "num": 192570,
+      "word": "美国商家呼吁同行别撕中国制标签",
+      "onboard_time": 1744985243,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 191565,
@@ -1451,6 +1547,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 188503,
+      "num": 188503,
+      "word": "檀健次哪吒2梦幻联动",
+      "onboard_time": 1744985482,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 186708,
+      "num": 193185,
+      "word": "天赐的声音",
+      "onboard_time": 1744985124,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186206,
       "num": 277364,
       "word": "秦彻牢笼可不是野兽的归宿",
@@ -1473,6 +1585,22 @@
       "onboard_time": 1744979902,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 184390,
+      "num": 184390,
+      "word": "辽宁男篮晋级四强",
+      "onboard_time": 1744985543,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 184235,
+      "num": 184235,
+      "word": "关税大棒下世界超市义乌的现状",
+      "onboard_time": 1744985063,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 182748,
@@ -1539,6 +1667,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 175808,
+      "num": 175808,
+      "word": "金智秀齐刘海黑短裙",
+      "onboard_time": 1744984283,
+      "rank": 46,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 175519,
       "num": 361712,
       "word": "林诗栋vs莫雷加德",
@@ -1548,7 +1684,7 @@
     },
     {
       "raw_hot": 174159,
-      "num": 174159,
+      "num": 277316,
       "word": "李晟敏与SM不续约",
       "onboard_time": 1744980202,
       "rank": 49,
@@ -1585,6 +1721,14 @@
       "onboard_time": 1744957821,
       "rank": 22,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 169099,
+      "num": 169099,
+      "word": "wego痛包",
+      "onboard_time": 1744983683,
+      "rank": 44,
+      "category": "动漫"
     },
     {
       "raw_hot": 168355,
@@ -1825,6 +1969,14 @@
       "onboard_time": 1744954282,
       "rank": 40,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 151956,
+      "num": 151956,
+      "word": "过敏人春天全副武装出门",
+      "onboard_time": 1744986082,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 151460,
@@ -2155,6 +2307,14 @@
       "category": "互联网,数码"
     },
     {
+      "raw_hot": 137357,
+      "num": 370057,
+      "word": "北大博士回应入职民办高校被指浪费",
+      "onboard_time": 1744985362,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136824,
       "num": 136824,
       "word": "张檬产前vs产后",
@@ -2291,6 +2451,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 125959,
+      "num": 825924,
+      "word": "这就是MadeinChina的底气",
+      "onboard_time": 1744983983,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 125388,
       "num": 125388,
       "word": "霸王茶姬上市首日涨15%",
@@ -2315,6 +2483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124987,
+      "num": 1162124,
+      "word": "美国加关税是搬石头砸自己脚",
+      "onboard_time": 1744982901,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 124957,
       "num": 124957,
       "word": "王皓让王楚钦坐着听",
@@ -2337,14 +2513,6 @@
       "onboard_time": 1744966341,
       "rank": 6,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 121747,
-      "num": 369947,
-      "word": "王曼昱球品如人品",
-      "onboard_time": 1744983322,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 121520,
@@ -2419,14 +2587,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 117607,
-      "num": 117607,
-      "word": "wego痛包",
-      "onboard_time": 1744983683,
-      "rank": 44,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 115469,
       "num": 115469,
       "word": "全美没有一家工厂能生产娃娃头发",
@@ -2480,6 +2640,14 @@
       "word": "对手教练也在夸王楚钦",
       "onboard_time": 1744968740,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 112636,
+      "num": 278861,
+      "word": "王曼昱主动和裁判说对方得分",
+      "onboard_time": 1744984884,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -2891,6 +3059,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 71174,
+      "num": 402655,
+      "word": "赵今麦官宣新身份",
+      "onboard_time": 1744984225,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 70901,
       "num": 381085,
       "word": "大众德国老板直播秀ID3硬刚追尾",
@@ -2913,6 +3089,14 @@
       "onboard_time": 1744973722,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 70407,
+      "num": 423346,
+      "word": "洪秀柱称台独拖着2300万人走绝路",
+      "onboard_time": 1744984884,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 67455,
@@ -3016,6 +3200,14 @@
       "word": "2025北京国际电影节",
       "onboard_time": 1744906878,
       "rank": 44,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 61798,
+      "num": 288019,
+      "word": "蒋勤勤张婧仪地母系母女好养眼",
+      "onboard_time": 1744985302,
+      "rank": 23,
       "category": "电影"
     },
     {
@@ -3323,6 +3515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38758,
+      "num": 232127,
+      "word": "被前男友泼汽油毁容女子望二审重判",
+      "onboard_time": 1744985063,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38567,
       "num": 142748,
       "word": "又让我在网上学到真东西了",
@@ -3337,14 +3537,6 @@
       "onboard_time": 1744974982,
       "rank": 28,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 37730,
-      "num": 1162124,
-      "word": "美国加关税是搬石头砸自己脚",
-      "onboard_time": 1744982901,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 37002,
@@ -3376,6 +3568,14 @@
       "word": "世界羽联总决赛改期",
       "onboard_time": 1744967721,
       "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 34809,
+      "num": 232093,
+      "word": "刘国梁谈乒乓球金牌增至6块",
+      "onboard_time": 1744985903,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -3571,6 +3771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 22215,
+      "num": 184614,
+      "word": "轻断食真的靠谱吗",
+      "onboard_time": 1744984884,
+      "rank": 43,
+      "category": "科学科普,民生新闻"
+    },
+    {
       "raw_hot": 21058,
       "num": 22520,
       "word": "4K超高清的视界每一帧都震撼",
@@ -3673,6 +3881,14 @@
       "onboard_time": 1744968680,
       "rank": 38,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 13724,
+      "num": 374978,
+      "word": "如何看待澳门世乒赛林诗栋晋级八强",
+      "onboard_time": 1744985424,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 13628,
@@ -3785,6 +4001,14 @@
       "onboard_time": 1744951223,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 4552,
+      "num": 193039,
+      "word": "你没见过的蝌蚪吃鱼",
+      "onboard_time": 1744985482,
+      "rank": 39,
+      "category": "科学科普"
     }
   ],
   "hotgov_list": [
