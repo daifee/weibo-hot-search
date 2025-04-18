@@ -1,0 +1,410 @@
+{
+  "runTime": 1745001943071,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 224013,
+        "num": 227429,
+        "word": "特朗普暗示不想继续提高对华关税",
+        "onboard_time": 1744993282,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 165391,
+        "num": 165391,
+        "word": "中国被曝已不再生产出口美国的玩具",
+        "onboard_time": 1744958962,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 31466,
+        "num": 138330,
+        "word": "美国加关税是搬石头砸自己脚",
+        "onboard_time": 1744982901,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 593223,
+        "num": 134176,
+        "word": "日本",
+        "onboard_time": 1744979242,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 123050,
+        "num": 123050,
+        "word": "美国公布罗伯特肯尼迪遇刺案记录",
+        "onboard_time": 1744991301,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 122855,
+        "num": 122855,
+        "word": "张杰演唱会唱了就是哪吒",
+        "onboard_time": 1744995618,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 119767,
+        "num": 119767,
+        "word": "日本多地发生无差别杀人事件",
+        "onboard_time": 1744945102,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 97900,
+        "num": 97900,
+        "word": "周深拉斯维加斯站创最高票房纪录",
+        "onboard_time": 1744986503,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 82768,
+        "num": 82768,
+        "word": "秦彻",
+        "onboard_time": 1744989262,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 73556,
+        "num": 73556,
+        "word": "檀健次深情献唱哪吒2片尾曲",
+        "onboard_time": 1744985003,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 212043,
+        "num": 72466,
+        "word": "深圳一程序员4年不租房睡车里",
+        "onboard_time": 1744995438,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84389,
+        "num": 71966,
+        "word": "任敏好辣",
+        "onboard_time": 1744987824,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71183,
+        "num": 71183,
+        "word": "特朗普称1个月内会与中国达成协议",
+        "onboard_time": 1744985725,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 59496,
+        "num": 59496,
+        "word": "Rookie一滴血抢龙",
+        "onboard_time": 1744991842,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 15418,
+        "num": 58977,
+        "word": "希音Temu告知美国消费者25日起涨价",
+        "onboard_time": 1745001675,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 58658,
+        "num": 58658,
+        "word": "王曼昱球品如人品",
+        "onboard_time": 1744983322,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55483,
+        "num": 55483,
+        "word": "陈德容对吴宣仪的爱是手放开",
+        "onboard_time": 1744997597,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51801,
+        "num": 51801,
+        "word": "iG战胜JDG",
+        "onboard_time": 1744989624,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 50121,
+        "num": 50121,
+        "word": "重庆冰雹",
+        "onboard_time": 1744989503,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41720,
+        "num": 45165,
+        "word": "张杰演唱会麦给谢娜VaVa吴宣仪",
+        "onboard_time": 1744990703,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 141849,
+        "num": 45149,
+        "word": "猫一杯案开庭",
+        "onboard_time": 1744967900,
+        "rank": 20,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 44960,
+        "num": 44960,
+        "word": "孙珍妮回应脸肿",
+        "onboard_time": 1744978041,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42930,
+        "num": 42930,
+        "word": "女子每天吃十几个橙子确诊糖尿病",
+        "onboard_time": 1744986503,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41428,
+        "num": 41428,
+        "word": "新版北京欢迎你",
+        "onboard_time": 1744985843,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 38261,
+        "num": 38261,
+        "word": "王曼昱无缘女单四强",
+        "onboard_time": 1744981524,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37431,
+        "num": 37431,
+        "word": "孙俪救视主",
+        "onboard_time": 1744999336,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36473,
+        "num": 36473,
+        "word": "iG绝地翻盘",
+        "onboard_time": 1744990703,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 35318,
+        "num": 35318,
+        "word": "一招拿下射手座",
+        "onboard_time": 1744991962,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 33731,
+        "num": 33731,
+        "word": "北大博士回应入职民办高校被指浪费",
+        "onboard_time": 1744985362,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32287,
+        "num": 32915,
+        "word": "BOYNEXTDOOR回归新歌",
+        "onboard_time": 1744992381,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 32737,
+        "num": 32737,
+        "word": "wego痛包",
+        "onboard_time": 1744983683,
+        "rank": 30,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 32175,
+        "num": 32175,
+        "word": "丁禹兮音乐节粉丝应援",
+        "onboard_time": 1744996699,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 32022,
+        "num": 32022,
+        "word": "孙恩盛直播",
+        "onboard_time": 1744998737,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 31160,
+        "num": 32018,
+        "word": "张雨绮北影节生图真的太生了",
+        "onboard_time": 1744992323,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 27993,
+        "num": 32006,
+        "word": "陈德容 我没有跳个大概",
+        "onboard_time": 1744975101,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27871,
+        "num": 32004,
+        "word": "关税大棒下世界超市义乌的现状",
+        "onboard_time": 1744985063,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27795,
+        "num": 31993,
+        "word": "刘宇宁说折腰没有吻戏",
+        "onboard_time": 1744980382,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26817,
+        "num": 31984,
+        "word": "张继科说要给王曼昱空间",
+        "onboard_time": 1744988484,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26799,
+        "num": 31980,
+        "word": "王鹤棣 别整那些播不了的",
+        "onboard_time": 1744978041,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25735,
+        "num": 31971,
+        "word": "意大利发生缆车轿厢坠落事故",
+        "onboard_time": 1745000535,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 24306,
+        "num": 31961,
+        "word": "全员加速中 推迟录制",
+        "onboard_time": 1744985243,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23878,
+        "num": 31955,
+        "word": "五一前机票低至2折",
+        "onboard_time": 1744990402,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23291,
+        "num": 31941,
+        "word": "金智秀齐刘海黑短裙",
+        "onboard_time": 1744984283,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 23204,
+        "num": 31931,
+        "word": "贺峻霖北影节开场献唱",
+        "onboard_time": 1744991721,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 23153,
+        "num": 31929,
+        "word": "檀健次哪吒2梦幻联动",
+        "onboard_time": 1744985482,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 22965,
+        "num": 31918,
+        "word": "susu福福",
+        "onboard_time": 1745001315,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22845,
+        "num": 31906,
+        "word": "孙俪妈妈羡慕孙俪和马龙合影",
+        "onboard_time": 1744986565,
+        "rank": 46,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 22434,
+        "num": 31901,
+        "word": "雨中红毯",
+        "onboard_time": 1745001495,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 21282,
+        "num": 31893,
+        "word": "欧阳娜娜北京国际电影节",
+        "onboard_time": 1745001855,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 20054,
+        "num": 31890,
+        "word": "刘雨昕北影节献唱忽然想起来",
+        "onboard_time": 1744995259,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平结束国事访问回到北京#"
+    }
+  }
+}

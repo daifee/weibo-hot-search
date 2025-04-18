@@ -1,6 +1,6 @@
 {
   "startTime": 1744993775892,
-  "endTime": 1745001146228,
+  "endTime": 1745001943071,
   "band_list": [
     {
       "raw_hot": 2817932,
@@ -491,15 +491,15 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 35754,
-      "num": 35754,
+      "raw_hot": 37431,
+      "num": 37431,
       "word": "孙俪救视主",
       "onboard_time": 1744999336,
       "rank": 28,
       "category": "剧集"
     },
     {
-      "raw_hot": 30348,
+      "raw_hot": 32022,
       "num": 34226,
       "word": "孙恩盛直播",
       "onboard_time": 1744998737,
@@ -529,6 +529,38 @@
       "onboard_time": 1744998618,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 22965,
+      "num": 31918,
+      "word": "susu福福",
+      "onboard_time": 1745001315,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 22434,
+      "num": 31901,
+      "word": "雨中红毯",
+      "onboard_time": 1745001495,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 21282,
+      "num": 31893,
+      "word": "欧阳娜娜北京国际电影节",
+      "onboard_time": 1745001855,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 15418,
+      "num": 58977,
+      "word": "希音Temu告知美国消费者25日起涨价",
+      "onboard_time": 1745001675,
+      "rank": 14,
+      "category": "海外新闻"
     }
   ],
   "hotgov_list": [
