@@ -1,0 +1,410 @@
+{
+  "runTime": 1744942353382,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 853957,
+        "num": 1136633,
+        "word": "美国人喜欢的三蹦子可能要断货了",
+        "onboard_time": 1744933219,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 752323,
+        "num": 752323,
+        "word": "警方通报江西杀害夫妻2人嫌犯被抓",
+        "onboard_time": 1744936460,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 42775,
+        "num": 654482,
+        "word": "马来西亚榴莲如何来到中国餐桌",
+        "onboard_time": 1744896923,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 566562,
+        "num": 566562,
+        "word": "爱马仕宣布在美国全线涨价",
+        "onboard_time": 1744935200,
+        "rank": 3,
+        "category": "财经,时尚"
+      },
+      {
+        "raw_hot": 551075,
+        "num": 551075,
+        "word": "美国提出乌领土分割方案",
+        "onboard_time": 1744935200,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 416650,
+        "num": 416650,
+        "word": "古乐风华录全阵容官宣",
+        "onboard_time": 1744941142,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 272527,
+        "num": 272527,
+        "word": "特朗普说美联储主席该尽早走人",
+        "onboard_time": 1744933400,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 246040,
+        "num": 246040,
+        "word": "多地气温满30减10",
+        "onboard_time": 1744936882,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230775,
+        "num": 245010,
+        "word": "震耳欲聋",
+        "onboard_time": 1744941142,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 154639,
+        "num": 243538,
+        "word": "江西修水刑案嫌疑人被抓获",
+        "onboard_time": 1744941681,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1097340,
+        "num": 243054,
+        "word": "谢娜夜骑到鸟巢给张杰送玫瑰花",
+        "onboard_time": 1744904422,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 862482,
+        "num": 240852,
+        "word": "鬼鬼产后一天只吃一餐",
+        "onboard_time": 1744937422,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 546490,
+        "num": 240066,
+        "word": "黄晓明起诉龚文祥",
+        "onboard_time": 1744938982,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238964,
+        "num": 238964,
+        "word": "90后男子搬砖9年攒下200万",
+        "onboard_time": 1744933879,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 494228,
+        "num": 238598,
+        "word": "男子欲与女技师发生性关系被控强奸",
+        "onboard_time": 1744891040,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 380673,
+        "num": 237418,
+        "word": "张杰一手抱花一手抱谢娜",
+        "onboard_time": 1744936882,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274196,
+        "num": 236448,
+        "word": "8月龄仅6斤重女婴父亲发声",
+        "onboard_time": 1744940660,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251266,
+        "num": 234923,
+        "word": "96名业主自筹千万烂尾楼复工",
+        "onboard_time": 1744936161,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234872,
+        "num": 234872,
+        "word": "杨采钰怀孕",
+        "onboard_time": 1744886481,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192588,
+        "num": 232472,
+        "word": "震耳欲聋全阵容",
+        "onboard_time": 1744941681,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 337496,
+        "num": 232226,
+        "word": "市长来1小时你耽误他10分钟",
+        "onboard_time": 1744933281,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231919,
+        "num": 231919,
+        "word": "大疆水印 电子内裤边边",
+        "onboard_time": 1744940601,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 218602,
+        "num": 218602,
+        "word": "戒掉咖啡一个月后的身体变化",
+        "onboard_time": 1744888102,
+        "rank": 22,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 208751,
+        "num": 208751,
+        "word": "霸王茶姬",
+        "onboard_time": 1744941199,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 174050,
+        "num": 206986,
+        "word": "许连捷去世",
+        "onboard_time": 1744941381,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 206035,
+        "num": 206035,
+        "word": "朱开开团Doinb",
+        "onboard_time": 1744937481,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 197987,
+        "num": 197987,
+        "word": "一家人出门没拔充电器家里被烧光",
+        "onboard_time": 1744903342,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191397,
+        "num": 191397,
+        "word": "业主119万房子4年后只值40万",
+        "onboard_time": 1744935801,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172363,
+        "num": 172363,
+        "word": "原来这就是曾经的军艺校草",
+        "onboard_time": 1744938562,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129007,
+        "num": 166327,
+        "word": "虞书欣回应送全红婵娃娃",
+        "onboard_time": 1744917673,
+        "rank": 29,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 165676,
+        "num": 165676,
+        "word": "宋雨琦 看得出她是公主",
+        "onboard_time": 1744940601,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162486,
+        "num": 162486,
+        "word": "杭铁回应地铁口被吐槽像棺材",
+        "onboard_time": 1744901662,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154684,
+        "num": 154684,
+        "word": "刘亦菲红裙起舞",
+        "onboard_time": 1744937781,
+        "rank": 32,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 143484,
+        "num": 143484,
+        "word": "杭州一地铁出入口被指像棺材",
+        "onboard_time": 1744935501,
+        "rank": 33,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 135630,
+        "num": 135630,
+        "word": "张新成演技",
+        "onboard_time": 1744942040,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135106,
+        "num": 135106,
+        "word": "四川村民晨跑遇上大熊猫",
+        "onboard_time": 1744935200,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122334,
+        "num": 122334,
+        "word": "甘肃市政回应员工上班时间做操",
+        "onboard_time": 1744939460,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121520,
+        "num": 121520,
+        "word": "敖瑞鹏hi6录制逆应援",
+        "onboard_time": 1744941500,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116349,
+        "num": 116349,
+        "word": "认养一头牛称暂不考虑撤掉广告",
+        "onboard_time": 1744892421,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109123,
+        "num": 109123,
+        "word": "长期吃零食的人身体会发生什么变化",
+        "onboard_time": 1744899742,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105016,
+        "num": 105016,
+        "word": "不要给情绪低落的人输出大道理",
+        "onboard_time": 1744941860,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104246,
+        "num": 104246,
+        "word": "特朗普用收税威胁哈佛道歉",
+        "onboard_time": 1744920674,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 103650,
+        "num": 103650,
+        "word": "ApplePencil或将支持无线通信",
+        "onboard_time": 1744942040,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 100130,
+        "num": 100130,
+        "word": "丁程鑫发博安慰粉丝",
+        "onboard_time": 1744897402,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99779,
+        "num": 99779,
+        "word": "朱开回应替iG粉丝下跪",
+        "onboard_time": 1744941681,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 98902,
+        "num": 98902,
+        "word": "科学家或发现外星生命存在最有力证据",
+        "onboard_time": 1744903282,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96894,
+        "num": 96894,
+        "word": "湖南卫视连发20条杨幂",
+        "onboard_time": 1744907538,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91053,
+        "num": 91053,
+        "word": "霸王茶姬上市首日涨15%",
+        "onboard_time": 1744940601,
+        "rank": 47,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 86635,
+        "num": 86635,
+        "word": "女子因提分手被60岁男友杀害案将开庭",
+        "onboard_time": 1744917794,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85789,
+        "num": 85789,
+        "word": "在中国住了40年的老外劝诫美国",
+        "onboard_time": 1744935082,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见洪森#"
+    }
+  }
+}

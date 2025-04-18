@@ -1,7 +1,15 @@
 {
   "startTime": 1744907462255,
-  "endTime": 1744940996375,
+  "endTime": 1744942353382,
   "band_list": [
+    {
+      "raw_hot": 1097340,
+      "num": 243054,
+      "word": "谢娜夜骑到鸟巢给张杰送玫瑰花",
+      "onboard_time": 1744904422,
+      "rank": 10,
+      "category": "演出"
+    },
     {
       "raw_hot": 1086095,
       "num": 1007415,
@@ -11,16 +19,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1060400,
-      "num": 179186,
-      "word": "谢娜夜骑到鸟巢给张杰送玫瑰花",
-      "onboard_time": 1744904422,
-      "rank": 10,
-      "category": "演出"
-    },
-    {
       "raw_hot": 1052122,
-      "num": 178870,
+      "num": 240852,
       "word": "鬼鬼产后一天只吃一餐",
       "onboard_time": 1744937422,
       "rank": 11,
@@ -59,6 +59,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 752323,
+      "num": 752323,
+      "word": "警方通报江西杀害夫妻2人嫌犯被抓",
+      "onboard_time": 1744936460,
+      "rank": 1,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 717499,
       "num": 932317,
       "word": "医院回应女子微创手术后脑死亡",
@@ -83,14 +91,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 646344,
-      "num": 646344,
-      "word": "警方通报江西杀害夫妻2人嫌犯被抓",
-      "onboard_time": 1744936460,
-      "rank": 1,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 619368,
       "num": 318863,
       "word": "杨采钰怀孕",
@@ -113,6 +113,14 @@
       "onboard_time": 1744904722,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 546490,
+      "num": 240066,
+      "word": "黄晓明起诉龚文祥",
+      "onboard_time": 1744938982,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 539195,
@@ -147,20 +155,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 474513,
-      "num": 178283,
-      "word": "黄晓明起诉龚文祥",
-      "onboard_time": 1744938982,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 440898,
-      "num": 177540,
+      "num": 237418,
       "word": "张杰一手抱花一手抱谢娜",
       "onboard_time": 1744936882,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 416650,
+      "num": 416650,
+      "word": "古乐风华录全阵容官宣",
+      "onboard_time": 1744941142,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 394936,
@@ -172,7 +180,7 @@
     },
     {
       "raw_hot": 380137,
-      "num": 174280,
+      "num": 232226,
       "word": "市长来1小时你耽误他10分钟",
       "onboard_time": 1744933281,
       "rank": 21,
@@ -228,15 +236,23 @@
     },
     {
       "raw_hot": 291012,
-      "num": 176490,
+      "num": 234923,
       "word": "96名业主自筹千万烂尾楼复工",
       "onboard_time": 1744936161,
       "rank": 17,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 269683,
-      "num": 269683,
+      "raw_hot": 274196,
+      "num": 236448,
+      "word": "8月龄仅6斤重女婴父亲发声",
+      "onboard_time": 1744940660,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 272527,
+      "num": 272527,
       "word": "特朗普说美联储主席该尽早走人",
       "onboard_time": 1744933400,
       "rank": 6,
@@ -252,7 +268,7 @@
     },
     {
       "raw_hot": 256836,
-      "num": 173636,
+      "num": 191397,
       "word": "业主119万房子4年后只值40万",
       "onboard_time": 1744935801,
       "rank": 22,
@@ -260,11 +276,19 @@
     },
     {
       "raw_hot": 253719,
-      "num": 175559,
+      "num": 218602,
       "word": "戒掉咖啡一个月后的身体变化",
       "onboard_time": 1744888102,
       "rank": 28,
       "category": "幽默,民生新闻"
+    },
+    {
+      "raw_hot": 246040,
+      "num": 246040,
+      "word": "多地气温满30减10",
+      "onboard_time": 1744936882,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 244434,
@@ -275,12 +299,44 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 230937,
-      "num": 172969,
-      "word": "8月龄仅6斤重女婴父亲发声",
-      "onboard_time": 1744940660,
-      "rank": 24,
+      "raw_hot": 238964,
+      "num": 238964,
+      "word": "90后男子搬砖9年攒下200万",
+      "onboard_time": 1744933879,
+      "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 231919,
+      "num": 231919,
+      "word": "大疆水印 电子内裤边边",
+      "onboard_time": 1744940601,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 230775,
+      "num": 245010,
+      "word": "震耳欲聋",
+      "onboard_time": 1744941142,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 208751,
+      "num": 208751,
+      "word": "霸王茶姬",
+      "onboard_time": 1744941199,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 206035,
+      "num": 206035,
+      "word": "朱开开团Doinb",
+      "onboard_time": 1744937481,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 202575,
@@ -299,12 +355,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 190564,
-      "num": 190564,
-      "word": "多地气温满30减10",
-      "onboard_time": 1744936882,
-      "rank": 7,
-      "category": "民生新闻"
+      "raw_hot": 192588,
+      "num": 232472,
+      "word": "震耳欲聋全阵容",
+      "onboard_time": 1744941681,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 189087,
@@ -323,16 +379,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 179608,
-      "num": 179608,
-      "word": "朱开开团Doinb",
-      "onboard_time": 1744937481,
-      "rank": 8,
-      "category": "电竞"
+      "raw_hot": 174050,
+      "num": 206986,
+      "word": "许连捷去世",
+      "onboard_time": 1744941381,
+      "rank": 24,
+      "category": "财经"
     },
     {
-      "raw_hot": 170883,
-      "num": 170883,
+      "raw_hot": 172363,
+      "num": 172363,
       "word": "原来这就是曾经的军艺校草",
       "onboard_time": 1744938562,
       "rank": 28,
@@ -347,12 +403,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 166052,
-      "num": 175148,
-      "word": "90后男子搬砖9年攒下200万",
-      "onboard_time": 1744933879,
-      "rank": 20,
-      "category": "民生新闻"
+      "raw_hot": 165676,
+      "num": 165676,
+      "word": "宋雨琦 看得出她是公主",
+      "onboard_time": 1744940601,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 164526,
@@ -385,6 +441,22 @@
       "onboard_time": 1744894042,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 154684,
+      "num": 154684,
+      "word": "刘亦菲红裙起舞",
+      "onboard_time": 1744937781,
+      "rank": 41,
+      "category": "艺人,汽车"
+    },
+    {
+      "raw_hot": 154639,
+      "num": 243538,
+      "word": "江西修水刑案嫌疑人被抓获",
+      "onboard_time": 1744941681,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 146514,
@@ -427,6 +499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135630,
+      "num": 135630,
+      "word": "张新成演技",
+      "onboard_time": 1744942040,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135601,
       "num": 135601,
       "word": "在中国住了40年的老外劝诫美国",
@@ -459,12 +539,12 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 125060,
-      "num": 125060,
-      "word": "大疆水印 电子内裤边边",
-      "onboard_time": 1744940601,
-      "rank": 35,
-      "category": "数码"
+      "raw_hot": 121520,
+      "num": 121520,
+      "word": "敖瑞鹏hi6录制逆应援",
+      "onboard_time": 1744941500,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 120733,
@@ -491,20 +571,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 106288,
-      "num": 106288,
-      "word": "刘亦菲红裙起舞",
-      "onboard_time": 1744937781,
-      "rank": 41,
-      "category": "艺人,汽车"
+      "raw_hot": 105016,
+      "num": 105016,
+      "word": "不要给情绪低落的人输出大道理",
+      "onboard_time": 1744941860,
+      "rank": 40,
+      "category": "情感"
     },
     {
-      "raw_hot": 105549,
-      "num": 105549,
-      "word": "宋雨琦 看得出她是公主",
-      "onboard_time": 1744940601,
+      "raw_hot": 103650,
+      "num": 103650,
+      "word": "ApplePencil或将支持无线通信",
+      "onboard_time": 1744942040,
       "rank": 42,
-      "category": "综艺"
+      "category": "数码"
     },
     {
       "raw_hot": 100669,
@@ -513,6 +593,14 @@
       "onboard_time": 1744938562,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99779,
+      "num": 99779,
+      "word": "朱开回应替iG粉丝下跪",
+      "onboard_time": 1744941681,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 98789,
@@ -756,7 +844,7 @@
     },
     {
       "raw_hot": 46384,
-      "num": 609568,
+      "num": 654482,
       "word": "马来西亚榴莲如何来到中国餐桌",
       "onboard_time": 1744896923,
       "rank": 2,
