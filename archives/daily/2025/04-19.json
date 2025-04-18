@@ -1,6 +1,6 @@
 {
   "startTime": 1744993775892,
-  "endTime": 1744994655389,
+  "endTime": 1744996913624,
   "band_list": [
     {
       "raw_hot": 2817932,
@@ -67,6 +67,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 470405,
+      "num": 160526,
+      "word": "深圳一程序员4年不租房睡车里",
+      "onboard_time": 1744995438,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 427908,
+      "num": 186504,
+      "word": "特朗普暗示不想继续提高对华关税",
+      "onboard_time": 1744993282,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 362453,
       "num": 362453,
       "word": "周深拉斯维加斯站创最高票房纪录",
@@ -131,6 +147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 248293,
+      "num": 248293,
+      "word": "张杰演唱会唱了就是哪吒",
+      "onboard_time": 1744995618,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
       "raw_hot": 225786,
       "num": 225786,
       "word": "孙俪妈妈羡慕孙俪和马龙合影",
@@ -185,14 +209,6 @@
       "onboard_time": 1744991721,
       "rank": 22,
       "category": "电影"
-    },
-    {
-      "raw_hot": 186504,
-      "num": 186504,
-      "word": "特朗普暗示不想继续提高对华关税",
-      "onboard_time": 1744993282,
-      "rank": 41,
-      "category": "国际时政"
     },
     {
       "raw_hot": 183014,
@@ -323,6 +339,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 106700,
+      "num": 106700,
+      "word": "一招拿下射手座",
+      "onboard_time": 1744991962,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 104366,
       "num": 104366,
       "word": "iG赛后采访",
@@ -337,14 +361,6 @@
       "onboard_time": 1744982901,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 96890,
-      "num": 96890,
-      "word": "一招拿下射手座",
-      "onboard_time": 1744991962,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 93698,
@@ -369,6 +385,14 @@
       "onboard_time": 1744993520,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 91074,
+      "num": 91074,
+      "word": "刘雨昕北影节献唱忽然想起来",
+      "onboard_time": 1744995259,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 90999,
@@ -412,7 +436,7 @@
     },
     {
       "raw_hot": 62978,
-      "num": 62978,
+      "num": 66168,
       "word": "wego痛包",
       "onboard_time": 1744983683,
       "rank": 48,
@@ -425,6 +449,22 @@
       "onboard_time": 1744990641,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 50196,
+      "num": 66154,
+      "word": "丁禹兮音乐节粉丝应援",
+      "onboard_time": 1744996699,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 46353,
+      "num": 66147,
+      "word": "折腰名字改回来了",
+      "onboard_time": 1744974862,
+      "rank": 47,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [
