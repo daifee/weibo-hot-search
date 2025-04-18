@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1744987237413,
+  "endTime": 1744989925271,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -2955,6 +2955,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1174855,
+      "num": 1105208,
+      "word": "王者荣耀 哪吒",
+      "onboard_time": 1744983625,
+      "rank": 25,
+      "category": "游戏,电影"
+    },
+    {
       "raw_hot": 1174032,
       "num": 332804,
       "word": "男子开车反复碾压他人致其身亡",
@@ -3417,14 +3425,6 @@
       "onboard_time": 1744339402,
       "rank": 13,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 1105208,
-      "num": 1105208,
-      "word": "王者荣耀 哪吒",
-      "onboard_time": 1744983625,
-      "rank": 25,
-      "category": "游戏,电影"
     },
     {
       "raw_hot": 1104741,
@@ -4051,6 +4051,14 @@
       "category": "国际时政,互联网"
     },
     {
+      "raw_hot": 983193,
+      "num": 983193,
+      "word": "新版北京欢迎你",
+      "onboard_time": 1744985843,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 981886,
       "num": 1157101,
       "word": "甲亢哥让合影小孩哥接爸爸电话",
@@ -4507,6 +4515,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 920162,
+      "num": 920162,
+      "word": "特朗普称1个月内会与中国达成协议",
+      "onboard_time": 1744985725,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 919793,
       "num": 919793,
       "word": "杜邦被立案调查",
@@ -4649,6 +4665,14 @@
       "onboard_time": 1743941062,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 905388,
+      "num": 507089,
+      "word": "任敏好辣",
+      "onboard_time": 1744987824,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 903650,
@@ -8595,6 +8619,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 560228,
+      "num": 560228,
+      "word": "iG战胜JDG",
+      "onboard_time": 1744989624,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 559747,
       "num": 427256,
       "word": "美国运动员下跪拒与跨性别者比赛",
@@ -8923,6 +8955,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 541669,
+      "num": 541669,
+      "word": "周深拉斯维加斯站创最高票房纪录",
+      "onboard_time": 1744986503,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 541426,
       "num": 834842,
       "word": "蒯曼0比4张本美和",
@@ -9001,6 +9041,14 @@
       "onboard_time": 1744179383,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 539219,
+      "num": 539219,
+      "word": "北大博士回应入职民办高校被指浪费",
+      "onboard_time": 1744985362,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 539195,
@@ -9907,14 +9955,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 496278,
-      "num": 496278,
-      "word": "北大博士回应入职民办高校被指浪费",
-      "onboard_time": 1744985362,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 496270,
       "num": 414663,
       "word": "长沙文旅",
@@ -10057,6 +10097,14 @@
       "onboard_time": 1744953502,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 491691,
+      "num": 786575,
+      "word": "檀健次深情献唱哪吒2片尾曲",
+      "onboard_time": 1744985003,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 491255,
@@ -11035,14 +11083,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 449776,
-      "num": 786575,
-      "word": "檀健次深情献唱哪吒2片尾曲",
-      "onboard_time": 1744985003,
-      "rank": 9,
-      "category": "电影"
-    },
-    {
       "raw_hot": 448935,
       "num": 448935,
       "word": "北大42岁副教授陈昊去世",
@@ -11329,14 +11369,6 @@
       "onboard_time": 1743464240,
       "rank": 11,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 440663,
-      "num": 600853,
-      "word": "新版北京欢迎你",
-      "onboard_time": 1744985843,
-      "rank": 35,
-      "category": "电影"
     },
     {
       "raw_hot": 440510,
@@ -12201,14 +12233,6 @@
       "onboard_time": 1744121424,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 410185,
-      "num": 410185,
-      "word": "特朗普称1个月内会与中国达成协议",
-      "onboard_time": 1744985725,
-      "rank": 33,
-      "category": "国际时政"
     },
     {
       "raw_hot": 410011,
@@ -14795,6 +14819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 336337,
+      "num": 269360,
+      "word": "檀健次哪吒2梦幻联动",
+      "onboard_time": 1744985482,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 335826,
       "num": 335826,
       "word": "北京一大学生获得重大贡献奖励",
@@ -15697,6 +15729,14 @@
       "onboard_time": 1743464480,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 315710,
+      "num": 315710,
+      "word": "JDG对战iG",
+      "onboard_time": 1744983625,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 315684,
@@ -18603,6 +18643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 263266,
+      "num": 263266,
+      "word": "全员加速中 推迟录制",
+      "onboard_time": 1744985243,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 263108,
       "num": 364260,
       "word": "小鹏X9看似小改款实则大焕新",
@@ -19331,14 +19379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 252699,
-      "num": 252699,
-      "word": "檀健次哪吒2梦幻联动",
-      "onboard_time": 1744985482,
-      "rank": 42,
-      "category": "电影"
-    },
-    {
       "raw_hot": 252650,
       "num": 252650,
       "word": "李嘉琦四公淘汰",
@@ -19915,20 +19955,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 243751,
-      "num": 243751,
-      "word": "全员加速中 推迟录制",
-      "onboard_time": 1744985243,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 243707,
       "num": 243707,
       "word": "达芬奇都调不出菏泽牡丹的美",
       "onboard_time": 1744337361,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 243596,
+      "num": 243596,
+      "word": "秦彻",
+      "onboard_time": 1744863202,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 243533,
@@ -20153,14 +20193,6 @@
       "onboard_time": 1743566842,
       "rank": 23,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 240269,
-      "num": 240269,
-      "word": "周深拉斯维加斯站创最高票房纪录",
-      "onboard_time": 1744986503,
-      "rank": 24,
-      "category": "演出"
     },
     {
       "raw_hot": 240266,
@@ -20587,6 +20619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 235679,
+      "num": 235679,
+      "word": "女子每天吃十几个橙子确诊糖尿病",
+      "onboard_time": 1744986503,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 235519,
       "num": 407803,
       "word": "74岁TVB老戏骨在狱中求婚成功",
@@ -20633,6 +20673,14 @@
       "onboard_time": 1744425983,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 235089,
+      "num": 235089,
+      "word": "孙俪妈妈羡慕孙俪和马龙合影",
+      "onboard_time": 1744986565,
+      "rank": 42,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 235036,
@@ -21731,14 +21779,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 224638,
-      "num": 224638,
-      "word": "秦彻",
-      "onboard_time": 1744863202,
-      "rank": 43,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 224439,
       "num": 345026,
       "word": "月鳞绮纪杀青",
@@ -22033,6 +22073,14 @@
       "onboard_time": 1744700600,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 221017,
+      "num": 221017,
+      "word": "张继科说要给王曼昱空间",
+      "onboard_time": 1744988484,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 220972,
@@ -23001,6 +23049,14 @@
       "onboard_time": 1744179983,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 212088,
+      "num": 212088,
+      "word": "金智秀齐刘海黑短裙",
+      "onboard_time": 1744984283,
+      "rank": 46,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 212061,
@@ -24801,6 +24857,14 @@
       "onboard_time": 1744720522,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 202877,
+      "num": 202877,
+      "word": "黄杨钿甜黑化芭比",
+      "onboard_time": 1744988784,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 202737,
@@ -27339,6 +27403,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 191358,
+      "num": 238399,
+      "word": "成毅歌声和武夷山有多适配",
+      "onboard_time": 1744988843,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191329,
       "num": 191329,
       "word": "出口技术须经中国政府依法审批",
@@ -27433,14 +27505,6 @@
       "onboard_time": 1744722922,
       "rank": 38,
       "category": "数码"
-    },
-    {
-      "raw_hot": 190823,
-      "num": 190823,
-      "word": "JDG对战iG",
-      "onboard_time": 1744983625,
-      "rank": 32,
-      "category": "电竞"
     },
     {
       "raw_hot": 190791,
@@ -30603,14 +30667,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 175808,
-      "num": 175808,
-      "word": "金智秀齐刘海黑短裙",
-      "onboard_time": 1744984283,
-      "rank": 46,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 175804,
       "num": 175804,
       "word": "金秀贤方控告网友",
@@ -30961,6 +31017,14 @@
       "onboard_time": 1744798461,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 174483,
+      "num": 174483,
+      "word": "重庆冰雹",
+      "onboard_time": 1744989503,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 174456,
@@ -33385,14 +33449,6 @@
       "onboard_time": 1743512003,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 162472,
-      "num": 162472,
-      "word": "孙俪妈妈羡慕孙俪和马龙合影",
-      "onboard_time": 1744986565,
-      "rank": 42,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 162438,
@@ -36113,6 +36169,14 @@
       "onboard_time": 1744974682,
       "rank": 37,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 150340,
+      "num": 150340,
+      "word": "陈德容",
+      "onboard_time": 1744988302,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 150338,
@@ -40555,6 +40619,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 133860,
+      "num": 133860,
+      "word": "半个北影节后台都在唱苍茫爱片名",
+      "onboard_time": 1744989682,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 133851,
       "num": 133851,
       "word": "人民日报钟声五问美方",
@@ -40745,6 +40817,14 @@
       "onboard_time": 1744870702,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 133075,
+      "num": 133075,
+      "word": "原来这才是真杀猪盘",
+      "onboard_time": 1744988302,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 133048,
@@ -41217,14 +41297,6 @@
       "onboard_time": 1744528041,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 131125,
-      "num": 131125,
-      "word": "女子每天吃十几个橙子确诊糖尿病",
-      "onboard_time": 1744986503,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 131110,
@@ -42003,6 +42075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128330,
+      "num": 128330,
+      "word": "张本智和无缘男单四强",
+      "onboard_time": 1744988484,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128222,
       "num": 128222,
       "word": "张远演唱会奇观",
@@ -42593,6 +42673,14 @@
       "onboard_time": 1744638324,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 125822,
+      "num": 125822,
+      "word": "JDG咚咚夺得MVP",
+      "onboard_time": 1744988963,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 125812,
@@ -46779,6 +46867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 107362,
+      "num": 107362,
+      "word": "孙颖莎展望对阵陈幸同",
+      "onboard_time": 1744989023,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107300,
       "num": 567287,
       "word": "三河消防辟谣消防车被改成绿色",
@@ -47089,6 +47185,14 @@
       "onboard_time": 1744466845,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105475,
+      "num": 235228,
+      "word": "杭州买500万的房子可省10万",
+      "onboard_time": 1744988003,
+      "rank": 27,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 105438,
@@ -55715,6 +55819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41396,
+      "num": 106800,
+      "word": "孙颖莎回顾比赛",
+      "onboard_time": 1744988363,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 41385,
       "num": 167629,
       "word": "国际乒联回应洛杉矶奥运会变化",
@@ -61433,6 +61545,14 @@
       "onboard_time": 1744951223,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 8304,
+      "num": 259176,
+      "word": "张杰演唱会折叠屏视觉效果好吗",
+      "onboard_time": 1744989442,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 8302,
