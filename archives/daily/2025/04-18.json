@@ -1,6 +1,6 @@
 {
   "startTime": 1744907462255,
-  "endTime": 1744981281727,
+  "endTime": 1744983055586,
   "band_list": [
     {
       "raw_hot": 2716065,
@@ -19,6 +19,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 2272825,
+      "num": 745715,
+      "word": "日本",
+      "onboard_time": 1744979242,
+      "rank": 12,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 2206454,
       "num": 2206454,
       "word": "特朗普撑不住暗示降低对华关税",
@@ -33,14 +41,6 @@
       "onboard_time": 1744958962,
       "rank": 0,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 2044688,
-      "num": 613896,
-      "word": "日本",
-      "onboard_time": 1744979242,
-      "rank": 12,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1897871,
@@ -107,6 +107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1070659,
+      "num": 1070659,
+      "word": "王曼昱无缘女单四强",
+      "onboard_time": 1744981524,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1062026,
       "num": 1062026,
       "word": "霸王茶姬",
@@ -148,7 +156,7 @@
     },
     {
       "raw_hot": 939030,
-      "num": 338447,
+      "num": 456434,
       "word": "孙珍妮回应脸肿",
       "onboard_time": 1744978041,
       "rank": 10,
@@ -185,6 +193,14 @@
       "onboard_time": 1744904422,
       "rank": 10,
       "category": "演出"
+    },
+    {
+      "raw_hot": 840104,
+      "num": 744633,
+      "word": "王曼昱vs蒯曼",
+      "onboard_time": 1744978041,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 823566,
@@ -225,14 +241,6 @@
       "onboard_time": 1744936460,
       "rank": 1,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 744633,
-      "num": 744633,
-      "word": "王曼昱vs蒯曼",
-      "onboard_time": 1744978041,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 724320,
@@ -281,6 +289,14 @@
       "onboard_time": 1744964901,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 663997,
+      "num": 663997,
+      "word": "蒯曼4比2王曼昱",
+      "onboard_time": 1744981524,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 661985,
@@ -427,6 +443,14 @@
       "category": "综艺,演出"
     },
     {
+      "raw_hot": 501527,
+      "num": 501527,
+      "word": "刘宇宁说折腰没有吻戏",
+      "onboard_time": 1744980382,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 494555,
       "num": 494555,
       "word": "西湖边松鼠被游客投喂成松猪",
@@ -459,6 +483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 472534,
+      "num": 472534,
+      "word": "王鹤棣 别整那些播不了的",
+      "onboard_time": 1744978041,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 462178,
       "num": 462178,
       "word": "李一桐评论区好多明星团建",
@@ -481,6 +513,14 @@
       "onboard_time": 1744973783,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 448935,
+      "num": 448935,
+      "word": "北大42岁副教授陈昊去世",
+      "onboard_time": 1744978523,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 442656,
@@ -547,14 +587,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 417127,
-      "num": 337145,
-      "word": "北大42岁副教授陈昊去世",
-      "onboard_time": 1744978523,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 416650,
       "num": 416650,
       "word": "古乐风华录全阵容官宣",
@@ -569,14 +601,6 @@
       "onboard_time": 1744946841,
       "rank": 15,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 405274,
-      "num": 405274,
-      "word": "王鹤棣 别整那些播不了的",
-      "onboard_time": 1744978041,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 405170,
@@ -835,14 +859,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 280782,
-      "num": 280782,
-      "word": "刘宇宁说折腰没有吻戏",
-      "onboard_time": 1744980382,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 280418,
       "num": 274940,
       "word": "百万人排队抢古茗",
@@ -995,6 +1011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 241670,
+      "num": 241670,
+      "word": "徐明浩直播还是这么松弛",
+      "onboard_time": 1744980682,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 241237,
       "num": 303220,
       "word": "李晟回应上热一的感觉",
@@ -1049,6 +1073,14 @@
       "onboard_time": 1744941142,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 230081,
+      "num": 239590,
+      "word": "无忧渡热度",
+      "onboard_time": 1744979542,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 229753,
@@ -1187,6 +1219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204356,
+      "num": 204356,
+      "word": "张婧仪公主头",
+      "onboard_time": 1744979422,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 204218,
       "num": 145651,
       "word": "王珞丹崩溃痛哭",
@@ -1307,6 +1347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192899,
+      "num": 192899,
+      "word": "整治利用未成年人形象不当牟利",
+      "onboard_time": 1744981464,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 192588,
       "num": 232472,
       "word": "震耳欲聋全阵容",
@@ -1353,14 +1401,6 @@
       "onboard_time": 1744904482,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 187363,
-      "num": 187363,
-      "word": "无忧渡热度",
-      "onboard_time": 1744979542,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 186206,
@@ -1449,14 +1489,6 @@
       "onboard_time": 1744959202,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 176299,
-      "num": 176299,
-      "word": "张婧仪公主头",
-      "onboard_time": 1744979422,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 175519,
@@ -1651,12 +1683,28 @@
       "category": "情感,民生新闻"
     },
     {
+      "raw_hot": 157369,
+      "num": 139644,
+      "word": "六公主镜头下的贺峻霖",
+      "onboard_time": 1744981824,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 156694,
       "num": 156694,
       "word": "专门做卤猪蛋生意的老板",
       "onboard_time": 1744971980,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 155456,
+      "num": 270516,
+      "word": "被室友电瓶烧伤男生283天后再次发声",
+      "onboard_time": 1744981405,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 154867,
@@ -2067,6 +2115,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 136748,
+      "num": 228053,
+      "word": "陈建斌蒋勤勤独一无二手势杀",
+      "onboard_time": 1744982124,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 135799,
       "num": 135799,
       "word": "章昊初登hi6",
@@ -2137,6 +2193,14 @@
       "onboard_time": 1744954522,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130872,
+      "num": 130872,
+      "word": "有商有量你们也是过上日子了",
+      "onboard_time": 1744982602,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 130701,
@@ -2315,6 +2379,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 115328,
+      "num": 115328,
+      "word": "躺床上玩手机才叫真正为自己活着",
+      "onboard_time": 1744981163,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 113998,
       "num": 113998,
       "word": "檀健次李兰迪直拍",
@@ -2465,14 +2537,6 @@
       "onboard_time": 1744925054,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 98615,
-      "num": 98615,
-      "word": "躺床上玩手机才叫真正为自己活着",
-      "onboard_time": 1744981163,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 97798,
@@ -3019,6 +3083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 47571,
+      "num": 213141,
+      "word": "WTT祝林诗栋生日快乐",
+      "onboard_time": 1744982602,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 47310,
       "num": 47310,
       "word": "在王祖蓝和王祖贤之间随意切换",
@@ -3137,6 +3209,14 @@
       "onboard_time": 1744964362,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 40753,
+      "num": 160071,
+      "word": "德国一医生被控3年内谋杀15名患者",
+      "onboard_time": 1744981583,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 39183,
@@ -3491,6 +3571,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 12836,
+      "num": 133641,
+      "word": "柬多位官员谈公平贸易重要性",
+      "onboard_time": 1744977202,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 12834,
       "num": 16205,
       "word": "惠英红祝福新浪娱乐25周年",
@@ -3569,6 +3657,14 @@
       "onboard_time": 1744972580,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 8989,
+      "num": 766895,
+      "word": "美国加关税是搬石头砸自己脚",
+      "onboard_time": 1744982901,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 8669,

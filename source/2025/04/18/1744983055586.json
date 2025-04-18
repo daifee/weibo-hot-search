@@ -1,0 +1,410 @@
+{
+  "runTime": 1744983055586,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1287286,
+        "num": 1287286,
+        "word": "中国被曝已不再生产出口美国的玩具",
+        "onboard_time": 1744958962,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1070659,
+        "num": 1070659,
+        "word": "王曼昱无缘女单四强",
+        "onboard_time": 1744981524,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 8989,
+        "num": 766895,
+        "word": "美国加关税是搬石头砸自己脚",
+        "onboard_time": 1744982901,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2272825,
+        "num": 745715,
+        "word": "日本",
+        "onboard_time": 1744979242,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1150023,
+        "num": 743381,
+        "word": "日本多地发生无差别杀人事件",
+        "onboard_time": 1744945102,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 663997,
+        "num": 663997,
+        "word": "蒯曼4比2王曼昱",
+        "onboard_time": 1744981524,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 502842,
+        "num": 502842,
+        "word": "陈德容 我没有跳个大概",
+        "onboard_time": 1744975101,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 501527,
+        "num": 501527,
+        "word": "刘宇宁说折腰没有吻戏",
+        "onboard_time": 1744980382,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 472534,
+        "num": 472534,
+        "word": "王鹤棣 别整那些播不了的",
+        "onboard_time": 1744978041,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 840104,
+        "num": 461666,
+        "word": "王曼昱vs蒯曼",
+        "onboard_time": 1744978041,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 782459,
+        "num": 456434,
+        "word": "孙珍妮回应脸肿",
+        "onboard_time": 1744978041,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 448935,
+        "num": 448935,
+        "word": "北大42岁副教授陈昊去世",
+        "onboard_time": 1744978523,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 384851,
+        "num": 384851,
+        "word": "折腰名字改回来了",
+        "onboard_time": 1744974862,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 330493,
+        "num": 330493,
+        "word": "为什么王楚钦打德国选手很艰难",
+        "onboard_time": 1744973783,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155456,
+        "num": 270516,
+        "word": "被室友电瓶烧伤男生283天后再次发声",
+        "onboard_time": 1744981405,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247678,
+        "num": 247678,
+        "word": "结节真的是被气出来的吗",
+        "onboard_time": 1744979722,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 241670,
+        "num": 241670,
+        "word": "徐明浩直播还是这么松弛",
+        "onboard_time": 1744980682,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97348,
+        "num": 239603,
+        "word": "高速突然爆胎如何应对",
+        "onboard_time": 1744979902,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 230081,
+        "num": 239590,
+        "word": "无忧渡热度",
+        "onboard_time": 1744979542,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239587,
+        "num": 239587,
+        "word": "女子没输密码验证码却被转走12万",
+        "onboard_time": 1744975881,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1238736,
+        "num": 237894,
+        "word": "猫一杯案开庭",
+        "onboard_time": 1744967900,
+        "rank": 20,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 136748,
+        "num": 228053,
+        "word": "陈建斌蒋勤勤独一无二手势杀",
+        "onboard_time": 1744982124,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 12518,
+        "num": 227426,
+        "word": "经济学家称关税战是负和博弈",
+        "onboard_time": 1744971200,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 227338,
+        "num": 227338,
+        "word": "张杰演唱会",
+        "onboard_time": 1744975281,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 47571,
+        "num": 213141,
+        "word": "WTT祝林诗栋生日快乐",
+        "onboard_time": 1744982602,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212194,
+        "num": 212194,
+        "word": "网瘾少年专升本考研上岸中南大学",
+        "onboard_time": 1744976362,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204356,
+        "num": 204356,
+        "word": "张婧仪公主头",
+        "onboard_time": 1744979422,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 192899,
+        "num": 192899,
+        "word": "整治利用未成年人形象不当牟利",
+        "onboard_time": 1744981464,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168588,
+        "num": 168588,
+        "word": "朱一龙吴磊檀健次贺峻霖怼脸生图",
+        "onboard_time": 1744979661,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 40753,
+        "num": 160071,
+        "word": "德国一医生被控3年内谋杀15名患者",
+        "onboard_time": 1744981583,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 156397,
+        "num": 156397,
+        "word": "德国人买了中国制造后开始疯狂安利",
+        "onboard_time": 1744970540,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 140368,
+        "num": 140368,
+        "word": "心软一次被行业禁入两年",
+        "onboard_time": 1744978402,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139933,
+        "num": 139933,
+        "word": "高速上一轮胎滚进服务区撞人致死",
+        "onboard_time": 1744966220,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157369,
+        "num": 139644,
+        "word": "六公主镜头下的贺峻霖",
+        "onboard_time": 1744981824,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136200,
+        "num": 136200,
+        "word": "林诗栋20比18莫雷加德",
+        "onboard_time": 1744978102,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135576,
+        "num": 135576,
+        "word": "李晟敏与SM不续约",
+        "onboard_time": 1744980202,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12836,
+        "num": 133641,
+        "word": "柬多位官员谈公平贸易重要性",
+        "onboard_time": 1744977202,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 132244,
+        "num": 132244,
+        "word": "双轨我承认之前对你声音大了点",
+        "onboard_time": 1744979902,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130872,
+        "num": 130872,
+        "word": "有商有量你们也是过上日子了",
+        "onboard_time": 1744982602,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128269,
+        "num": 128269,
+        "word": "瑞思白",
+        "onboard_time": 1744979542,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126479,
+        "num": 126479,
+        "word": "孙俪新剧收视第一",
+        "onboard_time": 1744978582,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126350,
+        "num": 126350,
+        "word": "庄达菲 不可以离的这么近吗",
+        "onboard_time": 1744980142,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123697,
+        "num": 123697,
+        "word": "日本新宿一女子攻击路人",
+        "onboard_time": 1744974682,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 119703,
+        "num": 119703,
+        "word": "国常会指出要持续稳定股市",
+        "onboard_time": 1744978102,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 117873,
+        "num": 117873,
+        "word": "外交部回应泽连斯基宣称中国向俄军援",
+        "onboard_time": 1744964901,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 116315,
+        "num": 116315,
+        "word": "朱珠写长文回应钟汉良粉丝",
+        "onboard_time": 1744974802,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115328,
+        "num": 115328,
+        "word": "躺床上玩手机才叫真正为自己活着",
+        "onboard_time": 1744981163,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110997,
+        "num": 110997,
+        "word": "虞书欣哭戏",
+        "onboard_time": 1744979722,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109221,
+        "num": 109221,
+        "word": "舒畅38岁状态",
+        "onboard_time": 1744981042,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108404,
+        "num": 108404,
+        "word": "雨中北影节红毯星光璀璨",
+        "onboard_time": 1744971800,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#构建新时代全天候中柬命运共同体#"
+    }
+  }
+}

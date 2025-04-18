@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1744981281727,
+  "endTime": 1744983055586,
   "band_list": [
     {
       "raw_hot": 10606514,
@@ -123,6 +123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2272825,
+      "num": 745715,
+      "word": "日本",
+      "onboard_time": 1744979242,
+      "rank": 12,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 2260745,
       "num": 472056,
       "word": "韩红母亲逝世",
@@ -193,14 +201,6 @@
       "onboard_time": 1744594581,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 2044688,
-      "num": 613896,
-      "word": "日本",
-      "onboard_time": 1744979242,
-      "rank": 12,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 2024622,
@@ -1083,6 +1083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1070659,
+      "num": 1070659,
+      "word": "王曼昱无缘女单四强",
+      "onboard_time": 1744981524,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1069363,
       "num": 1069363,
       "word": "陈若琳回应全红婵生长发育期",
@@ -1364,7 +1372,7 @@
     },
     {
       "raw_hot": 939030,
-      "num": 338447,
+      "num": 456434,
       "word": "孙珍妮回应脸肿",
       "onboard_time": 1744978041,
       "rank": 10,
@@ -1649,6 +1657,14 @@
       "onboard_time": 1744619482,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 840104,
+      "num": 744633,
+      "word": "王曼昱vs蒯曼",
+      "onboard_time": 1744978041,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 835622,
@@ -1977,14 +1993,6 @@
       "onboard_time": 1744861461,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 744633,
-      "num": 744633,
-      "word": "王曼昱vs蒯曼",
-      "onboard_time": 1744978041,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 740131,
@@ -2417,6 +2425,14 @@
       "onboard_time": 1744618402,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 663997,
+      "num": 663997,
+      "word": "蒯曼4比2王曼昱",
+      "onboard_time": 1744981524,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 663201,
@@ -3259,6 +3275,14 @@
       "category": "综艺,演出"
     },
     {
+      "raw_hot": 501527,
+      "num": 501527,
+      "word": "刘宇宁说折腰没有吻戏",
+      "onboard_time": 1744980382,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 501445,
       "num": 501445,
       "word": "国台办回应Tank感谢祖国",
@@ -3425,6 +3449,14 @@
       "onboard_time": 1744598901,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 472534,
+      "num": 472534,
+      "word": "王鹤棣 别整那些播不了的",
+      "onboard_time": 1744978041,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 471051,
@@ -3617,6 +3649,14 @@
       "onboard_time": 1744793902,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 448935,
+      "num": 448935,
+      "word": "北大42岁副教授陈昊去世",
+      "onboard_time": 1744978523,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 448146,
@@ -3931,14 +3971,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 417127,
-      "num": 337145,
-      "word": "北大42岁副教授陈昊去世",
-      "onboard_time": 1744978523,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 416650,
       "num": 416650,
       "word": "古乐风华录全阵容官宣",
@@ -4081,14 +4113,6 @@
       "onboard_time": 1744558702,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 405274,
-      "num": 405274,
-      "word": "王鹤棣 别整那些播不了的",
-      "onboard_time": 1744978041,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 405170,
@@ -5491,14 +5515,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 280782,
-      "num": 280782,
-      "word": "刘宇宁说折腰没有吻戏",
-      "onboard_time": 1744980382,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 280592,
       "num": 430035,
       "word": "达利欧称60%美国人文化水平不到初中",
@@ -6323,6 +6339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 241670,
+      "num": 241670,
+      "word": "徐明浩直播还是这么松弛",
+      "onboard_time": 1744980682,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 241237,
       "num": 303220,
       "word": "李晟回应上热一的感觉",
@@ -6729,6 +6753,14 @@
       "onboard_time": 1744789883,
       "rank": 32,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 230081,
+      "num": 239590,
+      "word": "无忧渡热度",
+      "onboard_time": 1744979542,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 229753,
@@ -7963,6 +7995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204356,
+      "num": 204356,
+      "word": "张婧仪公主头",
+      "onboard_time": 1744979422,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 204311,
       "num": 204311,
       "word": "2025音乐节阵容",
@@ -8835,6 +8875,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 192899,
+      "num": 192899,
+      "word": "整治利用未成年人形象不当牟利",
+      "onboard_time": 1744981464,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 192698,
       "num": 192698,
       "word": "PeRo战队PCL春季赛冠军",
@@ -9273,14 +9321,6 @@
       "onboard_time": 1744786641,
       "rank": 22,
       "category": "网红,民生新闻"
-    },
-    {
-      "raw_hot": 187363,
-      "num": 187363,
-      "word": "无忧渡热度",
-      "onboard_time": 1744979542,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 187322,
@@ -10089,14 +10129,6 @@
       "onboard_time": 1744959202,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 176299,
-      "num": 176299,
-      "word": "张婧仪公主头",
-      "onboard_time": 1744979422,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 176277,
@@ -11571,6 +11603,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 157369,
+      "num": 139644,
+      "word": "六公主镜头下的贺峻霖",
+      "onboard_time": 1744981824,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 157288,
       "num": 182628,
       "word": "美国代号S部门网络攻击亚冬会",
@@ -11681,6 +11721,14 @@
       "onboard_time": 1744727064,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155456,
+      "num": 270516,
+      "word": "被室友电瓶烧伤男生283天后再次发声",
+      "onboard_time": 1744981405,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155276,
@@ -13587,6 +13635,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 136748,
+      "num": 228053,
+      "word": "陈建斌蒋勤勤独一无二手势杀",
+      "onboard_time": 1744982124,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 136559,
       "num": 136559,
       "word": "缅甸发生5.4级地震",
@@ -14225,6 +14281,14 @@
       "onboard_time": 1744547241,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130872,
+      "num": 130872,
+      "word": "有商有量你们也是过上日子了",
+      "onboard_time": 1744982602,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 130804,
@@ -15707,6 +15771,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 115328,
+      "num": 115328,
+      "word": "躺床上玩手机才叫真正为自己活着",
+      "onboard_time": 1744981163,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 115307,
       "num": 194196,
       "word": "那个抱起全红婵的英国女孩",
@@ -16913,14 +16985,6 @@
       "onboard_time": 1744728265,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 98615,
-      "num": 98615,
-      "word": "躺床上玩手机才叫真正为自己活着",
-      "onboard_time": 1744981163,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 98543,
@@ -19507,6 +19571,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 47571,
+      "num": 213141,
+      "word": "WTT祝林诗栋生日快乐",
+      "onboard_time": 1744982602,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 47347,
       "num": 246558,
       "word": "刘亦菲和她副驾的朋友直播",
@@ -20057,6 +20129,14 @@
       "onboard_time": 1744623383,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 40753,
+      "num": 160071,
+      "word": "德国一医生被控3年内谋杀15名患者",
+      "onboard_time": 1744981583,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 40643,
@@ -21971,6 +22051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 12836,
+      "num": 133641,
+      "word": "柬多位官员谈公平贸易重要性",
+      "onboard_time": 1744977202,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 12834,
       "num": 16205,
       "word": "惠英红祝福新浪娱乐25周年",
@@ -22225,6 +22313,14 @@
       "onboard_time": 1744499898,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8989,
+      "num": 766895,
+      "word": "美国加关税是搬石头砸自己脚",
+      "onboard_time": 1744982901,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 8810,
