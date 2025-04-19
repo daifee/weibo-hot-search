@@ -1,14 +1,22 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745080147354,
+  "endTime": 1745081016459,
   "band_list": [
     {
-      "raw_hot": 13747893,
-      "num": 13747893,
+      "raw_hot": 31189573,
+      "num": 31189573,
       "word": "关晓彤",
       "onboard_time": 1745079693,
       "rank": 10,
       "category": "艺人,剧集"
+    },
+    {
+      "raw_hot": 12026031,
+      "num": 12026031,
+      "word": "鹿晗工作室",
+      "onboard_time": 1745080294,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 10848840,
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 1425226,
-      "num": 566163,
+      "num": 731343,
       "word": "张丹峰 洪欣",
       "onboard_time": 1745069543,
       "rank": 3,
@@ -99,12 +107,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 297676,
+      "num": 260292,
+      "word": "王勉",
+      "onboard_time": 1745080953,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 288830,
       "num": 288830,
       "word": "热量比肉还高的水果",
       "onboard_time": 1745068703,
       "rank": 9,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 260794,
+      "num": 260794,
+      "word": "树莓衮衮衮",
+      "onboard_time": 1745078731,
+      "rank": 14,
+      "category": "动漫"
     },
     {
       "raw_hot": 255058,
@@ -115,16 +139,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 234921,
-      "num": 234921,
-      "word": "树莓衮衮衮",
-      "onboard_time": 1745078731,
-      "rank": 14,
-      "category": "动漫"
-    },
-    {
-      "raw_hot": 223282,
-      "num": 223282,
+      "raw_hot": 245994,
+      "num": 245994,
       "word": "小盐巴 很好心很软的人",
       "onboard_time": 1745073445,
       "rank": 15,
@@ -180,15 +196,15 @@
     },
     {
       "raw_hot": 172624,
-      "num": 210726,
+      "num": 252716,
       "word": "杨天真不建议企业家都做个人IP",
       "onboard_time": 1745072904,
       "rank": 17,
       "category": "民生新闻,艺人"
     },
     {
-      "raw_hot": 168317,
-      "num": 168317,
+      "raw_hot": 169828,
+      "num": 169828,
       "word": "印度医生让儿童吸支烟治感冒",
       "onboard_time": 1745075665,
       "rank": 24,
@@ -196,11 +212,19 @@
     },
     {
       "raw_hot": 167445,
-      "num": 167445,
+      "num": 176364,
       "word": "王楚钦无缘澳门世界杯决赛",
       "onboard_time": 1745051843,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165691,
+      "num": 223395,
+      "word": "刘雨昕直播叽里咕噜说啥呢",
+      "onboard_time": 1745080533,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 157989,
@@ -219,12 +243,28 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 136850,
+      "num": 136850,
+      "word": "林诗栋被罚分后又吃黄牌",
+      "onboard_time": 1745077103,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135710,
-      "num": 135710,
+      "num": 143149,
       "word": "无忧渡 合体剧宣",
       "onboard_time": 1745059102,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130339,
+      "num": 130339,
+      "word": "女寝大逃亡3",
+      "onboard_time": 1745075244,
+      "rank": 31,
+      "category": "读书作家"
     },
     {
       "raw_hot": 129458,
@@ -251,20 +291,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 126883,
-      "num": 126883,
-      "word": "女寝大逃亡3",
-      "onboard_time": 1745075244,
-      "rank": 31,
-      "category": "读书作家"
-    },
-    {
-      "raw_hot": 124867,
-      "num": 124867,
-      "word": "林诗栋被罚分后又吃黄牌",
-      "onboard_time": 1745077103,
-      "rank": 32,
-      "category": "体育"
+      "raw_hot": 126207,
+      "num": 126207,
+      "word": "全网最丢脸的风筝出现了",
+      "onboard_time": 1745064260,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 124157,
@@ -275,28 +307,44 @@
       "category": "艺人,作品衍生"
     },
     {
-      "raw_hot": 104884,
-      "num": 104884,
+      "raw_hot": 116345,
+      "num": 142305,
       "word": "孙颖莎跟裁判示意Notouch",
       "onboard_time": 1745076384,
       "rank": 34,
       "category": "体育"
     },
     {
-      "raw_hot": 104602,
-      "num": 104602,
+      "raw_hot": 112016,
+      "num": 112016,
+      "word": "XLG战胜EDG",
+      "onboard_time": 1745070264,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 105602,
+      "num": 105602,
       "word": "单依纯把彩虹都穿了一遍",
       "onboard_time": 1745077702,
       "rank": 35,
       "category": "演出"
     },
     {
-      "raw_hot": 102909,
-      "num": 102909,
-      "word": "全网最丢脸的风筝出现了",
-      "onboard_time": 1745064260,
-      "rank": 37,
-      "category": "幽默"
+      "raw_hot": 105233,
+      "num": 105233,
+      "word": "章若楠去了五月天演唱会",
+      "onboard_time": 1745066063,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 103139,
+      "num": 103139,
+      "word": "陈楚生贵阳音乐节",
+      "onboard_time": 1745079811,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 100929,
@@ -307,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97003,
+      "num": 222626,
+      "word": "2000多年前的集市爆款清单",
+      "onboard_time": 1745080654,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96904,
       "num": 96904,
       "word": "晚安徐杰",
@@ -315,20 +371,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 95392,
-      "num": 95392,
-      "word": "陈楚生贵阳音乐节",
-      "onboard_time": 1745079811,
-      "rank": 40,
-      "category": "演出"
+      "raw_hot": 96806,
+      "num": 96806,
+      "word": "ZmjjKK 夜露",
+      "onboard_time": 1745074883,
+      "rank": 48,
+      "category": "电竞"
     },
     {
-      "raw_hot": 94608,
-      "num": 94608,
-      "word": "XLG战胜EDG",
-      "onboard_time": 1745070264,
-      "rank": 41,
-      "category": "电竞"
+      "raw_hot": 96572,
+      "num": 96572,
+      "word": "周深是你们的爱撑起了一把把伞",
+      "onboard_time": 1745080173,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 94751,
+      "num": 94751,
+      "word": "黄子弘凡把流星镶在了身上",
+      "onboard_time": 1745080772,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 92951,
@@ -355,16 +419,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 89451,
-      "num": 89451,
-      "word": "章若楠去了五月天演唱会",
-      "onboard_time": 1745066063,
-      "rank": 46,
-      "category": "演出"
-    },
-    {
       "raw_hot": 88867,
-      "num": 566488,
+      "num": 737217,
       "word": "别人在算关税账我们在算创新账",
       "onboard_time": 1745069964,
       "rank": 2,
@@ -379,16 +435,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 85265,
-      "num": 85265,
-      "word": "ZmjjKK 夜露",
-      "onboard_time": 1745074883,
-      "rank": 48,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 82013,
-      "num": 103189,
+      "num": 140679,
       "word": "4月20日3时56分谷雨",
       "onboard_time": 1745079932,
       "rank": 36,
@@ -406,6 +454,9 @@
   "hotgov_list": [
     {
       "word": "#习近平释家门口的相处之道#"
+    },
+    {
+      "word": "#中柬命运共同体有了新内涵#"
     }
   ]
 }
