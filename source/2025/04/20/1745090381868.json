@@ -1,0 +1,410 @@
+{
+  "runTime": 1745090381868,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 562401,
+        "num": 562401,
+        "word": "鹿晗工作室",
+        "onboard_time": 1745080294,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215846,
+        "num": 215846,
+        "word": "范志毅",
+        "onboard_time": 1745082685,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14368,
+        "num": 136796,
+        "word": "关税政策加剧美国农业困境",
+        "onboard_time": 1745069665,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249058,
+        "num": 127234,
+        "word": "老舅",
+        "onboard_time": 1745081909,
+        "rank": 3,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 89342,
+        "num": 89342,
+        "word": "快删除手机里的这些APP",
+        "onboard_time": 1745066722,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70818,
+        "num": 70818,
+        "word": "CIA报告称外星人石化苏联士兵",
+        "onboard_time": 1745074045,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 181789,
+        "num": 69607,
+        "word": "一生爱凑热闹的中国人",
+        "onboard_time": 1745083463,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107041,
+        "num": 68744,
+        "word": "桃黑黑回应小盐巴闭店",
+        "onboard_time": 1745063181,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 65381,
+        "num": 65381,
+        "word": "美国大豆可能将永远失去中国市场",
+        "onboard_time": 1745074524,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 52363,
+        "num": 52363,
+        "word": "XLG战胜EDG",
+        "onboard_time": 1745070264,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1960842,
+        "num": 52270,
+        "word": "关晓彤",
+        "onboard_time": 1745079693,
+        "rank": 10,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 331266,
+        "num": 51671,
+        "word": "关晓彤已连续7年为鹿晗庆生",
+        "onboard_time": 1745044101,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312781,
+        "num": 51420,
+        "word": "陈赫",
+        "onboard_time": 1745081252,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178647,
+        "num": 50802,
+        "word": "王勉",
+        "onboard_time": 1745080953,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82440,
+        "num": 50663,
+        "word": "树莓衮衮衮",
+        "onboard_time": 1745078731,
+        "rank": 14,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 93015,
+        "num": 49905,
+        "word": "张丹峰 洪欣",
+        "onboard_time": 1745069543,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78433,
+        "num": 49774,
+        "word": "韩庚卢靖姗分房睡",
+        "onboard_time": 1745067323,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63817,
+        "num": 49399,
+        "word": "胡彦斌分享的喉糖自己买不到了",
+        "onboard_time": 1745076445,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 41806,
+        "num": 48971,
+        "word": "王楚钦说为什么全是擦网",
+        "onboard_time": 1745069725,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33701,
+        "num": 48325,
+        "word": "云南广西要热到40度了",
+        "onboard_time": 1745084780,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48152,
+        "num": 48152,
+        "word": "热量比肉还高的水果",
+        "onboard_time": 1745068703,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 45223,
+        "num": 45223,
+        "word": "男子带10名女子吃千元烧烤逃单",
+        "onboard_time": 1745073925,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45080,
+        "num": 45080,
+        "word": "EDG Simon",
+        "onboard_time": 1745071525,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 44538,
+        "num": 44538,
+        "word": "王楚钦无缘澳门世界杯决赛",
+        "onboard_time": 1745051843,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39600,
+        "num": 39600,
+        "word": "ZmjjKK 夜露",
+        "onboard_time": 1745074883,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 39403,
+        "num": 39403,
+        "word": "丁禹兮蓝发狼尾",
+        "onboard_time": 1745061621,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 37388,
+        "num": 37388,
+        "word": "刘涛 这么多mother啊",
+        "onboard_time": 1745077343,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36416,
+        "num": 36416,
+        "word": "1岁宝宝因太可爱被家人狂亲高烧不退",
+        "onboard_time": 1745063181,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33712,
+        "num": 33712,
+        "word": "亚克力枪枪",
+        "onboard_time": 1745085259,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 32796,
+        "num": 32796,
+        "word": "蒲熠星",
+        "onboard_time": 1745081791,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32600,
+        "num": 32600,
+        "word": "小盐巴 很好心很软的人",
+        "onboard_time": 1745073445,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 30812,
+        "num": 30812,
+        "word": "短剧吻戏",
+        "onboard_time": 1745067863,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30760,
+        "num": 30760,
+        "word": "全网最丢脸的风筝出现了",
+        "onboard_time": 1745064260,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 30380,
+        "num": 30380,
+        "word": "印度医生让儿童吸支烟治感冒",
+        "onboard_time": 1745075665,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 29892,
+        "num": 29892,
+        "word": "徐明浩 LV",
+        "onboard_time": 1745070445,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 29742,
+        "num": 29742,
+        "word": "普京称停火将能检验乌克兰诚意",
+        "onboard_time": 1745086639,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 29468,
+        "num": 29468,
+        "word": "谢娜问吴宣仪你有什么事吗",
+        "onboard_time": 1745072063,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28821,
+        "num": 28821,
+        "word": "那年今日",
+        "onboard_time": 1745081252,
+        "rank": 37,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 28204,
+        "num": 28204,
+        "word": "虞书欣面包小狗变身",
+        "onboard_time": 1745081191,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 27971,
+        "num": 27971,
+        "word": "让体重逐渐下降的30个常识",
+        "onboard_time": 1745059881,
+        "rank": 39,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 27538,
+        "num": 27538,
+        "word": "林俊杰音乐节",
+        "onboard_time": 1745068883,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 26414,
+        "num": 26414,
+        "word": "无忧渡 合体剧宣",
+        "onboard_time": 1745059102,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26314,
+        "num": 26314,
+        "word": "杨幂直播",
+        "onboard_time": 1745068283,
+        "rank": 42,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 25299,
+        "num": 26314,
+        "word": "咪咕汇",
+        "onboard_time": 1745089875,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23829,
+        "num": 26313,
+        "word": "肖俊直播",
+        "onboard_time": 1745090056,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23762,
+        "num": 26313,
+        "word": "罗云熙年度最佳跨界男歌手",
+        "onboard_time": 1745089096,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23595,
+        "num": 26313,
+        "word": "4月20日3时56分谷雨",
+        "onboard_time": 1745079932,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22224,
+        "num": 26312,
+        "word": "刘雨昕直播叽里咕噜说啥呢",
+        "onboard_time": 1745080533,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21977,
+        "num": 26312,
+        "word": "章若楠去了五月天演唱会",
+        "onboard_time": 1745066063,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 18066,
+        "num": 26312,
+        "word": "林诗栋被罚分后又吃黄牌",
+        "onboard_time": 1745077103,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平释家门口的相处之道#"
+    }
+  }
+}
