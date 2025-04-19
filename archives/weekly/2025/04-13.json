@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1745073558572,
+  "endTime": 1745076225346,
   "band_list": [
     {
       "raw_hot": 10606514,
@@ -4563,6 +4563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 421656,
+      "num": 421656,
+      "word": "任嘉伦宋祖儿都在努力剧宣",
+      "onboard_time": 1745073265,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 420590,
       "num": 420590,
       "word": "张新成演技",
@@ -5025,6 +5033,14 @@
       "onboard_time": 1744692144,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 385136,
+      "num": 313146,
+      "word": "谢娜问吴宣仪你有什么事吗",
+      "onboard_time": 1745072063,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 384985,
@@ -5723,6 +5739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 333824,
+      "num": 333824,
+      "word": "孙颖莎让解说员无话可说",
+      "onboard_time": 1745071344,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 333688,
       "num": 358821,
       "word": "良陈美锦开机",
@@ -6059,19 +6083,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 313146,
-      "num": 313146,
-      "word": "谢娜问吴宣仪你有什么事吗",
-      "onboard_time": 1745072063,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 312404,
       "num": 312404,
       "word": "丁程鑫直播",
       "onboard_time": 1744961361,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 312019,
+      "num": 283759,
+      "word": "刘涛直播",
+      "onboard_time": 1745074405,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -6137,6 +6161,14 @@
       "onboard_time": 1744870522,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 308387,
+      "num": 312938,
+      "word": "杨天真不建议企业家都做个人IP",
+      "onboard_time": 1745072904,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 308196,
@@ -6609,6 +6641,14 @@
       "onboard_time": 1744768161,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 280030,
+      "num": 280030,
+      "word": "CIA报告称外星人石化苏联士兵",
+      "onboard_time": 1745074045,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 278698,
@@ -7203,6 +7243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 257473,
+      "num": 257473,
+      "word": "美国大豆可能将永远失去中国市场",
+      "onboard_time": 1745074524,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 257295,
       "num": 257295,
       "word": "结节真的是被气出来的吗",
@@ -7256,14 +7304,6 @@
       "word": "林高远vs户上隼辅",
       "onboard_time": 1744798762,
       "rank": 19,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 256114,
-      "num": 256114,
-      "word": "孙颖莎让解说员无话可说",
-      "onboard_time": 1745071344,
-      "rank": 27,
       "category": "体育"
     },
     {
@@ -8433,6 +8473,14 @@
       "onboard_time": 1744701921,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 222944,
+      "num": 222944,
+      "word": "普京宣布复活节休战",
+      "onboard_time": 1745074165,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 222433,
@@ -10307,6 +10355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196542,
+      "num": 196542,
+      "word": "昆明一立体停车库上层车辆掉落",
+      "onboard_time": 1745074045,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 196540,
       "num": 196540,
       "word": "阿维塔06价格",
@@ -10441,14 +10497,6 @@
       "onboard_time": 1744513581,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 194745,
-      "num": 194745,
-      "word": "任嘉伦宋祖儿都在努力剧宣",
-      "onboard_time": 1745073265,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 194514,
@@ -11939,6 +11987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177633,
+      "num": 177633,
+      "word": "朱珠蓝色眼影妈咪级别",
+      "onboard_time": 1745075723,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 177629,
       "num": 177629,
       "word": "00后女辅警40米深井救出幼童",
@@ -12155,6 +12211,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 175650,
+      "num": 175650,
+      "word": "特斯拉销售称全周无休仍卖不出车",
+      "onboard_time": 1745073565,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 175618,
       "num": 368235,
       "word": "柯南M28首映时间是我猜保守了",
@@ -12345,6 +12409,14 @@
       "onboard_time": 1744894462,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172976,
+      "num": 172976,
+      "word": "男子带10名女子吃千元烧烤逃单",
+      "onboard_time": 1745073925,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 172938,
@@ -12929,6 +13001,14 @@
       "onboard_time": 1744955783,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166174,
+      "num": 166174,
+      "word": "女寝大逃亡3",
+      "onboard_time": 1745075244,
+      "rank": 34,
+      "category": "读书作家"
     },
     {
       "raw_hot": 166152,
@@ -13791,6 +13871,14 @@
       "num": 157697,
       "word": "伍娘今天我们相聚在这里",
       "onboard_time": 1744810583,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 157587,
+      "num": 157587,
+      "word": "孙俪新剧次日云合翻5倍",
+      "onboard_time": 1745075363,
       "rank": 42,
       "category": "剧集"
     },
@@ -15435,6 +15523,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 142267,
+      "num": 142267,
+      "word": "颜安 完蛋人生完蛋过",
+      "onboard_time": 1745073984,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142264,
       "num": 244158,
       "word": "范大将军喜提新XT6",
@@ -16529,6 +16625,14 @@
       "onboard_time": 1744557622,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134520,
+      "num": 134520,
+      "word": "印度医生让儿童吸支烟治感冒",
+      "onboard_time": 1745075665,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 134448,
@@ -20843,6 +20947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90625,
+      "num": 252705,
+      "word": "宝宝睡觉时间变长怎么回事",
+      "onboard_time": 1745075723,
+      "rank": 19,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 90465,
       "num": 90465,
       "word": "广佛线",
@@ -21024,14 +21136,6 @@
       "word": "都别打架了一法院公布打架成本",
       "onboard_time": 1744723523,
       "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 87636,
-      "num": 312938,
-      "word": "杨天真不建议企业家都做个人IP",
-      "onboard_time": 1745072904,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -24121,6 +24225,14 @@
       "onboard_time": 1744800202,
       "rank": 44,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 40368,
+      "num": 189251,
+      "word": "痛风人群尽量不要喝纯净水",
+      "onboard_time": 1745071404,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 40264,
