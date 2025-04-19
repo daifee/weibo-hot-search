@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1745045120966,
+  "endTime": 1745047269125,
   "band_list": [
     {
       "raw_hot": 10606514,
@@ -515,6 +515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1521558,
+      "num": 315122,
+      "word": "关晓彤已连续7年为鹿晗庆生",
+      "onboard_time": 1745044101,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1512838,
       "num": 1512838,
       "word": "王曼昱无缘女单四强",
@@ -561,14 +569,6 @@
       "onboard_time": 1744602142,
       "rank": 22,
       "category": "数码"
-    },
-    {
-      "raw_hot": 1459392,
-      "num": 267923,
-      "word": "关晓彤已连续7年为鹿晗庆生",
-      "onboard_time": 1745044101,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 1452966,
@@ -1635,6 +1635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 893232,
+      "num": 1142917,
+      "word": "特朗普回应黄仁勋访华",
+      "onboard_time": 1745044642,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 892158,
       "num": 1142745,
       "word": "智界 刘亦菲",
@@ -1995,6 +2003,14 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 783095,
+      "num": 783095,
+      "word": "蒯曼vs伊藤美诚",
+      "onboard_time": 1745037382,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 777147,
       "num": 1163834,
       "word": "黄金",
@@ -2345,6 +2361,14 @@
       "onboard_time": 1744536202,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 705989,
+      "num": 705989,
+      "word": "五一反向旅游",
+      "onboard_time": 1745044642,
+      "rank": 3,
+      "category": "旅游"
     },
     {
       "raw_hot": 705307,
@@ -3329,6 +3353,14 @@
       "onboard_time": 1744878501,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 534553,
+      "num": 534553,
+      "word": "陪客户捉小三八百万业绩到手",
+      "onboard_time": 1745045361,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 534121,
@@ -4523,6 +4555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 398515,
+      "num": 304277,
+      "word": "谢娜发文向张小婉管乐解释",
+      "onboard_time": 1745044701,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 398298,
       "num": 398298,
       "word": "中国稀土管制扼住美军工命脉",
@@ -5017,6 +5057,14 @@
       "onboard_time": 1744809803,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 359866,
+      "num": 288154,
+      "word": "老公打造37克孕育专属金镯给老婆",
+      "onboard_time": 1745046203,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 358567,
@@ -6355,14 +6403,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 269535,
-      "num": 269535,
-      "word": "蒯曼vs伊藤美诚",
-      "onboard_time": 1745037382,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 269340,
       "num": 372505,
       "word": "吴宣仪听到自己第一的反应",
@@ -7467,6 +7507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 230818,
+      "num": 230818,
+      "word": "王楚钦vs雨果",
+      "onboard_time": 1745036722,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 230775,
       "num": 245010,
       "word": "震耳欲聋",
@@ -8091,6 +8139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 212939,
+      "num": 212939,
+      "word": "女子理完发顺走1280元的剪刀",
+      "onboard_time": 1745047043,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 212923,
       "num": 465780,
       "word": "前夫对韦雪撒娇",
@@ -8705,14 +8761,6 @@
       "onboard_time": 1744559901,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 205046,
-      "num": 205046,
-      "word": "特朗普回应黄仁勋访华",
-      "onboard_time": 1745044642,
-      "rank": 24,
-      "category": "国际时政"
     },
     {
       "raw_hot": 205042,
@@ -9825,14 +9873,6 @@
       "onboard_time": 1744985243,
       "rank": 41,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 192412,
-      "num": 170095,
-      "word": "谢娜发文向张小婉管乐解释",
-      "onboard_time": 1745044701,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 192370,
@@ -11364,7 +11404,7 @@
     },
     {
       "raw_hot": 173329,
-      "num": 173329,
+      "num": 266879,
       "word": "韩国偶遇林一逛街",
       "onboard_time": 1745043982,
       "rank": 45,
@@ -12507,6 +12547,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 159774,
+      "num": 159774,
+      "word": "什么好工作通勤六个小时啊",
+      "onboard_time": 1745045722,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159614,
       "num": 159614,
       "word": "杭州一地铁出入口被指像棺材",
@@ -12680,6 +12728,14 @@
       "word": "刘宇宁在线打假明星签名照",
       "onboard_time": 1744605626,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 157838,
+      "num": 157838,
+      "word": "虞书欣给摄影师买新相机",
+      "onboard_time": 1745044941,
+      "rank": 42,
       "category": "艺人"
     },
     {
@@ -13297,6 +13353,14 @@
       "onboard_time": 1744853301,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 150551,
+      "num": 318951,
+      "word": "洞穴潜水失联3天奇迹生还",
+      "onboard_time": 1745046203,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150498,
@@ -14331,6 +14395,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 141696,
+      "num": 141696,
+      "word": "董子健是孙俪邓超cp粉吧",
+      "onboard_time": 1745046323,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 141663,
       "num": 141663,
       "word": "日晕",
@@ -14553,6 +14625,14 @@
       "onboard_time": 1744887561,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 139662,
+      "num": 139662,
+      "word": "浪姐选曲",
+      "onboard_time": 1745045783,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 139635,
@@ -15699,6 +15779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130555,
+      "num": 130555,
+      "word": "四色视者眼中的世界在此刻具像化了",
+      "onboard_time": 1745046260,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130421,
       "num": 217234,
       "word": "全球最大对冲基金创始人就美关税发出警告",
@@ -15963,6 +16051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128177,
+      "num": 128177,
+      "word": "一个月瘦多少斤才科学",
+      "onboard_time": 1745046562,
+      "rank": 37,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 127978,
       "num": 127978,
       "word": "现货黄金跌破3200美元",
@@ -16033,6 +16129,14 @@
       "onboard_time": 1744701620,
       "rank": 48,
       "category": "民生新闻,旅游"
+    },
+    {
+      "raw_hot": 127317,
+      "num": 127317,
+      "word": "兔子做不了警官 那我就会是第一个了",
+      "onboard_time": 1745046802,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 127268,
@@ -16587,6 +16691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122200,
+      "num": 122200,
+      "word": "中国队力压美国队奥赛夺冠",
+      "onboard_time": 1745045182,
+      "rank": 39,
+      "category": "教育"
+    },
+    {
       "raw_hot": 122139,
       "num": 122139,
       "word": "梁祯元身材",
@@ -16609,6 +16721,14 @@
       "onboard_time": 1744713322,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 122033,
+      "num": 122033,
+      "word": "中国船协严正声明",
+      "onboard_time": 1745046203,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 121853,
@@ -17035,6 +17155,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 118348,
+      "num": 118348,
+      "word": "邓超让网友接泼天的富贵",
+      "onboard_time": 1745046980,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118327,
       "num": 118327,
       "word": "揭秘十个勤天经纪公司",
@@ -17243,12 +17371,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 116060,
-      "num": 116060,
-      "word": "王楚钦vs雨果",
-      "onboard_time": 1745036722,
-      "rank": 47,
-      "category": "体育"
+      "raw_hot": 116292,
+      "num": 116292,
+      "word": "管乐向云端独舞",
+      "onboard_time": 1745045901,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 115780,
@@ -17416,14 +17544,6 @@
       "word": "戚薇在逃森系公主",
       "onboard_time": 1744782202,
       "rank": 49,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 114202,
-      "num": 114202,
-      "word": "虞书欣给摄影师买新相机",
-      "onboard_time": 1745044941,
-      "rank": 42,
       "category": "艺人"
     },
     {
@@ -17776,6 +17896,14 @@
       "word": "杨瀚森宣布参加今年NBA选秀",
       "onboard_time": 1744853899,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 110646,
+      "num": 110646,
+      "word": "蒯曼世界杯进决赛",
+      "onboard_time": 1745047221,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -18209,6 +18337,14 @@
       "onboard_time": 1744544542,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 105028,
+      "num": 105028,
+      "word": "90后小伙儿靠机器人月入10万",
+      "onboard_time": 1745045422,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105016,
@@ -19763,6 +19899,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 80221,
+      "num": 209935,
+      "word": "九尾晒午餐",
+      "onboard_time": 1745046260,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 80205,
       "num": 257983,
       "word": "白鹿脱不下来的洞洞鞋",
@@ -19873,6 +20017,14 @@
       "onboard_time": 1744637543,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 77594,
+      "num": 285607,
+      "word": "陈赫五哈站哥",
+      "onboard_time": 1745046682,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 77585,
@@ -20137,6 +20289,14 @@
       "onboard_time": 1744702221,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 73848,
+      "num": 260939,
+      "word": "恒河的动物为什么那么抽象",
+      "onboard_time": 1745046622,
+      "rank": 19,
+      "category": "科学科普"
     },
     {
       "raw_hot": 73741,
