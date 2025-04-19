@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1745077061004,
+  "endTime": 1745080147354,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -43,12 +43,28 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 13747893,
+      "num": 13747893,
+      "word": "关晓彤",
+      "onboard_time": 1745079693,
+      "rank": 10,
+      "category": "艺人,剧集"
+    },
+    {
       "raw_hot": 11838630,
       "num": 11838630,
       "word": "小米SU7高速碰撞爆燃事件细节",
       "onboard_time": 1743484044,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10848840,
+      "num": 10848840,
+      "word": "关晓彤已连续7年为鹿晗庆生",
+      "onboard_time": 1745044101,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 10606514,
@@ -1787,14 +1803,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1521558,
-      "num": 420495,
-      "word": "关晓彤已连续7年为鹿晗庆生",
-      "onboard_time": 1745044101,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1516843,
       "num": 1516843,
       "word": "熔断",
@@ -1897,6 +1905,14 @@
       "onboard_time": 1744160365,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1486076,
+      "num": 94087,
+      "word": "鹿晗生日",
+      "onboard_time": 1745079274,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 1481763,
@@ -8307,6 +8323,14 @@
       "category": "美食,游戏"
     },
     {
+      "raw_hot": 601824,
+      "num": 601824,
+      "word": "CIA报告称外星人石化苏联士兵",
+      "onboard_time": 1745074045,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 601658,
       "num": 4995455,
       "word": "外媒称美国的痛苦是自作自受",
@@ -9419,6 +9443,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 539037,
+      "num": 539037,
+      "word": "美国大豆可能将永远失去中国市场",
+      "onboard_time": 1745074524,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 538198,
       "num": 538198,
       "word": "江泽民故居面向社会公众开放",
@@ -10369,6 +10401,14 @@
       "onboard_time": 1744070421,
       "rank": 16,
       "category": "网红"
+    },
+    {
+      "raw_hot": 495981,
+      "num": 271835,
+      "word": "胡彦斌分享的喉糖自己买不到了",
+      "onboard_time": 1745076445,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 495904,
@@ -11777,14 +11817,6 @@
       "onboard_time": 1743992064,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 443347,
-      "num": 443347,
-      "word": "CIA报告称外星人石化苏联士兵",
-      "onboard_time": 1745074045,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 442656,
@@ -17515,14 +17547,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 297279,
-      "num": 297279,
-      "word": "美国大豆可能将永远失去中国市场",
-      "onboard_time": 1745074524,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 297104,
       "num": 297104,
       "word": "成毅站姐做的迪丽热巴贺思慕海报",
@@ -18073,6 +18097,14 @@
       "onboard_time": 1743690322,
       "rank": 21,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 288830,
+      "num": 288830,
+      "word": "热量比肉还高的水果",
+      "onboard_time": 1745068703,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 288785,
@@ -19609,14 +19641,6 @@
       "onboard_time": 1743942561,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 264622,
-      "num": 264622,
-      "word": "热量比肉还高的水果",
-      "onboard_time": 1745068703,
-      "rank": 37,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 264475,
@@ -21939,6 +21963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 234921,
+      "num": 234921,
+      "word": "树莓衮衮衮",
+      "onboard_time": 1745078731,
+      "rank": 14,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 234888,
       "num": 234888,
       "word": "Jennie科切拉",
@@ -23137,6 +23169,14 @@
       "onboard_time": 1743982880,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 223282,
+      "num": 223282,
+      "word": "小盐巴 很好心很软的人",
+      "onboard_time": 1745073445,
+      "rank": 39,
+      "category": "网红"
     },
     {
       "raw_hot": 223242,
@@ -24737,6 +24777,14 @@
       "onboard_time": 1743599604,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 210172,
+      "num": 210172,
+      "word": "刘涛 这么多mother啊",
+      "onboard_time": 1745077343,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 210144,
@@ -26361,14 +26409,6 @@
       "onboard_time": 1743559341,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 202327,
-      "num": 202327,
-      "word": "胡彦斌分享的喉糖自己买不到了",
-      "onboard_time": 1745076445,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 202296,
@@ -28187,14 +28227,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 194055,
-      "num": 194055,
-      "word": "小盐巴 很好心很软的人",
-      "onboard_time": 1745073445,
-      "rank": 39,
-      "category": "网红"
-    },
-    {
       "raw_hot": 194046,
       "num": 333587,
       "word": "李现李一桐二搭长风起",
@@ -29233,6 +29265,14 @@
       "onboard_time": 1743733880,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 190220,
+      "num": 190220,
+      "word": "男子带10名女子吃千元烧烤逃单",
+      "onboard_time": 1745073925,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 190218,
@@ -33003,14 +33043,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 172976,
-      "num": 172976,
-      "word": "男子带10名女子吃千元烧烤逃单",
-      "onboard_time": 1745073925,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 172942,
       "num": 172942,
       "word": "东部战区组织海峡雷霆2025A演练",
@@ -34001,6 +34033,14 @@
       "onboard_time": 1744694004,
       "rank": 46,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 168317,
+      "num": 168317,
+      "word": "印度医生让儿童吸支烟治感冒",
+      "onboard_time": 1745075665,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 168311,
@@ -42211,14 +42251,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 136182,
-      "num": 136182,
-      "word": "印度医生让儿童吸支烟治感冒",
-      "onboard_time": 1745075665,
-      "rank": 47,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 136148,
       "num": 241248,
       "word": "英伟达CEO说中国是非常重要的市场",
@@ -45537,6 +45569,14 @@
       "onboard_time": 1744781062,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 124867,
+      "num": 124867,
+      "word": "林诗栋被罚分后又吃黄牌",
+      "onboard_time": 1745077103,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 124846,
@@ -50307,6 +50347,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 104602,
+      "num": 104602,
+      "word": "单依纯把彩虹都穿了一遍",
+      "onboard_time": 1745077702,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 104580,
       "num": 104580,
       "word": "艾热新专辑歌曲越做越少",
@@ -51547,6 +51595,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 96904,
+      "num": 96904,
+      "word": "晚安徐杰",
+      "onboard_time": 1745077223,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96893,
       "num": 103660,
       "word": "发明辣条的人配享太庙",
@@ -51793,6 +51849,14 @@
       "onboard_time": 1745072124,
       "rank": 24,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 95392,
+      "num": 95392,
+      "word": "陈楚生贵阳音乐节",
+      "onboard_time": 1745079811,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 95387,
@@ -53059,6 +53123,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 85441,
+      "num": 85441,
+      "word": "范玮琪成都演唱会",
+      "onboard_time": 1745077163,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 85438,
       "num": 123860,
       "word": "张艺兴希望有更多13年陪伴大家",
@@ -53113,6 +53185,14 @@
       "onboard_time": 1743481586,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85265,
+      "num": 85265,
+      "word": "ZmjjKK 夜露",
+      "onboard_time": 1745074883,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 85231,
@@ -53601,6 +53681,14 @@
       "onboard_time": 1743897558,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 82013,
+      "num": 103189,
+      "word": "4月20日3时56分谷雨",
+      "onboard_time": 1745079932,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82002,
@@ -54161,6 +54249,14 @@
       "onboard_time": 1743682702,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77683,
+      "num": 77683,
+      "word": "张远高音燃到我了",
+      "onboard_time": 1745079512,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 77619,

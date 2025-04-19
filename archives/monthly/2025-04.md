@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/19 23:37:41
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/20 00:29:07
 </p>
 </blockquote>
 <p>
@@ -45,8 +45,20 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%23" target="weibo">
+关晓彤（热度：13747893）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3SU7%E9%AB%98%E9%80%9F%E7%A2%B0%E6%92%9E%E7%88%86%E7%87%83%E4%BA%8B%E4%BB%B6%E7%BB%86%E8%8A%82%23" target="weibo">
 小米SU7高速碰撞爆燃事件细节（热度：11838630）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%B7%B2%E8%BF%9E%E7%BB%AD7%E5%B9%B4%E4%B8%BA%E9%B9%BF%E6%99%97%E5%BA%86%E7%94%9F%23" target="weibo">
+关晓彤已连续7年为鹿晗庆生（热度：10848840）
 </a>
 </li>
 
@@ -1353,12 +1365,6 @@ RedVelvet 解散（热度：1601334）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%B7%B2%E8%BF%9E%E7%BB%AD7%E5%B9%B4%E4%B8%BA%E9%B9%BF%E6%99%97%E5%BA%86%E7%94%9F%23" target="weibo">
-关晓彤已连续7年为鹿晗庆生（热度：1521558）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%86%94%E6%96%AD%23" target="weibo">
 熔断（热度：1516843）
 </a>
@@ -1433,6 +1439,12 @@ RedVelvet 解散（热度：1601334）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9B%BD%E5%9B%9E%E5%A4%8D%E7%BE%8E%E5%9B%BD%E8%AF%B4%E4%B8%8D%E7%BB%99%E9%B8%A1%E8%9B%8B%23" target="weibo">
 多国回复美国说不给鸡蛋（热度：1487159）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E7%94%9F%E6%97%A5%23" target="weibo">
+鹿晗生日（热度：1486076）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ Daniel公开（热度：626903）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%81%E6%B5%AA%E5%9C%B0%E7%90%833%E5%BC%80%E6%9C%BA%23" target="weibo">
 流浪地球3开机（热度：621651）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%92%9F%E6%A5%9A%E6%9B%A6%E5%8F%91%E5%8D%9A%E8%AF%B4%E5%AE%8B%E4%BD%B3%E5%B8%85%E7%96%AF%E4%BA%86%23" target="weibo">
-钟楚曦发博说宋佳帅疯了（热度：621424）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E6%99%AE%E5%8D%A1%23" target="weibo">
-王楚钦vs普卡（热度：619763）
 </a>
 </li>
 

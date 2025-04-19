@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/04/19 23:37:41
+本榜单时间：2025/01/01 00:26:38 ~ 2025/04/20 00:29:07
 </p>
 </blockquote>
 <p>
@@ -237,6 +237,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%23" target="weibo">
+关晓彤（热度：13747893）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%8F%96%E5%85%B3%23" target="weibo">
 赵露思取关（热度：13516718）
 </a>
@@ -371,6 +377,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E7%A7%80%E8%B4%A4%E5%9C%A8%E4%BF%A1%E9%87%8C%E8%AF%B4%E6%88%91%E7%88%B1%E4%BD%A0%E8%B5%9B%E7%BA%B6%23" target="weibo">
 金秀贤在信里说我爱你赛纶（热度：10901855）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%B7%B2%E8%BF%9E%E7%BB%AD7%E5%B9%B4%E4%B8%BA%E9%B9%BF%E6%99%97%E5%BA%86%E7%94%9F%23" target="weibo">
+关晓彤已连续7年为鹿晗庆生（热度：10848840）
 </a>
 </li>
 
@@ -1799,18 +1811,6 @@ DeepSeek（热度：3038517）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E4%B9%9D%E6%B4%B2%20%E6%8A%84%E8%A2%AD%23" target="weibo">
 唐九洲 抄袭（热度：2966648）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A5%95%E8%BF%85%20%E7%9C%9F%E5%94%B1%23" target="weibo">
-陈奕迅 真唱（热度：2964716）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E5%B0%86%E6%89%80%E6%8C%81%E8%82%A1%E6%9D%83%E8%BD%AC%E8%AE%A9%E7%BB%99%E5%90%B4%E5%A5%87%E9%9A%86%23" target="weibo">
-刘诗诗将所持股权转让给吴奇隆（热度：2963105）
 </a>
 </li>
 

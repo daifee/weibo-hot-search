@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1745077061004,
+  "endTime": 1745080147354,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -299,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 13747893,
+      "num": 13747893,
+      "word": "关晓彤",
+      "onboard_time": 1740674355,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 13516718,
       "num": 13516718,
       "word": "赵露思取关",
@@ -480,6 +488,14 @@
       "word": "金秀贤在信里说我爱你赛纶",
       "onboard_time": 1741774582,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 10848840,
+      "num": 10848840,
+      "word": "关晓彤已连续7年为鹿晗庆生",
+      "onboard_time": 1745044101,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -2384,22 +2400,6 @@
       "word": "唐九洲 抄袭",
       "onboard_time": 1742647761,
       "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 2964716,
-      "num": 2964716,
-      "word": "陈奕迅 真唱",
-      "onboard_time": 1738074999,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 2963105,
-      "num": 545941,
-      "word": "刘诗诗将所持股权转让给吴奇隆",
-      "onboard_time": 1740015800,
-      "rank": 10,
       "category": "艺人"
     }
   ],
