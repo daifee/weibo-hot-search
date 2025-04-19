@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1745028586244,
+  "endTime": 1745031647199,
   "band_list": [
     {
       "raw_hot": 10606514,
@@ -1067,6 +1067,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 1101182,
+      "num": 346251,
+      "word": "杜淳老婆自曝不拍戏的原因",
+      "onboard_time": 1745029342,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1099237,
       "num": 534785,
       "word": "刘耀文回应和张真源冷战",
@@ -1340,7 +1348,7 @@
     },
     {
       "raw_hot": 969423,
-      "num": 969423,
+      "num": 1151422,
       "word": "乌克兰放弃世界第三大核武器库",
       "onboard_time": 1745026641,
       "rank": 23,
@@ -2024,6 +2032,14 @@
       "word": "工作时猝死抢救超48小时无法认定工伤",
       "onboard_time": 1744612702,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 766809,
+      "num": 766809,
+      "word": "黄河水不黄了",
+      "onboard_time": 1745028021,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -3411,6 +3427,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 506382,
+      "num": 332394,
+      "word": "蔡徐坤 熊猫",
+      "onboard_time": 1745029161,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 505709,
       "num": 505709,
       "word": "驻日大使馆提醒注意防范地震",
@@ -4001,6 +4025,14 @@
       "onboard_time": 1744551023,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 429419,
+      "num": 313347,
+      "word": "被黄奕47岁身材辣到",
+      "onboard_time": 1745029880,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 428499,
@@ -5427,6 +5459,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 310457,
+      "num": 310457,
+      "word": "女子回应减30斤后撞脸王祖贤",
+      "onboard_time": 1745028802,
+      "rank": 16,
+      "category": "运动健身,艺人"
+    },
+    {
       "raw_hot": 310386,
       "num": 310386,
       "word": "镜妖 季离",
@@ -5947,6 +5987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 274456,
+      "num": 187217,
+      "word": "福建9岁女孩腹痛3天查出体内大量积血",
+      "onboard_time": 1745030841,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 274435,
       "num": 237474,
       "word": "白鹿讲述职场里肯定有多重要",
@@ -6089,6 +6137,14 @@
       "onboard_time": 1744975281,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 269340,
+      "num": 372505,
+      "word": "吴宣仪听到自己第一的反应",
+      "onboard_time": 1745026041,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 269126,
@@ -6571,6 +6627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 247025,
+      "num": 368498,
+      "word": "掉头要不要等红灯",
+      "onboard_time": 1745027181,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 246867,
       "num": 246867,
       "word": "特朗普顾问回应被马斯克骂白痴",
@@ -6681,6 +6745,22 @@
       "onboard_time": 1744623743,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 244044,
+      "num": 244044,
+      "word": "为什么年轻人越来越能接受相亲了",
+      "onboard_time": 1745029102,
+      "rank": 23,
+      "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 243925,
+      "num": 276636,
+      "word": "首个人形机器人半马冠军",
+      "onboard_time": 1745030481,
+      "rank": 19,
+      "category": "运动健身"
     },
     {
       "raw_hot": 243828,
@@ -6889,6 +6969,14 @@
       "onboard_time": 1744889421,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 236936,
+      "num": 186896,
+      "word": "天工机器人半马夺冠",
+      "onboard_time": 1745030783,
+      "rank": 31,
+      "category": "运动健身"
     },
     {
       "raw_hot": 236884,
@@ -7299,14 +7387,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 225935,
-      "num": 372505,
-      "word": "吴宣仪听到自己第一的反应",
-      "onboard_time": 1745026041,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 225915,
       "num": 228583,
       "word": "孙颖莎上班走出了哪吒的气势",
@@ -7379,14 +7459,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 224351,
-      "num": 368498,
-      "word": "掉头要不要等红灯",
-      "onboard_time": 1745027181,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 223993,
       "num": 223993,
       "word": "王安宇演技含金量",
@@ -7457,6 +7529,14 @@
       "onboard_time": 1744860562,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 222058,
+      "num": 282674,
+      "word": "时代少年团海口演唱会座位图",
+      "onboard_time": 1745028140,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 221894,
@@ -8859,6 +8939,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 199187,
+      "num": 199187,
+      "word": "美国正失去耐心",
+      "onboard_time": 1745028082,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 199138,
       "num": 199138,
       "word": "林允这是我认识的男人装吗",
@@ -9689,6 +9777,14 @@
       "onboard_time": 1744513521,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 189587,
+      "num": 189587,
+      "word": "怡丽丝尔 鞠婧祎",
+      "onboard_time": 1745030542,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 189469,
@@ -11593,14 +11689,6 @@
       "onboard_time": 1744795042,
       "rank": 19,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 164189,
-      "num": 164189,
-      "word": "美国正失去耐心",
-      "onboard_time": 1745028082,
-      "rank": 23,
-      "category": "国际时政"
     },
     {
       "raw_hot": 164017,
@@ -14051,6 +14139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 138998,
+      "num": 189226,
+      "word": "王以太哭着感谢吉克隽逸",
+      "onboard_time": 1745031081,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138752,
       "num": 138752,
       "word": "念无双",
@@ -14513,6 +14609,14 @@
       "onboard_time": 1744866563,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 135027,
+      "num": 188664,
+      "word": "你好星期六全员飙演技",
+      "onboard_time": 1745029342,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 134868,
@@ -15179,11 +15283,27 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 129280,
+      "num": 188270,
+      "word": "周深的小美满已经唱到大海了",
+      "onboard_time": 1745030421,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 128935,
       "num": 128935,
       "word": "一首情诗就能查出现任出轨",
       "onboard_time": 1744779204,
       "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 128853,
+      "num": 187862,
+      "word": "楚后",
+      "onboard_time": 1745030721,
+      "rank": 29,
       "category": "剧集"
     },
     {
@@ -15417,6 +15537,14 @@
       "onboard_time": 1744626801,
       "rank": 20,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 126540,
+      "num": 317478,
+      "word": "首次人机共跑半马",
+      "onboard_time": 1745029581,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126478,
@@ -16123,6 +16251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119998,
+      "num": 119998,
+      "word": "天工机器人半马冲线完赛",
+      "onboard_time": 1745031442,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119974,
       "num": 119974,
       "word": "猫meme",
@@ -16209,6 +16345,14 @@
       "onboard_time": 1744945581,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118949,
+      "num": 118949,
+      "word": "波波维奇突然晕倒",
+      "onboard_time": 1745029880,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 118922,
@@ -16441,14 +16585,6 @@
       "onboard_time": 1744800441,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 117255,
-      "num": 117255,
-      "word": "黄河水不黄了",
-      "onboard_time": 1745028021,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 116962,
@@ -16859,6 +16995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112358,
+      "num": 112358,
+      "word": "张远抽中张杰演唱会第一个定制应援棒",
+      "onboard_time": 1745031561,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112308,
       "num": 112308,
       "word": "王一博登VOGUE五大满贯",
@@ -17009,14 +17153,6 @@
       "onboard_time": 1744467204,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 110113,
-      "num": 110113,
-      "word": "时代少年团海口演唱会座位图",
-      "onboard_time": 1745028140,
-      "rank": 35,
-      "category": "演出"
     },
     {
       "raw_hot": 110111,
@@ -17595,6 +17731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102111,
+      "num": 102111,
+      "word": "奔跑吧夏日度假大片",
+      "onboard_time": 1745030901,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101942,
       "num": 137419,
       "word": "武艺杨迪连发12条微博",
@@ -17891,6 +18035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98470,
+      "num": 98470,
+      "word": "羊肉胡辣汤是开封的早餐顶流",
+      "onboard_time": 1745030301,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 98432,
       "num": 196904,
       "word": "李马克购入50亿韩元住宅",
@@ -17905,6 +18057,14 @@
       "onboard_time": 1744469544,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 97810,
+      "num": 97810,
+      "word": "国羽混双组合重组",
+      "onboard_time": 1745029522,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 97798,
@@ -19505,6 +19665,14 @@
       "onboard_time": 1744552163,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 67761,
+      "num": 278514,
+      "word": "出生44天萌娃机器人参加北京半马",
+      "onboard_time": 1745030600,
+      "rank": 18,
+      "category": "互联网,运动健身"
     },
     {
       "raw_hot": 67495,

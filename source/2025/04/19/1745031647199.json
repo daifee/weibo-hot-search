@@ -1,0 +1,410 @@
+{
+  "runTime": 1745031647199,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 946388,
+        "num": 1151422,
+        "word": "乌克兰放弃世界第三大核武器库",
+        "onboard_time": 1745026641,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 901803,
+        "num": 901803,
+        "word": "被官二代顶替上大学女子做了律师",
+        "onboard_time": 1745020340,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50942,
+        "num": 793671,
+        "word": "美国加关税是搬石头砸自己脚",
+        "onboard_time": 1744982901,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1013175,
+        "num": 785532,
+        "word": "日本",
+        "onboard_time": 1744979242,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 766809,
+        "num": 766809,
+        "word": "黄河水不黄了",
+        "onboard_time": 1745028021,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 439621,
+        "num": 439621,
+        "word": "一些容易长胖的睡前习惯",
+        "onboard_time": 1745023581,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 415243,
+        "num": 415243,
+        "word": "女生攒2斤3两脱发卖1万多元",
+        "onboard_time": 1745020280,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 360531,
+        "num": 360531,
+        "word": "宝妈5个月没睡过整觉查出胃癌晚期",
+        "onboard_time": 1745019380,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269340,
+        "num": 355210,
+        "word": "吴宣仪听到自己第一的反应",
+        "onboard_time": 1745026041,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244534,
+        "num": 352447,
+        "word": "甲亢哥的Master梁回应走红",
+        "onboard_time": 1745025381,
+        "rank": 9,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 1101182,
+        "num": 346251,
+        "word": "杜淳老婆自曝不拍戏的原因",
+        "onboard_time": 1745029342,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 514223,
+        "num": 337584,
+        "word": "女子被轮胎撞死时正和丈夫停车休整",
+        "onboard_time": 1745018058,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 506382,
+        "num": 332394,
+        "word": "蔡徐坤 熊猫",
+        "onboard_time": 1745029161,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 483725,
+        "num": 323361,
+        "word": "方大同过世后薛凯琪一醒就痛哭",
+        "onboard_time": 1745022741,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126540,
+        "num": 317478,
+        "word": "首次人机共跑半马",
+        "onboard_time": 1745029581,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 429419,
+        "num": 313347,
+        "word": "被黄奕47岁身材辣到",
+        "onboard_time": 1745029880,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 310457,
+        "num": 310457,
+        "word": "女子回应减30斤后撞脸王祖贤",
+        "onboard_time": 1745028802,
+        "rank": 16,
+        "category": "运动健身,艺人"
+      },
+      {
+        "raw_hot": 222058,
+        "num": 282674,
+        "word": "时代少年团海口演唱会座位图",
+        "onboard_time": 1745028140,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 67761,
+        "num": 278514,
+        "word": "出生44天萌娃机器人参加北京半马",
+        "onboard_time": 1745030600,
+        "rank": 18,
+        "category": "互联网,运动健身"
+      },
+      {
+        "raw_hot": 243925,
+        "num": 276636,
+        "word": "首个人形机器人半马冠军",
+        "onboard_time": 1745030481,
+        "rank": 19,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 276216,
+        "num": 276216,
+        "word": "大学唯一挂科英语现在用英语工作",
+        "onboard_time": 1745026400,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 252090,
+        "num": 252090,
+        "word": "赵露思红发自拍",
+        "onboard_time": 1745023222,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247025,
+        "num": 247025,
+        "word": "掉头要不要等红灯",
+        "onboard_time": 1745027181,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244044,
+        "num": 244044,
+        "word": "为什么年轻人越来越能接受相亲了",
+        "onboard_time": 1745029102,
+        "rank": 23,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 199187,
+        "num": 199187,
+        "word": "美国正失去耐心",
+        "onboard_time": 1745028082,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 189587,
+        "num": 189587,
+        "word": "怡丽丝尔 鞠婧祎",
+        "onboard_time": 1745030542,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138998,
+        "num": 189226,
+        "word": "王以太哭着感谢吉克隽逸",
+        "onboard_time": 1745031081,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135027,
+        "num": 188664,
+        "word": "你好星期六全员飙演技",
+        "onboard_time": 1745029342,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129280,
+        "num": 188270,
+        "word": "周深的小美满已经唱到大海了",
+        "onboard_time": 1745030421,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 128853,
+        "num": 187862,
+        "word": "楚后",
+        "onboard_time": 1745030721,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 274456,
+        "num": 187217,
+        "word": "福建9岁女孩腹痛3天查出体内大量积血",
+        "onboard_time": 1745030841,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236936,
+        "num": 186896,
+        "word": "天工机器人半马夺冠",
+        "onboard_time": 1745030783,
+        "rank": 31,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 186656,
+        "num": 186656,
+        "word": "阚清子说前几年拍戏女主得男主定",
+        "onboard_time": 1745019380,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150418,
+        "num": 150418,
+        "word": "特朗普妄想威胁他国别买中国货",
+        "onboard_time": 1745019380,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 145940,
+        "num": 145940,
+        "word": "我国成功发射一箭六星",
+        "onboard_time": 1745024421,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 144884,
+        "num": 144884,
+        "word": "医生说入睡在15分到30分钟最佳",
+        "onboard_time": 1745020340,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 132023,
+        "num": 132023,
+        "word": "王者荣耀",
+        "onboard_time": 1745019319,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 119998,
+        "num": 119998,
+        "word": "天工机器人半马冲线完赛",
+        "onboard_time": 1745031442,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118949,
+        "num": 118949,
+        "word": "波波维奇突然晕倒",
+        "onboard_time": 1745029880,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112928,
+        "num": 118745,
+        "word": "奔跑吧",
+        "onboard_time": 1745031263,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118742,
+        "num": 118742,
+        "word": "向市长自荐大学生应聘了3所学校",
+        "onboard_time": 1745027361,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118368,
+        "num": 118368,
+        "word": "深圳一程序员4年不租房睡车里",
+        "onboard_time": 1744995438,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112358,
+        "num": 112358,
+        "word": "张远抽中张杰演唱会第一个定制应援棒",
+        "onboard_time": 1745031561,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108386,
+        "num": 108386,
+        "word": "歌手",
+        "onboard_time": 1745028201,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102111,
+        "num": 102111,
+        "word": "奔跑吧夏日度假大片",
+        "onboard_time": 1745030901,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100791,
+        "num": 100791,
+        "word": "蒲熠星超百万逆应援",
+        "onboard_time": 1745025381,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 98470,
+        "num": 98470,
+        "word": "羊肉胡辣汤是开封的早餐顶流",
+        "onboard_time": 1745030301,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 98303,
+        "num": 98303,
+        "word": "沈腾玲花他俩手拉手了",
+        "onboard_time": 1745022141,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 97810,
+        "num": 97810,
+        "word": "国羽混双组合重组",
+        "onboard_time": 1745029522,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97456,
+        "num": 97456,
+        "word": "原来这就是两口子久处不腻的方法",
+        "onboard_time": 1745018058,
+        "rank": 49,
+        "category": "正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平结束国事访问回到北京#"
+    }
+  }
+}
