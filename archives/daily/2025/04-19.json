@@ -1,6 +1,6 @@
 {
   "startTime": 1744993775892,
-  "endTime": 1745040222252,
+  "endTime": 1745041253823,
   "band_list": [
     {
       "raw_hot": 2817932,
@@ -27,20 +27,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1275999,
+      "num": 471119,
+      "word": "卡黄",
+      "onboard_time": 1745036901,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1216467,
       "num": 1216467,
       "word": "黄河水不黄了",
       "onboard_time": 1745028021,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1124274,
-      "num": 471119,
-      "word": "卡黄",
-      "onboard_time": 1745036901,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 1101182,
@@ -121,6 +121,14 @@
       "onboard_time": 1745029161,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 644393,
+      "num": 644393,
+      "word": "这些居然是王珞丹拍的",
+      "onboard_time": 1745038643,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 624564,
@@ -243,20 +251,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 448205,
+      "raw_hot": 460321,
       "num": 473833,
       "word": "官方通报女子伸腿阻止高铁关门",
       "onboard_time": 1745034502,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 442340,
-      "num": 354082,
-      "word": "这些居然是王珞丹拍的",
-      "onboard_time": 1745038643,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 437084,
@@ -273,6 +273,14 @@
       "onboard_time": 1745019380,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 405178,
+      "num": 405178,
+      "word": "关税亲历者自述美国客户仍在下单",
+      "onboard_time": 1745039002,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 386014,
@@ -348,7 +356,7 @@
     },
     {
       "raw_hot": 353366,
-      "num": 353366,
+      "num": 388812,
       "word": "男友把她的老王做成了她的晚餐",
       "onboard_time": 1745037621,
       "rank": 40,
@@ -475,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 258620,
+      "num": 351952,
+      "word": "内娱开始搞相亲选秀了",
+      "onboard_time": 1745039961,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 251930,
       "num": 381941,
       "word": "沈腾玲花他俩手拉手了",
@@ -537,6 +553,14 @@
       "onboard_time": 1745028140,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 238919,
+      "num": 238919,
+      "word": "五哈",
+      "onboard_time": 1745037801,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 236936,
@@ -611,6 +635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203814,
+      "num": 291610,
+      "word": "papi说朱丹英语上不去都怪尚雯婕",
+      "onboard_time": 1745040201,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 201861,
       "num": 358318,
       "word": "电影射雕英雄传侠之大者",
@@ -625,22 +657,6 @@
       "onboard_time": 1745028082,
       "rank": 23,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 194761,
-      "num": 356531,
-      "word": "关税亲历者自述美国客户仍在下单",
-      "onboard_time": 1745039002,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 194672,
-      "num": 194672,
-      "word": "五哈",
-      "onboard_time": 1745037801,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 193940,
@@ -699,6 +715,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 184357,
+      "num": 184357,
+      "word": "第一次见奥特曼开演唱会",
+      "onboard_time": 1745040440,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 183014,
       "num": 183014,
       "word": "北大博士回应入职民办高校被指浪费",
@@ -747,12 +771,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 174060,
-      "num": 174060,
-      "word": "内娱开始搞相亲选秀了",
-      "onboard_time": 1745039961,
-      "rank": 28,
-      "category": "剧集"
+      "raw_hot": 175081,
+      "num": 175081,
+      "word": "第五人格",
+      "onboard_time": 1745040682,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 169454,
@@ -825,6 +849,14 @@
       "onboard_time": 1744986503,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158211,
+      "num": 158211,
+      "word": "韩国女子用尿布糊老师脸获刑6个月",
+      "onboard_time": 1745040440,
+      "rank": 32,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 157319,
@@ -931,6 +963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141868,
+      "num": 141868,
+      "word": "女子阻止高铁关门事发深圳北站",
+      "onboard_time": 1745040860,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141678,
       "num": 162835,
       "word": "科切拉",
@@ -971,6 +1011,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 136901,
+      "num": 136901,
+      "word": "国色芳华湖南卫视Q1收视冠军",
+      "onboard_time": 1745040921,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135336,
       "num": 135336,
       "word": "特朗普再度施压美联储",
@@ -1003,6 +1051,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 132862,
+      "num": 132862,
+      "word": "谷雨是汉字含量最高的节气",
+      "onboard_time": 1745040620,
+      "rank": 40,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 130953,
       "num": 130953,
       "word": "宋轶去了张杰演唱会",
@@ -1017,6 +1073,14 @@
       "onboard_time": 1744981524,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129660,
+      "num": 129660,
+      "word": "乘风2025三公小考",
+      "onboard_time": 1745040561,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 129618,
@@ -1065,6 +1129,14 @@
       "onboard_time": 1745020340,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124518,
+      "num": 124518,
+      "word": "史彭元新剧开辟苦瓜赛道",
+      "onboard_time": 1745041040,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 123638,
@@ -1145,14 +1217,6 @@
       "onboard_time": 1745036722,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 115061,
-      "num": 115061,
-      "word": "papi说朱丹英语上不去都怪尚雯婕",
-      "onboard_time": 1745040201,
-      "rank": 48,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 114666,
@@ -1363,6 +1427,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 86833,
+      "num": 317390,
+      "word": "糖尿病人可以吃哪些水果",
+      "onboard_time": 1745040501,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 86568,
       "num": 86568,
       "word": "巴西打算替代美国成供应国",
@@ -1491,6 +1563,14 @@
       "category": "互联网,运动健身"
     },
     {
+      "raw_hot": 63879,
+      "num": 285305,
+      "word": "奖励机器人一个机器人",
+      "onboard_time": 1745040982,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
       "raw_hot": 62978,
       "num": 66168,
       "word": "wego痛包",
@@ -1571,12 +1651,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 49931,
+      "num": 164907,
+      "word": "机器人小顽童接冲线的旋风小子",
+      "onboard_time": 1745040982,
+      "rank": 31,
+      "category": "民生新闻,数码"
+    },
+    {
       "raw_hot": 49552,
       "num": 49552,
       "word": "那英没走红毯",
       "onboard_time": 1744997178,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 48151,
+      "num": 385464,
+      "word": "乌克兰危机何去何从",
+      "onboard_time": 1745039120,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 46767,
@@ -1721,6 +1817,14 @@
       "onboard_time": 1745000535,
       "rank": 44,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 24064,
+      "num": 335692,
+      "word": "6座面包车竟塞进15人工程队",
+      "onboard_time": 1745040561,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23221,
