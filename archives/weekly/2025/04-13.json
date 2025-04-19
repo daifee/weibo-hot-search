@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1745072457975,
+  "endTime": 1745073558572,
   "band_list": [
     {
       "raw_hot": 10606514,
@@ -1771,6 +1771,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 887463,
+      "num": 887463,
+      "word": "王楚钦说为什么全是擦网",
+      "onboard_time": 1745069725,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 882913,
       "num": 882913,
       "word": "无忧渡",
@@ -2345,14 +2353,6 @@
       "onboard_time": 1744633822,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 726436,
-      "num": 726436,
-      "word": "王楚钦说为什么全是擦网",
-      "onboard_time": 1745069725,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 726425,
@@ -2963,6 +2963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 627396,
+      "num": 627396,
+      "word": "萤火虫价格",
+      "onboard_time": 1745068823,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 626898,
       "num": 332975,
       "word": "上海799一位的自助餐厅卷款跑路",
@@ -3201,14 +3209,6 @@
       "onboard_time": 1744871902,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 589038,
-      "num": 589038,
-      "word": "萤火虫价格",
-      "onboard_time": 1745068823,
-      "rank": 18,
-      "category": "汽车"
     },
     {
       "raw_hot": 584941,
@@ -3915,6 +3915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 479170,
+      "num": 479170,
+      "word": "吴彤进错了吴彤的房间",
+      "onboard_time": 1745070565,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 478892,
       "num": 478892,
       "word": "科学家或发现外星生命存在最有力证据",
@@ -3953,14 +3961,6 @@
       "onboard_time": 1745031442,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 475882,
-      "num": 475882,
-      "word": "吴彤进错了吴彤的房间",
-      "onboard_time": 1745070565,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 475086,
@@ -5643,6 +5643,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 340966,
+      "num": 340966,
+      "word": "山西男篮3比0广东男篮",
+      "onboard_time": 1745071583,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 338562,
       "num": 648025,
       "word": "90艘货船正从中国驶向美国",
@@ -5721,6 +5729,14 @@
       "onboard_time": 1744770683,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 333235,
+      "num": 333235,
+      "word": "北京国安6比1山东泰山",
+      "onboard_time": 1745072063,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 332515,
@@ -6041,6 +6057,14 @@
       "onboard_time": 1744878324,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 313146,
+      "num": 313146,
+      "word": "谢娜问吴宣仪你有什么事吗",
+      "onboard_time": 1745072063,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 312404,
@@ -6369,14 +6393,6 @@
       "onboard_time": 1744936161,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 289834,
-      "num": 289834,
-      "word": "山西男篮3比0广东男篮",
-      "onboard_time": 1745071583,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 288927,
@@ -8083,14 +8099,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 231783,
-      "num": 231783,
-      "word": "北京国安6比1山东泰山",
-      "onboard_time": 1745072063,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 231560,
       "num": 231560,
       "word": "无限暖暖与美好的世界牵手",
@@ -9499,6 +9507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204619,
+      "num": 422067,
+      "word": "机器人跑完马拉松累得坐轮椅",
+      "onboard_time": 1745070924,
+      "rank": 10,
+      "category": "运动健身,数码"
+    },
+    {
       "raw_hot": 204493,
       "num": 204493,
       "word": "enhypen将6月5日回归",
@@ -9923,6 +9939,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 199951,
+      "num": 199951,
+      "word": "赵一博后陡门练球vlog",
+      "onboard_time": 1745072605,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199653,
       "num": 199653,
       "word": "没关门金毛跑出撞死邻居被判赔40万",
@@ -10251,6 +10275,14 @@
       "category": "网红,民生新闻"
     },
     {
+      "raw_hot": 196867,
+      "num": 196867,
+      "word": "CBA",
+      "onboard_time": 1744548321,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196767,
       "num": 179088,
       "word": "黄仁勋称希望将继续与中国合作",
@@ -10411,6 +10443,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 194745,
+      "num": 194745,
+      "word": "任嘉伦宋祖儿都在努力剧宣",
+      "onboard_time": 1745073265,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194514,
       "num": 194514,
       "word": "JDG对战FPX",
@@ -10433,6 +10473,14 @@
       "onboard_time": 1744620682,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 194055,
+      "num": 194055,
+      "word": "小盐巴 很好心很软的人",
+      "onboard_time": 1745073445,
+      "rank": 39,
+      "category": "网红"
     },
     {
       "raw_hot": 194046,
@@ -10851,6 +10899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190480,
+      "num": 190480,
+      "word": "丁程鑫hi6下期预告",
+      "onboard_time": 1745072665,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190365,
       "num": 192864,
       "word": "THEBOYZ闯中了",
@@ -10985,14 +11041,6 @@
       "onboard_time": 1745048602,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 188650,
-      "num": 188650,
-      "word": "谢娜问吴宣仪你有什么事吗",
-      "onboard_time": 1745072063,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 188616,
@@ -12459,6 +12507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170973,
+      "num": 170973,
+      "word": "斯瓦泰克vs奥斯塔彭科",
+      "onboard_time": 1745073445,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170844,
       "num": 343351,
       "word": "标价上万美元的奢侈品大多是中国制造",
@@ -13419,6 +13475,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 160640,
+      "num": 160640,
+      "word": "薛凯琪郑秀文合唱终身美丽",
+      "onboard_time": 1745073503,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 160565,
       "num": 160565,
       "word": "天杀的烤箱对我孩子做了什么",
@@ -13593,6 +13657,14 @@
       "onboard_time": 1744712182,
       "rank": 35,
       "category": "数码,互联网"
+    },
+    {
+      "raw_hot": 158827,
+      "num": 158827,
+      "word": "山西男篮时隔13年再进四强",
+      "onboard_time": 1745073384,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 158820,
@@ -14417,14 +14489,6 @@
       "onboard_time": 1744698861,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 150291,
-      "num": 422067,
-      "word": "机器人跑完马拉松累得坐轮椅",
-      "onboard_time": 1745070924,
-      "rank": 10,
-      "category": "运动健身,数码"
     },
     {
       "raw_hot": 150281,
@@ -15288,14 +15352,6 @@
       "word": "无缝球与有缝球有什么区别",
       "onboard_time": 1744714943,
       "rank": 34,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 143367,
-      "num": 143367,
-      "word": "CBA",
-      "onboard_time": 1744548321,
-      "rank": 39,
       "category": "体育"
     },
     {
@@ -17665,6 +17721,14 @@
       "onboard_time": 1744964779,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124932,
+      "num": 311528,
+      "word": "20万华为全家桶开回家",
+      "onboard_time": 1745073202,
+      "rank": 15,
+      "category": "汽车"
     },
     {
       "raw_hot": 124880,
@@ -20499,6 +20563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95545,
+      "num": 309355,
+      "word": "阿维塔06限时19.19万元起",
+      "onboard_time": 1745072124,
+      "rank": 24,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 95387,
       "num": 205082,
       "word": "跨境电商概念多股涨停",
@@ -20955,6 +21027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87636,
+      "num": 312938,
+      "word": "杨天真不建议企业家都做个人IP",
+      "onboard_time": 1745072904,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86833,
       "num": 317390,
       "word": "糖尿病人可以吃哪些水果",
@@ -21377,14 +21457,6 @@
       "onboard_time": 1744515141,
       "rank": 37,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 80818,
-      "num": 266593,
-      "word": "阿维塔06限时19.19万元起",
-      "onboard_time": 1745072124,
-      "rank": 24,
-      "category": "汽车"
     },
     {
       "raw_hot": 80603,
@@ -22497,6 +22569,14 @@
       "onboard_time": 1744475900,
       "rank": 23,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 61263,
+      "num": 310732,
+      "word": "中国人有自己的节奏",
+      "onboard_time": 1745073265,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61094,
@@ -25609,6 +25689,14 @@
       "onboard_time": 1744864884,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20418,
+      "num": 308456,
+      "word": "有没有推荐的小众旅游地",
+      "onboard_time": 1745073202,
+      "rank": 18,
+      "category": "旅游"
     },
     {
       "raw_hot": 20308,

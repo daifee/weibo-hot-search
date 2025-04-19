@@ -1,6 +1,6 @@
 {
   "startTime": 1744993775892,
-  "endTime": 1745072457975,
+  "endTime": 1745073558572,
   "band_list": [
     {
       "raw_hot": 7793574,
@@ -187,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 887463,
+      "num": 887463,
+      "word": "王楚钦说为什么全是擦网",
+      "onboard_time": 1745069725,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 864970,
       "num": 938200,
       "word": "中国被曝已不再生产出口美国的玩具",
@@ -233,14 +241,6 @@
       "onboard_time": 1745057962,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 726436,
-      "num": 726436,
-      "word": "王楚钦说为什么全是擦网",
-      "onboard_time": 1745069725,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 714745,
@@ -315,6 +315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 627396,
+      "num": 627396,
+      "word": "萤火虫价格",
+      "onboard_time": 1745068823,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 624564,
       "num": 624564,
       "word": "女生攒2斤3两脱发卖1万多元",
@@ -345,14 +353,6 @@
       "onboard_time": 1745059881,
       "rank": 19,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 589038,
-      "num": 589038,
-      "word": "萤火虫价格",
-      "onboard_time": 1745068823,
-      "rank": 18,
-      "category": "汽车"
     },
     {
       "raw_hot": 577079,
@@ -467,6 +467,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 479170,
+      "num": 479170,
+      "word": "吴彤进错了吴彤的房间",
+      "onboard_time": 1745070565,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 477135,
       "num": 477135,
       "word": "伊藤美诚输给蒯曼后哭了",
@@ -481,14 +489,6 @@
       "onboard_time": 1745031442,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 475882,
-      "num": 475882,
-      "word": "吴彤进错了吴彤的房间",
-      "onboard_time": 1745070565,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 475086,
@@ -811,12 +811,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 340966,
+      "num": 340966,
+      "word": "山西男篮3比0广东男篮",
+      "onboard_time": 1745071583,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 337300,
       "num": 337300,
       "word": "美国金库大查帐",
       "onboard_time": 1745055502,
       "rank": 8,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 333235,
+      "num": 333235,
+      "word": "北京国安6比1山东泰山",
+      "onboard_time": 1745072063,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 329813,
@@ -857,6 +873,14 @@
       "onboard_time": 1745036842,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 313146,
+      "num": 313146,
+      "word": "谢娜问吴宣仪你有什么事吗",
+      "onboard_time": 1745072063,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 311284,
@@ -960,14 +984,6 @@
       "word": "蒯曼世界杯进决赛",
       "onboard_time": 1745047221,
       "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 289834,
-      "num": 289834,
-      "word": "山西男篮3比0广东男篮",
-      "onboard_time": 1745071583,
-      "rank": 17,
       "category": "体育"
     },
     {
@@ -1283,14 +1299,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 231783,
-      "num": 231783,
-      "word": "北京国安6比1山东泰山",
-      "onboard_time": 1745072063,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 229296,
       "num": 275453,
       "word": "时代少年团海口站海报",
@@ -1459,6 +1467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204619,
+      "num": 422067,
+      "word": "机器人跑完马拉松累得坐轮椅",
+      "onboard_time": 1745070924,
+      "rank": 10,
+      "category": "运动健身,数码"
+    },
+    {
       "raw_hot": 204448,
       "num": 204448,
       "word": "孙颖莎4比1陈幸同",
@@ -1499,6 +1515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199951,
+      "num": 199951,
+      "word": "赵一博后陡门练球vlog",
+      "onboard_time": 1745072605,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199609,
       "num": 199609,
       "word": "曹巍为王楚钦发声",
@@ -1531,6 +1555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196867,
+      "num": 196867,
+      "word": "CBA",
+      "onboard_time": 1745072543,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196540,
       "num": 196540,
       "word": "阿维塔06价格",
@@ -1553,6 +1585,22 @@
       "onboard_time": 1745072063,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194745,
+      "num": 194745,
+      "word": "任嘉伦宋祖儿都在努力剧宣",
+      "onboard_time": 1745073265,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 194055,
+      "num": 194055,
+      "word": "小盐巴 很好心很软的人",
+      "onboard_time": 1745073445,
+      "rank": 39,
+      "category": "网红"
     },
     {
       "raw_hot": 193940,
@@ -1611,6 +1659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 190480,
+      "num": 190480,
+      "word": "丁程鑫hi6下期预告",
+      "onboard_time": 1745072665,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189794,
       "num": 189794,
       "word": "锦瑟",
@@ -1625,14 +1681,6 @@
       "onboard_time": 1745048602,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 188650,
-      "num": 188650,
-      "word": "谢娜问吴宣仪你有什么事吗",
-      "onboard_time": 1745072063,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 188309,
@@ -1843,6 +1891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170973,
+      "num": 170973,
+      "word": "斯瓦泰克vs奥斯塔彭科",
+      "onboard_time": 1745073445,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169556,
       "num": 261960,
       "word": "邓超让网友接泼天的富贵",
@@ -1955,6 +2011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160640,
+      "num": 160640,
+      "word": "薛凯琪郑秀文合唱终身美丽",
+      "onboard_time": 1745073503,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 160293,
       "num": 160293,
       "word": "东契奇被交易后摔手机泄愤",
@@ -1992,6 +2056,14 @@
       "word": "国乒包揽澳门世界杯女单冠亚军",
       "onboard_time": 1745047762,
       "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 158827,
+      "num": 158827,
+      "word": "山西男篮时隔13年再进四强",
+      "onboard_time": 1745073384,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -2089,14 +2161,6 @@
       "onboard_time": 1745050823,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 150291,
-      "num": 422067,
-      "word": "机器人跑完马拉松累得坐轮椅",
-      "onboard_time": 1745070924,
-      "rank": 10,
-      "category": "运动健身,数码"
     },
     {
       "raw_hot": 149858,
@@ -2651,6 +2715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124932,
+      "num": 311528,
+      "word": "20万华为全家桶开回家",
+      "onboard_time": 1745073202,
+      "rank": 15,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 124763,
       "num": 124763,
       "word": "孟子义被范丞丞骗麻了",
@@ -3171,6 +3243,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 95545,
+      "num": 309355,
+      "word": "阿维塔06限时19.19万元起",
+      "onboard_time": 1745072124,
+      "rank": 24,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 95179,
       "num": 95179,
       "word": "当你年纪大了还在和对象吵架",
@@ -3283,6 +3363,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 87636,
+      "num": 312938,
+      "word": "杨天真不建议企业家都做个人IP",
+      "onboard_time": 1745072904,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86833,
       "num": 317390,
       "word": "糖尿病人可以吃哪些水果",
@@ -3345,14 +3433,6 @@
       "onboard_time": 1745042961,
       "rank": 42,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 80818,
-      "num": 266593,
-      "word": "阿维塔06限时19.19万元起",
-      "onboard_time": 1745072124,
-      "rank": 24,
-      "category": "汽车"
     },
     {
       "raw_hot": 80221,
@@ -3529,6 +3609,14 @@
       "onboard_time": 1745019319,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 61263,
+      "num": 310732,
+      "word": "中国人有自己的节奏",
+      "onboard_time": 1745073265,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56411,
@@ -3969,6 +4057,14 @@
       "onboard_time": 1745007553,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 20418,
+      "num": 308456,
+      "word": "有没有推荐的小众旅游地",
+      "onboard_time": 1745073202,
+      "rank": 18,
+      "category": "旅游"
     },
     {
       "raw_hot": 19081,
