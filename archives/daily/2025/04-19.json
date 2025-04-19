@@ -1,6 +1,6 @@
 {
   "startTime": 1744993775892,
-  "endTime": 1745036891735,
+  "endTime": 1745037741984,
   "band_list": [
     {
       "raw_hot": 2817932,
@@ -11,8 +11,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 1575120,
-      "num": 1575120,
+      "raw_hot": 1663210,
+      "num": 1663210,
       "word": "中方把波音飞机退回美国",
       "onboard_time": 1745033180,
       "rank": 32,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1101182,
-      "num": 422583,
+      "num": 472325,
       "word": "杜淳老婆自曝不拍戏的原因",
       "onboard_time": 1745029342,
       "rank": 10,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 904927,
-      "num": 422496,
+      "num": 470387,
       "word": "女子被轮胎撞死时正和丈夫停车休整",
       "onboard_time": 1745018058,
       "rank": 10,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 653187,
-      "num": 421488,
+      "num": 469049,
       "word": "蔡徐坤 熊猫",
       "onboard_time": 1745029161,
       "rank": 12,
@@ -131,8 +131,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 579576,
+      "num": 471119,
+      "word": "卡黄",
+      "onboard_time": 1745036901,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 573881,
-      "num": 421012,
+      "num": 462638,
       "word": "福建9岁女孩腹痛3天查出体内大量积血",
       "onboard_time": 1745030841,
       "rank": 30,
@@ -153,6 +161,22 @@
       "onboard_time": 1744985725,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 534121,
+      "num": 534121,
+      "word": "时代少年团演唱会抢票",
+      "onboard_time": 1745036901,
+      "rank": 3,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 528082,
+      "num": 528082,
+      "word": "女子阻止高铁关门相关部门介入调查",
+      "onboard_time": 1745033902,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 510450,
@@ -187,6 +211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 475086,
+      "num": 475086,
+      "word": "美国终于让欧洲上桌了",
+      "onboard_time": 1745034982,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 470405,
       "num": 183211,
       "word": "深圳一程序员4年不租房睡车里",
@@ -203,28 +235,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 451818,
+      "num": 451818,
+      "word": "黄奕一个月瘦了20斤",
+      "onboard_time": 1745036901,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 437084,
-      "num": 437084,
+      "num": 474314,
       "word": "董子健被邓超孙俪混合双打",
       "onboard_time": 1745033482,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 429873,
-      "num": 429873,
-      "word": "女子阻止高铁关门相关部门介入调查",
-      "onboard_time": 1745033902,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 414744,
-      "num": 423253,
-      "word": "美国终于让欧洲上桌了",
-      "onboard_time": 1745034982,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 406171,
@@ -308,7 +332,7 @@
     },
     {
       "raw_hot": 329813,
-      "num": 424090,
+      "num": 467340,
       "word": "第一次喜欢oe的大结局",
       "onboard_time": 1745034922,
       "rank": 8,
@@ -321,6 +345,14 @@
       "onboard_time": 1745028802,
       "rank": 16,
       "category": "运动健身,艺人"
+    },
+    {
+      "raw_hot": 318167,
+      "num": 318167,
+      "word": "恋与深空",
+      "onboard_time": 1745036842,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 306535,
@@ -379,6 +411,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 272932,
+      "num": 272932,
+      "word": "江苏事业编",
+      "onboard_time": 1745036901,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 271735,
       "num": 268198,
       "word": "怡丽丝尔 鞠婧祎",
@@ -395,8 +435,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 256142,
-      "num": 256142,
+      "raw_hot": 264129,
+      "num": 473833,
       "word": "官方通报女子伸腿阻止高铁关门",
       "onboard_time": 1745034502,
       "rank": 18,
@@ -475,6 +515,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 229296,
+      "num": 275453,
+      "word": "时代少年团海口站海报",
+      "onboard_time": 1745036241,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 226720,
       "num": 378148,
       "word": "交警执勤拉倒电动车绊倒骑行人",
@@ -508,7 +556,7 @@
     },
     {
       "raw_hot": 212923,
-      "num": 212923,
+      "num": 465780,
       "word": "前夫对韦雪撒娇",
       "onboard_time": 1745033180,
       "rank": 33,
@@ -531,12 +579,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 202252,
-      "num": 202252,
-      "word": "恋与深空",
-      "onboard_time": 1745036842,
-      "rank": 22,
-      "category": "游戏"
+      "raw_hot": 202378,
+      "num": 278586,
+      "word": "陈意涵老公导演的电影好费纸巾",
+      "onboard_time": 1745036901,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 201861,
@@ -667,14 +715,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 166983,
-      "num": 166983,
-      "word": "时代少年团海口站海报",
-      "onboard_time": 1745036241,
-      "rank": 26,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 164842,
       "num": 317478,
       "word": "首次人机共跑半马",
@@ -731,6 +771,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 154675,
+      "num": 154675,
+      "word": "这居然是赵又廷",
+      "onboard_time": 1745036901,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149592,
       "num": 149592,
       "word": "周深新巡演",
@@ -747,12 +795,44 @@
       "category": "数码"
     },
     {
+      "raw_hot": 148978,
+      "num": 148978,
+      "word": "男友把她的老王做成了她的晚餐",
+      "onboard_time": 1745037621,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148269,
       "num": 164853,
       "word": "林更新拆家本性偷偷藏不住",
       "onboard_time": 1745035881,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147863,
+      "num": 147863,
+      "word": "这段精彩程度堪比甄嬛滴血验亲",
+      "onboard_time": 1745037562,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 146033,
+      "num": 146033,
+      "word": "凡人修仙传",
+      "onboard_time": 1745037142,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 145629,
+      "num": 318679,
+      "word": "4名中国女生力压美国队夺金",
+      "onboard_time": 1745034201,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 143396,
@@ -779,6 +859,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 141997,
+      "num": 141997,
+      "word": "蒯曼vs伊藤美诚",
+      "onboard_time": 1745037382,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141678,
       "num": 162835,
       "word": "科切拉",
@@ -795,20 +883,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 140624,
-      "num": 130258,
-      "word": "4名中国女生力压美国队夺金",
-      "onboard_time": 1745034201,
-      "rank": 45,
-      "category": "教育"
-    },
-    {
       "raw_hot": 138915,
       "num": 138915,
       "word": "王者荣耀",
       "onboard_time": 1745019319,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 138691,
+      "num": 138691,
+      "word": "成都七中女生夺四川EGMO首金",
+      "onboard_time": 1745036301,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 138326,
@@ -931,14 +1019,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 119290,
-      "num": 119290,
-      "word": "成都七中女生夺四川EGMO首金",
-      "onboard_time": 1745036301,
-      "rank": 46,
-      "category": "教育"
-    },
-    {
       "raw_hot": 118949,
       "num": 118949,
       "word": "波波维奇突然晕倒",
@@ -1051,6 +1131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 104518,
+      "num": 465303,
+      "word": "学生吐槽上了大学仍被圈养",
+      "onboard_time": 1745036961,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104366,
       "num": 104366,
       "word": "iG赛后采访",
@@ -1099,20 +1187,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 94464,
+      "num": 463769,
+      "word": "成年人一天睡几个小时合适",
+      "onboard_time": 1745036781,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 93686,
       "num": 116413,
       "word": "方媛郭富城庆祝结婚八周年",
       "onboard_time": 1745034022,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 91903,
-      "num": 150913,
-      "word": "成年人一天睡几个小时合适",
-      "onboard_time": 1745036781,
-      "rank": 35,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 91874,
@@ -1235,6 +1323,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 77465,
+      "num": 463669,
+      "word": "起猛了看到机器人跑半马了",
+      "onboard_time": 1745037081,
+      "rank": 19,
+      "category": "运动健身,互联网"
+    },
+    {
       "raw_hot": 77394,
       "num": 77394,
       "word": "北京电影节红毯开始了",
@@ -1329,6 +1425,14 @@
       "onboard_time": 1745024541,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 55156,
+      "num": 468612,
+      "word": "给未成年大面积文身店家赔偿1.5万",
+      "onboard_time": 1745037021,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 53874,
@@ -1428,7 +1532,7 @@
     },
     {
       "raw_hot": 35524,
-      "num": 128028,
+      "num": 151647,
       "word": "机器人马拉松跑姿高清现场",
       "onboard_time": 1745036781,
       "rank": 39,
@@ -1481,6 +1585,14 @@
       "onboard_time": 1744999876,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 28865,
+      "num": 727941,
+      "word": "外企把中国当作必须进入的战略市场",
+      "onboard_time": 1745037142,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 27339,
