@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745102376935,
+  "endTime": 1745105070657,
   "band_list": [
     {
       "raw_hot": 31189573,
@@ -59,6 +59,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1330962,
+      "num": 141586,
+      "word": "鹿晗",
+      "onboard_time": 1745104760,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1142352,
       "num": 1142352,
       "word": "快删除手机里的这些APP",
@@ -91,6 +99,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 557931,
+      "num": 129638,
+      "word": "关晓彤主页访问量",
+      "onboard_time": 1745104878,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 539037,
       "num": 539037,
       "word": "美国大豆可能将永远失去中国市场",
@@ -105,6 +121,14 @@
       "onboard_time": 1745076445,
       "rank": 12,
       "category": "演出"
+    },
+    {
+      "raw_hot": 425276,
+      "num": 97291,
+      "word": "女生列车上哭喊被爷爷摸",
+      "onboard_time": 1745104519,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 409433,
@@ -177,6 +201,14 @@
       "onboard_time": 1745078731,
       "rank": 14,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 271969,
+      "num": 271969,
+      "word": "女子阻止高铁关门为何能得逞",
+      "onboard_time": 1745093294,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 255058,
@@ -299,6 +331,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 154601,
+      "num": 154601,
+      "word": "4月20日3时56分谷雨",
+      "onboard_time": 1745079932,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136850,
       "num": 136850,
       "word": "林诗栋被罚分后又吃黄牌",
@@ -313,14 +353,6 @@
       "onboard_time": 1745059102,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 134492,
-      "num": 134492,
-      "word": "女子阻止高铁关门为何能得逞",
-      "onboard_time": 1745093294,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 130339,
@@ -387,6 +419,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 106752,
+      "num": 152147,
+      "word": "美联储主席若遭解雇或致美国股市崩盘",
+      "onboard_time": 1745104399,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 105602,
       "num": 105602,
       "word": "单依纯把彩虹都穿了一遍",
@@ -417,6 +457,14 @@
       "onboard_time": 1745076445,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 97320,
+      "num": 97320,
+      "word": "三蹦子厂家称美国客户还在观望",
+      "onboard_time": 1745099534,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97003,
@@ -507,12 +555,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 82013,
-      "num": 140679,
-      "word": "4月20日3时56分谷雨",
-      "onboard_time": 1745079932,
-      "rank": 36,
-      "category": "民生新闻"
+      "raw_hot": 79378,
+      "num": 79378,
+      "word": "日本长野一夜连震47次",
+      "onboard_time": 1745104279,
+      "rank": 26,
+      "category": "国际时政,国际时政"
     },
     {
       "raw_hot": 77683,
@@ -531,11 +579,27 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 65119,
+      "num": 72362,
+      "word": "李诚儒看青蛇小考急得想自己扭两段",
+      "onboard_time": 1745098754,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 61345,
       "num": 61345,
       "word": "王一珩高管的一天vlog",
       "onboard_time": 1745081668,
       "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 58011,
+      "num": 69324,
+      "word": "郝蕾 乱是因为都想抢戏",
+      "onboard_time": 1745101697,
+      "rank": 46,
       "category": "综艺"
     },
     {
@@ -563,11 +627,51 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 51344,
+      "num": 51344,
+      "word": "美国各地农民面临破产风险",
+      "onboard_time": 1745097135,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 51147,
+      "num": 51147,
+      "word": "王勉把人情世故拿捏住了",
+      "onboard_time": 1745102598,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 48824,
+      "num": 61069,
+      "word": "网友拍到大爷在悬崖峭壁上耕作",
+      "onboard_time": 1745090595,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48124,
+      "num": 48124,
+      "word": "桃黑黑",
+      "onboard_time": 1745104279,
+      "rank": 37,
+      "category": "网红"
+    },
+    {
       "raw_hot": 47406,
       "num": 67231,
       "word": "云南广西要热到40度了",
       "onboard_time": 1745084780,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47258,
+      "num": 335134,
+      "word": "关税政策加剧美国农业困境",
+      "onboard_time": 1745069665,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -587,24 +691,16 @@
       "category": "网红"
     },
     {
-      "raw_hot": 36400,
-      "num": 36400,
-      "word": "三蹦子厂家称美国客户还在观望",
-      "onboard_time": 1745099534,
-      "rank": 36,
+      "raw_hot": 35994,
+      "num": 42881,
+      "word": "山西一处塌方一货车司机遇难",
+      "onboard_time": 1745093834,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 35847,
-      "num": 36767,
-      "word": "美国各地农民面临破产风险",
-      "onboard_time": 1745097135,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 35621,
-      "num": 35621,
+      "num": 42872,
       "word": "普京称停火将能检验乌克兰诚意",
       "onboard_time": 1745086639,
       "rank": 44,
@@ -619,22 +715,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 32122,
-      "num": 32122,
-      "word": "李诚儒看青蛇小考急得想自己扭两段",
-      "onboard_time": 1745098754,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 28876,
-      "num": 61069,
-      "word": "网友拍到大爷在悬崖峭壁上耕作",
-      "onboard_time": 1745090595,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 27732,
       "num": 31748,
       "word": "尚雯婕你根本没喝中药",
@@ -643,28 +723,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 27474,
-      "num": 335134,
-      "word": "关税政策加剧美国农业困境",
-      "onboard_time": 1745069665,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 25299,
       "num": 26314,
       "word": "咪咕汇",
       "onboard_time": 1745089875,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 24366,
-      "num": 31735,
-      "word": "山西一处塌方一货车司机遇难",
-      "onboard_time": 1745093834,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23829,
@@ -707,12 +771,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 18494,
-      "num": 31718,
-      "word": "郝蕾 乱是因为都想抢戏",
-      "onboard_time": 1745101697,
-      "rank": 46,
-      "category": "综艺"
+      "raw_hot": 16796,
+      "num": 45931,
+      "word": "健康减肥的方式有哪些",
+      "onboard_time": 1745103680,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 16078,
