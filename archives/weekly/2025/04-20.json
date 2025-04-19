@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745097680779,
+  "endTime": 1745098582413,
   "band_list": [
     {
       "raw_hot": 31189573,
@@ -515,20 +515,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 76457,
+      "num": 76457,
+      "word": "女子阻止高铁关门为何能得逞",
+      "onboard_time": 1745093294,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61345,
       "num": 61345,
       "word": "王一珩高管的一天vlog",
       "onboard_time": 1745081668,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 57931,
-      "num": 57931,
-      "word": "女子阻止高铁关门为何能得逞",
-      "onboard_time": 1745093294,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 57318,
@@ -635,6 +635,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 20938,
+      "num": 20938,
+      "word": "为什么微信还不推出编辑功能",
+      "onboard_time": 1745096654,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 20568,
       "num": 22533,
       "word": "袁一琦演唱会广州站",
@@ -659,24 +667,32 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16278,
+      "num": 36767,
+      "word": "美国各地农民面临破产风险",
+      "onboard_time": 1745097135,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 15348,
-      "num": 19238,
+      "num": 20506,
       "word": "山西一处塌方一货车司机遇难",
       "onboard_time": 1745093834,
       "rank": 46,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 13747,
-      "num": 17189,
-      "word": "为什么微信还不推出编辑功能",
-      "onboard_time": 1745096654,
-      "rank": 48,
-      "category": "互联网"
+      "raw_hot": 15050,
+      "num": 20505,
+      "word": "尚雯婕你根本没喝中药",
+      "onboard_time": 1745098275,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 13650,
-      "num": 19235,
+      "num": 20484,
       "word": "一句古话说透中马关系",
       "onboard_time": 1745091794,
       "rank": 49,
@@ -689,14 +705,6 @@
       "onboard_time": 1745093294,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 13426,
-      "num": 36767,
-      "word": "美国各地农民面临破产风险",
-      "onboard_time": 1745097135,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 13298,
