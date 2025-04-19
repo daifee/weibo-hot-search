@@ -1,6 +1,6 @@
 {
   "startTime": 1744993775892,
-  "endTime": 1745033812401,
+  "endTime": 1745034462946,
   "band_list": [
     {
       "raw_hot": 2817932,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1101182,
-      "num": 357676,
+      "num": 377304,
       "word": "杜淳老婆自曝不拍戏的原因",
       "onboard_time": 1745029342,
       "rank": 10,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 757791,
+      "num": 757791,
+      "word": "中方把波音飞机退回美国",
+      "onboard_time": 1745033180,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 693435,
       "num": 349701,
       "word": "任敏好辣",
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 653187,
-      "num": 354091,
+      "num": 372857,
       "word": "蔡徐坤 熊猫",
       "onboard_time": 1745029161,
       "rank": 12,
@@ -115,20 +123,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 573881,
+      "num": 363709,
+      "word": "福建9岁女孩腹痛3天查出体内大量积血",
+      "onboard_time": 1745030841,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 571779,
       "num": 200195,
       "word": "猫一杯案开庭",
       "onboard_time": 1744967900,
       "rank": 20,
       "category": "民生新闻,网红"
-    },
-    {
-      "raw_hot": 569101,
-      "num": 344270,
-      "word": "福建9岁女孩腹痛3天查出体内大量积血",
-      "onboard_time": 1745030841,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 556588,
@@ -155,12 +163,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 489461,
+      "num": 489461,
+      "word": "女子踏青患怪病高烧呕吐多器官损害",
+      "onboard_time": 1745032041,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 485552,
       "num": 485552,
       "word": "日本多地发生无差别杀人事件",
       "onboard_time": 1744945102,
       "rank": 5,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 475918,
+      "num": 475918,
+      "word": "天工机器人半马冲线完赛",
+      "onboard_time": 1745031442,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 470405,
@@ -177,14 +201,6 @@
       "onboard_time": 1745029880,
       "rank": 15,
       "category": "电影"
-    },
-    {
-      "raw_hot": 416927,
-      "num": 416927,
-      "word": "天工机器人半马冲线完赛",
-      "onboard_time": 1745031442,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 406171,
@@ -267,8 +283,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 313165,
-      "num": 313165,
+      "raw_hot": 322203,
+      "num": 322203,
       "word": "女子回应减30斤后撞脸王祖贤",
       "onboard_time": 1745028802,
       "rank": 16,
@@ -281,6 +297,14 @@
       "onboard_time": 1744985003,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 304642,
+      "num": 342735,
+      "word": "曾黎分享气血不足如何逛菜市场",
+      "onboard_time": 1745032881,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 302905,
@@ -299,27 +323,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 300074,
-      "num": 215039,
-      "word": "女子踏青患怪病高烧呕吐多器官损害",
-      "onboard_time": 1745032041,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 288696,
       "num": 288696,
       "word": "我国成功发射一箭六星",
       "onboard_time": 1745024421,
       "rank": 21,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 288026,
-      "num": 181013,
-      "word": "中方把波音飞机退回美国",
-      "onboard_time": 1745033180,
-      "rank": 32,
       "category": "国内时政"
     },
     {
@@ -332,11 +340,19 @@
     },
     {
       "raw_hot": 271735,
-      "num": 199153,
+      "num": 250587,
       "word": "怡丽丝尔 鞠婧祎",
       "onboard_time": 1745030542,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 269660,
+      "num": 330978,
+      "word": "机器人头掉后坚强无头奔跑",
+      "onboard_time": 1745033601,
+      "rank": 28,
+      "category": "数码"
     },
     {
       "raw_hot": 269340,
@@ -355,6 +371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 251801,
+      "num": 358615,
+      "word": "董子健被邓超孙俪混合双打",
+      "onboard_time": 1745033482,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 250681,
       "num": 250681,
       "word": "王曼昱球品如人品",
@@ -371,20 +395,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 247101,
+      "num": 388839,
+      "word": "在李嘉琦身上看到来浪姐的意义",
+      "onboard_time": 1745032221,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 247025,
       "num": 368498,
       "word": "掉头要不要等红灯",
       "onboard_time": 1745027181,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 245409,
-      "num": 206669,
-      "word": "曾黎分享气血不足如何逛菜市场",
-      "onboard_time": 1745032881,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 244044,
@@ -451,12 +475,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 211051,
-      "num": 211051,
-      "word": "在李嘉琦身上看到来浪姐的意义",
-      "onboard_time": 1745032221,
-      "rank": 49,
-      "category": "综艺"
+      "raw_hot": 212923,
+      "num": 212923,
+      "word": "前夫对韦雪撒娇",
+      "onboard_time": 1745033180,
+      "rank": 33,
+      "category": "网红"
     },
     {
       "raw_hot": 207813,
@@ -465,6 +489,14 @@
       "onboard_time": 1744991842,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 205253,
+      "num": 205253,
+      "word": "最好哭的he出现了",
+      "onboard_time": 1745032582,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 201861,
@@ -481,14 +513,6 @@
       "onboard_time": 1745028082,
       "rank": 23,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 197050,
-      "num": 197050,
-      "word": "最好哭的he出现了",
-      "onboard_time": 1745032582,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 193940,
@@ -539,14 +563,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 185195,
-      "num": 185195,
-      "word": "董子健被邓超孙俪混合双打",
-      "onboard_time": 1745033482,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 183014,
       "num": 183014,
       "word": "北大博士回应入职民办高校被指浪费",
@@ -555,28 +571,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 182393,
-      "num": 182393,
-      "word": "机器人头掉后坚强无头奔跑",
-      "onboard_time": 1745033601,
-      "rank": 28,
-      "category": "数码"
-    },
-    {
       "raw_hot": 181852,
       "num": 181852,
       "word": "五一前机票低至2折",
       "onboard_time": 1744990402,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 180928,
-      "num": 180928,
-      "word": "前夫对韦雪撒娇",
-      "onboard_time": 1745033180,
-      "rank": 33,
-      "category": "网红"
     },
     {
       "raw_hot": 178691,
@@ -659,11 +659,35 @@
       "category": "演出"
     },
     {
+      "raw_hot": 149592,
+      "num": 149592,
+      "word": "周深新巡演",
+      "onboard_time": 1745034383,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 145697,
+      "num": 145697,
+      "word": "女子阻止高铁关门相关部门介入调查",
+      "onboard_time": 1745033902,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143396,
       "num": 143396,
       "word": "陈德容 我没有跳个大概",
       "onboard_time": 1744975101,
       "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 142479,
+      "num": 179078,
+      "word": "张远抽中张杰演唱会第一个定制应援棒",
+      "onboard_time": 1745031561,
+      "rank": 42,
       "category": "综艺"
     },
     {
@@ -747,12 +771,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 129603,
-      "num": 169028,
-      "word": "张远抽中张杰演唱会第一个定制应援棒",
-      "onboard_time": 1745031561,
-      "rank": 42,
-      "category": "综艺"
+      "raw_hot": 130258,
+      "num": 130258,
+      "word": "4名中国女生力压美国队夺金",
+      "onboard_time": 1745034201,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 129280,
@@ -955,6 +979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 93686,
+      "num": 116413,
+      "word": "方媛郭富城庆祝结婚八周年",
+      "onboard_time": 1745034022,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 91874,
       "num": 91874,
       "word": "杭州买500万的房子可省10万",
@@ -1027,6 +1059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 83711,
+      "num": 175565,
+      "word": "黄金为何涨幅到这种程度",
+      "onboard_time": 1745034321,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 83350,
       "num": 185770,
       "word": "原来机器人和我一样不想上班",
@@ -1041,6 +1081,22 @@
       "onboard_time": 1745028442,
       "rank": 45,
       "category": "运动健身,互联网"
+    },
+    {
+      "raw_hot": 80957,
+      "num": 323653,
+      "word": "宇树机器人摔倒站起继续比赛",
+      "onboard_time": 1745033662,
+      "rank": 27,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 78969,
+      "num": 199160,
+      "word": "咖啡和牛奶哪个对身体好",
+      "onboard_time": 1745033121,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 78201,
@@ -1081,14 +1137,6 @@
       "onboard_time": 1744994479,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 70260,
-      "num": 199160,
-      "word": "咖啡和牛奶哪个对身体好",
-      "onboard_time": 1745033121,
-      "rank": 19,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 69710,
@@ -1219,12 +1267,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 44458,
-      "num": 182874,
-      "word": "宇树机器人摔倒站起继续比赛",
-      "onboard_time": 1745033662,
-      "rank": 27,
-      "category": "数码"
+      "raw_hot": 45182,
+      "num": 356286,
+      "word": "半马机器人跑姿大赏",
+      "onboard_time": 1745033962,
+      "rank": 14,
+      "category": "民生新闻,运动健身"
     },
     {
       "raw_hot": 43932,
@@ -1291,6 +1339,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 27339,
+      "num": 338377,
+      "word": "官方通报多批次可复美未检出EGF",
+      "onboard_time": 1745033962,
+      "rank": 17,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 25824,
       "num": 34176,
       "word": "意大利发生缆车轿厢坠落事故",
@@ -1329,6 +1385,14 @@
       "onboard_time": 1745001495,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 21461,
+      "num": 384865,
+      "word": "美国滥施关税谁先着急",
+      "onboard_time": 1745033780,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 21282,
@@ -1403,12 +1467,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 9639,
-      "num": 126294,
-      "word": "美国滥施关税谁先着急",
-      "onboard_time": 1745033780,
-      "rank": 44,
-      "category": "海外新闻"
+      "raw_hot": 8115,
+      "num": 139066,
+      "word": "庞众望母亲生前采访",
+      "onboard_time": 1745033962,
+      "rank": 39,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

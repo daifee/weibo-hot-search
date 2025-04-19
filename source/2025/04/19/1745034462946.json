@@ -1,0 +1,410 @@
+{
+  "runTime": 1745034462946,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1199321,
+        "num": 1199321,
+        "word": "黄河水不黄了",
+        "onboard_time": 1745028021,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 775785,
+        "num": 775785,
+        "word": "乌克兰放弃世界第三大核武器库",
+        "onboard_time": 1745026641,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 44181,
+        "num": 764003,
+        "word": "美国加关税是搬石头砸自己脚",
+        "onboard_time": 1744982901,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 757791,
+        "num": 757791,
+        "word": "中方把波音飞机退回美国",
+        "onboard_time": 1745033180,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 504792,
+        "num": 504792,
+        "word": "被官二代顶替上大学女子做了律师",
+        "onboard_time": 1745020340,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 489461,
+        "num": 489461,
+        "word": "女子踏青患怪病高烧呕吐多器官损害",
+        "onboard_time": 1745032041,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 475918,
+        "num": 475918,
+        "word": "天工机器人半马冲线完赛",
+        "onboard_time": 1745031442,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 392008,
+        "num": 392008,
+        "word": "女生攒2斤3两脱发卖1万多元",
+        "onboard_time": 1745020280,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247101,
+        "num": 388839,
+        "word": "在李嘉琦身上看到来浪姐的意义",
+        "onboard_time": 1745032221,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21461,
+        "num": 384865,
+        "word": "美国滥施关税谁先着急",
+        "onboard_time": 1745033780,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 879409,
+        "num": 377304,
+        "word": "杜淳老婆自曝不拍戏的原因",
+        "onboard_time": 1745029342,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 629746,
+        "num": 372857,
+        "word": "蔡徐坤 熊猫",
+        "onboard_time": 1745029161,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 573881,
+        "num": 363709,
+        "word": "福建9岁女孩腹痛3天查出体内大量积血",
+        "onboard_time": 1745030841,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251801,
+        "num": 358615,
+        "word": "董子健被邓超孙俪混合双打",
+        "onboard_time": 1745033482,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45182,
+        "num": 356286,
+        "word": "半马机器人跑姿大赏",
+        "onboard_time": 1745033962,
+        "rank": 14,
+        "category": "民生新闻,运动健身"
+      },
+      {
+        "raw_hot": 480092,
+        "num": 348251,
+        "word": "女子被轮胎撞死时正和丈夫停车休整",
+        "onboard_time": 1745018058,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304642,
+        "num": 342735,
+        "word": "曾黎分享气血不足如何逛菜市场",
+        "onboard_time": 1745032881,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27339,
+        "num": 338377,
+        "word": "官方通报多批次可复美未检出EGF",
+        "onboard_time": 1745033962,
+        "rank": 17,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 269660,
+        "num": 330978,
+        "word": "机器人头掉后坚强无头奔跑",
+        "onboard_time": 1745033601,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 80957,
+        "num": 323653,
+        "word": "宇树机器人摔倒站起继续比赛",
+        "onboard_time": 1745033662,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 322203,
+        "num": 322203,
+        "word": "女子回应减30斤后撞脸王祖贤",
+        "onboard_time": 1745028802,
+        "rank": 20,
+        "category": "运动健身,艺人"
+      },
+      {
+        "raw_hot": 361846,
+        "num": 320816,
+        "word": "被黄奕47岁身材辣到",
+        "onboard_time": 1745029880,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 319148,
+        "num": 319148,
+        "word": "方大同过世后薛凯琪一醒就痛哭",
+        "onboard_time": 1745022741,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282432,
+        "num": 282432,
+        "word": "一些容易长胖的睡前习惯",
+        "onboard_time": 1745023581,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 250587,
+        "num": 250587,
+        "word": "怡丽丝尔 鞠婧祎",
+        "onboard_time": 1745030542,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212923,
+        "num": 212923,
+        "word": "前夫对韦雪撒娇",
+        "onboard_time": 1745033180,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 205253,
+        "num": 205253,
+        "word": "最好哭的he出现了",
+        "onboard_time": 1745032582,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193115,
+        "num": 193115,
+        "word": "时代少年团海口演唱会座位图",
+        "onboard_time": 1745028140,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 183251,
+        "num": 183251,
+        "word": "甲亢哥的Master梁回应走红",
+        "onboard_time": 1745025381,
+        "rank": 28,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 142479,
+        "num": 179078,
+        "word": "张远抽中张杰演唱会第一个定制应援棒",
+        "onboard_time": 1745031561,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83711,
+        "num": 175565,
+        "word": "黄金为何涨幅到这种程度",
+        "onboard_time": 1745034321,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 197835,
+        "num": 175522,
+        "word": "日本",
+        "onboard_time": 1744979242,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 175125,
+        "num": 175125,
+        "word": "掉头要不要等红灯",
+        "onboard_time": 1745027181,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160541,
+        "num": 160541,
+        "word": "宝妈5个月没睡过整觉查出胃癌晚期",
+        "onboard_time": 1745019380,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141682,
+        "num": 157524,
+        "word": "吴宣仪听到自己第一的反应",
+        "onboard_time": 1745026041,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157489,
+        "num": 157489,
+        "word": "赵露思红发自拍",
+        "onboard_time": 1745023222,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78969,
+        "num": 151027,
+        "word": "咖啡和牛奶哪个对身体好",
+        "onboard_time": 1745033121,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 149592,
+        "num": 149592,
+        "word": "周深新巡演",
+        "onboard_time": 1745034383,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 145697,
+        "num": 145697,
+        "word": "女子阻止高铁关门相关部门介入调查",
+        "onboard_time": 1745033902,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8115,
+        "num": 139066,
+        "word": "庞众望母亲生前采访",
+        "onboard_time": 1745033962,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135588,
+        "num": 135588,
+        "word": "医生说入睡在15分到30分钟最佳",
+        "onboard_time": 1745020340,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 133893,
+        "num": 133893,
+        "word": "天工机器人半马夺冠",
+        "onboard_time": 1745030783,
+        "rank": 41,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 133586,
+        "num": 133586,
+        "word": "王者荣耀",
+        "onboard_time": 1745019319,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131762,
+        "num": 131762,
+        "word": "为什么年轻人越来越能接受相亲了",
+        "onboard_time": 1745029102,
+        "rank": 43,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 130721,
+        "num": 130721,
+        "word": "百万网红王炳然离婚",
+        "onboard_time": 1745032523,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 130258,
+        "num": 130258,
+        "word": "4名中国女生力压美国队夺金",
+        "onboard_time": 1745034201,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 121770,
+        "num": 121770,
+        "word": "首次人机共跑半马",
+        "onboard_time": 1745029581,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119578,
+        "num": 119578,
+        "word": "美国正失去耐心",
+        "onboard_time": 1745028082,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 111047,
+        "num": 116626,
+        "word": "宋轶去了张杰演唱会",
+        "onboard_time": 1745032041,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 93686,
+        "num": 116413,
+        "word": "方媛郭富城庆祝结婚八周年",
+        "onboard_time": 1745034022,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#构建新时代全天候中柬命运共同体#"
+    }
+  }
+}
