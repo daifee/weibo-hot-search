@@ -1,0 +1,410 @@
+{
+  "runTime": 1745069350915,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1148985,
+        "num": 1183837,
+        "word": "快删除手机里的这些APP",
+        "onboard_time": 1745066722,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 963179,
+        "num": 963179,
+        "word": "梁靖崑vs林诗栋",
+        "onboard_time": 1745067142,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31483,
+        "num": 632686,
+        "word": "我国外贸彰显韧性活力",
+        "onboard_time": 1745052564,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2193941,
+        "num": 602930,
+        "word": "韩庚卢靖姗分房睡",
+        "onboard_time": 1745067323,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1062114,
+        "num": 540425,
+        "word": "桃黑黑回应小盐巴闭店",
+        "onboard_time": 1745063181,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 470827,
+        "num": 470827,
+        "word": "全网最丢脸的风筝出现了",
+        "onboard_time": 1745064260,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 815051,
+        "num": 453814,
+        "word": "张丹峰我家庭和睦和太太感情非常好",
+        "onboard_time": 1745063302,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 422184,
+        "num": 422184,
+        "word": "日贸易代表送特朗普中国产礼物",
+        "onboard_time": 1745065762,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 397147,
+        "num": 397147,
+        "word": "丁禹兮蓝发狼尾",
+        "onboard_time": 1745061621,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 385667,
+        "num": 385667,
+        "word": "孙颖莎说决赛会是一场苦战",
+        "onboard_time": 1745066542,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 490840,
+        "num": 382372,
+        "word": "关晓彤已连续7年为鹿晗庆生",
+        "onboard_time": 1745044101,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 406687,
+        "num": 373301,
+        "word": "王楚钦无缘澳门世界杯决赛",
+        "onboard_time": 1745051843,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 359227,
+        "num": 359227,
+        "word": "章若楠去了五月天演唱会",
+        "onboard_time": 1745066063,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 344238,
+        "num": 344238,
+        "word": "卡琳娜当着哪吒面吃藕粉",
+        "onboard_time": 1745067383,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298828,
+        "num": 298828,
+        "word": "短剧吻戏",
+        "onboard_time": 1745067863,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 290344,
+        "num": 290344,
+        "word": "无忧渡 合体剧宣",
+        "onboard_time": 1745059102,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 266037,
+        "num": 266037,
+        "word": "杨幂直播",
+        "onboard_time": 1745068283,
+        "rank": 16,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 260992,
+        "num": 260992,
+        "word": "男子试驾撞毁5辆豪车只为求职抵债",
+        "onboard_time": 1745051301,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245988,
+        "num": 245988,
+        "word": "萤火虫价格",
+        "onboard_time": 1745068823,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 48938,
+        "num": 239610,
+        "word": "白宫发言人吹嘘特朗普效应",
+        "onboard_time": 1745068525,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 667432,
+        "num": 239360,
+        "word": "22岁女子无实质性生活发现怀孕",
+        "onboard_time": 1745058502,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234532,
+        "num": 234532,
+        "word": "子宫内膜癌发病率骤升",
+        "onboard_time": 1745064202,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 228575,
+        "num": 228575,
+        "word": "1岁宝宝因太可爱被家人狂亲高烧不退",
+        "onboard_time": 1745063181,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25979,
+        "num": 224780,
+        "word": "晚上喝奶茶会失眠吗",
+        "onboard_time": 1745069124,
+        "rank": 23,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 89277,
+        "num": 223754,
+        "word": "真正的脂肪克星",
+        "onboard_time": 1745065102,
+        "rank": 24,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 123776,
+        "num": 223495,
+        "word": "极氪009光辉用黄金打造",
+        "onboard_time": 1745067082,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 223397,
+        "num": 223397,
+        "word": "黑色是张柏芝的统治区",
+        "onboard_time": 1745068223,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152419,
+        "num": 222544,
+        "word": "梁靖崑15比13林诗栋",
+        "onboard_time": 1745069124,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222355,
+        "num": 222355,
+        "word": "全身95%烧伤女孩订婚了",
+        "onboard_time": 1745050101,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222018,
+        "num": 222018,
+        "word": "让体重逐渐下降的30个常识",
+        "onboard_time": 1745059881,
+        "rank": 29,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 215620,
+        "num": 215620,
+        "word": "这居然是韩庚",
+        "onboard_time": 1745057962,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88808,
+        "num": 209905,
+        "word": "父母逝去高龄精神障碍女儿独留人间",
+        "onboard_time": 1745064143,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206523,
+        "num": 206523,
+        "word": "孙颖莎vs陈幸同",
+        "onboard_time": 1745062222,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197333,
+        "num": 197333,
+        "word": "无忧渡你这个坏女人",
+        "onboard_time": 1745068162,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196540,
+        "num": 196540,
+        "word": "阿维塔06价格",
+        "onboard_time": 1745068343,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 184092,
+        "num": 190325,
+        "word": "贺峻霖入围中传青年五四奖章名单",
+        "onboard_time": 1745067383,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189794,
+        "num": 189794,
+        "word": "锦瑟",
+        "onboard_time": 1745068943,
+        "rank": 36,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 184797,
+        "num": 184797,
+        "word": "热量比肉还高的水果",
+        "onboard_time": 1745068703,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 180387,
+        "num": 180387,
+        "word": "封神2亏损",
+        "onboard_time": 1745048543,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 175270,
+        "num": 175270,
+        "word": "花22万娶越南新娘1周就跑了",
+        "onboard_time": 1745067744,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171901,
+        "num": 171901,
+        "word": "郝蕾让张丹峰别乱安慰余宇涵",
+        "onboard_time": 1745068763,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169337,
+        "num": 169337,
+        "word": "林俊杰音乐节",
+        "onboard_time": 1745068883,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 167363,
+        "num": 167363,
+        "word": "孙颖莎蒯曼女单争冠",
+        "onboard_time": 1745065941,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164504,
+        "num": 164504,
+        "word": "丁禹兮批改作业式饭撒",
+        "onboard_time": 1745069003,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 160712,
+        "num": 160712,
+        "word": "李艺彤回应卡黄",
+        "onboard_time": 1745068644,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158730,
+        "num": 158730,
+        "word": "王楚钦再次冲击单打世界冠军失利",
+        "onboard_time": 1745058742,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158572,
+        "num": 158572,
+        "word": "B太再回应说东北雨姐真实",
+        "onboard_time": 1745069184,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 151569,
+        "num": 151569,
+        "word": "广东男篮vs山西男篮",
+        "onboard_time": 1745062641,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43113,
+        "num": 147751,
+        "word": "极氪光辉之夜排面拉满",
+        "onboard_time": 1745064321,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 147649,
+        "num": 147649,
+        "word": "登陆少年请粉丝保持冷静",
+        "onboard_time": 1745069304,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#中柬命运共同体有了新内涵#"
+    }
+  }
+}

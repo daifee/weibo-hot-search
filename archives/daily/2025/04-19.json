@@ -1,6 +1,6 @@
 {
   "startTime": 1744993775892,
-  "endTime": 1745067467840,
+  "endTime": 1745069350915,
   "band_list": [
     {
       "raw_hot": 7793574,
@@ -27,6 +27,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 2193941,
+      "num": 602930,
+      "word": "韩庚卢靖姗分房睡",
+      "onboard_time": 1745067323,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1733092,
       "num": 251309,
       "word": "短剧尺度",
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 1521558,
-      "num": 333429,
+      "num": 382372,
       "word": "关晓彤已连续7年为鹿晗庆生",
       "onboard_time": 1745044101,
       "rank": 17,
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 1500458,
-      "num": 375514,
+      "num": 540425,
       "word": "桃黑黑回应小盐巴闭店",
       "onboard_time": 1745063181,
       "rank": 3,
@@ -107,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1148985,
+      "num": 1183837,
+      "word": "快删除手机里的这些APP",
+      "onboard_time": 1745066722,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1101182,
       "num": 472325,
       "word": "杜淳老婆自曝不拍戏的原因",
@@ -121,6 +137,14 @@
       "onboard_time": 1745026641,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 963179,
+      "num": 963179,
+      "word": "梁靖崑vs林诗栋",
+      "onboard_time": 1745067142,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 942806,
@@ -208,14 +232,6 @@
       "word": "陈德容 日子怎么可能和谁过都一样",
       "onboard_time": 1745043441,
       "rank": 1,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 702275,
-      "num": 266026,
-      "word": "韩庚卢靖姗分房睡",
-      "onboard_time": 1745067323,
-      "rank": 12,
       "category": "综艺"
     },
     {
@@ -340,7 +356,7 @@
     },
     {
       "raw_hot": 570809,
-      "num": 310589,
+      "num": 397147,
       "word": "丁禹兮蓝发狼尾",
       "onboard_time": 1745061621,
       "rank": 12,
@@ -443,6 +459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 470827,
+      "num": 470827,
+      "word": "全网最丢脸的风筝出现了",
+      "onboard_time": 1745064260,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 470405,
       "num": 183211,
       "word": "深圳一程序员4年不租房睡车里",
@@ -515,6 +539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 422184,
+      "num": 422184,
+      "word": "日贸易代表送特朗普中国产礼物",
+      "onboard_time": 1745065762,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 419556,
       "num": 259260,
       "word": "黄婷婷 李艺彤",
@@ -571,12 +603,12 @@
       "category": "艺人,民生新闻"
     },
     {
-      "raw_hot": 385761,
-      "num": 288288,
-      "word": "全网最丢脸的风筝出现了",
-      "onboard_time": 1745064260,
-      "rank": 16,
-      "category": "幽默"
+      "raw_hot": 385667,
+      "num": 385667,
+      "word": "孙颖莎说决赛会是一场苦战",
+      "onboard_time": 1745066542,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 384985,
@@ -643,6 +675,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 359227,
+      "num": 359227,
+      "word": "章若楠去了五月天演唱会",
+      "onboard_time": 1745066063,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 356961,
       "num": 356961,
       "word": "这居然是赵又廷",
@@ -699,6 +739,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 344238,
+      "num": 344238,
+      "word": "卡琳娜当着哪吒面吃藕粉",
+      "onboard_time": 1745067383,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 343558,
       "num": 343558,
       "word": "大学唯一挂科英语现在用英语工作",
@@ -713,14 +761,6 @@
       "onboard_time": 1745050402,
       "rank": 9,
       "category": "电影"
-    },
-    {
-      "raw_hot": 339539,
-      "num": 260806,
-      "word": "章若楠去了五月天演唱会",
-      "onboard_time": 1745066063,
-      "rank": 28,
-      "category": "演出"
     },
     {
       "raw_hot": 337300,
@@ -835,6 +875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 298828,
+      "num": 298828,
+      "word": "短剧吻戏",
+      "onboard_time": 1745067863,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 297077,
       "num": 297077,
       "word": "美将设工作组紧急处理对中加征关税危机",
@@ -899,14 +947,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 279074,
-      "num": 279074,
-      "word": "日贸易代表送特朗普中国产礼物",
-      "onboard_time": 1745065762,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 276066,
       "num": 110528,
       "word": "原来这就是两口子久处不腻的方法",
@@ -945,6 +985,14 @@
       "onboard_time": 1745064382,
       "rank": 9,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 266037,
+      "num": 266037,
+      "word": "杨幂直播",
+      "onboard_time": 1745068283,
+      "rank": 16,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 265466,
@@ -1051,14 +1099,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 248332,
-      "num": 248332,
-      "word": "快删除手机里的这些APP",
-      "onboard_time": 1745066722,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 248293,
       "num": 248293,
       "word": "张杰演唱会唱了就是哪吒",
@@ -1089,6 +1129,14 @@
       "onboard_time": 1745027181,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 245988,
+      "num": 245988,
+      "word": "萤火虫价格",
+      "onboard_time": 1745068823,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 244044,
@@ -1163,14 +1211,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 228093,
-      "num": 228093,
-      "word": "梁靖崑vs林诗栋",
-      "onboard_time": 1745067142,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 227214,
       "num": 227214,
       "word": "王安宇章昊湿发",
@@ -1193,6 +1233,14 @@
       "onboard_time": 1744986565,
       "rank": 17,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 223397,
+      "num": 223397,
+      "word": "黑色是张柏芝的统治区",
+      "onboard_time": 1745068223,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 222313,
@@ -1339,6 +1387,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 197333,
+      "num": 197333,
+      "word": "无忧渡你这个坏女人",
+      "onboard_time": 1745068162,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 196540,
+      "num": 196540,
+      "word": "阿维塔06价格",
+      "onboard_time": 1745068343,
+      "rank": 34,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 193940,
       "num": 302693,
       "word": "王以太哭着感谢吉克隽逸",
@@ -1377,6 +1441,14 @@
       "onboard_time": 1745052802,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189794,
+      "num": 189794,
+      "word": "锦瑟",
+      "onboard_time": 1745068943,
+      "rank": 36,
+      "category": "动漫"
     },
     {
       "raw_hot": 188977,
@@ -1435,12 +1507,28 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 184797,
+      "num": 184797,
+      "word": "热量比肉还高的水果",
+      "onboard_time": 1745068703,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 184357,
       "num": 184357,
       "word": "第一次见奥特曼开演唱会",
       "onboard_time": 1745040440,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 184092,
+      "num": 190325,
+      "word": "贺峻霖入围中传青年五四奖章名单",
+      "onboard_time": 1745067383,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 183267,
@@ -1515,6 +1603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175270,
+      "num": 175270,
+      "word": "花22万娶越南新娘1周就跑了",
+      "onboard_time": 1745067744,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 175102,
       "num": 175102,
       "word": "王鹤棣 别整那些播不了的",
@@ -1555,6 +1651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 171901,
+      "num": 171901,
+      "word": "郝蕾让张丹峰别乱安慰余宇涵",
+      "onboard_time": 1745068763,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169556,
       "num": 261960,
       "word": "邓超让网友接泼天的富贵",
@@ -1569,6 +1673,14 @@
       "onboard_time": 1745019439,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 169337,
+      "num": 169337,
+      "word": "林俊杰音乐节",
+      "onboard_time": 1745068883,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 168204,
@@ -1587,14 +1699,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 166696,
-      "num": 228516,
-      "word": "孙颖莎说决赛会是一场苦战",
-      "onboard_time": 1745066542,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 165887,
       "num": 165887,
       "word": "时代少年团请粉丝保持冷静",
@@ -1609,6 +1713,14 @@
       "onboard_time": 1745029581,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 164504,
+      "num": 164504,
+      "word": "丁禹兮批改作业式饭撒",
+      "onboard_time": 1745069003,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 162743,
@@ -1641,6 +1753,14 @@
       "onboard_time": 1745067022,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160712,
+      "num": 160712,
+      "word": "李艺彤回应卡黄",
+      "onboard_time": 1745068644,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 160293,
@@ -1681,6 +1801,14 @@
       "onboard_time": 1745047762,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158572,
+      "num": 158572,
+      "word": "B太再回应说东北雨姐真实",
+      "onboard_time": 1745069184,
+      "rank": 46,
+      "category": "网红"
     },
     {
       "raw_hot": 157838,
@@ -1737,6 +1865,22 @@
       "onboard_time": 1745036961,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152419,
+      "num": 222544,
+      "word": "梁靖崑15比13林诗栋",
+      "onboard_time": 1745069124,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 151569,
+      "num": 151569,
+      "word": "广东男篮vs山西男篮",
+      "onboard_time": 1745062641,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 151092,
@@ -1804,27 +1948,11 @@
     },
     {
       "raw_hot": 148223,
-      "num": 148223,
+      "num": 223754,
       "word": "真正的脂肪克星",
       "onboard_time": 1745065102,
       "rank": 41,
       "category": "健康医疗,民生新闻"
-    },
-    {
-      "raw_hot": 148080,
-      "num": 148080,
-      "word": "广东男篮vs山西男篮",
-      "onboard_time": 1745062641,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 147985,
-      "num": 147985,
-      "word": "卡琳娜当着哪吒面吃藕粉",
-      "onboard_time": 1745067383,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 147866,
@@ -1849,6 +1977,14 @@
       "onboard_time": 1745050282,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147649,
+      "num": 147649,
+      "word": "登陆少年请粉丝保持冷静",
+      "onboard_time": 1745069304,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 146033,
@@ -2003,14 +2139,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 138898,
-      "num": 138898,
-      "word": "贺峻霖入围中传青年五四奖章名单",
-      "onboard_time": 1745067383,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 138326,
       "num": 138326,
       "word": "百万网红王炳然离婚",
@@ -2124,7 +2252,7 @@
     },
     {
       "raw_hot": 133065,
-      "num": 133065,
+      "num": 209905,
       "word": "父母逝去高龄精神障碍女儿独留人间",
       "onboard_time": 1745064143,
       "rank": 40,
@@ -3251,6 +3379,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 48938,
+      "num": 239610,
+      "word": "白宫发言人吹嘘特朗普效应",
+      "onboard_time": 1745068525,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 48151,
       "num": 385464,
       "word": "乌克兰危机何去何从",
@@ -3443,6 +3579,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 31483,
+      "num": 632686,
+      "word": "我国外贸彰显韧性活力",
+      "onboard_time": 1745052564,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30406,
       "num": 222747,
       "word": "人形机器人踏上最美马拉松路线",
@@ -3481,6 +3625,14 @@
       "onboard_time": 1745047821,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25979,
+      "num": 224780,
+      "word": "晚上喝奶茶会失眠吗",
+      "onboard_time": 1745069124,
+      "rank": 23,
+      "category": "科学科普"
     },
     {
       "raw_hot": 25824,
@@ -3665,14 +3817,6 @@
       "onboard_time": 1745039241,
       "rank": 18,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 10392,
-      "num": 289724,
-      "word": "我国外贸彰显韧性活力",
-      "onboard_time": 1745052564,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 8115,
