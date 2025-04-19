@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1745081016459,
+  "endTime": 1745083217641,
   "band_list": [
     {
       "raw_hot": 31189573,
@@ -513,6 +513,14 @@
       "onboard_time": 1744172124,
       "rank": 1,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 2456884,
+      "num": 171019,
+      "word": "陈赫",
+      "onboard_time": 1745081252,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 2447824,
@@ -2057,6 +2065,14 @@
       "onboard_time": 1744211125,
       "rank": 10,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1446250,
+      "num": 260292,
+      "word": "王勉",
+      "onboard_time": 1745080953,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 1444546,
@@ -14667,6 +14683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 358960,
+      "num": 208120,
+      "word": "老舅",
+      "onboard_time": 1745081909,
+      "rank": 7,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 358787,
       "num": 358787,
       "word": "雅诗兰黛隐瞒依赖中国代购股价跳水",
@@ -16227,6 +16251,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 324027,
+      "num": 145029,
+      "word": "gxt",
+      "onboard_time": 1745081433,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 323785,
       "num": 323785,
       "word": "张真源生日直播",
@@ -17547,20 +17579,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 297676,
-      "num": 260292,
-      "word": "王勉",
-      "onboard_time": 1745080953,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 297623,
       "num": 297623,
       "word": "原来凤凰传奇只有一个人会骑马",
       "onboard_time": 1743657262,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 297314,
+      "num": 155174,
+      "word": "那年今日",
+      "onboard_time": 1745081252,
+      "rank": 15,
+      "category": "艺人,剧集"
     },
     {
       "raw_hot": 297104,
@@ -18321,6 +18353,14 @@
       "onboard_time": 1744854023,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 285609,
+      "num": 260794,
+      "word": "树莓衮衮衮",
+      "onboard_time": 1745078731,
+      "rank": 14,
+      "category": "动漫"
     },
     {
       "raw_hot": 285556,
@@ -19921,14 +19961,6 @@
       "onboard_time": 1744338862,
       "rank": 22,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 260794,
-      "num": 260794,
-      "word": "树莓衮衮衮",
-      "onboard_time": 1745078731,
-      "rank": 14,
-      "category": "动漫"
     },
     {
       "raw_hot": 260586,
@@ -22649,6 +22681,14 @@
       "onboard_time": 1743935001,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 227973,
+      "num": 227973,
+      "word": "范志毅",
+      "onboard_time": 1745082685,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 227885,
@@ -34272,6 +34312,14 @@
       "word": "金善禹 发型",
       "onboard_time": 1743770962,
       "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 167442,
+      "num": 142078,
+      "word": "蒲熠星",
+      "onboard_time": 1745081791,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -54363,6 +54411,14 @@
       "category": "运动健身,互联网"
     },
     {
+      "raw_hot": 77420,
+      "num": 77420,
+      "word": "虞书欣面包小狗变身",
+      "onboard_time": 1745081191,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 77394,
       "num": 77394,
       "word": "北京电影节红毯开始了",
@@ -56617,6 +56673,14 @@
       "onboard_time": 1744047976,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 61345,
+      "num": 61345,
+      "word": "王一珩高管的一天vlog",
+      "onboard_time": 1745081668,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 61263,
@@ -59305,6 +59369,14 @@
       "onboard_time": 1744347624,
       "rank": 39,
       "category": "教育"
+    },
+    {
+      "raw_hot": 43047,
+      "num": 147453,
+      "word": "胡彦斌直播",
+      "onboard_time": 1745082266,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 43012,
