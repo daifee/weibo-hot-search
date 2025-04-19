@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745091360431,
+  "endTime": 1745094262034,
   "band_list": [
     {
       "raw_hot": 31189573,
@@ -587,6 +587,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 25918,
+      "num": 61069,
+      "word": "网友拍到大爷在悬崖峭壁上耕作",
+      "onboard_time": 1745090595,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25299,
       "num": 26314,
       "word": "咪咕汇",
@@ -643,12 +651,36 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 15334,
-      "num": 61069,
-      "word": "网友拍到大爷在悬崖峭壁上耕作",
-      "onboard_time": 1745090595,
-      "rank": 9,
+      "raw_hot": 16164,
+      "num": 19240,
+      "word": "女子阻止高铁关门为何能得逞",
+      "onboard_time": 1745093294,
+      "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15150,
+      "num": 19238,
+      "word": "山西一处塌方一货车司机遇难",
+      "onboard_time": 1745093834,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13552,
+      "num": 19236,
+      "word": "OMG对战EDG",
+      "onboard_time": 1745093294,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 13286,
+      "num": 19235,
+      "word": "一句古话说透中马关系",
+      "onboard_time": 1745091794,
+      "rank": 49,
+      "category": "国内时政,国际时政"
     }
   ],
   "hotgov_list": [

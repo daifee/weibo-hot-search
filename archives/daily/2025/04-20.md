@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/20 00:29:07 ~ 2025/04/20 03:36:00
+本榜单时间：2025/04/20 00:29:07 ~ 2025/04/20 04:24:22
 </p>
 </blockquote>
 <p>
@@ -453,6 +453,12 @@ EDG Simon（热度：92016）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E6%8B%8D%E5%88%B0%E5%A4%A7%E7%88%B7%E5%9C%A8%E6%82%AC%E5%B4%96%E5%B3%AD%E5%A3%81%E4%B8%8A%E8%80%95%E4%BD%9C%23" target="weibo">
+网友拍到大爷在悬崖峭壁上耕作（热度：25918）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%92%AA%E5%92%95%E6%B1%87%23" target="weibo">
 咪咕汇（热度：25299）
 </a>
@@ -495,8 +501,26 @@ EDG Simon（热度：92016）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E6%8B%8D%E5%88%B0%E5%A4%A7%E7%88%B7%E5%9C%A8%E6%82%AC%E5%B4%96%E5%B3%AD%E5%A3%81%E4%B8%8A%E8%80%95%E4%BD%9C%23" target="weibo">
-网友拍到大爷在悬崖峭壁上耕作（热度：15334）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%98%BB%E6%AD%A2%E9%AB%98%E9%93%81%E5%85%B3%E9%97%A8%E4%B8%BA%E4%BD%95%E8%83%BD%E5%BE%97%E9%80%9E%23" target="weibo">
+女子阻止高铁关门为何能得逞（热度：16164）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E4%B8%80%E5%A4%84%E5%A1%8C%E6%96%B9%E4%B8%80%E8%B4%A7%E8%BD%A6%E5%8F%B8%E6%9C%BA%E9%81%87%E9%9A%BE%23" target="weibo">
+山西一处塌方一货车司机遇难（热度：15150）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23OMG%E5%AF%B9%E6%88%98EDG%23" target="weibo">
+OMG对战EDG（热度：13552）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%8F%A5%E5%8F%A4%E8%AF%9D%E8%AF%B4%E9%80%8F%E4%B8%AD%E9%A9%AC%E5%85%B3%E7%B3%BB%23" target="weibo">
+一句古话说透中马关系（热度：13286）
 </a>
 </li>
 
