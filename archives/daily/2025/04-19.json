@@ -1,6 +1,6 @@
 {
   "startTime": 1744993775892,
-  "endTime": 1745047269125,
+  "endTime": 1745048135219,
   "band_list": [
     {
       "raw_hot": 2817932,
@@ -67,20 +67,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 906553,
+      "num": 1145048,
+      "word": "特朗普回应黄仁勋访华",
+      "onboard_time": 1745044642,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 904927,
       "num": 470387,
       "word": "女子被轮胎撞死时正和丈夫停车休整",
       "onboard_time": 1745018058,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 893232,
-      "num": 1142917,
-      "word": "特朗普回应黄仁勋访华",
-      "onboard_time": 1745044642,
-      "rank": 24,
-      "category": "国际时政"
     },
     {
       "raw_hot": 864970,
@@ -107,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 753142,
+      "num": 753142,
+      "word": "五一反向旅游",
+      "onboard_time": 1745044642,
+      "rank": 3,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 746953,
       "num": 746953,
       "word": "美墨边境开始走私鸡蛋了",
@@ -121,14 +129,6 @@
       "onboard_time": 1745043441,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 705989,
-      "num": 705989,
-      "word": "五一反向旅游",
-      "onboard_time": 1745044642,
-      "rank": 3,
-      "category": "旅游"
     },
     {
       "raw_hot": 693435,
@@ -153,6 +153,14 @@
       "onboard_time": 1745019380,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 664182,
+      "num": 664182,
+      "word": "陪客户捉小三八百万业绩到手",
+      "onboard_time": 1745045361,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 659739,
@@ -184,6 +192,14 @@
       "word": "女生攒2斤3两脱发卖1万多元",
       "onboard_time": 1745020280,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 618927,
+      "num": 288154,
+      "word": "老公打造37克孕育专属金镯给老婆",
+      "onboard_time": 1745046203,
+      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -225,14 +241,6 @@
       "onboard_time": 1744985725,
       "rank": 1,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 534553,
-      "num": 534553,
-      "word": "陪客户捉小三八百万业绩到手",
-      "onboard_time": 1745045361,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 534121,
@@ -395,6 +403,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 371378,
+      "num": 371378,
+      "word": "王楚钦vs雨果",
+      "onboard_time": 1745036722,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 364906,
       "num": 364906,
       "word": "关税大棒下世界超市义乌的现状",
@@ -409,14 +425,6 @@
       "onboard_time": 1744986503,
       "rank": 7,
       "category": "演出"
-    },
-    {
-      "raw_hot": 359866,
-      "num": 288154,
-      "word": "老公打造37克孕育专属金镯给老婆",
-      "onboard_time": 1745046203,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 356961,
@@ -539,6 +547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 292216,
+      "num": 292216,
+      "word": "蒯曼世界杯进决赛",
+      "onboard_time": 1745047221,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 288696,
       "num": 288696,
       "word": "我国成功发射一箭六星",
@@ -577,6 +593,14 @@
       "onboard_time": 1745026041,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 261530,
+      "num": 261530,
+      "word": "女子理完发顺走1280元的剪刀",
+      "onboard_time": 1745047043,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 251930,
@@ -675,20 +699,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 230818,
-      "num": 230818,
-      "word": "王楚钦vs雨果",
-      "onboard_time": 1745036722,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 229296,
       "num": 275453,
       "word": "时代少年团海口站海报",
       "onboard_time": 1745036241,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 228980,
+      "num": 318951,
+      "word": "洞穴潜水失联3天奇迹生还",
+      "onboard_time": 1745046203,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 226720,
@@ -721,14 +745,6 @@
       "onboard_time": 1744978041,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 212939,
-      "num": 212939,
-      "word": "女子理完发顺走1280元的剪刀",
-      "onboard_time": 1745047043,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 212923,
@@ -787,6 +803,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 198154,
+      "num": 198154,
+      "word": "乒乓球单打世界杯",
+      "onboard_time": 1745047341,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193940,
       "num": 302693,
       "word": "王以太哭着感谢吉克隽逸",
@@ -809,6 +833,14 @@
       "onboard_time": 1745026881,
       "rank": 18,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 188361,
+      "num": 188361,
+      "word": "董宇辉首获人民文学奖",
+      "onboard_time": 1745047883,
+      "rank": 25,
+      "category": "互联网,网红"
     },
     {
       "raw_hot": 188147,
@@ -931,6 +963,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 169556,
+      "num": 261960,
+      "word": "邓超让网友接泼天的富贵",
+      "onboard_time": 1745046980,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169454,
       "num": 356072,
       "word": "业内评关晓彤王安宇表演出彩",
@@ -1049,14 +1089,6 @@
       "onboard_time": 1745043441,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 150551,
-      "num": 318951,
-      "word": "洞穴潜水失联3天奇迹生还",
-      "onboard_time": 1745046203,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 149592,
@@ -1235,6 +1267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135815,
+      "num": 288755,
+      "word": "蒯曼4比3伊藤美诚",
+      "onboard_time": 1745047282,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135336,
       "num": 135336,
       "word": "特朗普再度施压美联储",
@@ -1273,6 +1313,14 @@
       "onboard_time": 1745044820,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 134013,
+      "num": 134013,
+      "word": "蒯曼太顽强了",
+      "onboard_time": 1745047702,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 132862,
@@ -1451,6 +1499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119598,
+      "num": 119598,
+      "word": "薛之谦 韦来给的高清",
+      "onboard_time": 1745047583,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119446,
       "num": 119446,
       "word": "天工机器人夺冠瞬间",
@@ -1465,14 +1521,6 @@
       "onboard_time": 1745029880,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 118348,
-      "num": 118348,
-      "word": "邓超让网友接泼天的富贵",
-      "onboard_time": 1745046980,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 117887,
@@ -1539,6 +1587,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 112457,
+      "num": 112457,
+      "word": "丁程鑫hi6舞蹈battle反差感",
+      "onboard_time": 1745047942,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112413,
       "num": 159170,
       "word": "李晟是宋妍霏唯一的选择",
@@ -1577,14 +1633,6 @@
       "onboard_time": 1745043321,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 110646,
-      "num": 110646,
-      "word": "蒯曼世界杯进决赛",
-      "onboard_time": 1745047221,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 110080,
@@ -1665,6 +1713,14 @@
       "onboard_time": 1744982901,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 100443,
+      "num": 261536,
+      "word": "伊藤美诚输给蒯曼后哭了",
+      "onboard_time": 1745047762,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 99432,
@@ -1793,6 +1849,14 @@
       "onboard_time": 1744988843,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 84408,
+      "num": 269921,
+      "word": "国乒包揽澳门世界杯女单冠亚军",
+      "onboard_time": 1745047762,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 83711,
@@ -2217,6 +2281,14 @@
       "onboard_time": 1745033962,
       "rank": 17,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 26492,
+      "num": 175956,
+      "word": "黄河水不黄了是啥原因",
+      "onboard_time": 1745047821,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25824,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1745048135219,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 906553,
+        "num": 1145048,
+        "word": "特朗普回应黄仁勋访华",
+        "onboard_time": 1745044642,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 753142,
+        "num": 753142,
+        "word": "五一反向旅游",
+        "onboard_time": 1745044642,
+        "rank": 1,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 77872,
+        "num": 702696,
+        "word": "外企把中国当作必须进入的战略市场",
+        "onboard_time": 1745037142,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 664182,
+        "num": 664182,
+        "word": "陪客户捉小三八百万业绩到手",
+        "onboard_time": 1745045361,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 533216,
+        "num": 533216,
+        "word": "蒯曼vs伊藤美诚",
+        "onboard_time": 1745037382,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 500039,
+        "num": 500039,
+        "word": "美墨边境开始走私鸡蛋了",
+        "onboard_time": 1745041401,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 371378,
+        "num": 371378,
+        "word": "王楚钦vs雨果",
+        "onboard_time": 1745036722,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 353839,
+        "num": 353839,
+        "word": "陈德容 日子怎么可能和谁过都一样",
+        "onboard_time": 1745043441,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292216,
+        "num": 292216,
+        "word": "蒯曼世界杯进决赛",
+        "onboard_time": 1745047221,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135815,
+        "num": 288755,
+        "word": "蒯曼4比3伊藤美诚",
+        "onboard_time": 1745047282,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1287333,
+        "num": 287821,
+        "word": "关晓彤已连续7年为鹿晗庆生",
+        "onboard_time": 1745044101,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 618927,
+        "num": 283939,
+        "word": "老公打造37克孕育专属金镯给老婆",
+        "onboard_time": 1745046203,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 462138,
+        "num": 277817,
+        "word": "卡黄",
+        "onboard_time": 1745036901,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 378159,
+        "num": 275247,
+        "word": "谢娜发文向张小婉管乐解释",
+        "onboard_time": 1745044701,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 304741,
+        "num": 271388,
+        "word": "女子被轮胎撞死时正和丈夫停车休整",
+        "onboard_time": 1745018058,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84408,
+        "num": 269921,
+        "word": "国乒包揽澳门世界杯女单冠亚军",
+        "onboard_time": 1745047762,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 266226,
+        "num": 266226,
+        "word": "官方通报女子伸腿阻止高铁关门",
+        "onboard_time": 1745034502,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169556,
+        "num": 261960,
+        "word": "邓超让网友接泼天的富贵",
+        "onboard_time": 1745046980,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163627,
+        "num": 261544,
+        "word": "这些居然是王珞丹拍的",
+        "onboard_time": 1745038643,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100443,
+        "num": 261536,
+        "word": "伊藤美诚输给蒯曼后哭了",
+        "onboard_time": 1745047762,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 261530,
+        "num": 261530,
+        "word": "女子理完发顺走1280元的剪刀",
+        "onboard_time": 1745047043,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229566,
+        "num": 229566,
+        "word": "女子阻止高铁关门相关部门介入调查",
+        "onboard_time": 1745033902,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253455,
+        "num": 229283,
+        "word": "黄婷婷 李艺彤",
+        "onboard_time": 1745041700,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 228980,
+        "num": 228980,
+        "word": "洞穴潜水失联3天奇迹生还",
+        "onboard_time": 1745046203,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198154,
+        "num": 198154,
+        "word": "乒乓球单打世界杯",
+        "onboard_time": 1745047341,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188361,
+        "num": 188361,
+        "word": "董宇辉首获人民文学奖",
+        "onboard_time": 1745047883,
+        "rank": 25,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 26492,
+        "num": 175956,
+        "word": "黄河水不黄了是啥原因",
+        "onboard_time": 1745047821,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164233,
+        "num": 164233,
+        "word": "韩国女子用尿布糊老师脸获刑6个月",
+        "onboard_time": 1745040440,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 158716,
+        "num": 158716,
+        "word": "黄奕一个月瘦了20斤",
+        "onboard_time": 1745036901,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148446,
+        "num": 155777,
+        "word": "李依晓让柯淳不要演霸总和油腻",
+        "onboard_time": 1745043441,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154474,
+        "num": 154474,
+        "word": "杜淳老婆自曝不拍戏的原因",
+        "onboard_time": 1745029342,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149762,
+        "num": 149762,
+        "word": "美国人开始去墨西哥寻鸡蛋",
+        "onboard_time": 1745042421,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 148516,
+        "num": 148516,
+        "word": "女子等4年没做上手术靠止痛药硬扛",
+        "onboard_time": 1745043800,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 139823,
+        "num": 139823,
+        "word": "虞书欣给摄影师买新相机",
+        "onboard_time": 1745044941,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137201,
+        "num": 137201,
+        "word": "韩国偶遇林一逛街",
+        "onboard_time": 1745043982,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134492,
+        "num": 134492,
+        "word": "浪姐选曲",
+        "onboard_time": 1745045783,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73439,
+        "num": 134470,
+        "word": "陈赫五哈站哥",
+        "onboard_time": 1745046682,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134449,
+        "num": 134449,
+        "word": "什么好工作通勤六个小时啊",
+        "onboard_time": 1745045722,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134013,
+        "num": 134013,
+        "word": "蒯曼太顽强了",
+        "onboard_time": 1745047702,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130124,
+        "num": 130124,
+        "word": "黄河水不黄了",
+        "onboard_time": 1745028021,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121952,
+        "num": 121952,
+        "word": "一个月瘦多少斤才科学",
+        "onboard_time": 1745046562,
+        "rank": 40,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 119598,
+        "num": 119598,
+        "word": "薛之谦 韦来给的高清",
+        "onboard_time": 1745047583,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114279,
+        "num": 114279,
+        "word": "中国船协严正声明",
+        "onboard_time": 1745046203,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 112457,
+        "num": 112457,
+        "word": "丁程鑫hi6舞蹈battle反差感",
+        "onboard_time": 1745047942,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110919,
+        "num": 110919,
+        "word": "内娱开始搞相亲选秀了",
+        "onboard_time": 1745039961,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106082,
+        "num": 106082,
+        "word": "摆摊男演员说现在有点骑虎难下了",
+        "onboard_time": 1745044221,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101896,
+        "num": 101896,
+        "word": "天工机器人半马冲线完赛",
+        "onboard_time": 1745031442,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100908,
+        "num": 100908,
+        "word": "导演称折腰下旬播",
+        "onboard_time": 1745043321,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95223,
+        "num": 95223,
+        "word": "任嘉伦好尴尬笑一下算了",
+        "onboard_time": 1745043441,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94475,
+        "num": 94475,
+        "word": "美国终于让欧洲上桌了",
+        "onboard_time": 1745034982,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席访问柬埔寨精彩瞬间#"
+    }
+  }
+}

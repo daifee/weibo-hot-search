@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1745047269125,
+  "endTime": 1745048135219,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -4731,6 +4731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 906553,
+      "num": 1145048,
+      "word": "特朗普回应黄仁勋访华",
+      "onboard_time": 1745044642,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 905388,
       "num": 507089,
       "word": "任敏好辣",
@@ -4841,14 +4849,6 @@
       "onboard_time": 1744943240,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 893232,
-      "num": 1142917,
-      "word": "特朗普回应黄仁勋访华",
-      "onboard_time": 1745044642,
-      "rank": 24,
-      "category": "国际时政"
     },
     {
       "raw_hot": 892877,
@@ -6187,6 +6187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 753142,
+      "num": 753142,
+      "word": "五一反向旅游",
+      "onboard_time": 1745044642,
+      "rank": 3,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 752525,
       "num": 704730,
       "word": "上海有门店卖狗狗麻辣烫25元一斤",
@@ -6779,14 +6787,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 705989,
-      "num": 705989,
-      "word": "五一反向旅游",
-      "onboard_time": 1745044642,
-      "rank": 3,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 705626,
       "num": 248026,
       "word": "疯狂动物城2",
@@ -7281,6 +7281,14 @@
       "onboard_time": 1743655763,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 664182,
+      "num": 664182,
+      "word": "陪客户捉小三八百万业绩到手",
+      "onboard_time": 1745045361,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 663997,
@@ -7881,6 +7889,14 @@
       "onboard_time": 1744864524,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 618927,
+      "num": 288154,
+      "word": "老公打造37克孕育专属金镯给老婆",
+      "onboard_time": 1745046203,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 617100,
@@ -9321,14 +9337,6 @@
       "onboard_time": 1744186401,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 534553,
-      "num": 534553,
-      "word": "陪客户捉小三八百万业绩到手",
-      "onboard_time": 1745045361,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 534375,
@@ -13795,6 +13803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 371378,
+      "num": 371378,
+      "word": "王楚钦vs雨果",
+      "onboard_time": 1745036722,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 371131,
       "num": 371131,
       "word": "中国政府关于反对美国滥施关税的立场",
@@ -14273,14 +14289,6 @@
       "onboard_time": 1744809803,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 359866,
-      "num": 288154,
-      "word": "老公打造37克孕育专属金镯给老婆",
-      "onboard_time": 1745046203,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 359334,
@@ -17347,6 +17355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 292216,
+      "num": 292216,
+      "word": "蒯曼世界杯进决赛",
+      "onboard_time": 1745047221,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 292091,
       "num": 292091,
       "word": "上半年最好的离职时间是6月16日",
@@ -19248,6 +19264,14 @@
       "word": "研究员违规携带水稻种质资源出境",
       "onboard_time": 1744602201,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 261530,
+      "num": 261530,
+      "word": "女子理完发顺走1280元的剪刀",
+      "onboard_time": 1745047043,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -21603,14 +21627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 230818,
-      "num": 230818,
-      "word": "王楚钦vs雨果",
-      "onboard_time": 1745036722,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 230775,
       "num": 245010,
       "word": "震耳欲聋",
@@ -21825,6 +21841,14 @@
       "onboard_time": 1744535962,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 228980,
+      "num": 318951,
+      "word": "洞穴潜水失联3天奇迹生还",
+      "onboard_time": 1745046203,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 228949,
@@ -23569,14 +23593,6 @@
       "onboard_time": 1744599081,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 212939,
-      "num": 212939,
-      "word": "女子理完发顺走1280元的剪刀",
-      "onboard_time": 1745047043,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 212923,
@@ -26483,6 +26499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198154,
+      "num": 198154,
+      "word": "乒乓球单打世界杯",
+      "onboard_time": 1745047341,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198116,
       "num": 190427,
       "word": "湖南卫视连发20条杨幂",
@@ -28721,6 +28745,14 @@
       "onboard_time": 1744455624,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188361,
+      "num": 188361,
+      "word": "董宇辉首获人民文学奖",
+      "onboard_time": 1745047883,
+      "rank": 25,
+      "category": "互联网,网红"
     },
     {
       "raw_hot": 188330,
@@ -32657,6 +32689,14 @@
       "onboard_time": 1744287683,
       "rank": 18,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 169556,
+      "num": 261960,
+      "word": "邓超让网友接泼天的富贵",
+      "onboard_time": 1745046980,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 169549,
@@ -36955,14 +36995,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 150551,
-      "num": 318951,
-      "word": "洞穴潜水失联3天奇迹生还",
-      "onboard_time": 1745046203,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 150509,
       "num": 150509,
       "word": "不敢睁开眼希望今天是五一",
@@ -41019,6 +41051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135815,
+      "num": 288755,
+      "word": "蒯曼4比3伊藤美诚",
+      "onboard_time": 1745047282,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135799,
       "num": 135799,
       "word": "章昊初登hi6",
@@ -41625,6 +41665,14 @@
       "onboard_time": 1743850283,
       "rank": 35,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 134013,
+      "num": 134013,
+      "word": "蒯曼太顽强了",
+      "onboard_time": 1745047702,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 134007,
@@ -45475,6 +45523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119598,
+      "num": 119598,
+      "word": "薛之谦 韦来给的高清",
+      "onboard_time": 1745047583,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119542,
       "num": 439198,
       "word": "哪吒联名一出我就管不住我的手",
@@ -45809,14 +45865,6 @@
       "onboard_time": 1743852022,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 118348,
-      "num": 118348,
-      "word": "邓超让网友接泼天的富贵",
-      "onboard_time": 1745046980,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 118327,
@@ -47171,6 +47219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 112457,
+      "num": 112457,
+      "word": "丁程鑫hi6舞蹈battle反差感",
+      "onboard_time": 1745047942,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112453,
       "num": 302019,
       "word": "胡歌说表演可以NG但生命不能重来",
@@ -47593,14 +47649,6 @@
       "onboard_time": 1744439063,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 110646,
-      "num": 110646,
-      "word": "蒯曼世界杯进决赛",
-      "onboard_time": 1745047221,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 110644,
@@ -49361,6 +49409,14 @@
       "onboard_time": 1744845198,
       "rank": 31,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 100443,
+      "num": 261536,
+      "word": "伊藤美诚输给蒯曼后哭了",
+      "onboard_time": 1745047762,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 100426,
@@ -51585,6 +51641,14 @@
       "onboard_time": 1744878861,
       "rank": 26,
       "category": "汽车,艺人"
+    },
+    {
+      "raw_hot": 84408,
+      "num": 269921,
+      "word": "国乒包揽澳门世界杯女单冠亚军",
+      "onboard_time": 1745047762,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 84389,
@@ -60064,6 +60128,14 @@
       "word": "驴友将他人背上山的水推下山坡",
       "onboard_time": 1744612343,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26492,
+      "num": 175956,
+      "word": "黄河水不黄了是啥原因",
+      "onboard_time": 1745047821,
+      "rank": 26,
       "category": "民生新闻"
     },
     {
