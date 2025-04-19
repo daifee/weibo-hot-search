@@ -1,6 +1,6 @@
 {
   "startTime": 1744993775892,
-  "endTime": 1745059247212,
+  "endTime": 1745061588266,
   "band_list": [
     {
       "raw_hot": 7793574,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1150445,
-      "num": 183095,
+      "num": 190457,
       "word": "22岁女子无实质性生活发现怀孕",
       "onboard_time": 1745058502,
       "rank": 20,
@@ -225,6 +225,14 @@
       "onboard_time": 1745029161,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 651920,
+      "num": 651920,
+      "word": "这居然是韩庚",
+      "onboard_time": 1745057962,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 644393,
@@ -499,6 +507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 388029,
+      "num": 388029,
+      "word": "美国金库大查账",
+      "onboard_time": 1745055502,
+      "rank": 5,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 386014,
       "num": 386014,
       "word": "甲亢哥的Master梁回应走红",
@@ -651,6 +667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 329224,
+      "num": 329224,
+      "word": "达科说樊振东拧拉和心理素质最佳",
+      "onboard_time": 1745058441,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 322203,
       "num": 322203,
       "word": "女子回应减30斤后撞脸王祖贤",
@@ -667,6 +691,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 311284,
+      "num": 311284,
+      "word": "王楚钦赛后第一时间总结复盘",
+      "onboard_time": 1745055502,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 306535,
       "num": 306535,
       "word": "檀健次深情献唱哪吒2片尾曲",
@@ -681,6 +713,14 @@
       "onboard_time": 1745033601,
       "rank": 28,
       "category": "数码"
+    },
+    {
+      "raw_hot": 304734,
+      "num": 304734,
+      "word": "无忧渡 合体剧宣",
+      "onboard_time": 1745059102,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 304642,
@@ -713,14 +753,6 @@
       "onboard_time": 1744989503,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 300524,
-      "num": 300524,
-      "word": "王楚钦赛后第一时间总结复盘",
-      "onboard_time": 1745055502,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 297077,
@@ -795,14 +827,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 268746,
-      "num": 211799,
-      "word": "这居然是韩庚",
-      "onboard_time": 1745057962,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 265466,
       "num": 265466,
       "word": "乒乓球单打世界杯",
@@ -835,6 +859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 255197,
+      "num": 189790,
+      "word": "王楚钦再次冲击单打世界冠军失利",
+      "onboard_time": 1745058742,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 253160,
       "num": 253160,
       "word": "看得出马丽是公主",
@@ -865,6 +897,14 @@
       "onboard_time": 1745050461,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 248372,
+      "num": 248372,
+      "word": "信号中心特权码",
+      "onboard_time": 1745059581,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 248293,
@@ -979,20 +1019,20 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 223126,
+      "num": 223126,
+      "word": "虞书欣给我买的新相机到了",
+      "onboard_time": 1745059761,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 222313,
       "num": 204692,
       "word": "hi6",
       "onboard_time": 1744990703,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 221146,
-      "num": 221146,
-      "word": "达科说樊振东拧拉和心理素质最佳",
-      "onboard_time": 1745058441,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 213630,
@@ -1035,6 +1075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208841,
+      "num": 208841,
+      "word": "雨果巴西首位进入乒乓世界杯运动员",
+      "onboard_time": 1745060482,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 207813,
       "num": 207813,
       "word": "Rookie一滴血抢龙",
@@ -1051,6 +1099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206302,
+      "num": 188880,
+      "word": "冲锋衣热卖带动小县城经济",
+      "onboard_time": 1745060721,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 205253,
       "num": 205253,
       "word": "最好哭的he出现了",
@@ -1065,6 +1121,14 @@
       "onboard_time": 1745040201,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 203114,
+      "num": 203114,
+      "word": "孙颖莎陈幸同对练",
+      "onboard_time": 1745060242,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 201861,
@@ -1115,6 +1179,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 191001,
+      "num": 191001,
+      "word": "让体重逐渐下降的30个常识",
+      "onboard_time": 1745059881,
+      "rank": 19,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 190872,
       "num": 653189,
       "word": "有些国家信誉积分可能都租不到充电宝",
@@ -1129,6 +1201,14 @@
       "onboard_time": 1745048602,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188309,
+      "num": 188309,
+      "word": "柯南的蝴蝶结围巾是小兰系的",
+      "onboard_time": 1745059343,
+      "rank": 25,
+      "category": "动漫"
     },
     {
       "raw_hot": 188147,
@@ -1409,6 +1489,14 @@
       "onboard_time": 1745058021,
       "rank": 34,
       "category": "汽车,数码"
+    },
+    {
+      "raw_hot": 155028,
+      "num": 155028,
+      "word": "无忧渡无限流",
+      "onboard_time": 1745060662,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 153431,
@@ -1739,6 +1827,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 131881,
+      "num": 131881,
+      "word": "特朗普称俄乌问题再无进展我就不管了",
+      "onboard_time": 1745059701,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 130953,
       "num": 130953,
       "word": "宋轶去了张杰演唱会",
@@ -1835,6 +1931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125834,
+      "num": 125834,
+      "word": "哪些信号是你的肝在说不舒服",
+      "onboard_time": 1745061202,
+      "rank": 38,
+      "category": "健康医疗,民生新闻"
+    },
+    {
       "raw_hot": 125278,
       "num": 125278,
       "word": "南京徐达墓今年首次对外开放",
@@ -1881,6 +1985,14 @@
       "onboard_time": 1745045182,
       "rank": 39,
       "category": "教育"
+    },
+    {
+      "raw_hot": 122087,
+      "num": 122087,
+      "word": "图书馆30s照进现实",
+      "onboard_time": 1745059462,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 122033,
@@ -2043,14 +2155,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 113703,
-      "num": 113703,
-      "word": "无忧渡 合体剧宣",
-      "onboard_time": 1745059102,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 112942,
       "num": 112942,
       "word": "向鱼缺席首发",
@@ -2179,6 +2283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104860,
+      "num": 104860,
+      "word": "夏天对中国孩子来说是特殊的",
+      "onboard_time": 1745061381,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 104366,
       "num": 104366,
       "word": "iG赛后采访",
@@ -2217,6 +2329,14 @@
       "onboard_time": 1745030901,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 101969,
+      "num": 308254,
+      "word": "三姐弟被父亲带走失踪36年终团圆",
+      "onboard_time": 1745060602,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101958,
@@ -2571,6 +2691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 69883,
+      "num": 104835,
+      "word": "登陆少年怎么抢票成功率最高",
+      "onboard_time": 1745059943,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 69710,
       "num": 69710,
       "word": "这泼天的富贵轮到了巴西",
@@ -2593,6 +2721,14 @@
       "onboard_time": 1745030600,
       "rank": 18,
       "category": "互联网,运动健身"
+    },
+    {
+      "raw_hot": 66642,
+      "num": 188812,
+      "word": "蒯曼展望决赛",
+      "onboard_time": 1745060842,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 63879,
@@ -2633,6 +2769,14 @@
       "onboard_time": 1745019319,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 56411,
+      "num": 134698,
+      "word": "馒头是优质碳水吗",
+      "onboard_time": 1745060302,
+      "rank": 31,
+      "category": "科学科普"
     },
     {
       "raw_hot": 55250,
@@ -2721,6 +2865,14 @@
       "onboard_time": 1745039120,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 47524,
+      "num": 126743,
+      "word": "早餐怎么吃健康",
+      "onboard_time": 1745061562,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 46767,
@@ -2929,6 +3081,14 @@
       "onboard_time": 1745000535,
       "rank": 44,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 25477,
+      "num": 122270,
+      "word": "全国哪些城市有双子星高校",
+      "onboard_time": 1745061140,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 24064,

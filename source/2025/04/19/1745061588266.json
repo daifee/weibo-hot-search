@@ -1,0 +1,410 @@
+{
+  "runTime": 1745061588266,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1081586,
+        "num": 1173053,
+        "word": "王楚钦无缘澳门世界杯决赛",
+        "onboard_time": 1745051843,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 651920,
+        "num": 651920,
+        "word": "这居然是韩庚",
+        "onboard_time": 1745057962,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161456,
+        "num": 509763,
+        "word": "有些国家信誉积分可能都租不到充电宝",
+        "onboard_time": 1745052802,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 498470,
+        "num": 498470,
+        "word": "男子试驾撞毁5辆豪车只为求职抵债",
+        "onboard_time": 1745051301,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 424094,
+        "num": 424094,
+        "word": "封神2亏损",
+        "onboard_time": 1745048543,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 388029,
+        "num": 388029,
+        "word": "美国金库大查账",
+        "onboard_time": 1745055502,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 329224,
+        "num": 329224,
+        "word": "达科说樊振东拧拉和心理素质最佳",
+        "onboard_time": 1745058441,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 325560,
+        "num": 325560,
+        "word": "李晨 这谁拍的",
+        "onboard_time": 1745053823,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311284,
+        "num": 311284,
+        "word": "王楚钦赛后第一时间总结复盘",
+        "onboard_time": 1745055502,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101969,
+        "num": 308254,
+        "word": "三姐弟被父亲带走失踪36年终团圆",
+        "onboard_time": 1745060602,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 604900,
+        "num": 307700,
+        "word": "关晓彤已连续7年为鹿晗庆生",
+        "onboard_time": 1745044101,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 421003,
+        "num": 307206,
+        "word": "全身95%烧伤女孩订婚了",
+        "onboard_time": 1745050101,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 306284,
+        "num": 306284,
+        "word": "五一反向旅游",
+        "onboard_time": 1745044642,
+        "rank": 12,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 304734,
+        "num": 304734,
+        "word": "无忧渡 合体剧宣",
+        "onboard_time": 1745059102,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250810,
+        "num": 250810,
+        "word": "陈哲远 这不用遮了",
+        "onboard_time": 1745053102,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 248372,
+        "num": 248372,
+        "word": "信号中心特权码",
+        "onboard_time": 1745059581,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 223126,
+        "num": 223126,
+        "word": "虞书欣给我买的新相机到了",
+        "onboard_time": 1745059761,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208841,
+        "num": 208841,
+        "word": "雨果巴西首位进入乒乓世界杯运动员",
+        "onboard_time": 1745060482,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203114,
+        "num": 203114,
+        "word": "孙颖莎陈幸同对练",
+        "onboard_time": 1745060242,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191001,
+        "num": 191001,
+        "word": "让体重逐渐下降的30个常识",
+        "onboard_time": 1745059881,
+        "rank": 19,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 1513079,
+        "num": 190547,
+        "word": "短剧尺度",
+        "onboard_time": 1745056222,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 853466,
+        "num": 190457,
+        "word": "22岁女子无实质性生活发现怀孕",
+        "onboard_time": 1745058502,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255197,
+        "num": 189790,
+        "word": "王楚钦再次冲击单打世界冠军失利",
+        "onboard_time": 1745058742,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206302,
+        "num": 188880,
+        "word": "冲锋衣热卖带动小县城经济",
+        "onboard_time": 1745060721,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66642,
+        "num": 188812,
+        "word": "蒯曼展望决赛",
+        "onboard_time": 1745060842,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188309,
+        "num": 188309,
+        "word": "柯南的蝴蝶结围巾是小兰系的",
+        "onboard_time": 1745059343,
+        "rank": 25,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 190722,
+        "num": 186282,
+        "word": "两个50岁不自律女生同居的一天",
+        "onboard_time": 1745054782,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176557,
+        "num": 176557,
+        "word": "TOP登陆少年抢票",
+        "onboard_time": 1745058382,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 155028,
+        "num": 155028,
+        "word": "无忧渡无限流",
+        "onboard_time": 1745060662,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136744,
+        "num": 136744,
+        "word": "三生三世十里桃花有多火",
+        "onboard_time": 1745051122,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137910,
+        "num": 135977,
+        "word": "雨果回应逆转战胜王楚钦",
+        "onboard_time": 1745056222,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 56411,
+        "num": 134698,
+        "word": "馒头是优质碳水吗",
+        "onboard_time": 1745060302,
+        "rank": 31,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 133455,
+        "num": 133455,
+        "word": "山下智久和周杰伦同框",
+        "onboard_time": 1745056342,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131881,
+        "num": 131881,
+        "word": "特朗普称俄乌问题再无进展我就不管了",
+        "onboard_time": 1745059701,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 129987,
+        "num": 129987,
+        "word": "雷军发文小米SU7现身机器人半马",
+        "onboard_time": 1745058021,
+        "rank": 34,
+        "category": "汽车,数码"
+      },
+      {
+        "raw_hot": 128038,
+        "num": 128038,
+        "word": "女子理完发顺走1280元的剪刀",
+        "onboard_time": 1745047043,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47524,
+        "num": 126743,
+        "word": "早餐怎么吃健康",
+        "onboard_time": 1745061562,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 126322,
+        "num": 126322,
+        "word": "260元买6斤榴莲出3斤肉2斤核",
+        "onboard_time": 1745049201,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125834,
+        "num": 125834,
+        "word": "哪些信号是你的肝在说不舒服",
+        "onboard_time": 1745061202,
+        "rank": 38,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 25477,
+        "num": 122270,
+        "word": "全国哪些城市有双子星高校",
+        "onboard_time": 1745061140,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 122087,
+        "num": 122087,
+        "word": "图书馆30s照进现实",
+        "onboard_time": 1745059462,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112577,
+        "num": 112577,
+        "word": "无忧渡",
+        "onboard_time": 1745058382,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111190,
+        "num": 111190,
+        "word": "美将设工作组紧急处理对中加征关税危机",
+        "onboard_time": 1745051001,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 109757,
+        "num": 109757,
+        "word": "徐志胜脸没了弱点也没了",
+        "onboard_time": 1745058562,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108742,
+        "num": 108742,
+        "word": "美墨边境开始走私鸡蛋了",
+        "onboard_time": 1745041401,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 104860,
+        "num": 104860,
+        "word": "夏天对中国孩子来说是特殊的",
+        "onboard_time": 1745061381,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 69883,
+        "num": 104835,
+        "word": "登陆少年怎么抢票成功率最高",
+        "onboard_time": 1745059943,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 104822,
+        "num": 104822,
+        "word": "董宇辉首获人民文学奖",
+        "onboard_time": 1745047883,
+        "rank": 47,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 104158,
+        "num": 104158,
+        "word": "无忧渡乱成一锅粥了快喝了吧",
+        "onboard_time": 1745057183,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103348,
+        "num": 103348,
+        "word": "男子长期肥胖全身关节如硬石",
+        "onboard_time": 1745053823,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平东南亚之行几个瞬间意味深长#"
+    }
+  }
+}
