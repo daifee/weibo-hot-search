@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1745051294463,
+  "endTime": 1745052125326,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -2139,6 +2139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3081452,
+      "num": 3081452,
+      "word": "王楚钦vs雨果",
+      "onboard_time": 1745036722,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3068014,
       "num": 3068014,
       "word": "躲春",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1738149140,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 2960141,
-      "num": 719137,
-      "word": "关晓彤回应近日状态",
-      "onboard_time": 1740477561,
-      "rank": 6,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

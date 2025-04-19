@@ -1,0 +1,410 @@
+{
+  "runTime": 1745052125326,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3081452,
+        "num": 3081452,
+        "word": "王楚钦vs雨果",
+        "onboard_time": 1745036722,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1310784,
+        "num": 1310784,
+        "word": "封神2亏损",
+        "onboard_time": 1745048543,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 89898,
+        "num": 969506,
+        "word": "外企把中国当作必须进入的战略市场",
+        "onboard_time": 1745037142,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 908177,
+        "num": 908177,
+        "word": "王楚钦无缘澳门世界杯决赛",
+        "onboard_time": 1745051843,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 701763,
+        "num": 701763,
+        "word": "五一反向旅游",
+        "onboard_time": 1745044642,
+        "rank": 4,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 477135,
+        "num": 477135,
+        "word": "伊藤美诚输给蒯曼后哭了",
+        "onboard_time": 1745047762,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 426932,
+        "num": 426932,
+        "word": "董宇辉首获人民文学奖",
+        "onboard_time": 1745047883,
+        "rank": 6,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 343186,
+        "num": 371195,
+        "word": "当北京欢迎你时隔17年再响起",
+        "onboard_time": 1745050402,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 361049,
+        "num": 361049,
+        "word": "美墨边境开始走私鸡蛋了",
+        "onboard_time": 1745041401,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 80623,
+        "num": 356102,
+        "word": "泼水节民警2小时捡12个小孩",
+        "onboard_time": 1745051482,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 890152,
+        "num": 348273,
+        "word": "全身95%烧伤女孩订婚了",
+        "onboard_time": 1745050101,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 787715,
+        "num": 333429,
+        "word": "关晓彤已连续7年为鹿晗庆生",
+        "onboard_time": 1745044101,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 479172,
+        "num": 320713,
+        "word": "260元买6斤榴莲出3斤肉2斤核",
+        "onboard_time": 1745049201,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 312755,
+        "num": 312755,
+        "word": "谢娜发文向张小婉管乐解释",
+        "onboard_time": 1745044701,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119784,
+        "num": 305862,
+        "word": "男子试驾撞毁5辆豪车只为求职抵债",
+        "onboard_time": 1745051301,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299892,
+        "num": 299892,
+        "word": "陈都灵珠海",
+        "onboard_time": 1745048723,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196395,
+        "num": 284460,
+        "word": "第一次见表白往脖子盖章的",
+        "onboard_time": 1745051362,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177969,
+        "num": 283302,
+        "word": "陈德容 日子怎么可能和谁过都一样",
+        "onboard_time": 1745043441,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19026,
+        "num": 283174,
+        "word": "如何评价本赛季的独行侠",
+        "onboard_time": 1745051604,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 283094,
+        "num": 283094,
+        "word": "洞穴潜水失联3天奇迹生还",
+        "onboard_time": 1745046203,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 325940,
+        "num": 281369,
+        "word": "老公打造37克孕育专属金镯给老婆",
+        "onboard_time": 1745046203,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273266,
+        "num": 273266,
+        "word": "美将设工作组紧急处理对中加征关税危机",
+        "onboard_time": 1745051001,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 265466,
+        "num": 265466,
+        "word": "乒乓球单打世界杯",
+        "onboard_time": 1745047341,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250087,
+        "num": 250087,
+        "word": "王楚钦世界杯半决赛登场",
+        "onboard_time": 1745050461,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 245822,
+        "num": 245822,
+        "word": "女子等4年没做上手术靠止痛药硬扛",
+        "onboard_time": 1745043800,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 236109,
+        "num": 236109,
+        "word": "王楚钦高抬腿扣杀",
+        "onboard_time": 1745049502,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183267,
+        "num": 235547,
+        "word": "种地吧一款来了还想来的综艺",
+        "onboard_time": 1745051001,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163908,
+        "num": 230752,
+        "word": "时代少年团演唱会抢票",
+        "onboard_time": 1745036901,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 151063,
+        "num": 224982,
+        "word": "三生三世十里桃花有多火",
+        "onboard_time": 1745051122,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150644,
+        "num": 220766,
+        "word": "侯佩岑爱人的最高境界是心疼",
+        "onboard_time": 1745050823,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219983,
+        "num": 219983,
+        "word": "女子理完发顺走1280元的剪刀",
+        "onboard_time": 1745047043,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199088,
+        "num": 199088,
+        "word": "女子阻止高铁关门相关部门介入调查",
+        "onboard_time": 1745033902,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183501,
+        "num": 183501,
+        "word": "官方通报女子伸腿阻止高铁关门",
+        "onboard_time": 1745034502,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175094,
+        "num": 175094,
+        "word": "女子被轮胎撞死时正和丈夫停车休整",
+        "onboard_time": 1745018058,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159672,
+        "num": 159672,
+        "word": "国乒包揽澳门世界杯女单冠亚军",
+        "onboard_time": 1745047762,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133954,
+        "num": 133954,
+        "word": "卡黄",
+        "onboard_time": 1745036901,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133936,
+        "num": 133936,
+        "word": "宇树科技回应未参与马拉松比赛",
+        "onboard_time": 1745050161,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 133381,
+        "num": 133381,
+        "word": "艾福杰尼忍范志毅很久了",
+        "onboard_time": 1745049022,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132450,
+        "num": 132450,
+        "word": "徐明浩 著名醉水艺术家",
+        "onboard_time": 1745048602,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123749,
+        "num": 123749,
+        "word": "金智秀金珉奎南柱赫韩素希活动生图",
+        "onboard_time": 1745050701,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 114836,
+        "num": 114836,
+        "word": "乘风姐姐们看张杰演唱会把嗓子唱哑了",
+        "onboard_time": 1745051062,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109529,
+        "num": 109529,
+        "word": "时代少年团演唱会 谁抢到了",
+        "onboard_time": 1745051362,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 105933,
+        "num": 105933,
+        "word": "巴基斯坦发生5.9级地震",
+        "onboard_time": 1745048543,
+        "rank": 42,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 105710,
+        "num": 105710,
+        "word": "LadyGaga科切拉舞台",
+        "onboard_time": 1745050581,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 102420,
+        "num": 102420,
+        "word": "烧伤女孩与未婚夫同年同月同日生",
+        "onboard_time": 1745050701,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102226,
+        "num": 102226,
+        "word": "黄奕一个月瘦了20斤",
+        "onboard_time": 1745036901,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101425,
+        "num": 101425,
+        "word": "美国人开始去墨西哥寻鸡蛋",
+        "onboard_time": 1745042421,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 95179,
+        "num": 95179,
+        "word": "当你年纪大了还在和对象吵架",
+        "onboard_time": 1745049861,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94582,
+        "num": 94582,
+        "word": "鬼灭之刃嘴平伊之助",
+        "onboard_time": 1745052023,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 92879,
+        "num": 92879,
+        "word": "浪姐选曲",
+        "onboard_time": 1745045783,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席访问柬埔寨精彩瞬间#"
+    }
+  }
+}
