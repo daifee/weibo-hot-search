@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745101340900,
+  "endTime": 1745102376935,
   "band_list": [
     {
       "raw_hot": 31189573,
@@ -315,6 +315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134492,
+      "num": 134492,
+      "word": "女子阻止高铁关门为何能得逞",
+      "onboard_time": 1745093294,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130339,
       "num": 130339,
       "word": "女寝大逃亡3",
@@ -361,14 +369,6 @@
       "onboard_time": 1745068283,
       "rank": 33,
       "category": "艺人,作品衍生"
-    },
-    {
-      "raw_hot": 118911,
-      "num": 118911,
-      "word": "女子阻止高铁关门为何能得逞",
-      "onboard_time": 1745093294,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 116345,
@@ -483,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 90424,
+      "num": 90424,
+      "word": "为什么微信还不推出编辑功能",
+      "onboard_time": 1745096654,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 88867,
       "num": 737217,
       "word": "别人在算关税账我们在算创新账",
@@ -547,14 +555,6 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 55223,
-      "num": 55223,
-      "word": "为什么微信还不推出编辑功能",
-      "onboard_time": 1745096654,
-      "rank": 48,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 54162,
       "num": 54162,
       "word": "张极下班开车看演出vlog",
@@ -587,6 +587,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 36400,
+      "num": 36400,
+      "word": "三蹦子厂家称美国客户还在观望",
+      "onboard_time": 1745099534,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35847,
+      "num": 36767,
+      "word": "美国各地农民面临破产风险",
+      "onboard_time": 1745097135,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 35621,
       "num": 35621,
       "word": "普京称停火将能检验乌克兰诚意",
@@ -603,7 +619,15 @@
       "category": "网红"
     },
     {
-      "raw_hot": 25918,
+      "raw_hot": 32122,
+      "num": 32122,
+      "word": "李诚儒看青蛇小考急得想自己扭两段",
+      "onboard_time": 1745098754,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 28876,
       "num": 61069,
       "word": "网友拍到大爷在悬崖峭壁上耕作",
       "onboard_time": 1745090595,
@@ -611,20 +635,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 25517,
-      "num": 25517,
-      "word": "李诚儒看青蛇小考急得想自己扭两段",
-      "onboard_time": 1745098754,
-      "rank": 29,
-      "category": "综艺"
+      "raw_hot": 27732,
+      "num": 31748,
+      "word": "尚雯婕你根本没喝中药",
+      "onboard_time": 1745098275,
+      "rank": 45,
+      "category": "演出"
     },
     {
-      "raw_hot": 25402,
-      "num": 36767,
-      "word": "美国各地农民面临破产风险",
-      "onboard_time": 1745097135,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 27474,
+      "num": 335134,
+      "word": "关税政策加剧美国农业困境",
+      "onboard_time": 1745069665,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25299,
@@ -635,11 +659,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 24381,
-      "num": 24381,
-      "word": "三蹦子厂家称美国客户还在观望",
-      "onboard_time": 1745099534,
-      "rank": 36,
+      "raw_hot": 24366,
+      "num": 31735,
+      "word": "山西一处塌方一货车司机遇难",
+      "onboard_time": 1745093834,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -659,28 +683,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 23560,
-      "num": 23560,
-      "word": "尚雯婕你根本没喝中药",
-      "onboard_time": 1745098275,
-      "rank": 45,
-      "category": "演出"
-    },
-    {
       "raw_hot": 22556,
       "num": 22556,
       "word": "北京电影节",
       "onboard_time": 1745090474,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 21330,
-      "num": 22994,
-      "word": "山西一处塌方一货车司机遇难",
-      "onboard_time": 1745093834,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 20568,
@@ -699,12 +707,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 18409,
-      "num": 335134,
-      "word": "关税政策加剧美国农业困境",
-      "onboard_time": 1745069665,
-      "rank": 2,
-      "category": "民生新闻"
+      "raw_hot": 18494,
+      "num": 31718,
+      "word": "郝蕾 乱是因为都想抢戏",
+      "onboard_time": 1745101697,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 16078,
+      "num": 31702,
+      "word": "刘奕畅为争取李沐宸撤回一个余宇涵",
+      "onboard_time": 1745102238,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 13650,
