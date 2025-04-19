@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1745087411926,
+  "endTime": 1745088204523,
   "band_list": [
     {
       "raw_hot": 31189573,
@@ -59931,6 +59931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40340,
+      "num": 40340,
+      "word": "亚克力枪枪",
+      "onboard_time": 1745085259,
+      "rank": 41,
+      "category": "网红"
+    },
+    {
       "raw_hot": 40332,
       "num": 98640,
       "word": "致敬公安英雄",
@@ -60049,14 +60057,6 @@
       "onboard_time": 1744726343,
       "rank": 16,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 39562,
-      "num": 39562,
-      "word": "亚克力枪枪",
-      "onboard_time": 1745085259,
-      "rank": 41,
-      "category": "网红"
     },
     {
       "raw_hot": 39546,
