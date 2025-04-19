@@ -1,0 +1,410 @@
+{
+  "runTime": 1745036891735,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1575120,
+        "num": 1575120,
+        "word": "中方把波音飞机退回美国",
+        "onboard_time": 1745033180,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 967969,
+        "num": 967969,
+        "word": "黄河水不黄了",
+        "onboard_time": 1745028021,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12390,
+        "num": 620837,
+        "word": "中方敦促美方停止甩锅",
+        "onboard_time": 1744993341,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 612216,
+        "num": 612216,
+        "word": "女子踏青患怪病高烧呕吐多器官损害",
+        "onboard_time": 1745032041,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 519848,
+        "num": 519848,
+        "word": "乌克兰放弃世界第三大核武器库",
+        "onboard_time": 1745026641,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 437084,
+        "num": 437084,
+        "word": "董子健被邓超孙俪混合双打",
+        "onboard_time": 1745033482,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 429873,
+        "num": 429873,
+        "word": "女子阻止高铁关门相关部门介入调查",
+        "onboard_time": 1745033902,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 424565,
+        "num": 424565,
+        "word": "被官二代顶替上大学女子做了律师",
+        "onboard_time": 1745020340,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 329813,
+        "num": 424090,
+        "word": "第一次喜欢oe的大结局",
+        "onboard_time": 1745034922,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 414744,
+        "num": 423253,
+        "word": "美国终于让欧洲上桌了",
+        "onboard_time": 1745034982,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 743773,
+        "num": 422583,
+        "word": "杜淳老婆自曝不拍戏的原因",
+        "onboard_time": 1745029342,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 556033,
+        "num": 422496,
+        "word": "女子被轮胎撞死时正和丈夫停车休整",
+        "onboard_time": 1745018058,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 531987,
+        "num": 421488,
+        "word": "蔡徐坤 熊猫",
+        "onboard_time": 1745029161,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 459430,
+        "num": 421012,
+        "word": "福建9岁女孩腹痛3天查出体内大量积血",
+        "onboard_time": 1745030841,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 420443,
+        "num": 420443,
+        "word": "天工机器人半马冲线完赛",
+        "onboard_time": 1745031442,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305530,
+        "num": 305530,
+        "word": "机器人头掉后坚强无头奔跑",
+        "onboard_time": 1745033601,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 279329,
+        "num": 279329,
+        "word": "女生攒2斤3两脱发卖1万多元",
+        "onboard_time": 1745020280,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268198,
+        "num": 268198,
+        "word": "怡丽丝尔 鞠婧祎",
+        "onboard_time": 1745030542,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256142,
+        "num": 256142,
+        "word": "官方通报女子伸腿阻止高铁关门",
+        "onboard_time": 1745034502,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88340,
+        "num": 255239,
+        "word": "天工机器人CEO回应半马第一名",
+        "onboard_time": 1745036061,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 254903,
+        "num": 254903,
+        "word": "方大同过世后薛凯琪一醒就痛哭",
+        "onboard_time": 1745022741,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253393,
+        "num": 253393,
+        "word": "曾黎分享气血不足如何逛菜市场",
+        "onboard_time": 1745032881,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202252,
+        "num": 202252,
+        "word": "恋与深空",
+        "onboard_time": 1745036842,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 189707,
+        "num": 189707,
+        "word": "被黄奕47岁身材辣到",
+        "onboard_time": 1745029880,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 188147,
+        "num": 188147,
+        "word": "独行侠vs灰熊",
+        "onboard_time": 1745036842,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168204,
+        "num": 168204,
+        "word": "王祖贤在安徽老家捐建道路启动改造",
+        "onboard_time": 1745036181,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166983,
+        "num": 166983,
+        "word": "时代少年团海口站海报",
+        "onboard_time": 1745036241,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151781,
+        "num": 165768,
+        "word": "在李嘉琦身上看到来浪姐的意义",
+        "onboard_time": 1745032221,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148269,
+        "num": 164853,
+        "word": "林更新拆家本性偷偷藏不住",
+        "onboard_time": 1745035881,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141678,
+        "num": 162835,
+        "word": "科切拉",
+        "onboard_time": 1745036421,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 179049,
+        "num": 161959,
+        "word": "女子回应减30斤后撞脸王祖贤",
+        "onboard_time": 1745028802,
+        "rank": 30,
+        "category": "运动健身,艺人"
+      },
+      {
+        "raw_hot": 36221,
+        "num": 159917,
+        "word": "美国加关税是搬石头砸自己脚",
+        "onboard_time": 1744982901,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 159903,
+        "num": 159903,
+        "word": "一些容易长胖的睡前习惯",
+        "onboard_time": 1745023581,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 32313,
+        "num": 158306,
+        "word": "气候变暖如何危及大米安全",
+        "onboard_time": 1745035581,
+        "rank": 33,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 157319,
+        "num": 157319,
+        "word": "电影主题航班隐藏周深张艺兴彩蛋",
+        "onboard_time": 1745029281,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 91903,
+        "num": 150913,
+        "word": "成年人一天睡几个小时合适",
+        "onboard_time": 1745036781,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 149396,
+        "num": 149396,
+        "word": "宇树机器人摔倒站起继续比赛",
+        "onboard_time": 1745033662,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 144972,
+        "num": 144972,
+        "word": "赵露思红发自拍",
+        "onboard_time": 1745023222,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129195,
+        "num": 129195,
+        "word": "吉克隽逸一首歌让内娱多了一个歌手",
+        "onboard_time": 1745035642,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35524,
+        "num": 128028,
+        "word": "机器人马拉松跑姿高清现场",
+        "onboard_time": 1745036781,
+        "rank": 39,
+        "category": "数码,民生新闻"
+      },
+      {
+        "raw_hot": 126980,
+        "num": 126980,
+        "word": "周深新巡演",
+        "onboard_time": 1745034383,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 140624,
+        "num": 125878,
+        "word": "4名中国女生力压美国队夺金",
+        "onboard_time": 1745034201,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 124071,
+        "num": 124071,
+        "word": "前夫对韦雪撒娇",
+        "onboard_time": 1745033180,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 126756,
+        "num": 123936,
+        "word": "王者荣耀",
+        "onboard_time": 1745019319,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 123570,
+        "num": 123570,
+        "word": "掉头要不要等红灯",
+        "onboard_time": 1745027181,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119363,
+        "num": 119363,
+        "word": "最好哭的he出现了",
+        "onboard_time": 1745032582,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119290,
+        "num": 119290,
+        "word": "成都七中女生夺四川EGMO首金",
+        "onboard_time": 1745036301,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 116060,
+        "num": 116060,
+        "word": "王楚钦vs雨果",
+        "onboard_time": 1745036722,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112942,
+        "num": 112942,
+        "word": "向鱼缺席首发",
+        "onboard_time": 1745035522,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 110556,
+        "num": 110556,
+        "word": "百万网红王炳然离婚",
+        "onboard_time": 1745032523,
+        "rank": 49,
+        "category": "网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席访问柬埔寨精彩瞬间#"
+    }
+  }
+}

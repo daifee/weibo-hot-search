@@ -1,6 +1,6 @@
 {
   "startTime": 1744993775892,
-  "endTime": 1745034462946,
+  "endTime": 1745036891735,
   "band_list": [
     {
       "raw_hot": 2817932,
@@ -9,6 +9,14 @@
       "onboard_time": 1744979242,
       "rank": 3,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1575120,
+      "num": 1575120,
+      "word": "中方把波音飞机退回美国",
+      "onboard_time": 1745033180,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1318217,
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 1101182,
-      "num": 377304,
+      "num": 422583,
       "word": "杜淳老婆自曝不拍戏的原因",
       "onboard_time": 1745029342,
       "rank": 10,
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 904927,
-      "num": 372085,
+      "num": 422496,
       "word": "女子被轮胎撞死时正和丈夫停车休整",
       "onboard_time": 1745018058,
       "rank": 10,
@@ -65,14 +73,6 @@
       "onboard_time": 1745022741,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 757791,
-      "num": 757791,
-      "word": "中方把波音飞机退回美国",
-      "onboard_time": 1745033180,
-      "rank": 32,
-      "category": "国内时政"
     },
     {
       "raw_hot": 693435,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 653187,
-      "num": 372857,
+      "num": 421488,
       "word": "蔡徐坤 熊猫",
       "onboard_time": 1745029161,
       "rank": 12,
@@ -123,8 +123,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 612216,
+      "num": 612216,
+      "word": "女子踏青患怪病高烧呕吐多器官损害",
+      "onboard_time": 1745032041,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 573881,
-      "num": 363709,
+      "num": 421012,
       "word": "福建9岁女孩腹痛3天查出体内大量积血",
       "onboard_time": 1745030841,
       "rank": 30,
@@ -163,14 +171,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 489461,
-      "num": 489461,
-      "word": "女子踏青患怪病高烧呕吐多器官损害",
-      "onboard_time": 1745032041,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 485552,
       "num": 485552,
       "word": "日本多地发生无差别杀人事件",
@@ -201,6 +201,30 @@
       "onboard_time": 1745029880,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 437084,
+      "num": 437084,
+      "word": "董子健被邓超孙俪混合双打",
+      "onboard_time": 1745033482,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 429873,
+      "num": 429873,
+      "word": "女子阻止高铁关门相关部门介入调查",
+      "onboard_time": 1745033902,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 414744,
+      "num": 423253,
+      "word": "美国终于让欧洲上桌了",
+      "onboard_time": 1745034982,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 406171,
@@ -283,6 +307,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 329813,
+      "num": 424090,
+      "word": "第一次喜欢oe的大结局",
+      "onboard_time": 1745034922,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 322203,
       "num": 322203,
       "word": "女子回应减30斤后撞脸王祖贤",
@@ -297,6 +329,14 @@
       "onboard_time": 1744985003,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 305530,
+      "num": 330978,
+      "word": "机器人头掉后坚强无头奔跑",
+      "onboard_time": 1745033601,
+      "rank": 28,
+      "category": "数码"
     },
     {
       "raw_hot": 304642,
@@ -340,19 +380,11 @@
     },
     {
       "raw_hot": 271735,
-      "num": 250587,
+      "num": 268198,
       "word": "怡丽丝尔 鞠婧祎",
       "onboard_time": 1745030542,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 269660,
-      "num": 330978,
-      "word": "机器人头掉后坚强无头奔跑",
-      "onboard_time": 1745033601,
-      "rank": 28,
-      "category": "数码"
     },
     {
       "raw_hot": 269340,
@@ -363,20 +395,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 256142,
+      "num": 256142,
+      "word": "官方通报女子伸腿阻止高铁关门",
+      "onboard_time": 1745034502,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 251930,
       "num": 381941,
       "word": "沈腾玲花他俩手拉手了",
       "onboard_time": 1745022141,
       "rank": 7,
       "category": "电影"
-    },
-    {
-      "raw_hot": 251801,
-      "num": 358615,
-      "word": "董子健被邓超孙俪混合双打",
-      "onboard_time": 1745033482,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 250681,
@@ -499,6 +531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202252,
+      "num": 202252,
+      "word": "恋与深空",
+      "onboard_time": 1745036842,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 201861,
       "num": 358318,
       "word": "电影射雕英雄传侠之大者",
@@ -537,6 +577,14 @@
       "onboard_time": 1745026881,
       "rank": 18,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 188147,
+      "num": 188147,
+      "word": "独行侠vs灰熊",
+      "onboard_time": 1745036842,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 187813,
@@ -611,6 +659,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 168204,
+      "num": 168204,
+      "word": "王祖贤在安徽老家捐建道路启动改造",
+      "onboard_time": 1745036181,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 166983,
+      "num": 166983,
+      "word": "时代少年团海口站海报",
+      "onboard_time": 1745036241,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 164842,
       "num": 317478,
       "word": "首次人机共跑半马",
@@ -651,6 +715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157319,
+      "num": 157319,
+      "word": "电影主题航班隐藏周深张艺兴彩蛋",
+      "onboard_time": 1745029281,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 156867,
       "num": 156867,
       "word": "蒲熠星超百万逆应援",
@@ -667,12 +739,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 145697,
-      "num": 145697,
-      "word": "女子阻止高铁关门相关部门介入调查",
-      "onboard_time": 1745033902,
-      "rank": 38,
-      "category": "民生新闻"
+      "raw_hot": 149396,
+      "num": 323653,
+      "word": "宇树机器人摔倒站起继续比赛",
+      "onboard_time": 1745033662,
+      "rank": 27,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 148269,
+      "num": 164853,
+      "word": "林更新拆家本性偷偷藏不住",
+      "onboard_time": 1745035881,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 143396,
@@ -699,12 +779,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 141678,
+      "num": 162835,
+      "word": "科切拉",
+      "onboard_time": 1745036421,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 140727,
       "num": 169435,
       "word": "奔跑吧",
       "onboard_time": 1745031263,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140624,
+      "num": 130258,
+      "word": "4名中国女生力压美国队夺金",
+      "onboard_time": 1745034201,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 138915,
@@ -771,20 +867,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 130258,
-      "num": 130258,
-      "word": "4名中国女生力压美国队夺金",
-      "onboard_time": 1745034201,
-      "rank": 45,
-      "category": "教育"
-    },
-    {
       "raw_hot": 129280,
       "num": 188270,
       "word": "周深的小美满已经唱到大海了",
       "onboard_time": 1745030421,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 129195,
+      "num": 129195,
+      "word": "吉克隽逸一首歌让内娱多了一个歌手",
+      "onboard_time": 1745035642,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 128853,
@@ -835,6 +931,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 119290,
+      "num": 119290,
+      "word": "成都七中女生夺四川EGMO首金",
+      "onboard_time": 1745036301,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 118949,
       "num": 118949,
       "word": "波波维奇突然晕倒",
@@ -859,6 +963,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 116060,
+      "num": 116060,
+      "word": "王楚钦vs雨果",
+      "onboard_time": 1745036722,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114666,
       "num": 123433,
       "word": "胡杏儿演蛮好的人生演爽了",
@@ -873,6 +985,14 @@
       "onboard_time": 1744992861,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 112942,
+      "num": 112942,
+      "word": "向鱼缺席首发",
+      "onboard_time": 1745035522,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 112413,
@@ -987,6 +1107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 91903,
+      "num": 150913,
+      "word": "成年人一天睡几个小时合适",
+      "onboard_time": 1745036781,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 91874,
       "num": 91874,
       "word": "杭州买500万的房子可省10万",
@@ -1035,6 +1163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88340,
+      "num": 255239,
+      "word": "天工机器人CEO回应半马第一名",
+      "onboard_time": 1745036061,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 86568,
       "num": 86568,
       "word": "巴西打算替代美国成供应国",
@@ -1081,14 +1217,6 @@
       "onboard_time": 1745028442,
       "rank": 45,
       "category": "运动健身,互联网"
-    },
-    {
-      "raw_hot": 80957,
-      "num": 323653,
-      "word": "宇树机器人摔倒站起继续比赛",
-      "onboard_time": 1745033662,
-      "rank": 27,
-      "category": "数码"
     },
     {
       "raw_hot": 78969,
@@ -1299,6 +1427,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 35524,
+      "num": 128028,
+      "word": "机器人马拉松跑姿高清现场",
+      "onboard_time": 1745036781,
+      "rank": 39,
+      "category": "数码,民生新闻"
+    },
+    {
       "raw_hot": 34494,
       "num": 34494,
       "word": "入职民办高校北大博主发声",
@@ -1313,6 +1449,14 @@
       "onboard_time": 1745026281,
       "rank": 19,
       "category": "教育"
+    },
+    {
+      "raw_hot": 32313,
+      "num": 158306,
+      "word": "气候变暖如何危及大米安全",
+      "onboard_time": 1745035581,
+      "rank": 33,
+      "category": "科学科普"
     },
     {
       "raw_hot": 31987,
@@ -1459,6 +1603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 12390,
+      "num": 620837,
+      "word": "中方敦促美方停止甩锅",
+      "onboard_time": 1744993341,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 11230,
       "num": 302240,
       "word": "早晨第一件事做啥能让全天效率翻倍",
@@ -1481,6 +1633,9 @@
     },
     {
       "word": "#构建新时代全天候中柬命运共同体#"
+    },
+    {
+      "word": "#习近平主席访问柬埔寨精彩瞬间#"
     }
   ]
 }
