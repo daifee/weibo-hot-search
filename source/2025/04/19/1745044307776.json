@@ -1,0 +1,410 @@
+{
+  "runTime": 1745044307776,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1079175,
+        "num": 1172668,
+        "word": "中方把波音飞机退回美国",
+        "onboard_time": 1745033180,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 714745,
+        "num": 714745,
+        "word": "陈德容 日子怎么可能和谁过都一样",
+        "onboard_time": 1745043441,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96386,
+        "num": 695329,
+        "word": "外企把中国当作必须进入的战略市场",
+        "onboard_time": 1745037142,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 684926,
+        "num": 684926,
+        "word": "美墨边境开始走私鸡蛋了",
+        "onboard_time": 1745041401,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 493123,
+        "num": 493123,
+        "word": "这些居然是王珞丹拍的",
+        "onboard_time": 1745038643,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 397167,
+        "num": 397167,
+        "word": "官方通报女子伸腿阻止高铁关门",
+        "onboard_time": 1745034502,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 471229,
+        "num": 378299,
+        "word": "内娱开始搞相亲选秀了",
+        "onboard_time": 1745039961,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 310193,
+        "num": 310193,
+        "word": "黄河水不黄了",
+        "onboard_time": 1745028021,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284944,
+        "num": 284944,
+        "word": "关税亲历者自述美国客户仍在下单",
+        "onboard_time": 1745039002,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 218747,
+        "num": 218747,
+        "word": "美国人开始去墨西哥寻鸡蛋",
+        "onboard_time": 1745042421,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1076911,
+        "num": 218736,
+        "word": "卡黄",
+        "onboard_time": 1745036901,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 483898,
+        "num": 218233,
+        "word": "韩国女子用尿布糊老师脸获刑6个月",
+        "onboard_time": 1745040440,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 279271,
+        "num": 217797,
+        "word": "女子阻止高铁关门相关部门介入调查",
+        "onboard_time": 1745033902,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 424727,
+        "num": 217457,
+        "word": "女子被轮胎撞死时正和丈夫停车休整",
+        "onboard_time": 1745018058,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181257,
+        "num": 217001,
+        "word": "蒯曼vs伊藤美诚",
+        "onboard_time": 1745037382,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 419556,
+        "num": 216629,
+        "word": "黄婷婷 李艺彤",
+        "onboard_time": 1745041700,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 414773,
+        "num": 216200,
+        "word": "杜淳老婆自曝不拍戏的原因",
+        "onboard_time": 1745029342,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 401633,
+        "num": 215845,
+        "word": "关晓彤已连续7年为鹿晗庆生",
+        "onboard_time": 1745044101,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54859,
+        "num": 215213,
+        "word": "这机器人还没长大怎么就来比赛了",
+        "onboard_time": 1745042481,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50577,
+        "num": 215067,
+        "word": "被跑马拉松的机器人可爱到了",
+        "onboard_time": 1745042541,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 293598,
+        "num": 214487,
+        "word": "黄奕一个月瘦了20斤",
+        "onboard_time": 1745036901,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214424,
+        "num": 214424,
+        "word": "被官二代顶替上大学女子做了律师",
+        "onboard_time": 1745020340,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213649,
+        "num": 213649,
+        "word": "美国终于让欧洲上桌了",
+        "onboard_time": 1745034982,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 206756,
+        "num": 206756,
+        "word": "导演称折腰下旬播",
+        "onboard_time": 1745043321,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189206,
+        "num": 189206,
+        "word": "女子踏青患怪病高烧呕吐多器官损害",
+        "onboard_time": 1745032041,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185054,
+        "num": 185054,
+        "word": "李依晓让柯淳不要演霸总和油腻",
+        "onboard_time": 1745043441,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32387,
+        "num": 179263,
+        "word": "小孩哥包揽机器人马拉松二三名",
+        "onboard_time": 1745044101,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 143434,
+        "num": 179228,
+        "word": "五哈",
+        "onboard_time": 1745037801,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99432,
+        "num": 179204,
+        "word": "谭维维我真的没空陪你闹了",
+        "onboard_time": 1745042301,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179196,
+        "num": 179196,
+        "word": "男子回应定制37克生娃金镯送妻子",
+        "onboard_time": 1745043021,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151092,
+        "num": 151092,
+        "word": "任嘉伦好尴尬笑一下算了",
+        "onboard_time": 1745043441,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 10896,
+        "num": 149326,
+        "word": "如何高效抢到票",
+        "onboard_time": 1745044160,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148722,
+        "num": 148722,
+        "word": "学生吐槽上了大学仍被圈养",
+        "onboard_time": 1745036961,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145192,
+        "num": 145192,
+        "word": "敖瑞鹏杨超越没有对比就没有伤害",
+        "onboard_time": 1745043501,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142784,
+        "num": 142784,
+        "word": "天工机器人半马冲线完赛",
+        "onboard_time": 1745031442,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139491,
+        "num": 139491,
+        "word": "女子等4年没做上手术靠止痛药硬扛",
+        "onboard_time": 1745043800,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 136872,
+        "num": 136872,
+        "word": "NBA季后赛",
+        "onboard_time": 1745042961,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132634,
+        "num": 132634,
+        "word": "肖战说见徐克导演两次拿到郭靖角色",
+        "onboard_time": 1745041941,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137430,
+        "num": 130747,
+        "word": "周深前脚收官后脚官宣",
+        "onboard_time": 1745043321,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 45068,
+        "num": 126491,
+        "word": "眼睛干不是缺水可能是缺油",
+        "onboard_time": 1745043740,
+        "rank": 39,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 124739,
+        "num": 124739,
+        "word": "乌克兰放弃世界第三大核武器库",
+        "onboard_time": 1745026641,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 124460,
+        "num": 124460,
+        "word": "这居然是赵又廷",
+        "onboard_time": 1745036901,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81073,
+        "num": 124072,
+        "word": "为什么很多胃癌发现时已是晚期",
+        "onboard_time": 1745042961,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 123854,
+        "num": 123854,
+        "word": "蔡徐坤 熊猫",
+        "onboard_time": 1745029161,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116283,
+        "num": 116283,
+        "word": "时代少年团演唱会抢票",
+        "onboard_time": 1745036901,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 114292,
+        "num": 114292,
+        "word": "韩国偶遇林一逛街",
+        "onboard_time": 1745043982,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112804,
+        "num": 112804,
+        "word": "摆摊男演员说现在有点骑虎难下了",
+        "onboard_time": 1745044221,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111117,
+        "num": 111117,
+        "word": "林俊杰首尔加场",
+        "onboard_time": 1745043321,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 102925,
+        "num": 102925,
+        "word": "章若楠春日少女妆",
+        "onboard_time": 1745043921,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 101861,
+        "num": 101861,
+        "word": "papi说朱丹英语上不去都怪尚雯婕",
+        "onboard_time": 1745040201,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席访问柬埔寨精彩瞬间#"
+    }
+  }
+}

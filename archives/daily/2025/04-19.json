@@ -1,6 +1,6 @@
 {
   "startTime": 1744993775892,
-  "endTime": 1745041253823,
+  "endTime": 1745044307776,
   "band_list": [
     {
       "raw_hot": 2817932,
@@ -83,12 +83,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 714745,
+      "num": 714745,
+      "word": "陈德容 日子怎么可能和谁过都一样",
+      "onboard_time": 1745043441,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 693435,
       "num": 349701,
       "word": "任敏好辣",
       "onboard_time": 1744987824,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 684926,
+      "num": 684926,
+      "word": "美墨边境开始走私鸡蛋了",
+      "onboard_time": 1745041401,
+      "rank": 3,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 676032,
@@ -219,6 +235,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 483898,
+      "num": 218233,
+      "word": "韩国女子用尿布糊老师脸获刑6个月",
+      "onboard_time": 1745040440,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 475918,
       "num": 475918,
       "word": "天工机器人半马冲线完赛",
@@ -233,6 +257,14 @@
       "onboard_time": 1745034982,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 471229,
+      "num": 378299,
+      "word": "内娱开始搞相亲选秀了",
+      "onboard_time": 1745039961,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 470405,
@@ -267,6 +299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 419556,
+      "num": 216629,
+      "word": "黄婷婷 李艺彤",
+      "onboard_time": 1745041700,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 406171,
       "num": 362128,
       "word": "阚清子说前几年拍戏女主得男主定",
@@ -281,6 +321,14 @@
       "onboard_time": 1745039002,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 401633,
+      "num": 215845,
+      "word": "关晓彤已连续7年为鹿晗庆生",
+      "onboard_time": 1745044101,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 386014,
@@ -483,14 +531,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 258620,
-      "num": 351952,
-      "word": "内娱开始搞相亲选秀了",
-      "onboard_time": 1745039961,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 251930,
       "num": 381941,
       "word": "沈腾玲花他俩手拉手了",
@@ -603,6 +643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 218747,
+      "num": 218747,
+      "word": "美国人开始去墨西哥寻鸡蛋",
+      "onboard_time": 1745042421,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 213630,
       "num": 213630,
       "word": "孙珍妮回应脸肿",
@@ -625,6 +673,14 @@
       "onboard_time": 1744991842,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 206756,
+      "num": 206756,
+      "word": "导演称折腰下旬播",
+      "onboard_time": 1745043321,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 205253,
@@ -715,6 +771,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 185054,
+      "num": 185054,
+      "word": "李依晓让柯淳不要演霸总和油腻",
+      "onboard_time": 1745043441,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184357,
       "num": 184357,
       "word": "第一次见奥特曼开演唱会",
@@ -739,12 +803,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 181257,
+      "num": 217001,
+      "word": "蒯曼vs伊藤美诚",
+      "onboard_time": 1745037382,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 179680,
       "num": 179680,
       "word": "急性子的人办事有多麻利",
       "onboard_time": 1745038581,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 179196,
+      "num": 179196,
+      "word": "男子回应定制37克生娃金镯送妻子",
+      "onboard_time": 1745043021,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 178691,
@@ -851,14 +931,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 158211,
-      "num": 158211,
-      "word": "韩国女子用尿布糊老师脸获刑6个月",
-      "onboard_time": 1745040440,
-      "rank": 32,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 157319,
       "num": 157319,
       "word": "电影主题航班隐藏周深张艺兴彩蛋",
@@ -881,6 +953,14 @@
       "onboard_time": 1745036961,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151092,
+      "num": 151092,
+      "word": "任嘉伦好尴尬笑一下算了",
+      "onboard_time": 1745043441,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 149592,
@@ -931,6 +1011,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 145192,
+      "num": 145192,
+      "word": "敖瑞鹏杨超越没有对比就没有伤害",
+      "onboard_time": 1745043501,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143396,
       "num": 143396,
       "word": "陈德容 我没有跳个大概",
@@ -953,14 +1041,6 @@
       "onboard_time": 1745026582,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 141997,
-      "num": 141997,
-      "word": "蒯曼vs伊藤美诚",
-      "onboard_time": 1745037382,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 141868,
@@ -987,6 +1067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139491,
+      "num": 139491,
+      "word": "女子等4年没做上手术靠止痛药硬扛",
+      "onboard_time": 1745043800,
+      "rank": 35,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 139427,
       "num": 139427,
       "word": "孟子义李昀锐夏日大片",
@@ -1011,12 +1099,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 137430,
+      "num": 130747,
+      "word": "周深前脚收官后脚官宣",
+      "onboard_time": 1745043321,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 136901,
       "num": 136901,
       "word": "国色芳华湖南卫视Q1收视冠军",
       "onboard_time": 1745040921,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136872,
+      "num": 136872,
+      "word": "NBA季后赛",
+      "onboard_time": 1745042961,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 135336,
@@ -1057,6 +1161,14 @@
       "onboard_time": 1745040620,
       "rank": 40,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 132634,
+      "num": 132634,
+      "word": "肖战说见徐克导演两次拿到郭靖角色",
+      "onboard_time": 1745041941,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 130953,
@@ -1227,6 +1339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114292,
+      "num": 114292,
+      "word": "韩国偶遇林一逛街",
+      "onboard_time": 1745043982,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 114048,
       "num": 114048,
       "word": "王源姚晓棠就这样唱到下一个天亮",
@@ -1241,6 +1361,14 @@
       "onboard_time": 1745035522,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 112804,
+      "num": 112804,
+      "word": "摆摊男演员说现在有点骑虎难下了",
+      "onboard_time": 1745044221,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112413,
@@ -1273,6 +1401,14 @@
       "onboard_time": 1744990222,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 111117,
+      "num": 111117,
+      "word": "林俊杰首尔加场",
+      "onboard_time": 1745043321,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 110080,
@@ -1323,6 +1459,14 @@
       "category": "幽默,民生新闻"
     },
     {
+      "raw_hot": 102925,
+      "num": 102925,
+      "word": "章若楠春日少女妆",
+      "onboard_time": 1745043921,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 102111,
       "num": 102111,
       "word": "奔跑吧夏日度假大片",
@@ -1337,6 +1481,14 @@
       "onboard_time": 1744982901,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 99432,
+      "num": 179204,
+      "word": "谭维维我真的没空陪你闹了",
+      "onboard_time": 1745042301,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 98470,
@@ -1483,6 +1635,14 @@
       "category": "运动健身,互联网"
     },
     {
+      "raw_hot": 81073,
+      "num": 124072,
+      "word": "为什么很多胃癌发现时已是晚期",
+      "onboard_time": 1745042961,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 78969,
       "num": 199160,
       "word": "咖啡和牛奶哪个对身体好",
@@ -1619,6 +1779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 54859,
+      "num": 215213,
+      "word": "这机器人还没长大怎么就来比赛了",
+      "onboard_time": 1745042481,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53874,
       "num": 53874,
       "word": "男孩吃辣条后嘴唇起泡结黑痂无法张嘴",
@@ -1641,6 +1809,14 @@
       "onboard_time": 1745002875,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50577,
+      "num": 215067,
+      "word": "被跑马拉松的机器人可爱到了",
+      "onboard_time": 1745042541,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 50492,
@@ -1707,6 +1883,14 @@
       "category": "民生新闻,运动健身"
     },
     {
+      "raw_hot": 45068,
+      "num": 126491,
+      "word": "眼睛干不是缺水可能是缺油",
+      "onboard_time": 1745043740,
+      "rank": 39,
+      "category": "健康医疗,民生新闻"
+    },
+    {
       "raw_hot": 43932,
       "num": 43932,
       "word": "Uzi喊话Ale写检讨",
@@ -1753,6 +1937,14 @@
       "onboard_time": 1745026281,
       "rank": 19,
       "category": "教育"
+    },
+    {
+      "raw_hot": 32387,
+      "num": 179263,
+      "word": "小孩哥包揽机器人马拉松二三名",
+      "onboard_time": 1745044101,
+      "rank": 26,
+      "category": "数码"
     },
     {
       "raw_hot": 32313,
@@ -1945,6 +2137,14 @@
       "onboard_time": 1745031683,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 10896,
+      "num": 149326,
+      "word": "如何高效抢到票",
+      "onboard_time": 1745044160,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10568,
