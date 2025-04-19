@@ -1,6 +1,6 @@
 {
   "startTime": 1744993775892,
-  "endTime": 1745069350915,
+  "endTime": 1745070000715,
   "band_list": [
     {
       "raw_hot": 7793574,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2193941,
-      "num": 602930,
+      "num": 1179969,
       "word": "韩庚卢靖姗分房睡",
       "onboard_time": 1745067323,
       "rank": 12,
@@ -60,11 +60,19 @@
     },
     {
       "raw_hot": 1500458,
-      "num": 540425,
+      "num": 1167469,
       "word": "桃黑黑回应小盐巴闭店",
       "onboard_time": 1745063181,
       "rank": 3,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1374136,
+      "num": 1374136,
+      "word": "快删除手机里的这些APP",
+      "onboard_time": 1745066722,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1334518,
@@ -73,6 +81,14 @@
       "onboard_time": 1745048543,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1320488,
+      "num": 1320488,
+      "word": "梁靖崑vs林诗栋",
+      "onboard_time": 1745067142,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 1318217,
@@ -108,18 +124,10 @@
     },
     {
       "raw_hot": 1150445,
-      "num": 253196,
+      "num": 353200,
       "word": "22岁女子无实质性生活发现怀孕",
       "onboard_time": 1745058502,
       "rank": 20,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1148985,
-      "num": 1183837,
-      "word": "快删除手机里的这些APP",
-      "onboard_time": 1745066722,
-      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -137,14 +145,6 @@
       "onboard_time": 1745026641,
       "rank": 23,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 963179,
-      "num": 963179,
-      "word": "梁靖崑vs林诗栋",
-      "onboard_time": 1745067142,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 942806,
@@ -299,6 +299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 626912,
+      "num": 368897,
+      "word": "张丹峰 洪欣",
+      "onboard_time": 1745069543,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 624564,
       "num": 624564,
       "word": "女生攒2斤3两脱发卖1万多元",
@@ -395,6 +403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 517689,
+      "num": 517689,
+      "word": "孙颖莎说决赛会是一场苦战",
+      "onboard_time": 1745066542,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 510450,
       "num": 510450,
       "word": "美国公布罗伯特肯尼迪遇刺案记录",
@@ -409,6 +425,14 @@
       "onboard_time": 1744985843,
       "rank": 4,
       "category": "电影"
+    },
+    {
+      "raw_hot": 491176,
+      "num": 491176,
+      "word": "全网最丢脸的风筝出现了",
+      "onboard_time": 1745064260,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 485552,
@@ -459,14 +483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 470827,
-      "num": 470827,
-      "word": "全网最丢脸的风筝出现了",
-      "onboard_time": 1745064260,
-      "rank": 16,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 470405,
       "num": 183211,
       "word": "深圳一程序员4年不租房睡车里",
@@ -515,6 +531,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 430570,
+      "num": 366315,
+      "word": "卡琳娜当着哪吒面吃藕粉",
+      "onboard_time": 1745067383,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 428720,
+      "num": 428720,
+      "word": "日贸易代表送特朗普中国产礼物",
+      "onboard_time": 1745065762,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 426932,
       "num": 426932,
       "word": "董宇辉首获人民文学奖",
@@ -537,14 +569,6 @@
       "onboard_time": 1745054782,
       "rank": 12,
       "category": "情感"
-    },
-    {
-      "raw_hot": 422184,
-      "num": 422184,
-      "word": "日贸易代表送特朗普中国产礼物",
-      "onboard_time": 1745065762,
-      "rank": 31,
-      "category": "国际时政"
     },
     {
       "raw_hot": 419556,
@@ -603,14 +627,6 @@
       "category": "艺人,民生新闻"
     },
     {
-      "raw_hot": 385667,
-      "num": 385667,
-      "word": "孙颖莎说决赛会是一场苦战",
-      "onboard_time": 1745066542,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 384985,
       "num": 384985,
       "word": "第一次见表白往脖子盖章的",
@@ -649,6 +665,14 @@
       "onboard_time": 1745052324,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 373421,
+      "num": 373421,
+      "word": "萤火虫价格",
+      "onboard_time": 1745068823,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 373007,
@@ -723,6 +747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 352766,
+      "num": 352766,
+      "word": "杨幂直播",
+      "onboard_time": 1745068283,
+      "rank": 16,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 348245,
       "num": 299892,
       "word": "陈都灵珠海",
@@ -731,20 +763,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 348225,
+      "num": 348225,
+      "word": "王楚钦说为什么全是擦网",
+      "onboard_time": 1745069725,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 346519,
       "num": 346519,
       "word": "特朗普妄想威胁他国别买中国货",
       "onboard_time": 1745019380,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 344238,
-      "num": 344238,
-      "word": "卡琳娜当着哪吒面吃藕粉",
-      "onboard_time": 1745067383,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 343558,
@@ -875,6 +907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 302085,
+      "num": 356739,
+      "word": "梁靖崑15比13林诗栋",
+      "onboard_time": 1745069124,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 298828,
       "num": 298828,
       "word": "短剧吻戏",
@@ -985,14 +1025,6 @@
       "onboard_time": 1745064382,
       "rank": 9,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 266037,
-      "num": 266037,
-      "word": "杨幂直播",
-      "onboard_time": 1745068283,
-      "rank": 16,
-      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 265466,
@@ -1131,14 +1163,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 245988,
-      "num": 245988,
-      "word": "萤火虫价格",
-      "onboard_time": 1745068823,
-      "rank": 18,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 244044,
       "num": 244044,
       "word": "为什么年轻人越来越能接受相亲了",
@@ -1227,6 +1251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 225938,
+      "num": 225938,
+      "word": "林俊杰音乐节",
+      "onboard_time": 1745068883,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 225786,
       "num": 225786,
       "word": "孙俪妈妈羡慕孙俪和马龙合影",
@@ -1249,6 +1281,14 @@
       "onboard_time": 1744990703,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 215566,
+      "num": 215566,
+      "word": "热量比肉还高的水果",
+      "onboard_time": 1745068703,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 213630,
@@ -1283,6 +1323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210663,
+      "num": 210663,
+      "word": "登陆少年请粉丝保持冷静",
+      "onboard_time": 1745069304,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 208908,
       "num": 208908,
       "word": "无忧渡",
@@ -1305,6 +1353,14 @@
       "onboard_time": 1745061982,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 207074,
+      "num": 207074,
+      "word": "B太再回应说东北雨姐真实",
+      "onboard_time": 1745069184,
+      "rank": 46,
+      "category": "网红"
     },
     {
       "raw_hot": 206756,
@@ -1403,6 +1459,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 196229,
+      "num": 196229,
+      "word": "丁禹兮批改作业式饭撒",
+      "onboard_time": 1745069003,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 193940,
       "num": 302693,
       "word": "王以太哭着感谢吉克隽逸",
@@ -1420,7 +1484,7 @@
     },
     {
       "raw_hot": 191421,
-      "num": 229126,
+      "num": 311195,
       "word": "极氪009光辉用黄金打造",
       "onboard_time": 1745067082,
       "rank": 28,
@@ -1507,12 +1571,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 184797,
-      "num": 184797,
-      "word": "热量比肉还高的水果",
-      "onboard_time": 1745068703,
-      "rank": 37,
-      "category": "健康医疗"
+      "raw_hot": 184661,
+      "num": 358471,
+      "word": "花22万娶越南新娘1周就跑了",
+      "onboard_time": 1745067744,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 184357,
@@ -1545,6 +1609,14 @@
       "onboard_time": 1744985362,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 182001,
+      "num": 182001,
+      "word": "孙颖莎半决赛赛后采访",
+      "onboard_time": 1745069725,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 181852,
@@ -1601,14 +1673,6 @@
       "onboard_time": 1745056222,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 175270,
-      "num": 175270,
-      "word": "花22万娶越南新娘1周就跑了",
-      "onboard_time": 1745067744,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 175102,
@@ -1675,14 +1739,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 169337,
-      "num": 169337,
-      "word": "林俊杰音乐节",
-      "onboard_time": 1745068883,
-      "rank": 41,
-      "category": "演出"
-    },
-    {
       "raw_hot": 168204,
       "num": 265420,
       "word": "王祖贤在安徽老家捐建道路启动改造",
@@ -1691,12 +1747,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167657,
+      "num": 167657,
+      "word": "我国进口澳大利亚谷饲牛肉增长40%",
+      "onboard_time": 1745068102,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 167599,
       "num": 167599,
       "word": "成都七中女生夺四川EGMO首金",
       "onboard_time": 1745036301,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 166731,
+      "num": 166731,
+      "word": "薛凯琪广州演唱会",
+      "onboard_time": 1745069364,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 165887,
@@ -1713,14 +1785,6 @@
       "onboard_time": 1745029581,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 164504,
-      "num": 164504,
-      "word": "丁禹兮批改作业式饭撒",
-      "onboard_time": 1745069003,
-      "rank": 43,
-      "category": "演出"
     },
     {
       "raw_hot": 162743,
@@ -1803,14 +1867,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 158572,
-      "num": 158572,
-      "word": "B太再回应说东北雨姐真实",
-      "onboard_time": 1745069184,
-      "rank": 46,
-      "category": "网红"
-    },
-    {
       "raw_hot": 157838,
       "num": 157838,
       "word": "虞书欣给摄影师买新相机",
@@ -1825,6 +1881,14 @@
       "onboard_time": 1745029281,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 157001,
+      "num": 157001,
+      "word": "刘芸北影节露肩高开叉裙",
+      "onboard_time": 1745069785,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 156950,
@@ -1865,14 +1929,6 @@
       "onboard_time": 1745036961,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 152419,
-      "num": 222544,
-      "word": "梁靖崑15比13林诗栋",
-      "onboard_time": 1745069124,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 151569,
@@ -1979,14 +2035,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 147649,
-      "num": 147649,
-      "word": "登陆少年请粉丝保持冷静",
-      "onboard_time": 1745069304,
-      "rank": 49,
-      "category": "演出"
-    },
-    {
       "raw_hot": 146033,
       "num": 146033,
       "word": "凡人修仙传",
@@ -2001,6 +2049,14 @@
       "onboard_time": 1745034201,
       "rank": 45,
       "category": "教育"
+    },
+    {
+      "raw_hot": 145417,
+      "num": 145417,
+      "word": "迪亚洛 杜锋",
+      "onboard_time": 1745069964,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 145192,
@@ -2073,6 +2129,14 @@
       "onboard_time": 1745036421,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 141093,
+      "num": 141093,
+      "word": "EDG对阵XLG",
+      "onboard_time": 1745069964,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 140775,
@@ -2939,6 +3003,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 96477,
+      "num": 364381,
+      "word": "有人贷款17万买黄金盈余过万",
+      "onboard_time": 1745069424,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96407,
       "num": 96407,
       "word": "泰国月租400元的家",
@@ -3243,6 +3315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65843,
+      "num": 371135,
+      "word": "美国金库里有黄金吗",
+      "onboard_time": 1745069665,
+      "rank": 11,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 63879,
       "num": 285305,
       "word": "奖励机器人一个机器人",
@@ -3507,6 +3587,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 40185,
+      "num": 632686,
+      "word": "我国外贸彰显韧性活力",
+      "onboard_time": 1745052564,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38596,
       "num": 182256,
       "word": "国漫画风刷新认知",
@@ -3579,14 +3667,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 31483,
-      "num": 632686,
-      "word": "我国外贸彰显韧性活力",
-      "onboard_time": 1745052564,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 30406,
       "num": 222747,
       "word": "人形机器人踏上最美马拉松路线",
@@ -3619,20 +3699,20 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 26878,
+      "num": 355383,
+      "word": "晚上喝奶茶会失眠吗",
+      "onboard_time": 1745069124,
+      "rank": 23,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 26492,
       "num": 175956,
       "word": "黄河水不黄了是啥原因",
       "onboard_time": 1745047821,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 25979,
-      "num": 224780,
-      "word": "晚上喝奶茶会失眠吗",
-      "onboard_time": 1745069124,
-      "rank": 23,
-      "category": "科学科普"
     },
     {
       "raw_hot": 25824,
@@ -3825,6 +3905,14 @@
       "onboard_time": 1745033962,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 5799,
+      "num": 1186532,
+      "word": "别人在算关税账我们在算创新账",
+      "onboard_time": 1745069964,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
@@ -3842,6 +3930,9 @@
     },
     {
       "word": "#中柬命运共同体有了新内涵#"
+    },
+    {
+      "word": "#习近平释家门口的相处之道#"
     }
   ]
 }

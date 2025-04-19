@@ -1,0 +1,410 @@
+{
+  "runTime": 1745070000715,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1374136,
+        "num": 1374136,
+        "word": "快删除手机里的这些APP",
+        "onboard_time": 1745066722,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1320488,
+        "num": 1320488,
+        "word": "梁靖崑vs林诗栋",
+        "onboard_time": 1745067142,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 5799,
+        "num": 1186532,
+        "word": "别人在算关税账我们在算创新账",
+        "onboard_time": 1745069964,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2031959,
+        "num": 1179969,
+        "word": "韩庚卢靖姗分房睡",
+        "onboard_time": 1745067323,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1167469,
+        "num": 1167469,
+        "word": "桃黑黑回应小盐巴闭店",
+        "onboard_time": 1745063181,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 517689,
+        "num": 517689,
+        "word": "孙颖莎说决赛会是一场苦战",
+        "onboard_time": 1745066542,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 686206,
+        "num": 516967,
+        "word": "张丹峰我家庭和睦和太太感情非常好",
+        "onboard_time": 1745063302,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 491176,
+        "num": 491176,
+        "word": "全网最丢脸的风筝出现了",
+        "onboard_time": 1745064260,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 428720,
+        "num": 428720,
+        "word": "日贸易代表送特朗普中国产礼物",
+        "onboard_time": 1745065762,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 373421,
+        "num": 373421,
+        "word": "萤火虫价格",
+        "onboard_time": 1745068823,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 473824,
+        "num": 371699,
+        "word": "关晓彤已连续7年为鹿晗庆生",
+        "onboard_time": 1745044101,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65843,
+        "num": 371135,
+        "word": "美国金库里有黄金吗",
+        "onboard_time": 1745069665,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 626912,
+        "num": 368897,
+        "word": "张丹峰 洪欣",
+        "onboard_time": 1745069543,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 430570,
+        "num": 366315,
+        "word": "卡琳娜当着哪吒面吃藕粉",
+        "onboard_time": 1745067383,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96477,
+        "num": 364381,
+        "word": "有人贷款17万买黄金盈余过万",
+        "onboard_time": 1745069424,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 419389,
+        "num": 363629,
+        "word": "王楚钦无缘澳门世界杯决赛",
+        "onboard_time": 1745051843,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 379728,
+        "num": 361179,
+        "word": "丁禹兮蓝发狼尾",
+        "onboard_time": 1745061621,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 184661,
+        "num": 358471,
+        "word": "花22万娶越南新娘1周就跑了",
+        "onboard_time": 1745067744,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 302085,
+        "num": 356739,
+        "word": "梁靖崑15比13林诗栋",
+        "onboard_time": 1745069124,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26878,
+        "num": 355383,
+        "word": "晚上喝奶茶会失眠吗",
+        "onboard_time": 1745069124,
+        "rank": 19,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 657238,
+        "num": 353200,
+        "word": "22岁女子无实质性生活发现怀孕",
+        "onboard_time": 1745058502,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 352766,
+        "num": 352766,
+        "word": "杨幂直播",
+        "onboard_time": 1745068283,
+        "rank": 21,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 350442,
+        "num": 350442,
+        "word": "章若楠去了五月天演唱会",
+        "onboard_time": 1745066063,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 348225,
+        "num": 348225,
+        "word": "王楚钦说为什么全是擦网",
+        "onboard_time": 1745069725,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90816,
+        "num": 311195,
+        "word": "极氪009光辉用黄金打造",
+        "onboard_time": 1745067082,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 302655,
+        "num": 302655,
+        "word": "无忧渡 合体剧宣",
+        "onboard_time": 1745059102,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 290528,
+        "num": 290528,
+        "word": "短剧吻戏",
+        "onboard_time": 1745067863,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245356,
+        "num": 245356,
+        "word": "子宫内膜癌发病率骤升",
+        "onboard_time": 1745064202,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 225938,
+        "num": 225938,
+        "word": "林俊杰音乐节",
+        "onboard_time": 1745068883,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 215566,
+        "num": 215566,
+        "word": "热量比肉还高的水果",
+        "onboard_time": 1745068703,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 213691,
+        "num": 213691,
+        "word": "1岁宝宝因太可爱被家人狂亲高烧不退",
+        "onboard_time": 1745063181,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210663,
+        "num": 210663,
+        "word": "登陆少年请粉丝保持冷静",
+        "onboard_time": 1745069304,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 207074,
+        "num": 207074,
+        "word": "B太再回应说东北雨姐真实",
+        "onboard_time": 1745069184,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 199709,
+        "num": 199709,
+        "word": "全身95%烧伤女孩订婚了",
+        "onboard_time": 1745050101,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196229,
+        "num": 196229,
+        "word": "丁禹兮批改作业式饭撒",
+        "onboard_time": 1745069003,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 183380,
+        "num": 183380,
+        "word": "男子试驾撞毁5辆豪车只为求职抵债",
+        "onboard_time": 1745051301,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182001,
+        "num": 182001,
+        "word": "孙颖莎半决赛赛后采访",
+        "onboard_time": 1745069725,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181231,
+        "num": 181231,
+        "word": "让体重逐渐下降的30个常识",
+        "onboard_time": 1745059881,
+        "rank": 37,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 167657,
+        "num": 167657,
+        "word": "我国进口澳大利亚谷饲牛肉增长40%",
+        "onboard_time": 1745068102,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166731,
+        "num": 166731,
+        "word": "薛凯琪广州演唱会",
+        "onboard_time": 1745069364,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 157001,
+        "num": 157001,
+        "word": "刘芸北影节露肩高开叉裙",
+        "onboard_time": 1745069785,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 40185,
+        "num": 153421,
+        "word": "我国外贸彰显韧性活力",
+        "onboard_time": 1745052564,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151226,
+        "num": 151226,
+        "word": "王楚钦再次冲击单打世界冠军失利",
+        "onboard_time": 1745058742,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151099,
+        "num": 151099,
+        "word": "李艺彤回应卡黄",
+        "onboard_time": 1745068644,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150584,
+        "num": 150584,
+        "word": "这居然是韩庚",
+        "onboard_time": 1745057962,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149249,
+        "num": 149249,
+        "word": "封神2亏损",
+        "onboard_time": 1745048543,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145417,
+        "num": 145417,
+        "word": "迪亚洛 杜锋",
+        "onboard_time": 1745069964,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144658,
+        "num": 144658,
+        "word": "黑色是张柏芝的统治区",
+        "onboard_time": 1745068223,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144413,
+        "num": 144413,
+        "word": "锦瑟",
+        "onboard_time": 1745068943,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 141093,
+        "num": 141093,
+        "word": "EDG对阵XLG",
+        "onboard_time": 1745069964,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平释家门口的相处之道#"
+    }
+  }
+}
