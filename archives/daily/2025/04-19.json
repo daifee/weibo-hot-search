@@ -1,6 +1,6 @@
 {
   "startTime": 1744993775892,
-  "endTime": 1745044307776,
+  "endTime": 1745045120966,
   "band_list": [
     {
       "raw_hot": 2817932,
@@ -17,6 +17,14 @@
       "onboard_time": 1745033180,
       "rank": 32,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1459392,
+      "num": 267923,
+      "word": "关晓彤已连续7年为鹿晗庆生",
+      "onboard_time": 1745044101,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 1318217,
@@ -83,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 746953,
+      "num": 746953,
+      "word": "美墨边境开始走私鸡蛋了",
+      "onboard_time": 1745041401,
+      "rank": 3,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 714745,
       "num": 714745,
       "word": "陈德容 日子怎么可能和谁过都一样",
@@ -97,14 +113,6 @@
       "onboard_time": 1744987824,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 684926,
-      "num": 684926,
-      "word": "美墨边境开始走私鸡蛋了",
-      "onboard_time": 1745041401,
-      "rank": 3,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 676032,
@@ -236,7 +244,7 @@
     },
     {
       "raw_hot": 483898,
-      "num": 218233,
+      "num": 262923,
       "word": "韩国女子用尿布糊老师脸获刑6个月",
       "onboard_time": 1745040440,
       "rank": 32,
@@ -300,7 +308,7 @@
     },
     {
       "raw_hot": 419556,
-      "num": 216629,
+      "num": 259260,
       "word": "黄婷婷 李艺彤",
       "onboard_time": 1745041700,
       "rank": 15,
@@ -321,14 +329,6 @@
       "onboard_time": 1745039002,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 401633,
-      "num": 215845,
-      "word": "关晓彤已连续7年为鹿晗庆生",
-      "onboard_time": 1745044101,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 386014,
@@ -523,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 269535,
+      "num": 269535,
+      "word": "蒯曼vs伊藤美诚",
+      "onboard_time": 1745037382,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 269340,
       "num": 372505,
       "word": "吴宣仪听到自己第一的反应",
@@ -553,6 +561,14 @@
       "onboard_time": 1744995618,
       "rank": 5,
       "category": "演出"
+    },
+    {
+      "raw_hot": 247913,
+      "num": 247913,
+      "word": "美国人开始去墨西哥寻鸡蛋",
+      "onboard_time": 1745042421,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 247101,
@@ -611,6 +627,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 236883,
+      "num": 236883,
+      "word": "李依晓让柯淳不要演霸总和油腻",
+      "onboard_time": 1745043441,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 229296,
       "num": 275453,
       "word": "时代少年团海口站海报",
@@ -641,14 +665,6 @@
       "onboard_time": 1744990703,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 218747,
-      "num": 218747,
-      "word": "美国人开始去墨西哥寻鸡蛋",
-      "onboard_time": 1745042421,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 213630,
@@ -691,6 +707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205046,
+      "num": 205046,
+      "word": "特朗普回应黄仁勋访华",
+      "onboard_time": 1745044642,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 203814,
       "num": 291610,
       "word": "papi说朱丹英语上不去都怪尚雯婕",
@@ -720,6 +744,14 @@
       "word": "王以太哭着感谢吉克隽逸",
       "onboard_time": 1745031081,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 192412,
+      "num": 170095,
+      "word": "谢娜发文向张小婉管乐解释",
+      "onboard_time": 1745044701,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -771,14 +803,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 185054,
-      "num": 185054,
-      "word": "李依晓让柯淳不要演霸总和油腻",
-      "onboard_time": 1745043441,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 184357,
       "num": 184357,
       "word": "第一次见奥特曼开演唱会",
@@ -801,14 +825,6 @@
       "onboard_time": 1744990402,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 181257,
-      "num": 217001,
-      "word": "蒯曼vs伊藤美诚",
-      "onboard_time": 1745037382,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 179680,
@@ -859,6 +875,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 173329,
+      "num": 173329,
+      "word": "韩国偶遇林一逛街",
+      "onboard_time": 1745043982,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 170054,
+      "num": 170054,
+      "word": "女子等4年没做上手术靠止痛药硬扛",
+      "onboard_time": 1745043800,
+      "rank": 35,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 169454,
       "num": 356072,
       "word": "业内评关晓彤王安宇表演出彩",
@@ -868,7 +900,7 @@
     },
     {
       "raw_hot": 168204,
-      "num": 168204,
+      "num": 265420,
       "word": "王祖贤在安徽老家捐建道路启动改造",
       "onboard_time": 1745036181,
       "rank": 25,
@@ -979,6 +1011,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 148409,
+      "num": 148409,
+      "word": "摆摊男演员说现在有点骑虎难下了",
+      "onboard_time": 1745044221,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148269,
       "num": 164853,
       "word": "林更新拆家本性偷偷藏不住",
@@ -1067,14 +1107,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 139491,
-      "num": 139491,
-      "word": "女子等4年没做上手术靠止痛药硬扛",
-      "onboard_time": 1745043800,
-      "rank": 35,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 139427,
       "num": 139427,
       "word": "孟子义李昀锐夏日大片",
@@ -1153,6 +1185,14 @@
       "onboard_time": 1744984283,
       "rank": 33,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 134103,
+      "num": 170110,
+      "word": "吴磊拥抱小时候的自己",
+      "onboard_time": 1745044820,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 132862,
@@ -1315,6 +1355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117152,
+      "num": 157861,
+      "word": "宋妍霏马吟吟一看就没喝中药",
+      "onboard_time": 1745044883,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117076,
       "num": 117076,
       "word": "张杰三折叠大屏",
@@ -1331,6 +1379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115109,
+      "num": 115109,
+      "word": "章若楠春日少女妆",
+      "onboard_time": 1745043921,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 114666,
       "num": 123433,
       "word": "胡杏儿演蛮好的人生演爽了",
@@ -1339,11 +1395,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 114292,
-      "num": 114292,
-      "word": "韩国偶遇林一逛街",
-      "onboard_time": 1745043982,
-      "rank": 45,
+      "raw_hot": 114202,
+      "num": 114202,
+      "word": "虞书欣给摄影师买新相机",
+      "onboard_time": 1745044941,
+      "rank": 42,
       "category": "艺人"
     },
     {
@@ -1361,14 +1417,6 @@
       "onboard_time": 1745035522,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 112804,
-      "num": 112804,
-      "word": "摆摊男演员说现在有点骑虎难下了",
-      "onboard_time": 1745044221,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 112413,
@@ -1459,19 +1507,19 @@
       "category": "幽默,民生新闻"
     },
     {
-      "raw_hot": 102925,
-      "num": 102925,
-      "word": "章若楠春日少女妆",
-      "onboard_time": 1745043921,
-      "rank": 48,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 102111,
       "num": 102111,
       "word": "奔跑吧夏日度假大片",
       "onboard_time": 1745030901,
       "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 101958,
+      "num": 101958,
+      "word": "李艺彤酝酿了十分钟才发出来",
+      "onboard_time": 1745045062,
+      "rank": 46,
       "category": "综艺"
     },
     {
@@ -1875,6 +1923,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 45386,
+      "num": 252041,
+      "word": "小孩哥包揽机器人马拉松二三名",
+      "onboard_time": 1745044101,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 45182,
       "num": 356286,
       "word": "半马机器人跑姿大赏",
@@ -1897,6 +1953,14 @@
       "onboard_time": 1745018058,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 41740,
+      "num": 250328,
+      "word": "周冠宇出征沙特站",
+      "onboard_time": 1745044401,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 40665,
@@ -1937,14 +2001,6 @@
       "onboard_time": 1745026281,
       "rank": 19,
       "category": "教育"
-    },
-    {
-      "raw_hot": 32387,
-      "num": 179263,
-      "word": "小孩哥包揽机器人马拉松二三名",
-      "onboard_time": 1745044101,
-      "rank": 26,
-      "category": "数码"
     },
     {
       "raw_hot": 32313,
@@ -2123,6 +2179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 14063,
+      "num": 255556,
+      "word": "如何高效抢到票",
+      "onboard_time": 1745044160,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 12390,
       "num": 620837,
       "word": "中方敦促美方停止甩锅",
@@ -2137,14 +2201,6 @@
       "onboard_time": 1745031683,
       "rank": 19,
       "category": "情感"
-    },
-    {
-      "raw_hot": 10896,
-      "num": 149326,
-      "word": "如何高效抢到票",
-      "onboard_time": 1745044160,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 10568,
