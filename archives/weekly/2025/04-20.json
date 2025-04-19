@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745083217641,
+  "endTime": 1745084311364,
   "band_list": [
     {
       "raw_hot": 31189573,
@@ -107,6 +107,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 409433,
+      "num": 335030,
+      "word": "老舅",
+      "onboard_time": 1745081909,
+      "rank": 7,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 361944,
       "num": 361944,
       "word": "谢娜问吴宣仪你有什么事吗",
@@ -115,19 +123,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 358960,
-      "num": 208120,
-      "word": "老舅",
-      "onboard_time": 1745081909,
-      "rank": 7,
-      "category": "综艺,艺人"
-    },
-    {
       "raw_hot": 351159,
       "num": 351159,
       "word": "王楚钦说为什么全是擦网",
       "onboard_time": 1745069725,
       "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 331882,
+      "num": 331882,
+      "word": "范志毅",
+      "onboard_time": 1745082685,
+      "rank": 4,
       "category": "体育"
     },
     {
@@ -179,14 +187,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 227973,
-      "num": 227973,
-      "word": "范志毅",
-      "onboard_time": 1745082685,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 213852,
       "num": 213852,
       "word": "丁禹兮蓝发狼尾",
@@ -200,6 +200,14 @@
       "word": "刘涛 这么多mother啊",
       "onboard_time": 1745077343,
       "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 195210,
+      "num": 112919,
+      "word": "一生爱凑热闹的中国人",
+      "onboard_time": 1745083463,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -515,12 +523,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 57318,
+      "num": 57318,
+      "word": "热点观点",
+      "onboard_time": 1745084063,
+      "rank": 45,
+      "category": "民生新闻,国内时政"
+    },
+    {
+      "raw_hot": 55868,
+      "num": 55868,
+      "word": "丁禹兮感动到快哭了",
+      "onboard_time": 1745083942,
+      "rank": 46,
+      "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 54162,
+      "num": 54162,
+      "word": "张极下班开车看演出vlog",
+      "onboard_time": 1745083942,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 43047,
       "num": 147453,
       "word": "胡彦斌直播",
       "onboard_time": 1745082266,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 9369,
+      "num": 335134,
+      "word": "关税政策加剧美国农业困境",
+      "onboard_time": 1745069665,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

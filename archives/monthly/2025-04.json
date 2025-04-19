@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1745083217641,
+  "endTime": 1745084311364,
   "band_list": [
     {
       "raw_hot": 31189573,
@@ -12899,6 +12899,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 409433,
+      "num": 335030,
+      "word": "老舅",
+      "onboard_time": 1745081909,
+      "rank": 7,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 409105,
       "num": 409105,
       "word": "英伟达坚定不移服务中国市场",
@@ -14683,14 +14691,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 358960,
-      "num": 208120,
-      "word": "老舅",
-      "onboard_time": 1745081909,
-      "rank": 7,
-      "category": "综艺,艺人"
-    },
-    {
       "raw_hot": 358787,
       "num": 358787,
       "word": "雅诗兰黛隐瞒依赖中国代购股价跳水",
@@ -15881,6 +15881,14 @@
       "onboard_time": 1743831562,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 331882,
+      "num": 331882,
+      "word": "范志毅",
+      "onboard_time": 1745082685,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 331809,
@@ -22683,14 +22691,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 227973,
-      "num": 227973,
-      "word": "范志毅",
-      "onboard_time": 1745082685,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 227885,
       "num": 227885,
       "word": "北京大风吹倒843棵树",
@@ -28089,6 +28089,14 @@
       "onboard_time": 1743503122,
       "rank": 37,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 195210,
+      "num": 112919,
+      "word": "一生爱凑热闹的中国人",
+      "onboard_time": 1745083463,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 195138,
@@ -57187,6 +57195,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 57318,
+      "num": 57318,
+      "word": "热点观点",
+      "onboard_time": 1745084063,
+      "rank": 45,
+      "category": "民生新闻,国内时政"
+    },
+    {
       "raw_hot": 57223,
       "num": 110067,
       "word": "尹锡悦首次刑事审判定于14日举行",
@@ -57361,6 +57377,14 @@
       "onboard_time": 1744819580,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 55868,
+      "num": 55868,
+      "word": "丁禹兮感动到快哭了",
+      "onboard_time": 1745083942,
+      "rank": 46,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 55861,
@@ -57625,6 +57649,14 @@
       "onboard_time": 1743957438,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 54162,
+      "num": 54162,
+      "word": "张极下班开车看演出vlog",
+      "onboard_time": 1745083942,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 54100,
@@ -65576,6 +65608,14 @@
       "word": "如何让企业更有获得感",
       "onboard_time": 1743451034,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9369,
+      "num": 335134,
+      "word": "关税政策加剧美国农业困境",
+      "onboard_time": 1745069665,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
