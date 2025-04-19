@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1745066545969,
+  "endTime": 1745067467840,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -1819,6 +1819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1500458,
+      "num": 375514,
+      "word": "桃黑黑回应小盐巴闭店",
+      "onboard_time": 1745063181,
+      "rank": 3,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1500229,
       "num": 483641,
       "word": "余承恩团队被路人怼",
@@ -2057,14 +2065,6 @@
       "onboard_time": 1744347562,
       "rank": 49,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1423748,
-      "num": 375514,
-      "word": "桃黑黑回应小盐巴闭店",
-      "onboard_time": 1745063181,
-      "rank": 3,
-      "category": "网红"
     },
     {
       "raw_hot": 1422948,
@@ -3148,7 +3148,7 @@
     },
     {
       "raw_hot": 1150445,
-      "num": 251355,
+      "num": 253196,
       "word": "22岁女子无实质性生活发现怀孕",
       "onboard_time": 1745058502,
       "rank": 20,
@@ -4675,6 +4675,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 918216,
+      "num": 1146914,
+      "word": "张丹峰我家庭和睦和太太感情非常好",
+      "onboard_time": 1745063302,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 917181,
       "num": 260895,
       "word": "宋祖儿转了新华社发文",
@@ -5649,14 +5657,6 @@
       "onboard_time": 1743557841,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 808202,
-      "num": 808202,
-      "word": "张丹峰我家庭和睦和太太感情非常好",
-      "onboard_time": 1745063302,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 807974,
@@ -6912,6 +6912,14 @@
       "word": "宋妍霏手纹重到不敢和人握手",
       "onboard_time": 1744550964,
       "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 702275,
+      "num": 266026,
+      "word": "韩庚卢靖姗分房睡",
+      "onboard_time": 1745067323,
+      "rank": 12,
       "category": "综艺"
     },
     {
@@ -8236,7 +8244,7 @@
     },
     {
       "raw_hot": 603647,
-      "num": 242995,
+      "num": 252183,
       "word": "让体重逐渐下降的30个常识",
       "onboard_time": 1745059881,
       "rank": 19,
@@ -13523,6 +13531,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 385761,
+      "num": 288288,
+      "word": "全网最丢脸的风筝出现了",
+      "onboard_time": 1745064260,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 385760,
       "num": 281971,
       "word": "王俊凯五哈录制全黑look",
@@ -15329,6 +15345,14 @@
       "onboard_time": 1743947480,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 339539,
+      "num": 260806,
+      "word": "章若楠去了五月天演唱会",
+      "onboard_time": 1745066063,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 339385,
@@ -17947,6 +17971,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 287299,
+      "num": 287299,
+      "word": "孙颖莎进世界杯决赛",
+      "onboard_time": 1745066122,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 286972,
       "num": 269754,
       "word": "男子被关精神病院出院后查出没患病",
@@ -18425,6 +18457,14 @@
       "onboard_time": 1744347802,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 279074,
+      "num": 279074,
+      "word": "日贸易代表送特朗普中国产礼物",
+      "onboard_time": 1745065762,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 278924,
@@ -19083,6 +19123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 269093,
+      "num": 269093,
+      "word": "为什么都说柯南M28好看",
+      "onboard_time": 1745064382,
+      "rank": 9,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 268880,
       "num": 268880,
       "word": "汪苏泷复刻金宣虎wink",
@@ -19617,14 +19665,6 @@
       "onboard_time": 1743574224,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 261030,
-      "num": 246473,
-      "word": "全网最丢脸的风筝出现了",
-      "onboard_time": 1745064260,
-      "rank": 16,
-      "category": "幽默"
     },
     {
       "raw_hot": 261007,
@@ -20459,6 +20499,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 249222,
+      "num": 249222,
+      "word": "子宫内膜癌发病率骤升",
+      "onboard_time": 1745064202,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 248985,
       "num": 248985,
       "word": "油价大幅下调",
@@ -20529,6 +20577,14 @@
       "onboard_time": 1745059581,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 248332,
+      "num": 248332,
+      "word": "快删除手机里的这些APP",
+      "onboard_time": 1745066722,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 248293,
@@ -20867,6 +20923,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 243991,
+      "num": 243991,
+      "word": "孙颖莎蒯曼女单争冠",
+      "onboard_time": 1745065941,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 243925,
       "num": 276636,
       "word": "首个人形机器人半马冠军",
@@ -21049,14 +21113,6 @@
       "onboard_time": 1744425564,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 241243,
-      "num": 241243,
-      "word": "孙颖莎进世界杯决赛",
-      "onboard_time": 1745066122,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 241237,
@@ -22331,6 +22387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 228093,
+      "num": 228093,
+      "word": "梁靖崑vs林诗栋",
+      "onboard_time": 1745067142,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 228062,
       "num": 228062,
       "word": "贺峻霖 offer7",
@@ -22409,6 +22473,14 @@
       "onboard_time": 1744517542,
       "rank": 25,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 227214,
+      "num": 227214,
+      "word": "王安宇章昊湿发",
+      "onboard_time": 1745066482,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 227148,
@@ -25603,6 +25675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204448,
+      "num": 204448,
+      "word": "孙颖莎4比1陈幸同",
+      "onboard_time": 1745066482,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204435,
       "num": 429752,
       "word": "张艺兴直播",
@@ -26337,14 +26417,6 @@
       "onboard_time": 1744953142,
       "rank": 26,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 200959,
-      "num": 200959,
-      "word": "王安宇章昊湿发",
-      "onboard_time": 1745066482,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 200921,
@@ -27627,14 +27699,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 195070,
-      "num": 195070,
-      "word": "子宫内膜癌发病率骤升",
-      "onboard_time": 1745064202,
-      "rank": 27,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 195052,
       "num": 208688,
       "word": "大侦探",
@@ -28529,6 +28593,14 @@
       "onboard_time": 1744333823,
       "rank": 33,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 191421,
+      "num": 229126,
+      "word": "极氪009光辉用黄金打造",
+      "onboard_time": 1745067082,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 191401,
@@ -31331,14 +31403,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 178807,
-      "num": 189315,
-      "word": "孙颖莎蒯曼女单争冠",
-      "onboard_time": 1745065941,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 178765,
       "num": 178765,
       "word": "尚雯婕又去选人了",
@@ -32635,6 +32699,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 172657,
+      "num": 172657,
+      "word": "RW斩下一鸡",
+      "onboard_time": 1745067203,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 172556,
       "num": 172556,
       "word": "滤镜研讨会",
@@ -33841,6 +33913,14 @@
       "onboard_time": 1744860741,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 166696,
+      "num": 228516,
+      "word": "孙颖莎说决赛会是一场苦战",
+      "onboard_time": 1745066542,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 166645,
@@ -35099,6 +35179,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 161087,
+      "num": 161087,
+      "word": "这就是孙颖莎的招牌",
+      "onboard_time": 1745067022,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161010,
       "num": 161010,
       "word": "吴敬平晒樊振东昔日训练录像",
@@ -35721,14 +35809,6 @@
       "onboard_time": 1744290204,
       "rank": 36,
       "category": "财经"
-    },
-    {
-      "raw_hot": 158446,
-      "num": 192290,
-      "word": "章若楠去了五月天演唱会",
-      "onboard_time": 1745066063,
-      "rank": 28,
-      "category": "演出"
     },
     {
       "raw_hot": 158319,
@@ -37820,7 +37900,7 @@
     },
     {
       "raw_hot": 149858,
-      "num": 245601,
+      "num": 258313,
       "word": "极氪光辉之夜排面拉满",
       "onboard_time": 1745064321,
       "rank": 17,
@@ -38001,6 +38081,14 @@
       "onboard_time": 1744124963,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149273,
+      "num": 149273,
+      "word": "有些话知道她不记得才敢说",
+      "onboard_time": 1745066962,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 149233,
@@ -38291,6 +38379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148223,
+      "num": 148223,
+      "word": "真正的脂肪克星",
+      "onboard_time": 1745065102,
+      "rank": 41,
+      "category": "健康医疗,民生新闻"
+    },
+    {
       "raw_hot": 148220,
       "num": 148220,
       "word": "华晨宇咬手套going我",
@@ -38315,6 +38411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148080,
+      "num": 148080,
+      "word": "广东男篮vs山西男篮",
+      "onboard_time": 1745062641,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148075,
       "num": 169354,
       "word": "郑秀晶宋仲基同框",
@@ -38337,6 +38441,14 @@
       "onboard_time": 1744945102,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147985,
+      "num": 147985,
+      "word": "卡琳娜当着哪吒面吃藕粉",
+      "onboard_time": 1745067383,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 147936,
@@ -40243,6 +40355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 140775,
+      "num": 140775,
+      "word": "山东泰山半场2红",
+      "onboard_time": 1745067262,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140749,
       "num": 140749,
       "word": "汪苏泷演唱会 天降宿命感",
@@ -40809,6 +40929,14 @@
       "onboard_time": 1744332743,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 138898,
+      "num": 138898,
+      "word": "贺峻霖入围中传青年五四奖章名单",
+      "onboard_time": 1745067383,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 138892,
@@ -42587,14 +42715,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 133044,
-      "num": 133044,
-      "word": "真正的脂肪克星",
-      "onboard_time": 1745065102,
-      "rank": 41,
-      "category": "健康医疗,民生新闻"
-    },
-    {
       "raw_hot": 133015,
       "num": 169351,
       "word": "全炫茂BoA醉酒直播",
@@ -42705,6 +42825,14 @@
       "onboard_time": 1744712002,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132737,
+      "num": 132737,
+      "word": "蔚来萤火虫发布会",
+      "onboard_time": 1745065643,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 132699,
@@ -43172,7 +43300,7 @@
     },
     {
       "raw_hot": 130900,
-      "num": 184375,
+      "num": 187761,
       "word": "中国大型科企或用华为芯片替代英伟达",
       "onboard_time": 1745064982,
       "rank": 30,
@@ -44633,14 +44761,6 @@
       "onboard_time": 1744635743,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 125674,
-      "num": 125674,
-      "word": "孙颖莎4比1陈幸同",
-      "onboard_time": 1745066482,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 125668,
@@ -46848,14 +46968,6 @@
       "word": "关税风暴正在反噬美国自身",
       "onboard_time": 1744699342,
       "rank": 12,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 117498,
-      "num": 182135,
-      "word": "日贸易代表送特朗普中国产礼物",
-      "onboard_time": 1745065762,
-      "rank": 31,
       "category": "国际时政"
     },
     {
@@ -56515,6 +56627,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 55281,
+      "num": 262194,
+      "word": "男子花6000购买DeepSeek假证书",
+      "onboard_time": 1745065882,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55254,
       "num": 55254,
       "word": "沈腾看时代少年团都像儿子",
@@ -57777,6 +57897,14 @@
       "onboard_time": 1744877482,
       "rank": 37,
       "category": "幽默,议题讨论"
+    },
+    {
+      "raw_hot": 46500,
+      "num": 256443,
+      "word": "头部中医主播60秒视频报价超37万",
+      "onboard_time": 1745065822,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46427,
@@ -59153,14 +59281,6 @@
       "onboard_time": 1744971020,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 39111,
-      "num": 248105,
-      "word": "男子花6000购买DeepSeek假证书",
-      "onboard_time": 1745065882,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 39035,
@@ -62315,14 +62435,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 21306,
-      "num": 244535,
-      "word": "头部中医主播60秒视频报价超37万",
-      "onboard_time": 1745065822,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 21282,
       "num": 31893,
       "word": "欧阳娜娜北京国际电影节",
@@ -64433,6 +64545,14 @@
       "onboard_time": 1744872380,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 10392,
+      "num": 289724,
+      "word": "我国外贸彰显韧性活力",
+      "onboard_time": 1745052564,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10329,

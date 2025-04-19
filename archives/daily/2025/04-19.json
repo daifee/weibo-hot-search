@@ -1,6 +1,6 @@
 {
   "startTime": 1744993775892,
-  "endTime": 1745066545969,
+  "endTime": 1745067467840,
   "band_list": [
     {
       "raw_hot": 7793574,
@@ -51,7 +51,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1423748,
+      "raw_hot": 1500458,
       "num": 375514,
       "word": "桃黑黑回应小盐巴闭店",
       "onboard_time": 1745063181,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 1150445,
-      "num": 251355,
+      "num": 253196,
       "word": "22岁女子无实质性生活发现怀孕",
       "onboard_time": 1745058502,
       "rank": 20,
@@ -129,6 +129,14 @@
       "onboard_time": 1745050101,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 918216,
+      "num": 1146914,
+      "word": "张丹峰我家庭和睦和太太感情非常好",
+      "onboard_time": 1745063302,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 906553,
@@ -161,14 +169,6 @@
       "onboard_time": 1745044642,
       "rank": 3,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 808202,
-      "num": 808202,
-      "word": "张丹峰我家庭和睦和太太感情非常好",
-      "onboard_time": 1745063302,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 783095,
@@ -208,6 +208,14 @@
       "word": "陈德容 日子怎么可能和谁过都一样",
       "onboard_time": 1745043441,
       "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 702275,
+      "num": 266026,
+      "word": "韩庚卢靖姗分房睡",
+      "onboard_time": 1745067323,
+      "rank": 12,
       "category": "综艺"
     },
     {
@@ -300,7 +308,7 @@
     },
     {
       "raw_hot": 603647,
-      "num": 242995,
+      "num": 252183,
       "word": "让体重逐渐下降的30个常识",
       "onboard_time": 1745059881,
       "rank": 19,
@@ -563,6 +571,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 385761,
+      "num": 288288,
+      "word": "全网最丢脸的风筝出现了",
+      "onboard_time": 1745064260,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 384985,
       "num": 384985,
       "word": "第一次见表白往脖子盖章的",
@@ -697,6 +713,14 @@
       "onboard_time": 1745050402,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 339539,
+      "num": 260806,
+      "word": "章若楠去了五月天演唱会",
+      "onboard_time": 1745066063,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 337300,
@@ -843,6 +867,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 287299,
+      "num": 287299,
+      "word": "孙颖莎进世界杯决赛",
+      "onboard_time": 1745066122,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 285556,
       "num": 285556,
       "word": "王楚钦这场比分太焦灼了",
@@ -865,6 +897,14 @@
       "onboard_time": 1745061621,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 279074,
+      "num": 279074,
+      "word": "日贸易代表送特朗普中国产礼物",
+      "onboard_time": 1745065762,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 276066,
@@ -899,6 +939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 269093,
+      "num": 269093,
+      "word": "为什么都说柯南M28好看",
+      "onboard_time": 1745064382,
+      "rank": 9,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 265466,
       "num": 265466,
       "word": "乒乓球单打世界杯",
@@ -921,14 +969,6 @@
       "onboard_time": 1745047043,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 261030,
-      "num": 246473,
-      "word": "全网最丢脸的风筝出现了",
-      "onboard_time": 1745064260,
-      "rank": 16,
-      "category": "幽默"
     },
     {
       "raw_hot": 255447,
@@ -995,12 +1035,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 249222,
+      "num": 249222,
+      "word": "子宫内膜癌发病率骤升",
+      "onboard_time": 1745064202,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 248372,
       "num": 248372,
       "word": "信号中心特权码",
       "onboard_time": 1745059581,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 248332,
+      "num": 248332,
+      "word": "快删除手机里的这些APP",
+      "onboard_time": 1745066722,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 248293,
@@ -1043,20 +1099,20 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 243991,
+      "num": 243991,
+      "word": "孙颖莎蒯曼女单争冠",
+      "onboard_time": 1745065941,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 243925,
       "num": 276636,
       "word": "首个人形机器人半马冠军",
       "onboard_time": 1745030481,
       "rank": 19,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 241243,
-      "num": 241243,
-      "word": "孙颖莎进世界杯决赛",
-      "onboard_time": 1745066122,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 238983,
@@ -1105,6 +1161,22 @@
       "onboard_time": 1745036241,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 228093,
+      "num": 228093,
+      "word": "梁靖崑vs林诗栋",
+      "onboard_time": 1745067142,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 227214,
+      "num": 227214,
+      "word": "王安宇章昊湿发",
+      "onboard_time": 1745066482,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 226720,
@@ -1211,6 +1283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204448,
+      "num": 204448,
+      "word": "孙颖莎4比1陈幸同",
+      "onboard_time": 1745066482,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203814,
       "num": 291610,
       "word": "papi说朱丹英语上不去都怪尚雯婕",
@@ -1243,14 +1323,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 200959,
-      "num": 200959,
-      "word": "王安宇章昊湿发",
-      "onboard_time": 1745066482,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 199609,
       "num": 199609,
       "word": "曹巍为王楚钦发声",
@@ -1267,14 +1339,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 195070,
-      "num": 195070,
-      "word": "子宫内膜癌发病率骤升",
-      "onboard_time": 1745064202,
-      "rank": 27,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 193940,
       "num": 302693,
       "word": "王以太哭着感谢吉克隽逸",
@@ -1289,6 +1353,14 @@
       "onboard_time": 1744989262,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 191421,
+      "num": 229126,
+      "word": "极氪009光辉用黄金打造",
+      "onboard_time": 1745067082,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 191134,
@@ -1419,14 +1491,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 178807,
-      "num": 189315,
-      "word": "孙颖莎蒯曼女单争冠",
-      "onboard_time": 1745065941,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 178691,
       "num": 178691,
       "word": "医生说入睡在15分到30分钟最佳",
@@ -1475,6 +1539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172657,
+      "num": 172657,
+      "word": "RW斩下一鸡",
+      "onboard_time": 1745067203,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 172075,
       "num": 172075,
       "word": "男子长期肥胖全身关节如硬石",
@@ -1513,6 +1585,14 @@
       "onboard_time": 1745036301,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 166696,
+      "num": 228516,
+      "word": "孙颖莎说决赛会是一场苦战",
+      "onboard_time": 1745066542,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 165887,
@@ -1555,6 +1635,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 161087,
+      "num": 161087,
+      "word": "这就是孙颖莎的招牌",
+      "onboard_time": 1745067022,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160293,
       "num": 160293,
       "word": "东契奇被交易后摔手机泄愤",
@@ -1593,14 +1681,6 @@
       "onboard_time": 1745047762,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 158446,
-      "num": 192290,
-      "word": "章若楠去了五月天演唱会",
-      "onboard_time": 1745066063,
-      "rank": 28,
-      "category": "演出"
     },
     {
       "raw_hot": 157838,
@@ -1676,7 +1756,7 @@
     },
     {
       "raw_hot": 149858,
-      "num": 245601,
+      "num": 258313,
       "word": "极氪光辉之夜排面拉满",
       "onboard_time": 1745064321,
       "rank": 17,
@@ -1699,6 +1779,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 149273,
+      "num": 149273,
+      "word": "有些话知道她不记得才敢说",
+      "onboard_time": 1745066962,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148409,
       "num": 148409,
       "word": "摆摊男演员说现在有点骑虎难下了",
@@ -1713,6 +1801,30 @@
       "onboard_time": 1745035881,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 148223,
+      "num": 148223,
+      "word": "真正的脂肪克星",
+      "onboard_time": 1745065102,
+      "rank": 41,
+      "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 148080,
+      "num": 148080,
+      "word": "广东男篮vs山西男篮",
+      "onboard_time": 1745062641,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 147985,
+      "num": 147985,
+      "word": "卡琳娜当着哪吒面吃藕粉",
+      "onboard_time": 1745067383,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 147866,
@@ -1827,6 +1939,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 140775,
+      "num": 140775,
+      "word": "山东泰山半场2红",
+      "onboard_time": 1745067262,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140727,
       "num": 169435,
       "word": "奔跑吧",
@@ -1881,6 +2001,14 @@
       "onboard_time": 1745019319,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 138898,
+      "num": 138898,
+      "word": "贺峻霖入围中传青年五四奖章名单",
+      "onboard_time": 1745067383,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 138326,
@@ -2003,20 +2131,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 133044,
-      "num": 133044,
-      "word": "真正的脂肪克星",
-      "onboard_time": 1745065102,
-      "rank": 41,
-      "category": "健康医疗,民生新闻"
-    },
-    {
       "raw_hot": 132862,
       "num": 132862,
       "word": "谷雨是汉字含量最高的节气",
       "onboard_time": 1745040620,
       "rank": 40,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 132737,
+      "num": 132737,
+      "word": "蔚来萤火虫发布会",
+      "onboard_time": 1745065643,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 132634,
@@ -2052,7 +2180,7 @@
     },
     {
       "raw_hot": 130900,
-      "num": 184375,
+      "num": 187761,
       "word": "中国大型科企或用华为芯片替代英伟达",
       "onboard_time": 1745064982,
       "rank": 30,
@@ -2169,14 +2297,6 @@
       "onboard_time": 1745055982,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 125674,
-      "num": 125674,
-      "word": "孙颖莎4比1陈幸同",
-      "onboard_time": 1745066482,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 125622,
@@ -2345,14 +2465,6 @@
       "onboard_time": 1744988302,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 117498,
-      "num": 182135,
-      "word": "日贸易代表送特朗普中国产礼物",
-      "onboard_time": 1745065762,
-      "rank": 31,
-      "category": "国际时政"
     },
     {
       "raw_hot": 117152,
@@ -3051,6 +3163,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 55281,
+      "num": 262194,
+      "word": "男子花6000购买DeepSeek假证书",
+      "onboard_time": 1745065882,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55250,
       "num": 359619,
       "word": "哥伦比亚警局遭袭2死20余伤",
@@ -3163,6 +3283,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 46500,
+      "num": 256443,
+      "word": "头部中医主播60秒视频报价超37万",
+      "onboard_time": 1745065822,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46353,
       "num": 66147,
       "word": "折腰名字改回来了",
@@ -3241,14 +3369,6 @@
       "onboard_time": 1745027480,
       "rank": 19,
       "category": "数码"
-    },
-    {
-      "raw_hot": 39111,
-      "num": 248105,
-      "word": "男子花6000购买DeepSeek假证书",
-      "onboard_time": 1745065882,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 38596,
@@ -3427,14 +3547,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 21306,
-      "num": 244535,
-      "word": "头部中医主播60秒视频报价超37万",
-      "onboard_time": 1745065822,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 21282,
       "num": 31893,
       "word": "欧阳娜娜北京国际电影节",
@@ -3553,6 +3665,14 @@
       "onboard_time": 1745039241,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 10392,
+      "num": 289724,
+      "word": "我国外贸彰显韧性活力",
+      "onboard_time": 1745052564,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 8115,
