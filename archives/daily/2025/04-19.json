@@ -1,6 +1,6 @@
 {
   "startTime": 1744993775892,
-  "endTime": 1745070000715,
+  "endTime": 1745072457975,
   "band_list": [
     {
       "raw_hot": 7793574,
@@ -35,12 +35,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1891508,
+      "num": 728455,
+      "word": "张丹峰 洪欣",
+      "onboard_time": 1745069543,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1733092,
       "num": 251309,
       "word": "短剧尺度",
       "onboard_time": 1745056222,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1723308,
+      "num": 1723308,
+      "word": "快删除手机里的这些APP",
+      "onboard_time": 1745066722,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1663210,
@@ -52,7 +68,7 @@
     },
     {
       "raw_hot": 1521558,
-      "num": 382372,
+      "num": 420495,
       "word": "关晓彤已连续7年为鹿晗庆生",
       "onboard_time": 1745044101,
       "rank": 17,
@@ -65,14 +81,6 @@
       "onboard_time": 1745063181,
       "rank": 3,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1374136,
-      "num": 1374136,
-      "word": "快删除手机里的这些APP",
-      "onboard_time": 1745066722,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1334518,
@@ -227,6 +235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 726436,
+      "num": 726436,
+      "word": "王楚钦说为什么全是擦网",
+      "onboard_time": 1745069725,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 714745,
       "num": 714745,
       "word": "陈德容 日子怎么可能和谁过都一样",
@@ -299,14 +315,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 626912,
-      "num": 368897,
-      "word": "张丹峰 洪欣",
-      "onboard_time": 1745069543,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 624564,
       "num": 624564,
       "word": "女生攒2斤3两脱发卖1万多元",
@@ -337,6 +345,14 @@
       "onboard_time": 1745059881,
       "rank": 19,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 589038,
+      "num": 589038,
+      "word": "萤火虫价格",
+      "onboard_time": 1745068823,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 577079,
@@ -467,6 +483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 475882,
+      "num": 475882,
+      "word": "吴彤进错了吴彤的房间",
+      "onboard_time": 1745070565,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 475086,
       "num": 475086,
       "word": "美国终于让欧洲上桌了",
@@ -507,6 +531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 451166,
+      "num": 451166,
+      "word": "林诗栋黄牌",
+      "onboard_time": 1745070264,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 437084,
       "num": 474314,
       "word": "董子健被邓超孙俪混合双打",
@@ -532,7 +564,7 @@
     },
     {
       "raw_hot": 430570,
-      "num": 366315,
+      "num": 399540,
       "word": "卡琳娜当着哪吒面吃藕粉",
       "onboard_time": 1745067383,
       "rank": 44,
@@ -667,14 +699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 373421,
-      "num": 373421,
-      "word": "萤火虫价格",
-      "onboard_time": 1745068823,
-      "rank": 18,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 373007,
       "num": 373007,
       "word": "无忧渡 合体剧宣",
@@ -761,14 +785,6 @@
       "onboard_time": 1745048723,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 348225,
-      "num": 348225,
-      "word": "王楚钦说为什么全是擦网",
-      "onboard_time": 1745069725,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 346519,
@@ -947,6 +963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 289834,
+      "num": 289834,
+      "word": "山西男篮3比0广东男篮",
+      "onboard_time": 1745071583,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 288696,
       "num": 288696,
       "word": "我国成功发射一箭六星",
@@ -1027,12 +1051,36 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 268961,
+      "num": 358471,
+      "word": "花22万娶越南新娘1周就跑了",
+      "onboard_time": 1745067744,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 265560,
+      "num": 265560,
+      "word": "徐明浩 LV",
+      "onboard_time": 1745070445,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 265466,
       "num": 265466,
       "word": "乒乓球单打世界杯",
       "onboard_time": 1745047341,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 264622,
+      "num": 264622,
+      "word": "热量比肉还高的水果",
+      "onboard_time": 1745068703,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 262346,
@@ -1049,6 +1097,14 @@
       "onboard_time": 1745047043,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 256114,
+      "num": 256114,
+      "word": "孙颖莎让解说员无话可说",
+      "onboard_time": 1745071344,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 255447,
@@ -1227,6 +1283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 231783,
+      "num": 231783,
+      "word": "北京国安6比1山东泰山",
+      "onboard_time": 1745072063,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 229296,
       "num": 275453,
       "word": "时代少年团海口站海报",
@@ -1283,12 +1347,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 215566,
-      "num": 215566,
-      "word": "热量比肉还高的水果",
-      "onboard_time": 1745068703,
-      "rank": 37,
-      "category": "健康医疗"
+      "raw_hot": 218676,
+      "num": 218676,
+      "word": "XLG战胜EDG",
+      "onboard_time": 1745070264,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 214042,
+      "num": 214042,
+      "word": "我国进口澳大利亚谷饲牛肉增长40%",
+      "onboard_time": 1745068102,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 213630,
@@ -1435,6 +1507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199284,
+      "num": 199284,
+      "word": "林诗栋晋级澳门世界杯决赛",
+      "onboard_time": 1745071525,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199187,
       "num": 199187,
       "word": "美国正失去耐心",
@@ -1467,12 +1547,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 195366,
+      "num": 195366,
+      "word": "林诗栋展望对阵雨果",
+      "onboard_time": 1745072063,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193940,
       "num": 302693,
       "word": "王以太哭着感谢吉克隽逸",
       "onboard_time": 1745031081,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193706,
+      "num": 193706,
+      "word": "永昼拍的丁禹兮",
+      "onboard_time": 1745070445,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 192354,
+      "num": 192354,
+      "word": "黄东萍说团结的力量才最强大",
+      "onboard_time": 1745072063,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 191817,
@@ -1523,6 +1627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188650,
+      "num": 188650,
+      "word": "谢娜问吴宣仪你有什么事吗",
+      "onboard_time": 1745072063,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188309,
       "num": 188309,
       "word": "柯南的蝴蝶结围巾是小兰系的",
@@ -1571,12 +1683,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 184661,
-      "num": 358471,
-      "word": "花22万娶越南新娘1周就跑了",
-      "onboard_time": 1745067744,
-      "rank": 39,
-      "category": "民生新闻"
+      "raw_hot": 184549,
+      "num": 184549,
+      "word": "EDG Simon",
+      "onboard_time": 1745071525,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 184357,
@@ -1691,6 +1803,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 173530,
+      "num": 173530,
+      "word": "刘宪华一个人就是一个凤凰传奇",
+      "onboard_time": 1745071225,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173329,
       "num": 266879,
       "word": "韩国偶遇林一逛街",
@@ -1747,14 +1867,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 167657,
-      "num": 167657,
-      "word": "我国进口澳大利亚谷饲牛肉增长40%",
-      "onboard_time": 1745068102,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 167599,
       "num": 167599,
       "word": "成都七中女生夺四川EGMO首金",
@@ -1779,12 +1891,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 165882,
+      "num": 165882,
+      "word": "淮水竹亭剧组好六预告",
+      "onboard_time": 1745070625,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164842,
       "num": 317478,
       "word": "首次人机共跑半马",
       "onboard_time": 1745029581,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162964,
+      "num": 162964,
+      "word": "又被Henry的全是爱震撼到了",
+      "onboard_time": 1745072004,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 162743,
@@ -1947,12 +2075,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150947,
+      "num": 150947,
+      "word": "张康乐冰湖重生杀青",
+      "onboard_time": 1745072364,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150644,
       "num": 220766,
       "word": "侯佩岑爱人的最高境界是心疼",
       "onboard_time": 1745050823,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150291,
+      "num": 422067,
+      "word": "机器人跑完马拉松累得坐轮椅",
+      "onboard_time": 1745070924,
+      "rank": 10,
+      "category": "运动健身,数码"
     },
     {
       "raw_hot": 149858,
@@ -2819,6 +2963,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 107157,
+      "num": 1186532,
+      "word": "别人在算关税账我们在算创新账",
+      "onboard_time": 1745069964,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106700,
       "num": 106700,
       "word": "一招拿下射手座",
@@ -3195,6 +3347,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 80818,
+      "num": 266593,
+      "word": "阿维塔06限时19.19万元起",
+      "onboard_time": 1745072124,
+      "rank": 24,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 80221,
       "num": 209935,
       "word": "九尾晒午餐",
@@ -3321,6 +3481,14 @@
       "onboard_time": 1745069665,
       "rank": 11,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 65609,
+      "num": 268603,
+      "word": "林诗栋雨果男单争冠",
+      "onboard_time": 1745072063,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 63879,
@@ -3635,6 +3803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33800,
+      "num": 268628,
+      "word": "如何提高周末效率",
+      "onboard_time": 1745071943,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 33425,
       "num": 347916,
       "word": "高考最后50天怎么努力",
@@ -3904,14 +4080,6 @@
       "word": "庞众望母亲生前采访",
       "onboard_time": 1745033962,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 5799,
-      "num": 1186532,
-      "word": "别人在算关税账我们在算创新账",
-      "onboard_time": 1745069964,
-      "rank": 2,
       "category": "民生新闻"
     }
   ],
