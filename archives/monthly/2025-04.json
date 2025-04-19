@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1745062557331,
+  "endTime": 1745066545969,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -2059,6 +2059,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1423748,
+      "num": 375514,
+      "word": "桃黑黑回应小盐巴闭店",
+      "onboard_time": 1745063181,
+      "rank": 3,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1422948,
       "num": 276862,
       "word": "郑州一房屋起火伴多次爆炸",
@@ -2857,6 +2865,14 @@
       "onboard_time": 1744107382,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1227945,
+      "num": 1227945,
+      "word": "孙颖莎vs陈幸同",
+      "onboard_time": 1745062222,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 1224993,
@@ -5635,6 +5651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 808202,
+      "num": 808202,
+      "word": "张丹峰我家庭和睦和太太感情非常好",
+      "onboard_time": 1745063302,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 807974,
       "num": 807974,
       "word": "金条一克跌20元现在入手合适吗",
@@ -8211,6 +8235,14 @@
       "category": "财经,时尚"
     },
     {
+      "raw_hot": 603647,
+      "num": 242995,
+      "word": "让体重逐渐下降的30个常识",
+      "onboard_time": 1745059881,
+      "rank": 19,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 603395,
       "num": 603395,
       "word": "李晟感谢49位朋友的支持",
@@ -8761,6 +8793,14 @@
       "onboard_time": 1744346722,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 570809,
+      "num": 310589,
+      "word": "丁禹兮蓝发狼尾",
+      "onboard_time": 1745061621,
+      "rank": 12,
+      "category": "演出"
     },
     {
       "raw_hot": 570012,
@@ -16627,14 +16667,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 310589,
-      "num": 310589,
-      "word": "丁禹兮蓝发狼尾",
-      "onboard_time": 1745061621,
-      "rank": 12,
-      "category": "演出"
-    },
-    {
       "raw_hot": 310386,
       "num": 310386,
       "word": "镜妖 季离",
@@ -19483,6 +19515,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 262346,
+      "num": 242746,
+      "word": "1岁宝宝因太可爱被家人狂亲高烧不退",
+      "onboard_time": 1745063181,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 262128,
       "num": 262128,
       "word": "王蓉浪姐疑似只签了一期",
@@ -19577,6 +19617,14 @@
       "onboard_time": 1743574224,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 261030,
+      "num": 246473,
+      "word": "全网最丢脸的风筝出现了",
+      "onboard_time": 1745064260,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 261007,
@@ -20307,6 +20355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 250996,
+      "num": 250996,
+      "word": "哪些信号是你的肝在说不舒服",
+      "onboard_time": 1745061202,
+      "rank": 38,
+      "category": "健康医疗,民生新闻"
+    },
+    {
       "raw_hot": 250720,
       "num": 250720,
       "word": "他唯一吃过的苦就是淋这场雨",
@@ -20993,6 +21049,14 @@
       "onboard_time": 1744425564,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 241243,
+      "num": 241243,
+      "word": "孙颖莎进世界杯决赛",
+      "onboard_time": 1745066122,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 241237,
@@ -24891,14 +24955,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 207449,
-      "num": 207449,
-      "word": "让体重逐渐下降的30个常识",
-      "onboard_time": 1745059881,
-      "rank": 19,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 207441,
       "num": 250884,
       "word": "林丹回应在西班牙陪读",
@@ -25033,14 +25089,6 @@
       "onboard_time": 1743481166,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 206861,
-      "num": 206861,
-      "word": "孙颖莎vs陈幸同",
-      "onboard_time": 1745062222,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 206819,
@@ -26291,6 +26339,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 200959,
+      "num": 200959,
+      "word": "王安宇章昊湿发",
+      "onboard_time": 1745066482,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200921,
       "num": 200921,
       "word": "dota牛蛙离世",
@@ -26504,6 +26560,14 @@
       "word": "王楚钦世界杯进8强",
       "onboard_time": 1744893682,
       "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 199609,
+      "num": 199609,
+      "word": "曹巍为王楚钦发声",
+      "onboard_time": 1745062102,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -27561,6 +27625,14 @@
       "onboard_time": 1744772422,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195070,
+      "num": 195070,
+      "word": "子宫内膜癌发病率骤升",
+      "onboard_time": 1745064202,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 195052,
@@ -29635,6 +29707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186305,
+      "num": 128923,
+      "word": "孙颖莎11比8陈幸同",
+      "onboard_time": 1745065701,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186271,
       "num": 186271,
       "word": "ITZY获胜",
@@ -30803,14 +30883,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 181061,
-      "num": 181061,
-      "word": "哪些信号是你的肝在说不舒服",
-      "onboard_time": 1745061202,
-      "rank": 38,
-      "category": "健康医疗,民生新闻"
-    },
-    {
       "raw_hot": 181053,
       "num": 215001,
       "word": "方基默去世享年65岁",
@@ -30921,6 +30993,14 @@
       "onboard_time": 1743510503,
       "rank": 36,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 180442,
+      "num": 180442,
+      "word": "逃亡死寂岛",
+      "onboard_time": 1745065701,
+      "rank": 34,
+      "category": "读书作家"
     },
     {
       "raw_hot": 180402,
@@ -31249,6 +31329,14 @@
       "onboard_time": 1743932602,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 178807,
+      "num": 189315,
+      "word": "孙颖莎蒯曼女单争冠",
+      "onboard_time": 1745065941,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 178765,
@@ -31937,14 +32025,6 @@
       "onboard_time": 1744162884,
       "rank": 43,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 175625,
-      "num": 175625,
-      "word": "曹巍为王楚钦发声",
-      "onboard_time": 1745062102,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 175618,
@@ -35643,6 +35723,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 158446,
+      "num": 192290,
+      "word": "章若楠去了五月天演唱会",
+      "onboard_time": 1745066063,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 158319,
       "num": 148306,
       "word": "朱一龙白领带黑西装造型",
@@ -37731,6 +37819,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 149858,
+      "num": 245601,
+      "word": "极氪光辉之夜排面拉满",
+      "onboard_time": 1745064321,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 149842,
       "num": 149842,
       "word": "金宣虎wink笑",
@@ -39153,6 +39249,14 @@
       "onboard_time": 1744883182,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 144950,
+      "num": 144950,
+      "word": "人形机器人马拉松",
+      "onboard_time": 1745064923,
+      "rank": 37,
+      "category": "运动健身,数码"
     },
     {
       "raw_hot": 144933,
@@ -41315,6 +41419,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 136796,
+      "num": 180445,
+      "word": "什么胆量敢在娘娘面前贴脸开大",
+      "onboard_time": 1745065402,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136791,
       "num": 136791,
       "word": "无期迷途",
@@ -41955,6 +42067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134618,
+      "num": 134618,
+      "word": "吴兴涵红牌",
+      "onboard_time": 1745066302,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134601,
       "num": 134601,
       "word": "张凌赫丝绸粉衬衫",
@@ -42451,12 +42571,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133065,
+      "num": 133065,
+      "word": "父母逝去高龄精神障碍女儿独留人间",
+      "onboard_time": 1745064143,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133048,
       "num": 233886,
       "word": "浪姐直播",
       "onboard_time": 1744288703,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133044,
+      "num": 133044,
+      "word": "真正的脂肪克星",
+      "onboard_time": 1745065102,
+      "rank": 41,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 133015,
@@ -42747,6 +42883,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 131972,
+      "num": 131972,
+      "word": "北京国安vs山东泰山",
+      "onboard_time": 1745059160,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131941,
       "num": 189188,
       "word": "樊振东用乒乓球拍投篮7中4",
@@ -43025,6 +43169,14 @@
       "onboard_time": 1744268363,
       "rank": 37,
       "category": "数码"
+    },
+    {
+      "raw_hot": 130900,
+      "num": 184375,
+      "word": "中国大型科企或用华为芯片替代英伟达",
+      "onboard_time": 1745064982,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130885,
@@ -43601,6 +43753,14 @@
       "onboard_time": 1744469544,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129164,
+      "num": 129164,
+      "word": "迪丽热巴限定闪回一下",
+      "onboard_time": 1745063961,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 129153,
@@ -44243,6 +44403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126448,
+      "num": 126448,
+      "word": "刘涛演白蛇丝滑搭戏12个许仙",
+      "onboard_time": 1745065043,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126411,
       "num": 126411,
       "word": "发自拍后被整容医生关注了",
@@ -44467,6 +44635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125674,
+      "num": 125674,
+      "word": "孙颖莎4比1陈幸同",
+      "onboard_time": 1745066482,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125668,
       "num": 125668,
       "word": "终于有人把装修讲明白了",
@@ -44481,6 +44657,14 @@
       "onboard_time": 1744450764,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 125622,
+      "num": 125622,
+      "word": "男子变现1公斤黄金净赚10万",
+      "onboard_time": 1745062462,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125578,
@@ -45129,6 +45313,14 @@
       "onboard_time": 1744596501,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 123306,
+      "num": 123306,
+      "word": "鸣潮一周年潮声庆典",
+      "onboard_time": 1745065523,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 123278,
@@ -46656,6 +46848,14 @@
       "word": "关税风暴正在反噬美国自身",
       "onboard_time": 1744699342,
       "rank": 12,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 117498,
+      "num": 182135,
+      "word": "日贸易代表送特朗普中国产礼物",
+      "onboard_time": 1745065762,
+      "rank": 31,
       "category": "国际时政"
     },
     {
@@ -49699,14 +49899,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 102756,
-      "num": 102756,
-      "word": "北京国安vs山东泰山",
-      "onboard_time": 1745059160,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 102746,
       "num": 102746,
       "word": "鹭卓喜欢热热热热热热热热热的地方",
@@ -50057,14 +50249,6 @@
       "onboard_time": 1743658703,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 100650,
-      "num": 100650,
-      "word": "男子变现1公斤黄金净赚10万",
-      "onboard_time": 1745062462,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 100574,
@@ -58971,6 +59155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39111,
+      "num": 248105,
+      "word": "男子花6000购买DeepSeek假证书",
+      "onboard_time": 1745065882,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39035,
       "num": 166445,
       "word": "刘炜珊0比3桥本帆乃香",
@@ -62123,6 +62315,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 21306,
+      "num": 244535,
+      "word": "头部中医主播60秒视频报价超37万",
+      "onboard_time": 1745065822,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21282,
       "num": 31893,
       "word": "欧阳娜娜北京国际电影节",
@@ -62777,6 +62977,14 @@
       "onboard_time": 1744858819,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 18327,
+      "num": 245455,
+      "word": "百色为什么那么热",
+      "onboard_time": 1745065344,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18269,
