@@ -1,6 +1,6 @@
 {
   "startTime": 1744993775892,
-  "endTime": 1745032247183,
+  "endTime": 1745033812401,
   "band_list": [
     {
       "raw_hot": 2817932,
@@ -16,6 +16,14 @@
       "word": "被官二代顶替上大学女子做了律师",
       "onboard_time": 1745020340,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1216467,
+      "num": 1216467,
+      "word": "黄河水不黄了",
+      "onboard_time": 1745028021,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -49,14 +57,6 @@
       "onboard_time": 1744958962,
       "rank": 0,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 855988,
-      "num": 855988,
-      "word": "黄河水不黄了",
-      "onboard_time": 1745028021,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 760777,
@@ -99,6 +99,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 653187,
+      "num": 354091,
+      "word": "蔡徐坤 熊猫",
+      "onboard_time": 1745029161,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 624564,
       "num": 624564,
       "word": "女生攒2斤3两脱发卖1万多元",
@@ -115,6 +123,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 569101,
+      "num": 344270,
+      "word": "福建9岁女孩腹痛3天查出体内大量积血",
+      "onboard_time": 1745030841,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 556588,
       "num": 556588,
       "word": "特朗普称1个月内会与中国达成协议",
@@ -129,14 +145,6 @@
       "onboard_time": 1744991301,
       "rank": 6,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 506382,
-      "num": 354091,
-      "word": "蔡徐坤 熊猫",
-      "onboard_time": 1745029161,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 492059,
@@ -169,6 +177,14 @@
       "onboard_time": 1745029880,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 416927,
+      "num": 416927,
+      "word": "天工机器人半马冲线完赛",
+      "onboard_time": 1745031442,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 406171,
@@ -243,14 +259,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 344270,
-      "num": 344270,
-      "word": "福建9岁女孩腹痛3天查出体内大量积血",
-      "onboard_time": 1745030841,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 343558,
       "num": 343558,
       "word": "大学唯一挂科英语现在用英语工作",
@@ -291,11 +299,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 300074,
+      "num": 215039,
+      "word": "女子踏青患怪病高烧呕吐多器官损害",
+      "onboard_time": 1745032041,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 288696,
       "num": 288696,
       "word": "我国成功发射一箭六星",
       "onboard_time": 1745024421,
       "rank": 21,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 288026,
+      "num": 181013,
+      "word": "中方把波音飞机退回美国",
+      "onboard_time": 1745033180,
+      "rank": 32,
       "category": "国内时政"
     },
     {
@@ -305,6 +329,14 @@
       "onboard_time": 1745018058,
       "rank": 30,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 271735,
+      "num": 199153,
+      "word": "怡丽丝尔 鞠婧祎",
+      "onboard_time": 1745030542,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 269340,
@@ -347,6 +379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 245409,
+      "num": 206669,
+      "word": "曾黎分享气血不足如何逛菜市场",
+      "onboard_time": 1745032881,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 244044,
       "num": 244044,
       "word": "为什么年轻人越来越能接受相亲了",
@@ -361,6 +401,14 @@
       "onboard_time": 1745030481,
       "rank": 19,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 238983,
+      "num": 304094,
+      "word": "时代少年团海口演唱会座位图",
+      "onboard_time": 1745028140,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 236936,
@@ -395,20 +443,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 222058,
-      "num": 304094,
-      "word": "时代少年团海口演唱会座位图",
-      "onboard_time": 1745028140,
-      "rank": 35,
-      "category": "演出"
-    },
-    {
       "raw_hot": 213630,
       "num": 213630,
       "word": "孙珍妮回应脸肿",
       "onboard_time": 1744978041,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 211051,
+      "num": 211051,
+      "word": "在李嘉琦身上看到来浪姐的意义",
+      "onboard_time": 1745032221,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 207813,
@@ -435,6 +483,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 197050,
+      "num": 197050,
+      "word": "最好哭的he出现了",
+      "onboard_time": 1745032582,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193940,
       "num": 302693,
       "word": "王以太哭着感谢吉克隽逸",
@@ -449,14 +505,6 @@
       "onboard_time": 1744989262,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 191738,
-      "num": 191738,
-      "word": "怡丽丝尔 鞠婧祎",
-      "onboard_time": 1745030542,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 191134,
@@ -491,6 +539,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 185195,
+      "num": 185195,
+      "word": "董子健被邓超孙俪混合双打",
+      "onboard_time": 1745033482,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183014,
       "num": 183014,
       "word": "北大博士回应入职民办高校被指浪费",
@@ -499,12 +555,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 182393,
+      "num": 182393,
+      "word": "机器人头掉后坚强无头奔跑",
+      "onboard_time": 1745033601,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 181852,
       "num": 181852,
       "word": "五一前机票低至2折",
       "onboard_time": 1744990402,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 180928,
+      "num": 180928,
+      "word": "前夫对韦雪撒娇",
+      "onboard_time": 1745033180,
+      "rank": 33,
+      "category": "网红"
     },
     {
       "raw_hot": 178691,
@@ -544,14 +616,6 @@
       "word": "首次人机共跑半马",
       "onboard_time": 1745029581,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 164703,
-      "num": 359614,
-      "word": "天工机器人半马冲线完赛",
-      "onboard_time": 1745031442,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -619,6 +683,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138915,
+      "num": 138915,
+      "word": "王者荣耀",
+      "onboard_time": 1745019319,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 138326,
+      "num": 138326,
+      "word": "百万网红王炳然离婚",
+      "onboard_time": 1745032523,
+      "rank": 40,
+      "category": "网红"
+    },
+    {
       "raw_hot": 135336,
       "num": 135336,
       "word": "特朗普再度施压美联储",
@@ -651,12 +731,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 132023,
-      "num": 132023,
-      "word": "王者荣耀",
-      "onboard_time": 1745019319,
-      "rank": 18,
-      "category": "游戏"
+      "raw_hot": 130953,
+      "num": 130953,
+      "word": "宋轶去了张杰演唱会",
+      "onboard_time": 1745032041,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 130860,
@@ -665,6 +745,14 @@
       "onboard_time": 1744981524,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129603,
+      "num": 169028,
+      "word": "张远抽中张杰演唱会第一个定制应援棒",
+      "onboard_time": 1745031561,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 129280,
@@ -681,14 +769,6 @@
       "onboard_time": 1745030721,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 127480,
-      "num": 169028,
-      "word": "张远抽中张杰演唱会第一个定制应援棒",
-      "onboard_time": 1745031561,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 125278,
@@ -737,14 +817,6 @@
       "onboard_time": 1745029880,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 117952,
-      "num": 117952,
-      "word": "宋轶去了张杰演唱会",
-      "onboard_time": 1745032041,
-      "rank": 42,
-      "category": "演出"
     },
     {
       "raw_hot": 117887,
@@ -819,14 +891,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 107751,
-      "num": 107751,
-      "word": "女子踏青患怪病高烧呕吐多器官损害",
-      "onboard_time": 1745032041,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 107708,
       "num": 107708,
       "word": "国羽混双组合重组",
@@ -851,6 +915,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 103673,
+      "num": 141020,
+      "word": "有什么了不起的",
+      "onboard_time": 1745033780,
+      "rank": 38,
+      "category": "幽默,民生新闻"
+    },
+    {
       "raw_hot": 102111,
       "num": 102111,
       "word": "奔跑吧夏日度假大片",
@@ -865,14 +937,6 @@
       "onboard_time": 1744982901,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 100169,
-      "num": 100169,
-      "word": "在李嘉琦身上看到来浪姐的意义",
-      "onboard_time": 1745032221,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 98470,
@@ -1019,6 +1083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 70260,
+      "num": 199160,
+      "word": "咖啡和牛奶哪个对身体好",
+      "onboard_time": 1745033121,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 69710,
       "num": 69710,
       "word": "这泼天的富贵轮到了巴西",
@@ -1147,6 +1219,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 44458,
+      "num": 182874,
+      "word": "宇树机器人摔倒站起继续比赛",
+      "onboard_time": 1745033662,
+      "rank": 27,
+      "category": "数码"
+    },
+    {
       "raw_hot": 43932,
       "num": 43932,
       "word": "Uzi喊话Ale写检讨",
@@ -1161,6 +1241,14 @@
       "onboard_time": 1745027480,
       "rank": 19,
       "category": "数码"
+    },
+    {
+      "raw_hot": 38596,
+      "num": 182256,
+      "word": "国漫画风刷新认知",
+      "onboard_time": 1745032341,
+      "rank": 29,
+      "category": "动漫"
     },
     {
       "raw_hot": 34494,
@@ -1313,6 +1401,14 @@
       "onboard_time": 1745031683,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 9639,
+      "num": 126294,
+      "word": "美国滥施关税谁先着急",
+      "onboard_time": 1745033780,
+      "rank": 44,
+      "category": "海外新闻"
     }
   ],
   "hotgov_list": [
