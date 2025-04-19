@@ -1,6 +1,6 @@
 {
   "startTime": 1744993775892,
-  "endTime": 1745076225346,
+  "endTime": 1745077061004,
   "band_list": [
     {
       "raw_hot": 7793574,
@@ -435,6 +435,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 507684,
+      "num": 414696,
+      "word": "谢娜问吴宣仪你有什么事吗",
+      "onboard_time": 1745072063,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 492059,
       "num": 492059,
       "word": "新版北京欢迎你",
@@ -531,12 +539,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 459984,
+      "num": 421656,
+      "word": "任嘉伦宋祖儿都在努力剧宣",
+      "onboard_time": 1745073265,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 451166,
       "num": 451166,
       "word": "林诗栋黄牌",
       "onboard_time": 1745070264,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 443347,
+      "num": 443347,
+      "word": "CIA报告称外星人石化苏联士兵",
+      "onboard_time": 1745074045,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 437084,
@@ -603,14 +627,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 421656,
-      "num": 421656,
-      "word": "任嘉伦宋祖儿都在努力剧宣",
-      "onboard_time": 1745073265,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 419556,
       "num": 259260,
       "word": "黄婷婷 李艺彤",
@@ -665,14 +681,6 @@
       "onboard_time": 1745025381,
       "rank": 6,
       "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 385136,
-      "num": 313146,
-      "word": "谢娜问吴宣仪你有什么事吗",
-      "onboard_time": 1745072063,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 384985,
@@ -995,6 +1003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 297279,
+      "num": 297279,
+      "word": "美国大豆可能将永远失去中国市场",
+      "onboard_time": 1745074524,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 297077,
       "num": 297077,
       "word": "美将设工作组紧急处理对中加征关税危机",
@@ -1057,14 +1073,6 @@
       "onboard_time": 1745061621,
       "rank": 16,
       "category": "演出"
-    },
-    {
-      "raw_hot": 280030,
-      "num": 280030,
-      "word": "CIA报告称外星人石化苏联士兵",
-      "onboard_time": 1745074045,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 276066,
@@ -1153,14 +1161,6 @@
       "onboard_time": 1745047043,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 257473,
-      "num": 257473,
-      "word": "美国大豆可能将永远失去中国市场",
-      "onboard_time": 1745074524,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 255447,
@@ -1273,6 +1273,14 @@
       "onboard_time": 1745027181,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 245181,
+      "num": 254011,
+      "word": "刘涛听到妈妈双女主",
+      "onboard_time": 1745076445,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 244044,
@@ -1547,6 +1555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202327,
+      "num": 202327,
+      "word": "胡彦斌分享的喉糖自己买不到了",
+      "onboard_time": 1745076445,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201861,
       "num": 358318,
       "word": "电影射雕英雄传侠之大者",
@@ -1763,6 +1779,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 186372,
+      "num": 186372,
+      "word": "特斯拉销售称全周无休仍卖不出车",
+      "onboard_time": 1745073565,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 186305,
       "num": 128923,
       "word": "孙颖莎11比8陈幸同",
@@ -1889,14 +1913,6 @@
       "onboard_time": 1745056222,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 175650,
-      "num": 175650,
-      "word": "特斯拉销售称全周无休仍卖不出车",
-      "onboard_time": 1745073565,
-      "rank": 29,
-      "category": "汽车"
     },
     {
       "raw_hot": 175102,
@@ -2041,6 +2057,14 @@
       "onboard_time": 1745029581,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 164280,
+      "num": 190288,
+      "word": "孙颖莎跟裁判示意Notouch",
+      "onboard_time": 1745076384,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 162964,
@@ -2331,6 +2355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146280,
+      "num": 146280,
+      "word": "王力宏广州演唱会",
+      "onboard_time": 1745076262,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 146033,
       "num": 146033,
       "word": "凡人修仙传",
@@ -2547,6 +2579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136182,
+      "num": 136182,
+      "word": "印度医生让儿童吸支烟治感冒",
+      "onboard_time": 1745075665,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 135815,
       "num": 288755,
       "word": "蒯曼4比3伊藤美诚",
@@ -2601,14 +2641,6 @@
       "onboard_time": 1745066302,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 134520,
-      "num": 134520,
-      "word": "印度医生让儿童吸支烟治感冒",
-      "onboard_time": 1745075665,
-      "rank": 47,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 134103,
@@ -2673,6 +2705,14 @@
       "onboard_time": 1745059701,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 130989,
+      "num": 130989,
+      "word": "Paraboy联赛2500淘汰",
+      "onboard_time": 1745076384,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 130953,
@@ -3169,6 +3209,14 @@
       "onboard_time": 1745048543,
       "rank": 42,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 105836,
+      "num": 145397,
+      "word": "抹茶和咖啡的抗炎效果哪个好",
+      "onboard_time": 1745076983,
+      "rank": 40,
+      "category": "科学科普"
     },
     {
       "raw_hot": 105782,
@@ -4019,6 +4067,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 32865,
+      "num": 246190,
+      "word": "男子泼汽油烧伤前女友至今未道歉",
+      "onboard_time": 1745076563,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32313,
       "num": 158306,
       "word": "气候变暖如何危及大米安全",
@@ -4048,6 +4104,14 @@
       "word": "人形机器人踏上最美马拉松路线",
       "onboard_time": 1745038942,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30148,
+      "num": 254604,
+      "word": "网络游戏成了乡村孩子的社交货币",
+      "onboard_time": 1745076502,
+      "rank": 15,
       "category": "民生新闻"
     },
     {

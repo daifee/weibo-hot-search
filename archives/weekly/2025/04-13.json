@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1745076225346,
+  "endTime": 1745077061004,
   "band_list": [
     {
       "raw_hot": 10606514,
@@ -3731,6 +3731,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 507684,
+      "num": 414696,
+      "word": "谢娜问吴宣仪你有什么事吗",
+      "onboard_time": 1745072063,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 505709,
       "num": 505709,
       "word": "驻日大使馆提醒注意防范地震",
@@ -4099,6 +4107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 459984,
+      "num": 421656,
+      "word": "任嘉伦宋祖儿都在努力剧宣",
+      "onboard_time": 1745073265,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 459718,
       "num": 459718,
       "word": "女子左眼左耳残疾无法办理残疾人证",
@@ -4281,6 +4297,14 @@
       "onboard_time": 1744504941,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 443347,
+      "num": 443347,
+      "word": "CIA报告称外星人石化苏联士兵",
+      "onboard_time": 1745074045,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 442656,
@@ -4561,14 +4585,6 @@
       "onboard_time": 1744815443,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 421656,
-      "num": 421656,
-      "word": "任嘉伦宋祖儿都在努力剧宣",
-      "onboard_time": 1745073265,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 420590,
@@ -5033,14 +5049,6 @@
       "onboard_time": 1744692144,
       "rank": 48,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 385136,
-      "num": 313146,
-      "word": "谢娜问吴宣仪你有什么事吗",
-      "onboard_time": 1745072063,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 384985,
@@ -6315,6 +6323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 297279,
+      "num": 297279,
+      "word": "美国大豆可能将永远失去中国市场",
+      "onboard_time": 1745074524,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 297077,
       "num": 297077,
       "word": "美将设工作组紧急处理对中加征关税危机",
@@ -6641,14 +6657,6 @@
       "onboard_time": 1744768161,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 280030,
-      "num": 280030,
-      "word": "CIA报告称外星人石化苏联士兵",
-      "onboard_time": 1745074045,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 278698,
@@ -7243,14 +7251,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 257473,
-      "num": 257473,
-      "word": "美国大豆可能将永远失去中国市场",
-      "onboard_time": 1745074524,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 257295,
       "num": 257295,
       "word": "结节真的是被气出来的吗",
@@ -7640,6 +7640,14 @@
       "word": "檀健次又偷吃零食",
       "onboard_time": 1744691664,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 245181,
+      "num": 254011,
+      "word": "刘涛听到妈妈双女主",
+      "onboard_time": 1745076445,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -9779,6 +9787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202327,
+      "num": 202327,
+      "word": "胡彦斌分享的喉糖自己买不到了",
+      "onboard_time": 1745076445,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202296,
       "num": 202296,
       "word": "朱一龙好帅",
@@ -11307,6 +11323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186372,
+      "num": 186372,
+      "word": "特斯拉销售称全周无休仍卖不出车",
+      "onboard_time": 1745073565,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 186305,
       "num": 128923,
       "word": "孙颖莎11比8陈幸同",
@@ -12209,14 +12233,6 @@
       "onboard_time": 1744677322,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 175650,
-      "num": 175650,
-      "word": "特斯拉销售称全周无休仍卖不出车",
-      "onboard_time": 1745073565,
-      "rank": 29,
-      "category": "汽车"
     },
     {
       "raw_hot": 175618,
@@ -13169,6 +13185,14 @@
       "onboard_time": 1744625242,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 164280,
+      "num": 190288,
+      "word": "孙颖莎跟裁判示意Notouch",
+      "onboard_time": 1745076384,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 164192,
@@ -15035,6 +15059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146280,
+      "num": 146280,
+      "word": "王力宏广州演唱会",
+      "onboard_time": 1745076262,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 146212,
       "num": 146212,
       "word": "年轻人把AI当成心理中医",
@@ -16347,6 +16379,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 136182,
+      "num": 136182,
+      "word": "印度医生让儿童吸支烟治感冒",
+      "onboard_time": 1745075665,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 136148,
       "num": 241248,
       "word": "英伟达CEO说中国是非常重要的市场",
@@ -16625,14 +16665,6 @@
       "onboard_time": 1744557622,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 134520,
-      "num": 134520,
-      "word": "印度医生让儿童吸支烟治感冒",
-      "onboard_time": 1745075665,
-      "rank": 47,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 134448,
@@ -17065,6 +17097,14 @@
       "onboard_time": 1744777465,
       "rank": 22,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 130989,
+      "num": 130989,
+      "word": "Paraboy联赛2500淘汰",
+      "onboard_time": 1745076384,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 130953,
@@ -19777,6 +19817,14 @@
       "onboard_time": 1744730482,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105836,
+      "num": 145397,
+      "word": "抹茶和咖啡的抗炎效果哪个好",
+      "onboard_time": 1745076983,
+      "rank": 40,
+      "category": "科学科普"
     },
     {
       "raw_hot": 105832,
@@ -24779,6 +24827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32865,
+      "num": 246190,
+      "word": "男子泼汽油烧伤前女友至今未道歉",
+      "onboard_time": 1745076563,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32712,
       "num": 188273,
       "word": "热播剧被切条传播判侵权",
@@ -24937,6 +24993,14 @@
       "onboard_time": 1744673000,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 30148,
+      "num": 254604,
+      "word": "网络游戏成了乡村孩子的社交货币",
+      "onboard_time": 1745076502,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29843,
