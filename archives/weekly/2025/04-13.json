@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1745052125326,
+  "endTime": 1745054594727,
   "band_list": [
     {
       "raw_hot": 10606514,
@@ -9,6 +9,14 @@
       "onboard_time": 1744769062,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7438273,
+      "num": 8688273,
+      "word": "王楚钦无缘澳门世界杯决赛",
+      "onboard_time": 1745051843,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 3491899,
@@ -1601,14 +1609,6 @@
       "onboard_time": 1744634662,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 908177,
-      "num": 908177,
-      "word": "王楚钦无缘澳门世界杯决赛",
-      "onboard_time": 1745051843,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 906553,
@@ -3435,6 +3435,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 531423,
+      "num": 531423,
+      "word": "男子试驾撞毁5辆豪车只为求职抵债",
+      "onboard_time": 1745051301,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 529060,
       "num": 529060,
       "word": "周杰伦厦门抢票",
@@ -4371,6 +4379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 420375,
+      "num": 291402,
+      "word": "王皓对王楚钦说挺好挺好挺好",
+      "onboard_time": 1745052923,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 419810,
       "num": 268009,
       "word": "26岁小伙被大9岁已婚女子骗婚",
@@ -4811,12 +4827,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 384985,
+      "num": 384985,
+      "word": "第一次见表白往脖子盖章的",
+      "onboard_time": 1745051362,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 384299,
       "num": 361231,
       "word": "赵露思红发自拍",
       "onboard_time": 1745023222,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 383856,
+      "num": 383856,
+      "word": "雨果晋级男单决赛",
+      "onboard_time": 1745052324,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 383662,
@@ -4928,6 +4960,14 @@
       "word": "王曼昱4比3胜张本美和",
       "onboard_time": 1744889782,
       "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 373940,
+      "num": 373940,
+      "word": "王楚钦3比4雨果",
+      "onboard_time": 1745052324,
+      "rank": 7,
       "category": "体育"
     },
     {
@@ -5939,6 +5979,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 297077,
+      "num": 297077,
+      "word": "美将设工作组紧急处理对中加征关税危机",
+      "onboard_time": 1745051001,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 296936,
       "num": 296936,
       "word": "三河市府办回应换招牌损失赔偿",
@@ -6137,6 +6185,14 @@
       "onboard_time": 1744854023,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 285556,
+      "num": 285556,
+      "word": "王楚钦这场比分太焦灼了",
+      "onboard_time": 1745052802,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 285426,
@@ -6369,14 +6425,6 @@
       "onboard_time": 1744856540,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 273266,
-      "num": 273266,
-      "word": "美将设工作组紧急处理对中加征关税危机",
-      "onboard_time": 1745051001,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 273010,
@@ -7097,6 +7145,14 @@
       "onboard_time": 1744688662,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 246132,
+      "num": 246132,
+      "word": "看得出马丽是公主",
+      "onboard_time": 1745052564,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 246101,
@@ -8217,6 +8273,14 @@
       "onboard_time": 1744551143,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 213963,
+      "num": 213963,
+      "word": "陈哲远 这不用遮了",
+      "onboard_time": 1745053102,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 213891,
@@ -9667,14 +9731,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 196395,
-      "num": 284460,
-      "word": "第一次见表白往脖子盖章的",
-      "onboard_time": 1745051362,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 196368,
       "num": 256517,
       "word": "辛云来直播",
@@ -10073,6 +10129,14 @@
       "onboard_time": 1744644022,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 191583,
+      "num": 191583,
+      "word": "如何看待王楚钦无缘世界杯决赛",
+      "onboard_time": 1745054362,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 191566,
@@ -11155,6 +11219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 177956,
+      "num": 224982,
+      "word": "三生三世十里桃花有多火",
+      "onboard_time": 1745051122,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 177929,
       "num": 177929,
       "word": "白鹿今晚还回家吗",
@@ -11321,6 +11393,14 @@
       "onboard_time": 1744787902,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 176380,
+      "num": 626512,
+      "word": "有些国家信誉积分可能都租不到充电宝",
+      "onboard_time": 1745052802,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 176329,
@@ -12795,6 +12875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158631,
+      "num": 168704,
+      "word": "李晨 这谁拍的",
+      "onboard_time": 1745053823,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158625,
       "num": 158625,
       "word": "孙颖莎11比3波尔卡诺娃",
@@ -13480,14 +13568,6 @@
       "word": "爱上姐姐成为姐姐取代姐姐",
       "onboard_time": 1744806741,
       "rank": 27,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 151063,
-      "num": 224982,
-      "word": "三生三世十里桃花有多火",
-      "onboard_time": 1745051122,
-      "rank": 42,
       "category": "剧集"
     },
     {
@@ -14259,6 +14339,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 144569,
+      "num": 356102,
+      "word": "泼水节民警2小时捡12个小孩",
+      "onboard_time": 1745051482,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144540,
       "num": 144540,
       "word": "第一次见东北包饭里加螺蛳粉的",
@@ -14409,6 +14497,14 @@
       "onboard_time": 1744525162,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 142825,
+      "num": 184138,
+      "word": "WTT",
+      "onboard_time": 1744865303,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 142765,
@@ -16371,6 +16467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127012,
+      "num": 127012,
+      "word": "LadyGaga科切拉舞台",
+      "onboard_time": 1745050581,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 126966,
       "num": 126966,
       "word": "金冬天表情管理",
@@ -17203,14 +17307,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 119784,
-      "num": 305862,
-      "word": "男子试驾撞毁5辆豪车只为求职抵债",
-      "onboard_time": 1745051301,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 119740,
       "num": 553211,
       "word": "中国馆在世博会惊艳亮相",
@@ -17315,14 +17411,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 118833,
-      "num": 118833,
-      "word": "LadyGaga科切拉舞台",
-      "onboard_time": 1745050581,
-      "rank": 35,
-      "category": "演出"
-    },
-    {
       "raw_hot": 118825,
       "num": 118825,
       "word": "王楚钦回应4比0首胜",
@@ -17369,6 +17457,14 @@
       "onboard_time": 1744704623,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118649,
+      "num": 118649,
+      "word": "不能夜跑的真实原因",
+      "onboard_time": 1745054183,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 118640,
@@ -17609,6 +17705,14 @@
       "onboard_time": 1745045901,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 116095,
+      "num": 244249,
+      "word": "为什么金价涨幅居高不下",
+      "onboard_time": 1745054062,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 115780,
@@ -18033,6 +18137,14 @@
       "onboard_time": 1744690823,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 111777,
+      "num": 111777,
+      "word": "男子长期肥胖全身关节如硬石",
+      "onboard_time": 1745053823,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111738,
@@ -18513,6 +18625,14 @@
       "onboard_time": 1744526361,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 105782,
+      "num": 105782,
+      "word": "蒯曼刚赢完邱贻可立刻复盘",
+      "onboard_time": 1745052442,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 105770,
@@ -19123,6 +19243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98409,
+      "num": 98409,
+      "word": "TES战胜TTG",
+      "onboard_time": 1745053883,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 98221,
       "num": 98221,
       "word": "感觉做饭是件很麻烦的事",
@@ -19201,6 +19329,14 @@
       "onboard_time": 1744846278,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96858,
+      "num": 96858,
+      "word": "原来民警捡到丢失孩子也要投喂",
+      "onboard_time": 1745052502,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96851,
@@ -20163,14 +20299,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 80623,
-      "num": 356102,
-      "word": "泼水节民警2小时捡12个小孩",
-      "onboard_time": 1745051482,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 80603,
       "num": 227780,
       "word": "何小鹏给香港首批X9车主交车",
@@ -21024,14 +21152,6 @@
       "word": "黄雅琼一句话让徐嘉余笑场",
       "onboard_time": 1744965261,
       "rank": 26,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 65148,
-      "num": 184138,
-      "word": "WTT",
-      "onboard_time": 1744865303,
-      "rank": 36,
       "category": "体育"
     },
     {
@@ -25399,6 +25519,9 @@
     },
     {
       "word": "#习近平主席访问柬埔寨精彩瞬间#"
+    },
+    {
+      "word": "#习近平东南亚之行几个瞬间意味深长#"
     }
   ]
 }

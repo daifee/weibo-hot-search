@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/04/19 16:42:05
+本榜单时间：2025/01/01 00:26:38 ~ 2025/04/19 17:23:14
 </p>
 </blockquote>
 <p>
@@ -581,6 +581,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E5%85%B3%E5%81%9C%E5%BC%A0%E5%85%B0%E8%B4%A6%E5%8F%B7%E7%9B%B4%E6%92%AD%E5%8A%9F%E8%83%BD%23" target="weibo">
 微博关停张兰账号直播功能（热度：7562676）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%97%A0%E7%BC%98%E6%BE%B3%E9%97%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%23" target="weibo">
+王楚钦无缘澳门世界杯决赛（热度：7438273）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ DeepSeek（热度：3038517）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E5%B0%86%E6%89%80%E6%8C%81%E8%82%A1%E6%9D%83%E8%BD%AC%E8%AE%A9%E7%BB%99%E5%90%B4%E5%A5%87%E9%9A%86%23" target="weibo">
 刘诗诗将所持股权转让给吴奇隆（热度：2963105）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%92%E7%A5%A8%E6%88%BF%23" target="weibo">
-哪吒票房（热度：2961950）
 </a>
 </li>
 

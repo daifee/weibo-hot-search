@@ -1,0 +1,410 @@
+{
+  "runTime": 1745054594727,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7438273,
+        "num": 8688273,
+        "word": "王楚钦无缘澳门世界杯决赛",
+        "onboard_time": 1745051843,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 766538,
+        "num": 766538,
+        "word": "封神2亏损",
+        "onboard_time": 1745048543,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 176380,
+        "num": 626512,
+        "word": "有些国家信誉积分可能都租不到充电宝",
+        "onboard_time": 1745052802,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 531423,
+        "num": 531423,
+        "word": "男子试驾撞毁5辆豪车只为求职抵债",
+        "onboard_time": 1745051301,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 455186,
+        "num": 455186,
+        "word": "五一反向旅游",
+        "onboard_time": 1745044642,
+        "rank": 4,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 384985,
+        "num": 384985,
+        "word": "第一次见表白往脖子盖章的",
+        "onboard_time": 1745051362,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 383856,
+        "num": 383856,
+        "word": "雨果晋级男单决赛",
+        "onboard_time": 1745052324,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 373940,
+        "num": 373940,
+        "word": "王楚钦3比4雨果",
+        "onboard_time": 1745052324,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 327037,
+        "num": 327037,
+        "word": "当北京欢迎你时隔17年再响起",
+        "onboard_time": 1745050402,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 297077,
+        "num": 297077,
+        "word": "美将设工作组紧急处理对中加征关税危机",
+        "onboard_time": 1745051001,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 872081,
+        "num": 295017,
+        "word": "全身95%烧伤女孩订婚了",
+        "onboard_time": 1745050101,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 600008,
+        "num": 294311,
+        "word": "关晓彤已连续7年为鹿晗庆生",
+        "onboard_time": 1745044101,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 420375,
+        "num": 291402,
+        "word": "王皓对王楚钦说挺好挺好挺好",
+        "onboard_time": 1745052923,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 386875,
+        "num": 289881,
+        "word": "王楚钦vs雨果",
+        "onboard_time": 1745036722,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 319974,
+        "num": 286870,
+        "word": "260元买6斤榴莲出3斤肉2斤核",
+        "onboard_time": 1745049201,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285556,
+        "num": 285556,
+        "word": "王楚钦这场比分太焦灼了",
+        "onboard_time": 1745052802,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 279173,
+        "num": 279173,
+        "word": "董宇辉首获人民文学奖",
+        "onboard_time": 1745047883,
+        "rank": 16,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 246132,
+        "num": 246132,
+        "word": "看得出马丽是公主",
+        "onboard_time": 1745052564,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 229093,
+        "num": 244662,
+        "word": "谢娜发文向张小婉管乐解释",
+        "onboard_time": 1745044701,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116095,
+        "num": 244249,
+        "word": "为什么金价涨幅居高不下",
+        "onboard_time": 1745054062,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 244038,
+        "num": 244038,
+        "word": "陈都灵珠海",
+        "onboard_time": 1745048723,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240962,
+        "num": 240962,
+        "word": "伊藤美诚输给蒯曼后哭了",
+        "onboard_time": 1745047762,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229996,
+        "num": 229996,
+        "word": "美墨边境开始走私鸡蛋了",
+        "onboard_time": 1745041401,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 213963,
+        "num": 213963,
+        "word": "陈哲远 这不用遮了",
+        "onboard_time": 1745053102,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193492,
+        "num": 193492,
+        "word": "老公打造37克孕育专属金镯给老婆",
+        "onboard_time": 1745046203,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191583,
+        "num": 191583,
+        "word": "如何看待王楚钦无缘世界杯决赛",
+        "onboard_time": 1745054362,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189151,
+        "num": 189151,
+        "word": "女子理完发顺走1280元的剪刀",
+        "onboard_time": 1745047043,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177956,
+        "num": 177956,
+        "word": "三生三世十里桃花有多火",
+        "onboard_time": 1745051122,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158631,
+        "num": 168704,
+        "word": "李晨 这谁拍的",
+        "onboard_time": 1745053823,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132019,
+        "num": 167422,
+        "word": "陈德容 日子怎么可能和谁过都一样",
+        "onboard_time": 1745043441,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167385,
+        "num": 167385,
+        "word": "女子等4年没做上手术靠止痛药硬扛",
+        "onboard_time": 1745043800,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 145406,
+        "num": 145406,
+        "word": "乒乓球单打世界杯",
+        "onboard_time": 1745047341,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144569,
+        "num": 144569,
+        "word": "泼水节民警2小时捡12个小孩",
+        "onboard_time": 1745051482,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142825,
+        "num": 142825,
+        "word": "WTT",
+        "onboard_time": 1745053883,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127012,
+        "num": 127012,
+        "word": "LadyGaga科切拉舞台",
+        "onboard_time": 1745050581,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 124704,
+        "num": 124704,
+        "word": "洞穴潜水失联3天奇迹生还",
+        "onboard_time": 1745046203,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124091,
+        "num": 124091,
+        "word": "官方通报女子伸腿阻止高铁关门",
+        "onboard_time": 1745034502,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120840,
+        "num": 120840,
+        "word": "卡黄",
+        "onboard_time": 1745036901,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118649,
+        "num": 118649,
+        "word": "不能夜跑的真实原因",
+        "onboard_time": 1745054183,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116579,
+        "num": 116579,
+        "word": "女子阻止高铁关门相关部门介入调查",
+        "onboard_time": 1745033902,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113418,
+        "num": 113418,
+        "word": "金智秀金珉奎南柱赫韩素希活动生图",
+        "onboard_time": 1745050701,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 113064,
+        "num": 113064,
+        "word": "宇树科技回应未参与马拉松比赛",
+        "onboard_time": 1745050161,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 111777,
+        "num": 111777,
+        "word": "男子长期肥胖全身关节如硬石",
+        "onboard_time": 1745053823,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105782,
+        "num": 105782,
+        "word": "蒯曼刚赢完邱贻可立刻复盘",
+        "onboard_time": 1745052442,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101875,
+        "num": 101875,
+        "word": "王楚钦高抬腿扣杀",
+        "onboard_time": 1745049502,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101195,
+        "num": 101195,
+        "word": "侯佩岑爱人的最高境界是心疼",
+        "onboard_time": 1745050823,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99434,
+        "num": 99434,
+        "word": "时代少年团演唱会抢票",
+        "onboard_time": 1745036901,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 98409,
+        "num": 98409,
+        "word": "TES战胜TTG",
+        "onboard_time": 1745053883,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 98467,
+        "num": 98258,
+        "word": "国乒包揽澳门世界杯女单冠亚军",
+        "onboard_time": 1745047762,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96858,
+        "num": 96858,
+        "word": "原来民警捡到丢失孩子也要投喂",
+        "onboard_time": 1745052502,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平东南亚之行几个瞬间意味深长#"
+    }
+  }
+}

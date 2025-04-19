@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1745052125326,
+  "endTime": 1745054594727,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -761,6 +761,14 @@
       "onboard_time": 1738997242,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 7438273,
+      "num": 8688273,
+      "word": "王楚钦无缘澳门世界杯决赛",
+      "onboard_time": 1745051843,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 7381465,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1740015800,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2961950,
-      "num": 2961950,
-      "word": "哪吒票房",
-      "onboard_time": 1738149140,
-      "rank": 36,
-      "category": "电影"
     }
   ],
   "hotgov_list": [
