@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745094262034,
+  "endTime": 1745095134500,
   "band_list": [
     {
       "raw_hot": 31189573,
@@ -635,6 +635,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 20080,
+      "num": 20080,
+      "word": "女子阻止高铁关门为何能得逞",
+      "onboard_time": 1745093294,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19871,
       "num": 22531,
       "word": "任嘉伦烟花一响宣夜开抢",
@@ -651,20 +659,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 16164,
-      "num": 19240,
-      "word": "女子阻止高铁关门为何能得逞",
-      "onboard_time": 1745093294,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15150,
+      "raw_hot": 15348,
       "num": 19238,
       "word": "山西一处塌方一货车司机遇难",
       "onboard_time": 1745093834,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13650,
+      "num": 19235,
+      "word": "一句古话说透中马关系",
+      "onboard_time": 1745091794,
+      "rank": 49,
+      "category": "国内时政,国际时政"
     },
     {
       "raw_hot": 13552,
@@ -675,12 +683,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 13286,
-      "num": 19235,
-      "word": "一句古话说透中马关系",
-      "onboard_time": 1745091794,
+      "raw_hot": 13298,
+      "num": 18487,
+      "word": "奥斯塔彭科六连胜斯瓦泰克",
+      "onboard_time": 1745093175,
       "rank": 49,
-      "category": "国内时政,国际时政"
+      "category": "体育"
     }
   ],
   "hotgov_list": [

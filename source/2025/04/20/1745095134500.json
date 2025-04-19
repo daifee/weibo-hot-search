@@ -1,0 +1,410 @@
+{
+  "runTime": 1745095134500,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 275231,
+        "num": 275231,
+        "word": "鹿晗工作室",
+        "onboard_time": 1745080294,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54207,
+        "num": 54207,
+        "word": "范志毅",
+        "onboard_time": 1745082685,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11782,
+        "num": 52318,
+        "word": "关税政策加剧美国农业困境",
+        "onboard_time": 1745069665,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107466,
+        "num": 52203,
+        "word": "老舅",
+        "onboard_time": 1745081909,
+        "rank": 3,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 51400,
+        "num": 51400,
+        "word": "美国大豆可能将永远失去中国市场",
+        "onboard_time": 1745074524,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 50159,
+        "num": 50159,
+        "word": "CIA报告称外星人石化苏联士兵",
+        "onboard_time": 1745074045,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 56403,
+        "num": 49728,
+        "word": "张丹峰 洪欣",
+        "onboard_time": 1745069543,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54178,
+        "num": 49335,
+        "word": "一生爱凑热闹的中国人",
+        "onboard_time": 1745083463,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47594,
+        "num": 47594,
+        "word": "快删除手机里的这些APP",
+        "onboard_time": 1745066722,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27079,
+        "num": 46640,
+        "word": "4月20日3时56分谷雨",
+        "onboard_time": 1745079932,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 839587,
+        "num": 46189,
+        "word": "关晓彤",
+        "onboard_time": 1745079693,
+        "rank": 10,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 226299,
+        "num": 44669,
+        "word": "陈赫",
+        "onboard_time": 1745081252,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157018,
+        "num": 43032,
+        "word": "关晓彤已连续7年为鹿晗庆生",
+        "onboard_time": 1745044101,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103280,
+        "num": 41477,
+        "word": "王勉",
+        "onboard_time": 1745080953,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41037,
+        "num": 41037,
+        "word": "树莓衮衮衮",
+        "onboard_time": 1745078731,
+        "rank": 14,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 45930,
+        "num": 40953,
+        "word": "桃黑黑回应小盐巴闭店",
+        "onboard_time": 1745063181,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 40338,
+        "num": 40338,
+        "word": "韩庚卢靖姗分房睡",
+        "onboard_time": 1745067323,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34924,
+        "num": 34924,
+        "word": "胡彦斌分享的喉糖自己买不到了",
+        "onboard_time": 1745076445,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 30848,
+        "num": 33632,
+        "word": "王楚钦无缘澳门世界杯决赛",
+        "onboard_time": 1745051843,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26322,
+        "num": 33077,
+        "word": "王楚钦说为什么全是擦网",
+        "onboard_time": 1745069725,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32833,
+        "num": 32833,
+        "word": "1岁宝宝因太可爱被家人狂亲高烧不退",
+        "onboard_time": 1745063181,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31135,
+        "num": 31135,
+        "word": "男子带10名女子吃千元烧烤逃单",
+        "onboard_time": 1745073925,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28605,
+        "num": 28605,
+        "word": "印度医生让儿童吸支烟治感冒",
+        "onboard_time": 1745075665,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 27198,
+        "num": 27198,
+        "word": "刘涛 这么多mother啊",
+        "onboard_time": 1745077343,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26863,
+        "num": 26863,
+        "word": "XLG战胜EDG",
+        "onboard_time": 1745070264,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 24162,
+        "num": 24162,
+        "word": "网友拍到大爷在悬崖峭壁上耕作",
+        "onboard_time": 1745090595,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24025,
+        "num": 24025,
+        "word": "虞书欣面包小狗变身",
+        "onboard_time": 1745081191,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 23781,
+        "num": 23781,
+        "word": "丁禹兮蓝发狼尾",
+        "onboard_time": 1745061621,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 23671,
+        "num": 23671,
+        "word": "蒲熠星",
+        "onboard_time": 1745081791,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23318,
+        "num": 23318,
+        "word": "热量比肉还高的水果",
+        "onboard_time": 1745068703,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 22330,
+        "num": 22330,
+        "word": "EDG Simon",
+        "onboard_time": 1745071525,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 21661,
+        "num": 21661,
+        "word": "全网最丢脸的风筝出现了",
+        "onboard_time": 1745064260,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 21140,
+        "num": 21140,
+        "word": "刘雨昕直播叽里咕噜说啥呢",
+        "onboard_time": 1745080533,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20080,
+        "num": 20080,
+        "word": "女子阻止高铁关门为何能得逞",
+        "onboard_time": 1745093294,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20044,
+        "num": 20044,
+        "word": "ZmjjKK 夜露",
+        "onboard_time": 1745074883,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 19775,
+        "num": 19775,
+        "word": "热点观点",
+        "onboard_time": 1745084063,
+        "rank": 35,
+        "category": "民生新闻,国内时政"
+      },
+      {
+        "raw_hot": 19488,
+        "num": 19488,
+        "word": "云南广西要热到40度了",
+        "onboard_time": 1745084780,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19209,
+        "num": 19209,
+        "word": "徐明浩 LV",
+        "onboard_time": 1745070445,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 19085,
+        "num": 19085,
+        "word": "普京称停火将能检验乌克兰诚意",
+        "onboard_time": 1745086639,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 19033,
+        "num": 19033,
+        "word": "小盐巴 很好心很软的人",
+        "onboard_time": 1745073445,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 18823,
+        "num": 18823,
+        "word": "那年今日",
+        "onboard_time": 1745081252,
+        "rank": 40,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 17954,
+        "num": 18821,
+        "word": "亚克力枪枪",
+        "onboard_time": 1745085259,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 17131,
+        "num": 18771,
+        "word": "让体重逐渐下降的30个常识",
+        "onboard_time": 1745059881,
+        "rank": 42,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 16790,
+        "num": 18714,
+        "word": "谢娜问吴宣仪你有什么事吗",
+        "onboard_time": 1745072063,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16174,
+        "num": 18671,
+        "word": "短剧吻戏",
+        "onboard_time": 1745067863,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15348,
+        "num": 18638,
+        "word": "山西一处塌方一货车司机遇难",
+        "onboard_time": 1745093834,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15227,
+        "num": 18617,
+        "word": "无忧渡 合体剧宣",
+        "onboard_time": 1745059102,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14884,
+        "num": 18583,
+        "word": "林诗栋被罚分后又吃黄牌",
+        "onboard_time": 1745077103,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13650,
+        "num": 18540,
+        "word": "一句古话说透中马关系",
+        "onboard_time": 1745091794,
+        "rank": 48,
+        "category": "国内时政,国际时政"
+      },
+      {
+        "raw_hot": 13298,
+        "num": 18487,
+        "word": "奥斯塔彭科六连胜斯瓦泰克",
+        "onboard_time": 1745093175,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中柬命运共同体有了新内涵#"
+    }
+  }
+}
