@@ -1,6 +1,6 @@
 {
   "startTime": 1744475262749,
-  "endTime": 1745055429993,
+  "endTime": 1745058243112,
   "band_list": [
     {
       "raw_hot": 10606514,
@@ -473,6 +473,14 @@
       "onboard_time": 1744773683,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1604636,
+      "num": 218201,
+      "word": "短剧尺度",
+      "onboard_time": 1745056222,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 1596379,
@@ -4331,6 +4339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 424959,
+      "num": 272105,
+      "word": "陈哲远 这不用遮了",
+      "onboard_time": 1745053102,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 424743,
       "num": 424743,
       "word": "韩国花商拟在云南买520万枝花",
@@ -4361,6 +4377,14 @@
       "onboard_time": 1744508602,
       "rank": 19,
       "category": "网红"
+    },
+    {
+      "raw_hot": 422419,
+      "num": 324709,
+      "word": "两个50岁不自律女生同居的一天",
+      "onboard_time": 1744869802,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 422271,
@@ -4873,14 +4897,6 @@
       "onboard_time": 1744816462,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 382721,
-      "num": 324709,
-      "word": "两个50岁不自律女生同居的一天",
-      "onboard_time": 1744869802,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 382619,
@@ -6003,6 +6019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 296640,
+      "num": 296640,
+      "word": "李晨 这谁拍的",
+      "onboard_time": 1745053823,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 296223,
       "num": 296223,
       "word": "齐思钧自己去看了两年心理治疗",
@@ -6041,14 +6065,6 @@
       "onboard_time": 1744795341,
       "rank": 26,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 292872,
-      "num": 272105,
-      "word": "陈哲远 这不用遮了",
-      "onboard_time": 1745053102,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 292771,
@@ -6913,6 +6929,14 @@
       "onboard_time": 1745043800,
       "rank": 35,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 255321,
+      "num": 255321,
+      "word": "山下智久和周杰伦同框",
+      "onboard_time": 1745056342,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 254788,
@@ -7827,14 +7851,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 227880,
-      "num": 234447,
-      "word": "李晨 这谁拍的",
-      "onboard_time": 1745053823,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 227790,
       "num": 227790,
       "word": "国产悬疑剧统统都吻上来了",
@@ -8147,12 +8163,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 218232,
+      "num": 218232,
+      "word": "美国金库大查帐",
+      "onboard_time": 1745055502,
+      "rank": 8,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 218190,
       "num": 218190,
       "word": "12306的花语是手慢无",
       "onboard_time": 1744872862,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 217887,
+      "num": 217887,
+      "word": "王楚钦赛后第一时间总结复盘",
+      "onboard_time": 1745055502,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 217726,
@@ -8313,6 +8345,14 @@
       "onboard_time": 1744711700,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 213313,
+      "num": 213313,
+      "word": "王皓暖心安慰王楚钦没关系",
+      "onboard_time": 1745057602,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 213207,
@@ -11451,6 +11491,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 175934,
+      "num": 175934,
+      "word": "雨果回应逆转战胜王楚钦",
+      "onboard_time": 1745056222,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175865,
       "num": 175865,
       "word": "科切拉直播",
@@ -12587,6 +12635,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 162123,
+      "num": 162123,
+      "word": "男子长期肥胖全身关节如硬石",
+      "onboard_time": 1745053823,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161945,
       "num": 161945,
       "word": "上班我很勇 下班兵马俑",
@@ -13009,14 +13065,6 @@
       "onboard_time": 1744810583,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 157656,
-      "num": 157656,
-      "word": "男子长期肥胖全身关节如硬石",
-      "onboard_time": 1745053823,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 157528,
@@ -14443,6 +14491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143913,
+      "num": 165929,
+      "word": "无忧渡乱成一锅粥了快喝了吧",
+      "onboard_time": 1745057183,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143745,
       "num": 250029,
       "word": "美企业要求法院叫停针对中国关税措施",
@@ -14929,6 +14985,14 @@
       "onboard_time": 1744887561,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 139682,
+      "num": 158151,
+      "word": "林更新痛击陈赫顺手的事",
+      "onboard_time": 1745057243,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 139662,
@@ -16579,6 +16643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126222,
+      "num": 141534,
+      "word": "杨紫家业齐刘海造型路透",
+      "onboard_time": 1745055982,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126177,
       "num": 126177,
       "word": "国漫黄金十年",
@@ -16745,6 +16817,14 @@
       "onboard_time": 1744781062,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 124763,
+      "num": 124763,
+      "word": "孟子义被范丞丞骗麻了",
+      "onboard_time": 1745058201,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 124723,
@@ -17531,6 +17611,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 118095,
+      "num": 118095,
+      "word": "这居然是韩庚",
+      "onboard_time": 1745057962,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118028,
       "num": 118028,
       "word": "中越跨国瀑布上的彩虹桥",
@@ -18155,6 +18243,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 111859,
+      "num": 111859,
+      "word": "雷军发文小米SU7现身机器人半马",
+      "onboard_time": 1745058021,
+      "rank": 34,
+      "category": "汽车,数码"
+    },
+    {
       "raw_hot": 111738,
       "num": 111738,
       "word": "杜华表情管理",
@@ -18577,6 +18673,14 @@
       "onboard_time": 1744777824,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106289,
+      "num": 106289,
+      "word": "萧亚轩无锡",
+      "onboard_time": 1745056462,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 106181,
@@ -19347,6 +19451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96893,
+      "num": 103660,
+      "word": "发明辣条的人配享太庙",
+      "onboard_time": 1745055803,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 96858,
       "num": 96858,
       "word": "原来民警捡到丢失孩子也要投喂",
@@ -19388,7 +19500,7 @@
     },
     {
       "raw_hot": 96528,
-      "num": 96528,
+      "num": 156885,
       "word": "美刚种完出口作物关税战来了",
       "onboard_time": 1745054003,
       "rank": 48,
@@ -19569,6 +19681,14 @@
       "onboard_time": 1745034022,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 93679,
+      "num": 93679,
+      "word": "搞定男人哪有搞定客户爽",
+      "onboard_time": 1745057901,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 93558,
@@ -24921,6 +25041,14 @@
       "onboard_time": 1744488674,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 14396,
+      "num": 183414,
+      "word": "人工智能是否会替代大数据",
+      "onboard_time": 1745057842,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 14295,

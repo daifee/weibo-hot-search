@@ -1,6 +1,6 @@
 {
   "startTime": 1744993775892,
-  "endTime": 1745055429993,
+  "endTime": 1745058243112,
   "band_list": [
     {
       "raw_hot": 7793574,
@@ -33,6 +33,14 @@
       "onboard_time": 1745033180,
       "rank": 32,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1604636,
+      "num": 218201,
+      "word": "短剧尺度",
+      "onboard_time": 1745056222,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 1521558,
@@ -419,6 +427,22 @@
       "category": "互联网,网红"
     },
     {
+      "raw_hot": 424959,
+      "num": 272105,
+      "word": "陈哲远 这不用遮了",
+      "onboard_time": 1745053102,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 422419,
+      "num": 274708,
+      "word": "两个50岁不自律女生同居的一天",
+      "onboard_time": 1745054782,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 419556,
       "num": 259260,
       "word": "黄婷婷 李艺彤",
@@ -619,14 +643,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 308688,
-      "num": 274708,
-      "word": "两个50岁不自律女生同居的一天",
-      "onboard_time": 1745054782,
-      "rank": 12,
-      "category": "情感"
-    },
-    {
       "raw_hot": 306535,
       "num": 306535,
       "word": "檀健次深情献唱哪吒2片尾曲",
@@ -675,12 +691,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 292872,
-      "num": 272105,
-      "word": "陈哲远 这不用遮了",
-      "onboard_time": 1745053102,
-      "rank": 23,
-      "category": "作品衍生"
+      "raw_hot": 296640,
+      "num": 296640,
+      "word": "李晨 这谁拍的",
+      "onboard_time": 1745053823,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 292527,
@@ -769,6 +785,14 @@
       "onboard_time": 1745043800,
       "rank": 35,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 255321,
+      "num": 255321,
+      "word": "山下智久和周杰伦同框",
+      "onboard_time": 1745056342,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 253160,
@@ -899,14 +923,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 227880,
-      "num": 234447,
-      "word": "李晨 这谁拍的",
-      "onboard_time": 1745053823,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 226720,
       "num": 378148,
       "word": "交警执勤拉倒电动车绊倒骑行人",
@@ -931,12 +947,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 218232,
+      "num": 218232,
+      "word": "美国金库大查帐",
+      "onboard_time": 1745055502,
+      "rank": 8,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 217887,
+      "num": 217887,
+      "word": "王楚钦赛后第一时间总结复盘",
+      "onboard_time": 1745055502,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 213630,
       "num": 213630,
       "word": "孙珍妮回应脸肿",
       "onboard_time": 1744978041,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 213313,
+      "num": 213313,
+      "word": "王皓暖心安慰王楚钦没关系",
+      "onboard_time": 1745057602,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 212923,
@@ -1147,6 +1187,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 175934,
+      "num": 175934,
+      "word": "雨果回应逆转战胜王楚钦",
+      "onboard_time": 1745056222,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175102,
       "num": 175102,
       "word": "王鹤棣 别整那些播不了的",
@@ -1227,6 +1275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162123,
+      "num": 162123,
+      "word": "男子长期肥胖全身关节如硬石",
+      "onboard_time": 1745053823,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161122,
       "num": 161122,
       "word": "檀健次哪吒2梦幻联动",
@@ -1281,14 +1337,6 @@
       "onboard_time": 1745044941,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 157656,
-      "num": 157656,
-      "word": "男子长期肥胖全身关节如硬石",
-      "onboard_time": 1745053823,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 157319,
@@ -1419,6 +1467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143913,
+      "num": 165929,
+      "word": "无忧渡乱成一锅粥了快喝了吧",
+      "onboard_time": 1745057183,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143396,
       "num": 143396,
       "word": "陈德容 我没有跳个大概",
@@ -1489,6 +1545,14 @@
       "onboard_time": 1745050581,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 139682,
+      "num": 158151,
+      "word": "林更新痛击陈赫顺手的事",
+      "onboard_time": 1745057243,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 139662,
@@ -1707,12 +1771,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 126222,
+      "num": 141534,
+      "word": "杨紫家业齐刘海造型路透",
+      "onboard_time": 1745055982,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125278,
       "num": 125278,
       "word": "南京徐达墓今年首次对外开放",
       "onboard_time": 1745020340,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124763,
+      "num": 124763,
+      "word": "孟子义被范丞丞骗麻了",
+      "onboard_time": 1745058201,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 124518,
@@ -1827,6 +1907,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 118095,
+      "num": 118095,
+      "word": "这居然是韩庚",
+      "onboard_time": 1745057962,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117887,
       "num": 113796,
       "word": "陈德容",
@@ -1931,6 +2019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 111859,
+      "num": 111859,
+      "word": "雷军发文小米SU7现身机器人半马",
+      "onboard_time": 1745058021,
+      "rank": 34,
+      "category": "汽车,数码"
+    },
+    {
       "raw_hot": 111294,
       "num": 111294,
       "word": "佛山电翰对钱没有太多的欲望",
@@ -1993,6 +2089,14 @@
       "onboard_time": 1744991962,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 106289,
+      "num": 106289,
+      "word": "萧亚轩无锡",
+      "onboard_time": 1745056462,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 105933,
@@ -2107,6 +2211,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 96893,
+      "num": 103660,
+      "word": "发明辣条的人配享太庙",
+      "onboard_time": 1745055803,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 96858,
       "num": 96858,
       "word": "原来民警捡到丢失孩子也要投喂",
@@ -2124,7 +2236,7 @@
     },
     {
       "raw_hot": 96528,
-      "num": 96528,
+      "num": 156885,
       "word": "美刚种完出口作物关税战来了",
       "onboard_time": 1745054003,
       "rank": 48,
@@ -2161,6 +2273,14 @@
       "onboard_time": 1745034022,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 93679,
+      "num": 93679,
+      "word": "搞定男人哪有搞定客户爽",
+      "onboard_time": 1745057901,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 91874,
@@ -2825,6 +2945,14 @@
       "onboard_time": 1745001555,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 14396,
+      "num": 183414,
+      "word": "人工智能是否会替代大数据",
+      "onboard_time": 1745057842,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 14063,
