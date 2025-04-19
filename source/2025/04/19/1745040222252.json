@@ -1,0 +1,410 @@
+{
+  "runTime": 1745040222252,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1599406,
+        "num": 1599406,
+        "word": "中方把波音飞机退回美国",
+        "onboard_time": 1745033180,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 646047,
+        "num": 646047,
+        "word": "黄河水不黄了",
+        "onboard_time": 1745028021,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107218,
+        "num": 473109,
+        "word": "外企把中国当作必须进入的战略市场",
+        "onboard_time": 1745037142,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 461868,
+        "num": 461868,
+        "word": "美国终于让欧洲上桌了",
+        "onboard_time": 1745034982,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 448205,
+        "num": 448205,
+        "word": "官方通报女子伸腿阻止高铁关门",
+        "onboard_time": 1745034502,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 441159,
+        "num": 441159,
+        "word": "女子踏青患怪病高烧呕吐多器官损害",
+        "onboard_time": 1745032041,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 416698,
+        "num": 416698,
+        "word": "女子阻止高铁关门相关部门介入调查",
+        "onboard_time": 1745033902,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 382619,
+        "num": 382619,
+        "word": "陈意涵老公导演的电影好费纸巾",
+        "onboard_time": 1745036901,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 356961,
+        "num": 356961,
+        "word": "这居然是赵又廷",
+        "onboard_time": 1745036901,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194761,
+        "num": 356531,
+        "word": "关税亲历者自述美国客户仍在下单",
+        "onboard_time": 1745039002,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1124274,
+        "num": 355934,
+        "word": "卡黄",
+        "onboard_time": 1745036901,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 586083,
+        "num": 355745,
+        "word": "杜淳老婆自曝不拍戏的原因",
+        "onboard_time": 1745029342,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 577079,
+        "num": 355038,
+        "word": "黄奕一个月瘦了20斤",
+        "onboard_time": 1745036901,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 564832,
+        "num": 354681,
+        "word": "女子被轮胎撞死时正和丈夫停车休整",
+        "onboard_time": 1745018058,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 442340,
+        "num": 354082,
+        "word": "这些居然是王珞丹拍的",
+        "onboard_time": 1745038643,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 368708,
+        "num": 353612,
+        "word": "蔡徐坤 熊猫",
+        "onboard_time": 1745029161,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353366,
+        "num": 353366,
+        "word": "男友把她的老王做成了她的晚餐",
+        "onboard_time": 1745037621,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 316428,
+        "num": 316428,
+        "word": "乌克兰放弃世界第三大核武器库",
+        "onboard_time": 1745026641,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 10568,
+        "num": 227397,
+        "word": "王嘉尔新歌GBAD日本成绩好吗",
+        "onboard_time": 1745039241,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 30406,
+        "num": 222747,
+        "word": "人形机器人踏上最美马拉松路线",
+        "onboard_time": 1745038942,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 506597,
+        "num": 222667,
+        "word": "被官二代顶替上大学女子做了律师",
+        "onboard_time": 1745020340,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218611,
+        "num": 218611,
+        "word": "天工机器人半马冲线完赛",
+        "onboard_time": 1745031442,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216520,
+        "num": 216520,
+        "word": "时代少年团演唱会抢票",
+        "onboard_time": 1745036901,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 216411,
+        "num": 216411,
+        "word": "福建9岁女孩腹痛3天查出体内大量积血",
+        "onboard_time": 1745030841,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194672,
+        "num": 194672,
+        "word": "五哈",
+        "onboard_time": 1745037801,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185808,
+        "num": 185808,
+        "word": "董子健被邓超孙俪混合双打",
+        "onboard_time": 1745033482,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179680,
+        "num": 179680,
+        "word": "急性子的人办事有多麻利",
+        "onboard_time": 1745038581,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 175826,
+        "num": 175826,
+        "word": "恋与深空",
+        "onboard_time": 1745036842,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 174060,
+        "num": 174060,
+        "word": "内娱开始搞相亲选秀了",
+        "onboard_time": 1745039961,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167599,
+        "num": 167599,
+        "word": "成都七中女生夺四川EGMO首金",
+        "onboard_time": 1745036301,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 166237,
+        "num": 166237,
+        "word": "怡丽丝尔 鞠婧祎",
+        "onboard_time": 1745030542,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162533,
+        "num": 162533,
+        "word": "女生攒2斤3两脱发卖1万多元",
+        "onboard_time": 1745020280,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161381,
+        "num": 161381,
+        "word": "方大同过世后薛凯琪一醒就痛哭",
+        "onboard_time": 1745022741,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160293,
+        "num": 160293,
+        "word": "东契奇被交易后摔手机泄愤",
+        "onboard_time": 1745038581,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 153431,
+        "num": 153431,
+        "word": "学生吐槽上了大学仍被圈养",
+        "onboard_time": 1745036961,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120816,
+        "num": 141577,
+        "word": "于正夸白鹿演得跟之前的剧都不一样",
+        "onboard_time": 1745038761,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139427,
+        "num": 139427,
+        "word": "孟子义李昀锐夏日大片",
+        "onboard_time": 1745038643,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137906,
+        "num": 137906,
+        "word": "机器人头掉后坚强无头奔跑",
+        "onboard_time": 1745033601,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 137475,
+        "num": 137475,
+        "word": "蒯曼vs伊藤美诚",
+        "onboard_time": 1745037382,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131359,
+        "num": 131359,
+        "word": "第一次喜欢oe的大结局",
+        "onboard_time": 1745034922,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129618,
+        "num": 129618,
+        "word": "一诺七载初心依旧",
+        "onboard_time": 1745039661,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 129284,
+        "num": 129284,
+        "word": "黄英说和李艺彤有新名字叫卡黄",
+        "onboard_time": 1745038282,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123406,
+        "num": 123406,
+        "word": "一些容易长胖的睡前习惯",
+        "onboard_time": 1745023581,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 121935,
+        "num": 121935,
+        "word": "4名中国女生力压美国队夺金",
+        "onboard_time": 1745034201,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 121613,
+        "num": 121613,
+        "word": "王祖贤在安徽老家捐建道路启动改造",
+        "onboard_time": 1745036181,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119928,
+        "num": 119928,
+        "word": "江苏事业编",
+        "onboard_time": 1745036901,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 121598,
+        "num": 118735,
+        "word": "李艺彤 勇敢彤彤不怕困难",
+        "onboard_time": 1745039362,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116337,
+        "num": 116337,
+        "word": "曾黎分享气血不足如何逛菜市场",
+        "onboard_time": 1745032881,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115061,
+        "num": 115061,
+        "word": "papi说朱丹英语上不去都怪尚雯婕",
+        "onboard_time": 1745040201,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 28061,
+        "num": 113555,
+        "word": "水滴式锐角转向",
+        "onboard_time": 1745038942,
+        "rank": 49,
+        "category": "军事"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席访问柬埔寨精彩瞬间#"
+    }
+  }
+}

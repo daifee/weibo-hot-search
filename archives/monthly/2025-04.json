@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1745037741984,
+  "endTime": 1745040222252,
   "band_list": [
     {
       "raw_hot": 18929817,
@@ -3297,6 +3297,14 @@
       "onboard_time": 1744008142,
       "rank": 32,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1124274,
+      "num": 471119,
+      "word": "卡黄",
+      "onboard_time": 1745036901,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 1122600,
@@ -8507,14 +8515,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 579576,
-      "num": 471119,
-      "word": "卡黄",
-      "onboard_time": 1745036901,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 578666,
       "num": 578666,
       "word": "清明节",
@@ -8537,6 +8537,14 @@
       "onboard_time": 1744957702,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 577079,
+      "num": 451818,
+      "word": "黄奕一个月瘦了20斤",
+      "onboard_time": 1745036901,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 576815,
@@ -11179,14 +11187,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 451818,
-      "num": 451818,
-      "word": "黄奕一个月瘦了20斤",
-      "onboard_time": 1745036901,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 451639,
       "num": 451639,
       "word": "为什么王楚钦打德国选手很艰难",
@@ -11321,6 +11321,14 @@
       "onboard_time": 1743829402,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 448205,
+      "num": 473833,
+      "word": "官方通报女子伸腿阻止高铁关门",
+      "onboard_time": 1745034502,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 448146,
@@ -11489,6 +11497,14 @@
       "onboard_time": 1744154000,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 442340,
+      "num": 354082,
+      "word": "这些居然是王珞丹拍的",
+      "onboard_time": 1745038643,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 442270,
@@ -13347,6 +13363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 382619,
+      "num": 382619,
+      "word": "陈意涵老公导演的电影好费纸巾",
+      "onboard_time": 1745036901,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 382244,
       "num": 363608,
       "word": "值得爱定档",
@@ -14275,6 +14299,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 356961,
+      "num": 356961,
+      "word": "这居然是赵又廷",
+      "onboard_time": 1745036901,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 356853,
       "num": 356853,
       "word": "北京大风把小狗吹成海豹了",
@@ -14425,6 +14457,14 @@
       "onboard_time": 1744339102,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 353366,
+      "num": 353366,
+      "word": "男友把她的老王做成了她的晚餐",
+      "onboard_time": 1745037621,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 353098,
@@ -18936,14 +18976,6 @@
       "word": "山西大同因大风天胶带销量暴涨",
       "onboard_time": 1744420282,
       "rank": 32,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 264129,
-      "num": 473833,
-      "word": "官方通报女子伸腿阻止高铁关门",
-      "onboard_time": 1745034502,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -25411,14 +25443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 202378,
-      "num": 278586,
-      "word": "陈意涵老公导演的电影好费纸巾",
-      "onboard_time": 1745036901,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 202296,
       "num": 202296,
       "word": "朱一龙好帅",
@@ -27073,6 +27097,14 @@
       "onboard_time": 1743863062,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194761,
+      "num": 356531,
+      "word": "关税亲历者自述美国客户仍在下单",
+      "onboard_time": 1745039002,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 194717,
@@ -30419,6 +30451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179680,
+      "num": 179680,
+      "word": "急性子的人办事有多麻利",
+      "onboard_time": 1745038581,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 179676,
       "num": 179676,
       "word": "全红婵赛后采访说不可思议",
@@ -31625,6 +31665,14 @@
       "onboard_time": 1744250423,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 174060,
+      "num": 174060,
+      "word": "内娱开始搞相亲选秀了",
+      "onboard_time": 1745039961,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 174050,
@@ -32897,6 +32945,14 @@
       "onboard_time": 1744875441,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 167599,
+      "num": 167599,
+      "word": "成都七中女生夺四川EGMO首金",
+      "onboard_time": 1745036301,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 167586,
@@ -34491,6 +34547,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 160293,
+      "num": 160293,
+      "word": "东契奇被交易后摔手机泄愤",
+      "onboard_time": 1745038581,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 160286,
       "num": 160286,
       "word": "蒋一侨听劝",
@@ -35795,14 +35859,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 154675,
-      "num": 154675,
-      "word": "这居然是赵又廷",
-      "onboard_time": 1745036901,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 154670,
       "num": 154670,
       "word": "案发后周立人试图隐匿和销毁重要物证",
@@ -36113,6 +36169,14 @@
       "onboard_time": 1743754342,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153431,
+      "num": 465303,
+      "word": "学生吐槽上了大学仍被圈养",
+      "onboard_time": 1745036961,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153364,
@@ -37177,14 +37241,6 @@
       "onboard_time": 1744526541,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 148978,
-      "num": 148978,
-      "word": "男友把她的老王做成了她的晚餐",
-      "onboard_time": 1745037621,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 148936,
@@ -39715,6 +39771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139427,
+      "num": 139427,
+      "word": "孟子义李昀锐夏日大片",
+      "onboard_time": 1745038643,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139347,
       "num": 139347,
       "word": "原来春天常犯困和体质有关",
@@ -39929,14 +39993,6 @@
       "onboard_time": 1743939922,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 138691,
-      "num": 138691,
-      "word": "成都七中女生夺四川EGMO首金",
-      "onboard_time": 1745036301,
-      "rank": 46,
-      "category": "教育"
     },
     {
       "raw_hot": 138685,
@@ -42507,6 +42563,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 129618,
+      "num": 129618,
+      "word": "一诺七载初心依旧",
+      "onboard_time": 1745039661,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 129612,
       "num": 129612,
       "word": "labubu可口可乐",
@@ -42609,6 +42673,14 @@
       "onboard_time": 1744539501,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 129284,
+      "num": 129284,
+      "word": "黄英说和李艺彤有新名字叫卡黄",
+      "onboard_time": 1745038282,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 129280,
@@ -44515,6 +44587,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 121598,
+      "num": 118735,
+      "word": "李艺彤 勇敢彤彤不怕困难",
+      "onboard_time": 1745039362,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121578,
       "num": 121578,
       "word": "李嘉琦浪姐挑染脏辫造型",
@@ -44680,6 +44760,14 @@
       "word": "丁禹兮被野人追路透",
       "onboard_time": 1743467664,
       "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 120816,
+      "num": 141577,
+      "word": "于正夸白鹿演得跟之前的剧都不一样",
+      "onboard_time": 1745038761,
+      "rank": 35,
       "category": "剧集"
     },
     {
@@ -46137,6 +46225,14 @@
       "onboard_time": 1744899623,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115061,
+      "num": 115061,
+      "word": "papi说朱丹英语上不去都怪尚雯婕",
+      "onboard_time": 1745040201,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 115026,
@@ -47755,6 +47851,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 107218,
+      "num": 727941,
+      "word": "外企把中国当作必须进入的战略市场",
+      "onboard_time": 1745037142,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 107136,
       "num": 249917,
       "word": "公职人员挂证取酬正被严肃查处",
@@ -48281,14 +48385,6 @@
       "onboard_time": 1743827542,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 104518,
-      "num": 465303,
-      "word": "学生吐槽上了大学仍被圈养",
-      "onboard_time": 1745036961,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 104464,
@@ -58827,6 +58923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30406,
+      "num": 222747,
+      "word": "人形机器人踏上最美马拉松路线",
+      "onboard_time": 1745038942,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30346,
       "num": 30346,
       "word": "黑镜",
@@ -59131,14 +59235,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 28865,
-      "num": 727941,
-      "word": "外企把中国当作必须进入的战略市场",
-      "onboard_time": 1745037142,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 28816,
       "num": 134722,
       "word": "成年人要学会照顾好自己",
@@ -59233,6 +59329,14 @@
       "onboard_time": 1743894977,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28061,
+      "num": 113555,
+      "word": "水滴式锐角转向",
+      "onboard_time": 1745038942,
+      "rank": 49,
+      "category": "军事"
     },
     {
       "raw_hot": 28060,
@@ -62609,6 +62713,14 @@
       "onboard_time": 1744039942,
       "rank": 27,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 10568,
+      "num": 227397,
+      "word": "王嘉尔新歌GBAD日本成绩好吗",
+      "onboard_time": 1745039241,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 10527,
