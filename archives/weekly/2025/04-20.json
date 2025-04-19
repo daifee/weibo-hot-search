@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745105070657,
+  "endTime": 1745105848700,
   "band_list": [
     {
       "raw_hot": 31189573,
@@ -35,6 +35,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2045928,
+      "num": 159947,
+      "word": "鹿晗",
+      "onboard_time": 1745104760,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1486076,
       "num": 94087,
       "word": "鹿晗生日",
@@ -59,14 +67,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1330962,
-      "num": 141586,
-      "word": "鹿晗",
-      "onboard_time": 1745104760,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1142352,
       "num": 1142352,
       "word": "快删除手机里的这些APP",
@@ -83,6 +83,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 789578,
+      "num": 159844,
+      "word": "关晓彤主页访问量",
+      "onboard_time": 1745104878,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 683695,
       "num": 518580,
       "word": "韩庚卢靖姗分房睡",
@@ -97,14 +105,6 @@
       "onboard_time": 1745074045,
       "rank": 1,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 557931,
-      "num": 129638,
-      "word": "关晓彤主页访问量",
-      "onboard_time": 1745104878,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 539037,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 425276,
-      "num": 97291,
+      "num": 154338,
       "word": "女生列车上哭喊被爷爷摸",
       "onboard_time": 1745104519,
       "rank": 20,
@@ -163,6 +163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 329486,
+      "num": 329486,
+      "word": "女子阻止高铁关门为何能得逞",
+      "onboard_time": 1745093294,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 324027,
       "num": 145029,
       "word": "gxt",
@@ -180,7 +188,7 @@
     },
     {
       "raw_hot": 295905,
-      "num": 112919,
+      "num": 154339,
       "word": "一生爱凑热闹的中国人",
       "onboard_time": 1745083463,
       "rank": 21,
@@ -203,14 +211,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 271969,
-      "num": 271969,
-      "word": "女子阻止高铁关门为何能得逞",
-      "onboard_time": 1745093294,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 255058,
       "num": 255058,
       "word": "任嘉伦宋祖儿都在努力剧宣",
@@ -225,6 +225,14 @@
       "onboard_time": 1745073445,
       "rank": 15,
       "category": "网红"
+    },
+    {
+      "raw_hot": 231759,
+      "num": 231759,
+      "word": "美联储主席若遭解雇或致美国股市崩盘",
+      "onboard_time": 1745104399,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 213852,
@@ -275,6 +283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 173074,
+      "num": 173074,
+      "word": "掘金1比0快船",
+      "onboard_time": 1745105299,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 172624,
       "num": 252716,
       "word": "杨天真不建议企业家都做个人IP",
@@ -315,6 +331,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159434,
+      "num": 159434,
+      "word": "谷雨",
+      "onboard_time": 1745105600,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158303,
+      "num": 159600,
+      "word": "4月20日3时56分谷雨",
+      "onboard_time": 1745079932,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157989,
       "num": 157989,
       "word": "林俊杰音乐节",
@@ -329,14 +361,6 @@
       "onboard_time": 1745059881,
       "rank": 27,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 154601,
-      "num": 154601,
-      "word": "4月20日3时56分谷雨",
-      "onboard_time": 1745079932,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 136850,
@@ -403,6 +427,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 124008,
+      "num": 124008,
+      "word": "威少拯救掘金",
+      "onboard_time": 1745105721,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116345,
       "num": 142305,
       "word": "孙颖莎跟裁判示意Notouch",
@@ -417,14 +449,6 @@
       "onboard_time": 1745070264,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 106752,
-      "num": 152147,
-      "word": "美联储主席若遭解雇或致美国股市崩盘",
-      "onboard_time": 1745104399,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 105602,
@@ -457,6 +481,14 @@
       "onboard_time": 1745076445,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 99300,
+      "num": 99300,
+      "word": "日本长野一夜连震47次",
+      "onboard_time": 1745104279,
+      "rank": 26,
+      "category": "国际时政,国际时政"
     },
     {
       "raw_hot": 97320,
@@ -555,14 +587,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 79378,
-      "num": 79378,
-      "word": "日本长野一夜连震47次",
-      "onboard_time": 1745104279,
-      "rank": 26,
-      "category": "国际时政,国际时政"
-    },
-    {
       "raw_hot": 77683,
       "num": 77683,
       "word": "张远高音燃到我了",
@@ -579,12 +603,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 65119,
-      "num": 72362,
+      "raw_hot": 69672,
+      "num": 98770,
       "word": "李诚儒看青蛇小考急得想自己扭两段",
       "onboard_time": 1745098754,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 62307,
+      "num": 62307,
+      "word": "美军惊叹中国军备生产速度",
+      "onboard_time": 1745105539,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 61345,
@@ -611,6 +643,14 @@
       "category": "民生新闻,国内时政"
     },
     {
+      "raw_hot": 57064,
+      "num": 57064,
+      "word": "王勉把人情世故拿捏住了",
+      "onboard_time": 1745102598,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 55868,
       "num": 55868,
       "word": "丁禹兮感动到快哭了",
@@ -627,6 +667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 51659,
+      "num": 61069,
+      "word": "网友拍到大爷在悬崖峭壁上耕作",
+      "onboard_time": 1745090595,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51344,
       "num": 51344,
       "word": "美国各地农民面临破产风险",
@@ -635,19 +683,19 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 51147,
-      "num": 51147,
-      "word": "王勉把人情世故拿捏住了",
-      "onboard_time": 1745102598,
-      "rank": 34,
-      "category": "艺人"
+      "raw_hot": 51320,
+      "num": 51320,
+      "word": "二婚丈夫回应玲宝去世",
+      "onboard_time": 1745105780,
+      "rank": 42,
+      "category": "网红"
     },
     {
-      "raw_hot": 48824,
-      "num": 61069,
-      "word": "网友拍到大爷在悬崖峭壁上耕作",
-      "onboard_time": 1745090595,
-      "rank": 9,
+      "raw_hot": 48954,
+      "num": 344178,
+      "word": "关税政策加剧美国农业困境",
+      "onboard_time": 1745069665,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -659,6 +707,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 47417,
+      "num": 47417,
+      "word": "黄子弘凡演唱会哭了",
+      "onboard_time": 1745105481,
+      "rank": 46,
+      "category": "情感,艺人"
+    },
+    {
       "raw_hot": 47406,
       "num": 67231,
       "word": "云南广西要热到40度了",
@@ -667,11 +723,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 47258,
-      "num": 335134,
-      "word": "关税政策加剧美国农业困境",
-      "onboard_time": 1745069665,
-      "rank": 2,
+      "raw_hot": 43610,
+      "num": 43610,
+      "word": "山西一处塌方一货车司机遇难",
+      "onboard_time": 1745093834,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -689,14 +745,6 @@
       "onboard_time": 1745085259,
       "rank": 41,
       "category": "网红"
-    },
-    {
-      "raw_hot": 35994,
-      "num": 42881,
-      "word": "山西一处塌方一货车司机遇难",
-      "onboard_time": 1745093834,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 35621,
@@ -753,6 +801,14 @@
       "onboard_time": 1745090474,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 21852,
+      "num": 52853,
+      "word": "刘雨昕直播",
+      "onboard_time": 1745105721,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 20568,

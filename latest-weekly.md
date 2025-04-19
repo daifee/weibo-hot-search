@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/20 00:29:07 ~ 2025/04/20 07:24:30
+本榜单时间：2025/04/20 00:29:07 ~ 2025/04/20 07:37:28
 </p>
 </blockquote>
 <p>
@@ -39,6 +39,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%23" target="weibo">
+鹿晗（热度：2045928）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E7%94%9F%E6%97%A5%23" target="weibo">
 鹿晗生日（热度：1486076）
 </a>
@@ -57,12 +63,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%23" target="weibo">
-鹿晗（热度：1330962）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BF%AB%E5%88%A0%E9%99%A4%E6%89%8B%E6%9C%BA%E9%87%8C%E7%9A%84%E8%BF%99%E4%BA%9BAPP%23" target="weibo">
 快删除手机里的这些APP（热度：1142352）
 </a>
@@ -75,6 +75,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E4%B8%BB%E9%A1%B5%E8%AE%BF%E9%97%AE%E9%87%8F%23" target="weibo">
+关晓彤主页访问量（热度：789578）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%BA%9A%E5%8D%A2%E9%9D%96%E5%A7%97%E5%88%86%E6%88%BF%E7%9D%A1%23" target="weibo">
 韩庚卢靖姗分房睡（热度：683695）
 </a>
@@ -83,12 +89,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23CIA%E6%8A%A5%E5%91%8A%E7%A7%B0%E5%A4%96%E6%98%9F%E4%BA%BA%E7%9F%B3%E5%8C%96%E8%8B%8F%E8%81%94%E5%A3%AB%E5%85%B5%23" target="weibo">
 CIA报告称外星人石化苏联士兵（热度：601824）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E4%B8%BB%E9%A1%B5%E8%AE%BF%E9%97%AE%E9%87%8F%23" target="weibo">
-关晓彤主页访问量（热度：557931）
 </a>
 </li>
 
@@ -135,6 +135,12 @@ CIA报告称外星人石化苏联士兵（热度：601824）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%98%BB%E6%AD%A2%E9%AB%98%E9%93%81%E5%85%B3%E9%97%A8%E4%B8%BA%E4%BD%95%E8%83%BD%E5%BE%97%E9%80%9E%23" target="weibo">
+女子阻止高铁关门为何能得逞（热度：329486）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23gxt%23" target="weibo">
 gxt（热度：324027）
 </a>
@@ -165,12 +171,6 @@ gxt（热度：324027）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%98%BB%E6%AD%A2%E9%AB%98%E9%93%81%E5%85%B3%E9%97%A8%E4%B8%BA%E4%BD%95%E8%83%BD%E5%BE%97%E9%80%9E%23" target="weibo">
-女子阻止高铁关门为何能得逞（热度：271969）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%BB%E5%98%89%E4%BC%A6%E5%AE%8B%E7%A5%96%E5%84%BF%E9%83%BD%E5%9C%A8%E5%8A%AA%E5%8A%9B%E5%89%A7%E5%AE%A3%23" target="weibo">
 任嘉伦宋祖儿都在努力剧宣（热度：255058）
 </a>
@@ -179,6 +179,12 @@ gxt（热度：324027）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%9B%90%E5%B7%B4%20%E5%BE%88%E5%A5%BD%E5%BF%83%E5%BE%88%E8%BD%AF%E7%9A%84%E4%BA%BA%23" target="weibo">
 小盐巴 很好心很软的人（热度：245994）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD%E8%8B%A5%E9%81%AD%E8%A7%A3%E9%9B%87%E6%88%96%E8%87%B4%E7%BE%8E%E5%9B%BD%E8%82%A1%E5%B8%82%E5%B4%A9%E7%9B%98%23" target="weibo">
+美联储主席若遭解雇或致美国股市崩盘（热度：231759）
 </a>
 </li>
 
@@ -219,6 +225,12 @@ gxt（热度：324027）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8E%98%E9%87%911%E6%AF%940%E5%BF%AB%E8%88%B9%23" target="weibo">
+掘金1比0快船（热度：173074）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%A4%A9%E7%9C%9F%E4%B8%8D%E5%BB%BA%E8%AE%AE%E4%BC%81%E4%B8%9A%E5%AE%B6%E9%83%BD%E5%81%9A%E4%B8%AA%E4%BA%BAIP%23" target="weibo">
 杨天真不建议企业家都做个人IP（热度：172624）
 </a>
@@ -249,6 +261,18 @@ gxt（热度：324027）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%B7%E9%9B%A8%23" target="weibo">
+谷雨（热度：159434）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%234%E6%9C%8820%E6%97%A53%E6%97%B656%E5%88%86%E8%B0%B7%E9%9B%A8%23" target="weibo">
+4月20日3时56分谷雨（热度：158303）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E9%9F%B3%E4%B9%90%E8%8A%82%23" target="weibo">
 林俊杰音乐节（热度：157989）
 </a>
@@ -257,12 +281,6 @@ gxt（热度：324027）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%A9%E4%BD%93%E9%87%8D%E9%80%90%E6%B8%90%E4%B8%8B%E9%99%8D%E7%9A%8430%E4%B8%AA%E5%B8%B8%E8%AF%86%23" target="weibo">
 让体重逐渐下降的30个常识（热度：154832）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%234%E6%9C%8820%E6%97%A53%E6%97%B656%E5%88%86%E8%B0%B7%E9%9B%A8%23" target="weibo">
-4月20日3时56分谷雨（热度：154601）
 </a>
 </li>
 
@@ -315,6 +333,12 @@ gxt（热度：324027）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A8%81%E5%B0%91%E6%8B%AF%E6%95%91%E6%8E%98%E9%87%91%23" target="weibo">
+威少拯救掘金（热度：124008）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E8%B7%9F%E8%A3%81%E5%88%A4%E7%A4%BA%E6%84%8FNotouch%23" target="weibo">
 孙颖莎跟裁判示意Notouch（热度：116345）
 </a>
@@ -323,12 +347,6 @@ gxt（热度：324027）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23XLG%E6%88%98%E8%83%9CEDG%23" target="weibo">
 XLG战胜EDG（热度：112016）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD%E8%8B%A5%E9%81%AD%E8%A7%A3%E9%9B%87%E6%88%96%E8%87%B4%E7%BE%8E%E5%9B%BD%E8%82%A1%E5%B8%82%E5%B4%A9%E7%9B%98%23" target="weibo">
-美联储主席若遭解雇或致美国股市崩盘（热度：106752）
 </a>
 </li>
 
@@ -353,6 +371,12 @@ XLG战胜EDG（热度：112016）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B6%9B%E5%90%AC%E5%88%B0%E5%A6%88%E5%A6%88%E5%8F%8C%E5%A5%B3%E4%B8%BB%23" target="weibo">
 刘涛听到妈妈双女主（热度：100929）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%95%BF%E9%87%8E%E4%B8%80%E5%A4%9C%E8%BF%9E%E9%9C%8747%E6%AC%A1%23" target="weibo">
+日本长野一夜连震47次（热度：99300）
 </a>
 </li>
 
@@ -429,12 +453,6 @@ EDG Simon（热度：92016）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%95%BF%E9%87%8E%E4%B8%80%E5%A4%9C%E8%BF%9E%E9%9C%8747%E6%AC%A1%23" target="weibo">
-日本长野一夜连震47次（热度：79378）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%BF%9C%E9%AB%98%E9%9F%B3%E7%87%83%E5%88%B0%E6%88%91%E4%BA%86%23" target="weibo">
 张远高音燃到我了（热度：77683）
 </a>
@@ -448,7 +466,13 @@ EDG Simon（热度：92016）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%AF%9A%E5%84%92%E7%9C%8B%E9%9D%92%E8%9B%87%E5%B0%8F%E8%80%83%E6%80%A5%E5%BE%97%E6%83%B3%E8%87%AA%E5%B7%B1%E6%89%AD%E4%B8%A4%E6%AE%B5%23" target="weibo">
-李诚儒看青蛇小考急得想自己扭两段（热度：65119）
+李诚儒看青蛇小考急得想自己扭两段（热度：69672）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E6%83%8A%E5%8F%B9%E4%B8%AD%E5%9B%BD%E5%86%9B%E5%A4%87%E7%94%9F%E4%BA%A7%E9%80%9F%E5%BA%A6%23" target="weibo">
+美军惊叹中国军备生产速度（热度：62307）
 </a>
 </li>
 
@@ -471,6 +495,12 @@ EDG Simon（热度：92016）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%8B%89%E6%8A%8A%E4%BA%BA%E6%83%85%E4%B8%96%E6%95%85%E6%8B%BF%E6%8D%8F%E4%BD%8F%E4%BA%86%23" target="weibo">
+王勉把人情世故拿捏住了（热度：57064）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E6%84%9F%E5%8A%A8%E5%88%B0%E5%BF%AB%E5%93%AD%E4%BA%86%23" target="weibo">
 丁禹兮感动到快哭了（热度：55868）
 </a>
@@ -483,20 +513,26 @@ EDG Simon（热度：92016）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E6%8B%8D%E5%88%B0%E5%A4%A7%E7%88%B7%E5%9C%A8%E6%82%AC%E5%B4%96%E5%B3%AD%E5%A3%81%E4%B8%8A%E8%80%95%E4%BD%9C%23" target="weibo">
+网友拍到大爷在悬崖峭壁上耕作（热度：51659）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%90%84%E5%9C%B0%E5%86%9C%E6%B0%91%E9%9D%A2%E4%B8%B4%E7%A0%B4%E4%BA%A7%E9%A3%8E%E9%99%A9%23" target="weibo">
 美国各地农民面临破产风险（热度：51344）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%8B%89%E6%8A%8A%E4%BA%BA%E6%83%85%E4%B8%96%E6%95%85%E6%8B%BF%E6%8D%8F%E4%BD%8F%E4%BA%86%23" target="weibo">
-王勉把人情世故拿捏住了（热度：51147）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%A9%9A%E4%B8%88%E5%A4%AB%E5%9B%9E%E5%BA%94%E7%8E%B2%E5%AE%9D%E5%8E%BB%E4%B8%96%23" target="weibo">
+二婚丈夫回应玲宝去世（热度：51320）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E6%8B%8D%E5%88%B0%E5%A4%A7%E7%88%B7%E5%9C%A8%E6%82%AC%E5%B4%96%E5%B3%AD%E5%A3%81%E4%B8%8A%E8%80%95%E4%BD%9C%23" target="weibo">
-网友拍到大爷在悬崖峭壁上耕作（热度：48824）
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E7%A8%8E%E6%94%BF%E7%AD%96%E5%8A%A0%E5%89%A7%E7%BE%8E%E5%9B%BD%E5%86%9C%E4%B8%9A%E5%9B%B0%E5%A2%83%23" target="weibo">
+关税政策加剧美国农业困境（热度：48954）
 </a>
 </li>
 
@@ -507,14 +543,20 @@ EDG Simon（热度：92016）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E5%BC%98%E5%87%A1%E6%BC%94%E5%94%B1%E4%BC%9A%E5%93%AD%E4%BA%86%23" target="weibo">
+黄子弘凡演唱会哭了（热度：47417）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%91%E5%8D%97%E5%B9%BF%E8%A5%BF%E8%A6%81%E7%83%AD%E5%88%B040%E5%BA%A6%E4%BA%86%23" target="weibo">
 云南广西要热到40度了（热度：47406）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E7%A8%8E%E6%94%BF%E7%AD%96%E5%8A%A0%E5%89%A7%E7%BE%8E%E5%9B%BD%E5%86%9C%E4%B8%9A%E5%9B%B0%E5%A2%83%23" target="weibo">
-关税政策加剧美国农业困境（热度：47258）
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E4%B8%80%E5%A4%84%E5%A1%8C%E6%96%B9%E4%B8%80%E8%B4%A7%E8%BD%A6%E5%8F%B8%E6%9C%BA%E9%81%87%E9%9A%BE%23" target="weibo">
+山西一处塌方一货车司机遇难（热度：43610）
 </a>
 </li>
 
@@ -527,12 +569,6 @@ EDG Simon（热度：92016）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%9A%E5%85%8B%E5%8A%9B%E6%9E%AA%E6%9E%AA%23" target="weibo">
 亚克力枪枪（热度：40340）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E4%B8%80%E5%A4%84%E5%A1%8C%E6%96%B9%E4%B8%80%E8%B4%A7%E8%BD%A6%E5%8F%B8%E6%9C%BA%E9%81%87%E9%9A%BE%23" target="weibo">
-山西一处塌方一货车司机遇难（热度：35994）
 </a>
 </li>
 
@@ -575,6 +611,12 @@ EDG Simon（热度：92016）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E7%94%B5%E5%BD%B1%E8%8A%82%23" target="weibo">
 北京电影节（热度：22556）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E9%9B%A8%E6%98%95%E7%9B%B4%E6%92%AD%23" target="weibo">
+刘雨昕直播（热度：21852）
 </a>
 </li>
 
