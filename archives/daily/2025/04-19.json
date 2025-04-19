@@ -1,9 +1,9 @@
 {
   "startTime": 1744993775892,
-  "endTime": 1745054594727,
+  "endTime": 1745055429993,
   "band_list": [
     {
-      "raw_hot": 7438273,
+      "raw_hot": 7793574,
       "num": 8688273,
       "word": "王楚钦无缘澳门世界杯决赛",
       "onboard_time": 1745051843,
@@ -91,6 +91,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 942806,
+      "num": 348273,
+      "word": "全身95%烧伤女孩订婚了",
+      "onboard_time": 1745050101,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 906553,
       "num": 1145048,
       "word": "特朗普回应黄仁勋访华",
@@ -104,14 +112,6 @@
       "word": "女子被轮胎撞死时正和丈夫停车休整",
       "onboard_time": 1745018058,
       "rank": 10,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 890152,
-      "num": 348273,
-      "word": "全身95%烧伤女孩订婚了",
-      "onboard_time": 1745050101,
-      "rank": 11,
       "category": "民生新闻"
     },
     {
@@ -219,6 +219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 642727,
+      "num": 642727,
+      "word": "男子试驾撞毁5辆豪车只为求职抵债",
+      "onboard_time": 1745051301,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 624564,
       "num": 624564,
       "word": "女生攒2斤3两脱发卖1万多元",
@@ -281,14 +289,6 @@
       "onboard_time": 1745036901,
       "rank": 3,
       "category": "演出"
-    },
-    {
-      "raw_hot": 531423,
-      "num": 531423,
-      "word": "男子试驾撞毁5辆豪车只为求职抵债",
-      "onboard_time": 1745051301,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 528082,
@@ -403,20 +403,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 433677,
+      "num": 433677,
+      "word": "王皓对王楚钦说挺好挺好挺好",
+      "onboard_time": 1745052923,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 426932,
       "num": 426932,
       "word": "董宇辉首获人民文学奖",
       "onboard_time": 1745047883,
       "rank": 25,
       "category": "互联网,网红"
-    },
-    {
-      "raw_hot": 420375,
-      "num": 291402,
-      "word": "王皓对王楚钦说挺好挺好挺好",
-      "onboard_time": 1745052923,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 419556,
@@ -449,6 +449,14 @@
       "onboard_time": 1745044701,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 397821,
+      "num": 397821,
+      "word": "如何看待王楚钦无缘世界杯决赛",
+      "onboard_time": 1745054362,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 386014,
@@ -611,6 +619,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 308688,
+      "num": 274708,
+      "word": "两个50岁不自律女生同居的一天",
+      "onboard_time": 1745054782,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 306535,
       "num": 306535,
       "word": "檀健次深情献唱哪吒2片尾曲",
@@ -657,6 +673,14 @@
       "onboard_time": 1745051001,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 292872,
+      "num": 272105,
+      "word": "陈哲远 这不用遮了",
+      "onboard_time": 1745053102,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 292527,
@@ -747,6 +771,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 253160,
+      "num": 253160,
+      "word": "看得出马丽是公主",
+      "onboard_time": 1745052564,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 251930,
       "num": 381941,
       "word": "沈腾玲花他俩手拉手了",
@@ -801,14 +833,6 @@
       "onboard_time": 1745027181,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 246132,
-      "num": 246132,
-      "word": "看得出马丽是公主",
-      "onboard_time": 1745052564,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 244044,
@@ -875,6 +899,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 227880,
+      "num": 234447,
+      "word": "李晨 这谁拍的",
+      "onboard_time": 1745053823,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 226720,
       "num": 378148,
       "word": "交警执勤拉倒电动车绊倒骑行人",
@@ -899,14 +931,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 213963,
-      "num": 213963,
-      "word": "陈哲远 这不用遮了",
-      "onboard_time": 1745053102,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 213630,
       "num": 213630,
       "word": "孙珍妮回应脸肿",
@@ -921,6 +945,14 @@
       "onboard_time": 1745033180,
       "rank": 33,
       "category": "网红"
+    },
+    {
+      "raw_hot": 210729,
+      "num": 224982,
+      "word": "三生三世十里桃花有多火",
+      "onboard_time": 1745051122,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 207813,
@@ -963,6 +995,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 201060,
+      "num": 201060,
+      "word": "王皓",
+      "onboard_time": 1745055142,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199187,
       "num": 199187,
       "word": "美国正失去耐心",
@@ -987,20 +1027,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 191583,
-      "num": 191583,
-      "word": "如何看待王楚钦无缘世界杯决赛",
-      "onboard_time": 1745054362,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 191134,
       "num": 349411,
       "word": "机器人跑姿大赏",
       "onboard_time": 1745026881,
       "rank": 18,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 190872,
+      "num": 653189,
+      "word": "有些国家信誉积分可能都租不到充电宝",
+      "onboard_time": 1745052802,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 188977,
@@ -1099,28 +1139,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 177956,
-      "num": 224982,
-      "word": "三生三世十里桃花有多火",
-      "onboard_time": 1745051122,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 177629,
       "num": 177629,
       "word": "00后女辅警40米深井救出幼童",
       "onboard_time": 1745006775,
       "rank": 9,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 176380,
-      "num": 626512,
-      "word": "有些国家信誉积分可能都租不到充电宝",
-      "onboard_time": 1745052802,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 175102,
@@ -1195,6 +1219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162318,
+      "num": 162318,
+      "word": "WTT",
+      "onboard_time": 1745053883,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161122,
       "num": 161122,
       "word": "檀健次哪吒2梦幻联动",
@@ -1243,20 +1275,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 158631,
-      "num": 168704,
-      "word": "李晨 这谁拍的",
-      "onboard_time": 1745053823,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 157838,
       "num": 157838,
       "word": "虞书欣给摄影师买新相机",
       "onboard_time": 1745044941,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157656,
+      "num": 157656,
+      "word": "男子长期肥胖全身关节如硬石",
+      "onboard_time": 1745053823,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 157319,
@@ -1395,14 +1427,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 142825,
-      "num": 142825,
-      "word": "WTT",
-      "onboard_time": 1745053883,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 142479,
       "num": 179078,
       "word": "张远抽中张杰演唱会第一个定制应援棒",
@@ -1457,6 +1481,14 @@
       "onboard_time": 1745050161,
       "rank": 31,
       "category": "数码"
+    },
+    {
+      "raw_hot": 139765,
+      "num": 139765,
+      "word": "LadyGaga科切拉舞台",
+      "onboard_time": 1745050581,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 139662,
@@ -1673,14 +1705,6 @@
       "onboard_time": 1745046802,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 127012,
-      "num": 127012,
-      "word": "LadyGaga科切拉舞台",
-      "onboard_time": 1745050581,
-      "rank": 35,
-      "category": "演出"
     },
     {
       "raw_hot": 125278,
@@ -1907,14 +1931,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 111777,
-      "num": 111777,
-      "word": "男子长期肥胖全身关节如硬石",
-      "onboard_time": 1745053823,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 111294,
       "num": 111294,
       "word": "佛山电翰对钱没有太多的欲望",
@@ -2083,6 +2099,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 97185,
+      "num": 97185,
+      "word": "时代少年团亮个相",
+      "onboard_time": 1745054723,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 96858,
       "num": 96858,
       "word": "原来民警捡到丢失孩子也要投喂",
@@ -2097,6 +2121,14 @@
       "onboard_time": 1745018058,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 96528,
+      "num": 96528,
+      "word": "美刚种完出口作物关税战来了",
+      "onboard_time": 1745054003,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 95179,
@@ -2491,6 +2523,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 46654,
+      "num": 118285,
+      "word": "计算机行业会被ai代替吗",
+      "onboard_time": 1745055321,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 46353,
       "num": 66147,
       "word": "折腰名字改回来了",
@@ -2577,6 +2617,14 @@
       "onboard_time": 1745003776,
       "rank": 47,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 34430,
+      "num": 245372,
+      "word": "姜甲儒被抢走的十七年",
+      "onboard_time": 1745055022,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33425,
@@ -2831,6 +2879,9 @@
     },
     {
       "word": "#习近平东南亚之行几个瞬间意味深长#"
+    },
+    {
+      "word": "#中柬命运共同体有了新内涵#"
     }
   ]
 }

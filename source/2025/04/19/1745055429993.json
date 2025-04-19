@@ -1,0 +1,410 @@
+{
+  "runTime": 1745055429993,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7793574,
+        "num": 8460699,
+        "word": "王楚钦无缘澳门世界杯决赛",
+        "onboard_time": 1745051843,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 684568,
+        "num": 684568,
+        "word": "封神2亏损",
+        "onboard_time": 1745048543,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 190872,
+        "num": 653189,
+        "word": "有些国家信誉积分可能都租不到充电宝",
+        "onboard_time": 1745052802,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 642727,
+        "num": 642727,
+        "word": "男子试驾撞毁5辆豪车只为求职抵债",
+        "onboard_time": 1745051301,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 433877,
+        "num": 433877,
+        "word": "五一反向旅游",
+        "onboard_time": 1745044642,
+        "rank": 4,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 433677,
+        "num": 433677,
+        "word": "王皓对王楚钦说挺好挺好挺好",
+        "onboard_time": 1745052923,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 397821,
+        "num": 397821,
+        "word": "如何看待王楚钦无缘世界杯决赛",
+        "onboard_time": 1745054362,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 340707,
+        "num": 340707,
+        "word": "雨果晋级男单决赛",
+        "onboard_time": 1745052324,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 301135,
+        "num": 301135,
+        "word": "第一次见表白往脖子盖章的",
+        "onboard_time": 1745051362,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 291197,
+        "num": 291197,
+        "word": "美将设工作组紧急处理对中加征关税危机",
+        "onboard_time": 1745051001,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 942806,
+        "num": 289089,
+        "word": "全身95%烧伤女孩订婚了",
+        "onboard_time": 1745050101,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 649921,
+        "num": 282463,
+        "word": "关晓彤已连续7年为鹿晗庆生",
+        "onboard_time": 1745044101,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308688,
+        "num": 274708,
+        "word": "两个50岁不自律女生同居的一天",
+        "onboard_time": 1745054782,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 292872,
+        "num": 272105,
+        "word": "陈哲远 这不用遮了",
+        "onboard_time": 1745053102,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 266091,
+        "num": 266091,
+        "word": "260元买6斤榴莲出3斤肉2斤核",
+        "onboard_time": 1745049201,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259659,
+        "num": 259659,
+        "word": "当北京欢迎你时隔17年再响起",
+        "onboard_time": 1745050402,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 253160,
+        "num": 253160,
+        "word": "看得出马丽是公主",
+        "onboard_time": 1745052564,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 34430,
+        "num": 245372,
+        "word": "姜甲儒被抢走的十七年",
+        "onboard_time": 1745055022,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243553,
+        "num": 243553,
+        "word": "王楚钦3比4雨果",
+        "onboard_time": 1745052324,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227880,
+        "num": 234447,
+        "word": "李晨 这谁拍的",
+        "onboard_time": 1745053823,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230847,
+        "num": 230847,
+        "word": "董宇辉首获人民文学奖",
+        "onboard_time": 1745047883,
+        "rank": 20,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 222898,
+        "num": 222898,
+        "word": "王楚钦这场比分太焦灼了",
+        "onboard_time": 1745052802,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212845,
+        "num": 212845,
+        "word": "谢娜发文向张小婉管乐解释",
+        "onboard_time": 1745044701,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210729,
+        "num": 210729,
+        "word": "三生三世十里桃花有多火",
+        "onboard_time": 1745051122,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206052,
+        "num": 206052,
+        "word": "美墨边境开始走私鸡蛋了",
+        "onboard_time": 1745041401,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 202963,
+        "num": 202963,
+        "word": "陈都灵珠海",
+        "onboard_time": 1745048723,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201060,
+        "num": 201060,
+        "word": "王皓",
+        "onboard_time": 1745055142,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174978,
+        "num": 174978,
+        "word": "女子理完发顺走1280元的剪刀",
+        "onboard_time": 1745047043,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173665,
+        "num": 173665,
+        "word": "伊藤美诚输给蒯曼后哭了",
+        "onboard_time": 1745047762,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170003,
+        "num": 170003,
+        "word": "老公打造37克孕育专属金镯给老婆",
+        "onboard_time": 1745046203,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162318,
+        "num": 162318,
+        "word": "WTT",
+        "onboard_time": 1745053883,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157656,
+        "num": 157656,
+        "word": "男子长期肥胖全身关节如硬石",
+        "onboard_time": 1745053823,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139765,
+        "num": 139765,
+        "word": "LadyGaga科切拉舞台",
+        "onboard_time": 1745050581,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 138065,
+        "num": 138065,
+        "word": "泼水节民警2小时捡12个小孩",
+        "onboard_time": 1745051482,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131114,
+        "num": 131114,
+        "word": "陈德容 日子怎么可能和谁过都一样",
+        "onboard_time": 1745043441,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127479,
+        "num": 127479,
+        "word": "女子等4年没做上手术靠止痛药硬扛",
+        "onboard_time": 1745043800,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 126736,
+        "num": 126736,
+        "word": "官方通报女子伸腿阻止高铁关门",
+        "onboard_time": 1745034502,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125516,
+        "num": 125516,
+        "word": "卡黄",
+        "onboard_time": 1745036901,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46654,
+        "num": 118285,
+        "word": "计算机行业会被ai代替吗",
+        "onboard_time": 1745055321,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 102292,
+        "num": 118159,
+        "word": "为什么金价涨幅居高不下",
+        "onboard_time": 1745054062,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 118048,
+        "num": 118048,
+        "word": "金智秀金珉奎南柱赫韩素希活动生图",
+        "onboard_time": 1745050701,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 113993,
+        "num": 113993,
+        "word": "不能夜跑的真实原因",
+        "onboard_time": 1745054183,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112167,
+        "num": 112167,
+        "word": "女子阻止高铁关门相关部门介入调查",
+        "onboard_time": 1745033902,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108764,
+        "num": 108764,
+        "word": "洞穴潜水失联3天奇迹生还",
+        "onboard_time": 1745046203,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98702,
+        "num": 98702,
+        "word": "王楚钦vs雨果",
+        "onboard_time": 1745036722,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97565,
+        "num": 97565,
+        "word": "国乒包揽澳门世界杯女单冠亚军",
+        "onboard_time": 1745047762,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97185,
+        "num": 97185,
+        "word": "时代少年团亮个相",
+        "onboard_time": 1745054723,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 96916,
+        "num": 96916,
+        "word": "宇树科技回应未参与马拉松比赛",
+        "onboard_time": 1745050161,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 96528,
+        "num": 96528,
+        "word": "美刚种完出口作物关税战来了",
+        "onboard_time": 1745054003,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 89939,
+        "num": 89939,
+        "word": "美国人开始去墨西哥寻鸡蛋",
+        "onboard_time": 1745042421,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#中柬命运共同体有了新内涵#"
+    }
+  }
+}
