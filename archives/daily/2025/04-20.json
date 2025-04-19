@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745084311364,
+  "endTime": 1745087411926,
   "band_list": [
     {
       "raw_hot": 31189573,
@@ -155,6 +155,14 @@
       "category": "艺人,剧集"
     },
     {
+      "raw_hot": 295905,
+      "num": 112919,
+      "word": "一生爱凑热闹的中国人",
+      "onboard_time": 1745083463,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 288830,
       "num": 288830,
       "word": "热量比肉还高的水果",
@@ -200,14 +208,6 @@
       "word": "刘涛 这么多mother啊",
       "onboard_time": 1745077343,
       "rank": 19,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 195210,
-      "num": 112919,
-      "word": "一生爱凑热闹的中国人",
-      "onboard_time": 1745083463,
-      "rank": 21,
       "category": "艺人"
     },
     {
@@ -547,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 47406,
+      "num": 67231,
+      "word": "云南广西要热到40度了",
+      "onboard_time": 1745084780,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43047,
       "num": 147453,
       "word": "胡彦斌直播",
@@ -555,7 +563,31 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 9369,
+      "raw_hot": 39562,
+      "num": 39562,
+      "word": "亚克力枪枪",
+      "onboard_time": 1745085259,
+      "rank": 41,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 35621,
+      "num": 35621,
+      "word": "普京称停火将能检验乌克兰诚意",
+      "onboard_time": 1745086639,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 33319,
+      "num": 33319,
+      "word": "王婆坦言曾因焦虑暴瘦20斤",
+      "onboard_time": 1745085679,
+      "rank": 46,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 18409,
       "num": 335134,
       "word": "关税政策加剧美国农业困境",
       "onboard_time": 1745069665,
