@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745148982405,
+  "endTime": 1745152969404,
   "band_list": [
     {
       "raw_hot": 31189573,
@@ -9,6 +9,14 @@
       "onboard_time": 1745079693,
       "rank": 10,
       "category": "艺人,剧集"
+    },
+    {
+      "raw_hot": 14184279,
+      "num": 14184279,
+      "word": "鹿晗 关晓彤",
+      "onboard_time": 1745150424,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 12026031,
@@ -49,6 +57,14 @@
       "onboard_time": 1745122523,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 2499421,
+      "num": 2499421,
+      "word": "孙颖莎冠军",
+      "onboard_time": 1745151746,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 2456884,
@@ -131,12 +147,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1334127,
+      "num": 1334127,
+      "word": "31岁男星黄正杰去世",
+      "onboard_time": 1745149883,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1301010,
       "num": 386826,
       "word": "等关晓彤发博",
       "onboard_time": 1745134823,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1222159,
+      "num": 1222159,
+      "word": "孙颖莎vs蒯曼",
+      "onboard_time": 1745148022,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 1167497,
@@ -193,6 +225,14 @@
       "onboard_time": 1745141782,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 848658,
+      "num": 356704,
+      "word": "赵露思 范思哲",
+      "onboard_time": 1745151024,
+      "rank": 11,
+      "category": "电影,时尚"
     },
     {
       "raw_hot": 817201,
@@ -283,6 +323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 617615,
+      "num": 617615,
+      "word": "林诗栋vs雨果",
+      "onboard_time": 1745151327,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 601824,
       "num": 601824,
       "word": "CIA报告称外星人石化苏联士兵",
@@ -323,8 +371,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 558284,
+      "num": 558284,
+      "word": "孙颖莎蒯曼女单决赛对战",
+      "onboard_time": 1745146822,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 554974,
-      "num": 314273,
+      "num": 355804,
       "word": "迪丽热巴发型师 方可",
       "onboard_time": 1745142682,
       "rank": 13,
@@ -337,6 +393,14 @@
       "onboard_time": 1745111905,
       "rank": 3,
       "category": "数码"
+    },
+    {
+      "raw_hot": 544363,
+      "num": 544363,
+      "word": "女子出现在热播剧中自己毫不知情",
+      "onboard_time": 1745148322,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 538394,
@@ -400,6 +464,14 @@
       "word": "日本大米暴涨有人去韩国带回40斤",
       "onboard_time": 1745117363,
       "rank": 49,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 458394,
+      "num": 458394,
+      "word": "饺子在美国身价涨到一美元一个",
+      "onboard_time": 1745149883,
+      "rank": 8,
       "category": "海外新闻"
     },
     {
@@ -539,6 +611,22 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 357413,
+      "num": 357413,
+      "word": "白鹿直播",
+      "onboard_time": 1745150965,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 354640,
+      "num": 354640,
+      "word": "苹果回应iPhone电池健康80和100的区别",
+      "onboard_time": 1745149943,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
       "raw_hot": 351159,
       "num": 351159,
       "word": "王楚钦说为什么全是擦网",
@@ -627,14 +715,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 302050,
-      "num": 174152,
-      "word": "女子出现在热播剧中自己毫不知情",
-      "onboard_time": 1745148322,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 299472,
       "num": 299472,
       "word": "闫安说王楚钦确定参加多哈世乒赛",
@@ -691,6 +771,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 283628,
+      "num": 283628,
+      "word": "闪耀暖暖",
+      "onboard_time": 1745150965,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 282247,
       "num": 282247,
       "word": "冰湖重生",
@@ -713,6 +801,22 @@
       "onboard_time": 1745141542,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 279621,
+      "num": 353913,
+      "word": "九重紫宋墨篇开局就杀疯了",
+      "onboard_time": 1745149943,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 263150,
+      "num": 263150,
+      "word": "乒乓球世界杯",
+      "onboard_time": 1745151689,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 255058,
@@ -776,6 +880,14 @@
       "word": "段半夏终于见到父母了",
       "onboard_time": 1745127383,
       "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 219833,
+      "num": 295806,
+      "word": "深圳女生回应被拍进热播剧",
+      "onboard_time": 1745151808,
+      "rank": 24,
       "category": "剧集"
     },
     {
@@ -867,6 +979,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 206521,
+      "num": 206521,
+      "word": "女生婚礼前特意做美甲婚戒卡手指上",
+      "onboard_time": 1745144902,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 203844,
       "num": 214031,
       "word": "何猷君奚梦瑶与家人在潍坊放风筝",
@@ -881,14 +1001,6 @@
       "onboard_time": 1745145384,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 203222,
-      "num": 258779,
-      "word": "孙颖莎蒯曼女单决赛对战",
-      "onboard_time": 1745146822,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 202726,
@@ -923,6 +1035,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 199167,
+      "num": 255223,
+      "word": "第一次看悬疑剧冷到我想搓手",
+      "onboard_time": 1745148802,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198909,
       "num": 198909,
       "word": "吴镇宇把边水往事的水泼到了超越班",
@@ -939,6 +1059,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 198255,
+      "num": 252167,
+      "word": "丁禹兮 邂逅从容优雅入画",
+      "onboard_time": 1745151868,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 197510,
       "num": 197510,
       "word": "女儿阻拦妈妈给小男友买百万保险",
@@ -953,6 +1081,14 @@
       "onboard_time": 1745119641,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195896,
+      "num": 195896,
+      "word": "这些星座请做好脱单的准备",
+      "onboard_time": 1745151689,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 195873,
@@ -1068,7 +1204,7 @@
     },
     {
       "raw_hot": 182337,
-      "num": 182337,
+      "num": 351691,
       "word": "范思哲活动阵容",
       "onboard_time": 1745147542,
       "rank": 28,
@@ -1115,12 +1251,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 178718,
-      "num": 178718,
-      "word": "孙颖莎vs蒯曼",
-      "onboard_time": 1745148022,
-      "rank": 23,
-      "category": "体育"
+      "raw_hot": 179168,
+      "num": 251938,
+      "word": "佛山电翰回应买迈巴赫",
+      "onboard_time": 1745150063,
+      "rank": 29,
+      "category": "网红"
     },
     {
       "raw_hot": 178553,
@@ -1137,6 +1273,14 @@
       "onboard_time": 1745140223,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177535,
+      "num": 177535,
+      "word": "爸爸找到失散女儿第一句话是对不起",
+      "onboard_time": 1745148922,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 177245,
@@ -1217,14 +1361,6 @@
       "onboard_time": 1745135363,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 169924,
-      "num": 169924,
-      "word": "女生婚礼前特意做美甲婚戒卡手指上",
-      "onboard_time": 1745144902,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 169828,
@@ -1313,6 +1449,14 @@
       "onboard_time": 1745142202,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 163229,
+      "num": 163229,
+      "word": "TES战胜BLG",
+      "onboard_time": 1745151628,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 163131,
@@ -1467,6 +1611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153151,
+      "num": 153151,
+      "word": "宋祖儿任嘉伦吻戏",
+      "onboard_time": 1745150063,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152615,
       "num": 152615,
       "word": "李昀锐冰湖重生是最热闹的杀青",
@@ -1483,6 +1635,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 151902,
+      "num": 151902,
+      "word": "句号道歉",
+      "onboard_time": 1745147903,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 150453,
       "num": 150453,
       "word": "为什么现在没人用黄瓜片敷脸了",
@@ -1497,6 +1657,14 @@
       "onboard_time": 1745141182,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 149917,
+      "num": 149917,
+      "word": "留几手将参加中国网球公开赛",
+      "onboard_time": 1745152049,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 148658,
@@ -1553,6 +1721,14 @@
       "onboard_time": 1745115205,
       "rank": 36,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 139581,
+      "num": 139581,
+      "word": "全红婵问主持人能坐吗",
+      "onboard_time": 1745150663,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 139002,
@@ -1619,14 +1795,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 136156,
-      "num": 136156,
-      "word": "句号道歉",
-      "onboard_time": 1745147903,
-      "rank": 43,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 135858,
       "num": 210460,
       "word": "维生素D可以预防癌症吗",
@@ -1657,6 +1825,14 @@
       "onboard_time": 1745147481,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135156,
+      "num": 355430,
+      "word": "刘国正说邱贻可现在非常舒心",
+      "onboard_time": 1745152467,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 134525,
@@ -1739,6 +1915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131797,
+      "num": 131797,
+      "word": "COA8总决赛抽签",
+      "onboard_time": 1745152707,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 131166,
       "num": 131166,
       "word": "实际上的单身生活",
@@ -1761,14 +1945,6 @@
       "onboard_time": 1745133202,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 130568,
-      "num": 130568,
-      "word": "第一次看悬疑剧冷到我想搓手",
-      "onboard_time": 1745148802,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 130517,
@@ -1915,6 +2091,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120019,
+      "num": 120019,
+      "word": "闪耀暖暖版本前瞻直播",
+      "onboard_time": 1745150663,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 119803,
+      "num": 119803,
+      "word": "孟美岐七年变的是时间不变的是热爱",
+      "onboard_time": 1745150544,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119615,
       "num": 183758,
       "word": "这些癌症发展的前奏一定要留意",
@@ -1929,6 +2121,14 @@
       "onboard_time": 1745135242,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118606,
+      "num": 118606,
+      "word": "zb1二巡",
+      "onboard_time": 1745152947,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 118280,
@@ -2033,6 +2233,14 @@
       "onboard_time": 1745143703,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 107587,
+      "num": 352112,
+      "word": "为什么小猫不喜欢洗澡",
+      "onboard_time": 1745151988,
+      "rank": 19,
+      "category": "科学科普"
     },
     {
       "raw_hot": 107200,
@@ -2313,14 +2521,6 @@
       "onboard_time": 1745143762,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 93511,
-      "num": 116117,
-      "word": "爸爸找到失散女儿第一句话是对不起",
-      "onboard_time": 1745148922,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 93010,
@@ -2641,6 +2841,14 @@
       "onboard_time": 1745081668,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 59724,
+      "num": 353143,
+      "word": "小尼魔术挑战大变汽车",
+      "onboard_time": 1745151689,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 58232,
@@ -3009,6 +3217,14 @@
       "onboard_time": 1745098275,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 26280,
+      "num": 1228504,
+      "word": "何以中国走进福建",
+      "onboard_time": 1745141063,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25299,

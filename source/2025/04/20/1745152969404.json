@@ -1,0 +1,410 @@
+{
+  "runTime": 1745152969404,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2499421,
+        "num": 2499421,
+        "word": "孙颖莎冠军",
+        "onboard_time": 1745151746,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1334127,
+        "num": 1334127,
+        "word": "31岁男星黄正杰去世",
+        "onboard_time": 1745149883,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26280,
+        "num": 1228504,
+        "word": "何以中国走进福建",
+        "onboard_time": 1745141063,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1222159,
+        "num": 1222159,
+        "word": "孙颖莎vs蒯曼",
+        "onboard_time": 1745148022,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1097211,
+        "num": 1097211,
+        "word": "桂林旅游累计亏损10亿",
+        "onboard_time": 1745144363,
+        "rank": 4,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 617615,
+        "num": 617615,
+        "word": "林诗栋vs雨果",
+        "onboard_time": 1745151327,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 558284,
+        "num": 558284,
+        "word": "孙颖莎蒯曼女单决赛对战",
+        "onboard_time": 1745146822,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 544363,
+        "num": 544363,
+        "word": "女子出现在热播剧中自己毫不知情",
+        "onboard_time": 1745148322,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 458394,
+        "num": 458394,
+        "word": "饺子在美国身价涨到一美元一个",
+        "onboard_time": 1745149883,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 357413,
+        "num": 357413,
+        "word": "白鹿直播",
+        "onboard_time": 1745150965,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14184279,
+        "num": 14184279,
+        "word": "鹿晗 关晓彤",
+        "onboard_time": 1745150424,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 848658,
+        "num": 356704,
+        "word": "赵露思 范思哲",
+        "onboard_time": 1745151024,
+        "rank": 11,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 640018,
+        "num": 356412,
+        "word": "断网了这竟然是沙溢",
+        "onboard_time": 1745140822,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 381258,
+        "num": 355804,
+        "word": "迪丽热巴发型师 方可",
+        "onboard_time": 1745142682,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135156,
+        "num": 355430,
+        "word": "刘国正说邱贻可现在非常舒心",
+        "onboard_time": 1745152467,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 641261,
+        "num": 354779,
+        "word": "等关晓彤发博",
+        "onboard_time": 1745134823,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 354640,
+        "num": 354640,
+        "word": "苹果回应iPhone电池健康80和100的区别",
+        "onboard_time": 1745149943,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 279621,
+        "num": 353913,
+        "word": "九重紫宋墨篇开局就杀疯了",
+        "onboard_time": 1745149943,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59724,
+        "num": 353143,
+        "word": "小尼魔术挑战大变汽车",
+        "onboard_time": 1745151689,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107587,
+        "num": 352112,
+        "word": "为什么小猫不喜欢洗澡",
+        "onboard_time": 1745151988,
+        "rank": 19,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 128022,
+        "num": 351691,
+        "word": "范思哲活动阵容",
+        "onboard_time": 1745147542,
+        "rank": 20,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 776233,
+        "num": 350330,
+        "word": "邓超发文让高瀚宇退圈",
+        "onboard_time": 1745131342,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 349830,
+        "num": 349830,
+        "word": "迪丽热巴金色纱裙",
+        "onboard_time": 1745136682,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342950,
+        "num": 342950,
+        "word": "美媒承认中国手里有张王牌",
+        "onboard_time": 1745143703,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 219833,
+        "num": 295806,
+        "word": "深圳女生回应被拍进热播剧",
+        "onboard_time": 1745151808,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 283628,
+        "num": 283628,
+        "word": "闪耀暖暖",
+        "onboard_time": 1745150965,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 263150,
+        "num": 263150,
+        "word": "乒乓球世界杯",
+        "onboard_time": 1745151689,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199167,
+        "num": 255223,
+        "word": "第一次看悬疑剧冷到我想搓手",
+        "onboard_time": 1745148802,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198255,
+        "num": 252167,
+        "word": "丁禹兮 邂逅从容优雅入画",
+        "onboard_time": 1745151868,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 179168,
+        "num": 251938,
+        "word": "佛山电翰回应买迈巴赫",
+        "onboard_time": 1745150063,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 251858,
+        "num": 251858,
+        "word": "高中生打破黄雨婷保持的世界纪录",
+        "onboard_time": 1745141782,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228324,
+        "num": 228324,
+        "word": "美高官爆料五角大楼已完全崩溃",
+        "onboard_time": 1745133923,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 206521,
+        "num": 206521,
+        "word": "女生婚礼前特意做美甲婚戒卡手指上",
+        "onboard_time": 1745144902,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195896,
+        "num": 195896,
+        "word": "这些星座请做好脱单的准备",
+        "onboard_time": 1745151689,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177535,
+        "num": 177535,
+        "word": "爸爸找到失散女儿第一句话是对不起",
+        "onboard_time": 1745148922,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171543,
+        "num": 171543,
+        "word": "刘涛为妈祖献寿桃",
+        "onboard_time": 1745116223,
+        "rank": 35,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 163229,
+        "num": 163229,
+        "word": "TES战胜BLG",
+        "onboard_time": 1745151628,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 153151,
+        "num": 153151,
+        "word": "宋祖儿任嘉伦吻戏",
+        "onboard_time": 1745150063,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151902,
+        "num": 151902,
+        "word": "句号道歉",
+        "onboard_time": 1745147903,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 149917,
+        "num": 149917,
+        "word": "留几手将参加中国网球公开赛",
+        "onboard_time": 1745152049,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144755,
+        "num": 144755,
+        "word": "张峻豪范思哲大片",
+        "onboard_time": 1745143642,
+        "rank": 40,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 140864,
+        "num": 140864,
+        "word": "丁程鑫严浩翔电影节同框",
+        "onboard_time": 1745144243,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 139581,
+        "num": 139581,
+        "word": "全红婵问主持人能坐吗",
+        "onboard_time": 1745150663,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136315,
+        "num": 136315,
+        "word": "爱奇艺电视剧 张康乐",
+        "onboard_time": 1745143642,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131797,
+        "num": 131797,
+        "word": "COA8总决赛抽签",
+        "onboard_time": 1745152707,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 129705,
+        "num": 129705,
+        "word": "李昀锐金宣虎wink笑",
+        "onboard_time": 1745141542,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126660,
+        "num": 126660,
+        "word": "BLG对战TES",
+        "onboard_time": 1745143642,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 120019,
+        "num": 120019,
+        "word": "闪耀暖暖版本前瞻直播",
+        "onboard_time": 1745150663,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 119803,
+        "num": 119803,
+        "word": "孟美岐七年变的是时间不变的是热爱",
+        "onboard_time": 1745150544,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118606,
+        "num": 118606,
+        "word": "zb1二巡",
+        "onboard_time": 1745152947,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平释家门口的相处之道#"
+    }
+  }
+}

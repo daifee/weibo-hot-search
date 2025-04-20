@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1745148982405,
+  "endTime": 1745152969404,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -288,6 +288,14 @@
       "word": "张兰汪小菲抖音无限期封禁",
       "onboard_time": 1738985241,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 14184279,
+      "num": 14184279,
+      "word": "鹿晗 关晓彤",
+      "onboard_time": 1740301458,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -1201,14 +1209,6 @@
       "onboard_time": 1739261481,
       "rank": 0,
       "category": "电影"
-    },
-    {
-      "raw_hot": 4198472,
-      "num": 739452,
-      "word": "鹿晗 关晓彤",
-      "onboard_time": 1740301458,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 4177937,
