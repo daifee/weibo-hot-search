@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745147985678,
+  "endTime": 1745148982405,
   "band_list": [
     {
       "raw_hot": 31189573,
@@ -75,6 +75,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 1555564,
+      "num": 1555564,
+      "word": "桂林旅游累计亏损10亿",
+      "onboard_time": 1745144363,
+      "rank": 31,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 1493741,
       "num": 1454568,
       "word": "迪丽热巴金色纱裙",
@@ -123,7 +131,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1258058,
+      "raw_hot": 1301010,
       "num": 386826,
       "word": "等关晓彤发博",
       "onboard_time": 1745134823,
@@ -185,14 +193,6 @@
       "onboard_time": 1745141782,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 848428,
-      "num": 848428,
-      "word": "桂林旅游累计亏损10亿",
-      "onboard_time": 1745144363,
-      "rank": 31,
-      "category": "旅游"
     },
     {
       "raw_hot": 817201,
@@ -275,6 +275,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 636485,
+      "num": 573702,
+      "word": "爱奇艺电视剧 张康乐",
+      "onboard_time": 1745143642,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 601824,
       "num": 601824,
       "word": "CIA报告称外星人石化苏联士兵",
@@ -297,14 +305,6 @@
       "onboard_time": 1745134463,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 573702,
-      "num": 573702,
-      "word": "爱奇艺电视剧 张康乐",
-      "onboard_time": 1745143642,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 569498,
@@ -443,6 +443,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 401585,
+      "num": 338100,
+      "word": "丁程鑫严浩翔电影节同框",
+      "onboard_time": 1745144243,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 401093,
       "num": 401093,
       "word": "伸腿阻止高铁关门女子被行拘",
@@ -555,14 +563,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 338100,
-      "num": 338100,
-      "word": "丁程鑫严浩翔电影节同框",
-      "onboard_time": 1745144243,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
       "raw_hot": 331882,
       "num": 331882,
       "word": "范志毅",
@@ -624,6 +624,14 @@
       "word": "黄杨钿甜冰湖重生杀青礼红毯",
       "onboard_time": 1745126305,
       "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 302050,
+      "num": 174152,
+      "word": "女子出现在热播剧中自己毫不知情",
+      "onboard_time": 1745148322,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -875,6 +883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203222,
+      "num": 258779,
+      "word": "孙颖莎蒯曼女单决赛对战",
+      "onboard_time": 1745146822,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202726,
       "num": 199885,
       "word": "鹿晗从这一秒开始启程",
@@ -883,20 +899,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202061,
+      "num": 202061,
+      "word": "无忧渡",
+      "onboard_time": 1745143703,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202011,
       "num": 224106,
       "word": "每次月经前都很容易生气",
       "onboard_time": 1745122164,
       "rank": 28,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 200488,
-      "num": 200488,
-      "word": "无忧渡",
-      "onboard_time": 1745143703,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 200371,
@@ -961,6 +977,14 @@
       "onboard_time": 1745127084,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 193237,
+      "num": 328179,
+      "word": "特朗普关税战反噬美国",
+      "onboard_time": 1745147362,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 192856,
@@ -1043,6 +1067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182337,
+      "num": 182337,
+      "word": "范思哲活动阵容",
+      "onboard_time": 1745147542,
+      "rank": 28,
+      "category": "电影,时尚"
+    },
+    {
       "raw_hot": 182108,
       "num": 182108,
       "word": "王一博园丁封面拍摄花絮",
@@ -1081,6 +1113,14 @@
       "onboard_time": 1745140403,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 178718,
+      "num": 178718,
+      "word": "孙颖莎vs蒯曼",
+      "onboard_time": 1745148022,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 178553,
@@ -1147,6 +1187,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 173369,
+      "num": 173369,
+      "word": "李一桐怼脸图美我一大跳",
+      "onboard_time": 1745147842,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173074,
       "num": 173074,
       "word": "掘金1比0快船",
@@ -1169,6 +1217,14 @@
       "onboard_time": 1745135363,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169924,
+      "num": 169924,
+      "word": "女生婚礼前特意做美甲婚戒卡手指上",
+      "onboard_time": 1745144902,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 169828,
@@ -1219,12 +1275,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 166898,
-      "num": 258779,
-      "word": "孙颖莎蒯曼女单决赛对战",
-      "onboard_time": 1745146822,
-      "rank": 14,
-      "category": "体育"
+      "raw_hot": 166259,
+      "num": 166259,
+      "word": "WB零封狼队",
+      "onboard_time": 1745148802,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 165691,
@@ -1273,6 +1329,14 @@
       "onboard_time": 1745132843,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160998,
+      "num": 177178,
+      "word": "左小青看完李嘉琦乘风舞台的反应",
+      "onboard_time": 1745148083,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 159902,
@@ -1353,6 +1417,14 @@
       "onboard_time": 1745140822,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156252,
+      "num": 156252,
+      "word": "春江水暖蚊先知",
+      "onboard_time": 1745148442,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 156164,
@@ -1547,6 +1619,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 136156,
+      "num": 136156,
+      "word": "句号道歉",
+      "onboard_time": 1745147903,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 135858,
       "num": 210460,
       "word": "维生素D可以预防癌症吗",
@@ -1609,14 +1689,6 @@
       "onboard_time": 1745124504,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 133734,
-      "num": 133734,
-      "word": "女生婚礼前特意做美甲婚戒卡手指上",
-      "onboard_time": 1745144902,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 133221,
@@ -1689,6 +1761,14 @@
       "onboard_time": 1745133202,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130568,
+      "num": 130568,
+      "word": "第一次看悬疑剧冷到我想搓手",
+      "onboard_time": 1745148802,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 130517,
@@ -1867,14 +1947,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 116780,
-      "num": 116780,
-      "word": "句号道歉",
-      "onboard_time": 1745147903,
-      "rank": 43,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 116345,
       "num": 142305,
       "word": "孙颖莎跟裁判示意Notouch",
@@ -1937,14 +2009,6 @@
       "onboard_time": 1745123484,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 110570,
-      "num": 110570,
-      "word": "李一桐怼脸图美我一大跳",
-      "onboard_time": 1745147842,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 109536,
@@ -2251,6 +2315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93511,
+      "num": 116117,
+      "word": "爸爸找到失散女儿第一句话是对不起",
+      "onboard_time": 1745148922,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93010,
       "num": 234115,
       "word": "戚薇希望所有女生要有强大内核",
@@ -2289,14 +2361,6 @@
       "onboard_time": 1745073984,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 90531,
-      "num": 328179,
-      "word": "特朗普关税战反噬美国",
-      "onboard_time": 1745147362,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 90472,
@@ -2387,20 +2451,20 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 82449,
-      "num": 152923,
-      "word": "范思哲活动阵容",
-      "onboard_time": 1745147542,
-      "rank": 28,
-      "category": "电影,时尚"
-    },
-    {
       "raw_hot": 81504,
       "num": 81504,
       "word": "多家手机厂商宣布支持朋友圈发live图",
       "onboard_time": 1745132362,
       "rank": 47,
       "category": "数码"
+    },
+    {
+      "raw_hot": 81222,
+      "num": 181190,
+      "word": "什么水果营养成分最高",
+      "onboard_time": 1745148383,
+      "rank": 19,
+      "category": "科学科普"
     },
     {
       "raw_hot": 81046,
@@ -2763,6 +2827,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 44134,
+      "num": 200079,
+      "word": "神舟二十号将于近日择机发射",
+      "onboard_time": 1745147242,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 43610,
       "num": 43610,
       "word": "山西一处塌方一货车司机遇难",
@@ -2827,6 +2899,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 38605,
+      "num": 194058,
+      "word": "上海半马跑成热血漫",
+      "onboard_time": 1745145502,
+      "rank": 34,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 38330,
+      "num": 175768,
+      "word": "全美多地爆发抗议活动",
+      "onboard_time": 1745147723,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 37595,
       "num": 242507,
       "word": "湖人能胜森林狼吗",
@@ -2865,14 +2953,6 @@
       "onboard_time": 1745127142,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 35563,
-      "num": 194058,
-      "word": "上海半马跑成热血漫",
-      "onboard_time": 1745145502,
-      "rank": 34,
-      "category": "运动健身"
     },
     {
       "raw_hot": 34968,
@@ -3027,14 +3107,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 16119,
-      "num": 150227,
-      "word": "全美多地爆发抗议活动",
-      "onboard_time": 1745147723,
-      "rank": 29,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 16078,
       "num": 31702,
       "word": "刘奕畅为争取李沐宸撤回一个余宇涵",
@@ -3089,6 +3161,14 @@
       "onboard_time": 1745130082,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 7814,
+      "num": 135484,
+      "word": "特朗普说美国鸡蛋便宜了87%",
+      "onboard_time": 1745148802,
+      "rank": 39,
+      "category": "国际时政,民生新闻"
     }
   ],
   "hotgov_list": [

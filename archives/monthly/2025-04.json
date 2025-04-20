@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1745147985678,
+  "endTime": 1745148982405,
   "band_list": [
     {
       "raw_hot": 31189573,
@@ -1771,6 +1771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1555564,
+      "num": 1555564,
+      "word": "桂林旅游累计亏损10亿",
+      "onboard_time": 1745144363,
+      "rank": 31,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 1552355,
       "num": 531554,
       "word": "美团崩了",
@@ -2715,6 +2723,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1301010,
+      "num": 386826,
+      "word": "等关晓彤发博",
+      "onboard_time": 1745134823,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1299802,
       "num": 1299802,
       "word": "歌手 单依纯",
@@ -2880,14 +2896,6 @@
       "word": "黄旭熙宣布台湾出道",
       "onboard_time": 1743486742,
       "rank": 3,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1258058,
-      "num": 386826,
-      "word": "等关晓彤发博",
-      "onboard_time": 1745134823,
-      "rank": 12,
       "category": "艺人"
     },
     {
@@ -5433,14 +5441,6 @@
       "onboard_time": 1743649822,
       "rank": 28,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 848428,
-      "num": 848428,
-      "word": "桂林旅游累计亏损10亿",
-      "onboard_time": 1745144363,
-      "rank": 31,
-      "category": "旅游"
     },
     {
       "raw_hot": 846609,
@@ -8043,6 +8043,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 636485,
+      "num": 573702,
+      "word": "爱奇艺电视剧 张康乐",
+      "onboard_time": 1745143642,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 636430,
       "num": 636430,
       "word": "60岁男子将女友骗至墓地杀害抛尸",
@@ -9073,14 +9081,6 @@
       "onboard_time": 1745030841,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 573702,
-      "num": 573702,
-      "word": "爱奇艺电视剧 张康乐",
-      "onboard_time": 1745143642,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 573276,
@@ -13459,6 +13459,14 @@
       "category": "综艺,综艺"
     },
     {
+      "raw_hot": 401585,
+      "num": 338100,
+      "word": "丁程鑫严浩翔电影节同框",
+      "onboard_time": 1745144243,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 401246,
       "num": 401246,
       "word": "美国农业将受中国关税最严重打击",
@@ -15987,14 +15995,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 338100,
-      "num": 338100,
-      "word": "丁程鑫严浩翔电影节同框",
-      "onboard_time": 1745144243,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
       "raw_hot": 337736,
       "num": 337736,
       "word": "全妹多来点王楚钦怼脸拍",
@@ -17873,6 +17873,14 @@
       "onboard_time": 1745069124,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 302050,
+      "num": 174152,
+      "word": "女子出现在热播剧中自己毫不知情",
+      "onboard_time": 1745148322,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 301656,
@@ -26963,6 +26971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203222,
+      "num": 258779,
+      "word": "孙颖莎蒯曼女单决赛对战",
+      "onboard_time": 1745146822,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203221,
       "num": 203221,
       "word": "你说这个杀猪的是钟楚曦吗",
@@ -29305,6 +29321,14 @@
       "onboard_time": 1744123344,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193237,
+      "num": 328179,
+      "word": "特朗普关税战反噬美国",
+      "onboard_time": 1745147362,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 193232,
@@ -31979,6 +32003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182337,
+      "num": 182337,
+      "word": "范思哲活动阵容",
+      "onboard_time": 1745147542,
+      "rank": 28,
+      "category": "电影,时尚"
+    },
+    {
       "raw_hot": 182324,
       "num": 182324,
       "word": "赵一博泥人儿赵",
@@ -32705,6 +32737,14 @@
       "onboard_time": 1743764782,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178718,
+      "num": 178718,
+      "word": "孙颖莎vs蒯曼",
+      "onboard_time": 1745148022,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 178712,
@@ -33923,6 +33963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 173369,
+      "num": 173369,
+      "word": "李一桐怼脸图美我一大跳",
+      "onboard_time": 1745147842,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173329,
       "num": 266879,
       "word": "韩国偶遇林一逛街",
@@ -34609,6 +34657,14 @@
       "onboard_time": 1744861461,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 169924,
+      "num": 169924,
+      "word": "女生婚礼前特意做美甲婚戒卡手指上",
+      "onboard_time": 1745144902,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 169877,
@@ -35315,14 +35371,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 166898,
-      "num": 258779,
-      "word": "孙颖莎蒯曼女单决赛对战",
-      "onboard_time": 1745146822,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 166865,
       "num": 166865,
       "word": "全女电影",
@@ -35457,6 +35505,14 @@
       "onboard_time": 1744955783,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166259,
+      "num": 166259,
+      "word": "WB零封狼队",
+      "onboard_time": 1745148802,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 166245,
@@ -36739,6 +36795,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 160998,
+      "num": 177178,
+      "word": "左小青看完李嘉琦乘风舞台的反应",
+      "onboard_time": 1745148083,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 160910,
       "num": 160910,
       "word": "2000多年前古人就爱吃瓜",
@@ -37977,6 +38041,14 @@
       "onboard_time": 1744614561,
       "rank": 36,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 156252,
+      "num": 156252,
+      "word": "春江水暖蚊先知",
+      "onboard_time": 1745148442,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 156244,
@@ -43531,6 +43603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136156,
+      "num": 136156,
+      "word": "句号道歉",
+      "onboard_time": 1745147903,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 136148,
       "num": 241248,
       "word": "英伟达CEO说中国是非常重要的市场",
@@ -44401,14 +44481,6 @@
       "onboard_time": 1745124504,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 133734,
-      "num": 133734,
-      "word": "女生婚礼前特意做美甲婚戒卡手指上",
-      "onboard_time": 1745144902,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 133686,
@@ -45401,6 +45473,14 @@
       "onboard_time": 1744557504,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130568,
+      "num": 130568,
+      "word": "第一次看悬疑剧冷到我想搓手",
+      "onboard_time": 1745148802,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 130565,
@@ -49251,14 +49331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 116780,
-      "num": 116780,
-      "word": "句号道歉",
-      "onboard_time": 1745147903,
-      "rank": 43,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 116768,
       "num": 116768,
       "word": "labubu隐藏款",
@@ -50737,14 +50809,6 @@
       "onboard_time": 1743934221,
       "rank": 39,
       "category": "财经"
-    },
-    {
-      "raw_hot": 110570,
-      "num": 110570,
-      "word": "李一桐怼脸图美我一大跳",
-      "onboard_time": 1745147842,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 110487,
@@ -53947,6 +54011,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 93511,
+      "num": 116117,
+      "word": "爸爸找到失散女儿第一句话是对不起",
+      "onboard_time": 1745148922,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93499,
       "num": 146017,
       "word": "江苏发布最新癌情信息",
@@ -54329,14 +54401,6 @@
       "onboard_time": 1744110082,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 90531,
-      "num": 328179,
-      "word": "特朗普关税战反噬美国",
-      "onboard_time": 1745147362,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 90472,
@@ -55563,14 +55627,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 82449,
-      "num": 152923,
-      "word": "范思哲活动阵容",
-      "onboard_time": 1745147542,
-      "rank": 28,
-      "category": "电影,时尚"
-    },
-    {
       "raw_hot": 82327,
       "num": 176011,
       "word": "胡歌说爸爸的爱是种叫沃尔沃的爱",
@@ -55785,6 +55841,14 @@
       "onboard_time": 1744781183,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 81222,
+      "num": 181190,
+      "word": "什么水果营养成分最高",
+      "onboard_time": 1745148383,
+      "rank": 19,
+      "category": "科学科普"
     },
     {
       "raw_hot": 81073,
@@ -61307,6 +61371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 44134,
+      "num": 200079,
+      "word": "神舟二十号将于近日择机发射",
+      "onboard_time": 1745147242,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 44089,
       "num": 321816,
       "word": "韩元兑美元刷新15年来开盘新低",
@@ -62427,6 +62499,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 38605,
+      "num": 194058,
+      "word": "上海半马跑成热血漫",
+      "onboard_time": 1745145502,
+      "rank": 34,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 38596,
       "num": 182256,
       "word": "国漫画风刷新认知",
@@ -62465,6 +62545,14 @@
       "onboard_time": 1743761241,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 38330,
+      "num": 175768,
+      "word": "全美多地爆发抗议活动",
+      "onboard_time": 1745147723,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 38293,
@@ -62913,14 +63001,6 @@
       "onboard_time": 1743452593,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 35563,
-      "num": 194058,
-      "word": "上海半马跑成热血漫",
-      "onboard_time": 1745145502,
-      "rank": 34,
-      "category": "运动健身"
     },
     {
       "raw_hot": 35524,
@@ -66747,14 +66827,6 @@
       "category": "健康医疗,运动健身"
     },
     {
-      "raw_hot": 16119,
-      "num": 150227,
-      "word": "全美多地爆发抗议活动",
-      "onboard_time": 1745147723,
-      "rank": 29,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 16086,
       "num": 392939,
       "word": "球迷送马龙球拍上写满了爱",
@@ -68265,6 +68337,14 @@
       "onboard_time": 1744722023,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 7814,
+      "num": 135484,
+      "word": "特朗普说美国鸡蛋便宜了87%",
+      "onboard_time": 1745148802,
+      "rank": 39,
+      "category": "国际时政,民生新闻"
     },
     {
       "raw_hot": 7655,

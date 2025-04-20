@@ -1,0 +1,410 @@
+{
+  "runTime": 1745148982405,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1555564,
+        "num": 1555564,
+        "word": "桂林旅游累计亏损10亿",
+        "onboard_time": 1745144363,
+        "rank": 0,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 699806,
+        "num": 699806,
+        "word": "高中生打破黄雨婷保持的世界纪录",
+        "onboard_time": 1745141782,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 56528,
+        "num": 636064,
+        "word": "义乌女老板对CNN霸气喊话美国客户",
+        "onboard_time": 1745113164,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 625351,
+        "num": 625351,
+        "word": "美媒承认中国手里有张王牌",
+        "onboard_time": 1745143703,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 345424,
+        "num": 345424,
+        "word": "美高官爆料五角大楼已完全崩溃",
+        "onboard_time": 1745133923,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 318848,
+        "num": 318848,
+        "word": "体育生被错切右膝医疗纠纷案将开庭",
+        "onboard_time": 1745140641,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212616,
+        "num": 212616,
+        "word": "李昀锐金宣虎wink笑",
+        "onboard_time": 1745141542,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203222,
+        "num": 203222,
+        "word": "孙颖莎蒯曼女单决赛对战",
+        "onboard_time": 1745146822,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202061,
+        "num": 202061,
+        "word": "无忧渡",
+        "onboard_time": 1745143703,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44134,
+        "num": 200079,
+        "word": "神舟二十号将于近日择机发射",
+        "onboard_time": 1745147242,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1301010,
+        "num": 198735,
+        "word": "等关晓彤发博",
+        "onboard_time": 1745134823,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 918752,
+        "num": 196601,
+        "word": "断网了这竟然是沙溢",
+        "onboard_time": 1745140822,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 636485,
+        "num": 195239,
+        "word": "爱奇艺电视剧 张康乐",
+        "onboard_time": 1745143642,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193237,
+        "num": 193237,
+        "word": "特朗普关税战反噬美国",
+        "onboard_time": 1745147362,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 501732,
+        "num": 188982,
+        "word": "迪丽热巴发型师 方可",
+        "onboard_time": 1745142682,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323500,
+        "num": 187875,
+        "word": "165斤女生的一天都吃了什么",
+        "onboard_time": 1745145384,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 401585,
+        "num": 187475,
+        "word": "丁程鑫严浩翔电影节同框",
+        "onboard_time": 1745144243,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 182337,
+        "num": 182337,
+        "word": "范思哲活动阵容",
+        "onboard_time": 1745147542,
+        "rank": 17,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 228640,
+        "num": 182139,
+        "word": "范志毅祝鹿晗生日快乐",
+        "onboard_time": 1745141604,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81222,
+        "num": 181190,
+        "word": "什么水果营养成分最高",
+        "onboard_time": 1745148383,
+        "rank": 19,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 1108110,
+        "num": 180473,
+        "word": "邓超发文让高瀚宇退圈",
+        "onboard_time": 1745131342,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165696,
+        "num": 180037,
+        "word": "宋祖儿片场保护任嘉伦",
+        "onboard_time": 1745146763,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 669070,
+        "num": 179053,
+        "word": "迪丽热巴金色纱裙",
+        "onboard_time": 1745136682,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178718,
+        "num": 178718,
+        "word": "孙颖莎vs蒯曼",
+        "onboard_time": 1745148022,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 294979,
+        "num": 178337,
+        "word": "鹿晗",
+        "onboard_time": 1745104760,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163602,
+        "num": 178068,
+        "word": "难哄",
+        "onboard_time": 1745131342,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160998,
+        "num": 177178,
+        "word": "左小青看完李嘉琦乘风舞台的反应",
+        "onboard_time": 1745148083,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152986,
+        "num": 176645,
+        "word": "折腰电视端专属界面",
+        "onboard_time": 1745145384,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135730,
+        "num": 176057,
+        "word": "美国政府将6000多移民标为已死亡",
+        "onboard_time": 1745138962,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 38330,
+        "num": 175768,
+        "word": "全美多地爆发抗议活动",
+        "onboard_time": 1745147723,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 257836,
+        "num": 175334,
+        "word": "刘涛为妈祖献寿桃",
+        "onboard_time": 1745116223,
+        "rank": 30,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 38605,
+        "num": 174972,
+        "word": "上海半马跑成热血漫",
+        "onboard_time": 1745145502,
+        "rank": 31,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 302050,
+        "num": 174152,
+        "word": "女子出现在热播剧中自己毫不知情",
+        "onboard_time": 1745148322,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224471,
+        "num": 173871,
+        "word": "宋祖儿出发剧宣路透",
+        "onboard_time": 1745142623,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173369,
+        "num": 173369,
+        "word": "李一桐怼脸图美我一大跳",
+        "onboard_time": 1745147842,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169924,
+        "num": 169924,
+        "word": "女生婚礼前特意做美甲婚戒卡手指上",
+        "onboard_time": 1745144902,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166259,
+        "num": 166259,
+        "word": "WB零封狼队",
+        "onboard_time": 1745148802,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 156252,
+        "num": 156252,
+        "word": "春江水暖蚊先知",
+        "onboard_time": 1745148442,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136156,
+        "num": 136156,
+        "word": "句号道歉",
+        "onboard_time": 1745147903,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 7814,
+        "num": 135484,
+        "word": "特朗普说美国鸡蛋便宜了87%",
+        "onboard_time": 1745148802,
+        "rank": 39,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 122175,
+        "num": 135300,
+        "word": "李梦刻在骨子里的疯批美人",
+        "onboard_time": 1745147481,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135257,
+        "num": 135257,
+        "word": "张峻豪范思哲大片",
+        "onboard_time": 1745143642,
+        "rank": 41,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 131906,
+        "num": 131906,
+        "word": "苍兰诀作者谈真正的大女主文",
+        "onboard_time": 1745145384,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130568,
+        "num": 130568,
+        "word": "第一次看悬疑剧冷到我想搓手",
+        "onboard_time": 1745148802,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75843,
+        "num": 129169,
+        "word": "王皓解读世乒赛选拔规则",
+        "onboard_time": 1745139503,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128453,
+        "num": 128453,
+        "word": "高瀚宇是陈赫派来报复邓超的吧",
+        "onboard_time": 1745147600,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120352,
+        "num": 120352,
+        "word": "WB对战狼队",
+        "onboard_time": 1745145322,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 118324,
+        "num": 118324,
+        "word": "小猫也有汗脚",
+        "onboard_time": 1745142202,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93511,
+        "num": 116117,
+        "word": "爸爸找到失散女儿第一句话是对不起",
+        "onboard_time": 1745148922,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116025,
+        "num": 116025,
+        "word": "关税抬升让圣诞老人由美国脸换成欧洲脸",
+        "onboard_time": 1745141182,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平释家门口的相处之道#"
+    }
+  }
+}
