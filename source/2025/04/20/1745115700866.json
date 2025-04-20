@@ -1,0 +1,410 @@
+{
+  "runTime": 1745115700866,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 606682,
+        "num": 1097069,
+        "word": "美国大豆可能将永远失去中国市场",
+        "onboard_time": 1745074524,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 553408,
+        "num": 553408,
+        "word": "iPhone电池健康80和100有什么区别",
+        "onboard_time": 1745111905,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 51193,
+        "num": 552988,
+        "word": "关税政策加剧美国农业困境",
+        "onboard_time": 1745069665,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 552872,
+        "num": 552872,
+        "word": "义乌女老板对CNN霸气喊话美国客户",
+        "onboard_time": 1745113164,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 491587,
+        "num": 491587,
+        "word": "日本长野一夜连震47次",
+        "onboard_time": 1745104279,
+        "rank": 4,
+        "category": "国际时政,国际时政"
+      },
+      {
+        "raw_hot": 327702,
+        "num": 327702,
+        "word": "盛李豪世界杯逆转夺冠",
+        "onboard_time": 1745114545,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 391094,
+        "num": 316893,
+        "word": "种地吧直播",
+        "onboard_time": 1745113944,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289200,
+        "num": 289200,
+        "word": "特朗普亲手扼杀美国拳头产品",
+        "onboard_time": 1745107642,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 223528,
+        "num": 287987,
+        "word": "张丹峰 洪欣",
+        "onboard_time": 1745069543,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197827,
+        "num": 275284,
+        "word": "伸腿阻止高铁关门女子被行拘",
+        "onboard_time": 1745115265,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3871594,
+        "num": 253581,
+        "word": "关晓彤",
+        "onboard_time": 1745079693,
+        "rank": 10,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 3069974,
+        "num": 237846,
+        "word": "鹿晗关晓彤官宣微博都没删",
+        "onboard_time": 1745113524,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 393194,
+        "num": 233094,
+        "word": "女子阻止高铁关门为何能得逞",
+        "onboard_time": 1745093294,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224307,
+        "num": 224307,
+        "word": "热量比肉还高的水果",
+        "onboard_time": 1745068703,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 215737,
+        "num": 215737,
+        "word": "张杰的牙尖被话筒磕碎了",
+        "onboard_time": 1745107162,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195873,
+        "num": 215602,
+        "word": "森林狼vs湖人",
+        "onboard_time": 1745114665,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192755,
+        "num": 214909,
+        "word": "AG600飞机有型号合格证了",
+        "onboard_time": 1745113644,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155819,
+        "num": 214031,
+        "word": "何猷君奚梦瑶与家人在潍坊放风筝",
+        "onboard_time": 1745108481,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101321,
+        "num": 213926,
+        "word": "马拉松赛道的健康密码",
+        "onboard_time": 1745114725,
+        "rank": 18,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 58232,
+        "num": 213276,
+        "word": "云南的紫外线究竟能有多强",
+        "onboard_time": 1745112562,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1982095,
+        "num": 212433,
+        "word": "鹿晗",
+        "onboard_time": 1745104760,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 649981,
+        "num": 211716,
+        "word": "关晓彤主页访问量",
+        "onboard_time": 1745104878,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 590582,
+        "num": 211238,
+        "word": "女生列车上哭喊被爷爷摸",
+        "onboard_time": 1745104519,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176808,
+        "num": 210872,
+        "word": "男子带10名女子吃千元烧烤逃单",
+        "onboard_time": 1745073925,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176071,
+        "num": 210342,
+        "word": "快删除手机里的这些APP",
+        "onboard_time": 1745066722,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138242,
+        "num": 209256,
+        "word": "柯淳的眼神",
+        "onboard_time": 1745110882,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135794,
+        "num": 209022,
+        "word": "张丹峰三四年没有拍戏了",
+        "onboard_time": 1745109683,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133803,
+        "num": 208343,
+        "word": "宋祖儿演技",
+        "onboard_time": 1745111723,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207977,
+        "num": 207977,
+        "word": "乌克兰需要俄罗斯无条件全面停火",
+        "onboard_time": 1745114244,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 196727,
+        "num": 196727,
+        "word": "大学同学说房琪没有塌房",
+        "onboard_time": 1745107582,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176884,
+        "num": 176884,
+        "word": "曝韩安冉决定上诉薛小婉",
+        "onboard_time": 1745115145,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167022,
+        "num": 167022,
+        "word": "特朗普经济问题支持率跌出总统生涯最低",
+        "onboard_time": 1745113884,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 158992,
+        "num": 158992,
+        "word": "美联储主席若遭解雇或致美国股市崩盘",
+        "onboard_time": 1745104399,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 155744,
+        "num": 155744,
+        "word": "胡彦斌分享的喉糖自己买不到了",
+        "onboard_time": 1745076445,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 154296,
+        "num": 154296,
+        "word": "韩庚卢靖姗分房睡",
+        "onboard_time": 1745067323,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153755,
+        "num": 153755,
+        "word": "印度医生让儿童吸支烟治感冒",
+        "onboard_time": 1745075665,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 139806,
+        "num": 139806,
+        "word": "ChatGPT直呼用户姓名引争议",
+        "onboard_time": 1745115205,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 127946,
+        "num": 127946,
+        "word": "鞠婧祎星奇摇",
+        "onboard_time": 1745111184,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121403,
+        "num": 121403,
+        "word": "美军惊叹中国军备生产速度",
+        "onboard_time": 1745105539,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 121061,
+        "num": 121061,
+        "word": "丁禹兮模仿金虎宣wink笑",
+        "onboard_time": 1745112744,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119274,
+        "num": 119274,
+        "word": "王楚钦说为什么全是擦网",
+        "onboard_time": 1745069725,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114196,
+        "num": 114196,
+        "word": "盘点洛阳牡丹的神仙配色",
+        "onboard_time": 1745114184,
+        "rank": 41,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 113390,
+        "num": 113390,
+        "word": "谷雨",
+        "onboard_time": 1745105600,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110857,
+        "num": 110857,
+        "word": "1岁宝宝因太可爱被家人狂亲高烧不退",
+        "onboard_time": 1745063181,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110724,
+        "num": 110724,
+        "word": "日本一酒店140人食物中毒",
+        "onboard_time": 1745110522,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 105386,
+        "num": 105386,
+        "word": "刘涛 这么多mother啊",
+        "onboard_time": 1745077343,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104961,
+        "num": 104961,
+        "word": "东契奇湖人季后赛首秀",
+        "onboard_time": 1745114244,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102108,
+        "num": 102108,
+        "word": "盛李豪积分10000分",
+        "onboard_time": 1745114244,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97046,
+        "num": 97046,
+        "word": "校方回应醉酒男子深夜强闯女寝",
+        "onboard_time": 1745106801,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92933,
+        "num": 92933,
+        "word": "郭晶晶受聘为北京景山学校体育校长",
+        "onboard_time": 1745105841,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平释家门口的相处之道#"
+    }
+  }
+}

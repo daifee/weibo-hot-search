@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745114346826,
+  "endTime": 1745115700866,
   "band_list": [
     {
       "raw_hot": 31189573,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 2045928,
-      "num": 181447,
+      "num": 212433,
       "word": "鹿晗",
       "onboard_time": 1745104760,
       "rank": 11,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 817201,
-      "num": 180430,
+      "num": 211716,
       "word": "关晓彤主页访问量",
       "onboard_time": 1745104878,
       "rank": 13,
@@ -124,11 +124,27 @@
     },
     {
       "raw_hot": 591054,
-      "num": 177246,
+      "num": 211238,
       "word": "女生列车上哭喊被爷爷摸",
       "onboard_time": 1745104519,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 553408,
+      "num": 553408,
+      "word": "iPhone电池健康80和100有什么区别",
+      "onboard_time": 1745111905,
+      "rank": 3,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 552872,
+      "num": 552872,
+      "word": "义乌女老板对CNN霸气喊话美国客户",
+      "onboard_time": 1745113164,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 536377,
@@ -155,20 +171,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 475026,
-      "num": 475026,
-      "word": "iPhone电池健康80和100有什么区别",
-      "onboard_time": 1745111905,
-      "rank": 3,
-      "category": "数码"
-    },
-    {
       "raw_hot": 409433,
       "num": 335030,
       "word": "老舅",
       "onboard_time": 1745081909,
       "rank": 7,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 391094,
+      "num": 316893,
+      "word": "种地吧直播",
+      "onboard_time": 1745113944,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 361944,
@@ -187,14 +203,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 337467,
-      "num": 337467,
-      "word": "义乌女老板对CNN霸气喊话美国客户",
-      "onboard_time": 1745113164,
-      "rank": 4,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 331882,
       "num": 331882,
       "word": "范志毅",
@@ -209,6 +217,14 @@
       "onboard_time": 1745107642,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 327702,
+      "num": 327702,
+      "word": "盛李豪世界杯逆转夺冠",
+      "onboard_time": 1745114545,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 324027,
@@ -275,8 +291,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 214236,
-      "num": 214236,
+      "raw_hot": 215737,
+      "num": 215737,
       "word": "张杰的牙尖被话筒磕碎了",
       "onboard_time": 1745107162,
       "rank": 14,
@@ -292,7 +308,7 @@
     },
     {
       "raw_hot": 213826,
-      "num": 171835,
+      "num": 196727,
       "word": "大学同学说房琪没有塌房",
       "onboard_time": 1745107582,
       "rank": 25,
@@ -307,12 +323,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207977,
+      "num": 207977,
+      "word": "乌克兰需要俄罗斯无条件全面停火",
+      "onboard_time": 1745114244,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 203844,
-      "num": 203844,
+      "num": 214031,
       "word": "何猷君奚梦瑶与家人在潍坊放风筝",
       "onboard_time": 1745108481,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197827,
+      "num": 275284,
+      "word": "伸腿阻止高铁关门女子被行拘",
+      "onboard_time": 1745115265,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 195873,
+      "num": 215602,
+      "word": "森林狼vs湖人",
+      "onboard_time": 1745114665,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 192755,
+      "num": 331977,
+      "word": "AG600飞机有型号合格证了",
+      "onboard_time": 1745113644,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 192487,
@@ -324,19 +372,11 @@
     },
     {
       "raw_hot": 190220,
-      "num": 190220,
+      "num": 210872,
       "word": "男子带10名女子吃千元烧烤逃单",
       "onboard_time": 1745073925,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 188561,
-      "num": 188561,
-      "word": "种地吧直播",
-      "onboard_time": 1745113944,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 186165,
@@ -355,12 +395,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 178178,
-      "num": 331977,
-      "word": "AG600飞机有型号合格证了",
-      "onboard_time": 1745113644,
-      "rank": 5,
-      "category": "民生新闻"
+      "raw_hot": 176884,
+      "num": 176884,
+      "word": "曝韩安冉决定上诉薛小婉",
+      "onboard_time": 1745115145,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 173074,
@@ -401,6 +441,14 @@
       "onboard_time": 1745081791,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167022,
+      "num": 167022,
+      "word": "特朗普经济问题支持率跌出总统生涯最低",
+      "onboard_time": 1745113884,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 165691,
@@ -459,6 +507,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139806,
+      "num": 139806,
+      "word": "ChatGPT直呼用户姓名引争议",
+      "onboard_time": 1745115205,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 138242,
+      "num": 209256,
+      "word": "柯淳的眼神",
+      "onboard_time": 1745110882,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136893,
       "num": 136893,
       "word": "日本一酒店140人食物中毒",
@@ -475,6 +539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135794,
+      "num": 209022,
+      "word": "张丹峰三四年没有拍戏了",
+      "onboard_time": 1745109683,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135710,
       "num": 143149,
       "word": "无忧渡 合体剧宣",
@@ -483,12 +555,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 134385,
-      "num": 168138,
-      "word": "柯淳的眼神",
-      "onboard_time": 1745110882,
-      "rank": 28,
-      "category": "综艺"
+      "raw_hot": 133803,
+      "num": 208343,
+      "word": "宋祖儿演技",
+      "onboard_time": 1745111723,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 130517,
@@ -507,20 +579,20 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 129635,
-      "num": 129635,
-      "word": "特朗普经济问题支持率跌出总统生涯最低",
-      "onboard_time": 1745113884,
-      "rank": 35,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 129458,
       "num": 210385,
       "word": "孙颖莎让解说员无话可说",
       "onboard_time": 1745071344,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127946,
+      "num": 127946,
+      "word": "鞠婧祎星奇摇",
+      "onboard_time": 1745111184,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 127558,
@@ -539,14 +611,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 127259,
-      "num": 168023,
-      "word": "宋祖儿演技",
-      "onboard_time": 1745111723,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 126207,
       "num": 126207,
       "word": "全网最丢脸的风筝出现了",
@@ -560,14 +624,6 @@
       "word": "丁禹兮模仿金虎宣wink笑",
       "onboard_time": 1745112744,
       "rank": 36,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 124655,
-      "num": 124655,
-      "word": "鞠婧祎星奇摇",
-      "onboard_time": 1745111184,
-      "rank": 37,
       "category": "艺人"
     },
     {
@@ -587,14 +643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 120817,
-      "num": 120817,
-      "word": "张丹峰三四年没有拍戏了",
-      "onboard_time": 1745109683,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 116345,
       "num": 142305,
       "word": "孙颖莎跟裁判示意Notouch",
@@ -609,14 +657,6 @@
       "onboard_time": 1745070264,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 109791,
-      "num": 109791,
-      "word": "乌克兰需要俄罗斯无条件全面停火",
-      "onboard_time": 1745114244,
-      "rank": 43,
-      "category": "国际时政"
     },
     {
       "raw_hot": 107200,
@@ -667,12 +707,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 102108,
+      "num": 102108,
+      "word": "盛李豪积分10000分",
+      "onboard_time": 1745114244,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101480,
       "num": 101480,
       "word": "薛凯琪连唱3首方大同的歌",
       "onboard_time": 1745109383,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 101321,
+      "num": 213926,
+      "word": "马拉松赛道的健康密码",
+      "onboard_time": 1745114725,
+      "rank": 18,
+      "category": "运动健身"
     },
     {
       "raw_hot": 100929,
@@ -721,14 +777,6 @@
       "onboard_time": 1745080173,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 94832,
-      "num": 94832,
-      "word": "盛李豪积分10000分",
-      "onboard_time": 1745114244,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 94751,
@@ -819,6 +867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 58232,
+      "num": 213276,
+      "word": "云南的紫外线究竟能有多强",
+      "onboard_time": 1745112562,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 58011,
       "num": 69324,
       "word": "郝蕾 乱是因为都想抢戏",
@@ -860,7 +916,7 @@
     },
     {
       "raw_hot": 53467,
-      "num": 496798,
+      "num": 552988,
       "word": "关税政策加剧美国农业困境",
       "onboard_time": 1745069665,
       "rank": 2,
