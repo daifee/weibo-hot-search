@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1745169695230,
+  "endTime": 1745170734153,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -28955,6 +28955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196855,
+      "num": 196855,
+      "word": "我愿意跟他挨着",
+      "onboard_time": 1745167402,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 196767,
       "num": 179088,
       "word": "黄仁勋称希望将继续与中国合作",
@@ -45153,14 +45161,6 @@
       "onboard_time": 1744790601,
       "rank": 29,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 134112,
-      "num": 134112,
-      "word": "我愿意跟他挨着",
-      "onboard_time": 1745167402,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 134103,
@@ -62115,6 +62115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 45453,
+      "num": 45453,
+      "word": "4AM春季赛第六周冠军",
+      "onboard_time": 1745170216,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 45403,
       "num": 159568,
       "word": "中柬关系始终坚如磐石",
@@ -62483,6 +62491,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 43564,
+      "num": 43564,
+      "word": "邓亚萍点评孙颖莎夺冠",
+      "onboard_time": 1745170099,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 43559,
       "num": 319597,
       "word": "对程序化交易实行实时监控",
@@ -62705,6 +62721,14 @@
       "onboard_time": 1744013303,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 42547,
+      "num": 42547,
+      "word": "晚宴上的丁禹兮魏哲鸣",
+      "onboard_time": 1745170637,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 42507,
