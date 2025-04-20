@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745158953966,
+  "endTime": 1745159986215,
   "band_list": [
     {
       "raw_hot": 31189573,
@@ -107,20 +107,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1817017,
+      "num": 1817017,
+      "word": "极限挑战官方号卖了",
+      "onboard_time": 1745156310,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1748770,
       "num": 1748770,
       "word": "允许雨果求婚",
       "onboard_time": 1745157329,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1726723,
-      "num": 1726723,
-      "word": "极限挑战官方号卖了",
-      "onboard_time": 1745156310,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 1677621,
@@ -211,6 +211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1217271,
+      "num": 1217271,
+      "word": "那英肖战来李健演唱会",
+      "onboard_time": 1745158111,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1167497,
       "num": 113103,
       "word": "伸腿阻止高铁关门女子被拘留",
@@ -257,14 +265,6 @@
       "onboard_time": 1745154147,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1045131,
-      "num": 1045131,
-      "word": "那英肖战来李健演唱会",
-      "onboard_time": 1745158111,
-      "rank": 7,
-      "category": "演出"
     },
     {
       "raw_hot": 1024064,
@@ -659,6 +659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 400908,
+      "num": 410827,
+      "word": "超2300万美国人准备迎接强震",
+      "onboard_time": 1745158650,
+      "rank": 23,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 393306,
       "num": 393306,
       "word": "古茗求补货",
@@ -673,6 +681,14 @@
       "onboard_time": 1745113944,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 371789,
+      "num": 371789,
+      "word": "昨天章若楠今天白敬亭",
+      "onboard_time": 1745158289,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 370223,
@@ -931,14 +947,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 290233,
-      "num": 369076,
-      "word": "昨天章若楠今天白敬亭",
-      "onboard_time": 1745158289,
-      "rank": 27,
-      "category": "演出"
-    },
-    {
       "raw_hot": 285609,
       "num": 260794,
       "word": "树莓衮衮衮",
@@ -1177,6 +1185,14 @@
       "onboard_time": 1745144902,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 205030,
+      "num": 205030,
+      "word": "丁禹兮李一桐张峻豪魏哲鸣晚宴内场图",
+      "onboard_time": 1745158770,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 203844,
@@ -1451,14 +1467,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 186267,
-      "num": 410827,
-      "word": "超2300万美国人准备迎接强震",
-      "onboard_time": 1745158650,
-      "rank": 23,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 186222,
       "num": 186222,
       "word": "央视五四晚会嘉宾阵容",
@@ -1539,6 +1547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179467,
+      "num": 468147,
+      "word": "女子海底捞触电受伤门店称衣服静电",
+      "onboard_time": 1745158589,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179275,
       "num": 179275,
       "word": "孙恩盛 音乐节",
@@ -1553,6 +1569,14 @@
       "onboard_time": 1745150063,
       "rank": 29,
       "category": "网红"
+    },
+    {
+      "raw_hot": 178972,
+      "num": 178972,
+      "word": "单依纯新歌",
+      "onboard_time": 1745159069,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 178553,
@@ -1619,6 +1643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 174213,
+      "num": 334685,
+      "word": "巴西总统祝贺雨果夺冠",
+      "onboard_time": 1745159728,
+      "rank": 24,
+      "category": "国际时政,体育"
+    },
+    {
       "raw_hot": 174135,
       "num": 193346,
       "word": "春天多出去玩就能补气血",
@@ -1675,6 +1707,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 169667,
+      "num": 169667,
+      "word": "黄子弘凡直播",
+      "onboard_time": 1745159909,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169056,
       "num": 169056,
       "word": "刘国正夸孙颖莎有大局观",
@@ -1721,14 +1761,6 @@
       "onboard_time": 1745113884,
       "rank": 35,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 166653,
-      "num": 166653,
-      "word": "丁禹兮李一桐张峻豪魏哲鸣晚宴内场图",
-      "onboard_time": 1745158770,
-      "rank": 48,
-      "category": "电影"
     },
     {
       "raw_hot": 166259,
@@ -1785,6 +1817,14 @@
       "onboard_time": 1745105539,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 162595,
+      "num": 336334,
+      "word": "好一个乖乖女编剧方控诉分钱不均",
+      "onboard_time": 1745158650,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 161505,
@@ -1947,6 +1987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152519,
+      "num": 152519,
+      "word": "乒乓球世界杯直播",
+      "onboard_time": 1745159188,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152230,
       "num": 152230,
       "word": "檀健次说如果有好故事会演短剧",
@@ -1961,6 +2009,14 @@
       "onboard_time": 1745147903,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 150934,
+      "num": 379162,
+      "word": "北京地铁永远欢迎沾泥巴的劳动者",
+      "onboard_time": 1745157628,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150609,
@@ -1985,6 +2041,14 @@
       "onboard_time": 1745141182,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 150148,
+      "num": 150148,
+      "word": "广厦男篮2比2青岛男篮",
+      "onboard_time": 1745159550,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 149917,
@@ -2459,6 +2523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120988,
+      "num": 352667,
+      "word": "炸串好吃还是烤串好吃",
+      "onboard_time": 1745159188,
+      "rank": 19,
+      "category": "美食"
+    },
+    {
       "raw_hot": 120019,
       "num": 120019,
       "word": "闪耀暖暖版本前瞻直播",
@@ -2531,14 +2603,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 114301,
-      "num": 379162,
-      "word": "北京地铁永远欢迎沾泥巴的劳动者",
-      "onboard_time": 1745157628,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 114021,
       "num": 120620,
       "word": "搜狐视频播主大会",
@@ -2585,14 +2649,6 @@
       "onboard_time": 1745127623,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 109447,
-      "num": 336334,
-      "word": "好一个乖乖女编剧方控诉分钱不均",
-      "onboard_time": 1745158650,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 109383,
@@ -2992,14 +3048,6 @@
       "word": "别人在算关税账我们在算创新账",
       "onboard_time": 1745069964,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 87981,
-      "num": 468147,
-      "word": "女子海底捞触电受伤门店称衣服静电",
-      "onboard_time": 1745158589,
-      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -3571,6 +3619,14 @@
       "category": "民生新闻,美食"
     },
     {
+      "raw_hot": 35954,
+      "num": 466283,
+      "word": "5000元网购翡翠镯货不对板只补50元",
+      "onboard_time": 1745157992,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35621,
       "num": 42872,
       "word": "普京称停火将能检验乌克兰诚意",
@@ -3601,14 +3657,6 @@
       "onboard_time": 1745146702,
       "rank": 47,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 33907,
-      "num": 466283,
-      "word": "5000元网购翡翠镯货不对板只补50元",
-      "onboard_time": 1745157992,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 33319,
@@ -3817,6 +3865,14 @@
       "onboard_time": 1745148802,
       "rank": 39,
       "category": "国际时政,民生新闻"
+    },
+    {
+      "raw_hot": 6753,
+      "num": 1895597,
+      "word": "闽山闽水间的人文密码",
+      "onboard_time": 1745141421,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
