@@ -1,6 +1,6 @@
 {
   "startTime": 1745166450412,
-  "endTime": 1745184983868,
+  "endTime": 1745187848734,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -107,6 +107,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 442407,
+      "num": 442407,
+      "word": "我愿意跟他挨着",
+      "onboard_time": 1745167402,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 420378,
       "num": 246962,
       "word": "31岁男星黄正杰去世",
@@ -121,14 +129,6 @@
       "onboard_time": 1745131342,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 401139,
-      "num": 401139,
-      "word": "我愿意跟他挨着",
-      "onboard_time": 1745167402,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 383664,
@@ -499,6 +499,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 40872,
+      "num": 64927,
+      "word": "孙俪新剧包揽央视卫视第一",
+      "onboard_time": 1745185035,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 39699,
       "num": 95336,
       "word": "异国他乡响起我爱你中国",
@@ -524,7 +532,7 @@
     },
     {
       "raw_hot": 29820,
-      "num": 29820,
+      "num": 31152,
       "word": "雨果曾说樊振东是世界上最厉害的",
       "onboard_time": 1745171117,
       "rank": 38,
@@ -532,11 +540,19 @@
     },
     {
       "raw_hot": 28393,
-      "num": 28393,
+      "num": 31157,
       "word": "吃撑后身体会发生哪些变化",
       "onboard_time": 1745173696,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 27756,
+      "num": 31165,
+      "word": "国乒时隔八年再丢世界杯男单冠军",
+      "onboard_time": 1745167223,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 27219,
@@ -571,6 +587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 19079,
+      "num": 31146,
+      "word": "白敬亭从台下观众到台上嘉宾",
+      "onboard_time": 1745175314,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 18921,
       "num": 27326,
       "word": "丁程鑫新歌芥预告",
@@ -585,14 +609,6 @@
       "onboard_time": 1745141421,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16753,
-      "num": 24603,
-      "word": "国乒时隔八年再丢世界杯男单冠军",
-      "onboard_time": 1745167223,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 15442,
@@ -617,14 +633,6 @@
       "onboard_time": 1745175374,
       "rank": 27,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 12038,
-      "num": 21166,
-      "word": "白敬亭从台下观众到台上嘉宾",
-      "onboard_time": 1745175314,
-      "rank": 49,
-      "category": "演出"
     }
   ],
   "hotgov_list": [
