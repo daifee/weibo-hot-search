@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1745115700866,
+  "endTime": 1745118814642,
   "band_list": [
     {
       "raw_hot": 31189573,
@@ -1505,6 +1505,14 @@
       "onboard_time": 1744702041,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1677621,
+      "num": 1677621,
+      "word": "刘涛为妈祖献寿桃",
+      "onboard_time": 1745116223,
+      "rank": 0,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 1676799,
@@ -3169,6 +3177,14 @@
       "onboard_time": 1743895938,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1167497,
+      "num": 113103,
+      "word": "伸腿阻止高铁关门女子被拘留",
+      "onboard_time": 1745115745,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1163740,
@@ -6435,6 +6451,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 746630,
+      "num": 746630,
+      "word": "义乌女老板对CNN霸气喊话美国客户",
+      "onboard_time": 1745113164,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 746075,
       "num": 746075,
       "word": "于正 不加入乌合之众",
@@ -9169,14 +9193,6 @@
       "onboard_time": 1743404000,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 552872,
-      "num": 552872,
-      "word": "义乌女老板对CNN霸气喊话美国客户",
-      "onboard_time": 1745113164,
-      "rank": 4,
-      "category": "国际时政"
     },
     {
       "raw_hot": 552486,
@@ -13211,6 +13227,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 401093,
+      "num": 401093,
+      "word": "伸腿阻止高铁关门女子被行拘",
+      "onboard_time": 1745115265,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 400881,
       "num": 400881,
       "word": "iPhone17Pro手机壳再曝光",
@@ -13377,6 +13401,14 @@
       "onboard_time": 1743997164,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 396458,
+      "num": 396458,
+      "word": "乌克兰需要俄罗斯无条件全面停火",
+      "onboard_time": 1745114244,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 396433,
@@ -14361,6 +14393,14 @@
       "onboard_time": 1743922820,
       "rank": 19,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 369168,
+      "num": 369168,
+      "word": "盛李豪世界杯逆转夺冠",
+      "onboard_time": 1745114545,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 369076,
@@ -16171,14 +16211,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 327702,
-      "num": 327702,
-      "word": "盛李豪世界杯逆转夺冠",
-      "onboard_time": 1745114545,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 327288,
       "num": 327288,
       "word": "倪妮瑞士被偶遇",
@@ -17065,6 +17097,14 @@
       "onboard_time": 1743645981,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 308911,
+      "num": 258734,
+      "word": "曝韩安冉决定上诉薛小婉",
+      "onboard_time": 1745115145,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 308901,
@@ -21939,6 +21979,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 236843,
+      "num": 175649,
+      "word": "装修拆出10万现金以为男主藏私房钱",
+      "onboard_time": 1745116104,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 236768,
       "num": 278325,
       "word": "儿子拒付赡养费还将九旬母亲房门焊死",
@@ -25387,14 +25435,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 207977,
-      "num": 207977,
-      "word": "乌克兰需要俄罗斯无条件全面停火",
-      "onboard_time": 1745114244,
-      "rank": 43,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 207813,
       "num": 207813,
       "word": "Rookie一滴血抢龙",
@@ -27617,14 +27657,6 @@
       "onboard_time": 1744789821,
       "rank": 45,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 197827,
-      "num": 275284,
-      "word": "伸腿阻止高铁关门女子被行拘",
-      "onboard_time": 1745115265,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 197767,
@@ -30659,6 +30691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185357,
+      "num": 185357,
+      "word": "丁禹兮模仿金虎宣wink笑",
+      "onboard_time": 1745112744,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185319,
       "num": 185319,
       "word": "好房子的新标准来了",
@@ -32435,14 +32475,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 176884,
-      "num": 176884,
-      "word": "曝韩安冉决定上诉薛小婉",
-      "onboard_time": 1745115145,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 176830,
       "num": 188654,
       "word": "2025清明奇妙游直播",
@@ -33233,6 +33265,14 @@
       "onboard_time": 1744382965,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 173183,
+      "num": 173183,
+      "word": "古茗求补货",
+      "onboard_time": 1745117843,
+      "rank": 27,
+      "category": "美食"
     },
     {
       "raw_hot": 173089,
@@ -37331,6 +37371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155502,
+      "num": 181147,
+      "word": "庄心妍现场回应歌红人不红",
+      "onboard_time": 1745115924,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 155465,
       "num": 155465,
       "word": "没带身份证如何坐高铁",
@@ -37449,6 +37497,14 @@
       "onboard_time": 1744418663,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 154916,
+      "num": 177727,
+      "word": "章昊完美踩在女主的雷点上",
+      "onboard_time": 1745116463,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 154915,
@@ -41779,6 +41835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139002,
+      "num": 139002,
+      "word": "nobody simon",
+      "onboard_time": 1745117662,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 138973,
       "num": 138973,
       "word": "中国记者联合国质问美方乡巴佬言论",
@@ -41993,6 +42057,14 @@
       "onboard_time": 1743651442,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 138267,
+      "num": 138267,
+      "word": "时代峰峻否认贺峻霖恋爱",
+      "onboard_time": 1745118562,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 138247,
@@ -42905,6 +42977,14 @@
       "onboard_time": 1744104681,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135224,
+      "num": 135224,
+      "word": "陈泽 青岛",
+      "onboard_time": 1745116403,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 135205,
@@ -44147,6 +44227,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 130958,
+      "num": 174782,
+      "word": "娜扎侯明昊脸颊吻剧照",
+      "onboard_time": 1745117903,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130953,
       "num": 130953,
       "word": "宋轶去了张杰演唱会",
@@ -44833,6 +44921,14 @@
       "onboard_time": 1743557961,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128984,
+      "num": 269285,
+      "word": "谷雨手绘壁纸",
+      "onboard_time": 1745115982,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128935,
@@ -45889,14 +45985,6 @@
       "onboard_time": 1744964779,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 124949,
-      "num": 124949,
-      "word": "丁禹兮模仿金虎宣wink笑",
-      "onboard_time": 1745112744,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 124932,
@@ -49491,6 +49579,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 110740,
+      "num": 110740,
+      "word": "爱德华兹受伤",
+      "onboard_time": 1745118622,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110712,
       "num": 343877,
       "word": "河南老君山等景区限流",
@@ -49705,6 +49801,14 @@
       "onboard_time": 1744900882,
       "rank": 44,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 109353,
+      "num": 109353,
+      "word": "确定是任嘉伦吗",
+      "onboard_time": 1745118682,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 109339,
@@ -50587,6 +50691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 105112,
+      "num": 105112,
+      "word": "封神2出品公司发布声明",
+      "onboard_time": 1745118203,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 105109,
       "num": 244012,
       "word": "甲骨文藏着河南姓氏图腾",
@@ -51017,6 +51129,14 @@
       "onboard_time": 1743868701,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 102658,
+      "num": 102658,
+      "word": "日本大米暴涨有人去韩国带回40斤",
+      "onboard_time": 1745117363,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 102612,
@@ -53411,6 +53531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86783,
+      "num": 113144,
+      "word": "有什么冷门但好玩的城市推荐",
+      "onboard_time": 1745117425,
+      "rank": 41,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 86767,
       "num": 340310,
       "word": "Daeny谈iG困境",
@@ -54665,6 +54793,14 @@
       "onboard_time": 1744637543,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 77780,
+      "num": 168411,
+      "word": "青岛马拉松氛围太燃了",
+      "onboard_time": 1745118142,
+      "rank": 29,
+      "category": "运动健身"
     },
     {
       "raw_hot": 77730,
@@ -57761,6 +57897,14 @@
       "onboard_time": 1743525320,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 55546,
+      "num": 169360,
+      "word": "孙颖莎挑球挑错筐",
+      "onboard_time": 1745118083,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 55505,
@@ -65033,6 +65177,14 @@
       "onboard_time": 1744351284,
       "rank": 39,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 15401,
+      "num": 126665,
+      "word": "阻关高铁门女子将面临哪些法律后果",
+      "onboard_time": 1745118682,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15388,

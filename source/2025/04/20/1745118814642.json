@@ -1,0 +1,410 @@
+{
+  "runTime": 1745118814642,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1677621,
+        "num": 1677621,
+        "word": "刘涛为妈祖献寿桃",
+        "onboard_time": 1745116223,
+        "rank": 0,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 746630,
+        "num": 746630,
+        "word": "义乌女老板对CNN霸气喊话美国客户",
+        "onboard_time": 1745113164,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 40038,
+        "num": 410249,
+        "word": "关税政策加剧美国农业困境",
+        "onboard_time": 1745069665,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 401093,
+        "num": 401093,
+        "word": "伸腿阻止高铁关门女子被行拘",
+        "onboard_time": 1745115265,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 396458,
+        "num": 396458,
+        "word": "乌克兰需要俄罗斯无条件全面停火",
+        "onboard_time": 1745114244,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 369168,
+        "num": 369168,
+        "word": "盛李豪世界杯逆转夺冠",
+        "onboard_time": 1745114545,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 346690,
+        "num": 346690,
+        "word": "美国大豆可能将永远失去中国市场",
+        "onboard_time": 1745074524,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 271901,
+        "num": 271901,
+        "word": "种地吧直播",
+        "onboard_time": 1745113944,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271750,
+        "num": 271750,
+        "word": "张丹峰 洪欣",
+        "onboard_time": 1745069543,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128984,
+        "num": 269285,
+        "word": "谷雨手绘壁纸",
+        "onboard_time": 1745115982,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3098238,
+        "num": 266127,
+        "word": "关晓彤",
+        "onboard_time": 1745079693,
+        "rank": 10,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 2693341,
+        "num": 261012,
+        "word": "鹿晗关晓彤官宣微博都没删",
+        "onboard_time": 1745113524,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308911,
+        "num": 258734,
+        "word": "曝韩安冉决定上诉薛小婉",
+        "onboard_time": 1745115145,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256994,
+        "num": 256994,
+        "word": "日本长野一夜连震47次",
+        "onboard_time": 1745104279,
+        "rank": 13,
+        "category": "国际时政,国际时政"
+      },
+      {
+        "raw_hot": 217213,
+        "num": 217213,
+        "word": "女子阻止高铁关门为何能得逞",
+        "onboard_time": 1745093294,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188743,
+        "num": 188743,
+        "word": "张杰的牙尖被话筒磕碎了",
+        "onboard_time": 1745107162,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185357,
+        "num": 185357,
+        "word": "丁禹兮模仿金虎宣wink笑",
+        "onboard_time": 1745112744,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181948,
+        "num": 181948,
+        "word": "森林狼vs湖人",
+        "onboard_time": 1745114665,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155502,
+        "num": 181147,
+        "word": "庄心妍现场回应歌红人不红",
+        "onboard_time": 1745115924,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 46038,
+        "num": 180318,
+        "word": "马拉松赛道的健康密码",
+        "onboard_time": 1745114725,
+        "rank": 19,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 1720701,
+        "num": 179157,
+        "word": "鹿晗",
+        "onboard_time": 1745104760,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 499495,
+        "num": 178488,
+        "word": "女生列车上哭喊被爷爷摸",
+        "onboard_time": 1745104519,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154916,
+        "num": 177727,
+        "word": "章昊完美踩在女主的雷点上",
+        "onboard_time": 1745116463,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 490900,
+        "num": 176768,
+        "word": "关晓彤主页访问量",
+        "onboard_time": 1745104878,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236843,
+        "num": 175649,
+        "word": "装修拆出10万现金以为男主藏私房钱",
+        "onboard_time": 1745116104,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130958,
+        "num": 174782,
+        "word": "娜扎侯明昊脸颊吻剧照",
+        "onboard_time": 1745117903,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129571,
+        "num": 173427,
+        "word": "男子带10名女子吃千元烧烤逃单",
+        "onboard_time": 1745073925,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173183,
+        "num": 173183,
+        "word": "古茗求补货",
+        "onboard_time": 1745117843,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 55546,
+        "num": 169360,
+        "word": "孙颖莎挑球挑错筐",
+        "onboard_time": 1745118083,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77780,
+        "num": 168411,
+        "word": "青岛马拉松氛围太燃了",
+        "onboard_time": 1745118142,
+        "rank": 29,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 168116,
+        "num": 168116,
+        "word": "iPhone电池健康80和100有什么区别",
+        "onboard_time": 1745111905,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 147177,
+        "num": 147177,
+        "word": "特朗普经济问题支持率跌出总统生涯最低",
+        "onboard_time": 1745113884,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 139002,
+        "num": 139002,
+        "word": "nobody simon",
+        "onboard_time": 1745117662,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 138267,
+        "num": 138267,
+        "word": "时代峰峻否认贺峻霖恋爱",
+        "onboard_time": 1745118562,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135224,
+        "num": 135224,
+        "word": "陈泽 青岛",
+        "onboard_time": 1745116403,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131539,
+        "num": 131539,
+        "word": "大学同学说房琪没有塌房",
+        "onboard_time": 1745107582,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131500,
+        "num": 131500,
+        "word": "特朗普亲手扼杀美国拳头产品",
+        "onboard_time": 1745107642,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15401,
+        "num": 126665,
+        "word": "阻关高铁门女子将面临哪些法律后果",
+        "onboard_time": 1745118682,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124233,
+        "num": 124233,
+        "word": "印度医生让儿童吸支烟治感冒",
+        "onboard_time": 1745075665,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 117609,
+        "num": 117609,
+        "word": "陈赫",
+        "onboard_time": 1745081252,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114964,
+        "num": 114964,
+        "word": "热量比肉还高的水果",
+        "onboard_time": 1745068703,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 86783,
+        "num": 113144,
+        "word": "有什么冷门但好玩的城市推荐",
+        "onboard_time": 1745117425,
+        "rank": 41,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 1167497,
+        "num": 113103,
+        "word": "伸腿阻止高铁关门女子被拘留",
+        "onboard_time": 1745115745,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111781,
+        "num": 111781,
+        "word": "胡彦斌分享的喉糖自己买不到了",
+        "onboard_time": 1745076445,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 110740,
+        "num": 110740,
+        "word": "爱德华兹受伤",
+        "onboard_time": 1745118622,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109353,
+        "num": 109353,
+        "word": "确定是任嘉伦吗",
+        "onboard_time": 1745118682,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105038,
+        "num": 107034,
+        "word": "AG600飞机有型号合格证了",
+        "onboard_time": 1745113644,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106689,
+        "num": 106689,
+        "word": "ChatGPT直呼用户姓名引争议",
+        "onboard_time": 1745115205,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 105112,
+        "num": 105112,
+        "word": "封神2出品公司发布声明",
+        "onboard_time": 1745118203,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 102658,
+        "num": 102658,
+        "word": "日本大米暴涨有人去韩国带回40斤",
+        "onboard_time": 1745117363,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中柬命运共同体有了新内涵#"
+    }
+  }
+}
