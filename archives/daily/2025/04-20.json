@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745131540799,
+  "endTime": 1745133769184,
   "band_list": [
     {
       "raw_hot": 31189573,
@@ -49,6 +49,14 @@
       "onboard_time": 1745081252,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2394689,
+      "num": 2394689,
+      "word": "邓超发文让高瀚宇退圈",
+      "onboard_time": 1745131342,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 2045928,
@@ -233,6 +241,14 @@
       "onboard_time": 1745111905,
       "rank": 3,
       "category": "数码"
+    },
+    {
+      "raw_hot": 538394,
+      "num": 538394,
+      "word": "难哄",
+      "onboard_time": 1745131342,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 536377,
@@ -427,14 +443,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 308216,
-      "num": 139745,
-      "word": "邓超发文让高瀚宇退圈",
-      "onboard_time": 1745131342,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 306279,
       "num": 306279,
       "word": "黄杨钿甜冰湖重生杀青礼红毯",
@@ -475,6 +483,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 289205,
+      "num": 289205,
+      "word": "无忧渡热度",
+      "onboard_time": 1745130860,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 285609,
       "num": 260794,
       "word": "树莓衮衮衮",
@@ -489,6 +505,30 @@
       "onboard_time": 1745120663,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 281752,
+      "num": 281752,
+      "word": "补气血就要待在没有天花板的地方",
+      "onboard_time": 1745131702,
+      "rank": 13,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 260008,
+      "num": 329475,
+      "word": "肥胖或取代吸烟成为第一致癌因素",
+      "onboard_time": 1745128822,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 257557,
+      "num": 257557,
+      "word": "闫安说王楚钦确定参加多哈世乒赛",
+      "onboard_time": 1745132783,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 255058,
@@ -633,6 +673,14 @@
       "onboard_time": 1745127084,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 197510,
+      "num": 197510,
+      "word": "女儿阻拦妈妈给小男友买百万保险",
+      "onboard_time": 1745132602,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 196669,
@@ -835,12 +883,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 164586,
+      "num": 206790,
+      "word": "三星延长工时每周工作64小时",
+      "onboard_time": 1745126125,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 163131,
       "num": 163131,
       "word": "美军惊叹中国军备生产速度",
       "onboard_time": 1745105539,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 160947,
+      "num": 160947,
+      "word": "祝绪丹cue李晟骄傲的叶凡",
+      "onboard_time": 1745132843,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 159902,
@@ -931,14 +995,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 150020,
-      "num": 206790,
-      "word": "三星延长工时每周工作64小时",
-      "onboard_time": 1745126125,
-      "rank": 29,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 148103,
       "num": 186171,
       "word": "郭晶晶受聘为北京景山学校体育校长",
@@ -948,7 +1004,7 @@
     },
     {
       "raw_hot": 147948,
-      "num": 1039417,
+      "num": 1148691,
       "word": "关税高墙关不住民意",
       "onboard_time": 1745123783,
       "rank": 2,
@@ -1011,6 +1067,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 137454,
+      "num": 137454,
+      "word": "潮汕牛肉火锅 减脂餐",
+      "onboard_time": 1745130262,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 136893,
       "num": 136893,
       "word": "日本一酒店140人食物中毒",
@@ -1051,12 +1115,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 134745,
-      "num": 134745,
-      "word": "潮汕牛肉火锅 减脂餐",
-      "onboard_time": 1745130262,
-      "rank": 38,
-      "category": "美食"
+      "raw_hot": 134525,
+      "num": 133914,
+      "word": "假装韩国人用中文胡说八道",
+      "onboard_time": 1745131222,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 134183,
@@ -1089,6 +1153,14 @@
       "onboard_time": 1745117903,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132818,
+      "num": 132818,
+      "word": "韩国修订劳动法规",
+      "onboard_time": 1745129362,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 132628,
@@ -1171,6 +1243,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 127032,
+      "num": 127032,
+      "word": "小杨梅称19年来不知道自己非亲生",
+      "onboard_time": 1745133202,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126207,
       "num": 126207,
       "word": "全网最丢脸的风筝出现了",
@@ -1195,14 +1275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 125489,
-      "num": 329475,
-      "word": "肥胖或取代吸烟成为第一致癌因素",
-      "onboard_time": 1745128822,
-      "rank": 28,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 125354,
       "num": 192339,
       "word": "孙颖莎挑球挑错筐",
@@ -1225,30 +1297,6 @@
       "onboard_time": 1745105721,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 123697,
-      "num": 123697,
-      "word": "韩国修订劳动法规",
-      "onboard_time": 1745129362,
-      "rank": 43,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 122250,
-      "num": 122250,
-      "word": "难哄",
-      "onboard_time": 1745131342,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 122003,
-      "num": 122003,
-      "word": "无忧渡热度",
-      "onboard_time": 1745130860,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 118280,
@@ -1435,6 +1483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 100859,
+      "num": 100859,
+      "word": "时代峰峻回应藏票",
+      "onboard_time": 1745132482,
+      "rank": 40,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 97320,
       "num": 97320,
       "word": "三蹦子厂家称美国客户还在观望",
@@ -1555,11 +1611,27 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 86234,
+      "num": 86234,
+      "word": "宋妍霏想和姐姐们睡一起",
+      "onboard_time": 1745131942,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 85441,
       "num": 85441,
       "word": "范玮琪成都演唱会",
       "onboard_time": 1745077163,
       "rank": 47,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 83186,
+      "num": 83186,
+      "word": "朴综星科切拉7段高音",
+      "onboard_time": 1745133743,
+      "rank": 45,
       "category": "演出"
     },
     {
@@ -1571,12 +1643,20 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 81569,
-      "num": 81569,
-      "word": "假装韩国人用中文胡说八道",
-      "onboard_time": 1745131222,
+      "raw_hot": 81506,
+      "num": 81506,
+      "word": "EDGM对战DRG",
+      "onboard_time": 1745133743,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 81504,
+      "num": 81504,
+      "word": "多家手机厂商宣布支持朋友圈发live图",
+      "onboard_time": 1745132362,
       "rank": 47,
-      "category": "幽默"
+      "category": "数码"
     },
     {
       "raw_hot": 81046,
@@ -1635,6 +1715,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 75647,
+      "num": 75647,
+      "word": "北京国际电影节",
+      "onboard_time": 1745133683,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 70513,
       "num": 234888,
       "word": "阻止高铁关门是漠视公共安全风险",
@@ -1649,6 +1737,14 @@
       "onboard_time": 1745098754,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 68089,
+      "num": 237578,
+      "word": "人怎样才能变得自信",
+      "onboard_time": 1745132303,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 64284,
@@ -1867,6 +1963,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 34029,
+      "num": 86803,
+      "word": "辣条你站麻辣还是甜辣",
+      "onboard_time": 1745132663,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 33319,
       "num": 33319,
       "word": "王婆坦言曾因焦虑暴瘦20斤",
@@ -1955,6 +2059,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 17759,
+      "num": 304420,
+      "word": "古人写800字保姆级饮茶指南",
+      "onboard_time": 1745133022,
+      "rank": 9,
+      "category": "民生新闻,美食"
+    },
+    {
       "raw_hot": 16796,
       "num": 45931,
       "word": "健康减肥的方式有哪些",
@@ -2009,6 +2121,14 @@
       "onboard_time": 1745130082,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 11686,
+      "num": 134418,
+      "word": "孙颖莎落点太灵了",
+      "onboard_time": 1745133382,
+      "rank": 31,
+      "category": "体育"
     }
   ],
   "hotgov_list": [

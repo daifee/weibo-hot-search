@@ -1,0 +1,410 @@
+{
+  "runTime": 1745133769184,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2394689,
+        "num": 2394689,
+        "word": "邓超发文让高瀚宇退圈",
+        "onboard_time": 1745131342,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1429462,
+        "num": 1429462,
+        "word": "我不在乎五男一五女一我只在乎五一",
+        "onboard_time": 1745122523,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125228,
+        "num": 1148691,
+        "word": "关税高墙关不住民意",
+        "onboard_time": 1745123783,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 948526,
+        "num": 948526,
+        "word": "上海涌入大量泰国人有景点翻红",
+        "onboard_time": 1745129302,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 829677,
+        "num": 829677,
+        "word": "裴珠泫开球",
+        "onboard_time": 1745128822,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 538394,
+        "num": 538394,
+        "word": "难哄",
+        "onboard_time": 1745131342,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 498784,
+        "num": 498784,
+        "word": "刘涛为妈祖献寿桃",
+        "onboard_time": 1745116223,
+        "rank": 6,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 443109,
+        "num": 443109,
+        "word": "李昀锐穿着戏服走红毯",
+        "onboard_time": 1745127023,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 350350,
+        "num": 350350,
+        "word": "印度29亿卢比修的厕所",
+        "onboard_time": 1745122583,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 17759,
+        "num": 304420,
+        "word": "古人写800字保姆级饮茶指南",
+        "onboard_time": 1745133022,
+        "rank": 9,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 1855461,
+        "num": 303094,
+        "word": "关晓彤",
+        "onboard_time": 1745079693,
+        "rank": 10,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 1481779,
+        "num": 299963,
+        "word": "鹿晗关晓彤官宣微博都没删",
+        "onboard_time": 1745113524,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289205,
+        "num": 289205,
+        "word": "无忧渡热度",
+        "onboard_time": 1745130860,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281752,
+        "num": 281752,
+        "word": "补气血就要待在没有天花板的地方",
+        "onboard_time": 1745131702,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 270145,
+        "num": 270145,
+        "word": "焦恩俊谈离婚原因",
+        "onboard_time": 1745124262,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265564,
+        "num": 265564,
+        "word": "西瓜酱刷新了我对酱的认知",
+        "onboard_time": 1745129422,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 264860,
+        "num": 264860,
+        "word": "英国明确拒绝与中国脱钩",
+        "onboard_time": 1745121803,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 260008,
+        "num": 260008,
+        "word": "肥胖或取代吸烟成为第一致癌因素",
+        "onboard_time": 1745128822,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 257557,
+        "num": 257557,
+        "word": "闫安说王楚钦确定参加多哈世乒赛",
+        "onboard_time": 1745132783,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68089,
+        "num": 237578,
+        "word": "人怎样才能变得自信",
+        "onboard_time": 1745132303,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 798129,
+        "num": 235294,
+        "word": "鹿晗",
+        "onboard_time": 1745104760,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229471,
+        "num": 229471,
+        "word": "女生列车上哭喊被爷爷摸",
+        "onboard_time": 1745104519,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198618,
+        "num": 198618,
+        "word": "杨幂晒刮痧小猫",
+        "onboard_time": 1745121623,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197510,
+        "num": 197510,
+        "word": "女儿阻拦妈妈给小男友买百万保险",
+        "onboard_time": 1745132602,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164586,
+        "num": 164586,
+        "word": "三星延长工时每周工作64小时",
+        "onboard_time": 1745126125,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 160947,
+        "num": 160947,
+        "word": "祝绪丹cue李晟骄傲的叶凡",
+        "onboard_time": 1745132843,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149878,
+        "num": 149878,
+        "word": "邓超喊高瀚宇退圈吧",
+        "onboard_time": 1745127203,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137454,
+        "num": 137454,
+        "word": "潮汕牛肉火锅 减脂餐",
+        "onboard_time": 1745130262,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 135823,
+        "num": 135823,
+        "word": "女子术后突发癫痫死亡竟是丈夫投毒",
+        "onboard_time": 1745120543,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124448,
+        "num": 135247,
+        "word": "黄杨钿甜冰湖重生杀青礼红毯",
+        "onboard_time": 1745126305,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135076,
+        "num": 135076,
+        "word": "19年找了百万公里女儿就在失踪点附近",
+        "onboard_time": 1745119583,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11686,
+        "num": 134418,
+        "word": "孙颖莎落点太灵了",
+        "onboard_time": 1745133382,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134258,
+        "num": 134258,
+        "word": "山西一国道塌陷致2人死亡",
+        "onboard_time": 1745125884,
+        "rank": 32,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 134525,
+        "num": 133914,
+        "word": "假装韩国人用中文胡说八道",
+        "onboard_time": 1745131222,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132818,
+        "num": 132818,
+        "word": "韩国修订劳动法规",
+        "onboard_time": 1745129362,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 127032,
+        "num": 127032,
+        "word": "小杨梅称19年来不知道自己非亲生",
+        "onboard_time": 1745133202,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117737,
+        "num": 117737,
+        "word": "段半夏终于见到父母了",
+        "onboard_time": 1745127383,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117210,
+        "num": 117210,
+        "word": "古茗求补货",
+        "onboard_time": 1745117843,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 113432,
+        "num": 113432,
+        "word": "孟子义商务",
+        "onboard_time": 1745128403,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109317,
+        "num": 109317,
+        "word": "伸腿阻止高铁关门女子被行拘",
+        "onboard_time": 1745115265,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100859,
+        "num": 100859,
+        "word": "时代峰峻回应藏票",
+        "onboard_time": 1745132482,
+        "rank": 40,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 93417,
+        "num": 93417,
+        "word": "关晓彤主页访问量",
+        "onboard_time": 1745104878,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88041,
+        "num": 88041,
+        "word": "林孝埈夏训",
+        "onboard_time": 1745130141,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34029,
+        "num": 86803,
+        "word": "辣条你站麻辣还是甜辣",
+        "onboard_time": 1745132663,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86234,
+        "num": 86234,
+        "word": "宋妍霏想和姐姐们睡一起",
+        "onboard_time": 1745131942,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83186,
+        "num": 83186,
+        "word": "朴综星科切拉7段高音",
+        "onboard_time": 1745133743,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 81506,
+        "num": 81506,
+        "word": "EDGM对战DRG",
+        "onboard_time": 1745133743,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 81504,
+        "num": 81504,
+        "word": "多家手机厂商宣布支持朋友圈发live图",
+        "onboard_time": 1745132362,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 80156,
+        "num": 80156,
+        "word": "余宇涵直播",
+        "onboard_time": 1745129601,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75647,
+        "num": 75647,
+        "word": "北京国际电影节",
+        "onboard_time": 1745133683,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#一句古话说透中马关系#"
+    }
+  }
+}

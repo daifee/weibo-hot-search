@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/20 14:45:40
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/20 15:22:49
 </p>
 </blockquote>
 <p>
@@ -449,6 +449,12 @@ C罗点评甲亢哥中国行（热度：2472029）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%B9%E9%94%A1%E6%82%A6%E8%A2%AB%E7%BD%A2%E5%85%8D%E6%80%BB%E7%BB%9F%E8%81%8C%E5%8A%A1%23" target="weibo">
 尹锡悦被罢免总统职务（热度：2404409）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E5%8F%91%E6%96%87%E8%AE%A9%E9%AB%98%E7%80%9A%E5%AE%87%E9%80%80%E5%9C%88%23" target="weibo">
+邓超发文让高瀚宇退圈（热度：2394689）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ Prada正式收购范思哲（热度：644741）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AF%9B%E6%AF%9B%E6%9E%9C%E5%B7%B2%E7%BC%BA%E8%B4%A7%23" target="weibo">
 毛毛果已缺货（热度：635260）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A9%E4%B9%B0%E6%97%A9%E7%A5%9B%E9%AD%85%23" target="weibo">
-早买早祛魅（热度：634269）
 </a>
 </li>
 
