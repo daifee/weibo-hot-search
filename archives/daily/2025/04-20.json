@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745138489883,
+  "endTime": 1745140999588,
   "band_list": [
     {
       "raw_hot": 31189573,
@@ -139,6 +139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1128581,
+      "num": 299032,
+      "word": "等关晓彤发博",
+      "onboard_time": 1745134823,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1104133,
       "num": 1104133,
       "word": "裴珠泫开球",
@@ -177,14 +185,6 @@
       "onboard_time": 1745113164,
       "rank": 4,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 738639,
-      "num": 246091,
-      "word": "等关晓彤发博",
-      "onboard_time": 1745134823,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 713848,
@@ -259,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 569498,
+      "num": 297193,
+      "word": "快递太久没拿长出花了",
+      "onboard_time": 1745134103,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 565326,
       "num": 450658,
       "word": "确定是任嘉伦吗",
@@ -275,14 +283,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 543186,
-      "num": 245884,
-      "word": "快递太久没拿长出花了",
-      "onboard_time": 1745134103,
-      "rank": 10,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 538394,
       "num": 538394,
       "word": "难哄",
@@ -297,6 +297,14 @@
       "onboard_time": 1745104279,
       "rank": 26,
       "category": "国际时政,国际时政"
+    },
+    {
+      "raw_hot": 533629,
+      "num": 517147,
+      "word": "浪姐6kpop味最纯正的舞台出现了",
+      "onboard_time": 1745138902,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 525606,
@@ -369,6 +377,14 @@
       "onboard_time": 1745081909,
       "rank": 7,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 403391,
+      "num": 403391,
+      "word": "美国政府将6000多移民标为已死亡",
+      "onboard_time": 1745138962,
+      "rank": 8,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 401093,
@@ -563,6 +579,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 287088,
+      "num": 287088,
+      "word": "王皓解读世乒赛选拔规则",
+      "onboard_time": 1745139503,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 285609,
       "num": 260794,
       "word": "树莓衮衮衮",
@@ -704,6 +728,14 @@
       "word": "丁禹兮模仿金虎宣wink笑",
       "onboard_time": 1745112744,
       "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 204883,
+      "num": 204883,
+      "word": "断网了这竟然是沙溢",
+      "onboard_time": 1745140822,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -867,6 +899,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179429,
+      "num": 238049,
+      "word": "最有效的养生方式",
+      "onboard_time": 1745140462,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 177713,
+      "num": 177713,
+      "word": "刘奕畅不服余宇涵组赢了",
+      "onboard_time": 1745140223,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177245,
       "num": 177245,
       "word": "陈泽 青岛",
@@ -1011,6 +1059,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 162182,
+      "num": 162182,
+      "word": "孙恩盛 音乐节",
+      "onboard_time": 1745140403,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 161505,
       "num": 161505,
       "word": "祝绪丹cue李晟骄傲的叶凡",
@@ -1075,6 +1131,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 157381,
+      "num": 157381,
+      "word": "蒋一侨 不白来都不白来",
+      "onboard_time": 1745140822,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156164,
       "num": 156164,
       "word": "赛琳娜与未婚夫对镜拍",
@@ -1121,6 +1185,30 @@
       "onboard_time": 1745128702,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152230,
+      "num": 152230,
+      "word": "檀健次说如果有好故事会演短剧",
+      "onboard_time": 1745139980,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 150453,
+      "num": 150453,
+      "word": "为什么现在没人用黄瓜片敷脸了",
+      "onboard_time": 1745138902,
+      "rank": 33,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 148658,
+      "num": 148658,
+      "word": "一天内手机最好玩的三个小时",
+      "onboard_time": 1745140763,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 148103,
@@ -1315,6 +1403,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 132019,
+      "num": 132019,
+      "word": "种地吧",
+      "onboard_time": 1745138542,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131049,
       "num": 141664,
       "word": "成家上门男表面软饭实际硬茬",
@@ -1435,6 +1531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123695,
+      "num": 115329,
+      "word": "种地吧插秧日招募",
+      "onboard_time": 1745140763,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119615,
       "num": 119615,
       "word": "这些癌症发展的前奏一定要留意",
@@ -1483,6 +1587,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 113958,
+      "num": 113958,
+      "word": "谢可寅 我的goodidea好像不太good",
+      "onboard_time": 1745140883,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 113429,
       "num": 177476,
       "word": "范玮琪跪谢粉丝",
@@ -1521,6 +1633,14 @@
       "onboard_time": 1745127743,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108826,
+      "num": 108826,
+      "word": "马嘉祺还回家吃饭吗",
+      "onboard_time": 1745140763,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 107200,
@@ -1563,6 +1683,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 106162,
+      "num": 106162,
+      "word": "KPL",
+      "onboard_time": 1745140942,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 106053,
+      "num": 106053,
+      "word": "感觉云南欠我一个假期",
+      "onboard_time": 1745138722,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 105602,
       "num": 105602,
       "word": "单依纯把彩虹都穿了一遍",
@@ -1577,6 +1713,14 @@
       "onboard_time": 1745066063,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 104709,
+      "num": 104709,
+      "word": "周扬青 朋友带来的勇气就像一束光",
+      "onboard_time": 1745139142,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 103470,
@@ -1649,6 +1793,22 @@
       "onboard_time": 1745132482,
       "rank": 40,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 98158,
+      "num": 117961,
+      "word": "搜狐视频播主大会",
+      "onboard_time": 1745139682,
+      "rank": 39,
+      "category": "综艺,互联网"
+    },
+    {
+      "raw_hot": 97430,
+      "num": 116729,
+      "word": "没想到广东人才是辣条大户",
+      "onboard_time": 1745140105,
+      "rank": 40,
+      "category": "美食"
     },
     {
       "raw_hot": 97320,
@@ -1932,7 +2092,7 @@
     },
     {
       "raw_hot": 72374,
-      "num": 95328,
+      "num": 150519,
       "word": "老人50年为村寨起了200栋木楼",
       "onboard_time": 1745136623,
       "rank": 49,
@@ -2067,6 +2227,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 53766,
+      "num": 121041,
+      "word": "理学家朱熹不理性了",
+      "onboard_time": 1745140883,
+      "rank": 38,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 53467,
       "num": 552988,
       "word": "关税政策加剧美国农业困境",
@@ -2195,6 +2363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 42421,
+      "num": 152924,
+      "word": "谷雨也是联合国中文日",
+      "onboard_time": 1745140403,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41645,
       "num": 203651,
       "word": "峰哥半马大幅度破纪录",
@@ -2291,6 +2467,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 27728,
+      "num": 239720,
+      "word": "体育生被错切右膝医疗纠纷案将开庭",
+      "onboard_time": 1745140641,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25299,
       "num": 26314,
       "word": "咪咕汇",
@@ -2321,6 +2505,14 @@
       "onboard_time": 1745090474,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 21883,
+      "num": 236520,
+      "word": "韩国劳动法规修订了哪些内容",
+      "onboard_time": 1745139980,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 21852,
@@ -2376,6 +2568,22 @@
       "word": "阻关高铁门女子将面临哪些法律后果",
       "onboard_time": 1745118682,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15261,
+      "num": 240759,
+      "word": "借名买房后好友不愿过户闹上法庭",
+      "onboard_time": 1745140641,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14818,
+      "num": 952253,
+      "word": "春茶正当时",
+      "onboard_time": 1745140703,
+      "rank": 2,
       "category": "民生新闻"
     },
     {

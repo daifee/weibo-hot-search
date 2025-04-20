@@ -1,0 +1,410 @@
+{
+  "runTime": 1745140999588,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1695990,
+        "num": 1695990,
+        "word": "邓超发文让高瀚宇退圈",
+        "onboard_time": 1745131342,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 972889,
+        "num": 972889,
+        "word": "美高官爆料五角大楼已完全崩溃",
+        "onboard_time": 1745133923,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 14818,
+        "num": 952253,
+        "word": "春茶正当时",
+        "onboard_time": 1745140703,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1157761,
+        "num": 951174,
+        "word": "迪丽热巴金色纱裙",
+        "onboard_time": 1745136682,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 944422,
+        "num": 944422,
+        "word": "我不在乎五男一五女一我只在乎五一",
+        "onboard_time": 1745122523,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 523682,
+        "num": 523682,
+        "word": "上海涌入大量泰国人有景点翻红",
+        "onboard_time": 1745129302,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 533629,
+        "num": 517147,
+        "word": "浪姐6kpop味最纯正的舞台出现了",
+        "onboard_time": 1745138902,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 498567,
+        "num": 498567,
+        "word": "刘涛为妈祖献寿桃",
+        "onboard_time": 1745116223,
+        "rank": 7,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 403391,
+        "num": 403391,
+        "word": "美国政府将6000多移民标为已死亡",
+        "onboard_time": 1745138962,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 302134,
+        "num": 302134,
+        "word": "裴珠泫开球",
+        "onboard_time": 1745128822,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1128581,
+        "num": 299032,
+        "word": "等关晓彤发博",
+        "onboard_time": 1745134823,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 569498,
+        "num": 297193,
+        "word": "快递太久没拿长出花了",
+        "onboard_time": 1745134103,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 381956,
+        "num": 295549,
+        "word": "刘涛回应不拍戏",
+        "onboard_time": 1745134463,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287088,
+        "num": 287088,
+        "word": "王皓解读世乒赛选拔规则",
+        "onboard_time": 1745139503,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 284383,
+        "num": 284383,
+        "word": "难哄",
+        "onboard_time": 1745131342,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241166,
+        "num": 241166,
+        "word": "迪丽热巴SKP活动",
+        "onboard_time": 1745137582,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15261,
+        "num": 240759,
+        "word": "借名买房后好友不愿过户闹上法庭",
+        "onboard_time": 1745140641,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27728,
+        "num": 239720,
+        "word": "体育生被错切右膝医疗纠纷案将开庭",
+        "onboard_time": 1745140641,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179429,
+        "num": 238049,
+        "word": "最有效的养生方式",
+        "onboard_time": 1745140462,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 21883,
+        "num": 236520,
+        "word": "韩国劳动法规修订了哪些内容",
+        "onboard_time": 1745139980,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 236177,
+        "num": 236177,
+        "word": "结过婚都懂现实比电视剧魔幻多了",
+        "onboard_time": 1745134523,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240366,
+        "num": 226336,
+        "word": "闫安说王楚钦确定参加多哈世乒赛",
+        "onboard_time": 1745132783,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 538011,
+        "num": 216366,
+        "word": "鹿晗",
+        "onboard_time": 1745104760,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206030,
+        "num": 206030,
+        "word": "印度29亿卢比修的厕所",
+        "onboard_time": 1745122583,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 204883,
+        "num": 204883,
+        "word": "断网了这竟然是沙溢",
+        "onboard_time": 1745140822,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177713,
+        "num": 177713,
+        "word": "刘奕畅不服余宇涵组赢了",
+        "onboard_time": 1745140223,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165378,
+        "num": 165378,
+        "word": "李昀锐穿着戏服走红毯",
+        "onboard_time": 1745127023,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 162182,
+        "num": 162182,
+        "word": "孙恩盛 音乐节",
+        "onboard_time": 1745140403,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 157381,
+        "num": 157381,
+        "word": "蒋一侨 不白来都不白来",
+        "onboard_time": 1745140822,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42421,
+        "num": 152924,
+        "word": "谷雨也是联合国中文日",
+        "onboard_time": 1745140403,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152230,
+        "num": 152230,
+        "word": "檀健次说如果有好故事会演短剧",
+        "onboard_time": 1745139980,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150699,
+        "num": 150699,
+        "word": "补气血就要待在没有天花板的地方",
+        "onboard_time": 1745131702,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 68926,
+        "num": 150519,
+        "word": "老人50年为村寨起了200栋木楼",
+        "onboard_time": 1745136623,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150453,
+        "num": 150453,
+        "word": "为什么现在没人用黄瓜片敷脸了",
+        "onboard_time": 1745138902,
+        "rank": 33,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 148892,
+        "num": 148892,
+        "word": "鹿晗从这一秒开始启程",
+        "onboard_time": 1745135482,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148658,
+        "num": 148658,
+        "word": "一天内手机最好玩的三个小时",
+        "onboard_time": 1745140763,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132019,
+        "num": 132019,
+        "word": "种地吧",
+        "onboard_time": 1745138542,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121071,
+        "num": 121071,
+        "word": "肥胖或取代吸烟成为第一致癌因素",
+        "onboard_time": 1745128822,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 53766,
+        "num": 121041,
+        "word": "理学家朱熹不理性了",
+        "onboard_time": 1745140883,
+        "rank": 38,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 98158,
+        "num": 117961,
+        "word": "搜狐视频播主大会",
+        "onboard_time": 1745139682,
+        "rank": 39,
+        "category": "综艺,互联网"
+      },
+      {
+        "raw_hot": 97430,
+        "num": 116729,
+        "word": "没想到广东人才是辣条大户",
+        "onboard_time": 1745140105,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 123695,
+        "num": 115329,
+        "word": "种地吧插秧日招募",
+        "onboard_time": 1745140763,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113958,
+        "num": 113958,
+        "word": "谢可寅 我的goodidea好像不太good",
+        "onboard_time": 1745140883,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108826,
+        "num": 108826,
+        "word": "马嘉祺还回家吃饭吗",
+        "onboard_time": 1745140763,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107832,
+        "num": 107832,
+        "word": "英国明确拒绝与中国脱钩",
+        "onboard_time": 1745121803,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 108371,
+        "num": 107215,
+        "word": "这些癌症发展的前奏一定要留意",
+        "onboard_time": 1745134041,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 106162,
+        "num": 106162,
+        "word": "KPL",
+        "onboard_time": 1745140942,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 106053,
+        "num": 106053,
+        "word": "感觉云南欠我一个假期",
+        "onboard_time": 1745138722,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104709,
+        "num": 104709,
+        "word": "周扬青 朋友带来的勇气就像一束光",
+        "onboard_time": 1745139142,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102382,
+        "num": 102382,
+        "word": "女生列车上哭喊被爷爷摸",
+        "onboard_time": 1745104519,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平释家门口的相处之道#"
+    }
+  }
+}
