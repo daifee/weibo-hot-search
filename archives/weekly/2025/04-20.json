@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745191351986,
+  "endTime": 1745192202800,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 2045928,
-      "num": 243712,
+      "num": 247821,
       "word": "鹿晗",
       "onboard_time": 1745104760,
       "rank": 11,
@@ -451,6 +451,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 642330,
+      "num": 642330,
+      "word": "谢谢北京地铁5号线上勇敢的女乘客",
+      "onboard_time": 1745161948,
+      "rank": 37,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 636485,
       "num": 573702,
       "word": "爱奇艺电视剧 张康乐",
@@ -545,14 +553,6 @@
       "onboard_time": 1745111905,
       "rank": 3,
       "category": "数码"
-    },
-    {
-      "raw_hot": 553149,
-      "num": 553149,
-      "word": "谢谢北京地铁5号线上勇敢的女乘客",
-      "onboard_time": 1745161948,
-      "rank": 37,
-      "category": "正能量"
     },
     {
       "raw_hot": 544363,
@@ -713,6 +713,14 @@
       "onboard_time": 1745081909,
       "rank": 7,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 407280,
+      "num": 407280,
+      "word": "语聊房竟成色情服务叫卖场所",
+      "onboard_time": 1745190319,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 401585,
@@ -1465,14 +1473,6 @@
       "onboard_time": 1745140462,
       "rank": 18,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 198379,
-      "num": 239260,
-      "word": "语聊房竟成色情服务叫卖场所",
-      "onboard_time": 1745190319,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 198277,
@@ -2659,6 +2659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129770,
+      "num": 129770,
+      "word": "雨果平均9秒解开1个魔方",
+      "onboard_time": 1745167701,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129458,
       "num": 210385,
       "word": "孙颖莎让解说员无话可说",
@@ -2713,14 +2721,6 @@
       "onboard_time": 1745070445,
       "rank": 30,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 126210,
-      "num": 126210,
-      "word": "雨果平均9秒解开1个魔方",
-      "onboard_time": 1745167701,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 126207,
@@ -3187,6 +3187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97107,
+      "num": 97107,
+      "word": "孙颖莎世界杯女单卫冕第4人",
+      "onboard_time": 1745190319,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97003,
       "num": 222626,
       "word": "2000多年前的集市爆款清单",
@@ -3403,14 +3411,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 83526,
-      "num": 83526,
-      "word": "孙颖莎世界杯女单卫冕第4人",
-      "onboard_time": 1745190319,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 82655,
       "num": 82655,
       "word": "春天穿什么颜色最显白",
@@ -3489,6 +3489,14 @@
       "onboard_time": 1745079512,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 77507,
+      "num": 77507,
+      "word": "医生教你5分钟体态纠正术",
+      "onboard_time": 1745188637,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 77420,
@@ -3571,6 +3579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64498,
+      "num": 77501,
+      "word": "美国多地再现反特抗议潮",
+      "onboard_time": 1745172376,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 64284,
       "num": 211608,
       "word": "阿迪达斯包揽上海半马四冠",
@@ -3593,6 +3609,14 @@
       "onboard_time": 1745121982,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62757,
+      "num": 77469,
+      "word": "雨果曾说樊振东是世界上最厉害的",
+      "onboard_time": 1745171117,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 61920,
@@ -3683,14 +3707,6 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 54240,
-      "num": 54240,
-      "word": "医生教你5分钟体态纠正术",
-      "onboard_time": 1745188637,
-      "rank": 47,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 54162,
       "num": 54162,
       "word": "张极下班开车看演出vlog",
@@ -3724,7 +3740,7 @@
     },
     {
       "raw_hot": 53593,
-      "num": 53593,
+      "num": 77352,
       "word": "中国男乒时隔8年世界杯首丢冠",
       "onboard_time": 1745169258,
       "rank": 49,
@@ -3787,28 +3803,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 51302,
-      "num": 51302,
-      "word": "雨果曾说樊振东是世界上最厉害的",
-      "onboard_time": 1745171117,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 51143,
       "num": 188434,
       "word": "晴天和阴天哪个紫外线强",
       "onboard_time": 1745137582,
       "rank": 39,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 50155,
-      "num": 50155,
-      "word": "美国多地再现反特抗议潮",
-      "onboard_time": 1745172376,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 49411,
@@ -3969,6 +3969,14 @@
       "onboard_time": 1745127142,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 40451,
+      "num": 168418,
+      "word": "美元指数跌破99",
+      "onboard_time": 1745191220,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 40340,
@@ -4139,6 +4147,22 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 28592,
+      "num": 230975,
+      "word": "学习不自律怎么办",
+      "onboard_time": 1745191279,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 28164,
+      "num": 244721,
+      "word": "美国进口商称加征关税将致经济崩溃",
+      "onboard_time": 1745191640,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 27803,
       "num": 41531,
       "word": "白敬亭从台下观众到台上嘉宾",
@@ -4161,14 +4185,6 @@
       "onboard_time": 1745098275,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 27341,
-      "num": 50064,
-      "word": "学习不自律怎么办",
-      "onboard_time": 1745191279,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 27127,
@@ -4233,14 +4249,6 @@
       "onboard_time": 1745089096,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 23224,
-      "num": 50068,
-      "word": "美元指数跌破99",
-      "onboard_time": 1745191220,
-      "rank": 43,
-      "category": "财经"
     },
     {
       "raw_hot": 22556,
@@ -4347,6 +4355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14306,
+      "num": 77420,
+      "word": "来武夷山有效去班味",
+      "onboard_time": 1745191821,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 13650,
       "num": 20484,
       "word": "一句古话说透中马关系",
@@ -4409,6 +4425,14 @@
       "onboard_time": 1745148802,
       "rank": 39,
       "category": "国际时政,民生新闻"
+    },
+    {
+      "raw_hot": 6890,
+      "num": 658960,
+      "word": "闽地纪行",
+      "onboard_time": 1745192001,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

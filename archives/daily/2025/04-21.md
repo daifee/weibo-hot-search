@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/21 00:27:30 ~ 2025/04/21 07:22:31
+本榜单时间：2025/04/21 00:27:30 ~ 2025/04/21 07:36:42
 </p>
 </blockquote>
 <p>
@@ -46,7 +46,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%23" target="weibo">
-鹿晗（热度：1339324）
+鹿晗（热度：1452536）
 </a>
 </li>
 
@@ -87,6 +87,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E8%B0%A2%E5%8C%97%E4%BA%AC%E5%9C%B0%E9%93%815%E5%8F%B7%E7%BA%BF%E4%B8%8A%E5%8B%87%E6%95%A2%E7%9A%84%E5%A5%B3%E4%B9%98%E5%AE%A2%23" target="weibo">
+谢谢北京地铁5号线上勇敢的女乘客（热度：642330）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E8%AF%97%E6%A0%8Bvs%E9%9B%A8%E6%9E%9C%23" target="weibo">
 林诗栋vs雨果（热度：580552）
 </a>
@@ -99,20 +105,20 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E8%B0%A2%E5%8C%97%E4%BA%AC%E5%9C%B0%E9%93%815%E5%8F%B7%E7%BA%BF%E4%B8%8A%E5%8B%87%E6%95%A2%E7%9A%84%E5%A5%B3%E4%B9%98%E5%AE%A2%23" target="weibo">
-谢谢北京地铁5号线上勇敢的女乘客（热度：553149）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E9%9A%94%E4%BB%A3%E4%BA%B2%E8%B5%A0%E5%AD%99%E5%AD%90100%E4%B8%87%E5%BC%95%E5%84%BF%E5%AD%90%E4%B8%8D%E6%BB%A1%23" target="weibo">
-爷爷隔代亲赠孙子100万引儿子不满（热度：439762）
+爷爷隔代亲赠孙子100万引儿子不满（热度：480310）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%2331%E5%B2%81%E7%94%B7%E6%98%9F%E9%BB%84%E6%AD%A3%E6%9D%B0%E5%8E%BB%E4%B8%96%23" target="weibo">
 31岁男星黄正杰去世（热度：420378）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AF%AD%E8%81%8A%E6%88%BF%E7%AB%9F%E6%88%90%E8%89%B2%E6%83%85%E6%9C%8D%E5%8A%A1%E5%8F%AB%E5%8D%96%E5%9C%BA%E6%89%80%23" target="weibo">
+语聊房竟成色情服务叫卖场所（热度：407280）
 </a>
 </li>
 
@@ -135,14 +141,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%89%E9%9D%99%E5%85%AC%E4%B8%BB%E8%AF%B4%E7%9B%B4%E6%92%AD%E4%B8%8D%E8%B5%9A%E9%92%B1%23" target="weibo">
-安静公主说直播不赚钱（热度：324133）
+<a href="https://s.weibo.com/weibo?q=%23%E8%B6%852300%E4%B8%87%E7%BE%8E%E5%9B%BD%E4%BA%BA%E5%87%86%E5%A4%87%E8%BF%8E%E6%8E%A5%E5%BC%BA%E9%9C%87%23" target="weibo">
+超2300万美国人准备迎接强震（热度：356361）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B6%852300%E4%B8%87%E7%BE%8E%E5%9B%BD%E4%BA%BA%E5%87%86%E5%A4%87%E8%BF%8E%E6%8E%A5%E5%BC%BA%E9%9C%87%23" target="weibo">
-超2300万美国人准备迎接强震（热度：302380）
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%89%E9%9D%99%E5%85%AC%E4%B8%BB%E8%AF%B4%E7%9B%B4%E6%92%AD%E4%B8%8D%E8%B5%9A%E9%92%B1%23" target="weibo">
+安静公主说直播不赚钱（热度：324133）
 </a>
 </li>
 
@@ -207,14 +213,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AF%AD%E8%81%8A%E6%88%BF%E7%AB%9F%E6%88%90%E8%89%B2%E6%83%85%E6%9C%8D%E5%8A%A1%E5%8F%AB%E5%8D%96%E5%9C%BA%E6%89%80%23" target="weibo">
-语聊房竟成色情服务叫卖场所（热度：198379）
+<a href="https://s.weibo.com/weibo?q=%23%E8%8C%83%E6%80%9D%E5%93%B2%E6%99%9A%E5%AE%B4%23" target="weibo">
+范思哲晚宴（热度：198165）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8C%83%E6%80%9D%E5%93%B2%E6%99%9A%E5%AE%B4%23" target="weibo">
-范思哲晚宴（热度：198165）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E6%B7%B3%E5%A6%BB%E5%AD%90%E5%9B%9E%E5%BA%94%E5%90%90%E6%A7%BD%E4%BF%9D%E5%A7%86%E8%A2%AB%E9%AA%82%23" target="weibo">
+杜淳妻子回应吐槽保姆被骂（热度：193734）
 </a>
 </li>
 
@@ -227,12 +233,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%B0%20%E5%A5%BD%E4%B9%85%E4%B8%8D%E8%A7%81%E5%91%80%E4%BD%95%E6%83%9F%E8%8A%B3%23" target="weibo">
 李现 好久不见呀何惟芳（热度：180630）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E6%B7%B3%E5%A6%BB%E5%AD%90%E5%9B%9E%E5%BA%94%E5%90%90%E6%A7%BD%E4%BF%9D%E5%A7%86%E8%A2%AB%E9%AA%82%23" target="weibo">
-杜淳妻子回应吐槽保姆被骂（热度：177923）
 </a>
 </li>
 
@@ -280,7 +280,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%A8%E6%9E%9C%E5%B9%B3%E5%9D%879%E7%A7%92%E8%A7%A3%E5%BC%801%E4%B8%AA%E9%AD%94%E6%96%B9%23" target="weibo">
-雨果平均9秒解开1个魔方（热度：126210）
+雨果平均9秒解开1个魔方（热度：129770）
 </a>
 </li>
 
@@ -351,6 +351,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A5%B3%E5%8D%95%E5%8D%AB%E5%86%95%E7%AC%AC4%E4%BA%BA%23" target="weibo">
+孙颖莎世界杯女单卫冕第4人（热度：97107）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%A3%E5%91%8A%E8%8F%B2%E6%96%B9%E5%81%9C%E6%AD%A2%E4%BE%B5%E6%9D%83%E6%8C%91%E8%A1%85%23" target="weibo">
 正告菲方停止侵权挑衅（热度：95403）
 </a>
@@ -363,8 +369,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A5%B3%E5%8D%95%E5%8D%AB%E5%86%95%E7%AC%AC4%E4%BA%BA%23" target="weibo">
-孙颖莎世界杯女单卫冕第4人（热度：83526）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E6%95%99%E4%BD%A05%E5%88%86%E9%92%9F%E4%BD%93%E6%80%81%E7%BA%A0%E6%AD%A3%E6%9C%AF%23" target="weibo">
+医生教你5分钟体态纠正术（热度：77507）
 </a>
 </li>
 
@@ -375,8 +381,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E6%95%99%E4%BD%A05%E5%88%86%E9%92%9F%E4%BD%93%E6%80%81%E7%BA%A0%E6%AD%A3%E6%9C%AF%23" target="weibo">
-医生教你5分钟体态纠正术（热度：54240）
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A4%9A%E5%9C%B0%E5%86%8D%E7%8E%B0%E5%8F%8D%E7%89%B9%E6%8A%97%E8%AE%AE%E6%BD%AE%23" target="weibo">
+美国多地再现反特抗议潮（热度：64498）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9B%A8%E6%9E%9C%E6%9B%BE%E8%AF%B4%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%98%AF%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E5%8E%89%E5%AE%B3%E7%9A%84%23" target="weibo">
+雨果曾说樊振东是世界上最厉害的（热度：62757）
 </a>
 </li>
 
@@ -399,14 +411,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9B%A8%E6%9E%9C%E6%9B%BE%E8%AF%B4%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%98%AF%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E5%8E%89%E5%AE%B3%E7%9A%84%23" target="weibo">
-雨果曾说樊振东是世界上最厉害的（热度：51302）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A4%9A%E5%9C%B0%E5%86%8D%E7%8E%B0%E5%8F%8D%E7%89%B9%E6%8A%97%E8%AE%AE%E6%BD%AE%23" target="weibo">
-美国多地再现反特抗议潮（热度：50155）
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B6%9B%E4%B8%BA%E5%A6%88%E7%A5%96%E7%8C%AE%E5%AF%BF%E6%A1%83%23" target="weibo">
+刘涛为妈祖献寿桃（热度：53338）
 </a>
 </li>
 
@@ -435,6 +441,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%85%83%E6%8C%87%E6%95%B0%E8%B7%8C%E7%A0%B499%23" target="weibo">
+美元指数跌破99（热度：40451）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%82%E5%9B%BD%E4%BB%96%E4%B9%A1%E5%93%8D%E8%B5%B7%E6%88%91%E7%88%B1%E4%BD%A0%E4%B8%AD%E5%9B%BD%23" target="weibo">
 异国他乡响起我爱你中国（热度：39699）
 </a>
@@ -447,6 +459,18 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A6%E4%B9%A0%E4%B8%8D%E8%87%AA%E5%BE%8B%E6%80%8E%E4%B9%88%E5%8A%9E%23" target="weibo">
+学习不自律怎么办（热度：28592）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%BF%9B%E5%8F%A3%E5%95%86%E7%A7%B0%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E%E5%B0%86%E8%87%B4%E7%BB%8F%E6%B5%8E%E5%B4%A9%E6%BA%83%23" target="weibo">
+美国进口商称加征关税将致经济崩溃（热度：28164）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E4%BB%8E%E5%8F%B0%E4%B8%8B%E8%A7%82%E4%BC%97%E5%88%B0%E5%8F%B0%E4%B8%8A%E5%98%89%E5%AE%BE%23" target="weibo">
 白敬亭从台下观众到台上嘉宾（热度：27803）
 </a>
@@ -455,18 +479,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E6%97%B6%E9%9A%94%E5%85%AB%E5%B9%B4%E5%86%8D%E4%B8%A2%E4%B8%96%E7%95%8C%E6%9D%AF%E7%94%B7%E5%8D%95%E5%86%A0%E5%86%9B%23" target="weibo">
 国乒时隔八年再丢世界杯男单冠军（热度：27756）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A6%E4%B9%A0%E4%B8%8D%E8%87%AA%E5%BE%8B%E6%80%8E%E4%B9%88%E5%8A%9E%23" target="weibo">
-学习不自律怎么办（热度：27341）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B6%9B%E4%B8%BA%E5%A6%88%E7%A5%96%E7%8C%AE%E5%AF%BF%E6%A1%83%23" target="weibo">
-刘涛为妈祖献寿桃（热度：27219）
 </a>
 </li>
 
@@ -489,12 +501,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%85%83%E6%8C%87%E6%95%B0%E8%B7%8C%E7%A0%B499%23" target="weibo">
-美元指数跌破99（热度：23224）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A8%8B%E9%91%AB%E6%96%B0%E6%AD%8C%E8%8A%A5%E9%A2%84%E5%91%8A%23" target="weibo">
 丁程鑫新歌芥预告（热度：18921）
 </a>
@@ -513,6 +519,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A5%E6%AD%A6%E5%A4%B7%E5%B1%B1%E6%9C%89%E6%95%88%E5%8E%BB%E7%8F%AD%E5%91%B3%23" target="weibo">
+来武夷山有效去班味（热度：14306）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%9B%9E%E5%BA%94%E6%AF%941%E6%89%8B%E5%8A%BF%23" target="weibo">
 孙颖莎回应比1手势（热度：13050）
 </a>
@@ -527,6 +539,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%B9%E9%94%A1%E6%82%A6%E5%8F%97%E5%AE%A1%E7%94%BB%E9%9D%A2%E8%8E%B7%E5%87%86%E6%8B%8D%E6%91%84%23" target="weibo">
 尹锡悦受审画面获准拍摄（热度：11354）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%97%BD%E5%9C%B0%E7%BA%AA%E8%A1%8C%23" target="weibo">
+闽地纪行（热度：6890）
 </a>
 </li>
 
