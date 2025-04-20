@@ -1,6 +1,6 @@
 {
   "startTime": 1745166450412,
-  "endTime": 1745166450412,
+  "endTime": 1745167413024,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -59,20 +59,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 777807,
+      "num": 777807,
+      "word": "李现晒和杨紫合照",
+      "onboard_time": 1745162907,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 730833,
       "num": 730833,
       "word": "孙颖莎冠军",
       "onboard_time": 1745151746,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 702504,
-      "num": 702504,
-      "word": "李现晒和杨紫合照",
-      "onboard_time": 1745162907,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 701074,
@@ -91,6 +91,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 557825,
+      "num": 273661,
+      "word": "肖战七年蝉联世首帅",
+      "onboard_time": 1745166505,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 553149,
       "num": 553149,
       "word": "谢谢北京地铁5号线上勇敢的女乘客",
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 420378,
-      "num": 239943,
+      "num": 246962,
       "word": "31岁男星黄正杰去世",
       "onboard_time": 1745149883,
       "rank": 20,
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 404444,
-      "num": 238486,
+      "num": 247011,
       "word": "邓超发文让高瀚宇退圈",
       "onboard_time": 1745131342,
       "rank": 22,
@@ -155,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 247065,
+      "num": 247065,
+      "word": "孙颖莎雨果合照",
+      "onboard_time": 1745164288,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 244355,
       "num": 244355,
       "word": "爷爷隔代亲赠孙子100万引儿子不满",
@@ -196,7 +212,7 @@
     },
     {
       "raw_hot": 225121,
-      "num": 170695,
+      "num": 212970,
       "word": "王楚钦表情亮了",
       "onboard_time": 1745164228,
       "rank": 31,
@@ -217,6 +233,14 @@
       "onboard_time": 1745140822,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 198165,
+      "num": 349233,
+      "word": "范思哲晚宴",
+      "onboard_time": 1745161408,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 193403,
@@ -251,14 +275,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 164107,
-      "num": 164107,
-      "word": "范思哲晚宴",
-      "onboard_time": 1745161408,
-      "rank": 33,
-      "category": "电影"
-    },
-    {
       "raw_hot": 160148,
       "num": 160148,
       "word": "超2300万美国人准备迎接强震",
@@ -291,6 +307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154767,
+      "num": 154767,
+      "word": "无忧渡编剧",
+      "onboard_time": 1745166087,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144797,
       "num": 154972,
       "word": "孙颖莎vs蒯曼",
@@ -307,12 +331,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 125576,
+      "num": 125576,
+      "word": "严浩翔电影节出图",
+      "onboard_time": 1745166684,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 122933,
       "num": 154814,
       "word": "迪丽热巴金色纱裙",
       "onboard_time": 1745136682,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 120079,
+      "num": 154511,
+      "word": "巴西人成了乒乓球世界冠军",
+      "onboard_time": 1745161827,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 118386,
@@ -323,19 +363,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 116343,
-      "num": 154511,
-      "word": "巴西人成了乒乓球世界冠军",
-      "onboard_time": 1745161827,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 111366,
-      "num": 154390,
-      "word": "无忧渡编剧",
-      "onboard_time": 1745166087,
-      "rank": 44,
+      "raw_hot": 106510,
+      "num": 154171,
+      "word": "九重紫宋墨篇开局就杀疯了",
+      "onboard_time": 1745149943,
+      "rank": 47,
       "category": "剧集"
     },
     {
@@ -347,28 +379,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 103153,
-      "num": 154227,
-      "word": "外网热议林诗栋违规罚分",
-      "onboard_time": 1745161286,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 102911,
-      "num": 154720,
+      "raw_hot": 104005,
+      "num": 355188,
       "word": "南部战区回应菲护卫艇侵入我黄岩岛领海",
       "onboard_time": 1745165790,
       "rank": 41,
       "category": "军事"
     },
     {
-      "raw_hot": 102806,
-      "num": 154171,
-      "word": "九重紫宋墨篇开局就杀疯了",
-      "onboard_time": 1745149943,
-      "rank": 47,
-      "category": "剧集"
+      "raw_hot": 103153,
+      "num": 154227,
+      "word": "外网热议林诗栋违规罚分",
+      "onboard_time": 1745161286,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 99342,
@@ -406,6 +430,9 @@
   "hotgov_list": [
     {
       "word": "#习近平释家门口的相处之道#"
+    },
+    {
+      "word": "#中柬命运共同体有了新内涵#"
     }
   ]
 }
