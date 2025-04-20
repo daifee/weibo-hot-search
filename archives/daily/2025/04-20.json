@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745118814642,
+  "endTime": 1745119581251,
   "band_list": [
     {
       "raw_hot": 31189573,
@@ -187,6 +187,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 476544,
+      "num": 476544,
+      "word": "乌克兰需要俄罗斯无条件全面停火",
+      "onboard_time": 1745114244,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 409433,
       "num": 335030,
       "word": "老舅",
@@ -201,14 +209,6 @@
       "onboard_time": 1745115265,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 396458,
-      "num": 396458,
-      "word": "乌克兰需要俄罗斯无条件全面停火",
-      "onboard_time": 1745114244,
-      "rank": 43,
-      "category": "国际时政"
     },
     {
       "raw_hot": 391094,
@@ -267,7 +267,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 308911,
+      "raw_hot": 316207,
       "num": 258734,
       "word": "曝韩安冉决定上诉薛小婉",
       "onboard_time": 1745115145,
@@ -323,8 +323,8 @@
       "category": "网红"
     },
     {
-      "raw_hot": 236843,
-      "num": 175649,
+      "raw_hot": 245497,
+      "num": 199850,
       "word": "装修拆出10万现金以为男主藏私房钱",
       "onboard_time": 1745116104,
       "rank": 24,
@@ -337,6 +337,14 @@
       "onboard_time": 1745104399,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 217974,
+      "num": 217974,
+      "word": "古茗求补货",
+      "onboard_time": 1745117843,
+      "rank": 27,
+      "category": "美食"
     },
     {
       "raw_hot": 215737,
@@ -363,11 +371,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 210581,
+      "num": 210581,
+      "word": "确定是任嘉伦吗",
+      "onboard_time": 1745118682,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210172,
       "num": 210172,
       "word": "刘涛 这么多mother啊",
       "onboard_time": 1745077343,
       "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 209278,
+      "num": 209278,
+      "word": "丁禹兮模仿金虎宣wink笑",
+      "onboard_time": 1745112744,
+      "rank": 36,
       "category": "艺人"
     },
     {
@@ -385,6 +409,22 @@
       "onboard_time": 1745114665,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194604,
+      "num": 194604,
+      "word": "时代峰峻否认贺峻霖恋爱",
+      "onboard_time": 1745118562,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 194034,
+      "num": 194034,
+      "word": "恋与深空",
+      "onboard_time": 1745119344,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 192755,
@@ -419,14 +459,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 185357,
-      "num": 185357,
-      "word": "丁禹兮模仿金虎宣wink笑",
-      "onboard_time": 1745112744,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 181164,
       "num": 181164,
       "word": "1岁宝宝因太可爱被家人狂亲高烧不退",
@@ -435,12 +467,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 173183,
-      "num": 173183,
-      "word": "古茗求补货",
-      "onboard_time": 1745117843,
-      "rank": 27,
-      "category": "美食"
+      "raw_hot": 180268,
+      "num": 197729,
+      "word": "章昊完美踩在女主的雷点上",
+      "onboard_time": 1745116463,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 173074,
@@ -499,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163823,
+      "num": 163823,
+      "word": "单依纯好会扭",
+      "onboard_time": 1745118922,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 163131,
       "num": 163131,
       "word": "美军惊叹中国军备生产速度",
@@ -539,14 +579,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 154916,
-      "num": 177727,
-      "word": "章昊完美踩在女主的雷点上",
-      "onboard_time": 1745116463,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 154832,
       "num": 154832,
       "word": "让体重逐渐下降的30个常识",
@@ -560,6 +592,14 @@
       "word": "郭晶晶受聘为北京景山学校体育校长",
       "onboard_time": 1745105841,
       "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 144936,
+      "num": 201284,
+      "word": "爱德华兹受伤",
+      "onboard_time": 1745118622,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -577,14 +617,6 @@
       "onboard_time": 1745117662,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 138267,
-      "num": 138267,
-      "word": "时代峰峻否认贺峻霖恋爱",
-      "onboard_time": 1745118562,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 138242,
@@ -643,12 +675,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 130958,
-      "num": 174782,
+      "raw_hot": 133179,
+      "num": 194039,
       "word": "娜扎侯明昊脸颊吻剧照",
       "onboard_time": 1745117903,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132628,
+      "num": 269285,
+      "word": "谷雨手绘壁纸",
+      "onboard_time": 1745115982,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130517,
@@ -673,14 +713,6 @@
       "onboard_time": 1745071344,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 128984,
-      "num": 269285,
-      "word": "谷雨手绘壁纸",
-      "onboard_time": 1745115982,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 127946,
@@ -739,6 +771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114774,
+      "num": 114774,
+      "word": "封神2出品公司发布声明",
+      "onboard_time": 1745118203,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 112016,
       "num": 112016,
       "word": "XLG战胜EDG",
@@ -747,28 +787,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 110740,
-      "num": 110740,
-      "word": "爱德华兹受伤",
-      "onboard_time": 1745118622,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 109353,
-      "num": 109353,
-      "word": "确定是任嘉伦吗",
-      "onboard_time": 1745118682,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 107200,
       "num": 107200,
       "word": "校方回应醉酒男子深夜强闯女寝",
       "onboard_time": 1745106801,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106778,
+      "num": 106778,
+      "word": "日本大米暴涨有人去韩国带回40斤",
+      "onboard_time": 1745117363,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 106702,
@@ -795,12 +827,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 105112,
-      "num": 105112,
-      "word": "封神2出品公司发布声明",
-      "onboard_time": 1745118203,
-      "rank": 48,
-      "category": "电影"
+      "raw_hot": 104965,
+      "num": 169360,
+      "word": "孙颖莎挑球挑错筐",
+      "onboard_time": 1745118083,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 103470,
@@ -817,14 +849,6 @@
       "onboard_time": 1745079811,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 102658,
-      "num": 102658,
-      "word": "日本大米暴涨有人去韩国带回40斤",
-      "onboard_time": 1745117363,
-      "rank": 49,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 102108,
@@ -849,6 +873,14 @@
       "onboard_time": 1745114725,
       "rank": 18,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 101293,
+      "num": 101293,
+      "word": "两男子饭后都不想买单装醉睡在室外",
+      "onboard_time": 1745119162,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100929,
@@ -1043,14 +1075,6 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 55546,
-      "num": 169360,
-      "word": "孙颖莎挑球挑错筐",
-      "onboard_time": 1745118083,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 54162,
       "num": 54162,
       "word": "张极下班开车看演出vlog",
@@ -1115,6 +1139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45129,
+      "num": 208090,
+      "word": "气候变暖对人类有什么危害",
+      "onboard_time": 1745119284,
+      "rank": 19,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 43610,
       "num": 43610,
       "word": "山西一处塌方一货车司机遇难",
@@ -1145,6 +1177,14 @@
       "onboard_time": 1745086639,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 35240,
+      "num": 209175,
+      "word": "著名经济学家等900人签署反关税宣言",
+      "onboard_time": 1745119284,
+      "rank": 16,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 33319,
