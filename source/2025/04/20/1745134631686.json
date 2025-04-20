@@ -1,0 +1,410 @@
+{
+  "runTime": 1745134631686,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2603719,
+        "num": 2603719,
+        "word": "邓超发文让高瀚宇退圈",
+        "onboard_time": 1745131342,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1302125,
+        "num": 1302125,
+        "word": "我不在乎五男一五女一我只在乎五一",
+        "onboard_time": 1745122523,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134454,
+        "num": 833334,
+        "word": "关税高墙关不住民意",
+        "onboard_time": 1745123783,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 816750,
+        "num": 816750,
+        "word": "上海涌入大量泰国人有景点翻红",
+        "onboard_time": 1745129302,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 702707,
+        "num": 702707,
+        "word": "裴珠泫开球",
+        "onboard_time": 1745128822,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 577868,
+        "num": 577868,
+        "word": "美高官爆料五角大楼已完全崩溃",
+        "onboard_time": 1745133923,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 519693,
+        "num": 519693,
+        "word": "难哄",
+        "onboard_time": 1745131342,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 466510,
+        "num": 466510,
+        "word": "刘涛为妈祖献寿桃",
+        "onboard_time": 1745116223,
+        "rank": 7,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 422995,
+        "num": 422995,
+        "word": "李昀锐穿着戏服走红毯",
+        "onboard_time": 1745127023,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 36294,
+        "num": 394844,
+        "word": "古人写800字保姆级饮茶指南",
+        "onboard_time": 1745133022,
+        "rank": 9,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 1757147,
+        "num": 392490,
+        "word": "关晓彤",
+        "onboard_time": 1745079693,
+        "rank": 10,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 1456597,
+        "num": 384678,
+        "word": "鹿晗关晓彤官宣微博都没删",
+        "onboard_time": 1745113524,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368250,
+        "num": 368250,
+        "word": "无忧渡热度",
+        "onboard_time": 1745130860,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 315640,
+        "num": 315640,
+        "word": "印度29亿卢比修的厕所",
+        "onboard_time": 1745122583,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 49056,
+        "num": 300272,
+        "word": "特朗普重创美国服务贸易重点产业",
+        "onboard_time": 1745134103,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 298293,
+        "num": 298293,
+        "word": "肥胖或取代吸烟成为第一致癌因素",
+        "onboard_time": 1745128822,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 253085,
+        "num": 253085,
+        "word": "焦恩俊谈离婚原因",
+        "onboard_time": 1745124262,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249000,
+        "num": 249000,
+        "word": "闫安说王楚钦确定参加多哈世乒赛",
+        "onboard_time": 1745132783,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244469,
+        "num": 244469,
+        "word": "补气血就要待在没有天花板的地方",
+        "onboard_time": 1745131702,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 39114,
+        "num": 225313,
+        "word": "春天最适合吃什么野菜",
+        "onboard_time": 1745133982,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 733201,
+        "num": 224416,
+        "word": "鹿晗",
+        "onboard_time": 1745104760,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223348,
+        "num": 223348,
+        "word": "女生列车上哭喊被爷爷摸",
+        "onboard_time": 1745104519,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208434,
+        "num": 208434,
+        "word": "西瓜酱刷新了我对酱的认知",
+        "onboard_time": 1745129422,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 202783,
+        "num": 202783,
+        "word": "英国明确拒绝与中国脱钩",
+        "onboard_time": 1745121803,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 184558,
+        "num": 184558,
+        "word": "和长生一起抓水母吧",
+        "onboard_time": 1745133923,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 161505,
+        "num": 161505,
+        "word": "祝绪丹cue李晟骄傲的叶凡",
+        "onboard_time": 1745132843,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143688,
+        "num": 143688,
+        "word": "19年找了百万公里女儿就在失踪点附近",
+        "onboard_time": 1745119583,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136119,
+        "num": 136119,
+        "word": "杨幂晒刮痧小猫",
+        "onboard_time": 1745121623,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130819,
+        "num": 130819,
+        "word": "小杨梅称19年来不知道自己非亲生",
+        "onboard_time": 1745133202,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108346,
+        "num": 130323,
+        "word": "黄杨钿甜冰湖重生杀青礼红毯",
+        "onboard_time": 1745126305,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196605,
+        "num": 130230,
+        "word": "刘涛回应不拍戏",
+        "onboard_time": 1745134463,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131904,
+        "num": 130205,
+        "word": "假装韩国人用中文胡说八道",
+        "onboard_time": 1745131222,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130105,
+        "num": 130105,
+        "word": "三星延长工时每周工作64小时",
+        "onboard_time": 1745126125,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 128455,
+        "num": 128455,
+        "word": "女子术后突发癫痫死亡竟是丈夫投毒",
+        "onboard_time": 1745120543,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36393,
+        "num": 117868,
+        "word": "员工拒绝调岗被违法开除获赔3万",
+        "onboard_time": 1745134582,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115625,
+        "num": 115625,
+        "word": "韩国修订劳动法规",
+        "onboard_time": 1745129362,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 115448,
+        "num": 115448,
+        "word": "潮汕牛肉火锅 减脂餐",
+        "onboard_time": 1745130262,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 109682,
+        "num": 109682,
+        "word": "结过婚都懂现实比电视剧魔幻多了",
+        "onboard_time": 1745134523,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106036,
+        "num": 106036,
+        "word": "山西一国道塌陷致2人死亡",
+        "onboard_time": 1745125884,
+        "rank": 38,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 53072,
+        "num": 105835,
+        "word": "辣条你站麻辣还是甜辣",
+        "onboard_time": 1745132663,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 48208,
+        "num": 105242,
+        "word": "余宇涵看自己演戏抠出魔法城堡",
+        "onboard_time": 1745134582,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101882,
+        "num": 104450,
+        "word": "女儿阻拦妈妈给小男友买百万保险",
+        "onboard_time": 1745132602,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42750,
+        "num": 104265,
+        "word": "孙颖莎落点太灵了",
+        "onboard_time": 1745133382,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103695,
+        "num": 103695,
+        "word": "古茗求补货",
+        "onboard_time": 1745117843,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 96714,
+        "num": 96714,
+        "word": "段半夏终于见到父母了",
+        "onboard_time": 1745127383,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96241,
+        "num": 96241,
+        "word": "朴综星科切拉7段高音",
+        "onboard_time": 1745133743,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 96063,
+        "num": 96063,
+        "word": "孟子义商务",
+        "onboard_time": 1745128403,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92380,
+        "num": 92380,
+        "word": "伸腿阻止高铁关门女子被行拘",
+        "onboard_time": 1745115265,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90472,
+        "num": 90472,
+        "word": "有机会一定要去泉州拍次簪花",
+        "onboard_time": 1745133861,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 89321,
+        "num": 89321,
+        "word": "EDGM对战DRG",
+        "onboard_time": 1745133743,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平东南亚三国行#"
+    }
+  }
+}

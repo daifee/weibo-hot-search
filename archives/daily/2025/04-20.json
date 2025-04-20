@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745133769184,
+  "endTime": 1745134631686,
   "band_list": [
     {
       "raw_hot": 31189573,
@@ -28,11 +28,19 @@
     },
     {
       "raw_hot": 3087329,
-      "num": 364003,
+      "num": 384678,
       "word": "鹿晗关晓彤官宣微博都没删",
       "onboard_time": 1745113524,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2603719,
+      "num": 2603719,
+      "word": "邓超发文让高瀚宇退圈",
+      "onboard_time": 1745131342,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 2601469,
@@ -49,14 +57,6 @@
       "onboard_time": 1745081252,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2394689,
-      "num": 2394689,
-      "word": "邓超发文让高瀚宇退圈",
-      "onboard_time": 1745131342,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 2045928,
@@ -227,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 577868,
+      "num": 577868,
+      "word": "美高官爆料五角大楼已完全崩溃",
+      "onboard_time": 1745133923,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 565326,
       "num": 450658,
       "word": "确定是任嘉伦吗",
@@ -363,6 +371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 368250,
+      "num": 368250,
+      "word": "无忧渡热度",
+      "onboard_time": 1745130860,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 361944,
       "num": 361944,
       "word": "谢娜问吴宣仪你有什么事吗",
@@ -459,6 +475,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 298293,
+      "num": 329475,
+      "word": "肥胖或取代吸烟成为第一致癌因素",
+      "onboard_time": 1745128822,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 297314,
       "num": 155174,
       "word": "那年今日",
@@ -483,14 +507,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 289205,
-      "num": 289205,
-      "word": "无忧渡热度",
-      "onboard_time": 1745130860,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 285609,
       "num": 260794,
       "word": "树莓衮衮衮",
@@ -512,14 +528,6 @@
       "word": "补气血就要待在没有天花板的地方",
       "onboard_time": 1745131702,
       "rank": 13,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 260008,
-      "num": 329475,
-      "word": "肥胖或取代吸烟成为第一致癌因素",
-      "onboard_time": 1745128822,
-      "rank": 28,
       "category": "健康医疗"
     },
     {
@@ -691,6 +699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196605,
+      "num": 130230,
+      "word": "刘涛回应不拍戏",
+      "onboard_time": 1745134463,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195873,
       "num": 215602,
       "word": "森林狼vs湖人",
@@ -761,6 +777,14 @@
       "onboard_time": 1745067863,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 184558,
+      "num": 184558,
+      "word": "和长生一起抓水母吧",
+      "onboard_time": 1745133923,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 181164,
@@ -899,8 +923,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 160947,
-      "num": 160947,
+      "raw_hot": 161505,
+      "num": 161505,
       "word": "祝绪丹cue李晟骄傲的叶凡",
       "onboard_time": 1745132843,
       "rank": 25,
@@ -1187,6 +1211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130819,
+      "num": 130819,
+      "word": "小杨梅称19年来不知道自己非亲生",
+      "onboard_time": 1745133202,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130517,
       "num": 130517,
       "word": "盘点洛阳牡丹的神仙配色",
@@ -1241,14 +1273,6 @@
       "onboard_time": 1745070445,
       "rank": 30,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 127032,
-      "num": 127032,
-      "word": "小杨梅称19年来不知道自己非亲生",
-      "onboard_time": 1745133202,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 126207,
@@ -1353,6 +1377,14 @@
       "onboard_time": 1745123484,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109682,
+      "num": 109682,
+      "word": "结过婚都懂现实比电视剧魔幻多了",
+      "onboard_time": 1745134523,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 109536,
@@ -1531,6 +1563,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 96241,
+      "num": 96241,
+      "word": "朴综星科切拉7段高音",
+      "onboard_time": 1745133743,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 94751,
       "num": 94751,
       "word": "黄子弘凡把流星镶在了身上",
@@ -1587,12 +1627,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 90472,
+      "num": 90472,
+      "word": "有机会一定要去泉州拍次簪花",
+      "onboard_time": 1745133861,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 90424,
       "num": 90424,
       "word": "为什么微信还不推出编辑功能",
       "onboard_time": 1745096654,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 89321,
+      "num": 89321,
+      "word": "EDGM对战DRG",
+      "onboard_time": 1745133743,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 88867,
@@ -1627,28 +1683,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 83186,
-      "num": 83186,
-      "word": "朴综星科切拉7段高音",
-      "onboard_time": 1745133743,
-      "rank": 45,
-      "category": "演出"
-    },
-    {
       "raw_hot": 82655,
       "num": 82655,
       "word": "春天穿什么颜色最显白",
       "onboard_time": 1745127983,
       "rank": 46,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 81506,
-      "num": 81506,
-      "word": "EDGM对战DRG",
-      "onboard_time": 1745133743,
-      "rank": 46,
-      "category": "电竞"
     },
     {
       "raw_hot": 81504,
@@ -1835,6 +1875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 53072,
+      "num": 105835,
+      "word": "辣条你站麻辣还是甜辣",
+      "onboard_time": 1745132663,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 51659,
       "num": 61069,
       "word": "网友拍到大爷在悬崖峭壁上耕作",
@@ -1865,6 +1913,22 @@
       "onboard_time": 1745123065,
       "rank": 27,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 49056,
+      "num": 300272,
+      "word": "特朗普重创美国服务贸易重点产业",
+      "onboard_time": 1745134103,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 48208,
+      "num": 105242,
+      "word": "余宇涵看自己演戏抠出魔法城堡",
+      "onboard_time": 1745134582,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 48124,
@@ -1915,6 +1979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 42750,
+      "num": 134418,
+      "word": "孙颖莎落点太灵了",
+      "onboard_time": 1745133382,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 41645,
       "num": 203651,
       "word": "峰哥半马大幅度破纪录",
@@ -1939,6 +2011,30 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 39114,
+      "num": 225313,
+      "word": "春天最适合吃什么野菜",
+      "onboard_time": 1745133982,
+      "rank": 19,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 36393,
+      "num": 117868,
+      "word": "员工拒绝调岗被违法开除获赔3万",
+      "onboard_time": 1745134582,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36294,
+      "num": 394844,
+      "word": "古人写800字保姆级饮茶指南",
+      "onboard_time": 1745133022,
+      "rank": 9,
+      "category": "民生新闻,美食"
+    },
+    {
       "raw_hot": 35621,
       "num": 42872,
       "word": "普京称停火将能检验乌克兰诚意",
@@ -1961,14 +2057,6 @@
       "onboard_time": 1745129662,
       "rank": 19,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 34029,
-      "num": 86803,
-      "word": "辣条你站麻辣还是甜辣",
-      "onboard_time": 1745132663,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 33319,
@@ -2059,14 +2147,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 17759,
-      "num": 304420,
-      "word": "古人写800字保姆级饮茶指南",
-      "onboard_time": 1745133022,
-      "rank": 9,
-      "category": "民生新闻,美食"
-    },
-    {
       "raw_hot": 16796,
       "num": 45931,
       "word": "健康减肥的方式有哪些",
@@ -2121,14 +2201,6 @@
       "onboard_time": 1745130082,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 11686,
-      "num": 134418,
-      "word": "孙颖莎落点太灵了",
-      "onboard_time": 1745133382,
-      "rank": 31,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
