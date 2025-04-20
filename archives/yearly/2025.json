@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1745153902829,
+  "endTime": 1745155812146,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -953,6 +953,14 @@
       "onboard_time": 1742052569,
       "rank": 20,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 5669690,
+      "num": 5669690,
+      "word": "林诗栋vs雨果",
+      "onboard_time": 1745151327,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 5557391,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1738072362,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2970659,
-      "num": 545722,
-      "word": "已脑死亡男孩听到妈妈来了流下眼泪",
-      "onboard_time": 1744876401,
-      "rank": 6,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
