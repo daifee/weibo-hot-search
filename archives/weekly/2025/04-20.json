@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745152969404,
+  "endTime": 1745153902829,
   "band_list": [
     {
       "raw_hot": 31189573,
@@ -147,7 +147,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1334127,
+      "raw_hot": 1346967,
       "num": 1334127,
       "word": "31岁男星黄正杰去世",
       "onboard_time": 1745149883,
@@ -227,7 +227,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 848658,
+      "raw_hot": 1002411,
       "num": 356704,
       "word": "赵露思 范思哲",
       "onboard_time": 1745151024,
@@ -241,6 +241,14 @@
       "onboard_time": 1745104878,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 775509,
+      "num": 775509,
+      "word": "林诗栋vs雨果",
+      "onboard_time": 1745151327,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 773106,
@@ -323,20 +331,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 617615,
-      "num": 617615,
-      "word": "林诗栋vs雨果",
-      "onboard_time": 1745151327,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 601824,
       "num": 601824,
       "word": "CIA报告称外星人石化苏联士兵",
       "onboard_time": 1745074045,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 592702,
+      "num": 592702,
+      "word": "饺子在美国身价涨到一美元一个",
+      "onboard_time": 1745149883,
+      "rank": 8,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 591054,
@@ -464,14 +472,6 @@
       "word": "日本大米暴涨有人去韩国带回40斤",
       "onboard_time": 1745117363,
       "rank": 49,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 458394,
-      "num": 458394,
-      "word": "饺子在美国身价涨到一美元一个",
-      "onboard_time": 1745149883,
-      "rank": 8,
       "category": "海外新闻"
     },
     {
@@ -619,8 +619,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 354640,
-      "num": 354640,
+      "raw_hot": 355305,
+      "num": 355305,
       "word": "苹果回应iPhone电池健康80和100的区别",
       "onboard_time": 1745149943,
       "rank": 16,
@@ -811,6 +811,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 273021,
+      "num": 273021,
+      "word": "李一桐唇钻",
+      "onboard_time": 1745153006,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 271590,
+      "num": 349674,
+      "word": "孙颖莎回应世界杯卫冕",
+      "onboard_time": 1745153426,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 270442,
+      "num": 355430,
+      "word": "刘国正说邱贻可现在非常舒心",
+      "onboard_time": 1745152467,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 263150,
       "num": 263150,
       "word": "乒乓球世界杯",
@@ -875,19 +899,19 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 227570,
+      "num": 295806,
+      "word": "深圳女生回应被拍进热播剧",
+      "onboard_time": 1745151808,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 225109,
       "num": 225109,
       "word": "段半夏终于见到父母了",
       "onboard_time": 1745127383,
       "rank": 38,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 219833,
-      "num": 295806,
-      "word": "深圳女生回应被拍进热播剧",
-      "onboard_time": 1745151808,
-      "rank": 24,
       "category": "剧集"
     },
     {
@@ -963,6 +987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 209973,
+      "num": 209973,
+      "word": "五月天白敬亭合唱任性",
+      "onboard_time": 1745153605,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 209278,
       "num": 209278,
       "word": "丁禹兮模仿金虎宣wink笑",
@@ -1003,12 +1035,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202947,
+      "num": 202947,
+      "word": "孙颖莎4比0蒯曼",
+      "onboard_time": 1745153545,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202726,
       "num": 199885,
       "word": "鹿晗从这一秒开始启程",
       "onboard_time": 1745135482,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 202087,
+      "num": 202087,
+      "word": "孙颖莎说发挥比想象中好",
+      "onboard_time": 1745153426,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 202061,
@@ -1155,12 +1203,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191526,
+      "num": 209453,
+      "word": "华晨宇音乐节",
+      "onboard_time": 1745153426,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 190220,
       "num": 210872,
       "word": "男子带10名女子吃千元烧烤逃单",
       "onboard_time": 1745073925,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 187885,
+      "num": 187885,
+      "word": "ITTF",
+      "onboard_time": 1745153426,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 186738,
@@ -1612,7 +1676,7 @@
     },
     {
       "raw_hot": 153151,
-      "num": 153151,
+      "num": 188235,
       "word": "宋祖儿任嘉伦吻戏",
       "onboard_time": 1745150063,
       "rank": 37,
@@ -1707,12 +1771,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143764,
+      "num": 143764,
+      "word": "COA8总决赛抽签",
+      "onboard_time": 1745152707,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 143348,
+      "num": 143348,
+      "word": "孟美岐七年变的是时间不变的是热爱",
+      "onboard_time": 1745150544,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 142673,
       "num": 142673,
       "word": "看都给韩庚哭成啥样了",
       "onboard_time": 1745134823,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140562,
+      "num": 140562,
+      "word": "郑秀妍在兵马俑请粉丝喝饮料",
+      "onboard_time": 1745153665,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 139806,
@@ -1827,14 +1915,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 135156,
-      "num": 355430,
-      "word": "刘国正说邱贻可现在非常舒心",
-      "onboard_time": 1745152467,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 134525,
       "num": 133914,
       "word": "假装韩国人用中文胡说八道",
@@ -1865,6 +1945,14 @@
       "onboard_time": 1745124504,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 133726,
+      "num": 133726,
+      "word": "韦世豪头球破门",
+      "onboard_time": 1745153665,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 133221,
@@ -1915,14 +2003,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 131797,
-      "num": 131797,
-      "word": "COA8总决赛抽签",
-      "onboard_time": 1745152707,
-      "rank": 44,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 131166,
       "num": 131166,
       "word": "实际上的单身生活",
@@ -1953,6 +2033,14 @@
       "onboard_time": 1745114184,
       "rank": 34,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 130403,
+      "num": 130403,
+      "word": "zb1二巡",
+      "onboard_time": 1745152947,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 130339,
@@ -2009,6 +2097,14 @@
       "onboard_time": 1745111184,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127583,
+      "num": 127583,
+      "word": "无忧渡 画中世界",
+      "onboard_time": 1745153846,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 127558,
@@ -2099,14 +2195,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 119803,
-      "num": 119803,
-      "word": "孟美岐七年变的是时间不变的是热爱",
-      "onboard_time": 1745150544,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 119615,
       "num": 183758,
       "word": "这些癌症发展的前奏一定要留意",
@@ -2121,14 +2209,6 @@
       "onboard_time": 1745135242,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 118606,
-      "num": 118606,
-      "word": "zb1二巡",
-      "onboard_time": 1745152947,
-      "rank": 49,
-      "category": "演出"
     },
     {
       "raw_hot": 118280,
@@ -2755,6 +2835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 70022,
+      "num": 309184,
+      "word": "榴莲为什么这么好吃",
+      "onboard_time": 1745153186,
+      "rank": 19,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 69672,
       "num": 98770,
       "word": "李诚儒看青蛇小考急得想自己扭两段",
@@ -2905,6 +2993,14 @@
       "onboard_time": 1745125582,
       "rank": 18,
       "category": "数码"
+    },
+    {
+      "raw_hot": 53860,
+      "num": 349989,
+      "word": "请给保洁员一个休息空间",
+      "onboard_time": 1745153246,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 53467,
@@ -3203,6 +3299,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 30777,
+      "num": 1228504,
+      "word": "何以中国走进福建",
+      "onboard_time": 1745141063,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29867,
       "num": 163484,
       "word": "苹果型身材如何穿搭",
@@ -3217,14 +3321,6 @@
       "onboard_time": 1745098275,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 26280,
-      "num": 1228504,
-      "word": "何以中国走进福建",
-      "onboard_time": 1745141063,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25299,

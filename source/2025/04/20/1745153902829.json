@@ -1,0 +1,410 @@
+{
+  "runTime": 1745153902829,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2260240,
+        "num": 2260240,
+        "word": "孙颖莎冠军",
+        "onboard_time": 1745151746,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 949644,
+        "num": 949644,
+        "word": "桂林旅游累计亏损10亿",
+        "onboard_time": 1745144363,
+        "rank": 1,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 30777,
+        "num": 791597,
+        "word": "何以中国走进福建",
+        "onboard_time": 1745141063,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1346967,
+        "num": 788285,
+        "word": "31岁男星黄正杰去世",
+        "onboard_time": 1745149883,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 775509,
+        "num": 775509,
+        "word": "林诗栋vs雨果",
+        "onboard_time": 1745151327,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 697991,
+        "num": 697991,
+        "word": "孙颖莎vs蒯曼",
+        "onboard_time": 1745148022,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 592702,
+        "num": 592702,
+        "word": "饺子在美国身价涨到一美元一个",
+        "onboard_time": 1745149883,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 484661,
+        "num": 484661,
+        "word": "女子出现在热播剧中自己毫不知情",
+        "onboard_time": 1745148322,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 355305,
+        "num": 355305,
+        "word": "苹果回应iPhone电池健康80和100的区别",
+        "onboard_time": 1745149943,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 350536,
+        "num": 350536,
+        "word": "孙颖莎蒯曼女单决赛对战",
+        "onboard_time": 1745146822,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14106799,
+        "num": 14106799,
+        "word": "鹿晗 关晓彤",
+        "onboard_time": 1745150424,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1002411,
+        "num": 350243,
+        "word": "赵露思 范思哲",
+        "onboard_time": 1745151024,
+        "rank": 11,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 53860,
+        "num": 349989,
+        "word": "请给保洁员一个休息空间",
+        "onboard_time": 1745153246,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 572246,
+        "num": 349895,
+        "word": "断网了这竟然是沙溢",
+        "onboard_time": 1745140822,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271590,
+        "num": 349674,
+        "word": "孙颖莎回应世界杯卫冕",
+        "onboard_time": 1745153426,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 483692,
+        "num": 349432,
+        "word": "等关晓彤发博",
+        "onboard_time": 1745134823,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349407,
+        "num": 349407,
+        "word": "白鹿直播",
+        "onboard_time": 1745150965,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335035,
+        "num": 335035,
+        "word": "迪丽热巴发型师 方可",
+        "onboard_time": 1745142682,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58190,
+        "num": 325163,
+        "word": "小尼魔术挑战大变汽车",
+        "onboard_time": 1745151689,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70022,
+        "num": 309184,
+        "word": "榴莲为什么这么好吃",
+        "onboard_time": 1745153186,
+        "rank": 19,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 747161,
+        "num": 295812,
+        "word": "邓超发文让高瀚宇退圈",
+        "onboard_time": 1745131342,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265551,
+        "num": 273287,
+        "word": "九重紫宋墨篇开局就杀疯了",
+        "onboard_time": 1745149943,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273021,
+        "num": 273021,
+        "word": "李一桐唇钻",
+        "onboard_time": 1745153006,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270442,
+        "num": 270442,
+        "word": "刘国正说邱贻可现在非常舒心",
+        "onboard_time": 1745152467,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 266836,
+        "num": 266836,
+        "word": "刘涛为妈祖献寿桃",
+        "onboard_time": 1745116223,
+        "rank": 24,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 248122,
+        "num": 248122,
+        "word": "美媒承认中国手里有张王牌",
+        "onboard_time": 1745143703,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 227570,
+        "num": 227570,
+        "word": "深圳女生回应被拍进热播剧",
+        "onboard_time": 1745151808,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209973,
+        "num": 209973,
+        "word": "五月天白敬亭合唱任性",
+        "onboard_time": 1745153605,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 191526,
+        "num": 209453,
+        "word": "华晨宇音乐节",
+        "onboard_time": 1745153426,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 172667,
+        "num": 209376,
+        "word": "佛山电翰回应买迈巴赫",
+        "onboard_time": 1745150063,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 209334,
+        "num": 209334,
+        "word": "高中生打破黄雨婷保持的世界纪录",
+        "onboard_time": 1745141782,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202947,
+        "num": 202947,
+        "word": "孙颖莎4比0蒯曼",
+        "onboard_time": 1745153545,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202087,
+        "num": 202087,
+        "word": "孙颖莎说发挥比想象中好",
+        "onboard_time": 1745153426,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189996,
+        "num": 189996,
+        "word": "美高官爆料五角大楼已完全崩溃",
+        "onboard_time": 1745133923,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 147322,
+        "num": 188235,
+        "word": "宋祖儿任嘉伦吻戏",
+        "onboard_time": 1745150063,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187885,
+        "num": 187885,
+        "word": "ITTF",
+        "onboard_time": 1745153426,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179881,
+        "num": 179881,
+        "word": "女生婚礼前特意做美甲婚戒卡手指上",
+        "onboard_time": 1745144902,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168202,
+        "num": 168202,
+        "word": "乒乓球世界杯",
+        "onboard_time": 1745151689,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153836,
+        "num": 153836,
+        "word": "爸爸找到失散女儿第一句话是对不起",
+        "onboard_time": 1745148922,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144012,
+        "num": 144012,
+        "word": "这些星座请做好脱单的准备",
+        "onboard_time": 1745151689,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143764,
+        "num": 143764,
+        "word": "COA8总决赛抽签",
+        "onboard_time": 1745152707,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 143348,
+        "num": 143348,
+        "word": "孟美岐七年变的是时间不变的是热爱",
+        "onboard_time": 1745150544,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140562,
+        "num": 140562,
+        "word": "郑秀妍在兵马俑请粉丝喝饮料",
+        "onboard_time": 1745153665,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133726,
+        "num": 133726,
+        "word": "韦世豪头球破门",
+        "onboard_time": 1745153665,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133604,
+        "num": 133604,
+        "word": "难哄",
+        "onboard_time": 1745131342,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132604,
+        "num": 132604,
+        "word": "第一次看悬疑剧冷到我想搓手",
+        "onboard_time": 1745148802,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132030,
+        "num": 132030,
+        "word": "张峻豪范思哲大片",
+        "onboard_time": 1745143642,
+        "rank": 46,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 130403,
+        "num": 130403,
+        "word": "zb1二巡",
+        "onboard_time": 1745152947,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 128633,
+        "num": 128633,
+        "word": "全红婵问主持人能坐吗",
+        "onboard_time": 1745150663,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127583,
+        "num": 127583,
+        "word": "无忧渡 画中世界",
+        "onboard_time": 1745153846,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中柬命运共同体有了新内涵#"
+    }
+  }
+}

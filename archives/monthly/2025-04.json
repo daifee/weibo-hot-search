@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1745152969404,
+  "endTime": 1745153902829,
   "band_list": [
     {
       "raw_hot": 31189573,
@@ -2555,6 +2555,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1346967,
+      "num": 1334127,
+      "word": "31岁男星黄正杰去世",
+      "onboard_time": 1745149883,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1344615,
       "num": 1344615,
       "word": "认养一头牛称暂不考虑撤掉广告",
@@ -2617,14 +2625,6 @@
       "onboard_time": 1745048543,
       "rank": 0,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1334127,
-      "num": 1334127,
-      "word": "31岁男星黄正杰去世",
-      "onboard_time": 1745149883,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 1333815,
@@ -4267,6 +4267,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1002411,
+      "num": 356704,
+      "word": "赵露思 范思哲",
+      "onboard_time": 1745151024,
+      "rank": 11,
+      "category": "电影,时尚"
+    },
+    {
       "raw_hot": 1001509,
       "num": 1001509,
       "word": "全红婵要签名照兴奋到搓手",
@@ -5475,14 +5483,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 848658,
-      "num": 356704,
-      "word": "赵露思 范思哲",
-      "onboard_time": 1745151024,
-      "rank": 11,
-      "category": "电影,时尚"
-    },
-    {
       "raw_hot": 846609,
       "num": 846609,
       "word": "终于有电视剧敢拍国安抓间谍了",
@@ -6289,6 +6289,14 @@
       "onboard_time": 1744679662,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 775509,
+      "num": 775509,
+      "word": "林诗栋vs雨果",
+      "onboard_time": 1745151327,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 774684,
@@ -8315,14 +8323,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 617615,
-      "num": 617615,
-      "word": "林诗栋vs雨果",
-      "onboard_time": 1745151327,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 617100,
       "num": 446352,
       "word": "刘浩存 小马宝莉",
@@ -8801,6 +8801,14 @@
       "onboard_time": 1744871902,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 592702,
+      "num": 592702,
+      "word": "饺子在美国身价涨到一美元一个",
+      "onboard_time": 1745149883,
+      "rank": 8,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 592137,
@@ -11769,14 +11777,6 @@
       "onboard_time": 1744368325,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 458394,
-      "num": 458394,
-      "word": "饺子在美国身价涨到一美元一个",
-      "onboard_time": 1745149883,
-      "rank": 8,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 458330,
@@ -15355,20 +15355,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 355305,
+      "num": 355305,
+      "word": "苹果回应iPhone电池健康80和100的区别",
+      "onboard_time": 1745149943,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
       "raw_hot": 354641,
       "num": 354641,
       "word": "陈都灵 妈妈的保镖来啦",
       "onboard_time": 1743674242,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 354640,
-      "num": 354640,
-      "word": "苹果回应iPhone电池健康80和100的区别",
-      "onboard_time": 1745149943,
-      "rank": 16,
-      "category": "数码"
     },
     {
       "raw_hot": 354373,
@@ -19723,6 +19723,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 273021,
+      "num": 273021,
+      "word": "李一桐唇钻",
+      "onboard_time": 1745153006,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 273010,
       "num": 273010,
       "word": "法院公告造谣岳云鹏私生女判决",
@@ -19851,6 +19859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 271590,
+      "num": 349674,
+      "word": "孙颖莎回应世界杯卫冕",
+      "onboard_time": 1745153426,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 271340,
       "num": 271340,
       "word": "好友为房琪发声",
@@ -19929,6 +19945,14 @@
       "onboard_time": 1743768500,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 270442,
+      "num": 355430,
+      "word": "刘国正说邱贻可现在非常舒心",
+      "onboard_time": 1745152467,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 270392,
@@ -23395,6 +23419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 227570,
+      "num": 295806,
+      "word": "深圳女生回应被拍进热播剧",
+      "onboard_time": 1745151808,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 227507,
       "num": 227507,
       "word": "八段锦每一个动作都是药",
@@ -24281,14 +24313,6 @@
       "onboard_time": 1744204467,
       "rank": 37,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 219833,
-      "num": 295806,
-      "word": "深圳女生回应被拍进热播剧",
-      "onboard_time": 1745151808,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 219649,
@@ -25609,6 +25633,14 @@
       "onboard_time": 1744347683,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209973,
+      "num": 209973,
+      "word": "五月天白敬亭合唱任性",
+      "onboard_time": 1745153605,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 209950,
@@ -27139,6 +27171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202947,
+      "num": 202947,
+      "word": "孙颖莎4比0蒯曼",
+      "onboard_time": 1745153545,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202938,
       "num": 288423,
       "word": "台岛周边联合演训现场画面",
@@ -27289,6 +27329,14 @@
       "onboard_time": 1744607364,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 202087,
+      "num": 202087,
+      "word": "孙颖莎说发挥比想象中好",
+      "onboard_time": 1745153426,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 202061,
@@ -29899,6 +29947,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 191526,
+      "num": 209453,
+      "word": "华晨宇音乐节",
+      "onboard_time": 1745153426,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 191506,
       "num": 191506,
       "word": "月亮",
@@ -30769,6 +30825,14 @@
       "onboard_time": 1744870641,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 187885,
+      "num": 187885,
+      "word": "ITTF",
+      "onboard_time": 1745153426,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 187846,
@@ -38972,7 +39036,7 @@
     },
     {
       "raw_hot": 153151,
-      "num": 153151,
+      "num": 188235,
       "word": "宋祖儿任嘉伦吻戏",
       "onboard_time": 1745150063,
       "rank": 37,
@@ -41635,6 +41699,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 143764,
+      "num": 143764,
+      "word": "COA8总决赛抽签",
+      "onboard_time": 1745152707,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 143745,
       "num": 250029,
       "word": "美企业要求法院叫停针对中国关税措施",
@@ -41801,6 +41873,14 @@
       "onboard_time": 1743599783,
       "rank": 28,
       "category": "军事"
+    },
+    {
+      "raw_hot": 143348,
+      "num": 143348,
+      "word": "孟美岐七年变的是时间不变的是热爱",
+      "onboard_time": 1745150544,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 143333,
@@ -42417,6 +42497,14 @@
       "onboard_time": 1743682581,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140562,
+      "num": 140562,
+      "word": "郑秀妍在兵马俑请粉丝喝饮料",
+      "onboard_time": 1745153665,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 140552,
@@ -44163,14 +44251,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 135156,
-      "num": 355430,
-      "word": "刘国正说邱贻可现在非常舒心",
-      "onboard_time": 1745152467,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 135135,
       "num": 202883,
       "word": "向鹏vs李尚洙",
@@ -44657,6 +44737,14 @@
       "onboard_time": 1745124504,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 133726,
+      "num": 133726,
+      "word": "韦世豪头球破门",
+      "onboard_time": 1745153665,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 133686,
@@ -45259,14 +45347,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 131797,
-      "num": 131797,
-      "word": "COA8总决赛抽签",
-      "onboard_time": 1745152707,
-      "rank": 44,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 131785,
       "num": 131785,
       "word": "孙俪最薄的人干最狠的事",
@@ -45705,6 +45785,14 @@
       "onboard_time": 1744603042,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 130403,
+      "num": 130403,
+      "word": "zb1二巡",
+      "onboard_time": 1745152947,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 130399,
@@ -46513,6 +46601,14 @@
       "onboard_time": 1743740362,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127583,
+      "num": 127583,
+      "word": "无忧渡 画中世界",
+      "onboard_time": 1745153846,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 127570,
@@ -48707,14 +48803,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 119803,
-      "num": 119803,
-      "word": "孟美岐七年变的是时间不变的是热爱",
-      "onboard_time": 1745150544,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 119763,
       "num": 119763,
       "word": "西安WE春季赛淘汰",
@@ -49081,14 +49169,6 @@
       "onboard_time": 1743867261,
       "rank": 14,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 118606,
-      "num": 118606,
-      "word": "zb1二巡",
-      "onboard_time": 1745152947,
-      "rank": 49,
-      "category": "演出"
     },
     {
       "raw_hot": 118512,
@@ -57507,6 +57587,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 70022,
+      "num": 309184,
+      "word": "榴莲为什么这么好吃",
+      "onboard_time": 1745153186,
+      "rank": 19,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 69995,
       "num": 549385,
       "word": "民调显示超半数美国人对加征关税不满",
@@ -59977,6 +60065,14 @@
       "onboard_time": 1744137555,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 53860,
+      "num": 349989,
+      "word": "请给保洁员一个休息空间",
+      "onboard_time": 1745153246,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 53756,
@@ -64043,6 +64139,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 30777,
+      "num": 1228504,
+      "word": "何以中国走进福建",
+      "onboard_time": 1745141063,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30674,
       "num": 213801,
       "word": "AI把清明三候具象化了",
@@ -64817,14 +64921,6 @@
       "onboard_time": 1744528581,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 26280,
-      "num": 1228504,
-      "word": "何以中国走进福建",
-      "onboard_time": 1745141063,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26278,
