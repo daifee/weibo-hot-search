@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1745181569661,
+  "endTime": 1745184098825,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -64627,6 +64627,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 32256,
+      "num": 32814,
+      "word": "美国多地再现反特抗议潮",
+      "onboard_time": 1745172376,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 32243,
       "num": 32243,
       "word": "A股利好连发",
@@ -64889,14 +64897,6 @@
       "onboard_time": 1744780583,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 30868,
-      "num": 32814,
-      "word": "美国多地再现反特抗议潮",
-      "onboard_time": 1745172376,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 30842,

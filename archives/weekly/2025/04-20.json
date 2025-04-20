@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745181569661,
+  "endTime": 1745184098825,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -4051,6 +4051,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 32256,
+      "num": 32814,
+      "word": "美国多地再现反特抗议潮",
+      "onboard_time": 1745172376,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 31942,
       "num": 31942,
       "word": "李昀锐带粉丝看无人机应援",
@@ -4065,14 +4073,6 @@
       "onboard_time": 1745143582,
       "rank": 19,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 30868,
-      "num": 32814,
-      "word": "美国多地再现反特抗议潮",
-      "onboard_time": 1745172376,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 30777,

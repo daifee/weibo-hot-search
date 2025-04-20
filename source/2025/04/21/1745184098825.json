@@ -1,0 +1,410 @@
+{
+  "runTime": 1745184098825,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 155078,
+        "num": 155078,
+        "word": "我愿意跟他挨着",
+        "onboard_time": 1745167402,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99504,
+        "num": 99504,
+        "word": "国乒丢冠",
+        "onboard_time": 1745156790,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 6331,
+        "num": 82722,
+        "word": "闽山闽水间的人文密码",
+        "onboard_time": 1745141421,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78900,
+        "num": 78900,
+        "word": "谢谢北京地铁5号线上勇敢的女乘客",
+        "onboard_time": 1745161948,
+        "rank": 3,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 69467,
+        "num": 69467,
+        "word": "孙颖莎冠军",
+        "onboard_time": 1745151746,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69204,
+        "num": 69204,
+        "word": "极限挑战官方号卖了",
+        "onboard_time": 1745156310,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57042,
+        "num": 57042,
+        "word": "超2300万美国人准备迎接强震",
+        "onboard_time": 1745158650,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 52802,
+        "num": 52802,
+        "word": "国乒 樊振东",
+        "onboard_time": 1745155889,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45161,
+        "num": 45161,
+        "word": "李现晒和杨紫合照",
+        "onboard_time": 1745162907,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36203,
+        "num": 36203,
+        "word": "林诗栋vs雨果",
+        "onboard_time": 1745151327,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 936608,
+        "num": 36081,
+        "word": "关晓彤没发",
+        "onboard_time": 1745165142,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160064,
+        "num": 35817,
+        "word": "中国乒乓球确实该反思了",
+        "onboard_time": 1745163028,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63641,
+        "num": 35708,
+        "word": "肖战七年蝉联世首帅",
+        "onboard_time": 1745166505,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49337,
+        "num": 35442,
+        "word": "爷爷隔代亲赠孙子100万引儿子不满",
+        "onboard_time": 1745154147,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35361,
+        "num": 35361,
+        "word": "桂林旅游累计亏损10亿",
+        "onboard_time": 1745144363,
+        "rank": 14,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 342580,
+        "num": 35345,
+        "word": "鹿晗 关晓彤",
+        "onboard_time": 1745150424,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35192,
+        "num": 35192,
+        "word": "杜淳妻子回应吐槽保姆被骂",
+        "onboard_time": 1745161350,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34630,
+        "num": 34630,
+        "word": "那英肖战来李健演唱会",
+        "onboard_time": 1745158111,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 25695,
+        "num": 32687,
+        "word": "安静公主说直播不赚钱",
+        "onboard_time": 1745160029,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 24531,
+        "num": 32427,
+        "word": "无忧渡编剧",
+        "onboard_time": 1745166087,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53633,
+        "num": 32366,
+        "word": "31岁男星黄正杰去世",
+        "onboard_time": 1745149883,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32256,
+        "num": 32256,
+        "word": "美国多地再现反特抗议潮",
+        "onboard_time": 1745172376,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 31353,
+        "num": 31353,
+        "word": "邓超发文让高瀚宇退圈",
+        "onboard_time": 1745131342,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30907,
+        "num": 30907,
+        "word": "王楚钦表情亮了",
+        "onboard_time": 1745164228,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27686,
+        "num": 27686,
+        "word": "南部战区回应菲护卫艇侵入我黄岩岛领海",
+        "onboard_time": 1745165790,
+        "rank": 24,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 24030,
+        "num": 24030,
+        "word": "雨果平均9秒解开1个魔方",
+        "onboard_time": 1745167701,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23014,
+        "num": 23014,
+        "word": "允许雨果求婚",
+        "onboard_time": 1745157329,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22171,
+        "num": 22171,
+        "word": "王楚钦铜牌",
+        "onboard_time": 1745161110,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21690,
+        "num": 21690,
+        "word": "断网了这竟然是沙溢",
+        "onboard_time": 1745140822,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19356,
+        "num": 21689,
+        "word": "脑瘫女孩给刘春和们拍大学入学指南",
+        "onboard_time": 1745164714,
+        "rank": 29,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 19184,
+        "num": 21672,
+        "word": "国乒时隔8年首丢三大赛男单冠军",
+        "onboard_time": 1745169498,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19176,
+        "num": 21669,
+        "word": "迪丽热巴33岁状态",
+        "onboard_time": 1745153906,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18568,
+        "num": 21657,
+        "word": "赵露思 范思哲",
+        "onboard_time": 1745151024,
+        "rank": 32,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 18204,
+        "num": 21642,
+        "word": "极限挑战",
+        "onboard_time": 1745158589,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17593,
+        "num": 21638,
+        "word": "中国男乒时隔8年世界杯首丢冠",
+        "onboard_time": 1745169258,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16710,
+        "num": 21624,
+        "word": "刘国梁参加澳门世界杯颁奖仪式",
+        "onboard_time": 1745162726,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16629,
+        "num": 21610,
+        "word": "巴西人成了乒乓球世界冠军",
+        "onboard_time": 1745161827,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16165,
+        "num": 21599,
+        "word": "巴西总统祝贺雨果夺冠",
+        "onboard_time": 1745159728,
+        "rank": 37,
+        "category": "国际时政,体育"
+      },
+      {
+        "raw_hot": 15947,
+        "num": 21593,
+        "word": "国乒时隔八年再丢世界杯男单冠军",
+        "onboard_time": 1745167223,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15823,
+        "num": 21579,
+        "word": "月虫",
+        "onboard_time": 1745167462,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15576,
+        "num": 21576,
+        "word": "吃撑后身体会发生哪些变化",
+        "onboard_time": 1745173696,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 15477,
+        "num": 21560,
+        "word": "五月天白敬亭合唱任性",
+        "onboard_time": 1745153605,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 15282,
+        "num": 21555,
+        "word": "异国他乡响起我爱你中国",
+        "onboard_time": 1745168240,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 15248,
+        "num": 21539,
+        "word": "范思哲晚宴",
+        "onboard_time": 1745161408,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 15073,
+        "num": 21533,
+        "word": "孙颖莎雨果合照",
+        "onboard_time": 1745164288,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14745,
+        "num": 21522,
+        "word": "昨夜又见当年弃我不归郎",
+        "onboard_time": 1745165731,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14488,
+        "num": 21510,
+        "word": "白桃星座",
+        "onboard_time": 1745162007,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 13383,
+        "num": 21498,
+        "word": "龙乐无界超级城市音乐节",
+        "onboard_time": 1745174295,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 13046,
+        "num": 21492,
+        "word": "孙颖莎蒯曼女单决赛对战",
+        "onboard_time": 1745146822,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13024,
+        "num": 21483,
+        "word": "刘涛为妈祖献寿桃",
+        "onboard_time": 1745116223,
+        "rank": 49,
+        "category": "艺人,民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中柬命运共同体有了新内涵#"
+    }
+  }
+}
