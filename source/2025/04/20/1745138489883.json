@@ -1,0 +1,410 @@
+{
+  "runTime": 1745138489883,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1960583,
+        "num": 1960583,
+        "word": "邓超发文让高瀚宇退圈",
+        "onboard_time": 1745131342,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 479905,
+        "num": 1493439,
+        "word": "上海涌入大量泰国人有景点翻红",
+        "onboard_time": 1745129302,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104791,
+        "num": 1466221,
+        "word": "关税高墙关不住民意",
+        "onboard_time": 1745123783,
+        "rank": 2,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1454568,
+        "num": 1454568,
+        "word": "迪丽热巴金色纱裙",
+        "onboard_time": 1745136682,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1422436,
+        "num": 1422436,
+        "word": "美高官爆料五角大楼已完全崩溃",
+        "onboard_time": 1745133923,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 362878,
+        "num": 1103269,
+        "word": "裴珠泫开球",
+        "onboard_time": 1745128822,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1000786,
+        "num": 1000786,
+        "word": "我不在乎五男一五女一我只在乎五一",
+        "onboard_time": 1745122523,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 565177,
+        "num": 565177,
+        "word": "刘涛回应不拍戏",
+        "onboard_time": 1745134463,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299472,
+        "num": 299472,
+        "word": "闫安说王楚钦确定参加多哈世乒赛",
+        "onboard_time": 1745132783,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246276,
+        "num": 246276,
+        "word": "印度29亿卢比修的厕所",
+        "onboard_time": 1745122583,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 738639,
+        "num": 246091,
+        "word": "等关晓彤发博",
+        "onboard_time": 1745134823,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 449386,
+        "num": 245884,
+        "word": "快递太久没拿长出花了",
+        "onboard_time": 1745134103,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 564003,
+        "num": 245479,
+        "word": "刘涛为妈祖献寿桃",
+        "onboard_time": 1745116223,
+        "rank": 12,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 370223,
+        "num": 245105,
+        "word": "迪丽热巴SKP活动",
+        "onboard_time": 1745137582,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366036,
+        "num": 244827,
+        "word": "结过婚都懂现实比电视剧魔幻多了",
+        "onboard_time": 1745134523,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 328540,
+        "num": 244536,
+        "word": "难哄",
+        "onboard_time": 1745131342,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244251,
+        "num": 244251,
+        "word": "李昀锐穿着戏服走红毯",
+        "onboard_time": 1745127023,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 224022,
+        "num": 224022,
+        "word": "补气血就要待在没有天花板的地方",
+        "onboard_time": 1745131702,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 172192,
+        "num": 193346,
+        "word": "春天多出去玩就能补气血",
+        "onboard_time": 1745137582,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 51143,
+        "num": 188434,
+        "word": "晴天和阴天哪个紫外线强",
+        "onboard_time": 1745137582,
+        "rank": 19,
+        "category": "科学科普,民生新闻"
+      },
+      {
+        "raw_hot": 615529,
+        "num": 188024,
+        "word": "鹿晗",
+        "onboard_time": 1745104760,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186222,
+        "num": 186222,
+        "word": "央视五四晚会嘉宾阵容",
+        "onboard_time": 1745137943,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182108,
+        "num": 182108,
+        "word": "王一博园丁封面拍摄花絮",
+        "onboard_time": 1745137763,
+        "rank": 22,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 170367,
+        "num": 170367,
+        "word": "无忧渡热度",
+        "onboard_time": 1745130860,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119494,
+        "num": 164918,
+        "word": "丹羽孝希因赌博被禁赛六个月",
+        "onboard_time": 1745135242,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202726,
+        "num": 164570,
+        "word": "鹿晗从这一秒开始启程",
+        "onboard_time": 1745135482,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160800,
+        "num": 160800,
+        "word": "虞书欣演示剁椒鱼头拟人化",
+        "onboard_time": 1745135363,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155525,
+        "num": 155525,
+        "word": "肥胖或取代吸烟成为第一致癌因素",
+        "onboard_time": 1745128822,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 148868,
+        "num": 148868,
+        "word": "焦恩俊谈离婚原因",
+        "onboard_time": 1745124262,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99301,
+        "num": 146414,
+        "word": "三星延长工时每周工作64小时",
+        "onboard_time": 1745126125,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 145091,
+        "num": 145091,
+        "word": "赛琳娜与未婚夫对镜拍",
+        "onboard_time": 1745134941,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141132,
+        "num": 141132,
+        "word": "看都给韩庚哭成啥样了",
+        "onboard_time": 1745134823,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139822,
+        "num": 139822,
+        "word": "女生列车上哭喊被爷爷摸",
+        "onboard_time": 1745104519,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119052,
+        "num": 119052,
+        "word": "这些癌症发展的前奏一定要留意",
+        "onboard_time": 1745134041,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 98219,
+        "num": 116324,
+        "word": "小杨梅称19年来不知道自己非亲生",
+        "onboard_time": 1745133202,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115796,
+        "num": 115796,
+        "word": "胡彦斌想邀请陶喆当演唱会嘉宾",
+        "onboard_time": 1745136023,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 112866,
+        "num": 112866,
+        "word": "英国明确拒绝与中国脱钩",
+        "onboard_time": 1745121803,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 106438,
+        "num": 106438,
+        "word": "周奇 小小的老子脾气爆",
+        "onboard_time": 1745137463,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96979,
+        "num": 96979,
+        "word": "姜惠元签名会",
+        "onboard_time": 1745138002,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72374,
+        "num": 95328,
+        "word": "老人50年为村寨起了200栋木楼",
+        "onboard_time": 1745136623,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95324,
+        "num": 95324,
+        "word": "女子术后突发癫痫死亡竟是丈夫投毒",
+        "onboard_time": 1745120543,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94497,
+        "num": 94497,
+        "word": "19年找了百万公里女儿就在失踪点附近",
+        "onboard_time": 1745119583,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89704,
+        "num": 89704,
+        "word": "戚薇看女孩子恋爱脑真的会着急",
+        "onboard_time": 1745137702,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87079,
+        "num": 87079,
+        "word": "西瓜酱刷新了我对酱的认知",
+        "onboard_time": 1745129422,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 86817,
+        "num": 86817,
+        "word": "油条三明治",
+        "onboard_time": 1745138241,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 83276,
+        "num": 83276,
+        "word": "大学生模仿机器人模仿人类跳舞",
+        "onboard_time": 1745136682,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 81046,
+        "num": 81046,
+        "word": "杨幂晒刮痧小猫",
+        "onboard_time": 1745121623,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80617,
+        "num": 80617,
+        "word": "祝绪丹cue李晟骄傲的叶凡",
+        "onboard_time": 1745132843,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69645,
+        "num": 80368,
+        "word": "运油20亮相中埃空军联训现场画面",
+        "onboard_time": 1745133683,
+        "rank": 48,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 69415,
+        "num": 79923,
+        "word": "韩国修订劳动法规",
+        "onboard_time": 1745129362,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平释家门口的相处之道#"
+    }
+  }
+}
