@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1745188848268,
+  "endTime": 1745191351986,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -3785,6 +3785,14 @@
       "onboard_time": 1743587782,
       "rank": 1,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1106787,
+      "num": 1106787,
+      "word": "我愿意跟他挨着",
+      "onboard_time": 1745167402,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1105383,
@@ -7977,14 +7985,6 @@
       "onboard_time": 1743465921,
       "rank": 16,
       "category": "国际时政,国际时政"
-    },
-    {
-      "raw_hot": 651584,
-      "num": 651584,
-      "word": "我愿意跟他挨着",
-      "onboard_time": 1745167402,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 651010,
@@ -28595,6 +28595,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 198379,
+      "num": 239260,
+      "word": "语聊房竟成色情服务叫卖场所",
+      "onboard_time": 1745190319,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 198277,
       "num": 198277,
       "word": "一诺满分苍",
@@ -47571,6 +47579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126210,
+      "num": 126210,
+      "word": "雨果平均9秒解开1个魔方",
+      "onboard_time": 1745167701,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126177,
       "num": 126177,
       "word": "国漫黄金十年",
@@ -50635,6 +50651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114946,
+      "num": 148036,
+      "word": "孙俪新剧包揽央视卫视第一",
+      "onboard_time": 1745185035,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114939,
       "num": 114939,
       "word": "王一珩坏了这真是小孩车",
@@ -53216,14 +53240,6 @@
       "word": "梁靖崑VS户上隼辅",
       "onboard_time": 1744858341,
       "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 103369,
-      "num": 103369,
-      "word": "雨果平均9秒解开1个魔方",
-      "onboard_time": 1745167701,
-      "rank": 24,
       "category": "体育"
     },
     {
@@ -56395,6 +56411,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 83526,
+      "num": 83526,
+      "word": "孙颖莎世界杯女单卫冕第4人",
+      "onboard_time": 1745190319,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83486,
       "num": 287571,
       "word": "缅甸强震168小时生死营救",
@@ -58489,14 +58513,6 @@
       "onboard_time": 1744722562,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 68712,
-      "num": 84776,
-      "word": "孙俪新剧包揽央视卫视第一",
-      "onboard_time": 1745185035,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 68588,
@@ -60659,6 +60675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54240,
+      "num": 54240,
+      "word": "医生教你5分钟体态纠正术",
+      "onboard_time": 1745188637,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 54214,
       "num": 398903,
       "word": "有车企智驾培训仅仅是走流程",
@@ -60777,6 +60801,14 @@
       "onboard_time": 1743426863,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 53593,
+      "num": 53593,
+      "word": "中国男乒时隔8年世界杯首丢冠",
+      "onboard_time": 1745169258,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 53581,
@@ -60995,14 +61027,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 52331,
-      "num": 52331,
-      "word": "中国男乒时隔8年世界杯首丢冠",
-      "onboard_time": 1745169258,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 52116,
       "num": 145145,
       "word": "韩国警方搜查总统府",
@@ -61137,6 +61161,14 @@
       "onboard_time": 1744870582,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51302,
+      "num": 51302,
+      "word": "雨果曾说樊振东是世界上最厉害的",
+      "onboard_time": 1745171117,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 51173,
@@ -61297,6 +61329,14 @@
       "onboard_time": 1744975823,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 50155,
+      "num": 50155,
+      "word": "美国多地再现反特抗议潮",
+      "onboard_time": 1745172376,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 50086,
@@ -62355,6 +62395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44315,
+      "num": 44315,
+      "word": "吃撑后身体会发生哪些变化",
+      "onboard_time": 1745173696,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 44223,
       "num": 383635,
       "word": "医生用羽毛球拍和塑料袋救人",
@@ -63409,14 +63457,6 @@
       "onboard_time": 1744131498,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 39344,
-      "num": 41561,
-      "word": "美国多地再现反特抗议潮",
-      "onboard_time": 1745172376,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 39257,
@@ -64707,14 +64747,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 31986,
-      "num": 41547,
-      "word": "雨果曾说樊振东是世界上最厉害的",
-      "onboard_time": 1745171117,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 31983,
       "num": 32808,
       "word": "第一次见一部电影有18个喜剧人",
@@ -64729,14 +64761,6 @@
       "onboard_time": 1743919641,
       "rank": 7,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 31962,
-      "num": 41543,
-      "word": "吃撑后身体会发生哪些变化",
-      "onboard_time": 1745173696,
-      "rank": 44,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 31942,
@@ -65555,6 +65579,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 27341,
+      "num": 50064,
+      "word": "学习不自律怎么办",
+      "onboard_time": 1745191279,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 27339,
       "num": 338377,
       "word": "官方通报多批次可复美未检出EGF",
@@ -65569,14 +65601,6 @@
       "onboard_time": 1744368743,
       "rank": 39,
       "category": "网红,民生新闻"
-    },
-    {
-      "raw_hot": 27280,
-      "num": 41528,
-      "word": "医生教你5分钟体态纠正术",
-      "onboard_time": 1745188637,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 27202,
@@ -66473,6 +66497,14 @@
       "onboard_time": 1743946583,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23224,
+      "num": 50068,
+      "word": "美元指数跌破99",
+      "onboard_time": 1745191220,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 23221,
@@ -68904,6 +68936,14 @@
       "word": "法国极右翼领导人勒庞被定罪",
       "onboard_time": 1743453015,
       "rank": 45,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 11354,
+      "num": 83840,
+      "word": "尹锡悦受审画面获准拍摄",
+      "onboard_time": 1745191041,
+      "rank": 29,
       "category": "国际时政"
     },
     {

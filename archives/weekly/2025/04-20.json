@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745188848268,
+  "endTime": 1745191351986,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -259,6 +259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1106787,
+      "num": 1106787,
+      "word": "我愿意跟他挨着",
+      "onboard_time": 1745167402,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1104133,
       "num": 1104133,
       "word": "裴珠泫开球",
@@ -417,14 +425,6 @@
       "onboard_time": 1745143703,
       "rank": 12,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 651584,
-      "num": 651584,
-      "word": "我愿意跟他挨着",
-      "onboard_time": 1745167402,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 651010,
@@ -1465,6 +1465,14 @@
       "onboard_time": 1745140462,
       "rank": 18,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 198379,
+      "num": 239260,
+      "word": "语聊房竟成色情服务叫卖场所",
+      "onboard_time": 1745190319,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198277,
@@ -2707,6 +2715,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 126210,
+      "num": 126210,
+      "word": "雨果平均9秒解开1个魔方",
+      "onboard_time": 1745167701,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126207,
       "num": 126207,
       "word": "全网最丢脸的风筝出现了",
@@ -2849,6 +2865,14 @@
       "onboard_time": 1745143403,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114946,
+      "num": 148036,
+      "word": "孙俪新剧包揽央视卫视第一",
+      "onboard_time": 1745185035,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 114774,
@@ -3057,14 +3081,6 @@
       "onboard_time": 1745105960,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 103369,
-      "num": 103369,
-      "word": "雨果平均9秒解开1个魔方",
-      "onboard_time": 1745167701,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 103139,
@@ -3387,6 +3403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 83526,
+      "num": 83526,
+      "word": "孙颖莎世界杯女单卫冕第4人",
+      "onboard_time": 1745190319,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 82655,
       "num": 82655,
       "word": "春天穿什么颜色最显白",
@@ -3531,14 +3555,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 68712,
-      "num": 84776,
-      "word": "孙俪新剧包揽央视卫视第一",
-      "onboard_time": 1745185035,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 68089,
       "num": 237578,
       "word": "人怎样才能变得自信",
@@ -3667,6 +3683,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 54240,
+      "num": 54240,
+      "word": "医生教你5分钟体态纠正术",
+      "onboard_time": 1745188637,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 54162,
       "num": 54162,
       "word": "张极下班开车看演出vlog",
@@ -3697,6 +3721,14 @@
       "onboard_time": 1745153246,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53593,
+      "num": 53593,
+      "word": "中国男乒时隔8年世界杯首丢冠",
+      "onboard_time": 1745169258,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 53467,
@@ -3731,14 +3763,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 52331,
-      "num": 52331,
-      "word": "中国男乒时隔8年世界杯首丢冠",
-      "onboard_time": 1745169258,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 51659,
       "num": 61069,
       "word": "网友拍到大爷在悬崖峭壁上耕作",
@@ -3763,12 +3787,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 51302,
+      "num": 51302,
+      "word": "雨果曾说樊振东是世界上最厉害的",
+      "onboard_time": 1745171117,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 51143,
       "num": 188434,
       "word": "晴天和阴天哪个紫外线强",
       "onboard_time": 1745137582,
       "rank": 39,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 50155,
+      "num": 50155,
+      "word": "美国多地再现反特抗议潮",
+      "onboard_time": 1745172376,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 49411,
@@ -3859,6 +3899,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 44315,
+      "num": 44315,
+      "word": "吃撑后身体会发生哪些变化",
+      "onboard_time": 1745173696,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 44134,
       "num": 200079,
       "word": "神舟二十号将于近日择机发射",
@@ -3945,14 +3993,6 @@
       "onboard_time": 1745168240,
       "rank": 28,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 39344,
-      "num": 41561,
-      "word": "美国多地再现反特抗议潮",
-      "onboard_time": 1745172376,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 39114,
@@ -4067,22 +4107,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 31986,
-      "num": 41547,
-      "word": "雨果曾说樊振东是世界上最厉害的",
-      "onboard_time": 1745171117,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 31962,
-      "num": 41543,
-      "word": "吃撑后身体会发生哪些变化",
-      "onboard_time": 1745173696,
-      "rank": 44,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 31942,
       "num": 31942,
       "word": "李昀锐带粉丝看无人机应援",
@@ -4139,12 +4163,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 27280,
-      "num": 41528,
-      "word": "医生教你5分钟体态纠正术",
-      "onboard_time": 1745188637,
-      "rank": 47,
-      "category": "健康医疗"
+      "raw_hot": 27341,
+      "num": 50064,
+      "word": "学习不自律怎么办",
+      "onboard_time": 1745191279,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 27127,
@@ -4209,6 +4233,14 @@
       "onboard_time": 1745089096,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 23224,
+      "num": 50068,
+      "word": "美元指数跌破99",
+      "onboard_time": 1745191220,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 22556,
@@ -4361,6 +4393,14 @@
       "onboard_time": 1745130082,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 11354,
+      "num": 83840,
+      "word": "尹锡悦受审画面获准拍摄",
+      "onboard_time": 1745191041,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 7814,
