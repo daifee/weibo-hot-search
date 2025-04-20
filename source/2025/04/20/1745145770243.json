@@ -1,0 +1,410 @@
+{
+  "runTime": 1745145770243,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1312218,
+        "num": 1312218,
+        "word": "邓超发文让高瀚宇退圈",
+        "onboard_time": 1745131342,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1007849,
+        "num": 1007849,
+        "word": "高中生打破黄雨婷保持的世界纪录",
+        "onboard_time": 1745141782,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64242,
+        "num": 723160,
+        "word": "义乌女老板对CNN霸气喊话美国客户",
+        "onboard_time": 1745113164,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 674753,
+        "num": 674753,
+        "word": "体育生被错切右膝医疗纠纷案将开庭",
+        "onboard_time": 1745140641,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 412597,
+        "num": 412597,
+        "word": "美高官爆料五角大楼已完全崩溃",
+        "onboard_time": 1745133923,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 857348,
+        "num": 397156,
+        "word": "我不在乎五男一五女一我只在乎五一",
+        "onboard_time": 1745122523,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 353893,
+        "num": 353893,
+        "word": "宋祖儿出发剧宣路透",
+        "onboard_time": 1745142623,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 338100,
+        "num": 338100,
+        "word": "丁程鑫严浩翔电影节同框",
+        "onboard_time": 1745144243,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 296200,
+        "num": 296200,
+        "word": "刘涛为妈祖献寿桃",
+        "onboard_time": 1745116223,
+        "rank": 8,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 253895,
+        "num": 253895,
+        "word": "美国政府将6000多移民标为已死亡",
+        "onboard_time": 1745138962,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1217894,
+        "num": 253735,
+        "word": "断网了这竟然是沙溢",
+        "onboard_time": 1745140822,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1163445,
+        "num": 252007,
+        "word": "等关晓彤发博",
+        "onboard_time": 1745134823,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 734823,
+        "num": 250685,
+        "word": "迪丽热巴金色纱裙",
+        "onboard_time": 1745136682,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70367,
+        "num": 249199,
+        "word": "体育生被错切右膝案将开庭母亲发声",
+        "onboard_time": 1745143403,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 639074,
+        "num": 248065,
+        "word": "美媒承认中国手里有张王牌",
+        "onboard_time": 1745143703,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 345674,
+        "num": 246739,
+        "word": "桂林旅游累计亏损10亿",
+        "onboard_time": 1745144363,
+        "rank": 15,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 314235,
+        "num": 246296,
+        "word": "范志毅祝鹿晗生日快乐",
+        "onboard_time": 1745141604,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18538,
+        "num": 244919,
+        "word": "棉花糖爸爸寻女走遍全国开坏2辆车",
+        "onboard_time": 1745145441,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61877,
+        "num": 243808,
+        "word": "李艺彤狗狗静悄悄必定在作妖",
+        "onboard_time": 1745143463,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37595,
+        "num": 242507,
+        "word": "湖人能胜森林狼吗",
+        "onboard_time": 1745144782,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66562,
+        "num": 240533,
+        "word": "华为乾崑周二见",
+        "onboard_time": 1745141782,
+        "rank": 20,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 418793,
+        "num": 239477,
+        "word": "鹿晗",
+        "onboard_time": 1745104760,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348774,
+        "num": 238157,
+        "word": "迪丽热巴发型师 方可",
+        "onboard_time": 1745142682,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280447,
+        "num": 237495,
+        "word": "李昀锐金宣虎wink笑",
+        "onboard_time": 1745141542,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236883,
+        "num": 236883,
+        "word": "爱奇艺电视剧 张康乐",
+        "onboard_time": 1745143642,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234917,
+        "num": 234917,
+        "word": "浪姐6kpop味最纯正的舞台出现了",
+        "onboard_time": 1745138902,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233217,
+        "num": 233217,
+        "word": "165斤女生的一天都吃了什么",
+        "onboard_time": 1745145384,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 221939,
+        "num": 221939,
+        "word": "难哄",
+        "onboard_time": 1745131342,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216733,
+        "num": 216733,
+        "word": "苍兰诀作者谈真正的大女主文",
+        "onboard_time": 1745145384,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67087,
+        "num": 215889,
+        "word": "78岁奶奶资助孙女开网店当客服打包",
+        "onboard_time": 1745144182,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215851,
+        "num": 215851,
+        "word": "WB对战狼队",
+        "onboard_time": 1745145322,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 203244,
+        "num": 203244,
+        "word": "折腰电视端专属界面",
+        "onboard_time": 1745145384,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198909,
+        "num": 198909,
+        "word": "吴镇宇把边水往事的水泼到了超越班",
+        "onboard_time": 1745144662,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196325,
+        "num": 196325,
+        "word": "王皓解读世乒赛选拔规则",
+        "onboard_time": 1745139503,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14241,
+        "num": 194058,
+        "word": "上海半马跑成热血漫",
+        "onboard_time": 1745145502,
+        "rank": 34,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 194058,
+        "num": 194057,
+        "word": "刘涛回应不拍戏",
+        "onboard_time": 1745134463,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67025,
+        "num": 183758,
+        "word": "这些癌症发展的前奏一定要留意",
+        "onboard_time": 1745134041,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 181005,
+        "num": 181005,
+        "word": "TOP登陆少年演唱会抢票",
+        "onboard_time": 1745145322,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 167116,
+        "num": 167116,
+        "word": "赵一博肥肥飞飞",
+        "onboard_time": 1745145384,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24717,
+        "num": 161132,
+        "word": "经济学家讽刺特朗普不懂经济",
+        "onboard_time": 1745144602,
+        "rank": 39,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 157499,
+        "num": 157499,
+        "word": "五月天 谢谢难哄温霜降",
+        "onboard_time": 1745140462,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 137949,
+        "num": 137949,
+        "word": "张峻豪范思哲大片",
+        "onboard_time": 1745143642,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136571,
+        "num": 136571,
+        "word": "张信哲关注张杰在鸟巢要开十几场",
+        "onboard_time": 1745141782,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133599,
+        "num": 133599,
+        "word": "无忧渡",
+        "onboard_time": 1745143703,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132773,
+        "num": 132773,
+        "word": "快递太久没拿长出花了",
+        "onboard_time": 1745134103,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132443,
+        "num": 132443,
+        "word": "关税抬升让圣诞老人由美国脸换成欧洲脸",
+        "onboard_time": 1745141182,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 131166,
+        "num": 131166,
+        "word": "实际上的单身生活",
+        "onboard_time": 1745142862,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128878,
+        "num": 128878,
+        "word": "赵丽颖长发红裙",
+        "onboard_time": 1745141241,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 124802,
+        "num": 124802,
+        "word": "小猫也有汗脚",
+        "onboard_time": 1745142202,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122815,
+        "num": 122815,
+        "word": "祝绪丹团宠变团欺",
+        "onboard_time": 1745144962,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中柬命运共同体有了新内涵#"
+    }
+  }
+}
