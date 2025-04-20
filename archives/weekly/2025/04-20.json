@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745159986215,
+  "endTime": 1745162586293,
   "band_list": [
     {
       "raw_hot": 31189573,
@@ -11,8 +11,8 @@
       "category": "艺人,剧集"
     },
     {
-      "raw_hot": 14184279,
-      "num": 14184279,
+      "raw_hot": 14927704,
+      "num": 14927704,
       "word": "鹿晗 关晓彤",
       "onboard_time": 1745150424,
       "rank": 10,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 1301010,
-      "num": 386826,
+      "num": 415918,
       "word": "等关晓彤发博",
       "onboard_time": 1745134823,
       "rank": 12,
@@ -289,6 +289,14 @@
       "onboard_time": 1745151024,
       "rank": 11,
       "category": "电影,时尚"
+    },
+    {
+      "raw_hot": 906507,
+      "num": 906507,
+      "word": "王楚钦铜牌",
+      "onboard_time": 1745161110,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 817201,
@@ -393,6 +401,14 @@
       "onboard_time": 1745153605,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 650741,
+      "num": 650741,
+      "word": "巴西总统祝贺雨果夺冠",
+      "onboard_time": 1745159728,
+      "rank": 24,
+      "category": "国际时政,体育"
     },
     {
       "raw_hot": 646043,
@@ -611,6 +627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 442571,
+      "num": 442571,
+      "word": "超2300万美国人准备迎接强震",
+      "onboard_time": 1745158650,
+      "rank": 23,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 438280,
       "num": 438280,
       "word": "西瓜酱刷新了我对酱的认知",
@@ -657,14 +681,6 @@
       "onboard_time": 1745115265,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 400908,
-      "num": 410827,
-      "word": "超2300万美国人准备迎接强震",
-      "onboard_time": 1745158650,
-      "rank": 23,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 393306,
@@ -787,6 +803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 348538,
+      "num": 348538,
+      "word": "安静公主说直播不赚钱",
+      "onboard_time": 1745160029,
+      "rank": 24,
+      "category": "网红"
+    },
+    {
       "raw_hot": 348121,
       "num": 269023,
       "word": "165斤女生的一天都吃了什么",
@@ -881,6 +905,14 @@
       "onboard_time": 1745120543,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 310834,
+      "num": 310834,
+      "word": "巴西国歌",
+      "onboard_time": 1745160029,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 310471,
@@ -1003,12 +1035,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 268054,
+      "num": 268054,
+      "word": "杜淳妻子回应吐槽保姆被骂",
+      "onboard_time": 1745161350,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 267967,
+      "num": 468147,
+      "word": "女子海底捞触电受伤门店称衣服静电",
+      "onboard_time": 1745158589,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 255967,
+      "num": 255967,
+      "word": "极限挑战",
+      "onboard_time": 1745158589,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 255058,
       "num": 255058,
       "word": "任嘉伦宋祖儿都在努力剧宣",
       "onboard_time": 1745073265,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 248293,
+      "num": 412544,
+      "word": "张萌说李昀锐值得被喜欢",
+      "onboard_time": 1745161350,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 245994,
@@ -1041,6 +1105,14 @@
       "onboard_time": 1745141241,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 239257,
+      "num": 452617,
+      "word": "范思哲晚宴",
+      "onboard_time": 1745161408,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 235956,
@@ -1107,6 +1179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 215263,
+      "num": 215263,
+      "word": "外网热议林诗栋违规罚分",
+      "onboard_time": 1745161286,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 214072,
       "num": 207093,
       "word": "刘涛不像来参加节目的像来渡劫的",
@@ -1129,6 +1209,14 @@
       "onboard_time": 1745107582,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 212570,
+      "num": 212570,
+      "word": "孙颖莎说走下领奖台从零开始",
+      "onboard_time": 1745162548,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 212018,
@@ -1323,12 +1411,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196993,
+      "num": 196993,
+      "word": "丁禹兮魏哲鸣同框了",
+      "onboard_time": 1745162007,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196669,
       "num": 236282,
       "word": "森林狼1比0湖人",
       "onboard_time": 1745119641,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196302,
+      "num": 196302,
+      "word": "谢谢北京地铁5号线上勇敢的女乘客",
+      "onboard_time": 1745161948,
+      "rank": 37,
+      "category": "正能量"
     },
     {
       "raw_hot": 195896,
@@ -1435,14 +1539,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 190477,
-      "num": 190477,
-      "word": "极限挑战",
-      "onboard_time": 1745158589,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 190220,
       "num": 210872,
       "word": "男子带10名女子吃千元烧烤逃单",
@@ -1457,6 +1553,14 @@
       "onboard_time": 1745155046,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 187024,
+      "num": 187024,
+      "word": "巴西人成了乒乓球世界冠军",
+      "onboard_time": 1745161827,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 186738,
@@ -1547,14 +1651,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 179467,
-      "num": 468147,
-      "word": "女子海底捞触电受伤门店称衣服静电",
-      "onboard_time": 1745158589,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 179275,
       "num": 179275,
       "word": "孙恩盛 音乐节",
@@ -1643,14 +1739,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 174213,
-      "num": 334685,
-      "word": "巴西总统祝贺雨果夺冠",
-      "onboard_time": 1745159728,
-      "rank": 24,
-      "category": "国际时政,体育"
-    },
-    {
       "raw_hot": 174135,
       "num": 193346,
       "word": "春天多出去玩就能补气血",
@@ -1673,6 +1761,14 @@
       "onboard_time": 1745105299,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 172959,
+      "num": 172959,
+      "word": "JDG主教练金大湖卸任",
+      "onboard_time": 1745160087,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 172624,
@@ -1923,6 +2019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156755,
+      "num": 156755,
+      "word": "国乒世界杯男单四连冠遭终结",
+      "onboard_time": 1745161286,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156252,
       "num": 156252,
       "word": "春江水暖蚊先知",
@@ -2067,6 +2171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 148542,
+      "num": 148542,
+      "word": "张杰鸟巢百米舞台变跑道",
+      "onboard_time": 1745162308,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 148103,
       "num": 186171,
       "word": "郭晶晶受聘为北京景山学校体育校长",
@@ -2145,6 +2257,14 @@
       "onboard_time": 1745150663,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139213,
+      "num": 139213,
+      "word": "陶喆在演唱会上怀念父亲",
+      "onboard_time": 1745160986,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 139002,
@@ -2457,6 +2577,14 @@
       "onboard_time": 1745070445,
       "rank": 30,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 126557,
+      "num": 126557,
+      "word": "白桃星座",
+      "onboard_time": 1745162007,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 126207,
@@ -3299,6 +3427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 60674,
+      "num": 399494,
+      "word": "五分钟体态纠正术真有效果吗",
+      "onboard_time": 1745161588,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 59724,
       "num": 398125,
       "word": "小尼魔术挑战大变汽车",
@@ -3763,6 +3899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 21128,
+      "num": 1895597,
+      "word": "闽山闽水间的人文密码",
+      "onboard_time": 1745141421,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20568,
       "num": 22533,
       "word": "袁一琦演唱会广州站",
@@ -3865,14 +4009,6 @@
       "onboard_time": 1745148802,
       "rank": 39,
       "category": "国际时政,民生新闻"
-    },
-    {
-      "raw_hot": 6753,
-      "num": 1895597,
-      "word": "闽山闽水间的人文密码",
-      "onboard_time": 1745141421,
-      "rank": 2,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

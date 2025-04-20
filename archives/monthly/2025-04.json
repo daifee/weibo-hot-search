@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1745159986215,
+  "endTime": 1745162586293,
   "band_list": [
     {
       "raw_hot": 31189573,
@@ -43,20 +43,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 14927704,
+      "num": 14927704,
+      "word": "鹿晗 关晓彤",
+      "onboard_time": 1745150424,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 14691299,
       "num": 14691299,
       "word": "SU7爆燃遇难者父亲称小米仍没来联系",
       "onboard_time": 1743504622,
       "rank": 0,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 14184279,
-      "num": 14184279,
-      "word": "鹿晗 关晓彤",
-      "onboard_time": 1745150424,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 12853710,
@@ -2788,7 +2788,7 @@
     },
     {
       "raw_hot": 1301010,
-      "num": 386826,
+      "num": 415918,
       "word": "等关晓彤发博",
       "onboard_time": 1745134823,
       "rank": 12,
@@ -5097,6 +5097,14 @@
       "onboard_time": 1745044642,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 906507,
+      "num": 906507,
+      "word": "王楚钦铜牌",
+      "onboard_time": 1745161110,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 905388,
@@ -7961,6 +7969,14 @@
       "onboard_time": 1744958482,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 650741,
+      "num": 650741,
+      "word": "巴西总统祝贺雨果夺冠",
+      "onboard_time": 1745159728,
+      "rank": 24,
+      "category": "国际时政,体育"
     },
     {
       "raw_hot": 649541,
@@ -12363,6 +12379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 442571,
+      "num": 442571,
+      "word": "超2300万美国人准备迎接强震",
+      "onboard_time": 1745158650,
+      "rank": 23,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 442383,
       "num": 281629,
       "word": "洪尚秀金敏喜得子",
@@ -13681,14 +13705,6 @@
       "onboard_time": 1745115265,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 400908,
-      "num": 410827,
-      "word": "超2300万美国人准备迎接强震",
-      "onboard_time": 1745158650,
-      "rank": 23,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 400881,
@@ -15827,6 +15843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 348538,
+      "num": 348538,
+      "word": "安静公主说直播不赚钱",
+      "onboard_time": 1745160029,
+      "rank": 24,
+      "category": "网红"
+    },
+    {
       "raw_hot": 348448,
       "num": 348448,
       "word": "12306求候补",
@@ -17633,6 +17657,14 @@
       "onboard_time": 1744113982,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 310834,
+      "num": 310834,
+      "word": "巴西国歌",
+      "onboard_time": 1745160029,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 310795,
@@ -20267,11 +20299,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 268054,
+      "num": 268054,
+      "word": "杜淳妻子回应吐槽保姆被骂",
+      "onboard_time": 1745161350,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 267990,
       "num": 267990,
       "word": "孤寡老人离世侄子起诉继承全部遗产",
       "onboard_time": 1744261705,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 267967,
+      "num": 468147,
+      "word": "女子海底捞触电受伤门店称衣服静电",
+      "onboard_time": 1745158589,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -21163,6 +21211,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 255967,
+      "num": 255967,
+      "word": "极限挑战",
+      "onboard_time": 1745158589,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 255853,
       "num": 1506534,
       "word": "中国不惹事也绝不怕事",
@@ -21681,6 +21737,14 @@
       "onboard_time": 1744995618,
       "rank": 5,
       "category": "演出"
+    },
+    {
+      "raw_hot": 248293,
+      "num": 412544,
+      "word": "张萌说李昀锐值得被喜欢",
+      "onboard_time": 1745161350,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 248286,
@@ -22433,6 +22497,14 @@
       "onboard_time": 1744198046,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 239257,
+      "num": 452617,
+      "word": "范思哲晚宴",
+      "onboard_time": 1745161408,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 239209,
@@ -24971,6 +25043,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 215263,
+      "num": 215263,
+      "word": "外网热议林诗栋违规罚分",
+      "onboard_time": 1745161286,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 215242,
       "num": 234855,
       "word": "甲亢哥吓出最新表情包",
@@ -25345,6 +25425,14 @@
       "onboard_time": 1744468047,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 212570,
+      "num": 212570,
+      "word": "孙颖莎说走下领奖台从零开始",
+      "onboard_time": 1745162548,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 212561,
@@ -28763,6 +28851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196993,
+      "num": 196993,
+      "word": "丁禹兮魏哲鸣同框了",
+      "onboard_time": 1745162007,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196979,
       "num": 196979,
       "word": "章昊过安检牛奶被没收破防了",
@@ -28897,6 +28993,14 @@
       "onboard_time": 1744010363,
       "rank": 37,
       "category": "财经"
+    },
+    {
+      "raw_hot": 196302,
+      "num": 196302,
+      "word": "谢谢北京地铁5号线上勇敢的女乘客",
+      "onboard_time": 1745161948,
+      "rank": 37,
+      "category": "正能量"
     },
     {
       "raw_hot": 196276,
@@ -30443,14 +30547,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 190477,
-      "num": 190477,
-      "word": "极限挑战",
-      "onboard_time": 1745158589,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 190476,
       "num": 284140,
       "word": "JackeyLove呼吁加快比赛进度",
@@ -31273,6 +31369,14 @@
       "onboard_time": 1744666993,
       "rank": 13,
       "category": "国际时政,国际时政"
+    },
+    {
+      "raw_hot": 187024,
+      "num": 187024,
+      "word": "巴西人成了乒乓球世界冠军",
+      "onboard_time": 1745161827,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 186929,
@@ -33027,14 +33131,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 179467,
-      "num": 468147,
-      "word": "女子海底捞触电受伤门店称衣服静电",
-      "onboard_time": 1745158589,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 179437,
       "num": 179437,
       "word": "章若楠从未否认自己是赛文",
@@ -34267,14 +34363,6 @@
       "category": "民生新闻,体育"
     },
     {
-      "raw_hot": 174213,
-      "num": 334685,
-      "word": "巴西总统祝贺雨果夺冠",
-      "onboard_time": 1745159728,
-      "rank": 24,
-      "category": "国际时政,体育"
-    },
-    {
       "raw_hot": 174182,
       "num": 429690,
       "word": "当中方说要奉陪到底时是认真的",
@@ -34505,6 +34593,14 @@
       "onboard_time": 1743778341,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172959,
+      "num": 172959,
+      "word": "JDG主教练金大湖卸任",
+      "onboard_time": 1745160087,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 172942,
@@ -38419,6 +38515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156755,
+      "num": 156755,
+      "word": "国乒世界杯男单四连冠遭终结",
+      "onboard_time": 1745161286,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156753,
       "num": 156753,
       "word": "曾舜晞我那刚回国的青梅竹马",
@@ -40625,6 +40729,14 @@
       "onboard_time": 1743512363,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148542,
+      "num": 148542,
+      "word": "张杰鸟巢百米舞台变跑道",
+      "onboard_time": 1745162308,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 148510,
@@ -43289,6 +43401,14 @@
       "onboard_time": 1744022363,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 139213,
+      "num": 139213,
+      "word": "陶喆在演唱会上怀念父亲",
+      "onboard_time": 1745160986,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 139193,
@@ -59483,6 +59603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 60674,
+      "num": 399494,
+      "word": "五分钟体态纠正术真有效果吗",
+      "onboard_time": 1745161588,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 60616,
       "num": 219578,
       "word": "王艺迪说很开心能和朱雨玲交手",
@@ -66491,6 +66619,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 21128,
+      "num": 1895597,
+      "word": "闽山闽水间的人文密码",
+      "onboard_time": 1745141421,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21077,
       "num": 135270,
       "word": "生活常用物品的维修技巧",
@@ -69081,14 +69217,6 @@
       "onboard_time": 1744170504,
       "rank": 44,
       "category": "财经"
-    },
-    {
-      "raw_hot": 6753,
-      "num": 1895597,
-      "word": "闽山闽水间的人文密码",
-      "onboard_time": 1745141421,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 6709,
