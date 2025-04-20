@@ -1,0 +1,410 @@
+{
+  "runTime": 1745124144756,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1042447,
+        "num": 1166791,
+        "word": "刘涛为妈祖献寿桃",
+        "onboard_time": 1745116223,
+        "rank": 0,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 435163,
+        "num": 435163,
+        "word": "日本大米暴涨有人去韩国带回40斤",
+        "onboard_time": 1745117363,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 15378,
+        "num": 417309,
+        "word": "关税高墙关不住民意",
+        "onboard_time": 1745123783,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 489338,
+        "num": 413498,
+        "word": "确定是任嘉伦吗",
+        "onboard_time": 1745118682,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 408714,
+        "num": 408714,
+        "word": "英国明确拒绝与中国脱钩",
+        "onboard_time": 1745121803,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 330127,
+        "num": 330127,
+        "word": "义乌女老板对CNN霸气喊话美国客户",
+        "onboard_time": 1745113164,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 310471,
+        "num": 310471,
+        "word": "都让让悬疑剧纯元来了",
+        "onboard_time": 1745121982,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 303216,
+        "num": 303216,
+        "word": "古茗求补货",
+        "onboard_time": 1745117843,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 254395,
+        "num": 254395,
+        "word": "冰湖重生",
+        "onboard_time": 1745120663,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202724,
+        "num": 253436,
+        "word": "伸腿阻止高铁关门女子被行拘",
+        "onboard_time": 1745115265,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3110078,
+        "num": 253236,
+        "word": "关晓彤",
+        "onboard_time": 1745079693,
+        "rank": 10,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 2180347,
+        "num": 253190,
+        "word": "鹿晗关晓彤官宣微博都没删",
+        "onboard_time": 1745113524,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253003,
+        "num": 253003,
+        "word": "泽连斯基回应普京宣布停火30小时",
+        "onboard_time": 1745121322,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 656490,
+        "num": 252512,
+        "word": "印度29亿卢比修的厕所",
+        "onboard_time": 1745122583,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 539938,
+        "num": 251065,
+        "word": "19年找了百万公里女儿就在失踪点附近",
+        "onboard_time": 1745119583,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 475843,
+        "num": 249629,
+        "word": "我不在乎五男一五女一我只在乎五一",
+        "onboard_time": 1745122523,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 431595,
+        "num": 247840,
+        "word": "杨幂晒刮痧小猫",
+        "onboard_time": 1745121623,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298025,
+        "num": 247657,
+        "word": "关晓彤主页访问量",
+        "onboard_time": 1745104878,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188972,
+        "num": 245797,
+        "word": "盛李豪世界杯逆转夺冠",
+        "onboard_time": 1745114545,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49147,
+        "num": 244966,
+        "word": "为什么总是长口腔溃疡",
+        "onboard_time": 1745123065,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1544253,
+        "num": 243712,
+        "word": "鹿晗",
+        "onboard_time": 1745104760,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 382138,
+        "num": 242147,
+        "word": "女生列车上哭喊被爷爷摸",
+        "onboard_time": 1745104519,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241139,
+        "num": 241139,
+        "word": "刘芸穿着礼服吃肥肠面",
+        "onboard_time": 1745122344,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 192371,
+        "num": 240609,
+        "word": "丁禹兮模仿金宣虎wink笑",
+        "onboard_time": 1745112744,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77733,
+        "num": 239604,
+        "word": "第五人格赛事",
+        "onboard_time": 1745122043,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 187331,
+        "num": 238914,
+        "word": "张百乔妹妹皓瑞参加音综",
+        "onboard_time": 1745120785,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 175207,
+        "num": 238083,
+        "word": "夏梦好美",
+        "onboard_time": 1745121982,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102581,
+        "num": 236871,
+        "word": "刘国梁王曼昱参加活动一起打球",
+        "onboard_time": 1745120482,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82709,
+        "num": 236282,
+        "word": "森林狼1比0湖人",
+        "onboard_time": 1745119641,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228645,
+        "num": 235671,
+        "word": "牧神记年番开播",
+        "onboard_time": 1745123602,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 57517,
+        "num": 234115,
+        "word": "戚薇希望所有女生要有强大内核",
+        "onboard_time": 1745123484,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234036,
+        "num": 234036,
+        "word": "乌克兰需要俄罗斯无条件全面停火",
+        "onboard_time": 1745114244,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 226572,
+        "num": 226572,
+        "word": "女子术后突发癫痫死亡竟是丈夫投毒",
+        "onboard_time": 1745120543,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202011,
+        "num": 202011,
+        "word": "每次月经前都很容易生气",
+        "onboard_time": 1745122164,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 192856,
+        "num": 192856,
+        "word": "真的要小心chatgpt了",
+        "onboard_time": 1745123904,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 185412,
+        "num": 185412,
+        "word": "恋与深空",
+        "onboard_time": 1745119344,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 171065,
+        "num": 171065,
+        "word": "陈赫",
+        "onboard_time": 1745081252,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170375,
+        "num": 170375,
+        "word": "离婚后被孩子坚定选择有多感动",
+        "onboard_time": 1745123723,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115131,
+        "num": 160532,
+        "word": "范德彪 0犯规",
+        "onboard_time": 1745123065,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138608,
+        "num": 158550,
+        "word": "马斯克引荐的官员72小时被撤换",
+        "onboard_time": 1745122164,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 158075,
+        "num": 158075,
+        "word": "光与夜之恋",
+        "onboard_time": 1745123843,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 32933,
+        "num": 150221,
+        "word": "4月20日3时56分谷雨",
+        "onboard_time": 1745079932,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149873,
+        "num": 149873,
+        "word": "光猎",
+        "onboard_time": 1745120423,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 140423,
+        "num": 140423,
+        "word": "丁程鑫15秒49第一",
+        "onboard_time": 1745121322,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139427,
+        "num": 139427,
+        "word": "美国大豆可能将永远失去中国市场",
+        "onboard_time": 1745074524,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 137273,
+        "num": 137273,
+        "word": "赵露思CT预热",
+        "onboard_time": 1745121923,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 130185,
+        "num": 130185,
+        "word": "徐明浩官宣LV品牌大使",
+        "onboard_time": 1745121023,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 111502,
+        "num": 130178,
+        "word": "王子菲射击世界杯夺冠",
+        "onboard_time": 1745123484,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130175,
+        "num": 130175,
+        "word": "装修拆出10万现金以为男主藏私房钱",
+        "onboard_time": 1745116104,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119287,
+        "num": 119287,
+        "word": "单依纯好会扭",
+        "onboard_time": 1745118922,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#一句古话说透中马关系#"
+    }
+  }
+}

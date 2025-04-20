@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745123287749,
+  "endTime": 1745124144756,
   "band_list": [
     {
       "raw_hot": 31189573,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 2045928,
-      "num": 231329,
+      "num": 243712,
       "word": "鹿晗",
       "onboard_time": 1745104760,
       "rank": 11,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 817201,
-      "num": 228980,
+      "num": 247657,
       "word": "关晓彤主页访问量",
       "onboard_time": 1745104878,
       "rank": 13,
@@ -139,6 +139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 656490,
+      "num": 262545,
+      "word": "印度29亿卢比修的厕所",
+      "onboard_time": 1745122583,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 646043,
       "num": 1103366,
       "word": "美国大豆可能将永远失去中国市场",
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 591054,
-      "num": 230396,
+      "num": 242147,
       "word": "女生列车上哭喊被爷爷摸",
       "onboard_time": 1745104519,
       "rank": 20,
@@ -211,12 +219,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 475843,
+      "num": 249629,
+      "word": "我不在乎五男一五女一我只在乎五一",
+      "onboard_time": 1745122523,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 468598,
       "num": 468598,
       "word": "日本大米暴涨有人去韩国带回40斤",
       "onboard_time": 1745117363,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 431595,
+      "num": 257353,
+      "word": "杨幂晒刮痧小猫",
+      "onboard_time": 1745121623,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 424412,
@@ -283,14 +307,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 357113,
-      "num": 257353,
-      "word": "杨幂晒刮痧小猫",
-      "onboard_time": 1745121623,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 351159,
       "num": 351159,
       "word": "王楚钦说为什么全是擦网",
@@ -332,11 +348,19 @@
     },
     {
       "raw_hot": 311035,
-      "num": 219777,
+      "num": 226572,
       "word": "女子术后突发癫痫死亡竟是丈夫投毒",
       "onboard_time": 1745120543,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 310471,
+      "num": 310471,
+      "word": "都让让悬疑剧纯元来了",
+      "onboard_time": 1745121982,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 298809,
@@ -371,14 +395,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 295249,
-      "num": 226298,
-      "word": "我不在乎五男一五女一我只在乎五一",
-      "onboard_time": 1745122523,
-      "rank": 26,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 285609,
       "num": 260794,
       "word": "树莓衮衮衮",
@@ -392,22 +408,6 @@
       "word": "冰湖重生",
       "onboard_time": 1745120663,
       "rank": 25,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 262545,
-      "num": 262545,
-      "word": "印度29亿卢比修的厕所",
-      "onboard_time": 1745122583,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 255598,
-      "num": 255598,
-      "word": "都让让悬疑剧纯元来了",
-      "onboard_time": 1745121982,
-      "rank": 15,
       "category": "剧集"
     },
     {
@@ -436,7 +436,7 @@
     },
     {
       "raw_hot": 242908,
-      "num": 222249,
+      "num": 241139,
       "word": "刘芸穿着礼服吃肥肠面",
       "onboard_time": 1745122344,
       "rank": 30,
@@ -449,6 +449,14 @@
       "onboard_time": 1745104399,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 228645,
+      "num": 235671,
+      "word": "牧神记年番开播",
+      "onboard_time": 1745123602,
+      "rank": 29,
+      "category": "动漫"
     },
     {
       "raw_hot": 218229,
@@ -484,7 +492,7 @@
     },
     {
       "raw_hot": 210381,
-      "num": 228204,
+      "num": 238914,
       "word": "张百乔妹妹皓瑞参加音综",
       "onboard_time": 1745120785,
       "rank": 40,
@@ -515,8 +523,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202011,
+      "num": 224106,
+      "word": "每次月经前都很容易生气",
+      "onboard_time": 1745122164,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 196669,
-      "num": 227164,
+      "num": 236282,
       "word": "森林狼1比0湖人",
       "onboard_time": 1745119641,
       "rank": 17,
@@ -539,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192856,
+      "num": 192856,
+      "word": "真的要小心chatgpt了",
+      "onboard_time": 1745123904,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 192755,
       "num": 331977,
       "word": "AG600飞机有型号合格证了",
@@ -555,6 +579,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 192371,
+      "num": 240609,
+      "word": "丁禹兮模仿金宣虎wink笑",
+      "onboard_time": 1745112744,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190220,
       "num": 210872,
       "word": "男子带10名女子吃千元烧烤逃单",
@@ -569,14 +601,6 @@
       "onboard_time": 1745067863,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 181317,
-      "num": 234285,
-      "word": "丁禹兮模仿金宣虎wink笑",
-      "onboard_time": 1745112744,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 181164,
@@ -603,6 +627,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 175207,
+      "num": 238083,
+      "word": "夏梦好美",
+      "onboard_time": 1745121982,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175043,
       "num": 172315,
       "word": "单依纯好会扭",
@@ -625,6 +657,14 @@
       "onboard_time": 1745072904,
       "rank": 17,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 170375,
+      "num": 170375,
+      "word": "离婚后被孩子坚定选择有多感动",
+      "onboard_time": 1745123723,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 169828,
@@ -697,6 +737,14 @@
       "onboard_time": 1745079932,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158075,
+      "num": 158075,
+      "word": "光与夜之恋",
+      "onboard_time": 1745123843,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 157989,
@@ -779,20 +827,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 138608,
+      "num": 233861,
+      "word": "马斯克引荐的官员72小时被撤换",
+      "onboard_time": 1745122164,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 138242,
       "num": 209256,
       "word": "柯淳的眼神",
       "onboard_time": 1745110882,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 137821,
-      "num": 224106,
-      "word": "每次月经前都很容易生气",
-      "onboard_time": 1745122164,
-      "rank": 28,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 136893,
@@ -883,20 +931,20 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 130185,
+      "num": 130185,
+      "word": "徐明浩官宣LV品牌大使",
+      "onboard_time": 1745121023,
+      "rank": 49,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 129458,
       "num": 210385,
       "word": "孙颖莎让解说员无话可说",
       "onboard_time": 1745071344,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 129058,
-      "num": 129058,
-      "word": "徐明浩官宣LV品牌大使",
-      "onboard_time": 1745121023,
-      "rank": 49,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 127946,
@@ -955,19 +1003,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 122603,
-      "num": 122603,
-      "word": "夏梦好美",
-      "onboard_time": 1745121982,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 116345,
       "num": 142305,
       "word": "孙颖莎跟裁判示意Notouch",
       "onboard_time": 1745076384,
       "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 115131,
+      "num": 160532,
+      "word": "范德彪 0犯规",
+      "onboard_time": 1745123065,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -987,6 +1035,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 111502,
+      "num": 130178,
+      "word": "王子菲射击世界杯夺冠",
+      "onboard_time": 1745123484,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107200,
       "num": 107200,
       "word": "校方回应醉酒男子深夜强闯女寝",
@@ -1004,7 +1060,7 @@
     },
     {
       "raw_hot": 106579,
-      "num": 183978,
+      "num": 236871,
       "word": "刘国梁王曼昱参加活动一起打球",
       "onboard_time": 1745120482,
       "rank": 29,
@@ -1089,14 +1145,6 @@
       "onboard_time": 1745076445,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 100089,
-      "num": 104518,
-      "word": "范德彪 0犯规",
-      "onboard_time": 1745123065,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 97320,
@@ -1211,20 +1259,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 80205,
-      "num": 233861,
-      "word": "马斯克引荐的官员72小时被撤换",
-      "onboard_time": 1745122164,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 77780,
       "num": 168411,
       "word": "青岛马拉松氛围太燃了",
       "onboard_time": 1745118142,
       "rank": 29,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 77733,
+      "num": 239604,
+      "word": "第五人格赛事",
+      "onboard_time": 1745122043,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 77683,
@@ -1280,6 +1328,14 @@
       "word": "郝蕾 乱是因为都想抢戏",
       "onboard_time": 1745101697,
       "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 57517,
+      "num": 234115,
+      "word": "戚薇希望所有女生要有强大内核",
+      "onboard_time": 1745123484,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -1347,6 +1403,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 49147,
+      "num": 244966,
+      "word": "为什么总是长口腔溃疡",
+      "onboard_time": 1745123065,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 48124,
       "num": 48124,
       "word": "桃黑黑",
@@ -1377,14 +1441,6 @@
       "onboard_time": 1745119284,
       "rank": 19,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 43882,
-      "num": 225471,
-      "word": "为什么总是长口腔溃疡",
-      "onboard_time": 1745123065,
-      "rank": 27,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 43610,
@@ -1521,6 +1577,14 @@
       "onboard_time": 1745118682,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15378,
+      "num": 417309,
+      "word": "关税高墙关不住民意",
+      "onboard_time": 1745123783,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 13650,

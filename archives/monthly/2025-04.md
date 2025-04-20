@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/20 12:28:07
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/20 12:42:24
 </p>
 </blockquote>
 <p>
@@ -5751,6 +5751,12 @@ SU7坠崖车主发文感谢雷军（热度：668048）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A629%E4%BA%BF%E5%8D%A2%E6%AF%94%E4%BF%AE%E7%9A%84%E5%8E%95%E6%89%80%23" target="weibo">
+印度29亿卢比修的厕所（热度：656490）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%23" target="weibo">
 歌手（热度：654684）
 </a>
@@ -6005,12 +6011,6 @@ Prada正式收购范思哲（热度：644741）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%8A%9B%E5%AE%8F%E6%96%B9%E5%90%A6%E8%AE%A4%E7%83%A7%E6%AF%81%E7%99%BE%E4%B8%87%E7%BA%A7%E5%8F%A4%E8%91%A3%E9%92%A2%E7%90%B4%23" target="weibo">
 王力宏方否认烧毁百万级古董钢琴（热度：629040）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%90%A4%E7%81%AB%E8%99%AB%E4%BB%B7%E6%A0%BC%23" target="weibo">
-萤火虫价格（热度：627396）
 </a>
 </li>
 
