@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745174716980,
+  "endTime": 1745176816775,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -4227,6 +4227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 18921,
+      "num": 27326,
+      "word": "丁程鑫新歌芥预告",
+      "onboard_time": 1745175495,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 18538,
       "num": 244919,
       "word": "棉花糖爸爸寻女走遍全国开坏2辆车",
@@ -4289,6 +4297,14 @@
       "onboard_time": 1745093175,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 12840,
+      "num": 29758,
+      "word": "谱写周边命运共同体建设新篇章",
+      "onboard_time": 1745175374,
+      "rank": 27,
+      "category": "国内时政"
     },
     {
       "raw_hot": 12590,

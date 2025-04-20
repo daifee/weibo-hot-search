@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/21 00:27:30 ~ 2025/04/21 02:45:16
+本榜单时间：2025/04/21 00:27:30 ~ 2025/04/21 03:20:16
 </p>
 </blockquote>
 <p>
@@ -441,8 +441,20 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A8%8B%E9%91%AB%E6%96%B0%E6%AD%8C%E8%8A%A5%E9%A2%84%E5%91%8A%23" target="weibo">
+丁程鑫新歌芥预告（热度：18921）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%97%BD%E5%B1%B1%E9%97%BD%E6%B0%B4%E9%97%B4%E7%9A%84%E4%BA%BA%E6%96%87%E5%AF%86%E7%A0%81%23" target="weibo">
 闽山闽水间的人文密码（热度：17394）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%B1%E5%86%99%E5%91%A8%E8%BE%B9%E5%91%BD%E8%BF%90%E5%85%B1%E5%90%8C%E4%BD%93%E5%BB%BA%E8%AE%BE%E6%96%B0%E7%AF%87%E7%AB%A0%23" target="weibo">
+谱写周边命运共同体建设新篇章（热度：12840）
 </a>
 </li>
 
