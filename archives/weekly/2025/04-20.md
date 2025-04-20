@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/20 00:29:07 ~ 2025/04/21 04:25:17
+本榜单时间：2025/04/20 00:29:07 ~ 2025/04/21 04:39:29
 </p>
 </blockquote>
 <p>
@@ -3257,6 +3257,12 @@ OMG对战EDG（热度：13552）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2360%25%E7%A7%91%E5%88%87%E6%8B%89%E9%97%A8%E7%A5%A8%E6%98%AF%E5%88%86%E6%9C%9F%E8%B4%AD%E4%B9%B0%23" target="weibo">
 60%科切拉门票是分期购买（热度：12590）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E4%BB%8E%E5%8F%B0%E4%B8%8B%E8%A7%82%E4%BC%97%E5%88%B0%E5%8F%B0%E4%B8%8A%E5%98%89%E5%AE%BE%23" target="weibo">
+白敬亭从台下观众到台上嘉宾（热度：12038）
 </a>
 </li>
 

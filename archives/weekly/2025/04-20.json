@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745180717690,
+  "endTime": 1745181569661,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -4328,6 +4328,14 @@
       "word": "60%科切拉门票是分期购买",
       "onboard_time": 1745130082,
       "rank": 39,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 12038,
+      "num": 21166,
+      "word": "白敬亭从台下观众到台上嘉宾",
+      "onboard_time": 1745175314,
+      "rank": 49,
       "category": "演出"
     },
     {
