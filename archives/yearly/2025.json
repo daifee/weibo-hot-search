@@ -1,7 +1,15 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1745163471343,
+  "endTime": 1745166450412,
   "band_list": [
+    {
+      "raw_hot": 41862887,
+      "num": 41862887,
+      "word": "关晓彤没发",
+      "onboard_time": 1745165142,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 38838775,
       "num": 38838775,
@@ -24,6 +32,14 @@
       "word": "关晓彤",
       "onboard_time": 1740674355,
       "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 28573099,
+      "num": 28573099,
+      "word": "鹿晗 关晓彤",
+      "onboard_time": 1740301458,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -153,14 +169,6 @@
       "onboard_time": 1739445507,
       "rank": 6,
       "category": "电影"
-    },
-    {
-      "raw_hot": 17557847,
-      "num": 17557847,
-      "word": "鹿晗 关晓彤",
-      "onboard_time": 1740301458,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 17515520,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1739863046,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2972538,
-      "num": 2972538,
-      "word": "任敏美甲",
-      "onboard_time": 1738072362,
-      "rank": 17,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [

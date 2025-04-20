@@ -1,7 +1,15 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1745163471343,
+  "endTime": 1745166450412,
   "band_list": [
+    {
+      "raw_hot": 41862887,
+      "num": 41862887,
+      "word": "关晓彤没发",
+      "onboard_time": 1745165142,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 31189573,
       "num": 31189573,
@@ -9,6 +17,14 @@
       "onboard_time": 1745079693,
       "rank": 10,
       "category": "艺人,剧集"
+    },
+    {
+      "raw_hot": 28573099,
+      "num": 28573099,
+      "word": "鹿晗 关晓彤",
+      "onboard_time": 1745150424,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 18929817,
@@ -25,14 +41,6 @@
       "onboard_time": 1744197084,
       "rank": 0,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 17557847,
-      "num": 17557847,
-      "word": "鹿晗 关晓彤",
-      "onboard_time": 1745150424,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 15762339,
@@ -449,6 +457,14 @@
       "onboard_time": 1743577101,
       "rank": 37,
       "category": "财经"
+    },
+    {
+      "raw_hot": 2663737,
+      "num": 475762,
+      "word": "中国乒乓球确实该反思了",
+      "onboard_time": 1745163028,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 2661580,
@@ -7259,6 +7275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 702504,
+      "num": 702504,
+      "word": "李现晒和杨紫合照",
+      "onboard_time": 1745162907,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 701628,
       "num": 701628,
       "word": "妈妈说早知孩子受罪不如难产走掉",
@@ -9529,6 +9553,14 @@
       "onboard_time": 1744548262,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 553149,
+      "num": 553149,
+      "word": "谢谢北京地铁5号线上勇敢的女乘客",
+      "onboard_time": 1745161948,
+      "rank": 37,
+      "category": "正能量"
     },
     {
       "raw_hot": 552985,
@@ -17491,14 +17523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 313281,
-      "num": 313281,
-      "word": "谢谢北京地铁5号线上勇敢的女乘客",
-      "onboard_time": 1745161948,
-      "rank": 37,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 313166,
       "num": 313166,
       "word": "纳斯达克",
@@ -19361,14 +19385,6 @@
       "onboard_time": 1743897139,
       "rank": 13,
       "category": "网红"
-    },
-    {
-      "raw_hot": 283005,
-      "num": 283005,
-      "word": "中国乒乓球确实该反思了",
-      "onboard_time": 1745163028,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 282801,
@@ -24057,6 +24073,14 @@
       "onboard_time": 1744092801,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 225121,
+      "num": 170695,
+      "word": "王楚钦表情亮了",
+      "onboard_time": 1745164228,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 225109,
@@ -29931,14 +29955,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 192953,
-      "num": 192953,
-      "word": "李现晒和杨紫合照",
-      "onboard_time": 1745162907,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 192933,
       "num": 253610,
       "word": "爱内娱男团和kpop的有福了",
@@ -33851,6 +33867,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 176354,
+      "num": 176354,
+      "word": "黄子弘凡直播",
+      "onboard_time": 1745159909,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176329,
       "num": 197461,
       "word": "张杰演唱会灯光被当作UFO",
@@ -35305,14 +35329,6 @@
       "onboard_time": 1743511103,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 169667,
-      "num": 169667,
-      "word": "黄子弘凡直播",
-      "onboard_time": 1745159909,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 169664,
@@ -38915,6 +38931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155373,
+      "num": 155373,
+      "word": "脑瘫女孩给刘春和们拍大学入学指南",
+      "onboard_time": 1745164714,
+      "rank": 36,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 155372,
       "num": 155372,
       "word": "米卡再跳创4主题曲",
@@ -38992,6 +39016,14 @@
       "word": "国产剧破案题材女主只打高端局",
       "onboard_time": 1743675201,
       "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 154992,
+      "num": 154992,
+      "word": "昨夜又见当年弃我不归郎",
+      "onboard_time": 1745165731,
+      "rank": 37,
       "category": "剧集"
     },
     {
@@ -42761,6 +42793,14 @@
       "onboard_time": 1744719742,
       "rank": 45,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 141626,
+      "num": 154841,
+      "word": "柯洁说蒲熠星的歌陪他度过人生低谷",
+      "onboard_time": 1745165032,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 141559,
@@ -51395,6 +51435,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 111366,
+      "num": 154390,
+      "word": "无忧渡编剧",
+      "onboard_time": 1745166087,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 111318,
       "num": 111318,
       "word": "业界人士质疑车企过度宣传智驾",
@@ -53179,6 +53227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 102911,
+      "num": 154720,
+      "word": "南部战区回应菲护卫艇侵入我黄岩岛领海",
+      "onboard_time": 1745165790,
+      "rank": 41,
+      "category": "军事"
+    },
+    {
       "raw_hot": 102825,
       "num": 257411,
       "word": "余承东说智界S7是稳得住的快",
@@ -54169,6 +54225,14 @@
       "onboard_time": 1745099534,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97317,
+      "num": 153962,
+      "word": "李子夫妇",
+      "onboard_time": 1745164530,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 97305,

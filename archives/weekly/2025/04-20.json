@@ -1,7 +1,15 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745163471343,
+  "endTime": 1745166450412,
   "band_list": [
+    {
+      "raw_hot": 41862887,
+      "num": 41862887,
+      "word": "关晓彤没发",
+      "onboard_time": 1745165142,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 31189573,
       "num": 31189573,
@@ -11,8 +19,8 @@
       "category": "艺人,剧集"
     },
     {
-      "raw_hot": 17557847,
-      "num": 17557847,
+      "raw_hot": 28573099,
+      "num": 28573099,
       "word": "鹿晗 关晓彤",
       "onboard_time": 1745150424,
       "rank": 10,
@@ -49,6 +57,14 @@
       "onboard_time": 1745113524,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2663737,
+      "num": 475762,
+      "word": "中国乒乓球确实该反思了",
+      "onboard_time": 1745163028,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 2603719,
@@ -339,6 +355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 702504,
+      "num": 702504,
+      "word": "李现晒和杨紫合照",
+      "onboard_time": 1745162907,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 696710,
       "num": 696710,
       "word": "李现 好久不见呀何惟芳",
@@ -505,6 +529,14 @@
       "onboard_time": 1745111905,
       "rank": 3,
       "category": "数码"
+    },
+    {
+      "raw_hot": 553149,
+      "num": 553149,
+      "word": "谢谢北京地铁5号线上勇敢的女乘客",
+      "onboard_time": 1745161948,
+      "rank": 37,
+      "category": "正能量"
     },
     {
       "raw_hot": 544363,
@@ -899,14 +931,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 313281,
-      "num": 313281,
-      "word": "谢谢北京地铁5号线上勇敢的女乘客",
-      "onboard_time": 1745161948,
-      "rank": 37,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 311035,
       "num": 226572,
       "word": "女子术后突发癫痫死亡竟是丈夫投毒",
@@ -1009,14 +1033,6 @@
       "onboard_time": 1745150965,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 283005,
-      "num": 283005,
-      "word": "中国乒乓球确实该反思了",
-      "onboard_time": 1745163028,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 282247,
@@ -1169,6 +1185,14 @@
       "onboard_time": 1745151808,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 225121,
+      "num": 170695,
+      "word": "王楚钦表情亮了",
+      "onboard_time": 1745164228,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 225109,
@@ -1515,14 +1539,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 192953,
-      "num": 192953,
-      "word": "李现晒和杨紫合照",
-      "onboard_time": 1745162907,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 192856,
       "num": 192856,
       "word": "真的要小心chatgpt了",
@@ -1747,6 +1763,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 176354,
+      "num": 176354,
+      "word": "黄子弘凡直播",
+      "onboard_time": 1745159909,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175989,
       "num": 175989,
       "word": "也没人跟我说陈意涵老公这么会拍啊",
@@ -1849,14 +1873,6 @@
       "onboard_time": 1745075665,
       "rank": 24,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 169667,
-      "num": 169667,
-      "word": "黄子弘凡直播",
-      "onboard_time": 1745159909,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 169056,
@@ -2099,6 +2115,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 155373,
+      "num": 155373,
+      "word": "脑瘫女孩给刘春和们拍大学入学指南",
+      "onboard_time": 1745164714,
+      "rank": 36,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 154992,
+      "num": 154992,
+      "word": "昨夜又见当年弃我不归郎",
+      "onboard_time": 1745165731,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154832,
       "num": 154832,
       "word": "让体重逐渐下降的30个常识",
@@ -2289,6 +2321,14 @@
       "onboard_time": 1745134823,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141626,
+      "num": 154841,
+      "word": "柯洁说蒲熠星的歌陪他度过人生低谷",
+      "onboard_time": 1745165032,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 140562,
@@ -2819,6 +2859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111366,
+      "num": 154390,
+      "word": "无忧渡编剧",
+      "onboard_time": 1745166087,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 109843,
       "num": 305746,
       "word": "颜安直播",
@@ -2979,6 +3027,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 102911,
+      "num": 154720,
+      "word": "南部战区回应菲护卫艇侵入我黄岩岛领海",
+      "onboard_time": 1745165790,
+      "rank": 41,
+      "category": "军事"
+    },
+    {
       "raw_hot": 102673,
       "num": 102673,
       "word": "我真的不能停止玩手机",
@@ -3065,6 +3121,14 @@
       "onboard_time": 1745099534,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97317,
+      "num": 153962,
+      "word": "李子夫妇",
+      "onboard_time": 1745164530,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 97003,
