@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745187848734,
+  "endTime": 1745188848268,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -419,6 +419,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 651584,
+      "num": 651584,
+      "word": "我愿意跟他挨着",
+      "onboard_time": 1745167402,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 651010,
       "num": 651010,
       "word": "五月天白敬亭合唱任性",
@@ -673,14 +681,6 @@
       "onboard_time": 1745158650,
       "rank": 23,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 442407,
-      "num": 442407,
-      "word": "我愿意跟他挨着",
-      "onboard_time": 1745167402,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 438280,
@@ -3531,6 +3531,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 68712,
+      "num": 84776,
+      "word": "孙俪新剧包揽央视卫视第一",
+      "onboard_time": 1745185035,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 68089,
       "num": 237578,
       "word": "人怎样才能变得自信",
@@ -3915,14 +3923,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 40872,
-      "num": 64927,
-      "word": "孙俪新剧包揽央视卫视第一",
-      "onboard_time": 1745185035,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 40340,
       "num": 40340,
       "word": "亚克力枪枪",
@@ -3945,6 +3945,14 @@
       "onboard_time": 1745168240,
       "rank": 28,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 39344,
+      "num": 41561,
+      "word": "美国多地再现反特抗议潮",
+      "onboard_time": 1745172376,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 39114,
@@ -4059,12 +4067,20 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 32256,
-      "num": 32814,
-      "word": "美国多地再现反特抗议潮",
-      "onboard_time": 1745172376,
-      "rank": 34,
-      "category": "国际时政"
+      "raw_hot": 31986,
+      "num": 41547,
+      "word": "雨果曾说樊振东是世界上最厉害的",
+      "onboard_time": 1745171117,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 31962,
+      "num": 41543,
+      "word": "吃撑后身体会发生哪些变化",
+      "onboard_time": 1745173696,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 31942,
@@ -4099,20 +4115,12 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 29820,
-      "num": 31152,
-      "word": "雨果曾说樊振东是世界上最厉害的",
-      "onboard_time": 1745171117,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 28393,
-      "num": 31157,
-      "word": "吃撑后身体会发生哪些变化",
-      "onboard_time": 1745173696,
-      "rank": 44,
-      "category": "健康医疗"
+      "raw_hot": 27803,
+      "num": 41531,
+      "word": "白敬亭从台下观众到台上嘉宾",
+      "onboard_time": 1745175314,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 27756,
@@ -4129,6 +4137,14 @@
       "onboard_time": 1745098275,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 27280,
+      "num": 41528,
+      "word": "医生教你5分钟体态纠正术",
+      "onboard_time": 1745188637,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 27127,
@@ -4241,14 +4257,6 @@
       "onboard_time": 1745131282,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 19079,
-      "num": 31146,
-      "word": "白敬亭从台下观众到台上嘉宾",
-      "onboard_time": 1745175314,
-      "rank": 49,
-      "category": "演出"
     },
     {
       "raw_hot": 18921,
