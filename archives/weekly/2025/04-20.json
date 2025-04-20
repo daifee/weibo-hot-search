@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745140999588,
+  "endTime": 1745141888678,
   "band_list": [
     {
       "raw_hot": 31189573,
@@ -115,6 +115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1258058,
+      "num": 386826,
+      "word": "等关晓彤发博",
+      "onboard_time": 1745134823,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1167497,
       "num": 113103,
       "word": "伸腿阻止高铁关门女子被拘留",
@@ -137,14 +145,6 @@
       "onboard_time": 1745066722,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1128581,
-      "num": 299032,
-      "word": "等关晓彤发博",
-      "onboard_time": 1745134823,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 1104133,
@@ -180,11 +180,19 @@
     },
     {
       "raw_hot": 746630,
-      "num": 746630,
+      "num": 861729,
       "word": "义乌女老板对CNN霸气喊话美国客户",
       "onboard_time": 1745113164,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 736113,
+      "num": 376423,
+      "word": "断网了这竟然是沙溢",
+      "onboard_time": 1745140822,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 713848,
@@ -260,7 +268,7 @@
     },
     {
       "raw_hot": 569498,
-      "num": 297193,
+      "num": 369000,
       "word": "快递太久没拿长出花了",
       "onboard_time": 1745134103,
       "rank": 10,
@@ -305,6 +313,14 @@
       "onboard_time": 1745138902,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 532806,
+      "num": 532806,
+      "word": "美国政府将6000多移民标为已死亡",
+      "onboard_time": 1745138962,
+      "rank": 8,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 525606,
@@ -379,14 +395,6 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 403391,
-      "num": 403391,
-      "word": "美国政府将6000多移民标为已死亡",
-      "onboard_time": 1745138962,
-      "rank": 8,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 401093,
       "num": 401093,
       "word": "伸腿阻止高铁关门女子被行拘",
@@ -433,6 +441,14 @@
       "onboard_time": 1745130860,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 366661,
+      "num": 366661,
+      "word": "王皓解读世乒赛选拔规则",
+      "onboard_time": 1745139503,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 366036,
@@ -579,14 +595,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 287088,
-      "num": 287088,
-      "word": "王皓解读世乒赛选拔规则",
-      "onboard_time": 1745139503,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 285609,
       "num": 260794,
       "word": "树莓衮衮衮",
@@ -609,6 +617,14 @@
       "onboard_time": 1745131702,
       "rank": 13,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 258312,
+      "num": 258312,
+      "word": "体育生被错切右膝医疗纠纷案将开庭",
+      "onboard_time": 1745140641,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 255058,
@@ -640,6 +656,14 @@
       "word": "刘芸穿着礼服吃肥肠面",
       "onboard_time": 1745122344,
       "rank": 30,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 239644,
+      "num": 239644,
+      "word": "赵丽颖长发红裙",
+      "onboard_time": 1745141241,
+      "rank": 21,
       "category": "作品衍生"
     },
     {
@@ -699,6 +723,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 211210,
+      "num": 211210,
+      "word": "李昀锐金宣虎wink笑",
+      "onboard_time": 1745141542,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 211016,
+      "num": 168137,
+      "word": "范志毅祝鹿晗生日快乐",
+      "onboard_time": 1745141604,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 210478,
       "num": 210478,
       "word": "余宇涵直播",
@@ -728,14 +768,6 @@
       "word": "丁禹兮模仿金虎宣wink笑",
       "onboard_time": 1745112744,
       "rank": 36,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 204883,
-      "num": 204883,
-      "word": "断网了这竟然是沙溢",
-      "onboard_time": 1745140822,
-      "rank": 24,
       "category": "艺人"
     },
     {
@@ -769,6 +801,14 @@
       "onboard_time": 1745127084,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 198853,
+      "num": 238049,
+      "word": "最有效的养生方式",
+      "onboard_time": 1745140462,
+      "rank": 18,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 197510,
@@ -875,6 +915,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 182619,
+      "num": 182619,
+      "word": "种地吧插秧日招募",
+      "onboard_time": 1745140763,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182108,
       "num": 182108,
       "word": "王一博园丁封面拍摄花絮",
@@ -899,12 +947,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 179429,
-      "num": 238049,
-      "word": "最有效的养生方式",
-      "onboard_time": 1745140462,
-      "rank": 18,
-      "category": "健康医疗"
+      "raw_hot": 179275,
+      "num": 179275,
+      "word": "孙恩盛 音乐节",
+      "onboard_time": 1745140403,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 177713,
@@ -995,6 +1043,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 168399,
+      "num": 164736,
+      "word": "高中生打破黄雨婷保持的世界纪录",
+      "onboard_time": 1745141782,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 167635,
       "num": 216435,
       "word": "丁程鑫15秒49第一",
@@ -1059,14 +1115,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 162182,
-      "num": 162182,
-      "word": "孙恩盛 音乐节",
-      "onboard_time": 1745140403,
-      "rank": 27,
-      "category": "演出"
-    },
-    {
       "raw_hot": 161505,
       "num": 161505,
       "word": "祝绪丹cue李晟骄傲的叶凡",
@@ -1097,6 +1145,14 @@
       "onboard_time": 1745079932,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158120,
+      "num": 158120,
+      "word": "马嘉祺还回家吃饭吗",
+      "onboard_time": 1745140763,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 158075,
@@ -1201,6 +1257,14 @@
       "onboard_time": 1745138902,
       "rank": 33,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 150228,
+      "num": 150228,
+      "word": "关税抬升让圣诞老人由美国脸换成欧洲脸",
+      "onboard_time": 1745141182,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 148658,
@@ -1459,6 +1523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129278,
+      "num": 129278,
+      "word": "谢可寅 我的goodidea好像不太good",
+      "onboard_time": 1745140883,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127946,
       "num": 127946,
       "word": "鞠婧祎星奇摇",
@@ -1531,14 +1603,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 123695,
-      "num": 115329,
-      "word": "种地吧插秧日招募",
-      "onboard_time": 1745140763,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 119615,
       "num": 119615,
       "word": "这些癌症发展的前奏一定要留意",
@@ -1561,6 +1625,14 @@
       "onboard_time": 1745127264,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117020,
+      "num": 117020,
+      "word": "张信哲关注张杰在鸟巢要开十几场",
+      "onboard_time": 1745141782,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 116345,
@@ -1587,12 +1659,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 113958,
-      "num": 113958,
-      "word": "谢可寅 我的goodidea好像不太good",
-      "onboard_time": 1745140883,
-      "rank": 42,
-      "category": "综艺"
+      "raw_hot": 114021,
+      "num": 120620,
+      "word": "搜狐视频播主大会",
+      "onboard_time": 1745139682,
+      "rank": 39,
+      "category": "综艺,互联网"
     },
     {
       "raw_hot": 113429,
@@ -1601,6 +1673,14 @@
       "onboard_time": 1745127504,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 112628,
+      "num": 331458,
+      "word": "借名买房后好友不愿过户闹上法庭",
+      "onboard_time": 1745140641,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112016,
@@ -1635,20 +1715,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 108826,
-      "num": 108826,
-      "word": "马嘉祺还回家吃饭吗",
-      "onboard_time": 1745140763,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 107200,
       "num": 107200,
       "word": "校方回应醉酒男子深夜强闯女寝",
       "onboard_time": 1745106801,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106858,
+      "num": 106858,
+      "word": "折耳根的花语",
+      "onboard_time": 1745141302,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 106728,
+      "num": 106728,
+      "word": "KPL",
+      "onboard_time": 1745140942,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 106702,
@@ -1683,14 +1771,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 106162,
-      "num": 106162,
-      "word": "KPL",
-      "onboard_time": 1745140942,
-      "rank": 46,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 106053,
       "num": 106053,
       "word": "感觉云南欠我一个假期",
@@ -1705,6 +1785,14 @@
       "onboard_time": 1745077702,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 105298,
+      "num": 105298,
+      "word": "皖皖哭了",
+      "onboard_time": 1745141363,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 105233,
@@ -1795,16 +1883,16 @@
       "category": "艺人,作品衍生"
     },
     {
-      "raw_hot": 98158,
-      "num": 117961,
-      "word": "搜狐视频播主大会",
-      "onboard_time": 1745139682,
-      "rank": 39,
-      "category": "综艺,互联网"
+      "raw_hot": 100832,
+      "num": 158123,
+      "word": "华为乾崑周二见",
+      "onboard_time": 1745141782,
+      "rank": 33,
+      "category": "汽车"
     },
     {
       "raw_hot": 97430,
-      "num": 116729,
+      "num": 120389,
       "word": "没想到广东人才是辣条大户",
       "onboard_time": 1745140105,
       "rank": 40,
@@ -2092,7 +2180,7 @@
     },
     {
       "raw_hot": 72374,
-      "num": 150519,
+      "num": 404001,
       "word": "老人50年为村寨起了200栋木楼",
       "onboard_time": 1745136623,
       "rank": 49,
@@ -2137,6 +2225,14 @@
       "onboard_time": 1745127563,
       "rank": 34,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 64268,
+      "num": 268670,
+      "word": "理学家朱熹不理性了",
+      "onboard_time": 1745140883,
+      "rank": 38,
+      "category": "正能量"
     },
     {
       "raw_hot": 63137,
@@ -2227,14 +2323,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 53766,
-      "num": 121041,
-      "word": "理学家朱熹不理性了",
-      "onboard_time": 1745140883,
-      "rank": 38,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 53467,
       "num": 552988,
       "word": "关税政策加剧美国农业困境",
@@ -2281,6 +2369,14 @@
       "onboard_time": 1745137582,
       "rank": 39,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 49349,
+      "num": 242645,
+      "word": "哪些人情世故是需要知道的",
+      "onboard_time": 1745141182,
+      "rank": 19,
+      "category": "情感,民生新闻"
     },
     {
       "raw_hot": 49147,
@@ -2467,14 +2563,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 27728,
-      "num": 239720,
-      "word": "体育生被错切右膝医疗纠纷案将开庭",
-      "onboard_time": 1745140641,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 25299,
       "num": 26314,
       "word": "咪咕汇",
@@ -2568,14 +2656,6 @@
       "word": "阻关高铁门女子将面临哪些法律后果",
       "onboard_time": 1745118682,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15261,
-      "num": 240759,
-      "word": "借名买房后好友不愿过户闹上法庭",
-      "onboard_time": 1745140641,
-      "rank": 16,
       "category": "民生新闻"
     },
     {

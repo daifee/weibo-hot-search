@@ -1,0 +1,410 @@
+{
+  "runTime": 1745141888678,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1718964,
+        "num": 1718964,
+        "word": "邓超发文让高瀚宇退圈",
+        "onboard_time": 1745131342,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 870905,
+        "num": 870905,
+        "word": "美高官爆料五角大楼已完全崩溃",
+        "onboard_time": 1745133923,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 25516,
+        "num": 861729,
+        "word": "义乌女老板对CNN霸气喊话美国客户",
+        "onboard_time": 1745113164,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1044337,
+        "num": 859907,
+        "word": "迪丽热巴金色纱裙",
+        "onboard_time": 1745136682,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 857987,
+        "num": 857987,
+        "word": "我不在乎五男一五女一我只在乎五一",
+        "onboard_time": 1745122523,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 532806,
+        "num": 532806,
+        "word": "美国政府将6000多移民标为已死亡",
+        "onboard_time": 1745138962,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 496970,
+        "num": 496970,
+        "word": "浪姐6kpop味最纯正的舞台出现了",
+        "onboard_time": 1745138902,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 426829,
+        "num": 426829,
+        "word": "刘涛为妈祖献寿桃",
+        "onboard_time": 1745116223,
+        "rank": 7,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 405176,
+        "num": 405176,
+        "word": "上海涌入大量泰国人有景点翻红",
+        "onboard_time": 1745129302,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58406,
+        "num": 404001,
+        "word": "老人50年为村寨起了200栋木楼",
+        "onboard_time": 1745136623,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1258058,
+        "num": 386826,
+        "word": "等关晓彤发博",
+        "onboard_time": 1745134823,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 736113,
+        "num": 376423,
+        "word": "断网了这竟然是沙溢",
+        "onboard_time": 1745140822,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 419616,
+        "num": 369000,
+        "word": "快递太久没拿长出花了",
+        "onboard_time": 1745134103,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 366661,
+        "num": 366661,
+        "word": "王皓解读世乒赛选拔规则",
+        "onboard_time": 1745139503,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112628,
+        "num": 331458,
+        "word": "借名买房后好友不愿过户闹上法庭",
+        "onboard_time": 1745140641,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 314679,
+        "num": 314679,
+        "word": "刘涛回应不拍戏",
+        "onboard_time": 1745134463,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282546,
+        "num": 282546,
+        "word": "难哄",
+        "onboard_time": 1745131342,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64268,
+        "num": 268670,
+        "word": "理学家朱熹不理性了",
+        "onboard_time": 1745140883,
+        "rank": 17,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 258312,
+        "num": 258312,
+        "word": "体育生被错切右膝医疗纠纷案将开庭",
+        "onboard_time": 1745140641,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49349,
+        "num": 242645,
+        "word": "哪些人情世故是需要知道的",
+        "onboard_time": 1745141182,
+        "rank": 19,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 545940,
+        "num": 242290,
+        "word": "鹿晗",
+        "onboard_time": 1745104760,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239644,
+        "num": 239644,
+        "word": "赵丽颖长发红裙",
+        "onboard_time": 1745141241,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 238860,
+        "num": 238860,
+        "word": "裴珠泫开球",
+        "onboard_time": 1745128822,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211210,
+        "num": 211210,
+        "word": "李昀锐金宣虎wink笑",
+        "onboard_time": 1745141542,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198853,
+        "num": 198853,
+        "word": "最有效的养生方式",
+        "onboard_time": 1745140462,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 193556,
+        "num": 193556,
+        "word": "迪丽热巴SKP活动",
+        "onboard_time": 1745137582,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182619,
+        "num": 182619,
+        "word": "种地吧插秧日招募",
+        "onboard_time": 1745140763,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179275,
+        "num": 179275,
+        "word": "孙恩盛 音乐节",
+        "onboard_time": 1745140403,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 171799,
+        "num": 171799,
+        "word": "闫安说王楚钦确定参加多哈世乒赛",
+        "onboard_time": 1745132783,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168377,
+        "num": 168377,
+        "word": "结过婚都懂现实比电视剧魔幻多了",
+        "onboard_time": 1745134523,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211016,
+        "num": 168137,
+        "word": "范志毅祝鹿晗生日快乐",
+        "onboard_time": 1745141604,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168399,
+        "num": 164736,
+        "word": "高中生打破黄雨婷保持的世界纪录",
+        "onboard_time": 1745141782,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158127,
+        "num": 158127,
+        "word": "印度29亿卢比修的厕所",
+        "onboard_time": 1745122583,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 100832,
+        "num": 158123,
+        "word": "华为乾崑周二见",
+        "onboard_time": 1745141782,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 158120,
+        "num": 158120,
+        "word": "马嘉祺还回家吃饭吗",
+        "onboard_time": 1745140763,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150228,
+        "num": 150228,
+        "word": "关税抬升让圣诞老人由美国脸换成欧洲脸",
+        "onboard_time": 1745141182,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 144470,
+        "num": 144470,
+        "word": "蒋一侨 不白来都不白来",
+        "onboard_time": 1745140822,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129278,
+        "num": 129278,
+        "word": "谢可寅 我的goodidea好像不太good",
+        "onboard_time": 1745140883,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125048,
+        "num": 125048,
+        "word": "一天内手机最好玩的三个小时",
+        "onboard_time": 1745140763,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114021,
+        "num": 120620,
+        "word": "搜狐视频播主大会",
+        "onboard_time": 1745139682,
+        "rank": 39,
+        "category": "综艺,互联网"
+      },
+      {
+        "raw_hot": 95218,
+        "num": 120389,
+        "word": "没想到广东人才是辣条大户",
+        "onboard_time": 1745140105,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 120308,
+        "num": 120308,
+        "word": "补气血就要待在没有天花板的地方",
+        "onboard_time": 1745131702,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 117020,
+        "num": 117020,
+        "word": "张信哲关注张杰在鸟巢要开十几场",
+        "onboard_time": 1745141782,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 115808,
+        "num": 115808,
+        "word": "李昀锐穿着戏服走红毯",
+        "onboard_time": 1745127023,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 111403,
+        "num": 111403,
+        "word": "为什么现在没人用黄瓜片敷脸了",
+        "onboard_time": 1745138902,
+        "rank": 44,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 110419,
+        "num": 110419,
+        "word": "刘奕畅不服余宇涵组赢了",
+        "onboard_time": 1745140223,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106858,
+        "num": 106858,
+        "word": "折耳根的花语",
+        "onboard_time": 1745141302,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106728,
+        "num": 106728,
+        "word": "KPL",
+        "onboard_time": 1745140942,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 105298,
+        "num": 105298,
+        "word": "皖皖哭了",
+        "onboard_time": 1745141363,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 104895,
+        "num": 104895,
+        "word": "肥胖或取代吸烟成为第一致癌因素",
+        "onboard_time": 1745128822,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平释家门口的相处之道#"
+    }
+  }
+}
