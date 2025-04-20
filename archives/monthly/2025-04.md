@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/20 15:37:11
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/20 16:28:01
 </p>
 </blockquote>
 <p>
@@ -1467,6 +1467,12 @@ RedVelvet 解散（热度：1601334）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%87%91%E8%89%B2%E7%BA%B1%E8%A3%99%23" target="weibo">
+迪丽热巴金色纱裙（热度：1493741）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%89%BA%E8%80%83%E6%9C%BA%E6%9E%84%E7%A7%B0%E9%99%88%E6%99%93%E5%B7%B2%E4%B8%8A3%E6%AC%A1%E8%AF%BE%23" target="weibo">
 艺考机构称陈晓已上3次课（热度：1488053）
 </a>
@@ -1625,6 +1631,12 @@ RedVelvet 解散（热度：1601334）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%20%E5%A5%B3%E7%BB%83%E4%B9%A0%E7%94%9F%23" target="weibo">
 时代峰峻 女练习生（热度：1428320）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E9%AB%98%E5%AE%98%E7%88%86%E6%96%99%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC%E5%B7%B2%E5%AE%8C%E5%85%A8%E5%B4%A9%E6%BA%83%23" target="weibo">
+美高官爆料五角大楼已完全崩溃（热度：1428295）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ Prada正式收购范思哲（热度：644741）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2360%E5%B2%81%E7%94%B7%E5%AD%90%E5%B0%86%E5%A5%B3%E5%8F%8B%E9%AA%97%E8%87%B3%E5%A2%93%E5%9C%B0%E6%9D%80%E5%AE%B3%E6%8A%9B%E5%B0%B8%23" target="weibo">
 60岁男子将女友骗至墓地杀害抛尸（热度：636430）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BB%B5%E7%BB%B5%E7%9A%84%E7%BE%8A%E5%8D%AB%E7%94%9F%E5%B7%BE%E8%A2%AB%E6%9B%9D%E6%9C%89%E5%BC%82%E7%89%A9%23" target="weibo">
-绵绵的羊卫生巾被曝有异物（热度：635322）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AF%9B%E6%AF%9B%E6%9E%9C%E5%B7%B2%E7%BC%BA%E8%B4%A7%23" target="weibo">
-毛毛果已缺货（热度：635260）
 </a>
 </li>
 
