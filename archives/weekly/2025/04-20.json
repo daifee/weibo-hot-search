@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745121125806,
+  "endTime": 1745123287749,
   "band_list": [
     {
       "raw_hot": 31189573,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 2045928,
-      "num": 212433,
+      "num": 231329,
       "word": "鹿晗",
       "onboard_time": 1745104760,
       "rank": 11,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 817201,
-      "num": 211716,
+      "num": 228980,
       "word": "关晓彤主页访问量",
       "onboard_time": 1745104878,
       "rank": 13,
@@ -131,8 +131,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 679530,
-      "num": 231266,
+      "raw_hot": 680247,
+      "num": 259613,
       "word": "19年找了百万公里女儿就在失踪点附近",
       "onboard_time": 1745119583,
       "rank": 12,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 591054,
-      "num": 211238,
+      "num": 230396,
       "word": "女生列车上哭喊被爷爷摸",
       "onboard_time": 1745104519,
       "rank": 20,
@@ -211,12 +211,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 468598,
+      "num": 468598,
+      "word": "日本大米暴涨有人去韩国带回40斤",
+      "onboard_time": 1745117363,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 424412,
       "num": 424412,
       "word": "恋与深空",
       "onboard_time": 1745119344,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 416511,
+      "num": 416511,
+      "word": "英国明确拒绝与中国脱钩",
+      "onboard_time": 1745121803,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 409433,
@@ -235,8 +251,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 391289,
-      "num": 391289,
+      "raw_hot": 393306,
+      "num": 393306,
       "word": "古茗求补货",
       "onboard_time": 1745117843,
       "rank": 27,
@@ -265,6 +281,14 @@
       "onboard_time": 1745072063,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 357113,
+      "num": 257353,
+      "word": "杨幂晒刮痧小猫",
+      "onboard_time": 1745121623,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 351159,
@@ -308,11 +332,19 @@
     },
     {
       "raw_hot": 311035,
-      "num": 193941,
+      "num": 219777,
       "word": "女子术后突发癫痫死亡竟是丈夫投毒",
       "onboard_time": 1745120543,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 298809,
+      "num": 298809,
+      "word": "泽连斯基回应普京宣布停火30小时",
+      "onboard_time": 1745121322,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 297314,
@@ -339,12 +371,44 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 295249,
+      "num": 226298,
+      "word": "我不在乎五男一五女一我只在乎五一",
+      "onboard_time": 1745122523,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 285609,
       "num": 260794,
       "word": "树莓衮衮衮",
       "onboard_time": 1745078731,
       "rank": 14,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 266277,
+      "num": 256130,
+      "word": "冰湖重生",
+      "onboard_time": 1745120663,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 262545,
+      "num": 262545,
+      "word": "印度29亿卢比修的厕所",
+      "onboard_time": 1745122583,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 255598,
+      "num": 255598,
+      "word": "都让让悬疑剧纯元来了",
+      "onboard_time": 1745121982,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 255058,
@@ -369,6 +433,14 @@
       "onboard_time": 1745116104,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 242908,
+      "num": 222249,
+      "word": "刘芸穿着礼服吃肥肠面",
+      "onboard_time": 1745122344,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 235956,
@@ -411,6 +483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 210381,
+      "num": 228204,
+      "word": "张百乔妹妹皓瑞参加音综",
+      "onboard_time": 1745120785,
+      "rank": 40,
+      "category": "网红"
+    },
+    {
       "raw_hot": 210172,
       "num": 210172,
       "word": "刘涛 这么多mother啊",
@@ -436,7 +516,7 @@
     },
     {
       "raw_hot": 196669,
-      "num": 196669,
+      "num": 227164,
       "word": "森林狼1比0湖人",
       "onboard_time": 1745119641,
       "rank": 17,
@@ -491,6 +571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181317,
+      "num": 234285,
+      "word": "丁禹兮模仿金宣虎wink笑",
+      "onboard_time": 1745112744,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181164,
       "num": 181164,
       "word": "1岁宝宝因太可爱被家人狂亲高烧不退",
@@ -539,20 +627,20 @@
       "category": "民生新闻,艺人"
     },
     {
-      "raw_hot": 172298,
-      "num": 253340,
-      "word": "日本大米暴涨有人去韩国带回40斤",
-      "onboard_time": 1745117363,
-      "rank": 49,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 169828,
       "num": 169828,
       "word": "印度医生让儿童吸支烟治感冒",
       "onboard_time": 1745075665,
       "rank": 24,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 167635,
+      "num": 216435,
+      "word": "丁程鑫15秒49第一",
+      "onboard_time": 1745121322,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 167445,
@@ -572,7 +660,7 @@
     },
     {
       "raw_hot": 167022,
-      "num": 167022,
+      "num": 232394,
       "word": "特朗普经济问题支持率跌出总统生涯最低",
       "onboard_time": 1745113884,
       "rank": 35,
@@ -593,14 +681,6 @@
       "onboard_time": 1745105539,
       "rank": 33,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 159750,
-      "num": 193005,
-      "word": "冰湖重生",
-      "onboard_time": 1745120663,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 159434,
@@ -627,6 +707,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 157629,
+      "num": 157629,
+      "word": "赵露思CT预热",
+      "onboard_time": 1745121923,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 155502,
       "num": 181147,
       "word": "庄心妍现场回应歌红人不红",
@@ -641,6 +729,14 @@
       "onboard_time": 1745059881,
       "rank": 27,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 154307,
+      "num": 220978,
+      "word": "enhypen科切拉第二场",
+      "onboard_time": 1745120423,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 148103,
@@ -667,14 +763,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 143553,
-      "num": 194502,
-      "word": "丁禹兮模仿金宣虎wink笑",
-      "onboard_time": 1745112744,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 139806,
       "num": 139806,
       "word": "ChatGPT直呼用户姓名引争议",
@@ -697,6 +785,14 @@
       "onboard_time": 1745110882,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137821,
+      "num": 224106,
+      "word": "每次月经前都很容易生气",
+      "onboard_time": 1745122164,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 136893,
@@ -755,14 +851,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 132909,
-      "num": 132909,
-      "word": "张百乔妹妹皓瑞参加音综",
-      "onboard_time": 1745120785,
-      "rank": 40,
-      "category": "网红"
-    },
-    {
       "raw_hot": 132628,
       "num": 269285,
       "word": "谷雨手绘壁纸",
@@ -801,6 +889,14 @@
       "onboard_time": 1745071344,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129058,
+      "num": 129058,
+      "word": "徐明浩官宣LV品牌大使",
+      "onboard_time": 1745121023,
+      "rank": 49,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 127946,
@@ -859,12 +955,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 122157,
-      "num": 122157,
-      "word": "enhypen科切拉第二场",
-      "onboard_time": 1745120423,
-      "rank": 43,
-      "category": "演出"
+      "raw_hot": 122603,
+      "num": 122603,
+      "word": "夏梦好美",
+      "onboard_time": 1745121982,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 116345,
@@ -907,6 +1003,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106579,
+      "num": 183978,
+      "word": "刘国梁王曼昱参加活动一起打球",
+      "onboard_time": 1745120482,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 106292,
+      "num": 106292,
+      "word": "电影人生会议定档",
+      "onboard_time": 1745123244,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 105602,
       "num": 105602,
       "word": "单依纯把彩虹都穿了一遍",
@@ -921,14 +1033,6 @@
       "onboard_time": 1745066063,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 104654,
-      "num": 104654,
-      "word": "徐明浩官宣LV品牌大使",
-      "onboard_time": 1745121023,
-      "rank": 49,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 103470,
@@ -985,6 +1089,14 @@
       "onboard_time": 1745076445,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 100089,
+      "num": 104518,
+      "word": "范德彪 0犯规",
+      "onboard_time": 1745123065,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 97320,
@@ -1099,6 +1211,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 80205,
+      "num": 233861,
+      "word": "马斯克引荐的官员72小时被撤换",
+      "onboard_time": 1745122164,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 77780,
       "num": 168411,
       "word": "青岛马拉松氛围太燃了",
@@ -1123,20 +1243,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 73447,
-      "num": 183978,
-      "word": "刘国梁王曼昱参加活动一起打球",
-      "onboard_time": 1745120482,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 69672,
       "num": 98770,
       "word": "李诚儒看青蛇小考急得想自己扭两段",
       "onboard_time": 1745098754,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 63137,
+      "num": 223180,
+      "word": "男子钓鱼差点钓到扬子鳄",
+      "onboard_time": 1745121982,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61345,
@@ -1257,6 +1377,14 @@
       "onboard_time": 1745119284,
       "rank": 19,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 43882,
+      "num": 225471,
+      "word": "为什么总是长口腔溃疡",
+      "onboard_time": 1745123065,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 43610,
@@ -1425,6 +1553,9 @@
     },
     {
       "word": "#中柬命运共同体有了新内涵#"
+    },
+    {
+      "word": "#一句古话说透中马关系#"
     }
   ]
 }
