@@ -1,0 +1,410 @@
+{
+  "runTime": 1745158953966,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9343656,
+        "num": 9343656,
+        "word": "林诗栋vs雨果",
+        "onboard_time": 1745151327,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2454343,
+        "num": 2454343,
+        "word": "国乒 樊振东",
+        "onboard_time": 1745155889,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21964,
+        "num": 2343013,
+        "word": "何以中国走进福建",
+        "onboard_time": 1745141063,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2293147,
+        "num": 2293147,
+        "word": "国乒丢冠",
+        "onboard_time": 1745156790,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1748770,
+        "num": 1748770,
+        "word": "允许雨果求婚",
+        "onboard_time": 1745157329,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1726723,
+        "num": 1726723,
+        "word": "极限挑战官方号卖了",
+        "onboard_time": 1745156310,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1448733,
+        "num": 1448733,
+        "word": "孙颖莎冠军",
+        "onboard_time": 1745151746,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1045131,
+        "num": 1045131,
+        "word": "那英肖战来李健演唱会",
+        "onboard_time": 1745158111,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 696710,
+        "num": 696710,
+        "word": "李现 好久不见呀何惟芳",
+        "onboard_time": 1745155288,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 651010,
+        "num": 651010,
+        "word": "五月天白敬亭合唱任性",
+        "onboard_time": 1745153605,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 12686888,
+        "num": 12686888,
+        "word": "鹿晗 关晓彤",
+        "onboard_time": 1745150424,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 740688,
+        "num": 605773,
+        "word": "爷爷隔代亲赠孙子100万引儿子不满",
+        "onboard_time": 1745154147,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 573288,
+        "num": 573288,
+        "word": "雨果采访哭了",
+        "onboard_time": 1745157027,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 495457,
+        "num": 495457,
+        "word": "桂林旅游累计亏损10亿",
+        "onboard_time": 1745144363,
+        "rank": 13,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 469687,
+        "num": 469687,
+        "word": "赵露思 范思哲",
+        "onboard_time": 1745151024,
+        "rank": 14,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 999664,
+        "num": 469113,
+        "word": "鹿晗生日",
+        "onboard_time": 1745157688,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123358,
+        "num": 468311,
+        "word": "孟子义的紫色新宠",
+        "onboard_time": 1745155350,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87981,
+        "num": 468147,
+        "word": "女子海底捞触电受伤门店称衣服静电",
+        "onboard_time": 1745158589,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133295,
+        "num": 466923,
+        "word": "每天都熬夜会怎么样",
+        "onboard_time": 1745157992,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 33907,
+        "num": 466283,
+        "word": "5000元网购翡翠镯货不对板只补50元",
+        "onboard_time": 1745157992,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 880270,
+        "num": 465716,
+        "word": "31岁男星黄正杰去世",
+        "onboard_time": 1745149883,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 465067,
+        "num": 465067,
+        "word": "雨果连胜世界前三夺冠",
+        "onboard_time": 1745156967,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 550417,
+        "num": 454388,
+        "word": "邓超发文让高瀚宇退圈",
+        "onboard_time": 1745131342,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186267,
+        "num": 410827,
+        "word": "超2300万美国人准备迎接强震",
+        "onboard_time": 1745158650,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 400066,
+        "num": 400066,
+        "word": "李一桐唇钻",
+        "onboard_time": 1745153006,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114301,
+        "num": 379162,
+        "word": "北京地铁永远欢迎沾泥巴的劳动者",
+        "onboard_time": 1745157628,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 370900,
+        "num": 370900,
+        "word": "断网了这竟然是沙溢",
+        "onboard_time": 1745140822,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290233,
+        "num": 369076,
+        "word": "昨天章若楠今天白敬亭",
+        "onboard_time": 1745158289,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 368924,
+        "num": 368924,
+        "word": "饺子在美国身价涨到一美元一个",
+        "onboard_time": 1745149883,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 109447,
+        "num": 336334,
+        "word": "好一个乖乖女编剧方控诉分钱不均",
+        "onboard_time": 1745158650,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 320603,
+        "num": 320603,
+        "word": "邓亚萍说女队真是一生要强",
+        "onboard_time": 1745157809,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 316290,
+        "num": 316290,
+        "word": "乒乓球世界杯颁奖",
+        "onboard_time": 1745157869,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109843,
+        "num": 305746,
+        "word": "颜安直播",
+        "onboard_time": 1745157387,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305189,
+        "num": 305189,
+        "word": "迪丽热巴33岁状态",
+        "onboard_time": 1745153906,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256659,
+        "num": 256659,
+        "word": "等关晓彤发博",
+        "onboard_time": 1745134823,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249978,
+        "num": 249978,
+        "word": "孙颖莎vs蒯曼",
+        "onboard_time": 1745148022,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 247317,
+        "num": 247317,
+        "word": "王楚钦给林诗栋加油",
+        "onboard_time": 1745154746,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229084,
+        "num": 229084,
+        "word": "陈梦去了张杰演唱会",
+        "onboard_time": 1745153966,
+        "rank": 37,
+        "category": "体育,演出"
+      },
+      {
+        "raw_hot": 227218,
+        "num": 227218,
+        "word": "孙颖莎蒯曼女单决赛对战",
+        "onboard_time": 1745146822,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201671,
+        "num": 201671,
+        "word": "刘涛不像来参加节目的像来渡劫的",
+        "onboard_time": 1745154627,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198277,
+        "num": 198277,
+        "word": "一诺满分苍",
+        "onboard_time": 1745158650,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 191313,
+        "num": 191313,
+        "word": "女子出现在热播剧中自己毫不知情",
+        "onboard_time": 1745148322,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190477,
+        "num": 190477,
+        "word": "极限挑战",
+        "onboard_time": 1745158589,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179095,
+        "num": 179095,
+        "word": "林诗栋澳门世界杯亚军",
+        "onboard_time": 1745155471,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171962,
+        "num": 171962,
+        "word": "苹果回应iPhone电池健康80和100的区别",
+        "onboard_time": 1745149943,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 169056,
+        "num": 169056,
+        "word": "刘国正夸孙颖莎有大局观",
+        "onboard_time": 1745158889,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168795,
+        "num": 168795,
+        "word": "迪丽热巴金色纱裙",
+        "onboard_time": 1745136682,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167500,
+        "num": 167500,
+        "word": "刘涛为妈祖献寿桃",
+        "onboard_time": 1745116223,
+        "rank": 47,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 166653,
+        "num": 166653,
+        "word": "丁禹兮李一桐张峻豪魏哲鸣晚宴内场图",
+        "onboard_time": 1745158770,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 140480,
+        "num": 140480,
+        "word": "王艺瑾 终于演了坏女人",
+        "onboard_time": 1745154986,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平释家门口的相处之道#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745156517998,
+  "endTime": 1745158953966,
   "band_list": [
     {
       "raw_hot": 31189573,
@@ -83,12 +83,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2454343,
+      "num": 2454343,
+      "word": "国乒 樊振东",
+      "onboard_time": 1745155889,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2293147,
+      "num": 2293147,
+      "word": "国乒丢冠",
+      "onboard_time": 1745156790,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2045928,
       "num": 243712,
       "word": "鹿晗",
       "onboard_time": 1745104760,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1748770,
+      "num": 1748770,
+      "word": "允许雨果求婚",
+      "onboard_time": 1745157329,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1726723,
+      "num": 1726723,
+      "word": "极限挑战官方号卖了",
+      "onboard_time": 1745156310,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 1677621,
@@ -116,7 +148,7 @@
     },
     {
       "raw_hot": 1486076,
-      "num": 94087,
+      "num": 469113,
       "word": "鹿晗生日",
       "onboard_time": 1745079274,
       "rank": 42,
@@ -227,6 +259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1045131,
+      "num": 1045131,
+      "word": "那英肖战来李健演唱会",
+      "onboard_time": 1745158111,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1024064,
       "num": 1493439,
       "word": "上海涌入大量泰国人有景点翻红",
@@ -249,14 +289,6 @@
       "onboard_time": 1745151024,
       "rank": 11,
       "category": "电影,时尚"
-    },
-    {
-      "raw_hot": 943337,
-      "num": 943337,
-      "word": "国乒 樊振东",
-      "onboard_time": 1745155889,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 817201,
@@ -297,6 +329,14 @@
       "onboard_time": 1745155471,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 696710,
+      "num": 696710,
+      "word": "李现 好久不见呀何惟芳",
+      "onboard_time": 1745155288,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 691258,
@@ -347,6 +387,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 651010,
+      "num": 651010,
+      "word": "五月天白敬亭合唱任性",
+      "onboard_time": 1745153605,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 646043,
       "num": 1103366,
       "word": "美国大豆可能将永远失去中国市场",
@@ -385,6 +433,14 @@
       "onboard_time": 1745134463,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 573288,
+      "num": 573288,
+      "word": "雨果采访哭了",
+      "onboard_time": 1745157027,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 572943,
@@ -483,28 +539,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 530443,
-      "num": 656562,
-      "word": "李现 好久不见呀何惟芳",
-      "onboard_time": 1745155288,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 525606,
       "num": 329486,
       "word": "女子阻止高铁关门为何能得逞",
       "onboard_time": 1745093294,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 506857,
-      "num": 541838,
-      "word": "极限挑战官方号卖了",
-      "onboard_time": 1745156310,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 504021,
@@ -553,6 +593,14 @@
       "onboard_time": 1745117363,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 465067,
+      "num": 465067,
+      "word": "雨果连胜世界前三夺冠",
+      "onboard_time": 1745156967,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 447209,
@@ -609,14 +657,6 @@
       "onboard_time": 1745115265,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 394037,
-      "num": 394037,
-      "word": "五月天白敬亭合唱任性",
-      "onboard_time": 1745153605,
-      "rank": 27,
-      "category": "演出"
     },
     {
       "raw_hot": 393306,
@@ -787,6 +827,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 320603,
+      "num": 320603,
+      "word": "邓亚萍说女队真是一生要强",
+      "onboard_time": 1745157809,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 316290,
+      "num": 316290,
+      "word": "乒乓球世界杯颁奖",
+      "onboard_time": 1745157869,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 316207,
       "num": 258734,
       "word": "曝韩安冉决定上诉薛小婉",
@@ -873,6 +929,14 @@
       "onboard_time": 1745068703,
       "rank": 9,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 290233,
+      "num": 369076,
+      "word": "昨天章若楠今天白敬亭",
+      "onboard_time": 1745158289,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 285609,
@@ -1211,6 +1275,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 198277,
+      "num": 198277,
+      "word": "一诺满分苍",
+      "onboard_time": 1745158650,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 198255,
       "num": 252167,
       "word": "丁禹兮 邂逅从容优雅入画",
@@ -1347,6 +1419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190477,
+      "num": 190477,
+      "word": "极限挑战",
+      "onboard_time": 1745158589,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190220,
       "num": 210872,
       "word": "男子带10名女子吃千元烧烤逃单",
@@ -1369,6 +1449,14 @@
       "onboard_time": 1745146763,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186267,
+      "num": 410827,
+      "word": "超2300万美国人准备迎接强震",
+      "onboard_time": 1745158650,
+      "rank": 23,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 186222,
@@ -1587,6 +1675,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 169056,
+      "num": 169056,
+      "word": "刘国正夸孙颖莎有大局观",
+      "onboard_time": 1745158889,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 167635,
       "num": 216435,
       "word": "丁程鑫15秒49第一",
@@ -1625,6 +1721,14 @@
       "onboard_time": 1745113884,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 166653,
+      "num": 166653,
+      "word": "丁禹兮李一桐张峻豪魏哲鸣晚宴内场图",
+      "onboard_time": 1745158770,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 166259,
@@ -2115,6 +2219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133295,
+      "num": 466923,
+      "word": "每天都熬夜会怎么样",
+      "onboard_time": 1745157992,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 133221,
       "num": 194039,
       "word": "娜扎侯明昊脸颊吻剧照",
@@ -2419,6 +2531,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 114301,
+      "num": 379162,
+      "word": "北京地铁永远欢迎沾泥巴的劳动者",
+      "onboard_time": 1745157628,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114021,
       "num": 120620,
       "word": "搜狐视频播主大会",
@@ -2451,12 +2571,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109843,
+      "num": 305746,
+      "word": "颜安直播",
+      "onboard_time": 1745157387,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109536,
       "num": 109536,
       "word": "王曼昱签名战术性撤退",
       "onboard_time": 1745127623,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109447,
+      "num": 336334,
+      "word": "好一个乖乖女编剧方控诉分钱不均",
+      "onboard_time": 1745158650,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 109383,
@@ -2856,6 +2992,14 @@
       "word": "别人在算关税账我们在算创新账",
       "onboard_time": 1745069964,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87981,
+      "num": 468147,
+      "word": "女子海底捞触电受伤门店称衣服静电",
+      "onboard_time": 1745158589,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -3459,6 +3603,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 33907,
+      "num": 466283,
+      "word": "5000元网购翡翠镯货不对板只补50元",
+      "onboard_time": 1745157992,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33319,
       "num": 33319,
       "word": "王婆坦言曾因焦虑暴瘦20斤",
@@ -3484,7 +3636,7 @@
     },
     {
       "raw_hot": 30777,
-      "num": 1228504,
+      "num": 2343013,
       "word": "何以中国走进福建",
       "onboard_time": 1745141063,
       "rank": 2,
