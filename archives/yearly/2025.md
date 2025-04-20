@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/04/20 21:30:12
+本榜单时间：2025/01/01 00:26:38 ~ 2025/04/20 21:41:57
 </p>
 </blockquote>
 <p>
@@ -263,6 +263,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%AC%A1%E6%80%A7%E5%86%85%E8%A3%A4%E7%88%86%E9%9B%B7%23" target="weibo">
 一次性内裤爆雷（热度：13089035）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E8%AF%97%E6%A0%8Bvs%E9%9B%A8%E6%9E%9C%23" target="weibo">
+林诗栋vs雨果（热度：12853710）
 </a>
 </li>
 
@@ -725,12 +731,6 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%87%AA%E7%94%B1%E7%82%B9%E9%81%93%E6%AD%89%23" target="weibo">
 自由点道歉（热度：5694074）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E8%AF%97%E6%A0%8Bvs%E9%9B%A8%E6%9E%9C%23" target="weibo">
-林诗栋vs雨果（热度：5669690）
 </a>
 </li>
 
