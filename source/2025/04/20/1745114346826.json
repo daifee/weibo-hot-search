@@ -1,0 +1,410 @@
+{
+  "runTime": 1745114346826,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 646043,
+        "num": 1103366,
+        "word": "美国大豆可能将永远失去中国市场",
+        "onboard_time": 1745074524,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 536377,
+        "num": 536377,
+        "word": "日本长野一夜连震47次",
+        "onboard_time": 1745104279,
+        "rank": 1,
+        "category": "国际时政,国际时政"
+      },
+      {
+        "raw_hot": 53467,
+        "num": 496798,
+        "word": "关税政策加剧美国农业困境",
+        "onboard_time": 1745069665,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 475026,
+        "num": 475026,
+        "word": "iPhone电池健康80和100有什么区别",
+        "onboard_time": 1745111905,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 337467,
+        "num": 337467,
+        "word": "义乌女老板对CNN霸气喊话美国客户",
+        "onboard_time": 1745113164,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 178178,
+        "num": 331977,
+        "word": "AG600飞机有型号合格证了",
+        "onboard_time": 1745113644,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 329061,
+        "num": 329061,
+        "word": "特朗普亲手扼杀美国拳头产品",
+        "onboard_time": 1745107642,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 239009,
+        "num": 297676,
+        "word": "张丹峰 洪欣",
+        "onboard_time": 1745069543,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175607,
+        "num": 296319,
+        "word": "快删除手机里的这些APP",
+        "onboard_time": 1745066722,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 295250,
+        "num": 295250,
+        "word": "热量比肉还高的水果",
+        "onboard_time": 1745068703,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 4374123,
+        "num": 277550,
+        "word": "关晓彤",
+        "onboard_time": 1745079693,
+        "rank": 10,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 3087329,
+        "num": 273977,
+        "word": "鹿晗关晓彤官宣微博都没删",
+        "onboard_time": 1745113524,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 525606,
+        "num": 257186,
+        "word": "女子阻止高铁关门为何能得逞",
+        "onboard_time": 1745093294,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235956,
+        "num": 235956,
+        "word": "美联储主席若遭解雇或致美国股市崩盘",
+        "onboard_time": 1745104399,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 214236,
+        "num": 214236,
+        "word": "张杰的牙尖被话筒磕碎了",
+        "onboard_time": 1745107162,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203844,
+        "num": 203844,
+        "word": "何猷君奚梦瑶与家人在潍坊放风筝",
+        "onboard_time": 1745108481,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188561,
+        "num": 188561,
+        "word": "种地吧直播",
+        "onboard_time": 1745113944,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148794,
+        "num": 186763,
+        "word": "王楚钦说为什么全是擦网",
+        "onboard_time": 1745069725,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148103,
+        "num": 186171,
+        "word": "郭晶晶受聘为北京景山学校体育校长",
+        "onboard_time": 1745105841,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32591,
+        "num": 184355,
+        "word": "娃突然高烧是因为什么",
+        "onboard_time": 1745113644,
+        "rank": 19,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 1940258,
+        "num": 181447,
+        "word": "鹿晗",
+        "onboard_time": 1745104760,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 817201,
+        "num": 180430,
+        "word": "关晓彤主页访问量",
+        "onboard_time": 1745104878,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 591054,
+        "num": 177246,
+        "word": "女生列车上哭喊被爷爷摸",
+        "onboard_time": 1745104519,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 363523,
+        "num": 175637,
+        "word": "陈赫",
+        "onboard_time": 1745081252,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219426,
+        "num": 172704,
+        "word": "韩庚卢靖姗分房睡",
+        "onboard_time": 1745067323,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213826,
+        "num": 171835,
+        "word": "大学同学说房琪没有塌房",
+        "onboard_time": 1745107582,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170622,
+        "num": 170622,
+        "word": "男子带10名女子吃千元烧烤逃单",
+        "onboard_time": 1745073925,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150150,
+        "num": 168594,
+        "word": "印度医生让儿童吸支烟治感冒",
+        "onboard_time": 1745075665,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 134385,
+        "num": 168138,
+        "word": "柯淳的眼神",
+        "onboard_time": 1745110882,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127259,
+        "num": 168023,
+        "word": "宋祖儿演技",
+        "onboard_time": 1745111723,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167962,
+        "num": 167962,
+        "word": "胡彦斌分享的喉糖自己买不到了",
+        "onboard_time": 1745076445,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 163131,
+        "num": 163131,
+        "word": "美军惊叹中国军备生产速度",
+        "onboard_time": 1745105539,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 142355,
+        "num": 142355,
+        "word": "王勉",
+        "onboard_time": 1745080953,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136893,
+        "num": 136893,
+        "word": "日本一酒店140人食物中毒",
+        "onboard_time": 1745110522,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 130517,
+        "num": 130517,
+        "word": "盘点洛阳牡丹的神仙配色",
+        "onboard_time": 1745114184,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 129635,
+        "num": 129635,
+        "word": "特朗普经济问题支持率跌出总统生涯最低",
+        "onboard_time": 1745113884,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 124949,
+        "num": 124949,
+        "word": "丁禹兮模仿金虎宣wink笑",
+        "onboard_time": 1745112744,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124655,
+        "num": 124655,
+        "word": "鞠婧祎星奇摇",
+        "onboard_time": 1745111184,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120817,
+        "num": 120817,
+        "word": "张丹峰三四年没有拍戏了",
+        "onboard_time": 1745109683,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115052,
+        "num": 115052,
+        "word": "谷雨",
+        "onboard_time": 1745105600,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117919,
+        "num": 115051,
+        "word": "刘涛 这么多mother啊",
+        "onboard_time": 1745077343,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114912,
+        "num": 114912,
+        "word": "1岁宝宝因太可爱被家人狂亲高烧不退",
+        "onboard_time": 1745063181,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112502,
+        "num": 112502,
+        "word": "CIA报告称外星人石化苏联士兵",
+        "onboard_time": 1745074045,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 109791,
+        "num": 109791,
+        "word": "乌克兰需要俄罗斯无条件全面停火",
+        "onboard_time": 1745114244,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 107200,
+        "num": 107200,
+        "word": "校方回应醉酒男子深夜强闯女寝",
+        "onboard_time": 1745106801,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106702,
+        "num": 106702,
+        "word": "东契奇湖人季后赛首秀",
+        "onboard_time": 1745114244,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103470,
+        "num": 103470,
+        "word": "苏醒腹肌保质期30秒",
+        "onboard_time": 1745105960,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 101480,
+        "num": 101480,
+        "word": "薛凯琪连唱3首方大同的歌",
+        "onboard_time": 1745109383,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 100333,
+        "num": 100333,
+        "word": "4月20日3时56分谷雨",
+        "onboard_time": 1745079932,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94832,
+        "num": 94832,
+        "word": "盛李豪积分10000分",
+        "onboard_time": 1745114244,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中柬命运共同体有了新内涵#"
+    }
+  }
+}

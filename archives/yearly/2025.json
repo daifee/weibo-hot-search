@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1745105848700,
+  "endTime": 1745114346826,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -2155,6 +2155,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 3087329,
+      "num": 273977,
+      "word": "鹿晗关晓彤官宣微博都没删",
+      "onboard_time": 1745113524,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3087284,
       "num": 3087284,
       "word": "黄子韬掉粉超百万",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1744876401,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2970349,
-      "num": 308896,
-      "word": "赵露思病发抽搐",
-      "onboard_time": 1737886339,
-      "rank": 6,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
