@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745124144756,
+  "endTime": 1745126644796,
   "band_list": [
     {
       "raw_hot": 31189573,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1856749,
+      "num": 1856749,
+      "word": "我不在乎五男一五女一我只在乎五一",
+      "onboard_time": 1745122523,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1677621,
       "num": 1677621,
       "word": "刘涛为妈祖献寿桃",
@@ -91,6 +99,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1146669,
+      "num": 1146669,
+      "word": "印度29亿卢比修的厕所",
+      "onboard_time": 1745122583,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1142352,
       "num": 1142352,
       "word": "快删除手机里的这些APP",
@@ -123,6 +139,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 713848,
+      "num": 241208,
+      "word": "焦恩俊谈离婚原因",
+      "onboard_time": 1745124262,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 683695,
       "num": 518580,
       "word": "韩庚卢靖姗分房睡",
@@ -139,19 +163,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 656490,
-      "num": 262545,
-      "word": "印度29亿卢比修的厕所",
-      "onboard_time": 1745122583,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 646043,
       "num": 1103366,
       "word": "美国大豆可能将永远失去中国市场",
       "onboard_time": 1745074524,
       "rank": 5,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 635675,
+      "num": 635675,
+      "word": "英国明确拒绝与中国脱钩",
+      "onboard_time": 1745121803,
+      "rank": 4,
       "category": "国际时政"
     },
     {
@@ -219,20 +243,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 475843,
-      "num": 249629,
-      "word": "我不在乎五男一五女一我只在乎五一",
-      "onboard_time": 1745122523,
-      "rank": 26,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 468598,
       "num": 468598,
       "word": "日本大米暴涨有人去韩国带回40斤",
       "onboard_time": 1745117363,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 447209,
+      "num": 447209,
+      "word": "离婚后被孩子坚定选择有多感动",
+      "onboard_time": 1745123723,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 431595,
@@ -249,14 +273,6 @@
       "onboard_time": 1745119344,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 416511,
-      "num": 416511,
-      "word": "英国明确拒绝与中国脱钩",
-      "onboard_time": 1745121803,
-      "rank": 4,
-      "category": "国际时政"
     },
     {
       "raw_hot": 409433,
@@ -403,8 +419,8 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 266277,
-      "num": 256130,
+      "raw_hot": 282247,
+      "num": 282247,
       "word": "冰湖重生",
       "onboard_time": 1745120663,
       "rank": 25,
@@ -659,14 +675,6 @@
       "category": "民生新闻,艺人"
     },
     {
-      "raw_hot": 170375,
-      "num": 170375,
-      "word": "离婚后被孩子坚定选择有多感动",
-      "onboard_time": 1745123723,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 169828,
       "num": 169828,
       "word": "印度医生让儿童吸支烟治感冒",
@@ -811,6 +819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144557,
+      "num": 845154,
+      "word": "关税高墙关不住民意",
+      "onboard_time": 1745123783,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 139806,
       "num": 139806,
       "word": "ChatGPT直呼用户姓名引争议",
@@ -859,6 +875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136316,
+      "num": 223465,
+      "word": "山西一国道塌陷致2人死亡",
+      "onboard_time": 1745125884,
+      "rank": 19,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 135794,
       "num": 209022,
       "word": "张丹峰三四年没有拍戏了",
@@ -889,6 +913,14 @@
       "onboard_time": 1745111723,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133788,
+      "num": 133788,
+      "word": "刘芸花瓶腰",
+      "onboard_time": 1745124504,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 133221,
@@ -971,12 +1003,36 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 127104,
+      "num": 127104,
+      "word": "黄杨钿甜冰湖重生杀青礼红毯",
+      "onboard_time": 1745126305,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126207,
       "num": 126207,
       "word": "全网最丢脸的风筝出现了",
       "onboard_time": 1745064260,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 126085,
+      "num": 126085,
+      "word": "借命而生",
+      "onboard_time": 1745125582,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 125649,
+      "num": 125649,
+      "word": "沈月双人合影模板",
+      "onboard_time": 1745126064,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 125354,
@@ -1001,6 +1057,22 @@
       "onboard_time": 1745105721,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117279,
+      "num": 117279,
+      "word": "蜜雪冰城哈萨克斯坦首店开业",
+      "onboard_time": 1745124204,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 116356,
+      "num": 116356,
+      "word": "papi朱丹尚雯婕三个人的画面好拥挤",
+      "onboard_time": 1745126305,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 116345,
@@ -1107,6 +1179,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 102673,
+      "num": 102673,
+      "word": "我真的不能停止玩手机",
+      "onboard_time": 1745126544,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 102108,
       "num": 102108,
       "word": "盛李豪积分10000分",
@@ -1195,6 +1275,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 93010,
+      "num": 234115,
+      "word": "戚薇希望所有女生要有强大内核",
+      "onboard_time": 1745123484,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 92951,
       "num": 92951,
       "word": "日贸易代表送特朗普中国产礼物",
@@ -1259,6 +1347,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 78845,
+      "num": 117497,
+      "word": "虚假的老师和真实的老师",
+      "onboard_time": 1745125524,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 77780,
       "num": 168411,
       "word": "青岛马拉松氛围太燃了",
@@ -1315,6 +1411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 59994,
+      "num": 234888,
+      "word": "阻止高铁关门是漠视公共安全风险",
+      "onboard_time": 1745125824,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58232,
       "num": 213276,
       "word": "云南的紫外线究竟能有多强",
@@ -1328,14 +1432,6 @@
       "word": "郝蕾 乱是因为都想抢戏",
       "onboard_time": 1745101697,
       "rank": 46,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 57517,
-      "num": 234115,
-      "word": "戚薇希望所有女生要有强大内核",
-      "onboard_time": 1745123484,
-      "rank": 30,
       "category": "综艺"
     },
     {
@@ -1371,12 +1467,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 53958,
+      "num": 225598,
+      "word": "机器人跑步为什么难",
+      "onboard_time": 1745125582,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 53467,
       "num": 552988,
       "word": "关税政策加剧美国农业困境",
       "onboard_time": 1745069665,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53463,
+      "num": 168173,
+      "word": "三星延长工时每周工作64小时",
+      "onboard_time": 1745126125,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 51659,
@@ -1577,14 +1689,6 @@
       "onboard_time": 1745118682,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15378,
-      "num": 417309,
-      "word": "关税高墙关不住民意",
-      "onboard_time": 1745123783,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 13650,
