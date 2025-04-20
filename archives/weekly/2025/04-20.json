@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745141888678,
+  "endTime": 1745144791751,
   "band_list": [
     {
       "raw_hot": 31189573,
@@ -115,6 +115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1394879,
+      "num": 376423,
+      "word": "断网了这竟然是沙溢",
+      "onboard_time": 1745140822,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1258058,
       "num": 386826,
       "word": "等关晓彤发博",
@@ -171,6 +179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 895482,
+      "num": 895482,
+      "word": "高中生打破黄雨婷保持的世界纪录",
+      "onboard_time": 1745141782,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 817201,
       "num": 247657,
       "word": "关晓彤主页访问量",
@@ -179,20 +195,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 773106,
+      "num": 773106,
+      "word": "体育生被错切右膝医疗纠纷案将开庭",
+      "onboard_time": 1745140641,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 746630,
       "num": 861729,
       "word": "义乌女老板对CNN霸气喊话美国客户",
       "onboard_time": 1745113164,
       "rank": 4,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 736113,
-      "num": 376423,
-      "word": "断网了这竟然是沙溢",
-      "onboard_time": 1745140822,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 713848,
@@ -403,6 +419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 399655,
+      "num": 325614,
+      "word": "美媒承认中国手里有张王牌",
+      "onboard_time": 1745143703,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 393306,
       "num": 393306,
       "word": "古茗求补货",
@@ -417,6 +441,14 @@
       "onboard_time": 1745113944,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 377363,
+      "num": 314273,
+      "word": "迪丽热巴发型师 方可",
+      "onboard_time": 1745142682,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 370223,
@@ -465,6 +497,14 @@
       "onboard_time": 1745072063,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 361047,
+      "num": 361047,
+      "word": "宋祖儿出发剧宣路透",
+      "onboard_time": 1745142623,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 358271,
@@ -519,6 +559,14 @@
       "num": 258734,
       "word": "曝韩安冉决定上诉薛小婉",
       "onboard_time": 1745115145,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 314132,
+      "num": 314132,
+      "word": "范志毅祝鹿晗生日快乐",
+      "onboard_time": 1745141604,
       "rank": 30,
       "category": "艺人"
     },
@@ -619,19 +667,19 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 258312,
-      "num": 258312,
-      "word": "体育生被错切右膝医疗纠纷案将开庭",
-      "onboard_time": 1745140641,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 255058,
       "num": 255058,
       "word": "任嘉伦宋祖儿都在努力剧宣",
       "onboard_time": 1745073265,
       "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 250524,
+      "num": 250524,
+      "word": "李昀锐金宣虎wink笑",
+      "onboard_time": 1745141542,
+      "rank": 23,
       "category": "剧集"
     },
     {
@@ -723,22 +771,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 211210,
-      "num": 211210,
-      "word": "李昀锐金宣虎wink笑",
-      "onboard_time": 1745141542,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 211016,
-      "num": 168137,
-      "word": "范志毅祝鹿晗生日快乐",
-      "onboard_time": 1745141604,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 210478,
       "num": 210478,
       "word": "余宇涵直播",
@@ -771,6 +803,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207441,
+      "num": 207441,
+      "word": "张峻豪范思哲大片",
+      "onboard_time": 1745143642,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 206005,
+      "num": 206005,
+      "word": "爱奇艺电视剧 张康乐",
+      "onboard_time": 1745143642,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203844,
       "num": 214031,
       "word": "何猷君奚梦瑶与家人在潍坊放风筝",
@@ -793,6 +841,14 @@
       "onboard_time": 1745122164,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 200488,
+      "num": 200488,
+      "word": "无忧渡",
+      "onboard_time": 1745143703,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 200371,
@@ -891,6 +947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 188485,
+      "num": 188485,
+      "word": "丁程鑫严浩翔电影节同框",
+      "onboard_time": 1745144243,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 186222,
       "num": 186222,
       "word": "央视五四晚会嘉宾阵容",
@@ -953,6 +1017,22 @@
       "onboard_time": 1745140403,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 178805,
+      "num": 178805,
+      "word": "桂林旅游累计亏损10亿",
+      "onboard_time": 1745144363,
+      "rank": 31,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 178553,
+      "num": 178553,
+      "word": "BLG对战TES",
+      "onboard_time": 1745143642,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 177713,
@@ -1043,14 +1123,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 168399,
-      "num": 164736,
-      "word": "高中生打破黄雨婷保持的世界纪录",
-      "onboard_time": 1745141782,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 167635,
       "num": 216435,
       "word": "丁程鑫15秒49第一",
@@ -1105,6 +1177,14 @@
       "onboard_time": 1745126125,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 164447,
+      "num": 164447,
+      "word": "小猫也有汗脚",
+      "onboard_time": 1745142202,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 163131,
@@ -1241,6 +1321,14 @@
       "onboard_time": 1745128702,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152435,
+      "num": 152435,
+      "word": "五月天 谢谢难哄温霜降",
+      "onboard_time": 1745140462,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 152230,
@@ -1459,6 +1547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132233,
+      "num": 331458,
+      "word": "借名买房后好友不愿过户闹上法庭",
+      "onboard_time": 1745140641,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132050,
       "num": 132050,
       "word": "Doinb直面老东家",
@@ -1603,6 +1699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122805,
+      "num": 229338,
+      "word": "冰湖重生杀青礼afterparty",
+      "onboard_time": 1745143762,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119615,
       "num": 119615,
       "word": "这些癌症发展的前奏一定要留意",
@@ -1651,6 +1755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115125,
+      "num": 177020,
+      "word": "体育生被错切右膝案将开庭母亲发声",
+      "onboard_time": 1745143403,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114774,
       "num": 114774,
       "word": "封神2出品公司发布声明",
@@ -1673,14 +1785,6 @@
       "onboard_time": 1745127504,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 112628,
-      "num": 331458,
-      "word": "借名买房后好友不愿过户闹上法庭",
-      "onboard_time": 1745140641,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 112016,
@@ -1713,6 +1817,22 @@
       "onboard_time": 1745127743,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 109261,
+      "num": 109261,
+      "word": "爸爸给女儿打伞打了个寂寞",
+      "onboard_time": 1745143703,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 109091,
+      "num": 109091,
+      "word": "吴镇宇把边水往事的水泼到了超越班",
+      "onboard_time": 1745144662,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 107200,
@@ -1884,7 +2004,7 @@
     },
     {
       "raw_hot": 100832,
-      "num": 158123,
+      "num": 210160,
       "word": "华为乾崑周二见",
       "onboard_time": 1745141782,
       "rank": 33,
@@ -1969,6 +2089,14 @@
       "onboard_time": 1745129903,
       "rank": 44,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 93899,
+      "num": 206660,
+      "word": "18岁王子菲1天3破世界级纪录",
+      "onboard_time": 1745143762,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 93010,
@@ -2395,6 +2523,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 48500,
+      "num": 179210,
+      "word": "都江堰一边坡防护阶梯成野生景点",
+      "onboard_time": 1745142921,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48208,
       "num": 105242,
       "word": "余宇涵看自己演戏抠出魔法城堡",
@@ -2433,6 +2569,14 @@
       "onboard_time": 1745119284,
       "rank": 19,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 43616,
+      "num": 180844,
+      "word": "78岁奶奶资助孙女开网店当客服打包",
+      "onboard_time": 1745144182,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43610,
@@ -2555,6 +2699,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 31252,
+      "num": 228293,
+      "word": "幼猫可以吃哪些人类食物",
+      "onboard_time": 1745143582,
+      "rank": 19,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 27732,
       "num": 31748,
       "word": "尚雯婕你根本没喝中药",
@@ -2617,6 +2769,14 @@
       "onboard_time": 1745090955,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 20472,
+      "num": 149174,
+      "word": "经济学家讽刺特朗普不懂经济",
+      "onboard_time": 1745144602,
+      "rank": 39,
+      "category": "国际时政,民生新闻"
     },
     {
       "raw_hot": 19871,
