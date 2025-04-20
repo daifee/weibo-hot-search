@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745145770243,
+  "endTime": 1745147985678,
   "band_list": [
     {
       "raw_hot": 31189573,
@@ -180,11 +180,19 @@
     },
     {
       "raw_hot": 1007849,
-      "num": 1007849,
+      "num": 1136013,
       "word": "高中生打破黄雨婷保持的世界纪录",
       "onboard_time": 1745141782,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 848428,
+      "num": 848428,
+      "word": "桂林旅游累计亏损10亿",
+      "onboard_time": 1745144363,
+      "rank": 31,
+      "category": "旅游"
     },
     {
       "raw_hot": 817201,
@@ -251,19 +259,19 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 655090,
+      "num": 655090,
+      "word": "美媒承认中国手里有张王牌",
+      "onboard_time": 1745143703,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 646043,
       "num": 1103366,
       "word": "美国大豆可能将永远失去中国市场",
       "onboard_time": 1745074524,
       "rank": 5,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 639074,
-      "num": 325614,
-      "word": "美媒承认中国手里有张王牌",
-      "onboard_time": 1745143703,
-      "rank": 12,
       "category": "国际时政"
     },
     {
@@ -291,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 573702,
+      "num": 573702,
+      "word": "爱奇艺电视剧 张康乐",
+      "onboard_time": 1745143642,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 569498,
       "num": 369000,
       "word": "快递太久没拿长出花了",
@@ -305,6 +321,14 @@
       "onboard_time": 1745118682,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 554974,
+      "num": 314273,
+      "word": "迪丽热巴发型师 方可",
+      "onboard_time": 1745142682,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 553408,
@@ -443,14 +467,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 377363,
-      "num": 314273,
-      "word": "迪丽热巴发型师 方可",
-      "onboard_time": 1745142682,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 370223,
       "num": 245105,
       "word": "迪丽热巴SKP活动",
@@ -523,12 +539,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 345674,
-      "num": 246739,
-      "word": "桂林旅游累计亏损10亿",
-      "onboard_time": 1745144363,
-      "rank": 31,
-      "category": "旅游"
+      "raw_hot": 348121,
+      "num": 269023,
+      "word": "165斤女生的一天都吃了什么",
+      "onboard_time": 1745145384,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 342180,
@@ -731,28 +747,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 236883,
-      "num": 236883,
-      "word": "爱奇艺电视剧 张康乐",
-      "onboard_time": 1745143642,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 235956,
       "num": 235956,
       "word": "美联储主席若遭解雇或致美国股市崩盘",
       "onboard_time": 1745104399,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 233217,
-      "num": 233217,
-      "word": "165斤女生的一天都吃了什么",
-      "onboard_time": 1745145384,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 228645,
@@ -1003,6 +1003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 186738,
+      "num": 186738,
+      "word": "宋祖儿片场保护任嘉伦",
+      "onboard_time": 1745146763,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186222,
       "num": 186222,
       "word": "央视五四晚会嘉宾阵容",
@@ -1209,6 +1217,14 @@
       "onboard_time": 1745113884,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 166898,
+      "num": 258779,
+      "word": "孙颖莎蒯曼女单决赛对战",
+      "onboard_time": 1745146822,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 165691,
@@ -1555,6 +1571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135563,
+      "num": 135563,
+      "word": "李梦刻在骨子里的疯批美人",
+      "onboard_time": 1745147481,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134525,
       "num": 133914,
       "word": "假装韩国人用中文胡说八道",
@@ -1585,6 +1609,14 @@
       "onboard_time": 1745124504,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 133734,
+      "num": 133734,
+      "word": "女生婚礼前特意做美甲婚戒卡手指上",
+      "onboard_time": 1745144902,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133221,
@@ -1683,6 +1715,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 129943,
+      "num": 129943,
+      "word": "韩庚一集下来微信步数最少10万",
+      "onboard_time": 1745146523,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129458,
       "num": 210385,
       "word": "孙颖莎让解说员无话可说",
@@ -1696,6 +1736,14 @@
       "word": "谢可寅 我的goodidea好像不太good",
       "onboard_time": 1745140883,
       "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 128461,
+      "num": 128461,
+      "word": "高瀚宇是陈赫派来报复邓超的吧",
+      "onboard_time": 1745147600,
+      "rank": 38,
       "category": "综艺"
     },
     {
@@ -1811,6 +1859,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117600,
+      "num": 117600,
+      "word": "仙逆",
+      "onboard_time": 1745145803,
+      "rank": 42,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 116780,
+      "num": 116780,
+      "word": "句号道歉",
+      "onboard_time": 1745147903,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 116345,
       "num": 142305,
       "word": "孙颖莎跟裁判示意Notouch",
@@ -1873,6 +1937,14 @@
       "onboard_time": 1745123484,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110570,
+      "num": 110570,
+      "word": "李一桐怼脸图美我一大跳",
+      "onboard_time": 1745147842,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 109536,
@@ -1993,6 +2065,14 @@
       "onboard_time": 1745139142,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103481,
+      "num": 103481,
+      "word": "万岁山景区门票涨价",
+      "onboard_time": 1745146822,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 103470,
@@ -2147,6 +2227,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 94668,
+      "num": 160415,
+      "word": "官方回应一未开放公园成野生景点",
+      "onboard_time": 1745147542,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94102,
       "num": 94102,
       "word": "五一怎么反向旅游",
@@ -2201,6 +2289,14 @@
       "onboard_time": 1745073984,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 90531,
+      "num": 328179,
+      "word": "特朗普关税战反噬美国",
+      "onboard_time": 1745147362,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 90472,
@@ -2289,6 +2385,14 @@
       "onboard_time": 1745127983,
       "rank": 46,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 82449,
+      "num": 152923,
+      "word": "范思哲活动阵容",
+      "onboard_time": 1745147542,
+      "rank": 28,
+      "category": "电影,时尚"
     },
     {
       "raw_hot": 81504,
@@ -2539,6 +2643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 53268,
+      "num": 126442,
+      "word": "外媒称美国人不想工作想当网红",
+      "onboard_time": 1745147121,
+      "rank": 39,
+      "category": "海外新闻,民生新闻"
+    },
+    {
       "raw_hot": 53072,
       "num": 105835,
       "word": "辣条你站麻辣还是甜辣",
@@ -2755,12 +2867,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 35563,
+      "num": 194058,
+      "word": "上海半马跑成热血漫",
+      "onboard_time": 1745145502,
+      "rank": 34,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 34968,
       "num": 208531,
       "word": "马拉松为何这么火",
       "onboard_time": 1745129662,
       "rank": 19,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 34385,
+      "num": 106699,
+      "word": "半个动漫圈齐聚WAW团建",
+      "onboard_time": 1745146702,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 33319,
@@ -2785,6 +2913,14 @@
       "onboard_time": 1745143582,
       "rank": 19,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 29867,
+      "num": 163484,
+      "word": "苹果型身材如何穿搭",
+      "onboard_time": 1745147183,
+      "rank": 19,
+      "category": "时尚"
     },
     {
       "raw_hot": 27732,
@@ -2891,6 +3027,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 16119,
+      "num": 150227,
+      "word": "全美多地爆发抗议活动",
+      "onboard_time": 1745147723,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 16078,
       "num": 31702,
       "word": "刘奕畅为争取李沐宸撤回一个余宇涵",
@@ -2913,14 +3057,6 @@
       "onboard_time": 1745140703,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14241,
-      "num": 194058,
-      "word": "上海半马跑成热血漫",
-      "onboard_time": 1745145502,
-      "rank": 34,
-      "category": "运动健身"
     },
     {
       "raw_hot": 13650,
