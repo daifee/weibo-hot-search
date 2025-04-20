@@ -1,0 +1,410 @@
+{
+  "runTime": 1745131540799,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2069913,
+        "num": 2069913,
+        "word": "我不在乎五男一五女一我只在乎五一",
+        "onboard_time": 1745122523,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1104133,
+        "num": 1104133,
+        "word": "裴珠泫开球",
+        "onboard_time": 1745128822,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127196,
+        "num": 1039417,
+        "word": "关税高墙关不住民意",
+        "onboard_time": 1745123783,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1024064,
+        "num": 1024064,
+        "word": "上海涌入大量泰国人有景点翻红",
+        "onboard_time": 1745129302,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 659695,
+        "num": 659695,
+        "word": "李昀锐穿着戏服走红毯",
+        "onboard_time": 1745127023,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 624795,
+        "num": 624795,
+        "word": "刘涛为妈祖献寿桃",
+        "onboard_time": 1745116223,
+        "rank": 5,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 500572,
+        "num": 500572,
+        "word": "印度29亿卢比修的厕所",
+        "onboard_time": 1745122583,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 373563,
+        "num": 373563,
+        "word": "西瓜酱刷新了我对酱的认知",
+        "onboard_time": 1745129422,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 357828,
+        "num": 357828,
+        "word": "英国明确拒绝与中国脱钩",
+        "onboard_time": 1745121803,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 125489,
+        "num": 329475,
+        "word": "肥胖或取代吸烟成为第一致癌因素",
+        "onboard_time": 1745128822,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1967490,
+        "num": 326738,
+        "word": "关晓彤",
+        "onboard_time": 1745079693,
+        "rank": 10,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 1664416,
+        "num": 326338,
+        "word": "鹿晗关晓彤官宣微博都没删",
+        "onboard_time": 1745113524,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316983,
+        "num": 316983,
+        "word": "焦恩俊谈离婚原因",
+        "onboard_time": 1745124262,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259189,
+        "num": 259189,
+        "word": "山西一国道塌陷致2人死亡",
+        "onboard_time": 1745125884,
+        "rank": 13,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 253988,
+        "num": 253988,
+        "word": "黄杨钿甜冰湖重生杀青礼红毯",
+        "onboard_time": 1745126305,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213210,
+        "num": 213210,
+        "word": "段半夏终于见到父母了",
+        "onboard_time": 1745127383,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189290,
+        "num": 189290,
+        "word": "杨幂晒刮痧小猫",
+        "onboard_time": 1745121623,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51459,
+        "num": 179100,
+        "word": "阿迪达斯包揽上海半马四冠",
+        "onboard_time": 1745127563,
+        "rank": 17,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 178776,
+        "num": 178776,
+        "word": "余宇涵直播",
+        "onboard_time": 1745129601,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97126,
+        "num": 178725,
+        "word": "维生素D可以预防癌症吗",
+        "onboard_time": 1745126664,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1003637,
+        "num": 175061,
+        "word": "鹿晗",
+        "onboard_time": 1745104760,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336311,
+        "num": 174196,
+        "word": "邓超喊高瀚宇退圈吧",
+        "onboard_time": 1745127203,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224563,
+        "num": 172572,
+        "word": "女生列车上哭喊被爷爷摸",
+        "onboard_time": 1745104519,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170607,
+        "num": 170607,
+        "word": "也没人跟我说陈意涵老公这么会拍啊",
+        "onboard_time": 1745129422,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161384,
+        "num": 161384,
+        "word": "古茗求补货",
+        "onboard_time": 1745117843,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 160252,
+        "num": 160252,
+        "word": "19年找了百万公里女儿就在失踪点附近",
+        "onboard_time": 1745119583,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156061,
+        "num": 156061,
+        "word": "关晓彤主页访问量",
+        "onboard_time": 1745104878,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154614,
+        "num": 154614,
+        "word": "离婚后被孩子坚定选择有多感动",
+        "onboard_time": 1745123723,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149627,
+        "num": 149627,
+        "word": "三星延长工时每周工作64小时",
+        "onboard_time": 1745126125,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 144766,
+        "num": 144766,
+        "word": "伸腿阻止高铁关门女子被行拘",
+        "onboard_time": 1745115265,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34968,
+        "num": 144576,
+        "word": "马拉松为何这么火",
+        "onboard_time": 1745129662,
+        "rank": 30,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 131049,
+        "num": 141664,
+        "word": "成家上门男表面软饭实际硬茬",
+        "onboard_time": 1745131102,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 308216,
+        "num": 139745,
+        "word": "邓超发文让高瀚宇退圈",
+        "onboard_time": 1745131342,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150916,
+        "num": 135200,
+        "word": "女子术后突发癫痫死亡竟是丈夫投毒",
+        "onboard_time": 1745120543,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134851,
+        "num": 134851,
+        "word": "孟子义商务",
+        "onboard_time": 1745128403,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134745,
+        "num": 134745,
+        "word": "潮汕牛肉火锅 减脂餐",
+        "onboard_time": 1745130262,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 123697,
+        "num": 123697,
+        "word": "韩国修订劳动法规",
+        "onboard_time": 1745129362,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 122250,
+        "num": 122250,
+        "word": "难哄",
+        "onboard_time": 1745131342,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122003,
+        "num": 122003,
+        "word": "无忧渡热度",
+        "onboard_time": 1745130860,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19655,
+        "num": 111907,
+        "word": "为何世界秩序正走向崩溃",
+        "onboard_time": 1745131282,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111516,
+        "num": 111516,
+        "word": "男子拿邻居钥匙冒充房主4次卖电器",
+        "onboard_time": 1745127264,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103455,
+        "num": 103455,
+        "word": "每次月经前都很容易生气",
+        "onboard_time": 1745122164,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 96187,
+        "num": 96187,
+        "word": "大自然汉字里的谷雨生机",
+        "onboard_time": 1745126963,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95885,
+        "num": 95885,
+        "word": "孙俪把理解的浮夸都放在胡曼黎身上",
+        "onboard_time": 1745127743,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92802,
+        "num": 92802,
+        "word": "林孝埈夏训",
+        "onboard_time": 1745130141,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92103,
+        "num": 92103,
+        "word": "范玮琪跪谢粉丝",
+        "onboard_time": 1745127504,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 82719,
+        "num": 82719,
+        "word": "蜜雪冰城哈萨克斯坦首店开业",
+        "onboard_time": 1745124204,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 81569,
+        "num": 81569,
+        "word": "假装韩国人用中文胡说八道",
+        "onboard_time": 1745131222,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 79729,
+        "num": 79729,
+        "word": "义乌女老板对CNN霸气喊话美国客户",
+        "onboard_time": 1745113164,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 78323,
+        "num": 78323,
+        "word": "春天穿什么颜色最显白",
+        "onboard_time": 1745127983,
+        "rank": 49,
+        "category": "时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平东南亚三国行#"
+    }
+  }
+}
