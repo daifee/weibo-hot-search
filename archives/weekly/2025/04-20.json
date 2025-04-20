@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745127649514,
+  "endTime": 1745130758862,
   "band_list": [
     {
       "raw_hot": 31189573,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 3087329,
-      "num": 279683,
+      "num": 364003,
       "word": "鹿晗关晓彤官宣微博都没删",
       "onboard_time": 1745113524,
       "rank": 11,
@@ -123,6 +123,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1067134,
+      "num": 1067134,
+      "word": "裴珠泫开球",
+      "onboard_time": 1745128822,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 817201,
       "num": 247657,
       "word": "关晓彤主页访问量",
@@ -169,6 +177,14 @@
       "onboard_time": 1745119583,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 657964,
+      "num": 657964,
+      "word": "李昀锐穿着戏服走红毯",
+      "onboard_time": 1745127023,
+      "rank": 6,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 646043,
@@ -235,20 +251,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 483127,
-      "num": 483127,
-      "word": "李昀锐穿着戏服走红毯",
-      "onboard_time": 1745127023,
-      "rank": 6,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 476544,
       "num": 476544,
       "word": "乌克兰需要俄罗斯无条件全面停火",
       "onboard_time": 1745114244,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 474612,
+      "num": 474612,
+      "word": "上海涌入大量泰国人有景点翻红",
+      "onboard_time": 1745129302,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 468598,
@@ -265,6 +281,14 @@
       "onboard_time": 1745123723,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 438280,
+      "num": 438280,
+      "word": "西瓜酱刷新了我对酱的认知",
+      "onboard_time": 1745129422,
+      "rank": 8,
+      "category": "美食"
     },
     {
       "raw_hot": 431595,
@@ -331,12 +355,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 358271,
+      "num": 358271,
+      "word": "山西一国道塌陷致2人死亡",
+      "onboard_time": 1745125884,
+      "rank": 19,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 351159,
       "num": 351159,
       "word": "王楚钦说为什么全是擦网",
       "onboard_time": 1745069725,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 342180,
+      "num": 206695,
+      "word": "邓超喊高瀚宇退圈吧",
+      "onboard_time": 1745127203,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 331882,
@@ -384,6 +424,14 @@
       "word": "都让让悬疑剧纯元来了",
       "onboard_time": 1745121982,
       "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 306279,
+      "num": 306279,
+      "word": "黄杨钿甜冰湖重生杀青礼红毯",
+      "onboard_time": 1745126305,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -435,22 +483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 257057,
-      "num": 257057,
-      "word": "山西一国道塌陷致2人死亡",
-      "onboard_time": 1745125884,
-      "rank": 19,
-      "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 256347,
-      "num": 201952,
-      "word": "邓超喊高瀚宇退圈吧",
-      "onboard_time": 1745127203,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 255058,
       "num": 255058,
       "word": "任嘉伦宋祖儿都在努力剧宣",
@@ -499,6 +531,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 225109,
+      "num": 225109,
+      "word": "段半夏终于见到父母了",
+      "onboard_time": 1745127383,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 218229,
       "num": 218229,
       "word": "光猎",
@@ -529,6 +569,14 @@
       "onboard_time": 1745107582,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 210478,
+      "num": 210478,
+      "word": "余宇涵直播",
+      "onboard_time": 1745129601,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 210381,
@@ -569,14 +617,6 @@
       "onboard_time": 1745122164,
       "rank": 28,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 200865,
-      "num": 246328,
-      "word": "黄杨钿甜冰湖重生杀青礼红毯",
-      "onboard_time": 1745126305,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 200371,
@@ -691,6 +731,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 175989,
+      "num": 175989,
+      "word": "也没人跟我说陈意涵老公这么会拍啊",
+      "onboard_time": 1745129422,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175207,
       "num": 238083,
       "word": "夏梦好美",
@@ -787,20 +835,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 159902,
+      "num": 159902,
+      "word": "孟子义商务",
+      "onboard_time": 1745128403,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159434,
       "num": 159434,
       "word": "谷雨",
       "onboard_time": 1745105600,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 158632,
-      "num": 158632,
-      "word": "段半夏终于见到父母了",
-      "onboard_time": 1745127383,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 158303,
@@ -865,6 +913,14 @@
       "onboard_time": 1745126305,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152615,
+      "num": 152615,
+      "word": "李昀锐冰湖重生是最热闹的杀青",
+      "onboard_time": 1745128702,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 150020,
@@ -964,7 +1020,7 @@
     },
     {
       "raw_hot": 135858,
-      "num": 135858,
+      "num": 210460,
       "word": "维生素D可以预防癌症吗",
       "onboard_time": 1745126664,
       "rank": 42,
@@ -1139,6 +1195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118280,
+      "num": 244034,
+      "word": "男子拿邻居钥匙冒充房主4次卖电器",
+      "onboard_time": 1745127264,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116345,
       "num": 142305,
       "word": "孙颖莎跟裁判示意Notouch",
@@ -1164,7 +1228,7 @@
     },
     {
       "raw_hot": 113429,
-      "num": 113429,
+      "num": 177476,
       "word": "范玮琪跪谢粉丝",
       "onboard_time": 1745127504,
       "rank": 47,
@@ -1187,6 +1251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109756,
+      "num": 109756,
+      "word": "潮汕牛肉火锅 减脂餐",
+      "onboard_time": 1745130262,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 109536,
       "num": 109536,
       "word": "王曼昱签名战术性撤退",
@@ -1195,12 +1267,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109383,
+      "num": 109383,
+      "word": "孙俪把理解的浮夸都放在胡曼黎身上",
+      "onboard_time": 1745127743,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107200,
       "num": 107200,
       "word": "校方回应醉酒男子深夜强闯女寝",
       "onboard_time": 1745106801,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106919,
+      "num": 176121,
+      "word": "肥胖或取代吸烟成为第一致癌因素",
+      "onboard_time": 1745128822,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 106702,
@@ -1347,12 +1435,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 96559,
+      "num": 96559,
+      "word": "韩国修订劳动法规",
+      "onboard_time": 1745129362,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 94751,
       "num": 94751,
       "word": "黄子弘凡把流星镶在了身上",
       "onboard_time": 1745080772,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 94102,
+      "num": 94102,
+      "word": "五一怎么反向旅游",
+      "onboard_time": 1745129903,
+      "rank": 44,
+      "category": "旅游"
     },
     {
       "raw_hot": 93010,
@@ -1419,6 +1523,30 @@
       "category": "演出"
     },
     {
+      "raw_hot": 84826,
+      "num": 84826,
+      "word": "林孝埈夏训",
+      "onboard_time": 1745130141,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 82655,
+      "num": 82655,
+      "word": "春天穿什么颜色最显白",
+      "onboard_time": 1745127983,
+      "rank": 46,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 81046,
+      "num": 81046,
+      "word": "无忧渡绮恋版预告",
+      "onboard_time": 1745127803,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 80375,
       "num": 196125,
       "word": "熬夜怎么调理",
@@ -1483,6 +1611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 64284,
+      "num": 211608,
+      "word": "阿迪达斯包揽上海半马四冠",
+      "onboard_time": 1745127563,
+      "rank": 34,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 63137,
       "num": 223180,
       "word": "男子钓鱼差点钓到扬子鳄",
@@ -1505,14 +1641,6 @@
       "onboard_time": 1745112562,
       "rank": 19,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 58175,
-      "num": 244034,
-      "word": "男子拿邻居钥匙冒充房主4次卖电器",
-      "onboard_time": 1745127264,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 58011,
@@ -1635,14 +1763,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 43868,
-      "num": 191242,
-      "word": "阿迪达斯包揽上海半马四冠",
-      "onboard_time": 1745127563,
-      "rank": 34,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 43610,
       "num": 43610,
       "word": "山西一处塌方一货车司机遇难",
@@ -1697,6 +1817,14 @@
       "onboard_time": 1745127142,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 33617,
+      "num": 208531,
+      "word": "马拉松为何这么火",
+      "onboard_time": 1745129662,
+      "rank": 19,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 33319,
@@ -1825,6 +1953,14 @@
       "onboard_time": 1745093175,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 12590,
+      "num": 109440,
+      "word": "60%科切拉门票是分期购买",
+      "onboard_time": 1745130082,
+      "rank": 39,
+      "category": "演出"
     }
   ],
   "hotgov_list": [
