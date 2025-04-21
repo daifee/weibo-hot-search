@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/21 16:33:47
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/21 16:46:37
 </p>
 </blockquote>
 <p>
@@ -507,6 +507,12 @@ C罗点评甲亢哥中国行（热度：2472029）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E7%9A%87%E6%96%B9%E6%B5%8E%E5%90%84%E5%8E%BB%E4%B8%96%23" target="weibo">
+教皇方济各去世（热度：2375467）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3SU7Ultra%E6%92%9E%E9%A3%9E%E7%94%B5%E5%8A%A8%E8%BD%A6%E5%8F%97%E5%AE%B3%E8%80%85%E5%8E%BB%E4%B8%96%23" target="weibo">
 小米SU7Ultra撞飞电动车受害者去世（热度：2374466）
 </a>
@@ -575,12 +581,6 @@ C罗点评甲亢哥中国行（热度：2472029）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%BB%96%E4%B8%8D%E6%98%AF%E6%95%85%E6%84%8F%E7%9A%84%23" target="weibo">
 特朗普说他不是故意的（热度：2281087）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E7%9A%87%E6%96%B9%E6%B5%8E%E5%90%84%E5%8E%BB%E4%B8%96%23" target="weibo">
-教皇方济各去世（热度：2274027）
 </a>
 </li>
 
@@ -1341,14 +1341,14 @@ C罗点评甲亢哥中国行（热度：2472029）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23RedVelvet%20%E8%A7%A3%E6%95%A3%23" target="weibo">
-RedVelvet 解散（热度：1601334）
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E8%AF%B4%E5%AE%8B%E7%A5%96%E5%84%BF%E8%82%BF%E4%BA%86%23" target="weibo">
+网友说宋祖儿肿了（热度：1604512）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E8%AF%B4%E5%AE%8B%E7%A5%96%E5%84%BF%E8%82%BF%E4%BA%86%23" target="weibo">
-网友说宋祖儿肿了（热度：1598176）
+<a href="https://s.weibo.com/weibo?q=%23RedVelvet%20%E8%A7%A3%E6%95%A3%23" target="weibo">
+RedVelvet 解散（热度：1601334）
 </a>
 </li>
 

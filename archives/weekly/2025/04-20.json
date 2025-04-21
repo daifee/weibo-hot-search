@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745224427387,
+  "endTime": 1745225197096,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -115,20 +115,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2375467,
+      "num": 2375467,
+      "word": "教皇方济各去世",
+      "onboard_time": 1745223021,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 2293147,
       "num": 2293147,
       "word": "国乒丢冠",
       "onboard_time": 1745156790,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 2274027,
-      "num": 2274027,
-      "word": "教皇方济各去世",
-      "onboard_time": 1745223021,
-      "rank": 0,
-      "category": "国际时政"
     },
     {
       "raw_hot": 2045928,
@@ -179,7 +179,7 @@
       "category": "艺人,民生新闻"
     },
     {
-      "raw_hot": 1598176,
+      "raw_hot": 1604512,
       "num": 372499,
       "word": "网友说宋祖儿肿了",
       "onboard_time": 1745222482,
@@ -699,6 +699,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 642634,
+      "num": 642634,
+      "word": "会计靠偷再来1包奖券侵占180万货款",
+      "onboard_time": 1745219543,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 636485,
       "num": 573702,
       "word": "爱奇艺电视剧 张康乐",
@@ -745,6 +753,14 @@
       "onboard_time": 1745134463,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 576432,
+      "num": 576432,
+      "word": "人民日报评男子地铁辱骂乘客衣服脏",
+      "onboard_time": 1745220082,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 573288,
@@ -825,6 +841,14 @@
       "onboard_time": 1745148322,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 543837,
+      "num": 300361,
+      "word": "网红滕顺强夫妇被封号",
+      "onboard_time": 1745224403,
+      "rank": 49,
+      "category": "网红"
     },
     {
       "raw_hot": 541852,
@@ -985,22 +1009,6 @@
       "onboard_time": 1745158650,
       "rank": 23,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 441264,
-      "num": 441264,
-      "word": "会计靠偷再来1包奖券侵占180万货款",
-      "onboard_time": 1745219543,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 440357,
-      "num": 440357,
-      "word": "人民日报评男子地铁辱骂乘客衣服脏",
-      "onboard_time": 1745220082,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 438280,
@@ -1427,12 +1435,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 300655,
+      "num": 388721,
+      "word": "黄金暴涨原因找到了",
+      "onboard_time": 1745223082,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
       "raw_hot": 300177,
       "num": 300177,
       "word": "这周要上六天班",
       "onboard_time": 1745193922,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 300097,
+      "num": 300097,
+      "word": "模仿金秀贤的小姐姐",
+      "onboard_time": 1745223142,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 299472,
@@ -1507,6 +1531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 287555,
+      "num": 287555,
+      "word": "宁德时代",
+      "onboard_time": 1745222781,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 285609,
       "num": 260794,
       "word": "树莓衮衮衮",
@@ -1561,14 +1593,6 @@
       "onboard_time": 1745200462,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 271553,
-      "num": 388721,
-      "word": "黄金暴涨原因找到了",
-      "onboard_time": 1745223082,
-      "rank": 8,
-      "category": "财经"
     },
     {
       "raw_hot": 270442,
@@ -1651,14 +1675,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 258295,
-      "num": 258295,
-      "word": "模仿金秀贤的小姐姐",
-      "onboard_time": 1745223142,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 255967,
       "num": 255967,
       "word": "极限挑战",
@@ -1681,14 +1697,6 @@
       "onboard_time": 1745073265,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 248856,
-      "num": 248856,
-      "word": "宁德时代",
-      "onboard_time": 1745222781,
-      "rank": 35,
-      "category": "汽车"
     },
     {
       "raw_hot": 248293,
@@ -1899,12 +1907,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 217591,
+      "num": 217591,
+      "word": "美元跌麻了",
+      "onboard_time": 1745225122,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 216733,
       "num": 216733,
       "word": "苍兰诀作者谈真正的大女主文",
       "onboard_time": 1745145384,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 215910,
+      "num": 215910,
+      "word": "终于知道为什么好多婚纱胳肢窝破了",
+      "onboard_time": 1745224101,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 215851,
@@ -1996,7 +2020,7 @@
     },
     {
       "raw_hot": 211332,
-      "num": 211332,
+      "num": 293032,
       "word": "2025华表奖官宣",
       "onboard_time": 1745218281,
       "rank": 32,
@@ -2041,6 +2065,14 @@
       "onboard_time": 1745112744,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 209197,
+      "num": 209197,
+      "word": "王者联动三丽鸥家族送阿古朵皮肤",
+      "onboard_time": 1745225122,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 208343,
@@ -2188,7 +2220,7 @@
     },
     {
       "raw_hot": 199241,
-      "num": 233861,
+      "num": 300424,
       "word": "中国香港事务不容美方干涉",
       "onboard_time": 1745224283,
       "rank": 37,
@@ -2305,6 +2337,14 @@
       "onboard_time": 1745222061,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 196294,
+      "num": 196294,
+      "word": "去当老师吧 学生会好奇你的一切",
+      "onboard_time": 1745224582,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 195896,
@@ -2449,14 +2489,6 @@
       "onboard_time": 1745155530,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 191086,
-      "num": 191086,
-      "word": "终于知道为什么好多婚纱胳肢窝破了",
-      "onboard_time": 1745224101,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 190220,
@@ -3075,6 +3107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161216,
+      "num": 161216,
+      "word": "章昊有教资的含金量还在上升",
+      "onboard_time": 1745224881,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161060,
       "num": 161060,
       "word": "五五开黑玄学拼星星",
@@ -3529,14 +3569,6 @@
       "onboard_time": 1745208263,
       "rank": 26,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 142938,
-      "num": 142938,
-      "word": "网红滕顺强夫妇被封号",
-      "onboard_time": 1745224403,
-      "rank": 49,
-      "category": "网红"
     },
     {
       "raw_hot": 142673,
@@ -4483,6 +4515,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 102825,
+      "num": 343343,
+      "word": "杭州珠宝市场商户称黄金越涨他们越亏",
+      "onboard_time": 1745224043,
+      "rank": 19,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 102673,
       "num": 102673,
       "word": "我真的不能停止玩手机",
@@ -5003,6 +5043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71212,
+      "num": 309995,
+      "word": "被男友杀害女教师家属发声",
+      "onboard_time": 1745223562,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70513,
       "num": 234888,
       "word": "阻止高铁关门是漠视公共安全风险",
@@ -5057,6 +5105,14 @@
       "onboard_time": 1745223384,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 68381,
+      "num": 178616,
+      "word": "会计伙同业务员侵占百万货款被判3年",
+      "onboard_time": 1745225181,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 68089,
@@ -5219,14 +5275,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 57911,
-      "num": 309995,
-      "word": "被男友杀害女教师家属发声",
-      "onboard_time": 1745223562,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 57318,
       "num": 57318,
       "word": "热点观点",
@@ -5249,14 +5297,6 @@
       "onboard_time": 1745217021,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 56977,
-      "num": 343343,
-      "word": "杭州珠宝市场商户称黄金越涨他们越亏",
-      "onboard_time": 1745224043,
-      "rank": 19,
-      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 55868,
@@ -5667,6 +5707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40164,
+      "num": 290313,
+      "word": "无忧渡名场面 你这个坏女人",
+      "onboard_time": 1745220982,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 40117,
       "num": 242639,
       "word": "美联储被总统控制会发生什么",
@@ -5883,6 +5931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 28301,
+      "num": 289018,
+      "word": "考研怎么树立信心",
+      "onboard_time": 1745224942,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 28164,
       "num": 244721,
       "word": "美国进口商称加征关税将致经济崩溃",
@@ -5937,6 +5993,14 @@
       "onboard_time": 1745213544,
       "rank": 18,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 26526,
+      "num": 216172,
+      "word": "教资报考的注意事项有哪些",
+      "onboard_time": 1745224460,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 26328,
@@ -6217,6 +6281,14 @@
       "onboard_time": 1745222482,
       "rank": 14,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 14661,
+      "num": 212419,
+      "word": "补气血有顺序",
+      "onboard_time": 1745224881,
+      "rank": 38,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 14340,
