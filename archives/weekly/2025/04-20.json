@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745235389992,
+  "endTime": 1745239636774,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 3018738,
-      "num": 293398,
+      "num": 300200,
       "word": "关晓彤 鹿晗",
       "onboard_time": 1745230340,
       "rank": 10,
@@ -155,6 +155,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1841039,
+      "num": 1841039,
+      "word": "美团再发说明",
+      "onboard_time": 1745236523,
+      "rank": 0,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1817017,
       "num": 1817017,
       "word": "极限挑战官方号卖了",
@@ -168,6 +176,14 @@
       "word": "美团外卖",
       "onboard_time": 1745202561,
       "rank": 30,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 1778323,
+      "num": 1778323,
+      "word": "刘强东亲自送外卖",
+      "onboard_time": 1745237902,
+      "rank": 1,
       "category": "互联网"
     },
     {
@@ -267,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1386210,
+      "num": 1386210,
+      "word": "亚朵花洒",
+      "onboard_time": 1745235022,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1345788,
       "num": 1345788,
       "word": "美元跌麻了",
@@ -313,6 +337,14 @@
       "onboard_time": 1745227821,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1280990,
+      "num": 292530,
+      "word": "无手换卫生巾女孩被开黄腔",
+      "onboard_time": 1745237421,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1222159,
@@ -369,6 +401,14 @@
       "onboard_time": 1745066722,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1118714,
+      "num": 280764,
+      "word": "房琪 对不起",
+      "onboard_time": 1745234301,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 1104133,
@@ -521,14 +561,6 @@
       "onboard_time": 1745210125,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 824045,
-      "num": 208567,
-      "word": "房琪 对不起",
-      "onboard_time": 1745234301,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 817201,
@@ -1099,6 +1131,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 435905,
+      "num": 435905,
+      "word": "蒯曼落选多哈世乒赛",
+      "onboard_time": 1745236162,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 431595,
       "num": 259919,
       "word": "杨幂晒刮痧小猫",
@@ -1459,6 +1499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 326404,
+      "num": 205699,
+      "word": "京东回应刘强东亲自送外卖",
+      "onboard_time": 1745238322,
+      "rank": 21,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 325612,
       "num": 251956,
       "word": "35岁程序员长期熬夜脑干出血",
@@ -1481,6 +1529,14 @@
       "onboard_time": 1745157809,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 318458,
+      "num": 318458,
+      "word": "父母离婚30年才和女儿坦白",
+      "onboard_time": 1745236583,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 316290,
@@ -1528,6 +1584,14 @@
       "word": "都让让悬疑剧纯元来了",
       "onboard_time": 1745121982,
       "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 307621,
+      "num": 307621,
+      "word": "万花世界",
+      "onboard_time": 1745238142,
+      "rank": 9,
       "category": "剧集"
     },
     {
@@ -1843,6 +1907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 252575,
+      "num": 252575,
+      "word": "凭什么X200s是苹果换机首选",
+      "onboard_time": 1745235442,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
       "raw_hot": 251817,
       "num": 358596,
       "word": "2025华表奖官宣",
@@ -1921,6 +1993,14 @@
       "onboard_time": 1745141241,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 239343,
+      "num": 239343,
+      "word": "从苹果换到vivoX200s是种什么体验",
+      "onboard_time": 1745238923,
+      "rank": 17,
+      "category": "数码"
     },
     {
       "raw_hot": 238463,
@@ -2041,6 +2121,14 @@
       "onboard_time": 1745127383,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 221871,
+      "num": 157603,
+      "word": "LGD为九尾维权",
+      "onboard_time": 1745238264,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 220637,
@@ -2187,6 +2275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210710,
+      "num": 258581,
+      "word": "鞠婧祎官宣两部新剧",
+      "onboard_time": 1745239462,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210478,
       "num": 210478,
       "word": "余宇涵直播",
@@ -2233,6 +2329,14 @@
       "onboard_time": 1745225122,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 208707,
+      "num": 208707,
+      "word": "尹恩惠40岁状态",
+      "onboard_time": 1745239043,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 208343,
@@ -2451,6 +2555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198366,
+      "num": 198366,
+      "word": "失去美国订单后海外订单量竟然多了",
+      "onboard_time": 1745238442,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 198277,
       "num": 198277,
       "word": "一诺满分苍",
@@ -2665,6 +2777,14 @@
       "onboard_time": 1745228361,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 191746,
+      "num": 191746,
+      "word": "我爱的人嫁给了我对家",
+      "onboard_time": 1745236941,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 191526,
@@ -3000,6 +3120,14 @@
       "word": "也没人跟我说陈意涵老公这么会拍啊",
       "onboard_time": 1745129422,
       "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 175855,
+      "num": 175855,
+      "word": "来战官宣",
+      "onboard_time": 1745237242,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -3475,6 +3603,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 157890,
+      "num": 157890,
+      "word": "蛮好的人生",
+      "onboard_time": 1745238383,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157805,
       "num": 235368,
       "word": "白敬亭五月天合照",
@@ -3691,6 +3827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152902,
+      "num": 152902,
+      "word": "邓为到达深圳路透",
+      "onboard_time": 1745239162,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152615,
       "num": 152615,
       "word": "李昀锐冰湖重生是最热闹的杀青",
@@ -3859,6 +4003,14 @@
       "category": "健康医疗,民生新闻"
     },
     {
+      "raw_hot": 145764,
+      "num": 145764,
+      "word": "李马克 痛楼",
+      "onboard_time": 1745235862,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145129,
       "num": 145129,
       "word": "管乐事业运",
@@ -3937,6 +4089,14 @@
       "onboard_time": 1745153665,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 139944,
+      "num": 139944,
+      "word": "林依轮模仿孙颖莎海底捞月",
+      "onboard_time": 1745238684,
+      "rank": 44,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 139806,
@@ -4163,6 +4323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132860,
+      "num": 157081,
+      "word": "小车逆行与货车相撞两人遇难",
+      "onboard_time": 1745237602,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132818,
       "num": 132818,
       "word": "韩国修订劳动法规",
@@ -4363,6 +4531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127785,
+      "num": 127785,
+      "word": "来战",
+      "onboard_time": 1745237482,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127583,
       "num": 127583,
       "word": "无忧渡 画中世界",
@@ -4435,6 +4611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125253,
+      "num": 125253,
+      "word": "花花怎么越来越方了",
+      "onboard_time": 1745239583,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 124422,
       "num": 124422,
       "word": "王曼昱博客天下封面预告",
@@ -4497,14 +4681,6 @@
       "onboard_time": 1745195065,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 121160,
-      "num": 121160,
-      "word": "亚朵花洒",
-      "onboard_time": 1745235022,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 120988,
@@ -5827,12 +6003,28 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 55638,
+      "num": 157469,
+      "word": "花海空降",
+      "onboard_time": 1745237783,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 55381,
       "num": 216686,
       "word": "方文山说AI可部分取代词作者",
       "onboard_time": 1745232861,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 54448,
+      "num": 157889,
+      "word": "遭前男友泼汽油毁容女生最新发声",
+      "onboard_time": 1745237902,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 54406,
@@ -6033,6 +6225,14 @@
       "onboard_time": 1745134103,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 48985,
+      "num": 147625,
+      "word": "X200Ultra两亿长焦变V单",
+      "onboard_time": 1745236883,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 48714,
@@ -6260,7 +6460,7 @@
     },
     {
       "raw_hot": 41086,
-      "num": 427721,
+      "num": 1499689,
       "word": "何以中国闽山闽水物华新",
       "onboard_time": 1745217142,
       "rank": 2,
@@ -6531,6 +6731,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 30830,
+      "num": 214116,
+      "word": "反特朗普抗议席卷美国50州",
+      "onboard_time": 1745239043,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 30777,
       "num": 2343013,
       "word": "何以中国走进福建",
@@ -6707,6 +6915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25072,
+      "num": 223687,
+      "word": "人形机器人进入家庭还有多远",
+      "onboard_time": 1745239283,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 24761,
       "num": 239197,
       "word": "美政府计划再减哈佛10亿美元资助",
@@ -6769,6 +6985,14 @@
       "onboard_time": 1745234542,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 21885,
+      "num": 148118,
+      "word": "教皇方济各最后一次露面",
+      "onboard_time": 1745239402,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 21883,
@@ -6849,6 +7073,14 @@
       "onboard_time": 1745131282,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 19419,
+      "num": 122547,
+      "word": "朱珠女王勇敢做自己",
+      "onboard_time": 1745238203,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 19168,
@@ -7091,6 +7323,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 9828,
+      "num": 148909,
+      "word": "千奇百怪的骗局",
+      "onboard_time": 1745239343,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 8414,
       "num": 158892,
       "word": "保洁休息区不是福利而是权利",
@@ -7139,6 +7379,9 @@
     },
     {
       "word": "#习主席东南亚之行纪实#"
+    },
+    {
+      "word": "#谱写周边命运共同体建设新篇章#"
     }
   ]
 }
