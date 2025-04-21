@@ -1,0 +1,410 @@
+{
+  "runTime": 1745240545528,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2225424,
+        "num": 2225424,
+        "word": "刘强东亲自送外卖",
+        "onboard_time": 1745237902,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1766303,
+        "num": 1766303,
+        "word": "美团再发说明",
+        "onboard_time": 1745236523,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 2499,
+        "num": 1362385,
+        "word": "那些你不知道的北京地儿",
+        "onboard_time": 1745196324,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1131907,
+        "num": 1131907,
+        "word": "亚朵花洒",
+        "onboard_time": 1745235022,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 612854,
+        "num": 612854,
+        "word": "京东回应刘强东亲自送外卖",
+        "onboard_time": 1745238322,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 410667,
+        "num": 410667,
+        "word": "蒯曼落选多哈世乒赛",
+        "onboard_time": 1745236162,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 402629,
+        "num": 402629,
+        "word": "美元跌麻了",
+        "onboard_time": 1745225122,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 399762,
+        "num": 399762,
+        "word": "金饰克价已涨到1039元",
+        "onboard_time": 1745226741,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 351385,
+        "num": 351385,
+        "word": "鞠婧祎官宣两部新剧",
+        "onboard_time": 1745239462,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 346297,
+        "num": 346297,
+        "word": "父母离婚30年才和女儿坦白",
+        "onboard_time": 1745236583,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23514,
+        "num": 342312,
+        "word": "何以中国闽山闽水物华新",
+        "onboard_time": 1745217142,
+        "rank": 10,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 2664662,
+        "num": 337724,
+        "word": "关晓彤 鹿晗",
+        "onboard_time": 1745230340,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38777,
+        "num": 328308,
+        "word": "美团喊话造谣引流",
+        "onboard_time": 1745240183,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1123817,
+        "num": 318688,
+        "word": "无手换卫生巾女孩被开黄腔",
+        "onboard_time": 1745237421,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1006802,
+        "num": 314527,
+        "word": "房琪 对不起",
+        "onboard_time": 1745234301,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 453537,
+        "num": 307405,
+        "word": "教皇方济各去世",
+        "onboard_time": 1745223021,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 390914,
+        "num": 301953,
+        "word": "网友说宋祖儿肿了",
+        "onboard_time": 1745222482,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 296636,
+        "num": 296636,
+        "word": "从苹果换到vivoX200s是种什么体验",
+        "onboard_time": 1745238923,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 250922,
+        "num": 250922,
+        "word": "凭什么X200s是苹果换机首选",
+        "onboard_time": 1745235442,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 57082,
+        "num": 250843,
+        "word": "反特朗普抗议席卷美国50州",
+        "onboard_time": 1745239043,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 305798,
+        "num": 250252,
+        "word": "尹恩惠40岁状态",
+        "onboard_time": 1745239043,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 359271,
+        "num": 249884,
+        "word": "舒肤佳 王楚钦",
+        "onboard_time": 1745227821,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 316629,
+        "num": 249709,
+        "word": "失去美国订单后海外订单量竟然多了",
+        "onboard_time": 1745238442,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 20199,
+        "num": 249413,
+        "word": "人形机器人进入家庭还有多远",
+        "onboard_time": 1745239283,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 249078,
+        "num": 249078,
+        "word": "LGD为九尾维权",
+        "onboard_time": 1745238264,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 278007,
+        "num": 248993,
+        "word": "张根硕分享抗癌抗躁郁经历",
+        "onboard_time": 1745240243,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269029,
+        "num": 248987,
+        "word": "赵磊婚礼邀请函曝光",
+        "onboard_time": 1745222781,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248634,
+        "num": 248634,
+        "word": "万花世界",
+        "onboard_time": 1745238142,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198653,
+        "num": 220001,
+        "word": "我爱的人嫁给了我对家",
+        "onboard_time": 1745236941,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186685,
+        "num": 219611,
+        "word": "万花世界官宣",
+        "onboard_time": 1745239823,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219275,
+        "num": 219275,
+        "word": "关晓彤没发",
+        "onboard_time": 1745165142,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204196,
+        "num": 204196,
+        "word": "李马克 痛楼",
+        "onboard_time": 1745235862,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187038,
+        "num": 187038,
+        "word": "店员穿露背短裙不戴口罩做奶茶",
+        "onboard_time": 1745228542,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141114,
+        "num": 183343,
+        "word": "折腰预约",
+        "onboard_time": 1745227702,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113449,
+        "num": 181474,
+        "word": "97岁老教师放弃百万富翁机会",
+        "onboard_time": 1745216362,
+        "rank": 34,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 181336,
+        "num": 181336,
+        "word": "无忧渡直播",
+        "onboard_time": 1745214502,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169673,
+        "num": 169673,
+        "word": "马伯骞给弟弟婚礼当伴郎",
+        "onboard_time": 1745240423,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24770,
+        "num": 155810,
+        "word": "小哥摔伤骨折好心女子伸出援手",
+        "onboard_time": 1745240364,
+        "rank": 37,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 26354,
+        "num": 154051,
+        "word": "教皇方济各最后一次露面",
+        "onboard_time": 1745239402,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 18624,
+        "num": 153010,
+        "word": "酒都春光好",
+        "onboard_time": 1745240483,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152488,
+        "num": 152488,
+        "word": "大爷下单550只鸡退款被拒后连夜搭棚",
+        "onboard_time": 1745227102,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14364,
+        "num": 146878,
+        "word": "钠离子电池的工作原理及前景如何",
+        "onboard_time": 1745240483,
+        "rank": 41,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 163435,
+        "num": 146390,
+        "word": "WBG战胜JDG",
+        "onboard_time": 1745240483,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 32166,
+        "num": 145858,
+        "word": "X200Ultra两亿长焦变V单",
+        "onboard_time": 1745236883,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 145756,
+        "num": 145756,
+        "word": "vivo发布会",
+        "onboard_time": 1745233461,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 151316,
+        "num": 145684,
+        "word": "花花怎么越来越方了",
+        "onboard_time": 1745239583,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104901,
+        "num": 135721,
+        "word": "河北文旅发了孙颖莎",
+        "onboard_time": 1745240183,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134963,
+        "num": 134963,
+        "word": "35岁程序员长期熬夜脑干出血",
+        "onboard_time": 1745226141,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117457,
+        "num": 117457,
+        "word": "无忧渡",
+        "onboard_time": 1745231662,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19450,
+        "num": 117445,
+        "word": "朱珠女王勇敢做自己",
+        "onboard_time": 1745238203,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#文明因交流而多彩因互鉴而丰富#"
+    }
+  }
+}

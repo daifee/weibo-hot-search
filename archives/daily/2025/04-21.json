@@ -1,6 +1,6 @@
 {
   "startTime": 1745166450412,
-  "endTime": 1745239636774,
+  "endTime": 1745240545528,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 3018738,
-      "num": 300200,
+      "num": 337724,
       "word": "关晓彤 鹿晗",
       "onboard_time": 1745230340,
       "rank": 10,
@@ -49,6 +49,14 @@
       "onboard_time": 1745223021,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 2225424,
+      "num": 2225424,
+      "word": "刘强东亲自送外卖",
+      "onboard_time": 1745237902,
+      "rank": 1,
+      "category": "互联网"
     },
     {
       "raw_hot": 1879015,
@@ -80,14 +88,6 @@
       "word": "美团外卖",
       "onboard_time": 1745202561,
       "rank": 30,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 1778323,
-      "num": 1778323,
-      "word": "刘强东亲自送外卖",
-      "onboard_time": 1745237902,
-      "rank": 1,
       "category": "互联网"
     },
     {
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 1280990,
-      "num": 292530,
+      "num": 318688,
       "word": "无手换卫生巾女孩被开黄腔",
       "onboard_time": 1745237421,
       "rank": 11,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 1118714,
-      "num": 280764,
+      "num": 314527,
       "word": "房琪 对不起",
       "onboard_time": 1745234301,
       "rank": 31,
@@ -459,6 +459,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 612854,
+      "num": 612854,
+      "word": "京东回应刘强东亲自送外卖",
+      "onboard_time": 1745238322,
+      "rank": 21,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 599010,
       "num": 319170,
       "word": "反诈老陈回应年收入",
@@ -715,6 +723,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 351385,
+      "num": 351385,
+      "word": "鞠婧祎官宣两部新剧",
+      "onboard_time": 1745239462,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 346297,
+      "num": 346297,
+      "word": "父母离婚30年才和女儿坦白",
+      "onboard_time": 1745236583,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 343471,
       "num": 343471,
       "word": "勇士vs火箭",
@@ -763,14 +787,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 326404,
-      "num": 205699,
-      "word": "京东回应刘强东亲自送外卖",
-      "onboard_time": 1745238322,
-      "rank": 21,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 325612,
       "num": 251956,
       "word": "35岁程序员长期熬夜脑干出血",
@@ -787,12 +803,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 318458,
-      "num": 318458,
-      "word": "父母离婚30年才和女儿坦白",
-      "onboard_time": 1745236583,
-      "rank": 8,
-      "category": "剧集"
+      "raw_hot": 316629,
+      "num": 249709,
+      "word": "失去美国订单后海外订单量竟然多了",
+      "onboard_time": 1745238442,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 307621,
@@ -801,6 +817,14 @@
       "onboard_time": 1745238142,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 305798,
+      "num": 250252,
+      "word": "尹恩惠40岁状态",
+      "onboard_time": 1745239043,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 304842,
@@ -851,6 +875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 296636,
+      "num": 296636,
+      "word": "从苹果换到vivoX200s是种什么体验",
+      "onboard_time": 1745238923,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 293374,
       "num": 305405,
       "word": "跟着樊振东的歌声打卡广东春天",
@@ -881,6 +913,14 @@
       "onboard_time": 1745205923,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 278007,
+      "num": 248993,
+      "word": "张根硕分享抗癌抗躁郁经历",
+      "onboard_time": 1745240243,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 276197,
@@ -995,6 +1035,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 249078,
+      "num": 249078,
+      "word": "LGD为九尾维权",
+      "onboard_time": 1745238264,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 247065,
       "num": 247065,
       "word": "孙颖莎雨果合照",
@@ -1033,14 +1081,6 @@
       "onboard_time": 1745144363,
       "rank": 19,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 239343,
-      "num": 239343,
-      "word": "从苹果换到vivoX200s是种什么体验",
-      "onboard_time": 1745238923,
-      "rank": 17,
-      "category": "数码"
     },
     {
       "raw_hot": 238463,
@@ -1139,14 +1179,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 221871,
-      "num": 157603,
-      "word": "LGD为九尾维权",
-      "onboard_time": 1745238264,
-      "rank": 30,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 220637,
       "num": 331761,
       "word": "旅行AI拉齐了全家五一出游颗粒度",
@@ -1219,14 +1251,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 210710,
-      "num": 258581,
-      "word": "鞠婧祎官宣两部新剧",
-      "onboard_time": 1745239462,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 209715,
       "num": 209715,
       "word": "黄金",
@@ -1241,14 +1265,6 @@
       "onboard_time": 1745225122,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 208707,
-      "num": 208707,
-      "word": "尹恩惠40岁状态",
-      "onboard_time": 1745239043,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 208343,
@@ -1289,6 +1305,14 @@
       "onboard_time": 1745230281,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 204196,
+      "num": 204196,
+      "word": "李马克 痛楼",
+      "onboard_time": 1745235862,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 203636,
@@ -1347,20 +1371,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 198653,
+      "num": 220001,
+      "word": "我爱的人嫁给了我对家",
+      "onboard_time": 1745236941,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198628,
       "num": 198628,
       "word": "骑士1比0热火",
       "onboard_time": 1745209224,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 198366,
-      "num": 198366,
-      "word": "失去美国订单后海外订单量竟然多了",
-      "onboard_time": 1745238442,
-      "rank": 24,
-      "category": "国内时政"
     },
     {
       "raw_hot": 198165,
@@ -1467,14 +1491,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 191746,
-      "num": 191746,
-      "word": "我爱的人嫁给了我对家",
-      "onboard_time": 1745236941,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 191493,
       "num": 191493,
       "word": "A股",
@@ -1545,6 +1561,14 @@
       "onboard_time": 1745233281,
       "rank": 20,
       "category": "电影"
+    },
+    {
+      "raw_hot": 186685,
+      "num": 219611,
+      "word": "万花世界官宣",
+      "onboard_time": 1745239823,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 183496,
@@ -1723,6 +1747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169673,
+      "num": 169673,
+      "word": "马伯骞给弟弟婚礼当伴郎",
+      "onboard_time": 1745240423,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168143,
       "num": 168143,
       "word": "谁能拒绝一只情绪稳定的小猪",
@@ -1777,6 +1809,14 @@
       "onboard_time": 1745224881,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 163435,
+      "num": 146390,
+      "word": "WBG战胜JDG",
+      "onboard_time": 1745240483,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 163111,
@@ -1971,6 +2011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151316,
+      "num": 145684,
+      "word": "花花怎么越来越方了",
+      "onboard_time": 1745239583,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 150670,
       "num": 370104,
       "word": "飞猪AI泄露五一最该囤的机票",
@@ -2017,14 +2065,6 @@
       "onboard_time": 1745208622,
       "rank": 42,
       "category": "健康医疗,民生新闻"
-    },
-    {
-      "raw_hot": 145764,
-      "num": 145764,
-      "word": "李马克 痛楼",
-      "onboard_time": 1745235862,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 145129,
@@ -2227,14 +2267,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 125253,
-      "num": 125253,
-      "word": "花花怎么越来越方了",
-      "onboard_time": 1745239583,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 124422,
       "num": 124422,
       "word": "王曼昱博客天下封面预告",
@@ -2425,6 +2457,14 @@
       "onboard_time": 1745158589,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 104901,
+      "num": 135721,
+      "word": "河北文旅发了孙颖莎",
+      "onboard_time": 1745240183,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 104005,
@@ -2803,6 +2843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57082,
+      "num": 250843,
+      "word": "反特朗普抗议席卷美国50州",
+      "onboard_time": 1745239043,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 57070,
       "num": 195894,
       "word": "花海打工狗告一段落",
@@ -3139,6 +3187,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 38777,
+      "num": 328308,
+      "word": "美团喊话造谣引流",
+      "onboard_time": 1745240183,
+      "rank": 12,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 38763,
       "num": 213681,
       "word": "王腾金价高点搞批发",
@@ -3209,14 +3265,6 @@
       "onboard_time": 1745235323,
       "rank": 38,
       "category": "教育,民生新闻"
-    },
-    {
-      "raw_hot": 30830,
-      "num": 214116,
-      "word": "反特朗普抗议席卷美国50州",
-      "onboard_time": 1745239043,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 30397,
@@ -3315,6 +3363,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 26354,
+      "num": 154051,
+      "word": "教皇方济各最后一次露面",
+      "onboard_time": 1745239402,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 26328,
       "num": 292064,
       "word": "为何医保定点零售药店药价更高",
@@ -3364,11 +3420,19 @@
     },
     {
       "raw_hot": 25072,
-      "num": 223687,
+      "num": 249413,
       "word": "人形机器人进入家庭还有多远",
       "onboard_time": 1745239283,
       "rank": 18,
       "category": "数码"
+    },
+    {
+      "raw_hot": 24770,
+      "num": 155810,
+      "word": "小哥摔伤骨折好心女子伸出援手",
+      "onboard_time": 1745240364,
+      "rank": 37,
+      "category": "正能量"
     },
     {
       "raw_hot": 24761,
@@ -3393,14 +3457,6 @@
       "onboard_time": 1745234542,
       "rank": 17,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 21885,
-      "num": 148118,
-      "word": "教皇方济各最后一次露面",
-      "onboard_time": 1745239402,
-      "rank": 38,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 21570,
@@ -3443,7 +3499,7 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 19419,
+      "raw_hot": 19450,
       "num": 122547,
       "word": "朱珠女王勇敢做自己",
       "onboard_time": 1745238203,
@@ -3473,6 +3529,14 @@
       "onboard_time": 1745175495,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 18624,
+      "num": 153010,
+      "word": "酒都春光好",
+      "onboard_time": 1745240483,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18146,
@@ -3579,6 +3643,14 @@
       "category": "健康医疗,民生新闻"
     },
     {
+      "raw_hot": 14364,
+      "num": 146878,
+      "word": "钠离子电池的工作原理及前景如何",
+      "onboard_time": 1745240483,
+      "rank": 41,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 14340,
       "num": 145607,
       "word": "大阪市长因米价暴涨向学生道歉",
@@ -3649,6 +3721,14 @@
       "onboard_time": 1745232081,
       "rank": 22,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 2499,
+      "num": 1362385,
+      "word": "那些你不知道的北京地儿",
+      "onboard_time": 1745196324,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
