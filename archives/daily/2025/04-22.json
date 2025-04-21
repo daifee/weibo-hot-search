@@ -1,6 +1,6 @@
 {
   "startTime": 1745253028487,
-  "endTime": 1745257254586,
+  "endTime": 1745260398132,
   "band_list": [
     {
       "raw_hot": 2063845,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 265463,
-      "num": 119618,
+      "num": 148368,
       "word": "近视眼福音",
       "onboard_time": 1745253259,
       "rank": 33,
@@ -187,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 160575,
+      "num": 127734,
+      "word": "孩子睡觉时头发打湿是什么原因",
+      "onboard_time": 1745251401,
+      "rank": 32,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 153258,
       "num": 153258,
       "word": "亚朵花洒",
@@ -201,14 +209,6 @@
       "onboard_time": 1745240243,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 143925,
-      "num": 127734,
-      "word": "孩子睡觉时头发打湿是什么原因",
-      "onboard_time": 1745251401,
-      "rank": 32,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 136733,
@@ -411,6 +411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60269,
+      "num": 60269,
+      "word": "孙恩盛直播",
+      "onboard_time": 1745257818,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 52138,
       "num": 135612,
       "word": "特朗普施压鲍威尔遭多方批评",
@@ -479,6 +487,38 @@
       "num": 32208,
       "word": "张信哲说要到现场堵周深",
       "onboard_time": 1745257216,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 23657,
+      "num": 23657,
+      "word": "登陆少年乐队曲",
+      "onboard_time": 1745259255,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 22481,
+      "num": 22481,
+      "word": "鹭卓久违的夸花回来啦",
+      "onboard_time": 1745259675,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 22303,
+      "num": 22303,
+      "word": "惠英红 红糖外婆",
+      "onboard_time": 1745260094,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 21662,
+      "num": 21662,
+      "word": "周深说谢谢每一个听过我的人",
+      "onboard_time": 1745260335,
       "rank": 49,
       "category": "演出"
     },

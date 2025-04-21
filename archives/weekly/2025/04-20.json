@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745257254586,
+  "endTime": 1745260398132,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -2052,7 +2052,7 @@
     },
     {
       "raw_hot": 265463,
-      "num": 119618,
+      "num": 148368,
       "word": "近视眼福音",
       "onboard_time": 1745253259,
       "rank": 33,
@@ -3963,6 +3963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160575,
+      "num": 127734,
+      "word": "孩子睡觉时头发打湿是什么原因",
+      "onboard_time": 1745251401,
+      "rank": 32,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 160546,
       "num": 160546,
       "word": "黄景瑜王子奇为林博洋打call",
@@ -4481,14 +4489,6 @@
       "onboard_time": 1745118622,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 143925,
-      "num": 127734,
-      "word": "孩子睡觉时头发打湿是什么原因",
-      "onboard_time": 1745251401,
-      "rank": 32,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 143764,
@@ -6595,6 +6595,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 60269,
+      "num": 60269,
+      "word": "孙恩盛直播",
+      "onboard_time": 1745257818,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 60026,
       "num": 347403,
       "word": "王楚钦的眼神要碎了",
@@ -7795,6 +7803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 23657,
+      "num": 23657,
+      "word": "登陆少年乐队曲",
+      "onboard_time": 1745259255,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 23274,
       "num": 321997,
       "word": "60岁男子杀害女友案择期宣判",
@@ -7827,6 +7843,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 22481,
+      "num": 22481,
+      "word": "鹭卓久违的夸花回来啦",
+      "onboard_time": 1745259675,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 22303,
+      "num": 22303,
+      "word": "惠英红 红糖外婆",
+      "onboard_time": 1745260094,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 21898,
       "num": 201009,
       "word": "换个思路看男性HPV疫苗打不打",
@@ -7857,6 +7889,14 @@
       "onboard_time": 1745105721,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 21662,
+      "num": 21662,
+      "word": "周深说谢谢每一个听过我的人",
+      "onboard_time": 1745260335,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 21570,
