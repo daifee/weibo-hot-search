@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1745250027166,
+  "endTime": 1745253028487,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -6241,6 +6241,14 @@
       "onboard_time": 1743931761,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 811977,
+      "num": 902850,
+      "word": "7楼8楼闹矛盾9楼住户躺枪被震楼3年",
+      "onboard_time": 1745248584,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 810808,
@@ -16403,14 +16411,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 351983,
-      "num": 358740,
-      "word": "7楼8楼闹矛盾9楼住户躺枪被震楼3年",
-      "onboard_time": 1745248584,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 351857,
       "num": 297166,
       "word": "国内金饰价格跟跌",
@@ -16441,6 +16441,14 @@
       "onboard_time": 1743575842,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 351347,
+      "num": 359024,
+      "word": "当事人回应刘强东给自己送外卖",
+      "onboard_time": 1745247024,
+      "rank": 18,
+      "category": "互联网"
     },
     {
       "raw_hot": 351050,
@@ -18305,6 +18313,14 @@
       "onboard_time": 1744878324,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 313067,
+      "num": 357975,
+      "word": "无忧渡陈奕恒镜头",
+      "onboard_time": 1745247624,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 313057,
@@ -22307,14 +22323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 255149,
-      "num": 357975,
-      "word": "无忧渡陈奕恒镜头",
-      "onboard_time": 1745247624,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 254788,
       "num": 452070,
       "word": "岳阳楼景区说没游客背滕王阁序",
@@ -22481,6 +22489,14 @@
       "onboard_time": 1744191023,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 252689,
+      "num": 252689,
+      "word": "美军无人机严重依赖中国制造",
+      "onboard_time": 1745249961,
+      "rank": 36,
+      "category": "军事"
     },
     {
       "raw_hot": 252650,
@@ -23105,14 +23121,6 @@
       "onboard_time": 1745116104,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 245270,
-      "num": 359024,
-      "word": "当事人回应刘强东给自己送外卖",
-      "onboard_time": 1745247024,
-      "rank": 18,
-      "category": "互联网"
     },
     {
       "raw_hot": 245204,
@@ -37619,6 +37627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167565,
+      "num": 167565,
+      "word": "很多事认真做一遍就能超过90%的人",
+      "onboard_time": 1745251041,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 167564,
       "num": 219024,
       "word": "Doinb称赞Tian",
@@ -49347,6 +49363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127734,
+      "num": 127734,
+      "word": "孩子睡觉时头发打湿是什么原因",
+      "onboard_time": 1745251401,
+      "rank": 32,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 127720,
       "num": 245011,
       "word": "伊利育儿补贴再加码",
@@ -50744,6 +50768,14 @@
       "word": "跟着文物去春游",
       "onboard_time": 1744005263,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122959,
+      "num": 122959,
+      "word": "收到差评最多的外卖员",
+      "onboard_time": 1745252241,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -54059,6 +54091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 110280,
+      "num": 133834,
+      "word": "刘宇宁以为吉克隽逸是真公主",
+      "onboard_time": 1745251522,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 110154,
       "num": 110154,
       "word": "AG对战DRG",
@@ -57243,6 +57283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 94126,
+      "num": 94126,
+      "word": "女童被罐车撞倒身亡目击者发声",
+      "onboard_time": 1745248283,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94114,
       "num": 173974,
       "word": "云顶S13被S14格式化了",
@@ -58451,6 +58499,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 85734,
+      "num": 85734,
+      "word": "WE对战iG",
+      "onboard_time": 1745251639,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 85543,
       "num": 85543,
       "word": "直播弹幕暗藏神秘交易信息",
@@ -58849,6 +58905,14 @@
       "onboard_time": 1744958420,
       "rank": 26,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 83538,
+      "num": 83538,
+      "word": "中国美式烤肉停用美国牛肉",
+      "onboard_time": 1745251281,
+      "rank": 42,
+      "category": "国际时政,财经"
     },
     {
       "raw_hot": 83486,
@@ -61427,20 +61491,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 66939,
-      "num": 191242,
-      "word": "美军无人机严重依赖中国制造",
-      "onboard_time": 1745249961,
-      "rank": 36,
-      "category": "军事"
-    },
-    {
       "raw_hot": 66893,
       "num": 394253,
       "word": "棉花糖爸爸与寻找19年女儿今日相见",
       "onboard_time": 1744946541,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66836,
+      "num": 77549,
+      "word": "美联储降息黄金走势会怎么样",
+      "onboard_time": 1745252061,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 66816,
@@ -61569,6 +61633,14 @@
       "onboard_time": 1743525799,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 66049,
+      "num": 76456,
+      "word": "刘涛直播弹幕",
+      "onboard_time": 1745252959,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 65952,
@@ -62145,6 +62217,14 @@
       "onboard_time": 1744881442,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62843,
+      "num": 76214,
+      "word": "全红婵晒和陈若琳师徒日常",
+      "onboard_time": 1745249663,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 62822,
@@ -68497,6 +68577,14 @@
       "onboard_time": 1744209268,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 28837,
+      "num": 135612,
+      "word": "特朗普施压鲍威尔遭多方批评",
+      "onboard_time": 1745252781,
+      "rank": 24,
+      "category": "国际时政"
     },
     {
       "raw_hot": 28816,
