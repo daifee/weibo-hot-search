@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745225197096,
+  "endTime": 1745227632174,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -259,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1345788,
+      "num": 1345788,
+      "word": "美元跌麻了",
+      "onboard_time": 1745225122,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1327552,
       "num": 270466,
       "word": "京东称有外卖骑手遭遇2选1",
@@ -379,7 +387,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1045628,
+      "raw_hot": 1098746,
       "num": 368921,
       "word": "赵磊婚礼邀请函曝光",
       "onboard_time": 1745222781,
@@ -585,6 +593,14 @@
       "onboard_time": 1745201302,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 700519,
+      "num": 300361,
+      "word": "网红滕顺强夫妇被封号",
+      "onboard_time": 1745224403,
+      "rank": 49,
+      "category": "网红"
     },
     {
       "raw_hot": 696710,
@@ -843,14 +859,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 543837,
-      "num": 300361,
-      "word": "网红滕顺强夫妇被封号",
-      "onboard_time": 1745224403,
-      "rank": 49,
-      "category": "网红"
-    },
-    {
       "raw_hot": 541852,
       "num": 383514,
       "word": "反诈老陈直播四天卖了100万",
@@ -979,6 +987,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 467562,
+      "num": 300097,
+      "word": "模仿金秀贤的小姐姐",
+      "onboard_time": 1745223142,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 465067,
       "num": 465067,
       "word": "雨果连胜世界前三夺冠",
@@ -1067,6 +1083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 402757,
+      "num": 402757,
+      "word": "宁德时代",
+      "onboard_time": 1745222781,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 401585,
       "num": 338100,
       "word": "丁程鑫严浩翔电影节同框",
@@ -1113,6 +1137,14 @@
       "onboard_time": 1745217380,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 385502,
+      "num": 385502,
+      "word": "吴京受伤",
+      "onboard_time": 1745225781,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 376332,
@@ -1331,6 +1363,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 328002,
+      "num": 238486,
+      "word": "终于知道为什么好多婚纱胳肢窝破了",
+      "onboard_time": 1745224101,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 327414,
       "num": 272467,
       "word": "无忧渡直播 卡",
@@ -1451,14 +1491,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 300097,
-      "num": 300097,
-      "word": "模仿金秀贤的小姐姐",
-      "onboard_time": 1745223142,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 299472,
       "num": 299472,
       "word": "闫安说王楚钦确定参加多哈世乒赛",
@@ -1529,14 +1561,6 @@
       "onboard_time": 1745205923,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 287555,
-      "num": 287555,
-      "word": "宁德时代",
-      "onboard_time": 1745222781,
-      "rank": 35,
-      "category": "汽车"
     },
     {
       "raw_hot": 285609,
@@ -1755,12 +1779,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 242890,
+      "num": 242890,
+      "word": "35岁程序员长期熬夜脑干出血",
+      "onboard_time": 1745226141,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 239644,
       "num": 239644,
       "word": "赵丽颖长发红裙",
       "onboard_time": 1745141241,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 238463,
+      "num": 238463,
+      "word": "tws回归",
+      "onboard_time": 1745227102,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 237751,
@@ -1793,6 +1833,14 @@
       "onboard_time": 1745219481,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 234444,
+      "num": 293032,
+      "word": "2025华表奖官宣",
+      "onboard_time": 1745218281,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 229620,
@@ -1841,6 +1889,14 @@
       "onboard_time": 1745216362,
       "rank": 35,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 225717,
+      "num": 225717,
+      "word": "雨果夺冠为男乒敲响警钟",
+      "onboard_time": 1745226081,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 225429,
@@ -1907,28 +1963,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 217591,
-      "num": 217591,
-      "word": "美元跌麻了",
-      "onboard_time": 1745225122,
-      "rank": 35,
-      "category": "财经"
-    },
-    {
       "raw_hot": 216733,
       "num": 216733,
       "word": "苍兰诀作者谈真正的大女主文",
       "onboard_time": 1745145384,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 215910,
-      "num": 215910,
-      "word": "终于知道为什么好多婚纱胳肢窝破了",
-      "onboard_time": 1745224101,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 215851,
@@ -2019,14 +2059,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 211332,
-      "num": 293032,
-      "word": "2025华表奖官宣",
-      "onboard_time": 1745218281,
-      "rank": 32,
-      "category": "电影"
-    },
-    {
       "raw_hot": 210478,
       "num": 210478,
       "word": "余宇涵直播",
@@ -2083,6 +2115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207573,
+      "num": 207573,
+      "word": "万斯 教皇",
+      "onboard_time": 1745227163,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 207441,
       "num": 207441,
       "word": "张峻豪范思哲大片",
@@ -2105,6 +2145,22 @@
       "onboard_time": 1745158770,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 204818,
+      "num": 249534,
+      "word": "铁打的孙颖莎流水的合照搭子",
+      "onboard_time": 1745226321,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 204630,
+      "num": 204630,
+      "word": "赵露思公主粉裙",
+      "onboard_time": 1745226081,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 203844,
@@ -2305,6 +2361,14 @@
       "onboard_time": 1745132602,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197450,
+      "num": 240151,
+      "word": "成龙林俊杰合影",
+      "onboard_time": 1745226862,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 196997,
@@ -2659,6 +2723,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 179499,
+      "num": 251952,
+      "word": "国内航司开始暂停接收波音飞机",
+      "onboard_time": 1745225781,
+      "rank": 13,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 179348,
       "num": 179348,
       "word": "美国一些婴幼儿产品3个月将售罄",
@@ -2939,6 +3011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168217,
+      "num": 168217,
+      "word": "大爷下单550只鸡退款被拒后连夜搭棚",
+      "onboard_time": 1745227102,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 168143,
       "num": 168143,
       "word": "谁能拒绝一只情绪稳定的小猪",
@@ -3043,6 +3123,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 164481,
+      "num": 239396,
+      "word": "章昊有教资的含金量还在上升",
+      "onboard_time": 1745224881,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164447,
       "num": 164447,
       "word": "小猫也有汗脚",
@@ -3105,14 +3193,6 @@
       "onboard_time": 1745132843,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 161216,
-      "num": 161216,
-      "word": "章昊有教资的含金量还在上升",
-      "onboard_time": 1745224881,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 161060,
@@ -3267,6 +3347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156261,
+      "num": 156261,
+      "word": "对爱情完全祛魅的女主",
+      "onboard_time": 1745227282,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156252,
       "num": 156252,
       "word": "春江水暖蚊先知",
@@ -3353,6 +3441,14 @@
       "onboard_time": 1745163268,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 154136,
+      "num": 154136,
+      "word": "金饰克价已涨到1039元",
+      "onboard_time": 1745226741,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 153847,
@@ -4033,6 +4129,14 @@
       "onboard_time": 1745064260,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 126091,
+      "num": 156972,
+      "word": "一诺白色刺绣西装",
+      "onboard_time": 1745225902,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 126085,
@@ -4939,6 +5043,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 79472,
+      "num": 246085,
+      "word": "76岁男子不希望死后还背强奸犯骂名",
+      "onboard_time": 1745226622,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79430,
       "num": 79430,
       "word": "四年的心理咨询精华浓缩成一分钟",
@@ -5129,6 +5241,14 @@
       "onboard_time": 1745209823,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 67558,
+      "num": 250834,
+      "word": "德国资方代表要求政府与中国搞好关系",
+      "onboard_time": 1745226260,
+      "rank": 14,
+      "category": "国际时政,财经"
     },
     {
       "raw_hot": 67087,
@@ -5683,6 +5803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40885,
+      "num": 200768,
+      "word": "一个水字居然有这么多叫法",
+      "onboard_time": 1745227582,
+      "rank": 38,
+      "category": "科学科普,民生新闻"
+    },
+    {
       "raw_hot": 40451,
       "num": 168418,
       "word": "美元指数跌破99",
@@ -5808,6 +5936,14 @@
       "word": "5000元网购翡翠镯货不对板只补50元",
       "onboard_time": 1745157992,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35897,
+      "num": 239648,
+      "word": "试点支持外籍医生开设诊所",
+      "onboard_time": 1745227463,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -6059,6 +6195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24761,
+      "num": 239197,
+      "word": "美政府计划再减哈佛10亿美元资助",
+      "onboard_time": 1745225964,
+      "rank": 29,
+      "category": "国际时政,教育"
+    },
+    {
       "raw_hot": 24717,
       "num": 161132,
       "word": "经济学家讽刺特朗普不懂经济",
@@ -6099,6 +6243,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 21898,
+      "num": 201009,
+      "word": "换个思路看男性HPV疫苗打不打",
+      "onboard_time": 1745226321,
+      "rank": 37,
+      "category": "健康医疗,民生新闻"
+    },
+    {
       "raw_hot": 21883,
       "num": 236520,
       "word": "韩国劳动法规修订了哪些内容",
@@ -6129,6 +6281,14 @@
       "onboard_time": 1745206342,
       "rank": 49,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 20642,
+      "num": 200644,
+      "word": "退休法官酒后驾车将6旬男子撞飞",
+      "onboard_time": 1745227582,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20568,
