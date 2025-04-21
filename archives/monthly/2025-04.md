@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/22 06:41:27
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/22 07:23:27
 </p>
 </blockquote>
 <p>
@@ -4317,6 +4317,12 @@ SM新男团 撞名（热度：910464）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E7%9D%A1%E8%A7%89%E6%97%B6%E5%A4%B4%E5%8F%91%E6%89%93%E6%B9%BF%E6%98%AF%E4%BB%80%E4%B9%88%E5%8E%9F%E5%9B%A0%23" target="weibo">
+孩子睡觉时头发打湿是什么原因（热度：859238）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%98%80%E9%94%90%E5%93%A5%E5%93%A5%23" target="weibo">
 李昀锐哥哥（热度：858817）
 </a>
@@ -6005,12 +6011,6 @@ TVB男演员陈键锋学厨以第一名毕业（热度：726197）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9D%9A%E5%86%B3%E5%8F%8D%E5%88%B6%23" target="weibo">
 中方坚决反制（热度：677535）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B6%8A%E5%8D%97%E6%98%AF%E5%94%AF%E4%B8%80%E4%B8%80%E4%B8%AA%E5%BA%86%E7%A5%9D%E7%8C%AB%E5%B9%B4%E7%9A%84%E5%9B%BD%E5%AE%B6%23" target="weibo">
-越南是唯一一个庆祝猫年的国家（热度：677369）
 </a>
 </li>
 

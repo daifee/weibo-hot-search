@@ -1,0 +1,410 @@
+{
+  "runTime": 1745277807255,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 859238,
+        "num": 859238,
+        "word": "孩子睡觉时头发打湿是什么原因",
+        "onboard_time": 1745251401,
+        "rank": 0,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 442135,
+        "num": 442135,
+        "word": "失去美国订单后海外订单量竟然多了",
+        "onboard_time": 1745238442,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 18933,
+        "num": 374393,
+        "word": "何以中国闽山闽水物华新",
+        "onboard_time": 1745217142,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 553486,
+        "num": 374319,
+        "word": "收到差评最多的外卖员",
+        "onboard_time": 1745252241,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 369959,
+        "num": 369959,
+        "word": "曝折腰没拿到签字",
+        "onboard_time": 1745254458,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 328923,
+        "num": 328923,
+        "word": "关晓彤五四晚会录制路透",
+        "onboard_time": 1745246603,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300217,
+        "num": 300217,
+        "word": "马龙樊振东陈梦选择不参加多哈世乒赛",
+        "onboard_time": 1745243904,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39614,
+        "num": 299603,
+        "word": "美国股市大幅下跌",
+        "onboard_time": 1745277138,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 22856,
+        "num": 297993,
+        "word": "美一客机在机场发动机起火",
+        "onboard_time": 1745277079,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 20457,
+        "num": 297289,
+        "word": "美防长未否认与家人群聊作战信息",
+        "onboard_time": 1745277199,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 853922,
+        "num": 295267,
+        "word": "关晓彤 鹿晗",
+        "onboard_time": 1745230340,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 754890,
+        "num": 294072,
+        "word": "7楼8楼闹矛盾9楼住户躺枪被震楼3年",
+        "onboard_time": 1745248584,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293251,
+        "num": 293251,
+        "word": "马伯骞给弟弟婚礼当伴郎",
+        "onboard_time": 1745240423,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286733,
+        "num": 286733,
+        "word": "央视曝光购物卡成洗钱工具",
+        "onboard_time": 1745244444,
+        "rank": 13,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 272760,
+        "num": 272760,
+        "word": "女童被罐车撞倒身亡目击者发声",
+        "onboard_time": 1745248283,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243402,
+        "num": 243402,
+        "word": "近视眼福音",
+        "onboard_time": 1745253259,
+        "rank": 15,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 241131,
+        "num": 241131,
+        "word": "江苏一男子脚绑哑铃潜水溺亡",
+        "onboard_time": 1745243603,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132683,
+        "num": 240583,
+        "word": "朴宝剑为失误工作人员解围",
+        "onboard_time": 1745247745,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132521,
+        "num": 236002,
+        "word": "任嘉伦不用吻戏也可以很暧昧",
+        "onboard_time": 1745271795,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96958,
+        "num": 228415,
+        "word": "刘宇宁以为吉克隽逸是真公主",
+        "onboard_time": 1745251522,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332823,
+        "num": 227033,
+        "word": "无手换卫生巾女孩被开黄腔",
+        "onboard_time": 1745237421,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224157,
+        "num": 224157,
+        "word": "张根硕分享抗癌抗躁郁经历",
+        "onboard_time": 1745240243,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193808,
+        "num": 193808,
+        "word": "医院回应男女占母婴室做不雅行为",
+        "onboard_time": 1745244023,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179353,
+        "num": 179353,
+        "word": "地铁被辱骂衣服脏乘客家属发声",
+        "onboard_time": 1745241743,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15861,
+        "num": 128107,
+        "word": "柯南剧场版为什么逐年爆火",
+        "onboard_time": 1745269994,
+        "rank": 24,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 114245,
+        "num": 114245,
+        "word": "当事人回应刘强东给自己送外卖",
+        "onboard_time": 1745247024,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 113841,
+        "num": 113841,
+        "word": "教皇方济各去世",
+        "onboard_time": 1745223021,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 107407,
+        "num": 107407,
+        "word": "美军无人机严重依赖中国制造",
+        "onboard_time": 1745249961,
+        "rank": 27,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 92667,
+        "num": 105523,
+        "word": "无忧渡 曹骏",
+        "onboard_time": 1745240782,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62741,
+        "num": 105120,
+        "word": "张艺兴现场版精忠报国太好听了",
+        "onboard_time": 1745247323,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 105085,
+        "num": 105085,
+        "word": "亚朵花洒",
+        "onboard_time": 1745235022,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97655,
+        "num": 97655,
+        "word": "刘强东亲自送外卖",
+        "onboard_time": 1745237902,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 84541,
+        "num": 84541,
+        "word": "美股",
+        "onboard_time": 1745245764,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 78884,
+        "num": 78884,
+        "word": "女童过马路被罐车撞倒身亡",
+        "onboard_time": 1745243785,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75413,
+        "num": 75413,
+        "word": "万花世界迪丽热巴",
+        "onboard_time": 1745243964,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28971,
+        "num": 73168,
+        "word": "比特币还会涨吗",
+        "onboard_time": 1745274018,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 72645,
+        "num": 72645,
+        "word": "房琪 对不起",
+        "onboard_time": 1745234301,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68420,
+        "num": 68420,
+        "word": "肖指导回应世乒赛混双名单",
+        "onboard_time": 1745248823,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65591,
+        "num": 65591,
+        "word": "薛飞 男单",
+        "onboard_time": 1745247804,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64447,
+        "num": 64447,
+        "word": "中国美式烤肉停用美国牛肉",
+        "onboard_time": 1745251281,
+        "rank": 39,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 58069,
+        "num": 58069,
+        "word": "7.8元京东外卖迟到免单骑手还赚8元",
+        "onboard_time": 1745242463,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 56132,
+        "num": 56132,
+        "word": "特朗普施压鲍威尔遭多方批评",
+        "onboard_time": 1745252781,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 55987,
+        "num": 55987,
+        "word": "无忧渡陈奕恒镜头",
+        "onboard_time": 1745247624,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52072,
+        "num": 52072,
+        "word": "湖南平江发生翻船事件6人溺亡",
+        "onboard_time": 1745253140,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55497,
+        "num": 51945,
+        "word": "我想看的曹骏古装",
+        "onboard_time": 1745273716,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50120,
+        "num": 50120,
+        "word": "中国反制或让美军无人机计划延期",
+        "onboard_time": 1745264053,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 50056,
+        "num": 50056,
+        "word": "林依轮自称孙颖莎的野生粉头儿",
+        "onboard_time": 1745273415,
+        "rank": 46,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 49515,
+        "num": 49515,
+        "word": "很多事认真做一遍就能超过90%的人",
+        "onboard_time": 1745251041,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42742,
+        "num": 48546,
+        "word": "刘涛直播弹幕",
+        "onboard_time": 1745252959,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48508,
+        "num": 48508,
+        "word": "儿童生长速率在3到5月最快",
+        "onboard_time": 1745273956,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#3个称呼看山水相连的亲密情谊#"
+    }
+  }
+}
