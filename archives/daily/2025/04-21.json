@@ -1,6 +1,6 @@
 {
   "startTime": 1745166450412,
-  "endTime": 1745192202800,
+  "endTime": 1745200694769,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -16,6 +16,14 @@
       "word": "鹿晗 关晓彤",
       "onboard_time": 1745150424,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 4916125,
+      "num": 275174,
+      "word": "关晓彤朋友圈",
+      "onboard_time": 1745194945,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -44,15 +52,15 @@
     },
     {
       "raw_hot": 1452536,
-      "num": 247821,
+      "num": 253393,
       "word": "鹿晗",
       "onboard_time": 1745190379,
       "rank": 11,
       "category": "艺人"
     },
     {
-      "raw_hot": 1106787,
-      "num": 1106787,
+      "raw_hot": 1433772,
+      "num": 1433772,
       "word": "我愿意跟他挨着",
       "onboard_time": 1745167402,
       "rank": 14,
@@ -67,12 +75,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 894914,
+      "num": 253129,
+      "word": "黄子韬中考成绩",
+      "onboard_time": 1745197463,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 880489,
       "num": 880489,
       "word": "国乒 樊振东",
       "onboard_time": 1745155889,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 872051,
+      "num": 253852,
+      "word": "京东称有外卖骑手遭遇2选1",
+      "onboard_time": 1745199144,
+      "rank": 12,
+      "category": "互联网"
     },
     {
       "raw_hot": 777807,
@@ -91,6 +115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 715012,
+      "num": 483324,
+      "word": "朱珠带了整整四个月妆",
+      "onboard_time": 1745195486,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 701074,
       "num": 701074,
       "word": "那英肖战来李健演唱会",
@@ -99,12 +131,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 642330,
+      "raw_hot": 696439,
       "num": 642330,
       "word": "谢谢北京地铁5号线上勇敢的女乘客",
       "onboard_time": 1745161948,
       "rank": 8,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 654464,
+      "num": 654464,
+      "word": "特朗普自己人也坐不住了",
+      "onboard_time": 1745195005,
+      "rank": 1,
+      "category": "国际时政"
     },
     {
       "raw_hot": 580552,
@@ -123,12 +163,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 543890,
+      "num": 253755,
+      "word": "京东外卖",
+      "onboard_time": 1745199742,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 480310,
       "num": 244355,
       "word": "爷爷隔代亲赠孙子100万引儿子不满",
       "onboard_time": 1745154147,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 448248,
+      "num": 253527,
+      "word": "钟辰乐只p自己 黄仁俊放原图",
+      "onboard_time": 1745198424,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 440724,
+      "num": 440724,
+      "word": "金价",
+      "onboard_time": 1745193322,
+      "rank": 4,
+      "category": "财经"
     },
     {
       "raw_hot": 420378,
@@ -187,6 +251,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 302942,
+      "num": 302942,
+      "word": "一旦回归丛林法则所有国家都会受害",
+      "onboard_time": 1745199742,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 300177,
+      "num": 300177,
+      "word": "这周要上六天班",
+      "onboard_time": 1745193922,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 298718,
       "num": 239524,
       "word": "允许雨果求婚",
@@ -201,6 +281,22 @@
       "onboard_time": 1745153906,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 260327,
+      "num": 253372,
+      "word": "赵樱子自曝微do",
+      "onboard_time": 1745200523,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 253114,
+      "num": 253114,
+      "word": "甲状腺健康的人有6个习惯",
+      "onboard_time": 1745200582,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 247065,
@@ -251,10 +347,34 @@
       "category": "体育"
     },
     {
+      "raw_hot": 220279,
+      "num": 220279,
+      "word": "七年之痒",
+      "onboard_time": 1745199443,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 219876,
       "num": 219876,
       "word": "白桃星座",
       "onboard_time": 1745162007,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 219388,
+      "num": 219388,
+      "word": "美三位前总统罕见谴责现政府",
+      "onboard_time": 1745197523,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 219043,
+      "num": 219043,
+      "word": "谁发明的调休",
+      "onboard_time": 1745193623,
       "rank": 25,
       "category": "情感"
     },
@@ -267,12 +387,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203954,
+      "num": 203954,
+      "word": "一轮接一轮降雨来了",
+      "onboard_time": 1745196145,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 203041,
+      "num": 203041,
+      "word": "LPR",
+      "onboard_time": 1745199503,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 198165,
       "num": 349233,
       "word": "范思哲晚宴",
       "onboard_time": 1745161408,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 195761,
+      "num": 219122,
+      "word": "国际乒联",
+      "onboard_time": 1745192961,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 193734,
@@ -299,12 +443,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180194,
+      "num": 180194,
+      "word": "商务部回应美胁迫他国限制对华贸易",
+      "onboard_time": 1745196085,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 178914,
+      "num": 178914,
+      "word": "美国一些婴幼儿产品3个月将售罄",
+      "onboard_time": 1745197825,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 176354,
       "num": 176354,
       "word": "黄子弘凡直播",
       "onboard_time": 1745159909,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 172354,
+      "num": 172354,
+      "word": "LPR已连续6个月维持不变",
+      "onboard_time": 1745200163,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 171088,
+      "num": 171088,
+      "word": "花3万块雇人扔掉半个家",
+      "onboard_time": 1745197884,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 166904,
@@ -339,6 +515,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148446,
+      "num": 148446,
+      "word": "永生和永世不得超生我还是分得清的",
+      "onboard_time": 1745199742,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 144852,
+      "num": 203394,
+      "word": "种地吧收草莓",
+      "onboard_time": 1745200462,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 144797,
       "num": 154972,
       "word": "孙颖莎vs蒯曼",
@@ -353,6 +545,22 @@
       "onboard_time": 1745165032,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 139219,
+      "num": 139219,
+      "word": "雨果三年前就豪言能比国乒球员强",
+      "onboard_time": 1745200103,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 134014,
+      "num": 134014,
+      "word": "美国敏感文件遭万人共享",
+      "onboard_time": 1745194945,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 129770,
@@ -379,12 +587,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121753,
+      "num": 121753,
+      "word": "马龙澳门世界杯夺冠一周年",
+      "onboard_time": 1745195065,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 121239,
+      "num": 203113,
+      "word": "刘涛不像来参加节目的像来渡劫的",
+      "onboard_time": 1745154627,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120079,
       "num": 154511,
       "word": "巴西人成了乒乓球世界冠军",
       "onboard_time": 1745161827,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118584,
+      "num": 118584,
+      "word": "饿了但不想吃饭是什么原因",
+      "onboard_time": 1745200341,
+      "rank": 48,
+      "category": "科学科普"
     },
     {
       "raw_hot": 118386,
@@ -473,6 +705,14 @@
       "onboard_time": 1745167462,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 83132,
+      "num": 116313,
+      "word": "周洁琼成林允站姐",
+      "onboard_time": 1745198244,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 77507,
@@ -579,12 +819,36 @@
       "category": "财经"
     },
     {
+      "raw_hot": 40202,
+      "num": 253220,
+      "word": "荣昌卤鹅是怎么火到国外的",
+      "onboard_time": 1745199682,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39699,
       "num": 95336,
       "word": "异国他乡响起我爱你中国",
       "onboard_time": 1745168240,
       "rank": 28,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 39100,
+      "num": 194326,
+      "word": "尹锡悦涉内乱罪第二次庭审",
+      "onboard_time": 1745200523,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 36877,
+      "num": 495954,
+      "word": "何以中国看福建",
+      "onboard_time": 1745192421,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31942,
@@ -721,6 +985,9 @@
     },
     {
       "word": "#中柬命运共同体有了新内涵#"
+    },
+    {
+      "word": "#文明因交流而多彩因互鉴而丰富#"
     }
   ]
 }

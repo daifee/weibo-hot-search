@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1745192202800,
+  "endTime": 1745200694769,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -153,6 +153,14 @@
       "onboard_time": 1743576981,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 4916125,
+      "num": 275174,
+      "word": "关晓彤朋友圈",
+      "onboard_time": 1745194945,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 4382418,
@@ -972,7 +980,7 @@
     },
     {
       "raw_hot": 2045928,
-      "num": 247821,
+      "num": 253393,
       "word": "鹿晗",
       "onboard_time": 1745104760,
       "rank": 11,
@@ -2225,6 +2233,14 @@
       "onboard_time": 1744354581,
       "rank": 34,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 1433772,
+      "num": 1433772,
+      "word": "我愿意跟他挨着",
+      "onboard_time": 1745167402,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1433400,
@@ -3787,14 +3803,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 1106787,
-      "num": 1106787,
-      "word": "我愿意跟他挨着",
-      "onboard_time": 1745167402,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1105383,
       "num": 1105383,
       "word": "上海辟谣地铁猥亵事件当事人相识",
@@ -5227,6 +5235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 894914,
+      "num": 253129,
+      "word": "黄子韬中考成绩",
+      "onboard_time": 1745197463,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 894741,
       "num": 894741,
       "word": "北京北站破例为300名学生开东门",
@@ -5393,6 +5409,14 @@
       "onboard_time": 1744904422,
       "rank": 10,
       "category": "演出"
+    },
+    {
+      "raw_hot": 872051,
+      "num": 253852,
+      "word": "京东称有外卖骑手遭遇2选1",
+      "onboard_time": 1745199144,
+      "rank": 12,
+      "category": "互联网"
     },
     {
       "raw_hot": 872047,
@@ -7059,6 +7083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 715012,
+      "num": 483324,
+      "word": "朱珠带了整整四个月妆",
+      "onboard_time": 1745195486,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 714891,
       "num": 421910,
       "word": "好友为赵丽颖发声",
@@ -7329,6 +7361,14 @@
       "onboard_time": 1745155288,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 696439,
+      "num": 642330,
+      "word": "谢谢北京地铁5号线上勇敢的女乘客",
+      "onboard_time": 1745161948,
+      "rank": 37,
+      "category": "正能量"
     },
     {
       "raw_hot": 695710,
@@ -7947,6 +7987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 654464,
+      "num": 654464,
+      "word": "特朗普自己人也坐不住了",
+      "onboard_time": 1745195005,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 653608,
       "num": 123217,
       "word": "肇事者父亲称一家三口被撞身亡是天灾",
@@ -8145,14 +8193,6 @@
       "onboard_time": 1745051301,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 642330,
-      "num": 642330,
-      "word": "谢谢北京地铁5号线上勇敢的女乘客",
-      "onboard_time": 1745161948,
-      "rank": 37,
-      "category": "正能量"
     },
     {
       "raw_hot": 640210,
@@ -9793,6 +9833,14 @@
       "onboard_time": 1745148322,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 543890,
+      "num": 253755,
+      "word": "京东外卖",
+      "onboard_time": 1745199742,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 543024,
@@ -12256,6 +12304,14 @@
       "word": "张檬晒孕肚照",
       "onboard_time": 1743829402,
       "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 448248,
+      "num": 253527,
+      "word": "钟辰乐只p自己 黄仁俊放原图",
+      "onboard_time": 1745198424,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -18195,6 +18251,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 302942,
+      "num": 302942,
+      "word": "一旦回归丛林法则所有国家都会受害",
+      "onboard_time": 1745199742,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 302841,
       "num": 302841,
       "word": "宋小宝造型好像王嘉尔",
@@ -18337,6 +18401,14 @@
       "onboard_time": 1743735020,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 300177,
+      "num": 300177,
+      "word": "这周要上六天班",
+      "onboard_time": 1745193922,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 300140,
@@ -20955,6 +21027,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 260327,
+      "num": 253372,
+      "word": "赵樱子自曝微do",
+      "onboard_time": 1745200523,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 260305,
       "num": 324533,
       "word": "郝蕾一句话戳穿傅首尔",
@@ -21505,6 +21585,14 @@
       "onboard_time": 1745052564,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 253114,
+      "num": 253114,
+      "word": "甲状腺健康的人有6个习惯",
+      "onboard_time": 1745200582,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 252941,
@@ -24571,6 +24659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 220279,
+      "num": 220279,
+      "word": "七年之痒",
+      "onboard_time": 1745199443,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220264,
       "num": 220264,
       "word": "胖东来起诉博主两个小段",
@@ -24675,6 +24771,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 219388,
+      "num": 219388,
+      "word": "美三位前总统罕见谴责现政府",
+      "onboard_time": 1745197523,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 219360,
       "num": 219360,
       "word": "办好自己的事中国有底气",
@@ -24713,6 +24817,14 @@
       "onboard_time": 1744127421,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 219043,
+      "num": 219043,
+      "word": "谁发明的调休",
+      "onboard_time": 1745193623,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 219008,
@@ -27299,6 +27411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203954,
+      "num": 203954,
+      "word": "一轮接一轮降雨来了",
+      "onboard_time": 1745196145,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 203901,
       "num": 203901,
       "word": "大爷唯一吃过的苦就是当保安了",
@@ -27489,6 +27609,14 @@
       "onboard_time": 1745060242,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203041,
+      "num": 203041,
+      "word": "LPR",
+      "onboard_time": 1745199503,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 203023,
@@ -29248,6 +29376,14 @@
       "word": "森林狼vs湖人",
       "onboard_time": 1745114665,
       "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 195761,
+      "num": 219122,
+      "word": "国际乒联",
+      "onboard_time": 1744524141,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -33051,6 +33187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180194,
+      "num": 180194,
+      "word": "商务部回应美胁迫他国限制对华贸易",
+      "onboard_time": 1745196085,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 180192,
       "num": 179244,
       "word": "全网都在问肖战来武汉干啥",
@@ -33361,6 +33505,14 @@
       "onboard_time": 1743996744,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 178914,
+      "num": 178914,
+      "word": "美国一些婴幼儿产品3个月将售罄",
+      "onboard_time": 1745197825,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 178852,
@@ -34875,6 +35027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172354,
+      "num": 172354,
+      "word": "LPR已连续6个月维持不变",
+      "onboard_time": 1745200163,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 172305,
       "num": 165023,
       "word": "愚人节各大品牌发癫团建",
@@ -35145,6 +35305,14 @@
       "onboard_time": 1743845362,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171088,
+      "num": 171088,
+      "word": "花3万块雇人扔掉半个家",
+      "onboard_time": 1745197884,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 171072,
@@ -40875,6 +41043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148446,
+      "num": 148446,
+      "word": "永生和永世不得超生我还是分得清的",
+      "onboard_time": 1745199742,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 148436,
       "num": 148436,
       "word": "王力宏弹钢琴",
@@ -42009,6 +42185,14 @@
       "onboard_time": 1744362206,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 144852,
+      "num": 203394,
+      "word": "种地吧收草莓",
+      "onboard_time": 1745200462,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 144848,
@@ -43523,6 +43707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139219,
+      "num": 139219,
+      "word": "雨果三年前就豪言能比国乒球员强",
+      "onboard_time": 1745200103,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139215,
       "num": 139215,
       "word": "张艺兴说帅的角色也可以找我",
@@ -44515,14 +44707,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 136015,
-      "num": 136015,
-      "word": "国际乒联",
-      "onboard_time": 1744524141,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 135996,
       "num": 144748,
       "word": "杨紫久违的日常",
@@ -45233,6 +45417,14 @@
       "onboard_time": 1743850283,
       "rank": 35,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 134014,
+      "num": 134014,
+      "word": "美国敏感文件遭万人共享",
+      "onboard_time": 1745194945,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 134013,
@@ -48819,6 +49011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121753,
+      "num": 121753,
+      "word": "马龙澳门世界杯夺冠一周年",
+      "onboard_time": 1745195065,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121708,
       "num": 121708,
       "word": "许嵩 新歌",
@@ -49777,6 +49977,14 @@
       "onboard_time": 1743867261,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 118584,
+      "num": 118584,
+      "word": "饿了但不想吃饭是什么原因",
+      "onboard_time": 1745200341,
+      "rank": 48,
+      "category": "科学科普"
     },
     {
       "raw_hot": 118512,
@@ -56505,6 +56713,14 @@
       "onboard_time": 1744791021,
       "rank": 36,
       "category": "教育"
+    },
+    {
+      "raw_hot": 83132,
+      "num": 116313,
+      "word": "周洁琼成林允站姐",
+      "onboard_time": 1745198244,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 83049,
@@ -63267,6 +63483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 40202,
+      "num": 253220,
+      "word": "荣昌卤鹅是怎么火到国外的",
+      "onboard_time": 1745199682,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40195,
       "num": 156836,
       "word": "这简历已经是Toplevel了",
@@ -63505,6 +63729,14 @@
       "onboard_time": 1745133982,
       "rank": 19,
       "category": "美食"
+    },
+    {
+      "raw_hot": 39100,
+      "num": 194326,
+      "word": "尹锡悦涉内乱罪第二次庭审",
+      "onboard_time": 1745200523,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 39035,
@@ -63881,6 +64113,14 @@
       "onboard_time": 1744599382,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 36877,
+      "num": 495954,
+      "word": "何以中国看福建",
+      "onboard_time": 1745192421,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36860,
@@ -69981,6 +70221,9 @@
     },
     {
       "word": "#习近平东南亚三国行#"
+    },
+    {
+      "word": "#文明因交流而多彩因互鉴而丰富#"
     }
   ]
 }
