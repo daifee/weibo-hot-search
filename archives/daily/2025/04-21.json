@@ -1,6 +1,6 @@
 {
   "startTime": 1745166450412,
-  "endTime": 1745207708686,
+  "endTime": 1745209795032,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -51,6 +51,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1810632,
+      "num": 689726,
+      "word": "美团外卖",
+      "onboard_time": 1745202561,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1460492,
       "num": 427356,
       "word": "鹿晗生日",
@@ -75,20 +83,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1360544,
-      "num": 689726,
-      "word": "美团外卖",
-      "onboard_time": 1745202561,
-      "rank": 30,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 1327552,
       "num": 270466,
       "word": "京东称有外卖骑手遭遇2选1",
       "onboard_time": 1745199144,
       "rank": 12,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1287368,
+      "num": 689898,
+      "word": "综艺史上最强婚恋售后出现了",
+      "onboard_time": 1745205684,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 969377,
@@ -147,14 +155,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 761628,
-      "num": 689898,
-      "word": "综艺史上最强婚恋售后出现了",
-      "onboard_time": 1745205684,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 730833,
       "num": 730833,
       "word": "孙颖莎冠军",
@@ -211,6 +211,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 587418,
+      "num": 587418,
+      "word": "刘国正说雨果完全是拼刺刀打法",
+      "onboard_time": 1745204661,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 580552,
       "num": 580552,
       "word": "林诗栋vs雨果",
@@ -228,11 +236,19 @@
     },
     {
       "raw_hot": 545784,
-      "num": 458206,
+      "num": 466314,
       "word": "钟辰乐只p自己 黄仁俊放原图",
       "onboard_time": 1745198424,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 542995,
+      "num": 676067,
+      "word": "本周上5休1再上1",
+      "onboard_time": 1745203822,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 536629,
@@ -241,6 +257,14 @@
       "onboard_time": 1745204063,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 532285,
+      "num": 532285,
+      "word": "王者荣耀三丽鸥",
+      "onboard_time": 1745208263,
+      "rank": 6,
+      "category": "游戏"
     },
     {
       "raw_hot": 503653,
@@ -299,12 +323,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 390917,
-      "num": 676067,
-      "word": "本周上5休1再上1",
-      "onboard_time": 1745203822,
-      "rank": 42,
-      "category": "民生新闻"
+      "raw_hot": 390814,
+      "num": 359847,
+      "word": "难怪大学没人要微信",
+      "onboard_time": 1745209643,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 383664,
@@ -331,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 370233,
+      "num": 370233,
+      "word": "赵露思代言CT",
+      "onboard_time": 1745208922,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 359664,
       "num": 359664,
       "word": "五月天白敬亭合唱任性",
@@ -347,12 +379,44 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 343471,
+      "num": 343471,
+      "word": "勇士vs火箭",
+      "onboard_time": 1745209284,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 332052,
+      "num": 332052,
+      "word": "京东优先为骑手对象安排工作",
+      "onboard_time": 1745206404,
+      "rank": 26,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 329875,
+      "num": 369872,
+      "word": "Jennie科切拉舞台",
+      "onboard_time": 1745207362,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 324133,
       "num": 324133,
       "word": "安静公主说直播不赚钱",
       "onboard_time": 1745160029,
       "rank": 14,
       "category": "网红"
+    },
+    {
+      "raw_hot": 320248,
+      "num": 320248,
+      "word": "12306来票",
+      "onboard_time": 1745207725,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 302942,
@@ -387,24 +451,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 292902,
-      "num": 292902,
-      "word": "京东优先为骑手对象安排工作",
-      "onboard_time": 1745206404,
-      "rank": 26,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 285268,
-      "num": 285268,
-      "word": "刘国正说雨果完全是拼刺刀打法",
-      "onboard_time": 1745204661,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 282095,
-      "num": 282095,
+      "raw_hot": 287753,
+      "num": 287753,
       "word": "真小鸟全身都在拒绝封妃",
       "onboard_time": 1745205923,
       "rank": 49,
@@ -483,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 235214,
+      "num": 235214,
+      "word": "央视记者卧底交友软件曝光消费陷阱",
+      "onboard_time": 1745207725,
+      "rank": 41,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 233576,
       "num": 233576,
       "word": "昨天章若楠今天白敬亭",
@@ -539,6 +595,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 213916,
+      "num": 369746,
+      "word": "生命树 胡歌",
+      "onboard_time": 1745209404,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209715,
       "num": 209715,
       "word": "黄金",
@@ -579,12 +643,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202400,
+      "num": 202400,
+      "word": "京东美团均称不存在二选一",
+      "onboard_time": 1745208744,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 201579,
+      "num": 470356,
+      "word": "特朗普拟裁撤重组美国国务院",
+      "onboard_time": 1745208563,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 200778,
       "num": 459535,
       "word": "默沙东九价HPV疫苗男女均可接种",
       "onboard_time": 1745204661,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 198628,
+      "num": 198628,
+      "word": "骑士1比0热火",
+      "onboard_time": 1745209224,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 198165,
@@ -603,20 +691,20 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 196928,
+      "num": 196928,
+      "word": "罗晋王子文领衔主演",
+      "onboard_time": 1745209523,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195761,
       "num": 219122,
       "word": "国际乒联",
       "onboard_time": 1745192961,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 193789,
-      "num": 282371,
-      "word": "Jennie科切拉舞台",
-      "onboard_time": 1745207362,
-      "rank": 28,
-      "category": "演出"
     },
     {
       "raw_hot": 193734,
@@ -649,6 +737,14 @@
       "onboard_time": 1745201241,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 183496,
+      "num": 369711,
+      "word": "沈月伤人的话要用力去说",
+      "onboard_time": 1745207662,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 180630,
@@ -689,6 +785,14 @@
       "onboard_time": 1745205803,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 175648,
+      "num": 227887,
+      "word": "杨紫生命树4月底开机",
+      "onboard_time": 1745207602,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 172354,
@@ -732,10 +836,18 @@
     },
     {
       "raw_hot": 166045,
-      "num": 282213,
+      "num": 369330,
       "word": "建议大学生接种九价HPV疫苗",
       "onboard_time": 1745206642,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 165442,
+      "num": 369547,
+      "word": "你的下一辆宝马应该这么开",
+      "onboard_time": 1745208263,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -811,6 +923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152896,
+      "num": 331761,
+      "word": "旅行AI拉齐了全家五一出游颗粒度",
+      "onboard_time": 1745208622,
+      "rank": 34,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 148446,
       "num": 148446,
       "word": "永生和永世不得超生我还是分得清的",
@@ -819,12 +939,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 145975,
+      "num": 228820,
+      "word": "真正能让气血恢复的方式",
+      "onboard_time": 1745208622,
+      "rank": 42,
+      "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 145966,
+      "num": 370104,
+      "word": "飞猪AI泄露五一最该囤的机票",
+      "onboard_time": 1745208325,
+      "rank": 17,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 144797,
       "num": 154972,
       "word": "孙颖莎vs蒯曼",
       "onboard_time": 1745148022,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143286,
+      "num": 369477,
+      "word": "飞猪旅行AI邀请码炒至千元",
+      "onboard_time": 1745208263,
+      "rank": 26,
+      "category": "互联网"
     },
     {
       "raw_hot": 141626,
@@ -851,14 +995,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 129853,
-      "num": 129853,
-      "word": "杨紫生命树4月底开机",
-      "onboard_time": 1745207602,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 129770,
       "num": 129770,
       "word": "雨果平均9秒解开1个魔方",
@@ -881,14 +1017,6 @@
       "onboard_time": 1745166684,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 125274,
-      "num": 125274,
-      "word": "沈月伤人的话要用力去说",
-      "onboard_time": 1745207662,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 122933,
@@ -1091,6 +1219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77897,
+      "num": 370061,
+      "word": "有全职网约护士月薪近2万",
+      "onboard_time": 1745208325,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77507,
       "num": 77507,
       "word": "医生教你5分钟体态纠正术",
@@ -1107,6 +1243,14 @@
       "category": "国际时政,体育"
     },
     {
+      "raw_hot": 66273,
+      "num": 369276,
+      "word": "越来越多科研人员考虑离开美国",
+      "onboard_time": 1745208443,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 64498,
       "num": 77501,
       "word": "美国多地再现反特抗议潮",
@@ -1121,6 +1265,14 @@
       "onboard_time": 1745171117,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 61776,
+      "num": 369425,
+      "word": "马丽感谢李宇春唱新片主题曲",
+      "onboard_time": 1745208143,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 54004,
@@ -1259,6 +1411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 30397,
+      "num": 227982,
+      "word": "6个常用食补名方",
+      "onboard_time": 1745209764,
+      "rank": 43,
+      "category": "健康医疗,民生新闻"
+    },
+    {
       "raw_hot": 28592,
       "num": 230975,
       "word": "学习不自律怎么办",
@@ -1363,12 +1523,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 18053,
+      "num": 369941,
+      "word": "股市交易量不足万亿是好还是坏",
+      "onboard_time": 1745209104,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 17394,
       "num": 922274,
       "word": "闽山闽水间的人文密码",
       "onboard_time": 1745141421,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17001,
+      "num": 295872,
+      "word": "明日方舟四季荏苒插画",
+      "onboard_time": 1745208383,
+      "rank": 39,
+      "category": "动漫"
     },
     {
       "raw_hot": 15442,
