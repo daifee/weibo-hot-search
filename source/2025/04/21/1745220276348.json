@@ -1,0 +1,410 @@
+{
+  "runTime": 1745220276348,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 925004,
+        "num": 1148000,
+        "word": "甲亢哥后悔没来绍兴直播",
+        "onboard_time": 1745218341,
+        "rank": 0,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 483862,
+        "num": 483862,
+        "word": "老人网购误下单收到550只小鸡崽",
+        "onboard_time": 1745219842,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51497,
+        "num": 427183,
+        "word": "广电总局加快布局超高清",
+        "onboard_time": 1745216842,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 781231,
+        "num": 426801,
+        "word": "出轨的爸病床的妈被排挤的他",
+        "onboard_time": 1745217260,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 425086,
+        "num": 425086,
+        "word": "青海一男子让3岁孩子驾驶货车上路",
+        "onboard_time": 1745215522,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 383662,
+        "num": 383662,
+        "word": "特朗普自己人也坐不住了",
+        "onboard_time": 1745195005,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 728225,
+        "num": 383629,
+        "word": "无忧渡直播",
+        "onboard_time": 1745214502,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 439951,
+        "num": 383514,
+        "word": "反诈老陈直播四天卖了100万",
+        "onboard_time": 1745215881,
+        "rank": 7,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 383309,
+        "num": 383309,
+        "word": "张超确认林高远入选",
+        "onboard_time": 1745217380,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 327543,
+        "num": 327543,
+        "word": "王者荣耀三丽鸥",
+        "onboard_time": 1745208263,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1135596,
+        "num": 324501,
+        "word": "关晓彤没发",
+        "onboard_time": 1745165142,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 500201,
+        "num": 321508,
+        "word": "章若楠回应粉丝名叫楠朋友",
+        "onboard_time": 1745212283,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 731456,
+        "num": 316516,
+        "word": "我55岁导师的浏览记录",
+        "onboard_time": 1745213722,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 500038,
+        "num": 312326,
+        "word": "难怪大学没人要微信",
+        "onboard_time": 1745209643,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127814,
+        "num": 309709,
+        "word": "远洋渔船船长被害案船上视频曝光",
+        "onboard_time": 1745219182,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 790373,
+        "num": 306416,
+        "word": "鹿晗 关晓彤",
+        "onboard_time": 1745150424,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88813,
+        "num": 304283,
+        "word": "郭晶晶说冠军是新起点",
+        "onboard_time": 1745219002,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223068,
+        "num": 298179,
+        "word": "黄景瑜学生发型指定参考",
+        "onboard_time": 1745219481,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47711,
+        "num": 295460,
+        "word": "为什么不能用黄瓜敷脸",
+        "onboard_time": 1745219182,
+        "rank": 18,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 14192,
+        "num": 292064,
+        "word": "为何医保定点零售药店药价更高",
+        "onboard_time": 1745219601,
+        "rank": 19,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 388282,
+        "num": 287583,
+        "word": "李昀锐直播哭了",
+        "onboard_time": 1745212761,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 335556,
+        "num": 283091,
+        "word": "反诈老陈回应年收入",
+        "onboard_time": 1745217260,
+        "rank": 21,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 356921,
+        "num": 279229,
+        "word": "偶遇谢娜李小冉逛商场",
+        "onboard_time": 1745213183,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335654,
+        "num": 275892,
+        "word": "情侣吵架男子撞碎酒店玻璃摔出窗外",
+        "onboard_time": 1745215942,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48684,
+        "num": 273321,
+        "word": "雨果说一个月前自己不相信能夺冠",
+        "onboard_time": 1745219121,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 269785,
+        "num": 269785,
+        "word": "12306来票",
+        "onboard_time": 1745207725,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 266182,
+        "num": 266182,
+        "word": "檀健次首谈饰演李淇遇到的挑战",
+        "onboard_time": 1745217682,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 265257,
+        "num": 265257,
+        "word": "赵丽颖带儿子想想买玩具",
+        "onboard_time": 1745215461,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226095,
+        "num": 226095,
+        "word": "97岁老教师放弃百万富翁机会",
+        "onboard_time": 1745216362,
+        "rank": 28,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 19446,
+        "num": 223324,
+        "word": "婚介机构制造年龄焦虑促成签单",
+        "onboard_time": 1745219722,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222286,
+        "num": 222286,
+        "word": "请浪姐放过6旬老人",
+        "onboard_time": 1745210125,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212162,
+        "num": 212162,
+        "word": "宋祖儿剧宣活动",
+        "onboard_time": 1745214863,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205862,
+        "num": 205862,
+        "word": "2025华表奖官宣",
+        "onboard_time": 1745218281,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 195676,
+        "num": 195676,
+        "word": "哪吒3母亲复活",
+        "onboard_time": 1745201662,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193668,
+        "num": 193668,
+        "word": "林高远入选多哈世乒赛名单",
+        "onboard_time": 1745218461,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171344,
+        "num": 171344,
+        "word": "一方有难 八方添乱",
+        "onboard_time": 1745216362,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 172937,
+        "num": 171182,
+        "word": "宋祖儿亲手做了饼干",
+        "onboard_time": 1745216122,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170960,
+        "num": 170960,
+        "word": "五一酒店",
+        "onboard_time": 1745217260,
+        "rank": 37,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 21570,
+        "num": 168835,
+        "word": "3100种抗氧化王者这7种多吃",
+        "onboard_time": 1745219182,
+        "rank": 38,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 18955,
+        "num": 168496,
+        "word": "教师资格证面试报名流程图",
+        "onboard_time": 1745219782,
+        "rank": 39,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 168341,
+        "num": 168341,
+        "word": "王者荣耀",
+        "onboard_time": 1745206461,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 167394,
+        "num": 167394,
+        "word": "刘国正说雨果完全是拼刺刀打法",
+        "onboard_time": 1745204661,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163111,
+        "num": 163111,
+        "word": "XG科切拉舞台",
+        "onboard_time": 1745219722,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 150191,
+        "num": 150191,
+        "word": "赵露思代言CT",
+        "onboard_time": 1745208922,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 147778,
+        "num": 147778,
+        "word": "我的观赛搭子",
+        "onboard_time": 1745220021,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139533,
+        "num": 139533,
+        "word": "跟着樊振东的歌声打卡广东春天",
+        "onboard_time": 1745213903,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138562,
+        "num": 138562,
+        "word": "挚友和普通朋友的区别",
+        "onboard_time": 1745219601,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136376,
+        "num": 136376,
+        "word": "檀健次推荐北影节短片",
+        "onboard_time": 1745216540,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134135,
+        "num": 134135,
+        "word": "人民日报评男子地铁辱骂乘客衣服脏",
+        "onboard_time": 1745220082,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132412,
+        "num": 132412,
+        "word": "女子赌博欠贷遭债主胁迫肉偿抵债",
+        "onboard_time": 1745204063,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席东南亚三国之行成果速览#"
+    }
+  }
+}
