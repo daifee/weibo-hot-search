@@ -1,10 +1,10 @@
 {
   "startTime": 1745253028487,
-  "endTime": 1745277807255,
+  "endTime": 1745278665745,
   "band_list": [
     {
       "raw_hot": 2063845,
-      "num": 295267,
+      "num": 342029,
       "word": "关晓彤 鹿晗",
       "onboard_time": 1745230340,
       "rank": 10,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 859238,
-      "num": 859238,
+      "num": 946143,
       "word": "孩子睡觉时头发打湿是什么原因",
       "onboard_time": 1745251401,
       "rank": 32,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 553486,
-      "num": 374319,
+      "num": 452151,
       "word": "收到差评最多的外卖员",
       "onboard_time": 1745252241,
       "rank": 33,
@@ -59,20 +59,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 490516,
+      "num": 490516,
+      "word": "失去美国订单后海外订单量竟然多了",
+      "onboard_time": 1745238442,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 489231,
       "num": 227033,
       "word": "无手换卫生巾女孩被开黄腔",
       "onboard_time": 1745237421,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 442135,
-      "num": 442135,
-      "word": "失去美国订单后海外订单量竟然多了",
-      "onboard_time": 1745238442,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 433480,
@@ -91,7 +91,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 369959,
+      "raw_hot": 378216,
       "num": 383146,
       "word": "曝折腰没拿到签字",
       "onboard_time": 1745254458,
@@ -105,6 +105,22 @@
       "onboard_time": 1745247323,
       "rank": 21,
       "category": "演出"
+    },
+    {
+      "raw_hot": 355823,
+      "num": 355823,
+      "word": "央视曝光购物卡成洗钱工具",
+      "onboard_time": 1745244444,
+      "rank": 40,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 353719,
+      "num": 330422,
+      "word": "马伯骞给弟弟婚礼当伴郎",
+      "onboard_time": 1745240423,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 351347,
@@ -123,36 +139,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 329385,
+      "num": 329385,
+      "word": "女童被罐车撞倒身亡目击者发声",
+      "onboard_time": 1745248283,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 313067,
       "num": 313067,
       "word": "无忧渡陈奕恒镜头",
       "onboard_time": 1745247624,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 293251,
-      "num": 293251,
-      "word": "马伯骞给弟弟婚礼当伴郎",
-      "onboard_time": 1745240423,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 286733,
-      "num": 286733,
-      "word": "央视曝光购物卡成洗钱工具",
-      "onboard_time": 1745244444,
-      "rank": 40,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 272760,
-      "num": 272760,
-      "word": "女童被罐车撞倒身亡目击者发声",
-      "onboard_time": 1745248283,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 265463,
@@ -179,8 +179,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 224157,
-      "num": 224157,
+      "raw_hot": 239759,
+      "num": 239759,
       "word": "张根硕分享抗癌抗躁郁经历",
       "onboard_time": 1745240243,
       "rank": 18,
@@ -195,11 +195,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 193808,
-      "num": 193808,
+      "raw_hot": 200012,
+      "num": 200012,
       "word": "医院回应男女占母婴室做不雅行为",
       "onboard_time": 1745244023,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189264,
+      "num": 189264,
+      "word": "地铁被辱骂衣服脏乘客家属发声",
+      "onboard_time": 1745241743,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -211,12 +219,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 179353,
-      "num": 179353,
-      "word": "地铁被辱骂衣服脏乘客家属发声",
-      "onboard_time": 1745241743,
-      "rank": 34,
-      "category": "民生新闻"
+      "raw_hot": 181790,
+      "num": 299603,
+      "word": "美国股市大幅下跌",
+      "onboard_time": 1745277138,
+      "rank": 7,
+      "category": "财经"
     },
     {
       "raw_hot": 174123,
@@ -291,12 +299,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 110280,
-      "num": 228415,
+      "raw_hot": 110307,
+      "num": 230377,
       "word": "刘宇宁以为吉克隽逸是真公主",
       "onboard_time": 1745251522,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 107708,
+      "num": 190620,
+      "word": "吴艳妮长腿比例惊人",
+      "onboard_time": 1745278220,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 99957,
@@ -395,12 +411,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 68799,
+      "num": 68799,
+      "word": "球迷呼唤樊振东回归",
+      "onboard_time": 1745278159,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 68453,
+      "num": 68453,
+      "word": "我想看的曹骏古装",
+      "onboard_time": 1745273716,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 67276,
+      "num": 348713,
+      "word": "美国一客机突然起火",
+      "onboard_time": 1745277800,
+      "rank": 8,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 66836,
       "num": 77549,
       "word": "美联储降息黄金走势会怎么样",
       "onboard_time": 1745252061,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 66634,
+      "num": 344679,
+      "word": "美防长未否认与家人群聊作战信息",
+      "onboard_time": 1745277199,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 63868,
@@ -427,12 +475,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61729,
+      "num": 61729,
+      "word": "中国反制或让美军无人机计划延期",
+      "onboard_time": 1745264053,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 61434,
+      "num": 61434,
+      "word": "林依轮自称孙颖莎的野生粉头儿",
+      "onboard_time": 1745273415,
+      "rank": 46,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 60269,
       "num": 60269,
       "word": "孙恩盛直播",
       "onboard_time": 1745257818,
       "rank": 16,
       "category": "网红"
+    },
+    {
+      "raw_hot": 58566,
+      "num": 58566,
+      "word": "孙颖莎王楚钦参加多哈世乒赛混双",
+      "onboard_time": 1745278520,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 57985,
+      "num": 135612,
+      "word": "特朗普施压鲍威尔遭多方批评",
+      "onboard_time": 1745252781,
+      "rank": 24,
+      "category": "国际时政"
     },
     {
       "raw_hot": 56732,
@@ -443,20 +523,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 56132,
-      "num": 135612,
-      "word": "特朗普施压鲍威尔遭多方批评",
-      "onboard_time": 1745252781,
-      "rank": 24,
+      "raw_hot": 54856,
+      "num": 54856,
+      "word": "哈佛大学起诉特朗普政府",
+      "onboard_time": 1745278099,
+      "rank": 49,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 55497,
-      "num": 51945,
-      "word": "我想看的曹骏古装",
-      "onboard_time": 1745273716,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 52072,
@@ -465,22 +537,6 @@
       "onboard_time": 1745253140,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 50120,
-      "num": 50120,
-      "word": "中国反制或让美军无人机计划延期",
-      "onboard_time": 1745264053,
-      "rank": 49,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 50056,
-      "num": 50056,
-      "word": "林依轮自称孙颖莎的野生粉头儿",
-      "onboard_time": 1745273415,
-      "rank": 46,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 48508,
@@ -497,14 +553,6 @@
       "onboard_time": 1745255177,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 39614,
-      "num": 299603,
-      "word": "美国股市大幅下跌",
-      "onboard_time": 1745277138,
-      "rank": 7,
-      "category": "财经"
     },
     {
       "raw_hot": 39087,
@@ -548,7 +596,7 @@
     },
     {
       "raw_hot": 28971,
-      "num": 73168,
+      "num": 224799,
       "word": "比特币还会涨吗",
       "onboard_time": 1745274018,
       "rank": 35,
@@ -611,20 +659,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 20457,
-      "num": 297289,
-      "word": "美防长未否认与家人群聊作战信息",
-      "onboard_time": 1745277199,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 20334,
       "num": 20334,
       "word": "无忧渡无限流",
       "onboard_time": 1745262794,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 19483,
+      "num": 488453,
+      "word": "何以中国闽山闽水物华新",
+      "onboard_time": 1745217142,
+      "rank": 2,
+      "category": "正能量"
     },
     {
       "raw_hot": 19462,
@@ -635,20 +683,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 18933,
-      "num": 488453,
-      "word": "何以中国闽山闽水物华新",
-      "onboard_time": 1745217142,
-      "rank": 2,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 18261,
       "num": 21954,
       "word": "哪些人要定期做肠镜",
       "onboard_time": 1745260513,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 18051,
+      "num": 62028,
+      "word": "遭前男友烧残女子和母亲抱头痛哭",
+      "onboard_time": 1745278581,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16036,

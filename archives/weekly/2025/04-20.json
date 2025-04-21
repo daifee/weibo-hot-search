@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745277807255,
+  "endTime": 1745278665745,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -564,7 +564,7 @@
     },
     {
       "raw_hot": 859238,
-      "num": 859238,
+      "num": 946143,
       "word": "孩子睡觉时头发打湿是什么原因",
       "onboard_time": 1745251401,
       "rank": 32,
@@ -1036,7 +1036,7 @@
     },
     {
       "raw_hot": 553486,
-      "num": 374319,
+      "num": 452151,
       "word": "收到差评最多的外卖员",
       "onboard_time": 1745252241,
       "rank": 33,
@@ -1403,6 +1403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 378216,
+      "num": 383146,
+      "word": "曝折腰没拿到签字",
+      "onboard_time": 1745254458,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 376332,
       "num": 463768,
       "word": "生命树",
@@ -1441,14 +1449,6 @@
       "onboard_time": 1745137582,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 369959,
-      "num": 383146,
-      "word": "曝折腰没拿到签字",
-      "onboard_time": 1745254458,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 369168,
@@ -1563,6 +1563,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 355823,
+      "num": 585785,
+      "word": "央视曝光购物卡成洗钱工具",
+      "onboard_time": 1745244444,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 355376,
       "num": 355376,
       "word": "迪丽热巴33岁状态",
@@ -1665,6 +1673,14 @@
       "onboard_time": 1745155350,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 329385,
+      "num": 329385,
+      "word": "女童被罐车撞倒身亡目击者发声",
+      "onboard_time": 1745248283,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 329061,
@@ -1931,14 +1947,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 286733,
-      "num": 585785,
-      "word": "央视曝光购物卡成洗钱工具",
-      "onboard_time": 1745244444,
-      "rank": 14,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 285609,
       "num": 260794,
       "word": "树莓衮衮衮",
@@ -2008,14 +2016,6 @@
       "word": "大爷下单550只鸡退款被拒后连夜搭棚",
       "onboard_time": 1745227102,
       "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 272760,
-      "num": 272760,
-      "word": "女童被罐车撞倒身亡目击者发声",
-      "onboard_time": 1745248283,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -3369,6 +3369,14 @@
       "onboard_time": 1745137763,
       "rank": 22,
       "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 181790,
+      "num": 299603,
+      "word": "美国股市大幅下跌",
+      "onboard_time": 1745277138,
+      "rank": 7,
+      "category": "财经"
     },
     {
       "raw_hot": 181603,
@@ -5379,8 +5387,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 110280,
-      "num": 228415,
+      "raw_hot": 110307,
+      "num": 230377,
       "word": "刘宇宁以为吉克隽逸是真公主",
       "onboard_time": 1745251522,
       "rank": 28,
@@ -5449,6 +5457,14 @@
       "onboard_time": 1745207602,
       "rank": 38,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 107708,
+      "num": 190620,
+      "word": "吴艳妮长腿比例惊人",
+      "onboard_time": 1745278220,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 107587,
@@ -6363,6 +6379,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68799,
+      "num": 68799,
+      "word": "球迷呼唤樊振东回归",
+      "onboard_time": 1745278159,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 68453,
+      "num": 68453,
+      "word": "我想看的曹骏古装",
+      "onboard_time": 1745273716,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 68381,
       "num": 178616,
       "word": "会计伙同业务员侵占百万货款被判3年",
@@ -6395,6 +6427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67276,
+      "num": 348713,
+      "word": "美国一客机突然起火",
+      "onboard_time": 1745277800,
+      "rank": 8,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 67087,
       "num": 215889,
       "word": "78岁奶奶资助孙女开网店当客服打包",
@@ -6417,6 +6457,14 @@
       "onboard_time": 1745244624,
       "rank": 13,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 66634,
+      "num": 344679,
+      "word": "美防长未否认与家人群聊作战信息",
+      "onboard_time": 1745277199,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 66273,
@@ -6563,12 +6611,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 61729,
+      "num": 61729,
+      "word": "中国反制或让美军无人机计划延期",
+      "onboard_time": 1745264053,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 61553,
       "num": 85888,
       "word": "百人coser天团亮相WAW",
       "onboard_time": 1745136503,
       "rank": 41,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 61434,
+      "num": 61434,
+      "word": "林依轮自称孙颖莎的野生粉头儿",
+      "onboard_time": 1745273415,
+      "rank": 46,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 61345,
@@ -6627,6 +6691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58566,
+      "num": 58566,
+      "word": "孙颖莎王楚钦参加多哈世乒赛混双",
+      "onboard_time": 1745278520,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 58232,
       "num": 213276,
       "word": "云南的紫外线究竟能有多强",
@@ -6641,6 +6713,14 @@
       "onboard_time": 1745101697,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 57985,
+      "num": 135612,
+      "word": "特朗普施压鲍威尔遭多方批评",
+      "onboard_time": 1745252781,
+      "rank": 24,
+      "category": "国际时政"
     },
     {
       "raw_hot": 57318,
@@ -6691,14 +6771,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 56132,
-      "num": 135612,
-      "word": "特朗普施压鲍威尔遭多方批评",
-      "onboard_time": 1745252781,
-      "rank": 24,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 55868,
       "num": 55868,
       "word": "丁禹兮感动到快哭了",
@@ -6715,20 +6787,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 55497,
-      "num": 51945,
-      "word": "我想看的曹骏古装",
-      "onboard_time": 1745273716,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 55381,
       "num": 216686,
       "word": "方文山说AI可部分取代词作者",
       "onboard_time": 1745232861,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 54856,
+      "num": 54856,
+      "word": "哈佛大学起诉特朗普政府",
+      "onboard_time": 1745278099,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 54448,
@@ -6905,22 +6977,6 @@
       "onboard_time": 1745233281,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 50120,
-      "num": 50120,
-      "word": "中国反制或让美军无人机计划延期",
-      "onboard_time": 1745264053,
-      "rank": 49,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 50056,
-      "num": 50056,
-      "word": "林依轮自称孙颖莎的野生粉头儿",
-      "onboard_time": 1745273415,
-      "rank": 46,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 49980,
@@ -7307,14 +7363,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 39614,
-      "num": 299603,
-      "word": "美国股市大幅下跌",
-      "onboard_time": 1745277138,
-      "rank": 7,
-      "category": "财经"
-    },
-    {
       "raw_hot": 39301,
       "num": 322486,
       "word": "专家称全球对美国经济信心下降",
@@ -7636,7 +7684,7 @@
     },
     {
       "raw_hot": 28971,
-      "num": 73168,
+      "num": 224799,
       "word": "比特币还会涨吗",
       "onboard_time": 1745274018,
       "rank": 35,
@@ -8011,14 +8059,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 20457,
-      "num": 297289,
-      "word": "美防长未否认与家人群聊作战信息",
-      "onboard_time": 1745277199,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 20334,
       "num": 20334,
       "word": "无忧渡无限流",
@@ -8137,6 +8177,14 @@
       "onboard_time": 1745209104,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 18051,
+      "num": 62028,
+      "word": "遭前男友烧残女子和母亲抱头痛哭",
+      "onboard_time": 1745278581,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17463,
