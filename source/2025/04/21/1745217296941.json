@@ -1,0 +1,410 @@
+{
+  "runTime": 1745217296941,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1083945,
+        "num": 1173431,
+        "word": "无忧渡直播",
+        "onboard_time": 1745214502,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 492027,
+        "num": 492027,
+        "word": "特朗普自己人也坐不住了",
+        "onboard_time": 1745195005,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 849235,
+        "num": 391787,
+        "word": "章若楠回应粉丝名叫楠朋友",
+        "onboard_time": 1745212283,
+        "rank": 2,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 352570,
+        "num": 352570,
+        "word": "12306来票",
+        "onboard_time": 1745207725,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 304006,
+        "num": 335557,
+        "word": "青海一男子让3岁孩子驾驶货车上路",
+        "onboard_time": 1745215522,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 606235,
+        "num": 333229,
+        "word": "李昀锐直播哭了",
+        "onboard_time": 1745212761,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 459986,
+        "num": 329208,
+        "word": "反诈老陈直播四天卖了100万",
+        "onboard_time": 1745215881,
+        "rank": 6,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 324635,
+        "num": 324635,
+        "word": "王者荣耀三丽鸥",
+        "onboard_time": 1745208263,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 293374,
+        "num": 293374,
+        "word": "跟着樊振东的歌声打卡广东春天",
+        "onboard_time": 1745213903,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1241003,
+        "num": 293369,
+        "word": "关晓彤没发",
+        "onboard_time": 1745165142,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1101137,
+        "num": 293340,
+        "word": "我55岁导师的浏览记录",
+        "onboard_time": 1745213722,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 677270,
+        "num": 293322,
+        "word": "难怪大学没人要微信",
+        "onboard_time": 1745209643,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 459725,
+        "num": 293288,
+        "word": "请浪姐放过6旬老人",
+        "onboard_time": 1745210125,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108989,
+        "num": 293264,
+        "word": "摆摊救子宝妈回应被质疑炒作",
+        "onboard_time": 1745215821,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293259,
+        "num": 293259,
+        "word": "刘国正说雨果完全是拼刺刀打法",
+        "onboard_time": 1745204661,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 902967,
+        "num": 284181,
+        "word": "鹿晗 关晓彤",
+        "onboard_time": 1745150424,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 417286,
+        "num": 279739,
+        "word": "哪吒3母亲复活",
+        "onboard_time": 1745201662,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 366633,
+        "num": 272311,
+        "word": "偶遇谢娜李小冉逛商场",
+        "onboard_time": 1745213183,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327414,
+        "num": 258914,
+        "word": "无忧渡直播 卡",
+        "onboard_time": 1745214502,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 304842,
+        "num": 246828,
+        "word": "赵丽颖带儿子想想买玩具",
+        "onboard_time": 1745215461,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243976,
+        "num": 243976,
+        "word": "宋祖儿剧宣活动",
+        "onboard_time": 1745214863,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236313,
+        "num": 236313,
+        "word": "情侣吵架男子撞碎酒店玻璃摔出窗外",
+        "onboard_time": 1745215942,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194631,
+        "num": 230915,
+        "word": "女子赌博欠贷遭债主胁迫肉偿抵债",
+        "onboard_time": 1745204063,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42213,
+        "num": 230822,
+        "word": "雨果世界杯赛后发博",
+        "onboard_time": 1745213061,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230780,
+        "num": 230780,
+        "word": "赵露思代言CT",
+        "onboard_time": 1745208922,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 57023,
+        "num": 218966,
+        "word": "李昀锐飞花给粉丝回礼",
+        "onboard_time": 1745217021,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23093,
+        "num": 216376,
+        "word": "中国钙钛矿电池的技术突破有什么意义",
+        "onboard_time": 1745217081,
+        "rank": 26,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 214605,
+        "num": 214605,
+        "word": "宋祖儿亲手做了饼干",
+        "onboard_time": 1745216122,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131073,
+        "num": 210388,
+        "word": "一二线城市房东妥协降价了",
+        "onboard_time": 1745213602,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226620,
+        "num": 210153,
+        "word": "综艺史上最强婚恋售后出现了",
+        "onboard_time": 1745205684,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209034,
+        "num": 209034,
+        "word": "本周上5休1再上1",
+        "onboard_time": 1745203822,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163382,
+        "num": 163382,
+        "word": "甲状腺健康的人有6个习惯",
+        "onboard_time": 1745200582,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 158511,
+        "num": 158511,
+        "word": "孙颖莎冠军",
+        "onboard_time": 1745151746,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117389,
+        "num": 154718,
+        "word": "反诈老陈回应年收入",
+        "onboard_time": 1745217260,
+        "rank": 33,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 154616,
+        "num": 154616,
+        "word": "瞿颖和男友带两个女儿打网球",
+        "onboard_time": 1745215522,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152787,
+        "num": 152787,
+        "word": "97岁老教师放弃百万富翁机会",
+        "onboard_time": 1745216362,
+        "rank": 35,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 145776,
+        "num": 145776,
+        "word": "鹿晗",
+        "onboard_time": 1745190379,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53069,
+        "num": 144747,
+        "word": "胡杏儿绿茶气质拿捏到位了",
+        "onboard_time": 1745211384,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144669,
+        "num": 144669,
+        "word": "朱珠带了整整四个月妆",
+        "onboard_time": 1745195486,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140958,
+        "num": 140958,
+        "word": "一方有难 八方添乱",
+        "onboard_time": 1745216362,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116856,
+        "num": 133857,
+        "word": "咖咖真的把自己养的很好",
+        "onboard_time": 1745217202,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131980,
+        "num": 131980,
+        "word": "曝文泰一近照",
+        "onboard_time": 1745214202,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130930,
+        "num": 130930,
+        "word": "觉得干什么都没必要的人 看到了吗",
+        "onboard_time": 1745216781,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128440,
+        "num": 128440,
+        "word": "王者荣耀",
+        "onboard_time": 1745206461,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 127704,
+        "num": 127704,
+        "word": "出轨的爸病床的妈被排挤的他",
+        "onboard_time": 1745217260,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123435,
+        "num": 123435,
+        "word": "谢谢北京地铁5号线上勇敢的女乘客",
+        "onboard_time": 1745161948,
+        "rank": 45,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 122496,
+        "num": 122496,
+        "word": "五一酒店",
+        "onboard_time": 1745217260,
+        "rank": 46,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 32577,
+        "num": 122169,
+        "word": "如何应对春季柳絮过敏",
+        "onboard_time": 1745215881,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 9731,
+        "num": 122002,
+        "word": "闽地纪行",
+        "onboard_time": 1745192001,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121939,
+        "num": 121939,
+        "word": "知音漫客删除复刊微博",
+        "onboard_time": 1745212283,
+        "rank": 49,
+        "category": "读书作家"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席东南亚三国之行成果速览#"
+    }
+  }
+}
