@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1745270594938,
+  "endTime": 1745271544798,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -71075,6 +71075,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 18872,
+      "num": 18872,
+      "word": "中国反制或让美军无人机计划延期",
+      "onboard_time": 1745264053,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 18858,
       "num": 37333,
       "word": "双轨杀青",
@@ -71225,14 +71233,6 @@
       "onboard_time": 1744719682,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 18343,
-      "num": 18343,
-      "word": "中国反制或让美军无人机计划延期",
-      "onboard_time": 1745264053,
-      "rank": 49,
-      "category": "国内时政"
     },
     {
       "raw_hot": 18340,
@@ -71931,6 +71931,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 15014,
+      "num": 17427,
+      "word": "何润东在家里后花园养鸡",
+      "onboard_time": 1745270654,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 15009,
       "num": 20630,
       "word": "美关税乱政成了马戏表演",
@@ -72235,6 +72243,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 13747,
+      "num": 17423,
+      "word": "荷兰 欧洲小衡水",
+      "onboard_time": 1745267354,
+      "rank": 45,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 13724,
       "num": 374978,
       "word": "如何看待澳门世乒赛林诗栋晋级八强",
@@ -72321,14 +72337,6 @@
       "onboard_time": 1744310955,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 13207,
-      "num": 16053,
-      "word": "荷兰 欧洲小衡水",
-      "onboard_time": 1745267354,
-      "rank": 45,
-      "category": "旅游"
     },
     {
       "raw_hot": 13156,
@@ -72593,6 +72601,14 @@
       "onboard_time": 1744499717,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 12060,
+      "num": 17421,
+      "word": "柯南剧场版为什么逐年爆火",
+      "onboard_time": 1745269994,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 12031,

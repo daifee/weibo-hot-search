@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745270594938,
+  "endTime": 1745271544798,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -8019,20 +8019,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 18872,
+      "num": 18872,
+      "word": "中国反制或让美军无人机计划延期",
+      "onboard_time": 1745264053,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 18538,
       "num": 244919,
       "word": "棉花糖爸爸寻女走遍全国开坏2辆车",
       "onboard_time": 1745145441,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18343,
-      "num": 18343,
-      "word": "中国反制或让美军无人机计划延期",
-      "onboard_time": 1745264053,
-      "rank": 49,
-      "category": "国内时政"
     },
     {
       "raw_hot": 18261,
@@ -8163,6 +8163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 15014,
+      "num": 17427,
+      "word": "何润东在家里后花园养鸡",
+      "onboard_time": 1745270654,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 14818,
       "num": 952253,
       "word": "春茶正当时",
@@ -8227,6 +8235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 13747,
+      "num": 17423,
+      "word": "荷兰 欧洲小衡水",
+      "onboard_time": 1745267354,
+      "rank": 45,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 13650,
       "num": 20484,
       "word": "一句古话说透中马关系",
@@ -8251,14 +8267,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 13207,
-      "num": 16053,
-      "word": "荷兰 欧洲小衡水",
-      "onboard_time": 1745267354,
-      "rank": 45,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 13050,
       "num": 21866,
       "word": "孙颖莎回应比1手势",
@@ -8281,6 +8289,14 @@
       "onboard_time": 1745130082,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 12060,
+      "num": 17421,
+      "word": "柯南剧场版为什么逐年爆火",
+      "onboard_time": 1745269994,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 11818,
