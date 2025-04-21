@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745209795032,
+  "endTime": 1745210676098,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -259,8 +259,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1287368,
-      "num": 689898,
+      "raw_hot": 1290057,
+      "num": 784153,
       "word": "综艺史上最强婚恋售后出现了",
       "onboard_time": 1745205684,
       "rank": 27,
@@ -387,6 +387,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 844569,
+      "num": 710554,
+      "word": "赵露思代言CT",
+      "onboard_time": 1745208922,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 817201,
       "num": 247657,
       "word": "关晓彤主页访问量",
@@ -435,12 +443,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 717584,
+      "num": 717584,
+      "word": "王者荣耀三丽鸥",
+      "onboard_time": 1745208263,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 713848,
       "num": 574850,
       "word": "焦恩俊谈离婚原因",
       "onboard_time": 1745124262,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 712373,
+      "num": 712373,
+      "word": "刘国正说雨果完全是拼刺刀打法",
+      "onboard_time": 1745204661,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 708480,
@@ -473,6 +497,14 @@
       "onboard_time": 1745201542,
       "rank": 4,
       "category": "教育"
+    },
+    {
+      "raw_hot": 691979,
+      "num": 691979,
+      "word": "本周上5休1再上1",
+      "onboard_time": 1745203822,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 691258,
@@ -595,14 +627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 587418,
-      "num": 587418,
-      "word": "刘国正说雨果完全是拼刺刀打法",
-      "onboard_time": 1745204661,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 573288,
       "num": 573288,
       "word": "雨果采访哭了",
@@ -683,14 +707,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 542995,
-      "num": 676067,
-      "word": "本周上5休1再上1",
-      "onboard_time": 1745203822,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 538394,
       "num": 538394,
       "word": "难哄",
@@ -737,14 +753,6 @@
       "onboard_time": 1745138962,
       "rank": 8,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 532285,
-      "num": 532285,
-      "word": "王者荣耀三丽鸥",
-      "onboard_time": 1745208263,
-      "rank": 6,
-      "category": "游戏"
     },
     {
       "raw_hot": 525606,
@@ -955,14 +963,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 370233,
-      "num": 370233,
-      "word": "赵露思代言CT",
-      "onboard_time": 1745208922,
-      "rank": 15,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 370223,
       "num": 245105,
       "word": "迪丽热巴SKP活动",
@@ -1051,6 +1051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 355935,
+      "num": 369872,
+      "word": "Jennie科切拉舞台",
+      "onboard_time": 1745207362,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 355376,
       "num": 355376,
       "word": "迪丽热巴33岁状态",
@@ -1121,14 +1129,6 @@
       "onboard_time": 1745155350,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 329875,
-      "num": 369872,
-      "word": "Jennie科切拉舞台",
-      "onboard_time": 1745207362,
-      "rank": 28,
-      "category": "演出"
     },
     {
       "raw_hot": 329061,
@@ -1235,6 +1235,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 300481,
+      "num": 300481,
+      "word": "请浪姐放过6旬老人",
+      "onboard_time": 1745210125,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 300177,
       "num": 300177,
       "word": "这周要上六天班",
@@ -1289,6 +1297,14 @@
       "onboard_time": 1745068703,
       "rank": 9,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 288354,
+      "num": 369746,
+      "word": "生命树 胡歌",
+      "onboard_time": 1745209404,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 287753,
@@ -1387,11 +1403,35 @@
       "category": "体育"
     },
     {
+      "raw_hot": 260569,
+      "num": 260569,
+      "word": "罗晋王子文领衔主演",
+      "onboard_time": 1745209523,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 260119,
+      "num": 293493,
+      "word": "库里31分",
+      "onboard_time": 1745209944,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 260116,
       "num": 260116,
       "word": "孙颖莎雨果澳门冠军城市宣传照",
       "onboard_time": 1745202801,
       "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 258736,
+      "num": 282131,
+      "word": "伊藤美诚晒与孙颖莎合照",
+      "onboard_time": 1745206404,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -1483,14 +1523,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 237669,
-      "num": 282131,
-      "word": "伊藤美诚晒与孙颖莎合照",
-      "onboard_time": 1745206404,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 235956,
       "num": 235956,
       "word": "美联储主席若遭解雇或致美国股市崩盘",
@@ -1523,6 +1555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 226358,
+      "num": 226358,
+      "word": "玻利维亚宣布对华出口奇亚籽无上限",
+      "onboard_time": 1745209284,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 225429,
       "num": 272128,
       "word": "一轮接一轮降雨来了",
@@ -1547,6 +1587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 220637,
+      "num": 331761,
+      "word": "旅行AI拉齐了全家五一出游颗粒度",
+      "onboard_time": 1745208622,
+      "rank": 34,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 219388,
       "num": 219388,
       "word": "美三位前总统罕见谴责现政府",
@@ -1561,6 +1609,14 @@
       "onboard_time": 1745193623,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 218449,
+      "num": 470356,
+      "word": "特朗普拟裁撤重组美国国务院",
+      "onboard_time": 1745208563,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 218229,
@@ -1617,14 +1673,6 @@
       "onboard_time": 1745154627,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 213916,
-      "num": 369746,
-      "word": "生命树 胡歌",
-      "onboard_time": 1745209404,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 213852,
@@ -1811,14 +1859,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 201579,
-      "num": 470356,
-      "word": "特朗普拟裁撤重组美国国务院",
-      "onboard_time": 1745208563,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 200778,
       "num": 459535,
       "word": "默沙东九价HPV疫苗男女均可接种",
@@ -1931,14 +1971,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 196928,
-      "num": 196928,
-      "word": "罗晋王子文领衔主演",
-      "onboard_time": 1745209523,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 196669,
       "num": 236282,
       "word": "森林狼1比0湖人",
@@ -1977,6 +2009,14 @@
       "onboard_time": 1745154986,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 194863,
+      "num": 194863,
+      "word": "勇士战胜火箭",
+      "onboard_time": 1745210304,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 194604,
@@ -2091,6 +2131,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 188681,
+      "num": 227887,
+      "word": "杨紫生命树4月底开机",
+      "onboard_time": 1745207602,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187024,
       "num": 187024,
       "word": "巴西人成了乒乓球世界冠军",
@@ -2169,6 +2217,14 @@
       "onboard_time": 1745137763,
       "rank": 22,
       "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 181603,
+      "num": 181603,
+      "word": "金饰价格涨到1034元",
+      "onboard_time": 1745210544,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 181164,
@@ -2267,6 +2323,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 176590,
+      "num": 176590,
+      "word": "嫁得好猫咪都跟着沾光",
+      "onboard_time": 1745210364,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 176354,
       "num": 176354,
       "word": "黄子弘凡直播",
@@ -2288,14 +2352,6 @@
       "word": "也没人跟我说陈意涵老公这么会拍啊",
       "onboard_time": 1745129422,
       "rank": 29,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 175648,
-      "num": 227887,
-      "word": "杨紫生命树4月底开机",
-      "onboard_time": 1745207602,
-      "rank": 45,
       "category": "剧集"
     },
     {
@@ -2795,14 +2851,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 152896,
-      "num": 331761,
-      "word": "旅行AI拉齐了全家五一出游颗粒度",
-      "onboard_time": 1745208622,
-      "rank": 34,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 152615,
       "num": 152615,
       "word": "李昀锐冰湖重生是最热闹的杀青",
@@ -2841,6 +2889,14 @@
       "onboard_time": 1745157628,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150670,
+      "num": 370104,
+      "word": "飞猪AI泄露五一最该囤的机票",
+      "onboard_time": 1745208325,
+      "rank": 17,
+      "category": "互联网"
     },
     {
       "raw_hot": 150609,
@@ -2937,14 +2993,6 @@
       "onboard_time": 1745208622,
       "rank": 42,
       "category": "健康医疗,民生新闻"
-    },
-    {
-      "raw_hot": 145966,
-      "num": 370104,
-      "word": "飞猪AI泄露五一最该囤的机票",
-      "onboard_time": 1745208325,
-      "rank": 17,
-      "category": "互联网"
     },
     {
       "raw_hot": 144936,
@@ -4259,6 +4307,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 74856,
+      "num": 189210,
+      "word": "我问AI带1万元去上海玩一天够吗",
+      "onboard_time": 1745209944,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72374,
       "num": 404001,
       "word": "老人50年为村寨起了200栋木楼",
@@ -4313,6 +4369,14 @@
       "onboard_time": 1745132303,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 67914,
+      "num": 439808,
+      "word": "美国核心婴幼儿产品大多数来自中国",
+      "onboard_time": 1745209823,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 67087,
@@ -4651,6 +4715,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 47976,
+      "num": 231841,
+      "word": "曹颖模仿房琪",
+      "onboard_time": 1745207423,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 47417,
       "num": 47417,
       "word": "黄子弘凡演唱会哭了",
@@ -4667,8 +4739,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47368,
+      "num": 258738,
+      "word": "白敬亭阿信清唱任性",
+      "onboard_time": 1745208443,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 46159,
-      "num": 704714,
+      "num": 795939,
       "word": "何以中国看福建",
       "onboard_time": 1745192421,
       "rank": 2,
@@ -4753,6 +4833,14 @@
       "onboard_time": 1745140403,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41739,
+      "num": 304114,
+      "word": "美元指数是什么",
+      "onboard_time": 1745210304,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 41645,

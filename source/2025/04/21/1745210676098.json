@@ -1,0 +1,410 @@
+{
+  "runTime": 1745210676098,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1531028,
+        "num": 1531028,
+        "word": "哪吒3母亲复活",
+        "onboard_time": 1745201662,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 884498,
+        "num": 884498,
+        "word": "特朗普自己人也坐不住了",
+        "onboard_time": 1745195005,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 42252,
+        "num": 795939,
+        "word": "何以中国看福建",
+        "onboard_time": 1745192421,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1290057,
+        "num": 784153,
+        "word": "综艺史上最强婚恋售后出现了",
+        "onboard_time": 1745205684,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 717584,
+        "num": 717584,
+        "word": "王者荣耀三丽鸥",
+        "onboard_time": 1745208263,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 712373,
+        "num": 712373,
+        "word": "刘国正说雨果完全是拼刺刀打法",
+        "onboard_time": 1745204661,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 844569,
+        "num": 710554,
+        "word": "赵露思代言CT",
+        "onboard_time": 1745208922,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 691979,
+        "num": 691979,
+        "word": "本周上5休1再上1",
+        "onboard_time": 1745203822,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 460015,
+        "num": 460015,
+        "word": "朱珠带了整整四个月妆",
+        "onboard_time": 1745195486,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67914,
+        "num": 439808,
+        "word": "美国核心婴幼儿产品大多数来自中国",
+        "onboard_time": 1745209823,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2595149,
+        "num": 436456,
+        "word": "关晓彤没发",
+        "onboard_time": 1745165142,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 430302,
+        "num": 430302,
+        "word": "钟辰乐只p自己 黄仁俊放原图",
+        "onboard_time": 1745198424,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373619,
+        "num": 373619,
+        "word": "晚上10点睡觉和11点睡觉的区别",
+        "onboard_time": 1745201302,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 355935,
+        "num": 355935,
+        "word": "Jennie科切拉舞台",
+        "onboard_time": 1745207362,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 353899,
+        "num": 353899,
+        "word": "谢谢北京地铁5号线上勇敢的女乘客",
+        "onboard_time": 1745161948,
+        "rank": 14,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 2158339,
+        "num": 341378,
+        "word": "鹿晗 关晓彤",
+        "onboard_time": 1745150424,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310336,
+        "num": 310336,
+        "word": "孙颖莎冠军",
+        "onboard_time": 1745151746,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 306100,
+        "num": 306100,
+        "word": "七年之痒",
+        "onboard_time": 1745199443,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150670,
+        "num": 305641,
+        "word": "飞猪AI泄露五一最该囤的机票",
+        "onboard_time": 1745208325,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 41739,
+        "num": 304114,
+        "word": "美元指数是什么",
+        "onboard_time": 1745210304,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 394207,
+        "num": 302953,
+        "word": "女子赌博欠贷遭债主胁迫肉偿抵债",
+        "onboard_time": 1745204063,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 331725,
+        "num": 301778,
+        "word": "甲状腺健康的人有6个习惯",
+        "onboard_time": 1745200582,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 300481,
+        "num": 300481,
+        "word": "请浪姐放过6旬老人",
+        "onboard_time": 1745210125,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 293617,
+        "num": 293617,
+        "word": "12306来票",
+        "onboard_time": 1745207725,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 260119,
+        "num": 293493,
+        "word": "库里31分",
+        "onboard_time": 1745209944,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 278429,
+        "num": 293126,
+        "word": "勇士vs火箭",
+        "onboard_time": 1745209284,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 288354,
+        "num": 292727,
+        "word": "生命树 胡歌",
+        "onboard_time": 1745209404,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83839,
+        "num": 292596,
+        "word": "建议大学生接种九价HPV疫苗",
+        "onboard_time": 1745206642,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147767,
+        "num": 292391,
+        "word": "你的下一辆宝马应该这么开",
+        "onboard_time": 1745208263,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111251,
+        "num": 291872,
+        "word": "飞猪旅行AI邀请码炒至千元",
+        "onboard_time": 1745208263,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 303409,
+        "num": 291639,
+        "word": "京东优先为骑手对象安排工作",
+        "onboard_time": 1745206404,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 291517,
+        "num": 291517,
+        "word": "王者荣耀",
+        "onboard_time": 1745206461,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 267645,
+        "num": 267645,
+        "word": "李昊养病休息",
+        "onboard_time": 1745203401,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260569,
+        "num": 260569,
+        "word": "罗晋王子文领衔主演",
+        "onboard_time": 1745209523,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220637,
+        "num": 258830,
+        "word": "旅行AI拉齐了全家五一出游颗粒度",
+        "onboard_time": 1745208622,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 47368,
+        "num": 258738,
+        "word": "白敬亭阿信清唱任性",
+        "onboard_time": 1745208443,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 258736,
+        "num": 258736,
+        "word": "伊藤美诚晒与孙颖莎合照",
+        "onboard_time": 1745206404,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238130,
+        "num": 238130,
+        "word": "真小鸟全身都在拒绝封妃",
+        "onboard_time": 1745205923,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 47976,
+        "num": 231841,
+        "word": "曹颖模仿房琪",
+        "onboard_time": 1745207423,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23998,
+        "num": 227959,
+        "word": "6个常用食补名方",
+        "onboard_time": 1745209764,
+        "rank": 39,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 226358,
+        "num": 226358,
+        "word": "玻利维亚宣布对华出口奇亚籽无上限",
+        "onboard_time": 1745209284,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 218449,
+        "num": 218449,
+        "word": "特朗普拟裁撤重组美国国务院",
+        "onboard_time": 1745208563,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 202394,
+        "num": 202394,
+        "word": "京东美团均称不存在二选一",
+        "onboard_time": 1745208744,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 195281,
+        "num": 195281,
+        "word": "难怪大学没人要微信",
+        "onboard_time": 1745209643,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 194863,
+        "num": 194863,
+        "word": "勇士战胜火箭",
+        "onboard_time": 1745210304,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192413,
+        "num": 192413,
+        "word": "央视记者卧底交友软件曝光消费陷阱",
+        "onboard_time": 1745207725,
+        "rank": 45,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 74856,
+        "num": 189210,
+        "word": "我问AI带1万元去上海玩一天够吗",
+        "onboard_time": 1745209944,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188681,
+        "num": 188681,
+        "word": "杨紫生命树4月底开机",
+        "onboard_time": 1745207602,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181603,
+        "num": 181603,
+        "word": "金饰价格涨到1034元",
+        "onboard_time": 1745210544,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 176590,
+        "num": 176590,
+        "word": "嫁得好猫咪都跟着沾光",
+        "onboard_time": 1745210364,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#文明因交流而多彩因互鉴而丰富#"
+    }
+  }
+}
