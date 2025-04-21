@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745228399615,
+  "endTime": 1745231225077,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -129,6 +129,14 @@
       "onboard_time": 1745156790,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2174272,
+      "num": 293398,
+      "word": "关晓彤 鹿晗",
+      "onboard_time": 1745230340,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2045928,
@@ -297,6 +305,14 @@
       "onboard_time": 1745205684,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1281452,
+      "num": 697972,
+      "word": "舒肤佳 王楚钦",
+      "onboard_time": 1745227821,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 1222159,
@@ -547,6 +563,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 729054,
+      "num": 729054,
+      "word": "金饰克价已涨到1039元",
+      "onboard_time": 1745226741,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 723149,
       "num": 265285,
       "word": "京东外卖",
@@ -587,11 +611,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 704021,
-      "num": 484949,
-      "word": "舒肤佳 王楚钦",
-      "onboard_time": 1745227821,
-      "rank": 3,
+      "raw_hot": 708407,
+      "num": 290528,
+      "word": "林诗栋拿到50000美金奖金",
+      "onboard_time": 1745229141,
+      "rank": 11,
       "category": "体育"
     },
     {
@@ -641,6 +665,14 @@
       "onboard_time": 1745121803,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 685332,
+      "num": 685332,
+      "word": "折腰预约",
+      "onboard_time": 1745227702,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 683695,
@@ -1051,6 +1083,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 434556,
+      "num": 310029,
+      "word": "万斯 教皇",
+      "onboard_time": 1745227163,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 431595,
       "num": 259919,
       "word": "杨幂晒刮痧小猫",
@@ -1177,6 +1217,14 @@
       "onboard_time": 1745158289,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 371146,
+      "num": 238665,
+      "word": "店员穿露背短裙不戴口罩做奶茶",
+      "onboard_time": 1745228542,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 370223,
@@ -1387,20 +1435,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 325612,
+      "num": 242890,
+      "word": "35岁程序员长期熬夜脑干出血",
+      "onboard_time": 1745226141,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 324027,
       "num": 145029,
       "word": "gxt",
       "onboard_time": 1745081433,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 320824,
-      "num": 320824,
-      "word": "折腰预约",
-      "onboard_time": 1745227702,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 320603,
@@ -1459,14 +1507,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 310029,
-      "num": 310029,
-      "word": "万斯 教皇",
-      "onboard_time": 1745227163,
-      "rank": 35,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 307242,
       "num": 452617,
       "word": "范思哲晚宴",
@@ -1497,6 +1537,14 @@
       "onboard_time": 1745199742,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 301866,
+      "num": 301866,
+      "word": "宋祖儿对任嘉伦的初印象",
+      "onboard_time": 1745229321,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 300655,
@@ -1649,6 +1697,14 @@
       "onboard_time": 1745225781,
       "rank": 13,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 273651,
+      "num": 206368,
+      "word": "大爷下单550只鸡退款被拒后连夜搭棚",
+      "onboard_time": 1745227102,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 270442,
@@ -1825,14 +1881,6 @@
       "onboard_time": 1745122344,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 242890,
-      "num": 242890,
-      "word": "35岁程序员长期熬夜脑干出血",
-      "onboard_time": 1745226141,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 239644,
@@ -2179,14 +2227,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 206368,
-      "num": 206368,
-      "word": "大爷下单550只鸡退款被拒后连夜搭棚",
-      "onboard_time": 1745227102,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 205030,
       "num": 205030,
       "word": "丁禹兮李一桐张峻豪魏哲鸣晚宴内场图",
@@ -2201,6 +2241,14 @@
       "onboard_time": 1745226321,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 204279,
+      "num": 204279,
+      "word": "方文山说周杰伦今年会出新专辑",
+      "onboard_time": 1745230281,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 203844,
@@ -2603,6 +2651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190707,
+      "num": 190707,
+      "word": "雨果称打王楚钦最困难",
+      "onboard_time": 1745229443,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190220,
       "num": 210872,
       "word": "男子带10名女子吃千元烧烤逃单",
@@ -2627,12 +2683,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 189143,
-      "num": 189143,
-      "word": "金饰克价已涨到1039元",
-      "onboard_time": 1745226741,
-      "rank": 48,
-      "category": "财经"
+      "raw_hot": 189513,
+      "num": 203579,
+      "word": "刘亦菲女特工造型",
+      "onboard_time": 1745228361,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 188681,
@@ -2937,6 +2993,22 @@
       "onboard_time": 1745137582,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 173802,
+      "num": 173802,
+      "word": "花两千多买的红烧肉盖饭",
+      "onboard_time": 1745230823,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 173766,
+      "num": 191120,
+      "word": "迪丽热巴雅典女神妆",
+      "onboard_time": 1745228482,
+      "rank": 34,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 173369,
@@ -3483,6 +3555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153356,
+      "num": 169251,
+      "word": "家业",
+      "onboard_time": 1745229802,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153151,
       "num": 188235,
       "word": "宋祖儿任嘉伦吻戏",
@@ -3545,14 +3625,6 @@
       "onboard_time": 1745208325,
       "rank": 17,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 150619,
-      "num": 150619,
-      "word": "刘亦菲女特工造型",
-      "onboard_time": 1745228361,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 150609,
@@ -3675,6 +3747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144214,
+      "num": 144214,
+      "word": "周深问海上怎么有牙刷",
+      "onboard_time": 1745230882,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143764,
       "num": 143764,
       "word": "COA8总决赛抽签",
@@ -3689,6 +3769,14 @@
       "onboard_time": 1745150544,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 143307,
+      "num": 143307,
+      "word": "韩东君家业杀青",
+      "onboard_time": 1745231182,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 143286,
@@ -3969,6 +4057,14 @@
       "onboard_time": 1745115982,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132467,
+      "num": 170543,
+      "word": "教皇去世前一天会见美国副总统",
+      "onboard_time": 1745230762,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 132233,
@@ -4451,6 +4547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110910,
+      "num": 278611,
+      "word": "有欧洲人在赴美入境时被扒光衣服",
+      "onboard_time": 1745230103,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 109843,
       "num": 305746,
       "word": "颜安直播",
@@ -4737,6 +4841,14 @@
       "onboard_time": 1745141782,
       "rank": 33,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 98142,
+      "num": 297534,
+      "word": "关于实施自由贸易试验区提升战略的意见",
+      "onboard_time": 1745230161,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 97430,
@@ -5267,6 +5379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69060,
+      "num": 202169,
+      "word": "四川一高速服务区附近出现大量死鸟",
+      "onboard_time": 1745230161,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68381,
       "num": 178616,
       "word": "会计伙同业务员侵占百万货款被判3年",
@@ -5347,6 +5467,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 63956,
+      "num": 198863,
+      "word": "杜绝虚假宣传与过度营销辅助驾驶",
+      "onboard_time": 1745230583,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63137,
       "num": 223180,
       "word": "男子钓鱼差点钓到扬子鳄",
@@ -5361,6 +5489,14 @@
       "onboard_time": 1745171117,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 62204,
+      "num": 267987,
+      "word": "与众06锋芒智趣纯电SUV",
+      "onboard_time": 1745229922,
+      "rank": 16,
+      "category": "汽车"
     },
     {
       "raw_hot": 61920,
@@ -5555,6 +5691,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 52970,
+      "num": 261895,
+      "word": "旅游中最该省的钱是什么",
+      "onboard_time": 1745230043,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 52676,
       "num": 252228,
       "word": "减肥仪宣称用1次等于跑步10小时",
@@ -5625,6 +5769,14 @@
       "onboard_time": 1745141182,
       "rank": 19,
       "category": "情感,民生新闻"
+    },
+    {
+      "raw_hot": 49259,
+      "num": 171538,
+      "word": "揉腹的正确方法",
+      "onboard_time": 1745230161,
+      "rank": 38,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 49147,
@@ -6107,6 +6259,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 29643,
+      "num": 256977,
+      "word": "桂林农户谈近日严重旱情影响种植",
+      "onboard_time": 1745229862,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28592,
       "num": 230975,
       "word": "学习不自律怎么办",
@@ -6457,6 +6617,14 @@
       "onboard_time": 1745102238,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 16019,
+      "num": 147159,
+      "word": "如何用千元去欧洲",
+      "onboard_time": 1745229742,
+      "rank": 46,
+      "category": "旅游"
     },
     {
       "raw_hot": 15563,

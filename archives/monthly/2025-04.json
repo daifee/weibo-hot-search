@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1745228399615,
+  "endTime": 1745231225077,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -873,6 +873,14 @@
       "onboard_time": 1744189823,
       "rank": 22,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 2174272,
+      "num": 293398,
+      "word": "关晓彤 鹿晗",
+      "onboard_time": 1745230340,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2163339,
@@ -2953,6 +2961,14 @@
       "onboard_time": 1744759579,
       "rank": 13,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1281452,
+      "num": 697972,
+      "word": "舒肤佳 王楚钦",
+      "onboard_time": 1745227821,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 1279382,
@@ -7059,6 +7075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 729054,
+      "num": 729054,
+      "word": "金饰克价已涨到1039元",
+      "onboard_time": 1745226741,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 729002,
       "num": 729002,
       "word": "河南省考成绩",
@@ -7427,6 +7451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 708407,
+      "num": 290528,
+      "word": "林诗栋拿到50000美金奖金",
+      "onboard_time": 1745229141,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 707847,
       "num": 371469,
       "word": "三河市委书记",
@@ -7481,14 +7513,6 @@
       "onboard_time": 1744530021,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 704021,
-      "num": 484949,
-      "word": "舒肤佳 王楚钦",
-      "onboard_time": 1745227821,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 702948,
@@ -7737,6 +7761,14 @@
       "onboard_time": 1744112422,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 685332,
+      "num": 685332,
+      "word": "折腰预约",
+      "onboard_time": 1745227702,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 684715,
@@ -12971,6 +13003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 434556,
+      "num": 310029,
+      "word": "万斯 教皇",
+      "onboard_time": 1745227163,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 434304,
       "num": 434304,
       "word": "外国人吃到中国科技的细糠了",
@@ -15235,6 +15275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 371146,
+      "num": 238665,
+      "word": "店员穿露背短裙不戴口罩做奶茶",
+      "onboard_time": 1745228542,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 371131,
       "num": 371131,
       "word": "中国政府关于反对美国滥施关税的立场",
@@ -17419,6 +17467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 325612,
+      "num": 242890,
+      "word": "35岁程序员长期熬夜脑干出血",
+      "onboard_time": 1745226141,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 325456,
       "num": 326603,
       "word": "东部战区军事行动主题海报毁瘫",
@@ -17617,14 +17673,6 @@
       "onboard_time": 1744373302,
       "rank": 10,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 320824,
-      "num": 320824,
-      "word": "折腰预约",
-      "onboard_time": 1745227702,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 320820,
@@ -18227,14 +18275,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 310029,
-      "num": 310029,
-      "word": "万斯 教皇",
-      "onboard_time": 1745227163,
-      "rank": 35,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 309962,
       "num": 309962,
       "word": "甲亢哥唱阳光彩虹小白马",
@@ -18729,6 +18769,14 @@
       "onboard_time": 1745069124,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 301866,
+      "num": 301866,
+      "word": "宋祖儿对任嘉伦的初印象",
+      "onboard_time": 1745229321,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 301656,
@@ -20513,6 +20561,14 @@
       "onboard_time": 1745225781,
       "rank": 13,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 273651,
+      "num": 206368,
+      "word": "大爷下单550只鸡退款被拒后连夜搭棚",
+      "onboard_time": 1745227102,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 273383,
@@ -22905,14 +22961,6 @@
       "onboard_time": 1745122344,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 242890,
-      "num": 242890,
-      "word": "35岁程序员长期熬夜脑干出血",
-      "onboard_time": 1745226141,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 242807,
@@ -27483,14 +27531,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 206368,
-      "num": 206368,
-      "word": "大爷下单550只鸡退款被拒后连夜搭棚",
-      "onboard_time": 1745227102,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 206337,
       "num": 206337,
       "word": "金价再起飞",
@@ -28017,6 +28057,14 @@
       "onboard_time": 1744711822,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 204279,
+      "num": 204279,
+      "word": "方文山说周杰伦今年会出新专辑",
+      "onboard_time": 1745230281,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 204270,
@@ -31483,6 +31531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190707,
+      "num": 190707,
+      "word": "雨果称打王楚钦最困难",
+      "onboard_time": 1745229443,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190674,
       "num": 190674,
       "word": "陈幸同vs张本美和",
@@ -31787,6 +31843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189513,
+      "num": 203579,
+      "word": "刘亦菲女特工造型",
+      "onboard_time": 1745228361,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 189469,
       "num": 189469,
       "word": "enhypen上考场",
@@ -31881,14 +31945,6 @@
       "onboard_time": 1744720281,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 189143,
-      "num": 189143,
-      "word": "金饰克价已涨到1039元",
-      "onboard_time": 1745226741,
-      "rank": 48,
-      "category": "财经"
     },
     {
       "raw_hot": 189132,
@@ -35563,12 +35619,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 173802,
+      "num": 173802,
+      "word": "花两千多买的红烧肉盖饭",
+      "onboard_time": 1745230823,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 173798,
       "num": 242630,
       "word": "为什么劝你多吃黄瓜",
       "onboard_time": 1744036225,
       "rank": 29,
       "category": "健康医疗,美食"
+    },
+    {
+      "raw_hot": 173766,
+      "num": 191120,
+      "word": "迪丽热巴雅典女神妆",
+      "onboard_time": 1745228482,
+      "rank": 34,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 173746,
@@ -40715,6 +40787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153356,
+      "num": 169251,
+      "word": "家业",
+      "onboard_time": 1745229802,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153333,
       "num": 153333,
       "word": "俄罗斯不在美国对等关税名单",
@@ -41377,14 +41457,6 @@
       "onboard_time": 1744853301,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 150619,
-      "num": 150619,
-      "word": "刘亦菲女特工造型",
-      "onboard_time": 1745228361,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 150609,
@@ -43451,6 +43523,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 144214,
+      "num": 144214,
+      "word": "周深问海上怎么有牙刷",
+      "onboard_time": 1745230882,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144152,
       "num": 398976,
       "word": "小鹏X9上市大升级不涨价",
@@ -43705,6 +43785,14 @@
       "onboard_time": 1744382965,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 143307,
+      "num": 143307,
+      "word": "韩东君家业杀青",
+      "onboard_time": 1745231182,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 143286,
@@ -47041,6 +47129,14 @@
       "onboard_time": 1744623203,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 132467,
+      "num": 170543,
+      "word": "教皇去世前一天会见美国副总统",
+      "onboard_time": 1745230762,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 132421,
@@ -53083,6 +53179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110910,
+      "num": 278611,
+      "word": "有欧洲人在赴美入境时被扒光衣服",
+      "onboard_time": 1745230103,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 110897,
       "num": 257932,
       "word": "勇士掉队西部混战军团",
@@ -55625,6 +55729,14 @@
       "onboard_time": 1745050883,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 98142,
+      "num": 297534,
+      "word": "关于实施自由贸易试验区提升战略的意见",
+      "onboard_time": 1745230161,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 98090,
@@ -60051,6 +60163,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 69060,
+      "num": 202169,
+      "word": "四川一高速服务区附近出现大量死鸟",
+      "onboard_time": 1745230161,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69011,
       "num": 808481,
       "word": "午后A股三大指数均涨超1%",
@@ -60947,6 +61067,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 63956,
+      "num": 198863,
+      "word": "杜绝虚假宣传与过度营销辅助驾驶",
+      "onboard_time": 1745230583,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63943,
       "num": 63943,
       "word": "找到了方圆脸最上镜的角度",
@@ -61209,6 +61337,14 @@
       "onboard_time": 1743833421,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 62204,
+      "num": 267987,
+      "word": "与众06锋芒智趣纯电SUV",
+      "onboard_time": 1745229922,
+      "rank": 16,
+      "category": "汽车"
     },
     {
       "raw_hot": 62177,
@@ -62611,6 +62747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 52970,
+      "num": 261895,
+      "word": "旅游中最该省的钱是什么",
+      "onboard_time": 1745230043,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 52960,
       "num": 530309,
       "word": "北京7个区大风预警降级",
@@ -63225,6 +63369,14 @@
       "onboard_time": 1745141182,
       "rank": 19,
       "category": "情感,民生新闻"
+    },
+    {
+      "raw_hot": 49259,
+      "num": 171538,
+      "word": "揉腹的正确方法",
+      "onboard_time": 1745230161,
+      "rank": 38,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 49240,
@@ -67043,6 +67195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 29643,
+      "num": 256977,
+      "word": "桂林农户谈近日严重旱情影响种植",
+      "onboard_time": 1745229862,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29576,
       "num": 281912,
       "word": "乘车安全不分男女老少",
@@ -70081,6 +70241,14 @@
       "onboard_time": 1744743554,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 16019,
+      "num": 147159,
+      "word": "如何用千元去欧洲",
+      "onboard_time": 1745229742,
+      "rank": 46,
+      "category": "旅游"
     },
     {
       "raw_hot": 15993,

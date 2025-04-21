@@ -1,0 +1,410 @@
+{
+  "runTime": 1745231225077,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1271394,
+        "num": 1271394,
+        "word": "美元跌麻了",
+        "onboard_time": 1745225122,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 729054,
+        "num": 729054,
+        "word": "金饰克价已涨到1039元",
+        "onboard_time": 1745226741,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 47199,
+        "num": 703869,
+        "word": "广电总局加快布局超高清",
+        "onboard_time": 1745216842,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1281452,
+        "num": 697972,
+        "word": "舒肤佳 王楚钦",
+        "onboard_time": 1745227821,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 685332,
+        "num": 685332,
+        "word": "折腰预约",
+        "onboard_time": 1745227702,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1021928,
+        "num": 647385,
+        "word": "教皇方济各去世",
+        "onboard_time": 1745223021,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 351118,
+        "num": 351118,
+        "word": "家属回应老人免密支付买了550只鸡崽",
+        "onboard_time": 1745220441,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 348459,
+        "num": 348459,
+        "word": "人民日报评男子地铁辱骂乘客衣服脏",
+        "onboard_time": 1745220082,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 301866,
+        "num": 301866,
+        "word": "宋祖儿对任嘉伦的初印象",
+        "onboard_time": 1745229321,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98142,
+        "num": 297534,
+        "word": "关于实施自由贸易试验区提升战略的意见",
+        "onboard_time": 1745230161,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2174272,
+        "num": 293398,
+        "word": "关晓彤 鹿晗",
+        "onboard_time": 1745230340,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 708407,
+        "num": 290528,
+        "word": "林诗栋拿到50000美金奖金",
+        "onboard_time": 1745229141,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 700919,
+        "num": 287658,
+        "word": "赵磊婚礼邀请函曝光",
+        "onboard_time": 1745222781,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 838217,
+        "num": 280536,
+        "word": "网友说宋祖儿肿了",
+        "onboard_time": 1745222482,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110910,
+        "num": 278611,
+        "word": "有欧洲人在赴美入境时被扒光衣服",
+        "onboard_time": 1745230103,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1046299,
+        "num": 272247,
+        "word": "关晓彤没发",
+        "onboard_time": 1745165142,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62204,
+        "num": 267987,
+        "word": "与众06锋芒智趣纯电SUV",
+        "onboard_time": 1745229922,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 265726,
+        "num": 265726,
+        "word": "无忧渡直播",
+        "onboard_time": 1745214502,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52970,
+        "num": 261895,
+        "word": "旅游中最该省的钱是什么",
+        "onboard_time": 1745230043,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 29643,
+        "num": 256977,
+        "word": "桂林农户谈近日严重旱情影响种植",
+        "onboard_time": 1745229862,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 434556,
+        "num": 253543,
+        "word": "万斯 教皇",
+        "onboard_time": 1745227163,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 423283,
+        "num": 246133,
+        "word": "网红滕顺强夫妇被封号",
+        "onboard_time": 1745224403,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 371146,
+        "num": 238665,
+        "word": "店员穿露背短裙不戴口罩做奶茶",
+        "onboard_time": 1745228542,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 362428,
+        "num": 236699,
+        "word": "张继科锐评现役球员登顶可能",
+        "onboard_time": 1745222122,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 325612,
+        "num": 227002,
+        "word": "35岁程序员长期熬夜脑干出血",
+        "onboard_time": 1745226141,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225230,
+        "num": 225230,
+        "word": "吴京受伤",
+        "onboard_time": 1745225781,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204279,
+        "num": 204279,
+        "word": "方文山说周杰伦今年会出新专辑",
+        "onboard_time": 1745230281,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 189513,
+        "num": 203579,
+        "word": "刘亦菲女特工造型",
+        "onboard_time": 1745228361,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 69060,
+        "num": 202169,
+        "word": "四川一高速服务区附近出现大量死鸟",
+        "onboard_time": 1745230161,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63956,
+        "num": 198863,
+        "word": "杜绝虚假宣传与过度营销辅助驾驶",
+        "onboard_time": 1745230583,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 292158,
+        "num": 198122,
+        "word": "模仿金秀贤的小姐姐",
+        "onboard_time": 1745223142,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273651,
+        "num": 194528,
+        "word": "大爷下单550只鸡退款被拒后连夜搭棚",
+        "onboard_time": 1745227102,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240942,
+        "num": 193562,
+        "word": "赵露思公主粉裙",
+        "onboard_time": 1745226081,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 192289,
+        "num": 192289,
+        "word": "黄金暴涨原因找到了",
+        "onboard_time": 1745223082,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 173766,
+        "num": 191120,
+        "word": "迪丽热巴雅典女神妆",
+        "onboard_time": 1745228482,
+        "rank": 34,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 190707,
+        "num": 190707,
+        "word": "雨果称打王楚钦最困难",
+        "onboard_time": 1745229443,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173802,
+        "num": 173802,
+        "word": "花两千多买的红烧肉盖饭",
+        "onboard_time": 1745230823,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 40080,
+        "num": 173658,
+        "word": "疑似吉利银河硬派SUV曝光",
+        "onboard_time": 1745228060,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 49259,
+        "num": 171538,
+        "word": "揉腹的正确方法",
+        "onboard_time": 1745230161,
+        "rank": 38,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 132467,
+        "num": 170543,
+        "word": "教皇去世前一天会见美国副总统",
+        "onboard_time": 1745230762,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 153356,
+        "num": 169251,
+        "word": "家业",
+        "onboard_time": 1745229802,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169107,
+        "num": 169107,
+        "word": "终于知道为什么好多婚纱胳肢窝破了",
+        "onboard_time": 1745224101,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167339,
+        "num": 167339,
+        "word": "折腰",
+        "onboard_time": 1745228060,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153786,
+        "num": 153786,
+        "word": "老人网购误下单收到550只小鸡崽",
+        "onboard_time": 1745219842,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149830,
+        "num": 149830,
+        "word": "宁德时代",
+        "onboard_time": 1745222781,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 148428,
+        "num": 148428,
+        "word": "王者荣耀三丽鸥",
+        "onboard_time": 1745208263,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 16019,
+        "num": 147159,
+        "word": "如何用千元去欧洲",
+        "onboard_time": 1745229742,
+        "rank": 46,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 146050,
+        "num": 146050,
+        "word": "2025华表奖官宣",
+        "onboard_time": 1745218281,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144214,
+        "num": 144214,
+        "word": "周深问海上怎么有牙刷",
+        "onboard_time": 1745230882,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143307,
+        "num": 143307,
+        "word": "韩东君家业杀青",
+        "onboard_time": 1745231182,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席东南亚三国之行成果速览#"
+    }
+  }
+}
