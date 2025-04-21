@@ -1,0 +1,410 @@
+{
+  "runTime": 1745213148752,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1017227,
+        "num": 1162756,
+        "word": "哪吒3母亲复活",
+        "onboard_time": 1745201662,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 658888,
+        "num": 658888,
+        "word": "特朗普自己人也坐不住了",
+        "onboard_time": 1745195005,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 14631,
+        "num": 617243,
+        "word": "闽地纪行",
+        "onboard_time": 1745192001,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 857767,
+        "num": 609058,
+        "word": "综艺史上最强婚恋售后出现了",
+        "onboard_time": 1745205684,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 595927,
+        "num": 595927,
+        "word": "王者荣耀三丽鸥",
+        "onboard_time": 1745208263,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 528035,
+        "num": 528035,
+        "word": "刘国正说雨果完全是拼刺刀打法",
+        "onboard_time": 1745204661,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 774318,
+        "num": 525502,
+        "word": "赵露思代言CT",
+        "onboard_time": 1745208922,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 751934,
+        "num": 522191,
+        "word": "请浪姐放过6旬老人",
+        "onboard_time": 1745210125,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 419246,
+        "num": 519002,
+        "word": "本周上5休1再上1",
+        "onboard_time": 1745203822,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234029,
+        "num": 517110,
+        "word": "孙颖莎冠军",
+        "onboard_time": 1745151746,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1980013,
+        "num": 512761,
+        "word": "关晓彤没发",
+        "onboard_time": 1745165142,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1305853,
+        "num": 509652,
+        "word": "难怪大学没人要微信",
+        "onboard_time": 1745209643,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 509102,
+        "num": 509102,
+        "word": "12306来票",
+        "onboard_time": 1745207725,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 436743,
+        "num": 436743,
+        "word": "朱珠带了整整四个月妆",
+        "onboard_time": 1745195486,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47209,
+        "num": 350388,
+        "word": "棉花糖爸爸答谢宴无数寻亲家长举着牌",
+        "onboard_time": 1745212703,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1488481,
+        "num": 349705,
+        "word": "鹿晗 关晓彤",
+        "onboard_time": 1745150424,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335368,
+        "num": 335368,
+        "word": "章若楠回应粉丝名叫楠朋友",
+        "onboard_time": 1745212283,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64086,
+        "num": 312465,
+        "word": "男性HPV疫苗有九价和四价可选",
+        "onboard_time": 1745212163,
+        "rank": 17,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 38864,
+        "num": 305473,
+        "word": "住了十几年的房被开发商过户",
+        "onboard_time": 1745212703,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45058,
+        "num": 303806,
+        "word": "如何保护甲状腺",
+        "onboard_time": 1745212463,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 302217,
+        "num": 302217,
+        "word": "钟辰乐只p自己 黄仁俊放原图",
+        "onboard_time": 1745198424,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277896,
+        "num": 277896,
+        "word": "女子赌博欠贷遭债主胁迫肉偿抵债",
+        "onboard_time": 1745204063,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142805,
+        "num": 268190,
+        "word": "李昀锐直播哭了",
+        "onboard_time": 1745212761,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267543,
+        "num": 267543,
+        "word": "晚上10点睡觉和11点睡觉的区别",
+        "onboard_time": 1745201302,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107917,
+        "num": 240919,
+        "word": "金饰价格涨到1034元",
+        "onboard_time": 1745210544,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 218863,
+        "num": 218863,
+        "word": "Jennie科切拉舞台",
+        "onboard_time": 1745207362,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 22170,
+        "num": 213681,
+        "word": "王腾金价高点搞批发",
+        "onboard_time": 1745212463,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 211521,
+        "num": 211521,
+        "word": "任嘉伦无忧渡追剧团上班",
+        "onboard_time": 1745211443,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211493,
+        "num": 211493,
+        "word": "生命树 胡歌",
+        "onboard_time": 1745209404,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55411,
+        "num": 211101,
+        "word": "墨西哥把美式咖啡改名墨式咖啡",
+        "onboard_time": 1745212882,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 251433,
+        "num": 210863,
+        "word": "甲状腺健康的人有6个习惯",
+        "onboard_time": 1745200582,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 225844,
+        "num": 210521,
+        "word": "谢谢北京地铁5号线上勇敢的女乘客",
+        "onboard_time": 1745161948,
+        "rank": 31,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 215441,
+        "num": 209980,
+        "word": "京东优先为骑手对象安排工作",
+        "onboard_time": 1745206404,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 106276,
+        "num": 209475,
+        "word": "美高层再次被曝泄密",
+        "onboard_time": 1745211744,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 209444,
+        "num": 209444,
+        "word": "玻利维亚宣布对华出口奇亚籽无上限",
+        "onboard_time": 1745209284,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 188584,
+        "num": 201497,
+        "word": "黄誉博在五月天演唱会当保安",
+        "onboard_time": 1745212942,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 197826,
+        "num": 197826,
+        "word": "伊藤美诚晒与孙颖莎合照",
+        "onboard_time": 1745206404,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191282,
+        "num": 191282,
+        "word": "半熟恋人",
+        "onboard_time": 1745212583,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77576,
+        "num": 177949,
+        "word": "保护心脏这四件事别碰",
+        "onboard_time": 1745212522,
+        "rank": 38,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 175194,
+        "num": 175194,
+        "word": "Melody回应没去浪姐",
+        "onboard_time": 1745210725,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162869,
+        "num": 174795,
+        "word": "胡杏儿绿茶气质拿捏到位了",
+        "onboard_time": 1745211384,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174561,
+        "num": 174561,
+        "word": "王者荣耀",
+        "onboard_time": 1745206461,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 165513,
+        "num": 165513,
+        "word": "七年之痒",
+        "onboard_time": 1745199443,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164019,
+        "num": 164019,
+        "word": "知音漫客删除复刊微博",
+        "onboard_time": 1745212283,
+        "rank": 43,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 160400,
+        "num": 160400,
+        "word": "罗晋王子文领衔主演",
+        "onboard_time": 1745209523,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158308,
+        "num": 158308,
+        "word": "李晟给自己报了老年大学",
+        "onboard_time": 1745211803,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157716,
+        "num": 157716,
+        "word": "柯淳 我一被老师骂就脑袋懵",
+        "onboard_time": 1745211864,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149123,
+        "num": 149123,
+        "word": "李昊养病休息",
+        "onboard_time": 1745203401,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146614,
+        "num": 146614,
+        "word": "雨果世界杯赛后发博",
+        "onboard_time": 1745213061,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139270,
+        "num": 139270,
+        "word": "西班牙夫妻",
+        "onboard_time": 1745211984,
+        "rank": 49,
+        "category": "网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#何以中国走进福建#"
+    }
+  }
+}

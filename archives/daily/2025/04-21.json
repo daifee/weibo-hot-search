@@ -1,6 +1,6 @@
 {
   "startTime": 1745166450412,
-  "endTime": 1745210676098,
+  "endTime": 1745213148752,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -91,6 +91,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1305853,
+      "num": 509652,
+      "word": "难怪大学没人要微信",
+      "onboard_time": 1745209643,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1290057,
       "num": 784153,
       "word": "综艺史上最强婚恋售后出现了",
@@ -161,6 +169,14 @@
       "onboard_time": 1745195486,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 751934,
+      "num": 522191,
+      "word": "请浪姐放过6旬老人",
+      "onboard_time": 1745210125,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 730833,
@@ -275,6 +291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 509102,
+      "num": 509102,
+      "word": "12306来票",
+      "onboard_time": 1745207725,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 503653,
       "num": 458553,
       "word": "李昊养病休息",
@@ -329,14 +353,6 @@
       "onboard_time": 1745131342,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 390814,
-      "num": 359847,
-      "word": "难怪大学没人要微信",
-      "onboard_time": 1745209643,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 383664,
@@ -395,6 +411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 335368,
+      "num": 335368,
+      "word": "章若楠回应粉丝名叫楠朋友",
+      "onboard_time": 1745212283,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 332052,
       "num": 332052,
       "word": "京东优先为骑手对象安排工作",
@@ -411,28 +435,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 320248,
-      "num": 320248,
-      "word": "12306来票",
-      "onboard_time": 1745207725,
-      "rank": 37,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 302942,
       "num": 464737,
       "word": "一旦回归丛林法则所有国家都会受害",
       "onboard_time": 1745199742,
       "rank": 6,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 300481,
-      "num": 300481,
-      "word": "请浪姐放过6旬老人",
-      "onboard_time": 1745210125,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 300177,
@@ -651,6 +659,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 211521,
+      "num": 211521,
+      "word": "任嘉伦无忧渡追剧团上班",
+      "onboard_time": 1745211443,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209715,
       "num": 209715,
       "word": "黄金",
@@ -771,6 +787,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 191282,
+      "num": 191282,
+      "word": "半熟恋人",
+      "onboard_time": 1745212583,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190151,
       "num": 241104,
       "word": "陶喆 听劝",
@@ -787,6 +811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188584,
+      "num": 201497,
+      "word": "黄誉博在五月天演唱会当保安",
+      "onboard_time": 1745212942,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 183496,
       "num": 369711,
       "word": "沈月伤人的话要用力去说",
@@ -796,7 +828,7 @@
     },
     {
       "raw_hot": 181603,
-      "num": 181603,
+      "num": 240919,
       "word": "金饰价格涨到1034元",
       "onboard_time": 1745210544,
       "rank": 48,
@@ -849,6 +881,14 @@
       "onboard_time": 1745205803,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 175194,
+      "num": 175194,
+      "word": "Melody回应没去浪姐",
+      "onboard_time": 1745210725,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 172354,
@@ -907,6 +947,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164019,
+      "num": 164019,
+      "word": "知音漫客删除复刊微博",
+      "onboard_time": 1745212283,
+      "rank": 43,
+      "category": "读书作家"
+    },
+    {
+      "raw_hot": 162869,
+      "num": 174795,
+      "word": "胡杏儿绿茶气质拿捏到位了",
+      "onboard_time": 1745211384,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161060,
       "num": 161060,
       "word": "五五开黑玄学拼星星",
@@ -923,12 +979,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158308,
+      "num": 158308,
+      "word": "李晟给自己报了老年大学",
+      "onboard_time": 1745211803,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157805,
       "num": 235368,
       "word": "白敬亭五月天合照",
       "onboard_time": 1745206042,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 157716,
+      "num": 157716,
+      "word": "柯淳 我一被老师骂就脑袋懵",
+      "onboard_time": 1745211864,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 157495,
@@ -995,6 +1067,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 146614,
+      "num": 146614,
+      "word": "雨果世界杯赛后发博",
+      "onboard_time": 1745213061,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145975,
       "num": 228820,
       "word": "真正能让气血恢复的方式",
@@ -1019,12 +1099,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 142805,
+      "num": 268190,
+      "word": "李昀锐直播哭了",
+      "onboard_time": 1745212761,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141626,
       "num": 154841,
       "word": "柯洁说蒲熠星的歌陪他度过人生低谷",
       "onboard_time": 1745165032,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 139270,
+      "num": 139270,
+      "word": "西班牙夫妻",
+      "onboard_time": 1745211984,
+      "rank": 49,
+      "category": "网红"
     },
     {
       "raw_hot": 134014,
@@ -1187,6 +1283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106276,
+      "num": 209475,
+      "word": "美高层再次被曝泄密",
+      "onboard_time": 1745211744,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 106095,
       "num": 154383,
       "word": "极限挑战",
@@ -1275,6 +1379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 77576,
+      "num": 177949,
+      "word": "保护心脏这四件事别碰",
+      "onboard_time": 1745212522,
+      "rank": 38,
+      "category": "健康医疗,民生新闻"
+    },
+    {
       "raw_hot": 77507,
       "num": 77507,
       "word": "医生教你5分钟体态纠正术",
@@ -1323,6 +1435,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 64086,
+      "num": 312465,
+      "word": "男性HPV疫苗有九价和四价可选",
+      "onboard_time": 1745212163,
+      "rank": 17,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 62757,
       "num": 77469,
       "word": "雨果曾说樊振东是世界上最厉害的",
@@ -1337,6 +1457,14 @@
       "onboard_time": 1745208143,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 55411,
+      "num": 211101,
+      "word": "墨西哥把美式咖啡改名墨式咖啡",
+      "onboard_time": 1745212882,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 54004,
@@ -1411,6 +1539,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 47209,
+      "num": 350388,
+      "word": "棉花糖爸爸答谢宴无数寻亲家长举着牌",
+      "onboard_time": 1745212703,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46159,
       "num": 795939,
       "word": "何以中国看福建",
@@ -1425,6 +1561,14 @@
       "onboard_time": 1745170216,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 45058,
+      "num": 303806,
+      "word": "如何保护甲状腺",
+      "onboard_time": 1745212463,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 44315,
@@ -1489,6 +1633,14 @@
       "onboard_time": 1745200523,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 38864,
+      "num": 305473,
+      "word": "住了十几年的房被开发商过户",
+      "onboard_time": 1745212703,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31942,
@@ -1571,6 +1723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 22170,
+      "num": 213681,
+      "word": "王腾金价高点搞批发",
+      "onboard_time": 1745212463,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 21047,
       "num": 118804,
       "word": "一口气了解瑞士经济",
@@ -1643,6 +1803,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 14631,
+      "num": 658960,
+      "word": "闽地纪行",
+      "onboard_time": 1745192001,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14306,
       "num": 77420,
       "word": "来武夷山有效去班味",
@@ -1673,14 +1841,6 @@
       "onboard_time": 1745191041,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 6890,
-      "num": 658960,
-      "word": "闽地纪行",
-      "onboard_time": 1745192001,
-      "rank": 2,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
