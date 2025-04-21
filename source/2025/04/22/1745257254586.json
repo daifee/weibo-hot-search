@@ -1,0 +1,410 @@
+{
+  "runTime": 1745257254586,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 267932,
+        "num": 383146,
+        "word": "曝折腰没拿到签字",
+        "onboard_time": 1745254458,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159323,
+        "num": 159323,
+        "word": "马龙樊振东陈梦选择不参加多哈世乒赛",
+        "onboard_time": 1745243904,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11123,
+        "num": 133430,
+        "word": "何以中国闽山闽水物华新",
+        "onboard_time": 1745217142,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 508404,
+        "num": 125761,
+        "word": "收到差评最多的外卖员",
+        "onboard_time": 1745252241,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207886,
+        "num": 123143,
+        "word": "关晓彤五四晚会录制路透",
+        "onboard_time": 1745246603,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117236,
+        "num": 117236,
+        "word": "失去美国订单后海外订单量竟然多了",
+        "onboard_time": 1745238442,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 102670,
+        "num": 102670,
+        "word": "亚朵花洒",
+        "onboard_time": 1745235022,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97183,
+        "num": 97183,
+        "word": "很多事认真做一遍就能超过90%的人",
+        "onboard_time": 1745251041,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88764,
+        "num": 88764,
+        "word": "美军无人机严重依赖中国制造",
+        "onboard_time": 1745249961,
+        "rank": 8,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 87477,
+        "num": 87477,
+        "word": "无忧渡 曹骏",
+        "onboard_time": 1745240782,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 804373,
+        "num": 87218,
+        "word": "关晓彤 鹿晗",
+        "onboard_time": 1745230340,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265463,
+        "num": 86125,
+        "word": "近视眼福音",
+        "onboard_time": 1745253259,
+        "rank": 11,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 220772,
+        "num": 85294,
+        "word": "房琪 对不起",
+        "onboard_time": 1745234301,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216500,
+        "num": 84486,
+        "word": "7楼8楼闹矛盾9楼住户躺枪被震楼3年",
+        "onboard_time": 1745248584,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14945,
+        "num": 84250,
+        "word": "北京男篮3比1北控男篮",
+        "onboard_time": 1745246363,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134038,
+        "num": 83486,
+        "word": "马伯骞给弟弟婚礼当伴郎",
+        "onboard_time": 1745240423,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98669,
+        "num": 82368,
+        "word": "孩子睡觉时头发打湿是什么原因",
+        "onboard_time": 1745251401,
+        "rank": 16,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 90330,
+        "num": 82149,
+        "word": "教皇方济各去世",
+        "onboard_time": 1745223021,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 81454,
+        "num": 81454,
+        "word": "朴宝剑为失误工作人员解围",
+        "onboard_time": 1745247745,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79592,
+        "num": 79592,
+        "word": "无忧渡陈奕恒镜头",
+        "onboard_time": 1745247624,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203784,
+        "num": 78532,
+        "word": "无手换卫生巾女孩被开黄腔",
+        "onboard_time": 1745237421,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115434,
+        "num": 77378,
+        "word": "张艺兴现场版精忠报国太好听了",
+        "onboard_time": 1745247323,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 75635,
+        "num": 75635,
+        "word": "医院回应男女占母婴室做不雅行为",
+        "onboard_time": 1745244023,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72348,
+        "num": 72348,
+        "word": "当事人回应刘强东给自己送外卖",
+        "onboard_time": 1745247024,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 70677,
+        "num": 70677,
+        "word": "万花世界迪丽热巴",
+        "onboard_time": 1745243964,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62352,
+        "num": 62352,
+        "word": "7.8元京东外卖迟到免单骑手还赚8元",
+        "onboard_time": 1745242463,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 58845,
+        "num": 58845,
+        "word": "2025热播剧谁能给内娱上一课",
+        "onboard_time": 1745253978,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 58342,
+        "num": 58342,
+        "word": "刘涛直播弹幕",
+        "onboard_time": 1745252959,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57795,
+        "num": 57795,
+        "word": "女童过马路被罐车撞倒身亡",
+        "onboard_time": 1745243785,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54294,
+        "num": 54294,
+        "word": "张根硕分享抗癌抗躁郁经历",
+        "onboard_time": 1745240243,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53716,
+        "num": 53716,
+        "word": "地铁被辱骂衣服脏乘客家属发声",
+        "onboard_time": 1745241743,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53603,
+        "num": 53603,
+        "word": "女童被罐车撞倒身亡目击者发声",
+        "onboard_time": 1745248283,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53151,
+        "num": 53151,
+        "word": "刘宇宁以为吉克隽逸是真公主",
+        "onboard_time": 1745251522,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51662,
+        "num": 51662,
+        "word": "刘强东亲自送外卖",
+        "onboard_time": 1745237902,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 46133,
+        "num": 46133,
+        "word": "中国美式烤肉停用美国牛肉",
+        "onboard_time": 1745251281,
+        "rank": 34,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 42505,
+        "num": 42505,
+        "word": "无忧渡",
+        "onboard_time": 1745231662,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40315,
+        "num": 40315,
+        "word": "江苏一男子脚绑哑铃潜水溺亡",
+        "onboard_time": 1745243603,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39588,
+        "num": 39588,
+        "word": "无忧渡直播",
+        "onboard_time": 1745214502,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39441,
+        "num": 39441,
+        "word": "薛飞 男单",
+        "onboard_time": 1745247804,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38282,
+        "num": 38282,
+        "word": "鞠婧祎档期排到明年",
+        "onboard_time": 1745248402,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37572,
+        "num": 37572,
+        "word": "央视曝光购物卡成洗钱工具",
+        "onboard_time": 1745244444,
+        "rank": 40,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 37294,
+        "num": 37294,
+        "word": "尹恩惠40岁状态",
+        "onboard_time": 1745239043,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36433,
+        "num": 36433,
+        "word": "肖指导回应世乒赛混双名单",
+        "onboard_time": 1745248823,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35544,
+        "num": 35544,
+        "word": "湖南平江发生翻船事件6人溺亡",
+        "onboard_time": 1745253140,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35536,
+        "num": 35536,
+        "word": "特朗普施压鲍威尔遭多方批评",
+        "onboard_time": 1745252781,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 34393,
+        "num": 34393,
+        "word": "亚克力枪枪 文字博主",
+        "onboard_time": 1745253320,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 34095,
+        "num": 34095,
+        "word": "美股",
+        "onboard_time": 1745245764,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 33389,
+        "num": 33389,
+        "word": "全红婵陈芋汐这一幕让人心疼又温暖",
+        "onboard_time": 1745255177,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30939,
+        "num": 32593,
+        "word": "从苹果换到vivoX200s是种什么体验",
+        "onboard_time": 1745238923,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 29639,
+        "num": 32208,
+        "word": "张信哲说要到现场堵周深",
+        "onboard_time": 1745257216,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记领略中华文明#"
+    }
+  }
+}
