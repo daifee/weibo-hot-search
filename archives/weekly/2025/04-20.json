@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745268017715,
+  "endTime": 1745270594938,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -8027,6 +8027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18343,
+      "num": 18343,
+      "word": "中国反制或让美军无人机计划延期",
+      "onboard_time": 1745264053,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 18261,
       "num": 21954,
       "word": "哪些人要定期做肠镜",
@@ -8057,14 +8065,6 @@
       "onboard_time": 1745249362,
       "rank": 29,
       "category": "艺人,剧集"
-    },
-    {
-      "raw_hot": 17180,
-      "num": 18294,
-      "word": "中国反制或让美军无人机计划延期",
-      "onboard_time": 1745264053,
-      "rank": 49,
-      "category": "国内时政"
     },
     {
       "raw_hot": 17029,
@@ -8251,8 +8251,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 13122,
-      "num": 15319,
+      "raw_hot": 13207,
+      "num": 16053,
       "word": "荷兰 欧洲小衡水",
       "onboard_time": 1745267354,
       "rank": 45,
@@ -8281,6 +8281,14 @@
       "onboard_time": 1745130082,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 11818,
+      "num": 16020,
+      "word": "鞠婧祎事业粉狂喜",
+      "onboard_time": 1745268614,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 11354,

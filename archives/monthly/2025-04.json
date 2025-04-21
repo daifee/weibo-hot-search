@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1745268017715,
+  "endTime": 1745270594938,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -71227,6 +71227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 18343,
+      "num": 18343,
+      "word": "中国反制或让美军无人机计划延期",
+      "onboard_time": 1745264053,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 18340,
       "num": 132389,
       "word": "打了石膏的狗狗们",
@@ -71449,14 +71457,6 @@
       "onboard_time": 1743886754,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 17180,
-      "num": 18294,
-      "word": "中国反制或让美军无人机计划延期",
-      "onboard_time": 1745264053,
-      "rank": 49,
-      "category": "国内时政"
     },
     {
       "raw_hot": 17172,
@@ -72323,6 +72323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 13207,
+      "num": 16053,
+      "word": "荷兰 欧洲小衡水",
+      "onboard_time": 1745267354,
+      "rank": 45,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 13156,
       "num": 29674,
       "word": "美方无所不用其极搞监控窃密攻击",
@@ -72353,14 +72361,6 @@
       "onboard_time": 1744897102,
       "rank": 39,
       "category": "军事"
-    },
-    {
-      "raw_hot": 13122,
-      "num": 15319,
-      "word": "荷兰 欧洲小衡水",
-      "onboard_time": 1745267354,
-      "rank": 45,
-      "category": "旅游"
     },
     {
       "raw_hot": 13103,
@@ -72633,6 +72633,14 @@
       "onboard_time": 1744276341,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 11818,
+      "num": 16020,
+      "word": "鞠婧祎事业粉狂喜",
+      "onboard_time": 1745268614,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 11805,
