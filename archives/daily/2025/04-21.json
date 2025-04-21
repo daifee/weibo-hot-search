@@ -1,6 +1,6 @@
 {
   "startTime": 1745166450412,
-  "endTime": 1745227632174,
+  "endTime": 1745228399615,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -307,6 +307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 704021,
+      "num": 484949,
+      "word": "舒肤佳 王楚钦",
+      "onboard_time": 1745227821,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 702869,
       "num": 702869,
       "word": "晚上10点睡觉和11点睡觉的区别",
@@ -324,7 +332,7 @@
     },
     {
       "raw_hot": 700519,
-      "num": 300361,
+      "num": 340970,
       "word": "网红滕顺强夫妇被封号",
       "onboard_time": 1745224403,
       "rank": 49,
@@ -459,8 +467,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 467562,
-      "num": 300097,
+      "raw_hot": 478775,
+      "num": 478775,
+      "word": "吴京受伤",
+      "onboard_time": 1745225781,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 469340,
+      "num": 322114,
       "word": "模仿金秀贤的小姐姐",
       "onboard_time": 1745223142,
       "rank": 34,
@@ -537,14 +553,6 @@
       "onboard_time": 1745217380,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 385502,
-      "num": 385502,
-      "word": "吴京受伤",
-      "onboard_time": 1745225781,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 383664,
@@ -651,6 +659,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 320824,
+      "num": 320824,
+      "word": "折腰预约",
+      "onboard_time": 1745227702,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 310029,
+      "num": 310029,
+      "word": "万斯 教皇",
+      "onboard_time": 1745227163,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 304842,
       "num": 288378,
       "word": "赵丽颖带儿子想想买玩具",
@@ -731,6 +755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 273723,
+      "num": 273723,
+      "word": "国内航司开始暂停接收波音飞机",
+      "onboard_time": 1745225781,
+      "rank": 13,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 269030,
       "num": 354238,
       "word": "甲亢哥透露卤鹅哥几周后将来美国",
@@ -779,12 +811,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 258409,
+      "num": 258409,
+      "word": "赵露思公主粉裙",
+      "onboard_time": 1745226081,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 255536,
       "num": 255536,
       "word": "宋祖儿剧宣活动",
       "onboard_time": 1745214863,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 251817,
+      "num": 358596,
+      "word": "2025华表奖官宣",
+      "onboard_time": 1745218281,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 247065,
@@ -836,7 +884,7 @@
     },
     {
       "raw_hot": 238463,
-      "num": 238463,
+      "num": 247478,
       "word": "tws回归",
       "onboard_time": 1745227102,
       "rank": 32,
@@ -865,14 +913,6 @@
       "onboard_time": 1745219481,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 234444,
-      "num": 293032,
-      "word": "2025华表奖官宣",
-      "onboard_time": 1745218281,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 233576,
@@ -979,6 +1019,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 217939,
+      "num": 256351,
+      "word": "折腰",
+      "onboard_time": 1745228060,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 215281,
       "num": 215281,
       "word": "教资成绩今日可查",
@@ -1027,14 +1075,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 207573,
-      "num": 207573,
-      "word": "万斯 教皇",
-      "onboard_time": 1745227163,
-      "rank": 35,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 207261,
       "num": 207261,
       "word": "断网了这竟然是沙溢",
@@ -1043,20 +1083,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206368,
+      "num": 206368,
+      "word": "大爷下单550只鸡退款被拒后连夜搭棚",
+      "onboard_time": 1745227102,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 204818,
       "num": 249534,
       "word": "铁打的孙颖莎流水的合照搭子",
       "onboard_time": 1745226321,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 204630,
-      "num": 204630,
-      "word": "赵露思公主粉裙",
-      "onboard_time": 1745226081,
-      "rank": 36,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 203313,
@@ -1203,6 +1243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192777,
+      "num": 249378,
+      "word": "对爱情完全祛魅的女主",
+      "onboard_time": 1745227282,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191493,
       "num": 191493,
       "word": "A股",
@@ -1225,6 +1273,14 @@
       "onboard_time": 1745201241,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 189143,
+      "num": 189143,
+      "word": "金饰克价已涨到1039元",
+      "onboard_time": 1745226741,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 188681,
@@ -1281,14 +1337,6 @@
       "onboard_time": 1745196085,
       "rank": 34,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 179499,
-      "num": 251952,
-      "word": "国内航司开始暂停接收波音飞机",
-      "onboard_time": 1745225781,
-      "rank": 13,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 179348,
@@ -1401,14 +1449,6 @@
       "onboard_time": 1745202921,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 168217,
-      "num": 168217,
-      "word": "大爷下单550只鸡退款被拒后连夜搭棚",
-      "onboard_time": 1745227102,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 168143,
@@ -1539,14 +1579,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 156261,
-      "num": 156261,
-      "word": "对爱情完全祛魅的女主",
-      "onboard_time": 1745227282,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 156159,
       "num": 156159,
       "word": "外交部谈美菲军演",
@@ -1587,14 +1619,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 154136,
-      "num": 154136,
-      "word": "金饰克价已涨到1039元",
-      "onboard_time": 1745226741,
-      "rank": 48,
-      "category": "财经"
-    },
-    {
       "raw_hot": 152930,
       "num": 155043,
       "word": "辛云来剧抛脸",
@@ -1609,6 +1633,14 @@
       "onboard_time": 1745208325,
       "rank": 17,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 150619,
+      "num": 150619,
+      "word": "刘亦菲女特工造型",
+      "onboard_time": 1745228361,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 148446,
@@ -1891,6 +1923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113317,
+      "num": 311314,
+      "word": "76岁男子不希望死后还背强奸犯骂名",
+      "onboard_time": 1745226622,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112560,
       "num": 164480,
       "word": "wtt总决赛2025落户中国香港",
@@ -2059,6 +2099,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81146,
+      "num": 243261,
+      "word": "雨果认为中国仍是乒乓第一强国",
+      "onboard_time": 1745228122,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 79832,
+      "num": 250834,
+      "word": "德国资方代表要求政府与中国搞好关系",
+      "onboard_time": 1745226260,
+      "rank": 14,
+      "category": "国际时政,财经"
+    },
+    {
       "raw_hot": 79808,
       "num": 241080,
       "word": "补气血为什么要先祛湿",
@@ -2073,14 +2129,6 @@
       "onboard_time": 1745214322,
       "rank": 40,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 79472,
-      "num": 246085,
-      "word": "76岁男子不希望死后还背强奸犯骂名",
-      "onboard_time": 1745226622,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 77897,
@@ -2171,20 +2219,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 67558,
-      "num": 250834,
-      "word": "德国资方代表要求政府与中国搞好关系",
-      "onboard_time": 1745226260,
-      "rank": 14,
-      "category": "国际时政,财经"
-    },
-    {
       "raw_hot": 66273,
       "num": 369276,
       "word": "越来越多科研人员考虑离开美国",
       "onboard_time": 1745208443,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 65200,
+      "num": 190768,
+      "word": "疑似吉利银河硬派SUV曝光",
+      "onboard_time": 1745228060,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 64498,
@@ -2233,6 +2281,14 @@
       "onboard_time": 1745217021,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 54406,
+      "num": 335646,
+      "word": "试点支持外籍医生开设诊所",
+      "onboard_time": 1745227463,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 54004,
@@ -2467,14 +2523,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 35897,
-      "num": 239648,
-      "word": "试点支持外籍医生开设诊所",
-      "onboard_time": 1745227463,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 33271,
       "num": 296700,
       "word": "这场骑手争夺战或许能破解行业顽疾",
@@ -2569,6 +2617,14 @@
       "onboard_time": 1745174056,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 26873,
+      "num": 313030,
+      "word": "退休法官酒后驾车将6旬男子撞飞",
+      "onboard_time": 1745227582,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26794,
@@ -2667,14 +2723,6 @@
       "category": "财经,民生新闻"
     },
     {
-      "raw_hot": 20642,
-      "num": 200644,
-      "word": "退休法官酒后驾车将6旬男子撞飞",
-      "onboard_time": 1745227582,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 20294,
       "num": 307214,
       "word": "揭秘预售女装虚假发货真相",
@@ -2745,6 +2793,14 @@
       "onboard_time": 1745208383,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 16412,
+      "num": 190270,
+      "word": "建议青少年接种HPV疫苗",
+      "onboard_time": 1745227761,
+      "rank": 39,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 15563,
