@@ -1,6 +1,6 @@
 {
   "startTime": 1745253028487,
-  "endTime": 1745260398132,
+  "endTime": 1745261255996,
   "band_list": [
     {
       "raw_hot": 2063845,
@@ -499,6 +499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 23145,
+      "num": 23145,
+      "word": "五哈",
+      "onboard_time": 1745260396,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 22481,
       "num": 22481,
       "word": "鹭卓久违的夸花回来啦",
@@ -515,12 +523,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 21662,
-      "num": 21662,
+      "raw_hot": 22221,
+      "num": 22221,
       "word": "周深说谢谢每一个听过我的人",
       "onboard_time": 1745260335,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 18261,
+      "num": 21954,
+      "word": "哪些人要定期做肠镜",
+      "onboard_time": 1745260513,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 15154,
