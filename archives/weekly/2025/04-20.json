@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745232329806,
+  "endTime": 1745234448036,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1355,6 +1355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 343552,
+      "num": 343552,
+      "word": "97岁老教师放弃百万富翁机会",
+      "onboard_time": 1745216362,
+      "rank": 35,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 343471,
       "num": 343471,
       "word": "勇士vs火箭",
@@ -1377,6 +1385,14 @@
       "onboard_time": 1745155648,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 339742,
+      "num": 339742,
+      "word": "杨紫李祯杀青捧花照",
+      "onboard_time": 1745231302,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 335654,
@@ -1939,14 +1955,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 231710,
-      "num": 263151,
-      "word": "杨紫李祯杀青捧花照",
-      "onboard_time": 1745231302,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 229620,
       "num": 309709,
       "word": "远洋渔船船长被害案船上视频曝光",
@@ -1971,6 +1979,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 227732,
+      "num": 227732,
+      "word": "vivo发布会",
+      "onboard_time": 1745233461,
+      "rank": 9,
+      "category": "数码"
+    },
+    {
       "raw_hot": 227570,
       "num": 295806,
       "word": "深圳女生回应被拍进热播剧",
@@ -1985,14 +2001,6 @@
       "onboard_time": 1745209284,
       "rank": 40,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 226095,
-      "num": 291734,
-      "word": "97岁老教师放弃百万富翁机会",
-      "onboard_time": 1745216362,
-      "rank": 35,
-      "category": "正能量"
     },
     {
       "raw_hot": 225717,
@@ -2217,6 +2225,14 @@
       "onboard_time": 1745225122,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 208567,
+      "num": 208567,
+      "word": "房琪 对不起",
+      "onboard_time": 1745234301,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 208343,
@@ -2737,6 +2753,14 @@
       "onboard_time": 1745220141,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 187596,
+      "num": 215390,
+      "word": "射雕英雄传延长放映至5月31日",
+      "onboard_time": 1745233281,
+      "rank": 20,
+      "category": "电影"
     },
     {
       "raw_hot": 187024,
@@ -3345,6 +3369,14 @@
       "onboard_time": 1745148083,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160546,
+      "num": 160546,
+      "word": "黄景瑜王子奇为林博洋打call",
+      "onboard_time": 1745233882,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 160431,
@@ -4195,6 +4227,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 130707,
+      "num": 130707,
+      "word": "我的古早cp成了强制爱的模样",
+      "onboard_time": 1745234421,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130517,
       "num": 130517,
       "word": "盘点洛阳牡丹的神仙配色",
@@ -4249,6 +4289,14 @@
       "onboard_time": 1745071344,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129442,
+      "num": 129442,
+      "word": "他什么都没说但表情骂的很脏",
+      "onboard_time": 1745232501,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 129278,
@@ -5475,6 +5523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67700,
+      "num": 208606,
+      "word": "爸爸用19年找到丢失女儿放声大哭",
+      "onboard_time": 1745233220,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67087,
       "num": 215889,
       "word": "78岁奶奶资助孙女开网店当客服打包",
@@ -5497,6 +5553,22 @@
       "onboard_time": 1745228060,
       "rank": 37,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 64922,
+      "num": 208761,
+      "word": "钟楚曦live直出绝了",
+      "onboard_time": 1745233640,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 64586,
+      "num": 214289,
+      "word": "美国经济衰退风险上升",
+      "onboard_time": 1745233340,
+      "rank": 24,
+      "category": "财经,国际时政"
     },
     {
       "raw_hot": 64498,
@@ -5611,6 +5683,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 60488,
+      "num": 166459,
+      "word": "外贸女工讲为何不怕特朗普关税战",
+      "onboard_time": 1745232562,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 60026,
       "num": 347403,
       "word": "王楚钦的眼神要碎了",
@@ -5667,12 +5747,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 56666,
+      "num": 214019,
+      "word": "广西财政厅下拨1750万元抗旱资金",
+      "onboard_time": 1745232861,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55868,
       "num": 55868,
       "word": "丁禹兮感动到快哭了",
       "onboard_time": 1745083942,
       "rank": 46,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 55381,
+      "num": 216686,
+      "word": "方文山说AI可部分取代词作者",
+      "onboard_time": 1745232861,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 54406,
@@ -5803,6 +5899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50595,
+      "num": 164419,
+      "word": "写给地球的绿色来信",
+      "onboard_time": 1745233281,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49980,
       "num": 460418,
       "word": "超1200名经济学家签署反关税宣言",
@@ -5833,6 +5937,14 @@
       "onboard_time": 1745230161,
       "rank": 38,
       "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 49258,
+      "num": 164728,
+      "word": "特朗普威胁哈佛禁止国际招生",
+      "onboard_time": 1745219121,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 49147,
@@ -5995,6 +6107,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 43831,
+      "num": 215911,
+      "word": "黄金会涨到多少钱",
+      "onboard_time": 1745233220,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 43610,
       "num": 43610,
       "word": "山西一处塌方一货车司机遇难",
@@ -6065,6 +6185,14 @@
       "onboard_time": 1745217142,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40942,
+      "num": 213553,
+      "word": "恋爱前请出示以下证明",
+      "onboard_time": 1745231662,
+      "rank": 33,
+      "category": "情感,民生新闻"
     },
     {
       "raw_hot": 40885,
@@ -6217,6 +6345,14 @@
       "onboard_time": 1745127142,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 35517,
+      "num": 215874,
+      "word": "为什么现在金价这么贵",
+      "onboard_time": 1745233281,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 34968,
@@ -6563,14 +6699,6 @@
       "category": "健康医疗,民生新闻"
     },
     {
-      "raw_hot": 21393,
-      "num": 213553,
-      "word": "恋爱前请出示以下证明",
-      "onboard_time": 1745231662,
-      "rank": 33,
-      "category": "情感,民生新闻"
-    },
-    {
       "raw_hot": 21047,
       "num": 118804,
       "word": "一口气了解瑞士经济",
@@ -6683,6 +6811,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 16427,
+      "num": 216200,
+      "word": "方济各去世后意甲推迟比赛",
+      "onboard_time": 1745234060,
+      "rank": 16,
+      "category": "海外新闻,体育"
+    },
+    {
       "raw_hot": 16412,
       "num": 190270,
       "word": "建议青少年接种HPV疫苗",
@@ -6705,6 +6841,14 @@
       "onboard_time": 1745229742,
       "rank": 46,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 15734,
+      "num": 162335,
+      "word": "AI告诉我如何用千元去欧洲",
+      "onboard_time": 1745233340,
+      "rank": 41,
+      "category": "互联网"
     },
     {
       "raw_hot": 15563,
@@ -6779,6 +6923,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 13824,
+      "num": 215607,
+      "word": "高关税反噬美国国民福利",
+      "onboard_time": 1745233640,
+      "rank": 19,
+      "category": "国际时政,财经"
+    },
+    {
       "raw_hot": 13650,
       "num": 20484,
       "word": "一句古话说透中马关系",
@@ -6817,6 +6969,14 @@
       "onboard_time": 1745175374,
       "rank": 27,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 12756,
+      "num": 126351,
+      "word": "旅行结束时给自己写一封信",
+      "onboard_time": 1745234122,
+      "rank": 49,
+      "category": "情感,民生新闻"
     },
     {
       "raw_hot": 12590,
