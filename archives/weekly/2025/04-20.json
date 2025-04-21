@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745245401563,
+  "endTime": 1745246498654,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 3018738,
-      "num": 590079,
+      "num": 751396,
       "word": "关晓彤 鹿晗",
       "onboard_time": 1745230340,
       "rank": 10,
@@ -185,6 +185,14 @@
       "onboard_time": 1745202561,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1792063,
+      "num": 1792063,
+      "word": "猫一杯2.0",
+      "onboard_time": 1745245824,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1748770,
@@ -412,7 +420,7 @@
     },
     {
       "raw_hot": 1134536,
-      "num": 575499,
+      "num": 747639,
       "word": "马伯骞给弟弟婚礼当伴郎",
       "onboard_time": 1745240423,
       "rank": 36,
@@ -420,7 +428,7 @@
     },
     {
       "raw_hot": 1118714,
-      "num": 571328,
+      "num": 734060,
       "word": "房琪 对不起",
       "onboard_time": 1745234301,
       "rank": 31,
@@ -547,6 +555,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 859875,
+      "num": 859875,
+      "word": "马龙樊振东陈梦选择不参加多哈世乒赛",
+      "onboard_time": 1745243904,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 858197,
       "num": 642330,
       "word": "谢谢北京地铁5号线上勇敢的女乘客",
@@ -577,6 +593,14 @@
       "onboard_time": 1745210125,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 838123,
+      "num": 838123,
+      "word": "莎头混双",
+      "onboard_time": 1745244143,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 823650,
@@ -636,7 +660,7 @@
     },
     {
       "raw_hot": 739970,
-      "num": 572988,
+      "num": 733871,
       "word": "地铁被辱骂衣服脏乘客家属发声",
       "onboard_time": 1745241743,
       "rank": 23,
@@ -771,8 +795,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 664311,
-      "num": 664311,
+      "raw_hot": 670497,
+      "num": 769355,
       "word": "无忧渡 曹骏",
       "onboard_time": 1745240782,
       "rank": 5,
@@ -859,14 +883,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 612972,
-      "num": 612972,
-      "word": "莎头混双",
-      "onboard_time": 1745244143,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 612854,
       "num": 612854,
       "word": "京东回应刘强东亲自送外卖",
@@ -937,14 +953,6 @@
       "onboard_time": 1745153966,
       "rank": 6,
       "category": "体育,演出"
-    },
-    {
-      "raw_hot": 570027,
-      "num": 570027,
-      "word": "马龙樊振东陈梦选择不参加多哈世乒赛",
-      "onboard_time": 1745243904,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 569498,
@@ -1395,6 +1403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 368701,
+      "num": 368701,
+      "word": "张根硕分享抗癌抗躁郁经历",
+      "onboard_time": 1745240243,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 368250,
       "num": 368250,
       "word": "无忧渡热度",
@@ -1641,14 +1657,6 @@
       "onboard_time": 1745157809,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 320037,
-      "num": 320037,
-      "word": "张根硕分享抗癌抗躁郁经历",
-      "onboard_time": 1745240243,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 316290,
@@ -1899,6 +1907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 277114,
+      "num": 585785,
+      "word": "央视曝光购物卡成洗钱工具",
+      "onboard_time": 1745244444,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 276197,
       "num": 461835,
       "word": "种地吧收草莓",
@@ -1980,10 +1996,18 @@
     },
     {
       "raw_hot": 262085,
-      "num": 262085,
+      "num": 373611,
       "word": "卤味鸭老板账号被禁",
       "onboard_time": 1745241923,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 261951,
+      "num": 261951,
+      "word": "医院回应男女占母婴室做不雅行为",
+      "onboard_time": 1745244023,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -2083,6 +2107,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 249740,
+      "num": 249740,
+      "word": "JDG发布声明",
+      "onboard_time": 1745245824,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 249078,
       "num": 249078,
       "word": "LGD为九尾维权",
@@ -2177,6 +2209,14 @@
       "onboard_time": 1745240542,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 237933,
+      "num": 756491,
+      "word": "万花世界男主",
+      "onboard_time": 1745242105,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 237751,
@@ -2299,14 +2339,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 224531,
-      "num": 356876,
-      "word": "万花世界男主",
-      "onboard_time": 1745242105,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 222623,
       "num": 222623,
       "word": "江苏一男子脚绑哑铃潜水溺亡",
@@ -2315,12 +2347,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 221297,
+      "num": 588883,
+      "word": "百万级新能源MPV世家亮相",
+      "onboard_time": 1745244444,
+      "rank": 12,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 220637,
       "num": 331761,
       "word": "旅行AI拉齐了全家五一出游颗粒度",
       "onboard_time": 1745208622,
       "rank": 34,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 219482,
+      "num": 219482,
+      "word": "美股",
+      "onboard_time": 1745245764,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 219388,
@@ -2385,14 +2433,6 @@
       "onboard_time": 1745107162,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 215430,
-      "num": 215430,
-      "word": "医院回应男女占母婴室做不雅行为",
-      "onboard_time": 1745244023,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 215281,
@@ -2596,7 +2636,7 @@
     },
     {
       "raw_hot": 203636,
-      "num": 251935,
+      "num": 402076,
       "word": "无忧渡",
       "onboard_time": 1745143703,
       "rank": 27,
@@ -3091,6 +3131,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 187276,
+      "num": 580492,
+      "word": "女童过马路被左转罐车撞倒身亡",
+      "onboard_time": 1745244204,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 187024,
       "num": 187024,
       "word": "巴西人成了乒乓球世界冠军",
@@ -3305,6 +3353,14 @@
       "onboard_time": 1745116403,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 176998,
+      "num": 737905,
+      "word": "vivo造出了手机圈第一个真V单",
+      "onboard_time": 1745241385,
+      "rank": 10,
+      "category": "数码"
     },
     {
       "raw_hot": 176590,
@@ -4219,14 +4275,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 147954,
-      "num": 585785,
-      "word": "央视曝光购物卡成洗钱工具",
-      "onboard_time": 1745244444,
-      "rank": 14,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 147948,
       "num": 1466221,
       "word": "关税高墙关不住民意",
@@ -4481,6 +4529,14 @@
       "onboard_time": 1745216540,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 136053,
+      "num": 422945,
+      "word": "张萌说李昀锐是书中走出来的诸葛玥",
+      "onboard_time": 1745245764,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 135858,
@@ -4955,14 +5011,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 120582,
-      "num": 592257,
-      "word": "vivo造出了手机圈第一个真V单",
-      "onboard_time": 1745241385,
-      "rank": 10,
-      "category": "数码"
-    },
-    {
       "raw_hot": 120019,
       "num": 120019,
       "word": "闪耀暖暖版本前瞻直播",
@@ -5008,14 +5056,6 @@
       "word": "男子拿邻居钥匙冒充房主4次卖电器",
       "onboard_time": 1745127264,
       "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 117736,
-      "num": 580492,
-      "word": "女童过马路被左转罐车撞倒身亡",
-      "onboard_time": 1745244204,
-      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -5619,6 +5659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93306,
+      "num": 405453,
+      "word": "北京男篮时隔5年再进四强",
+      "onboard_time": 1745246303,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93010,
       "num": 234115,
       "word": "戚薇希望所有女生要有强大内核",
@@ -5891,14 +5939,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 78230,
-      "num": 588883,
-      "word": "百万级新能源MPV世家亮相",
-      "onboard_time": 1745244444,
-      "rank": 12,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 77897,
       "num": 370061,
       "word": "有全职网约护士月薪近2万",
@@ -6001,6 +6041,14 @@
       "onboard_time": 1745232861,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71521,
+      "num": 578518,
+      "word": "外媒称特朗普关税政策正毁掉美元",
+      "onboard_time": 1745243904,
+      "rank": 18,
+      "category": "国际时政,财经"
     },
     {
       "raw_hot": 71271,
@@ -6123,12 +6171,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 66665,
+      "num": 587144,
+      "word": "朱熹写过流行歌曲还是自然科学家",
+      "onboard_time": 1745244624,
+      "rank": 13,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 66273,
       "num": 369276,
       "word": "越来越多科研人员考虑离开美国",
       "onboard_time": 1745208443,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 65871,
+      "num": 386121,
+      "word": "梦华录同款点茶神器至今仍是顶流",
+      "onboard_time": 1745246243,
+      "rank": 28,
+      "category": "正能量"
     },
     {
       "raw_hot": 65200,
@@ -6267,6 +6331,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 60409,
+      "num": 501993,
+      "word": "胃食管反流怎么缓解",
+      "onboard_time": 1745245282,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 60026,
       "num": 347403,
       "word": "王楚钦的眼神要碎了",
@@ -6345,14 +6417,6 @@
       "onboard_time": 1745083942,
       "rank": 46,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 55651,
-      "num": 356762,
-      "word": "胃食管反流怎么缓解",
-      "onboard_time": 1745245282,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 55638,
@@ -6683,14 +6747,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 46605,
-      "num": 578518,
-      "word": "外媒称特朗普关税政策正毁掉美元",
-      "onboard_time": 1745243904,
-      "rank": 18,
-      "category": "国际时政,财经"
-    },
-    {
       "raw_hot": 46159,
       "num": 795939,
       "word": "何以中国看福建",
@@ -6793,14 +6849,6 @@
       "onboard_time": 1745133382,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 42739,
-      "num": 587144,
-      "word": "朱熹写过流行歌曲还是自然科学家",
-      "onboard_time": 1745244624,
-      "rank": 13,
-      "category": "正能量"
     },
     {
       "raw_hot": 42547,
@@ -7129,6 +7177,14 @@
       "onboard_time": 1745217081,
       "rank": 26,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 31432,
+      "num": 264407,
+      "word": "北京男篮3比1北控男篮",
+      "onboard_time": 1745246363,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 31252,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1745246498654,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1792063,
+        "num": 1792063,
+        "word": "猫一杯2.0",
+        "onboard_time": 1745245824,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1323800,
+        "num": 1323800,
+        "word": "多哈世乒赛名单",
+        "onboard_time": 1745242823,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7855,
+        "num": 1034683,
+        "word": "那些你不知道的北京地儿",
+        "onboard_time": 1745196324,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 859875,
+        "num": 859875,
+        "word": "马龙樊振东陈梦选择不参加多哈世乒赛",
+        "onboard_time": 1745243904,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 838123,
+        "num": 838123,
+        "word": "莎头混双",
+        "onboard_time": 1745244143,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 975266,
+        "num": 814163,
+        "word": "美团再发说明",
+        "onboard_time": 1745236523,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 769541,
+        "num": 769541,
+        "word": "刘强东亲自送外卖",
+        "onboard_time": 1745237902,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 670497,
+        "num": 769355,
+        "word": "无忧渡 曹骏",
+        "onboard_time": 1745240782,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 507175,
+        "num": 762224,
+        "word": "失去美国订单后海外订单量竟然多了",
+        "onboard_time": 1745238442,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 237933,
+        "num": 756491,
+        "word": "万花世界男主",
+        "onboard_time": 1745242105,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2851435,
+        "num": 751396,
+        "word": "关晓彤 鹿晗",
+        "onboard_time": 1745230340,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 747639,
+        "num": 747639,
+        "word": "马伯骞给弟弟婚礼当伴郎",
+        "onboard_time": 1745240423,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176998,
+        "num": 737905,
+        "word": "vivo造出了手机圈第一个真V单",
+        "onboard_time": 1745241385,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 734060,
+        "num": 734060,
+        "word": "房琪 对不起",
+        "onboard_time": 1745234301,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 733871,
+        "num": 733871,
+        "word": "地铁被辱骂衣服脏乘客家属发声",
+        "onboard_time": 1745241743,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 602993,
+        "num": 602993,
+        "word": "亚朵花洒",
+        "onboard_time": 1745235022,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 531689,
+        "num": 531689,
+        "word": "万花世界迪丽热巴",
+        "onboard_time": 1745243964,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76670,
+        "num": 528432,
+        "word": "扭矩18000的宝马来了",
+        "onboard_time": 1745244684,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 221297,
+        "num": 519010,
+        "word": "百万级新能源MPV世家亮相",
+        "onboard_time": 1745244444,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 60409,
+        "num": 501993,
+        "word": "胃食管反流怎么缓解",
+        "onboard_time": 1745245282,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 66665,
+        "num": 494780,
+        "word": "朱熹写过流行歌曲还是自然科学家",
+        "onboard_time": 1745244624,
+        "rank": 20,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 914804,
+        "num": 474935,
+        "word": "无手换卫生巾女孩被开黄腔",
+        "onboard_time": 1745237421,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 470692,
+        "num": 470692,
+        "word": "刘强东请骑手吃海底捞",
+        "onboard_time": 1745241203,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 440699,
+        "num": 440699,
+        "word": "王楚钦孙颖莎世乒赛出战混双",
+        "onboard_time": 1745243844,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209477,
+        "num": 439229,
+        "word": "鞠婧祎官宣两部新剧",
+        "onboard_time": 1745239462,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136053,
+        "num": 422945,
+        "word": "张萌说李昀锐是书中走出来的诸葛玥",
+        "onboard_time": 1745245764,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93306,
+        "num": 405453,
+        "word": "北京男篮时隔5年再进四强",
+        "onboard_time": 1745246303,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129432,
+        "num": 402076,
+        "word": "无忧渡",
+        "onboard_time": 1745231662,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65871,
+        "num": 386121,
+        "word": "梦华录同款点茶神器至今仍是顶流",
+        "onboard_time": 1745246243,
+        "rank": 28,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 174053,
+        "num": 373611,
+        "word": "卤味鸭老板账号被禁",
+        "onboard_time": 1745241923,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 368701,
+        "num": 368701,
+        "word": "张根硕分享抗癌抗躁郁经历",
+        "onboard_time": 1745240243,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277114,
+        "num": 277114,
+        "word": "央视曝光购物卡成洗钱工具",
+        "onboard_time": 1745244444,
+        "rank": 31,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 31432,
+        "num": 264407,
+        "word": "北京男篮3比1北控男篮",
+        "onboard_time": 1745246363,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 261951,
+        "num": 261951,
+        "word": "医院回应男女占母婴室做不雅行为",
+        "onboard_time": 1745244023,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258492,
+        "num": 258492,
+        "word": "7.8元京东外卖迟到免单骑手还赚8元",
+        "onboard_time": 1745242463,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 71521,
+        "num": 257008,
+        "word": "外媒称特朗普关税政策正毁掉美元",
+        "onboard_time": 1745243904,
+        "rank": 35,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 256016,
+        "num": 256016,
+        "word": "教皇方济各去世",
+        "onboard_time": 1745223021,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 324542,
+        "num": 255282,
+        "word": "关晓彤没发",
+        "onboard_time": 1745165142,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253569,
+        "num": 253569,
+        "word": "女童过马路被罐车撞倒身亡",
+        "onboard_time": 1745243785,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119596,
+        "num": 250662,
+        "word": "seventeen五辑",
+        "onboard_time": 1745242224,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 249740,
+        "num": 249740,
+        "word": "JDG发布声明",
+        "onboard_time": 1745245824,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 226452,
+        "num": 226452,
+        "word": "网友说宋祖儿肿了",
+        "onboard_time": 1745222482,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222324,
+        "num": 222324,
+        "word": "尹恩惠40岁状态",
+        "onboard_time": 1745239043,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148745,
+        "num": 220685,
+        "word": "美团再回应二选一传言",
+        "onboard_time": 1745244444,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219482,
+        "num": 219482,
+        "word": "美股",
+        "onboard_time": 1745245764,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 61010,
+        "num": 196876,
+        "word": "当我问Deepseek要不要打HPV疫苗",
+        "onboard_time": 1745240782,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187276,
+        "num": 187276,
+        "word": "女童过马路被左转罐车撞倒身亡",
+        "onboard_time": 1745244204,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153064,
+        "num": 185437,
+        "word": "阿根廷从中国进口额翻倍",
+        "onboard_time": 1745240542,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 111662,
+        "num": 185301,
+        "word": "鞠婧祎合作完郭敬明合作王一栩",
+        "onboard_time": 1745242583,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73029,
+        "num": 182421,
+        "word": "魏建军高山发布会表态绝不做增程",
+        "onboard_time": 1745240782,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#谱写周边命运共同体建设新篇章#"
+    }
+  }
+}
