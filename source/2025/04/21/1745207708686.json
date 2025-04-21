@@ -1,0 +1,410 @@
+{
+  "runTime": 1745207708686,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1769932,
+        "num": 1769932,
+        "word": "哪吒3母亲复活",
+        "onboard_time": 1745201662,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 702869,
+        "num": 702869,
+        "word": "晚上10点睡觉和11点睡觉的区别",
+        "onboard_time": 1745201302,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 36676,
+        "num": 690323,
+        "word": "何以中国看福建",
+        "onboard_time": 1745192421,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 761628,
+        "num": 689898,
+        "word": "综艺史上最强婚恋售后出现了",
+        "onboard_time": 1745205684,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1360544,
+        "num": 689726,
+        "word": "美团外卖",
+        "onboard_time": 1745202561,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 689419,
+        "num": 689419,
+        "word": "特朗普自己人也坐不住了",
+        "onboard_time": 1745195005,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 390917,
+        "num": 676067,
+        "word": "本周上5休1再上1",
+        "onboard_time": 1745203822,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207296,
+        "num": 674244,
+        "word": "孙颖莎冠军",
+        "onboard_time": 1745151746,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 673699,
+        "num": 673699,
+        "word": "朱珠带了整整四个月妆",
+        "onboard_time": 1745195486,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176350,
+        "num": 535052,
+        "word": "金饰价半个月涨了122元",
+        "onboard_time": 1745205803,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 2248396,
+        "num": 524071,
+        "word": "关晓彤没发",
+        "onboard_time": 1745165142,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 494050,
+        "num": 494050,
+        "word": "七年之痒",
+        "onboard_time": 1745199443,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412480,
+        "num": 466353,
+        "word": "王者荣耀",
+        "onboard_time": 1745206461,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 460718,
+        "num": 460718,
+        "word": "谢谢北京地铁5号线上勇敢的女乘客",
+        "onboard_time": 1745161948,
+        "rank": 13,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 49980,
+        "num": 460418,
+        "word": "超1200名经济学家签署反关税宣言",
+        "onboard_time": 1745206582,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 381503,
+        "num": 459879,
+        "word": "金价",
+        "onboard_time": 1745193322,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1905572,
+        "num": 459190,
+        "word": "鹿晗 关晓彤",
+        "onboard_time": 1745150424,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110661,
+        "num": 458973,
+        "word": "默沙东九价HPV疫苗男女均可接种",
+        "onboard_time": 1745204661,
+        "rank": 17,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 458553,
+        "num": 458553,
+        "word": "李昊养病休息",
+        "onboard_time": 1745203401,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82865,
+        "num": 445896,
+        "word": "李玟暎结婚",
+        "onboard_time": 1745204422,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 536629,
+        "num": 443271,
+        "word": "女子赌博欠贷遭债主胁迫肉偿抵债",
+        "onboard_time": 1745204063,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 439251,
+        "num": 439251,
+        "word": "钟辰乐只p自己 黄仁俊放原图",
+        "onboard_time": 1745198424,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 376332,
+        "num": 376332,
+        "word": "生命树",
+        "onboard_time": 1745204721,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 340491,
+        "num": 340491,
+        "word": "甲状腺健康的人有6个习惯",
+        "onboard_time": 1745200582,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 316158,
+        "num": 316158,
+        "word": "中国乒乓球确实该反思了",
+        "onboard_time": 1745163028,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 308775,
+        "num": 308775,
+        "word": "教资成绩",
+        "onboard_time": 1745201542,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 292902,
+        "num": 292902,
+        "word": "京东优先为骑手对象安排工作",
+        "onboard_time": 1745206404,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 285268,
+        "num": 285268,
+        "word": "刘国正说雨果完全是拼刺刀打法",
+        "onboard_time": 1745204661,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193789,
+        "num": 282371,
+        "word": "Jennie科切拉舞台",
+        "onboard_time": 1745207362,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 166045,
+        "num": 282213,
+        "word": "建议大学生接种九价HPV疫苗",
+        "onboard_time": 1745206642,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237669,
+        "num": 282131,
+        "word": "伊藤美诚晒与孙颖莎合照",
+        "onboard_time": 1745206404,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 282095,
+        "num": 282095,
+        "word": "真小鸟全身都在拒绝封妃",
+        "onboard_time": 1745205923,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 242978,
+        "num": 242978,
+        "word": "姥姥 人类有两次死亡",
+        "onboard_time": 1745205502,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157805,
+        "num": 235368,
+        "word": "白敬亭五月天合照",
+        "onboard_time": 1745206042,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 231686,
+        "num": 231686,
+        "word": "金价30个月翻倍",
+        "onboard_time": 1745204183,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 177354,
+        "num": 177354,
+        "word": "赵樱子自曝微do",
+        "onboard_time": 1745200523,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176130,
+        "num": 176130,
+        "word": "鹿晗",
+        "onboard_time": 1745190379,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162319,
+        "num": 162319,
+        "word": "肖战七年蝉联世首帅",
+        "onboard_time": 1745166505,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108454,
+        "num": 161519,
+        "word": "美元进入崩塌过程",
+        "onboard_time": 1745207602,
+        "rank": 38,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 161060,
+        "num": 161060,
+        "word": "五五开黑玄学拼星星",
+        "onboard_time": 1745206823,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 160666,
+        "num": 160666,
+        "word": "孙颖莎雨果澳门冠军城市宣传照",
+        "onboard_time": 1745202801,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152930,
+        "num": 155043,
+        "word": "辛云来剧抛脸",
+        "onboard_time": 1745206342,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154542,
+        "num": 154542,
+        "word": "一旦回归丛林法则所有国家都会受害",
+        "onboard_time": 1745199742,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 154408,
+        "num": 154408,
+        "word": "谢娜好一个看热闹不嫌事儿大",
+        "onboard_time": 1745206642,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131172,
+        "num": 131172,
+        "word": "王子文陈瑾时隔两年三搭",
+        "onboard_time": 1745205263,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129853,
+        "num": 129853,
+        "word": "杨紫生命树4月底开机",
+        "onboard_time": 1745207602,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129012,
+        "num": 129012,
+        "word": "尹锡悦坐被告席受审画面曝光",
+        "onboard_time": 1745204961,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 125274,
+        "num": 125274,
+        "word": "沈月伤人的话要用力去说",
+        "onboard_time": 1745207662,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123212,
+        "num": 123212,
+        "word": "李武军解读男单失冠",
+        "onboard_time": 1745202921,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21047,
+        "num": 118804,
+        "word": "一口气了解瑞士经济",
+        "onboard_time": 1745206342,
+        "rank": 49,
+        "category": "财经,民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#文明因交流而多彩因互鉴而丰富#"
+    }
+  }
+}
