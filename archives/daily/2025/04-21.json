@@ -1,6 +1,6 @@
 {
   "startTime": 1745166450412,
-  "endTime": 1745202036674,
+  "endTime": 1745205284665,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -33,6 +33,14 @@
       "onboard_time": 1745163028,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1879015,
+      "num": 1879015,
+      "word": "哪吒3母亲复活",
+      "onboard_time": 1745201662,
+      "rank": 5,
+      "category": "电影"
     },
     {
       "raw_hot": 1865233,
@@ -124,7 +132,7 @@
     },
     {
       "raw_hot": 769591,
-      "num": 556865,
+      "num": 663821,
       "word": "朱珠带了整整四个月妆",
       "onboard_time": 1745195486,
       "rank": 3,
@@ -155,6 +163,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 695834,
+      "num": 695834,
+      "word": "教资成绩",
+      "onboard_time": 1745201542,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 663835,
+      "num": 461975,
+      "word": "七年之痒",
+      "onboard_time": 1745199443,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 629207,
       "num": 629207,
       "word": "金价",
@@ -180,19 +204,11 @@
     },
     {
       "raw_hot": 545784,
-      "num": 263983,
+      "num": 458206,
       "word": "钟辰乐只p自己 黄仁俊放原图",
       "onboard_time": 1745198424,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 537877,
-      "num": 537877,
-      "word": "教资成绩",
-      "onboard_time": 1745201542,
-      "rank": 4,
-      "category": "教育"
     },
     {
       "raw_hot": 480310,
@@ -203,20 +219,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 457563,
+      "num": 457563,
+      "word": "李昊养病休息",
+      "onboard_time": 1745203401,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 453950,
-      "num": 261145,
+      "num": 429802,
       "word": "甲状腺健康的人有6个习惯",
       "onboard_time": 1745200582,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 442622,
-      "num": 259574,
-      "word": "七年之痒",
-      "onboard_time": 1745199443,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 420378,
@@ -243,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 398047,
+      "num": 398047,
+      "word": "女子赌博欠贷遭债主胁迫肉偿抵债",
+      "onboard_time": 1745204063,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 383664,
       "num": 383664,
       "word": "王楚钦铜牌",
@@ -252,7 +276,7 @@
     },
     {
       "raw_hot": 373339,
-      "num": 258996,
+      "num": 310664,
       "word": "赵樱子自曝微do",
       "onboard_time": 1745200523,
       "rank": 18,
@@ -283,16 +307,8 @@
       "category": "网红"
     },
     {
-      "raw_hot": 317069,
-      "num": 317069,
-      "word": "哪吒3母亲复活",
-      "onboard_time": 1745201662,
-      "rank": 5,
-      "category": "电影"
-    },
-    {
       "raw_hot": 302942,
-      "num": 302942,
+      "num": 464737,
       "word": "一旦回归丛林法则所有国家都会受害",
       "onboard_time": 1745199742,
       "rank": 6,
@@ -324,11 +340,19 @@
     },
     {
       "raw_hot": 276197,
-      "num": 276197,
+      "num": 461835,
       "word": "种地吧收草莓",
       "onboard_time": 1745200462,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 260116,
+      "num": 260116,
+      "word": "孙颖莎雨果澳门冠军城市宣传照",
+      "onboard_time": 1745202801,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 247065,
@@ -361,6 +385,14 @@
       "onboard_time": 1745153006,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 236442,
+      "num": 236442,
+      "word": "美团外卖",
+      "onboard_time": 1745202561,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 233576,
@@ -443,6 +475,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 202923,
+      "num": 275472,
+      "word": "就算是吴尊周末了也得来河北",
+      "onboard_time": 1745204362,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198165,
       "num": 349233,
       "word": "范思哲晚宴",
@@ -457,6 +497,14 @@
       "onboard_time": 1745201123,
       "rank": 31,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 195829,
+      "num": 463768,
+      "word": "生命树",
+      "onboard_time": 1745204721,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 195761,
@@ -483,6 +531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192840,
+      "num": 458051,
+      "word": "晚上10点睡觉和11点睡觉的区别",
+      "onboard_time": 1745201302,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 191493,
       "num": 191493,
       "word": "A股",
@@ -492,11 +548,19 @@
     },
     {
       "raw_hot": 190151,
-      "num": 213077,
+      "num": 241104,
       "word": "陶喆 听劝",
       "onboard_time": 1745201241,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 181420,
+      "num": 463495,
+      "word": "金价30个月翻倍",
+      "onboard_time": 1745204183,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 180630,
@@ -515,8 +579,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 178914,
-      "num": 178914,
+      "raw_hot": 179348,
+      "num": 179348,
       "word": "美国一些婴幼儿产品3个月将售罄",
       "onboard_time": 1745197825,
       "rank": 35,
@@ -529,6 +593,14 @@
       "onboard_time": 1745159909,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 174893,
+      "num": 459535,
+      "word": "默沙东九价HPV疫苗男女均可接种",
+      "onboard_time": 1745204661,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 172354,
@@ -547,6 +619,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 170424,
+      "num": 170424,
+      "word": "李武军解读男单失冠",
+      "onboard_time": 1745202921,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168143,
       "num": 168143,
       "word": "谁能拒绝一只情绪稳定的小猪",
@@ -563,20 +643,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 163695,
-      "num": 163695,
-      "word": "晚上10点睡觉和11点睡觉的区别",
-      "onboard_time": 1745201302,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 160431,
-      "num": 160431,
+      "num": 179510,
       "word": "雨果三年前就豪言能比国乒球员强",
       "onboard_time": 1745200103,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157495,
+      "num": 157495,
+      "word": "男子幻想被做法持钉枪杀2人判死缓",
+      "onboard_time": 1745203222,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155373,
@@ -601,6 +681,14 @@
       "onboard_time": 1745166087,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150712,
+      "num": 150712,
+      "word": "本周上5休1再上1",
+      "onboard_time": 1745203822,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 148446,
@@ -683,6 +771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119203,
+      "num": 237732,
+      "word": "刘国正说雨果完全是拼刺刀打法",
+      "onboard_time": 1745204661,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118584,
       "num": 261899,
       "word": "饿了但不想吃饭是什么原因",
@@ -699,6 +795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118294,
+      "num": 183301,
+      "word": "早说过悬疑剧里当证人没好下场",
+      "onboard_time": 1745203822,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117401,
       "num": 117401,
       "word": "火勇大战",
@@ -707,12 +811,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117162,
+      "num": 117162,
+      "word": "王子文陈瑾时隔两年三搭",
+      "onboard_time": 1745205263,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116957,
       "num": 211805,
       "word": "时团二开",
       "onboard_time": 1745201601,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 116769,
+      "num": 116769,
+      "word": "李玟暎结婚",
+      "onboard_time": 1745204422,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 114946,
@@ -795,6 +915,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 89724,
+      "num": 460786,
+      "word": "美防长被曝在私人群聊分享军事计划",
+      "onboard_time": 1745203522,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 83766,
       "num": 95292,
       "word": "月虫",
@@ -875,6 +1003,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 53384,
+      "num": 461057,
+      "word": "尹锡悦坐被告席受审画面曝光",
+      "onboard_time": 1745204961,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 53338,
       "num": 77395,
       "word": "刘涛为妈祖献寿桃",
@@ -883,8 +1019,16 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 52676,
+      "num": 181184,
+      "word": "减肥仪宣称用1次等于跑步10小时",
+      "onboard_time": 1745205202,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46159,
-      "num": 568716,
+      "num": 704714,
       "word": "何以中国看福建",
       "onboard_time": 1745192421,
       "rank": 2,
@@ -971,6 +1115,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 28249,
+      "num": 344448,
+      "word": "60岁男子杀害教师女友案开庭",
+      "onboard_time": 1745205081,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28164,
       "num": 244721,
       "word": "美国进口商称加征关税将致经济崩溃",
@@ -1027,6 +1179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 19168,
+      "num": 137079,
+      "word": "anan名侦探柯南封面",
+      "onboard_time": 1745204063,
+      "rank": 43,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 18921,
       "num": 27326,
       "word": "丁程鑫新歌芥预告",
@@ -1081,6 +1241,14 @@
       "onboard_time": 1745191041,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 7470,
+      "num": 152451,
+      "word": "日本人吐槽大米离谱的价格",
+      "onboard_time": 1745205263,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 6890,
