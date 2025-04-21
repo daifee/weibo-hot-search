@@ -1,6 +1,6 @@
 {
   "startTime": 1745166450412,
-  "endTime": 1745200694769,
+  "endTime": 1745202036674,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -67,12 +67,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1327552,
+      "num": 270466,
+      "word": "京东称有外卖骑手遭遇2选1",
+      "onboard_time": 1745199144,
+      "rank": 12,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 969377,
       "num": 969377,
       "word": "极限挑战官方号卖了",
       "onboard_time": 1745156310,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 897547,
+      "num": 1143607,
+      "word": "特朗普自己人也坐不住了",
+      "onboard_time": 1745195005,
+      "rank": 1,
+      "category": "国际时政"
     },
     {
       "raw_hot": 894914,
@@ -91,12 +107,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 872051,
-      "num": 253852,
-      "word": "京东称有外卖骑手遭遇2选1",
-      "onboard_time": 1745199144,
-      "rank": 12,
-      "category": "互联网"
+      "raw_hot": 858197,
+      "num": 642330,
+      "word": "谢谢北京地铁5号线上勇敢的女乘客",
+      "onboard_time": 1745161948,
+      "rank": 8,
+      "category": "正能量"
     },
     {
       "raw_hot": 777807,
@@ -104,6 +120,14 @@
       "word": "李现晒和杨紫合照",
       "onboard_time": 1745162907,
       "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 769591,
+      "num": 556865,
+      "word": "朱珠带了整整四个月妆",
+      "onboard_time": 1745195486,
+      "rank": 3,
       "category": "艺人"
     },
     {
@@ -115,12 +139,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 715012,
-      "num": 483324,
-      "word": "朱珠带了整整四个月妆",
-      "onboard_time": 1745195486,
-      "rank": 3,
-      "category": "艺人"
+      "raw_hot": 723149,
+      "num": 265285,
+      "word": "京东外卖",
+      "onboard_time": 1745199742,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 701074,
@@ -131,20 +155,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 696439,
-      "num": 642330,
-      "word": "谢谢北京地铁5号线上勇敢的女乘客",
-      "onboard_time": 1745161948,
-      "rank": 8,
-      "category": "正能量"
-    },
-    {
-      "raw_hot": 654464,
-      "num": 654464,
-      "word": "特朗普自己人也坐不住了",
-      "onboard_time": 1745195005,
-      "rank": 1,
-      "category": "国际时政"
+      "raw_hot": 629207,
+      "num": 629207,
+      "word": "金价",
+      "onboard_time": 1745193322,
+      "rank": 4,
+      "category": "财经"
     },
     {
       "raw_hot": 580552,
@@ -163,12 +179,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 543890,
-      "num": 253755,
-      "word": "京东外卖",
-      "onboard_time": 1745199742,
-      "rank": 14,
-      "category": "互联网"
+      "raw_hot": 545784,
+      "num": 263983,
+      "word": "钟辰乐只p自己 黄仁俊放原图",
+      "onboard_time": 1745198424,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 537877,
+      "num": 537877,
+      "word": "教资成绩",
+      "onboard_time": 1745201542,
+      "rank": 4,
+      "category": "教育"
     },
     {
       "raw_hot": 480310,
@@ -179,20 +203,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 448248,
-      "num": 253527,
-      "word": "钟辰乐只p自己 黄仁俊放原图",
-      "onboard_time": 1745198424,
-      "rank": 16,
-      "category": "艺人"
+      "raw_hot": 453950,
+      "num": 261145,
+      "word": "甲状腺健康的人有6个习惯",
+      "onboard_time": 1745200582,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
-      "raw_hot": 440724,
-      "num": 440724,
-      "word": "金价",
-      "onboard_time": 1745193322,
-      "rank": 4,
-      "category": "财经"
+      "raw_hot": 442622,
+      "num": 259574,
+      "word": "七年之痒",
+      "onboard_time": 1745199443,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 420378,
@@ -227,6 +251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 373339,
+      "num": 258996,
+      "word": "赵樱子自曝微do",
+      "onboard_time": 1745200523,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 359664,
       "num": 359664,
       "word": "五月天白敬亭合唱任性",
@@ -249,6 +281,14 @@
       "onboard_time": 1745160029,
       "rank": 14,
       "category": "网红"
+    },
+    {
+      "raw_hot": 317069,
+      "num": 317069,
+      "word": "哪吒3母亲复活",
+      "onboard_time": 1745201662,
+      "rank": 5,
+      "category": "电影"
     },
     {
       "raw_hot": 302942,
@@ -283,20 +323,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 260327,
-      "num": 253372,
-      "word": "赵樱子自曝微do",
-      "onboard_time": 1745200523,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 253114,
-      "num": 253114,
-      "word": "甲状腺健康的人有6个习惯",
-      "onboard_time": 1745200582,
-      "rank": 21,
-      "category": "健康医疗"
+      "raw_hot": 276197,
+      "num": 276197,
+      "word": "种地吧收草莓",
+      "onboard_time": 1745200462,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 247065,
@@ -339,20 +371,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 225429,
+      "num": 272128,
+      "word": "一轮接一轮降雨来了",
+      "onboard_time": 1745196145,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 225121,
       "num": 212970,
       "word": "王楚钦表情亮了",
       "onboard_time": 1745164228,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 220279,
-      "num": 220279,
-      "word": "七年之痒",
-      "onboard_time": 1745199443,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 219876,
@@ -379,20 +411,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 215281,
+      "num": 215281,
+      "word": "教资成绩今日可查",
+      "onboard_time": 1745200942,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 209715,
+      "num": 209715,
+      "word": "黄金",
+      "onboard_time": 1745200822,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 207261,
       "num": 207261,
       "word": "断网了这竟然是沙溢",
       "onboard_time": 1745140822,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 203954,
-      "num": 203954,
-      "word": "一轮接一轮降雨来了",
-      "onboard_time": 1745196145,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 203041,
@@ -409,6 +449,14 @@
       "onboard_time": 1745161408,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 197908,
+      "num": 197908,
+      "word": "青海玉树4.6级地震",
+      "onboard_time": 1745201123,
+      "rank": 31,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 195761,
@@ -433,6 +481,22 @@
       "onboard_time": 1745146822,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191493,
+      "num": 191493,
+      "word": "A股",
+      "onboard_time": 1745201421,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 190151,
+      "num": 213077,
+      "word": "陶喆 听劝",
+      "onboard_time": 1745201241,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 180630,
@@ -483,11 +547,35 @@
       "category": "情感"
     },
     {
+      "raw_hot": 168143,
+      "num": 168143,
+      "word": "谁能拒绝一只情绪稳定的小猪",
+      "onboard_time": 1745201601,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 166904,
       "num": 166904,
       "word": "刘国梁参加澳门世界杯颁奖仪式",
       "onboard_time": 1745162726,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 163695,
+      "num": 163695,
+      "word": "晚上10点睡觉和11点睡觉的区别",
+      "onboard_time": 1745201302,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 160431,
+      "num": 160431,
+      "word": "雨果三年前就豪言能比国乒球员强",
+      "onboard_time": 1745200103,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -523,14 +611,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 144852,
-      "num": 203394,
-      "word": "种地吧收草莓",
-      "onboard_time": 1745200462,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 144797,
       "num": 154972,
       "word": "孙颖莎vs蒯曼",
@@ -545,14 +625,6 @@
       "onboard_time": 1745165032,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 139219,
-      "num": 139219,
-      "word": "雨果三年前就豪言能比国乒球员强",
-      "onboard_time": 1745200103,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 134014,
@@ -612,7 +684,7 @@
     },
     {
       "raw_hot": 118584,
-      "num": 118584,
+      "num": 261899,
       "word": "饿了但不想吃饭是什么原因",
       "onboard_time": 1745200341,
       "rank": 48,
@@ -627,12 +699,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117401,
+      "num": 117401,
+      "word": "火勇大战",
+      "onboard_time": 1745199021,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 116957,
+      "num": 211805,
+      "word": "时团二开",
+      "onboard_time": 1745201601,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 114946,
       "num": 148036,
       "word": "孙俪新剧包揽央视卫视第一",
       "onboard_time": 1745185035,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108849,
+      "num": 108849,
+      "word": "今日港股休市",
+      "onboard_time": 1745201902,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 106510,
@@ -715,6 +811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 82396,
+      "num": 210560,
+      "word": "140秒回顾孙颖莎夺冠之路",
+      "onboard_time": 1745200942,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 77507,
       "num": 77507,
       "word": "医生教你5分钟体态纠正术",
@@ -779,6 +883,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 46159,
+      "num": 568716,
+      "word": "何以中国看福建",
+      "onboard_time": 1745192421,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45453,
       "num": 45453,
       "word": "4AM春季赛第六周冠军",
@@ -836,19 +948,11 @@
     },
     {
       "raw_hot": 39100,
-      "num": 194326,
+      "num": 266957,
       "word": "尹锡悦涉内乱罪第二次庭审",
       "onboard_time": 1745200523,
       "rank": 31,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 36877,
-      "num": 495954,
-      "word": "何以中国看福建",
-      "onboard_time": 1745192421,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 31942,
@@ -912,6 +1016,14 @@
       "word": "奥赖利破门",
       "onboard_time": 1745174416,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 25419,
+      "num": 169514,
+      "word": "皮亚斯特里夺F1沙特站冠军",
+      "onboard_time": 1745200763,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -988,6 +1100,9 @@
     },
     {
       "word": "#文明因交流而多彩因互鉴而丰富#"
+    },
+    {
+      "word": "#何以中国走进福建#"
     }
   ]
 }
