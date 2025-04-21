@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745240545528,
+  "endTime": 1745242373092,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -411,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1110256,
+      "num": 311054,
+      "word": "马伯骞给弟弟婚礼当伴郎",
+      "onboard_time": 1745240423,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1104133,
       "num": 1104133,
       "word": "裴珠泫开球",
@@ -561,6 +569,14 @@
       "onboard_time": 1745210125,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 823650,
+      "num": 823650,
+      "word": "失去美国订单后海外订单量竟然多了",
+      "onboard_time": 1745238442,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 817201,
@@ -841,6 +857,14 @@
       "onboard_time": 1745217260,
       "rank": 33,
       "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 596860,
+      "num": 596860,
+      "word": "无忧渡 曹骏",
+      "onboard_time": 1745240782,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 591054,
@@ -1243,6 +1267,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 391204,
+      "num": 391204,
+      "word": "鞠婧祎官宣两部新剧",
+      "onboard_time": 1745239462,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 391094,
       "num": 316893,
       "word": "种地吧直播",
@@ -1403,14 +1435,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 351385,
-      "num": 351385,
-      "word": "鞠婧祎官宣两部新剧",
-      "onboard_time": 1745239462,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 351159,
       "num": 351159,
       "word": "王楚钦说为什么全是擦网",
@@ -1547,14 +1571,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 316629,
-      "num": 249709,
-      "word": "失去美国订单后海外订单量竟然多了",
-      "onboard_time": 1745238442,
-      "rank": 24,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 316290,
       "num": 316290,
       "word": "乒乓球世界杯颁奖",
@@ -1619,20 +1635,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 306387,
+      "num": 275158,
+      "word": "尹恩惠40岁状态",
+      "onboard_time": 1745239043,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 306279,
       "num": 306279,
       "word": "黄杨钿甜冰湖重生杀青礼红毯",
       "onboard_time": 1745126305,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 305798,
-      "num": 250252,
-      "word": "尹恩惠40岁状态",
-      "onboard_time": 1745239043,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 304842,
@@ -1804,7 +1820,7 @@
     },
     {
       "raw_hot": 278007,
-      "num": 248993,
+      "num": 274669,
       "word": "张根硕分享抗癌抗躁郁经历",
       "onboard_time": 1745240243,
       "rank": 25,
@@ -2035,6 +2051,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 242555,
+      "num": 286512,
+      "word": "萨巴伦卡斯图加特四亚",
+      "onboard_time": 1745241144,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 239644,
       "num": 239644,
       "word": "赵丽颖长发红裙",
@@ -2089,6 +2113,22 @@
       "onboard_time": 1745230103,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 232344,
+      "num": 232344,
+      "word": "龙胖回归能解决国乒男队危机吗",
+      "onboard_time": 1745240963,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 229929,
+      "num": 279751,
+      "word": "魏建军高山发布会表态绝不做增程",
+      "onboard_time": 1745240782,
+      "rank": 27,
+      "category": "汽车"
     },
     {
       "raw_hot": 229620,
@@ -2329,6 +2369,14 @@
       "onboard_time": 1745077343,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 210093,
+      "num": 341232,
+      "word": "阿根廷从中国进口额翻倍",
+      "onboard_time": 1745240542,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 209715,
@@ -3115,6 +3163,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 176995,
+      "num": 176995,
+      "word": "卤味鸭老板账号被禁",
+      "onboard_time": 1745241923,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 176590,
       "num": 176590,
       "word": "嫁得好猫咪都跟着沾光",
@@ -3339,14 +3395,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 169673,
-      "num": 169673,
-      "word": "马伯骞给弟弟婚礼当伴郎",
-      "onboard_time": 1745240423,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 169056,
       "num": 169056,
       "word": "刘国正夸孙颖莎有大局观",
@@ -3417,6 +3465,14 @@
       "onboard_time": 1745220562,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166361,
+      "num": 166361,
+      "word": "seventeen五辑",
+      "onboard_time": 1745242224,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 166259,
@@ -3579,6 +3635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160413,
+      "num": 160413,
+      "word": "万花世界男主",
+      "onboard_time": 1745242105,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159997,
       "num": 311795,
       "word": "极氪9X璀璨登场",
@@ -3601,6 +3665,14 @@
       "onboard_time": 1745105600,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158689,
+      "num": 134890,
+      "word": "奥斯塔彭科夺斯图加特赛冠军",
+      "onboard_time": 1745241623,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 158308,
@@ -3987,6 +4059,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 148503,
+      "num": 285294,
+      "word": "地铁被辱骂衣服脏乘客家属发声",
+      "onboard_time": 1745241743,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148446,
       "num": 148446,
       "word": "永生和永世不得超生我还是分得清的",
@@ -4201,6 +4281,14 @@
       "onboard_time": 1745110882,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138029,
+      "num": 133175,
+      "word": "x200ultra",
+      "onboard_time": 1745242162,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 137522,
@@ -5211,12 +5299,28 @@
       "category": "国际时政,民生新闻"
     },
     {
+      "raw_hot": 98978,
+      "num": 291257,
+      "word": "什么运动最能长个子",
+      "onboard_time": 1745241684,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 98142,
       "num": 297534,
       "word": "关于实施自由贸易试验区提升战略的意见",
       "onboard_time": 1745230161,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 97691,
+      "num": 293744,
+      "word": "刘强东请骑手吃海底捞",
+      "onboard_time": 1745241203,
+      "rank": 17,
+      "category": "互联网"
     },
     {
       "raw_hot": 97430,
@@ -5361,6 +5465,14 @@
       "onboard_time": 1745123484,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 92987,
+      "num": 332853,
+      "word": "vivo造出了手机圈第一个真V单",
+      "onboard_time": 1745241385,
+      "rank": 10,
+      "category": "数码"
     },
     {
       "raw_hot": 92951,
@@ -5745,6 +5857,14 @@
       "onboard_time": 1745162789,
       "rank": 19,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 69699,
+      "num": 281900,
+      "word": "当我问Deepseek要不要打HPV疫苗",
+      "onboard_time": 1745240782,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 69672,
@@ -6723,11 +6843,27 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 33229,
+      "num": 278650,
+      "word": "云南一公园内多只狗疑遭投毒死亡",
+      "onboard_time": 1745240722,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33161,
       "num": 262789,
       "word": "智障女子在美容店网贷充值24万",
       "onboard_time": 1745231842,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32736,
+      "num": 276311,
+      "word": "上海部分旧改老建筑遭博主擅闯打卡",
+      "onboard_time": 1745241804,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -6801,6 +6937,14 @@
       "onboard_time": 1745209764,
       "rank": 43,
       "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 29884,
+      "num": 183765,
+      "word": "古时城市名称有多绝",
+      "onboard_time": 1745241564,
+      "rank": 38,
+      "category": "科学科普,民生新闻"
     },
     {
       "raw_hot": 29867,
@@ -7027,6 +7171,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 23274,
+      "num": 284061,
+      "word": "60岁男子杀害女友案择期宣判",
+      "onboard_time": 1745242162,
+      "rank": 24,
+      "category": "议题讨论"
+    },
+    {
+      "raw_hot": 22713,
+      "num": 180570,
+      "word": "酒都春光好",
+      "onboard_time": 1745240483,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22556,
       "num": 22556,
       "word": "北京电影节",
@@ -7147,6 +7307,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 19054,
+      "num": 292519,
+      "word": "环球时报专访歌手刘欢",
+      "onboard_time": 1745241564,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 18955,
       "num": 168496,
       "word": "教师资格证面试报名流程图",
@@ -7161,14 +7329,6 @@
       "onboard_time": 1745175495,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 18624,
-      "num": 153010,
-      "word": "酒都春光好",
-      "onboard_time": 1745240483,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 18538,
@@ -7403,6 +7563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 8809,
+      "num": 191635,
+      "word": "京东外卖烧钱能成功吗",
+      "onboard_time": 1745242343,
+      "rank": 37,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 8414,
       "num": 158892,
       "word": "保洁休息区不是福利而是权利",
@@ -7427,7 +7595,7 @@
       "category": "国际时政,民生新闻"
     },
     {
-      "raw_hot": 2499,
+      "raw_hot": 6799,
       "num": 1362385,
       "word": "那些你不知道的北京地儿",
       "onboard_time": 1745196324,
