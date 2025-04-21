@@ -1,0 +1,410 @@
+{
+  "runTime": 1745206115177,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1816274,
+        "num": 1816274,
+        "word": "哪吒3母亲复活",
+        "onboard_time": 1745201662,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 771894,
+        "num": 771894,
+        "word": "特朗普自己人也坐不住了",
+        "onboard_time": 1745195005,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 36366,
+        "num": 672882,
+        "word": "何以中国看福建",
+        "onboard_time": 1745192421,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 671880,
+        "num": 671880,
+        "word": "朱珠带了整整四个月妆",
+        "onboard_time": 1745195486,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 529677,
+        "num": 529677,
+        "word": "教资成绩",
+        "onboard_time": 1745201542,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 460979,
+        "num": 460979,
+        "word": "晚上10点睡觉和11点睡觉的区别",
+        "onboard_time": 1745201302,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 434036,
+        "num": 434036,
+        "word": "金价",
+        "onboard_time": 1745193322,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 206552,
+        "num": 416747,
+        "word": "一旦回归丛林法则所有国家都会受害",
+        "onboard_time": 1745199742,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 243874,
+        "num": 416248,
+        "word": "金价30个月翻倍",
+        "onboard_time": 1745204183,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 415828,
+        "num": 415828,
+        "word": "美团外卖",
+        "onboard_time": 1745202561,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 2365705,
+        "num": 415498,
+        "word": "关晓彤没发",
+        "onboard_time": 1745165142,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 620877,
+        "num": 402092,
+        "word": "七年之痒",
+        "onboard_time": 1745199443,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 507181,
+        "num": 398497,
+        "word": "谢谢北京地铁5号线上勇敢的女乘客",
+        "onboard_time": 1745161948,
+        "rank": 12,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 503653,
+        "num": 391532,
+        "word": "李昊养病休息",
+        "onboard_time": 1745203401,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91707,
+        "num": 379330,
+        "word": "尹锡悦坐被告席受审画面曝光",
+        "onboard_time": 1745204961,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 269361,
+        "num": 374634,
+        "word": "生命树",
+        "onboard_time": 1745204721,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1937339,
+        "num": 367355,
+        "word": "鹿晗 关晓彤",
+        "onboard_time": 1745150424,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200778,
+        "num": 361486,
+        "word": "默沙东九价HPV疫苗男女均可接种",
+        "onboard_time": 1745204661,
+        "rank": 17,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 50905,
+        "num": 353762,
+        "word": "60岁男子杀害教师女友案开庭",
+        "onboard_time": 1745205081,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20253,
+        "num": 342142,
+        "word": "经常失眠会有什么危害",
+        "onboard_time": 1745205684,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 493576,
+        "num": 335197,
+        "word": "女子赌博欠贷遭债主胁迫肉偿抵债",
+        "onboard_time": 1745204063,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 478415,
+        "num": 327286,
+        "word": "钟辰乐只p自己 黄仁俊放原图",
+        "onboard_time": 1745198424,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 430664,
+        "num": 321252,
+        "word": "甲状腺健康的人有6个习惯",
+        "onboard_time": 1745200582,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 319342,
+        "num": 319342,
+        "word": "中国乒乓球确实该反思了",
+        "onboard_time": 1745163028,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 285384,
+        "num": 285384,
+        "word": "孙颖莎冠军",
+        "onboard_time": 1745151746,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 277507,
+        "num": 277507,
+        "word": "赵樱子自曝微do",
+        "onboard_time": 1745200523,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208343,
+        "num": 270791,
+        "word": "王子文陈瑾时隔两年三搭",
+        "onboard_time": 1745205263,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207403,
+        "num": 267878,
+        "word": "综艺史上最强婚恋售后出现了",
+        "onboard_time": 1745205684,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167418,
+        "num": 257799,
+        "word": "就算是吴尊周末了也得来河北",
+        "onboard_time": 1745204362,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49762,
+        "num": 252228,
+        "word": "减肥仪宣称用1次等于跑步10小时",
+        "onboard_time": 1745205202,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248342,
+        "num": 248342,
+        "word": "本周上5休1再上1",
+        "onboard_time": 1745203822,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223270,
+        "num": 223270,
+        "word": "孙颖莎雨果澳门冠军城市宣传照",
+        "onboard_time": 1745202801,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212310,
+        "num": 212310,
+        "word": "鹿晗",
+        "onboard_time": 1745190379,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192613,
+        "num": 192613,
+        "word": "刘国正说雨果完全是拼刺刀打法",
+        "onboard_time": 1745204661,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157096,
+        "num": 157096,
+        "word": "种地吧收草莓",
+        "onboard_time": 1745200462,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167639,
+        "num": 151697,
+        "word": "肖战七年蝉联世首帅",
+        "onboard_time": 1745166505,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140762,
+        "num": 140762,
+        "word": "美国一些婴幼儿产品3个月将售罄",
+        "onboard_time": 1745197825,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 139549,
+        "num": 139549,
+        "word": "男子幻想被做法持钉枪杀2人判死缓",
+        "onboard_time": 1745203222,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135506,
+        "num": 135506,
+        "word": "青海玉树4.6级地震",
+        "onboard_time": 1745201123,
+        "rank": 38,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 18146,
+        "num": 134568,
+        "word": "日本人吐槽大米离谱的价格",
+        "onboard_time": 1745205263,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 134268,
+        "num": 134268,
+        "word": "李武军解读男单失冠",
+        "onboard_time": 1745202921,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130783,
+        "num": 130783,
+        "word": "美防长被曝在私人群聊分享军事计划",
+        "onboard_time": 1745203522,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 128454,
+        "num": 128454,
+        "word": "一轮接一轮降雨来了",
+        "onboard_time": 1745196145,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117457,
+        "num": 117457,
+        "word": "陶喆 听劝",
+        "onboard_time": 1745201241,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116102,
+        "num": 116102,
+        "word": "李现晒和杨紫合照",
+        "onboard_time": 1745162907,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112473,
+        "num": 112473,
+        "word": "金饰价半个月涨了122元",
+        "onboard_time": 1745205803,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 109163,
+        "num": 109163,
+        "word": "国乒 樊振东",
+        "onboard_time": 1745155889,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109151,
+        "num": 109151,
+        "word": "白敬亭五月天合照",
+        "onboard_time": 1745206042,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 107254,
+        "num": 107254,
+        "word": "视力恢复八法",
+        "onboard_time": 1745205863,
+        "rank": 48,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 105455,
+        "num": 105455,
+        "word": "真小鸟全身都在拒绝封妃",
+        "onboard_time": 1745205923,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#何以中国走进福建#"
+    }
+  }
+}

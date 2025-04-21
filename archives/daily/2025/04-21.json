@@ -1,6 +1,6 @@
 {
   "startTime": 1745166450412,
-  "endTime": 1745205284665,
+  "endTime": 1745206115177,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 769591,
-      "num": 663821,
+      "num": 671880,
       "word": "朱珠带了整整四个月妆",
       "onboard_time": 1745195486,
       "rank": 3,
@@ -211,6 +211,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 503653,
+      "num": 457563,
+      "word": "李昊养病休息",
+      "onboard_time": 1745203401,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 493576,
+      "num": 398047,
+      "word": "女子赌博欠贷遭债主胁迫肉偿抵债",
+      "onboard_time": 1745204063,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 480310,
       "num": 244355,
       "word": "爷爷隔代亲赠孙子100万引儿子不满",
@@ -219,12 +235,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 457563,
-      "num": 457563,
-      "word": "李昊养病休息",
-      "onboard_time": 1745203401,
-      "rank": 20,
-      "category": "艺人"
+      "raw_hot": 460979,
+      "num": 460979,
+      "word": "晚上10点睡觉和11点睡觉的区别",
+      "onboard_time": 1745201302,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 453950,
@@ -243,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 415828,
+      "num": 415828,
+      "word": "美团外卖",
+      "onboard_time": 1745202561,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 407280,
       "num": 407280,
       "word": "语聊房竟成色情服务叫卖场所",
@@ -257,14 +281,6 @@
       "onboard_time": 1745131342,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 398047,
-      "num": 398047,
-      "word": "女子赌博欠贷遭债主胁迫肉偿抵债",
-      "onboard_time": 1745204063,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 383664,
@@ -347,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 269361,
+      "num": 463768,
+      "word": "生命树",
+      "onboard_time": 1745204721,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 260116,
       "num": 260116,
       "word": "孙颖莎雨果澳门冠军城市宣传照",
@@ -355,12 +379,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 248342,
+      "num": 248342,
+      "word": "本周上5休1再上1",
+      "onboard_time": 1745203822,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 247065,
       "num": 247065,
       "word": "孙颖莎雨果合照",
       "onboard_time": 1745164288,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 243874,
+      "num": 463495,
+      "word": "金价30个月翻倍",
+      "onboard_time": 1745204183,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 240451,
@@ -385,14 +425,6 @@
       "onboard_time": 1745153006,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 236442,
-      "num": 236442,
-      "word": "美团外卖",
-      "onboard_time": 1745202561,
-      "rank": 30,
-      "category": "互联网"
     },
     {
       "raw_hot": 233576,
@@ -459,6 +491,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 208343,
+      "num": 270791,
+      "word": "王子文陈瑾时隔两年三搭",
+      "onboard_time": 1745205263,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 207403,
+      "num": 267878,
+      "word": "综艺史上最强婚恋售后出现了",
+      "onboard_time": 1745205684,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207261,
       "num": 207261,
       "word": "断网了这竟然是沙溢",
@@ -483,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200778,
+      "num": 459535,
+      "word": "默沙东九价HPV疫苗男女均可接种",
+      "onboard_time": 1745204661,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 198165,
       "num": 349233,
       "word": "范思哲晚宴",
@@ -497,14 +553,6 @@
       "onboard_time": 1745201123,
       "rank": 31,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 195829,
-      "num": 463768,
-      "word": "生命树",
-      "onboard_time": 1745204721,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 195761,
@@ -531,12 +579,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 192840,
-      "num": 458051,
-      "word": "晚上10点睡觉和11点睡觉的区别",
-      "onboard_time": 1745201302,
-      "rank": 38,
-      "category": "幽默"
+      "raw_hot": 192613,
+      "num": 237732,
+      "word": "刘国正说雨果完全是拼刺刀打法",
+      "onboard_time": 1745204661,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 191493,
@@ -553,14 +601,6 @@
       "onboard_time": 1745201241,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 181420,
-      "num": 463495,
-      "word": "金价30个月翻倍",
-      "onboard_time": 1745204183,
-      "rank": 9,
-      "category": "财经"
     },
     {
       "raw_hot": 180630,
@@ -593,14 +633,6 @@
       "onboard_time": 1745159909,
       "rank": 29,
       "category": "演出"
-    },
-    {
-      "raw_hot": 174893,
-      "num": 459535,
-      "word": "默沙东九价HPV疫苗男女均可接种",
-      "onboard_time": 1745204661,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 172354,
@@ -683,14 +715,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 150712,
-      "num": 150712,
-      "word": "本周上5休1再上1",
-      "onboard_time": 1745203822,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 148446,
       "num": 148446,
       "word": "永生和永世不得超生我还是分得清的",
@@ -720,6 +744,14 @@
       "word": "美国敏感文件遭万人共享",
       "onboard_time": 1745194945,
       "rank": 46,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 130783,
+      "num": 460786,
+      "word": "美防长被曝在私人群聊分享军事计划",
+      "onboard_time": 1745203522,
+      "rank": 14,
       "category": "国际时政"
     },
     {
@@ -771,14 +803,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 119203,
-      "num": 237732,
-      "word": "刘国正说雨果完全是拼刺刀打法",
-      "onboard_time": 1745204661,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 118584,
       "num": 261899,
       "word": "饿了但不想吃饭是什么原因",
@@ -811,14 +835,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 117162,
-      "num": 117162,
-      "word": "王子文陈瑾时隔两年三搭",
-      "onboard_time": 1745205263,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 116957,
       "num": 211805,
       "word": "时团二开",
@@ -843,12 +859,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112473,
+      "num": 112473,
+      "word": "金饰价半个月涨了122元",
+      "onboard_time": 1745205803,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 109151,
+      "num": 109151,
+      "word": "白敬亭五月天合照",
+      "onboard_time": 1745206042,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 108849,
       "num": 108849,
       "word": "今日港股休市",
       "onboard_time": 1745201902,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 107254,
+      "num": 107254,
+      "word": "视力恢复八法",
+      "onboard_time": 1745205863,
+      "rank": 48,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 106510,
@@ -865,6 +905,14 @@
       "onboard_time": 1745158589,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 105455,
+      "num": 105455,
+      "word": "真小鸟全身都在拒绝封妃",
+      "onboard_time": 1745205923,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 104005,
@@ -915,11 +963,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 89724,
-      "num": 460786,
-      "word": "美防长被曝在私人群聊分享军事计划",
-      "onboard_time": 1745203522,
-      "rank": 14,
+      "raw_hot": 91707,
+      "num": 461057,
+      "word": "尹锡悦坐被告席受审画面曝光",
+      "onboard_time": 1745204961,
+      "rank": 13,
       "category": "国际时政"
     },
     {
@@ -1003,14 +1051,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 53384,
-      "num": 461057,
-      "word": "尹锡悦坐被告席受审画面曝光",
-      "onboard_time": 1745204961,
-      "rank": 13,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 53338,
       "num": 77395,
       "word": "刘涛为妈祖献寿桃",
@@ -1020,10 +1060,18 @@
     },
     {
       "raw_hot": 52676,
-      "num": 181184,
+      "num": 252228,
       "word": "减肥仪宣称用1次等于跑步10小时",
       "onboard_time": 1745205202,
       "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50905,
+      "num": 353762,
+      "word": "60岁男子杀害教师女友案开庭",
+      "onboard_time": 1745205081,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -1115,14 +1163,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 28249,
-      "num": 344448,
-      "word": "60岁男子杀害教师女友案开庭",
-      "onboard_time": 1745205081,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 28164,
       "num": 244721,
       "word": "美国进口商称加征关税将致经济崩溃",
@@ -1179,6 +1219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 20253,
+      "num": 342142,
+      "word": "经常失眠会有什么危害",
+      "onboard_time": 1745205684,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 19168,
       "num": 137079,
       "word": "anan名侦探柯南封面",
@@ -1193,6 +1241,14 @@
       "onboard_time": 1745175495,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 18146,
+      "num": 152451,
+      "word": "日本人吐槽大米离谱的价格",
+      "onboard_time": 1745205263,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 17394,
@@ -1241,14 +1297,6 @@
       "onboard_time": 1745191041,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 7470,
-      "num": 152451,
-      "word": "日本人吐槽大米离谱的价格",
-      "onboard_time": 1745205263,
-      "rank": 40,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 6890,
