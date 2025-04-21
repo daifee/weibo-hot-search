@@ -1,0 +1,410 @@
+{
+  "runTime": 1745249169301,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 845554,
+        "num": 1135288,
+        "word": "关晓彤五四晚会录制路透",
+        "onboard_time": 1745246603,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 691701,
+        "num": 691701,
+        "word": "马龙樊振东陈梦选择不参加多哈世乒赛",
+        "onboard_time": 1745243904,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21479,
+        "num": 541969,
+        "word": "何以中国闽山闽水物华新",
+        "onboard_time": 1745217142,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 483392,
+        "num": 483392,
+        "word": "多哈世乒赛名单",
+        "onboard_time": 1745242823,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 400875,
+        "num": 400875,
+        "word": "失去美国订单后海外订单量竟然多了",
+        "onboard_time": 1745238442,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 3121027,
+        "num": 396487,
+        "word": "猫一杯2.0",
+        "onboard_time": 1745245824,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 774482,
+        "num": 393784,
+        "word": "莎头混双",
+        "onboard_time": 1745244143,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 733381,
+        "num": 391608,
+        "word": "美团再发说明",
+        "onboard_time": 1745236523,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 386537,
+        "num": 386537,
+        "word": "无忧渡 曹骏",
+        "onboard_time": 1745240782,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 360570,
+        "num": 360570,
+        "word": "刘强东亲自送外卖",
+        "onboard_time": 1745237902,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 2510436,
+        "num": 360563,
+        "word": "关晓彤 鹿晗",
+        "onboard_time": 1745230340,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 731778,
+        "num": 360342,
+        "word": "房琪 对不起",
+        "onboard_time": 1745234301,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176870,
+        "num": 360138,
+        "word": "江苏一男子脚绑哑铃潜水溺亡",
+        "onboard_time": 1745243603,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71525,
+        "num": 359880,
+        "word": "北京男篮3比1北控男篮",
+        "onboard_time": 1745246363,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21353,
+        "num": 359663,
+        "word": "高铁上制止男子骚扰女性当事人发声",
+        "onboard_time": 1745248584,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 583978,
+        "num": 359519,
+        "word": "马伯骞给弟弟婚礼当伴郎",
+        "onboard_time": 1745240423,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283954,
+        "num": 359321,
+        "word": "朴宝剑为失误工作人员解围",
+        "onboard_time": 1745247745,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49781,
+        "num": 359236,
+        "word": "扭矩18000的宝马来了",
+        "onboard_time": 1745244684,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 186529,
+        "num": 359024,
+        "word": "当事人回应刘强东给自己送外卖",
+        "onboard_time": 1745247024,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 37532,
+        "num": 358740,
+        "word": "7楼8楼闹矛盾9楼住户躺枪被震楼3年",
+        "onboard_time": 1745248584,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 678835,
+        "num": 358662,
+        "word": "无手换卫生巾女孩被开黄腔",
+        "onboard_time": 1745237421,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 399507,
+        "num": 358298,
+        "word": "地铁被辱骂衣服脏乘客家属发声",
+        "onboard_time": 1745241743,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 578338,
+        "num": 358245,
+        "word": "张艺兴现场版精忠报国太好听了",
+        "onboard_time": 1745247323,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 255149,
+        "num": 357975,
+        "word": "无忧渡陈奕恒镜头",
+        "onboard_time": 1745247624,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140025,
+        "num": 357738,
+        "word": "金饰克价又大涨15元",
+        "onboard_time": 1745248164,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 357725,
+        "num": 357725,
+        "word": "万花世界迪丽热巴",
+        "onboard_time": 1745243964,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17677,
+        "num": 294818,
+        "word": "拔完牙为什么不能马上刷牙",
+        "onboard_time": 1745248883,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 287546,
+        "num": 287546,
+        "word": "亚朵花洒",
+        "onboard_time": 1745235022,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188126,
+        "num": 281499,
+        "word": "鞠婧祎档期排到明年",
+        "onboard_time": 1745248402,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164531,
+        "num": 280373,
+        "word": "万花世界男主",
+        "onboard_time": 1745242105,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 279904,
+        "num": 279904,
+        "word": "教皇方济各去世",
+        "onboard_time": 1745223021,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 258365,
+        "num": 258365,
+        "word": "王皓解释梁靖崑为何入选",
+        "onboard_time": 1745246963,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 252233,
+        "num": 252233,
+        "word": "张根硕分享抗癌抗躁郁经历",
+        "onboard_time": 1745240243,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249491,
+        "num": 249491,
+        "word": "医院回应男女占母婴室做不雅行为",
+        "onboard_time": 1745244023,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30214,
+        "num": 246173,
+        "word": "媒体评外卖市场竞争加剧",
+        "onboard_time": 1745247204,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245044,
+        "num": 245044,
+        "word": "美团再回应二选一传言",
+        "onboard_time": 1745244444,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158677,
+        "num": 226536,
+        "word": "百万级新能源MPV世家亮相",
+        "onboard_time": 1745244444,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 217743,
+        "num": 217743,
+        "word": "女童过马路被罐车撞倒身亡",
+        "onboard_time": 1745243785,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21040,
+        "num": 216882,
+        "word": "多方回应宠物店员工摔打小狗致骨折",
+        "onboard_time": 1745249062,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13470,
+        "num": 216729,
+        "word": "七旬老太闯红灯被撞负全责",
+        "onboard_time": 1745248942,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216728,
+        "num": 216728,
+        "word": "薛飞 男单",
+        "onboard_time": 1745247804,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191810,
+        "num": 191810,
+        "word": "央视曝光购物卡成洗钱工具",
+        "onboard_time": 1745244444,
+        "rank": 41,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 179871,
+        "num": 179871,
+        "word": "肖指导回应世乒赛混双名单",
+        "onboard_time": 1745248823,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173793,
+        "num": 173793,
+        "word": "7.8元京东外卖迟到免单骑手还赚8元",
+        "onboard_time": 1745242463,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 167692,
+        "num": 167692,
+        "word": "刘强东请骑手吃海底捞",
+        "onboard_time": 1745241203,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 166182,
+        "num": 166182,
+        "word": "混双运动员对参赛非常渴望",
+        "onboard_time": 1745247263,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160714,
+        "num": 160714,
+        "word": "美股",
+        "onboard_time": 1745245764,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 155066,
+        "num": 155066,
+        "word": "高露洁 孙颖莎",
+        "onboard_time": 1745248463,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148750,
+        "num": 148750,
+        "word": "娇妹 晓亮",
+        "onboard_time": 1745247624,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 146917,
+        "num": 146917,
+        "word": "网友说宋祖儿肿了",
+        "onboard_time": 1745222482,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记领略中华文明#"
+    }
+  }
+}

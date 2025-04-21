@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1745246498654,
+  "endTime": 1745249169301,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -2115,6 +2115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3121027,
+      "num": 1792063,
+      "word": "猫一杯2.0",
+      "onboard_time": 1745245824,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 3115726,
       "num": 1037236,
       "word": "王皓",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1737182356,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2976293,
-      "num": 2976293,
-      "word": "诗琳去世",
-      "onboard_time": 1739667920,
-      "rank": 0,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
