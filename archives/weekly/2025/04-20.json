@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745243037032,
+  "endTime": 1745245401563,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 3018738,
-      "num": 337724,
+      "num": 590079,
       "word": "关晓彤 鹿晗",
       "onboard_time": 1745230340,
       "rank": 10,
@@ -203,6 +203,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 1653537,
+      "num": 1653537,
+      "word": "多哈世乒赛名单",
+      "onboard_time": 1745242823,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1604512,
       "num": 372499,
       "word": "网友说宋祖儿肿了",
@@ -324,7 +332,7 @@
     },
     {
       "raw_hot": 1298662,
-      "num": 321286,
+      "num": 574786,
       "word": "无手换卫生巾女孩被开黄腔",
       "onboard_time": 1745237421,
       "rank": 11,
@@ -404,7 +412,7 @@
     },
     {
       "raw_hot": 1134536,
-      "num": 322195,
+      "num": 575499,
       "word": "马伯骞给弟弟婚礼当伴郎",
       "onboard_time": 1745240423,
       "rank": 36,
@@ -412,7 +420,7 @@
     },
     {
       "raw_hot": 1118714,
-      "num": 322115,
+      "num": 571328,
       "word": "房琪 对不起",
       "onboard_time": 1745234301,
       "rank": 31,
@@ -625,6 +633,14 @@
       "onboard_time": 1745113164,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 739970,
+      "num": 572988,
+      "word": "地铁被辱骂衣服脏乘客家属发声",
+      "onboard_time": 1745241743,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 723149,
@@ -843,6 +859,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 612972,
+      "num": 612972,
+      "word": "莎头混双",
+      "onboard_time": 1745244143,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 612854,
       "num": 612854,
       "word": "京东回应刘强东亲自送外卖",
@@ -865,6 +889,14 @@
       "onboard_time": 1745217260,
       "rank": 33,
       "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 594595,
+      "num": 594595,
+      "word": "王楚钦孙颖莎世乒赛出战混双",
+      "onboard_time": 1745243844,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 591054,
@@ -907,6 +939,14 @@
       "category": "体育,演出"
     },
     {
+      "raw_hot": 570027,
+      "num": 570027,
+      "word": "马龙樊振东陈梦选择不参加多哈世乒赛",
+      "onboard_time": 1745243904,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 569498,
       "num": 369000,
       "word": "快递太久没拿长出花了",
@@ -920,6 +960,14 @@
       "word": "确定是任嘉伦吗",
       "onboard_time": 1745118682,
       "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 565277,
+      "num": 565277,
+      "word": "万花世界迪丽热巴",
+      "onboard_time": 1745243964,
+      "rank": 25,
       "category": "剧集"
     },
     {
@@ -1065,6 +1113,14 @@
       "onboard_time": 1745076445,
       "rank": 12,
       "category": "演出"
+    },
+    {
+      "raw_hot": 495663,
+      "num": 495663,
+      "word": "刘强东请骑手吃海底捞",
+      "onboard_time": 1745241203,
+      "rank": 17,
+      "category": "互联网"
     },
     {
       "raw_hot": 481222,
@@ -1268,7 +1324,7 @@
     },
     {
       "raw_hot": 391204,
-      "num": 391204,
+      "num": 593055,
       "word": "鞠婧祎官宣两部新剧",
       "onboard_time": 1745239462,
       "rank": 15,
@@ -1417,6 +1473,14 @@
       "onboard_time": 1745150965,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 357163,
+      "num": 357163,
+      "word": "7.8元京东外卖迟到免单骑手还赚8元",
+      "onboard_time": 1745242463,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 355935,
@@ -1579,12 +1643,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 320135,
-      "num": 320135,
-      "word": "刘强东请骑手吃海底捞",
-      "onboard_time": 1745241203,
-      "rank": 17,
-      "category": "互联网"
+      "raw_hot": 320037,
+      "num": 320037,
+      "word": "张根硕分享抗癌抗躁郁经历",
+      "onboard_time": 1745240243,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 316290,
@@ -1835,14 +1899,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 278007,
-      "num": 276500,
-      "word": "张根硕分享抗癌抗躁郁经历",
-      "onboard_time": 1745240243,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 276197,
       "num": 461835,
       "word": "种地吧收草莓",
@@ -1864,6 +1920,14 @@
       "word": "大爷下单550只鸡退款被拒后连夜搭棚",
       "onboard_time": 1745227102,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 271068,
+      "num": 271068,
+      "word": "女童过马路被罐车撞倒身亡",
+      "onboard_time": 1745243785,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -1905,14 +1969,6 @@
       "onboard_time": 1745217682,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 264621,
-      "num": 321414,
-      "word": "7.8元京东外卖迟到免单骑手还赚8元",
-      "onboard_time": 1745242463,
-      "rank": 19,
-      "category": "互联网"
     },
     {
       "raw_hot": 264577,
@@ -2243,6 +2299,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 224531,
+      "num": 356876,
+      "word": "万花世界男主",
+      "onboard_time": 1745242105,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 222623,
+      "num": 222623,
+      "word": "江苏一男子脚绑哑铃潜水溺亡",
+      "onboard_time": 1745243603,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 220637,
       "num": 331761,
       "word": "旅行AI拉齐了全家五一出游颗粒度",
@@ -2315,6 +2387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 215430,
+      "num": 215430,
+      "word": "医院回应男女占母婴室做不雅行为",
+      "onboard_time": 1745244023,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 215281,
       "num": 215281,
       "word": "教资成绩今日可查",
@@ -2329,14 +2409,6 @@
       "onboard_time": 1745161286,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 214667,
-      "num": 321128,
-      "word": "万花世界男主",
-      "onboard_time": 1745242105,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 214605,
@@ -2369,14 +2441,6 @@
       "onboard_time": 1745107582,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 213812,
-      "num": 213812,
-      "word": "多哈世乒赛名单",
-      "onboard_time": 1745242823,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 212570,
@@ -2425,14 +2489,6 @@
       "onboard_time": 1745077343,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 209782,
-      "num": 321545,
-      "word": "地铁被辱骂衣服脏乘客家属发声",
-      "onboard_time": 1745241743,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 209715,
@@ -2505,6 +2561,14 @@
       "onboard_time": 1745226321,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 204741,
+      "num": 204741,
+      "word": "高能量人的日常有多精力旺盛",
+      "onboard_time": 1745244684,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 204279,
@@ -3475,6 +3539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168490,
+      "num": 583496,
+      "word": "颜安不笑的时候我开始笑了",
+      "onboard_time": 1745244444,
+      "rank": 15,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 168143,
       "num": 168143,
       "word": "谁能拒绝一只情绪稳定的小猪",
@@ -3635,6 +3707,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 163109,
+      "num": 356796,
+      "word": "美团再回应二选一传言",
+      "onboard_time": 1745244444,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 162869,
       "num": 174795,
       "word": "胡杏儿绿茶气质拿捏到位了",
@@ -3643,12 +3723,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162705,
+      "num": 162705,
+      "word": "被泼汽油烧残女孩奶奶悲恸离世",
+      "onboard_time": 1745245224,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 162595,
       "num": 336334,
       "word": "好一个乖乖女编剧方控诉分钱不均",
       "onboard_time": 1745158650,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 162300,
+      "num": 162300,
+      "word": "A股新风口",
+      "onboard_time": 1745245042,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 162275,
@@ -4121,6 +4217,14 @@
       "onboard_time": 1745105841,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147954,
+      "num": 585785,
+      "word": "央视曝光购物卡成洗钱工具",
+      "onboard_time": 1745244444,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 147948,
@@ -4852,7 +4956,7 @@
     },
     {
       "raw_hot": 120582,
-      "num": 332853,
+      "num": 592257,
       "word": "vivo造出了手机圈第一个真V单",
       "onboard_time": 1745241385,
       "rank": 10,
@@ -4904,6 +5008,14 @@
       "word": "男子拿邻居钥匙冒充房主4次卖电器",
       "onboard_time": 1745127264,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117736,
+      "num": 580492,
+      "word": "女童过马路被左转罐车撞倒身亡",
+      "onboard_time": 1745244204,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -5220,7 +5332,7 @@
     },
     {
       "raw_hot": 104901,
-      "num": 135721,
+      "num": 218908,
       "word": "河北文旅发了孙颖莎",
       "onboard_time": 1745240183,
       "rank": 46,
@@ -5659,6 +5771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 83278,
+      "num": 321079,
+      "word": "当我问Deepseek要不要打HPV疫苗",
+      "onboard_time": 1745240782,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83132,
       "num": 116313,
       "word": "周洁琼成林允站姐",
@@ -5681,6 +5801,14 @@
       "onboard_time": 1745200942,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82306,
+      "num": 582509,
+      "word": "扭矩18000的宝马来了",
+      "onboard_time": 1745244684,
+      "rank": 16,
+      "category": "汽车"
     },
     {
       "raw_hot": 81504,
@@ -5763,6 +5891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 78230,
+      "num": 588883,
+      "word": "百万级新能源MPV世家亮相",
+      "onboard_time": 1745244444,
+      "rank": 12,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 77897,
       "num": 370061,
       "word": "有全职网约护士月薪近2万",
@@ -5840,14 +5976,6 @@
       "word": "我问AI带1万元去上海玩一天够吗",
       "onboard_time": 1745209944,
       "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 74206,
-      "num": 321079,
-      "word": "当我问Deepseek要不要打HPV疫苗",
-      "onboard_time": 1745240782,
-      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -6219,6 +6347,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 55651,
+      "num": 356762,
+      "word": "胃食管反流怎么缓解",
+      "onboard_time": 1745245282,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 55638,
       "num": 157469,
       "word": "花海空降",
@@ -6547,6 +6683,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 46605,
+      "num": 578518,
+      "word": "外媒称特朗普关税政策正毁掉美元",
+      "onboard_time": 1745243904,
+      "rank": 18,
+      "category": "国际时政,财经"
+    },
+    {
       "raw_hot": 46159,
       "num": 795939,
       "word": "何以中国看福建",
@@ -6649,6 +6793,14 @@
       "onboard_time": 1745133382,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 42739,
+      "num": 587144,
+      "word": "朱熹写过流行歌曲还是自然科学家",
+      "onboard_time": 1745244624,
+      "rank": 13,
+      "category": "正能量"
     },
     {
       "raw_hot": 42547,
@@ -7625,6 +7777,14 @@
       "onboard_time": 1745191041,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 10565,
+      "num": 577723,
+      "word": "摔打别人宠物是否违法",
+      "onboard_time": 1745244863,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 9828,
