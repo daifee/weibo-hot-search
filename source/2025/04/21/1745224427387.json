@@ -1,0 +1,410 @@
+{
+  "runTime": 1745224427387,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2274027,
+        "num": 2274027,
+        "word": "教皇方济各去世",
+        "onboard_time": 1745223021,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1161058,
+        "num": 1161058,
+        "word": "张继科锐评现役球员登顶可能",
+        "onboard_time": 1745222122,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69327,
+        "num": 1012254,
+        "word": "广电总局加快布局超高清",
+        "onboard_time": 1745216842,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 896415,
+        "num": 896415,
+        "word": "无忧渡直播",
+        "onboard_time": 1745214502,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 799921,
+        "num": 799921,
+        "word": "家属回应老人免密支付买了550只鸡崽",
+        "onboard_time": 1745220441,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 441264,
+        "num": 441264,
+        "word": "会计靠偷再来1包奖券侵占180万货款",
+        "onboard_time": 1745219543,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 440357,
+        "num": 440357,
+        "word": "人民日报评男子地铁辱骂乘客衣服脏",
+        "onboard_time": 1745220082,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 411267,
+        "num": 411267,
+        "word": "甲亢哥后悔没来绍兴直播",
+        "onboard_time": 1745218341,
+        "rank": 7,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 271553,
+        "num": 388721,
+        "word": "黄金暴涨原因找到了",
+        "onboard_time": 1745223082,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 375522,
+        "num": 375522,
+        "word": "王者荣耀三丽鸥",
+        "onboard_time": 1745208263,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1598176,
+        "num": 372499,
+        "word": "网友说宋祖儿肿了",
+        "onboard_time": 1745222482,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1045628,
+        "num": 368921,
+        "word": "赵磊婚礼邀请函曝光",
+        "onboard_time": 1745222781,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69230,
+        "num": 366530,
+        "word": "雨果终于把名字刻在了乒乓球历史上",
+        "onboard_time": 1745223384,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 997880,
+        "num": 361325,
+        "word": "关晓彤没发",
+        "onboard_time": 1745165142,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14795,
+        "num": 358198,
+        "word": "植愈系变美思路",
+        "onboard_time": 1745222482,
+        "rank": 14,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 269030,
+        "num": 354238,
+        "word": "甲亢哥透露卤鹅哥几周后将来美国",
+        "onboard_time": 1745221042,
+        "rank": 15,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 25242,
+        "num": 352986,
+        "word": "叛逆女儿和固执父亲的漫长和解",
+        "onboard_time": 1745222842,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60026,
+        "num": 347403,
+        "word": "王楚钦的眼神要碎了",
+        "onboard_time": 1745223384,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48714,
+        "num": 344574,
+        "word": "怎么提高做饭水平",
+        "onboard_time": 1745223681,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 56977,
+        "num": 343343,
+        "word": "杭州珠宝市场商户称黄金越涨他们越亏",
+        "onboard_time": 1745224043,
+        "rank": 19,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 256443,
+        "num": 338865,
+        "word": "章若楠回应粉丝名叫楠朋友",
+        "onboard_time": 1745212283,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 770588,
+        "num": 335279,
+        "word": "出轨的爸病床的妈被排挤的他",
+        "onboard_time": 1745217260,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 657543,
+        "num": 329821,
+        "word": "鹿晗 关晓彤",
+        "onboard_time": 1745150424,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195412,
+        "num": 329122,
+        "word": "李昀锐直播哭了",
+        "onboard_time": 1745212761,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 395870,
+        "num": 323587,
+        "word": "九尾抵制私生",
+        "onboard_time": 1745221281,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 181318,
+        "num": 319904,
+        "word": "反诈老陈直播四天卖了100万",
+        "onboard_time": 1745215881,
+        "rank": 25,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 180690,
+        "num": 318077,
+        "word": "檀健次首谈饰演李淇遇到的挑战",
+        "onboard_time": 1745217682,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 159997,
+        "num": 311795,
+        "word": "极氪9X璀璨登场",
+        "onboard_time": 1745223802,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 57911,
+        "num": 309995,
+        "word": "被男友杀害女教师家属发声",
+        "onboard_time": 1745223562,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20294,
+        "num": 307214,
+        "word": "揭秘预售女装虚假发货真相",
+        "onboard_time": 1745222842,
+        "rank": 29,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 196341,
+        "num": 303466,
+        "word": "中方制裁涉港表现恶劣的美国官员",
+        "onboard_time": 1745222061,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 440308,
+        "num": 299762,
+        "word": "我55岁导师的浏览记录",
+        "onboard_time": 1745213722,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 297302,
+        "num": 297302,
+        "word": "难怪大学没人要微信",
+        "onboard_time": 1745209643,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 285995,
+        "num": 285995,
+        "word": "老人网购误下单收到550只小鸡崽",
+        "onboard_time": 1745219842,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258295,
+        "num": 258295,
+        "word": "模仿金秀贤的小姐姐",
+        "onboard_time": 1745223142,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248856,
+        "num": 248856,
+        "word": "宁德时代",
+        "onboard_time": 1745222781,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 237463,
+        "num": 237463,
+        "word": "张超确认林高远入选",
+        "onboard_time": 1745217380,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199241,
+        "num": 233861,
+        "word": "中国香港事务不容美方干涉",
+        "onboard_time": 1745224283,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 27210,
+        "num": 232661,
+        "word": "甲亢哥直播玩华为三折叠",
+        "onboard_time": 1745223562,
+        "rank": 38,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 188536,
+        "num": 232470,
+        "word": "身体巨健康的20个表现",
+        "onboard_time": 1745220141,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 232418,
+        "num": 232418,
+        "word": "情侣吵架男子撞碎酒店玻璃摔出窗外",
+        "onboard_time": 1745215942,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229452,
+        "num": 229452,
+        "word": "阴阳师",
+        "onboard_time": 1745223021,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 204023,
+        "num": 204023,
+        "word": "青海一男子让3岁孩子驾驶货车上路",
+        "onboard_time": 1745215522,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191086,
+        "num": 191086,
+        "word": "终于知道为什么好多婚纱胳肢窝破了",
+        "onboard_time": 1745224101,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 184705,
+        "num": 184705,
+        "word": "王者荣耀",
+        "onboard_time": 1745206461,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 178241,
+        "num": 178241,
+        "word": "中方回应普京宣布复活节临时停火",
+        "onboard_time": 1745222122,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 156159,
+        "num": 156159,
+        "word": "外交部谈美菲军演",
+        "onboard_time": 1745224283,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 154052,
+        "num": 154052,
+        "word": "赵丽颖带儿子想想买玩具",
+        "onboard_time": 1745215461,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150906,
+        "num": 150906,
+        "word": "2025华表奖官宣",
+        "onboard_time": 1745218281,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142938,
+        "num": 142938,
+        "word": "网红滕顺强夫妇被封号",
+        "onboard_time": 1745224403,
+        "rank": 49,
+        "category": "网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席东南亚之行纪实#"
+    }
+  }
+}

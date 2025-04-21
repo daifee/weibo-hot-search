@@ -1,6 +1,6 @@
 {
   "startTime": 1745166450412,
-  "endTime": 1745221088083,
+  "endTime": 1745224427387,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -35,6 +35,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2274027,
+      "num": 2274027,
+      "word": "教皇方济各去世",
+      "onboard_time": 1745223021,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1879015,
       "num": 1879015,
       "word": "哪吒3母亲复活",
@@ -57,6 +65,14 @@
       "onboard_time": 1745202561,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1598176,
+      "num": 372499,
+      "word": "网友说宋祖儿肿了",
+      "onboard_time": 1745222482,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 1460492,
@@ -115,12 +131,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1161058,
+      "num": 1161058,
+      "word": "张继科锐评现役球员登顶可能",
+      "onboard_time": 1745222122,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1101137,
       "num": 316516,
       "word": "我55岁导师的浏览记录",
       "onboard_time": 1745213722,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1045628,
+      "num": 368921,
+      "word": "赵磊婚礼邀请函曝光",
+      "onboard_time": 1745222781,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1039130,
@@ -209,6 +241,14 @@
       "onboard_time": 1745210125,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 799921,
+      "num": 799921,
+      "word": "家属回应老人免密支付买了550只鸡崽",
+      "onboard_time": 1745220441,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 777807,
@@ -395,6 +435,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 441264,
+      "num": 441264,
+      "word": "会计靠偷再来1包奖券侵占180万货款",
+      "onboard_time": 1745219543,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 440357,
+      "num": 440357,
+      "word": "人民日报评男子地铁辱骂乘客衣服脏",
+      "onboard_time": 1745220082,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 425086,
       "num": 425086,
       "word": "青海一男子让3岁孩子驾驶货车上路",
@@ -433,6 +489,14 @@
       "onboard_time": 1745131342,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 395870,
+      "num": 323587,
+      "word": "九尾抵制私生",
+      "onboard_time": 1745221281,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 385528,
@@ -611,8 +675,24 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 271553,
+      "num": 388721,
+      "word": "黄金暴涨原因找到了",
+      "onboard_time": 1745223082,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 269030,
+      "num": 354238,
+      "word": "甲亢哥透露卤鹅哥几周后将来美国",
+      "onboard_time": 1745221042,
+      "rank": 44,
+      "category": "网红,民生新闻"
+    },
+    {
       "raw_hot": 266182,
-      "num": 266182,
+      "num": 318077,
       "word": "檀健次首谈饰演李淇遇到的挑战",
       "onboard_time": 1745217682,
       "rank": 26,
@@ -651,12 +731,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 258295,
+      "num": 258295,
+      "word": "模仿金秀贤的小姐姐",
+      "onboard_time": 1745223142,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 255536,
       "num": 255536,
       "word": "宋祖儿剧宣活动",
       "onboard_time": 1745214863,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 248856,
+      "num": 248856,
+      "word": "宁德时代",
+      "onboard_time": 1745222781,
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 247065,
@@ -737,6 +833,14 @@
       "onboard_time": 1745219182,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 229452,
+      "num": 229452,
+      "word": "阴阳师",
+      "onboard_time": 1745223021,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 226358,
@@ -907,6 +1011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 199241,
+      "num": 233861,
+      "word": "中国香港事务不容美方干涉",
+      "onboard_time": 1745224283,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 198628,
       "num": 198628,
       "word": "骑士1比0热火",
@@ -937,6 +1049,14 @@
       "onboard_time": 1745213303,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 196341,
+      "num": 303466,
+      "word": "中方制裁涉港表现恶劣的美国官员",
+      "onboard_time": 1745222061,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 195761,
@@ -995,6 +1115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191086,
+      "num": 191086,
+      "word": "终于知道为什么好多婚纱胳肢窝破了",
+      "onboard_time": 1745224101,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 190151,
       "num": 241104,
       "word": "陶喆 听劝",
@@ -1017,6 +1145,14 @@
       "onboard_time": 1745212942,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 188536,
+      "num": 232470,
+      "word": "身体巨健康的20个表现",
+      "onboard_time": 1745220141,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 183496,
@@ -1056,6 +1192,14 @@
       "word": "美国一些婴幼儿产品3个月将售罄",
       "onboard_time": 1745197825,
       "rank": 35,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 178241,
+      "num": 178241,
+      "word": "中方回应普京宣布复活节临时停火",
+      "onboard_time": 1745222122,
+      "rank": 45,
       "category": "国际时政"
     },
     {
@@ -1105,14 +1249,6 @@
       "onboard_time": 1745215522,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 174164,
-      "num": 205317,
-      "word": "家属回应老人免密支付买了550只鸡崽",
-      "onboard_time": 1745220441,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 172354,
@@ -1243,6 +1379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159997,
+      "num": 311795,
+      "word": "极氪9X璀璨登场",
+      "onboard_time": 1745223802,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 158308,
       "num": 174084,
       "word": "李晟给自己报了老年大学",
@@ -1273,6 +1417,14 @@
       "onboard_time": 1745203222,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156159,
+      "num": 156159,
+      "word": "外交部谈美菲军演",
+      "onboard_time": 1745224283,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 155373,
@@ -1371,6 +1523,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 142938,
+      "num": 142938,
+      "word": "网红滕顺强夫妇被封号",
+      "onboard_time": 1745224403,
+      "rank": 49,
+      "category": "网红"
+    },
+    {
       "raw_hot": 141626,
       "num": 154841,
       "word": "柯洁说蒲熠星的歌陪他度过人生低谷",
@@ -1427,14 +1587,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 134135,
-      "num": 134135,
-      "word": "人民日报评男子地铁辱骂乘客衣服脏",
-      "onboard_time": 1745220082,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 134014,
       "num": 134014,
       "word": "美国敏感文件遭万人共享",
@@ -1449,14 +1601,6 @@
       "onboard_time": 1745213782,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 132154,
-      "num": 132154,
-      "word": "甲亢哥透露卤鹅哥几周后将来美国",
-      "onboard_time": 1745221042,
-      "rank": 44,
-      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 130930,
@@ -1497,14 +1641,6 @@
       "onboard_time": 1745166684,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 125491,
-      "num": 125491,
-      "word": "身体巨健康的20个表现",
-      "onboard_time": 1745220141,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 124422,
@@ -1835,6 +1971,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69327,
+      "num": 1012254,
+      "word": "广电总局加快布局超高清",
+      "onboard_time": 1745216842,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 69230,
+      "num": 366530,
+      "word": "雨果终于把名字刻在了乒乓球历史上",
+      "onboard_time": 1745223384,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 69041,
       "num": 69041,
       "word": "巴西总统祝贺雨果夺冠",
@@ -1867,14 +2019,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 64222,
-      "num": 427183,
-      "word": "广电总局加快布局超高清",
-      "onboard_time": 1745216842,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 64086,
       "num": 349876,
       "word": "男性HPV疫苗有九价和四价可选",
@@ -1899,12 +2043,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 60026,
+      "num": 347403,
+      "word": "王楚钦的眼神要碎了",
+      "onboard_time": 1745223384,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 57911,
+      "num": 309995,
+      "word": "被男友杀害女教师家属发声",
+      "onboard_time": 1745223562,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57023,
       "num": 298548,
       "word": "李昀锐飞花给粉丝回礼",
       "onboard_time": 1745217021,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 56977,
+      "num": 343343,
+      "word": "杭州珠宝市场商户称黄金越涨他们越亏",
+      "onboard_time": 1745224043,
+      "rank": 19,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 54004,
@@ -1961,6 +2129,14 @@
       "onboard_time": 1745206582,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 48714,
+      "num": 344574,
+      "word": "怎么提高做饭水平",
+      "onboard_time": 1745223681,
+      "rank": 18,
+      "category": "美食"
     },
     {
       "raw_hot": 48684,
@@ -2187,6 +2363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 27210,
+      "num": 232661,
+      "word": "甲亢哥直播玩华为三折叠",
+      "onboard_time": 1745223562,
+      "rank": 38,
+      "category": "网红,民生新闻"
+    },
+    {
       "raw_hot": 27127,
       "num": 27127,
       "word": "被张杰手杖舞钓成翘嘴",
@@ -2243,6 +2427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 25242,
+      "num": 352986,
+      "word": "叛逆女儿和固执父亲的漫长和解",
+      "onboard_time": 1745222842,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21570,
       "num": 168835,
       "word": "3100种抗氧化王者这7种多吃",
@@ -2257,6 +2449,14 @@
       "onboard_time": 1745206342,
       "rank": 49,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 20294,
+      "num": 307214,
+      "word": "揭秘预售女装虚假发货真相",
+      "onboard_time": 1745222842,
+      "rank": 29,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 20253,
@@ -2339,6 +2539,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 14795,
+      "num": 358198,
+      "word": "植愈系变美思路",
+      "onboard_time": 1745222482,
+      "rank": 14,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 14340,
       "num": 145607,
       "word": "大阪市长因米价暴涨向学生道歉",
@@ -2410,6 +2618,9 @@
     },
     {
       "word": "#习近平主席东南亚三国之行成果速览#"
+    },
+    {
+      "word": "#习主席东南亚之行纪实#"
     }
   ]
 }
