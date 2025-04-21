@@ -1,0 +1,410 @@
+{
+  "runTime": 1745235389992,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 815265,
+        "num": 1130442,
+        "word": "美元跌麻了",
+        "onboard_time": 1745225122,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 706782,
+        "num": 706782,
+        "word": "金饰克价已涨到1039元",
+        "onboard_time": 1745226741,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 41529,
+        "num": 674437,
+        "word": "广电总局加快布局超高清",
+        "onboard_time": 1745216842,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 663741,
+        "num": 663741,
+        "word": "舒肤佳 王楚钦",
+        "onboard_time": 1745227821,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 412977,
+        "num": 412977,
+        "word": "97岁老教师放弃百万富翁机会",
+        "onboard_time": 1745216362,
+        "rank": 4,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 320455,
+        "num": 320455,
+        "word": "折腰预约",
+        "onboard_time": 1745227702,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 314706,
+        "num": 314706,
+        "word": "人民日报评男子地铁辱骂乘客衣服脏",
+        "onboard_time": 1745220082,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287350,
+        "num": 287350,
+        "word": "杨紫李祯杀青捧花照",
+        "onboard_time": 1745231302,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 251186,
+        "num": 251186,
+        "word": "vivo发布会",
+        "onboard_time": 1745233461,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 206915,
+        "num": 206915,
+        "word": "我的古早cp成了强制爱的模样",
+        "onboard_time": 1745234421,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 3018738,
+        "num": 205391,
+        "word": "关晓彤 鹿晗",
+        "onboard_time": 1745230340,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 836112,
+        "num": 204757,
+        "word": "教皇方济各去世",
+        "onboard_time": 1745223021,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 824045,
+        "num": 202163,
+        "word": "房琪 对不起",
+        "onboard_time": 1745234301,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 602528,
+        "num": 200486,
+        "word": "网友说宋祖儿肿了",
+        "onboard_time": 1745222482,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52385,
+        "num": 197855,
+        "word": "教皇方济各的传奇人生",
+        "onboard_time": 1745234481,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 197618,
+        "num": 197618,
+        "word": "无忧渡直播",
+        "onboard_time": 1745214502,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39841,
+        "num": 197597,
+        "word": "职场中的人情世故具体指的是什么",
+        "onboard_time": 1745234542,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 21894,
+        "num": 197396,
+        "word": "新教皇是如何选出的",
+        "onboard_time": 1745234542,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17029,
+        "num": 197142,
+        "word": "高关税反噬美国国民福利",
+        "onboard_time": 1745233640,
+        "rank": 18,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 76785,
+        "num": 196966,
+        "word": "捐侵华照片法国小伙再回应质疑",
+        "onboard_time": 1745234661,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 203706,
+        "num": 196730,
+        "word": "林诗栋拿到50000美金奖金",
+        "onboard_time": 1745229141,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 573628,
+        "num": 196446,
+        "word": "关晓彤没发",
+        "onboard_time": 1745165142,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 433563,
+        "num": 196356,
+        "word": "赵磊婚礼邀请函曝光",
+        "onboard_time": 1745222781,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285513,
+        "num": 196186,
+        "word": "店员穿露背短裙不戴口罩做奶茶",
+        "onboard_time": 1745228542,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57070,
+        "num": 195894,
+        "word": "花海打工狗告一段落",
+        "onboard_time": 1745234542,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 139549,
+        "num": 195669,
+        "word": "无忧渡",
+        "onboard_time": 1745231662,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195591,
+        "num": 195591,
+        "word": "35岁程序员长期熬夜脑干出血",
+        "onboard_time": 1745226141,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87334,
+        "num": 185728,
+        "word": "钟楚曦live直出绝了",
+        "onboard_time": 1745233640,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100633,
+        "num": 179516,
+        "word": "万斯回应教皇方济各去世",
+        "onboard_time": 1745235142,
+        "rank": 28,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 178815,
+        "num": 178815,
+        "word": "竞技体育如何面对舆论压力",
+        "onboard_time": 1745235082,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43966,
+        "num": 178238,
+        "word": "恋爱前请出示以下证明",
+        "onboard_time": 1745231662,
+        "rank": 30,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 182257,
+        "num": 178231,
+        "word": "家属回应老人免密支付买了550只鸡崽",
+        "onboard_time": 1745220441,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178209,
+        "num": 178209,
+        "word": "大爷下单550只鸡退款被拒后连夜搭棚",
+        "onboard_time": 1745227102,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167647,
+        "num": 167647,
+        "word": "丁禹兮Mac预热",
+        "onboard_time": 1745234902,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145129,
+        "num": 145129,
+        "word": "管乐事业运",
+        "onboard_time": 1745234963,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163225,
+        "num": 143836,
+        "word": "赵露思公主粉裙",
+        "onboard_time": 1745226081,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 138339,
+        "num": 141991,
+        "word": "方文山说周杰伦今年会出新专辑",
+        "onboard_time": 1745230281,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 140821,
+        "num": 140821,
+        "word": "张继科锐评现役球员登顶可能",
+        "onboard_time": 1745222122,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30993,
+        "num": 139660,
+        "word": "不要思考同事为什么讨厌你",
+        "onboard_time": 1745235323,
+        "rank": 38,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 40068,
+        "num": 139540,
+        "word": "写给地球的绿色来信",
+        "onboard_time": 1745233281,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139507,
+        "num": 139507,
+        "word": "模仿金秀贤的小姐姐",
+        "onboard_time": 1745223142,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137890,
+        "num": 137890,
+        "word": "刘亦菲女特工造型",
+        "onboard_time": 1745228361,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135496,
+        "num": 135496,
+        "word": "宋祖儿对任嘉伦的初印象",
+        "onboard_time": 1745229321,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128252,
+        "num": 128252,
+        "word": "网红滕顺强夫妇被封号",
+        "onboard_time": 1745224403,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 123035,
+        "num": 123035,
+        "word": "女生晒手电照手图被提醒疑似血管瘤",
+        "onboard_time": 1745235262,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121160,
+        "num": 121160,
+        "word": "亚朵花洒",
+        "onboard_time": 1745235022,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72045,
+        "num": 120539,
+        "word": "广西财政厅下拨1750万元抗旱资金",
+        "onboard_time": 1745232861,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120144,
+        "num": 120144,
+        "word": "雨果称打王楚钦最困难",
+        "onboard_time": 1745229443,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116457,
+        "num": 116457,
+        "word": "射雕英雄传延长放映至5月31日",
+        "onboard_time": 1745233281,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 21132,
+        "num": 112675,
+        "word": "旅行结束时给自己写一封信",
+        "onboard_time": 1745234122,
+        "rank": 49,
+        "category": "情感,民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席东南亚三国之行成果速览#"
+    }
+  }
+}

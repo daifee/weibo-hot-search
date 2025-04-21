@@ -1,6 +1,6 @@
 {
   "startTime": 1745166450412,
-  "endTime": 1745234448036,
+  "endTime": 1745235389992,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -27,20 +27,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3018738,
+      "num": 293398,
+      "word": "关晓彤 鹿晗",
+      "onboard_time": 1745230340,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2663737,
       "num": 475762,
       "word": "中国乒乓球确实该反思了",
       "onboard_time": 1745163028,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 2640608,
-      "num": 293398,
-      "word": "关晓彤 鹿晗",
-      "onboard_time": 1745230340,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 2375467,
@@ -273,6 +273,14 @@
       "onboard_time": 1745210125,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 824045,
+      "num": 208567,
+      "word": "房琪 对不起",
+      "onboard_time": 1745234301,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 799921,
@@ -547,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 412977,
+      "num": 412977,
+      "word": "97岁老教师放弃百万富翁机会",
+      "onboard_time": 1745216362,
+      "rank": 35,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 412480,
       "num": 466353,
       "word": "王者荣耀",
@@ -657,14 +673,6 @@
       "onboard_time": 1745207362,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 343552,
-      "num": 343552,
-      "word": "97岁老教师放弃百万富翁机会",
-      "onboard_time": 1745216362,
-      "rank": 35,
-      "category": "正能量"
     },
     {
       "raw_hot": 343471,
@@ -907,6 +915,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 251186,
+      "num": 251186,
+      "word": "vivo发布会",
+      "onboard_time": 1745233461,
+      "rank": 9,
+      "category": "数码"
+    },
+    {
       "raw_hot": 247065,
       "num": 247065,
       "word": "孙颖莎雨果合照",
@@ -1009,14 +1025,6 @@
       "onboard_time": 1745223021,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 227732,
-      "num": 227732,
-      "word": "vivo发布会",
-      "onboard_time": 1745233461,
-      "rank": 9,
-      "category": "数码"
     },
     {
       "raw_hot": 226358,
@@ -1139,14 +1147,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 208567,
-      "num": 208567,
-      "word": "房琪 对不起",
-      "onboard_time": 1745234301,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 208343,
       "num": 270791,
       "word": "王子文陈瑾时隔两年三搭",
@@ -1161,6 +1161,14 @@
       "onboard_time": 1745140822,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206915,
+      "num": 206915,
+      "word": "我的古早cp成了强制爱的模样",
+      "onboard_time": 1745234421,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 204818,
@@ -1459,6 +1467,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 178815,
+      "num": 178815,
+      "word": "竞技体育如何面对舆论压力",
+      "onboard_time": 1745235082,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178241,
       "num": 178241,
       "word": "中方回应普京宣布复活节临时停火",
@@ -1585,6 +1601,14 @@
       "onboard_time": 1745201601,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 167647,
+      "num": 167647,
+      "word": "丁禹兮Mac预热",
+      "onboard_time": 1745234902,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 166904,
@@ -1851,6 +1875,14 @@
       "category": "健康医疗,民生新闻"
     },
     {
+      "raw_hot": 145129,
+      "num": 145129,
+      "word": "管乐事业运",
+      "onboard_time": 1745234963,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 144797,
       "num": 154972,
       "word": "孙颖莎vs蒯曼",
@@ -1971,14 +2003,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 130707,
-      "num": 130707,
-      "word": "我的古早cp成了强制爱的模样",
-      "onboard_time": 1745234421,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 129770,
       "num": 129770,
       "word": "雨果平均9秒解开1个魔方",
@@ -2035,6 +2059,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 123035,
+      "num": 123035,
+      "word": "女生晒手电照手图被提醒疑似血管瘤",
+      "onboard_time": 1745235262,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122933,
       "num": 154814,
       "word": "迪丽热巴金色纱裙",
@@ -2065,6 +2097,14 @@
       "onboard_time": 1745154627,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121160,
+      "num": 121160,
+      "word": "亚朵花洒",
+      "onboard_time": 1745235022,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120079,
@@ -2235,6 +2275,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 100633,
+      "num": 179516,
+      "word": "万斯回应教皇方济各去世",
+      "onboard_time": 1745235142,
+      "rank": 28,
+      "category": "国际时政,民生新闻"
+    },
+    {
       "raw_hot": 99342,
       "num": 154114,
       "word": "饺子在美国身价涨到一美元一个",
@@ -2305,6 +2353,14 @@
       "onboard_time": 1745232021,
       "rank": 39,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 87334,
+      "num": 208761,
+      "word": "钟楚曦live直出绝了",
+      "onboard_time": 1745233640,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 83766,
@@ -2387,6 +2443,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 76785,
+      "num": 196966,
+      "word": "捐侵华照片法国小伙再回应质疑",
+      "onboard_time": 1745234661,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 74856,
       "num": 189210,
       "word": "我问AI带1万元去上海玩一天够吗",
@@ -2400,6 +2464,14 @@
       "word": "住了十几年的房被开发商过户",
       "onboard_time": 1745212703,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72045,
+      "num": 214019,
+      "word": "广西财政厅下拨1750万元抗旱资金",
+      "onboard_time": 1745232861,
+      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -2483,14 +2555,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 64922,
-      "num": 208761,
-      "word": "钟楚曦live直出绝了",
-      "onboard_time": 1745233640,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 64586,
       "num": 214289,
       "word": "美国经济衰退风险上升",
@@ -2563,20 +2627,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57070,
+      "num": 195894,
+      "word": "花海打工狗告一段落",
+      "onboard_time": 1745234542,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 57023,
       "num": 298548,
       "word": "李昀锐飞花给粉丝回礼",
       "onboard_time": 1745217021,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 56666,
-      "num": 214019,
-      "word": "广西财政厅下拨1750万元抗旱资金",
-      "onboard_time": 1745232861,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 55381,
@@ -2633,6 +2697,14 @@
       "onboard_time": 1745205202,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52385,
+      "num": 197855,
+      "word": "教皇方济各的传奇人生",
+      "onboard_time": 1745234481,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 50905,
@@ -2763,6 +2835,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 43966,
+      "num": 213553,
+      "word": "恋爱前请出示以下证明",
+      "onboard_time": 1745231662,
+      "rank": 33,
+      "category": "情感,民生新闻"
+    },
+    {
       "raw_hot": 43831,
       "num": 215911,
       "word": "黄金会涨到多少钱",
@@ -2803,14 +2883,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 40942,
-      "num": 213553,
-      "word": "恋爱前请出示以下证明",
-      "onboard_time": 1745231662,
-      "rank": 33,
-      "category": "情感,民生新闻"
-    },
-    {
       "raw_hot": 40885,
       "num": 200768,
       "word": "一个水字居然有这么多叫法",
@@ -2841,6 +2913,14 @@
       "onboard_time": 1745220982,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 39841,
+      "num": 197597,
+      "word": "职场中的人情世故具体指的是什么",
+      "onboard_time": 1745234542,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 39699,
@@ -2921,6 +3001,14 @@
       "onboard_time": 1745217081,
       "rank": 26,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 30993,
+      "num": 139660,
+      "word": "不要思考同事为什么讨厌你",
+      "onboard_time": 1745235323,
+      "rank": 38,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 30397,
@@ -3083,12 +3171,28 @@
       "category": "健康医疗,民生新闻"
     },
     {
+      "raw_hot": 21894,
+      "num": 197396,
+      "word": "新教皇是如何选出的",
+      "onboard_time": 1745234542,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 21570,
       "num": 168835,
       "word": "3100种抗氧化王者这7种多吃",
       "onboard_time": 1745219182,
       "rank": 38,
       "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 21132,
+      "num": 126351,
+      "word": "旅行结束时给自己写一封信",
+      "onboard_time": 1745234122,
+      "rank": 49,
+      "category": "情感,民生新闻"
     },
     {
       "raw_hot": 21047,
@@ -3161,6 +3265,14 @@
       "onboard_time": 1745141421,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17029,
+      "num": 215607,
+      "word": "高关税反噬美国国民福利",
+      "onboard_time": 1745233640,
+      "rank": 19,
+      "category": "国际时政,财经"
     },
     {
       "raw_hot": 17001,
@@ -3259,14 +3371,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 13824,
-      "num": 215607,
-      "word": "高关税反噬美国国民福利",
-      "onboard_time": 1745233640,
-      "rank": 19,
-      "category": "国际时政,财经"
-    },
-    {
       "raw_hot": 13050,
       "num": 21866,
       "word": "孙颖莎回应比1手势",
@@ -3281,14 +3385,6 @@
       "onboard_time": 1745175374,
       "rank": 27,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 12756,
-      "num": 126351,
-      "word": "旅行结束时给自己写一封信",
-      "onboard_time": 1745234122,
-      "rank": 49,
-      "category": "情感,民生新闻"
     },
     {
       "raw_hot": 11354,
