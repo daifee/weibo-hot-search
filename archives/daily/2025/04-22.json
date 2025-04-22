@@ -1,6 +1,6 @@
 {
   "startTime": 1745253028487,
-  "endTime": 1745333027578,
+  "endTime": 1745335608513,
   "band_list": [
     {
       "raw_hot": 10072261,
@@ -121,6 +121,14 @@
       "onboard_time": 1745289740,
       "rank": 1,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1169084,
+      "num": 1169084,
+      "word": "洛阳文旅确认白马寺内为狄仁杰墓",
+      "onboard_time": 1745333062,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1130766,
@@ -305,6 +313,14 @@
       "onboard_time": 1745285481,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 700558,
+      "num": 700558,
+      "word": "被质疑长相听障女生称微调过几处",
+      "onboard_time": 1745332822,
+      "rank": 39,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 697672,
@@ -515,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 502162,
+      "num": 502162,
+      "word": "黄金",
+      "onboard_time": 1745330663,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 498309,
       "num": 498309,
       "word": "李昊直播",
@@ -545,6 +569,14 @@
       "onboard_time": 1745309782,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 475573,
+      "num": 266589,
+      "word": "微信加好友能加图片备注了",
+      "onboard_time": 1745334204,
+      "rank": 20,
+      "category": "互联网"
     },
     {
       "raw_hot": 474220,
@@ -859,14 +891,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 302051,
-      "num": 302051,
-      "word": "黄金",
-      "onboard_time": 1745330663,
-      "rank": 33,
-      "category": "财经"
-    },
-    {
       "raw_hot": 299962,
       "num": 373717,
       "word": "开始推理吧",
@@ -947,6 +971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 271307,
+      "num": 271307,
+      "word": "赵丽颖造城者剧组被曝欠薪数月",
+      "onboard_time": 1745332282,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 271048,
       "num": 377692,
       "word": "榜上佳婿 定档",
@@ -971,14 +1003,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 268152,
-      "num": 268152,
-      "word": "赵丽颖造城者剧组被曝欠薪数月",
-      "onboard_time": 1745332282,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 265463,
       "num": 243402,
       "word": "近视眼福音",
@@ -1001,6 +1025,14 @@
       "onboard_time": 1745325021,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 259061,
+      "num": 361763,
+      "word": "美18万亿消费神话是刷出来的",
+      "onboard_time": 1745332642,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 258056,
@@ -1179,12 +1211,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 228668,
+      "num": 453800,
+      "word": "被错切右膝体育生说运动生涯被断送",
+      "onboard_time": 1745332463,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 226206,
       "num": 211052,
       "word": "鸿星尔克 于适",
       "onboard_time": 1745298145,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 225539,
+      "num": 225539,
+      "word": "60斤和110斤交换饮食的一天",
+      "onboard_time": 1745333843,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 225101,
@@ -1201,6 +1249,14 @@
       "onboard_time": 1745291182,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 222169,
+      "num": 222169,
+      "word": "小黄豆晒合照",
+      "onboard_time": 1745334863,
+      "rank": 34,
+      "category": "网红"
     },
     {
       "raw_hot": 221400,
@@ -1467,6 +1523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 189049,
+      "num": 189049,
+      "word": "孙恩盛 快回家",
+      "onboard_time": 1745335402,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188865,
       "num": 188865,
       "word": "生命树开官博了",
@@ -1611,6 +1675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 178552,
+      "num": 178552,
+      "word": "樊振东曾说希望更圆满的永远是下一个比赛",
+      "onboard_time": 1745334204,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176909,
       "num": 176909,
       "word": "青岛真的太太太好拍了",
@@ -1716,7 +1788,7 @@
     },
     {
       "raw_hot": 170969,
-      "num": 182362,
+      "num": 192913,
       "word": "无忧渡",
       "onboard_time": 1745231662,
       "rank": 29,
@@ -1747,12 +1819,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 168353,
-      "num": 168353,
-      "word": "被质疑长相听障女生称微调过几处",
-      "onboard_time": 1745332822,
-      "rank": 39,
-      "category": "民生新闻,网红"
+      "raw_hot": 168238,
+      "num": 168238,
+      "word": "梁田破碎感",
+      "onboard_time": 1745334022,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 167636,
@@ -2363,6 +2435,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 134737,
+      "num": 329559,
+      "word": "坐火车托运猫咪18小时后等来空箱",
+      "onboard_time": 1745334204,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134583,
       "num": 134583,
       "word": "薛飞 男单",
@@ -2379,12 +2459,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 134062,
-      "num": 134062,
-      "word": "美18万亿消费神话是刷出来的",
-      "onboard_time": 1745332642,
-      "rank": 45,
-      "category": "国际时政"
+      "raw_hot": 133805,
+      "num": 133805,
+      "word": "文春爆料预告",
+      "onboard_time": 1745335342,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 133403,
@@ -2419,6 +2499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130965,
+      "num": 130965,
+      "word": "光与夜之恋 5v1",
+      "onboard_time": 1745333303,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 130754,
       "num": 130754,
       "word": "莱昂纳德39分",
@@ -2433,6 +2521,14 @@
       "onboard_time": 1745324541,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130218,
+      "num": 130218,
+      "word": "中国男乒陷新老交替阵痛期",
+      "onboard_time": 1745334502,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 130064,
@@ -2465,6 +2561,14 @@
       "onboard_time": 1745300602,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127159,
+      "num": 254619,
+      "word": "影之刃零制作人亮相腾讯发布会",
+      "onboard_time": 1745332942,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 126656,
@@ -2523,14 +2627,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 124423,
-      "num": 124423,
-      "word": "影之刃零制作人亮相腾讯发布会",
-      "onboard_time": 1745332942,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 124038,
       "num": 159940,
       "word": "网逃人员带70余万现金隐居山洞",
@@ -2577,6 +2673,14 @@
       "onboard_time": 1745295325,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119856,
+      "num": 119856,
+      "word": "借命而生",
+      "onboard_time": 1745335222,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 118481,
@@ -2825,6 +2929,14 @@
       "onboard_time": 1745279660,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 81009,
+      "num": 270864,
+      "word": "新疆老板一台GL8里程绕地球33圈",
+      "onboard_time": 1745333903,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 80971,
@@ -3267,6 +3379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52351,
+      "num": 229393,
+      "word": "2025KPL夏季赛决赛落地杭州",
+      "onboard_time": 1745334801,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 52281,
       "num": 202894,
       "word": "黄色衣服为什么更招小飞虫",
@@ -3291,6 +3411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50531,
+      "num": 307530,
+      "word": "被前男友泼汽油烧残女孩再回应质疑",
+      "onboard_time": 1745335043,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50371,
       "num": 243386,
       "word": "无手女孩希望推进无障碍卫生巾落地",
@@ -3305,14 +3433,6 @@
       "onboard_time": 1745329522,
       "rank": 10,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 48984,
-      "num": 453800,
-      "word": "被错切右膝体育生说运动生涯被断送",
-      "onboard_time": 1745332463,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 48743,
@@ -3497,6 +3617,14 @@
       "onboard_time": 1745291841,
       "rank": 29,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 32180,
+      "num": 321128,
+      "word": "广西蔗农在大旱中出走打工",
+      "onboard_time": 1745334382,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30939,
@@ -3835,6 +3963,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 13286,
+      "num": 268260,
+      "word": "动脉斑块的克星什么",
+      "onboard_time": 1745335281,
+      "rank": 19,
+      "category": "健康医疗,民生新闻"
+    },
+    {
       "raw_hot": 12391,
       "num": 148258,
       "word": "如何解决皮肤外油内干",
@@ -3932,7 +4068,7 @@
     },
     {
       "raw_hot": 1849,
-      "num": 883909,
+      "num": 1075410,
       "word": "探秘深圳机器人谷的黑科技",
       "onboard_time": 1745330242,
       "rank": 2,
