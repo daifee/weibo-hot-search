@@ -1,6 +1,6 @@
 {
   "startTime": 1745253028487,
-  "endTime": 1745314846620,
+  "endTime": 1745317612989,
   "band_list": [
     {
       "raw_hot": 10072261,
@@ -75,6 +75,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1318926,
+      "num": 1318926,
+      "word": "中国被曝能让全球无人机产业停摆1年",
+      "onboard_time": 1745309960,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1294146,
       "num": 205714,
       "word": "美团 京东",
@@ -145,6 +153,14 @@
       "onboard_time": 1745285061,
       "rank": 13,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 975598,
+      "num": 439361,
+      "word": "关税",
+      "onboard_time": 1745315181,
+      "rank": 10,
+      "category": "国际时政"
     },
     {
       "raw_hot": 932222,
@@ -275,6 +291,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 619650,
+      "num": 426770,
+      "word": "曝郑中基余思敏已决定离婚",
+      "onboard_time": 1745315901,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 589890,
       "num": 589890,
       "word": "不二之臣海报",
@@ -289,6 +313,14 @@
       "onboard_time": 1745298203,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 579721,
+      "num": 447891,
+      "word": "虞书欣丞磊 二搭",
+      "onboard_time": 1745314280,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 561809,
@@ -364,19 +396,11 @@
     },
     {
       "raw_hot": 483625,
-      "num": 325418,
+      "num": 330503,
       "word": "女儿给父亲转53万养老被丈夫起诉",
       "onboard_time": 1745309782,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 481048,
-      "num": 481048,
-      "word": "中国被曝能让全球无人机产业停摆1年",
-      "onboard_time": 1745309960,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 474220,
@@ -400,6 +424,14 @@
       "word": "人大物理系高材生做轻食月入千万",
       "onboard_time": 1745296704,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 455585,
+      "num": 455585,
+      "word": "男子讨喜钱掰断劳斯莱斯小金人",
+      "onboard_time": 1745312720,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -457,6 +489,14 @@
       "onboard_time": 1745290700,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 382074,
+      "num": 382074,
+      "word": "日方炒作中国社会治安形势不佳",
+      "onboard_time": 1745314462,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 378216,
@@ -579,20 +619,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 315051,
-      "num": 315051,
-      "word": "虞书欣丞磊 二搭",
-      "onboard_time": 1745314280,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 313067,
       "num": 313067,
       "word": "无忧渡陈奕恒镜头",
       "onboard_time": 1745247624,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 311082,
+      "num": 311082,
+      "word": "碧然德 孙颖莎",
+      "onboard_time": 1745314762,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 308076,
@@ -627,6 +667,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 278779,
+      "num": 278779,
+      "word": "刘强东请兄弟喝酒喜欢大杯举起来",
+      "onboard_time": 1745314221,
+      "rank": 23,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 278771,
+      "num": 278770,
+      "word": "万人请辞哈利波特魔法觉醒策划",
+      "onboard_time": 1745317342,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 278679,
       "num": 195811,
       "word": "湿气重有八大症状",
@@ -636,7 +692,7 @@
     },
     {
       "raw_hot": 272908,
-      "num": 272908,
+      "num": 282781,
       "word": "不二之臣 双强",
       "onboard_time": 1745312062,
       "rank": 26,
@@ -731,6 +787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 241104,
+      "num": 401137,
+      "word": "我杀猪养你啊",
+      "onboard_time": 1745315241,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 239759,
       "num": 239759,
       "word": "张根硕分享抗癌抗躁郁经历",
@@ -769,6 +833,14 @@
       "onboard_time": 1745295744,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 230799,
+      "num": 309592,
+      "word": "孙俪不接委屈自己的角色",
+      "onboard_time": 1745315901,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 230307,
@@ -819,12 +891,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 215077,
-      "num": 215077,
-      "word": "刘强东请兄弟喝酒喜欢大杯举起来",
-      "onboard_time": 1745314221,
-      "rank": 23,
-      "category": "互联网"
+      "raw_hot": 213995,
+      "num": 213995,
+      "word": "曝iPhone17Pro引入天空蓝配色",
+      "onboard_time": 1745314762,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 213189,
@@ -963,6 +1035,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 191877,
+      "num": 191877,
+      "word": "新娘回应婚礼不搞仪式直接开席",
+      "onboard_time": 1745315961,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 190594,
       "num": 202662,
       "word": "极氪9X",
@@ -1032,6 +1112,14 @@
       "word": "薇诺娜 张康乐",
       "onboard_time": 1745299642,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 186552,
+      "num": 186552,
+      "word": "赵丽颖我真没空陪你闹了",
+      "onboard_time": 1745317401,
+      "rank": 36,
       "category": "艺人"
     },
     {
@@ -1187,14 +1275,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 168119,
-      "num": 168119,
-      "word": "日方炒作中国社会治安形势不佳",
-      "onboard_time": 1745314462,
-      "rank": 34,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 167636,
       "num": 167636,
       "word": "榜上佳婿",
@@ -1259,6 +1339,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 161907,
+      "num": 161907,
+      "word": "明日方舟",
+      "onboard_time": 1745316081,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 161860,
       "num": 161860,
       "word": "周一下班还去健身房的人",
@@ -1281,14 +1369,6 @@
       "onboard_time": 1745313321,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 157895,
-      "num": 308307,
-      "word": "男子讨喜钱掰断劳斯莱斯小金人",
-      "onboard_time": 1745312720,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 157636,
@@ -1387,20 +1467,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 151127,
-      "num": 151127,
-      "word": "碧然德 孙颖莎",
-      "onboard_time": 1745314762,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 150697,
       "num": 150697,
       "word": "陈德容 日子怎么可能和谁过都一样",
       "onboard_time": 1745312421,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150000,
+      "num": 150000,
+      "word": "李煜东开通微博",
+      "onboard_time": 1745317222,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 149969,
@@ -1523,6 +1603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139207,
+      "num": 139207,
+      "word": "黄金疯涨年轻人贷款炒金",
+      "onboard_time": 1745316922,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 138998,
       "num": 225683,
       "word": "国乒参赛名单4人曾与樊振东组团",
@@ -1595,6 +1683,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 136708,
+      "num": 136708,
+      "word": "高盛称年底金价或涨到3700美元",
+      "onboard_time": 1745316140,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 136621,
       "num": 302863,
       "word": "被网红造谣性骚扰老板仍有三案子未宣判",
@@ -1641,14 +1737,6 @@
       "onboard_time": 1745314702,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 134347,
-      "num": 134347,
-      "word": "曝iPhone17Pro引入天空蓝配色",
-      "onboard_time": 1745314762,
-      "rank": 47,
-      "category": "数码"
     },
     {
       "raw_hot": 133398,
@@ -1729,6 +1817,14 @@
       "onboard_time": 1745313862,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 125237,
+      "num": 125237,
+      "word": "宋祖儿剧宣的世界发展成这样了吗",
+      "onboard_time": 1745317342,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 124038,
@@ -1843,6 +1939,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 104146,
+      "num": 396895,
+      "word": "男子半月两次欲强奸女邻居未遂判刑",
+      "onboard_time": 1745316681,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104139,
       "num": 104139,
       "word": "亚瑟布丁狗之誓爆料",
@@ -1889,6 +1993,14 @@
       "onboard_time": 1745245764,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 93344,
+      "num": 332913,
+      "word": "林俊杰晒照给父亲庆生",
+      "onboard_time": 1745315362,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 93254,
@@ -2195,12 +2307,28 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 61059,
+      "num": 440821,
+      "word": "央视起底假高富帅直播求打赏新骗局",
+      "onboard_time": 1745316622,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 60269,
       "num": 60269,
       "word": "孙恩盛直播",
       "onboard_time": 1745257818,
       "rank": 16,
       "category": "网红"
+    },
+    {
+      "raw_hot": 60068,
+      "num": 388087,
+      "word": "对话搬砖9年攒200万小伙",
+      "onboard_time": 1745316321,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 59668,
@@ -2363,6 +2491,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 48376,
+      "num": 417233,
+      "word": "女孩遭前男友烧伤致残案3大争议点",
+      "onboard_time": 1745316321,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46184,
       "num": 264855,
       "word": "谷爱凌说身体好多了",
@@ -2433,6 +2569,14 @@
       "onboard_time": 1745255537,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 37386,
+      "num": 301908,
+      "word": "HPV疫苗男女共防时代来临",
+      "onboard_time": 1745316441,
+      "rank": 27,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 37286,
@@ -2739,6 +2883,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 14781,
+      "num": 278771,
+      "word": "酒店保洁随身带假币调包住客现金",
+      "onboard_time": 1745317401,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14278,
       "num": 835586,
       "word": "何以中国走进福建",
@@ -2779,6 +2931,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 11054,
+      "num": 291449,
+      "word": "被烫伤后在现场该如何应急处理",
+      "onboard_time": 1745317342,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 10359,
       "num": 248841,
       "word": "中东土豪为何痴迷中国电动越野",
@@ -2793,6 +2953,14 @@
       "onboard_time": 1745311282,
       "rank": 18,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 8810,
+      "num": 171509,
+      "word": "如何改善眼下皮肤凸起",
+      "onboard_time": 1745317281,
+      "rank": 39,
+      "category": "美妆,民生新闻"
     }
   ],
   "hotgov_list": [

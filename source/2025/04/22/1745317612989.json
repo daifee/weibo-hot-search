@@ -1,0 +1,410 @@
+{
+  "runTime": 1745317612989,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1510586,
+        "num": 1510586,
+        "word": "聋哑女生因长相太完美被质疑",
+        "onboard_time": 1745298082,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1318926,
+        "num": 1318926,
+        "word": "中国被曝能让全球无人机产业停摆1年",
+        "onboard_time": 1745309960,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 9181,
+        "num": 759099,
+        "word": "超高清走入千家万户",
+        "onboard_time": 1745291480,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 756858,
+        "num": 756858,
+        "word": "李刚被逮捕",
+        "onboard_time": 1745290641,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 668212,
+        "num": 668212,
+        "word": "结婚1年半离婚35万彩礼账单判还6万",
+        "onboard_time": 1745299163,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 643963,
+        "num": 643963,
+        "word": "领衔主演孔雪儿",
+        "onboard_time": 1745310620,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 455585,
+        "num": 455585,
+        "word": "男子讨喜钱掰断劳斯莱斯小金人",
+        "onboard_time": 1745312720,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 461472,
+        "num": 453213,
+        "word": "张凌赫田曦薇没有杀青合影",
+        "onboard_time": 1745305161,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 579721,
+        "num": 447891,
+        "word": "虞书欣丞磊 二搭",
+        "onboard_time": 1745314280,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61059,
+        "num": 440821,
+        "word": "央视起底假高富帅直播求打赏新骗局",
+        "onboard_time": 1745316622,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 975598,
+        "num": 439361,
+        "word": "关税",
+        "onboard_time": 1745315181,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 732210,
+        "num": 432170,
+        "word": "京东外卖",
+        "onboard_time": 1745312362,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 619650,
+        "num": 426770,
+        "word": "曝郑中基余思敏已决定离婚",
+        "onboard_time": 1745315901,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316643,
+        "num": 419303,
+        "word": "哪吒2密钥第3次延期",
+        "onboard_time": 1745306902,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 48376,
+        "num": 417233,
+        "word": "女孩遭前男友烧伤致残案3大争议点",
+        "onboard_time": 1745316321,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 282820,
+        "num": 410349,
+        "word": "不二之臣海报",
+        "onboard_time": 1745309960,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 263446,
+        "num": 405167,
+        "word": "华表奖名单",
+        "onboard_time": 1745307861,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 241104,
+        "num": 401137,
+        "word": "我杀猪养你啊",
+        "onboard_time": 1745315241,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104146,
+        "num": 396895,
+        "word": "男子半月两次欲强奸女邻居未遂判刑",
+        "onboard_time": 1745316681,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60068,
+        "num": 388087,
+        "word": "对话搬砖9年攒200万小伙",
+        "onboard_time": 1745316321,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 563491,
+        "num": 384913,
+        "word": "京东外卖回应爆单",
+        "onboard_time": 1745308462,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 382074,
+        "num": 382074,
+        "word": "日方炒作中国社会治安形势不佳",
+        "onboard_time": 1745314462,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 336331,
+        "num": 336331,
+        "word": "爱奇艺改logo",
+        "onboard_time": 1745301802,
+        "rank": 22,
+        "category": "互联网,剧集"
+      },
+      {
+        "raw_hot": 93344,
+        "num": 332913,
+        "word": "林俊杰晒照给父亲庆生",
+        "onboard_time": 1745315362,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330503,
+        "num": 330503,
+        "word": "女儿给父亲转53万养老被丈夫起诉",
+        "onboard_time": 1745309782,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 311082,
+        "num": 311082,
+        "word": "碧然德 孙颖莎",
+        "onboard_time": 1745314762,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230799,
+        "num": 309592,
+        "word": "孙俪不接委屈自己的角色",
+        "onboard_time": 1745315901,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37386,
+        "num": 301908,
+        "word": "HPV疫苗男女共防时代来临",
+        "onboard_time": 1745316441,
+        "rank": 27,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 11054,
+        "num": 291449,
+        "word": "被烫伤后在现场该如何应急处理",
+        "onboard_time": 1745317342,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 193713,
+        "num": 282781,
+        "word": "不二之臣 双强",
+        "onboard_time": 1745312062,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278779,
+        "num": 278779,
+        "word": "刘强东请兄弟喝酒喜欢大杯举起来",
+        "onboard_time": 1745314221,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 14781,
+        "num": 278771,
+        "word": "酒店保洁随身带假币调包住客现金",
+        "onboard_time": 1745317401,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 278771,
+        "num": 278770,
+        "word": "万人请辞哈利波特魔法觉醒策划",
+        "onboard_time": 1745317342,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 213995,
+        "num": 213995,
+        "word": "曝iPhone17Pro引入天空蓝配色",
+        "onboard_time": 1745314762,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 191877,
+        "num": 191877,
+        "word": "新娘回应婚礼不搞仪式直接开席",
+        "onboard_time": 1745315961,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190237,
+        "num": 190237,
+        "word": "商家进口近11吨脏贝壳被罚50万",
+        "onboard_time": 1745311221,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186552,
+        "num": 186552,
+        "word": "赵丽颖我真没空陪你闹了",
+        "onboard_time": 1745317401,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186230,
+        "num": 186230,
+        "word": "吃不吃冰螺蛳粉",
+        "onboard_time": 1745304983,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 177145,
+        "num": 177145,
+        "word": "特朗普要求日本进口美国大米和牛肉",
+        "onboard_time": 1745293523,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 8810,
+        "num": 171509,
+        "word": "如何改善眼下皮肤凸起",
+        "onboard_time": 1745317281,
+        "rank": 39,
+        "category": "美妆,民生新闻"
+      },
+      {
+        "raw_hot": 166505,
+        "num": 166505,
+        "word": "京东外卖崩了",
+        "onboard_time": 1745298264,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 161907,
+        "num": 161907,
+        "word": "明日方舟",
+        "onboard_time": 1745316081,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 156110,
+        "num": 156110,
+        "word": "特朗普称美联储主席为大失败者",
+        "onboard_time": 1745313081,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 154462,
+        "num": 154462,
+        "word": "张杰开着大鸟巢打着小鸟球",
+        "onboard_time": 1745311941,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 150000,
+        "num": 150000,
+        "word": "李煜东开通微博",
+        "onboard_time": 1745317222,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139207,
+        "num": 139207,
+        "word": "黄金疯涨年轻人贷款炒金",
+        "onboard_time": 1745316922,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 136708,
+        "num": 136708,
+        "word": "高盛称年底金价或涨到3700美元",
+        "onboard_time": 1745316140,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 134533,
+        "num": 134533,
+        "word": "金饰克价已涨到1082元",
+        "onboard_time": 1745301443,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 129184,
+        "num": 129184,
+        "word": "朴彩英担任Coldplay演唱会嘉宾",
+        "onboard_time": 1745314343,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125237,
+        "num": 125237,
+        "word": "宋祖儿剧宣的世界发展成这样了吗",
+        "onboard_time": 1745317342,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#这些称呼体现中国同周边国家的浓浓情谊#"
+    }
+  }
+}
