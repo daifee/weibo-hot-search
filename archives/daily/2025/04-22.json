@@ -1,6 +1,6 @@
 {
   "startTime": 1745253028487,
-  "endTime": 1745297117426,
+  "endTime": 1745299509256,
   "band_list": [
     {
       "raw_hot": 10072261,
@@ -9,6 +9,14 @@
       "onboard_time": 1745290641,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 2388996,
+      "num": 273501,
+      "word": "京东外卖崩了",
+      "onboard_time": 1745298264,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 2063845,
@@ -147,6 +155,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 638428,
+      "num": 638428,
+      "word": "将门毒后短剧开机了",
+      "onboard_time": 1745296825,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 636310,
       "num": 636310,
       "word": "上海男子花18元中了1672万",
@@ -163,6 +179,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 588170,
+      "num": 341189,
+      "word": "同学回应聋哑女孩因长相太美被质疑",
+      "onboard_time": 1745298203,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 561809,
       "num": 732016,
       "word": "关晓彤五四晚会录制路透",
@@ -177,6 +201,22 @@
       "onboard_time": 1745252241,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 550275,
+      "num": 329734,
+      "word": "这居然是孟佳",
+      "onboard_time": 1745298503,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 546431,
+      "num": 546431,
+      "word": "迪丽热巴开推花仙子造型",
+      "onboard_time": 1745297784,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 524125,
@@ -208,6 +248,14 @@
       "word": "无手换卫生巾女孩被开黄腔",
       "onboard_time": 1745237421,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 466782,
+      "num": 466782,
+      "word": "人大物理系高材生做轻食月入千万",
+      "onboard_time": 1745296704,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -265,6 +313,14 @@
       "onboard_time": 1745290700,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 391986,
+      "num": 391986,
+      "word": "聋哑女生因长相太完美被质疑",
+      "onboard_time": 1745298082,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 378216,
@@ -339,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 319225,
+      "num": 319225,
+      "word": "金饰克价已涨到1061元",
+      "onboard_time": 1745297066,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 313067,
       "num": 313067,
       "word": "无忧渡陈奕恒镜头",
@@ -363,12 +427,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 295507,
-      "num": 295507,
-      "word": "将门毒后短剧开机了",
-      "onboard_time": 1745296825,
-      "rank": 20,
-      "category": "剧集"
+      "raw_hot": 295105,
+      "num": 295105,
+      "word": "李斯丹妮裸全背",
+      "onboard_time": 1745298264,
+      "rank": 23,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 284352,
+      "num": 284352,
+      "word": "赵子琪说肖战成功是必然的",
+      "onboard_time": 1745297965,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 278679,
@@ -451,12 +523,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 240475,
+      "num": 240475,
+      "word": "樊振东仍是世界杯最年轻男单冠军",
+      "onboard_time": 1745298803,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 239759,
       "num": 239759,
       "word": "张根硕分享抗癌抗躁郁经历",
       "onboard_time": 1745240243,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 238240,
+      "num": 377753,
+      "word": "没想到上班了还需要做阅读理解",
+      "onboard_time": 1745298264,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 237841,
@@ -473,6 +561,14 @@
       "onboard_time": 1745295744,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 226206,
+      "num": 211052,
+      "word": "鸿星尔克 于适",
+      "onboard_time": 1745298145,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 222478,
@@ -507,6 +603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 212028,
+      "num": 212028,
+      "word": "今年底新拍电视剧将超高清化了",
+      "onboard_time": 1745298203,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 211236,
       "num": 193705,
       "word": "国乒包揽女单世界前五",
@@ -528,6 +632,14 @@
       "word": "王曼昱博客天下封面",
       "onboard_time": 1745293462,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 201919,
+      "num": 201919,
+      "word": "快船1比1掘金",
+      "onboard_time": 1745298264,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -600,14 +712,6 @@
       "word": "猎德大桥",
       "onboard_time": 1745286680,
       "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 186500,
-      "num": 186500,
-      "word": "人大物理系高材生做轻食月入千万",
-      "onboard_time": 1745296704,
-      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -723,6 +827,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 165870,
+      "num": 165870,
+      "word": "原来器官也有洁癖",
+      "onboard_time": 1745299223,
+      "rank": 44,
+      "category": "科学科普,民生新闻"
+    },
+    {
       "raw_hot": 165126,
       "num": 165126,
       "word": "伦纳德压哨三分",
@@ -771,6 +883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154176,
+      "num": 154176,
+      "word": "于适谈影视文旅联动",
+      "onboard_time": 1745298203,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 153258,
       "num": 153258,
       "word": "亚朵花洒",
@@ -811,6 +931,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 145342,
+      "num": 145342,
+      "word": "去种树吧去种种不完的树",
+      "onboard_time": 1745297244,
+      "rank": 47,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 144092,
+      "num": 144092,
+      "word": "孙俪 跟姐混没有垫底王只有触底反弹",
+      "onboard_time": 1745299462,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143865,
       "num": 143865,
       "word": "梁庭cp小虐怡情赶紧追妻",
@@ -833,6 +969,14 @@
       "onboard_time": 1745295204,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142393,
+      "num": 142393,
+      "word": "卜冠今新剧被婆婆PUA",
+      "onboard_time": 1745297604,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 141963,
@@ -971,6 +1115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122600,
+      "num": 275911,
+      "word": "结婚1年半离婚35万彩礼账单判还6万",
+      "onboard_time": 1745299163,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122474,
       "num": 239500,
       "word": "王者荣耀世界开启预约",
@@ -1028,7 +1180,7 @@
     },
     {
       "raw_hot": 105839,
-      "num": 365785,
+      "num": 386519,
       "word": "极氪9X实车曝光",
       "onboard_time": 1745295264,
       "rank": 16,
@@ -1171,6 +1323,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 77220,
+      "num": 391515,
+      "word": "蚂蚁森林种下第6亿棵树",
+      "onboard_time": 1745298082,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75225,
       "num": 271717,
       "word": "王一博挑战纸巾上打高尔夫",
@@ -1185,6 +1345,14 @@
       "onboard_time": 1745294903,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 73854,
+      "num": 278788,
+      "word": "情侣接种HPV疫苗是保护彼此",
+      "onboard_time": 1745297244,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70082,
@@ -1355,11 +1523,27 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 52761,
+      "num": 288231,
+      "word": "坎宁安扛着活塞前进",
+      "onboard_time": 1745299101,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 52072,
       "num": 114619,
       "word": "湖南平江发生翻船事件6人溺亡",
       "onboard_time": 1745253140,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51719,
+      "num": 391693,
+      "word": "女孩被前男友烧残案二审未当庭宣判",
+      "onboard_time": 1745298683,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -1377,6 +1561,22 @@
       "onboard_time": 1745289019,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 43373,
+      "num": 366508,
+      "word": "柳州通报司机怼乘客不加价打不到车",
+      "onboard_time": 1745298145,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42602,
+      "num": 344005,
+      "word": "长期盐摄入过多有什么危害",
+      "onboard_time": 1745298444,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 41215,
@@ -1419,20 +1619,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 33773,
+      "num": 391722,
+      "word": "龚俊说明天上海车展见",
+      "onboard_time": 1745298444,
+      "rank": 12,
+      "category": "艺人,汽车"
+    },
+    {
       "raw_hot": 32215,
       "num": 202837,
       "word": "胡兵新西兰告白大片",
       "onboard_time": 1745291841,
       "rank": 29,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 31668,
-      "num": 165501,
-      "word": "金饰克价已涨到1061元",
-      "onboard_time": 1745297066,
-      "rank": 36,
-      "category": "财经"
     },
     {
       "raw_hot": 30939,
@@ -1593,6 +1793,14 @@
       "onboard_time": 1745260513,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 17445,
+      "num": 189325,
+      "word": "五一亲子出行酒店推荐",
+      "onboard_time": 1745298623,
+      "rank": 39,
+      "category": "旅游,民生新闻"
     },
     {
       "raw_hot": 16036,
