@@ -1,6 +1,6 @@
 {
   "startTime": 1745253028487,
-  "endTime": 1745327021535,
+  "endTime": 1745328849438,
   "band_list": [
     {
       "raw_hot": 10072261,
@@ -11,8 +11,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 3220087,
-      "num": 3220087,
+      "raw_hot": 3684387,
+      "num": 3684387,
       "word": "仅退款",
       "onboard_time": 1745321421,
       "rank": 32,
@@ -259,6 +259,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 774316,
+      "num": 774316,
+      "word": "无忧渡播出 陈奕恒都长大了",
+      "onboard_time": 1745324121,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 769745,
       "num": 769745,
       "word": "陈都灵肘击宋祖儿拳击",
@@ -275,20 +283,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 711442,
+      "num": 218181,
+      "word": "淘宝崩了",
+      "onboard_time": 1745323221,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 706397,
       "num": 706397,
       "word": "哪吒2破157亿了",
       "onboard_time": 1745285481,
       "rank": 3,
       "category": "电影"
-    },
-    {
-      "raw_hot": 697914,
-      "num": 182267,
-      "word": "淘宝崩了",
-      "onboard_time": 1745323221,
-      "rank": 31,
-      "category": "互联网"
     },
     {
       "raw_hot": 688275,
@@ -345,14 +353,6 @@
       "onboard_time": 1745315901,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 596891,
-      "num": 596891,
-      "word": "无忧渡播出 陈奕恒都长大了",
-      "onboard_time": 1745324121,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 589890,
@@ -456,6 +456,14 @@
       "word": "房琪 对不起",
       "onboard_time": 1745234301,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 494005,
+      "num": 494005,
+      "word": "李昊直播",
+      "onboard_time": 1745326401,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -699,6 +707,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 329814,
+      "num": 329814,
+      "word": "柳智敏金玟庭将公开合作内容",
+      "onboard_time": 1745326883,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 329385,
       "num": 329385,
       "word": "女童被罐车撞倒身亡目击者发声",
@@ -747,6 +763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 307999,
+      "num": 307999,
+      "word": "徐锦江因儿子离家拍戏嚎啕大哭",
+      "onboard_time": 1745328142,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 304067,
       "num": 304067,
       "word": "中国经济规模将达到美国的2倍",
@@ -769,6 +793,14 @@
       "onboard_time": 1745287761,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 299231,
+      "num": 299231,
+      "word": "林彦俊 见面会",
+      "onboard_time": 1745327721,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 291960,
@@ -859,6 +891,14 @@
       "category": "健康医疗,民生新闻"
     },
     {
+      "raw_hot": 265435,
+      "num": 307982,
+      "word": "华为乾崑ADS4来了",
+      "onboard_time": 1745327902,
+      "rank": 8,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 261141,
       "num": 261141,
       "word": "MAC 丁禹兮",
@@ -899,6 +939,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 245136,
+      "num": 217608,
+      "word": "金钟国做医美",
+      "onboard_time": 1745328681,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 243731,
+      "num": 243731,
+      "word": "乒乓球运动员联合会成立",
+      "onboard_time": 1745327902,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 242624,
       "num": 254456,
       "word": "迪丽热巴 开推3",
@@ -915,8 +971,16 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 241642,
+      "num": 241642,
+      "word": "中国男乒世界杯丢冠暴露三大问题",
+      "onboard_time": 1745325021,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 241200,
-      "num": 222408,
+      "num": 284553,
       "word": "美对柬埔寨太阳能产品征收3521%关税",
       "onboard_time": 1745324422,
       "rank": 18,
@@ -1043,6 +1107,30 @@
       "category": "情感"
     },
     {
+      "raw_hot": 219274,
+      "num": 299172,
+      "word": "5旬辅警30余年前被人顶替上中专",
+      "onboard_time": 1745325981,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 217124,
+      "num": 217124,
+      "word": "光与夜之恋联动奥运",
+      "onboard_time": 1745327242,
+      "rank": 33,
+      "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 216922,
+      "num": 218991,
+      "word": "金价暴涨预示市场正经历根本性转变",
+      "onboard_time": 1745326641,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 215955,
       "num": 215955,
       "word": "羊肉串在吃羊肉串",
@@ -1065,6 +1153,14 @@
       "onboard_time": 1745285001,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213014,
+      "num": 218661,
+      "word": "刘涛拜妈祖",
+      "onboard_time": 1745328383,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 212028,
@@ -1115,14 +1211,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 204536,
-      "num": 197728,
-      "word": "中国男乒世界杯丢冠暴露三大问题",
-      "onboard_time": 1745325021,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 203982,
       "num": 203982,
       "word": "原来姜母鸭里并没有母鸭",
@@ -1139,14 +1227,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 202622,
-      "num": 202622,
-      "word": "李昊直播",
-      "onboard_time": 1745326401,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 202608,
       "num": 202608,
       "word": "王曼昱博客天下封面",
@@ -1161,14 +1241,6 @@
       "onboard_time": 1745298264,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 201816,
-      "num": 201816,
-      "word": "柳智敏金玟庭将公开合作内容",
-      "onboard_time": 1745326883,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 200996,
@@ -1259,6 +1331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193493,
+      "num": 193493,
+      "word": "异人之下夏禾首曝",
+      "onboard_time": 1745328802,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 193343,
       "num": 262507,
       "word": "生命树1",
@@ -1273,6 +1353,14 @@
       "onboard_time": 1745306662,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 192411,
+      "num": 247373,
+      "word": "杨怡是邓为追星狂粉",
+      "onboard_time": 1745327782,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 190594,
@@ -1396,7 +1484,7 @@
     },
     {
       "raw_hot": 182589,
-      "num": 182589,
+      "num": 305249,
       "word": "林毅夫说美国有问题老找替罪羊",
       "onboard_time": 1745326763,
       "rank": 26,
@@ -1531,6 +1619,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 169774,
+      "num": 169774,
+      "word": "华表奖",
+      "onboard_time": 1745328383,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 169205,
       "num": 158886,
       "word": "约基奇 假摔",
@@ -1601,6 +1697,14 @@
       "onboard_time": 1745283682,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 164159,
+      "num": 164159,
+      "word": "男女演员已播剧有效播放量排名",
+      "onboard_time": 1745324722,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 163760,
@@ -1835,12 +1939,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 146704,
-      "num": 146704,
-      "word": "男女演员已播剧有效播放量排名",
-      "onboard_time": 1745324722,
-      "rank": 36,
-      "category": "剧集"
+      "raw_hot": 146952,
+      "num": 157103,
+      "word": "王鹤棣和新浪娱乐互勉约拍",
+      "onboard_time": 1745328743,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 146327,
@@ -2179,14 +2283,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 128395,
-      "num": 299172,
-      "word": "5旬辅警30余年前被人顶替上中专",
-      "onboard_time": 1745325981,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 127918,
       "num": 127918,
       "word": "黄子佼再被查出持有非法影片",
@@ -2209,6 +2305,14 @@
       "onboard_time": 1745300363,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 126335,
+      "num": 126335,
+      "word": "比亚迪2024年度拟10送8转12派39.74元",
+      "onboard_time": 1745328802,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 125789,
@@ -2337,6 +2441,14 @@
       "onboard_time": 1745322622,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 111247,
+      "num": 249399,
+      "word": "高校回应聋哑女生因长相完美被质疑",
+      "onboard_time": 1745327001,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110916,
@@ -2579,12 +2691,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 74706,
+      "num": 270618,
+      "word": "当军工基因改变智能越野",
+      "onboard_time": 1745327121,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 74686,
       "num": 331208,
       "word": "中国非核氢弹有哪些优势和前景",
       "onboard_time": 1745303183,
       "rank": 18,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 74610,
+      "num": 182162,
+      "word": "林心如再谈黄子佼案",
+      "onboard_time": 1745326883,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 74485,
@@ -2787,14 +2915,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 59240,
-      "num": 157101,
-      "word": "高校回应聋哑女生因长相完美被质疑",
-      "onboard_time": 1745327001,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 59173,
       "num": 342828,
       "word": "为移民卖掉房产后项目烂尾只能租房住",
@@ -2979,6 +3099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 45448,
+      "num": 264078,
+      "word": "律师称用贷款资金买黄金构成违约",
+      "onboard_time": 1745327121,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44504,
       "num": 328376,
       "word": "技术宅自制危险器械触犯法律红线",
@@ -3057,14 +3185,6 @@
       "onboard_time": 1745255537,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 37586,
-      "num": 182162,
-      "word": "林心如再谈黄子佼案",
-      "onboard_time": 1745326883,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 37286,
@@ -3273,6 +3393,14 @@
       "onboard_time": 1745305520,
       "rank": 18,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 20832,
+      "num": 170375,
+      "word": "你支持HPV疫苗接种点进大学吗",
+      "onboard_time": 1745327182,
+      "rank": 36,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 20820,
@@ -3489,6 +3617,14 @@
       "onboard_time": 1745317281,
       "rank": 39,
       "category": "美妆,民生新闻"
+    },
+    {
+      "raw_hot": 7124,
+      "num": 258593,
+      "word": "华表奖的含金量如何",
+      "onboard_time": 1745328082,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 3531,

@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1745327021535,
+  "endTime": 1745328849438,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1491,6 +1491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3684387,
+      "num": 3684387,
+      "word": "仅退款",
+      "onboard_time": 1745321421,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 3677184,
       "num": 3677184,
       "word": "国考成绩",
@@ -1969,14 +1977,6 @@
       "onboard_time": 1738650322,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3220087,
-      "num": 3220087,
-      "word": "仅退款",
-      "onboard_time": 1745321421,
-      "rank": 32,
-      "category": "互联网"
     },
     {
       "raw_hot": 3219780,
