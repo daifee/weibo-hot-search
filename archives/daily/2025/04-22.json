@@ -1,6 +1,6 @@
 {
   "startTime": 1745253028487,
-  "endTime": 1745310761900,
+  "endTime": 1745311584324,
   "band_list": [
     {
       "raw_hot": 10072261,
@@ -75,6 +75,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1255498,
+      "num": 449163,
+      "word": "京东外卖回应爆单",
+      "onboard_time": 1745308462,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1229099,
       "num": 1229099,
       "word": "金价",
@@ -89,14 +97,6 @@
       "onboard_time": 1745298503,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1051510,
-      "num": 410900,
-      "word": "京东外卖回应爆单",
-      "onboard_time": 1745308462,
-      "rank": 10,
-      "category": "互联网"
     },
     {
       "raw_hot": 1021751,
@@ -219,6 +219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 680825,
+      "num": 443849,
+      "word": "领衔主演孔雪儿",
+      "onboard_time": 1745310620,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 653484,
       "num": 653484,
       "word": "教育部增设29种本科新专业",
@@ -307,6 +315,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 511692,
+      "num": 511692,
+      "word": "不二之臣海报",
+      "onboard_time": 1745309960,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 510591,
       "num": 245230,
       "word": "房琪 对不起",
@@ -336,6 +352,14 @@
       "word": "北京地铁挺身而出的女孩父母发声",
       "onboard_time": 1745303123,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 471300,
+      "num": 281089,
+      "word": "女儿给父亲转53万养老被丈夫起诉",
+      "onboard_time": 1745309782,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -443,14 +467,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 357969,
-      "num": 357969,
-      "word": "不二之臣海报",
-      "onboard_time": 1745309960,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 355823,
       "num": 355823,
       "word": "央视曝光购物卡成洗钱工具",
@@ -507,14 +523,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 332074,
-      "num": 233415,
-      "word": "女儿给父亲转53万养老被丈夫起诉",
-      "onboard_time": 1745309782,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 329385,
       "num": 329385,
       "word": "女童被罐车撞倒身亡目击者发声",
@@ -544,14 +552,6 @@
       "word": "无忧渡陈奕恒镜头",
       "onboard_time": 1745247624,
       "rank": 7,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 309950,
-      "num": 309950,
-      "word": "领衔主演孔雪儿",
-      "onboard_time": 1745310620,
-      "rank": 15,
       "category": "剧集"
     },
     {
@@ -595,6 +595,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 271048,
+      "num": 377692,
+      "word": "榜上佳婿 定档",
+      "onboard_time": 1745310201,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 268876,
       "num": 276665,
       "word": "孟子义李昀锐奔跑吧怼脸拍",
@@ -633,6 +641,14 @@
       "onboard_time": 1745249961,
       "rank": 9,
       "category": "军事"
+    },
+    {
+      "raw_hot": 247330,
+      "num": 247330,
+      "word": "中国被曝能让全球无人机产业停摆1年",
+      "onboard_time": 1745309960,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 246156,
@@ -692,7 +708,7 @@
     },
     {
       "raw_hot": 235697,
-      "num": 235697,
+      "num": 366275,
       "word": "电车界的时髦精CLA",
       "onboard_time": 1745309481,
       "rank": 16,
@@ -729,14 +745,6 @@
       "onboard_time": 1745291182,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 222035,
-      "num": 222035,
-      "word": "榜上佳婿 定档",
-      "onboard_time": 1745310201,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 221400,
@@ -780,7 +788,7 @@
     },
     {
       "raw_hot": 210493,
-      "num": 210493,
+      "num": 268600,
       "word": "瑶大耳狗之梦皮肤",
       "onboard_time": 1745305161,
       "rank": 24,
@@ -860,7 +868,7 @@
     },
     {
       "raw_hot": 193343,
-      "num": 193343,
+      "num": 262507,
       "word": "生命树1",
       "onboard_time": 1745308221,
       "rank": 33,
@@ -1051,8 +1059,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172656,
+      "num": 172656,
+      "word": "小米YU7确认不参加苏州车展",
+      "onboard_time": 1745308641,
+      "rank": 40,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 172265,
-      "num": 234107,
+      "num": 338472,
       "word": "Turbo4Pro电量超大杯",
       "onboard_time": 1745309600,
       "rank": 20,
@@ -1065,14 +1081,6 @@
       "onboard_time": 1745288839,
       "rank": 35,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 171701,
-      "num": 171701,
-      "word": "中国被曝能让全球无人机产业停摆1年",
-      "onboard_time": 1745309960,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 171004,
@@ -1153,14 +1161,6 @@
       "onboard_time": 1745307681,
       "rank": 38,
       "category": "网红"
-    },
-    {
-      "raw_hot": 162658,
-      "num": 162658,
-      "word": "小米YU7确认不参加苏州车展",
-      "onboard_time": 1745308641,
-      "rank": 40,
-      "category": "汽车"
     },
     {
       "raw_hot": 161860,
@@ -1257,6 +1257,14 @@
       "onboard_time": 1745287700,
       "rank": 32,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 151697,
+      "num": 151697,
+      "word": "无忧渡怎么还有小孩桌",
+      "onboard_time": 1745310562,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 149969,
@@ -1547,14 +1555,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 124780,
-      "num": 124780,
-      "word": "无忧渡怎么还有小孩桌",
-      "onboard_time": 1745310562,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 124038,
       "num": 159940,
       "word": "网逃人员带70余万现金隐居山洞",
@@ -1625,6 +1625,14 @@
       "onboard_time": 1745305222,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 112332,
+      "num": 370416,
+      "word": "商家进口近11吨脏贝壳被罚50万",
+      "onboard_time": 1745311221,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110916,
@@ -1875,6 +1883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 73621,
+      "num": 256363,
+      "word": "周继红连任中国跳水协会主席",
+      "onboard_time": 1745310920,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 71884,
       "num": 357770,
       "word": "男子爱看小说想省钱偷走11本书",
@@ -1979,6 +1995,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 61693,
+      "num": 289168,
+      "word": "郑敬淏说崔秀英是演戏之外生活的重心",
+      "onboard_time": 1745306120,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 61434,
       "num": 61434,
       "word": "林依轮自称孙颖莎的野生粉头儿",
@@ -1995,12 +2019,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 59668,
+      "num": 235008,
+      "word": "幼儿入园干体力活或成鸡娃新方向",
+      "onboard_time": 1745309600,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59173,
       "num": 342828,
       "word": "为移民卖掉房产后项目烂尾只能租房住",
       "onboard_time": 1745295024,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59170,
+      "num": 167747,
+      "word": "抗炎食物清单",
+      "onboard_time": 1745311221,
+      "rank": 38,
+      "category": "科学科普,民生新闻"
     },
     {
       "raw_hot": 58550,
@@ -2075,20 +2115,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 52361,
+      "num": 340831,
+      "word": "房东收数千元学位授权签字费",
+      "onboard_time": 1745310620,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52072,
       "num": 114619,
       "word": "湖南平江发生翻船事件6人溺亡",
       "onboard_time": 1745253140,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 50755,
-      "num": 235470,
-      "word": "郑敬淏说崔秀英是演戏之外生活的重心",
-      "onboard_time": 1745306120,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 48743,
@@ -2113,14 +2153,6 @@
       "onboard_time": 1745289019,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 45616,
-      "num": 235008,
-      "word": "幼儿入园干体力活或成鸡娃新方向",
-      "onboard_time": 1745309600,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 44504,
@@ -2187,6 +2219,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 37286,
+      "num": 167128,
+      "word": "放松全身其实很简单",
+      "onboard_time": 1745311041,
+      "rank": 39,
+      "category": "运动健身,民生新闻"
+    },
+    {
       "raw_hot": 36635,
       "num": 136007,
       "word": "为何学校食堂都喜欢做土豆",
@@ -2203,20 +2243,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 34554,
+      "num": 357232,
+      "word": "泼汽油前男友庭上称没有故意杀人",
+      "onboard_time": 1745311221,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33923,
       "num": 135864,
       "word": "一字夹打造头包脸发型",
       "onboard_time": 1745303721,
       "rank": 38,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 32719,
-      "num": 216828,
-      "word": "房东收数千元学位授权签字费",
-      "onboard_time": 1745310620,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 32215,
@@ -2504,6 +2544,22 @@
       "word": "一代人有一代人的动物世界",
       "onboard_time": 1745253380,
       "rank": 39,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 10359,
+      "num": 248841,
+      "word": "中东土豪为何痴迷中国电动越野",
+      "onboard_time": 1745311401,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 9595,
+      "num": 350133,
+      "word": "首个孤独流浪黑洞是如何被发现的",
+      "onboard_time": 1745311282,
+      "rank": 18,
       "category": "科学科普"
     }
   ],
