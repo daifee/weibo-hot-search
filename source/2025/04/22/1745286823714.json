@@ -1,0 +1,410 @@
+{
+  "runTime": 1745286823714,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 757952,
+        "num": 1121272,
+        "word": "她一生未婚但接生了5万多孩子",
+        "onboard_time": 1745279361,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 636310,
+        "num": 636310,
+        "word": "上海男子花18元中了1672万",
+        "onboard_time": 1745280200,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141016,
+        "num": 531192,
+        "word": "官方通报67款应用违法收集个人信息",
+        "onboard_time": 1745282062,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 503760,
+        "num": 503760,
+        "word": "哪吒2破157亿了",
+        "onboard_time": 1745285481,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 420125,
+        "num": 462003,
+        "word": "收到差评最多的外卖员",
+        "onboard_time": 1745252241,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 986502,
+        "num": 461065,
+        "word": "宋祖儿回应大小眼",
+        "onboard_time": 1745281402,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 459961,
+        "num": 459961,
+        "word": "吴柳芳首次披露直播跳舞原因",
+        "onboard_time": 1745284041,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 433092,
+        "num": 433092,
+        "word": "网红一之濑飞鸟自曝搬到南昌生活",
+        "onboard_time": 1745280503,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 281180,
+        "num": 281180,
+        "word": "失去美国订单后海外订单量竟然多了",
+        "onboard_time": 1745238442,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 254756,
+        "num": 254756,
+        "word": "多吃抗炎食物可以抵消久坐的危害",
+        "onboard_time": 1745284823,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1099528,
+        "num": 253626,
+        "word": "关晓彤 鹿晗",
+        "onboard_time": 1745230340,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 521983,
+        "num": 248576,
+        "word": "7楼8楼闹矛盾9楼住户躺枪被震楼3年",
+        "onboard_time": 1745248584,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 446073,
+        "num": 243188,
+        "word": "女孩被前男友泼汽油烧残案二审开庭",
+        "onboard_time": 1745283622,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 332753,
+        "num": 240652,
+        "word": "被刘强东请吃火锅外卖骑手发声",
+        "onboard_time": 1745285061,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 281091,
+        "num": 235276,
+        "word": "马伯骞给弟弟婚礼当伴郎",
+        "onboard_time": 1745240423,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232015,
+        "num": 232015,
+        "word": "央视曝光购物卡成洗钱工具",
+        "onboard_time": 1745244444,
+        "rank": 15,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 213189,
+        "num": 213189,
+        "word": "你期待的地球是什么模样",
+        "onboard_time": 1745285001,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212631,
+        "num": 212631,
+        "word": "马龙樊振东陈梦选择不参加多哈世乒赛",
+        "onboard_time": 1745243904,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185544,
+        "num": 209437,
+        "word": "迪丽热巴 开推3",
+        "onboard_time": 1745283202,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25644,
+        "num": 208126,
+        "word": "过度依赖辅助驾驶有何风险",
+        "onboard_time": 1745286140,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1183291,
+        "num": 205714,
+        "word": "美团 京东",
+        "onboard_time": 1745285181,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 136312,
+        "num": 199119,
+        "word": "特朗普继续施压美联储",
+        "onboard_time": 1745283500,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 292132,
+        "num": 196492,
+        "word": "无手换卫生巾女孩被开黄腔",
+        "onboard_time": 1745237421,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 278679,
+        "num": 195292,
+        "word": "湿气重有八大症状",
+        "onboard_time": 1745283500,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 219686,
+        "num": 189567,
+        "word": "冷战后妻子偷偷挂了医生老公的号",
+        "onboard_time": 1745279600,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188462,
+        "num": 188462,
+        "word": "体重降不下来的10个原因",
+        "onboard_time": 1745280200,
+        "rank": 25,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 187455,
+        "num": 187455,
+        "word": "女子3个月狂减27斤引发急性炎症",
+        "onboard_time": 1745280801,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156754,
+        "num": 182240,
+        "word": "宋祖儿归来还是这么坦诚的女子",
+        "onboard_time": 1745282963,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135318,
+        "num": 179734,
+        "word": "朴宝剑为失误工作人员解围",
+        "onboard_time": 1745247745,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132639,
+        "num": 179438,
+        "word": "曝折腰没拿到签字",
+        "onboard_time": 1745254458,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179404,
+        "num": 179404,
+        "word": "女童被罐车撞倒身亡目击者发声",
+        "onboard_time": 1745248283,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168636,
+        "num": 168636,
+        "word": "李现发呆照",
+        "onboard_time": 1745285781,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164524,
+        "num": 164524,
+        "word": "快递员父子饭桌上给刘强东送工服",
+        "onboard_time": 1745283682,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144994,
+        "num": 144994,
+        "word": "近视眼福音",
+        "onboard_time": 1745253259,
+        "rank": 33,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 120994,
+        "num": 120994,
+        "word": "关晓彤五四晚会录制路透",
+        "onboard_time": 1745246603,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110533,
+        "num": 110533,
+        "word": "遭前男友烧残女子和母亲抱头痛哭",
+        "onboard_time": 1745278581,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103316,
+        "num": 103316,
+        "word": "刘耀文再现45度标准站姿",
+        "onboard_time": 1745284280,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100657,
+        "num": 100657,
+        "word": "万花世界迪丽热巴",
+        "onboard_time": 1745243964,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96993,
+        "num": 96993,
+        "word": "江苏一男子脚绑哑铃潜水溺亡",
+        "onboard_time": 1745243603,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28772,
+        "num": 95815,
+        "word": "中国反制或让美军无人机计划延期",
+        "onboard_time": 1745264053,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 95398,
+        "num": 95398,
+        "word": "哈佛大学起诉特朗普政府",
+        "onboard_time": 1745278099,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 88390,
+        "num": 88390,
+        "word": "地铁被辱骂衣服脏乘客家属发声",
+        "onboard_time": 1745241743,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87541,
+        "num": 87541,
+        "word": "无忧渡 曹骏",
+        "onboard_time": 1745240782,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84900,
+        "num": 84900,
+        "word": "刘宇宁以为吉克隽逸是真公主",
+        "onboard_time": 1745251522,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84661,
+        "num": 84661,
+        "word": "7.8元京东外卖迟到免单骑手还赚8元",
+        "onboard_time": 1745242463,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 82815,
+        "num": 82815,
+        "word": "2025劳伦斯体育奖获奖名单",
+        "onboard_time": 1745279660,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82789,
+        "num": 82789,
+        "word": "猎德大桥",
+        "onboard_time": 1745286680,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82633,
+        "num": 82633,
+        "word": "房琪 对不起",
+        "onboard_time": 1745234301,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82431,
+        "num": 82431,
+        "word": "美国股市大幅下跌",
+        "onboard_time": 1745277138,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 76588,
+        "num": 76588,
+        "word": "孙颖莎王楚钦参加多哈世乒赛混双",
+        "onboard_time": 1745278520,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记领略中华文明#"
+    }
+  }
+}
