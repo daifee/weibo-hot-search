@@ -1,6 +1,6 @@
 {
   "startTime": 1745339463299,
-  "endTime": 1745347645502,
+  "endTime": 1745349666601,
   "band_list": [
     {
       "raw_hot": 1506699,
@@ -427,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 44029,
+      "num": 54414,
+      "word": "哪吒2票房",
+      "onboard_time": 1745344095,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 43462,
       "num": 77815,
       "word": "金饰日内每克涨20元从业者称没见过",
@@ -475,14 +483,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 29244,
-      "num": 33645,
-      "word": "哪吒2票房",
-      "onboard_time": 1745344095,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
       "raw_hot": 28758,
       "num": 71704,
       "word": "翁东华卸任文和友小龙虾公司董事",
@@ -521,6 +521,38 @@
       "onboard_time": 1745347095,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 17816,
+      "num": 17816,
+      "word": "借命而生",
+      "onboard_time": 1745335222,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 15353,
+      "num": 15353,
+      "word": "半夜看文的我",
+      "onboard_time": 1745349134,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 15177,
+      "num": 15177,
+      "word": "痴人说梦",
+      "onboard_time": 1745348654,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 14500,
+      "num": 15177,
+      "word": "美国希望与俄乌本周达成协议",
+      "onboard_time": 1745347634,
+      "rank": 47,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [

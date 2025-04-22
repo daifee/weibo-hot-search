@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745347645502,
+  "endTime": 1745349666601,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -10203,6 +10203,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 44029,
+      "num": 54414,
+      "word": "哪吒2票房",
+      "onboard_time": 1745344095,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 43966,
       "num": 213553,
       "word": "恋爱前请出示以下证明",
@@ -10857,14 +10865,6 @@
       "onboard_time": 1745340798,
       "rank": 31,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 29244,
-      "num": 33645,
-      "word": "哪吒2票房",
-      "onboard_time": 1745344095,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 29039,
@@ -11707,6 +11707,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 15353,
+      "num": 15353,
+      "word": "半夜看文的我",
+      "onboard_time": 1745349134,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 15177,
+      "num": 15177,
+      "word": "痴人说梦",
+      "onboard_time": 1745348654,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 14818,
       "num": 952253,
       "word": "春茶正当时",
@@ -11729,6 +11745,14 @@
       "onboard_time": 1745224881,
       "rank": 38,
       "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 14500,
+      "num": 15177,
+      "word": "美国希望与俄乌本周达成协议",
+      "onboard_time": 1745347634,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 14364,
