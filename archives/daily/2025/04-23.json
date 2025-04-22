@@ -1,6 +1,6 @@
 {
   "startTime": 1745339463299,
-  "endTime": 1745343628579,
+  "endTime": 1745346842923,
   "band_list": [
     {
       "raw_hot": 1506699,
@@ -81,6 +81,14 @@
       "onboard_time": 1745335703,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 241165,
+      "num": 241165,
+      "word": "特朗普上任之前中国已经早有布局",
+      "onboard_time": 1745343975,
+      "rank": 1,
+      "category": "国际时政"
     },
     {
       "raw_hot": 234761,
@@ -467,20 +475,44 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 29244,
+      "num": 33645,
+      "word": "哪吒2票房",
+      "onboard_time": 1745344095,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 28758,
-      "num": 31826,
+      "num": 47171,
       "word": "翁东华卸任文和友小龙虾公司董事",
       "onboard_time": 1745340737,
       "rank": 47,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 22857,
+      "raw_hot": 27561,
       "num": 72784,
       "word": "被医生错切右膝体育生称未来被打乱",
       "onboard_time": 1745343196,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25284,
+      "num": 25284,
+      "word": "海军舰舰舰舰舰已就位",
+      "onboard_time": 1745344217,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 20521,
+      "num": 20521,
+      "word": "当地回应39岁网红串哥因病去世",
+      "onboard_time": 1745344995,
+      "rank": 44,
+      "category": "民生新闻,网红"
     }
   ],
   "hotgov_list": [
