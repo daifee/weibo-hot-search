@@ -1,6 +1,6 @@
 {
   "startTime": 1745253028487,
-  "endTime": 1745311584324,
+  "endTime": 1745314018260,
   "band_list": [
     {
       "raw_hot": 10072261,
@@ -59,6 +59,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1331399,
+      "num": 449163,
+      "word": "京东外卖回应爆单",
+      "onboard_time": 1745308462,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1325333,
       "num": 1325333,
       "word": "特朗普要求日本进口美国大米和牛肉",
@@ -72,14 +80,6 @@
       "word": "美团 京东",
       "onboard_time": 1745285181,
       "rank": 20,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 1255498,
-      "num": 449163,
-      "word": "京东外卖回应爆单",
-      "onboard_time": 1745308462,
-      "rank": 10,
       "category": "互联网"
     },
     {
@@ -97,6 +97,14 @@
       "onboard_time": 1745298503,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1127355,
+      "num": 1127355,
+      "word": "领衔主演孔雪儿",
+      "onboard_time": 1745310620,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 1021751,
@@ -145,6 +153,14 @@
       "onboard_time": 1745301443,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 883165,
+      "num": 424892,
+      "word": "京东外卖",
+      "onboard_time": 1745312362,
+      "rank": 11,
+      "category": "互联网"
     },
     {
       "raw_hot": 861784,
@@ -217,14 +233,6 @@
       "onboard_time": 1745305161,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 680825,
-      "num": 443849,
-      "word": "领衔主演孔雪儿",
-      "onboard_time": 1745310620,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 653484,
@@ -315,6 +323,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 519161,
+      "num": 519161,
+      "word": "商家进口近11吨脏贝壳被罚50万",
+      "onboard_time": 1745311221,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 511692,
       "num": 511692,
       "word": "不二之臣海报",
@@ -347,19 +363,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 483625,
+      "num": 325418,
+      "word": "女儿给父亲转53万养老被丈夫起诉",
+      "onboard_time": 1745309782,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 474220,
       "num": 474220,
       "word": "北京地铁挺身而出的女孩父母发声",
       "onboard_time": 1745303123,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 471300,
-      "num": 281089,
-      "word": "女儿给父亲转53万养老被丈夫起诉",
-      "onboard_time": 1745309782,
-      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -587,12 +603,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 281957,
+      "num": 281957,
+      "word": "中国被曝能让全球无人机产业停摆1年",
+      "onboard_time": 1745309960,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 278679,
       "num": 195811,
       "word": "湿气重有八大症状",
       "onboard_time": 1745283500,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 272908,
+      "num": 272908,
+      "word": "不二之臣 双强",
+      "onboard_time": 1745312062,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 271048,
@@ -643,14 +675,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 247330,
-      "num": 247330,
-      "word": "中国被曝能让全球无人机产业停摆1年",
-      "onboard_time": 1745309960,
-      "rank": 37,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 246156,
       "num": 302250,
       "word": "司机让行救护车后遭后车反复别停",
@@ -673,6 +697,14 @@
       "onboard_time": 1745283202,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 242430,
+      "num": 242430,
+      "word": "京东百万年薪招聘外卖业务算法工程师",
+      "onboard_time": 1745311881,
+      "rank": 31,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 241131,
@@ -708,7 +740,7 @@
     },
     {
       "raw_hot": 235697,
-      "num": 366275,
+      "num": 369302,
       "word": "电车界的时髦精CLA",
       "onboard_time": 1745309481,
       "rank": 16,
@@ -761,6 +793,14 @@
       "onboard_time": 1745279600,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 215955,
+      "num": 215955,
+      "word": "羊肉串在吃羊肉串",
+      "onboard_time": 1745313021,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 213189,
@@ -849,6 +889,14 @@
       "onboard_time": 1745244023,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 195844,
+      "num": 195844,
+      "word": "石破茂称日本不打算对美唯命是从",
+      "onboard_time": 1745312122,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 195395,
@@ -1043,6 +1091,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 173783,
+      "num": 173783,
+      "word": "张杰开着大鸟巢打着小鸟球",
+      "onboard_time": 1745311941,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 173255,
       "num": 173255,
       "word": "万花世界迪丽热巴",
@@ -1105,6 +1161,14 @@
       "onboard_time": 1745294604,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 167636,
+      "num": 167636,
+      "word": "榜上佳婿",
+      "onboard_time": 1745313381,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 166956,
@@ -1177,6 +1241,14 @@
       "onboard_time": 1745293582,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157940,
+      "num": 157940,
+      "word": "张艺兴说中国传统音乐美感非常高级",
+      "onboard_time": 1745313321,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 157636,
@@ -1265,6 +1337,14 @@
       "onboard_time": 1745310562,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150697,
+      "num": 150697,
+      "word": "陈德容 日子怎么可能和谁过都一样",
+      "onboard_time": 1745312421,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 149969,
@@ -1371,12 +1451,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 141626,
+      "num": 141626,
+      "word": "男子讨喜钱掰断劳斯莱斯小金人",
+      "onboard_time": 1745312720,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141016,
       "num": 735087,
       "word": "官方通报67款应用违法收集个人信息",
       "onboard_time": 1745282062,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139802,
+      "num": 342459,
+      "word": "刘涛在福建的地位",
+      "onboard_time": 1745312782,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 138998,
@@ -1409,6 +1505,14 @@
       "onboard_time": 1745298444,
       "rank": 12,
       "category": "艺人,汽车"
+    },
+    {
+      "raw_hot": 137106,
+      "num": 137106,
+      "word": "造型师晒与王楚钦合照",
+      "onboard_time": 1745312302,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 137037,
@@ -1595,6 +1699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120861,
+      "num": 282469,
+      "word": "TVB艺人为何集体卖惨",
+      "onboard_time": 1745313862,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 118481,
       "num": 134507,
       "word": "鞠婧祎档期排到明年",
@@ -1625,14 +1737,6 @@
       "onboard_time": 1745305222,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 112332,
-      "num": 370416,
-      "word": "商家进口近11吨脏贝壳被罚50万",
-      "onboard_time": 1745311221,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 110916,
@@ -1809,6 +1913,14 @@
       "onboard_time": 1745236583,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 80064,
+      "num": 427693,
+      "word": "日本米价连涨15周",
+      "onboard_time": 1745312362,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 79993,
@@ -2011,6 +2123,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 60845,
+      "num": 246330,
+      "word": "郑钦文红土赛季首秀",
+      "onboard_time": 1745313741,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 60269,
       "num": 60269,
       "word": "孙恩盛直播",
@@ -2059,6 +2179,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 58198,
+      "num": 326214,
+      "word": "特朗普称美联储主席为大失败者",
+      "onboard_time": 1745313081,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 57985,
       "num": 135612,
       "word": "特朗普施压鲍威尔遭多方批评",
@@ -2067,12 +2195,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 56790,
+      "num": 168155,
+      "word": "外出吃饭后为什么总是口渴",
+      "onboard_time": 1745313201,
+      "rank": 39,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 56732,
       "num": 56732,
       "word": "何润东在家里后花园养鸡",
       "onboard_time": 1745270654,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 55699,
+      "num": 285917,
+      "word": "安琪拉酷洛米之心皮肤",
+      "onboard_time": 1745305161,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 54013,
@@ -2147,6 +2291,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 47853,
+      "num": 243386,
+      "word": "无手女孩希望推进无障碍卫生巾落地",
+      "onboard_time": 1745312902,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46184,
       "num": 264855,
       "word": "谷爱凌说身体好多了",
@@ -2217,6 +2369,14 @@
       "onboard_time": 1745255537,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 37950,
+      "num": 359273,
+      "word": "女子被泼汽油烧伤案庭审细节曝光",
+      "onboard_time": 1745312902,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37286,
@@ -2395,6 +2555,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 21231,
+      "num": 170301,
+      "word": "用AI还原小朋友的画作",
+      "onboard_time": 1745313381,
+      "rank": 38,
+      "category": "动漫,民生新闻"
+    },
+    {
       "raw_hot": 20554,
       "num": 171339,
       "word": "高中生打HPV疫苗这账怎么算都不亏",
@@ -2505,6 +2673,14 @@
       "onboard_time": 1745269994,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 15740,
+      "num": 338604,
+      "word": "高敏感人群如何更好的休息",
+      "onboard_time": 1745313741,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 14278,
