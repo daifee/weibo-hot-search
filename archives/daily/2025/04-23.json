@@ -1,6 +1,6 @@
 {
   "startTime": 1745339463299,
-  "endTime": 1745357887665,
+  "endTime": 1745360637083,
   "band_list": [
     {
       "raw_hot": 1506699,
@@ -43,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 458182,
+      "num": 458182,
+      "word": "特朗普上任之前中国已经早有布局",
+      "onboard_time": 1745343975,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 400398,
       "num": 199694,
       "word": "永野芽郁 田中圭",
@@ -81,14 +89,6 @@
       "onboard_time": 1745335703,
       "rank": 8,
       "category": "电影"
-    },
-    {
-      "raw_hot": 241165,
-      "num": 241165,
-      "word": "特朗普上任之前中国已经早有布局",
-      "onboard_time": 1745343975,
-      "rank": 1,
-      "category": "国际时政"
     },
     {
       "raw_hot": 234761,
@@ -219,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 132417,
+      "num": 132417,
+      "word": "美股市场已成爆炸区",
+      "onboard_time": 1745359755,
+      "rank": 7,
+      "category": "财经"
+    },
+    {
       "raw_hot": 131917,
       "num": 131917,
       "word": "女子剖腹产9个月后抽出10cm手术线",
@@ -232,6 +240,14 @@
       "word": "被烧伤女孩回应前男友当庭道歉",
       "onboard_time": 1745339599,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128586,
+      "num": 128586,
+      "word": "被医生错切右膝体育生称未来被打乱",
+      "onboard_time": 1745343196,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -459,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 38029,
+      "num": 34287,
+      "word": "刘强东请吃火锅说没有规矩想喝就喝",
+      "onboard_time": 1745352734,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 37134,
       "num": 83087,
       "word": "人民海军成立七十六周年",
@@ -507,36 +531,60 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 28367,
-      "num": 72784,
-      "word": "被医生错切右膝体育生称未来被打乱",
-      "onboard_time": 1745343196,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21901,
-      "num": 21901,
-      "word": "刘强东请吃火锅说没有规矩想喝就喝",
-      "onboard_time": 1745352734,
-      "rank": 46,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 20589,
-      "num": 20589,
+      "raw_hot": 28563,
+      "num": 28563,
       "word": "卤鸭店老板拒售变质鸭视频下架",
       "onboard_time": 1745354954,
       "rank": 30,
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25684,
+      "num": 25684,
+      "word": "借命而生",
+      "onboard_time": 1745335222,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 24693,
+      "num": 24693,
+      "word": "成毅下部戏是沧海笑",
+      "onboard_time": 1745359695,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 24634,
+      "num": 24634,
+      "word": "普京3年来首次向乌发出和谈邀约",
+      "onboard_time": 1745350874,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 24518,
+      "num": 54254,
+      "word": "美国希望与俄乌本周达成协议",
+      "onboard_time": 1745347634,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 20521,
-      "num": 20521,
+      "num": 20795,
       "word": "当地回应39岁网红串哥因病去世",
       "onboard_time": 1745344995,
       "rank": 44,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 19478,
+      "num": 20976,
+      "word": "2025十大年度IP评选",
+      "onboard_time": 1745343975,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 18981,
@@ -545,38 +593,6 @@
       "onboard_time": 1745347095,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 18429,
-      "num": 19073,
-      "word": "借命而生",
-      "onboard_time": 1745335222,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 16797,
-      "num": 20976,
-      "word": "2025十大年度IP评选",
-      "onboard_time": 1745343975,
-      "rank": 29,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 16793,
-      "num": 16793,
-      "word": "普京3年来首次向乌发出和谈邀约",
-      "onboard_time": 1745350874,
-      "rank": 36,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 15550,
-      "num": 54254,
-      "word": "美国希望与俄乌本周达成协议",
-      "onboard_time": 1745347634,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 15177,
