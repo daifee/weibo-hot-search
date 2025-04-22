@@ -1,0 +1,402 @@
+{
+  "runTime": 1745340402213,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1182585,
+        "num": 1182585,
+        "word": "微信加好友能加图片备注了",
+        "onboard_time": 1745334204,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1140991,
+        "num": 1140991,
+        "word": "仅退款",
+        "onboard_time": 1745321421,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 572287,
+        "num": 572287,
+        "word": "被质疑长相听障女生称微调过几处",
+        "onboard_time": 1745332822,
+        "rank": 3,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 529173,
+        "num": 529173,
+        "word": "洛阳文旅确认白马寺内为狄仁杰墓",
+        "onboard_time": 1745333062,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 278654,
+        "num": 278654,
+        "word": "哪吒2离全球影史第4还差7亿票房",
+        "onboard_time": 1745335703,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 275909,
+        "num": 275909,
+        "word": "金价暴涨预示市场正经历根本性转变",
+        "onboard_time": 1745326641,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 200737,
+        "num": 200737,
+        "word": "电商平台全面取消仅退款",
+        "onboard_time": 1745318964,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 135804,
+        "num": 200606,
+        "word": "无忧渡播出 陈奕恒都长大了",
+        "onboard_time": 1745324121,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33531,
+        "num": 200383,
+        "word": "被烧伤女孩回应前男友当庭道歉",
+        "onboard_time": 1745339599,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 433047,
+        "num": 199996,
+        "word": "孙恩盛 快回家",
+        "onboard_time": 1745335402,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329998,
+        "num": 199694,
+        "word": "永野芽郁 田中圭",
+        "onboard_time": 1745331743,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302563,
+        "num": 199392,
+        "word": "赵丽颖我真没空陪你闹了",
+        "onboard_time": 1745317401,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278510,
+        "num": 198876,
+        "word": "小黄豆晒合照",
+        "onboard_time": 1745334863,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 198752,
+        "num": 198752,
+        "word": "黄金",
+        "onboard_time": 1745330663,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 177966,
+        "num": 177966,
+        "word": "K总婚礼",
+        "onboard_time": 1745320821,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 152586,
+        "num": 152586,
+        "word": "女子称31岁丈夫拔牙后离世",
+        "onboard_time": 1745329403,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147467,
+        "num": 147467,
+        "word": "金钟国做医美",
+        "onboard_time": 1745328681,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126822,
+        "num": 126822,
+        "word": "赵丽颖造城者剧组被曝欠薪数月",
+        "onboard_time": 1745332282,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119972,
+        "num": 119972,
+        "word": "徐锦江因儿子离家拍戏嚎啕大哭",
+        "onboard_time": 1745328142,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139598,
+        "num": 119688,
+        "word": "男子半月两次欲强奸女邻居未遂判刑",
+        "onboard_time": 1745316681,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131531,
+        "num": 119632,
+        "word": "60斤和110斤交换饮食的一天",
+        "onboard_time": 1745333843,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119104,
+        "num": 119104,
+        "word": "疑似田中圭永野芽郁同居被拍",
+        "onboard_time": 1745337141,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115584,
+        "num": 115584,
+        "word": "美18万亿消费神话是刷出来的",
+        "onboard_time": 1745332642,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 114401,
+        "num": 114401,
+        "word": "梁田破碎感",
+        "onboard_time": 1745334022,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106866,
+        "num": 106866,
+        "word": "甘肃多个服务区热水器设围栏",
+        "onboard_time": 1745335822,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104026,
+        "num": 104026,
+        "word": "王嘉尔泰国聊水很深",
+        "onboard_time": 1745330482,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92767,
+        "num": 92767,
+        "word": "林彦俊 见面会",
+        "onboard_time": 1745327721,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91096,
+        "num": 91096,
+        "word": "龙丹妮觉得赵露思是天选桑稚",
+        "onboard_time": 1745319981,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88007,
+        "num": 90158,
+        "word": "无忧渡",
+        "onboard_time": 1745321001,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114693,
+        "num": 90129,
+        "word": "京东外卖",
+        "onboard_time": 1745312362,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 111090,
+        "num": 89994,
+        "word": "女子剖腹产9个月后抽出10cm手术线",
+        "onboard_time": 1745329102,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89678,
+        "num": 89678,
+        "word": "广西大部气象干旱已达特旱级别",
+        "onboard_time": 1745335822,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88514,
+        "num": 88514,
+        "word": "樊振东曾说希望更圆满的永远是下一个比赛",
+        "onboard_time": 1745334204,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80061,
+        "num": 80061,
+        "word": "聋哑女生因长相太完美被质疑",
+        "onboard_time": 1745298082,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78409,
+        "num": 78409,
+        "word": "坐火车托运猫咪18小时后等来空箱",
+        "onboard_time": 1745334204,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77821,
+        "num": 77821,
+        "word": "李昊直播",
+        "onboard_time": 1745326401,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72097,
+        "num": 77821,
+        "word": "孟子义百花杀翡翠发簪造型",
+        "onboard_time": 1745337681,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70961,
+        "num": 77820,
+        "word": "刘涛拜妈祖",
+        "onboard_time": 1745328383,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64421,
+        "num": 77820,
+        "word": "乒乓球运动员联合会成立",
+        "onboard_time": 1745327902,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61226,
+        "num": 77819,
+        "word": "华表奖",
+        "onboard_time": 1745328383,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 57466,
+        "num": 77819,
+        "word": "王楚钦假期陪爸妈逛动物园",
+        "onboard_time": 1745329522,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53719,
+        "num": 77818,
+        "word": "周震南铁定是风了",
+        "onboard_time": 1745339060,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53678,
+        "num": 77818,
+        "word": "这么多年宋祖儿混天绫用的还是那么溜",
+        "onboard_time": 1745318363,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52760,
+        "num": 77817,
+        "word": "光与夜之恋 5v1",
+        "onboard_time": 1745333303,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 52106,
+        "num": 77816,
+        "word": "被前男友泼汽油烧残女孩再回应质疑",
+        "onboard_time": 1745335043,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49574,
+        "num": 77816,
+        "word": "喝过期酸奶会怎么样",
+        "onboard_time": 1745338939,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 45830,
+        "num": 77816,
+        "word": "刑警追凶23年现实版我是刑警",
+        "onboard_time": 1745337621,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44100,
+        "num": 77815,
+        "word": "张真源发视频找不到合适的BGM",
+        "onboard_time": 1745337681,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43462,
+        "num": 77815,
+        "word": "金饰日内每克涨20元从业者称没见过",
+        "onboard_time": 1745336902,
+        "rank": 49,
+        "category": "财经,民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#文明因交流而多彩因互鉴而丰富#"
+    }
+  }
+}

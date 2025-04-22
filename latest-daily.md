@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/23 00:31:03 ~ 2025/04/23 00:31:03
+本榜单时间：2025/04/23 00:31:03 ~ 2025/04/23 00:46:42
 </p>
 </blockquote>
 <p>
@@ -69,14 +69,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%95%86%E5%B9%B3%E5%8F%B0%E5%85%A8%E9%9D%A2%E5%8F%96%E6%B6%88%E4%BB%85%E9%80%80%E6%AC%BE%23" target="weibo">
-电商平台全面取消仅退款（热度：234761）
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%922%E7%A6%BB%E5%85%A8%E7%90%83%E5%BD%B1%E5%8F%B2%E7%AC%AC4%E8%BF%98%E5%B7%AE7%E4%BA%BF%E7%A5%A8%E6%88%BF%23" target="weibo">
+哪吒2离全球影史第4还差7亿票房（热度：278654）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%922%E7%A6%BB%E5%85%A8%E7%90%83%E5%BD%B1%E5%8F%B2%E7%AC%AC4%E8%BF%98%E5%B7%AE7%E4%BA%BF%E7%A5%A8%E6%88%BF%23" target="weibo">
-哪吒2离全球影史第4还差7亿票房（热度：216240）
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%95%86%E5%B9%B3%E5%8F%B0%E5%85%A8%E9%9D%A2%E5%8F%96%E6%B6%88%E4%BB%85%E9%80%80%E6%AC%BE%23" target="weibo">
+电商平台全面取消仅退款（热度：234761）
 </a>
 </li>
 
@@ -305,6 +305,24 @@ K总婚礼（热度：212755）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%B8%AA%E7%87%83%E8%84%82%E5%8A%A8%E4%BD%9C%E5%87%8F%E8%82%A5%E8%BF%99%E6%A0%B7%E7%BB%83%E5%B0%B1%E5%AF%B9%E4%BA%86%23" target="weibo">
 三个燃脂动作减肥这样练就对了（热度：49829）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%9C%9F%E6%BA%90%E5%8F%91%E8%A7%86%E9%A2%91%E6%89%BE%E4%B8%8D%E5%88%B0%E5%90%88%E9%80%82%E7%9A%84BGM%23" target="weibo">
+张真源发视频找不到合适的BGM（热度：44100）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%A5%B0%E6%97%A5%E5%86%85%E6%AF%8F%E5%85%8B%E6%B6%A820%E5%85%83%E4%BB%8E%E4%B8%9A%E8%80%85%E7%A7%B0%E6%B2%A1%E8%A7%81%E8%BF%87%23" target="weibo">
+金饰日内每克涨20元从业者称没见过（热度：43462）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%83%A7%E4%BC%A4%E5%A5%B3%E5%AD%A9%E5%9B%9E%E5%BA%94%E5%89%8D%E7%94%B7%E5%8F%8B%E5%BD%93%E5%BA%AD%E9%81%93%E6%AD%89%23" target="weibo">
+被烧伤女孩回应前男友当庭道歉（热度：33531）
 </a>
 </li>
 
