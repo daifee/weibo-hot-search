@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745350565853,
+  "endTime": 1745353682323,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -9235,6 +9235,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 64654,
+      "num": 43457,
+      "word": "半夜看文的我",
+      "onboard_time": 1745349134,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 64586,
       "num": 214289,
       "word": "美国经济衰退风险上升",
@@ -11411,14 +11419,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 19948,
-      "num": 19948,
-      "word": "半夜看文的我",
-      "onboard_time": 1745349134,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 19871,
       "num": 22531,
       "word": "任嘉伦烟花一响宣夜开抢",
@@ -11617,6 +11617,14 @@
       "onboard_time": 1745103680,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 16516,
+      "num": 16516,
+      "word": "普京3年来首次向乌发出和谈邀约",
+      "onboard_time": 1745350874,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 16427,
@@ -11827,6 +11835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 13295,
+      "num": 17269,
+      "word": "2025十大年度IP评选",
+      "onboard_time": 1745343975,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 13050,
       "num": 21866,
       "word": "孙颖莎回应比1手势",
@@ -11835,12 +11851,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 12982,
+      "num": 12982,
+      "word": "刘强东请吃火锅说没有规矩想喝就喝",
+      "onboard_time": 1745352734,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 12840,
       "num": 29758,
       "word": "谱写周边命运共同体建设新篇章",
       "onboard_time": 1745175374,
       "rank": 27,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 12698,
+      "num": 12698,
+      "word": "独一无二",
+      "onboard_time": 1745345236,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 12590,
