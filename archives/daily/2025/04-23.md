@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/23 00:31:03 ~ 2025/04/23 00:46:42
+本榜单时间：2025/04/23 00:31:03 ~ 2025/04/23 01:22:45
 </p>
 </blockquote>
 <p>
@@ -177,6 +177,12 @@ K总婚礼（热度：212755）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%83%A7%E4%BC%A4%E5%A5%B3%E5%AD%A9%E5%9B%9E%E5%BA%94%E5%89%8D%E7%94%B7%E5%8F%8B%E5%BD%93%E5%BA%AD%E9%81%93%E6%AD%89%23" target="weibo">
+被烧伤女孩回应前男友当庭道歉（热度：123019）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E5%A4%A7%E9%83%A8%E6%B0%94%E8%B1%A1%E5%B9%B2%E6%97%B1%E5%B7%B2%E8%BE%BE%E7%89%B9%E6%97%B1%E7%BA%A7%E5%88%AB%23" target="weibo">
 广西大部气象干旱已达特旱级别（热度：119724）
 </a>
@@ -261,6 +267,12 @@ K总婚礼（热度：212755）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E7%A5%9E%E5%8A%A0%E9%80%9F%E5%99%A8%23" target="weibo">
+雷神加速器（热度：66835）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%89%E4%B8%8E%E5%A4%9C%E4%B9%8B%E6%81%8B%205v1%23" target="weibo">
 光与夜之恋 5v1（热度：66471）
 </a>
@@ -321,8 +333,20 @@ K总婚礼（热度：212755）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%83%A7%E4%BC%A4%E5%A5%B3%E5%AD%A9%E5%9B%9E%E5%BA%94%E5%89%8D%E7%94%B7%E5%8F%8B%E5%BD%93%E5%BA%AD%E9%81%93%E6%AD%89%23" target="weibo">
-被烧伤女孩回应前男友当庭道歉（热度：33531）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%B5%B7%E5%86%9B%E6%88%90%E7%AB%8B%E4%B8%83%E5%8D%81%E5%85%AD%E5%91%A8%E5%B9%B4%23" target="weibo">
+人民海军成立七十六周年（热度：37134）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A0%AA%E7%A7%B0%E7%A5%9E%E6%9D%A5%E4%B9%8B%E7%AC%94%E7%9A%84%E5%90%8D%E8%91%97%E5%BC%80%E5%A4%B4%E7%BB%93%E5%B0%BE%23" target="weibo">
+堪称神来之笔的名著开头结尾（热度：35102）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AA%E7%A9%BA%E8%A7%86%E8%A7%92%E7%9C%8B%E5%9C%B0%E7%90%83%E6%AF%8F%E4%B8%80%E5%B8%A7%E9%83%BD%E9%9C%87%E6%92%BC%23" target="weibo">
+太空视角看地球每一帧都震撼（热度：27702）
 </a>
 </li>
 

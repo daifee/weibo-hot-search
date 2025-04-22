@@ -1,6 +1,6 @@
 {
   "startTime": 1745339463299,
-  "endTime": 1745340402213,
+  "endTime": 1745342565692,
   "band_list": [
     {
       "raw_hot": 1506699,
@@ -219,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123019,
+      "num": 200383,
+      "word": "被烧伤女孩回应前男友当庭道歉",
+      "onboard_time": 1745339599,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119724,
       "num": 144971,
       "word": "广西大部气象干旱已达特旱级别",
@@ -331,6 +339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66835,
+      "num": 53948,
+      "word": "雷神加速器",
+      "onboard_time": 1745341397,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 66471,
       "num": 77817,
       "word": "光与夜之恋 5v1",
@@ -411,12 +427,28 @@
       "category": "财经,民生新闻"
     },
     {
-      "raw_hot": 33531,
-      "num": 200383,
-      "word": "被烧伤女孩回应前男友当庭道歉",
-      "onboard_time": 1745339599,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 37134,
+      "num": 83087,
+      "word": "人民海军成立七十六周年",
+      "onboard_time": 1745341038,
+      "rank": 21,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 35102,
+      "num": 42079,
+      "word": "堪称神来之笔的名著开头结尾",
+      "onboard_time": 1745342477,
+      "rank": 46,
+      "category": "读书作家"
+    },
+    {
+      "raw_hot": 27702,
+      "num": 53877,
+      "word": "太空视角看地球每一帧都震撼",
+      "onboard_time": 1745340798,
+      "rank": 31,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
