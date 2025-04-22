@@ -1,6 +1,6 @@
 {
   "startTime": 1745253028487,
-  "endTime": 1745320903062,
+  "endTime": 1745321846369,
   "band_list": [
     {
       "raw_hot": 10072261,
@@ -9,6 +9,14 @@
       "onboard_time": 1745290641,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 2455865,
+      "num": 2455865,
+      "word": "电商平台全面取消仅退款",
+      "onboard_time": 1745318964,
+      "rank": 0,
+      "category": "互联网"
     },
     {
       "raw_hot": 2399793,
@@ -25,14 +33,6 @@
       "onboard_time": 1745298082,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2253302,
-      "num": 2253302,
-      "word": "电商平台全面取消仅退款",
-      "onboard_time": 1745318964,
-      "rank": 0,
-      "category": "互联网"
     },
     {
       "raw_hot": 2063845,
@@ -67,6 +67,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1410358,
+      "num": 393714,
+      "word": "赵丽颖我真没空陪你闹了",
+      "onboard_time": 1745317401,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1331399,
       "num": 460776,
       "word": "京东外卖回应爆单",
@@ -97,14 +105,6 @@
       "onboard_time": 1745285181,
       "rank": 20,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1265804,
-      "num": 393714,
-      "word": "赵丽颖我真没空陪你闹了",
-      "onboard_time": 1745317401,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 1229099,
@@ -347,6 +347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 582165,
+      "num": 582165,
+      "word": "新娘回应婚礼不搞仪式直接开席",
+      "onboard_time": 1745315961,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 579721,
       "num": 447891,
       "word": "虞书欣丞磊 二搭",
@@ -361,14 +369,6 @@
       "onboard_time": 1745246603,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 554018,
-      "num": 554018,
-      "word": "新娘回应婚礼不搞仪式直接开席",
-      "onboard_time": 1745315961,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 553486,
@@ -464,6 +464,14 @@
       "word": "人大物理系高材生做轻食月入千万",
       "onboard_time": 1745296704,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 460764,
+      "num": 460764,
+      "word": "25楼坠落奇迹生还女童现况",
+      "onboard_time": 1745320042,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -732,7 +740,7 @@
     },
     {
       "raw_hot": 278132,
-      "num": 278132,
+      "num": 371089,
       "word": "00后义乌老板出口转内销订单量增长80%",
       "onboard_time": 1745319563,
       "rank": 22,
@@ -761,6 +769,14 @@
       "onboard_time": 1745293041,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 268200,
+      "num": 389240,
+      "word": "于适说真诚创作永远排第一位",
+      "onboard_time": 1745321001,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 265463,
@@ -793,6 +809,14 @@
       "onboard_time": 1745249961,
       "rank": 9,
       "category": "军事"
+    },
+    {
+      "raw_hot": 249460,
+      "num": 306622,
+      "word": "龙丹妮觉得赵露思是天选桑稚",
+      "onboard_time": 1745319981,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 246156,
@@ -865,6 +889,14 @@
       "onboard_time": 1745294544,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 236177,
+      "num": 312189,
+      "word": "宋祖儿剧宣的世界发展成这样了吗",
+      "onboard_time": 1745317342,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 235697,
@@ -947,14 +979,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 215603,
-      "num": 312189,
-      "word": "宋祖儿剧宣的世界发展成这样了吗",
-      "onboard_time": 1745317342,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 213995,
       "num": 213995,
       "word": "曝iPhone17Pro引入天空蓝配色",
@@ -995,14 +1019,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 209583,
-      "num": 306622,
-      "word": "龙丹妮觉得赵露思是天选桑稚",
-      "onboard_time": 1745319981,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 209260,
       "num": 209260,
       "word": "逐玉首发预告",
@@ -1025,6 +1041,22 @@
       "onboard_time": 1745240782,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203982,
+      "num": 203982,
+      "word": "原来姜母鸭里并没有母鸭",
+      "onboard_time": 1745321001,
+      "rank": 27,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 202888,
+      "num": 202888,
+      "word": "95后快递员回应被公司奖励一辆车",
+      "onboard_time": 1745321601,
+      "rank": 31,
+      "category": "互联网"
     },
     {
       "raw_hot": 202608,
@@ -1052,11 +1084,19 @@
     },
     {
       "raw_hot": 200604,
-      "num": 200604,
+      "num": 203251,
       "word": "这么多年宋祖儿混天绫用的还是那么溜",
       "onboard_time": 1745318363,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200357,
+      "num": 200357,
+      "word": "仅退款",
+      "onboard_time": 1745321421,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 200116,
@@ -1177,6 +1217,14 @@
       "onboard_time": 1745280801,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 187381,
+      "num": 415827,
+      "word": "美国对东南亚光伏产品征收天价关税",
+      "onboard_time": 1745320101,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 187232,
@@ -1377,14 +1425,6 @@
       "onboard_time": 1745313381,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 167018,
-      "num": 415827,
-      "word": "美国对东南亚光伏产品征收天价关税",
-      "onboard_time": 1745320101,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 166956,
@@ -1643,6 +1683,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 146327,
+      "num": 146327,
+      "word": "星穹铁道400万粉丝贺图",
+      "onboard_time": 1745321421,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 145799,
       "num": 145799,
       "word": "卜冠今新剧被婆婆PUA",
@@ -1665,6 +1713,14 @@
       "onboard_time": 1745297244,
       "rank": 47,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 144185,
+      "num": 144185,
+      "word": "美国胁迫他国与中国脱钩频被拒",
+      "onboard_time": 1745318302,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 143865,
@@ -1699,6 +1755,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142624,
+      "num": 142624,
+      "word": "上海老人被离婚妻子合法赶出卧室",
+      "onboard_time": 1745318902,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142317,
+      "num": 142317,
+      "word": "无忧渡",
+      "onboard_time": 1745231662,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141963,
       "num": 141963,
       "word": "海军双语外宣片震撼发布",
@@ -1720,14 +1792,6 @@
       "word": "耿爽斥美方何其粗暴何其荒唐何其悲哀",
       "onboard_time": 1745292322,
       "rank": 39,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 141666,
-      "num": 141666,
-      "word": "美国胁迫他国与中国脱钩频被拒",
-      "onboard_time": 1745318302,
-      "rank": 48,
       "category": "国际时政"
     },
     {
@@ -1803,6 +1867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 136917,
+      "num": 136917,
+      "word": "中方派出停火监督组赴缅甸",
+      "onboard_time": 1745321541,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 136875,
       "num": 136875,
       "word": "C919大飞机内响起周深的声音",
@@ -1835,14 +1907,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 136586,
-      "num": 295158,
-      "word": "25楼坠落奇迹生还女童现况",
-      "onboard_time": 1745320042,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 136314,
       "num": 136314,
       "word": "福宝紧急撤回一个上班",
@@ -1859,6 +1923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135595,
+      "num": 247810,
+      "word": "K总婚礼",
+      "onboard_time": 1745320821,
+      "rank": 40,
+      "category": "网红"
+    },
+    {
       "raw_hot": 135593,
       "num": 135593,
       "word": "刘强东亲自送外卖",
@@ -1873,14 +1945,6 @@
       "onboard_time": 1745295204,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 134609,
-      "num": 134609,
-      "word": "上海老人被离婚妻子合法赶出卧室",
-      "onboard_time": 1745318902,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 134583,
@@ -1988,7 +2052,7 @@
     },
     {
       "raw_hot": 125184,
-      "num": 160387,
+      "num": 222955,
       "word": "王者元流之子射手上线",
       "onboard_time": 1745318602,
       "rank": 49,
@@ -2235,14 +2299,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 83252,
-      "num": 133680,
-      "word": "无忧渡",
-      "onboard_time": 1745231662,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 82908,
       "num": 377237,
       "word": "跪地求雨视频摆拍但旱情是真",
@@ -2369,14 +2425,6 @@
       "onboard_time": 1745305762,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 70811,
-      "num": 140638,
-      "word": "K总婚礼",
-      "onboard_time": 1745320821,
-      "rank": 40,
-      "category": "网红"
     },
     {
       "raw_hot": 70320,
@@ -2579,6 +2627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 55755,
+      "num": 220575,
+      "word": "李艺彤糊弄学大师",
+      "onboard_time": 1745321121,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 55699,
       "num": 285917,
       "word": "安琪拉酷洛米之心皮肤",
@@ -2635,20 +2691,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52281,
+      "num": 202894,
+      "word": "黄色衣服为什么更招小飞虫",
+      "onboard_time": 1745320701,
+      "rank": 28,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 52072,
       "num": 114619,
       "word": "湖南平江发生翻船事件6人溺亡",
       "onboard_time": 1745253140,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 52000,
-      "num": 167655,
-      "word": "黄色衣服为什么更招小飞虫",
-      "onboard_time": 1745320701,
-      "rank": 28,
-      "category": "科学科普"
     },
     {
       "raw_hot": 51603,
@@ -2892,7 +2948,7 @@
     },
     {
       "raw_hot": 23675,
-      "num": 141509,
+      "num": 244482,
       "word": "和校园初恋修成正果什么体验",
       "onboard_time": 1745320881,
       "rank": 38,
@@ -3121,6 +3177,14 @@
       "onboard_time": 1745267354,
       "rank": 45,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 12391,
+      "num": 148258,
+      "word": "如何解决皮肤外油内干",
+      "onboard_time": 1745321302,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11818,

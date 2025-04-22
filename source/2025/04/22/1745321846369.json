@@ -1,0 +1,410 @@
+{
+  "runTime": 1745321846369,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2455865,
+        "num": 2455865,
+        "word": "电商平台全面取消仅退款",
+        "onboard_time": 1745318964,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 982972,
+        "num": 982972,
+        "word": "聋哑女生因长相太完美被质疑",
+        "onboard_time": 1745298082,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7438,
+        "num": 816955,
+        "word": "超高清走入千家万户",
+        "onboard_time": 1745291480,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 757034,
+        "num": 757034,
+        "word": "逐玉田曦薇亲完张凌赫亲",
+        "onboard_time": 1745319801,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 582165,
+        "num": 582165,
+        "word": "新娘回应婚礼不搞仪式直接开席",
+        "onboard_time": 1745315961,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 522546,
+        "num": 522546,
+        "word": "李刚被逮捕",
+        "onboard_time": 1745290641,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 460764,
+        "num": 460764,
+        "word": "25楼坠落奇迹生还女童现况",
+        "onboard_time": 1745320042,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 390376,
+        "num": 390376,
+        "word": "中国被曝能让全球无人机产业停摆1年",
+        "onboard_time": 1745309960,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 268200,
+        "num": 389240,
+        "word": "于适说真诚创作永远排第一位",
+        "onboard_time": 1745321001,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211102,
+        "num": 371089,
+        "word": "00后义乌老板出口转内销订单量增长80%",
+        "onboard_time": 1745319563,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1410358,
+        "num": 367265,
+        "word": "赵丽颖我真没空陪你闹了",
+        "onboard_time": 1745317401,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 497601,
+        "num": 354855,
+        "word": "京东外卖",
+        "onboard_time": 1745312362,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 434768,
+        "num": 347602,
+        "word": "关税",
+        "onboard_time": 1745315181,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 264280,
+        "num": 335668,
+        "word": "领衔主演孔雪儿",
+        "onboard_time": 1745310620,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 429274,
+        "num": 322385,
+        "word": "曝郑中基余思敏已决定离婚",
+        "onboard_time": 1745315901,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321402,
+        "num": 321402,
+        "word": "结婚1年半离婚35万彩礼账单判还6万",
+        "onboard_time": 1745299163,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249460,
+        "num": 249460,
+        "word": "龙丹妮觉得赵露思是天选桑稚",
+        "onboard_time": 1745319981,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135595,
+        "num": 247810,
+        "word": "K总婚礼",
+        "onboard_time": 1745320821,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 21193,
+        "num": 244482,
+        "word": "和校园初恋修成正果什么体验",
+        "onboard_time": 1745320881,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 312697,
+        "num": 242608,
+        "word": "虞书欣丞磊 二搭",
+        "onboard_time": 1745314280,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 787076,
+        "num": 237303,
+        "word": "男子半月两次欲强奸女邻居未遂判刑",
+        "onboard_time": 1745316681,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236177,
+        "num": 236177,
+        "word": "宋祖儿剧宣的世界发展成这样了吗",
+        "onboard_time": 1745317342,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 268835,
+        "num": 231989,
+        "word": "京东外卖回应爆单",
+        "onboard_time": 1745308462,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 111085,
+        "num": 222955,
+        "word": "王者元流之子射手上线",
+        "onboard_time": 1745318602,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 55755,
+        "num": 220575,
+        "word": "李艺彤糊弄学大师",
+        "onboard_time": 1745321121,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218897,
+        "num": 218897,
+        "word": "女儿给父亲转53万养老被丈夫起诉",
+        "onboard_time": 1745309782,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204728,
+        "num": 204728,
+        "word": "哪吒2密钥第3次延期",
+        "onboard_time": 1745306902,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 203982,
+        "num": 203982,
+        "word": "原来姜母鸭里并没有母鸭",
+        "onboard_time": 1745321001,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 189717,
+        "num": 203251,
+        "word": "这么多年宋祖儿混天绫用的还是那么溜",
+        "onboard_time": 1745318363,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154468,
+        "num": 202920,
+        "word": "华表奖名单",
+        "onboard_time": 1745307861,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 52281,
+        "num": 202894,
+        "word": "黄色衣服为什么更招小飞虫",
+        "onboard_time": 1745320701,
+        "rank": 30,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 202888,
+        "num": 202888,
+        "word": "95后快递员回应被公司奖励一辆车",
+        "onboard_time": 1745321601,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 200357,
+        "num": 200357,
+        "word": "仅退款",
+        "onboard_time": 1745321421,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 187381,
+        "num": 187381,
+        "word": "美国对东南亚光伏产品征收天价关税",
+        "onboard_time": 1745320101,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 148176,
+        "num": 176372,
+        "word": "张凌赫田曦薇没有杀青合影",
+        "onboard_time": 1745305161,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175051,
+        "num": 175051,
+        "word": "碧然德 孙颖莎",
+        "onboard_time": 1745314762,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163510,
+        "num": 163510,
+        "word": "男子讨喜钱掰断劳斯莱斯小金人",
+        "onboard_time": 1745312720,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158434,
+        "num": 158434,
+        "word": "日方炒作中国社会治安形势不佳",
+        "onboard_time": 1745314462,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 148530,
+        "num": 148530,
+        "word": "方时赫和HYBE女团合照",
+        "onboard_time": 1745319922,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12391,
+        "num": 148258,
+        "word": "如何解决皮肤外油内干",
+        "onboard_time": 1745321302,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148193,
+        "num": 148193,
+        "word": "陈都灵杭州",
+        "onboard_time": 1745318001,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146327,
+        "num": 146327,
+        "word": "星穹铁道400万粉丝贺图",
+        "onboard_time": 1745321421,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 144185,
+        "num": 144185,
+        "word": "美国胁迫他国与中国脱钩频被拒",
+        "onboard_time": 1745318302,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 142624,
+        "num": 142624,
+        "word": "上海老人被离婚妻子合法赶出卧室",
+        "onboard_time": 1745318902,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142317,
+        "num": 142317,
+        "word": "无忧渡",
+        "onboard_time": 1745321001,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141810,
+        "num": 141810,
+        "word": "杨紫家业杀青大合照",
+        "onboard_time": 1745318782,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136917,
+        "num": 136917,
+        "word": "中方派出停火监督组赴缅甸",
+        "onboard_time": 1745321541,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 124780,
+        "num": 124780,
+        "word": "七根心简下证",
+        "onboard_time": 1745317941,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119262,
+        "num": 119262,
+        "word": "原来你们拿冰淇淋的能听见啊",
+        "onboard_time": 1745319922,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117065,
+        "num": 117065,
+        "word": "我杀猪养你啊",
+        "onboard_time": 1745315241,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#文明因交流而多彩因互鉴而丰富#"
+    }
+  }
+}
