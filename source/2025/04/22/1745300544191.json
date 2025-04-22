@@ -1,0 +1,410 @@
+{
+  "runTime": 1745300544191,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6662235,
+        "num": 6662235,
+        "word": "李刚被逮捕",
+        "onboard_time": 1745290641,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1101119,
+        "num": 1101119,
+        "word": "可口可乐笑了百事可乐哭了",
+        "onboard_time": 1745290280,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 9734,
+        "num": 1077365,
+        "word": "超高清走入千家万户",
+        "onboard_time": 1745291480,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1067965,
+        "num": 1067965,
+        "word": "聋哑女生因长相太完美被质疑",
+        "onboard_time": 1745298082,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 681480,
+        "num": 681480,
+        "word": "特朗普要求日本进口美国大米和牛肉",
+        "onboard_time": 1745293523,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 469492,
+        "num": 469492,
+        "word": "人大物理系高材生做轻食月入千万",
+        "onboard_time": 1745296704,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 467594,
+        "num": 467594,
+        "word": "迪丽热巴开推花仙子造型",
+        "onboard_time": 1745297784,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 466935,
+        "num": 466935,
+        "word": "陈都灵肘击宋祖儿拳击",
+        "onboard_time": 1745292683,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 464808,
+        "num": 464808,
+        "word": "将门毒后短剧开机了",
+        "onboard_time": 1745296825,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 451615,
+        "num": 451615,
+        "word": "星巴克 免费咖啡",
+        "onboard_time": 1745287820,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1130766,
+        "num": 445793,
+        "word": "这居然是孟佳",
+        "onboard_time": 1745298503,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41762,
+        "num": 429982,
+        "word": "龚俊说明天上海车展见",
+        "onboard_time": 1745298444,
+        "rank": 11,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 723365,
+        "num": 427627,
+        "word": "刘强东送的外卖不到27元",
+        "onboard_time": 1745289379,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 425053,
+        "num": 425053,
+        "word": "刘强东希望未来京东全职外卖员超100万人",
+        "onboard_time": 1745293103,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 76882,
+        "num": 424069,
+        "word": "蚂蚁森林种下第6亿棵树",
+        "onboard_time": 1745298082,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 423934,
+        "num": 423934,
+        "word": "同学回应聋哑女孩因长相太美被质疑",
+        "onboard_time": 1745298203,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 350216,
+        "num": 350216,
+        "word": "金价",
+        "onboard_time": 1745289740,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 336454,
+        "num": 336454,
+        "word": "李斯丹妮裸全背",
+        "onboard_time": 1745298264,
+        "rank": 17,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 291960,
+        "num": 308159,
+        "word": "赵子琪说肖战成功是必然的",
+        "onboard_time": 1745297965,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42637,
+        "num": 303936,
+        "word": "湿气重如何有效调理",
+        "onboard_time": 1745299582,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 70320,
+        "num": 303478,
+        "word": "女孩被前男友烧残案二审未当庭宣判",
+        "onboard_time": 1745298683,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 303233,
+        "num": 303233,
+        "word": "樊振东仍是世界杯最年轻男单冠军",
+        "onboard_time": 1745298803,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 287828,
+        "num": 287828,
+        "word": "金饰克价已涨到1061元",
+        "onboard_time": 1745297066,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 187070,
+        "num": 284140,
+        "word": "薇诺娜 张康乐",
+        "onboard_time": 1745299642,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34974,
+        "num": 277651,
+        "word": "坎宁安扛着活塞前进",
+        "onboard_time": 1745299101,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166264,
+        "num": 273784,
+        "word": "今年底新拍电视剧将超高清化了",
+        "onboard_time": 1745298203,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185707,
+        "num": 265538,
+        "word": "张新成宋祖儿新剧改名光荣的制造",
+        "onboard_time": 1745295204,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 263844,
+        "num": 263844,
+        "word": "结婚1年半离婚35万彩礼账单判还6万",
+        "onboard_time": 1745299163,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58010,
+        "num": 251393,
+        "word": "情侣接种HPV疫苗是保护彼此",
+        "onboard_time": 1745297244,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240812,
+        "num": 240812,
+        "word": "网红小慧君造谣老板性骚扰事件进展",
+        "onboard_time": 1745294423,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2399793,
+        "num": 216415,
+        "word": "京东外卖崩了",
+        "onboard_time": 1745298264,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 189213,
+        "num": 189213,
+        "word": "鸿星尔克 于适",
+        "onboard_time": 1745298145,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182744,
+        "num": 182744,
+        "word": "教育部增设29种本科新专业",
+        "onboard_time": 1745289801,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 178614,
+        "num": 178614,
+        "word": "多吃抗炎食物可以抵消久坐的危害",
+        "onboard_time": 1745284823,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 159549,
+        "num": 159549,
+        "word": "没想到上班了还需要做阅读理解",
+        "onboard_time": 1745298264,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 159109,
+        "num": 159109,
+        "word": "自带杯",
+        "onboard_time": 1745295744,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 158538,
+        "num": 158538,
+        "word": "逐玉",
+        "onboard_time": 1745290700,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156961,
+        "num": 156961,
+        "word": "孙俪 跟姐混没有垫底王只有触底反弹",
+        "onboard_time": 1745299462,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155670,
+        "num": 155670,
+        "word": "哪吒2破157亿了",
+        "onboard_time": 1745285481,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 48743,
+        "num": 146871,
+        "word": "按照猪八戒的思路养儿子",
+        "onboard_time": 1745299823,
+        "rank": 39,
+        "category": "母婴育儿,民生新闻"
+      },
+      {
+        "raw_hot": 145799,
+        "num": 145799,
+        "word": "卜冠今新剧被婆婆PUA",
+        "onboard_time": 1745297604,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141377,
+        "num": 141377,
+        "word": "美国资产崩了",
+        "onboard_time": 1745290641,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 130754,
+        "num": 130754,
+        "word": "莱昂纳德39分",
+        "onboard_time": 1745300063,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126656,
+        "num": 126656,
+        "word": "年轻人都是怎么哄自己上班的",
+        "onboard_time": 1745300363,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124604,
+        "num": 124604,
+        "word": "迪丽热巴托工作人员给粉丝传话",
+        "onboard_time": 1745289320,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122239,
+        "num": 122239,
+        "word": "刘涛妈祖变装",
+        "onboard_time": 1745294544,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53039,
+        "num": 120847,
+        "word": "极氪9X实车曝光",
+        "onboard_time": 1745295264,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 120540,
+        "num": 120540,
+        "word": "去种树吧去种种不完的树",
+        "onboard_time": 1745297244,
+        "rank": 47,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 115874,
+        "num": 115874,
+        "word": "吃饭跑步和恋爱",
+        "onboard_time": 1745300301,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115764,
+        "num": 115764,
+        "word": "于适谈影视文旅联动",
+        "onboard_time": 1745298203,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#这些称呼体现中国同周边国家的浓浓情谊#"
+    }
+  }
+}

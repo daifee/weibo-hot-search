@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/22 13:25:09
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/22 13:42:24
 </p>
 </blockquote>
 <p>
@@ -520,7 +520,7 @@ C罗点评甲亢哥中国行（热度：2472029）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%AC%E4%B8%9C%E5%A4%96%E5%8D%96%E5%B4%A9%E4%BA%86%23" target="weibo">
-京东外卖崩了（热度：2388996）
+京东外卖崩了（热度：2399793）
 </a>
 </li>
 
@@ -2877,6 +2877,12 @@ nobody发博（热度：1141040）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B1%85%E7%84%B6%E6%98%AF%E5%AD%9F%E4%BD%B3%23" target="weibo">
+这居然是孟佳（热度：1130766）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E7%88%B8%E8%AF%84%E6%B5%8B%E9%81%BF%E5%AD%95%E5%A5%97pH%23" target="weibo">
 老爸评测避孕套pH（热度：1129000）
 </a>
@@ -3161,6 +3167,12 @@ DeepSeek7小时攻克缅甸救灾语言关（热度：1104741）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E8%8B%A5%E7%90%B3%E5%9B%9E%E5%BA%94%E5%85%A8%E7%BA%A2%E5%A9%B5%E7%94%9F%E9%95%BF%E5%8F%91%E8%82%B2%E6%9C%9F%23" target="weibo">
 陈若琳回应全红婵生长发育期（热度：1069363）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%81%8B%E5%93%91%E5%A5%B3%E7%94%9F%E5%9B%A0%E9%95%BF%E7%9B%B8%E5%A4%AA%E5%AE%8C%E7%BE%8E%E8%A2%AB%E8%B4%A8%E7%96%91%23" target="weibo">
+聋哑女生因长相太完美被质疑（热度：1067965）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ TVB男演员陈键锋学厨以第一名毕业（热度：726197）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E5%9C%A8%E6%9C%BA%E5%9C%BA%E7%8B%82%E7%82%AB2%E6%96%A4%E9%85%B8%E5%A5%B6%E5%90%83%E5%87%BA%E7%97%9B%E8%8B%A6%E9%9D%A2%E5%85%B7%23" target="weibo">
 女生在机场狂炫2斤酸奶吃出痛苦面具（热度：686112）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8A%98%E8%85%B0%E9%A2%84%E7%BA%A6%23" target="weibo">
-折腰预约（热度：685332）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%87%AA%E7%A7%B0%E7%8E%B0%E5%81%9A%E7%BD%91%E7%BA%A2%E8%9B%8B%E7%B3%95%E5%AE%9E%E4%B8%BA%E5%8E%BB%E5%B9%B412%E6%9C%88%E7%94%9F%E4%BA%A7%23" target="weibo">
-自称现做网红蛋糕实为去年12月生产（热度：684715）
 </a>
 </li>
 
