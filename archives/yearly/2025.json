@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1745296148412,
+  "endTime": 1745297117426,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -603,6 +603,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 10072261,
+      "num": 11064118,
+      "word": "李刚被逮捕",
+      "onboard_time": 1745290641,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 10037874,
       "num": 10037874,
       "word": "疑似李明德前女友发文",
@@ -641,14 +649,6 @@
       "onboard_time": 1737808998,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 9814118,
-      "num": 11064118,
-      "word": "李刚被逮捕",
-      "onboard_time": 1745290641,
-      "rank": 7,
-      "category": "国内时政"
     },
     {
       "raw_hot": 9461281,

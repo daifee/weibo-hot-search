@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745296148412,
+  "endTime": 1745297117426,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -51,7 +51,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 9814118,
+      "raw_hot": 10072261,
       "num": 11064118,
       "word": "李刚被逮捕",
       "onboard_time": 1745290641,
@@ -355,6 +355,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1325333,
+      "num": 1325333,
+      "word": "特朗普要求日本进口美国大米和牛肉",
+      "onboard_time": 1745293523,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1305853,
       "num": 509652,
       "word": "难怪大学没人要微信",
@@ -369,14 +377,6 @@
       "onboard_time": 1745134823,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1299234,
-      "num": 1299234,
-      "word": "特朗普要求日本进口美国大米和牛肉",
-      "onboard_time": 1745293523,
-      "rank": 27,
-      "category": "国际时政"
     },
     {
       "raw_hot": 1298662,
@@ -715,6 +715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 807532,
+      "num": 673645,
+      "word": "刘强东希望未来京东全职外卖员超100万人",
+      "onboard_time": 1745293103,
+      "rank": 9,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 799921,
       "num": 799921,
       "word": "家属回应老人免密支付买了550只鸡崽",
@@ -913,14 +921,6 @@
       "onboard_time": 1745212761,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 673645,
-      "num": 673645,
-      "word": "刘强东希望未来京东全职外卖员超100万人",
-      "onboard_time": 1745293103,
-      "rank": 9,
-      "category": "互联网"
     },
     {
       "raw_hot": 670497,
@@ -2115,6 +2115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 295507,
+      "num": 295507,
+      "word": "将门毒后短剧开机了",
+      "onboard_time": 1745296825,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 295250,
       "num": 295250,
       "word": "热量比肉还高的水果",
@@ -2595,6 +2603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 237841,
+      "num": 356828,
+      "word": "刘涛妈祖变装",
+      "onboard_time": 1745294544,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 237751,
       "num": 237751,
       "word": "白桃星座",
@@ -2635,12 +2651,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 232910,
-      "num": 356828,
-      "word": "刘涛妈祖变装",
-      "onboard_time": 1745294544,
-      "rank": 17,
-      "category": "艺人"
+      "raw_hot": 233417,
+      "num": 233417,
+      "word": "自带杯",
+      "onboard_time": 1745295744,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 229929,
@@ -2729,6 +2745,14 @@
       "onboard_time": 1745291182,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 221400,
+      "num": 221400,
+      "word": "Jennie的腹肌",
+      "onboard_time": 1745295566,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 221297,
@@ -3169,14 +3193,6 @@
       "onboard_time": 1745154627,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 199308,
-      "num": 199308,
-      "word": "自带杯",
-      "onboard_time": 1745295744,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 199241,
@@ -3659,6 +3675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186500,
+      "num": 186500,
+      "word": "人大物理系高材生做轻食月入千万",
+      "onboard_time": 1745296704,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 186222,
       "num": 186222,
       "word": "央视五四晚会嘉宾阵容",
@@ -3688,6 +3712,14 @@
       "word": "开始推理吧3定档",
       "onboard_time": 1745291121,
       "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 184656,
+      "num": 184656,
+      "word": "祝绪丹把自己养得很好",
+      "onboard_time": 1745296343,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -3931,14 +3963,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 176140,
-      "num": 212795,
-      "word": "Jennie的腹肌",
-      "onboard_time": 1745295566,
-      "rank": 28,
-      "category": "演出"
-    },
-    {
       "raw_hot": 175989,
       "num": 175989,
       "word": "也没人跟我说陈意涵老公这么会拍啊",
@@ -3993,6 +4017,14 @@
       "onboard_time": 1745126963,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 174355,
+      "num": 174355,
+      "word": "咪咪 我不ins字",
+      "onboard_time": 1745296045,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 174244,
@@ -4057,6 +4089,14 @@
       "onboard_time": 1745160087,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 172940,
+      "num": 172940,
+      "word": "快船vs掘金",
+      "onboard_time": 1745290641,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 172784,
@@ -4291,6 +4331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165126,
+      "num": 165126,
+      "word": "伦纳德压哨三分",
+      "onboard_time": 1745294003,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164981,
       "num": 156922,
       "word": "大学生模仿机器人模仿人类跳舞",
@@ -4411,20 +4459,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161860,
+      "num": 161860,
+      "word": "周一下班还去健身房的人",
+      "onboard_time": 1745296765,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 161505,
       "num": 161505,
       "word": "祝绪丹cue李晟骄傲的叶凡",
       "onboard_time": 1745132843,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 161252,
-      "num": 161252,
-      "word": "快船vs掘金",
-      "onboard_time": 1745290641,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 161060,
@@ -4779,6 +4827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152805,
+      "num": 152805,
+      "word": "开始推理吧3阵容官宣",
+      "onboard_time": 1745296825,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152615,
       "num": 152615,
       "word": "李昀锐冰湖重生是最热闹的杀青",
@@ -5003,6 +5059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143865,
+      "num": 143865,
+      "word": "梁庭cp小虐怡情赶紧追妻",
+      "onboard_time": 1745295983,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143792,
       "num": 203815,
       "word": "美三大零售巨头CEO齐赴白宫",
@@ -5195,6 +5259,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 137906,
+      "num": 137906,
+      "word": "管乐怎么能e成这样",
+      "onboard_time": 1745295983,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137877,
       "num": 137877,
       "word": "刘强东回忆给物流老兄弟们敬酒",
@@ -5241,6 +5313,14 @@
       "onboard_time": 1745077103,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136621,
+      "num": 302863,
+      "word": "被网红造谣性骚扰老板仍有三案子未宣判",
+      "onboard_time": 1745294664,
+      "rank": 25,
+      "category": "网红"
     },
     {
       "raw_hot": 136571,
@@ -5329,14 +5409,6 @@
       "onboard_time": 1745214202,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 134857,
-      "num": 134857,
-      "word": "梁庭cp小虐怡情赶紧追妻",
-      "onboard_time": 1745295983,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 134525,
@@ -5467,14 +5539,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 132150,
-      "num": 272167,
-      "word": "被网红造谣性骚扰老板仍有三案子未宣判",
-      "onboard_time": 1745294664,
-      "rank": 25,
-      "category": "网红"
-    },
-    {
       "raw_hot": 132050,
       "num": 132050,
       "word": "Doinb直面老东家",
@@ -5529,14 +5593,6 @@
       "onboard_time": 1745203522,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 130760,
-      "num": 130760,
-      "word": "咪咪 我不ins字",
-      "onboard_time": 1745296045,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 130517,
@@ -5787,6 +5843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122474,
+      "num": 239500,
+      "word": "王者荣耀世界开启预约",
+      "onboard_time": 1745296704,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 122399,
       "num": 122399,
       "word": "高校行政人员倒背如流的话术",
@@ -5817,6 +5881,14 @@
       "onboard_time": 1745159188,
       "rank": 19,
       "category": "美食"
+    },
+    {
+      "raw_hot": 120967,
+      "num": 582893,
+      "word": "我支持你保护地球",
+      "onboard_time": 1745295325,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120654,
@@ -6260,7 +6332,7 @@
     },
     {
       "raw_hot": 103316,
-      "num": 103316,
+      "num": 140664,
       "word": "刘耀文再现45度标准站姿",
       "onboard_time": 1745284280,
       "rank": 36,
@@ -6929,14 +7001,6 @@
       "onboard_time": 1745133683,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 75646,
-      "num": 582893,
-      "word": "我支持你保护地球",
-      "onboard_time": 1745295325,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 75225,
@@ -8387,6 +8451,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 31668,
+      "num": 165501,
+      "word": "金饰克价已涨到1061元",
+      "onboard_time": 1745297066,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 31252,
       "num": 228293,
       "word": "幼猫可以吃哪些人类食物",
@@ -8769,6 +8841,14 @@
       "onboard_time": 1745090474,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 22545,
+      "num": 295834,
+      "word": "吃盐太多真会使肥胖风险增加6倍吗",
+      "onboard_time": 1745296105,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 22481,
@@ -9305,14 +9385,6 @@
       "onboard_time": 1745148802,
       "rank": 39,
       "category": "国际时政,民生新闻"
-    },
-    {
-      "raw_hot": 5621,
-      "num": 135041,
-      "word": "吃盐太多真会使肥胖风险增加6倍吗",
-      "onboard_time": 1745296105,
-      "rank": 43,
-      "category": "健康医疗"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1745296148412,
+  "endTime": 1745297117426,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -115,7 +115,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 9814118,
+      "raw_hot": 10072261,
       "num": 11064118,
       "word": "李刚被逮捕",
       "onboard_time": 1745290641,
@@ -2859,6 +2859,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1325333,
+      "num": 1325333,
+      "word": "特朗普要求日本进口美国大米和牛肉",
+      "onboard_time": 1745293523,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1320488,
       "num": 1320488,
       "word": "梁靖崑vs林诗栋",
@@ -2977,14 +2985,6 @@
       "onboard_time": 1743517584,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1299234,
-      "num": 1299234,
-      "word": "特朗普要求日本进口美国大米和牛肉",
-      "onboard_time": 1745293523,
-      "rank": 27,
-      "category": "国际时政"
     },
     {
       "raw_hot": 1298662,
@@ -6387,6 +6387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 807532,
+      "num": 673645,
+      "word": "刘强东希望未来京东全职外卖员超100万人",
+      "onboard_time": 1745293103,
+      "rank": 9,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 806360,
       "num": 806360,
       "word": "马斯克炮轰特朗普贸易高级顾问",
@@ -8129,14 +8137,6 @@
       "onboard_time": 1744642344,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 673645,
-      "num": 673645,
-      "word": "刘强东希望未来京东全职外卖员超100万人",
-      "onboard_time": 1745293103,
-      "rank": 9,
-      "category": "互联网"
     },
     {
       "raw_hot": 673248,
@@ -19659,6 +19659,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 295507,
+      "num": 295507,
+      "word": "将门毒后短剧开机了",
+      "onboard_time": 1745296825,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 295345,
       "num": 375554,
       "word": "东方美学给世界亿点点震撼",
@@ -24083,6 +24091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 237841,
+      "num": 356828,
+      "word": "刘涛妈祖变装",
+      "onboard_time": 1745294544,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 237820,
       "num": 383207,
       "word": "雁回时oe",
@@ -24523,6 +24539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 233417,
+      "num": 233417,
+      "word": "自带杯",
+      "onboard_time": 1745295744,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 233342,
       "num": 233342,
       "word": "心软一次被行业禁入两年",
@@ -24601,14 +24625,6 @@
       "onboard_time": 1744626322,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 232910,
-      "num": 356828,
-      "word": "刘涛妈祖变装",
-      "onboard_time": 1745294544,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 232860,
@@ -25921,6 +25937,14 @@
       "onboard_time": 1743739761,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 221400,
+      "num": 221400,
+      "word": "Jennie的腹肌",
+      "onboard_time": 1745295566,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 221297,
@@ -29923,14 +29947,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 199308,
-      "num": 199308,
-      "word": "自带杯",
-      "onboard_time": 1745295744,
-      "rank": 30,
-      "category": "美食"
-    },
-    {
       "raw_hot": 199284,
       "num": 199284,
       "word": "林诗栋晋级澳门世界杯决赛",
@@ -33515,6 +33531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186500,
+      "num": 186500,
+      "word": "人大物理系高材生做轻食月入千万",
+      "onboard_time": 1745296704,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 186438,
       "num": 186438,
       "word": "任国超抢任嘉伦戏份",
@@ -34025,6 +34049,14 @@
       "onboard_time": 1744435523,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 184656,
+      "num": 184656,
+      "word": "祝绪丹把自己养得很好",
+      "onboard_time": 1745296343,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 184644,
@@ -36003,14 +36035,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 176140,
-      "num": 212795,
-      "word": "Jennie的腹肌",
-      "onboard_time": 1745295566,
-      "rank": 28,
-      "category": "演出"
-    },
-    {
       "raw_hot": 176130,
       "num": 230915,
       "word": "疑似周周小可爱陈泽领证",
@@ -36515,6 +36539,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 174355,
+      "num": 174355,
+      "word": "咪咪 我不ins字",
+      "onboard_time": 1745296045,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 174244,
       "num": 182240,
       "word": "宋祖儿归来还是这么坦诚的女子",
@@ -36809,6 +36841,14 @@
       "onboard_time": 1743553221,
       "rank": 24,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 172940,
+      "num": 172940,
+      "word": "快船vs掘金",
+      "onboard_time": 1745290641,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 172938,
@@ -38691,6 +38731,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 165126,
+      "num": 165126,
+      "word": "伦纳德压哨三分",
+      "onboard_time": 1745294003,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165107,
       "num": 165107,
       "word": "赵丽颖兼任向阳花出品人",
@@ -39555,6 +39603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161860,
+      "num": 161860,
+      "word": "周一下班还去健身房的人",
+      "onboard_time": 1745296765,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 161788,
       "num": 161788,
       "word": "甲亢哥中国行有next level",
@@ -39713,14 +39769,6 @@
       "onboard_time": 1744449085,
       "rank": 35,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 161252,
-      "num": 161252,
-      "word": "快船vs掘金",
-      "onboard_time": 1745290641,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 161236,
@@ -42145,6 +42193,14 @@
       "onboard_time": 1744775122,
       "rank": 39,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 152805,
+      "num": 152805,
+      "word": "开始推理吧3阵容官宣",
+      "onboard_time": 1745296825,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 152744,
@@ -44811,6 +44867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 143865,
+      "num": 143865,
+      "word": "梁庭cp小虐怡情赶紧追妻",
+      "onboard_time": 1745295983,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143833,
       "num": 156342,
       "word": "吴宣仪今天当倪虹洁站姐",
@@ -46603,6 +46667,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 137906,
+      "num": 137906,
+      "word": "管乐怎么能e成这样",
+      "onboard_time": 1745295983,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137877,
       "num": 137877,
       "word": "刘强东回忆给物流老兄弟们敬酒",
@@ -47025,6 +47097,14 @@
       "onboard_time": 1743822861,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 136621,
+      "num": 302863,
+      "word": "被网红造谣性骚扰老板仍有三案子未宣判",
+      "onboard_time": 1745294664,
+      "rank": 25,
+      "category": "网红"
     },
     {
       "raw_hot": 136571,
@@ -47617,14 +47697,6 @@
       "onboard_time": 1745027361,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 134857,
-      "num": 134857,
-      "word": "梁庭cp小虐怡情赶紧追妻",
-      "onboard_time": 1745295983,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 134814,
@@ -48587,14 +48659,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 132150,
-      "num": 272167,
-      "word": "被网红造谣性骚扰老板仍有三案子未宣判",
-      "onboard_time": 1745294664,
-      "rank": 25,
-      "category": "网红"
-    },
-    {
       "raw_hot": 132128,
       "num": 132128,
       "word": "梅西梅开二度",
@@ -49065,14 +49129,6 @@
       "onboard_time": 1745203522,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 130760,
-      "num": 130760,
-      "word": "咪咪 我不ins字",
-      "onboard_time": 1745296045,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 130746,
@@ -51491,6 +51547,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 122474,
+      "num": 239500,
+      "word": "王者荣耀世界开启预约",
+      "onboard_time": 1745296704,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 122448,
       "num": 122448,
       "word": "他们说我画的是卫生巾",
@@ -51929,6 +51993,14 @@
       "onboard_time": 1743520285,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 120967,
+      "num": 582893,
+      "word": "我支持你保护地球",
+      "onboard_time": 1745295325,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120934,
@@ -56300,7 +56372,7 @@
     },
     {
       "raw_hot": 103316,
-      "num": 103316,
+      "num": 140664,
       "word": "刘耀文再现45度标准站姿",
       "onboard_time": 1745284280,
       "rank": 36,
@@ -60841,14 +60913,6 @@
       "onboard_time": 1744258102,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 75646,
-      "num": 582893,
-      "word": "我支持你保护地球",
-      "onboard_time": 1745295325,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 75502,
@@ -68947,6 +69011,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 31668,
+      "num": 165501,
+      "word": "金饰克价已涨到1061元",
+      "onboard_time": 1745297066,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 31618,
       "num": 31618,
       "word": "谢谢汉化组",
@@ -71065,6 +71137,14 @@
       "onboard_time": 1743863844,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22545,
+      "num": 295834,
+      "word": "吃盐太多真会使肥胖风险增加6倍吗",
+      "onboard_time": 1745296105,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 22501,
@@ -74377,14 +74457,6 @@
       "onboard_time": 1743512544,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 5621,
-      "num": 135041,
-      "word": "吃盐太多真会使肥胖风险增加6倍吗",
-      "onboard_time": 1745296105,
-      "rank": 43,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 5605,
