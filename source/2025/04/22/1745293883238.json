@@ -1,0 +1,410 @@
+{
+  "runTime": 1745293883238,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3158730,
+        "num": 3317461,
+        "word": "李刚被逮捕",
+        "onboard_time": 1745290641,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1867483,
+        "num": 1867483,
+        "word": "星巴克 免费咖啡",
+        "onboard_time": 1745287820,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 22864,
+        "num": 1488148,
+        "word": "超高清走入千家万户",
+        "onboard_time": 1745291480,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1229099,
+        "num": 1229099,
+        "word": "金价",
+        "onboard_time": 1745289740,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1162066,
+        "num": 1162066,
+        "word": "可口可乐笑了百事可乐哭了",
+        "onboard_time": 1745290280,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 636289,
+        "num": 636289,
+        "word": "美国资产崩了",
+        "onboard_time": 1745290641,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 575783,
+        "num": 575783,
+        "word": "陈都灵肘击宋祖儿拳击",
+        "onboard_time": 1745292683,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 465012,
+        "num": 465012,
+        "word": "哪吒2破157亿了",
+        "onboard_time": 1745285481,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 54013,
+        "num": 462545,
+        "word": "外卖员称做梦都没想到能领养老金",
+        "onboard_time": 1745293103,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 124249,
+        "num": 444426,
+        "word": "刘强东希望未来京东全职外卖员超100万人",
+        "onboard_time": 1745293103,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 634048,
+        "num": 435318,
+        "word": "教育部增设29种本科新专业",
+        "onboard_time": 1745289801,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1550306,
+        "num": 419003,
+        "word": "刘强东送的外卖不到27元",
+        "onboard_time": 1745289379,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 407436,
+        "num": 407436,
+        "word": "被刘强东请吃火锅外卖骑手发声",
+        "onboard_time": 1745285061,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 391353,
+        "num": 391353,
+        "word": "逐玉",
+        "onboard_time": 1745290700,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58457,
+        "num": 344341,
+        "word": "美加征关税后果转嫁消费者",
+        "onboard_time": 1745292501,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 319026,
+        "num": 319026,
+        "word": "迪丽热巴托工作人员给粉丝传话",
+        "onboard_time": 1745289320,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295663,
+        "num": 295663,
+        "word": "孙颖莎11300分保持断层世界第一",
+        "onboard_time": 1745287581,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 268876,
+        "num": 268876,
+        "word": "孟子义李昀锐奔跑吧怼脸拍",
+        "onboard_time": 1745293041,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190614,
+        "num": 267957,
+        "word": "开始推理吧",
+        "onboard_time": 1745287761,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58550,
+        "num": 267027,
+        "word": "反复提醒同事是否属于职场隐性欺压",
+        "onboard_time": 1745293282,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156140,
+        "num": 266031,
+        "word": "司机礼让救护车后被后车多次别停",
+        "onboard_time": 1745292262,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 859377,
+        "num": 265425,
+        "word": "关晓彤 鹿晗",
+        "onboard_time": 1745230340,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314205,
+        "num": 264333,
+        "word": "多吃抗炎食物可以抵消久坐的危害",
+        "onboard_time": 1745284823,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 264018,
+        "num": 264018,
+        "word": "上海男子花18元中了1672万",
+        "onboard_time": 1745280200,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234186,
+        "num": 234186,
+        "word": "司机让行救护车后遭后车反复别停",
+        "onboard_time": 1745289501,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219728,
+        "num": 219728,
+        "word": "吴柳芳首次披露直播跳舞原因",
+        "onboard_time": 1745284041,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 181546,
+        "num": 211930,
+        "word": "和肖战一起守护地球家园",
+        "onboard_time": 1745292621,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207246,
+        "num": 207246,
+        "word": "特朗普要求日本进口美国大米和牛肉",
+        "onboard_time": 1745293523,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 162864,
+        "num": 203186,
+        "word": "一句话让一个中年男人破防",
+        "onboard_time": 1745290280,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32215,
+        "num": 202837,
+        "word": "胡兵新西兰告白大片",
+        "onboard_time": 1745291841,
+        "rank": 29,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 190594,
+        "num": 202662,
+        "word": "极氪9X",
+        "onboard_time": 1745293223,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 202608,
+        "num": 202608,
+        "word": "王曼昱博客天下封面",
+        "onboard_time": 1745293462,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189174,
+        "num": 189174,
+        "word": "MAC 丁禹兮",
+        "onboard_time": 1745289379,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 189063,
+        "num": 189063,
+        "word": "周继红任中国游泳协会主席",
+        "onboard_time": 1745291182,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183123,
+        "num": 183123,
+        "word": "鞠婧祎很高兴解锁进阶新篇章",
+        "onboard_time": 1745292800,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171004,
+        "num": 171004,
+        "word": "美滥施关税霸凌连海地也不放过",
+        "onboard_time": 1745289140,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 160963,
+        "num": 160963,
+        "word": "王宝强说二刷棋士觉得是另一部剧",
+        "onboard_time": 1745293582,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157917,
+        "num": 157917,
+        "word": "张艺兴现场版精忠报国太好听了",
+        "onboard_time": 1745247323,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 150288,
+        "num": 150288,
+        "word": "她一生未婚但接生了5万多孩子",
+        "onboard_time": 1745279361,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141762,
+        "num": 141762,
+        "word": "耿爽斥美方何其粗暴何其荒唐何其悲哀",
+        "onboard_time": 1745292322,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 135470,
+        "num": 135470,
+        "word": "爱奇艺世界大会预热阵容",
+        "onboard_time": 1745291661,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129609,
+        "num": 129609,
+        "word": "湿气重有八大症状",
+        "onboard_time": 1745283500,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 129462,
+        "num": 129462,
+        "word": "刘强东回忆给物流老兄弟们敬酒",
+        "onboard_time": 1745293762,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 127966,
+        "num": 127966,
+        "word": "福宝紧急撤回一个上班",
+        "onboard_time": 1745292800,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122168,
+        "num": 127892,
+        "word": "女子被泼汽油烧伤案二审",
+        "onboard_time": 1745291901,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127875,
+        "num": 127875,
+        "word": "C919大飞机内响起周深的声音",
+        "onboard_time": 1745291841,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127617,
+        "num": 127617,
+        "word": "快船vs掘金",
+        "onboard_time": 1745290641,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125789,
+        "num": 125789,
+        "word": "太原一写字楼玻璃掉落砸中楼下多车",
+        "onboard_time": 1745290101,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120456,
+        "num": 120456,
+        "word": "王者荣耀世界",
+        "onboard_time": 1745290641,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119263,
+        "num": 119263,
+        "word": "7楼8楼闹矛盾9楼住户躺枪被震楼3年",
+        "onboard_time": 1745248584,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记领略中华文明#"
+    }
+  }
+}

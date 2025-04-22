@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1745291814038,
+  "endTime": 1745293883238,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -2051,6 +2051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 3158730,
+      "num": 3317461,
+      "word": "李刚被逮捕",
+      "onboard_time": 1745290641,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 3152316,
       "num": 3152316,
       "word": "导演组回应沈腾马丽小品没演完",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1739527763,
       "rank": 0,
       "category": "电影"
-    },
-    {
-      "raw_hot": 2976802,
-      "num": 2976802,
-      "word": "李小冉气到发抖",
-      "onboard_time": 1737182356,
-      "rank": 13,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
