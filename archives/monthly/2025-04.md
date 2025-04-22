@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/22 22:24:51
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/22 22:43:47
 </p>
 </blockquote>
 <p>
@@ -3825,6 +3825,12 @@ EDG无畏契约（热度：951061）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B0%B8%E9%87%8E%E8%8A%BD%E9%83%81%20%E7%94%B0%E4%B8%AD%E5%9C%AD%23" target="weibo">
+永野芽郁 田中圭（热度：950734）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23THE9%E6%88%90%E5%91%989%E4%BA%BA%E5%AE%9E%E5%88%B02%E4%BA%BA%23" target="weibo">
 THE9成员9人实到2人（热度：949717）
 </a>
@@ -5967,6 +5973,12 @@ TVB男演员陈键锋学厨以第一名毕业（热度：726197）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E9%A2%84%E7%A4%BA%E5%B8%82%E5%9C%BA%E6%AD%A3%E7%BB%8F%E5%8E%86%E6%A0%B9%E6%9C%AC%E6%80%A7%E8%BD%AC%E5%8F%98%23" target="weibo">
+金价暴涨预示市场正经历根本性转变（热度：697672）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E5%B0%8F%E7%8C%AB%E6%82%9F%E7%A9%BA%E4%B8%BB%E4%BA%BA%E5%B7%B2%E8%B0%85%E8%A7%A3%E8%BD%A6%E4%B8%BB%23" target="weibo">
 网红小猫悟空主人已谅解车主（热度：697248）
 </a>
@@ -5999,18 +6011,6 @@ TVB男演员陈键锋学厨以第一名毕业（热度：726197）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A4%A7%E5%9E%8B%E7%A7%91%E6%8A%80%E4%BC%81%E4%B8%9A%E5%B0%86%E6%88%90%E4%B8%BA%E5%8F%8D%E5%88%B6%E7%9B%AE%E6%A0%87%23" target="weibo">
 美国大型科技企业将成为反制目标（热度：694344）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E5%AE%A3%E8%99%8Ewink%E7%AC%91%E7%9A%84%E9%A3%8E%E5%90%B9%E5%88%B0%E4%BA%86%E5%86%85%E5%A8%B1%23" target="weibo">
-金宣虎wink笑的风吹到了内娱（热度：694343）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%BB%95%E5%AD%90%E4%BA%AC%E5%A7%93%E6%BB%95%E4%BB%96%E4%B8%8D%E5%AE%88%E6%BB%95%E7%8E%8B%E9%98%81%E8%B0%81%E5%AE%88%23" target="weibo">
-滕子京姓滕他不守滕王阁谁守（热度：694213）
 </a>
 </li>
 
