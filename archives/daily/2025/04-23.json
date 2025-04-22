@@ -1,6 +1,6 @@
 {
   "startTime": 1745339463299,
-  "endTime": 1745346842923,
+  "endTime": 1745347645502,
   "band_list": [
     {
       "raw_hot": 1506699,
@@ -484,14 +484,14 @@
     },
     {
       "raw_hot": 28758,
-      "num": 47171,
+      "num": 71704,
       "word": "翁东华卸任文和友小龙虾公司董事",
       "onboard_time": 1745340737,
       "rank": 47,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 27561,
+      "raw_hot": 28367,
       "num": 72784,
       "word": "被医生错切右膝体育生称未来被打乱",
       "onboard_time": 1745343196,
@@ -499,8 +499,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 25284,
-      "num": 25284,
+      "raw_hot": 25539,
+      "num": 25539,
       "word": "海军舰舰舰舰舰已就位",
       "onboard_time": 1745344217,
       "rank": 34,
@@ -513,6 +513,14 @@
       "onboard_time": 1745344995,
       "rank": 44,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 18981,
+      "num": 19269,
+      "word": "丁程鑫雪中荆棘大片",
+      "onboard_time": 1745347095,
+      "rank": 45,
+      "category": "作品衍生"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1745346842923,
+  "endTime": 1745347645502,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -71908,7 +71908,7 @@
     },
     {
       "raw_hot": 28758,
-      "num": 47171,
+      "num": 71704,
       "word": "翁东华卸任文和友小龙虾公司董事",
       "onboard_time": 1745340737,
       "rank": 47,
@@ -71985,6 +71985,14 @@
       "onboard_time": 1744144275,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 28367,
+      "num": 72784,
+      "word": "被医生错切右膝体育生称未来被打乱",
+      "onboard_time": 1745343196,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28332,
@@ -72169,14 +72177,6 @@
       "onboard_time": 1744049715,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 27561,
-      "num": 72784,
-      "word": "被医生错切右膝体育生称未来被打乱",
-      "onboard_time": 1745343196,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 27557,
@@ -72643,6 +72643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25539,
+      "num": 25539,
+      "word": "海军舰舰舰舰舰已就位",
+      "onboard_time": 1745344217,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 25509,
       "num": 295757,
       "word": "96岁抗战老兵含泪抚摸牺牲战友墓碑",
@@ -72729,14 +72737,6 @@
       "onboard_time": 1745089875,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 25284,
-      "num": 25284,
-      "word": "海军舰舰舰舰舰已就位",
-      "onboard_time": 1745344217,
-      "rank": 34,
-      "category": "国内时政"
     },
     {
       "raw_hot": 25259,
@@ -74441,6 +74441,14 @@
       "onboard_time": 1745004374,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 18981,
+      "num": 19269,
+      "word": "丁程鑫雪中荆棘大片",
+      "onboard_time": 1745347095,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 18956,
