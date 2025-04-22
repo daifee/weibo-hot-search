@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1745307519226,
+  "endTime": 1745310761900,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -4347,6 +4347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1051510,
+      "num": 410900,
+      "word": "京东外卖回应爆单",
+      "onboard_time": 1745308462,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1049192,
       "num": 1049192,
       "word": "男子捅伤同病房父子后跳楼身亡",
@@ -5825,6 +5833,14 @@
       "onboard_time": 1743857183,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 861784,
+      "num": 861784,
+      "word": "哪吒2密钥第3次延期",
+      "onboard_time": 1745306902,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 861762,
@@ -8756,7 +8772,7 @@
     },
     {
       "raw_hot": 640615,
-      "num": 404701,
+      "num": 406928,
       "word": "刘强东和外卖骑手喝酒被赞接地气",
       "onboard_time": 1745304201,
       "rank": 17,
@@ -10779,6 +10795,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 534100,
+      "num": 534100,
+      "word": "华表奖名单",
+      "onboard_time": 1745307861,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 533629,
       "num": 517147,
       "word": "浪姐6kpop味最纯正的舞台出现了",
@@ -12369,6 +12393,14 @@
       "onboard_time": 1744995438,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 470215,
+      "num": 470215,
+      "word": "吃不吃冰螺蛳粉",
+      "onboard_time": 1745304983,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 469940,
@@ -16451,6 +16483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 357969,
+      "num": 357969,
+      "word": "不二之臣海报",
+      "onboard_time": 1745309960,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 357846,
       "num": 357846,
       "word": "奚梦瑶爸爸当家录制路透",
@@ -17699,6 +17739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 332074,
+      "num": 233415,
+      "word": "女儿给父亲转53万养老被丈夫起诉",
+      "onboard_time": 1745309782,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 332052,
       "num": 332052,
       "word": "京东优先为骑手对象安排工作",
@@ -18905,6 +18953,14 @@
       "onboard_time": 1744022122,
       "rank": 19,
       "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 309950,
+      "num": 309950,
+      "word": "领衔主演孔雪儿",
+      "onboard_time": 1745310620,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 309828,
@@ -20769,14 +20825,6 @@
       "onboard_time": 1744440622,
       "rank": 14,
       "category": "国内时政,国内时政"
-    },
-    {
-      "raw_hot": 280879,
-      "num": 409362,
-      "word": "哪吒2密钥第3次延期",
-      "onboard_time": 1745306902,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 280807,
@@ -24515,6 +24563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 235697,
+      "num": 235697,
+      "word": "电车界的时髦精CLA",
+      "onboard_time": 1745309481,
+      "rank": 16,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 235679,
       "num": 235679,
       "word": "女子每天吃十几个橙子确诊糖尿病",
@@ -26073,6 +26129,14 @@
       "onboard_time": 1744211607,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 222035,
+      "num": 222035,
+      "word": "榜上佳婿 定档",
+      "onboard_time": 1745310201,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 221911,
@@ -28363,6 +28427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207134,
+      "num": 207134,
+      "word": "金饰克价一夜又大涨43元",
+      "onboard_time": 1745305701,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 207106,
       "num": 207106,
       "word": "梅里雨崩才是徒步者的天堂",
@@ -28961,14 +29033,6 @@
       "onboard_time": 1744182322,
       "rank": 19,
       "category": "财经"
-    },
-    {
-      "raw_hot": 204537,
-      "num": 204537,
-      "word": "吃不吃冰螺蛳粉",
-      "onboard_time": 1745304983,
-      "rank": 34,
-      "category": "美食"
     },
     {
       "raw_hot": 204497,
@@ -31875,6 +31939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193343,
+      "num": 193343,
+      "word": "生命树1",
+      "onboard_time": 1745308221,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193338,
       "num": 193338,
       "word": "HLE对战GEN",
@@ -34217,6 +34289,14 @@
       "onboard_time": 1744759579,
       "rank": 32,
       "category": "网红"
+    },
+    {
+      "raw_hot": 185075,
+      "num": 185075,
+      "word": "小钰为Rookie发声",
+      "onboard_time": 1745308880,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 185057,
@@ -37307,6 +37387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 172265,
+      "num": 234107,
+      "word": "Turbo4Pro电量超大杯",
+      "onboard_time": 1745309600,
+      "rank": 20,
+      "category": "数码"
+    },
+    {
       "raw_hot": 172153,
       "num": 172153,
       "word": "刘亦菲跳拉丁舞",
@@ -37409,6 +37497,14 @@
       "onboard_time": 1744727123,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 171701,
+      "num": 171701,
+      "word": "中国被曝能让全球无人机产业停摆1年",
+      "onboard_time": 1745309960,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 171697,
@@ -39667,6 +39763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162858,
+      "num": 162858,
+      "word": "吴柳芳说妈妈的手术费是贷款交的",
+      "onboard_time": 1745307681,
+      "rank": 38,
+      "category": "网红"
+    },
+    {
       "raw_hot": 162851,
       "num": 162851,
       "word": "张小婉 内向的喜剧演员",
@@ -39713,6 +39817,14 @@
       "onboard_time": 1744609043,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162658,
+      "num": 162658,
+      "word": "小米YU7确认不参加苏州车展",
+      "onboard_time": 1745308641,
+      "rank": 40,
+      "category": "汽车"
     },
     {
       "raw_hot": 162631,
@@ -41987,6 +42099,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 154601,
+      "num": 154601,
+      "word": "小猫去世后变成人在天堂等着主人",
+      "onboard_time": 1745309719,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154588,
       "num": 154588,
       "word": "王鹤棣直播",
@@ -43459,14 +43579,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 149615,
-      "num": 197253,
-      "word": "金饰克价一夜又大涨43元",
-      "onboard_time": 1745305701,
-      "rank": 39,
-      "category": "财经"
-    },
-    {
       "raw_hot": 149597,
       "num": 149597,
       "word": "白鹿杀青人气",
@@ -43849,6 +43961,14 @@
       "onboard_time": 1744272262,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148328,
+      "num": 148328,
+      "word": "霍启刚郭晶晶一家游大同",
+      "onboard_time": 1745307141,
+      "rank": 41,
+      "category": "民生新闻,体育"
     },
     {
       "raw_hot": 148326,
@@ -44715,6 +44835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145519,
+      "num": 145519,
+      "word": "薛之谦剪的MV",
+      "onboard_time": 1745308162,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 145489,
       "num": 286321,
       "word": "特朗普口中的世界第八大奇迹烂尾",
@@ -45531,14 +45659,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 142903,
-      "num": 142903,
-      "word": "霍启刚郭晶晶一家游大同",
-      "onboard_time": 1745307141,
-      "rank": 41,
-      "category": "民生新闻,体育"
-    },
-    {
       "raw_hot": 142822,
       "num": 155228,
       "word": "叶童三公分数",
@@ -45793,6 +45913,14 @@
       "onboard_time": 1745040860,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141856,
+      "num": 218346,
+      "word": "小学生模仿哪吒rap太像了",
+      "onboard_time": 1745310080,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 141837,
@@ -46721,6 +46849,14 @@
       "onboard_time": 1745117662,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 138998,
+      "num": 225683,
+      "word": "国乒参赛名单4人曾与樊振东组团",
+      "onboard_time": 1745306662,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 138973,
@@ -51379,6 +51515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124780,
+      "num": 124780,
+      "word": "无忧渡怎么还有小孩桌",
+      "onboard_time": 1745310562,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124766,
       "num": 182336,
       "word": "陈都灵绝密物料",
@@ -55416,14 +55560,6 @@
       "word": "孙颖莎王曼昱登台抽签",
       "onboard_time": 1744530681,
       "rank": 43,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 109464,
-      "num": 109464,
-      "word": "国乒参赛名单4人曾与樊振东组团",
-      "onboard_time": 1745306662,
-      "rank": 47,
       "category": "体育"
     },
     {
@@ -65659,6 +65795,14 @@
       "category": "互联网,情感"
     },
     {
+      "raw_hot": 50755,
+      "num": 235470,
+      "word": "郑敬淏说崔秀英是演戏之外生活的重心",
+      "onboard_time": 1745306120,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 50735,
       "num": 167948,
       "word": "全球经济动荡下金价还要疯多久",
@@ -66649,6 +66793,14 @@
       "onboard_time": 1744614023,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 45616,
+      "num": 235008,
+      "word": "幼儿入园干体力活或成鸡娃新方向",
+      "onboard_time": 1745309600,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45606,
@@ -69435,6 +69587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32719,
+      "num": 216828,
+      "word": "房东收数千元学位授权签字费",
+      "onboard_time": 1745310620,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32712,
       "num": 188273,
       "word": "热播剧被切条传播判侵权",
@@ -70265,6 +70425,14 @@
       "onboard_time": 1744964480,
       "rank": 39,
       "category": "情感,民生新闻"
+    },
+    {
+      "raw_hot": 28487,
+      "num": 234678,
+      "word": "deepseek的信息归集准确率有多高",
+      "onboard_time": 1745310080,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 28472,
@@ -73089,6 +73257,14 @@
       "onboard_time": 1745307440,
       "rank": 39,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 17329,
+      "num": 162675,
+      "word": "19世纪贸易拉爆美国内战",
+      "onboard_time": 1745309960,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 17229,

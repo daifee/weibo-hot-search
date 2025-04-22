@@ -1,0 +1,410 @@
+{
+  "runTime": 1745310761900,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1991281,
+        "num": 1991281,
+        "word": "聋哑女生因长相太完美被质疑",
+        "onboard_time": 1745298082,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1240206,
+        "num": 1240206,
+        "word": "李刚被逮捕",
+        "onboard_time": 1745290641,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 11136,
+        "num": 944165,
+        "word": "超高清走入千家万户",
+        "onboard_time": 1745291480,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 901536,
+        "num": 901536,
+        "word": "张凌赫田曦薇没有杀青合影",
+        "onboard_time": 1745305161,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 861784,
+        "num": 861784,
+        "word": "哪吒2密钥第3次延期",
+        "onboard_time": 1745306902,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 578387,
+        "num": 578387,
+        "word": "爱奇艺改logo",
+        "onboard_time": 1745301802,
+        "rank": 5,
+        "category": "互联网,剧集"
+      },
+      {
+        "raw_hot": 568618,
+        "num": 568618,
+        "word": "结婚1年半离婚35万彩礼账单判还6万",
+        "onboard_time": 1745299163,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 534100,
+        "num": 534100,
+        "word": "华表奖名单",
+        "onboard_time": 1745307861,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 470215,
+        "num": 470215,
+        "word": "吃不吃冰螺蛳粉",
+        "onboard_time": 1745304983,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 418148,
+        "num": 418148,
+        "word": "杨毅说过去三大赛无冠不可能当世一",
+        "onboard_time": 1745305161,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1051510,
+        "num": 410900,
+        "word": "京东外卖回应爆单",
+        "onboard_time": 1745308462,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 496463,
+        "num": 406928,
+        "word": "刘强东和外卖骑手喝酒被赞接地气",
+        "onboard_time": 1745304201,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 445159,
+        "num": 402495,
+        "word": "特朗普要求日本进口美国大米和牛肉",
+        "onboard_time": 1745293523,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 395470,
+        "num": 395470,
+        "word": "金饰克价已涨到1082元",
+        "onboard_time": 1745301443,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 357969,
+        "num": 357969,
+        "word": "不二之臣海报",
+        "onboard_time": 1745309960,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 309950,
+        "num": 309950,
+        "word": "领衔主演孔雪儿",
+        "onboard_time": 1745310620,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235697,
+        "num": 235697,
+        "word": "电车界的时髦精CLA",
+        "onboard_time": 1745309481,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 50755,
+        "num": 235470,
+        "word": "郑敬淏说崔秀英是演戏之外生活的重心",
+        "onboard_time": 1745306120,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45616,
+        "num": 235008,
+        "word": "幼儿入园干体力活或成鸡娃新方向",
+        "onboard_time": 1745309600,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28487,
+        "num": 234678,
+        "word": "deepseek的信息归集准确率有多高",
+        "onboard_time": 1745310080,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 172265,
+        "num": 234107,
+        "word": "Turbo4Pro电量超大杯",
+        "onboard_time": 1745309600,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 332074,
+        "num": 233415,
+        "word": "女儿给父亲转53万养老被丈夫起诉",
+        "onboard_time": 1745309782,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 303999,
+        "num": 233010,
+        "word": "这居然是孟佳",
+        "onboard_time": 1745298503,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232855,
+        "num": 232855,
+        "word": "迪丽热巴开推花仙子造型",
+        "onboard_time": 1745297784,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138998,
+        "num": 225683,
+        "word": "国乒参赛名单4人曾与樊振东组团",
+        "onboard_time": 1745306662,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222035,
+        "num": 222035,
+        "word": "榜上佳婿 定档",
+        "onboard_time": 1745310201,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209074,
+        "num": 221814,
+        "word": "王嘉尔说捐款不需要广而告之",
+        "onboard_time": 1745303242,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141856,
+        "num": 218346,
+        "word": "小学生模仿哪吒rap太像了",
+        "onboard_time": 1745310080,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 32719,
+        "num": 216828,
+        "word": "房东收数千元学位授权签字费",
+        "onboard_time": 1745310620,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246817,
+        "num": 215627,
+        "word": "可口可乐笑了百事可乐哭了",
+        "onboard_time": 1745290280,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 509474,
+        "num": 212426,
+        "word": "京东外卖崩了",
+        "onboard_time": 1745298264,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 211751,
+        "num": 211751,
+        "word": "人大物理系高材生做轻食月入千万",
+        "onboard_time": 1745296704,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207134,
+        "num": 207134,
+        "word": "金饰克价一夜又大涨43元",
+        "onboard_time": 1745305701,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 193343,
+        "num": 193343,
+        "word": "生命树1",
+        "onboard_time": 1745308221,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185075,
+        "num": 185075,
+        "word": "小钰为Rookie发声",
+        "onboard_time": 1745308880,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 181934,
+        "num": 181934,
+        "word": "逐玉首发预告",
+        "onboard_time": 1745306782,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116286,
+        "num": 175189,
+        "word": "泼汽油男子称女生报警激怒了他",
+        "onboard_time": 1745304081,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171701,
+        "num": 171701,
+        "word": "中国被曝能让全球无人机产业停摆1年",
+        "onboard_time": 1745309960,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 162858,
+        "num": 162858,
+        "word": "吴柳芳说妈妈的手术费是贷款交的",
+        "onboard_time": 1745307681,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 17329,
+        "num": 162675,
+        "word": "19世纪贸易拉爆美国内战",
+        "onboard_time": 1745309960,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 162658,
+        "num": 162658,
+        "word": "小米YU7确认不参加苏州车展",
+        "onboard_time": 1745308641,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 161670,
+        "num": 161670,
+        "word": "北京地铁挺身而出的女孩父母发声",
+        "onboard_time": 1745303123,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158525,
+        "num": 158525,
+        "word": "金价",
+        "onboard_time": 1745289740,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 154601,
+        "num": 154601,
+        "word": "小猫去世后变成人在天堂等着主人",
+        "onboard_time": 1745309719,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148328,
+        "num": 148328,
+        "word": "霍启刚郭晶晶一家游大同",
+        "onboard_time": 1745307141,
+        "rank": 44,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 145519,
+        "num": 145519,
+        "word": "薛之谦剪的MV",
+        "onboard_time": 1745308162,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 130967,
+        "num": 130967,
+        "word": "哪吒2重回日冠",
+        "onboard_time": 1745305041,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127926,
+        "num": 127926,
+        "word": "瑶大耳狗之梦皮肤",
+        "onboard_time": 1745305161,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125063,
+        "num": 125063,
+        "word": "人民海军76周年生日快乐",
+        "onboard_time": 1745305161,
+        "rank": 48,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 124780,
+        "num": 124780,
+        "word": "无忧渡怎么还有小孩桌",
+        "onboard_time": 1745310562,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#这些称呼体现中国同周边国家的浓浓情谊#"
+    }
+  }
+}
