@@ -1,6 +1,6 @@
 {
   "startTime": 1745253028487,
-  "endTime": 1745317612989,
+  "endTime": 1745318637929,
   "band_list": [
     {
       "raw_hot": 10072261,
@@ -115,6 +115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1123791,
+      "num": 439361,
+      "word": "关税",
+      "onboard_time": 1745315181,
+      "rank": 10,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1021751,
       "num": 1021751,
       "word": "张凌赫田曦薇没有杀青合影",
@@ -153,14 +161,6 @@
       "onboard_time": 1745285061,
       "rank": 13,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 975598,
-      "num": 439361,
-      "word": "关税",
-      "onboard_time": 1745315181,
-      "rank": 10,
-      "category": "国际时政"
     },
     {
       "raw_hot": 932222,
@@ -241,6 +241,14 @@
       "onboard_time": 1745285481,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 694997,
+      "num": 396895,
+      "word": "男子半月两次欲强奸女邻居未遂判刑",
+      "onboard_time": 1745316681,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 688275,
@@ -353,6 +361,14 @@
       "onboard_time": 1745307861,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 530421,
+      "num": 284444,
+      "word": "赵丽颖我真没空陪你闹了",
+      "onboard_time": 1745317401,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 524125,
@@ -491,8 +507,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 382074,
-      "num": 382074,
+      "raw_hot": 383896,
+      "num": 383896,
       "word": "日方炒作中国社会治安形势不佳",
       "onboard_time": 1745314462,
       "rank": 34,
@@ -667,20 +683,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 287336,
+      "num": 287336,
+      "word": "万人请辞哈利波特魔法觉醒策划",
+      "onboard_time": 1745317342,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 278779,
       "num": 278779,
       "word": "刘强东请兄弟喝酒喜欢大杯举起来",
       "onboard_time": 1745314221,
       "rank": 23,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 278771,
-      "num": 278770,
-      "word": "万人请辞哈利波特魔法觉醒策划",
-      "onboard_time": 1745317342,
-      "rank": 32,
-      "category": "游戏"
     },
     {
       "raw_hot": 278679,
@@ -851,6 +867,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 230102,
+      "num": 417233,
+      "word": "女孩遭前男友烧伤致残案3大争议点",
+      "onboard_time": 1745316321,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 226206,
       "num": 211052,
       "word": "鸿星尔克 于适",
@@ -913,6 +937,14 @@
       "onboard_time": 1745298203,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 211911,
+      "num": 285143,
+      "word": "新娘回应婚礼不搞仪式直接开席",
+      "onboard_time": 1745315961,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 211236,
@@ -995,6 +1027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 196495,
+      "num": 196495,
+      "word": "七根心简下证",
+      "onboard_time": 1745317941,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195844,
       "num": 195844,
       "word": "石破茂称日本不打算对美唯命是从",
@@ -1019,6 +1059,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 194436,
+      "num": 194436,
+      "word": "宋祖儿剧宣的世界发展成这样了吗",
+      "onboard_time": 1745317342,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 193725,
+      "num": 193725,
+      "word": "许凯95生有效播放第一",
+      "onboard_time": 1745318061,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193343,
       "num": 262507,
       "word": "生命树1",
@@ -1033,14 +1089,6 @@
       "onboard_time": 1745306662,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 191877,
-      "num": 191877,
-      "word": "新娘回应婚礼不搞仪式直接开席",
-      "onboard_time": 1745315961,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 190594,
@@ -1112,14 +1160,6 @@
       "word": "薇诺娜 张康乐",
       "onboard_time": 1745299642,
       "rank": 23,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 186552,
-      "num": 186552,
-      "word": "赵丽颖我真没空陪你闹了",
-      "onboard_time": 1745317401,
-      "rank": 36,
       "category": "艺人"
     },
     {
@@ -1209,6 +1249,14 @@
       "onboard_time": 1745223021,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 174076,
+      "num": 174076,
+      "word": "陈都灵杭州",
+      "onboard_time": 1745318001,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 173255,
@@ -1419,6 +1467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154596,
+      "num": 154596,
+      "word": "高盛称年底金价或涨到3700美元",
+      "onboard_time": 1745316140,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 154176,
       "num": 154176,
       "word": "于适谈影视文旅联动",
@@ -1603,6 +1659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139910,
+      "num": 139910,
+      "word": "减肥多久才不容易复胖",
+      "onboard_time": 1745318542,
+      "rank": 44,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 139207,
       "num": 139207,
       "word": "黄金疯涨年轻人贷款炒金",
@@ -1681,14 +1745,6 @@
       "onboard_time": 1745242463,
       "rank": 23,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 136708,
-      "num": 136708,
-      "word": "高盛称年底金价或涨到3700美元",
-      "onboard_time": 1745316140,
-      "rank": 46,
-      "category": "财经"
     },
     {
       "raw_hot": 136621,
@@ -1779,6 +1835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129596,
+      "num": 129596,
+      "word": "这么多年宋祖儿混天绫用的还是那么溜",
+      "onboard_time": 1745318363,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127918,
       "num": 127918,
       "word": "黄子佼再被查出持有非法影片",
@@ -1793,6 +1857,14 @@
       "onboard_time": 1745300602,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127588,
+      "num": 127588,
+      "word": "美国胁迫他国与中国脱钩频被拒",
+      "onboard_time": 1745318302,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 126656,
@@ -1819,12 +1891,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 125237,
-      "num": 125237,
-      "word": "宋祖儿剧宣的世界发展成这样了吗",
-      "onboard_time": 1745317342,
+      "raw_hot": 125435,
+      "num": 156901,
+      "word": "金饰价格涨破1100元",
+      "onboard_time": 1745315122,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 125184,
+      "num": 125184,
+      "word": "王者元流之子射手上线",
+      "onboard_time": 1745318602,
       "rank": 49,
-      "category": "剧集"
+      "category": "游戏"
     },
     {
       "raw_hot": 124038,
@@ -1939,14 +2019,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 104146,
-      "num": 396895,
-      "word": "男子半月两次欲强奸女邻居未遂判刑",
-      "onboard_time": 1745316681,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 104139,
       "num": 104139,
       "word": "亚瑟布丁狗之誓爆料",
@@ -1971,12 +2043,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102509,
+      "num": 440821,
+      "word": "央视起底假高富帅直播求打赏新骗局",
+      "onboard_time": 1745316622,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 99957,
       "num": 99957,
       "word": "肖指导回应世乒赛混双名单",
       "onboard_time": 1745248823,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99654,
+      "num": 332913,
+      "word": "林俊杰晒照给父亲庆生",
+      "onboard_time": 1745315362,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 95398,
@@ -1993,14 +2081,6 @@
       "onboard_time": 1745245764,
       "rank": 46,
       "category": "财经"
-    },
-    {
-      "raw_hot": 93344,
-      "num": 332913,
-      "word": "林俊杰晒照给父亲庆生",
-      "onboard_time": 1745315362,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 93254,
@@ -2307,14 +2387,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 61059,
-      "num": 440821,
-      "word": "央视起底假高富帅直播求打赏新骗局",
-      "onboard_time": 1745316622,
-      "rank": 9,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 60269,
       "num": 60269,
       "word": "孙恩盛直播",
@@ -2491,14 +2563,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 48376,
-      "num": 417233,
-      "word": "女孩遭前男友烧伤致残案3大争议点",
-      "onboard_time": 1745316321,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 46184,
       "num": 264855,
       "word": "谷爱凌说身体好多了",
@@ -2539,6 +2603,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 42375,
+      "num": 301908,
+      "word": "HPV疫苗男女共防时代来临",
+      "onboard_time": 1745316441,
+      "rank": 27,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 41215,
       "num": 373162,
       "word": "如何不加剧内耗",
@@ -2563,20 +2635,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 38887,
+      "num": 285561,
+      "word": "酒店保洁随身带假币调包住客现金",
+      "onboard_time": 1745317401,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38230,
       "num": 38230,
       "word": "网站泄密近百条原神内容被判赔33万",
       "onboard_time": 1745255537,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 37386,
-      "num": 301908,
-      "word": "HPV疫苗男女共防时代来临",
-      "onboard_time": 1745316441,
-      "rank": 27,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 37286,
@@ -2771,6 +2843,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 20820,
+      "num": 291449,
+      "word": "被烫伤后在现场该如何应急处理",
+      "onboard_time": 1745317342,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 20554,
       "num": 171339,
       "word": "高中生打HPV疫苗这账怎么算都不亏",
@@ -2883,14 +2963,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 14781,
-      "num": 278771,
-      "word": "酒店保洁随身带假币调包住客现金",
-      "onboard_time": 1745317401,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 14278,
       "num": 835586,
       "word": "何以中国走进福建",
@@ -2923,20 +2995,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 11621,
+      "num": 182611,
+      "word": "薛之谦剪的念MV有什么意义",
+      "onboard_time": 1745318481,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 11293,
       "num": 84720,
       "word": "一代人有一代人的动物世界",
       "onboard_time": 1745253380,
       "rank": 39,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 11054,
-      "num": 291449,
-      "word": "被烫伤后在现场该如何应急处理",
-      "onboard_time": 1745317342,
-      "rank": 28,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 10359,
@@ -2961,6 +3033,14 @@
       "onboard_time": 1745317281,
       "rank": 39,
       "category": "美妆,民生新闻"
+    },
+    {
+      "raw_hot": 3531,
+      "num": 750568,
+      "word": "那些你不知道的北京地儿",
+      "onboard_time": 1745196324,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
@@ -2972,6 +3052,9 @@
     },
     {
       "word": "#这些称呼体现中国同周边国家的浓浓情谊#"
+    },
+    {
+      "word": "#文明因交流而多彩因互鉴而丰富#"
     }
   ]
 }

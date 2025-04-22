@@ -1,0 +1,410 @@
+{
+  "runTime": 1745318637929,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1411444,
+        "num": 1411444,
+        "word": "聋哑女生因长相太完美被质疑",
+        "onboard_time": 1745298082,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 984182,
+        "num": 984182,
+        "word": "中国被曝能让全球无人机产业停摆1年",
+        "onboard_time": 1745309960,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 3531,
+        "num": 750568,
+        "word": "那些你不知道的北京地儿",
+        "onboard_time": 1745196324,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 690954,
+        "num": 690954,
+        "word": "李刚被逮捕",
+        "onboard_time": 1745290641,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 542314,
+        "num": 542314,
+        "word": "结婚1年半离婚35万彩礼账单判还6万",
+        "onboard_time": 1745299163,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 529292,
+        "num": 529292,
+        "word": "领衔主演孔雪儿",
+        "onboard_time": 1745310620,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 383896,
+        "num": 383896,
+        "word": "日方炒作中国社会治安形势不佳",
+        "onboard_time": 1745314462,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 381808,
+        "num": 381808,
+        "word": "男子讨喜钱掰断劳斯莱斯小金人",
+        "onboard_time": 1745312720,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 343191,
+        "num": 343191,
+        "word": "张凌赫田曦薇没有杀青合影",
+        "onboard_time": 1745305161,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 287336,
+        "num": 287336,
+        "word": "万人请辞哈利波特魔法觉醒策划",
+        "onboard_time": 1745317342,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1123791,
+        "num": 286976,
+        "word": "关税",
+        "onboard_time": 1745315181,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 694997,
+        "num": 286542,
+        "word": "男子半月两次欲强奸女邻居未遂判刑",
+        "onboard_time": 1745316681,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 676481,
+        "num": 286493,
+        "word": "京东外卖",
+        "onboard_time": 1745312362,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 612203,
+        "num": 285993,
+        "word": "曝郑中基余思敏已决定离婚",
+        "onboard_time": 1745315901,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38887,
+        "num": 285561,
+        "word": "酒店保洁随身带假币调包住客现金",
+        "onboard_time": 1745317401,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211911,
+        "num": 285143,
+        "word": "新娘回应婚礼不搞仪式直接开席",
+        "onboard_time": 1745315961,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 534698,
+        "num": 284799,
+        "word": "虞书欣丞磊 二搭",
+        "onboard_time": 1745314280,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 530421,
+        "num": 284444,
+        "word": "赵丽颖我真没空陪你闹了",
+        "onboard_time": 1745317401,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284098,
+        "num": 284098,
+        "word": "哪吒2密钥第3次延期",
+        "onboard_time": 1745306902,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 204729,
+        "num": 277527,
+        "word": "华表奖名单",
+        "onboard_time": 1745307861,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 402392,
+        "num": 275607,
+        "word": "京东外卖回应爆单",
+        "onboard_time": 1745308462,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 286941,
+        "num": 275053,
+        "word": "碧然德 孙颖莎",
+        "onboard_time": 1745314762,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 272969,
+        "num": 272969,
+        "word": "女儿给父亲转53万养老被丈夫起诉",
+        "onboard_time": 1745309782,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264651,
+        "num": 264651,
+        "word": "爱奇艺改logo",
+        "onboard_time": 1745301802,
+        "rank": 23,
+        "category": "互联网,剧集"
+      },
+      {
+        "raw_hot": 230102,
+        "num": 230102,
+        "word": "女孩遭前男友烧伤致残案3大争议点",
+        "onboard_time": 1745316321,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42375,
+        "num": 197401,
+        "word": "HPV疫苗男女共防时代来临",
+        "onboard_time": 1745316441,
+        "rank": 25,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 196495,
+        "num": 196495,
+        "word": "七根心简下证",
+        "onboard_time": 1745317941,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194436,
+        "num": 194436,
+        "word": "宋祖儿剧宣的世界发展成这样了吗",
+        "onboard_time": 1745317342,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193725,
+        "num": 193725,
+        "word": "许凯95生有效播放第一",
+        "onboard_time": 1745318061,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185638,
+        "num": 185638,
+        "word": "不二之臣海报",
+        "onboard_time": 1745309960,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11621,
+        "num": 182611,
+        "word": "薛之谦剪的念MV有什么意义",
+        "onboard_time": 1745318481,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 200136,
+        "num": 182174,
+        "word": "京东外卖崩了",
+        "onboard_time": 1745298264,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 181661,
+        "num": 181661,
+        "word": "刘强东请兄弟喝酒喜欢大杯举起来",
+        "onboard_time": 1745314221,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 174076,
+        "num": 174076,
+        "word": "陈都灵杭州",
+        "onboard_time": 1745318001,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165423,
+        "num": 165423,
+        "word": "我杀猪养你啊",
+        "onboard_time": 1745315241,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163647,
+        "num": 163647,
+        "word": "曝iPhone17Pro引入天空蓝配色",
+        "onboard_time": 1745314762,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 102509,
+        "num": 159543,
+        "word": "央视起底假高富帅直播求打赏新骗局",
+        "onboard_time": 1745316622,
+        "rank": 36,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 125435,
+        "num": 156901,
+        "word": "金饰价格涨破1100元",
+        "onboard_time": 1745315122,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 20820,
+        "num": 156453,
+        "word": "被烫伤后在现场该如何应急处理",
+        "onboard_time": 1745317342,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 156361,
+        "num": 156361,
+        "word": "不二之臣 双强",
+        "onboard_time": 1745312062,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154596,
+        "num": 154596,
+        "word": "高盛称年底金价或涨到3700美元",
+        "onboard_time": 1745316140,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 99654,
+        "num": 148514,
+        "word": "林俊杰晒照给父亲庆生",
+        "onboard_time": 1745315362,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145342,
+        "num": 145342,
+        "word": "孙俪不接委屈自己的角色",
+        "onboard_time": 1745315901,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140874,
+        "num": 140874,
+        "word": "特朗普要求日本进口美国大米和牛肉",
+        "onboard_time": 1745293523,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 139910,
+        "num": 139910,
+        "word": "减肥多久才不容易复胖",
+        "onboard_time": 1745318542,
+        "rank": 44,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 138379,
+        "num": 138379,
+        "word": "吃不吃冰螺蛳粉",
+        "onboard_time": 1745304983,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 130824,
+        "num": 130824,
+        "word": "李煜东开通微博",
+        "onboard_time": 1745317222,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129596,
+        "num": 129596,
+        "word": "这么多年宋祖儿混天绫用的还是那么溜",
+        "onboard_time": 1745318363,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127588,
+        "num": 127588,
+        "word": "美国胁迫他国与中国脱钩频被拒",
+        "onboard_time": 1745318302,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 125184,
+        "num": 125184,
+        "word": "王者元流之子射手上线",
+        "onboard_time": 1745318602,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#文明因交流而多彩因互鉴而丰富#"
+    }
+  }
+}
