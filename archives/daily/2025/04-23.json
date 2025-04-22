@@ -1,6 +1,6 @@
 {
   "startTime": 1745339463299,
-  "endTime": 1745342565692,
+  "endTime": 1745343628579,
   "band_list": [
     {
       "raw_hot": 1506699,
@@ -219,7 +219,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 123019,
+      "raw_hot": 131168,
       "num": 200383,
       "word": "被烧伤女孩回应前男友当庭道歉",
       "onboard_time": 1745339599,
@@ -427,6 +427,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 41319,
+      "num": 41319,
+      "word": "迪丽热巴元气美少女",
+      "onboard_time": 1745342656,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 37134,
       "num": 83087,
       "word": "人民海军成立七十六周年",
@@ -443,12 +451,36 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 27702,
+      "raw_hot": 32917,
+      "num": 32917,
+      "word": "当事人回应造城者剧组欠薪4个月",
+      "onboard_time": 1745343256,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 29432,
       "num": 53877,
       "word": "太空视角看地球每一帧都震撼",
       "onboard_time": 1745340798,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 28758,
+      "num": 31826,
+      "word": "翁东华卸任文和友小龙虾公司董事",
+      "onboard_time": 1745340737,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22857,
+      "num": 72784,
+      "word": "被医生错切右膝体育生称未来被打乱",
+      "onboard_time": 1745343196,
+      "rank": 18,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

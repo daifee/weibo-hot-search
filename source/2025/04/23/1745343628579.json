@@ -1,0 +1,402 @@
+{
+  "runTime": 1745343628579,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 565327,
+        "num": 565327,
+        "word": "仅退款",
+        "onboard_time": 1745321421,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 484721,
+        "num": 484721,
+        "word": "微信加好友能加图片备注了",
+        "onboard_time": 1745334204,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 323915,
+        "num": 323915,
+        "word": "被质疑长相听障女生称微调过几处",
+        "onboard_time": 1745332822,
+        "rank": 3,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 243736,
+        "num": 243736,
+        "word": "洛阳文旅确认白马寺内为狄仁杰墓",
+        "onboard_time": 1745333062,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142709,
+        "num": 142709,
+        "word": "哪吒2离全球影史第4还差7亿票房",
+        "onboard_time": 1745335703,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137451,
+        "num": 137451,
+        "word": "金价暴涨预示市场正经历根本性转变",
+        "onboard_time": 1745326641,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 131168,
+        "num": 131168,
+        "word": "被烧伤女孩回应前男友当庭道歉",
+        "onboard_time": 1745339599,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118673,
+        "num": 118673,
+        "word": "黄金",
+        "onboard_time": 1745330663,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 88946,
+        "num": 88946,
+        "word": "电商平台全面取消仅退款",
+        "onboard_time": 1745318964,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 158892,
+        "num": 88434,
+        "word": "永野芽郁 田中圭",
+        "onboard_time": 1745331743,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124572,
+        "num": 85117,
+        "word": "孙恩盛 快回家",
+        "onboard_time": 1745335402,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120813,
+        "num": 82304,
+        "word": "赵丽颖我真没空陪你闹了",
+        "onboard_time": 1745317401,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112752,
+        "num": 80466,
+        "word": "小黄豆晒合照",
+        "onboard_time": 1745334863,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 59575,
+        "num": 77671,
+        "word": "赵丽颖造城者剧组被曝欠薪数月",
+        "onboard_time": 1745332282,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92499,
+        "num": 75565,
+        "word": "K总婚礼",
+        "onboard_time": 1745320821,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 74758,
+        "num": 74758,
+        "word": "京东外卖",
+        "onboard_time": 1745312362,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 59400,
+        "num": 73478,
+        "word": "无忧渡播出 陈奕恒都长大了",
+        "onboard_time": 1745324121,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22857,
+        "num": 72784,
+        "word": "被医生错切右膝体育生称未来被打乱",
+        "onboard_time": 1745343196,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53793,
+        "num": 72683,
+        "word": "林彦俊 见面会",
+        "onboard_time": 1745327721,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72679,
+        "num": 72679,
+        "word": "男子半月两次欲强奸女邻居未遂判刑",
+        "onboard_time": 1745316681,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69815,
+        "num": 69815,
+        "word": "金钟国做医美",
+        "onboard_time": 1745328681,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67287,
+        "num": 67287,
+        "word": "女子称31岁丈夫拔牙后离世",
+        "onboard_time": 1745329403,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60254,
+        "num": 60254,
+        "word": "女子剖腹产9个月后抽出10cm手术线",
+        "onboard_time": 1745329102,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52750,
+        "num": 52750,
+        "word": "徐锦江因儿子离家拍戏嚎啕大哭",
+        "onboard_time": 1745328142,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49127,
+        "num": 49127,
+        "word": "美18万亿消费神话是刷出来的",
+        "onboard_time": 1745332642,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 48019,
+        "num": 48019,
+        "word": "王嘉尔泰国聊水很深",
+        "onboard_time": 1745330482,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43930,
+        "num": 45547,
+        "word": "孟子义百花杀翡翠发簪造型",
+        "onboard_time": 1745337681,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43866,
+        "num": 45365,
+        "word": "刘涛拜妈祖",
+        "onboard_time": 1745328383,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43337,
+        "num": 45344,
+        "word": "梁田破碎感",
+        "onboard_time": 1745334022,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45340,
+        "num": 45340,
+        "word": "广西大部气象干旱已达特旱级别",
+        "onboard_time": 1745335822,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43293,
+        "num": 43293,
+        "word": "坐火车托运猫咪18小时后等来空箱",
+        "onboard_time": 1745334204,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41319,
+        "num": 41319,
+        "word": "迪丽热巴元气美少女",
+        "onboard_time": 1745342656,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40256,
+        "num": 40256,
+        "word": "乒乓球运动员联合会成立",
+        "onboard_time": 1745327902,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39959,
+        "num": 39959,
+        "word": "疑似田中圭永野芽郁同居被拍",
+        "onboard_time": 1745337141,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39832,
+        "num": 39832,
+        "word": "龙丹妮觉得赵露思是天选桑稚",
+        "onboard_time": 1745319981,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37682,
+        "num": 37682,
+        "word": "60斤和110斤交换饮食的一天",
+        "onboard_time": 1745333843,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 36688,
+        "num": 36688,
+        "word": "聋哑女生因长相太完美被质疑",
+        "onboard_time": 1745298082,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34522,
+        "num": 34522,
+        "word": "雷神加速器",
+        "onboard_time": 1745341397,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 34332,
+        "num": 34332,
+        "word": "樊振东曾说希望更圆满的永远是下一个比赛",
+        "onboard_time": 1745334204,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34146,
+        "num": 34146,
+        "word": "华表奖",
+        "onboard_time": 1745328383,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 33012,
+        "num": 33012,
+        "word": "李昊直播",
+        "onboard_time": 1745326401,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32917,
+        "num": 32917,
+        "word": "当事人回应造城者剧组欠薪4个月",
+        "onboard_time": 1745343256,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32056,
+        "num": 32056,
+        "word": "刑警追凶23年现实版我是刑警",
+        "onboard_time": 1745337621,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31836,
+        "num": 31836,
+        "word": "人民海军成立七十六周年",
+        "onboard_time": 1745341038,
+        "rank": 44,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 30997,
+        "num": 31831,
+        "word": "光与夜之恋 5v1",
+        "onboard_time": 1745333303,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 29432,
+        "num": 31826,
+        "word": "太空视角看地球每一帧都震撼",
+        "onboard_time": 1745340798,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 28758,
+        "num": 31826,
+        "word": "翁东华卸任文和友小龙虾公司董事",
+        "onboard_time": 1745340737,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28689,
+        "num": 31816,
+        "word": "这么多年宋祖儿混天绫用的还是那么溜",
+        "onboard_time": 1745318363,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28553,
+        "num": 31815,
+        "word": "王楚钦假期陪爸妈逛动物园",
+        "onboard_time": 1745329522,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#文明因交流而多彩因互鉴而丰富#"
+    }
+  }
+}
