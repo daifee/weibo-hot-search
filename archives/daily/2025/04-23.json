@@ -1,6 +1,6 @@
 {
   "startTime": 1745339463299,
-  "endTime": 1745360637083,
+  "endTime": 1745361723906,
   "band_list": [
     {
       "raw_hot": 1506699,
@@ -35,20 +35,20 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 632962,
+      "num": 632962,
+      "word": "特朗普上任之前中国已经早有布局",
+      "onboard_time": 1745343975,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 489759,
       "num": 201237,
       "word": "孙恩盛 快回家",
       "onboard_time": 1745335402,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 458182,
-      "num": 458182,
-      "word": "特朗普上任之前中国已经早有布局",
-      "onboard_time": 1745343975,
-      "rank": 1,
-      "category": "国际时政"
     },
     {
       "raw_hot": 400398,
@@ -89,6 +89,14 @@
       "onboard_time": 1745335703,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 238682,
+      "num": 238682,
+      "word": "美股市场已成爆炸区",
+      "onboard_time": 1745359755,
+      "rank": 7,
+      "category": "财经"
     },
     {
       "raw_hot": 234761,
@@ -172,7 +180,7 @@
     },
     {
       "raw_hot": 150481,
-      "num": 169726,
+      "num": 186628,
       "word": "徐锦江因儿子离家拍戏嚎啕大哭",
       "onboard_time": 1745328142,
       "rank": 18,
@@ -185,6 +193,14 @@
       "onboard_time": 1745337141,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 147023,
+      "num": 147023,
+      "word": "被医生错切右膝体育生称未来被打乱",
+      "onboard_time": 1745343196,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 146819,
@@ -219,14 +235,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 132417,
-      "num": 132417,
-      "word": "美股市场已成爆炸区",
-      "onboard_time": 1745359755,
-      "rank": 7,
-      "category": "财经"
-    },
-    {
       "raw_hot": 131917,
       "num": 131917,
       "word": "女子剖腹产9个月后抽出10cm手术线",
@@ -240,14 +248,6 @@
       "word": "被烧伤女孩回应前男友当庭道歉",
       "onboard_time": 1745339599,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 128586,
-      "num": 128586,
-      "word": "被医生错切右膝体育生称未来被打乱",
-      "onboard_time": 1745343196,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -411,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 54640,
+      "num": 45307,
+      "word": "海军舰舰舰舰舰已就位",
+      "onboard_time": 1745344217,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 52634,
       "num": 61482,
       "word": "车展方称努力争取后YU7还是遗憾缺席",
@@ -419,20 +427,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 52366,
+      "num": 61477,
+      "word": "湖南卫视连发20条夏之光",
+      "onboard_time": 1745337741,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 50517,
       "num": 167847,
       "word": "刑警追凶23年现实版我是刑警",
       "onboard_time": 1745337621,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 50321,
-      "num": 61477,
-      "word": "湖南卫视连发20条夏之光",
-      "onboard_time": 1745337741,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 49829,
@@ -475,12 +483,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 38029,
-      "num": 34287,
+      "raw_hot": 38166,
+      "num": 34806,
       "word": "刘强东请吃火锅说没有规矩想喝就喝",
       "onboard_time": 1745352734,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 37394,
+      "num": 37394,
+      "word": "成毅下部戏是沧海笑",
+      "onboard_time": 1745359695,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 37134,
@@ -507,12 +523,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 32359,
-      "num": 31692,
-      "word": "海军舰舰舰舰舰已就位",
-      "onboard_time": 1745344217,
-      "rank": 34,
-      "category": "国内时政"
+      "raw_hot": 32486,
+      "num": 32486,
+      "word": "卤鸭店老板拒售变质鸭视频下架",
+      "onboard_time": 1745354954,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29926,
+      "num": 29926,
+      "word": "借命而生",
+      "onboard_time": 1745335222,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 29859,
+      "num": 54254,
+      "word": "美国希望与俄乌本周达成协议",
+      "onboard_time": 1745347634,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 29432,
@@ -531,56 +563,24 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 28563,
-      "num": 28563,
-      "word": "卤鸭店老板拒售变质鸭视频下架",
-      "onboard_time": 1745354954,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 25684,
-      "num": 25684,
-      "word": "借命而生",
-      "onboard_time": 1745335222,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 24693,
-      "num": 24693,
-      "word": "成毅下部戏是沧海笑",
-      "onboard_time": 1745359695,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 24634,
-      "num": 24634,
+      "raw_hot": 28062,
+      "num": 28062,
       "word": "普京3年来首次向乌发出和谈邀约",
       "onboard_time": 1745350874,
       "rank": 36,
       "category": "国际时政"
     },
     {
-      "raw_hot": 24518,
-      "num": 54254,
-      "word": "美国希望与俄乌本周达成协议",
-      "onboard_time": 1745347634,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 20521,
-      "num": 20795,
+      "raw_hot": 23250,
+      "num": 26442,
       "word": "当地回应39岁网红串哥因病去世",
       "onboard_time": 1745344995,
       "rank": 44,
       "category": "民生新闻,网红"
     },
     {
-      "raw_hot": 19478,
-      "num": 20976,
+      "raw_hot": 22134,
+      "num": 26440,
       "word": "2025十大年度IP评选",
       "onboard_time": 1745343975,
       "rank": 29,
