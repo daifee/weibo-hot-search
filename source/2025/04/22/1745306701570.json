@@ -1,0 +1,410 @@
+{
+  "runTime": 1745306701570,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2132177,
+        "num": 2132177,
+        "word": "聋哑女生因长相太完美被质疑",
+        "onboard_time": 1745298082,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1598731,
+        "num": 1598731,
+        "word": "李刚被逮捕",
+        "onboard_time": 1745290641,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 8701,
+        "num": 1066426,
+        "word": "超高清走入千家万户",
+        "onboard_time": 1745291480,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1021751,
+        "num": 1021751,
+        "word": "张凌赫田曦薇没有杀青合影",
+        "onboard_time": 1745305161,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 932222,
+        "num": 932222,
+        "word": "金饰克价已涨到1082元",
+        "onboard_time": 1745301443,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 908540,
+        "num": 908540,
+        "word": "爱奇艺改logo",
+        "onboard_time": 1745301802,
+        "rank": 5,
+        "category": "互联网,剧集"
+      },
+      {
+        "raw_hot": 688275,
+        "num": 688275,
+        "word": "杨毅说过去三大赛无冠不可能当世一",
+        "onboard_time": 1745305161,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 657703,
+        "num": 657703,
+        "word": "结婚1年半离婚35万彩礼账单判还6万",
+        "onboard_time": 1745299163,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 401919,
+        "num": 401919,
+        "word": "北京地铁挺身而出的女孩父母发声",
+        "onboard_time": 1745303123,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286250,
+        "num": 398529,
+        "word": "哪吒2重回日冠",
+        "onboard_time": 1745305041,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 640615,
+        "num": 394865,
+        "word": "刘强东和外卖骑手喝酒被赞接地气",
+        "onboard_time": 1745304201,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 632522,
+        "num": 389878,
+        "word": "特朗普要求日本进口美国大米和牛肉",
+        "onboard_time": 1745293523,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 324350,
+        "num": 388306,
+        "word": "迪丽热巴开推花仙子造型",
+        "onboard_time": 1745297784,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283578,
+        "num": 385139,
+        "word": "逐玉",
+        "onboard_time": 1745290700,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54442,
+        "num": 377237,
+        "word": "跪地求雨视频摆拍但旱情是真",
+        "onboard_time": 1745305581,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248377,
+        "num": 375761,
+        "word": "王嘉尔说捐款不需要广而告之",
+        "onboard_time": 1745303242,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224578,
+        "num": 372944,
+        "word": "棒棒堂被禁止和黑涩会美眉恋爱",
+        "onboard_time": 1745300602,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72899,
+        "num": 368283,
+        "word": "男女都可以接种九价HPV疫苗了",
+        "onboard_time": 1745304081,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21351,
+        "num": 360857,
+        "word": "情侣共同接种HPV疫苗的意义是什么",
+        "onboard_time": 1745305520,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 48780,
+        "num": 357770,
+        "word": "男子爱看小说想省钱偷走11本书",
+        "onboard_time": 1745305762,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 445755,
+        "num": 355953,
+        "word": "这居然是孟佳",
+        "onboard_time": 1745298503,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 352367,
+        "num": 352367,
+        "word": "刘强东送的外卖不到27元",
+        "onboard_time": 1745289379,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 338530,
+        "num": 338530,
+        "word": "可口可乐笑了百事可乐哭了",
+        "onboard_time": 1745290280,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 211973,
+        "num": 211973,
+        "word": "赵子琪说肖战成功是必然的",
+        "onboard_time": 1745297965,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210493,
+        "num": 210493,
+        "word": "瑶大耳狗之梦皮肤",
+        "onboard_time": 1745305161,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 187077,
+        "num": 207873,
+        "word": "人民海军76周年生日快乐",
+        "onboard_time": 1745305161,
+        "rank": 25,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 165903,
+        "num": 204164,
+        "word": "龙丹妮谈论难哄的选角超乎预期",
+        "onboard_time": 1745305881,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 7100,
+        "num": 199172,
+        "word": "上海车展到极狐汽车看脱口秀",
+        "onboard_time": 1745303364,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 86729,
+        "num": 195579,
+        "word": "装修工记错房号将邻居家砸毁",
+        "onboard_time": 1745305881,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194595,
+        "num": 194595,
+        "word": "无畏的微博快成猫猫日记了",
+        "onboard_time": 1745306181,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 208147,
+        "num": 193977,
+        "word": "人大物理系高材生做轻食月入千万",
+        "onboard_time": 1745296704,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 697585,
+        "num": 193449,
+        "word": "京东外卖崩了",
+        "onboard_time": 1745298264,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 192868,
+        "num": 192868,
+        "word": "E人大爷大妈硬控俄罗斯小伙儿",
+        "onboard_time": 1745306662,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180468,
+        "num": 180468,
+        "word": "泼汽油男子称女生报警激怒了他",
+        "onboard_time": 1745304081,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179617,
+        "num": 179617,
+        "word": "吃不吃冰螺蛳粉",
+        "onboard_time": 1745304983,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 174029,
+        "num": 174029,
+        "word": "K总婚礼嘉宾",
+        "onboard_time": 1745301323,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 164851,
+        "num": 164851,
+        "word": "金价",
+        "onboard_time": 1745289740,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 158146,
+        "num": 158146,
+        "word": "教育部增设29种本科新专业",
+        "onboard_time": 1745289801,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 89066,
+        "num": 134996,
+        "word": "上班只是谋生",
+        "onboard_time": 1745300903,
+        "rank": 38,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 133670,
+        "num": 133670,
+        "word": "金饰克价一夜又大涨43元",
+        "onboard_time": 1745305701,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 130521,
+        "num": 130521,
+        "word": "日本奶奶偷偷塞人民币给我",
+        "onboard_time": 1745304081,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129273,
+        "num": 129273,
+        "word": "星巴克 免费咖啡",
+        "onboard_time": 1745287820,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 124685,
+        "num": 124685,
+        "word": "樊振东仍保持两项世界纪录",
+        "onboard_time": 1745300602,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121600,
+        "num": 121600,
+        "word": "美国土安全部长手提包被偷细节曝光",
+        "onboard_time": 1745302461,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 121034,
+        "num": 121034,
+        "word": "生命树开官博了",
+        "onboard_time": 1745306601,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117914,
+        "num": 117914,
+        "word": "某入境旅客带981株罂粟苗过海关",
+        "onboard_time": 1745304262,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114999,
+        "num": 114999,
+        "word": "小婉说这句话时心里一定在想管乐",
+        "onboard_time": 1745305222,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109464,
+        "num": 109464,
+        "word": "国乒参赛名单4人曾与樊振东组团",
+        "onboard_time": 1745306662,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105293,
+        "num": 105293,
+        "word": "将门毒后短剧开机了",
+        "onboard_time": 1745296825,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104139,
+        "num": 104139,
+        "word": "亚瑟布丁狗之誓爆料",
+        "onboard_time": 1745305222,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#这些称呼体现中国同周边国家的浓浓情谊#"
+    }
+  }
+}

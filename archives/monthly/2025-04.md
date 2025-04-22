@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/22 14:47:55
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/22 15:25:01
 </p>
 </blockquote>
 <p>
@@ -3405,6 +3405,12 @@ IU向雪莉金赛纶推荐同一心理医生（热度：1041446）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%94%B0%E6%9B%A6%E8%96%87%E6%B2%A1%E6%9C%89%E6%9D%80%E9%9D%92%E5%90%88%E5%BD%B1%23" target="weibo">
+张凌赫田曦薇没有杀青合影（热度：1021751）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E9%94%81%E6%8E%A7%23" target="weibo">
 东部战区锁控（热度：1020807）
 </a>
@@ -3887,6 +3893,12 @@ JYP写了中国台湾省（热度：940194）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%9D%AD%E5%B7%9E%E4%B8%80%E7%94%B7%E5%AD%A927%E6%A5%BC%E5%9D%A0%E4%BA%A1%23" target="weibo">
 官方通报杭州一男孩27楼坠亡（热度：933309）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%A5%B0%E5%85%8B%E4%BB%B7%E5%B7%B2%E6%B6%A8%E5%88%B01082%E5%85%83%23" target="weibo">
+金饰克价已涨到1082元（热度：932222）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ TVB男演员陈键锋学厨以第一名毕业（热度：726197）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2327%E5%B2%81%E7%94%B7%E5%AD%90%E5%BD%93%E4%BA%8627%E5%B9%B4%E9%BB%91%E6%88%B7%23" target="weibo">
 27岁男子当了27年黑户（热度：688859）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%92%9F%E4%B8%BD%E4%B8%BD%E6%81%8B%E6%83%85%23" target="weibo">
-钟丽丽恋情（热度：688590）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%A0%94%E6%80%8E%E4%B9%88%E4%BA%86%23" target="weibo">
-马頔怎么了（热度：687744）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1745253028487,
-  "endTime": 1745304475855,
+  "endTime": 1745306701570,
   "band_list": [
     {
       "raw_hot": 10072261,
@@ -91,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1021751,
+      "num": 1021751,
+      "word": "张凌赫田曦薇没有杀青合影",
+      "onboard_time": 1745305161,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 986502,
       "num": 527932,
       "word": "宋祖儿回应大小眼",
@@ -121,6 +129,14 @@
       "onboard_time": 1745285061,
       "rank": 13,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 932222,
+      "num": 932222,
+      "word": "金饰克价已涨到1082元",
+      "onboard_time": 1745301443,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 859238,
@@ -179,12 +195,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 688275,
+      "num": 688275,
+      "word": "杨毅说过去三大赛无冠不可能当世一",
+      "onboard_time": 1745305161,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 653484,
       "num": 653484,
       "word": "教育部增设29种本科新专业",
       "onboard_time": 1745289801,
       "rank": 4,
       "category": "教育"
+    },
+    {
+      "raw_hot": 640615,
+      "num": 394865,
+      "word": "刘强东和外卖骑手喝酒被赞接地气",
+      "onboard_time": 1745304201,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 638428,
@@ -275,14 +307,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 476509,
-      "num": 476509,
-      "word": "金饰克价已涨到1082元",
-      "onboard_time": 1745301443,
-      "rank": 9,
-      "category": "财经"
-    },
-    {
       "raw_hot": 469492,
       "num": 469492,
       "word": "人大物理系高材生做轻食月入千万",
@@ -345,6 +369,14 @@
       "onboard_time": 1745290700,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 401919,
+      "num": 401919,
+      "word": "北京地铁挺身而出的女孩父母发声",
+      "onboard_time": 1745303123,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 378216,
@@ -483,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 286250,
+      "num": 398529,
+      "word": "哪吒2重回日冠",
+      "onboard_time": 1745305041,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 278679,
       "num": 195811,
       "word": "湿气重有八大症状",
@@ -529,6 +569,14 @@
       "onboard_time": 1745249961,
       "rank": 9,
       "category": "军事"
+    },
+    {
+      "raw_hot": 248377,
+      "num": 375761,
+      "word": "王嘉尔说捐款不需要广而告之",
+      "onboard_time": 1745303242,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 246156,
@@ -585,14 +633,6 @@
       "onboard_time": 1745294544,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 234824,
-      "num": 234824,
-      "word": "刘强东和外卖骑手喝酒被赞接地气",
-      "onboard_time": 1745304201,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 233417,
@@ -667,6 +707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210493,
+      "num": 210493,
+      "word": "瑶大耳狗之梦皮肤",
+      "onboard_time": 1745305161,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 207063,
       "num": 207063,
       "word": "无忧渡 曹骏",
@@ -715,6 +763,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194595,
+      "num": 194595,
+      "word": "无畏的微博快成猫猫日记了",
+      "onboard_time": 1745306181,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 192868,
+      "num": 192868,
+      "word": "E人大爷大妈硬控俄罗斯小伙儿",
+      "onboard_time": 1745306662,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 190594,
       "num": 202662,
       "word": "极氪9X",
@@ -761,6 +825,14 @@
       "onboard_time": 1745286680,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 187077,
+      "num": 207873,
+      "word": "人民海军76周年生日快乐",
+      "onboard_time": 1745305161,
+      "rank": 25,
+      "category": "军事"
     },
     {
       "raw_hot": 187070,
@@ -819,12 +891,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 178989,
-      "num": 339471,
-      "word": "北京地铁挺身而出的女孩父母发声",
-      "onboard_time": 1745303123,
-      "rank": 14,
+      "raw_hot": 180468,
+      "num": 180468,
+      "word": "泼汽油男子称女生报警激怒了他",
+      "onboard_time": 1745304081,
+      "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 179617,
+      "num": 179617,
+      "word": "吃不吃冰螺蛳粉",
+      "onboard_time": 1745304983,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 174355,
@@ -907,12 +987,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 166735,
-      "num": 166735,
-      "word": "泼汽油男子称女生报警激怒了他",
-      "onboard_time": 1745304081,
-      "rank": 24,
-      "category": "民生新闻"
+      "raw_hot": 165903,
+      "num": 204164,
+      "word": "龙丹妮谈论难哄的选角超乎预期",
+      "onboard_time": 1745305881,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 165870,
@@ -1123,14 +1203,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 139258,
-      "num": 139258,
-      "word": "王嘉尔说捐款不需要广而告之",
-      "onboard_time": 1745303242,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 137906,
       "num": 137906,
       "word": "管乐怎么能e成这样",
@@ -1227,6 +1299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133670,
+      "num": 133670,
+      "word": "金饰克价一夜又大涨43元",
+      "onboard_time": 1745305701,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 133398,
       "num": 133398,
       "word": "奔跑吧13怼脸拍",
@@ -1308,7 +1388,7 @@
     },
     {
       "raw_hot": 123918,
-      "num": 128868,
+      "num": 134996,
       "word": "上班只是谋生",
       "onboard_time": 1745300903,
       "rank": 38,
@@ -1331,6 +1411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121034,
+      "num": 121034,
+      "word": "生命树开官博了",
+      "onboard_time": 1745306601,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120967,
       "num": 582893,
       "word": "我支持你保护地球",
@@ -1347,12 +1435,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117914,
+      "num": 224923,
+      "word": "某入境旅客带981株罂粟苗过海关",
+      "onboard_time": 1745304262,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115874,
       "num": 115874,
       "word": "吃饭跑步和恋爱",
       "onboard_time": 1745300301,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114999,
+      "num": 114999,
+      "word": "小婉说这句话时心里一定在想管乐",
+      "onboard_time": 1745305222,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 110916,
@@ -1379,6 +1483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 109464,
+      "num": 109464,
+      "word": "国乒参赛名单4人曾与樊振东组团",
+      "onboard_time": 1745306662,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107708,
       "num": 190620,
       "word": "吴艳妮长腿比例惊人",
@@ -1393,6 +1505,14 @@
       "onboard_time": 1745295264,
       "rank": 16,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 104139,
+      "num": 104139,
+      "word": "亚瑟布丁狗之誓爆料",
+      "onboard_time": 1745305222,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 103316,
@@ -1435,14 +1555,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 91396,
-      "num": 224923,
-      "word": "某入境旅客带981株罂粟苗过海关",
-      "onboard_time": 1745304262,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 89051,
       "num": 282812,
       "word": "美国土安全部长在华盛顿餐厅遭窃",
@@ -1457,6 +1569,14 @@
       "onboard_time": 1745251281,
       "rank": 42,
       "category": "国际时政,财经"
+    },
+    {
+      "raw_hot": 86729,
+      "num": 195579,
+      "word": "装修工记错房号将邻居家砸毁",
+      "onboard_time": 1745305881,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86339,
@@ -1579,6 +1699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72899,
+      "num": 368283,
+      "word": "男女都可以接种九价HPV疫苗了",
+      "onboard_time": 1745304081,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70320,
       "num": 391693,
       "word": "女孩被前男友烧残案二审未当庭宣判",
@@ -1660,7 +1788,7 @@
     },
     {
       "raw_hot": 62253,
-      "num": 160410,
+      "num": 199172,
       "word": "上海车展到极狐汽车看脱口秀",
       "onboard_time": 1745303364,
       "rank": 28,
@@ -1681,14 +1809,6 @@
       "onboard_time": 1745273415,
       "rank": 46,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 60585,
-      "num": 230374,
-      "word": "男女都可以接种九价HPV疫苗了",
-      "onboard_time": 1745304081,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 60269,
@@ -1739,6 +1859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 54442,
+      "num": 377237,
+      "word": "跪地求雨视频摆拍但旱情是真",
+      "onboard_time": 1745305581,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54013,
       "num": 462545,
       "word": "外卖员称做梦都没想到能领养老金",
@@ -1784,6 +1912,14 @@
       "word": "湖南平江发生翻船事件6人溺亡",
       "onboard_time": 1745253140,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48780,
+      "num": 357770,
+      "word": "男子爱看小说想省钱偷走11本书",
+      "onboard_time": 1745305762,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -2017,6 +2153,14 @@
       "onboard_time": 1745260335,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 21351,
+      "num": 360857,
+      "word": "情侣共同接种HPV疫苗的意义是什么",
+      "onboard_time": 1745305520,
+      "rank": 18,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 20554,
