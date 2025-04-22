@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745321846369,
+  "endTime": 1745326132392,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -193,6 +193,14 @@
       "onboard_time": 1745104760,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1986971,
+      "num": 1986971,
+      "word": "仅退款",
+      "onboard_time": 1745321421,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 1879015,
@@ -1147,6 +1155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 638462,
+      "num": 162484,
+      "word": "淘宝崩了",
+      "onboard_time": 1745323221,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 638428,
       "num": 638428,
       "word": "将门毒后短剧开机了",
@@ -1249,6 +1265,14 @@
       "onboard_time": 1745134463,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 582816,
+      "num": 306449,
+      "word": "K总婚礼",
+      "onboard_time": 1745320821,
+      "rank": 40,
+      "category": "网红"
     },
     {
       "raw_hot": 582165,
@@ -1451,6 +1475,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 530328,
+      "num": 530328,
+      "word": "龙丹妮觉得赵露思是天选桑稚",
+      "onboard_time": 1745319981,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 525606,
       "num": 329486,
       "word": "女子阻止高铁关门为何能得逞",
@@ -1481,6 +1513,14 @@
       "onboard_time": 1745207725,
       "rank": 37,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 505036,
+      "num": 505036,
+      "word": "无忧渡播出 陈奕恒都长大了",
+      "onboard_time": 1745324121,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 504021,
@@ -1803,6 +1843,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 392416,
+      "num": 392416,
+      "word": "腾讯游戏发布会",
+      "onboard_time": 1745324241,
+      "rank": 7,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 391204,
       "num": 593055,
       "word": "鞠婧祎官宣两部新剧",
@@ -2115,6 +2163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 336784,
+      "num": 336784,
+      "word": "中方派出停火监督组赴缅甸",
+      "onboard_time": 1745321541,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 336454,
       "num": 336454,
       "word": "李斯丹妮裸全背",
@@ -2353,6 +2409,14 @@
       "onboard_time": 1745215461,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 304067,
+      "num": 304067,
+      "word": "中国经济规模将达到美国的2倍",
+      "onboard_time": 1745322022,
+      "rank": 13,
+      "category": "国内时政"
     },
     {
       "raw_hot": 303233,
@@ -2843,14 +2907,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 249460,
-      "num": 306622,
-      "word": "龙丹妮觉得赵露思是天选桑稚",
-      "onboard_time": 1745319981,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 249078,
       "num": 249078,
       "word": "LGD为九尾维权",
@@ -3209,6 +3265,14 @@
       "onboard_time": 1745291182,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 222408,
+      "num": 222408,
+      "word": "美对柬埔寨太阳能产品征收3521%关税",
+      "onboard_time": 1745324422,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 221400,
@@ -3699,6 +3763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201651,
+      "num": 201651,
+      "word": "光与夜之恋",
+      "onboard_time": 1745123843,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 200996,
       "num": 200996,
       "word": "张杰开着大鸟巢打着小鸟球",
@@ -3715,6 +3787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 200662,
+      "num": 200662,
+      "word": "刘耀文云包场马丽水饺皇后",
+      "onboard_time": 1745325502,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 200604,
       "num": 203251,
       "word": "这么多年宋祖儿混天绫用的还是那么溜",
@@ -3729,14 +3809,6 @@
       "onboard_time": 1745127084,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 200357,
-      "num": 200357,
-      "word": "仅退款",
-      "onboard_time": 1745321421,
-      "rank": 32,
-      "category": "互联网"
     },
     {
       "raw_hot": 200116,
@@ -3960,6 +4032,14 @@
       "word": "勇士战胜火箭",
       "onboard_time": 1745210304,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 194809,
+      "num": 194809,
+      "word": "中国男乒世界杯丢冠暴露三大问题",
+      "onboard_time": 1745325021,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -5203,6 +5283,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 161868,
+      "num": 161868,
+      "word": "连衣裙",
+      "onboard_time": 1745322501,
+      "rank": 32,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 161860,
       "num": 161860,
       "word": "周一下班还去健身房的人",
@@ -5217,6 +5305,14 @@
       "onboard_time": 1745132843,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 161239,
+      "num": 161239,
+      "word": "王者三分之地新英雄即将上线",
+      "onboard_time": 1745325681,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 161060,
@@ -5305,14 +5401,6 @@
       "onboard_time": 1745140763,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 158075,
-      "num": 158075,
-      "word": "光与夜之恋",
-      "onboard_time": 1745123843,
-      "rank": 40,
-      "category": "游戏"
     },
     {
       "raw_hot": 157989,
@@ -5939,6 +6027,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 145311,
+      "num": 145311,
+      "word": "男女演员已播剧有效播放量排名",
+      "onboard_time": 1745324722,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145129,
       "num": 145129,
       "word": "管乐事业运",
@@ -6267,14 +6363,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 136917,
-      "num": 136917,
-      "word": "中方派出停火监督组赴缅甸",
-      "onboard_time": 1745321541,
-      "rank": 46,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 136893,
       "num": 136893,
       "word": "日本一酒店140人食物中毒",
@@ -6385,14 +6473,6 @@
       "onboard_time": 1745059102,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 135595,
-      "num": 247810,
-      "word": "K总婚礼",
-      "onboard_time": 1745320821,
-      "rank": 40,
-      "category": "网红"
     },
     {
       "raw_hot": 135563,
@@ -6627,6 +6707,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 130419,
+      "num": 130419,
+      "word": "极限挑战被质疑卖号后发博",
+      "onboard_time": 1745324541,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130403,
       "num": 130403,
       "word": "zb1二巡",
@@ -6649,6 +6737,14 @@
       "onboard_time": 1745121023,
       "rank": 49,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 130064,
+      "num": 130064,
+      "word": "全网都在心疼这个外卖员",
+      "onboard_time": 1745323582,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129946,
@@ -7107,6 +7203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116002,
+      "num": 116002,
+      "word": "王者荣耀铠动画剧集定档",
+      "onboard_time": 1745325981,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 115874,
       "num": 115874,
       "word": "吃饭跑步和恋爱",
@@ -7177,6 +7281,14 @@
       "onboard_time": 1745226622,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112796,
+      "num": 112796,
+      "word": "金价涨势前所未有",
+      "onboard_time": 1745322622,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 112560,
@@ -7971,6 +8083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83186,
+      "num": 162659,
+      "word": "马龙偶尔好奇乒乓球想对自己说啥",
+      "onboard_time": 1745324661,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83132,
       "num": 116313,
       "word": "周洁琼成林允站姐",
@@ -8313,6 +8433,14 @@
       "onboard_time": 1745223562,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71117,
+      "num": 124755,
+      "word": "求邱贻可手机里孙颖莎唱歌视频",
+      "onboard_time": 1745322920,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 70513,
@@ -8785,6 +8913,14 @@
       "onboard_time": 1745112562,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 58213,
+      "num": 212486,
+      "word": "张杰发的小鸟球是什么",
+      "onboard_time": 1745325681,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 58011,
@@ -9585,6 +9721,14 @@
       "onboard_time": 1745234542,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 39727,
+      "num": 169923,
+      "word": "5旬辅警30余年前被人顶替上中专",
+      "onboard_time": 1745325981,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39699,
@@ -10617,6 +10761,14 @@
       "onboard_time": 1745208383,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 16843,
+      "num": 130689,
+      "word": "AI让超级英雄进厂打工",
+      "onboard_time": 1745325081,
+      "rank": 39,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 16796,

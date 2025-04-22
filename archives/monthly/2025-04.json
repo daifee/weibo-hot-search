@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1745321846369,
+  "endTime": 1745326132392,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1081,6 +1081,14 @@
       "onboard_time": 1744602262,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1986971,
+      "num": 1986971,
+      "word": "仅退款",
+      "onboard_time": 1745321421,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 1985180,
@@ -8875,6 +8883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 638462,
+      "num": 162484,
+      "word": "淘宝崩了",
+      "onboard_time": 1745323221,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 638428,
       "num": 638428,
       "word": "将门毒后短剧开机了",
@@ -9857,6 +9873,14 @@
       "onboard_time": 1743590962,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 582816,
+      "num": 306449,
+      "word": "K总婚礼",
+      "onboard_time": 1745320821,
+      "rank": 40,
+      "category": "网红"
     },
     {
       "raw_hot": 582635,
@@ -10971,6 +10995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 530328,
+      "num": 530328,
+      "word": "龙丹妮觉得赵露思是天选桑稚",
+      "onboard_time": 1745319981,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 530263,
       "num": 530263,
       "word": "孟子义我答应她了出来给她签",
@@ -11633,6 +11665,14 @@
       "onboard_time": 1744244305,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 505036,
+      "num": 505036,
+      "word": "无忧渡播出 陈奕恒都长大了",
+      "onboard_time": 1745324121,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 504874,
@@ -15139,6 +15179,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 392416,
+      "num": 392416,
+      "word": "腾讯游戏发布会",
+      "onboard_time": 1745324241,
+      "rank": 7,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 392376,
       "num": 392376,
       "word": "女儿癌症去世后妈妈15年种树2万亩",
@@ -17587,6 +17635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 336784,
+      "num": 336784,
+      "word": "中方派出停火监督组赴缅甸",
+      "onboard_time": 1745321541,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 336517,
       "num": 336517,
       "word": "外交部回应为何提醒公民谨慎赴美",
@@ -19457,6 +19513,14 @@
       "onboard_time": 1744268662,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 304067,
+      "num": 304067,
+      "word": "中国经济规模将达到美国的2倍",
+      "onboard_time": 1745322022,
+      "rank": 13,
+      "category": "国内时政"
     },
     {
       "raw_hot": 303734,
@@ -23355,14 +23419,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 249460,
-      "num": 306622,
-      "word": "龙丹妮觉得赵露思是天选桑稚",
-      "onboard_time": 1745319981,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 249375,
       "num": 249375,
       "word": "孟子义单手骑马",
@@ -26297,6 +26353,14 @@
       "onboard_time": 1744953082,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 222408,
+      "num": 222408,
+      "word": "美对柬埔寨太阳能产品征收3521%关税",
+      "onboard_time": 1745324422,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 222359,
@@ -30211,6 +30275,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 200662,
+      "num": 200662,
+      "word": "刘耀文云包场马丽水饺皇后",
+      "onboard_time": 1745325502,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 200623,
       "num": 200623,
       "word": "女子泼水节被男子高压水枪呲眼",
@@ -30273,14 +30345,6 @@
       "onboard_time": 1745127084,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 200357,
-      "num": 200357,
-      "word": "仅退款",
-      "onboard_time": 1745321421,
-      "rank": 32,
-      "category": "互联网"
     },
     {
       "raw_hot": 200351,
@@ -31817,6 +31881,14 @@
       "onboard_time": 1743483985,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 194809,
+      "num": 194809,
+      "word": "中国男乒世界杯丢冠暴露三大问题",
+      "onboard_time": 1745325021,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 194806,
@@ -40323,6 +40395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161868,
+      "num": 161868,
+      "word": "连衣裙",
+      "onboard_time": 1745322501,
+      "rank": 32,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 161860,
       "num": 161860,
       "word": "周一下班还去健身房的人",
@@ -40489,6 +40569,14 @@
       "onboard_time": 1744449085,
       "rank": 35,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 161239,
+      "num": 161239,
+      "word": "王者三分之地新英雄即将上线",
+      "onboard_time": 1745325681,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 161236,
@@ -45323,6 +45411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 145311,
+      "num": 145311,
+      "word": "男女演员已播剧有效播放量排名",
+      "onboard_time": 1745324722,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145285,
       "num": 170244,
       "word": "邓超gogogo出发喽方言挑战",
@@ -47891,14 +47987,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 136917,
-      "num": 136917,
-      "word": "中方派出停火监督组赴缅甸",
-      "onboard_time": 1745321541,
-      "rank": 46,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 136901,
       "num": 136901,
       "word": "国色芳华湖南卫视Q1收视冠军",
@@ -48425,14 +48513,6 @@
       "onboard_time": 1744935082,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 135595,
-      "num": 247810,
-      "word": "K总婚礼",
-      "onboard_time": 1745320821,
-      "rank": 40,
-      "category": "网红"
     },
     {
       "raw_hot": 135566,
@@ -50235,6 +50315,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 130419,
+      "num": 130419,
+      "word": "极限挑战被质疑卖号后发博",
+      "onboard_time": 1745324541,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130403,
       "num": 130403,
       "word": "zb1二巡",
@@ -50361,6 +50449,14 @@
       "onboard_time": 1744108221,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 130064,
+      "num": 130064,
+      "word": "全网都在心疼这个外卖员",
+      "onboard_time": 1745323582,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130022,
@@ -54459,6 +54555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116002,
+      "num": 116002,
+      "word": "王者荣耀铠动画剧集定档",
+      "onboard_time": 1745325981,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 115936,
       "num": 193021,
       "word": "柯南一生最遗憾的案件",
@@ -55313,6 +55417,14 @@
       "onboard_time": 1743842180,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 112796,
+      "num": 112796,
+      "word": "金价涨势前所未有",
+      "onboard_time": 1745322622,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 112712,
@@ -60899,6 +61011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 83186,
+      "num": 162659,
+      "word": "马龙偶尔好奇乒乓球想对自己说啥",
+      "onboard_time": 1745324661,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83169,
       "num": 223194,
       "word": "如何用老板思维做简历",
@@ -62745,6 +62865,14 @@
       "onboard_time": 1744290322,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71117,
+      "num": 124755,
+      "word": "求邱贻可手机里孙颖莎唱歌视频",
+      "onboard_time": 1745322920,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 71112,
@@ -65121,6 +65249,14 @@
       "onboard_time": 1745112562,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 58213,
+      "num": 212486,
+      "word": "张杰发的小鸟球是什么",
+      "onboard_time": 1745325681,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 58011,
@@ -68777,6 +68913,14 @@
       "onboard_time": 1744609461,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 39727,
+      "num": 169923,
+      "word": "5旬辅警30余年前被人顶替上中专",
+      "onboard_time": 1745325981,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39699,
@@ -74009,6 +74153,14 @@
       "onboard_time": 1744169723,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16843,
+      "num": 130689,
+      "word": "AI让超级英雄进厂打工",
+      "onboard_time": 1745325081,
+      "rank": 39,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 16838,
