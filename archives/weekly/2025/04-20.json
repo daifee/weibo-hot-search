@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745291259818,
+  "endTime": 1745291814038,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -219,6 +219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1640685,
+      "num": 1640685,
+      "word": "星巴克 免费咖啡",
+      "onboard_time": 1745287820,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1604512,
       "num": 372499,
       "word": "网友说宋祖儿肿了",
@@ -233,14 +241,6 @@
       "onboard_time": 1745144363,
       "rank": 31,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 1515284,
-      "num": 1515284,
-      "word": "星巴克 免费咖啡",
-      "onboard_time": 1745287820,
-      "rank": 38,
-      "category": "美食"
     },
     {
       "raw_hot": 1493741,
@@ -297,6 +297,14 @@
       "onboard_time": 1745069543,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1405443,
+      "num": 375368,
+      "word": "刘强东送的外卖不到27元",
+      "onboard_time": 1745289379,
+      "rank": 10,
+      "category": "互联网"
     },
     {
       "raw_hot": 1394879,
@@ -401,14 +409,6 @@
       "onboard_time": 1745214502,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1185307,
-      "num": 312202,
-      "word": "刘强东送的外卖不到27元",
-      "onboard_time": 1745289379,
-      "rank": 10,
-      "category": "互联网"
     },
     {
       "raw_hot": 1167497,
@@ -548,7 +548,7 @@
     },
     {
       "raw_hot": 978218,
-      "num": 311687,
+      "num": 375073,
       "word": "被刘强东请吃火锅外卖骑手发声",
       "onboard_time": 1745285061,
       "rank": 13,
@@ -779,6 +779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 709143,
+      "num": 709143,
+      "word": "李刚被逮捕",
+      "onboard_time": 1745290641,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 708480,
       "num": 708480,
       "word": "林诗栋澳门世界杯亚军",
@@ -921,6 +929,14 @@
       "onboard_time": 1745143703,
       "rank": 12,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 653484,
+      "num": 653484,
+      "word": "教育部增设29种本科新专业",
+      "onboard_time": 1745289801,
+      "rank": 4,
+      "category": "教育"
     },
     {
       "raw_hot": 651010,
@@ -1307,14 +1323,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 457330,
-      "num": 457330,
-      "word": "教育部增设29种本科新专业",
-      "onboard_time": 1745289801,
-      "rank": 4,
-      "category": "教育"
-    },
-    {
       "raw_hot": 453950,
       "num": 429802,
       "word": "甲状腺健康的人有6个习惯",
@@ -1364,7 +1372,7 @@
     },
     {
       "raw_hot": 436801,
-      "num": 276623,
+      "num": 374770,
       "word": "迪丽热巴托工作人员给粉丝传话",
       "onboard_time": 1745289320,
       "rank": 20,
@@ -1409,14 +1417,6 @@
       "onboard_time": 1745119344,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 414284,
-      "num": 414284,
-      "word": "李刚被逮捕",
-      "onboard_time": 1745290641,
-      "rank": 7,
-      "category": "国内时政"
     },
     {
       "raw_hot": 412977,
@@ -1507,6 +1507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 387889,
+      "num": 387889,
+      "word": "逐玉",
+      "onboard_time": 1745290700,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 385528,
       "num": 385528,
       "word": "张超确认林高远入选",
@@ -1532,7 +1540,7 @@
     },
     {
       "raw_hot": 377294,
-      "num": 267747,
+      "num": 330237,
       "word": "多吃抗炎食物可以抵消久坐的危害",
       "onboard_time": 1745284823,
       "rank": 9,
@@ -1561,6 +1569,14 @@
       "onboard_time": 1745200523,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 373095,
+      "num": 373095,
+      "word": "美国资产崩了",
+      "onboard_time": 1745290641,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 371789,
@@ -1996,7 +2012,7 @@
     },
     {
       "raw_hot": 299962,
-      "num": 299962,
+      "num": 373717,
       "word": "开始推理吧",
       "onboard_time": 1745287761,
       "rank": 15,
@@ -2395,20 +2411,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 247416,
-      "num": 247416,
-      "word": "美国资产崩了",
-      "onboard_time": 1745290641,
-      "rank": 31,
-      "category": "财经"
-    },
-    {
       "raw_hot": 247065,
       "num": 247065,
       "word": "孙颖莎雨果合照",
       "onboard_time": 1745164288,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 246156,
+      "num": 302250,
+      "word": "司机让行救护车后遭后车反复别停",
+      "onboard_time": 1745289501,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 245994,
@@ -2555,14 +2571,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 231501,
-      "num": 296691,
-      "word": "逐玉",
-      "onboard_time": 1745290700,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 229929,
       "num": 320611,
       "word": "魏建军高山发布会表态绝不做增程",
@@ -2641,6 +2649,14 @@
       "onboard_time": 1745127383,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 222478,
+      "num": 374463,
+      "word": "周继红任中国游泳协会主席",
+      "onboard_time": 1745291182,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 221297,
@@ -2819,12 +2835,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 211705,
+      "num": 172915,
+      "word": "可口可乐笑了百事可乐哭了",
+      "onboard_time": 1745290280,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 211521,
       "num": 211521,
       "word": "任嘉伦无忧渡追剧团上班",
       "onboard_time": 1745211443,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 211236,
+      "num": 193705,
+      "word": "国乒包揽女单世界前五",
+      "onboard_time": 1745291061,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 210478,
@@ -3283,14 +3315,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 193705,
-      "num": 193705,
-      "word": "国乒包揽女单世界前五",
-      "onboard_time": 1745291061,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 193668,
       "num": 193668,
       "word": "林高远入选多哈世乒赛名单",
@@ -3571,6 +3595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 185548,
+      "num": 185548,
+      "word": "开始推理吧3定档",
+      "onboard_time": 1745291121,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184558,
       "num": 184558,
       "word": "和长生一起抓水母吧",
@@ -3593,14 +3625,6 @@
       "onboard_time": 1745207662,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 182796,
-      "num": 302250,
-      "word": "司机让行救护车后遭后车反复别停",
-      "onboard_time": 1745289501,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 182625,
@@ -4219,14 +4243,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 162885,
-      "num": 162885,
-      "word": "可口可乐笑了百事可乐哭了",
-      "onboard_time": 1745290280,
-      "rank": 43,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 162869,
       "num": 174795,
       "word": "胡杏儿绿茶气质拿捏到位了",
@@ -4251,14 +4267,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 162428,
-      "num": 170632,
-      "word": "周继红任中国游泳协会主席",
-      "onboard_time": 1745291182,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 162300,
       "num": 162300,
       "word": "A股新风口",
@@ -4281,6 +4289,14 @@
       "onboard_time": 1745132843,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 161252,
+      "num": 161252,
+      "word": "快船vs掘金",
+      "onboard_time": 1745290641,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 161060,
@@ -4400,6 +4416,14 @@
       "word": "柯淳 我一被老师骂就脑袋懵",
       "onboard_time": 1745211864,
       "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 157636,
+      "num": 167257,
+      "word": "爱奇艺世界大会预热阵容",
+      "onboard_time": 1745291661,
+      "rank": 33,
       "category": "综艺"
     },
     {
@@ -4632,14 +4656,6 @@
       "word": "乒乓球世界杯直播",
       "onboard_time": 1745159188,
       "rank": 47,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 152380,
-      "num": 152380,
-      "word": "快船vs掘金",
-      "onboard_time": 1745290641,
-      "rank": 44,
       "category": "体育"
     },
     {
@@ -4897,14 +4913,6 @@
       "onboard_time": 1745134823,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 142365,
-      "num": 171397,
-      "word": "开始推理吧3定档",
-      "onboard_time": 1745291121,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 141626,
@@ -5623,6 +5631,14 @@
       "num": 244034,
       "word": "男子拿邻居钥匙冒充房主4次卖电器",
       "onboard_time": 1745127264,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118022,
+      "num": 373460,
+      "word": "太原一写字楼玻璃掉落砸中楼下多车",
+      "onboard_time": 1745290101,
       "rank": 18,
       "category": "民生新闻"
     },
@@ -6379,6 +6395,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 89051,
+      "num": 282812,
+      "word": "美国土安全部长在华盛顿餐厅遭窃",
+      "onboard_time": 1745289801,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 88867,
       "num": 737217,
       "word": "别人在算关税账我们在算创新账",
@@ -6539,14 +6563,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 80867,
-      "num": 287640,
-      "word": "太原一写字楼玻璃掉落砸中楼下多车",
-      "onboard_time": 1745290101,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 80375,
       "num": 196125,
       "word": "熬夜怎么调理",
@@ -6667,12 +6683,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 75309,
-      "num": 282812,
-      "word": "美国土安全部长在华盛顿餐厅遭窃",
-      "onboard_time": 1745289801,
-      "rank": 19,
-      "category": "海外新闻"
+      "raw_hot": 75225,
+      "num": 271717,
+      "word": "王一博挑战纸巾上打高尔夫",
+      "onboard_time": 1745287640,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 74856,
@@ -6747,12 +6763,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 70062,
-      "num": 271717,
-      "word": "王一博挑战纸巾上打高尔夫",
-      "onboard_time": 1745287640,
-      "rank": 29,
-      "category": "艺人"
+      "raw_hot": 70082,
+      "num": 374668,
+      "word": "到底有没有要求外卖骑手二选一",
+      "onboard_time": 1745290041,
+      "rank": 13,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 70022,
@@ -6857,6 +6873,14 @@
       "onboard_time": 1745233220,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 67291,
+      "num": 375428,
+      "word": "美滥施关税霸凌连海地也不放过",
+      "onboard_time": 1745289140,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 67276,
@@ -7299,6 +7323,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 53338,
+      "num": 164823,
+      "word": "张之臻亮相劳伦斯红毯",
+      "onboard_time": 1745291661,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 53268,
       "num": 126442,
       "word": "外媒称美国人不想工作想当网红",
@@ -7425,14 +7457,6 @@
       "onboard_time": 1745141182,
       "rank": 19,
       "category": "情感,民生新闻"
-    },
-    {
-      "raw_hot": 49303,
-      "num": 171741,
-      "word": "美滥施关税霸凌连海地也不放过",
-      "onboard_time": 1745289140,
-      "rank": 36,
-      "category": "国际时政"
     },
     {
       "raw_hot": 49259,
@@ -7595,14 +7619,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 45189,
-      "num": 305758,
-      "word": "到底有没有要求外卖骑手二选一",
-      "onboard_time": 1745290041,
-      "rank": 13,
-      "category": "民生新闻,互联网"
-    },
-    {
       "raw_hot": 45129,
       "num": 208090,
       "word": "气候变暖对人类有什么危害",
@@ -7724,7 +7740,7 @@
     },
     {
       "raw_hot": 41215,
-      "num": 291640,
+      "num": 373162,
       "word": "如何不加剧内耗",
       "onboard_time": 1745290881,
       "rank": 17,
@@ -8137,6 +8153,14 @@
       "onboard_time": 1745257216,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 29039,
+      "num": 164119,
+      "word": "外卖争议背后是正在决战的最后一公里",
+      "onboard_time": 1745291780,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28971,
@@ -8579,6 +8603,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 19654,
+      "num": 170910,
+      "word": "独立机构将被纳入白宫监管范畴",
+      "onboard_time": 1745290762,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 19462,
       "num": 29813,
       "word": "中国扩大开放持续加力提速",
@@ -8649,14 +8681,6 @@
       "onboard_time": 1745209104,
       "rank": 19,
       "category": "财经"
-    },
-    {
-      "raw_hot": 17601,
-      "num": 170910,
-      "word": "独立机构将被纳入白宫监管范畴",
-      "onboard_time": 1745290762,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 17463,
@@ -8921,6 +8945,14 @@
       "onboard_time": 1745253380,
       "rank": 39,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 11236,
+      "num": 169385,
+      "word": "超高清走入千家万户",
+      "onboard_time": 1745291480,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10565,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1745291814038,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1640685,
+        "num": 1640685,
+        "word": "星巴克 免费咖啡",
+        "onboard_time": 1745287820,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 967690,
+        "num": 967690,
+        "word": "金价",
+        "onboard_time": 1745289740,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 14278,
+        "num": 835586,
+        "word": "何以中国走进福建",
+        "onboard_time": 1745291600,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 709143,
+        "num": 709143,
+        "word": "李刚被逮捕",
+        "onboard_time": 1745290641,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 653484,
+        "num": 653484,
+        "word": "教育部增设29种本科新专业",
+        "onboard_time": 1745289801,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 581295,
+        "num": 581295,
+        "word": "哪吒2破157亿了",
+        "onboard_time": 1745285481,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 421497,
+        "num": 421497,
+        "word": "孙颖莎11300分保持断层世界第一",
+        "onboard_time": 1745287581,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 387889,
+        "num": 387889,
+        "word": "逐玉",
+        "onboard_time": 1745290700,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 375659,
+        "num": 375659,
+        "word": "上海男子花18元中了1672万",
+        "onboard_time": 1745280200,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67291,
+        "num": 375428,
+        "word": "美滥施关税霸凌连海地也不放过",
+        "onboard_time": 1745289140,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1405443,
+        "num": 375368,
+        "word": "刘强东送的外卖不到27元",
+        "onboard_time": 1745289379,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 708273,
+        "num": 375073,
+        "word": "被刘强东请吃火锅外卖骑手发声",
+        "onboard_time": 1745285061,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 426095,
+        "num": 374770,
+        "word": "迪丽热巴托工作人员给粉丝传话",
+        "onboard_time": 1745289320,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70082,
+        "num": 374668,
+        "word": "到底有没有要求外卖骑手二选一",
+        "onboard_time": 1745290041,
+        "rank": 13,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 222478,
+        "num": 374463,
+        "word": "周继红任中国游泳协会主席",
+        "onboard_time": 1745291182,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 760716,
+        "num": 374121,
+        "word": "关晓彤 鹿晗",
+        "onboard_time": 1745230340,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336046,
+        "num": 373925,
+        "word": "吴柳芳首次披露直播跳舞原因",
+        "onboard_time": 1745284041,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 276332,
+        "num": 373717,
+        "word": "开始推理吧",
+        "onboard_time": 1745287761,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118022,
+        "num": 373460,
+        "word": "太原一写字楼玻璃掉落砸中楼下多车",
+        "onboard_time": 1745290101,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36955,
+        "num": 373162,
+        "word": "如何不加剧内耗",
+        "onboard_time": 1745290881,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 373095,
+        "num": 373095,
+        "word": "美国资产崩了",
+        "onboard_time": 1745290641,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 330237,
+        "num": 330237,
+        "word": "多吃抗炎食物可以抵消久坐的危害",
+        "onboard_time": 1745284823,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 274803,
+        "num": 274803,
+        "word": "她一生未婚但接生了5万多孩子",
+        "onboard_time": 1745279361,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255233,
+        "num": 255233,
+        "word": "MAC 丁禹兮",
+        "onboard_time": 1745289379,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 246156,
+        "num": 246156,
+        "word": "司机让行救护车后遭后车反复别停",
+        "onboard_time": 1745289501,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237205,
+        "num": 237205,
+        "word": "王者荣耀世界",
+        "onboard_time": 1745290641,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 185548,
+        "num": 185548,
+        "word": "开始推理吧3定档",
+        "onboard_time": 1745291121,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178957,
+        "num": 178957,
+        "word": "张艺兴现场版精忠报国太好听了",
+        "onboard_time": 1745247323,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 173497,
+        "num": 173497,
+        "word": "一句话让一个中年男人破防",
+        "onboard_time": 1745290280,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211705,
+        "num": 172915,
+        "word": "可口可乐笑了百事可乐哭了",
+        "onboard_time": 1745290280,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 75225,
+        "num": 171059,
+        "word": "王一博挑战纸巾上打高尔夫",
+        "onboard_time": 1745287640,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11236,
+        "num": 169385,
+        "word": "超高清走入千家万户",
+        "onboard_time": 1745291480,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211236,
+        "num": 168847,
+        "word": "国乒包揽女单世界前五",
+        "onboard_time": 1745291061,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157636,
+        "num": 167257,
+        "word": "爱奇艺世界大会预热阵容",
+        "onboard_time": 1745291661,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53338,
+        "num": 164823,
+        "word": "张之臻亮相劳伦斯红毯",
+        "onboard_time": 1745291661,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29039,
+        "num": 164119,
+        "word": "外卖争议背后是正在决战的最后一公里",
+        "onboard_time": 1745291780,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200559,
+        "num": 162687,
+        "word": "7楼8楼闹矛盾9楼住户躺枪被震楼3年",
+        "onboard_time": 1745248584,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161252,
+        "num": 161252,
+        "word": "快船vs掘金",
+        "onboard_time": 1745290641,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159835,
+        "num": 159835,
+        "word": "猎德大桥",
+        "onboard_time": 1745286680,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19654,
+        "num": 158010,
+        "word": "独立机构将被纳入白宫监管范畴",
+        "onboard_time": 1745290762,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 157813,
+        "num": 157813,
+        "word": "湿气重有八大症状",
+        "onboard_time": 1745283500,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 161405,
+        "num": 154651,
+        "word": "被泼汽油烧残女生父母本就不看好男方",
+        "onboard_time": 1745289680,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89051,
+        "num": 140784,
+        "word": "美国土安全部长在华盛顿餐厅遭窃",
+        "onboard_time": 1745289801,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 117333,
+        "num": 139232,
+        "word": "官方通报67款应用违法收集个人信息",
+        "onboard_time": 1745282062,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138840,
+        "num": 138840,
+        "word": "冷战后妻子偷偷挂了医生老公的号",
+        "onboard_time": 1745279600,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138548,
+        "num": 138548,
+        "word": "收到差评最多的外卖员",
+        "onboard_time": 1745252241,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137812,
+        "num": 137812,
+        "word": "官方公布教皇方济各死因",
+        "onboard_time": 1745288839,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 135851,
+        "num": 135851,
+        "word": "美三大零售巨头CEO齐赴白宫",
+        "onboard_time": 1745290401,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 129266,
+        "num": 129266,
+        "word": "李现发呆照",
+        "onboard_time": 1745285781,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126884,
+        "num": 126884,
+        "word": "迪丽热巴 开推3",
+        "onboard_time": 1745283202,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记领略中华文明#"
+    }
+  }
+}

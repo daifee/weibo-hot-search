@@ -1,22 +1,30 @@
 {
   "startTime": 1745253028487,
-  "endTime": 1745291259818,
+  "endTime": 1745291814038,
   "band_list": [
     {
       "raw_hot": 2063845,
-      "num": 342029,
+      "num": 374121,
       "word": "关晓彤 鹿晗",
       "onboard_time": 1745230340,
       "rank": 10,
       "category": "艺人"
     },
     {
-      "raw_hot": 1515284,
-      "num": 1515284,
+      "raw_hot": 1640685,
+      "num": 1640685,
       "word": "星巴克 免费咖啡",
       "onboard_time": 1745287820,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1405443,
+      "num": 375368,
+      "word": "刘强东送的外卖不到27元",
+      "onboard_time": 1745289379,
+      "rank": 10,
+      "category": "互联网"
     },
     {
       "raw_hot": 1294146,
@@ -24,14 +32,6 @@
       "word": "美团 京东",
       "onboard_time": 1745285181,
       "rank": 20,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 1185307,
-      "num": 312202,
-      "word": "刘强东送的外卖不到27元",
-      "onboard_time": 1745289379,
-      "rank": 10,
       "category": "互联网"
     },
     {
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 978218,
-      "num": 311687,
+      "num": 375073,
       "word": "被刘强东请吃火锅外卖骑手发声",
       "onboard_time": 1745285061,
       "rank": 13,
@@ -91,12 +91,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 709143,
+      "num": 709143,
+      "word": "李刚被逮捕",
+      "onboard_time": 1745290641,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 706397,
       "num": 706397,
       "word": "哪吒2破157亿了",
       "onboard_time": 1745285481,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 653484,
+      "num": 653484,
+      "word": "教育部增设29种本科新专业",
+      "onboard_time": 1745289801,
+      "rank": 4,
+      "category": "教育"
     },
     {
       "raw_hot": 636310,
@@ -155,14 +171,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 457330,
-      "num": 457330,
-      "word": "教育部增设29种本科新专业",
-      "onboard_time": 1745289801,
-      "rank": 4,
-      "category": "教育"
-    },
-    {
       "raw_hot": 447594,
       "num": 447594,
       "word": "孙颖莎11300分保持断层世界第一",
@@ -180,7 +188,7 @@
     },
     {
       "raw_hot": 436801,
-      "num": 276623,
+      "num": 374770,
       "word": "迪丽热巴托工作人员给粉丝传话",
       "onboard_time": 1745289320,
       "rank": 20,
@@ -211,12 +219,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 414284,
-      "num": 414284,
-      "word": "李刚被逮捕",
-      "onboard_time": 1745290641,
-      "rank": 7,
-      "category": "国内时政"
+      "raw_hot": 387889,
+      "num": 387889,
+      "word": "逐玉",
+      "onboard_time": 1745290700,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 378216,
@@ -228,11 +236,19 @@
     },
     {
       "raw_hot": 377294,
-      "num": 267747,
+      "num": 330237,
       "word": "多吃抗炎食物可以抵消久坐的危害",
       "onboard_time": 1745284823,
       "rank": 9,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 373095,
+      "num": 373095,
+      "word": "美国资产崩了",
+      "onboard_time": 1745290641,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 361264,
@@ -292,7 +308,7 @@
     },
     {
       "raw_hot": 299962,
-      "num": 299962,
+      "num": 373717,
       "word": "开始推理吧",
       "onboard_time": 1745287761,
       "rank": 15,
@@ -339,12 +355,12 @@
       "category": "军事"
     },
     {
-      "raw_hot": 247416,
-      "num": 247416,
-      "word": "美国资产崩了",
-      "onboard_time": 1745290641,
-      "rank": 31,
-      "category": "财经"
+      "raw_hot": 246156,
+      "num": 302250,
+      "word": "司机让行救护车后遭后车反复别停",
+      "onboard_time": 1745289501,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 242624,
@@ -371,12 +387,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 231501,
-      "num": 296691,
-      "word": "逐玉",
-      "onboard_time": 1745290700,
-      "rank": 16,
-      "category": "剧集"
+      "raw_hot": 222478,
+      "num": 374463,
+      "word": "周继红任中国游泳协会主席",
+      "onboard_time": 1745291182,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 219686,
@@ -393,6 +409,22 @@
       "onboard_time": 1745285001,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 211705,
+      "num": 172915,
+      "word": "可口可乐笑了百事可乐哭了",
+      "onboard_time": 1745290280,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 211236,
+      "num": 193705,
+      "word": "国乒包揽女单世界前五",
+      "onboard_time": 1745291061,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 207063,
@@ -425,14 +457,6 @@
       "onboard_time": 1745285781,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 193705,
-      "num": 193705,
-      "word": "国乒包揽女单世界前五",
-      "onboard_time": 1745291061,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 189264,
@@ -475,12 +499,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 182796,
-      "num": 302250,
-      "word": "司机让行救护车后遭后车反复别停",
-      "onboard_time": 1745289501,
-      "rank": 14,
-      "category": "民生新闻"
+      "raw_hot": 185548,
+      "num": 185548,
+      "word": "开始推理吧3定档",
+      "onboard_time": 1745291121,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 182625,
@@ -547,20 +571,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 162885,
-      "num": 162885,
-      "word": "可口可乐笑了百事可乐哭了",
-      "onboard_time": 1745290280,
-      "rank": 43,
-      "category": "海外新闻"
+      "raw_hot": 161252,
+      "num": 161252,
+      "word": "快船vs掘金",
+      "onboard_time": 1745290641,
+      "rank": 44,
+      "category": "体育"
     },
     {
-      "raw_hot": 162428,
-      "num": 170632,
-      "word": "周继红任中国游泳协会主席",
-      "onboard_time": 1745291182,
-      "rank": 40,
-      "category": "体育"
+      "raw_hot": 157636,
+      "num": 167257,
+      "word": "爱奇艺世界大会预热阵容",
+      "onboard_time": 1745291661,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 153258,
@@ -569,14 +593,6 @@
       "onboard_time": 1745235022,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 152380,
-      "num": 152380,
-      "word": "快船vs掘金",
-      "onboard_time": 1745290641,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 151698,
@@ -609,14 +625,6 @@
       "onboard_time": 1745290401,
       "rank": 47,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 142365,
-      "num": 171397,
-      "word": "开始推理吧3定档",
-      "onboard_time": 1745291121,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 141016,
@@ -683,6 +691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118022,
+      "num": 373460,
+      "word": "太原一写字楼玻璃掉落砸中楼下多车",
+      "onboard_time": 1745290101,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110533,
       "num": 110533,
       "word": "遭前男友烧残女子和母亲抱头痛哭",
@@ -747,6 +763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 89051,
+      "num": 282812,
+      "word": "美国土安全部长在华盛顿餐厅遭窃",
+      "onboard_time": 1745289801,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 87219,
       "num": 87219,
       "word": "中国美式烤肉停用美国牛肉",
@@ -803,14 +827,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 80867,
-      "num": 287640,
-      "word": "太原一写字楼玻璃掉落砸中楼下多车",
-      "onboard_time": 1745290101,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 80169,
       "num": 80169,
       "word": "父母离婚30年才和女儿坦白",
@@ -835,20 +851,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 75309,
-      "num": 282812,
-      "word": "美国土安全部长在华盛顿餐厅遭窃",
-      "onboard_time": 1745289801,
-      "rank": 19,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 70062,
+      "raw_hot": 75225,
       "num": 271717,
       "word": "王一博挑战纸巾上打高尔夫",
       "onboard_time": 1745287640,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 70082,
+      "num": 374668,
+      "word": "到底有没有要求外卖骑手二选一",
+      "onboard_time": 1745290041,
+      "rank": 13,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 68799,
@@ -865,6 +881,14 @@
       "onboard_time": 1745273716,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 67291,
+      "num": 375428,
+      "word": "美滥施关税霸凌连海地也不放过",
+      "onboard_time": 1745289140,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 67276,
@@ -963,20 +987,20 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 53338,
+      "num": 164823,
+      "word": "张之臻亮相劳伦斯红毯",
+      "onboard_time": 1745291661,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 52072,
       "num": 114619,
       "word": "湖南平江发生翻船事件6人溺亡",
       "onboard_time": 1745253140,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 49303,
-      "num": 171741,
-      "word": "美滥施关税霸凌连海地也不放过",
-      "onboard_time": 1745289140,
-      "rank": 36,
-      "category": "国际时政"
     },
     {
       "raw_hot": 48508,
@@ -995,16 +1019,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 45189,
-      "num": 305758,
-      "word": "到底有没有要求外卖骑手二选一",
-      "onboard_time": 1745290041,
-      "rank": 13,
-      "category": "民生新闻,互联网"
-    },
-    {
       "raw_hot": 41215,
-      "num": 291640,
+      "num": 373162,
       "word": "如何不加剧内耗",
       "onboard_time": 1745290881,
       "rank": 17,
@@ -1057,6 +1073,14 @@
       "onboard_time": 1745257216,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 29039,
+      "num": 164119,
+      "word": "外卖争议背后是正在决战的最后一公里",
+      "onboard_time": 1745291780,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28971,
@@ -1147,6 +1171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 19654,
+      "num": 170910,
+      "word": "独立机构将被纳入白宫监管范畴",
+      "onboard_time": 1745290762,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 19483,
       "num": 488453,
       "word": "何以中国闽山闽水物华新",
@@ -1171,14 +1203,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 17601,
-      "num": 170910,
-      "word": "独立机构将被纳入白宫监管范畴",
-      "onboard_time": 1745290762,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 16036,
       "num": 24222,
       "word": "唾液会感染梅毒吗",
@@ -1201,6 +1225,14 @@
       "onboard_time": 1745269994,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 14278,
+      "num": 835586,
+      "word": "何以中国走进福建",
+      "onboard_time": 1745291600,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14008,
@@ -1233,6 +1265,14 @@
       "onboard_time": 1745253380,
       "rank": 39,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 11236,
+      "num": 169385,
+      "word": "超高清走入千家万户",
+      "onboard_time": 1745291480,
+      "rank": 31,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
