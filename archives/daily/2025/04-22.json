@@ -1,6 +1,6 @@
 {
   "startTime": 1745253028487,
-  "endTime": 1745306701570,
+  "endTime": 1745307519226,
   "band_list": [
     {
       "raw_hot": 10072261,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 640615,
-      "num": 394865,
+      "num": 404701,
       "word": "刘强东和外卖骑手喝酒被赞接地气",
       "onboard_time": 1745304201,
       "rank": 17,
@@ -307,6 +307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 474220,
+      "num": 474220,
+      "word": "北京地铁挺身而出的女孩父母发声",
+      "onboard_time": 1745303123,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 469492,
       "num": 469492,
       "word": "人大物理系高材生做轻食月入千万",
@@ -371,14 +379,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 401919,
-      "num": 401919,
-      "word": "北京地铁挺身而出的女孩父母发声",
-      "onboard_time": 1745303123,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 378216,
       "num": 383146,
       "word": "曝折腰没拿到签字",
@@ -441,6 +441,22 @@
       "onboard_time": 1745247745,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 346778,
+      "num": 398529,
+      "word": "哪吒2重回日冠",
+      "onboard_time": 1745305041,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 342834,
+      "num": 375761,
+      "word": "王嘉尔说捐款不需要广而告之",
+      "onboard_time": 1745303242,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 336454,
@@ -515,10 +531,10 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 286250,
-      "num": 398529,
-      "word": "哪吒2重回日冠",
-      "onboard_time": 1745305041,
+      "raw_hot": 280879,
+      "num": 409362,
+      "word": "哪吒2密钥第3次延期",
+      "onboard_time": 1745306902,
       "rank": 9,
       "category": "电影"
     },
@@ -569,14 +585,6 @@
       "onboard_time": 1745249961,
       "rank": 9,
       "category": "军事"
-    },
-    {
-      "raw_hot": 248377,
-      "num": 375761,
-      "word": "王嘉尔说捐款不需要广而告之",
-      "onboard_time": 1745303242,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 246156,
@@ -715,12 +723,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 209260,
+      "num": 209260,
+      "word": "逐玉首发预告",
+      "onboard_time": 1745306782,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207063,
       "num": 207063,
       "word": "无忧渡 曹骏",
       "onboard_time": 1745240782,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204537,
+      "num": 204537,
+      "word": "吃不吃冰螺蛳粉",
+      "onboard_time": 1745304983,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 202608,
@@ -793,6 +817,14 @@
       "onboard_time": 1745241743,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188865,
+      "num": 188865,
+      "word": "生命树开官博了",
+      "onboard_time": 1745306601,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 188462,
@@ -897,14 +929,6 @@
       "onboard_time": 1745304081,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 179617,
-      "num": 179617,
-      "word": "吃不吃冰螺蛳粉",
-      "onboard_time": 1745304983,
-      "rank": 34,
-      "category": "美食"
     },
     {
       "raw_hot": 174355,
@@ -1059,6 +1083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156890,
+      "num": 156890,
+      "word": "日本奶奶偷偷塞人民币给我",
+      "onboard_time": 1745304081,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 156793,
       "num": 230826,
       "word": "迪丽热巴开推3回归海报",
@@ -1115,12 +1147,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 148429,
-      "num": 137535,
-      "word": "日本奶奶偷偷塞人民币给我",
-      "onboard_time": 1745304081,
-      "rank": 32,
-      "category": "情感"
+      "raw_hot": 149615,
+      "num": 197253,
+      "word": "金饰克价一夜又大涨43元",
+      "onboard_time": 1745305701,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 148264,
@@ -1177,6 +1209,14 @@
       "onboard_time": 1745295204,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142903,
+      "num": 142903,
+      "word": "霍启刚郭晶晶一家游大同",
+      "onboard_time": 1745307141,
+      "rank": 41,
+      "category": "民生新闻,体育"
     },
     {
       "raw_hot": 141963,
@@ -1299,14 +1339,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 133670,
-      "num": 133670,
-      "word": "金饰克价一夜又大涨43元",
-      "onboard_time": 1745305701,
-      "rank": 39,
-      "category": "财经"
-    },
-    {
       "raw_hot": 133398,
       "num": 133398,
       "word": "奔跑吧13怼脸拍",
@@ -1409,14 +1441,6 @@
       "onboard_time": 1745291901,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 121034,
-      "num": 121034,
-      "word": "生命树开官博了",
-      "onboard_time": 1745306601,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 120967,
@@ -1523,6 +1547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 102780,
+      "num": 195579,
+      "word": "装修工记错房号将邻居家砸毁",
+      "onboard_time": 1745305881,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99957,
       "num": 99957,
       "word": "肖指导回应世乒赛混双名单",
@@ -1571,14 +1603,6 @@
       "category": "国际时政,财经"
     },
     {
-      "raw_hot": 86729,
-      "num": 195579,
-      "word": "装修工记错房号将邻居家砸毁",
-      "onboard_time": 1745305881,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 86339,
       "num": 86339,
       "word": "王皓解释梁靖崑为何入选",
@@ -1609,6 +1633,14 @@
       "onboard_time": 1745231662,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 82908,
+      "num": 377237,
+      "word": "跪地求雨视频摆拍但旱情是真",
+      "onboard_time": 1745305581,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82815,
@@ -1699,10 +1731,18 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 72899,
+      "raw_hot": 73840,
       "num": 368283,
       "word": "男女都可以接种九价HPV疫苗了",
       "onboard_time": 1745304081,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71884,
+      "num": 357770,
+      "word": "男子爱看小说想省钱偷走11本书",
+      "onboard_time": 1745305762,
       "rank": 19,
       "category": "民生新闻"
     },
@@ -1859,14 +1899,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 54442,
-      "num": 377237,
-      "word": "跪地求雨视频摆拍但旱情是真",
-      "onboard_time": 1745305581,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 54013,
       "num": 462545,
       "word": "外卖员称做梦都没想到能领养老金",
@@ -1912,14 +1944,6 @@
       "word": "湖南平江发生翻船事件6人溺亡",
       "onboard_time": 1745253140,
       "rank": 24,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 48780,
-      "num": 357770,
-      "word": "男子爱看小说想省钱偷走11本书",
-      "onboard_time": 1745305762,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -2179,6 +2203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 20294,
+      "num": 305178,
+      "word": "饮食不规律怎么办",
+      "onboard_time": 1745306720,
+      "rank": 18,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 19654,
       "num": 170910,
       "word": "独立机构将被纳入白宫监管范畴",
@@ -2223,6 +2255,14 @@
       "num": 135720,
       "word": "如何归纳整理琐碎有价值的知识",
       "onboard_time": 1745303721,
+      "rank": 39,
+      "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 17347,
+      "num": 146293,
+      "word": "高照资料分析知识点总结",
+      "onboard_time": 1745307440,
       "rank": 39,
       "category": "教育,民生新闻"
     },

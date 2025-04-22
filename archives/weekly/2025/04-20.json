@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745306701570,
+  "endTime": 1745307519226,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1068,7 +1068,7 @@
     },
     {
       "raw_hot": 640615,
-      "num": 394865,
+      "num": 404701,
       "word": "刘强东和外卖骑手喝酒被赞接地气",
       "onboard_time": 1745304201,
       "rank": 17,
@@ -1427,6 +1427,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 474220,
+      "num": 474220,
+      "word": "北京地铁挺身而出的女孩父母发声",
+      "onboard_time": 1745303123,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 469492,
       "num": 469492,
       "word": "人大物理系高材生做轻食月入千万",
@@ -1609,14 +1617,6 @@
       "onboard_time": 1745222781,
       "rank": 35,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 401919,
-      "num": 401919,
-      "word": "北京地铁挺身而出的女孩父母发声",
-      "onboard_time": 1745303123,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 401585,
@@ -1899,6 +1899,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 346778,
+      "num": 398529,
+      "word": "哪吒2重回日冠",
+      "onboard_time": 1745305041,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 346297,
       "num": 346297,
       "word": "父母离婚30年才和女儿坦白",
@@ -1913,6 +1921,14 @@
       "onboard_time": 1745209284,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 342834,
+      "num": 375761,
+      "word": "王嘉尔说捐款不需要广而告之",
+      "onboard_time": 1745303242,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 342180,
@@ -2299,14 +2315,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 286250,
-      "num": 398529,
-      "word": "哪吒2重回日冠",
-      "onboard_time": 1745305041,
-      "rank": 9,
-      "category": "电影"
-    },
-    {
       "raw_hot": 285609,
       "num": 260794,
       "word": "树莓衮衮衮",
@@ -2337,6 +2345,14 @@
       "onboard_time": 1745131702,
       "rank": 13,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 280879,
+      "num": 409362,
+      "word": "哪吒2密钥第3次延期",
+      "onboard_time": 1745306902,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 280447,
@@ -2617,14 +2633,6 @@
       "onboard_time": 1745238264,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 248377,
-      "num": 375761,
-      "word": "王嘉尔说捐款不需要广而告之",
-      "onboard_time": 1745303242,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 248293,
@@ -3187,6 +3195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 209260,
+      "num": 209260,
+      "word": "逐玉首发预告",
+      "onboard_time": 1745306782,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209197,
       "num": 209197,
       "word": "王者联动三丽鸥家族送阿古朵皮肤",
@@ -3249,6 +3265,14 @@
       "onboard_time": 1745244684,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 204537,
+      "num": 204537,
+      "word": "吃不吃冰螺蛳粉",
+      "onboard_time": 1745304983,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 204279,
@@ -3787,6 +3811,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 188865,
+      "num": 188865,
+      "word": "生命树开官博了",
+      "onboard_time": 1745306601,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188681,
       "num": 227887,
       "word": "杨紫生命树4月底开机",
@@ -4089,14 +4121,6 @@
       "onboard_time": 1745248823,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 179617,
-      "num": 179617,
-      "word": "吃不吃冰螺蛳粉",
-      "onboard_time": 1745304983,
-      "rank": 34,
-      "category": "美食"
     },
     {
       "raw_hot": 179348,
@@ -4947,6 +4971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156890,
+      "num": 156890,
+      "word": "日本奶奶偷偷塞人民币给我",
+      "onboard_time": 1745304081,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 156793,
       "num": 230826,
       "word": "迪丽热巴开推3回归海报",
@@ -5267,6 +5299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149615,
+      "num": 197253,
+      "word": "金饰克价一夜又大涨43元",
+      "onboard_time": 1745305701,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 148750,
       "num": 148750,
       "word": "娇妹 晓亮",
@@ -5289,14 +5329,6 @@
       "onboard_time": 1745199742,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 148429,
-      "num": 137535,
-      "word": "日本奶奶偷偷塞人民币给我",
-      "onboard_time": 1745304081,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 148264,
@@ -5457,6 +5489,14 @@
       "onboard_time": 1745208263,
       "rank": 26,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 142903,
+      "num": 142903,
+      "word": "霍启刚郭晶晶一家游大同",
+      "onboard_time": 1745307141,
+      "rank": 41,
+      "category": "民生新闻,体育"
     },
     {
       "raw_hot": 142673,
@@ -5825,14 +5865,6 @@
       "onboard_time": 1745153665,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 133670,
-      "num": 133670,
-      "word": "金饰克价一夜又大涨43元",
-      "onboard_time": 1745305701,
-      "rank": 39,
-      "category": "财经"
     },
     {
       "raw_hot": 133398,
@@ -6297,14 +6329,6 @@
       "onboard_time": 1745195065,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 121034,
-      "num": 121034,
-      "word": "生命树开官博了",
-      "onboard_time": 1745306601,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 120988,
@@ -6835,6 +6859,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 102780,
+      "num": 195579,
+      "word": "装修工记错房号将邻居家砸毁",
+      "onboard_time": 1745305881,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102673,
       "num": 102673,
       "word": "我真的不能停止玩手机",
@@ -7235,14 +7267,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 86729,
-      "num": 195579,
-      "word": "装修工记错房号将邻居家砸毁",
-      "onboard_time": 1745305881,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 86234,
       "num": 86234,
       "word": "宋妍霏想和姐姐们睡一起",
@@ -7297,6 +7321,14 @@
       "onboard_time": 1745198244,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 82908,
+      "num": 377237,
+      "word": "跪地求雨视频摆拍但旱情是真",
+      "onboard_time": 1745305581,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82815,
@@ -7539,19 +7571,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 73840,
+      "num": 368283,
+      "word": "男女都可以接种九价HPV疫苗了",
+      "onboard_time": 1745304081,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73178,
       "num": 345481,
       "word": "住了十几年的房被开发商过户",
       "onboard_time": 1745212703,
       "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 72899,
-      "num": 368283,
-      "word": "男女都可以接种九价HPV疫苗了",
-      "onboard_time": 1745304081,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -7568,6 +7600,14 @@
       "word": "广西财政厅下拨1750万元抗旱资金",
       "onboard_time": 1745232861,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71884,
+      "num": 357770,
+      "word": "男子爱看小说想省钱偷走11本书",
+      "onboard_time": 1745305762,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -8131,14 +8171,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 54442,
-      "num": 377237,
-      "word": "跪地求雨视频摆拍但旱情是真",
-      "onboard_time": 1745305581,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 54406,
       "num": 335646,
       "word": "试点支持外籍医生开设诊所",
@@ -8409,14 +8441,6 @@
       "onboard_time": 1745236883,
       "rank": 39,
       "category": "数码"
-    },
-    {
-      "raw_hot": 48780,
-      "num": 357770,
-      "word": "男子爱看小说想省钱偷走11本书",
-      "onboard_time": 1745305762,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 48743,
@@ -9579,6 +9603,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 20294,
+      "num": 305178,
+      "word": "饮食不规律怎么办",
+      "onboard_time": 1745306720,
+      "rank": 18,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 20253,
       "num": 342142,
       "word": "经常失眠会有什么危害",
@@ -9711,6 +9743,14 @@
       "num": 135720,
       "word": "如何归纳整理琐碎有价值的知识",
       "onboard_time": 1745303721,
+      "rank": 39,
+      "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 17347,
+      "num": 146293,
+      "word": "高照资料分析知识点总结",
+      "onboard_time": 1745307440,
       "rank": 39,
       "category": "教育,民生新闻"
     },
