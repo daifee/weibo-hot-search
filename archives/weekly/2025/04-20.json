@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745303695030,
+  "endTime": 1745304475855,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -595,6 +595,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 984960,
+      "num": 984960,
+      "word": "爱奇艺改logo",
+      "onboard_time": 1745301802,
+      "rank": 3,
+      "category": "互联网,剧集"
+    },
+    {
+      "raw_hot": 983198,
+      "num": 983198,
+      "word": "结婚1年半离婚35万彩礼账单判还6万",
+      "onboard_time": 1745299163,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 978218,
       "num": 407436,
       "word": "被刘强东请吃火锅外卖骑手发声",
@@ -635,28 +651,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 897504,
-      "num": 897504,
-      "word": "爱奇艺改logo",
-      "onboard_time": 1745301802,
-      "rank": 3,
-      "category": "互联网,剧集"
-    },
-    {
       "raw_hot": 894914,
       "num": 253129,
       "word": "黄子韬中考成绩",
       "onboard_time": 1745197463,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 875670,
-      "num": 875670,
-      "word": "结婚1年半离婚35万彩礼账单判还6万",
-      "onboard_time": 1745299163,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 863153,
@@ -1393,6 +1393,14 @@
       "onboard_time": 1745114244,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 476509,
+      "num": 476509,
+      "word": "金饰克价已涨到1082元",
+      "onboard_time": 1745301443,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 469492,
@@ -2291,14 +2299,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 280595,
-      "num": 351516,
-      "word": "金饰克价已涨到1082元",
-      "onboard_time": 1745301443,
-      "rank": 9,
-      "category": "财经"
-    },
-    {
       "raw_hot": 280447,
       "num": 250524,
       "word": "李昀锐金宣虎wink笑",
@@ -2763,6 +2763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 234824,
+      "num": 234824,
+      "word": "刘强东和外卖骑手喝酒被赞接地气",
+      "onboard_time": 1745304201,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 234106,
       "num": 278611,
       "word": "有欧洲人在赴美入境时被扒光衣服",
@@ -2777,6 +2785,14 @@
       "onboard_time": 1745295744,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 230307,
+      "num": 333302,
+      "word": "K总婚礼嘉宾",
+      "onboard_time": 1745301323,
+      "rank": 17,
+      "category": "网红"
     },
     {
       "raw_hot": 229929,
@@ -2865,14 +2881,6 @@
       "onboard_time": 1745127383,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 223884,
-      "num": 333302,
-      "word": "K总婚礼嘉宾",
-      "onboard_time": 1745301323,
-      "rank": 17,
-      "category": "网红"
     },
     {
       "raw_hot": 222478,
@@ -4027,6 +4035,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 178989,
+      "num": 339471,
+      "word": "北京地铁挺身而出的女孩父母发声",
+      "onboard_time": 1745303123,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 178972,
       "num": 178972,
       "word": "单依纯新歌",
@@ -4451,6 +4467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166735,
+      "num": 166735,
+      "word": "泼汽油男子称女生报警激怒了他",
+      "onboard_time": 1745304081,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166703,
       "num": 166703,
       "word": "加快服务业扩大开放综合试点",
@@ -4843,6 +4867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156793,
+      "num": 230826,
+      "word": "迪丽热巴开推3回归海报",
+      "onboard_time": 1745303481,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156755,
       "num": 156755,
       "word": "国乒世界杯男单四连冠遭终结",
@@ -5179,6 +5211,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 148429,
+      "num": 137535,
+      "word": "日本奶奶偷偷塞人民币给我",
+      "onboard_time": 1745304081,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 148264,
       "num": 199119,
       "word": "特朗普继续施压美联储",
@@ -5435,6 +5475,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 139258,
+      "num": 139258,
+      "word": "王嘉尔说捐款不需要广而告之",
+      "onboard_time": 1745303242,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139213,
       "num": 139213,
       "word": "陶喆在演唱会上怀念父亲",
@@ -5499,6 +5547,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 137547,
+      "num": 429982,
+      "word": "龚俊说明天上海车展见",
+      "onboard_time": 1745298444,
+      "rank": 12,
+      "category": "艺人,汽车"
+    },
+    {
       "raw_hot": 137522,
       "num": 137522,
       "word": "蜜雪冰城哈萨克斯坦首店开业",
@@ -5513,6 +5569,14 @@
       "onboard_time": 1745130262,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 137037,
+      "num": 137037,
+      "word": "问界运输卡车高速发生事故",
+      "onboard_time": 1745304081,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136893,
@@ -5537,6 +5601,14 @@
       "onboard_time": 1745077103,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136736,
+      "num": 343659,
+      "word": "美国土安全部长手提包被偷细节曝光",
+      "onboard_time": 1745302461,
+      "rank": 13,
+      "category": "国际时政"
     },
     {
       "raw_hot": 136621,
@@ -5947,6 +6019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127811,
+      "num": 127811,
+      "word": "樊振东仍保持两项世界纪录",
+      "onboard_time": 1745300602,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127785,
       "num": 127785,
       "word": "来战",
@@ -5987,14 +6067,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 126210,
-      "num": 126210,
-      "word": "樊振东仍保持两项世界纪录",
-      "onboard_time": 1745300602,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 126207,
       "num": 126207,
       "word": "全网最丢脸的风筝出现了",
@@ -6017,14 +6089,6 @@
       "onboard_time": 1745125582,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 126039,
-      "num": 126039,
-      "word": "迪丽热巴开推3回归海报",
-      "onboard_time": 1745303481,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 125789,
@@ -6089,6 +6153,14 @@
       "onboard_time": 1745105721,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123918,
+      "num": 128868,
+      "word": "上班只是谋生",
+      "onboard_time": 1745300903,
+      "rank": 38,
+      "category": "情感,民生新闻"
     },
     {
       "raw_hot": 123035,
@@ -6315,14 +6387,6 @@
       "category": "综艺,互联网"
     },
     {
-      "raw_hot": 113856,
-      "num": 128868,
-      "word": "上班只是谋生",
-      "onboard_time": 1745300903,
-      "rank": 38,
-      "category": "情感,民生新闻"
-    },
-    {
       "raw_hot": 113429,
       "num": 177476,
       "word": "范玮琪跪谢粉丝",
@@ -6361,14 +6425,6 @@
       "onboard_time": 1745070264,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 111582,
-      "num": 111582,
-      "word": "王嘉尔说捐款不需要广而告之",
-      "onboard_time": 1745303242,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 111502,
@@ -6891,14 +6947,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 94013,
-      "num": 343659,
-      "word": "美国土安全部长手提包被偷细节曝光",
-      "onboard_time": 1745302461,
-      "rank": 13,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 93899,
       "num": 206660,
       "word": "18岁王子菲1天3破世界级纪录",
@@ -6969,6 +7017,14 @@
       "onboard_time": 1745073984,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 91396,
+      "num": 224923,
+      "word": "某入境旅客带981株罂粟苗过海关",
+      "onboard_time": 1745304262,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91034,
@@ -7112,14 +7168,6 @@
       "word": "当我问Deepseek要不要打HPV疫苗",
       "onboard_time": 1745240782,
       "rank": 25,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 83186,
-      "num": 339471,
-      "word": "北京地铁挺身而出的女孩父母发声",
-      "onboard_time": 1745303123,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -7787,6 +7835,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 60585,
+      "num": 230374,
+      "word": "男女都可以接种九价HPV疫苗了",
+      "onboard_time": 1745304081,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60488,
       "num": 166459,
       "word": "外贸女工讲为何不怕特朗普关税战",
@@ -7825,14 +7881,6 @@
       "onboard_time": 1745151689,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 59425,
-      "num": 429982,
-      "word": "龚俊说明天上海车展见",
-      "onboard_time": 1745298444,
-      "rank": 12,
-      "category": "艺人,汽车"
     },
     {
       "raw_hot": 59173,
@@ -8707,6 +8755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36635,
+      "num": 136007,
+      "word": "为何学校食堂都喜欢做土豆",
+      "onboard_time": 1745304382,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 36393,
       "num": 117868,
       "word": "员工拒绝调岗被违法开除获赔3万",
@@ -8769,6 +8825,14 @@
       "onboard_time": 1745146702,
       "rank": 47,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 33923,
+      "num": 135864,
+      "word": "一字夹打造头包脸发型",
+      "onboard_time": 1745303721,
+      "rank": 38,
+      "category": "美妆"
     },
     {
       "raw_hot": 33414,
@@ -9497,6 +9561,14 @@
       "onboard_time": 1745298623,
       "rank": 39,
       "category": "旅游,民生新闻"
+    },
+    {
+      "raw_hot": 17425,
+      "num": 135720,
+      "word": "如何归纳整理琐碎有价值的知识",
+      "onboard_time": 1745303721,
+      "rank": 39,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 17029,

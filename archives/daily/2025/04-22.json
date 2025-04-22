@@ -1,6 +1,6 @@
 {
   "startTime": 1745253028487,
-  "endTime": 1745303695030,
+  "endTime": 1745304475855,
   "band_list": [
     {
       "raw_hot": 10072261,
@@ -99,28 +99,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 978218,
-      "num": 407436,
-      "word": "被刘强东请吃火锅外卖骑手发声",
-      "onboard_time": 1745285061,
-      "rank": 13,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 897504,
-      "num": 897504,
+      "raw_hot": 984960,
+      "num": 984960,
       "word": "爱奇艺改logo",
       "onboard_time": 1745301802,
       "rank": 3,
       "category": "互联网,剧集"
     },
     {
-      "raw_hot": 875670,
-      "num": 875670,
+      "raw_hot": 983198,
+      "num": 983198,
       "word": "结婚1年半离婚35万彩礼账单判还6万",
       "onboard_time": 1745299163,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 978218,
+      "num": 407436,
+      "word": "被刘强东请吃火锅外卖骑手发声",
+      "onboard_time": 1745285061,
+      "rank": 13,
+      "category": "互联网"
     },
     {
       "raw_hot": 859238,
@@ -273,6 +273,14 @@
       "onboard_time": 1745237421,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 476509,
+      "num": 476509,
+      "word": "金饰克价已涨到1082元",
+      "onboard_time": 1745301443,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 469492,
@@ -475,14 +483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 280595,
-      "num": 351516,
-      "word": "金饰克价已涨到1082元",
-      "onboard_time": 1745301443,
-      "rank": 9,
-      "category": "财经"
-    },
-    {
       "raw_hot": 278679,
       "num": 195811,
       "word": "湿气重有八大症状",
@@ -587,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 234824,
+      "num": 234824,
+      "word": "刘强东和外卖骑手喝酒被赞接地气",
+      "onboard_time": 1745304201,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 233417,
       "num": 233417,
       "word": "自带杯",
@@ -595,20 +603,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 230307,
+      "num": 333302,
+      "word": "K总婚礼嘉宾",
+      "onboard_time": 1745301323,
+      "rank": 17,
+      "category": "网红"
+    },
+    {
       "raw_hot": 226206,
       "num": 211052,
       "word": "鸿星尔克 于适",
       "onboard_time": 1745298145,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 223884,
-      "num": 333302,
-      "word": "K总婚礼嘉宾",
-      "onboard_time": 1745301323,
-      "rank": 17,
-      "category": "网红"
     },
     {
       "raw_hot": 222478,
@@ -811,6 +819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178989,
+      "num": 339471,
+      "word": "北京地铁挺身而出的女孩父母发声",
+      "onboard_time": 1745303123,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174355,
       "num": 174355,
       "word": "咪咪 我不ins字",
@@ -891,6 +907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166735,
+      "num": 166735,
+      "word": "泼汽油男子称女生报警激怒了他",
+      "onboard_time": 1745304081,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 165870,
       "num": 165870,
       "word": "原来器官也有洁癖",
@@ -955,6 +979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156793,
+      "num": 230826,
+      "word": "迪丽热巴开推3回归海报",
+      "onboard_time": 1745303481,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154176,
       "num": 154176,
       "word": "于适谈影视文旅联动",
@@ -1001,6 +1033,14 @@
       "onboard_time": 1745286980,
       "rank": 33,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 148429,
+      "num": 137535,
+      "word": "日本奶奶偷偷塞人民币给我",
+      "onboard_time": 1745304081,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 148264,
@@ -1083,6 +1123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139258,
+      "num": 139258,
+      "word": "王嘉尔说捐款不需要广而告之",
+      "onboard_time": 1745303242,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137906,
       "num": 137906,
       "word": "管乐怎么能e成这样",
@@ -1099,12 +1147,36 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 137547,
+      "num": 429982,
+      "word": "龚俊说明天上海车展见",
+      "onboard_time": 1745298444,
+      "rank": 12,
+      "category": "艺人,汽车"
+    },
+    {
+      "raw_hot": 137037,
+      "num": 137037,
+      "word": "问界运输卡车高速发生事故",
+      "onboard_time": 1745304081,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136875,
       "num": 136875,
       "word": "C919大飞机内响起周深的声音",
       "onboard_time": 1745291841,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 136736,
+      "num": 343659,
+      "word": "美国土安全部长手提包被偷细节曝光",
+      "onboard_time": 1745302461,
+      "rank": 13,
+      "category": "国际时政"
     },
     {
       "raw_hot": 136733,
@@ -1203,28 +1275,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 126656,
-      "num": 126656,
-      "word": "年轻人都是怎么哄自己上班的",
-      "onboard_time": 1745300363,
-      "rank": 43,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 126210,
-      "num": 126210,
+      "raw_hot": 127811,
+      "num": 127811,
       "word": "樊振东仍保持两项世界纪录",
       "onboard_time": 1745300602,
       "rank": 40,
       "category": "体育"
     },
     {
-      "raw_hot": 126039,
-      "num": 126039,
-      "word": "迪丽热巴开推3回归海报",
-      "onboard_time": 1745303481,
-      "rank": 41,
-      "category": "综艺"
+      "raw_hot": 126656,
+      "num": 126656,
+      "word": "年轻人都是怎么哄自己上班的",
+      "onboard_time": 1745300363,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 125789,
@@ -1241,6 +1305,14 @@
       "onboard_time": 1745301022,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123918,
+      "num": 128868,
+      "word": "上班只是谋生",
+      "onboard_time": 1745300903,
+      "rank": 38,
+      "category": "情感,民生新闻"
     },
     {
       "raw_hot": 122474,
@@ -1281,22 +1353,6 @@
       "onboard_time": 1745300301,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 113856,
-      "num": 128868,
-      "word": "上班只是谋生",
-      "onboard_time": 1745300903,
-      "rank": 38,
-      "category": "情感,民生新闻"
-    },
-    {
-      "raw_hot": 111582,
-      "num": 111582,
-      "word": "王嘉尔说捐款不需要广而告之",
-      "onboard_time": 1745303242,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 110916,
@@ -1371,20 +1427,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 94013,
-      "num": 343659,
-      "word": "美国土安全部长手提包被偷细节曝光",
-      "onboard_time": 1745302461,
-      "rank": 13,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 93254,
       "num": 93254,
       "word": "刘涛直播弹幕",
       "onboard_time": 1745252959,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 91396,
+      "num": 224923,
+      "word": "某入境旅客带981株罂粟苗过海关",
+      "onboard_time": 1745304262,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89051,
@@ -1433,14 +1489,6 @@
       "onboard_time": 1745231662,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 83186,
-      "num": 339471,
-      "word": "北京地铁挺身而出的女孩父母发声",
-      "onboard_time": 1745303123,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 82815,
@@ -1635,20 +1683,20 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 60585,
+      "num": 230374,
+      "word": "男女都可以接种九价HPV疫苗了",
+      "onboard_time": 1745304081,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60269,
       "num": 60269,
       "word": "孙恩盛直播",
       "onboard_time": 1745257818,
       "rank": 16,
       "category": "网红"
-    },
-    {
-      "raw_hot": 59425,
-      "num": 429982,
-      "word": "龚俊说明天上海车展见",
-      "onboard_time": 1745298444,
-      "rank": 12,
-      "category": "艺人,汽车"
     },
     {
       "raw_hot": 59173,
@@ -1827,12 +1875,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 36635,
+      "num": 136007,
+      "word": "为何学校食堂都喜欢做土豆",
+      "onboard_time": 1745304382,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 36161,
       "num": 177345,
       "word": "北京男篮3比1北控男篮",
       "onboard_time": 1745246363,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 33923,
+      "num": 135864,
+      "word": "一字夹打造头包脸发型",
+      "onboard_time": 1745303721,
+      "rank": 38,
+      "category": "美妆"
     },
     {
       "raw_hot": 32215,
@@ -2009,6 +2073,14 @@
       "onboard_time": 1745298623,
       "rank": 39,
       "category": "旅游,民生新闻"
+    },
+    {
+      "raw_hot": 17425,
+      "num": 135720,
+      "word": "如何归纳整理琐碎有价值的知识",
+      "onboard_time": 1745303721,
+      "rank": 39,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 16036,
