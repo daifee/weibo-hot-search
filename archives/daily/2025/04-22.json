@@ -1,6 +1,6 @@
 {
   "startTime": 1745253028487,
-  "endTime": 1745326132392,
+  "endTime": 1745327021535,
   "band_list": [
     {
       "raw_hot": 10072261,
@@ -9,6 +9,14 @@
       "onboard_time": 1745290641,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 3220087,
+      "num": 3220087,
+      "word": "仅退款",
+      "onboard_time": 1745321421,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 2455865,
@@ -41,14 +49,6 @@
       "onboard_time": 1745230340,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1986971,
-      "num": 1986971,
-      "word": "仅退款",
-      "onboard_time": 1745321421,
-      "rank": 32,
-      "category": "互联网"
     },
     {
       "raw_hot": 1867483,
@@ -283,6 +283,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 697914,
+      "num": 182267,
+      "word": "淘宝崩了",
+      "onboard_time": 1745323221,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 688275,
       "num": 688275,
       "word": "杨毅说过去三大赛无冠不可能当世一",
@@ -305,14 +313,6 @@
       "onboard_time": 1745304201,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 638462,
-      "num": 162484,
-      "word": "淘宝崩了",
-      "onboard_time": 1745323221,
-      "rank": 31,
-      "category": "互联网"
     },
     {
       "raw_hot": 638428,
@@ -345,6 +345,14 @@
       "onboard_time": 1745315901,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 596891,
+      "num": 596891,
+      "word": "无忧渡播出 陈奕恒都长大了",
+      "onboard_time": 1745324121,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 589890,
@@ -449,14 +457,6 @@
       "onboard_time": 1745234301,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 505036,
-      "num": 505036,
-      "word": "无忧渡播出 陈奕恒都长大了",
-      "onboard_time": 1745324121,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 490516,
@@ -787,6 +787,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 283056,
+      "num": 283056,
+      "word": "光与夜之恋",
+      "onboard_time": 1745325621,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 278779,
       "num": 278779,
       "word": "刘强东请兄弟喝酒喜欢大杯举起来",
@@ -907,6 +915,14 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 241200,
+      "num": 222408,
+      "word": "美对柬埔寨太阳能产品征收3521%关税",
+      "onboard_time": 1745324422,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 241131,
       "num": 241131,
       "word": "江苏一男子脚绑哑铃潜水溺亡",
@@ -1011,14 +1027,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 222408,
-      "num": 222408,
-      "word": "美对柬埔寨太阳能产品征收3521%关税",
-      "onboard_time": 1745324422,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 221400,
       "num": 221400,
       "word": "Jennie的腹肌",
@@ -1107,6 +1115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204536,
+      "num": 197728,
+      "word": "中国男乒世界杯丢冠暴露三大问题",
+      "onboard_time": 1745325021,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203982,
       "num": 203982,
       "word": "原来姜母鸭里并没有母鸭",
@@ -1121,6 +1137,14 @@
       "onboard_time": 1745321601,
       "rank": 31,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 202622,
+      "num": 202622,
+      "word": "李昊直播",
+      "onboard_time": 1745326401,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 202608,
@@ -1139,12 +1163,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 201651,
-      "num": 201651,
-      "word": "光与夜之恋",
-      "onboard_time": 1745325621,
-      "rank": 22,
-      "category": "游戏"
+      "raw_hot": 201816,
+      "num": 201816,
+      "word": "柳智敏金玟庭将公开合作内容",
+      "onboard_time": 1745326883,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 200996,
@@ -1187,6 +1211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 197330,
+      "num": 197330,
+      "word": "尊界S800将首发华为ADS4",
+      "onboard_time": 1745326583,
+      "rank": 23,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 196495,
       "num": 196495,
       "word": "七根心简下证",
@@ -1209,14 +1241,6 @@
       "onboard_time": 1745285781,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 194809,
-      "num": 194809,
-      "word": "中国男乒世界杯丢冠暴露三大问题",
-      "onboard_time": 1745325021,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 194595,
@@ -1371,6 +1395,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 182589,
+      "num": 182589,
+      "word": "林毅夫说美国有问题老找替罪羊",
+      "onboard_time": 1745326763,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 182512,
+      "num": 182512,
+      "word": "连衣裙",
+      "onboard_time": 1745322501,
+      "rank": 32,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 181790,
       "num": 299603,
       "word": "美国股市大幅下跌",
@@ -1393,6 +1433,14 @@
       "onboard_time": 1745304081,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 176909,
+      "num": 176909,
+      "word": "青岛真的太太太好拍了",
+      "onboard_time": 1745326641,
+      "rank": 36,
+      "category": "旅游"
     },
     {
       "raw_hot": 174355,
@@ -1572,19 +1620,19 @@
     },
     {
       "raw_hot": 161907,
+      "num": 182362,
+      "word": "无忧渡",
+      "onboard_time": 1745231662,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 161907,
       "num": 161907,
       "word": "明日方舟",
       "onboard_time": 1745316081,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 161868,
-      "num": 161868,
-      "word": "连衣裙",
-      "onboard_time": 1745322501,
-      "rank": 32,
-      "category": "时尚"
     },
     {
       "raw_hot": 161860,
@@ -1731,6 +1779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150839,
+      "num": 150839,
+      "word": "心疼宣夜",
+      "onboard_time": 1745326462,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150697,
       "num": 150697,
       "word": "陈德容 日子怎么可能和谁过都一样",
@@ -1779,6 +1835,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 146704,
+      "num": 146704,
+      "word": "男女演员已播剧有效播放量排名",
+      "onboard_time": 1745324722,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146327,
       "num": 146327,
       "word": "星穹铁道400万粉丝贺图",
@@ -1811,20 +1875,20 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 145311,
-      "num": 145311,
-      "word": "男女演员已播剧有效播放量排名",
-      "onboard_time": 1745324722,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 144185,
       "num": 144185,
       "word": "美国胁迫他国与中国脱钩频被拒",
       "onboard_time": 1745318302,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 144101,
+      "num": 144101,
+      "word": "被消防员偷亲了一下后它的表情亮了",
+      "onboard_time": 1745326641,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 143865,
@@ -1867,14 +1931,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 142317,
-      "num": 142317,
-      "word": "无忧渡",
-      "onboard_time": 1745231662,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 141963,
       "num": 141963,
       "word": "海军双语外宣片震撼发布",
@@ -1897,6 +1953,14 @@
       "onboard_time": 1745292322,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 141507,
+      "num": 141507,
+      "word": "王者荣耀铠动画剧集定档",
+      "onboard_time": 1745325981,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 141016,
@@ -2051,6 +2115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133403,
+      "num": 133403,
+      "word": "九尾征集美食",
+      "onboard_time": 1745326282,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 133398,
       "num": 133398,
       "word": "奔跑吧13怼脸拍",
@@ -2105,6 +2177,14 @@
       "onboard_time": 1745278520,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128395,
+      "num": 299172,
+      "word": "5旬辅警30余年前被人顶替上中专",
+      "onboard_time": 1745325981,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127918,
@@ -2233,14 +2313,6 @@
       "onboard_time": 1745320281,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 116002,
-      "num": 116002,
-      "word": "王者荣耀铠动画剧集定档",
-      "onboard_time": 1745325981,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 115874,
@@ -2556,11 +2628,19 @@
     },
     {
       "raw_hot": 71117,
-      "num": 124755,
+      "num": 195770,
       "word": "求邱贻可手机里孙颖莎唱歌视频",
       "onboard_time": 1745322920,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 70776,
+      "num": 182029,
+      "word": "现在买入黄金安全吗",
+      "onboard_time": 1745326883,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 70320,
@@ -2704,6 +2784,14 @@
       "word": "幼儿入园干体力活或成鸡娃新方向",
       "onboard_time": 1745309600,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59240,
+      "num": 157101,
+      "word": "高校回应聋哑女生因长相完美被质疑",
+      "onboard_time": 1745327001,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -2947,14 +3035,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 39727,
-      "num": 169923,
-      "word": "5旬辅警30余年前被人顶替上中专",
-      "onboard_time": 1745325981,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 39087,
       "num": 39087,
       "word": "湿气重如何治疗",
@@ -2977,6 +3057,14 @@
       "onboard_time": 1745255537,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 37586,
+      "num": 182162,
+      "word": "林心如再谈黄子佼案",
+      "onboard_time": 1745326883,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 37286,
@@ -3025,6 +3113,14 @@
       "onboard_time": 1745303721,
       "rank": 38,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 33059,
+      "num": 153701,
+      "word": "瑜伽里的拉伸放松真的超绝",
+      "onboard_time": 1745326341,
+      "rank": 39,
+      "category": "运动健身,民生新闻"
     },
     {
       "raw_hot": 32215,

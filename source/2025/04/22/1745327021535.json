@@ -1,0 +1,410 @@
+{
+  "runTime": 1745327021535,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3220087,
+        "num": 3220087,
+        "word": "仅退款",
+        "onboard_time": 1745321421,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1569644,
+        "num": 1569644,
+        "word": "电商平台全面取消仅退款",
+        "onboard_time": 1745318964,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 11641,
+        "num": 959034,
+        "word": "超高清走入千家万户",
+        "onboard_time": 1745291480,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 751881,
+        "num": 751881,
+        "word": "聋哑女生因长相太完美被质疑",
+        "onboard_time": 1745298082,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 596891,
+        "num": 596891,
+        "word": "无忧渡播出 陈奕恒都长大了",
+        "onboard_time": 1745324121,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 399575,
+        "num": 399575,
+        "word": "龙丹妮觉得赵露思是天选桑稚",
+        "onboard_time": 1745319981,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 348575,
+        "num": 348575,
+        "word": "腾讯游戏发布会",
+        "onboard_time": 1745324241,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 313352,
+        "num": 313352,
+        "word": "中方派出停火监督组赴缅甸",
+        "onboard_time": 1745321541,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 303044,
+        "num": 303044,
+        "word": "25楼坠落奇迹生还女童现况",
+        "onboard_time": 1745320042,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128395,
+        "num": 299172,
+        "word": "5旬辅警30余年前被人顶替上中专",
+        "onboard_time": 1745325981,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 935425,
+        "num": 299160,
+        "word": "赵丽颖我真没空陪你闹了",
+        "onboard_time": 1745317401,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 570586,
+        "num": 299160,
+        "word": "K总婚礼",
+        "onboard_time": 1745320821,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 299149,
+        "num": 299149,
+        "word": "京东外卖",
+        "onboard_time": 1745312362,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 290892,
+        "num": 290892,
+        "word": "中国经济规模将达到美国的2倍",
+        "onboard_time": 1745322022,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 283056,
+        "num": 283056,
+        "word": "光与夜之恋",
+        "onboard_time": 1745325621,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 243605,
+        "num": 243605,
+        "word": "新娘回应婚礼不搞仪式直接开席",
+        "onboard_time": 1745315961,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224319,
+        "num": 224319,
+        "word": "逐玉田曦薇亲完张凌赫亲",
+        "onboard_time": 1745319801,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202622,
+        "num": 202622,
+        "word": "李昊直播",
+        "onboard_time": 1745326401,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201816,
+        "num": 201816,
+        "word": "柳智敏金玟庭将公开合作内容",
+        "onboard_time": 1745326883,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187732,
+        "num": 201742,
+        "word": "虞书欣丞磊 二搭",
+        "onboard_time": 1745314280,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241200,
+        "num": 200253,
+        "word": "美对柬埔寨太阳能产品征收3521%关税",
+        "onboard_time": 1745324422,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 354432,
+        "num": 198630,
+        "word": "男子半月两次欲强奸女邻居未遂判刑",
+        "onboard_time": 1745316681,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204536,
+        "num": 197728,
+        "word": "中国男乒世界杯丢冠暴露三大问题",
+        "onboard_time": 1745325021,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197330,
+        "num": 197330,
+        "word": "尊界S800将首发华为ADS4",
+        "onboard_time": 1745326583,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 45141,
+        "num": 195770,
+        "word": "求邱贻可手机里孙颖莎唱歌视频",
+        "onboard_time": 1745322920,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194379,
+        "num": 194379,
+        "word": "中国被曝能让全球无人机产业停摆1年",
+        "onboard_time": 1745309960,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 182589,
+        "num": 182589,
+        "word": "林毅夫说美国有问题老找替罪羊",
+        "onboard_time": 1745326763,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 182512,
+        "num": 182512,
+        "word": "连衣裙",
+        "onboard_time": 1745322501,
+        "rank": 27,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 167788,
+        "num": 182412,
+        "word": "哪吒2密钥第3次延期",
+        "onboard_time": 1745306902,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 161907,
+        "num": 182362,
+        "word": "无忧渡",
+        "onboard_time": 1745321001,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 697914,
+        "num": 182267,
+        "word": "淘宝崩了",
+        "onboard_time": 1745323221,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 37586,
+        "num": 182162,
+        "word": "林心如再谈黄子佼案",
+        "onboard_time": 1745326883,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70776,
+        "num": 182029,
+        "word": "现在买入黄金安全吗",
+        "onboard_time": 1745326883,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 181965,
+        "num": 181965,
+        "word": "曝郑中基余思敏已决定离婚",
+        "onboard_time": 1745315901,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178426,
+        "num": 178426,
+        "word": "女儿给父亲转53万养老被丈夫起诉",
+        "onboard_time": 1745309782,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57821,
+        "num": 177111,
+        "word": "张杰发的小鸟球是什么",
+        "onboard_time": 1745325681,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 176909,
+        "num": 176909,
+        "word": "青岛真的太太太好拍了",
+        "onboard_time": 1745326641,
+        "rank": 36,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 165969,
+        "num": 165969,
+        "word": "李刚被逮捕",
+        "onboard_time": 1745290641,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 59240,
+        "num": 157101,
+        "word": "高校回应聋哑女生因长相完美被质疑",
+        "onboard_time": 1745327001,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33059,
+        "num": 153701,
+        "word": "瑜伽里的拉伸放松真的超绝",
+        "onboard_time": 1745326341,
+        "rank": 39,
+        "category": "运动健身,民生新闻"
+      },
+      {
+        "raw_hot": 153652,
+        "num": 153652,
+        "word": "于适说真诚创作永远排第一位",
+        "onboard_time": 1745321001,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150839,
+        "num": 150839,
+        "word": "心疼宣夜",
+        "onboard_time": 1745326462,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147904,
+        "num": 147904,
+        "word": "王者三分之地新英雄即将上线",
+        "onboard_time": 1745325681,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 146704,
+        "num": 146704,
+        "word": "男女演员已播剧有效播放量排名",
+        "onboard_time": 1745324722,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144101,
+        "num": 144101,
+        "word": "被消防员偷亲了一下后它的表情亮了",
+        "onboard_time": 1745326641,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141507,
+        "num": 141507,
+        "word": "王者荣耀铠动画剧集定档",
+        "onboard_time": 1745325981,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 138456,
+        "num": 138456,
+        "word": "华表奖名单",
+        "onboard_time": 1745307861,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138213,
+        "num": 138213,
+        "word": "关税",
+        "onboard_time": 1745315181,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 133403,
+        "num": 133403,
+        "word": "九尾征集美食",
+        "onboard_time": 1745326282,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119161,
+        "num": 133216,
+        "word": "刘耀文云包场马丽水饺皇后",
+        "onboard_time": 1745325502,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#文明因交流而多彩因互鉴而丰富#"
+    }
+  }
+}

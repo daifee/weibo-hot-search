@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745326132392,
+  "endTime": 1745327021535,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -65,6 +65,14 @@
       "onboard_time": 1745194945,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3220087,
+      "num": 3220087,
+      "word": "仅退款",
+      "onboard_time": 1745321421,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 3121027,
@@ -193,14 +201,6 @@
       "onboard_time": 1745104760,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1986971,
-      "num": 1986971,
-      "word": "仅退款",
-      "onboard_time": 1745321421,
-      "rank": 32,
-      "category": "互联网"
     },
     {
       "raw_hot": 1879015,
@@ -995,6 +995,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 697914,
+      "num": 182267,
+      "word": "淘宝崩了",
+      "onboard_time": 1745323221,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 696710,
       "num": 696710,
       "word": "李现 好久不见呀何惟芳",
@@ -1155,14 +1163,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 638462,
-      "num": 162484,
-      "word": "淘宝崩了",
-      "onboard_time": 1745323221,
-      "rank": 31,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 638428,
       "num": 638428,
       "word": "将门毒后短剧开机了",
@@ -1225,6 +1225,14 @@
       "onboard_time": 1745217260,
       "rank": 33,
       "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 596891,
+      "num": 596891,
+      "word": "无忧渡播出 陈奕恒都长大了",
+      "onboard_time": 1745324121,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 594595,
@@ -1513,14 +1521,6 @@
       "onboard_time": 1745207725,
       "rank": 37,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 505036,
-      "num": 505036,
-      "word": "无忧渡播出 陈奕恒都长大了",
-      "onboard_time": 1745324121,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 504021,
@@ -2579,6 +2579,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 283056,
+      "num": 283056,
+      "word": "光与夜之恋",
+      "onboard_time": 1745123843,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 282247,
       "num": 282247,
       "word": "冰湖重生",
@@ -3019,6 +3027,14 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 241200,
+      "num": 222408,
+      "word": "美对柬埔寨太阳能产品征收3521%关税",
+      "onboard_time": 1745324422,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 241131,
       "num": 360138,
       "word": "江苏一男子脚绑哑铃潜水溺亡",
@@ -3265,14 +3281,6 @@
       "onboard_time": 1745291182,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 222408,
-      "num": 222408,
-      "word": "美对柬埔寨太阳能产品征收3521%关税",
-      "onboard_time": 1745324422,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 221400,
@@ -3627,6 +3635,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 204536,
+      "num": 197728,
+      "word": "中国男乒世界杯丢冠暴露三大问题",
+      "onboard_time": 1745325021,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204279,
       "num": 204279,
       "word": "方文山说周杰伦今年会出新专辑",
@@ -3723,6 +3739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202622,
+      "num": 202622,
+      "word": "李昊直播",
+      "onboard_time": 1745326401,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202608,
       "num": 202608,
       "word": "王曼昱博客天下封面",
@@ -3763,12 +3787,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 201651,
-      "num": 201651,
-      "word": "光与夜之恋",
-      "onboard_time": 1745123843,
-      "rank": 40,
-      "category": "游戏"
+      "raw_hot": 201816,
+      "num": 201816,
+      "word": "柳智敏金玟庭将公开合作内容",
+      "onboard_time": 1745326883,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 200996,
@@ -3931,6 +3955,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 197330,
+      "num": 197330,
+      "word": "尊界S800将首发华为ADS4",
+      "onboard_time": 1745326583,
+      "rank": 23,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 196997,
       "num": 196997,
       "word": "谢霆锋香港演唱会应援排面",
@@ -4032,14 +4064,6 @@
       "word": "勇士战胜火箭",
       "onboard_time": 1745210304,
       "rank": 44,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 194809,
-      "num": 194809,
-      "word": "中国男乒世界杯丢冠暴露三大问题",
-      "onboard_time": 1745325021,
-      "rank": 24,
       "category": "体育"
     },
     {
@@ -4491,6 +4515,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182589,
+      "num": 182589,
+      "word": "林毅夫说美国有问题老找替罪羊",
+      "onboard_time": 1745326763,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 182512,
+      "num": 182512,
+      "word": "连衣裙",
+      "onboard_time": 1745322501,
+      "rank": 32,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 182337,
       "num": 351691,
       "word": "范思哲活动阵容",
@@ -4665,6 +4705,14 @@
       "onboard_time": 1745241385,
       "rank": 10,
       "category": "数码"
+    },
+    {
+      "raw_hot": 176909,
+      "num": 176909,
+      "word": "青岛真的太太太好拍了",
+      "onboard_time": 1745326641,
+      "rank": 36,
+      "category": "旅游"
     },
     {
       "raw_hot": 176590,
@@ -5283,14 +5331,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 161868,
-      "num": 161868,
-      "word": "连衣裙",
-      "onboard_time": 1745322501,
-      "rank": 32,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 161860,
       "num": 161860,
       "word": "周一下班还去健身房的人",
@@ -5811,6 +5851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 150839,
+      "num": 150839,
+      "word": "心疼宣夜",
+      "onboard_time": 1745326462,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150697,
       "num": 150697,
       "word": "陈德容 日子怎么可能和谁过都一样",
@@ -5979,6 +6027,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 146704,
+      "num": 146704,
+      "word": "男女演员已播剧有效播放量排名",
+      "onboard_time": 1745324722,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146614,
       "num": 279101,
       "word": "雨果世界杯赛后发博",
@@ -6027,14 +6083,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 145311,
-      "num": 145311,
-      "word": "男女演员已播剧有效播放量排名",
-      "onboard_time": 1745324722,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 145129,
       "num": 145129,
       "word": "管乐事业运",
@@ -6057,6 +6105,14 @@
       "onboard_time": 1745318302,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 144101,
+      "num": 144101,
+      "word": "被消防员偷亲了一下后它的表情亮了",
+      "onboard_time": 1745326641,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 143865,
@@ -6169,6 +6225,14 @@
       "onboard_time": 1745165032,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 141507,
+      "num": 141507,
+      "word": "王者荣耀铠动画剧集定档",
+      "onboard_time": 1745325981,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 141354,
@@ -6555,6 +6619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133403,
+      "num": 133403,
+      "word": "九尾征集美食",
+      "onboard_time": 1745326282,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 133398,
       "num": 133398,
       "word": "奔跑吧13怼脸拍",
@@ -6817,6 +6889,14 @@
       "onboard_time": 1745147600,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128395,
+      "num": 299172,
+      "word": "5旬辅警30余年前被人顶替上中专",
+      "onboard_time": 1745325981,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127946,
@@ -7201,14 +7281,6 @@
       "onboard_time": 1745076384,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 116002,
-      "num": 116002,
-      "word": "王者荣耀铠动画剧集定档",
-      "onboard_time": 1745325981,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 115874,
@@ -8436,11 +8508,19 @@
     },
     {
       "raw_hot": 71117,
-      "num": 124755,
+      "num": 195770,
       "word": "求邱贻可手机里孙颖莎唱歌视频",
       "onboard_time": 1745322920,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 70776,
+      "num": 182029,
+      "word": "现在买入黄金安全吗",
+      "onboard_time": 1745326883,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 70513,
@@ -8872,6 +8952,14 @@
       "word": "幼儿入园干体力活或成鸡娃新方向",
       "onboard_time": 1745309600,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59240,
+      "num": 157101,
+      "word": "高校回应聋哑女生因长相完美被质疑",
+      "onboard_time": 1745327001,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -9723,14 +9811,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 39727,
-      "num": 169923,
-      "word": "5旬辅警30余年前被人顶替上中专",
-      "onboard_time": 1745325981,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 39699,
       "num": 95336,
       "word": "异国他乡响起我爱你中国",
@@ -9825,6 +9905,14 @@
       "onboard_time": 1745144782,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 37586,
+      "num": 182162,
+      "word": "林心如再谈黄子佼案",
+      "onboard_time": 1745326883,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 37409,
@@ -9985,6 +10073,14 @@
       "onboard_time": 1745231842,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33059,
+      "num": 153701,
+      "word": "瑜伽里的拉伸放松真的超绝",
+      "onboard_time": 1745326341,
+      "rank": 39,
+      "category": "运动健身,民生新闻"
     },
     {
       "raw_hot": 32736,
