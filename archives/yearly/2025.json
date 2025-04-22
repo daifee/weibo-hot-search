@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1745293883238,
+  "endTime": 1745296148412,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -641,6 +641,14 @@
       "onboard_time": 1737808998,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 9814118,
+      "num": 11064118,
+      "word": "李刚被逮捕",
+      "onboard_time": 1745290641,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 9461281,
@@ -2049,14 +2057,6 @@
       "onboard_time": 1742374762,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 3158730,
-      "num": 3317461,
-      "word": "李刚被逮捕",
-      "onboard_time": 1745290641,
-      "rank": 7,
-      "category": "国内时政"
     },
     {
       "raw_hot": 3152316,

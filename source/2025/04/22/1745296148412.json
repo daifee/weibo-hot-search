@@ -1,0 +1,410 @@
+{
+  "runTime": 1745296148412,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9814118,
+        "num": 11064118,
+        "word": "李刚被逮捕",
+        "onboard_time": 1745290641,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1710684,
+        "num": 1710684,
+        "word": "可口可乐笑了百事可乐哭了",
+        "onboard_time": 1745290280,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 12995,
+        "num": 1504308,
+        "word": "超高清走入千家万户",
+        "onboard_time": 1745291480,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1304568,
+        "num": 1304568,
+        "word": "星巴克 免费咖啡",
+        "onboard_time": 1745287820,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1299234,
+        "num": 1299234,
+        "word": "特朗普要求日本进口美国大米和牛肉",
+        "onboard_time": 1745293523,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 806292,
+        "num": 806292,
+        "word": "金价",
+        "onboard_time": 1745289740,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 769745,
+        "num": 769745,
+        "word": "陈都灵肘击宋祖儿拳击",
+        "onboard_time": 1745292683,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 673645,
+        "num": 673645,
+        "word": "刘强东希望未来京东全职外卖员超100万人",
+        "onboard_time": 1745293103,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 402939,
+        "num": 610681,
+        "word": "逐玉",
+        "onboard_time": 1745290700,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75646,
+        "num": 582893,
+        "word": "我支持你保护地球",
+        "onboard_time": 1745295325,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1153705,
+        "num": 569424,
+        "word": "刘强东送的外卖不到27元",
+        "onboard_time": 1745289379,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 555905,
+        "num": 555905,
+        "word": "美国资产崩了",
+        "onboard_time": 1745290641,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 402182,
+        "num": 402182,
+        "word": "教育部增设29种本科新专业",
+        "onboard_time": 1745289801,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 328949,
+        "num": 393115,
+        "word": "张新成宋祖儿新剧改名光荣的制造",
+        "onboard_time": 1745295204,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79271,
+        "num": 387479,
+        "word": "日公明党党首将带石破茂亲笔信访华",
+        "onboard_time": 1745294363,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 298925,
+        "num": 380842,
+        "word": "哪吒2破157亿了",
+        "onboard_time": 1745285481,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 105839,
+        "num": 365785,
+        "word": "极氪9X实车曝光",
+        "onboard_time": 1745295264,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 232910,
+        "num": 356828,
+        "word": "刘涛妈祖变装",
+        "onboard_time": 1745294544,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143456,
+        "num": 349960,
+        "word": "郭晶晶说不止步才是永远的下一步",
+        "onboard_time": 1745295204,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59173,
+        "num": 342828,
+        "word": "为移民卖掉房产后项目烂尾只能租房住",
+        "onboard_time": 1745295024,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 336383,
+        "num": 336383,
+        "word": "迪丽热巴托工作人员给粉丝传话",
+        "onboard_time": 1745289320,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329295,
+        "num": 329295,
+        "word": "多吃抗炎食物可以抵消久坐的危害",
+        "onboard_time": 1745284823,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 74485,
+        "num": 312138,
+        "word": "星际宝贝史迪奇定档",
+        "onboard_time": 1745294903,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 308076,
+        "num": 308076,
+        "word": "网红小慧君造谣老板性骚扰事件进展",
+        "onboard_time": 1745294423,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213488,
+        "num": 276665,
+        "word": "孟子义李昀锐奔跑吧怼脸拍",
+        "onboard_time": 1745293041,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132150,
+        "num": 272167,
+        "word": "被网红造谣性骚扰老板仍有三案子未宣判",
+        "onboard_time": 1745294664,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 269657,
+        "num": 269657,
+        "word": "被刘强东请吃火锅外卖骑手发声",
+        "onboard_time": 1745285061,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 245921,
+        "num": 245921,
+        "word": "司机礼让救护车后被后车多次别停",
+        "onboard_time": 1745292262,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176140,
+        "num": 212795,
+        "word": "Jennie的腹肌",
+        "onboard_time": 1745295566,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 124145,
+        "num": 203815,
+        "word": "美三大零售巨头CEO齐赴白宫",
+        "onboard_time": 1745290401,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 199308,
+        "num": 199308,
+        "word": "自带杯",
+        "onboard_time": 1745295744,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 196739,
+        "num": 196739,
+        "word": "吴柳芳首次披露直播跳舞原因",
+        "onboard_time": 1745284041,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 185482,
+        "num": 185482,
+        "word": "孙颖莎11300分保持断层世界第一",
+        "onboard_time": 1745287581,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182030,
+        "num": 182030,
+        "word": "上海男子花18元中了1672万",
+        "onboard_time": 1745280200,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177221,
+        "num": 177221,
+        "word": "MAC 丁禹兮",
+        "onboard_time": 1745289379,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 172704,
+        "num": 172704,
+        "word": "司机让行救护车后遭后车反复别停",
+        "onboard_time": 1745289501,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168953,
+        "num": 168953,
+        "word": "梁博四专精气神",
+        "onboard_time": 1745294604,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 155594,
+        "num": 155594,
+        "word": "开始推理吧",
+        "onboard_time": 1745287761,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141963,
+        "num": 141963,
+        "word": "海军双语外宣片震撼发布",
+        "onboard_time": 1745295204,
+        "rank": 38,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 137877,
+        "num": 137877,
+        "word": "刘强东回忆给物流老兄弟们敬酒",
+        "onboard_time": 1745293762,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 136875,
+        "num": 136875,
+        "word": "C919大飞机内响起周深的声音",
+        "onboard_time": 1745291841,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136314,
+        "num": 136314,
+        "word": "福宝紧急撤回一个上班",
+        "onboard_time": 1745292800,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135320,
+        "num": 135320,
+        "word": "世界之外",
+        "onboard_time": 1745295204,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 5621,
+        "num": 135041,
+        "word": "吃盐太多真会使肥胖风险增加6倍吗",
+        "onboard_time": 1745296105,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 134857,
+        "num": 134857,
+        "word": "梁庭cp小虐怡情赶紧追妻",
+        "onboard_time": 1745295983,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53150,
+        "num": 134113,
+        "word": "柯南剧场版成绩仅次于鬼灭之刃",
+        "onboard_time": 1745294783,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 133398,
+        "num": 133398,
+        "word": "奔跑吧13怼脸拍",
+        "onboard_time": 1745295684,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130976,
+        "num": 130976,
+        "word": "周继红任中国游泳协会主席",
+        "onboard_time": 1745291182,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130760,
+        "num": 130760,
+        "word": "咪咪 我不ins字",
+        "onboard_time": 1745296045,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127477,
+        "num": 127477,
+        "word": "张艺兴现场版精忠报国太好听了",
+        "onboard_time": 1745247323,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#这些称呼体现中国同周边国家的浓浓情谊#"
+    }
+  }
+}
