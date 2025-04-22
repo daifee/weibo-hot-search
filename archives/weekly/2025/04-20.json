@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745286823714,
+  "endTime": 1745288149377,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -347,6 +347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1294146,
+      "num": 205714,
+      "word": "美团 京东",
+      "onboard_time": 1745285181,
+      "rank": 20,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1290057,
       "num": 784153,
       "word": "综艺史上最强婚恋售后出现了",
@@ -385,14 +393,6 @@
       "onboard_time": 1745214502,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1183291,
-      "num": 205714,
-      "word": "美团 京东",
-      "onboard_time": 1745285181,
-      "rank": 20,
-      "category": "互联网"
     },
     {
       "raw_hot": 1167497,
@@ -516,11 +516,19 @@
     },
     {
       "raw_hot": 986502,
-      "num": 461065,
+      "num": 527932,
       "word": "宋祖儿回应大小眼",
       "onboard_time": 1745281402,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 978218,
+      "num": 240652,
+      "word": "被刘强东请吃火锅外卖骑手发声",
+      "onboard_time": 1745285061,
+      "rank": 13,
+      "category": "互联网"
     },
     {
       "raw_hot": 944551,
@@ -1068,7 +1076,7 @@
     },
     {
       "raw_hot": 553486,
-      "num": 462003,
+      "num": 530342,
       "word": "收到差评最多的外卖员",
       "onboard_time": 1745252241,
       "rank": 33,
@@ -1097,6 +1105,14 @@
       "onboard_time": 1745148322,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 543871,
+      "num": 543871,
+      "word": "哪吒2破157亿了",
+      "onboard_time": 1745285481,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 541852,
@@ -1163,6 +1179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 524125,
+      "num": 524125,
+      "word": "吴柳芳首次披露直播跳舞原因",
+      "onboard_time": 1745284041,
+      "rank": 6,
+      "category": "网红"
+    },
+    {
       "raw_hot": 509102,
       "num": 509102,
       "word": "12306来票",
@@ -1177,14 +1201,6 @@
       "onboard_time": 1745153426,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 503760,
-      "num": 503760,
-      "word": "哪吒2破157亿了",
-      "onboard_time": 1745285481,
-      "rank": 3,
-      "category": "电影"
     },
     {
       "raw_hot": 503653,
@@ -1273,14 +1289,6 @@
       "onboard_time": 1745227163,
       "rank": 35,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 459961,
-      "num": 459961,
-      "word": "吴柳芳首次披露直播跳舞原因",
-      "onboard_time": 1745284041,
-      "rank": 6,
-      "category": "网红"
     },
     {
       "raw_hot": 453950,
@@ -1715,12 +1723,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 332753,
-      "num": 240652,
-      "word": "被刘强东请吃火锅外卖骑手发声",
-      "onboard_time": 1745285061,
-      "rank": 13,
-      "category": "互联网"
+      "raw_hot": 334294,
+      "num": 254756,
+      "word": "多吃抗炎食物可以抵消久坐的危害",
+      "onboard_time": 1745284823,
+      "rank": 9,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 332052,
@@ -2059,6 +2067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 280300,
+      "num": 212781,
+      "word": "孙颖莎11300分保持断层世界第一",
+      "onboard_time": 1745287581,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 279621,
       "num": 353913,
       "word": "九重紫宋墨篇开局就杀疯了",
@@ -2068,7 +2084,7 @@
     },
     {
       "raw_hot": 278679,
-      "num": 195292,
+      "num": 195811,
       "word": "湿气重有八大症状",
       "onboard_time": 1745283500,
       "rank": 23,
@@ -2080,6 +2096,14 @@
       "word": "种地吧收草莓",
       "onboard_time": 1745200462,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 274853,
+      "num": 207503,
+      "word": "开始推理吧",
+      "onboard_time": 1745287761,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -2259,14 +2283,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 254756,
-      "num": 254756,
-      "word": "多吃抗炎食物可以抵消久坐的危害",
-      "onboard_time": 1745284823,
-      "rank": 9,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 252689,
       "num": 252689,
       "word": "美军无人机严重依赖中国制造",
@@ -2377,6 +2393,14 @@
       "onboard_time": 1745122344,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 242624,
+      "num": 209437,
+      "word": "迪丽热巴 开推3",
+      "onboard_time": 1745283202,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 242555,
@@ -2564,7 +2588,7 @@
     },
     {
       "raw_hot": 219686,
-      "num": 189567,
+      "num": 195545,
       "word": "冷战后妻子偷偷挂了医生老公的号",
       "onboard_time": 1745279600,
       "rank": 24,
@@ -3139,6 +3163,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 195395,
+      "num": 195395,
+      "word": "李现发呆照",
+      "onboard_time": 1745285781,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194863,
       "num": 194863,
       "word": "勇士战胜火箭",
@@ -3443,14 +3475,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 185544,
-      "num": 209437,
-      "word": "迪丽热巴 开推3",
-      "onboard_time": 1745283202,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 184558,
       "num": 184558,
       "word": "和长生一起抓水母吧",
@@ -3473,6 +3497,14 @@
       "onboard_time": 1745207662,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 182625,
+      "num": 236355,
+      "word": "创意汉字让大自然化身书法家",
+      "onboard_time": 1745287581,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 182619,
@@ -3723,6 +3755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 174244,
+      "num": 182240,
+      "word": "宋祖儿归来还是这么坦诚的女子",
+      "onboard_time": 1745282963,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174181,
       "num": 174181,
       "word": "瞿颖和男友带两个女儿打网球",
@@ -3873,14 +3913,6 @@
       "onboard_time": 1745158889,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 168636,
-      "num": 168636,
-      "word": "李现发呆照",
-      "onboard_time": 1745285781,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 168490,
@@ -4163,6 +4195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159751,
+      "num": 159751,
+      "word": "猎德大桥",
+      "onboard_time": 1745286680,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159434,
       "num": 159434,
       "word": "谷雨",
@@ -4289,14 +4329,6 @@
       "onboard_time": 1745161286,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 156754,
-      "num": 182240,
-      "word": "宋祖儿归来还是这么坦诚的女子",
-      "onboard_time": 1745282963,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 156252,
@@ -4491,6 +4523,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 151698,
+      "num": 151698,
+      "word": "特斯拉",
+      "onboard_time": 1745287700,
+      "rank": 32,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 151316,
       "num": 145684,
       "word": "花花怎么越来越方了",
@@ -4555,6 +4595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149969,
+      "num": 149969,
+      "word": "特斯拉焕新ModelY首推5年免息",
+      "onboard_time": 1745286980,
+      "rank": 33,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 149917,
       "num": 149917,
       "word": "留几手将参加中国网球公开赛",
@@ -4585,6 +4633,14 @@
       "onboard_time": 1745199742,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 148264,
+      "num": 199119,
+      "word": "特朗普继续施压美联储",
+      "onboard_time": 1745283500,
+      "rank": 21,
+      "category": "国际时政"
     },
     {
       "raw_hot": 148103,
@@ -4716,7 +4772,7 @@
     },
     {
       "raw_hot": 141016,
-      "num": 531192,
+      "num": 544656,
       "word": "官方通报67款应用违法收集个人信息",
       "onboard_time": 1745282062,
       "rank": 2,
@@ -4859,20 +4915,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 136424,
+      "num": 136424,
+      "word": "星巴克 免费咖啡",
+      "onboard_time": 1745287820,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 136376,
       "num": 136376,
       "word": "檀健次推荐北影节短片",
       "onboard_time": 1745216540,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 136312,
-      "num": 199119,
-      "word": "特朗普继续施压美联储",
-      "onboard_time": 1745283500,
-      "rank": 21,
-      "category": "国际时政"
     },
     {
       "raw_hot": 136053,
@@ -6083,6 +6139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 93223,
+      "num": 93223,
+      "word": "孙颖莎王楚钦参加多哈世乒赛混双",
+      "onboard_time": 1745278520,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93010,
       "num": 234115,
       "word": "戚薇希望所有女生要有强大内核",
@@ -6275,14 +6339,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 82789,
-      "num": 82789,
-      "word": "猎德大桥",
-      "onboard_time": 1745286680,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 82655,
       "num": 82655,
       "word": "春天穿什么颜色最显白",
@@ -6451,14 +6507,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 76588,
-      "num": 76588,
-      "word": "孙颖莎王楚钦参加多哈世乒赛混双",
-      "onboard_time": 1745278520,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 75647,
       "num": 75647,
       "word": "北京国际电影节",
@@ -6553,6 +6601,14 @@
       "onboard_time": 1745162789,
       "rank": 19,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 69790,
+      "num": 159989,
+      "word": "王一博挑战纸巾上打高尔夫",
+      "onboard_time": 1745287640,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 69672,
@@ -7073,6 +7129,14 @@
       "onboard_time": 1745169439,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 53394,
+      "num": 196303,
+      "word": "增强腿部肌肉力量有哪些运动",
+      "onboard_time": 1745287281,
+      "rank": 19,
+      "category": "运动健身"
     },
     {
       "raw_hot": 53268,
@@ -8617,6 +8681,14 @@
       "onboard_time": 1745175374,
       "rank": 27,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 12770,
+      "num": 145104,
+      "word": "高中生打HPV疫苗这账怎么算都不亏",
+      "onboard_time": 1745287700,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 12590,
