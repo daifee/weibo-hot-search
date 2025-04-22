@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/23 07:23:06
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/23 07:38:36
 </p>
 </blockquote>
 <p>
@@ -3561,6 +3561,12 @@ IU向雪莉金赛纶推荐同一心理医生（热度：1041446）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E8%B4%A8%E7%96%91%E9%95%BF%E7%9B%B8%E5%90%AC%E9%9A%9C%E5%A5%B3%E7%94%9F%E7%A7%B0%E5%BE%AE%E8%B0%83%E8%BF%87%E5%87%A0%E5%A4%84%23" target="weibo">
+被质疑长相听障女生称微调过几处（热度：998135）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B2%E4%BA%A2%E5%93%A5%E4%BB%8A%E6%99%9A%E7%9B%B4%E6%92%AD%E6%88%96%E6%98%AF%E6%9C%80%E5%90%8E%E4%B8%80%E5%9C%BA%23" target="weibo">
 甲亢哥今晚直播或是最后一场（热度：997360）
 </a>
@@ -4719,12 +4725,6 @@ bite me男伴舞（热度：832510）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E8%B4%A8%E7%96%91%E9%95%BF%E7%9B%B8%E5%90%AC%E9%9A%9C%E5%A5%B3%E7%94%9F%E7%A7%B0%E5%BE%AE%E8%B0%83%E8%BF%87%E5%87%A0%E5%A4%84%23" target="weibo">
-被质疑长相听障女生称微调过几处（热度：830918）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%93%E9%87%8D200%E5%A4%9A%E6%96%A4%E8%AE%B0%E8%80%85%E5%AE%9E%E6%B5%8B%E5%8C%97%E4%BA%AC%E5%A4%A7%E9%A3%8E%23" target="weibo">
 体重200多斤记者实测北京大风（热度：830784）
 </a>
@@ -5297,6 +5297,12 @@ YERI和Wendy离开SM（热度：805847）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%B0%91%E5%A5%B3%E9%81%AD%E8%B4%A9%E5%8D%96%E9%80%83%E8%84%B1%E8%A2%AB%E8%AD%A6%E6%96%B9%E5%BC%BA%E5%88%B6%E9%80%81%E5%9B%9E%23" target="weibo">
 印度少女遭贩卖逃脱被警方强制送回（热度：770026）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%B9%B4%E5%89%8D%E7%9A%84%E5%90%8C%E5%AD%A6%E5%BD%95%E7%AA%81%E7%84%B6%E6%98%8E%E7%99%BD%E4%BA%86%E5%95%A5%E6%84%8F%E6%80%9D%23" target="weibo">
+多年前的同学录突然明白了啥意思（热度：769750）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ TVB男演员陈键锋学厨以第一名毕业（热度：726197）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E5%B0%8F%E7%8C%AB%E6%82%9F%E7%A9%BA%E4%B8%BB%E4%BA%BA%E5%B7%B2%E8%B0%85%E8%A7%A3%E8%BD%A6%E4%B8%BB%23" target="weibo">
 网红小猫悟空主人已谅解车主（热度：697248）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%B0%20%E5%A5%BD%E4%B9%85%E4%B8%8D%E8%A7%81%E5%91%80%E4%BD%95%E6%83%9F%E8%8A%B3%23" target="weibo">
-李现 好久不见呀何惟芳（热度：696710）
 </a>
 </li>
 
