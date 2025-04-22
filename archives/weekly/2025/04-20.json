@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745300544191,
+  "endTime": 1745303695030,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -153,6 +153,14 @@
       "onboard_time": 1745223021,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 2312947,
+      "num": 2312947,
+      "word": "聋哑女生因长相太完美被质疑",
+      "onboard_time": 1745298082,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2293147,
@@ -547,14 +555,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1067965,
-      "num": 1067965,
-      "word": "聋哑女生因长相太完美被质疑",
-      "onboard_time": 1745298082,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1039130,
       "num": 1166260,
       "word": "出轨的爸病床的妈被排挤的他",
@@ -635,12 +635,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 897504,
+      "num": 897504,
+      "word": "爱奇艺改logo",
+      "onboard_time": 1745301802,
+      "rank": 3,
+      "category": "互联网,剧集"
+    },
+    {
       "raw_hot": 894914,
       "num": 253129,
       "word": "黄子韬中考成绩",
       "onboard_time": 1745197463,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 875670,
+      "num": 875670,
+      "word": "结婚1年半离婚35万彩礼账单判还6万",
+      "onboard_time": 1745299163,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 863153,
@@ -1659,6 +1675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 373799,
+      "num": 373799,
+      "word": "棒棒堂被禁止和黑涩会美眉恋爱",
+      "onboard_time": 1745300602,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 373339,
       "num": 310664,
       "word": "赵樱子自曝微do",
@@ -1939,6 +1963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 328012,
+      "num": 328012,
+      "word": "金饰克价已涨到1061元",
+      "onboard_time": 1745297066,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 328002,
       "num": 238486,
       "word": "终于知道为什么好多婚纱胳肢窝破了",
@@ -1985,14 +2017,6 @@
       "onboard_time": 1745157809,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 319225,
-      "num": 319225,
-      "word": "金饰克价已涨到1061元",
-      "onboard_time": 1745297066,
-      "rank": 36,
-      "category": "财经"
     },
     {
       "raw_hot": 316290,
@@ -2212,7 +2236,7 @@
     },
     {
       "raw_hot": 291960,
-      "num": 308159,
+      "num": 338556,
       "word": "赵子琪说肖战成功是必然的",
       "onboard_time": 1745297965,
       "rank": 25,
@@ -2265,6 +2289,14 @@
       "onboard_time": 1745131702,
       "rank": 13,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 280595,
+      "num": 351516,
+      "word": "金饰克价已涨到1082元",
+      "onboard_time": 1745301443,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 280447,
@@ -2385,14 +2417,6 @@
       "onboard_time": 1745162726,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 263844,
-      "num": 275911,
-      "word": "结婚1年半离婚35万彩礼账单判还6万",
-      "onboard_time": 1745299163,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 262085,
@@ -2841,6 +2865,14 @@
       "onboard_time": 1745127383,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 223884,
+      "num": 333302,
+      "word": "K总婚礼嘉宾",
+      "onboard_time": 1745301323,
+      "rank": 17,
+      "category": "网红"
     },
     {
       "raw_hot": 222478,
@@ -4323,6 +4355,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 169205,
+      "num": 158886,
+      "word": "约基奇 假摔",
+      "onboard_time": 1745302163,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169056,
       "num": 169056,
       "word": "刘国正夸孙颖莎有大局观",
@@ -4401,6 +4441,14 @@
       "onboard_time": 1745113884,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 166956,
+      "num": 166956,
+      "word": "辛云来公主抱陈都灵蹲起耳朵红了",
+      "onboard_time": 1745302942,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 166703,
@@ -4971,6 +5019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152901,
+      "num": 160720,
+      "word": "成家",
+      "onboard_time": 1745302282,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152805,
       "num": 152805,
       "word": "开始推理吧3阵容官宣",
@@ -5241,6 +5297,14 @@
       "onboard_time": 1745152707,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 143602,
+      "num": 143602,
+      "word": "刘宇宁花仙子造型",
+      "onboard_time": 1745301621,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 143456,
@@ -5875,6 +5939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127918,
+      "num": 127918,
+      "word": "黄子佼再被查出持有非法影片",
+      "onboard_time": 1745300722,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127785,
       "num": 127785,
       "word": "来战",
@@ -5915,6 +5987,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 126210,
+      "num": 126210,
+      "word": "樊振东仍保持两项世界纪录",
+      "onboard_time": 1745300602,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126207,
       "num": 126207,
       "word": "全网最丢脸的风筝出现了",
@@ -5937,6 +6017,14 @@
       "onboard_time": 1745125582,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 126039,
+      "num": 126039,
+      "word": "迪丽热巴开推3回归海报",
+      "onboard_time": 1745303481,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 125789,
@@ -5985,6 +6073,14 @@
       "onboard_time": 1745068283,
       "rank": 33,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 124038,
+      "num": 159940,
+      "word": "网逃人员带70余万现金隐居山洞",
+      "onboard_time": 1745301022,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124008,
@@ -6219,6 +6315,14 @@
       "category": "综艺,互联网"
     },
     {
+      "raw_hot": 113856,
+      "num": 128868,
+      "word": "上班只是谋生",
+      "onboard_time": 1745300903,
+      "rank": 38,
+      "category": "情感,民生新闻"
+    },
+    {
       "raw_hot": 113429,
       "num": 177476,
       "word": "范玮琪跪谢粉丝",
@@ -6259,12 +6363,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 111582,
+      "num": 111582,
+      "word": "王嘉尔说捐款不需要广而告之",
+      "onboard_time": 1745303242,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 111502,
       "num": 130178,
       "word": "王子菲射击世界杯夺冠",
       "onboard_time": 1745123484,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110916,
+      "num": 110916,
+      "word": "首尔偶遇赵寅成",
+      "onboard_time": 1745302822,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 110533,
@@ -6771,6 +6891,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 94013,
+      "num": 343659,
+      "word": "美国土安全部长手提包被偷细节曝光",
+      "onboard_time": 1745302461,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 93899,
       "num": 206660,
       "word": "18岁王子菲1天3破世界级纪录",
@@ -6984,6 +7112,14 @@
       "word": "当我问Deepseek要不要打HPV疫苗",
       "onboard_time": 1745240782,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83186,
+      "num": 339471,
+      "word": "北京地铁挺身而出的女孩父母发声",
+      "onboard_time": 1745303123,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -7209,6 +7345,14 @@
       "onboard_time": 1745209944,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74686,
+      "num": 331208,
+      "word": "中国非核氢弹有哪些优势和前景",
+      "onboard_time": 1745303183,
+      "rank": 18,
+      "category": "科学科普"
     },
     {
       "raw_hot": 74485,
@@ -7563,6 +7707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62253,
+      "num": 160410,
+      "word": "上海车展到极狐汽车看脱口秀",
+      "onboard_time": 1745303364,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 62204,
       "num": 267987,
       "word": "与众06锋芒智趣纯电SUV",
@@ -7673,6 +7825,14 @@
       "onboard_time": 1745151689,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59425,
+      "num": 429982,
+      "word": "龚俊说明天上海车展见",
+      "onboard_time": 1745298444,
+      "rank": 12,
+      "category": "艺人,汽车"
     },
     {
       "raw_hot": 59173,
@@ -8219,6 +8379,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 44504,
+      "num": 328376,
+      "word": "技术宅自制危险器械触犯法律红线",
+      "onboard_time": 1745302522,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 44315,
       "num": 44315,
       "word": "吃撑后身体会发生哪些变化",
@@ -8329,14 +8497,6 @@
       "onboard_time": 1745140403,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 41762,
-      "num": 429982,
-      "word": "龚俊说明天上海车展见",
-      "onboard_time": 1745298444,
-      "rank": 12,
-      "category": "艺人,汽车"
     },
     {
       "raw_hot": 41739,
@@ -9052,7 +9212,7 @@
     },
     {
       "raw_hot": 22864,
-      "num": 1504308,
+      "num": 1542375,
       "word": "超高清走入千家万户",
       "onboard_time": 1745291480,
       "rank": 31,

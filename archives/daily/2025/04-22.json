@@ -1,6 +1,6 @@
 {
   "startTime": 1745253028487,
-  "endTime": 1745300544191,
+  "endTime": 1745303695030,
   "band_list": [
     {
       "raw_hot": 10072261,
@@ -17,6 +17,14 @@
       "onboard_time": 1745298264,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 2312947,
+      "num": 2312947,
+      "word": "聋哑女生因长相太完美被质疑",
+      "onboard_time": 1745298082,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2063845,
@@ -83,14 +91,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1067965,
-      "num": 1067965,
-      "word": "聋哑女生因长相太完美被质疑",
-      "onboard_time": 1745298082,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 986502,
       "num": 527932,
       "word": "宋祖儿回应大小眼",
@@ -105,6 +105,22 @@
       "onboard_time": 1745285061,
       "rank": 13,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 897504,
+      "num": 897504,
+      "word": "爱奇艺改logo",
+      "onboard_time": 1745301802,
+      "rank": 3,
+      "category": "互联网,剧集"
+    },
+    {
+      "raw_hot": 875670,
+      "num": 875670,
+      "word": "结婚1年半离婚35万彩礼账单判还6万",
+      "onboard_time": 1745299163,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 859238,
@@ -339,6 +355,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 373799,
+      "num": 373799,
+      "word": "棒棒堂被禁止和黑涩会美眉恋爱",
+      "onboard_time": 1745300602,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 361264,
       "num": 255951,
       "word": "张艺兴现场版精忠报国太好听了",
@@ -403,8 +427,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 319225,
-      "num": 319225,
+      "raw_hot": 328012,
+      "num": 328012,
       "word": "金饰克价已涨到1061元",
       "onboard_time": 1745297066,
       "rank": 36,
@@ -444,11 +468,19 @@
     },
     {
       "raw_hot": 291960,
-      "num": 308159,
+      "num": 338556,
       "word": "赵子琪说肖战成功是必然的",
       "onboard_time": 1745297965,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 280595,
+      "num": 351516,
+      "word": "金饰克价已涨到1082元",
+      "onboard_time": 1745301443,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 278679,
@@ -473,14 +505,6 @@
       "onboard_time": 1745253259,
       "rank": 33,
       "category": "健康医疗,民生新闻"
-    },
-    {
-      "raw_hot": 263844,
-      "num": 275911,
-      "word": "结婚1年半离婚35万彩礼账单判还6万",
-      "onboard_time": 1745299163,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 261141,
@@ -577,6 +601,14 @@
       "onboard_time": 1745298145,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 223884,
+      "num": 333302,
+      "word": "K总婚礼嘉宾",
+      "onboard_time": 1745301323,
+      "rank": 17,
+      "category": "网红"
     },
     {
       "raw_hot": 222478,
@@ -835,12 +867,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 169205,
+      "num": 158886,
+      "word": "约基奇 假摔",
+      "onboard_time": 1745302163,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168953,
       "num": 168953,
       "word": "梁博四专精气神",
       "onboard_time": 1745294604,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 166956,
+      "num": 166956,
+      "word": "辛云来公主抱陈都灵蹲起耳朵红了",
+      "onboard_time": 1745302942,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 165870,
@@ -923,6 +971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152901,
+      "num": 160720,
+      "word": "成家",
+      "onboard_time": 1745302282,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152805,
       "num": 152805,
       "word": "开始推理吧3阵容官宣",
@@ -985,6 +1041,14 @@
       "onboard_time": 1745290401,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 143602,
+      "num": 143602,
+      "word": "刘宇宁花仙子造型",
+      "onboard_time": 1745301621,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 143456,
@@ -1131,6 +1195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127918,
+      "num": 127918,
+      "word": "黄子佼再被查出持有非法影片",
+      "onboard_time": 1745300722,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126656,
       "num": 126656,
       "word": "年轻人都是怎么哄自己上班的",
@@ -1139,11 +1211,35 @@
       "category": "电影"
     },
     {
+      "raw_hot": 126210,
+      "num": 126210,
+      "word": "樊振东仍保持两项世界纪录",
+      "onboard_time": 1745300602,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 126039,
+      "num": 126039,
+      "word": "迪丽热巴开推3回归海报",
+      "onboard_time": 1745303481,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125789,
       "num": 373460,
       "word": "太原一写字楼玻璃掉落砸中楼下多车",
       "onboard_time": 1745290101,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124038,
+      "num": 159940,
+      "word": "网逃人员带70余万现金隐居山洞",
+      "onboard_time": 1745301022,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -1185,6 +1281,30 @@
       "onboard_time": 1745300301,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113856,
+      "num": 128868,
+      "word": "上班只是谋生",
+      "onboard_time": 1745300903,
+      "rank": 38,
+      "category": "情感,民生新闻"
+    },
+    {
+      "raw_hot": 111582,
+      "num": 111582,
+      "word": "王嘉尔说捐款不需要广而告之",
+      "onboard_time": 1745303242,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 110916,
+      "num": 110916,
+      "word": "首尔偶遇赵寅成",
+      "onboard_time": 1745302822,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 110533,
@@ -1251,6 +1371,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 94013,
+      "num": 343659,
+      "word": "美国土安全部长手提包被偷细节曝光",
+      "onboard_time": 1745302461,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 93254,
       "num": 93254,
       "word": "刘涛直播弹幕",
@@ -1305,6 +1433,14 @@
       "onboard_time": 1745231662,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 83186,
+      "num": 339471,
+      "word": "北京地铁挺身而出的女孩父母发声",
+      "onboard_time": 1745303123,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82815,
@@ -1369,6 +1505,14 @@
       "onboard_time": 1745287640,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 74686,
+      "num": 331208,
+      "word": "中国非核氢弹有哪些优势和前景",
+      "onboard_time": 1745303183,
+      "rank": 18,
+      "category": "科学科普"
     },
     {
       "raw_hot": 74485,
@@ -1467,6 +1611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62253,
+      "num": 160410,
+      "word": "上海车展到极狐汽车看脱口秀",
+      "onboard_time": 1745303364,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 61729,
       "num": 95815,
       "word": "中国反制或让美军无人机计划延期",
@@ -1489,6 +1641,14 @@
       "onboard_time": 1745257818,
       "rank": 16,
       "category": "网红"
+    },
+    {
+      "raw_hot": 59425,
+      "num": 429982,
+      "word": "龚俊说明天上海车展见",
+      "onboard_time": 1745298444,
+      "rank": 12,
+      "category": "艺人,汽车"
     },
     {
       "raw_hot": 59173,
@@ -1603,6 +1763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 44504,
+      "num": 328376,
+      "word": "技术宅自制危险器械触犯法律红线",
+      "onboard_time": 1745302522,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 43373,
       "num": 366508,
       "word": "柳州通报司机怼乘客不加价打不到车",
@@ -1625,14 +1793,6 @@
       "onboard_time": 1745298444,
       "rank": 19,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 41762,
-      "num": 429982,
-      "word": "龚俊说明天上海车展见",
-      "onboard_time": 1745298444,
-      "rank": 12,
-      "category": "艺人,汽车"
     },
     {
       "raw_hot": 41215,
@@ -1748,7 +1908,7 @@
     },
     {
       "raw_hot": 22864,
-      "num": 1504308,
+      "num": 1542375,
       "word": "超高清走入千家万户",
       "onboard_time": 1745291480,
       "rank": 31,

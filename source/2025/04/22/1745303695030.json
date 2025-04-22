@@ -1,0 +1,410 @@
+{
+  "runTime": 1745303695030,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3426162,
+        "num": 3426162,
+        "word": "李刚被逮捕",
+        "onboard_time": 1745290641,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2312947,
+        "num": 2312947,
+        "word": "聋哑女生因长相太完美被质疑",
+        "onboard_time": 1745298082,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9890,
+        "num": 1542375,
+        "word": "超高清走入千家万户",
+        "onboard_time": 1745291480,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 897504,
+        "num": 897504,
+        "word": "爱奇艺改logo",
+        "onboard_time": 1745301802,
+        "rank": 3,
+        "category": "互联网,剧集"
+      },
+      {
+        "raw_hot": 875670,
+        "num": 875670,
+        "word": "结婚1年半离婚35万彩礼账单判还6万",
+        "onboard_time": 1745299163,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 519033,
+        "num": 519033,
+        "word": "可口可乐笑了百事可乐哭了",
+        "onboard_time": 1745290280,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 373799,
+        "num": 373799,
+        "word": "棒棒堂被禁止和黑涩会美眉恋爱",
+        "onboard_time": 1745300602,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 356700,
+        "num": 356700,
+        "word": "人大物理系高材生做轻食月入千万",
+        "onboard_time": 1745296704,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 353027,
+        "num": 353027,
+        "word": "逐玉",
+        "onboard_time": 1745290700,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 280595,
+        "num": 351516,
+        "word": "金饰克价已涨到1082元",
+        "onboard_time": 1745301443,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 748848,
+        "num": 349879,
+        "word": "特朗普要求日本进口美国大米和牛肉",
+        "onboard_time": 1745293523,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 727740,
+        "num": 347917,
+        "word": "这居然是孟佳",
+        "onboard_time": 1745298503,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319281,
+        "num": 345943,
+        "word": "迪丽热巴开推花仙子造型",
+        "onboard_time": 1745297784,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94013,
+        "num": 343659,
+        "word": "美国土安全部长手提包被偷细节曝光",
+        "onboard_time": 1745302461,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 83186,
+        "num": 339471,
+        "word": "北京地铁挺身而出的女孩父母发声",
+        "onboard_time": 1745303123,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 280036,
+        "num": 338556,
+        "word": "赵子琪说肖战成功是必然的",
+        "onboard_time": 1745297965,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 443310,
+        "num": 336903,
+        "word": "刘强东送的外卖不到27元",
+        "onboard_time": 1745289379,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 223884,
+        "num": 333302,
+        "word": "K总婚礼嘉宾",
+        "onboard_time": 1745301323,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 74686,
+        "num": 331208,
+        "word": "中国非核氢弹有哪些优势和前景",
+        "onboard_time": 1745303183,
+        "rank": 18,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 44504,
+        "num": 328376,
+        "word": "技术宅自制危险器械触犯法律红线",
+        "onboard_time": 1745302522,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 328012,
+        "num": 328012,
+        "word": "金饰克价已涨到1061元",
+        "onboard_time": 1745297066,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 270987,
+        "num": 270987,
+        "word": "金价",
+        "onboard_time": 1745289740,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 188685,
+        "num": 188685,
+        "word": "教育部增设29种本科新专业",
+        "onboard_time": 1745289801,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 181682,
+        "num": 181682,
+        "word": "将门毒后短剧开机了",
+        "onboard_time": 1745296825,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176761,
+        "num": 176761,
+        "word": "星巴克 免费咖啡",
+        "onboard_time": 1745287820,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 166956,
+        "num": 166956,
+        "word": "辛云来公主抱陈都灵蹲起耳朵红了",
+        "onboard_time": 1745302942,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160950,
+        "num": 160950,
+        "word": "陈都灵肘击宋祖儿拳击",
+        "onboard_time": 1745292683,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152901,
+        "num": 160720,
+        "word": "成家",
+        "onboard_time": 1745302282,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62253,
+        "num": 160410,
+        "word": "上海车展到极狐汽车看脱口秀",
+        "onboard_time": 1745303364,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 124038,
+        "num": 159940,
+        "word": "网逃人员带70余万现金隐居山洞",
+        "onboard_time": 1745301022,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1380231,
+        "num": 159227,
+        "word": "京东外卖崩了",
+        "onboard_time": 1745298264,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 169205,
+        "num": 158886,
+        "word": "约基奇 假摔",
+        "onboard_time": 1745302163,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158703,
+        "num": 158703,
+        "word": "樊振东仍是世界杯最年轻男单冠军",
+        "onboard_time": 1745298803,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151187,
+        "num": 151187,
+        "word": "李斯丹妮裸全背",
+        "onboard_time": 1745298264,
+        "rank": 33,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 144725,
+        "num": 144725,
+        "word": "鸿星尔克 于适",
+        "onboard_time": 1745298145,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143961,
+        "num": 143961,
+        "word": "多吃抗炎食物可以抵消久坐的危害",
+        "onboard_time": 1745284823,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 143602,
+        "num": 143602,
+        "word": "刘宇宁花仙子造型",
+        "onboard_time": 1745301621,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59425,
+        "num": 131126,
+        "word": "龚俊说明天上海车展见",
+        "onboard_time": 1745298444,
+        "rank": 37,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 113856,
+        "num": 128868,
+        "word": "上班只是谋生",
+        "onboard_time": 1745300903,
+        "rank": 38,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 127918,
+        "num": 127918,
+        "word": "黄子佼再被查出持有非法影片",
+        "onboard_time": 1745300722,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126210,
+        "num": 126210,
+        "word": "樊振东仍保持两项世界纪录",
+        "onboard_time": 1745300602,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126039,
+        "num": 126039,
+        "word": "迪丽热巴开推3回归海报",
+        "onboard_time": 1745303481,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122322,
+        "num": 122322,
+        "word": "张新成宋祖儿新剧改名光荣的制造",
+        "onboard_time": 1745295204,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116786,
+        "num": 116786,
+        "word": "网红小慧君造谣老板性骚扰事件进展",
+        "onboard_time": 1745294423,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111582,
+        "num": 111582,
+        "word": "王嘉尔说捐款不需要广而告之",
+        "onboard_time": 1745303242,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111071,
+        "num": 111071,
+        "word": "今年底新拍电视剧将超高清化了",
+        "onboard_time": 1745298203,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110916,
+        "num": 110916,
+        "word": "首尔偶遇赵寅成",
+        "onboard_time": 1745302822,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106852,
+        "num": 106852,
+        "word": "刘强东希望未来京东全职外卖员超100万人",
+        "onboard_time": 1745293103,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 102737,
+        "num": 102737,
+        "word": "于适谈影视文旅联动",
+        "onboard_time": 1745298203,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 48213,
+        "num": 98576,
+        "word": "原来器官也有洁癖",
+        "onboard_time": 1745299223,
+        "rank": 49,
+        "category": "科学科普,民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#这些称呼体现中国同周边国家的浓浓情谊#"
+    }
+  }
+}
