@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745328849438,
+  "endTime": 1745329513911,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -875,20 +875,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 791432,
+      "num": 791432,
+      "word": "无忧渡播出 陈奕恒都长大了",
+      "onboard_time": 1745324121,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 777807,
       "num": 777807,
       "word": "李现晒和杨紫合照",
       "onboard_time": 1745162907,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 774316,
-      "num": 774316,
-      "word": "无忧渡播出 陈奕恒都长大了",
-      "onboard_time": 1745324121,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 773106,
@@ -1099,6 +1099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 661946,
+      "num": 661946,
+      "word": "徐锦江因儿子离家拍戏嚎啕大哭",
+      "onboard_time": 1745328142,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 659695,
       "num": 659695,
       "word": "李昀锐穿着戏服走红毯",
@@ -1276,7 +1284,7 @@
     },
     {
       "raw_hot": 582816,
-      "num": 306449,
+      "num": 366908,
       "word": "K总婚礼",
       "onboard_time": 1745320821,
       "rank": 40,
@@ -1539,6 +1547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 498309,
+      "num": 498309,
+      "word": "李昊直播",
+      "onboard_time": 1745326401,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 495981,
       "num": 271835,
       "word": "胡彦斌分享的喉糖自己买不到了",
@@ -1553,14 +1569,6 @@
       "onboard_time": 1745241203,
       "rank": 17,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 494005,
-      "num": 494005,
-      "word": "李昊直播",
-      "onboard_time": 1745326401,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 483625,
@@ -1681,6 +1689,14 @@
       "onboard_time": 1745200582,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 453252,
+      "num": 453252,
+      "word": "乒乓球运动员联合会成立",
+      "onboard_time": 1745327902,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 447594,
@@ -1875,6 +1891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 389588,
+      "num": 389588,
+      "word": "林彦俊 见面会",
+      "onboard_time": 1745327721,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 385528,
       "num": 385528,
       "word": "张超确认林高远入选",
@@ -2017,6 +2041,14 @@
       "onboard_time": 1745134523,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 362722,
+      "num": 362722,
+      "word": "金钟国做医美",
+      "onboard_time": 1745328681,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 361944,
@@ -2387,14 +2419,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 307999,
-      "num": 307999,
-      "word": "徐锦江因儿子离家拍戏嚎啕大哭",
-      "onboard_time": 1745328142,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 307621,
       "num": 307621,
       "word": "万花世界",
@@ -2436,7 +2460,7 @@
     },
     {
       "raw_hot": 304067,
-      "num": 304067,
+      "num": 368663,
       "word": "中国经济规模将达到美国的2倍",
       "onboard_time": 1745322022,
       "rank": 13,
@@ -2499,14 +2523,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 299231,
-      "num": 299231,
-      "word": "林彦俊 见面会",
-      "onboard_time": 1745327721,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 298809,
       "num": 298809,
       "word": "泽连斯基回应普京宣布停火30小时",
@@ -2529,6 +2545,14 @@
       "onboard_time": 1745081252,
       "rank": 15,
       "category": "艺人,剧集"
+    },
+    {
+      "raw_hot": 296669,
+      "num": 307982,
+      "word": "华为乾崑ADS4来了",
+      "onboard_time": 1745327902,
+      "rank": 8,
+      "category": "汽车"
     },
     {
       "raw_hot": 296636,
@@ -2707,6 +2731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 271434,
+      "num": 271434,
+      "word": "刘涛拜妈祖",
+      "onboard_time": 1745328383,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 271068,
       "num": 271068,
       "word": "女童过马路被罐车撞倒身亡",
@@ -2787,14 +2819,6 @@
       "category": "健康医疗,民生新闻"
     },
     {
-      "raw_hot": 265435,
-      "num": 307982,
-      "word": "华为乾崑ADS4来了",
-      "onboard_time": 1745327902,
-      "rank": 8,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 264577,
       "num": 264577,
       "word": "刘国梁参加澳门世界杯颁奖仪式",
@@ -2825,6 +2849,14 @@
       "onboard_time": 1745289379,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 260638,
+      "num": 260638,
+      "word": "中国男乒世界杯丢冠暴露三大问题",
+      "onboard_time": 1745325021,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 260569,
@@ -2881,6 +2913,14 @@
       "onboard_time": 1745290641,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 256013,
+      "num": 256013,
+      "word": "异人之下夏禾首曝",
+      "onboard_time": 1745328802,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 255967,
@@ -3011,14 +3051,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 245136,
-      "num": 217608,
-      "word": "金钟国做医美",
-      "onboard_time": 1745328681,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 245044,
       "num": 356796,
       "word": "美团再回应二选一传言",
@@ -3035,12 +3067,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 243731,
-      "num": 243731,
-      "word": "乒乓球运动员联合会成立",
-      "onboard_time": 1745327902,
-      "rank": 22,
-      "category": "体育"
+      "raw_hot": 243516,
+      "num": 297812,
+      "word": "杨怡是邓为追星狂粉",
+      "onboard_time": 1745327782,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 242978,
@@ -3081,14 +3113,6 @@
       "onboard_time": 1745311881,
       "rank": 31,
       "category": "互联网,民生新闻"
-    },
-    {
-      "raw_hot": 241642,
-      "num": 241642,
-      "word": "中国男乒世界杯丢冠暴露三大问题",
-      "onboard_time": 1745325021,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 241200,
@@ -3275,6 +3299,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 229334,
+      "num": 229334,
+      "word": "金价暴涨预示市场正经历根本性转变",
+      "onboard_time": 1745326641,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 228645,
       "num": 235671,
       "word": "牧神记年番开播",
@@ -3347,6 +3379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 222178,
+      "num": 222178,
+      "word": "华表奖",
+      "onboard_time": 1745328383,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 221400,
       "num": 221400,
       "word": "Jennie的腹肌",
@@ -3396,7 +3436,7 @@
     },
     {
       "raw_hot": 219274,
-      "num": 299172,
+      "num": 303292,
       "word": "5旬辅警30余年前被人顶替上中专",
       "onboard_time": 1745325981,
       "rank": 28,
@@ -3441,14 +3481,6 @@
       "onboard_time": 1745327242,
       "rank": 33,
       "category": "游戏,体育"
-    },
-    {
-      "raw_hot": 216922,
-      "num": 218991,
-      "word": "金价暴涨预示市场正经历根本性转变",
-      "onboard_time": 1745326641,
-      "rank": 27,
-      "category": "财经"
     },
     {
       "raw_hot": 216733,
@@ -3553,14 +3585,6 @@
       "onboard_time": 1745285001,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 213014,
-      "num": 218661,
-      "word": "刘涛拜妈祖",
-      "onboard_time": 1745328383,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 212570,
@@ -4187,14 +4211,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 193493,
-      "num": 193493,
-      "word": "异人之下夏禾首曝",
-      "onboard_time": 1745328802,
-      "rank": 34,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 193343,
       "num": 262507,
       "word": "生命树1",
@@ -4249,14 +4265,6 @@
       "onboard_time": 1745068823,
       "rank": 20,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 192411,
-      "num": 247373,
-      "word": "杨怡是邓为追星狂粉",
-      "onboard_time": 1745327782,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 192371,
@@ -4604,7 +4612,7 @@
     },
     {
       "raw_hot": 182589,
-      "num": 305249,
+      "num": 315899,
       "word": "林毅夫说美国有问题老找替罪羊",
       "onboard_time": 1745326763,
       "rank": 26,
@@ -4803,6 +4811,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 176874,
+      "num": 299181,
+      "word": "信赖智能从华为乾崑开始",
+      "onboard_time": 1745328922,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 176590,
       "num": 176590,
       "word": "嫁得好猫咪都跟着沾光",
@@ -4945,6 +4961,14 @@
       "onboard_time": 1745147842,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 173272,
+      "num": 173272,
+      "word": "女子称31岁丈夫拔牙后离世",
+      "onboard_time": 1745329403,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 173074,
@@ -5097,14 +5121,6 @@
       "onboard_time": 1745075665,
       "rank": 24,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 169774,
-      "num": 169774,
-      "word": "华表奖",
-      "onboard_time": 1745328383,
-      "rank": 37,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 169205,
@@ -5400,6 +5416,14 @@
       "word": "被泼汽油烧残女孩奶奶悲恸离世",
       "onboard_time": 1745245224,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162615,
+      "num": 162615,
+      "word": "女子剖腹产9个月后抽出10cm手术线",
+      "onboard_time": 1745329102,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -6027,6 +6051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149973,
+      "num": 149973,
+      "word": "全红婵训练前后判若两人",
+      "onboard_time": 1745329343,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149969,
       "num": 149969,
       "word": "特斯拉焕新ModelY首推5年免息",
@@ -6203,8 +6235,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144841,
+      "num": 144841,
+      "word": "启蒙教练称石洵瑶打不出来没天理",
+      "onboard_time": 1745329162,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144185,
-      "num": 144185,
+      "num": 168011,
       "word": "美国胁迫他国与中国脱钩频被拒",
       "onboard_time": 1745318302,
       "rank": 48,
@@ -7915,6 +7955,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 97737,
+      "num": 179834,
+      "word": "舞力全开手游首曝",
+      "onboard_time": 1745327364,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 97430,
       "num": 120389,
       "word": "没想到广东人才是辣条大户",
@@ -8516,7 +8564,7 @@
     },
     {
       "raw_hot": 74706,
-      "num": 270618,
+      "num": 302103,
       "word": "当军工基因改变智能越野",
       "onboard_time": 1745327121,
       "rank": 17,
@@ -8569,6 +8617,14 @@
       "onboard_time": 1745310920,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 73375,
+      "num": 163880,
+      "word": "男性九价终于来了",
+      "onboard_time": 1745328862,
+      "rank": 39,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 73178,
@@ -10691,6 +10747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 22224,
+      "num": 187252,
+      "word": "你支持HPV疫苗接种点进大学吗",
+      "onboard_time": 1745327182,
+      "rank": 36,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 22221,
       "num": 22221,
       "word": "周深说谢谢每一个听过我的人",
@@ -10761,14 +10825,6 @@
       "onboard_time": 1745206342,
       "rank": 49,
       "category": "财经,民生新闻"
-    },
-    {
-      "raw_hot": 20832,
-      "num": 170375,
-      "word": "你支持HPV疫苗接种点进大学吗",
-      "onboard_time": 1745327182,
-      "rank": 36,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 20820,
@@ -11233,6 +11289,14 @@
       "onboard_time": 1745268614,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 11623,
+      "num": 190640,
+      "word": "光线传媒利润暴增的推动力是什么",
+      "onboard_time": 1745329283,
+      "rank": 31,
+      "category": "财经,电影"
     },
     {
       "raw_hot": 11621,
