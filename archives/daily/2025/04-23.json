@@ -1,6 +1,6 @@
 {
   "startTime": 1745339463299,
-  "endTime": 1745353682323,
+  "endTime": 1745354483825,
   "band_list": [
     {
       "raw_hot": 1506699,
@@ -363,8 +363,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 64654,
-      "num": 43457,
+      "raw_hot": 66065,
+      "num": 44378,
       "word": "半夜看文的我",
       "onboard_time": 1745349134,
       "rank": 43,
@@ -563,24 +563,32 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 13295,
-      "num": 17269,
+      "raw_hot": 14705,
+      "num": 17719,
       "word": "2025十大年度IP评选",
       "onboard_time": 1745343975,
       "rank": 29,
       "category": "作品衍生"
     },
     {
-      "raw_hot": 12982,
-      "num": 12982,
+      "raw_hot": 14149,
+      "num": 14149,
+      "word": "云合",
+      "onboard_time": 1745354113,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 13640,
+      "num": 13640,
       "word": "刘强东请吃火锅说没有规矩想喝就喝",
       "onboard_time": 1745352734,
       "rank": 46,
       "category": "互联网"
     },
     {
-      "raw_hot": 12698,
-      "num": 12698,
+      "raw_hot": 12862,
+      "num": 12862,
       "word": "独一无二",
       "onboard_time": 1745345236,
       "rank": 48,

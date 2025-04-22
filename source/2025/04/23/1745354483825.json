@@ -1,0 +1,402 @@
+{
+  "runTime": 1745354483825,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 130985,
+        "num": 130985,
+        "word": "特朗普上任之前中国已经早有布局",
+        "onboard_time": 1745343975,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 105269,
+        "num": 105269,
+        "word": "仅退款",
+        "onboard_time": 1745321421,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 87564,
+        "num": 87564,
+        "word": "被质疑长相听障女生称微调过几处",
+        "onboard_time": 1745332822,
+        "rank": 3,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 69576,
+        "num": 69576,
+        "word": "微信加好友能加图片备注了",
+        "onboard_time": 1745334204,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 55927,
+        "num": 55927,
+        "word": "洛阳文旅确认白马寺内为狄仁杰墓",
+        "onboard_time": 1745333062,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47755,
+        "num": 47755,
+        "word": "金价暴涨预示市场正经历根本性转变",
+        "onboard_time": 1745326641,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 30488,
+        "num": 46940,
+        "word": "徐锦江因儿子离家拍戏嚎啕大哭",
+        "onboard_time": 1745328142,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30866,
+        "num": 46724,
+        "word": "哪吒2离全球影史第4还差7亿票房",
+        "onboard_time": 1745335703,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 46577,
+        "num": 46577,
+        "word": "黄金",
+        "onboard_time": 1745330663,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 66065,
+        "num": 44378,
+        "word": "半夜看文的我",
+        "onboard_time": 1745349134,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 38439,
+        "num": 38439,
+        "word": "女子称31岁丈夫拔牙后离世",
+        "onboard_time": 1745329403,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30705,
+        "num": 30705,
+        "word": "赵丽颖我真没空陪你闹了",
+        "onboard_time": 1745317401,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26980,
+        "num": 26980,
+        "word": "坐火车托运猫咪18小时后等来空箱",
+        "onboard_time": 1745334204,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23189,
+        "num": 23189,
+        "word": "美18万亿消费神话是刷出来的",
+        "onboard_time": 1745332642,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21994,
+        "num": 21994,
+        "word": "电商平台全面取消仅退款",
+        "onboard_time": 1745318964,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 21048,
+        "num": 21048,
+        "word": "永野芽郁 田中圭",
+        "onboard_time": 1745331743,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20866,
+        "num": 20866,
+        "word": "京东外卖",
+        "onboard_time": 1745312362,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 19159,
+        "num": 20729,
+        "word": "王嘉尔泰国聊水很深",
+        "onboard_time": 1745330482,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18633,
+        "num": 20440,
+        "word": "湖南卫视连发20条夏之光",
+        "onboard_time": 1745337741,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27695,
+        "num": 20047,
+        "word": "男子半月两次欲强奸女邻居未遂判刑",
+        "onboard_time": 1745316681,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24323,
+        "num": 19703,
+        "word": "女子剖腹产9个月后抽出10cm手术线",
+        "onboard_time": 1745329102,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19531,
+        "num": 19531,
+        "word": "K总婚礼",
+        "onboard_time": 1745320821,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 19445,
+        "num": 19445,
+        "word": "刑警追凶23年现实版我是刑警",
+        "onboard_time": 1745337621,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19434,
+        "num": 19434,
+        "word": "被医生错切右膝体育生称未来被打乱",
+        "onboard_time": 1745343196,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18432,
+        "num": 18432,
+        "word": "海军舰舰舰舰舰已就位",
+        "onboard_time": 1745344217,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 17785,
+        "num": 17785,
+        "word": "金钟国做医美",
+        "onboard_time": 1745328681,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16826,
+        "num": 17735,
+        "word": "哪吒2票房",
+        "onboard_time": 1745344095,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 14724,
+        "num": 17720,
+        "word": "龙丹妮觉得赵露思是天选桑稚",
+        "onboard_time": 1745319981,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14705,
+        "num": 17719,
+        "word": "2025十大年度IP评选",
+        "onboard_time": 1745343975,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 17719,
+        "num": 17718,
+        "word": "堪称神来之笔的名著开头结尾",
+        "onboard_time": 1745342477,
+        "rank": 30,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 17480,
+        "num": 17480,
+        "word": "太空视角看地球每一帧都震撼",
+        "onboard_time": 1745340798,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 16807,
+        "num": 16807,
+        "word": "60斤和110斤交换饮食的一天",
+        "onboard_time": 1745333843,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 16692,
+        "num": 16692,
+        "word": "翁东华卸任文和友小龙虾公司董事",
+        "onboard_time": 1745340737,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16036,
+        "num": 16036,
+        "word": "普京3年来首次向乌发出和谈邀约",
+        "onboard_time": 1745350874,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15952,
+        "num": 15952,
+        "word": "甘肃多个服务区热水器设围栏",
+        "onboard_time": 1745335822,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15833,
+        "num": 15833,
+        "word": "乒乓球运动员联合会成立",
+        "onboard_time": 1745327902,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14988,
+        "num": 14988,
+        "word": "当地回应39岁网红串哥因病去世",
+        "onboard_time": 1745344995,
+        "rank": 37,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 14656,
+        "num": 14656,
+        "word": "聋哑女生因长相太完美被质疑",
+        "onboard_time": 1745298082,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14374,
+        "num": 14374,
+        "word": "疑似田中圭永野芽郁同居被拍",
+        "onboard_time": 1745337141,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14248,
+        "num": 14248,
+        "word": "美国希望与俄乌本周达成协议",
+        "onboard_time": 1745347634,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 14184,
+        "num": 14184,
+        "word": "被烧伤女孩回应前男友当庭道歉",
+        "onboard_time": 1745339599,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14149,
+        "num": 14149,
+        "word": "云合",
+        "onboard_time": 1745354113,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13993,
+        "num": 13993,
+        "word": "广西大部气象干旱已达特旱级别",
+        "onboard_time": 1745335822,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13876,
+        "num": 13876,
+        "word": "借命而生",
+        "onboard_time": 1745335222,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13640,
+        "num": 13640,
+        "word": "刘强东请吃火锅说没有规矩想喝就喝",
+        "onboard_time": 1745352734,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 13320,
+        "num": 13320,
+        "word": "赵丽颖造城者剧组被曝欠薪数月",
+        "onboard_time": 1745332282,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13136,
+        "num": 13136,
+        "word": "华表奖",
+        "onboard_time": 1745328383,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 12862,
+        "num": 12862,
+        "word": "独一无二",
+        "onboard_time": 1745345236,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 12594,
+        "num": 12594,
+        "word": "林彦俊 见面会",
+        "onboard_time": 1745327721,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#文明因交流而多彩因互鉴而丰富#"
+    }
+  }
+}
