@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745329513911,
+  "endTime": 1745331891328,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -964,7 +964,7 @@
     },
     {
       "raw_hot": 711442,
-      "num": 218181,
+      "num": 245086,
       "word": "淘宝崩了",
       "onboard_time": 1745323221,
       "rank": 31,
@@ -1027,6 +1027,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 692847,
+      "num": 692847,
+      "word": "徐锦江因儿子离家拍戏嚎啕大哭",
+      "onboard_time": 1745328142,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 691979,
       "num": 691979,
       "word": "本周上5休1再上1",
@@ -1057,6 +1065,14 @@
       "onboard_time": 1745227702,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 683814,
+      "num": 374797,
+      "word": "女子称31岁丈夫拔牙后离世",
+      "onboard_time": 1745329403,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 683695,
@@ -1099,14 +1115,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 661946,
-      "num": 661946,
-      "word": "徐锦江因儿子离家拍戏嚎啕大哭",
-      "onboard_time": 1745328142,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 659695,
       "num": 659695,
       "word": "李昀锐穿着戏服走红毯",
@@ -1121,6 +1129,14 @@
       "onboard_time": 1745149883,
       "rank": 8,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 657370,
+      "num": 657370,
+      "word": "乒乓球运动员联合会成立",
+      "onboard_time": 1745327902,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 655090,
@@ -1443,6 +1459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 538208,
+      "num": 538208,
+      "word": "王嘉尔泰国聊水很深",
+      "onboard_time": 1745330482,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 536629,
       "num": 443271,
       "word": "女子赌博欠贷遭债主胁迫肉偿抵债",
@@ -1521,6 +1545,14 @@
       "onboard_time": 1745311221,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 511671,
+      "num": 374242,
+      "word": "金钟国做医美",
+      "onboard_time": 1745328681,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 509102,
@@ -1691,14 +1723,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 453252,
-      "num": 453252,
-      "word": "乒乓球运动员联合会成立",
-      "onboard_time": 1745327902,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 447594,
       "num": 447594,
       "word": "孙颖莎11300分保持断层世界第一",
@@ -1761,6 +1785,14 @@
       "onboard_time": 1745280503,
       "rank": 7,
       "category": "网红"
+    },
+    {
+      "raw_hot": 432669,
+      "num": 432669,
+      "word": "金价暴涨预示市场正经历根本性转变",
+      "onboard_time": 1745326641,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 431595,
@@ -1971,6 +2003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 373231,
+      "num": 373231,
+      "word": "女子剖腹产9个月后抽出10cm手术线",
+      "onboard_time": 1745329102,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 371789,
       "num": 371789,
       "word": "昨天章若楠今天白敬亭",
@@ -2041,14 +2081,6 @@
       "onboard_time": 1745134523,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 362722,
-      "num": 362722,
-      "word": "金钟国做医美",
-      "onboard_time": 1745328681,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 361944,
@@ -2289,6 +2321,14 @@
       "onboard_time": 1745295204,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 328120,
+      "num": 373313,
+      "word": "王楚钦假期陪爸妈逛动物园",
+      "onboard_time": 1745329522,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 328012,
@@ -2548,7 +2588,7 @@
     },
     {
       "raw_hot": 296669,
-      "num": 307982,
+      "num": 353173,
       "word": "华为乾崑ADS4来了",
       "onboard_time": 1745327902,
       "rank": 8,
@@ -3003,12 +3043,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 248795,
+      "num": 248795,
+      "word": "上过班的都知道这公司有多香",
+      "onboard_time": 1745331082,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 248293,
       "num": 412544,
       "word": "张萌说李昀锐值得被喜欢",
       "onboard_time": 1745161350,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 247529,
+      "num": 247529,
+      "word": "华表奖",
+      "onboard_time": 1745328383,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 247065,
@@ -3227,6 +3283,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 235120,
+      "num": 235120,
+      "word": "永野芽郁 田中圭",
+      "onboard_time": 1745331743,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 235114,
       "num": 298179,
       "word": "黄景瑜学生发型指定参考",
@@ -3299,11 +3363,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 229334,
-      "num": 229334,
-      "word": "金价暴涨预示市场正经历根本性转变",
-      "onboard_time": 1745326641,
-      "rank": 27,
+      "raw_hot": 228865,
+      "num": 228865,
+      "word": "黄金",
+      "onboard_time": 1745200822,
+      "rank": 30,
       "category": "财经"
     },
     {
@@ -3371,20 +3435,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 225101,
+      "num": 337929,
+      "word": "教练称石洵瑶有能力掀翻国家队主力",
+      "onboard_time": 1745330122,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 222478,
       "num": 374463,
       "word": "周继红任中国游泳协会主席",
       "onboard_time": 1745291182,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 222178,
-      "num": 222178,
-      "word": "华表奖",
-      "onboard_time": 1745328383,
-      "rank": 37,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 221400,
@@ -3473,6 +3537,14 @@
       "onboard_time": 1745228060,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 217301,
+      "num": 245488,
+      "word": "蔡文静 清纯女大",
+      "onboard_time": 1745331082,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 217124,
@@ -3657,14 +3729,6 @@
       "onboard_time": 1745077343,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 209715,
-      "num": 209715,
-      "word": "黄金",
-      "onboard_time": 1745200822,
-      "rank": 30,
-      "category": "财经"
     },
     {
       "raw_hot": 209278,
@@ -4812,7 +4876,7 @@
     },
     {
       "raw_hot": 176874,
-      "num": 299181,
+      "num": 373892,
       "word": "信赖智能从华为乾崑开始",
       "onboard_time": 1745328922,
       "rank": 18,
@@ -4961,14 +5025,6 @@
       "onboard_time": 1745147842,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 173272,
-      "num": 173272,
-      "word": "女子称31岁丈夫拔牙后离世",
-      "onboard_time": 1745329403,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 173074,
@@ -5419,14 +5475,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 162615,
-      "num": 162615,
-      "word": "女子剖腹产9个月后抽出10cm手术线",
-      "onboard_time": 1745329102,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 162595,
       "num": 336334,
       "word": "好一个乖乖女编剧方控诉分钱不均",
@@ -5547,6 +5595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 158689,
+      "num": 158689,
+      "word": "这不是我2000块学的游泳课吗",
+      "onboard_time": 1745331203,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 158308,
       "num": 174084,
       "word": "李晟给自己报了老年大学",
@@ -5665,6 +5721,14 @@
       "onboard_time": 1745230043,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 157186,
+      "num": 157186,
+      "word": "内娱已经在种地上卷出花来了",
+      "onboard_time": 1745331444,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 156961,
@@ -5939,6 +6003,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 152136,
+      "num": 152136,
+      "word": "WE登峰组首胜",
+      "onboard_time": 1745331623,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 151902,
       "num": 151902,
       "word": "句号道歉",
@@ -6177,6 +6249,14 @@
       "onboard_time": 1745213061,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146522,
+      "num": 146522,
+      "word": "古茗补货说明",
+      "onboard_time": 1745330603,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 146327,
@@ -6785,6 +6865,14 @@
       "onboard_time": 1745157992,
       "rank": 18,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 133263,
+      "num": 133263,
+      "word": "李灿卷毛",
+      "onboard_time": 1745331863,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 133221,
@@ -8067,6 +8155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95608,
+      "num": 374509,
+      "word": "美关税政策致全球经济增长显著放缓",
+      "onboard_time": 1745330122,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 95398,
       "num": 95398,
       "word": "哈佛大学起诉特朗普政府",
@@ -8649,6 +8745,14 @@
       "onboard_time": 1745232861,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71967,
+      "num": 154005,
+      "word": "专家称跨境电商能更灵活应对关税挑战",
+      "onboard_time": 1745331863,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 71884,
@@ -9995,6 +10099,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 39709,
+      "num": 374289,
+      "word": "多家品牌金店日内上调两次金饰价格",
+      "onboard_time": 1745330723,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39699,
       "num": 95336,
       "word": "异国他乡响起我爱你中国",
@@ -10091,6 +10203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 37431,
+      "num": 375106,
+      "word": "千万人共创的新能源mpv来了",
+      "onboard_time": 1745329522,
+      "rank": 10,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 37409,
       "num": 304611,
       "word": "全红婵又发九宫格了",
@@ -10137,6 +10257,14 @@
       "onboard_time": 1745133022,
       "rank": 9,
       "category": "民生新闻,美食"
+    },
+    {
+      "raw_hot": 36139,
+      "num": 168359,
+      "word": "长痘痘可以喝豆浆吗",
+      "onboard_time": 1745330482,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 35954,
@@ -10473,6 +10601,14 @@
       "onboard_time": 1745223562,
       "rank": 38,
       "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 27201,
+      "num": 373558,
+      "word": "INS新乐园向被烟头烫伤女子致歉",
+      "onboard_time": 1745330603,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27127,
@@ -11051,6 +11187,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 16833,
+      "num": 154950,
+      "word": "建议HPV疫苗出个情侣套餐",
+      "onboard_time": 1745330964,
+      "rank": 43,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 16796,
       "num": 45931,
       "word": "健康减肥的方式有哪些",
@@ -11339,6 +11483,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 10037,
+      "num": 161680,
+      "word": "机器人比赛是人类的新起点",
+      "onboard_time": 1745331743,
+      "rank": 39,
+      "category": "互联网,民生新闻"
+    },
+    {
       "raw_hot": 9828,
       "num": 148909,
       "word": "千奇百怪的骗局",
@@ -11379,6 +11531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 8105,
+      "num": 373641,
+      "word": "工作的时候烦躁怎么办",
+      "onboard_time": 1745331683,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 8079,
       "num": 259388,
       "word": "教皇方济各生平有哪些大事件",
@@ -11401,6 +11561,14 @@
       "onboard_time": 1745328082,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1849,
+      "num": 883909,
+      "word": "探秘深圳机器人谷的黑科技",
+      "onboard_time": 1745330242,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [

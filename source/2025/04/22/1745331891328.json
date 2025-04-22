@@ -1,0 +1,410 @@
+{
+  "runTime": 1745331891328,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3306585,
+        "num": 3306585,
+        "word": "仅退款",
+        "onboard_time": 1745321421,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1120095,
+        "num": 1120095,
+        "word": "电商平台全面取消仅退款",
+        "onboard_time": 1745318964,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1849,
+        "num": 883909,
+        "word": "探秘深圳机器人谷的黑科技",
+        "onboard_time": 1745330242,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 692847,
+        "num": 692847,
+        "word": "徐锦江因儿子离家拍戏嚎啕大哭",
+        "onboard_time": 1745328142,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 657370,
+        "num": 657370,
+        "word": "乒乓球运动员联合会成立",
+        "onboard_time": 1745327902,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 632577,
+        "num": 632577,
+        "word": "无忧渡播出 陈奕恒都长大了",
+        "onboard_time": 1745324121,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 578740,
+        "num": 578740,
+        "word": "聋哑女生因长相太完美被质疑",
+        "onboard_time": 1745298082,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 538208,
+        "num": 538208,
+        "word": "王嘉尔泰国聊水很深",
+        "onboard_time": 1745330482,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 432669,
+        "num": 432669,
+        "word": "金价暴涨预示市场正经历根本性转变",
+        "onboard_time": 1745326641,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 375169,
+        "num": 375169,
+        "word": "李昊直播",
+        "onboard_time": 1745326401,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37431,
+        "num": 375106,
+        "word": "千万人共创的新能源mpv来了",
+        "onboard_time": 1745329522,
+        "rank": 10,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 760413,
+        "num": 374864,
+        "word": "赵丽颖我真没空陪你闹了",
+        "onboard_time": 1745317401,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 683814,
+        "num": 374797,
+        "word": "女子称31岁丈夫拔牙后离世",
+        "onboard_time": 1745329403,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95608,
+        "num": 374509,
+        "word": "美关税政策致全球经济增长显著放缓",
+        "onboard_time": 1745330122,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 39709,
+        "num": 374289,
+        "word": "多家品牌金店日内上调两次金饰价格",
+        "onboard_time": 1745330723,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 511671,
+        "num": 374242,
+        "word": "金钟国做医美",
+        "onboard_time": 1745328681,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324558,
+        "num": 374072,
+        "word": "林彦俊 见面会",
+        "onboard_time": 1745327721,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92131,
+        "num": 373892,
+        "word": "信赖智能从华为乾崑开始",
+        "onboard_time": 1745328922,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 8105,
+        "num": 373641,
+        "word": "工作的时候烦躁怎么办",
+        "onboard_time": 1745331683,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 27201,
+        "num": 373558,
+        "word": "INS新乐园向被烟头烫伤女子致歉",
+        "onboard_time": 1745330603,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 328120,
+        "num": 373313,
+        "word": "王楚钦假期陪爸妈逛动物园",
+        "onboard_time": 1745329522,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 373231,
+        "num": 373231,
+        "word": "女子剖腹产9个月后抽出10cm手术线",
+        "onboard_time": 1745329102,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249280,
+        "num": 353173,
+        "word": "华为乾崑ADS4来了",
+        "onboard_time": 1745327902,
+        "rank": 22,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 225101,
+        "num": 337929,
+        "word": "教练称石洵瑶有能力掀翻国家队主力",
+        "onboard_time": 1745330122,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 333613,
+        "num": 333613,
+        "word": "男子半月两次欲强奸女邻居未遂判刑",
+        "onboard_time": 1745316681,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262177,
+        "num": 262177,
+        "word": "K总婚礼",
+        "onboard_time": 1745320821,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 251558,
+        "num": 251558,
+        "word": "刘涛拜妈祖",
+        "onboard_time": 1745328383,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248795,
+        "num": 248795,
+        "word": "上过班的都知道这公司有多香",
+        "onboard_time": 1745331082,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 247529,
+        "num": 247529,
+        "word": "华表奖",
+        "onboard_time": 1745328383,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 217301,
+        "num": 245488,
+        "word": "蔡文静 清纯女大",
+        "onboard_time": 1745331082,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290540,
+        "num": 245086,
+        "word": "淘宝崩了",
+        "onboard_time": 1745323221,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 244313,
+        "num": 244313,
+        "word": "京东外卖",
+        "onboard_time": 1745312362,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 235120,
+        "num": 235120,
+        "word": "永野芽郁 田中圭",
+        "onboard_time": 1745331743,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228865,
+        "num": 228865,
+        "word": "黄金",
+        "onboard_time": 1745330663,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 182763,
+        "num": 182763,
+        "word": "中国经济规模将达到美国的2倍",
+        "onboard_time": 1745322022,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 178807,
+        "num": 178807,
+        "word": "龙丹妮觉得赵露思是天选桑稚",
+        "onboard_time": 1745319981,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169464,
+        "num": 169464,
+        "word": "异人之下夏禾首曝",
+        "onboard_time": 1745328802,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 36139,
+        "num": 168359,
+        "word": "长痘痘可以喝豆浆吗",
+        "onboard_time": 1745330482,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 168172,
+        "num": 168172,
+        "word": "柳智敏金玟庭将公开合作内容",
+        "onboard_time": 1745326883,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 10037,
+        "num": 161680,
+        "word": "机器人比赛是人类的新起点",
+        "onboard_time": 1745331743,
+        "rank": 39,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 158689,
+        "num": 158689,
+        "word": "这不是我2000块学的游泳课吗",
+        "onboard_time": 1745331203,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158687,
+        "num": 158687,
+        "word": "无忧渡",
+        "onboard_time": 1745321001,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157186,
+        "num": 157186,
+        "word": "内娱已经在种地上卷出花来了",
+        "onboard_time": 1745331444,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16833,
+        "num": 154950,
+        "word": "建议HPV疫苗出个情侣套餐",
+        "onboard_time": 1745330964,
+        "rank": 43,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 71967,
+        "num": 154005,
+        "word": "专家称跨境电商能更灵活应对关税挑战",
+        "onboard_time": 1745331863,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 153689,
+        "num": 153689,
+        "word": "中国男乒世界杯丢冠暴露三大问题",
+        "onboard_time": 1745325021,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152136,
+        "num": 152136,
+        "word": "WE登峰组首胜",
+        "onboard_time": 1745331623,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 146522,
+        "num": 146522,
+        "word": "古茗补货说明",
+        "onboard_time": 1745330603,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 145843,
+        "num": 145843,
+        "word": "杨怡是邓为追星狂粉",
+        "onboard_time": 1745327782,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133263,
+        "num": 133263,
+        "word": "李灿卷毛",
+        "onboard_time": 1745331863,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#文明因交流而多彩因互鉴而丰富#"
+    }
+  }
+}

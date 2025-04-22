@@ -1,6 +1,6 @@
 {
   "startTime": 1745253028487,
-  "endTime": 1745329513911,
+  "endTime": 1745331891328,
   "band_list": [
     {
       "raw_hot": 10072261,
@@ -284,7 +284,7 @@
     },
     {
       "raw_hot": 711442,
-      "num": 218181,
+      "num": 245086,
       "word": "淘宝崩了",
       "onboard_time": 1745323221,
       "rank": 31,
@@ -299,6 +299,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 692847,
+      "num": 692847,
+      "word": "徐锦江因儿子离家拍戏嚎啕大哭",
+      "onboard_time": 1745328142,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 688275,
       "num": 688275,
       "word": "杨毅说过去三大赛无冠不可能当世一",
@@ -307,12 +315,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 661946,
-      "num": 661946,
-      "word": "徐锦江因儿子离家拍戏嚎啕大哭",
-      "onboard_time": 1745328142,
-      "rank": 7,
-      "category": "艺人"
+      "raw_hot": 683814,
+      "num": 374797,
+      "word": "女子称31岁丈夫拔牙后离世",
+      "onboard_time": 1745329403,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 657370,
+      "num": 657370,
+      "word": "乒乓球运动员联合会成立",
+      "onboard_time": 1745327902,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 653484,
@@ -427,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 538208,
+      "num": 538208,
+      "word": "王嘉尔泰国聊水很深",
+      "onboard_time": 1745330482,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 534100,
       "num": 534100,
       "word": "华表奖名单",
@@ -457,6 +481,14 @@
       "onboard_time": 1745311221,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 511671,
+      "num": 374242,
+      "word": "金钟国做医美",
+      "onboard_time": 1745328681,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 510591,
@@ -539,14 +571,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 453252,
-      "num": 453252,
-      "word": "乒乓球运动员联合会成立",
-      "onboard_time": 1745327902,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 447594,
       "num": 447594,
       "word": "孙颖莎11300分保持断层世界第一",
@@ -585,6 +609,14 @@
       "onboard_time": 1745280503,
       "rank": 7,
       "category": "网红"
+    },
+    {
+      "raw_hot": 432669,
+      "num": 432669,
+      "word": "金价暴涨预示市场正经历根本性转变",
+      "onboard_time": 1745326641,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 415196,
@@ -651,12 +683,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 362722,
-      "num": 362722,
-      "word": "金钟国做医美",
-      "onboard_time": 1745328681,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 373231,
+      "num": 373231,
+      "word": "女子剖腹产9个月后抽出10cm手术线",
+      "onboard_time": 1745329102,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 361264,
@@ -763,6 +795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 328120,
+      "num": 373313,
+      "word": "王楚钦假期陪爸妈逛动物园",
+      "onboard_time": 1745329522,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 328012,
       "num": 328012,
       "word": "金饰克价已涨到1061元",
@@ -820,7 +860,7 @@
     },
     {
       "raw_hot": 296669,
-      "num": 307982,
+      "num": 353173,
       "word": "华为乾崑ADS4来了",
       "onboard_time": 1745327902,
       "rank": 8,
@@ -963,6 +1003,22 @@
       "category": "军事"
     },
     {
+      "raw_hot": 248795,
+      "num": 248795,
+      "word": "上过班的都知道这公司有多香",
+      "onboard_time": 1745331082,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 247529,
+      "num": 247529,
+      "word": "华表奖",
+      "onboard_time": 1745328383,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 246156,
       "num": 302250,
       "word": "司机让行救护车后遭后车反复别停",
@@ -1067,6 +1123,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 235120,
+      "num": 235120,
+      "word": "永野芽郁 田中圭",
+      "onboard_time": 1745331743,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 233417,
       "num": 233417,
       "word": "自带杯",
@@ -1099,11 +1163,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 229334,
-      "num": 229334,
-      "word": "金价暴涨预示市场正经历根本性转变",
-      "onboard_time": 1745326641,
-      "rank": 27,
+      "raw_hot": 228865,
+      "num": 228865,
+      "word": "黄金",
+      "onboard_time": 1745330663,
+      "rank": 33,
       "category": "财经"
     },
     {
@@ -1115,20 +1179,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 225101,
+      "num": 337929,
+      "word": "教练称石洵瑶有能力掀翻国家队主力",
+      "onboard_time": 1745330122,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 222478,
       "num": 374463,
       "word": "周继红任中国游泳协会主席",
       "onboard_time": 1745291182,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 222178,
-      "num": 222178,
-      "word": "华表奖",
-      "onboard_time": 1745328383,
-      "rank": 37,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 221400,
@@ -1153,6 +1217,14 @@
       "onboard_time": 1745325981,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 217301,
+      "num": 245488,
+      "word": "蔡文静 清纯女大",
+      "onboard_time": 1745331082,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 217124,
@@ -1540,7 +1612,7 @@
     },
     {
       "raw_hot": 176874,
-      "num": 299181,
+      "num": 373892,
       "word": "信赖智能从华为乾崑开始",
       "onboard_time": 1745328922,
       "rank": 18,
@@ -1577,14 +1649,6 @@
       "onboard_time": 1745318001,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 173272,
-      "num": 173272,
-      "word": "女子称31岁丈夫拔牙后离世",
-      "onboard_time": 1745329403,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 173255,
@@ -1739,14 +1803,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 162615,
-      "num": 162615,
-      "word": "女子剖腹产9个月后抽出10cm手术线",
-      "onboard_time": 1745329102,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 161907,
       "num": 182362,
       "word": "无忧渡",
@@ -1787,6 +1843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158689,
+      "num": 158689,
+      "word": "这不是我2000块学的游泳课吗",
+      "onboard_time": 1745331203,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 157940,
       "num": 157940,
       "word": "张艺兴说中国传统音乐美感非常高级",
@@ -1800,6 +1864,14 @@
       "word": "爱奇艺世界大会预热阵容",
       "onboard_time": 1745291661,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 157186,
+      "num": 157186,
+      "word": "内娱已经在种地上卷出花来了",
+      "onboard_time": 1745331444,
+      "rank": 42,
       "category": "综艺"
     },
     {
@@ -1891,6 +1963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152136,
+      "num": 152136,
+      "word": "WE登峰组首胜",
+      "onboard_time": 1745331623,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 151698,
       "num": 151698,
       "word": "特斯拉",
@@ -1977,6 +2057,14 @@
       "onboard_time": 1745328743,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146522,
+      "num": 146522,
+      "word": "古茗补货说明",
+      "onboard_time": 1745330603,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 146327,
@@ -2273,6 +2361,14 @@
       "onboard_time": 1745295684,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133263,
+      "num": 133263,
+      "word": "李灿卷毛",
+      "onboard_time": 1745331863,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 133077,
@@ -2587,6 +2683,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 95608,
+      "num": 374509,
+      "word": "美关税政策致全球经济增长显著放缓",
+      "onboard_time": 1745330122,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 95398,
       "num": 95398,
       "word": "哈佛大学起诉特朗普政府",
@@ -2801,6 +2905,14 @@
       "onboard_time": 1745328862,
       "rank": 39,
       "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 71967,
+      "num": 154005,
+      "word": "专家称跨境电商能更灵活应对关税挑战",
+      "onboard_time": 1745331863,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 71884,
@@ -3219,6 +3331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39709,
+      "num": 374289,
+      "word": "多家品牌金店日内上调两次金饰价格",
+      "onboard_time": 1745330723,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39087,
       "num": 39087,
       "word": "湿气重如何治疗",
@@ -3243,6 +3363,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 37431,
+      "num": 375106,
+      "word": "千万人共创的新能源mpv来了",
+      "onboard_time": 1745329522,
+      "rank": 10,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 37286,
       "num": 167128,
       "word": "放松全身其实很简单",
@@ -3265,6 +3393,14 @@
       "onboard_time": 1745246363,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 36139,
+      "num": 168359,
+      "word": "长痘痘可以喝豆浆吗",
+      "onboard_time": 1745330482,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 34911,
@@ -3345,6 +3481,14 @@
       "onboard_time": 1745310080,
       "rank": 19,
       "category": "数码"
+    },
+    {
+      "raw_hot": 27201,
+      "num": 373558,
+      "word": "INS新乐园向被烟头烫伤女子致歉",
+      "onboard_time": 1745330603,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25644,
@@ -3563,6 +3707,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 16833,
+      "num": 154950,
+      "word": "建议HPV疫苗出个情侣套餐",
+      "onboard_time": 1745330964,
+      "rank": 43,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 16036,
       "num": 24222,
       "word": "唾液会感染梅毒吗",
@@ -3667,6 +3819,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 10037,
+      "num": 161680,
+      "word": "机器人比赛是人类的新起点",
+      "onboard_time": 1745331743,
+      "rank": 39,
+      "category": "互联网,民生新闻"
+    },
+    {
       "raw_hot": 9595,
       "num": 350133,
       "word": "首个孤独流浪黑洞是如何被发现的",
@@ -3683,6 +3843,14 @@
       "category": "美妆,民生新闻"
     },
     {
+      "raw_hot": 8105,
+      "num": 373641,
+      "word": "工作的时候烦躁怎么办",
+      "onboard_time": 1745331683,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 7124,
       "num": 258593,
       "word": "华表奖的含金量如何",
@@ -3695,6 +3863,14 @@
       "num": 750568,
       "word": "那些你不知道的北京地儿",
       "onboard_time": 1745196324,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 1849,
+      "num": 883909,
+      "word": "探秘深圳机器人谷的黑科技",
+      "onboard_time": 1745330242,
       "rank": 2,
       "category": "国内时政"
     }
