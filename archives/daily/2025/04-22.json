@@ -1,6 +1,6 @@
 {
   "startTime": 1745253028487,
-  "endTime": 1745314018260,
+  "endTime": 1745314846620,
   "band_list": [
     {
       "raw_hot": 10072261,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1331399,
-      "num": 449163,
+      "num": 460776,
       "word": "京东外卖回应爆单",
       "onboard_time": 1745308462,
       "rank": 10,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 883165,
-      "num": 424892,
+      "num": 442176,
       "word": "京东外卖",
       "onboard_time": 1745312362,
       "rank": 11,
@@ -275,6 +275,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 589890,
+      "num": 589890,
+      "word": "不二之臣海报",
+      "onboard_time": 1745309960,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 588170,
       "num": 423934,
       "word": "同学回应聋哑女孩因长相太美被质疑",
@@ -331,14 +339,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 511692,
-      "num": 511692,
-      "word": "不二之臣海报",
-      "onboard_time": 1745309960,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 510591,
       "num": 245230,
       "word": "房琪 对不起",
@@ -369,6 +369,14 @@
       "onboard_time": 1745309782,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 481048,
+      "num": 481048,
+      "word": "中国被曝能让全球无人机产业停摆1年",
+      "onboard_time": 1745309960,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 474220,
@@ -539,6 +547,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 334289,
+      "num": 334289,
+      "word": "特朗普称美联储主席为大失败者",
+      "onboard_time": 1745313081,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 329385,
       "num": 329385,
       "word": "女童被罐车撞倒身亡目击者发声",
@@ -561,6 +577,14 @@
       "onboard_time": 1745297066,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 315051,
+      "num": 315051,
+      "word": "虞书欣丞磊 二搭",
+      "onboard_time": 1745314280,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 313067,
@@ -601,14 +625,6 @@
       "onboard_time": 1745297965,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 281957,
-      "num": 281957,
-      "word": "中国被曝能让全球无人机产业停摆1年",
-      "onboard_time": 1745309960,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 278679,
@@ -803,6 +819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 215077,
+      "num": 215077,
+      "word": "刘强东请兄弟喝酒喜欢大杯举起来",
+      "onboard_time": 1745314221,
+      "rank": 23,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 213189,
       "num": 213189,
       "word": "你期待的地球是什么模样",
@@ -873,6 +897,14 @@
       "onboard_time": 1745298264,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200996,
+      "num": 200996,
+      "word": "张杰开着大鸟巢打着小鸟球",
+      "onboard_time": 1745311941,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 200116,
@@ -1091,14 +1123,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 173783,
-      "num": 173783,
-      "word": "张杰开着大鸟巢打着小鸟球",
-      "onboard_time": 1745311941,
-      "rank": 37,
-      "category": "演出"
-    },
-    {
       "raw_hot": 173255,
       "num": 173255,
       "word": "万花世界迪丽热巴",
@@ -1161,6 +1185,14 @@
       "onboard_time": 1745294604,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 168119,
+      "num": 168119,
+      "word": "日方炒作中国社会治安形势不佳",
+      "onboard_time": 1745314462,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 167636,
@@ -1251,6 +1283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157895,
+      "num": 308307,
+      "word": "男子讨喜钱掰断劳斯莱斯小金人",
+      "onboard_time": 1745312720,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157636,
       "num": 167257,
       "word": "爱奇艺世界大会预热阵容",
@@ -1281,6 +1321,14 @@
       "onboard_time": 1745303481,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156414,
+      "num": 156414,
+      "word": "朴彩英担任Coldplay演唱会嘉宾",
+      "onboard_time": 1745314343,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 154601,
@@ -1339,6 +1387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151127,
+      "num": 151127,
+      "word": "碧然德 孙颖莎",
+      "onboard_time": 1745314762,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150697,
       "num": 150697,
       "word": "陈德容 日子怎么可能和谁过都一样",
@@ -1353,6 +1409,14 @@
       "onboard_time": 1745286980,
       "rank": 33,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 149930,
+      "num": 342459,
+      "word": "刘涛在福建的地位",
+      "onboard_time": 1745312782,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 148328,
@@ -1451,28 +1515,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 141626,
-      "num": 141626,
-      "word": "男子讨喜钱掰断劳斯莱斯小金人",
-      "onboard_time": 1745312720,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 141016,
       "num": 735087,
       "word": "官方通报67款应用违法收集个人信息",
       "onboard_time": 1745282062,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 139802,
-      "num": 342459,
-      "word": "刘涛在福建的地位",
-      "onboard_time": 1745312782,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 138998,
@@ -1587,6 +1635,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134412,
+      "num": 134412,
+      "word": "李鹏新一审被判死缓",
+      "onboard_time": 1745314702,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134347,
+      "num": 134347,
+      "word": "曝iPhone17Pro引入天空蓝配色",
+      "onboard_time": 1745314762,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
       "raw_hot": 133398,
       "num": 133398,
       "word": "奔跑吧13怼脸拍",
@@ -1659,6 +1723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125566,
+      "num": 316668,
+      "word": "TVB艺人为何集体卖惨",
+      "onboard_time": 1745313862,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 124038,
       "num": 159940,
       "word": "网逃人员带70余万现金隐居山洞",
@@ -1697,14 +1769,6 @@
       "onboard_time": 1745295325,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 120861,
-      "num": 282469,
-      "word": "TVB艺人为何集体卖惨",
-      "onboard_time": 1745313862,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 118481,
@@ -2115,20 +2179,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 61530,
+      "num": 246330,
+      "word": "郑钦文红土赛季首秀",
+      "onboard_time": 1745313741,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 61434,
       "num": 61434,
       "word": "林依轮自称孙颖莎的野生粉头儿",
       "onboard_time": 1745273415,
       "rank": 46,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 60845,
-      "num": 246330,
-      "word": "郑钦文红土赛季首秀",
-      "onboard_time": 1745313741,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 60269,
@@ -2176,14 +2240,6 @@
       "word": "美加征关税后果转嫁消费者",
       "onboard_time": 1745292501,
       "rank": 14,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 58198,
-      "num": 326214,
-      "word": "特朗普称美联储主席为大失败者",
-      "onboard_time": 1745313081,
-      "rank": 19,
       "category": "国际时政"
     },
     {
@@ -2275,6 +2331,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51603,
+      "num": 359273,
+      "word": "女子被泼汽油烧伤案庭审细节曝光",
+      "onboard_time": 1745312902,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50371,
+      "num": 243386,
+      "word": "无手女孩希望推进无障碍卫生巾落地",
+      "onboard_time": 1745312902,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48743,
       "num": 146871,
       "word": "按照猪八戒的思路养儿子",
@@ -2289,14 +2361,6 @@
       "onboard_time": 1745273956,
       "rank": 48,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 47853,
-      "num": 243386,
-      "word": "无手女孩希望推进无障碍卫生巾落地",
-      "onboard_time": 1745312902,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 46184,
@@ -2371,14 +2435,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 37950,
-      "num": 359273,
-      "word": "女子被泼汽油烧伤案庭审细节曝光",
-      "onboard_time": 1745312902,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 37286,
       "num": 167128,
       "word": "放松全身其实很简单",
@@ -2401,6 +2457,14 @@
       "onboard_time": 1745246363,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 34911,
+      "num": 170301,
+      "word": "用AI还原小朋友的画作",
+      "onboard_time": 1745313381,
+      "rank": 38,
+      "category": "动漫,民生新闻"
     },
     {
       "raw_hot": 34554,
@@ -2515,6 +2579,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 22629,
+      "num": 338604,
+      "word": "高敏感人群如何更好的休息",
+      "onboard_time": 1745313741,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 22545,
       "num": 295834,
       "word": "吃盐太多真会使肥胖风险增加6倍吗",
@@ -2553,14 +2625,6 @@
       "onboard_time": 1745305520,
       "rank": 18,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 21231,
-      "num": 170301,
-      "word": "用AI还原小朋友的画作",
-      "onboard_time": 1745313381,
-      "rank": 38,
-      "category": "动漫,民生新闻"
     },
     {
       "raw_hot": 20554,
@@ -2673,14 +2737,6 @@
       "onboard_time": 1745269994,
       "rank": 49,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 15740,
-      "num": 338604,
-      "word": "高敏感人群如何更好的休息",
-      "onboard_time": 1745313741,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 14278,
