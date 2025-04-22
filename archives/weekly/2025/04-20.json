@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745336487897,
+  "endTime": 1745339463299,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -296,6 +296,14 @@
       "word": "刘强东送的外卖不到27元",
       "onboard_time": 1745289379,
       "rank": 10,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 1506699,
+      "num": 1506699,
+      "word": "微信加好友能加图片备注了",
+      "onboard_time": 1745334204,
+      "rank": 20,
       "category": "互联网"
     },
     {
@@ -617,14 +625,6 @@
       "onboard_time": 1745222781,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1041843,
-      "num": 1041843,
-      "word": "微信加好友能加图片备注了",
-      "onboard_time": 1745334204,
-      "rank": 20,
-      "category": "互联网"
     },
     {
       "raw_hot": 1041617,
@@ -1651,6 +1651,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 489759,
+      "num": 337675,
+      "word": "孙恩盛 快回家",
+      "onboard_time": 1745335402,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 483625,
       "num": 330503,
       "word": "女儿给父亲转53万养老被丈夫起诉",
@@ -2289,14 +2297,6 @@
       "onboard_time": 1745231302,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 337675,
-      "num": 337675,
-      "word": "孙恩盛 快回家",
-      "onboard_time": 1745335402,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 336784,
@@ -3641,6 +3641,14 @@
       "onboard_time": 1745247804,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 216240,
+      "num": 216240,
+      "word": "哪吒2离全球影史第4还差7亿票房",
+      "onboard_time": 1745335703,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 215955,
@@ -6219,6 +6227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150075,
+      "num": 169027,
+      "word": "疑似田中圭永野芽郁同居被拍",
+      "onboard_time": 1745337141,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150000,
       "num": 150000,
       "word": "李煜东开通微博",
@@ -6579,14 +6595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 141109,
-      "num": 141109,
-      "word": "哪吒2离全球影史第4还差7亿票房",
-      "onboard_time": 1745335703,
-      "rank": 40,
-      "category": "电影"
-    },
-    {
       "raw_hot": 141016,
       "num": 735087,
       "word": "官方通报67款应用违法收集个人信息",
@@ -6601,6 +6609,14 @@
       "onboard_time": 1745153665,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 140066,
+      "num": 412149,
+      "word": "甘肃多个服务区热水器设围栏",
+      "onboard_time": 1745335822,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140025,
@@ -7561,6 +7577,14 @@
       "onboard_time": 1745150663,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 119724,
+      "num": 474485,
+      "word": "广西大部气象干旱已达特旱级别",
+      "onboard_time": 1745335822,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119615,
@@ -8563,6 +8587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 83612,
+      "num": 83612,
+      "word": "孟子义百花杀翡翠发簪造型",
+      "onboard_time": 1745337681,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 83278,
       "num": 321079,
       "word": "当我问Deepseek要不要打HPV疫苗",
@@ -9235,12 +9267,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 63576,
-      "num": 474485,
-      "word": "广西大部气象干旱已达特旱级别",
-      "onboard_time": 1745335822,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 63773,
+      "num": 63773,
+      "word": "喝过期酸奶会怎么样",
+      "onboard_time": 1745338939,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 63425,
@@ -9345,6 +9377,14 @@
       "onboard_time": 1745313741,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 61484,
+      "num": 61484,
+      "word": "周震南铁定是风了",
+      "onboard_time": 1745339060,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 61434,
@@ -9489,14 +9529,6 @@
       "onboard_time": 1745252781,
       "rank": 24,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 57720,
-      "num": 412149,
-      "word": "甘肃多个服务区热水器设围栏",
-      "onboard_time": 1745335822,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 57318,
@@ -9731,6 +9763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52634,
+      "num": 61482,
+      "word": "车展方称努力争取后YU7还是遗憾缺席",
+      "onboard_time": 1745338999,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 52385,
       "num": 197855,
       "word": "教皇方济各的传奇人生",
@@ -9843,6 +9883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50517,
+      "num": 167847,
+      "word": "刑警追凶23年现实版我是刑警",
+      "onboard_time": 1745337621,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50371,
       "num": 243386,
       "word": "无手女孩希望推进无障碍卫生巾落地",
@@ -9851,12 +9899,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50321,
+      "num": 61477,
+      "word": "湖南卫视连发20条夏之光",
+      "onboard_time": 1745337741,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 49980,
       "num": 460418,
       "word": "超1200名经济学家签署反关税宣言",
       "onboard_time": 1745206582,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 49829,
+      "num": 61471,
+      "word": "三个燃脂动作减肥这样练就对了",
+      "onboard_time": 1745336602,
+      "rank": 49,
+      "category": "运动健身"
     },
     {
       "raw_hot": 49411,

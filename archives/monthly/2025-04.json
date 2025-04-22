@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1745336487897,
+  "endTime": 1745339463299,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -2121,6 +2121,14 @@
       "onboard_time": 1744105222,
       "rank": 18,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 1506699,
+      "num": 1506699,
+      "word": "微信加好友能加图片备注了",
+      "onboard_time": 1745334204,
+      "rank": 20,
+      "category": "互联网"
     },
     {
       "raw_hot": 1506573,
@@ -4465,14 +4473,6 @@
       "onboard_time": 1744784182,
       "rank": 28,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 1041843,
-      "num": 1041843,
-      "word": "微信加好友能加图片备注了",
-      "onboard_time": 1745334204,
-      "rank": 20,
-      "category": "互联网"
     },
     {
       "raw_hot": 1041617,
@@ -12139,6 +12139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 489759,
+      "num": 337675,
+      "word": "孙恩盛 快回家",
+      "onboard_time": 1745335402,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 489458,
       "num": 529201,
       "word": "甲亢哥来华的幕后推手",
@@ -17697,14 +17705,6 @@
       "onboard_time": 1744596621,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 337675,
-      "num": 337675,
-      "word": "孙恩盛 快回家",
-      "onboard_time": 1745335402,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 337642,
@@ -27281,6 +27281,14 @@
       "onboard_time": 1743916761,
       "rank": 19,
       "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 216240,
+      "num": 216240,
+      "word": "哪吒2离全球影史第4还差7亿票房",
+      "onboard_time": 1745335703,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 216090,
@@ -44203,6 +44211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150075,
+      "num": 169027,
+      "word": "疑似田中圭永野芽郁同居被拍",
+      "onboard_time": 1745337141,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150060,
       "num": 150060,
       "word": "港股集体爆发",
@@ -47011,14 +47027,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 141109,
-      "num": 141109,
-      "word": "哪吒2离全球影史第4还差7亿票房",
-      "onboard_time": 1745335703,
-      "rank": 40,
-      "category": "电影"
-    },
-    {
       "raw_hot": 141097,
       "num": 141097,
       "word": "山东文旅发了蔡徐坤",
@@ -47337,6 +47345,14 @@
       "onboard_time": 1743743061,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 140066,
+      "num": 412149,
+      "word": "甘肃多个服务区热水器设围栏",
+      "onboard_time": 1745335822,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140047,
@@ -54031,6 +54047,14 @@
       "num": 553211,
       "word": "中国馆在世博会惊艳亮相",
       "onboard_time": 1744513521,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119724,
+      "num": 474485,
+      "word": "广西大部气象干旱已达特旱级别",
+      "onboard_time": 1745335822,
       "rank": 9,
       "category": "民生新闻"
     },
@@ -61411,6 +61435,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 83612,
+      "num": 83612,
+      "word": "孟子义百花杀翡翠发簪造型",
+      "onboard_time": 1745337681,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 83486,
       "num": 287571,
       "word": "缅甸强震168小时生死营救",
@@ -64803,20 +64835,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 63773,
+      "num": 63773,
+      "word": "喝过期酸奶会怎么样",
+      "onboard_time": 1745338939,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 63679,
       "num": 117953,
       "word": "美一波音客机在空中着火",
       "onboard_time": 1743722358,
       "rank": 17,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 63576,
-      "num": 474485,
-      "word": "广西大部气象干旱已达特旱级别",
-      "onboard_time": 1745335822,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 63523,
@@ -65248,6 +65280,14 @@
       "word": "女王就是女王 倒嗓了也是女王",
       "onboard_time": 1744047976,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 61484,
+      "num": 61484,
+      "word": "周震南铁定是风了",
+      "onboard_time": 1745339060,
+      "rank": 46,
       "category": "艺人"
     },
     {
@@ -65849,14 +65889,6 @@
       "onboard_time": 1743664581,
       "rank": 19,
       "category": "情感"
-    },
-    {
-      "raw_hot": 57720,
-      "num": 412149,
-      "word": "甘肃多个服务区热水器设围栏",
-      "onboard_time": 1745335822,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 57701,
@@ -66747,6 +66779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52634,
+      "num": 61482,
+      "word": "车展方称努力争取后YU7还是遗憾缺席",
+      "onboard_time": 1745338999,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 52623,
       "num": 322762,
       "word": "气温多变五一出游该怎么穿",
@@ -67147,6 +67187,14 @@
       "category": "网红,民生新闻"
     },
     {
+      "raw_hot": 50517,
+      "num": 167847,
+      "word": "刑警追凶23年现实版我是刑警",
+      "onboard_time": 1745337621,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50513,
       "num": 50513,
       "word": "无畏契约",
@@ -67193,6 +67241,14 @@
       "onboard_time": 1744035384,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 50321,
+      "num": 61477,
+      "word": "湖南卫视连发20条夏之光",
+      "onboard_time": 1745337741,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 50313,
@@ -67265,6 +67321,14 @@
       "onboard_time": 1744209268,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 49829,
+      "num": 61471,
+      "word": "三个燃脂动作减肥这样练就对了",
+      "onboard_time": 1745336602,
+      "rank": 49,
+      "category": "运动健身"
     },
     {
       "raw_hot": 49779,

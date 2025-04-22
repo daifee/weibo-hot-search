@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/22 23:41:27
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/23 00:31:03
 </p>
 </blockquote>
 <p>
@@ -1601,6 +1601,12 @@ RedVelvet 解散（热度：1601334）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B2%E4%BA%A2%E5%93%A5%E5%8F%AF%E8%83%BD%E5%86%8D%E7%9B%B4%E6%92%AD2%E4%B8%AA%E5%9F%8E%E5%B8%82%23" target="weibo">
 甲亢哥可能再直播2个城市（热度：1508925）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E5%8A%A0%E5%A5%BD%E5%8F%8B%E8%83%BD%E5%8A%A0%E5%9B%BE%E7%89%87%E5%A4%87%E6%B3%A8%E4%BA%86%23" target="weibo">
+微信加好友能加图片备注了（热度：1506699）
 </a>
 </li>
 
@@ -3359,12 +3365,6 @@ DeepSeek7小时攻克缅甸救灾语言关（热度：1104741）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%92%AD%E9%9D%A0%E6%9A%B4%E9%A3%9F%E5%92%8C%E6%93%A6%E8%BE%B9%E8%A1%A8%E6%BC%94%E5%8D%96%E7%88%86%E5%87%8F%E8%82%A5%E4%BA%A7%E5%93%81%23" target="weibo">
 主播靠暴食和擦边表演卖爆减肥产品（热度：1042827）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E5%8A%A0%E5%A5%BD%E5%8F%8B%E8%83%BD%E5%8A%A0%E5%9B%BE%E7%89%87%E5%A4%87%E6%B3%A8%E4%BA%86%23" target="weibo">
-微信加好友能加图片备注了（热度：1041843）
 </a>
 </li>
 
