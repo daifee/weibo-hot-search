@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/22 18:43:57
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/22 19:21:43
 </p>
 </blockquote>
 <p>
@@ -629,6 +629,12 @@ C罗点评甲亢哥中国行（热度：2472029）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E4%B8%8D%E5%BB%BA%E8%AE%AE%E6%99%AE%E9%80%9A%E5%A5%B3%E7%94%9F%E5%81%9A%E5%8C%BB%E7%BE%8E%23" target="weibo">
 李佳琦不建议普通女生做医美（热度：2258010）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%95%86%E5%B9%B3%E5%8F%B0%E5%85%A8%E9%9D%A2%E5%8F%96%E6%B6%88%E4%BB%85%E9%80%80%E6%AC%BE%23" target="weibo">
+电商平台全面取消仅退款（热度：2253302）
 </a>
 </li>
 
@@ -2397,6 +2403,12 @@ Jennie 妈妈好帅（热度：1273842）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%88%91%E7%9C%9F%E6%B2%A1%E7%A9%BA%E9%99%AA%E4%BD%A0%E9%97%B9%E4%BA%86%23" target="weibo">
+赵丽颖我真没空陪你闹了（热度：1265804）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8C%E7%BA%A7%E6%BC%94%E5%91%98%E5%85%AC%E6%AC%BE%E6%97%85%E6%B8%B8%E8%A2%AB%E6%92%A4%E8%81%8C%23" target="weibo">
 二级演员公款旅游被撤职（热度：1260073）
 </a>
@@ -3335,6 +3347,12 @@ DeepSeek7小时攻克缅甸救灾语言关（热度：1104741）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%92%AD%E9%9D%A0%E6%9A%B4%E9%A3%9F%E5%92%8C%E6%93%A6%E8%BE%B9%E8%A1%A8%E6%BC%94%E5%8D%96%E7%88%86%E5%87%8F%E8%82%A5%E4%BA%A7%E5%93%81%23" target="weibo">
 主播靠暴食和擦边表演卖爆减肥产品（热度：1042827）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%8D%8A%E6%9C%88%E4%B8%A4%E6%AC%A1%E6%AC%B2%E5%BC%BA%E5%A5%B8%E5%A5%B3%E9%82%BB%E5%B1%85%E6%9C%AA%E9%81%82%E5%88%A4%E5%88%91%23" target="weibo">
+男子半月两次欲强奸女邻居未遂判刑（热度：1041617）
 </a>
 </li>
 
@@ -4659,6 +4677,12 @@ PO回应与雪莉恋情（热度：834785）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%80%90%E7%8E%89%E7%94%B0%E6%9B%A6%E8%96%87%E4%BA%B2%E5%AE%8C%E5%BC%A0%E5%87%8C%E8%B5%AB%E4%BA%B2%23" target="weibo">
+逐玉田曦薇亲完张凌赫亲（热度：832655）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23bite%20me%E7%94%B7%E4%BC%B4%E8%88%9E%23" target="weibo">
 bite me男伴舞（热度：832510）
 </a>
@@ -5949,12 +5973,6 @@ TVB男演员陈键锋学厨以第一名毕业（热度：726197）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%8D%8A%E6%9C%88%E4%B8%A4%E6%AC%A1%E6%AC%B2%E5%BC%BA%E5%A5%B8%E5%A5%B3%E9%82%BB%E5%B1%85%E6%9C%AA%E9%81%82%E5%88%A4%E5%88%91%23" target="weibo">
-男子半月两次欲强奸女邻居未遂判刑（热度：694997）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E8%A2%AB%E5%89%8D%E7%94%B7%E5%8F%8B%E6%9D%80%E5%AE%B35%E5%B9%B4%E5%90%8E%E4%BB%8D%E6%97%A0%E6%B3%95%E5%AE%89%E8%91%AC%23" target="weibo">
 女生被前男友杀害5年后仍无法安葬（热度：694527）
 </a>
@@ -5993,24 +6011,6 @@ TVB男演员陈键锋学厨以第一名毕业（热度：726197）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2310%E7%BA%A7%E7%8B%82%E9%A3%8E%E5%A0%AA%E6%AF%94%E5%8F%B0%E9%A3%8E%E8%BF%87%E5%A2%83%23" target="weibo">
 10级狂风堪比台风过境（热度：692970）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E6%9A%82%E5%81%9C%E6%8E%A5%E6%94%B6%E6%B3%A2%E9%9F%B3%E9%A3%9E%E6%9C%BA%23" target="weibo">
-外交部回应暂停接收波音飞机（热度：692646）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BA%88%E6%9B%A6%E7%A6%BB%E5%BC%80%E6%AC%A2%E7%91%9E%23" target="weibo">
-张予曦离开欢瑞（热度：692074）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%AC%E5%91%A8%E4%B8%8A5%E4%BC%911%E5%86%8D%E4%B8%8A1%23" target="weibo">
-本周上5休1再上1（热度：691979）
 </a>
 </li>
 
