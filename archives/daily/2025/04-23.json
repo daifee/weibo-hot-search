@@ -1,6 +1,6 @@
 {
   "startTime": 1745339463299,
-  "endTime": 1745361723906,
+  "endTime": 1745364186288,
   "band_list": [
     {
       "raw_hot": 1506699,
@@ -19,28 +19,36 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 721068,
-      "num": 721068,
+      "raw_hot": 929036,
+      "num": 929036,
+      "word": "特朗普上任之前中国已经早有布局",
+      "onboard_time": 1745343975,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 848874,
+      "num": 848874,
       "word": "洛阳文旅确认白马寺内为狄仁杰墓",
       "onboard_time": 1745333062,
       "rank": 3,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 670098,
-      "num": 670098,
+      "raw_hot": 830918,
+      "num": 830918,
       "word": "被质疑长相听障女生称微调过几处",
       "onboard_time": 1745332822,
       "rank": 4,
       "category": "民生新闻,网红"
     },
     {
-      "raw_hot": 632962,
-      "num": 632962,
-      "word": "特朗普上任之前中国已经早有布局",
-      "onboard_time": 1745343975,
-      "rank": 1,
-      "category": "国际时政"
+      "raw_hot": 642258,
+      "num": 642258,
+      "word": "金价暴涨预示市场正经历根本性转变",
+      "onboard_time": 1745326641,
+      "rank": 5,
+      "category": "财经"
     },
     {
       "raw_hot": 489759,
@@ -49,6 +57,22 @@
       "onboard_time": 1745335402,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 470501,
+      "num": 229219,
+      "word": "多年前的同学录突然明白了啥意思",
+      "onboard_time": 1745364139,
+      "rank": 10,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 407932,
+      "num": 407932,
+      "word": "美股市场已成爆炸区",
+      "onboard_time": 1745359755,
+      "rank": 7,
+      "category": "财经"
     },
     {
       "raw_hot": 400398,
@@ -67,14 +91,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 355692,
-      "num": 355692,
-      "word": "金价暴涨预示市场正经历根本性转变",
-      "onboard_time": 1745326641,
-      "rank": 5,
-      "category": "财经"
-    },
-    {
       "raw_hot": 316296,
       "num": 198876,
       "word": "小黄豆晒合照",
@@ -91,20 +107,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 238682,
-      "num": 238682,
-      "word": "美股市场已成爆炸区",
-      "onboard_time": 1745359755,
-      "rank": 7,
-      "category": "财经"
-    },
-    {
       "raw_hot": 234761,
       "num": 234761,
       "word": "电商平台全面取消仅退款",
       "onboard_time": 1745318964,
       "rank": 6,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 227358,
+      "num": 227358,
+      "word": "黄金",
+      "onboard_time": 1745330663,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 212755,
@@ -115,19 +131,27 @@
       "category": "网红"
     },
     {
-      "raw_hot": 201687,
-      "num": 201687,
-      "word": "黄金",
-      "onboard_time": 1745330663,
-      "rank": 9,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 194099,
-      "num": 194099,
+      "raw_hot": 205950,
+      "num": 205950,
       "word": "女子称31岁丈夫拔牙后离世",
       "onboard_time": 1745329403,
       "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 194462,
+      "num": 157925,
+      "word": "男子半月两次欲强奸女邻居未遂判刑",
+      "onboard_time": 1745316681,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 178291,
+      "num": 178291,
+      "word": "被医生错切右膝体育生称未来被打乱",
+      "onboard_time": 1745343196,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -163,14 +187,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 157925,
-      "num": 157925,
-      "word": "男子半月两次欲强奸女邻居未遂判刑",
-      "onboard_time": 1745316681,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 153967,
       "num": 170538,
       "word": "赵丽颖造城者剧组被曝欠薪数月",
@@ -180,7 +196,7 @@
     },
     {
       "raw_hot": 150481,
-      "num": 186628,
+      "num": 229504,
       "word": "徐锦江因儿子离家拍戏嚎啕大哭",
       "onboard_time": 1745328142,
       "rank": 18,
@@ -195,20 +211,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 147023,
-      "num": 147023,
-      "word": "被医生错切右膝体育生称未来被打乱",
-      "onboard_time": 1745343196,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 146819,
       "num": 146819,
       "word": "梁田破碎感",
       "onboard_time": 1745334022,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140380,
+      "num": 140380,
+      "word": "刘强东请吃火锅说没有规矩想喝就喝",
+      "onboard_time": 1745352734,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 140066,
@@ -227,6 +243,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 136387,
+      "num": 131917,
+      "word": "女子剖腹产9个月后抽出10cm手术线",
+      "onboard_time": 1745329102,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136246,
       "num": 145504,
       "word": "王嘉尔泰国聊水很深",
@@ -235,19 +259,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 131917,
-      "num": 131917,
-      "word": "女子剖腹产9个月后抽出10cm手术线",
-      "onboard_time": 1745329102,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 131168,
       "num": 200383,
       "word": "被烧伤女孩回应前男友当庭道歉",
       "onboard_time": 1745339599,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126994,
+      "num": 126994,
+      "word": "坐火车托运猫咪18小时后等来空箱",
+      "onboard_time": 1745334204,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -273,14 +297,6 @@
       "onboard_time": 1745321001,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 102324,
-      "num": 102324,
-      "word": "坐火车托运猫咪18小时后等来空箱",
-      "onboard_time": 1745334204,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 99401,
@@ -323,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 78098,
+      "num": 78098,
+      "word": "成毅下部戏是沧海笑",
+      "onboard_time": 1745359695,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 77565,
       "num": 77820,
       "word": "刘涛拜妈祖",
@@ -363,6 +387,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69111,
+      "num": 69111,
+      "word": "湖南卫视连发20条夏之光",
+      "onboard_time": 1745337741,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 68944,
+      "num": 66401,
+      "word": "雨果回应世界排名升至第三",
+      "onboard_time": 1745364019,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 66835,
       "num": 53948,
       "word": "雷神加速器",
@@ -385,6 +425,14 @@
       "onboard_time": 1745349134,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 66012,
+      "num": 66012,
+      "word": "海军舰舰舰舰舰已就位",
+      "onboard_time": 1745344217,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 63773,
@@ -411,12 +459,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 54640,
-      "num": 45307,
-      "word": "海军舰舰舰舰舰已就位",
-      "onboard_time": 1745344217,
-      "rank": 34,
-      "category": "国内时政"
+      "raw_hot": 55178,
+      "num": 55178,
+      "word": "当地回应39岁网红串哥因病去世",
+      "onboard_time": 1745344995,
+      "rank": 44,
+      "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 54405,
+      "num": 57944,
+      "word": "无忧渡这幕我哭到泪失禁",
+      "onboard_time": 1745362396,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 52634,
@@ -425,14 +481,6 @@
       "onboard_time": 1745338999,
       "rank": 47,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 52366,
-      "num": 61477,
-      "word": "湖南卫视连发20条夏之光",
-      "onboard_time": 1745337741,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 50517,
@@ -449,6 +497,22 @@
       "onboard_time": 1745336602,
       "rank": 49,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 45155,
+      "num": 45155,
+      "word": "日本5公斤大米均价216元",
+      "onboard_time": 1745363178,
+      "rank": 41,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 44345,
+      "num": 54254,
+      "word": "美国希望与俄乌本周达成协议",
+      "onboard_time": 1745347634,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 44100,
@@ -475,6 +539,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 41584,
+      "num": 41584,
+      "word": "英军高官挑衅台海问题",
+      "onboard_time": 1745363358,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 41319,
       "num": 41319,
       "word": "迪丽热巴元气美少女",
@@ -483,20 +555,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 38166,
-      "num": 34806,
-      "word": "刘强东请吃火锅说没有规矩想喝就喝",
-      "onboard_time": 1745352734,
-      "rank": 46,
-      "category": "互联网"
+      "raw_hot": 41197,
+      "num": 41197,
+      "word": "借命而生",
+      "onboard_time": 1745335222,
+      "rank": 35,
+      "category": "剧集"
     },
     {
-      "raw_hot": 37394,
-      "num": 37394,
-      "word": "成毅下部戏是沧海笑",
-      "onboard_time": 1745359695,
-      "rank": 37,
-      "category": "剧集"
+      "raw_hot": 40662,
+      "num": 40662,
+      "word": "卤鸭店老板拒售变质鸭视频下架",
+      "onboard_time": 1745354954,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38981,
+      "num": 40659,
+      "word": "睡不着闭目养神有休息效果吗",
+      "onboard_time": 1745363418,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 37134,
@@ -505,6 +585,14 @@
       "onboard_time": 1745341038,
       "rank": 21,
       "category": "军事"
+    },
+    {
+      "raw_hot": 36683,
+      "num": 40653,
+      "word": "普京3年来首次向乌发出和谈邀约",
+      "onboard_time": 1745350874,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 35102,
@@ -523,28 +611,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 32486,
-      "num": 32486,
-      "word": "卤鸭店老板拒售变质鸭视频下架",
-      "onboard_time": 1745354954,
-      "rank": 30,
+      "raw_hot": 29955,
+      "num": 82944,
+      "word": "北京地铁5号线女乘客发声",
+      "onboard_time": 1745363959,
+      "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29926,
-      "num": 29926,
-      "word": "借命而生",
-      "onboard_time": 1745335222,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 29859,
-      "num": 54254,
-      "word": "美国希望与俄乌本周达成协议",
-      "onboard_time": 1745347634,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 29432,
@@ -561,22 +633,6 @@
       "onboard_time": 1745340737,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28062,
-      "num": 28062,
-      "word": "普京3年来首次向乌发出和谈邀约",
-      "onboard_time": 1745350874,
-      "rank": 36,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 23250,
-      "num": 26442,
-      "word": "当地回应39岁网红串哥因病去世",
-      "onboard_time": 1745344995,
-      "rank": 44,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 22134,
@@ -617,6 +673,14 @@
       "onboard_time": 1745345236,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 5534,
+      "num": 42060,
+      "word": "超高清技术普及对电视行业有何影响",
+      "onboard_time": 1745364139,
+      "rank": 44,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

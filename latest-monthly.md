@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/23 06:42:03
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/23 07:23:06
 </p>
 </blockquote>
 <p>
@@ -3981,6 +3981,12 @@ JYP写了中国台湾省（热度：940194）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8A%E4%BB%BB%E4%B9%8B%E5%89%8D%E4%B8%AD%E5%9B%BD%E5%B7%B2%E7%BB%8F%E6%97%A9%E6%9C%89%E5%B8%83%E5%B1%80%23" target="weibo">
+特朗普上任之前中国已经早有布局（热度：929036）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%20%E7%BE%BD%E8%A5%BF%23" target="weibo">
 肖战 羽西（热度：928628）
 </a>
@@ -4709,6 +4715,12 @@ PO回应与雪莉恋情（热度：834785）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23bite%20me%E7%94%B7%E4%BC%B4%E8%88%9E%23" target="weibo">
 bite me男伴舞（热度：832510）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E8%B4%A8%E7%96%91%E9%95%BF%E7%9B%B8%E5%90%AC%E9%9A%9C%E5%A5%B3%E7%94%9F%E7%A7%B0%E5%BE%AE%E8%B0%83%E8%BF%87%E5%87%A0%E5%A4%84%23" target="weibo">
+被质疑长相听障女生称微调过几处（热度：830918）
 </a>
 </li>
 
@@ -5613,12 +5625,6 @@ GAI都瘦脱相了（热度：737143）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E8%B4%A8%E7%96%91%E9%95%BF%E7%9B%B8%E5%90%AC%E9%9A%9C%E5%A5%B3%E7%94%9F%E7%A7%B0%E5%BE%AE%E8%B0%83%E8%BF%87%E5%87%A0%E5%A4%84%23" target="weibo">
-被质疑长相听障女生称微调过几处（热度：728069）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B1%85%E7%84%B6%E6%98%AF%E9%9F%A9%E5%BA%9A%23" target="weibo">
 这居然是韩庚（热度：728012）
 </a>
@@ -6005,12 +6011,6 @@ TVB男演员陈键锋学厨以第一名毕业（热度：726197）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%B0%20%E5%A5%BD%E4%B9%85%E4%B8%8D%E8%A7%81%E5%91%80%E4%BD%95%E6%83%9F%E8%8A%B3%23" target="weibo">
 李现 好久不见呀何惟芳（热度：696710）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%B5%84%E6%88%90%E7%BB%A9%23" target="weibo">
-教资成绩（热度：695834）
 </a>
 </li>
 
