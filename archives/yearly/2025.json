@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1745397159461,
+  "endTime": 1745397999280,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1427,6 +1427,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 3800303,
+      "num": 541677,
+      "word": "恋丑癖",
+      "onboard_time": 1745393722,
+      "rank": 26,
+      "category": "情感,艺人"
+    },
+    {
       "raw_hot": 3789802,
       "num": 3789802,
       "word": "多位演员自曝曾被导演郑某某侵害",
@@ -2089,14 +2097,6 @@
       "onboard_time": 1738118841,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 3152022,
-      "num": 539435,
-      "word": "恋丑癖",
-      "onboard_time": 1745393722,
-      "rank": 26,
-      "category": "情感,艺人"
     },
     {
       "raw_hot": 3143279,
