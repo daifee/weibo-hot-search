@@ -1,6 +1,6 @@
 {
   "startTime": 1745425908553,
-  "endTime": 1745428986821,
+  "endTime": 1745430068602,
   "band_list": [
     {
       "raw_hot": 1844906,
@@ -83,7 +83,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 290932,
+      "raw_hot": 321727,
       "num": 174806,
       "word": "安静公主要二次手术",
       "onboard_time": 1745425100,
@@ -435,12 +435,28 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 31672,
+      "raw_hot": 32143,
       "num": 37377,
       "word": "时代少年团新专概念片",
       "onboard_time": 1745428937,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 27237,
+      "num": 27237,
+      "word": "TES",
+      "onboard_time": 1745417603,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 27032,
+      "num": 27032,
+      "word": "大侦探",
+      "onboard_time": 1745429776,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 5746,

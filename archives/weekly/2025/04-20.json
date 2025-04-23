@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745428986821,
+  "endTime": 1745430068602,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -3275,6 +3275,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 321727,
+      "num": 174806,
+      "word": "安静公主要二次手术",
+      "onboard_time": 1745425100,
+      "rank": 25,
+      "category": "网红"
+    },
+    {
       "raw_hot": 321198,
       "num": 395562,
       "word": "从前是姐夫以后便是丈夫了",
@@ -3657,14 +3665,6 @@
       "onboard_time": 1745375722,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 290932,
-      "num": 174806,
-      "word": "安静公主要二次手术",
-      "onboard_time": 1745425100,
-      "rank": 25,
-      "category": "网红"
     },
     {
       "raw_hot": 290746,
@@ -14187,6 +14187,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 32143,
+      "num": 37377,
+      "word": "时代少年团新专概念片",
+      "onboard_time": 1745428937,
+      "rank": 49,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 31942,
       "num": 31942,
       "word": "李昀锐带粉丝看无人机应援",
@@ -14201,14 +14209,6 @@
       "onboard_time": 1745217081,
       "rank": 26,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 31672,
-      "num": 37377,
-      "word": "时代少年团新专概念片",
-      "onboard_time": 1745428937,
-      "rank": 49,
-      "category": "音乐"
     },
     {
       "raw_hot": 31252,
@@ -14449,6 +14449,14 @@
       "onboard_time": 1745174056,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 27032,
+      "num": 27032,
+      "word": "大侦探",
+      "onboard_time": 1745429776,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 26990,
