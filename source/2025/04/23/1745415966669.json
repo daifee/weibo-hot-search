@@ -1,0 +1,410 @@
+{
+  "runTime": 1745415966669,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 934580,
+        "num": 1149532,
+        "word": "周杰伦演唱会480元票只能看大屏",
+        "onboard_time": 1745407342,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 720417,
+        "num": 720417,
+        "word": "多名观众称被演唱会座椅扎伤",
+        "onboard_time": 1745411242,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32506,
+        "num": 593498,
+        "word": "何以中国看福建",
+        "onboard_time": 1745403442,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 515667,
+        "num": 515667,
+        "word": "刘国梁泪洒会场",
+        "onboard_time": 1745406322,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 409282,
+        "num": 409282,
+        "word": "中方回应特朗普称或将大幅降低对华关税",
+        "onboard_time": 1745395942,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 398082,
+        "num": 398082,
+        "word": "马龙说不会办退役告别会",
+        "onboard_time": 1745408901,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 356928,
+        "num": 356928,
+        "word": "虞书欣 一栩你昏头了吗",
+        "onboard_time": 1745409382,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350419,
+        "num": 350419,
+        "word": "卤鹅哥投喂周鸿祎拉扯20多秒被指过火",
+        "onboard_time": 1745411662,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 295933,
+        "num": 295933,
+        "word": "爱奇艺副总裁回应严浩翔当导师",
+        "onboard_time": 1745407223,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253612,
+        "num": 253612,
+        "word": "打奉陪到底谈大门敞开",
+        "onboard_time": 1745397382,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2387777,
+        "num": 253561,
+        "word": "石凯订婚宴视频",
+        "onboard_time": 1745414602,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1580129,
+        "num": 253060,
+        "word": "女子遭家暴驾车逃跑时致丈夫身亡",
+        "onboard_time": 1745412022,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 735892,
+        "num": 252513,
+        "word": "迪丽热巴戴了唇钉",
+        "onboard_time": 1745400383,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 619054,
+        "num": 252297,
+        "word": "陈冠希得知秦舒培怀孕的反应",
+        "onboard_time": 1745414241,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74751,
+        "num": 251684,
+        "word": "万斯给乌克兰下最后通牒",
+        "onboard_time": 1745414901,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 291935,
+        "num": 251513,
+        "word": "孙颖莎发文感谢刘国梁",
+        "onboard_time": 1745395282,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 288141,
+        "num": 250991,
+        "word": "权志龙秒删标记sana帖子",
+        "onboard_time": 1745409981,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287265,
+        "num": 250872,
+        "word": "马龙乒协副主席",
+        "onboard_time": 1745372422,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250483,
+        "num": 250483,
+        "word": "NIP对战TES",
+        "onboard_time": 1745411242,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 239337,
+        "num": 239337,
+        "word": "长隆一乐园回应摩托表演撞倒游客",
+        "onboard_time": 1745413881,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2929720,
+        "num": 232416,
+        "word": "石凯 订过婚",
+        "onboard_time": 1745402903,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 10263,
+        "num": 215742,
+        "word": "晒太阳感觉要昏倒了怎么办",
+        "onboard_time": 1745415743,
+        "rank": 21,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 212934,
+        "num": 212934,
+        "word": "这是苍井优这是她老公",
+        "onboard_time": 1745397742,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209906,
+        "num": 209906,
+        "word": "求锤得锤",
+        "onboard_time": 1745415862,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58244,
+        "num": 209769,
+        "word": "董明珠卸任格力电器总裁",
+        "onboard_time": 1745403864,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 168136,
+        "num": 209140,
+        "word": "宁艺卓ELLE首封预告",
+        "onboard_time": 1745410162,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 140539,
+        "num": 208642,
+        "word": "无忧渡我是我哥",
+        "onboard_time": 1745409981,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50084,
+        "num": 208275,
+        "word": "网店销售手表暗藏偷拍摄像头",
+        "onboard_time": 1745415804,
+        "rank": 27,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 35663,
+        "num": 207827,
+        "word": "郑钦文马德里赛团队合影",
+        "onboard_time": 1745415141,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14447,
+        "num": 207577,
+        "word": "折原临也好美貌的脸",
+        "onboard_time": 1745415262,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 207167,
+        "num": 207167,
+        "word": "刘国梁继续担任WTT董事会主席",
+        "onboard_time": 1745411541,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195818,
+        "num": 195818,
+        "word": "苹果煮水的3种宝藏搭配",
+        "onboard_time": 1745411425,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 188234,
+        "num": 188234,
+        "word": "刘国梁辞职",
+        "onboard_time": 1745372301,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184707,
+        "num": 184707,
+        "word": "特朗普认怂了",
+        "onboard_time": 1745374043,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 178682,
+        "num": 178682,
+        "word": "董明珠再点名小米汽车",
+        "onboard_time": 1745398642,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 77577,
+        "num": 170565,
+        "word": "求求神印王座通天路轻点虐",
+        "onboard_time": 1745414424,
+        "rank": 35,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 54651,
+        "num": 169411,
+        "word": "中缅累计抓获5.5万余名中国籍涉诈嫌疑人",
+        "onboard_time": 1745404225,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 169199,
+        "num": 169199,
+        "word": "王一博上海首战",
+        "onboard_time": 1745414721,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159917,
+        "num": 159917,
+        "word": "翔松",
+        "onboard_time": 1745413223,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 9225,
+        "num": 157403,
+        "word": "向人民子弟兵致敬",
+        "onboard_time": 1745415683,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155990,
+        "num": 155990,
+        "word": "大学为何迟迟不愿意打开校门",
+        "onboard_time": 1745412562,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 144920,
+        "num": 144920,
+        "word": "京东外卖骑手8单赚98元",
+        "onboard_time": 1745407581,
+        "rank": 41,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 143453,
+        "num": 143453,
+        "word": "刘浩存白色斜肩长裙",
+        "onboard_time": 1745415443,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 142795,
+        "num": 142795,
+        "word": "我给鞠婧祎拍的撕拉片",
+        "onboard_time": 1745406803,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139903,
+        "num": 139903,
+        "word": "逆水寒手游",
+        "onboard_time": 1745414362,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 139738,
+        "num": 139738,
+        "word": "雷公要求人贩子赔6元公开忏悔道歉",
+        "onboard_time": 1745413101,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135785,
+        "num": 135785,
+        "word": "宁艺卓国内首封",
+        "onboard_time": 1745410942,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 129975,
+        "num": 129975,
+        "word": "马龙说怕自己在大家面前哭",
+        "onboard_time": 1745409802,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121234,
+        "num": 121234,
+        "word": "金玟庭被认成柳智敏的反应",
+        "onboard_time": 1745413881,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126015,
+        "num": 120997,
+        "word": "刘国梁说像是参加毕业典礼",
+        "onboard_time": 1745412444,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同阿塞拜疆总统会谈#"
+    }
+  }
+}
