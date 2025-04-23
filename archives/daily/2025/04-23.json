@@ -1,6 +1,6 @@
 {
   "startTime": 1745339463299,
-  "endTime": 1745377725186,
+  "endTime": 1745378721588,
   "band_list": [
     {
       "raw_hot": 12205626,
@@ -19,12 +19,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 2111950,
-      "num": 2111950,
+      "raw_hot": 2277238,
+      "num": 2277238,
       "word": "刘国梁回应辞职",
       "onboard_time": 1745374763,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2232404,
+      "num": 2232404,
+      "word": "特朗普认怂了",
+      "onboard_time": 1745374043,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1843128,
@@ -41,14 +49,6 @@
       "onboard_time": 1745372301,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1771986,
-      "num": 1771986,
-      "word": "特朗普认怂了",
-      "onboard_time": 1745374043,
-      "rank": 31,
-      "category": "国际时政"
     },
     {
       "raw_hot": 1568644,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 464944,
-      "num": 464944,
+      "num": 528289,
       "word": "陈哲远新剧初吻戏不是亲女主",
       "onboard_time": 1745375722,
       "rank": 9,
@@ -219,8 +219,16 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 412175,
+      "num": 426568,
+      "word": "临江仙",
+      "onboard_time": 1745377101,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 400398,
-      "num": 199694,
+      "num": 349312,
       "word": "永野芽郁 田中圭",
       "onboard_time": 1745331743,
       "rank": 11,
@@ -241,6 +249,14 @@
       "onboard_time": 1745364739,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 358502,
+      "num": 444372,
+      "word": "双轨",
+      "onboard_time": 1745376383,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 356332,
@@ -267,11 +283,19 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 321576,
-      "num": 444372,
-      "word": "双轨",
-      "onboard_time": 1745376383,
-      "rank": 15,
+      "raw_hot": 332913,
+      "num": 447664,
+      "word": "副主席马龙还会以运动员身份上场",
+      "onboard_time": 1745376803,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 327365,
+      "num": 327365,
+      "word": "李沁新剧1分钟6种方式虐男主",
+      "onboard_time": 1745377282,
+      "rank": 35,
       "category": "剧集"
     },
     {
@@ -283,19 +307,27 @@
       "category": "网红"
     },
     {
+      "raw_hot": 308127,
+      "num": 308127,
+      "word": "黄金价格",
+      "onboard_time": 1745376682,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 303469,
+      "num": 253708,
+      "word": "樊振东凯迪拉克直播",
+      "onboard_time": 1745376623,
+      "rank": 27,
+      "category": "体育,汽车"
+    },
+    {
       "raw_hot": 291618,
       "num": 427735,
       "word": "陈晓新剧不怕商战怕孙千",
       "onboard_time": 1745375722,
       "rank": 16,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 291387,
-      "num": 426568,
-      "word": "临江仙",
-      "onboard_time": 1745377101,
-      "rank": 17,
       "category": "剧集"
     },
     {
@@ -315,11 +347,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 271218,
+      "num": 334248,
+      "word": "林允称已走法律程序",
+      "onboard_time": 1745378004,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 265257,
       "num": 606803,
       "word": "在人间",
       "onboard_time": 1745372361,
       "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 260690,
+      "num": 260690,
+      "word": "淮水竹亭 抠图",
+      "onboard_time": 1745376623,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -331,28 +379,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 253211,
+      "num": 253211,
+      "word": "她用肚子踩缝纫机实现经济独立",
+      "onboard_time": 1745374763,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 252533,
       "num": 252533,
       "word": "家业",
       "onboard_time": 1745374763,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 243929,
-      "num": 243929,
-      "word": "樊振东凯迪拉克直播",
-      "onboard_time": 1745376623,
-      "rank": 27,
-      "category": "体育,汽车"
-    },
-    {
-      "raw_hot": 240017,
-      "num": 240017,
-      "word": "她用肚子踩缝纫机实现经济独立",
-      "onboard_time": 1745374763,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 234761,
@@ -379,6 +419,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 228782,
+      "num": 228782,
+      "word": "绝区零",
+      "onboard_time": 1745377826,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 227358,
       "num": 227358,
       "word": "黄金",
@@ -393,6 +441,22 @@
       "onboard_time": 1745352734,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 217644,
+      "num": 217644,
+      "word": "唐朝诡事录",
+      "onboard_time": 1745378184,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 215059,
+      "num": 257702,
+      "word": "神二十瞄准4月24日17时17分发射",
+      "onboard_time": 1745376263,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 212755,
@@ -427,14 +491,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 204955,
-      "num": 204955,
-      "word": "黄金价格",
-      "onboard_time": 1745376682,
-      "rank": 31,
-      "category": "财经"
-    },
-    {
       "raw_hot": 204776,
       "num": 262867,
       "word": "赴山海抚琴独影氛围感海报",
@@ -451,20 +507,28 @@
       "category": "幽默,民生新闻"
     },
     {
-      "raw_hot": 203690,
-      "num": 203690,
-      "word": "淮水竹亭 抠图",
-      "onboard_time": 1745376623,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 203056,
       "num": 157925,
       "word": "男子半月两次欲强奸女邻居未遂判刑",
       "onboard_time": 1745316681,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 202484,
+      "num": 202484,
+      "word": "饭桌上开玩笑讲出多年前的埋尸案",
+      "onboard_time": 1745378243,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 202238,
+      "num": 202238,
+      "word": "在人间出品方有赵丽颖公司",
+      "onboard_time": 1745378304,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 197848,
@@ -475,14 +539,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 194184,
-      "num": 447664,
-      "word": "副主席马龙还会以运动员身份上场",
-      "onboard_time": 1745376803,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 194095,
       "num": 194095,
       "word": "爱奇艺世界大会全员上号",
@@ -491,20 +547,36 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 187694,
-      "num": 197869,
-      "word": "李沁新剧1分钟6种方式虐男主",
-      "onboard_time": 1745377282,
-      "rank": 35,
-      "category": "剧集"
+      "raw_hot": 193976,
+      "num": 193976,
+      "word": "爱奇艺世界大会",
+      "onboard_time": 1745378424,
+      "rank": 43,
+      "category": "综艺"
     },
     {
-      "raw_hot": 184787,
-      "num": 184787,
+      "raw_hot": 193060,
+      "num": 193060,
       "word": "李一桐新剧刚入戏就被捅了",
       "onboard_time": 1745377223,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191251,
+      "num": 191251,
+      "word": "图书馆20分钟效应缓解焦虑",
+      "onboard_time": 1745378304,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 188359,
+      "num": 188359,
+      "word": "沙溢范丞丞会休息才是真卷王",
+      "onboard_time": 1745377883,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 184243,
@@ -521,14 +593,6 @@
       "onboard_time": 1745372963,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 183537,
-      "num": 257702,
-      "word": "神二十瞄准4月24日17时17分发射",
-      "onboard_time": 1745376263,
-      "rank": 24,
-      "category": "国内时政"
     },
     {
       "raw_hot": 182905,
@@ -548,7 +612,7 @@
     },
     {
       "raw_hot": 179893,
-      "num": 203890,
+      "num": 418925,
       "word": "我们还需要纸质书吗",
       "onboard_time": 1745369302,
       "rank": 36,
@@ -587,6 +651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172859,
+      "num": 172859,
+      "word": "生万物",
+      "onboard_time": 1745376143,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170653,
       "num": 170653,
       "word": "金钟国做医美",
@@ -601,6 +673,14 @@
       "onboard_time": 1745376441,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169153,
+      "num": 169153,
+      "word": "雷克萨斯ES",
+      "onboard_time": 1745378483,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 167717,
@@ -632,14 +712,6 @@
       "word": "家业首支片花",
       "onboard_time": 1745374883,
       "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 159470,
-      "num": 159470,
-      "word": "生万物",
-      "onboard_time": 1745376143,
-      "rank": 48,
       "category": "剧集"
     },
     {
@@ -771,6 +843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130104,
+      "num": 334063,
+      "word": "金饰克价跌到1048元",
+      "onboard_time": 1745378304,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 129361,
       "num": 129361,
       "word": "人民海军生日快乐",
@@ -892,7 +972,7 @@
     },
     {
       "raw_hot": 96478,
-      "num": 252568,
+      "num": 308268,
       "word": "上海车展仰望放大招",
       "onboard_time": 1745375002,
       "rank": 25,
@@ -1139,6 +1219,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 49168,
+      "num": 213350,
+      "word": "用AI做的明星合照有多真",
+      "onboard_time": 1745377942,
+      "rank": 38,
+      "category": "互联网,民生新闻"
+    },
+    {
       "raw_hot": 44100,
       "num": 77815,
       "word": "张真源发视频找不到合适的BGM",
@@ -1161,6 +1249,14 @@
       "onboard_time": 1745336902,
       "rank": 49,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 43143,
+      "num": 399408,
+      "word": "八段锦有哪些具体功效",
+      "onboard_time": 1745373503,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 41584,
@@ -1243,6 +1339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 29846,
+      "num": 255137,
+      "word": "清淡饮食的关键要素有哪些",
+      "onboard_time": 1745378483,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 29432,
       "num": 53877,
       "word": "太空视角看地球每一帧都震撼",
@@ -1260,7 +1364,7 @@
     },
     {
       "raw_hot": 24395,
-      "num": 2173138,
+      "num": 2235188,
       "word": "广东高质量活力向未来",
       "onboard_time": 1745330003,
       "rank": 2,
@@ -1273,14 +1377,6 @@
       "onboard_time": 1745343975,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 19228,
-      "num": 399408,
-      "word": "八段锦有哪些具体功效",
-      "onboard_time": 1745373503,
-      "rank": 19,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 18981,

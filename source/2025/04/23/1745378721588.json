@@ -1,0 +1,410 @@
+{
+  "runTime": 1745378721588,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8673174,
+        "num": 8673174,
+        "word": "刘国梁辞职",
+        "onboard_time": 1745372301,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2277238,
+        "num": 2277238,
+        "word": "刘国梁回应辞职",
+        "onboard_time": 1745374763,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17464,
+        "num": 2235188,
+        "word": "广东高质量活力向未来",
+        "onboard_time": 1745330003,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2232404,
+        "num": 2232404,
+        "word": "特朗普认怂了",
+        "onboard_time": 1745374043,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1252634,
+        "num": 1252634,
+        "word": "樊振东 王励勤",
+        "onboard_time": 1745374522,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1058432,
+        "num": 1058432,
+        "word": "马龙乒协副主席",
+        "onboard_time": 1745372422,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 940569,
+        "num": 940569,
+        "word": "特朗普预计对华关税将大幅降低",
+        "onboard_time": 1745371880,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 596301,
+        "num": 596301,
+        "word": "黄金巨震",
+        "onboard_time": 1745364198,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 542526,
+        "num": 542526,
+        "word": "淮水竹亭",
+        "onboard_time": 1745371281,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 440570,
+        "num": 528289,
+        "word": "陈哲远新剧初吻戏不是亲女主",
+        "onboard_time": 1745375722,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 515723,
+        "num": 515723,
+        "word": "神二十航天员乘组公布",
+        "onboard_time": 1745370681,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 464164,
+        "num": 464164,
+        "word": "王励勤简历",
+        "onboard_time": 1745375242,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 460428,
+        "num": 460428,
+        "word": "张继科说林诗栋气场还差了点",
+        "onboard_time": 1745375722,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114126,
+        "num": 418925,
+        "word": "我们还需要纸质书吗",
+        "onboard_time": 1745369302,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 412175,
+        "num": 412175,
+        "word": "临江仙",
+        "onboard_time": 1745377101,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 358502,
+        "num": 358502,
+        "word": "双轨",
+        "onboard_time": 1745376383,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 349312,
+        "num": 349312,
+        "word": "永野芽郁 田中圭",
+        "onboard_time": 1745331743,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54862,
+        "num": 337425,
+        "word": "全球首款CMP概念车ID. AURA来了",
+        "onboard_time": 1745376023,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 271218,
+        "num": 334248,
+        "word": "林允称已走法律程序",
+        "onboard_time": 1745378004,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130104,
+        "num": 334063,
+        "word": "金饰克价跌到1048元",
+        "onboard_time": 1745378304,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 334058,
+        "num": 334058,
+        "word": "鹿晗 关晓彤",
+        "onboard_time": 1745367622,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332913,
+        "num": 332913,
+        "word": "副主席马龙还会以运动员身份上场",
+        "onboard_time": 1745376803,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 327365,
+        "num": 327365,
+        "word": "李沁新剧1分钟6种方式虐男主",
+        "onboard_time": 1745377282,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 308969,
+        "num": 308969,
+        "word": "宋佳差点没认出杨天真",
+        "onboard_time": 1745373803,
+        "rank": 23,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 71278,
+        "num": 308268,
+        "word": "上海车展仰望放大招",
+        "onboard_time": 1745375002,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 308127,
+        "num": 308127,
+        "word": "黄金价格",
+        "onboard_time": 1745376682,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 307335,
+        "num": 307335,
+        "word": "筷子换一换胃癌少一半",
+        "onboard_time": 1745364739,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 260690,
+        "num": 260690,
+        "word": "淮水竹亭 抠图",
+        "onboard_time": 1745376623,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29846,
+        "num": 255137,
+        "word": "清淡饮食的关键要素有哪些",
+        "onboard_time": 1745378483,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 219081,
+        "num": 254049,
+        "word": "陈晓新剧不怕商战怕孙千",
+        "onboard_time": 1745375722,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 303469,
+        "num": 253708,
+        "word": "樊振东凯迪拉克直播",
+        "onboard_time": 1745376623,
+        "rank": 30,
+        "category": "体育,汽车"
+      },
+      {
+        "raw_hot": 253211,
+        "num": 253211,
+        "word": "她用肚子踩缝纫机实现经济独立",
+        "onboard_time": 1745374763,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235202,
+        "num": 235202,
+        "word": "王励勤当选中国乒协主席",
+        "onboard_time": 1745372301,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229175,
+        "num": 229175,
+        "word": "航天员陈冬陈中瑞王杰",
+        "onboard_time": 1745371880,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 228782,
+        "num": 228782,
+        "word": "绝区零",
+        "onboard_time": 1745377826,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 217644,
+        "num": 217644,
+        "word": "唐朝诡事录",
+        "onboard_time": 1745378184,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43143,
+        "num": 216127,
+        "word": "八段锦有哪些具体功效",
+        "onboard_time": 1745373503,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 215059,
+        "num": 215059,
+        "word": "神二十瞄准4月24日17时17分发射",
+        "onboard_time": 1745376263,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 49168,
+        "num": 213350,
+        "word": "用AI做的明星合照有多真",
+        "onboard_time": 1745377942,
+        "rank": 38,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 212973,
+        "num": 212973,
+        "word": "特朗普三次让步",
+        "onboard_time": 1745375722,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 202950,
+        "num": 202950,
+        "word": "家业",
+        "onboard_time": 1745374763,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202484,
+        "num": 202484,
+        "word": "饭桌上开玩笑讲出多年前的埋尸案",
+        "onboard_time": 1745378243,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202238,
+        "num": 202238,
+        "word": "在人间出品方有赵丽颖公司",
+        "onboard_time": 1745378304,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193976,
+        "num": 193976,
+        "word": "爱奇艺世界大会",
+        "onboard_time": 1745378424,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193060,
+        "num": 193060,
+        "word": "李一桐新剧刚入戏就被捅了",
+        "onboard_time": 1745377223,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191251,
+        "num": 191251,
+        "word": "图书馆20分钟效应缓解焦虑",
+        "onboard_time": 1745378304,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188359,
+        "num": 188359,
+        "word": "沙溢范丞丞会休息才是真卷王",
+        "onboard_time": 1745377883,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182745,
+        "num": 182745,
+        "word": "王一栩 淮水竹亭",
+        "onboard_time": 1745374283,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172859,
+        "num": 172859,
+        "word": "生万物",
+        "onboard_time": 1745376143,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169153,
+        "num": 169153,
+        "word": "雷克萨斯ES",
+        "onboard_time": 1745378483,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#文明因交流而多彩因互鉴而丰富#"
+    }
+  }
+}
