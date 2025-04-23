@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/20 00:29:07 ~ 2025/04/24 05:23:38
+本榜单时间：2025/04/20 00:29:07 ~ 2025/04/24 05:38:16
 </p>
 </blockquote>
 <p>
@@ -11031,6 +11031,12 @@ INS新乐园向被烟头烫伤女子致歉（热度：27201）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%88%B6%E9%80%A0%E4%B8%9A%E5%9B%9E%E6%B5%81%E4%BA%86%E5%90%97%23" target="weibo">
+美国制造业回流了吗（热度：24300）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E5%93%88%23" target="weibo">
 五哈（热度：24263）
 </a>
@@ -11135,12 +11141,6 @@ xxxHOLiC戻好伟大的画风（热度：22751）
 <li>
 <a href="https://s.weibo.com/weibo?q=%232025%E5%8D%81%E5%A4%A7%E5%B9%B4%E5%BA%A6IP%E8%AF%84%E9%80%89%23" target="weibo">
 2025十大年度IP评选（热度：22134）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%88%B6%E9%80%A0%E4%B8%9A%E5%9B%9E%E6%B5%81%E4%BA%86%E5%90%97%23" target="weibo">
-美国制造业回流了吗（热度：22015）
 </a>
 </li>
 
@@ -11343,6 +11343,12 @@ anan名侦探柯南封面（热度：19168）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%8A%B1%E5%8B%A4%E6%9B%BE%E4%BD%8D%E5%B1%85%E4%B8%96%E6%8E%92%E7%AC%AC%E4%B8%80%E9%95%BF%E8%BE%BE54%E4%B8%AA%E6%9C%88%23" target="weibo">
+王励勤曾位居世排第一长达54个月（热度：18837）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AEHPV%E7%96%AB%E8%8B%97%E5%87%BA%E4%B8%AA%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90%23" target="weibo">
 建议HPV疫苗出个情侣套餐（热度：18817）
 </a>
@@ -11499,12 +11505,6 @@ AI让超级英雄进厂打工（热度：16843）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%8A%B1%E5%8B%A4%E6%9B%BE%E4%BD%8D%E5%B1%85%E4%B8%96%E6%8E%92%E7%AC%AC%E4%B8%80%E9%95%BF%E8%BE%BE54%E4%B8%AA%E6%9C%88%23" target="weibo">
-王励勤曾位居世排第一长达54个月（热度：16239）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%A5%95%E7%95%85%E4%B8%BA%E4%BA%89%E5%8F%96%E6%9D%8E%E6%B2%90%E5%AE%B8%E6%92%A4%E5%9B%9E%E4%B8%80%E4%B8%AA%E4%BD%99%E5%AE%87%E6%B6%B5%23" target="weibo">
 刘奕畅为争取李沐宸撤回一个余宇涵（热度：16078）
 </a>
@@ -11585,6 +11585,12 @@ AI告诉我如何用千元去欧洲（热度：15734）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A4%8D%E6%84%88%E7%B3%BB%E5%8F%98%E7%BE%8E%E6%80%9D%E8%B7%AF%23" target="weibo">
 植愈系变美思路（热度：14795）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%83%AD%E7%88%B1%E5%A1%AB%E5%85%85%E7%94%9F%E6%B4%BB%E7%82%B9%E6%BB%B4%23" target="weibo">
+肖战热爱填充生活点滴（热度：14748）
 </a>
 </li>
 
@@ -11703,6 +11709,12 @@ OMG对战EDG（热度：13552）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%8E%E6%99%BA%E5%95%86%E7%8A%AF%E7%BD%AA%23" target="weibo">
+低智商犯罪（热度：12889）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8B%AC%E4%B8%80%E6%97%A0%E4%BA%8C%23" target="weibo">
 独一无二（热度：12862）
 </a>
@@ -11715,8 +11727,8 @@ OMG对战EDG（热度：13552）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%8E%E6%99%BA%E5%95%86%E7%8A%AF%E7%BD%AA%23" target="weibo">
-低智商犯罪（热度：12811）
+<a href="https://s.weibo.com/weibo?q=%23%E7%83%9F%E8%8A%B1%E5%B0%91%E5%B9%B4%23" target="weibo">
+烟花少年（热度：12697）
 </a>
 </li>
 
@@ -11751,12 +11763,6 @@ OMG对战EDG（热度：13552）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%83%9F%E8%8A%B1%E5%B0%91%E5%B9%B4%23" target="weibo">
-烟花少年（热度：12368）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AF%A5%E4%B8%8D%E8%AF%A5%E5%92%8CAI%E8%AF%B4%E8%B0%A2%E8%B0%A2%23" target="weibo">
 该不该和AI说谢谢（热度：12297）
 </a>
@@ -11777,12 +11783,6 @@ OMG对战EDG（热度：13552）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E4%BA%8B%E4%B8%9A%E7%B2%89%E7%8B%82%E5%96%9C%23" target="weibo">
 鞠婧祎事业粉狂喜（热度：11818）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%83%AD%E7%88%B1%E5%A1%AB%E5%85%85%E7%94%9F%E6%B4%BB%E7%82%B9%E6%BB%B4%23" target="weibo">
-肖战热爱填充生活点滴（热度：11747）
 </a>
 </li>
 

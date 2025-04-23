@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1745443418251,
+  "endTime": 1745444296768,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -76491,6 +76491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 24300,
+      "num": 24300,
+      "word": "美国制造业回流了吗",
+      "onboard_time": 1745440694,
+      "rank": 48,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 24286,
       "num": 32688,
       "word": "米字贴窗",
@@ -77105,14 +77113,6 @@
       "onboard_time": 1743830781,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 22015,
-      "num": 23793,
-      "word": "美国制造业回流了吗",
-      "onboard_time": 1745440694,
-      "rank": 48,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 22007,
@@ -78003,6 +78003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 18837,
+      "num": 18837,
+      "word": "王励勤曾位居世排第一长达54个月",
+      "onboard_time": 1745439675,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 18835,
       "num": 165864,
       "word": "黑执事少爷又变美了",
@@ -78715,14 +78723,6 @@
       "category": "健康医疗,运动健身"
     },
     {
-      "raw_hot": 16239,
-      "num": 16772,
-      "word": "王励勤曾位居世排第一长达54个月",
-      "onboard_time": 1745439675,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 16086,
       "num": 392939,
       "word": "球迷送马龙球拍上写满了爱",
@@ -79075,6 +79075,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 14748,
+      "num": 16851,
+      "word": "肖战热爱填充生活点滴",
+      "onboard_time": 1745439074,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 14733,
       "num": 146453,
       "word": "美国加州让犯人当消防员",
@@ -79356,7 +79364,7 @@
     },
     {
       "raw_hot": 13984,
-      "num": 16684,
+      "num": 16843,
       "word": "正当防卫",
       "onboard_time": 1745430256,
       "rank": 42,
@@ -79571,6 +79579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 12889,
+      "num": 16837,
+      "word": "低智商犯罪",
+      "onboard_time": 1745440394,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 12871,
       "num": 825267,
       "word": "算法向上向善",
@@ -79627,20 +79643,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 12811,
-      "num": 16804,
-      "word": "低智商犯罪",
-      "onboard_time": 1745440394,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 12775,
       "num": 347168,
       "word": "2025澳门世界杯冠军会是谁",
       "onboard_time": 1744971439,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 12697,
+      "num": 16833,
+      "word": "烟花少年",
+      "onboard_time": 1745431695,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 12681,
@@ -79721,14 +79737,6 @@
       "onboard_time": 1744993341,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 12368,
-      "num": 16733,
-      "word": "烟花少年",
-      "onboard_time": 1745431695,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 12306,
@@ -79873,14 +79881,6 @@
       "onboard_time": 1744967420,
       "rank": 39,
       "category": "教育,民生新闻"
-    },
-    {
-      "raw_hot": 11747,
-      "num": 16747,
-      "word": "肖战热爱填充生活点滴",
-      "onboard_time": 1745439074,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 11683,

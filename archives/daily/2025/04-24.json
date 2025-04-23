@@ -1,6 +1,6 @@
 {
   "startTime": 1745425908553,
-  "endTime": 1745443418251,
+  "endTime": 1745444296768,
   "band_list": [
     {
       "raw_hot": 1844906,
@@ -475,20 +475,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 24300,
+      "num": 24300,
+      "word": "美国制造业回流了吗",
+      "onboard_time": 1745440694,
+      "rank": 48,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 23191,
       "num": 23191,
       "word": "权志龙秒删标记sana帖子",
       "onboard_time": 1745409981,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 22015,
-      "num": 23793,
-      "word": "美国制造业回流了吗",
-      "onboard_time": 1745440694,
-      "rank": 48,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 21082,
@@ -515,8 +515,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 16239,
-      "num": 16772,
+      "raw_hot": 18837,
+      "num": 18837,
       "word": "王励勤曾位居世排第一长达54个月",
       "onboard_time": 1745439675,
       "rank": 48,
@@ -531,6 +531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 14748,
+      "num": 16851,
+      "word": "肖战热爱填充生活点滴",
+      "onboard_time": 1745439074,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 14470,
       "num": 17022,
       "word": "不眠日",
@@ -540,23 +548,23 @@
     },
     {
       "raw_hot": 13984,
-      "num": 16684,
+      "num": 16843,
       "word": "正当防卫",
       "onboard_time": 1745430256,
       "rank": 42,
       "category": "剧集"
     },
     {
-      "raw_hot": 12811,
-      "num": 16804,
+      "raw_hot": 12889,
+      "num": 16837,
       "word": "低智商犯罪",
       "onboard_time": 1745440394,
       "rank": 43,
       "category": "剧集"
     },
     {
-      "raw_hot": 12368,
-      "num": 16733,
+      "raw_hot": 12697,
+      "num": 16833,
       "word": "烟花少年",
       "onboard_time": 1745431695,
       "rank": 47,
@@ -569,14 +577,6 @@
       "onboard_time": 1745437154,
       "rank": 32,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 11747,
-      "num": 16747,
-      "word": "肖战热爱填充生活点滴",
-      "onboard_time": 1745439074,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 10833,

@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745443418251,
+  "endTime": 1745444296768,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -14691,6 +14691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24300,
+      "num": 24300,
+      "word": "美国制造业回流了吗",
+      "onboard_time": 1745440694,
+      "rank": 48,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 24263,
       "num": 24263,
       "word": "五哈",
@@ -14833,14 +14841,6 @@
       "onboard_time": 1745343975,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 22015,
-      "num": 23793,
-      "word": "美国制造业回流了吗",
-      "onboard_time": 1745440694,
-      "rank": 48,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 21898,
@@ -15107,6 +15107,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 18837,
+      "num": 18837,
+      "word": "王励勤曾位居世排第一长达54个月",
+      "onboard_time": 1745439675,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 18817,
       "num": 158659,
       "word": "建议HPV疫苗出个情侣套餐",
@@ -15315,14 +15323,6 @@
       "category": "其它"
     },
     {
-      "raw_hot": 16239,
-      "num": 16772,
-      "word": "王励勤曾位居世排第一长达54个月",
-      "onboard_time": 1745439675,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 16078,
       "num": 31702,
       "word": "刘奕畅为争取李沐宸撤回一个余宇涵",
@@ -15435,6 +15435,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 14748,
+      "num": 16851,
+      "word": "肖战热爱填充生活点滴",
+      "onboard_time": 1745439074,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 14733,
       "num": 146453,
       "word": "美国加州让犯人当消防员",
@@ -15532,7 +15540,7 @@
     },
     {
       "raw_hot": 13984,
-      "num": 16684,
+      "num": 16843,
       "word": "正当防卫",
       "onboard_time": 1745430256,
       "rank": 42,
@@ -15587,6 +15595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 12889,
+      "num": 16837,
+      "word": "低智商犯罪",
+      "onboard_time": 1745440394,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 12862,
       "num": 14301,
       "word": "独一无二",
@@ -15603,11 +15619,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 12811,
-      "num": 16804,
-      "word": "低智商犯罪",
-      "onboard_time": 1745440394,
-      "rank": 43,
+      "raw_hot": 12697,
+      "num": 16833,
+      "word": "烟花少年",
+      "onboard_time": 1745431695,
+      "rank": 47,
       "category": "剧集"
     },
     {
@@ -15651,14 +15667,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 12368,
-      "num": 16733,
-      "word": "烟花少年",
-      "onboard_time": 1745431695,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 12297,
       "num": 241117,
       "word": "该不该和AI说谢谢",
@@ -15689,14 +15697,6 @@
       "onboard_time": 1745268614,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 11747,
-      "num": 16747,
-      "word": "肖战热爱填充生活点滴",
-      "onboard_time": 1745439074,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 11623,
