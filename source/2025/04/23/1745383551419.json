@@ -1,0 +1,410 @@
+{
+  "runTime": 1745383551419,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5624013,
+        "num": 5624013,
+        "word": "刘国梁辞职",
+        "onboard_time": 1745372301,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2302462,
+        "num": 2302462,
+        "word": "特朗普认怂了",
+        "onboard_time": 1745374043,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17736,
+        "num": 1491972,
+        "word": "广东高质量活力向未来",
+        "onboard_time": 1745330003,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1249229,
+        "num": 1249229,
+        "word": "Prada魔咒",
+        "onboard_time": 1745381784,
+        "rank": 3,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 1039883,
+        "num": 1039883,
+        "word": "唐朝诡事录",
+        "onboard_time": 1745378184,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 973696,
+        "num": 973696,
+        "word": "马龙乒协副主席",
+        "onboard_time": 1745372422,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 863137,
+        "num": 863137,
+        "word": "特朗普承认对华145%关税过高",
+        "onboard_time": 1745380344,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 851886,
+        "num": 851886,
+        "word": "刘国梁回应辞职",
+        "onboard_time": 1745374763,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 637021,
+        "num": 637021,
+        "word": "林允 全是造谣",
+        "onboard_time": 1745378904,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 434101,
+        "num": 634856,
+        "word": "饭桌上开玩笑讲出多年前的埋尸案",
+        "onboard_time": 1745378243,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1024031,
+        "num": 634808,
+        "word": "樊振东 王励勤",
+        "onboard_time": 1745374522,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 702189,
+        "num": 634562,
+        "word": "文春曝永野芽郁脚踏两条船",
+        "onboard_time": 1745379503,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 633968,
+        "num": 633968,
+        "word": "迪丽热巴告了温如也",
+        "onboard_time": 1745380525,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 503158,
+        "num": 503158,
+        "word": "刘国梁曾说找不到理由折腾王励勤",
+        "onboard_time": 1745378784,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 256498,
+        "num": 461444,
+        "word": "黄金再涨普通人也不能干的三件事",
+        "onboard_time": 1745382505,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 421402,
+        "num": 421402,
+        "word": "金饰克价跌到1048元",
+        "onboard_time": 1745378304,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 416046,
+        "num": 416046,
+        "word": "特朗普预计对华关税将大幅降低",
+        "onboard_time": 1745371880,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 64599,
+        "num": 414824,
+        "word": "还得是奔驰展台",
+        "onboard_time": 1745380344,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 89825,
+        "num": 412032,
+        "word": "上汽奥迪A5L亮相上海车展",
+        "onboard_time": 1745379503,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 10772,
+        "num": 407233,
+        "word": "如何合理地发泄消极和负面情绪",
+        "onboard_time": 1745383346,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 290746,
+        "num": 405967,
+        "word": "小伙轻信征信谣言被黑网贷套牢",
+        "onboard_time": 1745379564,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 402834,
+        "num": 402834,
+        "word": "永野芽郁 金武俊",
+        "onboard_time": 1745379624,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321198,
+        "num": 395562,
+        "word": "从前是姐夫以后便是丈夫了",
+        "onboard_time": 1745381845,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128138,
+        "num": 387717,
+        "word": "外资唱多做多中国资产",
+        "onboard_time": 1745382445,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 322707,
+        "num": 386304,
+        "word": "祝绪丹又演出很聪明的感觉了",
+        "onboard_time": 1745382564,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 314395,
+        "num": 372023,
+        "word": "淮水竹亭",
+        "onboard_time": 1745371281,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278213,
+        "num": 371299,
+        "word": "杨天真瘦好多",
+        "onboard_time": 1745379624,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241015,
+        "num": 360848,
+        "word": "神二十航天员乘组公布",
+        "onboard_time": 1745370681,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 65880,
+        "num": 352005,
+        "word": "余承东称鸿蒙智行的王牌是安全",
+        "onboard_time": 1745383284,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 27187,
+        "num": 344531,
+        "word": "美国俄乌停火提案细节曝光",
+        "onboard_time": 1745382084,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 243998,
+        "num": 332894,
+        "word": "网贷3000元1个月后被要求还30000",
+        "onboard_time": 1745381124,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201419,
+        "num": 328797,
+        "word": "伊能静也觉得秦昊和钟楚曦好配",
+        "onboard_time": 1745381365,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 324113,
+        "num": 324113,
+        "word": "上海60岁女孩花掉养老金的一天",
+        "onboard_time": 1745379865,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 315723,
+        "num": 315723,
+        "word": "被虐致死男童生父女友称忍不住打他",
+        "onboard_time": 1745380102,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58238,
+        "num": 297121,
+        "word": "没想到长安启源Q07这么能装",
+        "onboard_time": 1745383464,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 293600,
+        "num": 293600,
+        "word": "为什么年年体检无异常发现却是晚期",
+        "onboard_time": 1745379865,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 63035,
+        "num": 289690,
+        "word": "周鸿祎称5C版小鹏P7+太不讲武德了",
+        "onboard_time": 1745379984,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 287933,
+        "num": 287933,
+        "word": "原神",
+        "onboard_time": 1745382564,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 247364,
+        "num": 247364,
+        "word": "佳偶天成",
+        "onboard_time": 1745382445,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173712,
+        "num": 241441,
+        "word": "淮水竹亭 抠图",
+        "onboard_time": 1745376623,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 279541,
+        "num": 241358,
+        "word": "美国人爱的网红杯子悄悄涨价了",
+        "onboard_time": 1745378784,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 241240,
+        "num": 241240,
+        "word": "永野芽郁 田中圭",
+        "onboard_time": 1745331743,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240169,
+        "num": 240169,
+        "word": "筷子换一换胃癌少一半",
+        "onboard_time": 1745364739,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 101416,
+        "num": 233579,
+        "word": "美军要在菲律宾建战备仓库",
+        "onboard_time": 1745381542,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 230754,
+        "num": 230754,
+        "word": "王励勤是樊振东奥运夺冠幕后功臣",
+        "onboard_time": 1745383464,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228769,
+        "num": 228769,
+        "word": "女童因弟弟出生后被忽略导致视力下降",
+        "onboard_time": 1745382924,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216066,
+        "num": 220925,
+        "word": "恋与制作人纯狱风",
+        "onboard_time": 1745381063,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 220687,
+        "num": 220687,
+        "word": "黄金价格",
+        "onboard_time": 1745376682,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 220621,
+        "num": 220621,
+        "word": "临江仙",
+        "onboard_time": 1745377101,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202860,
+        "num": 202860,
+        "word": "张继科说林诗栋气场还差了点",
+        "onboard_time": 1745375722,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#形成爱读书读好书善读书的浓厚氛围#"
+    }
+  }
+}
