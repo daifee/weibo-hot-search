@@ -1,6 +1,6 @@
 {
   "startTime": 1745339463299,
-  "endTime": 1745383551419,
+  "endTime": 1745385912618,
   "band_list": [
     {
       "raw_hot": 12205626,
@@ -51,6 +51,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1679370,
+      "num": 1679370,
+      "word": "Prada魔咒",
+      "onboard_time": 1745381784,
+      "rank": 7,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 1568644,
       "num": 1568644,
       "word": "樊振东 王励勤",
@@ -83,12 +91,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 1249229,
-      "num": 1249229,
-      "word": "Prada魔咒",
-      "onboard_time": 1745381784,
-      "rank": 7,
-      "category": "艺人,时尚"
+      "raw_hot": 1149611,
+      "num": 1149611,
+      "word": "黄金再涨普通人也不能干的三件事",
+      "onboard_time": 1745382505,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1119179,
@@ -139,12 +147,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 863137,
-      "num": 863137,
+      "raw_hot": 874147,
+      "num": 874147,
       "word": "特朗普承认对华145%关税过高",
       "onboard_time": 1745380344,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 865487,
+      "num": 865487,
+      "word": "马龙谈刘国梁辞职",
+      "onboard_time": 1745384664,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 860628,
@@ -153,6 +169,14 @@
       "onboard_time": 1745333062,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 782942,
+      "num": 701957,
+      "word": "迪丽热巴告了温如也",
+      "onboard_time": 1745380525,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 769750,
@@ -185,14 +209,6 @@
       "onboard_time": 1745326641,
       "rank": 5,
       "category": "财经"
-    },
-    {
-      "raw_hot": 633968,
-      "num": 633968,
-      "word": "迪丽热巴告了温如也",
-      "onboard_time": 1745380525,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 626367,
@@ -257,6 +273,14 @@
       "onboard_time": 1745378304,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 473435,
+      "num": 473435,
+      "word": "网贷3000元1个月后被要求还30000",
+      "onboard_time": 1745381124,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 471117,
@@ -329,6 +353,14 @@
       "onboard_time": 1745368102,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 378409,
+      "num": 378409,
+      "word": "佳偶天成",
+      "onboard_time": 1745382445,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 376631,
@@ -443,6 +475,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 305676,
+      "num": 305676,
+      "word": "王励勤是樊振东奥运夺冠幕后功臣",
+      "onboard_time": 1745383464,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 303469,
       "num": 253708,
       "word": "樊振东凯迪拉克直播",
@@ -473,6 +513,14 @@
       "onboard_time": 1745378004,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 295856,
+      "num": 295856,
+      "word": "白宫宣称与中国达成贸易协议进展顺利",
+      "onboard_time": 1745384544,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 293600,
@@ -539,20 +587,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 263549,
+      "num": 263549,
+      "word": "女童因弟弟出生后被忽略导致视力下降",
+      "onboard_time": 1745382924,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 260379,
       "num": 260379,
       "word": "陈冬时隔2年再次担任指令长",
       "onboard_time": 1745371462,
       "rank": 30,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 256498,
-      "num": 461444,
-      "word": "黄金再涨普通人也不能干的三件事",
-      "onboard_time": 1745382505,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 253211,
@@ -571,28 +619,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 247364,
-      "num": 247364,
-      "word": "佳偶天成",
-      "onboard_time": 1745382445,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 245613,
       "num": 328797,
       "word": "伊能静也觉得秦昊和钟楚曦好配",
       "onboard_time": 1745381365,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 243998,
-      "num": 332894,
-      "word": "网贷3000元1个月后被要求还30000",
-      "onboard_time": 1745381124,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 234761,
@@ -619,28 +651,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 230754,
-      "num": 230754,
-      "word": "王励勤是樊振东奥运夺冠幕后功臣",
-      "onboard_time": 1745383464,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 228782,
       "num": 228782,
       "word": "绝区零",
       "onboard_time": 1745377826,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 228769,
-      "num": 228769,
-      "word": "女童因弟弟出生后被忽略导致视力下降",
-      "onboard_time": 1745382924,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 227358,
@@ -699,6 +715,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 210006,
+      "num": 362266,
+      "word": "肖战 走入人群隐于街头",
+      "onboard_time": 1745385443,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209285,
       "num": 209285,
       "word": "女子称31岁丈夫拔牙后离世",
@@ -737,6 +761,14 @@
       "onboard_time": 1745371581,
       "rank": 34,
       "category": "幽默,民生新闻"
+    },
+    {
+      "raw_hot": 203097,
+      "num": 347947,
+      "word": "女子上厕所时遭男子闯入反锁",
+      "onboard_time": 1745384603,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 203056,
@@ -785,6 +817,14 @@
       "onboard_time": 1745381665,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194771,
+      "num": 238595,
+      "word": "蒋梦婕发文告别浪姐",
+      "onboard_time": 1745385323,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 194095,
@@ -1027,6 +1067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142740,
+      "num": 368006,
+      "word": "山西被虐死男孩生父希望凶手死刑",
+      "onboard_time": 1745384963,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142153,
       "num": 131917,
       "word": "女子剖腹产9个月后抽出10cm手术线",
@@ -1097,6 +1145,14 @@
       "onboard_time": 1745366000,
       "rank": 47,
       "category": "军事"
+    },
+    {
+      "raw_hot": 129289,
+      "num": 349528,
+      "word": "神印斗罗共用一个大佬",
+      "onboard_time": 1745385203,
+      "rank": 27,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 129227,
@@ -1171,12 +1227,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117923,
+      "num": 353628,
+      "word": "王励勤曾说多听乒乓球爱好者声音",
+      "onboard_time": 1745385503,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115322,
       "num": 115322,
       "word": "孙千大生意人骑马剧照",
       "onboard_time": 1745374163,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111944,
+      "num": 703160,
+      "word": "黄金现罕见行情单日涨跌超100美元",
+      "onboard_time": 1745384783,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 111429,
@@ -1209,6 +1281,14 @@
       "onboard_time": 1745321001,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 101784,
+      "num": 351786,
+      "word": "15万级轿车颜值天花板来了",
+      "onboard_time": 1745384905,
+      "rank": 26,
+      "category": "汽车"
     },
     {
       "raw_hot": 101416,
@@ -1291,6 +1371,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 81178,
+      "num": 370460,
+      "word": "最有安全感的车来了",
+      "onboard_time": 1745384905,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 80867,
+      "num": 374346,
+      "word": "没想到长安启源Q07这么能装",
+      "onboard_time": 1745383464,
+      "rank": 34,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 77565,
       "num": 77820,
       "word": "刘涛拜妈祖",
@@ -1363,6 +1459,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 67849,
+      "num": 1644561,
+      "word": "廖俊波说自己是全镇最小的人",
+      "onboard_time": 1745385084,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 66835,
       "num": 53948,
       "word": "雷神加速器",
@@ -1388,7 +1492,7 @@
     },
     {
       "raw_hot": 65880,
-      "num": 352005,
+      "num": 356097,
       "word": "余承东称鸿蒙智行的王牌是安全",
       "onboard_time": 1745383284,
       "rank": 28,
@@ -1435,6 +1539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 60742,
+      "num": 376766,
+      "word": "极氪革命性的超级电混",
+      "onboard_time": 1745384905,
+      "rank": 16,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 60484,
       "num": 483356,
       "word": "全球首款CMP概念车ID. AURA来了",
@@ -1443,12 +1555,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 58238,
-      "num": 297121,
-      "word": "没想到长安启源Q07这么能装",
-      "onboard_time": 1745383464,
-      "rank": 34,
-      "category": "汽车"
+      "raw_hot": 57037,
+      "num": 236945,
+      "word": "久酷在线征集抽象剧本",
+      "onboard_time": 1745385443,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 55524,
@@ -1563,6 +1675,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 41518,
+      "num": 358571,
+      "word": "买大不买小买长不买短",
+      "onboard_time": 1745383404,
+      "rank": 23,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 41319,
       "num": 41319,
       "word": "迪丽热巴元气美少女",
@@ -1667,6 +1787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28419,
+      "num": 318430,
+      "word": "王励勤说要围绕6块奥运金牌备战",
+      "onboard_time": 1745385802,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 28070,
       "num": 344531,
       "word": "美国俄乌停火提案细节曝光",
@@ -1697,6 +1825,30 @@
       "onboard_time": 1745343975,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 21804,
+      "num": 377587,
+      "word": "正职是谋生副业是情感支撑",
+      "onboard_time": 1745385024,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20426,
+      "num": 344104,
+      "word": "双子星公主这是真女神",
+      "onboard_time": 1745385263,
+      "rank": 29,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 19591,
+      "num": 212031,
+      "word": "无氧运动好还是有氧运动好",
+      "onboard_time": 1745384485,
+      "rank": 48,
+      "category": "运动健身"
     },
     {
       "raw_hot": 18981,
@@ -1745,6 +1897,14 @@
       "onboard_time": 1745383346,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 10182,
+      "num": 341788,
+      "word": "产后腹带的正确使用方法是什么",
+      "onboard_time": 1745385683,
+      "rank": 30,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 9977,
