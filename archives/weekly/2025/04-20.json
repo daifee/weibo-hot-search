@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745393326091,
+  "endTime": 1745394057817,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -339,6 +339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1593834,
+      "num": 465781,
+      "word": "日女算我求你们了好吗",
+      "onboard_time": 1745390002,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1568644,
       "num": 1568644,
       "word": "樊振东 王励勤",
@@ -383,14 +391,6 @@
       "num": 469113,
       "word": "鹿晗生日",
       "onboard_time": 1745079274,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1483308,
-      "num": 465781,
-      "word": "日女算我求你们了好吗",
-      "onboard_time": 1745390002,
       "rank": 42,
       "category": "艺人"
     },
@@ -1491,8 +1491,16 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 610058,
-      "num": 610058,
+      "raw_hot": 611838,
+      "num": 424327,
+      "word": "田中圭承认与永野芽郁同居但否认恋情",
+      "onboard_time": 1745391803,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 611060,
+      "num": 611060,
       "word": "国乒再现二王一马新篇章",
       "onboard_time": 1745389882,
       "rank": 33,
@@ -1899,6 +1907,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 492955,
+      "num": 373063,
+      "word": "韩安冉不让婆婆住家里",
+      "onboard_time": 1745393183,
+      "rank": 25,
+      "category": "网红"
+    },
+    {
       "raw_hot": 492584,
       "num": 634856,
       "word": "饭桌上开玩笑讲出多年前的埋尸案",
@@ -1939,6 +1955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 480010,
+      "num": 480010,
+      "word": "美国人以拍照为由骗走中国文物",
+      "onboard_time": 1745390783,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 479666,
       "num": 479666,
       "word": "乒乓球世界杯",
@@ -1961,14 +1985,6 @@
       "onboard_time": 1745225781,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 478363,
-      "num": 478363,
-      "word": "美国人以拍照为由骗走中国文物",
-      "onboard_time": 1745390783,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 476544,
@@ -2201,14 +2217,6 @@
       "onboard_time": 1745119344,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 424327,
-      "num": 424327,
-      "word": "田中圭承认与永野芽郁同居但否认恋情",
-      "onboard_time": 1745391803,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 420288,
@@ -2483,6 +2491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 369147,
+      "num": 434283,
+      "word": "2025爱奇艺狂砸19个新综",
+      "onboard_time": 1745391983,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 368701,
       "num": 368701,
       "word": "张根硕分享抗癌抗躁郁经历",
@@ -2705,14 +2721,6 @@
       "onboard_time": 1745155648,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 341232,
-      "num": 341232,
-      "word": "韩安冉不让婆婆住家里",
-      "onboard_time": 1745393183,
-      "rank": 25,
-      "category": "网红"
     },
     {
       "raw_hot": 339742,
@@ -3507,6 +3515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 266950,
+      "num": 266950,
+      "word": "现货黄金跌破3300美元",
+      "onboard_time": 1745393120,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 266182,
       "num": 318077,
       "word": "檀健次首谈饰演李淇遇到的挑战",
@@ -3539,12 +3555,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 263016,
-      "num": 434283,
-      "word": "2025爱奇艺狂砸19个新综",
-      "onboard_time": 1745391983,
-      "rank": 17,
-      "category": "综艺"
+      "raw_hot": 263470,
+      "num": 377070,
+      "word": "狐妖小红娘王权篇",
+      "onboard_time": 1745393242,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 262085,
@@ -3907,6 +3923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 240518,
+      "num": 382212,
+      "word": "马龙孙颖莎王曼昱王楚钦最新采访",
+      "onboard_time": 1745393421,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 239644,
       "num": 239644,
       "word": "赵丽颖长发红裙",
@@ -3937,6 +3961,14 @@
       "onboard_time": 1745298264,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 238232,
+      "num": 238232,
+      "word": "恋丑癖",
+      "onboard_time": 1745393722,
+      "rank": 26,
+      "category": "情感,艺人"
     },
     {
       "raw_hot": 237933,
@@ -4105,14 +4137,6 @@
       "onboard_time": 1745223021,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 229246,
-      "num": 229246,
-      "word": "现货黄金跌破3300美元",
-      "onboard_time": 1745393120,
-      "rank": 27,
-      "category": "财经"
     },
     {
       "raw_hot": 228782,
@@ -4915,6 +4939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 200741,
+      "num": 200741,
+      "word": "赛里木湖",
+      "onboard_time": 1745392221,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 200662,
       "num": 200662,
       "word": "刘耀文云包场马丽水饺皇后",
@@ -5016,6 +5048,14 @@
       "word": "骑士1比0热火",
       "onboard_time": 1745209224,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 198393,
+      "num": 198393,
+      "word": "刘国梁去年9月提出辞职",
+      "onboard_time": 1745393482,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -6041,6 +6081,14 @@
       "onboard_time": 1745129422,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175943,
+      "num": 200745,
+      "word": "姚晨白百何董洁内娱中女状态",
+      "onboard_time": 1745393602,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 175855,
@@ -7083,6 +7131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154609,
+      "num": 154609,
+      "word": "为什么拖完地会有腥臭味",
+      "onboard_time": 1745391742,
+      "rank": 45,
+      "category": "科学科普,民生新闻"
+    },
+    {
       "raw_hot": 154601,
       "num": 154601,
       "word": "小猫去世后变成人在天堂等着主人",
@@ -7217,14 +7273,6 @@
       "onboard_time": 1745159188,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 152305,
-      "num": 152305,
-      "word": "狐妖小红娘王权篇",
-      "onboard_time": 1745393242,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 152230,
@@ -8113,14 +8161,6 @@
       "onboard_time": 1745131222,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 134488,
-      "num": 134488,
-      "word": "赛里木湖",
-      "onboard_time": 1745392221,
-      "rank": 46,
-      "category": "旅游"
     },
     {
       "raw_hot": 134412,
@@ -9075,6 +9115,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 112600,
+      "num": 427194,
+      "word": "哪个地区仅退款用户最多",
+      "onboard_time": 1745392942,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 112560,
       "num": 164480,
       "word": "wtt总决赛2025落户中国香港",
@@ -10025,14 +10073,6 @@
       "onboard_time": 1745127983,
       "rank": 46,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 82524,
-      "num": 427194,
-      "word": "哪个地区仅退款用户最多",
-      "onboard_time": 1745392942,
-      "rank": 19,
-      "category": "互联网"
     },
     {
       "raw_hot": 82396,
@@ -12539,6 +12579,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 29495,
+      "num": 204801,
+      "word": "浙江严禁中小学节假日集体补课",
+      "onboard_time": 1745393902,
+      "rank": 28,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 29432,
       "num": 53877,
       "word": "太空视角看地球每一帧都震撼",
@@ -13571,6 +13619,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 12563,
+      "num": 181861,
+      "word": "脑白金卖养生咖啡靠谱吗",
+      "onboard_time": 1745393362,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12491,
+      "num": 180650,
+      "word": "仅退款是劣币驱逐良币",
+      "onboard_time": 1745393663,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 12413,
       "num": 478612,
       "word": "教资结构化面试有几种",
@@ -13657,6 +13721,14 @@
       "onboard_time": 1745311401,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 10263,
+      "num": 180856,
+      "word": "好奇号拍摄的火星夜空",
+      "onboard_time": 1745393242,
+      "rank": 39,
+      "category": "科学科普,民生新闻"
     },
     {
       "raw_hot": 10182,
@@ -13777,14 +13849,6 @@
       "onboard_time": 1745328082,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 6597,
-      "num": 165408,
-      "word": "好奇号拍摄的火星夜空",
-      "onboard_time": 1745393242,
-      "rank": 39,
-      "category": "科学科普,民生新闻"
     },
     {
       "raw_hot": 1849,
