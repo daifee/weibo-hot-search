@@ -1,0 +1,410 @@
+{
+  "runTime": 1745386913932,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2165616,
+        "num": 2165616,
+        "word": "刘国梁辞职",
+        "onboard_time": 1745372301,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1755218,
+        "num": 1755218,
+        "word": "Prada魔咒",
+        "onboard_time": 1745381784,
+        "rank": 1,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 115273,
+        "num": 1452721,
+        "word": "廖俊波说自己是全镇最小的人",
+        "onboard_time": 1745385084,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1295063,
+        "num": 1295063,
+        "word": "黄金再涨普通人也不能干的三件事",
+        "onboard_time": 1745382505,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1245814,
+        "num": 1245814,
+        "word": "特朗普认怂了",
+        "onboard_time": 1745374043,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1188286,
+        "num": 1188286,
+        "word": "马龙谈刘国梁辞职",
+        "onboard_time": 1745384664,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 765862,
+        "num": 765862,
+        "word": "特朗普承认对华145%关税过高",
+        "onboard_time": 1745380344,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 670002,
+        "num": 670002,
+        "word": "唐朝诡事录",
+        "onboard_time": 1745378184,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 605429,
+        "num": 605429,
+        "word": "马龙乒协副主席",
+        "onboard_time": 1745372422,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 525519,
+        "num": 525519,
+        "word": "山西被虐死男孩生父希望凶手死刑",
+        "onboard_time": 1745384963,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 656144,
+        "num": 517760,
+        "word": "迪丽热巴告了温如也",
+        "onboard_time": 1745380525,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 545896,
+        "num": 510249,
+        "word": "樊振东 王励勤",
+        "onboard_time": 1745374522,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 330643,
+        "num": 482257,
+        "word": "白宫宣称与中国达成贸易协议进展顺利",
+        "onboard_time": 1745384544,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 479365,
+        "num": 479365,
+        "word": "佳偶天成",
+        "onboard_time": 1745382445,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 422917,
+        "num": 422917,
+        "word": "网贷3000元1个月后被要求还30000",
+        "onboard_time": 1745381124,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 290651,
+        "num": 420710,
+        "word": "林允 全是造谣",
+        "onboard_time": 1745378904,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56582,
+        "num": 416539,
+        "word": "极氪革命性的超级电混",
+        "onboard_time": 1745384905,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 71201,
+        "num": 410790,
+        "word": "最有安全感的车来了",
+        "onboard_time": 1745384905,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 58810,
+        "num": 407673,
+        "word": "没想到长安启源Q07这么能装",
+        "onboard_time": 1745383464,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 87130,
+        "num": 398448,
+        "word": "马龙想把经验传授给年轻运动员",
+        "onboard_time": 1745385983,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 285948,
+        "num": 396127,
+        "word": "饭桌上开玩笑讲出多年前的埋尸案",
+        "onboard_time": 1745378243,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260327,
+        "num": 391393,
+        "word": "从前是姐夫以后便是丈夫了",
+        "onboard_time": 1745381845,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 388262,
+        "num": 388262,
+        "word": "文春曝永野芽郁脚踏两条船",
+        "onboard_time": 1745379503,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33377,
+        "num": 387956,
+        "word": "买大不买小买长不买短",
+        "onboard_time": 1745383404,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 109535,
+        "num": 385101,
+        "word": "王励勤曾说多听乒乓球爱好者声音",
+        "onboard_time": 1745385503,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151438,
+        "num": 381998,
+        "word": "15万级轿车颜值天花板来了",
+        "onboard_time": 1745384905,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 42675,
+        "num": 379417,
+        "word": "余承东称鸿蒙智行的王牌是安全",
+        "onboard_time": 1745383284,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 226646,
+        "num": 375394,
+        "word": "张碧晨 你就说啥时候播",
+        "onboard_time": 1745386402,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122595,
+        "num": 373386,
+        "word": "30年刘国梁从横空出世到卸任主席",
+        "onboard_time": 1745386762,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61891,
+        "num": 370734,
+        "word": "男子被女友逼写百万借条未还被起诉",
+        "onboard_time": 1745386702,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173534,
+        "num": 367544,
+        "word": "王励勤说要围绕6块奥运金牌备战",
+        "onboard_time": 1745385802,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39047,
+        "num": 365638,
+        "word": "正职是谋生副业是情感支撑",
+        "onboard_time": 1745385024,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 364203,
+        "num": 364203,
+        "word": "王励勤是樊振东奥运夺冠幕后功臣",
+        "onboard_time": 1745383464,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 359016,
+        "num": 359016,
+        "word": "刘国梁回应辞职",
+        "onboard_time": 1745374763,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 339119,
+        "num": 339119,
+        "word": "鹿晗 关晓彤",
+        "onboard_time": 1745367622,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286338,
+        "num": 286338,
+        "word": "女童因弟弟出生后被忽略导致视力下降",
+        "onboard_time": 1745382924,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261628,
+        "num": 261628,
+        "word": "永野芽郁 金武俊",
+        "onboard_time": 1745379624,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240996,
+        "num": 240996,
+        "word": "肖战 走入人群隐于街头",
+        "onboard_time": 1745385443,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232579,
+        "num": 232579,
+        "word": "黄金现罕见行情单日涨跌超100美元",
+        "onboard_time": 1745384783,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 226890,
+        "num": 226890,
+        "word": "女子上厕所时遭男子闯入反锁",
+        "onboard_time": 1745384603,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226632,
+        "num": 226632,
+        "word": "黄金价格",
+        "onboard_time": 1745376682,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 223212,
+        "num": 223212,
+        "word": "被虐致死男童生父女友称忍不住打他",
+        "onboard_time": 1745380102,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20991,
+        "num": 217449,
+        "word": "气虚瘦弱体质适合哪些运动养生方法",
+        "onboard_time": 1745386882,
+        "rank": 42,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 215697,
+        "num": 215697,
+        "word": "王者五五福利全解锁",
+        "onboard_time": 1745386282,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 215254,
+        "num": 215254,
+        "word": "特朗普预计对华关税将大幅降低",
+        "onboard_time": 1745371880,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 209102,
+        "num": 209102,
+        "word": "上海60岁女孩花掉养老金的一天",
+        "onboard_time": 1745379865,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 203556,
+        "num": 203556,
+        "word": "杨天真瘦好多",
+        "onboard_time": 1745379624,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201844,
+        "num": 201844,
+        "word": "赵丽颖新剧90秒6个危险镜头",
+        "onboard_time": 1745385922,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199380,
+        "num": 199380,
+        "word": "成何体统",
+        "onboard_time": 1745386642,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198268,
+        "num": 198268,
+        "word": "马龙最新采访",
+        "onboard_time": 1745386583,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#形成爱读书读好书善读书的浓厚氛围#"
+    }
+  }
+}
