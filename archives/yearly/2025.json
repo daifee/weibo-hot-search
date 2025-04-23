@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1745394057817,
+  "endTime": 1745397159461,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -2091,6 +2091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 3152022,
+      "num": 539435,
+      "word": "恋丑癖",
+      "onboard_time": 1745393722,
+      "rank": 26,
+      "category": "情感,艺人"
+    },
+    {
       "raw_hot": 3143279,
       "num": 351521,
       "word": "赵露思病发抽搐视频",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1740313522,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 2983650,
-      "num": 383378,
-      "word": "女子7号查出怀孕8号直接就生了",
-      "onboard_time": 1741057397,
-      "rank": 19,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

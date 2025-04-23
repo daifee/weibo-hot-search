@@ -1,6 +1,6 @@
 {
   "startTime": 1745339463299,
-  "endTime": 1745394057817,
+  "endTime": 1745397159461,
   "band_list": [
     {
       "raw_hot": 12205626,
@@ -19,12 +19,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 3152022,
+      "num": 539435,
+      "word": "恋丑癖",
+      "onboard_time": 1745393722,
+      "rank": 26,
+      "category": "情感,艺人"
+    },
+    {
       "raw_hot": 2302462,
       "num": 2302462,
       "word": "特朗普认怂了",
       "onboard_time": 1745374043,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 2295738,
+      "num": 660667,
+      "word": "孙颖莎发文感谢刘国梁",
+      "onboard_time": 1745395282,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 2277238,
@@ -219,6 +235,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 752884,
+      "num": 636737,
+      "word": "马龙孙颖莎王曼昱王楚钦最新采访",
+      "onboard_time": 1745393421,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 731043,
       "num": 731043,
       "word": "林允 全是造谣",
@@ -251,8 +275,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 611838,
-      "num": 424327,
+      "raw_hot": 626135,
+      "num": 426313,
       "word": "田中圭承认与永野芽郁同居但否认恋情",
       "onboard_time": 1745391803,
       "rank": 21,
@@ -283,6 +307,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 574347,
+      "num": 574347,
+      "word": "狐妖小红娘王权篇",
+      "onboard_time": 1745393242,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 561806,
+      "num": 561806,
+      "word": "逍遥 赵丽颖",
+      "onboard_time": 1745394562,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 535544,
       "num": 464772,
       "word": "王励勤简历",
@@ -308,7 +348,7 @@
     },
     {
       "raw_hot": 492955,
-      "num": 373063,
+      "num": 376029,
       "word": "韩安冉不让婆婆住家里",
       "onboard_time": 1745393183,
       "rank": 25,
@@ -372,7 +412,7 @@
     },
     {
       "raw_hot": 469451,
-      "num": 473490,
+      "num": 485718,
       "word": "歌手2025",
       "onboard_time": 1745388262,
       "rank": 9,
@@ -435,12 +475,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 407493,
+      "num": 560771,
+      "word": "中方回应特朗普称或将大幅降低对华关税",
+      "onboard_time": 1745395942,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 405856,
+      "num": 405856,
+      "word": "孙颖莎恭喜马龙",
+      "onboard_time": 1745395643,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 400398,
       "num": 370485,
       "word": "永野芽郁 田中圭",
       "onboard_time": 1745331743,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 398549,
+      "num": 476311,
+      "word": "荣耀GTPro配置强如开挂",
+      "onboard_time": 1745396723,
+      "rank": 16,
+      "category": "数码"
     },
     {
       "raw_hot": 385927,
@@ -476,7 +540,7 @@
     },
     {
       "raw_hot": 369147,
-      "num": 434283,
+      "num": 521432,
       "word": "2025爱奇艺狂砸19个新综",
       "onboard_time": 1745391983,
       "rank": 17,
@@ -579,6 +643,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 307019,
+      "num": 307019,
+      "word": "刘国梁去年9月提出辞职",
+      "onboard_time": 1745393482,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 304762,
+      "num": 514444,
+      "word": "张杰谢娜带3个女儿逛街",
+      "onboard_time": 1745395162,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 303469,
       "num": 253708,
       "word": "樊振东凯迪拉克直播",
@@ -659,6 +739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 279167,
+      "num": 502873,
+      "word": "孙红雷黄渤张艺兴新综艺大娱乐家",
+      "onboard_time": 1745395942,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 278654,
       "num": 627650,
       "word": "哪吒2离全球影史第4还差7亿票房",
@@ -699,14 +787,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 263470,
-      "num": 377070,
-      "word": "狐妖小红娘王权篇",
-      "onboard_time": 1745393242,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 260379,
       "num": 260379,
       "word": "陈冬时隔2年再次担任指令长",
@@ -737,22 +817,6 @@
       "onboard_time": 1745381365,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 240518,
-      "num": 382212,
-      "word": "马龙孙颖莎王曼昱王楚钦最新采访",
-      "onboard_time": 1745393421,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 238232,
-      "num": 238232,
-      "word": "恋丑癖",
-      "onboard_time": 1745393722,
-      "rank": 26,
-      "category": "情感,艺人"
     },
     {
       "raw_hot": 237534,
@@ -865,6 +929,14 @@
       "onboard_time": 1745389162,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 217406,
+      "num": 374449,
+      "word": "姚晨白百何董洁内娱中女状态",
+      "onboard_time": 1745393602,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 215697,
@@ -1043,14 +1115,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 198393,
-      "num": 198393,
-      "word": "刘国梁去年9月提出辞职",
-      "onboard_time": 1745393482,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 198268,
       "num": 198268,
       "word": "马龙最新采访",
@@ -1065,6 +1129,14 @@
       "onboard_time": 1745374283,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196724,
+      "num": 196724,
+      "word": "猫 不必惊慌毛毛微脏",
+      "onboard_time": 1745394441,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 195024,
@@ -1097,6 +1169,22 @@
       "onboard_time": 1745378424,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193711,
+      "num": 371265,
+      "word": "仁川机场偶遇李昀锐和哥哥",
+      "onboard_time": 1745394441,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 193215,
+      "num": 193215,
+      "word": "董明珠说空调卖1000元是纸糊的吗",
+      "onboard_time": 1745395463,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 193099,
@@ -1187,20 +1275,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177603,
+      "num": 427194,
+      "word": "哪个地区仅退款用户最多",
+      "onboard_time": 1745392942,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 176939,
       "num": 176939,
       "word": "宫崎骏电影幽灵公主定档五一",
       "onboard_time": 1745376923,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 175943,
-      "num": 200745,
-      "word": "姚晨白百何董洁内娱中女状态",
-      "onboard_time": 1745393602,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 175769,
@@ -1291,6 +1379,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 163235,
+      "num": 163235,
+      "word": "金素恩回应恋情",
+      "onboard_time": 1745396303,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162083,
       "num": 787374,
       "word": "神二十任务清单",
@@ -1379,6 +1475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147681,
+      "num": 147681,
+      "word": "美媒称特朗普压力太大顶不住",
+      "onboard_time": 1745396962,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 146819,
       "num": 146819,
       "word": "梁田破碎感",
@@ -1393,6 +1497,14 @@
       "onboard_time": 1745364198,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144601,
+      "num": 144601,
+      "word": "逍遥",
+      "onboard_time": 1745387723,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 143549,
@@ -1417,6 +1529,14 @@
       "onboard_time": 1745329102,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140346,
+      "num": 369738,
+      "word": "牛津大学一学院用人头骨当餐具",
+      "onboard_time": 1745396543,
+      "rank": 28,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 140066,
@@ -1603,14 +1723,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 112600,
-      "num": 427194,
-      "word": "哪个地区仅退款用户最多",
-      "onboard_time": 1745392942,
-      "rank": 19,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 111429,
       "num": 111429,
       "word": "樊振东曾说希望更圆满的永远是下一个比赛",
@@ -1771,6 +1883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81566,
+      "num": 467448,
+      "word": "40岁男子应酬喝酒后独自在酒店猝死",
+      "onboard_time": 1745396901,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81178,
       "num": 410790,
       "word": "最有安全感的车来了",
@@ -1825,6 +1945,22 @@
       "onboard_time": 1745335043,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73845,
+      "num": 498273,
+      "word": "广西为何一边干旱一边洪水",
+      "onboard_time": 1745395643,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73758,
+      "num": 367405,
+      "word": "李宁全红婵航天日同框",
+      "onboard_time": 1745396602,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 72809,
@@ -2003,6 +2139,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 55094,
+      "num": 194241,
+      "word": "法国前总理被小鹏AI科技惊呆了",
+      "onboard_time": 1745394202,
+      "rank": 36,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 54561,
       "num": 456690,
       "word": "蔚来萤火虫将进入海外16国销售",
@@ -2051,6 +2195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50429,
+      "num": 322530,
+      "word": "男司机炸街撞车后丢下副驾女子逃逸",
+      "onboard_time": 1745397022,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50202,
       "num": 50202,
       "word": "官方通报5旬辅警曾被顶替上中专",
@@ -2073,6 +2225,30 @@
       "onboard_time": 1745377942,
       "rank": 38,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 47383,
+      "num": 442161,
+      "word": "欧洲计划建立自己的支付系统",
+      "onboard_time": 1745395762,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 46257,
+      "num": 456886,
+      "word": "全球黄金储量是多少",
+      "onboard_time": 1745396481,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 46060,
+      "num": 545120,
+      "word": "人民网评仅退款退场如何善后",
+      "onboard_time": 1745396303,
+      "rank": 9,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 44100,
@@ -2265,6 +2441,14 @@
       "onboard_time": 1745382084,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 26366,
+      "num": 174178,
+      "word": "被16岁的孩子上了一堂教育课",
+      "onboard_time": 1745396481,
+      "rank": 39,
+      "category": "情感,民生新闻"
     },
     {
       "raw_hot": 25609,

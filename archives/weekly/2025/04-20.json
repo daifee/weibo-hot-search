@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745394057817,
+  "endTime": 1745397159461,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -89,6 +89,14 @@
       "onboard_time": 1745321421,
       "rank": 32,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 3152022,
+      "num": 539435,
+      "word": "恋丑癖",
+      "onboard_time": 1745393722,
+      "rank": 26,
+      "category": "情感,艺人"
     },
     {
       "raw_hot": 3121027,
@@ -201,6 +209,14 @@
       "onboard_time": 1745374043,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 2295738,
+      "num": 660667,
+      "word": "孙颖莎发文感谢刘国梁",
+      "onboard_time": 1745395282,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 2293147,
@@ -1131,6 +1147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 752884,
+      "num": 636737,
+      "word": "马龙孙颖莎王曼昱王楚钦最新采访",
+      "onboard_time": 1745393421,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 746630,
       "num": 861729,
       "word": "义乌女老板对CNN霸气喊话美国客户",
@@ -1475,6 +1499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 626135,
+      "num": 426313,
+      "word": "田中圭承认与永野芽郁同居但否认恋情",
+      "onboard_time": 1745391803,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 619650,
       "num": 426770,
       "word": "曝郑中基余思敏已决定离婚",
@@ -1489,14 +1521,6 @@
       "onboard_time": 1745238322,
       "rank": 21,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 611838,
-      "num": 424327,
-      "word": "田中圭承认与永野芽郁同居但否认恋情",
-      "onboard_time": 1745391803,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 611060,
@@ -1619,6 +1643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 574347,
+      "num": 574347,
+      "word": "狐妖小红娘王权篇",
+      "onboard_time": 1745393242,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 573288,
       "num": 573288,
       "word": "雨果采访哭了",
@@ -1656,6 +1688,14 @@
       "word": "万花世界迪丽热巴",
       "onboard_time": 1745243964,
       "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 561806,
+      "num": 561806,
+      "word": "逍遥 赵丽颖",
+      "onboard_time": 1745394562,
+      "rank": 7,
       "category": "剧集"
     },
     {
@@ -1908,7 +1948,7 @@
     },
     {
       "raw_hot": 492955,
-      "num": 373063,
+      "num": 376029,
       "word": "韩安冉不让婆婆住家里",
       "onboard_time": 1745393183,
       "rank": 25,
@@ -2036,7 +2076,7 @@
     },
     {
       "raw_hot": 469451,
-      "num": 473490,
+      "num": 485718,
       "word": "歌手2025",
       "onboard_time": 1745388262,
       "rank": 9,
@@ -2275,12 +2315,28 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 407493,
+      "num": 560771,
+      "word": "中方回应特朗普称或将大幅降低对华关税",
+      "onboard_time": 1745395942,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 407280,
       "num": 407280,
       "word": "语聊房竟成色情服务叫卖场所",
       "onboard_time": 1745190319,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 405856,
+      "num": 405856,
+      "word": "孙颖莎恭喜马龙",
+      "onboard_time": 1745395643,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 402939,
@@ -2313,6 +2369,14 @@
       "onboard_time": 1745115265,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 398549,
+      "num": 476311,
+      "word": "荣耀GTPro配置强如开挂",
+      "onboard_time": 1745396723,
+      "rank": 16,
+      "category": "数码"
     },
     {
       "raw_hot": 395870,
@@ -2492,7 +2556,7 @@
     },
     {
       "raw_hot": 369147,
-      "num": 434283,
+      "num": 521432,
       "word": "2025爱奇艺狂砸19个新综",
       "onboard_time": 1745391983,
       "rank": 17,
@@ -3027,6 +3091,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 307019,
+      "num": 307019,
+      "word": "刘国梁去年9月提出辞职",
+      "onboard_time": 1745393482,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 306387,
       "num": 293874,
       "word": "尹恩惠40岁状态",
@@ -3048,6 +3120,14 @@
       "word": "赵丽颖带儿子想想买玩具",
       "onboard_time": 1745215461,
       "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 304762,
+      "num": 514444,
+      "word": "张杰谢娜带3个女儿逛街",
+      "onboard_time": 1745395162,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -3355,6 +3435,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 279167,
+      "num": 502873,
+      "word": "孙红雷黄渤张艺兴新综艺大娱乐家",
+      "onboard_time": 1745395942,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 278779,
       "num": 278779,
       "word": "刘强东请兄弟喝酒喜欢大杯举起来",
@@ -3553,14 +3641,6 @@
       "onboard_time": 1745162726,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 263470,
-      "num": 377070,
-      "word": "狐妖小红娘王权篇",
-      "onboard_time": 1745393242,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 262085,
@@ -3923,14 +4003,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 240518,
-      "num": 382212,
-      "word": "马龙孙颖莎王曼昱王楚钦最新采访",
-      "onboard_time": 1745393421,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 239644,
       "num": 239644,
       "word": "赵丽颖长发红裙",
@@ -3961,14 +4033,6 @@
       "onboard_time": 1745298264,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 238232,
-      "num": 238232,
-      "word": "恋丑癖",
-      "onboard_time": 1745393722,
-      "rank": 26,
-      "category": "情感,艺人"
     },
     {
       "raw_hot": 237933,
@@ -4377,6 +4441,14 @@
       "onboard_time": 1745228060,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 217406,
+      "num": 374449,
+      "word": "姚晨白百何董洁内娱中女状态",
+      "onboard_time": 1745393602,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 217301,
@@ -5051,14 +5123,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 198393,
-      "num": 198393,
-      "word": "刘国梁去年9月提出辞职",
-      "onboard_time": 1745393482,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 198277,
       "num": 198277,
       "word": "一诺满分苍",
@@ -5145,6 +5209,14 @@
       "onboard_time": 1745162007,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196724,
+      "num": 196724,
+      "word": "猫 不必惊慌毛毛微脏",
+      "onboard_time": 1745394441,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 196669,
@@ -5307,6 +5379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193711,
+      "num": 371265,
+      "word": "仁川机场偶遇李昀锐和哥哥",
+      "onboard_time": 1745394441,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193668,
       "num": 193668,
       "word": "林高远入选多哈世乒赛名单",
@@ -5329,6 +5409,14 @@
       "onboard_time": 1745147362,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 193215,
+      "num": 193215,
+      "word": "董明珠说空调卖1000元是纸糊的吗",
+      "onboard_time": 1745395463,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 193099,
@@ -5987,6 +6075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177603,
+      "num": 427194,
+      "word": "哪个地区仅退款用户最多",
+      "onboard_time": 1745392942,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 177594,
       "num": 218094,
       "word": "梁田破碎感",
@@ -6081,14 +6177,6 @@
       "onboard_time": 1745129422,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 175943,
-      "num": 200745,
-      "word": "姚晨白百何董洁内娱中女状态",
-      "onboard_time": 1745393602,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 175855,
@@ -6657,6 +6745,14 @@
       "onboard_time": 1745240483,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 163235,
+      "num": 163235,
+      "word": "金素恩回应恋情",
+      "onboard_time": 1745396303,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 163229,
@@ -7515,6 +7611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147681,
+      "num": 147681,
+      "word": "美媒称特朗普压力太大顶不住",
+      "onboard_time": 1745396962,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 147364,
       "num": 360946,
       "word": "陈幸同说小小铜牌继续努力",
@@ -7625,6 +7729,14 @@
       "onboard_time": 1745329162,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144601,
+      "num": 144601,
+      "word": "逍遥",
+      "onboard_time": 1745387723,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 144185,
@@ -7809,6 +7921,14 @@
       "onboard_time": 1745153665,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 140346,
+      "num": 369738,
+      "word": "牛津大学一学院用人头骨当餐具",
+      "onboard_time": 1745396543,
+      "rank": 28,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 140066,
@@ -9115,14 +9235,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 112600,
-      "num": 427194,
-      "word": "哪个地区仅退款用户最多",
-      "onboard_time": 1745392942,
-      "rank": 19,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 112560,
       "num": 164480,
       "word": "wtt总决赛2025落户中国香港",
@@ -10107,6 +10219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81566,
+      "num": 467448,
+      "word": "40岁男子应酬喝酒后独自在酒店猝死",
+      "onboard_time": 1745396901,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81504,
       "num": 81504,
       "word": "多家手机厂商宣布支持朋友圈发live图",
@@ -10395,12 +10515,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 73845,
+      "num": 498273,
+      "word": "广西为何一边干旱一边洪水",
+      "onboard_time": 1745395643,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73840,
       "num": 368283,
       "word": "男女都可以接种九价HPV疫苗了",
       "onboard_time": 1745304081,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73758,
+      "num": 367405,
+      "word": "李宁全红婵航天日同框",
+      "onboard_time": 1745396602,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 73621,
@@ -11235,6 +11371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 55094,
+      "num": 194241,
+      "word": "法国前总理被小鹏AI科技惊呆了",
+      "onboard_time": 1745394202,
+      "rank": 36,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 54561,
       "num": 456690,
       "word": "蔚来萤火虫将进入海外16国销售",
@@ -11531,6 +11675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50429,
+      "num": 322530,
+      "word": "男司机炸街撞车后丢下副驾女子逃逸",
+      "onboard_time": 1745397022,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50371,
       "num": 243386,
       "word": "无手女孩希望推进无障碍卫生巾落地",
@@ -11731,12 +11883,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47383,
+      "num": 442161,
+      "word": "欧洲计划建立自己的支付系统",
+      "onboard_time": 1745395762,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 47368,
       "num": 258738,
       "word": "白敬亭阿信清唱任性",
       "onboard_time": 1745208443,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 46257,
+      "num": 456886,
+      "word": "全球黄金储量是多少",
+      "onboard_time": 1745396481,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 46184,
@@ -11753,6 +11921,14 @@
       "onboard_time": 1745192421,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46060,
+      "num": 545120,
+      "word": "人民网评仅退款退场如何善后",
+      "onboard_time": 1745396303,
+      "rank": 9,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 45453,
@@ -12745,6 +12921,14 @@
       "onboard_time": 1745224460,
       "rank": 36,
       "category": "教育"
+    },
+    {
+      "raw_hot": 26366,
+      "num": 174178,
+      "word": "被16岁的孩子上了一堂教育课",
+      "onboard_time": 1745396481,
+      "rank": 39,
+      "category": "情感,民生新闻"
     },
     {
       "raw_hot": 26354,
