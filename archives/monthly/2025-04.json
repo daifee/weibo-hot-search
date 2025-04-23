@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1745425908553,
+  "endTime": 1745426948725,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -8259,6 +8259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 703959,
+      "num": 703959,
+      "word": "名侦探学院",
+      "onboard_time": 1745424021,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 702948,
       "num": 702948,
       "word": "和出轨老公坚持丧偶式婚姻",
@@ -9089,14 +9097,6 @@
       "onboard_time": 1744874542,
       "rank": 15,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 652975,
-      "num": 652975,
-      "word": "名侦探学院",
-      "onboard_time": 1745424021,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 652798,
@@ -14075,6 +14075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 444641,
+      "num": 444641,
+      "word": "珠帘玉幕",
+      "onboard_time": 1745424381,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 444198,
       "num": 893914,
       "word": "男子住32楼为防大风将窗户全封死",
@@ -14345,6 +14353,14 @@
       "onboard_time": 1743431003,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 434900,
+      "num": 434900,
+      "word": "特朗普正为与中国达成协议做准备",
+      "onboard_time": 1745423962,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 434807,
@@ -22547,14 +22563,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 275921,
-      "num": 275921,
-      "word": "特朗普正为与中国达成协议做准备",
-      "onboard_time": 1745423962,
-      "rank": 4,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 275843,
       "num": 474654,
       "word": "顺风车司机高速上智驾脱手剪指甲",
@@ -25217,14 +25225,6 @@
       "onboard_time": 1744028723,
       "rank": 17,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 244588,
-      "num": 244588,
-      "word": "珠帘玉幕",
-      "onboard_time": 1745424381,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 244323,
@@ -38411,6 +38411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 177337,
+      "num": 174806,
+      "word": "安静公主要二次手术",
+      "onboard_time": 1745425100,
+      "rank": 25,
+      "category": "网红"
+    },
+    {
       "raw_hot": 177336,
       "num": 177336,
       "word": "戴荃称遗憾哪吒没成功跟电影合作",
@@ -44137,14 +44145,6 @@
       "onboard_time": 1744728083,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 157253,
-      "num": 157253,
-      "word": "安静公主要二次手术",
-      "onboard_time": 1745425100,
-      "rank": 25,
-      "category": "网红"
     },
     {
       "raw_hot": 157195,
@@ -55307,6 +55307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 123674,
+      "num": 152598,
+      "word": "景区回应李现人生照片打卡处被封",
+      "onboard_time": 1745424081,
+      "rank": 29,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 123662,
       "num": 123662,
       "word": "哈妮克孜演技",
@@ -60723,14 +60731,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 103200,
-      "num": 103200,
-      "word": "景区回应李现人生照片打卡处被封",
-      "onboard_time": 1745424081,
-      "rank": 29,
-      "category": "民生新闻,艺人"
-    },
-    {
       "raw_hot": 103139,
       "num": 103139,
       "word": "陈楚生贵阳音乐节",
@@ -63771,20 +63771,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 85889,
+      "num": 85889,
+      "word": "女子沉迷海缸两个月视力骤减100度",
+      "onboard_time": 1745425400,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85815,
       "num": 107978,
       "word": "成毅下部戏是沧海笑",
       "onboard_time": 1745359695,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 85815,
-      "num": 85815,
-      "word": "女子沉迷海缸两个月视力骤减100度",
-      "onboard_time": 1745425400,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 85791,
@@ -65360,6 +65360,14 @@
       "word": "王艺迪vs邵杰妮",
       "onboard_time": 1744771522,
       "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 77102,
+      "num": 92342,
+      "word": "王楠老公谈刘国梁辞职",
+      "onboard_time": 1745425579,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -67185,14 +67193,6 @@
       "onboard_time": 1744946541,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 66880,
-      "num": 66880,
-      "word": "王楠老公谈刘国梁辞职",
-      "onboard_time": 1745425579,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 66843,
@@ -69819,6 +69819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 53219,
+      "num": 53219,
+      "word": "金湘军辞去山西省省长职务",
+      "onboard_time": 1745426060,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 53150,
       "num": 134113,
       "word": "柯南剧场版成绩仅次于鬼灭之刃",
@@ -70249,6 +70257,14 @@
       "onboard_time": 1745205081,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50899,
+      "num": 242653,
+      "word": "多国领导人接连访华关键词是合作",
+      "onboard_time": 1745425159,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 50880,
@@ -72881,14 +72897,6 @@
       "onboard_time": 1743580644,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 39518,
-      "num": 242653,
-      "word": "多国领导人接连访华关键词是合作",
-      "onboard_time": 1745425159,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 39514,

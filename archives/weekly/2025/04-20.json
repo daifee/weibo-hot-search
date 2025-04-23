@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745425908553,
+  "endTime": 1745426948725,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1379,6 +1379,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 703959,
+      "num": 703959,
+      "word": "名侦探学院",
+      "onboard_time": 1745424021,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 702869,
       "num": 702869,
       "word": "晚上10点睡觉和11点睡觉的区别",
@@ -1561,14 +1569,6 @@
       "onboard_time": 1745289801,
       "rank": 4,
       "category": "教育"
-    },
-    {
-      "raw_hot": 652975,
-      "num": 652975,
-      "word": "名侦探学院",
-      "onboard_time": 1745424021,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 651010,
@@ -2419,6 +2419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 444641,
+      "num": 444641,
+      "word": "珠帘玉幕",
+      "onboard_time": 1745424381,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 443940,
       "num": 533497,
       "word": "航天员陈冬陈中瑞王杰",
@@ -2457,6 +2465,14 @@
       "onboard_time": 1745236162,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 434900,
+      "num": 434900,
+      "word": "特朗普正为与中国达成协议做准备",
+      "onboard_time": 1745423962,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 433140,
@@ -3827,14 +3843,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 275921,
-      "num": 275921,
-      "word": "特朗普正为与中国达成协议做准备",
-      "onboard_time": 1745423962,
-      "rank": 4,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 273723,
       "num": 273723,
       "word": "国内航司开始暂停接收波音飞机",
@@ -4304,14 +4312,6 @@
       "word": "白鹿憋笑",
       "onboard_time": 1745404044,
       "rank": 31,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 244588,
-      "num": 244588,
-      "word": "珠帘玉幕",
-      "onboard_time": 1745424381,
-      "rank": 8,
       "category": "剧集"
     },
     {
@@ -6739,6 +6739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 177337,
+      "num": 174806,
+      "word": "安静公主要二次手术",
+      "onboard_time": 1745425100,
+      "rank": 25,
+      "category": "网红"
+    },
+    {
       "raw_hot": 177245,
       "num": 177245,
       "word": "陈泽 青岛",
@@ -7913,14 +7921,6 @@
       "onboard_time": 1745230043,
       "rank": 18,
       "category": "情感"
-    },
-    {
-      "raw_hot": 157253,
-      "num": 157253,
-      "word": "安静公主要二次手术",
-      "onboard_time": 1745425100,
-      "rank": 25,
-      "category": "网红"
     },
     {
       "raw_hot": 156961,
@@ -9979,6 +9979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123674,
+      "num": 152598,
+      "word": "景区回应李现人生照片打卡处被封",
+      "onboard_time": 1745424081,
+      "rank": 29,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 123489,
       "num": 123489,
       "word": "感觉沙坪坝离韩国也不是很远",
@@ -10795,14 +10803,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 103200,
-      "num": 103200,
-      "word": "景区回应李现人生照片打卡处被封",
-      "onboard_time": 1745424081,
-      "rank": 29,
-      "category": "民生新闻,艺人"
-    },
-    {
       "raw_hot": 103139,
       "num": 103139,
       "word": "陈楚生贵阳音乐节",
@@ -11411,20 +11411,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 85889,
+      "num": 85889,
+      "word": "女子沉迷海缸两个月视力骤减100度",
+      "onboard_time": 1745425400,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85815,
       "num": 107978,
       "word": "成毅下部戏是沧海笑",
       "onboard_time": 1745359695,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 85815,
-      "num": 85815,
-      "word": "女子沉迷海缸两个月视力骤减100度",
-      "onboard_time": 1745425400,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 85734,
@@ -11769,6 +11769,14 @@
       "onboard_time": 1745298082,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77102,
+      "num": 92342,
+      "word": "王楠老公谈刘国梁辞职",
+      "onboard_time": 1745425579,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 76802,
@@ -12209,14 +12217,6 @@
       "onboard_time": 1745144182,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 66880,
-      "num": 66880,
-      "word": "王楠老公谈刘国梁辞职",
-      "onboard_time": 1745425579,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 66843,
@@ -12939,6 +12939,14 @@
       "category": "海外新闻,民生新闻"
     },
     {
+      "raw_hot": 53219,
+      "num": 53219,
+      "word": "金湘军辞去山西省省长职务",
+      "onboard_time": 1745426060,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 53150,
       "num": 134113,
       "word": "柯南剧场版成绩仅次于鬼灭之刃",
@@ -13097,6 +13105,14 @@
       "onboard_time": 1745205081,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50899,
+      "num": 242653,
+      "word": "多国领导人接连访华关键词是合作",
+      "onboard_time": 1745425159,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 50880,
@@ -13753,14 +13769,6 @@
       "onboard_time": 1745168240,
       "rank": 28,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 39518,
-      "num": 242653,
-      "word": "多国领导人接连访华关键词是合作",
-      "onboard_time": 1745425159,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 39301,
