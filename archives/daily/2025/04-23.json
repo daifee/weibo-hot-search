@@ -1,6 +1,6 @@
 {
   "startTime": 1745339463299,
-  "endTime": 1745422065135,
+  "endTime": 1745422966072,
   "band_list": [
     {
       "raw_hot": 12205626,
@@ -809,6 +809,22 @@
       "onboard_time": 1745411662,
       "rank": 14,
       "category": "网红"
+    },
+    {
+      "raw_hot": 348692,
+      "num": 163590,
+      "word": "金价猛烈跳水",
+      "onboard_time": 1745421263,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 344167,
+      "num": 273437,
+      "word": "李晟说因为浪姐被看到了",
+      "onboard_time": 1745421381,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 337512,
@@ -1651,6 +1667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194715,
+      "num": 224365,
+      "word": "南大学生回应食堂不供应西湖醋鱼",
+      "onboard_time": 1745420602,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 194095,
       "num": 194095,
       "word": "爱奇艺世界大会全员上号",
@@ -1689,14 +1713,6 @@
       "onboard_time": 1745377223,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 193015,
-      "num": 193015,
-      "word": "李晟说因为浪姐被看到了",
-      "onboard_time": 1745421381,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 192737,
@@ -2081,14 +2097,6 @@
       "onboard_time": 1745410642,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 163590,
-      "num": 163590,
-      "word": "金价猛烈跳水",
-      "onboard_time": 1745421263,
-      "rank": 30,
-      "category": "财经"
     },
     {
       "raw_hot": 163235,
@@ -2747,6 +2755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116842,
+      "num": 116842,
+      "word": "李惠利问翻译错了吗",
+      "onboard_time": 1745422103,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 116818,
       "num": 116818,
       "word": "28岁男生在村里同时打几十份工",
@@ -2939,12 +2955,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 99439,
-      "num": 224365,
-      "word": "南大学生回应食堂不供应西湖醋鱼",
-      "onboard_time": 1745420602,
-      "rank": 14,
-      "category": "民生新闻"
+      "raw_hot": 100743,
+      "num": 100743,
+      "word": "失聪的狗狗主人每天这样把它叫醒",
+      "onboard_time": 1745422342,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 99401,
@@ -3011,6 +3027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94925,
+      "num": 149992,
+      "word": "TES战胜NIP",
+      "onboard_time": 1745422342,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 93294,
       "num": 93294,
       "word": "刘在石综艺惊现李秀满女团新歌",
@@ -3027,20 +3051,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 92282,
+      "num": 92282,
+      "word": "陈都灵辛云来这段付费才可以不看",
+      "onboard_time": 1745420424,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 92179,
       "num": 505631,
       "word": "程璐豆豆极狐汽车展台超闪开麦",
       "onboard_time": 1745399842,
       "rank": 15,
       "category": "汽车,艺人"
-    },
-    {
-      "raw_hot": 91975,
-      "num": 91975,
-      "word": "陈都灵辛云来这段付费才可以不看",
-      "onboard_time": 1745420424,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 90525,
@@ -3176,6 +3200,14 @@
       "word": "被前男友泼汽油烧残女孩再回应质疑",
       "onboard_time": 1745335043,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74750,
+      "num": 74750,
+      "word": "小学生在校摔倒家长起诉学校索赔8万",
+      "onboard_time": 1745422462,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -3603,6 +3635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41995,
+      "num": 148384,
+      "word": "一卷胶片让抗战文献保存500年",
+      "onboard_time": 1745420842,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41584,
       "num": 41584,
       "word": "英军高官挑衅台海问题",
@@ -3979,6 +4019,14 @@
       "category": "科学科普,民生新闻"
     },
     {
+      "raw_hot": 16753,
+      "num": 127698,
+      "word": "原来对牛弹琴是因为弹错琴了",
+      "onboard_time": 1745421683,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 16632,
       "num": 250876,
       "word": "如何鉴别手表有没有偷拍摄像头",
@@ -4025,14 +4073,6 @@
       "onboard_time": 1745415262,
       "rank": 29,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 14444,
-      "num": 127698,
-      "word": "原来对牛弹琴是因为弹错琴了",
-      "onboard_time": 1745421683,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 14437,
@@ -4113,6 +4153,14 @@
       "onboard_time": 1745383346,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 10540,
+      "num": 95364,
+      "word": "博物馆冰箱贴新出路",
+      "onboard_time": 1745422881,
+      "rank": 39,
+      "category": "休闲"
     },
     {
       "raw_hot": 10263,
@@ -4217,6 +4265,14 @@
       "onboard_time": 1745403683,
       "rank": 19,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 7044,
+      "num": 117138,
+      "word": "广西旱涝并存形成的原因是什么",
+      "onboard_time": 1745422881,
+      "rank": 31,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 5743,
