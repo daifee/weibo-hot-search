@@ -1,0 +1,410 @@
+{
+  "runTime": 1745401266131,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1537371,
+        "num": 1537371,
+        "word": "中方回应特朗普称或将大幅降低对华关税",
+        "onboard_time": 1745395942,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 764771,
+        "num": 764771,
+        "word": "何瑞贤主演",
+        "onboard_time": 1745397922,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33372,
+        "num": 591817,
+        "word": "廖俊波说自己是全镇最小的人",
+        "onboard_time": 1745385084,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1074825,
+        "num": 589229,
+        "word": "孙颖莎发文感谢刘国梁",
+        "onboard_time": 1745395282,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 554088,
+        "num": 554088,
+        "word": "刘国梁辞职",
+        "onboard_time": 1745372301,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 521841,
+        "num": 521841,
+        "word": "特朗普认怂了",
+        "onboard_time": 1745374043,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 464324,
+        "num": 464324,
+        "word": "黄金再涨普通人也不能干的三件事",
+        "onboard_time": 1745382505,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 454085,
+        "num": 454085,
+        "word": "董明珠再点名小米汽车",
+        "onboard_time": 1745398642,
+        "rank": 7,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 350996,
+        "num": 452256,
+        "word": "逍遥 赵丽颖",
+        "onboard_time": 1745394562,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265603,
+        "num": 449952,
+        "word": "饮用水界劳斯莱斯一瓶售价988元",
+        "onboard_time": 1745399482,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 779100,
+        "num": 447206,
+        "word": "这是苍井优这是她老公",
+        "onboard_time": 1745397742,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 602379,
+        "num": 443399,
+        "word": "迪丽热巴戴了唇钉",
+        "onboard_time": 1745400383,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 441092,
+        "num": 441092,
+        "word": "打奉陪到底谈大门敞开",
+        "onboard_time": 1745397382,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 431609,
+        "num": 431609,
+        "word": "马龙乒协副主席",
+        "onboard_time": 1745372422,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 301361,
+        "num": 301361,
+        "word": "张杰谢娜带3个女儿逛街",
+        "onboard_time": 1745395162,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246775,
+        "num": 301152,
+        "word": "狐妖小红娘王权篇",
+        "onboard_time": 1745393242,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214484,
+        "num": 298484,
+        "word": "谁给那英报的名",
+        "onboard_time": 1745400742,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86050,
+        "num": 297488,
+        "word": "南北大众定终身",
+        "onboard_time": 1745399842,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 16324,
+        "num": 295334,
+        "word": "下一任教皇候选人有谁",
+        "onboard_time": 1745400503,
+        "rank": 18,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 107638,
+        "num": 293382,
+        "word": "男子找中介贷款12万到手剩10万",
+        "onboard_time": 1745399903,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 396311,
+        "num": 290944,
+        "word": "日女算我求你们了好吗",
+        "onboard_time": 1745390002,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290311,
+        "num": 290311,
+        "word": "40岁男子应酬喝酒后独自在酒店猝死",
+        "onboard_time": 1745396901,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162141,
+        "num": 277705,
+        "word": "荣耀GTPro配置强如开挂",
+        "onboard_time": 1745396723,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 274263,
+        "num": 274263,
+        "word": "马龙孙颖莎王曼昱王楚钦最新采访",
+        "onboard_time": 1745393421,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129657,
+        "num": 268898,
+        "word": "世界读书日和孙颖莎一起读书",
+        "onboard_time": 1745400503,
+        "rank": 24,
+        "category": "体育,读书作家"
+      },
+      {
+        "raw_hot": 66730,
+        "num": 267147,
+        "word": "程璐豆豆极狐汽车展台超闪开麦",
+        "onboard_time": 1745399842,
+        "rank": 25,
+        "category": "汽车,艺人"
+      },
+      {
+        "raw_hot": 266676,
+        "num": 266676,
+        "word": "孙颖莎说会全力以赴为国而战",
+        "onboard_time": 1745399302,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201883,
+        "num": 260197,
+        "word": "韩安冉不让婆婆住家里",
+        "onboard_time": 1745393183,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 173378,
+        "num": 255420,
+        "word": "孙红雷黄渤张艺兴新综艺大娱乐家",
+        "onboard_time": 1745395942,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45076,
+        "num": 254431,
+        "word": "多方发起智能辅助驾驶安全倡议",
+        "onboard_time": 1745398463,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 253878,
+        "num": 253878,
+        "word": "女子拉黑病夫待逝后要全部遗产",
+        "onboard_time": 1745399062,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235654,
+        "num": 235654,
+        "word": "中方回应特朗普承认对华关税太高",
+        "onboard_time": 1745397622,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 196446,
+        "num": 196446,
+        "word": "你们徒步人的嘴是真严啊",
+        "onboard_time": 1745399122,
+        "rank": 32,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 187916,
+        "num": 187916,
+        "word": "新说唱2025预告",
+        "onboard_time": 1745400563,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192737,
+        "num": 187533,
+        "word": "男子应酬醉酒被送到酒店第二天离世",
+        "onboard_time": 1745400503,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181936,
+        "num": 181936,
+        "word": "郭富城回应方媛在米兰被抢包",
+        "onboard_time": 1745397681,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171182,
+        "num": 171182,
+        "word": "亚洲新声导师阵容",
+        "onboard_time": 1745398882,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162515,
+        "num": 162515,
+        "word": "张杰演唱会的观众太有节目了",
+        "onboard_time": 1745400262,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 26990,
+        "num": 162167,
+        "word": "广西需警惕旱涝急转",
+        "onboard_time": 1745400143,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20428,
+        "num": 162043,
+        "word": "特朗普吹牛说鸡蛋价格下降93%",
+        "onboard_time": 1745400322,
+        "rank": 39,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 162014,
+        "num": 162014,
+        "word": "田中圭承认与永野芽郁同居但否认恋情",
+        "onboard_time": 1745391803,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159742,
+        "num": 159742,
+        "word": "狐妖王权篇有自己的少爷和我",
+        "onboard_time": 1745400445,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155405,
+        "num": 155405,
+        "word": "樊振东被夸广东第一帅害羞得笑了",
+        "onboard_time": 1745398341,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154964,
+        "num": 154964,
+        "word": "逆天邪神年番全新建模",
+        "onboard_time": 1745401015,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 142220,
+        "num": 154799,
+        "word": "谷江山的配音一出来全对了",
+        "onboard_time": 1745399783,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98338,
+        "num": 154683,
+        "word": "家中藏数百块石头致邻居家墙体开裂",
+        "onboard_time": 1745399243,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133840,
+        "num": 154681,
+        "word": "全红婵收到马龙签名照直呼太帅了",
+        "onboard_time": 1745399842,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154679,
+        "num": 154679,
+        "word": "京东外卖在哪 搞了半天注册成骑手了",
+        "onboard_time": 1745400383,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142721,
+        "num": 142721,
+        "word": "2岁男童被热油烫伤父亲后悔直扇脸",
+        "onboard_time": 1745401134,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141279,
+        "num": 141279,
+        "word": "樊振东上海车展",
+        "onboard_time": 1745399184,
+        "rank": 49,
+        "category": "体育,汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同阿塞拜疆总统会谈#"
+    }
+  }
+}
