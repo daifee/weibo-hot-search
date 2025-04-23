@@ -1,6 +1,6 @@
 {
   "startTime": 1745339463299,
-  "endTime": 1745378721588,
+  "endTime": 1745380236266,
   "band_list": [
     {
       "raw_hot": 12205626,
@@ -27,8 +27,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 2232404,
-      "num": 2232404,
+      "raw_hot": 2245964,
+      "num": 2245964,
       "word": "特朗普认怂了",
       "onboard_time": 1745374043,
       "rank": 31,
@@ -99,6 +99,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 998305,
+      "num": 998305,
+      "word": "唐朝诡事录",
+      "onboard_time": 1745378184,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 998135,
       "num": 998135,
       "word": "被质疑长相听障女生称微调过几处",
@@ -131,6 +139,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 731043,
+      "num": 731043,
+      "word": "林允 全是造谣",
+      "onboard_time": 1745378904,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 690605,
       "num": 690605,
       "word": "神二十航天员乘组公布",
@@ -155,11 +171,35 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 588418,
+      "num": 588418,
+      "word": "文春曝永野芽郁脚踏两条船",
+      "onboard_time": 1745379503,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 535544,
       "num": 464772,
       "word": "王励勤简历",
       "onboard_time": 1745375242,
       "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 534624,
+      "num": 534624,
+      "word": "美国人爱的网红杯子悄悄涨价了",
+      "onboard_time": 1745378784,
+      "rank": 11,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 503911,
+      "num": 503911,
+      "word": "张继科说林诗栋气场还差了点",
+      "onboard_time": 1745375722,
+      "rank": 12,
       "category": "体育"
     },
     {
@@ -171,20 +211,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 482073,
+      "num": 614554,
+      "word": "金饰克价跌到1048元",
+      "onboard_time": 1745378304,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 473946,
+      "num": 473946,
+      "word": "刘国梁曾说找不到理由折腾王励勤",
+      "onboard_time": 1745378784,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 464944,
       "num": 528289,
       "word": "陈哲远新剧初吻戏不是亲女主",
       "onboard_time": 1745375722,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 463486,
-      "num": 463486,
-      "word": "张继科说林诗栋气场还差了点",
-      "onboard_time": 1745375722,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 460941,
@@ -195,12 +243,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 455444,
+      "num": 455444,
+      "word": "永野芽郁 金武俊",
+      "onboard_time": 1745379624,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 443940,
       "num": 533497,
       "word": "航天员陈冬陈中瑞王杰",
       "onboard_time": 1745371880,
       "rank": 26,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 427394,
+      "num": 488331,
+      "word": "饭桌上开玩笑讲出多年前的埋尸案",
+      "onboard_time": 1745378243,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 420288,
@@ -228,7 +292,7 @@
     },
     {
       "raw_hot": 400398,
-      "num": 349312,
+      "num": 370485,
       "word": "永野芽郁 田中圭",
       "onboard_time": 1745331743,
       "rank": 11,
@@ -323,6 +387,22 @@
       "category": "体育,汽车"
     },
     {
+      "raw_hot": 301046,
+      "num": 301046,
+      "word": "恋与制作人",
+      "onboard_time": 1745379024,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 298717,
+      "num": 334248,
+      "word": "林允称已走法律程序",
+      "onboard_time": 1745378004,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 291618,
       "num": 427735,
       "word": "陈晓新剧不怕商战怕孙千",
@@ -339,6 +419,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 277962,
+      "num": 304372,
+      "word": "淮水竹亭 抠图",
+      "onboard_time": 1745376623,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 276946,
       "num": 565830,
       "word": "赴山海",
@@ -347,27 +435,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 271218,
-      "num": 334248,
-      "word": "林允称已走法律程序",
-      "onboard_time": 1745378004,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 265257,
       "num": 606803,
       "word": "在人间",
       "onboard_time": 1745372361,
       "rank": 16,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 260690,
-      "num": 260690,
-      "word": "淮水竹亭 抠图",
-      "onboard_time": 1745376623,
-      "rank": 34,
       "category": "剧集"
     },
     {
@@ -393,6 +465,22 @@
       "onboard_time": 1745374763,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 252369,
+      "num": 252369,
+      "word": "小伙轻信征信谣言被黑网贷套牢",
+      "onboard_time": 1745379564,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 245506,
+      "num": 245506,
+      "word": "上海60岁女孩花掉养老金的一天",
+      "onboard_time": 1745379865,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 234761,
@@ -443,12 +531,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 217644,
-      "num": 217644,
-      "word": "唐朝诡事录",
-      "onboard_time": 1745378184,
-      "rank": 35,
-      "category": "剧集"
+      "raw_hot": 223691,
+      "num": 223691,
+      "word": "专科的风还是吹到了麻省理工",
+      "onboard_time": 1745379503,
+      "rank": 41,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 215059,
@@ -491,6 +579,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207345,
+      "num": 207345,
+      "word": "酒店经理故意阻碍国安执行任务被罚",
+      "onboard_time": 1745380102,
+      "rank": 42,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 205564,
+      "num": 205564,
+      "word": "王源演唱会广州站官宣",
+      "onboard_time": 1745379144,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 204776,
       "num": 262867,
       "word": "赴山海抚琴独影氛围感海报",
@@ -513,14 +617,6 @@
       "onboard_time": 1745316681,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 202484,
-      "num": 202484,
-      "word": "饭桌上开玩笑讲出多年前的埋尸案",
-      "onboard_time": 1745378243,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 202238,
@@ -553,6 +649,14 @@
       "onboard_time": 1745378424,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193099,
+      "num": 193099,
+      "word": "疑似田中圭永野芽郁同居被拍",
+      "onboard_time": 1745337141,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 193060,
@@ -617,6 +721,14 @@
       "onboard_time": 1745369302,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 179110,
+      "num": 461123,
+      "word": "杨天真瘦好多",
+      "onboard_time": 1745379624,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 177877,
@@ -747,14 +859,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 150075,
-      "num": 169027,
-      "word": "疑似田中圭永野芽郁同居被拍",
-      "onboard_time": 1745337141,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 146819,
       "num": 146819,
       "word": "梁田破碎感",
@@ -843,14 +947,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 130104,
-      "num": 334063,
-      "word": "金饰克价跌到1048元",
-      "onboard_time": 1745378304,
-      "rank": 19,
-      "category": "财经"
-    },
-    {
       "raw_hot": 129361,
       "num": 129361,
       "word": "人民海军生日快乐",
@@ -913,6 +1009,14 @@
       "onboard_time": 1745335822,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118744,
+      "num": 476477,
+      "word": "中国围棋协会将不组队参加LG杯",
+      "onboard_time": 1745379683,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 115322,
@@ -987,11 +1091,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 92824,
+      "num": 242091,
+      "word": "周鸿祎称5C版小鹏P7+太不讲武德了",
+      "onboard_time": 1745379984,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 90525,
       "num": 90525,
       "word": "李昊直播",
       "onboard_time": 1745326401,
       "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 85956,
+      "num": 204719,
+      "word": "王锵 我约的饭局",
+      "onboard_time": 1745380043,
+      "rank": 44,
       "category": "艺人"
     },
     {
@@ -1025,6 +1145,14 @@
       "onboard_time": 1745328383,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 76684,
+      "num": 480794,
+      "word": "上汽奥迪A5L亮相上海车展",
+      "onboard_time": 1745379503,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 76658,
@@ -1073,6 +1201,14 @@
       "onboard_time": 1745337741,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 69000,
+      "num": 253545,
+      "word": "被虐致死男童生父女友称忍不住打他",
+      "onboard_time": 1745380102,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 68027,
@@ -1148,7 +1284,7 @@
     },
     {
       "raw_hot": 60484,
-      "num": 417162,
+      "num": 483356,
       "word": "全球首款CMP概念车ID. AURA来了",
       "onboard_time": 1745376023,
       "rank": 18,
@@ -1331,6 +1467,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 33052,
+      "num": 245736,
+      "word": "4000米垂直自然博物馆",
+      "onboard_time": 1745380043,
+      "rank": 37,
+      "category": "教育,科学科普"
+    },
+    {
       "raw_hot": 32917,
       "num": 32917,
       "word": "当事人回应造城者剧组欠薪4个月",
@@ -1409,6 +1553,14 @@
       "onboard_time": 1745345236,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 12413,
+      "num": 478612,
+      "word": "教资结构化面试有几种",
+      "onboard_time": 1745379683,
+      "rank": 18,
+      "category": "教育"
     },
     {
       "raw_hot": 9977,
