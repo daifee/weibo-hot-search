@@ -1,6 +1,6 @@
 {
   "startTime": 1745339463299,
-  "endTime": 1745415966669,
+  "endTime": 1745418344971,
   "band_list": [
     {
       "raw_hot": 12205626,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 2387777,
-      "num": 253561,
+      "num": 277547,
       "word": "石凯订婚宴视频",
       "onboard_time": 1745414602,
       "rank": 10,
@@ -65,6 +65,14 @@
       "onboard_time": 1745374763,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2024106,
+      "num": 280602,
+      "word": "求锤得锤",
+      "onboard_time": 1745415862,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 1843128,
@@ -235,6 +243,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 930561,
+      "num": 273927,
+      "word": "陈冠希得知秦舒培怀孕的反应",
+      "onboard_time": 1745414241,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 929036,
       "num": 929036,
       "word": "特朗普上任之前中国已经早有布局",
@@ -376,14 +392,6 @@
       "word": "田中圭承认与永野芽郁同居但否认恋情",
       "onboard_time": 1745391803,
       "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 619054,
-      "num": 252297,
-      "word": "陈冠希得知秦舒培怀孕的反应",
-      "onboard_time": 1745414241,
-      "rank": 13,
       "category": "艺人"
     },
     {
@@ -835,6 +843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 318842,
+      "num": 318842,
+      "word": "大丽小幂",
+      "onboard_time": 1745417903,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 316804,
       "num": 362334,
       "word": "宁艺卓ELLE首封预告",
@@ -873,6 +889,14 @@
       "onboard_time": 1745393482,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 303668,
+      "num": 303668,
+      "word": "被演唱会座椅扎伤观众发声",
+      "onboard_time": 1745416582,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 303469,
@@ -955,6 +979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 284984,
+      "num": 227067,
+      "word": "当男朋友用前任文学出物",
+      "onboard_time": 1745416223,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 278654,
       "num": 627650,
       "word": "哪吒2离全球影史第4还差7亿票房",
@@ -1007,6 +1039,14 @@
       "num": 606803,
       "word": "在人间",
       "onboard_time": 1745372361,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 260386,
+      "num": 260386,
+      "word": "虞书欣王一栩三搭",
+      "onboard_time": 1745417363,
       "rank": 16,
       "category": "剧集"
     },
@@ -1163,6 +1203,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 228612,
+      "num": 251684,
+      "word": "万斯给乌克兰下最后通牒",
+      "onboard_time": 1745414901,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 227358,
       "num": 227358,
       "word": "黄金",
@@ -1313,14 +1361,6 @@
       "onboard_time": 1745372422,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 209906,
-      "num": 209906,
-      "word": "求锤得锤",
-      "onboard_time": 1745415862,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 209285,
@@ -1611,6 +1651,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 190288,
+      "num": 190288,
+      "word": "TES",
+      "onboard_time": 1745417603,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 188497,
       "num": 188497,
       "word": "云襄传",
@@ -1633,6 +1681,14 @@
       "onboard_time": 1745400563,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187090,
+      "num": 187090,
+      "word": "美股",
+      "onboard_time": 1745418144,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 185602,
@@ -1697,6 +1753,14 @@
       "onboard_time": 1745369302,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 178079,
+      "num": 178079,
+      "word": "王曼昱扬帆公益星推官",
+      "onboard_time": 1745417482,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 177877,
@@ -1843,6 +1907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 168745,
+      "num": 168745,
+      "word": "广厦男篮拒绝黑八",
+      "onboard_time": 1745418204,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168714,
       "num": 264998,
       "word": "张云龙被刘诗诗一句话硬控6小时",
@@ -1987,6 +2059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159710,
+      "num": 158335,
+      "word": "樊振东球迷喊话东哥赛场见",
+      "onboard_time": 1745417363,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159085,
       "num": 369738,
       "word": "牛津大学一学院用人头骨当餐具",
@@ -2028,7 +2108,7 @@
     },
     {
       "raw_hot": 155990,
-      "num": 155990,
+      "num": 283422,
       "word": "大学为何迟迟不愿意打开校门",
       "onboard_time": 1745412562,
       "rank": 46,
@@ -2105,6 +2185,14 @@
       "onboard_time": 1745395643,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149173,
+      "num": 149173,
+      "word": "广厦男篮晋级四强",
+      "onboard_time": 1745417663,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 147681,
@@ -2193,6 +2281,22 @@
       "onboard_time": 1745329102,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142035,
+      "num": 142035,
+      "word": "CBA",
+      "onboard_time": 1745417964,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 141308,
+      "num": 141308,
+      "word": "权志龙曾经点赞过的女星",
+      "onboard_time": 1745416825,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 140066,
@@ -2611,6 +2715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106805,
+      "num": 110983,
+      "word": "侯明昊这张脸拿什么输",
+      "onboard_time": 1745416825,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106682,
       "num": 222949,
       "word": "詹姆斯从头防到尾",
@@ -2803,6 +2915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 82427,
+      "num": 255966,
+      "word": "中概股指数涨幅扩大至5%",
+      "onboard_time": 1745417183,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 82365,
       "num": 462101,
       "word": "杭州脑瘫女骑手谈为何决定送外卖",
@@ -2817,6 +2937,14 @@
       "onboard_time": 1745387901,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 81578,
+      "num": 270390,
+      "word": "美国该想想怎么收场了",
+      "onboard_time": 1745417245,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 81178,
@@ -2889,14 +3017,6 @@
       "onboard_time": 1745335043,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 74751,
-      "num": 251684,
-      "word": "万斯给乌克兰下最后通牒",
-      "onboard_time": 1745414901,
-      "rank": 24,
-      "category": "国际时政"
     },
     {
       "raw_hot": 74037,
@@ -3089,6 +3209,14 @@
       "onboard_time": 1745376023,
       "rank": 18,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 60226,
+      "num": 242741,
+      "word": "NIP翻盘战胜TES",
+      "onboard_time": 1745417843,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 59706,
@@ -3555,6 +3683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 24839,
+      "num": 128135,
+      "word": "哪些食物有助于身体抗炎",
+      "onboard_time": 1745416943,
+      "rank": 46,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 24395,
       "num": 2235188,
       "word": "广东高质量活力向未来",
@@ -3651,6 +3787,14 @@
       "category": "科学科普,民生新闻"
     },
     {
+      "raw_hot": 16632,
+      "num": 250876,
+      "word": "如何鉴别手表有没有偷拍摄像头",
+      "onboard_time": 1745417423,
+      "rank": 18,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 16442,
       "num": 172163,
       "word": "吃撑的危害",
@@ -3673,6 +3817,14 @@
       "onboard_time": 1745348654,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 14733,
+      "num": 146453,
+      "word": "美国加州让犯人当消防员",
+      "onboard_time": 1745418083,
+      "rank": 39,
+      "category": "海外新闻,民生新闻"
     },
     {
       "raw_hot": 14447,
@@ -3707,6 +3859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 13780,
+      "num": 230702,
+      "word": "一字夹如何打造头包脸的自然发型",
+      "onboard_time": 1745418083,
+      "rank": 21,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 13052,
       "num": 145997,
       "word": "地铁大爷喊上班真好暖人心",
@@ -3721,6 +3881,14 @@
       "onboard_time": 1745345236,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 12793,
+      "num": 493871,
+      "word": "神二十乘组和五星红旗同框",
+      "onboard_time": 1745417843,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 12563,
@@ -3879,6 +4047,9 @@
     },
     {
       "word": "#巩固发展坚如磐石的军政军民团结#"
+    },
+    {
+      "word": "#志合者不以山海为远#"
     }
   ]
 }
