@@ -1,0 +1,410 @@
+{
+  "runTime": 1745373240282,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7666688,
+        "num": 7666688,
+        "word": "刘国梁辞职",
+        "onboard_time": 1745372301,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1814565,
+        "num": 1814565,
+        "word": "王励勤当选中国乒协主席",
+        "onboard_time": 1745372301,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24395,
+        "num": 1736622,
+        "word": "广东高质量活力向未来",
+        "onboard_time": 1745330003,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1734830,
+        "num": 1734830,
+        "word": "马龙乒协副主席",
+        "onboard_time": 1745372422,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1093893,
+        "num": 1093893,
+        "word": "黄金巨震",
+        "onboard_time": 1745364198,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 908269,
+        "num": 908269,
+        "word": "特朗普预计对华关税将大幅降低",
+        "onboard_time": 1745371880,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 626362,
+        "num": 872200,
+        "word": "淮水竹亭",
+        "onboard_time": 1745371281,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 385927,
+        "num": 869626,
+        "word": "王大陆部队表演画面",
+        "onboard_time": 1745368102,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139460,
+        "num": 825089,
+        "word": "神二十瞄准明日17时17分发射",
+        "onboard_time": 1745371041,
+        "rank": 8,
+        "category": "国内时政,国际时政"
+      },
+      {
+        "raw_hot": 142910,
+        "num": 787374,
+        "word": "神二十任务清单",
+        "onboard_time": 1745371462,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1530488,
+        "num": 758785,
+        "word": "明星月嫂发林允合照",
+        "onboard_time": 1745371640,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1119179,
+        "num": 712056,
+        "word": "鹿晗 关晓彤",
+        "onboard_time": 1745367622,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 691348,
+        "num": 691348,
+        "word": "被质疑长相听障女生称微调过几处",
+        "onboard_time": 1745332822,
+        "rank": 12,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 690605,
+        "num": 690605,
+        "word": "神二十航天员乘组公布",
+        "onboard_time": 1745370681,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 127813,
+        "num": 668228,
+        "word": "神20发射恰逢第10个中国航天日",
+        "onboard_time": 1745372543,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 208496,
+        "num": 638526,
+        "word": "曹骏范帅琦cp感",
+        "onboard_time": 1745371221,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196277,
+        "num": 606803,
+        "word": "在人间",
+        "onboard_time": 1745372361,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190765,
+        "num": 535987,
+        "word": "哪吒2离全球影史第4还差7亿票房",
+        "onboard_time": 1745335703,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 526584,
+        "num": 526584,
+        "word": "多年前的同学录突然明白了啥意思",
+        "onboard_time": 1745364139,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 8330,
+        "num": 500487,
+        "word": "票房补录是指什么",
+        "onboard_time": 1745372482,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 491758,
+        "num": 491758,
+        "word": "微信加好友能加图片备注了",
+        "onboard_time": 1745334204,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 44938,
+        "num": 462101,
+        "word": "杭州脑瘫女骑手谈为何决定送外卖",
+        "onboard_time": 1745372841,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 460941,
+        "num": 460941,
+        "word": "金价转跌",
+        "onboard_time": 1745367740,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 376631,
+        "num": 414125,
+        "word": "筷子换一换胃癌少一半",
+        "onboard_time": 1745364739,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 182905,
+        "num": 403429,
+        "word": "安静公主参加K总婚礼",
+        "onboard_time": 1745370321,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 399884,
+        "num": 399884,
+        "word": "特朗普上任之前中国已经早有布局",
+        "onboard_time": 1745343975,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 352199,
+        "num": 352199,
+        "word": "航天员陈冬陈中瑞王杰",
+        "onboard_time": 1745371880,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 337512,
+        "num": 337512,
+        "word": "神二十任务发布会",
+        "onboard_time": 1745369062,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 315155,
+        "num": 315155,
+        "word": "洛阳文旅确认白马寺内为狄仁杰墓",
+        "onboard_time": 1745333062,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156678,
+        "num": 277895,
+        "word": "宋祖儿这一段直接梦回哪吒",
+        "onboard_time": 1745369782,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260379,
+        "num": 260379,
+        "word": "陈冬时隔2年再次担任指令长",
+        "onboard_time": 1745371462,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 210909,
+        "num": 210909,
+        "word": "阴阳师",
+        "onboard_time": 1745372422,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 203012,
+        "num": 203012,
+        "word": "刘强东请吃火锅说没有规矩想喝就喝",
+        "onboard_time": 1745352734,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 184243,
+        "num": 184243,
+        "word": "马斯克称支持降低关税",
+        "onboard_time": 1745367022,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 183958,
+        "num": 183958,
+        "word": "你以为正常其实有病的行为",
+        "onboard_time": 1745371581,
+        "rank": 34,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 177877,
+        "num": 177877,
+        "word": "杜淳妻子否认婆婆手握财政大权",
+        "onboard_time": 1745366241,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155133,
+        "num": 155133,
+        "word": "我们还需要纸质书吗",
+        "onboard_time": 1745369302,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146801,
+        "num": 146801,
+        "word": "仅退款",
+        "onboard_time": 1745321421,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 146239,
+        "num": 146239,
+        "word": "商户往猪肉丸里加硼砂销售4000斤获刑",
+        "onboard_time": 1745364198,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142940,
+        "num": 142940,
+        "word": "北京地铁5号线女乘客发声",
+        "onboard_time": 1745363959,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138012,
+        "num": 138012,
+        "word": "神二十发射时间藏着2个彩蛋",
+        "onboard_time": 1745372663,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 137701,
+        "num": 137701,
+        "word": "书卷一梦",
+        "onboard_time": 1745372963,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134799,
+        "num": 134799,
+        "word": "39岁网红串哥因病去世",
+        "onboard_time": 1745364559,
+        "rank": 42,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 128779,
+        "num": 128779,
+        "word": "特朗普为什么希望美联储降息",
+        "onboard_time": 1745370142,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127238,
+        "num": 127238,
+        "word": "永野芽郁 田中圭",
+        "onboard_time": 1745331743,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125827,
+        "num": 125827,
+        "word": "黄金高位跳水了",
+        "onboard_time": 1745369603,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 124578,
+        "num": 124578,
+        "word": "2025爱奇艺非凡片单",
+        "onboard_time": 1745370741,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122064,
+        "num": 122064,
+        "word": "人民海军生日快乐",
+        "onboard_time": 1745366000,
+        "rank": 47,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 121895,
+        "num": 121895,
+        "word": "上海车展",
+        "onboard_time": 1745369482,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 115885,
+        "num": 115885,
+        "word": "女子剖腹产9个月后抽出10cm手术线",
+        "onboard_time": 1745329102,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#文明因交流而多彩因互鉴而丰富#"
+    }
+  }
+}

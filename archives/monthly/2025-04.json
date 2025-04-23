@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1745365116944,
+  "endTime": 1745373240282,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -144,6 +144,14 @@
       "word": "王楚钦无缘澳门世界杯决赛",
       "onboard_time": 1745051843,
       "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 7666688,
+      "num": 7666688,
+      "word": "刘国梁辞职",
+      "onboard_time": 1745372301,
+      "rank": 0,
       "category": "体育"
     },
     {
@@ -1459,6 +1467,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1814565,
+      "num": 1814565,
+      "word": "王励勤当选中国乒协主席",
+      "onboard_time": 1745372301,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1811433,
       "num": 1811433,
       "word": "徐正溪退圈照顾生病父亲一年后复出",
@@ -1601,6 +1617,14 @@
       "onboard_time": 1744519101,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1734830,
+      "num": 1734830,
+      "word": "马龙乒协副主席",
+      "onboard_time": 1745372422,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 1734417,
@@ -2057,6 +2081,14 @@
       "onboard_time": 1744468468,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1530488,
+      "num": 758785,
+      "word": "明星月嫂发林允合照",
+      "onboard_time": 1745371640,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1529119,
@@ -4211,6 +4243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1093893,
+      "num": 1093893,
+      "word": "黄金巨震",
+      "onboard_time": 1745364198,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1091367,
       "num": 293920,
       "word": "张檬早期因男友嘲讽丑去整容",
@@ -5529,6 +5569,14 @@
       "onboard_time": 1743768442,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 908269,
+      "num": 908269,
+      "word": "特朗普预计对华关税将大幅降低",
+      "onboard_time": 1745371880,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 907017,
@@ -8123,6 +8171,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 690605,
+      "num": 690605,
+      "word": "神二十航天员乘组公布",
+      "onboard_time": 1745370681,
+      "rank": 13,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 690225,
       "num": 690225,
       "word": "这风真懂事 一点也不耽误周一上班",
@@ -9152,6 +9208,14 @@
       "word": "孙俪新剧开播就跳水",
       "onboard_time": 1744882462,
       "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 626362,
+      "num": 872200,
+      "word": "淮水竹亭",
+      "onboard_time": 1743475584,
+      "rank": 29,
       "category": "剧集"
     },
     {
@@ -11755,14 +11819,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 505431,
-      "num": 564061,
-      "word": "黄金巨震",
-      "onboard_time": 1745364198,
-      "rank": 9,
-      "category": "财经"
-    },
-    {
       "raw_hot": 505422,
       "num": 505422,
       "word": "理发店称因李美越平台客流量少30%",
@@ -12937,6 +12993,14 @@
       "onboard_time": 1743568344,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 460941,
+      "num": 460941,
+      "word": "金价转跌",
+      "onboard_time": 1745367740,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 460876,
@@ -15563,6 +15627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 385927,
+      "num": 869626,
+      "word": "王大陆部队表演画面",
+      "onboard_time": 1745368102,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 385912,
       "num": 336764,
       "word": "金价跌到我心满意足再入手",
@@ -15937,6 +16009,14 @@
       "onboard_time": 1744970420,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 376631,
+      "num": 414125,
+      "word": "筷子换一换胃癌少一半",
+      "onboard_time": 1745364739,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 376428,
@@ -17099,6 +17179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 352199,
+      "num": 352199,
+      "word": "航天员陈冬陈中瑞王杰",
+      "onboard_time": 1745371880,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 351857,
       "num": 297166,
       "word": "国内金饰价格跟跌",
@@ -17763,6 +17851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 337512,
+      "num": 337512,
+      "word": "神二十任务发布会",
+      "onboard_time": 1745369062,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 337470,
       "num": 248161,
       "word": "医生解读网友关注金秀贤舌头",
@@ -18057,14 +18153,6 @@
       "onboard_time": 1744613062,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 332443,
-      "num": 433280,
-      "word": "淮水竹亭",
-      "onboard_time": 1743475584,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 332298,
@@ -22785,6 +22873,14 @@
       "onboard_time": 1744033284,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 260379,
+      "num": 260379,
+      "word": "陈冬时隔2年再次担任指令长",
+      "onboard_time": 1745371462,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 260341,
@@ -28739,6 +28835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208496,
+      "num": 638526,
+      "word": "曹骏范帅琦cp感",
+      "onboard_time": 1745371221,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208449,
       "num": 208449,
       "word": "罗晋版消失的他",
@@ -31769,6 +31873,14 @@
       "onboard_time": 1745224582,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 196277,
+      "num": 606803,
+      "word": "在人间",
+      "onboard_time": 1745372361,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 196276,
@@ -35179,6 +35291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184243,
+      "num": 184243,
+      "word": "马斯克称支持降低关税",
+      "onboard_time": 1745367022,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 184210,
       "num": 184210,
       "word": "网友劝甲亢哥别在重庆的1楼后空翻",
@@ -35233,6 +35353,14 @@
       "onboard_time": 1744527921,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 183958,
+      "num": 183958,
+      "word": "你以为正常其实有病的行为",
+      "onboard_time": 1745371581,
+      "rank": 34,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 183950,
@@ -35481,6 +35609,14 @@
       "onboard_time": 1744618163,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 182905,
+      "num": 403429,
+      "word": "安静公主参加K总婚礼",
+      "onboard_time": 1745370321,
+      "rank": 24,
+      "category": "网红"
     },
     {
       "raw_hot": 182861,
@@ -36585,6 +36721,14 @@
       "onboard_time": 1744811783,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 177877,
+      "num": 177877,
+      "word": "杜淳妻子否认婆婆手握财政大权",
+      "onboard_time": 1745366241,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 177803,
@@ -42323,6 +42467,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 156678,
+      "num": 277895,
+      "word": "宋祖儿这一段直接梦回哪吒",
+      "onboard_time": 1745369782,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156663,
       "num": 156663,
       "word": "iPhone17ProMax机模",
@@ -42705,6 +42857,14 @@
       "onboard_time": 1743946343,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 155133,
+      "num": 155133,
+      "word": "我们还需要纸质书吗",
+      "onboard_time": 1745369302,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155118,
@@ -45491,6 +45651,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 146239,
+      "num": 146239,
+      "word": "商户往猪肉丸里加硼砂销售4000斤获刑",
+      "onboard_time": 1745364198,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146222,
       "num": 128346,
       "word": "兰西雅 亮眼",
@@ -45537,14 +45705,6 @@
       "onboard_time": 1743663563,
       "rank": 44,
       "category": "民生新闻,网红"
-    },
-    {
-      "raw_hot": 146084,
-      "num": 105723,
-      "word": "筷子换一换胃癌少一半",
-      "onboard_time": 1745364739,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 146051,
@@ -46593,6 +46753,22 @@
       "onboard_time": 1744525162,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 142940,
+      "num": 142940,
+      "word": "北京地铁5号线女乘客发声",
+      "onboard_time": 1745363959,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142910,
+      "num": 787374,
+      "word": "神二十任务清单",
+      "onboard_time": 1745371462,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 142822,
@@ -47651,6 +47827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139460,
+      "num": 825089,
+      "word": "神二十瞄准明日17时17分发射",
+      "onboard_time": 1745371041,
+      "rank": 8,
+      "category": "国内时政,国际时政"
+    },
+    {
       "raw_hot": 139451,
       "num": 139451,
       "word": "沙尘暴",
@@ -48153,6 +48337,14 @@
       "onboard_time": 1744682481,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 138012,
+      "num": 138012,
+      "word": "神二十发射时间藏着2个彩蛋",
+      "onboard_time": 1745372663,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 138003,
@@ -49241,6 +49433,14 @@
       "onboard_time": 1744623624,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134799,
+      "num": 134799,
+      "word": "39岁网红串哥因病去世",
+      "onboard_time": 1745364559,
+      "rank": 28,
+      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 134787,
@@ -51419,6 +51619,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 128779,
+      "num": 128779,
+      "word": "特朗普为什么希望美联储降息",
+      "onboard_time": 1745370142,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 128776,
       "num": 215000,
       "word": "Epic说大家领了游戏不玩",
@@ -51649,6 +51857,14 @@
       "onboard_time": 1744361845,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 127813,
+      "num": 668228,
+      "word": "神20发射恰逢第10个中国航天日",
+      "onboard_time": 1745372543,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 127812,
@@ -52243,6 +52459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125827,
+      "num": 125827,
+      "word": "黄金高位跳水了",
+      "onboard_time": 1745369603,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 125822,
       "num": 125822,
       "word": "JDG咚咚夺得MVP",
@@ -52689,6 +52913,14 @@
       "onboard_time": 1744630282,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 124578,
+      "num": 124578,
+      "word": "2025爱奇艺非凡片单",
+      "onboard_time": 1745370741,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 124565,
@@ -53379,6 +53611,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 122064,
+      "num": 122064,
+      "word": "人民海军生日快乐",
+      "onboard_time": 1745366000,
+      "rank": 47,
+      "category": "军事"
+    },
+    {
       "raw_hot": 122050,
       "num": 128973,
       "word": "张杰一生所爱官摄",
@@ -53417,6 +53657,14 @@
       "onboard_time": 1744283362,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 121895,
+      "num": 121895,
+      "word": "上海车展",
+      "onboard_time": 1745369482,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 121890,
@@ -61059,14 +61307,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 86210,
-      "num": 86210,
-      "word": "商户往猪肉丸里加硼砂销售4000斤获刑",
-      "onboard_time": 1745364198,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 86165,
       "num": 86165,
       "word": "美股七姐妹大跌",
@@ -62489,14 +62729,6 @@
       "onboard_time": 1745079512,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 77675,
-      "num": 106703,
-      "word": "39岁网红串哥因病去世",
-      "onboard_time": 1745364559,
-      "rank": 28,
-      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 77619,
@@ -68531,6 +68763,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 44938,
+      "num": 462101,
+      "word": "杭州脑瘫女骑手谈为何决定送外卖",
+      "onboard_time": 1745372841,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44756,
       "num": 47004,
       "word": "Speed甲亢哥安利国产动画超能立方",
@@ -71803,14 +72043,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 29955,
-      "num": 82944,
-      "word": "北京地铁5号线女乘客发声",
-      "onboard_time": 1745363959,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 29953,
       "num": 395380,
       "word": "投诉猫粮有问题却被要求先花五千检测",
@@ -73217,6 +73449,14 @@
       "onboard_time": 1743636020,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 24395,
+      "num": 1736622,
+      "word": "广东高质量活力向未来",
+      "onboard_time": 1745330003,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24385,
@@ -77025,6 +77265,14 @@
       "onboard_time": 1745217922,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8330,
+      "num": 500487,
+      "word": "票房补录是指什么",
+      "onboard_time": 1745372482,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 8304,

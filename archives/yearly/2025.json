@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1745365116944,
+  "endTime": 1745373240282,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -817,6 +817,14 @@
       "onboard_time": 1736605829,
       "rank": 1,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 7666688,
+      "num": 7666688,
+      "word": "刘国梁辞职",
+      "onboard_time": 1745372301,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 7562676,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1744035384,
       "rank": 33,
       "category": "网红,作品衍生"
-    },
-    {
-      "raw_hot": 2979441,
-      "num": 454377,
-      "word": "田亮回应网友质疑女儿下巴后缩严重",
-      "onboard_time": 1735873398,
-      "rank": 10,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
