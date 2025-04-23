@@ -1,6 +1,6 @@
 {
   "startTime": 1745339463299,
-  "endTime": 1745390103850,
+  "endTime": 1745390892202,
   "band_list": [
     {
       "raw_hot": 12205626,
@@ -179,20 +179,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 835879,
+      "num": 835879,
+      "word": "向太 今天抓了好多只大鹅",
+      "onboard_time": 1745389102,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 826684,
+      "num": 826684,
+      "word": "男子被女友逼写百万借条未还被起诉",
+      "onboard_time": 1745386702,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 782942,
       "num": 701957,
       "word": "迪丽热巴告了温如也",
       "onboard_time": 1745380525,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 782014,
-      "num": 782014,
-      "word": "男子被女友逼写百万借条未还被起诉",
-      "onboard_time": 1745386702,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 769750,
@@ -249,14 +257,6 @@
       "onboard_time": 1745384963,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 548243,
-      "num": 548243,
-      "word": "向太 今天抓了好多只大鹅",
-      "onboard_time": 1745389102,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 535544,
@@ -331,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 469451,
+      "num": 469451,
+      "word": "歌手2025",
+      "onboard_time": 1745388262,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 464944,
       "num": 528289,
       "word": "陈哲远新剧初吻戏不是亲女主",
@@ -345,14 +353,6 @@
       "onboard_time": 1745367740,
       "rank": 22,
       "category": "财经"
-    },
-    {
-      "raw_hot": 458474,
-      "num": 458474,
-      "word": "歌手2025",
-      "onboard_time": 1745388262,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 443940,
@@ -427,6 +427,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 364125,
+      "num": 364125,
+      "word": "两国总统同晚抵达北京",
+      "onboard_time": 1745389521,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 358502,
       "num": 444372,
       "word": "双轨",
@@ -457,6 +465,14 @@
       "onboard_time": 1745369062,
       "rank": 27,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 337064,
+      "num": 376267,
+      "word": "国乒再现二王一马新篇章",
+      "onboard_time": 1745389882,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 332913,
@@ -504,6 +520,14 @@
       "word": "杨天真瘦好多",
       "onboard_time": 1745379624,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 319476,
+      "num": 319476,
+      "word": "日女算我求你们了好吗",
+      "onboard_time": 1745390002,
+      "rank": 42,
       "category": "艺人"
     },
     {
@@ -643,14 +667,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 258146,
-      "num": 258146,
-      "word": "两国总统同晚抵达北京",
-      "onboard_time": 1745389521,
-      "rank": 23,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 253211,
       "num": 253211,
       "word": "她用肚子踩缝纫机实现经济独立",
@@ -763,8 +779,16 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 218098,
-      "num": 220067,
+      "raw_hot": 221383,
+      "num": 221383,
+      "word": "王励勤说不一定成绩差就一无是处",
+      "onboard_time": 1745389821,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 221149,
+      "num": 221149,
       "word": "风月不相关",
       "onboard_time": 1745389162,
       "rank": 32,
@@ -931,22 +955,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 197420,
-      "num": 197420,
-      "word": "日女算我求你们了好吗",
-      "onboard_time": 1745390002,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 195045,
-      "num": 219723,
-      "word": "国乒再现二王一马新篇章",
-      "onboard_time": 1745389882,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 195024,
       "num": 195024,
       "word": "王曼昱的快问快答",
@@ -1001,6 +1009,14 @@
       "onboard_time": 1745378304,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 188497,
+      "num": 188497,
+      "word": "云襄传",
+      "onboard_time": 1745390423,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 188359,
@@ -1073,14 +1089,6 @@
       "onboard_time": 1745376441,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 175243,
-      "num": 175243,
-      "word": "王励勤说不一定成绩差就一无是处",
-      "onboard_time": 1745389821,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 174441,
@@ -1179,6 +1187,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160230,
+      "num": 160230,
+      "word": "悖理",
+      "onboard_time": 1745389162,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 159811,
+      "num": 159811,
+      "word": "虞书欣隐忍泪目镜头",
+      "onboard_time": 1745390542,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156678,
       "num": 277895,
       "word": "宋祖儿这一段直接梦回哪吒",
@@ -1233,6 +1257,14 @@
       "onboard_time": 1745334022,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146771,
+      "num": 146771,
+      "word": "杨毅盼王楚钦成为真正的冠军",
+      "onboard_time": 1745390783,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 146239,
@@ -1305,6 +1337,14 @@
       "onboard_time": 1745364559,
       "rank": 28,
       "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 131198,
+      "num": 178917,
+      "word": "美国人以拍照为由骗走中国文物",
+      "onboard_time": 1745390783,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131168,
@@ -1513,6 +1553,14 @@
       "onboard_time": 1745375002,
       "rank": 25,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 96227,
+      "num": 165007,
+      "word": "太美被质疑听障女生已用上人工耳蜗",
+      "onboard_time": 1745390600,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95319,
@@ -1907,6 +1955,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 42019,
+      "num": 451521,
+      "word": "双相情感障碍者有资格成为母亲吗",
+      "onboard_time": 1745388922,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41584,
       "num": 41584,
       "word": "英军高官挑衅台海问题",
@@ -1937,14 +1993,6 @@
       "onboard_time": 1745335222,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 40757,
-      "num": 451521,
-      "word": "双相情感障碍者有资格成为母亲吗",
-      "onboard_time": 1745388922,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 40662,
@@ -2017,6 +2065,14 @@
       "onboard_time": 1745343256,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 32840,
+      "num": 387913,
+      "word": "马斯克说正与中国协商稀土出口",
+      "onboard_time": 1745390362,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 29846,
@@ -2115,6 +2171,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 14437,
+      "num": 164064,
+      "word": "李永乐说2019年我很快乐",
+      "onboard_time": 1745390481,
+      "rank": 39,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 14149,
       "num": 14149,
       "word": "云合",
@@ -2169,6 +2233,14 @@
       "onboard_time": 1745389222,
       "rank": 39,
       "category": "民生新闻,议题讨论"
+    },
+    {
+      "raw_hot": 8613,
+      "num": 372973,
+      "word": "双轨中虞书欣如何演绎复杂角色的情感",
+      "onboard_time": 1745390481,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 8330,
