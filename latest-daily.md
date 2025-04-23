@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/24 00:31:48 ~ 2025/04/24 04:27:57
+本榜单时间：2025/04/24 00:31:48 ~ 2025/04/24 04:41:01
 </p>
 </blockquote>
 <p>
@@ -411,20 +411,38 @@ TES（热度：27237）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%83%AD%E7%88%B1%E5%A1%AB%E5%85%85%E7%94%9F%E6%B4%BB%E7%82%B9%E6%BB%B4%23" target="weibo">
-肖战热爱填充生活点滴（热度：11628）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%BF%E5%A1%9E%E6%8B%9C%E7%96%86%E4%BA%92%E5%85%8D%E7%AD%BE%E8%AF%81%23" target="weibo">
-中国阿塞拜疆互免签证（热度：11337）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%8E%E6%99%BA%E5%95%86%E7%8A%AF%E7%BD%AA%23" target="weibo">
+低智商犯罪（热度：12811）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%8A%B1%E5%8B%A4%E6%9B%BE%E4%BD%8D%E5%B1%85%E4%B8%96%E6%8E%92%E7%AC%AC%E4%B8%80%E9%95%BF%E8%BE%BE54%E4%B8%AA%E6%9C%88%23" target="weibo">
-王励勤曾位居世排第一长达54个月（热度：10980）
+王励勤曾位居世排第一长达54个月（热度：12277）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%BF%E5%A1%9E%E6%8B%9C%E7%96%86%E4%BA%92%E5%85%8D%E7%AD%BE%E8%AF%81%23" target="weibo">
+中国阿塞拜疆互免签证（热度：12144）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%83%AD%E7%88%B1%E5%A1%AB%E5%85%85%E7%94%9F%E6%B4%BB%E7%82%B9%E6%BB%B4%23" target="weibo">
+肖战热爱填充生活点滴（热度：11747）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%83%9F%E8%8A%B1%E5%B0%91%E5%B9%B4%23" target="weibo">
+烟花少年（热度：11504）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%88%B6%E9%80%A0%E4%B8%9A%E5%9B%9E%E6%B5%81%E4%BA%86%E5%90%97%23" target="weibo">
+美国制造业回流了吗（热度：11158）
 </a>
 </li>
 
