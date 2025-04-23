@@ -1,6 +1,6 @@
 {
   "startTime": 1745339463299,
-  "endTime": 1745408210891,
+  "endTime": 1745412612154,
   "band_list": [
     {
       "raw_hot": 12205626,
@@ -147,6 +147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1119929,
+      "num": 286438,
+      "word": "石凯方发声明",
+      "onboard_time": 1745409502,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1119179,
       "num": 712056,
       "word": "鹿晗 关晓彤",
@@ -187,6 +195,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1040369,
+      "num": 1166459,
+      "word": "周杰伦演唱会480元票只能看大屏",
+      "onboard_time": 1745407342,
+      "rank": 12,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 1012539,
+      "num": 478011,
+      "word": "刘国梁泪洒会场",
+      "onboard_time": 1745406322,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 998135,
       "num": 998135,
       "word": "被质疑长相听障女生称微调过几处",
@@ -225,14 +249,6 @@
       "onboard_time": 1745380344,
       "rank": 6,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 867053,
-      "num": 478011,
-      "word": "刘国梁泪洒会场",
-      "onboard_time": 1745406322,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 860628,
@@ -339,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 616625,
+      "num": 356609,
+      "word": "马龙说不会办退役告别会",
+      "onboard_time": 1745408901,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 611060,
       "num": 611060,
       "word": "国乒再现二王一马新篇章",
@@ -403,12 +427,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 534350,
+      "num": 395571,
+      "word": "爱奇艺副总裁回应严浩翔当导师",
+      "onboard_time": 1745407223,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 528811,
       "num": 528811,
       "word": "打奉陪到底谈大门敞开",
       "onboard_time": 1745397382,
       "rank": 33,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 526314,
+      "num": 337944,
+      "word": "虞书欣 一栩你昏头了吗",
+      "onboard_time": 1745409382,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 515976,
@@ -515,12 +555,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 452327,
+      "num": 275013,
+      "word": "马龙说怕自己在大家面前哭",
+      "onboard_time": 1745409802,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 443940,
       "num": 533497,
       "word": "航天员陈冬陈中瑞王杰",
       "onboard_time": 1745371880,
       "rank": 26,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 433140,
+      "num": 263237,
+      "word": "刘国梁继续担任WTT董事会主席",
+      "onboard_time": 1745411541,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 420288,
@@ -675,6 +731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 350690,
+      "num": 260926,
+      "word": "权志龙秒删标记sana帖子",
+      "onboard_time": 1745409981,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 337512,
       "num": 337512,
       "word": "神二十任务发布会",
@@ -731,6 +795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 316804,
+      "num": 316804,
+      "word": "宁艺卓ELLE首封预告",
+      "onboard_time": 1745410162,
+      "rank": 7,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 316296,
       "num": 198876,
       "word": "小黄豆晒合照",
@@ -745,6 +817,14 @@
       "onboard_time": 1745380102,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 309382,
+      "num": 273300,
+      "word": "邱贻可发博感谢刘国梁",
+      "onboard_time": 1745411541,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 307019,
@@ -955,14 +1035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 239804,
-      "num": 281272,
-      "word": "周杰伦演唱会480元票只能看大屏",
-      "onboard_time": 1745407342,
-      "rank": 12,
-      "category": "演出"
-    },
-    {
       "raw_hot": 237534,
       "num": 228383,
       "word": "金靖没有张凌赫保护但有迪丽热巴",
@@ -1009,6 +1081,14 @@
       "onboard_time": 1745384783,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 232202,
+      "num": 232202,
+      "word": "多名观众称被演唱会座椅扎伤",
+      "onboard_time": 1745411242,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 231863,
@@ -1067,6 +1147,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 221538,
+      "num": 240944,
+      "word": "宁艺卓国内首封",
+      "onboard_time": 1745410942,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 221459,
       "num": 221459,
       "word": "土耳其6.2级地震",
@@ -1089,6 +1177,14 @@
       "onboard_time": 1745389162,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 220882,
+      "num": 220882,
+      "word": "女子遭家暴驾车逃跑时致丈夫身亡",
+      "onboard_time": 1745412022,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 217406,
@@ -1307,6 +1403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198646,
+      "num": 198646,
+      "word": "长隆一乐园摩托表演失误撞倒游客",
+      "onboard_time": 1745409861,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 198268,
       "num": 198268,
       "word": "马龙最新采访",
@@ -1419,6 +1523,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 189242,
+      "num": 189242,
+      "word": "京东外卖骑手8单赚98元",
+      "onboard_time": 1745407581,
+      "rank": 49,
+      "category": "互联网,民生新闻"
+    },
+    {
       "raw_hot": 188497,
       "num": 188497,
       "word": "云襄传",
@@ -1441,6 +1553,14 @@
       "onboard_time": 1745400563,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186226,
+      "num": 186226,
+      "word": "虞书欣闪钻高定",
+      "onboard_time": 1745412263,
+      "rank": 33,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 185602,
@@ -1507,14 +1627,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 178067,
-      "num": 267540,
-      "word": "爱奇艺副总裁回应严浩翔当导师",
-      "onboard_time": 1745407223,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 177877,
       "num": 177877,
       "word": "杜淳妻子否认婆婆手握财政大权",
@@ -1571,6 +1683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 173387,
+      "num": 173387,
+      "word": "邱贻可马龙合影",
+      "onboard_time": 1745411962,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 172859,
       "num": 172859,
       "word": "生万物",
@@ -1585,6 +1705,14 @@
       "onboard_time": 1745400383,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 172011,
+      "num": 172011,
+      "word": "我给鞠婧祎拍的撕拉片",
+      "onboard_time": 1745406803,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 171814,
@@ -1675,6 +1803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166113,
+      "num": 166113,
+      "word": "刘国梁说像是参加毕业典礼",
+      "onboard_time": 1745412444,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166060,
       "num": 166060,
       "word": "美18万亿消费神话是刷出来的",
@@ -1689,6 +1825,14 @@
       "onboard_time": 1745405962,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 164448,
+      "num": 164448,
+      "word": "黄景瑜一个一个来都别急",
+      "onboard_time": 1745410642,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 163235,
@@ -1867,6 +2011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147120,
+      "num": 232468,
+      "word": "马龙说把未来交给时间",
+      "onboard_time": 1745412202,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146819,
       "num": 146819,
       "word": "梁田破碎感",
@@ -1921,6 +2073,14 @@
       "onboard_time": 1745329102,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141065,
+      "num": 141065,
+      "word": "无忧渡我是我哥",
+      "onboard_time": 1745409981,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 140066,
@@ -2019,6 +2179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131996,
+      "num": 131996,
+      "word": "最终幻想14",
+      "onboard_time": 1745410822,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 131982,
       "num": 131982,
       "word": "杨紫家业Q3播出",
@@ -2033,6 +2201,14 @@
       "onboard_time": 1745339599,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130189,
+      "num": 130189,
+      "word": "华晨宇新歌拍出了东亚小孩的生长痛",
+      "onboard_time": 1745411783,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 129657,
@@ -2083,28 +2259,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 127421,
-      "num": 127421,
-      "word": "京东外卖骑手8单赚98元",
-      "onboard_time": 1745407581,
-      "rank": 49,
-      "category": "互联网,民生新闻"
-    },
-    {
       "raw_hot": 126492,
       "num": 153226,
       "word": "南京软通员工疑因甲醛超标逃离工位",
       "onboard_time": 1745404044,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 126336,
-      "num": 126336,
-      "word": "我给鞠婧祎拍的撕拉片",
-      "onboard_time": 1745406803,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 126287,
@@ -2161,6 +2321,22 @@
       "onboard_time": 1745369482,
       "rank": 48,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 121799,
+      "num": 121799,
+      "word": "苹果煮水的3种宝藏搭配",
+      "onboard_time": 1745411425,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 121346,
+      "num": 121346,
+      "word": "大学为何迟迟不愿意打开校门",
+      "onboard_time": 1745412562,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 120947,
@@ -2347,6 +2523,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 100853,
+      "num": 251841,
+      "word": "拖完地产生腥臭味的原因是什么",
+      "onboard_time": 1745411122,
+      "rank": 18,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 99401,
       "num": 142520,
       "word": "林彦俊 见面会",
@@ -2377,6 +2561,14 @@
       "onboard_time": 1745375002,
       "rank": 25,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 96317,
+      "num": 172549,
+      "word": "王鹤棣给助理号起名补给岛",
+      "onboard_time": 1745411122,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 96227,
@@ -2433,6 +2625,14 @@
       "onboard_time": 1745379503,
       "rank": 17,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 87317,
+      "num": 247438,
+      "word": "老师要求咬人学生当众道歉遭家长起诉",
+      "onboard_time": 1745411425,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87130,
@@ -2691,6 +2891,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 63282,
+      "num": 203821,
+      "word": "欧盟向美企开出巨额罚单",
+      "onboard_time": 1745412444,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 61484,
       "num": 77818,
       "word": "周震南铁定是风了",
@@ -2745,6 +2953,14 @@
       "onboard_time": 1745385443,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 56845,
+      "num": 270852,
+      "word": "卤鹅哥投喂周鸿祎拉扯20多秒被指过火",
+      "onboard_time": 1745411662,
+      "rank": 14,
+      "category": "网红"
     },
     {
       "raw_hot": 55524,
@@ -3073,6 +3289,14 @@
       "onboard_time": 1745340737,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28187,
+      "num": 161060,
+      "word": "特朗普称无意解雇鲍威尔",
+      "onboard_time": 1745412081,
+      "rank": 39,
+      "category": "海外新闻,民生新闻"
     },
     {
       "raw_hot": 28070,
