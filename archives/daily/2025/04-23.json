@@ -1,6 +1,6 @@
 {
   "startTime": 1745339463299,
-  "endTime": 1745386913932,
+  "endTime": 1745390103850,
   "band_list": [
     {
       "raw_hot": 12205626,
@@ -83,20 +83,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1371871,
+      "num": 1371871,
+      "word": "黄金再涨普通人也不能干的三件事",
+      "onboard_time": 1745382505,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1345829,
       "num": 1345829,
       "word": "仅退款",
       "onboard_time": 1745321421,
       "rank": 1,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1295063,
-      "num": 1295063,
-      "word": "黄金再涨普通人也不能干的三件事",
-      "onboard_time": 1745382505,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1188286,
@@ -121,6 +121,14 @@
       "onboard_time": 1745364198,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1084401,
+      "num": 1084401,
+      "word": "白宫宣称与中国达成贸易协议进展顺利",
+      "onboard_time": 1745384544,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1040916,
@@ -179,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 782014,
+      "num": 782014,
+      "word": "男子被女友逼写百万借条未还被起诉",
+      "onboard_time": 1745386702,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 769750,
       "num": 544582,
       "word": "多年前的同学录突然明白了啥意思",
@@ -227,6 +243,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 590213,
+      "num": 590213,
+      "word": "山西被虐死男孩生父希望凶手死刑",
+      "onboard_time": 1745384963,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 548243,
+      "num": 548243,
+      "word": "向太 今天抓了好多只大鹅",
+      "onboard_time": 1745389102,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 535544,
       "num": 464772,
       "word": "王励勤简历",
@@ -241,14 +273,6 @@
       "onboard_time": 1745378784,
       "rank": 11,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 525519,
-      "num": 525519,
-      "word": "山西被虐死男孩生父希望凶手死刑",
-      "onboard_time": 1745384963,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 503911,
@@ -323,6 +347,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 458474,
+      "num": 458474,
+      "word": "歌手2025",
+      "onboard_time": 1745388262,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 443940,
       "num": 533497,
       "word": "航天员陈冬陈中瑞王杰",
@@ -371,20 +403,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 382145,
+      "num": 382145,
+      "word": "王励勤是樊振东奥运夺冠幕后功臣",
+      "onboard_time": 1745383464,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 380045,
+      "num": 380045,
+      "word": "黄金价格",
+      "onboard_time": 1745376682,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 376631,
       "num": 414125,
       "word": "筷子换一换胃癌少一半",
       "onboard_time": 1745364739,
       "rank": 31,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 364203,
-      "num": 364203,
-      "word": "王励勤是樊振东奥运夺冠幕后功臣",
-      "onboard_time": 1745383464,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 358502,
@@ -425,14 +465,6 @@
       "onboard_time": 1745376803,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 330643,
-      "num": 482257,
-      "word": "白宫宣称与中国达成贸易协议进展顺利",
-      "onboard_time": 1745384544,
-      "rank": 38,
-      "category": "国际时政"
     },
     {
       "raw_hot": 327365,
@@ -491,20 +523,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 308127,
-      "num": 308127,
-      "word": "黄金价格",
-      "onboard_time": 1745376682,
-      "rank": 31,
-      "category": "财经"
-    },
-    {
       "raw_hot": 303469,
       "num": 253708,
       "word": "樊振东凯迪拉克直播",
       "onboard_time": 1745376623,
       "rank": 27,
       "category": "体育,汽车"
+    },
+    {
+      "raw_hot": 301362,
+      "num": 457679,
+      "word": "肖战 走入人群隐于街头",
+      "onboard_time": 1745385443,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 301046,
@@ -611,6 +643,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 258146,
+      "num": 258146,
+      "word": "两国总统同晚抵达北京",
+      "onboard_time": 1745389521,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 253211,
       "num": 253211,
       "word": "她用肚子踩缝纫机实现经济独立",
@@ -633,14 +673,6 @@
       "onboard_time": 1745381365,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 240996,
-      "num": 362266,
-      "word": "肖战 走入人群隐于街头",
-      "onboard_time": 1745385443,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 234761,
@@ -683,6 +715,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 228383,
+      "num": 228383,
+      "word": "金靖没有张凌赫保护但有迪丽热巴",
+      "onboard_time": 1745387842,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 227358,
       "num": 227358,
       "word": "黄金",
@@ -723,6 +763,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 218098,
+      "num": 220067,
+      "word": "风月不相关",
+      "onboard_time": 1745389162,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 215697,
       "num": 215697,
       "word": "王者五五福利全解锁",
@@ -739,12 +787,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 213409,
+      "num": 213409,
+      "word": "樊振东说参加车展感觉气氛很热烈",
+      "onboard_time": 1745388561,
+      "rank": 37,
+      "category": "体育,汽车"
+    },
+    {
       "raw_hot": 212755,
       "num": 195307,
       "word": "K总婚礼",
       "onboard_time": 1745320821,
       "rank": 14,
       "category": "网红"
+    },
+    {
+      "raw_hot": 211982,
+      "num": 373386,
+      "word": "30年刘国梁从横空出世到卸任主席",
+      "onboard_time": 1745386762,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 211013,
@@ -865,6 +929,22 @@
       "onboard_time": 1745374283,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197420,
+      "num": 197420,
+      "word": "日女算我求你们了好吗",
+      "onboard_time": 1745390002,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 195045,
+      "num": 219723,
+      "word": "国乒再现二王一马新篇章",
+      "onboard_time": 1745389882,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 195024,
@@ -995,6 +1075,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 175243,
+      "num": 175243,
+      "word": "王励勤说不一定成绩差就一无是处",
+      "onboard_time": 1745389821,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 174441,
+      "num": 174441,
+      "word": "神二十乘组亮相",
+      "onboard_time": 1745387062,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 174403,
       "num": 218739,
       "word": "无忧渡播出 陈奕恒都长大了",
@@ -1043,6 +1139,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 168804,
+      "num": 454012,
+      "word": "周奇的脸和嗓子各长各的",
+      "onboard_time": 1745389401,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167717,
       "num": 167717,
       "word": "60斤和110斤交换饮食的一天",
@@ -1081,6 +1185,14 @@
       "onboard_time": 1745369782,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154737,
+      "num": 154737,
+      "word": "爱奇艺杀入直播带货",
+      "onboard_time": 1745390062,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 153967,
@@ -1259,14 +1371,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 122595,
-      "num": 373386,
-      "word": "30年刘国梁从横空出世到卸任主席",
-      "onboard_time": 1745386762,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 121895,
       "num": 121895,
       "word": "上海车展",
@@ -1297,6 +1401,14 @@
       "onboard_time": 1745379683,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118025,
+      "num": 226254,
+      "word": "封神三部曲千军万马的镜头是咋拍的",
+      "onboard_time": 1745389882,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 117923,
@@ -1339,12 +1451,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 106682,
+      "num": 222949,
+      "word": "詹姆斯从头防到尾",
+      "onboard_time": 1745388081,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105605,
       "num": 105605,
       "word": "王者荣耀",
       "onboard_time": 1745364440,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 105189,
+      "num": 223639,
+      "word": "大阪世博会警卫当众给日本游客下跪",
+      "onboard_time": 1745388561,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 102711,
@@ -1443,6 +1571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 81785,
+      "num": 194218,
+      "word": "专访刘国梁",
+      "onboard_time": 1745387901,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 81178,
       "num": 410790,
       "word": "最有安全感的车来了",
@@ -1457,6 +1593,22 @@
       "onboard_time": 1745383464,
       "rank": 34,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 78506,
+      "num": 224782,
+      "word": "马学者称感谢中国站出来硬刚关税",
+      "onboard_time": 1745388503,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 78438,
+      "num": 215132,
+      "word": "山西男孩被生母继父虐死案再开庭",
+      "onboard_time": 1745388621,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77565,
@@ -1531,6 +1683,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 67968,
+      "num": 457336,
+      "word": "彩绘盲道合适吗",
+      "onboard_time": 1745388561,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66835,
       "num": 53948,
       "word": "雷神加速器",
@@ -1595,14 +1755,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 61891,
-      "num": 370734,
-      "word": "男子被女友逼写百万借条未还被起诉",
-      "onboard_time": 1745386702,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 61484,
       "num": 77818,
       "word": "周震南铁定是风了",
@@ -1627,6 +1779,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 57443,
+      "num": 447716,
+      "word": "微信图片备注好友对用户有何影响",
+      "onboard_time": 1745389343,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 57037,
       "num": 236945,
       "word": "久酷在线征集抽象剧本",
@@ -1641,6 +1801,14 @@
       "onboard_time": 1745344995,
       "rank": 44,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 54561,
+      "num": 456690,
+      "word": "蔚来萤火虫将进入海外16国销售",
+      "onboard_time": 1745389102,
+      "rank": 16,
+      "category": "汽车"
     },
     {
       "raw_hot": 52634,
@@ -1769,6 +1937,14 @@
       "onboard_time": 1745335222,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 40757,
+      "num": 451521,
+      "word": "双相情感障碍者有资格成为母亲吗",
+      "onboard_time": 1745388922,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40662,
@@ -1985,6 +2161,14 @@
       "onboard_time": 1745364139,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9017,
+      "num": 203770,
+      "word": "胖东来如何炼成零售传奇",
+      "onboard_time": 1745389222,
+      "rank": 39,
+      "category": "民生新闻,议题讨论"
     },
     {
       "raw_hot": 8330,
