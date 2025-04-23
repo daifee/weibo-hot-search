@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/23 23:42:46
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/24 00:31:48
 </p>
 </blockquote>
 <p>
@@ -2045,6 +2045,12 @@ Simon事件（热度：1411247）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%A2%84%E8%AE%A1%E5%AF%B9%E5%8D%8E%E5%85%B3%E7%A8%8E%E5%B0%86%E5%A4%A7%E5%B9%85%E9%99%8D%E4%BD%8E%23" target="weibo">
 特朗普预计对华关税将大幅降低（热度：1384403）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E7%A4%BC%E6%9D%B0%20%E5%A5%B3%E6%9C%8B%E5%8F%8B%23" target="weibo">
+赵礼杰 女朋友（热度：1383418）
 </a>
 </li>
 
@@ -5355,6 +5361,12 @@ YERI和Wendy离开SM（热度：805847）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9F%B3%E5%87%AF%E4%B8%8E%E5%A5%B3%E5%8F%8B%E9%80%9A%E8%AF%9D%E5%BD%95%E9%9F%B3%23" target="weibo">
+石凯与女友通话录音（热度：784283）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2312306%E5%80%99%E8%A1%A5%23" target="weibo">
 12306候补（热度：783308）
 </a>
@@ -5999,18 +6011,6 @@ TVB男演员陈键锋学厨以第一名毕业（热度：726197）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%A0%B8%E6%8B%9B%E8%81%98%E5%9B%9E%E5%BA%94%E6%94%B6%E5%88%B0%E7%99%BE%E4%B8%87%E4%BB%BD%E7%AE%80%E5%8E%86%23" target="weibo">
 中核招聘回应收到百万份简历（热度：715789）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%A3%9E%E5%AE%87%E8%AF%B4%E4%BB%8E225%E6%96%A4%E7%98%A6%E4%B8%8B%E6%9D%A5%E5%85%A8%E9%9D%A0%E8%B7%91%E6%AD%A5%23" target="weibo">
-陈飞宇说从225斤瘦下来全靠跑步（热度：715381）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%BD%E5%8F%8B%E4%B8%BA%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%8F%91%E5%A3%B0%23" target="weibo">
-好友为赵丽颖发声（热度：714891）
 </a>
 </li>
 
