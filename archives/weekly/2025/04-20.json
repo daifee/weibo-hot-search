@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745380236266,
+  "endTime": 1745382592654,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -707,6 +707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1040916,
+      "num": 1040916,
+      "word": "唐朝诡事录",
+      "onboard_time": 1745378184,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1039130,
       "num": 1166260,
       "word": "出轨的爸病床的妈被排挤的他",
@@ -745,14 +753,6 @@
       "onboard_time": 1745151024,
       "rank": 11,
       "category": "电影,时尚"
-    },
-    {
-      "raw_hot": 998305,
-      "num": 998305,
-      "word": "唐朝诡事录",
-      "onboard_time": 1745378184,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 998135,
@@ -859,6 +859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 883461,
+      "num": 588418,
+      "word": "文春曝永野芽郁脚踏两条船",
+      "onboard_time": 1745379503,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 883165,
       "num": 442176,
       "word": "京东外卖",
@@ -953,6 +961,14 @@
       "onboard_time": 1745319801,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 831749,
+      "num": 831749,
+      "word": "特朗普承认对华145%关税过高",
+      "onboard_time": 1745380344,
+      "rank": 6,
+      "category": "国际时政"
     },
     {
       "raw_hot": 823650,
@@ -1251,6 +1267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 672479,
+      "num": 672479,
+      "word": "Prada魔咒",
+      "onboard_time": 1745381784,
+      "rank": 7,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 672106,
       "num": 672106,
       "word": "王嘉尔泰国聊水很深",
@@ -1403,6 +1427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 618193,
+      "num": 496621,
+      "word": "迪丽热巴告了温如也",
+      "onboard_time": 1745380525,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 612854,
       "num": 612854,
       "word": "京东回应刘强东亲自送外卖",
@@ -1417,6 +1449,14 @@
       "onboard_time": 1745074045,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 600496,
+      "num": 473946,
+      "word": "刘国梁曾说找不到理由折腾王励勤",
+      "onboard_time": 1745378784,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 599010,
@@ -1449,14 +1489,6 @@
       "onboard_time": 1745309960,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 588418,
-      "num": 588418,
-      "word": "文春曝永野芽郁脚踏两条船",
-      "onboard_time": 1745379503,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 588170,
@@ -1803,6 +1835,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 492584,
+      "num": 492584,
+      "word": "饭桌上开玩笑讲出多年前的埋尸案",
+      "onboard_time": 1745378243,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 489759,
       "num": 337675,
       "word": "孙恩盛 快回家",
@@ -1867,12 +1907,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 473946,
-      "num": 473946,
-      "word": "刘国梁曾说找不到理由折腾王励勤",
-      "onboard_time": 1745378784,
-      "rank": 20,
-      "category": "体育"
+      "raw_hot": 471117,
+      "num": 471117,
+      "word": "永野芽郁 金武俊",
+      "onboard_time": 1745379624,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 470215,
@@ -1953,14 +1993,6 @@
       "onboard_time": 1745312720,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 455444,
-      "num": 455444,
-      "word": "永野芽郁 金武俊",
-      "onboard_time": 1745379624,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 453950,
@@ -2057,14 +2089,6 @@
       "onboard_time": 1745121623,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 427394,
-      "num": 488331,
-      "word": "饭桌上开玩笑讲出多年前的埋尸案",
-      "onboard_time": 1745378243,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 425086,
@@ -2731,6 +2755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 320264,
+      "num": 461123,
+      "word": "杨天真瘦好多",
+      "onboard_time": 1745379624,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 316290,
       "num": 316290,
       "word": "乒乓球世界杯颁奖",
@@ -2915,6 +2947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 299998,
+      "num": 299998,
+      "word": "被虐致死男童生父女友称忍不住打他",
+      "onboard_time": 1745380102,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 299962,
       "num": 373717,
       "word": "开始推理吧",
@@ -2929,6 +2969,14 @@
       "onboard_time": 1745132783,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 299183,
+      "num": 299183,
+      "word": "恋与制作人纯狱风",
+      "onboard_time": 1745381063,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 298809,
@@ -3001,6 +3049,14 @@
       "onboard_time": 1745213903,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 292675,
+      "num": 292675,
+      "word": "上海60岁女孩花掉养老金的一天",
+      "onboard_time": 1745379865,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 291960,
@@ -3323,6 +3379,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 260847,
+      "num": 492435,
+      "word": "小伙轻信征信谣言被黑网贷套牢",
+      "onboard_time": 1745379564,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 260638,
       "num": 260638,
       "word": "中国男乒世界杯丢冠暴露三大问题",
@@ -3435,6 +3499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 254094,
+      "num": 320480,
+      "word": "从前是姐夫以后便是丈夫了",
+      "onboard_time": 1745381845,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 253211,
       "num": 253211,
       "word": "她用肚子踩缝纫机实现经济独立",
@@ -3465,14 +3537,6 @@
       "onboard_time": 1745229802,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 252369,
-      "num": 252369,
-      "word": "小伙轻信征信谣言被黑网贷套牢",
-      "onboard_time": 1745379564,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 251817,
@@ -3563,12 +3627,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 245506,
-      "num": 245506,
-      "word": "上海60岁女孩花掉养老金的一天",
-      "onboard_time": 1745379865,
-      "rank": 38,
-      "category": "幽默"
+      "raw_hot": 245613,
+      "num": 308061,
+      "word": "伊能静也觉得秦昊和钟楚曦好配",
+      "onboard_time": 1745381365,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 245497,
@@ -3795,6 +3859,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 231621,
+      "num": 231621,
+      "word": "网贷3000元1个月后被要求还30000",
+      "onboard_time": 1745381124,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 230799,
       "num": 309592,
       "word": "孙俪不接委屈自己的角色",
@@ -3873,6 +3945,14 @@
       "onboard_time": 1745151808,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 226630,
+      "num": 226630,
+      "word": "为什么年年体检无异常发现却是晚期",
+      "onboard_time": 1745379865,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 226358,
@@ -4219,6 +4299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211013,
+      "num": 211013,
+      "word": "酒店经理故意阻碍国安执行任务被罚",
+      "onboard_time": 1745380102,
+      "rank": 42,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 210493,
       "num": 268600,
       "word": "瑶大耳狗之梦皮肤",
@@ -4249,6 +4337,14 @@
       "onboard_time": 1745077343,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 209446,
+      "num": 209446,
+      "word": "祝绪丹又演出很聪明的感觉了",
+      "onboard_time": 1745382564,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 209278,
@@ -4297,14 +4393,6 @@
       "onboard_time": 1745143642,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 207345,
-      "num": 207345,
-      "word": "酒店经理故意阻碍国安执行任务被罚",
-      "onboard_time": 1745380102,
-      "rank": 42,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 207134,
@@ -4385,6 +4473,14 @@
       "onboard_time": 1745235862,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 204141,
+      "num": 204141,
+      "word": "原神",
+      "onboard_time": 1745382564,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 204029,
@@ -4489,6 +4585,22 @@
       "onboard_time": 1745208744,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 202353,
+      "num": 202353,
+      "word": "外资唱多做多中国资产",
+      "onboard_time": 1745382445,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 202304,
+      "num": 204719,
+      "word": "王锵 我约的饭局",
+      "onboard_time": 1745380043,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 202238,
@@ -4793,6 +4905,14 @@
       "onboard_time": 1745285781,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195024,
+      "num": 195024,
+      "word": "王曼昱的快问快答",
+      "onboard_time": 1745381665,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 194863,
@@ -5481,14 +5601,6 @@
       "onboard_time": 1745150063,
       "rank": 29,
       "category": "网红"
-    },
-    {
-      "raw_hot": 179110,
-      "num": 461123,
-      "word": "杨天真瘦好多",
-      "onboard_time": 1745379624,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 178972,
@@ -6804,7 +6916,7 @@
     },
     {
       "raw_hot": 151405,
-      "num": 151405,
+      "num": 321025,
       "word": "王励勤共斩获16个世界冠军",
       "onboard_time": 1745375063,
       "rank": 49,
@@ -8355,6 +8467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119055,
+      "num": 242091,
+      "word": "周鸿祎称5C版小鹏P7+太不讲武德了",
+      "onboard_time": 1745379984,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 118744,
       "num": 476477,
       "word": "中国围棋协会将不组队参加LG杯",
@@ -9211,14 +9331,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 92824,
-      "num": 242091,
-      "word": "周鸿祎称5C版小鹏P7+太不讲武德了",
-      "onboard_time": 1745379984,
-      "rank": 39,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 92802,
       "num": 92802,
       "word": "林孝埈夏训",
@@ -9307,6 +9419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88650,
+      "num": 483476,
+      "word": "上汽奥迪A5L亮相上海车展",
+      "onboard_time": 1745379503,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 87334,
       "num": 208761,
       "word": "钟楚曦live直出绝了",
@@ -9345,14 +9465,6 @@
       "onboard_time": 1745131942,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 85956,
-      "num": 204719,
-      "word": "王锵 我约的饭局",
-      "onboard_time": 1745380043,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 85815,
@@ -9659,14 +9771,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 76684,
-      "num": 480794,
-      "word": "上汽奥迪A5L亮相上海车展",
-      "onboard_time": 1745379503,
-      "rank": 17,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 76658,
       "num": 76658,
       "word": "雨果回应世界排名升至第三",
@@ -9769,6 +9873,14 @@
       "onboard_time": 1745212703,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72809,
+      "num": 480949,
+      "word": "还得是奔驰展台",
+      "onboard_time": 1745380344,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 72374,
@@ -9939,14 +10051,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 69000,
-      "num": 253545,
-      "word": "被虐致死男童生父女友称忍不住打他",
-      "onboard_time": 1745380102,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 68799,
       "num": 68799,
       "word": "球迷呼唤樊振东回归",
@@ -10073,6 +10177,14 @@
       "onboard_time": 1745246243,
       "rank": 28,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 65667,
+      "num": 285063,
+      "word": "黄金再涨普通人也不能干的三件事",
+      "onboard_time": 1745382505,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65200,
@@ -10529,6 +10641,14 @@
       "onboard_time": 1745232861,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 54520,
+      "num": 476177,
+      "word": "美军要在菲律宾建战备仓库",
+      "onboard_time": 1745381542,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 54448,
@@ -11907,6 +12027,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 28070,
+      "num": 300579,
+      "word": "美国俄乌停火提案细节曝光",
+      "onboard_time": 1745382084,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 27803,
       "num": 41531,
       "word": "白敬亭从台下观众到台上嘉宾",
@@ -12033,6 +12161,14 @@
       "onboard_time": 1745286140,
       "rank": 19,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 25609,
+      "num": 478746,
+      "word": "异地恋的成本具体包含哪些方面",
+      "onboard_time": 1745382084,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 25419,
