@@ -1,0 +1,410 @@
+{
+  "runTime": 1745405129923,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 836522,
+        "num": 1133843,
+        "word": "中方回应特朗普称或将大幅降低对华关税",
+        "onboard_time": 1745395942,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 597414,
+        "num": 597414,
+        "word": "董明珠再点名小米汽车",
+        "onboard_time": 1745398642,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 23096,
+        "num": 578089,
+        "word": "何以中国看福建",
+        "onboard_time": 1745403442,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 692560,
+        "num": 576778,
+        "word": "孙颖莎发文感谢刘国梁",
+        "onboard_time": 1745395282,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 560081,
+        "num": 560081,
+        "word": "刘国梁辞职",
+        "onboard_time": 1745372301,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 494901,
+        "num": 494901,
+        "word": "特朗普认怂了",
+        "onboard_time": 1745374043,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 428762,
+        "num": 428762,
+        "word": "王曼昱发博感谢刘国梁",
+        "onboard_time": 1745402122,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 366642,
+        "num": 366642,
+        "word": "谁给那英报的名",
+        "onboard_time": 1745400742,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 340736,
+        "num": 340736,
+        "word": "何瑞贤主演",
+        "onboard_time": 1745397922,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 338129,
+        "num": 338129,
+        "word": "打奉陪到底谈大门敞开",
+        "onboard_time": 1745397382,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 806028,
+        "num": 334724,
+        "word": "迪丽热巴戴了唇钉",
+        "onboard_time": 1745400383,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 586140,
+        "num": 332988,
+        "word": "这是苍井优这是她老公",
+        "onboard_time": 1745397742,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365235,
+        "num": 330759,
+        "word": "马龙乒协副主席",
+        "onboard_time": 1745372422,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 320222,
+        "num": 320222,
+        "word": "日女算我求你们了好吗",
+        "onboard_time": 1745390002,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261156,
+        "num": 320182,
+        "word": "逍遥 赵丽颖",
+        "onboard_time": 1745394562,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239910,
+        "num": 317165,
+        "word": "狐妖小红娘王权篇",
+        "onboard_time": 1745393242,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208318,
+        "num": 314250,
+        "word": "张杰谢娜带3个女儿逛街",
+        "onboard_time": 1745395162,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111836,
+        "num": 312056,
+        "word": "你好种地少年3官宣",
+        "onboard_time": 1745403683,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120461,
+        "num": 309767,
+        "word": "复旦大学获校友夫妇捐赠10亿",
+        "onboard_time": 1745403143,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307799,
+        "num": 307799,
+        "word": "中方回应特朗普承认对华关税太高",
+        "onboard_time": 1745397622,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 5430656,
+        "num": 303243,
+        "word": "石凯 订过婚",
+        "onboard_time": 1745402903,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218721,
+        "num": 218721,
+        "word": "马龙孙颖莎王曼昱王楚钦最新采访",
+        "onboard_time": 1745393421,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206132,
+        "num": 206132,
+        "word": "医生举报3岁男童疑遭生父虐待",
+        "onboard_time": 1745401824,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171042,
+        "num": 205719,
+        "word": "韩安冉不让婆婆住家里",
+        "onboard_time": 1745393183,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 205716,
+        "num": 205716,
+        "word": "2岁男童被热油烫伤父亲后悔直扇脸",
+        "onboard_time": 1745401134,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200318,
+        "num": 200318,
+        "word": "董明珠卸任格力电器总裁",
+        "onboard_time": 1745403864,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 188430,
+        "num": 188430,
+        "word": "谢娜录的新综艺原来是姐姐当家",
+        "onboard_time": 1745401462,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187519,
+        "num": 187519,
+        "word": "白鹿憋笑",
+        "onboard_time": 1745404044,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186977,
+        "num": 186977,
+        "word": "女子拉黑病夫待逝后要全部遗产",
+        "onboard_time": 1745399062,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 5743,
+        "num": 180744,
+        "word": "神舟二十号有哪些关键目标",
+        "onboard_time": 1745404881,
+        "rank": 29,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 180324,
+        "num": 180324,
+        "word": "40岁男子应酬喝酒后独自在酒店猝死",
+        "onboard_time": 1745396901,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175864,
+        "num": 175864,
+        "word": "孙颖莎说会全力以赴为国而战",
+        "onboard_time": 1745399302,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172423,
+        "num": 172423,
+        "word": "京东外卖在哪 搞了半天注册成骑手了",
+        "onboard_time": 1745400383,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168714,
+        "num": 168714,
+        "word": "张云龙被刘诗诗一句话硬控6小时",
+        "onboard_time": 1745401703,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117680,
+        "num": 164574,
+        "word": "郭富城回应方媛在米兰被抢包",
+        "onboard_time": 1745397681,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164250,
+        "num": 164250,
+        "word": "饮用水界劳斯莱斯一瓶售价988元",
+        "onboard_time": 1745399482,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138027,
+        "num": 138027,
+        "word": "黄灿灿在成家里也甜甜的",
+        "onboard_time": 1745403323,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135254,
+        "num": 135254,
+        "word": "于正 临江仙一定爆",
+        "onboard_time": 1745404583,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134173,
+        "num": 134173,
+        "word": "吴敬平分享回归开放的天都峰",
+        "onboard_time": 1745404881,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17633,
+        "num": 128323,
+        "word": "打工人周末放松养肤方式",
+        "onboard_time": 1745404102,
+        "rank": 39,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 125879,
+        "num": 125879,
+        "word": "发现不内耗的人都是榴莲型人格",
+        "onboard_time": 1745401255,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 93047,
+        "num": 125771,
+        "word": "中缅累计抓获5.5万余名中国籍涉诈嫌疑人",
+        "onboard_time": 1745404225,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 125734,
+        "num": 125734,
+        "word": "田中圭承认与永野芽郁同居但否认恋情",
+        "onboard_time": 1745391803,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122555,
+        "num": 122555,
+        "word": "马龙感慨了",
+        "onboard_time": 1745402963,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121939,
+        "num": 121939,
+        "word": "男子应酬醉酒被送到酒店第二天离世",
+        "onboard_time": 1745400503,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117331,
+        "num": 117331,
+        "word": "南京软通员工疑因甲醛超标逃离工位",
+        "onboard_time": 1745404044,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113649,
+        "num": 113649,
+        "word": "歌手2025",
+        "onboard_time": 1745388262,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112115,
+        "num": 112115,
+        "word": "马龙谈刘国梁辞职",
+        "onboard_time": 1745384664,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107481,
+        "num": 107481,
+        "word": "遭前男友泼汽油女孩回应可能会带货",
+        "onboard_time": 1745402544,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104904,
+        "num": 104904,
+        "word": "爱奇艺推出跳看功能",
+        "onboard_time": 1745404522,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#巩固发展坚如磐石的军政军民团结#"
+    }
+  }
+}
