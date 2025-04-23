@@ -1,6 +1,6 @@
 {
   "startTime": 1745339463299,
-  "endTime": 1745413491001,
+  "endTime": 1745415271997,
   "band_list": [
     {
       "raw_hot": 12205626,
@@ -57,6 +57,14 @@
       "onboard_time": 1745374763,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1987780,
+      "num": 238255,
+      "word": "石凯订婚宴视频",
+      "onboard_time": 1745414602,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1843128,
@@ -121,6 +129,14 @@
       "onboard_time": 1745371880,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1379462,
+      "num": 330806,
+      "word": "女子遭家暴驾车逃跑时致丈夫身亡",
+      "onboard_time": 1745412022,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1371871,
@@ -204,7 +220,7 @@
     },
     {
       "raw_hot": 1012539,
-      "num": 478011,
+      "num": 563441,
       "word": "刘国梁泪洒会场",
       "onboard_time": 1745406322,
       "rank": 5,
@@ -299,6 +315,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 756533,
+      "num": 756533,
+      "word": "多名观众称被演唱会座椅扎伤",
+      "onboard_time": 1745411242,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 752884,
       "num": 636737,
       "word": "马龙孙颖莎王曼昱王楚钦最新采访",
@@ -329,14 +353,6 @@
       "onboard_time": 1745370681,
       "rank": 13,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 678084,
-      "num": 330806,
-      "word": "女子遭家暴驾车逃跑时致丈夫身亡",
-      "onboard_time": 1745412022,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 642258,
@@ -683,6 +699,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 379651,
+      "num": 229600,
+      "word": "陈冠希得知秦舒培怀孕的反应",
+      "onboard_time": 1745414241,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 376631,
       "num": 414125,
       "word": "筷子换一换胃癌少一半",
@@ -705,14 +729,6 @@
       "onboard_time": 1745391983,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 365487,
-      "num": 365487,
-      "word": "多名观众称被演唱会座椅扎伤",
-      "onboard_time": 1745411242,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 358502,
@@ -755,6 +771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 340541,
+      "num": 340541,
+      "word": "卤鹅哥投喂周鸿祎拉扯20多秒被指过火",
+      "onboard_time": 1745411662,
+      "rank": 14,
+      "category": "网红"
+    },
+    {
       "raw_hot": 337512,
       "num": 337512,
       "word": "神二十任务发布会",
@@ -793,14 +817,6 @@
       "onboard_time": 1745382564,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 321854,
-      "num": 321854,
-      "word": "卤鹅哥投喂周鸿祎拉扯20多秒被指过火",
-      "onboard_time": 1745411662,
-      "rank": 14,
-      "category": "网红"
     },
     {
       "raw_hot": 321198,
@@ -1331,6 +1347,14 @@
       "category": "幽默,民生新闻"
     },
     {
+      "raw_hot": 203447,
+      "num": 203447,
+      "word": "苹果煮水的3种宝藏搭配",
+      "onboard_time": 1745411425,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 203056,
       "num": 157925,
       "word": "男子半月两次欲强奸女邻居未遂判刑",
@@ -1457,6 +1481,14 @@
       "onboard_time": 1745374283,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196863,
+      "num": 185948,
+      "word": "王一博上海首战",
+      "onboard_time": 1745414721,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 196724,
@@ -1643,14 +1675,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 179764,
-      "num": 179764,
-      "word": "苹果煮水的3种宝藏搭配",
-      "onboard_time": 1745411425,
-      "rank": 45,
-      "category": "美食"
-    },
-    {
       "raw_hot": 177877,
       "num": 177877,
       "word": "杜淳妻子否认婆婆手握财政大权",
@@ -1780,7 +1804,7 @@
     },
     {
       "raw_hot": 169138,
-      "num": 169138,
+      "num": 201554,
       "word": "无忧渡我是我哥",
       "onboard_time": 1745409981,
       "rank": 42,
@@ -1899,6 +1923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160368,
+      "num": 160368,
+      "word": "逆水寒手游",
+      "onboard_time": 1745414362,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 160230,
       "num": 160230,
       "word": "悖理",
@@ -1929,6 +1961,14 @@
       "onboard_time": 1745396543,
       "rank": 28,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 158135,
+      "num": 158135,
+      "word": "李昀锐发追星视频",
+      "onboard_time": 1745414721,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 158038,
@@ -1977,6 +2017,14 @@
       "onboard_time": 1745391742,
       "rank": 45,
       "category": "科学科普,民生新闻"
+    },
+    {
+      "raw_hot": 154401,
+      "num": 154401,
+      "word": "金玟庭被认成柳智敏的反应",
+      "onboard_time": 1745413881,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 153967,
@@ -2067,6 +2115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144764,
+      "num": 203549,
+      "word": "长隆一乐园回应摩托表演撞倒游客",
+      "onboard_time": 1745413881,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144601,
       "num": 144601,
       "word": "逍遥",
@@ -2128,6 +2184,14 @@
       "word": "国际乒联祝贺王励勤当选",
       "onboard_time": 1745407462,
       "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 138467,
+      "num": 138467,
+      "word": "贾一凡vlog出到40期",
+      "onboard_time": 1745414241,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -2201,6 +2265,22 @@
       "onboard_time": 1745399842,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133302,
+      "num": 133302,
+      "word": "LWX督战Crisp",
+      "onboard_time": 1745413881,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 132905,
+      "num": 132905,
+      "word": "不小心被一本书惊艳了",
+      "onboard_time": 1745414842,
+      "rank": 46,
+      "category": "读书作家"
     },
     {
       "raw_hot": 131996,
@@ -2305,6 +2385,14 @@
       "onboard_time": 1745369603,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 124627,
+      "num": 200815,
+      "word": "求求神印王座通天路轻点虐",
+      "onboard_time": 1745414424,
+      "rank": 29,
+      "category": "动漫"
     },
     {
       "raw_hot": 124578,
@@ -2628,7 +2716,7 @@
     },
     {
       "raw_hot": 93047,
-      "num": 125771,
+      "num": 146358,
       "word": "中缅累计抓获5.5万余名中国籍涉诈嫌疑人",
       "onboard_time": 1745404225,
       "rank": 41,
@@ -2657,6 +2745,14 @@
       "onboard_time": 1745379503,
       "rank": 17,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 87450,
+      "num": 298624,
+      "word": "雷公要求人贩子赔6元公开忏悔道歉",
+      "onboard_time": 1745413101,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87130,
@@ -2843,6 +2939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 68778,
+      "num": 205418,
+      "word": "微博智搜说无畏像张无忌",
+      "onboard_time": 1745414062,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 68027,
       "num": 68027,
       "word": "海军舰舰舰舰舰已就位",
@@ -2929,6 +3033,14 @@
       "onboard_time": 1745328383,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 62955,
+      "num": 203680,
+      "word": "万斯给乌克兰下最后通牒",
+      "onboard_time": 1745414901,
+      "rank": 24,
+      "category": "国际时政"
     },
     {
       "raw_hot": 61484,
@@ -3097,6 +3209,14 @@
       "onboard_time": 1745395762,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 46305,
+      "num": 200850,
+      "word": "郑钦文马德里赛团队合影",
+      "onboard_time": 1745415141,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 46257,
@@ -3340,7 +3460,7 @@
     },
     {
       "raw_hot": 27133,
-      "num": 620955,
+      "num": 654350,
       "word": "何以中国看福建",
       "onboard_time": 1745403442,
       "rank": 2,
@@ -3379,6 +3499,14 @@
       "category": "情感,民生新闻"
     },
     {
+      "raw_hot": 26176,
+      "num": 219023,
+      "word": "人们看到极端天气为什么会兴奋",
+      "onboard_time": 1745414482,
+      "rank": 19,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 25886,
       "num": 277840,
       "word": "260人的投资群至少200个托",
@@ -3400,14 +3528,6 @@
       "word": "广东高质量活力向未来",
       "onboard_time": 1745330003,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 22335,
-      "num": 298624,
-      "word": "雷公要求人贩子赔6元公开忏悔道歉",
-      "onboard_time": 1745413101,
-      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -3545,6 +3665,14 @@
       "onboard_time": 1745354113,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 13052,
+      "num": 145997,
+      "word": "地铁大爷喊上班真好暖人心",
+      "onboard_time": 1745414542,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12862,
