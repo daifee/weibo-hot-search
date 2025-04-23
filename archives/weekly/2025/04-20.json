@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745426948725,
+  "endTime": 1745428986821,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -3659,6 +3659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 290932,
+      "num": 174806,
+      "word": "安静公主要二次手术",
+      "onboard_time": 1745425100,
+      "rank": 25,
+      "category": "网红"
+    },
+    {
       "raw_hot": 290746,
       "num": 492435,
       "word": "小伙轻信征信谣言被黑网贷套牢",
@@ -6737,14 +6745,6 @@
       "onboard_time": 1745148922,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 177337,
-      "num": 174806,
-      "word": "安静公主要二次手术",
-      "onboard_time": 1745425100,
-      "rank": 25,
-      "category": "网红"
     },
     {
       "raw_hot": 177245,
@@ -11811,6 +11811,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 75625,
+      "num": 75625,
+      "word": "云南洱源县4.8级地震",
+      "onboard_time": 1745427078,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75225,
       "num": 271717,
       "word": "王一博挑战纸巾上打高尔夫",
@@ -14193,6 +14201,14 @@
       "onboard_time": 1745217081,
       "rank": 26,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 31672,
+      "num": 37377,
+      "word": "时代少年团新专概念片",
+      "onboard_time": 1745428937,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 31252,

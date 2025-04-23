@@ -1,6 +1,6 @@
 {
   "startTime": 1745425908553,
-  "endTime": 1745426948725,
+  "endTime": 1745428986821,
   "band_list": [
     {
       "raw_hot": 1844906,
@@ -81,6 +81,14 @@
       "onboard_time": 1745423962,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 290932,
+      "num": 174806,
+      "word": "安静公主要二次手术",
+      "onboard_time": 1745425100,
+      "rank": 25,
+      "category": "网红"
     },
     {
       "raw_hot": 280970,
@@ -169,14 +177,6 @@
       "onboard_time": 1745422103,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 177337,
-      "num": 174806,
-      "word": "安静公主要二次手术",
-      "onboard_time": 1745425100,
-      "rank": 25,
-      "category": "网红"
     },
     {
       "raw_hot": 165595,
@@ -323,6 +323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75625,
+      "num": 75625,
+      "word": "云南洱源县4.8级地震",
+      "onboard_time": 1745427078,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75200,
       "num": 75200,
       "word": "读完就忘还有必要读书吗",
@@ -425,6 +433,14 @@
       "onboard_time": 1745398642,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 31672,
+      "num": 37377,
+      "word": "时代少年团新专概念片",
+      "onboard_time": 1745428937,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 5746,
