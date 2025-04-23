@@ -1,14 +1,30 @@
 {
   "startTime": 1745339463299,
-  "endTime": 1745373240282,
+  "endTime": 1745374589143,
   "band_list": [
     {
-      "raw_hot": 7666688,
-      "num": 7666688,
+      "raw_hot": 12205626,
+      "num": 12205626,
       "word": "刘国梁辞职",
       "onboard_time": 1745372301,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 3957531,
+      "num": 4915063,
+      "word": "马龙乒协副主席",
+      "onboard_time": 1745372422,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1843128,
+      "num": 758785,
+      "word": "明星月嫂发林允合照",
+      "onboard_time": 1745371640,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1814565,
@@ -19,28 +35,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1734830,
-      "num": 1734830,
-      "word": "马龙乒协副主席",
-      "onboard_time": 1745372422,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1530488,
-      "num": 758785,
-      "word": "明星月嫂发林允合照",
-      "onboard_time": 1745371640,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1506699,
       "num": 1506699,
       "word": "微信加好友能加图片备注了",
       "onboard_time": 1745334204,
       "rank": 0,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1384403,
+      "num": 1384403,
+      "word": "特朗普预计对华关税将大幅降低",
+      "onboard_time": 1745371880,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1345829,
@@ -83,14 +91,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 908269,
-      "num": 908269,
-      "word": "特朗普预计对华关税将大幅降低",
-      "onboard_time": 1745371880,
-      "rank": 5,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 860628,
       "num": 860628,
       "word": "洛阳文旅确认白马寺内为狄仁杰墓",
@@ -123,7 +123,7 @@
       "category": "财经"
     },
     {
-      "raw_hot": 626362,
+      "raw_hot": 626367,
       "num": 872200,
       "word": "淮水竹亭",
       "onboard_time": 1745371281,
@@ -147,12 +147,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 443940,
+      "num": 533497,
+      "word": "航天员陈冬陈中瑞王杰",
+      "onboard_time": 1745371880,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 420288,
       "num": 587549,
       "word": "美股市场已成爆炸区",
       "onboard_time": 1745359755,
       "rank": 7,
       "category": "财经"
+    },
+    {
+      "raw_hot": 412812,
+      "num": 412812,
+      "word": "宋佳差点没认出杨天真",
+      "onboard_time": 1745373803,
+      "rank": 13,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 400398,
@@ -179,20 +195,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 356332,
+      "num": 356332,
+      "word": "樊振东商标已进初审",
+      "onboard_time": 1745373863,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 355984,
       "num": 199392,
       "word": "赵丽颖我真没空陪你闹了",
       "onboard_time": 1745317401,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 352199,
-      "num": 352199,
-      "word": "航天员陈冬陈中瑞王杰",
-      "onboard_time": 1745371880,
-      "rank": 26,
-      "category": "国内时政"
     },
     {
       "raw_hot": 337512,
@@ -219,6 +235,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 276946,
+      "num": 565830,
+      "word": "赴山海",
+      "onboard_time": 1745373744,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 265257,
+      "num": 606803,
+      "word": "在人间",
+      "onboard_time": 1745372361,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 260379,
       "num": 260379,
       "word": "陈冬时隔2年再次担任指令长",
@@ -241,6 +273,14 @@
       "onboard_time": 1745343196,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 230237,
+      "num": 230237,
+      "word": "特朗普认怂了",
+      "onboard_time": 1745374043,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 227358,
@@ -291,6 +331,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204776,
+      "num": 262867,
+      "word": "赴山海抚琴独影氛围感海报",
+      "onboard_time": 1745374223,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 204029,
+      "num": 204029,
+      "word": "你以为正常其实有病的行为",
+      "onboard_time": 1745371581,
+      "rank": 34,
+      "category": "幽默,民生新闻"
+    },
+    {
       "raw_hot": 203056,
       "num": 157925,
       "word": "男子半月两次欲强奸女邻居未遂判刑",
@@ -299,12 +355,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 196277,
-      "num": 606803,
-      "word": "在人间",
-      "onboard_time": 1745372361,
-      "rank": 16,
-      "category": "剧集"
+      "raw_hot": 192353,
+      "num": 192353,
+      "word": "樊振东 王励勤",
+      "onboard_time": 1745374522,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 184243,
@@ -315,12 +371,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 183958,
-      "num": 183958,
-      "word": "你以为正常其实有病的行为",
-      "onboard_time": 1745371581,
-      "rank": 34,
-      "category": "幽默,民生新闻"
+      "raw_hot": 183569,
+      "num": 256978,
+      "word": "书卷一梦",
+      "onboard_time": 1745372963,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 182905,
@@ -329,6 +385,22 @@
       "onboard_time": 1745370321,
       "rank": 24,
       "category": "网红"
+    },
+    {
+      "raw_hot": 182735,
+      "num": 182735,
+      "word": "高元义当选中国乒协副主席",
+      "onboard_time": 1745374343,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 179893,
+      "num": 179893,
+      "word": "我们还需要纸质书吗",
+      "onboard_time": 1745369302,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 177877,
@@ -371,20 +443,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 162083,
+      "num": 787374,
+      "word": "神二十任务清单",
+      "onboard_time": 1745371462,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 156678,
       "num": 277895,
       "word": "宋祖儿这一段直接梦回哪吒",
       "onboard_time": 1745369782,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 155133,
-      "num": 155133,
-      "word": "我们还需要纸质书吗",
-      "onboard_time": 1745369302,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 153967,
@@ -435,14 +507,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 142910,
-      "num": 787374,
-      "word": "神二十任务清单",
-      "onboard_time": 1745371462,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 142153,
       "num": 131917,
       "word": "女子剖腹产9个月后抽出10cm手术线",
@@ -476,19 +540,11 @@
     },
     {
       "raw_hot": 138012,
-      "num": 138012,
+      "num": 384778,
       "word": "神二十发射时间藏着2个彩蛋",
       "onboard_time": 1745372663,
       "rank": 40,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 137701,
-      "num": 137701,
-      "word": "书卷一梦",
-      "onboard_time": 1745372963,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 136246,
@@ -513,6 +569,22 @@
       "onboard_time": 1745339599,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129524,
+      "num": 129524,
+      "word": "王一栩 淮水竹亭",
+      "onboard_time": 1745374283,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 129361,
+      "num": 129361,
+      "word": "人民海军生日快乐",
+      "onboard_time": 1745366000,
+      "rank": 47,
+      "category": "军事"
     },
     {
       "raw_hot": 129227,
@@ -555,14 +627,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 122064,
-      "num": 122064,
-      "word": "人民海军生日快乐",
-      "onboard_time": 1745366000,
-      "rank": 47,
-      "category": "军事"
-    },
-    {
       "raw_hot": 121895,
       "num": 121895,
       "word": "上海车展",
@@ -577,6 +641,14 @@
       "onboard_time": 1745335822,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115322,
+      "num": 115322,
+      "word": "孙千大生意人骑马剧照",
+      "onboard_time": 1745374163,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 111429,
@@ -657,6 +729,14 @@
       "onboard_time": 1745337681,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 82365,
+      "num": 462101,
+      "word": "杭州脑瘫女骑手谈为何决定送外卖",
+      "onboard_time": 1745372841,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77565,
@@ -851,14 +931,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 44938,
-      "num": 462101,
-      "word": "杭州脑瘫女骑手谈为何决定送外卖",
-      "onboard_time": 1745372841,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 44100,
       "num": 77815,
       "word": "张真源发视频找不到合适的BGM",
@@ -980,7 +1052,7 @@
     },
     {
       "raw_hot": 24395,
-      "num": 1736622,
+      "num": 2173138,
       "word": "广东高质量活力向未来",
       "onboard_time": 1745330003,
       "rank": 2,
@@ -1041,6 +1113,14 @@
       "onboard_time": 1745372482,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 8268,
+      "num": 352118,
+      "word": "港星北上谋生反映出哪些问题",
+      "onboard_time": 1745373684,
+      "rank": 19,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
