@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1745405129923,
+  "endTime": 1745407295974,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -11209,6 +11209,14 @@
       "onboard_time": 1744624582,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 537925,
+      "num": 478011,
+      "word": "刘国梁泪洒会场",
+      "onboard_time": 1745406322,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 537703,
@@ -24939,6 +24947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 244790,
+      "num": 244790,
+      "word": "白鹿憋笑",
+      "onboard_time": 1745404044,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 244646,
       "num": 352570,
       "word": "全民智驾普及绕不开国民神车",
@@ -25209,6 +25225,14 @@
       "onboard_time": 1744980682,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 241505,
+      "num": 248317,
+      "word": "谢娜录的新综艺原来是姐姐当家",
+      "onboard_time": 1745401462,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 241481,
@@ -25553,14 +25577,6 @@
       "onboard_time": 1745227102,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 238449,
-      "num": 238449,
-      "word": "白鹿憋笑",
-      "onboard_time": 1745404044,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 238333,
@@ -25969,6 +25985,14 @@
       "onboard_time": 1743567924,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 235014,
+      "num": 228503,
+      "word": "医生举报3岁男童疑遭生父虐待",
+      "onboard_time": 1745401824,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 234962,
@@ -26697,14 +26721,6 @@
       "onboard_time": 1744272262,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 228503,
-      "num": 228503,
-      "word": "医生举报3岁男童疑遭生父虐待",
-      "onboard_time": 1745401824,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 228385,
@@ -27601,6 +27617,14 @@
       "onboard_time": 1744273943,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 221459,
+      "num": 221459,
+      "word": "土耳其6.2级地震",
+      "onboard_time": 1745405422,
+      "rank": 32,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 221451,
@@ -33320,14 +33344,6 @@
       "word": "蒋梦婕发文告别浪姐",
       "onboard_time": 1745385323,
       "rank": 45,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 194771,
-      "num": 248317,
-      "word": "谢娜录的新综艺原来是姐姐当家",
-      "onboard_time": 1745401462,
-      "rank": 26,
       "category": "综艺"
     },
     {
@@ -41227,6 +41243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165244,
+      "num": 222628,
+      "word": "杭州保姆一声吼保住东家355万",
+      "onboard_time": 1745405962,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 165225,
       "num": 165225,
       "word": "湖人战胜雷霆",
@@ -43881,6 +43905,14 @@
       "onboard_time": 1743739522,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156236,
+      "num": 156236,
+      "word": "王励勤曾邀请樊振东加入上海队",
+      "onboard_time": 1745405663,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 156214,
@@ -46555,6 +46587,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 147581,
+      "num": 147581,
+      "word": "王曼昱相信国乒会再创辉煌",
+      "onboard_time": 1745406623,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147569,
       "num": 602540,
       "word": "欧洲已准备好与美国就关税问题谈判",
@@ -46808,6 +46848,14 @@
       "word": "无忧渡反方一辩对战七人",
       "onboard_time": 1744881681,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 146803,
+      "num": 156448,
+      "word": "黄灿灿在成家里也甜甜的",
+      "onboard_time": 1745403323,
+      "rank": 46,
       "category": "剧集"
     },
     {
@@ -49649,14 +49697,6 @@
       "onboard_time": 1745242162,
       "rank": 49,
       "category": "数码"
-    },
-    {
-      "raw_hot": 138027,
-      "num": 138027,
-      "word": "黄灿灿在成家里也甜甜的",
-      "onboard_time": 1745403323,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 138016,
@@ -53683,6 +53723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126336,
+      "num": 126336,
+      "word": "我给鞠婧祎拍的撕拉片",
+      "onboard_time": 1745406803,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 126335,
       "num": 126335,
       "word": "比亚迪2024年度拟10送8转12派39.74元",
@@ -54355,6 +54403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124461,
+      "num": 222493,
+      "word": "手机大电池重要还是快充重要",
+      "onboard_time": 1745406742,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
       "raw_hot": 124444,
       "num": 124444,
       "word": "贵州凯里 寻梦环游记",
@@ -54377,6 +54433,14 @@
       "onboard_time": 1745218041,
       "rank": 49,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 124388,
+      "num": 124388,
+      "word": "爱奇艺副总裁回应严浩翔当导师",
+      "onboard_time": 1745407223,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 124383,
@@ -54577,6 +54641,14 @@
       "onboard_time": 1745050701,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 123717,
+      "num": 123717,
+      "word": "一路繁花2",
+      "onboard_time": 1745406382,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 123714,
@@ -56985,6 +57057,14 @@
       "onboard_time": 1745385084,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 115271,
+      "num": 147777,
+      "word": "美方俄乌和平计划最终版详细内容",
+      "onboard_time": 1745405242,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 115245,
@@ -61523,6 +61603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 95005,
+      "num": 221568,
+      "word": "山东一轿车与货车碰撞后冲入银行",
+      "onboard_time": 1745405362,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94896,
       "num": 94896,
       "word": "快船vs勇士",
@@ -64545,6 +64633,14 @@
       "onboard_time": 1744709542,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 76802,
+      "num": 221688,
+      "word": "真正的豪华不是车标溢价",
+      "onboard_time": 1745406742,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 76785,
@@ -71771,6 +71867,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 40111,
+      "num": 222440,
+      "word": "龚俊独家逛展龚略",
+      "onboard_time": 1745406742,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 40041,
       "num": 211277,
       "word": "秦彻拍拍拍",
@@ -72592,6 +72696,14 @@
       "word": "员工拒绝调岗被违法开除获赔3万",
       "onboard_time": 1745134582,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36327,
+      "num": 249876,
+      "word": "仅退款退场对质量把关不能退",
+      "onboard_time": 1745406382,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -74683,6 +74795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26492,
+      "num": 222335,
+      "word": "一天睡十二个小时正常吗",
+      "onboard_time": 1745406082,
+      "rank": 18,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 26405,
       "num": 362964,
       "word": "钓鱼佬救起跳河小伙",
@@ -75921,6 +76041,14 @@
       "onboard_time": 1745260094,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 22292,
+      "num": 222271,
+      "word": "260人的投资群至少200个托",
+      "onboard_time": 1745406561,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22269,
@@ -77881,6 +78009,14 @@
       "onboard_time": 1743578962,
       "rank": 14,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 14697,
+      "num": 221632,
+      "word": "值得爱编剧回应是否有番外",
+      "onboard_time": 1745406983,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 14661,

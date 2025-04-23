@@ -1,0 +1,410 @@
+{
+  "runTime": 1745407295974,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 686534,
+        "num": 1109845,
+        "word": "中方回应特朗普称或将大幅降低对华关税",
+        "onboard_time": 1745395942,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 581539,
+        "num": 581539,
+        "word": "董明珠再点名小米汽车",
+        "onboard_time": 1745398642,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 27133,
+        "num": 523678,
+        "word": "何以中国看福建",
+        "onboard_time": 1745403442,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 610083,
+        "num": 519223,
+        "word": "孙颖莎发文感谢刘国梁",
+        "onboard_time": 1745395282,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 484420,
+        "num": 484420,
+        "word": "刘国梁辞职",
+        "onboard_time": 1745372301,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 537925,
+        "num": 478011,
+        "word": "刘国梁泪洒会场",
+        "onboard_time": 1745406322,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 438815,
+        "num": 438815,
+        "word": "特朗普认怂了",
+        "onboard_time": 1745374043,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 352797,
+        "num": 352797,
+        "word": "谁给那英报的名",
+        "onboard_time": 1745400742,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294148,
+        "num": 294148,
+        "word": "打奉陪到底谈大门敞开",
+        "onboard_time": 1745397382,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 36327,
+        "num": 249876,
+        "word": "仅退款退场对质量把关不能退",
+        "onboard_time": 1745406382,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244790,
+        "num": 244790,
+        "word": "白鹿憋笑",
+        "onboard_time": 1745404044,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241505,
+        "num": 241505,
+        "word": "谢娜录的新综艺原来是姐姐当家",
+        "onboard_time": 1745401462,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222724,
+        "num": 222724,
+        "word": "逍遥 赵丽颖",
+        "onboard_time": 1745394562,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220285,
+        "num": 222720,
+        "word": "狐妖小红娘王权篇",
+        "onboard_time": 1745393242,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165244,
+        "num": 222628,
+        "word": "杭州保姆一声吼保住东家355万",
+        "onboard_time": 1745405962,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1048553,
+        "num": 222566,
+        "word": "迪丽热巴戴了唇钉",
+        "onboard_time": 1745400383,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 124461,
+        "num": 222493,
+        "word": "手机大电池重要还是快充重要",
+        "onboard_time": 1745406742,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 40111,
+        "num": 222440,
+        "word": "龚俊独家逛展龚略",
+        "onboard_time": 1745406742,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26492,
+        "num": 222335,
+        "word": "一天睡十二个小时正常吗",
+        "onboard_time": 1745406082,
+        "rank": 18,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 22292,
+        "num": 222271,
+        "word": "260人的投资群至少200个托",
+        "onboard_time": 1745406561,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 495880,
+        "num": 222199,
+        "word": "这是苍井优这是她老公",
+        "onboard_time": 1745397742,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278444,
+        "num": 222169,
+        "word": "马龙乒协副主席",
+        "onboard_time": 1745372422,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 264506,
+        "num": 222071,
+        "word": "中方回应特朗普承认对华关税太高",
+        "onboard_time": 1745397622,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 7865537,
+        "num": 7865537,
+        "word": "石凯 订过婚",
+        "onboard_time": 1745402903,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329712,
+        "num": 221926,
+        "word": "王曼昱发博感谢刘国梁",
+        "onboard_time": 1745402122,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213126,
+        "num": 221863,
+        "word": "何瑞贤主演",
+        "onboard_time": 1745397922,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150078,
+        "num": 221809,
+        "word": "张杰谢娜带3个女儿逛街",
+        "onboard_time": 1745395162,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283918,
+        "num": 221730,
+        "word": "日女算我求你们了好吗",
+        "onboard_time": 1745390002,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76802,
+        "num": 221688,
+        "word": "真正的豪华不是车标溢价",
+        "onboard_time": 1745406742,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 14697,
+        "num": 221632,
+        "word": "值得爱编剧回应是否有番外",
+        "onboard_time": 1745406983,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95005,
+        "num": 221568,
+        "word": "山东一轿车与货车碰撞后冲入银行",
+        "onboard_time": 1745405362,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235014,
+        "num": 221514,
+        "word": "医生举报3岁男童疑遭生父虐待",
+        "onboard_time": 1745401824,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221459,
+        "num": 221459,
+        "word": "土耳其6.2级地震",
+        "onboard_time": 1745405422,
+        "rank": 32,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 178954,
+        "num": 178954,
+        "word": "2岁男童被热油烫伤父亲后悔直扇脸",
+        "onboard_time": 1745401134,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175971,
+        "num": 175971,
+        "word": "发现不内耗的人都是榴莲型人格",
+        "onboard_time": 1745401255,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 172129,
+        "num": 172129,
+        "word": "马龙孙颖莎王曼昱王楚钦最新采访",
+        "onboard_time": 1745393421,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157000,
+        "num": 157000,
+        "word": "女子拉黑病夫待逝后要全部遗产",
+        "onboard_time": 1745399062,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146803,
+        "num": 156448,
+        "word": "黄灿灿在成家里也甜甜的",
+        "onboard_time": 1745403323,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156236,
+        "num": 156236,
+        "word": "王励勤曾邀请樊振东加入上海队",
+        "onboard_time": 1745405663,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148088,
+        "num": 148088,
+        "word": "京东外卖在哪 搞了半天注册成骑手了",
+        "onboard_time": 1745400383,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115271,
+        "num": 147777,
+        "word": "美方俄乌和平计划最终版详细内容",
+        "onboard_time": 1745405242,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 147581,
+        "num": 147581,
+        "word": "王曼昱相信国乒会再创辉煌",
+        "onboard_time": 1745406623,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145571,
+        "num": 145571,
+        "word": "40岁男子应酬喝酒后独自在酒店猝死",
+        "onboard_time": 1745396901,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137558,
+        "num": 137558,
+        "word": "韩安冉不让婆婆住家里",
+        "onboard_time": 1745393183,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 136000,
+        "num": 136000,
+        "word": "董明珠卸任格力电器总裁",
+        "onboard_time": 1745403864,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 133579,
+        "num": 133579,
+        "word": "张云龙被刘诗诗一句话硬控6小时",
+        "onboard_time": 1745401703,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131365,
+        "num": 131365,
+        "word": "饮用水界劳斯莱斯一瓶售价988元",
+        "onboard_time": 1745399482,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126336,
+        "num": 126336,
+        "word": "我给鞠婧祎拍的撕拉片",
+        "onboard_time": 1745406803,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 124388,
+        "num": 124388,
+        "word": "爱奇艺副总裁回应严浩翔当导师",
+        "onboard_time": 1745407223,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123717,
+        "num": 123717,
+        "word": "一路繁花2",
+        "onboard_time": 1745406382,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#巩固发展坚如磐石的军政军民团结#"
+    }
+  }
+}
