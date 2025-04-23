@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/23 17:41:06
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/23 18:28:33
 </p>
 </blockquote>
 <p>
@@ -107,6 +107,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%88%9A%E8%A2%AB%E9%80%AE%E6%8D%95%23" target="weibo">
 李刚被逮捕（热度：10072261）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9F%B3%E5%87%AF%20%E8%AE%A2%E8%BF%87%E5%A9%9A%23" target="weibo">
+石凯 订过婚（热度：8920967）
 </a>
 </li>
 
@@ -3339,6 +3345,12 @@ DeepSeek7小时攻克缅甸救灾语言关（热度：1104741）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%88%B4%E4%BA%86%E5%94%87%E9%92%89%23" target="weibo">
+迪丽热巴戴了唇钉（热度：1063790）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E6%A8%A1%E4%BB%BF%E8%8B%A6%E5%B0%BD%E6%9F%91%E6%9D%A5%E9%87%91%E5%AE%A3%E8%99%8E%E7%AC%91%23" target="weibo">
 白鹿模仿苦尽柑来金宣虎笑（热度：1063349）
 </a>
@@ -5853,6 +5865,12 @@ TVB男演员陈键锋学厨以第一名毕业（热度：726197）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E6%98%8E%E7%8F%A0%E5%86%8D%E7%82%B9%E5%90%8D%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%23" target="weibo">
+董明珠再点名小米汽车（热度：721054）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%A5%E6%B5%A9%E7%BF%94%E8%AF%B4%E6%9C%89diss%E6%98%AF%E5%BE%88%E6%AD%A3%E5%B8%B8%E7%9A%84%E4%BA%8B%23" target="weibo">
 严浩翔说有diss是很正常的事（热度：720758）
 </a>
@@ -5993,24 +6011,6 @@ TVB男演员陈键锋学厨以第一名毕业（热度：726197）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%9B%BD%E6%AD%A3%E8%AF%B4%E9%9B%A8%E6%9E%9C%E5%AE%8C%E5%85%A8%E6%98%AF%E6%8B%BC%E5%88%BA%E5%88%80%E6%89%93%E6%B3%95%23" target="weibo">
 刘国正说雨果完全是拼刺刀打法（热度：712373）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B7%98%E5%AE%9D%E5%B4%A9%E4%BA%86%23" target="weibo">
-淘宝崩了（热度：711442）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%B8%80%E6%A0%B9%E5%A4%B4%E5%8F%91%E5%8F%AF%E4%BB%A5%E5%88%86%E5%8F%89%E8%BF%99%E4%B9%88%E5%A4%9A%23" target="weibo">
-原来一根头发可以分叉这么多（热度：711417）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%BD%E8%8E%B1%E5%9D%9E%E7%A9%BA%E5%89%8D%E7%B4%A7%E5%BC%A0%23" target="weibo">
-好莱坞空前紧张（热度：711207）
 </a>
 </li>
 

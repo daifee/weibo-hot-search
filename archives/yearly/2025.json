@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1745401266131,
+  "endTime": 1745404113021,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -705,6 +705,14 @@
       "onboard_time": 1736513302,
       "rank": 0,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 8920967,
+      "num": 8920967,
+      "word": "石凯 订过婚",
+      "onboard_time": 1745402903,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 8884094,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1735988782,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 2992374,
-      "num": 2992374,
-      "word": "王曼昱亚洲杯冠军",
-      "onboard_time": 1740313522,
-      "rank": 1,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
