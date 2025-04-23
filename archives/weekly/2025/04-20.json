@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745436976363,
+  "endTime": 1745440077477,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -15539,6 +15539,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 13446,
+      "num": 14528,
+      "word": "正当防卫",
+      "onboard_time": 1745430256,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 13298,
       "num": 18487,
       "word": "奥斯塔彭科六连胜斯瓦泰克",
@@ -15643,6 +15651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 11628,
+      "num": 14527,
+      "word": "肖战热爱填充生活点滴",
+      "onboard_time": 1745439074,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 11623,
       "num": 190640,
       "word": "光线传媒利润暴增的推动力是什么",
@@ -15667,12 +15683,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 11337,
+      "num": 20779,
+      "word": "中国阿塞拜疆互免签证",
+      "onboard_time": 1745437154,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 11293,
       "num": 84720,
       "word": "一代人有一代人的动物世界",
       "onboard_time": 1745253380,
       "rank": 39,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 10980,
+      "num": 14522,
+      "word": "王励勤曾位居世排第一长达54个月",
+      "onboard_time": 1745439675,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 10833,
+      "num": 14521,
+      "word": "周深做好自己请我不改",
+      "onboard_time": 1745431514,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 10772,
