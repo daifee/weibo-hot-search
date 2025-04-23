@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/23 20:50:12
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/23 21:04:51
 </p>
 </blockquote>
 <p>
@@ -3267,6 +3267,12 @@ DeepSeek7小时攻克缅甸救灾语言关（热度：1104741）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A480%E5%85%83%E7%A5%A8%E5%8F%AA%E8%83%BD%E7%9C%8B%E5%A4%A7%E5%B1%8F%23" target="weibo">
+周杰伦演唱会480元票只能看大屏（热度：1094472）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%89%E4%B9%8C%E8%80%81%E6%9D%BF%E5%A8%98%E9%9C%B8%E6%B0%94%E5%96%8A%E8%AF%9D%E7%BE%8E%E5%9B%BD%E5%AE%A2%E6%88%B7%23" target="weibo">
 义乌老板娘霸气喊话美国客户（热度：1094148）
 </a>
@@ -3503,12 +3509,6 @@ IU向雪莉金赛纶推荐同一心理医生（热度：1041446）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%95%23" target="weibo">
 唐朝诡事录（热度：1040916）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A480%E5%85%83%E7%A5%A8%E5%8F%AA%E8%83%BD%E7%9C%8B%E5%A4%A7%E5%B1%8F%23" target="weibo">
-周杰伦演唱会480元票只能看大屏（热度：1040369）
 </a>
 </li>
 
