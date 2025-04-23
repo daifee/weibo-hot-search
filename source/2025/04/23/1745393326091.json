@@ -1,0 +1,410 @@
+{
+  "runTime": 1745393326091,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1219353,
+        "num": 1219353,
+        "word": "黄金再涨普通人也不能干的三件事",
+        "onboard_time": 1745382505,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1031372,
+        "num": 1031372,
+        "word": "特朗普认怂了",
+        "onboard_time": 1745374043,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 61745,
+        "num": 959711,
+        "word": "廖俊波说自己是全镇最小的人",
+        "onboard_time": 1745385084,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 957563,
+        "num": 957563,
+        "word": "刘国梁辞职",
+        "onboard_time": 1745372301,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 748718,
+        "num": 748718,
+        "word": "向太 今天抓了好多只大鹅",
+        "onboard_time": 1745389102,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 610058,
+        "num": 610058,
+        "word": "国乒再现二王一马新篇章",
+        "onboard_time": 1745389882,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 575730,
+        "num": 575730,
+        "word": "男子被女友逼写百万借条未还被起诉",
+        "onboard_time": 1745386702,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 478363,
+        "num": 478363,
+        "word": "美国人以拍照为由骗走中国文物",
+        "onboard_time": 1745390783,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 403594,
+        "num": 473490,
+        "word": "歌手2025",
+        "onboard_time": 1745388262,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 416684,
+        "num": 469662,
+        "word": "两国总统同晚抵达北京",
+        "onboard_time": 1745389521,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1483308,
+        "num": 465781,
+        "word": "日女算我求你们了好吗",
+        "onboard_time": 1745390002,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 601368,
+        "num": 456378,
+        "word": "马龙谈刘国梁辞职",
+        "onboard_time": 1745384664,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 542358,
+        "num": 452271,
+        "word": "白宫宣称与中国达成贸易协议进展顺利",
+        "onboard_time": 1745384544,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 143549,
+        "num": 446498,
+        "word": "足金饰品一夜下跌27元每克",
+        "onboard_time": 1745392281,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 512527,
+        "num": 438645,
+        "word": "Prada魔咒",
+        "onboard_time": 1745381784,
+        "rank": 14,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 437051,
+        "num": 437051,
+        "word": "特朗普承认对华145%关税过高",
+        "onboard_time": 1745380344,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 321215,
+        "num": 435550,
+        "word": "唐朝诡事录",
+        "onboard_time": 1745378184,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 263016,
+        "num": 434283,
+        "word": "2025爱奇艺狂砸19个新综",
+        "onboard_time": 1745391983,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104473,
+        "num": 429670,
+        "word": "马自达EZ60全球首发",
+        "onboard_time": 1745391922,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 82524,
+        "num": 427194,
+        "word": "哪个地区仅退款用户最多",
+        "onboard_time": 1745392942,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 35912,
+        "num": 426722,
+        "word": "蔚来萤火虫将进入海外16国销售",
+        "onboard_time": 1745389102,
+        "rank": 20,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 424327,
+        "num": 424327,
+        "word": "田中圭承认与永野芽郁同居但否认恋情",
+        "onboard_time": 1745391803,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37234,
+        "num": 391227,
+        "word": "探险博主6年探了300多个洞穴",
+        "onboard_time": 1745391501,
+        "rank": 22,
+        "category": "旅游,民生新闻"
+      },
+      {
+        "raw_hot": 363522,
+        "num": 363522,
+        "word": "黄金价格",
+        "onboard_time": 1745376682,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 341773,
+        "num": 341773,
+        "word": "马龙乒协副主席",
+        "onboard_time": 1745372422,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 341232,
+        "num": 341232,
+        "word": "韩安冉不让婆婆住家里",
+        "onboard_time": 1745393183,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 317376,
+        "num": 317376,
+        "word": "迪丽热巴告了温如也",
+        "onboard_time": 1745380525,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229246,
+        "num": 229246,
+        "word": "现货黄金跌破3300美元",
+        "onboard_time": 1745393120,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 235555,
+        "num": 225589,
+        "word": "任嘉伦新剧和无忧渡是同一个编剧",
+        "onboard_time": 1745392221,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179491,
+        "num": 218470,
+        "word": "肖战 走入人群隐于街头",
+        "onboard_time": 1745385443,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200750,
+        "num": 212410,
+        "word": "王励勤说不一定成绩差就一无是处",
+        "onboard_time": 1745389821,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 237534,
+        "num": 209118,
+        "word": "金靖没有张凌赫保护但有迪丽热巴",
+        "onboard_time": 1745387842,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206210,
+        "num": 206210,
+        "word": "整个上海都在为孙颖莎打call",
+        "onboard_time": 1745392401,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201986,
+        "num": 201986,
+        "word": "马斯克说正与中国协商稀土出口",
+        "onboard_time": 1745390362,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 200958,
+        "num": 200958,
+        "word": "杨毅盼王楚钦成为真正的冠军",
+        "onboard_time": 1745390783,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193160,
+        "num": 193160,
+        "word": "樊振东 王励勤",
+        "onboard_time": 1745374522,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173495,
+        "num": 173495,
+        "word": "鹿晗 关晓彤",
+        "onboard_time": 1745367622,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172265,
+        "num": 172265,
+        "word": "云襄传",
+        "onboard_time": 1745390423,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172233,
+        "num": 172233,
+        "word": "文春曝永野芽郁脚踏两条船",
+        "onboard_time": 1745379503,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 6597,
+        "num": 165408,
+        "word": "好奇号拍摄的火星夜空",
+        "onboard_time": 1745393242,
+        "rank": 39,
+        "category": "科学科普,民生新闻"
+      },
+      {
+        "raw_hot": 71696,
+        "num": 165371,
+        "word": "有人挪用消费贷炒金",
+        "onboard_time": 1745391262,
+        "rank": 40,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 165355,
+        "num": 165355,
+        "word": "风月不相关",
+        "onboard_time": 1745389162,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156378,
+        "num": 156378,
+        "word": "刘国梁回应辞职",
+        "onboard_time": 1745374763,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152305,
+        "num": 152305,
+        "word": "狐妖小红娘王权篇",
+        "onboard_time": 1745393242,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149290,
+        "num": 149290,
+        "word": "特朗普预计对华关税将大幅降低",
+        "onboard_time": 1745371880,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 135748,
+        "num": 135748,
+        "word": "马龙曾说洛杉矶奥运会自己可以去做饭",
+        "onboard_time": 1745393183,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134488,
+        "num": 134488,
+        "word": "赛里木湖",
+        "onboard_time": 1745392221,
+        "rank": 46,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 127386,
+        "num": 127386,
+        "word": "从前是姐夫以后便是丈夫了",
+        "onboard_time": 1745381845,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126468,
+        "num": 126468,
+        "word": "王励勤是樊振东奥运夺冠幕后功臣",
+        "onboard_time": 1745383464,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123049,
+        "num": 123049,
+        "word": "网贷3000元1个月后被要求还30000",
+        "onboard_time": 1745381124,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#形成爱读书读好书善读书的浓厚氛围#"
+    }
+  }
+}

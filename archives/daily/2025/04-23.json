@@ -1,6 +1,6 @@
 {
   "startTime": 1745339463299,
-  "endTime": 1745390892202,
+  "endTime": 1745393326091,
   "band_list": [
     {
       "raw_hot": 12205626,
@@ -73,6 +73,14 @@
       "onboard_time": 1745334204,
       "rank": 0,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1483308,
+      "num": 465781,
+      "word": "日女算我求你们了好吗",
+      "onboard_time": 1745390002,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 1384403,
@@ -243,6 +251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 610058,
+      "num": 610058,
+      "word": "国乒再现二王一马新篇章",
+      "onboard_time": 1745389882,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 600496,
       "num": 503158,
       "word": "刘国梁曾说找不到理由折腾王励勤",
@@ -315,6 +331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 478363,
+      "num": 478363,
+      "word": "美国人以拍照为由骗走中国文物",
+      "onboard_time": 1745390783,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 473435,
       "num": 473435,
       "word": "网贷3000元1个月后被要求还30000",
@@ -332,7 +356,7 @@
     },
     {
       "raw_hot": 469451,
-      "num": 469451,
+      "num": 473490,
       "word": "歌手2025",
       "onboard_time": 1745388262,
       "rank": 9,
@@ -363,12 +387,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 424327,
+      "num": 424327,
+      "word": "田中圭承认与永野芽郁同居但否认恋情",
+      "onboard_time": 1745391803,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 420288,
       "num": 587549,
       "word": "美股市场已成爆炸区",
       "onboard_time": 1745359755,
       "rank": 7,
       "category": "财经"
+    },
+    {
+      "raw_hot": 416684,
+      "num": 469662,
+      "word": "两国总统同晚抵达北京",
+      "onboard_time": 1745389521,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 412812,
@@ -427,14 +467,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 364125,
-      "num": 364125,
-      "word": "两国总统同晚抵达北京",
-      "onboard_time": 1745389521,
-      "rank": 23,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 358502,
       "num": 444372,
       "word": "双轨",
@@ -459,20 +491,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 341232,
+      "num": 341232,
+      "word": "韩安冉不让婆婆住家里",
+      "onboard_time": 1745393183,
+      "rank": 25,
+      "category": "网红"
+    },
+    {
       "raw_hot": 337512,
       "num": 337512,
       "word": "神二十任务发布会",
       "onboard_time": 1745369062,
       "rank": 27,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 337064,
-      "num": 376267,
-      "word": "国乒再现二王一马新篇章",
-      "onboard_time": 1745389882,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 332913,
@@ -520,14 +552,6 @@
       "word": "杨天真瘦好多",
       "onboard_time": 1745379624,
       "rank": 22,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 319476,
-      "num": 319476,
-      "word": "日女算我求你们了好吗",
-      "onboard_time": 1745390002,
-      "rank": 42,
       "category": "艺人"
     },
     {
@@ -659,6 +683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 263016,
+      "num": 434283,
+      "word": "2025爱奇艺狂砸19个新综",
+      "onboard_time": 1745391983,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 260379,
       "num": 260379,
       "word": "陈冬时隔2年再次担任指令长",
@@ -687,6 +719,22 @@
       "num": 328797,
       "word": "伊能静也觉得秦昊和钟楚曦好配",
       "onboard_time": 1745381365,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 237534,
+      "num": 228383,
+      "word": "金靖没有张凌赫保护但有迪丽热巴",
+      "onboard_time": 1745387842,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 235555,
+      "num": 225589,
+      "word": "任嘉伦新剧和无忧渡是同一个编剧",
+      "onboard_time": 1745392221,
       "rank": 28,
       "category": "剧集"
     },
@@ -723,20 +771,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 229246,
+      "num": 229246,
+      "word": "现货黄金跌破3300美元",
+      "onboard_time": 1745393120,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 228782,
       "num": 228782,
       "word": "绝区零",
       "onboard_time": 1745377826,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 228383,
-      "num": 228383,
-      "word": "金靖没有张凌赫保护但有迪丽热巴",
-      "onboard_time": 1745387842,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 227358,
@@ -867,6 +915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206210,
+      "num": 206210,
+      "word": "整个上海都在为孙颖莎打call",
+      "onboard_time": 1745392401,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 205564,
       "num": 205564,
       "word": "王源演唱会广州站官宣",
@@ -923,12 +979,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201986,
+      "num": 387913,
+      "word": "马斯克说正与中国协商稀土出口",
+      "onboard_time": 1745390362,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 201844,
       "num": 201844,
       "word": "赵丽颖新剧90秒6个危险镜头",
       "onboard_time": 1745385922,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200958,
+      "num": 200958,
+      "word": "杨毅盼王楚钦成为真正的冠军",
+      "onboard_time": 1745390783,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 199380,
@@ -1227,6 +1299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152305,
+      "num": 152305,
+      "word": "狐妖小红娘王权篇",
+      "onboard_time": 1745393242,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151438,
       "num": 381998,
       "word": "15万级轿车颜值天花板来了",
@@ -1259,20 +1339,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 146771,
-      "num": 146771,
-      "word": "杨毅盼王楚钦成为真正的冠军",
-      "onboard_time": 1745390783,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 146239,
       "num": 146239,
       "word": "商户往猪肉丸里加硼砂销售4000斤获刑",
       "onboard_time": 1745364198,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143549,
+      "num": 446498,
+      "word": "足金饰品一夜下跌27元每克",
+      "onboard_time": 1745392281,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 142940,
@@ -1331,6 +1411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135748,
+      "num": 135748,
+      "word": "马龙曾说洛杉矶奥运会自己可以去做饭",
+      "onboard_time": 1745393183,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134799,
       "num": 134799,
       "word": "39岁网红串哥因病去世",
@@ -1339,12 +1427,12 @@
       "category": "网红,民生新闻"
     },
     {
-      "raw_hot": 131198,
-      "num": 178917,
-      "word": "美国人以拍照为由骗走中国文物",
-      "onboard_time": 1745390783,
-      "rank": 34,
-      "category": "民生新闻"
+      "raw_hot": 134488,
+      "num": 134488,
+      "word": "赛里木湖",
+      "onboard_time": 1745392221,
+      "rank": 46,
+      "category": "旅游"
     },
     {
       "raw_hot": 131168,
@@ -1515,6 +1603,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 104473,
+      "num": 429670,
+      "word": "马自达EZ60全球首发",
+      "onboard_time": 1745391922,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 102711,
       "num": 143895,
       "word": "无忧渡",
@@ -1611,6 +1707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 82524,
+      "num": 427194,
+      "word": "哪个地区仅退款用户最多",
+      "onboard_time": 1745392942,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 82365,
       "num": 462101,
       "word": "杭州脑瘫女骑手谈为何决定送外卖",
@@ -1697,6 +1801,14 @@
       "onboard_time": 1745329522,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 71696,
+      "num": 165371,
+      "word": "有人挪用消费贷炒金",
+      "onboard_time": 1745391262,
+      "rank": 40,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 70348,
@@ -2019,6 +2131,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 37234,
+      "num": 391227,
+      "word": "探险博主6年探了300多个洞穴",
+      "onboard_time": 1745391501,
+      "rank": 22,
+      "category": "旅游,民生新闻"
+    },
+    {
       "raw_hot": 37134,
       "num": 83087,
       "word": "人民海军成立七十六周年",
@@ -2065,14 +2185,6 @@
       "onboard_time": 1745343256,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 32840,
-      "num": 387913,
-      "word": "马斯克说正与中国协商稀土出口",
-      "onboard_time": 1745390362,
-      "rank": 17,
-      "category": "国际时政"
     },
     {
       "raw_hot": 29846,
@@ -2257,6 +2369,14 @@
       "onboard_time": 1745373684,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 6597,
+      "num": 165408,
+      "word": "好奇号拍摄的火星夜空",
+      "onboard_time": 1745393242,
+      "rank": 39,
+      "category": "科学科普,民生新闻"
     }
   ],
   "hotgov_list": [
