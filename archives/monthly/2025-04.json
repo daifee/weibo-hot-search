@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1745430068602,
+  "endTime": 1745433335693,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -77307,6 +77307,14 @@
       "category": "情感,民生新闻"
     },
     {
+      "raw_hot": 21082,
+      "num": 22994,
+      "word": "狐妖小红娘王权篇预告",
+      "onboard_time": 1745431816,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 21077,
       "num": 135270,
       "word": "生活常用物品的维修技巧",
@@ -77643,6 +77651,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 19642,
+      "num": 22968,
+      "word": "遇人不熟",
+      "onboard_time": 1745432655,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 19636,
       "num": 152801,
       "word": "为宠物打官司的人",
@@ -77761,6 +77777,14 @@
       "onboard_time": 1744170383,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 19323,
+      "num": 22942,
+      "word": "被丁程鑫新歌花絮美了一跳",
+      "onboard_time": 1745432416,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 19276,
@@ -78297,6 +78321,14 @@
       "onboard_time": 1744513281,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 17717,
+      "num": 22932,
+      "word": "凌晨被锁在韩国图书馆的5个小时",
+      "onboard_time": 1745433195,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 17688,
@@ -80353,6 +80385,14 @@
       "onboard_time": 1743865823,
       "rank": 39,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 9258,
+      "num": 157962,
+      "word": "第四届全民阅读大会",
+      "onboard_time": 1745417482,
+      "rank": 2,
+      "category": "读书作家"
     },
     {
       "raw_hot": 9252,

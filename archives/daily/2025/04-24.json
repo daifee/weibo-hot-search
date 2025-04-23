@@ -1,6 +1,6 @@
 {
   "startTime": 1745425908553,
-  "endTime": 1745430068602,
+  "endTime": 1745433335693,
   "band_list": [
     {
       "raw_hot": 1844906,
@@ -435,6 +435,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 35481,
+      "num": 35481,
+      "word": "大侦探",
+      "onboard_time": 1745429776,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 32143,
       "num": 37377,
       "word": "时代少年团新专概念片",
@@ -451,12 +459,52 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 27032,
-      "num": 27032,
-      "word": "大侦探",
-      "onboard_time": 1745429776,
-      "rank": 49,
-      "category": "综艺"
+      "raw_hot": 23191,
+      "num": 23191,
+      "word": "权志龙秒删标记sana帖子",
+      "onboard_time": 1745409981,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 21082,
+      "num": 22994,
+      "word": "狐妖小红娘王权篇预告",
+      "onboard_time": 1745431816,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 19642,
+      "num": 22968,
+      "word": "遇人不熟",
+      "onboard_time": 1745432655,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 19323,
+      "num": 22942,
+      "word": "被丁程鑫新歌花絮美了一跳",
+      "onboard_time": 1745432416,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 17717,
+      "num": 22932,
+      "word": "凌晨被锁在韩国图书馆的5个小时",
+      "onboard_time": 1745433195,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 9258,
+      "num": 157962,
+      "word": "第四届全民阅读大会",
+      "onboard_time": 1745417482,
+      "rank": 2,
+      "category": "读书作家"
     },
     {
       "raw_hot": 5746,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/24 00:31:48 ~ 2025/04/24 01:41:08
+本榜单时间：2025/04/24 00:31:48 ~ 2025/04/24 02:35:35
 </p>
 </blockquote>
 <p>
@@ -339,6 +339,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E4%BE%A6%E6%8E%A2%23" target="weibo">
+大侦探（热度：35481）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%96%B0%E4%B8%93%E6%A6%82%E5%BF%B5%E7%89%87%23" target="weibo">
 时代少年团新专概念片（热度：32143）
 </a>
@@ -351,8 +357,38 @@ TES（热度：27237）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E4%BE%A6%E6%8E%A2%23" target="weibo">
-大侦探（热度：27032）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99%E7%A7%92%E5%88%A0%E6%A0%87%E8%AE%B0sana%E5%B8%96%E5%AD%90%23" target="weibo">
+权志龙秒删标记sana帖子（热度：23191）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8B%90%E5%A6%96%E5%B0%8F%E7%BA%A2%E5%A8%98%E7%8E%8B%E6%9D%83%E7%AF%87%E9%A2%84%E5%91%8A%23" target="weibo">
+狐妖小红娘王权篇预告（热度：21082）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%81%87%E4%BA%BA%E4%B8%8D%E7%86%9F%23" target="weibo">
+遇人不熟（热度：19642）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E4%B8%81%E7%A8%8B%E9%91%AB%E6%96%B0%E6%AD%8C%E8%8A%B1%E7%B5%AE%E7%BE%8E%E4%BA%86%E4%B8%80%E8%B7%B3%23" target="weibo">
+被丁程鑫新歌花絮美了一跳（热度：19323）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%87%8C%E6%99%A8%E8%A2%AB%E9%94%81%E5%9C%A8%E9%9F%A9%E5%9B%BD%E5%9B%BE%E4%B9%A6%E9%A6%86%E7%9A%845%E4%B8%AA%E5%B0%8F%E6%97%B6%23" target="weibo">
+凌晨被锁在韩国图书馆的5个小时（热度：17717）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E5%9B%9B%E5%B1%8A%E5%85%A8%E6%B0%91%E9%98%85%E8%AF%BB%E5%A4%A7%E4%BC%9A%23" target="weibo">
+第四届全民阅读大会（热度：9258）
 </a>
 </li>
 

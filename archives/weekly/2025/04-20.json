@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745430068602,
+  "endTime": 1745433335693,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -14019,6 +14019,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 35481,
+      "num": 35481,
+      "word": "大侦探",
+      "onboard_time": 1745429776,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 35102,
       "num": 42079,
       "word": "堪称神来之笔的名著开头结尾",
@@ -14451,14 +14459,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 27032,
-      "num": 27032,
-      "word": "大侦探",
-      "onboard_time": 1745429776,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 26990,
       "num": 185450,
       "word": "广西需警惕旱涝急转",
@@ -14883,6 +14883,14 @@
       "category": "情感,民生新闻"
     },
     {
+      "raw_hot": 21082,
+      "num": 22994,
+      "word": "狐妖小红娘王权篇预告",
+      "onboard_time": 1745431816,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 21047,
       "num": 118804,
       "word": "一口气了解瑞士经济",
@@ -15003,6 +15011,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 19642,
+      "num": 22968,
+      "word": "遇人不熟",
+      "onboard_time": 1745432655,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 19591,
       "num": 212031,
       "word": "无氧运动好还是有氧运动好",
@@ -15025,6 +15041,14 @@
       "onboard_time": 1745238203,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 19323,
+      "num": 22942,
+      "word": "被丁程鑫新歌花絮美了一跳",
+      "onboard_time": 1745432416,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 19168,
@@ -15121,6 +15145,14 @@
       "onboard_time": 1745406983,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 17717,
+      "num": 22932,
+      "word": "凌晨被锁在韩国图书馆的5个小时",
+      "onboard_time": 1745433195,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 17633,
@@ -15713,6 +15745,14 @@
       "onboard_time": 1745311282,
       "rank": 18,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 9258,
+      "num": 157962,
+      "word": "第四届全民阅读大会",
+      "onboard_time": 1745417482,
+      "rank": 2,
+      "category": "读书作家"
     },
     {
       "raw_hot": 9225,
