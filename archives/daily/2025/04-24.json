@@ -1,6 +1,6 @@
 {
   "startTime": 1745425908553,
-  "endTime": 1745440861866,
+  "endTime": 1745443418251,
   "band_list": [
     {
       "raw_hot": 1844906,
@@ -483,6 +483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 22015,
+      "num": 23793,
+      "word": "美国制造业回流了吗",
+      "onboard_time": 1745440694,
+      "rank": 48,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 21082,
       "num": 22994,
       "word": "狐妖小红娘王权篇预告",
@@ -507,6 +515,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 16239,
+      "num": 16772,
+      "word": "王励勤曾位居世排第一长达54个月",
+      "onboard_time": 1745439675,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 16018,
       "num": 17023,
       "word": "王一博要穿越美洲",
@@ -523,7 +539,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 13446,
+      "raw_hot": 13984,
       "num": 16684,
       "word": "正当防卫",
       "onboard_time": 1745430256,
@@ -539,12 +555,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 12277,
-      "num": 16772,
-      "word": "王励勤曾位居世排第一长达54个月",
-      "onboard_time": 1745439675,
-      "rank": 48,
-      "category": "体育"
+      "raw_hot": 12368,
+      "num": 16733,
+      "word": "烟花少年",
+      "onboard_time": 1745431695,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 12144,
@@ -561,22 +577,6 @@
       "onboard_time": 1745439074,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 11504,
-      "num": 16733,
-      "word": "烟花少年",
-      "onboard_time": 1745431695,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 11158,
-      "num": 16703,
-      "word": "美国制造业回流了吗",
-      "onboard_time": 1745440694,
-      "rank": 48,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 10833,
