@@ -1,0 +1,410 @@
+{
+  "runTime": 1745377725186,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9922072,
+        "num": 9922072,
+        "word": "刘国梁辞职",
+        "onboard_time": 1745372301,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2111950,
+        "num": 2111950,
+        "word": "刘国梁回应辞职",
+        "onboard_time": 1745374763,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16819,
+        "num": 1815865,
+        "word": "广东高质量活力向未来",
+        "onboard_time": 1745330003,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1771986,
+        "num": 1771986,
+        "word": "特朗普认怂了",
+        "onboard_time": 1745374043,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1568644,
+        "num": 1568644,
+        "word": "樊振东 王励勤",
+        "onboard_time": 1745374522,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1316360,
+        "num": 1316360,
+        "word": "马龙乒协副主席",
+        "onboard_time": 1745372422,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1275940,
+        "num": 1275940,
+        "word": "特朗普预计对华关税将大幅降低",
+        "onboard_time": 1745371880,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 520520,
+        "num": 520520,
+        "word": "黄金巨震",
+        "onboard_time": 1745364198,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 501587,
+        "num": 501587,
+        "word": "淮水竹亭",
+        "onboard_time": 1745371281,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 464944,
+        "num": 464944,
+        "word": "陈哲远新剧初吻戏不是亲女主",
+        "onboard_time": 1745375722,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 535544,
+        "num": 464772,
+        "word": "王励勤简历",
+        "onboard_time": 1745375242,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 472580,
+        "num": 464677,
+        "word": "鹿晗 关晓彤",
+        "onboard_time": 1745367622,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 463486,
+        "num": 463486,
+        "word": "张继科说林诗栋气场还差了点",
+        "onboard_time": 1745375722,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 379119,
+        "num": 461644,
+        "word": "宋佳差点没认出杨天真",
+        "onboard_time": 1745373803,
+        "rank": 13,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 194184,
+        "num": 447664,
+        "word": "副主席马龙还会以运动员身份上场",
+        "onboard_time": 1745376803,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 321576,
+        "num": 444372,
+        "word": "双轨",
+        "onboard_time": 1745376383,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 291618,
+        "num": 427735,
+        "word": "陈晓新剧不怕商战怕孙千",
+        "onboard_time": 1745375722,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 291387,
+        "num": 426568,
+        "word": "临江仙",
+        "onboard_time": 1745377101,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60484,
+        "num": 417162,
+        "word": "全球首款CMP概念车ID. AURA来了",
+        "onboard_time": 1745376023,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 19228,
+        "num": 399408,
+        "word": "八段锦有哪些具体功效",
+        "onboard_time": 1745373503,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 399210,
+        "num": 399210,
+        "word": "神二十航天员乘组公布",
+        "onboard_time": 1745370681,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 329896,
+        "num": 329896,
+        "word": "筷子换一换胃癌少一半",
+        "onboard_time": 1745364739,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 316245,
+        "num": 316245,
+        "word": "王励勤当选中国乒协主席",
+        "onboard_time": 1745372301,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 303160,
+        "num": 303160,
+        "word": "航天员陈冬陈中瑞王杰",
+        "onboard_time": 1745371880,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 183537,
+        "num": 257702,
+        "word": "神二十瞄准4月24日17时17分发射",
+        "onboard_time": 1745376263,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 96478,
+        "num": 252568,
+        "word": "上海车展仰望放大招",
+        "onboard_time": 1745375002,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 252533,
+        "num": 252533,
+        "word": "家业",
+        "onboard_time": 1745374763,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243929,
+        "num": 243929,
+        "word": "樊振东凯迪拉克直播",
+        "onboard_time": 1745376623,
+        "rank": 27,
+        "category": "体育,汽车"
+      },
+      {
+        "raw_hot": 240017,
+        "num": 240017,
+        "word": "她用肚子踩缝纫机实现经济独立",
+        "onboard_time": 1745374763,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231863,
+        "num": 231863,
+        "word": "特朗普三次让步",
+        "onboard_time": 1745375722,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 222896,
+        "num": 222896,
+        "word": "王大陆部队表演画面",
+        "onboard_time": 1745368102,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204955,
+        "num": 204955,
+        "word": "黄金价格",
+        "onboard_time": 1745376682,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1351732,
+        "num": 204434,
+        "word": "明星月嫂发林允合照",
+        "onboard_time": 1745371640,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100071,
+        "num": 203890,
+        "word": "我们还需要纸质书吗",
+        "onboard_time": 1745369302,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203690,
+        "num": 203690,
+        "word": "淮水竹亭 抠图",
+        "onboard_time": 1745376623,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187694,
+        "num": 197869,
+        "word": "李沁新剧1分钟6种方式虐男主",
+        "onboard_time": 1745377282,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197848,
+        "num": 197848,
+        "word": "王一栩 淮水竹亭",
+        "onboard_time": 1745374283,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194095,
+        "num": 194095,
+        "word": "爱奇艺世界大会全员上号",
+        "onboard_time": 1745376682,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194073,
+        "num": 194073,
+        "word": "被质疑长相听障女生称微调过几处",
+        "onboard_time": 1745332822,
+        "rank": 38,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 184787,
+        "num": 184787,
+        "word": "李一桐新剧刚入戏就被捅了",
+        "onboard_time": 1745377223,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189457,
+        "num": 181920,
+        "word": "多年前的同学录突然明白了啥意思",
+        "onboard_time": 1745364139,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 177682,
+        "num": 177682,
+        "word": "微信加好友能加图片备注了",
+        "onboard_time": 1745334204,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 176939,
+        "num": 176939,
+        "word": "宫崎骏电影幽灵公主定档五一",
+        "onboard_time": 1745376923,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 175769,
+        "num": 175769,
+        "word": "幽灵公主",
+        "onboard_time": 1745376441,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 169660,
+        "num": 169660,
+        "word": "罚罪",
+        "onboard_time": 1745376441,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166742,
+        "num": 166742,
+        "word": "赴山海",
+        "onboard_time": 1745373744,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163711,
+        "num": 163711,
+        "word": "永野芽郁 田中圭",
+        "onboard_time": 1745331743,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160487,
+        "num": 160487,
+        "word": "家业首支片花",
+        "onboard_time": 1745374883,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159470,
+        "num": 159470,
+        "word": "生万物",
+        "onboard_time": 1745376143,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151405,
+        "num": 151405,
+        "word": "王励勤共斩获16个世界冠军",
+        "onboard_time": 1745375063,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#文明因交流而多彩因互鉴而丰富#"
+    }
+  }
+}
