@@ -1,0 +1,410 @@
+{
+  "runTime": 1745436073596,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 195484,
+        "num": 195484,
+        "word": "赵礼杰 女朋友",
+        "onboard_time": 1745423781,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 62405,
+        "num": 121528,
+        "word": "多名观众称被演唱会座椅扎伤",
+        "onboard_time": 1745411242,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8072,
+        "num": 98684,
+        "word": "第四届全民阅读大会",
+        "onboard_time": 1745417482,
+        "rank": 2,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 96262,
+        "num": 96262,
+        "word": "特朗普正为与中国达成协议做准备",
+        "onboard_time": 1745423962,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 55168,
+        "num": 55168,
+        "word": "名侦探学院",
+        "onboard_time": 1745424021,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37190,
+        "num": 51362,
+        "word": "王楠老公谈刘国梁辞职",
+        "onboard_time": 1745425579,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51360,
+        "num": 51360,
+        "word": "珠帘玉幕",
+        "onboard_time": 1745424381,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42552,
+        "num": 42552,
+        "word": "周杰伦演唱会480元票只能看大屏",
+        "onboard_time": 1745407342,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 39185,
+        "num": 39185,
+        "word": "大丽小幂",
+        "onboard_time": 1745417903,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27561,
+        "num": 39056,
+        "word": "中方回应特朗普称或将大幅降低对华关税",
+        "onboard_time": 1745395942,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 100129,
+        "num": 38581,
+        "word": "安静公主要二次手术",
+        "onboard_time": 1745425100,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 98676,
+        "num": 38337,
+        "word": "女子遭家暴逃跑致丈夫身亡案家属发声",
+        "onboard_time": 1745423962,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94051,
+        "num": 37843,
+        "word": "石凯与女友通话录音",
+        "onboard_time": 1745424980,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91879,
+        "num": 37703,
+        "word": "求锤得锤",
+        "onboard_time": 1745415862,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53742,
+        "num": 37303,
+        "word": "陈冠希得知秦舒培怀孕的反应",
+        "onboard_time": 1745414241,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36993,
+        "num": 36993,
+        "word": "迪丽热巴戴了唇钉",
+        "onboard_time": 1745400383,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 35623,
+        "num": 35623,
+        "word": "这是苍井优这是她老公",
+        "onboard_time": 1745397742,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32919,
+        "num": 32919,
+        "word": "景区回应李现人生照片打卡处被封",
+        "onboard_time": 1745424081,
+        "rank": 17,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 30431,
+        "num": 30431,
+        "word": "弘叶题石",
+        "onboard_time": 1745419763,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24132,
+        "num": 30404,
+        "word": "刘国梁泪洒会场",
+        "onboard_time": 1745406322,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 268958,
+        "num": 30250,
+        "word": "石凯 订过婚",
+        "onboard_time": 1745402903,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88788,
+        "num": 30109,
+        "word": "金价猛烈跳水",
+        "onboard_time": 1745421263,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 30798,
+        "num": 30004,
+        "word": "女子沉迷海缸两个月视力骤减100度",
+        "onboard_time": 1745425400,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29901,
+        "num": 29901,
+        "word": "金价",
+        "onboard_time": 1745419824,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 29531,
+        "num": 29531,
+        "word": "特朗普认怂了",
+        "onboard_time": 1745374043,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 29433,
+        "num": 29433,
+        "word": "女子抓隐翅虫没洗手摸眼睛致红肿",
+        "onboard_time": 1745433616,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24553,
+        "num": 29413,
+        "word": "大侦探",
+        "onboard_time": 1745429776,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24426,
+        "num": 29400,
+        "word": "关晓彤宣传新剧",
+        "onboard_time": 1745423241,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23954,
+        "num": 29385,
+        "word": "开始推理吧",
+        "onboard_time": 1745424021,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19635,
+        "num": 29345,
+        "word": "云南洱源县4.8级地震",
+        "onboard_time": 1745427078,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29345,
+        "num": 29344,
+        "word": "男子溃疡久不愈合查出舌癌",
+        "onboard_time": 1745424921,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27747,
+        "num": 27747,
+        "word": "凌晨被锁在韩国图书馆的5个小时",
+        "onboard_time": 1745433195,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 27038,
+        "num": 27038,
+        "word": "雷军每天免费送五千顶的帽子价值129元",
+        "onboard_time": 1745420123,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 25215,
+        "num": 25215,
+        "word": "贝森特",
+        "onboard_time": 1745424141,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21110,
+        "num": 21110,
+        "word": "徐冬冬只减120斤以上的肉肉",
+        "onboard_time": 1745419283,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20547,
+        "num": 20547,
+        "word": "权志龙秒删标记sana帖子",
+        "onboard_time": 1745409981,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19333,
+        "num": 19333,
+        "word": "多国领导人接连访华关键词是合作",
+        "onboard_time": 1745425159,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 19045,
+        "num": 19045,
+        "word": "京东外卖骑手8单赚98元",
+        "onboard_time": 1745407581,
+        "rank": 37,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 17615,
+        "num": 17615,
+        "word": "金湘军辞去山西省省长职务",
+        "onboard_time": 1745426060,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 17043,
+        "num": 17043,
+        "word": "TES",
+        "onboard_time": 1745417603,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 17025,
+        "num": 17025,
+        "word": "打奉陪到底谈大门敞开",
+        "onboard_time": 1745397382,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 16781,
+        "num": 17025,
+        "word": "权志龙曾经点赞过的女星",
+        "onboard_time": 1745416825,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16487,
+        "num": 17024,
+        "word": "湖南卫视连发20条谭松韵",
+        "onboard_time": 1745423962,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16360,
+        "num": 17024,
+        "word": "狐妖小红娘王权篇预告",
+        "onboard_time": 1745431816,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16111,
+        "num": 17023,
+        "word": "宁艺卓ELLE首封预告",
+        "onboard_time": 1745410162,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 16018,
+        "num": 17023,
+        "word": "王一博要穿越美洲",
+        "onboard_time": 1745430316,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15519,
+        "num": 17023,
+        "word": "南大学生回应食堂不供应西湖醋鱼",
+        "onboard_time": 1745420602,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15140,
+        "num": 17023,
+        "word": "爱奇艺副总裁回应严浩翔当导师",
+        "onboard_time": 1745407223,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14470,
+        "num": 17022,
+        "word": "不眠日",
+        "onboard_time": 1745435894,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14137,
+        "num": 17021,
+        "word": "我给鞠婧祎拍的撕拉片",
+        "onboard_time": 1745406803,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#志合者不以山海为远#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1745425908553,
-  "endTime": 1745434165289,
+  "endTime": 1745436073596,
   "band_list": [
     {
       "raw_hot": 1844906,
@@ -451,6 +451,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 29433,
+      "num": 29602,
+      "word": "女子抓隐翅虫没洗手摸眼睛致红肿",
+      "onboard_time": 1745433616,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27747,
+      "num": 27747,
+      "word": "凌晨被锁在韩国图书馆的5个小时",
+      "onboard_time": 1745433195,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 27237,
       "num": 27237,
       "word": "TES",
@@ -465,22 +481,6 @@
       "onboard_time": 1745409981,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 22974,
-      "num": 29602,
-      "word": "女子抓隐翅虫没洗手摸眼睛致红肿",
-      "onboard_time": 1745433616,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21568,
-      "num": 22932,
-      "word": "凌晨被锁在韩国图书馆的5个小时",
-      "onboard_time": 1745433195,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 21082,
@@ -505,6 +505,22 @@
       "onboard_time": 1745432416,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 16018,
+      "num": 17023,
+      "word": "王一博要穿越美洲",
+      "onboard_time": 1745430316,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 14470,
+      "num": 17022,
+      "word": "不眠日",
+      "onboard_time": 1745435894,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 9258,
