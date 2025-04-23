@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/23 22:44:49
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/23 23:27:45
 </p>
 </blockquote>
 <p>
@@ -2781,6 +2781,12 @@ VaVa 灰原哀（热度：1212430）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E4%B8%BD%E5%B0%8F%E5%B9%82%23" target="weibo">
+大丽小幂（热度：1183846）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8A%E4%B8%AA%E5%A8%B1%E4%B9%90%E5%9C%88%E5%9B%A2%E5%BB%BA%E7%9A%84%E5%90%AB%E9%87%91%E9%87%8F%23" target="weibo">
 半个娱乐圈团建的含金量（热度：1182705）
 </a>
@@ -5151,12 +5157,6 @@ bite me男伴舞（热度：832510）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E4%B8%BD%E5%B0%8F%E5%B9%82%23" target="weibo">
-大丽小幂（热度：805878）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23YERI%E5%92%8CWendy%E7%A6%BB%E5%BC%80SM%23" target="weibo">
 YERI和Wendy离开SM（热度：805847）
 </a>
@@ -6647,6 +6647,12 @@ TVB男演员陈键锋学厨以第一名毕业（热度：726197）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E5%BF%97%E5%90%88%E8%80%85%E4%B8%8D%E4%BB%A5%E5%B1%B1%E6%B5%B7%E4%B8%BA%E8%BF%9C%23%23" target="weibo">
 #志合者不以山海为远#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E4%B9%A6%E9%A6%99%E6%83%85%E7%BC%98%23%23" target="weibo">
+#习近平的书香情缘#
 </a>
 </li>
 
