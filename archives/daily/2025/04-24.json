@@ -1,6 +1,6 @@
 {
   "startTime": 1745425908553,
-  "endTime": 1745433335693,
+  "endTime": 1745434165289,
   "band_list": [
     {
       "raw_hot": 1844906,
@@ -467,6 +467,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 22974,
+      "num": 29602,
+      "word": "女子抓隐翅虫没洗手摸眼睛致红肿",
+      "onboard_time": 1745433616,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21568,
+      "num": 22932,
+      "word": "凌晨被锁在韩国图书馆的5个小时",
+      "onboard_time": 1745433195,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 21082,
       "num": 22994,
       "word": "狐妖小红娘王权篇预告",
@@ -489,14 +505,6 @@
       "onboard_time": 1745432416,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 17717,
-      "num": 22932,
-      "word": "凌晨被锁在韩国图书馆的5个小时",
-      "onboard_time": 1745433195,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 9258,
