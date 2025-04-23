@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/23 19:21:35
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/23 19:36:50
 </p>
 </blockquote>
 <p>
@@ -4557,6 +4557,12 @@ SM新男团 撞名（热度：910464）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%9B%BD%E6%A2%81%E6%B3%AA%E6%B4%92%E4%BC%9A%E5%9C%BA%23" target="weibo">
+刘国梁泪洒会场（热度：867053）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%80%E5%AE%B3%E5%A5%B3%E6%95%99%E5%B8%88%E5%85%AD%E6%97%AC%E7%94%B7%E5%AD%90%E9%9D%A0%E5%A5%B3%E5%8F%8B%E5%B7%A5%E8%B5%84%E7%94%9F%E6%B4%BB%23" target="weibo">
 杀害女教师六旬男子靠女友工资生活（热度：866554）
 </a>
@@ -6005,12 +6011,6 @@ TVB男演员陈键锋学厨以第一名毕业（热度：726197）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BB%8E%E6%9D%A5%E4%B8%8D%E5%90%83%E8%BF%99%E4%B8%80%E5%A5%97%23" target="weibo">
 中国从来不吃这一套（热度：713184）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%9B%BD%E6%AD%A3%E8%AF%B4%E9%9B%A8%E6%9E%9C%E5%AE%8C%E5%85%A8%E6%98%AF%E6%8B%BC%E5%88%BA%E5%88%80%E6%89%93%E6%B3%95%23" target="weibo">
-刘国正说雨果完全是拼刺刀打法（热度：712373）
 </a>
 </li>
 
