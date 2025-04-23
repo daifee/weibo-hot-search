@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1745418344971,
+  "endTime": 1745419489578,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -859,6 +859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2293715,
+      "num": 280602,
+      "word": "求锤得锤",
+      "onboard_time": 1745415862,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2293147,
       "num": 2293147,
       "word": "国乒丢冠",
@@ -1145,14 +1153,6 @@
       "onboard_time": 1744633942,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2024106,
-      "num": 280602,
-      "word": "求锤得锤",
-      "onboard_time": 1745415862,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 1999599,
@@ -6849,6 +6849,14 @@
       "onboard_time": 1744294524,
       "rank": 33,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 805878,
+      "num": 500812,
+      "word": "大丽小幂",
+      "onboard_time": 1745417903,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 805847,
@@ -19483,14 +19491,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 318842,
-      "num": 318842,
-      "word": "大丽小幂",
-      "onboard_time": 1745417903,
-      "rank": 5,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 318690,
       "num": 318690,
       "word": "第一个给艾米剪短发的人是天才",
@@ -19929,6 +19929,14 @@
       "onboard_time": 1743575241,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 311440,
+      "num": 311440,
+      "word": "被演唱会座椅扎伤观众发声",
+      "onboard_time": 1745416582,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 311393,
@@ -20465,14 +20473,6 @@
       "onboard_time": 1743923059,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 303668,
-      "num": 303668,
-      "word": "被演唱会座椅扎伤观众发声",
-      "onboard_time": 1745416582,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 303603,
@@ -22371,6 +22371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 276718,
+      "num": 276718,
+      "word": "虞书欣王一栩三搭",
+      "onboard_time": 1745417363,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 276657,
       "num": 276657,
       "word": "王楚钦对阵雨果",
@@ -23688,14 +23696,6 @@
       "word": "邓超我都有点嗑你俩了",
       "onboard_time": 1744033284,
       "rank": 46,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 260386,
-      "num": 260386,
-      "word": "虞书欣王一栩三搭",
-      "onboard_time": 1745417363,
-      "rank": 16,
       "category": "剧集"
     },
     {
@@ -30379,6 +30379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206351,
+      "num": 206351,
+      "word": "权志龙曾经点赞过的女星",
+      "onboard_time": 1745416825,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206337,
       "num": 206337,
       "word": "金价再起飞",
@@ -35323,6 +35331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188726,
+      "num": 188726,
+      "word": "MVP罗斯在上海变英语特困生",
+      "onboard_time": 1745419283,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188725,
       "num": 188725,
       "word": "第一次见这么尴尬的原唱",
@@ -35432,6 +35448,14 @@
       "word": "沙溢范丞丞会休息才是真卷王",
       "onboard_time": 1745377883,
       "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 188340,
+      "num": 205233,
+      "word": "严浩翔点火镜头",
+      "onboard_time": 1745419223,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -38547,6 +38571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176475,
+      "num": 176475,
+      "word": "一代有一代人的追星方式",
+      "onboard_time": 1745419283,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 176460,
       "num": 176460,
       "word": "与君歌",
@@ -41651,6 +41683,14 @@
       "category": "网红,民生新闻"
     },
     {
+      "raw_hot": 164810,
+      "num": 164810,
+      "word": "樊振东球迷喊话东哥赛场见",
+      "onboard_time": 1745417363,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164788,
       "num": 164788,
       "word": "代号鸢",
@@ -43185,14 +43225,6 @@
       "onboard_time": 1744035804,
       "rank": 43,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 159710,
-      "num": 158335,
-      "word": "樊振东球迷喊话东哥赛场见",
-      "onboard_time": 1745417363,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 159672,
@@ -48963,14 +48995,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 141308,
-      "num": 141308,
-      "word": "权志龙曾经点赞过的女星",
-      "onboard_time": 1745416825,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 141296,
       "num": 141296,
       "word": "京城大师赛",
@@ -51009,6 +51033,14 @@
       "onboard_time": 1744445483,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135555,
+      "num": 135555,
+      "word": "徐冬冬只减120斤以上的肉肉",
+      "onboard_time": 1745419283,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 135553,
@@ -58131,6 +58163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113057,
+      "num": 113057,
+      "word": "张康乐视角的大家",
+      "onboard_time": 1745418384,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 113056,
       "num": 113056,
       "word": "苏绣版后母戊鼎立体感绝了",
@@ -58881,6 +58921,14 @@
       "onboard_time": 1744024702,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109946,
+      "num": 109946,
+      "word": "A股黄金板块全线下跌",
+      "onboard_time": 1745416943,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 109852,
@@ -59849,6 +59897,14 @@
       "onboard_time": 1744960941,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105762,
+      "num": 270390,
+      "word": "美国该想想怎么收场了",
+      "onboard_time": 1745417245,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 105745,
@@ -64339,14 +64395,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 81578,
-      "num": 270390,
-      "word": "美国该想想怎么收场了",
-      "onboard_time": 1745417245,
-      "rank": 14,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 81563,
       "num": 141530,
       "word": "经济霸凌损害美国国家信誉",
@@ -66017,6 +66065,14 @@
       "onboard_time": 1745223562,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71197,
+      "num": 122913,
+      "word": "中级会计黄金7天怎么学",
+      "onboard_time": 1745419283,
+      "rank": 39,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 71187,
@@ -68377,6 +68433,14 @@
       "onboard_time": 1744864043,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 59424,
+      "num": 206085,
+      "word": "雨果说马龙是无可争议的GOAT",
+      "onboard_time": 1745419041,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 59401,
@@ -74659,6 +74723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 29666,
+      "num": 517569,
+      "word": "神二十乘组和五星红旗同框",
+      "onboard_time": 1745417843,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 29643,
       "num": 256977,
       "word": "桂林农户谈近日严重旱情影响种植",
@@ -74809,6 +74881,14 @@
       "onboard_time": 1744274242,
       "rank": 29,
       "category": "教育,互联网"
+    },
+    {
+      "raw_hot": 29118,
+      "num": 230702,
+      "word": "一字夹如何打造头包脸的自然发型",
+      "onboard_time": 1745418083,
+      "rank": 21,
+      "category": "美妆"
     },
     {
       "raw_hot": 29116,
@@ -78891,14 +78971,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 13780,
-      "num": 230702,
-      "word": "一字夹如何打造头包脸的自然发型",
-      "onboard_time": 1745418083,
-      "rank": 21,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 13747,
       "num": 17423,
       "word": "荷兰 欧洲小衡水",
@@ -79153,14 +79225,6 @@
       "onboard_time": 1744288883,
       "rank": 39,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 12793,
-      "num": 493871,
-      "word": "神二十乘组和五星红旗同框",
-      "onboard_time": 1745417843,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 12775,
