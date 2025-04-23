@@ -1,6 +1,6 @@
 {
   "startTime": 1745425908553,
-  "endTime": 1745448138706,
+  "endTime": 1745450641716,
   "band_list": [
     {
       "raw_hot": 1844906,
@@ -17,6 +17,14 @@
       "onboard_time": 1745423781,
       "rank": 0,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1001553,
+      "num": 1001553,
+      "word": "特朗普正为与中国达成协议做准备",
+      "onboard_time": 1745423962,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 895561,
@@ -51,14 +59,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 690470,
-      "num": 690470,
-      "word": "特朗普正为与中国达成协议做准备",
-      "onboard_time": 1745423962,
-      "rank": 4,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 635228,
       "num": 236202,
       "word": "女子遭家暴逃跑致丈夫身亡案家属发声",
@@ -83,12 +83,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 366018,
+      "num": 229536,
+      "word": "陈冠希得知秦舒培怀孕的反应",
+      "onboard_time": 1745414241,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 333597,
+      "num": 333597,
+      "word": "多名观众称被演唱会座椅扎伤",
+      "onboard_time": 1745411242,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 321727,
       "num": 174806,
       "word": "安静公主要二次手术",
       "onboard_time": 1745425100,
       "rank": 25,
       "category": "网红"
+    },
+    {
+      "raw_hot": 281508,
+      "num": 281508,
+      "word": "王楠老公谈刘国梁辞职",
+      "onboard_time": 1745425579,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 280970,
@@ -107,28 +131,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 267771,
-      "num": 229536,
-      "word": "陈冠希得知秦舒培怀孕的反应",
-      "onboard_time": 1745414241,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 263848,
       "num": 227750,
       "word": "弘叶题石",
       "onboard_time": 1745419763,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 259528,
-      "num": 259528,
-      "word": "多名观众称被演唱会座椅扎伤",
-      "onboard_time": 1745411242,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 248430,
@@ -155,6 +163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 212973,
+      "num": 155065,
+      "word": "男子溃疡久不愈合查出舌癌",
+      "onboard_time": 1745424921,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 211497,
       "num": 211497,
       "word": "周杰伦演唱会480元票只能看大屏",
@@ -171,20 +187,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 201267,
+      "num": 151660,
+      "word": "石凯订婚宴视频",
+      "onboard_time": 1745414602,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 186040,
+      "num": 186040,
+      "word": "中方回应特朗普称或将大幅降低对华关税",
+      "onboard_time": 1745395942,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 182735,
       "num": 182735,
       "word": "李惠利问翻译错了吗",
       "onboard_time": 1745422103,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 177929,
-      "num": 78526,
-      "word": "男子溃疡久不愈合查出舌癌",
-      "onboard_time": 1745424921,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 165595,
@@ -195,28 +219,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 164867,
-      "num": 164867,
-      "word": "王楠老公谈刘国梁辞职",
-      "onboard_time": 1745425579,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 157435,
-      "num": 157435,
-      "word": "中方回应特朗普称或将大幅降低对华关税",
-      "onboard_time": 1745395942,
-      "rank": 24,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 152181,
       "num": 152181,
       "word": "湖南卫视连发20条谭松韵",
       "onboard_time": 1745423962,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144431,
+      "num": 152598,
+      "word": "景区回应李现人生照片打卡处被封",
+      "onboard_time": 1745424081,
+      "rank": 29,
+      "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 142739,
+      "num": 102421,
+      "word": "女子沉迷海缸两个月视力骤减100度",
+      "onboard_time": 1745425400,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140687,
@@ -227,6 +251,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 134262,
+      "num": 242653,
+      "word": "多国领导人接连访华关键词是合作",
+      "onboard_time": 1745425159,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 131187,
       "num": 131187,
       "word": "特朗普认怂了",
@@ -235,12 +267,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 123674,
-      "num": 152598,
-      "word": "景区回应李现人生照片打卡处被封",
-      "onboard_time": 1745424081,
-      "rank": 29,
-      "category": "民生新闻,艺人"
+      "raw_hot": 110708,
+      "num": 99156,
+      "word": "金价",
+      "onboard_time": 1745419824,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 109323,
@@ -267,12 +299,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 98076,
-      "num": 98076,
-      "word": "金价",
-      "onboard_time": 1745419824,
-      "rank": 33,
-      "category": "财经"
+      "raw_hot": 96844,
+      "num": 96844,
+      "word": "女子抓隐翅虫没洗手摸眼睛致红肿",
+      "onboard_time": 1745433616,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95163,
@@ -281,6 +313,14 @@
       "onboard_time": 1745419041,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90279,
+      "num": 90279,
+      "word": "2025KPL春季赛",
+      "onboard_time": 1745450419,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 86858,
@@ -299,20 +339,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 85889,
-      "num": 85889,
-      "word": "女子沉迷海缸两个月视力骤减100度",
-      "onboard_time": 1745425400,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 85581,
       "num": 85581,
       "word": "马龙说不会办退役告别会",
       "onboard_time": 1745408901,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84270,
+      "num": 163570,
+      "word": "美国又有11州起诉特朗普政府",
+      "onboard_time": 1745450058,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 83384,
@@ -331,20 +371,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 79862,
+      "num": 79862,
+      "word": "村里唯一的五保户怕孩子吃不好",
+      "onboard_time": 1745448798,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 75625,
       "num": 75625,
       "word": "云南洱源县4.8级地震",
       "onboard_time": 1745427078,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 75227,
-      "num": 242653,
-      "word": "多国领导人接连访华关键词是合作",
-      "onboard_time": 1745425159,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 75200,
@@ -371,12 +411,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 69030,
+      "num": 69030,
+      "word": "王嘉尔被问有没有女朋友的反应",
+      "onboard_time": 1745444654,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 68457,
       "num": 68457,
       "word": "这是苍井优这是她老公",
       "onboard_time": 1745397742,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 67176,
+      "num": 67176,
+      "word": "凌晨被锁在韩国图书馆的5个小时",
+      "onboard_time": 1745433195,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 66026,
@@ -395,6 +451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 61331,
+      "num": 61331,
+      "word": "鱼都没托梦告诉你自己冷吗",
+      "onboard_time": 1745450480,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 58834,
       "num": 58834,
       "word": "失聪的狗狗主人每天这样把它叫醒",
@@ -403,12 +467,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 58262,
-      "num": 58262,
-      "word": "女子抓隐翅虫没洗手摸眼睛致红肿",
-      "onboard_time": 1745433616,
-      "rank": 29,
-      "category": "民生新闻"
+      "raw_hot": 57058,
+      "num": 57058,
+      "word": "为什么夏天科室无投诉",
+      "onboard_time": 1745447419,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 55953,
@@ -419,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 53343,
+      "num": 53343,
+      "word": "意大利杯",
+      "onboard_time": 1745449577,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 53219,
       "num": 53219,
       "word": "金湘军辞去山西省省长职务",
@@ -427,12 +499,36 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 46319,
-      "num": 46319,
-      "word": "王嘉尔被问有没有女朋友的反应",
-      "onboard_time": 1745444654,
-      "rank": 39,
+      "raw_hot": 51630,
+      "num": 51630,
+      "word": "王一博要穿越美洲",
+      "onboard_time": 1745430316,
+      "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 51374,
+      "num": 51374,
+      "word": "早上关了闹铃千万别闭眼",
+      "onboard_time": 1745450480,
+      "rank": 46,
+      "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 49809,
+      "num": 49809,
+      "word": "爸爸 素质不详遇强则强",
+      "onboard_time": 1745450480,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 48127,
+      "num": 100709,
+      "word": "美国长期国债大涨",
+      "onboard_time": 1745449817,
+      "rank": 24,
+      "category": "国际时政,财经"
     },
     {
       "raw_hot": 46085,
@@ -443,6 +539,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 43183,
+      "num": 49865,
+      "word": "大侦探",
+      "onboard_time": 1745429776,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 43024,
       "num": 50879,
       "word": "董明珠再点名小米汽车",
@@ -451,36 +555,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 42039,
-      "num": 42039,
-      "word": "凌晨被锁在韩国图书馆的5个小时",
-      "onboard_time": 1745433195,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 35481,
-      "num": 35481,
-      "word": "大侦探",
-      "onboard_time": 1745429776,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 34534,
       "num": 34534,
       "word": "美国制造业回流了吗",
       "onboard_time": 1745440694,
       "rank": 48,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 32593,
-      "num": 32593,
-      "word": "王一博要穿越美洲",
-      "onboard_time": 1745430316,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 32143,
@@ -505,14 +585,6 @@
       "onboard_time": 1745417603,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 25066,
-      "num": 32510,
-      "word": "为什么夏天科室无投诉",
-      "onboard_time": 1745447419,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 23209,
@@ -555,6 +627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 20298,
+      "num": 294357,
+      "word": "第四届全民阅读大会",
+      "onboard_time": 1745417482,
+      "rank": 2,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 19642,
       "num": 22968,
       "word": "遇人不熟",
@@ -579,12 +659,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 14950,
-      "num": 171519,
-      "word": "第四届全民阅读大会",
-      "onboard_time": 1745417482,
-      "rank": 2,
-      "category": "读书作家"
+      "raw_hot": 16836,
+      "num": 153754,
+      "word": "加总理称坚决抵制特朗普关税政策",
+      "onboard_time": 1745450177,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 14509,
+      "num": 67359,
+      "word": "防晒霜SPF值增加后效果会增强吗",
+      "onboard_time": 1745449277,
+      "rank": 37,
+      "category": "科学科普"
     },
     {
       "raw_hot": 14470,
@@ -625,6 +713,14 @@
       "onboard_time": 1745431514,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 9218,
+      "num": 67615,
+      "word": "华晨宇MV反应哪类人群的成长",
+      "onboard_time": 1745450480,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 5746,
