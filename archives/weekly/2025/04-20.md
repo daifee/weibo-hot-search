@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/20 00:29:07 ~ 2025/04/25 01:38:57
+本榜单时间：2025/04/20 00:29:07 ~ 2025/04/25 02:33:48
 </p>
 </blockquote>
 <p>
@@ -4251,6 +4251,12 @@ tws回归（热度：238463）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E5%85%B3%E7%A8%8E%E5%90%8E%E6%94%AF%E6%8C%81%E7%8E%87%E9%AA%A4%E9%99%8D%23" target="weibo">
+特朗普宣布关税后支持率骤降（热度：232155）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%81%E8%89%BA%E5%8D%93%E5%9B%BD%E5%86%85%E9%A6%96%E5%B0%81%23" target="weibo">
 宁艺卓国内首封（热度：232048）
 </a>
@@ -4781,12 +4787,6 @@ WB对战狼队（热度：215851）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%81%94%E5%8A%A8%E4%B8%89%E4%B8%BD%E9%B8%A5%E5%AE%B6%E6%97%8F%E9%80%81%E9%98%BF%E5%8F%A4%E6%9C%B5%E7%9A%AE%E8%82%A4%23" target="weibo">
 王者联动三丽鸥家族送阿古朵皮肤（热度：209197）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E5%85%B3%E7%A8%8E%E5%90%8E%E6%94%AF%E6%8C%81%E7%8E%87%E9%AA%A4%E9%99%8D%23" target="weibo">
-特朗普宣布关税后支持率骤降（热度：208741）
 </a>
 </li>
 
@@ -11421,6 +11421,12 @@ AUDI量产概念车（热度：83798）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E5%8F%91%E5%B8%83%E4%B8%80%E6%AE%B5%E5%BD%95%E9%9F%B3%E5%AF%B9%E8%AF%9D%23" target="weibo">
+邓超发布一段录音对话（热度：64411）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E8%BF%AA%E8%BE%BE%E6%96%AF%E5%8C%85%E6%8F%BD%E4%B8%8A%E6%B5%B7%E5%8D%8A%E9%A9%AC%E5%9B%9B%E5%86%A0%23" target="weibo">
 阿迪达斯包揽上海半马四冠（热度：64284）
 </a>
@@ -13143,12 +13149,6 @@ HPV疫苗男女共防时代来临（热度：42375）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E5%8F%91%E5%B8%83%E4%B8%80%E6%AE%B5%E5%BD%95%E9%9F%B3%E5%AF%B9%E8%AF%9D%23" target="weibo">
-邓超发布一段录音对话（热度：30321）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AA%92%E4%BD%93%E8%AF%84%E5%A4%96%E5%8D%96%E5%B8%82%E5%9C%BA%E7%AB%9E%E4%BA%89%E5%8A%A0%E5%89%A7%23" target="weibo">
 媒体评外卖市场竞争加剧（热度：30214）
 </a>
@@ -13581,8 +13581,20 @@ INS新乐园向被烟头烫伤女子致歉（热度：27201）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E5%8D%8A%E5%A4%9C%E4%B8%8D%E7%9D%A1%E8%A7%89%E6%8E%92%E6%8E%92%E5%9D%90%E5%90%83%E5%A4%9C%E5%AE%B5%23" target="weibo">
+大熊猫半夜不睡觉排排坐吃夜宵（热度：23570）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E5%9B%9B%E5%B1%8A%E5%85%A8%E6%B0%91%E9%98%85%E8%AF%BB%E5%A4%A7%E4%BC%9A%23" target="weibo">
 第四届全民阅读大会（热度：23496）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E6%B1%9F%E9%81%93%E6%AD%89%23" target="weibo">
+何江道歉（热度：23443）
 </a>
 </li>
 
@@ -13731,6 +13743,12 @@ xxxHOLiC戻好伟大的画风（热度：22751）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%8C%97%E4%BA%AC%E5%9B%BD%E9%99%85%E7%94%B5%E5%BD%B1%E8%8A%82%E9%80%A0%E5%9E%8B%23" target="weibo">
+杨紫北京国际电影节造型（热度：21210）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%80%BC%E5%BE%97%E7%88%B1%E7%BC%96%E5%89%A7%E6%98%AF%E7%8E%8B%E5%AE%89%E5%AE%87%E9%A2%9C%E7%B2%89%23" target="weibo">
 值得爱编剧是王安宇颜粉（热度：21176）
 </a>
@@ -13841,6 +13859,12 @@ AI复制吉卜力是盛大合法的抢劫吗（热度：20763）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E5%80%9F%E5%8A%A9AI%E6%88%96%E6%B2%BB%E6%84%88%E6%89%80%E6%9C%89%E7%96%BE%E7%97%85%23" target="weibo">
 专家称借助AI或治愈所有疾病（热度：20161）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%8C%E4%B8%80%E5%A4%A9%E5%90%8C%E4%B8%80%E5%9C%B0%E7%82%B9%E8%B7%A8%E8%B6%8A55%E5%B9%B4%23" target="weibo">
+同一天同一地点跨越55年（热度：20105）
 </a>
 </li>
 
@@ -14453,6 +14477,12 @@ OMG对战EDG（热度：13552）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AF%A5%E4%B8%8D%E8%AF%A5%E5%92%8CAI%E8%AF%B4%E8%B0%A2%E8%B0%A2%23" target="weibo">
 该不该和AI说谢谢（热度：12297）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%86%AC%E9%97%AE%E8%B7%9F%E4%BD%A0%E4%BB%AC%E6%A2%A6%E9%87%8C%E6%A2%A6%E5%88%B0%E7%9A%84%E4%B8%80%E6%A0%B7%E4%B8%8D%E4%B8%80%E6%A0%B7%23" target="weibo">
+陈冬问跟你们梦里梦到的一样不一样（热度：12212）
 </a>
 </li>
 
