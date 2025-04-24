@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745459670462,
+  "endTime": 1745461024079,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1715,6 +1715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 615111,
+      "num": 259180,
+      "word": "营养专家称冉莹颖儿子靶身高172cm",
+      "onboard_time": 1745456602,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 612854,
       "num": 612854,
       "word": "京东回应刘强东亲自送外卖",
@@ -1881,6 +1889,14 @@
       "onboard_time": 1745134103,
       "rank": 10,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 568588,
+      "num": 568588,
+      "word": "顾客买鱼要求不宰杀遭商贩扔秤砣",
+      "onboard_time": 1745455402,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 565326,
@@ -3315,14 +3331,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 322633,
-      "num": 259180,
-      "word": "营养专家称冉莹颖儿子靶身高172cm",
-      "onboard_time": 1745456602,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 322563,
       "num": 322563,
       "word": "seventeen五辑",
@@ -4443,14 +4451,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 244743,
-      "num": 244743,
-      "word": "顾客买鱼要求不宰杀遭商贩扔秤砣",
-      "onboard_time": 1745455402,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 243874,
       "num": 463495,
       "word": "金价30个月翻倍",
@@ -5337,6 +5337,14 @@
       "onboard_time": 1745205263,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207854,
+      "num": 228432,
+      "word": "赵丽颖配音幽灵公主",
+      "onboard_time": 1745460801,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 207441,
@@ -7043,6 +7051,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 174254,
+      "num": 227367,
+      "word": "神二十今日出征",
+      "onboard_time": 1745458400,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 174244,
       "num": 182240,
       "word": "宋祖儿归来还是这么坦诚的女子",
@@ -7387,6 +7403,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 168269,
+      "num": 212852,
+      "word": "金饰价格跌到1031元",
+      "onboard_time": 1745458821,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 168143,
       "num": 168143,
       "word": "谁能拒绝一只情绪稳定的小猪",
@@ -7571,6 +7595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165183,
+      "num": 165183,
+      "word": "女子抓隐翅虫没洗手摸眼睛致红肿",
+      "onboard_time": 1745433616,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 165126,
       "num": 165126,
       "word": "伦纳德压哨三分",
@@ -7689,14 +7721,6 @@
       "onboard_time": 1745219722,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 163018,
-      "num": 163018,
-      "word": "神二十今日出征",
-      "onboard_time": 1745458400,
-      "rank": 31,
-      "category": "国内时政"
     },
     {
       "raw_hot": 162869,
@@ -8353,14 +8377,6 @@
       "onboard_time": 1745150063,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 153091,
-      "num": 153091,
-      "word": "女子抓隐翅虫没洗手摸眼睛致红肿",
-      "onboard_time": 1745433616,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 153076,
@@ -10227,6 +10243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122778,
+      "num": 238853,
+      "word": "IU 百想",
+      "onboard_time": 1745456900,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122555,
       "num": 262859,
       "word": "马龙感慨了",
@@ -10321,6 +10345,14 @@
       "onboard_time": 1745150663,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 119855,
+      "num": 119855,
+      "word": "五一租车需求比清明增长2至3倍",
+      "onboard_time": 1745460621,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119724,
@@ -10491,14 +10523,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 115596,
-      "num": 212852,
-      "word": "金饰价格跌到1031元",
-      "onboard_time": 1745458821,
-      "rank": 24,
-      "category": "财经"
-    },
-    {
       "raw_hot": 115322,
       "num": 115322,
       "word": "孙千大生意人骑马剧照",
@@ -10633,14 +10657,6 @@
       "onboard_time": 1745217982,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 112523,
-      "num": 238853,
-      "word": "IU 百想",
-      "onboard_time": 1745456900,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 112348,
@@ -11667,6 +11683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87866,
+      "num": 149947,
+      "word": "吉克隽逸因为演唱会天天跟经纪人吵架",
+      "onboard_time": 1745460801,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 87334,
       "num": 208761,
       "word": "钟楚曦live直出绝了",
@@ -11843,6 +11867,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 82222,
+      "num": 82222,
+      "word": "用一条线画出中国问天征途",
+      "onboard_time": 1745453841,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81785,
       "num": 194218,
       "word": "专访刘国梁",
@@ -11979,6 +12011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78979,
+      "num": 78979,
+      "word": "金饰价2天跌49元",
+      "onboard_time": 1745459303,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 78845,
       "num": 142329,
       "word": "虚假的老师和真实的老师",
@@ -12065,6 +12105,14 @@
       "onboard_time": 1745298082,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76922,
+      "num": 76922,
+      "word": "虞书欣说新剧达到了星你的感觉",
+      "onboard_time": 1745460980,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 76802,
@@ -15803,6 +15851,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 15638,
+      "num": 185593,
+      "word": "特朗普为何改口称无意解雇鲍威尔",
+      "onboard_time": 1745460081,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 15563,
       "num": 658960,
       "word": "闽地纪行",
@@ -15953,6 +16009,14 @@
       "onboard_time": 1745354113,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 14099,
+      "num": 149928,
+      "word": "弗雷戴特宣布退役",
+      "onboard_time": 1745455942,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 14008,

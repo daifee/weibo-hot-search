@@ -1,0 +1,410 @@
+{
+  "runTime": 1745461024079,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1364190,
+        "num": 1364190,
+        "word": "小红书将取消大小周",
+        "onboard_time": 1745455402,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 568588,
+        "num": 568588,
+        "word": "顾客买鱼要求不宰杀遭商贩扔秤砣",
+        "onboard_time": 1745455402,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34958,
+        "num": 566317,
+        "word": "公安部网安局提醒防范职业窃密",
+        "onboard_time": 1745456782,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 564766,
+        "num": 564766,
+        "word": "男子攒钱10年买法拉利提车1小时后自燃",
+        "onboard_time": 1745453420,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 261059,
+        "num": 261059,
+        "word": "某国公司故意向间谍提供手机后门",
+        "onboard_time": 1745452640,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 363951,
+        "num": 247543,
+        "word": "韩国检方起诉前总统文在寅",
+        "onboard_time": 1745456422,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 229037,
+        "num": 229037,
+        "word": "张继科说王励勤训练从不迟到",
+        "onboard_time": 1745453542,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207854,
+        "num": 228432,
+        "word": "赵丽颖配音幽灵公主",
+        "onboard_time": 1745460801,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 174155,
+        "num": 228099,
+        "word": "大丽小幂",
+        "onboard_time": 1745417903,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174254,
+        "num": 227367,
+        "word": "神二十今日出征",
+        "onboard_time": 1745458400,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1931146,
+        "num": 226751,
+        "word": "关晓彤 鹿晗",
+        "onboard_time": 1745453661,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 622807,
+        "num": 225857,
+        "word": "石凯 文韬",
+        "onboard_time": 1745453121,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 615111,
+        "num": 224833,
+        "word": "营养专家称冉莹颖儿子靶身高172cm",
+        "onboard_time": 1745456602,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315340,
+        "num": 224227,
+        "word": "六万cp分手",
+        "onboard_time": 1745452519,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224054,
+        "num": 224054,
+        "word": "2024年十大考古新发现",
+        "onboard_time": 1745458341,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208494,
+        "num": 208494,
+        "word": "特朗普正为与中国达成协议做准备",
+        "onboard_time": 1745423962,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 207243,
+        "num": 207243,
+        "word": "赵礼杰 女朋友",
+        "onboard_time": 1745423781,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 187661,
+        "num": 187661,
+        "word": "不知不觉都神二十了",
+        "onboard_time": 1745457682,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 122778,
+        "num": 187494,
+        "word": "IU 百想",
+        "onboard_time": 1745456900,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15638,
+        "num": 185593,
+        "word": "特朗普为何改口称无意解雇鲍威尔",
+        "onboard_time": 1745460081,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1046693,
+        "num": 184380,
+        "word": "石凯 订过婚",
+        "onboard_time": 1745402903,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 493738,
+        "num": 183426,
+        "word": "金价猛烈跳水",
+        "onboard_time": 1745421263,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 258963,
+        "num": 182261,
+        "word": "一天不洗的头发上有什么",
+        "onboard_time": 1745453420,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 209684,
+        "num": 180530,
+        "word": "黄金",
+        "onboard_time": 1745460561,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 180372,
+        "num": 180372,
+        "word": "徐冬冬只减120斤以上的肉肉",
+        "onboard_time": 1745419283,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168269,
+        "num": 168269,
+        "word": "金饰价格跌到1031元",
+        "onboard_time": 1745458821,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 165183,
+        "num": 165183,
+        "word": "女子抓隐翅虫没洗手摸眼睛致红肿",
+        "onboard_time": 1745433616,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158400,
+        "num": 158400,
+        "word": "闪耀暖暖",
+        "onboard_time": 1745459001,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 108366,
+        "num": 151731,
+        "word": "INTO1成团出道四周年",
+        "onboard_time": 1745457922,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87866,
+        "num": 149947,
+        "word": "吉克隽逸因为演唱会天天跟经纪人吵架",
+        "onboard_time": 1745460801,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 14099,
+        "num": 149928,
+        "word": "弗雷戴特宣布退役",
+        "onboard_time": 1745455942,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149926,
+        "num": 149926,
+        "word": "中国航天日神十九乘组太空送祝福",
+        "onboard_time": 1745457922,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149138,
+        "num": 149138,
+        "word": "东风航天城小学生齐唱达拉崩吧",
+        "onboard_time": 1745457741,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144841,
+        "num": 144841,
+        "word": "雷军每天免费送五千顶的帽子价值129元",
+        "onboard_time": 1745420123,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 142127,
+        "num": 142127,
+        "word": "南北cp",
+        "onboard_time": 1745453482,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137604,
+        "num": 137604,
+        "word": "关税",
+        "onboard_time": 1745456001,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 123636,
+        "num": 123636,
+        "word": "求锤得锤",
+        "onboard_time": 1745415862,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119855,
+        "num": 119855,
+        "word": "五一租车需求比清明增长2至3倍",
+        "onboard_time": 1745460621,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118964,
+        "num": 118964,
+        "word": "王楠老公谈刘国梁辞职",
+        "onboard_time": 1745425579,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113597,
+        "num": 113597,
+        "word": "安静公主要二次手术",
+        "onboard_time": 1745425100,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 103882,
+        "num": 103882,
+        "word": "奥美迦奥特曼",
+        "onboard_time": 1745456482,
+        "rank": 40,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 95752,
+        "num": 95752,
+        "word": "中国在联合国发出反对霸凌声音",
+        "onboard_time": 1745455402,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 95198,
+        "num": 95198,
+        "word": "今天再听一遍东方红",
+        "onboard_time": 1745455341,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86961,
+        "num": 86961,
+        "word": "抖音崩了",
+        "onboard_time": 1745452098,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 86909,
+        "num": 86909,
+        "word": "男子溃疡久不愈合查出舌癌",
+        "onboard_time": 1745424921,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82222,
+        "num": 82222,
+        "word": "用一条线画出中国问天征途",
+        "onboard_time": 1745453841,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81640,
+        "num": 81640,
+        "word": "摩根大通称国际金价或突破4000美元",
+        "onboard_time": 1745457922,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 78979,
+        "num": 78979,
+        "word": "金饰价2天跌49元",
+        "onboard_time": 1745459303,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 76922,
+        "num": 76922,
+        "word": "虞书欣说新剧达到了星你的感觉",
+        "onboard_time": 1745460980,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60853,
+        "num": 76185,
+        "word": "业内称易烊千玺值得影帝奖项",
+        "onboard_time": 1745451560,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的书香情缘#"
+    }
+  }
+}
