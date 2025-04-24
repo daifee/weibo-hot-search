@@ -1,6 +1,6 @@
 {
   "startTime": 1745512289618,
-  "endTime": 1745529930178,
+  "endTime": 1745530728105,
   "band_list": [
     {
       "raw_hot": 957557,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 122284,
-      "num": 78704,
+      "num": 88602,
       "word": "邓超发布一段录音对话",
       "onboard_time": 1745516235,
       "rank": 46,
@@ -419,12 +419,20 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 45300,
-      "num": 37619,
+      "raw_hot": 49500,
+      "num": 49500,
       "word": "留几手 不恋爱",
       "onboard_time": 1745520016,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 47894,
+      "num": 47894,
+      "word": "刘强东老家宿迁京东外卖遍地开花",
+      "onboard_time": 1745497881,
+      "rank": 38,
+      "category": "互联网"
     },
     {
       "raw_hot": 43244,
@@ -435,12 +443,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 41834,
-      "num": 41834,
-      "word": "刘强东老家宿迁京东外卖遍地开花",
-      "onboard_time": 1745497881,
-      "rank": 38,
-      "category": "互联网"
+      "raw_hot": 43090,
+      "num": 19934,
+      "word": "任达华女儿在名校跳级上课",
+      "onboard_time": 1745524574,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 39809,
@@ -459,16 +467,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 29748,
-      "num": 17319,
-      "word": "任达华女儿在名校跳级上课",
-      "onboard_time": 1745524574,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 29046,
-      "num": 29046,
+      "raw_hot": 35009,
+      "num": 35009,
       "word": "大熊猫半夜不睡觉排排坐吃夜宵",
       "onboard_time": 1745519294,
       "rank": 37,
@@ -563,8 +563,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 13378,
-      "num": 15295,
+      "raw_hot": 13617,
+      "num": 17127,
       "word": "这是我的西游阵容",
       "onboard_time": 1745517257,
       "rank": 46,
