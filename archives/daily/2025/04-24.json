@@ -1,6 +1,6 @@
 {
   "startTime": 1745425908553,
-  "endTime": 1745476529124,
+  "endTime": 1745477335290,
   "band_list": [
     {
       "raw_hot": 2713875,
@@ -57,6 +57,14 @@
       "onboard_time": 1745423781,
       "rank": 0,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1265206,
+      "num": 1265206,
+      "word": "女子取货时被男同事故意关冷库",
+      "onboard_time": 1745473161,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1197988,
@@ -123,14 +131,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 842655,
-      "num": 842655,
-      "word": "女子取货时被男同事故意关冷库",
-      "onboard_time": 1745473161,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 832250,
       "num": 832250,
       "word": "美国对华关税或降至50%至65%",
@@ -155,12 +155,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 780625,
+      "num": 780625,
+      "word": "孙坚公布被盗监控",
+      "onboard_time": 1745474781,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 765457,
       "num": 765457,
       "word": "张小斐恶意定档",
       "onboard_time": 1745463200,
       "rank": 4,
       "category": "电影"
+    },
+    {
+      "raw_hot": 745349,
+      "num": 745349,
+      "word": "冉莹颖儿子打生长激素又长1.7厘米",
+      "onboard_time": 1745468844,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 733643,
@@ -184,14 +200,6 @@
       "word": "7年前石凯未成年",
       "onboard_time": 1745462001,
       "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 665482,
-      "num": 665482,
-      "word": "冉莹颖儿子打生长激素又长1.7厘米",
-      "onboard_time": 1745468844,
-      "rank": 30,
       "category": "艺人"
     },
     {
@@ -379,14 +387,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 317906,
-      "num": 317906,
-      "word": "孙坚公布被盗监控",
-      "onboard_time": 1745474781,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 315448,
       "num": 315448,
       "word": "不知不觉都神二十了",
@@ -483,12 +483,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 262431,
+      "num": 262431,
+      "word": "金靖镜头里的迪丽热巴",
+      "onboard_time": 1745475921,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 258472,
       "num": 258472,
       "word": "美国又有11州起诉特朗普政府",
       "onboard_time": 1745450058,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 257898,
+      "num": 257898,
+      "word": "中国人进家脱鞋习惯上太空了",
+      "onboard_time": 1745475261,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 257476,
@@ -521,6 +537,14 @@
       "onboard_time": 1745462779,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 253325,
+      "num": 237109,
+      "word": "金靖用脚拍的照片都是神图",
+      "onboard_time": 1745473580,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 250416,
@@ -619,6 +643,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 208567,
+      "num": 208567,
+      "word": "985硕士求职大厂被拒只因本科双非学历",
+      "onboard_time": 1745475921,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 207854,
       "num": 228432,
       "word": "赵丽颖配音幽灵公主",
@@ -633,14 +665,6 @@
       "onboard_time": 1745420123,
       "rank": 22,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 203247,
-      "num": 203247,
-      "word": "金靖镜头里的迪丽热巴",
-      "onboard_time": 1745475921,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 201550,
@@ -659,20 +683,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 199078,
+      "num": 155696,
+      "word": "邓超在家喊胡曼黎被孙俪骂",
+      "onboard_time": 1745476281,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198949,
       "num": 204633,
       "word": "除了黄金还可以买什么",
       "onboard_time": 1745468602,
       "rank": 37,
       "category": "财经"
-    },
-    {
-      "raw_hot": 198313,
-      "num": 179260,
-      "word": "金靖用脚拍的照片都是神图",
-      "onboard_time": 1745473580,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 198152,
@@ -689,14 +713,6 @@
       "onboard_time": 1745471422,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 193883,
-      "num": 193883,
-      "word": "中国人进家脱鞋习惯上太空了",
-      "onboard_time": 1745475261,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 191234,
@@ -731,6 +747,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 188632,
+      "num": 188632,
+      "word": "骑手提醒外卖送得快不一定是好事",
+      "onboard_time": 1745473639,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 188385,
       "num": 188385,
       "word": "上海车展",
@@ -763,6 +787,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 183095,
+      "num": 183095,
+      "word": "时空中的绘旅人",
+      "onboard_time": 1745476640,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 182735,
       "num": 182735,
       "word": "李惠利问翻译错了吗",
@@ -777,6 +809,14 @@
       "onboard_time": 1745468844,
       "rank": 48,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 181340,
+      "num": 314427,
+      "word": "1年级女童走神被老师揪耳朵撕裂2cm",
+      "onboard_time": 1745474901,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 180971,
@@ -825,14 +865,6 @@
       "onboard_time": 1745471721,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 172432,
-      "num": 172432,
-      "word": "骑手提醒外卖送得快不一定是好事",
-      "onboard_time": 1745473639,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 170288,
@@ -1019,6 +1051,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 147313,
+      "num": 315847,
+      "word": "轮到西方人向中国汽车取经了",
+      "onboard_time": 1745475681,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144511,
       "num": 192219,
       "word": "韩东君杀青照",
@@ -1035,6 +1075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 143431,
+      "num": 315634,
+      "word": "孙俪这不是熹妃回宫是什么",
+      "onboard_time": 1745475800,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143219,
       "num": 143219,
       "word": "第五人格",
@@ -1049,14 +1097,6 @@
       "onboard_time": 1745471482,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 141831,
-      "num": 141831,
-      "word": "985硕士求职大厂被拒只因本科双非学历",
-      "onboard_time": 1745475921,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 141678,
@@ -1112,6 +1152,14 @@
       "word": "家业杀青",
       "onboard_time": 1745461760,
       "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 136583,
+      "num": 136583,
+      "word": "李沁咸鱼飞升路透",
+      "onboard_time": 1745477180,
+      "rank": 36,
       "category": "剧集"
     },
     {
@@ -1171,6 +1219,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 128112,
+      "num": 128112,
+      "word": "绘旅人昨日晴空",
+      "onboard_time": 1745476880,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 127269,
       "num": 127269,
       "word": "摩根大通称国际金价或突破4000美元",
@@ -1179,28 +1235,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 126320,
-      "num": 126320,
-      "word": "邓超在家喊胡曼黎被孙俪骂",
-      "onboard_time": 1745476281,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 123514,
-      "num": 315634,
-      "word": "孙俪这不是熹妃回宫是什么",
-      "onboard_time": 1745475800,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 122778,
       "num": 238853,
       "word": "IU 百想",
       "onboard_time": 1745456900,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121846,
+      "num": 121846,
+      "word": "赵露思金色深V短裙",
+      "onboard_time": 1745477060,
+      "rank": 43,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 121183,
@@ -1273,14 +1321,6 @@
       "onboard_time": 1745462960,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 112403,
-      "num": 315847,
-      "word": "轮到西方人向中国汽车取经了",
-      "onboard_time": 1745475681,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 111914,
@@ -1363,20 +1403,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 100044,
-      "num": 314427,
-      "word": "1年级女童走神被老师揪耳朵撕裂2cm",
-      "onboard_time": 1745474901,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 99829,
       "num": 99829,
       "word": "贝森特",
       "onboard_time": 1745424141,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 99432,
+      "num": 99432,
+      "word": "盒马回应小龙虾出逃",
+      "onboard_time": 1745476640,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 98956,
@@ -1787,6 +1827,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 51234,
+      "num": 213629,
+      "word": "猿辅导招聘信息称不加班",
+      "onboard_time": 1745477060,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50593,
       "num": 50593,
       "word": "NIP拒绝被TES翻盘",
@@ -2139,6 +2187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 12871,
+      "num": 127071,
+      "word": "同期民调特朗普比第一任期更差",
+      "onboard_time": 1745476820,
+      "rank": 39,
+      "category": "海外新闻,议题讨论"
+    },
+    {
       "raw_hot": 12758,
       "num": 117073,
       "word": "华晨宇MV反应哪类人群的成长",
@@ -2177,6 +2233,14 @@
       "onboard_time": 1745431514,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 8889,
+      "num": 231367,
+      "word": "如何防范职业窃密人盗取个人隐私",
+      "onboard_time": 1745476880,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 5746,
