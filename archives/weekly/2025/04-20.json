@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745490466545,
+  "endTime": 1745491492868,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1411,6 +1411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 779581,
+      "num": 627171,
+      "word": "杨紫 华伦公主",
+      "onboard_time": 1745488700,
+      "rank": 6,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 777807,
       "num": 777807,
       "word": "李现晒和杨紫合照",
@@ -1505,14 +1513,6 @@
       "onboard_time": 1745241743,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 736895,
-      "num": 597674,
-      "word": "杨紫 华伦公主",
-      "onboard_time": 1745488700,
-      "rank": 6,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 733643,
@@ -1697,6 +1697,14 @@
       "onboard_time": 1745305161,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 687303,
+      "num": 687303,
+      "word": "广州暴雨",
+      "onboard_time": 1745488881,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 685332,
@@ -1937,6 +1945,14 @@
       "onboard_time": 1745315901,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 616805,
+      "num": 616805,
+      "word": "80平房子被分为8间带厕所的出租屋",
+      "onboard_time": 1745488761,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 616625,
@@ -2787,14 +2803,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 442181,
-      "num": 442181,
-      "word": "广州暴雨",
-      "onboard_time": 1745488881,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 438280,
       "num": 438280,
       "word": "西瓜酱刷新了我对酱的认知",
@@ -3579,11 +3587,27 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 335950,
+      "num": 361948,
+      "word": "丁真没有认真备戏惹怒曾志伟",
+      "onboard_time": 1745488881,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 335654,
       "num": 293934,
       "word": "情侣吵架男子撞碎酒店玻璃摔出窗外",
       "onboard_time": 1745215942,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 335165,
+      "num": 335165,
+      "word": "和府捞面被指同面不同价背刺打工人",
+      "onboard_time": 1745483001,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -3619,6 +3643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 330577,
+      "num": 415339,
+      "word": "男子长期熬夜劝大家好好爱自己",
+      "onboard_time": 1745488820,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 330068,
       "num": 330068,
       "word": "孙颖莎再比第一手势",
@@ -3649,14 +3681,6 @@
       "onboard_time": 1745107642,
       "rank": 6,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 329036,
-      "num": 329036,
-      "word": "和府捞面被指同面不同价背刺打工人",
-      "onboard_time": 1745483001,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 328949,
@@ -3785,6 +3809,14 @@
       "onboard_time": 1745379624,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 318944,
+      "num": 318944,
+      "word": "花少7",
+      "onboard_time": 1745490440,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 316804,
@@ -4081,6 +4113,14 @@
       "onboard_time": 1745121322,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 298801,
+      "num": 344221,
+      "word": "杨坤回应起诉四川芬达",
+      "onboard_time": 1745489959,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 298717,
@@ -4723,14 +4763,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 256698,
-      "num": 256698,
-      "word": "丁真没有认真备戏惹怒曾志伟",
-      "onboard_time": 1745488881,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 256013,
       "num": 256013,
       "word": "异人之下夏禾首曝",
@@ -4905,6 +4937,14 @@
       "onboard_time": 1745328383,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 247084,
+      "num": 247084,
+      "word": "让张小斐孙艺洲演夫妻的人是天才",
+      "onboard_time": 1745490202,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 247065,
@@ -5835,14 +5875,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 211350,
-      "num": 262678,
-      "word": "男子长期熬夜劝大家好好爱自己",
-      "onboard_time": 1745488820,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 211311,
       "num": 211311,
       "word": "学霸型白月光",
@@ -5888,14 +5920,6 @@
       "word": "余宇涵直播",
       "onboard_time": 1745129601,
       "rank": 17,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 210478,
-      "num": 210478,
-      "word": "杨坤回应起诉四川芬达",
-      "onboard_time": 1745489959,
-      "rank": 36,
       "category": "艺人"
     },
     {
@@ -6611,14 +6635,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 196548,
-      "num": 445226,
-      "word": "80平房子被分为8间带厕所的出租屋",
-      "onboard_time": 1745488761,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 196495,
       "num": 196495,
       "word": "七根心简下证",
@@ -6673,6 +6689,14 @@
       "onboard_time": 1745312122,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 195767,
+      "num": 195767,
+      "word": "孙俪杨紫林志玲同框",
+      "onboard_time": 1745490381,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 195761,
@@ -7027,6 +7051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 190186,
+      "num": 190186,
+      "word": "杨坤说被观众记住模仿是件好事",
+      "onboard_time": 1745491040,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190151,
       "num": 241104,
       "word": "陶喆 听劝",
@@ -7041,14 +7073,6 @@
       "onboard_time": 1745231363,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 189958,
-      "num": 189958,
-      "word": "孙俪杨紫林志玲同框",
-      "onboard_time": 1745490381,
-      "rank": 40,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 189724,
@@ -7129,14 +7153,6 @@
       "onboard_time": 1745280200,
       "rank": 25,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 188402,
-      "num": 188402,
-      "word": "让张小斐孙艺洲演夫妻的人是天才",
-      "onboard_time": 1745490202,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 188385,
@@ -9147,6 +9163,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 155639,
+      "num": 155639,
+      "word": "我干不了服务业的原因",
+      "onboard_time": 1745490622,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 155607,
       "num": 155607,
       "word": "神舟二十号",
@@ -9433,6 +9457,14 @@
       "onboard_time": 1745159188,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152467,
+      "num": 152467,
+      "word": "杨坤 四川芬达",
+      "onboard_time": 1745490800,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 152230,
@@ -10123,14 +10155,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 142415,
-      "num": 142415,
-      "word": "花少7",
-      "onboard_time": 1745490440,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 142035,
       "num": 142035,
       "word": "CBA",
@@ -10537,6 +10561,14 @@
       "onboard_time": 1745294664,
       "rank": 25,
       "category": "网红"
+    },
+    {
+      "raw_hot": 136616,
+      "num": 136616,
+      "word": "中国航天员躺着上太空",
+      "onboard_time": 1745491100,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 136583,
@@ -11323,6 +11355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126030,
+      "num": 126030,
+      "word": "巴特勒 G3",
+      "onboard_time": 1745487920,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125827,
       "num": 125827,
       "word": "黄金高位跳水了",
@@ -11971,6 +12011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112331,
+      "num": 190283,
+      "word": "湿气越吃越少9种食物",
+      "onboard_time": 1745490381,
+      "rank": 39,
+      "category": "健康医疗,民生新闻"
+    },
+    {
       "raw_hot": 112016,
       "num": 112016,
       "word": "XLG战胜EDG",
@@ -12611,6 +12659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99865,
+      "num": 152518,
+      "word": "网红日本地铁大声放歌遭嫌弃",
+      "onboard_time": 1745488521,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 99829,
       "num": 99829,
       "word": "贝森特",
@@ -12625,6 +12681,14 @@
       "onboard_time": 1745315362,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 99641,
+      "num": 120500,
+      "word": "黄金分析师提4条投资建议",
+      "onboard_time": 1745490920,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 99432,
@@ -13473,14 +13537,6 @@
       "onboard_time": 1745220382,
       "rank": 19,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 79602,
-      "num": 190283,
-      "word": "湿气越吃越少9种食物",
-      "onboard_time": 1745490381,
-      "rank": 39,
-      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 79535,
@@ -16251,6 +16307,14 @@
       "category": "动漫,民生新闻"
     },
     {
+      "raw_hot": 34779,
+      "num": 314266,
+      "word": "被关在冷库中该如何自救",
+      "onboard_time": 1745490082,
+      "rank": 19,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 34554,
       "num": 357232,
       "word": "泼汽油前男友庭上称没有故意杀人",
@@ -16464,6 +16528,14 @@
       "word": "媒体评外卖市场竞争加剧",
       "onboard_time": 1745247204,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30208,
+      "num": 634798,
+      "word": "一图看中国航天未来20年",
+      "onboard_time": 1745489900,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -17243,14 +17315,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 20816,
-      "num": 634798,
-      "word": "一图看中国航天未来20年",
-      "onboard_time": 1745489900,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 20568,
       "num": 22533,
       "word": "袁一琦演唱会广州站",
@@ -17673,14 +17737,6 @@
       "onboard_time": 1745102238,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 16053,
-      "num": 314266,
-      "word": "被关在冷库中该如何自救",
-      "onboard_time": 1745490082,
-      "rank": 19,
-      "category": "科学科普"
     },
     {
       "raw_hot": 16036,
@@ -18463,6 +18519,9 @@
     },
     {
       "word": "#为建设航天强国再立新功#"
+    },
+    {
+      "word": "#打造新时代全天候中非命运共同体典范#"
     }
   ]
 }

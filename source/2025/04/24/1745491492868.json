@@ -1,0 +1,410 @@
+{
+  "runTime": 1745491492868,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1104869,
+        "num": 1176779,
+        "word": "孙坚又被偷了",
+        "onboard_time": 1745488641,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 687303,
+        "num": 687303,
+        "word": "广州暴雨",
+        "onboard_time": 1745488881,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30208,
+        "num": 628666,
+        "word": "一图看中国航天未来20年",
+        "onboard_time": 1745489900,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 779581,
+        "num": 627171,
+        "word": "杨紫 华伦公主",
+        "onboard_time": 1745488700,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 616805,
+        "num": 616805,
+        "word": "80平房子被分为8间带厕所的出租屋",
+        "onboard_time": 1745488761,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 607103,
+        "num": 607103,
+        "word": "神20发射圆满成功",
+        "onboard_time": 1745487861,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 712378,
+        "num": 604488,
+        "word": "卤鹅哥道歉",
+        "onboard_time": 1745484322,
+        "rank": 6,
+        "category": "网红,汽车"
+      },
+      {
+        "raw_hot": 596893,
+        "num": 596893,
+        "word": "费列罗长蛆",
+        "onboard_time": 1745482941,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 418878,
+        "num": 418878,
+        "word": "jiejie恋情",
+        "onboard_time": 1745479280,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 330577,
+        "num": 415339,
+        "word": "男子长期熬夜劝大家好好爱自己",
+        "onboard_time": 1745488820,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1810861,
+        "num": 412063,
+        "word": "男子炒股11年狂赚6000多万",
+        "onboard_time": 1745488761,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 907391,
+        "num": 407951,
+        "word": "关晓彤 鹿晗",
+        "onboard_time": 1745453661,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 655992,
+        "num": 402216,
+        "word": "刘强东取外卖遇卡餐一脸迷茫",
+        "onboard_time": 1745464822,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 576267,
+        "num": 400298,
+        "word": "石凯订婚照",
+        "onboard_time": 1745468243,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17220,
+        "num": 393729,
+        "word": "快来WAW见十一区动漫顶流",
+        "onboard_time": 1745489419,
+        "rank": 14,
+        "category": "动漫,游戏"
+      },
+      {
+        "raw_hot": 393085,
+        "num": 393085,
+        "word": "神20点火升空",
+        "onboard_time": 1745486720,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 342451,
+        "num": 369717,
+        "word": "邓超在家喊胡曼黎被孙俪骂",
+        "onboard_time": 1745476281,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 335950,
+        "num": 361948,
+        "word": "丁真没有认真备戏惹怒曾志伟",
+        "onboard_time": 1745488881,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 356227,
+        "num": 356227,
+        "word": "外交部否认中美就关税问题进行谈判",
+        "onboard_time": 1745483120,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 298801,
+        "num": 344221,
+        "word": "杨坤回应起诉四川芬达",
+        "onboard_time": 1745489959,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335165,
+        "num": 335165,
+        "word": "和府捞面被指同面不同价背刺打工人",
+        "onboard_time": 1745483001,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 318944,
+        "num": 318944,
+        "word": "花少7",
+        "onboard_time": 1745490440,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271641,
+        "num": 271641,
+        "word": "江辰 为了预防我被扒黑料",
+        "onboard_time": 1745488641,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262856,
+        "num": 262856,
+        "word": "虞书欣短裙黑吊带",
+        "onboard_time": 1745488940,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247084,
+        "num": 247084,
+        "word": "让张小斐孙艺洲演夫妻的人是天才",
+        "onboard_time": 1745490202,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243997,
+        "num": 243997,
+        "word": "一波电视剧要来了",
+        "onboard_time": 1745473282,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221659,
+        "num": 221659,
+        "word": "李嘉琦离开孟子义来了个宋妍霏",
+        "onboard_time": 1745488940,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210218,
+        "num": 210218,
+        "word": "神二十发射直播",
+        "onboard_time": 1745478201,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 195767,
+        "num": 195767,
+        "word": "孙俪杨紫林志玲同框",
+        "onboard_time": 1745490381,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 190186,
+        "num": 190186,
+        "word": "杨坤说被观众记住模仿是件好事",
+        "onboard_time": 1745491040,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189222,
+        "num": 189222,
+        "word": "赵露思金色深V短裙",
+        "onboard_time": 1745477060,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 188508,
+        "num": 188508,
+        "word": "孙坚三天被偷了两次",
+        "onboard_time": 1745489419,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172797,
+        "num": 172797,
+        "word": "无忧渡",
+        "onboard_time": 1745491341,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170336,
+        "num": 170336,
+        "word": "大侦探又一群像封神镜头",
+        "onboard_time": 1745487920,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167362,
+        "num": 167362,
+        "word": "龚俊陈昊森 花少7",
+        "onboard_time": 1745483721,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163683,
+        "num": 163683,
+        "word": "权志龙新歌",
+        "onboard_time": 1745489541,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 161302,
+        "num": 161302,
+        "word": "周杰伦480柱子票消费者有权主张无效",
+        "onboard_time": 1745482700,
+        "rank": 36,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 155639,
+        "num": 155639,
+        "word": "我干不了服务业的原因",
+        "onboard_time": 1745490622,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112331,
+        "num": 153467,
+        "word": "湿气越吃越少9种食物",
+        "onboard_time": 1745490381,
+        "rank": 38,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 99865,
+        "num": 152518,
+        "word": "网红日本地铁大声放歌遭嫌弃",
+        "onboard_time": 1745488521,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 34779,
+        "num": 152470,
+        "word": "被关在冷库中该如何自救",
+        "onboard_time": 1745490082,
+        "rank": 40,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 152467,
+        "num": 152467,
+        "word": "杨坤 四川芬达",
+        "onboard_time": 1745490800,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147430,
+        "num": 147430,
+        "word": "老鼠咬破燃气管道爆炸男子全身烧伤",
+        "onboard_time": 1745481561,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145625,
+        "num": 145625,
+        "word": "建议ppt改名叫jjt",
+        "onboard_time": 1745481321,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137839,
+        "num": 137839,
+        "word": "原来最便宜的留学是在印度",
+        "onboard_time": 1745485161,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 136616,
+        "num": 136616,
+        "word": "中国航天员躺着上太空",
+        "onboard_time": 1745491100,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 133676,
+        "num": 133676,
+        "word": "四川一遗址群入选十大考古新发现",
+        "onboard_time": 1745488700,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126030,
+        "num": 126030,
+        "word": "巴特勒 G3",
+        "onboard_time": 1745487920,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121399,
+        "num": 121399,
+        "word": "杨玉环星之鸣奏优化即将上线",
+        "onboard_time": 1745490321,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 99641,
+        "num": 120500,
+        "word": "黄金分析师提4条投资建议",
+        "onboard_time": 1745490920,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#打造新时代全天候中非命运共同体典范#"
+    }
+  }
+}
