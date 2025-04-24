@@ -1,6 +1,6 @@
 {
   "startTime": 1745512289618,
-  "endTime": 1745520445792,
+  "endTime": 1745522488787,
   "band_list": [
     {
       "raw_hot": 957557,
@@ -195,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122284,
+      "num": 55544,
+      "word": "邓超发布一段录音对话",
+      "onboard_time": 1745516235,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114675,
       "num": 114675,
       "word": "花少7",
@@ -249,14 +257,6 @@
       "onboard_time": 1745489959,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 97173,
-      "num": 55544,
-      "word": "邓超发布一段录音对话",
-      "onboard_time": 1745516235,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 93710,
@@ -451,6 +451,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 27128,
+      "num": 27128,
+      "word": "留几手 不恋爱",
+      "onboard_time": 1745520016,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 26456,
       "num": 37258,
       "word": "脑干出血有哪些典型症状值得警惕",
@@ -459,20 +467,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 25080,
+      "num": 25080,
+      "word": "大熊猫半夜不睡觉排排坐吃夜宵",
+      "onboard_time": 1745519294,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24826,
       "num": 24826,
       "word": "瑶大耳狗之梦皮肤",
       "onboard_time": 1745516836,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 23570,
-      "num": 23570,
-      "word": "大熊猫半夜不睡觉排排坐吃夜宵",
-      "onboard_time": 1745519294,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23443,
@@ -499,20 +507,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 20782,
+      "num": 24004,
+      "word": "中国外贸朋友圈不断扩大",
+      "onboard_time": 1745519654,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 20105,
       "num": 22897,
       "word": "同一天同一地点跨越55年",
       "onboard_time": 1745516056,
       "rank": 47,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 20039,
-      "num": 20039,
-      "word": "留几手 不恋爱",
-      "onboard_time": 1745520016,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 17266,
@@ -531,11 +539,19 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 12225,
-      "num": 24004,
-      "word": "中国外贸朋友圈不断扩大",
-      "onboard_time": 1745519654,
-      "rank": 30,
+      "raw_hot": 14285,
+      "num": 17848,
+      "word": "朱开谈Doinb比赛四连败",
+      "onboard_time": 1745522355,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 13769,
+      "num": 41793,
+      "word": "一工厂不出口美国效益反而提升5%",
+      "onboard_time": 1745521335,
+      "rank": 9,
       "category": "国内时政"
     }
   ],
