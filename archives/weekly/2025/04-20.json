@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745512289618,
+  "endTime": 1745513249929,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -2043,6 +2043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 621154,
+      "num": 242154,
+      "word": "约70%的00后计划30岁前购房",
+      "onboard_time": 1745510242,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 619650,
       "num": 426770,
       "word": "曝郑中基余思敏已决定离婚",
@@ -2273,6 +2281,14 @@
       "onboard_time": 1745157027,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 573044,
+      "num": 241781,
+      "word": "我当了明星就这样",
+      "onboard_time": 1745510360,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 572943,
@@ -2769,14 +2785,6 @@
       "onboard_time": 1745114244,
       "rank": 43,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 475196,
-      "num": 242154,
-      "word": "约70%的00后计划30岁前购房",
-      "onboard_time": 1745510242,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 474220,
@@ -4179,6 +4187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 308562,
+      "num": 308562,
+      "word": "成本9元素颜霜标38元卖出500多万",
+      "onboard_time": 1745511440,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 308142,
       "num": 308142,
       "word": "中国已停止接收波音飞机",
@@ -4825,14 +4841,6 @@
       "onboard_time": 1745293041,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 268322,
-      "num": 241781,
-      "word": "我当了明星就这样",
-      "onboard_time": 1745510360,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 268200,
@@ -6176,14 +6184,6 @@
       "word": "大学同学说房琪没有塌房",
       "onboard_time": 1745107582,
       "rank": 25,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 213810,
-      "num": 242434,
-      "word": "成本9元素颜霜标38元卖出500多万",
-      "onboard_time": 1745511440,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -13787,6 +13787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93710,
+      "num": 93710,
+      "word": "这是我的岛",
+      "onboard_time": 1745510179,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 93690,
       "num": 93690,
       "word": "邓超 我说胡曼黎你说到",
@@ -14001,14 +14009,6 @@
       "onboard_time": 1745069964,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 88565,
-      "num": 88565,
-      "word": "这是我的岛",
-      "onboard_time": 1745510179,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 87832,
@@ -15027,6 +15027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67835,
+      "num": 67835,
+      "word": "杨紫宋洋同框",
+      "onboard_time": 1745512519,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 67700,
       "num": 208606,
       "word": "爸爸用19年找到丢失女儿放声大哭",
@@ -15665,6 +15673,14 @@
       "onboard_time": 1745468483,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 56840,
+      "num": 215210,
+      "word": "律师称取名朱雀玄武敕令合法",
+      "onboard_time": 1745512458,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56790,

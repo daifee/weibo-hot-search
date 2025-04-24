@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1745512289618,
+  "endTime": 1745513249929,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -9979,6 +9979,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 621154,
+      "num": 242154,
+      "word": "约70%的00后计划30岁前购房",
+      "onboard_time": 1745510242,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 619763,
       "num": 631505,
       "word": "王楚钦vs普卡",
@@ -11041,6 +11049,14 @@
       "onboard_time": 1744504402,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 573044,
+      "num": 241781,
+      "word": "我当了明星就这样",
+      "onboard_time": 1745510360,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 572943,
@@ -13553,14 +13569,6 @@
       "onboard_time": 1744014742,
       "rank": 42,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 475196,
-      "num": 242154,
-      "word": "约70%的00后计划30岁前购房",
-      "onboard_time": 1745510242,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 475178,
@@ -20971,6 +20979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 308562,
+      "num": 308562,
+      "word": "成本9元素颜霜标38元卖出500多万",
+      "onboard_time": 1745511440,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 308456,
       "num": 308456,
       "word": "哈维超远三分绝杀",
@@ -23984,14 +24000,6 @@
       "word": "鹿晗正定古城vlog",
       "onboard_time": 1744003761,
       "rank": 29,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 268322,
-      "num": 241781,
-      "word": "我当了明星就这样",
-      "onboard_time": 1745510360,
-      "rank": 12,
       "category": "艺人"
     },
     {
@@ -30112,14 +30120,6 @@
       "word": "大学同学说房琪没有塌房",
       "onboard_time": 1745107582,
       "rank": 25,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 213810,
-      "num": 242434,
-      "word": "成本9元素颜霜标38元卖出500多万",
-      "onboard_time": 1745511440,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -65067,6 +65067,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 93710,
+      "num": 93710,
+      "word": "这是我的岛",
+      "onboard_time": 1745510179,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 93709,
       "num": 93709,
       "word": "地面上有蓝光闪烁赶紧跑",
@@ -65921,14 +65929,6 @@
       "onboard_time": 1744848922,
       "rank": 24,
       "category": "财经"
-    },
-    {
-      "raw_hot": 88565,
-      "num": 88565,
-      "word": "这是我的岛",
-      "onboard_time": 1745510179,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 88555,
@@ -69755,6 +69755,14 @@
       "category": "财经,时尚"
     },
     {
+      "raw_hot": 67835,
+      "num": 67835,
+      "word": "杨紫宋洋同框",
+      "onboard_time": 1745512519,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 67774,
       "num": 275626,
       "word": "阿尔卡拉斯首夺蒙特卡洛冠军",
@@ -71929,6 +71937,14 @@
       "onboard_time": 1744784243,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 56840,
+      "num": 215210,
+      "word": "律师称取名朱雀玄武敕令合法",
+      "onboard_time": 1745512458,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56809,

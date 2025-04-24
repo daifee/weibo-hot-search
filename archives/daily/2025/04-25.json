@@ -1,6 +1,6 @@
 {
   "startTime": 1745512289618,
-  "endTime": 1745512289618,
+  "endTime": 1745513249929,
   "band_list": [
     {
       "raw_hot": 957557,
@@ -11,20 +11,28 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 621154,
+      "num": 242154,
+      "word": "约70%的00后计划30岁前购房",
+      "onboard_time": 1745510242,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 573044,
+      "num": 241781,
+      "word": "我当了明星就这样",
+      "onboard_time": 1745510360,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 571480,
       "num": 571480,
       "word": "榜上佳婿 空降",
       "onboard_time": 1745504603,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 475196,
-      "num": 242154,
-      "word": "约70%的00后计划30岁前购房",
-      "onboard_time": 1745510242,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 406818,
@@ -59,20 +67,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 308562,
+      "num": 308562,
+      "word": "成本9元素颜霜标38元卖出500多万",
+      "onboard_time": 1745511440,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 297905,
       "num": 297905,
       "word": "唐国强反复认错丁程鑫刘耀文",
       "onboard_time": 1745508023,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 268322,
-      "num": 241781,
-      "word": "我当了明星就这样",
-      "onboard_time": 1745510360,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 257081,
@@ -120,14 +128,6 @@
       "word": "男子炒股11年狂赚6000多万",
       "onboard_time": 1745488761,
       "rank": 16,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 213810,
-      "num": 242434,
-      "word": "成本9元素颜霜标38元卖出500多万",
-      "onboard_time": 1745511440,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -235,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 93710,
+      "num": 93710,
+      "word": "这是我的岛",
+      "onboard_time": 1745510179,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 93150,
       "num": 93150,
       "word": "小区通知将对地下车库流浪猫投药",
@@ -248,14 +256,6 @@
       "word": "这是我的西游空降",
       "onboard_time": 1745502921,
       "rank": 32,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 88565,
-      "num": 88565,
-      "word": "这是我的岛",
-      "onboard_time": 1745510179,
-      "rank": 33,
       "category": "综艺"
     },
     {
@@ -307,6 +307,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 73750,
+      "num": 73750,
+      "word": "iG发声明",
+      "onboard_time": 1745499142,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 71697,
       "num": 71697,
       "word": "成毅杨幂赵丽颖封面",
@@ -331,6 +339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 67835,
+      "num": 67835,
+      "word": "杨紫宋洋同框",
+      "onboard_time": 1745512519,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 66609,
       "num": 66609,
       "word": "对方使用了一杯奶茶",
@@ -347,20 +363,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 64727,
-      "num": 64727,
-      "word": "iG发声明",
-      "onboard_time": 1745499142,
-      "rank": 45,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 64377,
       "num": 64377,
       "word": "福宝再次进入假孕状态",
       "onboard_time": 1745495422,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63830,
+      "num": 63830,
+      "word": "成毅演出了二次元感觉",
+      "onboard_time": 1745498961,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 62078,
@@ -371,12 +387,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 60395,
-      "num": 60395,
-      "word": "成毅演出了二次元感觉",
-      "onboard_time": 1745498961,
-      "rank": 49,
-      "category": "剧集"
+      "raw_hot": 56840,
+      "num": 215210,
+      "word": "律师称取名朱雀玄武敕令合法",
+      "onboard_time": 1745512458,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 54721,
