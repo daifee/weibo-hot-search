@@ -1,0 +1,410 @@
+{
+  "runTime": 1745468974728,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1108383,
+        "num": 1177341,
+        "word": "父亲病危儿子请假照顾被开除",
+        "onboard_time": 1745463140,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 979471,
+        "num": 979471,
+        "word": "陈德容 我不会演孩子的妈",
+        "onboard_time": 1745464521,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134850,
+        "num": 939243,
+        "word": "中方在联合国会议发出3问",
+        "onboard_time": 1745466021,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 903192,
+        "num": 903192,
+        "word": "这居然是向佐",
+        "onboard_time": 1745465961,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 610889,
+        "num": 610889,
+        "word": "小红书将取消大小周",
+        "onboard_time": 1745455402,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 584383,
+        "num": 584383,
+        "word": "顾客买鱼要求不宰杀遭商贩扔秤砣",
+        "onboard_time": 1745455402,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 361137,
+        "num": 361137,
+        "word": "美国一饼干公司快没包装用了",
+        "onboard_time": 1745467100,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 348010,
+        "num": 348010,
+        "word": "30岁华裔将成最年轻白手起家亿万女富豪",
+        "onboard_time": 1745461101,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 347927,
+        "num": 347927,
+        "word": "光遇",
+        "onboard_time": 1745450659,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 341499,
+        "num": 341499,
+        "word": "黄宗泽 难怪没请我",
+        "onboard_time": 1745461460,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2407786,
+        "num": 340414,
+        "word": "石凯订婚照",
+        "onboard_time": 1745468243,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2381711,
+        "num": 339733,
+        "word": "刘强东取外卖遇卡餐一脸迷茫",
+        "onboard_time": 1745464822,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257225,
+        "num": 336800,
+        "word": "迪丽热巴淋雨给工作人员送伞",
+        "onboard_time": 1745467283,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107938,
+        "num": 335852,
+        "word": "上汽奥迪A5L首搭华为乾崑智驾",
+        "onboard_time": 1745467462,
+        "rank": 13,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 44110,
+        "num": 334053,
+        "word": "零蔗糖冰激凌中零蔗糖竟是商品名",
+        "onboard_time": 1745467882,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 216312,
+        "num": 331310,
+        "word": "张小斐恶意定档",
+        "onboard_time": 1745463200,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1721706,
+        "num": 330686,
+        "word": "关晓彤 鹿晗",
+        "onboard_time": 1745453661,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90449,
+        "num": 328025,
+        "word": "冒充县领导亲戚十年骗取38箱香菇木耳",
+        "onboard_time": 1745467823,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40726,
+        "num": 327080,
+        "word": "当一位女歌手失去半个舌头",
+        "onboard_time": 1745467642,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57015,
+        "num": 324370,
+        "word": "巴特勒是怎么摔倒的",
+        "onboard_time": 1745468483,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40098,
+        "num": 323373,
+        "word": "国道塌方55岁货车司机身亡女儿发声",
+        "onboard_time": 1745468602,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179728,
+        "num": 320823,
+        "word": "奔跑吧新一代主题曲来了",
+        "onboard_time": 1745465480,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1255310,
+        "num": 319831,
+        "word": "石凯 订过婚",
+        "onboard_time": 1745402903,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318608,
+        "num": 318608,
+        "word": "妻子开车躲家暴致丈夫身亡被判11年",
+        "onboard_time": 1745468003,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230925,
+        "num": 268618,
+        "word": "金价猛烈跳水",
+        "onboard_time": 1745421263,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 264643,
+        "num": 264643,
+        "word": "2024年十大考古新发现",
+        "onboard_time": 1745458341,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248133,
+        "num": 248133,
+        "word": "巴特勒受伤",
+        "onboard_time": 1745462779,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194447,
+        "num": 245261,
+        "word": "李惠利 百想",
+        "onboard_time": 1745465901,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137587,
+        "num": 239299,
+        "word": "关税让美国一小企业仅剩5人",
+        "onboard_time": 1745467582,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 39066,
+        "num": 235486,
+        "word": "小伙服装市场开金店瞄上进货的老板娘",
+        "onboard_time": 1745468301,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66588,
+        "num": 226546,
+        "word": "冉莹颖儿子打生长激素又长1.7厘米",
+        "onboard_time": 1745468844,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145141,
+        "num": 221834,
+        "word": "刘浩存 金海燕奖",
+        "onboard_time": 1745466200,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 219362,
+        "num": 219362,
+        "word": "有一种浪漫叫中国航天",
+        "onboard_time": 1745462779,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 212294,
+        "num": 217152,
+        "word": "营养专家称冉莹颖儿子靶身高172cm",
+        "onboard_time": 1745456602,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183237,
+        "num": 216755,
+        "word": "虞书欣说新剧达到了星你的感觉",
+        "onboard_time": 1745460980,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216453,
+        "num": 216453,
+        "word": "某国公司故意向间谍提供手机后门",
+        "onboard_time": 1745452640,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214499,
+        "num": 214499,
+        "word": "光遇复刻",
+        "onboard_time": 1745467882,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 198949,
+        "num": 204633,
+        "word": "除了黄金还可以买什么",
+        "onboard_time": 1745468602,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 198983,
+        "num": 198983,
+        "word": "未定事件簿",
+        "onboard_time": 1745468542,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 43305,
+        "num": 185885,
+        "word": "快过期的食物还能吃吗",
+        "onboard_time": 1745468243,
+        "rank": 39,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 59321,
+        "num": 184788,
+        "word": "无尽的尽头开播",
+        "onboard_time": 1745468483,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184210,
+        "num": 184210,
+        "word": "美国游客点赞中国扫货三宝",
+        "onboard_time": 1745467823,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 140555,
+        "num": 179895,
+        "word": "库里格林缠斗",
+        "onboard_time": 1745466561,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179080,
+        "num": 179080,
+        "word": "Uzi名人堂皮肤爆料",
+        "onboard_time": 1745468063,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 158253,
+        "num": 158253,
+        "word": "闪耀暖暖 陈奕雯",
+        "onboard_time": 1745468844,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 65966,
+        "num": 154098,
+        "word": "宝马展台还是太超前了",
+        "onboard_time": 1745463800,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 153184,
+        "num": 153184,
+        "word": "杨紫发文告别李祯",
+        "onboard_time": 1745462779,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153139,
+        "num": 153139,
+        "word": "六万cp分手",
+        "onboard_time": 1745452519,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149416,
+        "num": 149416,
+        "word": "大主宰",
+        "onboard_time": 1745468844,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 146647,
+        "num": 146647,
+        "word": "不知不觉都神二十了",
+        "onboard_time": 1745457682,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向气候和公正转型领导人峰会发表致辞#"
+    }
+  }
+}

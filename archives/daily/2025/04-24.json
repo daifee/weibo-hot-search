@@ -1,7 +1,23 @@
 {
   "startTime": 1745425908553,
-  "endTime": 1745466700019,
+  "endTime": 1745468974728,
   "band_list": [
+    {
+      "raw_hot": 2407786,
+      "num": 340414,
+      "word": "石凯订婚照",
+      "onboard_time": 1745468243,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2381711,
+      "num": 366121,
+      "word": "刘强东取外卖遇卡餐一脸迷茫",
+      "onboard_time": 1745464822,
+      "rank": 44,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 2222704,
       "num": 361687,
@@ -12,19 +28,11 @@
     },
     {
       "raw_hot": 1844906,
-      "num": 308182,
+      "num": 319831,
       "word": "石凯 订过婚",
       "onboard_time": 1745402903,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1831533,
-      "num": 366121,
-      "word": "刘强东取外卖遇卡餐一脸迷茫",
-      "onboard_time": 1745464822,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1419291,
@@ -51,12 +59,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1108383,
+      "num": 1177341,
+      "word": "父亲病危儿子请假照顾被开除",
+      "onboard_time": 1745463140,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1059200,
       "num": 1059200,
       "word": "特朗普正为与中国达成协议做准备",
       "onboard_time": 1745423962,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 979471,
+      "num": 979471,
+      "word": "陈德容 我不会演孩子的妈",
+      "onboard_time": 1745464521,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 903192,
+      "num": 903192,
+      "word": "这居然是向佐",
+      "onboard_time": 1745465961,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 895561,
@@ -139,14 +171,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 622736,
-      "num": 622736,
-      "word": "陈德容 我不会演孩子的妈",
-      "onboard_time": 1745464521,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 602029,
       "num": 602029,
       "word": "男子攒钱10年买法拉利提车1小时后自燃",
@@ -177,14 +201,6 @@
       "onboard_time": 1745461101,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 560825,
-      "num": 560825,
-      "word": "这居然是向佐",
-      "onboard_time": 1745465961,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 556050,
@@ -235,12 +251,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 361137,
+      "num": 361137,
+      "word": "美国一饼干公司快没包装用了",
+      "onboard_time": 1745467100,
+      "rank": 6,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 348369,
       "num": 348369,
       "word": "吉克隽逸因为演唱会天天跟经纪人吵架",
       "onboard_time": 1745460801,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 347927,
+      "num": 347927,
+      "word": "光遇",
+      "onboard_time": 1745450659,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 343304,
@@ -267,6 +299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 318608,
+      "num": 318608,
+      "word": "妻子开车躲家暴致丈夫身亡被判11年",
+      "onboard_time": 1745468003,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 315448,
       "num": 315448,
       "word": "不知不觉都神二十了",
@@ -281,14 +321,6 @@
       "onboard_time": 1745453542,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 309134,
-      "num": 375263,
-      "word": "父亲病危儿子请假照顾被开除",
-      "onboard_time": 1745463140,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 305498,
@@ -379,6 +411,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 257225,
+      "num": 336800,
+      "word": "迪丽热巴淋雨给工作人员送伞",
+      "onboard_time": 1745467283,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 253815,
       "num": 253815,
       "word": "杨紫发文告别李祯",
@@ -409,6 +449,14 @@
       "onboard_time": 1745420602,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 214499,
+      "num": 214499,
+      "word": "光遇复刻",
+      "onboard_time": 1745467882,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 212973,
@@ -467,6 +515,30 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 198983,
+      "num": 198983,
+      "word": "未定事件簿",
+      "onboard_time": 1745468542,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 198949,
+      "num": 204633,
+      "word": "除了黄金还可以买什么",
+      "onboard_time": 1745468602,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 194447,
+      "num": 245261,
+      "word": "李惠利 百想",
+      "onboard_time": 1745465901,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191192,
       "num": 191192,
       "word": "武王墩墓等入选十大考古新发现",
@@ -515,6 +587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184210,
+      "num": 184210,
+      "word": "美国游客点赞中国扫货三宝",
+      "onboard_time": 1745467823,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 182735,
       "num": 182735,
       "word": "李惠利问翻译错了吗",
@@ -532,19 +612,19 @@
     },
     {
       "raw_hot": 180641,
-      "num": 194533,
+      "num": 221834,
       "word": "刘浩存 金海燕奖",
       "onboard_time": 1745466200,
       "rank": 28,
       "category": "电影"
     },
     {
-      "raw_hot": 179355,
-      "num": 192097,
-      "word": "李惠利 百想",
-      "onboard_time": 1745465901,
-      "rank": 29,
-      "category": "剧集"
+      "raw_hot": 179080,
+      "num": 179080,
+      "word": "Uzi名人堂皮肤爆料",
+      "onboard_time": 1745468063,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 168269,
@@ -619,6 +699,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 158253,
+      "num": 158253,
+      "word": "闪耀暖暖 陈奕雯",
+      "onboard_time": 1745468844,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 154268,
       "num": 154268,
       "word": "景区回应李现人生照片打卡处被封",
@@ -649,6 +737,14 @@
       "onboard_time": 1745453482,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149416,
+      "num": 149416,
+      "word": "大主宰",
+      "onboard_time": 1745468844,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 149012,
@@ -699,6 +795,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 140555,
+      "num": 179895,
+      "word": "库里格林缠斗",
+      "onboard_time": 1745466561,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138320,
       "num": 244025,
       "word": "沙利文痛斥特朗普",
@@ -715,12 +819,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 137809,
-      "num": 137809,
-      "word": "库里格林缠斗",
-      "onboard_time": 1745466561,
-      "rank": 44,
-      "category": "体育"
+      "raw_hot": 137587,
+      "num": 239299,
+      "word": "关税让美国一小企业仅剩5人",
+      "onboard_time": 1745467582,
+      "rank": 28,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 136289,
@@ -729,6 +833,14 @@
       "onboard_time": 1745463800,
       "rank": 15,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 134850,
+      "num": 939243,
+      "word": "中方在联合国会议发出3问",
+      "onboard_time": 1745466021,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 134508,
@@ -875,6 +987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 107938,
+      "num": 335852,
+      "word": "上汽奥迪A5L首搭华为乾崑智驾",
+      "onboard_time": 1745467462,
+      "rank": 13,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 104512,
       "num": 104512,
       "word": "单手养活四口之家的骑手发声",
@@ -945,6 +1065,14 @@
       "onboard_time": 1745463321,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 90449,
+      "num": 328025,
+      "word": "冒充县领导亲戚十年骗取38箱香菇木耳",
+      "onboard_time": 1745467823,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90279,
@@ -1099,6 +1227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 66588,
+      "num": 226546,
+      "word": "冉莹颖儿子打生长激素又长1.7厘米",
+      "onboard_time": 1745468844,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 66026,
       "num": 66026,
       "word": "侯明昊一次解锁了6套逍遥造型",
@@ -1131,12 +1267,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 62826,
-      "num": 62826,
-      "word": "光遇",
-      "onboard_time": 1745450659,
-      "rank": 38,
-      "category": "游戏"
+      "raw_hot": 59321,
+      "num": 184788,
+      "word": "无尽的尽头开播",
+      "onboard_time": 1745468483,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 58834,
@@ -1153,6 +1289,14 @@
       "onboard_time": 1745447419,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 57015,
+      "num": 324370,
+      "word": "巴特勒是怎么摔倒的",
+      "onboard_time": 1745468483,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 55953,
@@ -1259,14 +1403,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 47071,
-      "num": 644097,
-      "word": "中方在联合国会议发出3问",
-      "onboard_time": 1745466021,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 46865,
       "num": 219274,
       "word": "经常吃撑对人体有哪些危害",
@@ -1291,6 +1427,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44110,
+      "num": 334053,
+      "word": "零蔗糖冰激凌中零蔗糖竟是商品名",
+      "onboard_time": 1745467882,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 43305,
+      "num": 185885,
+      "word": "快过期的食物还能吃吗",
+      "onboard_time": 1745468243,
+      "rank": 39,
+      "category": "健康医疗,民生新闻"
+    },
+    {
       "raw_hot": 43183,
       "num": 49865,
       "word": "大侦探",
@@ -1305,6 +1457,30 @@
       "onboard_time": 1745398642,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 40726,
+      "num": 327080,
+      "word": "当一位女歌手失去半个舌头",
+      "onboard_time": 1745467642,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 40098,
+      "num": 323373,
+      "word": "国道塌方55岁货车司机身亡女儿发声",
+      "onboard_time": 1745468602,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39066,
+      "num": 235486,
+      "word": "小伙服装市场开金店瞄上进货的老板娘",
+      "onboard_time": 1745468301,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37345,
