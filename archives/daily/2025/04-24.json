@@ -1,6 +1,6 @@
 {
   "startTime": 1745425908553,
-  "endTime": 1745473339575,
+  "endTime": 1745476529124,
   "band_list": [
     {
       "raw_hot": 2713875,
@@ -99,6 +99,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 938077,
+      "num": 1150092,
+      "word": "35岁脑干出血程序员发声",
+      "onboard_time": 1745470042,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 903192,
       "num": 903192,
       "word": "这居然是向佐",
@@ -113,6 +121,14 @@
       "onboard_time": 1745415862,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 842655,
+      "num": 842655,
+      "word": "女子取货时被男同事故意关冷库",
+      "onboard_time": 1745473161,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 832250,
@@ -163,19 +179,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 688778,
-      "num": 688778,
-      "word": "35岁脑干出血程序员发声",
-      "onboard_time": 1745470042,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 680030,
       "num": 358488,
       "word": "7年前石凯未成年",
       "onboard_time": 1745462001,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 665482,
+      "num": 665482,
+      "word": "冉莹颖儿子打生长激素又长1.7厘米",
+      "onboard_time": 1745468844,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -187,20 +203,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 631038,
-      "num": 631038,
-      "word": "冉莹颖儿子打生长激素又长1.7厘米",
-      "onboard_time": 1745468844,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 627714,
       "num": 330062,
       "word": "营养专家称冉莹颖儿子靶身高172cm",
       "onboard_time": 1745456602,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 625435,
+      "num": 625435,
+      "word": "一波电视剧要来了",
+      "onboard_time": 1745473282,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 602029,
@@ -283,12 +299,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 394489,
-      "num": 394489,
+      "raw_hot": 398588,
+      "num": 398588,
       "word": "被苍兰诀2疯感狠狠烧到了",
       "onboard_time": 1745472561,
       "rank": 8,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 392510,
+      "num": 392510,
+      "word": "张杰演唱会500多个音响挂票",
+      "onboard_time": 1745472021,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 380184,
@@ -305,6 +329,14 @@
       "onboard_time": 1745452519,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 368945,
+      "num": 313297,
+      "word": "我和豆包结婚了",
+      "onboard_time": 1745470762,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 348369,
@@ -345,6 +377,14 @@
       "onboard_time": 1745452640,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 317906,
+      "num": 317906,
+      "word": "孙坚公布被盗监控",
+      "onboard_time": 1745474781,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 315448,
@@ -483,6 +523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 250416,
+      "num": 317391,
+      "word": "赵朔 悟空",
+      "onboard_time": 1745470163,
+      "rank": 35,
+      "category": "网红"
+    },
+    {
       "raw_hot": 245826,
       "num": 394684,
       "word": "刘国梁泪洒会场",
@@ -499,12 +547,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 229014,
-      "num": 229014,
-      "word": "我和豆包结婚了",
-      "onboard_time": 1745470762,
-      "rank": 23,
-      "category": "幽默"
+      "raw_hot": 230351,
+      "num": 230351,
+      "word": "咸鱼飞升",
+      "onboard_time": 1745473461,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 223085,
@@ -571,14 +619,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 208946,
-      "num": 208946,
-      "word": "张杰演唱会500多个音响挂票",
-      "onboard_time": 1745472021,
-      "rank": 37,
-      "category": "演出"
-    },
-    {
       "raw_hot": 207854,
       "num": 228432,
       "word": "赵丽颖配音幽灵公主",
@@ -593,6 +633,14 @@
       "onboard_time": 1745420123,
       "rank": 22,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 203247,
+      "num": 203247,
+      "word": "金靖镜头里的迪丽热巴",
+      "onboard_time": 1745475921,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 201550,
@@ -619,6 +667,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 198313,
+      "num": 179260,
+      "word": "金靖用脚拍的照片都是神图",
+      "onboard_time": 1745473580,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198152,
       "num": 198152,
       "word": "苍兰诀2动画暑期高燃开启",
@@ -633,6 +689,14 @@
       "onboard_time": 1745471422,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193883,
+      "num": 193883,
+      "word": "中国人进家脱鞋习惯上太空了",
+      "onboard_time": 1745475261,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 191234,
@@ -763,12 +827,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 172863,
-      "num": 172863,
-      "word": "赵朔 悟空",
-      "onboard_time": 1745470163,
-      "rank": 35,
-      "category": "网红"
+      "raw_hot": 172432,
+      "num": 172432,
+      "word": "骑手提醒外卖送得快不一定是好事",
+      "onboard_time": 1745473639,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 170288,
@@ -857,6 +921,14 @@
       "onboard_time": 1745457741,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162145,
+      "num": 162145,
+      "word": "刘亦菲和助理一起吃火锅",
+      "onboard_time": 1745475681,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 159067,
@@ -971,6 +1043,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 142556,
+      "num": 391624,
+      "word": "狗狗拍电影死亡戏用机械替身",
+      "onboard_time": 1745471482,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 141831,
+      "num": 141831,
+      "word": "985硕士求职大厂被拒只因本科双非学历",
+      "onboard_time": 1745475921,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141678,
       "num": 141678,
       "word": "小米王化回应雷军没去上海车展",
@@ -1009,6 +1097,14 @@
       "onboard_time": 1745463920,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 138196,
+      "num": 353499,
+      "word": "劳动监察部门回应猿辅导员工猝死在公司",
+      "onboard_time": 1745472981,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137812,
@@ -1083,6 +1179,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 126320,
+      "num": 126320,
+      "word": "邓超在家喊胡曼黎被孙俪骂",
+      "onboard_time": 1745476281,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 123514,
+      "num": 315634,
+      "word": "孙俪这不是熹妃回宫是什么",
+      "onboard_time": 1745475800,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122778,
       "num": 238853,
       "word": "IU 百想",
@@ -1097,14 +1209,6 @@
       "onboard_time": 1745462120,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 120447,
-      "num": 391624,
-      "word": "狗狗拍电影死亡戏用机械替身",
-      "onboard_time": 1745471482,
-      "rank": 39,
-      "category": "电影"
     },
     {
       "raw_hot": 119855,
@@ -1155,12 +1259,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112849,
+      "num": 112849,
+      "word": "火箭时隔1692天再次在季后赛赢球",
+      "onboard_time": 1745474841,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112667,
       "num": 112667,
       "word": "马丽说在新片中有太多感同身受",
       "onboard_time": 1745462960,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 112403,
+      "num": 315847,
+      "word": "轮到西方人向中国汽车取经了",
+      "onboard_time": 1745475681,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111914,
@@ -1195,6 +1315,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 107883,
+      "num": 316885,
+      "word": "云南一水库漂浮成片死鱼散发臭味",
+      "onboard_time": 1745474901,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106070,
       "num": 106070,
       "word": "何济霆 压球",
@@ -1209,14 +1337,6 @@
       "onboard_time": 1745458281,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 102736,
-      "num": 102736,
-      "word": "一波电视剧要来了",
-      "onboard_time": 1745473282,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 102433,
@@ -1243,6 +1363,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 100044,
+      "num": 314427,
+      "word": "1年级女童走神被老师揪耳朵撕裂2cm",
+      "onboard_time": 1745474901,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99829,
       "num": 99829,
       "word": "贝森特",
@@ -1257,22 +1385,6 @@
       "onboard_time": 1745397382,
       "rank": 32,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 98637,
-      "num": 98637,
-      "word": "女子取货时被男同事故意关冷库",
-      "onboard_time": 1745473161,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 95675,
-      "num": 101799,
-      "word": "劳动监察部门回应猿辅导员工猝死在公司",
-      "onboard_time": 1745472981,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 95285,
@@ -1299,12 +1411,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94111,
+      "num": 94111,
+      "word": "本来就烦被狗cos了更来气",
+      "onboard_time": 1745476401,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 92510,
       "num": 319160,
       "word": "马斯克和美财长在白宫激烈争吵",
       "onboard_time": 1745463321,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 92482,
+      "num": 92482,
+      "word": "蒲熠星ELLE悬疑大片",
+      "onboard_time": 1745474901,
+      "rank": 49,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 91281,
+      "num": 132187,
+      "word": "胡锡进说董明珠应该道歉",
+      "onboard_time": 1745475861,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90279,
@@ -1691,6 +1827,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 48129,
+      "num": 191123,
+      "word": "10人团伙盗取雅思试题狂赚千万",
+      "onboard_time": 1745474961,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46865,
       "num": 219274,
       "word": "经常吃撑对人体有哪些危害",
@@ -1867,6 +2011,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 21832,
+      "num": 174367,
+      "word": "圣坛和凡尘并肩作战",
+      "onboard_time": 1745475321,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 21052,
       "num": 32480,
       "word": "谭爷爷回应花花脸型变电视机",
@@ -1937,6 +2089,14 @@
       "onboard_time": 1745460081,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 15638,
+      "num": 315108,
+      "word": "特朗普是如何发家的",
+      "onboard_time": 1745475681,
+      "rank": 18,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 14509,

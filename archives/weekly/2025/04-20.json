@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745473339575,
+  "endTime": 1745476529124,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1027,6 +1027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 938077,
+      "num": 1150092,
+      "word": "35岁脑干出血程序员发声",
+      "onboard_time": 1745470042,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 932222,
       "num": 932222,
       "word": "金饰克价已涨到1082元",
@@ -1193,6 +1201,14 @@
       "onboard_time": 1745210125,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 842655,
+      "num": 842655,
+      "word": "女子取货时被男同事故意关冷库",
+      "onboard_time": 1745473161,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 838123,
@@ -1563,14 +1579,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 688778,
-      "num": 688778,
-      "word": "35岁脑干出血程序员发声",
-      "onboard_time": 1745470042,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 688275,
       "num": 688275,
       "word": "杨毅说过去三大赛无冠不可能当世一",
@@ -1641,6 +1649,14 @@
       "onboard_time": 1745240782,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 665482,
+      "num": 665482,
+      "word": "冉莹颖儿子打生长激素又长1.7厘米",
+      "onboard_time": 1745468844,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 663835,
@@ -1771,14 +1787,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 631038,
-      "num": 631038,
-      "word": "冉莹颖儿子打生长激素又长1.7厘米",
-      "onboard_time": 1745468844,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 627714,
       "num": 330062,
       "word": "营养专家称冉莹颖儿子靶身高172cm",
@@ -1801,6 +1809,14 @@
       "onboard_time": 1745391803,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 625435,
+      "num": 625435,
+      "word": "一波电视剧要来了",
+      "onboard_time": 1745473282,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 619650,
@@ -2803,6 +2819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 398588,
+      "num": 398588,
+      "word": "被苍兰诀2疯感狠狠烧到了",
+      "onboard_time": 1745472561,
+      "rank": 8,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 398549,
       "num": 502974,
       "word": "荣耀GTPro配置强如开挂",
@@ -2819,20 +2843,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 394489,
-      "num": 394489,
-      "word": "被苍兰诀2疯感狠狠烧到了",
-      "onboard_time": 1745472561,
-      "rank": 8,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 393306,
       "num": 393306,
       "word": "古茗求补货",
       "onboard_time": 1745117843,
       "rank": 27,
       "category": "美食"
+    },
+    {
+      "raw_hot": 392510,
+      "num": 392510,
+      "word": "张杰演唱会500多个音响挂票",
+      "onboard_time": 1745472021,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 392416,
@@ -3033,6 +3057,14 @@
       "onboard_time": 1745391983,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 368945,
+      "num": 313297,
+      "word": "我和豆包结婚了",
+      "onboard_time": 1745470762,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 368701,
@@ -3536,6 +3568,14 @@
       "word": "杨天真瘦好多",
       "onboard_time": 1745379624,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 317906,
+      "num": 317906,
+      "word": "孙坚公布被盗监控",
+      "onboard_time": 1745474781,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -4539,6 +4579,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 250416,
+      "num": 317391,
+      "word": "赵朔 悟空",
+      "onboard_time": 1745470163,
+      "rank": 35,
+      "category": "网红"
+    },
+    {
       "raw_hot": 249740,
       "num": 249740,
       "word": "JDG发布声明",
@@ -4931,6 +4979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 230351,
+      "num": 230351,
+      "word": "咸鱼飞升",
+      "onboard_time": 1745473461,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 230307,
       "num": 333302,
       "word": "K总婚礼嘉宾",
@@ -4969,14 +5025,6 @@
       "onboard_time": 1745223021,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 229014,
-      "num": 229014,
-      "word": "我和豆包结婚了",
-      "onboard_time": 1745470762,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 228782,
@@ -5563,14 +5611,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 208946,
-      "num": 208946,
-      "word": "张杰演唱会500多个音响挂票",
-      "onboard_time": 1745472021,
-      "rank": 37,
-      "category": "演出"
-    },
-    {
       "raw_hot": 208496,
       "num": 638526,
       "word": "曹骏范帅琦cp感",
@@ -5745,6 +5785,14 @@
       "onboard_time": 1745212283,
       "rank": 43,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 203247,
+      "num": 203247,
+      "word": "金靖镜头里的迪丽热巴",
+      "onboard_time": 1745475921,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 203244,
@@ -6075,6 +6123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198313,
+      "num": 179260,
+      "word": "金靖用脚拍的照片都是神图",
+      "onboard_time": 1745473580,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198277,
       "num": 198277,
       "word": "一诺满分苍",
@@ -6353,6 +6409,14 @@
       "onboard_time": 1745378424,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193883,
+      "num": 193883,
+      "word": "中国人进家脱鞋习惯上太空了",
+      "onboard_time": 1745475261,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 193725,
@@ -7531,14 +7595,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 172863,
-      "num": 172863,
-      "word": "赵朔 悟空",
-      "onboard_time": 1745470163,
-      "rank": 35,
-      "category": "网红"
-    },
-    {
       "raw_hot": 172859,
       "num": 172859,
       "word": "生万物",
@@ -7569,6 +7625,14 @@
       "onboard_time": 1745072904,
       "rank": 17,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 172432,
+      "num": 172432,
+      "word": "骑手提醒外卖送得快不一定是好事",
+      "onboard_time": 1745473639,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 172423,
@@ -8225,6 +8289,14 @@
       "onboard_time": 1745217741,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162145,
+      "num": 162145,
+      "word": "刘亦菲和助理一起吃火锅",
+      "onboard_time": 1745475681,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 162083,
@@ -9507,6 +9579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142556,
+      "num": 391624,
+      "word": "狗狗拍电影死亡戏用机械替身",
+      "onboard_time": 1745471482,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 142035,
       "num": 142035,
       "word": "CBA",
@@ -9529,6 +9609,14 @@
       "onboard_time": 1745310080,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 141831,
+      "num": 141831,
+      "word": "985硕士求职大厂被拒只因本科双非学历",
+      "onboard_time": 1745475921,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141762,
@@ -9769,6 +9857,14 @@
       "onboard_time": 1745110882,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138196,
+      "num": 353499,
+      "word": "劳动监察部门回应猿辅导员工猝死在公司",
+      "onboard_time": 1745472981,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138029,
@@ -10619,6 +10715,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 126320,
+      "num": 126320,
+      "word": "邓超在家喊胡曼黎被孙俪骂",
+      "onboard_time": 1745476281,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126287,
       "num": 312056,
       "word": "你好种地少年3官宣",
@@ -10795,6 +10899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123514,
+      "num": 315634,
+      "word": "孙俪这不是熹妃回宫是什么",
+      "onboard_time": 1745475800,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 123489,
       "num": 123489,
       "word": "感觉沙坪坝离韩国也不是很远",
@@ -10921,14 +11033,6 @@
       "onboard_time": 1745403143,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 120447,
-      "num": 391624,
-      "word": "狗狗拍电影死亡戏用机械替身",
-      "onboard_time": 1745471482,
-      "rank": 39,
-      "category": "电影"
     },
     {
       "raw_hot": 120019,
@@ -11235,6 +11339,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 112849,
+      "num": 112849,
+      "word": "火箭时隔1692天再次在季后赛赢球",
+      "onboard_time": 1745474841,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112796,
       "num": 112796,
       "word": "金价涨势前所未有",
@@ -11257,6 +11369,14 @@
       "onboard_time": 1745217982,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112403,
+      "num": 315847,
+      "word": "轮到西方人向中国汽车取经了",
+      "onboard_time": 1745475681,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112348,
@@ -11441,6 +11561,14 @@
       "onboard_time": 1745467462,
       "rank": 13,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 107883,
+      "num": 316885,
+      "word": "云南一水库漂浮成片死鱼散发臭味",
+      "onboard_time": 1745474901,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107708,
@@ -11731,14 +11859,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 102736,
-      "num": 102736,
-      "word": "一波电视剧要来了",
-      "onboard_time": 1745473282,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 102673,
       "num": 102673,
       "word": "我真的不能停止玩手机",
@@ -11883,6 +12003,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 100044,
+      "num": 314427,
+      "word": "1年级女童走神被老师揪耳朵撕裂2cm",
+      "onboard_time": 1745474901,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99883,
       "num": 419166,
       "word": "被前男友泼汽油烧残女孩再回应质疑",
@@ -11913,14 +12041,6 @@
       "onboard_time": 1745241684,
       "rank": 19,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 98637,
-      "num": 98637,
-      "word": "女子取货时被男同事故意关冷库",
-      "onboard_time": 1745473161,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 98142,
@@ -12075,14 +12195,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 95675,
-      "num": 101799,
-      "word": "劳动监察部门回应猿辅导员工猝死在公司",
-      "onboard_time": 1745472981,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 95608,
       "num": 374509,
       "word": "美关税政策致全球经济增长显著放缓",
@@ -12145,6 +12257,14 @@
       "onboard_time": 1745147542,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94111,
+      "num": 94111,
+      "word": "本来就烦被狗cos了更来气",
+      "onboard_time": 1745476401,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 94102,
@@ -12235,6 +12355,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 92482,
+      "num": 92482,
+      "word": "蒲熠星ELLE悬疑大片",
+      "onboard_time": 1745474901,
+      "rank": 49,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 92282,
       "num": 92282,
       "word": "陈都灵辛云来这段付费才可以不看",
@@ -12265,6 +12393,14 @@
       "onboard_time": 1745073984,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 91281,
+      "num": 132187,
+      "word": "胡锡进说董明珠应该道歉",
+      "onboard_time": 1745475861,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91034,
@@ -14523,6 +14659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 48129,
+      "num": 191123,
+      "word": "10人团伙盗取雅思试题狂赚千万",
+      "onboard_time": 1745474961,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48124,
       "num": 48124,
       "word": "桃黑黑",
@@ -16187,6 +16331,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 21832,
+      "num": 174367,
+      "word": "圣坛和凡尘并肩作战",
+      "onboard_time": 1745475321,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 21570,
       "num": 168835,
       "word": "3100种抗氧化王者这7种多吃",
@@ -16721,6 +16873,14 @@
       "onboard_time": 1745460081,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 15638,
+      "num": 315108,
+      "word": "特朗普是如何发家的",
+      "onboard_time": 1745475681,
+      "rank": 18,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 15563,

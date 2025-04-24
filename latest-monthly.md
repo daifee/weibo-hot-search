@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/24 13:42:19
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/24 14:35:29
 </p>
 </blockquote>
 <p>
@@ -4155,6 +4155,12 @@ JYP写了中国台湾省（热度：940194）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2335%E5%B2%81%E8%84%91%E5%B9%B2%E5%87%BA%E8%A1%80%E7%A8%8B%E5%BA%8F%E5%91%98%E5%8F%91%E5%A3%B0%23" target="weibo">
+35岁脑干出血程序员发声（热度：938077）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%AA%81%E7%84%B6%E4%BA%B2%E8%87%AA%E4%B8%8E%E6%97%A5%E6%9C%AC%E8%B0%88%E5%88%A4%23" target="weibo">
 特朗普突然亲自与日本谈判（热度：938036）
 </a>
@@ -4859,6 +4865,12 @@ iPhone16回收价已涨300元（热度：844612）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E8%AE%A2%E5%A9%9A%E5%BC%BA%E5%A5%B8%E6%A1%88%E7%94%B7%E6%96%B9%E5%B7%B2%E8%A2%AB%E7%BE%81%E6%8A%BC711%E5%A4%A9%23" target="weibo">
 山西订婚强奸案男方已被羁押711天（热度：843489）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%8F%96%E8%B4%A7%E6%97%B6%E8%A2%AB%E7%94%B7%E5%90%8C%E4%BA%8B%E6%95%85%E6%84%8F%E5%85%B3%E5%86%B7%E5%BA%93%23" target="weibo">
+女子取货时被男同事故意关冷库（热度：842655）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ TVB男演员陈键锋学厨以第一名毕业（热度：726197）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%81%A9%E7%9B%9B%E7%9B%B4%E6%92%AD%E6%97%B6%E7%AA%81%E7%84%B6%E7%BC%BA%E6%B0%A7%E5%92%8C%E8%BA%AF%E4%BD%93%E5%8C%96%23" target="weibo">
 孙恩盛直播时突然缺氧和躯体化（热度：724320）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%B9%E9%94%A1%E6%82%A6%E5%BC%B9%E5%8A%BE%E6%A1%88%E5%AE%A3%E5%88%A4%23" target="weibo">
-尹锡悦弹劾案宣判（热度：722608）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%AB%A5%E8%A2%AB%E7%94%9F%E7%88%B6%E5%A5%B3%E5%8F%8B%E8%99%90%E6%AD%BB%E6%A1%88%E5%BC%80%E5%BA%AD%23" target="weibo">
-男童被生父女友虐死案开庭（热度：721132）
 </a>
 </li>
 

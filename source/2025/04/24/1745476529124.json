@@ -1,0 +1,410 @@
+{
+  "runTime": 1745476529124,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 938077,
+        "num": 1150092,
+        "word": "35岁脑干出血程序员发声",
+        "onboard_time": 1745470042,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 842655,
+        "num": 842655,
+        "word": "女子取货时被男同事故意关冷库",
+        "onboard_time": 1745473161,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68651,
+        "num": 749688,
+        "word": "中方在联合国会议发出3问",
+        "onboard_time": 1745466021,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 726048,
+        "num": 726048,
+        "word": "妻子开车躲家暴致丈夫身亡被判11年",
+        "onboard_time": 1745468003,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 665482,
+        "num": 665482,
+        "word": "冉莹颖儿子打生长激素又长1.7厘米",
+        "onboard_time": 1745468844,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2334849,
+        "num": 664221,
+        "word": "猿辅导员工猝死在公司",
+        "onboard_time": 1745469742,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 625435,
+        "num": 625435,
+        "word": "一波电视剧要来了",
+        "onboard_time": 1745473282,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 398588,
+        "num": 398588,
+        "word": "被苍兰诀2疯感狠狠烧到了",
+        "onboard_time": 1745472561,
+        "rank": 7,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 392510,
+        "num": 392510,
+        "word": "张杰演唱会500多个音响挂票",
+        "onboard_time": 1745472021,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 138196,
+        "num": 353499,
+        "word": "劳动监察部门回应猿辅导员工猝死在公司",
+        "onboard_time": 1745472981,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1202272,
+        "num": 336814,
+        "word": "石凯订婚照",
+        "onboard_time": 1745468243,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1073774,
+        "num": 328921,
+        "word": "关晓彤 鹿晗",
+        "onboard_time": 1745453661,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317906,
+        "num": 317906,
+        "word": "孙坚公布被盗监控",
+        "onboard_time": 1745474781,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250416,
+        "num": 317391,
+        "word": "赵朔 悟空",
+        "onboard_time": 1745470163,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 107883,
+        "num": 316885,
+        "word": "云南一水库漂浮成片死鱼散发臭味",
+        "onboard_time": 1745474901,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 949263,
+        "num": 316641,
+        "word": "刘强东取外卖遇卡餐一脸迷茫",
+        "onboard_time": 1745464822,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112403,
+        "num": 315847,
+        "word": "轮到西方人向中国汽车取经了",
+        "onboard_time": 1745475681,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123514,
+        "num": 315634,
+        "word": "孙俪这不是熹妃回宫是什么",
+        "onboard_time": 1745475800,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15638,
+        "num": 315108,
+        "word": "特朗普是如何发家的",
+        "onboard_time": 1745475681,
+        "rank": 18,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 100044,
+        "num": 314427,
+        "word": "1年级女童走神被老师揪耳朵撕裂2cm",
+        "onboard_time": 1745474901,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 589346,
+        "num": 313993,
+        "word": "石凯 订过婚",
+        "onboard_time": 1745402903,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368945,
+        "num": 313297,
+        "word": "我和豆包结婚了",
+        "onboard_time": 1745470762,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 313225,
+        "num": 313225,
+        "word": "小红书将取消大小周",
+        "onboard_time": 1745455402,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 270969,
+        "num": 270969,
+        "word": "父亲病危儿子请假照顾被开除",
+        "onboard_time": 1745463140,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230351,
+        "num": 230351,
+        "word": "咸鱼飞升",
+        "onboard_time": 1745473461,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230248,
+        "num": 230248,
+        "word": "刘亦菲跳舞十年前vs十年后",
+        "onboard_time": 1745470884,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210218,
+        "num": 210218,
+        "word": "这居然是向佐",
+        "onboard_time": 1745465961,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203247,
+        "num": 203247,
+        "word": "金靖镜头里的迪丽热巴",
+        "onboard_time": 1745475921,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193883,
+        "num": 193883,
+        "word": "中国人进家脱鞋习惯上太空了",
+        "onboard_time": 1745475261,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48129,
+        "num": 191123,
+        "word": "10人团伙盗取雅思试题狂赚千万",
+        "onboard_time": 1745474961,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190252,
+        "num": 190252,
+        "word": "陈德容 我不会演孩子的妈",
+        "onboard_time": 1745464521,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180019,
+        "num": 180019,
+        "word": "关税让美国一小企业仅剩5人",
+        "onboard_time": 1745467582,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 198313,
+        "num": 179260,
+        "word": "金靖用脚拍的照片都是神图",
+        "onboard_time": 1745473580,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21832,
+        "num": 174367,
+        "word": "圣坛和凡尘并肩作战",
+        "onboard_time": 1745475321,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172432,
+        "num": 172432,
+        "word": "骑手提醒外卖送得快不一定是好事",
+        "onboard_time": 1745473639,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162145,
+        "num": 162145,
+        "word": "刘亦菲和助理一起吃火锅",
+        "onboard_time": 1745475681,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142556,
+        "num": 142556,
+        "word": "狗狗拍电影死亡戏用机械替身",
+        "onboard_time": 1745471482,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141831,
+        "num": 141831,
+        "word": "985硕士求职大厂被拒只因本科双非学历",
+        "onboard_time": 1745475921,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91281,
+        "num": 132187,
+        "word": "胡锡进说董明珠应该道歉",
+        "onboard_time": 1745475861,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81164,
+        "num": 129914,
+        "word": "AUDI量产概念车",
+        "onboard_time": 1745471061,
+        "rank": 39,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 129488,
+        "num": 129488,
+        "word": "有一种浪漫叫中国航天",
+        "onboard_time": 1745462779,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 128366,
+        "num": 128366,
+        "word": "美国一饼干公司快没包装用了",
+        "onboard_time": 1745467100,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 126320,
+        "num": 126320,
+        "word": "邓超在家喊胡曼黎被孙俪骂",
+        "onboard_time": 1745476281,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125676,
+        "num": 125676,
+        "word": "2024年十大考古新发现",
+        "onboard_time": 1745458341,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124154,
+        "num": 124154,
+        "word": "杨紫手握五部待播作品",
+        "onboard_time": 1745472321,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112849,
+        "num": 112849,
+        "word": "火箭时隔1692天再次在季后赛赢球",
+        "onboard_time": 1745474841,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107179,
+        "num": 107179,
+        "word": "不知不觉都神二十了",
+        "onboard_time": 1745457682,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 96247,
+        "num": 96247,
+        "word": "Uzi名人堂皮肤爆料",
+        "onboard_time": 1745468063,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 94111,
+        "num": 94111,
+        "word": "本来就烦被狗cos了更来气",
+        "onboard_time": 1745476401,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92482,
+        "num": 92482,
+        "word": "蒲熠星ELLE悬疑大片",
+        "onboard_time": 1745474901,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同肯尼亚总统鲁托会谈#"
+    }
+  }
+}
