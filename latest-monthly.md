@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/24 23:42:44
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/25 00:31:29
 </p>
 </blockquote>
 <p>
@@ -4131,6 +4131,12 @@ vava发博向杨超越道歉（热度：968479）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8A%A2labubu%23" target="weibo">
+抢labubu（热度：957557）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2340%E5%B2%81%E7%8E%8B%E5%86%95%E9%80%80%E5%9C%88%E5%A4%87%E5%AD%95%E9%81%87%E8%83%8E%E5%81%9C%23" target="weibo">
 40岁王冕退圈备孕遇胎停（热度：957342）
 </a>
@@ -5195,12 +5201,6 @@ bite me男伴舞（热度：832510）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AA%92%E6%9B%9D%E7%BE%8E%E8%B4%A2%E9%95%BF%E5%8F%97%E4%B8%8D%E4%BA%86%E8%8D%92%E8%B0%AC%E7%9A%84%E5%AF%B9%E7%AD%89%E5%85%B3%E7%A8%8E%23" target="weibo">
 美媒曝美财长受不了荒谬的对等关税（热度：822646）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8A%A2labubu%23" target="weibo">
-抢labubu（热度：822483）
 </a>
 </li>
 

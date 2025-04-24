@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745509364314,
+  "endTime": 1745512289618,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1147,6 +1147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 957557,
+      "num": 957557,
+      "word": "抢labubu",
+      "onboard_time": 1745505382,
+      "rank": 30,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 950734,
       "num": 467135,
       "word": "永野芽郁 田中圭",
@@ -1409,14 +1417,6 @@
       "onboard_time": 1745238442,
       "rank": 24,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 822483,
-      "num": 822483,
-      "word": "抢labubu",
-      "onboard_time": 1745505382,
-      "rank": 30,
-      "category": "休闲"
     },
     {
       "raw_hot": 817201,
@@ -2692,7 +2692,7 @@
     },
     {
       "raw_hot": 490978,
-      "num": 367793,
+      "num": 375392,
       "word": "一念江南 虞书欣",
       "onboard_time": 1745506823,
       "rank": 11,
@@ -2769,6 +2769,14 @@
       "onboard_time": 1745114244,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 475196,
+      "num": 242154,
+      "word": "约70%的00后计划30岁前购房",
+      "onboard_time": 1745510242,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 474220,
@@ -3160,6 +3168,14 @@
       "word": "语聊房竟成色情服务叫卖场所",
       "onboard_time": 1745190319,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 406818,
+      "num": 265321,
+      "word": "当事人回应取名朱雀玄武敕令",
+      "onboard_time": 1745506522,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -4155,6 +4171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 309029,
+      "num": 335372,
+      "word": "男子离婚诉讼6年3次被判不许离",
+      "onboard_time": 1745508382,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 308142,
       "num": 308142,
       "word": "中国已停止接收波音飞机",
@@ -4361,6 +4385,14 @@
       "onboard_time": 1745128822,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 297905,
+      "num": 297905,
+      "word": "唐国强反复认错丁程鑫刘耀文",
+      "onboard_time": 1745508023,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 297314,
@@ -4795,6 +4827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 268322,
+      "num": 241781,
+      "word": "我当了明星就这样",
+      "onboard_time": 1745510360,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 268200,
       "num": 389240,
       "word": "于适说真诚创作永远排第一位",
@@ -4881,14 +4921,6 @@
       "onboard_time": 1745253259,
       "rank": 33,
       "category": "健康医疗,民生新闻"
-    },
-    {
-      "raw_hot": 265321,
-      "num": 265321,
-      "word": "当事人回应取名朱雀玄武敕令",
-      "onboard_time": 1745506522,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 265257,
@@ -5259,6 +5291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 245700,
+      "num": 245700,
+      "word": "神二十与空间站完成对接",
+      "onboard_time": 1745510179,
+      "rank": 7,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 245613,
       "num": 328797,
       "word": "伊能静也觉得秦昊和钟楚曦好配",
@@ -5361,6 +5401,14 @@
       "onboard_time": 1745311881,
       "rank": 31,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 241529,
+      "num": 241529,
+      "word": "fx出道前练习室",
+      "onboard_time": 1745507782,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 241505,
@@ -6131,6 +6179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 213810,
+      "num": 242434,
+      "word": "成本9元素颜霜标38元卖出500多万",
+      "onboard_time": 1745511440,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 213803,
       "num": 371265,
       "word": "仁川机场偶遇李昀锐和哥哥",
@@ -6145,14 +6201,6 @@
       "onboard_time": 1745388561,
       "rank": 37,
       "category": "体育,汽车"
-    },
-    {
-      "raw_hot": 213329,
-      "num": 213329,
-      "word": "唐国强反复认错丁程鑫刘耀文",
-      "onboard_time": 1745508023,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 213189,
@@ -6305,14 +6353,6 @@
       "onboard_time": 1745225122,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 208834,
-      "num": 208834,
-      "word": "fx出道前练习室",
-      "onboard_time": 1745507782,
-      "rank": 32,
-      "category": "音乐"
     },
     {
       "raw_hot": 208496,
@@ -9859,14 +9899,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 154171,
-      "num": 335372,
-      "word": "男子离婚诉讼6年3次被判不许离",
-      "onboard_time": 1745508382,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 154051,
       "num": 154051,
       "word": "李灿卷毛",
@@ -11713,6 +11745,14 @@
       "onboard_time": 1745133202,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130815,
+      "num": 130815,
+      "word": "40件小事快速缓解焦虑",
+      "onboard_time": 1745510120,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 130783,
@@ -13963,6 +14003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88565,
+      "num": 88565,
+      "word": "这是我的岛",
+      "onboard_time": 1745510179,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 87832,
       "num": 352611,
       "word": "燃油王者上场了",
@@ -14017,6 +14065,14 @@
       "onboard_time": 1745117425,
       "rank": 41,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 86517,
+      "num": 86517,
+      "word": "全红婵打乒乓球绝杀王宗源",
+      "onboard_time": 1745508982,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 86234,
@@ -14265,6 +14321,14 @@
       "onboard_time": 1745333903,
       "rank": 18,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 80987,
+      "num": 224829,
+      "word": "男子为复合给前女友装定位器被判刑",
+      "onboard_time": 1745508622,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80867,
@@ -15035,6 +15099,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 66609,
+      "num": 66609,
+      "word": "对方使用了一杯奶茶",
+      "onboard_time": 1745511081,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 66273,
       "num": 369276,
       "word": "越来越多科研人员考虑离开美国",
@@ -15681,6 +15753,14 @@
       "onboard_time": 1745450960,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54721,
+      "num": 62469,
+      "word": "柯南新片20年最高分有何含金量",
+      "onboard_time": 1745498002,
+      "rank": 47,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 54669,
@@ -16451,14 +16531,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 44645,
-      "num": 224829,
-      "word": "男子为复合给前女友装定位器被判刑",
-      "onboard_time": 1745508622,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 44551,
       "num": 485474,
       "word": "卤味三巨头一年关店数千家",
@@ -16585,6 +16657,14 @@
       "onboard_time": 1745468243,
       "rank": 39,
       "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 43244,
+      "num": 131072,
+      "word": "董力阿诺带娃出游",
+      "onboard_time": 1745507543,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 43183,
@@ -18579,6 +18659,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 17266,
+      "num": 924231,
+      "word": "高质量发展中国行",
+      "onboard_time": 1745501783,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17029,
       "num": 215607,
       "word": "高关税反噬美国国民福利",
@@ -18793,14 +18881,6 @@
       "onboard_time": 1745348654,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 15146,
-      "num": 924231,
-      "word": "高质量发展中国行",
-      "onboard_time": 1745501783,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14818,
