@@ -1,6 +1,6 @@
 {
   "startTime": 1745425908553,
-  "endTime": 1745505808700,
+  "endTime": 1745508459280,
   "band_list": [
     {
       "raw_hot": 2713875,
@@ -123,6 +123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1197965,
+      "num": 1068952,
+      "word": "小米员工称平均工时12小时仍被约谈",
+      "onboard_time": 1745500101,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1171909,
       "num": 1187505,
       "word": "孙坚又被偷了",
@@ -161,6 +169,14 @@
       "onboard_time": 1745502082,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1064211,
+      "num": 1170273,
+      "word": "榜上佳婿 空降",
+      "onboard_time": 1745504603,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 1060735,
@@ -339,6 +355,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 732050,
+      "num": 732050,
+      "word": "抢labubu",
+      "onboard_time": 1745505382,
+      "rank": 30,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 721282,
       "num": 721282,
       "word": "费列罗长蛆",
@@ -369,14 +393,6 @@
       "onboard_time": 1745424021,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 703314,
-      "num": 703314,
-      "word": "小米员工称平均工时12小时仍被约谈",
-      "onboard_time": 1745500101,
-      "rank": 32,
-      "category": "互联网"
     },
     {
       "raw_hot": 687303,
@@ -507,14 +523,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 572164,
-      "num": 572164,
-      "word": "榜上佳婿 空降",
-      "onboard_time": 1745504603,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 556151,
       "num": 556151,
       "word": "中国人进家脱鞋习惯上太空了",
@@ -604,7 +612,7 @@
     },
     {
       "raw_hot": 427366,
-      "num": 336830,
+      "num": 374689,
       "word": "这是我的西游空降",
       "onboard_time": 1745502921,
       "rank": 16,
@@ -692,7 +700,7 @@
     },
     {
       "raw_hot": 381616,
-      "num": 381616,
+      "num": 723897,
       "word": "澳大利亚出动直升机扑杀750只考拉",
       "onboard_time": 1745497942,
       "rank": 36,
@@ -721,6 +729,14 @@
       "onboard_time": 1745470762,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 366234,
+      "num": 366234,
+      "word": "一念江南 虞书欣",
+      "onboard_time": 1745506823,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 357266,
@@ -865,6 +881,14 @@
       "onboard_time": 1745462779,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 301272,
+      "num": 366748,
+      "word": "张继科说雨果夺冠是绝对实力",
+      "onboard_time": 1745505562,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 301155,
@@ -1131,6 +1155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 240032,
+      "num": 240032,
+      "word": "杨紫当年就是这样撩林志玲的",
+      "onboard_time": 1745506282,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 233847,
       "num": 296081,
       "word": "陆虎戴安全帽直播",
@@ -1275,14 +1307,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 207900,
-      "num": 207900,
-      "word": "抢labubu",
-      "onboard_time": 1745505382,
-      "rank": 30,
-      "category": "休闲"
-    },
-    {
       "raw_hot": 207854,
       "num": 228432,
       "word": "赵丽颖配音幽灵公主",
@@ -1321,6 +1345,14 @@
       "onboard_time": 1745493802,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 203169,
+      "num": 203169,
+      "word": "唐国强反复认错丁程鑫刘耀文",
+      "onboard_time": 1745508023,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 202948,
@@ -1467,6 +1499,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 188832,
+      "num": 249508,
+      "word": "当事人回应取名朱雀玄武敕令",
+      "onboard_time": 1745506522,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 188632,
       "num": 188632,
       "word": "骑手提醒外卖送得快不一定是好事",
@@ -1537,6 +1577,14 @@
       "onboard_time": 1745493141,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 183441,
+      "num": 183441,
+      "word": "fx出道前练习室",
+      "onboard_time": 1745507782,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 183095,
@@ -1699,6 +1747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166031,
+      "num": 166031,
+      "word": "杨超越太权威了",
+      "onboard_time": 1745507181,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165802,
       "num": 328025,
       "word": "冒充县领导亲戚十年骗取38箱香菇木耳",
@@ -1803,12 +1859,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 157671,
+      "num": 146260,
+      "word": "落花时节又逢君",
+      "onboard_time": 1745506162,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156398,
       "num": 156398,
       "word": "男人和男爱豆是不同种族",
       "onboard_time": 1745498543,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156388,
+      "num": 359807,
+      "word": "5月1日起杭州生育津贴直发个人",
+      "onboard_time": 1745506763,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 156115,
@@ -1873,14 +1945,6 @@
       "onboard_time": 1745490321,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 154378,
-      "num": 154378,
-      "word": "张继科说雨果夺冠是绝对实力",
-      "onboard_time": 1745505562,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 154268,
@@ -2075,6 +2139,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 144679,
+      "num": 144679,
+      "word": "RW战胜eStar",
+      "onboard_time": 1745507302,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 144511,
       "num": 192219,
       "word": "韩东君杀青照",
@@ -2089,6 +2161,14 @@
       "onboard_time": 1745472501,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144173,
+      "num": 379249,
+      "word": "关税战让美国农场主不会了",
+      "onboard_time": 1745504963,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 143431,
@@ -2379,6 +2459,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 128454,
+      "num": 346037,
+      "word": "老小区40栋楼里10栋已成危楼",
+      "onboard_time": 1745506403,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128112,
       "num": 128112,
       "word": "绘旅人昨日晴空",
@@ -2435,6 +2523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121446,
+      "num": 121446,
+      "word": "斯瓦泰克vs伊埃拉",
+      "onboard_time": 1745507841,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121183,
       "num": 121183,
       "word": "疑似MSI奖牌被出售",
@@ -2481,6 +2577,14 @@
       "onboard_time": 1745465841,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 117779,
+      "num": 359354,
+      "word": "小区通知将对地下车库流浪猫投药",
+      "onboard_time": 1745507062,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115283,
@@ -2843,14 +2947,6 @@
       "category": "互联网,民生新闻"
     },
     {
-      "raw_hot": 86456,
-      "num": 379249,
-      "word": "关税战让美国农场主不会了",
-      "onboard_time": 1745504963,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 86294,
       "num": 86294,
       "word": "我给鞠婧祎拍的撕拉片",
@@ -2969,6 +3065,14 @@
       "onboard_time": 1745471001,
       "rank": 18,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 76348,
+      "num": 184539,
+      "word": "男子离婚诉讼6年3次被判不许离",
+      "onboard_time": 1745508382,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76301,
@@ -3220,7 +3324,7 @@
     },
     {
       "raw_hot": 54669,
-      "num": 346372,
+      "num": 366384,
       "word": "博世纵横辅助驾驶首秀",
       "onboard_time": 1745505083,
       "rank": 17,
@@ -3883,6 +3987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 13982,
+      "num": 924231,
+      "word": "高质量发展中国行",
+      "onboard_time": 1745501783,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 13251,
       "num": 149466,
       "word": "现在去留学还值得吗",
@@ -3955,14 +4067,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 11482,
-      "num": 924231,
-      "word": "高质量发展中国行",
-      "onboard_time": 1745501783,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 10833,
       "num": 14521,
       "word": "周深做好自己请我不改",
@@ -3993,6 +4097,14 @@
       "onboard_time": 1745476880,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8480,
+      "num": 345322,
+      "word": "旅游水土不服是哪里出了问题",
+      "onboard_time": 1745508082,
+      "rank": 19,
+      "category": "旅游"
     },
     {
       "raw_hot": 8460,

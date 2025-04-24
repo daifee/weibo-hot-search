@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1745505808700,
+  "endTime": 1745508459280,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -3739,6 +3739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1197965,
+      "num": 1068952,
+      "word": "小米员工称平均工时12小时仍被约谈",
+      "onboard_time": 1745500101,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1196332,
       "num": 679207,
       "word": "文和友",
@@ -4633,6 +4641,14 @@
       "onboard_time": 1743561081,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1064211,
+      "num": 1170273,
+      "word": "榜上佳婿 空降",
+      "onboard_time": 1745504603,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 1063790,
@@ -8051,6 +8067,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 732050,
+      "num": 732050,
+      "word": "抢labubu",
+      "onboard_time": 1743757220,
+      "rank": 31,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 731455,
       "num": 731455,
       "word": "甲亢哥长沙",
@@ -8577,14 +8601,6 @@
       "onboard_time": 1745424021,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 703314,
-      "num": 703314,
-      "word": "小米员工称平均工时12小时仍被约谈",
-      "onboard_time": 1745500101,
-      "rank": 32,
-      "category": "互联网"
     },
     {
       "raw_hot": 702948,
@@ -11049,14 +11065,6 @@
       "onboard_time": 1744346722,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 572164,
-      "num": 572164,
-      "word": "榜上佳婿 空降",
-      "onboard_time": 1745504603,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 570809,
@@ -15092,7 +15100,7 @@
     },
     {
       "raw_hot": 427366,
-      "num": 336830,
+      "num": 374689,
       "word": "这是我的西游空降",
       "onboard_time": 1745502921,
       "rank": 16,
@@ -17028,7 +17036,7 @@
     },
     {
       "raw_hot": 381616,
-      "num": 381616,
+      "num": 723897,
       "word": "澳大利亚出动直升机扑杀750只考拉",
       "onboard_time": 1745497942,
       "rank": 36,
@@ -17745,6 +17753,14 @@
       "onboard_time": 1744083683,
       "rank": 41,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 366234,
+      "num": 366234,
+      "word": "一念江南 虞书欣",
+      "onboard_time": 1745506823,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 366210,
@@ -21473,6 +21489,14 @@
       "onboard_time": 1744170082,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 301272,
+      "num": 366748,
+      "word": "张继科说雨果夺冠是绝对实力",
+      "onboard_time": 1745505562,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 301155,
@@ -26587,6 +26611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 240032,
+      "num": 240032,
+      "word": "杨紫当年就是这样撩林志玲的",
+      "onboard_time": 1745506282,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 239950,
       "num": 239950,
       "word": "树木倒伏致55岁骑车女子被砸身亡",
@@ -31179,14 +31211,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 207900,
-      "num": 207900,
-      "word": "抢labubu",
-      "onboard_time": 1743757220,
-      "rank": 31,
-      "category": "休闲"
-    },
-    {
       "raw_hot": 207854,
       "num": 228432,
       "word": "赵丽颖配音幽灵公主",
@@ -32425,6 +32449,14 @@
       "onboard_time": 1744810283,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203169,
+      "num": 203169,
+      "word": "唐国强反复认错丁程鑫刘耀文",
+      "onboard_time": 1745508023,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 203114,
@@ -36659,6 +36691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188832,
+      "num": 249508,
+      "word": "当事人回应取名朱雀玄武敕令",
+      "onboard_time": 1745506522,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 188726,
       "num": 188726,
       "word": "MVP罗斯在上海变英语特困生",
@@ -38225,6 +38265,14 @@
       "onboard_time": 1744155141,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 183441,
+      "num": 183441,
+      "word": "fx出道前练习室",
+      "onboard_time": 1745507782,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 183439,
@@ -42883,6 +42931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166031,
+      "num": 166031,
+      "word": "杨超越太权威了",
+      "onboard_time": 1745507181,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166019,
       "num": 166019,
       "word": "毛毛果",
@@ -45427,6 +45483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157671,
+      "num": 146260,
+      "word": "落花时节又逢君",
+      "onboard_time": 1745506162,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157644,
       "num": 157644,
       "word": "好多选手想加入严浩翔队",
@@ -45857,6 +45921,14 @@
       "onboard_time": 1743859885,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 156388,
+      "num": 359807,
+      "word": "5月1日起杭州生育津贴直发个人",
+      "onboard_time": 1745506763,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 156373,
@@ -46553,14 +46625,6 @@
       "onboard_time": 1745413881,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 154378,
-      "num": 154378,
-      "word": "张继科说雨果夺冠是绝对实力",
-      "onboard_time": 1745505562,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 154326,
@@ -49907,6 +49971,14 @@
       "category": "国内时政,国际时政"
     },
     {
+      "raw_hot": 144679,
+      "num": 144679,
+      "word": "RW战胜eStar",
+      "onboard_time": 1745507302,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 144675,
       "num": 144675,
       "word": "杜华希望子涵越来越好",
@@ -50089,6 +50161,14 @@
       "onboard_time": 1745318302,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 144173,
+      "num": 379249,
+      "word": "关税战让美国农场主不会了",
+      "onboard_time": 1745504963,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 144152,
@@ -55803,6 +55883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128454,
+      "num": 346037,
+      "word": "老小区40栋楼里10栋已成危楼",
+      "onboard_time": 1745506403,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128418,
       "num": 128418,
       "word": "刑警还是嫌犯钟伟说了不算",
@@ -57987,6 +58075,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 121446,
+      "num": 121446,
+      "word": "斯瓦泰克vs伊埃拉",
+      "onboard_time": 1745507841,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121401,
       "num": 121401,
       "word": "李嘉琦的分享好浓的班味儿",
@@ -59161,6 +59257,14 @@
       "onboard_time": 1743563602,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117779,
+      "num": 359354,
+      "word": "小区通知将对地下车库流浪猫投药",
+      "onboard_time": 1745507062,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117774,
@@ -66083,14 +66187,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 86456,
-      "num": 379249,
-      "word": "关税战让美国农场主不会了",
-      "onboard_time": 1745504963,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 86420,
       "num": 276772,
       "word": "周翊然在古驰活动当导游",
@@ -67985,6 +68081,14 @@
       "onboard_time": 1744250423,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 76348,
+      "num": 184539,
+      "word": "男子离婚诉讼6年3次被判不许离",
+      "onboard_time": 1745508382,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76332,
@@ -72164,7 +72268,7 @@
     },
     {
       "raw_hot": 54669,
-      "num": 346372,
+      "num": 366384,
       "word": "博世纵横辅助驾驶首秀",
       "onboard_time": 1745505083,
       "rank": 17,
@@ -82523,6 +82627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 13982,
+      "num": 924231,
+      "word": "高质量发展中国行",
+      "onboard_time": 1745501783,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 13939,
       "num": 20583,
       "word": "张远粉丝想要粉丝得到",
@@ -83137,14 +83249,6 @@
       "onboard_time": 1744021283,
       "rank": 39,
       "category": "网红,民生新闻"
-    },
-    {
-      "raw_hot": 11482,
-      "num": 924231,
-      "word": "高质量发展中国行",
-      "onboard_time": 1745501783,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 11360,
@@ -83849,6 +83953,14 @@
       "onboard_time": 1744715182,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8480,
+      "num": 345322,
+      "word": "旅游水土不服是哪里出了问题",
+      "onboard_time": 1745508082,
+      "rank": 19,
+      "category": "旅游"
     },
     {
       "raw_hot": 8460,

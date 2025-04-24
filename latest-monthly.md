@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/24 22:43:28
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/24 23:27:39
 </p>
 </blockquote>
 <p>
@@ -2817,6 +2817,12 @@ VaVa 灰原哀（热度：1212430）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%91%98%E5%B7%A5%E7%A7%B0%E5%B9%B3%E5%9D%87%E5%B7%A5%E6%97%B612%E5%B0%8F%E6%97%B6%E4%BB%8D%E8%A2%AB%E7%BA%A6%E8%B0%88%23" target="weibo">
+小米员工称平均工时12小时仍被约谈（热度：1197965）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E5%92%8C%E5%8F%8B%23" target="weibo">
 文和友（热度：1196332）
 </a>
@@ -3485,6 +3491,12 @@ DeepSeek7小时攻克缅甸救灾语言关（热度：1104741）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E7%A7%80%E8%B4%A4%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E%23" target="weibo">
 金秀贤被举报偷税漏税（热度：1064576）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A6%9C%E4%B8%8A%E4%BD%B3%E5%A9%BF%20%E7%A9%BA%E9%99%8D%23" target="weibo">
+榜上佳婿 空降（热度：1064211）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ YERI和Wendy离开SM（热度：805847）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23GAI%E9%83%BD%E7%98%A6%E8%84%B1%E7%9B%B8%E4%BA%86%23" target="weibo">
 GAI都瘦脱相了（热度：737143）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E6%98%8E%E6%98%8E%E8%AE%B0%E5%BE%97%E6%95%99%E5%B8%88%E6%98%AF%E4%B8%AA%E4%BD%93%E9%9D%A2%E7%9A%84%E8%81%8C%E4%B8%9A%23" target="weibo">
-我明明记得教师是个体面的职业（热度：736698）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E5%93%AA%E5%90%92%23" target="weibo">
-泡泡玛特哪吒（热度：736612）
 </a>
 </li>
 
