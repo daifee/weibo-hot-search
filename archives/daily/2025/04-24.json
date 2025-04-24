@@ -1,6 +1,6 @@
 {
   "startTime": 1745425908553,
-  "endTime": 1745502415736,
+  "endTime": 1745504628628,
   "band_list": [
     {
       "raw_hot": 2713875,
@@ -115,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1190376,
+      "num": 1190460,
+      "word": "孙俪杨紫是第一次见",
+      "onboard_time": 1745498543,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1171909,
       "num": 1187505,
       "word": "孙坚又被偷了",
@@ -145,6 +153,14 @@
       "onboard_time": 1745468003,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1071576,
+      "num": 1071576,
+      "word": "特朗普考虑对华关税分级方案",
+      "onboard_time": 1745502082,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1060735,
@@ -180,7 +196,7 @@
     },
     {
       "raw_hot": 1012045,
-      "num": 301563,
+      "num": 323694,
       "word": "赵露思说化妆是尊重自己",
       "onboard_time": 1745496503,
       "rank": 10,
@@ -249,14 +265,6 @@
       "onboard_time": 1745453062,
       "rank": 1,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 799328,
-      "num": 411297,
-      "word": "孙俪杨紫是第一次见",
-      "onboard_time": 1745498543,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 795876,
@@ -363,6 +371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 683578,
+      "num": 683578,
+      "word": "柯淳酒吧蹦迪",
+      "onboard_time": 1745501783,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 680030,
       "num": 358488,
       "word": "7年前石凯未成年",
@@ -436,7 +452,7 @@
     },
     {
       "raw_hot": 601615,
-      "num": 299616,
+      "num": 321221,
       "word": "杨超越青苹果头像",
       "onboard_time": 1745497461,
       "rank": 31,
@@ -467,12 +483,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 561271,
-      "num": 309569,
+      "raw_hot": 577764,
+      "num": 330829,
       "word": "林磊儿你对得起小姨吗",
       "onboard_time": 1745499801,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 576416,
+      "num": 576416,
+      "word": "外卖员撞到宠物狗被打派出所介入",
+      "onboard_time": 1745500161,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 556151,
@@ -587,6 +611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 418089,
+      "num": 321607,
+      "word": "张凌赫拍迪丽热巴",
+      "onboard_time": 1745500761,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 415765,
       "num": 229536,
       "word": "陈冠希得知秦舒培怀孕的反应",
@@ -633,14 +665,6 @@
       "onboard_time": 1745472021,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 385618,
-      "num": 385618,
-      "word": "外卖员撞到宠物狗被打派出所介入",
-      "onboard_time": 1745500161,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 380184,
@@ -707,6 +731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 339294,
+      "num": 339294,
+      "word": "Scout 赵信",
+      "onboard_time": 1745498902,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 338560,
       "num": 338560,
       "word": "国乒男女队在京召开总结大会",
@@ -739,6 +771,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 327432,
+      "num": 320829,
+      "word": "这是我的西游空降",
+      "onboard_time": 1745502921,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 321727,
       "num": 174806,
       "word": "安静公主要二次手术",
@@ -753,6 +793,14 @@
       "onboard_time": 1745452640,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 320367,
+      "num": 320367,
+      "word": "澳大利亚出动直升机扑杀750只考拉",
+      "onboard_time": 1745497942,
+      "rank": 36,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 315448,
@@ -811,14 +859,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 299358,
-      "num": 299358,
-      "word": "Scout 赵信",
-      "onboard_time": 1745498902,
-      "rank": 36,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 296884,
       "num": 296884,
       "word": "王楠老公谈刘国梁辞职",
@@ -867,14 +907,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 287680,
-      "num": 274654,
-      "word": "张凌赫拍迪丽热巴",
-      "onboard_time": 1745500761,
-      "rank": 26,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 286082,
       "num": 376190,
       "word": "刘亦菲跳舞十年前vs十年后",
@@ -889,6 +921,14 @@
       "onboard_time": 1745492720,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 281626,
+      "num": 281626,
+      "word": "小米员工称平均工时12小时仍被约谈",
+      "onboard_time": 1745500101,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 280970,
@@ -1003,8 +1043,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 255225,
-      "num": 255225,
+      "raw_hot": 255333,
+      "num": 255333,
       "word": "无忧渡热度",
       "onboard_time": 1745499921,
       "rank": 24,
@@ -1049,14 +1089,6 @@
       "onboard_time": 1745470163,
       "rank": 35,
       "category": "网红"
-    },
-    {
-      "raw_hot": 247238,
-      "num": 247238,
-      "word": "澳大利亚出动直升机扑杀750只考拉",
-      "onboard_time": 1745497942,
-      "rank": 36,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 247084,
@@ -1123,14 +1155,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 227819,
-      "num": 227818,
-      "word": "特朗普考虑对华关税分级方案",
-      "onboard_time": 1745502082,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 227039,
       "num": 227039,
       "word": "安卓朋友圈可发实况照片了",
@@ -1153,14 +1177,6 @@
       "onboard_time": 1745491699,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 219714,
-      "num": 219714,
-      "word": "小米员工称平均工时12小时仍被约谈",
-      "onboard_time": 1745500101,
-      "rank": 32,
-      "category": "互联网"
     },
     {
       "raw_hot": 217599,
@@ -1379,14 +1395,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 191502,
-      "num": 191502,
-      "word": "柯淳酒吧蹦迪",
-      "onboard_time": 1745501783,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 191234,
       "num": 191234,
       "word": "美国游客点赞中国扫货三宝",
@@ -1451,6 +1459,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 187682,
+      "num": 299042,
+      "word": "红旗解锁孙颖莎全城大屏",
+      "onboard_time": 1745503402,
+      "rank": 18,
+      "category": "体育,汽车"
+    },
+    {
       "raw_hot": 187504,
       "num": 243929,
       "word": "硬如巴特勒也顶不住这下",
@@ -1481,6 +1497,14 @@
       "onboard_time": 1745468844,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 183893,
+      "num": 339863,
+      "word": "神舟二十号航天员感觉良好",
+      "onboard_time": 1745493141,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 183095,
@@ -1545,14 +1569,6 @@
       "onboard_time": 1745470762,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 179777,
-      "num": 339863,
-      "word": "神舟二十号航天员感觉良好",
-      "onboard_time": 1745493141,
-      "rank": 34,
-      "category": "国内时政"
     },
     {
       "raw_hot": 179080,
@@ -1729,6 +1745,14 @@
       "onboard_time": 1745466321,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 158723,
+      "num": 167119,
+      "word": "谢霆锋王嘉尔隔空合唱",
+      "onboard_time": 1745503162,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 156398,
@@ -1947,6 +1971,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 147788,
+      "num": 147788,
+      "word": "落花时节又逢君 4月底播出",
+      "onboard_time": 1745504543,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147596,
       "num": 939243,
       "word": "中方在联合国会议发出3问",
@@ -1977,6 +2009,14 @@
       "onboard_time": 1745483120,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 144730,
+      "num": 144730,
+      "word": "香港纹身最多的个性混血女老板",
+      "onboard_time": 1745501182,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 144511,
@@ -2131,6 +2171,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 139851,
+      "num": 139851,
+      "word": "这么多年还在靠邓家佳鼓励我",
+      "onboard_time": 1745504182,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 138320,
       "num": 244025,
       "word": "沙利文痛斥特朗普",
@@ -2275,6 +2323,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 127456,
+      "num": 127456,
+      "word": "苏州马拉松小便门涉事10人禁赛3年",
+      "onboard_time": 1745500522,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127269,
       "num": 127269,
       "word": "摩根大通称国际金价或突破4000美元",
@@ -2289,6 +2345,14 @@
       "onboard_time": 1745487920,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124440,
+      "num": 124440,
+      "word": "榜上佳婿 空降",
+      "onboard_time": 1745504603,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 123343,
@@ -2336,6 +2400,14 @@
       "word": "陈德容演过妈妈",
       "onboard_time": 1745483061,
       "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 120013,
+      "num": 120013,
+      "word": "妻子对田中圭出轨感到震惊",
+      "onboard_time": 1745504361,
+      "rank": 49,
       "category": "艺人"
     },
     {
@@ -2425,6 +2497,14 @@
       "onboard_time": 1745462960,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 111979,
+      "num": 323936,
+      "word": "广东的暴雨下哪了",
+      "onboard_time": 1745501601,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111914,
@@ -2520,6 +2600,14 @@
       "word": "中国在联合国发出反对霸凌声音",
       "onboard_time": 1745455402,
       "rank": 43,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 100069,
+      "num": 694765,
+      "word": "第一视角看神20发射多震撼",
+      "onboard_time": 1745501842,
+      "rank": 2,
       "category": "国内时政"
     },
     {
@@ -2659,14 +2747,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 91017,
-      "num": 196688,
-      "word": "广东的暴雨下哪了",
-      "onboard_time": 1745501601,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 90279,
       "num": 90279,
       "word": "2025KPL春季赛",
@@ -2681,6 +2761,14 @@
       "onboard_time": 1745480300,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 87832,
+      "num": 297509,
+      "word": "燃油王者上场了",
+      "onboard_time": 1745502201,
+      "rank": 32,
+      "category": "汽车"
     },
     {
       "raw_hot": 87743,
@@ -2755,14 +2843,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 82224,
-      "num": 206450,
-      "word": "燃油王者上场了",
-      "onboard_time": 1745502201,
-      "rank": 32,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 82222,
       "num": 82222,
       "word": "用一条线画出中国问天征途",
@@ -2832,14 +2912,6 @@
       "word": "台当局领导人办公楼失火",
       "onboard_time": 1745489241,
       "rank": 29,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 76277,
-      "num": 427306,
-      "word": "第一视角看神20发射多震撼",
-      "onboard_time": 1745501842,
-      "rank": 2,
       "category": "国内时政"
     },
     {
@@ -3619,6 +3691,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 18351,
+      "num": 147995,
+      "word": "未成年打生长激素有哪些利弊",
+      "onboard_time": 1745503283,
+      "rank": 39,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 17562,
       "num": 27062,
       "word": "低智商犯罪",
@@ -3641,6 +3721,14 @@
       "onboard_time": 1745464641,
       "rank": 38,
       "category": "幽默,民生新闻"
+    },
+    {
+      "raw_hot": 16119,
+      "num": 201197,
+      "word": "为何张家界对韩国游客具有独特魅力",
+      "onboard_time": 1745504483,
+      "rank": 25,
+      "category": "旅游"
     },
     {
       "raw_hot": 15638,
