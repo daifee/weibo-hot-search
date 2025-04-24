@@ -1,0 +1,410 @@
+{
+  "runTime": 1745464234273,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1006692,
+        "num": 1161070,
+        "word": "顾客买鱼要求不宰杀遭商贩扔秤砣",
+        "onboard_time": 1745455402,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 912594,
+        "num": 912594,
+        "word": "小红书将取消大小周",
+        "onboard_time": 1745455402,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 30562,
+        "num": 726374,
+        "word": "公安部网安局提醒防范职业窃密",
+        "onboard_time": 1745456782,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 601962,
+        "num": 601962,
+        "word": "巴特勒受伤",
+        "onboard_time": 1745462779,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 565937,
+        "num": 565937,
+        "word": "张小斐恶意定档",
+        "onboard_time": 1745463200,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 505877,
+        "num": 505877,
+        "word": "30岁华裔将成最年轻白手起家亿万女富豪",
+        "onboard_time": 1745461101,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 385176,
+        "num": 385176,
+        "word": "黄宗泽 难怪没请我",
+        "onboard_time": 1745461460,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348369,
+        "num": 348369,
+        "word": "吉克隽逸因为演唱会天天跟经纪人吵架",
+        "onboard_time": 1745460801,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 308596,
+        "num": 308596,
+        "word": "男子攒钱10年买法拉利提车1小时后自燃",
+        "onboard_time": 1745453420,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 305498,
+        "num": 305498,
+        "word": "有一种浪漫叫中国航天",
+        "onboard_time": 1745462779,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1680713,
+        "num": 304756,
+        "word": "关晓彤 鹿晗",
+        "onboard_time": 1745453661,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 680030,
+        "num": 298434,
+        "word": "7年前石凯未成年",
+        "onboard_time": 1745462001,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291464,
+        "num": 291464,
+        "word": "2024年十大考古新发现",
+        "onboard_time": 1745458341,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 627714,
+        "num": 289211,
+        "word": "营养专家称冉莹颖儿子靶身高172cm",
+        "onboard_time": 1745456602,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54803,
+        "num": 277896,
+        "word": "成千上万美码头工人紧盯关税新闻",
+        "onboard_time": 1745463200,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 136289,
+        "num": 268264,
+        "word": "宝马展台还是太超前了",
+        "onboard_time": 1745463800,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 296957,
+        "num": 262181,
+        "word": "虞书欣说新剧达到了星你的感觉",
+        "onboard_time": 1745460980,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 253815,
+        "num": 253815,
+        "word": "杨紫发文告别李祯",
+        "onboard_time": 1745462779,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49618,
+        "num": 244025,
+        "word": "沙利文痛斥特朗普",
+        "onboard_time": 1745463920,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 14068,
+        "num": 243656,
+        "word": "神舟二十涡虫实验如何助力医学",
+        "onboard_time": 1745463681,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 921187,
+        "num": 243592,
+        "word": "石凯 订过婚",
+        "onboard_time": 1745402903,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243301,
+        "num": 243301,
+        "word": "不知不觉都神二十了",
+        "onboard_time": 1745457682,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 372724,
+        "num": 243148,
+        "word": "金价猛烈跳水",
+        "onboard_time": 1745421263,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 257476,
+        "num": 243019,
+        "word": "黄金",
+        "onboard_time": 1745460561,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 166197,
+        "num": 242596,
+        "word": "火勇大战",
+        "onboard_time": 1745461460,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242280,
+        "num": 242280,
+        "word": "某国公司故意向间谍提供手机后门",
+        "onboard_time": 1745452640,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228890,
+        "num": 228890,
+        "word": "韩国检方起诉前总统文在寅",
+        "onboard_time": 1745456422,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 164289,
+        "num": 203762,
+        "word": "马来西亚偶遇张碧晨拉三轮",
+        "onboard_time": 1745462841,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144511,
+        "num": 192219,
+        "word": "韩东君杀青照",
+        "onboard_time": 1745463560,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137812,
+        "num": 191441,
+        "word": "家业杀青",
+        "onboard_time": 1745461760,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191064,
+        "num": 191064,
+        "word": "一天不洗的头发上有什么",
+        "onboard_time": 1745453420,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 188385,
+        "num": 188385,
+        "word": "上海车展",
+        "onboard_time": 1745463681,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 48952,
+        "num": 186452,
+        "word": "炒美股的年轻人开始清仓跑路",
+        "onboard_time": 1745464160,
+        "rank": 32,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 185950,
+        "num": 185950,
+        "word": "勇士vs火箭",
+        "onboard_time": 1745462779,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180971,
+        "num": 180971,
+        "word": "神二十今日出征",
+        "onboard_time": 1745458400,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 176037,
+        "num": 176037,
+        "word": "六万cp分手",
+        "onboard_time": 1745452519,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163360,
+        "num": 172512,
+        "word": "第五人格演绎之星",
+        "onboard_time": 1745463800,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 169643,
+        "num": 169643,
+        "word": "赵礼杰 女朋友",
+        "onboard_time": 1745423781,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 37345,
+        "num": 166694,
+        "word": "男女共防HPV要趁早",
+        "onboard_time": 1745463020,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 34564,
+        "num": 164680,
+        "word": "会员特权也算夫妻共同财产吗",
+        "onboard_time": 1745463681,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164057,
+        "num": 164057,
+        "word": "特朗普正为与中国达成协议做准备",
+        "onboard_time": 1745423962,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 146489,
+        "num": 146489,
+        "word": "小猫对新窝不满意亲自动嘴改造",
+        "onboard_time": 1745464220,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138713,
+        "num": 138713,
+        "word": "武王墩墓等入选十大考古新发现",
+        "onboard_time": 1745464101,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121183,
+        "num": 121183,
+        "word": "疑似MSI奖牌被出售",
+        "onboard_time": 1745462120,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 121112,
+        "num": 121112,
+        "word": "张继科说王励勤训练从不迟到",
+        "onboard_time": 1745453542,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117316,
+        "num": 117316,
+        "word": "雷军每天免费送五千顶的帽子价值129元",
+        "onboard_time": 1745420123,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 116633,
+        "num": 116633,
+        "word": "东风航天城小学生齐唱达拉崩吧",
+        "onboard_time": 1745457741,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114656,
+        "num": 114656,
+        "word": "女子抓隐翅虫没洗手摸眼睛致红肿",
+        "onboard_time": 1745433616,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112667,
+        "num": 112667,
+        "word": "马丽说在新片中有太多感同身受",
+        "onboard_time": 1745462960,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111310,
+        "num": 111902,
+        "word": "全圆佑被评为训练生代表",
+        "onboard_time": 1745461220,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#志合者不以山海为远#"
+    }
+  }
+}
