@@ -1,7 +1,15 @@
 {
   "startTime": 1745512289618,
-  "endTime": 1745534557793,
+  "endTime": 1745537021530,
   "band_list": [
+    {
+      "raw_hot": 975282,
+      "num": 975282,
+      "word": "特朗普宣布关税后支持率骤降",
+      "onboard_time": 1745513597,
+      "rank": 16,
+      "category": "国际时政"
+    },
     {
       "raw_hot": 957557,
       "num": 957557,
@@ -27,12 +35,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 581966,
-      "num": 581966,
-      "word": "特朗普宣布关税后支持率骤降",
-      "onboard_time": 1745513597,
-      "rank": 16,
-      "category": "国际时政"
+      "raw_hot": 578799,
+      "num": 578799,
+      "word": "成本9元素颜霜标38元卖出500多万",
+      "onboard_time": 1745511440,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 571480,
@@ -43,12 +51,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 495512,
+      "num": 495512,
+      "word": "邓超发布一段录音对话",
+      "onboard_time": 1745516235,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 406818,
       "num": 242060,
       "word": "当事人回应取名朱雀玄武敕令",
       "onboard_time": 1745506522,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 404536,
+      "num": 404536,
+      "word": "任达华女儿在名校跳级上课",
+      "onboard_time": 1745524574,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 375392,
@@ -67,16 +91,24 @@
       "category": "体育"
     },
     {
-      "raw_hot": 353859,
-      "num": 353859,
-      "word": "成本9元素颜霜标38元卖出500多万",
-      "onboard_time": 1745511440,
+      "raw_hot": 343410,
+      "num": 170404,
+      "word": "刘强东老家宿迁京东外卖遍地开花",
+      "onboard_time": 1745497881,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 341953,
+      "num": 341953,
+      "word": "律师称取名朱雀玄武敕令合法",
+      "onboard_time": 1745512458,
       "rank": 9,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 309029,
-      "num": 309029,
+      "raw_hot": 311649,
+      "num": 311649,
       "word": "男子离婚诉讼6年3次被判不许离",
       "onboard_time": 1745508382,
       "rank": 5,
@@ -91,20 +123,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 291699,
-      "num": 291699,
-      "word": "律师称取名朱雀玄武敕令合法",
-      "onboard_time": 1745512458,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 268587,
-      "num": 268587,
-      "word": "邓超发布一段录音对话",
-      "onboard_time": 1745516235,
-      "rank": 46,
-      "category": "剧集"
+      "raw_hot": 295633,
+      "num": 295633,
+      "word": "澳大利亚出动直升机扑杀750只考拉",
+      "onboard_time": 1745497942,
+      "rank": 8,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 257081,
@@ -121,14 +145,6 @@
       "onboard_time": 1745510179,
       "rank": 7,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 242516,
-      "num": 242516,
-      "word": "澳大利亚出动直升机扑杀750只考拉",
-      "onboard_time": 1745497942,
-      "rank": 8,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 241529,
@@ -155,20 +171,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 194136,
-      "num": 109332,
-      "word": "刘强东老家宿迁京东外卖遍地开花",
-      "onboard_time": 1745497881,
-      "rank": 38,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 182148,
-      "num": 105272,
-      "word": "任达华女儿在名校跳级上课",
-      "onboard_time": 1745524574,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 177047,
+      "num": 177047,
+      "word": "大熊猫半夜不睡觉排排坐吃夜宵",
+      "onboard_time": 1745519294,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 170115,
@@ -179,6 +187,30 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 161859,
+      "num": 131068,
+      "word": "养了4年的猫把主人咬到输液1周",
+      "onboard_time": 1745494701,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150971,
+      "num": 150971,
+      "word": "特朗普称美国若不买加拿大将不存在",
+      "onboard_time": 1745536579,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 147013,
+      "num": 147013,
+      "word": "新疆下井救人00后女辅警破格晋升",
+      "onboard_time": 1745536519,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143278,
       "num": 143278,
       "word": "神舟二十号发射圆满成功",
@@ -187,12 +219,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 142655,
-      "num": 131068,
-      "word": "养了4年的猫把主人咬到输液1周",
-      "onboard_time": 1745494701,
-      "rank": 21,
-      "category": "民生新闻"
+      "raw_hot": 137481,
+      "num": 137481,
+      "word": "杨紫当年就是这样撩林志玲的",
+      "onboard_time": 1745506282,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 133244,
@@ -211,20 +243,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 130564,
+      "num": 130564,
+      "word": "神20发射圆满成功",
+      "onboard_time": 1745487861,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 123493,
       "num": 123493,
       "word": "杨超越太权威了",
       "onboard_time": 1745507181,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 117970,
-      "num": 117970,
-      "word": "神20发射圆满成功",
-      "onboard_time": 1745487861,
-      "rank": 34,
-      "category": "国内时政"
     },
     {
       "raw_hot": 114675,
@@ -251,14 +283,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 104273,
-      "num": 104273,
-      "word": "大熊猫半夜不睡觉排排坐吃夜宵",
-      "onboard_time": 1745519294,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 101743,
       "num": 101743,
       "word": "杨超越青苹果头像",
@@ -275,19 +299,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 101088,
-      "num": 101088,
-      "word": "杨紫当年就是这样撩林志玲的",
-      "onboard_time": 1745506282,
-      "rank": 29,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 97223,
       "num": 97223,
       "word": "杨坤回应起诉四川芬达",
       "onboard_time": 1745489959,
       "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 96909,
+      "num": 96909,
+      "word": "留几手 不恋爱",
+      "onboard_time": 1745520016,
+      "rank": 42,
       "category": "艺人"
     },
     {
@@ -315,12 +339,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 86567,
+      "num": 86567,
+      "word": "专家称特朗普可能再次升级关税战",
+      "onboard_time": 1745536579,
+      "rank": 25,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 86517,
       "num": 86517,
       "word": "全红婵打乒乓球绝杀王宗源",
       "onboard_time": 1745508982,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 83131,
+      "num": 83131,
+      "word": "福宝为何会反复经历假孕状态",
+      "onboard_time": 1745532915,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82650,
+      "num": 82650,
+      "word": "一觉醒来神19神20天宫会师了",
+      "onboard_time": 1745536519,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 82564,
@@ -363,20 +411,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 73544,
-      "num": 73544,
-      "word": "留几手 不恋爱",
-      "onboard_time": 1745520016,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 71697,
       "num": 71697,
       "word": "成毅杨幂赵丽颖封面",
       "onboard_time": 1745496321,
       "rank": 40,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 71143,
+      "num": 83249,
+      "word": "成毅演出了二次元感觉",
+      "onboard_time": 1745498961,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 69289,
@@ -427,12 +475,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 63830,
-      "num": 63830,
-      "word": "成毅演出了二次元感觉",
-      "onboard_time": 1745498961,
-      "rank": 49,
-      "category": "剧集"
+      "raw_hot": 64233,
+      "num": 83147,
+      "word": "谢霆锋演唱会门票被炒到17万",
+      "onboard_time": 1745532435,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 62078,
@@ -440,6 +488,22 @@
       "word": "关晓彤 鹿晗",
       "onboard_time": 1745453661,
       "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 59964,
+      "num": 59964,
+      "word": "中国航天员在太空吃饺子",
+      "onboard_time": 1745536579,
+      "rank": 37,
+      "category": "民生新闻,国内时政"
+    },
+    {
+      "raw_hot": 59555,
+      "num": 59555,
+      "word": "何雁诗3岁患病儿子上特殊学校",
+      "onboard_time": 1745532135,
+      "rank": 43,
       "category": "艺人"
     },
     {
@@ -451,12 +515,36 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 45921,
+      "num": 45921,
+      "word": "刷手机第一次觉得腿软",
+      "onboard_time": 1745505681,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45187,
+      "num": 45187,
+      "word": "蛮好的人生",
+      "onboard_time": 1745536939,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 43244,
       "num": 131072,
       "word": "董力阿诺带娃出游",
       "onboard_time": 1745507543,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 42835,
+      "num": 42835,
+      "word": "无忧渡一个巴掌一个枣",
+      "onboard_time": 1745535618,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 39809,
@@ -475,30 +563,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 33751,
-      "num": 33751,
-      "word": "刷手机第一次觉得腿软",
-      "onboard_time": 1745505681,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 33682,
-      "num": 33682,
-      "word": "何雁诗3岁患病儿子上特殊学校",
-      "onboard_time": 1745532135,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 27525,
-      "num": 27525,
-      "word": "福宝为何会反复经历假孕状态",
-      "onboard_time": 1745532915,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 27100,
       "num": 27100,
       "word": "同一天同一地点跨越55年",
@@ -513,14 +577,6 @@
       "onboard_time": 1745513238,
       "rank": 49,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 25329,
-      "num": 25329,
-      "word": "谢霆锋演唱会门票被炒到17万",
-      "onboard_time": 1745532435,
-      "rank": 47,
-      "category": "演出"
     },
     {
       "raw_hot": 24826,
@@ -564,7 +620,7 @@
     },
     {
       "raw_hot": 17266,
-      "num": 448209,
+      "num": 532236,
       "word": "高质量发展中国行",
       "onboard_time": 1745501783,
       "rank": 2,
@@ -601,6 +657,22 @@
       "onboard_time": 1745517257,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 12760,
+      "num": 89418,
+      "word": "2025中国常德柳叶湖舟钓世界锦标赛",
+      "onboard_time": 1745536579,
+      "rank": 24,
+      "category": "体育,运动健身"
+    },
+    {
+      "raw_hot": 5489,
+      "num": 59584,
+      "word": "宁艺卓国内首封elle含金量怎么样",
+      "onboard_time": 1745536939,
+      "rank": 38,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [

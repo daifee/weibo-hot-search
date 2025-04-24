@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/25 06:42:37
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/25 07:23:41
 </p>
 </blockquote>
 <p>
@@ -4011,6 +4011,12 @@ IU向雪莉金赛纶推荐同一心理医生（热度：1041446）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E5%85%B3%E7%A8%8E%E5%90%8E%E6%94%AF%E6%8C%81%E7%8E%87%E9%AA%A4%E9%99%8D%23" target="weibo">
+特朗普宣布关税后支持率骤降（热度：975282）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E6%A3%B5%E6%A0%91%E4%BB%A3%E8%A8%80%E4%BA%BA%23" target="weibo">
 有棵树代言人（热度：974955）
 </a>
@@ -6005,12 +6011,6 @@ YERI和Wendy离开SM（热度：805847）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E6%9F%B3%E5%B9%B4%E7%B3%95%E8%96%AF%E6%9D%A1%23" target="weibo">
 鸡柳年糕薯条（热度：737475）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E5%85%AC%E5%BC%80%E6%8A%A8%E5%87%BB%E7%89%B9%E6%9C%97%E6%99%AE%23" target="weibo">
-拜登公开抨击特朗普（热度：737258）
 </a>
 </li>
 
