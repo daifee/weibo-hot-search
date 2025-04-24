@@ -1,0 +1,410 @@
+{
+  "runTime": 1745466700019,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1133284,
+        "num": 1181325,
+        "word": "顾客买鱼要求不宰杀遭商贩扔秤砣",
+        "onboard_time": 1745455402,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 697561,
+        "num": 697561,
+        "word": "小红书将取消大小周",
+        "onboard_time": 1745455402,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 47071,
+        "num": 644097,
+        "word": "中方在联合国会议发出3问",
+        "onboard_time": 1745466021,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 622736,
+        "num": 622736,
+        "word": "陈德容 我不会演孩子的妈",
+        "onboard_time": 1745464521,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 560825,
+        "num": 560825,
+        "word": "这居然是向佐",
+        "onboard_time": 1745465961,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 503159,
+        "num": 503159,
+        "word": "30岁华裔将成最年轻白手起家亿万女富豪",
+        "onboard_time": 1745461101,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 515709,
+        "num": 502974,
+        "word": "张小斐恶意定档",
+        "onboard_time": 1745463200,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 501610,
+        "num": 501610,
+        "word": "黄宗泽 难怪没请我",
+        "onboard_time": 1745461460,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 375768,
+        "num": 375768,
+        "word": "巴特勒受伤",
+        "onboard_time": 1745462779,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 309134,
+        "num": 375263,
+        "word": "父亲病危儿子请假照顾被开除",
+        "onboard_time": 1745463140,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1831533,
+        "num": 366121,
+        "word": "刘强东取外卖遇卡餐一脸迷茫",
+        "onboard_time": 1745464822,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1608067,
+        "num": 361687,
+        "word": "关晓彤 鹿晗",
+        "onboard_time": 1745453661,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 509112,
+        "num": 358488,
+        "word": "7年前石凯未成年",
+        "onboard_time": 1745462001,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85070,
+        "num": 349740,
+        "word": "宝马展台还是太超前了",
+        "onboard_time": 1745463800,
+        "rank": 13,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 69876,
+        "num": 343858,
+        "word": "乌克兰首都遭密集空袭",
+        "onboard_time": 1745465423,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 343304,
+        "num": 343304,
+        "word": "虞书欣说新剧达到了星你的感觉",
+        "onboard_time": 1745460980,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 330062,
+        "num": 330062,
+        "word": "营养专家称冉莹颖儿子靶身高172cm",
+        "onboard_time": 1745456602,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190769,
+        "num": 325387,
+        "word": "奔跑吧新一代主题曲来了",
+        "onboard_time": 1745465480,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92510,
+        "num": 319160,
+        "word": "马斯克和美财长在白宫激烈争吵",
+        "onboard_time": 1745463321,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 12581,
+        "num": 313179,
+        "word": "神舟二十关键技术是否为登月铺路",
+        "onboard_time": 1745466081,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1040034,
+        "num": 308182,
+        "word": "石凯 订过婚",
+        "onboard_time": 1745402903,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344894,
+        "num": 302253,
+        "word": "金价猛烈跳水",
+        "onboard_time": 1745421263,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 285054,
+        "num": 295819,
+        "word": "2024年十大考古新发现",
+        "onboard_time": 1745458341,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291459,
+        "num": 291459,
+        "word": "某国公司故意向间谍提供手机后门",
+        "onboard_time": 1745452640,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160894,
+        "num": 243929,
+        "word": "硬如巴特勒也顶不住这下",
+        "onboard_time": 1745464581,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213806,
+        "num": 213806,
+        "word": "有一种浪漫叫中国航天",
+        "onboard_time": 1745462779,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 210081,
+        "num": 210081,
+        "word": "小猫对新窝不满意亲自动嘴改造",
+        "onboard_time": 1745464220,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 206927,
+        "num": 206927,
+        "word": "杨紫发文告别李祯",
+        "onboard_time": 1745462779,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180641,
+        "num": 194533,
+        "word": "刘浩存 金海燕奖",
+        "onboard_time": 1745466200,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 179355,
+        "num": 192097,
+        "word": "李惠利 百想",
+        "onboard_time": 1745465901,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191192,
+        "num": 191192,
+        "word": "武王墩墓等入选十大考古新发现",
+        "onboard_time": 1745464101,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185505,
+        "num": 185505,
+        "word": "男子攒钱10年买法拉利提车1小时后自燃",
+        "onboard_time": 1745453420,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 184427,
+        "num": 184427,
+        "word": "不知不觉都神二十了",
+        "onboard_time": 1745457682,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 165277,
+        "num": 165277,
+        "word": "黄金",
+        "onboard_time": 1745460561,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 165236,
+        "num": 165236,
+        "word": "神二十今日出征",
+        "onboard_time": 1745458400,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 164668,
+        "num": 164668,
+        "word": "赵礼杰 女朋友",
+        "onboard_time": 1745423781,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 159067,
+        "num": 159067,
+        "word": "小高打越新作上线",
+        "onboard_time": 1745466321,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 20161,
+        "num": 156376,
+        "word": "专家称借助AI或治愈所有疾病",
+        "onboard_time": 1745465901,
+        "rank": 37,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 52728,
+        "num": 156163,
+        "word": "五官最讨厌的动作",
+        "onboard_time": 1745465721,
+        "rank": 38,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 51738,
+        "num": 156130,
+        "word": "会员特权也算夫妻共同财产吗",
+        "onboard_time": 1745463681,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156105,
+        "num": 156105,
+        "word": "一天不洗的头发上有什么",
+        "onboard_time": 1745453420,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 148148,
+        "num": 148148,
+        "word": "你有这么可爱的肥啾啾啾啾",
+        "onboard_time": 1745466141,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 143798,
+        "num": 143798,
+        "word": "六万cp分手",
+        "onboard_time": 1745452519,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141678,
+        "num": 141678,
+        "word": "小米王化回应雷军没去上海车展",
+        "onboard_time": 1745465240,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 137809,
+        "num": 137809,
+        "word": "库里格林缠斗",
+        "onboard_time": 1745466561,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136848,
+        "num": 136848,
+        "word": "马来西亚偶遇张碧晨拉三轮",
+        "onboard_time": 1745462841,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134508,
+        "num": 134508,
+        "word": "特朗普将设特朗普币大股东宴",
+        "onboard_time": 1745465721,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 134385,
+        "num": 134385,
+        "word": "韩国检方起诉前总统文在寅",
+        "onboard_time": 1745456422,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 133159,
+        "num": 133159,
+        "word": "小米王化晒图疑暗讽坐井观天",
+        "onboard_time": 1745466382,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 131303,
+        "num": 131303,
+        "word": "不良人",
+        "onboard_time": 1745464700,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向气候和公正转型领导人峰会发表致辞#"
+    }
+  }
+}
