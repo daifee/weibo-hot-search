@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/24 12:44:14
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/24 13:25:05
 </p>
 </blockquote>
 <p>
@@ -761,6 +761,12 @@ C罗点评甲亢哥中国行（热度：2472029）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%9F%E6%BC%94%E8%A2%AB%E7%BB%91%E6%9E%B6%23" target="weibo">
 王星演被绑架（热度：2199665）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8C%BF%E8%BE%85%E5%AF%BC%E5%91%98%E5%B7%A5%E7%8C%9D%E6%AD%BB%E5%9C%A8%E5%85%AC%E5%8F%B8%23" target="weibo">
+猿辅导员工猝死在公司（热度：2195363）
 </a>
 </li>
 
@@ -5001,6 +5007,12 @@ bite me男伴舞（热度：832510）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E5%BC%80%E8%BD%A6%E8%BA%B2%E5%AE%B6%E6%9A%B4%E8%87%B4%E4%B8%88%E5%A4%AB%E8%BA%AB%E4%BA%A1%E8%A2%AB%E5%88%A411%E5%B9%B4%23" target="weibo">
+妻子开车躲家暴致丈夫身亡被判11年（热度：828922）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%A0%94%E6%B7%B1%E5%A4%9C%E5%8F%91%E6%96%87%23" target="weibo">
 马頔深夜发文（热度：827149）
 </a>
@@ -5999,18 +6011,6 @@ TVB男演员陈键锋学厨以第一名毕业（热度：726197）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%AB%A5%E8%A2%AB%E7%94%9F%E7%88%B6%E5%A5%B3%E5%8F%8B%E8%99%90%E6%AD%BB%E6%A1%88%E5%BC%80%E5%BA%AD%23" target="weibo">
 男童被生父女友虐死案开庭（热度：721132）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E6%98%8E%E7%8F%A0%E5%86%8D%E7%82%B9%E5%90%8D%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%23" target="weibo">
-董明珠再点名小米汽车（热度：721054）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%A5%E6%B5%A9%E7%BF%94%E8%AF%B4%E6%9C%89diss%E6%98%AF%E5%BE%88%E6%AD%A3%E5%B8%B8%E7%9A%84%E4%BA%8B%23" target="weibo">
-严浩翔说有diss是很正常的事（热度：720758）
 </a>
 </li>
 

@@ -1,0 +1,410 @@
+{
+  "runTime": 1745472305746,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2195363,
+        "num": 2195363,
+        "word": "猿辅导员工猝死在公司",
+        "onboard_time": 1745469742,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 837724,
+        "num": 837724,
+        "word": "父亲病危儿子请假照顾被开除",
+        "onboard_time": 1745463140,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106310,
+        "num": 829886,
+        "word": "中方在联合国会议发出3问",
+        "onboard_time": 1745466021,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 828922,
+        "num": 828922,
+        "word": "妻子开车躲家暴致丈夫身亡被判11年",
+        "onboard_time": 1745468003,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 631038,
+        "num": 631038,
+        "word": "冉莹颖儿子打生长激素又长1.7厘米",
+        "onboard_time": 1745468844,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 559126,
+        "num": 559126,
+        "word": "这居然是向佐",
+        "onboard_time": 1745465961,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 551078,
+        "num": 551078,
+        "word": "陈德容 我不会演孩子的妈",
+        "onboard_time": 1745464521,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 496032,
+        "num": 496032,
+        "word": "35岁脑干出血程序员发声",
+        "onboard_time": 1745470042,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 387351,
+        "num": 387351,
+        "word": "小红书将取消大小周",
+        "onboard_time": 1745455402,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 380184,
+        "num": 380184,
+        "word": "关税让美国一小企业仅剩5人",
+        "onboard_time": 1745467582,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1921898,
+        "num": 379531,
+        "word": "石凯订婚照",
+        "onboard_time": 1745468243,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1417552,
+        "num": 377745,
+        "word": "关晓彤 鹿晗",
+        "onboard_time": 1745453661,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286082,
+        "num": 376190,
+        "word": "刘亦菲跳舞十年前vs十年后",
+        "onboard_time": 1745470884,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253860,
+        "num": 375609,
+        "word": "李惠利 百想",
+        "onboard_time": 1745465901,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29479,
+        "num": 373351,
+        "word": "无手女孩讲述发布换卫生巾视频心路",
+        "onboard_time": 1745470642,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241055,
+        "num": 372800,
+        "word": "迪丽热巴淋雨给工作人员送伞",
+        "onboard_time": 1745467283,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65261,
+        "num": 370247,
+        "word": "上汽奥迪A5L首搭华为乾崑智驾",
+        "onboard_time": 1745467462,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 83798,
+        "num": 369569,
+        "word": "AUDI量产概念车",
+        "onboard_time": 1745471061,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 78108,
+        "num": 368470,
+        "word": "一见钟情看脸日久钟情看脑",
+        "onboard_time": 1745471001,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 87743,
+        "num": 366925,
+        "word": "雷公回应公开与儿子聊天记录",
+        "onboard_time": 1745471061,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1213803,
+        "num": 364844,
+        "word": "刘强东取外卖遇卡餐一脸迷茫",
+        "onboard_time": 1745464822,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 898331,
+        "num": 363402,
+        "word": "石凯 订过婚",
+        "onboard_time": 1745402903,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 362887,
+        "num": 362887,
+        "word": "美国一饼干公司快没包装用了",
+        "onboard_time": 1745467100,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 229014,
+        "num": 229014,
+        "word": "我和豆包结婚了",
+        "onboard_time": 1745470762,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 216782,
+        "num": 216782,
+        "word": "对华关税会大幅下降特朗普为何变脸",
+        "onboard_time": 1745469502,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 199595,
+        "num": 199595,
+        "word": "2024年十大考古新发现",
+        "onboard_time": 1745458341,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194037,
+        "num": 194037,
+        "word": "张凌赫晒怼脸合照",
+        "onboard_time": 1745471422,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50441,
+        "num": 192084,
+        "word": "仅退款是什么意思",
+        "onboard_time": 1745472140,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 41383,
+        "num": 190598,
+        "word": "李星云降臣对决拔里神玉",
+        "onboard_time": 1745472081,
+        "rank": 28,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 55126,
+        "num": 188685,
+        "word": "男子骑车撞站台身亡家属索赔40万",
+        "onboard_time": 1745471541,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198304,
+        "num": 188012,
+        "word": "黄宗泽 难怪没请我",
+        "onboard_time": 1745461460,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113934,
+        "num": 184260,
+        "word": "杰伦格林起飞",
+        "onboard_time": 1745472201,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170288,
+        "num": 183162,
+        "word": "火箭1比1勇士",
+        "onboard_time": 1745470642,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64267,
+        "num": 181974,
+        "word": "武王墩墓等入选十大考古新发现",
+        "onboard_time": 1745464101,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180343,
+        "num": 180343,
+        "word": "房东的猫吴佩岭自曝生育焦虑",
+        "onboard_time": 1745470762,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172351,
+        "num": 172351,
+        "word": "赵朔 悟空",
+        "onboard_time": 1745470163,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 173117,
+        "num": 172339,
+        "word": "王鹤棣咸鱼飞升围读上班",
+        "onboard_time": 1745471721,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171474,
+        "num": 171474,
+        "word": "张杰演唱会500多个音响挂票",
+        "onboard_time": 1745472021,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 167676,
+        "num": 167676,
+        "word": "小猫独自一猫守家6年",
+        "onboard_time": 1745471001,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89790,
+        "num": 164906,
+        "word": "狗狗拍电影死亡戏用机械替身",
+        "onboard_time": 1745471482,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 164559,
+        "num": 164559,
+        "word": "顾客买鱼要求不宰杀遭商贩扔秤砣",
+        "onboard_time": 1745455402,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161843,
+        "num": 161843,
+        "word": "有一种浪漫叫中国航天",
+        "onboard_time": 1745462779,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 126749,
+        "num": 153475,
+        "word": "一天不洗的头发上有什么",
+        "onboard_time": 1745453420,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 150651,
+        "num": 150651,
+        "word": "Uzi名人堂皮肤爆料",
+        "onboard_time": 1745468063,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 148815,
+        "num": 148815,
+        "word": "美国游客点赞中国扫货三宝",
+        "onboard_time": 1745467823,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 148594,
+        "num": 148594,
+        "word": "盒马出逃的小龙虾",
+        "onboard_time": 1745471242,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146072,
+        "num": 146072,
+        "word": "除了黄金还可以买什么",
+        "onboard_time": 1745468602,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 126098,
+        "num": 126098,
+        "word": "某国公司故意向间谍提供手机后门",
+        "onboard_time": 1745452640,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124024,
+        "num": 124024,
+        "word": "大主宰",
+        "onboard_time": 1745468844,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 122489,
+        "num": 122489,
+        "word": "闪耀暖暖 陈奕雯",
+        "onboard_time": 1745468844,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向气候和公正转型领导人峰会发表致辞#"
+    }
+  }
+}

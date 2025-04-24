@@ -1,10 +1,10 @@
 {
   "startTime": 1745425908553,
-  "endTime": 1745469854957,
+  "endTime": 1745472305746,
   "band_list": [
     {
       "raw_hot": 2713875,
-      "num": 340414,
+      "num": 379531,
       "word": "石凯订婚照",
       "onboard_time": 1745468243,
       "rank": 10,
@@ -20,15 +20,23 @@
     },
     {
       "raw_hot": 2222704,
-      "num": 361687,
+      "num": 377745,
       "word": "关晓彤 鹿晗",
       "onboard_time": 1745453661,
       "rank": 10,
       "category": "艺人"
     },
     {
+      "raw_hot": 2195363,
+      "num": 2195363,
+      "word": "猿辅导员工猝死在公司",
+      "onboard_time": 1745469742,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1844906,
-      "num": 319831,
+      "num": 363402,
       "word": "石凯 订过婚",
       "onboard_time": 1745402903,
       "rank": 20,
@@ -107,6 +115,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 828922,
+      "num": 828922,
+      "word": "妻子开车躲家暴致丈夫身亡被判11年",
+      "onboard_time": 1745468003,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 794731,
       "num": 277013,
       "word": "石凯 文韬",
@@ -161,6 +177,14 @@
       "onboard_time": 1745423962,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 631038,
+      "num": 631038,
+      "word": "冉莹颖儿子打生长激素又长1.7厘米",
+      "onboard_time": 1745468844,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 627714,
@@ -219,11 +243,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 458260,
-      "num": 458260,
-      "word": "妻子开车躲家暴致丈夫身亡被判11年",
-      "onboard_time": 1745468003,
-      "rank": 23,
+      "raw_hot": 496032,
+      "num": 496032,
+      "word": "35岁脑干出血程序员发声",
+      "onboard_time": 1745470042,
+      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -257,6 +281,14 @@
       "onboard_time": 1745411242,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 380184,
+      "num": 380184,
+      "word": "关税让美国一小企业仅剩5人",
+      "onboard_time": 1745467582,
+      "rank": 28,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 378251,
@@ -315,14 +347,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 314611,
-      "num": 253549,
-      "word": "冉莹颖儿子打生长激素又长1.7厘米",
-      "onboard_time": 1745468844,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 309302,
       "num": 309302,
       "word": "张继科说王励勤训练从不迟到",
@@ -353,6 +377,14 @@
       "onboard_time": 1745458341,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 286082,
+      "num": 376190,
+      "word": "刘亦菲跳舞十年前vs十年后",
+      "onboard_time": 1745470884,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 280970,
@@ -420,11 +452,19 @@
     },
     {
       "raw_hot": 257225,
-      "num": 336800,
+      "num": 372800,
       "word": "迪丽热巴淋雨给工作人员送伞",
       "onboard_time": 1745467283,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 253860,
+      "num": 375609,
+      "word": "李惠利 百想",
+      "onboard_time": 1745465901,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 253815,
@@ -451,12 +491,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 234729,
-      "num": 239299,
-      "word": "关税让美国一小企业仅剩5人",
-      "onboard_time": 1745467582,
-      "rank": 28,
-      "category": "海外新闻"
+      "raw_hot": 229014,
+      "num": 229014,
+      "word": "我和豆包结婚了",
+      "onboard_time": 1745470762,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 223085,
@@ -465,6 +505,14 @@
       "onboard_time": 1745420602,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 216782,
+      "num": 281730,
+      "word": "对华关税会大幅下降特朗普为何变脸",
+      "onboard_time": 1745469502,
+      "rank": 10,
+      "category": "国内时政"
     },
     {
       "raw_hot": 214499,
@@ -547,12 +595,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 194447,
-      "num": 245261,
-      "word": "李惠利 百想",
-      "onboard_time": 1745465901,
-      "rank": 29,
-      "category": "剧集"
+      "raw_hot": 194037,
+      "num": 194037,
+      "word": "张凌赫晒怼脸合照",
+      "onboard_time": 1745471422,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 191192,
@@ -651,6 +699,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 180343,
+      "num": 180343,
+      "word": "房东的猫吴佩岭自曝生育焦虑",
+      "onboard_time": 1745470762,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179080,
       "num": 179080,
       "word": "Uzi名人堂皮肤爆料",
@@ -659,12 +715,52 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 173117,
+      "num": 172339,
+      "word": "王鹤棣咸鱼飞升围读上班",
+      "onboard_time": 1745471721,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 172351,
+      "num": 172351,
+      "word": "赵朔 悟空",
+      "onboard_time": 1745470163,
+      "rank": 35,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 171474,
+      "num": 171474,
+      "word": "张杰演唱会500多个音响挂票",
+      "onboard_time": 1745472021,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 170288,
+      "num": 183162,
+      "word": "火箭1比1勇士",
+      "onboard_time": 1745470642,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168269,
       "num": 212852,
       "word": "金饰价格跌到1031元",
       "onboard_time": 1745458821,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 167676,
+      "num": 167676,
+      "word": "小猫独自一猫守家6年",
+      "onboard_time": 1745471001,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 166197,
@@ -731,14 +827,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 161121,
-      "num": 161121,
-      "word": "猿辅导员工猝死在公司",
-      "onboard_time": 1745469742,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 159067,
       "num": 159067,
       "word": "小高打越新作上线",
@@ -801,6 +889,14 @@
       "onboard_time": 1745425400,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148594,
+      "num": 148594,
+      "word": "盒马出逃的小龙虾",
+      "onboard_time": 1745471242,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 148148,
@@ -995,6 +1091,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 113934,
+      "num": 184260,
+      "word": "杰伦格林起飞",
+      "onboard_time": 1745472201,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113644,
       "num": 113644,
       "word": "今天再听一遍东方红",
@@ -1036,7 +1140,7 @@
     },
     {
       "raw_hot": 107938,
-      "num": 335852,
+      "num": 370247,
       "word": "上汽奥迪A5L首搭华为乾崑智驾",
       "onboard_time": 1745467462,
       "rank": 13,
@@ -1123,6 +1227,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 89790,
+      "num": 164906,
+      "word": "狗狗拍电影死亡戏用机械替身",
+      "onboard_time": 1745471482,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 87743,
+      "num": 366925,
+      "word": "雷公回应公开与儿子聊天记录",
+      "onboard_time": 1745471061,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86858,
       "num": 86858,
       "word": "京东外卖骑手8单赚98元",
@@ -1155,6 +1275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 83798,
+      "num": 369569,
+      "word": "AUDI量产概念车",
+      "onboard_time": 1745471061,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 83384,
       "num": 83384,
       "word": "苦了曾舜晞也不能苦了我们",
@@ -1185,6 +1313,14 @@
       "onboard_time": 1745459303,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 78108,
+      "num": 368470,
+      "word": "一见钟情看脸日久钟情看脑",
+      "onboard_time": 1745471001,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 75625,
@@ -1363,6 +1499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 55126,
+      "num": 188685,
+      "word": "男子骑车撞站台身亡家属索赔40万",
+      "onboard_time": 1745471541,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55013,
       "num": 55013,
       "word": "云南地震",
@@ -1435,6 +1579,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 50441,
+      "num": 192084,
+      "word": "仅退款是什么意思",
+      "onboard_time": 1745472140,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 50302,
       "num": 100709,
       "word": "美国长期国债大涨",
@@ -1483,14 +1635,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 44929,
-      "num": 281730,
-      "word": "对华关税会大幅下降特朗普为何变脸",
-      "onboard_time": 1745469502,
-      "rank": 10,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 44416,
       "num": 182252,
       "word": "李现同款虎跳峡打卡点已封闭",
@@ -1521,6 +1665,14 @@
       "onboard_time": 1745398642,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 41383,
+      "num": 190598,
+      "word": "李星云降臣对决拔里神玉",
+      "onboard_time": 1745472081,
+      "rank": 28,
+      "category": "动漫"
     },
     {
       "raw_hot": 40726,
@@ -1561,6 +1713,14 @@
       "onboard_time": 1745428937,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 29479,
+      "num": 373351,
+      "word": "无手女孩讲述发布换卫生巾视频心路",
+      "onboard_time": 1745470642,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27488,
