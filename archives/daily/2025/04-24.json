@@ -1,6 +1,6 @@
 {
   "startTime": 1745425908553,
-  "endTime": 1745508459280,
+  "endTime": 1745509364314,
   "band_list": [
     {
       "raw_hot": 2713875,
@@ -283,6 +283,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 822483,
+      "num": 822483,
+      "word": "抢labubu",
+      "onboard_time": 1745505382,
+      "rank": 30,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 795876,
       "num": 795876,
       "word": "外交部否认中美就关税问题进行谈判",
@@ -353,14 +361,6 @@
       "onboard_time": 1745421263,
       "rank": 21,
       "category": "财经"
-    },
-    {
-      "raw_hot": 732050,
-      "num": 732050,
-      "word": "抢labubu",
-      "onboard_time": 1745505382,
-      "rank": 30,
-      "category": "休闲"
     },
     {
       "raw_hot": 721282,
@@ -579,6 +579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 490978,
+      "num": 367793,
+      "word": "一念江南 虞书欣",
+      "onboard_time": 1745506823,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 444641,
       "num": 444641,
       "word": "珠帘玉幕",
@@ -625,6 +633,14 @@
       "onboard_time": 1745483721,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 425556,
+      "num": 425556,
+      "word": "张继科说雨果夺冠是绝对实力",
+      "onboard_time": 1745505562,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 424066,
@@ -729,14 +745,6 @@
       "onboard_time": 1745470762,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 366234,
-      "num": 366234,
-      "word": "一念江南 虞书欣",
-      "onboard_time": 1745506823,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 357266,
@@ -883,14 +891,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 301272,
-      "num": 366748,
-      "word": "张继科说雨果夺冠是绝对实力",
-      "onboard_time": 1745505562,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 301155,
       "num": 301155,
       "word": "成毅杨幂赵丽颖封面",
@@ -1033,6 +1033,14 @@
       "onboard_time": 1745490800,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 265321,
+      "num": 265321,
+      "word": "当事人回应取名朱雀玄武敕令",
+      "onboard_time": 1745506522,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 263848,
@@ -1259,6 +1267,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 213329,
+      "num": 213329,
+      "word": "唐国强反复认错丁程鑫刘耀文",
+      "onboard_time": 1745508023,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 212973,
       "num": 169276,
       "word": "男子溃疡久不愈合查出舌癌",
@@ -1307,6 +1323,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 208834,
+      "num": 208834,
+      "word": "fx出道前练习室",
+      "onboard_time": 1745507782,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 207854,
       "num": 228432,
       "word": "赵丽颖配音幽灵公主",
@@ -1345,14 +1369,6 @@
       "onboard_time": 1745493802,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 203169,
-      "num": 203169,
-      "word": "唐国强反复认错丁程鑫刘耀文",
-      "onboard_time": 1745508023,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 202948,
@@ -1499,14 +1515,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 188832,
-      "num": 249508,
-      "word": "当事人回应取名朱雀玄武敕令",
-      "onboard_time": 1745506522,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 188632,
       "num": 188632,
       "word": "骑手提醒外卖送得快不一定是好事",
@@ -1563,6 +1571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184955,
+      "num": 359807,
+      "word": "5月1日起杭州生育津贴直发个人",
+      "onboard_time": 1745506763,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 184917,
       "num": 184917,
       "word": "闪耀暖暖 陈奕雯",
@@ -1577,14 +1593,6 @@
       "onboard_time": 1745493141,
       "rank": 34,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 183441,
-      "num": 183441,
-      "word": "fx出道前练习室",
-      "onboard_time": 1745507782,
-      "rank": 32,
-      "category": "音乐"
     },
     {
       "raw_hot": 183095,
@@ -1819,6 +1827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 162410,
+      "num": 359354,
+      "word": "小区通知将对地下车库流浪猫投药",
+      "onboard_time": 1745507062,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 162145,
       "num": 162145,
       "word": "刘亦菲和助理一起吃火锅",
@@ -1873,14 +1889,6 @@
       "onboard_time": 1745498543,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 156388,
-      "num": 359807,
-      "word": "5月1日起杭州生育津贴直发个人",
-      "onboard_time": 1745506763,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 156115,
@@ -1953,6 +1961,14 @@
       "onboard_time": 1745424081,
       "rank": 29,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 154171,
+      "num": 335372,
+      "word": "男子离婚诉讼6年3次被判不许离",
+      "onboard_time": 1745508382,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153701,
@@ -2323,6 +2339,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 139030,
+      "num": 346037,
+      "word": "老小区40栋楼里10栋已成危楼",
+      "onboard_time": 1745506403,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138320,
       "num": 244025,
       "word": "沙利文痛斥特朗普",
@@ -2451,20 +2475,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 128976,
+      "num": 128976,
+      "word": "迪丽热巴看到猫咪也得夹子音",
+      "onboard_time": 1745508862,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 128869,
       "num": 128869,
       "word": "无限暖暖",
       "onboard_time": 1745464521,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 128454,
-      "num": 346037,
-      "word": "老小区40栋楼里10栋已成危楼",
-      "onboard_time": 1745506403,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128112,
@@ -2579,14 +2603,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 117779,
-      "num": 359354,
-      "word": "小区通知将对地下车库流浪猫投药",
-      "onboard_time": 1745507062,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 115283,
       "num": 115283,
       "word": "金价",
@@ -2681,6 +2697,14 @@
       "onboard_time": 1745461220,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109681,
+      "num": 109681,
+      "word": "杨蓉说回家就是吃吃喝喝",
+      "onboard_time": 1745509161,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 109323,
@@ -3067,14 +3091,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 76348,
-      "num": 184539,
-      "word": "男子离婚诉讼6年3次被判不许离",
-      "onboard_time": 1745508382,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 76301,
       "num": 245415,
       "word": "台当局领导人办公楼失火",
@@ -3459,6 +3475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48117,
+      "num": 272482,
+      "word": "多名网约车司机投保被公司p图诈骗",
+      "onboard_time": 1745508682,
+      "rank": 14,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 47429,
       "num": 487772,
       "word": "五一怎么休更爽",
@@ -3489,6 +3513,14 @@
       "onboard_time": 1745410162,
       "rank": 48,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 44645,
+      "num": 224829,
+      "word": "男子为复合给前女友装定位器被判刑",
+      "onboard_time": 1745508622,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44551,
@@ -3883,6 +3915,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 18519,
+      "num": 345322,
+      "word": "旅游水土不服是哪里出了问题",
+      "onboard_time": 1745508082,
+      "rank": 19,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 18351,
       "num": 147995,
       "word": "未成年打生长激素有哪些利弊",
@@ -3947,6 +3987,14 @@
       "category": "科学科普,民生新闻"
     },
     {
+      "raw_hot": 15146,
+      "num": 924231,
+      "word": "高质量发展中国行",
+      "onboard_time": 1745501783,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14509,
       "num": 67359,
       "word": "防晒霜SPF值增加后效果会增强吗",
@@ -3985,14 +4033,6 @@
       "onboard_time": 1745430256,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 13982,
-      "num": 924231,
-      "word": "高质量发展中国行",
-      "onboard_time": 1745501783,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 13251,
@@ -4097,14 +4137,6 @@
       "onboard_time": 1745476880,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 8480,
-      "num": 345322,
-      "word": "旅游水土不服是哪里出了问题",
-      "onboard_time": 1745508082,
-      "rank": 19,
-      "category": "旅游"
     },
     {
       "raw_hot": 8460,

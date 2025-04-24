@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/24 23:27:39
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/24 23:42:44
 </p>
 </blockquote>
 <p>
@@ -5199,6 +5199,12 @@ bite me男伴舞（热度：832510）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8A%A2labubu%23" target="weibo">
+抢labubu（热度：822483）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A5%BF%E7%98%A6%E5%92%8C%E8%BF%90%E5%8A%A8%E7%98%A6%E5%B7%AE%E5%88%AB%23" target="weibo">
 饿瘦和运动瘦差别（热度：820481）
 </a>
@@ -6005,12 +6011,6 @@ YERI和Wendy离开SM（热度：805847）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E5%85%AC%E5%BC%80%E6%8A%A8%E5%87%BB%E7%89%B9%E6%9C%97%E6%99%AE%23" target="weibo">
 拜登公开抨击特朗普（热度：737258）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23GAI%E9%83%BD%E7%98%A6%E8%84%B1%E7%9B%B8%E4%BA%86%23" target="weibo">
-GAI都瘦脱相了（热度：737143）
 </a>
 </li>
 
