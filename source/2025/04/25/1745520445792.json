@@ -1,0 +1,410 @@
+{
+  "runTime": 1745520445792,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 193233,
+        "num": 193233,
+        "word": "特朗普宣布关税后支持率骤降",
+        "onboard_time": 1745513597,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 126327,
+        "num": 126327,
+        "word": "抢labubu",
+        "onboard_time": 1745505382,
+        "rank": 1,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 7491,
+        "num": 113513,
+        "word": "高质量发展中国行",
+        "onboard_time": 1745501783,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102766,
+        "num": 102766,
+        "word": "成本9元素颜霜标38元卖出500多万",
+        "onboard_time": 1745511440,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75554,
+        "num": 75554,
+        "word": "澳大利亚出动直升机扑杀750只考拉",
+        "onboard_time": 1745497942,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 69181,
+        "num": 69181,
+        "word": "律师称取名朱雀玄武敕令合法",
+        "onboard_time": 1745512458,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49906,
+        "num": 49906,
+        "word": "男子离婚诉讼6年3次被判不许离",
+        "onboard_time": 1745508382,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49495,
+        "num": 49495,
+        "word": "一念江南 虞书欣",
+        "onboard_time": 1745506823,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47232,
+        "num": 47232,
+        "word": "神20发射圆满成功",
+        "onboard_time": 1745487861,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 45411,
+        "num": 45411,
+        "word": "榜上佳婿 空降",
+        "onboard_time": 1745504603,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234786,
+        "num": 45330,
+        "word": "我当了明星就这样",
+        "onboard_time": 1745510360,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97173,
+        "num": 44947,
+        "word": "邓超发布一段录音对话",
+        "onboard_time": 1745516235,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76424,
+        "num": 44179,
+        "word": "约70%的00后计划30岁前购房",
+        "onboard_time": 1745510242,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58600,
+        "num": 44034,
+        "word": "赵露思说化妆是尊重自己",
+        "onboard_time": 1745496503,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54352,
+        "num": 43537,
+        "word": "男子炒股11年狂赚6000多万",
+        "onboard_time": 1745488761,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43337,
+        "num": 43337,
+        "word": "石凯订婚照",
+        "onboard_time": 1745468243,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38955,
+        "num": 38955,
+        "word": "无忧渡",
+        "onboard_time": 1745491341,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37981,
+        "num": 37981,
+        "word": "神二十与空间站完成对接",
+        "onboard_time": 1745510179,
+        "rank": 17,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 37570,
+        "num": 37570,
+        "word": "唐国强反复认错丁程鑫刘耀文",
+        "onboard_time": 1745508023,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32926,
+        "num": 32926,
+        "word": "fx出道前练习室",
+        "onboard_time": 1745507782,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 40413,
+        "num": 32263,
+        "word": "养了4年的猫把主人咬到输液1周",
+        "onboard_time": 1745494701,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31100,
+        "num": 31100,
+        "word": "杨坤回应起诉四川芬达",
+        "onboard_time": 1745489959,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30786,
+        "num": 30786,
+        "word": "张凌赫拍迪丽热巴",
+        "onboard_time": 1745500761,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 28205,
+        "num": 28205,
+        "word": "花少7",
+        "onboard_time": 1745490440,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28076,
+        "num": 28076,
+        "word": "杨超越青苹果头像",
+        "onboard_time": 1745497461,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26972,
+        "num": 26972,
+        "word": "林磊儿你对得起小姨吗",
+        "onboard_time": 1745499801,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27104,
+        "num": 26962,
+        "word": "杨坤 四川芬达",
+        "onboard_time": 1745490800,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26944,
+        "num": 26944,
+        "word": "40件小事快速缓解焦虑",
+        "onboard_time": 1745510120,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 24826,
+        "num": 24826,
+        "word": "瑶大耳狗之梦皮肤",
+        "onboard_time": 1745516836,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 24093,
+        "num": 24093,
+        "word": "谢霆锋香港演唱会",
+        "onboard_time": 1745499382,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 12225,
+        "num": 24004,
+        "word": "中国外贸朋友圈不断扩大",
+        "onboard_time": 1745519654,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 15143,
+        "num": 23962,
+        "word": "陈冬问跟你们梦里梦到的一样不一样",
+        "onboard_time": 1745518934,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 23947,
+        "num": 23947,
+        "word": "iG发声明",
+        "onboard_time": 1745499142,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 23595,
+        "num": 23595,
+        "word": "刘强东老家宿迁京东外卖遍地开花",
+        "onboard_time": 1745497881,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 23306,
+        "num": 23306,
+        "word": "神舟二十号发射圆满成功",
+        "onboard_time": 1745493082,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 23076,
+        "num": 23076,
+        "word": "成毅演出了二次元感觉",
+        "onboard_time": 1745498961,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22602,
+        "num": 22602,
+        "word": "大熊猫半夜不睡觉排排坐吃夜宵",
+        "onboard_time": 1745519294,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22229,
+        "num": 22229,
+        "word": "杨紫宋洋同框",
+        "onboard_time": 1745512519,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 21998,
+        "num": 21998,
+        "word": "这居然是陈都灵",
+        "onboard_time": 1745496380,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21746,
+        "num": 21746,
+        "word": "何江道歉",
+        "onboard_time": 1745510060,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21173,
+        "num": 21173,
+        "word": "当事人回应取名朱雀玄武敕令",
+        "onboard_time": 1745506522,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20226,
+        "num": 20226,
+        "word": "落花时节又逢君",
+        "onboard_time": 1745506162,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20039,
+        "num": 20039,
+        "word": "留几手 不恋爱",
+        "onboard_time": 1745520016,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19974,
+        "num": 19974,
+        "word": "美国农场主犹豫还种不种大豆",
+        "onboard_time": 1745515276,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 19950,
+        "num": 19950,
+        "word": "对方使用了一杯奶茶",
+        "onboard_time": 1745511081,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 19926,
+        "num": 19926,
+        "word": "刷手机第一次觉得腿软",
+        "onboard_time": 1745505681,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18190,
+        "num": 19925,
+        "word": "同一天同一地点跨越55年",
+        "onboard_time": 1745516056,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 18180,
+        "num": 19921,
+        "word": "杨超越太权威了",
+        "onboard_time": 1745507181,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17108,
+        "num": 19916,
+        "word": "柯南新片20年最高分有何含金量",
+        "onboard_time": 1745498002,
+        "rank": 48,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 18118,
+        "num": 19913,
+        "word": "杨紫北京国际电影节造型",
+        "onboard_time": 1745518934,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代中肯命运共同体#"
+    }
+  }
+}
