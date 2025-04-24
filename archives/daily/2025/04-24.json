@@ -1,6 +1,6 @@
 {
   "startTime": 1745425908553,
-  "endTime": 1745499919621,
+  "endTime": 1745501711583,
   "band_list": [
     {
       "raw_hot": 2713875,
@@ -403,6 +403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 615906,
+      "num": 410618,
+      "word": "孙俪杨紫是第一次见",
+      "onboard_time": 1745498543,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 607983,
       "num": 607983,
       "word": "神20发射圆满成功",
@@ -425,6 +433,14 @@
       "onboard_time": 1745462779,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 596726,
+      "num": 299616,
+      "word": "杨超越青苹果头像",
+      "onboard_time": 1745497461,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 589519,
@@ -507,12 +523,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 501060,
-      "num": 299616,
-      "word": "杨超越青苹果头像",
-      "onboard_time": 1745497461,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 486370,
+      "num": 309569,
+      "word": "林磊儿你对得起小姨吗",
+      "onboard_time": 1745499801,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 444641,
@@ -595,14 +611,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 403774,
-      "num": 403774,
-      "word": "孙俪杨紫是第一次见",
-      "onboard_time": 1745498543,
-      "rank": 22,
-      "category": "电影"
-    },
-    {
       "raw_hot": 398588,
       "num": 398588,
       "word": "被苍兰诀2疯感狠狠烧到了",
@@ -660,7 +668,7 @@
     },
     {
       "raw_hot": 351104,
-      "num": 296864,
+      "num": 319296,
       "word": "iG发声明",
       "onboard_time": 1745499142,
       "rank": 18,
@@ -793,6 +801,14 @@
       "onboard_time": 1745496321,
       "rank": 20,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 299358,
+      "num": 299358,
+      "word": "Scout 赵信",
+      "onboard_time": 1745498902,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 296884,
@@ -971,6 +987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 255225,
+      "num": 255225,
+      "word": "无忧渡热度",
+      "onboard_time": 1745499921,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 254140,
       "num": 291452,
       "word": "无忧渡",
@@ -1011,6 +1035,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 247238,
+      "num": 247238,
+      "word": "澳大利亚出动直升机扑杀750只考拉",
+      "onboard_time": 1745497942,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 247084,
       "num": 247084,
       "word": "让张小斐孙艺洲演夫妻的人是天才",
@@ -1041,22 +1073,6 @@
       "onboard_time": 1745488940,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 241583,
-      "num": 239935,
-      "word": "澳大利亚出动直升机扑杀750只考拉",
-      "onboard_time": 1745497942,
-      "rank": 36,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 238081,
-      "num": 238081,
-      "word": "Scout 赵信",
-      "onboard_time": 1745498902,
-      "rank": 36,
-      "category": "电竞"
     },
     {
       "raw_hot": 233847,
@@ -1113,6 +1129,14 @@
       "onboard_time": 1745491699,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 219714,
+      "num": 219714,
+      "word": "小米员工称平均工时12小时仍被约谈",
+      "onboard_time": 1745500101,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 217599,
@@ -1251,6 +1275,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 200585,
+      "num": 253399,
+      "word": "张凌赫拍迪丽热巴",
+      "onboard_time": 1745500761,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 200326,
       "num": 200326,
       "word": "未定事件簿",
@@ -1297,6 +1329,22 @@
       "onboard_time": 1745484202,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197194,
+      "num": 197194,
+      "word": "林志玲仙女头",
+      "onboard_time": 1745501303,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 196565,
+      "num": 295235,
+      "word": "外卖员撞到宠物狗被打派出所介入",
+      "onboard_time": 1745500161,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 195767,
@@ -1523,12 +1571,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 172971,
-      "num": 175390,
-      "word": "林磊儿你对得起小姨吗",
-      "onboard_time": 1745499801,
-      "rank": 39,
-      "category": "剧集"
+      "raw_hot": 171076,
+      "num": 171076,
+      "word": "海莉晒抱儿子照片",
+      "onboard_time": 1745500282,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 170288,
@@ -1651,6 +1699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160800,
+      "num": 160800,
+      "word": "谢霆锋香港演唱会",
+      "onboard_time": 1745499382,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 159067,
       "num": 159067,
       "word": "小高打越新作上线",
@@ -1707,6 +1763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155366,
+      "num": 155366,
+      "word": "敬汉卿炒股盈利450万",
+      "onboard_time": 1745500761,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 155356,
       "num": 149396,
       "word": "陆虎直播",
@@ -1755,12 +1819,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 153062,
-      "num": 153062,
-      "word": "谢霆锋香港演唱会",
-      "onboard_time": 1745499382,
-      "rank": 43,
-      "category": "演出"
+      "raw_hot": 152949,
+      "num": 301654,
+      "word": "脑干出血程序员称最忙一天睡2小时",
+      "onboard_time": 1745499201,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152947,
@@ -2235,6 +2299,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 120814,
+      "num": 289966,
+      "word": "对话脑干出血的34岁程序员",
+      "onboard_time": 1745500402,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120374,
       "num": 120374,
       "word": "陈德容演过妈妈",
@@ -2248,14 +2320,6 @@
       "word": "五一租车需求比清明增长2至3倍",
       "onboard_time": 1745460621,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 118296,
-      "num": 301654,
-      "word": "脑干出血程序员称最忙一天睡2小时",
-      "onboard_time": 1745499201,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -2560,6 +2624,14 @@
       "word": "胡锡进说董明珠应该道歉",
       "onboard_time": 1745475861,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91017,
+      "num": 196688,
+      "word": "广东的暴雨下哪了",
+      "onboard_time": 1745501601,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -3163,6 +3235,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 41525,
+      "num": 852230,
+      "word": "一图看中国航天未来20年",
+      "onboard_time": 1745489900,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41383,
       "num": 190598,
       "word": "李星云降臣对决拔里神玉",
@@ -3179,20 +3259,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 39449,
-      "num": 852230,
-      "word": "一图看中国航天未来20年",
-      "onboard_time": 1745489900,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 37345,
       "num": 166694,
       "word": "男女共防HPV要趁早",
       "onboard_time": 1745463020,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 36413,
+      "num": 293970,
+      "word": "八旬老人独撑动物园已三十六年",
+      "onboard_time": 1745501242,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35722,
@@ -3587,6 +3667,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 13026,
+      "num": 293420,
+      "word": "AI复制吉卜力是盛大合法的抢劫吗",
+      "onboard_time": 1745501362,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 12888,
       "num": 139968,
       "word": "特朗普称赞马斯克车不错",
@@ -3665,6 +3753,14 @@
       "onboard_time": 1745476880,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8460,
+      "num": 291211,
+      "word": "杨紫新剧如何体现家族传承与成长",
+      "onboard_time": 1745500883,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 6230,
