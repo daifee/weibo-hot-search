@@ -1,0 +1,410 @@
+{
+  "runTime": 1745486873979,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1545889,
+        "num": 1545889,
+        "word": "卤鹅哥道歉",
+        "onboard_time": 1745484322,
+        "rank": 0,
+        "category": "网红,汽车"
+      },
+      {
+        "raw_hot": 1027386,
+        "num": 1027386,
+        "word": "妇联回应瑶一瑶入学两月适应能力强",
+        "onboard_time": 1745484202,
+        "rank": 1,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 118176,
+        "num": 974442,
+        "word": "神二十乘组今日出征",
+        "onboard_time": 1745465841,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 938677,
+        "num": 938677,
+        "word": "jiejie恋情",
+        "onboard_time": 1745479280,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 711150,
+        "num": 711150,
+        "word": "外交部否认中美就关税问题进行谈判",
+        "onboard_time": 1745483120,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 575271,
+        "num": 575271,
+        "word": "邓超在家喊胡曼黎被孙俪骂",
+        "onboard_time": 1745476281,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 535859,
+        "num": 535859,
+        "word": "杨紫北影节红毯造型",
+        "onboard_time": 1745484262,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 469197,
+        "num": 469197,
+        "word": "赵露思金色深V短裙",
+        "onboard_time": 1745477060,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 441715,
+        "num": 441715,
+        "word": "神二十发射直播",
+        "onboard_time": 1745478201,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 409916,
+        "num": 409916,
+        "word": "周杰伦480柱子票消费者有权主张无效",
+        "onboard_time": 1745482700,
+        "rank": 9,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 1244389,
+        "num": 400668,
+        "word": "关晓彤 鹿晗",
+        "onboard_time": 1745453661,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 927628,
+        "num": 399434,
+        "word": "刘强东取外卖遇卡餐一脸迷茫",
+        "onboard_time": 1745464822,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 704056,
+        "num": 387037,
+        "word": "石凯订婚照",
+        "onboard_time": 1745468243,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 427131,
+        "num": 377050,
+        "word": "龚俊陈昊森 花少7",
+        "onboard_time": 1745483721,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82863,
+        "num": 359799,
+        "word": "把毒贩当线人缉毒警察被控走私毒品",
+        "onboard_time": 1745485759,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 358867,
+        "num": 358867,
+        "word": "韩外交官谈韩国人为什么喜欢张家界",
+        "onboard_time": 1745481861,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 327954,
+        "num": 327954,
+        "word": "解放军回应美导弹驱逐舰过航台湾海峡",
+        "onboard_time": 1745483181,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 322549,
+        "num": 322549,
+        "word": "费列罗长蛆",
+        "onboard_time": 1745482941,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13822,
+        "num": 316871,
+        "word": "歌手2025嘉宾阵容有什么看点",
+        "onboard_time": 1745486483,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30517,
+        "num": 315287,
+        "word": "西安一市集33间铺面突然被拆",
+        "onboard_time": 1745485822,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 404165,
+        "num": 315268,
+        "word": "老鼠咬破燃气管道爆炸男子全身烧伤",
+        "onboard_time": 1745481561,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315214,
+        "num": 315214,
+        "word": "一波电视剧要来了",
+        "onboard_time": 1745473282,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 292418,
+        "num": 292418,
+        "word": "建议ppt改名叫jjt",
+        "onboard_time": 1745481321,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 283245,
+        "num": 283245,
+        "word": "一加 程潇",
+        "onboard_time": 1745480118,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210935,
+        "num": 273061,
+        "word": "为什么很多人一到医院就社恐",
+        "onboard_time": 1745484322,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 267794,
+        "num": 267794,
+        "word": "樊振东许昕领衔上海队征战全运会",
+        "onboard_time": 1745484141,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215887,
+        "num": 215887,
+        "word": "金靖镜头里的迪丽热巴",
+        "onboard_time": 1745475921,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88127,
+        "num": 194921,
+        "word": "上海车展极氪展台人山人海",
+        "onboard_time": 1745486363,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 192811,
+        "num": 192811,
+        "word": "冉莹颖儿子打生长激素又长1.7厘米",
+        "onboard_time": 1745468844,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180873,
+        "num": 180873,
+        "word": "中国人进家脱鞋习惯上太空了",
+        "onboard_time": 1745475261,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180581,
+        "num": 180581,
+        "word": "中国已停止接收波音飞机",
+        "onboard_time": 1745481140,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 179617,
+        "num": 179617,
+        "word": "神20点火升空",
+        "onboard_time": 1745486720,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 164721,
+        "num": 164721,
+        "word": "985硕士求职大厂被拒只因本科双非学历",
+        "onboard_time": 1745475921,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160913,
+        "num": 160913,
+        "word": "结婚前分手是什么体验",
+        "onboard_time": 1745484742,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156000,
+        "num": 156000,
+        "word": "柯淳对自己古装没信心",
+        "onboard_time": 1745485640,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155607,
+        "num": 155607,
+        "word": "神舟二十号",
+        "onboard_time": 1745486363,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146285,
+        "num": 146285,
+        "word": "安卓朋友圈可发实况照片了",
+        "onboard_time": 1745478741,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 142927,
+        "num": 142927,
+        "word": "妇联回应瑶一瑶入学状态",
+        "onboard_time": 1745484262,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28003,
+        "num": 140018,
+        "word": "四年心理咨询浓缩成一分钟",
+        "onboard_time": 1745486720,
+        "rank": 38,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 12888,
+        "num": 139968,
+        "word": "特朗普称赞马斯克车不错",
+        "onboard_time": 1745486542,
+        "rank": 39,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 139944,
+        "num": 139944,
+        "word": "东部战区正告美方停止歪曲炒作",
+        "onboard_time": 1745483181,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 138646,
+        "num": 138646,
+        "word": "35岁脑干出血程序员发声",
+        "onboard_time": 1745470042,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123545,
+        "num": 123545,
+        "word": "电视剧制作等领域部分放开",
+        "onboard_time": 1745478260,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120374,
+        "num": 120374,
+        "word": "陈德容演过妈妈",
+        "onboard_time": 1745483061,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110137,
+        "num": 110137,
+        "word": "我承认我的确好色",
+        "onboard_time": 1745483301,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106536,
+        "num": 106536,
+        "word": "这居然是向佐",
+        "onboard_time": 1745465961,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106471,
+        "num": 106471,
+        "word": "原来最便宜的留学是在印度",
+        "onboard_time": 1745485161,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 103599,
+        "num": 103599,
+        "word": "邓为风月不相关女主",
+        "onboard_time": 1745484202,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98796,
+        "num": 98796,
+        "word": "当地回应女生被同事关冷库称闹着玩",
+        "onboard_time": 1745485881,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95153,
+        "num": 98491,
+        "word": "sakuya表情包",
+        "onboard_time": 1745485522,
+        "rank": 49,
+        "category": "动漫,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同肯尼亚总统鲁托会谈#"
+    }
+  }
+}
