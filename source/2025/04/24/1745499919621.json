@@ -1,0 +1,410 @@
+{
+  "runTime": 1745499919621,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 880374,
+        "num": 1140859,
+        "word": "花少7",
+        "onboard_time": 1745490440,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 712133,
+        "num": 712133,
+        "word": "福宝再次进入假孕状态",
+        "onboard_time": 1745495422,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39449,
+        "num": 467195,
+        "word": "一图看中国航天未来20年",
+        "onboard_time": 1745489900,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 403774,
+        "num": 403774,
+        "word": "孙俪杨紫是第一次见",
+        "onboard_time": 1745498543,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 306401,
+        "num": 306401,
+        "word": "国乒男女队在京召开总结大会",
+        "onboard_time": 1745494342,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2379843,
+        "num": 305051,
+        "word": "小米被曝要求员工日均工时不低于11.5",
+        "onboard_time": 1745496623,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 994334,
+        "num": 304518,
+        "word": "男子长期熬夜劝大家好好爱自己",
+        "onboard_time": 1745488820,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 736698,
+        "num": 304123,
+        "word": "我明明记得教师是个体面的职业",
+        "onboard_time": 1745492062,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 302937,
+        "num": 302937,
+        "word": "莫迪中断访问紧急回国",
+        "onboard_time": 1745495720,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 118296,
+        "num": 301654,
+        "word": "脑干出血程序员称最忙一天睡2小时",
+        "onboard_time": 1745499201,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 905939,
+        "num": 301563,
+        "word": "赵露思说化妆是尊重自己",
+        "onboard_time": 1745496503,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 708231,
+        "num": 301383,
+        "word": "瑶一瑶小肉包两个多月掉粉33万",
+        "onboard_time": 1745496441,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 301155,
+        "num": 301155,
+        "word": "成毅杨幂赵丽颖封面",
+        "onboard_time": 1745496321,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 594218,
+        "num": 300650,
+        "word": "关晓彤 鹿晗",
+        "onboard_time": 1745453661,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 514996,
+        "num": 300096,
+        "word": "这居然是陈都灵",
+        "onboard_time": 1745496380,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 501060,
+        "num": 299616,
+        "word": "杨超越青苹果头像",
+        "onboard_time": 1745497461,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 488298,
+        "num": 298694,
+        "word": "男子炒股11年狂赚6000多万",
+        "onboard_time": 1745488761,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 415484,
+        "num": 297830,
+        "word": "石凯订婚照",
+        "onboard_time": 1745468243,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351104,
+        "num": 296864,
+        "word": "iG发声明",
+        "onboard_time": 1745499142,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 233847,
+        "num": 296081,
+        "word": "陆虎戴安全帽直播",
+        "onboard_time": 1745498601,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 399286,
+        "num": 295335,
+        "word": "杨紫 华伦公主",
+        "onboard_time": 1745488700,
+        "rank": 20,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 262663,
+        "num": 294722,
+        "word": "神舟二十号发射圆满成功",
+        "onboard_time": 1745493082,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 232227,
+        "num": 293760,
+        "word": "无忧渡快超点",
+        "onboard_time": 1745495542,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218927,
+        "num": 293183,
+        "word": "杨坤回应起诉四川芬达",
+        "onboard_time": 1745489959,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72494,
+        "num": 292165,
+        "word": "陈雨菲说还是热爱羽毛球",
+        "onboard_time": 1745497522,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218849,
+        "num": 291452,
+        "word": "无忧渡",
+        "onboard_time": 1745491341,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 9001,
+        "num": 290824,
+        "word": "中国航天未来20年规划有哪些重要节点",
+        "onboard_time": 1745499681,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 59237,
+        "num": 290046,
+        "word": "王腾回应新手机大部分人都买得起",
+        "onboard_time": 1745498302,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 188587,
+        "num": 289714,
+        "word": "成毅演出了二次元感觉",
+        "onboard_time": 1745498961,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 289107,
+        "num": 289107,
+        "word": "奎八",
+        "onboard_time": 1745495422,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 267779,
+        "num": 267779,
+        "word": "四川一遗址发现大量烧烤迹象",
+        "onboard_time": 1745492720,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265832,
+        "num": 265832,
+        "word": "刘强东取外卖遇卡餐一脸迷茫",
+        "onboard_time": 1745464822,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172650,
+        "num": 265204,
+        "word": "杨坤 四川芬达",
+        "onboard_time": 1745490800,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264579,
+        "num": 264579,
+        "word": "刘强东老家宿迁京东外卖遍地开花",
+        "onboard_time": 1745497881,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 263660,
+        "num": 263660,
+        "word": "养了4年的猫把主人咬到输液1周",
+        "onboard_time": 1745494701,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239935,
+        "num": 239935,
+        "word": "澳大利亚出动直升机扑杀750只考拉",
+        "onboard_time": 1745497942,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 238081,
+        "num": 238081,
+        "word": "Scout 赵信",
+        "onboard_time": 1745498902,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 214047,
+        "num": 214047,
+        "word": "中东土豪问买车能不能离境退税",
+        "onboard_time": 1745499021,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 177473,
+        "num": 177473,
+        "word": "崩坏星穹铁道",
+        "onboard_time": 1745499743,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 172971,
+        "num": 175390,
+        "word": "林磊儿你对得起小姨吗",
+        "onboard_time": 1745499801,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175342,
+        "num": 175342,
+        "word": "神20发射圆满成功",
+        "onboard_time": 1745487861,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 168257,
+        "num": 168257,
+        "word": "米家空调",
+        "onboard_time": 1745499562,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 20524,
+        "num": 159984,
+        "word": "地铁广告中的谐音梗创意是如何产生的",
+        "onboard_time": 1745498483,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153062,
+        "num": 153062,
+        "word": "谢霆锋香港演唱会",
+        "onboard_time": 1745499382,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 17413,
+        "num": 151975,
+        "word": "半个顶流游戏圈都来WAW了",
+        "onboard_time": 1745496081,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 151202,
+        "num": 151202,
+        "word": "没有笔盖的笔 大事不妙",
+        "onboard_time": 1745499863,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150924,
+        "num": 150924,
+        "word": "seventeen演唱会",
+        "onboard_time": 1745499142,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 143992,
+        "num": 148867,
+        "word": "AG宠儿官宣复出",
+        "onboard_time": 1745498302,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 12301,
+        "num": 148800,
+        "word": "职场中老实人也有春天",
+        "onboard_time": 1745498783,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148776,
+        "num": 148776,
+        "word": "盗墓贼随手丢掉的手帕竟是国宝",
+        "onboard_time": 1745495422,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#为建设航天强国再立新功#"
+    }
+  }
+}
