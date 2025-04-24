@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745491492868,
+  "endTime": 1745493701437,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -723,6 +723,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1211861,
+      "num": 1211861,
+      "word": "男子长期熬夜劝大家好好爱自己",
+      "onboard_time": 1745488820,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1197988,
       "num": 1197988,
       "word": "顾客买鱼要求不宰杀遭商贩扔秤砣",
@@ -977,6 +985,14 @@
       "onboard_time": 1745217260,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1038595,
+      "num": 1038595,
+      "word": "杨紫 华伦公主",
+      "onboard_time": 1745488700,
+      "rank": 6,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1027386,
@@ -1387,6 +1403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 792133,
+      "num": 792133,
+      "word": "花少7",
+      "onboard_time": 1745490440,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 791432,
       "num": 791432,
       "word": "无忧渡播出 陈奕恒都长大了",
@@ -1409,14 +1433,6 @@
       "onboard_time": 1745380525,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 779581,
-      "num": 627171,
-      "word": "杨紫 华伦公主",
-      "onboard_time": 1745488700,
-      "rank": 6,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 777807,
@@ -2105,6 +2121,14 @@
       "onboard_time": 1745461101,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 578377,
+      "num": 384656,
+      "word": "丁真没有认真备戏惹怒曾志伟",
+      "onboard_time": 1745488881,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 578338,
@@ -2803,6 +2827,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 440916,
+      "num": 281479,
+      "word": "我明明记得教师是个体面的职业",
+      "onboard_time": 1745492062,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 438280,
       "num": 438280,
       "word": "西瓜酱刷新了我对酱的认知",
@@ -2848,6 +2880,14 @@
       "word": "杨幂晒刮痧小猫",
       "onboard_time": 1745121623,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 429714,
+      "num": 344221,
+      "word": "杨坤回应起诉四川芬达",
+      "onboard_time": 1745489959,
+      "rank": 36,
       "category": "艺人"
     },
     {
@@ -3587,14 +3627,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 335950,
-      "num": 361948,
-      "word": "丁真没有认真备戏惹怒曾志伟",
-      "onboard_time": 1745488881,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 335654,
       "num": 293934,
       "word": "情侣吵架男子撞碎酒店玻璃摔出窗外",
@@ -3641,14 +3673,6 @@
       "onboard_time": 1745082685,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 330577,
-      "num": 415339,
-      "word": "男子长期熬夜劝大家好好爱自己",
-      "onboard_time": 1745488820,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 330068,
@@ -3809,14 +3833,6 @@
       "onboard_time": 1745379624,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 318944,
-      "num": 318944,
-      "word": "花少7",
-      "onboard_time": 1745490440,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 316804,
@@ -4113,14 +4129,6 @@
       "onboard_time": 1745121322,
       "rank": 8,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 298801,
-      "num": 344221,
-      "word": "杨坤回应起诉四川芬达",
-      "onboard_time": 1745489959,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 298717,
@@ -4593,6 +4601,22 @@
       "onboard_time": 1745399302,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 266454,
+      "num": 297341,
+      "word": "杨坤说被观众记住模仿是件好事",
+      "onboard_time": 1745491040,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 266393,
+      "num": 266393,
+      "word": "杨坤 四川芬达",
+      "onboard_time": 1745490800,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 266182,
@@ -5299,6 +5323,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 231649,
+      "num": 402076,
+      "word": "无忧渡",
+      "onboard_time": 1745143703,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 231432,
       "num": 231432,
       "word": "一加发布会",
@@ -5513,6 +5545,14 @@
       "onboard_time": 1745379503,
       "rank": 41,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 223430,
+      "num": 223430,
+      "word": "四川一遗址发现大量烧烤迹象",
+      "onboard_time": 1745492720,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 223085,
@@ -6139,14 +6179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 203636,
-      "num": 402076,
-      "word": "无忧渡",
-      "onboard_time": 1745143703,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 203447,
       "num": 203447,
       "word": "苹果煮水的3种宝藏搭配",
@@ -6217,6 +6249,14 @@
       "onboard_time": 1745421203,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202809,
+      "num": 202809,
+      "word": "辅警被顶替升学当年招考档案全遗失",
+      "onboard_time": 1745491699,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 202726,
@@ -6617,6 +6657,14 @@
       "onboard_time": 1745414721,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196828,
+      "num": 343180,
+      "word": "神舟二十号发射圆满成功",
+      "onboard_time": 1745493082,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 196724,
@@ -7049,14 +7097,6 @@
       "onboard_time": 1745073925,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 190186,
-      "num": 190186,
-      "word": "杨坤说被观众记住模仿是件好事",
-      "onboard_time": 1745491040,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 190151,
@@ -7649,6 +7689,14 @@
       "onboard_time": 1745248823,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 179777,
+      "num": 179777,
+      "word": "神舟二十号航天员感觉良好",
+      "onboard_time": 1745493141,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 179348,
@@ -8563,6 +8611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164492,
+      "num": 164492,
+      "word": "无忧渡农夫与蛇性转版",
+      "onboard_time": 1745491641,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164481,
       "num": 239396,
       "word": "章昊有教资的含金量还在上升",
@@ -9459,14 +9515,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 152467,
-      "num": 152467,
-      "word": "杨坤 四川芬达",
-      "onboard_time": 1745490800,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 152230,
       "num": 152230,
       "word": "檀健次说如果有好故事会演短剧",
@@ -9673,6 +9721,14 @@
       "onboard_time": 1745483181,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 149231,
+      "num": 149231,
+      "word": "洪知秀卷毛",
+      "onboard_time": 1745493320,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 149173,
@@ -10715,6 +10771,14 @@
       "category": "网红,民生新闻"
     },
     {
+      "raw_hot": 134793,
+      "num": 190283,
+      "word": "湿气越吃越少9种食物",
+      "onboard_time": 1745490381,
+      "rank": 39,
+      "category": "健康医疗,民生新闻"
+    },
+    {
       "raw_hot": 134525,
       "num": 133914,
       "word": "假装韩国人用中文胡说八道",
@@ -11515,6 +11579,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 123343,
+      "num": 123343,
+      "word": "田协通报苏州马拉松方便门处理情况",
+      "onboard_time": 1745493320,
+      "rank": 48,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 123035,
       "num": 123035,
       "word": "女生晒手电照手图被提醒疑似血管瘤",
@@ -11593,6 +11665,14 @@
       "onboard_time": 1745195065,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121323,
+      "num": 314420,
+      "word": "巴基斯坦暂停与印度所有贸易",
+      "onboard_time": 1745492421,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 121183,
@@ -12009,14 +12089,6 @@
       "onboard_time": 1745162789,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 112331,
-      "num": 190283,
-      "word": "湿气越吃越少9种食物",
-      "onboard_time": 1745490381,
-      "rank": 39,
-      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 112016,
@@ -14451,6 +14523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 61794,
+      "num": 320202,
+      "word": "老师要求犯错学生当众道歉不该成被告",
+      "onboard_time": 1745492600,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61776,
       "num": 369425,
       "word": "马丽感谢李宇春唱新片主题曲",
@@ -15803,6 +15883,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 42426,
+      "num": 293949,
+      "word": "互联网公司取消大小周反映了什么现象",
+      "onboard_time": 1745492482,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 42421,
       "num": 152924,
       "word": "谷雨也是联合国中文日",
@@ -15833,6 +15921,14 @@
       "onboard_time": 1745420842,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41923,
+      "num": 163970,
+      "word": "周杰伦海蓝之谜新品活动",
+      "onboard_time": 1745493501,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 41739,
@@ -16219,6 +16315,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 36014,
+      "num": 149717,
+      "word": "盲盒卡牌赚了小学生100亿",
+      "onboard_time": 1745493620,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35954,
       "num": 466283,
       "word": "5000元网购翡翠镯货不对板只补50元",
@@ -16313,6 +16417,14 @@
       "onboard_time": 1745490082,
       "rank": 19,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 34629,
+      "num": 852230,
+      "word": "一图看中国航天未来20年",
+      "onboard_time": 1745489900,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34554,
@@ -16531,14 +16643,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 30208,
-      "num": 634798,
-      "word": "一图看中国航天未来20年",
-      "onboard_time": 1745489900,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 29884,
       "num": 183765,
       "word": "古时城市名称有多绝",
@@ -16641,6 +16745,14 @@
       "onboard_time": 1745340737,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28748,
+      "num": 223782,
+      "word": "印巴紧张局势升级",
+      "onboard_time": 1745492781,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 28592,

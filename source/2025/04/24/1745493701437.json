@@ -1,0 +1,410 @@
+{
+  "runTime": 1745493701437,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1211861,
+        "num": 1211861,
+        "word": "男子长期熬夜劝大家好好爱自己",
+        "onboard_time": 1745488820,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1038595,
+        "num": 1038595,
+        "word": "杨紫 华伦公主",
+        "onboard_time": 1745488700,
+        "rank": 1,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 34629,
+        "num": 852230,
+        "word": "一图看中国航天未来20年",
+        "onboard_time": 1745489900,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 792133,
+        "num": 792133,
+        "word": "花少7",
+        "onboard_time": 1745490440,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 555119,
+        "num": 555119,
+        "word": "80平房子被分为8间带厕所的出租屋",
+        "onboard_time": 1745488761,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 391811,
+        "num": 391811,
+        "word": "费列罗长蛆",
+        "onboard_time": 1745482941,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 578377,
+        "num": 384656,
+        "word": "丁真没有认真备戏惹怒曾志伟",
+        "onboard_time": 1745488881,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 367174,
+        "num": 367174,
+        "word": "广州暴雨",
+        "onboard_time": 1745488881,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 695049,
+        "num": 366115,
+        "word": "孙坚又被偷了",
+        "onboard_time": 1745488641,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196828,
+        "num": 343180,
+        "word": "神舟二十号发射圆满成功",
+        "onboard_time": 1745493082,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 329125,
+        "num": 329125,
+        "word": "神20发射圆满成功",
+        "onboard_time": 1745487861,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1231480,
+        "num": 326273,
+        "word": "男子炒股11年狂赚6000多万",
+        "onboard_time": 1745488761,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 817222,
+        "num": 321157,
+        "word": "关晓彤 鹿晗",
+        "onboard_time": 1745453661,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61794,
+        "num": 320202,
+        "word": "老师要求犯错学生当众道歉不该成被告",
+        "onboard_time": 1745492600,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121323,
+        "num": 314420,
+        "word": "巴基斯坦暂停与印度所有贸易",
+        "onboard_time": 1745492421,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 585692,
+        "num": 307750,
+        "word": "石凯订婚照",
+        "onboard_time": 1745468243,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 429714,
+        "num": 304006,
+        "word": "杨坤回应起诉四川芬达",
+        "onboard_time": 1745489959,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 564999,
+        "num": 302247,
+        "word": "刘强东取外卖遇卡餐一脸迷茫",
+        "onboard_time": 1745464822,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266454,
+        "num": 297341,
+        "word": "杨坤说被观众记住模仿是件好事",
+        "onboard_time": 1745491040,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42426,
+        "num": 293949,
+        "word": "互联网公司取消大小周反映了什么现象",
+        "onboard_time": 1745492482,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 489732,
+        "num": 286019,
+        "word": "卤鹅哥道歉",
+        "onboard_time": 1745484322,
+        "rank": 20,
+        "category": "网红,汽车"
+      },
+      {
+        "raw_hot": 440916,
+        "num": 281479,
+        "word": "我明明记得教师是个体面的职业",
+        "onboard_time": 1745492062,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 281245,
+        "num": 281245,
+        "word": "外交部否认中美就关税问题进行谈判",
+        "onboard_time": 1745483120,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 266393,
+        "num": 266393,
+        "word": "杨坤 四川芬达",
+        "onboard_time": 1745490800,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331421,
+        "num": 261686,
+        "word": "jiejie恋情",
+        "onboard_time": 1745479280,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 255954,
+        "num": 255954,
+        "word": "一波电视剧要来了",
+        "onboard_time": 1745473282,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231649,
+        "num": 231649,
+        "word": "无忧渡",
+        "onboard_time": 1745491341,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229187,
+        "num": 229187,
+        "word": "神20点火升空",
+        "onboard_time": 1745486720,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 225548,
+        "num": 225548,
+        "word": "邓超在家喊胡曼黎被孙俪骂",
+        "onboard_time": 1745476281,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28748,
+        "num": 223782,
+        "word": "印巴紧张局势升级",
+        "onboard_time": 1745492781,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 223430,
+        "num": 223430,
+        "word": "四川一遗址发现大量烧烤迹象",
+        "onboard_time": 1745492720,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202809,
+        "num": 202809,
+        "word": "辅警被顶替升学当年招考档案全遗失",
+        "onboard_time": 1745491699,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206947,
+        "num": 201075,
+        "word": "虞书欣短裙黑吊带",
+        "onboard_time": 1745488940,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190121,
+        "num": 190121,
+        "word": "让张小斐孙艺洲演夫妻的人是天才",
+        "onboard_time": 1745490202,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179777,
+        "num": 179777,
+        "word": "神舟二十号航天员感觉良好",
+        "onboard_time": 1745493141,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 173201,
+        "num": 173201,
+        "word": "江辰 为了预防我被扒黑料",
+        "onboard_time": 1745488641,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164492,
+        "num": 164492,
+        "word": "神二十发射直播",
+        "onboard_time": 1745478201,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 164492,
+        "num": 164492,
+        "word": "无忧渡农夫与蛇性转版",
+        "onboard_time": 1745491641,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41923,
+        "num": 163970,
+        "word": "周杰伦海蓝之谜新品活动",
+        "onboard_time": 1745493501,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163728,
+        "num": 163728,
+        "word": "权志龙新歌",
+        "onboard_time": 1745489541,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 153795,
+        "num": 153795,
+        "word": "赵露思金色深V短裙",
+        "onboard_time": 1745477060,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 153051,
+        "num": 153051,
+        "word": "孙俪杨紫林志玲同框",
+        "onboard_time": 1745490381,
+        "rank": 41,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 150894,
+        "num": 150894,
+        "word": "老鼠咬破燃气管道爆炸男子全身烧伤",
+        "onboard_time": 1745481561,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36014,
+        "num": 149717,
+        "word": "盲盒卡牌赚了小学生100亿",
+        "onboard_time": 1745493620,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149231,
+        "num": 149231,
+        "word": "洪知秀卷毛",
+        "onboard_time": 1745493320,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134793,
+        "num": 134793,
+        "word": "湿气越吃越少9种食物",
+        "onboard_time": 1745490381,
+        "rank": 45,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 129503,
+        "num": 129503,
+        "word": "电视剧制作等领域部分放开",
+        "onboard_time": 1745478260,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128452,
+        "num": 128452,
+        "word": "和府捞面被指同面不同价背刺打工人",
+        "onboard_time": 1745483001,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123343,
+        "num": 123343,
+        "word": "田协通报苏州马拉松方便门处理情况",
+        "onboard_time": 1745493320,
+        "rank": 48,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 117601,
+        "num": 117601,
+        "word": "中国航天员躺着上太空",
+        "onboard_time": 1745491100,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#打造新时代全天候中非命运共同体典范#"
+    }
+  }
+}

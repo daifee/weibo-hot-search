@@ -1,6 +1,6 @@
 {
   "startTime": 1745425908553,
-  "endTime": 1745491492868,
+  "endTime": 1745493701437,
   "band_list": [
     {
       "raw_hot": 2713875,
@@ -91,6 +91,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1211861,
+      "num": 1211861,
+      "word": "男子长期熬夜劝大家好好爱自己",
+      "onboard_time": 1745488820,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1197988,
       "num": 1197988,
       "word": "顾客买鱼要求不宰杀遭商贩扔秤砣",
@@ -145,6 +153,14 @@
       "onboard_time": 1745423962,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1038595,
+      "num": 1038595,
+      "word": "杨紫 华伦公主",
+      "onboard_time": 1745488700,
+      "rank": 6,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1027386,
@@ -227,20 +243,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 792133,
+      "num": 792133,
+      "word": "花少7",
+      "onboard_time": 1745490440,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 784283,
       "num": 237101,
       "word": "石凯与女友通话录音",
       "onboard_time": 1745424980,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 779581,
-      "num": 627171,
-      "word": "杨紫 华伦公主",
-      "onboard_time": 1745488700,
-      "rank": 6,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 765457,
@@ -387,6 +403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 578377,
+      "num": 384656,
+      "word": "丁真没有认真备戏惹怒曾志伟",
+      "onboard_time": 1745488881,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 556151,
       "num": 556151,
       "word": "中国人进家脱鞋习惯上太空了",
@@ -441,6 +465,22 @@
       "onboard_time": 1745424381,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 440916,
+      "num": 281479,
+      "word": "我明明记得教师是个体面的职业",
+      "onboard_time": 1745492062,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 429714,
+      "num": 344221,
+      "word": "杨坤回应起诉四川芬达",
+      "onboard_time": 1745489959,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 428217,
@@ -571,27 +611,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 335950,
-      "num": 361948,
-      "word": "丁真没有认真备戏惹怒曾志伟",
-      "onboard_time": 1745488881,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 335165,
       "num": 335165,
       "word": "和府捞面被指同面不同价背刺打工人",
       "onboard_time": 1745483001,
       "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 330577,
-      "num": 415339,
-      "word": "男子长期熬夜劝大家好好爱自己",
-      "onboard_time": 1745488820,
-      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -617,14 +641,6 @@
       "onboard_time": 1745452640,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 318944,
-      "num": 318944,
-      "word": "花少7",
-      "onboard_time": 1745490440,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 315448,
@@ -665,14 +681,6 @@
       "onboard_time": 1745462779,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 298801,
-      "num": 344221,
-      "word": "杨坤回应起诉四川芬达",
-      "onboard_time": 1745489959,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 296884,
@@ -769,6 +777,22 @@
       "onboard_time": 1745484141,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 266454,
+      "num": 297341,
+      "word": "杨坤说被观众记住模仿是件好事",
+      "onboard_time": 1745491040,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 266393,
+      "num": 266393,
+      "word": "杨坤 四川芬达",
+      "onboard_time": 1745490800,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 263848,
@@ -875,6 +899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231649,
+      "num": 231649,
+      "word": "无忧渡",
+      "onboard_time": 1745491341,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 231432,
       "num": 231432,
       "word": "一加发布会",
@@ -897,6 +929,14 @@
       "onboard_time": 1745478741,
       "rank": 44,
       "category": "数码"
+    },
+    {
+      "raw_hot": 223430,
+      "num": 223430,
+      "word": "四川一遗址发现大量烧烤迹象",
+      "onboard_time": 1745492720,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 223085,
@@ -1011,6 +1051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 202809,
+      "num": 202809,
+      "word": "辅警被顶替升学当年招考档案全遗失",
+      "onboard_time": 1745491699,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 201550,
       "num": 201550,
       "word": "中方回应特朗普称或将大幅降低对华关税",
@@ -1067,6 +1115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196828,
+      "num": 343180,
+      "word": "神舟二十号发射圆满成功",
+      "onboard_time": 1745493082,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 195767,
       "num": 195767,
       "word": "孙俪杨紫林志玲同框",
@@ -1113,14 +1169,6 @@
       "onboard_time": 1745465480,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 190186,
-      "num": 190186,
-      "word": "杨坤说被观众记住模仿是件好事",
-      "onboard_time": 1745491040,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 189865,
@@ -1243,6 +1291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179777,
+      "num": 179777,
+      "word": "神舟二十号航天员感觉良好",
+      "onboard_time": 1745493141,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 179080,
       "num": 179080,
       "word": "Uzi名人堂皮肤爆料",
@@ -1264,14 +1320,6 @@
       "word": "王鹤棣咸鱼飞升围读上班",
       "onboard_time": 1745471721,
       "rank": 36,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 172797,
-      "num": 172797,
-      "word": "无忧渡",
-      "onboard_time": 1745491341,
-      "rank": 32,
       "category": "剧集"
     },
     {
@@ -1337,6 +1385,14 @@
       "onboard_time": 1745464401,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 164492,
+      "num": 164492,
+      "word": "无忧渡农夫与蛇性转版",
+      "onboard_time": 1745491641,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 164289,
@@ -1467,14 +1523,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 152467,
-      "num": 152467,
-      "word": "杨坤 四川芬达",
-      "onboard_time": 1745490800,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 152181,
       "num": 152181,
       "word": "湖南卫视连发20条谭松韵",
@@ -1497,6 +1545,14 @@
       "onboard_time": 1745483181,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 149231,
+      "num": 149231,
+      "word": "洪知秀卷毛",
+      "onboard_time": 1745493320,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 149012,
@@ -1723,6 +1779,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 134793,
+      "num": 190283,
+      "word": "湿气越吃越少9种食物",
+      "onboard_time": 1745490381,
+      "rank": 39,
+      "category": "健康医疗,民生新闻"
+    },
+    {
       "raw_hot": 134508,
       "num": 134508,
       "word": "特朗普将设特朗普币大股东宴",
@@ -1803,6 +1867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123343,
+      "num": 123343,
+      "word": "田协通报苏州马拉松方便门处理情况",
+      "onboard_time": 1745493320,
+      "rank": 48,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 122817,
       "num": 122817,
       "word": "我承认我的确好色",
@@ -1817,6 +1889,14 @@
       "onboard_time": 1745456900,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121323,
+      "num": 314420,
+      "word": "巴基斯坦暂停与印度所有贸易",
+      "onboard_time": 1745492421,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 121183,
@@ -1913,14 +1993,6 @@
       "onboard_time": 1745462960,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 112331,
-      "num": 190283,
-      "word": "湿气越吃越少9种食物",
-      "onboard_time": 1745490381,
-      "rank": 39,
-      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 111914,
@@ -2443,6 +2515,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 61794,
+      "num": 320202,
+      "word": "老师要求犯错学生当众道歉不该成被告",
+      "onboard_time": 1745492600,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60210,
       "num": 194456,
       "word": "男子骑车撞站台身亡家属索赔40万",
@@ -2715,6 +2795,22 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 42426,
+      "num": 293949,
+      "word": "互联网公司取消大小周反映了什么现象",
+      "onboard_time": 1745492482,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 41923,
+      "num": 163970,
+      "word": "周杰伦海蓝之谜新品活动",
+      "onboard_time": 1745493501,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 41383,
       "num": 190598,
       "word": "李星云降臣对决拔里神玉",
@@ -2737,6 +2833,14 @@
       "onboard_time": 1745463020,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 36014,
+      "num": 149717,
+      "word": "盲盒卡牌赚了小学生100亿",
+      "onboard_time": 1745493620,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35722,
@@ -2779,6 +2883,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 34629,
+      "num": 852230,
+      "word": "一图看中国航天未来20年",
+      "onboard_time": 1745489900,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34534,
       "num": 34534,
       "word": "美国制造业回流了吗",
@@ -2795,20 +2907,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 30208,
-      "num": 634798,
-      "word": "一图看中国航天未来20年",
-      "onboard_time": 1745489900,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 29479,
       "num": 373351,
       "word": "无手女孩讲述发布换卫生巾视频心路",
       "onboard_time": 1745470642,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28748,
+      "num": 223782,
+      "word": "印巴紧张局势升级",
+      "onboard_time": 1745492781,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 28003,
