@@ -1,10 +1,10 @@
 {
   "startTime": 1745425908553,
-  "endTime": 1745477335290,
+  "endTime": 1745479515854,
   "band_list": [
     {
       "raw_hot": 2713875,
-      "num": 390205,
+      "num": 500465,
       "word": "石凯订婚照",
       "onboard_time": 1745468243,
       "rank": 10,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2381711,
-      "num": 381543,
+      "num": 501342,
       "word": "刘强东取外卖遇卡餐一脸迷茫",
       "onboard_time": 1745464822,
       "rank": 44,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2222704,
-      "num": 386203,
+      "num": 426879,
       "word": "关晓彤 鹿晗",
       "onboard_time": 1745453661,
       "rank": 10,
@@ -36,11 +36,19 @@
     },
     {
       "raw_hot": 1844906,
-      "num": 363402,
+      "num": 426754,
       "word": "石凯 订过婚",
       "onboard_time": 1745402903,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1589817,
+      "num": 1589817,
+      "word": "女子取货时被男同事故意关冷库",
+      "onboard_time": 1745473161,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1419291,
@@ -57,14 +65,6 @@
       "onboard_time": 1745423781,
       "rank": 0,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 1265206,
-      "num": 1265206,
-      "word": "女子取货时被男同事故意关冷库",
-      "onboard_time": 1745473161,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1197988,
@@ -89,6 +89,14 @@
       "onboard_time": 1745468003,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1060735,
+      "num": 1060735,
+      "word": "孙坚公布被盗监控",
+      "onboard_time": 1745474781,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1059200,
@@ -152,14 +160,6 @@
       "word": "石凯与女友通话录音",
       "onboard_time": 1745424980,
       "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 780625,
-      "num": 780625,
-      "word": "孙坚公布被盗监控",
-      "onboard_time": 1745474781,
-      "rank": 12,
       "category": "艺人"
     },
     {
@@ -259,12 +259,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 556151,
+      "num": 556151,
+      "word": "中国人进家脱鞋习惯上太空了",
+      "onboard_time": 1745475261,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 556050,
       "num": 320778,
       "word": "韩国检方起诉前总统文在寅",
       "onboard_time": 1745456422,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 521276,
+      "num": 521276,
+      "word": "赵露思金色深V短裙",
+      "onboard_time": 1745477060,
+      "rank": 43,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 501610,
@@ -283,12 +299,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 428217,
+      "num": 428217,
+      "word": "金靖镜头里的迪丽热巴",
+      "onboard_time": 1745475921,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 426653,
+      "num": 426653,
+      "word": "神二十发射直播",
+      "onboard_time": 1745478201,
+      "rank": 22,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 422222,
       "num": 422222,
       "word": "美国一饼干公司快没包装用了",
       "onboard_time": 1745467100,
       "rank": 6,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 420667,
+      "num": 428001,
+      "word": "邓超在家喊胡曼黎被孙俪骂",
+      "onboard_time": 1745476281,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 415765,
@@ -427,6 +467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 288509,
+      "num": 288509,
+      "word": "咸鱼飞升",
+      "onboard_time": 1745473461,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 286082,
       "num": 376190,
       "word": "刘亦菲跳舞十年前vs十年后",
@@ -483,28 +531,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 262431,
-      "num": 262431,
-      "word": "金靖镜头里的迪丽热巴",
-      "onboard_time": 1745475921,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 258472,
       "num": 258472,
       "word": "美国又有11州起诉特朗普政府",
       "onboard_time": 1745450058,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 257898,
-      "num": 257898,
-      "word": "中国人进家脱鞋习惯上太空了",
-      "onboard_time": 1745475261,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 257476,
@@ -521,6 +553,14 @@
       "onboard_time": 1745467283,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 254842,
+      "num": 428166,
+      "word": "985硕士求职大厂被拒只因本科双非学历",
+      "onboard_time": 1745475921,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 253860,
@@ -540,7 +580,7 @@
     },
     {
       "raw_hot": 253325,
-      "num": 237109,
+      "num": 244520,
       "word": "金靖用脚拍的照片都是神图",
       "onboard_time": 1745473580,
       "rank": 32,
@@ -569,14 +609,6 @@
       "onboard_time": 1745457922,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 230351,
-      "num": 230351,
-      "word": "咸鱼飞升",
-      "onboard_time": 1745473461,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 223085,
@@ -643,14 +675,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 208567,
-      "num": 208567,
-      "word": "985硕士求职大厂被拒只因本科双非学历",
-      "onboard_time": 1745475921,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 207854,
       "num": 228432,
       "word": "赵丽颖配音幽灵公主",
@@ -667,6 +691,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 204161,
+      "num": 314427,
+      "word": "1年级女童走神被老师揪耳朵撕裂2cm",
+      "onboard_time": 1745474901,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 201550,
       "num": 201550,
       "word": "中方回应特朗普称或将大幅降低对华关税",
@@ -681,14 +713,6 @@
       "onboard_time": 1745468542,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 199078,
-      "num": 155696,
-      "word": "邓超在家喊胡曼黎被孙俪骂",
-      "onboard_time": 1745476281,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 198949,
@@ -713,6 +737,14 @@
       "onboard_time": 1745471422,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192932,
+      "num": 501649,
+      "word": "118秒打卡中国载人航天",
+      "onboard_time": 1745478320,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 191234,
@@ -745,6 +777,22 @@
       "onboard_time": 1745456001,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 189638,
+      "num": 189638,
+      "word": "神20航天员领命出征",
+      "onboard_time": 1745479221,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 189195,
+      "num": 189195,
+      "word": "一加发布会",
+      "onboard_time": 1745479400,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 188632,
@@ -809,14 +857,6 @@
       "onboard_time": 1745468844,
       "rank": 48,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 181340,
-      "num": 314427,
-      "word": "1年级女童走神被老师揪耳朵撕裂2cm",
-      "onboard_time": 1745474901,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 180971,
@@ -971,6 +1011,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 155609,
+      "num": 155609,
+      "word": "jiejie恋情",
+      "onboard_time": 1745479280,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 154268,
       "num": 154268,
       "word": "景区回应李现人生照片打卡处被封",
@@ -985,6 +1033,14 @@
       "onboard_time": 1745469322,
       "rank": 45,
       "category": "旅游,民生新闻"
+    },
+    {
+      "raw_hot": 153140,
+      "num": 153140,
+      "word": "航天员在歌唱祖国旋律中出征",
+      "onboard_time": 1745478680,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 153076,
@@ -1052,11 +1108,19 @@
     },
     {
       "raw_hot": 147313,
-      "num": 315847,
+      "num": 427546,
       "word": "轮到西方人向中国汽车取经了",
       "onboard_time": 1745475681,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145234,
+      "num": 145234,
+      "word": "学霸型白月光",
+      "onboard_time": 1745479041,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 144511,
@@ -1235,20 +1299,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 123753,
+      "num": 123753,
+      "word": "电视剧制作等领域部分放开",
+      "onboard_time": 1745478260,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122778,
       "num": 238853,
       "word": "IU 百想",
       "onboard_time": 1745456900,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 121846,
-      "num": 121846,
-      "word": "赵露思金色深V短裙",
-      "onboard_time": 1745477060,
-      "rank": 43,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 121183,
@@ -1291,6 +1355,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 114396,
+      "num": 114396,
+      "word": "安卓朋友圈可发实况照片了",
+      "onboard_time": 1745478741,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
       "raw_hot": 113934,
       "num": 204177,
       "word": "杰伦格林起飞",
@@ -1307,8 +1379,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112896,
+      "num": 112896,
+      "word": "下次不许带情绪来上班了",
+      "onboard_time": 1745477840,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 112849,
-      "num": 112849,
+      "num": 248990,
       "word": "火箭时隔1692天再次在季后赛赢球",
       "onboard_time": 1745474841,
       "rank": 45,
@@ -1667,6 +1747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 67323,
+      "num": 427408,
+      "word": "郑钦文同款新车首发",
+      "onboard_time": 1745478320,
+      "rank": 18,
+      "category": "体育,汽车"
+    },
+    {
       "raw_hot": 66026,
       "num": 66026,
       "word": "侯明昊一次解锁了6套逍遥造型",
@@ -1737,6 +1825,14 @@
       "onboard_time": 1745422342,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 58352,
+      "num": 130946,
+      "word": "运动顺序影响健身效果",
+      "onboard_time": 1745479221,
+      "rank": 39,
+      "category": "运动健身,民生新闻"
     },
     {
       "raw_hot": 57058,
@@ -1875,11 +1971,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 48804,
+      "num": 129813,
+      "word": "勇士火箭一场比赛几次冲突",
+      "onboard_time": 1745475440,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 48129,
       "num": 191123,
       "word": "10人团伙盗取雅思试题狂赚千万",
       "onboard_time": 1745474961,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47429,
+      "num": 427690,
+      "word": "五一怎么休更爽",
+      "onboard_time": 1745478260,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -1971,6 +2083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35182,
+      "num": 219512,
+      "word": "理想智驾升级了那些黑科技",
+      "onboard_time": 1745479280,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 34534,
       "num": 34534,
       "word": "美国制造业回流了吗",
@@ -1985,6 +2105,14 @@
       "onboard_time": 1745428937,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 31969,
+      "num": 427202,
+      "word": "卤味三巨头一年关店数千家",
+      "onboard_time": 1745478861,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29479,
@@ -2185,6 +2313,14 @@
       "onboard_time": 1745430256,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 13108,
+      "num": 110237,
+      "word": "松山健一不可替代的L",
+      "onboard_time": 1745478619,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 12871,
