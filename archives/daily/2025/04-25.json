@@ -1,6 +1,6 @@
 {
   "startTime": 1745512289618,
-  "endTime": 1745530728105,
+  "endTime": 1745533508012,
   "band_list": [
     {
       "raw_hot": 957557,
@@ -41,6 +41,14 @@
       "onboard_time": 1745506522,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 404138,
+      "num": 424662,
+      "word": "特朗普宣布关税后支持率骤降",
+      "onboard_time": 1745513597,
+      "rank": 16,
+      "category": "国际时政"
     },
     {
       "raw_hot": 375392,
@@ -131,20 +139,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 232155,
-      "num": 232155,
-      "word": "特朗普宣布关税后支持率骤降",
-      "onboard_time": 1745513597,
-      "rank": 16,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 225217,
       "num": 225217,
       "word": "男子炒股11年狂赚6000多万",
       "onboard_time": 1745488761,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 198537,
+      "num": 198537,
+      "word": "邓超发布一段录音对话",
+      "onboard_time": 1745516235,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 170115,
@@ -171,6 +179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137404,
+      "num": 77265,
+      "word": "刘强东老家宿迁京东外卖遍地开花",
+      "onboard_time": 1745497881,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 133244,
       "num": 133244,
       "word": "无忧渡",
@@ -195,14 +211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 122284,
-      "num": 88602,
-      "word": "邓超发布一段录音对话",
-      "onboard_time": 1745516235,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 114675,
       "num": 114675,
       "word": "花少7",
@@ -217,6 +225,14 @@
       "onboard_time": 1745506162,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 110569,
+      "num": 75656,
+      "word": "任达华女儿在名校跳级上课",
+      "onboard_time": 1745524574,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 104495,
@@ -323,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80225,
+      "num": 80225,
+      "word": "大熊猫半夜不睡觉排排坐吃夜宵",
+      "onboard_time": 1745519294,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75068,
       "num": 75068,
       "word": "谢霆锋香港演唱会",
@@ -337,6 +361,14 @@
       "onboard_time": 1745499142,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 72477,
+      "num": 72477,
+      "word": "留几手 不恋爱",
+      "onboard_time": 1745520016,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 71697,
@@ -419,35 +451,11 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 49500,
-      "num": 49500,
-      "word": "留几手 不恋爱",
-      "onboard_time": 1745520016,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 47894,
-      "num": 47894,
-      "word": "刘强东老家宿迁京东外卖遍地开花",
-      "onboard_time": 1745497881,
-      "rank": 38,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 43244,
       "num": 131072,
       "word": "董力阿诺带娃出游",
       "onboard_time": 1745507543,
       "rank": 20,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 43090,
-      "num": 19934,
-      "word": "任达华女儿在名校跳级上课",
-      "onboard_time": 1745524574,
-      "rank": 30,
       "category": "艺人"
     },
     {
@@ -467,14 +475,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 35009,
-      "num": 35009,
-      "word": "大熊猫半夜不睡觉排排坐吃夜宵",
-      "onboard_time": 1745519294,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 26456,
       "num": 37258,
       "word": "脑干出血有哪些典型症状值得警惕",
@@ -491,20 +491,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 24688,
+      "num": 26186,
+      "word": "同一天同一地点跨越55年",
+      "onboard_time": 1745516056,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 24633,
+      "num": 26185,
+      "word": "刷手机第一次觉得腿软",
+      "onboard_time": 1745505681,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23443,
       "num": 23443,
       "word": "何江道歉",
       "onboard_time": 1745510060,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 21788,
-      "num": 22900,
-      "word": "刷手机第一次觉得腿软",
-      "onboard_time": 1745505681,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 21210,
@@ -515,20 +523,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 21095,
+      "num": 26169,
+      "word": "何雁诗3岁患病儿子上特殊学校",
+      "onboard_time": 1745532135,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 20782,
-      "num": 24004,
+      "num": 26159,
       "word": "中国外贸朋友圈不断扩大",
       "onboard_time": 1745519654,
       "rank": 30,
       "category": "国内时政"
     },
     {
-      "raw_hot": 20105,
-      "num": 22897,
-      "word": "同一天同一地点跨越55年",
-      "onboard_time": 1745516056,
-      "rank": 47,
+      "raw_hot": 20377,
+      "num": 41793,
+      "word": "一工厂不出口美国效益反而提升5%",
+      "onboard_time": 1745521335,
+      "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 17736,
+      "num": 26154,
+      "word": "福宝为何会反复经历假孕状态",
+      "onboard_time": 1745532915,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17266,
@@ -539,12 +563,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 15436,
-      "num": 41793,
-      "word": "一工厂不出口美国效益反而提升5%",
-      "onboard_time": 1745521335,
-      "rank": 9,
-      "category": "国内时政"
+      "raw_hot": 15216,
+      "num": 26152,
+      "word": "遇见艺术",
+      "onboard_time": 1745532195,
+      "rank": 49,
+      "category": "时尚"
     },
     {
       "raw_hot": 15143,
