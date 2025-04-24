@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745480346983,
+  "endTime": 1745483591409,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1027,6 +1027,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 958899,
+      "num": 1153423,
+      "word": "一加 程潇",
+      "onboard_time": 1745480118,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 950734,
       "num": 467135,
       "word": "永野芽郁 田中圭",
@@ -1089,6 +1097,14 @@
       "onboard_time": 1745161110,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 906281,
+      "num": 906281,
+      "word": "jiejie恋情",
+      "onboard_time": 1745479280,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 903192,
@@ -1177,6 +1193,14 @@
       "onboard_time": 1745251401,
       "rank": 32,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 858220,
+      "num": 858220,
+      "word": "邓超在家喊胡曼黎被孙俪骂",
+      "onboard_time": 1745476281,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 858197,
@@ -1289,14 +1313,6 @@
       "onboard_time": 1745248584,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 809457,
-      "num": 809457,
-      "word": "一加 程潇",
-      "onboard_time": 1745480118,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 807532,
@@ -2107,14 +2123,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 553651,
-      "num": 501035,
-      "word": "邓超在家喊胡曼黎被孙俪骂",
-      "onboard_time": 1745476281,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 553486,
       "num": 530342,
       "word": "收到差评最多的外卖员",
@@ -2771,6 +2779,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 419448,
+      "num": 492180,
+      "word": "985硕士求职大厂被拒只因本科双非学历",
+      "onboard_time": 1745475921,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 416684,
       "num": 469662,
       "word": "两国总统同晚抵达北京",
@@ -2827,6 +2843,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 407655,
+      "num": 407655,
+      "word": "外交部否认中美就关税问题进行谈判",
+      "onboard_time": 1745483120,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 407280,
       "num": 407280,
       "word": "语聊房竟成色情服务叫卖场所",
@@ -2857,14 +2881,6 @@
       "onboard_time": 1745222781,
       "rank": 35,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 402473,
-      "num": 402473,
-      "word": "jiejie恋情",
-      "onboard_time": 1745479280,
-      "rank": 33,
-      "category": "电竞"
     },
     {
       "raw_hot": 401585,
@@ -2945,14 +2961,6 @@
       "onboard_time": 1745113944,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 390611,
-      "num": 492180,
-      "word": "985硕士求职大厂被拒只因本科双非学历",
-      "onboard_time": 1745475921,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 389588,
@@ -3755,6 +3763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 308142,
+      "num": 308142,
+      "word": "中国已停止接收波音飞机",
+      "onboard_time": 1745481140,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 308076,
       "num": 308076,
       "word": "网红小慧君造谣老板性骚扰事件进展",
@@ -4113,6 +4129,14 @@
       "onboard_time": 1745078731,
       "rank": 14,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 285366,
+      "num": 343587,
+      "word": "老鼠咬破燃气管道爆炸男子全身烧伤",
+      "onboard_time": 1745481561,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 284984,
@@ -6075,6 +6099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200467,
+      "num": 339479,
+      "word": "韩外交官谈韩国人为什么喜欢张家界",
+      "onboard_time": 1745481861,
+      "rank": 17,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 200371,
       "num": 200371,
       "word": "高能量大学生的一天能有多夸张",
@@ -6147,6 +6179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199121,
+      "num": 199121,
+      "word": "北大屠夫评价大学生脱不下长衫",
+      "onboard_time": 1745479521,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 198960,
       "num": 165456,
       "word": "孙颖莎的含金量还在上升",
@@ -6177,6 +6217,14 @@
       "onboard_time": 1745140462,
       "rank": 18,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 198661,
+      "num": 198661,
+      "word": "周杰伦480柱子票消费者有权主张无效",
+      "onboard_time": 1745482700,
+      "rank": 25,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 198653,
@@ -6955,6 +7003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187045,
+      "num": 187045,
+      "word": "安卓朋友圈可发实况照片了",
+      "onboard_time": 1745478741,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
       "raw_hot": 187024,
       "num": 187024,
       "word": "巴西人成了乒乓球世界冠军",
@@ -6977,14 +7033,6 @@
       "onboard_time": 1745239823,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 186479,
-      "num": 186479,
-      "word": "北大屠夫评价大学生脱不下长衫",
-      "onboard_time": 1745479521,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 186222,
@@ -7177,6 +7225,14 @@
       "onboard_time": 1745147542,
       "rank": 28,
       "category": "电影,时尚"
+    },
+    {
+      "raw_hot": 182165,
+      "num": 327837,
+      "word": "张杰鸟巢音响有什么不同",
+      "onboard_time": 1745482881,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 182108,
@@ -8563,6 +8619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159139,
+      "num": 159139,
+      "word": "王一博是什么级别的赛车手",
+      "onboard_time": 1745480361,
+      "rank": 28,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 159085,
       "num": 369738,
       "word": "牛津大学一学院用人头骨当餐具",
@@ -8801,6 +8865,14 @@
       "onboard_time": 1745224283,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 156115,
+      "num": 156115,
+      "word": "迪丽热巴被白宇金靖笑到掉凳",
+      "onboard_time": 1745482101,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 155990,
@@ -9483,6 +9555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 146219,
+      "num": 146219,
+      "word": "解放军回应美导弹驱逐舰过航台湾海峡",
+      "onboard_time": 1745483181,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 145975,
       "num": 228820,
       "word": "真正能让气血恢复的方式",
@@ -9537,14 +9617,6 @@
       "onboard_time": 1745329162,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 144615,
-      "num": 144615,
-      "word": "安卓朋友圈可发实况照片了",
-      "onboard_time": 1745478741,
-      "rank": 44,
-      "category": "数码"
     },
     {
       "raw_hot": 144601,
@@ -9721,6 +9793,14 @@
       "onboard_time": 1745471482,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 142427,
+      "num": 142427,
+      "word": "鱼 自己生的吃着才放心",
+      "onboard_time": 1745480599,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 142035,
@@ -10097,6 +10177,14 @@
       "onboard_time": 1745077103,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136843,
+      "num": 156834,
+      "word": "东部战区正告美方停止歪曲炒作",
+      "onboard_time": 1745483181,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 136736,
@@ -10691,6 +10779,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 129307,
+      "num": 129307,
+      "word": "建议ppt改名叫jjt",
+      "onboard_time": 1745481321,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 129289,
       "num": 349528,
       "word": "神印斗罗共用一个大佬",
@@ -10899,6 +10995,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 125804,
+      "num": 125804,
+      "word": "商务部回应中美关税降温说法",
+      "onboard_time": 1745483120,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 125789,
       "num": 373460,
       "word": "太原一写字楼玻璃掉落砸中楼下多车",
@@ -11003,6 +11107,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 124120,
+      "num": 124120,
+      "word": "美国关税问题解铃还需系铃人",
+      "onboard_time": 1745483181,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 124038,
       "num": 159940,
       "word": "网逃人员带70余万现金隐居山洞",
@@ -11057,6 +11169,14 @@
       "onboard_time": 1745235262,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122817,
+      "num": 122817,
+      "word": "我承认我的确好色",
+      "onboard_time": 1745483301,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 122815,
@@ -11659,6 +11779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108920,
+      "num": 125873,
+      "word": "费列罗长蛆",
+      "onboard_time": 1745482941,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108849,
       "num": 108849,
       "word": "今日港股休市",
@@ -12051,6 +12179,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 101328,
+      "num": 343785,
+      "word": "山西被虐致死男童生母继父均为主犯",
+      "onboard_time": 1745482282,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101321,
       "num": 213926,
       "word": "马拉松赛道的健康密码",
@@ -12353,6 +12489,14 @@
       "onboard_time": 1745459540,
       "rank": 45,
       "category": "美食"
+    },
+    {
+      "raw_hot": 95214,
+      "num": 95214,
+      "word": "无期迷途更新",
+      "onboard_time": 1745482042,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 95060,
@@ -12721,6 +12865,14 @@
       "onboard_time": 1745136682,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 84202,
+      "num": 93719,
+      "word": "一加13T",
+      "onboard_time": 1745480901,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 83798,
@@ -13657,6 +13809,14 @@
       "onboard_time": 1745246243,
       "rank": 28,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 65636,
+      "num": 865399,
+      "word": "神二十乘组今日出征",
+      "onboard_time": 1745465841,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 65200,
@@ -16123,14 +16283,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 26799,
-      "num": 856557,
-      "word": "神二十乘组今日出征",
-      "onboard_time": 1745465841,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 26794,
       "num": 347336,
       "word": "重金属污染有多严重",
@@ -16281,6 +16433,14 @@
       "onboard_time": 1745239283,
       "rank": 18,
       "category": "数码"
+    },
+    {
+      "raw_hot": 25047,
+      "num": 129403,
+      "word": "多部教皇题材电影播放量飙升",
+      "onboard_time": 1745481741,
+      "rank": 35,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 24839,
@@ -16881,6 +17041,14 @@
       "onboard_time": 1745404102,
       "rank": 39,
       "category": "情感,民生新闻"
+    },
+    {
+      "raw_hot": 17623,
+      "num": 317965,
+      "word": "在前程无忧51JOB求职遭垫付陷阱",
+      "onboard_time": 1745482881,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 17562,
