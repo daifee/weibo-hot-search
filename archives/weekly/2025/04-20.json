@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745451485020,
+  "endTime": 1745459670462,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -489,6 +489,14 @@
       "onboard_time": 1745069543,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1419291,
+      "num": 1419291,
+      "word": "小红书将取消大小周",
+      "onboard_time": 1745455402,
+      "rank": 0,
+      "category": "互联网"
     },
     {
       "raw_hot": 1410358,
@@ -1147,6 +1155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 832250,
+      "num": 832250,
+      "word": "美国对华关税或降至50%至65%",
+      "onboard_time": 1745453062,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 826684,
       "num": 826684,
       "word": "男子被女友逼写百万借条未还被起诉",
@@ -1201,6 +1217,14 @@
       "onboard_time": 1745220441,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 794731,
+      "num": 277013,
+      "word": "石凯 文韬",
+      "onboard_time": 1745453121,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 791432,
@@ -1308,7 +1332,7 @@
     },
     {
       "raw_hot": 733643,
-      "num": 173636,
+      "num": 229984,
       "word": "金价猛烈跳水",
       "onboard_time": 1745421263,
       "rank": 30,
@@ -1707,6 +1731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 602029,
+      "num": 602029,
+      "word": "男子攒钱10年买法拉利提车1小时后自燃",
+      "onboard_time": 1745453420,
+      "rank": 3,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 601824,
       "num": 601824,
       "word": "CIA报告称外星人石化苏联士兵",
@@ -1889,6 +1921,14 @@
       "onboard_time": 1745166505,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 556050,
+      "num": 320778,
+      "word": "韩国检方起诉前总统文在寅",
+      "onboard_time": 1745456422,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 554974,
@@ -2739,6 +2779,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 378251,
+      "num": 265589,
+      "word": "六万cp分手",
+      "onboard_time": 1745452519,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 378216,
       "num": 383146,
       "word": "曝折腰没拿到签字",
@@ -3267,6 +3315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 322633,
+      "num": 259180,
+      "word": "营养专家称冉莹颖儿子靶身高172cm",
+      "onboard_time": 1745456602,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 322563,
       "num": 322563,
       "word": "seventeen五辑",
@@ -3281,6 +3337,14 @@
       "onboard_time": 1745425100,
       "rank": 25,
       "category": "网红"
+    },
+    {
+      "raw_hot": 321568,
+      "num": 321568,
+      "word": "某国公司故意向间谍提供手机后门",
+      "onboard_time": 1745452640,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 321198,
@@ -3337,6 +3401,14 @@
       "onboard_time": 1745380102,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 315448,
+      "num": 315448,
+      "word": "不知不觉都神二十了",
+      "onboard_time": 1745457682,
+      "rank": 6,
+      "category": "国内时政"
     },
     {
       "raw_hot": 314235,
@@ -3400,6 +3472,14 @@
       "word": "邱贻可发博感谢刘国梁",
       "onboard_time": 1745411541,
       "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 309302,
+      "num": 309302,
+      "word": "张继科说王励勤训练从不迟到",
+      "onboard_time": 1745453542,
+      "rank": 7,
       "category": "体育"
     },
     {
@@ -3777,6 +3857,14 @@
       "onboard_time": 1745141542,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 279669,
+      "num": 228111,
+      "word": "一天不洗的头发上有什么",
+      "onboard_time": 1745453420,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 279621,
@@ -4259,6 +4347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 248546,
+      "num": 248546,
+      "word": "2024年十大考古新发现",
+      "onboard_time": 1745458341,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 248293,
       "num": 412544,
       "word": "张萌说李昀锐值得被喜欢",
@@ -4323,6 +4419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 245427,
+      "num": 245427,
+      "word": "中国航天日神十九乘组太空送祝福",
+      "onboard_time": 1745457922,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 245044,
       "num": 356796,
       "word": "美团再回应二选一传言",
@@ -4337,6 +4441,14 @@
       "onboard_time": 1745404044,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 244743,
+      "num": 244743,
+      "word": "顾客买鱼要求不宰杀遭商贩扔秤砣",
+      "onboard_time": 1745455402,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 243874,
@@ -7579,6 +7691,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 163018,
+      "num": 163018,
+      "word": "神二十今日出征",
+      "onboard_time": 1745458400,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 162869,
       "num": 174795,
       "word": "胡杏儿绿茶气质拿捏到位了",
@@ -7593,6 +7713,14 @@
       "onboard_time": 1745307681,
       "rank": 38,
       "category": "网红"
+    },
+    {
+      "raw_hot": 162780,
+      "num": 162780,
+      "word": "东风航天城小学生齐唱达拉崩吧",
+      "onboard_time": 1745457741,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 162705,
@@ -8227,6 +8355,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153091,
+      "num": 153091,
+      "word": "女子抓隐翅虫没洗手摸眼睛致红肿",
+      "onboard_time": 1745433616,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153076,
+      "num": 153076,
+      "word": "抖音崩了",
+      "onboard_time": 1745452098,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 152930,
       "num": 155043,
       "word": "辛云来剧抛脸",
@@ -8345,6 +8489,14 @@
       "onboard_time": 1745239583,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 151104,
+      "num": 151104,
+      "word": "南北cp",
+      "onboard_time": 1745453482,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 150934,
@@ -8793,6 +8945,14 @@
       "onboard_time": 1745208263,
       "rank": 26,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 143219,
+      "num": 143219,
+      "word": "第五人格",
+      "onboard_time": 1745457682,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 142940,
@@ -9819,6 +9979,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 127269,
+      "num": 127269,
+      "word": "摩根大通称国际金价或突破4000美元",
+      "onboard_time": 1745457922,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 127159,
       "num": 254619,
       "word": "影之刃零制作人亮相腾讯发布会",
@@ -10323,6 +10491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115596,
+      "num": 212852,
+      "word": "金饰价格跌到1031元",
+      "onboard_time": 1745458821,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 115322,
       "num": 115322,
       "word": "孙千大生意人骑马剧照",
@@ -10363,14 +10539,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 115029,
-      "num": 115029,
-      "word": "女子抓隐翅虫没洗手摸眼睛致红肿",
-      "onboard_time": 1745433616,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 114999,
       "num": 114999,
       "word": "小婉说这句话时心里一定在想管乐",
@@ -10387,6 +10555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114910,
+      "num": 299995,
+      "word": "INTO1成团出道四周年",
+      "onboard_time": 1745457922,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 114774,
       "num": 114774,
       "word": "封神2出品公司发布声明",
@@ -10395,12 +10571,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 114471,
+      "num": 114471,
+      "word": "奥美迦奥特曼",
+      "onboard_time": 1745456482,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 114021,
       "num": 120620,
       "word": "搜狐视频播主大会",
       "onboard_time": 1745139682,
       "rank": 39,
       "category": "综艺,互联网"
+    },
+    {
+      "raw_hot": 113644,
+      "num": 113644,
+      "word": "今天再听一遍东方红",
+      "onboard_time": 1745455341,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113429,
@@ -10441,6 +10633,14 @@
       "onboard_time": 1745217982,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112523,
+      "num": 238853,
+      "word": "IU 百想",
+      "onboard_time": 1745456900,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 112348,
@@ -10811,6 +11011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 104512,
+      "num": 104512,
+      "word": "单手养活四口之家的骑手发声",
+      "onboard_time": 1745458281,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104473,
       "num": 429670,
       "word": "马自达EZ60全球首发",
@@ -11011,6 +11219,14 @@
       "category": "国际时政,民生新闻"
     },
     {
+      "raw_hot": 100363,
+      "num": 100363,
+      "word": "中国在联合国发出反对霸凌声音",
+      "onboard_time": 1745455402,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 99883,
       "num": 419166,
       "word": "被前男友泼汽油烧残女孩再回应质疑",
@@ -11209,6 +11425,22 @@
       "onboard_time": 1745278099,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 95285,
+      "num": 95285,
+      "word": "韩国菜场阿嫲煮的泡面",
+      "onboard_time": 1745459540,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 95060,
+      "num": 95060,
+      "word": "新版市场准入负面清单发布",
+      "onboard_time": 1745459121,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95005,
@@ -12001,6 +12233,14 @@
       "onboard_time": 1745380344,
       "rank": 17,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 72668,
+      "num": 92654,
+      "word": "业内称易烊千玺值得影帝奖项",
+      "onboard_time": 1745451560,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 72446,
@@ -14179,6 +14419,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 35460,
+      "num": 705142,
+      "word": "公安部网安局提醒防范职业窃密",
+      "onboard_time": 1745456782,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35102,
       "num": 42079,
       "word": "堪称神来之笔的名著开头结尾",
@@ -14776,6 +15024,14 @@
       "word": "叛逆女儿和固执父亲的漫长和解",
       "onboard_time": 1745222842,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25152,
+      "num": 236280,
+      "word": "山东2米高番茄树有可能推广种植吗",
+      "onboard_time": 1745458881,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
