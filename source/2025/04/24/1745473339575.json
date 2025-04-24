@@ -1,0 +1,410 @@
+{
+  "runTime": 1745473339575,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2702617,
+        "num": 2702617,
+        "word": "猿辅导员工猝死在公司",
+        "onboard_time": 1745469742,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 709631,
+        "num": 709631,
+        "word": "父亲病危儿子请假照顾被开除",
+        "onboard_time": 1745463140,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93873,
+        "num": 698499,
+        "word": "中方在联合国会议发出3问",
+        "onboard_time": 1745466021,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1142478,
+        "num": 693775,
+        "word": "妻子开车躲家暴致丈夫身亡被判11年",
+        "onboard_time": 1745468003,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 688778,
+        "num": 688778,
+        "word": "35岁脑干出血程序员发声",
+        "onboard_time": 1745470042,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 561670,
+        "num": 561670,
+        "word": "冉莹颖儿子打生长激素又长1.7厘米",
+        "onboard_time": 1745468844,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 443933,
+        "num": 443933,
+        "word": "这居然是向佐",
+        "onboard_time": 1745465961,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 409662,
+        "num": 409662,
+        "word": "陈德容 我不会演孩子的妈",
+        "onboard_time": 1745464521,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 394489,
+        "num": 394489,
+        "word": "被苍兰诀2疯感狠狠烧到了",
+        "onboard_time": 1745472561,
+        "rank": 8,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 120447,
+        "num": 391624,
+        "word": "狗狗拍电影死亡戏用机械替身",
+        "onboard_time": 1745471482,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1705866,
+        "num": 390205,
+        "word": "石凯订婚照",
+        "onboard_time": 1745468243,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1361281,
+        "num": 386203,
+        "word": "关晓彤 鹿晗",
+        "onboard_time": 1745453661,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1235177,
+        "num": 381543,
+        "word": "刘强东取外卖遇卡餐一脸迷茫",
+        "onboard_time": 1745464822,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 380181,
+        "num": 380181,
+        "word": "关税让美国一小企业仅剩5人",
+        "onboard_time": 1745467582,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 233073,
+        "num": 316645,
+        "word": "刘亦菲跳舞十年前vs十年后",
+        "onboard_time": 1745470884,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315267,
+        "num": 315267,
+        "word": "小红书将取消大小周",
+        "onboard_time": 1745455402,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 67396,
+        "num": 312245,
+        "word": "AUDI量产概念车",
+        "onboard_time": 1745471061,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 217599,
+        "num": 295864,
+        "word": "马丽说惠英红是她的太阳",
+        "onboard_time": 1745472801,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 64955,
+        "num": 292586,
+        "word": "一见钟情看脸日久钟情看脑",
+        "onboard_time": 1745471001,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 43249,
+        "num": 280016,
+        "word": "仅退款是什么意思",
+        "onboard_time": 1745472140,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 846483,
+        "num": 269569,
+        "word": "石凯 订过婚",
+        "onboard_time": 1745402903,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265467,
+        "num": 265467,
+        "word": "美国一饼干公司快没包装用了",
+        "onboard_time": 1745467100,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 225040,
+        "num": 225040,
+        "word": "我和豆包结婚了",
+        "onboard_time": 1745470762,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 208946,
+        "num": 208946,
+        "word": "张杰演唱会500多个音响挂票",
+        "onboard_time": 1745472021,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 73197,
+        "num": 204177,
+        "word": "杰伦格林起飞",
+        "onboard_time": 1745472201,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203426,
+        "num": 203426,
+        "word": "李惠利 百想",
+        "onboard_time": 1745465901,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199659,
+        "num": 199659,
+        "word": "迪丽热巴淋雨给工作人员送伞",
+        "onboard_time": 1745467283,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198152,
+        "num": 198152,
+        "word": "苍兰诀2动画暑期高燃开启",
+        "onboard_time": 1745472622,
+        "rank": 27,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 60210,
+        "num": 194456,
+        "word": "男子骑车撞站台身亡家属索赔40万",
+        "onboard_time": 1745471541,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191234,
+        "num": 191234,
+        "word": "美国游客点赞中国扫货三宝",
+        "onboard_time": 1745467823,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 178265,
+        "num": 178265,
+        "word": "杨紫手握五部待播作品",
+        "onboard_time": 1745472321,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155627,
+        "num": 175067,
+        "word": "张凌赫晒怼脸合照",
+        "onboard_time": 1745471422,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172863,
+        "num": 172863,
+        "word": "赵朔 悟空",
+        "onboard_time": 1745470163,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 166578,
+        "num": 166578,
+        "word": "2024年十大考古新发现",
+        "onboard_time": 1745458341,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161335,
+        "num": 161335,
+        "word": "Uzi名人堂皮肤爆料",
+        "onboard_time": 1745468063,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 152392,
+        "num": 152392,
+        "word": "有一种浪漫叫中国航天",
+        "onboard_time": 1745462779,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 152112,
+        "num": 152112,
+        "word": "对华关税会大幅下降特朗普为何变脸",
+        "onboard_time": 1745469502,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 148909,
+        "num": 148909,
+        "word": "黄宗泽 难怪没请我",
+        "onboard_time": 1745461460,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144277,
+        "num": 144277,
+        "word": "金泰妍ins转发粉丝联合声明文",
+        "onboard_time": 1745472501,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124694,
+        "num": 124694,
+        "word": "闪耀暖暖 陈奕雯",
+        "onboard_time": 1745468844,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 124053,
+        "num": 124053,
+        "word": "王鹤棣咸鱼飞升围读上班",
+        "onboard_time": 1745471721,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121583,
+        "num": 121583,
+        "word": "盒马出逃的小龙虾",
+        "onboard_time": 1745471242,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121314,
+        "num": 121314,
+        "word": "一天不洗的头发上有什么",
+        "onboard_time": 1745453420,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 112450,
+        "num": 112450,
+        "word": "房东的猫吴佩岭自曝生育焦虑",
+        "onboard_time": 1745470762,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106070,
+        "num": 106070,
+        "word": "何济霆 压球",
+        "onboard_time": 1745470402,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102736,
+        "num": 102736,
+        "word": "一波电视剧要来了",
+        "onboard_time": 1745473282,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102097,
+        "num": 102097,
+        "word": "顾客买鱼要求不宰杀遭商贩扔秤砣",
+        "onboard_time": 1745455402,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95675,
+        "num": 101799,
+        "word": "劳动监察部门回应猿辅导员工猝死在公司",
+        "onboard_time": 1745472981,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101799,
+        "num": 101798,
+        "word": "狄龙剪刀腿绊倒库里",
+        "onboard_time": 1745473221,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98637,
+        "num": 98637,
+        "word": "女子取货时被男同事故意关冷库",
+        "onboard_time": 1745473161,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向气候和公正转型领导人峰会发表致辞#"
+    }
+  }
+}
