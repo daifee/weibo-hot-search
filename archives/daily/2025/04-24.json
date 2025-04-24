@@ -1,6 +1,6 @@
 {
   "startTime": 1745425908553,
-  "endTime": 1745504628628,
+  "endTime": 1745505808700,
   "band_list": [
     {
       "raw_hot": 2713875,
@@ -107,20 +107,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1278875,
+      "num": 1278875,
+      "word": "孙俪杨紫是第一次见",
+      "onboard_time": 1745498543,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1197988,
       "num": 1197988,
       "word": "顾客买鱼要求不宰杀遭商贩扔秤砣",
       "onboard_time": 1745455402,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1190376,
-      "num": 1190460,
-      "word": "孙俪杨紫是第一次见",
-      "onboard_time": 1745498543,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 1171909,
@@ -155,8 +155,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1071576,
-      "num": 1071576,
+      "raw_hot": 1135611,
+      "num": 1135611,
       "word": "特朗普考虑对华关税分级方案",
       "onboard_time": 1745502082,
       "rank": 30,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 1012045,
-      "num": 323694,
+      "num": 373210,
       "word": "赵露思说化妆是尊重自己",
       "onboard_time": 1745496503,
       "rank": 10,
@@ -299,6 +299,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 764711,
+      "num": 764711,
+      "word": "柯淳酒吧蹦迪",
+      "onboard_time": 1745501783,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 763660,
       "num": 301383,
       "word": "瑶一瑶小肉包两个多月掉粉33万",
@@ -363,20 +371,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 703314,
+      "num": 703314,
+      "word": "小米员工称平均工时12小时仍被约谈",
+      "onboard_time": 1745500101,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 687303,
       "num": 687303,
       "word": "广州暴雨",
       "onboard_time": 1745488881,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 683578,
-      "num": 683578,
-      "word": "柯淳酒吧蹦迪",
-      "onboard_time": 1745501783,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 680030,
@@ -452,11 +460,19 @@
     },
     {
       "raw_hot": 601615,
-      "num": 321221,
+      "num": 329684,
       "word": "杨超越青苹果头像",
       "onboard_time": 1745497461,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 597822,
+      "num": 597822,
+      "word": "外卖员撞到宠物狗被打派出所介入",
+      "onboard_time": 1745500161,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 589519,
@@ -484,19 +500,19 @@
     },
     {
       "raw_hot": 577764,
-      "num": 330829,
+      "num": 362834,
       "word": "林磊儿你对得起小姨吗",
       "onboard_time": 1745499801,
       "rank": 39,
       "category": "剧集"
     },
     {
-      "raw_hot": 576416,
-      "num": 576416,
-      "word": "外卖员撞到宠物狗被打派出所介入",
-      "onboard_time": 1745500161,
-      "rank": 14,
-      "category": "民生新闻"
+      "raw_hot": 572164,
+      "num": 572164,
+      "word": "榜上佳婿 空降",
+      "onboard_time": 1745504603,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 556151,
@@ -587,12 +603,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 427366,
+      "num": 336830,
+      "word": "这是我的西游空降",
+      "onboard_time": 1745502921,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 427131,
       "num": 396138,
       "word": "龚俊陈昊森 花少7",
       "onboard_time": 1745483721,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 424066,
+      "num": 330492,
+      "word": "张凌赫拍迪丽热巴",
+      "onboard_time": 1745500761,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 422222,
@@ -609,14 +641,6 @@
       "onboard_time": 1745475921,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 418089,
-      "num": 321607,
-      "word": "张凌赫拍迪丽热巴",
-      "onboard_time": 1745500761,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 415765,
@@ -665,6 +689,14 @@
       "onboard_time": 1745472021,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 381616,
+      "num": 381616,
+      "word": "澳大利亚出动直升机扑杀750只考拉",
+      "onboard_time": 1745497942,
+      "rank": 36,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 380184,
@@ -771,14 +803,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 327432,
-      "num": 320829,
-      "word": "这是我的西游空降",
-      "onboard_time": 1745502921,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 321727,
       "num": 174806,
       "word": "安静公主要二次手术",
@@ -793,14 +817,6 @@
       "onboard_time": 1745452640,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 320367,
-      "num": 320367,
-      "word": "澳大利亚出动直升机扑杀750只考拉",
-      "onboard_time": 1745497942,
-      "rank": 36,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 315448,
@@ -921,14 +937,6 @@
       "onboard_time": 1745492720,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 281626,
-      "num": 281626,
-      "word": "小米员工称平均工时12小时仍被约谈",
-      "onboard_time": 1745500101,
-      "rank": 32,
-      "category": "互联网"
     },
     {
       "raw_hot": 280970,
@@ -1171,6 +1179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 222951,
+      "num": 222951,
+      "word": "落花时节又逢君 4月底播出",
+      "onboard_time": 1745504543,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 222330,
       "num": 222330,
       "word": "辅警被顶替升学当年招考档案全遗失",
@@ -1259,6 +1275,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 207900,
+      "num": 207900,
+      "word": "抢labubu",
+      "onboard_time": 1745505382,
+      "rank": 30,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 207854,
       "num": 228432,
       "word": "赵丽颖配音幽灵公主",
@@ -1321,6 +1345,14 @@
       "onboard_time": 1745468542,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 199252,
+      "num": 199252,
+      "word": "JDG战胜AL",
+      "onboard_time": 1745505262,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 199121,
@@ -1460,7 +1492,7 @@
     },
     {
       "raw_hot": 187682,
-      "num": 299042,
+      "num": 355274,
       "word": "红旗解锁孙颖莎全城大屏",
       "onboard_time": 1745503402,
       "rank": 18,
@@ -1595,12 +1627,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 173959,
+      "num": 173959,
+      "word": "AG沙漠成功吃鸡",
+      "onboard_time": 1745505143,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 173117,
       "num": 172339,
       "word": "王鹤棣咸鱼飞升围读上班",
       "onboard_time": 1745471721,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172035,
+      "num": 172035,
+      "word": "eStar春季赛淘汰",
+      "onboard_time": 1745505681,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 171076,
@@ -1827,6 +1875,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 154378,
+      "num": 154378,
+      "word": "张继科说雨果夺冠是绝对实力",
+      "onboard_time": 1745505562,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154268,
       "num": 154268,
       "word": "景区回应李现人生照片打卡处被封",
@@ -1915,6 +1971,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 150494,
+      "num": 150494,
+      "word": "AL的bp",
+      "onboard_time": 1745505501,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 150476,
       "num": 320202,
       "word": "老师要求犯错学生当众道歉不该成被告",
@@ -1969,14 +2033,6 @@
       "onboard_time": 1745466141,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 147788,
-      "num": 147788,
-      "word": "落花时节又逢君 4月底播出",
-      "onboard_time": 1745504543,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 147596,
@@ -2113,6 +2169,14 @@
       "onboard_time": 1745465240,
       "rank": 43,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 141516,
+      "num": 141516,
+      "word": "刷手机第一次觉得腿软",
+      "onboard_time": 1745505681,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140962,
@@ -2345,14 +2409,6 @@
       "onboard_time": 1745487920,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 124440,
-      "num": 124440,
-      "word": "榜上佳婿 空降",
-      "onboard_time": 1745504603,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 123343,
@@ -2764,7 +2820,7 @@
     },
     {
       "raw_hot": 87832,
-      "num": 297509,
+      "num": 352611,
       "word": "燃油王者上场了",
       "onboard_time": 1745502201,
       "rank": 32,
@@ -2785,6 +2841,14 @@
       "onboard_time": 1745407581,
       "rank": 42,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 86456,
+      "num": 379249,
+      "word": "关税战让美国农场主不会了",
+      "onboard_time": 1745504963,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 86294,
@@ -3155,6 +3219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 54669,
+      "num": 346372,
+      "word": "博世纵横辅助驾驶首秀",
+      "onboard_time": 1745505083,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 53343,
       "num": 53343,
       "word": "意大利杯",
@@ -3451,6 +3523,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 30397,
+      "num": 361087,
+      "word": "我海警登铁线礁并展示五星红旗",
+      "onboard_time": 1745505024,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 29479,
       "num": 373351,
       "word": "无手女孩讲述发布换卫生巾视频心路",
@@ -3465,6 +3545,14 @@
       "onboard_time": 1745492781,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 28533,
+      "num": 201197,
+      "word": "为何张家界对韩国游客具有独特魅力",
+      "onboard_time": 1745504483,
+      "rank": 25,
+      "category": "旅游"
     },
     {
       "raw_hot": 28003,
@@ -3699,6 +3787,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 17586,
+      "num": 341046,
+      "word": "曾毅演戏比唱歌词多",
+      "onboard_time": 1745505024,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 17562,
       "num": 27062,
       "word": "低智商犯罪",
@@ -3721,14 +3817,6 @@
       "onboard_time": 1745464641,
       "rank": 38,
       "category": "幽默,民生新闻"
-    },
-    {
-      "raw_hot": 16119,
-      "num": 201197,
-      "word": "为何张家界对韩国游客具有独特魅力",
-      "onboard_time": 1745504483,
-      "rank": 25,
-      "category": "旅游"
     },
     {
       "raw_hot": 15638,
@@ -3867,6 +3955,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 11482,
+      "num": 924231,
+      "word": "高质量发展中国行",
+      "onboard_time": 1745501783,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 10833,
       "num": 14521,
       "word": "周深做好自己请我不改",
@@ -3921,6 +4017,14 @@
       "onboard_time": 1745330003,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 5687,
+      "num": 144088,
+      "word": "杨紫从李祯身上汲取到哪些力量",
+      "onboard_time": 1745505742,
+      "rank": 44,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [
@@ -3944,6 +4048,9 @@
     },
     {
       "word": "#新时代中肯命运共同体#"
+    },
+    {
+      "word": "#总书记强调要着力激发创新创造活力#"
     }
   ]
 }

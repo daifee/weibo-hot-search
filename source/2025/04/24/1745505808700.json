@@ -1,0 +1,410 @@
+{
+  "runTime": 1745505808700,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1278875,
+        "num": 1278875,
+        "word": "孙俪杨紫是第一次见",
+        "onboard_time": 1745498543,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1135611,
+        "num": 1135611,
+        "word": "特朗普考虑对华关税分级方案",
+        "onboard_time": 1745502082,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 11482,
+        "num": 924231,
+        "word": "高质量发展中国行",
+        "onboard_time": 1745501783,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 764711,
+        "num": 764711,
+        "word": "柯淳酒吧蹦迪",
+        "onboard_time": 1745501783,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 703314,
+        "num": 703314,
+        "word": "小米员工称平均工时12小时仍被约谈",
+        "onboard_time": 1745500101,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 597822,
+        "num": 597822,
+        "word": "外卖员撞到宠物狗被打派出所介入",
+        "onboard_time": 1745500161,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 572164,
+        "num": 572164,
+        "word": "榜上佳婿 空降",
+        "onboard_time": 1745504603,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 498510,
+        "num": 498510,
+        "word": "花少7",
+        "onboard_time": 1745490440,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 381616,
+        "num": 381616,
+        "word": "澳大利亚出动直升机扑杀750只考拉",
+        "onboard_time": 1745497942,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 86456,
+        "num": 379249,
+        "word": "关税战让美国农场主不会了",
+        "onboard_time": 1745504963,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 578021,
+        "num": 373683,
+        "word": "关晓彤 鹿晗",
+        "onboard_time": 1745453661,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 554923,
+        "num": 373210,
+        "word": "赵露思说化妆是尊重自己",
+        "onboard_time": 1745496503,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 486574,
+        "num": 369398,
+        "word": "男子炒股11年狂赚6000多万",
+        "onboard_time": 1745488761,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 444332,
+        "num": 362834,
+        "word": "林磊儿你对得起小姨吗",
+        "onboard_time": 1745499801,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30397,
+        "num": 361087,
+        "word": "我海警登铁线礁并展示五星红旗",
+        "onboard_time": 1745505024,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 152346,
+        "num": 355274,
+        "word": "红旗解锁孙颖莎全城大屏",
+        "onboard_time": 1745503402,
+        "rank": 15,
+        "category": "体育,汽车"
+      },
+      {
+        "raw_hot": 68670,
+        "num": 352611,
+        "word": "燃油王者上场了",
+        "onboard_time": 1745502201,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 54669,
+        "num": 346372,
+        "word": "博世纵横辅助驾驶首秀",
+        "onboard_time": 1745505083,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 484508,
+        "num": 342068,
+        "word": "石凯订婚照",
+        "onboard_time": 1745468243,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17586,
+        "num": 341046,
+        "word": "曾毅演戏比唱歌词多",
+        "onboard_time": 1745505024,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 427366,
+        "num": 336830,
+        "word": "这是我的西游空降",
+        "onboard_time": 1745502921,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 424066,
+        "num": 330492,
+        "word": "张凌赫拍迪丽热巴",
+        "onboard_time": 1745500761,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 329684,
+        "num": 329684,
+        "word": "杨超越青苹果头像",
+        "onboard_time": 1745497461,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284819,
+        "num": 284819,
+        "word": "福宝再次进入假孕状态",
+        "onboard_time": 1745495422,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274945,
+        "num": 274945,
+        "word": "神舟二十号发射圆满成功",
+        "onboard_time": 1745493082,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 242843,
+        "num": 242843,
+        "word": "这居然是陈都灵",
+        "onboard_time": 1745496380,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224727,
+        "num": 224727,
+        "word": "无忧渡热度",
+        "onboard_time": 1745499921,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222951,
+        "num": 222951,
+        "word": "落花时节又逢君 4月底播出",
+        "onboard_time": 1745504543,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96816,
+        "num": 209771,
+        "word": "第一视角看神20发射多震撼",
+        "onboard_time": 1745501842,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 114281,
+        "num": 207960,
+        "word": "国乒男女队在京召开总结大会",
+        "onboard_time": 1745494342,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207900,
+        "num": 207900,
+        "word": "抢labubu",
+        "onboard_time": 1745505382,
+        "rank": 30,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 203322,
+        "num": 203322,
+        "word": "杨紫 华伦公主",
+        "onboard_time": 1745488700,
+        "rank": 31,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 199252,
+        "num": 199252,
+        "word": "JDG战胜AL",
+        "onboard_time": 1745505262,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 199148,
+        "num": 199148,
+        "word": "养了4年的猫把主人咬到输液1周",
+        "onboard_time": 1745494701,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28533,
+        "num": 190074,
+        "word": "为何张家界对韩国游客具有独特魅力",
+        "onboard_time": 1745504483,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 181930,
+        "num": 181930,
+        "word": "无忧渡",
+        "onboard_time": 1745491341,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173959,
+        "num": 173959,
+        "word": "AG沙漠成功吃鸡",
+        "onboard_time": 1745505143,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 172035,
+        "num": 172035,
+        "word": "eStar春季赛淘汰",
+        "onboard_time": 1745505681,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 161338,
+        "num": 161338,
+        "word": "刘强东老家宿迁京东外卖遍地开花",
+        "onboard_time": 1745497881,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 157694,
+        "num": 157694,
+        "word": "杨坤回应起诉四川芬达",
+        "onboard_time": 1745489959,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154378,
+        "num": 154378,
+        "word": "张继科说雨果夺冠是绝对实力",
+        "onboard_time": 1745505562,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150809,
+        "num": 150809,
+        "word": "刘强东取外卖遇卡餐一脸迷茫",
+        "onboard_time": 1745464822,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150494,
+        "num": 150494,
+        "word": "AL的bp",
+        "onboard_time": 1745505501,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 144717,
+        "num": 144717,
+        "word": "神舟二十号航天员感觉良好",
+        "onboard_time": 1745493141,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 5687,
+        "num": 144088,
+        "word": "杨紫从李祯身上汲取到哪些力量",
+        "onboard_time": 1745505742,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262456,
+        "num": 144062,
+        "word": "Scout 赵信",
+        "onboard_time": 1745498902,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 143961,
+        "num": 143961,
+        "word": "成毅演出了二次元感觉",
+        "onboard_time": 1745498961,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141516,
+        "num": 141516,
+        "word": "刷手机第一次觉得腿软",
+        "onboard_time": 1745505681,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140874,
+        "num": 140874,
+        "word": "杨坤 四川芬达",
+        "onboard_time": 1745490800,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140003,
+        "num": 140003,
+        "word": "谢霆锋香港演唱会",
+        "onboard_time": 1745499382,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记强调要着力激发创新创造活力#"
+    }
+  }
+}
