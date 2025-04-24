@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/24 21:35:11
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/24 21:46:55
 </p>
 </blockquote>
 <p>
@@ -5397,6 +5397,12 @@ YERI和Wendy离开SM（热度：805847）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%BF%AA%E6%9D%A8%E7%B4%AB%E6%98%AF%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%23" target="weibo">
+孙俪杨紫是第一次见（热度：799328）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%BA%A64.2%E4%B8%87%E5%85%B7%E9%81%97%E4%BD%93%E6%97%A0%E4%BA%BA%E8%AE%A4%E9%A2%86%23" target="weibo">
 日本约4.2万具遗体无人认领（热度：799165）
 </a>
@@ -6005,12 +6011,6 @@ GAI都瘦脱相了（热度：737143）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9C%9F%E6%AD%A3%E7%9A%84%E9%AD%94%E7%AB%A5%E9%99%8D%E4%B8%96%23" target="weibo">
 真正的魔童降世（热度：735410）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%8C%9B%E7%83%88%E8%B7%B3%E6%B0%B4%23" target="weibo">
-金价猛烈跳水（热度：733643）
 </a>
 </li>
 
@@ -6677,6 +6677,12 @@ GAI都瘦脱相了（热度：737143）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E6%89%93%E9%80%A0%E6%96%B0%E6%97%B6%E4%BB%A3%E5%85%A8%E5%A4%A9%E5%80%99%E4%B8%AD%E9%9D%9E%E5%91%BD%E8%BF%90%E5%85%B1%E5%90%8C%E4%BD%93%E5%85%B8%E8%8C%83%23%23" target="weibo">
 #打造新时代全天候中非命运共同体典范#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E8%82%AF%E5%91%BD%E8%BF%90%E5%85%B1%E5%90%8C%E4%BD%93%23%23" target="weibo">
+#新时代中肯命运共同体#
 </a>
 </li>
 
