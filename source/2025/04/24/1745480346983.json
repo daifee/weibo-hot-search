@@ -1,0 +1,410 @@
+{
+  "runTime": 1745480346983,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1638468,
+        "num": 1638468,
+        "word": "女子取货时被男同事故意关冷库",
+        "onboard_time": 1745473161,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 965131,
+        "num": 965131,
+        "word": "孙坚公布被盗监控",
+        "onboard_time": 1745474781,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26799,
+        "num": 856557,
+        "word": "神二十乘组今日出征",
+        "onboard_time": 1745465841,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 809457,
+        "num": 809457,
+        "word": "一加 程潇",
+        "onboard_time": 1745480118,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 520367,
+        "num": 520367,
+        "word": "中国人进家脱鞋习惯上太空了",
+        "onboard_time": 1745475261,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1069724,
+        "num": 519092,
+        "word": "猿辅导员工猝死在公司",
+        "onboard_time": 1745469742,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77233,
+        "num": 511813,
+        "word": "中方在联合国会议发出3问",
+        "onboard_time": 1745466021,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 704875,
+        "num": 506785,
+        "word": "赵露思金色深V短裙",
+        "onboard_time": 1745477060,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 553651,
+        "num": 501035,
+        "word": "邓超在家喊胡曼黎被孙俪骂",
+        "onboard_time": 1745476281,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 497385,
+        "num": 497385,
+        "word": "神二十发射直播",
+        "onboard_time": 1745478201,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 902631,
+        "num": 496607,
+        "word": "刘强东取外卖遇卡餐一脸迷茫",
+        "onboard_time": 1745464822,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 822595,
+        "num": 495569,
+        "word": "石凯订婚照",
+        "onboard_time": 1745468243,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 527535,
+        "num": 494122,
+        "word": "一波电视剧要来了",
+        "onboard_time": 1745473282,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 390611,
+        "num": 492180,
+        "word": "985硕士求职大厂被拒只因本科双非学历",
+        "onboard_time": 1745475921,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19441,
+        "num": 491122,
+        "word": "一条视频打开WAW",
+        "onboard_time": 1745479760,
+        "rank": 14,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 502485,
+        "num": 489266,
+        "word": "冉莹颖儿子打生长激素又长1.7厘米",
+        "onboard_time": 1745468844,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39342,
+        "num": 487772,
+        "word": "五一怎么休更爽",
+        "onboard_time": 1745478260,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54562,
+        "num": 486804,
+        "word": "郑钦文同款新车首发",
+        "onboard_time": 1745478320,
+        "rank": 17,
+        "category": "体育,汽车"
+      },
+      {
+        "raw_hot": 44551,
+        "num": 485474,
+        "word": "卤味三巨头一年关店数千家",
+        "onboard_time": 1745478861,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26608,
+        "num": 482897,
+        "word": "理想智驾升级了那些黑科技",
+        "onboard_time": 1745479280,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 482710,
+        "num": 482710,
+        "word": "妻子开车躲家暴致丈夫身亡被判11年",
+        "onboard_time": 1745468003,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 799264,
+        "num": 477548,
+        "word": "关晓彤 鹿晗",
+        "onboard_time": 1745453661,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 462678,
+        "num": 462678,
+        "word": "石凯 订过婚",
+        "onboard_time": 1745402903,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402473,
+        "num": 402473,
+        "word": "jiejie恋情",
+        "onboard_time": 1745479280,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 398345,
+        "num": 398345,
+        "word": "35岁脑干出血程序员发声",
+        "onboard_time": 1745470042,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 393974,
+        "num": 393974,
+        "word": "金靖镜头里的迪丽热巴",
+        "onboard_time": 1745475921,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231432,
+        "num": 231432,
+        "word": "一加发布会",
+        "onboard_time": 1745479400,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 211311,
+        "num": 211311,
+        "word": "学霸型白月光",
+        "onboard_time": 1745479041,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 206025,
+        "num": 206025,
+        "word": "咸鱼飞升",
+        "onboard_time": 1745473461,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205817,
+        "num": 205817,
+        "word": "金靖用脚拍的照片都是神图",
+        "onboard_time": 1745473580,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186479,
+        "num": 186479,
+        "word": "北大屠夫评价大学生脱不下长衫",
+        "onboard_time": 1745479521,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159379,
+        "num": 159379,
+        "word": "骑手提醒外卖送得快不一定是好事",
+        "onboard_time": 1745473639,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158241,
+        "num": 158241,
+        "word": "118秒打卡中国载人航天",
+        "onboard_time": 1745478320,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 144615,
+        "num": 144615,
+        "word": "安卓朋友圈可发实况照片了",
+        "onboard_time": 1745478741,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 137820,
+        "num": 137820,
+        "word": "神20航天员领命出征",
+        "onboard_time": 1745479221,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 136251,
+        "num": 136251,
+        "word": "赵朔 悟空",
+        "onboard_time": 1745470163,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 41780,
+        "num": 133871,
+        "word": "轮到西方人向中国汽车取经了",
+        "onboard_time": 1745475681,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132487,
+        "num": 132487,
+        "word": "航天员在歌唱祖国旋律中出征",
+        "onboard_time": 1745478680,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 90158,
+        "num": 127001,
+        "word": "魏大勋也是说上了夹子音",
+        "onboard_time": 1745480300,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55105,
+        "num": 124889,
+        "word": "运动顺序影响健身效果",
+        "onboard_time": 1745479221,
+        "rank": 39,
+        "category": "运动健身,民生新闻"
+      },
+      {
+        "raw_hot": 35722,
+        "num": 123694,
+        "word": "别墅内暗藏胚胎移植手术室最新进展",
+        "onboard_time": 1745480241,
+        "rank": 40,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 123554,
+        "num": 123554,
+        "word": "张杰演唱会500多个音响挂票",
+        "onboard_time": 1745472021,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 165492,
+        "num": 122313,
+        "word": "1年级女童走神被老师揪耳朵撕裂2cm",
+        "onboard_time": 1745474901,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120501,
+        "num": 120501,
+        "word": "被苍兰诀2疯感狠狠烧到了",
+        "onboard_time": 1745472561,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 117236,
+        "num": 117236,
+        "word": "不知不觉都神二十了",
+        "onboard_time": 1745457682,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 114923,
+        "num": 114923,
+        "word": "2024年十大考古新发现",
+        "onboard_time": 1745458341,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114200,
+        "num": 114200,
+        "word": "李沁咸鱼飞升路透",
+        "onboard_time": 1745477180,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111764,
+        "num": 111764,
+        "word": "有一种浪漫叫中国航天",
+        "onboard_time": 1745462779,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 109160,
+        "num": 109160,
+        "word": "这居然是向佐",
+        "onboard_time": 1745465961,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104791,
+        "num": 109083,
+        "word": "电视剧制作等领域部分放开",
+        "onboard_time": 1745478260,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向气候和公正转型领导人峰会发表致辞#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1745425908553,
-  "endTime": 1745479515854,
+  "endTime": 1745480346983,
   "band_list": [
     {
       "raw_hot": 2713875,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2222704,
-      "num": 426879,
+      "num": 477548,
       "word": "关晓彤 鹿晗",
       "onboard_time": 1745453661,
       "rank": 10,
@@ -36,15 +36,15 @@
     },
     {
       "raw_hot": 1844906,
-      "num": 426754,
+      "num": 462678,
       "word": "石凯 订过婚",
       "onboard_time": 1745402903,
       "rank": 20,
       "category": "艺人"
     },
     {
-      "raw_hot": 1589817,
-      "num": 1589817,
+      "raw_hot": 1638468,
+      "num": 1638468,
       "word": "女子取货时被男同事故意关冷库",
       "onboard_time": 1745473161,
       "rank": 49,
@@ -147,6 +147,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 809457,
+      "num": 809457,
+      "word": "一加 程潇",
+      "onboard_time": 1745480118,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 794731,
       "num": 277013,
       "word": "石凯 文韬",
@@ -185,6 +193,14 @@
       "onboard_time": 1745421263,
       "rank": 21,
       "category": "财经"
+    },
+    {
+      "raw_hot": 704875,
+      "num": 521276,
+      "word": "赵露思金色深V短裙",
+      "onboard_time": 1745477060,
+      "rank": 43,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 703959,
@@ -275,12 +291,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 521276,
-      "num": 521276,
-      "word": "赵露思金色深V短裙",
-      "onboard_time": 1745477060,
-      "rank": 43,
-      "category": "作品衍生,时尚"
+      "raw_hot": 553651,
+      "num": 501035,
+      "word": "邓超在家喊胡曼黎被孙俪骂",
+      "onboard_time": 1745476281,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 501610,
@@ -289,6 +305,14 @@
       "onboard_time": 1745461460,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 497385,
+      "num": 497385,
+      "word": "神二十发射直播",
+      "onboard_time": 1745478201,
+      "rank": 22,
+      "category": "国内时政"
     },
     {
       "raw_hot": 444641,
@@ -307,28 +331,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 426653,
-      "num": 426653,
-      "word": "神二十发射直播",
-      "onboard_time": 1745478201,
-      "rank": 22,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 422222,
       "num": 422222,
       "word": "美国一饼干公司快没包装用了",
       "onboard_time": 1745467100,
       "rank": 6,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 420667,
-      "num": 428001,
-      "word": "邓超在家喊胡曼黎被孙俪骂",
-      "onboard_time": 1745476281,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 415765,
@@ -347,6 +355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 402473,
+      "num": 402473,
+      "word": "jiejie恋情",
+      "onboard_time": 1745479280,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 398588,
       "num": 398588,
       "word": "被苍兰诀2疯感狠狠烧到了",
@@ -361,6 +377,14 @@
       "onboard_time": 1745472021,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 390611,
+      "num": 492180,
+      "word": "985硕士求职大厂被拒只因本科双非学历",
+      "onboard_time": 1745475921,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 380184,
@@ -555,14 +579,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 254842,
-      "num": 428166,
-      "word": "985硕士求职大厂被拒只因本科双非学历",
-      "onboard_time": 1745475921,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 253860,
       "num": 375609,
       "word": "李惠利 百想",
@@ -611,6 +627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 231432,
+      "num": 231432,
+      "word": "一加发布会",
+      "onboard_time": 1745479400,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 223085,
       "num": 223085,
       "word": "南大学生回应食堂不供应西湖醋鱼",
@@ -657,6 +681,14 @@
       "onboard_time": 1745407342,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 211311,
+      "num": 211311,
+      "word": "学霸型白月光",
+      "onboard_time": 1745479041,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 210081,
@@ -787,14 +819,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 189195,
-      "num": 189195,
-      "word": "一加发布会",
-      "onboard_time": 1745479400,
-      "rank": 30,
-      "category": "数码"
-    },
-    {
       "raw_hot": 188632,
       "num": 188632,
       "word": "骑手提醒外卖送得快不一定是好事",
@@ -817,6 +841,14 @@
       "onboard_time": 1745464581,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186479,
+      "num": 186479,
+      "word": "北大屠夫评价大学生脱不下长衫",
+      "onboard_time": 1745479521,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 185950,
@@ -1011,14 +1043,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 155609,
-      "num": 155609,
-      "word": "jiejie恋情",
-      "onboard_time": 1745479280,
-      "rank": 33,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 154268,
       "num": 154268,
       "word": "景区回应李现人生照片打卡处被封",
@@ -1115,12 +1139,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 145234,
-      "num": 145234,
-      "word": "学霸型白月光",
-      "onboard_time": 1745479041,
-      "rank": 37,
-      "category": "情感"
+      "raw_hot": 144615,
+      "num": 144615,
+      "word": "安卓朋友圈可发实况照片了",
+      "onboard_time": 1745478741,
+      "rank": 44,
+      "category": "数码"
     },
     {
       "raw_hot": 144511,
@@ -1355,14 +1379,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 114396,
-      "num": 114396,
-      "word": "安卓朋友圈可发实况照片了",
-      "onboard_time": 1745478741,
-      "rank": 44,
-      "category": "数码"
-    },
-    {
       "raw_hot": 113934,
       "num": 204177,
       "word": "杰伦格林起飞",
@@ -1571,6 +1587,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 90158,
+      "num": 127001,
+      "word": "魏大勋也是说上了夹子音",
+      "onboard_time": 1745480300,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 87743,
       "num": 366925,
       "word": "雷公回应公开与儿子聊天记录",
@@ -1748,7 +1772,7 @@
     },
     {
       "raw_hot": 67323,
-      "num": 427408,
+      "num": 486804,
       "word": "郑钦文同款新车首发",
       "onboard_time": 1745478320,
       "rank": 18,
@@ -1988,7 +2012,7 @@
     },
     {
       "raw_hot": 47429,
-      "num": 427690,
+      "num": 487772,
       "word": "五一怎么休更爽",
       "onboard_time": 1745478260,
       "rank": 16,
@@ -2017,6 +2041,14 @@
       "onboard_time": 1745410162,
       "rank": 48,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 44551,
+      "num": 485474,
+      "word": "卤味三巨头一年关店数千家",
+      "onboard_time": 1745478861,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44416,
@@ -2075,6 +2107,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 35722,
+      "num": 123694,
+      "word": "别墅内暗藏胚胎移植手术室最新进展",
+      "onboard_time": 1745480241,
+      "rank": 40,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 35460,
       "num": 755841,
       "word": "公安部网安局提醒防范职业窃密",
@@ -2084,7 +2124,7 @@
     },
     {
       "raw_hot": 35182,
-      "num": 219512,
+      "num": 482897,
       "word": "理想智驾升级了那些黑科技",
       "onboard_time": 1745479280,
       "rank": 26,
@@ -2105,14 +2145,6 @@
       "onboard_time": 1745428937,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 31969,
-      "num": 427202,
-      "word": "卤味三巨头一年关店数千家",
-      "onboard_time": 1745478861,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 29479,
@@ -2137,6 +2169,14 @@
       "onboard_time": 1745417603,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 26799,
+      "num": 856557,
+      "word": "神二十乘组今日出征",
+      "onboard_time": 1745465841,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 25152,
@@ -2225,6 +2265,14 @@
       "onboard_time": 1745432655,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 19441,
+      "num": 491122,
+      "word": "一条视频打开WAW",
+      "onboard_time": 1745479760,
+      "rank": 14,
+      "category": "动漫"
     },
     {
       "raw_hot": 19323,
