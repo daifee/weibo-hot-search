@@ -1,6 +1,6 @@
 {
   "startTime": 1745425908553,
-  "endTime": 1745487675195,
+  "endTime": 1745490466545,
   "band_list": [
     {
       "raw_hot": 2713875,
@@ -33,6 +33,14 @@
       "onboard_time": 1745453661,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1974656,
+      "num": 634350,
+      "word": "男子炒股11年狂赚6000多万",
+      "onboard_time": 1745488761,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1844906,
@@ -89,6 +97,14 @@
       "onboard_time": 1745455402,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1171909,
+      "num": 1187505,
+      "word": "孙坚又被偷了",
+      "onboard_time": 1745488641,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 1164095,
@@ -235,12 +251,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 736895,
+      "num": 597674,
+      "word": "杨紫 华伦公主",
+      "onboard_time": 1745488700,
+      "rank": 6,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 733643,
       "num": 302253,
       "word": "金价猛烈跳水",
       "onboard_time": 1745421263,
       "rank": 21,
       "category": "财经"
+    },
+    {
+      "raw_hot": 721282,
+      "num": 721282,
+      "word": "费列罗长蛆",
+      "onboard_time": 1745482941,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 704875,
@@ -297,6 +329,14 @@
       "onboard_time": 1745473282,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 607983,
+      "num": 607983,
+      "word": "神20发射圆满成功",
+      "onboard_time": 1745487861,
+      "rank": 5,
+      "category": "国内时政"
     },
     {
       "raw_hot": 602029,
@@ -385,6 +425,14 @@
       "onboard_time": 1745424381,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 442181,
+      "num": 442181,
+      "word": "广州暴雨",
+      "onboard_time": 1745488881,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 428217,
@@ -515,20 +563,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 329036,
+      "num": 329036,
+      "word": "和府捞面被指同面不同价背刺打工人",
+      "onboard_time": 1745483001,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 327954,
       "num": 396061,
       "word": "解放军回应美导弹驱逐舰过航台湾海峡",
       "onboard_time": 1745483181,
       "rank": 32,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 327491,
-      "num": 327491,
-      "word": "费列罗长蛆",
-      "onboard_time": 1745482941,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 321727,
@@ -553,6 +601,14 @@
       "onboard_time": 1745457682,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 312020,
+      "num": 312020,
+      "word": "虞书欣短裙黑吊带",
+      "onboard_time": 1745488940,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 309302,
@@ -585,6 +641,14 @@
       "onboard_time": 1745425579,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 293034,
+      "num": 293034,
+      "word": "江辰 为了预防我被扒黑料",
+      "onboard_time": 1745488641,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 292418,
@@ -675,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 262897,
+      "num": 245231,
+      "word": "孙坚三天被偷了两次",
+      "onboard_time": 1745489419,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 258472,
       "num": 258472,
       "word": "美国又有11州起诉特朗普政府",
@@ -696,6 +768,14 @@
       "word": "迪丽热巴淋雨给工作人员送伞",
       "onboard_time": 1745467283,
       "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 256698,
+      "num": 256698,
+      "word": "丁真没有认真备戏惹怒曾志伟",
+      "onboard_time": 1745488881,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -747,12 +827,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 245422,
+      "num": 245422,
+      "word": "李嘉琦离开孟子义来了个宋妍霏",
+      "onboard_time": 1745488940,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 231432,
       "num": 231432,
       "word": "一加发布会",
       "onboard_time": 1745479400,
       "rank": 30,
       "category": "数码"
+    },
+    {
+      "raw_hot": 229315,
+      "num": 229315,
+      "word": "大侦探又一群像封神镜头",
+      "onboard_time": 1745487920,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 227039,
@@ -811,6 +907,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 211350,
+      "num": 262678,
+      "word": "男子长期熬夜劝大家好好爱自己",
+      "onboard_time": 1745488820,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 211311,
       "num": 211311,
       "word": "学霸型白月光",
@@ -825,6 +929,14 @@
       "onboard_time": 1745484322,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 210478,
+      "num": 210478,
+      "word": "杨坤回应起诉四川芬达",
+      "onboard_time": 1745489959,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 210081,
@@ -915,12 +1027,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 197806,
+      "num": 197806,
+      "word": "权志龙新歌",
+      "onboard_time": 1745489541,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 197674,
       "num": 197674,
       "word": "邓为风月不相关女主",
       "onboard_time": 1745484202,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196548,
+      "num": 445226,
+      "word": "80平房子被分为8间带厕所的出租屋",
+      "onboard_time": 1745488761,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 194037,
@@ -963,6 +1091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189958,
+      "num": 189958,
+      "word": "孙俪杨紫林志玲同框",
+      "onboard_time": 1745490381,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 189865,
       "num": 189865,
       "word": "关税",
@@ -985,6 +1121,14 @@
       "onboard_time": 1745473639,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188402,
+      "num": 188402,
+      "word": "让张小斐孙艺洲演夫妻的人是天才",
+      "onboard_time": 1745490202,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 188385,
@@ -1243,6 +1387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 155327,
+      "num": 155327,
+      "word": "杨玉环星之鸣奏优化即将上线",
+      "onboard_time": 1745490321,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 154268,
       "num": 154268,
       "word": "景区回应李现人生照片打卡处被封",
@@ -1347,6 +1499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 146083,
+      "num": 146083,
+      "word": "京东外卖服 猪猪侠",
+      "onboard_time": 1745488820,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 146071,
       "num": 146071,
       "word": "商务部回应中美关税降温说法",
@@ -1427,12 +1587,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142415,
+      "num": 142415,
+      "word": "花少7",
+      "onboard_time": 1745490440,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 141708,
+      "num": 191426,
+      "word": "原来最便宜的留学是在印度",
+      "onboard_time": 1745485161,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 141678,
       "num": 141678,
       "word": "小米王化回应雷军没去上海车展",
       "onboard_time": 1745465240,
       "rank": 43,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 140901,
+      "num": 140901,
+      "word": "四川一遗址群入选十大考古新发现",
+      "onboard_time": 1745488700,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140687,
@@ -1553,14 +1737,6 @@
       "onboard_time": 1745464521,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 128259,
-      "num": 128259,
-      "word": "原来最便宜的留学是在印度",
-      "onboard_time": 1745485161,
-      "rank": 46,
-      "category": "教育"
     },
     {
       "raw_hot": 128112,
@@ -1747,6 +1923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103795,
+      "num": 263543,
+      "word": "上海车展极氪展台人山人海",
+      "onboard_time": 1745486363,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 102828,
       "num": 102828,
       "word": "无忧渡 天庭反骨仔聚集地",
@@ -1761,14 +1945,6 @@
       "onboard_time": 1745450778,
       "rank": 26,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 102198,
-      "num": 194921,
-      "word": "上海车展极氪展台人山人海",
-      "onboard_time": 1745486363,
-      "rank": 27,
-      "category": "汽车"
     },
     {
       "raw_hot": 101799,
@@ -2011,6 +2187,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 81816,
+      "num": 169295,
+      "word": "当86岁的爷爷摆摊写婚书",
+      "onboard_time": 1745489301,
+      "rank": 43,
+      "category": "情感,民生新闻"
+    },
+    {
+      "raw_hot": 81523,
+      "num": 445843,
+      "word": "希望美方不要有受迫害妄想症",
+      "onboard_time": 1745488700,
+      "rank": 12,
+      "category": "国际时政,国内时政"
+    },
+    {
+      "raw_hot": 79602,
+      "num": 190283,
+      "word": "湿气越吃越少9种食物",
+      "onboard_time": 1745490381,
+      "rank": 39,
+      "category": "健康医疗,民生新闻"
+    },
+    {
       "raw_hot": 79183,
       "num": 316871,
       "word": "歌手2025嘉宾阵容有什么看点",
@@ -2033,6 +2233,14 @@
       "onboard_time": 1745471001,
       "rank": 18,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 76301,
+      "num": 245415,
+      "word": "台当局领导人办公楼失火",
+      "onboard_time": 1745489241,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 75625,
@@ -2225,6 +2433,14 @@
       "onboard_time": 1745468483,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 56668,
+      "num": 245283,
+      "word": "中国留学生遭遇量身定制电信诈骗",
+      "onboard_time": 1745488580,
+      "rank": 31,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 55953,
@@ -2563,6 +2779,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 25005,
+      "num": 443297,
+      "word": "快来WAW见十一区动漫顶流",
+      "onboard_time": 1745489419,
+      "rank": 14,
+      "category": "动漫,游戏"
+    },
+    {
       "raw_hot": 24473,
       "num": 186133,
       "word": "全新一代雷克萨斯ES有哪些亮点",
@@ -2643,6 +2867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 20816,
+      "num": 634798,
+      "word": "一图看中国航天未来20年",
+      "onboard_time": 1745489900,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20161,
       "num": 156376,
       "word": "专家称借助AI或治愈所有疾病",
@@ -2699,6 +2931,14 @@
       "category": "幽默,民生新闻"
     },
     {
+      "raw_hot": 16053,
+      "num": 314266,
+      "word": "被关在冷库中该如何自救",
+      "onboard_time": 1745490082,
+      "rank": 19,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 15638,
       "num": 185593,
       "word": "特朗普为何改口称无意解雇鲍威尔",
@@ -2713,6 +2953,14 @@
       "onboard_time": 1745475681,
       "rank": 18,
       "category": "幽默,民生新闻"
+    },
+    {
+      "raw_hot": 15294,
+      "num": 172926,
+      "word": "科学家警告黑客入侵DNA风险",
+      "onboard_time": 1745489241,
+      "rank": 42,
+      "category": "科学科普,民生新闻"
     },
     {
       "raw_hot": 14509,
@@ -2855,6 +3103,9 @@
     },
     {
       "word": "#习近平同肯尼亚总统鲁托会谈#"
+    },
+    {
+      "word": "#为建设航天强国再立新功#"
     }
   ]
 }
