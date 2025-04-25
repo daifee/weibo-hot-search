@@ -1,6 +1,6 @@
 {
   "startTime": 1745512289618,
-  "endTime": 1745576793888,
+  "endTime": 1745577820910,
   "band_list": [
     {
       "raw_hot": 2560355,
@@ -49,6 +49,14 @@
       "onboard_time": 1745544200,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1535202,
+      "num": 1535202,
+      "word": "无忧渡大结局",
+      "onboard_time": 1745575881,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 1430885,
@@ -163,6 +171,14 @@
       "category": "国际时政,民生新闻"
     },
     {
+      "raw_hot": 860408,
+      "num": 860408,
+      "word": "华表奖阵容官宣",
+      "onboard_time": 1745576600,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 837900,
       "num": 837900,
       "word": "金扫帚",
@@ -179,14 +195,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 807784,
-      "num": 807784,
-      "word": "无忧渡大结局",
-      "onboard_time": 1745575881,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 783371,
       "num": 783371,
       "word": "曹骏外甥当然要像舅舅了",
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 751851,
-      "num": 313945,
+      "num": 341002,
       "word": "enhypen 卖掉了",
       "onboard_time": 1745575461,
       "rank": 11,
@@ -217,6 +225,14 @@
       "onboard_time": 1745541383,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 662124,
+      "num": 348836,
+      "word": "京东外卖百亿补贴要求商家承担50%",
+      "onboard_time": 1745577141,
+      "rank": 12,
+      "category": "互联网"
     },
     {
       "raw_hot": 657814,
@@ -337,6 +353,14 @@
       "onboard_time": 1745554580,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 477756,
+      "num": 339834,
+      "word": "杨紫蓝色高定裙",
+      "onboard_time": 1745577380,
+      "rank": 16,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 472631,
@@ -507,12 +531,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 359710,
+      "num": 359710,
+      "word": "肖战指导晒北京奥运国乒合照",
+      "onboard_time": 1745575580,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 356322,
       "num": 356322,
       "word": "刘诗诗章若楠孟子义美进一部剧",
       "onboard_time": 1745570961,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 356017,
+      "num": 356017,
+      "word": "王一博等将亮相华表奖",
+      "onboard_time": 1745576782,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 354986,
@@ -699,14 +739,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 286912,
-      "num": 286912,
-      "word": "华表奖阵容官宣",
-      "onboard_time": 1745576600,
-      "rank": 15,
-      "category": "电影"
-    },
-    {
       "raw_hot": 286273,
       "num": 286273,
       "word": "为卖课猿辅导对家长进行电话轰炸",
@@ -801,14 +833,6 @@
       "onboard_time": 1745555481,
       "rank": 9,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 270594,
-      "num": 220272,
-      "word": "肖战指导晒北京奥运国乒合照",
-      "onboard_time": 1745575580,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 266265,
@@ -979,6 +1003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 211763,
+      "num": 323451,
+      "word": "无忧渡oe",
+      "onboard_time": 1745577380,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 211514,
       "num": 211514,
       "word": "淮水竹亭",
@@ -1001,6 +1033,14 @@
       "onboard_time": 1745560521,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207203,
+      "num": 322430,
+      "word": "EPEX福州演唱会",
+      "onboard_time": 1745576961,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 206781,
@@ -1067,6 +1107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197444,
+      "num": 197444,
+      "word": "朋友圈三天可见 置顶像生死簿那么长",
+      "onboard_time": 1745577680,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 196960,
       "num": 167701,
       "word": "唐国强上优酷节目感谢哔哩哔哩",
@@ -1123,6 +1171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185094,
+      "num": 185094,
+      "word": "张康乐直播",
+      "onboard_time": 1745577261,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184963,
       "num": 184963,
       "word": "张碧晨唱哭了",
@@ -1164,11 +1220,19 @@
     },
     {
       "raw_hot": 178220,
-      "num": 203893,
+      "num": 316974,
       "word": "搬砖9年攒200万男子发声",
       "onboard_time": 1745570782,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177770,
+      "num": 177770,
+      "word": "上海车展被我逛成漫展了",
+      "onboard_time": 1745577501,
+      "rank": 36,
+      "category": "汽车"
     },
     {
       "raw_hot": 177124,
@@ -1425,6 +1489,14 @@
       "onboard_time": 1745547680,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151155,
+      "num": 319507,
+      "word": "中国电信一季度净利润88.64亿元",
+      "onboard_time": 1745577082,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 150488,
@@ -1739,6 +1811,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 130106,
+      "num": 130106,
+      "word": "马柏全珠海出发",
+      "onboard_time": 1745576481,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 129949,
       "num": 129949,
       "word": "当韩国公公看甄嬛传",
@@ -1785,6 +1865,14 @@
       "onboard_time": 1745556862,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 126432,
+      "num": 126432,
+      "word": "登陆少年封面首秀",
+      "onboard_time": 1745577620,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 126259,
@@ -1899,6 +1987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119937,
+      "num": 119937,
+      "word": "张真源严浩翔影响不了一点谢娜",
+      "onboard_time": 1745577680,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119644,
       "num": 119644,
       "word": "恋与深空",
@@ -1921,6 +2017,14 @@
       "onboard_time": 1745559621,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 117491,
+      "num": 117491,
+      "word": "种地吧为宣传农业送郁金香",
+      "onboard_time": 1745577620,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 116596,
@@ -1948,7 +2052,7 @@
     },
     {
       "raw_hot": 115123,
-      "num": 279800,
+      "num": 337197,
       "word": "开箱百万级大沙发",
       "onboard_time": 1745575821,
       "rank": 17,
@@ -2003,14 +2107,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 110572,
-      "num": 110572,
-      "word": "马柏全珠海出发",
-      "onboard_time": 1745576481,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 110403,
       "num": 110403,
       "word": "留几手 不恋爱",
@@ -2033,6 +2129,14 @@
       "onboard_time": 1745571801,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 109107,
+      "num": 344140,
+      "word": "泽连斯基称乌愿和谈就是巨大让步",
+      "onboard_time": 1745576782,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 107842,
@@ -2153,6 +2257,14 @@
       "onboard_time": 1745556922,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 95526,
+      "num": 102744,
+      "word": "中方拆穿美方假消息",
+      "onboard_time": 1745577261,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 94567,
@@ -2315,6 +2427,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 76183,
+      "num": 347467,
+      "word": "巴防长发出全面战争警告",
+      "onboard_time": 1745576360,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 75582,
       "num": 83147,
       "word": "谢霆锋演唱会门票被炒到17万",
@@ -2372,7 +2492,7 @@
     },
     {
       "raw_hot": 69471,
-      "num": 271562,
+      "num": 335360,
       "word": "上海车展真香现场",
       "onboard_time": 1745574742,
       "rank": 18,
@@ -2476,11 +2596,19 @@
     },
     {
       "raw_hot": 66241,
-      "num": 110942,
+      "num": 331007,
       "word": "法院回应南昌锜某某强奸案再引热议",
       "onboard_time": 1745576660,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 65119,
+      "num": 305538,
+      "word": "俄军总参高官死于汽车爆炸",
+      "onboard_time": 1745576900,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 64761,
@@ -2564,7 +2692,7 @@
     },
     {
       "raw_hot": 58175,
-      "num": 203523,
+      "num": 311017,
       "word": "X200s给五一朋友圈大赛打个样",
       "onboard_time": 1745574742,
       "rank": 27,
@@ -2683,12 +2811,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48540,
+      "num": 307866,
+      "word": "TTG空降WAW团建",
+      "onboard_time": 1745576782,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 48140,
       "num": 244057,
       "word": "巴特勒G3出战成疑",
       "onboard_time": 1745549719,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 47117,
+      "num": 1063734,
+      "word": "从一季度出行数据感知经济活力",
+      "onboard_time": 1745573422,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46980,
@@ -2771,12 +2915,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 41600,
-      "num": 927320,
-      "word": "从一季度出行数据感知经济活力",
-      "onboard_time": 1745573422,
-      "rank": 2,
-      "category": "民生新闻"
+      "raw_hot": 42191,
+      "num": 313420,
+      "word": "古人是如何练习书法的",
+      "onboard_time": 1745577680,
+      "rank": 26,
+      "category": "科学科普"
     },
     {
       "raw_hot": 40445,
@@ -2825,14 +2969,6 @@
       "onboard_time": 1745568262,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 37039,
-      "num": 289982,
-      "word": "巴防长发出全面战争警告",
-      "onboard_time": 1745576360,
-      "rank": 13,
-      "category": "国际时政"
     },
     {
       "raw_hot": 36103,

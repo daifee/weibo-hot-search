@@ -1,0 +1,410 @@
+{
+  "runTime": 1745577820910,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1617759,
+        "num": 1617759,
+        "word": "中国取消1.2万吨美国猪肉订单",
+        "onboard_time": 1745570901,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1535202,
+        "num": 1535202,
+        "word": "无忧渡大结局",
+        "onboard_time": 1745575881,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47117,
+        "num": 1063734,
+        "word": "从一季度出行数据感知经济活力",
+        "onboard_time": 1745573422,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 860408,
+        "num": 860408,
+        "word": "华表奖阵容官宣",
+        "onboard_time": 1745576600,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 624881,
+        "num": 624881,
+        "word": "小伙申请改名周天紫薇大帝被驳回",
+        "onboard_time": 1745569160,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 481459,
+        "num": 481459,
+        "word": "儿子悄悄考北大妈妈惊成静止画面",
+        "onboard_time": 1745555782,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 592963,
+        "num": 475602,
+        "word": "张淼怡获金扫帚影后",
+        "onboard_time": 1745567061,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 373296,
+        "num": 373296,
+        "word": "印度成功试射射程70公里导弹",
+        "onboard_time": 1745572401,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 359710,
+        "num": 359710,
+        "word": "肖战指导晒北京奥运国乒合照",
+        "onboard_time": 1745575580,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 356017,
+        "num": 356017,
+        "word": "王一博等将亮相华表奖",
+        "onboard_time": 1745576782,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1010022,
+        "num": 353793,
+        "word": "猿辅导员工猝死前和女友说加完班回",
+        "onboard_time": 1745570361,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 722356,
+        "num": 351089,
+        "word": "一个本科文凭或支撑不了5年",
+        "onboard_time": 1745568561,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 662124,
+        "num": 348836,
+        "word": "京东外卖百亿补贴要求商家承担50%",
+        "onboard_time": 1745577141,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 76183,
+        "num": 347467,
+        "word": "巴防长发出全面战争警告",
+        "onboard_time": 1745576360,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 109107,
+        "num": 344140,
+        "word": "泽连斯基称乌愿和谈就是巨大让步",
+        "onboard_time": 1745576782,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 611019,
+        "num": 341002,
+        "word": "enhypen 卖掉了",
+        "onboard_time": 1745575461,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 477756,
+        "num": 339834,
+        "word": "杨紫蓝色高定裙",
+        "onboard_time": 1745577380,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 74950,
+        "num": 337197,
+        "word": "开箱百万级大沙发",
+        "onboard_time": 1745575821,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 65165,
+        "num": 335360,
+        "word": "上海车展真香现场",
+        "onboard_time": 1745574742,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 59930,
+        "num": 331007,
+        "word": "法院回应南昌锜某某强奸案再引热议",
+        "onboard_time": 1745576660,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 444634,
+        "num": 330434,
+        "word": "迅猛龙考上复旦了",
+        "onboard_time": 1745559563,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 425992,
+        "num": 326812,
+        "word": "氯雷他定",
+        "onboard_time": 1745555662,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 211763,
+        "num": 323451,
+        "word": "无忧渡oe",
+        "onboard_time": 1745577380,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207203,
+        "num": 322430,
+        "word": "EPEX福州演唱会",
+        "onboard_time": 1745576961,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 151155,
+        "num": 319507,
+        "word": "中国电信一季度净利润88.64亿元",
+        "onboard_time": 1745577082,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 117834,
+        "num": 316974,
+        "word": "搬砖9年攒200万男子发声",
+        "onboard_time": 1745570782,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42191,
+        "num": 313420,
+        "word": "古人是如何练习书法的",
+        "onboard_time": 1745577680,
+        "rank": 26,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 38060,
+        "num": 311017,
+        "word": "X200s给五一朋友圈大赛打个样",
+        "onboard_time": 1745574742,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 48540,
+        "num": 307866,
+        "word": "TTG空降WAW团建",
+        "onboard_time": 1745576782,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 65119,
+        "num": 305538,
+        "word": "俄军总参高官死于汽车爆炸",
+        "onboard_time": 1745576900,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 304881,
+        "num": 304881,
+        "word": "国际电影人惊叹易烊千玺演技",
+        "onboard_time": 1745576181,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 269641,
+        "num": 269641,
+        "word": "华表奖表演嘉宾公布",
+        "onboard_time": 1745566522,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 265330,
+        "num": 265330,
+        "word": "无忧渡直播",
+        "onboard_time": 1745574081,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197444,
+        "num": 197444,
+        "word": "朋友圈三天可见 置顶像生死簿那么长",
+        "onboard_time": 1745577680,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185885,
+        "num": 185885,
+        "word": "749局值得",
+        "onboard_time": 1745569160,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 185094,
+        "num": 185094,
+        "word": "张康乐直播",
+        "onboard_time": 1745577261,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177770,
+        "num": 177770,
+        "word": "上海车展被我逛成漫展了",
+        "onboard_time": 1745577501,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 177299,
+        "num": 177299,
+        "word": "华表奖预测",
+        "onboard_time": 1745567302,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151118,
+        "num": 151118,
+        "word": "刘诗诗章若楠孟子义美进一部剧",
+        "onboard_time": 1745570961,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107058,
+        "num": 150047,
+        "word": "中共中央政治局4月25日召开会议",
+        "onboard_time": 1745561301,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 149712,
+        "num": 149712,
+        "word": "杨威妻子被诊断太劳累气血不足",
+        "onboard_time": 1745564001,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144089,
+        "num": 144089,
+        "word": "当年只有王宝强去领金扫帚奖",
+        "onboard_time": 1745568082,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 130106,
+        "num": 130106,
+        "word": "马柏全珠海出发",
+        "onboard_time": 1745576481,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 126432,
+        "num": 126432,
+        "word": "登陆少年封面首秀",
+        "onboard_time": 1745577620,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 119937,
+        "num": 119937,
+        "word": "张真源严浩翔影响不了一点谢娜",
+        "onboard_time": 1745577680,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117491,
+        "num": 117491,
+        "word": "种地吧为宣传农业送郁金香",
+        "onboard_time": 1745577620,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103426,
+        "num": 103426,
+        "word": "包贝尔获金扫帚影帝",
+        "onboard_time": 1745567901,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 95526,
+        "num": 102744,
+        "word": "中方拆穿美方假消息",
+        "onboard_time": 1745577261,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 102415,
+        "num": 102415,
+        "word": "特朗普正在捅一个更大的娄子",
+        "onboard_time": 1745567422,
+        "rank": 48,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 100976,
+        "num": 100976,
+        "word": "李晟高音",
+        "onboard_time": 1745574500,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#逐梦九天不止步#"
+    }
+  }
+}
