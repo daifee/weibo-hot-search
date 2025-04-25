@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/25 18:43:40
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/25 19:21:45
 </p>
 </blockquote>
 <p>
@@ -3567,6 +3567,12 @@ DeepSeek7小时攻克缅甸救灾语言关（热度：1104741）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%B8%89%E5%A4%A9%E5%8F%AF%E8%A7%81%20%E7%BD%AE%E9%A1%B6%E5%83%8F%E7%94%9F%E6%AD%BB%E7%B0%BF%E9%82%A3%E4%B9%88%E9%95%BF%23" target="weibo">
+朋友圈三天可见 置顶像生死簿那么长（热度：1070904）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E8%8B%A5%E7%90%B3%E5%9B%9E%E5%BA%94%E5%85%A8%E7%BA%A2%E5%A9%B5%E7%94%9F%E9%95%BF%E5%8F%91%E8%82%B2%E6%9C%9F%23" target="weibo">
 陈若琳回应全红婵生长发育期（热度：1069363）
 </a>
@@ -3797,6 +3803,12 @@ IU向雪莉金赛纶推荐同一心理医生（热度：1041446）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8A%98%E8%85%B0%E6%B2%A1%E6%92%AD%23" target="weibo">
 折腰没播（热度：1031943）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E8%A1%A8%E5%A5%96%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3%23" target="weibo">
+华表奖阵容官宣（热度：1029363）
 </a>
 </li>
 
@@ -4971,12 +4983,6 @@ SM新男团 撞名（热度：910464）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E8%A1%A8%E5%A5%96%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3%23" target="weibo">
-华表奖阵容官宣（热度：860408）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B9%98%E6%BD%AD%E5%A4%A7%E5%AD%A6%E5%AE%BF%E8%88%8D%E6%8A%95%E6%AF%92%E6%A1%88%E4%B8%80%E5%AE%A1%E5%AE%A3%E5%88%A4%23" target="weibo">
 湘潭大学宿舍投毒案一审宣判（热度：860148）
 </a>
@@ -6005,12 +6011,6 @@ YERI和Wendy离开SM（热度：805847）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%90%8D%E8%A7%82%E4%BC%97%E7%A7%B0%E8%A2%AB%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BA%A7%E6%A4%85%E6%89%8E%E4%BC%A4%23" target="weibo">
 多名观众称被演唱会座椅扎伤（热度：756533）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BA%BA%E4%B9%B01%E4%B8%AA%E9%B8%A1%E8%9B%8B%E8%A6%813.8%E5%85%83%E4%BA%BA%E6%B0%91%E5%B8%81%23" target="weibo">
-美国人买1个鸡蛋要3.8元人民币（热度：755051）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745577820910,
+  "endTime": 1745580105582,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1091,6 +1091,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1070904,
+      "num": 1070904,
+      "word": "朋友圈三天可见 置顶像生死簿那么长",
+      "onboard_time": 1745577680,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1064211,
       "num": 1170273,
       "word": "榜上佳婿 空降",
@@ -1161,6 +1169,14 @@
       "onboard_time": 1745488700,
       "rank": 6,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1029363,
+      "num": 1029363,
+      "word": "华表奖阵容官宣",
+      "onboard_time": 1745576600,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 1027386,
@@ -1456,14 +1472,6 @@
       "word": "哪吒2密钥第3次延期",
       "onboard_time": 1745306902,
       "rank": 9,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 860408,
-      "num": 860408,
-      "word": "华表奖阵容官宣",
-      "onboard_time": 1745576600,
-      "rank": 15,
       "category": "电影"
     },
     {
@@ -1772,7 +1780,7 @@
     },
     {
       "raw_hot": 751851,
-      "num": 341002,
+      "num": 391414,
       "word": "enhypen 卖掉了",
       "onboard_time": 1745575461,
       "rank": 11,
@@ -1825,6 +1833,14 @@
       "onboard_time": 1745492062,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 736436,
+      "num": 736436,
+      "word": "无忧渡oe",
+      "onboard_time": 1745577380,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 733643,
@@ -3100,7 +3116,7 @@
     },
     {
       "raw_hot": 477756,
-      "num": 339834,
+      "num": 387274,
       "word": "杨紫蓝色高定裙",
       "onboard_time": 1745577380,
       "rank": 16,
@@ -3483,6 +3499,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 419580,
+      "num": 419580,
+      "word": "王一博等将亮相华表奖",
+      "onboard_time": 1745576782,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 419448,
       "num": 492180,
       "word": "985硕士求职大厂被拒只因本科双非学历",
@@ -3497,6 +3521,14 @@
       "onboard_time": 1745544200,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 417438,
+      "num": 417438,
+      "word": "京东外卖辟谣补贴要求商家承担50%",
+      "onboard_time": 1745577141,
+      "rank": 12,
+      "category": "互联网"
     },
     {
       "raw_hot": 416684,
@@ -3601,6 +3633,14 @@
       "onboard_time": 1745395643,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 405024,
+      "num": 405024,
+      "word": "徐锦江已向儿子交代后事",
+      "onboard_time": 1745578702,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 404165,
@@ -4052,7 +4092,7 @@
     },
     {
       "raw_hot": 359710,
-      "num": 359710,
+      "num": 379254,
       "word": "肖战指导晒北京奥运国乒合照",
       "onboard_time": 1745575580,
       "rank": 23,
@@ -4113,14 +4153,6 @@
       "onboard_time": 1745570961,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 356017,
-      "num": 356017,
-      "word": "王一博等将亮相华表奖",
-      "onboard_time": 1745576782,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 355935,
@@ -7099,12 +7131,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 211763,
-      "num": 323451,
-      "word": "无忧渡oe",
-      "onboard_time": 1745577380,
-      "rank": 22,
-      "category": "剧集"
+      "raw_hot": 211842,
+      "num": 211842,
+      "word": "今年一季度全国结婚登记181万对",
+      "onboard_time": 1745578221,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 211521,
@@ -7251,6 +7283,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207631,
+      "num": 207631,
+      "word": "登陆少年封面首秀",
+      "onboard_time": 1745577620,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 207501,
+      "num": 207501,
+      "word": "宣夜半夏be",
+      "onboard_time": 1745579962,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207441,
       "num": 207441,
       "word": "张峻豪范思哲大片",
@@ -7321,6 +7369,14 @@
       "onboard_time": 1745379144,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 205324,
+      "num": 205324,
+      "word": "秋衣模特",
+      "onboard_time": 1745579180,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 205030,
@@ -7929,14 +7985,6 @@
       "onboard_time": 1745226862,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 197444,
-      "num": 197444,
-      "word": "朋友圈三天可见 置顶像生死簿那么长",
-      "onboard_time": 1745577680,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 197330,
@@ -8705,6 +8753,14 @@
       "onboard_time": 1745161827,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 187003,
+      "num": 305538,
+      "word": "俄军总参高官死于汽车爆炸",
+      "onboard_time": 1745576900,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 186738,
@@ -10491,6 +10547,14 @@
       "category": "体育,汽车"
     },
     {
+      "raw_hot": 161085,
+      "num": 161085,
+      "word": "杨肸子有仙剑内味了",
+      "onboard_time": 1745577862,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 161060,
       "num": 161060,
       "word": "五五开黑玄学拼星星",
@@ -10953,6 +11017,14 @@
       "onboard_time": 1745412562,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 155691,
+      "num": 155691,
+      "word": "她好像知道自己很可爱啊",
+      "onboard_time": 1745579602,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 155639,
@@ -11443,6 +11515,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 150897,
+      "num": 150897,
+      "word": "终于等到沈月古装剧了",
+      "onboard_time": 1745579781,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150839,
       "num": 150839,
       "word": "心疼宣夜",
@@ -11627,6 +11707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149078,
+      "num": 344140,
+      "word": "泽连斯基称乌愿和谈就是巨大让步",
+      "onboard_time": 1745576782,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 149012,
       "num": 115518,
       "word": "女子沉迷海缸两个月视力骤减100度",
@@ -11681,6 +11769,14 @@
       "onboard_time": 1745199742,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 148398,
+      "num": 148398,
+      "word": "张雪峰回应现在读研的红利还剩多少",
+      "onboard_time": 1745579901,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 148328,
@@ -12179,6 +12275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142648,
+      "num": 142648,
+      "word": "余承恩不把我们当外人",
+      "onboard_time": 1745577921,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 142626,
       "num": 142626,
       "word": "电视剧制作等领域部分放开",
@@ -12329,6 +12433,14 @@
       "onboard_time": 1745214023,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141333,
+      "num": 141333,
+      "word": "周深2年演唱会座位图变化",
+      "onboard_time": 1745579662,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 141016,
@@ -13243,6 +13355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131929,
+      "num": 131929,
+      "word": "中方拆穿美方假消息",
+      "onboard_time": 1745577261,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 131507,
       "num": 131507,
       "word": "光线传媒正在组建游戏公司",
@@ -13611,6 +13731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127765,
+      "num": 127765,
+      "word": "偶遇黄磊孙莉一家四口出游",
+      "onboard_time": 1745579781,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127583,
       "num": 127583,
       "word": "无忧渡 画中世界",
@@ -13681,14 +13809,6 @@
       "onboard_time": 1745404044,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 126432,
-      "num": 126432,
-      "word": "登陆少年封面首秀",
-      "onboard_time": 1745577620,
-      "rank": 43,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 126335,
@@ -14211,6 +14331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119368,
+      "num": 119368,
+      "word": "张檬曾给刘雨欣道歉",
+      "onboard_time": 1745579121,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119055,
       "num": 289690,
       "word": "周鸿祎称5C版小鹏P7+太不讲武德了",
@@ -14444,7 +14572,7 @@
     },
     {
       "raw_hot": 115123,
-      "num": 337197,
+      "num": 387855,
       "word": "开箱百万级大沙发",
       "onboard_time": 1745575821,
       "rank": 17,
@@ -14785,14 +14913,6 @@
       "onboard_time": 1745143703,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 109107,
-      "num": 344140,
-      "word": "泽连斯基称乌愿和谈就是巨大让步",
-      "onboard_time": 1745576782,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 109072,
@@ -15635,14 +15755,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 95526,
-      "num": 102744,
-      "word": "中方拆穿美方假消息",
-      "onboard_time": 1745577261,
-      "rank": 47,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 95398,
       "num": 95398,
       "word": "哈佛大学起诉特朗普政府",
@@ -16235,6 +16347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 82584,
+      "num": 196873,
+      "word": "猿辅导员工目睹同事加班晕倒",
+      "onboard_time": 1745580023,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82427,
       "num": 255966,
       "word": "中概股指数涨幅扩大至5%",
@@ -16473,6 +16593,14 @@
       "onboard_time": 1745459303,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 78960,
+      "num": 393396,
+      "word": "美国开始给自己找台阶了",
+      "onboard_time": 1745579121,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 78845,
@@ -17307,20 +17435,20 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 65645,
+      "num": 432518,
+      "word": "五一热门目的地机票价格七成上涨",
+      "onboard_time": 1745578522,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65200,
       "num": 190768,
       "word": "疑似吉利银河硬派SUV曝光",
       "onboard_time": 1745228060,
       "rank": 37,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 65119,
-      "num": 305538,
-      "word": "俄军总参高官死于汽车爆炸",
-      "onboard_time": 1745576900,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 64622,
@@ -17473,6 +17601,14 @@
       "onboard_time": 1745171117,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 62743,
+      "num": 199151,
+      "word": "T1更换首发ADC",
+      "onboard_time": 1745578702,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 62253,
@@ -18804,7 +18940,7 @@
     },
     {
       "raw_hot": 47117,
-      "num": 1063734,
+      "num": 1074023,
       "word": "从一季度出行数据感知经济活力",
       "onboard_time": 1745573422,
       "rank": 2,
@@ -19131,6 +19267,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 42618,
+      "num": 151457,
+      "word": "中医都能当心理医生了",
+      "onboard_time": 1745578881,
+      "rank": 39,
+      "category": "健康医疗,民生新闻"
+    },
+    {
       "raw_hot": 42602,
       "num": 344005,
       "word": "长期盐摄入过多有什么危害",
@@ -19363,6 +19507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 40037,
+      "num": 202091,
+      "word": "Gumayusi再度首发",
+      "onboard_time": 1745579001,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 39852,
       "num": 39852,
       "word": "全红婵陈芋汐这一幕让人心疼又温暖",
@@ -19393,6 +19545,14 @@
       "onboard_time": 1745168240,
       "rank": 28,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 39382,
+      "num": 420096,
+      "word": "外交部重申中美未就关税磋商谈判",
+      "onboard_time": 1745579421,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 39301,
@@ -19433,6 +19593,14 @@
       "onboard_time": 1745385024,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39004,
+      "num": 167277,
+      "word": "印象最深的国羽苏杯瞬间",
+      "onboard_time": 1745578942,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 38981,
@@ -20041,6 +20209,14 @@
       "onboard_time": 1745505024,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 30317,
+      "num": 376333,
+      "word": "随手盗录哪吒的这伙人被抓到了",
+      "onboard_time": 1745579242,
+      "rank": 19,
+      "category": "民生新闻,电影"
     },
     {
       "raw_hot": 30214,
@@ -22377,6 +22553,14 @@
       "onboard_time": 1745148802,
       "rank": 39,
       "category": "国际时政,民生新闻"
+    },
+    {
+      "raw_hot": 7143,
+      "num": 153214,
+      "word": "金扫帚奖能否让演员正视问题",
+      "onboard_time": 1745580082,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 7124,

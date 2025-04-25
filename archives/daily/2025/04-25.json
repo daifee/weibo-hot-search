@@ -1,6 +1,6 @@
 {
   "startTime": 1745512289618,
-  "endTime": 1745577820910,
+  "endTime": 1745580105582,
   "band_list": [
     {
       "raw_hot": 2560355,
@@ -123,11 +123,27 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1070904,
+      "num": 1070904,
+      "word": "朋友圈三天可见 置顶像生死簿那么长",
+      "onboard_time": 1745577680,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1063790,
       "num": 1063790,
       "word": "张淼怡获金扫帚影后",
       "onboard_time": 1745567061,
       "rank": 1,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 1029363,
+      "num": 1029363,
+      "word": "华表奖阵容官宣",
+      "onboard_time": 1745576600,
+      "rank": 15,
       "category": "电影"
     },
     {
@@ -171,14 +187,6 @@
       "category": "国际时政,民生新闻"
     },
     {
-      "raw_hot": 860408,
-      "num": 860408,
-      "word": "华表奖阵容官宣",
-      "onboard_time": 1745576600,
-      "rank": 15,
-      "category": "电影"
-    },
-    {
       "raw_hot": 837900,
       "num": 837900,
       "word": "金扫帚",
@@ -204,7 +212,7 @@
     },
     {
       "raw_hot": 751851,
-      "num": 341002,
+      "num": 391414,
       "word": "enhypen 卖掉了",
       "onboard_time": 1745575461,
       "rank": 11,
@@ -224,6 +232,14 @@
       "word": "曹骏出场",
       "onboard_time": 1745541383,
       "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 736436,
+      "num": 736436,
+      "word": "无忧渡oe",
+      "onboard_time": 1745577380,
+      "rank": 22,
       "category": "剧集"
     },
     {
@@ -356,7 +372,7 @@
     },
     {
       "raw_hot": 477756,
-      "num": 339834,
+      "num": 387274,
       "word": "杨紫蓝色高定裙",
       "onboard_time": 1745577380,
       "rank": 16,
@@ -411,12 +427,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 419580,
+      "num": 419580,
+      "word": "王一博等将亮相华表奖",
+      "onboard_time": 1745576782,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 417440,
       "num": 268220,
       "word": "肖战上海",
       "onboard_time": 1745544200,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 417438,
+      "num": 417438,
+      "word": "京东外卖辟谣补贴要求商家承担50%",
+      "onboard_time": 1745577141,
+      "rank": 12,
+      "category": "互联网"
     },
     {
       "raw_hot": 411387,
@@ -448,6 +480,14 @@
       "word": "杨威妻子被诊断太劳累气血不足",
       "onboard_time": 1745564001,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 405024,
+      "num": 405024,
+      "word": "徐锦江已向儿子交代后事",
+      "onboard_time": 1745578702,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -532,7 +572,7 @@
     },
     {
       "raw_hot": 359710,
-      "num": 359710,
+      "num": 379254,
       "word": "肖战指导晒北京奥运国乒合照",
       "onboard_time": 1745575580,
       "rank": 23,
@@ -545,14 +585,6 @@
       "onboard_time": 1745570961,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 356017,
-      "num": 356017,
-      "word": "王一博等将亮相华表奖",
-      "onboard_time": 1745576782,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 354986,
@@ -1003,12 +1035,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 211763,
-      "num": 323451,
-      "word": "无忧渡oe",
-      "onboard_time": 1745577380,
-      "rank": 22,
-      "category": "剧集"
+      "raw_hot": 211842,
+      "num": 211842,
+      "word": "今年一季度全国结婚登记181万对",
+      "onboard_time": 1745578221,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 211514,
@@ -1035,6 +1067,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207631,
+      "num": 207631,
+      "word": "登陆少年封面首秀",
+      "onboard_time": 1745577620,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 207501,
+      "num": 207501,
+      "word": "宣夜半夏be",
+      "onboard_time": 1745579962,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207203,
       "num": 322430,
       "word": "EPEX福州演唱会",
@@ -1049,6 +1097,14 @@
       "onboard_time": 1745547981,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205324,
+      "num": 205324,
+      "word": "秋衣模特",
+      "onboard_time": 1745579180,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 203826,
@@ -1107,14 +1163,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 197444,
-      "num": 197444,
-      "word": "朋友圈三天可见 置顶像生死簿那么长",
-      "onboard_time": 1745577680,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 196960,
       "num": 167701,
       "word": "唐国强上优酷节目感谢哔哩哔哩",
@@ -1169,6 +1217,14 @@
       "onboard_time": 1745549541,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187003,
+      "num": 305538,
+      "word": "俄军总参高官死于汽车爆炸",
+      "onboard_time": 1745576900,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 185094,
@@ -1403,6 +1459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161085,
+      "num": 161085,
+      "word": "杨肸子有仙剑内味了",
+      "onboard_time": 1745577862,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 159754,
       "num": 166648,
       "word": "侯佩岑 神女爱世人",
@@ -1449,6 +1513,14 @@
       "onboard_time": 1745562381,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155691,
+      "num": 155691,
+      "word": "她好像知道自己很可爱啊",
+      "onboard_time": 1745579602,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 155322,
@@ -1499,6 +1571,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 150897,
+      "num": 150897,
+      "word": "终于等到沈月古装剧了",
+      "onboard_time": 1745579781,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150488,
       "num": 190677,
       "word": "北京国际电影节闭幕式阵容官宣",
@@ -1531,12 +1611,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 149078,
+      "num": 344140,
+      "word": "泽连斯基称乌愿和谈就是巨大让步",
+      "onboard_time": 1745576782,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 148610,
       "num": 148610,
       "word": "景区回应现罕见太极阴阳鱼",
       "onboard_time": 1745540362,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148398,
+      "num": 148398,
+      "word": "张雪峰回应现在读研的红利还剩多少",
+      "onboard_time": 1745579901,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 147272,
@@ -1627,6 +1723,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 142648,
+      "num": 142648,
+      "word": "余承恩不把我们当外人",
+      "onboard_time": 1745577921,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 142347,
       "num": 264870,
       "word": "火锅险淋小孩老板强忍烫伤不松手",
@@ -1649,6 +1753,14 @@
       "onboard_time": 1745558062,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141333,
+      "num": 141333,
+      "word": "周深2年演唱会座位图变化",
+      "onboard_time": 1745579662,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 140886,
@@ -1803,6 +1915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131929,
+      "num": 131929,
+      "word": "中方拆穿美方假消息",
+      "onboard_time": 1745577261,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 130815,
       "num": 130815,
       "word": "40件小事快速缓解焦虑",
@@ -1859,20 +1979,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 127765,
+      "num": 127765,
+      "word": "偶遇黄磊孙莉一家四口出游",
+      "onboard_time": 1745579781,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126523,
       "num": 126523,
       "word": "美防长称中国20分钟可摧毁美所有航母",
       "onboard_time": 1745556862,
       "rank": 48,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 126432,
-      "num": 126432,
-      "word": "登陆少年封面首秀",
-      "onboard_time": 1745577620,
-      "rank": 43,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 126259,
@@ -2003,6 +2123,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 119368,
+      "num": 119368,
+      "word": "张檬曾给刘雨欣道歉",
+      "onboard_time": 1745579121,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118775,
       "num": 118775,
       "word": "你甚至可以在网上学出马",
@@ -2052,7 +2180,7 @@
     },
     {
       "raw_hot": 115123,
-      "num": 337197,
+      "num": 387855,
       "word": "开箱百万级大沙发",
       "onboard_time": 1745575821,
       "rank": 17,
@@ -2129,14 +2257,6 @@
       "onboard_time": 1745571801,
       "rank": 47,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 109107,
-      "num": 344140,
-      "word": "泽连斯基称乌愿和谈就是巨大让步",
-      "onboard_time": 1745576782,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 107842,
@@ -2259,14 +2379,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 95526,
-      "num": 102744,
-      "word": "中方拆穿美方假消息",
-      "onboard_time": 1745577261,
-      "rank": 47,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 94567,
       "num": 203099,
       "word": "苹果换vivoX200s最高补贴1800元",
@@ -2371,6 +2483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 82584,
+      "num": 196873,
+      "word": "猿辅导员工目睹同事加班晕倒",
+      "onboard_time": 1745580023,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82564,
       "num": 82564,
       "word": "无忧渡热度",
@@ -2417,6 +2537,14 @@
       "onboard_time": 1745546481,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78960,
+      "num": 393396,
+      "word": "美国开始给自己找台阶了",
+      "onboard_time": 1745579121,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 77121,
@@ -2603,12 +2731,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 65119,
-      "num": 305538,
-      "word": "俄军总参高官死于汽车爆炸",
-      "onboard_time": 1745576900,
-      "rank": 29,
-      "category": "国际时政"
+      "raw_hot": 65645,
+      "num": 432518,
+      "word": "五一热门目的地机票价格七成上涨",
+      "onboard_time": 1745578522,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64761,
@@ -2641,6 +2769,14 @@
       "onboard_time": 1745562802,
       "rank": 37,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 62743,
+      "num": 199151,
+      "word": "T1更换首发ADC",
+      "onboard_time": 1745578702,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 62078,
@@ -2828,7 +2964,7 @@
     },
     {
       "raw_hot": 47117,
-      "num": 1063734,
+      "num": 1074023,
       "word": "从一季度出行数据感知经济活力",
       "onboard_time": 1745573422,
       "rank": 2,
@@ -2915,6 +3051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 42618,
+      "num": 151457,
+      "word": "中医都能当心理医生了",
+      "onboard_time": 1745578881,
+      "rank": 39,
+      "category": "健康医疗,民生新闻"
+    },
+    {
       "raw_hot": 42191,
       "num": 313420,
       "word": "古人是如何练习书法的",
@@ -2939,12 +3083,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40037,
+      "num": 202091,
+      "word": "Gumayusi再度首发",
+      "onboard_time": 1745579001,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 39809,
       "num": 96744,
       "word": "美国农场主犹豫还种不种大豆",
       "onboard_time": 1745515276,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 39382,
+      "num": 420096,
+      "word": "外交部重申中美未就关税磋商谈判",
+      "onboard_time": 1745579421,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 39004,
+      "num": 167277,
+      "word": "印象最深的国羽苏杯瞬间",
+      "onboard_time": 1745578942,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 38028,
@@ -3065,6 +3233,14 @@
       "onboard_time": 1745552421,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 30317,
+      "num": 376333,
+      "word": "随手盗录哪吒的这伙人被抓到了",
+      "onboard_time": 1745579242,
+      "rank": 19,
+      "category": "民生新闻,电影"
     },
     {
       "raw_hot": 30028,
@@ -3393,6 +3569,14 @@
       "onboard_time": 1745563401,
       "rank": 36,
       "category": "国内时政,民生新闻"
+    },
+    {
+      "raw_hot": 7143,
+      "num": 153214,
+      "word": "金扫帚奖能否让演员正视问题",
+      "onboard_time": 1745580082,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 6941,
