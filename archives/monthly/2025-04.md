@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/25 23:40:19
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/26 00:30:35
 </p>
 </blockquote>
 <p>
@@ -257,6 +257,12 @@ zmjjkk发博（热度：3336228）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E6%9B%9D%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E8%BD%A6%E4%B8%BB%E9%A9%BE%E9%A9%B6%E4%B8%AD%E7%9D%A1%E7%9D%80%23" target="weibo">
 网友曝小米汽车车主驾驶中睡着（热度：3284922）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E7%9B%B4%E6%92%AD%E7%AA%81%E7%84%B6%E8%A2%AB%E5%B0%81%23" target="weibo">
+蔡徐坤直播突然被封（热度：3158782）
 </a>
 </li>
 
@@ -2925,6 +2931,12 @@ VaVa 灰原哀（热度：1212430）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%8F%B2%E5%8E%BB%E4%BA%86%E8%B0%A2%E9%9C%86%E9%94%8B%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
+王菲去了谢霆锋演唱会（热度：1190635）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%A2%E5%9C%A8%E5%AF%BA%E5%BA%99%E4%B8%BA%E5%9B%9A%E7%8A%AF%E6%85%B0%E9%97%AE%E6%BC%94%E5%87%BA%23" target="weibo">
 韩团在寺庙为囚犯慰问演出（热度：1190029）
 </a>
@@ -3915,12 +3927,6 @@ IU向雪莉金赛纶推荐同一心理医生（热度：1041446）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%8F%B2%E5%8E%BB%E4%BA%86%E8%B0%A2%E9%9C%86%E9%94%8B%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
-王菲去了谢霆锋演唱会（热度：1015707）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E5%BF%A7%E6%B8%A1%20%E9%81%97%E6%86%BE%23" target="weibo">
 无忧渡 遗憾（热度：1014123）
 </a>
@@ -4061,6 +4067,12 @@ IU向雪莉金赛纶推荐同一心理医生（热度：1041446）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E6%98%93Q%E9%9F%B3%E4%B9%90%23" target="weibo">
 网易Q音乐（热度：992117）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E9%9B%A8%E6%AC%A3%E5%9B%9E%E5%BA%94%23" target="weibo">
+刘雨欣回应（热度：989656）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ YERI和Wendy离开SM（热度：805847）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E6%9C%89%E5%89%A7%E6%8B%8D%E4%BA%86%E5%A4%A7%E5%AD%A6%E6%81%8B%E7%88%B1%E7%9A%84%E7%BB%8F%E6%B5%8E%E5%B7%AE%23" target="weibo">
 终于有剧拍了大学恋爱的经济差（热度：764097）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%91%B6%E4%B8%80%E7%91%B6%E5%B0%8F%E8%82%89%E5%8C%85%E4%B8%A4%E4%B8%AA%E5%A4%9A%E6%9C%88%E6%8E%89%E7%B2%8933%E4%B8%87%23" target="weibo">
-瑶一瑶小肉包两个多月掉粉33万（热度：763660）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%238%E4%B8%AA%E6%9C%88%E5%A5%B3%E5%A9%B4%E8%A2%AB%E8%99%90%E5%BE%85%E4%BD%93%E9%87%8D%E4%BB%856%E6%96%A4%23" target="weibo">
-8个月女婴被虐待体重仅6斤（热度：760924）
 </a>
 </li>
 

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/04/25 23:40:19
+本榜单时间：2025/01/01 00:26:38 ~ 2025/04/26 00:30:35
 </p>
 </blockquote>
 <p>
@@ -1587,6 +1587,12 @@ zmjjkk发博（热度：3336228）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E7%9B%B4%E6%92%AD%E7%AA%81%E7%84%B6%E8%A2%AB%E5%B0%81%23" target="weibo">
+蔡徐坤直播突然被封（热度：3158782）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AF%BC%E6%BC%94%E7%BB%84%E5%9B%9E%E5%BA%94%E6%B2%88%E8%85%BE%E9%A9%AC%E4%B8%BD%E5%B0%8F%E5%93%81%E6%B2%A1%E6%BC%94%E5%AE%8C%23" target="weibo">
 导演组回应沈腾马丽小品没演完（热度：3152316）
 </a>
@@ -1805,12 +1811,6 @@ DeepSeek（热度：3038517）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23145%25%E5%85%B3%E7%A8%8E%E8%AE%A91%E5%8F%AA%E7%86%8A%E7%8C%AB%E7%8E%A9%E5%81%B6%E5%8D%9680%E7%BE%8E%E5%85%83%23" target="weibo">
 145%关税让1只熊猫玩偶卖80美元（热度：3004197）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%BA%BA%E8%A1%8C%20%E6%9D%8E%E6%98%8E%E5%BE%B7%23" target="weibo">
-三人行 李明德（热度：2996452）
 </a>
 </li>
 

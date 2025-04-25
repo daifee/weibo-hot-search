@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745595619541,
+  "endTime": 1745598635164,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -105,6 +105,14 @@
       "onboard_time": 1745321421,
       "rank": 32,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 3158782,
+      "num": 259318,
+      "word": "蔡徐坤直播突然被封",
+      "onboard_time": 1745596762,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 3121027,
@@ -891,6 +899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1190635,
+      "num": 1190635,
+      "word": "王菲去了谢霆锋演唱会",
+      "onboard_time": 1745595501,
+      "rank": 4,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1188286,
       "num": 1188286,
       "word": "马龙谈刘国梁辞职",
@@ -1243,14 +1259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1015707,
-      "num": 542597,
-      "word": "王菲去了谢霆锋演唱会",
-      "onboard_time": 1745595501,
-      "rank": 4,
-      "category": "演出"
-    },
-    {
       "raw_hot": 1014123,
       "num": 813945,
       "word": "无忧渡 遗憾",
@@ -1297,6 +1305,14 @@
       "onboard_time": 1745332822,
       "rank": 39,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 989656,
+      "num": 308914,
+      "word": "刘雨欣回应",
+      "onboard_time": 1745595501,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 986502,
@@ -3043,6 +3059,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 504075,
+      "num": 297269,
+      "word": "任嘉伦宋祖儿 接二搭",
+      "onboard_time": 1745595501,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 504021,
       "num": 504021,
       "word": "孙颖莎回应世界杯卫冕",
@@ -3092,7 +3116,7 @@
     },
     {
       "raw_hot": 498869,
-      "num": 249014,
+      "num": 252313,
       "word": "韩安冉曝与婆婆聊天记录",
       "onboard_time": 1745594121,
       "rank": 22,
@@ -3271,6 +3295,14 @@
       "num": 474220,
       "word": "北京地铁挺身而出的女孩父母发声",
       "onboard_time": 1745303123,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 474108,
+      "num": 254761,
+      "word": "太原一美人鱼表演者表演时疑溺水",
+      "onboard_time": 1745596402,
       "rank": 14,
       "category": "民生新闻"
     },
@@ -3595,6 +3627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 430971,
+      "num": 254471,
+      "word": "35岁女子月入五万北漂十几年只攒下十万",
+      "onboard_time": 1745598261,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 428217,
       "num": 428217,
       "word": "金靖镜头里的迪丽热巴",
@@ -3617,6 +3657,14 @@
       "onboard_time": 1745483721,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 425918,
+      "num": 253422,
+      "word": "蔡徐坤状态",
+      "onboard_time": 1745595562,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 425556,
@@ -5051,14 +5099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 308914,
-      "num": 308914,
-      "word": "刘雨欣回应",
-      "onboard_time": 1745595501,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 308142,
       "num": 308142,
       "word": "中国已停止接收波音飞机",
@@ -5233,6 +5273,14 @@
       "onboard_time": 1745223082,
       "rank": 8,
       "category": "财经"
+    },
+    {
+      "raw_hot": 300372,
+      "num": 249096,
+      "word": "你以为很长胖实际很健康的食物",
+      "onboard_time": 1745594963,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 300177,
@@ -5569,14 +5617,6 @@
       "onboard_time": 1745123843,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 282498,
-      "num": 249964,
-      "word": "蔡徐坤状态",
-      "onboard_time": 1745595562,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 282247,
@@ -6297,6 +6337,14 @@
       "onboard_time": 1745161350,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 248107,
+      "num": 248107,
+      "word": "海上神女鞠婧祎",
+      "onboard_time": 1745596163,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 247529,
@@ -7339,6 +7387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 214543,
+      "num": 260410,
+      "word": "央视曝光剧本式直播诈骗套路",
+      "onboard_time": 1745595262,
+      "rank": 31,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 214499,
       "num": 214499,
       "word": "光遇复刻",
@@ -8083,14 +8139,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 200267,
-      "num": 200267,
-      "word": "任嘉伦宋祖儿 接二搭",
-      "onboard_time": 1745595501,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 200139,
       "num": 351068,
       "word": "刘诗诗新剧拍出淮竹的只此青绿",
@@ -8361,6 +8409,14 @@
       "onboard_time": 1745226862,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 197412,
+      "num": 197412,
+      "word": "妻子翻丈夫手机抓出轨证据获法院采信",
+      "onboard_time": 1745594783,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 197397,
@@ -11899,14 +11955,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 152787,
-      "num": 152787,
-      "word": "你以为很长胖实际很健康的食物",
-      "onboard_time": 1745594963,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 152615,
       "num": 152615,
       "word": "李昀锐冰湖重生是最热闹的杀青",
@@ -11953,6 +12001,14 @@
       "onboard_time": 1745331623,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 152064,
+      "num": 152064,
+      "word": "念无双中疑有加拿大一枝黄花入镜",
+      "onboard_time": 1745598441,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 151981,
@@ -13123,6 +13179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140026,
+      "num": 140026,
+      "word": "曹俊演技",
+      "onboard_time": 1745597841,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140025,
       "num": 357738,
       "word": "金饰克价又大涨15元",
@@ -13176,6 +13240,14 @@
       "word": "雷公要求人贩子赔6元公开忏悔道歉",
       "onboard_time": 1745413101,
       "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139585,
+      "num": 139585,
+      "word": "建议你积极拥抱线下生活",
+      "onboard_time": 1745596762,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -14281,6 +14353,14 @@
       "onboard_time": 1745508862,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128946,
+      "num": 128946,
+      "word": "久酷说会回去好好复盘",
+      "onboard_time": 1745598141,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 128869,
@@ -15939,6 +16019,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 105036,
+      "num": 105036,
+      "word": "任嘉伦说再见了半夏",
+      "onboard_time": 1745597063,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 104904,
       "num": 104904,
       "word": "爱奇艺推出跳看功能",
@@ -16121,6 +16209,14 @@
       "onboard_time": 1745473221,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101716,
+      "num": 101716,
+      "word": "网友劝36岁女子不要为结婚而结婚",
+      "onboard_time": 1745597063,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101480,
@@ -16827,6 +16923,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 90396,
+      "num": 90396,
+      "word": "方励谈选择王俊凯的原因",
+      "onboard_time": 1745596041,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 90279,
       "num": 90279,
       "word": "2025KPL春季赛",
@@ -17321,6 +17425,14 @@
       "onboard_time": 1745214322,
       "rank": 40,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 79512,
+      "num": 79512,
+      "word": "巅峰对决",
+      "onboard_time": 1745595622,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 79430,
@@ -20499,14 +20611,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 38337,
-      "num": 170686,
-      "word": "央视曝光剧本式直播诈骗套路",
-      "onboard_time": 1745595262,
-      "rank": 31,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 38330,
       "num": 175768,
       "word": "全美多地爆发抗议活动",
@@ -21064,6 +21168,14 @@
       "word": "何以中国走进福建",
       "onboard_time": 1745141063,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30736,
+      "num": 258840,
+      "word": "古人的春游plog太惊艳",
+      "onboard_time": 1745598201,
+      "rank": 11,
       "category": "民生新闻"
     },
     {

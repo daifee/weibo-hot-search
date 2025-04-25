@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1745595619541,
+  "endTime": 1745598635164,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -2099,6 +2099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 3158782,
+      "num": 259318,
+      "word": "蔡徐坤直播突然被封",
+      "onboard_time": 1745596762,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3152316,
       "num": 3152316,
       "word": "导演组回应沈腾马丽小品没演完",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1744537883,
       "rank": 0,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 2996452,
-      "num": 2996452,
-      "word": "三人行 李明德",
-      "onboard_time": 1735988782,
-      "rank": 28,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [
