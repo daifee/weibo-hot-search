@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/04/26 00:30:35
+本榜单时间：2025/01/01 00:26:38 ~ 2025/04/26 00:46:23
 </p>
 </blockquote>
 <p>
@@ -1371,6 +1371,12 @@ bnd粉丝去世（热度：4621424）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E7%9B%B4%E6%92%AD%E7%AA%81%E7%84%B6%E8%A2%AB%E5%B0%81%23" target="weibo">
+蔡徐坤直播突然被封（热度：3420165）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%9B%9F%E9%BE%99%E8%A1%8C%E5%8A%A8%E6%92%A4%E6%A1%A3%23" target="weibo">
 蛟龙行动撤档（热度：3406269）
 </a>
@@ -1583,12 +1589,6 @@ zmjjkk发博（热度：3336228）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%96%91%E5%9B%A0%E8%A2%AB%E6%8B%94%E9%94%99%E7%89%99%E5%90%8E%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1%23" target="weibo">
 女子疑因被拔错牙后坠楼身亡（热度：3159189）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E7%9B%B4%E6%92%AD%E7%AA%81%E7%84%B6%E8%A2%AB%E5%B0%81%23" target="weibo">
-蔡徐坤直播突然被封（热度：3158782）
 </a>
 </li>
 

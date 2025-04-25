@@ -1,9 +1,9 @@
 {
   "startTime": 1745598635164,
-  "endTime": 1745598635164,
+  "endTime": 1745599583830,
   "band_list": [
     {
-      "raw_hot": 3158782,
+      "raw_hot": 3420165,
       "num": 259318,
       "word": "蔡徐坤直播突然被封",
       "onboard_time": 1745596762,
@@ -27,6 +27,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 836319,
+      "num": 254471,
+      "word": "35岁女子月入五万北漂十几年只攒下十万",
+      "onboard_time": 1745598261,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 799208,
       "num": 313441,
       "word": "朋友圈三天可见 置顶像生死簿那么长",
@@ -40,6 +48,14 @@
       "word": "复旦回应拟录取600万粉丝网红",
       "onboard_time": 1745580502,
       "rank": 4,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 566183,
+      "num": 252313,
+      "word": "韩安冉曝与婆婆聊天记录",
+      "onboard_time": 1745594121,
+      "rank": 17,
       "category": "网红"
     },
     {
@@ -67,14 +83,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 430971,
-      "num": 254471,
-      "word": "35岁女子月入五万北漂十几年只攒下十万",
-      "onboard_time": 1745598261,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 425918,
       "num": 253422,
       "word": "蔡徐坤状态",
@@ -89,14 +97,6 @@
       "onboard_time": 1745570901,
       "rank": 1,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 389306,
-      "num": 252313,
-      "word": "韩安冉曝与婆婆聊天记录",
-      "onboard_time": 1745594121,
-      "rank": 17,
-      "category": "网红"
     },
     {
       "raw_hot": 326734,
@@ -155,8 +155,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 214543,
-      "num": 260410,
+      "raw_hot": 229231,
+      "num": 272496,
       "word": "央视曝光剧本式直播诈骗套路",
       "onboard_time": 1745595262,
       "rank": 9,
@@ -179,6 +179,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 171102,
+      "num": 171102,
+      "word": "念无双中疑有加拿大一枝黄花入镜",
+      "onboard_time": 1745598441,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 168896,
+      "num": 168896,
+      "word": "曹俊演技",
+      "onboard_time": 1745597841,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158703,
       "num": 158703,
       "word": "杨紫给主持人打伞",
@@ -195,44 +211,28 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 152064,
-      "num": 152064,
-      "word": "念无双中疑有加拿大一枝黄花入镜",
-      "onboard_time": 1745598441,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 147126,
-      "num": 147126,
+      "num": 148928,
       "word": "纽约市民凌晨排两条街长队买中国相机",
       "onboard_time": 1745592384,
       "rank": 26,
       "category": "海外新闻"
     },
     {
-      "raw_hot": 140566,
-      "num": 140566,
-      "word": "王一博等将亮相华表奖",
-      "onboard_time": 1745576782,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 140026,
-      "num": 140026,
-      "word": "曹俊演技",
-      "onboard_time": 1745597841,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 139585,
-      "num": 139585,
+      "raw_hot": 144989,
+      "num": 176892,
       "word": "建议你积极拥抱线下生活",
       "onboard_time": 1745596762,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140566,
+      "num": 149139,
+      "word": "王一博等将亮相华表奖",
+      "onboard_time": 1745576782,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 136785,
@@ -243,12 +243,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 128946,
-      "num": 128946,
+      "raw_hot": 130657,
+      "num": 130657,
       "word": "久酷说会回去好好复盘",
       "onboard_time": 1745598141,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 130033,
+      "num": 130033,
+      "word": "网友劝36岁女子不要为结婚而结婚",
+      "onboard_time": 1745597063,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126597,
@@ -299,14 +307,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 101716,
-      "num": 101716,
-      "word": "网友劝36岁女子不要为结婚而结婚",
-      "onboard_time": 1745597063,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 93600,
       "num": 93600,
       "word": "华表奖阵容官宣",
@@ -337,6 +337,14 @@
       "onboard_time": 1745593283,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 84287,
+      "num": 175828,
+      "word": "小小的我为什么全网无路透照",
+      "onboard_time": 1745599221,
+      "rank": 20,
+      "category": "电影"
     },
     {
       "raw_hot": 82790,
@@ -380,11 +388,35 @@
     },
     {
       "raw_hot": 74106,
-      "num": 315899,
+      "num": 333463,
       "word": "以旧换新带动销售额超7200亿",
       "onboard_time": 1745587342,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66583,
+      "num": 66583,
+      "word": "EXO成员KAI开通微博",
+      "onboard_time": 1745589562,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 63685,
+      "num": 63685,
+      "word": "你可能一直忌口错了",
+      "onboard_time": 1745597182,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 47272,
+      "num": 174371,
+      "word": "美式烤肉店称库存耗尽后改用澳牛",
+      "onboard_time": 1745599339,
+      "rank": 23,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 41474,

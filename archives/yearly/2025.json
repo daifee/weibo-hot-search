@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1745598635164,
+  "endTime": 1745599583830,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1811,6 +1811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3420165,
+      "num": 259318,
+      "word": "蔡徐坤直播突然被封",
+      "onboard_time": 1745596762,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3406269,
       "num": 3406269,
       "word": "蛟龙行动撤档",
@@ -2097,14 +2105,6 @@
       "onboard_time": 1742374762,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 3158782,
-      "num": 259318,
-      "word": "蔡徐坤直播突然被封",
-      "onboard_time": 1745596762,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 3152316,
