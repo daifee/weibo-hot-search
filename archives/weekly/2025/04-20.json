@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745609770096,
+  "endTime": 1745612856888,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -22051,6 +22051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22307,
+      "num": 22307,
+      "word": "蔡徐坤狼尾卷毛",
+      "onboard_time": 1745611815,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 22303,
       "num": 22303,
       "word": "惠英红 红糖外婆",
@@ -23769,6 +23777,14 @@
       "onboard_time": 1745586143,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 6734,
+      "num": 15678,
+      "word": "潮汐树大自然的神奇画作",
+      "onboard_time": 1745612353,
+      "rank": 39,
+      "category": "科学科普,民生新闻"
     },
     {
       "raw_hot": 6230,
