@@ -1,0 +1,410 @@
+{
+  "runTime": 1745547432307,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 557412,
+        "num": 1089186,
+        "word": "曹骏出场",
+        "onboard_time": 1745541383,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1612989,
+        "num": 1046380,
+        "word": "猿辅导老师猝死家属发声",
+        "onboard_time": 1745544200,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60117,
+        "num": 704501,
+        "word": "第一视角看神20发射多震撼",
+        "onboard_time": 1745501842,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 374198,
+        "num": 374198,
+        "word": "新疆下井救人00后女辅警破格晋升",
+        "onboard_time": 1745536519,
+        "rank": 3,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 821719,
+        "num": 371275,
+        "word": "姐姐回应男子被打20个月后死亡",
+        "onboard_time": 1745542702,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1237207,
+        "num": 369656,
+        "word": "黄子韬卫生巾公司招聘大专起投",
+        "onboard_time": 1745544501,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 497315,
+        "num": 366978,
+        "word": "网红彩虹夫妇宣布停播",
+        "onboard_time": 1745538200,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 318522,
+        "num": 318522,
+        "word": "美官员承认误判中方反应",
+        "onboard_time": 1745538981,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 273825,
+        "num": 273825,
+        "word": "特朗普称美国若不买加拿大将不存在",
+        "onboard_time": 1745536579,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 262263,
+        "num": 263660,
+        "word": "猿辅导前员工称1人带400个学生",
+        "onboard_time": 1745545821,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 363202,
+        "num": 263617,
+        "word": "肖战上海",
+        "onboard_time": 1745544200,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 275998,
+        "num": 263575,
+        "word": "阿里纳斯儿子严重车祸",
+        "onboard_time": 1745542522,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 263523,
+        "num": 263523,
+        "word": "中国航天6次太空会师666",
+        "onboard_time": 1745545821,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 243251,
+        "num": 243251,
+        "word": "成本9元素颜霜标38元卖出500多万",
+        "onboard_time": 1745511440,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230439,
+        "num": 230439,
+        "word": "种地吧和十个勤天的成功很难被复制",
+        "onboard_time": 1745542582,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219249,
+        "num": 219249,
+        "word": "榜上佳婿 空降",
+        "onboard_time": 1745504603,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217483,
+        "num": 217483,
+        "word": "人体是怎样一步步走向糖尿病的",
+        "onboard_time": 1745538381,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 166718,
+        "num": 166718,
+        "word": "她一个月做了我一辈子的工作",
+        "onboard_time": 1745538080,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155357,
+        "num": 155357,
+        "word": "提前看到了折腰剧宣的混乱场景",
+        "onboard_time": 1745545460,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69441,
+        "num": 154862,
+        "word": "于适工作室发文",
+        "onboard_time": 1745546900,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269403,
+        "num": 154166,
+        "word": "金条供不应求",
+        "onboard_time": 1745542582,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 235561,
+        "num": 153562,
+        "word": "张继科夸马琳不是人是神",
+        "onboard_time": 1745544620,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148555,
+        "num": 152409,
+        "word": "特朗普宣布关税后支持率骤降",
+        "onboard_time": 1745513597,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 151848,
+        "num": 151848,
+        "word": "昆明的花太考验个人素质了",
+        "onboard_time": 1745544020,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143452,
+        "num": 143452,
+        "word": "打开王者荣耀跟进了miniso似的",
+        "onboard_time": 1745540122,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143137,
+        "num": 143137,
+        "word": "逆水寒",
+        "onboard_time": 1745546600,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135644,
+        "num": 135644,
+        "word": "不粘锅出现这些情况千万别用",
+        "onboard_time": 1745546300,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132211,
+        "num": 132211,
+        "word": "抢labubu",
+        "onboard_time": 1745505382,
+        "rank": 27,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 130425,
+        "num": 130425,
+        "word": "老外说是朱一龙的bigfan",
+        "onboard_time": 1745546719,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 120903,
+        "num": 129703,
+        "word": "程潇打游戏杀疯了",
+        "onboard_time": 1745546600,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131073,
+        "num": 129611,
+        "word": "神二十与空间站完成对接",
+        "onboard_time": 1745510179,
+        "rank": 30,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 129518,
+        "num": 129518,
+        "word": "BLG 换打野",
+        "onboard_time": 1745540240,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 129113,
+        "num": 129113,
+        "word": "公司财务每天背大包的原因",
+        "onboard_time": 1745546241,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 68867,
+        "num": 122296,
+        "word": "女孩发现被人尾随跑进便利店求助",
+        "onboard_time": 1745545580,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120957,
+        "num": 120957,
+        "word": "小米YU7上市时间并未改变",
+        "onboard_time": 1745543961,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 79067,
+        "num": 118012,
+        "word": "尼克斯vs活塞",
+        "onboard_time": 1745546481,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117368,
+        "num": 117368,
+        "word": "我当了明星就这样",
+        "onboard_time": 1745510360,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112208,
+        "num": 112208,
+        "word": "景区回应现罕见太极阴阳鱼",
+        "onboard_time": 1745540362,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111936,
+        "num": 111936,
+        "word": "属于春天的100个美景",
+        "onboard_time": 1745546719,
+        "rank": 38,
+        "category": "旅游,民生新闻"
+      },
+      {
+        "raw_hot": 109428,
+        "num": 109428,
+        "word": "梁博新专",
+        "onboard_time": 1745547381,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 106144,
+        "num": 106144,
+        "word": "任达华女儿在名校跳级上课",
+        "onboard_time": 1745524574,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105813,
+        "num": 105813,
+        "word": "特朗普喊话让普京收手",
+        "onboard_time": 1745543301,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 100885,
+        "num": 100885,
+        "word": "中国航天员在太空吃饺子",
+        "onboard_time": 1745536579,
+        "rank": 42,
+        "category": "民生新闻,国内时政"
+      },
+      {
+        "raw_hot": 98998,
+        "num": 98998,
+        "word": "女孩放学后被男子尾随进便利店求助",
+        "onboard_time": 1745546001,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98053,
+        "num": 98053,
+        "word": "陆仙人把非遗壮锦穿到了巴黎",
+        "onboard_time": 1745543541,
+        "rank": 44,
+        "category": "时尚,民生新闻"
+      },
+      {
+        "raw_hot": 95968,
+        "num": 95968,
+        "word": "发朋友圈前先回复消息",
+        "onboard_time": 1745538200,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 90971,
+        "num": 90971,
+        "word": "猿辅导老师猝死在公司人社局介入",
+        "onboard_time": 1745547259,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90448,
+        "num": 90448,
+        "word": "神19神20航天员笑得好灿烂",
+        "onboard_time": 1745546420,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 88240,
+        "num": 88240,
+        "word": "无忧渡 超点",
+        "onboard_time": 1745547381,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87822,
+        "num": 87822,
+        "word": "曹骏神韵仪态很有老剧那味儿",
+        "onboard_time": 1745547081,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代中肯命运共同体#"
+    }
+  }
+}

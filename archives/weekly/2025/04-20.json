@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745546113769,
+  "endTime": 1745547432307,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -427,6 +427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1612989,
+      "num": 1046380,
+      "word": "猿辅导老师猝死家属发声",
+      "onboard_time": 1745544200,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1604512,
       "num": 372499,
       "word": "网友说宋祖儿肿了",
@@ -731,6 +739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1237207,
+      "num": 1170385,
+      "word": "黄子韬卫生巾公司招聘大专起投",
+      "onboard_time": 1745544501,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1229099,
       "num": 1229099,
       "word": "金价",
@@ -987,14 +1003,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 1064909,
-      "num": 1170385,
-      "word": "黄子韬卫生巾公司招聘大专起投",
-      "onboard_time": 1745544501,
-      "rank": 0,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1064211,
       "num": 1170273,
       "word": "榜上佳婿 空降",
@@ -1161,14 +1169,6 @@
       "onboard_time": 1745285061,
       "rank": 13,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 959407,
-      "num": 959407,
-      "word": "猿辅导老师猝死家属发声",
-      "onboard_time": 1745544200,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 958899,
@@ -1449,6 +1449,14 @@
       "onboard_time": 1745238442,
       "rank": 24,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 821719,
+      "num": 585300,
+      "word": "姐姐回应男子被打20个月后死亡",
+      "onboard_time": 1745542702,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 817201,
@@ -2220,7 +2228,7 @@
     },
     {
       "raw_hot": 594539,
-      "num": 594539,
+      "num": 1089186,
       "word": "曹骏出场",
       "onboard_time": 1745541383,
       "rank": 3,
@@ -2267,14 +2275,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 585300,
-      "num": 585300,
-      "word": "姐姐回应男子被打20个月后死亡",
-      "onboard_time": 1745542702,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 582816,
       "num": 366908,
       "word": "K总婚礼",
@@ -2308,7 +2308,7 @@
     },
     {
       "raw_hot": 578431,
-      "num": 350056,
+      "num": 366978,
       "word": "网红彩虹夫妇宣布停播",
       "onboard_time": 1745538200,
       "rank": 6,
@@ -3536,6 +3536,14 @@
       "word": "店员穿露背短裙不戴口罩做奶茶",
       "onboard_time": 1745228542,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 374198,
+      "num": 374198,
+      "word": "新疆下井救人00后女辅警破格晋升",
+      "onboard_time": 1745536519,
+      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -4907,6 +4915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 275998,
+      "num": 263575,
+      "word": "阿里纳斯儿子严重车祸",
+      "onboard_time": 1745542522,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 273723,
       "num": 273723,
       "word": "国内航司开始暂停接收波音飞机",
@@ -4929,14 +4945,6 @@
       "onboard_time": 1745312062,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 272363,
-      "num": 272363,
-      "word": "新疆下井救人00后女辅警破格晋升",
-      "onboard_time": 1745536519,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 271434,
@@ -5099,12 +5107,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 263523,
+      "num": 263523,
+      "word": "中国航天6次太空会师666",
+      "onboard_time": 1745545821,
+      "rank": 22,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 262897,
       "num": 245231,
       "word": "孙坚三天被偷了两次",
       "onboard_time": 1745489419,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 262263,
+      "num": 263660,
+      "word": "猿辅导前员工称1人带400个学生",
+      "onboard_time": 1745545821,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 262085,
@@ -5305,14 +5329,6 @@
       "onboard_time": 1745473580,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 253267,
-      "num": 253267,
-      "word": "阿里纳斯儿子严重车祸",
-      "onboard_time": 1745542522,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 253211,
@@ -5841,6 +5857,14 @@
       "onboard_time": 1745315901,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 230439,
+      "num": 230439,
+      "word": "种地吧和十个勤天的成功很难被复制",
+      "onboard_time": 1745542582,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 230307,
@@ -6393,14 +6417,6 @@
       "onboard_time": 1745162548,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 212561,
-      "num": 212561,
-      "word": "种地吧和十个勤天的成功很难被复制",
-      "onboard_time": 1745542582,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 212028,
@@ -9963,6 +9979,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 155357,
+      "num": 155357,
+      "word": "提前看到了折腰剧宣的混乱场景",
+      "onboard_time": 1745545460,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155356,
       "num": 149396,
       "word": "陆虎直播",
@@ -10947,6 +10971,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 143137,
+      "num": 143137,
+      "word": "逆水寒",
+      "onboard_time": 1745546600,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 142992,
       "num": 142992,
       "word": "鱼 自己生的吃着才放心",
@@ -11233,14 +11265,6 @@
       "onboard_time": 1745413101,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 139731,
-      "num": 155708,
-      "word": "中国航天6次太空会师666",
-      "onboard_time": 1745545821,
-      "rank": 22,
-      "category": "国内时政"
     },
     {
       "raw_hot": 139581,
@@ -11601,6 +11625,14 @@
       "onboard_time": 1745059102,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135644,
+      "num": 135644,
+      "word": "不粘锅出现这些情况千万别用",
+      "onboard_time": 1745546300,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135563,
@@ -12019,6 +12051,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 130425,
+      "num": 130425,
+      "word": "老外说是朱一龙的bigfan",
+      "onboard_time": 1745546719,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 130419,
       "num": 130419,
       "word": "极限挑战被质疑卖号后发博",
@@ -12145,6 +12185,14 @@
       "onboard_time": 1745140883,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129113,
+      "num": 129113,
+      "word": "公司财务每天背大包的原因",
+      "onboard_time": 1745546241,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 129012,
@@ -12611,14 +12659,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 121245,
-      "num": 121245,
-      "word": "猿辅导前员工称1人带400个学生",
-      "onboard_time": 1745545821,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 121183,
       "num": 121183,
       "word": "疑似MSI奖牌被出售",
@@ -12643,12 +12683,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120957,
+      "num": 120957,
+      "word": "小米YU7上市时间并未改变",
+      "onboard_time": 1745543961,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 120947,
       "num": 251397,
       "word": "突然就掌握了985学霸的偷分技巧",
       "onboard_time": 1745401883,
       "rank": 24,
       "category": "幽默,教育"
+    },
+    {
+      "raw_hot": 120903,
+      "num": 129703,
+      "word": "程潇打游戏杀疯了",
+      "onboard_time": 1745546600,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 120814,
@@ -12867,14 +12923,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 116108,
-      "num": 154567,
-      "word": "提前看到了折腰剧宣的混乱场景",
-      "onboard_time": 1745545460,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 115874,
       "num": 115874,
       "word": "吃饭跑步和恋爱",
@@ -13067,14 +13115,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 112364,
-      "num": 112364,
-      "word": "小米YU7上市时间并未改变",
-      "onboard_time": 1745543961,
-      "rank": 38,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 112348,
       "num": 360254,
       "word": "黄子弘凡直播回应台上不许睡觉",
@@ -13097,6 +13137,14 @@
       "onboard_time": 1745501601,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111936,
+      "num": 111936,
+      "word": "属于春天的100个美景",
+      "onboard_time": 1745546719,
+      "rank": 38,
+      "category": "旅游,民生新闻"
     },
     {
       "raw_hot": 111914,
@@ -13209,6 +13257,14 @@
       "onboard_time": 1745127623,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109428,
+      "num": 109428,
+      "word": "梁博新专",
+      "onboard_time": 1745547381,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 109383,
@@ -13756,7 +13812,7 @@
     },
     {
       "raw_hot": 100069,
-      "num": 694765,
+      "num": 704501,
       "word": "第一视角看神20发射多震撼",
       "onboard_time": 1745501842,
       "rank": 2,
@@ -13815,6 +13871,14 @@
       "num": 159675,
       "word": "福宝为何会反复经历假孕状态",
       "onboard_time": 1745532915,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98998,
+      "num": 98998,
+      "word": "女孩放学后被男子尾随进便利店求助",
+      "onboard_time": 1745546001,
       "rank": 48,
       "category": "民生新闻"
     },
@@ -14243,12 +14307,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 90971,
+      "num": 90971,
+      "word": "猿辅导老师猝死在公司人社局介入",
+      "onboard_time": 1745547259,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90472,
       "num": 90472,
       "word": "有机会一定要去泉州拍次簪花",
       "onboard_time": 1745133861,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 90448,
+      "num": 90448,
+      "word": "神19神20航天员笑得好灿烂",
+      "onboard_time": 1745546420,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 90424,
@@ -14323,12 +14403,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88240,
+      "num": 88240,
+      "word": "无忧渡 超点",
+      "onboard_time": 1745547381,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 87832,
       "num": 352611,
       "word": "燃油王者上场了",
       "onboard_time": 1745502201,
       "rank": 32,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 87822,
+      "num": 87822,
+      "word": "曹骏神韵仪态很有老剧那味儿",
+      "onboard_time": 1745547081,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 87743,
@@ -14571,14 +14667,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 82249,
-      "num": 82249,
-      "word": "女孩放学后被男子尾随进便利店求助",
-      "onboard_time": 1745546001,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 82222,
       "num": 82222,
       "word": "用一条线画出中国问天征途",
@@ -14761,6 +14849,14 @@
       "onboard_time": 1745332164,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79067,
+      "num": 118012,
+      "word": "尼克斯vs活塞",
+      "onboard_time": 1745546481,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 78979,
@@ -15267,6 +15363,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 69441,
+      "num": 154862,
+      "word": "于适工作室发文",
+      "onboard_time": 1745546900,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 69327,
       "num": 1012254,
       "word": "广电总局加快布局超高清",
@@ -15305,6 +15409,14 @@
       "onboard_time": 1745444654,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 68867,
+      "num": 154204,
+      "word": "女孩发现被人尾随跑进便利店求助",
+      "onboard_time": 1745545580,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 68799,
@@ -17665,14 +17777,6 @@
       "onboard_time": 1745440694,
       "rank": 48,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 34416,
-      "num": 154204,
-      "word": "女孩发现被人尾随跑进便利店求助",
-      "onboard_time": 1745545580,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 34385,
