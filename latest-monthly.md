@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/25 10:17:12
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/25 11:10:26
 </p>
 </blockquote>
 <p>
@@ -4545,6 +4545,12 @@ SM新男团 撞名（热度：910464）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8C%BF%E8%BE%85%E5%AF%BC%E5%89%8D%E5%91%98%E5%B7%A5%E7%A7%B01%E4%BA%BA%E5%B8%A6400%E4%B8%AA%E5%AD%A6%E7%94%9F%23" target="weibo">
+猿辅导前员工称1人带400个学生（热度：906122）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%BB%E6%95%8F%E5%A5%BD%E8%BE%A3%23" target="weibo">
 任敏好辣（热度：905388）
 </a>
@@ -5261,6 +5267,12 @@ bite me男伴舞（热度：832510）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%BE%B7%E9%95%87%E8%BD%A6%E7%A5%B8%E9%81%87%E9%9A%BE%E8%80%85%E5%AE%B6%E5%B1%9E%E6%82%A3%E9%87%8D%E5%BA%A6%E6%8A%91%E9%83%81%23" target="weibo">
 景德镇车祸遇难者家属患重度抑郁（热度：818854）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E4%B8%8B%E8%BD%A6%E5%8A%A8%E4%BD%9C%23" target="weibo">
+赵露思下车动作（热度：818634）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ YERI和Wendy离开SM（热度：805847）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%AE%B6%E7%95%8C%E9%82%80%E8%AF%B7%E8%8B%A6%E5%B0%BD%E6%9F%91%E6%9D%A5%E9%81%87%E8%A7%81%E4%BD%A0%E5%89%A7%E7%BB%84%23" target="weibo">
 张家界邀请苦尽柑来遇见你剧组（热度：741691）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E5%BB%BA%E8%AE%AE%E5%B0%8F%E5%AD%A6%E5%BB%B6%E6%97%B6%E8%87%B36%E7%82%B9%E5%8D%8A%E6%94%BE%E5%AD%A6%23" target="weibo">
-家长建议小学延时至6点半放学（热度：740649）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E9%99%88%E8%B5%AB%E7%8E%8B%E5%AE%9D%E5%BC%BA%E4%BA%B2%E4%BA%B2%E5%90%88%E7%85%A7%23" target="weibo">
-邓超陈赫王宝强亲亲合照（热度：740131）
 </a>
 </li>
 

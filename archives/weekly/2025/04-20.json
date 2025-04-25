@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745547432307,
+  "endTime": 1745550626131,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1251,6 +1251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 906122,
+      "num": 599172,
+      "word": "猿辅导前员工称1人带400个学生",
+      "onboard_time": 1745545821,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 903192,
       "num": 903192,
       "word": "这居然是向佐",
@@ -1457,6 +1465,14 @@
       "onboard_time": 1745542702,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 818634,
+      "num": 373218,
+      "word": "赵露思下车动作",
+      "onboard_time": 1745549361,
+      "rank": 10,
+      "category": "其它"
     },
     {
       "raw_hot": 817201,
@@ -1907,6 +1923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 670632,
+      "num": 1107301,
+      "word": "曹骏出场",
+      "onboard_time": 1745541383,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 670497,
       "num": 769355,
       "word": "无忧渡 曹骏",
@@ -1977,6 +2001,14 @@
       "onboard_time": 1745289801,
       "rank": 4,
       "category": "教育"
+    },
+    {
+      "raw_hot": 652271,
+      "num": 652271,
+      "word": "猿辅导老师猝死在公司人社局介入",
+      "onboard_time": 1745547259,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 652004,
@@ -2227,14 +2259,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 594539,
-      "num": 1089186,
-      "word": "曹骏出场",
-      "onboard_time": 1745541383,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 591054,
       "num": 242147,
       "word": "女生列车上哭喊被爷爷摸",
@@ -2307,8 +2331,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 579064,
+      "num": 579064,
+      "word": "新疆下井救人00后女辅警破格晋升",
+      "onboard_time": 1745536519,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 578431,
-      "num": 366978,
+      "num": 374192,
       "word": "网红彩虹夫妇宣布停播",
       "onboard_time": 1745538200,
       "rank": 6,
@@ -2401,6 +2433,14 @@
       "onboard_time": 1745394562,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 560068,
+      "num": 560068,
+      "word": "周杰伦年纪越大希望减少工作量",
+      "onboard_time": 1745547500,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 558284,
@@ -3539,14 +3579,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 374198,
-      "num": 374198,
-      "word": "新疆下井救人00后女辅警破格晋升",
-      "onboard_time": 1745536519,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 373799,
       "num": 373799,
       "word": "棒棒堂被禁止和黑涩会美眉恋爱",
@@ -3569,6 +3601,14 @@
       "onboard_time": 1745200523,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 372687,
+      "num": 372687,
+      "word": "无忧渡 超点",
+      "onboard_time": 1745547381,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 371789,
@@ -3609,6 +3649,14 @@
       "onboard_time": 1745470762,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 368891,
+      "num": 368891,
+      "word": "老外说是朱一龙的bigfan",
+      "onboard_time": 1745546719,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 368701,
@@ -3940,7 +3988,7 @@
     },
     {
       "raw_hot": 339178,
-      "num": 159425,
+      "num": 160913,
       "word": "金条供不应求",
       "onboard_time": 1745542582,
       "rank": 20,
@@ -4340,7 +4388,7 @@
     },
     {
       "raw_hot": 307738,
-      "num": 155639,
+      "num": 173532,
       "word": "张继科夸马琳不是人是神",
       "onboard_time": 1745544620,
       "rank": 23,
@@ -4947,6 +4995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 272522,
+      "num": 272522,
+      "word": "中国航天6次太空会师666",
+      "onboard_time": 1745545821,
+      "rank": 22,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 271434,
       "num": 271434,
       "word": "刘涛拜妈祖",
@@ -5107,28 +5163,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 263523,
-      "num": 263523,
-      "word": "中国航天6次太空会师666",
-      "onboard_time": 1745545821,
-      "rank": 22,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 262897,
       "num": 245231,
       "word": "孙坚三天被偷了两次",
       "onboard_time": 1745489419,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 262263,
-      "num": 263660,
-      "word": "猿辅导前员工称1人带400个学生",
-      "onboard_time": 1745545821,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 262085,
@@ -5529,6 +5569,14 @@
       "onboard_time": 1745404044,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 244065,
+      "num": 373360,
+      "word": "猿辅导回应武汉员工事件",
+      "onboard_time": 1745549719,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 243874,
@@ -6259,6 +6307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216540,
+      "num": 216540,
+      "word": "梁博新专",
+      "onboard_time": 1745547381,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 215955,
       "num": 215955,
       "word": "羊肉串在吃羊肉串",
@@ -6547,6 +6603,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 209107,
+      "num": 209107,
+      "word": "提前看到了折腰剧宣的混乱场景",
+      "onboard_time": 1745545460,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208496,
       "num": 638526,
       "word": "曹骏范帅琦cp感",
@@ -6593,6 +6657,14 @@
       "onboard_time": 1745234421,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206781,
+      "num": 206781,
+      "word": "72岁唐国强综艺之神附体",
+      "onboard_time": 1745547981,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 206521,
@@ -6657,6 +6729,14 @@
       "onboard_time": 1745244684,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 204440,
+      "num": 209939,
+      "word": "建议把睡觉当作一天的开始",
+      "onboard_time": 1745547440,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 204381,
@@ -6977,6 +7057,14 @@
       "onboard_time": 1745290280,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199447,
+      "num": 199447,
+      "word": "谢霆锋发文感谢王嘉尔",
+      "onboard_time": 1745549421,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 199380,
@@ -7691,6 +7779,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 189218,
+      "num": 189218,
+      "word": "Red女团新logo",
+      "onboard_time": 1745549541,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188865,
       "num": 188865,
       "word": "生命树开官博了",
@@ -7705,6 +7801,14 @@
       "onboard_time": 1745419283,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188720,
+      "num": 188720,
+      "word": "朱正廷摇人抢labubu",
+      "onboard_time": 1745549781,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 188681,
@@ -9147,6 +9251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165903,
+      "num": 165903,
+      "word": "菲方非法驻留破坏铁线礁生态",
+      "onboard_time": 1745549059,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 165870,
       "num": 165870,
       "word": "原来器官也有洁癖",
@@ -9979,14 +10091,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 155357,
-      "num": 155357,
-      "word": "提前看到了折腰剧宣的混乱场景",
-      "onboard_time": 1745545460,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 155356,
       "num": 149396,
       "word": "陆虎直播",
@@ -10163,6 +10267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153828,
+      "num": 153828,
+      "word": "白月光沉香杀回来了",
+      "onboard_time": 1745550381,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153727,
       "num": 153727,
       "word": "长沙大暴雨来了",
@@ -10297,6 +10409,14 @@
       "onboard_time": 1745331623,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 151916,
+      "num": 151916,
+      "word": "Wendy签约新公司",
+      "onboard_time": 1745547680,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 151902,
@@ -10907,6 +11027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143569,
+      "num": 143569,
+      "word": "莫兰特受伤",
+      "onboard_time": 1745550381,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143549,
       "num": 446498,
       "word": "足金饰品一夜下跌27元每克",
@@ -11339,6 +11467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138748,
+      "num": 138748,
+      "word": "老人扶梯上摔倒兵哥哥飞跃救人",
+      "onboard_time": 1745549899,
+      "rank": 40,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 138608,
       "num": 233861,
       "word": "马斯克引荐的官员72小时被撤换",
@@ -11699,6 +11835,14 @@
       "category": "健康医疗,民生新闻"
     },
     {
+      "raw_hot": 134616,
+      "num": 209294,
+      "word": "尊界S800内饰太尊了",
+      "onboard_time": 1745550260,
+      "rank": 25,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 134525,
       "num": 133914,
       "word": "假装韩国人用中文胡说八道",
@@ -12051,14 +12195,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 130425,
-      "num": 130425,
-      "word": "老外说是朱一龙的bigfan",
-      "onboard_time": 1745546719,
-      "rank": 28,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 130419,
       "num": 130419,
       "word": "极限挑战被质疑卖号后发博",
@@ -12193,6 +12329,14 @@
       "onboard_time": 1745546241,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 129103,
+      "num": 129103,
+      "word": "乘风2025三公歌单",
+      "onboard_time": 1745548819,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 129012,
@@ -12739,6 +12883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120210,
+      "num": 188869,
+      "word": "北京国际电影节闭幕式阵容官宣",
+      "onboard_time": 1745549481,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 120019,
       "num": 120019,
       "word": "闪耀暖暖版本前瞻直播",
@@ -13011,6 +13163,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 114650,
+      "num": 114650,
+      "word": "剧集成何体统杀青",
+      "onboard_time": 1745549841,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114471,
       "num": 114471,
       "word": "奥美迦奥特曼",
@@ -13257,14 +13417,6 @@
       "onboard_time": 1745127623,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 109428,
-      "num": 109428,
-      "word": "梁博新专",
-      "onboard_time": 1745547381,
-      "rank": 39,
-      "category": "音乐"
     },
     {
       "raw_hot": 109383,
@@ -14307,14 +14459,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 90971,
-      "num": 90971,
-      "word": "猿辅导老师猝死在公司人社局介入",
-      "onboard_time": 1745547259,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 90472,
       "num": 90472,
       "word": "有机会一定要去泉州拍次簪花",
@@ -14401,14 +14545,6 @@
       "onboard_time": 1745069964,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 88240,
-      "num": 88240,
-      "word": "无忧渡 超点",
-      "onboard_time": 1745547381,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 87832,
@@ -14865,6 +15001,14 @@
       "onboard_time": 1745459303,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 78938,
+      "num": 212255,
+      "word": "李昀锐春游照",
+      "onboard_time": 1745549899,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 78845,
@@ -16603,6 +16747,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 51027,
+      "num": 244101,
+      "word": "胡兵54岁的成长告白",
+      "onboard_time": 1745549180,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 50905,
       "num": 353762,
       "word": "60岁男子杀害教师女友案开庭",
@@ -16859,6 +17011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 48140,
+      "num": 244057,
+      "word": "巴特勒G3出战成疑",
+      "onboard_time": 1745549719,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 48129,
       "num": 191123,
       "word": "10人团伙盗取雅思试题狂赚千万",
@@ -17033,6 +17193,14 @@
       "onboard_time": 1745478861,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44539,
+      "num": 244029,
+      "word": "哪些小事可以帮助快速缓解焦虑",
+      "onboard_time": 1745548100,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 44504,
@@ -17665,6 +17833,14 @@
       "onboard_time": 1745330482,
       "rank": 37,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 36095,
+      "num": 139166,
+      "word": "当村支书开始拍短视频卖货",
+      "onboard_time": 1745549541,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 35954,
@@ -18531,6 +18707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 24080,
+      "num": 140616,
+      "word": "银魂永不完结",
+      "onboard_time": 1745549000,
+      "rank": 38,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 23829,
       "num": 26313,
       "word": "肖俊直播",
@@ -18705,6 +18889,14 @@
       "onboard_time": 1745343975,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 21967,
+      "num": 248249,
+      "word": "火锅险淋小孩老板强忍烫伤不松手",
+      "onboard_time": 1745550260,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21898,
