@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1745606015394,
+  "endTime": 1745606797049,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -83819,6 +83819,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23111,
+      "num": 26382,
+      "word": "惠英红包租婆细节是自己设计的",
+      "onboard_time": 1745606416,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 23110,
+      "num": 26381,
+      "word": "无忧渡加更礼",
+      "onboard_time": 1745606535,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 23107,
       "num": 255864,
       "word": "刘恋也曾有讨好型人格",
@@ -84177,6 +84193,14 @@
       "onboard_time": 1744655234,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 22083,
+      "num": 26381,
+      "word": "直击第二十届中国电影华表奖",
+      "onboard_time": 1745606475,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 22054,
