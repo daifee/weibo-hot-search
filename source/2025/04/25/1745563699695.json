@@ -1,0 +1,410 @@
+{
+  "runTime": 1745563699695,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1114405,
+        "num": 1178304,
+        "word": "儿子悄悄考北大妈妈惊成静止画面",
+        "onboard_time": 1745555782,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 909117,
+        "num": 909117,
+        "word": "印度已切断印度河水",
+        "onboard_time": 1745556682,
+        "rank": 1,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 18182,
+        "num": 682483,
+        "word": "美国关税问题解铃还需系铃人",
+        "onboard_time": 1745483181,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 610800,
+        "num": 610800,
+        "word": "金扫帚",
+        "onboard_time": 1745560822,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 589342,
+        "num": 589342,
+        "word": "陈德容哭了",
+        "onboard_time": 1745560102,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 470186,
+        "num": 470186,
+        "word": "中共中央政治局4月25日召开会议",
+        "onboard_time": 1745561301,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 438459,
+        "num": 438459,
+        "word": "韩国残运会盒饭只有泡菜小菜引众怒",
+        "onboard_time": 1745555122,
+        "rank": 6,
+        "category": "体育,海外新闻"
+      },
+      {
+        "raw_hot": 396270,
+        "num": 396270,
+        "word": "美媒说中国赢下了这一轮",
+        "onboard_time": 1745557642,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 361127,
+        "num": 395486,
+        "word": "巴基斯坦与印度军队发生交火",
+        "onboard_time": 1745562322,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 64512,
+        "num": 393489,
+        "word": "对受关税影响较大企业提高稳岗返还比例",
+        "onboard_time": 1745562502,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 77121,
+        "num": 392644,
+        "word": "于适鸿星尔克",
+        "onboard_time": 1745562981,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 2120146,
+        "num": 391020,
+        "word": "迅猛龙考上复旦了",
+        "onboard_time": 1745559563,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 44505,
+        "num": 388496,
+        "word": "王鹤棣动不动喝什么",
+        "onboard_time": 1745562802,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1437054,
+        "num": 388020,
+        "word": "氯雷他定",
+        "onboard_time": 1745555662,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 18041,
+        "num": 385183,
+        "word": "最受喜爱男女角色闪现WAW",
+        "onboard_time": 1745560882,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 495913,
+        "num": 383603,
+        "word": "金敏喜生子后状态",
+        "onboard_time": 1745561180,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 493987,
+        "num": 381565,
+        "word": "赵露思下车动作",
+        "onboard_time": 1745549361,
+        "rank": 16,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 318751,
+        "num": 380420,
+        "word": "曹骏外甥当然要像舅舅了",
+        "onboard_time": 1745554761,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254604,
+        "num": 379653,
+        "word": "陆川749局横扫金扫帚奖",
+        "onboard_time": 1745557883,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 21301,
+        "num": 378188,
+        "word": "灰熊还有机会翻盘吗",
+        "onboard_time": 1745563281,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 376613,
+        "num": 376613,
+        "word": "学生摔倒家长索赔8万被驳回",
+        "onboard_time": 1745560221,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 339400,
+        "num": 339400,
+        "word": "留几手向董明珠道歉",
+        "onboard_time": 1745559023,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266265,
+        "num": 266265,
+        "word": "九尾吃蓁牛肉面了",
+        "onboard_time": 1745561002,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 238726,
+        "num": 263616,
+        "word": "孙燕姿抢票",
+        "onboard_time": 1745562802,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 262660,
+        "num": 262660,
+        "word": "长期熬夜后身体释放的求救信号",
+        "onboard_time": 1745557222,
+        "rank": 24,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 219561,
+        "num": 256508,
+        "word": "浪姐6陈昊宇陈丽君同框预告",
+        "onboard_time": 1745562922,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201341,
+        "num": 253652,
+        "word": "丞磊拍的王楚然",
+        "onboard_time": 1745563401,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252686,
+        "num": 252686,
+        "word": "普通人存钱的天花板是多少",
+        "onboard_time": 1745554580,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156506,
+        "num": 244134,
+        "word": "无忧渡找不到宣夜怎么半",
+        "onboard_time": 1745562381,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62825,
+        "num": 243819,
+        "word": "看了阿维塔06我心动了",
+        "onboard_time": 1745562802,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 243534,
+        "num": 243534,
+        "word": "杨紫雾粉无袖裙",
+        "onboard_time": 1745562142,
+        "rank": 30,
+        "category": "作品衍生,综艺"
+      },
+      {
+        "raw_hot": 229845,
+        "num": 229845,
+        "word": "用一瓶水就能改善体态的方法",
+        "onboard_time": 1745562502,
+        "rank": 31,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 178204,
+        "num": 178204,
+        "word": "韩国60元运动员盒饭过于简陋引众怒",
+        "onboard_time": 1745556143,
+        "rank": 32,
+        "category": "海外新闻,体育"
+      },
+      {
+        "raw_hot": 175989,
+        "num": 175989,
+        "word": "莎拉布莱曼选了李晟",
+        "onboard_time": 1745560521,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17645,
+        "num": 170463,
+        "word": "周杰伦同款剃须刀开箱测评",
+        "onboard_time": 1745562081,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 166087,
+        "num": 166087,
+        "word": "跳楼机舞台",
+        "onboard_time": 1745559621,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 8480,
+        "num": 165650,
+        "word": "航天员为何被称为英雄",
+        "onboard_time": 1745563401,
+        "rank": 36,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 85961,
+        "num": 165314,
+        "word": "睡觉时身体报警的5种情况",
+        "onboard_time": 1745563041,
+        "rank": 37,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 12487,
+        "num": 164339,
+        "word": "油皮如何科学控油",
+        "onboard_time": 1745563161,
+        "rank": 38,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 44673,
+        "num": 163754,
+        "word": "印度人的商业信誉全线崩塌",
+        "onboard_time": 1745563342,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163737,
+        "num": 163737,
+        "word": "易烊千玺同款索道原来在青岛",
+        "onboard_time": 1745560462,
+        "rank": 40,
+        "category": "艺人,旅游"
+      },
+      {
+        "raw_hot": 144221,
+        "num": 144221,
+        "word": "金价",
+        "onboard_time": 1745554043,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 143497,
+        "num": 143497,
+        "word": "老外说是朱一龙的bigfan",
+        "onboard_time": 1745546719,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 143173,
+        "num": 143173,
+        "word": "这居然是综艺预告片",
+        "onboard_time": 1745562922,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141675,
+        "num": 141675,
+        "word": "曹骏主演宝莲灯已是20年前的剧了",
+        "onboard_time": 1745559083,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140728,
+        "num": 140728,
+        "word": "谢娜让宋亚轩贺峻霖不要再打了",
+        "onboard_time": 1745562561,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133103,
+        "num": 133103,
+        "word": "不点外卖的年轻人每日百元请人做饭",
+        "onboard_time": 1745560462,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129949,
+        "num": 129949,
+        "word": "当韩国公公看甄嬛传",
+        "onboard_time": 1745563581,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129645,
+        "num": 129645,
+        "word": "黄子弘凡说以后有小孩就当全职爸爸",
+        "onboard_time": 1745560641,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126820,
+        "num": 126820,
+        "word": "特朗普称俄未占领整个乌克兰就是重大让步",
+        "onboard_time": 1745563522,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#大力弘扬两弹一星精神载人航天精神#"
+    }
+  }
+}
