@@ -1,6 +1,6 @@
 {
   "startTime": 1745598635164,
-  "endTime": 1745612856888,
+  "endTime": 1745613649298,
   "band_list": [
     {
       "raw_hot": 3420165,
@@ -579,7 +579,15 @@
       "category": "财经"
     },
     {
-      "raw_hot": 6734,
+      "raw_hot": 9056,
+      "num": 38011,
+      "word": "超1.2亿人次享受以旧换新补贴",
+      "onboard_time": 1745612894,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 6978,
       "num": 15678,
       "word": "潮汐树大自然的神奇画作",
       "onboard_time": 1745612353,
