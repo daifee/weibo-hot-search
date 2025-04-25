@@ -1,0 +1,410 @@
+{
+  "runTime": 1745555384380,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 677660,
+        "num": 1108425,
+        "word": "曹骏出场",
+        "onboard_time": 1745541383,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1026416,
+        "num": 1026416,
+        "word": "猿辅导回应武汉员工事件",
+        "onboard_time": 1745549719,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9658,
+        "num": 595005,
+        "word": "美国关税问题解铃还需系铃人",
+        "onboard_time": 1745483181,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 514988,
+        "num": 514988,
+        "word": "白月光沉香杀回来了",
+        "onboard_time": 1745550381,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 480909,
+        "num": 480909,
+        "word": "韩国残运会盒饭只有泡菜小菜引众怒",
+        "onboard_time": 1745555122,
+        "rank": 4,
+        "category": "体育,海外新闻"
+      },
+      {
+        "raw_hot": 410667,
+        "num": 410667,
+        "word": "千元拳击靶用女士内衣做填充物",
+        "onboard_time": 1745552300,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 333409,
+        "num": 333409,
+        "word": "周杰伦年纪越大希望减少工作量",
+        "onboard_time": 1745547500,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305294,
+        "num": 305294,
+        "word": "新疆下井救人00后女辅警破格晋升",
+        "onboard_time": 1745536519,
+        "rank": 7,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 294718,
+        "num": 294718,
+        "word": "谢霆锋20年后再唱与王菲定情曲",
+        "onboard_time": 1745553382,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162697,
+        "num": 292734,
+        "word": "长期熬夜脑干出血男子无法完全康复",
+        "onboard_time": 1745553621,
+        "rank": 9,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 1115386,
+        "num": 290883,
+        "word": "赵露思下车动作",
+        "onboard_time": 1745549361,
+        "rank": 10,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 748994,
+        "num": 285933,
+        "word": "讨好性礼貌",
+        "onboard_time": 1745550800,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172404,
+        "num": 283133,
+        "word": "李现官宣新身份",
+        "onboard_time": 1745552000,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 546747,
+        "num": 280437,
+        "word": "亲爱的妍珍 我终于抵达了西班牙",
+        "onboard_time": 1745553980,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 16806,
+        "num": 275853,
+        "word": "夸克接连霸榜华语区AppStore",
+        "onboard_time": 1745553682,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 485914,
+        "num": 273394,
+        "word": "普通人存钱的天花板是多少",
+        "onboard_time": 1745554580,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 271714,
+        "num": 271714,
+        "word": "美检方正式寻求判处路易吉死刑",
+        "onboard_time": 1745553261,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 55816,
+        "num": 271307,
+        "word": "剃胡子还能这么玄乎",
+        "onboard_time": 1745553921,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 20695,
+        "num": 269347,
+        "word": "神舟飞船对接空间站为何时快时慢",
+        "onboard_time": 1745554882,
+        "rank": 18,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 79272,
+        "num": 268006,
+        "word": "999元旅游预付卡成本仅几毛钱",
+        "onboard_time": 1745554222,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 192491,
+        "num": 265416,
+        "word": "尊界S800内饰太尊了",
+        "onboard_time": 1745550260,
+        "rank": 20,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 264924,
+        "num": 264924,
+        "word": "无忧渡 超点",
+        "onboard_time": 1745547381,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 346091,
+        "num": 263370,
+        "word": "双胞胎溺水生父被指认为凶手",
+        "onboard_time": 1745553801,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254020,
+        "num": 254020,
+        "word": "曹骏外甥当然要像舅舅了",
+        "onboard_time": 1745554761,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222785,
+        "num": 222785,
+        "word": "感觉她上的才是真大学",
+        "onboard_time": 1745551761,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 222343,
+        "num": 222343,
+        "word": "谢霆锋发文感谢王嘉尔",
+        "onboard_time": 1745549421,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 219926,
+        "num": 219926,
+        "word": "莫兰特受伤",
+        "onboard_time": 1745550381,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211688,
+        "num": 211688,
+        "word": "老外说是朱一龙的bigfan",
+        "onboard_time": 1745546719,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 97430,
+        "num": 211399,
+        "word": "任嘉伦这段演技扎人心窝里",
+        "onboard_time": 1745553921,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41718,
+        "num": 211036,
+        "word": "一把剃须刀搞定明星同款下颌线",
+        "onboard_time": 1745552541,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 91241,
+        "num": 209876,
+        "word": "于正夸孙寈惠内娱05花",
+        "onboard_time": 1745553442,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 6941,
+        "num": 209650,
+        "word": "莫兰特和巴特勒受伤情况一样吗",
+        "onboard_time": 1745555183,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209129,
+        "num": 209129,
+        "word": "原来这才算穿的干净",
+        "onboard_time": 1745551161,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 203826,
+        "num": 203826,
+        "word": "倪虹洁 妈咪的美貌女儿的荣耀",
+        "onboard_time": 1745553740,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201980,
+        "num": 201980,
+        "word": "唐国强 我为什么不能参加这样的节目",
+        "onboard_time": 1745550620,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198525,
+        "num": 198525,
+        "word": "丁真被刘涛说眼里没感情",
+        "onboard_time": 1745551461,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177124,
+        "num": 177124,
+        "word": "金价波动让水贝金条供不应求",
+        "onboard_time": 1745553442,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170993,
+        "num": 170993,
+        "word": "看上去很贵实际很便宜的旅游城市",
+        "onboard_time": 1745553862,
+        "rank": 37,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 35736,
+        "num": 169506,
+        "word": "原来拍立得相纸也有保质期",
+        "onboard_time": 1745554580,
+        "rank": 38,
+        "category": "科学科普,民生新闻"
+      },
+      {
+        "raw_hot": 45727,
+        "num": 169280,
+        "word": "百度一个月发4款大模型",
+        "onboard_time": 1745553682,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 169107,
+        "num": 169107,
+        "word": "金价",
+        "onboard_time": 1745554043,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 168645,
+        "num": 168645,
+        "word": "肖战上海",
+        "onboard_time": 1745544200,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 166167,
+        "num": 166167,
+        "word": "乘风三公",
+        "onboard_time": 1745555302,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160561,
+        "num": 160561,
+        "word": "建议把睡觉当作一天的开始",
+        "onboard_time": 1745547440,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 151963,
+        "num": 151963,
+        "word": "掘金vs快船",
+        "onboard_time": 1745554942,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150534,
+        "num": 150534,
+        "word": "国家队缺猫吗",
+        "onboard_time": 1745551881,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149326,
+        "num": 149326,
+        "word": "iPhone17有望全系配12GB内存",
+        "onboard_time": 1745552961,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 143630,
+        "num": 143630,
+        "word": "张凌赫批作业式读粉丝留言",
+        "onboard_time": 1745554461,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140463,
+        "num": 140463,
+        "word": "网红彩虹夫妇宣布停播",
+        "onboard_time": 1745538200,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 138948,
+        "num": 138948,
+        "word": "中国航天6次太空会师666",
+        "onboard_time": 1745545821,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#逐梦九天不止步#"
+    }
+  }
+}
