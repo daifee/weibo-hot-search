@@ -1,6 +1,6 @@
 {
   "startTime": 1745598635164,
-  "endTime": 1745619911199,
+  "endTime": 1745620959458,
   "band_list": [
     {
       "raw_hot": 3420165,
@@ -131,6 +131,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 275296,
+      "num": 275296,
+      "word": "纽约市民凌晨排两条街长队买中国相机",
+      "onboard_time": 1745592384,
+      "rank": 26,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 270645,
+      "num": 130033,
+      "word": "网友劝36岁女子不要为结婚而结婚",
+      "onboard_time": 1745597063,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 261118,
       "num": 261078,
       "word": "小小的我为什么全网无路透照",
@@ -163,6 +179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 231963,
+      "num": 66250,
+      "word": "女子手机失控冲进派出所民警建议砸掉",
+      "onboard_time": 1745616015,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 229231,
       "num": 272496,
       "word": "央视曝光剧本式直播诈骗套路",
@@ -171,35 +195,11 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 202923,
-      "num": 130033,
-      "word": "网友劝36岁女子不要为结婚而结婚",
-      "onboard_time": 1745597063,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 197412,
       "num": 197412,
       "word": "妻子翻丈夫手机抓出轨证据获法院采信",
       "onboard_time": 1745594783,
       "rank": 23,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 196611,
-      "num": 196611,
-      "word": "纽约市民凌晨排两条街长队买中国相机",
-      "onboard_time": 1745592384,
-      "rank": 26,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 176897,
-      "num": 51405,
-      "word": "女子手机失控冲进派出所民警建议砸掉",
-      "onboard_time": 1745616015,
-      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -443,20 +443,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 49863,
+      "num": 49863,
+      "word": "王菲陈奕迅陈伟霆看谢霆锋演唱会",
+      "onboard_time": 1745603236,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 46172,
+      "num": 46172,
+      "word": "杨天真回应减肥质疑",
+      "onboard_time": 1745617574,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 45282,
+      "num": 47872,
+      "word": "因为你每天摸墙100次",
+      "onboard_time": 1745585302,
+      "rank": 49,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 44710,
       "num": 53858,
       "word": "KSG遗憾止步春季赛",
       "onboard_time": 1745594663,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 43375,
-      "num": 43375,
-      "word": "王菲陈奕迅陈伟霆看谢霆锋演唱会",
-      "onboard_time": 1745603236,
-      "rank": 22,
-      "category": "演出"
     },
     {
       "raw_hot": 42635,
@@ -483,20 +499,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 33213,
-      "num": 47872,
-      "word": "因为你每天摸墙100次",
-      "onboard_time": 1745585302,
-      "rank": 49,
-      "category": "运动健身"
+      "raw_hot": 39338,
+      "num": 39338,
+      "word": "偶遇赵丽颖上海逛街",
+      "onboard_time": 1745615174,
+      "rank": 46,
+      "category": "艺人"
     },
     {
-      "raw_hot": 32882,
-      "num": 32882,
-      "word": "杨天真回应减肥质疑",
-      "onboard_time": 1745617574,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 32956,
+      "num": 32956,
+      "word": "戚薇夫妻关系是冷暖自知的",
+      "onboard_time": 1745608094,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 32786,
@@ -505,14 +521,6 @@
       "onboard_time": 1745601798,
       "rank": 48,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 32399,
-      "num": 32399,
-      "word": "偶遇赵丽颖上海逛街",
-      "onboard_time": 1745615174,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 31823,
@@ -537,14 +545,6 @@
       "onboard_time": 1745603176,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 25449,
-      "num": 25449,
-      "word": "戚薇夫妻关系是冷暖自知的",
-      "onboard_time": 1745608094,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 25263,
@@ -593,6 +593,14 @@
       "onboard_time": 1745618895,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 19007,
+      "num": 24199,
+      "word": "老师不语只是一味的扣分",
+      "onboard_time": 1745618055,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 18724,

@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745619911199,
+  "endTime": 1745620959458,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -5771,6 +5771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 275296,
+      "num": 275296,
+      "word": "纽约市民凌晨排两条街长队买中国相机",
+      "onboard_time": 1745592384,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 273723,
       "num": 273723,
       "word": "国内航司开始暂停接收波音飞机",
@@ -5865,6 +5873,14 @@
       "onboard_time": 1745310201,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 270645,
+      "num": 130033,
+      "word": "网友劝36岁女子不要为结婚而结婚",
+      "onboard_time": 1745597063,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 270442,
@@ -6817,6 +6833,14 @@
       "onboard_time": 1745410942,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 231963,
+      "num": 66250,
+      "word": "女子手机失控冲进派出所民警建议砸掉",
+      "onboard_time": 1745616015,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 231863,
@@ -7963,14 +7987,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 202923,
-      "num": 130033,
-      "word": "网友劝36岁女子不要为结婚而结婚",
-      "onboard_time": 1745597063,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 202888,
       "num": 202888,
       "word": "95后快递员回应被公司奖励一辆车",
@@ -8497,14 +8513,6 @@
       "onboard_time": 1745119641,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 196611,
-      "num": 196611,
-      "word": "纽约市民凌晨排两条街长队买中国相机",
-      "onboard_time": 1745592384,
-      "rank": 32,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 196495,
@@ -9897,14 +9905,6 @@
       "onboard_time": 1745326641,
       "rank": 36,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 176897,
-      "num": 51405,
-      "word": "女子手机失控冲进派出所民警建议砸掉",
-      "onboard_time": 1745616015,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 176874,
@@ -19659,6 +19659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49863,
+      "num": 49863,
+      "word": "王菲陈奕迅陈伟霆看谢霆锋演唱会",
+      "onboard_time": 1745603236,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 49838,
       "num": 338259,
       "word": "周杰伦海蓝之谜新品活动",
@@ -19995,6 +20003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 46172,
+      "num": 46172,
+      "word": "杨天真回应减肥质疑",
+      "onboard_time": 1745617574,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 46159,
       "num": 795939,
       "word": "何以中国看福建",
@@ -20201,14 +20217,6 @@
       "onboard_time": 1745336902,
       "rank": 49,
       "category": "财经,民生新闻"
-    },
-    {
-      "raw_hot": 43375,
-      "num": 43375,
-      "word": "王菲陈奕迅陈伟霆看谢霆锋演唱会",
-      "onboard_time": 1745603236,
-      "rank": 22,
-      "category": "演出"
     },
     {
       "raw_hot": 43373,
@@ -20569,6 +20577,14 @@
       "onboard_time": 1745168240,
       "rank": 28,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 39338,
+      "num": 39338,
+      "word": "偶遇赵丽颖上海逛街",
+      "onboard_time": 1745615174,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 39301,
@@ -21083,20 +21099,20 @@
       "category": "教育,科学科普"
     },
     {
+      "raw_hot": 32956,
+      "num": 32956,
+      "word": "戚薇夫妻关系是冷暖自知的",
+      "onboard_time": 1745608094,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 32917,
       "num": 32917,
       "word": "当事人回应造城者剧组欠薪4个月",
       "onboard_time": 1745343256,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 32882,
-      "num": 32882,
-      "word": "杨天真回应减肥质疑",
-      "onboard_time": 1745617574,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 32800,
@@ -21153,14 +21169,6 @@
       "onboard_time": 1745556143,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 32399,
-      "num": 32399,
-      "word": "偶遇赵丽颖上海逛街",
-      "onboard_time": 1745615174,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 32250,
@@ -21729,14 +21737,6 @@
       "onboard_time": 1745382084,
       "rank": 18,
       "category": "情感"
-    },
-    {
-      "raw_hot": 25449,
-      "num": 25449,
-      "word": "戚薇夫妻关系是冷暖自知的",
-      "onboard_time": 1745608094,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 25419,
@@ -22553,6 +22553,14 @@
       "onboard_time": 1745204063,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 19007,
+      "num": 24199,
+      "word": "老师不语只是一味的扣分",
+      "onboard_time": 1745618055,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 18981,
