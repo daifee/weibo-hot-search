@@ -1,0 +1,410 @@
+{
+  "runTime": 1745592139579,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1636120,
+        "num": 1636120,
+        "word": "复旦回应拟录取600万粉丝网红",
+        "onboard_time": 1745580502,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1146669,
+        "num": 1146669,
+        "word": "多方回应黄瓜里被发现藏着针",
+        "onboard_time": 1745587103,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108947,
+        "num": 1106443,
+        "word": "以旧换新带动销售额超7200亿",
+        "onboard_time": 1745587342,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1460636,
+        "num": 1105320,
+        "word": "朋友圈三天可见 置顶像生死簿那么长",
+        "onboard_time": 1745577680,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1099008,
+        "num": 1099008,
+        "word": "中央巡视组进驻四川首虎落马",
+        "onboard_time": 1745589863,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 712683,
+        "num": 712683,
+        "word": "中国取消1.2万吨美国猪肉订单",
+        "onboard_time": 1745570901,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 703970,
+        "num": 703970,
+        "word": "字节跳动100元一天的免费三餐",
+        "onboard_time": 1745582062,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 422521,
+        "num": 422521,
+        "word": "华表奖 赵丽颖",
+        "onboard_time": 1745581342,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 415959,
+        "num": 415959,
+        "word": "杨紫给主持人打伞",
+        "onboard_time": 1745590703,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 284448,
+        "num": 364891,
+        "word": "特朗普称24小时结束俄乌冲突是玩笑",
+        "onboard_time": 1745590402,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 454301,
+        "num": 357820,
+        "word": "张柏芝身上戴了7只蝴蝶",
+        "onboard_time": 1745585662,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 348906,
+        "num": 348906,
+        "word": "因为你每天摸墙100次",
+        "onboard_time": 1745585302,
+        "rank": 11,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 353711,
+        "num": 348759,
+        "word": "上海街头偶遇赵丽颖",
+        "onboard_time": 1745585902,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343535,
+        "num": 343535,
+        "word": "今年一季度全国结婚登记181万对",
+        "onboard_time": 1745578221,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 340967,
+        "num": 340967,
+        "word": "教授称学生用AI写论文我是真查不出来",
+        "onboard_time": 1745586980,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307288,
+        "num": 307288,
+        "word": "EXO成员KAI开通微博",
+        "onboard_time": 1745589562,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283631,
+        "num": 283631,
+        "word": "王一博等将亮相华表奖",
+        "onboard_time": 1745576782,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 271863,
+        "num": 271863,
+        "word": "杨紫蓝色高定裙",
+        "onboard_time": 1745577380,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 269755,
+        "num": 269755,
+        "word": "华表奖阵容官宣",
+        "onboard_time": 1745576600,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 226287,
+        "num": 226287,
+        "word": "BLG战胜NIP",
+        "onboard_time": 1745591243,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 18662,
+        "num": 222310,
+        "word": "为何各地政府都钟爱马拉松",
+        "onboard_time": 1745591722,
+        "rank": 20,
+        "category": "民生新闻,运动健身"
+      },
+      {
+        "raw_hot": 294622,
+        "num": 209349,
+        "word": "女子退租沙发磨损1mm房东硬扣几百",
+        "onboard_time": 1745587643,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241074,
+        "num": 208175,
+        "word": "低成本养气血的10种方式",
+        "onboard_time": 1745589982,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 62984,
+        "num": 196710,
+        "word": "原神前瞻",
+        "onboard_time": 1745585842,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 191216,
+        "num": 191216,
+        "word": "刘亦菲皮肤状态",
+        "onboard_time": 1745585842,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 185715,
+        "num": 185715,
+        "word": "老板买黄金赚近千万后分给员工",
+        "onboard_time": 1745585181,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182093,
+        "num": 182093,
+        "word": "肖战痛城",
+        "onboard_time": 1745586022,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168990,
+        "num": 168990,
+        "word": "鞠婧祎直播",
+        "onboard_time": 1745585002,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166083,
+        "num": 166083,
+        "word": "奔跑吧13开播",
+        "onboard_time": 1745581822,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53875,
+        "num": 164387,
+        "word": "女子花10元体验艾灸遭二级烫伤",
+        "onboard_time": 1745590221,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15008,
+        "num": 164291,
+        "word": "AI如何帮打工人摆脱996",
+        "onboard_time": 1745590883,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 164289,
+        "num": 164289,
+        "word": "张淼怡获金扫帚影后",
+        "onboard_time": 1745567061,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 160623,
+        "num": 160623,
+        "word": "郑钦文vs波塔波娃",
+        "onboard_time": 1745587882,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156653,
+        "num": 156653,
+        "word": "谁来救救原唱张韶涵",
+        "onboard_time": 1745591964,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155330,
+        "num": 155330,
+        "word": "关晓彤去华表奖",
+        "onboard_time": 1745586622,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144657,
+        "num": 144657,
+        "word": "SM新男团自拍照",
+        "onboard_time": 1745587103,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141990,
+        "num": 141990,
+        "word": "终于能跟我妈看同一个综艺了",
+        "onboard_time": 1745590221,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138751,
+        "num": 138751,
+        "word": "氯雷他定",
+        "onboard_time": 1745555662,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 138489,
+        "num": 138489,
+        "word": "王珞丹左右两边的化妆台都空了",
+        "onboard_time": 1745590642,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 136590,
+        "num": 136590,
+        "word": "何洛洛赵让去看张杰演唱会了",
+        "onboard_time": 1745592022,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 128111,
+        "num": 128111,
+        "word": "男子开车时速230边飙车边拍视频",
+        "onboard_time": 1745585602,
+        "rank": 40,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 43679,
+        "num": 127816,
+        "word": "年轻人为何抗拒做PPT",
+        "onboard_time": 1745592082,
+        "rank": 41,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 127628,
+        "num": 127628,
+        "word": "宋雨琦刚下趾压板就上T台",
+        "onboard_time": 1745590283,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127419,
+        "num": 127419,
+        "word": "能约到五一的故宫做什么都会成功",
+        "onboard_time": 1745591722,
+        "rank": 43,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 126018,
+        "num": 126018,
+        "word": "卷发是刘亦菲的舒适区",
+        "onboard_time": 1745586082,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 121056,
+        "num": 125908,
+        "word": "邢菲这个造型斩男也斩女",
+        "onboard_time": 1745590822,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 125885,
+        "num": 125885,
+        "word": "榜上佳婿第一集就结婚",
+        "onboard_time": 1745586681,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123427,
+        "num": 123427,
+        "word": "严浩翔成功吸引了本智性恋的注意",
+        "onboard_time": 1745590162,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121218,
+        "num": 121218,
+        "word": "郑钦文奥运夺金后红土首秀",
+        "onboard_time": 1745589022,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117989,
+        "num": 117989,
+        "word": "第五人格",
+        "onboard_time": 1745589863,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国是世界绿色发展的坚定行动派重要贡献者#"
+    }
+  }
+}

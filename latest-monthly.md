@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/25 22:23:55
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/25 22:42:19
 </p>
 </blockquote>
 <p>
@@ -3495,6 +3495,12 @@ DeepSeek7小时攻克缅甸救灾语言关（热度：1104741）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%A4%AE%E5%B7%A1%E8%A7%86%E7%BB%84%E8%BF%9B%E9%A9%BB%E5%9B%9B%E5%B7%9D%E9%A6%96%E8%99%8E%E8%90%BD%E9%A9%AC%23" target="weibo">
+中央巡视组进驻四川首虎落马（热度：1099008）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E7%A3%8A%E5%A9%9A%E7%A4%BC%E9%82%80%E8%AF%B7%E5%87%BD%E6%9B%9D%E5%85%89%23" target="weibo">
 赵磊婚礼邀请函曝光（热度：1098746）
 </a>
@@ -6005,12 +6011,6 @@ YERI和Wendy离开SM（热度：805847）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%8F%E7%BA%AA%E4%BA%BA%E4%B8%8D%E8%AE%A9%E7%A5%9D%E7%BB%AA%E4%B8%B9%E4%BD%93%E9%87%8D%E4%BD%8E%E4%BA%8E80%E6%96%A4%23" target="weibo">
 经纪人不让祝绪丹体重低于80斤（热度：758003）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B9%E4%B8%80%E7%94%9F%E6%9C%AA%E5%A9%9A%E4%BD%86%E6%8E%A5%E7%94%9F%E4%BA%865%E4%B8%87%E5%A4%9A%E5%AD%A9%E5%AD%90%23" target="weibo">
-她一生未婚但接生了5万多孩子（热度：757952）
 </a>
 </li>
 
