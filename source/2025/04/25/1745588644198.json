@@ -1,0 +1,410 @@
+{
+  "runTime": 1745588644198,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1737116,
+        "num": 1737116,
+        "word": "复旦回应拟录取600万粉丝网红",
+        "onboard_time": 1745580502,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1067822,
+        "num": 1067822,
+        "word": "字节跳动100元一天的免费三餐",
+        "onboard_time": 1745582062,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 68363,
+        "num": 731727,
+        "word": "以旧换新带动销售额超7200亿",
+        "onboard_time": 1745587342,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1446954,
+        "num": 705900,
+        "word": "朋友圈三天可见 置顶像生死簿那么长",
+        "onboard_time": 1745577680,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 672491,
+        "num": 672491,
+        "word": "中国取消1.2万吨美国猪肉订单",
+        "onboard_time": 1745570901,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 489382,
+        "num": 670867,
+        "word": "多方回应黄瓜里被发现藏着针",
+        "onboard_time": 1745587103,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 608836,
+        "num": 661697,
+        "word": "华表奖 赵丽颖",
+        "onboard_time": 1745581342,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 385080,
+        "num": 657571,
+        "word": "鞠婧祎直播",
+        "onboard_time": 1745585002,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367969,
+        "num": 650886,
+        "word": "华表奖阵容官宣",
+        "onboard_time": 1745576600,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 205121,
+        "num": 645453,
+        "word": "教授称学生用AI写论文我是真查不出来",
+        "onboard_time": 1745586980,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 641126,
+        "num": 641126,
+        "word": "张柏芝身上戴了7只蝴蝶",
+        "onboard_time": 1745585662,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 634692,
+        "num": 634692,
+        "word": "无忧渡oe",
+        "onboard_time": 1745577380,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 480220,
+        "num": 480220,
+        "word": "上海街头偶遇赵丽颖",
+        "onboard_time": 1745585902,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 381753,
+        "num": 381753,
+        "word": "因为你每天摸墙100次",
+        "onboard_time": 1745585302,
+        "rank": 13,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 169717,
+        "num": 337449,
+        "word": "女子退租沙发磨损1mm房东硬扣几百",
+        "onboard_time": 1745587643,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216509,
+        "num": 318396,
+        "word": "关晓彤去华表奖",
+        "onboard_time": 1745586622,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 40369,
+        "num": 317462,
+        "word": "范丞丞在奔跑吧抱上猪了",
+        "onboard_time": 1745583862,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 317441,
+        "num": 317441,
+        "word": "今年一季度全国结婚登记181万对",
+        "onboard_time": 1745578221,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105791,
+        "num": 315967,
+        "word": "王一博上海赛车手合照",
+        "onboard_time": 1745585662,
+        "rank": 18,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 67037,
+        "num": 315720,
+        "word": "搬砖9年攒200万男子称很后悔没读书",
+        "onboard_time": 1745587702,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315504,
+        "num": 315504,
+        "word": "杨紫蓝色高定裙",
+        "onboard_time": 1745577380,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 302562,
+        "num": 302562,
+        "word": "刘亦菲皮肤状态",
+        "onboard_time": 1745585842,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 300493,
+        "num": 300493,
+        "word": "王一博等将亮相华表奖",
+        "onboard_time": 1745576782,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 227142,
+        "num": 227142,
+        "word": "张淼怡获金扫帚影后",
+        "onboard_time": 1745567061,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 205257,
+        "num": 205257,
+        "word": "老板买黄金赚近千万后分给员工",
+        "onboard_time": 1745585181,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202978,
+        "num": 202978,
+        "word": "郑钦文vs波塔波娃",
+        "onboard_time": 1745587882,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193415,
+        "num": 193415,
+        "word": "原神 脉动",
+        "onboard_time": 1745587161,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 192542,
+        "num": 192542,
+        "word": "肖战痛城",
+        "onboard_time": 1745586022,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 7396,
+        "num": 189970,
+        "word": "改名被拒的因素有哪些",
+        "onboard_time": 1745588483,
+        "rank": 28,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 189584,
+        "num": 189584,
+        "word": "榜上佳婿第一集就结婚",
+        "onboard_time": 1745586681,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186464,
+        "num": 186464,
+        "word": "现在的1元店已经进化到这种程度了",
+        "onboard_time": 1745585241,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183036,
+        "num": 183036,
+        "word": "SM新男团自拍照",
+        "onboard_time": 1745587103,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176110,
+        "num": 176110,
+        "word": "宣夜半夏be",
+        "onboard_time": 1745579962,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166177,
+        "num": 166177,
+        "word": "奔跑吧13开播",
+        "onboard_time": 1745581822,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152173,
+        "num": 152173,
+        "word": "氯雷他定",
+        "onboard_time": 1745555662,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 151247,
+        "num": 151247,
+        "word": "被虐杀男孩手掌曾被打致粉碎性骨折",
+        "onboard_time": 1745585962,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145445,
+        "num": 145445,
+        "word": "男子开车时速230边飙车边拍视频",
+        "onboard_time": 1745585602,
+        "rank": 36,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 141211,
+        "num": 141211,
+        "word": "无忧渡直播",
+        "onboard_time": 1745574081,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134370,
+        "num": 134370,
+        "word": "一个本科文凭或支撑不了5年",
+        "onboard_time": 1745568561,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 135705,
+        "num": 133316,
+        "word": "宋祖儿任嘉伦舍不得无忧渡",
+        "onboard_time": 1745585122,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125896,
+        "num": 125896,
+        "word": "卷发是刘亦菲的舒适区",
+        "onboard_time": 1745586082,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 124342,
+        "num": 124342,
+        "word": "原神前瞻",
+        "onboard_time": 1745585842,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 119558,
+        "num": 119558,
+        "word": "童蕾孙俪新剧闺蜜情感人",
+        "onboard_time": 1745588301,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112490,
+        "num": 112490,
+        "word": "小伙申请改名周天紫薇大帝被驳回",
+        "onboard_time": 1745569160,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109498,
+        "num": 109498,
+        "word": "谢霆锋演唱会",
+        "onboard_time": 1745585902,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 109132,
+        "num": 109132,
+        "word": "贾跃亭被任命为FF联席CEO",
+        "onboard_time": 1745588122,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 108810,
+        "num": 108810,
+        "word": "原神5.6版本直播",
+        "onboard_time": 1745585002,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 108746,
+        "num": 108746,
+        "word": "周杰伦南宁演唱会",
+        "onboard_time": 1745586562,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 96864,
+        "num": 96864,
+        "word": "榜上佳婿竹马天降互不相让",
+        "onboard_time": 1745588602,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91919,
+        "num": 91919,
+        "word": "周深上海抢票",
+        "onboard_time": 1745585782,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央政治局召开会议#"
+    }
+  }
+}
