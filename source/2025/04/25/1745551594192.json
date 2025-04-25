@@ -1,0 +1,410 @@
+{
+  "runTime": 1745551594192,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 626492,
+        "num": 1100238,
+        "word": "曹骏出场",
+        "onboard_time": 1745541383,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 503185,
+        "num": 503185,
+        "word": "新疆下井救人00后女辅警破格晋升",
+        "onboard_time": 1745536519,
+        "rank": 1,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 56490,
+        "num": 501657,
+        "word": "第一视角看神20发射多震撼",
+        "onboard_time": 1745501842,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1783917,
+        "num": 497890,
+        "word": "猿辅导老师猝死在公司人社局介入",
+        "onboard_time": 1745547259,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 977831,
+        "num": 495948,
+        "word": "猿辅导前员工称1人带400个学生",
+        "onboard_time": 1745545821,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 829263,
+        "num": 492646,
+        "word": "猿辅导老师猝死家属发声",
+        "onboard_time": 1745544200,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 823913,
+        "num": 490088,
+        "word": "黄子韬卫生巾公司招聘大专起投",
+        "onboard_time": 1745544501,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 540363,
+        "num": 488049,
+        "word": "周杰伦年纪越大希望减少工作量",
+        "onboard_time": 1745547500,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 486679,
+        "num": 486679,
+        "word": "猿辅导回应武汉员工事件",
+        "onboard_time": 1745549719,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 393498,
+        "num": 393498,
+        "word": "老外说是朱一龙的bigfan",
+        "onboard_time": 1745546719,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1297465,
+        "num": 381139,
+        "word": "赵露思下车动作",
+        "onboard_time": 1745549361,
+        "rank": 10,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 563565,
+        "num": 380478,
+        "word": "姐姐回应男子被打20个月后死亡",
+        "onboard_time": 1745542702,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 364124,
+        "num": 364124,
+        "word": "无忧渡 超点",
+        "onboard_time": 1745547381,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 321289,
+        "num": 321289,
+        "word": "网红彩虹夫妇宣布停播",
+        "onboard_time": 1745538200,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 64767,
+        "num": 264870,
+        "word": "火锅险淋小孩老板强忍烫伤不松手",
+        "onboard_time": 1745550260,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 326678,
+        "num": 263394,
+        "word": "白月光沉香杀回来了",
+        "onboard_time": 1745550381,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244285,
+        "num": 244285,
+        "word": "莫兰特受伤",
+        "onboard_time": 1745550381,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221118,
+        "num": 221118,
+        "word": "中国航天6次太空会师666",
+        "onboard_time": 1745545821,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 217888,
+        "num": 217888,
+        "word": "美官员承认误判中方反应",
+        "onboard_time": 1745538981,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 42606,
+        "num": 213016,
+        "word": "胡兵54岁的成长告白",
+        "onboard_time": 1745549180,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 342465,
+        "num": 213006,
+        "word": "尊界S800内饰太尊了",
+        "onboard_time": 1745550260,
+        "rank": 20,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 50252,
+        "num": 212836,
+        "word": "王者荣耀杨玉环皮肤优化有哪些亮点",
+        "onboard_time": 1745551281,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 212713,
+        "num": 212713,
+        "word": "邓家佳喜剧纯元回来了",
+        "onboard_time": 1745550740,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 272334,
+        "num": 209879,
+        "word": "建议把睡觉当作一天的开始",
+        "onboard_time": 1745547440,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 253023,
+        "num": 209306,
+        "word": "谢霆锋发文感谢王嘉尔",
+        "onboard_time": 1745549421,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 223473,
+        "num": 203758,
+        "word": "肖战上海",
+        "onboard_time": 1745544200,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 219161,
+        "num": 202669,
+        "word": "唐国强 我为什么不能参加这样的节目",
+        "onboard_time": 1745550620,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199729,
+        "num": 199729,
+        "word": "朱正廷摇人抢labubu",
+        "onboard_time": 1745549781,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172263,
+        "num": 172263,
+        "word": "梁博新专",
+        "onboard_time": 1745547381,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 170675,
+        "num": 170675,
+        "word": "快船vs掘金",
+        "onboard_time": 1745550682,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 326768,
+        "num": 166860,
+        "word": "原来这才算穿的干净",
+        "onboard_time": 1745551161,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196960,
+        "num": 165237,
+        "word": "唐国强上优酷节目感谢哔哩哔哩",
+        "onboard_time": 1745550800,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157114,
+        "num": 157114,
+        "word": "老人扶梯上摔倒兵哥哥飞跃救人",
+        "onboard_time": 1745549899,
+        "rank": 32,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 137058,
+        "num": 156165,
+        "word": "金条供不应求",
+        "onboard_time": 1745542582,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 155563,
+        "num": 155563,
+        "word": "讨好性礼貌",
+        "onboard_time": 1745550800,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155183,
+        "num": 155183,
+        "word": "特朗普称美国若不买加拿大将不存在",
+        "onboard_time": 1745536579,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 143521,
+        "num": 143521,
+        "word": "菲方非法驻留破坏铁线礁生态",
+        "onboard_time": 1745549059,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 140697,
+        "num": 140697,
+        "word": "提前看到了折腰剧宣的混乱场景",
+        "onboard_time": 1745545460,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115976,
+        "num": 139622,
+        "word": "李昀锐春游照",
+        "onboard_time": 1745549899,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51232,
+        "num": 138723,
+        "word": "英国将首次公布外国罪犯国籍",
+        "onboard_time": 1745550860,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134882,
+        "num": 138637,
+        "word": "被国产犯罪剧这一案气上头",
+        "onboard_time": 1745551220,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138578,
+        "num": 138578,
+        "word": "Wendy签约新公司",
+        "onboard_time": 1745547680,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136720,
+        "num": 136720,
+        "word": "乘风2025三公歌单",
+        "onboard_time": 1745548819,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133141,
+        "num": 133141,
+        "word": "北京国际电影节闭幕式阵容官宣",
+        "onboard_time": 1745549481,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 46099,
+        "num": 132612,
+        "word": "哪些小事可以帮助快速缓解焦虑",
+        "onboard_time": 1745548100,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132300,
+        "num": 132300,
+        "word": "成何体统",
+        "onboard_time": 1745550082,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131998,
+        "num": 131998,
+        "word": "Red女团新logo",
+        "onboard_time": 1745549541,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128510,
+        "num": 128510,
+        "word": "张继科夸马琳不是人是神",
+        "onboard_time": 1745544620,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120079,
+        "num": 120079,
+        "word": "下周五一假期",
+        "onboard_time": 1745551101,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113014,
+        "num": 113014,
+        "word": "丁真被刘涛说眼里没感情",
+        "onboard_time": 1745551461,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代中肯命运共同体#"
+    }
+  }
+}

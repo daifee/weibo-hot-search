@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/25 11:10:26
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/25 11:26:34
 </p>
 </blockquote>
 <p>
@@ -1257,6 +1257,12 @@ C罗点评甲亢哥中国行（热度：2472029）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8C%BF%E8%BE%85%E5%AF%BC%E8%80%81%E5%B8%88%E7%8C%9D%E6%AD%BB%E5%9C%A8%E5%85%AC%E5%8F%B8%E4%BA%BA%E7%A4%BE%E5%B1%80%E4%BB%8B%E5%85%A5%23" target="weibo">
+猿辅导老师猝死在公司人社局介入（热度：1783917）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E4%B8%BA%E4%BD%95%E4%B8%8D%E8%81%94%E7%B3%BB%E5%AE%B6%E5%B1%9E%23" target="weibo">
 小米回应为何不联系家属（热度：1780438）
 </a>
@@ -2489,6 +2495,12 @@ Simon事件（热度：1411247）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E6%89%8B%E6%8D%A2%E5%8D%AB%E7%94%9F%E5%B7%BE%E5%A5%B3%E5%AD%A9%E8%A2%AB%E5%BC%80%E9%BB%84%E8%85%94%23" target="weibo">
 无手换卫生巾女孩被开黄腔（热度：1298662）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E4%B8%8B%E8%BD%A6%E5%8A%A8%E4%BD%9C%23" target="weibo">
+赵露思下车动作（热度：1297465）
 </a>
 </li>
 
@@ -4023,6 +4035,12 @@ IU向雪莉金赛纶推荐同一心理医生（热度：1041446）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8C%BF%E8%BE%85%E5%AF%BC%E5%89%8D%E5%91%98%E5%B7%A5%E7%A7%B01%E4%BA%BA%E5%B8%A6400%E4%B8%AA%E5%AD%A6%E7%94%9F%23" target="weibo">
+猿辅导前员工称1人带400个学生（热度：977831）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E6%9D%BF%E5%9E%A3%E7%91%9E%E7%94%9F%E5%8E%BB%E4%B8%96%23" target="weibo">
 演员板垣瑞生去世（热度：976700）
 </a>
@@ -4541,12 +4559,6 @@ SM新男团 撞名（热度：910464）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E9%93%9C%E7%89%8C%23" target="weibo">
 王楚钦铜牌（热度：906507）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8C%BF%E8%BE%85%E5%AF%BC%E5%89%8D%E5%91%98%E5%B7%A5%E7%A7%B01%E4%BA%BA%E5%B8%A6400%E4%B8%AA%E5%AD%A6%E7%94%9F%23" target="weibo">
-猿辅导前员工称1人带400个学生（热度：906122）
 </a>
 </li>
 
@@ -5267,12 +5279,6 @@ bite me男伴舞（热度：832510）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%BE%B7%E9%95%87%E8%BD%A6%E7%A5%B8%E9%81%87%E9%9A%BE%E8%80%85%E5%AE%B6%E5%B1%9E%E6%82%A3%E9%87%8D%E5%BA%A6%E6%8A%91%E9%83%81%23" target="weibo">
 景德镇车祸遇难者家属患重度抑郁（热度：818854）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E4%B8%8B%E8%BD%A6%E5%8A%A8%E4%BD%9C%23" target="weibo">
-赵露思下车动作（热度：818634）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ YERI和Wendy离开SM（热度：805847）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%87%91%E9%93%AD%20%E7%9C%9F%E4%BA%BA%E7%A7%80%E4%B8%AD%E6%B2%A1%E6%9C%89%E4%BA%BA%E4%BC%A4%E5%AE%B3%E6%88%91%23" target="weibo">
 李金铭 真人秀中没有人伤害我（热度：743836）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%AE%B6%E7%95%8C%E9%82%80%E8%AF%B7%E8%8B%A6%E5%B0%BD%E6%9F%91%E6%9D%A5%E9%81%87%E8%A7%81%E4%BD%A0%E5%89%A7%E7%BB%84%23" target="weibo">
-张家界邀请苦尽柑来遇见你剧组（热度：741691）
 </a>
 </li>
 
