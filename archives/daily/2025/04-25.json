@@ -1,6 +1,6 @@
 {
   "startTime": 1745512289618,
-  "endTime": 1745588644198,
+  "endTime": 1745591035381,
   "band_list": [
     {
       "raw_hot": 2560355,
@@ -128,6 +128,14 @@
       "word": "生母继父虐杀掩埋孩子后曾痛哭寻子",
       "onboard_time": 1745564661,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1179186,
+      "num": 1179186,
+      "word": "多方回应黄瓜里被发现藏着针",
+      "onboard_time": 1745587103,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -403,14 +411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 489382,
-      "num": 670867,
-      "word": "多方回应黄瓜里被发现藏着针",
-      "onboard_time": 1745587103,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 487335,
       "num": 155038,
       "word": "安徽铁塔",
@@ -481,6 +481,22 @@
       "onboard_time": 1745557642,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 457931,
+      "num": 337449,
+      "word": "女子退租沙发磨损1mm房东硬扣几百",
+      "onboard_time": 1745587643,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 447374,
+      "num": 447374,
+      "word": "EXO成员KAI开通微博",
+      "onboard_time": 1745589562,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 438265,
@@ -579,6 +595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 403204,
+      "num": 381753,
+      "word": "因为你每天摸墙100次",
+      "onboard_time": 1745585302,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 396093,
       "num": 396093,
       "word": "华表奖预测",
@@ -593,14 +617,6 @@
       "onboard_time": 1745546719,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 381753,
-      "num": 381753,
-      "word": "因为你每天摸墙100次",
-      "onboard_time": 1745585302,
-      "rank": 30,
-      "category": "运动健身"
     },
     {
       "raw_hot": 380681,
@@ -835,6 +851,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 307778,
+      "num": 307778,
+      "word": "中央巡视组进驻四川首虎落马",
+      "onboard_time": 1745589863,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 307738,
       "num": 173532,
       "word": "张继科夸马琳不是人是神",
@@ -883,12 +907,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 290331,
+      "num": 645453,
+      "word": "教授称学生用AI写论文我是真查不出来",
+      "onboard_time": 1745586980,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 289521,
       "num": 289521,
       "word": "印控克什米尔恐袭遇难者全为男性",
       "onboard_time": 1745563941,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 288383,
+      "num": 219067,
+      "word": "低成本养气血的10种方式",
+      "onboard_time": 1745589982,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 286273,
@@ -1211,6 +1251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209945,
+      "num": 209945,
+      "word": "杨紫给主持人打伞",
+      "onboard_time": 1745590703,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 209107,
       "num": 209107,
       "word": "提前看到了折腰剧宣的混乱场景",
@@ -1267,14 +1315,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 205121,
-      "num": 645453,
-      "word": "教授称学生用AI写论文我是真查不出来",
-      "onboard_time": 1745586980,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 203826,
       "num": 203826,
       "word": "倪虹洁 妈咪的美貌女儿的荣耀",
@@ -1313,6 +1353,14 @@
       "onboard_time": 1745587882,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202948,
+      "num": 202948,
+      "word": "第五人格",
+      "onboard_time": 1745589863,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 201341,
@@ -1355,6 +1403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198138,
+      "num": 198138,
+      "word": "严浩翔成功吸引了本智性恋的注意",
+      "onboard_time": 1745590162,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197397,
       "num": 197397,
       "word": "原神 脉动",
@@ -1385,6 +1441,14 @@
       "onboard_time": 1745584942,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 194364,
+      "num": 194364,
+      "word": "时代少年团二开",
+      "onboard_time": 1745590221,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 193912,
@@ -1627,14 +1691,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 169717,
-      "num": 337449,
-      "word": "女子退租沙发磨损1mm房东硬扣几百",
-      "onboard_time": 1745587643,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 168043,
       "num": 168043,
       "word": "国家队缺猫吗",
@@ -1649,6 +1705,14 @@
       "onboard_time": 1745554942,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167428,
+      "num": 219682,
+      "word": "宋雨琦刚下趾压板就上T台",
+      "onboard_time": 1745590283,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 167249,
@@ -1763,6 +1827,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 160606,
+      "num": 160606,
+      "word": "特朗普称24小时结束俄乌冲突是玩笑",
+      "onboard_time": 1745590402,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 159754,
       "num": 166648,
       "word": "侯佩岑 神女爱世人",
@@ -1857,6 +1929,14 @@
       "onboard_time": 1745547680,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151572,
+      "num": 151572,
+      "word": "终于能跟我妈看同一个综艺了",
+      "onboard_time": 1745590221,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 151247,
@@ -1971,12 +2051,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145710,
+      "num": 145710,
+      "word": "严浩翔不愧是参加过六小龄童签售会",
+      "onboard_time": 1745590342,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145607,
       "num": 199638,
       "word": "迅猛龙回应考上复旦",
       "onboard_time": 1745570182,
       "rank": 47,
       "category": "网红"
+    },
+    {
+      "raw_hot": 145466,
+      "num": 145466,
+      "word": "原神挪德卡莱",
+      "onboard_time": 1745589863,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 145445,
@@ -2017,6 +2113,14 @@
       "onboard_time": 1745493082,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 143257,
+      "num": 143257,
+      "word": "孟子义喜欢奔跑吧但不喜欢奔跑",
+      "onboard_time": 1745590703,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 143173,
@@ -2331,6 +2435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126096,
+      "num": 126096,
+      "word": "故宫预约",
+      "onboard_time": 1745589623,
+      "rank": 47,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 125671,
       "num": 125671,
       "word": "祝绪丹装大人好累",
@@ -2345,6 +2457,14 @@
       "onboard_time": 1745570602,
       "rank": 38,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 123862,
+      "num": 123862,
+      "word": "RW燃尽了",
+      "onboard_time": 1745589742,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 123493,
@@ -2369,6 +2489,14 @@
       "onboard_time": 1745573661,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 122895,
+      "num": 122895,
+      "word": "郑钦文奥运夺金后红土首秀",
+      "onboard_time": 1745589022,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 122854,
@@ -2651,6 +2779,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 106292,
+      "num": 893602,
+      "word": "以旧换新带动销售额超7200亿",
+      "onboard_time": 1745587342,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106075,
       "num": 106075,
       "word": "谢霆锋含泪唱玉蝴蝶引万人大合唱",
@@ -2793,6 +2929,14 @@
       "onboard_time": 1745572223,
       "rank": 18,
       "category": "数码"
+    },
+    {
+      "raw_hot": 93866,
+      "num": 195724,
+      "word": "律师解读黄瓜里被发现藏着针",
+      "onboard_time": 1745589923,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93710,
@@ -3067,14 +3211,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 68363,
-      "num": 833234,
-      "word": "以旧换新带动销售额超7200亿",
-      "onboard_time": 1745587342,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 67873,
       "num": 248928,
       "word": "10岁男童被生母继父虐死案庭审延期",
@@ -3299,6 +3435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 54805,
+      "num": 145579,
+      "word": "原神兑换码",
+      "onboard_time": 1745589982,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 54721,
       "num": 62469,
       "word": "柯南新片20年最高分有何含金量",
@@ -3497,6 +3641,14 @@
       "onboard_time": 1745577680,
       "rank": 26,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 41053,
+      "num": 219524,
+      "word": "女子花10元体验艾灸遭二级烫伤",
+      "onboard_time": 1745590221,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40445,
@@ -3899,6 +4051,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 17651,
+      "num": 145492,
+      "word": "吃带酒精的食物被查酒驾会被扣分吗",
+      "onboard_time": 1745589682,
+      "rank": 40,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 17293,
       "num": 137638,
       "word": "不同肤质如何护理换季敏感",
@@ -4025,6 +4185,14 @@
       "onboard_time": 1745562081,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 9316,
+      "num": 172825,
+      "word": "AI如何帮打工人摆脱996",
+      "onboard_time": 1745590883,
+      "rank": 33,
+      "category": "互联网"
     },
     {
       "raw_hot": 8745,
