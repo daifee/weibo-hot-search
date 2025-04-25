@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/25 14:48:19
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/25 15:24:27
 </p>
 </blockquote>
 <p>
@@ -5121,6 +5121,12 @@ Swisse致歉（热度：842126）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%89%AB%E5%B8%9A%23" target="weibo">
+金扫帚（热度：837900）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%BB%A7%E7%BB%AD%E5%AF%B9%E6%97%A5%E6%9C%AC%E6%96%BD%E5%8E%8B%23" target="weibo">
 特朗普继续对日本施压（热度：837485）
 </a>
@@ -6005,12 +6011,6 @@ YERI和Wendy离开SM（热度：805847）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B2%E4%BA%A2%E5%93%A5%E8%AF%84%E4%BB%B7%E4%B8%AD%E5%9B%BD%E8%A1%8C%E5%9F%8E%E5%B8%82%E4%BD%93%E9%AA%8C%E6%8E%92%E5%90%8D%23" target="weibo">
 甲亢哥评价中国行城市体验排名（热度：750965）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%80%80%E7%96%91%E4%B9%B0%E5%88%B0%E4%BA%86%E8%A2%AB%E6%B4%AA%E6%B0%B4%E6%B3%A1%E8%BF%87%E7%9A%84%E5%8D%AB%E7%94%9F%E5%B7%BE%23" target="weibo">
-怀疑买到了被洪水泡过的卫生巾（热度：749977）
 </a>
 </li>
 

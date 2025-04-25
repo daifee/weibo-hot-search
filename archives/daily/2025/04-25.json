@@ -1,6 +1,6 @@
 {
   "startTime": 1745512289618,
-  "endTime": 1745563699695,
+  "endTime": 1745565867021,
   "band_list": [
     {
       "raw_hot": 2560355,
@@ -115,6 +115,14 @@
       "category": "国际时政,民生新闻"
     },
     {
+      "raw_hot": 837900,
+      "num": 837900,
+      "word": "金扫帚",
+      "onboard_time": 1745560822,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 821719,
       "num": 585300,
       "word": "姐姐回应男子被打20个月后死亡",
@@ -184,14 +192,6 @@
       "word": "亲爱的妍珍 我终于抵达了西班牙",
       "onboard_time": 1745553980,
       "rank": 13,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 610800,
-      "num": 610800,
-      "word": "金扫帚",
-      "onboard_time": 1745560822,
-      "rank": 7,
       "category": "作品衍生"
     },
     {
@@ -283,6 +283,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 432477,
+      "num": 432477,
+      "word": "学生摔倒家长索赔8万被驳回",
+      "onboard_time": 1745560221,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 431470,
       "num": 431470,
       "word": "任达华女儿在名校跳级上课",
@@ -315,6 +323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 406315,
+      "num": 254266,
+      "word": "杨威妻子被诊断太劳累气血不足",
+      "onboard_time": 1745564001,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 393498,
       "num": 393498,
       "word": "老外说是朱一龙的bigfan",
@@ -329,14 +345,6 @@
       "onboard_time": 1745559023,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 376613,
-      "num": 376613,
-      "word": "学生摔倒家长索赔8万被驳回",
-      "onboard_time": 1745560221,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 375392,
@@ -435,6 +443,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 327695,
+      "num": 327695,
+      "word": "生母继父虐杀掩埋孩子后曾痛哭寻子",
+      "onboard_time": 1745564661,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 326768,
       "num": 244388,
       "word": "原来这才算穿的干净",
@@ -515,12 +531,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 288552,
+      "num": 288552,
+      "word": "印控克什米尔恐袭遇难者全为男性",
+      "onboard_time": 1745563941,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 285650,
       "num": 155086,
       "word": "铁塔指挥中心屏幕现男女暧昧视频",
       "onboard_time": 1745539040,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 284072,
+      "num": 284072,
+      "word": "浪姐6陈昊宇陈丽君同框预告",
+      "onboard_time": 1745562922,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 280257,
@@ -545,6 +577,14 @@
       "onboard_time": 1745542522,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 273119,
+      "num": 273119,
+      "word": "孙燕姿抢票",
+      "onboard_time": 1745562802,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 272707,
@@ -667,14 +707,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 238726,
-      "num": 263616,
-      "word": "孙燕姿抢票",
-      "onboard_time": 1745562802,
-      "rank": 46,
-      "category": "演出"
-    },
-    {
       "raw_hot": 236767,
       "num": 236767,
       "word": "石凯订婚照",
@@ -721,14 +753,6 @@
       "onboard_time": 1745488761,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 219561,
-      "num": 256508,
-      "word": "浪姐6陈昊宇陈丽君同框预告",
-      "onboard_time": 1745562922,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 219161,
@@ -841,6 +865,14 @@
       "onboard_time": 1745560462,
       "rank": 27,
       "category": "艺人,旅游"
+    },
+    {
+      "raw_hot": 191849,
+      "num": 191849,
+      "word": "迪丽热巴夜幕烟花照",
+      "onboard_time": 1745564721,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 190739,
@@ -1008,6 +1040,14 @@
       "word": "种地吧",
       "onboard_time": 1745558722,
       "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 159754,
+      "num": 159754,
+      "word": "侯佩岑 神女爱世人",
+      "onboard_time": 1745563821,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -1203,6 +1243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137735,
+      "num": 137735,
+      "word": "李晟VaVa合唱茶花开了该回家了",
+      "onboard_time": 1745565082,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137481,
       "num": 137481,
       "word": "杨紫当年就是这样撩林志玲的",
@@ -1251,6 +1299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133280,
+      "num": 133280,
+      "word": "白宇刘宇宁张凌赫周柯宇猛男餐厅",
+      "onboard_time": 1745565261,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133244,
       "num": 133244,
       "word": "无忧渡",
@@ -1265,6 +1321,14 @@
       "onboard_time": 1745550082,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131765,
+      "num": 131765,
+      "word": "吴宣仪又美又媚",
+      "onboard_time": 1745565501,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 130815,
@@ -1459,12 +1523,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110079,
+      "num": 110079,
+      "word": "冷暴力另外的名字",
+      "onboard_time": 1745565801,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 107056,
       "num": 107056,
       "word": "特朗普喊话让普京收手",
       "onboard_time": 1745543301,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 105649,
+      "num": 105649,
+      "word": "年轻人放假前哪有不疯的",
+      "onboard_time": 1745565562,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105592,
@@ -1481,6 +1561,14 @@
       "onboard_time": 1745499801,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 104494,
+      "num": 104494,
+      "word": "于正回应多名艺人退圈",
+      "onboard_time": 1745565801,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 101743,
@@ -1609,6 +1697,14 @@
       "onboard_time": 1745563041,
       "rank": 37,
       "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 84665,
+      "num": 256468,
+      "word": "为卖课猿辅导对家长进行电话轰炸",
+      "onboard_time": 1745564721,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84634,
@@ -1803,6 +1899,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 66993,
+      "num": 138817,
+      "word": "管乐向云端solo",
+      "onboard_time": 1745565801,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 66609,
       "num": 66609,
       "word": "对方使用了一杯奶茶",
@@ -1971,6 +2075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 46980,
+      "num": 239707,
+      "word": "国乒五一假期也集训",
+      "onboard_time": 1745565201,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 46260,
       "num": 265666,
       "word": "沧元图动画",
@@ -2067,6 +2179,22 @@
       "category": "科学科普,民生新闻"
     },
     {
+      "raw_hot": 34943,
+      "num": 239985,
+      "word": "摩登兄弟花仙子插画",
+      "onboard_time": 1745564661,
+      "rank": 23,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 32800,
+      "num": 137864,
+      "word": "槟榔为什么越来越贵",
+      "onboard_time": 1745564543,
+      "rank": 35,
+      "category": "其它"
+    },
+    {
       "raw_hot": 32566,
       "num": 146083,
       "word": "才知道有胃病是不能喝粥的",
@@ -2097,6 +2225,14 @@
       "onboard_time": 1745552421,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 30431,
+      "num": 285932,
+      "word": "卤鹅哥坦言走红后会焦虑害怕",
+      "onboard_time": 1745564601,
+      "rank": 14,
+      "category": "网红"
     },
     {
       "raw_hot": 27100,
@@ -2225,6 +2361,14 @@
       "onboard_time": 1745483181,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 19636,
+      "num": 133584,
+      "word": "日议员称美国是小混混收保护费",
+      "onboard_time": 1745565140,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 19535,
