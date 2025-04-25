@@ -1,10 +1,10 @@
 {
   "startTime": 1745512289618,
-  "endTime": 1745558674077,
+  "endTime": 1745559685247,
   "band_list": [
     {
       "raw_hot": 2560355,
-      "num": 261485,
+      "num": 305058,
       "word": "氯雷他定",
       "onboard_time": 1745555662,
       "rank": 17,
@@ -19,8 +19,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1677994,
-      "num": 1677994,
+      "raw_hot": 1804128,
+      "num": 1804128,
       "word": "儿子悄悄考北大妈妈惊成静止画面",
       "onboard_time": 1745555782,
       "rank": 22,
@@ -99,6 +99,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 937741,
+      "num": 937741,
+      "word": "印度已切断印度河水",
+      "onboard_time": 1745556682,
+      "rank": 12,
+      "category": "国际时政,民生新闻"
+    },
+    {
       "raw_hot": 821719,
       "num": 585300,
       "word": "姐姐回应男子被打20个月后死亡",
@@ -129,14 +137,6 @@
       "onboard_time": 1745541383,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 660692,
-      "num": 240522,
-      "word": "印度已切断印度河水",
-      "onboard_time": 1745556682,
-      "rank": 12,
-      "category": "国际时政,民生新闻"
     },
     {
       "raw_hot": 657814,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 485914,
-      "num": 273394,
+      "num": 303418,
       "word": "普通人存钱的天花板是多少",
       "onboard_time": 1745554580,
       "rank": 15,
@@ -284,7 +284,7 @@
     },
     {
       "raw_hot": 373863,
-      "num": 318500,
+      "num": 359319,
       "word": "乘风三公",
       "onboard_time": 1745555302,
       "rank": 42,
@@ -324,7 +324,7 @@
     },
     {
       "raw_hot": 346091,
-      "num": 263370,
+      "num": 272974,
       "word": "双胞胎溺水生父被指认为凶手",
       "onboard_time": 1745553801,
       "rank": 22,
@@ -388,7 +388,7 @@
     },
     {
       "raw_hot": 317821,
-      "num": 214521,
+      "num": 259014,
       "word": "长期熬夜后身体释放的求救信号",
       "onboard_time": 1745557222,
       "rank": 21,
@@ -417,6 +417,14 @@
       "onboard_time": 1745551761,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 302785,
+      "num": 302785,
+      "word": "陆川749局横扫金扫帚奖",
+      "onboard_time": 1745557883,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 297905,
@@ -449,6 +457,14 @@
       "onboard_time": 1745538381,
       "rank": 11,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 277253,
+      "num": 277253,
+      "word": "韩国60元运动员盒饭过于简陋引众怒",
+      "onboard_time": 1745556143,
+      "rank": 46,
+      "category": "海外新闻,体育"
     },
     {
       "raw_hot": 275998,
@@ -515,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 256962,
+      "num": 256962,
+      "word": "美媒说中国赢下了这一轮",
+      "onboard_time": 1745557642,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 254114,
       "num": 254114,
       "word": "莫兰特受伤",
@@ -523,20 +547,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 254112,
+      "num": 279764,
+      "word": "曹骏主演宝莲灯已是20年前的剧了",
+      "onboard_time": 1745559083,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 253023,
       "num": 222343,
       "word": "谢霆锋发文感谢王嘉尔",
       "onboard_time": 1745549421,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 247363,
-      "num": 247363,
-      "word": "韩国60元运动员盒饭过于简陋引众怒",
-      "onboard_time": 1745556143,
-      "rank": 46,
-      "category": "海外新闻,体育"
     },
     {
       "raw_hot": 245700,
@@ -563,14 +587,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 239812,
-      "num": 239812,
-      "word": "陆川749局横扫金扫帚奖",
-      "onboard_time": 1745557883,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 236767,
       "num": 236767,
       "word": "石凯订婚照",
@@ -585,6 +601,14 @@
       "onboard_time": 1745538080,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 234480,
+      "num": 234480,
+      "word": "吴宣仪风月舞台",
+      "onboard_time": 1745558541,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 230439,
@@ -627,12 +651,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 214157,
-      "num": 214157,
-      "word": "美媒说中国赢下了这一轮",
-      "onboard_time": 1745557642,
-      "rank": 22,
-      "category": "国际时政"
+      "raw_hot": 215564,
+      "num": 215564,
+      "word": "51岁吴彦祖颜值回春",
+      "onboard_time": 1745558421,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 209107,
@@ -657,6 +681,22 @@
       "onboard_time": 1745553740,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203793,
+      "num": 203793,
+      "word": "金价",
+      "onboard_time": 1745554043,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 201954,
+      "num": 201954,
+      "word": "留几手向董明珠道歉",
+      "onboard_time": 1745559023,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 199761,
@@ -689,14 +729,6 @@
       "onboard_time": 1745519294,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 189261,
-      "num": 189261,
-      "word": "金价",
-      "onboard_time": 1745554043,
-      "rank": 40,
-      "category": "财经"
     },
     {
       "raw_hot": 189218,
@@ -795,6 +827,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 165387,
+      "num": 201470,
+      "word": "成何体统王楚然美貌",
+      "onboard_time": 1745555601,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163859,
       "num": 163859,
       "word": "昆明的花太考验个人素质了",
@@ -827,12 +867,12 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 158717,
-      "num": 201470,
-      "word": "成何体统王楚然美貌",
-      "onboard_time": 1745555601,
-      "rank": 29,
-      "category": "剧集"
+      "raw_hot": 161242,
+      "num": 161242,
+      "word": "种地吧",
+      "onboard_time": 1745558722,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 158391,
@@ -873,6 +913,14 @@
       "onboard_time": 1745540122,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 153226,
+      "num": 153226,
+      "word": "刘宇宁感觉上次哭早了",
+      "onboard_time": 1745558781,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 151916,
@@ -921,14 +969,6 @@
       "onboard_time": 1745556322,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 147033,
-      "num": 147032,
-      "word": "51岁吴彦祖颜值回春",
-      "onboard_time": 1745558421,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 143716,
@@ -987,6 +1027,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 136831,
+      "num": 136831,
+      "word": "迅猛龙考上复旦了",
+      "onboard_time": 1745559563,
+      "rank": 41,
+      "category": "网红"
+    },
+    {
       "raw_hot": 136769,
       "num": 136769,
       "word": "神20发射圆满成功",
@@ -999,14 +1047,6 @@
       "num": 136720,
       "word": "乘风2025三公歌单",
       "onboard_time": 1745548819,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 136508,
-      "num": 132794,
-      "word": "吴宣仪风月舞台",
-      "onboard_time": 1745558541,
       "rank": 44,
       "category": "综艺"
     },
@@ -1060,7 +1100,7 @@
     },
     {
       "raw_hot": 129519,
-      "num": 129519,
+      "num": 216281,
       "word": "雷霆3比0灰熊",
       "onboard_time": 1745557402,
       "rank": 46,
@@ -1089,6 +1129,14 @@
       "onboard_time": 1745507181,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123365,
+      "num": 123365,
+      "word": "33岁宁波准妈妈孕吐竟危及生命",
+      "onboard_time": 1745557943,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122354,
@@ -1120,6 +1168,38 @@
       "word": "程潇打游戏杀疯了",
       "onboard_time": 1745546600,
       "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 119644,
+      "num": 119644,
+      "word": "恋与深空",
+      "onboard_time": 1745559442,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 118775,
+      "num": 118775,
+      "word": "你甚至可以在网上学出马",
+      "onboard_time": 1745559382,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 117709,
+      "num": 117709,
+      "word": "花傲天登陆地球周年庆",
+      "onboard_time": 1745559621,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 117177,
+      "num": 114469,
+      "word": "跳楼机舞台",
+      "onboard_time": 1745559621,
+      "rank": 49,
       "category": "综艺"
     },
     {
@@ -1483,6 +1563,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 67331,
+      "num": 306066,
+      "word": "老年人深夜还在直播间买买买",
+      "onboard_time": 1745558241,
+      "rank": 20,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 67245,
       "num": 704501,
       "word": "第一视角看神20发射多震撼",
@@ -1627,6 +1715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 46260,
+      "num": 265666,
+      "word": "沧元图动画",
+      "onboard_time": 1745558841,
+      "rank": 19,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 46099,
       "num": 244029,
       "word": "哪些小事可以帮助快速缓解焦虑",
@@ -1681,14 +1777,6 @@
       "onboard_time": 1745514978,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 37947,
-      "num": 214548,
-      "word": "老年人深夜还在直播间买买买",
-      "onboard_time": 1745558241,
-      "rank": 20,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 37711,
@@ -1844,19 +1932,27 @@
     },
     {
       "raw_hot": 19701,
-      "num": 900853,
+      "num": 932007,
       "word": "美国关税问题解铃还需系铃人",
       "onboard_time": 1745483181,
       "rank": 2,
       "category": "国内时政"
     },
     {
-      "raw_hot": 19316,
-      "num": 147045,
+      "raw_hot": 19535,
+      "num": 268415,
       "word": "布伦森这个球回场了吗",
       "onboard_time": 1745558541,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 17293,
+      "num": 137638,
+      "word": "不同肤质如何护理换季敏感",
+      "onboard_time": 1745559202,
+      "rank": 39,
+      "category": "美妆,民生新闻"
     },
     {
       "raw_hot": 17266,
@@ -1889,6 +1985,22 @@
       "onboard_time": 1745518934,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 14640,
+      "num": 138239,
+      "word": "女生坐飞机差点被拘留",
+      "onboard_time": 1745559083,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14397,
+      "num": 141328,
+      "word": "网友爆料教辅机构黑幕",
+      "onboard_time": 1745559083,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14285,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1745559685247,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1804128,
+        "num": 1804128,
+        "word": "儿子悄悄考北大妈妈惊成静止画面",
+        "onboard_time": 1745555782,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 937741,
+        "num": 937741,
+        "word": "印度已切断印度河水",
+        "onboard_time": 1745556682,
+        "rank": 1,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 16590,
+        "num": 932007,
+        "word": "美国关税问题解铃还需系铃人",
+        "onboard_time": 1745483181,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 927522,
+        "num": 927522,
+        "word": "韩国残运会盒饭只有泡菜小菜引众怒",
+        "onboard_time": 1745555122,
+        "rank": 3,
+        "category": "体育,海外新闻"
+      },
+      {
+        "raw_hot": 693732,
+        "num": 693732,
+        "word": "曹骏外甥当然要像舅舅了",
+        "onboard_time": 1745554761,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 367074,
+        "num": 367074,
+        "word": "亲爱的妍珍 我终于抵达了西班牙",
+        "onboard_time": 1745553980,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 359319,
+        "num": 359319,
+        "word": "乘风三公",
+        "onboard_time": 1745555302,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 328863,
+        "num": 328863,
+        "word": "千元拳击靶用女士内衣做填充物",
+        "onboard_time": 1745552300,
+        "rank": 7,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 306490,
+        "num": 306490,
+        "word": "猿辅导",
+        "onboard_time": 1745556802,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67331,
+        "num": 306066,
+        "word": "老年人深夜还在直播间买买买",
+        "onboard_time": 1745558241,
+        "rank": 9,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 2524357,
+        "num": 305058,
+        "word": "氯雷他定",
+        "onboard_time": 1745555662,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 674051,
+        "num": 304293,
+        "word": "赵露思下车动作",
+        "onboard_time": 1745549361,
+        "rank": 11,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 503174,
+        "num": 303948,
+        "word": "猿辅导回应武汉员工事件",
+        "onboard_time": 1745549719,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 424857,
+        "num": 303418,
+        "word": "普通人存钱的天花板是多少",
+        "onboard_time": 1745554580,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 302785,
+        "num": 302785,
+        "word": "陆川749局横扫金扫帚奖",
+        "onboard_time": 1745557883,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 254112,
+        "num": 279764,
+        "word": "曹骏主演宝莲灯已是20年前的剧了",
+        "onboard_time": 1745559083,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277253,
+        "num": 277253,
+        "word": "韩国60元运动员盒饭过于简陋引众怒",
+        "onboard_time": 1745556143,
+        "rank": 16,
+        "category": "海外新闻,体育"
+      },
+      {
+        "raw_hot": 194395,
+        "num": 272974,
+        "word": "双胞胎溺水生父被指认为凶手",
+        "onboard_time": 1745553801,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19535,
+        "num": 268415,
+        "word": "布伦森这个球回场了吗",
+        "onboard_time": 1745558541,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46260,
+        "num": 265666,
+        "word": "沧元图动画",
+        "onboard_time": 1745558841,
+        "rank": 19,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 296402,
+        "num": 259014,
+        "word": "长期熬夜后身体释放的求救信号",
+        "onboard_time": 1745557222,
+        "rank": 20,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 256962,
+        "num": 256962,
+        "word": "美媒说中国赢下了这一轮",
+        "onboard_time": 1745557642,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 234480,
+        "num": 234480,
+        "word": "吴宣仪风月舞台",
+        "onboard_time": 1745558541,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217562,
+        "num": 217562,
+        "word": "曹骏模仿金宣虎笑",
+        "onboard_time": 1745556382,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 101680,
+        "num": 216281,
+        "word": "雷霆3比0灰熊",
+        "onboard_time": 1745557402,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215564,
+        "num": 215564,
+        "word": "51岁吴彦祖颜值回春",
+        "onboard_time": 1745558421,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203793,
+        "num": 203793,
+        "word": "金价",
+        "onboard_time": 1745554043,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 201954,
+        "num": 201954,
+        "word": "留几手向董明珠道歉",
+        "onboard_time": 1745559023,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196710,
+        "num": 196710,
+        "word": "讨好性礼貌",
+        "onboard_time": 1745550800,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 192087,
+        "num": 192087,
+        "word": "谢霆锋20年后再唱与王菲定情曲",
+        "onboard_time": 1745553382,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165387,
+        "num": 165387,
+        "word": "成何体统王楚然美貌",
+        "onboard_time": 1745555601,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161242,
+        "num": 161242,
+        "word": "种地吧",
+        "onboard_time": 1745558722,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156789,
+        "num": 156789,
+        "word": "原来这才算穿的干净",
+        "onboard_time": 1745551161,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155084,
+        "num": 155084,
+        "word": "白月光沉香杀回来了",
+        "onboard_time": 1745550381,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153226,
+        "num": 153226,
+        "word": "刘宇宁感觉上次哭早了",
+        "onboard_time": 1745558781,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149617,
+        "num": 149617,
+        "word": "看上去很贵实际很便宜的旅游城市",
+        "onboard_time": 1745553862,
+        "rank": 35,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 146482,
+        "num": 146482,
+        "word": "谢霆锋发文感谢王嘉尔",
+        "onboard_time": 1745549421,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 14397,
+        "num": 141328,
+        "word": "网友爆料教辅机构黑幕",
+        "onboard_time": 1745559083,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14640,
+        "num": 138239,
+        "word": "女生坐飞机差点被拘留",
+        "onboard_time": 1745559083,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17293,
+        "num": 137638,
+        "word": "不同肤质如何护理换季敏感",
+        "onboard_time": 1745559202,
+        "rank": 39,
+        "category": "美妆,民生新闻"
+      },
+      {
+        "raw_hot": 137576,
+        "num": 137576,
+        "word": "金价波动让水贝金条供不应求",
+        "onboard_time": 1745553442,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136831,
+        "num": 136831,
+        "word": "迅猛龙考上复旦了",
+        "onboard_time": 1745559563,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 134964,
+        "num": 134964,
+        "word": "曹骏出场",
+        "onboard_time": 1745541383,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129663,
+        "num": 129663,
+        "word": "女娲毕设真是各美各的",
+        "onboard_time": 1745555662,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 123365,
+        "num": 123365,
+        "word": "33岁宁波准妈妈孕吐竟危及生命",
+        "onboard_time": 1745557943,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119644,
+        "num": 119644,
+        "word": "恋与深空",
+        "onboard_time": 1745559442,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 118775,
+        "num": 118775,
+        "word": "你甚至可以在网上学出马",
+        "onboard_time": 1745559382,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117709,
+        "num": 117709,
+        "word": "花傲天登陆地球周年庆",
+        "onboard_time": 1745559621,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 114691,
+        "num": 114691,
+        "word": "风月",
+        "onboard_time": 1745556322,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117177,
+        "num": 114469,
+        "word": "跳楼机舞台",
+        "onboard_time": 1745559621,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#逐梦九天不止步#"
+    }
+  }
+}
