@@ -1,0 +1,410 @@
+{
+  "runTime": 1745581017037,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1673449,
+        "num": 1673449,
+        "word": "朋友圈三天可见 置顶像生死簿那么长",
+        "onboard_time": 1745577680,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1212155,
+        "num": 1212155,
+        "word": "中国取消1.2万吨美国猪肉订单",
+        "onboard_time": 1745570901,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 36065,
+        "num": 985132,
+        "word": "从一季度出行数据感知经济活力",
+        "onboard_time": 1745573422,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 963507,
+        "num": 963507,
+        "word": "无忧渡大结局",
+        "onboard_time": 1745575881,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 838203,
+        "num": 838203,
+        "word": "华表奖阵容官宣",
+        "onboard_time": 1745576600,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 347836,
+        "num": 737415,
+        "word": "小伙申请改名周天紫薇大帝被驳回",
+        "onboard_time": 1745569160,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 727576,
+        "num": 727576,
+        "word": "无忧渡oe",
+        "onboard_time": 1745577380,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 688176,
+        "num": 688176,
+        "word": "蔡徐坤直播",
+        "onboard_time": 1745580921,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260359,
+        "num": 260359,
+        "word": "肖战指导晒北京奥运国乒合照",
+        "onboard_time": 1745575580,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90475,
+        "num": 259331,
+        "word": "外交部重申中美未就关税磋商谈判",
+        "onboard_time": 1745579421,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 477930,
+        "num": 258626,
+        "word": "徐锦江已向儿子交代后事",
+        "onboard_time": 1745578702,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413123,
+        "num": 257924,
+        "word": "张淼怡获金扫帚影后",
+        "onboard_time": 1745567061,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 368136,
+        "num": 256737,
+        "word": "迅猛龙考上复旦了",
+        "onboard_time": 1745559563,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 362148,
+        "num": 256085,
+        "word": "一个本科文凭或支撑不了5年",
+        "onboard_time": 1745568561,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 102276,
+        "num": 254793,
+        "word": "猿辅导员工目睹同事加班晕倒",
+        "onboard_time": 1745580023,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 361333,
+        "num": 253554,
+        "word": "杨紫蓝色高定裙",
+        "onboard_time": 1745577380,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 356669,
+        "num": 252690,
+        "word": "宣夜半夏be",
+        "onboard_time": 1745579962,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 356249,
+        "num": 251548,
+        "word": "王一博等将亮相华表奖",
+        "onboard_time": 1745576782,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 13693,
+        "num": 250722,
+        "word": "金扫帚奖能否让演员正视问题",
+        "onboard_time": 1745580082,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 37751,
+        "num": 250064,
+        "word": "随手盗录哪吒的这伙人被抓到了",
+        "onboard_time": 1745579242,
+        "rank": 19,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 337482,
+        "num": 248759,
+        "word": "enhypen 卖掉了",
+        "onboard_time": 1745575461,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313773,
+        "num": 247281,
+        "word": "氯雷他定",
+        "onboard_time": 1745555662,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 299331,
+        "num": 246340,
+        "word": "复旦回应拟录取600万粉丝网红",
+        "onboard_time": 1745580502,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 245962,
+        "num": 245962,
+        "word": "京东外卖辟谣补贴要求商家承担50%",
+        "onboard_time": 1745577141,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 215767,
+        "num": 215767,
+        "word": "儿子悄悄考北大妈妈惊成静止画面",
+        "onboard_time": 1745555782,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178508,
+        "num": 206997,
+        "word": "美国开始给自己找台阶了",
+        "onboard_time": 1745579121,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 205845,
+        "num": 205845,
+        "word": "今年一季度全国结婚登记181万对",
+        "onboard_time": 1745578221,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199002,
+        "num": 199002,
+        "word": "好遗憾张杰不能现场看张杰的演唱会",
+        "onboard_time": 1745580383,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 190394,
+        "num": 190394,
+        "word": "榜上佳婿开播",
+        "onboard_time": 1745580802,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188627,
+        "num": 188627,
+        "word": "终于等到沈月古装剧了",
+        "onboard_time": 1745579781,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175413,
+        "num": 175413,
+        "word": "秋衣模特",
+        "onboard_time": 1745579180,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29449,
+        "num": 171579,
+        "word": "印象最深的国羽苏杯瞬间",
+        "onboard_time": 1745578942,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171561,
+        "num": 171561,
+        "word": "周深2年演唱会座位图变化",
+        "onboard_time": 1745579662,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 165011,
+        "num": 165011,
+        "word": "偶遇黄磊孙莉一家四口出游",
+        "onboard_time": 1745579781,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157741,
+        "num": 157741,
+        "word": "俄军总参高官死于汽车爆炸",
+        "onboard_time": 1745576900,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 151589,
+        "num": 151589,
+        "word": "无忧渡直播",
+        "onboard_time": 1745574081,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147420,
+        "num": 147420,
+        "word": "杨肸子有仙剑内味了",
+        "onboard_time": 1745577862,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 147334,
+        "num": 147334,
+        "word": "国际电影人惊叹易烊千玺演技",
+        "onboard_time": 1745576181,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 135982,
+        "num": 135982,
+        "word": "华表奖预测",
+        "onboard_time": 1745567302,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 13420,
+        "num": 132912,
+        "word": "雷军的前同事都有谁",
+        "onboard_time": 1745580202,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130753,
+        "num": 130753,
+        "word": "种地吧片尾农学院真正的招生简章",
+        "onboard_time": 1745580441,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129752,
+        "num": 129752,
+        "word": "放心交给张凌赫他会搞砸的",
+        "onboard_time": 1745580622,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128234,
+        "num": 128234,
+        "word": "张雪峰回应现在读研的红利还剩多少",
+        "onboard_time": 1745579901,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 122797,
+        "num": 122797,
+        "word": "余承恩不把我们当外人",
+        "onboard_time": 1745577921,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119669,
+        "num": 119669,
+        "word": "杨威妻子被诊断太劳累气血不足",
+        "onboard_time": 1745564001,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116213,
+        "num": 116213,
+        "word": "印度成功试射射程70公里导弹",
+        "onboard_time": 1745572401,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 32783,
+        "num": 113187,
+        "word": "开箱百万级大沙发",
+        "onboard_time": 1745575821,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 113095,
+        "num": 113095,
+        "word": "中方拆穿美方假消息",
+        "onboard_time": 1745577261,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 109287,
+        "num": 109287,
+        "word": "张檬曾给刘雨欣道歉",
+        "onboard_time": 1745579121,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108055,
+        "num": 108055,
+        "word": "泽连斯基称乌愿和谈就是巨大让步",
+        "onboard_time": 1745576782,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#逐梦九天不止步#"
+    }
+  }
+}

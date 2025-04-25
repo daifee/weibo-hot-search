@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745580105582,
+  "endTime": 1745581017037,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -449,6 +449,14 @@
       "onboard_time": 1745116223,
       "rank": 0,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 1673449,
+      "num": 1673449,
+      "word": "朋友圈三天可见 置顶像生死簿那么长",
+      "onboard_time": 1745577680,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 1653537,
@@ -1089,14 +1097,6 @@
       "onboard_time": 1745513597,
       "rank": 16,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1070904,
-      "num": 1070904,
-      "word": "朋友圈三天可见 置顶像生死簿那么长",
-      "onboard_time": 1745577680,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 1064211,
@@ -2033,6 +2033,14 @@
       "onboard_time": 1745305161,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 688176,
+      "num": 688176,
+      "word": "蔡徐坤直播",
+      "onboard_time": 1745580921,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 687303,
@@ -3115,6 +3123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 477930,
+      "num": 405024,
+      "word": "徐锦江已向儿子交代后事",
+      "onboard_time": 1745578702,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 477756,
       "num": 387274,
       "word": "杨紫蓝色高定裙",
@@ -3635,14 +3651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 405024,
-      "num": 405024,
-      "word": "徐锦江已向儿子交代后事",
-      "onboard_time": 1745578702,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 404165,
       "num": 384154,
       "word": "老鼠咬破燃气管道爆炸男子全身烧伤",
@@ -4137,6 +4145,14 @@
       "onboard_time": 1745242463,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 356669,
+      "num": 252690,
+      "word": "宣夜半夏be",
+      "onboard_time": 1745579962,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 356332,
@@ -5017,6 +5033,14 @@
       "onboard_time": 1745132783,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 299331,
+      "num": 246340,
+      "word": "复旦回应拟录取600万粉丝网红",
+      "onboard_time": 1745580502,
+      "rank": 22,
+      "category": "网红"
     },
     {
       "raw_hot": 299183,
@@ -7291,14 +7315,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 207501,
-      "num": 207501,
-      "word": "宣夜半夏be",
-      "onboard_time": 1745579962,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 207441,
       "num": 207441,
       "word": "张峻豪范思哲大片",
@@ -7825,6 +7841,14 @@
       "onboard_time": 1745479521,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 199002,
+      "num": 199002,
+      "word": "好遗憾张杰不能现场看张杰的演唱会",
+      "onboard_time": 1745580383,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 198960,
@@ -8483,6 +8507,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 190394,
+      "num": 190394,
+      "word": "榜上佳婿开播",
+      "onboard_time": 1745580802,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190288,
       "num": 190288,
       "word": "TES",
@@ -8569,6 +8601,14 @@
       "onboard_time": 1745473639,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188627,
+      "num": 188627,
+      "word": "终于等到沈月古装剧了",
+      "onboard_time": 1745579781,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 188587,
@@ -9243,6 +9283,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 178508,
+      "num": 393396,
+      "word": "美国开始给自己找台阶了",
+      "onboard_time": 1745579121,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 178265,
       "num": 178265,
       "word": "杨紫手握五部待播作品",
@@ -9729,6 +9777,14 @@
       "onboard_time": 1745398341,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 171561,
+      "num": 171561,
+      "word": "周深2年演唱会座位图变化",
+      "onboard_time": 1745579662,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 171344,
@@ -10225,6 +10281,14 @@
       "onboard_time": 1745464401,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165011,
+      "num": 165011,
+      "word": "偶遇黄磊孙莉一家四口出游",
+      "onboard_time": 1745579781,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 164981,
@@ -11515,14 +11579,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 150897,
-      "num": 150897,
-      "word": "终于等到沈月古装剧了",
-      "onboard_time": 1745579781,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 150839,
       "num": 150839,
       "word": "心疼宣夜",
@@ -12433,14 +12489,6 @@
       "onboard_time": 1745214023,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 141333,
-      "num": 141333,
-      "word": "周深2年演唱会座位图变化",
-      "onboard_time": 1745579662,
-      "rank": 44,
-      "category": "演出"
     },
     {
       "raw_hot": 141016,
@@ -13451,6 +13499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130753,
+      "num": 130753,
+      "word": "种地吧片尾农学院真正的招生简章",
+      "onboard_time": 1745580441,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130517,
       "num": 130517,
       "word": "盘点洛阳牡丹的神仙配色",
@@ -13561,6 +13617,14 @@
       "onboard_time": 1745167701,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129752,
+      "num": 129752,
+      "word": "放心交给张凌赫他会搞砸的",
+      "onboard_time": 1745580622,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 129717,
@@ -13729,14 +13793,6 @@
       "onboard_time": 1745237482,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 127765,
-      "num": 127765,
-      "word": "偶遇黄磊孙莉一家四口出游",
-      "onboard_time": 1745579781,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 127583,
@@ -15347,6 +15403,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 102276,
+      "num": 254793,
+      "word": "猿辅导员工目睹同事加班晕倒",
+      "onboard_time": 1745580023,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102108,
       "num": 102108,
       "word": "盛李豪积分10000分",
@@ -16011,6 +16075,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 90475,
+      "num": 420096,
+      "word": "外交部重申中美未就关税磋商谈判",
+      "onboard_time": 1745579421,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 90472,
       "num": 90472,
       "word": "有机会一定要去泉州拍次簪花",
@@ -16347,14 +16419,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 82584,
-      "num": 196873,
-      "word": "猿辅导员工目睹同事加班晕倒",
-      "onboard_time": 1745580023,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 82427,
       "num": 255966,
       "word": "中概股指数涨幅扩大至5%",
@@ -16593,14 +16657,6 @@
       "onboard_time": 1745459303,
       "rank": 47,
       "category": "财经"
-    },
-    {
-      "raw_hot": 78960,
-      "num": 393396,
-      "word": "美国开始给自己找台阶了",
-      "onboard_time": 1745579121,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 78845,
@@ -19547,14 +19603,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 39382,
-      "num": 420096,
-      "word": "外交部重申中美未就关税磋商谈判",
-      "onboard_time": 1745579421,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 39301,
       "num": 322486,
       "word": "专家称全球对美国经济信心下降",
@@ -19596,7 +19644,7 @@
     },
     {
       "raw_hot": 39004,
-      "num": 167277,
+      "num": 171579,
       "word": "印象最深的国羽苏杯瞬间",
       "onboard_time": 1745578942,
       "rank": 34,
@@ -19673,6 +19721,14 @@
       "onboard_time": 1745514978,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 37751,
+      "num": 376333,
+      "word": "随手盗录哪吒的这伙人被抓到了",
+      "onboard_time": 1745579242,
+      "rank": 19,
+      "category": "民生新闻,电影"
     },
     {
       "raw_hot": 37711,
@@ -20209,14 +20265,6 @@
       "onboard_time": 1745505024,
       "rank": 14,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 30317,
-      "num": 376333,
-      "word": "随手盗录哪吒的这伙人被抓到了",
-      "onboard_time": 1745579242,
-      "rank": 19,
-      "category": "民生新闻,电影"
     },
     {
       "raw_hot": 30214,
@@ -22035,6 +22083,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 13693,
+      "num": 250722,
+      "word": "金扫帚奖能否让演员正视问题",
+      "onboard_time": 1745580082,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 13650,
       "num": 20484,
       "word": "一句古话说透中马关系",
@@ -22057,6 +22113,14 @@
       "onboard_time": 1745093294,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 13420,
+      "num": 132912,
+      "word": "雷军的前同事都有谁",
+      "onboard_time": 1745580202,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13298,
@@ -22553,14 +22617,6 @@
       "onboard_time": 1745148802,
       "rank": 39,
       "category": "国际时政,民生新闻"
-    },
-    {
-      "raw_hot": 7143,
-      "num": 153214,
-      "word": "金扫帚奖能否让演员正视问题",
-      "onboard_time": 1745580082,
-      "rank": 38,
-      "category": "电影"
     },
     {
       "raw_hot": 7124,
