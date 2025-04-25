@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/20 00:29:07 ~ 2025/04/26 01:39:32
+本榜单时间：2025/04/20 00:29:07 ~ 2025/04/26 02:33:35
 </p>
 </blockquote>
 <p>
@@ -15159,6 +15159,12 @@ TTG空降WAW团建（热度：48540）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%8F%B2%E9%99%88%E5%A5%95%E8%BF%85%E9%99%88%E4%BC%9F%E9%9C%86%E7%9C%8B%E8%B0%A2%E9%9C%86%E9%94%8B%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
+王菲陈奕迅陈伟霆看谢霆锋演唱会（热度：43375）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9F%B3%E5%B7%9E%E9%80%9A%E6%8A%A5%E5%8F%B8%E6%9C%BA%E6%80%BC%E4%B9%98%E5%AE%A2%E4%B8%8D%E5%8A%A0%E4%BB%B7%E6%89%93%E4%B8%8D%E5%88%B0%E8%BD%A6%23" target="weibo">
 柳州通报司机怼乘客不加价打不到车（热度：43373）
 </a>
@@ -15897,6 +15903,12 @@ Gumayusi再度首发（热度：40037）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B7%BA%E8%84%9A%E5%8F%98%E8%A3%85%23" target="weibo">
+跺脚变装（热度：31823）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E4%B8%80%E9%B1%BC%E8%B4%A9%E7%94%A8%E7%A7%A4%E7%A0%A3%E7%A0%B8%E9%A1%BE%E5%AE%A2%E8%A2%AB%E6%8B%9812%E5%A4%A9%23" target="weibo">
 武汉一鱼贩用秤砣砸顾客被拘12天（热度：31492）
 </a>
@@ -16095,6 +16107,12 @@ deepseek的信息归集准确率有多高（热度：28487）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AF%BC%E6%BC%94%E5%A4%B8%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%98%AF%E9%9A%BE%E5%BE%97%E7%9A%84%E5%A5%BD%E6%BC%94%E5%91%98%23" target="weibo">
+导演夸易烊千玺是难得的好演员（热度：27826）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E4%BB%8E%E5%8F%B0%E4%B8%8B%E8%A7%82%E4%BC%97%E5%88%B0%E5%8F%B0%E4%B8%8A%E5%98%89%E5%AE%BE%23" target="weibo">
 白敬亭从台下观众到台上嘉宾（热度：27803）
 </a>
@@ -16283,6 +16301,12 @@ INS新乐园向被烟头烫伤女子致歉（热度：27201）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%92%AA%E5%92%95%E6%B1%87%23" target="weibo">
 咪咕汇（热度：25299）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A6%82%E6%9E%9C%E6%88%91%E6%98%AF%E8%A5%BF%E6%B8%B8%E7%BC%96%E5%A4%96PD%23" target="weibo">
+如果我是西游编外PD（热度：25263）
 </a>
 </li>
 
