@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745613649298,
+  "endTime": 1745616222299,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -23163,6 +23163,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 14048,
+      "num": 16351,
+      "word": "女子手机失控冲进派出所民警建议砸掉",
+      "onboard_time": 1745616015,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14008,
       "num": 19717,
       "word": "张泽禹又双叒叕发vlog了",
@@ -23249,6 +23257,14 @@
       "onboard_time": 1745484202,
       "rank": 38,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 13168,
+      "num": 16331,
+      "word": "偶遇赵丽颖上海逛街",
+      "onboard_time": 1745615174,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 13108,

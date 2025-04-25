@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/26 00:30:35 ~ 2025/04/26 04:40:49
+本榜单时间：2025/04/26 00:30:35 ~ 2025/04/26 05:23:42
 </p>
 </blockquote>
 <p>
@@ -441,8 +441,20 @@ SM新男团自拍照（热度：42635）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%89%8B%E6%9C%BA%E5%A4%B1%E6%8E%A7%E5%86%B2%E8%BF%9B%E6%B4%BE%E5%87%BA%E6%89%80%E6%B0%91%E8%AD%A6%E5%BB%BA%E8%AE%AE%E7%A0%B8%E6%8E%89%23" target="weibo">
+女子手机失控冲进派出所民警建议砸掉（热度：14048）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%BE%E8%B7%83%E4%BA%AD%E5%9B%9E%E5%BA%94%E8%A2%AB%E4%BB%BB%E5%91%BD%E8%81%94%E5%B8%ADCEO%23" target="weibo">
 贾跃亭回应被任命联席CEO（热度：13345）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%81%B6%E9%81%87%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%B8%8A%E6%B5%B7%E9%80%9B%E8%A1%97%23" target="weibo">
+偶遇赵丽颖上海逛街（热度：13168）
 </a>
 </li>
 

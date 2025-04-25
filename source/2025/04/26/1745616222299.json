@@ -1,0 +1,410 @@
+{
+  "runTime": 1745616222299,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 102886,
+        "num": 136062,
+        "word": "王菲去了谢霆锋演唱会",
+        "onboard_time": 1745595501,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 74559,
+        "num": 74559,
+        "word": "中国取消1.2万吨美国猪肉订单",
+        "onboard_time": 1745570901,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 18849,
+        "num": 56751,
+        "word": "以旧换新带动销售额超7200亿",
+        "onboard_time": 1745587342,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79973,
+        "num": 55849,
+        "word": "朋友圈三天可见 置顶像生死簿那么长",
+        "onboard_time": 1745577680,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 54922,
+        "num": 54922,
+        "word": "复旦回应拟录取600万粉丝网红",
+        "onboard_time": 1745580502,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 49283,
+        "num": 49283,
+        "word": "央视曝光剧本式直播诈骗套路",
+        "onboard_time": 1745595262,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 49125,
+        "num": 49125,
+        "word": "中央巡视组进驻四川首虎落马",
+        "onboard_time": 1745589863,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45476,
+        "num": 45476,
+        "word": "小小的我为什么全网无路透照",
+        "onboard_time": 1745599221,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 43853,
+        "num": 43853,
+        "word": "美式烤肉店称库存耗尽后改用澳牛",
+        "onboard_time": 1745599339,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 43754,
+        "num": 43754,
+        "word": "念无双中疑有加拿大一枝黄花入镜",
+        "onboard_time": 1745598441,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188762,
+        "num": 42924,
+        "word": "蔡徐坤直播突然被封",
+        "onboard_time": 1745596762,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151478,
+        "num": 41891,
+        "word": "35岁女子月入五万北漂十几年只攒下十万",
+        "onboard_time": 1745598261,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103701,
+        "num": 40930,
+        "word": "网友劝36岁女子不要为结婚而结婚",
+        "onboard_time": 1745597063,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91477,
+        "num": 39731,
+        "word": "韩安冉曝与婆婆聊天记录",
+        "onboard_time": 1745594121,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 73085,
+        "num": 39234,
+        "word": "刘雨欣回应",
+        "onboard_time": 1745595501,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46301,
+        "num": 37523,
+        "word": "纽约市民凌晨排两条街长队买中国相机",
+        "onboard_time": 1745592384,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 45695,
+        "num": 36678,
+        "word": "美24岁前童星去世时已怀有身孕",
+        "onboard_time": 1745593822,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36364,
+        "num": 36364,
+        "word": "太原一美人鱼表演者表演时疑溺水",
+        "onboard_time": 1745596402,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36104,
+        "num": 36104,
+        "word": "张柏芝身上戴了7只蝴蝶",
+        "onboard_time": 1745585662,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 33528,
+        "num": 33528,
+        "word": "多方回应黄瓜里被发现藏着针",
+        "onboard_time": 1745587103,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41200,
+        "num": 33452,
+        "word": "妻子翻丈夫手机抓出轨证据获法院采信",
+        "onboard_time": 1745594783,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31324,
+        "num": 31324,
+        "word": "你以为很长胖实际很健康的食物",
+        "onboard_time": 1745594963,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 25749,
+        "num": 25749,
+        "word": "字节跳动100元一天的免费三餐",
+        "onboard_time": 1745582062,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 24918,
+        "num": 24918,
+        "word": "榜上佳婿",
+        "onboard_time": 1745595622,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23991,
+        "num": 23991,
+        "word": "王一博等将亮相华表奖",
+        "onboard_time": 1745576782,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 23114,
+        "num": 23114,
+        "word": "今年一季度全国结婚登记181万对",
+        "onboard_time": 1745578221,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22207,
+        "num": 22207,
+        "word": "60岁阿姨离婚后的状态",
+        "onboard_time": 1745592202,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20896,
+        "num": 20896,
+        "word": "海上神女鞠婧祎",
+        "onboard_time": 1745596163,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 19337,
+        "num": 19337,
+        "word": "王菲陈奕迅陈伟霆看谢霆锋演唱会",
+        "onboard_time": 1745603236,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 18123,
+        "num": 18123,
+        "word": "任嘉伦说再见了半夏",
+        "onboard_time": 1745597063,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19400,
+        "num": 18046,
+        "word": "老板买黄金赚近千万后分给员工",
+        "onboard_time": 1745585181,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18768,
+        "num": 18000,
+        "word": "因为你每天摸墙100次",
+        "onboard_time": 1745585302,
+        "rank": 31,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 17779,
+        "num": 17779,
+        "word": "郑钦文止步女单次轮",
+        "onboard_time": 1745593222,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16816,
+        "num": 16816,
+        "word": "孟子义 别恶剪啊我超努力的",
+        "onboard_time": 1745592324,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16799,
+        "num": 16799,
+        "word": "华表奖 赵丽颖",
+        "onboard_time": 1745581342,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 16377,
+        "num": 16377,
+        "word": "奔跑吧13开播",
+        "onboard_time": 1745581822,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15757,
+        "num": 16375,
+        "word": "你可能一直忌口错了",
+        "onboard_time": 1745597182,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 15310,
+        "num": 16371,
+        "word": "建议你积极拥抱线下生活",
+        "onboard_time": 1745596762,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15067,
+        "num": 16364,
+        "word": "熬到凌晨三点看完的小说",
+        "onboard_time": 1745592202,
+        "rank": 38,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 14941,
+        "num": 16361,
+        "word": "杨紫给主持人打伞",
+        "onboard_time": 1745590703,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 14861,
+        "num": 16360,
+        "word": "华表奖阵容官宣",
+        "onboard_time": 1745576600,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 14383,
+        "num": 16353,
+        "word": "戚薇夫妻关系是冷暖自知的",
+        "onboard_time": 1745608094,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14048,
+        "num": 16351,
+        "word": "女子手机失控冲进派出所民警建议砸掉",
+        "onboard_time": 1745616015,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13884,
+        "num": 16343,
+        "word": "孔雪儿娇纵却实在美丽",
+        "onboard_time": 1745595322,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13288,
+        "num": 16341,
+        "word": "方励谈选择王俊凯的原因",
+        "onboard_time": 1745596041,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 13250,
+        "num": 16336,
+        "word": "蔡徐坤状态",
+        "onboard_time": 1745595562,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13168,
+        "num": 16331,
+        "word": "偶遇赵丽颖上海逛街",
+        "onboard_time": 1745615174,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13160,
+        "num": 16331,
+        "word": "惠英红包租婆细节是自己设计的",
+        "onboard_time": 1745606416,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 12930,
+        "num": 16326,
+        "word": "无忧渡有第二季吗",
+        "onboard_time": 1745594243,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12704,
+        "num": 16322,
+        "word": "巅峰对决",
+        "onboard_time": 1745595622,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国是世界绿色发展的坚定行动派重要贡献者#"
+    }
+  }
+}
