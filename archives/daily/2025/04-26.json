@@ -1,6 +1,6 @@
 {
   "startTime": 1745598635164,
-  "endTime": 1745620959458,
+  "endTime": 1745623382457,
   "band_list": [
     {
       "raw_hot": 3420165,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 799208,
-      "num": 313441,
+      "num": 326948,
       "word": "朋友圈三天可见 置顶像生死簿那么长",
       "onboard_time": 1745577680,
       "rank": 3,
@@ -65,6 +65,14 @@
       "onboard_time": 1745592261,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 512627,
+      "num": 790423,
+      "word": "纽约市民凌晨排两条街长队买中国相机",
+      "onboard_time": 1745592384,
+      "rank": 26,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 504075,
@@ -107,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 309735,
+      "num": 152517,
+      "word": "网友劝36岁女子不要为结婚而结婚",
+      "onboard_time": 1745597063,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 303372,
       "num": 303372,
       "word": "中央巡视组进驻四川首虎落马",
@@ -123,28 +139,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 299298,
+      "num": 94864,
+      "word": "女子手机失控冲进派出所民警建议砸掉",
+      "onboard_time": 1745616015,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 284653,
       "num": 284653,
       "word": "字节跳动100元一天的免费三餐",
       "onboard_time": 1745582062,
       "rank": 7,
       "category": "美食"
-    },
-    {
-      "raw_hot": 275296,
-      "num": 275296,
-      "word": "纽约市民凌晨排两条街长队买中国相机",
-      "onboard_time": 1745592384,
-      "rank": 26,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 270645,
-      "num": 130033,
-      "word": "网友劝36岁女子不要为结婚而结婚",
-      "onboard_time": 1745597063,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 261118,
@@ -179,14 +187,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 231963,
-      "num": 66250,
-      "word": "女子手机失控冲进派出所民警建议砸掉",
-      "onboard_time": 1745616015,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 229231,
       "num": 272496,
       "word": "央视曝光剧本式直播诈骗套路",
@@ -195,20 +195,20 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 204165,
+      "num": 204165,
+      "word": "念无双中疑有加拿大一枝黄花入镜",
+      "onboard_time": 1745598441,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197412,
       "num": 197412,
       "word": "妻子翻丈夫手机抓出轨证据获法院采信",
       "onboard_time": 1745594783,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 173800,
-      "num": 173800,
-      "word": "念无双中疑有加拿大一枝黄花入镜",
-      "onboard_time": 1745598441,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 171167,
@@ -363,6 +363,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 82916,
+      "num": 82916,
+      "word": "老板买黄金赚近千万后分给员工",
+      "onboard_time": 1745585181,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82790,
       "num": 82790,
       "word": "断崖式分手后发现前任已有新欢",
@@ -395,12 +403,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 79377,
-      "num": 79377,
-      "word": "老板买黄金赚近千万后分给员工",
-      "onboard_time": 1745585181,
-      "rank": 49,
-      "category": "民生新闻"
+      "raw_hot": 75714,
+      "num": 75714,
+      "word": "杨天真回应减肥质疑",
+      "onboard_time": 1745617574,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 74276,
@@ -417,6 +425,14 @@
       "onboard_time": 1745587342,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72783,
+      "num": 75504,
+      "word": "王菲陈奕迅陈伟霆看谢霆锋演唱会",
+      "onboard_time": 1745603236,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 66583,
@@ -443,20 +459,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 49863,
-      "num": 49863,
-      "word": "王菲陈奕迅陈伟霆看谢霆锋演唱会",
-      "onboard_time": 1745603236,
-      "rank": 22,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 46172,
-      "num": 46172,
-      "word": "杨天真回应减肥质疑",
-      "onboard_time": 1745617574,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 50753,
+      "num": 50753,
+      "word": "戚薇夫妻关系是冷暖自知的",
+      "onboard_time": 1745608094,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 45282,
@@ -507,14 +515,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 32956,
-      "num": 32956,
-      "word": "戚薇夫妻关系是冷暖自知的",
-      "onboard_time": 1745608094,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 32786,
       "num": 47878,
       "word": "一组壁纸收藏故宫的春天",
@@ -531,12 +531,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 30904,
+      "num": 38605,
+      "word": "老师不语只是一味的扣分",
+      "onboard_time": 1745618055,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 30736,
       "num": 258840,
       "word": "古人的春游plog太惊艳",
       "onboard_time": 1745598201,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29636,
+      "num": 38592,
+      "word": "吴宣仪催更淮水竹亭",
+      "onboard_time": 1745621177,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 27826,
@@ -553,6 +569,14 @@
       "onboard_time": 1745605156,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 24622,
+      "num": 38541,
+      "word": "高伟光拍戏居然敢不化妆",
+      "onboard_time": 1745622979,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 23111,
@@ -593,14 +617,6 @@
       "onboard_time": 1745618895,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 19007,
-      "num": 24199,
-      "word": "老师不语只是一味的扣分",
-      "onboard_time": 1745618055,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 18724,

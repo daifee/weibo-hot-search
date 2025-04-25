@@ -1,0 +1,410 @@
+{
+  "runTime": 1745623382457,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 512627,
+        "num": 790423,
+        "word": "纽约市民凌晨排两条街长队买中国相机",
+        "onboard_time": 1745592384,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 367285,
+        "num": 367285,
+        "word": "王菲去了谢霆锋演唱会",
+        "onboard_time": 1745595501,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 50922,
+        "num": 328876,
+        "word": "以旧换新带动销售额超7200亿",
+        "onboard_time": 1745587342,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 326948,
+        "num": 326948,
+        "word": "朋友圈三天可见 置顶像生死簿那么长",
+        "onboard_time": 1745577680,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 212574,
+        "num": 212574,
+        "word": "中央巡视组进驻四川首虎落马",
+        "onboard_time": 1745589863,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207475,
+        "num": 207475,
+        "word": "复旦回应拟录取600万粉丝网红",
+        "onboard_time": 1745580502,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 204165,
+        "num": 204165,
+        "word": "念无双中疑有加拿大一枝黄花入镜",
+        "onboard_time": 1745598441,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194630,
+        "num": 194630,
+        "word": "中国取消1.2万吨美国猪肉订单",
+        "onboard_time": 1745570901,
+        "rank": 7,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 159475,
+        "num": 159475,
+        "word": "美式烤肉店称库存耗尽后改用澳牛",
+        "onboard_time": 1745599339,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 156895,
+        "num": 156895,
+        "word": "多方回应黄瓜里被发现藏着针",
+        "onboard_time": 1745587103,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 766154,
+        "num": 155662,
+        "word": "蔡徐坤直播突然被封",
+        "onboard_time": 1745596762,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 713704,
+        "num": 155181,
+        "word": "35岁女子月入五万北漂十几年只攒下十万",
+        "onboard_time": 1745598261,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 463921,
+        "num": 154245,
+        "word": "韩安冉曝与婆婆聊天记录",
+        "onboard_time": 1745594121,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 309735,
+        "num": 152517,
+        "word": "网友劝36岁女子不要为结婚而结婚",
+        "onboard_time": 1745597063,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239926,
+        "num": 150531,
+        "word": "刘雨欣回应",
+        "onboard_time": 1745595501,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213442,
+        "num": 149497,
+        "word": "美24岁前童星去世时已怀有身孕",
+        "onboard_time": 1745593822,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149057,
+        "num": 149057,
+        "word": "央视曝光剧本式直播诈骗套路",
+        "onboard_time": 1745595262,
+        "rank": 16,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 124304,
+        "num": 124304,
+        "word": "张柏芝身上戴了7只蝴蝶",
+        "onboard_time": 1745585662,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 109016,
+        "num": 109016,
+        "word": "太原一美人鱼表演者表演时疑溺水",
+        "onboard_time": 1745596402,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106194,
+        "num": 106194,
+        "word": "小小的我为什么全网无路透照",
+        "onboard_time": 1745599221,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 299298,
+        "num": 94864,
+        "word": "女子手机失控冲进派出所民警建议砸掉",
+        "onboard_time": 1745616015,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161997,
+        "num": 92993,
+        "word": "妻子翻丈夫手机抓出轨证据获法院采信",
+        "onboard_time": 1745594783,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110862,
+        "num": 90957,
+        "word": "你以为很长胖实际很健康的食物",
+        "onboard_time": 1745594963,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 82916,
+        "num": 82916,
+        "word": "老板买黄金赚近千万后分给员工",
+        "onboard_time": 1745585181,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78567,
+        "num": 78567,
+        "word": "海上神女鞠婧祎",
+        "onboard_time": 1745596163,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 75714,
+        "num": 75714,
+        "word": "杨天真回应减肥质疑",
+        "onboard_time": 1745617574,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72783,
+        "num": 75504,
+        "word": "王菲陈奕迅陈伟霆看谢霆锋演唱会",
+        "onboard_time": 1745603236,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 71058,
+        "num": 75264,
+        "word": "王一博等将亮相华表奖",
+        "onboard_time": 1745576782,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 66924,
+        "num": 75113,
+        "word": "孟子义 别恶剪啊我超努力的",
+        "onboard_time": 1745592324,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62806,
+        "num": 74875,
+        "word": "杨紫给主持人打伞",
+        "onboard_time": 1745590703,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 74787,
+        "num": 74787,
+        "word": "今年一季度全国结婚登记181万对",
+        "onboard_time": 1745578221,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71393,
+        "num": 71393,
+        "word": "字节跳动100元一天的免费三餐",
+        "onboard_time": 1745582062,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 62729,
+        "num": 62729,
+        "word": "60岁阿姨离婚后的状态",
+        "onboard_time": 1745592202,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57359,
+        "num": 57359,
+        "word": "华表奖 赵丽颖",
+        "onboard_time": 1745581342,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 50753,
+        "num": 50753,
+        "word": "戚薇夫妻关系是冷暖自知的",
+        "onboard_time": 1745608094,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47127,
+        "num": 47127,
+        "word": "任嘉伦说再见了半夏",
+        "onboard_time": 1745597063,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42133,
+        "num": 42133,
+        "word": "郑钦文止步女单次轮",
+        "onboard_time": 1745593222,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38718,
+        "num": 38718,
+        "word": "华表奖阵容官宣",
+        "onboard_time": 1745576600,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 36271,
+        "num": 38705,
+        "word": "偶遇赵丽颖上海逛街",
+        "onboard_time": 1745615174,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36052,
+        "num": 38695,
+        "word": "熬到凌晨三点看完的小说",
+        "onboard_time": 1745592202,
+        "rank": 39,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 33401,
+        "num": 38676,
+        "word": "蔡徐坤状态",
+        "onboard_time": 1745595562,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32738,
+        "num": 38660,
+        "word": "孔雪儿娇纵却实在美丽",
+        "onboard_time": 1745595322,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31723,
+        "num": 38654,
+        "word": "因为你每天摸墙100次",
+        "onboard_time": 1745585302,
+        "rank": 42,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 31632,
+        "num": 38631,
+        "word": "方励谈选择王俊凯的原因",
+        "onboard_time": 1745596041,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 31466,
+        "num": 38618,
+        "word": "奔跑吧13开播",
+        "onboard_time": 1745581822,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30904,
+        "num": 38605,
+        "word": "老师不语只是一味的扣分",
+        "onboard_time": 1745618055,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 29636,
+        "num": 38592,
+        "word": "吴宣仪催更淮水竹亭",
+        "onboard_time": 1745621177,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29627,
+        "num": 38573,
+        "word": "榜上佳婿",
+        "onboard_time": 1745595622,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26708,
+        "num": 38564,
+        "word": "你可能一直忌口错了",
+        "onboard_time": 1745597182,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 24622,
+        "num": 38541,
+        "word": "高伟光拍戏居然敢不化妆",
+        "onboard_time": 1745622979,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央政治局召开会议#"
+    }
+  }
+}

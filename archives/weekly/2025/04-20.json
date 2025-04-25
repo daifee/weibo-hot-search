@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745620959458,
+  "endTime": 1745623382457,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -3043,6 +3043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 512627,
+      "num": 790423,
+      "word": "纽约市民凌晨排两条街长队买中国相机",
+      "onboard_time": 1745592384,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 512390,
       "num": 224153,
       "word": "徐冬冬只减120斤以上的肉肉",
@@ -5075,6 +5083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 309735,
+      "num": 152517,
+      "word": "网友劝36岁女子不要为结婚而结婚",
+      "onboard_time": 1745597063,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 309611,
       "num": 309611,
       "word": "李彦宏说DeepSeek又贵又慢",
@@ -5305,6 +5321,14 @@
       "onboard_time": 1745132783,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 299298,
+      "num": 94864,
+      "word": "女子手机失控冲进派出所民警建议砸掉",
+      "onboard_time": 1745616015,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 299183,
@@ -5771,14 +5795,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 275296,
-      "num": 275296,
-      "word": "纽约市民凌晨排两条街长队买中国相机",
-      "onboard_time": 1745592384,
-      "rank": 32,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 273723,
       "num": 273723,
       "word": "国内航司开始暂停接收波音飞机",
@@ -5873,14 +5889,6 @@
       "onboard_time": 1745310201,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 270645,
-      "num": 130033,
-      "word": "网友劝36岁女子不要为结婚而结婚",
-      "onboard_time": 1745597063,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 270442,
@@ -6833,14 +6841,6 @@
       "onboard_time": 1745410942,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 231963,
-      "num": 66250,
-      "word": "女子手机失控冲进派出所民警建议砸掉",
-      "onboard_time": 1745616015,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 231863,
@@ -7841,6 +7841,14 @@
       "onboard_time": 1745235862,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 204165,
+      "num": 204165,
+      "word": "念无双中疑有加拿大一枝黄花入镜",
+      "onboard_time": 1745598441,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 204161,
@@ -10097,14 +10105,6 @@
       "onboard_time": 1745230823,
       "rank": 36,
       "category": "美食"
-    },
-    {
-      "raw_hot": 173800,
-      "num": 173800,
-      "word": "念无双中疑有加拿大一枝黄花入镜",
-      "onboard_time": 1745598441,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 173766,
@@ -17675,6 +17675,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 75714,
+      "num": 75714,
+      "word": "杨天真回应减肥质疑",
+      "onboard_time": 1745617574,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 75647,
       "num": 75647,
       "word": "北京国际电影节",
@@ -17833,6 +17841,14 @@
       "onboard_time": 1745380344,
       "rank": 17,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 72783,
+      "num": 75504,
+      "word": "王菲陈奕迅陈伟霆看谢霆锋演唱会",
+      "onboard_time": 1745603236,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 72668,
@@ -19547,6 +19563,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 50753,
+      "num": 50753,
+      "word": "戚薇夫妻关系是冷暖自知的",
+      "onboard_time": 1745608094,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 50595,
       "num": 164419,
       "word": "写给地球的绿色来信",
@@ -19657,14 +19681,6 @@
       "onboard_time": 1745561242,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 49863,
-      "num": 49863,
-      "word": "王菲陈奕迅陈伟霆看谢霆锋演唱会",
-      "onboard_time": 1745603236,
-      "rank": 22,
-      "category": "演出"
     },
     {
       "raw_hot": 49838,
@@ -20001,14 +20017,6 @@
       "onboard_time": 1745289019,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 46172,
-      "num": 46172,
-      "word": "杨天真回应减肥质疑",
-      "onboard_time": 1745617574,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 46159,
@@ -21099,14 +21107,6 @@
       "category": "教育,科学科普"
     },
     {
-      "raw_hot": 32956,
-      "num": 32956,
-      "word": "戚薇夫妻关系是冷暖自知的",
-      "onboard_time": 1745608094,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 32917,
       "num": 32917,
       "word": "当事人回应造城者剧组欠薪4个月",
@@ -21259,6 +21259,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 30904,
+      "num": 38605,
+      "word": "老师不语只是一味的扣分",
+      "onboard_time": 1745618055,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 30777,
       "num": 2343013,
       "word": "何以中国走进福建",
@@ -21353,6 +21361,14 @@
       "onboard_time": 1745257216,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 29636,
+      "num": 38592,
+      "word": "吴宣仪催更淮水竹亭",
+      "onboard_time": 1745621177,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 29495,
@@ -21849,6 +21865,14 @@
       "onboard_time": 1745248942,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24622,
+      "num": 38541,
+      "word": "高伟光拍戏居然敢不化妆",
+      "onboard_time": 1745622979,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 24473,
@@ -22553,14 +22577,6 @@
       "onboard_time": 1745204063,
       "rank": 43,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 19007,
-      "num": 24199,
-      "word": "老师不语只是一味的扣分",
-      "onboard_time": 1745618055,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 18981,
