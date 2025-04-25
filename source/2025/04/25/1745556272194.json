@@ -1,0 +1,410 @@
+{
+  "runTime": 1745556272194,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1257741,
+        "num": 1257741,
+        "word": "韩国残运会盒饭只有泡菜小菜引众怒",
+        "onboard_time": 1745555122,
+        "rank": 0,
+        "category": "体育,海外新闻"
+      },
+      {
+        "raw_hot": 819747,
+        "num": 819747,
+        "word": "猿辅导回应武汉员工事件",
+        "onboard_time": 1745549719,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16378,
+        "num": 679732,
+        "word": "美国关税问题解铃还需系铃人",
+        "onboard_time": 1745483181,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 634434,
+        "num": 634434,
+        "word": "曹骏外甥当然要像舅舅了",
+        "onboard_time": 1745554761,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 613619,
+        "num": 613619,
+        "word": "亲爱的妍珍 我终于抵达了西班牙",
+        "onboard_time": 1745553980,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 410840,
+        "num": 410840,
+        "word": "千元拳击靶用女士内衣做填充物",
+        "onboard_time": 1745552300,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 511864,
+        "num": 377042,
+        "word": "曹骏出场",
+        "onboard_time": 1745541383,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 304403,
+        "num": 304403,
+        "word": "新疆下井救人00后女辅警破格晋升",
+        "onboard_time": 1745536519,
+        "rank": 7,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 438215,
+        "num": 294329,
+        "word": "白月光沉香杀回来了",
+        "onboard_time": 1745550381,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271199,
+        "num": 271199,
+        "word": "光与夜之恋",
+        "onboard_time": 1745555481,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 312075,
+        "num": 270420,
+        "word": "谢霆锋20年后再唱与王菲定情曲",
+        "onboard_time": 1745553382,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1046861,
+        "num": 270005,
+        "word": "赵露思下车动作",
+        "onboard_time": 1745549361,
+        "rank": 11,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 169911,
+        "num": 269510,
+        "word": "李现官宣新身份",
+        "onboard_time": 1745552000,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 728397,
+        "num": 268496,
+        "word": "讨好性礼貌",
+        "onboard_time": 1745550800,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 14832,
+        "num": 267938,
+        "word": "夸克接连霸榜华语区AppStore",
+        "onboard_time": 1745553682,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 267236,
+        "num": 267236,
+        "word": "美检方正式寻求判处路易吉死刑",
+        "onboard_time": 1745553261,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 383059,
+        "num": 262715,
+        "word": "普通人存钱的天花板是多少",
+        "onboard_time": 1745554580,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 341614,
+        "num": 261485,
+        "word": "氯雷他定",
+        "onboard_time": 1745555662,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 256798,
+        "num": 256798,
+        "word": "乘风三公",
+        "onboard_time": 1745555302,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42020,
+        "num": 255887,
+        "word": "剃胡子还能这么玄乎",
+        "onboard_time": 1745553921,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 255763,
+        "num": 255763,
+        "word": "周杰伦年纪越大希望减少工作量",
+        "onboard_time": 1745547500,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246092,
+        "num": 246092,
+        "word": "双胞胎溺水生父被指认为凶手",
+        "onboard_time": 1745553801,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240492,
+        "num": 240492,
+        "word": "儿子悄悄考北大妈妈惊成静止画面",
+        "onboard_time": 1745555782,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22643,
+        "num": 219602,
+        "word": "56元养生体验券顾客最终消费16800元",
+        "onboard_time": 1745555902,
+        "rank": 23,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 49727,
+        "num": 218892,
+        "word": "梁王组合展望苏迪曼杯",
+        "onboard_time": 1745551461,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169231,
+        "num": 218281,
+        "word": "尊界S800内饰太尊了",
+        "onboard_time": 1745550260,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 218278,
+        "num": 218278,
+        "word": "无忧渡 超点",
+        "onboard_time": 1745547381,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212745,
+        "num": 212745,
+        "word": "莫兰特受伤",
+        "onboard_time": 1745550381,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32888,
+        "num": 201835,
+        "word": "一把剃须刀搞定明星同款下颌线",
+        "onboard_time": 1745552541,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 145152,
+        "num": 201470,
+        "word": "成何体统王楚然美貌",
+        "onboard_time": 1745555601,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201314,
+        "num": 201314,
+        "word": "原来这才算穿的干净",
+        "onboard_time": 1745551161,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 211827,
+        "num": 200583,
+        "word": "谢霆锋发文感谢王嘉尔",
+        "onboard_time": 1745549421,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 199761,
+        "num": 199761,
+        "word": "女娲毕设真是各美各的",
+        "onboard_time": 1745555662,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 32436,
+        "num": 194037,
+        "word": "电竞选手隐私泄露俱乐部该如何维权",
+        "onboard_time": 1745556143,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 189261,
+        "num": 189261,
+        "word": "金价",
+        "onboard_time": 1745554043,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 188251,
+        "num": 188251,
+        "word": "唐国强 我为什么不能参加这样的节目",
+        "onboard_time": 1745550620,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185593,
+        "num": 185593,
+        "word": "老外说是朱一龙的bigfan",
+        "onboard_time": 1745546719,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167620,
+        "num": 167620,
+        "word": "掘金vs快船",
+        "onboard_time": 1745554942,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11225,
+        "num": 167299,
+        "word": "特朗普故技重施",
+        "onboard_time": 1745555843,
+        "rank": 38,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 34316,
+        "num": 167254,
+        "word": "百度一个月发4款大模型",
+        "onboard_time": 1745553682,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 167249,
+        "num": 167249,
+        "word": "NBA",
+        "onboard_time": 1745556203,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70584,
+        "num": 166085,
+        "word": "999元旅游预付卡成本仅几毛钱",
+        "onboard_time": 1745554222,
+        "rank": 41,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 165526,
+        "num": 165526,
+        "word": "看上去很贵实际很便宜的旅游城市",
+        "onboard_time": 1745553862,
+        "rank": 42,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 158391,
+        "num": 158391,
+        "word": "孙颖莎出发去封训",
+        "onboard_time": 1745555423,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158041,
+        "num": 158041,
+        "word": "金价波动让水贝金条供不应求",
+        "onboard_time": 1745553442,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155920,
+        "num": 155920,
+        "word": "感觉她上的才是真大学",
+        "onboard_time": 1745551761,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115231,
+        "num": 154744,
+        "word": "韩国60元运动员盒饭过于简陋引众怒",
+        "onboard_time": 1745556143,
+        "rank": 46,
+        "category": "海外新闻,体育"
+      },
+      {
+        "raw_hot": 153742,
+        "num": 153742,
+        "word": "丁真被刘涛说眼里没感情",
+        "onboard_time": 1745551461,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153481,
+        "num": 153481,
+        "word": "肖战上海",
+        "onboard_time": 1745544200,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 149872,
+        "num": 149872,
+        "word": "建议把睡觉当作一天的开始",
+        "onboard_time": 1745547440,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#大力弘扬两弹一星精神载人航天精神#"
+    }
+  }
+}

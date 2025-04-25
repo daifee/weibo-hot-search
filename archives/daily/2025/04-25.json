@@ -1,6 +1,6 @@
 {
   "startTime": 1745512289618,
-  "endTime": 1745555384380,
+  "endTime": 1745556272194,
   "band_list": [
     {
       "raw_hot": 2097894,
@@ -33,6 +33,14 @@
       "onboard_time": 1745549361,
       "rank": 10,
       "category": "其它"
+    },
+    {
+      "raw_hot": 1257741,
+      "num": 1257741,
+      "word": "韩国残运会盒饭只有泡菜小菜引众怒",
+      "onboard_time": 1745555122,
+      "rank": 4,
+      "category": "体育,海外新闻"
     },
     {
       "raw_hot": 1237207,
@@ -123,12 +131,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 634434,
+      "num": 634434,
+      "word": "曹骏外甥当然要像舅舅了",
+      "onboard_time": 1745554761,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 621154,
       "num": 242154,
       "word": "约70%的00后计划30岁前购房",
       "onboard_time": 1745510242,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 613619,
+      "num": 613619,
+      "word": "亲爱的妍珍 我终于抵达了西班牙",
+      "onboard_time": 1745553980,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 579064,
@@ -163,14 +187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 546747,
-      "num": 280437,
-      "word": "亲爱的妍珍 我终于抵达了西班牙",
-      "onboard_time": 1745553980,
-      "rank": 13,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 514988,
       "num": 514988,
       "word": "白月光沉香杀回来了",
@@ -195,14 +211,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 480909,
-      "num": 480909,
-      "word": "韩国残运会盒饭只有泡菜小菜引众怒",
-      "onboard_time": 1745555122,
-      "rank": 4,
-      "category": "体育,海外新闻"
-    },
-    {
       "raw_hot": 431470,
       "num": 431470,
       "word": "任达华女儿在名校跳级上课",
@@ -219,8 +227,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 410667,
-      "num": 410667,
+      "raw_hot": 410840,
+      "num": 410840,
       "word": "千元拳击靶用女士内衣做填充物",
       "onboard_time": 1745552300,
       "rank": 9,
@@ -307,6 +315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 341614,
+      "num": 261485,
+      "word": "氯雷他定",
+      "onboard_time": 1745555662,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 341508,
       "num": 341508,
       "word": "澳大利亚出动直升机扑杀750只考拉",
@@ -339,6 +355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 312075,
+      "num": 294718,
+      "word": "谢霆锋20年后再唱与王菲定情曲",
+      "onboard_time": 1745553382,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 307738,
       "num": 173532,
       "word": "张继科夸马琳不是人是神",
@@ -361,14 +385,6 @@
       "onboard_time": 1745508023,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 294718,
-      "num": 294718,
-      "word": "谢霆锋20年后再唱与王菲定情曲",
-      "onboard_time": 1745553382,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 291462,
@@ -427,6 +443,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 271199,
+      "num": 271199,
+      "word": "光与夜之恋",
+      "onboard_time": 1745555481,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 258317,
       "num": 243831,
       "word": "平安京鬼市大开",
@@ -443,20 +467,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 256798,
+      "num": 256798,
+      "word": "乘风三公",
+      "onboard_time": 1745555302,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 254114,
       "num": 254114,
       "word": "莫兰特受伤",
       "onboard_time": 1745550381,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 254020,
-      "num": 254020,
-      "word": "曹骏外甥当然要像舅舅了",
-      "onboard_time": 1745554761,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 253023,
@@ -489,6 +513,14 @@
       "onboard_time": 1745507782,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 240492,
+      "num": 240492,
+      "word": "儿子悄悄考北大妈妈惊成静止画面",
+      "onboard_time": 1745555782,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 236767,
@@ -571,6 +603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199761,
+      "num": 199761,
+      "word": "女娲毕设真是各美各的",
+      "onboard_time": 1745555662,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 199729,
       "num": 199729,
       "word": "朱正廷摇人抢labubu",
@@ -593,6 +633,14 @@
       "onboard_time": 1745519294,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189261,
+      "num": 189261,
+      "word": "金价",
+      "onboard_time": 1745554043,
+      "rank": 40,
+      "category": "财经"
     },
     {
       "raw_hot": 189218,
@@ -659,14 +707,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 169107,
-      "num": 169107,
-      "word": "金价",
-      "onboard_time": 1745554043,
-      "rank": 40,
-      "category": "财经"
-    },
-    {
       "raw_hot": 168043,
       "num": 168043,
       "word": "国家队缺猫吗",
@@ -675,12 +715,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 166167,
-      "num": 166167,
-      "word": "乘风三公",
-      "onboard_time": 1745555302,
-      "rank": 42,
-      "category": "综艺"
+      "raw_hot": 167620,
+      "num": 167620,
+      "word": "掘金vs快船",
+      "onboard_time": 1745554942,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 167249,
+      "num": 167249,
+      "word": "NBA",
+      "onboard_time": 1745556203,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 165903,
@@ -715,6 +763,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 158391,
+      "num": 158391,
+      "word": "孙颖莎出发去封训",
+      "onboard_time": 1745555423,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157873,
       "num": 157873,
       "word": "BLG 换打野",
@@ -747,14 +803,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 151963,
-      "num": 151963,
-      "word": "掘金vs快船",
-      "onboard_time": 1745554942,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 151916,
       "num": 151916,
       "word": "Wendy签约新公司",
@@ -785,6 +833,14 @@
       "onboard_time": 1745540362,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145152,
+      "num": 201470,
+      "word": "成何体统王楚然美貌",
+      "onboard_time": 1745555601,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 143716,
@@ -961,6 +1017,14 @@
       "onboard_time": 1745538200,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 115231,
+      "num": 154744,
+      "word": "韩国60元运动员盒饭过于简陋引众怒",
+      "onboard_time": 1745556143,
+      "rank": 46,
+      "category": "海外新闻,体育"
     },
     {
       "raw_hot": 114675,
@@ -1419,6 +1483,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 49727,
+      "num": 218892,
+      "word": "梁王组合展望苏迪曼杯",
+      "onboard_time": 1745551461,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 48140,
       "num": 244057,
       "word": "巴特勒G3出战成疑",
@@ -1499,6 +1571,14 @@
       "category": "科学科普,民生新闻"
     },
     {
+      "raw_hot": 32436,
+      "num": 194037,
+      "word": "电竞选手隐私泄露俱乐部该如何维权",
+      "onboard_time": 1745556143,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 31492,
       "num": 249901,
       "word": "武汉一鱼贩用秤砣砸顾客被拘12天",
@@ -1563,6 +1643,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 22643,
+      "num": 219602,
+      "word": "56元养生体验券顾客最终消费16800元",
+      "onboard_time": 1745555902,
+      "rank": 23,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 21210,
       "num": 22899,
       "word": "杨紫北京国际电影节造型",
@@ -1601,6 +1689,14 @@
       "onboard_time": 1745553682,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 16378,
+      "num": 679732,
+      "word": "美国关税问题解铃还需系铃人",
+      "onboard_time": 1745483181,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 15216,
@@ -1643,20 +1739,20 @@
       "category": "体育,运动健身"
     },
     {
+      "raw_hot": 11225,
+      "num": 167299,
+      "word": "特朗普故技重施",
+      "onboard_time": 1745555843,
+      "rank": 38,
+      "category": "国际时政,民生新闻"
+    },
+    {
       "raw_hot": 10678,
       "num": 117719,
       "word": "宁艺卓国内首封elle含金量怎么样",
       "onboard_time": 1745536939,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 9658,
-      "num": 595005,
-      "word": "美国关税问题解铃还需系铃人",
-      "onboard_time": 1745483181,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 6941,
@@ -1676,6 +1772,9 @@
     },
     {
       "word": "#逐梦九天不止步#"
+    },
+    {
+      "word": "#大力弘扬两弹一星精神载人航天精神#"
     }
   ]
 }
