@@ -1,0 +1,410 @@
+{
+  "runTime": 1745566663523,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 898152,
+        "num": 1143704,
+        "word": "儿子悄悄考北大妈妈惊成静止画面",
+        "onboard_time": 1745555782,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 796030,
+        "num": 796030,
+        "word": "金扫帚",
+        "onboard_time": 1745560822,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 19261,
+        "num": 718430,
+        "word": "美国关税问题解铃还需系铃人",
+        "onboard_time": 1745483181,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 676699,
+        "num": 676699,
+        "word": "生母继父虐杀掩埋孩子后曾痛哭寻子",
+        "onboard_time": 1745564661,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 428738,
+        "num": 428738,
+        "word": "中共中央政治局4月25日召开会议",
+        "onboard_time": 1745561301,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 640369,
+        "num": 426964,
+        "word": "印度已切断印度河水",
+        "onboard_time": 1745556682,
+        "rank": 5,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 383745,
+        "num": 383745,
+        "word": "陈德容哭了",
+        "onboard_time": 1745560102,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 358328,
+        "num": 358328,
+        "word": "学生摔倒家长索赔8万被驳回",
+        "onboard_time": 1745560221,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 320414,
+        "num": 320414,
+        "word": "韩国残运会盒饭只有泡菜小菜引众怒",
+        "onboard_time": 1745555122,
+        "rank": 8,
+        "category": "体育,海外新闻"
+      },
+      {
+        "raw_hot": 50052,
+        "num": 314959,
+        "word": "王鹤棣动不动喝什么",
+        "onboard_time": 1745562802,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55053,
+        "num": 311720,
+        "word": "于适鸿星尔克",
+        "onboard_time": 1745562981,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1495448,
+        "num": 303835,
+        "word": "迅猛龙考上复旦了",
+        "onboard_time": 1745559563,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1043016,
+        "num": 297154,
+        "word": "氯雷他定",
+        "onboard_time": 1745555662,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 289521,
+        "num": 289521,
+        "word": "印控克什米尔恐袭遇难者全为男性",
+        "onboard_time": 1745563941,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 87948,
+        "num": 289309,
+        "word": "猿辅导员工自曝经常晚10点干到早6点",
+        "onboard_time": 1745566102,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315728,
+        "num": 288823,
+        "word": "金敏喜生子后状态",
+        "onboard_time": 1745561180,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230304,
+        "num": 288639,
+        "word": "浪姐6陈昊宇陈丽君同框预告",
+        "onboard_time": 1745562922,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185107,
+        "num": 288285,
+        "word": "美媒说中国赢下了这一轮",
+        "onboard_time": 1745557642,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 87882,
+        "num": 287778,
+        "word": "管乐向云端solo",
+        "onboard_time": 1745565801,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72545,
+        "num": 287198,
+        "word": "韩安冉自曝靠安眠药才能入睡",
+        "onboard_time": 1745561482,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 229601,
+        "num": 286867,
+        "word": "孙燕姿抢票",
+        "onboard_time": 1745562802,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 375630,
+        "num": 286544,
+        "word": "杨威妻子被诊断太劳累气血不足",
+        "onboard_time": 1745564001,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286273,
+        "num": 286273,
+        "word": "为卖课猿辅导对家长进行电话轰炸",
+        "onboard_time": 1745564721,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284291,
+        "num": 284291,
+        "word": "赵露思下车动作",
+        "onboard_time": 1745549361,
+        "rank": 23,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 67047,
+        "num": 278225,
+        "word": "持续稳定和活跃资本市场",
+        "onboard_time": 1745566281,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 275214,
+        "num": 275214,
+        "word": "巴基斯坦与印度军队发生交火",
+        "onboard_time": 1745562322,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 209003,
+        "num": 209003,
+        "word": "曹骏外甥当然要像舅舅了",
+        "onboard_time": 1745554761,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203247,
+        "num": 203247,
+        "word": "成毅告黑名单",
+        "onboard_time": 1745566161,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48699,
+        "num": 191817,
+        "word": "看了阿维塔06我心动了",
+        "onboard_time": 1745562802,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 190699,
+        "num": 190699,
+        "word": "留几手向董明珠道歉",
+        "onboard_time": 1745559023,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177950,
+        "num": 177950,
+        "word": "长期熬夜后身体释放的求救信号",
+        "onboard_time": 1745557222,
+        "rank": 30,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 175380,
+        "num": 175380,
+        "word": "于正回应多名艺人退圈",
+        "onboard_time": 1745565801,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168766,
+        "num": 168766,
+        "word": "丞磊拍的王楚然",
+        "onboard_time": 1745563401,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129717,
+        "num": 167423,
+        "word": "巴方要求印度就恐袭指控举证",
+        "onboard_time": 1745566040,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 166406,
+        "num": 166406,
+        "word": "人鱼的眼泪",
+        "onboard_time": 1745566102,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165537,
+        "num": 165537,
+        "word": "易烊千玺同款索道原来在青岛",
+        "onboard_time": 1745560462,
+        "rank": 35,
+        "category": "艺人,旅游"
+      },
+      {
+        "raw_hot": 165474,
+        "num": 165474,
+        "word": "普通人存钱的天花板是多少",
+        "onboard_time": 1745554580,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151523,
+        "num": 151523,
+        "word": "侯佩岑 神女爱世人",
+        "onboard_time": 1745563821,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142829,
+        "num": 142829,
+        "word": "周深将亮相北影节闭幕式",
+        "onboard_time": 1745566161,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142257,
+        "num": 142257,
+        "word": "吴宣仪又美又媚",
+        "onboard_time": 1745565501,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32203,
+        "num": 136661,
+        "word": "卤鹅哥坦言走红后会焦虑害怕",
+        "onboard_time": 1745564601,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 133612,
+        "num": 133612,
+        "word": "特朗普称俄未占领整个乌克兰就是重大让步",
+        "onboard_time": 1745563522,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 130373,
+        "num": 130373,
+        "word": "老外说是朱一龙的bigfan",
+        "onboard_time": 1745546719,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 126249,
+        "num": 126249,
+        "word": "黄金股午后跳水",
+        "onboard_time": 1745566220,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 124292,
+        "num": 124292,
+        "word": "杨紫雾粉无袖裙",
+        "onboard_time": 1745562142,
+        "rank": 44,
+        "category": "作品衍生,综艺"
+      },
+      {
+        "raw_hot": 115583,
+        "num": 115583,
+        "word": "华表奖表演嘉宾公布",
+        "onboard_time": 1745566522,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 114967,
+        "num": 114967,
+        "word": "年轻人放假前哪有不疯的",
+        "onboard_time": 1745565562,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114034,
+        "num": 114034,
+        "word": "无忧渡找不到宣夜怎么半",
+        "onboard_time": 1745562381,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109663,
+        "num": 109663,
+        "word": "韩国60元运动员盒饭过于简陋引众怒",
+        "onboard_time": 1745556143,
+        "rank": 48,
+        "category": "海外新闻,体育"
+      },
+      {
+        "raw_hot": 102747,
+        "num": 102747,
+        "word": "榜上佳婿好多cp啊",
+        "onboard_time": 1745566641,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#大力弘扬两弹一星精神载人航天精神#"
+    }
+  }
+}
