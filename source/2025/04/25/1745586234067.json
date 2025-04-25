@@ -1,0 +1,410 @@
+{
+  "runTime": 1745586234067,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1977640,
+        "num": 1977640,
+        "word": "复旦回应拟录取600万粉丝网红",
+        "onboard_time": 1745580502,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1210042,
+        "num": 1210042,
+        "word": "字节跳动100元一天的免费三餐",
+        "onboard_time": 1745582062,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 31859,
+        "num": 716523,
+        "word": "从一季度出行数据感知经济活力",
+        "onboard_time": 1745573422,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1500408,
+        "num": 711102,
+        "word": "朋友圈三天可见 置顶像生死簿那么长",
+        "onboard_time": 1745577680,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 671648,
+        "num": 671648,
+        "word": "中国取消1.2万吨美国猪肉订单",
+        "onboard_time": 1745570901,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 375426,
+        "num": 660545,
+        "word": "今年一季度全国结婚登记181万对",
+        "onboard_time": 1745578221,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 656619,
+        "num": 656619,
+        "word": "华表奖 赵丽颖",
+        "onboard_time": 1745581342,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 463496,
+        "num": 463496,
+        "word": "无忧渡大结局",
+        "onboard_time": 1745575881,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 441668,
+        "num": 441668,
+        "word": "华表奖阵容官宣",
+        "onboard_time": 1745576600,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 192667,
+        "num": 431150,
+        "word": "小伙申请改名周天紫薇大帝被驳回",
+        "onboard_time": 1745569160,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 680233,
+        "num": 428362,
+        "word": "无忧渡oe",
+        "onboard_time": 1745577380,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 478806,
+        "num": 427573,
+        "word": "刘亦菲皮肤状态",
+        "onboard_time": 1745585842,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 424803,
+        "num": 424803,
+        "word": "鞠婧祎直播",
+        "onboard_time": 1745585002,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342286,
+        "num": 342286,
+        "word": "王一博等将亮相华表奖",
+        "onboard_time": 1745576782,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 30679,
+        "num": 339972,
+        "word": "猿辅导加班问题为何有人猝死才暴露",
+        "onboard_time": 1745585602,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 339048,
+        "num": 339048,
+        "word": "杨紫蓝色高定裙",
+        "onboard_time": 1745577380,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 309611,
+        "num": 309611,
+        "word": "李彦宏说DeepSeek又贵又慢",
+        "onboard_time": 1745585362,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 59381,
+        "num": 269027,
+        "word": "范丞丞在奔跑吧抱上猪了",
+        "onboard_time": 1745583862,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53178,
+        "num": 268071,
+        "word": "种地吧片尾农学院真正的招生简章",
+        "onboard_time": 1745580441,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267120,
+        "num": 267120,
+        "word": "氯雷他定",
+        "onboard_time": 1745555662,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 116874,
+        "num": 266461,
+        "word": "2000年前古人也跳养生操",
+        "onboard_time": 1745585122,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 319543,
+        "num": 263292,
+        "word": "张柏芝身上戴了7只蝴蝶",
+        "onboard_time": 1745585662,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 902273,
+        "num": 259278,
+        "word": "蔡徐坤直播",
+        "onboard_time": 1745580921,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 523546,
+        "num": 256218,
+        "word": "现在的1元店已经进化到这种程度了",
+        "onboard_time": 1745585241,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24103,
+        "num": 253304,
+        "word": "被虐杀男孩手掌曾被打致粉碎性骨折",
+        "onboard_time": 1745585962,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 327327,
+        "num": 252698,
+        "word": "宣夜半夏be",
+        "onboard_time": 1745579962,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 325929,
+        "num": 249366,
+        "word": "张淼怡获金扫帚影后",
+        "onboard_time": 1745567061,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 247496,
+        "num": 247496,
+        "word": "原神5.6版本直播",
+        "onboard_time": 1745585002,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 220801,
+        "num": 220801,
+        "word": "老板买黄金赚近千万后分给员工",
+        "onboard_time": 1745585181,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118631,
+        "num": 218973,
+        "word": "男子路边招手冲来两辆出租将其撞翻",
+        "onboard_time": 1745582662,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13436,
+        "num": 217154,
+        "word": "TTG空降WAW团建",
+        "onboard_time": 1745582481,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 316579,
+        "num": 215974,
+        "word": "因为你每天摸墙100次",
+        "onboard_time": 1745585302,
+        "rank": 31,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 223806,
+        "num": 213780,
+        "word": "肖战痛城",
+        "onboard_time": 1745586022,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 6830,
+        "num": 211695,
+        "word": "淮水竹亭服化道细节暗藏哪些伏笔",
+        "onboard_time": 1745586143,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71815,
+        "num": 209702,
+        "word": "猿辅导岗位称固定休假放心放心放心",
+        "onboard_time": 1745584224,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207811,
+        "num": 207811,
+        "word": "一个本科文凭或支撑不了5年",
+        "onboard_time": 1745568561,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 205765,
+        "num": 205765,
+        "word": "周深上海抢票",
+        "onboard_time": 1745585782,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 187484,
+        "num": 187484,
+        "word": "奔跑吧13开播",
+        "onboard_time": 1745581822,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184824,
+        "num": 184824,
+        "word": "卷发是刘亦菲的舒适区",
+        "onboard_time": 1745586082,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 183736,
+        "num": 183736,
+        "word": "宋祖儿任嘉伦舍不得无忧渡",
+        "onboard_time": 1745585122,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26882,
+        "num": 178153,
+        "word": "中年人该如何防止劳累气血不足",
+        "onboard_time": 1745584881,
+        "rank": 40,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 177152,
+        "num": 177152,
+        "word": "上海街头偶遇赵丽颖",
+        "onboard_time": 1745585902,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174652,
+        "num": 174652,
+        "word": "谢霆锋演唱会",
+        "onboard_time": 1745585902,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 163477,
+        "num": 163477,
+        "word": "原神前瞻",
+        "onboard_time": 1745585842,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 161491,
+        "num": 161491,
+        "word": "陶喆济南抢票",
+        "onboard_time": 1745584942,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 137503,
+        "num": 137503,
+        "word": "王一博上海赛车手合照",
+        "onboard_time": 1745585662,
+        "rank": 45,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 128718,
+        "num": 128718,
+        "word": "无限暖暖1.5版本前瞻",
+        "onboard_time": 1745581822,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 117927,
+        "num": 117927,
+        "word": "华表奖预测",
+        "onboard_time": 1745567302,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 36702,
+        "num": 117102,
+        "word": "被于适帅得一愣又一愣",
+        "onboard_time": 1745584102,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117061,
+        "num": 117061,
+        "word": "俄军总参高官死于汽车爆炸",
+        "onboard_time": 1745576900,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局召开会议#"
+    }
+  }
+}
