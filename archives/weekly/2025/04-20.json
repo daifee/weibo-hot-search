@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745569942126,
+  "endTime": 1745570788126,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -579,6 +579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1430885,
+      "num": 1430885,
+      "word": "一个本科文凭或支撑不了5年",
+      "onboard_time": 1745568561,
+      "rank": 0,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1428295,
       "num": 1428295,
       "word": "美高官爆料五角大楼已完全崩溃",
@@ -705,14 +713,6 @@
       "onboard_time": 1745293523,
       "rank": 27,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1323707,
-      "num": 1323707,
-      "word": "一个本科文凭或支撑不了5年",
-      "onboard_time": 1745568561,
-      "rank": 0,
-      "category": "教育"
     },
     {
       "raw_hot": 1318926,
@@ -1083,6 +1083,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1063790,
+      "num": 1063790,
+      "word": "张淼怡获金扫帚影后",
+      "onboard_time": 1745567061,
+      "rank": 1,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1060735,
       "num": 1060735,
       "word": "孙坚公布被盗监控",
@@ -1193,14 +1201,6 @@
       "onboard_time": 1745151024,
       "rank": 11,
       "category": "电影,时尚"
-    },
-    {
-      "raw_hot": 1000370,
-      "num": 1000370,
-      "word": "张淼怡获金扫帚影后",
-      "onboard_time": 1745567061,
-      "rank": 1,
-      "category": "电影"
     },
     {
       "raw_hot": 998135,
@@ -2427,6 +2427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 580313,
+      "num": 580313,
+      "word": "当年只有王宝强去领金扫帚奖",
+      "onboard_time": 1745568082,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 579721,
       "num": 447891,
       "word": "虞书欣丞磊 二搭",
@@ -2769,14 +2777,6 @@
       "onboard_time": 1745397382,
       "rank": 33,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 527787,
-      "num": 527787,
-      "word": "当年只有王宝强去领金扫帚奖",
-      "onboard_time": 1745568082,
-      "rank": 4,
-      "category": "电影"
     },
     {
       "raw_hot": 526314,
@@ -3795,6 +3795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 374866,
+      "num": 374866,
+      "word": "小伙申请改名周天紫薇大帝被驳回",
+      "onboard_time": 1745569160,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 373863,
       "num": 359319,
       "word": "乘风三公",
@@ -4707,6 +4715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 307437,
+      "num": 331689,
+      "word": "华表奖入场式导演揭秘现场看点",
+      "onboard_time": 1745568202,
+      "rank": 9,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 307242,
       "num": 452617,
       "word": "范思哲晚宴",
@@ -4785,14 +4801,6 @@
       "onboard_time": 1745376623,
       "rank": 27,
       "category": "体育,汽车"
-    },
-    {
-      "raw_hot": 303279,
-      "num": 331689,
-      "word": "华表奖入场式导演揭秘现场看点",
-      "onboard_time": 1745568202,
-      "rank": 9,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 303233,
@@ -4897,6 +4905,14 @@
       "onboard_time": 1745378004,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 298358,
+      "num": 298358,
+      "word": "钟丽丽无意中拒绝了洪尧的爹味",
+      "onboard_time": 1745568622,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 298293,
@@ -5689,6 +5705,14 @@
       "onboard_time": 1745467283,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 256524,
+      "num": 256524,
+      "word": "749局值得",
+      "onboard_time": 1745569160,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 256013,
@@ -6555,6 +6579,14 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 224179,
+      "num": 256752,
+      "word": "特朗普正在捅一个更大的娄子",
+      "onboard_time": 1745567422,
+      "rank": 27,
+      "category": "国际时政,民生新闻"
+    },
+    {
       "raw_hot": 223691,
       "num": 223691,
       "word": "专科的风还是吹到了麻省理工",
@@ -6697,14 +6729,6 @@
       "onboard_time": 1745120423,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 218202,
-      "num": 218202,
-      "word": "749局值得",
-      "onboard_time": 1745569160,
-      "rank": 21,
-      "category": "电影"
     },
     {
       "raw_hot": 218140,
@@ -6937,14 +6961,6 @@
       "onboard_time": 1745285001,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 213146,
-      "num": 213146,
-      "word": "钟丽丽无意中拒绝了洪尧的爹味",
-      "onboard_time": 1745568622,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 212973,
@@ -8339,14 +8355,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 189574,
-      "num": 189574,
-      "word": "特朗普正在捅一个更大的娄子",
-      "onboard_time": 1745567422,
-      "rank": 27,
-      "category": "国际时政,民生新闻"
-    },
-    {
       "raw_hot": 189218,
       "num": 189218,
       "word": "Red女团新logo",
@@ -8425,14 +8433,6 @@
       "onboard_time": 1745280200,
       "rank": 25,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 188393,
-      "num": 188393,
-      "word": "小伙申请改名周天紫薇大帝被驳回",
-      "onboard_time": 1745569160,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 188385,
@@ -9299,6 +9299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 174148,
+      "num": 174148,
+      "word": "多方回应江西理工在校生遭外籍生殴打",
+      "onboard_time": 1745567361,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174135,
       "num": 193346,
       "word": "春天多出去玩就能补气血",
@@ -9417,6 +9425,14 @@
       "onboard_time": 1745308641,
       "rank": 40,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 172633,
+      "num": 172633,
+      "word": "王楚钦四季混搭风",
+      "onboard_time": 1745570122,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 172624,
@@ -10412,7 +10428,7 @@
     },
     {
       "raw_hot": 159754,
-      "num": 159754,
+      "num": 166648,
       "word": "侯佩岑 神女爱世人",
       "onboard_time": 1745563821,
       "rank": 32,
@@ -11139,14 +11155,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 152172,
-      "num": 152172,
-      "word": "多方回应江西理工在校生遭外籍生殴打",
-      "onboard_time": 1745567361,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 152136,
       "num": 152136,
       "word": "WE登峰组首胜",
@@ -11185,6 +11193,14 @@
       "onboard_time": 1745310562,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151562,
+      "num": 151562,
+      "word": "包贝尔获金扫帚影帝",
+      "onboard_time": 1745567901,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 151438,
@@ -11313,6 +11329,14 @@
       "onboard_time": 1745138902,
       "rank": 33,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 150352,
+      "num": 150352,
+      "word": "张淼怡演技",
+      "onboard_time": 1745570482,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 150228,
@@ -11529,14 +11553,6 @@
       "onboard_time": 1745396962,
       "rank": 48,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 147664,
-      "num": 147664,
-      "word": "包贝尔获金扫帚影帝",
-      "onboard_time": 1745567901,
-      "rank": 36,
-      "category": "电影"
     },
     {
       "raw_hot": 147596,
@@ -13523,6 +13539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125597,
+      "num": 125597,
+      "word": "2025上海车展",
+      "onboard_time": 1745570602,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 125576,
       "num": 125576,
       "word": "严浩翔电影节出图",
@@ -14051,6 +14075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116608,
+      "num": 116608,
+      "word": "张凌赫你在用你的帅脸干什么",
+      "onboard_time": 1745570662,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116345,
       "num": 142305,
       "word": "孙颖莎跟裁判示意Notouch",
@@ -14491,6 +14523,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 107996,
+      "num": 107996,
+      "word": "迅猛龙回应考上复旦",
+      "onboard_time": 1745570182,
+      "rank": 47,
+      "category": "网红"
+    },
+    {
       "raw_hot": 107938,
       "num": 370247,
       "word": "上汽奥迪A5L首搭华为乾崑智驾",
@@ -14505,6 +14545,14 @@
       "onboard_time": 1745474901,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107842,
+      "num": 107842,
+      "word": "各地文旅终究落在了00后手里",
+      "onboard_time": 1745570602,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 107708,
@@ -14633,6 +14681,14 @@
       "onboard_time": 1745211744,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 106075,
+      "num": 106075,
+      "word": "谢霆锋含泪唱玉蝴蝶引万人大合唱",
+      "onboard_time": 1745570241,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 106070,
@@ -16403,6 +16459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 72455,
+      "num": 124087,
+      "word": "万斯称印度饭菜非常可口",
+      "onboard_time": 1745570420,
+      "rank": 39,
+      "category": "海外新闻,民生新闻"
+    },
+    {
       "raw_hot": 72446,
       "num": 72446,
       "word": "凌晨被锁在韩国图书馆的5个小时",
@@ -17665,6 +17729,14 @@
       "onboard_time": 1745287281,
       "rank": 19,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 53386,
+      "num": 256613,
+      "word": "猿辅导员工猝死前和女友说加完班回",
+      "onboard_time": 1745570361,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 53343,
@@ -19275,6 +19347,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 33548,
+      "num": 303022,
+      "word": "中国采购美国大豆猪肉数量锐减",
+      "onboard_time": 1745570361,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 33414,
       "num": 321689,
       "word": "环球时报专访歌手刘欢",
@@ -20769,6 +20849,14 @@
       "onboard_time": 1745406983,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 17850,
+      "num": 256543,
+      "word": "谢霆锋演唱会为什么邀请王嘉尔",
+      "onboard_time": 1745570482,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 17633,

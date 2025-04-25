@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/25 16:32:22
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/25 16:46:28
 </p>
 </blockquote>
 <p>
@@ -1989,6 +1989,12 @@ RedVelvet 解散（热度：1601334）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E6%9C%AC%E7%A7%91%E6%96%87%E5%87%AD%E6%88%96%E6%94%AF%E6%92%91%E4%B8%8D%E4%BA%865%E5%B9%B4%23" target="weibo">
+一个本科文凭或支撑不了5年（热度：1430885）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%20%E5%A5%B3%E7%BB%83%E4%B9%A0%E7%94%9F%23" target="weibo">
 时代峰峻 女练习生（热度：1428320）
 </a>
@@ -2417,12 +2423,6 @@ Simon事件（热度：1411247）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E6%B1%82%E6%97%A5%E6%9C%AC%E8%BF%9B%E5%8F%A3%E7%BE%8E%E5%9B%BD%E5%A4%A7%E7%B1%B3%E5%92%8C%E7%89%9B%E8%82%89%23" target="weibo">
 特朗普要求日本进口美国大米和牛肉（热度：1325333）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E6%9C%AC%E7%A7%91%E6%96%87%E5%87%AD%E6%88%96%E6%94%AF%E6%92%91%E4%B8%8D%E4%BA%865%E5%B9%B4%23" target="weibo">
-一个本科文凭或支撑不了5年（热度：1323707）
 </a>
 </li>
 
@@ -3579,6 +3579,12 @@ DeepSeek7小时攻克缅甸救灾语言关（热度：1104741）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%B7%BC%E6%80%A1%E8%8E%B7%E9%87%91%E6%89%AB%E5%B8%9A%E5%BD%B1%E5%90%8E%23" target="weibo">
+张淼怡获金扫帚影后（热度：1063790）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E6%A8%A1%E4%BB%BF%E8%8B%A6%E5%B0%BD%E6%9F%91%E6%9D%A5%E9%87%91%E5%AE%A3%E8%99%8E%E7%AC%91%23" target="weibo">
 白鹿模仿苦尽柑来金宣虎笑（热度：1063349）
 </a>
@@ -3929,12 +3935,6 @@ IU向雪莉金赛纶推荐同一心理医生（热度：1041446）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E8%A6%81%E7%AD%BE%E5%90%8D%E7%85%A7%E5%85%B4%E5%A5%8B%E5%88%B0%E6%90%93%E6%89%8B%23" target="weibo">
 全红婵要签名照兴奋到搓手（热度：1001509）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%B7%BC%E6%80%A1%E8%8E%B7%E9%87%91%E6%89%AB%E5%B8%9A%E5%BD%B1%E5%90%8E%23" target="weibo">
-张淼怡获金扫帚影后（热度：1000370）
 </a>
 </li>
 
