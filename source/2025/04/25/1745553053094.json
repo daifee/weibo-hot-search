@@ -1,0 +1,410 @@
+{
+  "runTime": 1745553053094,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 742819,
+        "num": 1118851,
+        "word": "曹骏出场",
+        "onboard_time": 1745541383,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 685974,
+        "num": 685974,
+        "word": "猿辅导回应武汉员工事件",
+        "onboard_time": 1745549719,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56103,
+        "num": 542193,
+        "word": "第一视角看神20发射多震撼",
+        "onboard_time": 1745501842,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 478651,
+        "num": 478651,
+        "word": "周杰伦年纪越大希望减少工作量",
+        "onboard_time": 1745547500,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 383917,
+        "num": 383917,
+        "word": "新疆下井救人00后女辅警破格晋升",
+        "onboard_time": 1745536519,
+        "rank": 4,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 254114,
+        "num": 254114,
+        "word": "莫兰特受伤",
+        "onboard_time": 1745550381,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 430898,
+        "num": 253549,
+        "word": "白月光沉香杀回来了",
+        "onboard_time": 1745550381,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 328763,
+        "num": 253093,
+        "word": "老外说是朱一龙的bigfan",
+        "onboard_time": 1745546719,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 2097894,
+        "num": 252521,
+        "word": "猿辅导老师猝死在公司人社局介入",
+        "onboard_time": 1745547259,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189886,
+        "num": 251780,
+        "word": "千元拳击靶用女士内衣做填充物",
+        "onboard_time": 1745552300,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1390831,
+        "num": 251593,
+        "word": "赵露思下车动作",
+        "onboard_time": 1745549361,
+        "rank": 10,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 695754,
+        "num": 250995,
+        "word": "猿辅导前员工称1人带400个学生",
+        "onboard_time": 1745545821,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 457136,
+        "num": 250415,
+        "word": "讨好性礼貌",
+        "onboard_time": 1745550800,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 31492,
+        "num": 249901,
+        "word": "武汉一鱼贩用秤砣砸顾客被拘12天",
+        "onboard_time": 1745552241,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67873,
+        "num": 248928,
+        "word": "10岁男童被生母继父虐死案庭审延期",
+        "onboard_time": 1745551761,
+        "rank": 14,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 218140,
+        "num": 248392,
+        "word": "邓家佳喜剧纯元回来了",
+        "onboard_time": 1745550740,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 328631,
+        "num": 248022,
+        "word": "无忧渡 超点",
+        "onboard_time": 1745547381,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27578,
+        "num": 247399,
+        "word": "胡兵54岁的成长告白",
+        "onboard_time": 1745549180,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 31445,
+        "num": 246520,
+        "word": "印巴互相取消对方国民签证",
+        "onboard_time": 1745552421,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 49953,
+        "num": 246203,
+        "word": "夏天如何保持健康的皮肤状态",
+        "onboard_time": 1745552480,
+        "rank": 19,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 185161,
+        "num": 245261,
+        "word": "中国航天6次太空会师666",
+        "onboard_time": 1745545821,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 325307,
+        "num": 245023,
+        "word": "尊界S800内饰太尊了",
+        "onboard_time": 1745550260,
+        "rank": 21,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 292513,
+        "num": 244388,
+        "word": "原来这才算穿的干净",
+        "onboard_time": 1745551161,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 258317,
+        "num": 243831,
+        "word": "平安京鬼市大开",
+        "onboard_time": 1745552241,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 243415,
+        "num": 243415,
+        "word": "丁真被刘涛说眼里没感情",
+        "onboard_time": 1745551461,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236002,
+        "num": 236002,
+        "word": "网红彩虹夫妇宣布停播",
+        "onboard_time": 1745538200,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 225112,
+        "num": 225112,
+        "word": "建议把睡觉当作一天的开始",
+        "onboard_time": 1745547440,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 211768,
+        "num": 211768,
+        "word": "谢霆锋发文感谢王嘉尔",
+        "onboard_time": 1745549421,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 66265,
+        "num": 211596,
+        "word": "一把剃须刀搞定明星同款下颌线",
+        "onboard_time": 1745552541,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 61853,
+        "num": 203924,
+        "word": "李现官宣新身份",
+        "onboard_time": 1745552000,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306402,
+        "num": 199867,
+        "word": "感觉她上的才是真大学",
+        "onboard_time": 1745551761,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 722629,
+        "num": 197525,
+        "word": "黄子韬卫生巾公司招聘大专起投",
+        "onboard_time": 1745544501,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150488,
+        "num": 190677,
+        "word": "北京国际电影节闭幕式阵容官宣",
+        "onboard_time": 1745549481,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 189524,
+        "num": 189524,
+        "word": "唐国强 我为什么不能参加这样的节目",
+        "onboard_time": 1745550620,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183941,
+        "num": 183941,
+        "word": "肖战上海",
+        "onboard_time": 1745544200,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 180400,
+        "num": 180400,
+        "word": "朱正廷摇人抢labubu",
+        "onboard_time": 1745549781,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178233,
+        "num": 178233,
+        "word": "陈都灵杂志",
+        "onboard_time": 1745551702,
+        "rank": 36,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 168043,
+        "num": 168043,
+        "word": "国家队缺猫吗",
+        "onboard_time": 1745551881,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167701,
+        "num": 167701,
+        "word": "唐国强上优酷节目感谢哔哩哔哩",
+        "onboard_time": 1745550800,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58416,
+        "num": 162786,
+        "word": "张宇把微积分写成武侠小说",
+        "onboard_time": 1745552122,
+        "rank": 39,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 162721,
+        "num": 162721,
+        "word": "下周五一假期",
+        "onboard_time": 1745551101,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118332,
+        "num": 157766,
+        "word": "被国产犯罪剧这一案气上头",
+        "onboard_time": 1745551220,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156208,
+        "num": 156208,
+        "word": "美官员承认误判中方反应",
+        "onboard_time": 1745538981,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 40445,
+        "num": 148027,
+        "word": "美国真实的消费水平",
+        "onboard_time": 1745553021,
+        "rank": 43,
+        "category": "海外新闻,民生新闻"
+      },
+      {
+        "raw_hot": 144484,
+        "num": 144484,
+        "word": "Wendy签约新公司",
+        "onboard_time": 1745547680,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143716,
+        "num": 143716,
+        "word": "张萌冰湖重生杀青礼vlog",
+        "onboard_time": 1745552661,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142347,
+        "num": 142347,
+        "word": "火锅险淋小孩老板强忍烫伤不松手",
+        "onboard_time": 1745550260,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129572,
+        "num": 129572,
+        "word": "梁博新专",
+        "onboard_time": 1745547381,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 122354,
+        "num": 122354,
+        "word": "美联储释放降息新信号",
+        "onboard_time": 1745552901,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 120923,
+        "num": 120923,
+        "word": "iPhone17有望全系配12GB内存",
+        "onboard_time": 1745552961,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记强调要着力激发创新创造活力#"
+    }
+  }
+}
