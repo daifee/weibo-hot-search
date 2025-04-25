@@ -1,6 +1,6 @@
 {
   "startTime": 1745512289618,
-  "endTime": 1745570788126,
+  "endTime": 1745573230547,
   "band_list": [
     {
       "raw_hot": 2560355,
@@ -33,6 +33,14 @@
       "onboard_time": 1745555782,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1618793,
+      "num": 1618793,
+      "word": "中国取消1.2万吨美国猪肉订单",
+      "onboard_time": 1745570901,
+      "rank": 0,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1612989,
@@ -120,6 +128,14 @@
       "word": "猿辅导前员工称1人带400个学生",
       "onboard_time": 1745545821,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 972488,
+      "num": 972488,
+      "word": "小伙申请改名周天紫薇大帝被驳回",
+      "onboard_time": 1745569160,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -267,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 532358,
+      "num": 532358,
+      "word": "猿辅导员工猝死前和女友说加完班回",
+      "onboard_time": 1745570361,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 514988,
       "num": 514988,
       "word": "白月光沉香杀回来了",
@@ -403,14 +427,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 374866,
-      "num": 374866,
-      "word": "小伙申请改名周天紫薇大帝被驳回",
-      "onboard_time": 1745569160,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 373863,
       "num": 359319,
       "word": "乘风三公",
@@ -443,12 +459,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 362096,
+      "num": 362096,
+      "word": "749局值得",
+      "onboard_time": 1745569160,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 361127,
       "num": 395486,
       "word": "巴基斯坦与印度军队发生交火",
       "onboard_time": 1745562322,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 356322,
+      "num": 356322,
+      "word": "刘诗诗章若楠孟子义美进一部剧",
+      "onboard_time": 1745570961,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 349503,
@@ -523,6 +555,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 324836,
+      "num": 315028,
+      "word": "华表奖表演嘉宾公布",
+      "onboard_time": 1745566522,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 320804,
       "num": 320804,
       "word": "男子离婚诉讼6年3次被判不许离",
@@ -553,14 +593,6 @@
       "onboard_time": 1745557222,
       "rank": 21,
       "category": "健康医疗,民生新闻"
-    },
-    {
-      "raw_hot": 315028,
-      "num": 315028,
-      "word": "华表奖表演嘉宾公布",
-      "onboard_time": 1745566522,
-      "rank": 45,
-      "category": "电影"
     },
     {
       "raw_hot": 312075,
@@ -745,14 +777,6 @@
       "onboard_time": 1745496503,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 256524,
-      "num": 256524,
-      "word": "749局值得",
-      "onboard_time": 1745569160,
-      "rank": 21,
-      "category": "电影"
     },
     {
       "raw_hot": 254114,
@@ -1011,6 +1035,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 193394,
+      "num": 193394,
+      "word": "张凌赫你在用你的帅脸干什么",
+      "onboard_time": 1745570662,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191849,
       "num": 191849,
       "word": "迪丽热巴夜幕烟花照",
@@ -1035,12 +1067,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184963,
+      "num": 184963,
+      "word": "张碧晨唱哭了",
+      "onboard_time": 1745572581,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183130,
       "num": 183130,
       "word": "别说老外惊呆老内也惊呆了",
       "onboard_time": 1745568561,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 179728,
+      "num": 179728,
+      "word": "王楚钦四季混搭风",
+      "onboard_time": 1745570122,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 179700,
@@ -1083,14 +1131,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 172633,
-      "num": 172633,
-      "word": "王楚钦四季混搭风",
-      "onboard_time": 1745570122,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 172404,
       "num": 283133,
       "word": "李现官宣新身份",
@@ -1121,6 +1161,14 @@
       "onboard_time": 1745500761,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 169849,
+      "num": 169849,
+      "word": "王一博刷新个人最快圈速",
+      "onboard_time": 1745571261,
+      "rank": 35,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 168043,
@@ -1201,6 +1249,14 @@
       "onboard_time": 1745553621,
       "rank": 9,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 162012,
+      "num": 162012,
+      "word": "包贝尔获金扫帚影帝",
+      "onboard_time": 1745567901,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 161719,
@@ -1299,14 +1355,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 151562,
-      "num": 151562,
-      "word": "包贝尔获金扫帚影帝",
-      "onboard_time": 1745567901,
-      "rank": 36,
-      "category": "电影"
-    },
-    {
       "raw_hot": 150488,
       "num": 190677,
       "word": "北京国际电影节闭幕式阵容官宣",
@@ -1321,6 +1369,22 @@
       "onboard_time": 1745570482,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150320,
+      "num": 150320,
+      "word": "印度成功试射射程70公里导弹",
+      "onboard_time": 1745572401,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 149665,
+      "num": 149665,
+      "word": "孙颖莎这一球对手只剩苦笑了",
+      "onboard_time": 1745573062,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 149415,
@@ -1361,6 +1425,14 @@
       "onboard_time": 1745556322,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146845,
+      "num": 199069,
+      "word": "苏炳添任暨大体育学院院长",
+      "onboard_time": 1745572101,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 143716,
@@ -1457,6 +1529,14 @@
       "onboard_time": 1745562561,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138156,
+      "num": 138156,
+      "word": "董明珠绝不用海归暴露用人观念的落后",
+      "onboard_time": 1745570842,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 138078,
@@ -1627,6 +1707,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 126314,
+      "num": 126314,
+      "word": "北京草莓音乐节歌单",
+      "onboard_time": 1745573182,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 126259,
       "num": 126259,
       "word": "迪丽热巴开推3做饭",
@@ -1665,6 +1753,14 @@
       "onboard_time": 1745557943,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122854,
+      "num": 201847,
+      "word": "人工智能会取代传统教育吗",
+      "onboard_time": 1745570901,
+      "rank": 20,
+      "category": "教育,互联网"
     },
     {
       "raw_hot": 122354,
@@ -1731,14 +1827,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 116608,
-      "num": 116608,
-      "word": "张凌赫你在用你的帅脸干什么",
-      "onboard_time": 1745570662,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 115976,
       "num": 212255,
       "word": "李昀锐春游照",
@@ -1779,6 +1867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112785,
+      "num": 199638,
+      "word": "迅猛龙回应考上复旦",
+      "onboard_time": 1745570182,
+      "rank": 47,
+      "category": "网红"
+    },
+    {
       "raw_hot": 111936,
       "num": 111936,
       "word": "属于春天的100个美景",
@@ -1809,14 +1905,6 @@
       "onboard_time": 1745565801,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 107996,
-      "num": 107996,
-      "word": "迅猛龙回应考上复旦",
-      "onboard_time": 1745570182,
-      "rank": 47,
-      "category": "网红"
     },
     {
       "raw_hot": 107842,
@@ -1971,6 +2059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 90156,
+      "num": 199329,
+      "word": "跳水运动员唐怡萱当场对峙偷拍男",
+      "onboard_time": 1745572101,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87882,
       "num": 287778,
       "word": "管乐向云端solo",
@@ -2073,6 +2169,14 @@
       "onboard_time": 1745546481,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78478,
+      "num": 203099,
+      "word": "苹果换vivoX200s最高补贴1800元",
+      "onboard_time": 1745572223,
+      "rank": 18,
+      "category": "数码"
     },
     {
       "raw_hot": 77121,
@@ -2275,6 +2379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 60135,
+      "num": 154039,
+      "word": "这一刻他是全班的英雄",
+      "onboard_time": 1745573062,
+      "rank": 39,
+      "category": "幽默,民生新闻"
+    },
+    {
       "raw_hot": 59737,
       "num": 140943,
       "word": "绰号女巫的乌克兰士兵被打死",
@@ -2307,6 +2419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56762,
+      "num": 198705,
+      "word": "完美世界四年TOP级名场面",
+      "onboard_time": 1745572702,
+      "rank": 29,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 55816,
       "num": 271307,
       "word": "剃胡子还能这么玄乎",
@@ -2321,14 +2441,6 @@
       "onboard_time": 1745498002,
       "rank": 47,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 53386,
-      "num": 256613,
-      "word": "猿辅导员工猝死前和女友说加完班回",
-      "onboard_time": 1745570361,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 52905,
@@ -2443,6 +2555,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 45273,
+      "num": 199540,
+      "word": "郑钦文今晚9点登场",
+      "onboard_time": 1745572101,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 44673,
       "num": 163754,
       "word": "印度人的商业信誉全线崩塌",
@@ -2481,6 +2601,22 @@
       "onboard_time": 1745515276,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 39717,
+      "num": 187945,
+      "word": "美国新泽西州爆发20年最大野火",
+      "onboard_time": 1745573001,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 38447,
+      "num": 198853,
+      "word": "女子打网约车遭司机冲撞打骂",
+      "onboard_time": 1745572641,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38028,
@@ -2545,6 +2681,14 @@
       "onboard_time": 1745570361,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 32873,
+      "num": 202754,
+      "word": "妈妈直播间买富硒片10瓶4980元",
+      "onboard_time": 1745572101,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32800,
@@ -2673,6 +2817,14 @@
       "onboard_time": 1745568561,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21818,
+      "num": 201212,
+      "word": "瓦尔迪为何决定离开莱斯特城",
+      "onboard_time": 1745572881,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 21583,
@@ -2911,6 +3063,9 @@
     },
     {
       "word": "#大力弘扬两弹一星精神载人航天精神#"
+    },
+    {
+      "word": "#中共中央政治局召开会议#"
     }
   ]
 }
