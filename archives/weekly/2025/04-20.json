@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745574009783,
+  "endTime": 1745576793888,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -395,6 +395,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1810251,
+      "num": 1810251,
+      "word": "中国取消1.2万吨美国猪肉订单",
+      "onboard_time": 1745570901,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1804128,
       "num": 1804128,
       "word": "儿子悄悄考北大妈妈惊成静止画面",
@@ -441,14 +449,6 @@
       "onboard_time": 1745116223,
       "rank": 0,
       "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 1664234,
-      "num": 1664234,
-      "word": "中国取消1.2万吨美国猪肉订单",
-      "onboard_time": 1745570901,
-      "rank": 0,
-      "category": "国际时政"
     },
     {
       "raw_hot": 1653537,
@@ -1009,6 +1009,14 @@
       "onboard_time": 1745128822,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1104010,
+      "num": 582405,
+      "word": "猿辅导员工猝死前和女友说加完班回",
+      "onboard_time": 1745570361,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1103172,
@@ -1595,6 +1603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 807784,
+      "num": 807784,
+      "word": "无忧渡大结局",
+      "onboard_time": 1745575881,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 807532,
       "num": 673645,
       "word": "刘强东希望未来京东全职外卖员超100万人",
@@ -1745,6 +1761,14 @@
       "onboard_time": 1745393421,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 751851,
+      "num": 313945,
+      "word": "enhypen 卖掉了",
+      "onboard_time": 1745575461,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 748994,
@@ -2433,14 +2457,6 @@
       "onboard_time": 1745320821,
       "rank": 40,
       "category": "网红"
-    },
-    {
-      "raw_hot": 582405,
-      "num": 582405,
-      "word": "猿辅导员工猝死前和女友说加完班回",
-      "onboard_time": 1745570361,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 582165,
@@ -3307,6 +3323,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 438265,
+      "num": 438265,
+      "word": "印度成功试射射程70公里导弹",
+      "onboard_time": 1745572401,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 436801,
       "num": 374770,
       "word": "迪丽热巴托工作人员给粉丝传话",
@@ -4081,6 +4105,14 @@
       "onboard_time": 1745153906,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 354986,
+      "num": 354986,
+      "word": "国际电影人惊叹易烊千玺演技",
+      "onboard_time": 1745576181,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 354129,
@@ -5147,6 +5179,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 286912,
+      "num": 286912,
+      "word": "华表奖阵容官宣",
+      "onboard_time": 1745576600,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 286338,
       "num": 286338,
       "word": "女童因弟弟出生后被忽略导致视力下降",
@@ -5465,6 +5505,14 @@
       "onboard_time": 1745310201,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 270594,
+      "num": 220272,
+      "word": "肖战指导晒北京奥运国乒合照",
+      "onboard_time": 1745575580,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 270442,
@@ -9107,6 +9155,14 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 178220,
+      "num": 203893,
+      "word": "搬砖9年攒200万男子发声",
+      "onboard_time": 1745570782,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 178079,
       "num": 178079,
       "word": "王曼昱扬帆公益星推官",
@@ -9649,14 +9705,6 @@
       "onboard_time": 1745470642,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 170145,
-      "num": 170145,
-      "word": "印度成功试射射程70公里导弹",
-      "onboard_time": 1745572401,
-      "rank": 40,
-      "category": "国际时政"
     },
     {
       "raw_hot": 169849,
@@ -12283,6 +12331,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 140104,
+      "num": 140104,
+      "word": "李晟高音",
+      "onboard_time": 1745574500,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140101,
       "num": 140101,
       "word": "张真源知道不去冰岛后眼里没光了",
@@ -13899,6 +13955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121856,
+      "num": 121856,
+      "word": "想走歪路 发现歪路也站满了人",
+      "onboard_time": 1745573900,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 121753,
       "num": 121753,
       "word": "马龙澳门世界杯夺冠一周年",
@@ -14195,6 +14259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116596,
+      "num": 116596,
+      "word": "李承铉敢演韩庚都不敢看",
+      "onboard_time": 1745575102,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116345,
       "num": 142305,
       "word": "孙颖莎跟裁判示意Notouch",
@@ -14265,6 +14337,14 @@
       "onboard_time": 1745143403,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115123,
+      "num": 279800,
+      "word": "开箱百万级大沙发",
+      "onboard_time": 1745575821,
+      "rank": 17,
+      "category": "数码"
     },
     {
       "raw_hot": 114999,
@@ -14499,20 +14579,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110572,
+      "num": 110572,
+      "word": "马柏全珠海出发",
+      "onboard_time": 1745576481,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 110533,
       "num": 110533,
       "word": "遭前男友烧残女子和母亲抱头痛哭",
       "onboard_time": 1745278581,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 110465,
-      "num": 110465,
-      "word": "想走歪路 发现歪路也站满了人",
-      "onboard_time": 1745573900,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 110403,
@@ -15265,6 +15345,14 @@
       "onboard_time": 1745230161,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 97908,
+      "num": 97908,
+      "word": "洛阳 牡丹痛城",
+      "onboard_time": 1745576720,
+      "rank": 47,
+      "category": "旅游"
     },
     {
       "raw_hot": 97737,
@@ -16795,6 +16883,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 69471,
+      "num": 271562,
+      "word": "上海车展真香现场",
+      "onboard_time": 1745574742,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 69441,
       "num": 154862,
       "word": "于适工作室发文",
@@ -17049,6 +17145,14 @@
       "onboard_time": 1745552541,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 66241,
+      "num": 110942,
+      "word": "法院回应南昌锜某某强奸案再引热议",
+      "onboard_time": 1745576660,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 66065,
@@ -17561,6 +17665,14 @@
       "onboard_time": 1745325681,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 58175,
+      "num": 203523,
+      "word": "X200s给五一朋友圈大赛打个样",
+      "onboard_time": 1745574742,
+      "rank": 27,
+      "category": "数码"
     },
     {
       "raw_hot": 58011,
@@ -18763,6 +18875,14 @@
       "category": "情感,民生新闻"
     },
     {
+      "raw_hot": 43875,
+      "num": 203454,
+      "word": "诚C个人舞台官宣",
+      "onboard_time": 1745575941,
+      "rank": 28,
+      "category": "演出,电竞"
+    },
+    {
       "raw_hot": 43831,
       "num": 215911,
       "word": "黄金会涨到多少钱",
@@ -18939,6 +19059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 41600,
+      "num": 927320,
+      "word": "从一季度出行数据感知经济活力",
+      "onboard_time": 1745573422,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41584,
       "num": 41584,
       "word": "英军高官挑衅台海问题",
@@ -19041,6 +19169,14 @@
       "onboard_time": 1745553021,
       "rank": 43,
       "category": "海外新闻,民生新闻"
+    },
+    {
+      "raw_hot": 40404,
+      "num": 267744,
+      "word": "多方回应60岁保安宿舍内猝死",
+      "onboard_time": 1745575580,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40340,
@@ -19299,6 +19435,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 37039,
+      "num": 289982,
+      "word": "巴防长发出全面战争警告",
+      "onboard_time": 1745576360,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 36860,
       "num": 360041,
       "word": "向市长自荐大学生否认博眼球",
@@ -19481,6 +19625,14 @@
       "onboard_time": 1745490082,
       "rank": 19,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 34562,
+      "num": 314638,
+      "word": "设立服务消费与养老再贷款",
+      "onboard_time": 1745562381,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34554,
@@ -19761,6 +19913,14 @@
       "onboard_time": 1745247204,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30028,
+      "num": 110669,
+      "word": "神二十火箭发射实拍图",
+      "onboard_time": 1745576060,
+      "rank": 39,
+      "category": "国内时政,民生新闻"
     },
     {
       "raw_hot": 29884,
@@ -20443,14 +20603,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 22679,
-      "num": 927320,
-      "word": "从一季度出行数据感知经济活力",
-      "onboard_time": 1745573422,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 22643,
       "num": 219602,
       "word": "56元养生体验券顾客最终消费16800元",
@@ -20609,6 +20761,14 @@
       "onboard_time": 1745219182,
       "rank": 38,
       "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 21416,
+      "num": 97909,
+      "word": "打扫卫生如何帮助减轻抑郁情绪",
+      "onboard_time": 1745575342,
+      "rank": 46,
+      "category": "科学科普"
     },
     {
       "raw_hot": 21351,
@@ -21033,6 +21193,14 @@
       "onboard_time": 1745209104,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 17987,
+      "num": 220277,
+      "word": "如何挑选合适的抗过敏药",
+      "onboard_time": 1745576481,
+      "rank": 22,
+      "category": "科学科普"
     },
     {
       "raw_hot": 17956,

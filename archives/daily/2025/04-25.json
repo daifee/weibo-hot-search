@@ -1,6 +1,6 @@
 {
   "startTime": 1745512289618,
-  "endTime": 1745574009783,
+  "endTime": 1745576793888,
   "band_list": [
     {
       "raw_hot": 2560355,
@@ -27,20 +27,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1810251,
+      "num": 1810251,
+      "word": "中国取消1.2万吨美国猪肉订单",
+      "onboard_time": 1745570901,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1804128,
       "num": 1804128,
       "word": "儿子悄悄考北大妈妈惊成静止画面",
       "onboard_time": 1745555782,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1664234,
-      "num": 1664234,
-      "word": "中国取消1.2万吨美国猪肉订单",
-      "onboard_time": 1745570901,
-      "rank": 0,
-      "category": "国际时政"
     },
     {
       "raw_hot": 1612989,
@@ -96,6 +96,14 @@
       "word": "生母继父虐杀掩埋孩子后曾痛哭寻子",
       "onboard_time": 1745564661,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1104010,
+      "num": 582405,
+      "word": "猿辅导员工猝死前和女友说加完班回",
+      "onboard_time": 1745570361,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -171,12 +179,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 807784,
+      "num": 807784,
+      "word": "无忧渡大结局",
+      "onboard_time": 1745575881,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 783371,
       "num": 783371,
       "word": "曹骏外甥当然要像舅舅了",
       "onboard_time": 1745554761,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 751851,
+      "num": 313945,
+      "word": "enhypen 卖掉了",
+      "onboard_time": 1745575461,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 748994,
@@ -241,14 +265,6 @@
       "onboard_time": 1745560102,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 582405,
-      "num": 582405,
-      "word": "猿辅导员工猝死前和女友说加完班回",
-      "onboard_time": 1745570361,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 580313,
@@ -344,6 +360,14 @@
       "word": "美媒说中国赢下了这一轮",
       "onboard_time": 1745557642,
       "rank": 22,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 438265,
+      "num": 438265,
+      "word": "印度成功试射射程70公里导弹",
+      "onboard_time": 1745572401,
+      "rank": 40,
       "category": "国际时政"
     },
     {
@@ -491,6 +515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 354986,
+      "num": 354986,
+      "word": "国际电影人惊叹易烊千玺演技",
+      "onboard_time": 1745576181,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 349503,
       "num": 179854,
       "word": "刘强东老家宿迁京东外卖遍地开花",
@@ -595,6 +627,14 @@
       "category": "健康医疗,民生新闻"
     },
     {
+      "raw_hot": 313419,
+      "num": 313419,
+      "word": "无忧渡直播",
+      "onboard_time": 1745574081,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 312075,
       "num": 294718,
       "word": "谢霆锋20年后再唱与王菲定情曲",
@@ -657,6 +697,14 @@
       "onboard_time": 1745563941,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 286912,
+      "num": 286912,
+      "word": "华表奖阵容官宣",
+      "onboard_time": 1745576600,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 286273,
@@ -753,6 +801,14 @@
       "onboard_time": 1745555481,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 270594,
+      "num": 220272,
+      "word": "肖战指导晒北京奥运国乒合照",
+      "onboard_time": 1745575580,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 266265,
@@ -1107,6 +1163,14 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 178220,
+      "num": 203893,
+      "word": "搬砖9年攒200万男子发声",
+      "onboard_time": 1745570782,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 177124,
       "num": 177124,
       "word": "金价波动让水贝金条供不应求",
@@ -1153,14 +1217,6 @@
       "onboard_time": 1745550682,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 170145,
-      "num": 170145,
-      "word": "印度成功试射射程70公里导弹",
-      "onboard_time": 1745572401,
-      "rank": 40,
-      "category": "国际时政"
     },
     {
       "raw_hot": 170115,
@@ -1539,6 +1595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140104,
+      "num": 140104,
+      "word": "李晟高音",
+      "onboard_time": 1745574500,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138156,
       "num": 138156,
       "word": "董明珠绝不用海归暴露用人观念的落后",
@@ -1803,6 +1867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121856,
+      "num": 121856,
+      "word": "想走歪路 发现歪路也站满了人",
+      "onboard_time": 1745573900,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 121641,
       "num": 121641,
       "word": "专家称特朗普可能再次升级关税战",
@@ -1851,6 +1923,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 116596,
+      "num": 116596,
+      "word": "李承铉敢演韩庚都不敢看",
+      "onboard_time": 1745575102,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115976,
       "num": 212255,
       "word": "李昀锐春游照",
@@ -1865,6 +1945,14 @@
       "onboard_time": 1745538200,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 115123,
+      "num": 279800,
+      "word": "开箱百万级大沙发",
+      "onboard_time": 1745575821,
+      "rank": 17,
+      "category": "数码"
     },
     {
       "raw_hot": 114967,
@@ -1915,12 +2003,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 110465,
-      "num": 110465,
-      "word": "想走歪路 发现歪路也站满了人",
-      "onboard_time": 1745573900,
-      "rank": 46,
-      "category": "幽默"
+      "raw_hot": 110572,
+      "num": 110572,
+      "word": "马柏全珠海出发",
+      "onboard_time": 1745576481,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 110403,
@@ -2033,6 +2121,14 @@
       "onboard_time": 1745546001,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97908,
+      "num": 97908,
+      "word": "洛阳 牡丹痛城",
+      "onboard_time": 1745576720,
+      "rank": 47,
+      "category": "旅游"
     },
     {
       "raw_hot": 97430,
@@ -2275,6 +2371,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 69471,
+      "num": 271562,
+      "word": "上海车展真香现场",
+      "onboard_time": 1745574742,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 69441,
       "num": 154862,
       "word": "于适工作室发文",
@@ -2371,6 +2475,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 66241,
+      "num": 110942,
+      "word": "法院回应南昌锜某某强奸案再引热议",
+      "onboard_time": 1745576660,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64761,
       "num": 64761,
       "word": "5月1日起杭州生育津贴直发个人",
@@ -2449,6 +2561,14 @@
       "onboard_time": 1745552122,
       "rank": 39,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 58175,
+      "num": 203523,
+      "word": "X200s给五一朋友圈大赛打个样",
+      "onboard_time": 1745574742,
+      "rank": 27,
+      "category": "数码"
     },
     {
       "raw_hot": 57967,
@@ -2635,6 +2755,14 @@
       "category": "科学科普,国内时政"
     },
     {
+      "raw_hot": 43875,
+      "num": 203454,
+      "word": "诚C个人舞台官宣",
+      "onboard_time": 1745575941,
+      "rank": 28,
+      "category": "演出,电竞"
+    },
+    {
       "raw_hot": 43244,
       "num": 131072,
       "word": "董力阿诺带娃出游",
@@ -2643,12 +2771,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 41600,
+      "num": 927320,
+      "word": "从一季度出行数据感知经济活力",
+      "onboard_time": 1745573422,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40445,
       "num": 148027,
       "word": "美国真实的消费水平",
       "onboard_time": 1745553021,
       "rank": 43,
       "category": "海外新闻,民生新闻"
+    },
+    {
+      "raw_hot": 40404,
+      "num": 267744,
+      "word": "多方回应60岁保安宿舍内猝死",
+      "onboard_time": 1745575580,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39809,
@@ -2683,6 +2827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37039,
+      "num": 289982,
+      "word": "巴防长发出全面战争警告",
+      "onboard_time": 1745576360,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 36103,
       "num": 158256,
       "word": "奥运冠军杨威谈中年人如何防猝死",
@@ -2713,6 +2865,14 @@
       "onboard_time": 1745564661,
       "rank": 23,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 34562,
+      "num": 314638,
+      "word": "设立服务消费与养老再贷款",
+      "onboard_time": 1745562381,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33548,
@@ -2769,6 +2929,14 @@
       "onboard_time": 1745552421,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 30028,
+      "num": 110669,
+      "word": "神二十火箭发射实拍图",
+      "onboard_time": 1745576060,
+      "rank": 39,
+      "category": "国内时政,民生新闻"
     },
     {
       "raw_hot": 27100,
@@ -2835,14 +3003,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 22679,
-      "num": 927320,
-      "word": "从一季度出行数据感知经济活力",
-      "onboard_time": 1745573422,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 22643,
       "num": 219602,
       "word": "56元养生体验券顾客最终消费16800元",
@@ -2873,6 +3033,14 @@
       "onboard_time": 1745557343,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21416,
+      "num": 97909,
+      "word": "打扫卫生如何帮助减轻抑郁情绪",
+      "onboard_time": 1745575342,
+      "rank": 46,
+      "category": "科学科普"
     },
     {
       "raw_hot": 21301,
@@ -2953,6 +3121,14 @@
       "onboard_time": 1745562081,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 17987,
+      "num": 220277,
+      "word": "如何挑选合适的抗过敏药",
+      "onboard_time": 1745576481,
+      "rank": 22,
+      "category": "科学科普"
     },
     {
       "raw_hot": 17850,
