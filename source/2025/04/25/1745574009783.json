@@ -1,0 +1,410 @@
+{
+  "runTime": 1745574009783,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1664234,
+        "num": 1664234,
+        "word": "中国取消1.2万吨美国猪肉订单",
+        "onboard_time": 1745570901,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1042209,
+        "num": 1042209,
+        "word": "一个本科文凭或支撑不了5年",
+        "onboard_time": 1745568561,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 22679,
+        "num": 927320,
+        "word": "从一季度出行数据感知经济活力",
+        "onboard_time": 1745573422,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 877704,
+        "num": 877704,
+        "word": "张淼怡获金扫帚影后",
+        "onboard_time": 1745567061,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 751465,
+        "num": 751465,
+        "word": "小伙申请改名周天紫薇大帝被驳回",
+        "onboard_time": 1745569160,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 582405,
+        "num": 582405,
+        "word": "猿辅导员工猝死前和女友说加完班回",
+        "onboard_time": 1745570361,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 411387,
+        "num": 411387,
+        "word": "749局值得",
+        "onboard_time": 1745569160,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 378740,
+        "num": 378740,
+        "word": "当年只有王宝强去领金扫帚奖",
+        "onboard_time": 1745568082,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 361053,
+        "num": 361053,
+        "word": "华表奖表演嘉宾公布",
+        "onboard_time": 1745566522,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108125,
+        "num": 359458,
+        "word": "人工智能会取代传统教育吗",
+        "onboard_time": 1745570901,
+        "rank": 9,
+        "category": "教育,互联网"
+      },
+      {
+        "raw_hot": 645684,
+        "num": 359384,
+        "word": "迅猛龙考上复旦了",
+        "onboard_time": 1745559563,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 640839,
+        "num": 359298,
+        "word": "氯雷他定",
+        "onboard_time": 1745555662,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 358950,
+        "num": 358950,
+        "word": "儿子悄悄考北大妈妈惊成静止画面",
+        "onboard_time": 1745555782,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 313603,
+        "num": 313603,
+        "word": "刘诗诗章若楠孟子义美进一部剧",
+        "onboard_time": 1745570961,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58778,
+        "num": 288264,
+        "word": "美国新泽西州爆发20年最大野火",
+        "onboard_time": 1745573001,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 277877,
+        "num": 277877,
+        "word": "中共中央政治局4月25日召开会议",
+        "onboard_time": 1745561301,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 223889,
+        "num": 223889,
+        "word": "华表奖预测",
+        "onboard_time": 1745567302,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 199885,
+        "num": 199885,
+        "word": "马拉松月薪三万也快高攀不起了",
+        "onboard_time": 1745566701,
+        "rank": 17,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 94567,
+        "num": 187306,
+        "word": "苹果换vivoX200s最高补贴1800元",
+        "onboard_time": 1745572223,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 15625,
+        "num": 182682,
+        "word": "瓦尔迪为何决定离开莱斯特城",
+        "onboard_time": 1745572881,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210220,
+        "num": 182639,
+        "word": "杨威妻子被诊断太劳累气血不足",
+        "onboard_time": 1745564001,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180691,
+        "num": 180691,
+        "word": "钟丽丽无意中拒绝了洪尧的爹味",
+        "onboard_time": 1745568622,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179679,
+        "num": 179679,
+        "word": "张碧晨唱哭了",
+        "onboard_time": 1745572581,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171188,
+        "num": 171188,
+        "word": "特朗普正在捅一个更大的娄子",
+        "onboard_time": 1745567422,
+        "rank": 23,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 170424,
+        "num": 170424,
+        "word": "于正回应多名艺人退圈",
+        "onboard_time": 1745565801,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170145,
+        "num": 170145,
+        "word": "印度成功试射射程70公里导弹",
+        "onboard_time": 1745572401,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 164006,
+        "num": 164006,
+        "word": "淮水竹亭",
+        "onboard_time": 1745569521,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158008,
+        "num": 158008,
+        "word": "张凌赫你在用你的帅脸干什么",
+        "onboard_time": 1745570662,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49713,
+        "num": 155203,
+        "word": "妈妈直播间买富硒片10瓶4980元",
+        "onboard_time": 1745572101,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55290,
+        "num": 155002,
+        "word": "女子打网约车遭司机冲撞打骂",
+        "onboard_time": 1745572641,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154942,
+        "num": 154942,
+        "word": "张淼怡演技",
+        "onboard_time": 1745570482,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148997,
+        "num": 148997,
+        "word": "包贝尔获金扫帚影帝",
+        "onboard_time": 1745567901,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148456,
+        "num": 148456,
+        "word": "王楚钦四季混搭风",
+        "onboard_time": 1745570122,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145607,
+        "num": 145607,
+        "word": "迅猛龙回应考上复旦",
+        "onboard_time": 1745570182,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 141290,
+        "num": 141290,
+        "word": "别说老外惊呆老内也惊呆了",
+        "onboard_time": 1745568561,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139390,
+        "num": 139390,
+        "word": "孙颖莎这一球对手只剩苦笑了",
+        "onboard_time": 1745573062,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134535,
+        "num": 134535,
+        "word": "北京草莓音乐节歌单",
+        "onboard_time": 1745573182,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133316,
+        "num": 133316,
+        "word": "长期熬夜后身体释放的求救信号",
+        "onboard_time": 1745557222,
+        "rank": 37,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 128422,
+        "num": 128422,
+        "word": "巴基斯坦与印度军队发生交火",
+        "onboard_time": 1745562322,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 56092,
+        "num": 124365,
+        "word": "这一刻他是全班的英雄",
+        "onboard_time": 1745573062,
+        "rank": 39,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 122970,
+        "num": 122970,
+        "word": "王源广州站预售",
+        "onboard_time": 1745573661,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 121886,
+        "num": 121886,
+        "word": "不是说男人花期短吗",
+        "onboard_time": 1745573422,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120113,
+        "num": 120113,
+        "word": "陈德容哭了",
+        "onboard_time": 1745560102,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119245,
+        "num": 119245,
+        "word": "王一博刷新个人最快圈速",
+        "onboard_time": 1745571261,
+        "rank": 43,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 118194,
+        "num": 118194,
+        "word": "刘宇宁北影节永不散场的告白",
+        "onboard_time": 1745569101,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111748,
+        "num": 111748,
+        "word": "跳水运动员唐怡萱当场对峙偷拍男",
+        "onboard_time": 1745572101,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110465,
+        "num": 110465,
+        "word": "想走歪路 发现歪路也站满了人",
+        "onboard_time": 1745573900,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109457,
+        "num": 109457,
+        "word": "所有的猝死都是蓄谋已久",
+        "onboard_time": 1745571801,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 109208,
+        "num": 109208,
+        "word": "周深将亮相北影节闭幕式",
+        "onboard_time": 1745566161,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 107878,
+        "num": 107878,
+        "word": "韩国残运会盒饭只有泡菜小菜引众怒",
+        "onboard_time": 1745555122,
+        "rank": 49,
+        "category": "体育,海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#逐梦九天不止步#"
+    }
+  }
+}
