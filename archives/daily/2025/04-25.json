@@ -1,6 +1,6 @@
 {
   "startTime": 1745512289618,
-  "endTime": 1745592139579,
+  "endTime": 1745594781713,
   "band_list": [
     {
       "raw_hot": 2560355,
@@ -211,6 +211,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 943578,
+      "num": 411967,
+      "word": "西安一中学生遭霸凌被同学割伤脸",
+      "onboard_time": 1745592261,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 937741,
       "num": 937741,
       "word": "印度已切断印度河水",
@@ -241,6 +249,22 @@
       "onboard_time": 1745542702,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 813945,
+      "num": 813945,
+      "word": "无忧渡 遗憾",
+      "onboard_time": 1745593344,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 809541,
+      "num": 550753,
+      "word": "孟子义 别恶剪啊我超努力的",
+      "onboard_time": 1745592324,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 783371,
@@ -297,6 +321,14 @@
       "onboard_time": 1745581342,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 668385,
+      "num": 409205,
+      "word": "60岁阿姨离婚后的状态",
+      "onboard_time": 1745592202,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 662124,
@@ -499,6 +531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 455218,
+      "num": 364891,
+      "word": "特朗普称24小时结束俄乌冲突是玩笑",
+      "onboard_time": 1745590402,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 447374,
       "num": 447374,
       "word": "EXO成员KAI开通微博",
@@ -521,6 +561,14 @@
       "onboard_time": 1745560221,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 431984,
+      "num": 431984,
+      "word": "杨紫给主持人打伞",
+      "onboard_time": 1745590703,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 431470,
@@ -561,14 +609,6 @@
       "onboard_time": 1745577141,
       "rank": 12,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 415959,
-      "num": 415959,
-      "word": "杨紫给主持人打伞",
-      "onboard_time": 1745590703,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 412472,
@@ -747,6 +787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 345116,
+      "num": 345116,
+      "word": "郑钦文止步女单次轮",
+      "onboard_time": 1745593222,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 342465,
       "num": 265416,
       "word": "尊界S800内饰太尊了",
@@ -801,6 +849,14 @@
       "onboard_time": 1745585002,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 328221,
+      "num": 178573,
+      "word": "韩安冉曝与婆婆聊天记录",
+      "onboard_time": 1745594121,
+      "rank": 22,
+      "category": "网红"
     },
     {
       "raw_hot": 326768,
@@ -915,6 +971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 292263,
+      "num": 170923,
+      "word": "美24岁前童星去世时已怀有身孕",
+      "onboard_time": 1745593822,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 291462,
       "num": 291462,
       "word": "特朗普称美国若不买加拿大将不存在",
@@ -953,14 +1017,6 @@
       "onboard_time": 1745539040,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 284448,
-      "num": 364891,
-      "word": "特朗普称24小时结束俄乌冲突是玩笑",
-      "onboard_time": 1745590402,
-      "rank": 35,
-      "category": "国际时政"
     },
     {
       "raw_hot": 284072,
@@ -1387,6 +1443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200036,
+      "num": 200036,
+      "word": "无忧渡有第二季吗",
+      "onboard_time": 1745594243,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199761,
       "num": 199761,
       "word": "女娲毕设真是各美各的",
@@ -1571,6 +1635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 182410,
+      "num": 182410,
+      "word": "KSG遗憾止步春季赛",
+      "onboard_time": 1745594663,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 179728,
       "num": 179728,
       "word": "王楚钦四季混搭风",
@@ -1635,6 +1707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 175806,
+      "num": 168972,
+      "word": "纽约市民凌晨排两条街长队买中国相机",
+      "onboard_time": 1745592384,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 174652,
       "num": 174652,
       "word": "谢霆锋演唱会",
@@ -1665,6 +1745,14 @@
       "onboard_time": 1745552000,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171871,
+      "num": 171871,
+      "word": "熬到凌晨三点看完的小说",
+      "onboard_time": 1745592202,
+      "rank": 29,
+      "category": "读书作家"
     },
     {
       "raw_hot": 171561,
@@ -1771,6 +1859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163868,
+      "num": 163868,
+      "word": "终于能跟我妈看同一个综艺了",
+      "onboard_time": 1745590221,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163859,
       "num": 163859,
       "word": "昆明的花太考验个人素质了",
@@ -1841,6 +1937,14 @@
       "onboard_time": 1745577862,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 160613,
+      "num": 176068,
+      "word": "郑钦文0比2波塔波娃",
+      "onboard_time": 1745593703,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 159754,
@@ -1945,14 +2049,6 @@
       "onboard_time": 1745547680,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 151572,
-      "num": 151572,
-      "word": "终于能跟我妈看同一个综艺了",
-      "onboard_time": 1745590221,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 151247,
@@ -2065,6 +2161,14 @@
       "onboard_time": 1745572101,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146232,
+      "num": 146232,
+      "word": "王珞丹左右两边的化妆台都空了",
+      "onboard_time": 1745590642,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 145710,
@@ -2217,14 +2321,6 @@
       "onboard_time": 1745574500,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 138489,
-      "num": 138489,
-      "word": "王珞丹左右两边的化妆台都空了",
-      "onboard_time": 1745590642,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 138156,
@@ -2443,12 +2539,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129320,
+      "num": 129320,
+      "word": "郑钦文奥运夺金后红土首秀",
+      "onboard_time": 1745589022,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129113,
       "num": 129113,
       "word": "公司财务每天背大包的原因",
       "onboard_time": 1745546241,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 128777,
+      "num": 128777,
+      "word": "蔡正元",
+      "onboard_time": 1745593283,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 127419,
@@ -2523,20 +2635,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123267,
+      "num": 179597,
+      "word": "工作人员回应房东提灯定损",
+      "onboard_time": 1745593462,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122970,
       "num": 122970,
       "word": "王源广州站预售",
       "onboard_time": 1745573661,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 122895,
-      "num": 122895,
-      "word": "郑钦文奥运夺金后红土首秀",
-      "onboard_time": 1745589022,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 122854,
@@ -2680,6 +2792,14 @@
       "word": "李承铉敢演韩庚都不敢看",
       "onboard_time": 1745575102,
       "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 116301,
+      "num": 116301,
+      "word": "刘宇宁的眼泪落在两人的座位",
+      "onboard_time": 1745594483,
+      "rank": 47,
       "category": "综艺"
     },
     {
@@ -2849,6 +2969,14 @@
       "onboard_time": 1745536579,
       "rank": 37,
       "category": "民生新闻,国内时政"
+    },
+    {
+      "raw_hot": 105399,
+      "num": 114312,
+      "word": "郑钦文红土赛季首战落败",
+      "onboard_time": 1745593462,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 104495,
@@ -3147,6 +3275,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 76429,
+      "num": 169437,
+      "word": "上汽大众傅强回应ID3展台事件",
+      "onboard_time": 1745593522,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 76183,
       "num": 347467,
       "word": "巴防长发出全面战争警告",
@@ -3232,6 +3368,14 @@
       "word": "于适工作室发文",
       "onboard_time": 1745546900,
       "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 69432,
+      "num": 172143,
+      "word": "杨紫今天穿得好仙",
+      "onboard_time": 1745592384,
+      "rank": 28,
       "category": "艺人"
     },
     {
@@ -3739,6 +3883,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 39251,
+      "num": 152326,
+      "word": "美国消费者涌入电商平台抢购中国制造商品",
+      "onboard_time": 1745589202,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 39004,
       "num": 171579,
       "word": "印象最深的国羽苏杯瞬间",
@@ -3825,6 +3977,14 @@
       "onboard_time": 1745562381,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33941,
+      "num": 181681,
+      "word": "印巴局势接下来的3个走向",
+      "onboard_time": 1745593703,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 33548,
@@ -4297,6 +4457,14 @@
       "onboard_time": 1745586143,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 5254,
+      "num": 176786,
+      "word": "金扫帚奖成立背景是什么",
+      "onboard_time": 1745594543,
+      "rank": 24,
+      "category": "电影"
     }
   ],
   "hotgov_list": [

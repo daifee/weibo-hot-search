@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/25 22:42:19
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/25 23:26:21
 </p>
 </blockquote>
 <p>
@@ -4383,6 +4383,12 @@ THE9成员9人实到2人（热度：949717）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E4%B8%80%E4%B8%AD%E5%AD%A6%E7%94%9F%E9%81%AD%E9%9C%B8%E5%87%8C%E8%A2%AB%E5%90%8C%E5%AD%A6%E5%89%B2%E4%BC%A4%E8%84%B8%23" target="weibo">
+西安一中学生遭霸凌被同学割伤脸（热度：943578）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E8%BA%AB95%25%E7%83%A7%E4%BC%A4%E5%A5%B3%E5%AD%A9%E8%AE%A2%E5%A9%9A%E4%BA%86%23" target="weibo">
 全身95%烧伤女孩订婚了（热度：942806）
 </a>
@@ -5451,6 +5457,12 @@ bite me男伴舞（热度：832510）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E5%BF%A7%E6%B8%A1%20%E9%81%97%E6%86%BE%23" target="weibo">
+无忧渡 遗憾（热度：813945）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%8D%A1%E5%88%B0%E6%B4%BB%E7%9A%84%E7%AC%AC%E4%B8%80%E4%BB%B6%E4%BA%8B%E5%B0%B1%E6%98%AF%E6%8A%95%E5%96%82%23" target="weibo">
 中国人捡到活的第一件事就是投喂（热度：812294）
 </a>
@@ -5483,6 +5495,12 @@ bite me男伴舞（热度：832510）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E6%94%B9%E5%90%8D%E5%A4%A7%E4%B9%B1%E6%96%97%E8%81%94%E7%9B%9F%23" target="weibo">
 英雄联盟改名大乱斗联盟（热度：809729）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%20%E5%88%AB%E6%81%B6%E5%89%AA%E5%95%8A%E6%88%91%E8%B6%85%E5%8A%AA%E5%8A%9B%E7%9A%84%23" target="weibo">
+孟子义 别恶剪啊我超努力的（热度：809541）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ YERI和Wendy离开SM（热度：805847）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B9%E5%A4%A7%E5%90%8C%E8%BF%87%E4%B8%96%E5%90%8E%E8%96%9B%E5%87%AF%E7%90%AA%E4%B8%80%E9%86%92%E5%B0%B1%E7%97%9B%E5%93%AD%23" target="weibo">
 方大同过世后薛凯琪一醒就痛哭（热度：760777）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E4%BA%8C%E6%90%AD%E4%BC%9A%E8%BD%B0%E5%8A%A8%E5%A8%B1%E4%B9%90%E5%9C%88%23" target="weibo">
-谁二搭会轰动娱乐圈（热度：760517）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B4%9B%E6%9D%89%E7%9F%B6%E5%A5%A5%E8%BF%90%E4%BC%9A%E4%B9%92%E4%B9%93%E7%90%83%E9%87%91%E7%89%8C%E5%A2%9E%E8%87%B36%E5%9D%97%23" target="weibo">
-洛杉矶奥运会乒乓球金牌增至6块（热度：758820）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BB%8F%E7%BA%AA%E4%BA%BA%E4%B8%8D%E8%AE%A9%E7%A5%9D%E7%BB%AA%E4%B8%B9%E4%BD%93%E9%87%8D%E4%BD%8E%E4%BA%8E80%E6%96%A4%23" target="weibo">
-经纪人不让祝绪丹体重低于80斤（热度：758003）
 </a>
 </li>
 

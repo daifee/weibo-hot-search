@@ -1,0 +1,410 @@
+{
+  "runTime": 1745594781713,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1377267,
+        "num": 1377267,
+        "word": "复旦回应拟录取600万粉丝网红",
+        "onboard_time": 1745580502,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 896494,
+        "num": 896494,
+        "word": "中央巡视组进驻四川首虎落马",
+        "onboard_time": 1745589863,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89129,
+        "num": 850808,
+        "word": "以旧换新带动销售额超7200亿",
+        "onboard_time": 1745587342,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1207028,
+        "num": 834043,
+        "word": "朋友圈三天可见 置顶像生死簿那么长",
+        "onboard_time": 1745577680,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 813945,
+        "num": 813945,
+        "word": "无忧渡 遗憾",
+        "onboard_time": 1745593344,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 550895,
+        "num": 550895,
+        "word": "中国取消1.2万吨美国猪肉订单",
+        "onboard_time": 1745570901,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 809541,
+        "num": 550753,
+        "word": "孟子义 别恶剪啊我超努力的",
+        "onboard_time": 1745592324,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 544421,
+        "num": 544421,
+        "word": "多方回应黄瓜里被发现藏着针",
+        "onboard_time": 1745587103,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 482944,
+        "num": 482944,
+        "word": "字节跳动100元一天的免费三餐",
+        "onboard_time": 1745582062,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 431984,
+        "num": 431984,
+        "word": "杨紫给主持人打伞",
+        "onboard_time": 1745590703,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 943578,
+        "num": 411967,
+        "word": "西安一中学生遭霸凌被同学割伤脸",
+        "onboard_time": 1745592261,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 668385,
+        "num": 409205,
+        "word": "60岁阿姨离婚后的状态",
+        "onboard_time": 1745592202,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 345116,
+        "num": 345116,
+        "word": "郑钦文止步女单次轮",
+        "onboard_time": 1745593222,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 339352,
+        "num": 339352,
+        "word": "张柏芝身上戴了7只蝴蝶",
+        "onboard_time": 1745585662,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 287880,
+        "num": 287880,
+        "word": "华表奖 赵丽颖",
+        "onboard_time": 1745581342,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 270649,
+        "num": 270649,
+        "word": "今年一季度全国结婚登记181万对",
+        "onboard_time": 1745578221,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231995,
+        "num": 231995,
+        "word": "王一博等将亮相华表奖",
+        "onboard_time": 1745576782,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 200036,
+        "num": 200036,
+        "word": "无忧渡有第二季吗",
+        "onboard_time": 1745594243,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182410,
+        "num": 182410,
+        "word": "KSG遗憾止步春季赛",
+        "onboard_time": 1745594663,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 33941,
+        "num": 181681,
+        "word": "印巴局势接下来的3个走向",
+        "onboard_time": 1745593703,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 455218,
+        "num": 180683,
+        "word": "特朗普称24小时结束俄乌冲突是玩笑",
+        "onboard_time": 1745590402,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 123267,
+        "num": 179597,
+        "word": "工作人员回应房东提灯定损",
+        "onboard_time": 1745593462,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 328221,
+        "num": 178573,
+        "word": "韩安冉曝与婆婆聊天记录",
+        "onboard_time": 1745594121,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 224746,
+        "num": 178056,
+        "word": "低成本养气血的10种方式",
+        "onboard_time": 1745589982,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 5254,
+        "num": 176786,
+        "word": "金扫帚奖成立背景是什么",
+        "onboard_time": 1745594543,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 160613,
+        "num": 176068,
+        "word": "郑钦文0比2波塔波娃",
+        "onboard_time": 1745593703,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150002,
+        "num": 175472,
+        "word": "女子退租沙发磨损1mm房东硬扣几百",
+        "onboard_time": 1745587643,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174679,
+        "num": 174679,
+        "word": "因为你每天摸墙100次",
+        "onboard_time": 1745585302,
+        "rank": 27,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 69432,
+        "num": 172143,
+        "word": "杨紫今天穿得好仙",
+        "onboard_time": 1745592384,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171871,
+        "num": 171871,
+        "word": "熬到凌晨三点看完的小说",
+        "onboard_time": 1745592202,
+        "rank": 29,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 292263,
+        "num": 170923,
+        "word": "美24岁前童星去世时已怀有身孕",
+        "onboard_time": 1745593822,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76429,
+        "num": 169437,
+        "word": "上汽大众傅强回应ID3展台事件",
+        "onboard_time": 1745593522,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 175806,
+        "num": 168972,
+        "word": "纽约市民凌晨排两条街长队买中国相机",
+        "onboard_time": 1745592384,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 168272,
+        "num": 168272,
+        "word": "华表奖阵容官宣",
+        "onboard_time": 1745576600,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 165426,
+        "num": 165426,
+        "word": "EXO成员KAI开通微博",
+        "onboard_time": 1745589562,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163868,
+        "num": 163868,
+        "word": "终于能跟我妈看同一个综艺了",
+        "onboard_time": 1745590221,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161775,
+        "num": 161775,
+        "word": "上海街头偶遇赵丽颖",
+        "onboard_time": 1745585902,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39251,
+        "num": 152326,
+        "word": "美国消费者涌入电商平台抢购中国制造商品",
+        "onboard_time": 1745589202,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 146232,
+        "num": 146232,
+        "word": "王珞丹左右两边的化妆台都空了",
+        "onboard_time": 1745590642,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140204,
+        "num": 140204,
+        "word": "奔跑吧13开播",
+        "onboard_time": 1745581822,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139860,
+        "num": 139860,
+        "word": "老板买黄金赚近千万后分给员工",
+        "onboard_time": 1745585181,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129320,
+        "num": 129320,
+        "word": "郑钦文奥运夺金后红土首秀",
+        "onboard_time": 1745589022,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128777,
+        "num": 128777,
+        "word": "蔡正元",
+        "onboard_time": 1745593283,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 123319,
+        "num": 123319,
+        "word": "张淼怡获金扫帚影后",
+        "onboard_time": 1745567061,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123311,
+        "num": 123311,
+        "word": "刘亦菲皮肤状态",
+        "onboard_time": 1745585842,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 123060,
+        "num": 123060,
+        "word": "氯雷他定",
+        "onboard_time": 1745555662,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 117176,
+        "num": 117176,
+        "word": "肖战痛城",
+        "onboard_time": 1745586022,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116301,
+        "num": 116301,
+        "word": "刘宇宁的眼泪落在两人的座位",
+        "onboard_time": 1745594483,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105399,
+        "num": 114312,
+        "word": "郑钦文红土赛季首战落败",
+        "onboard_time": 1745593462,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113786,
+        "num": 113786,
+        "word": "鞠婧祎直播",
+        "onboard_time": 1745585002,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央政治局召开会议#"
+    }
+  }
+}
