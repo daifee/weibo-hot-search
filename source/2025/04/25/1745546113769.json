@@ -1,0 +1,410 @@
+{
+  "runTime": 1745546113769,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1064909,
+        "num": 1170385,
+        "word": "黄子韬卫生巾公司招聘大专起投",
+        "onboard_time": 1745544501,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 959407,
+        "num": 959407,
+        "word": "猿辅导老师猝死家属发声",
+        "onboard_time": 1745544200,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67245,
+        "num": 692375,
+        "word": "第一视角看神20发射多震撼",
+        "onboard_time": 1745501842,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 594539,
+        "num": 594539,
+        "word": "曹骏出场",
+        "onboard_time": 1745541383,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 585300,
+        "num": 585300,
+        "word": "姐姐回应男子被打20个月后死亡",
+        "onboard_time": 1745542702,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 373596,
+        "num": 373596,
+        "word": "美官员承认误判中方反应",
+        "onboard_time": 1745538981,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 578431,
+        "num": 350056,
+        "word": "网红彩虹夫妇宣布停播",
+        "onboard_time": 1745538200,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 318217,
+        "num": 318217,
+        "word": "成本9元素颜霜标38元卖出500多万",
+        "onboard_time": 1745511440,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291462,
+        "num": 291462,
+        "word": "特朗普称美国若不买加拿大将不存在",
+        "onboard_time": 1745536579,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 272363,
+        "num": 272363,
+        "word": "新疆下井救人00后女辅警破格晋升",
+        "onboard_time": 1745536519,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 417440,
+        "num": 268220,
+        "word": "肖战上海",
+        "onboard_time": 1745544200,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 280257,
+        "num": 265240,
+        "word": "人体是怎样一步步走向糖尿病的",
+        "onboard_time": 1745538381,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 253267,
+        "num": 253267,
+        "word": "阿里纳斯儿子严重车祸",
+        "onboard_time": 1745542522,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235869,
+        "num": 235869,
+        "word": "她一个月做了我一辈子的工作",
+        "onboard_time": 1745538080,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 212561,
+        "num": 212561,
+        "word": "种地吧和十个勤天的成功很难被复制",
+        "onboard_time": 1745542582,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171361,
+        "num": 171361,
+        "word": "特朗普宣布关税后支持率骤降",
+        "onboard_time": 1745513597,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 170950,
+        "num": 170950,
+        "word": "神二十与空间站完成对接",
+        "onboard_time": 1745510179,
+        "rank": 16,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 163859,
+        "num": 163859,
+        "word": "昆明的花太考验个人素质了",
+        "onboard_time": 1745544020,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163683,
+        "num": 163683,
+        "word": "榜上佳婿 空降",
+        "onboard_time": 1745504603,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38567,
+        "num": 159675,
+        "word": "福宝为何会反复经历假孕状态",
+        "onboard_time": 1745532915,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 339178,
+        "num": 159425,
+        "word": "金条供不应求",
+        "onboard_time": 1745542582,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 157873,
+        "num": 157873,
+        "word": "BLG 换打野",
+        "onboard_time": 1745540240,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 139731,
+        "num": 155708,
+        "word": "中国航天6次太空会师666",
+        "onboard_time": 1745545821,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 307738,
+        "num": 155639,
+        "word": "张继科夸马琳不是人是神",
+        "onboard_time": 1745544620,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155322,
+        "num": 155322,
+        "word": "陆仙人把非遗壮锦穿到了巴黎",
+        "onboard_time": 1745543541,
+        "rank": 24,
+        "category": "时尚,民生新闻"
+      },
+      {
+        "raw_hot": 285650,
+        "num": 155086,
+        "word": "铁塔指挥中心屏幕现男女暧昧视频",
+        "onboard_time": 1745539040,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 487335,
+        "num": 155038,
+        "word": "安徽铁塔",
+        "onboard_time": 1745542341,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138635,
+        "num": 154692,
+        "word": "任达华女儿在名校跳级上课",
+        "onboard_time": 1745524574,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116108,
+        "num": 154567,
+        "word": "提前看到了折腰剧宣的混乱场景",
+        "onboard_time": 1745545460,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34416,
+        "num": 154204,
+        "word": "女孩发现被人尾随跑进便利店求助",
+        "onboard_time": 1745545580,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1395501,
+        "num": 153974,
+        "word": "安徽铁塔就不雅视频致歉",
+        "onboard_time": 1745540482,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153894,
+        "num": 153894,
+        "word": "打开王者荣耀跟进了miniso似的",
+        "onboard_time": 1745540122,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148610,
+        "num": 148610,
+        "word": "景区回应现罕见太极阴阳鱼",
+        "onboard_time": 1745540362,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144562,
+        "num": 144562,
+        "word": "我当了明星就这样",
+        "onboard_time": 1745510360,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134889,
+        "num": 134889,
+        "word": "泡泡",
+        "onboard_time": 1745544920,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 125858,
+        "num": 125858,
+        "word": "抢labubu",
+        "onboard_time": 1745505382,
+        "rank": 35,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 121245,
+        "num": 121245,
+        "word": "猿辅导前员工称1人带400个学生",
+        "onboard_time": 1745545821,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115648,
+        "num": 115648,
+        "word": "发朋友圈前先回复消息",
+        "onboard_time": 1745538200,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112364,
+        "num": 112364,
+        "word": "小米YU7上市时间并未改变",
+        "onboard_time": 1745543961,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 107056,
+        "num": 107056,
+        "word": "特朗普喊话让普京收手",
+        "onboard_time": 1745543301,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 105592,
+        "num": 105592,
+        "word": "中国航天员在太空吃饺子",
+        "onboard_time": 1745536579,
+        "rank": 40,
+        "category": "民生新闻,国内时政"
+      },
+      {
+        "raw_hot": 104269,
+        "num": 104269,
+        "word": "澳大利亚出动直升机扑杀750只考拉",
+        "onboard_time": 1745497942,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 102572,
+        "num": 102572,
+        "word": "唐国强反复认错丁程鑫刘耀文",
+        "onboard_time": 1745508023,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102375,
+        "num": 102375,
+        "word": "一念江南 虞书欣",
+        "onboard_time": 1745506823,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102064,
+        "num": 102064,
+        "word": "神舟二十号发射圆满成功",
+        "onboard_time": 1745493082,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 96421,
+        "num": 96421,
+        "word": "大熊猫半夜不睡觉排排坐吃夜宵",
+        "onboard_time": 1745519294,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87886,
+        "num": 87886,
+        "word": "约70%的00后计划30岁前购房",
+        "onboard_time": 1745510242,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84634,
+        "num": 84634,
+        "word": "苏州马拉松",
+        "onboard_time": 1745544860,
+        "rank": 47,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 82249,
+        "num": 82249,
+        "word": "女孩放学后被男子尾随进便利店求助",
+        "onboard_time": 1745546001,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80711,
+        "num": 80711,
+        "word": "奶奶在拍花爷爷在拍她",
+        "onboard_time": 1745545400,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代中肯命运共同体#"
+    }
+  }
+}

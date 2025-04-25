@@ -1,7 +1,15 @@
 {
   "startTime": 1745512289618,
-  "endTime": 1745537854497,
+  "endTime": 1745546113769,
   "band_list": [
+    {
+      "raw_hot": 1395501,
+      "num": 153974,
+      "word": "安徽铁塔就不雅视频致歉",
+      "onboard_time": 1745540482,
+      "rank": 30,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 1083304,
       "num": 1083304,
@@ -9,6 +17,22 @@
       "onboard_time": 1745513597,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1064909,
+      "num": 1170385,
+      "word": "黄子韬卫生巾公司招聘大专起投",
+      "onboard_time": 1745544501,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 959407,
+      "num": 959407,
+      "word": "猿辅导老师猝死家属发声",
+      "onboard_time": 1745544200,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 957557,
@@ -51,6 +75,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 594539,
+      "num": 594539,
+      "word": "曹骏出场",
+      "onboard_time": 1745541383,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 585300,
+      "num": 585300,
+      "word": "姐姐回应男子被打20个月后死亡",
+      "onboard_time": 1745542702,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 578431,
+      "num": 350056,
+      "word": "网红彩虹夫妇宣布停播",
+      "onboard_time": 1745538200,
+      "rank": 6,
+      "category": "网红"
+    },
+    {
       "raw_hot": 571480,
       "num": 571480,
       "word": "榜上佳婿 空降",
@@ -59,12 +107,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 487335,
+      "num": 155038,
+      "word": "安徽铁塔",
+      "onboard_time": 1745542341,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 431470,
       "num": 431470,
       "word": "任达华女儿在名校跳级上课",
       "onboard_time": 1745524574,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 417440,
+      "num": 268220,
+      "word": "肖战上海",
+      "onboard_time": 1745544200,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 406818,
@@ -81,6 +145,14 @@
       "onboard_time": 1745506823,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 373596,
+      "num": 373596,
+      "word": "美官员承认误判中方反应",
+      "onboard_time": 1745538981,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 362669,
@@ -115,12 +187,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 339178,
+      "num": 159425,
+      "word": "金条供不应求",
+      "onboard_time": 1745542582,
+      "rank": 20,
+      "category": "财经"
+    },
+    {
       "raw_hot": 320804,
       "num": 320804,
       "word": "男子离婚诉讼6年3次被判不许离",
       "onboard_time": 1745508382,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 307738,
+      "num": 155639,
+      "word": "张继科夸马琳不是人是神",
+      "onboard_time": 1745544620,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 297905,
@@ -131,12 +219,36 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 283366,
-      "num": 177633,
+      "raw_hot": 291462,
+      "num": 291462,
       "word": "特朗普称美国若不买加拿大将不存在",
       "onboard_time": 1745536579,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 285650,
+      "num": 155086,
+      "word": "铁塔指挥中心屏幕现男女暧昧视频",
+      "onboard_time": 1745539040,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 280257,
+      "num": 265240,
+      "word": "人体是怎样一步步走向糖尿病的",
+      "onboard_time": 1745538381,
+      "rank": 11,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 272363,
+      "num": 272363,
+      "word": "新疆下井救人00后女辅警破格晋升",
+      "onboard_time": 1745536519,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 257081,
@@ -145,6 +257,14 @@
       "onboard_time": 1745496503,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 253267,
+      "num": 253267,
+      "word": "阿里纳斯儿子严重车祸",
+      "onboard_time": 1745542522,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 245700,
@@ -171,12 +291,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 232935,
-      "num": 167282,
-      "word": "新疆下井救人00后女辅警破格晋升",
-      "onboard_time": 1745536519,
-      "rank": 15,
-      "category": "民生新闻"
+      "raw_hot": 235869,
+      "num": 235869,
+      "word": "她一个月做了我一辈子的工作",
+      "onboard_time": 1745538080,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 225217,
@@ -185,6 +305,14 @@
       "onboard_time": 1745488761,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 212561,
+      "num": 212561,
+      "word": "种地吧和十个勤天的成功很难被复制",
+      "onboard_time": 1745542582,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 190739,
@@ -211,11 +339,59 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 163859,
+      "num": 163859,
+      "word": "昆明的花太考验个人素质了",
+      "onboard_time": 1745544020,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157873,
+      "num": 157873,
+      "word": "BLG 换打野",
+      "onboard_time": 1745540240,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 155322,
+      "num": 155322,
+      "word": "陆仙人把非遗壮锦穿到了巴黎",
+      "onboard_time": 1745543541,
+      "rank": 24,
+      "category": "时尚,民生新闻"
+    },
+    {
+      "raw_hot": 153894,
+      "num": 153894,
+      "word": "打开王者荣耀跟进了miniso似的",
+      "onboard_time": 1745540122,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 148610,
+      "num": 148610,
+      "word": "景区回应现罕见太极阴阳鱼",
+      "onboard_time": 1745540362,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143278,
       "num": 143278,
       "word": "神舟二十号发射圆满成功",
       "onboard_time": 1745493082,
       "rank": 18,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 139731,
+      "num": 155708,
+      "word": "中国航天6次太空会师666",
+      "onboard_time": 1745545821,
+      "rank": 22,
       "category": "国内时政"
     },
     {
@@ -233,6 +409,14 @@
       "onboard_time": 1745487861,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 134889,
+      "num": 134889,
+      "word": "泡泡",
+      "onboard_time": 1745544920,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 133244,
@@ -267,12 +451,44 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 121245,
+      "num": 121245,
+      "word": "猿辅导前员工称1人带400个学生",
+      "onboard_time": 1745545821,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116108,
+      "num": 154567,
+      "word": "提前看到了折腰剧宣的混乱场景",
+      "onboard_time": 1745545460,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 115648,
+      "num": 115648,
+      "word": "发朋友圈前先回复消息",
+      "onboard_time": 1745538200,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 114675,
       "num": 114675,
       "word": "花少7",
       "onboard_time": 1745490440,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 112364,
+      "num": 112364,
+      "word": "小米YU7上市时间并未改变",
+      "onboard_time": 1745543961,
+      "rank": 38,
+      "category": "汽车"
     },
     {
       "raw_hot": 111345,
@@ -289,6 +505,22 @@
       "onboard_time": 1745520016,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 107056,
+      "num": 107056,
+      "word": "特朗普喊话让普京收手",
+      "onboard_time": 1745543301,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 105592,
+      "num": 105592,
+      "word": "中国航天员在太空吃饺子",
+      "onboard_time": 1745536579,
+      "rank": 37,
+      "category": "民生新闻,国内时政"
     },
     {
       "raw_hot": 104495,
@@ -316,7 +548,7 @@
     },
     {
       "raw_hot": 99031,
-      "num": 99031,
+      "num": 159675,
       "word": "福宝为何会反复经历假孕状态",
       "onboard_time": 1745532915,
       "rank": 48,
@@ -363,6 +595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84634,
+      "num": 84634,
+      "word": "苏州马拉松",
+      "onboard_time": 1745544860,
+      "rank": 47,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 82650,
       "num": 82650,
       "word": "一觉醒来神19神20天宫会师了",
@@ -379,6 +619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 82249,
+      "num": 82249,
+      "word": "女孩放学后被男子尾随进便利店求助",
+      "onboard_time": 1745546001,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81571,
       "num": 81571,
       "word": "杨坤 四川芬达",
@@ -392,6 +640,14 @@
       "word": "男子为复合给前女友装定位器被判刑",
       "onboard_time": 1745508622,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80711,
+      "num": 80711,
+      "word": "奶奶在拍花爷爷在拍她",
+      "onboard_time": 1745545400,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -435,14 +691,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 69779,
-      "num": 69779,
-      "word": "中国航天员在太空吃饺子",
-      "onboard_time": 1745536579,
-      "rank": 37,
-      "category": "民生新闻,国内时政"
-    },
-    {
       "raw_hot": 69289,
       "num": 69289,
       "word": "老小区40栋楼里10栋已成危楼",
@@ -473,6 +721,14 @@
       "onboard_time": 1745512519,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 67245,
+      "num": 692375,
+      "word": "第一视角看神20发射多震撼",
+      "onboard_time": 1745501842,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 66609,
@@ -569,6 +825,14 @@
       "onboard_time": 1745514978,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 34416,
+      "num": 154204,
+      "word": "女孩发现被人尾随跑进便利店求助",
+      "onboard_time": 1745545580,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27100,
