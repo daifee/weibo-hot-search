@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/25 13:41:25
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/25 14:34:52
 </p>
 </blockquote>
 <p>
@@ -635,6 +635,12 @@ C罗点评甲亢哥中国行（热度：2472029）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E5%BF%A7%E6%B8%A1%E5%BC%80%E6%92%AD%23" target="weibo">
 无忧渡开播（热度：2366608）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%85%E7%8C%9B%E9%BE%99%E8%80%83%E4%B8%8A%E5%A4%8D%E6%97%A6%E4%BA%86%23" target="weibo">
+迅猛龙考上复旦了（热度：2348696）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ YERI和Wendy离开SM（热度：805847）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%80%80%E7%96%91%E4%B9%B0%E5%88%B0%E4%BA%86%E8%A2%AB%E6%B4%AA%E6%B0%B4%E6%B3%A1%E8%BF%87%E7%9A%84%E5%8D%AB%E7%94%9F%E5%B7%BE%23" target="weibo">
 怀疑买到了被洪水泡过的卫生巾（热度：749977）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AE%A8%E5%A5%BD%E6%80%A7%E7%A4%BC%E8%B2%8C%23" target="weibo">
-讨好性礼貌（热度：748994）
 </a>
 </li>
 

@@ -1,14 +1,22 @@
 {
   "startTime": 1745512289618,
-  "endTime": 1745559685247,
+  "endTime": 1745562892532,
   "band_list": [
     {
       "raw_hot": 2560355,
-      "num": 305058,
+      "num": 342053,
       "word": "氯雷他定",
       "onboard_time": 1745555662,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2348696,
+      "num": 344638,
+      "word": "迅猛龙考上复旦了",
+      "onboard_time": 1745559563,
+      "rank": 41,
+      "category": "网红"
     },
     {
       "raw_hot": 2097894,
@@ -179,6 +187,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 579985,
+      "num": 579985,
+      "word": "陈德容哭了",
+      "onboard_time": 1745560102,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 579064,
       "num": 579064,
       "word": "新疆下井救人00后女辅警破格晋升",
@@ -219,6 +235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 500604,
+      "num": 337087,
+      "word": "金敏喜生子后状态",
+      "onboard_time": 1745561180,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 487335,
       "num": 155038,
       "word": "安徽铁塔",
@@ -235,12 +259,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 472631,
+      "num": 472631,
+      "word": "中共中央政治局4月25日召开会议",
+      "onboard_time": 1745561301,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 466112,
+      "num": 466112,
+      "word": "美媒说中国赢下了这一轮",
+      "onboard_time": 1745557642,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 431470,
       "num": 431470,
       "word": "任达华女儿在名校跳级上课",
       "onboard_time": 1745524574,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 427785,
+      "num": 427785,
+      "word": "金扫帚",
+      "onboard_time": 1745560822,
+      "rank": 7,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 417440,
@@ -273,6 +321,14 @@
       "onboard_time": 1745546719,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 376831,
+      "num": 290397,
+      "word": "留几手向董明珠道歉",
+      "onboard_time": 1745559023,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 375392,
@@ -371,6 +427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 326649,
+      "num": 326649,
+      "word": "陆川749局横扫金扫帚奖",
+      "onboard_time": 1745557883,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 320804,
       "num": 320804,
       "word": "男子离婚诉讼6年3次被判不许离",
@@ -388,7 +452,7 @@
     },
     {
       "raw_hot": 317821,
-      "num": 259014,
+      "num": 289804,
       "word": "长期熬夜后身体释放的求救信号",
       "onboard_time": 1745557222,
       "rank": 21,
@@ -417,14 +481,6 @@
       "onboard_time": 1745551761,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 302785,
-      "num": 302785,
-      "word": "陆川749局横扫金扫帚奖",
-      "onboard_time": 1745557883,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 297905,
@@ -515,6 +571,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 263552,
+      "num": 328370,
+      "word": "学生摔倒家长索赔8万被驳回",
+      "onboard_time": 1745560221,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 258317,
       "num": 243831,
       "word": "平安京鬼市大开",
@@ -529,14 +593,6 @@
       "onboard_time": 1745496503,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 256962,
-      "num": 256962,
-      "word": "美媒说中国赢下了这一轮",
-      "onboard_time": 1745557642,
-      "rank": 22,
-      "category": "国际时政"
     },
     {
       "raw_hot": 254114,
@@ -587,6 +643,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 238297,
+      "num": 238297,
+      "word": "九尾吃蓁牛肉面了",
+      "onboard_time": 1745561002,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 236767,
       "num": 236767,
       "word": "石凯订婚照",
@@ -609,6 +673,14 @@
       "onboard_time": 1745558541,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 234002,
+      "num": 174515,
+      "word": "用一瓶水就能改善体态的方法",
+      "onboard_time": 1745562502,
+      "rank": 30,
+      "category": "运动健身"
     },
     {
       "raw_hot": 230439,
@@ -667,6 +739,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208387,
+      "num": 208387,
+      "word": "杨紫雾粉无袖裙",
+      "onboard_time": 1745562142,
+      "rank": 25,
+      "category": "作品衍生,综艺"
+    },
+    {
+      "raw_hot": 207696,
+      "num": 207696,
+      "word": "莎拉布莱曼选了李晟",
+      "onboard_time": 1745560521,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206781,
       "num": 206781,
       "word": "72岁唐国强综艺之神附体",
@@ -689,14 +777,6 @@
       "onboard_time": 1745554043,
       "rank": 40,
       "category": "财经"
-    },
-    {
-      "raw_hot": 201954,
-      "num": 201954,
-      "word": "留几手向董明珠道歉",
-      "onboard_time": 1745559023,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 199761,
@@ -723,6 +803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195848,
+      "num": 195848,
+      "word": "易烊千玺同款索道原来在青岛",
+      "onboard_time": 1745560462,
+      "rank": 27,
+      "category": "艺人,旅游"
+    },
+    {
       "raw_hot": 190739,
       "num": 190739,
       "word": "大熊猫半夜不睡觉排排坐吃夜宵",
@@ -737,6 +825,14 @@
       "onboard_time": 1745549541,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 179700,
+      "num": 179700,
+      "word": "跳楼机舞台",
+      "onboard_time": 1745559621,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 178233,
@@ -867,12 +963,28 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 161719,
+      "num": 161719,
+      "word": "不点外卖的年轻人每日百元请人做饭",
+      "onboard_time": 1745560462,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161242,
       "num": 161242,
       "word": "种地吧",
       "onboard_time": 1745558722,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158742,
+      "num": 158742,
+      "word": "动画中不需要被拯救的女主角",
+      "onboard_time": 1745562262,
+      "rank": 32,
+      "category": "动漫"
     },
     {
       "raw_hot": 158391,
@@ -939,6 +1051,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 149415,
+      "num": 149415,
+      "word": "泰国一架小型飞机坠毁",
+      "onboard_time": 1745562623,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 149326,
       "num": 149326,
       "word": "iPhone17有望全系配12GB内存",
@@ -971,6 +1091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145728,
+      "num": 145728,
+      "word": "无忧渡找不到宣夜怎么半",
+      "onboard_time": 1745562381,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143716,
       "num": 143716,
       "word": "张萌冰湖重生杀青礼vlog",
@@ -985,6 +1113,14 @@
       "onboard_time": 1745554461,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 143506,
+      "num": 143506,
+      "word": "黄子弘凡说以后有小孩就当全职爸爸",
+      "onboard_time": 1745560641,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 143278,
@@ -1019,20 +1155,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140290,
+      "num": 140290,
+      "word": "谢娜让宋亚轩贺峻霖不要再打了",
+      "onboard_time": 1745562561,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137481,
       "num": 137481,
       "word": "杨紫当年就是这样撩林志玲的",
       "onboard_time": 1745506282,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 136831,
-      "num": 136831,
-      "word": "迅猛龙考上复旦了",
-      "onboard_time": 1745559563,
-      "rank": 41,
-      "category": "网红"
     },
     {
       "raw_hot": 136769,
@@ -1049,6 +1185,14 @@
       "onboard_time": 1745548819,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136711,
+      "num": 125545,
+      "word": "孙燕姿抢票",
+      "onboard_time": 1745562802,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 135644,
@@ -1123,6 +1267,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 126259,
+      "num": 126259,
+      "word": "迪丽热巴开推3做饭",
+      "onboard_time": 1745561301,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123493,
       "num": 123493,
       "word": "杨超越太权威了",
@@ -1145,6 +1297,14 @@
       "onboard_time": 1745552901,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 121991,
+      "num": 121991,
+      "word": "六小龄童一开口就是孙悟空的味儿",
+      "onboard_time": 1745560822,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 121641,
@@ -1193,14 +1353,6 @@
       "onboard_time": 1745559621,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 117177,
-      "num": 114469,
-      "word": "跳楼机舞台",
-      "onboard_time": 1745559621,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 115976,
@@ -1419,6 +1571,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 82594,
+      "num": 154357,
+      "word": "王鹤棣动不动喝什么",
+      "onboard_time": 1745562802,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 82564,
       "num": 82564,
       "word": "无忧渡热度",
@@ -1587,6 +1747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 66499,
+      "num": 334288,
+      "word": "巴基斯坦与印度军队发生交火",
+      "onboard_time": 1745562322,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 66265,
       "num": 211596,
       "word": "一把剃须刀搞定明星同款下颌线",
@@ -1635,6 +1803,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 57967,
+      "num": 145878,
+      "word": "武警战士的反应速度",
+      "onboard_time": 1745561121,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55816,
       "num": 271307,
       "word": "剃胡子还能这么玄乎",
@@ -1649,6 +1825,14 @@
       "onboard_time": 1745498002,
       "rank": 47,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 54497,
+      "num": 146924,
+      "word": "看了阿维塔06我心动了",
+      "onboard_time": 1745562802,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 52905,
@@ -1699,6 +1883,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 49894,
+      "num": 309984,
+      "word": "和同事一起蛐蛐领导会让关系更铁吗",
+      "onboard_time": 1745561242,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49727,
       "num": 218892,
       "word": "梁王组合展望苏迪曼杯",
@@ -1713,6 +1905,14 @@
       "onboard_time": 1745549719,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 46455,
+      "num": 350447,
+      "word": "对受关税影响较大企业提高稳岗返还比例",
+      "onboard_time": 1745562502,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 46260,
@@ -1801,6 +2001,14 @@
       "onboard_time": 1745554580,
       "rank": 38,
       "category": "科学科普,民生新闻"
+    },
+    {
+      "raw_hot": 32566,
+      "num": 146083,
+      "word": "才知道有胃病是不能喝粥的",
+      "onboard_time": 1745562081,
+      "rank": 38,
+      "category": "科学科普"
     },
     {
       "raw_hot": 32436,
@@ -1931,6 +2139,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 19988,
+      "num": 332503,
+      "word": "最受喜爱男女角色闪现WAW",
+      "onboard_time": 1745560882,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 19701,
       "num": 932007,
       "word": "美国关税问题解铃还需系铃人",
@@ -1945,6 +2161,14 @@
       "onboard_time": 1745558541,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 19515,
+      "num": 154797,
+      "word": "周杰伦同款剃须刀开箱测评",
+      "onboard_time": 1745562081,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 17293,
@@ -2040,6 +2264,14 @@
       "word": "宁艺卓国内首封elle含金量怎么样",
       "onboard_time": 1745536939,
       "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 10403,
+      "num": 303816,
+      "word": "Red女团的新logo代表着什么",
+      "onboard_time": 1745562081,
+      "rank": 19,
       "category": "艺人"
     },
     {

@@ -1,0 +1,410 @@
+{
+  "runTime": 1745562892532,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1184635,
+        "num": 1189541,
+        "word": "儿子悄悄考北大妈妈惊成静止画面",
+        "onboard_time": 1745555782,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 908252,
+        "num": 908252,
+        "word": "印度已切断印度河水",
+        "onboard_time": 1745556682,
+        "rank": 1,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 19139,
+        "num": 608073,
+        "word": "美国关税问题解铃还需系铃人",
+        "onboard_time": 1745483181,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 579985,
+        "num": 579985,
+        "word": "陈德容哭了",
+        "onboard_time": 1745560102,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 501511,
+        "num": 501511,
+        "word": "韩国残运会盒饭只有泡菜小菜引众怒",
+        "onboard_time": 1745555122,
+        "rank": 4,
+        "category": "体育,海外新闻"
+      },
+      {
+        "raw_hot": 472631,
+        "num": 472631,
+        "word": "中共中央政治局4月25日召开会议",
+        "onboard_time": 1745561301,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 466112,
+        "num": 466112,
+        "word": "美媒说中国赢下了这一轮",
+        "onboard_time": 1745557642,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 427785,
+        "num": 427785,
+        "word": "金扫帚",
+        "onboard_time": 1745560822,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 350856,
+        "num": 350856,
+        "word": "曹骏外甥当然要像舅舅了",
+        "onboard_time": 1745554761,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46455,
+        "num": 350447,
+        "word": "对受关税影响较大企业提高稳岗返还比例",
+        "onboard_time": 1745562502,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2348696,
+        "num": 344638,
+        "word": "迅猛龙考上复旦了",
+        "onboard_time": 1745559563,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1546077,
+        "num": 342053,
+        "word": "氯雷他定",
+        "onboard_time": 1745555662,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 500604,
+        "num": 337087,
+        "word": "金敏喜生子后状态",
+        "onboard_time": 1745561180,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66499,
+        "num": 334288,
+        "word": "巴基斯坦与印度军队发生交火",
+        "onboard_time": 1745562322,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 19988,
+        "num": 332503,
+        "word": "最受喜爱男女角色闪现WAW",
+        "onboard_time": 1745560882,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 263552,
+        "num": 328370,
+        "word": "学生摔倒家长索赔8万被驳回",
+        "onboard_time": 1745560221,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 326649,
+        "num": 326649,
+        "word": "陆川749局横扫金扫帚奖",
+        "onboard_time": 1745557883,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 499967,
+        "num": 325510,
+        "word": "赵露思下车动作",
+        "onboard_time": 1745549361,
+        "rank": 17,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 49894,
+        "num": 309984,
+        "word": "和同事一起蛐蛐领导会让关系更铁吗",
+        "onboard_time": 1745561242,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10403,
+        "num": 303816,
+        "word": "Red女团的新logo代表着什么",
+        "onboard_time": 1745562081,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 376831,
+        "num": 290397,
+        "word": "留几手向董明珠道歉",
+        "onboard_time": 1745559023,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289804,
+        "num": 289804,
+        "word": "长期熬夜后身体释放的求救信号",
+        "onboard_time": 1745557222,
+        "rank": 21,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 251755,
+        "num": 251755,
+        "word": "普通人存钱的天花板是多少",
+        "onboard_time": 1745554580,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 239471,
+        "num": 239471,
+        "word": "韩国60元运动员盒饭过于简陋引众怒",
+        "onboard_time": 1745556143,
+        "rank": 23,
+        "category": "海外新闻,体育"
+      },
+      {
+        "raw_hot": 238297,
+        "num": 238297,
+        "word": "九尾吃蓁牛肉面了",
+        "onboard_time": 1745561002,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 208387,
+        "num": 208387,
+        "word": "杨紫雾粉无袖裙",
+        "onboard_time": 1745562142,
+        "rank": 25,
+        "category": "作品衍生,综艺"
+      },
+      {
+        "raw_hot": 207696,
+        "num": 207696,
+        "word": "莎拉布莱曼选了李晟",
+        "onboard_time": 1745560521,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195848,
+        "num": 195848,
+        "word": "易烊千玺同款索道原来在青岛",
+        "onboard_time": 1745560462,
+        "rank": 27,
+        "category": "艺人,旅游"
+      },
+      {
+        "raw_hot": 183739,
+        "num": 183739,
+        "word": "金价",
+        "onboard_time": 1745554043,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 179700,
+        "num": 179700,
+        "word": "跳楼机舞台",
+        "onboard_time": 1745559621,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234002,
+        "num": 174515,
+        "word": "用一瓶水就能改善体态的方法",
+        "onboard_time": 1745562502,
+        "rank": 30,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 161719,
+        "num": 161719,
+        "word": "不点外卖的年轻人每日百元请人做饭",
+        "onboard_time": 1745560462,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158742,
+        "num": 158742,
+        "word": "动画中不需要被拯救的女主角",
+        "onboard_time": 1745562262,
+        "rank": 32,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 19515,
+        "num": 154797,
+        "word": "周杰伦同款剃须刀开箱测评",
+        "onboard_time": 1745562081,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 82594,
+        "num": 154357,
+        "word": "王鹤棣动不动喝什么",
+        "onboard_time": 1745562802,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154177,
+        "num": 154177,
+        "word": "曹骏主演宝莲灯已是20年前的剧了",
+        "onboard_time": 1745559083,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149415,
+        "num": 149415,
+        "word": "泰国一架小型飞机坠毁",
+        "onboard_time": 1745562623,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 54497,
+        "num": 146924,
+        "word": "看了阿维塔06我心动了",
+        "onboard_time": 1745562802,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 32566,
+        "num": 146083,
+        "word": "才知道有胃病是不能喝粥的",
+        "onboard_time": 1745562081,
+        "rank": 38,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 57967,
+        "num": 145878,
+        "word": "武警战士的反应速度",
+        "onboard_time": 1745561121,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145728,
+        "num": 145728,
+        "word": "无忧渡找不到宣夜怎么半",
+        "onboard_time": 1745562381,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143506,
+        "num": 143506,
+        "word": "黄子弘凡说以后有小孩就当全职爸爸",
+        "onboard_time": 1745560641,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139225,
+        "num": 141939,
+        "word": "千元拳击靶用女士内衣做填充物",
+        "onboard_time": 1745552300,
+        "rank": 42,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 141252,
+        "num": 141252,
+        "word": "老外说是朱一龙的bigfan",
+        "onboard_time": 1745546719,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140290,
+        "num": 140290,
+        "word": "谢娜让宋亚轩贺峻霖不要再打了",
+        "onboard_time": 1745562561,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126259,
+        "num": 126259,
+        "word": "迪丽热巴开推3做饭",
+        "onboard_time": 1745561301,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136711,
+        "num": 125545,
+        "word": "孙燕姿抢票",
+        "onboard_time": 1745562802,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 124790,
+        "num": 124790,
+        "word": "猿辅导",
+        "onboard_time": 1745556802,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123270,
+        "num": 123270,
+        "word": "曹骏模仿金宣虎笑",
+        "onboard_time": 1745556382,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 121991,
+        "num": 121991,
+        "word": "六小龄童一开口就是孙悟空的味儿",
+        "onboard_time": 1745560822,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#大力弘扬两弹一星精神载人航天精神#"
+    }
+  }
+}
