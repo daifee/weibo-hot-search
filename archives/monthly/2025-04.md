@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/25 19:36:57
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/25 20:49:22
 </p>
 </blockquote>
 <p>
@@ -815,6 +815,12 @@ C罗点评甲亢哥中国行（热度：2472029）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BA%88%E6%9B%A6%E5%A3%B0%E6%98%8E%23" target="weibo">
 张予曦声明（热度：2157441）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%8D%E6%97%A6%E5%9B%9E%E5%BA%94%E6%8B%9F%E5%BD%95%E5%8F%96600%E4%B8%87%E7%B2%89%E4%B8%9D%E7%BD%91%E7%BA%A2%23" target="weibo">
+复旦回应拟录取600万粉丝网红（热度：2152248）
 </a>
 </li>
 
@@ -2907,6 +2913,12 @@ VaVa 灰原哀（热度：1212430）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8100%E5%85%83%E4%B8%80%E5%A4%A9%E7%9A%84%E5%85%8D%E8%B4%B9%E4%B8%89%E9%A4%90%23" target="weibo">
+字节跳动100元一天的免费三餐（热度：1194185）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E5%BF%A7%E6%B8%A1%E7%9B%B4%E6%92%AD%23" target="weibo">
 无忧渡直播（热度：1193009）
 </a>
@@ -4515,6 +4527,12 @@ JYP写了中国台湾省（热度：940194）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E7%9B%B4%E6%92%AD%23" target="weibo">
+蔡徐坤直播（热度：921522）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%9C%E9%A6%A8%E5%90%A6%E8%AE%A4%E7%AD%BE%E7%BA%A6%E4%B9%90%E5%8D%8E%23" target="weibo">
 甜馨否认签约乐华（热度：920787）
 </a>
@@ -5993,24 +6011,6 @@ YERI和Wendy离开SM（热度：805847）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E6%9C%BA%E5%9C%BA%E9%9B%86%E5%9B%A2%E8%91%A3%E4%BA%8B%E9%95%BF%E6%B6%89%E5%AB%8C%E6%80%A7%E4%BE%B5%23" target="weibo">
 湖南机场集团董事长涉嫌性侵（热度：757442）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%8E%BB%E7%97%85%E4%BC%A0%E5%A5%87%E6%94%B9%E5%90%8D%E9%A3%8E%E8%B5%B7%E5%A4%A7%E6%BC%A0%23" target="weibo">
-霍去病传奇改名风起大漠（热度：757054）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B4%E5%B1%B1%E6%B5%B7%E7%89%87%E8%8A%B1%23" target="weibo">
-赴山海片花（热度：756706）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%90%8D%E8%A7%82%E4%BC%97%E7%A7%B0%E8%A2%AB%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BA%A7%E6%A4%85%E6%89%8E%E4%BC%A4%23" target="weibo">
-多名观众称被演唱会座椅扎伤（热度：756533）
 </a>
 </li>
 

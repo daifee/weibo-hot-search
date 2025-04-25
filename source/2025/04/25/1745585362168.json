@@ -1,0 +1,410 @@
+{
+  "runTime": 1745585362168,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2152248,
+        "num": 2152248,
+        "word": "复旦回应拟录取600万粉丝网红",
+        "onboard_time": 1745580502,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1194185,
+        "num": 1194185,
+        "word": "字节跳动100元一天的免费三餐",
+        "onboard_time": 1745582062,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 34379,
+        "num": 983805,
+        "word": "从一季度出行数据感知经济活力",
+        "onboard_time": 1745573422,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1558763,
+        "num": 959808,
+        "word": "朋友圈三天可见 置顶像生死簿那么长",
+        "onboard_time": 1745577680,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 921522,
+        "num": 921522,
+        "word": "蔡徐坤直播",
+        "onboard_time": 1745580921,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 485025,
+        "num": 796998,
+        "word": "现在的1元店已经进化到这种程度了",
+        "onboard_time": 1745585241,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 674638,
+        "num": 674638,
+        "word": "中国取消1.2万吨美国猪肉订单",
+        "onboard_time": 1745570901,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 653426,
+        "num": 653426,
+        "word": "华表奖 赵丽颖",
+        "onboard_time": 1745581342,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 498768,
+        "num": 498768,
+        "word": "无忧渡大结局",
+        "onboard_time": 1745575881,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 380681,
+        "num": 487445,
+        "word": "今年一季度全国结婚登记181万对",
+        "onboard_time": 1745578221,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 733203,
+        "num": 485719,
+        "word": "无忧渡oe",
+        "onboard_time": 1745577380,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 483204,
+        "num": 483204,
+        "word": "华表奖阵容官宣",
+        "onboard_time": 1745576600,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 412472,
+        "num": 412472,
+        "word": "宣夜半夏be",
+        "onboard_time": 1745579962,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70137,
+        "num": 383971,
+        "word": "猿辅导岗位称固定休假放心放心放心",
+        "onboard_time": 1745584224,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15897,
+        "num": 383631,
+        "word": "TTG空降WAW团建",
+        "onboard_time": 1745582481,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 58727,
+        "num": 383593,
+        "word": "范丞丞在奔跑吧抱上猪了",
+        "onboard_time": 1745583862,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 383556,
+        "num": 383556,
+        "word": "王一博等将亮相华表奖",
+        "onboard_time": 1745576782,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 377143,
+        "num": 377143,
+        "word": "杨紫蓝色高定裙",
+        "onboard_time": 1745577380,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 203932,
+        "num": 352518,
+        "word": "小伙申请改名周天紫薇大帝被驳回",
+        "onboard_time": 1745569160,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26871,
+        "num": 343399,
+        "word": "中年人该如何防止劳累气血不足",
+        "onboard_time": 1745584881,
+        "rank": 19,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 340558,
+        "num": 340558,
+        "word": "张淼怡获金扫帚影后",
+        "onboard_time": 1745567061,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 332227,
+        "num": 332227,
+        "word": "原神5.6版本直播",
+        "onboard_time": 1745585002,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 321968,
+        "num": 321968,
+        "word": "鞠婧祎直播",
+        "onboard_time": 1745585002,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299513,
+        "num": 299513,
+        "word": "氯雷他定",
+        "onboard_time": 1745555662,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 237043,
+        "num": 258237,
+        "word": "无限暖暖1.5版本前瞻",
+        "onboard_time": 1745581822,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 247394,
+        "num": 247394,
+        "word": "一个本科文凭或支撑不了5年",
+        "onboard_time": 1745568561,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 103834,
+        "num": 242362,
+        "word": "商务部回应从所谓中国代工厂低价买名牌",
+        "onboard_time": 1745583681,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 241049,
+        "num": 241049,
+        "word": "奔跑吧13开播",
+        "onboard_time": 1745581822,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151849,
+        "num": 151849,
+        "word": "老板买黄金赚近千万后分给员工",
+        "onboard_time": 1745585181,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150986,
+        "num": 150986,
+        "word": "2000年前古人也跳养生操",
+        "onboard_time": 1745585122,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251615,
+        "num": 150983,
+        "word": "因为你每天摸墙100次",
+        "onboard_time": 1745585302,
+        "rank": 30,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 195279,
+        "num": 150928,
+        "word": "陶喆济南抢票",
+        "onboard_time": 1745584942,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 173480,
+        "num": 150884,
+        "word": "编剧赵娜",
+        "onboard_time": 1745582961,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150817,
+        "num": 150817,
+        "word": "男子路边招手冲来两辆出租将其撞翻",
+        "onboard_time": 1745582662,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132041,
+        "num": 132041,
+        "word": "徐锦江已向儿子交代后事",
+        "onboard_time": 1745578702,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128588,
+        "num": 128588,
+        "word": "华表奖预测",
+        "onboard_time": 1745567302,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121088,
+        "num": 121088,
+        "word": "美国开始给自己找台阶了",
+        "onboard_time": 1745579121,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 115614,
+        "num": 115614,
+        "word": "国际电影人惊叹易烊千玺演技",
+        "onboard_time": 1745576181,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113777,
+        "num": 113777,
+        "word": "90后男子搬砖9年攒下200万",
+        "onboard_time": 1745582361,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112218,
+        "num": 112218,
+        "word": "儿子悄悄考北大妈妈惊成静止画面",
+        "onboard_time": 1745555782,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105616,
+        "num": 105616,
+        "word": "终于等到沈月古装剧了",
+        "onboard_time": 1745579781,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50530,
+        "num": 102735,
+        "word": "种地吧片尾农学院真正的招生简章",
+        "onboard_time": 1745580441,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101544,
+        "num": 101544,
+        "word": "俄军总参高官死于汽车爆炸",
+        "onboard_time": 1745576900,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 101353,
+        "num": 101353,
+        "word": "迅猛龙考上复旦了",
+        "onboard_time": 1745559563,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 100550,
+        "num": 100550,
+        "word": "enhypen 卖掉了",
+        "onboard_time": 1745575461,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98569,
+        "num": 98569,
+        "word": "榜上佳婿开播",
+        "onboard_time": 1745580802,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97273,
+        "num": 97273,
+        "word": "肖战指导晒北京奥运国乒合照",
+        "onboard_time": 1745575580,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95322,
+        "num": 95322,
+        "word": "王子奇新剧演醋王",
+        "onboard_time": 1745585241,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20064,
+        "num": 94574,
+        "word": "被于适帅得一愣又一愣",
+        "onboard_time": 1745584102,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93856,
+        "num": 93856,
+        "word": "杨肸子有仙剑内味了",
+        "onboard_time": 1745577862,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#逐梦九天不止步#"
+    }
+  }
+}
