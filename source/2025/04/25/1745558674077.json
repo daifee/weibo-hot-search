@@ -1,0 +1,410 @@
+{
+  "runTime": 1745558674077,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1677994,
+        "num": 1677994,
+        "word": "儿子悄悄考北大妈妈惊成静止画面",
+        "onboard_time": 1745555782,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1099832,
+        "num": 1099832,
+        "word": "韩国残运会盒饭只有泡菜小菜引众怒",
+        "onboard_time": 1745555122,
+        "rank": 1,
+        "category": "体育,海外新闻"
+      },
+      {
+        "raw_hot": 19701,
+        "num": 900853,
+        "word": "美国关税问题解铃还需系铃人",
+        "onboard_time": 1745483181,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 783371,
+        "num": 783371,
+        "word": "曹骏外甥当然要像舅舅了",
+        "onboard_time": 1745554761,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 440998,
+        "num": 440998,
+        "word": "亲爱的妍珍 我终于抵达了西班牙",
+        "onboard_time": 1745553980,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 318827,
+        "num": 318827,
+        "word": "猿辅导",
+        "onboard_time": 1745556802,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 373863,
+        "num": 318500,
+        "word": "乘风三公",
+        "onboard_time": 1745555302,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312202,
+        "num": 312202,
+        "word": "千元拳击靶用女士内衣做填充物",
+        "onboard_time": 1745552300,
+        "rank": 7,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 247363,
+        "num": 247363,
+        "word": "韩国60元运动员盒饭过于简陋引众怒",
+        "onboard_time": 1745556143,
+        "rank": 8,
+        "category": "海外新闻,体育"
+      },
+      {
+        "raw_hot": 240809,
+        "num": 240809,
+        "word": "谢霆锋20年后再唱与王菲定情曲",
+        "onboard_time": 1745553382,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2560355,
+        "num": 240770,
+        "word": "氯雷他定",
+        "onboard_time": 1745555662,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 771282,
+        "num": 240623,
+        "word": "赵露思下车动作",
+        "onboard_time": 1745549361,
+        "rank": 11,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 660692,
+        "num": 240522,
+        "word": "印度已切断印度河水",
+        "onboard_time": 1745556682,
+        "rank": 12,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 642981,
+        "num": 240336,
+        "word": "猿辅导回应武汉员工事件",
+        "onboard_time": 1745549719,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 433729,
+        "num": 240157,
+        "word": "普通人存钱的天花板是多少",
+        "onboard_time": 1745554580,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 321383,
+        "num": 239984,
+        "word": "讨好性礼貌",
+        "onboard_time": 1745550800,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 272707,
+        "num": 239951,
+        "word": "曹骏模仿金宣虎笑",
+        "onboard_time": 1745556382,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 239812,
+        "num": 239812,
+        "word": "陆川749局横扫金扫帚奖",
+        "onboard_time": 1745557883,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 217699,
+        "num": 217699,
+        "word": "白月光沉香杀回来了",
+        "onboard_time": 1745550381,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37711,
+        "num": 215590,
+        "word": "二房东的生意还好做吗",
+        "onboard_time": 1745557522,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37947,
+        "num": 214548,
+        "word": "老年人深夜还在直播间买买买",
+        "onboard_time": 1745558241,
+        "rank": 20,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 317821,
+        "num": 214521,
+        "word": "长期熬夜后身体释放的求救信号",
+        "onboard_time": 1745557222,
+        "rank": 21,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 214157,
+        "num": 214157,
+        "word": "美媒说中国赢下了这一轮",
+        "onboard_time": 1745557642,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 203293,
+        "num": 203293,
+        "word": "曹骏出场",
+        "onboard_time": 1745541383,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147272,
+        "num": 196030,
+        "word": "快船2比1掘金",
+        "onboard_time": 1745557343,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192312,
+        "num": 192312,
+        "word": "原来这才算穿的干净",
+        "onboard_time": 1745551161,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169343,
+        "num": 169343,
+        "word": "谢霆锋发文感谢王嘉尔",
+        "onboard_time": 1745549421,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 163192,
+        "num": 163192,
+        "word": "看上去很贵实际很便宜的旅游城市",
+        "onboard_time": 1745553862,
+        "rank": 27,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 162905,
+        "num": 162905,
+        "word": "榜上佳婿今日开播",
+        "onboard_time": 1745558002,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101020,
+        "num": 159301,
+        "word": "白敬亭选片总能给人惊喜感",
+        "onboard_time": 1745557463,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158717,
+        "num": 158717,
+        "word": "成何体统王楚然美貌",
+        "onboard_time": 1745555601,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97137,
+        "num": 158593,
+        "word": "全员喜剧人真从头笑到尾",
+        "onboard_time": 1745556922,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 158472,
+        "num": 158472,
+        "word": "双胞胎溺水生父被指认为凶手",
+        "onboard_time": 1745553801,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155807,
+        "num": 155807,
+        "word": "新疆下井救人00后女辅警破格晋升",
+        "onboard_time": 1745536519,
+        "rank": 33,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 152794,
+        "num": 152794,
+        "word": "金价波动让水贝金条供不应求",
+        "onboard_time": 1745553442,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150739,
+        "num": 150739,
+        "word": "无忧渡 超点",
+        "onboard_time": 1745547381,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147447,
+        "num": 147447,
+        "word": "女娲毕设真是各美各的",
+        "onboard_time": 1745555662,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 147240,
+        "num": 147240,
+        "word": "风月",
+        "onboard_time": 1745556322,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19316,
+        "num": 147045,
+        "word": "布伦森这个球回场了吗",
+        "onboard_time": 1745558541,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23639,
+        "num": 147033,
+        "word": "印度为何与世界工厂无缘",
+        "onboard_time": 1745558002,
+        "rank": 39,
+        "category": "民生新闻,海外新闻"
+      },
+      {
+        "raw_hot": 23186,
+        "num": 147033,
+        "word": "不粘锅出现哪些情况不适合继续使用",
+        "onboard_time": 1745557283,
+        "rank": 40,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 147033,
+        "num": 147032,
+        "word": "51岁吴彦祖颜值回春",
+        "onboard_time": 1745558421,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142140,
+        "num": 142140,
+        "word": "乘风2025",
+        "onboard_time": 1745558062,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132835,
+        "num": 132835,
+        "word": "周杰伦年纪越大希望减少工作量",
+        "onboard_time": 1745547500,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136508,
+        "num": 132794,
+        "word": "吴宣仪风月舞台",
+        "onboard_time": 1745558541,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131915,
+        "num": 131915,
+        "word": "唐国强 我为什么不能参加这样的节目",
+        "onboard_time": 1745550620,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129519,
+        "num": 129519,
+        "word": "雷霆3比0灰熊",
+        "onboard_time": 1745557402,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21583,
+        "num": 127071,
+        "word": "外卖小哥背盲人女子过马路",
+        "onboard_time": 1745557343,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126523,
+        "num": 126523,
+        "word": "美防长称中国20分钟可摧毁美所有航母",
+        "onboard_time": 1745556862,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 125947,
+        "num": 125947,
+        "word": "孙颖莎出发去封训",
+        "onboard_time": 1745555423,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#大力弘扬两弹一星精神载人航天精神#"
+    }
+  }
+}

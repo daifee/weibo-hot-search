@@ -1,13 +1,29 @@
 {
   "startTime": 1745512289618,
-  "endTime": 1745556272194,
+  "endTime": 1745558674077,
   "band_list": [
+    {
+      "raw_hot": 2560355,
+      "num": 261485,
+      "word": "氯雷他定",
+      "onboard_time": 1745555662,
+      "rank": 17,
+      "category": "情感"
+    },
     {
       "raw_hot": 2097894,
       "num": 652271,
       "word": "猿辅导老师猝死在公司人社局介入",
       "onboard_time": 1745547259,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1677994,
+      "num": 1677994,
+      "word": "儿子悄悄考北大妈妈惊成静止画面",
+      "onboard_time": 1745555782,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -91,6 +107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 783371,
+      "num": 783371,
+      "word": "曹骏外甥当然要像舅舅了",
+      "onboard_time": 1745554761,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 748994,
       "num": 285933,
       "word": "讨好性礼貌",
@@ -105,6 +129,14 @@
       "onboard_time": 1745541383,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 660692,
+      "num": 240522,
+      "word": "印度已切断印度河水",
+      "onboard_time": 1745556682,
+      "rank": 12,
+      "category": "国际时政,民生新闻"
     },
     {
       "raw_hot": 657814,
@@ -128,14 +160,6 @@
       "word": "邓超发布一段录音对话",
       "onboard_time": 1745516235,
       "rank": 46,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 634434,
-      "num": 634434,
-      "word": "曹骏外甥当然要像舅舅了",
-      "onboard_time": 1745554761,
-      "rank": 23,
       "category": "剧集"
     },
     {
@@ -259,6 +283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 373863,
+      "num": 318500,
+      "word": "乘风三公",
+      "onboard_time": 1745555302,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 373596,
       "num": 373596,
       "word": "美官员承认误判中方反应",
@@ -315,14 +347,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 341614,
-      "num": 261485,
-      "word": "氯雷他定",
-      "onboard_time": 1745555662,
-      "rank": 17,
-      "category": "情感"
-    },
-    {
       "raw_hot": 341508,
       "num": 341508,
       "word": "澳大利亚出动直升机扑杀750只考拉",
@@ -353,6 +377,22 @@
       "onboard_time": 1745508382,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 318827,
+      "num": 318827,
+      "word": "猿辅导",
+      "onboard_time": 1745556802,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 317821,
+      "num": 214521,
+      "word": "长期熬夜后身体释放的求救信号",
+      "onboard_time": 1745557222,
+      "rank": 21,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 312075,
@@ -419,6 +459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 272707,
+      "num": 239951,
+      "word": "曹骏模仿金宣虎笑",
+      "onboard_time": 1745556382,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 272522,
       "num": 272522,
       "word": "中国航天6次太空会师666",
@@ -467,14 +515,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 256798,
-      "num": 256798,
-      "word": "乘风三公",
-      "onboard_time": 1745555302,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 254114,
       "num": 254114,
       "word": "莫兰特受伤",
@@ -489,6 +529,14 @@
       "onboard_time": 1745549421,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 247363,
+      "num": 247363,
+      "word": "韩国60元运动员盒饭过于简陋引众怒",
+      "onboard_time": 1745556143,
+      "rank": 46,
+      "category": "海外新闻,体育"
     },
     {
       "raw_hot": 245700,
@@ -515,12 +563,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 240492,
-      "num": 240492,
-      "word": "儿子悄悄考北大妈妈惊成静止画面",
-      "onboard_time": 1745555782,
-      "rank": 22,
-      "category": "民生新闻"
+      "raw_hot": 239812,
+      "num": 239812,
+      "word": "陆川749局横扫金扫帚奖",
+      "onboard_time": 1745557883,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 236767,
@@ -577,6 +625,14 @@
       "onboard_time": 1745547381,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 214157,
+      "num": 214157,
+      "word": "美媒说中国赢下了这一轮",
+      "onboard_time": 1745557642,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 209107,
@@ -747,6 +803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 162905,
+      "num": 162905,
+      "word": "榜上佳婿今日开播",
+      "onboard_time": 1745558002,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162721,
       "num": 162721,
       "word": "下周五一假期",
@@ -761,6 +825,14 @@
       "onboard_time": 1745553621,
       "rank": 9,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 158717,
+      "num": 201470,
+      "word": "成何体统王楚然美貌",
+      "onboard_time": 1745555601,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 158391,
@@ -835,12 +907,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 145152,
-      "num": 201470,
-      "word": "成何体统王楚然美貌",
-      "onboard_time": 1745555601,
-      "rank": 29,
-      "category": "剧集"
+      "raw_hot": 147272,
+      "num": 196030,
+      "word": "快船2比1掘金",
+      "onboard_time": 1745557343,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 147240,
+      "num": 147240,
+      "word": "风月",
+      "onboard_time": 1745556322,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 147033,
+      "num": 147032,
+      "word": "51岁吴彦祖颜值回春",
+      "onboard_time": 1745558421,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 143716,
@@ -883,6 +971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142140,
+      "num": 142140,
+      "word": "乘风2025",
+      "onboard_time": 1745558062,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137481,
       "num": 137481,
       "word": "杨紫当年就是这样撩林志玲的",
@@ -903,6 +999,14 @@
       "num": 136720,
       "word": "乘风2025三公歌单",
       "onboard_time": 1745548819,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 136508,
+      "num": 132794,
+      "word": "吴宣仪风月舞台",
+      "onboard_time": 1745558541,
       "rank": 44,
       "category": "综艺"
     },
@@ -955,12 +1059,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 129519,
+      "num": 129519,
+      "word": "雷霆3比0灰熊",
+      "onboard_time": 1745557402,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129113,
       "num": 129113,
       "word": "公司财务每天背大包的原因",
       "onboard_time": 1745546241,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 126523,
+      "num": 126523,
+      "word": "美防长称中国20分钟可摧毁美所有航母",
+      "onboard_time": 1745556862,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 123493,
@@ -1017,14 +1137,6 @@
       "onboard_time": 1745538200,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 115231,
-      "num": 154744,
-      "word": "韩国60元运动员盒饭过于简陋引众怒",
-      "onboard_time": 1745556143,
-      "rank": 46,
-      "category": "海外新闻,体育"
     },
     {
       "raw_hot": 114675,
@@ -1107,6 +1219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 101020,
+      "num": 159301,
+      "word": "白敬亭选片总能给人惊喜感",
+      "onboard_time": 1745557463,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99031,
       "num": 159675,
       "word": "福宝为何会反复经历假孕状态",
@@ -1137,6 +1257,14 @@
       "onboard_time": 1745489959,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 97137,
+      "num": 158593,
+      "word": "全员喜剧人真从头笑到尾",
+      "onboard_time": 1745556922,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 93710,
@@ -1555,6 +1683,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 37947,
+      "num": 214548,
+      "word": "老年人深夜还在直播间买买买",
+      "onboard_time": 1745558241,
+      "rank": 20,
+      "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 37711,
+      "num": 215590,
+      "word": "二房东的生意还好做吗",
+      "onboard_time": 1745557522,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36095,
       "num": 139166,
       "word": "当村支书开始拍短视频卖货",
@@ -1627,12 +1771,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 23639,
+      "num": 147033,
+      "word": "印度为何与世界工厂无缘",
+      "onboard_time": 1745558002,
+      "rank": 39,
+      "category": "民生新闻,海外新闻"
+    },
+    {
       "raw_hot": 23443,
       "num": 23443,
       "word": "何江道歉",
       "onboard_time": 1745510060,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 23186,
+      "num": 147033,
+      "word": "不粘锅出现哪些情况不适合继续使用",
+      "onboard_time": 1745557283,
+      "rank": 40,
+      "category": "科学科普"
     },
     {
       "raw_hot": 23027,
@@ -1649,6 +1809,14 @@
       "onboard_time": 1745555902,
       "rank": 23,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 21583,
+      "num": 127071,
+      "word": "外卖小哥背盲人女子过马路",
+      "onboard_time": 1745557343,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21210,
@@ -1675,6 +1843,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 19701,
+      "num": 900853,
+      "word": "美国关税问题解铃还需系铃人",
+      "onboard_time": 1745483181,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 19316,
+      "num": 147045,
+      "word": "布伦森这个球回场了吗",
+      "onboard_time": 1745558541,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 17266,
       "num": 643349,
       "word": "高质量发展中国行",
@@ -1689,14 +1873,6 @@
       "onboard_time": 1745553682,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 16378,
-      "num": 679732,
-      "word": "美国关税问题解铃还需系铃人",
-      "onboard_time": 1745483181,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 15216,

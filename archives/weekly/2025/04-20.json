@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745556272194,
+  "endTime": 1745558674077,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -169,6 +169,14 @@
       "onboard_time": 1745122523,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 2560355,
+      "num": 261485,
+      "word": "氯雷他定",
+      "onboard_time": 1745555662,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 2499421,
@@ -409,6 +417,14 @@
       "onboard_time": 1745290280,
       "rank": 43,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1677994,
+      "num": 1677994,
+      "word": "儿子悄悄考北大妈妈惊成静止画面",
+      "onboard_time": 1745555782,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1677621,
@@ -1563,6 +1579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 783371,
+      "num": 783371,
+      "word": "曹骏外甥当然要像舅舅了",
+      "onboard_time": 1745554761,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 782942,
       "num": 701957,
       "word": "迪丽热巴告了温如也",
@@ -1987,6 +2011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 660692,
+      "num": 240522,
+      "word": "印度已切断印度河水",
+      "onboard_time": 1745556682,
+      "rank": 12,
+      "category": "国际时政,民生新闻"
+    },
+    {
       "raw_hot": 659695,
       "num": 659695,
       "word": "李昀锐穿着戏服走红毯",
@@ -2129,14 +2161,6 @@
       "onboard_time": 1745423962,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 634434,
-      "num": 634434,
-      "word": "曹骏外甥当然要像舅舅了",
-      "onboard_time": 1745554761,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 627714,
@@ -3651,6 +3675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 373863,
+      "num": 318500,
+      "word": "乘风三公",
+      "onboard_time": 1745555302,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 373799,
       "num": 373799,
       "word": "棒棒堂被禁止和黑涩会美眉恋爱",
@@ -4051,14 +4083,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 341614,
-      "num": 261485,
-      "word": "氯雷他定",
-      "onboard_time": 1745555662,
-      "rank": 17,
-      "category": "情感"
-    },
-    {
       "raw_hot": 339742,
       "num": 339742,
       "word": "杨紫李祯杀青捧花照",
@@ -4345,6 +4369,22 @@
       "onboard_time": 1745379624,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 318827,
+      "num": 318827,
+      "word": "猿辅导",
+      "onboard_time": 1745556802,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 317821,
+      "num": 214521,
+      "word": "长期熬夜后身体释放的求救信号",
+      "onboard_time": 1745557222,
+      "rank": 21,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 316804,
@@ -5107,6 +5147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 272707,
+      "num": 239951,
+      "word": "曹骏模仿金宣虎笑",
+      "onboard_time": 1745556382,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 272522,
       "num": 272522,
       "word": "中国航天6次太空会师666",
@@ -5427,14 +5475,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 256798,
-      "num": 256798,
-      "word": "乘风三公",
-      "onboard_time": 1745555302,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 256013,
       "num": 256013,
       "word": "异人之下夏禾首曝",
@@ -5633,6 +5673,14 @@
       "onboard_time": 1745328383,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 247363,
+      "num": 247363,
+      "word": "韩国60元运动员盒饭过于简陋引众怒",
+      "onboard_time": 1745556143,
+      "rank": 46,
+      "category": "海外新闻,体育"
     },
     {
       "raw_hot": 247084,
@@ -5835,20 +5883,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 240492,
-      "num": 240492,
-      "word": "儿子悄悄考北大妈妈惊成静止画面",
-      "onboard_time": 1745555782,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 240032,
       "num": 240032,
       "word": "杨紫当年就是这样撩林志玲的",
       "onboard_time": 1745506282,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 239812,
+      "num": 239812,
+      "word": "陆川749局横扫金扫帚奖",
+      "onboard_time": 1745557883,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 239644,
@@ -6577,6 +6625,14 @@
       "onboard_time": 1745467882,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 214157,
+      "num": 214157,
+      "word": "美媒说中国赢下了这一轮",
+      "onboard_time": 1745557642,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 214072,
@@ -9723,6 +9779,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 162905,
+      "num": 162905,
+      "word": "榜上佳婿今日开播",
+      "onboard_time": 1745558002,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162869,
       "num": 174795,
       "word": "胡杏儿绿茶气质拿捏到位了",
@@ -10017,6 +10081,14 @@
       "onboard_time": 1745503162,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 158717,
+      "num": 201470,
+      "word": "成何体统王楚然美貌",
+      "onboard_time": 1745555601,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 158689,
@@ -11083,6 +11155,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147272,
+      "num": 196030,
+      "word": "快船2比1掘金",
+      "onboard_time": 1745557343,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 147240,
+      "num": 147240,
+      "word": "风月",
+      "onboard_time": 1745556322,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147120,
       "num": 232468,
       "word": "马龙说把未来交给时间",
@@ -11097,6 +11185,14 @@
       "onboard_time": 1745120002,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 147033,
+      "num": 147032,
+      "word": "51岁吴彦祖颜值回春",
+      "onboard_time": 1745558421,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 146952,
@@ -11193,14 +11289,6 @@
       "onboard_time": 1745297244,
       "rank": 47,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 145152,
-      "num": 201470,
-      "word": "成何体统王楚然美貌",
-      "onboard_time": 1745555601,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 145129,
@@ -11489,6 +11577,14 @@
       "onboard_time": 1745550260,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142140,
+      "num": 142140,
+      "word": "乘风2025",
+      "onboard_time": 1745558062,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 142035,
@@ -11987,6 +12083,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 136508,
+      "num": 132794,
+      "word": "吴宣仪风月舞台",
+      "onboard_time": 1745558541,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136376,
       "num": 136376,
       "word": "檀健次推荐北影节短片",
@@ -12204,7 +12308,7 @@
     },
     {
       "raw_hot": 134052,
-      "num": 679732,
+      "num": 900853,
       "word": "美国关税问题解铃还需系铃人",
       "onboard_time": 1745483181,
       "rank": 41,
@@ -12595,6 +12699,14 @@
       "category": "体育,读书作家"
     },
     {
+      "raw_hot": 129519,
+      "num": 129519,
+      "word": "雷霆3比0灰熊",
+      "onboard_time": 1745557402,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129458,
       "num": 210385,
       "word": "孙颖莎让解说员无话可说",
@@ -12793,6 +12905,14 @@
       "onboard_time": 1745300363,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 126523,
+      "num": 126523,
+      "word": "美防长称中国20分钟可摧毁美所有航母",
+      "onboard_time": 1745556862,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 126492,
@@ -13425,14 +13545,6 @@
       "onboard_time": 1745405242,
       "rank": 40,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 115231,
-      "num": 154744,
-      "word": "韩国60元运动员盒饭过于简陋引众怒",
-      "onboard_time": 1745556143,
-      "rank": 46,
-      "category": "海外新闻,体育"
     },
     {
       "raw_hot": 115131,
@@ -14227,6 +14339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101020,
+      "num": 159301,
+      "word": "白敬亭选片总能给人惊喜感",
+      "onboard_time": 1745557463,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 100929,
       "num": 100929,
       "word": "刘涛听到妈妈双女主",
@@ -14441,6 +14561,14 @@
       "onboard_time": 1745212882,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 97137,
+      "num": 158593,
+      "word": "全员喜剧人真从头笑到尾",
+      "onboard_time": 1745556922,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 97107,
@@ -18139,6 +18267,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 37947,
+      "num": 214548,
+      "word": "老年人深夜还在直播间买买买",
+      "onboard_time": 1745558241,
+      "rank": 20,
+      "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 37711,
+      "num": 215590,
+      "word": "二房东的生意还好做吗",
+      "onboard_time": 1745557522,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37642,
       "num": 296883,
       "word": "大理电子秤170克手机称出340克",
@@ -19195,6 +19339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 23639,
+      "num": 147033,
+      "word": "印度为何与世界工厂无缘",
+      "onboard_time": 1745558002,
+      "rank": 39,
+      "category": "民生新闻,海外新闻"
+    },
+    {
       "raw_hot": 23496,
       "num": 352220,
       "word": "第四届全民阅读大会",
@@ -19233,6 +19385,14 @@
       "onboard_time": 1745431816,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 23186,
+      "num": 147033,
+      "word": "不粘锅出现哪些情况不适合继续使用",
+      "onboard_time": 1745557283,
+      "rank": 40,
+      "category": "科学科普"
     },
     {
       "raw_hot": 23027,
@@ -19401,6 +19561,14 @@
       "onboard_time": 1745475321,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 21583,
+      "num": 127071,
+      "word": "外卖小哥背盲人女子过马路",
+      "onboard_time": 1745557343,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21570,
@@ -19681,6 +19849,14 @@
       "onboard_time": 1745432416,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 19316,
+      "num": 147045,
+      "word": "布伦森这个球回场了吗",
+      "onboard_time": 1745558541,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 19168,
