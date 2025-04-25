@@ -1,6 +1,6 @@
 {
   "startTime": 1745512289618,
-  "endTime": 1745566663523,
+  "endTime": 1745569942126,
   "band_list": [
     {
       "raw_hot": 2560355,
@@ -59,6 +59,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 1323707,
+      "num": 1323707,
+      "word": "一个本科文凭或支撑不了5年",
+      "onboard_time": 1745568561,
+      "rank": 0,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1257741,
       "num": 1257741,
       "word": "韩国残运会盒饭只有泡菜小菜引众怒",
@@ -75,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1187641,
+      "num": 676699,
+      "word": "生母继父虐杀掩埋孩子后曾痛哭寻子",
+      "onboard_time": 1745564661,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1083304,
       "num": 1083304,
       "word": "特朗普宣布关税后支持率骤降",
@@ -89,6 +105,14 @@
       "onboard_time": 1745549719,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1000370,
+      "num": 1000370,
+      "word": "张淼怡获金扫帚影后",
+      "onboard_time": 1745567061,
+      "rank": 1,
+      "category": "电影"
     },
     {
       "raw_hot": 977831,
@@ -153,14 +177,6 @@
       "onboard_time": 1745541383,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 676699,
-      "num": 676699,
-      "word": "生母继父虐杀掩埋孩子后曾痛哭寻子",
-      "onboard_time": 1745564661,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 657814,
@@ -243,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 527787,
+      "num": 527787,
+      "word": "当年只有王宝强去领金扫帚奖",
+      "onboard_time": 1745568082,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 514988,
       "num": 514988,
       "word": "白月光沉香杀回来了",
@@ -281,6 +305,14 @@
       "onboard_time": 1745561301,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 467352,
+      "num": 467352,
+      "word": "马拉松月薪三万也快高攀不起了",
+      "onboard_time": 1745566701,
+      "rank": 5,
+      "category": "运动健身"
     },
     {
       "raw_hot": 466112,
@@ -332,11 +364,19 @@
     },
     {
       "raw_hot": 406315,
-      "num": 286544,
+      "num": 305943,
       "word": "杨威妻子被诊断太劳累气血不足",
       "onboard_time": 1745564001,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 396093,
+      "num": 396093,
+      "word": "华表奖预测",
+      "onboard_time": 1745567302,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 393498,
@@ -451,6 +491,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 332974,
+      "num": 332974,
+      "word": "猿辅导员工自曝经常晚10点干到早6点",
+      "onboard_time": 1745566102,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 326768,
       "num": 244388,
       "word": "原来这才算穿的干净",
@@ -475,6 +523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 320796,
+      "num": 320796,
+      "word": "于正回应多名艺人退圈",
+      "onboard_time": 1745565801,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 318827,
       "num": 318827,
       "word": "猿辅导",
@@ -489,6 +545,14 @@
       "onboard_time": 1745557222,
       "rank": 21,
       "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 315028,
+      "num": 315028,
+      "word": "华表奖表演嘉宾公布",
+      "onboard_time": 1745566522,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 312075,
@@ -513,6 +577,14 @@
       "onboard_time": 1745551761,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 303279,
+      "num": 331689,
+      "word": "华表奖入场式导演揭秘现场看点",
+      "onboard_time": 1745568202,
+      "rank": 9,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 297905,
@@ -771,6 +843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 218202,
+      "num": 218202,
+      "word": "749局值得",
+      "onboard_time": 1745569160,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 218140,
       "num": 248392,
       "word": "邓家佳喜剧纯元回来了",
@@ -793,6 +873,14 @@
       "onboard_time": 1745558421,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 213146,
+      "num": 213146,
+      "word": "钟丽丽无意中拒绝了洪尧的爹味",
+      "onboard_time": 1745568622,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 209107,
@@ -843,6 +931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203069,
+      "num": 203069,
+      "word": "TWICE我更喜欢你cha",
+      "onboard_time": 1745568740,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 201341,
       "num": 253652,
       "word": "丞磊拍的王楚然",
@@ -883,6 +979,14 @@
       "category": "艺人,旅游"
     },
     {
+      "raw_hot": 193912,
+      "num": 193912,
+      "word": "刘宇宁北影节永不散场的告白",
+      "onboard_time": 1745569101,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 191849,
       "num": 191849,
       "word": "迪丽热巴夜幕烟花照",
@@ -899,12 +1003,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 189574,
+      "num": 189574,
+      "word": "特朗普正在捅一个更大的娄子",
+      "onboard_time": 1745567422,
+      "rank": 27,
+      "category": "国际时政,民生新闻"
+    },
+    {
       "raw_hot": 189218,
       "num": 189218,
       "word": "Red女团新logo",
       "onboard_time": 1745549541,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188393,
+      "num": 188393,
+      "word": "小伙申请改名周天紫薇大帝被驳回",
+      "onboard_time": 1745569160,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 183130,
+      "num": 183130,
+      "word": "别说老外惊呆老内也惊呆了",
+      "onboard_time": 1745568561,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 179700,
@@ -937,14 +1065,6 @@
       "onboard_time": 1745494701,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 175380,
-      "num": 175380,
-      "word": "于正回应多名艺人退圈",
-      "onboard_time": 1745565801,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 172404,
@@ -1099,6 +1219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158195,
+      "num": 158195,
+      "word": "淮水竹亭",
+      "onboard_time": 1745569521,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157873,
       "num": 157873,
       "word": "BLG 换打野",
@@ -1147,6 +1275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152172,
+      "num": 152172,
+      "word": "多方回应江西理工在校生遭外籍生殴打",
+      "onboard_time": 1745567361,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 151916,
       "num": 151916,
       "word": "Wendy签约新公司",
@@ -1185,6 +1321,14 @@
       "onboard_time": 1745540362,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147664,
+      "num": 147664,
+      "word": "包贝尔获金扫帚影帝",
+      "onboard_time": 1745567901,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 147272,
@@ -1283,11 +1427,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140886,
+      "num": 140886,
+      "word": "原来这些歌都是孙俪唱的",
+      "onboard_time": 1745569040,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 140728,
       "num": 140728,
       "word": "谢娜让宋亚轩贺峻霖不要再打了",
       "onboard_time": 1745562561,
       "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 138078,
+      "num": 138078,
+      "word": "朱洁静为向云端组编舞",
+      "onboard_time": 1745569521,
+      "rank": 42,
       "category": "综艺"
     },
     {
@@ -1297,6 +1457,22 @@
       "onboard_time": 1745565082,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137692,
+      "num": 137692,
+      "word": "黄金股午后跳水",
+      "onboard_time": 1745566220,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 137641,
+      "num": 137641,
+      "word": "一个好的上班搭子太重要了",
+      "onboard_time": 1745569461,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 137481,
@@ -1395,6 +1571,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 129864,
+      "num": 129864,
+      "word": "五月天杭州抢票",
+      "onboard_time": 1745567962,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 129717,
       "num": 167423,
       "word": "巴方要求印度就恐袭指控举证",
@@ -1435,12 +1619,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 126249,
-      "num": 126249,
-      "word": "黄金股午后跳水",
-      "onboard_time": 1745566220,
-      "rank": 43,
-      "category": "财经"
+      "raw_hot": 125671,
+      "num": 125671,
+      "word": "祝绪丹装大人好累",
+      "onboard_time": 1745567661,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 123493,
@@ -1537,14 +1721,6 @@
       "onboard_time": 1745538200,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 115583,
-      "num": 115583,
-      "word": "华表奖表演嘉宾公布",
-      "onboard_time": 1745566522,
-      "rank": 45,
-      "category": "电影"
     },
     {
       "raw_hot": 114967,
@@ -1737,14 +1913,6 @@
       "onboard_time": 1745502921,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 87948,
-      "num": 289309,
-      "word": "猿辅导员工自曝经常晚10点干到早6点",
-      "onboard_time": 1745566102,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 87882,
@@ -2043,6 +2211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 59737,
+      "num": 140943,
+      "word": "绰号女巫的乌克兰士兵被打死",
+      "onboard_time": 1745568141,
+      "rank": 39,
+      "category": "海外新闻,民生新闻"
+    },
+    {
       "raw_hot": 59555,
       "num": 59555,
       "word": "何雁诗3岁患病儿子上特殊学校",
@@ -2203,6 +2379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44165,
+      "num": 309530,
+      "word": "为何在水中更容易受到紫外线伤害",
+      "onboard_time": 1745569280,
+      "rank": 18,
+      "category": "科学科普,国内时政"
+    },
+    {
       "raw_hot": 43244,
       "num": 131072,
       "word": "董力阿诺带娃出游",
@@ -2241,6 +2425,22 @@
       "onboard_time": 1745557522,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37634,
+      "num": 307666,
+      "word": "生母继父虐死男童埋尸后曾发寻人启事",
+      "onboard_time": 1745568262,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36103,
+      "num": 158256,
+      "word": "奥运冠军杨威谈中年人如何防猝死",
+      "onboard_time": 1745568682,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 36095,
@@ -2387,6 +2587,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 22383,
+      "num": 323970,
+      "word": "7天酒店加盟店消防设施造假迷局",
+      "onboard_time": 1745568561,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21583,
       "num": 127071,
       "word": "外卖小哥背盲人女子过马路",
@@ -2449,6 +2657,14 @@
       "onboard_time": 1745565140,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 19578,
+      "num": 150286,
+      "word": "剃须刀也能带避震",
+      "onboard_time": 1745567180,
+      "rank": 34,
+      "category": "数码"
     },
     {
       "raw_hot": 19535,

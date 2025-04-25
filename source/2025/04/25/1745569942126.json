@@ -1,0 +1,410 @@
+{
+  "runTime": 1745569942126,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1323707,
+        "num": 1323707,
+        "word": "一个本科文凭或支撑不了5年",
+        "onboard_time": 1745568561,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1000370,
+        "num": 1000370,
+        "word": "张淼怡获金扫帚影后",
+        "onboard_time": 1745567061,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 15573,
+        "num": 810060,
+        "word": "美国关税问题解铃还需系铃人",
+        "onboard_time": 1745483181,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 638151,
+        "num": 638151,
+        "word": "儿子悄悄考北大妈妈惊成静止画面",
+        "onboard_time": 1745555782,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 527787,
+        "num": 527787,
+        "word": "当年只有王宝强去领金扫帚奖",
+        "onboard_time": 1745568082,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 467352,
+        "num": 467352,
+        "word": "马拉松月薪三万也快高攀不起了",
+        "onboard_time": 1745566701,
+        "rank": 5,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 396093,
+        "num": 396093,
+        "word": "华表奖预测",
+        "onboard_time": 1745567302,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 377546,
+        "num": 377546,
+        "word": "中共中央政治局4月25日召开会议",
+        "onboard_time": 1745561301,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 332974,
+        "num": 332974,
+        "word": "猿辅导员工自曝经常晚10点干到早6点",
+        "onboard_time": 1745566102,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 303279,
+        "num": 331689,
+        "word": "华表奖入场式导演揭秘现场看点",
+        "onboard_time": 1745568202,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1079139,
+        "num": 329709,
+        "word": "迅猛龙考上复旦了",
+        "onboard_time": 1745559563,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1187641,
+        "num": 327818,
+        "word": "生母继父虐杀掩埋孩子后曾痛哭寻子",
+        "onboard_time": 1745564661,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 840561,
+        "num": 327008,
+        "word": "氯雷他定",
+        "onboard_time": 1745555662,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 541187,
+        "num": 325145,
+        "word": "印度已切断印度河水",
+        "onboard_time": 1745556682,
+        "rank": 13,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 22383,
+        "num": 323970,
+        "word": "7天酒店加盟店消防设施造假迷局",
+        "onboard_time": 1745568561,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 360541,
+        "num": 321917,
+        "word": "金扫帚",
+        "onboard_time": 1745560822,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 320796,
+        "num": 320796,
+        "word": "于正回应多名艺人退圈",
+        "onboard_time": 1745565801,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315028,
+        "num": 315028,
+        "word": "华表奖表演嘉宾公布",
+        "onboard_time": 1745566522,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 44165,
+        "num": 309530,
+        "word": "为何在水中更容易受到紫外线伤害",
+        "onboard_time": 1745569280,
+        "rank": 18,
+        "category": "科学科普,国内时政"
+      },
+      {
+        "raw_hot": 37634,
+        "num": 307666,
+        "word": "生母继父虐死男童埋尸后曾发寻人启事",
+        "onboard_time": 1745568262,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305943,
+        "num": 305943,
+        "word": "杨威妻子被诊断太劳累气血不足",
+        "onboard_time": 1745564001,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218202,
+        "num": 218202,
+        "word": "749局值得",
+        "onboard_time": 1745569160,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 217014,
+        "num": 217014,
+        "word": "韩国残运会盒饭只有泡菜小菜引众怒",
+        "onboard_time": 1745555122,
+        "rank": 22,
+        "category": "体育,海外新闻"
+      },
+      {
+        "raw_hot": 213146,
+        "num": 213146,
+        "word": "钟丽丽无意中拒绝了洪尧的爹味",
+        "onboard_time": 1745568622,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211519,
+        "num": 211519,
+        "word": "陈德容哭了",
+        "onboard_time": 1745560102,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203069,
+        "num": 203069,
+        "word": "TWICE我更喜欢你cha",
+        "onboard_time": 1745568740,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 193912,
+        "num": 193912,
+        "word": "刘宇宁北影节永不散场的告白",
+        "onboard_time": 1745569101,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 189574,
+        "num": 189574,
+        "word": "特朗普正在捅一个更大的娄子",
+        "onboard_time": 1745567422,
+        "rank": 27,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 188393,
+        "num": 188393,
+        "word": "小伙申请改名周天紫薇大帝被驳回",
+        "onboard_time": 1745569160,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183130,
+        "num": 183130,
+        "word": "别说老外惊呆老内也惊呆了",
+        "onboard_time": 1745568561,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36103,
+        "num": 158256,
+        "word": "奥运冠军杨威谈中年人如何防猝死",
+        "onboard_time": 1745568682,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158195,
+        "num": 158195,
+        "word": "淮水竹亭",
+        "onboard_time": 1745569521,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152799,
+        "num": 152799,
+        "word": "金敏喜生子后状态",
+        "onboard_time": 1745561180,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152172,
+        "num": 152172,
+        "word": "多方回应江西理工在校生遭外籍生殴打",
+        "onboard_time": 1745567361,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19578,
+        "num": 150286,
+        "word": "剃须刀也能带避震",
+        "onboard_time": 1745567180,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 148507,
+        "num": 148507,
+        "word": "赵露思下车动作",
+        "onboard_time": 1745549361,
+        "rank": 35,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 147664,
+        "num": 147664,
+        "word": "包贝尔获金扫帚影帝",
+        "onboard_time": 1745567901,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144073,
+        "num": 144073,
+        "word": "印控克什米尔恐袭遇难者全为男性",
+        "onboard_time": 1745563941,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 142862,
+        "num": 142862,
+        "word": "曹骏外甥当然要像舅舅了",
+        "onboard_time": 1745554761,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59737,
+        "num": 140943,
+        "word": "绰号女巫的乌克兰士兵被打死",
+        "onboard_time": 1745568141,
+        "rank": 39,
+        "category": "海外新闻,民生新闻"
+      },
+      {
+        "raw_hot": 140886,
+        "num": 140886,
+        "word": "原来这些歌都是孙俪唱的",
+        "onboard_time": 1745569040,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 139042,
+        "num": 139042,
+        "word": "学生摔倒家长索赔8万被驳回",
+        "onboard_time": 1745560221,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138078,
+        "num": 138078,
+        "word": "朱洁静为向云端组编舞",
+        "onboard_time": 1745569521,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137692,
+        "num": 137692,
+        "word": "黄金股午后跳水",
+        "onboard_time": 1745566220,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 137641,
+        "num": 137641,
+        "word": "一个好的上班搭子太重要了",
+        "onboard_time": 1745569461,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132054,
+        "num": 132054,
+        "word": "普通人存钱的天花板是多少",
+        "onboard_time": 1745554580,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129864,
+        "num": 129864,
+        "word": "五月天杭州抢票",
+        "onboard_time": 1745567962,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127162,
+        "num": 127162,
+        "word": "长期熬夜后身体释放的求救信号",
+        "onboard_time": 1745557222,
+        "rank": 47,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 125671,
+        "num": 125671,
+        "word": "祝绪丹装大人好累",
+        "onboard_time": 1745567661,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110181,
+        "num": 110181,
+        "word": "巴基斯坦与印度军队发生交火",
+        "onboard_time": 1745562322,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#大力弘扬两弹一星精神载人航天精神#"
+    }
+  }
+}
