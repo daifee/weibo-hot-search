@@ -1,6 +1,6 @@
 {
   "startTime": 1745512289618,
-  "endTime": 1745594781713,
+  "endTime": 1745595619541,
   "band_list": [
     {
       "raw_hot": 2560355,
@@ -187,6 +187,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1015707,
+      "num": 542597,
+      "word": "王菲去了谢霆锋演唱会",
+      "onboard_time": 1745595501,
+      "rank": 4,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 1014123,
+      "num": 813945,
+      "word": "无忧渡 遗憾",
+      "onboard_time": 1745593344,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 977831,
       "num": 599172,
       "word": "猿辅导前员工称1人带400个学生",
@@ -249,14 +265,6 @@
       "onboard_time": 1745542702,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 813945,
-      "num": 813945,
-      "word": "无忧渡 遗憾",
-      "onboard_time": 1745593344,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 809541,
@@ -449,6 +457,14 @@
       "onboard_time": 1745561180,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 498869,
+      "num": 249014,
+      "word": "韩安冉曝与婆婆聊天记录",
+      "onboard_time": 1745594121,
+      "rank": 22,
+      "category": "网红"
     },
     {
       "raw_hot": 487335,
@@ -675,6 +691,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 390902,
+      "num": 368725,
+      "word": "美24岁前童星去世时已怀有身孕",
+      "onboard_time": 1745593822,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 380681,
       "num": 698855,
       "word": "今年一季度全国结婚登记181万对",
@@ -851,14 +875,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 328221,
-      "num": 178573,
-      "word": "韩安冉曝与婆婆聊天记录",
-      "onboard_time": 1745594121,
-      "rank": 22,
-      "category": "网红"
-    },
-    {
       "raw_hot": 326768,
       "num": 244388,
       "word": "原来这才算穿的干净",
@@ -931,6 +947,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 308914,
+      "num": 308914,
+      "word": "刘雨欣回应",
+      "onboard_time": 1745595501,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 307738,
       "num": 173532,
       "word": "张继科夸马琳不是人是神",
@@ -969,14 +993,6 @@
       "onboard_time": 1745508023,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 292263,
-      "num": 170923,
-      "word": "美24岁前童星去世时已怀有身孕",
-      "onboard_time": 1745593822,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 291462,
@@ -1025,6 +1041,14 @@
       "onboard_time": 1745562922,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 282498,
+      "num": 249964,
+      "word": "蔡徐坤状态",
+      "onboard_time": 1745595562,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 280257,
@@ -1227,6 +1251,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 232980,
+      "num": 232980,
+      "word": "KSG遗憾止步春季赛",
+      "onboard_time": 1745594663,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 230439,
       "num": 230439,
       "word": "种地吧和十个勤天的成功很难被复制",
@@ -1339,6 +1371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208779,
+      "num": 208779,
+      "word": "TES战胜KSG",
+      "onboard_time": 1745595562,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 207696,
       "num": 207696,
       "word": "莎拉布莱曼选了李晟",
@@ -1440,6 +1480,14 @@
       "word": "丞磊拍的王楚然",
       "onboard_time": 1745563401,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 200267,
+      "num": 200267,
+      "word": "任嘉伦宋祖儿 接二搭",
+      "onboard_time": 1745595501,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -1635,12 +1683,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 182410,
-      "num": 182410,
-      "word": "KSG遗憾止步春季赛",
-      "onboard_time": 1745594663,
-      "rank": 18,
-      "category": "电竞"
+      "raw_hot": 180246,
+      "num": 168972,
+      "word": "纽约市民凌晨排两条街长队买中国相机",
+      "onboard_time": 1745592384,
+      "rank": 32,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 179728,
@@ -1705,14 +1753,6 @@
       "onboard_time": 1745494701,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 175806,
-      "num": 168972,
-      "word": "纽约市民凌晨排两条街长队买中国相机",
-      "onboard_time": 1745592384,
-      "rank": 32,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 174652,
@@ -2041,6 +2081,22 @@
       "onboard_time": 1745558781,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152787,
+      "num": 152787,
+      "word": "你以为很长胖实际很健康的食物",
+      "onboard_time": 1745594963,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 151981,
+      "num": 151981,
+      "word": "断崖式分手后发现前任已有新欢",
+      "onboard_time": 1745594783,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 151916,
@@ -2427,6 +2483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134693,
+      "num": 134693,
+      "word": "刘宇宁的眼泪落在两人的座位",
+      "onboard_time": 1745594483,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134535,
       "num": 134535,
       "word": "北京草莓音乐节歌单",
@@ -2561,6 +2625,14 @@
       "onboard_time": 1745593283,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 128113,
+      "num": 128113,
+      "word": "孔雪儿娇纵却实在美丽",
+      "onboard_time": 1745595322,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 127419,
@@ -2795,14 +2867,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 116301,
-      "num": 116301,
-      "word": "刘宇宁的眼泪落在两人的座位",
-      "onboard_time": 1745594483,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 115976,
       "num": 212255,
       "word": "李昀锐春游照",
@@ -2907,6 +2971,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 109807,
+      "num": 205491,
+      "word": "郑钦文红土赛季首战落败",
+      "onboard_time": 1745593462,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109457,
       "num": 109457,
       "word": "所有的猝死都是蓄谋已久",
@@ -2969,14 +3041,6 @@
       "onboard_time": 1745536579,
       "rank": 37,
       "category": "民生新闻,国内时政"
-    },
-    {
-      "raw_hot": 105399,
-      "num": 114312,
-      "word": "郑钦文红土赛季首战落败",
-      "onboard_time": 1745593462,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 104495,
@@ -3276,7 +3340,7 @@
     },
     {
       "raw_hot": 76429,
-      "num": 169437,
+      "num": 173269,
       "word": "上汽大众傅强回应ID3展台事件",
       "onboard_time": 1745593522,
       "rank": 31,
@@ -3372,7 +3436,7 @@
     },
     {
       "raw_hot": 69432,
-      "num": 172143,
+      "num": 205447,
       "word": "杨紫今天穿得好仙",
       "onboard_time": 1745592384,
       "rank": 28,
@@ -3385,6 +3449,14 @@
       "onboard_time": 1745506403,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 69083,
+      "num": 181681,
+      "word": "印巴局势接下来的3个走向",
+      "onboard_time": 1745593703,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 68867,
@@ -3843,6 +3915,14 @@
       "category": "健康医疗,民生新闻"
     },
     {
+      "raw_hot": 42413,
+      "num": 152326,
+      "word": "美国消费者涌入电商平台抢购中国制造商品",
+      "onboard_time": 1745589202,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 42191,
       "num": 313420,
       "word": "古人是如何练习书法的",
@@ -3883,20 +3963,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 39251,
-      "num": 152326,
-      "word": "美国消费者涌入电商平台抢购中国制造商品",
-      "onboard_time": 1745589202,
-      "rank": 37,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 39004,
       "num": 171579,
       "word": "印象最深的国羽苏杯瞬间",
       "onboard_time": 1745578942,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 38337,
+      "num": 170686,
+      "word": "央视曝光剧本式直播诈骗套路",
+      "onboard_time": 1745595262,
+      "rank": 31,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 38028,
@@ -3977,14 +4057,6 @@
       "onboard_time": 1745562381,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 33941,
-      "num": 181681,
-      "word": "印巴局势接下来的3个走向",
-      "onboard_time": 1745593703,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 33548,
@@ -4355,6 +4427,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 14252,
+      "num": 249062,
+      "word": "金扫帚奖成立背景是什么",
+      "onboard_time": 1745594543,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 13693,
       "num": 250722,
       "word": "金扫帚奖能否让演员正视问题",
@@ -4457,14 +4537,6 @@
       "onboard_time": 1745586143,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 5254,
-      "num": 176786,
-      "word": "金扫帚奖成立背景是什么",
-      "onboard_time": 1745594543,
-      "rank": 24,
-      "category": "电影"
     }
   ],
   "hotgov_list": [
