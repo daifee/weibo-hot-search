@@ -1,0 +1,410 @@
+{
+  "runTime": 1745641716400,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 833897,
+        "num": 1133423,
+        "word": "日本大爷坠入坑中3个月仍未获救",
+        "onboard_time": 1745632400,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 735667,
+        "num": 735667,
+        "word": "多地宣布发钱奖励结婚",
+        "onboard_time": 1745637561,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9647,
+        "num": 520372,
+        "word": "高质量发展中国行",
+        "onboard_time": 1745641522,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 516133,
+        "num": 516133,
+        "word": "淮水竹亭定档",
+        "onboard_time": 1745633661,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 398990,
+        "num": 398990,
+        "word": "女子剧烈孕吐差点危及生命",
+        "onboard_time": 1745638101,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323926,
+        "num": 323926,
+        "word": "李嘉琦浪姐是真没白来",
+        "onboard_time": 1745636600,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298640,
+        "num": 298640,
+        "word": "美方称愿就关税与中方对话",
+        "onboard_time": 1745633721,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 296399,
+        "num": 296399,
+        "word": "华表奖提名",
+        "onboard_time": 1745637381,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 267959,
+        "num": 267959,
+        "word": "只有师范生才知道她有多强",
+        "onboard_time": 1745636541,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 49761,
+        "num": 267419,
+        "word": "解放军仪仗司礼大队将赴越南",
+        "onboard_time": 1745641282,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 2164940,
+        "num": 264904,
+        "word": "男子性侵初中女生致其怀孕不予立案",
+        "onboard_time": 1745633001,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 832632,
+        "num": 263805,
+        "word": "10泡尿毁了数万跑者的盛大赛事",
+        "onboard_time": 1745630060,
+        "rank": 11,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 730866,
+        "num": 261073,
+        "word": "蔡徐坤直播突然被封",
+        "onboard_time": 1745596762,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 533978,
+        "num": 259032,
+        "word": "韩安冉说她是照着Angelababy整的",
+        "onboard_time": 1745636721,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56882,
+        "num": 258267,
+        "word": "大路灯看似高大上实为通用灯具",
+        "onboard_time": 1745640202,
+        "rank": 14,
+        "category": "民生新闻,科学科普"
+      },
+      {
+        "raw_hot": 256683,
+        "num": 256683,
+        "word": "落花时节又逢君",
+        "onboard_time": 1745637142,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 471554,
+        "num": 255030,
+        "word": "深圳殉情男子岳母发声",
+        "onboard_time": 1745633782,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 329579,
+        "num": 252557,
+        "word": "无忧渡2",
+        "onboard_time": 1745630960,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44263,
+        "num": 249039,
+        "word": "奔跑吧13首播有哪些亮点",
+        "onboard_time": 1745640681,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171061,
+        "num": 246912,
+        "word": "8旬老人无人赡养起诉2儿1女",
+        "onboard_time": 1745640261,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1005527,
+        "num": 244616,
+        "word": "无忧渡女演员夏依丹被曝去世",
+        "onboard_time": 1745632462,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 399669,
+        "num": 241360,
+        "word": "李濛 张檬",
+        "onboard_time": 1745633481,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365044,
+        "num": 238240,
+        "word": "王菲谢霆锋好甜",
+        "onboard_time": 1745627360,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 276828,
+        "num": 236043,
+        "word": "Jennie德国版芭莎封面",
+        "onboard_time": 1745641101,
+        "rank": 23,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 267666,
+        "num": 232772,
+        "word": "乌鸡白凤丸谁吃谁好用",
+        "onboard_time": 1745637261,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 182099,
+        "num": 231176,
+        "word": "刘宇宁哽咽感谢杨坤的帮助",
+        "onboard_time": 1745640143,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178858,
+        "num": 229113,
+        "word": "你好星期六全员800个心眼子",
+        "onboard_time": 1745640923,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168771,
+        "num": 225272,
+        "word": "外籍歌手唐伯虎回应拖欠劳务费",
+        "onboard_time": 1745630060,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40065,
+        "num": 222730,
+        "word": "以旧换新带动销售额超7200亿",
+        "onboard_time": 1745587342,
+        "rank": 28,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 158829,
+        "num": 220829,
+        "word": "沈月超绝不经意露出姐姐送我的竹节杯",
+        "onboard_time": 1745640743,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193146,
+        "num": 218526,
+        "word": "特朗普威胁称乌若再战或失去整个国家",
+        "onboard_time": 1745639901,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 216825,
+        "num": 216825,
+        "word": "拆二代败光5套房近4000万成阶下囚",
+        "onboard_time": 1745628980,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193151,
+        "num": 193151,
+        "word": "特朗普称一天结束俄乌冲突是开玩笑",
+        "onboard_time": 1745637981,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 185913,
+        "num": 185913,
+        "word": "Puff爆聊天记录",
+        "onboard_time": 1745640080,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 179529,
+        "num": 179529,
+        "word": "爱泼斯坦案关键受害者自杀身亡",
+        "onboard_time": 1745635701,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 139368,
+        "num": 139368,
+        "word": "吴宣仪追着丁程鑫说小少爷你真帅",
+        "onboard_time": 1745641162,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135439,
+        "num": 135439,
+        "word": "女子手机失控冲进派出所民警建议砸掉",
+        "onboard_time": 1745616015,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133188,
+        "num": 133188,
+        "word": "易烊千玺三部主演电影获得华表奖",
+        "onboard_time": 1745632820,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131605,
+        "num": 131605,
+        "word": "明日方舟",
+        "onboard_time": 1745640261,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131535,
+        "num": 131535,
+        "word": "星穹铁道二周年",
+        "onboard_time": 1745641644,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 129703,
+        "num": 129703,
+        "word": "美媒警告未来几个月部分商品将消失",
+        "onboard_time": 1745641221,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 128743,
+        "num": 128743,
+        "word": "全力詹回来了",
+        "onboard_time": 1745640802,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127337,
+        "num": 127337,
+        "word": "王一博赛车",
+        "onboard_time": 1745640080,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120867,
+        "num": 120867,
+        "word": "湖人vs森林狼",
+        "onboard_time": 1745632400,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15312,
+        "num": 115766,
+        "word": "周董剃须后演唱会状态满分",
+        "onboard_time": 1745638641,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 114309,
+        "num": 114309,
+        "word": "重庆大学生在玩新的社会实践",
+        "onboard_time": 1745641702,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113677,
+        "num": 113677,
+        "word": "无忧渡",
+        "onboard_time": 1745628980,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110468,
+        "num": 110468,
+        "word": "倪妮大方谈自己变老了",
+        "onboard_time": 1745630120,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108760,
+        "num": 108760,
+        "word": "被宋妍霏扯领带帅到了",
+        "onboard_time": 1745640202,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108947,
+        "num": 108608,
+        "word": "淮水竹亭全员开大",
+        "onboard_time": 1745641461,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国是世界绿色发展的坚定行动派重要贡献者#"
+    }
+  }
+}

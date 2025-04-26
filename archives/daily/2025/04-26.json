@@ -1,6 +1,6 @@
 {
   "startTime": 1745598635164,
-  "endTime": 1745639386394,
+  "endTime": 1745641716400,
   "band_list": [
     {
       "raw_hot": 3420165,
@@ -83,6 +83,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 833897,
+      "num": 1133423,
+      "word": "日本大爷坠入坑中3个月仍未获救",
+      "onboard_time": 1745632400,
+      "rank": 16,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 831155,
       "num": 831155,
       "word": "淮水竹亭定档",
@@ -107,20 +115,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 735667,
+      "num": 735667,
+      "word": "多地宣布发钱奖励结婚",
+      "onboard_time": 1745637561,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 697677,
       "num": 697677,
       "word": "外籍歌手唐伯虎回应拖欠劳务费",
       "onboard_time": 1745630060,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 653381,
-      "num": 653381,
-      "word": "日本大爷坠入坑中3个月仍未获救",
-      "onboard_time": 1745632400,
-      "rank": 16,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 632201,
@@ -235,6 +243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 398990,
+      "num": 398990,
+      "word": "女子剧烈孕吐差点危及生命",
+      "onboard_time": 1745638101,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 392130,
       "num": 392130,
       "word": "中国取消1.2万吨美国猪肉订单",
@@ -265,14 +281,6 @@
       "onboard_time": 1745593822,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 310985,
-      "num": 310985,
-      "word": "多地宣布发钱奖励结婚",
-      "onboard_time": 1745637561,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 309735,
@@ -329,6 +337,22 @@
       "onboard_time": 1745582062,
       "rank": 7,
       "category": "美食"
+    },
+    {
+      "raw_hot": 276828,
+      "num": 236043,
+      "word": "Jennie德国版芭莎封面",
+      "onboard_time": 1745641101,
+      "rank": 23,
+      "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 267666,
+      "num": 232772,
+      "word": "乌鸡白凤丸谁吃谁好用",
+      "onboard_time": 1745637261,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 266899,
@@ -451,12 +475,36 @@
       "category": "国际时政,财经"
     },
     {
+      "raw_hot": 193151,
+      "num": 302951,
+      "word": "特朗普称一天结束俄乌冲突是开玩笑",
+      "onboard_time": 1745637981,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 193146,
+      "num": 218526,
+      "word": "特朗普威胁称乌若再战或失去整个国家",
+      "onboard_time": 1745639901,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 190091,
       "num": 190091,
       "word": "六小龄童还记得43年前西游记群演",
       "onboard_time": 1745636600,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 185913,
+      "num": 185913,
+      "word": "Puff爆聊天记录",
+      "onboard_time": 1745640080,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 182654,
@@ -467,18 +515,34 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 178819,
-      "num": 178819,
-      "word": "乌鸡白凤丸谁吃谁好用",
-      "onboard_time": 1745637261,
+      "raw_hot": 182099,
+      "num": 231176,
+      "word": "刘宇宁哽咽感谢杨坤的帮助",
+      "onboard_time": 1745640143,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 178858,
+      "num": 229113,
+      "word": "你好星期六全员800个心眼子",
+      "onboard_time": 1745640923,
       "rank": 26,
-      "category": "健康医疗"
+      "category": "综艺"
     },
     {
       "raw_hot": 171167,
       "num": 249752,
       "word": "多方回应黄瓜里被发现藏着针",
       "onboard_time": 1745587103,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171061,
+      "num": 246912,
+      "word": "8旬老人无人赡养起诉2儿1女",
+      "onboard_time": 1745640261,
       "rank": 19,
       "category": "民生新闻"
     },
@@ -507,20 +571,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 167977,
-      "num": 309618,
-      "word": "女子剧烈孕吐差点危及生命",
-      "onboard_time": 1745638101,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 161954,
       "num": 78392,
       "word": "特朗普说克里米亚属于俄罗斯",
       "onboard_time": 1745627841,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 158829,
+      "num": 220829,
+      "word": "沈月超绝不经意露出姐姐送我的竹节杯",
+      "onboard_time": 1745640743,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 158703,
@@ -595,6 +659,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 139368,
+      "num": 139368,
+      "word": "吴宣仪追着丁程鑫说小少爷你真帅",
+      "onboard_time": 1745641162,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138920,
       "num": 138920,
       "word": "唐国强要脑力有脑力要体力有体力",
@@ -635,6 +707,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 131605,
+      "num": 131605,
+      "word": "明日方舟",
+      "onboard_time": 1745640261,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 131535,
+      "num": 131535,
+      "word": "星穹铁道二周年",
+      "onboard_time": 1745641644,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 130657,
       "num": 130657,
       "word": "久酷说会回去好好复盘",
@@ -643,12 +731,36 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 129703,
+      "num": 129703,
+      "word": "美媒警告未来几个月部分商品将消失",
+      "onboard_time": 1745641221,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 129454,
       "num": 129454,
       "word": "张真源奔跑吧第一期镜头",
       "onboard_time": 1745634801,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128743,
+      "num": 128743,
+      "word": "全力詹回来了",
+      "onboard_time": 1745640802,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 127337,
+      "num": 127337,
+      "word": "王一博赛车",
+      "onboard_time": 1745640080,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 126597,
@@ -681,6 +793,14 @@
       "onboard_time": 1745578221,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120867,
+      "num": 120867,
+      "word": "湖人vs森林狼",
+      "onboard_time": 1745632400,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 120716,
@@ -731,6 +851,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 114309,
+      "num": 114309,
+      "word": "重庆大学生在玩新的社会实践",
+      "onboard_time": 1745641702,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113677,
+      "num": 113677,
+      "word": "无忧渡",
+      "onboard_time": 1745628980,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 110700,
       "num": 110700,
       "word": "上海一小区惊现赤狐",
@@ -745,6 +881,22 @@
       "onboard_time": 1745635102,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108947,
+      "num": 108608,
+      "word": "淮水竹亭全员开大",
+      "onboard_time": 1745641461,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 108760,
+      "num": 108760,
+      "word": "被宋妍霏扯领带帅到了",
+      "onboard_time": 1745640202,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 107539,
@@ -801,14 +953,6 @@
       "onboard_time": 1745630060,
       "rank": 42,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 101816,
-      "num": 302951,
-      "word": "特朗普称一天结束俄乌冲突是开玩笑",
-      "onboard_time": 1745637981,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 101812,
@@ -929,14 +1073,6 @@
       "onboard_time": 1745630301,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 86918,
-      "num": 97895,
-      "word": "湖人vs森林狼",
-      "onboard_time": 1745632400,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 86517,
@@ -1115,6 +1251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 56882,
+      "num": 258267,
+      "word": "大路灯看似高大上实为通用灯具",
+      "onboard_time": 1745640202,
+      "rank": 14,
+      "category": "民生新闻,科学科普"
+    },
+    {
       "raw_hot": 55400,
       "num": 55400,
       "word": "戚薇夫妻关系是冷暖自知的",
@@ -1129,6 +1273,14 @@
       "onboard_time": 1745638282,
       "rank": 19,
       "category": "美食"
+    },
+    {
+      "raw_hot": 49761,
+      "num": 267419,
+      "word": "解放军仪仗司礼大队将赴越南",
+      "onboard_time": 1745641282,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 46125,
@@ -1153,6 +1305,14 @@
       "onboard_time": 1745594663,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 44263,
+      "num": 249039,
+      "word": "奔跑吧13首播有哪些亮点",
+      "onboard_time": 1745640681,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 43991,
@@ -1331,8 +1491,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 13928,
-      "num": 96750,
+      "raw_hot": 15312,
+      "num": 115766,
       "word": "周董剃须后演唱会状态满分",
       "onboard_time": 1745638641,
       "rank": 42,
@@ -1353,6 +1513,14 @@
       "onboard_time": 1745632881,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 9647,
+      "num": 520372,
+      "word": "高质量发展中国行",
+      "onboard_time": 1745641522,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 9056,

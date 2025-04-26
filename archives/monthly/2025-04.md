@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/26 11:49:46
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/26 12:28:36
 </p>
 </blockquote>
 <p>
@@ -5337,6 +5337,12 @@ PO回应与雪莉恋情（热度：834785）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A4%A7%E7%88%B7%E5%9D%A0%E5%85%A5%E5%9D%91%E4%B8%AD3%E4%B8%AA%E6%9C%88%E4%BB%8D%E6%9C%AA%E8%8E%B7%E6%95%91%23" target="weibo">
+日本大爷坠入坑中3个月仍未获救（热度：833897）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%80%90%E7%8E%89%E7%94%B0%E6%9B%A6%E8%96%87%E4%BA%B2%E5%AE%8C%E5%BC%A0%E5%87%8C%E8%B5%AB%E4%BA%B2%23" target="weibo">
 逐玉田曦薇亲完张凌赫亲（热度：832655）
 </a>
@@ -6005,12 +6011,6 @@ YERI和Wendy离开SM（热度：805847）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E7%8F%A0%E5%B8%A6%E4%BA%86%E6%95%B4%E6%95%B4%E5%9B%9B%E4%B8%AA%E6%9C%88%E5%A6%86%23" target="weibo">
 朱珠带了整整四个月妆（热度：769591）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%90%AF%E5%8D%8E%E9%87%91%E5%B7%A7%E5%B7%A7%E5%88%86%E6%89%8B22%E5%B9%B4%E5%90%8E%E6%BC%94%E5%A4%AB%E5%A6%BB%23" target="weibo">
-吴启华金巧巧分手22年后演夫妻（热度：768937）
 </a>
 </li>
 
