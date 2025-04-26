@@ -1,0 +1,410 @@
+{
+  "runTime": 1745639386394,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2271470,
+        "num": 2271470,
+        "word": "男子性侵初中女生致其怀孕不予立案",
+        "onboard_time": 1745633001,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 622522,
+        "num": 622522,
+        "word": "淮水竹亭定档",
+        "onboard_time": 1745633661,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45416,
+        "num": 572784,
+        "word": "以旧换新带动销售额超7200亿",
+        "onboard_time": 1745587342,
+        "rank": 2,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 567391,
+        "num": 567391,
+        "word": "日本大爷坠入坑中3个月仍未获救",
+        "onboard_time": 1745632400,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 413217,
+        "num": 413217,
+        "word": "美方称愿就关税与中方对话",
+        "onboard_time": 1745633721,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1239348,
+        "num": 412460,
+        "word": "无忧渡女演员夏依丹被曝去世",
+        "onboard_time": 1745632462,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 409780,
+        "num": 409780,
+        "word": "李嘉琦浪姐是真没白来",
+        "onboard_time": 1745636600,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 358013,
+        "num": 358013,
+        "word": "无忧渡2",
+        "onboard_time": 1745630960,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 310985,
+        "num": 310985,
+        "word": "多地宣布发钱奖励结婚",
+        "onboard_time": 1745637561,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167977,
+        "num": 309618,
+        "word": "女子剧烈孕吐差点危及生命",
+        "onboard_time": 1745638101,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 952966,
+        "num": 307344,
+        "word": "10泡尿毁了数万跑者的盛大赛事",
+        "onboard_time": 1745630060,
+        "rank": 10,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 634614,
+        "num": 305400,
+        "word": "蔡徐坤直播突然被封",
+        "onboard_time": 1745596762,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 600916,
+        "num": 303984,
+        "word": "深圳殉情男子岳母发声",
+        "onboard_time": 1745633782,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 302960,
+        "num": 302960,
+        "word": "拆二代败光5套房近4000万成阶下囚",
+        "onboard_time": 1745628980,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101816,
+        "num": 302951,
+        "word": "特朗普称一天结束俄乌冲突是开玩笑",
+        "onboard_time": 1745637981,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 541543,
+        "num": 301401,
+        "word": "韩安冉说她是照着Angelababy整的",
+        "onboard_time": 1745636721,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 533135,
+        "num": 298678,
+        "word": "李濛 张檬",
+        "onboard_time": 1745633481,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 466590,
+        "num": 297943,
+        "word": "王菲谢霆锋好甜",
+        "onboard_time": 1745627360,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 296957,
+        "num": 296957,
+        "word": "华表奖提名",
+        "onboard_time": 1745637381,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 53339,
+        "num": 295257,
+        "word": "哪些食物看似会长胖但实际上有益健康",
+        "onboard_time": 1745638282,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 295179,
+        "num": 295179,
+        "word": "落花时节又逢君",
+        "onboard_time": 1745637142,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 293642,
+        "num": 293642,
+        "word": "只有师范生才知道她有多强",
+        "onboard_time": 1745636541,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 227260,
+        "num": 227260,
+        "word": "爱泼斯坦案关键受害者自杀身亡",
+        "onboard_time": 1745635701,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 217339,
+        "num": 217339,
+        "word": "外籍歌手唐伯虎回应拖欠劳务费",
+        "onboard_time": 1745630060,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209908,
+        "num": 209908,
+        "word": "易烊千玺三部主演电影获得华表奖",
+        "onboard_time": 1745632820,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 190087,
+        "num": 190087,
+        "word": "女子手机失控冲进派出所民警建议砸掉",
+        "onboard_time": 1745616015,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178819,
+        "num": 178819,
+        "word": "乌鸡白凤丸谁吃谁好用",
+        "onboard_time": 1745637261,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 176872,
+        "num": 176872,
+        "word": "倪妮大方谈自己变老了",
+        "onboard_time": 1745630120,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160455,
+        "num": 160455,
+        "word": "六小龄童还记得43年前西游记群演",
+        "onboard_time": 1745636600,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153115,
+        "num": 153115,
+        "word": "邓家佳坏了这可是我的强项",
+        "onboard_time": 1745637742,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 143615,
+        "num": 143615,
+        "word": "深圳殉情男子遗书希望与妻合葬",
+        "onboard_time": 1745630060,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125196,
+        "num": 125196,
+        "word": "詹姆斯半场22分",
+        "onboard_time": 1745638460,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124894,
+        "num": 124894,
+        "word": "你以为很长胖实际很健康的食物",
+        "onboard_time": 1745594963,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119947,
+        "num": 119947,
+        "word": "现货黄金跌破3270美元",
+        "onboard_time": 1745636721,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 116103,
+        "num": 116103,
+        "word": "35岁女子月入五万北漂十几年只攒下十万",
+        "onboard_time": 1745598261,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115794,
+        "num": 115794,
+        "word": "王一博上午赛车下午走红毯",
+        "onboard_time": 1745625979,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115043,
+        "num": 115043,
+        "word": "小明剑魔回应",
+        "onboard_time": 1745632462,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 105830,
+        "num": 105830,
+        "word": "刘诗诗最强总控东方淮竹在此",
+        "onboard_time": 1745637802,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102285,
+        "num": 102285,
+        "word": "娜扎女帝造型",
+        "onboard_time": 1745627059,
+        "rank": 38,
+        "category": "作品衍生,综艺"
+      },
+      {
+        "raw_hot": 101698,
+        "num": 101698,
+        "word": "上海一小区惊现赤狐",
+        "onboard_time": 1745636600,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101523,
+        "num": 101523,
+        "word": "白宫前官员称稀土管制让美国慌了",
+        "onboard_time": 1745631201,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 99468,
+        "num": 99468,
+        "word": "华为一季度中国手机市场份额第一",
+        "onboard_time": 1745639061,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 13928,
+        "num": 96750,
+        "word": "周董剃须后演唱会状态满分",
+        "onboard_time": 1745638641,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 96296,
+        "num": 96296,
+        "word": "关晓彤有在认真搞事业",
+        "onboard_time": 1745625139,
+        "rank": 43,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 93894,
+        "num": 93894,
+        "word": "终于直观见识到卢昱晓演技",
+        "onboard_time": 1745639120,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 93142,
+        "num": 93142,
+        "word": "背对背拥抱 牛马进行曲",
+        "onboard_time": 1745639301,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 91541,
+        "num": 91541,
+        "word": "无忧渡大结局为什么让人共情",
+        "onboard_time": 1745637201,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89353,
+        "num": 89353,
+        "word": "王一博周深于适等相约华表",
+        "onboard_time": 1745636901,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 88407,
+        "num": 88407,
+        "word": "张真源奔跑吧第一期镜头",
+        "onboard_time": 1745634801,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86509,
+        "num": 86509,
+        "word": "郑钦文回应输球原因",
+        "onboard_time": 1745635102,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央政治局召开会议#"
+    }
+  }
+}
