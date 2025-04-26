@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/26 23:37:51
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/27 00:28:26
 </p>
 </blockquote>
 <p>
@@ -647,6 +647,12 @@ C罗点评甲亢哥中国行（热度：2472029）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E5%BF%A7%E6%B8%A1%E5%BC%80%E6%92%AD%23" target="weibo">
 无忧渡开播（热度：2366608）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%BD%AE%E9%92%88%E6%98%AF%E4%BB%80%E4%B9%88%23" target="weibo">
+高潮针是什么（热度：2353027）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ YERI和Wendy离开SM（热度：805847）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AF%AF%E8%A7%A6%E8%80%83%E4%B8%8A%E7%A0%94%E7%A9%B6%E7%94%9F%E4%BA%86%E6%80%8E%E4%B9%88%E5%8A%9E%23" target="weibo">
 误触考上研究生了怎么办（热度：778635）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B2%E4%BA%A2%E5%93%A5%E4%BD%8F%E8%BF%87%E6%9C%80%E5%A5%BD%E7%9A%84%E9%85%92%E5%BA%97%E5%9C%A8%E4%B8%AD%E5%9B%BD%23" target="weibo">
-甲亢哥住过最好的酒店在中国（热度：778032）
 </a>
 </li>
 
