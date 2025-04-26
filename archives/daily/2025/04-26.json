@@ -1,6 +1,6 @@
 {
   "startTime": 1745598635164,
-  "endTime": 1745649116629,
+  "endTime": 1745649896681,
   "band_list": [
     {
       "raw_hot": 3420165,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2048864,
-      "num": 307344,
+      "num": 360958,
       "word": "10泡尿毁了数万跑者的盛大赛事",
       "onboard_time": 1745630060,
       "rank": 8,
@@ -51,20 +51,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1036073,
+      "num": 1165771,
+      "word": "马斯克和美财长在白宫大吵狂飙脏话",
+      "onboard_time": 1745645421,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 989656,
       "num": 257557,
       "word": "刘雨欣回应",
       "onboard_time": 1745595501,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 952590,
-      "num": 1152414,
-      "word": "马斯克和美财长在白宫大吵狂飙脏话",
-      "onboard_time": 1745645421,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 917779,
@@ -147,6 +147,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 623396,
+      "num": 623396,
+      "word": "何老师跳了晚安大小姐",
+      "onboard_time": 1745645061,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 610567,
       "num": 915208,
       "word": "纽约市民凌晨排两条街长队买中国相机",
@@ -161,14 +169,6 @@
       "onboard_time": 1745633782,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 568532,
-      "num": 568532,
-      "word": "何老师跳了晚安大小姐",
-      "onboard_time": 1745645061,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 566183,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 541543,
-      "num": 301401,
+      "num": 359706,
       "word": "韩安冉说她是照着Angelababy整的",
       "onboard_time": 1745636721,
       "rank": 32,
@@ -275,6 +275,14 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 429028,
+      "num": 429028,
+      "word": "王一博过弯",
+      "onboard_time": 1745642181,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 425918,
       "num": 253422,
       "word": "蔡徐坤状态",
@@ -315,20 +323,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 379314,
+      "num": 379314,
+      "word": "马斯克不到100天砍掉自己1500亿身家",
+      "onboard_time": 1745647221,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
       "raw_hot": 351131,
       "num": 234807,
       "word": "女子手机失控冲进派出所民警建议砸掉",
       "onboard_time": 1745616015,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 346844,
-      "num": 346844,
-      "word": "王一博过弯",
-      "onboard_time": 1745642181,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 331678,
@@ -361,14 +369,6 @@
       "onboard_time": 1745637381,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 309898,
-      "num": 309898,
-      "word": "马斯克不到100天砍掉自己1500亿身家",
-      "onboard_time": 1745647221,
-      "rank": 8,
-      "category": "财经"
     },
     {
       "raw_hot": 309735,
@@ -595,12 +595,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209150,
+      "num": 192390,
+      "word": "最近少穿这些颜色衣服出门",
+      "onboard_time": 1745648541,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 199122,
       "num": 199122,
       "word": "白宫前官员称稀土管制让美国慌了",
       "onboard_time": 1745631201,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 198580,
+      "num": 229738,
+      "word": "迪丽热巴等到了最爱的狗血剧情",
+      "onboard_time": 1745646141,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 197412,
@@ -627,12 +643,12 @@
       "category": "国际时政,财经"
     },
     {
-      "raw_hot": 195300,
-      "num": 229738,
-      "word": "迪丽热巴等到了最爱的狗血剧情",
-      "onboard_time": 1745646141,
-      "rank": 17,
-      "category": "综艺"
+      "raw_hot": 193241,
+      "num": 193241,
+      "word": "无忧渡热度",
+      "onboard_time": 1745648719,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 193151,
@@ -656,6 +672,14 @@
       "word": "六小龄童还记得43年前西游记群演",
       "onboard_time": 1745636600,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 188788,
+      "num": 188788,
+      "word": "付航没在脱口秀最好的时候上节目",
+      "onboard_time": 1745648902,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -683,12 +707,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 172315,
-      "num": 154348,
-      "word": "最近少穿这些颜色衣服出门",
-      "onboard_time": 1745648541,
-      "rank": 28,
-      "category": "民生新闻"
+      "raw_hot": 172262,
+      "num": 228722,
+      "word": "日本女乒主帅说要在世乒赛击败中国",
+      "onboard_time": 1745647880,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 171167,
@@ -737,14 +761,6 @@
       "onboard_time": 1745645900,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 166598,
-      "num": 166598,
-      "word": "无忧渡热度",
-      "onboard_time": 1745648719,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 166566,
@@ -819,20 +835,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156884,
+      "num": 156884,
+      "word": "周深教唱歌郎朗教钢琴",
+      "onboard_time": 1745648601,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155469,
       "num": 155469,
       "word": "华表奖",
       "onboard_time": 1745642421,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 154385,
-      "num": 154385,
-      "word": "周深教唱歌郎朗教钢琴",
-      "onboard_time": 1745648601,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 154335,
@@ -857,6 +873,22 @@
       "onboard_time": 1745585662,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 152930,
+      "num": 152930,
+      "word": "义乌包机邀上百名境外客商来买买买",
+      "onboard_time": 1745649321,
+      "rank": 28,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 149547,
+      "num": 188808,
+      "word": "KPL游戏人生宣传片",
+      "onboard_time": 1745642783,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 149406,
@@ -897,6 +929,14 @@
       "onboard_time": 1745642181,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 146066,
+      "num": 146065,
+      "word": "KPL选手质感大片",
+      "onboard_time": 1745649080,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 145131,
@@ -995,6 +1035,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 136657,
+      "num": 136657,
+      "word": "于子洋张蔷举办婚礼",
+      "onboard_time": 1745649743,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 133957,
+      "num": 133957,
+      "word": "日本疯传东京将有8.3级地震",
+      "onboard_time": 1745649681,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 132566,
       "num": 132566,
       "word": "小明剑魔回应",
@@ -1009,14 +1065,6 @@
       "onboard_time": 1745640261,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 130752,
-      "num": 228722,
-      "word": "日本女乒主帅说要在世乒赛击败中国",
-      "onboard_time": 1745647880,
-      "rank": 20,
-      "category": "体育"
     },
     {
       "raw_hot": 130657,
@@ -1115,14 +1163,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 122686,
-      "num": 122686,
-      "word": "付航没在脱口秀最好的时候上节目",
-      "onboard_time": 1745648902,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 120716,
       "num": 120716,
       "word": "32岁男子或因急刹车致脑子漏水",
@@ -1177,6 +1217,14 @@
       "onboard_time": 1745645961,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 116618,
+      "num": 116618,
+      "word": "章若楠孟子义周洁琼定档海报",
+      "onboard_time": 1745649440,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 116467,
@@ -1243,6 +1291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109252,
+      "num": 109252,
+      "word": "管乐运气",
+      "onboard_time": 1745649859,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108947,
       "num": 108608,
       "word": "淮水竹亭全员开大",
@@ -1257,6 +1313,14 @@
       "onboard_time": 1745640202,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 108575,
+      "num": 108575,
+      "word": "中国这片海一寸也不能丢",
+      "onboard_time": 1745649561,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107539,
@@ -1305,14 +1369,6 @@
       "onboard_time": 1745632942,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 102794,
-      "num": 102794,
-      "word": "KPL选手质感大片",
-      "onboard_time": 1745649080,
-      "rank": 48,
-      "category": "电竞"
     },
     {
       "raw_hot": 102608,
@@ -1387,6 +1443,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 93521,
+      "num": 361458,
+      "word": "特朗普给美联储主席起了一串绰号",
+      "onboard_time": 1745648660,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 93142,
       "num": 93142,
       "word": "背对背拥抱 牛马进行曲",
@@ -1457,6 +1521,14 @@
       "onboard_time": 1745630301,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 88267,
+      "num": 137383,
+      "word": "王一博排位赛稳定发挥",
+      "onboard_time": 1745649859,
+      "rank": 36,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 86517,
@@ -1691,6 +1763,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 51128,
+      "num": 229219,
+      "word": "湖人输球谁应该背锅",
+      "onboard_time": 1745648481,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 50442,
       "num": 276183,
       "word": "清华人是怎样诠释自强不息的",
@@ -1755,6 +1835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 42984,
+      "num": 593462,
+      "word": "数据折射流动中国蓬勃活力",
+      "onboard_time": 1745642421,
+      "rank": 2,
+      "category": "国内时政,财经"
+    },
+    {
       "raw_hot": 42635,
       "num": 53281,
       "word": "SM新男团自拍照",
@@ -1785,22 +1873,6 @@
       "onboard_time": 1745615174,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 38482,
-      "num": 593462,
-      "word": "数据折射流动中国蓬勃活力",
-      "onboard_time": 1745642421,
-      "rank": 2,
-      "category": "国内时政,财经"
-    },
-    {
-      "raw_hot": 37440,
-      "num": 304104,
-      "word": "特朗普给美联储主席起了一串绰号",
-      "onboard_time": 1745648660,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 36513,
@@ -1923,14 +1995,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 20381,
-      "num": 229219,
-      "word": "湖人输球谁应该背锅",
-      "onboard_time": 1745648481,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 19461,
       "num": 19461,
       "word": "新浪娱乐换了邓为苏易水头像",
@@ -1987,6 +2051,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 9202,
+      "num": 188929,
+      "word": "梁博新专辑精气神想表达什么",
+      "onboard_time": 1745649743,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 9056,
       "num": 38011,
       "word": "超1.2亿人次享受以旧换新补贴",
@@ -2001,6 +2073,14 @@
       "onboard_time": 1745641883,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 8421,
+      "num": 527501,
+      "word": "科技之光点亮中国之美",
+      "onboard_time": 1745649743,
+      "rank": 2,
+      "category": "正能量"
     },
     {
       "raw_hot": 6978,
