@@ -1,6 +1,6 @@
 {
   "startTime": 1745598635164,
-  "endTime": 1745659439189,
+  "endTime": 1745660251709,
   "band_list": [
     {
       "raw_hot": 3420165,
@@ -147,6 +147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 757432,
+      "num": 1121189,
+      "word": "刘诗诗cos水兵月",
+      "onboard_time": 1745657061,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 750548,
       "num": 750548,
       "word": "多地宣布发钱奖励结婚",
@@ -161,14 +169,6 @@
       "onboard_time": 1745630060,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 690514,
-      "num": 1110482,
-      "word": "刘诗诗cos水兵月",
-      "onboard_time": 1745657061,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 633269,
@@ -211,6 +211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 589764,
+      "num": 589764,
+      "word": "香港排队等候时吸烟将罚3000港元",
+      "onboard_time": 1745654661,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 566183,
       "num": 252313,
       "word": "韩安冉曝与婆婆聊天记录",
@@ -227,19 +235,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 561166,
+      "num": 208727,
+      "word": "你意想不到的两个人在一起了",
+      "onboard_time": 1745654182,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 553489,
       "num": 256119,
       "word": "西安一中学生遭霸凌被同学割伤脸",
       "onboard_time": 1745592261,
       "rank": 13,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 552685,
-      "num": 552685,
-      "word": "香港排队等候时吸烟将罚3000港元",
-      "onboard_time": 1745654661,
-      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -265,14 +273,6 @@
       "onboard_time": 1745630960,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 531045,
-      "num": 208727,
-      "word": "你意想不到的两个人在一起了",
-      "onboard_time": 1745654182,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 517308,
@@ -419,6 +419,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 350589,
+      "num": 166008,
+      "word": "张拿铁 要不然下点毒呢",
+      "onboard_time": 1745657480,
+      "rank": 30,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 346730,
+      "num": 543846,
+      "word": "五一大量外国人涌入中国",
+      "onboard_time": 1745656701,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 331678,
       "num": 276523,
       "word": "李心月向杨颖道歉",
@@ -440,6 +456,14 @@
       "word": "美24岁前童星去世时已怀有身孕",
       "onboard_time": 1745593822,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 322102,
+      "num": 206666,
+      "word": "陈妍希工作室回应与帅哥聚餐",
+      "onboard_time": 1745656280,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -499,28 +523,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 293891,
-      "num": 543846,
-      "word": "五一大量外国人涌入中国",
-      "onboard_time": 1745656701,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 293642,
       "num": 293642,
       "word": "只有师范生才知道她有多强",
       "onboard_time": 1745636541,
       "rank": 36,
       "category": "教育"
-    },
-    {
-      "raw_hot": 287856,
-      "num": 206666,
-      "word": "陈妍希工作室回应与帅哥聚餐",
-      "onboard_time": 1745656280,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 286872,
@@ -571,6 +579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 262264,
+      "num": 163943,
+      "word": "首尔偶遇李昀锐买衣服",
+      "onboard_time": 1745659881,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 261118,
       "num": 261078,
       "word": "小小的我为什么全网无路透照",
@@ -617,14 +633,6 @@
       "onboard_time": 1745642181,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 238186,
-      "num": 126170,
-      "word": "张拿铁 要不然下点毒呢",
-      "onboard_time": 1745657480,
-      "rank": 30,
-      "category": "网红"
     },
     {
       "raw_hot": 237860,
@@ -724,7 +732,7 @@
     },
     {
       "raw_hot": 204355,
-      "num": 126090,
+      "num": 159841,
       "word": "侃爷说不该和金卡戴珊生孩子",
       "onboard_time": 1745657301,
       "rank": 31,
@@ -955,12 +963,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166706,
+      "num": 166706,
+      "word": "十个勤天大棚",
+      "onboard_time": 1745658021,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166566,
       "num": 166566,
       "word": "五哈",
       "onboard_time": 1745644462,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165962,
+      "num": 165962,
+      "word": "李惠利IU金惠允投票",
+      "onboard_time": 1745659222,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 164716,
@@ -1011,6 +1035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159253,
+      "num": 159253,
+      "word": "朱珠出发图",
+      "onboard_time": 1745657962,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158829,
       "num": 220829,
       "word": "沈月超绝不经意露出姐姐送我的竹节杯",
@@ -1059,14 +1091,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 154281,
-      "num": 154281,
-      "word": "十个勤天大棚",
-      "onboard_time": 1745658021,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 153115,
       "num": 153115,
       "word": "邓家佳坏了这可是我的强项",
@@ -1105,14 +1129,6 @@
       "onboard_time": 1745642783,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 149475,
-      "num": 149475,
-      "word": "朱珠出发图",
-      "onboard_time": 1745657962,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 149406,
@@ -1371,6 +1387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127021,
+      "num": 127021,
+      "word": "赴港旅客带超19支烟将罚5000港元",
+      "onboard_time": 1745657180,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126597,
       "num": 126597,
       "word": "榜上佳婿",
@@ -1419,22 +1443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 124608,
-      "num": 124608,
-      "word": "赴港旅客带超19支烟将罚5000港元",
-      "onboard_time": 1745657180,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 123537,
-      "num": 123537,
-      "word": "李惠利IU金惠允投票",
-      "onboard_time": 1745659222,
-      "rank": 35,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 123502,
       "num": 117217,
       "word": "孔雪儿娇纵却实在美丽",
@@ -1475,12 +1483,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121398,
+      "num": 121398,
+      "word": "贵州 你管这叫漂流啊",
+      "onboard_time": 1745658680,
+      "rank": 42,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 120716,
       "num": 120716,
       "word": "32岁男子或因急刹车致脑子漏水",
       "onboard_time": 1745624658,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120549,
+      "num": 126519,
+      "word": "王一博迎接正赛",
+      "onboard_time": 1745658982,
+      "rank": 44,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 119947,
@@ -1587,6 +1611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114348,
+      "num": 114348,
+      "word": "唐国强已读乱回",
+      "onboard_time": 1745659581,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114309,
       "num": 114309,
       "word": "重庆大学生在玩新的社会实践",
@@ -1675,6 +1707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 107214,
+      "num": 209900,
+      "word": "美债大跌如何拿捏住特朗普",
+      "onboard_time": 1745658261,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 105830,
       "num": 105830,
       "word": "刘诗诗最强总控东方淮竹在此",
@@ -1747,14 +1787,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 99986,
-      "num": 99986,
-      "word": "贵州 你管这叫漂流啊",
-      "onboard_time": 1745658680,
-      "rank": 42,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 99628,
       "num": 99628,
       "word": "一代人有一代人的捡破烂方式",
@@ -1787,20 +1819,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98051,
+      "num": 98051,
+      "word": "为什么能听到楼上声响但听不到楼下的",
+      "onboard_time": 1745659521,
+      "rank": 39,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 97840,
       "num": 97840,
       "word": "无尽的尽头亲爹后妈密谋害娃",
       "onboard_time": 1745658380,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 97626,
-      "num": 97626,
-      "word": "王一博迎接正赛",
-      "onboard_time": 1745658982,
-      "rank": 44,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 96002,
@@ -1817,6 +1849,14 @@
       "onboard_time": 1745655801,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 95241,
+      "num": 212268,
+      "word": "刘浩存邀你在青岛寻找自己的小红花",
+      "onboard_time": 1745658741,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 93894,
@@ -2075,16 +2115,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 76543,
-      "num": 212268,
-      "word": "刘浩存邀你在青岛寻找自己的小红花",
-      "onboard_time": 1745658741,
-      "rank": 9,
-      "category": "电影"
+      "raw_hot": 76654,
+      "num": 76654,
+      "word": "梦之队变身散装航海家",
+      "onboard_time": 1745660060,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 76347,
-      "num": 93394,
+      "num": 160395,
       "word": "东风着陆场各项准备就绪",
       "onboard_time": 1745655200,
       "rank": 45,
@@ -2161,6 +2201,14 @@
       "onboard_time": 1745651121,
       "rank": 18,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 66881,
+      "num": 207030,
+      "word": "50岁后勤阿姨示范攀绳看呆特警",
+      "onboard_time": 1745658201,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 66583,
@@ -2307,14 +2355,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 44153,
-      "num": 207030,
-      "word": "50岁后勤阿姨示范攀绳看呆特警",
-      "onboard_time": 1745658201,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 43991,
       "num": 43991,
       "word": "张常宁担任江苏女排教练组成员",
@@ -2385,14 +2425,6 @@
       "onboard_time": 1745649743,
       "rank": 2,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 36048,
-      "num": 209900,
-      "word": "美债大跌如何拿捏住特朗普",
-      "onboard_time": 1745658261,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 34585,
@@ -2556,7 +2588,7 @@
     },
     {
       "raw_hot": 21407,
-      "num": 124681,
+      "num": 165461,
       "word": "洛阳在推广牡丹文化上有哪些创新举措",
       "onboard_time": 1745659340,
       "rank": 33,

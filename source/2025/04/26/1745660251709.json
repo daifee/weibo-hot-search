@@ -1,0 +1,410 @@
+{
+  "runTime": 1745660251709,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 757432,
+        "num": 1121189,
+        "word": "刘诗诗cos水兵月",
+        "onboard_time": 1745657061,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 589764,
+        "num": 589764,
+        "word": "香港排队等候时吸烟将罚3000港元",
+        "onboard_time": 1745654661,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 346730,
+        "num": 523941,
+        "word": "五一大量外国人涌入中国",
+        "onboard_time": 1745656701,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 470516,
+        "num": 470516,
+        "word": "马斯克和美财长在白宫大吵狂飙脏话",
+        "onboard_time": 1745645421,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 286848,
+        "num": 286848,
+        "word": "王一博过弯",
+        "onboard_time": 1745642181,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193003,
+        "num": 193003,
+        "word": "青岛地铁口5平米土地无人认领",
+        "onboard_time": 1745643800,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265431,
+        "num": 189981,
+        "word": "卢昱晓笑场",
+        "onboard_time": 1745654241,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182865,
+        "num": 182865,
+        "word": "马斯克不到100天砍掉自己1500亿身家",
+        "onboard_time": 1745647221,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 166706,
+        "num": 166706,
+        "word": "十个勤天大棚",
+        "onboard_time": 1745658021,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152851,
+        "num": 166696,
+        "word": "日本大爷坠入坑中3个月仍未获救",
+        "onboard_time": 1745632400,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 580291,
+        "num": 166587,
+        "word": "论文致恨",
+        "onboard_time": 1745654061,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 561166,
+        "num": 166519,
+        "word": "你意想不到的两个人在一起了",
+        "onboard_time": 1745654182,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 502915,
+        "num": 166422,
+        "word": "28岁女儿回应48岁妈妈怀孕",
+        "onboard_time": 1745650701,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 496414,
+        "num": 166301,
+        "word": "10泡尿毁了数万跑者的盛大赛事",
+        "onboard_time": 1745630060,
+        "rank": 13,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 473094,
+        "num": 166246,
+        "word": "警方回应蓝猫疑被砍断四肢",
+        "onboard_time": 1745651482,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 463115,
+        "num": 166141,
+        "word": "小S原来是个形容词啊",
+        "onboard_time": 1745654421,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45428,
+        "num": 166074,
+        "word": "总要喝一次世界金奖白啤吧",
+        "onboard_time": 1745654661,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 350589,
+        "num": 166008,
+        "word": "张拿铁 要不然下点毒呢",
+        "onboard_time": 1745657480,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 165962,
+        "num": 165962,
+        "word": "李惠利IU金惠允投票",
+        "onboard_time": 1745659222,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 16004,
+        "num": 165461,
+        "word": "洛阳在推广牡丹文化上有哪些创新举措",
+        "onboard_time": 1745659340,
+        "rank": 19,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 322102,
+        "num": 164896,
+        "word": "陈妍希工作室回应与帅哥聚餐",
+        "onboard_time": 1745656280,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262264,
+        "num": 163943,
+        "word": "首尔偶遇李昀锐买衣服",
+        "onboard_time": 1745659881,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246535,
+        "num": 162914,
+        "word": "章子怡张雪迎素颜合照",
+        "onboard_time": 1745650701,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199040,
+        "num": 162041,
+        "word": "王宝强在张杰演唱会打拳",
+        "onboard_time": 1745656762,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 43637,
+        "num": 160395,
+        "word": "东风着陆场各项准备就绪",
+        "onboard_time": 1745655200,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 189040,
+        "num": 159841,
+        "word": "侃爷说不该和金卡戴珊生孩子",
+        "onboard_time": 1745657301,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159253,
+        "num": 159253,
+        "word": "朱珠出发图",
+        "onboard_time": 1745657962,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147512,
+        "num": 147512,
+        "word": "何老师跳了晚安大小姐",
+        "onboard_time": 1745645061,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127021,
+        "num": 127021,
+        "word": "赴港旅客带超19支烟将罚5000港元",
+        "onboard_time": 1745657180,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120549,
+        "num": 126519,
+        "word": "王一博迎接正赛",
+        "onboard_time": 1745658982,
+        "rank": 29,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 107214,
+        "num": 126324,
+        "word": "美债大跌如何拿捏住特朗普",
+        "onboard_time": 1745658261,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 126296,
+        "num": 126296,
+        "word": "南方有自己的限定水果",
+        "onboard_time": 1745658982,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121398,
+        "num": 121398,
+        "word": "贵州 你管这叫漂流啊",
+        "onboard_time": 1745658680,
+        "rank": 32,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 95241,
+        "num": 118115,
+        "word": "刘浩存邀你在青岛寻找自己的小红花",
+        "onboard_time": 1745658741,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 117925,
+        "num": 117925,
+        "word": "学历能决定一个人的素质吗",
+        "onboard_time": 1745655741,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 116454,
+        "num": 116454,
+        "word": "justsu求票",
+        "onboard_time": 1745658140,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 114348,
+        "num": 114348,
+        "word": "唐国强已读乱回",
+        "onboard_time": 1745659581,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111712,
+        "num": 111712,
+        "word": "榜上佳婿穿帮镜头",
+        "onboard_time": 1745657242,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112734,
+        "num": 110839,
+        "word": "最近少穿这些颜色衣服出门",
+        "onboard_time": 1745648541,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98051,
+        "num": 98051,
+        "word": "为什么能听到楼上声响但听不到楼下的",
+        "onboard_time": 1745659521,
+        "rank": 39,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 66881,
+        "num": 97803,
+        "word": "50岁后勤阿姨示范攀绳看呆特警",
+        "onboard_time": 1745658201,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97725,
+        "num": 97725,
+        "word": "落花时节又逢君",
+        "onboard_time": 1745637142,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96247,
+        "num": 96247,
+        "word": "一念江南",
+        "onboard_time": 1745652022,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88895,
+        "num": 88895,
+        "word": "华表奖提名",
+        "onboard_time": 1745637381,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 87526,
+        "num": 87526,
+        "word": "一代人有一代人的捡破烂方式",
+        "onboard_time": 1745656701,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82590,
+        "num": 82590,
+        "word": "中国排面亮相越南",
+        "onboard_time": 1745651482,
+        "rank": 45,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 78327,
+        "num": 78327,
+        "word": "多地宣布发钱奖励结婚",
+        "onboard_time": 1745637561,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77305,
+        "num": 77305,
+        "word": "刘学义花神造型",
+        "onboard_time": 1745655441,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76654,
+        "num": 76654,
+        "word": "梦之队变身散装航海家",
+        "onboard_time": 1745660060,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 75737,
+        "num": 75737,
+        "word": "特朗普梵蒂冈之行的真正目的",
+        "onboard_time": 1745654541,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#牢牢掌握人工智能发展和治理主动权#"
+    }
+  }
+}
