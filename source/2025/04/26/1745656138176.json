@@ -1,0 +1,410 @@
+{
+  "runTime": 1745656138176,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 631542,
+        "num": 1101046,
+        "word": "马斯克和美财长在白宫大吵狂飙脏话",
+        "onboard_time": 1745645421,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 466953,
+        "num": 466953,
+        "word": "王一博过弯",
+        "onboard_time": 1745642181,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22381,
+        "num": 462459,
+        "word": "高质量发展中国行",
+        "onboard_time": 1745641522,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 461677,
+        "num": 461677,
+        "word": "卢昱晓笑场",
+        "onboard_time": 1745654241,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278141,
+        "num": 278141,
+        "word": "青岛地铁口5平米土地无人认领",
+        "onboard_time": 1745643800,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232985,
+        "num": 232985,
+        "word": "马斯克不到100天砍掉自己1500亿身家",
+        "onboard_time": 1745647221,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 298196,
+        "num": 227917,
+        "word": "一念江南",
+        "onboard_time": 1745652022,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286194,
+        "num": 227242,
+        "word": "何老师跳了晚安大小姐",
+        "onboard_time": 1745645061,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222051,
+        "num": 222051,
+        "word": "日本大爷坠入坑中3个月仍未获救",
+        "onboard_time": 1745632400,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 197596,
+        "num": 197596,
+        "word": "落花时节又逢君",
+        "onboard_time": 1745637142,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 941667,
+        "num": 197209,
+        "word": "警方回应蓝猫疑被砍断四肢",
+        "onboard_time": 1745651482,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 739322,
+        "num": 195834,
+        "word": "28岁女儿回应48岁妈妈怀孕",
+        "onboard_time": 1745650701,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 587603,
+        "num": 194866,
+        "word": "10泡尿毁了数万跑者的盛大赛事",
+        "onboard_time": 1745630060,
+        "rank": 12,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 60341,
+        "num": 192973,
+        "word": "总要喝一次世界金奖白啤吧",
+        "onboard_time": 1745654661,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141464,
+        "num": 192485,
+        "word": "特朗普梵蒂冈之行的真正目的",
+        "onboard_time": 1745654541,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 191207,
+        "num": 191207,
+        "word": "多地宣布发钱奖励结婚",
+        "onboard_time": 1745637561,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 549361,
+        "num": 190746,
+        "word": "章子怡张雪迎素颜合照",
+        "onboard_time": 1745650701,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 448446,
+        "num": 190512,
+        "word": "小S原来是个形容词啊",
+        "onboard_time": 1745654421,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22192,
+        "num": 189345,
+        "word": "AI魔改视频仅需数元",
+        "onboard_time": 1745654601,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114392,
+        "num": 188883,
+        "word": "学历能决定一个人的素质吗",
+        "onboard_time": 1745655741,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 372288,
+        "num": 188092,
+        "word": "论文致恨",
+        "onboard_time": 1745654061,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 337306,
+        "num": 187570,
+        "word": "日本疯传东京将有8.3级地震",
+        "onboard_time": 1745649681,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 187291,
+        "num": 187291,
+        "word": "刘学义花神造型",
+        "onboard_time": 1745655441,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89009,
+        "num": 180194,
+        "word": "香港排队等候时吸烟将罚3000港元",
+        "onboard_time": 1745654661,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175248,
+        "num": 175248,
+        "word": "KPL有自己的KPI",
+        "onboard_time": 1745653821,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 176370,
+        "num": 173895,
+        "word": "你意想不到的两个人在一起了",
+        "onboard_time": 1745654182,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157016,
+        "num": 157016,
+        "word": "最近少穿这些颜色衣服出门",
+        "onboard_time": 1745648541,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151477,
+        "num": 151477,
+        "word": "VaVa身上痒就去洗澡",
+        "onboard_time": 1745653461,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139097,
+        "num": 139097,
+        "word": "于子洋张蔷举办婚礼",
+        "onboard_time": 1745649743,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136609,
+        "num": 136609,
+        "word": "迪丽热巴等到了最爱的狗血剧情",
+        "onboard_time": 1745646141,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125209,
+        "num": 125209,
+        "word": "路人偶遇马柏全",
+        "onboard_time": 1745653162,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123298,
+        "num": 123298,
+        "word": "专家称预言东京湾大地震可信度极低",
+        "onboard_time": 1745630481,
+        "rank": 31,
+        "category": "国际时政,国际时政"
+      },
+      {
+        "raw_hot": 117880,
+        "num": 117880,
+        "word": "90岁高颜值彝族奶奶火出圈",
+        "onboard_time": 1745642303,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115889,
+        "num": 115889,
+        "word": "卓沅在飞机上看到了自己的家",
+        "onboard_time": 1745653821,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125177,
+        "num": 113995,
+        "word": "迪丽热巴黑天鹅plog",
+        "onboard_time": 1745651662,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111454,
+        "num": 111454,
+        "word": "李惠利 百想",
+        "onboard_time": 1745644522,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107669,
+        "num": 107669,
+        "word": "孙颖莎祝张蔷于子洋新婚快乐",
+        "onboard_time": 1745651301,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106003,
+        "num": 106003,
+        "word": "付航没在脱口秀最好的时候上节目",
+        "onboard_time": 1745648902,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99617,
+        "num": 99617,
+        "word": "乐山巨响",
+        "onboard_time": 1745651421,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99326,
+        "num": 99326,
+        "word": "女子信男友有1000万存款被骗12万",
+        "onboard_time": 1745650941,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98388,
+        "num": 98388,
+        "word": "蒋梦婕在这个舞里下蛊了",
+        "onboard_time": 1745654120,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97800,
+        "num": 97800,
+        "word": "李连杰想脱离壹基金所有的公职",
+        "onboard_time": 1745652022,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96632,
+        "num": 96632,
+        "word": "现货黄金跌破3300美元关口",
+        "onboard_time": 1745652442,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 95679,
+        "num": 95679,
+        "word": "蔡徐坤直播突然被封",
+        "onboard_time": 1745596762,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95527,
+        "num": 95527,
+        "word": "风箫团建任务完成度好高",
+        "onboard_time": 1745655801,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 76347,
+        "num": 93394,
+        "word": "东风着陆场各项准备就绪",
+        "onboard_time": 1745655200,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 92652,
+        "num": 92652,
+        "word": "日本女乒主帅说要在世乒赛击败中国",
+        "onboard_time": 1745647880,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87958,
+        "num": 87958,
+        "word": "朝鲜新建驱逐舰入水",
+        "onboard_time": 1745652921,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 86702,
+        "num": 86702,
+        "word": "胡曼黎是孙俪演过最炸呼的角色",
+        "onboard_time": 1745653701,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86049,
+        "num": 86049,
+        "word": "淮水竹亭定档",
+        "onboard_time": 1745633661,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#一图速览中央政治局会议要点#"
+    }
+  }
+}

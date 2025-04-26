@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/26 15:35:45
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/26 16:28:58
 </p>
 </blockquote>
 <p>
@@ -4455,6 +4455,12 @@ THE9成员9人实到2人（热度：949717）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E8%93%9D%E7%8C%AB%E7%96%91%E8%A2%AB%E7%A0%8D%E6%96%AD%E5%9B%9B%E8%82%A2%23" target="weibo">
+警方回应蓝猫疑被砍断四肢（热度：941667）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%9E%E4%B9%A0%E5%B9%BC%E5%B8%88%E6%8A%93%E4%BC%A46%E5%B2%81%E5%B9%BC%E5%84%BF%E8%84%B8%E8%B5%94%E5%81%BF4%E4%B8%87%E5%85%83%23" target="weibo">
 实习幼师抓伤6岁幼儿脸赔偿4万元（热度：940881）
 </a>
@@ -6005,12 +6011,6 @@ YERI和Wendy离开SM（热度：805847）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%82%85%E9%A6%96%E5%B0%94%E5%9B%A0%E6%97%A0%E6%B3%95%E5%85%A5%E6%88%8F%E9%81%93%E6%AD%89%23" target="weibo">
 傅首尔因无法入戏道歉（热度：770907）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%B0%91%E5%A5%B3%E9%81%AD%E8%B4%A9%E5%8D%96%E9%80%83%E8%84%B1%E8%A2%AB%E8%AD%A6%E6%96%B9%E5%BC%BA%E5%88%B6%E9%80%81%E5%9B%9E%23" target="weibo">
-印度少女遭贩卖逃脱被警方强制送回（热度：770026）
 </a>
 </li>
 

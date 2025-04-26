@@ -1,6 +1,6 @@
 {
   "startTime": 1745598635164,
-  "endTime": 1745652945385,
+  "endTime": 1745656138176,
   "band_list": [
     {
       "raw_hot": 3420165,
@@ -73,6 +73,14 @@
       "onboard_time": 1745595501,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 941667,
+      "num": 197209,
+      "word": "警方回应蓝猫疑被砍断四肢",
+      "onboard_time": 1745651482,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 917779,
@@ -203,6 +211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 549361,
+      "num": 258395,
+      "word": "章子怡张雪迎素颜合照",
+      "onboard_time": 1745650701,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 541543,
       "num": 359706,
       "word": "韩安冉说她是照着Angelababy整的",
@@ -251,20 +267,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 478208,
-      "num": 258395,
-      "word": "章子怡张雪迎素颜合照",
-      "onboard_time": 1745650701,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 474108,
       "num": 254761,
       "word": "太原一美人鱼表演者表演时疑溺水",
       "onboard_time": 1745596402,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 466953,
+      "num": 466953,
+      "word": "王一博过弯",
+      "onboard_time": 1745642181,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 461677,
+      "num": 461677,
+      "word": "卢昱晓笑场",
+      "onboard_time": 1745654241,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 459256,
@@ -283,6 +307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 448446,
+      "num": 190512,
+      "word": "小S原来是个形容词啊",
+      "onboard_time": 1745654421,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 436482,
       "num": 436482,
       "word": "美国玩具公司起诉美国政府",
@@ -297,14 +329,6 @@
       "onboard_time": 1745641101,
       "rank": 23,
       "category": "时尚,艺人"
-    },
-    {
-      "raw_hot": 429028,
-      "num": 429028,
-      "word": "王一博过弯",
-      "onboard_time": 1745642181,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 425918,
@@ -353,6 +377,14 @@
       "onboard_time": 1745570901,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 372288,
+      "num": 188092,
+      "word": "论文致恨",
+      "onboard_time": 1745654061,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 351131,
@@ -427,6 +459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 298196,
+      "num": 227917,
+      "word": "一念江南",
+      "onboard_time": 1745652022,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 295179,
       "num": 295179,
       "word": "落花时节又逢君",
@@ -441,14 +481,6 @@
       "onboard_time": 1745636541,
       "rank": 36,
       "category": "教育"
-    },
-    {
-      "raw_hot": 290549,
-      "num": 194498,
-      "word": "警方回应蓝猫疑被砍断四肢",
-      "onboard_time": 1745651482,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 286872,
@@ -731,6 +763,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 187291,
+      "num": 187291,
+      "word": "刘学义花神造型",
+      "onboard_time": 1745655441,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187028,
       "num": 187028,
       "word": "Puff爆聊天记录",
@@ -755,20 +795,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 179200,
-      "num": 179200,
-      "word": "一念江南",
-      "onboard_time": 1745652022,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 178858,
       "num": 229113,
       "word": "你好星期六全员800个心眼子",
       "onboard_time": 1745640923,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 176370,
+      "num": 173895,
+      "word": "你意想不到的两个人在一起了",
+      "onboard_time": 1745654182,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 175248,
+      "num": 175248,
+      "word": "KPL有自己的KPI",
+      "onboard_time": 1745653821,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 172262,
@@ -947,6 +995,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 151477,
+      "num": 151477,
+      "word": "VaVa身上痒就去洗澡",
+      "onboard_time": 1745653461,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149547,
       "num": 188808,
       "word": "KPL游戏人生宣传片",
@@ -1048,6 +1104,14 @@
       "word": "特朗普给美联储主席起了一串绰号",
       "onboard_time": 1745648660,
       "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 141464,
+      "num": 192485,
+      "word": "特朗普梵蒂冈之行的真正目的",
+      "onboard_time": 1745654541,
+      "rank": 14,
       "category": "国际时政"
     },
     {
@@ -1219,6 +1283,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 125209,
+      "num": 125209,
+      "word": "路人偶遇马柏全",
+      "onboard_time": 1745653162,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125196,
       "num": 125196,
       "word": "詹姆斯半场22分",
@@ -1233,6 +1305,14 @@
       "onboard_time": 1745595322,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123298,
+      "num": 123298,
+      "word": "专家称预言东京湾大地震可信度极低",
+      "onboard_time": 1745630481,
+      "rank": 37,
+      "category": "国际时政,国际时政"
     },
     {
       "raw_hot": 122994,
@@ -1339,6 +1419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 115889,
+      "num": 115889,
+      "word": "卓沅在飞机上看到了自己的家",
+      "onboard_time": 1745653821,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115690,
       "num": 115690,
       "word": "奔跑吧",
@@ -1353,6 +1441,14 @@
       "onboard_time": 1745646442,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114392,
+      "num": 188883,
+      "word": "学历能决定一个人的素质吗",
+      "onboard_time": 1745655741,
+      "rank": 19,
+      "category": "教育"
     },
     {
       "raw_hot": 114309,
@@ -1507,6 +1603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 99617,
+      "num": 99617,
+      "word": "乐山巨响",
+      "onboard_time": 1745651421,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99468,
       "num": 99468,
       "word": "华为一季度中国手机市场份额第一",
@@ -1523,12 +1627,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 96253,
-      "num": 96253,
-      "word": "专家称预言东京湾大地震可信度极低",
-      "onboard_time": 1745630481,
-      "rank": 37,
-      "category": "国际时政,国际时政"
+      "raw_hot": 98388,
+      "num": 98388,
+      "word": "蒋梦婕在这个舞里下蛊了",
+      "onboard_time": 1745654120,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 96002,
@@ -1537,6 +1641,14 @@
       "onboard_time": 1745650342,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 95527,
+      "num": 95527,
+      "word": "风箫团建任务完成度好高",
+      "onboard_time": 1745655801,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 93894,
@@ -1643,12 +1755,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 89009,
+      "num": 180194,
+      "word": "香港排队等候时吸烟将罚3000港元",
+      "onboard_time": 1745654661,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88267,
       "num": 137383,
       "word": "王一博排位赛稳定发挥",
       "onboard_time": 1745649859,
       "rank": 36,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 86702,
+      "num": 86702,
+      "word": "胡曼黎是孙俪演过最炸呼的角色",
+      "onboard_time": 1745653701,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 86517,
@@ -1763,6 +1891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 76347,
+      "num": 93394,
+      "word": "东风着陆场各项准备就绪",
+      "onboard_time": 1745655200,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 75868,
       "num": 237048,
       "word": "一位丈夫绝笔信背后的爱与哀愁",
@@ -1865,6 +2001,14 @@
       "onboard_time": 1745641942,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 60341,
+      "num": 192973,
+      "word": "总要喝一次世界金奖白啤吧",
+      "onboard_time": 1745654661,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 57139,
@@ -2161,6 +2305,14 @@
       "onboard_time": 1745611815,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 22192,
+      "num": 189345,
+      "word": "AI魔改视频仅需数元",
+      "onboard_time": 1745654601,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22083,
