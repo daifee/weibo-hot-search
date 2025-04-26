@@ -1,6 +1,6 @@
 {
   "startTime": 1745598635164,
-  "endTime": 1745664052119,
+  "endTime": 1745666366778,
   "band_list": [
     {
       "raw_hot": 3420165,
@@ -27,12 +27,28 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 1515889,
+      "num": 311003,
+      "word": "网购避孕套被配送员骚扰",
+      "onboard_time": 1745665102,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1462967,
       "num": 412460,
       "word": "无忧渡女演员夏依丹被曝去世",
       "onboard_time": 1745632462,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1378342,
+      "num": 1194257,
+      "word": "日本精神小妹有多可怕",
+      "onboard_time": 1745658982,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1279243,
@@ -43,20 +59,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 1194257,
-      "num": 1194257,
-      "word": "日本精神小妹有多可怕",
-      "onboard_time": 1745658982,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 1190635,
       "num": 1190635,
       "word": "王菲去了谢霆锋演唱会",
       "onboard_time": 1745595501,
       "rank": 0,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1097222,
+      "num": 1175555,
+      "word": "比大熊猫更濒危的动物全国仅剩1只",
+      "onboard_time": 1745664141,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1043803,
@@ -116,7 +132,7 @@
     },
     {
       "raw_hot": 883971,
-      "num": 261696,
+      "num": 292917,
       "word": "28岁女儿回应48岁妈妈怀孕",
       "onboard_time": 1745650701,
       "rank": 10,
@@ -179,12 +195,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 693622,
+      "num": 693622,
+      "word": "央视曝光假非遗传承人是AI生成",
+      "onboard_time": 1745662580,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 680129,
-      "num": 256463,
+      "num": 299844,
       "word": "你意想不到的两个人在一起了",
       "onboard_time": 1745654182,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 643211,
+      "num": 643211,
+      "word": "任素汐新剧尺度",
+      "onboard_time": 1745664982,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 633269,
@@ -220,7 +252,7 @@
     },
     {
       "raw_hot": 602276,
-      "num": 255344,
+      "num": 303334,
       "word": "迅猛龙直播哭了",
       "onboard_time": 1745661801,
       "rank": 20,
@@ -284,7 +316,7 @@
     },
     {
       "raw_hot": 539014,
-      "num": 253364,
+      "num": 298301,
       "word": "首尔偶遇李昀锐买衣服",
       "onboard_time": 1745659881,
       "rank": 21,
@@ -329,6 +361,14 @@
       "onboard_time": 1745595501,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 497108,
+      "num": 308079,
+      "word": "吴宣仪 黑粉老是说我牙龅",
+      "onboard_time": 1745662701,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 478308,
@@ -436,11 +476,27 @@
     },
     {
       "raw_hot": 370358,
-      "num": 245681,
+      "num": 267817,
       "word": "侃爷说不该和金卡戴珊生孩子",
       "onboard_time": 1745657301,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 364421,
+      "num": 269347,
+      "word": "全款76万买到260平的房子",
+      "onboard_time": 1745664621,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 358429,
+      "num": 358429,
+      "word": "evisu 王一博",
+      "onboard_time": 1745663360,
+      "rank": 9,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 351131,
@@ -460,7 +516,7 @@
     },
     {
       "raw_hot": 346730,
-      "num": 543846,
+      "num": 789389,
       "word": "五一大量外国人涌入中国",
       "onboard_time": 1745656701,
       "rank": 2,
@@ -531,14 +587,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 305164,
-      "num": 305164,
-      "word": "央视曝光假非遗传承人是AI生成",
-      "onboard_time": 1745662580,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 303372,
       "num": 303372,
       "word": "中央巡视组进驻四川首虎落马",
@@ -572,7 +620,7 @@
     },
     {
       "raw_hot": 296223,
-      "num": 244255,
+      "num": 282390,
       "word": "王祖贤现身上海",
       "onboard_time": 1745660961,
       "rank": 25,
@@ -609,14 +657,6 @@
       "onboard_time": 1745643143,
       "rank": 15,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 286775,
-      "num": 257927,
-      "word": "evisu 王一博",
-      "onboard_time": 1745663360,
-      "rank": 9,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 284653,
@@ -683,6 +723,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 255172,
+      "num": 255172,
+      "word": "发现了韩国人来中国的秘密",
+      "onboard_time": 1745664621,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 252987,
       "num": 252987,
       "word": "念无双中疑有加拿大一枝黄花入镜",
@@ -713,6 +761,14 @@
       "onboard_time": 1745592202,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 237244,
+      "num": 237244,
+      "word": "刘烨太瘦了",
+      "onboard_time": 1745665340,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 229231,
@@ -779,14 +835,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 211644,
-      "num": 238538,
-      "word": "吴宣仪 黑粉老是说我牙龅",
-      "onboard_time": 1745662701,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 210772,
       "num": 231176,
       "word": "刘宇宁哽咽感谢杨坤的帮助",
@@ -809,6 +857,14 @@
       "onboard_time": 1745656762,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 205544,
+      "num": 205544,
+      "word": "杨紫杭州活动",
+      "onboard_time": 1745665761,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 204084,
@@ -849,6 +905,14 @@
       "onboard_time": 1745594783,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 196923,
+      "num": 196923,
+      "word": "王一博获得GT3AM组冠军",
+      "onboard_time": 1745665822,
+      "rank": 28,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 196355,
@@ -987,6 +1051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 180589,
+      "num": 268389,
+      "word": "林志玲薄纱珠帘礼裙",
+      "onboard_time": 1745665881,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 178858,
       "num": 229113,
       "word": "你好星期六全员800个心眼子",
@@ -1009,6 +1081,14 @@
       "onboard_time": 1745647880,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 171235,
+      "num": 171235,
+      "word": "周深上班怎么这么开心",
+      "onboard_time": 1745665281,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 171167,
@@ -1049,6 +1129,14 @@
       "onboard_time": 1745632400,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167474,
+      "num": 167474,
+      "word": "大唐辟珠记",
+      "onboard_time": 1745660961,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 167399,
@@ -1203,6 +1291,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 155423,
+      "num": 155423,
+      "word": "落花女主是胡意旋",
+      "onboard_time": 1745664382,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154335,
       "num": 154335,
       "word": "花3万雇人扔空整个家",
@@ -1241,6 +1337,14 @@
       "onboard_time": 1745649321,
       "rank": 28,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 152719,
+      "num": 152719,
+      "word": "你读过什么冷门但含金量极高的书",
+      "onboard_time": 1745664621,
+      "rank": 33,
+      "category": "读书作家"
     },
     {
       "raw_hot": 152339,
@@ -1291,6 +1395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147929,
+      "num": 147929,
+      "word": "迪丽热巴挂脖背心",
+      "onboard_time": 1745664861,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 147593,
       "num": 147593,
       "word": "如鸢",
@@ -1329,6 +1441,14 @@
       "onboard_time": 1745627059,
       "rank": 28,
       "category": "作品衍生,综艺"
+    },
+    {
+      "raw_hot": 143771,
+      "num": 143771,
+      "word": "演员吴悦菡闻孩子脚丫致眼部感染",
+      "onboard_time": 1745664321,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 143699,
@@ -1419,14 +1539,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 137294,
-      "num": 137294,
-      "word": "大唐辟珠记",
-      "onboard_time": 1745660961,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 136785,
       "num": 136785,
       "word": "华表奖 赵丽颖",
@@ -1465,6 +1577,14 @@
       "onboard_time": 1745640261,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 131397,
+      "num": 131397,
+      "word": "秦岚蓝色露肩裙",
+      "onboard_time": 1745666002,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 130657,
@@ -1739,6 +1859,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 116064,
+      "num": 116064,
+      "word": "陈德容90年代就敢拍女性主义电影",
+      "onboard_time": 1745665822,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 115960,
       "num": 115960,
       "word": "卓沅在飞机上看到了自己的家",
@@ -1787,6 +1915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112833,
+      "num": 307062,
+      "word": "鸿星尔克纽约时代广场大屏飘红",
+      "onboard_time": 1745661801,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 111258,
       "num": 111258,
       "word": "侯佩岑满40减20",
@@ -1801,6 +1937,14 @@
       "onboard_time": 1745636600,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110536,
+      "num": 110536,
+      "word": "华晨宇在后台跟周传雄唱黄昏",
+      "onboard_time": 1745666122,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 110026,
@@ -2019,6 +2163,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 95142,
+      "num": 95142,
+      "word": "林志玲裙子上串了多少颗珠子",
+      "onboard_time": 1745666302,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 94449,
       "num": 94449,
       "word": "对话炒股11年赚6000万男子",
@@ -2131,6 +2283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 89767,
+      "num": 301729,
+      "word": "特朗普政府将恢复外国学生合法身份",
+      "onboard_time": 1745665340,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 89188,
       "num": 89188,
       "word": "王一博上海首战",
@@ -2171,14 +2331,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 87926,
-      "num": 256733,
-      "word": "鸿星尔克纽约时代广场大屏飘红",
-      "onboard_time": 1745661801,
-      "rank": 10,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 86994,
       "num": 86994,
       "word": "医生教你减重期间选主食",
@@ -2209,6 +2361,14 @@
       "onboard_time": 1745633422,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 84742,
+      "num": 121488,
+      "word": "怀念那个手机百花齐放的年代",
+      "onboard_time": 1745665340,
+      "rank": 39,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 84592,
@@ -2313,6 +2473,14 @@
       "onboard_time": 1745623638,
       "rank": 27,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 78027,
+      "num": 313559,
+      "word": "脑瘫女骑手谈选择成为母亲",
+      "onboard_time": 1745664801,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77857,
@@ -2785,6 +2953,14 @@
       "onboard_time": 1745656880,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 24314,
+      "num": 269626,
+      "word": "拥有手机对青少年真正意味着什么",
+      "onboard_time": 1745665521,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23111,
