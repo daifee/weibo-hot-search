@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745649896681,
+  "endTime": 1745652107548,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -963,6 +963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1177895,
+      "num": 1188463,
+      "word": "日本疯传东京将有8.3级地震",
+      "onboard_time": 1745649681,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1171909,
       "num": 1187505,
       "word": "孙坚又被偷了",
@@ -1569,6 +1577,14 @@
       "onboard_time": 1745197463,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 883971,
+      "num": 261696,
+      "word": "28岁女儿回应48岁妈妈怀孕",
+      "onboard_time": 1745650701,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 883461,
@@ -4083,6 +4099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 406138,
+      "num": 406138,
+      "word": "马斯克不到100天砍掉自己1500亿身家",
+      "onboard_time": 1745647221,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
       "raw_hot": 405856,
       "num": 405856,
       "word": "孙颖莎恭喜马龙",
@@ -4320,14 +4344,6 @@
       "word": "黄金价格",
       "onboard_time": 1745376682,
       "rank": 31,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 379314,
-      "num": 379314,
-      "word": "马斯克不到100天砍掉自己1500亿身家",
-      "onboard_time": 1745647221,
-      "rank": 8,
       "category": "财经"
     },
     {
@@ -5577,6 +5593,14 @@
       "onboard_time": 1745287761,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 299824,
+      "num": 258395,
+      "word": "章子怡张雪迎素颜合照",
+      "onboard_time": 1745650701,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 299472,
@@ -8036,7 +8060,7 @@
     },
     {
       "raw_hot": 209150,
-      "num": 192390,
+      "num": 200074,
       "word": "最近少穿这些颜色衣服出门",
       "onboard_time": 1745648541,
       "rank": 28,
@@ -8249,6 +8273,14 @@
       "onboard_time": 1745474901,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 204084,
+      "num": 229738,
+      "word": "迪丽热巴等到了最爱的狗血剧情",
+      "onboard_time": 1745646141,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 204029,
@@ -8515,6 +8547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200868,
+      "num": 200868,
+      "word": "迪丽热巴黑天鹅plog",
+      "onboard_time": 1745651662,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200778,
       "num": 459535,
       "word": "默沙东九价HPV疫苗男女均可接种",
@@ -8737,14 +8777,6 @@
       "onboard_time": 1745209224,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 198580,
-      "num": 229738,
-      "word": "迪丽热巴等到了最爱的狗血剧情",
-      "onboard_time": 1745646141,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 198348,
@@ -9163,6 +9195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193567,
+      "num": 193567,
+      "word": "付航没在脱口秀最好的时候上节目",
+      "onboard_time": 1745648902,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193394,
       "num": 193394,
       "word": "张凌赫你在用你的帅脸干什么",
@@ -9467,6 +9507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189798,
+      "num": 189798,
+      "word": "王一博请大家遵守观赛秩序",
+      "onboard_time": 1745651662,
+      "rank": 25,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 189724,
       "num": 189724,
       "word": "潘玮柏谁家好人演唱会一直提裤子",
@@ -9497,14 +9545,6 @@
       "onboard_time": 1745306601,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 188788,
-      "num": 188788,
-      "word": "付航没在脱口秀最好的时候上节目",
-      "onboard_time": 1745648902,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 188726,
@@ -9889,6 +9929,14 @@
       "onboard_time": 1745493141,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 183780,
+      "num": 183780,
+      "word": "于子洋张蔷举办婚礼",
+      "onboard_time": 1745649743,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 183736,
@@ -11489,6 +11537,14 @@
       "onboard_time": 1745463800,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 163273,
+      "num": 146006,
+      "word": "警方回应蓝猫疑被砍断四肢",
+      "onboard_time": 1745651482,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 163235,
@@ -13491,6 +13547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143699,
+      "num": 143446,
+      "word": "孙颖莎祝张蔷于子洋新婚快乐",
+      "onboard_time": 1745651301,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143630,
       "num": 143630,
       "word": "张凌赫批作业式读粉丝留言",
@@ -13745,6 +13809,14 @@
       "onboard_time": 1745310080,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 141819,
+      "num": 361458,
+      "word": "特朗普给美联储主席起了一串绰号",
+      "onboard_time": 1745648660,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 141762,
@@ -14299,14 +14371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 136657,
-      "num": 136657,
-      "word": "于子洋张蔷举办婚礼",
-      "onboard_time": 1745649743,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 136621,
       "num": 302863,
       "word": "被网红造谣性骚扰老板仍有三案子未宣判",
@@ -14593,14 +14657,6 @@
       "onboard_time": 1745194945,
       "rank": 46,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 133957,
-      "num": 133957,
-      "word": "日本疯传东京将有8.3级地震",
-      "onboard_time": 1745649681,
-      "rank": 38,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 133840,
@@ -15385,6 +15441,14 @@
       "onboard_time": 1745561301,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126219,
+      "num": 126219,
+      "word": "无忧渡迟雪vs致命游戏千里",
+      "onboard_time": 1745650521,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 126207,
@@ -16339,6 +16403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114263,
+      "num": 114263,
+      "word": "宋妍霏 把妹王",
+      "onboard_time": 1745651902,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114021,
       "num": 120620,
       "word": "搜狐视频播主大会",
@@ -16409,6 +16481,14 @@
       "onboard_time": 1745418384,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 112999,
+      "num": 112999,
+      "word": "管乐运气",
+      "onboard_time": 1745649859,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 112926,
@@ -16675,14 +16755,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 109252,
-      "num": 109252,
-      "word": "管乐运气",
-      "onboard_time": 1745649859,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 109132,
       "num": 109132,
       "word": "贾跃亭被任命为FF联席CEO",
@@ -16761,6 +16833,14 @@
       "onboard_time": 1745207602,
       "rank": 38,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 108422,
+      "num": 108422,
+      "word": "一念江南",
+      "onboard_time": 1745652022,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 108104,
@@ -17819,20 +17899,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 93521,
-      "num": 361458,
-      "word": "特朗普给美联储主席起了一串绰号",
-      "onboard_time": 1745648660,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 93444,
       "num": 304283,
       "word": "郭晶晶说冠军是新起点",
       "onboard_time": 1745219002,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93388,
+      "num": 253624,
+      "word": "父亲改造货车为女儿庆生",
+      "onboard_time": 1745650882,
+      "rank": 15,
+      "category": "正能量"
     },
     {
       "raw_hot": 93306,
@@ -17857,6 +17937,14 @@
       "onboard_time": 1745252959,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 93156,
+      "num": 255813,
+      "word": "女子信男友有1000万存款被骗12万",
+      "onboard_time": 1745650941,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93142,
@@ -20187,6 +20275,14 @@
       "category": "民生新闻,国内时政"
     },
     {
+      "raw_hot": 57261,
+      "num": 143311,
+      "word": "李连杰想脱离壹基金所有的公职",
+      "onboard_time": 1745652022,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 57139,
       "num": 229102,
       "word": "为什么周末要去河北",
@@ -21307,6 +21403,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 45540,
+      "num": 202444,
+      "word": "澳方称扑杀考拉是帮它们早点解脱",
+      "onboard_time": 1745651121,
+      "rank": 18,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 45453,
       "num": 45453,
       "word": "4AM春季赛第六周冠军",
@@ -21641,6 +21745,14 @@
       "onboard_time": 1745316441,
       "rank": 27,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 42225,
+      "num": 126836,
+      "word": "胡锡进评印度截流断水",
+      "onboard_time": 1745651721,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 42191,
@@ -22331,6 +22443,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 33998,
+      "num": 653909,
+      "word": "科技之光点亮中国之美",
+      "onboard_time": 1745649743,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 33923,
       "num": 135864,
       "word": "一字夹打造头包脸发型",
@@ -22627,6 +22747,14 @@
       "category": "国内时政,民生新闻"
     },
     {
+      "raw_hot": 29912,
+      "num": 130768,
+      "word": "朱一龙为拍好水下镜头训练2个月",
+      "onboard_time": 1745652082,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 29884,
       "num": 183765,
       "word": "古时城市名称有多绝",
@@ -22793,6 +22921,14 @@
       "onboard_time": 1745191640,
       "rank": 12,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 28095,
+      "num": 256306,
+      "word": "刘诗诗张云龙领衔群像侠情",
+      "onboard_time": 1745651062,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 28070,
@@ -23097,6 +23233,14 @@
       "onboard_time": 1745458881,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25137,
+      "num": 262618,
+      "word": "中国排面亮相越南",
+      "onboard_time": 1745651482,
+      "rank": 9,
+      "category": "军事"
     },
     {
       "raw_hot": 25072,
@@ -24347,6 +24491,14 @@
       "category": "科学科普,民生新闻"
     },
     {
+      "raw_hot": 15291,
+      "num": 202142,
+      "word": "新泽西州野火为何难以扑灭且迅速蔓延",
+      "onboard_time": 1745650941,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 15216,
       "num": 26152,
       "word": "遇见艺术",
@@ -25089,14 +25241,6 @@
       "onboard_time": 1745500883,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 8421,
-      "num": 527501,
-      "word": "科技之光点亮中国之美",
-      "onboard_time": 1745649743,
-      "rank": 2,
-      "category": "正能量"
     },
     {
       "raw_hot": 8414,
