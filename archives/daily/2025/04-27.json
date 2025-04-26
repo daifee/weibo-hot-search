@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1745687982626,
+  "endTime": 1745689035250,
   "band_list": [
     {
       "raw_hot": 2550222,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 390655,
-      "num": 374789,
+      "num": 375792,
       "word": "肖战追星和我们也没区别",
       "onboard_time": 1745684361,
       "rank": 16,
@@ -379,6 +379,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 74995,
+      "num": 85312,
+      "word": "无忧渡 赵娜",
+      "onboard_time": 1745687657,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 74850,
       "num": 150152,
       "word": "韩红演唱会嘉宾薛之谦",
@@ -451,12 +459,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 39907,
-      "num": 85312,
-      "word": "无忧渡 赵娜",
-      "onboard_time": 1745687657,
-      "rank": 48,
-      "category": "艺人"
+      "raw_hot": 30324,
+      "num": 62949,
+      "word": "迅猛龙直播哭了",
+      "onboard_time": 1745661801,
+      "rank": 49,
+      "category": "网红"
     },
     {
       "raw_hot": 29318,
