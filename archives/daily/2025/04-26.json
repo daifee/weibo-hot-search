@@ -1,6 +1,6 @@
 {
   "startTime": 1745598635164,
-  "endTime": 1745652107548,
+  "endTime": 1745652945385,
   "band_list": [
     {
       "raw_hot": 3420165,
@@ -35,20 +35,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1279243,
+      "num": 1279243,
+      "word": "日本疯传东京将有8.3级地震",
+      "onboard_time": 1745649681,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1190635,
       "num": 1190635,
       "word": "王菲去了谢霆锋演唱会",
       "onboard_time": 1745595501,
       "rank": 0,
       "category": "演出"
-    },
-    {
-      "raw_hot": 1177895,
-      "num": 1188463,
-      "word": "日本疯传东京将有8.3级地震",
-      "onboard_time": 1745649681,
-      "rank": 38,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1043803,
@@ -251,6 +251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 478208,
+      "num": 258395,
+      "word": "章子怡张雪迎素颜合照",
+      "onboard_time": 1745650701,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 474108,
       "num": 254761,
       "word": "太原一美人鱼表演者表演时疑溺水",
@@ -419,14 +427,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 299824,
-      "num": 258395,
-      "word": "章子怡张雪迎素颜合照",
-      "onboard_time": 1745650701,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 295179,
       "num": 295179,
       "word": "落花时节又逢君",
@@ -441,6 +441,14 @@
       "onboard_time": 1745636541,
       "rank": 36,
       "category": "教育"
+    },
+    {
+      "raw_hot": 290549,
+      "num": 194498,
+      "word": "警方回应蓝猫疑被砍断四肢",
+      "onboard_time": 1745651482,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 286872,
@@ -747,6 +755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179200,
+      "num": 179200,
+      "word": "一念江南",
+      "onboard_time": 1745652022,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178858,
       "num": 229113,
       "word": "你好星期六全员800个心眼子",
@@ -833,14 +849,6 @@
       "onboard_time": 1745642002,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 163273,
-      "num": 146006,
-      "word": "警方回应蓝猫疑被砍断四肢",
-      "onboard_time": 1745651482,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 162847,
@@ -1107,6 +1115,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 132598,
+      "num": 255813,
+      "word": "女子信男友有1000万存款被骗12万",
+      "onboard_time": 1745650941,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132566,
       "num": 132566,
       "word": "小明剑魔回应",
@@ -1219,6 +1235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122994,
+      "num": 176159,
+      "word": "李连杰想脱离壹基金所有的公职",
+      "onboard_time": 1745652022,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122902,
       "num": 122902,
       "word": "今年一季度全国结婚登记181万对",
@@ -1243,6 +1267,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 119827,
+      "num": 119827,
+      "word": "宋妍霏 把妹王",
+      "onboard_time": 1745651902,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119576,
       "num": 119576,
       "word": "暖暖Nikki星海的回响",
@@ -1265,6 +1297,14 @@
       "onboard_time": 1745630421,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 117726,
+      "num": 117726,
+      "word": "管乐运气",
+      "onboard_time": 1745649859,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 117057,
@@ -1323,27 +1363,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 114263,
-      "num": 114263,
-      "word": "宋妍霏 把妹王",
-      "onboard_time": 1745651902,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 113316,
       "num": 113316,
       "word": "刘宇宁张碧晨谁也不放过谁",
       "onboard_time": 1745645900,
       "rank": 48,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 112999,
-      "num": 112999,
-      "word": "管乐运气",
-      "onboard_time": 1745649859,
-      "rank": 47,
       "category": "综艺"
     },
     {
@@ -1395,14 +1419,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 108422,
-      "num": 108422,
-      "word": "一念江南",
-      "onboard_time": 1745652022,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 107539,
       "num": 107539,
       "word": "熬到凌晨三点看完的小说",
@@ -1449,6 +1465,14 @@
       "onboard_time": 1745632942,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 103091,
+      "num": 103091,
+      "word": "现货黄金跌破3300美元关口",
+      "onboard_time": 1745652442,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 102608,
@@ -1507,6 +1531,14 @@
       "category": "国际时政,国际时政"
     },
     {
+      "raw_hot": 96002,
+      "num": 96002,
+      "word": "只有奶牛猫肯坐这个顺风车了",
+      "onboard_time": 1745650342,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 93894,
       "num": 93894,
       "word": "终于直观见识到卢昱晓演技",
@@ -1531,20 +1563,20 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 93156,
-      "num": 255813,
-      "word": "女子信男友有1000万存款被骗12万",
-      "onboard_time": 1745650941,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 93142,
       "num": 93142,
       "word": "背对背拥抱 牛马进行曲",
       "onboard_time": 1745639301,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 92895,
+      "num": 92895,
+      "word": "朝鲜新建驱逐舰入水",
+      "onboard_time": 1745652921,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 92699,
@@ -1787,6 +1819,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68250,
+      "num": 202444,
+      "word": "澳方称扑杀考拉是帮它们早点解脱",
+      "onboard_time": 1745651121,
+      "rank": 18,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 66735,
+      "num": 262618,
+      "word": "中国排面亮相越南",
+      "onboard_time": 1745651482,
+      "rank": 9,
+      "category": "军事"
+    },
+    {
       "raw_hot": 66583,
       "num": 66583,
       "word": "EXO成员KAI开通微博",
@@ -1817,14 +1865,6 @@
       "onboard_time": 1745641942,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 57261,
-      "num": 143311,
-      "word": "李连杰想脱离壹基金所有的公职",
-      "onboard_time": 1745652022,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 57139,
@@ -1883,6 +1923,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 47100,
+      "num": 256306,
+      "word": "刘诗诗张云龙领衔群像侠情",
+      "onboard_time": 1745651062,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 46125,
       "num": 46125,
       "word": "徐锦江已向儿子交代后事",
@@ -1905,14 +1953,6 @@
       "onboard_time": 1745639661,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 45540,
-      "num": 202444,
-      "word": "澳方称扑杀考拉是帮它们早点解脱",
-      "onboard_time": 1745651121,
-      "rank": 18,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 44710,
@@ -1995,6 +2035,14 @@
       "category": "艺人,剧集"
     },
     {
+      "raw_hot": 36186,
+      "num": 653909,
+      "word": "科技之光点亮中国之美",
+      "onboard_time": 1745649743,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 34585,
       "num": 266039,
       "word": "姜文说年轻人多用脑子少用手机",
@@ -2003,12 +2051,12 @@
       "category": "电影,艺人"
     },
     {
-      "raw_hot": 33998,
-      "num": 653909,
-      "word": "科技之光点亮中国之美",
-      "onboard_time": 1745649743,
-      "rank": 2,
-      "category": "正能量"
+      "raw_hot": 32849,
+      "num": 177097,
+      "word": "美民众购物车里的东西一夜之间涨价",
+      "onboard_time": 1745652681,
+      "rank": 18,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 32786,
@@ -2059,14 +2107,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 28095,
-      "num": 256306,
-      "word": "刘诗诗张云龙领衔群像侠情",
-      "onboard_time": 1745651062,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 27826,
       "num": 27826,
       "word": "导演夸易烊千玺是难得的好演员",
@@ -2081,14 +2121,6 @@
       "onboard_time": 1745605156,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 25137,
-      "num": 262618,
-      "word": "中国排面亮相越南",
-      "onboard_time": 1745651482,
-      "rank": 9,
-      "category": "军事"
     },
     {
       "raw_hot": 24923,
