@@ -1,0 +1,410 @@
+{
+  "runTime": 1745645023669,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 794806,
+        "num": 1127168,
+        "word": "日本大爷坠入坑中3个月仍未获救",
+        "onboard_time": 1745632400,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 681124,
+        "num": 681124,
+        "word": "多地宣布发钱奖励结婚",
+        "onboard_time": 1745637561,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38482,
+        "num": 593462,
+        "word": "数据折射流动中国蓬勃活力",
+        "onboard_time": 1745642421,
+        "rank": 2,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 514182,
+        "num": 514182,
+        "word": "美媒警告未来几个月部分商品将消失",
+        "onboard_time": 1745641221,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 356924,
+        "num": 356924,
+        "word": "Jennie德国版芭莎封面",
+        "onboard_time": 1745641101,
+        "rank": 4,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 327346,
+        "num": 327346,
+        "word": "淮水竹亭定档",
+        "onboard_time": 1745633661,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 315238,
+        "num": 315238,
+        "word": "女子剧烈孕吐差点危及生命",
+        "onboard_time": 1745638101,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 301116,
+        "num": 301116,
+        "word": "孟子义跑到袜子破了都不知道",
+        "onboard_time": 1745642241,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286113,
+        "num": 286113,
+        "word": "王一博过弯",
+        "onboard_time": 1745642181,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197845,
+        "num": 284795,
+        "word": "美国玩具公司起诉美国政府",
+        "onboard_time": 1745643321,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 913536,
+        "num": 282535,
+        "word": "10泡尿毁了数万跑者的盛大赛事",
+        "onboard_time": 1745630060,
+        "rank": 10,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 547788,
+        "num": 278278,
+        "word": "蔡徐坤直播突然被封",
+        "onboard_time": 1745596762,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 537270,
+        "num": 276138,
+        "word": "韩安冉说她是照着Angelababy整的",
+        "onboard_time": 1745636721,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 525254,
+        "num": 274947,
+        "word": "深圳殉情男子岳母发声",
+        "onboard_time": 1745633782,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72823,
+        "num": 270768,
+        "word": "官方回应业主家阳台被认定安全出口",
+        "onboard_time": 1745643743,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269959,
+        "num": 269959,
+        "word": "四川甘孜4.9级地震",
+        "onboard_time": 1745643143,
+        "rank": 15,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 378465,
+        "num": 259241,
+        "word": "李濛 张檬",
+        "onboard_time": 1745633481,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287554,
+        "num": 250837,
+        "word": "邓超喊孙俪中午12点来五哈打脸",
+        "onboard_time": 1745642902,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137817,
+        "num": 238989,
+        "word": "青岛地铁口5平米土地无人认领",
+        "onboard_time": 1745643800,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19049,
+        "num": 232120,
+        "word": "日本坠坑司机救援面临哪些难点",
+        "onboard_time": 1745644281,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 328611,
+        "num": 217954,
+        "word": "王菲谢霆锋好甜",
+        "onboard_time": 1745627360,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 215747,
+        "num": 215747,
+        "word": "刘诗诗紫裙变装",
+        "onboard_time": 1745644041,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211998,
+        "num": 211998,
+        "word": "90岁高颜值彝族奶奶火出圈",
+        "onboard_time": 1745642303,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208068,
+        "num": 208068,
+        "word": "华表奖提名",
+        "onboard_time": 1745637381,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 70753,
+        "num": 207228,
+        "word": "全力詹回来了",
+        "onboard_time": 1745640802,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207102,
+        "num": 207102,
+        "word": "有剧拍出了受害者羞耻陷阱",
+        "onboard_time": 1745644820,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200047,
+        "num": 200047,
+        "word": "8旬老人无人赡养起诉2儿1女",
+        "onboard_time": 1745640261,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191728,
+        "num": 191728,
+        "word": "四川白玉地震",
+        "onboard_time": 1745642181,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188941,
+        "num": 188941,
+        "word": "谢娜一口气发了六条西游微博",
+        "onboard_time": 1745644222,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169439,
+        "num": 177181,
+        "word": "李嘉琦浪姐是真没白来",
+        "onboard_time": 1745636600,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173836,
+        "num": 173836,
+        "word": "李惠利 百想",
+        "onboard_time": 1745644522,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171104,
+        "num": 171104,
+        "word": "乌鸡白凤丸谁吃谁好用",
+        "onboard_time": 1745637261,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 60365,
+        "num": 168362,
+        "word": "无忧渡难怪哥哥要找弟弟",
+        "onboard_time": 1745641942,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166566,
+        "num": 166566,
+        "word": "五哈",
+        "onboard_time": 1745644462,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162847,
+        "num": 162847,
+        "word": "奶茶也能补气血",
+        "onboard_time": 1745643620,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163996,
+        "num": 161738,
+        "word": "侃爷希望与帕丽斯希尔顿生孩子",
+        "onboard_time": 1745642002,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157862,
+        "num": 157862,
+        "word": "无忧渡",
+        "onboard_time": 1745628980,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155601,
+        "num": 155601,
+        "word": "拆二代败光5套房近4000万成阶下囚",
+        "onboard_time": 1745628980,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155469,
+        "num": 155469,
+        "word": "华表奖",
+        "onboard_time": 1745642421,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 149525,
+        "num": 149525,
+        "word": "杨迪回应疑似在南京当小时工",
+        "onboard_time": 1745642002,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148486,
+        "num": 148486,
+        "word": "森林狼2比1湖人",
+        "onboard_time": 1745642722,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146456,
+        "num": 146456,
+        "word": "李心月向杨颖道歉",
+        "onboard_time": 1745644401,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145279,
+        "num": 145279,
+        "word": "落花时节又逢君",
+        "onboard_time": 1745637142,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141627,
+        "num": 141627,
+        "word": "美方称愿就关税与中方对话",
+        "onboard_time": 1745633721,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 141273,
+        "num": 141273,
+        "word": "邓超陈赫再现weare伐木累",
+        "onboard_time": 1745643561,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128860,
+        "num": 128860,
+        "word": "保剑锋何珈好结婚16周年",
+        "onboard_time": 1745641821,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128459,
+        "num": 128459,
+        "word": "Puff爆聊天记录",
+        "onboard_time": 1745640080,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 127083,
+        "num": 127083,
+        "word": "淮水竹亭圈外到底有谁在啊",
+        "onboard_time": 1745644641,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121009,
+        "num": 121009,
+        "word": "刘宇宁哽咽感谢杨坤的帮助",
+        "onboard_time": 1745640143,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119576,
+        "num": 119576,
+        "word": "暖暖Nikki星海的回响",
+        "onboard_time": 1745643382,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#一图速览中央政治局会议要点#"
+    }
+  }
+}

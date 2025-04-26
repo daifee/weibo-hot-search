@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745642611968,
+  "endTime": 1745645023669,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -3163,6 +3163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 514182,
+      "num": 514182,
+      "word": "美媒警告未来几个月部分商品将消失",
+      "onboard_time": 1745641221,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 512390,
       "num": 224153,
       "word": "徐冬冬只减120斤以上的肉肉",
@@ -5459,6 +5467,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 301116,
+      "num": 301116,
+      "word": "孟子义跑到袜子破了都不知道",
+      "onboard_time": 1745642241,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 301046,
       "num": 301046,
       "word": "恋与制作人",
@@ -5755,6 +5771,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 287554,
+      "num": 250837,
+      "word": "邓超喊孙俪中午12点来五哈打脸",
+      "onboard_time": 1745642902,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 287336,
       "num": 287336,
       "word": "万人请辞哈利波特魔法觉醒策划",
@@ -5777,6 +5801,14 @@
       "onboard_time": 1745564721,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 286113,
+      "num": 286113,
+      "word": "王一博过弯",
+      "onboard_time": 1745642181,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 286082,
@@ -6089,6 +6121,14 @@
       "onboard_time": 1745152467,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 269959,
+      "num": 269959,
+      "word": "四川甘孜4.9级地震",
+      "onboard_time": 1745643143,
+      "rank": 15,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 269030,
@@ -7627,6 +7667,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 215747,
+      "num": 215747,
+      "word": "刘诗诗紫裙变装",
+      "onboard_time": 1745644041,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 215737,
       "num": 215737,
       "word": "张杰的牙尖被话筒磕碎了",
@@ -7793,6 +7841,14 @@
       "onboard_time": 1745154986,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 211998,
+      "num": 211998,
+      "word": "90岁高颜值彝族奶奶火出圈",
+      "onboard_time": 1745642303,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 211982,
@@ -7993,6 +8049,14 @@
       "onboard_time": 1745305701,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 207102,
+      "num": 207102,
+      "word": "有剧拍出了受害者羞耻陷阱",
+      "onboard_time": 1745644820,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 206915,
@@ -8691,6 +8755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197845,
+      "num": 284795,
+      "word": "美国玩具公司起诉美国政府",
+      "onboard_time": 1745643321,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 197806,
       "num": 197806,
       "word": "权志龙新歌",
@@ -8809,14 +8881,6 @@
       "onboard_time": 1745399122,
       "rank": 37,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 196392,
-      "num": 259958,
-      "word": "王一博过弯",
-      "onboard_time": 1745642181,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 196355,
@@ -9361,6 +9425,14 @@
       "onboard_time": 1745549541,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188941,
+      "num": 188941,
+      "word": "谢娜一口气发了六条西游微博",
+      "onboard_time": 1745644222,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 188865,
@@ -10867,14 +10939,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 168416,
-      "num": 200982,
-      "word": "孟子义跑到袜子破了都不知道",
-      "onboard_time": 1745642241,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 168269,
       "num": 212852,
       "word": "金饰价格跌到1031元",
@@ -11033,6 +11097,14 @@
       "onboard_time": 1745407581,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166566,
+      "num": 166566,
+      "word": "五哈",
+      "onboard_time": 1745260396,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 166406,
@@ -11275,6 +11347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163996,
+      "num": 161738,
+      "word": "侃爷希望与帕丽斯希尔顿生孩子",
+      "onboard_time": 1745642002,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163868,
       "num": 163868,
       "word": "终于能跟我妈看同一个综艺了",
@@ -11377,6 +11457,14 @@
       "onboard_time": 1745307681,
       "rank": 38,
       "category": "网红"
+    },
+    {
+      "raw_hot": 162847,
+      "num": 162847,
+      "word": "奶茶也能补气血",
+      "onboard_time": 1745643620,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 162780,
@@ -11609,14 +11697,6 @@
       "onboard_time": 1745233882,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 160514,
-      "num": 298492,
-      "word": "美媒警告未来几个月部分商品将消失",
-      "onboard_time": 1745641221,
-      "rank": 40,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 160487,
@@ -12427,14 +12507,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 152442,
-      "num": 152442,
-      "word": "90岁高颜值彝族奶奶火出圈",
-      "onboard_time": 1745642303,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 152230,
       "num": 152230,
       "word": "檀健次说如果有好故事会演短剧",
@@ -12843,6 +12915,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 148486,
+      "num": 148486,
+      "word": "森林狼2比1湖人",
+      "onboard_time": 1745642722,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148446,
       "num": 148446,
       "word": "永生和永世不得超生我还是分得清的",
@@ -13025,6 +13105,14 @@
       "onboard_time": 1745330603,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 146456,
+      "num": 146456,
+      "word": "李心月向杨颖道歉",
+      "onboard_time": 1745644401,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 146327,
@@ -13579,6 +13667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141273,
+      "num": 141273,
+      "word": "邓超陈赫再现weare伐木累",
+      "onboard_time": 1745643561,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141062,
       "num": 197742,
       "word": "男子坚持两年终于拍到巨型昙花一现",
@@ -13745,14 +13841,6 @@
       "onboard_time": 1745150663,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 139559,
-      "num": 139559,
-      "word": "侃爷希望与帕丽斯希尔顿生孩子",
-      "onboard_time": 1745642002,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 139460,
@@ -13937,6 +14025,14 @@
       "onboard_time": 1745293762,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 137817,
+      "num": 238989,
+      "word": "青岛地铁口5平米土地无人认领",
+      "onboard_time": 1745643800,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137812,
@@ -14915,6 +15011,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 128860,
+      "num": 128860,
+      "word": "保剑锋何珈好结婚16周年",
+      "onboard_time": 1745641821,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128852,
       "num": 128852,
       "word": "金钟仁回归",
@@ -14940,7 +15044,7 @@
     },
     {
       "raw_hot": 128743,
-      "num": 128743,
+      "num": 207228,
       "word": "全力詹回来了",
       "onboard_time": 1745640802,
       "rank": 41,
@@ -15073,6 +15177,14 @@
       "onboard_time": 1745332942,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 127083,
+      "num": 127083,
+      "word": "淮水竹亭圈外到底有谁在啊",
+      "onboard_time": 1745644641,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 126656,
@@ -15673,6 +15785,14 @@
       "onboard_time": 1745134041,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 119576,
+      "num": 119576,
+      "word": "暖暖Nikki星海的回响",
+      "onboard_time": 1745643382,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 119558,
@@ -18651,6 +18771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72823,
+      "num": 270768,
+      "word": "官方回应业主家阳台被认定安全出口",
+      "onboard_time": 1745643743,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72809,
       "num": 480949,
       "word": "还得是奔驰展台",
@@ -19553,6 +19681,14 @@
       "onboard_time": 1745245282,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 60365,
+      "num": 168362,
+      "word": "无忧渡难怪哥哥要找弟弟",
+      "onboard_time": 1745641942,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 60269,
@@ -21547,6 +21683,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 38482,
+      "num": 593462,
+      "word": "数据折射流动中国蓬勃活力",
+      "onboard_time": 1745642421,
+      "rank": 2,
+      "category": "国内时政,财经"
+    },
+    {
       "raw_hot": 38409,
       "num": 512676,
       "word": "特朗普改口称无意解雇美联储主席",
@@ -22787,14 +22931,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 24263,
-      "num": 24263,
-      "word": "五哈",
-      "onboard_time": 1745260396,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 24080,
       "num": 140616,
       "word": "银魂永不完结",
@@ -23465,6 +23601,14 @@
       "onboard_time": 1745204063,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 19049,
+      "num": 232120,
+      "word": "日本坠坑司机救援面临哪些难点",
+      "onboard_time": 1745644281,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 18981,
@@ -24721,14 +24865,6 @@
       "onboard_time": 1745588483,
       "rank": 28,
       "category": "其它"
-    },
-    {
-      "raw_hot": 7276,
-      "num": 490130,
-      "word": "数据折射流动中国蓬勃活力",
-      "onboard_time": 1745642421,
-      "rank": 2,
-      "category": "国内时政,财经"
     },
     {
       "raw_hot": 7124,
