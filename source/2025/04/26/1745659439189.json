@@ -1,0 +1,410 @@
+{
+  "runTime": 1745659439189,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 690514,
+        "num": 1110482,
+        "word": "刘诗诗cos水兵月",
+        "onboard_time": 1745657061,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 552685,
+        "num": 552685,
+        "word": "香港排队等候时吸烟将罚3000港元",
+        "onboard_time": 1745654661,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293891,
+        "num": 543846,
+        "word": "五一大量外国人涌入中国",
+        "onboard_time": 1745656701,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 539664,
+        "num": 539664,
+        "word": "马斯克和美财长在白宫大吵狂飙脏话",
+        "onboard_time": 1745645421,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 316499,
+        "num": 316499,
+        "word": "卢昱晓笑场",
+        "onboard_time": 1745654241,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217065,
+        "num": 217065,
+        "word": "青岛地铁口5平米土地无人认领",
+        "onboard_time": 1745643800,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258841,
+        "num": 215422,
+        "word": "王一博过弯",
+        "onboard_time": 1745642181,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213179,
+        "num": 213179,
+        "word": "马斯克不到100天砍掉自己1500亿身家",
+        "onboard_time": 1745647221,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 155307,
+        "num": 213003,
+        "word": "日本大爷坠入坑中3个月仍未获救",
+        "onboard_time": 1745632400,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 76543,
+        "num": 212268,
+        "word": "刘浩存邀你在青岛寻找自己的小红花",
+        "onboard_time": 1745658741,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 633269,
+        "num": 212090,
+        "word": "论文致恨",
+        "onboard_time": 1745654061,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 555095,
+        "num": 211563,
+        "word": "警方回应蓝猫疑被砍断四肢",
+        "onboard_time": 1745651482,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59517,
+        "num": 211075,
+        "word": "总要喝一次世界金奖白啤吧",
+        "onboard_time": 1745654661,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 553587,
+        "num": 210426,
+        "word": "28岁女儿回应48岁妈妈怀孕",
+        "onboard_time": 1745650701,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36048,
+        "num": 209900,
+        "word": "美债大跌如何拿捏住特朗普",
+        "onboard_time": 1745658261,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 534482,
+        "num": 209125,
+        "word": "10泡尿毁了数万跑者的盛大赛事",
+        "onboard_time": 1745630060,
+        "rank": 15,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 531045,
+        "num": 208727,
+        "word": "你意想不到的两个人在一起了",
+        "onboard_time": 1745654182,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 530017,
+        "num": 208358,
+        "word": "小S原来是个形容词啊",
+        "onboard_time": 1745654421,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318207,
+        "num": 207894,
+        "word": "章子怡张雪迎素颜合照",
+        "onboard_time": 1745650701,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44153,
+        "num": 207030,
+        "word": "50岁后勤阿姨示范攀绳看呆特警",
+        "onboard_time": 1745658201,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287856,
+        "num": 206666,
+        "word": "陈妍希工作室回应与帅哥聚餐",
+        "onboard_time": 1745656280,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206385,
+        "num": 206385,
+        "word": "王宝强在张杰演唱会打拳",
+        "onboard_time": 1745656762,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 184494,
+        "num": 184494,
+        "word": "justsu求票",
+        "onboard_time": 1745658140,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 174706,
+        "num": 174706,
+        "word": "何老师跳了晚安大小姐",
+        "onboard_time": 1745645061,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154281,
+        "num": 154281,
+        "word": "十个勤天大棚",
+        "onboard_time": 1745658021,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152339,
+        "num": 152339,
+        "word": "南方有自己的限定水果",
+        "onboard_time": 1745658982,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149475,
+        "num": 149475,
+        "word": "朱珠出发图",
+        "onboard_time": 1745657962,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142683,
+        "num": 142683,
+        "word": "榜上佳婿穿帮镜头",
+        "onboard_time": 1745657242,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128028,
+        "num": 128028,
+        "word": "一念江南",
+        "onboard_time": 1745652022,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75560,
+        "num": 126517,
+        "word": "老人烈日下挖树根女子开挖掘机帮忙",
+        "onboard_time": 1745657660,
+        "rank": 29,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 238186,
+        "num": 126170,
+        "word": "张拿铁 要不然下点毒呢",
+        "onboard_time": 1745657480,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 204355,
+        "num": 126090,
+        "word": "侃爷说不该和金卡戴珊生孩子",
+        "onboard_time": 1745657301,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125754,
+        "num": 125754,
+        "word": "学历能决定一个人的素质吗",
+        "onboard_time": 1745655741,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 21407,
+        "num": 124681,
+        "word": "洛阳在推广牡丹文化上有哪些创新举措",
+        "onboard_time": 1745659340,
+        "rank": 33,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 124608,
+        "num": 124608,
+        "word": "赴港旅客带超19支烟将罚5000港元",
+        "onboard_time": 1745657180,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123537,
+        "num": 123537,
+        "word": "李惠利IU金惠允投票",
+        "onboard_time": 1745659222,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 116716,
+        "num": 116716,
+        "word": "最近少穿这些颜色衣服出门",
+        "onboard_time": 1745648541,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109421,
+        "num": 109421,
+        "word": "中国排面亮相越南",
+        "onboard_time": 1745651482,
+        "rank": 37,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 103758,
+        "num": 103758,
+        "word": "落花时节又逢君",
+        "onboard_time": 1745637142,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19020,
+        "num": 102498,
+        "word": "日本精神小妹有多可怕",
+        "onboard_time": 1745658982,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 101795,
+        "num": 101795,
+        "word": "杨洋空降青岛",
+        "onboard_time": 1745656161,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27590,
+        "num": 100171,
+        "word": "为何巴塞罗那小偷猖獗",
+        "onboard_time": 1745658081,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99986,
+        "num": 99986,
+        "word": "贵州 你管这叫漂流啊",
+        "onboard_time": 1745658680,
+        "rank": 42,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 97840,
+        "num": 97840,
+        "word": "无尽的尽头亲爹后妈密谋害娃",
+        "onboard_time": 1745658380,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97626,
+        "num": 97626,
+        "word": "王一博迎接正赛",
+        "onboard_time": 1745658982,
+        "rank": 44,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 97053,
+        "num": 97053,
+        "word": "华表奖提名",
+        "onboard_time": 1745637381,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 96265,
+        "num": 96265,
+        "word": "迪丽热巴黑天鹅plog",
+        "onboard_time": 1745651662,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95816,
+        "num": 95816,
+        "word": "刘学义花神造型",
+        "onboard_time": 1745655441,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94498,
+        "num": 94498,
+        "word": "多地宣布发钱奖励结婚",
+        "onboard_time": 1745637561,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93682,
+        "num": 93682,
+        "word": "特朗普梵蒂冈之行的真正目的",
+        "onboard_time": 1745654541,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动人工智能健康有序发展#"
+    }
+  }
+}

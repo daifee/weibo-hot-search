@@ -1,6 +1,6 @@
 {
   "startTime": 1745598635164,
-  "endTime": 1745656966224,
+  "endTime": 1745659439189,
   "band_list": [
     {
       "raw_hot": 3420165,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 941667,
-      "num": 197209,
+      "num": 211563,
       "word": "警方回应蓝猫疑被砍断四肢",
       "onboard_time": 1745651482,
       "rank": 30,
@@ -163,6 +163,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 690514,
+      "num": 1110482,
+      "word": "刘诗诗cos水兵月",
+      "onboard_time": 1745657061,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 633269,
+      "num": 212090,
+      "word": "论文致恨",
+      "onboard_time": 1745654061,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 632201,
       "num": 308480,
       "word": "复旦回应拟录取600万粉丝网红",
@@ -204,7 +220,7 @@
     },
     {
       "raw_hot": 565853,
-      "num": 193841,
+      "num": 208358,
       "word": "小S原来是个形容词啊",
       "onboard_time": 1745654421,
       "rank": 17,
@@ -216,6 +232,14 @@
       "word": "西安一中学生遭霸凌被同学割伤脸",
       "onboard_time": 1745592261,
       "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 552685,
+      "num": 552685,
+      "word": "香港排队等候时吸烟将罚3000港元",
+      "onboard_time": 1745654661,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -243,12 +267,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 530311,
-      "num": 190830,
-      "word": "论文致恨",
-      "onboard_time": 1745654061,
-      "rank": 20,
-      "category": "幽默"
+      "raw_hot": 531045,
+      "num": 208727,
+      "word": "你意想不到的两个人在一起了",
+      "onboard_time": 1745654182,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 517308,
@@ -475,12 +499,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 293891,
+      "num": 543846,
+      "word": "五一大量外国人涌入中国",
+      "onboard_time": 1745656701,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 293642,
       "num": 293642,
       "word": "只有师范生才知道她有多强",
       "onboard_time": 1745636541,
       "rank": 36,
       "category": "教育"
+    },
+    {
+      "raw_hot": 287856,
+      "num": 206666,
+      "word": "陈妍希工作室回应与帅哥聚餐",
+      "onboard_time": 1745656280,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 286872,
@@ -579,12 +619,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 239975,
-      "num": 239975,
-      "word": "香港排队等候时吸烟将罚3000港元",
-      "onboard_time": 1745654661,
-      "rank": 23,
-      "category": "民生新闻"
+      "raw_hot": 238186,
+      "num": 126170,
+      "word": "张拿铁 要不然下点毒呢",
+      "onboard_time": 1745657480,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 237860,
@@ -635,14 +675,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 221634,
-      "num": 188482,
-      "word": "你意想不到的两个人在一起了",
-      "onboard_time": 1745654182,
-      "rank": 25,
-      "category": "情感"
-    },
-    {
       "raw_hot": 218054,
       "num": 262434,
       "word": "美军工稀土储备仅够数月",
@@ -681,6 +713,22 @@
       "onboard_time": 1745648541,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 206385,
+      "num": 206385,
+      "word": "王宝强在张杰演唱会打拳",
+      "onboard_time": 1745656762,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 204355,
+      "num": 126090,
+      "word": "侃爷说不该和金卡戴珊生孩子",
+      "onboard_time": 1745657301,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 204084,
@@ -787,14 +835,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 187489,
-      "num": 187489,
-      "word": "陈妍希工作室回应与帅哥聚餐",
-      "onboard_time": 1745656280,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 187291,
       "num": 187291,
       "word": "刘学义花神造型",
@@ -817,6 +857,14 @@
       "onboard_time": 1745654541,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 184494,
+      "num": 184494,
+      "word": "justsu求票",
+      "onboard_time": 1745658140,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 183780,
@@ -1011,6 +1059,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 154281,
+      "num": 154281,
+      "word": "十个勤天大棚",
+      "onboard_time": 1745658021,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153115,
       "num": 153115,
       "word": "邓家佳坏了这可是我的强项",
@@ -1035,12 +1091,28 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 152339,
+      "num": 152339,
+      "word": "南方有自己的限定水果",
+      "onboard_time": 1745658982,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 149547,
       "num": 188808,
       "word": "KPL游戏人生宣传片",
       "onboard_time": 1745642783,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 149475,
+      "num": 149475,
+      "word": "朱珠出发图",
+      "onboard_time": 1745657962,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 149406,
@@ -1121,6 +1193,14 @@
       "onboard_time": 1745651301,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142683,
+      "num": 142683,
+      "word": "榜上佳婿穿帮镜头",
+      "onboard_time": 1745657242,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 141964,
@@ -1259,14 +1339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 129428,
-      "num": 129428,
-      "word": "王宝强在张杰演唱会打拳",
-      "onboard_time": 1745656762,
-      "rank": 33,
-      "category": "演出"
-    },
-    {
       "raw_hot": 128860,
       "num": 128860,
       "word": "保剑锋何珈好结婚16周年",
@@ -1323,6 +1395,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 125754,
+      "num": 188883,
+      "word": "学历能决定一个人的素质吗",
+      "onboard_time": 1745655741,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 125209,
       "num": 125209,
       "word": "路人偶遇马柏全",
@@ -1337,6 +1417,22 @@
       "onboard_time": 1745638460,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124608,
+      "num": 124608,
+      "word": "赴港旅客带超19支烟将罚5000港元",
+      "onboard_time": 1745657180,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123537,
+      "num": 123537,
+      "word": "李惠利IU金惠允投票",
+      "onboard_time": 1745659222,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 123502,
@@ -1491,14 +1587,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 114392,
-      "num": 188883,
-      "word": "学历能决定一个人的素质吗",
-      "onboard_time": 1745655741,
-      "rank": 19,
-      "category": "教育"
-    },
-    {
       "raw_hot": 114309,
       "num": 114309,
       "word": "重庆大学生在玩新的社会实践",
@@ -1537,6 +1625,14 @@
       "onboard_time": 1745635102,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 109421,
+      "num": 262618,
+      "word": "中国排面亮相越南",
+      "onboard_time": 1745651482,
+      "rank": 9,
+      "category": "军事"
     },
     {
       "raw_hot": 108947,
@@ -1651,6 +1747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 99986,
+      "num": 99986,
+      "word": "贵州 你管这叫漂流啊",
+      "onboard_time": 1745658680,
+      "rank": 42,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 99628,
       "num": 99628,
       "word": "一代人有一代人的捡破烂方式",
@@ -1681,6 +1785,22 @@
       "onboard_time": 1745654120,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 97840,
+      "num": 97840,
+      "word": "无尽的尽头亲爹后妈密谋害娃",
+      "onboard_time": 1745658380,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 97626,
+      "num": 97626,
+      "word": "王一博迎接正赛",
+      "onboard_time": 1745658982,
+      "rank": 44,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 96002,
@@ -1955,6 +2075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 76543,
+      "num": 212268,
+      "word": "刘浩存邀你在青岛寻找自己的小红花",
+      "onboard_time": 1745658741,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 76347,
       "num": 93394,
       "word": "东风着陆场各项准备就绪",
@@ -1977,6 +2105,14 @@
       "onboard_time": 1745617574,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 75560,
+      "num": 126517,
+      "word": "老人烈日下挖树根女子开挖掘机帮忙",
+      "onboard_time": 1745657660,
+      "rank": 29,
+      "category": "正能量"
     },
     {
       "raw_hot": 74276,
@@ -2027,14 +2163,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 66735,
-      "num": 262618,
-      "word": "中国排面亮相越南",
-      "onboard_time": 1745651482,
-      "rank": 9,
-      "category": "军事"
-    },
-    {
       "raw_hot": 66583,
       "num": 66583,
       "word": "EXO成员KAI开通微博",
@@ -2052,7 +2180,7 @@
     },
     {
       "raw_hot": 63554,
-      "num": 192973,
+      "num": 211075,
       "word": "总要喝一次世界金奖白啤吧",
       "onboard_time": 1745654661,
       "rank": 13,
@@ -2179,6 +2307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 44153,
+      "num": 207030,
+      "word": "50岁后勤阿姨示范攀绳看呆特警",
+      "onboard_time": 1745658201,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43991,
       "num": 43991,
       "word": "张常宁担任江苏女排教练组成员",
@@ -2249,6 +2385,14 @@
       "onboard_time": 1745649743,
       "rank": 2,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 36048,
+      "num": 209900,
+      "word": "美债大跌如何拿捏住特朗普",
+      "onboard_time": 1745658261,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 34585,
@@ -2331,6 +2475,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 27590,
+      "num": 100171,
+      "word": "为何巴塞罗那小偷猖獗",
+      "onboard_time": 1745658081,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25263,
       "num": 25263,
       "word": "如果我是西游编外PD",
@@ -2403,12 +2555,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 21599,
-      "num": 423897,
-      "word": "五一大量外国人涌入中国",
-      "onboard_time": 1745656701,
-      "rank": 2,
-      "category": "国内时政"
+      "raw_hot": 21407,
+      "num": 124681,
+      "word": "洛阳在推广牡丹文化上有哪些创新举措",
+      "onboard_time": 1745659340,
+      "rank": 33,
+      "category": "旅游"
     },
     {
       "raw_hot": 19461,
@@ -2424,6 +2576,14 @@
       "word": "日本坠坑司机救援面临哪些难点",
       "onboard_time": 1745644281,
       "rank": 19,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 19020,
+      "num": 102498,
+      "word": "日本精神小妹有多可怕",
+      "onboard_time": 1745658982,
+      "rank": 39,
       "category": "海外新闻"
     },
     {
@@ -2519,6 +2679,9 @@
     },
     {
       "word": "#牢牢掌握人工智能发展和治理主动权#"
+    },
+    {
+      "word": "#推动人工智能健康有序发展#"
     }
   ]
 }
