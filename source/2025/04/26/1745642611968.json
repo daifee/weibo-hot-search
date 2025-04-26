@@ -1,0 +1,410 @@
+{
+  "runTime": 1745642611968,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 912464,
+        "num": 1145994,
+        "word": "日本大爷坠入坑中3个月仍未获救",
+        "onboard_time": 1745632400,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 750548,
+        "num": 750548,
+        "word": "多地宣布发钱奖励结婚",
+        "onboard_time": 1745637561,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7276,
+        "num": 490130,
+        "word": "数据折射流动中国蓬勃活力",
+        "onboard_time": 1745642421,
+        "rank": 2,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 489060,
+        "num": 489060,
+        "word": "淮水竹亭定档",
+        "onboard_time": 1745633661,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 459256,
+        "num": 459256,
+        "word": "女子剧烈孕吐差点危及生命",
+        "onboard_time": 1745638101,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 434299,
+        "num": 434299,
+        "word": "Jennie德国版芭莎封面",
+        "onboard_time": 1745641101,
+        "rank": 5,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 312557,
+        "num": 312557,
+        "word": "华表奖提名",
+        "onboard_time": 1745637381,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 299293,
+        "num": 299293,
+        "word": "李嘉琦浪姐是真没白来",
+        "onboard_time": 1745636600,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160514,
+        "num": 298492,
+        "word": "美媒警告未来几个月部分商品将消失",
+        "onboard_time": 1745641221,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 240109,
+        "num": 297212,
+        "word": "四川白玉地震",
+        "onboard_time": 1745642181,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 816339,
+        "num": 295619,
+        "word": "10泡尿毁了数万跑者的盛大赛事",
+        "onboard_time": 1745630060,
+        "rank": 10,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 688081,
+        "num": 294884,
+        "word": "蔡徐坤直播突然被封",
+        "onboard_time": 1745596762,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 536639,
+        "num": 292826,
+        "word": "韩安冉说她是照着Angelababy整的",
+        "onboard_time": 1745636721,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292758,
+        "num": 292758,
+        "word": "美方称愿就关税与中方对话",
+        "onboard_time": 1745633721,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 502076,
+        "num": 286537,
+        "word": "深圳殉情男子岳母发声",
+        "onboard_time": 1745633782,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 420611,
+        "num": 281330,
+        "word": "李濛 张檬",
+        "onboard_time": 1745633481,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336737,
+        "num": 276676,
+        "word": "王菲谢霆锋好甜",
+        "onboard_time": 1745627360,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 253902,
+        "num": 266055,
+        "word": "落花时节又逢君",
+        "onboard_time": 1745637142,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265358,
+        "num": 265358,
+        "word": "8旬老人无人赡养起诉2儿1女",
+        "onboard_time": 1745640261,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8537,
+        "num": 263882,
+        "word": "水饺皇后臧姑娘是如何实现人生逆转的",
+        "onboard_time": 1745641883,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 2327585,
+        "num": 263486,
+        "word": "男子性侵初中女生致其怀孕不予立案",
+        "onboard_time": 1745633001,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196392,
+        "num": 259958,
+        "word": "王一博过弯",
+        "onboard_time": 1745642181,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80353,
+        "num": 258407,
+        "word": "李连杰复更微博",
+        "onboard_time": 1745642122,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24923,
+        "num": 257128,
+        "word": "高质量发展中国行",
+        "onboard_time": 1745641522,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 256069,
+        "num": 256069,
+        "word": "只有师范生才知道她有多强",
+        "onboard_time": 1745636541,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 252969,
+        "num": 252969,
+        "word": "乌鸡白凤丸谁吃谁好用",
+        "onboard_time": 1745637261,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 210772,
+        "num": 210772,
+        "word": "刘宇宁哽咽感谢杨坤的帮助",
+        "onboard_time": 1745640143,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168416,
+        "num": 200982,
+        "word": "孟子义跑到袜子破了都不知道",
+        "onboard_time": 1745642241,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191865,
+        "num": 191865,
+        "word": "拆二代败光5套房近4000万成阶下囚",
+        "onboard_time": 1745628980,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125917,
+        "num": 187855,
+        "word": "王菲听谢霆锋唱定情歌陶醉起舞",
+        "onboard_time": 1745642241,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 187028,
+        "num": 187028,
+        "word": "Puff爆聊天记录",
+        "onboard_time": 1745640080,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 168475,
+        "num": 168475,
+        "word": "湖人vs森林狼",
+        "onboard_time": 1745632400,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168221,
+        "num": 168221,
+        "word": "特朗普称一天结束俄乌冲突是开玩笑",
+        "onboard_time": 1745637981,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 162621,
+        "num": 162621,
+        "word": "杨迪回应疑似在南京当小时工",
+        "onboard_time": 1745642002,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160151,
+        "num": 160151,
+        "word": "爱泼斯坦案关键受害者自杀身亡",
+        "onboard_time": 1745635701,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 158813,
+        "num": 158813,
+        "word": "特朗普威胁称乌若再战或失去整个国家",
+        "onboard_time": 1745639901,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 153076,
+        "num": 153076,
+        "word": "外籍歌手唐伯虎回应拖欠劳务费",
+        "onboard_time": 1745630060,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152442,
+        "num": 152442,
+        "word": "90岁高颜值彝族奶奶火出圈",
+        "onboard_time": 1745642303,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150229,
+        "num": 150229,
+        "word": "华表奖",
+        "onboard_time": 1745642421,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 147593,
+        "num": 147593,
+        "word": "如鸢",
+        "onboard_time": 1745642181,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 145131,
+        "num": 145131,
+        "word": "星穹铁道二周年",
+        "onboard_time": 1745641644,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 143387,
+        "num": 143387,
+        "word": "沈月超绝不经意露出姐姐送我的竹节杯",
+        "onboard_time": 1745640743,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139559,
+        "num": 139559,
+        "word": "侃爷希望与帕丽斯希尔顿生孩子",
+        "onboard_time": 1745642002,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12995,
+        "num": 134640,
+        "word": "周董剃须后演唱会状态满分",
+        "onboard_time": 1745638641,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133631,
+        "num": 133631,
+        "word": "女子手机失控冲进派出所民警建议砸掉",
+        "onboard_time": 1745616015,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128561,
+        "num": 128561,
+        "word": "全力詹回来了",
+        "onboard_time": 1745640802,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127356,
+        "num": 127356,
+        "word": "无忧渡",
+        "onboard_time": 1745628980,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124221,
+        "num": 124221,
+        "word": "吴宣仪追着丁程鑫说小少爷你真帅",
+        "onboard_time": 1745641162,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124124,
+        "num": 124124,
+        "word": "易烊千玺三部主演电影获得华表奖",
+        "onboard_time": 1745632820,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121678,
+        "num": 121678,
+        "word": "你好星期六全员800个心眼子",
+        "onboard_time": 1745640923,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#一图速览中央政治局会议要点#"
+    }
+  }
+}

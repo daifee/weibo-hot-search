@@ -1,6 +1,6 @@
 {
   "startTime": 1745598635164,
-  "endTime": 1745641716400,
+  "endTime": 1745642611968,
   "band_list": [
     {
       "raw_hot": 3420165,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 912464,
+      "num": 1145994,
+      "word": "日本大爷坠入坑中3个月仍未获救",
+      "onboard_time": 1745632400,
+      "rank": 16,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 901159,
       "num": 297943,
       "word": "王菲谢霆锋好甜",
@@ -81,14 +89,6 @@
       "onboard_time": 1745598261,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 833897,
-      "num": 1133423,
-      "word": "日本大爷坠入坑中3个月仍未获救",
-      "onboard_time": 1745632400,
-      "rank": 16,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 831155,
@@ -115,8 +115,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 735667,
-      "num": 735667,
+      "raw_hot": 750548,
+      "num": 750548,
       "word": "多地宣布发钱奖励结婚",
       "onboard_time": 1745637561,
       "rank": 8,
@@ -211,6 +211,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 459256,
+      "num": 459256,
+      "word": "女子剧烈孕吐差点危及生命",
+      "onboard_time": 1745638101,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 434299,
+      "num": 434299,
+      "word": "Jennie德国版芭莎封面",
+      "onboard_time": 1745641101,
+      "rank": 23,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 425918,
       "num": 253422,
       "word": "蔡徐坤状态",
@@ -241,14 +257,6 @@
       "onboard_time": 1745636600,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 398990,
-      "num": 398990,
-      "word": "女子剧烈孕吐差点危及生命",
-      "onboard_time": 1745638101,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 392130,
@@ -283,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 312557,
+      "num": 312557,
+      "word": "华表奖提名",
+      "onboard_time": 1745637381,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 309735,
       "num": 170158,
       "word": "网友劝36岁女子不要为结婚而结婚",
@@ -305,14 +321,6 @@
       "onboard_time": 1745594963,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 296957,
-      "num": 296957,
-      "word": "华表奖提名",
-      "onboard_time": 1745637381,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 295179,
@@ -339,16 +347,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 276828,
-      "num": 236043,
-      "word": "Jennie德国版芭莎封面",
-      "onboard_time": 1745641101,
-      "rank": 23,
-      "category": "时尚,艺人"
-    },
-    {
       "raw_hot": 267666,
-      "num": 232772,
+      "num": 252969,
       "word": "乌鸡白凤丸谁吃谁好用",
       "onboard_time": 1745637261,
       "rank": 26,
@@ -361,6 +361,14 @@
       "onboard_time": 1745632820,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 265358,
+      "num": 265358,
+      "word": "8旬老人无人赡养起诉2儿1女",
+      "onboard_time": 1745640261,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 261118,
@@ -403,6 +411,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 240109,
+      "num": 297212,
+      "word": "四川白玉地震",
+      "onboard_time": 1745642181,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 237860,
       "num": 237860,
       "word": "60岁阿姨离婚后的状态",
@@ -443,6 +459,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 210772,
+      "num": 231176,
+      "word": "刘宇宁哽咽感谢杨坤的帮助",
+      "onboard_time": 1745640143,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199122,
       "num": 199122,
       "word": "白宫前官员称稀土管制让美国慌了",
@@ -457,6 +481,14 @@
       "onboard_time": 1745594783,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 196392,
+      "num": 259958,
+      "word": "王一博过弯",
+      "onboard_time": 1745642181,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 196355,
@@ -499,8 +531,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 185913,
-      "num": 185913,
+      "raw_hot": 187028,
+      "num": 187028,
       "word": "Puff爆聊天记录",
       "onboard_time": 1745640080,
       "rank": 33,
@@ -512,14 +544,6 @@
       "word": "谭维维 我好尴尬",
       "onboard_time": 1745635162,
       "rank": 26,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 182099,
-      "num": 231176,
-      "word": "刘宇宁哽咽感谢杨坤的帮助",
-      "onboard_time": 1745640143,
-      "rank": 25,
       "category": "综艺"
     },
     {
@@ -535,14 +559,6 @@
       "num": 249752,
       "word": "多方回应黄瓜里被发现藏着针",
       "onboard_time": 1745587103,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 171061,
-      "num": 246912,
-      "word": "8旬老人无人赡养起诉2儿1女",
-      "onboard_time": 1745640261,
       "rank": 19,
       "category": "民生新闻"
     },
@@ -571,12 +587,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168475,
+      "num": 168475,
+      "word": "湖人vs森林狼",
+      "onboard_time": 1745632400,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 168416,
+      "num": 200982,
+      "word": "孟子义跑到袜子破了都不知道",
+      "onboard_time": 1745642241,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 162621,
+      "num": 162621,
+      "word": "杨迪回应疑似在南京当小时工",
+      "onboard_time": 1745642002,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161954,
       "num": 78392,
       "word": "特朗普说克里米亚属于俄罗斯",
       "onboard_time": 1745627841,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 160514,
+      "num": 298492,
+      "word": "美媒警告未来几个月部分商品将消失",
+      "onboard_time": 1745641221,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 158829,
@@ -611,6 +659,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 152442,
+      "num": 152442,
+      "word": "90岁高颜值彝族奶奶火出圈",
+      "onboard_time": 1745642303,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150229,
+      "num": 150229,
+      "word": "华表奖",
+      "onboard_time": 1745642421,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 149406,
       "num": 245205,
       "word": "郑钦文回应输球原因",
@@ -625,6 +689,22 @@
       "onboard_time": 1745625979,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 147593,
+      "num": 147593,
+      "word": "如鸢",
+      "onboard_time": 1745642181,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 145131,
+      "num": 145131,
+      "word": "星穹铁道二周年",
+      "onboard_time": 1745641644,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 144989,
@@ -657,6 +737,14 @@
       "onboard_time": 1745576782,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 139559,
+      "num": 139559,
+      "word": "侃爷希望与帕丽斯希尔顿生孩子",
+      "onboard_time": 1745642002,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 139368,
@@ -715,28 +803,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 131535,
-      "num": 131535,
-      "word": "星穹铁道二周年",
-      "onboard_time": 1745641644,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 130657,
       "num": 130657,
       "word": "久酷说会回去好好复盘",
       "onboard_time": 1745598141,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 129703,
-      "num": 129703,
-      "word": "美媒警告未来几个月部分商品将消失",
-      "onboard_time": 1745641221,
-      "rank": 40,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 129454,
@@ -755,6 +827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127356,
+      "num": 127356,
+      "word": "无忧渡",
+      "onboard_time": 1745628980,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127337,
       "num": 127337,
       "word": "王一博赛车",
@@ -769,6 +849,14 @@
       "onboard_time": 1745595622,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125917,
+      "num": 187855,
+      "word": "王菲听谢霆锋唱定情歌陶醉起舞",
+      "onboard_time": 1745642241,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 125196,
@@ -793,14 +881,6 @@
       "onboard_time": 1745578221,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 120867,
-      "num": 120867,
-      "word": "湖人vs森林狼",
-      "onboard_time": 1745632400,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 120716,
@@ -857,14 +937,6 @@
       "onboard_time": 1745641702,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 113677,
-      "num": 113677,
-      "word": "无忧渡",
-      "onboard_time": 1745628980,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 110700,
@@ -1137,6 +1209,14 @@
       "onboard_time": 1745595562,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 80353,
+      "num": 258407,
+      "word": "李连杰复更微博",
+      "onboard_time": 1745642122,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 79933,
@@ -1427,6 +1507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 24923,
+      "num": 520372,
+      "word": "高质量发展中国行",
+      "onboard_time": 1745641522,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 24622,
       "num": 38541,
       "word": "高伟光拍戏居然敢不化妆",
@@ -1492,7 +1580,7 @@
     },
     {
       "raw_hot": 15312,
-      "num": 115766,
+      "num": 134640,
       "word": "周董剃须后演唱会状态满分",
       "onboard_time": 1745638641,
       "rank": 42,
@@ -1515,20 +1603,28 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 9647,
-      "num": 520372,
-      "word": "高质量发展中国行",
-      "onboard_time": 1745641522,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 9056,
       "num": 38011,
       "word": "超1.2亿人次享受以旧换新补贴",
       "onboard_time": 1745612894,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8537,
+      "num": 263882,
+      "word": "水饺皇后臧姑娘是如何实现人生逆转的",
+      "onboard_time": 1745641883,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 7276,
+      "num": 490130,
+      "word": "数据折射流动中国蓬勃活力",
+      "onboard_time": 1745642421,
+      "rank": 2,
+      "category": "国内时政,财经"
     },
     {
       "raw_hot": 6978,
@@ -1545,6 +1641,9 @@
     },
     {
       "word": "#中央政治局召开会议#"
+    },
+    {
+      "word": "#一图速览中央政治局会议要点#"
     }
   ]
 }
