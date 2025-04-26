@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1745685798117,
+  "endTime": 1745687982626,
   "band_list": [
     {
       "raw_hot": 2550222,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 390655,
-      "num": 246574,
+      "num": 374789,
       "word": "肖战追星和我们也没区别",
       "onboard_time": 1745684361,
       "rank": 16,
@@ -179,7 +179,7 @@
       "category": "民生新闻,艺人"
     },
     {
-      "raw_hot": 177230,
+      "raw_hot": 193359,
       "num": 177230,
       "word": "riize",
       "onboard_time": 1745682262,
@@ -395,6 +395,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 69453,
+      "num": 85316,
+      "word": "三大队获优秀电影音乐提名",
+      "onboard_time": 1745685800,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 60465,
       "num": 149844,
       "word": "你要平整土地而非焦虑时光",
@@ -411,12 +419,28 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 49414,
+      "raw_hot": 52307,
       "num": 229705,
       "word": "炒股赚6000万男子不否认有幸存者偏差",
       "onboard_time": 1745672542,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46585,
+      "num": 85313,
+      "word": "陈丽君去看韩红演唱会了",
+      "onboard_time": 1745687597,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 45720,
+      "num": 85313,
+      "word": "一顿火锅上映5天还赚钱了",
+      "onboard_time": 1745674762,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 45707,
@@ -425,6 +449,14 @@
       "onboard_time": 1745678065,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39907,
+      "num": 85312,
+      "word": "无忧渡 赵娜",
+      "onboard_time": 1745687657,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 29318,
@@ -438,6 +470,9 @@
   "hotgov_list": [
     {
       "word": "#中央政治局会议释放新信号#"
+    },
+    {
+      "word": "#为什么中国意味着确定性未来性机遇性#"
     }
   ]
 }

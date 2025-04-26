@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1745685798117,
+  "endTime": 1745687982626,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -17980,7 +17980,7 @@
     },
     {
       "raw_hot": 390655,
-      "num": 246574,
+      "num": 374789,
       "word": "肖战追星和我们也没区别",
       "onboard_time": 1745684361,
       "rank": 16,
@@ -38115,6 +38115,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 193359,
+      "num": 177230,
+      "word": "riize",
+      "onboard_time": 1745682262,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193354,
       "num": 193354,
       "word": "德布劳内宣布将离开曼城",
@@ -42945,14 +42953,6 @@
       "onboard_time": 1745116403,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 177230,
-      "num": 177230,
-      "word": "riize",
-      "onboard_time": 1745682262,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 177160,
@@ -75603,6 +75603,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 69453,
+      "num": 85316,
+      "word": "三大队获优秀电影音乐提名",
+      "onboard_time": 1745685800,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 69441,
       "num": 154862,
       "word": "于适工作室发文",
@@ -80857,6 +80865,14 @@
       "onboard_time": 1745055321,
       "rank": 38,
       "category": "数码"
+    },
+    {
+      "raw_hot": 46585,
+      "num": 85313,
+      "word": "陈丽君去看韩红演唱会了",
+      "onboard_time": 1745687597,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 46548,

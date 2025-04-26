@@ -1,0 +1,410 @@
+{
+  "runTime": 1745687982626,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 563806,
+        "num": 563806,
+        "word": "丁禹兮 舒心",
+        "onboard_time": 1745678065,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 491564,
+        "num": 491564,
+        "word": "原来这就是生理性厌恶的表现",
+        "onboard_time": 1745674343,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 30745,
+        "num": 380638,
+        "word": "MadeInChina硬控全球客商",
+        "onboard_time": 1745676624,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 374789,
+        "num": 374789,
+        "word": "肖战追星和我们也没区别",
+        "onboard_time": 1745684361,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 179019,
+        "num": 179019,
+        "word": "比大熊猫更濒危的动物全国仅剩1只",
+        "onboard_time": 1745664141,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158037,
+        "num": 158037,
+        "word": "印度男子婚礼当天新娘被调包成岳母",
+        "onboard_time": 1745673562,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 305159,
+        "num": 155924,
+        "word": "华表奖提名名单",
+        "onboard_time": 1745669423,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 119586,
+        "num": 119586,
+        "word": "特朗普妄称中国要做出让步",
+        "onboard_time": 1745674942,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 323631,
+        "num": 117266,
+        "word": "肖战 孙燕姿演唱会",
+        "onboard_time": 1745675244,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 112843,
+        "num": 112843,
+        "word": "台民众持大陆身份证被撤销所谓台户籍",
+        "onboard_time": 1745680463,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 317527,
+        "num": 112438,
+        "word": "网购避孕套被配送员骚扰",
+        "onboard_time": 1745665102,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285424,
+        "num": 111926,
+        "word": "裸辞一年发现不上班根本不需要旅游",
+        "onboard_time": 1745676863,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193359,
+        "num": 111480,
+        "word": "riize",
+        "onboard_time": 1745682262,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180915,
+        "num": 110811,
+        "word": "女生来一次月经大概要花多少钱",
+        "onboard_time": 1745677884,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176374,
+        "num": 110416,
+        "word": "你好星期六石凯镜头被剪",
+        "onboard_time": 1745679023,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153191,
+        "num": 109771,
+        "word": "陈妍希 假的就是假的它真不了",
+        "onboard_time": 1745677102,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115823,
+        "num": 108817,
+        "word": "谢霆锋儿子现身演唱会",
+        "onboard_time": 1745675424,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 108796,
+        "num": 108796,
+        "word": "李沐宸迟到被换角",
+        "onboard_time": 1745675303,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103183,
+        "num": 103183,
+        "word": "张译王一博 华表影帝提名",
+        "onboard_time": 1745669962,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 70228,
+        "num": 102965,
+        "word": "李云霄不辞星海致敬航天人",
+        "onboard_time": 1745678424,
+        "rank": 19,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 1966492,
+        "num": 101543,
+        "word": "高潮针是什么",
+        "onboard_time": 1745682321,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 258202,
+        "num": 100504,
+        "word": "台北七旬老人陈尸水塔全楼喝尸水",
+        "onboard_time": 1745674282,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242493,
+        "num": 99806,
+        "word": "赵露思直播哽咽了",
+        "onboard_time": 1745682385,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99580,
+        "num": 99580,
+        "word": "生理性厌恶的7个常见表现",
+        "onboard_time": 1745676804,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 98417,
+        "num": 98417,
+        "word": "被刘宇宁这首歌打动了",
+        "onboard_time": 1745673683,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 88130,
+        "num": 88130,
+        "word": "太原溺水美人鱼仍在重症监护室",
+        "onboard_time": 1745674402,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85318,
+        "num": 85318,
+        "word": "王俊凯青岛",
+        "onboard_time": 1745682385,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 83909,
+        "num": 85318,
+        "word": "刘奕畅李沐宸一个不服一个迟到",
+        "onboard_time": 1745680522,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57866,
+        "num": 85318,
+        "word": "第1号台风",
+        "onboard_time": 1745676924,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52307,
+        "num": 85318,
+        "word": "炒股赚6000万男子不否认有幸存者偏差",
+        "onboard_time": 1745672542,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80588,
+        "num": 85318,
+        "word": "我爱你获华表奖3项提名",
+        "onboard_time": 1745681902,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 74926,
+        "num": 85317,
+        "word": "许嵩惊鸿一面万人大合唱",
+        "onboard_time": 1745684481,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 70434,
+        "num": 85317,
+        "word": "封神1获优秀电影音乐提名",
+        "onboard_time": 1745677825,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 69153,
+        "num": 85317,
+        "word": "保安每天偷用女员工杯子喝水",
+        "onboard_time": 1745675603,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69453,
+        "num": 85316,
+        "word": "三大队获优秀电影音乐提名",
+        "onboard_time": 1745685800,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 68419,
+        "num": 85316,
+        "word": "刘烨太瘦了",
+        "onboard_time": 1745665340,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65607,
+        "num": 85316,
+        "word": "年会不能停获优秀编剧提名",
+        "onboard_time": 1745685078,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 65259,
+        "num": 85315,
+        "word": "黄子弘凡在张杰演唱会帮带ID",
+        "onboard_time": 1745679744,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 62190,
+        "num": 85315,
+        "word": "小明剑魔老婆",
+        "onboard_time": 1745679263,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 47362,
+        "num": 85315,
+        "word": "董明珠间谍说有没有错",
+        "onboard_time": 1745680283,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58121,
+        "num": 85314,
+        "word": "长安三万里获优秀编剧提名",
+        "onboard_time": 1745681722,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 54347,
+        "num": 85314,
+        "word": "全款76万买到260平的房子",
+        "onboard_time": 1745664621,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 51341,
+        "num": 85314,
+        "word": "王者荣耀",
+        "onboard_time": 1745680823,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 46738,
+        "num": 85314,
+        "word": "如何看待拆二代败光近4000万",
+        "onboard_time": 1745680163,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46585,
+        "num": 85313,
+        "word": "陈丽君去看韩红演唱会了",
+        "onboard_time": 1745687597,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 45720,
+        "num": 85313,
+        "word": "一顿火锅上映5天还赚钱了",
+        "onboard_time": 1745674762,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 44377,
+        "num": 85313,
+        "word": "俄2岁女童被锁家中喝马桶水存活",
+        "onboard_time": 1745682622,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 40467,
+        "num": 85312,
+        "word": "发现了韩国人来中国的秘密",
+        "onboard_time": 1745664621,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39907,
+        "num": 85312,
+        "word": "无忧渡 赵娜",
+        "onboard_time": 1745687657,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45843,
+        "num": 85312,
+        "word": "韩红演唱会嘉宾薛之谦",
+        "onboard_time": 1745676083,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#为什么中国意味着确定性未来性机遇性#"
+    }
+  }
+}

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/27 00:28:26 ~ 2025/04/27 00:43:18
+本榜单时间：2025/04/27 00:28:26 ~ 2025/04/27 01:19:42
 </p>
 </blockquote>
 <p>
@@ -148,7 +148,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23riize%23" target="weibo">
-riize（热度：177230）
+riize（热度：193359）
 </a>
 </li>
 
@@ -309,6 +309,12 @@ aespa台湾开麦舞台（热度：79630）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%A4%A7%E9%98%9F%E8%8E%B7%E4%BC%98%E7%A7%80%E7%94%B5%E5%BD%B1%E9%9F%B3%E4%B9%90%E6%8F%90%E5%90%8D%23" target="weibo">
+三大队获优秀电影音乐提名（热度：69453）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%A6%81%E5%B9%B3%E6%95%B4%E5%9C%9F%E5%9C%B0%E8%80%8C%E9%9D%9E%E7%84%A6%E8%99%91%E6%97%B6%E5%85%89%23" target="weibo">
 你要平整土地而非焦虑时光（热度：60465）
 </a>
@@ -322,13 +328,31 @@ MadeInChina硬控全球客商（热度：58909）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%82%92%E8%82%A1%E8%B5%9A6000%E4%B8%87%E7%94%B7%E5%AD%90%E4%B8%8D%E5%90%A6%E8%AE%A4%E6%9C%89%E5%B9%B8%E5%AD%98%E8%80%85%E5%81%8F%E5%B7%AE%23" target="weibo">
-炒股赚6000万男子不否认有幸存者偏差（热度：49414）
+炒股赚6000万男子不否认有幸存者偏差（热度：52307）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B8%BD%E5%90%9B%E5%8E%BB%E7%9C%8B%E9%9F%A9%E7%BA%A2%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BA%86%23" target="weibo">
+陈丽君去看韩红演唱会了（热度：46585）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E9%A1%BF%E7%81%AB%E9%94%85%E4%B8%8A%E6%98%A05%E5%A4%A9%E8%BF%98%E8%B5%9A%E9%92%B1%E4%BA%86%23" target="weibo">
+一顿火锅上映5天还赚钱了（热度：45720）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%2397%E5%B2%81%E7%94%B0%E5%8D%8E%E8%8E%B7%E7%BB%88%E8%BA%AB%E6%88%90%E5%B0%B1%E5%A5%96%23" target="weibo">
 97岁田华获终身成就奖（热度：45707）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E5%BF%A7%E6%B8%A1%20%E8%B5%B5%E5%A8%9C%23" target="weibo">
+无忧渡 赵娜（热度：39907）
 </a>
 </li>
 
@@ -347,6 +371,12 @@ MadeInChina硬控全球客商（热度：58909）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E4%BC%9A%E8%AE%AE%E9%87%8A%E6%94%BE%E6%96%B0%E4%BF%A1%E5%8F%B7%23%23" target="weibo">
 #中央政治局会议释放新信号#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%AD%E5%9B%BD%E6%84%8F%E5%91%B3%E7%9D%80%E7%A1%AE%E5%AE%9A%E6%80%A7%E6%9C%AA%E6%9D%A5%E6%80%A7%E6%9C%BA%E9%81%87%E6%80%A7%23%23" target="weibo">
+#为什么中国意味着确定性未来性机遇性#
 </a>
 </li>
 
