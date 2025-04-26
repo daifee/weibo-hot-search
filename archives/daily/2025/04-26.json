@@ -1,14 +1,22 @@
 {
   "startTime": 1745598635164,
-  "endTime": 1745624277905,
+  "endTime": 1745632240567,
   "band_list": [
     {
       "raw_hot": 3420165,
-      "num": 259318,
+      "num": 259611,
       "word": "蔡徐坤直播突然被封",
       "onboard_time": 1745596762,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2046443,
+      "num": 263603,
+      "word": "10泡尿毁了数万跑者的盛大赛事",
+      "onboard_time": 1745630060,
+      "rank": 8,
+      "category": "运动健身"
     },
     {
       "raw_hot": 1190635,
@@ -19,6 +27,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1043803,
+      "num": 1167008,
+      "word": "拆二代败光5套房近4000万成阶下囚",
+      "onboard_time": 1745628980,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 989656,
       "num": 257557,
       "word": "刘雨欣回应",
@@ -27,8 +43,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 901159,
+      "num": 261882,
+      "word": "王菲谢霆锋好甜",
+      "onboard_time": 1745627360,
+      "rank": 10,
+      "category": "演出"
+    },
+    {
       "raw_hot": 836319,
-      "num": 254471,
+      "num": 258989,
       "word": "35岁女子月入五万北漂十几年只攒下十万",
       "onboard_time": 1745598261,
       "rank": 15,
@@ -41,6 +65,22 @@
       "onboard_time": 1745577680,
       "rank": 3,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 767893,
+      "num": 323512,
+      "word": "无忧渡大结局是爱奇艺改的",
+      "onboard_time": 1745623999,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 663428,
+      "num": 663428,
+      "word": "外籍歌手唐伯虎回应拖欠劳务费",
+      "onboard_time": 1745630060,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 632201,
@@ -91,12 +131,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 455312,
+      "num": 257714,
+      "word": "深圳殉情男子遗书希望与妻合葬",
+      "onboard_time": 1745630060,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 454534,
+      "num": 265210,
+      "word": "无忧渡2",
+      "onboard_time": 1745630960,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 425918,
       "num": 253422,
       "word": "蔡徐坤状态",
       "onboard_time": 1745595562,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 417044,
+      "num": 417044,
+      "word": "警方介入江西理工在校生遭外籍生殴打",
+      "onboard_time": 1745628980,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 392130,
@@ -108,7 +172,7 @@
     },
     {
       "raw_hot": 351131,
-      "num": 110802,
+      "num": 197484,
       "word": "女子手机失控冲进派出所民警建议砸掉",
       "onboard_time": 1745616015,
       "rank": 42,
@@ -171,6 +235,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 257257,
+      "num": 257257,
+      "word": "关晓彤有在认真搞事业",
+      "onboard_time": 1745625139,
+      "rank": 14,
+      "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 252987,
+      "num": 252987,
+      "word": "念无双中疑有加拿大一枝黄花入镜",
+      "onboard_time": 1745598441,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 252672,
+      "num": 252672,
+      "word": "倪妮大方谈自己变老了",
+      "onboard_time": 1745630120,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 248107,
       "num": 248107,
       "word": "海上神女鞠婧祎",
@@ -195,12 +283,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 212570,
-      "num": 212570,
-      "word": "念无双中疑有加拿大一枝黄花入镜",
-      "onboard_time": 1745598441,
-      "rank": 25,
-      "category": "剧集"
+      "raw_hot": 224133,
+      "num": 224133,
+      "word": "英皇30多位艺人现身谢霆锋演唱会",
+      "onboard_time": 1745623758,
+      "rank": 9,
+      "category": "演出"
     },
     {
       "raw_hot": 197412,
@@ -209,6 +297,14 @@
       "onboard_time": 1745594783,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 195322,
+      "num": 195322,
+      "word": "美国对7种中重稀土精炼能力为零",
+      "onboard_time": 1745625800,
+      "rank": 22,
+      "category": "国际时政,财经"
     },
     {
       "raw_hot": 171167,
@@ -235,6 +331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161954,
+      "num": 78392,
+      "word": "特朗普说克里米亚属于俄罗斯",
+      "onboard_time": 1745627841,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 158703,
       "num": 158703,
       "word": "杨紫给主持人打伞",
@@ -249,6 +353,22 @@
       "onboard_time": 1745585662,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 148992,
+      "num": 148992,
+      "word": "王一博上午赛车下午走红毯",
+      "onboard_time": 1745625979,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 147700,
+      "num": 262434,
+      "word": "美军工稀土储备仅够数月",
+      "onboard_time": 1745630661,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 144989,
@@ -267,12 +387,44 @@
       "category": "电影"
     },
     {
+      "raw_hot": 137778,
+      "num": 137778,
+      "word": "特朗普说乌克兰永不可能加入北约",
+      "onboard_time": 1745628980,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 136785,
       "num": 136785,
       "word": "华表奖 赵丽颖",
       "onboard_time": 1745581342,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 135387,
+      "num": 197742,
+      "word": "男子坚持两年终于拍到巨型昙花一现",
+      "onboard_time": 1745631201,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134260,
+      "num": 134260,
+      "word": "娜扎女帝造型",
+      "onboard_time": 1745627059,
+      "rank": 28,
+      "category": "作品衍生,综艺"
+    },
+    {
+      "raw_hot": 130823,
+      "num": 130823,
+      "word": "白宫前官员称稀土管制让美国慌了",
+      "onboard_time": 1745631201,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 130657,
@@ -307,12 +459,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 120464,
-      "num": 170450,
-      "word": "英皇30多位艺人现身谢霆锋演唱会",
-      "onboard_time": 1745623758,
-      "rank": 9,
-      "category": "演出"
+      "raw_hot": 120716,
+      "num": 120716,
+      "word": "32岁男子或因急刹车致脑子漏水",
+      "onboard_time": 1745624658,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118040,
+      "num": 118040,
+      "word": "未定事件簿 左然",
+      "onboard_time": 1745630421,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 116467,
+      "num": 116467,
+      "word": "上海野生动物园惊现班味袋鼠",
+      "onboard_time": 1745631081,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 115690,
@@ -347,6 +515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 96253,
+      "num": 96253,
+      "word": "专家称预言东京湾大地震可信度极低",
+      "onboard_time": 1745630481,
+      "rank": 37,
+      "category": "国际时政,国际时政"
+    },
+    {
       "raw_hot": 93600,
       "num": 93600,
       "word": "华表奖阵容官宣",
@@ -371,6 +547,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 89893,
+      "num": 89893,
+      "word": "偶遇那英宋丹丹逛商场",
+      "onboard_time": 1745625440,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 86517,
       "num": 86517,
       "word": "蔡正元",
@@ -379,8 +563,16 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 82916,
-      "num": 82916,
+      "raw_hot": 84263,
+      "num": 84263,
+      "word": "yagao 中年人来旅游了",
+      "onboard_time": 1745632103,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 83787,
+      "num": 83787,
       "word": "老板买黄金赚近千万后分给员工",
       "onboard_time": 1745585181,
       "rank": 49,
@@ -393,6 +585,22 @@
       "onboard_time": 1745594783,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 81886,
+      "num": 81886,
+      "word": "美将要求俄接受乌拥有军队及国防工业",
+      "onboard_time": 1745629040,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 81143,
+      "num": 81143,
+      "word": "为什么中国意味着确定性未来性机遇性",
+      "onboard_time": 1745627540,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 80516,
@@ -411,12 +619,36 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 79776,
+      "num": 79776,
+      "word": "枕头发黄原来是雄激素一直在线",
+      "onboard_time": 1745631982,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 79512,
       "num": 79512,
       "word": "巅峰对决",
       "onboard_time": 1745595622,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 79232,
+      "num": 79232,
+      "word": "建议培养自己的输出型爱好",
+      "onboard_time": 1745623638,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 77456,
+      "num": 77456,
+      "word": "贺峻霖我们一起吃了二十多年的饭了",
+      "onboard_time": 1745632221,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 75714,
@@ -436,19 +668,11 @@
     },
     {
       "raw_hot": 74106,
-      "num": 333463,
+      "num": 502685,
       "word": "以旧换新带动销售额超7200亿",
       "onboard_time": 1745587342,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 73734,
-      "num": 73734,
-      "word": "建议培养自己的输出型爱好",
-      "onboard_time": 1745623638,
-      "rank": 27,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 72783,
@@ -488,14 +712,6 @@
       "word": "无忧渡有第二季吗",
       "onboard_time": 1745594243,
       "rank": 33,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 56253,
-      "num": 56253,
-      "word": "无忧渡大结局是爱奇艺改的",
-      "onboard_time": 1745623999,
-      "rank": 37,
       "category": "剧集"
     },
     {
