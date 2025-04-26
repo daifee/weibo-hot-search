@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1745689035250,
+  "endTime": 1745692235965,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -86331,6 +86331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25750,
+      "num": 42543,
+      "word": "周深葛优同框",
+      "onboard_time": 1745691076,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 25725,
       "num": 155056,
       "word": "特朗普想驱逐美国囚犯",
@@ -87027,6 +87035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 23761,
+      "num": 42527,
+      "word": "王栎鑫X巡回演唱会",
+      "onboard_time": 1745691016,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 23729,
       "num": 215735,
       "word": "莱万梅开二度",
@@ -87057,6 +87073,14 @@
       "onboard_time": 1745259255,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 23649,
+      "num": 42503,
+      "word": "周深说每一部电影每一首歌因你而动人",
+      "onboard_time": 1745691675,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 23647,
@@ -87171,6 +87195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23229,
+      "num": 42512,
+      "word": "刘宇宁北影节舞台",
+      "onboard_time": 1745691495,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 23221,
       "num": 34151,
       "word": "林诗栋世界杯晋级4强",
@@ -87225,6 +87257,14 @@
       "onboard_time": 1744725623,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 23128,
+      "num": 42511,
+      "word": "北京国际电影节闭幕",
+      "onboard_time": 1745691256,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 23116,
@@ -87665,6 +87705,14 @@
       "onboard_time": 1744608564,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21941,
+      "num": 42482,
+      "word": "惠英红回应华表奖提名",
+      "onboard_time": 1745691016,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 21898,
@@ -89825,6 +89873,14 @@
       "onboard_time": 1744439602,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15326,
+      "num": 72238,
+      "word": "推动人工智能健康有序发展",
+      "onboard_time": 1745691675,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 15312,
