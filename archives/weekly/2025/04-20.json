@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745677270536,
+  "endTime": 1745678344605,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -371,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1981176,
+      "num": 1981176,
+      "word": "原来这就是生理性厌恶的表现",
+      "onboard_time": 1745674343,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1976132,
       "num": 1976132,
       "word": "特朗普拿P图甩锅中国",
@@ -387,16 +395,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1950058,
-      "num": 1950058,
-      "word": "原来这就是生理性厌恶的表现",
-      "onboard_time": 1745674343,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1916903,
-      "num": 1916903,
+      "raw_hot": 1920453,
+      "num": 1920453,
       "word": "肖战 孙燕姿演唱会",
       "onboard_time": 1745675244,
       "rank": 1,
@@ -1115,6 +1115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1140412,
+      "num": 1140412,
+      "word": "特朗普称中国须做出实质性让步",
+      "onboard_time": 1745674942,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1135611,
       "num": 1135611,
       "word": "特朗普考虑对华关税分级方案",
@@ -1152,14 +1160,6 @@
       "word": "关税",
       "onboard_time": 1745315181,
       "rank": 10,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 1123533,
-      "num": 1123533,
-      "word": "特朗普称中国须做出实质性让步",
-      "onboard_time": 1745674942,
-      "rank": 7,
       "category": "国际时政"
     },
     {
@@ -2923,6 +2923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 583761,
+      "num": 1197300,
+      "word": "印度男子婚礼当天新娘被调包成岳母",
+      "onboard_time": 1745673562,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 582816,
       "num": 366908,
       "word": "K总婚礼",
@@ -3033,14 +3041,6 @@
       "onboard_time": 1745153966,
       "rank": 6,
       "category": "体育,演出"
-    },
-    {
-      "raw_hot": 570180,
-      "num": 1197300,
-      "word": "印度男子婚礼当天新娘被调包成岳母",
-      "onboard_time": 1745673562,
-      "rank": 29,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 569498,
@@ -4483,6 +4483,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 393985,
+      "num": 393985,
+      "word": "裸辞一年发现不上班根本不需要旅游",
+      "onboard_time": 1745676863,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 393498,
       "num": 393498,
       "word": "老外说是朱一龙的bigfan",
@@ -5635,6 +5643,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 314595,
+      "num": 314595,
+      "word": "肖战真的去了孙燕姿演唱会",
+      "onboard_time": 1745677464,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 314235,
       "num": 314132,
       "word": "范志毅祝鹿晗生日快乐",
@@ -5713,6 +5729,14 @@
       "onboard_time": 1745121982,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 310072,
+      "num": 310072,
+      "word": "被刘宇宁这首歌打动了",
+      "onboard_time": 1745673683,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 309735,
@@ -6097,14 +6121,6 @@
       "onboard_time": 1745083463,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 295796,
-      "num": 295796,
-      "word": "被刘宇宁这首歌打动了",
-      "onboard_time": 1745673683,
-      "rank": 25,
-      "category": "音乐"
     },
     {
       "raw_hot": 295250,
@@ -6947,6 +6963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 256590,
+      "num": 256590,
+      "word": "陈妍希 假的就是假的它真不了",
+      "onboard_time": 1745677102,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 256013,
       "num": 256013,
       "word": "异人之下夏禾首曝",
@@ -7129,6 +7153,14 @@
       "onboard_time": 1745245824,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 249508,
+      "num": 249508,
+      "word": "保安每天偷用女员工杯子喝水",
+      "onboard_time": 1745675603,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 249078,
@@ -7363,6 +7395,14 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 241729,
+      "num": 214620,
+      "word": "朱珠碎花裙",
+      "onboard_time": 1745677224,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 241529,
       "num": 241529,
       "word": "fx出道前练习室",
@@ -7449,6 +7489,14 @@
       "onboard_time": 1745245764,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 238931,
+      "num": 238931,
+      "word": "丁禹兮 舒心",
+      "onboard_time": 1745678065,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 238463,
@@ -7545,14 +7593,6 @@
       "onboard_time": 1745309481,
       "rank": 16,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 235577,
-      "num": 235577,
-      "word": "保安每天偷用女员工杯子喝水",
-      "onboard_time": 1745675603,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 235555,
@@ -8747,6 +8787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206158,
+      "num": 206158,
+      "word": "大鹏恭喜王一博恭喜电影热烈",
+      "onboard_time": 1745677825,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 205765,
       "num": 205765,
       "word": "周深上海抢票",
@@ -9531,6 +9579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196978,
+      "num": 196978,
+      "word": "生理性厌恶的7个常见表现",
+      "onboard_time": 1745676804,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 196960,
       "num": 167701,
       "word": "唐国强上优酷节目感谢哔哩哔哩",
@@ -9585,6 +9641,14 @@
       "onboard_time": 1745317941,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196483,
+      "num": 238646,
+      "word": "王曼昱拟获全国先进工作者表彰",
+      "onboard_time": 1745677645,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 196446,
@@ -10795,6 +10859,14 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 182039,
+      "num": 182039,
+      "word": "封神1获优秀电影音乐提名",
+      "onboard_time": 1745677825,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 181936,
       "num": 181936,
       "word": "郭富城回应方媛在米兰被抢包",
@@ -11563,6 +11635,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 171990,
+      "num": 501985,
+      "word": "开了瑞幸会员卡价格反比别人贵",
+      "onboard_time": 1745676624,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 171871,
       "num": 171871,
       "word": "熬到凌晨三点看完的小说",
@@ -11771,14 +11851,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 168966,
-      "num": 168966,
-      "word": "裸辞一年发现不上班根本不需要旅游",
-      "onboard_time": 1745676863,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 168953,
       "num": 168953,
       "word": "梁博四专精气神",
@@ -11793,6 +11865,14 @@
       "onboard_time": 1745597841,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168882,
+      "num": 168882,
+      "word": "宋妍霏马吟吟神级转场镜头",
+      "onboard_time": 1745674522,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 168804,
@@ -12059,6 +12139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166540,
+      "num": 166540,
+      "word": "广厦男篮1比0辽宁男篮",
+      "onboard_time": 1745677884,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166406,
       "num": 166406,
       "word": "人鱼的眼泪",
@@ -12233,6 +12321,14 @@
       "onboard_time": 1745136682,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 164957,
+      "num": 164957,
+      "word": "97岁田华获终身成就奖",
+      "onboard_time": 1745678065,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 164810,
@@ -12817,14 +12913,6 @@
       "onboard_time": 1745466321,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 158865,
-      "num": 158865,
-      "word": "宋妍霏马吟吟神级转场镜头",
-      "onboard_time": 1745674522,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 158829,
@@ -13483,14 +13571,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 153814,
-      "num": 153814,
-      "word": "陈妍希 假的就是假的它真不了",
-      "onboard_time": 1745677102,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 153727,
       "num": 153727,
       "word": "长沙大暴雨来了",
@@ -13713,6 +13793,14 @@
       "onboard_time": 1745147903,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 151897,
+      "num": 151897,
+      "word": "女生来一次月经大概要花多少钱",
+      "onboard_time": 1745677884,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 151698,
@@ -14369,14 +14457,6 @@
       "onboard_time": 1745208622,
       "rank": 42,
       "category": "健康医疗,民生新闻"
-    },
-    {
-      "raw_hot": 145839,
-      "num": 145839,
-      "word": "生理性厌恶的7个常见表现",
-      "onboard_time": 1745676804,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 145799,
@@ -15425,14 +15505,6 @@
       "onboard_time": 1745302461,
       "rank": 13,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 136729,
-      "num": 136729,
-      "word": "朱珠碎花裙",
-      "onboard_time": 1745677224,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 136720,
@@ -19259,6 +19331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 93774,
+      "num": 1094271,
+      "word": "俄称已收复库尔斯克州",
+      "onboard_time": 1745676444,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 93710,
       "num": 93710,
       "word": "这是我的岛",
@@ -21307,6 +21387,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 63798,
+      "num": 231121,
+      "word": "美国似乎在与自己谈判",
+      "onboard_time": 1745678242,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 63773,
       "num": 77816,
       "word": "喝过期酸奶会怎么样",
@@ -21393,6 +21481,14 @@
       "onboard_time": 1745578702,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 62595,
+      "num": 1694767,
+      "word": "MadeInChina硬控全球客商",
+      "onboard_time": 1745676624,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 62253,
@@ -21915,14 +22011,6 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 55860,
-      "num": 1094271,
-      "word": "俄称已收复库尔斯克州",
-      "onboard_time": 1745676444,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 55816,
       "num": 271307,
       "word": "剃胡子还能这么玄乎",
@@ -22121,14 +22209,6 @@
       "onboard_time": 1745069665,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 53457,
-      "num": 501985,
-      "word": "开了瑞幸会员卡价格反比别人贵",
-      "onboard_time": 1745676624,
-      "rank": 14,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 53400,
@@ -24177,14 +24257,6 @@
       "onboard_time": 1745232081,
       "rank": 23,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 32249,
-      "num": 1694767,
-      "word": "MadeInChina硬控全球客商",
-      "onboard_time": 1745676624,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 32215,
@@ -26625,6 +26697,14 @@
       "onboard_time": 1745318481,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 11615,
+      "num": 167584,
+      "word": "特朗普维持庞大顾问团的原因",
+      "onboard_time": 1745678003,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 11354,
