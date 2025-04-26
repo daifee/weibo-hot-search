@@ -1,6 +1,6 @@
 {
   "startTime": 1745598635164,
-  "endTime": 1745672357187,
+  "endTime": 1745674115370,
   "band_list": [
     {
       "raw_hot": 3420165,
@@ -387,6 +387,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 511082,
+      "num": 268724,
+      "word": "杨紫碎花抹胸长裙",
+      "onboard_time": 1745671161,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 504746,
       "num": 257714,
       "word": "深圳殉情男子遗书希望与妻合葬",
@@ -731,6 +739,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 291647,
+      "num": 291647,
+      "word": "周深北影节献唱我只在乎你",
+      "onboard_time": 1745671702,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 291279,
       "num": 291279,
       "word": "李惠利IU金惠允投票",
@@ -753,14 +769,6 @@
       "onboard_time": 1745582062,
       "rank": 7,
       "category": "美食"
-    },
-    {
-      "raw_hot": 268724,
-      "num": 268724,
-      "word": "杨紫碎花抹胸长裙",
-      "onboard_time": 1745671161,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 267666,
@@ -819,6 +827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 260598,
+      "num": 270110,
+      "word": "伊朗港口油罐爆炸事件最新进展",
+      "onboard_time": 1745667683,
+      "rank": 29,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 257257,
       "num": 257257,
       "word": "关晓彤有在认真搞事业",
@@ -851,6 +867,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 243574,
+      "num": 243574,
+      "word": "明日方舟皮肤",
+      "onboard_time": 1745671461,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 240109,
       "num": 297212,
       "word": "四川白玉地震",
@@ -873,6 +897,14 @@
       "onboard_time": 1745670863,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 233749,
+      "num": 185795,
+      "word": "被刘宇宁这首歌打动了",
+      "onboard_time": 1745673683,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 232875,
@@ -1099,12 +1131,12 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 196554,
-      "num": 196554,
-      "word": "明日方舟皮肤",
-      "onboard_time": 1745671461,
-      "rank": 31,
-      "category": "游戏"
+      "raw_hot": 196632,
+      "num": 196632,
+      "word": "男子被打20个月后死亡案3大争议点",
+      "onboard_time": 1745672241,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 196355,
@@ -1259,14 +1291,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 182729,
-      "num": 270110,
-      "word": "伊朗港口油罐爆炸事件最新进展",
-      "onboard_time": 1745667683,
-      "rank": 29,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 182654,
       "num": 182654,
       "word": "谭维维 我好尴尬",
@@ -1281,14 +1305,6 @@
       "onboard_time": 1745640923,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 176763,
-      "num": 176763,
-      "word": "周深北影节献唱我只在乎你",
-      "onboard_time": 1745671702,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 175248,
@@ -1307,12 +1323,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172771,
+      "num": 172771,
+      "word": "编剧赵娜回应无忧渡结局",
+      "onboard_time": 1745673621,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172262,
       "num": 228722,
       "word": "日本女乒主帅说要在世乒赛击败中国",
       "onboard_time": 1745647880,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 171676,
+      "num": 171676,
+      "word": "脖子",
+      "onboard_time": 1745673983,
+      "rank": 32,
+      "category": "运动健身"
     },
     {
       "raw_hot": 171235,
@@ -1395,6 +1427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 167142,
+      "num": 167142,
+      "word": "您的外卖小哥正在拍狗",
+      "onboard_time": 1745672781,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 166706,
       "num": 166706,
       "word": "十个勤天大棚",
@@ -1409,6 +1449,14 @@
       "onboard_time": 1745644462,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165681,
+      "num": 165681,
+      "word": "王一博三部电影提名华表奖",
+      "onboard_time": 1745673141,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 164716,
@@ -1432,6 +1480,14 @@
       "word": "侃爷希望与帕丽斯希尔顿生孩子",
       "onboard_time": 1745642002,
       "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 163905,
+      "num": 244788,
+      "word": "陈少熙直播开嗓唱新歌",
+      "onboard_time": 1745672662,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -1465,6 +1521,14 @@
       "onboard_time": 1745627841,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 160943,
+      "num": 160943,
+      "word": "明日方舟",
+      "onboard_time": 1745640261,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 160804,
@@ -1707,6 +1771,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 146084,
+      "num": 139133,
+      "word": "韩国一公司要求员工缩短洗衣服周期",
+      "onboard_time": 1745671702,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 146066,
       "num": 146065,
       "word": "KPL选手质感大片",
@@ -1777,6 +1849,14 @@
       "onboard_time": 1745648660,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 141578,
+      "num": 141578,
+      "word": "余宇涵演沈星被换给了刘奕畅",
+      "onboard_time": 1745672722,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 141273,
@@ -1907,14 +1987,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 131605,
-      "num": 131605,
-      "word": "明日方舟",
-      "onboard_time": 1745640261,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 131216,
       "num": 131216,
       "word": "金泰妍澳门演唱会",
@@ -1969,6 +2041,14 @@
       "onboard_time": 1745640802,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128471,
+      "num": 128471,
+      "word": "炒股赚6000万男子不否认有幸存者偏差",
+      "onboard_time": 1745672542,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128231,
@@ -2979,6 +3059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 65364,
+      "num": 174777,
+      "word": "亚马逊等美国电商平台集体提价",
+      "onboard_time": 1745673863,
+      "rank": 28,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 63685,
       "num": 63685,
       "word": "你可能一直忌口错了",
@@ -3025,6 +3113,14 @@
       "onboard_time": 1745647340,
       "rank": 19,
       "category": "议题讨论,旅游"
+    },
+    {
+      "raw_hot": 57099,
+      "num": 173972,
+      "word": "印度男子婚礼当天新娘被调包成岳母",
+      "onboard_time": 1745673562,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 56882,
@@ -3259,12 +3355,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 31952,
+      "num": 185991,
+      "word": "王者新综艺cos野区天团",
+      "onboard_time": 1745669901,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 31823,
       "num": 31823,
       "word": "跺脚变装",
       "onboard_time": 1745604075,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 31678,
+      "num": 235221,
+      "word": "讨好型人格曾被误解为性格好",
+      "onboard_time": 1745672781,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30904,
@@ -3411,6 +3523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 19197,
+      "num": 141718,
+      "word": "旋护剃须刀挑战12小时无须感",
+      "onboard_time": 1745672361,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19049,
       "num": 232120,
       "word": "日本坠坑司机救援面临哪些难点",
@@ -3432,14 +3552,6 @@
       "word": "熊孩子又又又卡墙缝了",
       "onboard_time": 1745616434,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18276,
-      "num": 168412,
-      "word": "男子被打20个月后死亡案3大争议点",
-      "onboard_time": 1745672241,
-      "rank": 35,
       "category": "民生新闻"
     },
     {

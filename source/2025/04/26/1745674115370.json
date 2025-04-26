@@ -1,0 +1,410 @@
+{
+  "runTime": 1745674115370,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1828718,
+        "num": 1828718,
+        "word": "特朗普拿P图甩锅中国",
+        "onboard_time": 1745668163,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1146376,
+        "num": 1146376,
+        "word": "张译王一博 华表影帝提名",
+        "onboard_time": 1745669962,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 51384,
+        "num": 1101828,
+        "word": "运河上的通州",
+        "onboard_time": 1745666721,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1059596,
+        "num": 1059596,
+        "word": "华表奖提名名单",
+        "onboard_time": 1745669423,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 696312,
+        "num": 696312,
+        "word": "比大熊猫更濒危的动物全国仅剩1只",
+        "onboard_time": 1745664141,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 448087,
+        "num": 448087,
+        "word": "中情局高官之子在俄乌冲突中战死",
+        "onboard_time": 1745667922,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 303563,
+        "num": 303563,
+        "word": "央视曝光假非遗传承人是AI生成",
+        "onboard_time": 1745662580,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291647,
+        "num": 291647,
+        "word": "周深北影节献唱我只在乎你",
+        "onboard_time": 1745671702,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 288816,
+        "num": 288816,
+        "word": "王者联动三丽鸥家族新皮肤",
+        "onboard_time": 1745671702,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 260828,
+        "num": 260828,
+        "word": "刘宇宁献唱北影节致敬电影人",
+        "onboard_time": 1745668581,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 2132554,
+        "num": 260803,
+        "word": "网购避孕套被配送员骚扰",
+        "onboard_time": 1745665102,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 793494,
+        "num": 260760,
+        "word": "刘烨太瘦了",
+        "onboard_time": 1745665340,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 714015,
+        "num": 260677,
+        "word": "饿了么回应买避孕套被配送员骚扰",
+        "onboard_time": 1745667802,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 511082,
+        "num": 260610,
+        "word": "杨紫碎花抹胸长裙",
+        "onboard_time": 1745671161,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 260598,
+        "num": 260598,
+        "word": "伊朗港口油罐爆炸事件最新进展",
+        "onboard_time": 1745667683,
+        "rank": 14,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 234312,
+        "num": 247268,
+        "word": "惠英红马丽 华表影后提名",
+        "onboard_time": 1745669782,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 385487,
+        "num": 246772,
+        "word": "日本精神小妹有多可怕",
+        "onboard_time": 1745658982,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 163905,
+        "num": 244788,
+        "word": "陈少熙直播开嗓唱新歌",
+        "onboard_time": 1745672662,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243574,
+        "num": 243574,
+        "word": "明日方舟皮肤",
+        "onboard_time": 1745671461,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 31678,
+        "num": 235221,
+        "word": "讨好型人格曾被误解为性格好",
+        "onboard_time": 1745672781,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 365112,
+        "num": 231973,
+        "word": "发明调休的人有没有考虑过单休的人",
+        "onboard_time": 1745668343,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 228202,
+        "num": 228202,
+        "word": "倪妮红毯太权威了",
+        "onboard_time": 1745669602,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 257254,
+        "num": 214570,
+        "word": "全款76万买到260平的房子",
+        "onboard_time": 1745664621,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196632,
+        "num": 196632,
+        "word": "男子被打20个月后死亡案3大争议点",
+        "onboard_time": 1745672241,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31952,
+        "num": 185991,
+        "word": "王者新综艺cos野区天团",
+        "onboard_time": 1745669901,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 233749,
+        "num": 185795,
+        "word": "被刘宇宁这首歌打动了",
+        "onboard_time": 1745673683,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 177373,
+        "num": 177373,
+        "word": "流浪地球2等提名优秀故事片",
+        "onboard_time": 1745670863,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 185226,
+        "num": 176799,
+        "word": "看似养胃其实伤胃的4个习惯",
+        "onboard_time": 1745667022,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 65364,
+        "num": 174777,
+        "word": "亚马逊等美国电商平台集体提价",
+        "onboard_time": 1745673863,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 57099,
+        "num": 173972,
+        "word": "印度男子婚礼当天新娘被调包成岳母",
+        "onboard_time": 1745673562,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 173942,
+        "num": 173942,
+        "word": "吴宣仪 黑粉老是说我牙龅",
+        "onboard_time": 1745662701,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172771,
+        "num": 172771,
+        "word": "编剧赵娜回应无忧渡结局",
+        "onboard_time": 1745673621,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171676,
+        "num": 171676,
+        "word": "脖子",
+        "onboard_time": 1745673983,
+        "rank": 32,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 170780,
+        "num": 170780,
+        "word": "发现了韩国人来中国的秘密",
+        "onboard_time": 1745664621,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167142,
+        "num": 167142,
+        "word": "您的外卖小哥正在拍狗",
+        "onboard_time": 1745672781,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165681,
+        "num": 165681,
+        "word": "王一博三部电影提名华表奖",
+        "onboard_time": 1745673141,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 160943,
+        "num": 160943,
+        "word": "明日方舟",
+        "onboard_time": 1745640261,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 153054,
+        "num": 153054,
+        "word": "五一大量外国人涌入中国",
+        "onboard_time": 1745656701,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 148268,
+        "num": 148268,
+        "word": "伊朗南部阿巴斯港港口发生爆炸",
+        "onboard_time": 1745662280,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 147512,
+        "num": 147512,
+        "word": "迅猛龙直播哭了",
+        "onboard_time": 1745661801,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 146742,
+        "num": 146742,
+        "word": "你意想不到的两个人在一起了",
+        "onboard_time": 1745654182,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 19197,
+        "num": 141718,
+        "word": "旋护剃须刀挑战12小时无须感",
+        "onboard_time": 1745672361,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141578,
+        "num": 141578,
+        "word": "余宇涵演沈星被换给了刘奕畅",
+        "onboard_time": 1745672722,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146084,
+        "num": 139133,
+        "word": "韩国一公司要求员工缩短洗衣服周期",
+        "onboard_time": 1745671702,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 136556,
+        "num": 136556,
+        "word": "赵娜编剧",
+        "onboard_time": 1745672004,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134958,
+        "num": 134958,
+        "word": "惠英红提名华表奖创中国香港历史",
+        "onboard_time": 1745671402,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 128497,
+        "num": 128497,
+        "word": "赵丽颖不去华表奖",
+        "onboard_time": 1745666541,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 128471,
+        "num": 128471,
+        "word": "炒股赚6000万男子不否认有幸存者偏差",
+        "onboard_time": 1745672542,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98107,
+        "num": 127819,
+        "word": "任杰因猥亵女性被行拘10天",
+        "onboard_time": 1745671883,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127562,
+        "num": 127562,
+        "word": "你好星期六",
+        "onboard_time": 1745669901,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#牢牢掌握人工智能发展和治理主动权#"
+    }
+  }
+}
