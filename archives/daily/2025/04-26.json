@@ -1,6 +1,6 @@
 {
   "startTime": 1745598635164,
-  "endTime": 1745678344605,
+  "endTime": 1745680991405,
   "band_list": [
     {
       "raw_hot": 3420165,
@@ -91,6 +91,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1357782,
+      "num": 1357782,
+      "word": "丁禹兮 舒心",
+      "onboard_time": 1745678065,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1292816,
       "num": 1292816,
       "word": "比大熊猫更濒危的动物全国仅剩1只",
@@ -169,6 +177,14 @@
       "onboard_time": 1745595501,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 984934,
+      "num": 495585,
+      "word": "裸辞一年发现不上班根本不需要旅游",
+      "onboard_time": 1745676863,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 941667,
@@ -563,6 +579,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 436099,
+      "num": 436099,
+      "word": "女生来一次月经大概要花多少钱",
+      "onboard_time": 1745677884,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 434299,
       "num": 434299,
       "word": "Jennie德国版芭莎封面",
@@ -619,12 +643,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 393985,
-      "num": 393985,
-      "word": "裸辞一年发现不上班根本不需要旅游",
-      "onboard_time": 1745676863,
-      "rank": 39,
-      "category": "情感"
+      "raw_hot": 400290,
+      "num": 400290,
+      "word": "你好星期六石凯镜头被剪",
+      "onboard_time": 1745679023,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 398826,
+      "num": 398826,
+      "word": "陈妍希 假的就是假的它真不了",
+      "onboard_time": 1745677102,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 392130,
@@ -739,20 +771,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 325682,
+      "num": 325682,
+      "word": "肖战真的去了孙燕姿演唱会",
+      "onboard_time": 1745677464,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 322102,
       "num": 213680,
       "word": "陈妍希工作室回应与帅哥聚餐",
       "onboard_time": 1745656280,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 314595,
-      "num": 314595,
-      "word": "肖战真的去了孙燕姿演唱会",
-      "onboard_time": 1745677464,
-      "rank": 19,
-      "category": "演出"
     },
     {
       "raw_hot": 312557,
@@ -891,6 +923,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 272961,
+      "num": 272961,
+      "word": "李云霄不辞星海致敬航天人",
+      "onboard_time": 1745678424,
+      "rank": 22,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 267666,
       "num": 252969,
       "word": "乌鸡白凤丸谁吃谁好用",
@@ -963,14 +1003,6 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 256590,
-      "num": 256590,
-      "word": "陈妍希 假的就是假的它真不了",
-      "onboard_time": 1745677102,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 252987,
       "num": 252987,
       "word": "念无双中疑有加拿大一枝黄花入镜",
@@ -979,8 +1011,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 249508,
-      "num": 249508,
+      "raw_hot": 250807,
+      "num": 250807,
       "word": "保安每天偷用女员工杯子喝水",
       "onboard_time": 1745675603,
       "rank": 23,
@@ -1035,14 +1067,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 238931,
-      "num": 238931,
-      "word": "丁禹兮 舒心",
-      "onboard_time": 1745678065,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 237860,
       "num": 237860,
       "word": "60岁阿姨离婚后的状态",
@@ -1057,6 +1081,14 @@
       "onboard_time": 1745670863,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 231579,
+      "num": 231579,
+      "word": "黄子弘凡在张杰演唱会帮带ID",
+      "onboard_time": 1745679744,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 229231,
@@ -1097,6 +1129,14 @@
       "onboard_time": 1745674402,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 224357,
+      "num": 224357,
+      "word": "生理性厌恶的7个常见表现",
+      "onboard_time": 1745676804,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 224133,
@@ -1211,6 +1251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 207208,
+      "num": 238646,
+      "word": "王曼昱拟获全国先进工作者表彰",
+      "onboard_time": 1745677645,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 206608,
       "num": 206608,
       "word": "惠英红提名华表奖创中国香港历史",
@@ -1307,14 +1355,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 196978,
-      "num": 196978,
-      "word": "生理性厌恶的7个常见表现",
-      "onboard_time": 1745676804,
-      "rank": 47,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 196923,
       "num": 196923,
       "word": "王一博获得GT3AM组冠军",
@@ -1329,14 +1369,6 @@
       "onboard_time": 1745672241,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 196483,
-      "num": 238646,
-      "word": "王曼昱拟获全国先进工作者表彰",
-      "onboard_time": 1745677645,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 196355,
@@ -1427,12 +1459,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 190715,
+      "num": 190715,
+      "word": "刘奕畅李沐宸一个不服一个迟到",
+      "onboard_time": 1745680522,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190704,
       "num": 190704,
       "word": "华表奖直播说王俊凯今晚到",
       "onboard_time": 1745666842,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 190433,
+      "num": 190433,
+      "word": "宁芙奖请投园丁",
+      "onboard_time": 1745680463,
+      "rank": 30,
+      "category": "动漫"
     },
     {
       "raw_hot": 190091,
@@ -1515,6 +1563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184041,
+      "num": 184041,
+      "word": "第1号台风",
+      "onboard_time": 1745676924,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 183780,
       "num": 183780,
       "word": "于子洋张蔷举办婚礼",
@@ -1545,6 +1601,30 @@
       "onboard_time": 1745640923,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178812,
+      "num": 178812,
+      "word": "王者荣耀",
+      "onboard_time": 1745680823,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 176980,
+      "num": 501985,
+      "word": "开了瑞幸会员卡价格反比别人贵",
+      "onboard_time": 1745676624,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 175291,
+      "num": 175291,
+      "word": "小明剑魔老婆",
+      "onboard_time": 1745679263,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 175248,
@@ -1585,14 +1665,6 @@
       "onboard_time": 1745647880,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 171990,
-      "num": 501985,
-      "word": "开了瑞幸会员卡价格反比别人贵",
-      "onboard_time": 1745676624,
-      "rank": 14,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 171604,
@@ -1827,6 +1899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160722,
+      "num": 160722,
+      "word": "上海申花4连胜",
+      "onboard_time": 1745680643,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160141,
       "num": 160141,
       "word": "VaVa身上痒就去洗澡",
@@ -1955,14 +2035,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 153543,
-      "num": 153543,
-      "word": "第1号台风",
-      "onboard_time": 1745676924,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 153115,
       "num": 153115,
       "word": "邓家佳坏了这可是我的强项",
@@ -2017,14 +2089,6 @@
       "onboard_time": 1745676924,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 151897,
-      "num": 151897,
-      "word": "女生来一次月经大概要花多少钱",
-      "onboard_time": 1745677884,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 149547,
@@ -2083,12 +2147,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 147699,
+      "num": 147699,
+      "word": "台民众持大陆身份证被撤销所谓台户籍",
+      "onboard_time": 1745680463,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147593,
       "num": 147593,
       "word": "如鸢",
       "onboard_time": 1745642181,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 147431,
+      "num": 147431,
+      "word": "诗情画奕",
+      "onboard_time": 1745679563,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 146758,
@@ -2201,6 +2281,14 @@
       "onboard_time": 1745631201,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140708,
+      "num": 140708,
+      "word": "aespa台湾开麦舞台",
+      "onboard_time": 1745679505,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 140566,
@@ -2451,6 +2539,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 125378,
+      "num": 125378,
+      "word": "傅首尔反串边水往事",
+      "onboard_time": 1745680763,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125209,
       "num": 125209,
       "word": "路人偶遇马柏全",
@@ -2521,6 +2617,14 @@
       "onboard_time": 1745658680,
       "rank": 42,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 121061,
+      "num": 121061,
+      "word": "刘宇宁上身25春夏新季高定",
+      "onboard_time": 1745680763,
+      "rank": 48,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 120716,
@@ -2873,6 +2977,14 @@
       "onboard_time": 1745639061,
       "rank": 41,
       "category": "数码"
+    },
+    {
+      "raw_hot": 99295,
+      "num": 514471,
+      "word": "美国似乎在与自己谈判",
+      "onboard_time": 1745678242,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 98920,
@@ -3315,6 +3427,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 75465,
+      "num": 295874,
+      "word": "留学生飞8800公里回国取现85万被劝阻",
+      "onboard_time": 1745679804,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74864,
       "num": 134974,
       "word": "越南女孩街头强势围观解放军",
@@ -3337,6 +3457,14 @@
       "onboard_time": 1745587342,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73927,
+      "num": 1694767,
+      "word": "MadeInChina硬控全球客商",
+      "onboard_time": 1745676624,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 72823,
@@ -3395,14 +3523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 63798,
-      "num": 231121,
-      "word": "美国似乎在与自己谈判",
-      "onboard_time": 1745678242,
-      "rank": 28,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 63685,
       "num": 63685,
       "word": "你可能一直忌口错了",
@@ -3425,14 +3545,6 @@
       "onboard_time": 1745594243,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 62595,
-      "num": 1694767,
-      "word": "MadeInChina硬控全球客商",
-      "onboard_time": 1745676624,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 60365,
@@ -3459,6 +3571,14 @@
       "category": "议题讨论,旅游"
     },
     {
+      "raw_hot": 57014,
+      "num": 416906,
+      "word": "如何看待拆二代败光近4000万",
+      "onboard_time": 1745680163,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56882,
       "num": 258267,
       "word": "大路灯看似高大上实为通用灯具",
@@ -3473,6 +3593,14 @@
       "onboard_time": 1745666721,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 55696,
+      "num": 147541,
+      "word": "董明珠间谍说有没有错",
+      "onboard_time": 1745680283,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55400,

@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745678344605,
+  "endTime": 1745680991405,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -803,6 +803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1357782,
+      "num": 1357782,
+      "word": "丁禹兮 舒心",
+      "onboard_time": 1745678065,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1345788,
       "num": 1345788,
       "word": "美元跌麻了",
@@ -1473,6 +1481,14 @@
       "onboard_time": 1745301802,
       "rank": 3,
       "category": "互联网,剧集"
+    },
+    {
+      "raw_hot": 984934,
+      "num": 495585,
+      "word": "裸辞一年发现不上班根本不需要旅游",
+      "onboard_time": 1745676863,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 983198,
@@ -4059,6 +4075,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 436099,
+      "num": 436099,
+      "word": "女生来一次月经大概要花多少钱",
+      "onboard_time": 1745677884,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 435905,
       "num": 435905,
       "word": "蒯曼落选多哈世乒赛",
@@ -4443,6 +4467,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 400290,
+      "num": 400290,
+      "word": "你好星期六石凯镜头被剪",
+      "onboard_time": 1745679023,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 398826,
+      "num": 398826,
+      "word": "陈妍希 假的就是假的它真不了",
+      "onboard_time": 1745677102,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 398588,
       "num": 398588,
       "word": "被苍兰诀2疯感狠狠烧到了",
@@ -4481,14 +4521,6 @@
       "onboard_time": 1745221281,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 393985,
-      "num": 393985,
-      "word": "裸辞一年发现不上班根本不需要旅游",
-      "onboard_time": 1745676863,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 393498,
@@ -5483,6 +5515,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 325682,
+      "num": 325682,
+      "word": "肖战真的去了孙燕姿演唱会",
+      "onboard_time": 1745677464,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 325612,
       "num": 251956,
       "word": "35岁程序员长期熬夜脑干出血",
@@ -5641,14 +5681,6 @@
       "onboard_time": 1745457682,
       "rank": 6,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 314595,
-      "num": 314595,
-      "word": "肖战真的去了孙燕姿演唱会",
-      "onboard_time": 1745677464,
-      "rank": 19,
-      "category": "演出"
     },
     {
       "raw_hot": 314235,
@@ -6555,6 +6587,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 272961,
+      "num": 272961,
+      "word": "李云霄不辞星海致敬航天人",
+      "onboard_time": 1745678424,
+      "rank": 22,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 272908,
       "num": 282781,
       "word": "不二之臣 双强",
@@ -6963,14 +7003,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 256590,
-      "num": 256590,
-      "word": "陈妍希 假的就是假的它真不了",
-      "onboard_time": 1745677102,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 256013,
       "num": 256013,
       "word": "异人之下夏禾首曝",
@@ -7131,6 +7163,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 250807,
+      "num": 250807,
+      "word": "保安每天偷用女员工杯子喝水",
+      "onboard_time": 1745675603,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 250483,
       "num": 250483,
       "word": "NIP对战TES",
@@ -7153,14 +7193,6 @@
       "onboard_time": 1745245824,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 249508,
-      "num": 249508,
-      "word": "保安每天偷用女员工杯子喝水",
-      "onboard_time": 1745675603,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 249078,
@@ -7491,14 +7523,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 238931,
-      "num": 238931,
-      "word": "丁禹兮 舒心",
-      "onboard_time": 1745678065,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 238463,
       "num": 247478,
       "word": "tws回归",
@@ -7721,6 +7745,14 @@
       "onboard_time": 1745375722,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 231579,
+      "num": 231579,
+      "word": "黄子弘凡在张杰演唱会帮带ID",
+      "onboard_time": 1745679744,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 231432,
@@ -8001,6 +8033,14 @@
       "onboard_time": 1745407581,
       "rank": 49,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 224357,
+      "num": 224357,
+      "word": "生理性厌恶的7个常见表现",
+      "onboard_time": 1745676804,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 224179,
@@ -8713,6 +8753,14 @@
       "onboard_time": 1745143642,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 207208,
+      "num": 238646,
+      "word": "王曼昱拟获全国先进工作者表彰",
+      "onboard_time": 1745677645,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 207203,
@@ -9579,14 +9627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 196978,
-      "num": 196978,
-      "word": "生理性厌恶的7个常见表现",
-      "onboard_time": 1745676804,
-      "rank": 47,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 196960,
       "num": 167701,
       "word": "唐国强上优酷节目感谢哔哩哔哩",
@@ -9641,14 +9681,6 @@
       "onboard_time": 1745317941,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 196483,
-      "num": 238646,
-      "word": "王曼昱拟获全国先进工作者表彰",
-      "onboard_time": 1745677645,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 196446,
@@ -10155,6 +10187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 190715,
+      "num": 190715,
+      "word": "刘奕畅李沐宸一个不服一个迟到",
+      "onboard_time": 1745680522,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190707,
       "num": 190707,
       "word": "雨果称打王楚钦最困难",
@@ -10185,6 +10225,14 @@
       "onboard_time": 1745293223,
       "rank": 30,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 190433,
+      "num": 190433,
+      "word": "宁芙奖请投园丁",
+      "onboard_time": 1745680463,
+      "rank": 30,
+      "category": "动漫"
     },
     {
       "raw_hot": 190394,
@@ -10707,6 +10755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184041,
+      "num": 184041,
+      "word": "第1号台风",
+      "onboard_time": 1745676924,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 183893,
       "num": 339863,
       "word": "神舟二十号航天员感觉良好",
@@ -11219,6 +11275,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 176980,
+      "num": 501985,
+      "word": "开了瑞幸会员卡价格反比别人贵",
+      "onboard_time": 1745676624,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 176939,
       "num": 176939,
       "word": "宫崎骏电影幽灵公主定档五一",
@@ -11305,6 +11369,14 @@
       "onboard_time": 1745376441,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 175291,
+      "num": 175291,
+      "word": "小明剑魔老婆",
+      "onboard_time": 1745679263,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 175248,
@@ -11633,14 +11705,6 @@
       "onboard_time": 1745406803,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 171990,
-      "num": 501985,
-      "word": "开了瑞幸会员卡价格反比别人贵",
-      "onboard_time": 1745676624,
-      "rank": 14,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 171871,
@@ -12779,6 +12843,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 160722,
+      "num": 160722,
+      "word": "上海申花4连胜",
+      "onboard_time": 1745680643,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160613,
       "num": 176068,
       "word": "郑钦文0比2波塔波娃",
@@ -13587,14 +13659,6 @@
       "category": "旅游,民生新闻"
     },
     {
-      "raw_hot": 153543,
-      "num": 153543,
-      "word": "第1号台风",
-      "onboard_time": 1745676924,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 153226,
       "num": 153226,
       "word": "刘宇宁感觉上次哭早了",
@@ -13793,14 +13857,6 @@
       "onboard_time": 1745147903,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 151897,
-      "num": 151897,
-      "word": "女生来一次月经大概要花多少钱",
-      "onboard_time": 1745677884,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 151698,
@@ -14267,6 +14323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147699,
+      "num": 147699,
+      "word": "台民众持大陆身份证被撤销所谓台户籍",
+      "onboard_time": 1745680463,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147681,
       "num": 147681,
       "word": "美媒称特朗普压力太大顶不住",
@@ -14297,6 +14361,14 @@
       "onboard_time": 1745406623,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147431,
+      "num": 147431,
+      "word": "诗情画奕",
+      "onboard_time": 1745679563,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 147364,
@@ -15057,6 +15129,14 @@
       "onboard_time": 1745562561,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140708,
+      "num": 140708,
+      "word": "aespa台湾开麦舞台",
+      "onboard_time": 1745679505,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 140687,
@@ -16803,6 +16883,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 125378,
+      "num": 125378,
+      "word": "傅首尔反串边水往事",
+      "onboard_time": 1745680763,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125354,
       "num": 192339,
       "word": "孙颖莎挑球挑错筐",
@@ -17145,6 +17233,14 @@
       "onboard_time": 1745462120,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 121061,
+      "num": 121061,
+      "word": "刘宇宁上身25春夏新季高定",
+      "onboard_time": 1745680763,
+      "rank": 48,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 121056,
@@ -18891,6 +18987,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 99295,
+      "num": 514471,
+      "word": "美国似乎在与自己谈判",
+      "onboard_time": 1745678242,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 99031,
       "num": 159675,
       "word": "福宝为何会反复经历假孕状态",
@@ -20531,6 +20635,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 75465,
+      "num": 295874,
+      "word": "留学生飞8800公里回国取现85万被劝阻",
+      "onboard_time": 1745679804,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75225,
       "num": 271717,
       "word": "王一博挑战纸巾上打高尔夫",
@@ -20617,6 +20729,14 @@
       "onboard_time": 1745407702,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 73927,
+      "num": 1694767,
+      "word": "MadeInChina硬控全球客商",
+      "onboard_time": 1745676624,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 73854,
@@ -21387,14 +21507,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 63798,
-      "num": 231121,
-      "word": "美国似乎在与自己谈判",
-      "onboard_time": 1745678242,
-      "rank": 28,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 63773,
       "num": 77816,
       "word": "喝过期酸奶会怎么样",
@@ -21481,14 +21593,6 @@
       "onboard_time": 1745578702,
       "rank": 29,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 62595,
-      "num": 1694767,
-      "word": "MadeInChina硬控全球客商",
-      "onboard_time": 1745676624,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 62253,
@@ -21955,6 +22059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57014,
+      "num": 416906,
+      "word": "如何看待拆二代败光近4000万",
+      "onboard_time": 1745680163,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56882,
       "num": 258267,
       "word": "大路灯看似高大上实为通用灯具",
@@ -22033,6 +22145,14 @@
       "onboard_time": 1745305161,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 55696,
+      "num": 147541,
+      "word": "董明珠间谍说有没有错",
+      "onboard_time": 1745680283,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55638,
