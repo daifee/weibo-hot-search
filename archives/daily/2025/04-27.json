@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1745706148482,
+  "endTime": 1745707172688,
   "band_list": [
     {
       "raw_hot": 2550222,
@@ -91,20 +91,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 422868,
+      "num": 375792,
+      "word": "肖战追星和我们也没区别",
+      "onboard_time": 1745684361,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 412704,
       "num": 266357,
       "word": "你好星期六石凯镜头被剪",
       "onboard_time": 1745679023,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 390655,
-      "num": 375792,
-      "word": "肖战追星和我们也没区别",
-      "onboard_time": 1745684361,
-      "rank": 16,
-      "category": "演出"
     },
     {
       "raw_hot": 319593,
@@ -195,6 +195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158652,
+      "num": 158652,
+      "word": "俄2岁女童被锁家中喝马桶水存活",
+      "onboard_time": 1745682622,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 152648,
       "num": 152648,
       "word": "许嵩惊鸿一面万人大合唱",
@@ -233,14 +241,6 @@
       "onboard_time": 1745675603,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 119863,
-      "num": 150343,
-      "word": "俄2岁女童被锁家中喝马桶水存活",
-      "onboard_time": 1745682622,
-      "rank": 43,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 116392,
@@ -331,6 +331,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 84753,
+      "num": 84753,
+      "word": "肖战2014年的愿望实现了",
+      "onboard_time": 1745697433,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 82878,
       "num": 82878,
       "word": "美人鱼表演者恢复意识后发声",
@@ -411,6 +419,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 67802,
+      "num": 67802,
+      "word": "美防长群聊泄密事件又起风波",
+      "onboard_time": 1745701513,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 60465,
       "num": 149844,
       "word": "你要平整土地而非焦虑时光",
@@ -427,28 +443,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 54920,
-      "num": 54920,
-      "word": "肖战2014年的愿望实现了",
-      "onboard_time": 1745697433,
-      "rank": 19,
-      "category": "演出"
-    },
-    {
       "raw_hot": 52307,
       "num": 229705,
       "word": "炒股赚6000万男子不否认有幸存者偏差",
       "onboard_time": 1745672542,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 49171,
-      "num": 49171,
-      "word": "美防长群聊泄密事件又起风波",
-      "onboard_time": 1745701513,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 46585,
@@ -475,20 +475,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 32340,
-      "num": 32340,
+      "raw_hot": 41931,
+      "num": 41931,
+      "word": "把六旬老人吴镇宇气成小伙了",
+      "onboard_time": 1745695033,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 40709,
+      "num": 40709,
       "word": "全球聚焦中国回应中美所谓关税谈判",
       "onboard_time": 1745696293,
       "rank": 9,
       "category": "国际时政"
     },
     {
-      "raw_hot": 32120,
-      "num": 32120,
-      "word": "把六旬老人吴镇宇气成小伙了",
-      "onboard_time": 1745695033,
-      "rank": 49,
-      "category": "综艺"
+      "raw_hot": 33559,
+      "num": 39259,
+      "word": "孙燕姿演唱会",
+      "onboard_time": 1745685919,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 30324,
@@ -497,14 +505,6 @@
       "onboard_time": 1745661801,
       "rank": 49,
       "category": "网红"
-    },
-    {
-      "raw_hot": 29613,
-      "num": 29613,
-      "word": "孙燕姿演唱会",
-      "onboard_time": 1745685919,
-      "rank": 44,
-      "category": "演出"
     },
     {
       "raw_hot": 29318,
@@ -579,20 +579,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 21156,
+      "num": 39097,
+      "word": "太原溺水美人鱼仍在ICU观察",
+      "onboard_time": 1745700493,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20735,
+      "num": 39065,
+      "word": "突然懂了当时只道是寻常的含金量",
+      "onboard_time": 1745706736,
+      "rank": 47,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 20247,
       "num": 28532,
       "word": "时代少年团演唱会答题",
       "onboard_time": 1745692695,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 19169,
-      "num": 26159,
-      "word": "太原溺水美人鱼仍在ICU观察",
-      "onboard_time": 1745700493,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 19067,
@@ -603,8 +611,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 16850,
-      "num": 26155,
+      "raw_hot": 18494,
+      "num": 39019,
       "word": "王一博AM组别第一",
       "onboard_time": 1745704455,
       "rank": 47,
