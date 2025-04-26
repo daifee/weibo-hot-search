@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1745666366778,
+  "endTime": 1745667392224,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -865,6 +865,14 @@
       "onboard_time": 1744764503,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 2335563,
+      "num": 311003,
+      "word": "网购避孕套被配送员骚扰",
+      "onboard_time": 1745665102,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2327785,
@@ -2371,14 +2379,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 1515889,
-      "num": 311003,
-      "word": "网购避孕套被配送员骚扰",
-      "onboard_time": 1745665102,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1515351,
       "num": 1515351,
       "word": "女孩谎称生病剃光头外公果然剃了",
@@ -3449,6 +3449,14 @@
       "onboard_time": 1745285181,
       "rank": 20,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1292816,
+      "num": 1292816,
+      "word": "比大熊猫更濒危的动物全国仅剩1只",
+      "onboard_time": 1745664141,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1292536,
@@ -4737,14 +4745,6 @@
       "onboard_time": 1744904422,
       "rank": 10,
       "category": "演出"
-    },
-    {
-      "raw_hot": 1097222,
-      "num": 1175555,
-      "word": "比大熊猫更濒危的动物全国仅剩1只",
-      "onboard_time": 1745664141,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1094472,
@@ -8883,6 +8883,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 712667,
+      "num": 712667,
+      "word": "任素汐新剧尺度",
+      "onboard_time": 1745664982,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 712373,
       "num": 712373,
       "word": "刘国正说雨果完全是拼刺刀打法",
@@ -10161,14 +10169,6 @@
       "onboard_time": 1743578302,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 643211,
-      "num": 643211,
-      "word": "任素汐新剧尺度",
-      "onboard_time": 1745664982,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 642775,
@@ -17011,6 +17011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 407209,
+      "num": 269347,
+      "word": "全款76万买到260平的房子",
+      "onboard_time": 1745664621,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 406818,
       "num": 265321,
       "word": "当事人回应取名朱雀玄武敕令",
@@ -19011,20 +19019,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 364848,
+      "num": 358429,
+      "word": "evisu 王一博",
+      "onboard_time": 1745663360,
+      "rank": 9,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 364560,
       "num": 364560,
       "word": "特朗普称不会暂停关税政策",
       "onboard_time": 1744068380,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 364421,
-      "num": 269347,
-      "word": "全款76万买到260平的房子",
-      "onboard_time": 1745664621,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 364404,
@@ -19305,14 +19313,6 @@
       "onboard_time": 1743561021,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 358429,
-      "num": 358429,
-      "word": "evisu 王一博",
-      "onboard_time": 1745663360,
-      "rank": 9,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 358388,
@@ -22041,6 +22041,14 @@
       "onboard_time": 1743668541,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 313024,
+      "num": 237244,
+      "word": "刘烨太瘦了",
+      "onboard_time": 1745665340,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 312797,
@@ -26267,6 +26275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 261161,
+      "num": 255172,
+      "word": "发现了韩国人来中国的秘密",
+      "onboard_time": 1745664621,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 261141,
       "num": 261141,
       "word": "MAC 丁禹兮",
@@ -26881,14 +26897,6 @@
       "onboard_time": 1744010182,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 255172,
-      "num": 255172,
-      "word": "发现了韩国人来中国的秘密",
-      "onboard_time": 1745664621,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 254788,
@@ -28731,14 +28739,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 237244,
-      "num": 237244,
-      "word": "刘烨太瘦了",
-      "onboard_time": 1745665340,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 237060,
       "num": 237060,
       "word": "蔡徐坤南昌活动",
@@ -30563,6 +30563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 223738,
+      "num": 223738,
+      "word": "林志玲裙子上串了多少颗珠子",
+      "onboard_time": 1745666302,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 223691,
       "num": 223691,
       "word": "专科的风还是吹到了麻省理工",
@@ -32219,6 +32227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212416,
+      "num": 268389,
+      "word": "林志玲薄纱珠帘礼裙",
+      "onboard_time": 1745665881,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 212405,
       "num": 164552,
       "word": "豪士直播",
@@ -32843,6 +32859,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 209514,
+      "num": 209514,
+      "word": "秦岚蓝色露肩裙",
+      "onboard_time": 1745666002,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 209466,
       "num": 251005,
       "word": "F勒布伦无缘世界杯16强",
@@ -33201,6 +33225,14 @@
       "onboard_time": 1743774743,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 208078,
+      "num": 173752,
+      "word": "人生回报率最高的一件事之一",
+      "onboard_time": 1745666901,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 208001,
@@ -35539,6 +35571,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 199452,
+      "num": 301729,
+      "word": "特朗普政府将恢复外国学生合法身份",
+      "onboard_time": 1745665340,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 199434,
       "num": 199434,
       "word": "周杰伦董宇辉录的节目终于要播了",
@@ -36121,6 +36161,14 @@
       "onboard_time": 1744817661,
       "rank": 2,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 198033,
+      "num": 198033,
+      "word": "赵丽颖不去华表奖",
+      "onboard_time": 1745666541,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 197987,
@@ -38481,6 +38529,14 @@
       "onboard_time": 1745229443,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190704,
+      "num": 190704,
+      "word": "华表奖直播说王俊凯今晚到",
+      "onboard_time": 1745666842,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 190674,
@@ -41537,14 +41593,6 @@
       "onboard_time": 1744170443,
       "rank": 37,
       "category": "财经"
-    },
-    {
-      "raw_hot": 180589,
-      "num": 268389,
-      "word": "林志玲薄纱珠帘礼裙",
-      "onboard_time": 1745665881,
-      "rank": 21,
-      "category": "电影"
     },
     {
       "raw_hot": 180577,
@@ -46843,6 +46891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162568,
+      "num": 313559,
+      "word": "脑瘫女骑手谈选择成为母亲",
+      "onboard_time": 1745664801,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 162515,
       "num": 162515,
       "word": "张杰演唱会的观众太有节目了",
@@ -48371,6 +48427,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 157797,
+      "num": 157797,
+      "word": "落花女主是胡意旋",
+      "onboard_time": 1745664382,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157738,
       "num": 157738,
       "word": "吃饭跑步和恋爱 姐狗文学",
@@ -49225,14 +49289,6 @@
       "onboard_time": 1743840320,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 155423,
-      "num": 155423,
-      "word": "落花女主是胡意旋",
-      "onboard_time": 1745664382,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 155412,
@@ -58403,14 +58459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 131397,
-      "num": 131397,
-      "word": "秦岚蓝色露肩裙",
-      "onboard_time": 1745666002,
-      "rank": 37,
-      "category": "电影"
-    },
-    {
       "raw_hot": 131303,
       "num": 131303,
       "word": "不良人",
@@ -58921,6 +58969,14 @@
       "onboard_time": 1745121023,
       "rank": 49,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 130181,
+      "num": 130181,
+      "word": "五一入境游订单量同比暴增173%",
+      "onboard_time": 1745666601,
+      "rank": 42,
+      "category": "旅游"
     },
     {
       "raw_hot": 130166,
@@ -59897,6 +59953,14 @@
       "onboard_time": 1743907581,
       "rank": 45,
       "category": "网红"
+    },
+    {
+      "raw_hot": 127621,
+      "num": 127621,
+      "word": "华晨宇在后台跟周传雄唱黄昏",
+      "onboard_time": 1745666122,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 127608,
@@ -63379,6 +63443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117876,
+      "num": 117876,
+      "word": "欢迎来到农家乐",
+      "onboard_time": 1745667022,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 117867,
       "num": 117867,
       "word": "4月十二星座注意事项",
@@ -63657,6 +63729,14 @@
       "onboard_time": 1745044883,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 117144,
+      "num": 168619,
+      "word": "肖战飘带深V",
+      "onboard_time": 1745667202,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 117058,
@@ -64699,6 +64779,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 113575,
+      "num": 113575,
+      "word": "看似养胃其实伤胃的4个习惯",
+      "onboard_time": 1745667022,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 113537,
       "num": 113537,
       "word": "猫景房",
@@ -64737,6 +64825,14 @@
       "onboard_time": 1744864043,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 113322,
+      "num": 113322,
+      "word": "JDG咚咚单场MVP",
+      "onboard_time": 1745666661,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 113317,
@@ -65577,14 +65673,6 @@
       "onboard_time": 1743934221,
       "rank": 39,
       "category": "财经"
-    },
-    {
-      "raw_hot": 110536,
-      "num": 110536,
-      "word": "华晨宇在后台跟周传雄唱黄昏",
-      "onboard_time": 1745666122,
-      "rank": 43,
-      "category": "演出"
     },
     {
       "raw_hot": 110533,
@@ -69475,14 +69563,6 @@
       "category": "动漫,艺人"
     },
     {
-      "raw_hot": 95142,
-      "num": 95142,
-      "word": "林志玲裙子上串了多少颗珠子",
-      "onboard_time": 1745666302,
-      "rank": 46,
-      "category": "电影"
-    },
-    {
       "raw_hot": 95060,
       "num": 95060,
       "word": "新版市场准入负面清单发布",
@@ -69700,7 +69780,7 @@
     },
     {
       "raw_hot": 94088,
-      "num": 94088,
+      "num": 199299,
       "word": "解放军复制粘贴亮相越南排面拉满",
       "onboard_time": 1745661261,
       "rank": 45,
@@ -70545,14 +70625,6 @@
       "onboard_time": 1743908661,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 89767,
-      "num": 301729,
-      "word": "特朗普政府将恢复外国学生合法身份",
-      "onboard_time": 1745665340,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 89704,
@@ -72883,14 +72955,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 78027,
-      "num": 313559,
-      "word": "脑瘫女骑手谈选择成为母亲",
-      "onboard_time": 1745664801,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 77897,
       "num": 370061,
       "word": "有全职网约护士月薪近2万",
@@ -73473,6 +73537,14 @@
       "onboard_time": 1744960880,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 74864,
+      "num": 134974,
+      "word": "越南女孩街头强势围观解放军",
+      "onboard_time": 1745666541,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 74856,
@@ -82683,6 +82755,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 35745,
+      "num": 269626,
+      "word": "拥有手机对青少年真正意味着什么",
+      "onboard_time": 1745665521,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35736,
       "num": 169506,
       "word": "原来拍立得相纸也有保质期",
@@ -85819,14 +85899,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 24314,
-      "num": 269626,
-      "word": "拥有手机对青少年真正意味着什么",
-      "onboard_time": 1745665521,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 24286,
       "num": 32688,
       "word": "米字贴窗",
@@ -86569,6 +86641,14 @@
       "onboard_time": 1744884621,
       "rank": 27,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 22004,
+      "num": 621707,
+      "word": "运河上的通州",
+      "onboard_time": 1745666721,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 21995,
@@ -88217,6 +88297,14 @@
       "onboard_time": 1743747921,
       "rank": 39,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 16981,
+      "num": 194633,
+      "word": "淮水竹亭阵容能否成为国产剧的新标杆",
+      "onboard_time": 1745666541,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 16925,

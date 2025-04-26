@@ -1,6 +1,6 @@
 {
   "startTime": 1745598635164,
-  "endTime": 1745666366778,
+  "endTime": 1745667392224,
   "band_list": [
     {
       "raw_hot": 3420165,
@@ -19,20 +19,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2335563,
+      "num": 311003,
+      "word": "网购避孕套被配送员骚扰",
+      "onboard_time": 1745665102,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2048864,
       "num": 360958,
       "word": "10泡尿毁了数万跑者的盛大赛事",
       "onboard_time": 1745630060,
       "rank": 8,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 1515889,
-      "num": 311003,
-      "word": "网购避孕套被配送员骚扰",
-      "onboard_time": 1745665102,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1462967,
@@ -51,6 +51,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1292816,
+      "num": 1292816,
+      "word": "比大熊猫更濒危的动物全国仅剩1只",
+      "onboard_time": 1745664141,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1279243,
       "num": 1279243,
       "word": "日本疯传东京将有8.3级地震",
@@ -65,14 +73,6 @@
       "onboard_time": 1745595501,
       "rank": 0,
       "category": "演出"
-    },
-    {
-      "raw_hot": 1097222,
-      "num": 1175555,
-      "word": "比大熊猫更濒危的动物全国仅剩1只",
-      "onboard_time": 1745664141,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1043803,
@@ -187,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 712667,
+      "num": 712667,
+      "word": "任素汐新剧尺度",
+      "onboard_time": 1745664982,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 697677,
       "num": 697677,
       "word": "外籍歌手唐伯虎回应拖欠劳务费",
@@ -209,14 +217,6 @@
       "onboard_time": 1745654182,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 643211,
-      "num": 643211,
-      "word": "任素汐新剧尺度",
-      "onboard_time": 1745664982,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 633269,
@@ -459,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 407209,
+      "num": 269347,
+      "word": "全款76万买到260平的房子",
+      "onboard_time": 1745664621,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 406138,
       "num": 406138,
       "word": "马斯克不到100天砍掉自己1500亿身家",
@@ -483,15 +491,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 364421,
-      "num": 269347,
-      "word": "全款76万买到260平的房子",
-      "onboard_time": 1745664621,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 358429,
+      "raw_hot": 364848,
       "num": 358429,
       "word": "evisu 王一博",
       "onboard_time": 1745663360,
@@ -568,6 +568,14 @@
       "word": "陈妍希工作室回应与帅哥聚餐",
       "onboard_time": 1745656280,
       "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 313024,
+      "num": 237244,
+      "word": "刘烨太瘦了",
+      "onboard_time": 1745665340,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -699,6 +707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 261161,
+      "num": 255172,
+      "word": "发现了韩国人来中国的秘密",
+      "onboard_time": 1745664621,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 261118,
       "num": 261078,
       "word": "小小的我为什么全网无路透照",
@@ -721,14 +737,6 @@
       "onboard_time": 1745625139,
       "rank": 14,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 255172,
-      "num": 255172,
-      "word": "发现了韩国人来中国的秘密",
-      "onboard_time": 1745664621,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 252987,
@@ -763,14 +771,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 237244,
-      "num": 237244,
-      "word": "刘烨太瘦了",
-      "onboard_time": 1745665340,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 229231,
       "num": 272496,
       "word": "央视曝光剧本式直播诈骗套路",
@@ -801,6 +801,14 @@
       "onboard_time": 1745623758,
       "rank": 9,
       "category": "演出"
+    },
+    {
+      "raw_hot": 223738,
+      "num": 223738,
+      "word": "林志玲裙子上串了多少颗珠子",
+      "onboard_time": 1745666302,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 223427,
@@ -835,6 +843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 212416,
+      "num": 268389,
+      "word": "林志玲薄纱珠帘礼裙",
+      "onboard_time": 1745665881,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 210772,
       "num": 231176,
       "word": "刘宇宁哽咽感谢杨坤的帮助",
@@ -843,12 +859,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209514,
+      "num": 209514,
+      "word": "秦岚蓝色露肩裙",
+      "onboard_time": 1745666002,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 209150,
       "num": 200074,
       "word": "最近少穿这些颜色衣服出门",
       "onboard_time": 1745648541,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 208078,
+      "num": 173752,
+      "word": "人生回报率最高的一件事之一",
+      "onboard_time": 1745666901,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 206385,
@@ -883,6 +915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199452,
+      "num": 301729,
+      "word": "特朗普政府将恢复外国学生合法身份",
+      "onboard_time": 1745665340,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 199270,
       "num": 187790,
       "word": "杨洋空降青岛",
@@ -897,6 +937,14 @@
       "onboard_time": 1745631201,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 198033,
+      "num": 198033,
+      "word": "赵丽颖不去华表奖",
+      "onboard_time": 1745666541,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 197412,
@@ -979,6 +1027,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 190704,
+      "num": 190704,
+      "word": "华表奖直播说王俊凯今晚到",
+      "onboard_time": 1745666842,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 190091,
       "num": 190091,
       "word": "六小龄童还记得43年前西游记群演",
@@ -1049,14 +1105,6 @@
       "onboard_time": 1745635162,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 180589,
-      "num": 268389,
-      "word": "林志玲薄纱珠帘礼裙",
-      "onboard_time": 1745665881,
-      "rank": 21,
-      "category": "电影"
     },
     {
       "raw_hot": 178858,
@@ -1203,6 +1251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162568,
+      "num": 313559,
+      "word": "脑瘫女骑手谈选择成为母亲",
+      "onboard_time": 1745664801,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161954,
       "num": 78392,
       "word": "特朗普说克里米亚属于俄罗斯",
@@ -1251,6 +1307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157797,
+      "num": 157797,
+      "word": "落花女主是胡意旋",
+      "onboard_time": 1745664382,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156884,
       "num": 156884,
       "word": "周深教唱歌郎朗教钢琴",
@@ -1289,14 +1353,6 @@
       "onboard_time": 1745642421,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 155423,
-      "num": 155423,
-      "word": "落花女主是胡意旋",
-      "onboard_time": 1745664382,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 154335,
@@ -1579,20 +1635,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 131397,
-      "num": 131397,
-      "word": "秦岚蓝色露肩裙",
-      "onboard_time": 1745666002,
-      "rank": 37,
-      "category": "电影"
-    },
-    {
       "raw_hot": 130657,
       "num": 130657,
       "word": "久酷说会回去好好复盘",
       "onboard_time": 1745598141,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 130181,
+      "num": 130181,
+      "word": "五一入境游订单量同比暴增173%",
+      "onboard_time": 1745666601,
+      "rank": 42,
+      "category": "旅游"
     },
     {
       "raw_hot": 129585,
@@ -1633,6 +1689,14 @@
       "onboard_time": 1745660241,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127621,
+      "num": 127621,
+      "word": "华晨宇在后台跟周传雄唱黄昏",
+      "onboard_time": 1745666122,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 127337,
@@ -1819,12 +1883,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 117876,
+      "num": 117876,
+      "word": "欢迎来到农家乐",
+      "onboard_time": 1745667022,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 117726,
       "num": 117726,
       "word": "管乐运气",
       "onboard_time": 1745649859,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 117144,
+      "num": 168619,
+      "word": "肖战飘带深V",
+      "onboard_time": 1745667202,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 117057,
@@ -1907,6 +1987,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113575,
+      "num": 113575,
+      "word": "看似养胃其实伤胃的4个习惯",
+      "onboard_time": 1745667022,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 113322,
+      "num": 113322,
+      "word": "JDG咚咚单场MVP",
+      "onboard_time": 1745666661,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 113316,
       "num": 113316,
       "word": "刘宇宁张碧晨谁也不放过谁",
@@ -1937,14 +2033,6 @@
       "onboard_time": 1745636600,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 110536,
-      "num": 110536,
-      "word": "华晨宇在后台跟周传雄唱黄昏",
-      "onboard_time": 1745666122,
-      "rank": 43,
-      "category": "演出"
     },
     {
       "raw_hot": 110026,
@@ -2163,14 +2251,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 95142,
-      "num": 95142,
-      "word": "林志玲裙子上串了多少颗珠子",
-      "onboard_time": 1745666302,
-      "rank": 46,
-      "category": "电影"
-    },
-    {
       "raw_hot": 94449,
       "num": 94449,
       "word": "对话炒股11年赚6000万男子",
@@ -2180,7 +2260,7 @@
     },
     {
       "raw_hot": 94088,
-      "num": 94088,
+      "num": 199299,
       "word": "解放军复制粘贴亮相越南排面拉满",
       "onboard_time": 1745661261,
       "rank": 45,
@@ -2281,14 +2361,6 @@
       "onboard_time": 1745625440,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 89767,
-      "num": 301729,
-      "word": "特朗普政府将恢复外国学生合法身份",
-      "onboard_time": 1745665340,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 89188,
@@ -2475,14 +2547,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 78027,
-      "num": 313559,
-      "word": "脑瘫女骑手谈选择成为母亲",
-      "onboard_time": 1745664801,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 77857,
       "num": 77857,
       "word": "猫科动物在睡觉的时候很警觉",
@@ -2537,6 +2601,14 @@
       "onboard_time": 1745657660,
       "rank": 29,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 74864,
+      "num": 134974,
+      "word": "越南女孩街头强势围观解放军",
+      "onboard_time": 1745666541,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 74276,
@@ -2835,6 +2907,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 35745,
+      "num": 269626,
+      "word": "拥有手机对青少年真正意味着什么",
+      "onboard_time": 1745665521,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34585,
       "num": 266039,
       "word": "姜文说年轻人多用脑子少用手机",
@@ -2955,14 +3035,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 24314,
-      "num": 269626,
-      "word": "拥有手机对青少年真正意味着什么",
-      "onboard_time": 1745665521,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 23111,
       "num": 26382,
       "word": "惠英红包租婆细节是自己设计的",
@@ -3003,6 +3075,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 22004,
+      "num": 621707,
+      "word": "运河上的通州",
+      "onboard_time": 1745666721,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 21407,
       "num": 165461,
       "word": "洛阳在推广牡丹文化上有哪些创新举措",
@@ -3041,6 +3121,14 @@
       "onboard_time": 1745608454,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 16981,
+      "num": 194633,
+      "word": "淮水竹亭阵容能否成为国产剧的新标杆",
+      "onboard_time": 1745666541,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 15312,

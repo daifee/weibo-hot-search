@@ -1,0 +1,410 @@
+{
+  "runTime": 1745667392224,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1292816,
+        "num": 1292816,
+        "word": "比大熊猫更濒危的动物全国仅剩1只",
+        "onboard_time": 1745664141,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 712667,
+        "num": 712667,
+        "word": "任素汐新剧尺度",
+        "onboard_time": 1745664982,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22004,
+        "num": 621707,
+        "word": "运河上的通州",
+        "onboard_time": 1745666721,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 559323,
+        "num": 559323,
+        "word": "央视曝光假非遗传承人是AI生成",
+        "onboard_time": 1745662580,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248222,
+        "num": 248222,
+        "word": "五一大量外国人涌入中国",
+        "onboard_time": 1745656701,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 247859,
+        "num": 247859,
+        "word": "伊朗南部阿巴斯港港口发生爆炸",
+        "onboard_time": 1745662280,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 223738,
+        "num": 223738,
+        "word": "林志玲裙子上串了多少颗珠子",
+        "onboard_time": 1745666302,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 209514,
+        "num": 209514,
+        "word": "秦岚蓝色露肩裙",
+        "onboard_time": 1745666002,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 199452,
+        "num": 199452,
+        "word": "特朗普政府将恢复外国学生合法身份",
+        "onboard_time": 1745665340,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 64311,
+        "num": 199299,
+        "word": "解放军复制粘贴亮相越南排面拉满",
+        "onboard_time": 1745661261,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2335563,
+        "num": 198756,
+        "word": "网购避孕套被配送员骚扰",
+        "onboard_time": 1745665102,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1169272,
+        "num": 198668,
+        "word": "日本精神小妹有多可怕",
+        "onboard_time": 1745658982,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 364848,
+        "num": 198299,
+        "word": "evisu 王一博",
+        "onboard_time": 1745663360,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 198033,
+        "num": 198033,
+        "word": "赵丽颖不去华表奖",
+        "onboard_time": 1745666541,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 485611,
+        "num": 197387,
+        "word": "吴宣仪 黑粉老是说我牙龅",
+        "onboard_time": 1745662701,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 416330,
+        "num": 196861,
+        "word": "你意想不到的两个人在一起了",
+        "onboard_time": 1745654182,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 288712,
+        "num": 196537,
+        "word": "刘诗诗cos水兵月",
+        "onboard_time": 1745657061,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 392868,
+        "num": 195417,
+        "word": "迅猛龙直播哭了",
+        "onboard_time": 1745661801,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 313024,
+        "num": 195109,
+        "word": "刘烨太瘦了",
+        "onboard_time": 1745665340,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16981,
+        "num": 194633,
+        "word": "淮水竹亭阵容能否成为国产剧的新标杆",
+        "onboard_time": 1745666541,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 407209,
+        "num": 193518,
+        "word": "全款76万买到260平的房子",
+        "onboard_time": 1745664621,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 261161,
+        "num": 192742,
+        "word": "发现了韩国人来中国的秘密",
+        "onboard_time": 1745664621,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228832,
+        "num": 192288,
+        "word": "首尔偶遇李昀锐买衣服",
+        "onboard_time": 1745659881,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35745,
+        "num": 191697,
+        "word": "拥有手机对青少年真正意味着什么",
+        "onboard_time": 1745665521,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227505,
+        "num": 191285,
+        "word": "28岁女儿回应48岁妈妈怀孕",
+        "onboard_time": 1745650701,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190704,
+        "num": 190704,
+        "word": "华表奖直播说王俊凯今晚到",
+        "onboard_time": 1745666842,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 223440,
+        "num": 188452,
+        "word": "侃爷说不该和金卡戴珊生孩子",
+        "onboard_time": 1745657301,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212416,
+        "num": 186940,
+        "word": "林志玲薄纱珠帘礼裙",
+        "onboard_time": 1745665881,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 211265,
+        "num": 186048,
+        "word": "10泡尿毁了数万跑者的盛大赛事",
+        "onboard_time": 1745630060,
+        "rank": 28,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 183674,
+        "num": 183674,
+        "word": "王一博获得GT3AM组冠军",
+        "onboard_time": 1745665822,
+        "rank": 29,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 209505,
+        "num": 180436,
+        "word": "王祖贤现身上海",
+        "onboard_time": 1745660961,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208078,
+        "num": 173752,
+        "word": "人生回报率最高的一件事之一",
+        "onboard_time": 1745666901,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117144,
+        "num": 168619,
+        "word": "肖战飘带深V",
+        "onboard_time": 1745667202,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 200347,
+        "num": 166500,
+        "word": "杨紫杭州活动",
+        "onboard_time": 1745665761,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162568,
+        "num": 162568,
+        "word": "脑瘫女骑手谈选择成为母亲",
+        "onboard_time": 1745664801,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165377,
+        "num": 161475,
+        "word": "张拿铁 要不然下点毒呢",
+        "onboard_time": 1745657480,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 157797,
+        "num": 157797,
+        "word": "落花女主是胡意旋",
+        "onboard_time": 1745664382,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136132,
+        "num": 136132,
+        "word": "香港排队等候时吸烟将罚3000港元",
+        "onboard_time": 1745654661,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74864,
+        "num": 134974,
+        "word": "越南女孩街头强势围观解放军",
+        "onboard_time": 1745666541,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107195,
+        "num": 134206,
+        "word": "鸿星尔克纽约时代广场大屏飘红",
+        "onboard_time": 1745661801,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 133919,
+        "num": 133919,
+        "word": "迪丽热巴挂脖背心",
+        "onboard_time": 1745664861,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 131568,
+        "num": 131568,
+        "word": "演员吴悦菡闻孩子脚丫致眼部感染",
+        "onboard_time": 1745664321,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130181,
+        "num": 130181,
+        "word": "五一入境游订单量同比暴增173%",
+        "onboard_time": 1745666601,
+        "rank": 42,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 129423,
+        "num": 129423,
+        "word": "你读过什么冷门但含金量极高的书",
+        "onboard_time": 1745664621,
+        "rank": 43,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 127931,
+        "num": 127931,
+        "word": "大唐辟珠记",
+        "onboard_time": 1745660961,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127621,
+        "num": 127621,
+        "word": "华晨宇在后台跟周传雄唱黄昏",
+        "onboard_time": 1745666122,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 117876,
+        "num": 117876,
+        "word": "欢迎来到农家乐",
+        "onboard_time": 1745667022,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 116505,
+        "num": 116505,
+        "word": "小S原来是个形容词啊",
+        "onboard_time": 1745654421,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113575,
+        "num": 113575,
+        "word": "看似养胃其实伤胃的4个习惯",
+        "onboard_time": 1745667022,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 113322,
+        "num": 113322,
+        "word": "JDG咚咚单场MVP",
+        "onboard_time": 1745666661,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动人工智能健康有序发展#"
+    }
+  }
+}
