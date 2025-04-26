@@ -1,0 +1,410 @@
+{
+  "runTime": 1745671396206,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1683467,
+        "num": 1683467,
+        "word": "特朗普拿P图甩锅中国",
+        "onboard_time": 1745668163,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1313612,
+        "num": 1313612,
+        "word": "张译王一博 华表影帝提名",
+        "onboard_time": 1745669962,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 54668,
+        "num": 1249655,
+        "word": "运河上的通州",
+        "onboard_time": 1745666721,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1186607,
+        "num": 1186607,
+        "word": "华表奖提名名单",
+        "onboard_time": 1745669423,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 824566,
+        "num": 824566,
+        "word": "比大熊猫更濒危的动物全国仅剩1只",
+        "onboard_time": 1745664141,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 496419,
+        "num": 496419,
+        "word": "中情局高官之子在俄乌冲突中战死",
+        "onboard_time": 1745667922,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 465966,
+        "num": 465966,
+        "word": "惠英红马丽 华表影后提名",
+        "onboard_time": 1745669782,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 361533,
+        "num": 361533,
+        "word": "央视曝光假非遗传承人是AI生成",
+        "onboard_time": 1745662580,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262514,
+        "num": 262514,
+        "word": "刘宇宁献唱北影节致敬电影人",
+        "onboard_time": 1745668581,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 215762,
+        "num": 215762,
+        "word": "五一大量外国人涌入中国",
+        "onboard_time": 1745656701,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2274069,
+        "num": 214297,
+        "word": "网购避孕套被配送员骚扰",
+        "onboard_time": 1745665102,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 753456,
+        "num": 213539,
+        "word": "饿了么回应买避孕套被配送员骚扰",
+        "onboard_time": 1745667802,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 628498,
+        "num": 211889,
+        "word": "刘烨太瘦了",
+        "onboard_time": 1745665340,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256987,
+        "num": 209490,
+        "word": "吴宣仪 黑粉老是说我牙龅",
+        "onboard_time": 1745662701,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 496371,
+        "num": 207479,
+        "word": "日本精神小妹有多可怕",
+        "onboard_time": 1745658982,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 245052,
+        "num": 207276,
+        "word": "赵丽颖不去华表奖",
+        "onboard_time": 1745666541,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 167830,
+        "num": 204762,
+        "word": "肖战飘带深V",
+        "onboard_time": 1745667202,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 218561,
+        "num": 202857,
+        "word": "秦岚蓝色露肩裙",
+        "onboard_time": 1745666002,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 202392,
+        "num": 202392,
+        "word": "CBA",
+        "onboard_time": 1745670442,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198868,
+        "num": 198868,
+        "word": "JDG海岛满编吃鸡",
+        "onboard_time": 1745671222,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 347604,
+        "num": 198803,
+        "word": "林志玲裙子上串了多少颗珠子",
+        "onboard_time": 1745666302,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 300709,
+        "num": 198612,
+        "word": "发明调休的人有没有考虑过单休的人",
+        "onboard_time": 1745668343,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 229029,
+        "num": 198382,
+        "word": "全款76万买到260平的房子",
+        "onboard_time": 1745664621,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 217371,
+        "num": 198185,
+        "word": "看似养胃其实伤胃的4个习惯",
+        "onboard_time": 1745667022,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 211044,
+        "num": 198038,
+        "word": "孔雪儿新剧蜕变成窦昭的样子",
+        "onboard_time": 1745669423,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207885,
+        "num": 197906,
+        "word": "倪妮红毯太权威了",
+        "onboard_time": 1745669602,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 647572,
+        "num": 197695,
+        "word": "任素汐新剧尺度",
+        "onboard_time": 1745664982,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205955,
+        "num": 197596,
+        "word": "发现了韩国人来中国的秘密",
+        "onboard_time": 1745664621,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202382,
+        "num": 197428,
+        "word": "杨紫碎花抹胸长裙",
+        "onboard_time": 1745671161,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 174985,
+        "num": 197182,
+        "word": "伊朗港口油罐爆炸事件最新进展",
+        "onboard_time": 1745667683,
+        "rank": 29,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 197088,
+        "num": 197088,
+        "word": "流浪地球2等提名优秀故事片",
+        "onboard_time": 1745670863,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 194174,
+        "num": 194174,
+        "word": "王一博今天是第一个打开香槟",
+        "onboard_time": 1745667623,
+        "rank": 31,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 175891,
+        "num": 175891,
+        "word": "你意想不到的两个人在一起了",
+        "onboard_time": 1745654182,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167268,
+        "num": 167268,
+        "word": "火太早桃子还没熟",
+        "onboard_time": 1745670323,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 14121,
+        "num": 162132,
+        "word": "潮汐树的形成体现了怎样的自然规律",
+        "onboard_time": 1745671281,
+        "rank": 34,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 160804,
+        "num": 160804,
+        "word": "余宇涵被换角哭了",
+        "onboard_time": 1745668221,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157645,
+        "num": 157645,
+        "word": "你好星期六",
+        "onboard_time": 1745669901,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155532,
+        "num": 155532,
+        "word": "迅猛龙直播哭了",
+        "onboard_time": 1745661801,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 155003,
+        "num": 155003,
+        "word": "伊朗南部阿巴斯港港口发生爆炸",
+        "onboard_time": 1745662280,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127210,
+        "num": 153040,
+        "word": "伊朗港口爆炸已致406人受伤",
+        "onboard_time": 1745670982,
+        "rank": 39,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 152163,
+        "num": 152163,
+        "word": "花二十万直播带货结果只卖了几千",
+        "onboard_time": 1745669061,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150380,
+        "num": 150380,
+        "word": "杨紫杭州活动",
+        "onboard_time": 1745665761,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139083,
+        "num": 139083,
+        "word": "陈德容也是玩上了自己的梗",
+        "onboard_time": 1745670381,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136518,
+        "num": 136518,
+        "word": "28岁女儿回应48岁妈妈怀孕",
+        "onboard_time": 1745650701,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134108,
+        "num": 134108,
+        "word": "婚还结吗求分析",
+        "onboard_time": 1745668221,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133874,
+        "num": 133874,
+        "word": "欢迎来到农家乐",
+        "onboard_time": 1745667022,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131216,
+        "num": 131216,
+        "word": "金泰妍澳门演唱会",
+        "onboard_time": 1745670262,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 128435,
+        "num": 128435,
+        "word": "明日方舟",
+        "onboard_time": 1745640261,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 101257,
+        "num": 127707,
+        "word": "山东泰山vs上海申花",
+        "onboard_time": 1745671043,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95432,
+        "num": 127049,
+        "word": "广厦男篮vs辽宁男篮",
+        "onboard_time": 1745667862,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动人工智能健康有序发展#"
+    }
+  }
+}

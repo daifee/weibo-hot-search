@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745667392224,
+  "endTime": 1745671396206,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -483,6 +483,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1683467,
+      "num": 1683467,
+      "word": "特朗普拿P图甩锅中国",
+      "onboard_time": 1745668163,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1677621,
       "num": 1677621,
       "word": "刘涛为妈祖献寿桃",
@@ -803,6 +811,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1313612,
+      "num": 1313612,
+      "word": "张译王一博 华表影帝提名",
+      "onboard_time": 1745669962,
+      "rank": 1,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1305853,
       "num": 509652,
       "word": "难怪大学没人要微信",
@@ -977,6 +993,14 @@
       "onboard_time": 1745564661,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1186607,
+      "num": 1186607,
+      "word": "华表奖提名名单",
+      "onboard_time": 1745669423,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 1183846,
@@ -2003,6 +2027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 753456,
+      "num": 213539,
+      "word": "饿了么回应买避孕套被配送员骚扰",
+      "onboard_time": 1745667802,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 752884,
       "num": 636737,
       "word": "马龙孙颖莎王曼昱王楚钦最新采访",
@@ -2577,6 +2609,14 @@
       "onboard_time": 1745654061,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 628498,
+      "num": 237244,
+      "word": "刘烨太瘦了",
+      "onboard_time": 1745665340,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 627714,
@@ -3435,6 +3475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 496419,
+      "num": 496419,
+      "word": "中情局高官之子在俄乌冲突中战死",
+      "onboard_time": 1745667922,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 495981,
       "num": 271835,
       "word": "胡彦斌分享的喉糖自己买不到了",
@@ -3705,6 +3753,14 @@
       "onboard_time": 1745557642,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 465966,
+      "num": 465966,
+      "word": "惠英红马丽 华表影后提名",
+      "onboard_time": 1745669782,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 465067,
@@ -4939,6 +4995,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 347604,
+      "num": 223738,
+      "word": "林志玲裙子上串了多少颗珠子",
+      "onboard_time": 1745666302,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 346778,
       "num": 398529,
       "word": "哪吒2重回日冠",
@@ -5483,14 +5547,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 313024,
-      "num": 237244,
-      "word": "刘烨太瘦了",
-      "onboard_time": 1745665340,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 312557,
       "num": 312557,
       "word": "华表奖提名",
@@ -5761,6 +5817,14 @@
       "onboard_time": 1745379024,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 300709,
+      "num": 198612,
+      "word": "发明调休的人有没有考虑过单休的人",
+      "onboard_time": 1745668343,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 300655,
@@ -6587,6 +6651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 262514,
+      "num": 262514,
+      "word": "刘宇宁献唱北影节致敬电影人",
+      "onboard_time": 1745668581,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 262085,
       "num": 373611,
       "word": "卤味鸭老板账号被禁",
@@ -7041,6 +7113,14 @@
       "onboard_time": 1745488940,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 245052,
+      "num": 207276,
+      "word": "赵丽颖不去华表奖",
+      "onboard_time": 1745666541,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 245044,
@@ -7723,14 +7803,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 223738,
-      "num": 223738,
-      "word": "林志玲裙子上串了多少颗珠子",
-      "onboard_time": 1745666302,
-      "rank": 46,
-      "category": "电影"
-    },
-    {
       "raw_hot": 223691,
       "num": 223691,
       "word": "专科的风还是吹到了麻省理工",
@@ -7859,6 +7931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 218561,
+      "num": 209514,
+      "word": "秦岚蓝色露肩裙",
+      "onboard_time": 1745666002,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 218449,
       "num": 470356,
       "word": "特朗普拟裁撤重组美国国务院",
@@ -7913,6 +7993,14 @@
       "onboard_time": 1745393602,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 217371,
+      "num": 198185,
+      "word": "看似养胃其实伤胃的4个习惯",
+      "onboard_time": 1745667022,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 217301,
@@ -8211,6 +8299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211044,
+      "num": 198038,
+      "word": "孔雪儿新剧蜕变成窦昭的样子",
+      "onboard_time": 1745669423,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 211013,
       "num": 211013,
       "word": "酒店经理故意阻碍国安执行任务被罚",
@@ -8273,14 +8369,6 @@
       "onboard_time": 1745464220,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 209514,
-      "num": 209514,
-      "word": "秦岚蓝色露肩裙",
-      "onboard_time": 1745666002,
-      "rank": 37,
-      "category": "电影"
     },
     {
       "raw_hot": 209278,
@@ -8353,6 +8441,14 @@
       "onboard_time": 1745666901,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 207885,
+      "num": 197906,
+      "word": "倪妮红毯太权威了",
+      "onboard_time": 1745669602,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 207854,
@@ -8731,6 +8827,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 202392,
+      "num": 202392,
+      "word": "CBA",
+      "onboard_time": 1745417964,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 202382,
+      "num": 197428,
+      "word": "杨紫碎花抹胸长裙",
+      "onboard_time": 1745671161,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 202353,
       "num": 387717,
       "word": "外资唱多做多中国资产",
@@ -9027,6 +9139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198868,
+      "num": 198868,
+      "word": "JDG海岛满编吃鸡",
+      "onboard_time": 1745671222,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 198853,
       "num": 238049,
       "word": "最有效的养生方式",
@@ -9123,14 +9243,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 198033,
-      "num": 198033,
-      "word": "赵丽颖不去华表奖",
-      "onboard_time": 1745666541,
-      "rank": 13,
-      "category": "电影"
-    },
-    {
       "raw_hot": 197972,
       "num": 229613,
       "word": "林志玲仙女头",
@@ -9209,6 +9321,14 @@
       "onboard_time": 1745326583,
       "rank": 23,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 197088,
+      "num": 197088,
+      "word": "流浪地球2等提名优秀故事片",
+      "onboard_time": 1745670863,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 196997,
@@ -9457,6 +9577,14 @@
       "onboard_time": 1745590221,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 194174,
+      "num": 194174,
+      "word": "王一博今天是第一个打开香槟",
+      "onboard_time": 1745667623,
+      "rank": 31,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 194128,
@@ -10907,6 +11035,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 174985,
+      "num": 197182,
+      "word": "伊朗港口油罐爆炸事件最新进展",
+      "onboard_time": 1745667683,
+      "rank": 29,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 174792,
       "num": 174792,
       "word": "感觉女装的最大问题在于不日常",
@@ -11467,6 +11603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 167830,
+      "num": 204762,
+      "word": "肖战飘带深V",
+      "onboard_time": 1745667202,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 167676,
       "num": 167676,
       "word": "小猫独自一猫守家6年",
@@ -11545,6 +11689,14 @@
       "onboard_time": 1745645900,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167268,
+      "num": 167268,
+      "word": "火太早桃子还没熟",
+      "onboard_time": 1745670323,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 167249,
@@ -12219,6 +12371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160804,
+      "num": 160804,
+      "word": "余宇涵被换角哭了",
+      "onboard_time": 1745668221,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160800,
       "num": 160800,
       "word": "谢霆锋香港演唱会",
@@ -12496,6 +12656,14 @@
       "word": "柯淳 我一被老师骂就脑袋懵",
       "onboard_time": 1745211864,
       "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 157645,
+      "num": 157645,
+      "word": "你好星期六",
+      "onboard_time": 1745669901,
+      "rank": 36,
       "category": "综艺"
     },
     {
@@ -13161,6 +13329,14 @@
       "onboard_time": 1745423962,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152163,
+      "num": 152163,
+      "word": "花二十万直播带货结果只卖了几千",
+      "onboard_time": 1745669061,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152136,
@@ -14267,14 +14443,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 142035,
-      "num": 142035,
-      "word": "CBA",
-      "onboard_time": 1745417964,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 141966,
       "num": 141966,
       "word": "王者营地崩了",
@@ -14593,6 +14761,14 @@
       "onboard_time": 1745316922,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 139083,
+      "num": 139083,
+      "word": "陈德容也是玩上了自己的梗",
+      "onboard_time": 1745670381,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 139030,
@@ -15139,6 +15315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134108,
+      "num": 134108,
+      "word": "婚还结吗求分析",
+      "onboard_time": 1745668221,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 134052,
       "num": 932007,
       "word": "美国关税问题解铃还需系铃人",
@@ -15153,6 +15337,14 @@
       "onboard_time": 1745194945,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 133874,
+      "num": 133874,
+      "word": "欢迎来到农家乐",
+      "onboard_time": 1745667022,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 133840,
@@ -15401,6 +15593,14 @@
       "onboard_time": 1745464700,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 131216,
+      "num": 131216,
+      "word": "金泰妍澳门演唱会",
+      "onboard_time": 1745670262,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 131168,
@@ -15913,6 +16113,14 @@
       "onboard_time": 1745457922,
       "rank": 37,
       "category": "财经"
+    },
+    {
+      "raw_hot": 127210,
+      "num": 153040,
+      "word": "伊朗港口爆炸已致406人受伤",
+      "onboard_time": 1745670982,
+      "rank": 39,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 127159,
@@ -16763,14 +16971,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 117876,
-      "num": 117876,
-      "word": "欢迎来到农家乐",
-      "onboard_time": 1745667022,
-      "rank": 46,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 117726,
       "num": 117726,
       "word": "管乐运气",
@@ -16801,14 +17001,6 @@
       "onboard_time": 1745577620,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 117144,
-      "num": 168619,
-      "word": "肖战飘带深V",
-      "onboard_time": 1745667202,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 117057,
@@ -17105,14 +17297,6 @@
       "onboard_time": 1745586562,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 113575,
-      "num": 113575,
-      "word": "看似养胃其实伤胃的4个习惯",
-      "onboard_time": 1745667022,
-      "rank": 48,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 113429,
@@ -18059,6 +18243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101257,
+      "num": 127707,
+      "word": "山东泰山vs上海申花",
+      "onboard_time": 1745671043,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101124,
       "num": 247438,
       "word": "老师要求咬人学生当众道歉遭家长起诉",
@@ -18489,6 +18681,14 @@
       "onboard_time": 1745655801,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 95432,
+      "num": 127049,
+      "word": "广厦男篮vs辽宁男篮",
+      "onboard_time": 1745667862,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 95398,
@@ -21377,6 +21577,14 @@
       "onboard_time": 1745505083,
       "rank": 17,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 54668,
+      "num": 1249655,
+      "word": "运河上的通州",
+      "onboard_time": 1745666721,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 54561,
@@ -24531,14 +24739,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 22004,
-      "num": 621707,
-      "word": "运河上的通州",
-      "onboard_time": 1745666721,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 21898,
       "num": 201009,
       "word": "换个思路看男性HPV疫苗打不打",
@@ -25625,6 +25825,14 @@
       "onboard_time": 1745354113,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 14121,
+      "num": 162132,
+      "word": "潮汐树的形成体现了怎样的自然规律",
+      "onboard_time": 1745671281,
+      "rank": 34,
+      "category": "科学科普"
     },
     {
       "raw_hot": 14099,
