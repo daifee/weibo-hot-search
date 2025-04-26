@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745646050107,
+  "endTime": 1745649116629,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1419,6 +1419,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 952590,
+      "num": 1152414,
+      "word": "马斯克和美财长在白宫大吵狂飙脏话",
+      "onboard_time": 1745645421,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 950734,
       "num": 467135,
       "word": "永野芽郁 田中圭",
@@ -2827,6 +2835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 568532,
+      "num": 568532,
+      "word": "何老师跳了晚安大小姐",
+      "onboard_time": 1745645061,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 566183,
       "num": 252313,
       "word": "韩安冉曝与婆婆聊天记录",
@@ -3617,6 +3633,14 @@
       "onboard_time": 1745200582,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 453647,
+      "num": 453647,
+      "word": "青岛地铁口5平米土地无人认领",
+      "onboard_time": 1745643800,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 452327,
@@ -4723,6 +4747,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 346844,
+      "num": 346844,
+      "word": "王一博过弯",
+      "onboard_time": 1745642181,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 346778,
       "num": 398529,
       "word": "哪吒2重回日冠",
@@ -4945,6 +4977,14 @@
       "onboard_time": 1745082685,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 331678,
+      "num": 276523,
+      "word": "李心月向杨颖道歉",
+      "onboard_time": 1745644401,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 331000,
@@ -5291,6 +5331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 309898,
+      "num": 309898,
+      "word": "马斯克不到100天砍掉自己1500亿身家",
+      "onboard_time": 1745647221,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
       "raw_hot": 309735,
       "num": 170158,
       "word": "网友劝36岁女子不要为结婚而结婚",
@@ -5595,14 +5643,6 @@
       "category": "艺人,剧集"
     },
     {
-      "raw_hot": 296901,
-      "num": 296901,
-      "word": "青岛地铁口5平米土地无人认领",
-      "onboard_time": 1745643800,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 296884,
       "num": 296884,
       "word": "王楠老公谈刘国梁辞职",
@@ -5825,14 +5865,6 @@
       "onboard_time": 1745564721,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 286113,
-      "num": 286113,
-      "word": "王一博过弯",
-      "onboard_time": 1745642181,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 286082,
@@ -6803,14 +6835,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 243439,
-      "num": 243439,
-      "word": "何老师跳了晚安大小姐",
-      "onboard_time": 1745645061,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 243415,
       "num": 243415,
       "word": "丁真被刘涛说眼里没感情",
@@ -7273,6 +7297,14 @@
       "onboard_time": 1745414901,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 228407,
+      "num": 228407,
+      "word": "90岁高颜值彝族奶奶火出圈",
+      "onboard_time": 1745642303,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 227570,
@@ -7881,14 +7913,6 @@
       "onboard_time": 1745154986,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 211998,
-      "num": 211998,
-      "word": "90岁高颜值彝族奶奶火出圈",
-      "onboard_time": 1745642303,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 211982,
@@ -9001,6 +9025,14 @@
       "onboard_time": 1745625800,
       "rank": 22,
       "category": "国际时政,财经"
+    },
+    {
+      "raw_hot": 195300,
+      "num": 229738,
+      "word": "迪丽热巴等到了最爱的狗血剧情",
+      "onboard_time": 1745646141,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 195279,
@@ -10667,6 +10699,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 172315,
+      "num": 154348,
+      "word": "最近少穿这些颜色衣服出门",
+      "onboard_time": 1745648541,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 172265,
       "num": 338472,
       "word": "Turbo4Pro电量超大杯",
@@ -11779,14 +11819,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 159909,
-      "num": 276523,
-      "word": "李心月向杨颖道歉",
-      "onboard_time": 1745644401,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 159902,
       "num": 159902,
       "word": "孟子义商务",
@@ -12353,6 +12385,22 @@
       "onboard_time": 1745413881,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154385,
+      "num": 154385,
+      "word": "周深教唱歌郎朗教钢琴",
+      "onboard_time": 1745648601,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 154335,
+      "num": 154335,
+      "word": "花3万雇人扔空整个家",
+      "onboard_time": 1745646260,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 154307,
@@ -14811,6 +14859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130752,
+      "num": 228722,
+      "word": "日本女乒主帅说要在世乒赛击败中国",
+      "onboard_time": 1745647880,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130657,
       "num": 130657,
       "word": "久酷说会回去好好复盘",
@@ -14953,6 +15009,14 @@
       "onboard_time": 1745400503,
       "rank": 24,
       "category": "体育,读书作家"
+    },
+    {
+      "raw_hot": 129585,
+      "num": 129585,
+      "word": "这个转场够学一辈子",
+      "onboard_time": 1745648061,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 129519,
@@ -15587,6 +15651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122686,
+      "num": 122686,
+      "word": "付航没在脱口秀最好的时候上节目",
+      "onboard_time": 1745648902,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122555,
       "num": 262859,
       "word": "马龙感慨了",
@@ -15995,6 +16067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117057,
+      "num": 117057,
+      "word": "王一博比赛准备就绪",
+      "onboard_time": 1745648240,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117043,
       "num": 117043,
       "word": "白敬亭感谢五月天的邀请",
@@ -16169,6 +16249,14 @@
       "onboard_time": 1745457922,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 114801,
+      "num": 151519,
+      "word": "网民造谣比亚迪已被行拘",
+      "onboard_time": 1745646442,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114774,
@@ -16384,6 +16472,14 @@
       "word": "全圆佑被评为训练生代表",
       "onboard_time": 1745461220,
       "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 111258,
+      "num": 111258,
+      "word": "侯佩岑满40减20",
+      "onboard_time": 1745646321,
+      "rank": 44,
       "category": "综艺"
     },
     {
@@ -17003,6 +17099,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 102794,
+      "num": 102794,
+      "word": "KPL选手质感大片",
+      "onboard_time": 1745649080,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 102780,
       "num": 195579,
       "word": "装修工记错房号将邻居家砸毁",
@@ -17049,6 +17153,14 @@
       "onboard_time": 1745450778,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 102326,
+      "num": 102326,
+      "word": "鹭卓小馋猫母带",
+      "onboard_time": 1745649080,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 102276,
@@ -17721,6 +17833,14 @@
       "onboard_time": 1745130141,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 92699,
+      "num": 154342,
+      "word": "王菲在谢霆锋演唱会上低调坐角落里",
+      "onboard_time": 1745648781,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 92510,
@@ -19995,6 +20115,14 @@
       "category": "民生新闻,国内时政"
     },
     {
+      "raw_hot": 57139,
+      "num": 229102,
+      "word": "为什么周末要去河北",
+      "onboard_time": 1745647340,
+      "rank": 19,
+      "category": "议题讨论,旅游"
+    },
+    {
       "raw_hot": 57082,
       "num": 250843,
       "word": "反特朗普抗议席卷美国50州",
@@ -20521,14 +20649,6 @@
       "onboard_time": 1745537778,
       "rank": 45,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 51389,
-      "num": 289123,
-      "word": "马斯克和美财长在白宫大吵狂飙脏话",
-      "onboard_time": 1745645421,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 51374,
@@ -21841,6 +21961,14 @@
       "onboard_time": 1745144782,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 37440,
+      "num": 304104,
+      "word": "特朗普给美联储主席起了一串绰号",
+      "onboard_time": 1745648660,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 37409,
@@ -23481,6 +23609,14 @@
       "onboard_time": 1745385263,
       "rank": 29,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 20381,
+      "num": 229219,
+      "word": "湖人输球谁应该背锅",
+      "onboard_time": 1745648481,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 20377,

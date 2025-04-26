@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/26 13:40:50
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/26 14:31:56
 </p>
 </blockquote>
 <p>
@@ -4365,6 +4365,12 @@ vava发博向杨超越道歉（热度：968479）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%92%8C%E7%BE%8E%E8%B4%A2%E9%95%BF%E5%9C%A8%E7%99%BD%E5%AE%AB%E5%A4%A7%E5%90%B5%E7%8B%82%E9%A3%99%E8%84%8F%E8%AF%9D%23" target="weibo">
+马斯克和美财长在白宫大吵狂飙脏话（热度：952590）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23EDG%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%23" target="weibo">
 EDG无畏契约（热度：951061）
 </a>
@@ -6005,12 +6011,6 @@ YERI和Wendy离开SM（热度：805847）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%83%BD%E7%81%B5%E8%82%98%E5%87%BB%E5%AE%8B%E7%A5%96%E5%84%BF%E6%8B%B3%E5%87%BB%23" target="weibo">
 陈都灵肘击宋祖儿拳击（热度：769745）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E7%8F%A0%E5%B8%A6%E4%BA%86%E6%95%B4%E6%95%B4%E5%9B%9B%E4%B8%AA%E6%9C%88%E5%A6%86%23" target="weibo">
-朱珠带了整整四个月妆（热度：769591）
 </a>
 </li>
 

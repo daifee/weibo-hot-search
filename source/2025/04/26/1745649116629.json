@@ -1,0 +1,410 @@
+{
+  "runTime": 1745649116629,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 952590,
+        "num": 1152414,
+        "word": "马斯克和美财长在白宫大吵狂飙脏话",
+        "onboard_time": 1745645421,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 610400,
+        "num": 610400,
+        "word": "日本大爷坠入坑中3个月仍未获救",
+        "onboard_time": 1745632400,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 34248,
+        "num": 568968,
+        "word": "数据折射流动中国蓬勃活力",
+        "onboard_time": 1745642421,
+        "rank": 2,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 568532,
+        "num": 568532,
+        "word": "何老师跳了晚安大小姐",
+        "onboard_time": 1745645061,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 453647,
+        "num": 453647,
+        "word": "青岛地铁口5平米土地无人认领",
+        "onboard_time": 1745643800,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 416827,
+        "num": 416827,
+        "word": "多地宣布发钱奖励结婚",
+        "onboard_time": 1745637561,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 346844,
+        "num": 346844,
+        "word": "王一博过弯",
+        "onboard_time": 1745642181,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 333883,
+        "num": 333883,
+        "word": "邓超喊孙俪中午12点来五哈打脸",
+        "onboard_time": 1745642902,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309898,
+        "num": 309898,
+        "word": "马斯克不到100天砍掉自己1500亿身家",
+        "onboard_time": 1745647221,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 37440,
+        "num": 304104,
+        "word": "特朗普给美联储主席起了一串绰号",
+        "onboard_time": 1745648660,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 745990,
+        "num": 282489,
+        "word": "10泡尿毁了数万跑者的盛大赛事",
+        "onboard_time": 1745630060,
+        "rank": 10,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 395359,
+        "num": 270104,
+        "word": "韩安冉说她是照着Angelababy整的",
+        "onboard_time": 1745636721,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332699,
+        "num": 259245,
+        "word": "蔡徐坤直播突然被封",
+        "onboard_time": 1745596762,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248977,
+        "num": 248977,
+        "word": "美国玩具公司起诉美国政府",
+        "onboard_time": 1745643321,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 234925,
+        "num": 234925,
+        "word": "深圳殉情男子岳母发声",
+        "onboard_time": 1745633782,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230235,
+        "num": 230235,
+        "word": "李濛 张檬",
+        "onboard_time": 1745633481,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331678,
+        "num": 229969,
+        "word": "李心月向杨颖道歉",
+        "onboard_time": 1745644401,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195300,
+        "num": 229738,
+        "word": "迪丽热巴等到了最爱的狗血剧情",
+        "onboard_time": 1745646141,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20381,
+        "num": 229219,
+        "word": "湖人输球谁应该背锅",
+        "onboard_time": 1745648481,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57139,
+        "num": 229102,
+        "word": "为什么周末要去河北",
+        "onboard_time": 1745647340,
+        "rank": 19,
+        "category": "议题讨论,旅游"
+      },
+      {
+        "raw_hot": 130752,
+        "num": 228722,
+        "word": "日本女乒主帅说要在世乒赛击败中国",
+        "onboard_time": 1745647880,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228407,
+        "num": 228407,
+        "word": "90岁高颜值彝族奶奶火出圈",
+        "onboard_time": 1745642303,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186792,
+        "num": 186792,
+        "word": "李惠利 百想",
+        "onboard_time": 1745644522,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179151,
+        "num": 179151,
+        "word": "美媒警告未来几个月部分商品将消失",
+        "onboard_time": 1745641221,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 166598,
+        "num": 166598,
+        "word": "无忧渡热度",
+        "onboard_time": 1745648719,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154385,
+        "num": 154385,
+        "word": "周深教唱歌郎朗教钢琴",
+        "onboard_time": 1745648601,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148543,
+        "num": 154379,
+        "word": "无忧渡",
+        "onboard_time": 1745628980,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147583,
+        "num": 154367,
+        "word": "淮水竹亭定档",
+        "onboard_time": 1745633661,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172315,
+        "num": 154348,
+        "word": "最近少穿这些颜色衣服出门",
+        "onboard_time": 1745648541,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92699,
+        "num": 154342,
+        "word": "王菲在谢霆锋演唱会上低调坐角落里",
+        "onboard_time": 1745648781,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 154335,
+        "num": 154335,
+        "word": "花3万雇人扔空整个家",
+        "onboard_time": 1745646260,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169883,
+        "num": 154110,
+        "word": "王菲谢霆锋好甜",
+        "onboard_time": 1745627360,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 114801,
+        "num": 151519,
+        "word": "网民造谣比亚迪已被行拘",
+        "onboard_time": 1745646442,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149172,
+        "num": 149172,
+        "word": "四川甘孜4.9级地震",
+        "onboard_time": 1745643143,
+        "rank": 33,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 144123,
+        "num": 144123,
+        "word": "孟子义跑到袜子破了都不知道",
+        "onboard_time": 1745642241,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144094,
+        "num": 144094,
+        "word": "Jennie德国版芭莎封面",
+        "onboard_time": 1745641101,
+        "rank": 35,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 142619,
+        "num": 142619,
+        "word": "夏依丹去世好友发声",
+        "onboard_time": 1745645900,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131344,
+        "num": 131344,
+        "word": "侃爷希望与帕丽斯希尔顿生孩子",
+        "onboard_time": 1745642002,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129585,
+        "num": 129585,
+        "word": "这个转场够学一辈子",
+        "onboard_time": 1745648061,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127955,
+        "num": 127955,
+        "word": "刘诗诗紫裙变装",
+        "onboard_time": 1745644041,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126954,
+        "num": 126954,
+        "word": "女子剧烈孕吐差点危及生命",
+        "onboard_time": 1745638101,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122686,
+        "num": 122686,
+        "word": "付航没在脱口秀最好的时候上节目",
+        "onboard_time": 1745648902,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117057,
+        "num": 117057,
+        "word": "王一博比赛准备就绪",
+        "onboard_time": 1745648240,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116718,
+        "num": 116718,
+        "word": "乌鸡白凤丸谁吃谁好用",
+        "onboard_time": 1745637261,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 111258,
+        "num": 111258,
+        "word": "侯佩岑满40减20",
+        "onboard_time": 1745646321,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111231,
+        "num": 111231,
+        "word": "拆二代败光5套房近4000万成阶下囚",
+        "onboard_time": 1745628980,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110299,
+        "num": 110299,
+        "word": "谢娜一口气发了六条西游微博",
+        "onboard_time": 1745644222,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110160,
+        "num": 110160,
+        "word": "华表奖提名",
+        "onboard_time": 1745637381,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 102794,
+        "num": 102794,
+        "word": "KPL选手质感大片",
+        "onboard_time": 1745649080,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 102326,
+        "num": 102326,
+        "word": "鹭卓小馋猫母带",
+        "onboard_time": 1745649080,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#一图速览中央政治局会议要点#"
+    }
+  }
+}
