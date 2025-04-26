@@ -1,0 +1,410 @@
+{
+  "runTime": 1745636650855,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2565905,
+        "num": 2565905,
+        "word": "男子性侵初中女生致其怀孕不予立案",
+        "onboard_time": 1745633001,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 831155,
+        "num": 831155,
+        "word": "淮水竹亭定档",
+        "onboard_time": 1745633661,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50990,
+        "num": 675932,
+        "word": "以旧换新带动销售额超7200亿",
+        "onboard_time": 1745587342,
+        "rank": 2,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 653381,
+        "num": 653381,
+        "word": "日本大爷坠入坑中3个月仍未获救",
+        "onboard_time": 1745632400,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 419461,
+        "num": 419461,
+        "word": "拆二代败光5套房近4000万成阶下囚",
+        "onboard_time": 1745628980,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1462967,
+        "num": 383047,
+        "word": "无忧渡女演员夏依丹被曝去世",
+        "onboard_time": 1745632462,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344311,
+        "num": 344311,
+        "word": "外籍歌手唐伯虎回应拖欠劳务费",
+        "onboard_time": 1745630060,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 485534,
+        "num": 306815,
+        "word": "无忧渡2",
+        "onboard_time": 1745630960,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211029,
+        "num": 211029,
+        "word": "美方称愿就关税与中方对话",
+        "onboard_time": 1745633721,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 199122,
+        "num": 199122,
+        "word": "白宫前官员称稀土管制让美国慌了",
+        "onboard_time": 1745631201,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1313584,
+        "num": 199033,
+        "word": "10泡尿毁了数万跑者的盛大赛事",
+        "onboard_time": 1745630060,
+        "rank": 10,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 917779,
+        "num": 198810,
+        "word": "李濛 张檬",
+        "onboard_time": 1745633481,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 603952,
+        "num": 198566,
+        "word": "蔡徐坤直播突然被封",
+        "onboard_time": 1745596762,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 565685,
+        "num": 198460,
+        "word": "王菲谢霆锋好甜",
+        "onboard_time": 1745627360,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 17729,
+        "num": 198148,
+        "word": "姜文说年轻人多用脑子少用手机",
+        "onboard_time": 1745636121,
+        "rank": 14,
+        "category": "电影,艺人"
+      },
+      {
+        "raw_hot": 466805,
+        "num": 198052,
+        "word": "深圳殉情男子岳母发声",
+        "onboard_time": 1745633782,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266899,
+        "num": 197803,
+        "word": "易烊千玺三部主演电影获得华表奖",
+        "onboard_time": 1745632820,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 149121,
+        "num": 197662,
+        "word": "郑钦文回应输球原因",
+        "onboard_time": 1745635102,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101884,
+        "num": 197503,
+        "word": "爱泼斯坦案关键受害者自杀身亡",
+        "onboard_time": 1745635701,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 60796,
+        "num": 197167,
+        "word": "一位丈夫绝笔信背后的爱与哀愁",
+        "onboard_time": 1745635462,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262838,
+        "num": 196999,
+        "word": "女子手机失控冲进派出所民警建议砸掉",
+        "onboard_time": 1745616015,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261969,
+        "num": 196871,
+        "word": "深圳殉情男子遗书希望与妻合葬",
+        "onboard_time": 1745630060,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257005,
+        "num": 196602,
+        "word": "倪妮大方谈自己变老了",
+        "onboard_time": 1745630120,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233932,
+        "num": 196484,
+        "word": "李嘉琦浪姐是真没白来",
+        "onboard_time": 1745636600,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196355,
+        "num": 196355,
+        "word": "刘诗诗淮水竹亭定档海报",
+        "onboard_time": 1745635641,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195610,
+        "num": 195610,
+        "word": "35岁女子月入五万北漂十几年只攒下十万",
+        "onboard_time": 1745598261,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182654,
+        "num": 182654,
+        "word": "谭维维 我好尴尬",
+        "onboard_time": 1745635162,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180210,
+        "num": 180210,
+        "word": "你以为很长胖实际很健康的食物",
+        "onboard_time": 1745594963,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122702,
+        "num": 144361,
+        "word": "纽约市民凌晨排两条街长队买中国相机",
+        "onboard_time": 1745592384,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 137727,
+        "num": 137727,
+        "word": "爱泼斯坦案关键证人自杀",
+        "onboard_time": 1745634623,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 152470,
+        "num": 136674,
+        "word": "六小龄童还记得43年前西游记群演",
+        "onboard_time": 1745636600,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132566,
+        "num": 132566,
+        "word": "小明剑魔回应",
+        "onboard_time": 1745632462,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 131947,
+        "num": 131947,
+        "word": "王一博上午赛车下午走红毯",
+        "onboard_time": 1745625979,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131270,
+        "num": 131270,
+        "word": "关晓彤有在认真搞事业",
+        "onboard_time": 1745625139,
+        "rank": 33,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 129454,
+        "num": 129454,
+        "word": "张真源奔跑吧第一期镜头",
+        "onboard_time": 1745634801,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116303,
+        "num": 116303,
+        "word": "娜扎女帝造型",
+        "onboard_time": 1745627059,
+        "rank": 35,
+        "category": "作品衍生,综艺"
+      },
+      {
+        "raw_hot": 113214,
+        "num": 113214,
+        "word": "只有师范生才知道她有多强",
+        "onboard_time": 1745636541,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 111832,
+        "num": 111832,
+        "word": "网友劝36岁女子不要为结婚而结婚",
+        "onboard_time": 1745597063,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110026,
+        "num": 110026,
+        "word": "孟子义青木世家大小姐青木媛在此",
+        "onboard_time": 1745635102,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109217,
+        "num": 109217,
+        "word": "唐国强要脑力有脑力要体力有体力",
+        "onboard_time": 1745636600,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102549,
+        "num": 102549,
+        "word": "金靖禁止张凌赫再演傻子了",
+        "onboard_time": 1745633242,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101812,
+        "num": 101812,
+        "word": "黑执事好美丽的少爷",
+        "onboard_time": 1745636541,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 98916,
+        "num": 98916,
+        "word": "上海一小区惊现赤狐",
+        "onboard_time": 1745636600,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95596,
+        "num": 95596,
+        "word": "念无双中疑有加拿大一枝黄花入镜",
+        "onboard_time": 1745598441,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93240,
+        "num": 93240,
+        "word": "海上神女鞠婧祎",
+        "onboard_time": 1745596163,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 61844,
+        "num": 92731,
+        "word": "专家称预言东京湾大地震可信度极低",
+        "onboard_time": 1745630481,
+        "rank": 45,
+        "category": "国际时政,国际时政"
+      },
+      {
+        "raw_hot": 92359,
+        "num": 92359,
+        "word": "特朗普说乌克兰永不可能加入北约",
+        "onboard_time": 1745628980,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 90706,
+        "num": 90706,
+        "word": "朋友圈三天可见 置顶像生死簿那么长",
+        "onboard_time": 1745577680,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89175,
+        "num": 89175,
+        "word": "杨紫蓝色人鱼",
+        "onboard_time": 1745634502,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69334,
+        "num": 88848,
+        "word": "湖人vs森林狼",
+        "onboard_time": 1745632400,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央政治局召开会议#"
+    }
+  }
+}
