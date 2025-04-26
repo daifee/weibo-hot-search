@@ -1,6 +1,6 @@
 {
   "startTime": 1745598635164,
-  "endTime": 1745674115370,
+  "endTime": 1745674848537,
   "band_list": [
     {
       "raw_hot": 3420165,
@@ -331,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 558129,
+      "num": 268724,
+      "word": "杨紫碎花抹胸长裙",
+      "onboard_time": 1745671161,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 553489,
       "num": 256119,
       "word": "西安一中学生遭霸凌被同学割伤脸",
@@ -345,6 +353,14 @@
       "onboard_time": 1745650701,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 549200,
+      "num": 252101,
+      "word": "脖子",
+      "onboard_time": 1745673983,
+      "rank": 32,
+      "category": "运动健身"
     },
     {
       "raw_hot": 541543,
@@ -385,14 +401,6 @@
       "onboard_time": 1745641221,
       "rank": 40,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 511082,
-      "num": 268724,
-      "word": "杨紫碎花抹胸长裙",
-      "onboard_time": 1745671161,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 504746,
@@ -489,6 +497,14 @@
       "onboard_time": 1745641101,
       "rank": 23,
       "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 432805,
+      "num": 432805,
+      "word": "台北七旬老人陈尸水塔全楼喝尸水",
+      "onboard_time": 1745674282,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 425918,
@@ -675,6 +691,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 303471,
+      "num": 303471,
+      "word": "王祖贤亮相无锡国际灸法大会",
+      "onboard_time": 1745674462,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 303372,
       "num": 303372,
       "word": "中央巡视组进驻四川首虎落马",
@@ -851,12 +875,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 251297,
+      "num": 251297,
+      "word": "被刘宇宁这首歌打动了",
+      "onboard_time": 1745673683,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 248107,
       "num": 248107,
       "word": "海上神女鞠婧祎",
       "onboard_time": 1745596163,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 246375,
+      "num": 246375,
+      "word": "倪妮红毯太权威了",
+      "onboard_time": 1745669602,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 245052,
@@ -899,22 +939,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 233749,
-      "num": 185795,
-      "word": "被刘宇宁这首歌打动了",
-      "onboard_time": 1745673683,
-      "rank": 25,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 232875,
-      "num": 232875,
-      "word": "倪妮红毯太权威了",
-      "onboard_time": 1745669602,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
       "raw_hot": 229231,
       "num": 272496,
       "word": "央视曝光剧本式直播诈骗套路",
@@ -953,6 +977,22 @@
       "onboard_time": 1745644522,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 221487,
+      "num": 221487,
+      "word": "赵露思直播",
+      "onboard_time": 1745674762,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 219523,
+      "num": 219523,
+      "word": "原来这就是生理性厌恶的表现",
+      "onboard_time": 1745674343,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 218561,
@@ -1019,6 +1059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210246,
+      "num": 210246,
+      "word": "丁禹兮直播",
+      "onboard_time": 1745674402,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209150,
       "num": 200074,
       "word": "最近少穿这些颜色衣服出门",
@@ -1083,12 +1131,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199897,
+      "num": 232093,
+      "word": "炒股赚6000万男子不否认有幸存者偏差",
+      "onboard_time": 1745672542,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 199452,
       "num": 301729,
       "word": "特朗普政府将恢复外国学生合法身份",
       "onboard_time": 1745665340,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 199424,
+      "num": 199424,
+      "word": "你好星期六预告",
+      "onboard_time": 1745674522,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 199270,
@@ -1177,6 +1241,14 @@
       "onboard_time": 1745667623,
       "rank": 31,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 193692,
+      "num": 211074,
+      "word": "编剧赵娜回应无忧渡结局",
+      "onboard_time": 1745673621,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 193567,
@@ -1307,12 +1379,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177958,
+      "num": 177958,
+      "word": "韩国一公司要求员工缩短洗衣服周期",
+      "onboard_time": 1745671702,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 175248,
       "num": 175248,
       "word": "KPL有自己的KPI",
       "onboard_time": 1745653821,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 174213,
+      "num": 224662,
+      "word": "印度男子婚礼当天新娘被调包成岳母",
+      "onboard_time": 1745673562,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 173404,
@@ -1323,12 +1411,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 172771,
-      "num": 172771,
-      "word": "编剧赵娜回应无忧渡结局",
-      "onboard_time": 1745673621,
-      "rank": 31,
-      "category": "剧集"
+      "raw_hot": 172628,
+      "num": 172628,
+      "word": "无畏猛男粉再现",
+      "onboard_time": 1745674462,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 172262,
@@ -1337,14 +1425,6 @@
       "onboard_time": 1745647880,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 171676,
-      "num": 171676,
-      "word": "脖子",
-      "onboard_time": 1745673983,
-      "rank": 32,
-      "category": "运动健身"
     },
     {
       "raw_hot": 171235,
@@ -1441,6 +1521,14 @@
       "onboard_time": 1745658021,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166662,
+      "num": 222627,
+      "word": "感觉和傅菁有点暧昧了",
+      "onboard_time": 1745673502,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 166566,
@@ -1563,6 +1651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158753,
+      "num": 158753,
+      "word": "一顿火锅上映5天还赚钱了",
+      "onboard_time": 1745674762,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 158703,
       "num": 158703,
       "word": "杨紫给主持人打伞",
@@ -1609,6 +1705,14 @@
       "onboard_time": 1745660241,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156631,
+      "num": 156631,
+      "word": "母鸡卡",
+      "onboard_time": 1745674823,
+      "rank": 45,
+      "category": "动漫"
     },
     {
       "raw_hot": 155846,
@@ -1707,6 +1811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149815,
+      "num": 149815,
+      "word": "孙燕姿上海演唱会",
+      "onboard_time": 1745668163,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 149547,
       "num": 188808,
       "word": "KPL游戏人生宣传片",
@@ -1729,6 +1841,14 @@
       "onboard_time": 1745625979,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148934,
+      "num": 148934,
+      "word": "热烈",
+      "onboard_time": 1745674762,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 148766,
@@ -1769,14 +1889,6 @@
       "onboard_time": 1745671762,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 146084,
-      "num": 139133,
-      "word": "韩国一公司要求员工缩短洗衣服周期",
-      "onboard_time": 1745671702,
-      "rank": 43,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 146066,
@@ -2041,14 +2153,6 @@
       "onboard_time": 1745640802,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 128471,
-      "num": 128471,
-      "word": "炒股赚6000万男子不否认有幸存者偏差",
-      "onboard_time": 1745672542,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128231,
@@ -2731,6 +2835,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 90392,
+      "num": 245498,
+      "word": "太原溺水美人鱼仍在重症监护室",
+      "onboard_time": 1745674402,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89893,
       "num": 89893,
       "word": "偶遇那英宋丹丹逛商场",
@@ -2833,6 +2945,14 @@
       "onboard_time": 1745585181,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83253,
+      "num": 300341,
+      "word": "亚马逊等美国电商平台集体提价",
+      "onboard_time": 1745673863,
+      "rank": 28,
+      "category": "互联网"
     },
     {
       "raw_hot": 82790,
@@ -3059,14 +3179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 65364,
-      "num": 174777,
-      "word": "亚马逊等美国电商平台集体提价",
-      "onboard_time": 1745673863,
-      "rank": 28,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 63685,
       "num": 63685,
       "word": "你可能一直忌口错了",
@@ -3115,14 +3227,6 @@
       "category": "议题讨论,旅游"
     },
     {
-      "raw_hot": 57099,
-      "num": 173972,
-      "word": "印度男子婚礼当天新娘被调包成岳母",
-      "onboard_time": 1745673562,
-      "rank": 29,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 56882,
       "num": 258267,
       "word": "大路灯看似高大上实为通用灯具",
@@ -3131,20 +3235,20 @@
       "category": "民生新闻,科学科普"
     },
     {
+      "raw_hot": 56326,
+      "num": 1267559,
+      "word": "运河上的通州",
+      "onboard_time": 1745666721,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 55400,
       "num": 55400,
       "word": "戚薇夫妻关系是冷暖自知的",
       "onboard_time": 1745608094,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 54668,
-      "num": 1267559,
-      "word": "运河上的通州",
-      "onboard_time": 1745666721,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 53339,
@@ -3524,7 +3628,7 @@
     },
     {
       "raw_hot": 19197,
-      "num": 141718,
+      "num": 157450,
       "word": "旋护剃须刀挑战12小时无须感",
       "onboard_time": 1745672361,
       "rank": 41,
@@ -3585,6 +3689,14 @@
       "onboard_time": 1745650941,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 14408,
+      "num": 1100236,
+      "word": "从数据看中国经济高质量发展的确定性",
+      "onboard_time": 1745674582,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 13345,
