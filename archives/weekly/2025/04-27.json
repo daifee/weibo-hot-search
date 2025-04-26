@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1745707172688,
+  "endTime": 1745709829184,
   "band_list": [
     {
       "raw_hot": 2550222,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 817949,
-      "num": 817949,
+      "num": 832500,
       "word": "原来这就是生理性厌恶的表现",
       "onboard_time": 1745674343,
       "rank": 1,
@@ -41,6 +41,14 @@
       "onboard_time": 1745665102,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 605666,
+      "num": 375792,
+      "word": "肖战追星和我们也没区别",
+      "onboard_time": 1745684361,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 589683,
@@ -67,6 +75,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 480893,
+      "num": 480893,
+      "word": "印度男子婚礼当天新娘被调包成岳母",
+      "onboard_time": 1745673562,
+      "rank": 8,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 466180,
       "num": 269788,
       "word": "陈妍希 假的就是假的它真不了",
@@ -89,14 +105,6 @@
       "onboard_time": 1745682385,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 422868,
-      "num": 375792,
-      "word": "肖战追星和我们也没区别",
-      "onboard_time": 1745684361,
-      "rank": 16,
-      "category": "演出"
     },
     {
       "raw_hot": 412704,
@@ -131,12 +139,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 277750,
-      "num": 277750,
-      "word": "印度男子婚礼当天新娘被调包成岳母",
-      "onboard_time": 1745673562,
-      "rank": 8,
-      "category": "海外新闻"
+      "raw_hot": 277049,
+      "num": 227749,
+      "word": "谢霆锋儿子现身演唱会",
+      "onboard_time": 1745675424,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 265304,
@@ -147,12 +155,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 227749,
-      "num": 227749,
-      "word": "谢霆锋儿子现身演唱会",
-      "onboard_time": 1745675424,
-      "rank": 17,
-      "category": "演出"
+      "raw_hot": 257161,
+      "num": 257161,
+      "word": "俄2岁女童被锁家中喝马桶水存活",
+      "onboard_time": 1745682622,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 238014,
+      "num": 238014,
+      "word": "董明珠间谍说有没有错",
+      "onboard_time": 1745680283,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 219157,
@@ -171,12 +187,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 209534,
+      "num": 209534,
+      "word": "鹿晗新歌吹吹风",
+      "onboard_time": 1745709318,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 194787,
       "num": 194787,
       "word": "李云霄不辞星海致敬航天人",
       "onboard_time": 1745678424,
       "rank": 18,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 194196,
+      "num": 194196,
+      "word": "肖战孙燕姿演唱会后发文",
+      "onboard_time": 1745709379,
+      "rank": 13,
+      "category": "演出"
     },
     {
       "raw_hot": 193359,
@@ -187,6 +219,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192087,
+      "num": 192087,
+      "word": "84斤女子吐槽买百件衣服基本穿不上",
+      "onboard_time": 1745709679,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 183975,
+      "num": 151920,
+      "word": "太原溺水美人鱼仍在重症监护室",
+      "onboard_time": 1745674402,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174817,
       "num": 174817,
       "word": "刘奕畅李沐宸一个不服一个迟到",
@@ -195,12 +243,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 158652,
-      "num": 158652,
-      "word": "俄2岁女童被锁家中喝马桶水存活",
-      "onboard_time": 1745682622,
-      "rank": 43,
-      "category": "海外新闻"
+      "raw_hot": 170434,
+      "num": 111292,
+      "word": "母猫生下双头猫3眼2嘴2鼻",
+      "onboard_time": 1745709620,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152648,
@@ -209,14 +257,6 @@
       "onboard_time": 1745684481,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 150759,
-      "num": 151920,
-      "word": "太原溺水美人鱼仍在重症监护室",
-      "onboard_time": 1745674402,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 146559,
@@ -235,12 +275,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 125724,
+      "raw_hot": 126046,
       "num": 151684,
       "word": "保安每天偷用女员工杯子喝水",
       "onboard_time": 1745675603,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123971,
+      "num": 123971,
+      "word": "谢霆锋儿子颜值",
+      "onboard_time": 1745709620,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 116392,
@@ -299,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 102425,
+      "num": 102425,
+      "word": "巴萨3比2皇马",
+      "onboard_time": 1745709318,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99923,
       "num": 150874,
       "word": "小明剑魔老婆",
@@ -321,6 +377,14 @@
       "onboard_time": 1745680823,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 86137,
+      "num": 86137,
+      "word": "国王杯",
+      "onboard_time": 1745709620,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 85067,
@@ -355,20 +419,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 78272,
-      "num": 150263,
-      "word": "董明珠间谍说有没有错",
-      "onboard_time": 1745680283,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 77495,
       "num": 150588,
       "word": "长安三万里获优秀编剧提名",
       "onboard_time": 1745681722,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 77107,
+      "num": 152706,
+      "word": "伊朗港口爆炸14死700多伤",
+      "onboard_time": 1745709499,
+      "rank": 16,
+      "category": "国际时政"
     },
     {
       "raw_hot": 76761,
@@ -403,12 +467,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 72251,
+      "num": 72251,
+      "word": "把六旬老人吴镇宇气成小伙了",
+      "onboard_time": 1745695033,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 71658,
       "num": 150417,
       "word": "年会不能停获优秀编剧提名",
       "onboard_time": 1745685078,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 70949,
+      "num": 70949,
+      "word": "有些益虫就不能长的好看点吗",
+      "onboard_time": 1745707998,
+      "rank": 38,
+      "category": "幽默,剧集"
     },
     {
       "raw_hot": 69453,
@@ -425,6 +505,14 @@
       "onboard_time": 1745701513,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 63436,
+      "num": 85313,
+      "word": "一顿火锅上映5天还赚钱了",
+      "onboard_time": 1745674762,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 60465,
@@ -451,6 +539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49322,
+      "num": 49322,
+      "word": "伊朗港口爆炸原因调查困难",
+      "onboard_time": 1745709799,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 46585,
       "num": 85313,
       "word": "陈丽君去看韩红演唱会了",
@@ -459,28 +555,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 45720,
-      "num": 85313,
-      "word": "一顿火锅上映5天还赚钱了",
-      "onboard_time": 1745674762,
-      "rank": 45,
-      "category": "电影"
-    },
-    {
       "raw_hot": 45707,
       "num": 275937,
       "word": "97岁田华获终身成就奖",
       "onboard_time": 1745678065,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 41931,
-      "num": 41931,
-      "word": "把六旬老人吴镇宇气成小伙了",
-      "onboard_time": 1745695033,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 40709,
@@ -521,6 +601,14 @@
       "onboard_time": 1745691076,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 24271,
+      "num": 85215,
+      "word": "胡锡进重申董明珠应道歉",
+      "onboard_time": 1745709740,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23761,
@@ -619,6 +707,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 18356,
+      "num": 199903,
+      "word": "3名中国公民伊朗港口爆炸中受轻伤",
+      "onboard_time": 1745709439,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 16085,
       "num": 18493,
       "word": "张杰想让全世界看到12场鸟巢演唱会",
@@ -649,6 +745,22 @@
       "onboard_time": 1745699713,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11180,
+      "num": 130965,
+      "word": "以军对加沙密集袭击已致49人死亡",
+      "onboard_time": 1745709620,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 10471,
+      "num": 63765,
+      "word": "绝区零仪玄",
+      "onboard_time": 1745709439,
+      "rank": 39,
+      "category": "游戏"
     }
   ],
   "hotgov_list": [

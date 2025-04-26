@@ -1,0 +1,410 @@
+{
+  "runTime": 1745709829184,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 731665,
+        "num": 832500,
+        "word": "原来这就是生理性厌恶的表现",
+        "onboard_time": 1745674343,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 480893,
+        "num": 480893,
+        "word": "印度男子婚礼当天新娘被调包成岳母",
+        "onboard_time": 1745673562,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 54775,
+        "num": 341558,
+        "word": "MadeInChina硬控全球客商",
+        "onboard_time": 1745676624,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 605666,
+        "num": 321475,
+        "word": "肖战追星和我们也没区别",
+        "onboard_time": 1745684361,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 257161,
+        "num": 257161,
+        "word": "俄2岁女童被锁家中喝马桶水存活",
+        "onboard_time": 1745682622,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 238717,
+        "num": 238717,
+        "word": "比大熊猫更濒危的动物全国仅剩1只",
+        "onboard_time": 1745664141,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238014,
+        "num": 238014,
+        "word": "董明珠间谍说有没有错",
+        "onboard_time": 1745680283,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209534,
+        "num": 209534,
+        "word": "鹿晗新歌吹吹风",
+        "onboard_time": 1745709318,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 200440,
+        "num": 200440,
+        "word": "特朗普妄称中国要做出让步",
+        "onboard_time": 1745674942,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 18356,
+        "num": 199903,
+        "word": "3名中国公民伊朗港口爆炸中受轻伤",
+        "onboard_time": 1745709439,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 342195,
+        "num": 198560,
+        "word": "网购避孕套被配送员骚扰",
+        "onboard_time": 1745665102,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284185,
+        "num": 196826,
+        "word": "裸辞一年发现不上班根本不需要旅游",
+        "onboard_time": 1745676863,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 277049,
+        "num": 195745,
+        "word": "谢霆锋儿子现身演唱会",
+        "onboard_time": 1745675424,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 194196,
+        "num": 194196,
+        "word": "肖战孙燕姿演唱会后发文",
+        "onboard_time": 1745709379,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 192087,
+        "num": 192087,
+        "word": "84斤女子吐槽买百件衣服基本穿不上",
+        "onboard_time": 1745709679,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170101,
+        "num": 170101,
+        "word": "丁禹兮 舒心",
+        "onboard_time": 1745678065,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77107,
+        "num": 152706,
+        "word": "伊朗港口爆炸14死700多伤",
+        "onboard_time": 1745709499,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 144516,
+        "num": 144516,
+        "word": "李沐宸迟到被换角",
+        "onboard_time": 1745675303,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131254,
+        "num": 131254,
+        "word": "华表奖提名名单",
+        "onboard_time": 1745669423,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 11180,
+        "num": 130965,
+        "word": "以军对加沙密集袭击已致49人死亡",
+        "onboard_time": 1745709620,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 183975,
+        "num": 129722,
+        "word": "太原溺水美人鱼仍在重症监护室",
+        "onboard_time": 1745674402,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178116,
+        "num": 128934,
+        "word": "台民众持大陆身份证被撤销所谓台户籍",
+        "onboard_time": 1745680463,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 974872,
+        "num": 128212,
+        "word": "高潮针是什么",
+        "onboard_time": 1745682321,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 329607,
+        "num": 127341,
+        "word": "台北七旬老人陈尸水塔全楼喝尸水",
+        "onboard_time": 1745674282,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134949,
+        "num": 126823,
+        "word": "生理性厌恶的7个常见表现",
+        "onboard_time": 1745676804,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 126046,
+        "num": 126046,
+        "word": "保安每天偷用女员工杯子喝水",
+        "onboard_time": 1745675603,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123971,
+        "num": 123971,
+        "word": "谢霆锋儿子颜值",
+        "onboard_time": 1745709620,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 123361,
+        "num": 123361,
+        "word": "你好星期六石凯镜头被剪",
+        "onboard_time": 1745679023,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122844,
+        "num": 122844,
+        "word": "陈妍希 假的就是假的它真不了",
+        "onboard_time": 1745677102,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117376,
+        "num": 117376,
+        "word": "赵露思直播哽咽了",
+        "onboard_time": 1745682385,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170434,
+        "num": 111292,
+        "word": "母猫生下双头猫3眼2嘴2鼻",
+        "onboard_time": 1745709620,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102425,
+        "num": 102425,
+        "word": "巴萨3比2皇马",
+        "onboard_time": 1745709318,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99211,
+        "num": 99211,
+        "word": "张译王一博 华表影帝提名",
+        "onboard_time": 1745669962,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 92036,
+        "num": 92036,
+        "word": "刘奕畅李沐宸一个不服一个迟到",
+        "onboard_time": 1745680522,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86137,
+        "num": 86137,
+        "word": "国王杯",
+        "onboard_time": 1745709620,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24271,
+        "num": 85215,
+        "word": "胡锡进重申董明珠应道歉",
+        "onboard_time": 1745709740,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84617,
+        "num": 84617,
+        "word": "如何看待拆二代败光近4000万",
+        "onboard_time": 1745680163,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72251,
+        "num": 72251,
+        "word": "把六旬老人吴镇宇气成小伙了",
+        "onboard_time": 1745695033,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70949,
+        "num": 70949,
+        "word": "有些益虫就不能长的好看点吗",
+        "onboard_time": 1745707998,
+        "rank": 38,
+        "category": "幽默,剧集"
+      },
+      {
+        "raw_hot": 10471,
+        "num": 63765,
+        "word": "绝区零仪玄",
+        "onboard_time": 1745709439,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 63436,
+        "num": 63436,
+        "word": "一顿火锅上映5天还赚钱了",
+        "onboard_time": 1745674762,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 59930,
+        "num": 59930,
+        "word": "第1号台风",
+        "onboard_time": 1745676924,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53044,
+        "num": 53044,
+        "word": "王俊凯青岛",
+        "onboard_time": 1745682385,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 51261,
+        "num": 51261,
+        "word": "炒股赚6000万男子不否认有幸存者偏差",
+        "onboard_time": 1745672542,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51223,
+        "num": 51223,
+        "word": "全款76万买到260平的房子",
+        "onboard_time": 1745664621,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 50674,
+        "num": 50674,
+        "word": "女生来一次月经大概要花多少钱",
+        "onboard_time": 1745677884,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 50615,
+        "num": 50615,
+        "word": "小明剑魔老婆",
+        "onboard_time": 1745679263,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 50579,
+        "num": 50579,
+        "word": "刘烨太瘦了",
+        "onboard_time": 1745665340,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49322,
+        "num": 49322,
+        "word": "伊朗港口爆炸原因调查困难",
+        "onboard_time": 1745709799,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 46553,
+        "num": 46553,
+        "word": "被刘宇宁这首歌打动了",
+        "onboard_time": 1745673683,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央政治局会议释放新信号#"
+    }
+  }
+}
