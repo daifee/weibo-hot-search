@@ -1,0 +1,410 @@
+{
+  "runTime": 1745695168743,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 152593,
+        "num": 152593,
+        "word": "原来这就是生理性厌恶的表现",
+        "onboard_time": 1745674343,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 118305,
+        "num": 118305,
+        "word": "丁禹兮 舒心",
+        "onboard_time": 1745678065,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14425,
+        "num": 78259,
+        "word": "MadeInChina硬控全球客商",
+        "onboard_time": 1745676624,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 145540,
+        "num": 73434,
+        "word": "肖战追星和我们也没区别",
+        "onboard_time": 1745684361,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 63989,
+        "num": 63989,
+        "word": "俄2岁女童被锁家中喝马桶水存活",
+        "onboard_time": 1745682622,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 61751,
+        "num": 61751,
+        "word": "印度男子婚礼当天新娘被调包成岳母",
+        "onboard_time": 1745673562,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 65937,
+        "num": 61737,
+        "word": "华表奖提名名单",
+        "onboard_time": 1745669423,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 61648,
+        "num": 61648,
+        "word": "无忧渡 赵娜",
+        "onboard_time": 1745687657,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54780,
+        "num": 54780,
+        "word": "比大熊猫更濒危的动物全国仅剩1只",
+        "onboard_time": 1745664141,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32899,
+        "num": 54041,
+        "word": "特朗普妄称中国要做出让步",
+        "onboard_time": 1745674942,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 93827,
+        "num": 53216,
+        "word": "网购避孕套被配送员骚扰",
+        "onboard_time": 1745665102,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89774,
+        "num": 52446,
+        "word": "裸辞一年发现不上班根本不需要旅游",
+        "onboard_time": 1745676863,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 58013,
+        "num": 51089,
+        "word": "陈妍希 假的就是假的它真不了",
+        "onboard_time": 1745677102,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50926,
+        "num": 50926,
+        "word": "你好星期六石凯镜头被剪",
+        "onboard_time": 1745679023,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45444,
+        "num": 45444,
+        "word": "肖战 孙燕姿演唱会",
+        "onboard_time": 1745675244,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 44303,
+        "num": 44303,
+        "word": "谢霆锋儿子现身演唱会",
+        "onboard_time": 1745675424,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 44136,
+        "num": 44136,
+        "word": "太原溺水美人鱼仍在重症监护室",
+        "onboard_time": 1745674402,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34560,
+        "num": 34560,
+        "word": "张译王一博 华表影帝提名",
+        "onboard_time": 1745669962,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 32984,
+        "num": 32984,
+        "word": "riize",
+        "onboard_time": 1745682262,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30014,
+        "num": 32937,
+        "word": "台民众持大陆身份证被撤销所谓台户籍",
+        "onboard_time": 1745680463,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 403985,
+        "num": 32923,
+        "word": "高潮针是什么",
+        "onboard_time": 1745682321,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 77119,
+        "num": 32861,
+        "word": "台北七旬老人陈尸水塔全楼喝尸水",
+        "onboard_time": 1745674282,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58589,
+        "num": 32772,
+        "word": "赵露思直播哽咽了",
+        "onboard_time": 1745682385,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33119,
+        "num": 32766,
+        "word": "生理性厌恶的7个常见表现",
+        "onboard_time": 1745676804,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 32717,
+        "num": 32717,
+        "word": "李沐宸迟到被换角",
+        "onboard_time": 1745675303,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32507,
+        "num": 32507,
+        "word": "女生来一次月经大概要花多少钱",
+        "onboard_time": 1745677884,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 29715,
+        "num": 29715,
+        "word": "保安每天偷用女员工杯子喝水",
+        "onboard_time": 1745675603,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24847,
+        "num": 29366,
+        "word": "王俊凯青岛",
+        "onboard_time": 1745682385,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 23665,
+        "num": 29225,
+        "word": "如何看待拆二代败光近4000万",
+        "onboard_time": 1745680163,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21967,
+        "num": 29145,
+        "word": "董明珠间谍说有没有错",
+        "onboard_time": 1745680283,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29097,
+        "num": 29097,
+        "word": "刘烨太瘦了",
+        "onboard_time": 1745665340,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25690,
+        "num": 25690,
+        "word": "王者荣耀",
+        "onboard_time": 1745680823,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 22981,
+        "num": 22981,
+        "word": "考古刘旸结果上了节英语课",
+        "onboard_time": 1745692455,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22884,
+        "num": 22884,
+        "word": "被刘宇宁这首歌打动了",
+        "onboard_time": 1745673683,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 22806,
+        "num": 22806,
+        "word": "全款76万买到260平的房子",
+        "onboard_time": 1745664621,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 22272,
+        "num": 22272,
+        "word": "刘奕畅李沐宸一个不服一个迟到",
+        "onboard_time": 1745680522,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21821,
+        "num": 21821,
+        "word": "孙燕姿演唱会",
+        "onboard_time": 1745685919,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 21705,
+        "num": 21705,
+        "word": "黄子弘凡在张杰演唱会帮带ID",
+        "onboard_time": 1745679744,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 21135,
+        "num": 21135,
+        "word": "小明剑魔老婆",
+        "onboard_time": 1745679263,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 20716,
+        "num": 20716,
+        "word": "发现了韩国人来中国的秘密",
+        "onboard_time": 1745664621,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20327,
+        "num": 20327,
+        "word": "一顿火锅上映5天还赚钱了",
+        "onboard_time": 1745674762,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 19269,
+        "num": 19269,
+        "word": "许嵩惊鸿一面万人大合唱",
+        "onboard_time": 1745684481,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 19250,
+        "num": 19250,
+        "word": "韩红演唱会嘉宾薛之谦",
+        "onboard_time": 1745676083,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 18994,
+        "num": 18994,
+        "word": "警方正调查蓝猫疑被砍断四肢",
+        "onboard_time": 1745692996,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18633,
+        "num": 18633,
+        "word": "第1号台风",
+        "onboard_time": 1745676924,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18498,
+        "num": 18498,
+        "word": "炒股赚6000万男子不否认有幸存者偏差",
+        "onboard_time": 1745672542,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17263,
+        "num": 18498,
+        "word": "迅猛龙直播哭了",
+        "onboard_time": 1745661801,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 16085,
+        "num": 18493,
+        "word": "张杰想让全世界看到12场鸟巢演唱会",
+        "onboard_time": 1745689157,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 14067,
+        "num": 18492,
+        "word": "周深将出席北京国际电影节闭幕式",
+        "onboard_time": 1745693055,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 13998,
+        "num": 18488,
+        "word": "把六旬老人吴镇宇气成小伙了",
+        "onboard_time": 1745695033,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央政治局会议释放新信号#"
+    }
+  }
+}

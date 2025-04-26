@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1745693018528,
+  "endTime": 1745695168743,
   "band_list": [
     {
       "raw_hot": 2550222,
@@ -515,12 +515,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 22981,
+      "num": 28514,
+      "word": "考古刘旸结果上了节英语课",
+      "onboard_time": 1745692455,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 21941,
       "num": 42482,
       "word": "惠英红回应华表奖提名",
       "onboard_time": 1745691016,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 21821,
+      "num": 28579,
+      "word": "孙燕姿演唱会",
+      "onboard_time": 1745685919,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 21765,
@@ -531,28 +547,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 20799,
-      "num": 28579,
-      "word": "孙燕姿演唱会",
-      "onboard_time": 1745685919,
-      "rank": 44,
-      "category": "演出"
-    },
-    {
       "raw_hot": 20247,
       "num": 28532,
       "word": "时代少年团演唱会答题",
       "onboard_time": 1745692695,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 20156,
-      "num": 28514,
-      "word": "考古刘旸结果上了节英语课",
-      "onboard_time": 1745692455,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 19067,
@@ -563,12 +563,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16085,
+      "num": 18493,
+      "word": "张杰想让全世界看到12场鸟巢演唱会",
+      "onboard_time": 1745689157,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 15326,
       "num": 72238,
       "word": "推动人工智能健康有序发展",
       "onboard_time": 1745691675,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 14067,
+      "num": 18492,
+      "word": "周深将出席北京国际电影节闭幕式",
+      "onboard_time": 1745693055,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 13998,
+      "num": 18488,
+      "word": "把六旬老人吴镇宇气成小伙了",
+      "onboard_time": 1745695033,
+      "rank": 49,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
