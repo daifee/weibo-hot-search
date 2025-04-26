@@ -1,6 +1,6 @@
 {
   "startTime": 1745598635164,
-  "endTime": 1745674848537,
+  "endTime": 1745677270536,
   "band_list": [
     {
       "raw_hot": 3420165,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2335563,
-      "num": 311003,
+      "num": 1094082,
       "word": "网购避孕套被配送员骚扰",
       "onboard_time": 1745665102,
       "rank": 10,
@@ -41,6 +41,30 @@
       "onboard_time": 1745668163,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1950058,
+      "num": 1950058,
+      "word": "原来这就是生理性厌恶的表现",
+      "onboard_time": 1745674343,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1916903,
+      "num": 1916903,
+      "word": "肖战 孙燕姿演唱会",
+      "onboard_time": 1745675244,
+      "rank": 1,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 1589620,
+      "num": 1589620,
+      "word": "台北七旬老人陈尸水塔全楼喝尸水",
+      "onboard_time": 1745674282,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1462967,
@@ -83,6 +107,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1221728,
+      "num": 1221728,
+      "word": "李沐宸迟到被换角",
+      "onboard_time": 1745675303,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1215219,
       "num": 1215219,
       "word": "华表奖提名名单",
@@ -99,8 +131,16 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1123533,
+      "num": 1123533,
+      "word": "特朗普称中国须做出实质性让步",
+      "onboard_time": 1745674942,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1101823,
-      "num": 287477,
+      "num": 408498,
       "word": "刘烨太瘦了",
       "onboard_time": 1745665340,
       "rank": 25,
@@ -172,7 +212,7 @@
     },
     {
       "raw_hot": 877050,
-      "num": 283319,
+      "num": 307744,
       "word": "饿了么回应买避孕套被配送员骚扰",
       "onboard_time": 1745667802,
       "rank": 11,
@@ -193,6 +233,14 @@
       "onboard_time": 1745633661,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 822338,
+      "num": 822338,
+      "word": "赵露思直播",
+      "onboard_time": 1745674762,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 799208,
@@ -259,6 +307,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 663925,
+      "num": 663925,
+      "word": "谢霆锋儿子现身演唱会",
+      "onboard_time": 1745675424,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
       "raw_hot": 633269,
       "num": 237624,
       "word": "论文致恨",
@@ -315,6 +371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 570180,
+      "num": 1197300,
+      "word": "印度男子婚礼当天新娘被调包成岳母",
+      "onboard_time": 1745673562,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 566183,
       "num": 252313,
       "word": "韩安冉曝与婆婆聊天记录",
@@ -332,7 +396,7 @@
     },
     {
       "raw_hot": 558129,
-      "num": 268724,
+      "num": 363907,
       "word": "杨紫碎花抹胸长裙",
       "onboard_time": 1745671161,
       "rank": 28,
@@ -483,6 +547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 449414,
+      "num": 449414,
+      "word": "太原溺水美人鱼仍在重症监护室",
+      "onboard_time": 1745674402,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 436482,
       "num": 436482,
       "word": "美国玩具公司起诉美国政府",
@@ -497,14 +569,6 @@
       "onboard_time": 1745641101,
       "rank": 23,
       "category": "时尚,艺人"
-    },
-    {
-      "raw_hot": 432805,
-      "num": 432805,
-      "word": "台北七旬老人陈尸水塔全楼喝尸水",
-      "onboard_time": 1745674282,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 425918,
@@ -601,6 +665,14 @@
       "onboard_time": 1745657480,
       "rank": 30,
       "category": "网红"
+    },
+    {
+      "raw_hot": 348740,
+      "num": 348740,
+      "word": "你好星期六预告",
+      "onboard_time": 1745674522,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 347604,
@@ -747,6 +819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 295796,
+      "num": 295796,
+      "word": "被刘宇宁这首歌打动了",
+      "onboard_time": 1745673683,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 295179,
       "num": 295179,
       "word": "落花时节又逢君",
@@ -875,14 +955,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 251297,
-      "num": 251297,
-      "word": "被刘宇宁这首歌打动了",
-      "onboard_time": 1745673683,
-      "rank": 25,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 248107,
       "num": 248107,
       "word": "海上神女鞠婧祎",
@@ -931,6 +1003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 235577,
+      "num": 235577,
+      "word": "保安每天偷用女员工杯子喝水",
+      "onboard_time": 1745675603,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 234715,
       "num": 295481,
       "word": "流浪地球2等提名优秀故事片",
@@ -945,6 +1025,14 @@
       "onboard_time": 1745595262,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 228694,
+      "num": 228694,
+      "word": "韩国一公司要求员工缩短洗衣服周期",
+      "onboard_time": 1745671702,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 228407,
@@ -963,6 +1051,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 226214,
+      "num": 226214,
+      "word": "丁禹兮直播",
+      "onboard_time": 1745674402,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 224133,
       "num": 224133,
       "word": "英皇30多位艺人现身谢霆锋演唱会",
@@ -977,22 +1073,6 @@
       "onboard_time": 1745644522,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 221487,
-      "num": 221487,
-      "word": "赵露思直播",
-      "onboard_time": 1745674762,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 219523,
-      "num": 219523,
-      "word": "原来这就是生理性厌恶的表现",
-      "onboard_time": 1745674343,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 218561,
@@ -1019,6 +1099,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 216697,
+      "num": 232093,
+      "word": "炒股赚6000万男子不否认有幸存者偏差",
+      "onboard_time": 1745672542,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 215753,
       "num": 215753,
       "word": "谢娜一口气发了六条西游微博",
@@ -1043,6 +1131,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 212121,
+      "num": 212121,
+      "word": "明日方舟 Mujica",
+      "onboard_time": 1745675783,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 211044,
       "num": 198038,
       "word": "孔雪儿新剧蜕变成窦昭的样子",
@@ -1057,14 +1153,6 @@
       "onboard_time": 1745640143,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 210246,
-      "num": 210246,
-      "word": "丁禹兮直播",
-      "onboard_time": 1745674402,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 209150,
@@ -1131,28 +1219,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 199897,
-      "num": 232093,
-      "word": "炒股赚6000万男子不否认有幸存者偏差",
-      "onboard_time": 1745672542,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 199452,
       "num": 301729,
       "word": "特朗普政府将恢复外国学生合法身份",
       "onboard_time": 1745665340,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 199424,
-      "num": 199424,
-      "word": "你好星期六预告",
-      "onboard_time": 1745674522,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 199270,
@@ -1315,6 +1387,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 189073,
+      "num": 217468,
+      "word": "韩红演唱会嘉宾薛之谦",
+      "onboard_time": 1745676083,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 187291,
       "num": 187291,
       "word": "刘学义花神造型",
@@ -1347,12 +1427,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 184663,
+      "num": 184663,
+      "word": "王一博方回应获华表影帝提名",
+      "onboard_time": 1745675664,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 184494,
       "num": 184494,
       "word": "justsu求票",
       "onboard_time": 1745658140,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 184107,
+      "num": 184107,
+      "word": "姐姐镜头下的周也",
+      "onboard_time": 1745676144,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 183780,
@@ -1379,14 +1475,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 177958,
-      "num": 177958,
-      "word": "韩国一公司要求员工缩短洗衣服周期",
-      "onboard_time": 1745671702,
-      "rank": 43,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 175248,
       "num": 175248,
       "word": "KPL有自己的KPI",
@@ -1395,20 +1483,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 174213,
-      "num": 224662,
-      "word": "印度男子婚礼当天新娘被调包成岳母",
-      "onboard_time": 1745673562,
-      "rank": 29,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 173404,
       "num": 173404,
       "word": "赵娜编剧",
       "onboard_time": 1745672004,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173346,
+      "num": 173346,
+      "word": "孙燕姿上海演唱会",
+      "onboard_time": 1745668163,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 172628,
@@ -1425,6 +1513,14 @@
       "onboard_time": 1745647880,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 171604,
+      "num": 171604,
+      "word": "一顿火锅上映5天还赚钱了",
+      "onboard_time": 1745674762,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 171235,
@@ -1457,6 +1553,14 @@
       "onboard_time": 1745636901,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 168966,
+      "num": 168966,
+      "word": "裸辞一年发现不上班根本不需要旅游",
+      "onboard_time": 1745676863,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 168896,
@@ -1643,20 +1747,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158865,
+      "num": 158865,
+      "word": "宋妍霏马吟吟神级转场镜头",
+      "onboard_time": 1745674522,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158829,
       "num": 220829,
       "word": "沈月超绝不经意露出姐姐送我的竹节杯",
       "onboard_time": 1745640743,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 158753,
-      "num": 158753,
-      "word": "一顿火锅上映5天还赚钱了",
-      "onboard_time": 1745674762,
-      "rank": 42,
-      "category": "电影"
     },
     {
       "raw_hot": 158703,
@@ -1763,6 +1867,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153814,
+      "num": 153814,
+      "word": "陈妍希 假的就是假的它真不了",
+      "onboard_time": 1745677102,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 153543,
+      "num": 153543,
+      "word": "第1号台风",
+      "onboard_time": 1745676924,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 153115,
       "num": 153115,
       "word": "邓家佳坏了这可是我的强项",
@@ -1811,11 +1931,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 149815,
-      "num": 149815,
-      "word": "孙燕姿上海演唱会",
-      "onboard_time": 1745668163,
-      "rank": 47,
+      "raw_hot": 151988,
+      "num": 151988,
+      "word": "张杰小百万接好运",
+      "onboard_time": 1745676924,
+      "rank": 44,
       "category": "演出"
     },
     {
@@ -1883,6 +2003,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 146758,
+      "num": 146758,
+      "word": "刘烨回应太瘦了",
+      "onboard_time": 1745673742,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146218,
       "num": 146218,
       "word": "瑶大耳狗之梦联动动画",
@@ -1897,6 +2025,14 @@
       "onboard_time": 1745649080,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 145839,
+      "num": 145839,
+      "word": "生理性厌恶的7个常见表现",
+      "onboard_time": 1745676804,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 145131,
@@ -2049,6 +2185,14 @@
       "onboard_time": 1745581342,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 136729,
+      "num": 136729,
+      "word": "朱珠碎花裙",
+      "onboard_time": 1745677224,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 136598,
@@ -2835,14 +2979,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 90392,
-      "num": 245498,
-      "word": "太原溺水美人鱼仍在重症监护室",
-      "onboard_time": 1745674402,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 89893,
       "num": 89893,
       "word": "偶遇那英宋丹丹逛商场",
@@ -3243,12 +3379,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 55860,
+      "num": 1094271,
+      "word": "俄称已收复库尔斯克州",
+      "onboard_time": 1745676444,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 55400,
       "num": 55400,
       "word": "戚薇夫妻关系是冷暖自知的",
       "onboard_time": 1745608094,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 53457,
+      "num": 501985,
+      "word": "开了瑞幸会员卡价格反比别人贵",
+      "onboard_time": 1745676624,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 53339,
@@ -3457,6 +3609,14 @@
       "onboard_time": 1745601798,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 32249,
+      "num": 1694767,
+      "word": "MadeInChina硬控全球客商",
+      "onboard_time": 1745676624,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 31952,
@@ -3770,6 +3930,9 @@
     },
     {
       "word": "#推动人工智能健康有序发展#"
+    },
+    {
+      "word": "#为什么中国意味着确定性未来性机遇性#"
     }
   ]
 }
