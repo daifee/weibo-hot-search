@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/26 16:28:58
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/26 16:42:46
 </p>
 </blockquote>
 <p>
@@ -6725,6 +6725,12 @@ YERI和Wendy离开SM（热度：805847）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B8%80%E5%9B%BE%E9%80%9F%E8%A7%88%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E4%BC%9A%E8%AE%AE%E8%A6%81%E7%82%B9%23%23" target="weibo">
 #一图速览中央政治局会议要点#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E7%89%A2%E7%89%A2%E6%8E%8C%E6%8F%A1%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8F%91%E5%B1%95%E5%92%8C%E6%B2%BB%E7%90%86%E4%B8%BB%E5%8A%A8%E6%9D%83%23%23" target="weibo">
+#牢牢掌握人工智能发展和治理主动权#
 </a>
 </li>
 
