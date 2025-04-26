@@ -1,0 +1,410 @@
+{
+  "runTime": 1745646050107,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 724559,
+        "num": 1115929,
+        "word": "日本大爷坠入坑中3个月仍未获救",
+        "onboard_time": 1745632400,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 556308,
+        "num": 556308,
+        "word": "多地宣布发钱奖励结婚",
+        "onboard_time": 1745637561,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37047,
+        "num": 505535,
+        "word": "数据折射流动中国蓬勃活力",
+        "onboard_time": 1745642421,
+        "rank": 2,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 478308,
+        "num": 478308,
+        "word": "邓超喊孙俪中午12点来五哈打脸",
+        "onboard_time": 1745642902,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 436482,
+        "num": 436482,
+        "word": "美国玩具公司起诉美国政府",
+        "onboard_time": 1745643321,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 419926,
+        "num": 419926,
+        "word": "美媒警告未来几个月部分商品将消失",
+        "onboard_time": 1745641221,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 302681,
+        "num": 302681,
+        "word": "Jennie德国版芭莎封面",
+        "onboard_time": 1745641101,
+        "rank": 6,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 296901,
+        "num": 296901,
+        "word": "青岛地铁口5平米土地无人认领",
+        "onboard_time": 1745643800,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 289165,
+        "num": 289165,
+        "word": "淮水竹亭定档",
+        "onboard_time": 1745633661,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51389,
+        "num": 289123,
+        "word": "马斯克和美财长在白宫大吵狂飙脏话",
+        "onboard_time": 1745645421,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 890222,
+        "num": 288643,
+        "word": "10泡尿毁了数万跑者的盛大赛事",
+        "onboard_time": 1745630060,
+        "rank": 10,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 525291,
+        "num": 288250,
+        "word": "韩安冉说她是照着Angelababy整的",
+        "onboard_time": 1745636721,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 514890,
+        "num": 288054,
+        "word": "蔡徐坤直播突然被封",
+        "onboard_time": 1745596762,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 470039,
+        "num": 287753,
+        "word": "深圳殉情男子岳母发声",
+        "onboard_time": 1745633782,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 313922,
+        "num": 287490,
+        "word": "李濛 张檬",
+        "onboard_time": 1745633481,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281364,
+        "num": 286890,
+        "word": "孟子义跑到袜子破了都不知道",
+        "onboard_time": 1745642241,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286872,
+        "num": 286872,
+        "word": "四川甘孜4.9级地震",
+        "onboard_time": 1745643143,
+        "rank": 16,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 159909,
+        "num": 276523,
+        "word": "李心月向杨颖道歉",
+        "onboard_time": 1745644401,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267562,
+        "num": 276297,
+        "word": "有剧拍出了受害者羞耻陷阱",
+        "onboard_time": 1745644820,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50442,
+        "num": 276183,
+        "word": "清华人是怎样诠释自强不息的",
+        "onboard_time": 1745643441,
+        "rank": 19,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 276089,
+        "num": 276089,
+        "word": "王菲谢霆锋好甜",
+        "onboard_time": 1745627360,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 274683,
+        "num": 274683,
+        "word": "王一博过弯",
+        "onboard_time": 1745642181,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249723,
+        "num": 249723,
+        "word": "女子剧烈孕吐差点危及生命",
+        "onboard_time": 1745638101,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243439,
+        "num": 243439,
+        "word": "何老师跳了晚安大小姐",
+        "onboard_time": 1745645061,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45779,
+        "num": 224364,
+        "word": "东契奇胃不舒服",
+        "onboard_time": 1745639661,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223427,
+        "num": 223427,
+        "word": "李惠利 百想",
+        "onboard_time": 1745644522,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215753,
+        "num": 215753,
+        "word": "谢娜一口气发了六条西游微博",
+        "onboard_time": 1745644222,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210993,
+        "num": 210993,
+        "word": "90岁高颜值彝族奶奶火出圈",
+        "onboard_time": 1745642303,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184685,
+        "num": 184685,
+        "word": "四川白玉地震",
+        "onboard_time": 1745642181,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180382,
+        "num": 180382,
+        "word": "刘诗诗紫裙变装",
+        "onboard_time": 1745644041,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167399,
+        "num": 167399,
+        "word": "夏依丹去世好友发声",
+        "onboard_time": 1745645900,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165836,
+        "num": 165836,
+        "word": "华表奖提名",
+        "onboard_time": 1745637381,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 164716,
+        "num": 164716,
+        "word": "华表奖全阵容一览",
+        "onboard_time": 1745645061,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 158930,
+        "num": 158930,
+        "word": "8旬老人无人赡养起诉2儿1女",
+        "onboard_time": 1745640261,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153061,
+        "num": 153061,
+        "word": "无忧渡",
+        "onboard_time": 1745628980,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145662,
+        "num": 145662,
+        "word": "乌鸡白凤丸谁吃谁好用",
+        "onboard_time": 1745637261,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 148766,
+        "num": 145051,
+        "word": "宣言无忧渡演爽了",
+        "onboard_time": 1745645601,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143331,
+        "num": 143331,
+        "word": "侃爷希望与帕丽斯希尔顿生孩子",
+        "onboard_time": 1745642002,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141964,
+        "num": 141964,
+        "word": "最适合大学生养的宠物狗",
+        "onboard_time": 1745642661,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139459,
+        "num": 139459,
+        "word": "拆二代败光5套房近4000万成阶下囚",
+        "onboard_time": 1745628980,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139068,
+        "num": 139068,
+        "word": "华表奖",
+        "onboard_time": 1745642421,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131396,
+        "num": 131396,
+        "word": "落花时节又逢君",
+        "onboard_time": 1745637142,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123911,
+        "num": 123911,
+        "word": "淮水竹亭圈外到底有谁在啊",
+        "onboard_time": 1745644641,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123738,
+        "num": 123738,
+        "word": "五哈",
+        "onboard_time": 1745644462,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119011,
+        "num": 119011,
+        "word": "李嘉琦浪姐是真没白来",
+        "onboard_time": 1745636600,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118468,
+        "num": 118468,
+        "word": "森林狼2比1湖人",
+        "onboard_time": 1745642722,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116969,
+        "num": 116969,
+        "word": "看得出女人味是倪虹洁的统治区了",
+        "onboard_time": 1745645961,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114658,
+        "num": 114658,
+        "word": "杨迪回应疑似在南京当小时工",
+        "onboard_time": 1745642002,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113316,
+        "num": 113316,
+        "word": "刘宇宁张碧晨谁也不放过谁",
+        "onboard_time": 1745645900,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110891,
+        "num": 110891,
+        "word": "奶茶也能补气血",
+        "onboard_time": 1745643620,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#一图速览中央政治局会议要点#"
+    }
+  }
+}

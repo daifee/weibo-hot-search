@@ -1,6 +1,6 @@
 {
   "startTime": 1745080147354,
-  "endTime": 1745645023669,
+  "endTime": 1745646050107,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -3411,6 +3411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 478308,
+      "num": 478308,
+      "word": "邓超喊孙俪中午12点来五哈打脸",
+      "onboard_time": 1745642902,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 477930,
       "num": 405024,
       "word": "徐锦江已向儿子交代后事",
@@ -3721,6 +3729,14 @@
       "onboard_time": 1745289320,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 436482,
+      "num": 436482,
+      "word": "美国玩具公司起诉美国政府",
+      "onboard_time": 1745643321,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 435905,
@@ -5579,6 +5595,14 @@
       "category": "艺人,剧集"
     },
     {
+      "raw_hot": 296901,
+      "num": 296901,
+      "word": "青岛地铁口5平米土地无人认领",
+      "onboard_time": 1745643800,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 296884,
       "num": 296884,
       "word": "王楠老公谈刘国梁辞职",
@@ -5771,20 +5795,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 287554,
-      "num": 250837,
-      "word": "邓超喊孙俪中午12点来五哈打脸",
-      "onboard_time": 1745642902,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 287336,
       "num": 287336,
       "word": "万人请辞哈利波特魔法觉醒策划",
       "onboard_time": 1745317342,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 286872,
+      "num": 286872,
+      "word": "四川甘孜4.9级地震",
+      "onboard_time": 1745643143,
+      "rank": 15,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 286338,
@@ -6123,14 +6147,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 269959,
-      "num": 269959,
-      "word": "四川甘孜4.9级地震",
-      "onboard_time": 1745643143,
-      "rank": 15,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 269030,
       "num": 354238,
       "word": "甲亢哥透露卤鹅哥几周后将来美国",
@@ -6185,6 +6201,14 @@
       "onboard_time": 1745637261,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 267562,
+      "num": 276297,
+      "word": "有剧拍出了受害者羞耻陷阱",
+      "onboard_time": 1745644820,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 266950,
@@ -6777,6 +6801,14 @@
       "onboard_time": 1745327782,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 243439,
+      "num": 243439,
+      "word": "何老师跳了晚安大小姐",
+      "onboard_time": 1745645061,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 243415,
@@ -7667,6 +7699,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 215753,
+      "num": 215753,
+      "word": "谢娜一口气发了六条西游微博",
+      "onboard_time": 1745644222,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 215747,
       "num": 215747,
       "word": "刘诗诗紫裙变装",
@@ -8049,14 +8089,6 @@
       "onboard_time": 1745305701,
       "rank": 39,
       "category": "财经"
-    },
-    {
-      "raw_hot": 207102,
-      "num": 207102,
-      "word": "有剧拍出了受害者羞耻陷阱",
-      "onboard_time": 1745644820,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 206915,
@@ -8755,14 +8787,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 197845,
-      "num": 284795,
-      "word": "美国玩具公司起诉美国政府",
-      "onboard_time": 1745643321,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 197806,
       "num": 197806,
       "word": "权志龙新歌",
@@ -9425,14 +9449,6 @@
       "onboard_time": 1745549541,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 188941,
-      "num": 188941,
-      "word": "谢娜一口气发了六条西游微博",
-      "onboard_time": 1745644222,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 188865,
@@ -11035,6 +11051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167399,
+      "num": 167399,
+      "word": "夏依丹去世好友发声",
+      "onboard_time": 1745645900,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167249,
       "num": 167249,
       "word": "NBA",
@@ -11281,6 +11305,14 @@
       "onboard_time": 1745417363,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164716,
+      "num": 164716,
+      "word": "华表奖全阵容一览",
+      "onboard_time": 1745645061,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 164586,
@@ -11745,6 +11777,14 @@
       "onboard_time": 1745413223,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 159909,
+      "num": 276523,
+      "word": "李心月向杨颖道歉",
+      "onboard_time": 1745644401,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 159902,
@@ -12883,6 +12923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148766,
+      "num": 145051,
+      "word": "宣言无忧渡演爽了",
+      "onboard_time": 1745645601,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148750,
       "num": 148750,
       "word": "娇妹 晓亮",
@@ -13105,14 +13153,6 @@
       "onboard_time": 1745330603,
       "rank": 47,
       "category": "美食"
-    },
-    {
-      "raw_hot": 146456,
-      "num": 146456,
-      "word": "李心月向杨颖道歉",
-      "onboard_time": 1745644401,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 146327,
@@ -13595,6 +13635,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 141964,
+      "num": 141964,
+      "word": "最适合大学生养的宠物狗",
+      "onboard_time": 1745642661,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 141963,
       "num": 141963,
       "word": "海军双语外宣片震撼发布",
@@ -14025,14 +14073,6 @@
       "onboard_time": 1745293762,
       "rank": 42,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 137817,
-      "num": 238989,
-      "word": "青岛地铁口5平米土地无人认领",
-      "onboard_time": 1745643800,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 137812,
@@ -15963,6 +16003,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 116969,
+      "num": 116969,
+      "word": "看得出女人味是倪虹洁的统治区了",
+      "onboard_time": 1745645961,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116957,
       "num": 211805,
       "word": "时团二开",
@@ -16209,6 +16257,14 @@
       "onboard_time": 1745226622,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113316,
+      "num": 113316,
+      "word": "刘宇宁张碧晨谁也不放过谁",
+      "onboard_time": 1745645900,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 113057,
@@ -20467,6 +20523,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 51389,
+      "num": 289123,
+      "word": "马斯克和美财长在白宫大吵狂飙脏话",
+      "onboard_time": 1745645421,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 51374,
       "num": 51374,
       "word": "早上关了闹铃千万别闭眼",
@@ -20569,6 +20633,14 @@
       "onboard_time": 1745337621,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50442,
+      "num": 276183,
+      "word": "清华人是怎样诠释自强不息的",
+      "onboard_time": 1745643441,
+      "rank": 19,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 50441,
@@ -21017,6 +21089,14 @@
       "onboard_time": 1745548100,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 45779,
+      "num": 224364,
+      "word": "东契奇胃不舒服",
+      "onboard_time": 1745639661,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 45727,
