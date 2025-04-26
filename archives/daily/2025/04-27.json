@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1745696158689,
+  "endTime": 1745699099785,
   "band_list": [
     {
       "raw_hot": 2550222,
@@ -475,6 +475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26166,
+      "num": 26166,
+      "word": "全球聚焦中国回应中美所谓关税谈判",
+      "onboard_time": 1745696293,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 25750,
       "num": 42543,
       "word": "周深葛优同框",
@@ -497,6 +505,14 @@
       "onboard_time": 1745691675,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 23345,
+      "num": 23345,
+      "word": "肖战2014年的愿望实现了",
+      "onboard_time": 1745697433,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 23229,
@@ -563,7 +579,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 16425,
+      "raw_hot": 17292,
       "num": 24579,
       "word": "把六旬老人吴镇宇气成小伙了",
       "onboard_time": 1745695033,
