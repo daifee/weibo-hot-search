@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1745695168743,
+  "endTime": 1745696158689,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -89587,6 +89587,14 @@
       "category": "海外新闻,体育"
     },
     {
+      "raw_hot": 16425,
+      "num": 24579,
+      "word": "把六旬老人吴镇宇气成小伙了",
+      "onboard_time": 1745695033,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 16412,
       "num": 190270,
       "word": "建议青少年接种HPV疫苗",
@@ -90433,14 +90441,6 @@
       "onboard_time": 1745262794,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 13998,
-      "num": 18488,
-      "word": "把六旬老人吴镇宇气成小伙了",
-      "onboard_time": 1745695033,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 13990,
