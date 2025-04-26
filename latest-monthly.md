@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/26 17:37:31
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/26 18:24:08
 </p>
 </blockquote>
 <p>
@@ -5985,6 +5985,12 @@ YERI和Wendy离开SM（热度：805847）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%B2%BE%E7%A5%9E%E5%B0%8F%E5%A6%B9%E6%9C%89%E5%A4%9A%E5%8F%AF%E6%80%95%23" target="weibo">
+日本精神小妹有多可怕（热度：772512）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%20%E5%93%AA%E5%90%92%23" target="weibo">
 霸王茶姬 哪吒（热度：771856）
 </a>
@@ -6005,12 +6011,6 @@ YERI和Wendy离开SM（热度：805847）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%20%E6%99%8B%E6%B1%9F%E5%BC%8F%E6%BC%94%E6%8A%80%23" target="weibo">
 丁禹兮 晋江式演技（热度：770923）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%82%85%E9%A6%96%E5%B0%94%E5%9B%A0%E6%97%A0%E6%B3%95%E5%85%A5%E6%88%8F%E9%81%93%E6%AD%89%23" target="weibo">
-傅首尔因无法入戏道歉（热度：770907）
 </a>
 </li>
 

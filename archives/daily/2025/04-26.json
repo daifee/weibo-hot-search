@@ -1,6 +1,6 @@
 {
   "startTime": 1745598635164,
-  "endTime": 1745660251709,
+  "endTime": 1745663048486,
   "band_list": [
     {
       "raw_hot": 3420165,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 941667,
-      "num": 211563,
+      "num": 214209,
       "word": "警方回应蓝猫疑被砍断四肢",
       "onboard_time": 1745651482,
       "rank": 30,
@@ -139,6 +139,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 772512,
+      "num": 1123602,
+      "word": "日本精神小妹有多可怕",
+      "onboard_time": 1745658982,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 767893,
       "num": 323512,
       "word": "无忧渡大结局是爱奇艺改的",
@@ -171,8 +179,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 680129,
+      "num": 220720,
+      "word": "你意想不到的两个人在一起了",
+      "onboard_time": 1745654182,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 633269,
-      "num": 212090,
+      "num": 217586,
       "word": "论文致恨",
       "onboard_time": 1745654061,
       "rank": 20,
@@ -228,19 +244,11 @@
     },
     {
       "raw_hot": 565853,
-      "num": 208358,
+      "num": 218052,
       "word": "小S原来是个形容词啊",
       "onboard_time": 1745654421,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 561166,
-      "num": 208727,
-      "word": "你意想不到的两个人在一起了",
-      "onboard_time": 1745654182,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 553489,
@@ -264,6 +272,14 @@
       "word": "韩安冉说她是照着Angelababy整的",
       "onboard_time": 1745636721,
       "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 539014,
+      "num": 219394,
+      "word": "首尔偶遇李昀锐买衣服",
+      "onboard_time": 1745659881,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -420,7 +436,7 @@
     },
     {
       "raw_hot": 350589,
-      "num": 166008,
+      "num": 217136,
       "word": "张拿铁 要不然下点毒呢",
       "onboard_time": 1745657480,
       "rank": 30,
@@ -451,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 329505,
+      "num": 329505,
+      "word": "王一博再创佳绩",
+      "onboard_time": 1745660421,
+      "rank": 3,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 326734,
       "num": 251247,
       "word": "美24岁前童星去世时已怀有身孕",
@@ -460,7 +484,7 @@
     },
     {
       "raw_hot": 322102,
-      "num": 206666,
+      "num": 213680,
       "word": "陈妍希工作室回应与帅哥聚餐",
       "onboard_time": 1745656280,
       "rank": 19,
@@ -481,6 +505,14 @@
       "onboard_time": 1745597063,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 306624,
+      "num": 215880,
+      "word": "迅猛龙直播哭了",
+      "onboard_time": 1745661801,
+      "rank": 20,
+      "category": "网红"
     },
     {
       "raw_hot": 303372,
@@ -515,6 +547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 296209,
+      "num": 215634,
+      "word": "侃爷说不该和金卡戴珊生孩子",
+      "onboard_time": 1745657301,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 295179,
       "num": 295179,
       "word": "落花时节又逢君",
@@ -529,6 +569,14 @@
       "onboard_time": 1745636541,
       "rank": 36,
       "category": "教育"
+    },
+    {
+      "raw_hot": 291279,
+      "num": 291279,
+      "word": "李惠利IU金惠允投票",
+      "onboard_time": 1745659222,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 286872,
@@ -577,14 +625,6 @@
       "onboard_time": 1745640261,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 262264,
-      "num": 163943,
-      "word": "首尔偶遇李昀锐买衣服",
-      "onboard_time": 1745659881,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 261118,
@@ -683,6 +723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 222561,
+      "num": 222561,
+      "word": "伊朗南部阿巴斯港港口发生爆炸",
+      "onboard_time": 1745662280,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 218054,
       "num": 262434,
       "word": "美军工稀土储备仅够数月",
@@ -707,6 +755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213536,
+      "num": 213536,
+      "word": "王祖贤现身上海",
+      "onboard_time": 1745660961,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 210772,
       "num": 231176,
       "word": "刘宇宁哽咽感谢杨坤的帮助",
@@ -729,14 +785,6 @@
       "onboard_time": 1745656762,
       "rank": 33,
       "category": "演出"
-    },
-    {
-      "raw_hot": 204355,
-      "num": 159841,
-      "word": "侃爷说不该和金卡戴珊生孩子",
-      "onboard_time": 1745657301,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 204084,
@@ -785,6 +833,14 @@
       "onboard_time": 1745635641,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196193,
+      "num": 196193,
+      "word": "鞠婧祎香槟金撕拉片",
+      "onboard_time": 1745661981,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 195322,
@@ -857,6 +913,14 @@
       "onboard_time": 1745640080,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 186540,
+      "num": 220330,
+      "word": "三亚一景区发生游客溺亡事件",
+      "onboard_time": 1745661321,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 184808,
@@ -979,20 +1043,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 165962,
-      "num": 165962,
-      "word": "李惠利IU金惠允投票",
-      "onboard_time": 1745659222,
-      "rank": 35,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 164716,
       "num": 164716,
       "word": "华表奖全阵容一览",
       "onboard_time": 1745645061,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 164568,
+      "num": 164568,
+      "word": "黄杨钿甜人鱼裙造型",
+      "onboard_time": 1745662641,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 163996,
@@ -1075,6 +1139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156839,
+      "num": 156839,
+      "word": "黄景瑜是在防晒还是防我",
+      "onboard_time": 1745660241,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155469,
       "num": 155469,
       "word": "华表奖",
@@ -1155,6 +1227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148626,
+      "num": 148626,
+      "word": "经常出差的人过的什么样的生活",
+      "onboard_time": 1745660600,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 148486,
       "num": 148486,
       "word": "森林狼2比1湖人",
@@ -1169,6 +1249,22 @@
       "onboard_time": 1745642181,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 146518,
+      "num": 146518,
+      "word": "央视曝光假非遗传承人是AI生成",
+      "onboard_time": 1745662580,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 146314,
+      "num": 146568,
+      "word": "宣夜还在找妖他爹已经碎了",
+      "onboard_time": 1745662221,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 146066,
@@ -1371,6 +1467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128231,
+      "num": 128231,
+      "word": "无忧渡虽有离别但终会再见",
+      "onboard_time": 1745660241,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127337,
       "num": 127337,
       "word": "王一博赛车",
@@ -1441,6 +1545,14 @@
       "onboard_time": 1745638460,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124634,
+      "num": 124634,
+      "word": "任嘉伦范丞丞宋茜等推介青岛",
+      "onboard_time": 1745662761,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 123502,
@@ -1537,6 +1649,14 @@
       "onboard_time": 1745632103,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 118743,
+      "num": 118743,
+      "word": "吴宣仪 黑粉老是说我牙龅",
+      "onboard_time": 1745662701,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 118040,
@@ -1771,6 +1891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102142,
+      "num": 102142,
+      "word": "大唐辟珠记",
+      "onboard_time": 1745660961,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 101812,
       "num": 101812,
       "word": "黑执事好美丽的少爷",
@@ -1835,6 +1963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97408,
+      "num": 97408,
+      "word": "周深北影华表齐开唱",
+      "onboard_time": 1745661920,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 96002,
       "num": 96002,
       "word": "只有奶牛猫肯坐这个顺风车了",
@@ -1857,6 +1993,14 @@
       "onboard_time": 1745658741,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 94449,
+      "num": 94449,
+      "word": "对话炒股11年赚6000万男子",
+      "onboard_time": 1745661740,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93894,
@@ -1921,6 +2065,14 @@
       "onboard_time": 1745581822,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 90493,
+      "num": 90493,
+      "word": "国羽双打苏杯赛前训练",
+      "onboard_time": 1745662941,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 90396,
@@ -2017,6 +2169,14 @@
       "onboard_time": 1745656641,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 84505,
+      "num": 221131,
+      "word": "鸿星尔克纽约时代广场大屏飘红",
+      "onboard_time": 1745661801,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 83787,
@@ -2251,6 +2411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 57492,
+      "num": 221816,
+      "word": "教宗方济各葬礼",
+      "onboard_time": 1745662221,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 57139,
       "num": 229102,
       "word": "为什么周末要去河北",
@@ -2339,6 +2507,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 45293,
+      "num": 216314,
+      "word": "公园小猫被弹弓射伤眼内耳内有钢珠",
+      "onboard_time": 1745662461,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45095,
+      "num": 214912,
+      "word": "叠满冠军BUFF",
+      "onboard_time": 1745660661,
+      "rank": 22,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 44710,
       "num": 53858,
       "word": "KSG遗憾止步春季赛",
@@ -2409,6 +2593,14 @@
       "onboard_time": 1745615174,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 39066,
+      "num": 97904,
+      "word": "无穷小亮遇上了最喜欢的鹦鹉",
+      "onboard_time": 1745663001,
+      "rank": 44,
+      "category": "科学科普,民生新闻"
     },
     {
       "raw_hot": 36513,
@@ -2611,14 +2803,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 19020,
-      "num": 102498,
-      "word": "日本精神小妹有多可怕",
-      "onboard_time": 1745658982,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 18724,
       "num": 49412,
       "word": "熊孩子又又又卡墙缝了",
@@ -2689,6 +2873,14 @@
       "onboard_time": 1745641883,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 8038,
+      "num": 166762,
+      "word": "日喀则有哪些值得打卡的地点",
+      "onboard_time": 1745662882,
+      "rank": 28,
+      "category": "旅游"
     },
     {
       "raw_hot": 6978,
