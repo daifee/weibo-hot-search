@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/26 09:50:40
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/26 10:12:35
 </p>
 </blockquote>
 <p>
@@ -910,7 +910,7 @@ C罗点评甲亢哥中国行（热度：2472029）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%2310%E6%B3%A1%E5%B0%BF%E6%AF%81%E4%BA%86%E6%95%B0%E4%B8%87%E8%B7%91%E8%80%85%E7%9A%84%E7%9B%9B%E5%A4%A7%E8%B5%9B%E4%BA%8B%23" target="weibo">
-10泡尿毁了数万跑者的盛大赛事（热度：2046443）
+10泡尿毁了数万跑者的盛大赛事（热度：2048864）
 </a>
 </li>
 
@@ -5157,6 +5157,12 @@ SM新男团 撞名（热度：910464）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E5%BF%A7%E6%B8%A1%E5%A5%B3%E6%BC%94%E5%91%98%E5%A4%8F%E4%BE%9D%E4%B8%B9%E8%A2%AB%E6%9B%9D%E5%8E%BB%E4%B8%96%23" target="weibo">
+无忧渡女演员夏依丹被曝去世（热度：845634）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E4%BA%94%E5%9B%9B%E6%99%9A%E4%BC%9A%E5%BD%95%E5%88%B6%E8%B7%AF%E9%80%8F%23" target="weibo">
 关晓彤五四晚会录制路透（热度：845554）
 </a>
@@ -6005,12 +6011,6 @@ YERI和Wendy离开SM（热度：805847）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E5%BF%A7%E6%B8%A1%E5%A4%A7%E7%BB%93%E5%B1%80%E6%98%AF%E7%88%B1%E5%A5%87%E8%89%BA%E6%94%B9%E7%9A%84%23" target="weibo">
 无忧渡大结局是爱奇艺改的（热度：767893）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%AE%8C%E5%85%A8%E6%98%AF%E5%9C%A8%E8%80%8D%E8%B5%96%E6%8A%A2%E9%92%B1%23" target="weibo">
-美国完全是在耍赖抢钱（热度：767652）
 </a>
 </li>
 

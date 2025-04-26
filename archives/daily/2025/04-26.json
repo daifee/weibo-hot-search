@@ -1,6 +1,6 @@
 {
   "startTime": 1745598635164,
-  "endTime": 1745632240567,
+  "endTime": 1745633555722,
   "band_list": [
     {
       "raw_hot": 3420165,
@@ -11,7 +11,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2046443,
+      "raw_hot": 2048864,
       "num": 263603,
       "word": "10泡尿毁了数万跑者的盛大赛事",
       "onboard_time": 1745630060,
@@ -51,6 +51,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 845634,
+      "num": 220220,
+      "word": "无忧渡女演员夏依丹被曝去世",
+      "onboard_time": 1745632462,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 836319,
       "num": 258989,
       "word": "35岁女子月入五万北漂十几年只攒下十万",
@@ -75,8 +83,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 663428,
-      "num": 663428,
+      "raw_hot": 697677,
+      "num": 697677,
       "word": "外籍歌手唐伯虎回应拖欠劳务费",
       "onboard_time": 1745630060,
       "rank": 1,
@@ -115,6 +123,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 538041,
+      "num": 538041,
+      "word": "无忧渡2",
+      "onboard_time": 1745630960,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 504746,
+      "num": 257714,
+      "word": "深圳殉情男子遗书希望与妻合葬",
+      "onboard_time": 1745630060,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 504075,
       "num": 297269,
       "word": "任嘉伦宋祖儿 接二搭",
@@ -129,22 +153,6 @@
       "onboard_time": 1745596402,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 455312,
-      "num": 257714,
-      "word": "深圳殉情男子遗书希望与妻合葬",
-      "onboard_time": 1745630060,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 454534,
-      "num": 265210,
-      "word": "无忧渡2",
-      "onboard_time": 1745630960,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 425918,
@@ -177,6 +185,22 @@
       "onboard_time": 1745616015,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 338216,
+      "num": 338216,
+      "word": "男子性侵初中女生致其怀孕不予立案",
+      "onboard_time": 1745633001,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 331000,
+      "num": 331000,
+      "word": "倪妮大方谈自己变老了",
+      "onboard_time": 1745630120,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 326734,
@@ -235,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 259320,
+      "num": 211731,
+      "word": "日本大爷坠入坑中3个月仍未获救",
+      "onboard_time": 1745632400,
+      "rank": 16,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 257257,
       "num": 257257,
       "word": "关晓彤有在认真搞事业",
@@ -249,14 +281,6 @@
       "onboard_time": 1745598441,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 252672,
-      "num": 252672,
-      "word": "倪妮大方谈自己变老了",
-      "onboard_time": 1745630120,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 248107,
@@ -291,6 +315,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 218054,
+      "num": 262434,
+      "word": "美军工稀土储备仅够数月",
+      "onboard_time": 1745630661,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 197412,
       "num": 197412,
       "word": "妻子翻丈夫手机抓出轨证据获法院采信",
@@ -305,6 +337,14 @@
       "onboard_time": 1745625800,
       "rank": 22,
       "category": "国际时政,财经"
+    },
+    {
+      "raw_hot": 193576,
+      "num": 193576,
+      "word": "白宫前官员称稀土管制让美国慌了",
+      "onboard_time": 1745631201,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 171167,
@@ -355,6 +395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 150223,
+      "num": 150223,
+      "word": "易烊千玺三部主演电影获得华表奖",
+      "onboard_time": 1745632820,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 148992,
       "num": 148992,
       "word": "王一博上午赛车下午走红毯",
@@ -363,19 +411,27 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 147700,
-      "num": 262434,
-      "word": "美军工稀土储备仅够数月",
-      "onboard_time": 1745630661,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 144989,
       "num": 176892,
       "word": "建议你积极拥抱线下生活",
       "onboard_time": 1745596762,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144102,
+      "num": 144102,
+      "word": "娜扎女帝造型",
+      "onboard_time": 1745627059,
+      "rank": 28,
+      "category": "作品衍生,综艺"
+    },
+    {
+      "raw_hot": 141062,
+      "num": 197742,
+      "word": "男子坚持两年终于拍到巨型昙花一现",
+      "onboard_time": 1745631201,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -401,30 +457,6 @@
       "onboard_time": 1745581342,
       "rank": 31,
       "category": "电影"
-    },
-    {
-      "raw_hot": 135387,
-      "num": 197742,
-      "word": "男子坚持两年终于拍到巨型昙花一现",
-      "onboard_time": 1745631201,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 134260,
-      "num": 134260,
-      "word": "娜扎女帝造型",
-      "onboard_time": 1745627059,
-      "rank": 28,
-      "category": "作品衍生,综艺"
-    },
-    {
-      "raw_hot": 130823,
-      "num": 130823,
-      "word": "白宫前官员称稀土管制让美国慌了",
-      "onboard_time": 1745631201,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 130657,
@@ -467,6 +499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119394,
+      "num": 119394,
+      "word": "yagao 中年人来旅游了",
+      "onboard_time": 1745632103,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 118040,
       "num": 118040,
       "word": "未定事件簿 左然",
@@ -481,6 +521,14 @@
       "onboard_time": 1745631081,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 115717,
+      "num": 115717,
+      "word": "小明剑魔回应",
+      "onboard_time": 1745632462,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 115690,
@@ -499,6 +547,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 107405,
+      "num": 107405,
+      "word": "金靖禁止张凌赫再演傻子了",
+      "onboard_time": 1745633242,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 105191,
       "num": 105191,
       "word": "郑钦文止步女单次轮",
@@ -515,6 +571,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104013,
+      "num": 226785,
+      "word": "中美未就关税问题磋商或谈判",
+      "onboard_time": 1745632942,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 102608,
+      "num": 102608,
+      "word": "你知道女性黄体期是什么时候吗",
+      "onboard_time": 1745630060,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 96253,
       "num": 96253,
       "word": "专家称预言东京湾大地震可信度极低",
@@ -529,6 +601,14 @@
       "onboard_time": 1745576600,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 92398,
+      "num": 92398,
+      "word": "李濛 张檬",
+      "onboard_time": 1745633481,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 91504,
@@ -555,6 +635,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 89129,
+      "num": 108406,
+      "word": "四川取消普通住宅和非普通住宅标准",
+      "onboard_time": 1745632641,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89027,
+      "num": 89027,
+      "word": "我要买冰袖",
+      "onboard_time": 1745630301,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 86918,
+      "num": 97895,
+      "word": "湖人vs森林狼",
+      "onboard_time": 1745632400,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86517,
       "num": 86517,
       "word": "蔡正元",
@@ -563,12 +667,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 84263,
-      "num": 84263,
-      "word": "yagao 中年人来旅游了",
-      "onboard_time": 1745632103,
-      "rank": 42,
-      "category": "电竞"
+      "raw_hot": 85377,
+      "num": 85377,
+      "word": "沈月淮水竹亭纯享版",
+      "onboard_time": 1745633422,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 83787,
@@ -593,6 +697,14 @@
       "onboard_time": 1745629040,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 81559,
+      "num": 81559,
+      "word": "李和宸0比3松岛辉空",
+      "onboard_time": 1745633060,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 81143,
@@ -668,7 +780,7 @@
     },
     {
       "raw_hot": 74106,
-      "num": 502685,
+      "num": 580835,
       "word": "以旧换新带动销售额超7200亿",
       "onboard_time": 1745587342,
       "rank": 2,
@@ -921,6 +1033,14 @@
       "onboard_time": 1745607975,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 10154,
+      "num": 196777,
+      "word": "维生素D需要和K一起吃吗",
+      "onboard_time": 1745632881,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 9056,
