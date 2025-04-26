@@ -1,0 +1,410 @@
+{
+  "runTime": 1745664052119,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1194257,
+        "num": 1194257,
+        "word": "日本精神小妹有多可怕",
+        "onboard_time": 1745658982,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 569956,
+        "num": 569956,
+        "word": "刘诗诗cos水兵月",
+        "onboard_time": 1745657061,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227035,
+        "num": 397393,
+        "word": "五一大量外国人涌入中国",
+        "onboard_time": 1745656701,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 336046,
+        "num": 336046,
+        "word": "伊朗南部阿巴斯港港口发生爆炸",
+        "onboard_time": 1745662280,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 306232,
+        "num": 306232,
+        "word": "王一博再创佳绩",
+        "onboard_time": 1745660421,
+        "rank": 4,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 305164,
+        "num": 305164,
+        "word": "央视曝光假非遗传承人是AI生成",
+        "onboard_time": 1745662580,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273583,
+        "num": 273583,
+        "word": "香港排队等候时吸烟将罚3000港元",
+        "onboard_time": 1745654661,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259677,
+        "num": 259677,
+        "word": "李惠利IU金惠允投票",
+        "onboard_time": 1745659222,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 259035,
+        "num": 259035,
+        "word": "马斯克和美财长在白宫大吵狂飙脏话",
+        "onboard_time": 1745645421,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 286775,
+        "num": 257927,
+        "word": "evisu 王一博",
+        "onboard_time": 1745663360,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 87926,
+        "num": 256733,
+        "word": "鸿星尔克纽约时代广场大屏飘红",
+        "onboard_time": 1745661801,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 635420,
+        "num": 256463,
+        "word": "你意想不到的两个人在一起了",
+        "onboard_time": 1745654182,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 602276,
+        "num": 255344,
+        "word": "迅猛龙直播哭了",
+        "onboard_time": 1745661801,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 468618,
+        "num": 253364,
+        "word": "首尔偶遇李昀锐买衣服",
+        "onboard_time": 1745659881,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155754,
+        "num": 252680,
+        "word": "教宗方济各葬礼",
+        "onboard_time": 1745662221,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 439846,
+        "num": 251099,
+        "word": "28岁女儿回应48岁妈妈怀孕",
+        "onboard_time": 1745650701,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 419420,
+        "num": 250459,
+        "word": "10泡尿毁了数万跑者的盛大赛事",
+        "onboard_time": 1745630060,
+        "rank": 16,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 58695,
+        "num": 249501,
+        "word": "公园小猫被弹弓射伤眼内耳内有钢珠",
+        "onboard_time": 1745662461,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10408,
+        "num": 247622,
+        "word": "日喀则有哪些值得打卡的地点",
+        "onboard_time": 1745662882,
+        "rank": 18,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 91071,
+        "num": 246518,
+        "word": "女子听信补贴转出72万后又巧计转回",
+        "onboard_time": 1745663118,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 370358,
+        "num": 245681,
+        "word": "侃爷说不该和金卡戴珊生孩子",
+        "onboard_time": 1745657301,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296223,
+        "num": 244255,
+        "word": "王祖贤现身上海",
+        "onboard_time": 1745660961,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311672,
+        "num": 242702,
+        "word": "张拿铁 要不然下点毒呢",
+        "onboard_time": 1745657480,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 38927,
+        "num": 241501,
+        "word": "叠满冠军BUFF",
+        "onboard_time": 1745660661,
+        "rank": 23,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 196330,
+        "num": 240414,
+        "word": "怎么办无畏在指我诶",
+        "onboard_time": 1745663302,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 299859,
+        "num": 239608,
+        "word": "小S原来是个形容词啊",
+        "onboard_time": 1745654421,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211644,
+        "num": 238538,
+        "word": "吴宣仪 黑粉老是说我牙龅",
+        "onboard_time": 1745662701,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237624,
+        "num": 237624,
+        "word": "论文致恨",
+        "onboard_time": 1745654061,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153910,
+        "num": 229816,
+        "word": "宣夜还在找妖他爹已经碎了",
+        "onboard_time": 1745662221,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151732,
+        "num": 227621,
+        "word": "鞠婧祎香槟金撕拉片",
+        "onboard_time": 1745661981,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227358,
+        "num": 227358,
+        "word": "警方回应蓝猫疑被砍断四肢",
+        "onboard_time": 1745651482,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186216,
+        "num": 186216,
+        "word": "陈妍希工作室回应与帅哥聚餐",
+        "onboard_time": 1745656280,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155846,
+        "num": 155846,
+        "word": "经常出差的人过的什么样的生活",
+        "onboard_time": 1745660600,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146289,
+        "num": 146289,
+        "word": "三亚一景区发生游客溺亡事件",
+        "onboard_time": 1745661321,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140045,
+        "num": 140045,
+        "word": "黄景瑜是在防晒还是防我",
+        "onboard_time": 1745660241,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137294,
+        "num": 137294,
+        "word": "大唐辟珠记",
+        "onboard_time": 1745660961,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133795,
+        "num": 133795,
+        "word": "黄杨钿甜人鱼裙造型",
+        "onboard_time": 1745662641,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131584,
+        "num": 131584,
+        "word": "章子怡张雪迎素颜合照",
+        "onboard_time": 1745650701,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99199,
+        "num": 128144,
+        "word": "任嘉伦范丞丞宋茜等推介青岛",
+        "onboard_time": 1745662761,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 30588,
+        "num": 127017,
+        "word": "无穷小亮遇上了最喜欢的鹦鹉",
+        "onboard_time": 1745663001,
+        "rank": 39,
+        "category": "科学科普,民生新闻"
+      },
+      {
+        "raw_hot": 126316,
+        "num": 126316,
+        "word": "王宝强在张杰演唱会打拳",
+        "onboard_time": 1745656762,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 124066,
+        "num": 124066,
+        "word": "马斯克不到100天砍掉自己1500亿身家",
+        "onboard_time": 1745647221,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 106990,
+        "num": 106990,
+        "word": "最近少穿这些颜色衣服出门",
+        "onboard_time": 1745648541,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104148,
+        "num": 104148,
+        "word": "无忧渡虽有离别但终会再见",
+        "onboard_time": 1745660241,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98639,
+        "num": 98639,
+        "word": "青岛地铁口5平米土地无人认领",
+        "onboard_time": 1745643800,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94088,
+        "num": 94088,
+        "word": "解放军复制粘贴亮相越南排面拉满",
+        "onboard_time": 1745661261,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 83401,
+        "num": 83401,
+        "word": "南方有自己的限定水果",
+        "onboard_time": 1745658982,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 79966,
+        "num": 79966,
+        "word": "赵露思第38条百万ins",
+        "onboard_time": 1745663841,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78584,
+        "num": 78584,
+        "word": "赴港旅客带超19支烟将罚5000港元",
+        "onboard_time": 1745657180,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77857,
+        "num": 77857,
+        "word": "猫科动物在睡觉的时候很警觉",
+        "onboard_time": 1745663961,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#牢牢掌握人工智能发展和治理主动权#"
+    }
+  }
+}
