@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1745749517489,
+  "endTime": 1745750480044,
   "band_list": [
     {
       "raw_hot": 4073618,
@@ -8,6 +8,14 @@
       "word": "惠英红 华表影后",
       "onboard_time": 1745748501,
       "rank": 0,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 3273945,
+      "num": 755404,
+      "word": "张译二封华表影帝",
+      "onboard_time": 1745749581,
+      "rank": 3,
       "category": "电影"
     },
     {
@@ -155,6 +163,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1039241,
+      "num": 534331,
+      "word": "关晓彤腿腿腿腿",
+      "onboard_time": 1745746701,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1025303,
       "num": 1025303,
       "word": "84斤女子吐槽买百件衣服基本穿不上",
@@ -177,14 +193,6 @@
       "onboard_time": 1745735602,
       "rank": 18,
       "category": "演出"
-    },
-    {
-      "raw_hot": 974841,
-      "num": 534331,
-      "word": "关晓彤腿腿腿腿",
-      "onboard_time": 1745746701,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 968481,
@@ -225,6 +233,14 @@
       "onboard_time": 1745714363,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 805060,
+      "num": 242030,
+      "word": "惠英红华表奖首位中国香港影后",
+      "onboard_time": 1745749581,
+      "rank": 11,
+      "category": "电影"
     },
     {
       "raw_hot": 802584,
@@ -291,6 +307,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 624756,
+      "num": 624756,
+      "word": "如果取消调休 罚我五一多放2个月也行",
+      "onboard_time": 1745743582,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 615662,
       "num": 581662,
       "word": "傅首尔问李沐宸哭有啥用",
@@ -353,14 +377,6 @@
       "onboard_time": 1745744181,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 558486,
-      "num": 558486,
-      "word": "如果取消调休 罚我五一多放2个月也行",
-      "onboard_time": 1745743582,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 555813,
@@ -465,6 +481,14 @@
       "onboard_time": 1745713462,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 442410,
+      "num": 251710,
+      "word": "香港高铁站偶遇杨幂",
+      "onboard_time": 1745748802,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 431172,
@@ -595,12 +619,28 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 353244,
+      "num": 221454,
+      "word": "王一博工作室发文回应退赛",
+      "onboard_time": 1745747180,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 352771,
       "num": 352771,
       "word": "疑似邓超用五哈给孙俪剧宣",
       "onboard_time": 1745711360,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 351356,
+      "num": 217280,
+      "word": "IU的婚纱我妈妈也穿过",
+      "onboard_time": 1745749283,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 340944,
@@ -617,6 +657,14 @@
       "onboard_time": 1745728522,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 328945,
+      "num": 328945,
+      "word": "第20届华表奖获奖名单",
+      "onboard_time": 1745749641,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 325495,
@@ -715,14 +763,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 301122,
-      "num": 221454,
-      "word": "王一博工作室发文回应退赛",
-      "onboard_time": 1745747180,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 300230,
       "num": 300230,
       "word": "这几种痣可能藏着癌",
@@ -769,6 +809,14 @@
       "onboard_time": 1745710341,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 273171,
+      "num": 215918,
+      "word": "鹿晗新歌是写给粉丝的",
+      "onboard_time": 1745748741,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 270720,
@@ -833,14 +881,6 @@
       "onboard_time": 1745740640,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 251710,
-      "num": 251710,
-      "word": "香港高铁站偶遇杨幂",
-      "onboard_time": 1745748802,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 250363,
@@ -913,6 +953,14 @@
       "onboard_time": 1745723540,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 236575,
+      "num": 236575,
+      "word": "中日友好医院肖飞",
+      "onboard_time": 1745749521,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 236571,
@@ -1060,7 +1108,7 @@
     },
     {
       "raw_hot": 214393,
-      "num": 214393,
+      "num": 238209,
       "word": "金像奖",
       "onboard_time": 1745746641,
       "rank": 27,
@@ -1137,14 +1185,6 @@
       "onboard_time": 1745734341,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 202861,
-      "num": 202861,
-      "word": "鹿晗新歌是写给粉丝的",
-      "onboard_time": 1745748741,
-      "rank": 29,
-      "category": "音乐"
     },
     {
       "raw_hot": 201503,
@@ -1284,7 +1324,7 @@
     },
     {
       "raw_hot": 188680,
-      "num": 188680,
+      "num": 216503,
       "word": "苏迪曼杯",
       "onboard_time": 1745749162,
       "rank": 30,
@@ -1523,6 +1563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160112,
+      "num": 160112,
+      "word": "淮水竹亭接力直播",
+      "onboard_time": 1745749880,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 160040,
       "num": 160040,
       "word": "王俊凯双奢加身",
@@ -1561,14 +1609,6 @@
       "onboard_time": 1745724681,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 158360,
-      "num": 158359,
-      "word": "IU的婚纱我妈妈也穿过",
-      "onboard_time": 1745749283,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 157596,
@@ -1699,6 +1739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146859,
+      "num": 146859,
+      "word": "官方通报学生举报饭菜有蛆被骂",
+      "onboard_time": 1745750062,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146559,
       "num": 151849,
       "word": "王俊凯青岛",
@@ -1795,12 +1843,36 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 139365,
+      "num": 276916,
+      "word": "宣称免费领养实为贷款买猫",
+      "onboard_time": 1745748261,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139101,
+      "num": 139101,
+      "word": "国际金价出现大幅震荡",
+      "onboard_time": 1745746461,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 139045,
       "num": 292700,
       "word": "无尽的尽头 游湖幼童溺亡案",
       "onboard_time": 1745723423,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138827,
+      "num": 138827,
+      "word": "网购避孕套被配送员骚扰女子发声",
+      "onboard_time": 1745749880,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138277,
@@ -1841,6 +1913,14 @@
       "onboard_time": 1745716161,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 135825,
+      "num": 135825,
+      "word": "当你用微波炉假装在医院请病假",
+      "onboard_time": 1745748322,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 135743,
@@ -1947,14 +2027,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 130644,
-      "num": 130644,
-      "word": "当你用微波炉假装在医院请病假",
-      "onboard_time": 1745748322,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 129468,
       "num": 129468,
       "word": "27岁英专生在深圳一周打5份工",
@@ -1963,12 +2035,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 128612,
-      "num": 128612,
-      "word": "国际金价出现大幅震荡",
-      "onboard_time": 1745746461,
-      "rank": 46,
-      "category": "财经"
+      "raw_hot": 127067,
+      "num": 127067,
+      "word": "建议五一假期放51天",
+      "onboard_time": 1745750421,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 126102,
@@ -2187,6 +2259,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 98274,
+      "num": 298925,
+      "word": "市场监管总局回应长和港口交易",
+      "onboard_time": 1745748501,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 97205,
       "num": 98695,
       "word": "火箭vs勇士",
@@ -2259,14 +2339,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 90633,
-      "num": 276916,
-      "word": "宣称免费领养实为贷款买猫",
-      "onboard_time": 1745748261,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 90239,
       "num": 90239,
       "word": "发明调休的人有没有考虑过单休的人",
@@ -2297,14 +2369,6 @@
       "onboard_time": 1745728102,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 87157,
-      "num": 298925,
-      "word": "市场监管总局回应长和港口交易",
-      "onboard_time": 1745748501,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 86189,
@@ -2668,7 +2732,7 @@
     },
     {
       "raw_hot": 39748,
-      "num": 158361,
+      "num": 240850,
       "word": "DeepSeekR2要发布了吗",
       "onboard_time": 1745749462,
       "rank": 38,
@@ -2899,6 +2963,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 19848,
+      "num": 158362,
+      "word": "日本和歌山县4只大熊猫将回国",
+      "onboard_time": 1745749462,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 19286,
       "num": 288102,
       "word": "苹果本土化设计策略有哪些缺陷",
@@ -2945,14 +3017,6 @@
       "onboard_time": 1745691675,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 15271,
-      "num": 158362,
-      "word": "日本和歌山县4只大熊猫将回国",
-      "onboard_time": 1745749462,
-      "rank": 37,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 14067,

@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1745749517489,
+  "endTime": 1745750480044,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1987,6 +1987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3273945,
+      "num": 755404,
+      "word": "张译二封华表影帝",
+      "onboard_time": 1745749581,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 3266055,
       "num": 1258088,
       "word": "大S今日下葬",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1740808433,
       "rank": 7,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 3006088,
-      "num": 758465,
-      "word": "品鉴难哄",
-      "onboard_time": 1739855067,
-      "rank": 7,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [
