@@ -1,0 +1,410 @@
+{
+  "runTime": 1745743335953,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2092212,
+        "num": 2092212,
+        "word": "男子在生殖医院做手术后次日身亡",
+        "onboard_time": 1745739262,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1308563,
+        "num": 1308563,
+        "word": "王一博没赶上华表奖红毯",
+        "onboard_time": 1745740162,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 6843,
+        "num": 1271842,
+        "word": "六部门发文优化离境退税政策",
+        "onboard_time": 1745743281,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1260934,
+        "num": 1260934,
+        "word": "关晓彤戴假发",
+        "onboard_time": 1745737162,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 660841,
+        "num": 660841,
+        "word": "厚底鞋",
+        "onboard_time": 1745740102,
+        "rank": 4,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 639251,
+        "num": 639251,
+        "word": "法院院长办公室休息室达68.7平被处分",
+        "onboard_time": 1745738361,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 630849,
+        "num": 630849,
+        "word": "邓超想跟孙俪再结一次婚",
+        "onboard_time": 1745740461,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 504347,
+        "num": 504347,
+        "word": "华表奖红毯",
+        "onboard_time": 1745734941,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 24326,
+        "num": 502171,
+        "word": "新质先锋未来北京",
+        "onboard_time": 1745736562,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52574,
+        "num": 497283,
+        "word": "外贸女老板霸气回应美关税讹诈",
+        "onboard_time": 1745738181,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 733741,
+        "num": 493335,
+        "word": "王菲谢霆锋 姐狗天花板",
+        "onboard_time": 1745735602,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 716197,
+        "num": 483385,
+        "word": "肥猪能不能别来挤地铁啊",
+        "onboard_time": 1745728102,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 482733,
+        "num": 482733,
+        "word": "因通缉照走红女子出狱后成主播",
+        "onboard_time": 1745741721,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 475512,
+        "num": 475512,
+        "word": "马英九说实在看不下去了",
+        "onboard_time": 1745737822,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 37526,
+        "num": 448480,
+        "word": "外卖吃一半发现苍蝇商家仅退餐费",
+        "onboard_time": 1745742621,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 426095,
+        "num": 426095,
+        "word": "C罗TIFO将台湾移出中国地图",
+        "onboard_time": 1745736140,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 397895,
+        "num": 397895,
+        "word": "王菲谢霆锋",
+        "onboard_time": 1745739501,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33196,
+        "num": 344254,
+        "word": "梁王组合缺阵苏杯首战",
+        "onboard_time": 1745742981,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51730,
+        "num": 336705,
+        "word": "孙俪说中年人没时间脆弱",
+        "onboard_time": 1745741901,
+        "rank": 18,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 31624,
+        "num": 336569,
+        "word": "男子凌晨开智驾打盹撞上高速护栏",
+        "onboard_time": 1745742683,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 336516,
+        "num": 336516,
+        "word": "张凌赫王楚然 这一秒",
+        "onboard_time": 1745742023,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 335397,
+        "num": 335397,
+        "word": "杨超越全黑look",
+        "onboard_time": 1745739741,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 311386,
+        "num": 311386,
+        "word": "女子孕期坚持跳同一支舞记录变化",
+        "onboard_time": 1745741002,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304808,
+        "num": 304808,
+        "word": "印度未事先通知突然开闸泄洪",
+        "onboard_time": 1745730204,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 177147,
+        "num": 293650,
+        "word": "第五人格",
+        "onboard_time": 1745740640,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 287247,
+        "num": 287247,
+        "word": "华妃只认第一学历",
+        "onboard_time": 1745727922,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 297083,
+        "num": 276425,
+        "word": "王俊凯杨超越同框",
+        "onboard_time": 1745739862,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 92151,
+        "num": 241634,
+        "word": "赵又廷感同身受黄磊3年前的痛",
+        "onboard_time": 1745742981,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240080,
+        "num": 240080,
+        "word": "12345回应男子买狗不满意当场摔死狗",
+        "onboard_time": 1745737822,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114082,
+        "num": 230104,
+        "word": "特朗普发帖称被普京利用",
+        "onboard_time": 1745742082,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 225803,
+        "num": 225803,
+        "word": "年轻人为什么对火锅祛魅了",
+        "onboard_time": 1745732062,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 220854,
+        "num": 220854,
+        "word": "章若楠华表奖红毯生图",
+        "onboard_time": 1745741841,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 216655,
+        "num": 216655,
+        "word": "小奶狗被主人2次狠摔致死",
+        "onboard_time": 1745742981,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214733,
+        "num": 214733,
+        "word": "杨肸子是赵丽颖十多年老粉",
+        "onboard_time": 1745734941,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210460,
+        "num": 210460,
+        "word": "律师称男子把小狗摔死涉嫌2项违法",
+        "onboard_time": 1745741062,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206477,
+        "num": 206477,
+        "word": "特朗普政府激怒了加拿大人",
+        "onboard_time": 1745739322,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 56976,
+        "num": 206080,
+        "word": "第五人格电竞时装",
+        "onboard_time": 1745743221,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 6341,
+        "num": 205625,
+        "word": "为何观众会对反派角色徐文国产生同情",
+        "onboard_time": 1745743281,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 8150,
+        "num": 204439,
+        "word": "研究称常吃鸡肉死亡风险高",
+        "onboard_time": 1745742743,
+        "rank": 38,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 13354,
+        "num": 203930,
+        "word": "董明珠间谍论有道理吗",
+        "onboard_time": 1745742621,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203236,
+        "num": 203236,
+        "word": "关晓彤华表奖红毯",
+        "onboard_time": 1745736441,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 200195,
+        "num": 200195,
+        "word": "苹果客服回应闹钟调休日不响",
+        "onboard_time": 1745729544,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 186761,
+        "num": 186761,
+        "word": "老人不要利息执意取107万银行报警",
+        "onboard_time": 1745728823,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175555,
+        "num": 175555,
+        "word": "鹿晗接你下班的男朋友即视感",
+        "onboard_time": 1745721082,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 170435,
+        "num": 170435,
+        "word": "哈妮克孜的青蛇",
+        "onboard_time": 1745741423,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163844,
+        "num": 163844,
+        "word": "王俊凯华表奖生图",
+        "onboard_time": 1745740522,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 160016,
+        "num": 160016,
+        "word": "女明星华表奖生图",
+        "onboard_time": 1745741062,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 155154,
+        "num": 155154,
+        "word": "于适带你解锁青岛的魅力",
+        "onboard_time": 1745733202,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 154073,
+        "num": 154073,
+        "word": "华表奖座位安排",
+        "onboard_time": 1745743221,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148368,
+        "num": 148368,
+        "word": "吴磊好板正一男的",
+        "onboard_time": 1745741901,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#从数据看中国经济高质量发展的确定性#"
+    }
+  }
+}
