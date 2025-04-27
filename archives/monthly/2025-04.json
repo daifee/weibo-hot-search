@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1745792626730,
+  "endTime": 1745793593352,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -16171,6 +16171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 447430,
+      "num": 510495,
+      "word": "早睡简直就是人类的无敌作弊器",
+      "onboard_time": 1745779935,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 447409,
       "num": 415381,
       "word": "马布里官宣结婚",
@@ -22787,14 +22795,6 @@
       "category": "健康医疗,民生新闻"
     },
     {
-      "raw_hot": 317706,
-      "num": 405850,
-      "word": "早睡简直就是人类的无敌作弊器",
-      "onboard_time": 1745779935,
-      "rank": 28,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 317601,
       "num": 317601,
       "word": "王一博VOGUE",
@@ -27273,6 +27273,14 @@
       "onboard_time": 1744815622,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 265054,
+      "num": 265054,
+      "word": "因通缉照走红女子账号被封",
+      "onboard_time": 1745781614,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 264959,
@@ -33827,6 +33835,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 213128,
+      "num": 213128,
+      "word": "贸易战逼出外贸女老板的第二次创业",
+      "onboard_time": 1745789595,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 213125,
       "num": 213125,
       "word": "王蓉唱完免我蹉跎苦睡不着",
@@ -34665,14 +34681,6 @@
       "onboard_time": 1745306782,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 209256,
-      "num": 209256,
-      "word": "因通缉照走红女子账号被封",
-      "onboard_time": 1745781614,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 209245,
@@ -55939,14 +55947,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 145341,
-      "num": 145341,
-      "word": "贸易战逼出外贸女老板的第二次创业",
-      "onboard_time": 1745789595,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 145322,
       "num": 145322,
       "word": "小猫看见家里淹水急得站了起来",
@@ -67683,6 +67683,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 115100,
+      "num": 115100,
+      "word": "王勉发出婚礼邀请",
+      "onboard_time": 1745774896,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115089,
       "num": 210384,
       "word": "员工累计加班30天获赔6万加班费",
@@ -75019,14 +75027,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 85557,
-      "num": 85557,
-      "word": "王勉发出婚礼邀请",
-      "onboard_time": 1745774896,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 85543,
       "num": 85543,
       "word": "直播弹幕暗藏神秘交易信息",
@@ -78017,6 +78017,14 @@
       "onboard_time": 1745685078,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 71645,
+      "num": 54065,
+      "word": "陈晓说自己是宁波镇海人",
+      "onboard_time": 1745790854,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 71597,
@@ -81891,6 +81899,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 54505,
+      "num": 54505,
+      "word": "曝石凯帮依依还房贷",
+      "onboard_time": 1745785154,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 54479,
       "num": 80672,
       "word": "王一博启程出发洛杉矶",
@@ -82785,14 +82801,6 @@
       "onboard_time": 1744861102,
       "rank": 35,
       "category": "财经,数码"
-    },
-    {
-      "raw_hot": 50817,
-      "num": 32531,
-      "word": "陈晓说自己是宁波镇海人",
-      "onboard_time": 1745790854,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 50772,
@@ -84961,14 +84969,6 @@
       "onboard_time": 1744196602,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 42945,
-      "num": 42945,
-      "word": "曝石凯帮依依还房贷",
-      "onboard_time": 1745785154,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 42901,
@@ -88011,6 +88011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 31807,
+      "num": 31807,
+      "word": "张继科曾因腰伤只能爬到厕所",
+      "onboard_time": 1745788694,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 31764,
       "num": 242808,
       "word": "机器人马拉松北京亦庄开跑",
@@ -88161,6 +88169,14 @@
       "onboard_time": 1744461624,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31161,
+      "num": 31161,
+      "word": "王一博上台朗诵前边走路边练习",
+      "onboard_time": 1745788934,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 31052,
@@ -89483,20 +89499,20 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 26309,
+      "num": 29665,
+      "word": "官方回应伊朗港口爆炸事件",
+      "onboard_time": 1745782094,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 26300,
       "num": 66255,
       "word": "芝芙说欢迎大家多来越南看看",
       "onboard_time": 1744650318,
       "rank": 43,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 26295,
-      "num": 28471,
-      "word": "张继科曾因腰伤只能爬到厕所",
-      "onboard_time": 1745788694,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 26291,
@@ -89961,6 +89977,14 @@
       "onboard_time": 1744430844,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24944,
+      "num": 29648,
+      "word": "景甜庄达菲生图",
+      "onboard_time": 1745793377,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 24943,
@@ -90689,14 +90713,6 @@
       "onboard_time": 1744778665,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 22936,
-      "num": 28466,
-      "word": "王一博上台朗诵前边走路边练习",
-      "onboard_time": 1745788934,
-      "rank": 41,
-      "category": "电影"
     },
     {
       "raw_hot": 22908,
@@ -92017,14 +92033,6 @@
       "onboard_time": 1745745742,
       "rank": 28,
       "category": "数码"
-    },
-    {
-      "raw_hot": 19278,
-      "num": 28459,
-      "word": "官方回应伊朗港口爆炸事件",
-      "onboard_time": 1745782094,
-      "rank": 48,
-      "category": "国际时政"
     },
     {
       "raw_hot": 19276,

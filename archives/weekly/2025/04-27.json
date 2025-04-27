@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1745792626730,
+  "endTime": 1745793593352,
   "band_list": [
     {
       "raw_hot": 8960529,
@@ -691,6 +691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 447430,
+      "num": 510495,
+      "word": "早睡简直就是人类的无敌作弊器",
+      "onboard_time": 1745779935,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 440319,
       "num": 440319,
       "word": "银川市政府就市长信箱已读乱回致歉",
@@ -955,14 +963,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 317706,
-      "num": 405850,
-      "word": "早睡简直就是人类的无敌作弊器",
-      "onboard_time": 1745779935,
-      "rank": 28,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 316834,
       "num": 316834,
       "word": "伊朗港口爆炸14死700多伤",
@@ -1161,6 +1161,14 @@
       "onboard_time": 1745675303,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 265054,
+      "num": 265054,
+      "word": "因通缉照走红女子账号被封",
+      "onboard_time": 1745781614,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 263993,
@@ -1507,6 +1515,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 213128,
+      "num": 213128,
+      "word": "贸易战逼出外贸女老板的第二次创业",
+      "onboard_time": 1745789595,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 212584,
       "num": 212584,
       "word": "鹿晗王勉辈分乱了",
@@ -1529,14 +1545,6 @@
       "onboard_time": 1745721381,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 209256,
-      "num": 209256,
-      "word": "因通缉照走红女子账号被封",
-      "onboard_time": 1745781614,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 208402,
@@ -2419,14 +2427,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 145341,
-      "num": 145341,
-      "word": "贸易战逼出外贸女老板的第二次创业",
-      "onboard_time": 1745789595,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 145286,
       "num": 145286,
       "word": "破地狱",
@@ -2891,6 +2891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 115100,
+      "num": 115100,
+      "word": "王勉发出婚礼邀请",
+      "onboard_time": 1745774896,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114082,
       "num": 230104,
       "word": "特朗普发帖称被普京利用",
@@ -3267,14 +3275,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 85557,
-      "num": 85557,
-      "word": "王勉发出婚礼邀请",
-      "onboard_time": 1745774896,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 85067,
       "num": 150481,
       "word": "封神1获优秀电影音乐提名",
@@ -3425,6 +3425,14 @@
       "onboard_time": 1745685078,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 71645,
+      "num": 54065,
+      "word": "陈晓说自己是宁波镇海人",
+      "onboard_time": 1745790854,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 71597,
@@ -3587,6 +3595,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 54505,
+      "num": 54505,
+      "word": "曝石凯帮依依还房贷",
+      "onboard_time": 1745785154,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 53715,
       "num": 140722,
       "word": "各个器官最喜欢什么食物",
@@ -3633,14 +3649,6 @@
       "onboard_time": 1745741901,
       "rank": 17,
       "category": "艺人,剧集"
-    },
-    {
-      "raw_hot": 50817,
-      "num": 32531,
-      "word": "陈晓说自己是宁波镇海人",
-      "onboard_time": 1745790854,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 50489,
@@ -3721,14 +3729,6 @@
       "onboard_time": 1745773817,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 42945,
-      "num": 42945,
-      "word": "曝石凯帮依依还房贷",
-      "onboard_time": 1745785154,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 42169,
@@ -3859,11 +3859,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31807,
+      "num": 31807,
+      "word": "张继科曾因腰伤只能爬到厕所",
+      "onboard_time": 1745788694,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 31322,
       "num": 44596,
       "word": "周深华表奖开场",
       "onboard_time": 1745775436,
       "rank": 49,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 31161,
+      "num": 31161,
+      "word": "王一博上台朗诵前边走路边练习",
+      "onboard_time": 1745788934,
+      "rank": 41,
       "category": "电影"
     },
     {
@@ -3947,12 +3963,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 26295,
-      "num": 28471,
-      "word": "张继科曾因腰伤只能爬到厕所",
-      "onboard_time": 1745788694,
-      "rank": 49,
-      "category": "体育"
+      "raw_hot": 26309,
+      "num": 29665,
+      "word": "官方回应伊朗港口爆炸事件",
+      "onboard_time": 1745782094,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 25947,
@@ -3977,6 +3993,14 @@
       "onboard_time": 1745736562,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24944,
+      "num": 29648,
+      "word": "景甜庄达菲生图",
+      "onboard_time": 1745793377,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 24391,
@@ -4033,14 +4057,6 @@
       "onboard_time": 1745692455,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 22936,
-      "num": 28466,
-      "word": "王一博上台朗诵前边走路边练习",
-      "onboard_time": 1745788934,
-      "rank": 41,
-      "category": "电影"
     },
     {
       "raw_hot": 22703,
@@ -4129,14 +4145,6 @@
       "onboard_time": 1745745742,
       "rank": 28,
       "category": "数码"
-    },
-    {
-      "raw_hot": 19278,
-      "num": 28459,
-      "word": "官方回应伊朗港口爆炸事件",
-      "onboard_time": 1745782094,
-      "rank": 48,
-      "category": "国际时政"
     },
     {
       "raw_hot": 19067,

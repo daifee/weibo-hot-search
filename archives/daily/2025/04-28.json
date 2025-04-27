@@ -1,6 +1,6 @@
 {
   "startTime": 1745771302155,
-  "endTime": 1745792626730,
+  "endTime": 1745793593352,
   "band_list": [
     {
       "raw_hot": 5235330,
@@ -51,6 +51,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 447430,
+      "num": 510495,
+      "word": "早睡简直就是人类的无敌作弊器",
+      "onboard_time": 1745779935,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 405440,
       "num": 322395,
       "word": "seventeen",
@@ -67,20 +75,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 317706,
-      "num": 405850,
-      "word": "早睡简直就是人类的无敌作弊器",
-      "onboard_time": 1745779935,
-      "rank": 28,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 277572,
       "num": 160281,
       "word": "沈腾果然起早贪黑刷微博",
       "onboard_time": 1745765964,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 265054,
+      "num": 265054,
+      "word": "因通缉照走红女子账号被封",
+      "onboard_time": 1745781614,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 240174,
@@ -123,20 +131,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 213128,
+      "num": 213128,
+      "word": "贸易战逼出外贸女老板的第二次创业",
+      "onboard_time": 1745789595,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 209870,
       "num": 159888,
       "word": "卫诗雅金像奖影后",
       "onboard_time": 1745765426,
       "rank": 20,
       "category": "电影"
-    },
-    {
-      "raw_hot": 209256,
-      "num": 209256,
-      "word": "因通缉照走红女子账号被封",
-      "onboard_time": 1745781614,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 208123,
@@ -219,14 +227,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 145341,
-      "num": 145341,
-      "word": "贸易战逼出外贸女老板的第二次创业",
-      "onboard_time": 1745789595,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 132086,
       "num": 115695,
       "word": "女子丢蛋糕后报警谎称抹了老鼠药",
@@ -257,6 +257,14 @@
       "onboard_time": 1745756782,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115100,
+      "num": 115100,
+      "word": "王勉发出婚礼邀请",
+      "onboard_time": 1745774896,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 115079,
@@ -363,14 +371,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 85557,
-      "num": 85557,
-      "word": "王勉发出婚礼邀请",
-      "onboard_time": 1745774896,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 84160,
       "num": 84160,
       "word": "酵色直播",
@@ -451,6 +451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71645,
+      "num": 54065,
+      "word": "陈晓说自己是宁波镇海人",
+      "onboard_time": 1745790854,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 71569,
       "num": 69256,
       "word": "刘亦菲总结了一次次肯定",
@@ -499,11 +507,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 50817,
-      "num": 32531,
-      "word": "陈晓说自己是宁波镇海人",
-      "onboard_time": 1745790854,
-      "rank": 30,
+      "raw_hot": 54505,
+      "num": 54505,
+      "word": "曝石凯帮依依还房贷",
+      "onboard_time": 1745785154,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -523,14 +531,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 42945,
-      "num": 42945,
-      "word": "曝石凯帮依依还房贷",
-      "onboard_time": 1745785154,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 40683,
       "num": 546616,
       "word": "中国制造成为全球客商最佳选择",
@@ -539,11 +539,35 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 31845,
+      "num": 31845,
+      "word": "韩安冉向婆婆道歉",
+      "onboard_time": 1745758582,
+      "rank": 40,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 31807,
+      "num": 31807,
+      "word": "张继科曾因腰伤只能爬到厕所",
+      "onboard_time": 1745788694,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 31322,
       "num": 44596,
       "word": "周深华表奖开场",
       "onboard_time": 1745775436,
       "rank": 49,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 31161,
+      "num": 31161,
+      "word": "王一博上台朗诵前边走路边练习",
+      "onboard_time": 1745788934,
+      "rank": 41,
       "category": "电影"
     },
     {
@@ -563,28 +587,28 @@
       "category": "电影"
     },
     {
-      "raw_hot": 26295,
-      "num": 28471,
-      "word": "张继科曾因腰伤只能爬到厕所",
-      "onboard_time": 1745788694,
-      "rank": 49,
-      "category": "体育"
+      "raw_hot": 26309,
+      "num": 29665,
+      "word": "官方回应伊朗港口爆炸事件",
+      "onboard_time": 1745782094,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
-      "raw_hot": 24926,
-      "num": 28463,
+      "raw_hot": 25708,
+      "num": 29662,
       "word": "谢霆锋你们的青春也是我的青春",
       "onboard_time": 1745768243,
       "rank": 41,
       "category": "演出"
     },
     {
-      "raw_hot": 24464,
-      "num": 28469,
-      "word": "韩安冉向婆婆道歉",
-      "onboard_time": 1745758582,
-      "rank": 40,
-      "category": "网红"
+      "raw_hot": 24944,
+      "num": 29648,
+      "word": "景甜庄达菲生图",
+      "onboard_time": 1745793377,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 24391,
@@ -595,12 +619,20 @@
       "category": "电影,时尚"
     },
     {
-      "raw_hot": 22936,
-      "num": 28466,
-      "word": "王一博上台朗诵前边走路边练习",
-      "onboard_time": 1745788934,
-      "rank": 41,
+      "raw_hot": 22582,
+      "num": 29642,
+      "word": "金像奖",
+      "onboard_time": 1745746641,
+      "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 22370,
+      "num": 29638,
+      "word": "中国海警回应菲6人非法登上铁线礁",
+      "onboard_time": 1745764103,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 21071,
@@ -611,36 +643,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 20575,
-      "num": 28461,
-      "word": "金像奖",
-      "onboard_time": 1745746641,
-      "rank": 45,
-      "category": "电影"
-    },
-    {
       "raw_hot": 20411,
       "num": 28461,
       "word": "平台回应因通缉照走红女子账号被封",
       "onboard_time": 1745783894,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 20344,
-      "num": 28459,
-      "word": "中国海警回应菲6人非法登上铁线礁",
-      "onboard_time": 1745764103,
-      "rank": 44,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 19278,
-      "num": 28459,
-      "word": "官方回应伊朗港口爆炸事件",
-      "onboard_time": 1745782094,
-      "rank": 48,
-      "category": "国际时政"
     },
     {
       "raw_hot": 18997,
