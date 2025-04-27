@@ -1,0 +1,410 @@
+{
+  "runTime": 1745728109705,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1789007,
+        "num": 1789007,
+        "word": "上4休5上4",
+        "onboard_time": 1745720241,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 802584,
+        "num": 802584,
+        "word": "肖战直接坐在中控台看的",
+        "onboard_time": 1745721021,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 199765,
+        "num": 618000,
+        "word": "外商组团到义乌买买买",
+        "onboard_time": 1745723781,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1035205,
+        "num": 609912,
+        "word": "鹿晗接你下班的男朋友即视感",
+        "onboard_time": 1745721082,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 598413,
+        "num": 598413,
+        "word": "银川市长信箱已读乱回",
+        "onboard_time": 1745727022,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 586265,
+        "num": 586265,
+        "word": "恋与深空",
+        "onboard_time": 1745723001,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 615662,
+        "num": 581662,
+        "word": "傅首尔问李沐宸哭有啥用",
+        "onboard_time": 1745724802,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 549625,
+        "num": 549625,
+        "word": "84斤女子吐槽买百件衣服基本穿不上",
+        "onboard_time": 1745709679,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 384988,
+        "num": 533851,
+        "word": "被泉州簪花美一大跳",
+        "onboard_time": 1745724201,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79382,
+        "num": 521486,
+        "word": "中国驻伊朗大使馆最新发布安全提醒",
+        "onboard_time": 1745726122,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1384100,
+        "num": 521265,
+        "word": "小郑嘻嘻离婚",
+        "onboard_time": 1745719941,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 520021,
+        "num": 520021,
+        "word": "调休",
+        "onboard_time": 1745713582,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 460409,
+        "num": 460409,
+        "word": "男子买狗不满意退款遭拒当场摔死狗",
+        "onboard_time": 1745713340,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 443413,
+        "num": 443413,
+        "word": "柯淳回应酒吧蹦迪",
+        "onboard_time": 1745720361,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 406680,
+        "num": 406680,
+        "word": "谢霆锋儿子颜值",
+        "onboard_time": 1745709620,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 406665,
+        "num": 406665,
+        "word": "杨紫 MK",
+        "onboard_time": 1745714363,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 388653,
+        "num": 388653,
+        "word": "当代年轻人的恶心穿搭",
+        "onboard_time": 1745720542,
+        "rank": 16,
+        "category": "幽默,突发/灾害"
+      },
+      {
+        "raw_hot": 292850,
+        "num": 376547,
+        "word": "易烊千玺带你穿越中国电影120年",
+        "onboard_time": 1745720361,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 287408,
+        "num": 370898,
+        "word": "王一博赛车故障退赛",
+        "onboard_time": 1745727440,
+        "rank": 18,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 120304,
+        "num": 370385,
+        "word": "你的每一步都不白走",
+        "onboard_time": 1745727322,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 369998,
+        "num": 369998,
+        "word": "裸辞一年发现不上班根本不需要旅游",
+        "onboard_time": 1745676863,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 323358,
+        "num": 323358,
+        "word": "发现凤梨可以手撕的人真是个天才",
+        "onboard_time": 1745723301,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 309252,
+        "num": 309252,
+        "word": "原来这就是生理性厌恶的表现",
+        "onboard_time": 1745674343,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 263578,
+        "num": 263578,
+        "word": "韩国的盒饭们",
+        "onboard_time": 1745726301,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 562867,
+        "num": 246977,
+        "word": "特朗普与泽连斯基在梵蒂冈谈了15分钟",
+        "onboard_time": 1745723603,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 227447,
+        "num": 227447,
+        "word": "刘学义敖瑞鹏领衔主演",
+        "onboard_time": 1745723540,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213260,
+        "num": 213260,
+        "word": "聊斋",
+        "onboard_time": 1745720781,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189148,
+        "num": 189148,
+        "word": "勇士2比1火箭",
+        "onboard_time": 1745725281,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182975,
+        "num": 182975,
+        "word": "临江仙",
+        "onboard_time": 1745720661,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122086,
+        "num": 182629,
+        "word": "肖战第一张图",
+        "onboard_time": 1745727141,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 182416,
+        "num": 182416,
+        "word": "许嵩 哦唱错了",
+        "onboard_time": 1745723603,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 182280,
+        "num": 182280,
+        "word": "光与夜之恋",
+        "onboard_time": 1745720721,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 179505,
+        "num": 179505,
+        "word": "华妃只认第一学历",
+        "onboard_time": 1745727922,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163874,
+        "num": 163874,
+        "word": "买不买房差别有多大",
+        "onboard_time": 1745727202,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162213,
+        "num": 162213,
+        "word": "中医提醒脾胃弱的人少吃3种水果",
+        "onboard_time": 1745710341,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 157596,
+        "num": 157596,
+        "word": "反向减肥",
+        "onboard_time": 1745726842,
+        "rank": 35,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 156020,
+        "num": 156020,
+        "word": "特朗普希望免费通行巴拿马苏伊士运河",
+        "onboard_time": 1745724681,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 152181,
+        "num": 152181,
+        "word": "当苹果闹钟遇上调休",
+        "onboard_time": 1745717602,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146983,
+        "num": 146983,
+        "word": "MK致歉",
+        "onboard_time": 1745720182,
+        "rank": 38,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 17363,
+        "num": 142392,
+        "word": "扫清阅读三国的重大障碍",
+        "onboard_time": 1745727083,
+        "rank": 39,
+        "category": "读书作家,民生新闻"
+      },
+      {
+        "raw_hot": 138310,
+        "num": 138310,
+        "word": "台北七旬老人陈尸水塔全楼喝尸水",
+        "onboard_time": 1745674282,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137788,
+        "num": 137788,
+        "word": "赵露思直播哽咽了",
+        "onboard_time": 1745682385,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136157,
+        "num": 136157,
+        "word": "下调离境退税起退点上调现金退税限额",
+        "onboard_time": 1745723423,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134834,
+        "num": 134834,
+        "word": "陆虎不再参加比赛的原因找到了",
+        "onboard_time": 1745724263,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131579,
+        "num": 131579,
+        "word": "不存钱才会显得有钱",
+        "onboard_time": 1745721381,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129105,
+        "num": 129105,
+        "word": "食物咀嚼次数会影响减肥效果",
+        "onboard_time": 1745719641,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 128605,
+        "num": 128605,
+        "word": "张译王一博 华表影帝提名",
+        "onboard_time": 1745669962,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 126102,
+        "num": 126102,
+        "word": "假期上班不能用补休代替3倍工资",
+        "onboard_time": 1745725161,
+        "rank": 47,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 122145,
+        "num": 122145,
+        "word": "UFC",
+        "onboard_time": 1745727262,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118583,
+        "num": 118583,
+        "word": "其实你的童年有个张小婉",
+        "onboard_time": 1745726424,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#从数据看中国经济高质量发展的确定性#"
+    }
+  }
+}
