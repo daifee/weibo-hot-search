@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1745757797092,
+  "endTime": 1745758755617,
   "band_list": [
     {
       "raw_hot": 4073618,
@@ -275,6 +275,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 782789,
+      "num": 363601,
+      "word": "刘亦菲人鱼高定",
+      "onboard_time": 1745755343,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 758238,
+      "num": 305271,
+      "word": "中日友好医院肖飞",
+      "onboard_time": 1745749521,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 739738,
       "num": 739738,
       "word": "肖战 孙燕姿演唱会",
@@ -291,19 +307,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 721541,
-      "num": 247394,
-      "word": "刘亦菲人鱼高定",
-      "onboard_time": 1745755343,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 693974,
-      "num": 305271,
-      "word": "中日友好医院肖飞",
-      "onboard_time": 1745749521,
-      "rank": 21,
+      "raw_hot": 715681,
+      "num": 202805,
+      "word": "香港相差26岁夫妻25天闪婚",
+      "onboard_time": 1745754681,
+      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -313,14 +321,6 @@
       "onboard_time": 1745720542,
       "rank": 11,
       "category": "幽默,突发/灾害"
-    },
-    {
-      "raw_hot": 665213,
-      "num": 202797,
-      "word": "香港相差26岁夫妻25天闪婚",
-      "onboard_time": 1745754681,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 657102,
@@ -459,6 +459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 544109,
+      "num": 202474,
+      "word": "榜上佳婿 男主",
+      "onboard_time": 1745755343,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 542338,
       "num": 512954,
       "word": "王一博赛车故障退赛",
@@ -473,14 +481,6 @@
       "onboard_time": 1745728642,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 534917,
-      "num": 201133,
-      "word": "榜上佳婿 男主",
-      "onboard_time": 1745755343,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 528498,
@@ -529,6 +529,14 @@
       "onboard_time": 1745751441,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 470571,
+      "num": 200953,
+      "word": "谢霆锋带儿子吃饭",
+      "onboard_time": 1745756782,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 466180,
@@ -627,12 +635,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 397068,
+      "num": 386509,
+      "word": "饿了么今天便宜到不敢点",
+      "onboard_time": 1745748082,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 386407,
       "num": 386407,
       "word": "民宿老板教你识别酒店换没换床单",
       "onboard_time": 1745710700,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 386118,
+      "num": 386118,
+      "word": "小米抽奖抽到总裁卢伟冰",
+      "onboard_time": 1745754740,
+      "rank": 8,
+      "category": "互联网"
     },
     {
       "raw_hot": 384343,
@@ -665,14 +689,6 @@
       "onboard_time": 1745720361,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 375985,
-      "num": 311063,
-      "word": "饿了么今天便宜到不敢点",
-      "onboard_time": 1745748082,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 373360,
@@ -737,14 +753,6 @@
       "onboard_time": 1745728522,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 326695,
-      "num": 200953,
-      "word": "谢霆锋带儿子吃饭",
-      "onboard_time": 1745756782,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 325495,
@@ -923,6 +931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 265946,
+      "num": 196716,
+      "word": "男子怕被妻子发现赴泰玩乐水洗护照",
+      "onboard_time": 1745755641,
+      "rank": 24,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 265304,
       "num": 265304,
       "word": "李沐宸迟到被换角",
@@ -1003,14 +1019,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 247658,
-      "num": 196716,
-      "word": "男子怕被妻子发现赴泰玩乐水洗护照",
-      "onboard_time": 1745755641,
-      "rank": 24,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 246282,
       "num": 246282,
       "word": "风月不相关简介改成大男主了",
@@ -1025,14 +1033,6 @@
       "onboard_time": 1745725281,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 244676,
-      "num": 244676,
-      "word": "小米抽奖抽到总裁卢伟冰",
-      "onboard_time": 1745754740,
-      "rank": 8,
-      "category": "互联网"
     },
     {
       "raw_hot": 241742,
@@ -1075,12 +1075,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 235246,
+      "num": 238209,
+      "word": "金像奖",
+      "onboard_time": 1745746641,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 232942,
       "num": 211933,
       "word": "淮水竹亭滤镜",
       "onboard_time": 1745750780,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 231139,
+      "num": 194194,
+      "word": "张婧仪本人超好看",
+      "onboard_time": 1745757922,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 229293,
@@ -1211,12 +1227,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 214393,
-      "num": 238209,
-      "word": "金像奖",
-      "onboard_time": 1745746641,
-      "rank": 27,
-      "category": "电影"
+      "raw_hot": 214675,
+      "num": 198548,
+      "word": "京东外卖",
+      "onboard_time": 1745755162,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 213728,
@@ -1411,6 +1427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193088,
+      "num": 193088,
+      "word": "王俊凯和一群实力派演员坐在一起",
+      "onboard_time": 1745757982,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 191391,
       "num": 191391,
       "word": "王一博华表奖出图",
@@ -1563,6 +1587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177445,
+      "num": 177445,
+      "word": "rv晚宴",
+      "onboard_time": 1745757564,
+      "rank": 48,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 174817,
       "num": 174817,
       "word": "刘奕畅李沐宸一个不服一个迟到",
@@ -1625,6 +1657,14 @@
       "onboard_time": 1745747602,
       "rank": 34,
       "category": "美食"
+    },
+    {
+      "raw_hot": 167031,
+      "num": 167031,
+      "word": "韩安冉准备把账号还给婆婆",
+      "onboard_time": 1745757022,
+      "rank": 36,
+      "category": "网红"
     },
     {
       "raw_hot": 166738,
@@ -1713,6 +1753,14 @@
       "onboard_time": 1745749880,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 160074,
+      "num": 160074,
+      "word": "冠军驾到王楚钦孙颖莎",
+      "onboard_time": 1745757863,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 160040,
@@ -2019,14 +2067,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 140385,
-      "num": 140385,
-      "word": "韩安冉准备把账号还给婆婆",
-      "onboard_time": 1745757022,
-      "rank": 36,
-      "category": "网红"
-    },
-    {
       "raw_hot": 139365,
       "num": 276916,
       "word": "宣称免费领养实为贷款买猫",
@@ -2081,14 +2121,6 @@
       "onboard_time": 1745736020,
       "rank": 43,
       "category": "财经"
-    },
-    {
-      "raw_hot": 136982,
-      "num": 136982,
-      "word": "京东外卖",
-      "onboard_time": 1745755162,
-      "rank": 37,
-      "category": "互联网"
     },
     {
       "raw_hot": 136801,
@@ -2235,6 +2267,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 130298,
+      "num": 130298,
+      "word": "吴彤爆余宇涵被换角想订机票回家",
+      "onboard_time": 1745756061,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129468,
       "num": 129468,
       "word": "27岁英专生在深圳一周打5份工",
@@ -2273,6 +2313,14 @@
       "onboard_time": 1745745500,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 122677,
+      "num": 203294,
+      "word": "男子在生殖医院手术后身亡家属发声",
+      "onboard_time": 1745755760,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122145,
@@ -2323,14 +2371,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 118376,
-      "num": 118376,
-      "word": "吴彤爆余宇涵被换角想订机票回家",
-      "onboard_time": 1745756061,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 116392,
       "num": 151532,
       "word": "被刘宇宁这首歌打动了",
@@ -2347,6 +2387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 115896,
+      "num": 115896,
+      "word": "关晓彤因为拍戏需求漂发了",
+      "onboard_time": 1745758282,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 115496,
       "num": 151238,
       "word": "刘烨太瘦了",
@@ -2361,22 +2409,6 @@
       "onboard_time": 1745742082,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 113768,
-      "num": 113768,
-      "word": "rv晚宴",
-      "onboard_time": 1745757564,
-      "rank": 48,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 113280,
-      "num": 203294,
-      "word": "男子在生殖医院手术后身亡家属发声",
-      "onboard_time": 1745755760,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 112871,
@@ -2435,6 +2467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 107868,
+      "num": 107868,
+      "word": "大学生一旦过了13周就会变成章鱼哥",
+      "onboard_time": 1745758642,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 107701,
       "num": 151443,
       "word": "我爱你获华表奖3项提名",
@@ -2465,6 +2505,14 @@
       "onboard_time": 1745730142,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104085,
+      "num": 104085,
+      "word": "韩安冉向婆婆道歉",
+      "onboard_time": 1745758582,
+      "rank": 47,
+      "category": "网红"
     },
     {
       "raw_hot": 103840,
@@ -2505,6 +2553,14 @@
       "onboard_time": 1745709799,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 100496,
+      "num": 100496,
+      "word": "蛮好的人生",
+      "onboard_time": 1745758223,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 100468,
@@ -3099,6 +3155,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 35207,
+      "num": 199779,
+      "word": "南京闯进电视台的野猪是从哪来的",
+      "onboard_time": 1745757684,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34909,
       "num": 163613,
       "word": "丧尸街背后的费城",
@@ -3129,6 +3193,14 @@
       "onboard_time": 1745742981,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 33031,
+      "num": 199224,
+      "word": "被人们嫌弃的廉航赚疯了",
+      "onboard_time": 1745757742,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30959,
@@ -3299,14 +3371,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 20347,
-      "num": 148468,
-      "word": "南京闯进电视台的野猪是从哪来的",
-      "onboard_time": 1745757684,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 20247,
       "num": 28532,
       "word": "时代少年团演唱会答题",
@@ -3387,6 +3451,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 14212,
+      "num": 131066,
+      "word": "网友吐槽意林收AI写的文",
+      "onboard_time": 1745757564,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14067,
       "num": 21111,
       "word": "周深将出席北京国际电影节闭幕式",
@@ -3409,14 +3481,6 @@
       "onboard_time": 1745742082,
       "rank": 19,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 13077,
-      "num": 125595,
-      "word": "被人们嫌弃的廉航赚疯了",
-      "onboard_time": 1745757742,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 12807,
@@ -3457,14 +3521,6 @@
       "onboard_time": 1745709439,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 8379,
-      "num": 131066,
-      "word": "网友吐槽意林收AI写的文",
-      "onboard_time": 1745757564,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 8150,
