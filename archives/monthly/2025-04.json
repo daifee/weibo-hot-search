@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1745739348040,
+  "endTime": 1745742525143,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1177,6 +1177,14 @@
       "onboard_time": 1743647601,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2090517,
+      "num": 2090517,
+      "word": "男子在生殖医院做手术后次日身亡",
+      "onboard_time": 1745739262,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2088034,
@@ -4595,6 +4603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1126821,
+      "num": 1126821,
+      "word": "王一博没赶上华表奖红毯",
+      "onboard_time": 1745740162,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1125116,
       "num": 861448,
       "word": "女子突发不适驾车失控致1死3伤",
@@ -5788,7 +5804,7 @@
     },
     {
       "raw_hot": 979561,
-      "num": 398500,
+      "num": 428986,
       "word": "王菲谢霆锋 姐狗天花板",
       "onboard_time": 1745735602,
       "rank": 18,
@@ -10731,6 +10747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 626834,
+      "num": 626834,
+      "word": "法院院长办公室休息室达68.7平被处分",
+      "onboard_time": 1745738361,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 626367,
       "num": 872200,
       "word": "淮水竹亭",
@@ -11969,6 +11993,14 @@
       "onboard_time": 1745220082,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 576033,
+      "num": 576033,
+      "word": "马英九说实在看不下去了",
+      "onboard_time": 1745737822,
+      "rank": 10,
+      "category": "国内时政"
     },
     {
       "raw_hot": 575286,
@@ -16171,14 +16203,6 @@
       "category": "国内时政,财经"
     },
     {
-      "raw_hot": 437243,
-      "num": 437243,
-      "word": "马英九说实在看不下去了",
-      "onboard_time": 1745737822,
-      "rank": 10,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 437223,
       "num": 437223,
       "word": "广东省考成绩",
@@ -16379,6 +16403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 431648,
+      "num": 431648,
+      "word": "厚底鞋",
+      "onboard_time": 1745740102,
+      "rank": 8,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 431595,
       "num": 259919,
       "word": "杨幂晒刮痧小猫",
@@ -16529,6 +16561,14 @@
       "onboard_time": 1744124483,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 427531,
+      "num": 427531,
+      "word": "邓超想跟孙俪再结一次婚",
+      "onboard_time": 1745740461,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 427366,
@@ -17633,6 +17673,14 @@
       "onboard_time": 1745481561,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 404159,
+      "num": 364905,
+      "word": "王菲谢霆锋",
+      "onboard_time": 1745739501,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 403844,
@@ -19635,6 +19683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 362292,
+      "num": 362292,
+      "word": "杨超越全黑look",
+      "onboard_time": 1745739741,
+      "rank": 20,
+      "category": "电影"
+    },
+    {
       "raw_hot": 362122,
       "num": 362122,
       "word": "殡仪行业工资达地方平均工资3倍",
@@ -20777,6 +20833,14 @@
       "onboard_time": 1743553343,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 344009,
+      "num": 429330,
+      "word": "因通缉照走红女子出狱后成主播",
+      "onboard_time": 1745741721,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 343558,
@@ -22177,6 +22241,14 @@
       "onboard_time": 1745565801,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 320734,
+      "num": 255769,
+      "word": "王俊凯杨超越同框",
+      "onboard_time": 1745739862,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 320679,
@@ -26843,6 +26915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 263365,
+      "num": 263365,
+      "word": "张凌赫王楚然 这一秒",
+      "onboard_time": 1745742023,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 263266,
       "num": 276504,
       "word": "全员加速中 推迟录制",
@@ -27105,14 +27185,6 @@
       "onboard_time": 1744856721,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 260494,
-      "num": 260494,
-      "word": "法院院长办公室休息室达68.7平被处分",
-      "onboard_time": 1745738361,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 260424,
@@ -27563,6 +27635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 256438,
+      "num": 256438,
+      "word": "女子孕期坚持跳同一支舞记录变化",
+      "onboard_time": 1745741002,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 256329,
       "num": 256329,
       "word": "假期最后1天",
@@ -27673,6 +27753,14 @@
       "onboard_time": 1744010182,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 254803,
+      "num": 254803,
+      "word": "第五人格",
+      "onboard_time": 1743474142,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 254788,
@@ -31336,6 +31424,14 @@
       "word": "一轮接一轮降雨来了",
       "onboard_time": 1745196145,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 225401,
+      "num": 225401,
+      "word": "12345回应男子买狗不满意当场摔死狗",
+      "onboard_time": 1745737822,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -35733,14 +35829,6 @@
     {
       "raw_hot": 202948,
       "num": 202948,
-      "word": "第五人格",
-      "onboard_time": 1743474142,
-      "rank": 46,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 202948,
-      "num": 202948,
       "word": "深圳天气",
       "onboard_time": 1745494222,
       "rank": 33,
@@ -36571,6 +36659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199933,
+      "num": 199933,
+      "word": "章若楠华表奖红毯生图",
+      "onboard_time": 1745741841,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 199909,
       "num": 199909,
       "word": "清明档",
@@ -36969,6 +37065,14 @@
       "onboard_time": 1743469403,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 198821,
+      "num": 198821,
+      "word": "特朗普政府激怒了加拿大人",
+      "onboard_time": 1745739322,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 198798,
@@ -39499,6 +39603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191391,
+      "num": 191391,
+      "word": "王一博华表奖出图",
+      "onboard_time": 1745741541,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 191376,
       "num": 191376,
       "word": "王源talking好真诚",
@@ -39537,6 +39649,14 @@
       "onboard_time": 1745378304,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 191239,
+      "num": 191239,
+      "word": "王俊凯华表奖生图",
+      "onboard_time": 1745740522,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 191234,
@@ -39729,6 +39849,14 @@
       "onboard_time": 1743912201,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190611,
+      "num": 190611,
+      "word": "哈妮克孜的青蛇",
+      "onboard_time": 1745741423,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 190609,
@@ -43057,6 +43185,14 @@
       "onboard_time": 1745570122,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 179725,
+      "num": 179725,
+      "word": "吴磊好板正一男的",
+      "onboard_time": 1745741901,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 179703,
@@ -48867,14 +49003,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 160955,
-      "num": 160955,
-      "word": "男子在生殖医院做手术后次日身亡",
-      "onboard_time": 1745739262,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 160913,
       "num": 160913,
       "word": "结婚前分手是什么体验",
@@ -49521,6 +49649,14 @@
       "onboard_time": 1744685900,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 159152,
+      "num": 159152,
+      "word": "女明星华表奖生图",
+      "onboard_time": 1745741062,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 159129,
@@ -54371,6 +54507,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 146243,
+      "num": 191275,
+      "word": "九尾时尚表现力",
+      "onboard_time": 1745741120,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 146239,
       "num": 146239,
       "word": "商户往猪肉丸里加硼砂销售4000斤获刑",
@@ -55323,20 +55467,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 143912,
+      "num": 143912,
+      "word": "蒋一侨兑现长发造型承诺了",
+      "onboard_time": 1745740701,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143888,
       "num": 143888,
       "word": "孔雪儿杨仕泽新剧变结婚搭子",
       "onboard_time": 1745737822,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 143883,
-      "num": 143883,
-      "word": "特朗普政府激怒了加拿大人",
-      "onboard_time": 1745739322,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 143865,
@@ -67731,6 +67875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110624,
+      "num": 366471,
+      "word": "律师称男子把小狗摔死涉嫌2项违法",
+      "onboard_time": 1745741062,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110585,
       "num": 110585,
       "word": "中东股市大跌",
@@ -71481,6 +71633,14 @@
       "onboard_time": 1743474261,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 96424,
+      "num": 226089,
+      "word": "特朗普发帖称被普京利用",
+      "onboard_time": 1745742082,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 96407,
@@ -83811,6 +83971,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 41199,
+      "num": 364344,
+      "word": "孙俪说中年人没时间脆弱",
+      "onboard_time": 1745741901,
+      "rank": 17,
+      "category": "艺人,剧集"
+    },
+    {
       "raw_hot": 41190,
       "num": 42816,
       "word": "洛阳你真的把牡丹保护得很好",
@@ -87051,6 +87219,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 28700,
+      "num": 363109,
+      "word": "吴艳妮回应钻石联赛表现",
+      "onboard_time": 1745742142,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 28696,
       "num": 191432,
       "word": "34年前杀人犯出狱后称冤枉提起上诉",
@@ -87635,6 +87811,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 26431,
+      "num": 161278,
+      "word": "俄提议送考试未过的学生去战场",
+      "onboard_time": 1745741302,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 26405,
       "num": 362964,
       "word": "钓鱼佬救起跳河小伙",
@@ -87961,6 +88145,14 @@
       "onboard_time": 1744975881,
       "rank": 27,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 25480,
+      "num": 1218029,
+      "word": "新质先锋未来北京",
+      "onboard_time": 1745736562,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25477,
@@ -89025,6 +89217,14 @@
       "onboard_time": 1745296105,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 22539,
+      "num": 191250,
+      "word": "1分钟看泰拉",
+      "onboard_time": 1745741182,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 22501,
@@ -90304,14 +90504,6 @@
       "word": "12日深圳有一场强对流天气过程",
       "onboard_time": 1744377444,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 19016,
-      "num": 713886,
-      "word": "新质先锋未来北京",
-      "onboard_time": 1745736562,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -92169,6 +92361,14 @@
       "onboard_time": 1745484202,
       "rank": 38,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 13186,
+      "num": 363015,
+      "word": "如何直观感受光合作用产生的氧气泡泡",
+      "onboard_time": 1745742082,
+      "rank": 19,
+      "category": "科学科普"
     },
     {
       "raw_hot": 13156,
