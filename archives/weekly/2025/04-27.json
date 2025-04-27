@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1745786336159,
+  "endTime": 1745788916982,
   "band_list": [
     {
       "raw_hot": 8960529,
@@ -2779,6 +2779,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 125861,
+      "num": 134044,
+      "word": "早睡简直就是人类的无敌作弊器",
+      "onboard_time": 1745779935,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 124714,
       "num": 124714,
       "word": "BRO战胜T1",
@@ -2833,14 +2841,6 @@
       "onboard_time": 1745727322,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 120348,
-      "num": 120348,
-      "word": "早睡简直就是人类的无敌作弊器",
-      "onboard_time": 1745779935,
-      "rank": 28,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 118583,
@@ -4131,8 +4131,16 @@
       "category": "幽默,民生新闻"
     },
     {
+      "raw_hot": 17187,
+      "num": 38032,
+      "word": "广东外贸老板说被关税战敲醒了",
+      "onboard_time": 1745785753,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17143,
-      "num": 18539,
+      "num": 18613,
       "word": "官方回应伊朗港口爆炸事件",
       "onboard_time": 1745782094,
       "rank": 48,
@@ -4164,7 +4172,7 @@
     },
     {
       "raw_hot": 14518,
-      "num": 16196,
+      "num": 18553,
       "word": "平台回应因通缉照走红女子账号被封",
       "onboard_time": 1745783894,
       "rank": 45,
@@ -4211,12 +4219,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 12094,
+      "num": 36003,
+      "word": "神十九神二十乘组交接",
+      "onboard_time": 1745783354,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 11709,
       "num": 172982,
       "word": "高龄老兵在海军节登上军舰",
       "onboard_time": 1745723483,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11670,
+      "num": 37916,
+      "word": "神十九乘组4月29日返回地球",
+      "onboard_time": 1745780894,
+      "rank": 9,
+      "category": "国内时政,民生新闻"
     },
     {
       "raw_hot": 11289,
@@ -4241,22 +4265,6 @@
       "onboard_time": 1745709439,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 10561,
-      "num": 37916,
-      "word": "神十九乘组4月29日返回地球",
-      "onboard_time": 1745780894,
-      "rank": 9,
-      "category": "国内时政,民生新闻"
-    },
-    {
-      "raw_hot": 10417,
-      "num": 36003,
-      "word": "神十九神二十乘组交接",
-      "onboard_time": 1745783354,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 10099,
