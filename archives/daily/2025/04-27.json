@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1745761184877,
+  "endTime": 1745763673169,
   "band_list": [
     {
       "raw_hot": 4073618,
@@ -27,6 +27,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 2800757,
+      "num": 2800757,
+      "word": "石凯姐姐发长文",
+      "onboard_time": 1745762483,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2550222,
       "num": 208799,
       "word": "高潮针是什么",
@@ -41,6 +49,14 @@
       "onboard_time": 1745739262,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2091095,
+      "num": 2091095,
+      "word": "中日友好医院通报肖某问题属实",
+      "onboard_time": 1745759723,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 1915190,
@@ -257,6 +273,14 @@
       "onboard_time": 1745742981,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 824294,
+      "num": 383600,
+      "word": "刘亦菲陈晓李现同框",
+      "onboard_time": 1745759964,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 817949,
@@ -515,20 +539,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 513284,
-      "num": 513284,
-      "word": "中日友好医院通报肖某问题属实",
-      "onboard_time": 1745759723,
-      "rank": 9,
-      "category": "辟谣/通报"
+      "raw_hot": 521655,
+      "num": 383136,
+      "word": "两代哪吒同框了",
+      "onboard_time": 1745760263,
+      "rank": 35,
+      "category": "电影"
     },
     {
-      "raw_hot": 507242,
-      "num": 344959,
-      "word": "刘亦菲陈晓李现同框",
-      "onboard_time": 1745759964,
-      "rank": 26,
-      "category": "剧集"
+      "raw_hot": 503859,
+      "num": 352290,
+      "word": "冠军驾到王楚钦孙颖莎",
+      "onboard_time": 1745757863,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 503307,
@@ -603,12 +627,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 440319,
+      "num": 440319,
+      "word": "银川市政府就市长信箱已读乱回致歉",
+      "onboard_time": 1745761583,
+      "rank": 4,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 435240,
       "num": 435240,
       "word": "饿了么今天便宜到不敢点",
       "onboard_time": 1745748082,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 434626,
+      "num": 299370,
+      "word": "金像奖获奖名单",
+      "onboard_time": 1745760863,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 431172,
@@ -689,6 +729,14 @@
       "onboard_time": 1745754740,
       "rank": 8,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 387233,
+      "num": 387233,
+      "word": "中日友好医院肖某已停职",
+      "onboard_time": 1745759964,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 386407,
@@ -795,27 +843,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 334772,
-      "num": 297860,
-      "word": "冠军驾到王楚钦孙颖莎",
-      "onboard_time": 1745757863,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 330154,
       "num": 330154,
       "word": "女子旅行途中惊闻独子离世崩溃大哭",
       "onboard_time": 1745728522,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 327670,
-      "num": 327670,
-      "word": "中日友好医院肖某已停职",
-      "onboard_time": 1745759964,
-      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -963,6 +995,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 278435,
+      "num": 278435,
+      "word": "破皮的粉刺针竟是家居用品公司生产",
+      "onboard_time": 1745762183,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 277049,
       "num": 227749,
       "word": "谢霆锋儿子现身演唱会",
@@ -987,12 +1027,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 270896,
+      "num": 270896,
+      "word": "女子丢蛋糕后报警谎称抹了老鼠药",
+      "onboard_time": 1745758762,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 270720,
       "num": 270720,
       "word": "于适带你解锁青岛的魅力",
       "onboard_time": 1745733202,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 267491,
+      "num": 267491,
+      "word": "韩安冉向婆婆道歉",
+      "onboard_time": 1745758582,
+      "rank": 47,
+      "category": "网红"
     },
     {
       "raw_hot": 266931,
@@ -1057,14 +1113,6 @@
       "onboard_time": 1745740640,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 252274,
-      "num": 252274,
-      "word": "两代哪吒同框了",
-      "onboard_time": 1745760263,
-      "rank": 35,
-      "category": "电影"
     },
     {
       "raw_hot": 250363,
@@ -1161,6 +1209,14 @@
       "onboard_time": 1745733621,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 235001,
+      "num": 235001,
+      "word": "华表奖首位中国香港影后",
+      "onboard_time": 1745761642,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 232942,
@@ -1379,6 +1435,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 205269,
+      "num": 205269,
+      "word": "年轻时候的蔡琴有多漂亮",
+      "onboard_time": 1745762543,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204866,
       "num": 336569,
       "word": "男子凌晨开智驾打盹撞上高速护栏",
@@ -1393,6 +1457,14 @@
       "onboard_time": 1745734341,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 203798,
+      "num": 203798,
+      "word": "李秀满疑似开辟短剧赛道",
+      "onboard_time": 1745761882,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 203713,
@@ -1507,6 +1579,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 193889,
+      "num": 193889,
+      "word": "张杰演唱会首唱无忧渡主题曲",
+      "onboard_time": 1745762662,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 193709,
       "num": 193709,
       "word": "蓝盈莹也cha了likejennie",
@@ -1529,14 +1609,6 @@
       "onboard_time": 1745757982,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 192177,
-      "num": 192177,
-      "word": "女子丢蛋糕后报警谎称抹了老鼠药",
-      "onboard_time": 1745758762,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 191391,
@@ -1620,7 +1692,7 @@
     },
     {
       "raw_hot": 185692,
-      "num": 234588,
+      "num": 285005,
       "word": "韩安冉准备把账号还给婆婆",
       "onboard_time": 1745757022,
       "rank": 36,
@@ -1747,14 +1819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 172011,
-      "num": 172011,
-      "word": "韩安冉向婆婆道歉",
-      "onboard_time": 1745758582,
-      "rank": 47,
-      "category": "网红"
-    },
-    {
       "raw_hot": 171116,
       "num": 171116,
       "word": "樊振东带和平鸽的衣服好有仪式感",
@@ -1779,12 +1843,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 170131,
+      "num": 314568,
+      "word": "日产N7舒适满配119900元起",
+      "onboard_time": 1745762603,
+      "rank": 16,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 170103,
       "num": 170103,
       "word": "云南人用咖啡做凉菜",
       "onboard_time": 1745747602,
       "rank": 34,
       "category": "美食"
+    },
+    {
+      "raw_hot": 166912,
+      "num": 166912,
+      "word": "陈少熙王者",
+      "onboard_time": 1745762243,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 166738,
@@ -1833,14 +1913,6 @@
       "onboard_time": 1745745083,
       "rank": 44,
       "category": "数码"
-    },
-    {
-      "raw_hot": 161505,
-      "num": 240789,
-      "word": "金像奖获奖名单",
-      "onboard_time": 1745760863,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 160866,
@@ -1897,6 +1969,14 @@
       "onboard_time": 1745741062,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 159764,
+      "num": 159764,
+      "word": "中医教你用小鸟啄食法消法令纹",
+      "onboard_time": 1745763143,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 159352,
@@ -1987,6 +2067,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 154237,
+      "num": 154237,
+      "word": "时代少年团印象最深的热搜",
+      "onboard_time": 1745763503,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153886,
       "num": 153886,
       "word": "安娜来内娱也得拍出发图",
@@ -2009,6 +2097,14 @@
       "onboard_time": 1745751742,
       "rank": 36,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 153062,
+      "num": 153062,
+      "word": "王俊凯走路粉闻着味儿就来了",
+      "onboard_time": 1745763323,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 152969,
@@ -2153,6 +2249,22 @@
       "onboard_time": 1745737822,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143772,
+      "num": 143772,
+      "word": "官方通报银川市长信箱已读乱回",
+      "onboard_time": 1745762423,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143207,
+      "num": 143207,
+      "word": "王源去看了张杰的演唱会",
+      "onboard_time": 1745763503,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 143195,
@@ -2811,6 +2923,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 88190,
+      "num": 373877,
+      "word": "央视曝光假进口的保健品",
+      "onboard_time": 1745763083,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 87572,
       "num": 291556,
       "word": "曝沙特Falcons欲收购RNG",
@@ -3033,6 +3153,14 @@
       "onboard_time": 1745725401,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 62787,
+      "num": 1588621,
+      "word": "中国制造成为全球客商最佳选择",
+      "onboard_time": 1745760682,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 61522,
@@ -3363,20 +3491,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 29635,
+      "num": 136911,
+      "word": "于适鸿星尔克断货",
+      "onboard_time": 1745762003,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 29318,
       "num": 150789,
       "word": "大城市婚恋为什么难搞",
       "onboard_time": 1745684481,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28771,
-      "num": 871803,
-      "word": "中国制造成为全球客商最佳选择",
-      "onboard_time": 1745760682,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 28700,
