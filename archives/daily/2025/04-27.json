@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1745728109705,
+  "endTime": 1745728946385,
   "band_list": [
     {
       "raw_hot": 2550222,
@@ -35,6 +35,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1650777,
+      "num": 1650777,
+      "word": "银川市长信箱已读乱回",
+      "onboard_time": 1745727022,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1507923,
       "num": 1507923,
       "word": "调休",
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 1204342,
-      "num": 729683,
+      "num": 1006537,
       "word": "鹿晗接你下班的男朋友即视感",
       "onboard_time": 1745721082,
       "rank": 4,
@@ -147,6 +155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 610321,
+      "num": 511825,
+      "word": "华妃只认第一学历",
+      "onboard_time": 1745727922,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 605666,
       "num": 375792,
       "word": "肖战追星和我们也没区别",
@@ -163,16 +179,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 598413,
-      "num": 598413,
-      "word": "银川市长信箱已读乱回",
-      "onboard_time": 1745727022,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 589683,
-      "num": 369998,
+      "num": 421963,
       "word": "裸辞一年发现不上班根本不需要旅游",
       "onboard_time": 1745676863,
       "rank": 11,
@@ -201,6 +209,14 @@
       "onboard_time": 1745724201,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 542338,
+      "num": 512954,
+      "word": "王一博赛车故障退赛",
+      "onboard_time": 1745727440,
+      "rank": 18,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 524962,
@@ -323,6 +339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 344172,
+      "num": 344172,
+      "word": "肥猪能不能别来挤地铁啊",
+      "onboard_time": 1745728102,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 325495,
       "num": 325495,
       "word": "戈登扣篮绝杀快船",
@@ -377,14 +401,6 @@
       "onboard_time": 1745725281,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 287408,
-      "num": 370898,
-      "word": "王一博赛车故障退赛",
-      "onboard_time": 1745727440,
-      "rank": 18,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 285588,
@@ -476,11 +492,19 @@
     },
     {
       "raw_hot": 238586,
-      "num": 238586,
+      "num": 302745,
       "word": "刘学义敖瑞鹏领衔主演",
       "onboard_time": 1745723540,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 227609,
+      "num": 227609,
+      "word": "买不买房差别有多大",
+      "onboard_time": 1745727202,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 219256,
@@ -531,6 +555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 217253,
+      "num": 254432,
+      "word": "赵丽颖登上城士封面",
+      "onboard_time": 1745728281,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 216036,
       "num": 304160,
       "word": "下调离境退税起退点上调现金退税限额",
@@ -556,11 +588,19 @@
     },
     {
       "raw_hot": 199765,
-      "num": 717030,
+      "num": 1010422,
       "word": "外商组团到义乌买买买",
       "onboard_time": 1745723781,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 199662,
+      "num": 199662,
+      "word": "韩红回应母亲去世演唱会照常举办",
+      "onboard_time": 1745728642,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 194787,
@@ -603,6 +643,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 185250,
+      "num": 185250,
+      "word": "光与夜之恋",
+      "onboard_time": 1745720721,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 183975,
       "num": 155867,
       "word": "太原溺水美人鱼仍在重症监护室",
@@ -611,28 +659,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 182280,
-      "num": 182280,
-      "word": "光与夜之恋",
-      "onboard_time": 1745720721,
-      "rank": 31,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 179616,
       "num": 179616,
       "word": "巴萨3比2皇马",
       "onboard_time": 1745709318,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 179505,
-      "num": 179505,
-      "word": "华妃只认第一学历",
-      "onboard_time": 1745727922,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 174817,
@@ -652,7 +684,7 @@
     },
     {
       "raw_hot": 170911,
-      "num": 170911,
+      "num": 268518,
       "word": "谢霆锋不语只是一味地换吉他",
       "onboard_time": 1745718621,
       "rank": 30,
@@ -683,14 +715,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 163874,
-      "num": 163874,
-      "word": "买不买房差别有多大",
-      "onboard_time": 1745727202,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 161800,
       "num": 161800,
       "word": "戈登绝杀",
@@ -705,6 +729,14 @@
       "onboard_time": 1745719641,
       "rank": 36,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 160536,
+      "num": 160536,
+      "word": "女子旅行中得知独子车祸离世",
+      "onboard_time": 1745728462,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 159352,
@@ -729,6 +761,22 @@
       "onboard_time": 1745726842,
       "rank": 35,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 155422,
+      "num": 155422,
+      "word": "蔡徐坤名誉维权曾要求赔偿百万",
+      "onboard_time": 1745728704,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 154271,
+      "num": 154271,
+      "word": "RW选手正赛集体断网",
+      "onboard_time": 1745728642,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 152648,
@@ -763,6 +811,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 148135,
+      "num": 148135,
+      "word": "高瀚宇吃了掉在地上的棒棒糖",
+      "onboard_time": 1745728581,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146559,
       "num": 151849,
       "word": "王俊凯青岛",
@@ -779,12 +835,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 144668,
+      "num": 144668,
+      "word": "老人不要利息执意取107万银行报警",
+      "onboard_time": 1745728823,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144533,
       "num": 144533,
       "word": "中式工装席卷外国vintage门店",
       "onboard_time": 1745722880,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143129,
+      "num": 143129,
+      "word": "魏大勋孙千像共舞又像是对弈",
+      "onboard_time": 1745728761,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 141017,
@@ -899,8 +971,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 120304,
-      "num": 370385,
+      "raw_hot": 120846,
+      "num": 384074,
       "word": "你的每一步都不白走",
       "onboard_time": 1745727322,
       "rank": 19,
@@ -1075,6 +1147,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 87544,
+      "num": 512295,
+      "word": "官方回应市长信箱张冠李戴",
+      "onboard_time": 1745728102,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86189,
       "num": 86189,
       "word": "伊朗港口油罐爆炸事件最新进展",
@@ -1097,6 +1177,14 @@
       "onboard_time": 1745697433,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 83065,
+      "num": 175293,
+      "word": "爱泼斯坦案证人自杀前发ins",
+      "onboard_time": 1745728281,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 82878,
@@ -1171,6 +1259,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 73405,
+      "num": 511492,
+      "word": "女装越做越小是畸形审美",
+      "onboard_time": 1745728281,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73156,
       "num": 73156,
       "word": "伊朗南部阿巴斯港港口发生爆炸",
@@ -1243,12 +1339,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 59989,
+      "num": 511037,
+      "word": "人均500日料店回收食材给下一桌",
+      "onboard_time": 1745728462,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 56208,
       "num": 199903,
       "word": "3名中国公民伊朗港口爆炸中受轻伤",
       "onboard_time": 1745709439,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 54529,
+      "num": 511567,
+      "word": "千元海景房被曝看不到海",
+      "onboard_time": 1745728162,
+      "rank": 12,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 52307,
@@ -1323,6 +1435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37910,
+      "num": 256155,
+      "word": "女子旅行途中惊闻独子离世崩溃大哭",
+      "onboard_time": 1745728522,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33559,
       "num": 39259,
       "word": "孙燕姿演唱会",
@@ -1344,6 +1464,14 @@
       "word": "大城市婚恋为什么难搞",
       "onboard_time": 1745684481,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28129,
+      "num": 380208,
+      "word": "抢单外挂成骑手行业潜规则",
+      "onboard_time": 1745728162,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
