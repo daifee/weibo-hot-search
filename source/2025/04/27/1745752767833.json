@@ -1,0 +1,410 @@
+{
+  "runTime": 1745752767833,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2290203,
+        "num": 2290203,
+        "word": "张译二封华表影帝",
+        "onboard_time": 1745749581,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 818225,
+        "num": 818225,
+        "word": "如果取消调休 罚我五一多放2个月也行",
+        "onboard_time": 1745743582,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 51920,
+        "num": 598536,
+        "word": "六部门发文优化离境退税政策",
+        "onboard_time": 1745743281,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2073051,
+        "num": 575549,
+        "word": "惠英红 华表影后",
+        "onboard_time": 1745748501,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 552451,
+        "num": 552451,
+        "word": "学生向教育局举报饭菜有蛆被骂",
+        "onboard_time": 1745744181,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 383815,
+        "num": 383815,
+        "word": "男子在生殖医院做手术后次日身亡",
+        "onboard_time": 1745739262,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 905342,
+        "num": 342966,
+        "word": "关晓彤腿腿腿腿",
+        "onboard_time": 1745746701,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 591730,
+        "num": 296233,
+        "word": "第20届华表奖获奖名单",
+        "onboard_time": 1745749641,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 247839,
+        "num": 247839,
+        "word": "饿了么今天便宜到不敢点",
+        "onboard_time": 1745748082,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 197797,
+        "num": 197797,
+        "word": "C罗TIFO将台湾移出中国地图",
+        "onboard_time": 1745736140,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 723048,
+        "num": 197185,
+        "word": "惠英红华表奖首位中国香港影后",
+        "onboard_time": 1745749581,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 582265,
+        "num": 196774,
+        "word": "华表奖内场",
+        "onboard_time": 1745747180,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 413500,
+        "num": 196347,
+        "word": "香港高铁站偶遇杨幂",
+        "onboard_time": 1745748802,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93199,
+        "num": 195404,
+        "word": "凯迪拉克为爱来电",
+        "onboard_time": 1745751803,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127380,
+        "num": 194423,
+        "word": "官方回应给下井救人女辅警转正呼声",
+        "onboard_time": 1745750902,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 407219,
+        "num": 193728,
+        "word": "郑晓龙说要和肖战二搭合作",
+        "onboard_time": 1745751441,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 382023,
+        "num": 193034,
+        "word": "中日友好医院肖飞",
+        "onboard_time": 1745749521,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 313160,
+        "num": 192292,
+        "word": "肥猪能不能别来挤地铁啊",
+        "onboard_time": 1745728102,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 266931,
+        "num": 191732,
+        "word": "网购避孕套被配送员骚扰女子发声",
+        "onboard_time": 1745749880,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17718,
+        "num": 191350,
+        "word": "惠英红获奖对香港电影有何影响",
+        "onboard_time": 1745751683,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 381998,
+        "num": 190229,
+        "word": "IU的婚纱我妈妈也穿过",
+        "onboard_time": 1745749283,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 370063,
+        "num": 189499,
+        "word": "关晓彤戴假发",
+        "onboard_time": 1745737162,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144800,
+        "num": 189294,
+        "word": "女子拆快递拆出活老鼠抓了3小时",
+        "onboard_time": 1745750841,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 338260,
+        "num": 188206,
+        "word": "王一博没赶上华表奖红毯",
+        "onboard_time": 1745740162,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 187990,
+        "num": 187990,
+        "word": "九尾变身捕鱼高手",
+        "onboard_time": 1745752102,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 232942,
+        "num": 186656,
+        "word": "淮水竹亭滤镜",
+        "onboard_time": 1745750780,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209253,
+        "num": 182698,
+        "word": "小奶狗被主人2次狠摔致死",
+        "onboard_time": 1745742981,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203592,
+        "num": 180161,
+        "word": "金像奖",
+        "onboard_time": 1745746641,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 200776,
+        "num": 177294,
+        "word": "鹿晗新歌是写给粉丝的",
+        "onboard_time": 1745748741,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 198719,
+        "num": 175299,
+        "word": "王一博工作室发文回应退赛",
+        "onboard_time": 1745747180,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189842,
+        "num": 170890,
+        "word": "医生称女性高潮针有感染出血等风险",
+        "onboard_time": 1745752280,
+        "rank": 30,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 170797,
+        "num": 170797,
+        "word": "王菲谢霆锋 姐狗天花板",
+        "onboard_time": 1745735602,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 170444,
+        "num": 170444,
+        "word": "邓超想跟孙俪再结一次婚",
+        "onboard_time": 1745740461,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161781,
+        "num": 161781,
+        "word": "这几种痣可能藏着癌",
+        "onboard_time": 1745744063,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 160417,
+        "num": 160417,
+        "word": "官方通报学生举报饭菜有蛆被骂",
+        "onboard_time": 1745750062,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153799,
+        "num": 153799,
+        "word": "厚底鞋",
+        "onboard_time": 1745740102,
+        "rank": 35,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 153088,
+        "num": 153088,
+        "word": "京东加大骑手招聘力度",
+        "onboard_time": 1745751742,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 99349,
+        "num": 152782,
+        "word": "明日方舟特别映像",
+        "onboard_time": 1745752280,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 30959,
+        "num": 150148,
+        "word": "高校教师剽窃博士论文被判赔8万元",
+        "onboard_time": 1745752701,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7331,
+        "num": 144751,
+        "word": "这样出门就可以解放双手了",
+        "onboard_time": 1745752461,
+        "rank": 39,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 116904,
+        "num": 142542,
+        "word": "马英九说实在看不下去了",
+        "onboard_time": 1745737822,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 119847,
+        "num": 141701,
+        "word": "中纪委通报三河招牌改色事件",
+        "onboard_time": 1745744181,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139125,
+        "num": 139125,
+        "word": "王菲谢霆锋",
+        "onboard_time": 1745739501,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137771,
+        "num": 137771,
+        "word": "Jennie红色小猫",
+        "onboard_time": 1745746581,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 136133,
+        "num": 136133,
+        "word": "刘诗诗秒答迪丽热巴孟子义",
+        "onboard_time": 1745744542,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134840,
+        "num": 134840,
+        "word": "酒肉情侣",
+        "onboard_time": 1745752102,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 335833,
+        "num": 134000,
+        "word": "华表奖红毯",
+        "onboard_time": 1745734941,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131505,
+        "num": 131505,
+        "word": "落花时节又逢君定档",
+        "onboard_time": 1745752581,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131096,
+        "num": 131096,
+        "word": "仙逆",
+        "onboard_time": 1745752222,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 124947,
+        "num": 124947,
+        "word": "建议五一假期放51天",
+        "onboard_time": 1745750421,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#从数据看中国经济高质量发展的确定性#"
+    }
+  }
+}
