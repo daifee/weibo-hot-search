@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1745710635739,
+  "endTime": 1745719192295,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -644,7 +644,7 @@
     },
     {
       "raw_hot": 2550222,
-      "num": 188638,
+      "num": 203835,
       "word": "高潮针是什么",
       "onboard_time": 1745682321,
       "rank": 20,
@@ -2539,6 +2539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1484128,
+      "num": 1484128,
+      "word": "调休",
+      "onboard_time": 1745713582,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1481763,
       "num": 1481763,
       "word": "白宫承认中方没打来过电话",
@@ -2792,6 +2800,14 @@
       "word": "小沈阳跪下那一刻",
       "onboard_time": 1744086685,
       "rank": 14,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 1427299,
+      "num": 845127,
+      "word": "肖战",
+      "onboard_time": 1745712261,
+      "rank": 3,
       "category": "演出"
     },
     {
@@ -5323,6 +5339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1025303,
+      "num": 1025303,
+      "word": "84斤女子吐槽买百件衣服基本穿不上",
+      "onboard_time": 1745709679,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1024064,
       "num": 1493439,
       "word": "上海涌入大量泰国人有景点翻红",
@@ -5417,6 +5441,14 @@
       "onboard_time": 1744327820,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1009274,
+      "num": 321509,
+      "word": "男子买狗不满意退款遭拒当场摔死狗",
+      "onboard_time": 1745713340,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1008043,
@@ -7545,6 +7577,14 @@
       "onboard_time": 1745248584,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 811313,
+      "num": 811313,
+      "word": "杨紫 MK",
+      "onboard_time": 1745714363,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 810808,
@@ -11233,6 +11273,14 @@
       "onboard_time": 1745217260,
       "rank": 33,
       "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 598789,
+      "num": 299853,
+      "word": "谢霆锋儿子颜值",
+      "onboard_time": 1745709620,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 598234,
@@ -15051,6 +15099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 461992,
+      "num": 449592,
+      "word": "刘涛质问李沐宸",
+      "onboard_time": 1745713462,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 461873,
       "num": 461873,
       "word": "尹锡悦成韩国第二位被罢免总统",
@@ -15529,14 +15585,6 @@
       "onboard_time": 1743782840,
       "rank": 11,
       "category": "电影"
-    },
-    {
-      "raw_hot": 448768,
-      "num": 448768,
-      "word": "84斤女子吐槽买百件衣服基本穿不上",
-      "onboard_time": 1745709679,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 448746,
@@ -16396,7 +16444,7 @@
     },
     {
       "raw_hot": 424992,
-      "num": 184163,
+      "num": 263169,
       "word": "赵露思直播哽咽了",
       "onboard_time": 1745682385,
       "rank": 22,
@@ -17177,14 +17225,6 @@
       "onboard_time": 1744883362,
       "rank": 25,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 408693,
-      "num": 241242,
-      "word": "谢霆锋儿子颜值",
-      "onboard_time": 1745709620,
-      "rank": 26,
-      "category": "演出"
     },
     {
       "raw_hot": 408239,
@@ -18137,6 +18177,14 @@
       "onboard_time": 1743467003,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 386407,
+      "num": 386407,
+      "word": "民宿老板教你识别酒店换没换床单",
+      "onboard_time": 1745710700,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 386382,
@@ -19891,6 +19939,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 352771,
+      "num": 352771,
+      "word": "疑似邓超用五哈给孙俪剧宣",
+      "onboard_time": 1745711360,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 352766,
       "num": 352766,
       "word": "杨幂直播",
@@ -21561,6 +21617,14 @@
       "onboard_time": 1745226141,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 325495,
+      "num": 325495,
+      "word": "戈登扣篮绝杀快船",
+      "onboard_time": 1745715681,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 325456,
@@ -25443,6 +25507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 273756,
+      "num": 196925,
+      "word": "中医提醒脾胃弱的人少吃3种水果",
+      "onboard_time": 1745710341,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 273723,
       "num": 273723,
       "word": "国内航司开始暂停接收波音飞机",
@@ -28107,6 +28179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 246282,
+      "num": 246282,
+      "word": "风月不相关简介改成大男主了",
+      "onboard_time": 1745717241,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 246176,
       "num": 246176,
       "word": "黄杨钿甜不加修饰的生命力",
@@ -28953,6 +29033,14 @@
       "onboard_time": 1744459823,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 238965,
+      "num": 238965,
+      "word": "当苹果闹钟遇上调休",
+      "onboard_time": 1745717602,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 238919,
@@ -31753,6 +31841,14 @@
       "onboard_time": 1744782022,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 218348,
+      "num": 218348,
+      "word": "24岁演戏50岁教英语最近想开飞机",
+      "onboard_time": 1745713462,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 218315,
@@ -38411,14 +38507,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 192861,
-      "num": 180597,
-      "word": "中医提醒脾胃弱的人少吃3种水果",
-      "onboard_time": 1745710341,
-      "rank": 23,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 192856,
       "num": 192856,
       "word": "真的要小心chatgpt了",
@@ -38560,6 +38648,14 @@
       "word": "杨紫李现锦绣芳华过审下证了",
       "onboard_time": 1744627764,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 192359,
+      "num": 192359,
+      "word": "杨仕泽回应新剧争议",
+      "onboard_time": 1745717721,
+      "rank": 23,
       "category": "剧集"
     },
     {
@@ -45044,7 +45140,7 @@
     },
     {
       "raw_hot": 170434,
-      "num": 151360,
+      "num": 167769,
       "word": "母猫生下双头猫3眼2嘴2鼻",
       "onboard_time": 1745709620,
       "rank": 30,
@@ -47819,6 +47915,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 161800,
+      "num": 161800,
+      "word": "戈登绝杀",
+      "onboard_time": 1745716041,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161788,
       "num": 161788,
       "word": "甲亢哥中国行有next level",
@@ -48315,6 +48419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160373,
+      "num": 156914,
+      "word": "谢霆锋不语只是一味地换吉他",
+      "onboard_time": 1745718621,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 160368,
       "num": 160368,
       "word": "逆水寒手游",
@@ -48657,6 +48769,14 @@
       "onboard_time": 1744082542,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 159352,
+      "num": 159352,
+      "word": "罕见双头猫已存活5天",
+      "onboard_time": 1745713942,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 159336,
@@ -52152,6 +52272,14 @@
       "word": "特朗普的金主们开喷关税",
       "onboard_time": 1744094482,
       "rank": 45,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 149747,
+      "num": 149747,
+      "word": "消息人士称哈马斯愿释放全部人质换停火",
+      "onboard_time": 1745716222,
+      "rank": 31,
       "category": "国际时政"
     },
     {
@@ -56475,6 +56603,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 138518,
+      "num": 209897,
+      "word": "减肥教材不贵 只要一句刘烨好帅",
+      "onboard_time": 1745718201,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138505,
       "num": 138505,
       "word": "新说唱直播",
@@ -57251,6 +57387,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 136613,
+      "num": 136613,
+      "word": "补充维生素D能缓解焦虑情绪",
+      "onboard_time": 1745716161,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 136598,
       "num": 136598,
       "word": "无畏cos野怪太权威了",
@@ -57881,6 +58025,14 @@
       "onboard_time": 1745058382,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135034,
+      "num": 135034,
+      "word": "列车窗户已经进化成这样了吗",
+      "onboard_time": 1745716161,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135027,
@@ -61819,6 +61971,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 125151,
+      "num": 125151,
+      "word": "汉代不说一双鞋而说一两鞋",
+      "onboard_time": 1745718621,
+      "rank": 35,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 125131,
       "num": 160209,
       "word": "沪指低开4.46%",
@@ -62913,6 +63073,14 @@
       "onboard_time": 1744022302,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 121867,
+      "num": 121867,
+      "word": "刘诗诗15岁的照片",
+      "onboard_time": 1745711659,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 121856,
@@ -64937,6 +65105,14 @@
       "onboard_time": 1745549899,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115970,
+      "num": 115970,
+      "word": "王鸥录大侦探七点起床妆发",
+      "onboard_time": 1745716041,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 115960,
@@ -69227,6 +69403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100468,
+      "num": 100468,
+      "word": "丁程鑫全程叫刘诗诗大小姐",
+      "onboard_time": 1745712202,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 100467,
       "num": 175993,
       "word": "安全测试又被吉利加了难度",
@@ -70531,6 +70715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95033,
+      "num": 95033,
+      "word": "看似周日 实则周一",
+      "onboard_time": 1745717180,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 95005,
       "num": 221568,
       "word": "山东一轿车与货车碰撞后冲入银行",
@@ -70945,6 +71137,14 @@
       "onboard_time": 1745419883,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 93286,
+      "num": 93286,
+      "word": "妈妈不吃你们吃",
+      "onboard_time": 1745713340,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 93254,
@@ -71801,6 +72001,14 @@
       "onboard_time": 1744820241,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 88537,
+      "num": 1694767,
+      "word": "MadeInChina硬控全球客商",
+      "onboard_time": 1745676624,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 88494,
@@ -74777,14 +74985,6 @@
       "onboard_time": 1744347144,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 73927,
-      "num": 1694767,
-      "word": "MadeInChina硬控全球客商",
-      "onboard_time": 1745676624,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 73912,
@@ -85513,6 +85713,14 @@
       "onboard_time": 1744080742,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29353,
+      "num": 107977,
+      "word": "伊朗港口爆炸与石油设施无关",
+      "onboard_time": 1745719041,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 29318,

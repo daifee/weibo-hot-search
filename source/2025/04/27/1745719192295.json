@@ -1,0 +1,410 @@
+{
+  "runTime": 1745719192295,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1484128,
+        "num": 1484128,
+        "word": "调休",
+        "onboard_time": 1745713582,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1025303,
+        "num": 1025303,
+        "word": "84斤女子吐槽买百件衣服基本穿不上",
+        "onboard_time": 1745709679,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88537,
+        "num": 858104,
+        "word": "MadeInChina硬控全球客商",
+        "onboard_time": 1745676624,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1427299,
+        "num": 845127,
+        "word": "肖战",
+        "onboard_time": 1745712261,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 811313,
+        "num": 811313,
+        "word": "杨紫 MK",
+        "onboard_time": 1745714363,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 459791,
+        "num": 459791,
+        "word": "原来这就是生理性厌恶的表现",
+        "onboard_time": 1745674343,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 461992,
+        "num": 449592,
+        "word": "刘涛质问李沐宸",
+        "onboard_time": 1745713462,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 386407,
+        "num": 386407,
+        "word": "民宿老板教你识别酒店换没换床单",
+        "onboard_time": 1745710700,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 352771,
+        "num": 352771,
+        "word": "疑似邓超用五哈给孙俪剧宣",
+        "onboard_time": 1745711360,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325495,
+        "num": 325495,
+        "word": "戈登扣篮绝杀快船",
+        "onboard_time": 1745715681,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1009274,
+        "num": 321509,
+        "word": "男子买狗不满意退款遭拒当场摔死狗",
+        "onboard_time": 1745713340,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 598789,
+        "num": 299853,
+        "word": "谢霆锋儿子颜值",
+        "onboard_time": 1745709620,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 433870,
+        "num": 281545,
+        "word": "裸辞一年发现不上班根本不需要旅游",
+        "onboard_time": 1745676863,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 263169,
+        "num": 263169,
+        "word": "赵露思直播哽咽了",
+        "onboard_time": 1745682385,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247993,
+        "num": 247993,
+        "word": "伊朗港口爆炸14死700多伤",
+        "onboard_time": 1745709499,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 246282,
+        "num": 246282,
+        "word": "风月不相关简介改成大男主了",
+        "onboard_time": 1745717241,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238965,
+        "num": 238965,
+        "word": "当苹果闹钟遇上调休",
+        "onboard_time": 1745717602,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218348,
+        "num": 218348,
+        "word": "24岁演戏50岁教英语最近想开飞机",
+        "onboard_time": 1745713462,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211111,
+        "num": 211111,
+        "word": "肖战孙燕姿演唱会后发文",
+        "onboard_time": 1745709379,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 138518,
+        "num": 209897,
+        "word": "减肥教材不贵 只要一句刘烨好帅",
+        "onboard_time": 1745718201,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1285587,
+        "num": 203835,
+        "word": "高潮针是什么",
+        "onboard_time": 1745682321,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 331075,
+        "num": 199564,
+        "word": "台北七旬老人陈尸水塔全楼喝尸水",
+        "onboard_time": 1745674282,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273756,
+        "num": 196925,
+        "word": "中医提醒脾胃弱的人少吃3种水果",
+        "onboard_time": 1745710341,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 192359,
+        "num": 192359,
+        "word": "杨仕泽回应新剧争议",
+        "onboard_time": 1745717721,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182034,
+        "num": 182034,
+        "word": "生理性厌恶的7个常见表现",
+        "onboard_time": 1745676804,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 170507,
+        "num": 170507,
+        "word": "鹿晗新歌吹吹风",
+        "onboard_time": 1745709318,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 169762,
+        "num": 169762,
+        "word": "印度男子婚礼当天新娘被调包成岳母",
+        "onboard_time": 1745673562,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 167769,
+        "num": 167769,
+        "word": "母猫生下双头猫3眼2嘴2鼻",
+        "onboard_time": 1745709620,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161800,
+        "num": 161800,
+        "word": "戈登绝杀",
+        "onboard_time": 1745716041,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159352,
+        "num": 159352,
+        "word": "罕见双头猫已存活5天",
+        "onboard_time": 1745713942,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160373,
+        "num": 156914,
+        "word": "谢霆锋不语只是一味地换吉他",
+        "onboard_time": 1745718621,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 149747,
+        "num": 149747,
+        "word": "消息人士称哈马斯愿释放全部人质换停火",
+        "onboard_time": 1745716222,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 136613,
+        "num": 136613,
+        "word": "补充维生素D能缓解焦虑情绪",
+        "onboard_time": 1745716161,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 135034,
+        "num": 135034,
+        "word": "列车窗户已经进化成这样了吗",
+        "onboard_time": 1745716161,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132529,
+        "num": 132529,
+        "word": "张译王一博 华表影帝提名",
+        "onboard_time": 1745669962,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 125151,
+        "num": 125151,
+        "word": "汉代不说一双鞋而说一两鞋",
+        "onboard_time": 1745718621,
+        "rank": 35,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 121867,
+        "num": 121867,
+        "word": "刘诗诗15岁的照片",
+        "onboard_time": 1745711659,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116745,
+        "num": 116745,
+        "word": "华表奖提名名单",
+        "onboard_time": 1745669423,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115970,
+        "num": 115970,
+        "word": "王鸥录大侦探七点起床妆发",
+        "onboard_time": 1745716041,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29353,
+        "num": 107977,
+        "word": "伊朗港口爆炸与石油设施无关",
+        "onboard_time": 1745719041,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 104520,
+        "num": 104520,
+        "word": "保安每天偷用女员工杯子喝水",
+        "onboard_time": 1745675603,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103518,
+        "num": 103518,
+        "word": "太原溺水美人鱼仍在重症监护室",
+        "onboard_time": 1745674402,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100468,
+        "num": 100468,
+        "word": "丁程鑫全程叫刘诗诗大小姐",
+        "onboard_time": 1745712202,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98859,
+        "num": 98859,
+        "word": "特朗普妄称中国要做出让步",
+        "onboard_time": 1745674942,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 97205,
+        "num": 98695,
+        "word": "火箭vs勇士",
+        "onboard_time": 1745715381,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98627,
+        "num": 98627,
+        "word": "伊朗港口爆炸原因调查困难",
+        "onboard_time": 1745709799,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 95988,
+        "num": 95988,
+        "word": "刘奕畅李沐宸一个不服一个迟到",
+        "onboard_time": 1745680522,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95033,
+        "num": 95033,
+        "word": "看似周日 实则周一",
+        "onboard_time": 1745717180,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 93286,
+        "num": 93286,
+        "word": "妈妈不吃你们吃",
+        "onboard_time": 1745713340,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 85385,
+        "num": 85385,
+        "word": "你好星期六石凯镜头被剪",
+        "onboard_time": 1745679023,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#为什么中国意味着确定性未来性机遇性#"
+    }
+  }
+}
