@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1745772285937,
+  "endTime": 1745774466591,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -17956,7 +17956,7 @@
     },
     {
       "raw_hot": 405440,
-      "num": 185161,
+      "num": 308628,
       "word": "seventeen",
       "onboard_time": 1745769441,
       "rank": 12,
@@ -36315,6 +36315,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 203446,
+      "num": 166052,
+      "word": "石凯避重就轻",
+      "onboard_time": 1745774177,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203420,
       "num": 226942,
       "word": "孙俪一个月连播两剧",
@@ -43193,6 +43201,14 @@
       "onboard_time": 1743863662,
       "rank": 48,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 182716,
+      "num": 182716,
+      "word": "螺蛳粉闷大米饭",
+      "onboard_time": 1745769021,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 182671,
@@ -68275,14 +68291,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 113060,
-      "num": 113060,
-      "word": "螺蛳粉闷大米饭",
-      "onboard_time": 1745769021,
-      "rank": 46,
-      "category": "美食"
-    },
-    {
       "raw_hot": 113057,
       "num": 113057,
       "word": "张康乐视角的大家",
@@ -71145,6 +71153,14 @@
       "onboard_time": 1744740794,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 102896,
+      "num": 102896,
+      "word": "怀孕蓝猫四肢被砍",
+      "onboard_time": 1745773157,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102828,
@@ -76819,6 +76835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77124,
+      "num": 69420,
+      "word": "何同学复更",
+      "onboard_time": 1745772978,
+      "rank": 24,
+      "category": "网红"
+    },
+    {
       "raw_hot": 77121,
       "num": 392644,
       "word": "于适鸿星尔克",
@@ -77985,6 +78009,14 @@
       "onboard_time": 1745243904,
       "rank": 18,
       "category": "国际时政,财经"
+    },
+    {
+      "raw_hot": 71352,
+      "num": 69256,
+      "word": "刘亦菲总结了一次次肯定",
+      "onboard_time": 1745772798,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 71288,
@@ -84153,6 +84185,14 @@
       "onboard_time": 1745327121,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45410,
+      "num": 45410,
+      "word": "aespa人歌东京开麦舞台",
+      "onboard_time": 1745773397,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 45403,

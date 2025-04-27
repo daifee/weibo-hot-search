@@ -1,6 +1,6 @@
 {
   "startTime": 1745771302155,
-  "endTime": 1745772285937,
+  "endTime": 1745774466591,
   "band_list": [
     {
       "raw_hot": 5235330,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 405440,
-      "num": 185161,
+      "num": 308628,
       "word": "seventeen",
       "onboard_time": 1745769441,
       "rank": 12,
@@ -115,6 +115,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 203446,
+      "num": 166052,
+      "word": "石凯避重就轻",
+      "onboard_time": 1745774177,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201052,
       "num": 201052,
       "word": "两代哪吒同框了",
@@ -129,6 +137,14 @@
       "onboard_time": 1745768602,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 182716,
+      "num": 182716,
+      "word": "螺蛳粉闷大米饭",
+      "onboard_time": 1745769021,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 174149,
@@ -227,14 +243,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 113060,
-      "num": 113060,
-      "word": "螺蛳粉闷大米饭",
-      "onboard_time": 1745769021,
-      "rank": 46,
-      "category": "美食"
-    },
-    {
       "raw_hot": 111522,
       "num": 111522,
       "word": "利物浦vs热刺",
@@ -272,6 +280,14 @@
       "word": "男子在生殖医院手术后身亡家属发声",
       "onboard_time": 1745755760,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102896,
+      "num": 102896,
+      "word": "怀孕蓝猫四肢被砍",
+      "onboard_time": 1745773157,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -355,6 +371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 77124,
+      "num": 69420,
+      "word": "何同学复更",
+      "onboard_time": 1745772978,
+      "rank": 24,
+      "category": "网红"
+    },
+    {
       "raw_hot": 77030,
       "num": 77030,
       "word": "JDG再夺周冠军",
@@ -387,6 +411,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 71352,
+      "num": 69256,
+      "word": "刘亦菲总结了一次次肯定",
+      "onboard_time": 1745772798,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 67572,
       "num": 67572,
       "word": "虞书欣直播",
@@ -417,6 +449,30 @@
       "onboard_time": 1745757323,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 54979,
+      "num": 54979,
+      "word": "网购避孕套被配送员骚扰女子发声",
+      "onboard_time": 1745749880,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45410,
+      "num": 45410,
+      "word": "aespa人歌东京开麦舞台",
+      "onboard_time": 1745773397,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 44562,
+      "num": 44562,
+      "word": "KPL",
+      "onboard_time": 1745773817,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 40683,

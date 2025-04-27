@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1745772285937,
+  "endTime": 1745774466591,
   "band_list": [
     {
       "raw_hot": 8960529,
@@ -780,7 +780,7 @@
     },
     {
       "raw_hot": 405440,
-      "num": 185161,
+      "num": 308628,
       "word": "seventeen",
       "onboard_time": 1745769441,
       "rank": 12,
@@ -1587,6 +1587,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 203446,
+      "num": 166052,
+      "word": "石凯避重就轻",
+      "onboard_time": 1745774177,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201503,
       "num": 201503,
       "word": "山东事业编成绩",
@@ -1881,6 +1889,14 @@
       "onboard_time": 1745733681,
       "rank": 36,
       "category": "情感,民生新闻"
+    },
+    {
+      "raw_hot": 182716,
+      "num": 182716,
+      "word": "螺蛳粉闷大米饭",
+      "onboard_time": 1745769021,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 179725,
@@ -2859,14 +2875,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 113060,
-      "num": 113060,
-      "word": "螺蛳粉闷大米饭",
-      "onboard_time": 1745769021,
-      "rank": 46,
-      "category": "美食"
-    },
-    {
       "raw_hot": 112995,
       "num": 280863,
       "word": "美国宠物商店小鸡热销",
@@ -2992,6 +3000,14 @@
       "word": "如何看待拆二代败光近4000万",
       "onboard_time": 1745680163,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102896,
+      "num": 102896,
+      "word": "怀孕蓝猫四肢被砍",
+      "onboard_time": 1745773157,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -3299,6 +3315,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 77124,
+      "num": 69420,
+      "word": "何同学复更",
+      "onboard_time": 1745772978,
+      "rank": 24,
+      "category": "网红"
+    },
+    {
       "raw_hot": 76761,
       "num": 76761,
       "word": "美国似乎在与自己谈判",
@@ -3377,6 +3401,14 @@
       "onboard_time": 1745725762,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 71352,
+      "num": 69256,
+      "word": "刘亦菲总结了一次次肯定",
+      "onboard_time": 1745772798,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 70949,
@@ -3625,6 +3657,22 @@
       "onboard_time": 1745678065,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45410,
+      "num": 45410,
+      "word": "aespa人歌东京开麦舞台",
+      "onboard_time": 1745773397,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 44562,
+      "num": 44562,
+      "word": "KPL",
+      "onboard_time": 1745773817,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 42169,
