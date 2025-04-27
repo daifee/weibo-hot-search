@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/28 00:28:22 ~ 2025/04/28 04:25:36
+本榜单时间：2025/04/28 00:28:22 ~ 2025/04/28 04:38:56
 </p>
 </blockquote>
 <p>
@@ -195,6 +195,12 @@ seventeen（热度：405440）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A9%E7%9D%A1%E7%AE%80%E7%9B%B4%E5%B0%B1%E6%98%AF%E4%BA%BA%E7%B1%BB%E7%9A%84%E6%97%A0%E6%95%8C%E4%BD%9C%E5%BC%8A%E5%99%A8%23" target="weibo">
+早睡简直就是人类的无敌作弊器（热度：120348）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%80%95%E8%A2%AB%E5%A6%BB%E5%AD%90%E5%8F%91%E7%8E%B0%E8%B5%B4%E6%B3%B0%E7%8E%A9%E4%B9%90%E6%B0%B4%E6%B4%97%E6%8A%A4%E7%85%A7%23" target="weibo">
 男子怕被妻子发现赴泰玩乐水洗护照（热度：115079）
 </a>
@@ -233,12 +239,6 @@ seventeen（热度：405440）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9C%A8%E7%94%9F%E6%AE%96%E5%8C%BB%E9%99%A2%E6%89%8B%E6%9C%AF%E5%90%8E%E8%BA%AB%E4%BA%A1%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0%23" target="weibo">
 男子在生殖医院手术后身亡家属发声（热度：104784）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A9%E7%9D%A1%E7%AE%80%E7%9B%B4%E5%B0%B1%E6%98%AF%E4%BA%BA%E7%B1%BB%E7%9A%84%E6%97%A0%E6%95%8C%E4%BD%9C%E5%BC%8A%E5%99%A8%23" target="weibo">
-早睡简直就是人类的无敌作弊器（热度：101892）
 </a>
 </li>
 
@@ -472,7 +472,7 @@ KPL（热度：44562）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%B3%E5%8F%B0%E5%9B%9E%E5%BA%94%E5%9B%A0%E9%80%9A%E7%BC%89%E7%85%A7%E8%B5%B0%E7%BA%A2%E5%A5%B3%E5%AD%90%E8%B4%A6%E5%8F%B7%E8%A2%AB%E5%B0%81%23" target="weibo">
-平台回应因通缉照走红女子账号被封（热度：13511）
+平台回应因通缉照走红女子账号被封（热度：14518）
 </a>
 </li>
 
@@ -491,6 +491,12 @@ KPL（热度：44562）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B6%8A%E5%8D%97%E5%A5%B3%E5%AD%A9%E8%A7%81%E5%88%B0%E8%A7%A3%E6%94%BE%E5%86%9B%E7%96%AF%E7%8B%82%E8%A1%A8%E7%99%BD%23" target="weibo">
 越南女孩见到解放军疯狂表白（热度：10099）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%236%E9%83%A8%E9%97%A8%E8%BF%9B%E4%B8%80%E6%AD%A5%E4%BC%98%E5%8C%96%E7%A6%BB%E5%A2%83%E9%80%80%E7%A8%8E%23" target="weibo">
+6部门进一步优化离境退税（热度：9390）
 </a>
 </li>
 

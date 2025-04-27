@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1745785536806,
+  "endTime": 1745786336159,
   "band_list": [
     {
       "raw_hot": 8960529,
@@ -2835,6 +2835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120348,
+      "num": 120348,
+      "word": "早睡简直就是人类的无敌作弊器",
+      "onboard_time": 1745779935,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 118583,
       "num": 118583,
       "word": "其实你的童年有个张小婉",
@@ -3041,14 +3049,6 @@
       "onboard_time": 1745732361,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 101892,
-      "num": 101892,
-      "word": "早睡简直就是人类的无敌作弊器",
-      "onboard_time": 1745779935,
-      "rank": 28,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 101442,
@@ -4163,6 +4163,14 @@
       "category": "情感,民生新闻"
     },
     {
+      "raw_hot": 14518,
+      "num": 16196,
+      "word": "平台回应因通缉照走红女子账号被封",
+      "onboard_time": 1745783894,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14212,
       "num": 131066,
       "word": "网友吐槽意林收AI写的文",
@@ -4177,14 +4185,6 @@
       "onboard_time": 1745693055,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 13511,
-      "num": 14613,
-      "word": "平台回应因通缉照走红女子账号被封",
-      "onboard_time": 1745783894,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 13354,
@@ -4265,6 +4265,14 @@
       "onboard_time": 1745772078,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 9390,
+      "num": 18333,
+      "word": "6部门进一步优化离境退税",
+      "onboard_time": 1745786173,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 8150,

@@ -1,6 +1,6 @@
 {
   "startTime": 1745771302155,
-  "endTime": 1745785536806,
+  "endTime": 1745786336159,
   "band_list": [
     {
       "raw_hot": 5235330,
@@ -243,6 +243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120348,
+      "num": 120348,
+      "word": "早睡简直就是人类的无敌作弊器",
+      "onboard_time": 1745779935,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 115079,
       "num": 115079,
       "word": "男子怕被妻子发现赴泰玩乐水洗护照",
@@ -297,14 +305,6 @@
       "onboard_time": 1745755760,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 101892,
-      "num": 101892,
-      "word": "早睡简直就是人类的无敌作弊器",
-      "onboard_time": 1745779935,
-      "rank": 28,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 100550,
@@ -611,8 +611,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 13511,
-      "num": 14613,
+      "raw_hot": 14518,
+      "num": 16196,
       "word": "平台回应因通缉照走红女子账号被封",
       "onboard_time": 1745783894,
       "rank": 45,
@@ -641,6 +641,14 @@
       "onboard_time": 1745772078,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 9390,
+      "num": 18333,
+      "word": "6部门进一步优化离境退税",
+      "onboard_time": 1745786173,
+      "rank": 26,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
