@@ -1,0 +1,410 @@
+{
+  "runTime": 1745760529968,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1877786,
+        "num": 1877786,
+        "word": "王一博口型 看不会得",
+        "onboard_time": 1745754561,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 832281,
+        "num": 832281,
+        "word": "酵色直播",
+        "onboard_time": 1745758823,
+        "rank": 1,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 41659,
+        "num": 785687,
+        "word": "六部门发文优化离境退税政策",
+        "onboard_time": 1745743281,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 754997,
+        "num": 754997,
+        "word": "刘亦菲人鱼高定",
+        "onboard_time": 1745755343,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 520305,
+        "num": 520305,
+        "word": "学生向教育局举报饭菜有蛆被骂",
+        "onboard_time": 1745744181,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 466058,
+        "num": 466058,
+        "word": "男子在生殖医院手术后身亡家属发声",
+        "onboard_time": 1745755760,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 601696,
+        "num": 453700,
+        "word": "惠英红 华表影后",
+        "onboard_time": 1745748501,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 585871,
+        "num": 450936,
+        "word": "惠英红华表奖首位中国香港影后",
+        "onboard_time": 1745749581,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 435240,
+        "num": 435240,
+        "word": "饿了么今天便宜到不敢点",
+        "onboard_time": 1745748082,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 255003,
+        "num": 432520,
+        "word": "中日友好医院通报肖某问题属实",
+        "onboard_time": 1745759723,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 999214,
+        "num": 425613,
+        "word": "中日友好医院肖飞",
+        "onboard_time": 1745749521,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 762698,
+        "num": 419489,
+        "word": "酒肉情侣",
+        "onboard_time": 1745752102,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 643428,
+        "num": 412114,
+        "word": "谢霆锋带儿子吃饭",
+        "onboard_time": 1745756782,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 631719,
+        "num": 408937,
+        "word": "香港相差26岁夫妻25天闪婚",
+        "onboard_time": 1745754681,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27535,
+        "num": 403040,
+        "word": "猪学长夜闯南大打卡即溜",
+        "onboard_time": 1745759243,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 546080,
+        "num": 399866,
+        "word": "榜上佳婿 男主",
+        "onboard_time": 1745755343,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 504657,
+        "num": 389637,
+        "word": "第20届华表奖获奖名单",
+        "onboard_time": 1745749641,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 388754,
+        "num": 388754,
+        "word": "小米抽奖抽到总裁卢伟冰",
+        "onboard_time": 1745754740,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 376197,
+        "num": 376197,
+        "word": "顾盼生辉",
+        "onboard_time": 1745759362,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25268,
+        "num": 348858,
+        "word": "宠物免费领养背后究竟多少坑",
+        "onboard_time": 1745760082,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 346384,
+        "num": 346384,
+        "word": "华表奖内场",
+        "onboard_time": 1745747180,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 332843,
+        "num": 332843,
+        "word": "李现回应沉迷打鸟",
+        "onboard_time": 1745759303,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282493,
+        "num": 282493,
+        "word": "冠军驾到王楚钦孙颖莎",
+        "onboard_time": 1745757863,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278246,
+        "num": 278246,
+        "word": "男子怕被妻子发现赴泰玩乐水洗护照",
+        "onboard_time": 1745755641,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 37189,
+        "num": 271911,
+        "word": "揭秘九大外语高校的隐藏优势",
+        "onboard_time": 1745759663,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 267462,
+        "num": 267462,
+        "word": "虞书欣直播",
+        "onboard_time": 1745754921,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278983,
+        "num": 265710,
+        "word": "刘亦菲陈晓李现同框",
+        "onboard_time": 1745759964,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248222,
+        "num": 248222,
+        "word": "金像奖",
+        "onboard_time": 1745746641,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 245385,
+        "num": 245385,
+        "word": "京东外卖",
+        "onboard_time": 1745755162,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 240528,
+        "num": 240528,
+        "word": "张译二封华表影帝",
+        "onboard_time": 1745749581,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 233815,
+        "num": 233815,
+        "word": "中日友好医院肖某已停职",
+        "onboard_time": 1745759964,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233482,
+        "num": 233482,
+        "word": "华表奖红毯",
+        "onboard_time": 1745734941,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 207336,
+        "num": 207336,
+        "word": "中日友好医院发通报",
+        "onboard_time": 1745759604,
+        "rank": 32,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 203713,
+        "num": 203713,
+        "word": "王一博鞠躬谢幕",
+        "onboard_time": 1745759902,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 198284,
+        "num": 198284,
+        "word": "男子在生殖医院做手术后次日身亡",
+        "onboard_time": 1745739262,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194484,
+        "num": 194484,
+        "word": "两代哪吒同框了",
+        "onboard_time": 1745760263,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 187482,
+        "num": 187482,
+        "word": "网购避孕套被配送员骚扰女子发声",
+        "onboard_time": 1745749880,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185692,
+        "num": 185692,
+        "word": "韩安冉准备把账号还给婆婆",
+        "onboard_time": 1745757022,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 180542,
+        "num": 180542,
+        "word": "这几种痣可能藏着癌",
+        "onboard_time": 1745744063,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 21999,
+        "num": 178982,
+        "word": "美国做次腹部CT要9000美元",
+        "onboard_time": 1745760143,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 177602,
+        "num": 177602,
+        "word": "郑晓龙说要和肖战二搭合作",
+        "onboard_time": 1745751441,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176144,
+        "num": 176144,
+        "word": "苏新皓一天一天直拍播放破千万",
+        "onboard_time": 1745759902,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174522,
+        "num": 174522,
+        "word": "香港高铁站偶遇杨幂",
+        "onboard_time": 1745748802,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170553,
+        "num": 170553,
+        "word": "女子丢蛋糕后报警谎称抹了老鼠药",
+        "onboard_time": 1745758762,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164826,
+        "num": 164826,
+        "word": "关晓彤因为拍戏需求漂发了",
+        "onboard_time": 1745758282,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 159419,
+        "num": 159419,
+        "word": "韩安冉向婆婆道歉",
+        "onboard_time": 1745758582,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 159119,
+        "num": 159119,
+        "word": "小奶狗被主人2次狠摔致死",
+        "onboard_time": 1745742981,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138787,
+        "num": 138787,
+        "word": "相约2025电视剧导演大会",
+        "onboard_time": 1745759425,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133134,
+        "num": 133134,
+        "word": "第二十条等获优秀故事片",
+        "onboard_time": 1745760382,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132187,
+        "num": 132187,
+        "word": "WBG对战iG",
+        "onboard_time": 1745753361,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#源源不断培养人工智能高素质人才#"
+    }
+  }
+}

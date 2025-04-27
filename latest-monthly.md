@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/27 20:59:15
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/27 21:28:49
 </p>
 </blockquote>
 <p>
@@ -4269,6 +4269,12 @@ IU向雪莉金赛纶推荐同一心理医生（热度：1041446）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%97%A5%E5%8F%8B%E5%A5%BD%E5%8C%BB%E9%99%A2%E8%82%96%E9%A3%9E%23" target="weibo">
+中日友好医院肖飞（热度：999214）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8E%98%E9%87%91%E8%A7%A3%E9%9B%87%E9%A9%AC%E9%BE%99%23" target="weibo">
 掘金解雇马龙（热度：998651）
 </a>
@@ -5643,6 +5649,12 @@ bite me男伴舞（热度：832510）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%85%B5%E8%89%B2%E7%9B%B4%E6%92%AD%23" target="weibo">
+酵色直播（热度：832281）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%AF%B9%E5%8D%8E%E5%85%B3%E7%A8%8E%E6%88%96%E9%99%8D%E8%87%B350%25%E8%87%B365%25%23" target="weibo">
 美国对华关税或降至50%至65%（热度：832250）
 </a>
@@ -5999,18 +6011,6 @@ YERI和Wendy离开SM（热度：805847）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%B2%B3%E5%B8%82%E5%85%AC%E5%AE%89%E5%B1%80%E8%AD%A6%E5%BE%BD%E6%94%B9%E8%89%B2%E5%86%8D%E5%BC%95%E8%B4%A8%E7%96%91%23" target="weibo">
 三河市公安局警徽改色再引质疑（热度：799490）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%BA%A64.2%E4%B8%87%E5%85%B7%E9%81%97%E4%BD%93%E6%97%A0%E4%BA%BA%E8%AE%A4%E9%A2%86%23" target="weibo">
-日本约4.2万具遗体无人认领（热度：799165）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2392%E5%B2%81%E8%80%81%E8%82%A1%E6%B0%91%E4%B8%80%E4%B8%8A%E5%8D%88%E4%BA%8F%E6%8D%9F%E8%BF%918%E4%B8%87%23" target="weibo">
-92岁老股民一上午亏损近8万（热度：799025）
 </a>
 </li>
 
@@ -6761,6 +6761,12 @@ YERI和Wendy离开SM（热度：805847）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%BB%A5%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%BC%95%E9%A2%86%E7%A7%91%E7%A0%94%E8%8C%83%E5%BC%8F%E5%8F%98%E9%9D%A9%23%23" target="weibo">
 #以人工智能引领科研范式变革#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E6%BA%90%E6%BA%90%E4%B8%8D%E6%96%AD%E5%9F%B9%E5%85%BB%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%AB%98%E7%B4%A0%E8%B4%A8%E4%BA%BA%E6%89%8D%23%23" target="weibo">
+#源源不断培养人工智能高素质人才#
 </a>
 </li>
 
