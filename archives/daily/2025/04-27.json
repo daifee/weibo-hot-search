@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1745720534727,
+  "endTime": 1745723654875,
   "band_list": [
     {
       "raw_hot": 2550222,
@@ -9,6 +9,14 @@
       "onboard_time": 1745682321,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1915190,
+      "num": 285398,
+      "word": "小郑嘻嘻离婚",
+      "onboard_time": 1745719941,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 1728484,
@@ -35,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1124835,
+      "num": 729683,
+      "word": "鹿晗接你下班的男朋友即视感",
+      "onboard_time": 1745721082,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1025303,
       "num": 1025303,
       "word": "84斤女子吐槽买百件衣服基本穿不上",
@@ -49,6 +65,14 @@
       "onboard_time": 1745713340,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 824193,
+      "num": 824193,
+      "word": "恋与深空",
+      "onboard_time": 1745723001,
+      "rank": 1,
+      "category": "游戏"
     },
     {
       "raw_hot": 817949,
@@ -83,6 +107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 675671,
+      "num": 283916,
+      "word": "当代年轻人的恶心穿搭",
+      "onboard_time": 1745720542,
+      "rank": 11,
+      "category": "幽默,突发/灾害"
+    },
+    {
       "raw_hot": 605666,
       "num": 375792,
       "word": "肖战追星和我们也没区别",
@@ -107,6 +139,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 588357,
+      "num": 276254,
+      "word": "柯淳回应酒吧蹦迪",
+      "onboard_time": 1745720361,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 548826,
       "num": 308225,
       "word": "华表奖提名名单",
@@ -123,8 +163,16 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 505750,
+      "num": 229443,
+      "word": "上4休5上4",
+      "onboard_time": 1745720241,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 503307,
-      "num": 206803,
+      "num": 220443,
       "word": "台北七旬老人陈尸水塔全楼喝尸水",
       "onboard_time": 1745674282,
       "rank": 21,
@@ -145,6 +193,14 @@
       "onboard_time": 1745713462,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 451198,
+      "num": 260459,
+      "word": "肖战直接坐在中控台看的",
+      "onboard_time": 1745721021,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 431172,
@@ -185,6 +241,22 @@
       "onboard_time": 1745710700,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 377815,
+      "num": 239610,
+      "word": "临江仙",
+      "onboard_time": 1745720661,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 373063,
+      "num": 232732,
+      "word": "MK致歉",
+      "onboard_time": 1745720182,
+      "rank": 27,
+      "category": "艺人,电竞"
     },
     {
       "raw_hot": 352771,
@@ -235,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 292131,
+      "num": 292131,
+      "word": "易烊千玺带你穿越中国电影120年",
+      "onboard_time": 1745720361,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 285588,
       "num": 285588,
       "word": "台民众持大陆身份证被撤销所谓台户籍",
@@ -252,7 +332,7 @@
     },
     {
       "raw_hot": 273756,
-      "num": 206605,
+      "num": 222955,
       "word": "中医提醒脾胃弱的人少吃3种水果",
       "onboard_time": 1745710341,
       "rank": 23,
@@ -339,20 +419,36 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 212963,
-      "num": 212963,
-      "word": "小郑嘻嘻离婚",
-      "onboard_time": 1745719941,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 210233,
+      "num": 210233,
+      "word": "不存钱才会显得有钱",
+      "onboard_time": 1745721381,
+      "rank": 23,
+      "category": "情感"
     },
     {
-      "raw_hot": 204535,
-      "num": 204535,
-      "word": "柯淳回应酒吧蹦迪",
-      "onboard_time": 1745720361,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 209817,
+      "num": 209817,
+      "word": "聊斋",
+      "onboard_time": 1745720781,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 207776,
+      "num": 207776,
+      "word": "刘学义敖瑞鹏领衔主演",
+      "onboard_time": 1745723540,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 203396,
+      "num": 203396,
+      "word": "瑶大耳狗之梦新皮肤爆料",
+      "onboard_time": 1745723423,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 201503,
@@ -361,6 +457,14 @@
       "onboard_time": 1745719581,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 196150,
+      "num": 196150,
+      "word": "下调离境退税起退点上调现金退税限额",
+      "onboard_time": 1745723423,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 194787,
@@ -379,20 +483,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186209,
+      "num": 197906,
+      "word": "烽影燃梅香",
+      "onboard_time": 1745722342,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 185785,
+      "num": 185785,
+      "word": "怎么判断自己臭不臭",
+      "onboard_time": 1745719641,
+      "rank": 45,
+      "category": "情感,民生新闻"
+    },
+    {
+      "raw_hot": 185345,
+      "num": 185345,
+      "word": "美专家警告美商店货架就要空了",
+      "onboard_time": 1745720962,
+      "rank": 34,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 183975,
       "num": 155867,
       "word": "太原溺水美人鱼仍在重症监护室",
       "onboard_time": 1745674402,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 182986,
-      "num": 182986,
-      "word": "MK致歉",
-      "onboard_time": 1745720182,
-      "rank": 27,
-      "category": "艺人,电竞"
     },
     {
       "raw_hot": 179616,
@@ -427,12 +547,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 168683,
+      "num": 168683,
+      "word": "发现凤梨可以手撕的人真是个天才",
+      "onboard_time": 1745723301,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 161800,
       "num": 161800,
       "word": "戈登绝杀",
       "onboard_time": 1745716041,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160866,
+      "num": 160866,
+      "word": "食物咀嚼次数会影响减肥效果",
+      "onboard_time": 1745719641,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 159352,
@@ -449,6 +585,14 @@
       "onboard_time": 1745684481,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 151466,
+      "num": 151466,
+      "word": "第一次见地铁户型的家",
+      "onboard_time": 1745722162,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 151351,
@@ -483,6 +627,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 144533,
+      "num": 144533,
+      "word": "中式工装席卷外国vintage门店",
+      "onboard_time": 1745722880,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141017,
       "num": 141017,
       "word": "汉代不说一双鞋而说一两鞋",
@@ -491,12 +643,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 139485,
-      "num": 139485,
-      "word": "食物咀嚼次数会影响减肥效果",
-      "onboard_time": 1745719641,
-      "rank": 36,
-      "category": "健康医疗"
+      "raw_hot": 139045,
+      "num": 139045,
+      "word": "无尽的尽头 游湖幼童溺亡案",
+      "onboard_time": 1745723423,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 138277,
@@ -508,7 +660,7 @@
     },
     {
       "raw_hot": 136613,
-      "num": 136613,
+      "num": 209964,
       "word": "补充维生素D能缓解焦虑情绪",
       "onboard_time": 1745716161,
       "rank": 32,
@@ -539,12 +691,28 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 121899,
-      "num": 121899,
-      "word": "上4休5上4",
-      "onboard_time": 1745720241,
-      "rank": 41,
-      "category": "民生新闻"
+      "raw_hot": 129468,
+      "num": 129468,
+      "word": "27岁英专生在深圳一周打5份工",
+      "onboard_time": 1745721502,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 128110,
+      "num": 128110,
+      "word": "许嵩 哦唱错了",
+      "onboard_time": 1745723603,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 123583,
+      "num": 123583,
+      "word": "巴基斯坦部队向克什米尔大规模调动",
+      "onboard_time": 1745720481,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 121867,
@@ -553,14 +721,6 @@
       "onboard_time": 1745711659,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 118764,
-      "num": 118764,
-      "word": "易烊千玺带你穿越中国电影120年",
-      "onboard_time": 1745720361,
-      "rank": 43,
-      "category": "电影"
     },
     {
       "raw_hot": 116392,
@@ -585,14 +745,6 @@
       "onboard_time": 1745665340,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 112142,
-      "num": 112142,
-      "word": "怎么判断自己臭不臭",
-      "onboard_time": 1745719641,
-      "rank": 45,
-      "category": "情感,民生新闻"
     },
     {
       "raw_hot": 110214,
@@ -633,14 +785,6 @@
       "onboard_time": 1745687657,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 101746,
-      "num": 101746,
-      "word": "巴基斯坦部队向克什米尔大规模调动",
-      "onboard_time": 1745720481,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 101442,
@@ -721,6 +865,14 @@
       "onboard_time": 1745668343,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 89768,
+      "num": 204563,
+      "word": "这就是50万级销冠的魅力吗",
+      "onboard_time": 1745723122,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88537,
@@ -923,6 +1075,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 40516,
+      "num": 203534,
+      "word": "距离小龙虾自由还有多远",
+      "onboard_time": 1745722221,
+      "rank": 29,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 39261,
       "num": 245650,
       "word": "胡锡进重申董明珠应道歉",
@@ -945,6 +1105,14 @@
       "onboard_time": 1745661801,
       "rank": 49,
       "category": "网红"
+    },
+    {
+      "raw_hot": 29740,
+      "num": 184079,
+      "word": "特朗普与泽连斯基在梵蒂冈谈了15分钟",
+      "onboard_time": 1745723603,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 29318,
@@ -1113,6 +1281,14 @@
       "onboard_time": 1745709439,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 8092,
+      "num": 162422,
+      "word": "高龄老兵在海军节登上军舰",
+      "onboard_time": 1745723483,
+      "rank": 39,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
@@ -1121,6 +1297,9 @@
     },
     {
       "word": "#为什么中国意味着确定性未来性机遇性#"
+    },
+    {
+      "word": "#从数据看中国经济高质量发展的确定性#"
     }
   ]
 }
