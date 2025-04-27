@@ -1,0 +1,410 @@
+{
+  "runTime": 1745797132825,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1160672,
+        "num": 1160672,
+        "word": "早睡简直就是人类的无敌作弊器",
+        "onboard_time": 1745779935,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 671795,
+        "num": 671795,
+        "word": "因通缉照走红女子账号被封",
+        "onboard_time": 1745781614,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61194,
+        "num": 604906,
+        "word": "中国制造成为全球客商最佳选择",
+        "onboard_time": 1745760682,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 602013,
+        "num": 602013,
+        "word": "曹骏 没受过互联网毒害的美",
+        "onboard_time": 1745768782,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 440166,
+        "num": 440166,
+        "word": "森林狼3比1湖人",
+        "onboard_time": 1745796379,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 381324,
+        "num": 381324,
+        "word": "王勉发出婚礼邀请",
+        "onboard_time": 1745774896,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 335601,
+        "num": 335601,
+        "word": "中日友好医院通报肖某问题属实",
+        "onboard_time": 1745759723,
+        "rank": 6,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 297575,
+        "num": 297575,
+        "word": "深圳兔子警官爆火出圈了",
+        "onboard_time": 1745770101,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252401,
+        "num": 252401,
+        "word": "家属以为医院是正规公立专科医院",
+        "onboard_time": 1745768602,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248787,
+        "num": 248787,
+        "word": "朱雀玄武敕令再申请改48字新名字",
+        "onboard_time": 1745766203,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252935,
+        "num": 241189,
+        "word": "石凯前女友 等解除协议我将不再沉默",
+        "onboard_time": 1745796919,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208382,
+        "num": 208382,
+        "word": "贸易战逼出外贸女老板的第二次创业",
+        "onboard_time": 1745789595,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16671,
+        "num": 199843,
+        "word": "美国乌克兰矿产协议即将完成",
+        "onboard_time": 1745796681,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17718,
+        "num": 199338,
+        "word": "伊朗港口爆炸死亡人数升至40人",
+        "onboard_time": 1745796439,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 22706,
+        "num": 198931,
+        "word": "致俄中将死亡汽车爆炸作案过程披露",
+        "onboard_time": 1745796560,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 198883,
+        "num": 198883,
+        "word": "陈晓为刘亦菲颁奖",
+        "onboard_time": 1745766022,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189574,
+        "num": 189574,
+        "word": "石凯姐姐发长文",
+        "onboard_time": 1745762483,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168610,
+        "num": 168610,
+        "word": "央视曝光假进口的保健品",
+        "onboard_time": 1745763083,
+        "rank": 17,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 166620,
+        "num": 166620,
+        "word": "华表奖首位中国香港影后",
+        "onboard_time": 1745761642,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 162975,
+        "num": 162975,
+        "word": "沈腾果然起早贪黑刷微博",
+        "onboard_time": 1745765964,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 157440,
+        "num": 157440,
+        "word": "女子丢蛋糕后报警谎称抹了老鼠药",
+        "onboard_time": 1745758762,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148463,
+        "num": 148463,
+        "word": "中日友好医院肖飞",
+        "onboard_time": 1745749521,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141559,
+        "num": 141559,
+        "word": "银川市政府就市长信箱已读乱回致歉",
+        "onboard_time": 1745761583,
+        "rank": 22,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 131633,
+        "num": 131633,
+        "word": "男子怕被妻子发现赴泰玩乐水洗护照",
+        "onboard_time": 1745755641,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 128184,
+        "num": 128184,
+        "word": "网购避孕套被配送员骚扰女子发声",
+        "onboard_time": 1745749880,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123451,
+        "num": 123451,
+        "word": "周鸿祎说360借条不是我的公司",
+        "onboard_time": 1745763683,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 108428,
+        "num": 108428,
+        "word": "陈晓说自己是宁波镇海人",
+        "onboard_time": 1745790854,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100457,
+        "num": 100457,
+        "word": "原来这就是生理性喜欢的表现",
+        "onboard_time": 1745766022,
+        "rank": 27,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 77423,
+        "num": 89923,
+        "word": "刘青云四封金像奖影帝",
+        "onboard_time": 1745767464,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 89580,
+        "num": 89580,
+        "word": "利物浦夺得英超冠军",
+        "onboard_time": 1745796379,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154915,
+        "num": 89570,
+        "word": "湖人1比3森林狼",
+        "onboard_time": 1745796800,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95919,
+        "num": 89471,
+        "word": "这对双胞胎真是一个天上一个地下",
+        "onboard_time": 1745794218,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 88979,
+        "num": 88979,
+        "word": "谢霆锋带儿子吃饭",
+        "onboard_time": 1745756782,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69046,
+        "num": 69046,
+        "word": "怀孕蓝猫四肢被砍",
+        "onboard_time": 1745773157,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67531,
+        "num": 67531,
+        "word": "王一博与成龙跨世纪拥抱",
+        "onboard_time": 1745764642,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 63564,
+        "num": 63564,
+        "word": "男子在生殖医院手术后身亡家属发声",
+        "onboard_time": 1745755760,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62729,
+        "num": 62729,
+        "word": "中日友好医院肖某已停职",
+        "onboard_time": 1745759964,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62581,
+        "num": 62581,
+        "word": "广东外贸老板说被关税战敲醒了",
+        "onboard_time": 1745785753,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62004,
+        "num": 62004,
+        "word": "酵色直播",
+        "onboard_time": 1745758823,
+        "rank": 38,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 61178,
+        "num": 61178,
+        "word": "卫诗雅金像奖影后",
+        "onboard_time": 1745765426,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 57199,
+        "num": 61177,
+        "word": "榜上佳婿 男主",
+        "onboard_time": 1745755343,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50599,
+        "num": 61175,
+        "word": "冠军驾到王楚钦孙颖莎",
+        "onboard_time": 1745757863,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49829,
+        "num": 61171,
+        "word": "酒肉情侣",
+        "onboard_time": 1745752102,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 45854,
+        "num": 61169,
+        "word": "印巴紧张局势持续升级",
+        "onboard_time": 1745773996,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 44309,
+        "num": 61167,
+        "word": "YAOCHENG_YI",
+        "onboard_time": 1745796740,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43910,
+        "num": 61164,
+        "word": "刘亦菲总结了一次次肯定",
+        "onboard_time": 1745772798,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41571,
+        "num": 61160,
+        "word": "官方回应伊朗港口爆炸事件",
+        "onboard_time": 1745782094,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 40160,
+        "num": 61158,
+        "word": "张继科曾因腰伤只能爬到厕所",
+        "onboard_time": 1745788694,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38772,
+        "num": 61156,
+        "word": "王一博上台朗诵前边走路边练习",
+        "onboard_time": 1745788934,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 38479,
+        "num": 61155,
+        "word": "景甜庄达菲生图",
+        "onboard_time": 1745793377,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#源源不断培养人工智能高素质人才#"
+    }
+  }
+}

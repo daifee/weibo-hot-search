@@ -1,6 +1,6 @@
 {
   "startTime": 1745771302155,
-  "endTime": 1745796272770,
+  "endTime": 1745797132825,
   "band_list": [
     {
       "raw_hot": 5235330,
@@ -11,8 +11,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 896794,
-      "num": 896794,
+      "raw_hot": 1160672,
+      "num": 1160672,
       "word": "早睡简直就是人类的无敌作弊器",
       "onboard_time": 1745779935,
       "rank": 28,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 792319,
-      "num": 557197,
+      "num": 602013,
       "word": "曹骏 没受过互联网毒害的美",
       "onboard_time": 1745768782,
       "rank": 3,
@@ -35,8 +35,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 572670,
-      "num": 572670,
+      "raw_hot": 671795,
+      "num": 671795,
       "word": "因通缉照走红女子账号被封",
       "onboard_time": 1745781614,
       "rank": 9,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 524613,
-      "num": 169074,
+      "num": 189574,
       "word": "石凯姐姐发长文",
       "onboard_time": 1745762483,
       "rank": 10,
@@ -67,12 +67,28 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 440166,
+      "num": 440166,
+      "word": "森林狼3比1湖人",
+      "onboard_time": 1745796379,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 405440,
       "num": 322395,
       "word": "seventeen",
       "onboard_time": 1745769441,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 381324,
+      "num": 381324,
+      "word": "王勉发出婚礼邀请",
+      "onboard_time": 1745774896,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 366243,
@@ -84,7 +100,7 @@
     },
     {
       "raw_hot": 277572,
-      "num": 160281,
+      "num": 162975,
       "word": "沈腾果然起早贪黑刷微博",
       "onboard_time": 1745765964,
       "rank": 13,
@@ -99,24 +115,24 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 251740,
-      "num": 251740,
-      "word": "王勉发出婚礼邀请",
-      "onboard_time": 1745774896,
-      "rank": 38,
-      "category": "综艺"
+      "raw_hot": 252935,
+      "num": 241189,
+      "word": "石凯前女友 等解除协议我将不再沉默",
+      "onboard_time": 1745796919,
+      "rank": 10,
+      "category": "艺人"
     },
     {
-      "raw_hot": 246835,
-      "num": 246835,
+      "raw_hot": 252401,
+      "num": 252401,
       "word": "家属以为医院是正规公立专科医院",
       "onboard_time": 1745768602,
       "rank": 18,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 240174,
-      "num": 240174,
+      "raw_hot": 248787,
+      "num": 248787,
       "word": "朱雀玄武敕令再申请改48字新名字",
       "onboard_time": 1745766203,
       "rank": 5,
@@ -211,6 +227,30 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 166620,
+      "num": 166620,
+      "word": "华表奖首位中国香港影后",
+      "onboard_time": 1745761642,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 157440,
+      "num": 157440,
+      "word": "女子丢蛋糕后报警谎称抹了老鼠药",
+      "onboard_time": 1745758762,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154915,
+      "num": 89570,
+      "word": "湖人1比3森林狼",
+      "onboard_time": 1745796800,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150063,
       "num": 150063,
       "word": "中日友好医院肖飞",
@@ -228,7 +268,7 @@
     },
     {
       "raw_hot": 149122,
-      "num": 115079,
+      "num": 131633,
       "word": "男子怕被妻子发现赴泰玩乐水洗护照",
       "onboard_time": 1745755641,
       "rank": 27,
@@ -249,22 +289,6 @@
       "onboard_time": 1745761583,
       "rank": 16,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 144987,
-      "num": 115695,
-      "word": "女子丢蛋糕后报警谎称抹了老鼠药",
-      "onboard_time": 1745758762,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 144545,
-      "num": 144545,
-      "word": "华表奖首位中国香港影后",
-      "onboard_time": 1745761642,
-      "rank": 38,
-      "category": "电影"
     },
     {
       "raw_hot": 130388,
@@ -292,7 +316,7 @@
     },
     {
       "raw_hot": 117544,
-      "num": 87128,
+      "num": 108428,
       "word": "陈晓说自己是宁波镇海人",
       "onboard_time": 1745790854,
       "rank": 30,
@@ -363,6 +387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95919,
+      "num": 89471,
+      "word": "这对双胞胎真是一个天上一个地下",
+      "onboard_time": 1745794218,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 93804,
       "num": 93804,
       "word": "张凌赫替何苏叶现场问诊",
@@ -379,20 +411,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 89580,
+      "num": 89580,
+      "word": "利物浦夺得英超冠军",
+      "onboard_time": 1745796379,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89320,
       "num": 89320,
       "word": "破皮的粉刺针竟是家居用品公司生产",
       "onboard_time": 1745762183,
       "rank": 37,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 86889,
-      "num": 59376,
-      "word": "这对双胞胎真是一个天上一个地下",
-      "onboard_time": 1745794218,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 84160,
@@ -515,6 +547,14 @@
       "category": "情感,民生新闻"
     },
     {
+      "raw_hot": 61194,
+      "num": 604906,
+      "word": "中国制造成为全球客商最佳选择",
+      "onboard_time": 1745760682,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 57813,
       "num": 62148,
       "word": "哪吒2华表奖特别贡献影片",
@@ -523,20 +563,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 56557,
-      "num": 557745,
-      "word": "中国制造成为全球客商最佳选择",
-      "onboard_time": 1745760682,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 51214,
-      "num": 51214,
+      "num": 61155,
       "word": "景甜庄达菲生图",
       "onboard_time": 1745793377,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 45854,
+      "num": 61169,
+      "word": "印巴紧张局势持续升级",
+      "onboard_time": 1745773996,
+      "rank": 24,
+      "category": "国际时政"
     },
     {
       "raw_hot": 45410,
@@ -555,24 +595,32 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 43872,
-      "num": 60489,
-      "word": "印巴紧张局势持续升级",
-      "onboard_time": 1745773996,
-      "rank": 24,
-      "category": "国际时政"
+      "raw_hot": 44309,
+      "num": 61167,
+      "word": "YAOCHENG_YI",
+      "onboard_time": 1745796740,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 41817,
-      "num": 50534,
+      "num": 61160,
       "word": "官方回应伊朗港口爆炸事件",
       "onboard_time": 1745782094,
       "rank": 48,
       "category": "国际时政"
     },
     {
+      "raw_hot": 40160,
+      "num": 61158,
+      "word": "张继科曾因腰伤只能爬到厕所",
+      "onboard_time": 1745788694,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 40134,
-      "num": 50531,
+      "num": 61156,
       "word": "王一博上台朗诵前边走路边练习",
       "onboard_time": 1745788934,
       "rank": 41,
@@ -603,14 +651,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 33177,
-      "num": 50515,
-      "word": "张继科曾因腰伤只能爬到厕所",
-      "onboard_time": 1745788694,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 31322,
       "num": 44596,
       "word": "周深华表奖开场",
@@ -633,6 +673,14 @@
       "onboard_time": 1745777836,
       "rank": 44,
       "category": "电影,时尚"
+    },
+    {
+      "raw_hot": 22706,
+      "num": 198931,
+      "word": "致俄中将死亡汽车爆炸作案过程披露",
+      "onboard_time": 1745796560,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 22582,
@@ -673,6 +721,22 @@
       "onboard_time": 1745734941,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 17718,
+      "num": 199338,
+      "word": "伊朗港口爆炸死亡人数升至40人",
+      "onboard_time": 1745796439,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 16671,
+      "num": 199843,
+      "word": "美国乌克兰矿产协议即将完成",
+      "onboard_time": 1745796681,
+      "rank": 12,
+      "category": "国际时政"
     },
     {
       "raw_hot": 12094,

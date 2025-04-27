@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/28 07:24:32
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/28 07:38:52
 </p>
 </blockquote>
 <p>
@@ -3315,6 +3315,12 @@ jiejie恋情（热度：1161605）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A9%E7%9D%A1%E7%AE%80%E7%9B%B4%E5%B0%B1%E6%98%AF%E4%BA%BA%E7%B1%BB%E7%9A%84%E6%97%A0%E6%95%8C%E4%BD%9C%E5%BC%8A%E5%99%A8%23" target="weibo">
+早睡简直就是人类的无敌作弊器（热度：1160672）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%95%E5%A6%87%E5%81%9A%E5%9B%9B%E7%BB%B4%E6%84%8F%E5%A4%96%E6%8B%8D%E4%B8%8B%E5%AE%9D%E5%AE%9D%E5%B9%B2%E9%A5%AD%E7%9E%AC%E9%97%B4%23" target="weibo">
 孕妇做四维意外拍下宝宝干饭瞬间（热度：1158811）
 </a>
@@ -5135,12 +5141,6 @@ SM新男团 撞名（热度：910464）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E6%B2%A1%E8%BD%A8%E7%A1%AC%E5%87%BA%E6%8D%89%E5%A5%B8%E7%8E%B0%E5%9C%BA%23" target="weibo">
 第一次见没轨硬出捉奸现场（热度：897017）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A9%E7%9D%A1%E7%AE%80%E7%9B%B4%E5%B0%B1%E6%98%AF%E4%BA%BA%E7%B1%BB%E7%9A%84%E6%97%A0%E6%95%8C%E4%BD%9C%E5%BC%8A%E5%99%A8%23" target="weibo">
-早睡简直就是人类的无敌作弊器（热度：896794）
 </a>
 </li>
 
