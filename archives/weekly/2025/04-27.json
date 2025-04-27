@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1745767466814,
+  "endTime": 1745768285079,
   "band_list": [
     {
       "raw_hot": 8960529,
@@ -323,19 +323,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 789920,
+      "num": 482478,
+      "word": "陈晓为刘亦菲颁奖",
+      "onboard_time": 1745766022,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 782789,
       "num": 754997,
       "word": "刘亦菲人鱼高定",
       "onboard_time": 1745755343,
       "rank": 7,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 761732,
-      "num": 482478,
-      "word": "陈晓为刘亦菲颁奖",
-      "onboard_time": 1745766022,
-      "rank": 6,
       "category": "剧集"
     },
     {
@@ -1075,20 +1075,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 273564,
+      "num": 271124,
+      "word": "原来这就是生理性喜欢的表现",
+      "onboard_time": 1745766022,
+      "rank": 23,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 273171,
       "num": 215918,
       "word": "鹿晗新歌是写给粉丝的",
       "onboard_time": 1745748741,
       "rank": 29,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 271124,
-      "num": 271124,
-      "word": "原来这就是生理性喜欢的表现",
-      "onboard_time": 1745766022,
-      "rank": 23,
-      "category": "科学科普"
     },
     {
       "raw_hot": 270720,
@@ -1113,6 +1113,14 @@
       "onboard_time": 1745749880,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 265996,
+      "num": 223945,
+      "word": "沈腾果然起早贪黑刷微博",
+      "onboard_time": 1745765964,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 265304,
@@ -1201,6 +1209,14 @@
       "onboard_time": 1745730802,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 247140,
+      "num": 293374,
+      "word": "朱雀玄武敕令再申请改48字新名字",
+      "onboard_time": 1745766203,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 246282,
@@ -1401,14 +1417,6 @@
       "onboard_time": 1745717721,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 216295,
-      "num": 216295,
-      "word": "沈腾果然起早贪黑刷微博",
-      "onboard_time": 1745765964,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 216036,
@@ -1696,6 +1704,14 @@
       "word": "王俊凯和一群实力派演员坐在一起",
       "onboard_time": 1745757982,
       "rank": 28,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 191843,
+      "num": 188070,
+      "word": "刘青云四封金像奖影帝",
+      "onboard_time": 1745767464,
+      "rank": 26,
       "category": "电影"
     },
     {
@@ -2019,14 +2035,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 160919,
-      "num": 293374,
-      "word": "朱雀玄武敕令再申请改48字新名字",
-      "onboard_time": 1745766203,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 160866,
       "num": 160866,
       "word": "食物咀嚼次数会影响减肥效果",
@@ -2329,6 +2337,14 @@
       "onboard_time": 1745755641,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 145286,
+      "num": 145286,
+      "word": "破地狱",
+      "onboard_time": 1745767224,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 145206,
@@ -2715,14 +2731,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 123946,
-      "num": 123946,
-      "word": "破地狱",
-      "onboard_time": 1745767224,
-      "rank": 40,
-      "category": "电影"
-    },
-    {
       "raw_hot": 122145,
       "num": 122145,
       "word": "UFC",
@@ -2979,12 +2987,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 98718,
+      "num": 98718,
+      "word": "一趟列车一千人一半是放春假的小孩",
+      "onboard_time": 1745767884,
+      "rank": 48,
+      "category": "幽默,民生新闻"
+    },
+    {
       "raw_hot": 98274,
       "num": 298925,
       "word": "市场监管总局回应长和港口交易",
       "onboard_time": 1745748501,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 97926,
+      "num": 97926,
+      "word": "谢霆锋你们的青春也是我的青春",
+      "onboard_time": 1745768243,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 97205,
@@ -3891,7 +3915,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 14449,
+      "raw_hot": 14887,
       "num": 124224,
       "word": "盲道是盲人心中的灯塔",
       "onboard_time": 1745767284,
