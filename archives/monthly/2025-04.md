@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/27 22:38:52
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/27 23:24:26
 </p>
 </blockquote>
 <p>
@@ -107,6 +107,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%88%9A%E8%A2%AB%E9%80%AE%E6%8D%95%23" target="weibo">
 李刚被逮捕（热度：10072261）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9F%B3%E5%87%AF%E5%9B%9E%E5%BA%94%23" target="weibo">
+石凯回应（热度：8960529）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ YERI和Wendy离开SM（热度：805847）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%80%82%E5%BA%A6%E5%87%8F%E5%B0%91%E7%BE%8E%E5%9B%BD%E5%BD%B1%E7%89%87%E8%BF%9B%E5%8F%A3%E6%95%B0%23" target="weibo">
 适度减少美国影片进口数（热度：802062）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B7%AE%E6%B0%B4%E7%AB%B9%E4%BA%AD%20%E5%BB%B6%E6%9C%9F%23" target="weibo">
-淮水竹亭 延期（热度：800908）
 </a>
 </li>
 

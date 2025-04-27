@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1745764732092,
+  "endTime": 1745767466814,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -129,6 +129,14 @@
       "onboard_time": 1745290641,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 8960529,
+      "num": 8960529,
+      "word": "石凯回应",
+      "onboard_time": 1745764943,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 8920967,
@@ -8555,6 +8563,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 761732,
+      "num": 482478,
+      "word": "陈晓为刘亦菲颁奖",
+      "onboard_time": 1745766022,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 760924,
       "num": 246309,
       "word": "8个月女婴被虐待体重仅6斤",
@@ -12155,6 +12171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 577010,
+      "num": 577010,
+      "word": "破皮的粉刺针竟是家居用品公司生产",
+      "onboard_time": 1745762183,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 576815,
       "num": 272121,
       "word": "又被面包店逼疯一个",
@@ -12801,6 +12825,14 @@
       "onboard_time": 1744288703,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 546749,
+      "num": 294254,
+      "word": "卫诗雅金像奖影后",
+      "onboard_time": 1745765426,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 546490,
@@ -13907,6 +13939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 511854,
+      "num": 511854,
+      "word": "央视曝光假进口的保健品",
+      "onboard_time": 1745763083,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 511816,
       "num": 283101,
       "word": "雷军捐资1亿成立守护资金消息不实",
@@ -14209,14 +14249,6 @@
       "onboard_time": 1744354463,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 503923,
-      "num": 503923,
-      "word": "破皮的粉刺针竟是家居用品公司生产",
-      "onboard_time": 1745762183,
-      "rank": 19,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 503911,
@@ -24563,6 +24595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 295092,
+      "num": 295092,
+      "word": "周鸿祎说360借条不是我的公司",
+      "onboard_time": 1745763683,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 295031,
       "num": 295031,
       "word": "赴山海过审",
@@ -26539,6 +26579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 271124,
+      "num": 271124,
+      "word": "原来这就是生理性喜欢的表现",
+      "onboard_time": 1745766022,
+      "rank": 23,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 271068,
       "num": 271068,
       "word": "女童过马路被罐车撞倒身亡",
@@ -28065,14 +28113,6 @@
       "onboard_time": 1745158589,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 255923,
-      "num": 255923,
-      "word": "周鸿祎说360借条不是我的公司",
-      "onboard_time": 1745763683,
-      "rank": 18,
-      "category": "互联网"
     },
     {
       "raw_hot": 255856,
@@ -30931,14 +30971,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 230676,
-      "num": 387457,
-      "word": "央视曝光假进口的保健品",
-      "onboard_time": 1745763083,
-      "rank": 9,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 230649,
       "num": 249444,
       "word": "A股三大股指反弹",
@@ -33121,6 +33153,14 @@
       "onboard_time": 1743464300,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 216295,
+      "num": 216295,
+      "word": "沈腾果然起早贪黑刷微博",
+      "onboard_time": 1745765964,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 216264,
@@ -49731,6 +49771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160919,
+      "num": 293374,
+      "word": "朱雀玄武敕令再申请改48字新名字",
+      "onboard_time": 1745766203,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 160913,
       "num": 160913,
       "word": "结婚前分手是什么体验",
@@ -50097,6 +50145,14 @@
       "onboard_time": 1744292363,
       "rank": 17,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 160124,
+      "num": 160124,
+      "word": "张凌赫替何苏叶现场问诊",
+      "onboard_time": 1745765964,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 160112,
@@ -56048,6 +56104,14 @@
       "word": "RW战胜eStar",
       "onboard_time": 1745507302,
       "rank": 39,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 144678,
+      "num": 144678,
+      "word": "Scout冰女五杀",
+      "onboard_time": 1745765363,
+      "rank": 33,
       "category": "电竞"
     },
     {
@@ -64459,6 +64523,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 123946,
+      "num": 123946,
+      "word": "破地狱",
+      "onboard_time": 1745767224,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 123922,
       "num": 123922,
       "word": "久酷五杀老东家",
@@ -68169,6 +68241,14 @@
       "onboard_time": 1744721242,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 112995,
+      "num": 280863,
+      "word": "美国宠物商店小鸡热销",
+      "onboard_time": 1745765724,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 112975,
@@ -93281,6 +93361,14 @@
       "onboard_time": 1744572194,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 14449,
+      "num": 124224,
+      "word": "盲道是盲人心中的灯塔",
+      "onboard_time": 1745767284,
+      "rank": 39,
+      "category": "情感,民生新闻"
     },
     {
       "raw_hot": 14447,

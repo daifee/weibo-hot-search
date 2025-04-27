@@ -1,0 +1,410 @@
+{
+  "runTime": 1745767466814,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8960529,
+        "num": 8960529,
+        "word": "石凯回应",
+        "onboard_time": 1745764943,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1038488,
+        "num": 1038488,
+        "word": "中日友好医院通报肖某问题属实",
+        "onboard_time": 1745759723,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 53606,
+        "num": 603355,
+        "word": "中国制造成为全球客商最佳选择",
+        "onboard_time": 1745760682,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 577010,
+        "num": 577010,
+        "word": "破皮的粉刺针竟是家居用品公司生产",
+        "onboard_time": 1745762183,
+        "rank": 3,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 511854,
+        "num": 511854,
+        "word": "央视曝光假进口的保健品",
+        "onboard_time": 1745763083,
+        "rank": 4,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1653643,
+        "num": 492472,
+        "word": "石凯姐姐发长文",
+        "onboard_time": 1745762483,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 761732,
+        "num": 482478,
+        "word": "陈晓为刘亦菲颁奖",
+        "onboard_time": 1745766022,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 737691,
+        "num": 443922,
+        "word": "王一博口型 看不会得",
+        "onboard_time": 1745754561,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 351217,
+        "num": 351217,
+        "word": "银川市政府就市长信箱已读乱回致歉",
+        "onboard_time": 1745761583,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 295092,
+        "num": 295092,
+        "word": "周鸿祎说360借条不是我的公司",
+        "onboard_time": 1745763683,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 614974,
+        "num": 294778,
+        "word": "酒肉情侣",
+        "onboard_time": 1745752102,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 382803,
+        "num": 294582,
+        "word": "两代哪吒同框了",
+        "onboard_time": 1745760263,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 546749,
+        "num": 294254,
+        "word": "卫诗雅金像奖影后",
+        "onboard_time": 1745765426,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 425556,
+        "num": 293705,
+        "word": "刘亦菲陈晓李现同框",
+        "onboard_time": 1745759964,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160919,
+        "num": 293374,
+        "word": "朱雀玄武敕令再申请改48字新名字",
+        "onboard_time": 1745766203,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 394557,
+        "num": 292911,
+        "word": "中日友好医院肖飞",
+        "onboard_time": 1745749521,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 333695,
+        "num": 292254,
+        "word": "第20届华表奖获奖名单",
+        "onboard_time": 1745749641,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 318914,
+        "num": 292191,
+        "word": "金像奖获奖名单",
+        "onboard_time": 1745760863,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 291814,
+        "num": 291814,
+        "word": "中日友好医院肖某已停职",
+        "onboard_time": 1745759964,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112995,
+        "num": 280863,
+        "word": "美国宠物商店小鸡热销",
+        "onboard_time": 1745765724,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 384552,
+        "num": 280705,
+        "word": "惠英红华表奖首位中国香港影后",
+        "onboard_time": 1745749581,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 280357,
+        "num": 280357,
+        "word": "冠军驾到王楚钦孙颖莎",
+        "onboard_time": 1745757863,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210722,
+        "num": 271805,
+        "word": "饿了么今天便宜到不敢点",
+        "onboard_time": 1745748082,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 271124,
+        "num": 271124,
+        "word": "原来这就是生理性喜欢的表现",
+        "onboard_time": 1745766022,
+        "rank": 23,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 216295,
+        "num": 216295,
+        "word": "沈腾果然起早贪黑刷微博",
+        "onboard_time": 1745765964,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 211216,
+        "num": 211216,
+        "word": "谢霆锋带儿子吃饭",
+        "onboard_time": 1745756782,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199631,
+        "num": 199631,
+        "word": "男子怕被妻子发现赴泰玩乐水洗护照",
+        "onboard_time": 1745755641,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 192127,
+        "num": 192127,
+        "word": "女子丢蛋糕后报警谎称抹了老鼠药",
+        "onboard_time": 1745758762,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177648,
+        "num": 177648,
+        "word": "华表奖内场",
+        "onboard_time": 1745747180,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 160124,
+        "num": 160124,
+        "word": "张凌赫替何苏叶现场问诊",
+        "onboard_time": 1745765964,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158017,
+        "num": 158017,
+        "word": "顾盼生辉",
+        "onboard_time": 1745759362,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154842,
+        "num": 154842,
+        "word": "王一博与成龙跨世纪拥抱",
+        "onboard_time": 1745764642,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 146268,
+        "num": 146268,
+        "word": "小奶狗被主人2次狠摔致死",
+        "onboard_time": 1745742981,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144678,
+        "num": 144678,
+        "word": "Scout冰女五杀",
+        "onboard_time": 1745765363,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122518,
+        "num": 143784,
+        "word": "中国海警回应菲6人非法登上铁线礁",
+        "onboard_time": 1745764103,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 143519,
+        "num": 143519,
+        "word": "白桃星座",
+        "onboard_time": 1745765783,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142929,
+        "num": 142929,
+        "word": "华表奖首位中国香港影后",
+        "onboard_time": 1745761642,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138219,
+        "num": 138219,
+        "word": "金像奖",
+        "onboard_time": 1745746641,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137089,
+        "num": 137089,
+        "word": "李沁电视剧导演大会年度影响力女演员",
+        "onboard_time": 1745763924,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14449,
+        "num": 124224,
+        "word": "盲道是盲人心中的灯塔",
+        "onboard_time": 1745767284,
+        "rank": 39,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 123946,
+        "num": 123946,
+        "word": "破地狱",
+        "onboard_time": 1745767224,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121842,
+        "num": 121842,
+        "word": "榜上佳婿 男主",
+        "onboard_time": 1745755343,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118649,
+        "num": 118649,
+        "word": "王源去看了张杰的演唱会",
+        "onboard_time": 1745763503,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 117037,
+        "num": 117037,
+        "word": "韩安冉向婆婆道歉",
+        "onboard_time": 1745758582,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 91397,
+        "num": 115594,
+        "word": "日产N7舒适满配119900元起",
+        "onboard_time": 1745762603,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 114624,
+        "num": 114624,
+        "word": "时代少年团印象最深的热搜",
+        "onboard_time": 1745763503,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114618,
+        "num": 114618,
+        "word": "男子在生殖医院手术后身亡家属发声",
+        "onboard_time": 1745755760,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112037,
+        "num": 112037,
+        "word": "酵色直播",
+        "onboard_time": 1745758823,
+        "rank": 47,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 109949,
+        "num": 109949,
+        "word": "风象星座为什么越爱越无力",
+        "onboard_time": 1745764345,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 103931,
+        "num": 103931,
+        "word": "华表奖红毯",
+        "onboard_time": 1745734941,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#源源不断培养人工智能高素质人才#"
+    }
+  }
+}

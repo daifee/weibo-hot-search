@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/04/27 22:38:52
+本榜单时间：2025/01/01 00:26:38 ~ 2025/04/27 23:24:26
 </p>
 </blockquote>
 <p>
@@ -539,6 +539,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E4%B8%B4%E6%B1%BE%E5%9C%B0%E9%9C%87%23" target="weibo">
 山西临汾地震（热度：9076991）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9F%B3%E5%87%AF%E5%9B%9E%E5%BA%94%23" target="weibo">
+石凯回应（热度：8960529）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ DeepSeek（热度：3038517）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2393%E5%B2%81%E5%BC%BA%E5%A5%B8%E4%B8%8D%E6%94%B6%E6%8A%BC%E8%80%81%E4%BA%BA%E5%B7%B2%E6%97%A0%E6%B3%95%E8%87%AA%E4%B8%BB%E8%A1%8C%E8%B5%B0%23" target="weibo">
 93岁强奸不收押老人已无法自主行走（热度：3015085）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9Arap%23" target="weibo">
-王一博rap（热度：3011890）
 </a>
 </li>
 

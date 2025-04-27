@@ -1,7 +1,15 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1745764732092,
+  "endTime": 1745767466814,
   "band_list": [
+    {
+      "raw_hot": 8960529,
+      "num": 8960529,
+      "word": "石凯回应",
+      "onboard_time": 1745764943,
+      "rank": 0,
+      "category": "艺人"
+    },
     {
       "raw_hot": 4073618,
       "num": 4073618,
@@ -323,6 +331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 761732,
+      "num": 482478,
+      "word": "陈晓为刘亦菲颁奖",
+      "onboard_time": 1745766022,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 739738,
       "num": 739738,
       "word": "肖战 孙燕姿演唱会",
@@ -459,6 +475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 577010,
+      "num": 577010,
+      "word": "破皮的粉刺针竟是家居用品公司生产",
+      "onboard_time": 1745762183,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 576033,
       "num": 576033,
       "word": "马英九说实在看不下去了",
@@ -488,6 +512,14 @@
       "word": "华表奖提名名单",
       "onboard_time": 1745669423,
       "rank": 6,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 546749,
+      "num": 294254,
+      "word": "卫诗雅金像奖影后",
+      "onboard_time": 1745765426,
+      "rank": 12,
       "category": "电影"
     },
     {
@@ -555,20 +587,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 511854,
+      "num": 511854,
+      "word": "央视曝光假进口的保健品",
+      "onboard_time": 1745763083,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 507989,
       "num": 352290,
       "word": "冠军驾到王楚钦孙颖莎",
       "onboard_time": 1745757863,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 503923,
-      "num": 503923,
-      "word": "破皮的粉刺针竟是家居用品公司生产",
-      "onboard_time": 1745762183,
-      "rank": 19,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 503307,
@@ -987,6 +1019,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 295092,
+      "num": 295092,
+      "word": "周鸿祎说360借条不是我的公司",
+      "onboard_time": 1745763683,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 289065,
       "num": 289065,
       "word": "张淼怡聊斋开机生图",
@@ -1041,6 +1081,14 @@
       "onboard_time": 1745748741,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 271124,
+      "num": 271124,
+      "word": "原来这就是生理性喜欢的表现",
+      "onboard_time": 1745766022,
+      "rank": 23,
+      "category": "科学科普"
     },
     {
       "raw_hot": 270720,
@@ -1113,14 +1161,6 @@
       "onboard_time": 1745682622,
       "rank": 43,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 255923,
-      "num": 255923,
-      "word": "周鸿祎说360借条不是我的公司",
-      "onboard_time": 1745763683,
-      "rank": 18,
-      "category": "互联网"
     },
     {
       "raw_hot": 254803,
@@ -1251,14 +1291,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 230676,
-      "num": 387457,
-      "word": "央视曝光假进口的保健品",
-      "onboard_time": 1745763083,
-      "rank": 9,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 229293,
       "num": 229293,
       "word": "电竞选手洗澡一定要注意安全",
@@ -1369,6 +1401,14 @@
       "onboard_time": 1745717721,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 216295,
+      "num": 216295,
+      "word": "沈腾果然起早贪黑刷微博",
+      "onboard_time": 1745765964,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 216036,
@@ -1979,6 +2019,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 160919,
+      "num": 293374,
+      "word": "朱雀玄武敕令再申请改48字新名字",
+      "onboard_time": 1745766203,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 160866,
       "num": 160866,
       "word": "食物咀嚼次数会影响减肥效果",
@@ -2009,6 +2057,14 @@
       "onboard_time": 1745750062,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160124,
+      "num": 160124,
+      "word": "张凌赫替何苏叶现场问诊",
+      "onboard_time": 1745765964,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 160112,
@@ -2283,6 +2339,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 144678,
+      "num": 144678,
+      "word": "Scout冰女五杀",
+      "onboard_time": 1745765363,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 144533,
       "num": 144533,
       "word": "中式工装席卷外国vintage门店",
@@ -2313,6 +2377,14 @@
       "onboard_time": 1745762423,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143519,
+      "num": 143519,
+      "word": "白桃星座",
+      "onboard_time": 1745765783,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 143195,
@@ -2643,6 +2715,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 123946,
+      "num": 123946,
+      "word": "破地狱",
+      "onboard_time": 1745767224,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 122145,
       "num": 122145,
       "word": "UFC",
@@ -2721,6 +2801,14 @@
       "onboard_time": 1745742082,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 112995,
+      "num": 280863,
+      "word": "美国宠物商店小鸡热销",
+      "onboard_time": 1745765724,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 112871,
@@ -3801,6 +3889,14 @@
       "onboard_time": 1745691675,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 14449,
+      "num": 124224,
+      "word": "盲道是盲人心中的灯塔",
+      "onboard_time": 1745767284,
+      "rank": 39,
+      "category": "情感,民生新闻"
     },
     {
       "raw_hot": 14212,
