@@ -1,6 +1,6 @@
 {
   "startTime": 1745771302155,
-  "endTime": 1745793593352,
+  "endTime": 1745796272770,
   "band_list": [
     {
       "raw_hot": 5235330,
@@ -11,8 +11,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 896794,
+      "num": 896794,
+      "word": "早睡简直就是人类的无敌作弊器",
+      "onboard_time": 1745779935,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 792319,
-      "num": 534471,
+      "num": 557197,
       "word": "曹骏 没受过互联网毒害的美",
       "onboard_time": 1745768782,
       "rank": 3,
@@ -24,6 +32,14 @@
       "word": "深圳兔子警官爆火出圈了",
       "onboard_time": 1745770101,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 572670,
+      "num": 572670,
+      "word": "因通缉照走红女子账号被封",
+      "onboard_time": 1745781614,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -51,14 +67,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 447430,
-      "num": 510495,
-      "word": "早睡简直就是人类的无敌作弊器",
-      "onboard_time": 1745779935,
-      "rank": 28,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 405440,
       "num": 322395,
       "word": "seventeen",
@@ -83,11 +91,27 @@
       "category": "电影"
     },
     {
-      "raw_hot": 265054,
-      "num": 265054,
-      "word": "因通缉照走红女子账号被封",
-      "onboard_time": 1745781614,
-      "rank": 9,
+      "raw_hot": 253550,
+      "num": 253550,
+      "word": "贸易战逼出外贸女老板的第二次创业",
+      "onboard_time": 1745789595,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 251740,
+      "num": 251740,
+      "word": "王勉发出婚礼邀请",
+      "onboard_time": 1745774896,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 246835,
+      "num": 246835,
+      "word": "家属以为医院是正规公立专科医院",
+      "onboard_time": 1745768602,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -131,14 +155,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 213128,
-      "num": 213128,
-      "word": "贸易战逼出外贸女老板的第二次创业",
-      "onboard_time": 1745789595,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 209870,
       "num": 159888,
       "word": "卫诗雅金像奖影后",
@@ -161,14 +177,6 @@
       "onboard_time": 1745760263,
       "rank": 8,
       "category": "电影"
-    },
-    {
-      "raw_hot": 190305,
-      "num": 190305,
-      "word": "家属以为医院是正规公立专科医院",
-      "onboard_time": 1745768602,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 182716,
@@ -211,6 +219,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149779,
+      "num": 149779,
+      "word": "网购避孕套被配送员骚扰女子发声",
+      "onboard_time": 1745749880,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149122,
+      "num": 115079,
+      "word": "男子怕被妻子发现赴泰玩乐水洗护照",
+      "onboard_time": 1745755641,
+      "rank": 27,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 146545,
       "num": 110472,
       "word": "王一博姚晨合影",
@@ -227,12 +251,20 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 132086,
+      "raw_hot": 144987,
       "num": 115695,
       "word": "女子丢蛋糕后报警谎称抹了老鼠药",
       "onboard_time": 1745758762,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144545,
+      "num": 144545,
+      "word": "华表奖首位中国香港影后",
+      "onboard_time": 1745761642,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 130388,
@@ -259,20 +291,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 115100,
-      "num": 115100,
-      "word": "王勉发出婚礼邀请",
-      "onboard_time": 1745774896,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 115079,
-      "num": 115079,
-      "word": "男子怕被妻子发现赴泰玩乐水洗护照",
-      "onboard_time": 1745755641,
-      "rank": 27,
-      "category": "海外新闻"
+      "raw_hot": 117544,
+      "num": 87128,
+      "word": "陈晓说自己是宁波镇海人",
+      "onboard_time": 1745790854,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 113490,
@@ -363,12 +387,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 87762,
-      "num": 87762,
-      "word": "华表奖首位中国香港影后",
-      "onboard_time": 1745761642,
-      "rank": 38,
-      "category": "电影"
+      "raw_hot": 86889,
+      "num": 59376,
+      "word": "这对双胞胎真是一个天上一个地下",
+      "onboard_time": 1745794218,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 84160,
@@ -377,6 +401,14 @@
       "onboard_time": 1745758823,
       "rank": 39,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 84153,
+      "num": 84153,
+      "word": "曝石凯帮依依还房贷",
+      "onboard_time": 1745785154,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 83695,
@@ -443,22 +475,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 73929,
-      "num": 70837,
-      "word": "网购避孕套被配送员骚扰女子发声",
-      "onboard_time": 1745749880,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 71645,
-      "num": 54065,
-      "word": "陈晓说自己是宁波镇海人",
-      "onboard_time": 1745790854,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 71569,
       "num": 69256,
       "word": "刘亦菲总结了一次次肯定",
@@ -475,8 +491,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 64698,
-      "num": 64698,
+      "raw_hot": 67441,
+      "num": 67441,
       "word": "广东外贸老板说被关税战敲醒了",
       "onboard_time": 1745785753,
       "rank": 9,
@@ -507,12 +523,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 54505,
-      "num": 54505,
-      "word": "曝石凯帮依依还房贷",
-      "onboard_time": 1745785154,
-      "rank": 13,
-      "category": "艺人"
+      "raw_hot": 56557,
+      "num": 557745,
+      "word": "中国制造成为全球客商最佳选择",
+      "onboard_time": 1745760682,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 51214,
+      "num": 51214,
+      "word": "景甜庄达菲生图",
+      "onboard_time": 1745793377,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 45410,
@@ -531,24 +555,56 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 40683,
-      "num": 546616,
-      "word": "中国制造成为全球客商最佳选择",
-      "onboard_time": 1745760682,
-      "rank": 2,
-      "category": "国内时政"
+      "raw_hot": 43872,
+      "num": 60489,
+      "word": "印巴紧张局势持续升级",
+      "onboard_time": 1745773996,
+      "rank": 24,
+      "category": "国际时政"
     },
     {
-      "raw_hot": 31845,
-      "num": 31845,
+      "raw_hot": 41817,
+      "num": 50534,
+      "word": "官方回应伊朗港口爆炸事件",
+      "onboard_time": 1745782094,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 40134,
+      "num": 50531,
+      "word": "王一博上台朗诵前边走路边练习",
+      "onboard_time": 1745788934,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 37463,
+      "num": 50523,
+      "word": "李艺彤你怎么偷偷喝中药了",
+      "onboard_time": 1745781315,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 36432,
+      "num": 50521,
       "word": "韩安冉向婆婆道歉",
       "onboard_time": 1745758582,
       "rank": 40,
       "category": "网红"
     },
     {
-      "raw_hot": 31807,
-      "num": 31807,
+      "raw_hot": 35926,
+      "num": 50517,
+      "word": "谢霆锋你们的青春也是我的青春",
+      "onboard_time": 1745768243,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 33177,
+      "num": 50515,
       "word": "张继科曾因腰伤只能爬到厕所",
       "onboard_time": 1745788694,
       "rank": 49,
@@ -563,51 +619,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 31161,
-      "num": 31161,
-      "word": "王一博上台朗诵前边走路边练习",
-      "onboard_time": 1745788934,
-      "rank": 41,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 29135,
-      "num": 60489,
-      "word": "印巴紧张局势持续升级",
-      "onboard_time": 1745773996,
-      "rank": 24,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 27122,
       "num": 27122,
       "word": "王一博华表奖颁奖活动朗诵",
       "onboard_time": 1745778196,
       "rank": 37,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 26309,
-      "num": 29665,
-      "word": "官方回应伊朗港口爆炸事件",
-      "onboard_time": 1745782094,
-      "rank": 48,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 25708,
-      "num": 29662,
-      "word": "谢霆锋你们的青春也是我的青春",
-      "onboard_time": 1745768243,
-      "rank": 41,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 24944,
-      "num": 29648,
-      "word": "景甜庄达菲生图",
-      "onboard_time": 1745793377,
-      "rank": 46,
       "category": "电影"
     },
     {
@@ -657,14 +673,6 @@
       "onboard_time": 1745734941,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 18059,
-      "num": 19699,
-      "word": "李艺彤你怎么偷偷喝中药了",
-      "onboard_time": 1745781315,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 12094,

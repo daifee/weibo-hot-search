@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/28 06:39:53
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/28 07:24:32
 </p>
 </blockquote>
 <p>
@@ -5139,6 +5139,12 @@ SM新男团 撞名（热度：910464）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A9%E7%9D%A1%E7%AE%80%E7%9B%B4%E5%B0%B1%E6%98%AF%E4%BA%BA%E7%B1%BB%E7%9A%84%E6%97%A0%E6%95%8C%E4%BD%9C%E5%BC%8A%E5%99%A8%23" target="weibo">
+早睡简直就是人类的无敌作弊器（热度：896794）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E6%B5%99%E6%B1%9F%E9%98%9F%E5%A4%96%E6%8F%B4%E5%9D%A0%E4%BA%A1%23" target="weibo">
 杭州警方通报浙江队外援坠亡（热度：896216）
 </a>
@@ -6005,12 +6011,6 @@ YERI和Wendy离开SM（热度：805847）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%9B%B4%E6%8E%A5%E5%9D%90%E5%9C%A8%E4%B8%AD%E6%8E%A7%E5%8F%B0%E7%9C%8B%E7%9A%84%23" target="weibo">
 肖战直接坐在中控台看的（热度：802584）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%80%82%E5%BA%A6%E5%87%8F%E5%B0%91%E7%BE%8E%E5%9B%BD%E5%BD%B1%E7%89%87%E8%BF%9B%E5%8F%A3%E6%95%B0%23" target="weibo">
-适度减少美国影片进口数（热度：802062）
 </a>
 </li>
 

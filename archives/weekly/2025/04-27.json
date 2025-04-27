@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1745793593352,
+  "endTime": 1745796272770,
   "band_list": [
     {
       "raw_hot": 8960529,
@@ -283,6 +283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 896794,
+      "num": 896794,
+      "word": "早睡简直就是人类的无敌作弊器",
+      "onboard_time": 1745779935,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 824294,
       "num": 409636,
       "word": "刘亦菲陈晓李现同框",
@@ -324,7 +332,7 @@
     },
     {
       "raw_hot": 792319,
-      "num": 534471,
+      "num": 557197,
       "word": "曹骏 没受过互联网毒害的美",
       "onboard_time": 1745768782,
       "rank": 3,
@@ -505,6 +513,14 @@
       "onboard_time": 1745737822,
       "rank": 10,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 572670,
+      "num": 572670,
+      "word": "因通缉照走红女子账号被封",
+      "onboard_time": 1745781614,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 572466,
@@ -689,14 +705,6 @@
       "onboard_time": 1745748802,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 447430,
-      "num": 510495,
-      "word": "早睡简直就是人类的无敌作弊器",
-      "onboard_time": 1745779935,
-      "rank": 28,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 440319,
@@ -1163,14 +1171,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 265054,
-      "num": 265054,
-      "word": "因通缉照走红女子账号被封",
-      "onboard_time": 1745781614,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 263993,
       "num": 263993,
       "word": "赵丽颖登上城士封面",
@@ -1219,6 +1219,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 253550,
+      "num": 253550,
+      "word": "贸易战逼出外贸女老板的第二次创业",
+      "onboard_time": 1745789595,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 251740,
+      "num": 251740,
+      "word": "王勉发出婚礼邀请",
+      "onboard_time": 1745774896,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 251433,
       "num": 251433,
       "word": "金像奖",
@@ -1256,6 +1272,14 @@
       "word": "朱雀玄武敕令再申请改48字新名字",
       "onboard_time": 1745766203,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 246835,
+      "num": 246835,
+      "word": "家属以为医院是正规公立专科医院",
+      "onboard_time": 1745768602,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -1513,14 +1537,6 @@
       "onboard_time": 1745748681,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 213128,
-      "num": 213128,
-      "word": "贸易战逼出外贸女老板的第二次创业",
-      "onboard_time": 1745789595,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 212584,
@@ -1801,14 +1817,6 @@
       "onboard_time": 1745741423,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 190305,
-      "num": 190305,
-      "word": "家属以为医院是正规公立专科医院",
-      "onboard_time": 1745768602,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 190173,
@@ -2867,6 +2875,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 117544,
+      "num": 87128,
+      "word": "陈晓说自己是宁波镇海人",
+      "onboard_time": 1745790854,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 116392,
       "num": 151532,
       "word": "被刘宇宁这首歌打动了",
@@ -2889,14 +2905,6 @@
       "onboard_time": 1745665340,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 115100,
-      "num": 115100,
-      "word": "王勉发出婚礼邀请",
-      "onboard_time": 1745774896,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 114082,
@@ -3259,6 +3267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86889,
+      "num": 59376,
+      "word": "这对双胞胎真是一个天上一个地下",
+      "onboard_time": 1745794218,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 86189,
       "num": 86189,
       "word": "伊朗港口油罐爆炸事件最新进展",
@@ -3289,6 +3305,14 @@
       "onboard_time": 1745697433,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 84153,
+      "num": 84153,
+      "word": "曝石凯帮依依还房贷",
+      "onboard_time": 1745785154,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 83065,
@@ -3427,14 +3451,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 71645,
-      "num": 54065,
-      "word": "陈晓说自己是宁波镇海人",
-      "onboard_time": 1745790854,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 71597,
       "num": 184171,
       "word": "韩国残运会盒饭只有海苔泡菜",
@@ -3475,6 +3491,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 67441,
+      "num": 67441,
+      "word": "广东外贸老板说被关税战敲醒了",
+      "onboard_time": 1745785753,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66781,
       "num": 131480,
       "word": "魔卡少女樱双生库洛牌",
@@ -3489,14 +3513,6 @@
       "onboard_time": 1745729663,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 64698,
-      "num": 64698,
-      "word": "广东外贸老板说被关税战敲醒了",
-      "onboard_time": 1745785753,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 62965,
@@ -3595,14 +3611,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 54505,
-      "num": 54505,
-      "word": "曝石凯帮依依还房贷",
-      "onboard_time": 1745785154,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 53715,
       "num": 140722,
       "word": "各个器官最喜欢什么食物",
@@ -3649,6 +3657,14 @@
       "onboard_time": 1745741901,
       "rank": 17,
       "category": "艺人,剧集"
+    },
+    {
+      "raw_hot": 51214,
+      "num": 51214,
+      "word": "景甜庄达菲生图",
+      "onboard_time": 1745793377,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 50489,
@@ -3731,12 +3747,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 43872,
+      "num": 60489,
+      "word": "印巴紧张局势持续升级",
+      "onboard_time": 1745773996,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 42169,
       "num": 208965,
       "word": "男子开发AI面试作弊拿到亚马逊实习",
       "onboard_time": 1745738420,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41817,
+      "num": 50534,
+      "word": "官方回应伊朗港口爆炸事件",
+      "onboard_time": 1745782094,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 40709,
@@ -3753,6 +3785,14 @@
       "onboard_time": 1745722221,
       "rank": 29,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 40134,
+      "num": 50531,
+      "word": "王一博上台朗诵前边走路边练习",
+      "onboard_time": 1745788934,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 39748,
@@ -3785,6 +3825,14 @@
       "onboard_time": 1745742621,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37463,
+      "num": 50523,
+      "word": "李艺彤你怎么偷偷喝中药了",
+      "onboard_time": 1745781315,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 37258,
@@ -3851,6 +3899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 33177,
+      "num": 50515,
+      "word": "张继科曾因腰伤只能爬到厕所",
+      "onboard_time": 1745788694,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 33031,
       "num": 199224,
       "word": "被人们嫌弃的廉航赚疯了",
@@ -3859,27 +3915,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 31807,
-      "num": 31807,
-      "word": "张继科曾因腰伤只能爬到厕所",
-      "onboard_time": 1745788694,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 31322,
       "num": 44596,
       "word": "周深华表奖开场",
       "onboard_time": 1745775436,
       "rank": 49,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 31161,
-      "num": 31161,
-      "word": "王一博上台朗诵前边走路边练习",
-      "onboard_time": 1745788934,
-      "rank": 41,
       "category": "电影"
     },
     {
@@ -3923,14 +3963,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 29135,
-      "num": 60489,
-      "word": "印巴紧张局势持续升级",
-      "onboard_time": 1745773996,
-      "rank": 24,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 28700,
       "num": 363109,
       "word": "吴艳妮回应钻石联赛表现",
@@ -3963,14 +3995,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 26309,
-      "num": 29665,
-      "word": "官方回应伊朗港口爆炸事件",
-      "onboard_time": 1745782094,
-      "rank": 48,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 25947,
       "num": 178982,
       "word": "美国做次腹部CT要9000美元",
@@ -3993,14 +4017,6 @@
       "onboard_time": 1745736562,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 24944,
-      "num": 29648,
-      "word": "景甜庄达菲生图",
-      "onboard_time": 1745793377,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 24391,
@@ -4161,14 +4177,6 @@
       "onboard_time": 1745704455,
       "rank": 47,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 18059,
-      "num": 19699,
-      "word": "李艺彤你怎么偷偷喝中药了",
-      "onboard_time": 1745781315,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 17718,
