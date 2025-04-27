@@ -1,7 +1,15 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1745746658757,
+  "endTime": 1745749517489,
   "band_list": [
+    {
+      "raw_hot": 4073618,
+      "num": 4073618,
+      "word": "惠英红 华表影后",
+      "onboard_time": 1745748501,
+      "rank": 0,
+      "category": "电影"
+    },
     {
       "raw_hot": 2550222,
       "num": 208799,
@@ -41,6 +49,14 @@
       "onboard_time": 1745720241,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1768206,
+      "num": 692698,
+      "word": "华表奖内场",
+      "onboard_time": 1745747180,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 1728484,
@@ -83,6 +99,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1310474,
+      "num": 1310474,
+      "word": "学生向教育局举报饭菜有蛆被骂",
+      "onboard_time": 1745744181,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1309617,
       "num": 1309617,
       "word": "华妃只认第一学历",
@@ -97,14 +121,6 @@
       "onboard_time": 1745740162,
       "rank": 3,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1268497,
-      "num": 1268497,
-      "word": "学生向教育局举报饭菜有蛆被骂",
-      "onboard_time": 1745744181,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1230357,
@@ -161,6 +177,14 @@
       "onboard_time": 1745735602,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 974841,
+      "num": 534331,
+      "word": "关晓彤腿腿腿腿",
+      "onboard_time": 1745746701,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 968481,
@@ -329,6 +353,14 @@
       "onboard_time": 1745744181,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 558486,
+      "num": 558486,
+      "word": "如果取消调休 罚我五一多放2个月也行",
+      "onboard_time": 1745743582,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 555813,
@@ -635,6 +667,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 316335,
+      "num": 275294,
+      "word": "章子怡华表奖大花气场",
+      "onboard_time": 1745745202,
+      "rank": 26,
+      "category": "电影,作品衍生"
+    },
+    {
       "raw_hot": 314622,
       "num": 314622,
       "word": "特朗普妄称中国要做出让步",
@@ -675,6 +715,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 301122,
+      "num": 221454,
+      "word": "王一博工作室发文回应退赛",
+      "onboard_time": 1745747180,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 300230,
       "num": 300230,
       "word": "这几种痣可能藏着癌",
@@ -713,14 +761,6 @@
       "onboard_time": 1745675424,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 275294,
-      "num": 275294,
-      "word": "章子怡华表奖大花气场",
-      "onboard_time": 1745745202,
-      "rank": 26,
-      "category": "电影,作品衍生"
     },
     {
       "raw_hot": 273756,
@@ -793,6 +833,14 @@
       "onboard_time": 1745740640,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 251710,
+      "num": 251710,
+      "word": "香港高铁站偶遇杨幂",
+      "onboard_time": 1745748802,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 250363,
@@ -883,14 +931,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 229266,
-      "num": 229266,
-      "word": "如果取消调休 罚我五一多放2个月也行",
-      "onboard_time": 1745743582,
-      "rank": 22,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 227742,
       "num": 253609,
       "word": "一诺化身黑骑士",
@@ -920,6 +960,14 @@
       "word": "刘强东母亲现身京东食堂煮饺子",
       "onboard_time": 1745733563,
       "rank": 25,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 223493,
+      "num": 272336,
+      "word": "饿了么今天便宜到不敢点",
+      "onboard_time": 1745748082,
+      "rank": 14,
       "category": "互联网"
     },
     {
@@ -1011,12 +1059,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 214393,
+      "num": 214393,
+      "word": "金像奖",
+      "onboard_time": 1745746641,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 213728,
       "num": 213728,
       "word": "Jennie红色小猫",
       "onboard_time": 1745746581,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 213152,
+      "num": 213152,
+      "word": "无名华表奖优秀电影摄影",
+      "onboard_time": 1745748681,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 212584,
@@ -1073,6 +1137,14 @@
       "onboard_time": 1745734341,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 202861,
+      "num": 202861,
+      "word": "鹿晗新歌是写给粉丝的",
+      "onboard_time": 1745748741,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 201503,
@@ -1209,6 +1281,14 @@
       "onboard_time": 1745731161,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 188680,
+      "num": 188680,
+      "word": "苏迪曼杯",
+      "onboard_time": 1745749162,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 188617,
@@ -1363,6 +1443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 170103,
+      "num": 170103,
+      "word": "云南人用咖啡做凉菜",
+      "onboard_time": 1745747602,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 166738,
       "num": 166738,
       "word": "勇士vs火箭",
@@ -1435,6 +1523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160040,
+      "num": 160040,
+      "word": "王俊凯双奢加身",
+      "onboard_time": 1745748922,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 160016,
       "num": 160016,
       "word": "女明星华表奖生图",
@@ -1465,6 +1561,14 @@
       "onboard_time": 1745724681,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 158360,
+      "num": 158359,
+      "word": "IU的婚纱我妈妈也穿过",
+      "onboard_time": 1745749283,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 157596,
@@ -1553,6 +1657,14 @@
       "onboard_time": 1745709620,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 150615,
+      "num": 150615,
+      "word": "范丞丞喊你来青岛哈啤酒吃蛤蜊",
+      "onboard_time": 1745747061,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 149747,
@@ -1771,6 +1883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133120,
+      "num": 133120,
+      "word": "华表奖提名预测",
+      "onboard_time": 1745748622,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 133028,
       "num": 133028,
       "word": "中国境内辣度最高的辣椒",
@@ -1811,12 +1931,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 131239,
+      "num": 131239,
+      "word": "谁懂国羽这张合照的含金量",
+      "onboard_time": 1745748562,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131186,
       "num": 131186,
       "word": "饿着睡对身体有什么伤害",
       "onboard_time": 1745720422,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 130644,
+      "num": 130644,
+      "word": "当你用微波炉假装在医院请病假",
+      "onboard_time": 1745748322,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 129468,
@@ -2123,6 +2259,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 90633,
+      "num": 276916,
+      "word": "宣称免费领养实为贷款买猫",
+      "onboard_time": 1745748261,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90239,
       "num": 90239,
       "word": "发明调休的人有没有考虑过单休的人",
@@ -2153,6 +2297,14 @@
       "onboard_time": 1745728102,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87157,
+      "num": 298925,
+      "word": "市场监管总局回应长和港口交易",
+      "onboard_time": 1745748501,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 86189,
@@ -2403,6 +2555,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 53674,
+      "num": 158360,
+      "word": "宝马中国团队主导国产新世代车型研发",
+      "onboard_time": 1745749101,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 52574,
       "num": 497283,
       "word": "外贸女老板霸气回应美关税讹诈",
@@ -2433,6 +2593,14 @@
       "onboard_time": 1745741901,
       "rank": 17,
       "category": "艺人,剧集"
+    },
+    {
+      "raw_hot": 50489,
+      "num": 230722,
+      "word": "黎深和偷跑出医院的茉莉",
+      "onboard_time": 1745748442,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 46928,
@@ -2497,6 +2665,14 @@
       "onboard_time": 1745722221,
       "rank": 29,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 39748,
+      "num": 158361,
+      "word": "DeepSeekR2要发布了吗",
+      "onboard_time": 1745749462,
+      "rank": 38,
+      "category": "互联网"
     },
     {
       "raw_hot": 39261,
@@ -2769,6 +2945,14 @@
       "onboard_time": 1745691675,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 15271,
+      "num": 158362,
+      "word": "日本和歌山县4只大熊猫将回国",
+      "onboard_time": 1745749462,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 14067,

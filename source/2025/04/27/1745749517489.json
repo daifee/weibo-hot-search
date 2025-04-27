@@ -1,0 +1,410 @@
+{
+  "runTime": 1745749517489,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4073618,
+        "num": 4073618,
+        "word": "惠英红 华表影后",
+        "onboard_time": 1745748501,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1310474,
+        "num": 1310474,
+        "word": "学生向教育局举报饭菜有蛆被骂",
+        "onboard_time": 1745744181,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71146,
+        "num": 734285,
+        "word": "六部门发文优化离境退税政策",
+        "onboard_time": 1745743281,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1768206,
+        "num": 692698,
+        "word": "华表奖内场",
+        "onboard_time": 1745747180,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 612275,
+        "num": 612275,
+        "word": "厚底鞋",
+        "onboard_time": 1745740102,
+        "rank": 4,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 558486,
+        "num": 558486,
+        "word": "如果取消调休 罚我五一多放2个月也行",
+        "onboard_time": 1745743582,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 974841,
+        "num": 534331,
+        "word": "关晓彤腿腿腿腿",
+        "onboard_time": 1745746701,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 386285,
+        "num": 386285,
+        "word": "男子在生殖医院做手术后次日身亡",
+        "onboard_time": 1745739262,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 303725,
+        "num": 303725,
+        "word": "C罗TIFO将台湾移出中国地图",
+        "onboard_time": 1745736140,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87157,
+        "num": 298925,
+        "word": "市场监管总局回应长和港口交易",
+        "onboard_time": 1745748501,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 642737,
+        "num": 297218,
+        "word": "肥猪能不能别来挤地铁啊",
+        "onboard_time": 1745728102,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 855831,
+        "num": 289162,
+        "word": "关晓彤戴假发",
+        "onboard_time": 1745737162,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 571335,
+        "num": 282658,
+        "word": "王一博没赶上华表奖红毯",
+        "onboard_time": 1745740162,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 90633,
+        "num": 276916,
+        "word": "宣称免费领养实为贷款买猫",
+        "onboard_time": 1745748261,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223493,
+        "num": 272336,
+        "word": "饿了么今天便宜到不敢点",
+        "onboard_time": 1745748082,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 526069,
+        "num": 266737,
+        "word": "华表奖红毯",
+        "onboard_time": 1745734941,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 518272,
+        "num": 264026,
+        "word": "小奶狗被主人2次狠摔致死",
+        "onboard_time": 1745742981,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 260115,
+        "num": 260115,
+        "word": "刘诗诗秒答迪丽热巴孟子义",
+        "onboard_time": 1745744542,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253176,
+        "num": 253176,
+        "word": "中纪委通报三河招牌改色事件",
+        "onboard_time": 1745744181,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251710,
+        "num": 251710,
+        "word": "香港高铁站偶遇杨幂",
+        "onboard_time": 1745748802,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 521282,
+        "num": 248588,
+        "word": "邓超想跟孙俪再结一次婚",
+        "onboard_time": 1745740461,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 399437,
+        "num": 242368,
+        "word": "华表奖座位安排",
+        "onboard_time": 1745743221,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 346112,
+        "num": 240598,
+        "word": "王菲谢霆锋 姐狗天花板",
+        "onboard_time": 1745735602,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 50489,
+        "num": 230722,
+        "word": "黎深和偷跑出医院的茉莉",
+        "onboard_time": 1745748442,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 316335,
+        "num": 226748,
+        "word": "章子怡华表奖大花气场",
+        "onboard_time": 1745745202,
+        "rank": 24,
+        "category": "电影,作品衍生"
+      },
+      {
+        "raw_hot": 301122,
+        "num": 221454,
+        "word": "王一博工作室发文回应退赛",
+        "onboard_time": 1745747180,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255799,
+        "num": 217122,
+        "word": "这几种痣可能藏着癌",
+        "onboard_time": 1745744063,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 214393,
+        "num": 214393,
+        "word": "金像奖",
+        "onboard_time": 1745746641,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 213152,
+        "num": 213152,
+        "word": "无名华表奖优秀电影摄影",
+        "onboard_time": 1745748681,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 202861,
+        "num": 202861,
+        "word": "鹿晗新歌是写给粉丝的",
+        "onboard_time": 1745748741,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 188680,
+        "num": 188680,
+        "word": "苏迪曼杯",
+        "onboard_time": 1745749162,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187572,
+        "num": 187572,
+        "word": "张凌赫王楚然 这一秒",
+        "onboard_time": 1745742023,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185447,
+        "num": 185447,
+        "word": "王菲谢霆锋",
+        "onboard_time": 1745739501,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178997,
+        "num": 178997,
+        "word": "Jennie红色小猫",
+        "onboard_time": 1745746581,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 170103,
+        "num": 170103,
+        "word": "云南人用咖啡做凉菜",
+        "onboard_time": 1745747602,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 160040,
+        "num": 160040,
+        "word": "王俊凯双奢加身",
+        "onboard_time": 1745748922,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 158562,
+        "num": 158562,
+        "word": "马英九说实在看不下去了",
+        "onboard_time": 1745737822,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 15271,
+        "num": 158362,
+        "word": "日本和歌山县4只大熊猫将回国",
+        "onboard_time": 1745749462,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 39748,
+        "num": 158361,
+        "word": "DeepSeekR2要发布了吗",
+        "onboard_time": 1745749462,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 53674,
+        "num": 158360,
+        "word": "宝马中国团队主导国产新世代车型研发",
+        "onboard_time": 1745749101,
+        "rank": 39,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 158360,
+        "num": 158359,
+        "word": "IU的婚纱我妈妈也穿过",
+        "onboard_time": 1745749283,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157717,
+        "num": 157717,
+        "word": "鹿晗王勉辈分乱了",
+        "onboard_time": 1745745083,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154203,
+        "num": 154203,
+        "word": "女子孕期坚持跳同一支舞记录变化",
+        "onboard_time": 1745741002,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153212,
+        "num": 153212,
+        "word": "河北三河市加重基层负担被通报",
+        "onboard_time": 1745744781,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150615,
+        "num": 150615,
+        "word": "范丞丞喊你来青岛哈啤酒吃蛤蜊",
+        "onboard_time": 1745747061,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133120,
+        "num": 133120,
+        "word": "华表奖提名预测",
+        "onboard_time": 1745748622,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131912,
+        "num": 131912,
+        "word": "樊振东带和平鸽的衣服好有仪式感",
+        "onboard_time": 1745745019,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131239,
+        "num": 131239,
+        "word": "谁懂国羽这张合照的含金量",
+        "onboard_time": 1745748562,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130644,
+        "num": 130644,
+        "word": "当你用微波炉假装在医院请病假",
+        "onboard_time": 1745748322,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128639,
+        "num": 128639,
+        "word": "3起整治形式主义典型问题被公开通报",
+        "onboard_time": 1745744901,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#从数据看中国经济高质量发展的确定性#"
+    }
+  }
+}

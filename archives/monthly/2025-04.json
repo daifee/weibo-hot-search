@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1745746658757,
+  "endTime": 1745749517489,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -209,6 +209,14 @@
       "onboard_time": 1743465321,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 4073618,
+      "num": 4073618,
+      "word": "惠英红 华表影后",
+      "onboard_time": 1745748501,
+      "rank": 0,
+      "category": "电影"
     },
     {
       "raw_hot": 4038610,
@@ -1809,6 +1817,14 @@
       "onboard_time": 1743519627,
       "rank": 8,
       "category": "民生新闻,汽车"
+    },
+    {
+      "raw_hot": 1768206,
+      "num": 692698,
+      "word": "华表奖内场",
+      "onboard_time": 1745747180,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 1766346,
@@ -3467,6 +3483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1310474,
+      "num": 1310474,
+      "word": "学生向教育局举报饭菜有蛆被骂",
+      "onboard_time": 1745744181,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1309617,
       "num": 1309617,
       "word": "华妃只认第一学历",
@@ -3745,14 +3769,6 @@
       "onboard_time": 1744443084,
       "rank": 33,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1268497,
-      "num": 1268497,
-      "word": "学生向教育局举报饭菜有蛆被骂",
-      "onboard_time": 1745744181,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1267929,
@@ -5873,6 +5889,14 @@
       "onboard_time": 1744615522,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 974841,
+      "num": 534331,
+      "word": "关晓彤腿腿腿腿",
+      "onboard_time": 1745746701,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 972488,
@@ -12337,6 +12361,14 @@
       "onboard_time": 1743825680,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 558486,
+      "num": 558486,
+      "word": "如果取消调休 罚我五一多放2个月也行",
+      "onboard_time": 1745743582,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 558398,
@@ -22547,6 +22579,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 316335,
+      "num": 275294,
+      "word": "章子怡华表奖大花气场",
+      "onboard_time": 1745745202,
+      "rank": 26,
+      "category": "电影,作品衍生"
+    },
+    {
       "raw_hot": 316290,
       "num": 316290,
       "word": "乒乓球世界杯颁奖",
@@ -23745,6 +23785,14 @@
       "onboard_time": 1744280241,
       "rank": 22,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 301122,
+      "num": 221454,
+      "word": "王一博工作室发文回应退赛",
+      "onboard_time": 1745747180,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 301116,
@@ -25905,14 +25953,6 @@
       "onboard_time": 1743611659,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 275294,
-      "num": 275294,
-      "word": "章子怡华表奖大花气场",
-      "onboard_time": 1745745202,
-      "rank": 26,
-      "category": "电影,作品衍生"
     },
     {
       "raw_hot": 275263,
@@ -28177,6 +28217,14 @@
       "onboard_time": 1745218281,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 251710,
+      "num": 251710,
+      "word": "香港高铁站偶遇杨幂",
+      "onboard_time": 1745748802,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 251516,
@@ -30803,14 +30851,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 229266,
-      "num": 229266,
-      "word": "如果取消调休 罚我五一多放2个月也行",
-      "onboard_time": 1745743582,
-      "rank": 22,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 229234,
       "num": 307962,
       "word": "王俊凯方将取证追责",
@@ -31721,6 +31761,14 @@
       "onboard_time": 1744875922,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 223493,
+      "num": 272336,
+      "word": "饿了么今天便宜到不敢点",
+      "onboard_time": 1745748082,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 223417,
@@ -33131,6 +33179,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 214393,
+      "num": 214393,
+      "word": "金像奖",
+      "onboard_time": 1745746641,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 214307,
       "num": 214307,
       "word": "全球资本流向或发生调整",
@@ -33345,6 +33401,14 @@
       "onboard_time": 1745285001,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213152,
+      "num": 213152,
+      "word": "无名华表奖优秀电影摄影",
+      "onboard_time": 1745748681,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 213125,
@@ -36009,6 +36073,14 @@
       "onboard_time": 1744988784,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 202861,
+      "num": 202861,
+      "word": "鹿晗新歌是写给粉丝的",
+      "onboard_time": 1745748741,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 202833,
@@ -40601,6 +40673,14 @@
       "onboard_time": 1745207602,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188680,
+      "num": 188680,
+      "word": "苏迪曼杯",
+      "onboard_time": 1745749162,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 188632,
@@ -46163,6 +46243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170103,
+      "num": 170103,
+      "word": "云南人用咖啡做凉菜",
+      "onboard_time": 1745747602,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 170082,
       "num": 170082,
       "word": "韩庚新剧爆改流浪汉",
@@ -49555,6 +49643,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 160040,
+      "num": 160040,
+      "word": "王俊凯双奢加身",
+      "onboard_time": 1745748922,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 160039,
       "num": 223093,
       "word": "田曦薇方维权声明",
@@ -50049,6 +50145,14 @@
       "onboard_time": 1745555423,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158360,
+      "num": 158359,
+      "word": "IU的婚纱我妈妈也穿过",
+      "onboard_time": 1745749283,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 158319,
@@ -52913,6 +53017,14 @@
       "onboard_time": 1744853301,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 150615,
+      "num": 150615,
+      "word": "范丞丞喊你来青岛哈啤酒吃蛤蜊",
+      "onboard_time": 1745747061,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 150609,
@@ -60099,6 +60211,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 133120,
+      "num": 133120,
+      "word": "华表奖提名预测",
+      "onboard_time": 1745748622,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 133075,
       "num": 133075,
       "word": "原来这才是真杀猪盘",
@@ -60811,6 +60931,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 131239,
+      "num": 131239,
+      "word": "谁懂国羽这张合照的含金量",
+      "onboard_time": 1745748562,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131236,
       "num": 330709,
       "word": "多家国内航司将座椅更换成轻薄型",
@@ -61137,6 +61265,14 @@
       "onboard_time": 1745598141,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 130644,
+      "num": 130644,
+      "word": "当你用微波炉假装在医院请病假",
+      "onboard_time": 1745748322,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 130568,
@@ -73019,6 +73155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90633,
+      "num": 276916,
+      "word": "宣称免费领养实为贷款买猫",
+      "onboard_time": 1745748261,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90625,
       "num": 252705,
       "word": "宝宝睡觉时间变长怎么回事",
@@ -73673,6 +73817,14 @@
       "onboard_time": 1745251281,
       "rank": 42,
       "category": "国际时政,财经"
+    },
+    {
+      "raw_hot": 87157,
+      "num": 298925,
+      "word": "市场监管总局回应长和港口交易",
+      "onboard_time": 1745748501,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 87135,
@@ -80923,6 +81075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53674,
+      "num": 158360,
+      "word": "宝马中国团队主导国产新世代车型研发",
+      "onboard_time": 1745749101,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 53595,
       "num": 329645,
       "word": "沉浸式感受广西三月三",
@@ -81713,6 +81873,14 @@
       "onboard_time": 1744996699,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 50489,
+      "num": 230722,
+      "word": "黎深和偷跑出医院的茉莉",
+      "onboard_time": 1745748442,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 50442,
@@ -84673,6 +84841,14 @@
       "onboard_time": 1744546041,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39748,
+      "num": 158361,
+      "word": "DeepSeekR2要发布了吗",
+      "onboard_time": 1745749462,
+      "rank": 38,
+      "category": "互联网"
     },
     {
       "raw_hot": 39734,
@@ -92032,6 +92208,14 @@
       "word": "新泽西州野火为何难以扑灭且迅速蔓延",
       "onboard_time": 1745650941,
       "rank": 19,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 15271,
+      "num": 158362,
+      "word": "日本和歌山县4只大熊猫将回国",
+      "onboard_time": 1745749462,
+      "rank": 37,
       "category": "海外新闻"
     },
     {

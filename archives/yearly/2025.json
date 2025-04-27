@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1745746658757,
+  "endTime": 1745749517489,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1331,6 +1331,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 4073618,
+      "num": 4073618,
+      "word": "惠英红 华表影后",
+      "onboard_time": 1745748501,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
       "raw_hot": 4071194,
       "num": 4071194,
       "word": "护舒宝声明",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1739855067,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 3004197,
-      "num": 3008395,
-      "word": "145%关税让1只熊猫玩偶卖80美元",
-      "onboard_time": 1744537883,
-      "rank": 0,
-      "category": "海外新闻"
     }
   ],
   "hotgov_list": [
