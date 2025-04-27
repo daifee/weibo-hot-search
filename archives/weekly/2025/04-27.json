@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1745763673169,
+  "endTime": 1745764732092,
   "band_list": [
     {
       "raw_hot": 4073618,
@@ -27,8 +27,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 2800757,
-      "num": 2800757,
+      "raw_hot": 2915641,
+      "num": 2915641,
       "word": "石凯姐姐发长文",
       "onboard_time": 1745762483,
       "rank": 0,
@@ -276,7 +276,7 @@
     },
     {
       "raw_hot": 824294,
-      "num": 383600,
+      "num": 409636,
       "word": "刘亦菲陈晓李现同框",
       "onboard_time": 1745759964,
       "rank": 26,
@@ -411,6 +411,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 604964,
+      "num": 407876,
+      "word": "两代哪吒同框了",
+      "onboard_time": 1745760263,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 598789,
       "num": 416378,
       "word": "谢霆锋儿子颜值",
@@ -523,6 +531,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 536588,
+      "num": 322900,
+      "word": "金像奖获奖名单",
+      "onboard_time": 1745760863,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 528498,
       "num": 528498,
       "word": "年轻人为什么对火锅祛魅了",
@@ -539,20 +555,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 521655,
-      "num": 383136,
-      "word": "两代哪吒同框了",
-      "onboard_time": 1745760263,
-      "rank": 35,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 503859,
+      "raw_hot": 507989,
       "num": 352290,
       "word": "冠军驾到王楚钦孙颖莎",
       "onboard_time": 1745757863,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 503923,
+      "num": 503923,
+      "word": "破皮的粉刺针竟是家居用品公司生产",
+      "onboard_time": 1745762183,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 503307,
@@ -643,14 +659,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 434626,
-      "num": 299370,
-      "word": "金像奖获奖名单",
-      "onboard_time": 1745760863,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 431172,
       "num": 431172,
       "word": "当苹果闹钟遇上调休",
@@ -715,6 +723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 411994,
+      "num": 411994,
+      "word": "中日友好医院肖某已停职",
+      "onboard_time": 1745759964,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 400882,
       "num": 348195,
       "word": "发现凤梨可以手撕的人真是个天才",
@@ -729,14 +745,6 @@
       "onboard_time": 1745754740,
       "rank": 8,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 387233,
-      "num": 387233,
-      "word": "中日友好医院肖某已停职",
-      "onboard_time": 1745759964,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 386407,
@@ -947,6 +955,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 303533,
+      "num": 270896,
+      "word": "女子丢蛋糕后报警谎称抹了老鼠药",
+      "onboard_time": 1745758762,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 300230,
       "num": 300230,
       "word": "这几种痣可能藏着癌",
@@ -987,20 +1003,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 280102,
+      "num": 254605,
+      "word": "时代少年团印象最深的热搜",
+      "onboard_time": 1745763503,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 280023,
       "num": 180715,
       "word": "医生称女性高潮针有感染出血等风险",
       "onboard_time": 1745752280,
       "rank": 30,
       "category": "民生新闻,健康医疗"
-    },
-    {
-      "raw_hot": 278435,
-      "num": 278435,
-      "word": "破皮的粉刺针竟是家居用品公司生产",
-      "onboard_time": 1745762183,
-      "rank": 19,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 277049,
@@ -1025,14 +1041,6 @@
       "onboard_time": 1745748741,
       "rank": 29,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 270896,
-      "num": 270896,
-      "word": "女子丢蛋糕后报警谎称抹了老鼠药",
-      "onboard_time": 1745758762,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 270720,
@@ -1107,12 +1115,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 255923,
+      "num": 255923,
+      "word": "周鸿祎说360借条不是我的公司",
+      "onboard_time": 1745763683,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 254803,
       "num": 293650,
       "word": "第五人格",
       "onboard_time": 1745740640,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 251433,
+      "num": 251433,
+      "word": "金像奖",
+      "onboard_time": 1745746641,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 250363,
@@ -1137,14 +1161,6 @@
       "onboard_time": 1745730802,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 248222,
-      "num": 248222,
-      "word": "金像奖",
-      "onboard_time": 1745746641,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 246282,
@@ -1233,6 +1249,14 @@
       "onboard_time": 1745757922,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 230676,
+      "num": 387457,
+      "word": "央视曝光假进口的保健品",
+      "onboard_time": 1745763083,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 229293,
@@ -1419,6 +1443,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 207107,
+      "num": 207107,
+      "word": "王一博与成龙跨世纪拥抱",
+      "onboard_time": 1745764642,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 206596,
       "num": 206596,
       "word": "WBG对战iG",
@@ -1499,6 +1531,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 200396,
+      "num": 200396,
+      "word": "王源去看了张杰的演唱会",
+      "onboard_time": 1745763503,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 199765,
       "num": 1339888,
       "word": "外商组团到义乌买买买",
@@ -1529,6 +1569,14 @@
       "onboard_time": 1745743521,
       "rank": 30,
       "category": "财经"
+    },
+    {
+      "raw_hot": 198669,
+      "num": 198669,
+      "word": "李沁电视剧导演大会年度影响力女演员",
+      "onboard_time": 1745763924,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 196662,
@@ -1795,6 +1843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174399,
+      "num": 174399,
+      "word": "JDG再夺周冠军",
+      "onboard_time": 1745763982,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 173848,
       "num": 173848,
       "word": "光与夜之恋全新资料片",
@@ -1905,6 +1961,14 @@
       "onboard_time": 1745716041,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161673,
+      "num": 161673,
+      "word": "中国海警回应菲6人非法登上铁线礁",
+      "onboard_time": 1745764103,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 161533,
@@ -2065,14 +2129,6 @@
       "onboard_time": 1745728642,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 154237,
-      "num": 154237,
-      "word": "时代少年团印象最深的热搜",
-      "onboard_time": 1745763503,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 153886,
@@ -2259,14 +2315,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 143207,
-      "num": 143207,
-      "word": "王源去看了张杰的演唱会",
-      "onboard_time": 1745763503,
-      "rank": 47,
-      "category": "演出"
-    },
-    {
       "raw_hot": 143195,
       "num": 143195,
       "word": "抗癌网红小雨离世妈妈发声",
@@ -2305,6 +2353,22 @@
       "onboard_time": 1745718621,
       "rank": 35,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 140145,
+      "num": 140145,
+      "word": "周深发了7个致敬",
+      "onboard_time": 1745764224,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 139499,
+      "num": 139499,
+      "word": "风象星座为什么越爱越无力",
+      "onboard_time": 1745764345,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 139365,
@@ -2539,6 +2603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 128932,
+      "num": 128932,
+      "word": "朱正廷有效摘面具",
+      "onboard_time": 1745764462,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 127380,
       "num": 194423,
       "word": "官方回应给下井救人女辅警转正呼声",
@@ -2560,6 +2632,14 @@
       "word": "BRO战胜T1",
       "onboard_time": 1745745500,
       "rank": 48,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 124100,
+      "num": 124100,
+      "word": "iG遭WBG让一追二",
+      "onboard_time": 1745761464,
+      "rank": 47,
       "category": "电竞"
     },
     {
@@ -2921,14 +3001,6 @@
       "onboard_time": 1745676624,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 88190,
-      "num": 373877,
-      "word": "央视曝光假进口的保健品",
-      "onboard_time": 1745763083,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 87572,
