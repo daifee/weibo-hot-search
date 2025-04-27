@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1745738512185,
+  "endTime": 1745739348040,
   "band_list": [
     {
       "raw_hot": 2550222,
@@ -59,6 +59,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1498132,
+      "num": 1498132,
+      "word": "关晓彤戴假发",
+      "onboard_time": 1745737162,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1331228,
       "num": 1331228,
       "word": "印度未事先通知突然开闸泄洪",
@@ -115,20 +123,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 979561,
+      "num": 398500,
+      "word": "王菲谢霆锋 姐狗天花板",
+      "onboard_time": 1745735602,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 968481,
       "num": 968481,
       "word": "恋与深空",
       "onboard_time": 1745723001,
       "rank": 1,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 916136,
-      "num": 398500,
-      "word": "王菲谢霆锋 姐狗天花板",
-      "onboard_time": 1745735602,
-      "rank": 18,
-      "category": "演出"
     },
     {
       "raw_hot": 817949,
@@ -251,6 +259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 555813,
+      "num": 555813,
+      "word": "C罗TIFO将台湾移出中国地图",
+      "onboard_time": 1745736140,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 548826,
       "num": 308225,
       "word": "华表奖提名名单",
@@ -291,14 +307,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 530505,
-      "num": 530505,
-      "word": "C罗TIFO将台湾移出中国地图",
-      "onboard_time": 1745736140,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 528498,
       "num": 528498,
       "word": "年轻人为什么对火锅祛魅了",
@@ -323,14 +331,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 482816,
-      "num": 395360,
-      "word": "关晓彤戴假发",
-      "onboard_time": 1745737162,
-      "rank": 13,
-      "category": "电影"
-    },
-    {
       "raw_hot": 466180,
       "num": 269788,
       "word": "陈妍希 假的就是假的它真不了",
@@ -345,6 +345,14 @@
       "onboard_time": 1745713462,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 437243,
+      "num": 437243,
+      "word": "马英九说实在看不下去了",
+      "onboard_time": 1745737822,
+      "rank": 10,
+      "category": "国内时政"
     },
     {
       "raw_hot": 431172,
@@ -459,8 +467,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 336307,
-      "num": 336307,
+      "raw_hot": 340944,
+      "num": 340944,
       "word": "张继科让球迷说话经过大脑",
       "onboard_time": 1745735602,
       "rank": 27,
@@ -483,20 +491,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 320293,
+      "num": 320293,
+      "word": "律师称石凯照片录音视频为真实记录",
+      "onboard_time": 1745734822,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 319593,
       "num": 319593,
       "word": "比大熊猫更濒危的动物全国仅剩1只",
       "onboard_time": 1745664141,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 318478,
-      "num": 318478,
-      "word": "律师称石凯照片录音视频为真实记录",
-      "onboard_time": 1745734822,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 316834,
@@ -611,6 +619,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 260494,
+      "num": 260494,
+      "word": "法院院长办公室休息室达68.7平被处分",
+      "onboard_time": 1745738361,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 257894,
       "num": 299198,
       "word": "顾客将狗带进餐厅用店内盘子喂饭",
@@ -667,6 +683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 241742,
+      "num": 393246,
+      "word": "台20万民众集会怒骂赖清德",
+      "onboard_time": 1745736981,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 241189,
       "num": 251711,
       "word": "肖战孙燕姿演唱会后发文",
@@ -689,6 +713,14 @@
       "onboard_time": 1745733621,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 229293,
+      "num": 229293,
+      "word": "电竞选手洗澡一定要注意安全",
+      "onboard_time": 1745738003,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 227742,
@@ -721,6 +753,14 @@
       "onboard_time": 1745733563,
       "rank": 25,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 219503,
+      "num": 219503,
+      "word": "石凯",
+      "onboard_time": 1745734762,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 219256,
@@ -771,14 +811,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 216421,
-      "num": 216421,
-      "word": "石凯",
-      "onboard_time": 1745734762,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 216036,
       "num": 304160,
       "word": "下调离境退税起退点上调现金退税限额",
@@ -787,20 +819,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 215608,
+      "raw_hot": 215931,
       "num": 301343,
       "word": "网购机票被隐形加价获三倍赔偿",
       "onboard_time": 1745735002,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 213486,
-      "num": 399639,
-      "word": "马英九说实在看不下去了",
-      "onboard_time": 1745737822,
-      "rank": 10,
-      "category": "国内时政"
     },
     {
       "raw_hot": 210233,
@@ -843,12 +867,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 198546,
-      "num": 393246,
-      "word": "台20万民众集会怒骂赖清德",
-      "onboard_time": 1745736981,
-      "rank": 14,
-      "category": "国内时政"
+      "raw_hot": 199702,
+      "num": 199702,
+      "word": "美国95%的进口婴儿手推车产自中国",
+      "onboard_time": 1745736321,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 199425,
+      "num": 199425,
+      "word": "小米时隔十年重夺中国智能手机第一",
+      "onboard_time": 1745738902,
+      "rank": 34,
+      "category": "互联网"
     },
     {
       "raw_hot": 196662,
@@ -873,14 +905,6 @@
       "onboard_time": 1745678424,
       "rank": 18,
       "category": "民生新闻,艺人"
-    },
-    {
-      "raw_hot": 194560,
-      "num": 194560,
-      "word": "电竞选手洗澡一定要注意安全",
-      "onboard_time": 1745738003,
-      "rank": 26,
-      "category": "电竞"
     },
     {
       "raw_hot": 193922,
@@ -913,14 +937,6 @@
       "onboard_time": 1745731404,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 187872,
-      "num": 187871,
-      "word": "美国95%的进口婴儿手推车产自中国",
-      "onboard_time": 1745736321,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 186210,
@@ -1083,6 +1099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160955,
+      "num": 160955,
+      "word": "男子在生殖医院做手术后次日身亡",
+      "onboard_time": 1745739262,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 160866,
       "num": 160866,
       "word": "食物咀嚼次数会影响减肥效果",
@@ -1097,6 +1121,14 @@
       "onboard_time": 1745728462,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160424,
+      "num": 175830,
+      "word": "等刘诗诗新剧满脑子不要出圈",
+      "onboard_time": 1745738120,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 159352,
@@ -1132,7 +1164,7 @@
     },
     {
       "raw_hot": 155431,
-      "num": 182287,
+      "num": 220242,
       "word": "电竞选手的人生秀场",
       "onboard_time": 1745738361,
       "rank": 31,
@@ -1161,6 +1193,22 @@
       "onboard_time": 1745737881,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 152969,
+      "num": 152969,
+      "word": "陈哲远包场支持独一无二",
+      "onboard_time": 1745738902,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 152862,
+      "num": 152862,
+      "word": "这届网友联机主打一个互坑",
+      "onboard_time": 1745739083,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 152648,
@@ -1211,14 +1259,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 148108,
-      "num": 148108,
-      "word": "法院院长办公室休息室达68.7平被处分",
-      "onboard_time": 1745738361,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 146559,
       "num": 151849,
       "word": "王俊凯青岛",
@@ -1243,14 +1283,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 145078,
-      "num": 145078,
-      "word": "等刘诗诗新剧满脑子不要出圈",
-      "onboard_time": 1745738120,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 144533,
       "num": 144533,
       "word": "中式工装席卷外国vintage门店",
@@ -1267,6 +1299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143883,
+      "num": 143883,
+      "word": "特朗普政府激怒了加拿大人",
+      "onboard_time": 1745739322,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 143195,
       "num": 143195,
       "word": "抗癌网红小雨离世妈妈发声",
@@ -1281,6 +1321,14 @@
       "onboard_time": 1745728761,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142337,
+      "num": 427453,
+      "word": "五一假期会很热",
+      "onboard_time": 1745734941,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141513,
@@ -1369,14 +1417,6 @@
       "onboard_time": 1745731941,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 133567,
-      "num": 427453,
-      "word": "五一假期会很热",
-      "onboard_time": 1745734941,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 133028,
@@ -1555,6 +1595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105373,
+      "num": 209144,
+      "word": "5种常见蔬菜是抗炎高手",
+      "onboard_time": 1745738361,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 104205,
       "num": 104205,
       "word": "库里36分",
@@ -1691,6 +1739,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 87572,
+      "num": 291556,
+      "word": "曝沙特Falcons欲收购RNG",
+      "onboard_time": 1745738361,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 87544,
       "num": 512295,
       "word": "官方回应市长信箱张冠李戴",
@@ -1747,14 +1803,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 81557,
-      "num": 174841,
-      "word": "曝沙特Falcons欲收购RNG",
-      "onboard_time": 1745738361,
-      "rank": 34,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 79630,
       "num": 150017,
       "word": "aespa台湾开麦舞台",
@@ -1809,14 +1857,6 @@
       "onboard_time": 1745683522,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 75210,
-      "num": 181629,
-      "word": "5种常见蔬菜是抗炎高手",
-      "onboard_time": 1745738361,
-      "rank": 32,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 74850,
@@ -1915,6 +1955,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 59838,
+      "num": 297579,
+      "word": "宫崎骏的女性设定如何打破传统",
+      "onboard_time": 1745738542,
+      "rank": 17,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 56208,
       "num": 199903,
       "word": "3名中国公民伊朗港口爆炸中受轻伤",
@@ -1987,6 +2035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42169,
+      "num": 208965,
+      "word": "男子开发AI面试作弊拿到亚马逊实习",
+      "onboard_time": 1745738420,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40709,
       "num": 40709,
       "word": "全球聚焦中国回应中美所谓关税谈判",
@@ -2025,14 +2081,6 @@
       "onboard_time": 1745685919,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 32233,
-      "num": 161080,
-      "word": "男子开发AI面试作弊拿到亚马逊实习",
-      "onboard_time": 1745738420,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 30324,
@@ -2171,6 +2219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19016,
+      "num": 713886,
+      "word": "新质先锋未来北京",
+      "onboard_time": 1745736562,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18494,
       "num": 39019,
       "word": "王一博AM组别第一",
@@ -2201,14 +2257,6 @@
       "onboard_time": 1745691675,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 14487,
-      "num": 713886,
-      "word": "新质先锋未来北京",
-      "onboard_time": 1745736562,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14067,
@@ -2249,6 +2297,14 @@
       "onboard_time": 1745709439,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 6607,
+      "num": 160449,
+      "word": "关注315曝光问题的后续",
+      "onboard_time": 1745738841,
+      "rank": 39,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

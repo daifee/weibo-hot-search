@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/27 15:21:52
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/27 15:35:48
 </p>
 </blockquote>
 <p>
@@ -1913,6 +1913,12 @@ RedVelvet 解散（热度：1601334）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AE%B7%E4%B8%96%E8%88%AA%E8%87%AA%E6%9B%9D%E8%A2%AB%E4%B8%80%E4%BD%8D%E6%98%8E%E6%98%9F%E5%81%B7%E8%BF%87%E6%89%8B%E8%A1%A8%23" target="weibo">
 殷世航自曝被一位明星偷过手表（热度：1499968）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E6%88%B4%E5%81%87%E5%8F%91%23" target="weibo">
+关晓彤戴假发（热度：1498132）
 </a>
 </li>
 
@@ -4347,6 +4353,12 @@ IU向雪莉金赛纶推荐同一心理医生（热度：1041446）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%8F%B2%E8%B0%A2%E9%9C%86%E9%94%8B%20%E5%A7%90%E7%8B%97%E5%A4%A9%E8%8A%B1%E6%9D%BF%23" target="weibo">
+王菲谢霆锋 姐狗天花板（热度：979561）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BE%B7%E5%AE%B9%20%E6%88%91%E4%B8%8D%E4%BC%9A%E6%BC%94%E5%AD%A9%E5%AD%90%E7%9A%84%E5%A6%88%23" target="weibo">
 陈德容 我不会演孩子的妈（热度：979471）
 </a>
@@ -4853,12 +4865,6 @@ enhypen科切拉舞台（热度：916460）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E5%A5%B3%E5%84%BF%E5%BC%A0%E8%AF%97%E7%90%AA%E5%A5%B9%E6%9D%A5%E8%BF%87%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%23" target="weibo">
 我的女儿张诗琪她来过这个世界（热度：916266）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%8F%B2%E8%B0%A2%E9%9C%86%E9%94%8B%20%E5%A7%90%E7%8B%97%E5%A4%A9%E8%8A%B1%E6%9D%BF%23" target="weibo">
-王菲谢霆锋 姐狗天花板（热度：916136）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ YERI和Wendy离开SM（热度：805847）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%20%E5%86%85%E5%A8%B1%E5%8F%B2%E5%AE%98%23" target="weibo">
 杨幂 内娱史官（热度：788545）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BA%88%E6%9B%A6%E5%9C%A8%E6%B5%AA%E5%A7%90%E7%88%86%E5%93%AD%23" target="weibo">
-张予曦在浪姐爆哭（热度：788493）
 </a>
 </li>
 

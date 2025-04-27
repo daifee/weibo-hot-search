@@ -1,0 +1,410 @@
+{
+  "runTime": 1745739348040,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1498132,
+        "num": 1498132,
+        "word": "关晓彤戴假发",
+        "onboard_time": 1745737162,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 728763,
+        "num": 728763,
+        "word": "印度未事先通知突然开闸泄洪",
+        "onboard_time": 1745730204,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 19016,
+        "num": 566568,
+        "word": "新质先锋未来北京",
+        "onboard_time": 1745736562,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 852170,
+        "num": 563811,
+        "word": "华表奖红毯",
+        "onboard_time": 1745734941,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 555813,
+        "num": 555813,
+        "word": "C罗TIFO将台湾移出中国地图",
+        "onboard_time": 1745736140,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 437243,
+        "num": 437243,
+        "word": "马英九说实在看不下去了",
+        "onboard_time": 1745737822,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 569352,
+        "num": 426893,
+        "word": "关晓彤华表奖红毯",
+        "onboard_time": 1745736441,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 562376,
+        "num": 417002,
+        "word": "华妃只认第一学历",
+        "onboard_time": 1745727922,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 405088,
+        "num": 405088,
+        "word": "年轻人为什么对火锅祛魅了",
+        "onboard_time": 1745732062,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 350219,
+        "num": 350219,
+        "word": "老人不要利息执意取107万银行报警",
+        "onboard_time": 1745728823,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 979561,
+        "num": 346485,
+        "word": "王菲谢霆锋 姐狗天花板",
+        "onboard_time": 1745735602,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 839105,
+        "num": 346255,
+        "word": "肥猪能不能别来挤地铁啊",
+        "onboard_time": 1745728102,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 423032,
+        "num": 345089,
+        "word": "杨肸子是赵丽颖十多年老粉",
+        "onboard_time": 1745734941,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 340944,
+        "num": 340944,
+        "word": "张继科让球迷说话经过大脑",
+        "onboard_time": 1745735602,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 330038,
+        "num": 330038,
+        "word": "上4休5上4",
+        "onboard_time": 1745720241,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 329378,
+        "num": 329378,
+        "word": "苹果客服回应闹钟调休日不响",
+        "onboard_time": 1745729544,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 320293,
+        "num": 320293,
+        "word": "律师称石凯照片录音视频为真实记录",
+        "onboard_time": 1745734822,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59838,
+        "num": 297579,
+        "word": "宫崎骏的女性设定如何打破传统",
+        "onboard_time": 1745738542,
+        "rank": 17,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 87572,
+        "num": 291556,
+        "word": "曝沙特Falcons欲收购RNG",
+        "onboard_time": 1745738361,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 215931,
+        "num": 290893,
+        "word": "网购机票被隐形加价获三倍赔偿",
+        "onboard_time": 1745735002,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 290821,
+        "num": 290821,
+        "word": "鹿晗接你下班的男朋友即视感",
+        "onboard_time": 1745721082,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 260830,
+        "num": 260830,
+        "word": "美企没钱付关税上百万元货物滞留中国",
+        "onboard_time": 1745734582,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 260494,
+        "num": 260494,
+        "word": "法院院长办公室休息室达68.7平被处分",
+        "onboard_time": 1745738361,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229293,
+        "num": 229293,
+        "word": "电竞选手洗澡一定要注意安全",
+        "onboard_time": 1745738003,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 151311,
+        "num": 220242,
+        "word": "电竞选手的人生秀场",
+        "onboard_time": 1745738361,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 219503,
+        "num": 219503,
+        "word": "石凯",
+        "onboard_time": 1745734762,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213243,
+        "num": 213243,
+        "word": "于适带你解锁青岛的魅力",
+        "onboard_time": 1745733202,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 179160,
+        "num": 210927,
+        "word": "王一博赛车故障退赛",
+        "onboard_time": 1745727440,
+        "rank": 27,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 105373,
+        "num": 209144,
+        "word": "5种常见蔬菜是抗炎高手",
+        "onboard_time": 1745738361,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 42169,
+        "num": 208965,
+        "word": "男子开发AI面试作弊拿到亚马逊实习",
+        "onboard_time": 1745738420,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208892,
+        "num": 208892,
+        "word": "labubu联名款原价599元被炒至1.4万",
+        "onboard_time": 1745731283,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241742,
+        "num": 208873,
+        "word": "台20万民众集会怒骂赖清德",
+        "onboard_time": 1745736981,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 207978,
+        "num": 207978,
+        "word": "女子旅行途中惊闻独子离世崩溃大哭",
+        "onboard_time": 1745728522,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199702,
+        "num": 199702,
+        "word": "美国95%的进口婴儿手推车产自中国",
+        "onboard_time": 1745736321,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 199425,
+        "num": 199425,
+        "word": "小米时隔十年重夺中国智能手机第一",
+        "onboard_time": 1745738902,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 160424,
+        "num": 175830,
+        "word": "等刘诗诗新剧满脑子不要出圈",
+        "onboard_time": 1745738120,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169961,
+        "num": 169961,
+        "word": "刘强东母亲现身京东食堂煮饺子",
+        "onboard_time": 1745733563,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 165325,
+        "num": 165325,
+        "word": "金价",
+        "onboard_time": 1745734041,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 160955,
+        "num": 160955,
+        "word": "男子在生殖医院做手术后次日身亡",
+        "onboard_time": 1745739262,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6607,
+        "num": 160449,
+        "word": "关注315曝光问题的后续",
+        "onboard_time": 1745738841,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160326,
+        "num": 160326,
+        "word": "WBG幻贺洗澡摔伤",
+        "onboard_time": 1745737881,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 157959,
+        "num": 157959,
+        "word": "大连海域现江豚尸体身上有4个圆孔",
+        "onboard_time": 1745734341,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155152,
+        "num": 155152,
+        "word": "肖战直接坐在中控台看的",
+        "onboard_time": 1745721021,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 152969,
+        "num": 152969,
+        "word": "陈哲远包场支持独一无二",
+        "onboard_time": 1745738902,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 152862,
+        "num": 152862,
+        "word": "这届网友联机主打一个互坑",
+        "onboard_time": 1745739083,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 149895,
+        "num": 149895,
+        "word": "银川市长信箱已读乱回",
+        "onboard_time": 1745727022,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146988,
+        "num": 146988,
+        "word": "韩红回应母亲去世演唱会照常举办",
+        "onboard_time": 1745728642,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 143883,
+        "num": 143883,
+        "word": "特朗普政府激怒了加拿大人",
+        "onboard_time": 1745739322,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 142337,
+        "num": 142337,
+        "word": "五一假期会很热",
+        "onboard_time": 1745734941,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142471,
+        "num": 142279,
+        "word": "丁禹兮淮水竹亭面具造型",
+        "onboard_time": 1745737221,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#从数据看中国经济高质量发展的确定性#"
+    }
+  }
+}
