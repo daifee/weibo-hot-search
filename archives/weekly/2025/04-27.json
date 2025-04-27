@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1745768285079,
+  "endTime": 1745771302155,
   "band_list": [
     {
       "raw_hot": 8960529,
@@ -363,6 +363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 705360,
+      "num": 534471,
+      "word": "曹骏 没受过互联网毒害的美",
+      "onboard_time": 1745768782,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 675671,
       "num": 473057,
       "word": "当代年轻人的恶心穿搭",
@@ -409,6 +417,14 @@
       "onboard_time": 1745736441,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 626879,
+      "num": 626879,
+      "word": "深圳兔子警官爆火出圈了",
+      "onboard_time": 1745770101,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 615662,
@@ -947,6 +963,14 @@
       "category": "电影,作品衍生"
     },
     {
+      "raw_hot": 314653,
+      "num": 160000,
+      "word": "seventeen",
+      "onboard_time": 1745769441,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 314622,
       "num": 314622,
       "word": "特朗普妄称中国要做出让步",
@@ -1059,6 +1083,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 277572,
+      "num": 223945,
+      "word": "沈腾果然起早贪黑刷微博",
+      "onboard_time": 1745765964,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 277049,
       "num": 227749,
       "word": "谢霆锋儿子现身演唱会",
@@ -1113,14 +1145,6 @@
       "onboard_time": 1745749880,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 265996,
-      "num": 223945,
-      "word": "沈腾果然起早贪黑刷微博",
-      "onboard_time": 1745765964,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 265304,
@@ -1419,6 +1443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 217059,
+      "num": 188070,
+      "word": "刘青云四封金像奖影帝",
+      "onboard_time": 1745767464,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 216036,
       "num": 304160,
       "word": "下调离境退税起退点上调现金退税限额",
@@ -1704,14 +1736,6 @@
       "word": "王俊凯和一群实力派演员坐在一起",
       "onboard_time": 1745757982,
       "rank": 28,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 191843,
-      "num": 188070,
-      "word": "刘青云四封金像奖影帝",
-      "onboard_time": 1745767464,
-      "rank": 26,
       "category": "电影"
     },
     {
@@ -2779,6 +2803,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 116898,
+      "num": 116898,
+      "word": "家属以为医院是正规公立专科医院",
+      "onboard_time": 1745768602,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116392,
       "num": 151532,
       "word": "被刘宇宁这首歌打动了",
@@ -2809,6 +2841,14 @@
       "onboard_time": 1745742082,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 113490,
+      "num": 113490,
+      "word": "李现回应获2025导演大会年度男主角",
+      "onboard_time": 1745770341,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 112995,
@@ -2843,6 +2883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111522,
+      "num": 111522,
+      "word": "利物浦vs热刺",
+      "onboard_time": 1745770700,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110214,
       "num": 151385,
       "word": "全款76万买到260平的房子",
@@ -2865,6 +2913,14 @@
       "onboard_time": 1745732122,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 107896,
+      "num": 107896,
+      "word": "胡先煦怼脸生图",
+      "onboard_time": 1745768602,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 107869,
@@ -3107,6 +3163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 89583,
+      "num": 116806,
+      "word": "东风日产N7爆单了",
+      "onboard_time": 1745769441,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 88537,
       "num": 858104,
       "word": "MadeInChina硬控全球客商",
@@ -3235,12 +3299,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 75071,
+      "num": 75071,
+      "word": "螺蛳粉闷大米饭",
+      "onboard_time": 1745769021,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 74850,
       "num": 150152,
       "word": "韩红演唱会嘉宾薛之谦",
       "onboard_time": 1745676083,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 74667,
+      "num": 74667,
+      "word": "aespa人气歌谣东京",
+      "onboard_time": 1745771061,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 74381,

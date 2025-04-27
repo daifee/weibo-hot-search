@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1745768285079,
+  "endTime": 1745771302155,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -9483,6 +9483,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 705360,
+      "num": 534471,
+      "word": "曹骏 没受过互联网毒害的美",
+      "onboard_time": 1745768782,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 705307,
       "num": 609445,
       "word": "美国提出乌领土分割方案",
@@ -10928,6 +10936,14 @@
       "word": "上海799一位的自助餐厅卷款跑路",
       "onboard_time": 1744680981,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 626879,
+      "num": 626879,
+      "word": "深圳兔子警官爆火出圈了",
+      "onboard_time": 1745770101,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -22987,6 +23003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 314653,
+      "num": 160000,
+      "word": "seventeen",
+      "onboard_time": 1745769441,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 314622,
       "num": 314622,
       "word": "特朗普妄称中国要做出让步",
@@ -26043,6 +26067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 277572,
+      "num": 223945,
+      "word": "沈腾果然起早贪黑刷微博",
+      "onboard_time": 1745765964,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 277517,
       "num": 277517,
       "word": "薛凯琪不想自己的状态麻烦他人",
@@ -27089,14 +27121,6 @@
       "onboard_time": 1744974442,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 265996,
-      "num": 223945,
-      "word": "沈腾果然起早贪黑刷微博",
-      "onboard_time": 1745765964,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 265933,
@@ -33057,6 +33081,14 @@
       "onboard_time": 1744604544,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 217059,
+      "num": 188070,
+      "word": "刘青云四封金像奖影帝",
+      "onboard_time": 1745767464,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 216964,
@@ -40113,14 +40145,6 @@
       "onboard_time": 1744784182,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 191843,
-      "num": 188070,
-      "word": "刘青云四封金像奖影帝",
-      "onboard_time": 1745767464,
-      "rank": 26,
-      "category": "电影"
     },
     {
       "raw_hot": 191823,
@@ -67075,6 +67099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116898,
+      "num": 116898,
+      "word": "家属以为医院是正规公立专科医院",
+      "onboard_time": 1745768602,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116859,
       "num": 116859,
       "word": "马嘉祺踏青vlog",
@@ -68091,6 +68123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113490,
+      "num": 113490,
+      "word": "李现回应获2025导演大会年度男主角",
+      "onboard_time": 1745770341,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113429,
       "num": 177476,
       "word": "范玮琪跪谢粉丝",
@@ -68697,6 +68737,14 @@
       "onboard_time": 1744622843,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 111522,
+      "num": 111522,
+      "word": "利物浦vs热刺",
+      "onboard_time": 1745770700,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 111510,
@@ -69689,6 +69737,14 @@
       "onboard_time": 1745467462,
       "rank": 13,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 107896,
+      "num": 107896,
+      "word": "胡先煦怼脸生图",
+      "onboard_time": 1745768602,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 107883,
@@ -74171,6 +74227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89583,
+      "num": 116806,
+      "word": "东风日产N7爆单了",
+      "onboard_time": 1745769441,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 89573,
       "num": 214390,
       "word": "美股跌完美债跌",
@@ -77131,6 +77195,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 75071,
+      "num": 75071,
+      "word": "螺蛳粉闷大米饭",
+      "onboard_time": 1745769021,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 75066,
       "num": 197117,
       "word": "宝妈哺乳期内被辞退获赔8万",
@@ -77225,6 +77297,14 @@
       "onboard_time": 1745303183,
       "rank": 18,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 74667,
+      "num": 74667,
+      "word": "aespa人气歌谣东京",
+      "onboard_time": 1745771061,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 74666,
