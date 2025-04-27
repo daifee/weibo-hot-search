@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1745753789396,
+  "endTime": 1745757797092,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1603,6 +1603,14 @@
       "category": "艺人,互联网"
     },
     {
+      "raw_hot": 3603385,
+      "num": 3603385,
+      "word": "王一博口型 看不会得",
+      "onboard_time": 1745754561,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
       "raw_hot": 3601714,
       "num": 744182,
       "word": "某某",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1738076625,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 3008661,
-      "num": 1585175,
-      "word": "才二十三",
-      "onboard_time": 1740808433,
-      "rank": 7,
-      "category": "音乐"
     }
   ],
   "hotgov_list": [

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/04/27 19:36:29
+本榜单时间：2025/01/01 00:26:38 ~ 2025/04/27 20:43:17
 </p>
 </blockquote>
 <p>
@@ -1215,6 +1215,12 @@ bnd粉丝去世（热度：4621424）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%8F%A3%E5%9E%8B%20%E7%9C%8B%E4%B8%8D%E4%BC%9A%E5%BE%97%23" target="weibo">
+王一博口型 看不会得（热度：3603385）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9F%90%E6%9F%90%23" target="weibo">
 某某（热度：3601714）
 </a>
@@ -1805,12 +1811,6 @@ DeepSeek（热度：3038517）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9Arap%23" target="weibo">
 王一博rap（热度：3011890）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%89%8D%E4%BA%8C%E5%8D%81%E4%B8%89%23" target="weibo">
-才二十三（热度：3008661）
 </a>
 </li>
 

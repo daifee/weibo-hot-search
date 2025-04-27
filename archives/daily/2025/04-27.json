@@ -1,12 +1,20 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1745753789396,
+  "endTime": 1745757797092,
   "band_list": [
     {
       "raw_hot": 4073618,
       "num": 4073618,
       "word": "惠英红 华表影后",
       "onboard_time": 1745748501,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 3603385,
+      "num": 3603385,
+      "word": "王一博口型 看不会得",
+      "onboard_time": 1745754561,
       "rank": 0,
       "category": "电影"
     },
@@ -97,6 +105,14 @@
       "onboard_time": 1745737162,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1421042,
+      "num": 295758,
+      "word": "酒肉情侣",
+      "onboard_time": 1745752102,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 1331228,
@@ -275,12 +291,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 721541,
+      "num": 247394,
+      "word": "刘亦菲人鱼高定",
+      "onboard_time": 1745755343,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 693974,
+      "num": 305271,
+      "word": "中日友好医院肖飞",
+      "onboard_time": 1745749521,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 675671,
       "num": 473057,
       "word": "当代年轻人的恶心穿搭",
       "onboard_time": 1745720542,
       "rank": 11,
       "category": "幽默,突发/灾害"
+    },
+    {
+      "raw_hot": 665213,
+      "num": 202797,
+      "word": "香港相差26岁夫妻25天闪婚",
+      "onboard_time": 1745754681,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 657102,
@@ -435,6 +475,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 534917,
+      "num": 201133,
+      "word": "榜上佳婿 男主",
+      "onboard_time": 1745755343,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 528498,
       "num": 528498,
       "word": "年轻人为什么对火锅祛魅了",
@@ -505,14 +553,6 @@
       "onboard_time": 1745748802,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 444591,
-      "num": 305271,
-      "word": "中日友好医院肖飞",
-      "onboard_time": 1745749521,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 431172,
@@ -627,6 +667,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 375985,
+      "num": 311063,
+      "word": "饿了么今天便宜到不敢点",
+      "onboard_time": 1745748082,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 373360,
       "num": 373360,
       "word": "张凌赫王楚然 这一秒",
@@ -649,6 +697,14 @@
       "onboard_time": 1745728462,
       "rank": 14,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 353546,
+      "num": 198903,
+      "word": "虞书欣直播",
+      "onboard_time": 1745754921,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 353244,
@@ -681,6 +737,14 @@
       "onboard_time": 1745728522,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 326695,
+      "num": 200953,
+      "word": "谢霆锋带儿子吃饭",
+      "onboard_time": 1745756782,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 325495,
@@ -763,14 +827,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 311063,
-      "num": 311063,
-      "word": "饿了么今天便宜到不敢点",
-      "onboard_time": 1745748082,
-      "rank": 14,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 304670,
       "num": 451347,
       "word": "美企没钱付关税上百万元货物滞留中国",
@@ -803,14 +859,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 295758,
-      "num": 295758,
-      "word": "酒肉情侣",
-      "onboard_time": 1745752102,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 289065,
       "num": 289065,
       "word": "张淼怡聊斋开机生图",
@@ -825,6 +873,14 @@
       "onboard_time": 1745680463,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 280023,
+      "num": 180715,
+      "word": "医生称女性高潮针有感染出血等风险",
+      "onboard_time": 1745752280,
+      "rank": 30,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 277049,
@@ -947,6 +1003,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 247658,
+      "num": 196716,
+      "word": "男子怕被妻子发现赴泰玩乐水洗护照",
+      "onboard_time": 1745755641,
+      "rank": 24,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 246282,
       "num": 246282,
       "word": "风月不相关简介改成大男主了",
@@ -961,6 +1025,14 @@
       "onboard_time": 1745725281,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 244676,
+      "num": 244676,
+      "word": "小米抽奖抽到总裁卢伟冰",
+      "onboard_time": 1745754740,
+      "rank": 8,
+      "category": "互联网"
     },
     {
       "raw_hot": 241742,
@@ -1195,6 +1267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206596,
+      "num": 206596,
+      "word": "WBG对战iG",
+      "onboard_time": 1745753361,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 206477,
       "num": 206477,
       "word": "特朗普政府激怒了加拿大人",
@@ -1291,6 +1371,14 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 194536,
+      "num": 194536,
+      "word": "张康乐rv晚宴造型",
+      "onboard_time": 1745757144,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 194510,
       "num": 194510,
       "word": "王俊凯都是熟人",
@@ -1353,14 +1441,6 @@
       "onboard_time": 1745731161,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 189842,
-      "num": 180715,
-      "word": "医生称女性高潮针有感染出血等风险",
-      "onboard_time": 1745752280,
-      "rank": 30,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 188763,
@@ -1667,6 +1747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158575,
+      "num": 158575,
+      "word": "电视剧导演大会",
+      "onboard_time": 1745757203,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158571,
       "num": 423971,
       "word": "特朗普希望免费通行巴拿马苏伊士运河",
@@ -1851,6 +1939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145536,
+      "num": 145536,
+      "word": "SEVENTEEN耳返故障",
+      "onboard_time": 1745755641,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 145206,
       "num": 151794,
       "word": "黄子弘凡在张杰演唱会帮带ID",
@@ -1923,6 +2019,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 140385,
+      "num": 140385,
+      "word": "韩安冉准备把账号还给婆婆",
+      "onboard_time": 1745757022,
+      "rank": 36,
+      "category": "网红"
+    },
+    {
       "raw_hot": 139365,
       "num": 276916,
       "word": "宣称免费领养实为贷款买猫",
@@ -1977,6 +2081,14 @@
       "onboard_time": 1745736020,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 136982,
+      "num": 136982,
+      "word": "京东外卖",
+      "onboard_time": 1745755162,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 136801,
@@ -2163,14 +2275,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 123820,
-      "num": 123820,
-      "word": "WBG对战iG",
-      "onboard_time": 1745753361,
-      "rank": 46,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 122145,
       "num": 122145,
       "word": "UFC",
@@ -2211,6 +2315,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118406,
+      "num": 118406,
+      "word": "沉珂说伤痛表达可能是求救讯号",
+      "onboard_time": 1745757684,
+      "rank": 45,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 118376,
+      "num": 118376,
+      "word": "吴彤爆余宇涵被换角想订机票回家",
+      "onboard_time": 1745756061,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116392,
       "num": 151532,
       "word": "被刘宇宁这首歌打动了",
@@ -2243,6 +2363,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 113768,
+      "num": 113768,
+      "word": "rv晚宴",
+      "onboard_time": 1745757564,
+      "rank": 48,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 113280,
+      "num": 203294,
+      "word": "男子在生殖医院手术后身亡家属发声",
+      "onboard_time": 1745755760,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112871,
       "num": 309018,
       "word": "这就是50万级销冠的魅力吗",
@@ -2259,12 +2395,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 111997,
+      "num": 310517,
+      "word": "凯迪拉克为爱来电",
+      "onboard_time": 1745751803,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110214,
       "num": 151385,
       "word": "全款76万买到260平的房子",
       "onboard_time": 1745664621,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 110190,
+      "num": 169083,
+      "word": "山西男篮vs北京男篮",
+      "onboard_time": 1745756362,
+      "rank": 29,
+      "category": "体育,其它"
     },
     {
       "raw_hot": 108434,
@@ -2427,12 +2579,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 93199,
-      "num": 310517,
-      "word": "凯迪拉克为爱来电",
-      "onboard_time": 1745751803,
-      "rank": 13,
-      "category": "体育"
+      "raw_hot": 93007,
+      "num": 122872,
+      "word": "闪耀暖暖",
+      "onboard_time": 1745754740,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 92566,
@@ -2441,6 +2593,14 @@
       "onboard_time": 1745743281,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 92405,
+      "num": 142869,
+      "word": "犯罪经历不该成为炒作引流的资本",
+      "onboard_time": 1745757622,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92151,
@@ -2683,6 +2843,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 66781,
+      "num": 131480,
+      "word": "魔卡少女樱双生库洛牌",
+      "onboard_time": 1745756242,
+      "rank": 38,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 64798,
       "num": 155501,
       "word": "井胧井迪是我见过最美好的手足情",
@@ -2721,6 +2889,14 @@
       "onboard_time": 1745738542,
       "rank": 17,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 57952,
+      "num": 120975,
+      "word": "奇妙生物圈",
+      "onboard_time": 1745756603,
+      "rank": 43,
+      "category": "科学科普"
     },
     {
       "raw_hot": 56976,
@@ -2913,6 +3089,14 @@
       "onboard_time": 1745742621,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36968,
+      "num": 159776,
+      "word": "哪些变化的痣可能是癌症的早期信号",
+      "onboard_time": 1745756543,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 34909,
@@ -3115,6 +3299,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 20347,
+      "num": 148468,
+      "word": "南京闯进电视台的野猪是从哪来的",
+      "onboard_time": 1745757684,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20247,
       "num": 28532,
       "word": "时代少年团演唱会答题",
@@ -3219,6 +3411,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 13077,
+      "num": 125595,
+      "word": "被人们嫌弃的廉航赚疯了",
+      "onboard_time": 1745757742,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 12807,
       "num": 15965,
       "word": "100块在8点后的北京有多值钱",
@@ -3257,6 +3457,14 @@
       "onboard_time": 1745709439,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 8379,
+      "num": 131066,
+      "word": "网友吐槽意林收AI写的文",
+      "onboard_time": 1745757564,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 8150,
