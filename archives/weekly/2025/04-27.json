@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1745728946385,
+  "endTime": 1745731429361,
   "band_list": [
     {
       "raw_hot": 2550222,
@@ -43,12 +43,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1562778,
+      "num": 1562778,
+      "word": "肥猪能不能别来挤地铁啊",
+      "onboard_time": 1745728102,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1507923,
       "num": 1507923,
       "word": "调休",
       "onboard_time": 1745713582,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1297253,
+      "num": 1297253,
+      "word": "华妃只认第一学历",
+      "onboard_time": 1745727922,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 1204342,
@@ -155,14 +171,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 610321,
-      "num": 511825,
-      "word": "华妃只认第一学历",
-      "onboard_time": 1745727922,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 605666,
       "num": 375792,
       "word": "肖战追星和我们也没区别",
@@ -217,6 +225,14 @@
       "onboard_time": 1745727440,
       "rank": 18,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 541907,
+      "num": 361164,
+      "word": "韩红回应母亲去世演唱会照常举办",
+      "onboard_time": 1745728642,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 524962,
@@ -331,20 +347,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 362435,
+      "num": 362435,
+      "word": "印度未事先通知突然开闸泄洪",
+      "onboard_time": 1745730204,
+      "rank": 8,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 359982,
+      "num": 511037,
+      "word": "人均500日料店回收食材给下一桌",
+      "onboard_time": 1745728462,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 352771,
       "num": 352771,
       "word": "疑似邓超用五哈给孙俪剧宣",
       "onboard_time": 1745711360,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 344172,
-      "num": 344172,
-      "word": "肥猪能不能别来挤地铁啊",
-      "onboard_time": 1745728102,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 325495,
@@ -427,12 +451,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 271673,
+      "num": 271673,
+      "word": "苹果客服回应闹钟调休日不响",
+      "onboard_time": 1745729544,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
       "raw_hot": 265304,
       "num": 265304,
       "word": "李沐宸迟到被换角",
       "onboard_time": 1745675303,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 263993,
+      "num": 263993,
+      "word": "赵丽颖登上城士封面",
+      "onboard_time": 1745728281,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 263578,
@@ -449,6 +489,14 @@
       "onboard_time": 1745682622,
       "rank": 43,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 251883,
+      "num": 256155,
+      "word": "女子旅行途中惊闻独子离世崩溃大哭",
+      "onboard_time": 1745728522,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 250363,
@@ -483,6 +531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 242432,
+      "num": 242432,
+      "word": "谢霆锋王菲隔空合唱玉蝴蝶",
+      "onboard_time": 1745730802,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 241189,
       "num": 251711,
       "word": "肖战孙燕姿演唱会后发文",
@@ -497,6 +553,22 @@
       "onboard_time": 1745723540,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 229797,
+      "num": 229797,
+      "word": "老人不要利息执意取107万银行报警",
+      "onboard_time": 1745728823,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 227742,
+      "num": 253609,
+      "word": "一诺化身黑骑士",
+      "onboard_time": 1745730683,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 227609,
@@ -555,14 +627,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 217253,
-      "num": 254432,
-      "word": "赵丽颖登上城士封面",
-      "onboard_time": 1745728281,
-      "rank": 30,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 216036,
       "num": 304160,
       "word": "下调离境退税起退点上调现金退税限额",
@@ -579,6 +643,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 208402,
+      "num": 208402,
+      "word": "蛮好的人生豆瓣评分6.1",
+      "onboard_time": 1745730502,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201503,
       "num": 201503,
       "word": "山东事业编成绩",
@@ -588,19 +660,27 @@
     },
     {
       "raw_hot": 199765,
-      "num": 1010422,
+      "num": 1339888,
       "word": "外商组团到义乌买买买",
       "onboard_time": 1745723781,
       "rank": 2,
       "category": "国内时政"
     },
     {
-      "raw_hot": 199662,
-      "num": 199662,
-      "word": "韩红回应母亲去世演唱会照常举办",
-      "onboard_time": 1745728642,
-      "rank": 35,
-      "category": "演出"
+      "raw_hot": 196662,
+      "num": 196662,
+      "word": "王一博出发参加华表奖",
+      "onboard_time": 1745730323,
+      "rank": 31,
+      "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 195296,
+      "num": 195296,
+      "word": "淮水竹亭",
+      "onboard_time": 1745730383,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 194787,
@@ -675,6 +755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173848,
+      "num": 173848,
+      "word": "光与夜之恋全新资料片",
+      "onboard_time": 1745730802,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 173181,
       "num": 173181,
       "word": "陆虎不再参加比赛的原因找到了",
@@ -713,6 +801,14 @@
       "onboard_time": 1745723781,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 163342,
+      "num": 163342,
+      "word": "未定事件簿",
+      "onboard_time": 1745729782,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 161800,
@@ -755,12 +851,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 157748,
+      "num": 157748,
+      "word": "夏以昼 狗塑",
+      "onboard_time": 1745730982,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 157596,
       "num": 157596,
       "word": "反向减肥",
       "onboard_time": 1745726842,
       "rank": 35,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 155467,
+      "num": 155467,
+      "word": "labubu联名款原价599元被炒至1.4万",
+      "onboard_time": 1745731283,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155422,
@@ -803,6 +915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150443,
+      "num": 150443,
+      "word": "周杰伦演唱会万人齐喊周游记",
+      "onboard_time": 1745731161,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 149747,
       "num": 149747,
       "word": "消息人士称哈马斯愿释放全部人质换停火",
@@ -833,14 +953,6 @@
       "onboard_time": 1745679744,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 144668,
-      "num": 144668,
-      "word": "老人不要利息执意取107万银行报警",
-      "onboard_time": 1745728823,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 144533,
@@ -899,6 +1011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135586,
+      "num": 135586,
+      "word": "抗癌网红小雨离世妈妈发声",
+      "onboard_time": 1745731222,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 135034,
       "num": 135034,
       "word": "列车窗户已经进化成这样了吗",
@@ -929,6 +1049,14 @@
       "onboard_time": 1745720422,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 130092,
+      "num": 130092,
+      "word": "黎深蕾丝项圈",
+      "onboard_time": 1745731404,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 129468,
@@ -1131,6 +1259,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 91048,
+      "num": 157752,
+      "word": "韩国一公司要求员工天天洗澡引争议",
+      "onboard_time": 1745729544,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 90239,
       "num": 90239,
       "word": "发明调休的人有没有考虑过单休的人",
@@ -1161,6 +1297,14 @@
       "onboard_time": 1745667683,
       "rank": 40,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 85886,
+      "num": 300417,
+      "word": "TEMPEST新浪扫楼",
+      "onboard_time": 1745730683,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 85067,
@@ -1275,6 +1419,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 72875,
+      "num": 299198,
+      "word": "顾客将狗带进餐厅用店内盘子喂饭",
+      "onboard_time": 1745730383,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72251,
       "num": 72251,
       "word": "把六旬老人吴镇宇气成小伙了",
@@ -1323,6 +1475,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 64798,
+      "num": 155501,
+      "word": "井胧井迪是我见过最美好的手足情",
+      "onboard_time": 1745729663,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 62965,
       "num": 316110,
       "word": "约基奇36分",
@@ -1337,14 +1497,6 @@
       "onboard_time": 1745685559,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 59989,
-      "num": 511037,
-      "word": "人均500日料店回收食材给下一桌",
-      "onboard_time": 1745728462,
-      "rank": 14,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 56208,
@@ -1432,14 +1584,6 @@
       "word": "胡锡进重申董明珠应道歉",
       "onboard_time": 1745709740,
       "rank": 35,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 37910,
-      "num": 256155,
-      "word": "女子旅行途中惊闻独子离世崩溃大哭",
-      "onboard_time": 1745728522,
-      "rank": 29,
       "category": "民生新闻"
     },
     {

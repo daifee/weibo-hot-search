@@ -1,0 +1,410 @@
+{
+  "runTime": 1745731429361,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1562778,
+        "num": 1562778,
+        "word": "肥猪能不能别来挤地铁啊",
+        "onboard_time": 1745728102,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1560734,
+        "num": 1560734,
+        "word": "银川市长信箱已读乱回",
+        "onboard_time": 1745727022,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139878,
+        "num": 1339888,
+        "word": "外商组团到义乌买买买",
+        "onboard_time": 1745723781,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1297253,
+        "num": 1297253,
+        "word": "华妃只认第一学历",
+        "onboard_time": 1745727922,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 741936,
+        "num": 741936,
+        "word": "鹿晗接你下班的男朋友即视感",
+        "onboard_time": 1745721082,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 431618,
+        "num": 431618,
+        "word": "恋与深空",
+        "onboard_time": 1745723001,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 621703,
+        "num": 400793,
+        "word": "肖战直接坐在中控台看的",
+        "onboard_time": 1745721021,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 720201,
+        "num": 398453,
+        "word": "上4休5上4",
+        "onboard_time": 1745720241,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 362435,
+        "num": 362435,
+        "word": "印度未事先通知突然开闸泄洪",
+        "onboard_time": 1745730204,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 293883,
+        "num": 361860,
+        "word": "被泉州簪花美一大跳",
+        "onboard_time": 1745724201,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 994321,
+        "num": 361328,
+        "word": "小郑嘻嘻离婚",
+        "onboard_time": 1745719941,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 541907,
+        "num": 361164,
+        "word": "韩红回应母亲去世演唱会照常举办",
+        "onboard_time": 1745728642,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 415787,
+        "num": 360287,
+        "word": "王一博赛车故障退赛",
+        "onboard_time": 1745727440,
+        "rank": 12,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 359982,
+        "num": 359982,
+        "word": "人均500日料店回收食材给下一桌",
+        "onboard_time": 1745728462,
+        "rank": 13,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 334153,
+        "num": 334153,
+        "word": "裸辞一年发现不上班根本不需要旅游",
+        "onboard_time": 1745676863,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 324054,
+        "num": 324054,
+        "word": "84斤女子吐槽买百件衣服基本穿不上",
+        "onboard_time": 1745709679,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 311033,
+        "num": 311033,
+        "word": "傅首尔问李沐宸哭有啥用",
+        "onboard_time": 1745724802,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67577,
+        "num": 303649,
+        "word": "你的每一步都不白走",
+        "onboard_time": 1745727322,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85886,
+        "num": 300417,
+        "word": "TEMPEST新浪扫楼",
+        "onboard_time": 1745730683,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 72875,
+        "num": 299198,
+        "word": "顾客将狗带进餐厅用店内盘子喂饭",
+        "onboard_time": 1745730383,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 298708,
+        "num": 298708,
+        "word": "谢霆锋儿子颜值",
+        "onboard_time": 1745709620,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 283547,
+        "num": 283547,
+        "word": "杨紫 MK",
+        "onboard_time": 1745714363,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271673,
+        "num": 271673,
+        "word": "苹果客服回应闹钟调休日不响",
+        "onboard_time": 1745729544,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 263993,
+        "num": 263993,
+        "word": "赵丽颖登上城士封面",
+        "onboard_time": 1745728281,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 227742,
+        "num": 253609,
+        "word": "一诺化身黑骑士",
+        "onboard_time": 1745730683,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 251883,
+        "num": 251883,
+        "word": "女子旅行途中惊闻独子离世崩溃大哭",
+        "onboard_time": 1745728522,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250690,
+        "num": 250690,
+        "word": "柯淳回应酒吧蹦迪",
+        "onboard_time": 1745720361,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242432,
+        "num": 242432,
+        "word": "谢霆锋王菲隔空合唱玉蝴蝶",
+        "onboard_time": 1745730802,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 229797,
+        "num": 229797,
+        "word": "老人不要利息执意取107万银行报警",
+        "onboard_time": 1745728823,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170752,
+        "num": 213981,
+        "word": "易烊千玺带你穿越中国电影120年",
+        "onboard_time": 1745720361,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 208402,
+        "num": 208402,
+        "word": "蛮好的人生豆瓣评分6.1",
+        "onboard_time": 1745730502,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196662,
+        "num": 196662,
+        "word": "王一博出发参加华表奖",
+        "onboard_time": 1745730323,
+        "rank": 31,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 195296,
+        "num": 195296,
+        "word": "淮水竹亭",
+        "onboard_time": 1745730383,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179992,
+        "num": 179992,
+        "word": "当代年轻人的恶心穿搭",
+        "onboard_time": 1745720542,
+        "rank": 33,
+        "category": "幽默,突发/灾害"
+      },
+      {
+        "raw_hot": 173848,
+        "num": 173848,
+        "word": "光与夜之恋全新资料片",
+        "onboard_time": 1745730802,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 170082,
+        "num": 170082,
+        "word": "买不买房差别有多大",
+        "onboard_time": 1745727202,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166163,
+        "num": 166163,
+        "word": "发现凤梨可以手撕的人真是个天才",
+        "onboard_time": 1745723301,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163342,
+        "num": 163342,
+        "word": "未定事件簿",
+        "onboard_time": 1745729782,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 163261,
+        "num": 163261,
+        "word": "韩国的盒饭们",
+        "onboard_time": 1745726301,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 91048,
+        "num": 157752,
+        "word": "韩国一公司要求员工天天洗澡引争议",
+        "onboard_time": 1745729544,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 157748,
+        "num": 157748,
+        "word": "夏以昼 狗塑",
+        "onboard_time": 1745730982,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 64798,
+        "num": 155501,
+        "word": "井胧井迪是我见过最美好的手足情",
+        "onboard_time": 1745729663,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 155467,
+        "num": 155467,
+        "word": "labubu联名款原价599元被炒至1.4万",
+        "onboard_time": 1745731283,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150665,
+        "num": 150665,
+        "word": "RW选手正赛集体断网",
+        "onboard_time": 1745728642,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 150443,
+        "num": 150443,
+        "word": "周杰伦演唱会万人齐喊周游记",
+        "onboard_time": 1745731161,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 141949,
+        "num": 141949,
+        "word": "魏大勋孙千像共舞又像是对弈",
+        "onboard_time": 1745728761,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135586,
+        "num": 135586,
+        "word": "抗癌网红小雨离世妈妈发声",
+        "onboard_time": 1745731222,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131332,
+        "num": 131332,
+        "word": "刘学义敖瑞鹏领衔主演",
+        "onboard_time": 1745723540,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131308,
+        "num": 131308,
+        "word": "高瀚宇吃了掉在地上的棒棒糖",
+        "onboard_time": 1745728581,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130092,
+        "num": 130092,
+        "word": "黎深蕾丝项圈",
+        "onboard_time": 1745731404,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#从数据看中国经济高质量发展的确定性#"
+    }
+  }
+}
