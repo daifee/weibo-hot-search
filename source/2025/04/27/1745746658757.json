@@ -1,0 +1,410 @@
+{
+  "runTime": 1745746658757,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1268497,
+        "num": 1268497,
+        "word": "学生向教育局举报饭菜有蛆被骂",
+        "onboard_time": 1745744181,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1230357,
+        "num": 1230357,
+        "word": "厚底鞋",
+        "onboard_time": 1745740102,
+        "rank": 1,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 92566,
+        "num": 1157693,
+        "word": "六部门发文优化离境退税政策",
+        "onboard_time": 1745743281,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1091901,
+        "num": 1091901,
+        "word": "关晓彤戴假发",
+        "onboard_time": 1745737162,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 819599,
+        "num": 819599,
+        "word": "邓超想跟孙俪再结一次婚",
+        "onboard_time": 1745740461,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 630565,
+        "num": 630565,
+        "word": "男子在生殖医院做手术后次日身亡",
+        "onboard_time": 1745739262,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 794713,
+        "num": 623028,
+        "word": "王一博没赶上华表奖红毯",
+        "onboard_time": 1745740162,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 546461,
+        "num": 546461,
+        "word": "中纪委通报三河招牌改色事件",
+        "onboard_time": 1745744181,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 479958,
+        "num": 479958,
+        "word": "华表奖座位安排",
+        "onboard_time": 1745743221,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 61522,
+        "num": 470381,
+        "word": "李在明当选韩国共同民主党总统候选人",
+        "onboard_time": 1745745981,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 899453,
+        "num": 459714,
+        "word": "小奶狗被主人2次狠摔致死",
+        "onboard_time": 1745742981,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 765244,
+        "num": 439122,
+        "word": "肥猪能不能别来挤地铁啊",
+        "onboard_time": 1745728102,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 551671,
+        "num": 420790,
+        "word": "王菲谢霆锋 姐狗天花板",
+        "onboard_time": 1745735602,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 412292,
+        "num": 412292,
+        "word": "C罗TIFO将台湾移出中国地图",
+        "onboard_time": 1745736140,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 389683,
+        "num": 389683,
+        "word": "华表奖红毯",
+        "onboard_time": 1745734941,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 334980,
+        "num": 334980,
+        "word": "张凌赫王楚然 这一秒",
+        "onboard_time": 1745742023,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 320048,
+        "num": 320048,
+        "word": "河北三河市加重基层负担被通报",
+        "onboard_time": 1745744781,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 359943,
+        "num": 317831,
+        "word": "王菲谢霆锋",
+        "onboard_time": 1745739501,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304226,
+        "num": 304226,
+        "word": "法院院长办公室休息室达68.7平被处分",
+        "onboard_time": 1745738361,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19286,
+        "num": 288102,
+        "word": "苹果本土化设计策略有哪些缺陷",
+        "onboard_time": 1745745742,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 287110,
+        "num": 287110,
+        "word": "这几种痣可能藏着癌",
+        "onboard_time": 1745744063,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 275294,
+        "num": 275294,
+        "word": "章子怡华表奖大花气场",
+        "onboard_time": 1745745202,
+        "rank": 21,
+        "category": "电影,作品衍生"
+      },
+      {
+        "raw_hot": 262720,
+        "num": 262720,
+        "word": "马英九说实在看不下去了",
+        "onboard_time": 1745737822,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 262357,
+        "num": 262357,
+        "word": "刘诗诗秒答迪丽热巴孟子义",
+        "onboard_time": 1745744542,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48892,
+        "num": 243376,
+        "word": "九尾时尚表现力",
+        "onboard_time": 1745741120,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 235518,
+        "num": 235518,
+        "word": "女子孕期坚持跳同一支舞记录变化",
+        "onboard_time": 1745741002,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213728,
+        "num": 213728,
+        "word": "Jennie红色小猫",
+        "onboard_time": 1745746581,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 212584,
+        "num": 212584,
+        "word": "鹿晗王勉辈分乱了",
+        "onboard_time": 1745745083,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197333,
+        "num": 197333,
+        "word": "3起整治形式主义典型问题被公开通报",
+        "onboard_time": 1745744901,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 11289,
+        "num": 195464,
+        "word": "清华大学建校114周年",
+        "onboard_time": 1745745803,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 194842,
+        "num": 194842,
+        "word": "秦海璐穿礼服吃蛤蜊",
+        "onboard_time": 1745745202,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 194510,
+        "num": 194510,
+        "word": "王俊凯都是熟人",
+        "onboard_time": 1745746521,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 189669,
+        "num": 189669,
+        "word": "如果取消调休 罚我五一多放2个月也行",
+        "onboard_time": 1745743582,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176101,
+        "num": 176101,
+        "word": "王一博华表奖坐第一排",
+        "onboard_time": 1745744121,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 172029,
+        "num": 172029,
+        "word": "华妃只认第一学历",
+        "onboard_time": 1745727922,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171478,
+        "num": 171478,
+        "word": "杨超越全黑look",
+        "onboard_time": 1745739741,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 171116,
+        "num": 171116,
+        "word": "樊振东带和平鸽的衣服好有仪式感",
+        "onboard_time": 1745745019,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188399,
+        "num": 171014,
+        "word": "王俊凯杨超越同框",
+        "onboard_time": 1745739862,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 168168,
+        "num": 168168,
+        "word": "印度未事先通知突然开闸泄洪",
+        "onboard_time": 1745730204,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 167856,
+        "num": 167856,
+        "word": "章若楠华表奖红毯生图",
+        "onboard_time": 1745741841,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 167176,
+        "num": 167176,
+        "word": "蓝盈莹也cha了likejennie",
+        "onboard_time": 1745744602,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 158141,
+        "num": 158141,
+        "word": "金价一周内跌跌涨涨",
+        "onboard_time": 1745743521,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 156278,
+        "num": 156278,
+        "word": "男子凌晨开智驾打盹撞上高速护栏",
+        "onboard_time": 1745742683,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150685,
+        "num": 150685,
+        "word": "苹果客服回应闹钟调休日不响",
+        "onboard_time": 1745729544,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 148262,
+        "num": 148262,
+        "word": "张婧仪气质",
+        "onboard_time": 1745745981,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132626,
+        "num": 132626,
+        "word": "奔跑吧13首播收视率",
+        "onboard_time": 1745746281,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128612,
+        "num": 128612,
+        "word": "国际金价出现大幅震荡",
+        "onboard_time": 1745746461,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 126936,
+        "num": 126936,
+        "word": "12345回应男子买狗不满意当场摔死狗",
+        "onboard_time": 1745737822,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124714,
+        "num": 124714,
+        "word": "BRO战胜T1",
+        "onboard_time": 1745745500,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 124514,
+        "num": 124514,
+        "word": "于适带你解锁青岛的魅力",
+        "onboard_time": 1745733202,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#从数据看中国经济高质量发展的确定性#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1745745831143,
+  "endTime": 1745746658757,
   "band_list": [
     {
       "raw_hot": 2550222,
@@ -99,20 +99,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1268497,
+      "num": 1268497,
+      "word": "学生向教育局举报饭菜有蛆被骂",
+      "onboard_time": 1745744181,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1230357,
+      "num": 1230357,
+      "word": "厚底鞋",
+      "onboard_time": 1745740102,
+      "rank": 8,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 1204342,
       "num": 1006537,
       "word": "鹿晗接你下班的男朋友即视感",
       "onboard_time": 1745721082,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1187758,
-      "num": 1187758,
-      "word": "厚底鞋",
-      "onboard_time": 1745740102,
-      "rank": 8,
-      "category": "时尚"
     },
     {
       "raw_hot": 1180534,
@@ -171,8 +179,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 825280,
-      "num": 392027,
+      "raw_hot": 899453,
+      "num": 459714,
       "word": "小奶狗被主人2次狠摔致死",
       "onboard_time": 1745742981,
       "rank": 32,
@@ -371,14 +379,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 537953,
-      "num": 537953,
-      "word": "学生向教育局举报饭菜有蛆被骂",
-      "onboard_time": 1745744181,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 528498,
       "num": 528498,
       "word": "年轻人为什么对火锅祛魅了",
@@ -409,6 +409,14 @@
       "onboard_time": 1745741721,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 479958,
+      "num": 479958,
+      "word": "华表奖座位安排",
+      "onboard_time": 1745743221,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 466180,
@@ -539,14 +547,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 367218,
-      "num": 367218,
-      "word": "华表奖座位安排",
-      "onboard_time": 1745743221,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
       "raw_hot": 362292,
       "num": 362292,
       "word": "杨超越全黑look",
@@ -611,6 +611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 320048,
+      "num": 320048,
+      "word": "河北三河市加重基层负担被通报",
+      "onboard_time": 1745744781,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 319593,
       "num": 319593,
       "word": "比大熊猫更濒危的动物全国仅剩1只",
@@ -657,14 +665,6 @@
       "onboard_time": 1745734582,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 304588,
-      "num": 304588,
-      "word": "河北三河市加重基层负担被通报",
-      "onboard_time": 1745744781,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 304207,
@@ -715,6 +715,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 275294,
+      "num": 275294,
+      "word": "章子怡华表奖大花气场",
+      "onboard_time": 1745745202,
+      "rank": 26,
+      "category": "电影,作品衍生"
+    },
+    {
       "raw_hot": 273756,
       "num": 222955,
       "word": "中医提醒脾胃弱的人少吃3种水果",
@@ -753,6 +761,14 @@
       "onboard_time": 1745726301,
       "rank": 23,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 262357,
+      "num": 262357,
+      "word": "刘诗诗秒答迪丽热巴孟子义",
+      "onboard_time": 1745744542,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 257894,
@@ -995,11 +1011,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 211983,
-      "num": 211983,
-      "word": "刘诗诗秒答迪丽热巴孟子义",
-      "onboard_time": 1745744542,
-      "rank": 25,
+      "raw_hot": 213728,
+      "num": 213728,
+      "word": "Jennie红色小猫",
+      "onboard_time": 1745746581,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 212584,
+      "num": 212584,
+      "word": "鹿晗王勉辈分乱了",
+      "onboard_time": 1745745083,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -1025,14 +1049,6 @@
       "onboard_time": 1745730502,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 207933,
-      "num": 207933,
-      "word": "章子怡华表奖大花气场",
-      "onboard_time": 1745745202,
-      "rank": 26,
-      "category": "电影,作品衍生"
     },
     {
       "raw_hot": 206477,
@@ -1129,6 +1145,14 @@
       "onboard_time": 1745678424,
       "rank": 18,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 194510,
+      "num": 194510,
+      "word": "王俊凯都是熟人",
+      "onboard_time": 1745746521,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 193922,
@@ -1315,6 +1339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171116,
+      "num": 171116,
+      "word": "樊振东带和平鸽的衣服好有仪式感",
+      "onboard_time": 1745745019,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170911,
       "num": 268518,
       "word": "谢霆锋不语只是一味地换吉他",
@@ -1331,27 +1363,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 168108,
-      "num": 168108,
-      "word": "鹿晗王勉辈分乱了",
-      "onboard_time": 1745745083,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 166738,
       "num": 166738,
       "word": "勇士vs火箭",
       "onboard_time": 1745724622,
       "rank": 44,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 166442,
-      "num": 166442,
-      "word": "樊振东带和平鸽的衣服好有仪式感",
-      "onboard_time": 1745745019,
-      "rank": 42,
       "category": "体育"
     },
     {
@@ -1555,6 +1571,14 @@
       "category": "电影,体育"
     },
     {
+      "raw_hot": 148262,
+      "num": 148262,
+      "word": "张婧仪气质",
+      "onboard_time": 1745745981,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 148135,
       "num": 148135,
       "word": "高瀚宇吃了掉在地上的棒棒糖",
@@ -1572,7 +1596,7 @@
     },
     {
       "raw_hot": 146243,
-      "num": 191275,
+      "num": 243376,
       "word": "九尾时尚表现力",
       "onboard_time": 1745741120,
       "rank": 37,
@@ -1763,6 +1787,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 132626,
+      "num": 132626,
+      "word": "奔跑吧13首播收视率",
+      "onboard_time": 1745746281,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132530,
       "num": 132530,
       "word": "孟子义聂小倩即视感",
@@ -1795,12 +1827,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 128612,
+      "num": 128612,
+      "word": "国际金价出现大幅震荡",
+      "onboard_time": 1745746461,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 126102,
       "num": 304293,
       "word": "假期上班不能用补休代替3倍工资",
       "onboard_time": 1745725161,
       "rank": 29,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 124714,
+      "num": 124714,
+      "word": "BRO战胜T1",
+      "onboard_time": 1745745500,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 122145,
@@ -2043,6 +2091,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 92566,
+      "num": 1271842,
+      "word": "六部门发文优化离境退税政策",
+      "onboard_time": 1745743281,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 92151,
       "num": 241634,
       "word": "赵又廷感同身受黄磊3年前的痛",
@@ -2065,14 +2121,6 @@
       "onboard_time": 1745729544,
       "rank": 39,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 90885,
-      "num": 1271842,
-      "word": "六部门发文优化离境退税政策",
-      "onboard_time": 1745743281,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 90239,
@@ -2297,6 +2345,14 @@
       "onboard_time": 1745725401,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 61522,
+      "num": 470381,
+      "word": "李在明当选韩国共同民主党总统候选人",
+      "onboard_time": 1745745981,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 60465,
@@ -2667,20 +2723,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 19286,
+      "num": 288102,
+      "word": "苹果本土化设计策略有哪些缺陷",
+      "onboard_time": 1745745742,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 19067,
       "num": 28454,
       "word": "警方正调查蓝猫疑被砍断四肢",
       "onboard_time": 1745692996,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 19061,
-      "num": 201868,
-      "word": "苹果本土化设计策略有哪些缺陷",
-      "onboard_time": 1745745742,
-      "rank": 28,
-      "category": "数码"
     },
     {
       "raw_hot": 18494,
@@ -2755,6 +2811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 11289,
+      "num": 195464,
+      "word": "清华大学建校114周年",
+      "onboard_time": 1745745803,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 11043,
       "num": 182305,
       "word": "俄称完全控制库尔斯克",
@@ -2769,14 +2833,6 @@
       "onboard_time": 1745709439,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 9925,
-      "num": 183498,
-      "word": "清华大学建校114周年",
-      "onboard_time": 1745745803,
-      "rank": 36,
-      "category": "教育"
     },
     {
       "raw_hot": 8150,
