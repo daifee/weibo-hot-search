@@ -1,0 +1,410 @@
+{
+  "runTime": 1745725906003,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1164579,
+        "num": 1186332,
+        "word": "调休",
+        "onboard_time": 1745713582,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 779188,
+        "num": 779188,
+        "word": "恋与深空",
+        "onboard_time": 1745723001,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159374,
+        "num": 696641,
+        "word": "外商组团到义乌买买买",
+        "onboard_time": 1745723781,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1204342,
+        "num": 684173,
+        "word": "鹿晗接你下班的男朋友即视感",
+        "onboard_time": 1745721082,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 659048,
+        "num": 659048,
+        "word": "84斤女子吐槽买百件衣服基本穿不上",
+        "onboard_time": 1745709679,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 642170,
+        "num": 642170,
+        "word": "特朗普与泽连斯基在梵蒂冈谈了15分钟",
+        "onboard_time": 1745723603,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 621852,
+        "num": 621852,
+        "word": "上4休5上4",
+        "onboard_time": 1745720241,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 544661,
+        "num": 544661,
+        "word": "被泉州簪花美一大跳",
+        "onboard_time": 1745724201,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 516225,
+        "num": 516225,
+        "word": "肖战直接坐在中控台看的",
+        "onboard_time": 1745721021,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 401166,
+        "num": 509536,
+        "word": "杨紫 MK",
+        "onboard_time": 1745714363,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1638695,
+        "num": 486771,
+        "word": "小郑嘻嘻离婚",
+        "onboard_time": 1745719941,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 641274,
+        "num": 473057,
+        "word": "当代年轻人的恶心穿搭",
+        "onboard_time": 1745720542,
+        "rank": 11,
+        "category": "幽默,突发/灾害"
+      },
+      {
+        "raw_hot": 538546,
+        "num": 442668,
+        "word": "柯淳回应酒吧蹦迪",
+        "onboard_time": 1745720361,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 434821,
+        "num": 434821,
+        "word": "男子买狗不满意退款遭拒当场摔死狗",
+        "onboard_time": 1745713340,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158571,
+        "num": 423971,
+        "word": "特朗普希望免费通行巴拿马苏伊士运河",
+        "onboard_time": 1745724681,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 416378,
+        "num": 416378,
+        "word": "谢霆锋儿子颜值",
+        "onboard_time": 1745709620,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 376756,
+        "num": 376756,
+        "word": "易烊千玺带你穿越中国电影120年",
+        "onboard_time": 1745720361,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 354514,
+        "num": 354514,
+        "word": "原来这就是生理性厌恶的表现",
+        "onboard_time": 1745674343,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 351070,
+        "num": 351070,
+        "word": "肖战",
+        "onboard_time": 1745712261,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 46799,
+        "num": 348208,
+        "word": "沪上阿姨回应小程序无法自助开发票",
+        "onboard_time": 1745724322,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 400882,
+        "num": 348195,
+        "word": "发现凤梨可以手撕的人真是个天才",
+        "onboard_time": 1745723301,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 348139,
+        "num": 348139,
+        "word": "裸辞一年发现不上班根本不需要旅游",
+        "onboard_time": 1745676863,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 320175,
+        "num": 320175,
+        "word": "傅首尔问李沐宸哭有啥用",
+        "onboard_time": 1745724802,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256292,
+        "num": 319922,
+        "word": "临江仙",
+        "onboard_time": 1745720661,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62965,
+        "num": 316110,
+        "word": "约基奇36分",
+        "onboard_time": 1745725401,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250226,
+        "num": 313052,
+        "word": "聊斋",
+        "onboard_time": 1745720781,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239502,
+        "num": 311723,
+        "word": "MK致歉",
+        "onboard_time": 1745720182,
+        "rank": 26,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 112871,
+        "num": 309018,
+        "word": "这就是50万级销冠的魅力吗",
+        "onboard_time": 1745723122,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46241,
+        "num": 306927,
+        "word": "国羽今日出战苏迪曼杯",
+        "onboard_time": 1745724802,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69394,
+        "num": 304293,
+        "word": "假期上班不能用补休代替3倍工资",
+        "onboard_time": 1745725161,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 279320,
+        "num": 301303,
+        "word": "瑶大耳狗之梦新皮肤爆料",
+        "onboard_time": 1745723423,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 169590,
+        "num": 298695,
+        "word": "下调离境退税起退点上调现金退税限额",
+        "onboard_time": 1745723423,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 297910,
+        "num": 297910,
+        "word": "恋与深空春日卡",
+        "onboard_time": 1745725281,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 245797,
+        "num": 245797,
+        "word": "勇士2比1火箭",
+        "onboard_time": 1745725281,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236942,
+        "num": 236942,
+        "word": "刘学义敖瑞鹏领衔主演",
+        "onboard_time": 1745723540,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218785,
+        "num": 218785,
+        "word": "许嵩 哦唱错了",
+        "onboard_time": 1745723603,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 197642,
+        "num": 197642,
+        "word": "当苹果闹钟遇上调休",
+        "onboard_time": 1745717602,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186210,
+        "num": 186210,
+        "word": "怎么判断自己臭不臭",
+        "onboard_time": 1745719641,
+        "rank": 37,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 71597,
+        "num": 184171,
+        "word": "韩国残运会盒饭只有海苔泡菜",
+        "onboard_time": 1745725762,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22703,
+        "num": 183629,
+        "word": "印巴局势急剧恶化发生了什么",
+        "onboard_time": 1745725103,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 183166,
+        "num": 183166,
+        "word": "中医提醒脾胃弱的人少吃3种水果",
+        "onboard_time": 1745710341,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 177642,
+        "num": 177642,
+        "word": "不存钱才会显得有钱",
+        "onboard_time": 1745721381,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176246,
+        "num": 176246,
+        "word": "赵露思直播哽咽了",
+        "onboard_time": 1745682385,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173181,
+        "num": 173181,
+        "word": "陆虎不再参加比赛的原因找到了",
+        "onboard_time": 1745724263,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166738,
+        "num": 166738,
+        "word": "勇士vs火箭",
+        "onboard_time": 1745724622,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166475,
+        "num": 166475,
+        "word": "台北七旬老人陈尸水塔全楼喝尸水",
+        "onboard_time": 1745674282,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151324,
+        "num": 151324,
+        "word": "张译王一博 华表影帝提名",
+        "onboard_time": 1745669962,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 146775,
+        "num": 146775,
+        "word": "食物咀嚼次数会影响减肥效果",
+        "onboard_time": 1745719641,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 140996,
+        "num": 140996,
+        "word": "杨仕泽回应新剧争议",
+        "onboard_time": 1745717721,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132746,
+        "num": 132746,
+        "word": "情绪稳定的人才是真的疯了",
+        "onboard_time": 1745724922,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#以人工智能引领科研范式变革#"
+    }
+  }
+}

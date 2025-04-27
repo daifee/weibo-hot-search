@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1745724383279,
+  "endTime": 1745725906003,
   "band_list": [
     {
       "raw_hot": 2550222,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1915190,
-      "num": 303960,
+      "num": 486771,
       "word": "小郑嘻嘻离婚",
       "onboard_time": 1745719941,
       "rank": 19,
@@ -35,7 +35,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1193677,
+      "raw_hot": 1204342,
       "num": 729683,
       "word": "鹿晗接你下班的男朋友即视感",
       "onboard_time": 1745721082,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1009274,
-      "num": 321509,
+      "num": 434821,
       "word": "男子买狗不满意退款遭拒当场摔死狗",
       "onboard_time": 1745713340,
       "rank": 10,
@@ -108,11 +108,27 @@
     },
     {
       "raw_hot": 675671,
-      "num": 303677,
+      "num": 473057,
       "word": "当代年轻人的恶心穿搭",
       "onboard_time": 1745720542,
       "rank": 11,
       "category": "幽默,突发/灾害"
+    },
+    {
+      "raw_hot": 642170,
+      "num": 642170,
+      "word": "特朗普与泽连斯基在梵蒂冈谈了15分钟",
+      "onboard_time": 1745723603,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 621852,
+      "num": 621852,
+      "word": "上4休5上4",
+      "onboard_time": 1745720241,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 605666,
@@ -124,7 +140,7 @@
     },
     {
       "raw_hot": 598789,
-      "num": 301818,
+      "num": 416378,
       "word": "谢霆锋儿子颜值",
       "onboard_time": 1745709620,
       "rank": 26,
@@ -132,7 +148,7 @@
     },
     {
       "raw_hot": 589683,
-      "num": 301161,
+      "num": 348139,
       "word": "裸辞一年发现不上班根本不需要旅游",
       "onboard_time": 1745676863,
       "rank": 11,
@@ -140,19 +156,11 @@
     },
     {
       "raw_hot": 588357,
-      "num": 303769,
+      "num": 442668,
       "word": "柯淳回应酒吧蹦迪",
       "onboard_time": 1745720361,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 571678,
-      "num": 300402,
-      "word": "上4休5上4",
-      "onboard_time": 1745720241,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 548826,
@@ -163,6 +171,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 544661,
+      "num": 544661,
+      "word": "被泉州簪花美一大跳",
+      "onboard_time": 1745724201,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 524962,
       "num": 480893,
       "word": "印度男子婚礼当天新娘被调包成岳母",
@@ -171,20 +187,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 516225,
+      "num": 516225,
+      "word": "肖战直接坐在中控台看的",
+      "onboard_time": 1745721021,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 503307,
       "num": 220443,
       "word": "台北七旬老人陈尸水塔全楼喝尸水",
       "onboard_time": 1745674282,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 500806,
-      "num": 303015,
-      "word": "肖战直接坐在中控台看的",
-      "onboard_time": 1745721021,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 466180,
@@ -243,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 400882,
+      "num": 348195,
+      "word": "发现凤梨可以手撕的人真是个天才",
+      "onboard_time": 1745723301,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 386407,
       "num": 386407,
       "word": "民宿老板教你识别酒店换没换床单",
@@ -252,7 +276,7 @@
     },
     {
       "raw_hot": 384343,
-      "num": 301412,
+      "num": 311723,
       "word": "MK致歉",
       "onboard_time": 1745720182,
       "rank": 27,
@@ -260,11 +284,19 @@
     },
     {
       "raw_hot": 377815,
-      "num": 299096,
+      "num": 319922,
       "word": "临江仙",
       "onboard_time": 1745720661,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 376756,
+      "num": 376756,
+      "word": "易烊千玺带你穿越中国电影120年",
+      "onboard_time": 1745720361,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 352771,
@@ -281,6 +313,14 @@
       "onboard_time": 1745715681,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 320175,
+      "num": 320175,
+      "word": "傅首尔问李沐宸哭有啥用",
+      "onboard_time": 1745724802,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 319593,
@@ -315,14 +355,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 309452,
-      "num": 204781,
-      "word": "发现凤梨可以手撕的人真是个天才",
-      "onboard_time": 1745723301,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 304207,
       "num": 304207,
       "word": "瑶大耳狗之梦新皮肤爆料",
@@ -331,20 +363,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 299863,
-      "num": 299863,
-      "word": "易烊千玺带你穿越中国电影120年",
-      "onboard_time": 1745720361,
-      "rank": 43,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 289076,
-      "num": 289076,
-      "word": "被泉州簪花美一大跳",
-      "onboard_time": 1745724201,
-      "rank": 25,
-      "category": "民生新闻"
+      "raw_hot": 297910,
+      "num": 297910,
+      "word": "恋与深空春日卡",
+      "onboard_time": 1745725281,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 285588,
@@ -395,12 +419,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 250226,
+      "num": 313052,
+      "word": "聊斋",
+      "onboard_time": 1745720781,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 246282,
       "num": 246282,
       "word": "风月不相关简介改成大男主了",
       "onboard_time": 1745717241,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 245797,
+      "num": 245797,
+      "word": "勇士2比1火箭",
+      "onboard_time": 1745725281,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 241189,
@@ -443,6 +483,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 218785,
+      "num": 218785,
+      "word": "许嵩 哦唱错了",
+      "onboard_time": 1745723603,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 218348,
       "num": 218348,
       "word": "24岁演戏50岁教英语最近想开飞机",
@@ -467,28 +515,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 211342,
-      "num": 211342,
-      "word": "聊斋",
-      "onboard_time": 1745720781,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 210233,
       "num": 210233,
       "word": "不存钱才会显得有钱",
       "onboard_time": 1745721381,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 201848,
-      "num": 201848,
-      "word": "许嵩 哦唱错了",
-      "onboard_time": 1745723603,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 201503,
@@ -515,20 +547,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186210,
+      "num": 186210,
+      "word": "怎么判断自己臭不臭",
+      "onboard_time": 1745719641,
+      "rank": 45,
+      "category": "情感,民生新闻"
+    },
+    {
       "raw_hot": 186209,
       "num": 197906,
       "word": "烽影燃梅香",
       "onboard_time": 1745722342,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 185785,
-      "num": 185785,
-      "word": "怎么判断自己臭不臭",
-      "onboard_time": 1745719641,
-      "rank": 45,
-      "category": "情感,民生新闻"
     },
     {
       "raw_hot": 185345,
@@ -563,6 +595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173181,
+      "num": 173181,
+      "word": "陆虎不再参加比赛的原因找到了",
+      "onboard_time": 1745724263,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170911,
       "num": 170911,
       "word": "谢霆锋不语只是一味地换吉他",
@@ -577,6 +617,14 @@
       "onboard_time": 1745709620,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166738,
+      "num": 166738,
+      "word": "勇士vs火箭",
+      "onboard_time": 1745724622,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 165184,
@@ -603,12 +651,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 159374,
+      "num": 717030,
+      "word": "外商组团到义乌买买买",
+      "onboard_time": 1745723781,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 159352,
       "num": 159352,
       "word": "罕见双头猫已存活5天",
       "onboard_time": 1745713942,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158571,
+      "num": 423971,
+      "word": "特朗普希望免费通行巴拿马苏伊士运河",
+      "onboard_time": 1745724681,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 152648,
@@ -715,6 +779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132746,
+      "num": 132746,
+      "word": "情绪稳定的人才是真的疯了",
+      "onboard_time": 1745724922,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 131590,
       "num": 131590,
       "word": "巴基斯坦部队向克什米尔大规模调动",
@@ -747,14 +819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 118891,
-      "num": 118891,
-      "word": "陆虎不再参加比赛的原因找到了",
-      "onboard_time": 1745724263,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 116392,
       "num": 151532,
       "word": "被刘宇宁这首歌打动了",
@@ -777,6 +841,14 @@
       "onboard_time": 1745665340,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 112871,
+      "num": 309018,
+      "word": "这就是50万级销冠的魅力吗",
+      "onboard_time": 1745723122,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110214,
@@ -899,14 +971,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 89768,
-      "num": 204801,
-      "word": "这就是50万级销冠的魅力吗",
-      "onboard_time": 1745723122,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 88537,
       "num": 858104,
       "word": "MadeInChina硬控全球客商",
@@ -995,14 +1059,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 74887,
-      "num": 303405,
-      "word": "特朗普与泽连斯基在梵蒂冈谈了15分钟",
-      "onboard_time": 1745723603,
-      "rank": 35,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 74850,
       "num": 150152,
       "word": "韩红演唱会嘉宾薛之谦",
@@ -1035,6 +1091,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 71597,
+      "num": 184171,
+      "word": "韩国残运会盒饭只有海苔泡菜",
+      "onboard_time": 1745725762,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 70949,
       "num": 70949,
       "word": "有些益虫就不能长的好看点吗",
@@ -1051,12 +1115,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 69394,
+      "num": 304293,
+      "word": "假期上班不能用补休代替3倍工资",
+      "onboard_time": 1745725161,
+      "rank": 29,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 67802,
       "num": 67802,
       "word": "美防长群聊泄密事件又起风波",
       "onboard_time": 1745701513,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 62965,
+      "num": 316110,
+      "word": "约基奇36分",
+      "onboard_time": 1745725401,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 60465,
@@ -1075,14 +1155,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 53410,
-      "num": 717030,
-      "word": "外商组团到义乌买买买",
-      "onboard_time": 1745723781,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 52307,
       "num": 229705,
       "word": "炒股赚6000万男子不否认有幸存者偏差",
@@ -1099,12 +1171,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 46799,
+      "num": 348208,
+      "word": "沪上阿姨回应小程序无法自助开发票",
+      "onboard_time": 1745724322,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46585,
       "num": 85313,
       "word": "陈丽君去看韩红演唱会了",
       "onboard_time": 1745687597,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 46241,
+      "num": 306927,
+      "word": "国羽今日出战苏迪曼杯",
+      "onboard_time": 1745724802,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 45707,
@@ -1145,14 +1233,6 @@
       "onboard_time": 1745685919,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 30615,
-      "num": 188472,
-      "word": "沪上阿姨回应小程序无法自助开发票",
-      "onboard_time": 1745724322,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 30324,
@@ -1225,6 +1305,14 @@
       "onboard_time": 1745692455,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 22703,
+      "num": 183629,
+      "word": "印巴局势急剧恶化发生了什么",
+      "onboard_time": 1745725103,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 21941,
