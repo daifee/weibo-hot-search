@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1745736328786,
+  "endTime": 1745738512185,
   "band_list": [
     {
       "raw_hot": 2550222,
@@ -91,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1083426,
+      "num": 1173348,
+      "word": "华表奖红毯",
+      "onboard_time": 1745734941,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1025303,
       "num": 1025303,
       "word": "84斤女子吐槽买百件衣服基本穿不上",
@@ -115,12 +123,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 911731,
-      "num": 911731,
-      "word": "华表奖红毯",
-      "onboard_time": 1745734941,
-      "rank": 5,
-      "category": "电影"
+      "raw_hot": 916136,
+      "num": 398500,
+      "word": "王菲谢霆锋 姐狗天花板",
+      "onboard_time": 1745735602,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 817949,
@@ -185,6 +193,14 @@
       "onboard_time": 1745723603,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 631331,
+      "num": 502388,
+      "word": "关晓彤华表奖红毯",
+      "onboard_time": 1745736441,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 615662,
@@ -275,6 +291,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 530505,
+      "num": 530505,
+      "word": "C罗TIFO将台湾移出中国地图",
+      "onboard_time": 1745736140,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 528498,
       "num": 528498,
       "word": "年轻人为什么对火锅祛魅了",
@@ -297,6 +321,14 @@
       "onboard_time": 1745674282,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 482816,
+      "num": 395360,
+      "word": "关晓彤戴假发",
+      "onboard_time": 1745737162,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 466180,
@@ -427,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 336307,
+      "num": 336307,
+      "word": "张继科让球迷说话经过大脑",
+      "onboard_time": 1745735602,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 330154,
       "num": 330154,
       "word": "女子旅行途中惊闻独子离世崩溃大哭",
@@ -449,6 +489,14 @@
       "onboard_time": 1745664141,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 318478,
+      "num": 318478,
+      "word": "律师称石凯照片录音视频为真实记录",
+      "onboard_time": 1745734822,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 316834,
@@ -539,14 +587,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 267453,
-      "num": 267453,
-      "word": "王菲谢霆锋 姐狗天花板",
-      "onboard_time": 1745735602,
-      "rank": 18,
-      "category": "演出"
-    },
-    {
       "raw_hot": 265304,
       "num": 265304,
       "word": "李沐宸迟到被换角",
@@ -635,14 +675,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 239551,
-      "num": 239551,
-      "word": "律师称石凯照片录音视频为真实记录",
-      "onboard_time": 1745734822,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 238586,
       "num": 302745,
       "word": "刘学义敖瑞鹏领衔主演",
@@ -675,12 +707,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 224753,
-      "num": 224753,
-      "word": "张继科让球迷说话经过大脑",
-      "onboard_time": 1745735602,
-      "rank": 27,
-      "category": "体育"
+      "raw_hot": 225292,
+      "num": 225292,
+      "word": "WBG幻贺洗澡摔伤",
+      "onboard_time": 1745737881,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 224502,
@@ -739,12 +771,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 216421,
+      "num": 216421,
+      "word": "石凯",
+      "onboard_time": 1745734762,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 216036,
       "num": 304160,
       "word": "下调离境退税起退点上调现金退税限额",
       "onboard_time": 1745723423,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 215608,
+      "num": 301343,
+      "word": "网购机票被隐形加价获三倍赔偿",
+      "onboard_time": 1745735002,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213486,
+      "num": 399639,
+      "word": "马英九说实在看不下去了",
+      "onboard_time": 1745737822,
+      "rank": 10,
+      "category": "国内时政"
     },
     {
       "raw_hot": 210233,
@@ -787,6 +843,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 198546,
+      "num": 393246,
+      "word": "台20万民众集会怒骂赖清德",
+      "onboard_time": 1745736981,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 196662,
       "num": 196662,
       "word": "王一博出发参加华表奖",
@@ -809,6 +873,14 @@
       "onboard_time": 1745678424,
       "rank": 18,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 194560,
+      "num": 194560,
+      "word": "电竞选手洗澡一定要注意安全",
+      "onboard_time": 1745738003,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 193922,
@@ -841,6 +913,14 @@
       "onboard_time": 1745731404,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 187872,
+      "num": 187871,
+      "word": "美国95%的进口婴儿手推车产自中国",
+      "onboard_time": 1745736321,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 186210,
@@ -907,12 +987,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 175886,
-      "num": 175886,
-      "word": "石凯",
-      "onboard_time": 1745734762,
-      "rank": 38,
-      "category": "艺人"
+      "raw_hot": 179059,
+      "num": 187889,
+      "word": "丁禹兮淮水竹亭面具造型",
+      "onboard_time": 1745737221,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 174817,
@@ -961,14 +1041,6 @@
       "onboard_time": 1745709620,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 168085,
-      "num": 168085,
-      "word": "C罗TIFO将台湾移出中国地图",
-      "onboard_time": 1745736140,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 166738,
@@ -1059,6 +1131,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 155431,
+      "num": 182287,
+      "word": "电竞选手的人生秀场",
+      "onboard_time": 1745738361,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 155422,
       "num": 155422,
       "word": "蔡徐坤名誉维权曾要求赔偿百万",
@@ -1073,6 +1153,14 @@
       "onboard_time": 1745728642,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 153886,
+      "num": 153886,
+      "word": "安娜来内娱也得拍出发图",
+      "onboard_time": 1745737881,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 152648,
@@ -1123,6 +1211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148108,
+      "num": 148108,
+      "word": "法院院长办公室休息室达68.7平被处分",
+      "onboard_time": 1745738361,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146559,
       "num": 151849,
       "word": "王俊凯青岛",
@@ -1147,12 +1243,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 145078,
+      "num": 145078,
+      "word": "等刘诗诗新剧满脑子不要出圈",
+      "onboard_time": 1745738120,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144533,
       "num": 144533,
       "word": "中式工装席卷外国vintage门店",
       "onboard_time": 1745722880,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143888,
+      "num": 143888,
+      "word": "孔雪儿杨仕泽新剧变结婚搭子",
+      "onboard_time": 1745737822,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 143195,
@@ -1259,6 +1371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133567,
+      "num": 427453,
+      "word": "五一假期会很热",
+      "onboard_time": 1745734941,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133028,
       "num": 133028,
       "word": "中国境内辣度最高的辣椒",
@@ -1273,6 +1393,14 @@
       "onboard_time": 1745724922,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 132530,
+      "num": 132530,
+      "word": "孟子义聂小倩即视感",
+      "onboard_time": 1745736683,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 131590,
@@ -1531,14 +1659,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 92226,
-      "num": 427453,
-      "word": "五一假期会很热",
-      "onboard_time": 1745734941,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 91365,
       "num": 151127,
       "word": "王者荣耀",
@@ -1627,6 +1747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 81557,
+      "num": 174841,
+      "word": "曝沙特Falcons欲收购RNG",
+      "onboard_time": 1745738361,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 79630,
       "num": 150017,
       "word": "aespa台湾开麦舞台",
@@ -1681,6 +1809,14 @@
       "onboard_time": 1745683522,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 75210,
+      "num": 181629,
+      "word": "5种常见蔬菜是抗炎高手",
+      "onboard_time": 1745738361,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 74850,
@@ -1851,14 +1987,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 42143,
-      "num": 274978,
-      "word": "网购机票被隐形加价获三倍赔偿",
-      "onboard_time": 1745735002,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 40709,
       "num": 40709,
       "word": "全球聚焦中国回应中美所谓关税谈判",
@@ -1897,6 +2025,14 @@
       "onboard_time": 1745685919,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 32233,
+      "num": 161080,
+      "word": "男子开发AI面试作弊拿到亚马逊实习",
+      "onboard_time": 1745738420,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30324,
@@ -2065,6 +2201,14 @@
       "onboard_time": 1745691675,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 14487,
+      "num": 713886,
+      "word": "新质先锋未来北京",
+      "onboard_time": 1745736562,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14067,
