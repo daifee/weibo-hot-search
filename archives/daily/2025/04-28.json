@@ -1,6 +1,6 @@
 {
   "startTime": 1745771302155,
-  "endTime": 1745781621239,
+  "endTime": 1745782560998,
   "band_list": [
     {
       "raw_hot": 5235330,
@@ -507,6 +507,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 28821,
+      "num": 28821,
+      "word": "早睡简直就是人类的无敌作弊器",
+      "onboard_time": 1745779935,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 27122,
       "num": 27122,
       "word": "王一博华表奖颁奖活动朗诵",
@@ -531,20 +539,20 @@
       "category": "电影,时尚"
     },
     {
-      "raw_hot": 23578,
-      "num": 23578,
-      "word": "早睡简直就是人类的无敌作弊器",
-      "onboard_time": 1745779935,
-      "rank": 28,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 21071,
       "num": 25273,
       "word": "周深未见其人先闻其声",
       "onboard_time": 1745778554,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 19105,
+      "num": 34105,
+      "word": "因通缉照走红女子账号被封",
+      "onboard_time": 1745781614,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18997,
@@ -555,6 +563,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 18059,
+      "num": 19699,
+      "word": "李艺彤你怎么偷偷喝中药了",
+      "onboard_time": 1745781315,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 17297,
       "num": 19700,
       "word": "韩安冉向婆婆道歉",
@@ -563,15 +579,7 @@
       "category": "网红"
     },
     {
-      "raw_hot": 15745,
-      "num": 19699,
-      "word": "中国海警回应菲6人非法登上铁线礁",
-      "onboard_time": 1745764103,
-      "rank": 44,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 15420,
+      "raw_hot": 16018,
       "num": 19699,
       "word": "金像奖",
       "onboard_time": 1745746641,
@@ -579,12 +587,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 15290,
+      "raw_hot": 15795,
       "num": 19699,
-      "word": "李艺彤你怎么偷偷喝中药了",
-      "onboard_time": 1745781315,
-      "rank": 46,
-      "category": "剧集"
+      "word": "中国海警回应菲6人非法登上铁线礁",
+      "onboard_time": 1745764103,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 13938,
+      "num": 18539,
+      "word": "官方回应伊朗港口爆炸事件",
+      "onboard_time": 1745782094,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 10561,
