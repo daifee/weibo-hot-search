@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/27 13:40:27
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/27 14:32:28
 </p>
 </blockquote>
 <p>
@@ -2543,6 +2543,12 @@ Simon事件（热度：1411247）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%AC%E4%B8%9C%E5%A4%96%E5%8D%96%E5%9B%9E%E5%BA%94%E7%88%86%E5%8D%95%23" target="weibo">
 京东外卖回应爆单（热度：1331399）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E6%9C%AA%E4%BA%8B%E5%85%88%E9%80%9A%E7%9F%A5%E7%AA%81%E7%84%B6%E5%BC%80%E9%97%B8%E6%B3%84%E6%B4%AA%23" target="weibo">
+印度未事先通知突然开闸泄洪（热度：1331228）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ YERI和Wendy离开SM（热度：805847）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E9%94%A1%E5%BC%95%E8%BF%9B%E4%BA%BA%E6%89%8D%E9%9C%80%E8%A6%81%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%A5%96%23" target="weibo">
 无锡引进人才需要诺贝尔奖（热度：786023）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%9D%A8%E9%92%BF%E7%94%9C%E4%B8%AD%E6%88%8F%E7%AC%AC%E4%BA%8C%23" target="weibo">
-黄杨钿甜中戏第二（热度：785965）
 </a>
 </li>
 

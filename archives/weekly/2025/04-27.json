@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1745732427435,
+  "endTime": 1745735548463,
   "band_list": [
     {
       "raw_hot": 2550222,
@@ -57,6 +57,14 @@
       "onboard_time": 1745713582,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1331228,
+      "num": 1331228,
+      "word": "印度未事先通知突然开闸泄洪",
+      "onboard_time": 1745730204,
+      "rank": 8,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1309617,
@@ -155,12 +163,12 @@
       "category": "幽默,突发/灾害"
     },
     {
-      "raw_hot": 669928,
-      "num": 669928,
-      "word": "印度未事先通知突然开闸泄洪",
-      "onboard_time": 1745730204,
-      "rank": 8,
-      "category": "海外新闻"
+      "raw_hot": 657102,
+      "num": 657102,
+      "word": "苹果客服回应闹钟调休日不响",
+      "onboard_time": 1745729544,
+      "rank": 22,
+      "category": "数码"
     },
     {
       "raw_hot": 642170,
@@ -209,6 +217,22 @@
       "onboard_time": 1745720361,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 586225,
+      "num": 586225,
+      "word": "老人不要利息执意取107万银行报警",
+      "onboard_time": 1745728823,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 583241,
+      "num": 583241,
+      "word": "华表奖红毯",
+      "onboard_time": 1745734941,
+      "rank": 5,
+      "category": "电影"
     },
     {
       "raw_hot": 548826,
@@ -275,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 457924,
+      "num": 457924,
+      "word": "年轻人为什么对火锅祛魅了",
+      "onboard_time": 1745732062,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 431172,
       "num": 431172,
       "word": "当苹果闹钟遇上调休",
@@ -297,6 +329,14 @@
       "onboard_time": 1745682385,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 424452,
+      "num": 424452,
+      "word": "labubu联名款原价599元被炒至1.4万",
+      "onboard_time": 1745731283,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 421656,
@@ -371,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 330154,
+      "num": 330154,
+      "word": "女子旅行途中惊闻独子离世崩溃大哭",
+      "onboard_time": 1745728522,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 325495,
       "num": 325495,
       "word": "戈登扣篮绝杀快船",
@@ -395,6 +443,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 314943,
+      "num": 314943,
+      "word": "杨肸子是赵丽颖十多年老粉",
+      "onboard_time": 1745734941,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 314622,
       "num": 314622,
       "word": "特朗普妄称中国要做出让步",
@@ -409,14 +465,6 @@
       "onboard_time": 1745718201,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 307364,
-      "num": 307364,
-      "word": "苹果客服回应闹钟调休日不响",
-      "onboard_time": 1745729544,
-      "rank": 22,
-      "category": "数码"
     },
     {
       "raw_hot": 304207,
@@ -435,6 +483,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 289065,
+      "num": 289065,
+      "word": "张淼怡聊斋开机生图",
+      "onboard_time": 1745732720,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 285588,
       "num": 285588,
       "word": "台民众持大陆身份证被撤销所谓台户籍",
@@ -451,12 +507,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 274459,
+      "num": 274459,
+      "word": "金价",
+      "onboard_time": 1745734041,
+      "rank": 20,
+      "category": "财经"
+    },
+    {
       "raw_hot": 273756,
       "num": 222955,
       "word": "中医提醒脾胃弱的人少吃3种水果",
       "onboard_time": 1745710341,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 270720,
+      "num": 270720,
+      "word": "于适带你解锁青岛的魅力",
+      "onboard_time": 1745733202,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 265304,
@@ -473,14 +545,6 @@
       "onboard_time": 1745728281,
       "rank": 30,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 263936,
-      "num": 263936,
-      "word": "labubu联名款原价599元被炒至1.4万",
-      "onboard_time": 1745731283,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 263578,
@@ -507,14 +571,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 252200,
-      "num": 256155,
-      "word": "女子旅行途中惊闻独子离世崩溃大哭",
-      "onboard_time": 1745728522,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 250363,
       "num": 250363,
       "word": "董明珠间谍说有没有错",
@@ -531,12 +587,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 247007,
-      "num": 313455,
-      "word": "老人不要利息执意取107万银行报警",
-      "onboard_time": 1745728823,
-      "rank": 46,
-      "category": "民生新闻"
+      "raw_hot": 249193,
+      "num": 249193,
+      "word": "谢霆锋王菲隔空合唱玉蝴蝶",
+      "onboard_time": 1745730802,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 246282,
@@ -555,14 +611,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 242432,
-      "num": 242432,
-      "word": "谢霆锋王菲隔空合唱玉蝴蝶",
-      "onboard_time": 1745730802,
-      "rank": 27,
-      "category": "演出"
-    },
-    {
       "raw_hot": 241189,
       "num": 251711,
       "word": "肖战孙燕姿演唱会后发文",
@@ -577,6 +625,14 @@
       "onboard_time": 1745723540,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 236571,
+      "num": 200605,
+      "word": "邓超唱了鹿晗的有点儿意思",
+      "onboard_time": 1745733621,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 227742,
@@ -595,12 +651,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 227057,
-      "num": 227057,
-      "word": "年轻人为什么对火锅祛魅了",
-      "onboard_time": 1745732062,
-      "rank": 24,
-      "category": "美食"
+      "raw_hot": 224502,
+      "num": 224502,
+      "word": "刘强东母亲现身京东食堂煮饺子",
+      "onboard_time": 1745733563,
+      "rank": 25,
+      "category": "互联网"
     },
     {
       "raw_hot": 219256,
@@ -681,6 +737,14 @@
       "onboard_time": 1745719581,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 200344,
+      "num": 200344,
+      "word": "律师称石凯照片录音视频为真实记录",
+      "onboard_time": 1745734822,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 199765,
@@ -771,6 +835,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 184605,
+      "num": 184605,
+      "word": "狐妖小红娘王权篇预约破300w",
+      "onboard_time": 1745734521,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183975,
       "num": 155867,
       "word": "太原溺水美人鱼仍在重症监护室",
@@ -804,7 +876,7 @@
     },
     {
       "raw_hot": 173272,
-      "num": 173272,
+      "num": 228599,
       "word": "夏以昼 狗塑",
       "onboard_time": 1745730982,
       "rank": 40,
@@ -859,12 +931,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 162415,
+      "num": 162415,
+      "word": "香港年入40万的工地女蓝领",
+      "onboard_time": 1745733681,
+      "rank": 36,
+      "category": "情感,民生新闻"
+    },
+    {
       "raw_hot": 161800,
       "num": 161800,
       "word": "戈登绝杀",
       "onboard_time": 1745716041,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161275,
+      "num": 161275,
+      "word": "石凯",
+      "onboard_time": 1745734762,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 160866,
@@ -889,6 +977,14 @@
       "onboard_time": 1745713942,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158920,
+      "num": 158920,
+      "word": "乘风2025",
+      "onboard_time": 1745734881,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 158571,
@@ -955,6 +1051,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 149438,
+      "num": 149438,
+      "word": "王一博CCTV5奔赴CCTV6",
+      "onboard_time": 1745734103,
+      "rank": 41,
+      "category": "电影,体育"
+    },
+    {
+      "raw_hot": 148362,
+      "num": 148362,
+      "word": "大连海域现江豚尸体身上有4个圆孔",
+      "onboard_time": 1745734341,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148135,
       "num": 148135,
       "word": "高瀚宇吃了掉在地上的棒棒糖",
@@ -1003,12 +1115,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142275,
+      "num": 451347,
+      "word": "美企没钱付关税上百万元货物滞留中国",
+      "onboard_time": 1745734582,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 141017,
       "num": 141017,
       "word": "汉代不说一双鞋而说一两鞋",
       "onboard_time": 1745718621,
       "rank": 35,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 140760,
+      "num": 140760,
+      "word": "面试",
+      "onboard_time": 1745735422,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 139045,
@@ -1025,6 +1153,14 @@
       "onboard_time": 1745720001,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 136801,
+      "num": 136801,
+      "word": "30岁后的我明白了为啥年轻要多旅行",
+      "onboard_time": 1745733742,
+      "rank": 47,
+      "category": "旅游"
     },
     {
       "raw_hot": 136613,
@@ -1051,12 +1187,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134853,
+      "num": 134853,
+      "word": "景甜红丝绒长裙",
+      "onboard_time": 1745735422,
+      "rank": 48,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 133893,
-      "num": 133893,
+      "num": 279338,
       "word": "米雪69岁状态",
       "onboard_time": 1745731941,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133028,
+      "num": 133028,
+      "word": "中国境内辣度最高的辣椒",
+      "onboard_time": 1745735361,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 132746,
@@ -1241,6 +1393,14 @@
       "onboard_time": 1745687657,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 102454,
+      "num": 203811,
+      "word": "刘诗诗新剧淮竹BGM适配度",
+      "onboard_time": 1745732903,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 102412,
@@ -1587,6 +1747,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 46928,
+      "num": 200625,
+      "word": "老教授被套路花近7万买菊花茶饮料",
+      "onboard_time": 1745733921,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46799,
       "num": 348208,
       "word": "沪上阿姨回应小程序无法自助开发票",
@@ -1681,6 +1849,14 @@
       "onboard_time": 1745691076,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 23803,
+      "num": 274978,
+      "word": "网购机票被隐形加价获三倍赔偿",
+      "onboard_time": 1745735002,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23761,
@@ -1841,6 +2017,14 @@
       "onboard_time": 1745723483,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11532,
+      "num": 160051,
+      "word": "丧尸街背后的费城",
+      "onboard_time": 1745735182,
+      "rank": 39,
+      "category": "海外新闻,议题讨论"
     },
     {
       "raw_hot": 11043,
