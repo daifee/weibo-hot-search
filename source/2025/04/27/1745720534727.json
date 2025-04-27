@@ -1,0 +1,410 @@
+{
+  "runTime": 1745720534727,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1507923,
+        "num": 1507923,
+        "word": "调休",
+        "onboard_time": 1745713582,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 830335,
+        "num": 830335,
+        "word": "84斤女子吐槽买百件衣服基本穿不上",
+        "onboard_time": 1745709679,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68845,
+        "num": 718729,
+        "word": "MadeInChina硬控全球客商",
+        "onboard_time": 1745676624,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1728484,
+        "num": 713163,
+        "word": "肖战",
+        "onboard_time": 1745712261,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 700245,
+        "num": 700245,
+        "word": "杨紫 MK",
+        "onboard_time": 1745714363,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 451541,
+        "num": 451541,
+        "word": "原来这就是生理性厌恶的表现",
+        "onboard_time": 1745674343,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 431172,
+        "num": 431172,
+        "word": "当苹果闹钟遇上调休",
+        "onboard_time": 1745717602,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 349242,
+        "num": 349242,
+        "word": "民宿老板教你识别酒店换没换床单",
+        "onboard_time": 1745710700,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 309750,
+        "num": 309750,
+        "word": "刘涛质问李沐宸",
+        "onboard_time": 1745713462,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96947,
+        "num": 308499,
+        "word": "美电商企业货物被卡也不缴税",
+        "onboard_time": 1745719700,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 806795,
+        "num": 302272,
+        "word": "男子买狗不满意退款遭拒当场摔死狗",
+        "onboard_time": 1745713340,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 565558,
+        "num": 297474,
+        "word": "谢霆锋儿子颜值",
+        "onboard_time": 1745709620,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 461778,
+        "num": 292908,
+        "word": "裸辞一年发现不上班根本不需要旅游",
+        "onboard_time": 1745676863,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 312078,
+        "num": 289933,
+        "word": "减肥教材不贵 只要一句刘烨好帅",
+        "onboard_time": 1745718201,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52202,
+        "num": 285529,
+        "word": "伊朗港口爆炸与石油设施无关",
+        "onboard_time": 1745719041,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 283235,
+        "num": 283235,
+        "word": "赵露思直播哽咽了",
+        "onboard_time": 1745682385,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261217,
+        "num": 261217,
+        "word": "疑似邓超用五哈给孙俪剧宣",
+        "onboard_time": 1745711360,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227065,
+        "num": 227065,
+        "word": "戈登扣篮绝杀快船",
+        "onboard_time": 1745715681,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217406,
+        "num": 217406,
+        "word": "杨仕泽回应新剧争议",
+        "onboard_time": 1745717721,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212963,
+        "num": 212963,
+        "word": "小郑嘻嘻离婚",
+        "onboard_time": 1745719941,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1136887,
+        "num": 208799,
+        "word": "高潮针是什么",
+        "onboard_time": 1745682321,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 310134,
+        "num": 206803,
+        "word": "台北七旬老人陈尸水塔全楼喝尸水",
+        "onboard_time": 1745674282,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261437,
+        "num": 206605,
+        "word": "中医提醒脾胃弱的人少吃3种水果",
+        "onboard_time": 1745710341,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 204535,
+        "num": 204535,
+        "word": "柯淳回应酒吧蹦迪",
+        "onboard_time": 1745720361,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201503,
+        "num": 201503,
+        "word": "山东事业编成绩",
+        "onboard_time": 1745719581,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 199416,
+        "num": 199416,
+        "word": "风月不相关简介改成大男主了",
+        "onboard_time": 1745717241,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194150,
+        "num": 194150,
+        "word": "伊朗港口爆炸14死700多伤",
+        "onboard_time": 1745709499,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 182986,
+        "num": 182986,
+        "word": "MK致歉",
+        "onboard_time": 1745720182,
+        "rank": 27,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 170911,
+        "num": 170911,
+        "word": "谢霆锋不语只是一味地换吉他",
+        "onboard_time": 1745718621,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 161680,
+        "num": 161680,
+        "word": "肖战孙燕姿演唱会后发文",
+        "onboard_time": 1745709379,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 152116,
+        "num": 152116,
+        "word": "鹿晗新歌吹吹风",
+        "onboard_time": 1745709318,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 151573,
+        "num": 151573,
+        "word": "母猫生下双头猫3眼2嘴2鼻",
+        "onboard_time": 1745709620,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151535,
+        "num": 151535,
+        "word": "生理性厌恶的7个常见表现",
+        "onboard_time": 1745676804,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 149401,
+        "num": 149401,
+        "word": "罕见双头猫已存活5天",
+        "onboard_time": 1745713942,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146087,
+        "num": 146087,
+        "word": "24岁演戏50岁教英语最近想开飞机",
+        "onboard_time": 1745713462,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141017,
+        "num": 141017,
+        "word": "汉代不说一双鞋而说一两鞋",
+        "onboard_time": 1745718621,
+        "rank": 35,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 139485,
+        "num": 139485,
+        "word": "食物咀嚼次数会影响减肥效果",
+        "onboard_time": 1745719641,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 138277,
+        "num": 138277,
+        "word": "星期零 早上坏",
+        "onboard_time": 1745720001,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131186,
+        "num": 131186,
+        "word": "饿着睡对身体有什么伤害",
+        "onboard_time": 1745720422,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 127266,
+        "num": 127266,
+        "word": "张译王一博 华表影帝提名",
+        "onboard_time": 1745669962,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122684,
+        "num": 122684,
+        "word": "印度男子婚礼当天新娘被调包成岳母",
+        "onboard_time": 1745673562,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 121899,
+        "num": 121899,
+        "word": "上4休5上4",
+        "onboard_time": 1745720241,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121670,
+        "num": 121670,
+        "word": "补充维生素D能缓解焦虑情绪",
+        "onboard_time": 1745716161,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 118764,
+        "num": 118764,
+        "word": "易烊千玺带你穿越中国电影120年",
+        "onboard_time": 1745720361,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 112707,
+        "num": 112707,
+        "word": "王鸥录大侦探七点起床妆发",
+        "onboard_time": 1745716041,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112142,
+        "num": 112142,
+        "word": "怎么判断自己臭不臭",
+        "onboard_time": 1745719641,
+        "rank": 45,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 108099,
+        "num": 108099,
+        "word": "消息人士称哈马斯愿释放全部人质换停火",
+        "onboard_time": 1745716222,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 107895,
+        "num": 107895,
+        "word": "华表奖提名名单",
+        "onboard_time": 1745669423,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 104537,
+        "num": 104537,
+        "word": "列车窗户已经进化成这样了吗",
+        "onboard_time": 1745716161,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101746,
+        "num": 101746,
+        "word": "巴基斯坦部队向克什米尔大规模调动",
+        "onboard_time": 1745720481,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#为什么中国意味着确定性未来性机遇性#"
+    }
+  }
+}
