@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1745760529968,
+  "endTime": 1745761184877,
   "band_list": [
     {
       "raw_hot": 4073618,
@@ -123,6 +123,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1331099,
+      "num": 1331099,
+      "word": "酵色直播",
+      "onboard_time": 1745758823,
+      "rank": 1,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 1310474,
       "num": 1310474,
       "word": "学生向教育局举报饭菜有蛆被骂",
@@ -187,6 +195,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1031044,
+      "num": 425613,
+      "word": "中日友好医院肖飞",
+      "onboard_time": 1745749521,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1025303,
       "num": 1025303,
       "word": "84斤女子吐槽买百件衣服基本穿不上",
@@ -200,14 +216,6 @@
       "word": "男子买狗不满意退款遭拒当场摔死狗",
       "onboard_time": 1745713340,
       "rank": 10,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 999214,
-      "num": 425613,
-      "word": "中日友好医院肖飞",
-      "onboard_time": 1745749521,
-      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -249,14 +257,6 @@
       "onboard_time": 1745742981,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 832281,
-      "num": 832281,
-      "word": "酵色直播",
-      "onboard_time": 1745758823,
-      "rank": 1,
-      "category": "美妆"
     },
     {
       "raw_hot": 817949,
@@ -331,20 +331,20 @@
       "category": "幽默,突发/灾害"
     },
     {
+      "raw_hot": 667281,
+      "num": 412114,
+      "word": "谢霆锋带儿子吃饭",
+      "onboard_time": 1745756782,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 657102,
       "num": 657102,
       "word": "苹果客服回应闹钟调休日不响",
       "onboard_time": 1745729544,
       "rank": 22,
       "category": "数码"
-    },
-    {
-      "raw_hot": 643428,
-      "num": 412114,
-      "word": "谢霆锋带儿子吃饭",
-      "onboard_time": 1745756782,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 642170,
@@ -460,7 +460,7 @@
     },
     {
       "raw_hot": 546080,
-      "num": 399866,
+      "num": 434086,
       "word": "榜上佳婿 男主",
       "onboard_time": 1745755343,
       "rank": 17,
@@ -515,12 +515,36 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 513284,
+      "num": 513284,
+      "word": "中日友好医院通报肖某问题属实",
+      "onboard_time": 1745759723,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 507242,
+      "num": 344959,
+      "word": "刘亦菲陈晓李现同框",
+      "onboard_time": 1745759964,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 503307,
       "num": 220443,
       "word": "台北七旬老人陈尸水塔全楼喝尸水",
       "onboard_time": 1745674282,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 491267,
+      "num": 376197,
+      "word": "顾盼生辉",
+      "onboard_time": 1745759362,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 482733,
@@ -707,20 +731,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 376197,
-      "num": 376197,
-      "word": "顾盼生辉",
-      "onboard_time": 1745759362,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 373360,
       "num": 373360,
       "word": "张凌赫王楚然 这一秒",
       "onboard_time": 1745742023,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 365191,
+      "num": 332843,
+      "word": "李现回应沉迷打鸟",
+      "onboard_time": 1745759303,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 362292,
@@ -771,12 +795,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 332843,
-      "num": 332843,
-      "word": "李现回应沉迷打鸟",
-      "onboard_time": 1745759303,
-      "rank": 21,
-      "category": "艺人"
+      "raw_hot": 334772,
+      "num": 297860,
+      "word": "冠军驾到王楚钦孙颖莎",
+      "onboard_time": 1745757863,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 330154,
@@ -784,6 +808,14 @@
       "word": "女子旅行途中惊闻独子离世崩溃大哭",
       "onboard_time": 1745728522,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 327670,
+      "num": 327670,
+      "word": "中日友好医院肖某已停职",
+      "onboard_time": 1745759964,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -899,6 +931,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 296572,
+      "num": 296572,
+      "word": "男子怕被妻子发现赴泰玩乐水洗护照",
+      "onboard_time": 1745755641,
+      "rank": 24,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 289065,
       "num": 289065,
       "word": "张淼怡聊斋开机生图",
@@ -915,36 +955,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 282493,
-      "num": 282493,
-      "word": "冠军驾到王楚钦孙颖莎",
-      "onboard_time": 1745757863,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 280023,
       "num": 180715,
       "word": "医生称女性高潮针有感染出血等风险",
       "onboard_time": 1745752280,
       "rank": 30,
       "category": "民生新闻,健康医疗"
-    },
-    {
-      "raw_hot": 278983,
-      "num": 265710,
-      "word": "刘亦菲陈晓李现同框",
-      "onboard_time": 1745759964,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 278246,
-      "num": 278246,
-      "word": "男子怕被妻子发现赴泰玩乐水洗护照",
-      "onboard_time": 1745755641,
-      "rank": 24,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 277049,
@@ -1035,20 +1051,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 255003,
-      "num": 432520,
-      "word": "中日友好医院通报肖某问题属实",
-      "onboard_time": 1745759723,
-      "rank": 9,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 254803,
       "num": 293650,
       "word": "第五人格",
       "onboard_time": 1745740640,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 252274,
+      "num": 252274,
+      "word": "两代哪吒同框了",
+      "onboard_time": 1745760263,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 250363,
@@ -1145,14 +1161,6 @@
       "onboard_time": 1745733621,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 233815,
-      "num": 233815,
-      "word": "中日友好医院肖某已停职",
-      "onboard_time": 1745759964,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 232942,
@@ -1403,6 +1411,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 201317,
+      "num": 201317,
+      "word": "关晓彤因为拍戏需求漂发了",
+      "onboard_time": 1745758282,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 201062,
       "num": 201062,
       "word": "秦海璐穿礼服吃蛤蜊",
@@ -1483,14 +1499,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 194484,
-      "num": 194484,
-      "word": "两代哪吒同框了",
-      "onboard_time": 1745760263,
-      "rank": 35,
-      "category": "电影"
-    },
-    {
       "raw_hot": 193922,
       "num": 193922,
       "word": "面试",
@@ -1521,6 +1529,14 @@
       "onboard_time": 1745757982,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 192177,
+      "num": 192177,
+      "word": "女子丢蛋糕后报警谎称抹了老鼠药",
+      "onboard_time": 1745758762,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 191391,
@@ -1604,7 +1620,7 @@
     },
     {
       "raw_hot": 185692,
-      "num": 185692,
+      "num": 234588,
       "word": "韩安冉准备把账号还给婆婆",
       "onboard_time": 1745757022,
       "rank": 36,
@@ -1731,6 +1747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172011,
+      "num": 172011,
+      "word": "韩安冉向婆婆道歉",
+      "onboard_time": 1745758582,
+      "rank": 47,
+      "category": "网红"
+    },
+    {
       "raw_hot": 171116,
       "num": 171116,
       "word": "樊振东带和平鸽的衣服好有仪式感",
@@ -1745,14 +1769,6 @@
       "onboard_time": 1745718621,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 170553,
-      "num": 170553,
-      "word": "女子丢蛋糕后报警谎称抹了老鼠药",
-      "onboard_time": 1745758762,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 170434,
@@ -1787,14 +1803,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 164826,
-      "num": 164826,
-      "word": "关晓彤因为拍戏需求漂发了",
-      "onboard_time": 1745758282,
-      "rank": 41,
-      "category": "电影"
-    },
-    {
       "raw_hot": 163342,
       "num": 163342,
       "word": "未定事件簿",
@@ -1825,6 +1833,14 @@
       "onboard_time": 1745745083,
       "rank": 44,
       "category": "数码"
+    },
+    {
+      "raw_hot": 161505,
+      "num": 240789,
+      "word": "金像奖获奖名单",
+      "onboard_time": 1745760863,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 160866,
@@ -1883,14 +1899,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 159419,
-      "num": 159419,
-      "word": "韩安冉向婆婆道歉",
-      "onboard_time": 1745758582,
-      "rank": 47,
-      "category": "网红"
-    },
-    {
       "raw_hot": 159352,
       "num": 159352,
       "word": "罕见双头猫已存活5天",
@@ -1921,6 +1929,14 @@
       "onboard_time": 1745724681,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 157807,
+      "num": 157807,
+      "word": "第二十条等获优秀故事片",
+      "onboard_time": 1745760382,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 157596,
@@ -2313,14 +2329,6 @@
       "onboard_time": 1745731941,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 133134,
-      "num": 133134,
-      "word": "第二十条等获优秀故事片",
-      "onboard_time": 1745760382,
-      "rank": 48,
-      "category": "电影"
     },
     {
       "raw_hot": 133120,
@@ -3147,6 +3155,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 48902,
+      "num": 403040,
+      "word": "猪学长夜闯南大打卡即溜",
+      "onboard_time": 1745759243,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47477,
       "num": 284773,
       "word": "如何判断床品是否已经更换",
@@ -3251,6 +3267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37258,
+      "num": 348858,
+      "word": "宠物免费领养背后究竟多少坑",
+      "onboard_time": 1745760082,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37189,
       "num": 271911,
       "word": "揭秘九大外语高校的隐藏优势",
@@ -3347,6 +3371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28771,
+      "num": 871803,
+      "word": "中国制造成为全球客商最佳选择",
+      "onboard_time": 1745760682,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 28700,
       "num": 363109,
       "word": "吴艳妮回应钻石联赛表现",
@@ -3363,20 +3395,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 27535,
-      "num": 403040,
-      "word": "猪学长夜闯南大打卡即溜",
-      "onboard_time": 1745759243,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 26431,
       "num": 161278,
       "word": "俄提议送考试未过的学生去战场",
       "onboard_time": 1745741302,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 25947,
+      "num": 178982,
+      "word": "美国做次腹部CT要9000美元",
+      "onboard_time": 1745760143,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 25750,
@@ -3392,14 +3424,6 @@
       "word": "新质先锋未来北京",
       "onboard_time": 1745736562,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 25268,
-      "num": 348858,
-      "word": "宠物免费领养背后究竟多少坑",
-      "onboard_time": 1745760082,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -3465,14 +3489,6 @@
       "onboard_time": 1745741182,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 21999,
-      "num": 178982,
-      "word": "美国做次腹部CT要9000美元",
-      "onboard_time": 1745760143,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 21941,
