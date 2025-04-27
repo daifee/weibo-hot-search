@@ -1,0 +1,410 @@
+{
+  "runTime": 1745772285937,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2954748,
+        "num": 2954748,
+        "word": "石凯回应",
+        "onboard_time": 1745764943,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 761108,
+        "num": 761108,
+        "word": "深圳兔子警官爆火出圈了",
+        "onboard_time": 1745770101,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39228,
+        "num": 546616,
+        "word": "中国制造成为全球客商最佳选择",
+        "onboard_time": 1745760682,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 792319,
+        "num": 511848,
+        "word": "曹骏 没受过互联网毒害的美",
+        "onboard_time": 1745768782,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350667,
+        "num": 350667,
+        "word": "中日友好医院通报肖某问题属实",
+        "onboard_time": 1745759723,
+        "rank": 4,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 190305,
+        "num": 190305,
+        "word": "家属以为医院是正规公立专科医院",
+        "onboard_time": 1745768602,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 412642,
+        "num": 185199,
+        "word": "陈晓为刘亦菲颁奖",
+        "onboard_time": 1745766022,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 405440,
+        "num": 185161,
+        "word": "seventeen",
+        "onboard_time": 1745769441,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 179773,
+        "num": 179773,
+        "word": "朱雀玄武敕令再申请改48字新名字",
+        "onboard_time": 1745766203,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171566,
+        "num": 171566,
+        "word": "央视曝光假进口的保健品",
+        "onboard_time": 1745763083,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 383509,
+        "num": 169074,
+        "word": "石凯姐姐发长文",
+        "onboard_time": 1745762483,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 354800,
+        "num": 166441,
+        "word": "酒肉情侣",
+        "onboard_time": 1745752102,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 221934,
+        "num": 163553,
+        "word": "刘青云四封金像奖影帝",
+        "onboard_time": 1745767464,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 213276,
+        "num": 160281,
+        "word": "沈腾果然起早贪黑刷微博",
+        "onboard_time": 1745765964,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 159888,
+        "num": 159888,
+        "word": "卫诗雅金像奖影后",
+        "onboard_time": 1745765426,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136584,
+        "num": 136584,
+        "word": "饿了么今天便宜到不敢点",
+        "onboard_time": 1745748082,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 123227,
+        "num": 123227,
+        "word": "中日友好医院肖飞",
+        "onboard_time": 1745749521,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113060,
+        "num": 113060,
+        "word": "螺蛳粉闷大米饭",
+        "onboard_time": 1745769021,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 82063,
+        "num": 111994,
+        "word": "东风日产N7爆单了",
+        "onboard_time": 1745769441,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 110993,
+        "num": 110993,
+        "word": "银川市政府就市长信箱已读乱回致歉",
+        "onboard_time": 1745761583,
+        "rank": 19,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 160620,
+        "num": 110490,
+        "word": "原来这就是生理性喜欢的表现",
+        "onboard_time": 1745766022,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 146545,
+        "num": 110472,
+        "word": "王一博姚晨合影",
+        "onboard_time": 1745771359,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138095,
+        "num": 109885,
+        "word": "两代哪吒同框了",
+        "onboard_time": 1745760263,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 135164,
+        "num": 109000,
+        "word": "惠英红华表奖首位中国香港影后",
+        "onboard_time": 1745749581,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124718,
+        "num": 108432,
+        "word": "第20届华表奖获奖名单",
+        "onboard_time": 1745749641,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108414,
+        "num": 108414,
+        "word": "女子丢蛋糕后报警谎称抹了老鼠药",
+        "onboard_time": 1745758762,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106901,
+        "num": 106901,
+        "word": "周鸿祎说360借条不是我的公司",
+        "onboard_time": 1745763683,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 105988,
+        "num": 105988,
+        "word": "谢霆锋带儿子吃饭",
+        "onboard_time": 1745756782,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95066,
+        "num": 95066,
+        "word": "冠军驾到王楚钦孙颖莎",
+        "onboard_time": 1745757863,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94205,
+        "num": 94205,
+        "word": "中日友好医院肖某已停职",
+        "onboard_time": 1745759964,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93178,
+        "num": 93178,
+        "word": "男子怕被妻子发现赴泰玩乐水洗护照",
+        "onboard_time": 1745755641,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 93022,
+        "num": 93022,
+        "word": "华表奖内场",
+        "onboard_time": 1745747180,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 90474,
+        "num": 90474,
+        "word": "胡先煦怼脸生图",
+        "onboard_time": 1745768602,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89130,
+        "num": 89130,
+        "word": "男子在生殖医院手术后身亡家属发声",
+        "onboard_time": 1745755760,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79126,
+        "num": 79126,
+        "word": "aespa人气歌谣东京",
+        "onboard_time": 1745771061,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 74753,
+        "num": 74753,
+        "word": "第二十条等获优秀故事片",
+        "onboard_time": 1745760382,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 74674,
+        "num": 74674,
+        "word": "白桃星座",
+        "onboard_time": 1745765783,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 72719,
+        "num": 72719,
+        "word": "酵色直播",
+        "onboard_time": 1745758823,
+        "rank": 37,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 70786,
+        "num": 70786,
+        "word": "华表奖首位中国香港影后",
+        "onboard_time": 1745761642,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 10099,
+        "num": 69994,
+        "word": "越南女孩见到解放军疯狂表白",
+        "onboard_time": 1745772078,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 69523,
+        "num": 69523,
+        "word": "小奶狗被主人2次狠摔致死",
+        "onboard_time": 1745742981,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68426,
+        "num": 68426,
+        "word": "利物浦vs热刺",
+        "onboard_time": 1745770700,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66895,
+        "num": 66895,
+        "word": "张凌赫替何苏叶现场问诊",
+        "onboard_time": 1745765964,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66334,
+        "num": 66334,
+        "word": "榜上佳婿 男主",
+        "onboard_time": 1745755343,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64203,
+        "num": 64203,
+        "word": "王一博与成龙跨世纪拥抱",
+        "onboard_time": 1745764642,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 62644,
+        "num": 62644,
+        "word": "刘亦菲陈晓李现同框",
+        "onboard_time": 1745759964,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62248,
+        "num": 62248,
+        "word": "虞书欣直播",
+        "onboard_time": 1745754921,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62152,
+        "num": 62152,
+        "word": "请务必坚定地支持自己",
+        "onboard_time": 1745771959,
+        "rank": 47,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 58034,
+        "num": 62151,
+        "word": "破皮的粉刺针竟是家居用品公司生产",
+        "onboard_time": 1745762183,
+        "rank": 48,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 57813,
+        "num": 62148,
+        "word": "哪吒2华表奖特别贡献影片",
+        "onboard_time": 1745757323,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#源源不断培养人工智能高素质人才#"
+    }
+  }
+}

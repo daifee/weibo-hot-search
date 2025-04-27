@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1745771302155,
+  "endTime": 1745772285937,
   "band_list": [
     {
       "raw_hot": 8960529,
@@ -323,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 792319,
+      "num": 534471,
+      "word": "曹骏 没受过互联网毒害的美",
+      "onboard_time": 1745768782,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 789920,
       "num": 482478,
       "word": "陈晓为刘亦菲颁奖",
@@ -337,6 +345,14 @@
       "onboard_time": 1745755343,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 761108,
+      "num": 761108,
+      "word": "深圳兔子警官爆火出圈了",
+      "onboard_time": 1745770101,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 739738,
@@ -361,14 +377,6 @@
       "onboard_time": 1745754681,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 705360,
-      "num": 534471,
-      "word": "曹骏 没受过互联网毒害的美",
-      "onboard_time": 1745768782,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 675671,
@@ -417,14 +425,6 @@
       "onboard_time": 1745736441,
       "rank": 6,
       "category": "电影"
-    },
-    {
-      "raw_hot": 626879,
-      "num": 626879,
-      "word": "深圳兔子警官爆火出圈了",
-      "onboard_time": 1745770101,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 615662,
@@ -779,6 +779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 405440,
+      "num": 185161,
+      "word": "seventeen",
+      "onboard_time": 1745769441,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 400882,
       "num": 348195,
       "word": "发现凤梨可以手撕的人真是个天才",
@@ -961,14 +969,6 @@
       "onboard_time": 1745745202,
       "rank": 26,
       "category": "电影,作品衍生"
-    },
-    {
-      "raw_hot": 314653,
-      "num": 160000,
-      "word": "seventeen",
-      "onboard_time": 1745769441,
-      "rank": 12,
-      "category": "音乐"
     },
     {
       "raw_hot": 314622,
@@ -1379,6 +1379,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 221934,
+      "num": 188070,
+      "word": "刘青云四封金像奖影帝",
+      "onboard_time": 1745767464,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 220854,
       "num": 220854,
       "word": "章若楠华表奖红毯生图",
@@ -1441,14 +1449,6 @@
       "onboard_time": 1745717721,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 217059,
-      "num": 188070,
-      "word": "刘青云四封金像奖影帝",
-      "onboard_time": 1745767464,
-      "rank": 26,
-      "category": "电影"
     },
     {
       "raw_hot": 216036,
@@ -1761,6 +1761,14 @@
       "onboard_time": 1745741423,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190305,
+      "num": 190305,
+      "word": "家属以为医院是正规公立专科医院",
+      "onboard_time": 1745768602,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 190173,
@@ -2339,6 +2347,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 146545,
+      "num": 110472,
+      "word": "王一博姚晨合影",
+      "onboard_time": 1745771359,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 146243,
       "num": 243376,
       "word": "九尾时尚表现力",
@@ -2803,14 +2819,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 116898,
-      "num": 116898,
-      "word": "家属以为医院是正规公立专科医院",
-      "onboard_time": 1745768602,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 116392,
       "num": 151532,
       "word": "被刘宇宁这首歌打动了",
@@ -2849,6 +2857,14 @@
       "onboard_time": 1745770341,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113060,
+      "num": 113060,
+      "word": "螺蛳粉闷大米饭",
+      "onboard_time": 1745769021,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 112995,
@@ -3267,6 +3283,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 79126,
+      "num": 79126,
+      "word": "aespa人气歌谣东京",
+      "onboard_time": 1745771061,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 77495,
       "num": 150588,
       "word": "长安三万里获优秀编剧提名",
@@ -3299,28 +3323,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 75071,
-      "num": 75071,
-      "word": "螺蛳粉闷大米饭",
-      "onboard_time": 1745769021,
-      "rank": 46,
-      "category": "美食"
-    },
-    {
       "raw_hot": 74850,
       "num": 150152,
       "word": "韩红演唱会嘉宾薛之谦",
       "onboard_time": 1745676083,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 74667,
-      "num": 74667,
-      "word": "aespa人气歌谣东京",
-      "onboard_time": 1745771061,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 74381,
@@ -3427,6 +3435,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 62152,
+      "num": 62152,
+      "word": "请务必坚定地支持自己",
+      "onboard_time": 1745771959,
+      "rank": 47,
+      "category": "情感,民生新闻"
+    },
+    {
       "raw_hot": 61522,
       "num": 470381,
       "word": "李在明当选韩国共同民主党总统候选人",
@@ -3457,6 +3473,14 @@
       "onboard_time": 1745756603,
       "rank": 43,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 57813,
+      "num": 62148,
+      "word": "哪吒2华表奖特别贡献影片",
+      "onboard_time": 1745757323,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 56976,
@@ -4073,6 +4097,14 @@
       "onboard_time": 1745709439,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 10099,
+      "num": 69994,
+      "word": "越南女孩见到解放军疯狂表白",
+      "onboard_time": 1745772078,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 8150,

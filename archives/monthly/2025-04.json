@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1745771302155,
+  "endTime": 1745772285937,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -8107,6 +8107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 792319,
+      "num": 534471,
+      "word": "曹骏 没受过互联网毒害的美",
+      "onboard_time": 1745768782,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 791921,
       "num": 394312,
       "word": "王晶 姜涛",
@@ -8569,6 +8577,14 @@
       "onboard_time": 1745496441,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 761108,
+      "num": 761108,
+      "word": "深圳兔子警官爆火出圈了",
+      "onboard_time": 1745770101,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 760924,
@@ -9481,14 +9497,6 @@
       "onboard_time": 1743738260,
       "rank": 22,
       "category": "电影"
-    },
-    {
-      "raw_hot": 705360,
-      "num": 534471,
-      "word": "曹骏 没受过互联网毒害的美",
-      "onboard_time": 1745768782,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 705307,
@@ -10936,14 +10944,6 @@
       "word": "上海799一位的自助餐厅卷款跑路",
       "onboard_time": 1744680981,
       "rank": 20,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 626879,
-      "num": 626879,
-      "word": "深圳兔子警官爆火出圈了",
-      "onboard_time": 1745770101,
-      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -17955,6 +17955,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 405440,
+      "num": 185161,
+      "word": "seventeen",
+      "onboard_time": 1745769441,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 405178,
       "num": 405178,
       "word": "关税亲历者自述美国客户仍在下单",
@@ -23001,14 +23009,6 @@
       "onboard_time": 1743855082,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 314653,
-      "num": 160000,
-      "word": "seventeen",
-      "onboard_time": 1745769441,
-      "rank": 12,
-      "category": "音乐"
     },
     {
       "raw_hot": 314622,
@@ -32395,6 +32395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 221934,
+      "num": 188070,
+      "word": "刘青云四封金像奖影帝",
+      "onboard_time": 1745767464,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 221911,
       "num": 538525,
       "word": "最强苹替vivoX200s惊艳果粉",
@@ -33081,14 +33089,6 @@
       "onboard_time": 1744604544,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 217059,
-      "num": 188070,
-      "word": "刘青云四封金像奖影帝",
-      "onboard_time": 1745767464,
-      "rank": 26,
-      "category": "电影"
     },
     {
       "raw_hot": 216964,
@@ -40672,6 +40672,14 @@
       "word": "00后开始提前处理数字遗产",
       "onboard_time": 1743905660,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 190305,
+      "num": 190305,
+      "word": "家属以为医院是正规公立专科医院",
+      "onboard_time": 1745768602,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -55331,6 +55339,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 146545,
+      "num": 110472,
+      "word": "王一博姚晨合影",
+      "onboard_time": 1745771359,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 146529,
       "num": 183769,
       "word": "缅甸地震已致超3000死",
@@ -67099,14 +67115,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 116898,
-      "num": 116898,
-      "word": "家属以为医院是正规公立专科医院",
-      "onboard_time": 1745768602,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 116859,
       "num": 116859,
       "word": "马嘉祺踏青vlog",
@@ -68265,6 +68273,14 @@
       "onboard_time": 1744032804,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113060,
+      "num": 113060,
+      "word": "螺蛳粉闷大米饭",
+      "onboard_time": 1745769021,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 113057,
@@ -76435,6 +76451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 79126,
+      "num": 79126,
+      "word": "aespa人气歌谣东京",
+      "onboard_time": 1745771061,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 79106,
       "num": 454832,
       "word": "听障女生回应因长相完美被质疑",
@@ -77195,14 +77219,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 75071,
-      "num": 75071,
-      "word": "螺蛳粉闷大米饭",
-      "onboard_time": 1745769021,
-      "rank": 46,
-      "category": "美食"
-    },
-    {
       "raw_hot": 75066,
       "num": 197117,
       "word": "宝妈哺乳期内被辞退获赔8万",
@@ -77297,14 +77313,6 @@
       "onboard_time": 1745303183,
       "rank": 18,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 74667,
-      "num": 74667,
-      "word": "aespa人气歌谣东京",
-      "onboard_time": 1745771061,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 74666,
@@ -80107,6 +80115,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 62152,
+      "num": 62152,
+      "word": "请务必坚定地支持自己",
+      "onboard_time": 1745771959,
+      "rank": 47,
+      "category": "情感,民生新闻"
+    },
+    {
       "raw_hot": 62115,
       "num": 276695,
       "word": "头发长短与学习成绩无必然联系",
@@ -81065,6 +81081,14 @@
       "onboard_time": 1743664581,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 57813,
+      "num": 62148,
+      "word": "哪吒2华表奖特别贡献影片",
+      "onboard_time": 1745757323,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 57729,
@@ -94889,6 +94913,14 @@
       "onboard_time": 1743849443,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 10099,
+      "num": 69994,
+      "word": "越南女孩见到解放军疯狂表白",
+      "onboard_time": 1745772078,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 10083,
