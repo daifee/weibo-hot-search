@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/27 14:32:28
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/27 14:45:28
 </p>
 </blockquote>
 <p>
@@ -4887,6 +4887,12 @@ enhypen科切拉舞台（热度：916460）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E8%A1%A8%E5%A5%96%E7%BA%A2%E6%AF%AF%23" target="weibo">
+华表奖红毯（热度：911731）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%92%9E%E6%AD%BB1%E5%AE%B63%E5%8F%A3%E8%82%87%E4%BA%8B%E8%80%852%E6%AC%A1%E5%B0%86%E6%B2%B9%E9%97%A8%E8%B8%A9%E5%88%B0%E5%BA%95%23" target="weibo">
 撞死1家3口肇事者2次将油门踩到底（热度：911723）
 </a>
@@ -6005,12 +6011,6 @@ YERI和Wendy离开SM（热度：805847）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9F%AF%E5%8D%97%E5%9D%A6%E7%99%BD%E5%92%8C%E5%B0%8F%E5%85%B0%E5%9C%A8%E4%BA%A4%E5%BE%80%23" target="weibo">
 柯南坦白和小兰在交往（热度：788032）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E9%94%A1%E5%BC%95%E8%BF%9B%E4%BA%BA%E6%89%8D%E9%9C%80%E8%A6%81%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%A5%96%23" target="weibo">
-无锡引进人才需要诺贝尔奖（热度：786023）
 </a>
 </li>
 

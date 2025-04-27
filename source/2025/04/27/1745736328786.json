@@ -1,0 +1,410 @@
+{
+  "runTime": 1745736328786,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1290374,
+        "num": 1290374,
+        "word": "印度未事先通知突然开闸泄洪",
+        "onboard_time": 1745730204,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 911731,
+        "num": 911731,
+        "word": "华表奖红毯",
+        "onboard_time": 1745734941,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116190,
+        "num": 899941,
+        "word": "外商组团到义乌买买买",
+        "onboard_time": 1745723781,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 893223,
+        "num": 893223,
+        "word": "华妃只认第一学历",
+        "onboard_time": 1745727922,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 607885,
+        "num": 607885,
+        "word": "苹果客服回应闹钟调休日不响",
+        "onboard_time": 1745729544,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 544805,
+        "num": 544805,
+        "word": "杨肸子是赵丽颖十多年老粉",
+        "onboard_time": 1745734941,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 537887,
+        "num": 537887,
+        "word": "老人不要利息执意取107万银行报警",
+        "onboard_time": 1745728823,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 528498,
+        "num": 528498,
+        "word": "年轻人为什么对火锅祛魅了",
+        "onboard_time": 1745732062,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 429123,
+        "num": 429123,
+        "word": "labubu联名款原价599元被炒至1.4万",
+        "onboard_time": 1745731283,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92226,
+        "num": 427453,
+        "word": "五一假期会很热",
+        "onboard_time": 1745734941,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1266123,
+        "num": 419562,
+        "word": "肥猪能不能别来挤地铁啊",
+        "onboard_time": 1745728102,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 773896,
+        "num": 418280,
+        "word": "小郑嘻嘻离婚",
+        "onboard_time": 1745719941,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 477960,
+        "num": 409563,
+        "word": "上4休5上4",
+        "onboard_time": 1745720241,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304670,
+        "num": 409283,
+        "word": "美企没钱付关税上百万元货物滞留中国",
+        "onboard_time": 1745734582,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 404601,
+        "num": 404601,
+        "word": "鹿晗接你下班的男朋友即视感",
+        "onboard_time": 1745721082,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 387870,
+        "num": 387870,
+        "word": "韩红回应母亲去世演唱会照常举办",
+        "onboard_time": 1745728642,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 333819,
+        "num": 333819,
+        "word": "银川市长信箱已读乱回",
+        "onboard_time": 1745727022,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 300652,
+        "num": 300652,
+        "word": "女子旅行途中惊闻独子离世崩溃大哭",
+        "onboard_time": 1745728522,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267453,
+        "num": 267453,
+        "word": "王菲谢霆锋 姐狗天花板",
+        "onboard_time": 1745735602,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 42143,
+        "num": 243301,
+        "word": "网购机票被隐形加价获三倍赔偿",
+        "onboard_time": 1745735002,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 414589,
+        "num": 241974,
+        "word": "金价",
+        "onboard_time": 1745734041,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 239551,
+        "num": 239551,
+        "word": "律师称石凯照片录音视频为真实记录",
+        "onboard_time": 1745734822,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238898,
+        "num": 238898,
+        "word": "张淼怡聊斋开机生图",
+        "onboard_time": 1745732720,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232063,
+        "num": 232063,
+        "word": "于适带你解锁青岛的魅力",
+        "onboard_time": 1745733202,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137348,
+        "num": 228521,
+        "word": "未定事件簿心动魔咒",
+        "onboard_time": 1745728943,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 227714,
+        "num": 227714,
+        "word": "谢霆锋王菲隔空合唱玉蝴蝶",
+        "onboard_time": 1745730802,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 105252,
+        "num": 225726,
+        "word": "米雪69岁状态",
+        "onboard_time": 1745731941,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224753,
+        "num": 224753,
+        "word": "张继科让球迷说话经过大脑",
+        "onboard_time": 1745735602,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226461,
+        "num": 222817,
+        "word": "肖战直接坐在中控台看的",
+        "onboard_time": 1745721021,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 145929,
+        "num": 221156,
+        "word": "王勉当上新郎了",
+        "onboard_time": 1745735662,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220112,
+        "num": 220112,
+        "word": "刘强东母亲现身京东食堂煮饺子",
+        "onboard_time": 1745733563,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 204411,
+        "num": 204411,
+        "word": "大连海域现江豚尸体身上有4个圆孔",
+        "onboard_time": 1745734341,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200941,
+        "num": 200941,
+        "word": "邓超唱了鹿晗的有点儿意思",
+        "onboard_time": 1745733621,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193922,
+        "num": 193922,
+        "word": "面试",
+        "onboard_time": 1745735422,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 183473,
+        "num": 183473,
+        "word": "香港年入40万的工地女蓝领",
+        "onboard_time": 1745733681,
+        "rank": 34,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 177042,
+        "num": 177042,
+        "word": "王一博赛车故障退赛",
+        "onboard_time": 1745727440,
+        "rank": 35,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 175886,
+        "num": 175886,
+        "word": "石凯",
+        "onboard_time": 1745734762,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172966,
+        "num": 172966,
+        "word": "裸辞一年发现不上班根本不需要旅游",
+        "onboard_time": 1745676863,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168085,
+        "num": 168085,
+        "word": "C罗TIFO将台湾移出中国地图",
+        "onboard_time": 1745736140,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34909,
+        "num": 163613,
+        "word": "丧尸街背后的费城",
+        "onboard_time": 1745735182,
+        "rank": 39,
+        "category": "海外新闻,议题讨论"
+      },
+      {
+        "raw_hot": 163118,
+        "num": 163118,
+        "word": "景甜红丝绒长裙",
+        "onboard_time": 1745735422,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141513,
+        "num": 141513,
+        "word": "黄景瑜到河北一脚的事",
+        "onboard_time": 1745735961,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139033,
+        "num": 139033,
+        "word": "84斤女子吐槽买百件衣服基本穿不上",
+        "onboard_time": 1745709679,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137138,
+        "num": 137138,
+        "word": "胡润说自己都没买过黄金",
+        "onboard_time": 1745736020,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 130705,
+        "num": 130705,
+        "word": "乘风2025",
+        "onboard_time": 1745734881,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130130,
+        "num": 130130,
+        "word": "人均500日料店回收食材给下一桌",
+        "onboard_time": 1745728462,
+        "rank": 45,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 128600,
+        "num": 128600,
+        "word": "恋与深空",
+        "onboard_time": 1745723001,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 127250,
+        "num": 127250,
+        "word": "傅首尔问李沐宸哭有啥用",
+        "onboard_time": 1745724802,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117466,
+        "num": 117466,
+        "word": "易烊千玺带你穿越中国电影120年",
+        "onboard_time": 1745720361,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116298,
+        "num": 116298,
+        "word": "30岁后的我明白了为啥年轻要多旅行",
+        "onboard_time": 1745733742,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#以人工智能引领科研范式变革#"
+    }
+  }
+}
