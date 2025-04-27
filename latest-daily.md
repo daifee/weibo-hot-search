@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/28 00:28:22 ~ 2025/04/28 02:31:08
+本榜单时间：2025/04/28 00:28:22 ~ 2025/04/28 02:44:13
 </p>
 </blockquote>
 <p>
@@ -413,6 +413,12 @@ KPL（热度：44562）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E6%9C%AA%E8%A7%81%E5%85%B6%E4%BA%BA%E5%85%88%E9%97%BB%E5%85%B6%E5%A3%B0%23" target="weibo">
 周深未见其人先闻其声（热度：21071）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E8%A1%A8%E5%A5%96%E7%BA%A2%E6%AF%AF%23" target="weibo">
+华表奖红毯（热度：18997）
 </a>
 </li>
 
