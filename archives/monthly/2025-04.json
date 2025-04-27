@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1745775514303,
+  "endTime": 1745778668655,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -17956,7 +17956,7 @@
     },
     {
       "raw_hot": 405440,
-      "num": 308628,
+      "num": 322395,
       "word": "seventeen",
       "onboard_time": 1745769441,
       "rank": 12,
@@ -83851,6 +83851,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 46827,
+      "num": 46827,
+      "word": "王勉发出婚礼邀请",
+      "onboard_time": 1745774896,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 46799,
       "num": 348208,
       "word": "沪上阿姨回应小程序无法自助开发票",
@@ -84873,14 +84881,6 @@
       "onboard_time": 1744347624,
       "rank": 39,
       "category": "教育"
-    },
-    {
-      "raw_hot": 43114,
-      "num": 44637,
-      "word": "王勉发出婚礼邀请",
-      "onboard_time": 1745774896,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 43047,
@@ -88659,6 +88659,14 @@
       "category": "教育,互联网"
     },
     {
+      "raw_hot": 29135,
+      "num": 60489,
+      "word": "印巴紧张局势持续升级",
+      "onboard_time": 1745773996,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 29118,
       "num": 230702,
       "word": "一字夹如何打造头包脸的自然发型",
@@ -89185,6 +89193,14 @@
       "onboard_time": 1745174056,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 27122,
+      "num": 27122,
+      "word": "王一博华表奖颁奖活动朗诵",
+      "onboard_time": 1745778196,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 27110,
@@ -90147,6 +90163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24391,
+      "num": 25281,
+      "word": "周深OOTD的灵魂",
+      "onboard_time": 1745777836,
+      "rank": 44,
+      "category": "电影,时尚"
+    },
+    {
       "raw_hot": 24385,
       "num": 138879,
       "word": "申军良说姜甲儒案比申聪案更加恶劣",
@@ -91003,14 +91027,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 21907,
-      "num": 60489,
-      "word": "印巴紧张局势持续升级",
-      "onboard_time": 1745773996,
-      "rank": 24,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 21898,
       "num": 201009,
       "word": "换个思路看男性HPV疫苗打不打",
@@ -91297,6 +91313,14 @@
       "onboard_time": 1744799362,
       "rank": 39,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 21071,
+      "num": 25273,
+      "word": "周深未见其人先闻其声",
+      "onboard_time": 1745778554,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 21069,

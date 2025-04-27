@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1745775514303,
+  "endTime": 1745778668655,
   "band_list": [
     {
       "raw_hot": 8960529,
@@ -780,7 +780,7 @@
     },
     {
       "raw_hot": 405440,
-      "num": 308628,
+      "num": 322395,
       "word": "seventeen",
       "onboard_time": 1745769441,
       "rank": 12,
@@ -3627,6 +3627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46827,
+      "num": 46827,
+      "word": "王勉发出婚礼邀请",
+      "onboard_time": 1745774896,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 46799,
       "num": 348208,
       "word": "沪上阿姨回应小程序无法自助开发票",
@@ -3673,14 +3681,6 @@
       "onboard_time": 1745773817,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 43114,
-      "num": 44637,
-      "word": "王勉发出婚礼邀请",
-      "onboard_time": 1745774896,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 42169,
@@ -3859,6 +3859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29135,
+      "num": 60489,
+      "word": "印巴紧张局势持续升级",
+      "onboard_time": 1745773996,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 28700,
       "num": 363109,
       "word": "吴艳妮回应钻石联赛表现",
@@ -3873,6 +3881,14 @@
       "onboard_time": 1745728162,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27122,
+      "num": 27122,
+      "word": "王一博华表奖颁奖活动朗诵",
+      "onboard_time": 1745778196,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 26431,
@@ -3905,6 +3921,14 @@
       "onboard_time": 1745736562,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24391,
+      "num": 25281,
+      "word": "周深OOTD的灵魂",
+      "onboard_time": 1745777836,
+      "rank": 44,
+      "category": "电影,时尚"
     },
     {
       "raw_hot": 23761,
@@ -3979,14 +4003,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 21907,
-      "num": 60489,
-      "word": "印巴紧张局势持续升级",
-      "onboard_time": 1745773996,
-      "rank": 24,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 21765,
       "num": 28629,
       "word": "周深小跑两步可爱又帅气",
@@ -4001,6 +4017,14 @@
       "onboard_time": 1745700493,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21071,
+      "num": 25273,
+      "word": "周深未见其人先闻其声",
+      "onboard_time": 1745778554,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 20735,
