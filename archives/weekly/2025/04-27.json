@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1745882623858,
+  "endTime": 1745883477872,
   "band_list": [
     {
       "raw_hot": 8960529,
@@ -276,7 +276,7 @@
     },
     {
       "raw_hot": 1246935,
-      "num": 201845,
+      "num": 214561,
       "word": "新娘因长相太美被质疑AI换脸",
       "onboard_time": 1745854402,
       "rank": 10,
@@ -667,6 +667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 742632,
+      "num": 936338,
+      "word": "瑞幸回应4部手机点出3种价格",
+      "onboard_time": 1745851163,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 742583,
       "num": 425706,
       "word": "二本文科生50元吃一个月",
@@ -688,14 +696,6 @@
       "word": "网购避孕套被配送员骚扰",
       "onboard_time": 1745665102,
       "rank": 10,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 726747,
-      "num": 881904,
-      "word": "瑞幸回应4部手机点出3种价格",
-      "onboard_time": 1745851163,
-      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -1731,6 +1731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 321583,
+      "num": 411640,
+      "word": "今年首个蛇年蛇月蛇日蛇时",
+      "onboard_time": 1745849003,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 320734,
       "num": 301814,
       "word": "王俊凯杨超越同框",
@@ -1953,14 +1961,6 @@
       "onboard_time": 1745732720,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 286060,
-      "num": 411640,
-      "word": "今年首个蛇年蛇月蛇日蛇时",
-      "onboard_time": 1745849003,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 285588,
@@ -2641,6 +2641,14 @@
       "onboard_time": 1745824703,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 214262,
+      "num": 214262,
+      "word": "张柏芝发文谈恋爱脑",
+      "onboard_time": 1745882780,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 214094,
@@ -4147,8 +4155,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 150962,
-      "num": 150962,
+      "raw_hot": 151140,
+      "num": 151140,
       "word": "家属回应女子与走失儿子团聚后去世",
       "onboard_time": 1745868855,
       "rank": 48,
@@ -5747,6 +5755,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 98987,
+      "num": 98987,
+      "word": "金晨抽中隐藏labubu",
+      "onboard_time": 1745880016,
+      "rank": 46,
+      "category": "艺人,综艺"
+    },
+    {
       "raw_hot": 98718,
       "num": 98718,
       "word": "一趟列车一千人一半是放春假的小孩",
@@ -5897,6 +5913,14 @@
       "onboard_time": 1745805321,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 95471,
+      "num": 95471,
+      "word": "林志玲说杨紫从小妹妹成为了大女主",
+      "onboard_time": 1745881217,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 95389,
@@ -6155,14 +6179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 84003,
-      "num": 84003,
-      "word": "金晨抽中隐藏labubu",
-      "onboard_time": 1745880016,
-      "rank": 46,
-      "category": "艺人,综艺"
-    },
-    {
       "raw_hot": 83774,
       "num": 83774,
       "word": "秘鲁考古学家发现5000年前尸体",
@@ -6227,12 +6243,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 81339,
+      "num": 81339,
+      "word": "4加4对学上来的医生公平吗",
+      "onboard_time": 1745883140,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81307,
       "num": 162878,
       "word": "半个中国的文旅在荣耀团建",
       "onboard_time": 1745841802,
       "rank": 26,
       "category": "数码"
+    },
+    {
+      "raw_hot": 81124,
+      "num": 78650,
+      "word": "美航母一战机坠海",
+      "onboard_time": 1745882659,
+      "rank": 30,
+      "category": "军事"
     },
     {
       "raw_hot": 80593,
@@ -6331,6 +6363,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 76049,
+      "num": 76049,
+      "word": "柯淳回应片场随地扔烟头",
+      "onboard_time": 1745882780,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 75130,
       "num": 128431,
       "word": "原来真的有种病叫旅行者腹泻",
@@ -6355,12 +6395,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 74457,
+      "num": 74457,
+      "word": "电影哪吒之魔童闹海",
+      "onboard_time": 1745882720,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 74381,
       "num": 143968,
       "word": "初代网红沉珂揭秘原生家庭阴影",
       "onboard_time": 1745753722,
       "rank": 37,
       "category": "网红"
+    },
+    {
+      "raw_hot": 74204,
+      "num": 74204,
+      "word": "迪丽热巴说馕言文",
+      "onboard_time": 1745883080,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 74078,
@@ -6385,14 +6441,6 @@
       "onboard_time": 1745728281,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 73308,
-      "num": 73308,
-      "word": "林志玲说杨紫从小妹妹成为了大女主",
-      "onboard_time": 1745881217,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 73156,
@@ -6467,6 +6515,14 @@
       "category": "幽默,剧集"
     },
     {
+      "raw_hot": 70753,
+      "num": 70753,
+      "word": "人鱼的眼泪",
+      "onboard_time": 1745882840,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 70678,
       "num": 246667,
       "word": "李盈莹恢复迅速",
@@ -6539,6 +6595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 65699,
+      "num": 65699,
+      "word": "李现锦绣芳华有效剧透",
+      "onboard_time": 1745882659,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 64798,
       "num": 155501,
       "word": "井胧井迪是我见过最美好的手足情",
@@ -6587,6 +6651,14 @@
       "category": "情感,民生新闻"
     },
     {
+      "raw_hot": 61663,
+      "num": 81248,
+      "word": "外交部回应老外带大行李箱来华扫货",
+      "onboard_time": 1745860457,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 61522,
       "num": 470381,
       "word": "李在明当选韩国共同民主党总统候选人",
@@ -6611,20 +6683,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 60780,
+      "num": 60780,
+      "word": "李耕耘回归种地吧3录制",
+      "onboard_time": 1745882780,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 60465,
       "num": 149844,
       "word": "你要平整土地而非焦虑时光",
       "onboard_time": 1745685559,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 60332,
-      "num": 81248,
-      "word": "外交部回应老外带大行李箱来华扫货",
-      "onboard_time": 1745860457,
-      "rank": 14,
-      "category": "国内时政"
     },
     {
       "raw_hot": 59838,
@@ -6779,6 +6851,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 52759,
+      "num": 55377,
+      "word": "比起亲吻更喜欢紧紧相拥",
+      "onboard_time": 1745871374,
+      "rank": 39,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 52574,
       "num": 497283,
       "word": "外贸女老板霸气回应美关税讹诈",
@@ -6809,14 +6889,6 @@
       "onboard_time": 1745741901,
       "rank": 17,
       "category": "艺人,剧集"
-    },
-    {
-      "raw_hot": 51699,
-      "num": 55377,
-      "word": "比起亲吻更喜欢紧紧相拥",
-      "onboard_time": 1745871374,
-      "rank": 39,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 51214,
@@ -7155,6 +7227,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 36983,
+      "num": 361514,
+      "word": "稳就业稳经济5方面若干举措",
+      "onboard_time": 1745845342,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36968,
       "num": 159776,
       "word": "哪些变化的痣可能是癌症的早期信号",
@@ -7251,6 +7331,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 33276,
+      "num": 48274,
+      "word": "斯佳辉晋级世锦赛八强",
+      "onboard_time": 1745883320,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 33196,
       "num": 344254,
       "word": "梁王组合缺阵苏杯首战",
@@ -7305,14 +7393,6 @@
       "onboard_time": 1745775436,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 31167,
-      "num": 320716,
-      "word": "稳就业稳经济5方面若干举措",
-      "onboard_time": 1745845342,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 30959,
@@ -7504,6 +7584,14 @@
       "word": "新质先锋未来北京",
       "onboard_time": 1745736562,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24942,
+      "num": 214686,
+      "word": "全面提升劳动者素质",
+      "onboard_time": 1745880977,
+      "rank": 9,
       "category": "民生新闻"
     },
     {

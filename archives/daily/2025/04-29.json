@@ -1,10 +1,10 @@
 {
   "startTime": 1745857837371,
-  "endTime": 1745882623858,
+  "endTime": 1745883477872,
   "band_list": [
     {
       "raw_hot": 1246935,
-      "num": 201845,
+      "num": 214561,
       "word": "新娘因长相太美被质疑AI换脸",
       "onboard_time": 1745854402,
       "rank": 10,
@@ -19,8 +19,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 726747,
-      "num": 881904,
+      "raw_hot": 742632,
+      "num": 936338,
       "word": "瑞幸回应4部手机点出3种价格",
       "onboard_time": 1745851163,
       "rank": 0,
@@ -43,11 +43,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 357999,
-      "num": 357999,
+      "raw_hot": 406721,
+      "num": 406721,
       "word": "医师出轨暴露违规问题更需关注",
       "onboard_time": 1745850142,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 325839,
+      "num": 214436,
+      "word": "上海月薪两万七一天要花多少钱",
+      "onboard_time": 1745848222,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -59,12 +67,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 314828,
-      "num": 199319,
-      "word": "上海月薪两万七一天要花多少钱",
-      "onboard_time": 1745848222,
-      "rank": 12,
+      "raw_hot": 321583,
+      "num": 321583,
+      "word": "今年首个蛇年蛇月蛇日蛇时",
+      "onboard_time": 1745849003,
+      "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 315285,
+      "num": 214361,
+      "word": "孟子义在飞机上直播",
+      "onboard_time": 1745850023,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 297975,
@@ -75,20 +91,12 @@
       "category": "演出,休闲"
     },
     {
-      "raw_hot": 297252,
-      "num": 196927,
-      "word": "孟子义在飞机上直播",
-      "onboard_time": 1745850023,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 286060,
-      "num": 286060,
-      "word": "今年首个蛇年蛇月蛇日蛇时",
-      "onboard_time": 1745849003,
-      "rank": 39,
-      "category": "民生新闻"
+      "raw_hot": 291187,
+      "num": 291187,
+      "word": "北大回应网红汤匙被录取",
+      "onboard_time": 1745850621,
+      "rank": 16,
+      "category": "网红"
     },
     {
       "raw_hot": 280385,
@@ -115,12 +123,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 240668,
-      "num": 240668,
-      "word": "北大回应网红汤匙被录取",
-      "onboard_time": 1745850621,
-      "rank": 16,
-      "category": "网红"
+      "raw_hot": 214262,
+      "num": 214262,
+      "word": "张柏芝发文谈恋爱脑",
+      "onboard_time": 1745882780,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 210350,
@@ -140,11 +148,27 @@
     },
     {
       "raw_hot": 194690,
-      "num": 194690,
+      "num": 214857,
       "word": "孙俪说姐弟恋把我们这戏说俗气了",
       "onboard_time": 1745841080,
       "rank": 23,
       "category": "艺人,剧集"
+    },
+    {
+      "raw_hot": 192772,
+      "num": 192772,
+      "word": "马代遭酒店管家性侵女子再发声",
+      "onboard_time": 1745842282,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181437,
+      "num": 126349,
+      "word": "捡个脸盆被记9分断了多根肋骨",
+      "onboard_time": 1745847141,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 178821,
@@ -155,28 +179,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 173921,
-      "num": 173921,
-      "word": "马代遭酒店管家性侵女子再发声",
-      "onboard_time": 1745842282,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 161087,
       "num": 161087,
       "word": "西班牙葡萄牙大范围停电",
       "onboard_time": 1745845162,
       "rank": 36,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 157226,
-      "num": 92353,
-      "word": "捡个脸盆被记9分断了多根肋骨",
-      "onboard_time": 1745847141,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 155538,
@@ -187,20 +195,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151140,
+      "num": 151140,
+      "word": "家属回应女子与走失儿子团聚后去世",
+      "onboard_time": 1745868855,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 151067,
       "num": 151067,
       "word": "柯淳片场随地扔烟头",
       "onboard_time": 1745845222,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 150962,
-      "num": 150962,
-      "word": "家属回应女子与走失儿子团聚后去世",
-      "onboard_time": 1745868855,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 142614,
@@ -219,12 +227,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 113327,
+      "num": 113327,
+      "word": "酒店机器人3年亏了8个亿",
+      "onboard_time": 1745851345,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101427,
       "num": 101427,
       "word": "孟宴臣父母年轻的时候",
       "onboard_time": 1745849484,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98987,
+      "num": 98987,
+      "word": "金晨抽中隐藏labubu",
+      "onboard_time": 1745880016,
+      "rank": 46,
+      "category": "艺人,综艺"
     },
     {
       "raw_hot": 95680,
@@ -235,12 +259,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 92568,
-      "num": 92568,
-      "word": "酒店机器人3年亏了8个亿",
-      "onboard_time": 1745851345,
-      "rank": 26,
-      "category": "民生新闻"
+      "raw_hot": 95471,
+      "num": 95471,
+      "word": "林志玲说杨紫从小妹妹成为了大女主",
+      "onboard_time": 1745881217,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 90808,
@@ -275,12 +299,28 @@
       "category": "教育"
     },
     {
-      "raw_hot": 84003,
-      "num": 84003,
-      "word": "金晨抽中隐藏labubu",
-      "onboard_time": 1745880016,
-      "rank": 46,
-      "category": "艺人,综艺"
+      "raw_hot": 81339,
+      "num": 81339,
+      "word": "4加4对学上来的医生公平吗",
+      "onboard_time": 1745883140,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81124,
+      "num": 78650,
+      "word": "美航母一战机坠海",
+      "onboard_time": 1745882659,
+      "rank": 30,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 80601,
+      "num": 146980,
+      "word": "加拿大总理称美利坚合众国名存实亡",
+      "onboard_time": 1745850686,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 79764,
@@ -307,11 +347,27 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 77470,
+      "num": 77470,
+      "word": "男子申请改48字姓名警方称难过审",
+      "onboard_time": 1745837842,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76355,
       "num": 76355,
       "word": "王一博iG发文",
       "onboard_time": 1745849122,
       "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 76049,
+      "num": 76049,
+      "word": "柯淳回应片场随地扔烟头",
+      "onboard_time": 1745882780,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -331,28 +387,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 73308,
-      "num": 73308,
-      "word": "林志玲说杨紫从小妹妹成为了大女主",
-      "onboard_time": 1745881217,
-      "rank": 28,
+      "raw_hot": 74457,
+      "num": 74457,
+      "word": "电影哪吒之魔童闹海",
+      "onboard_time": 1745882720,
+      "rank": 34,
       "category": "电影"
     },
     {
-      "raw_hot": 72687,
-      "num": 146980,
-      "word": "加拿大总理称美利坚合众国名存实亡",
-      "onboard_time": 1745850686,
-      "rank": 40,
-      "category": "国际时政"
+      "raw_hot": 74204,
+      "num": 74204,
+      "word": "迪丽热巴说馕言文",
+      "onboard_time": 1745883080,
+      "rank": 35,
+      "category": "综艺"
     },
     {
-      "raw_hot": 69937,
-      "num": 69937,
-      "word": "男子申请改48字姓名警方称难过审",
-      "onboard_time": 1745837842,
-      "rank": 42,
-      "category": "民生新闻"
+      "raw_hot": 70753,
+      "num": 70753,
+      "word": "人鱼的眼泪",
+      "onboard_time": 1745882840,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 69651,
@@ -377,6 +433,14 @@
       "onboard_time": 1745855302,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 65699,
+      "num": 65699,
+      "word": "李现锦绣芳华有效剧透",
+      "onboard_time": 1745882659,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 64617,
@@ -411,6 +475,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 61663,
+      "num": 81248,
+      "word": "外交部回应老外带大行李箱来华扫货",
+      "onboard_time": 1745860457,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 60845,
       "num": 60845,
       "word": "主动一点其实没那么难",
@@ -419,12 +491,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 60332,
-      "num": 81248,
-      "word": "外交部回应老外带大行李箱来华扫货",
-      "onboard_time": 1745860457,
-      "rank": 14,
-      "category": "国内时政"
+      "raw_hot": 60780,
+      "num": 60780,
+      "word": "李耕耘回归种地吧3录制",
+      "onboard_time": 1745882780,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 58700,
@@ -443,7 +515,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 51699,
+      "raw_hot": 52759,
       "num": 55377,
       "word": "比起亲吻更喜欢紧紧相拥",
       "onboard_time": 1745871374,
@@ -499,7 +571,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 41582,
+      "raw_hot": 44530,
       "num": 57286,
       "word": "李晓霞晒与樊振东合影",
       "onboard_time": 1745850383,
@@ -523,6 +595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 36983,
+      "num": 361514,
+      "word": "稳就业稳经济5方面若干举措",
+      "onboard_time": 1745845342,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35422,
       "num": 35422,
       "word": "种地吧",
@@ -537,6 +617,14 @@
       "onboard_time": 1745871674,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 33276,
+      "num": 48274,
+      "word": "斯佳辉晋级世锦赛八强",
+      "onboard_time": 1745883320,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 33193,
@@ -561,14 +649,6 @@
       "onboard_time": 1745865794,
       "rank": 17,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 31167,
-      "num": 320716,
-      "word": "稳就业稳经济5方面若干举措",
-      "onboard_time": 1745845342,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 30528,
@@ -609,6 +689,14 @@
       "onboard_time": 1745861596,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 24942,
+      "num": 214686,
+      "word": "全面提升劳动者素质",
+      "onboard_time": 1745880977,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21677,
