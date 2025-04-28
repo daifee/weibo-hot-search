@@ -1,0 +1,410 @@
+{
+  "runTime": 1745871948108,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 78740,
+        "num": 78740,
+        "word": "瑞幸回应4部手机点出3种价格",
+        "onboard_time": 1745851163,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66126,
+        "num": 66126,
+        "word": "西班牙停电",
+        "onboard_time": 1745841202,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 8655,
+        "num": 48684,
+        "word": "稳就业稳经济5方面若干举措",
+        "onboard_time": 1745845342,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45472,
+        "num": 45472,
+        "word": "美国回应普京宣布临时停火",
+        "onboard_time": 1745855901,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 45445,
+        "num": 45445,
+        "word": "今年首个蛇年蛇月蛇日蛇时",
+        "onboard_time": 1745849003,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44331,
+        "num": 44331,
+        "word": "西班牙葡萄牙大范围停电",
+        "onboard_time": 1745845162,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 43948,
+        "num": 43948,
+        "word": "医师出轨暴露违规问题更需关注",
+        "onboard_time": 1745850142,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32710,
+        "num": 32710,
+        "word": "北大回应网红汤匙被录取",
+        "onboard_time": 1745850621,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 30252,
+        "num": 30252,
+        "word": "藏海传",
+        "onboard_time": 1745848104,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28333,
+        "num": 28333,
+        "word": "为什么小时候常有的停电好像消失了",
+        "onboard_time": 1745847141,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102510,
+        "num": 28140,
+        "word": "新娘因长相太美被质疑AI换脸",
+        "onboard_time": 1745854402,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45180,
+        "num": 27993,
+        "word": "徐冬冬晒真实肚子",
+        "onboard_time": 1745853203,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41469,
+        "num": 27749,
+        "word": "上海月薪两万七一天要花多少钱",
+        "onboard_time": 1745848222,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35320,
+        "num": 27649,
+        "word": "马代遭酒店管家性侵女子再发声",
+        "onboard_time": 1745842282,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27455,
+        "num": 27455,
+        "word": "李兆基丧礼举行",
+        "onboard_time": 1745861835,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26871,
+        "num": 26871,
+        "word": "孟子义在飞机上直播",
+        "onboard_time": 1745850023,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26619,
+        "num": 26619,
+        "word": "孙俪说姐弟恋把我们这戏说俗气了",
+        "onboard_time": 1745841080,
+        "rank": 16,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 25243,
+        "num": 25243,
+        "word": "刘诗诗回复虞书欣",
+        "onboard_time": 1745844803,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21555,
+        "num": 21555,
+        "word": "贾静雯女儿钟丽缇女儿同框",
+        "onboard_time": 1745844982,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21323,
+        "num": 21323,
+        "word": "女子回应新娘因高颜值被质疑",
+        "onboard_time": 1745855840,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20894,
+        "num": 20894,
+        "word": "捡个脸盆被记9分断了多根肋骨",
+        "onboard_time": 1745847141,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19149,
+        "num": 19149,
+        "word": "柯淳片场随地扔烟头",
+        "onboard_time": 1745845222,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18769,
+        "num": 18769,
+        "word": "男子申请改48字姓名警方称难过审",
+        "onboard_time": 1745837842,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18265,
+        "num": 18265,
+        "word": "萧亚轩五次手术后首公开露面",
+        "onboard_time": 1745833341,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17256,
+        "num": 17256,
+        "word": "85竹对打95花",
+        "onboard_time": 1745844022,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 17242,
+        "num": 17242,
+        "word": "酒店机器人3年亏了8个亿",
+        "onboard_time": 1745851345,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16720,
+        "num": 16720,
+        "word": "加拿大总理称美利坚合众国名存实亡",
+        "onboard_time": 1745850686,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 16061,
+        "num": 16635,
+        "word": "密室大逃脱7",
+        "onboard_time": 1745851643,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14370,
+        "num": 16560,
+        "word": "玉茗茶骨 李柏煦",
+        "onboard_time": 1745863215,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13198,
+        "num": 16318,
+        "word": "半个娱乐圈都在追无尽的尽头",
+        "onboard_time": 1745835562,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19375,
+        "num": 16250,
+        "word": "美国建国250周年可能无烟花可放",
+        "onboard_time": 1745860877,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 16141,
+        "num": 16141,
+        "word": "保时捷CEO谈小米SU7Ultra",
+        "onboard_time": 1745850142,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 15815,
+        "num": 15815,
+        "word": "注销手机号不留心可能泄露个人信息",
+        "onboard_time": 1745869694,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15788,
+        "num": 15788,
+        "word": "美媒画图说明美家庭离不开中国制造",
+        "onboard_time": 1745865794,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15162,
+        "num": 15162,
+        "word": "家属回应女子与走失儿子团聚后去世",
+        "onboard_time": 1745868855,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15065,
+        "num": 15065,
+        "word": "4月30日有蛇年蛇月蛇日蛇时",
+        "onboard_time": 1745861475,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14374,
+        "num": 14374,
+        "word": "律师解读男子申请改48字超长姓名",
+        "onboard_time": 1745867774,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14265,
+        "num": 14265,
+        "word": "森林北直播带货",
+        "onboard_time": 1745844741,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 13783,
+        "num": 13783,
+        "word": "主动一点其实没那么难",
+        "onboard_time": 1745855482,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 13674,
+        "num": 13674,
+        "word": "外交部回应老外带大行李箱来华扫货",
+        "onboard_time": 1745860457,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 13120,
+        "num": 13673,
+        "word": "丁禹兮陪看淮水竹亭",
+        "onboard_time": 1745854702,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12962,
+        "num": 13672,
+        "word": "2025年韩国福布斯名人榜",
+        "onboard_time": 1745865434,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 11896,
+        "num": 13672,
+        "word": "青铜器记录了古代曾有三不像动物",
+        "onboard_time": 1745870353,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12238,
+        "num": 13669,
+        "word": "为什么婚恋前要先看体检报告",
+        "onboard_time": 1745854222,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 12209,
+        "num": 13669,
+        "word": "孟宴臣父母年轻的时候",
+        "onboard_time": 1745849484,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11624,
+        "num": 13667,
+        "word": "普京感谢协助俄军朝鲜军人",
+        "onboard_time": 1745871674,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 11517,
+        "num": 13666,
+        "word": "IU登顶韩国福布斯名人榜",
+        "onboard_time": 1745845041,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11307,
+        "num": 13665,
+        "word": "关注第八届数字中国建设峰会",
+        "onboard_time": 1745867656,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 10861,
+        "num": 13663,
+        "word": "李晓霞晒与樊振东合影",
+        "onboard_time": 1745850383,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 9717,
+        "num": 13662,
+        "word": "领克900重新定义家庭大六座标准",
+        "onboard_time": 1745847263,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向广大劳动群众致以诚挚问候#"
+    }
+  }
+}
