@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/28 10:20:38
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/28 11:15:11
 </p>
 </blockquote>
 <p>
@@ -4719,6 +4719,12 @@ THE9成员9人实到2人（热度：949717）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%9D%E9%B2%9C%E8%AF%81%E5%AE%9E%E5%87%BA%E5%85%B5%E4%BF%84%E7%BD%97%E6%96%AF%23" target="weibo">
+朝鲜证实出兵俄罗斯（热度：945676）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E7%BD%91%E8%B4%AD%E8%AF%AF%E4%B8%8B%E5%8D%95%E6%94%B6%E5%88%B0550%E5%8F%AA%E5%B0%8F%E9%B8%A1%E5%B4%BD%23" target="weibo">
 老人网购误下单收到550只小鸡崽（热度：944551）
 </a>
@@ -6005,12 +6011,6 @@ YERI和Wendy离开SM（热度：805847）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E9%97%AE%E5%B0%8F%E7%B1%B3SU7%E9%AB%98%E9%80%9F%E7%88%86%E7%87%83%E4%BA%8B%E6%95%85%23" target="weibo">
 五问小米SU7高速爆燃事故（热度：803280）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E4%BD%93%E5%88%B6%E5%86%85%E5%A5%B3%E5%8F%8B%E9%A3%8E%23" target="weibo">
-白鹿体制内女友风（热度：803163）
 </a>
 </li>
 

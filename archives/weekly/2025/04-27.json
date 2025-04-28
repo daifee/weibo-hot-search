@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1745806838445,
+  "endTime": 1745810111212,
   "band_list": [
     {
       "raw_hot": 8960529,
@@ -283,6 +283,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 945676,
+      "num": 1151308,
+      "word": "朝鲜证实出兵俄罗斯",
+      "onboard_time": 1745805982,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 922075,
       "num": 922075,
       "word": "如果取消调休 罚我五一多放2个月也行",
@@ -347,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 795586,
+      "num": 795586,
+      "word": "只要保持一个月九点之前睡觉",
+      "onboard_time": 1745797400,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
       "raw_hot": 792319,
       "num": 602013,
       "word": "曹骏 没受过互联网毒害的美",
@@ -369,6 +385,14 @@
       "onboard_time": 1745755343,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 776002,
+      "num": 776002,
+      "word": "黄金",
+      "onboard_time": 1745804662,
+      "rank": 21,
+      "category": "财经"
     },
     {
       "raw_hot": 761108,
@@ -419,14 +443,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 689897,
-      "num": 689897,
-      "word": "只要保持一个月九点之前睡觉",
-      "onboard_time": 1745797400,
-      "rank": 3,
-      "category": "情感"
-    },
-    {
       "raw_hot": 675671,
       "num": 473057,
       "word": "当代年轻人的恶心穿搭",
@@ -467,6 +483,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 653550,
+      "num": 606711,
+      "word": "中日友好医院医生回应被开除",
+      "onboard_time": 1745803283,
+      "rank": 5,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 642170,
       "num": 642170,
       "word": "特朗普与泽连斯基在梵蒂冈谈了15分钟",
@@ -499,12 +523,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 606711,
-      "num": 606711,
-      "word": "中日友好医院医生回应被开除",
-      "onboard_time": 1745803283,
-      "rank": 5,
-      "category": "民生新闻,健康医疗"
+      "raw_hot": 605777,
+      "num": 605777,
+      "word": "三姐妹给父亲上坟被大伯炸死案二审",
+      "onboard_time": 1745808020,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 605666,
@@ -707,6 +731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 504812,
+      "num": 504812,
+      "word": "Uzi宣布无限期停播",
+      "onboard_time": 1745806342,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 503307,
       "num": 220443,
       "word": "台北七旬老人陈尸水塔全楼喝尸水",
@@ -788,7 +820,7 @@
     },
     {
       "raw_hot": 454757,
-      "num": 454757,
+      "num": 454821,
       "word": "疑似石凯训粉",
       "onboard_time": 1745802861,
       "rank": 16,
@@ -801,6 +833,14 @@
       "onboard_time": 1745798782,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 444372,
+      "num": 444372,
+      "word": "樊振东王曼昱盛李豪受表彰",
+      "onboard_time": 1745808141,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 440319,
@@ -923,12 +963,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 400132,
+      "num": 400132,
+      "word": "多地无人配送车连发交通事故",
+      "onboard_time": 1745805982,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 396034,
-      "num": 396034,
+      "num": 421094,
       "word": "谢霆锋妹妹转发了王菲",
       "onboard_time": 1745801123,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 389003,
+      "num": 389003,
+      "word": "王者荣耀三丽鸥",
+      "onboard_time": 1745798782,
+      "rank": 19,
+      "category": "电竞,游戏"
     },
     {
       "raw_hot": 388754,
@@ -1043,28 +1099,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 345325,
-      "num": 345325,
-      "word": "多地无人配送车连发交通事故",
-      "onboard_time": 1745805982,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 340944,
       "num": 340944,
       "word": "张继科让球迷说话经过大脑",
       "onboard_time": 1745735602,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 336035,
-      "num": 336035,
-      "word": "王者荣耀三丽鸥",
-      "onboard_time": 1745798782,
-      "rank": 19,
-      "category": "电竞,游戏"
     },
     {
       "raw_hot": 330154,
@@ -1105,14 +1145,6 @@
       "onboard_time": 1745744781,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 319615,
-      "num": 319615,
-      "word": "黄金",
-      "onboard_time": 1745804662,
-      "rank": 21,
-      "category": "财经"
     },
     {
       "raw_hot": 319593,
@@ -1259,6 +1291,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 280021,
+      "num": 423412,
+      "word": "徐冬冬的舒适体重是130斤以下",
+      "onboard_time": 1745808501,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 277572,
       "num": 223945,
       "word": "沈腾果然起早贪黑刷微博",
@@ -1305,6 +1345,14 @@
       "onboard_time": 1745733202,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 269283,
+      "num": 269283,
+      "word": "用人民币感受韩国工资水平",
+      "onboard_time": 1745808621,
+      "rank": 30,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 267491,
@@ -1467,14 +1515,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 241973,
-      "num": 241973,
-      "word": "朝鲜证实出兵俄罗斯",
-      "onboard_time": 1745805982,
-      "rank": 23,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 241742,
       "num": 393246,
       "word": "台20万民众集会怒骂赖清德",
@@ -1627,14 +1667,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 219379,
-      "num": 219379,
-      "word": "Uzi宣布无限期停播",
-      "onboard_time": 1745806342,
-      "rank": 25,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 219256,
       "num": 219256,
       "word": "鹿晗新歌吹吹风",
@@ -1745,6 +1777,14 @@
       "onboard_time": 1745721381,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 208975,
+      "num": 282054,
+      "word": "钟丽丽也知道自己演的白蛇很迷人吧",
+      "onboard_time": 1745809520,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 208860,
@@ -1904,6 +1944,14 @@
       "word": "李沁电视剧导演大会年度影响力女演员",
       "onboard_time": 1745763924,
       "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 197137,
+      "num": 271087,
+      "word": "落花时节又逢君",
+      "onboard_time": 1745807841,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -2171,6 +2219,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 182486,
+      "num": 319966,
+      "word": "麻醉医生谈肖飞事件",
+      "onboard_time": 1745805381,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179725,
       "num": 179725,
       "word": "吴磊好板正一男的",
@@ -2185,6 +2241,14 @@
       "onboard_time": 1745709318,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 179211,
+      "num": 179211,
+      "word": "养了六年的兔子给我做了个窝",
+      "onboard_time": 1745808681,
+      "rank": 34,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 179059,
@@ -2267,6 +2331,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171075,
+      "num": 171075,
+      "word": "我国将出台稳就业稳经济若干举措",
+      "onboard_time": 1745809161,
+      "rank": 35,
+      "category": "国内时政,民生新闻"
+    },
+    {
+      "raw_hot": 170982,
+      "num": 170982,
+      "word": "还以为电量焦虑是件很小众的事",
+      "onboard_time": 1745808981,
+      "rank": 36,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 170911,
       "num": 268518,
       "word": "谢霆锋不语只是一味地换吉他",
@@ -2323,6 +2403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164493,
+      "num": 164493,
+      "word": "利拉德恐遭遇跟腱撕裂",
+      "onboard_time": 1745809282,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163342,
       "num": 163342,
       "word": "未定事件簿",
@@ -2361,6 +2449,14 @@
       "onboard_time": 1745745083,
       "rank": 44,
       "category": "数码"
+    },
+    {
+      "raw_hot": 161427,
+      "num": 161427,
+      "word": "2426人受到表彰",
+      "onboard_time": 1745806942,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160866,
@@ -2539,6 +2635,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 154206,
+      "num": 154206,
+      "word": "泡泡玛特涨超8%",
+      "onboard_time": 1745809821,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 153886,
       "num": 153886,
       "word": "安娜来内娱也得拍出发图",
@@ -2625,6 +2729,14 @@
       "onboard_time": 1745716222,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 149622,
+      "num": 149622,
+      "word": "曹骏内娱纯阳之体",
+      "onboard_time": 1745806521,
+      "rank": 48,
+      "category": "剧集,艺人"
     },
     {
       "raw_hot": 149438,
@@ -2755,6 +2867,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 143503,
+      "num": 143503,
+      "word": "牛奶可以用来煮彩妆",
+      "onboard_time": 1745808981,
+      "rank": 42,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 143377,
       "num": 152744,
       "word": "谢娜凌晨为何炅庆生",
@@ -2883,6 +3003,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 136947,
+      "num": 136947,
+      "word": "这么幸福的情侣照背后全是拌嘴",
+      "onboard_time": 1745809460,
+      "rank": 44,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 136801,
       "num": 136801,
       "word": "30岁后的我明白了为啥年轻要多旅行",
@@ -2937,6 +3065,14 @@
       "onboard_time": 1745743822,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 134725,
+      "num": 134725,
+      "word": "Daeny回应iG粉丝BP问题",
+      "onboard_time": 1745810060,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 134697,
@@ -3059,6 +3195,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 127906,
+      "num": 127906,
+      "word": "长大后才发现父母真的好厉害",
+      "onboard_time": 1745809821,
+      "rank": 46,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 127873,
       "num": 127873,
       "word": "全糖兑水 再来一杯",
@@ -3089,6 +3233,14 @@
       "onboard_time": 1745725161,
       "rank": 29,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 125418,
+      "num": 125418,
+      "word": "丁禹兮剧里剧外反差感",
+      "onboard_time": 1745810001,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 124714,
@@ -3203,6 +3355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116457,
+      "num": 116457,
+      "word": "国新办新闻发布会",
+      "onboard_time": 1745806881,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 116392,
       "num": 151532,
       "word": "被刘宇宁这首歌打动了",
@@ -3275,28 +3435,12 @@
       "category": "幽默,休闲"
     },
     {
-      "raw_hot": 112720,
-      "num": 319966,
-      "word": "麻醉医生谈肖飞事件",
-      "onboard_time": 1745805381,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 111997,
       "num": 310517,
       "word": "凯迪拉克为爱来电",
       "onboard_time": 1745751803,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 111553,
-      "num": 111553,
-      "word": "曹骏内娱纯阳之体",
-      "onboard_time": 1745806521,
-      "rank": 48,
-      "category": "剧集,艺人"
     },
     {
       "raw_hot": 111522,
@@ -3337,6 +3481,14 @@
       "onboard_time": 1745732122,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 108002,
+      "num": 373612,
+      "word": "利拉德受伤",
+      "onboard_time": 1745808020,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 107896,
@@ -3979,6 +4131,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 57881,
+      "num": 162041,
+      "word": "刮痧改善黑眼圈",
+      "onboard_time": 1745809040,
+      "rank": 38,
+      "category": "健康医疗,民生新闻"
+    },
+    {
       "raw_hot": 57813,
       "num": 62148,
       "word": "哪吒2华表奖特别贡献影片",
@@ -4184,6 +4344,14 @@
       "word": "男子开发AI面试作弊拿到亚马逊实习",
       "onboard_time": 1745738420,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42112,
+      "num": 405758,
+      "word": "30万保单无人通知漏缴1期被作废",
+      "onboard_time": 1745809520,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -4403,6 +4571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27845,
+      "num": 415589,
+      "word": "五一出游购物该如何巧妙避坑",
+      "onboard_time": 1745809282,
+      "rank": 18,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 27122,
       "num": 27122,
       "word": "王一博华表奖颁奖活动朗诵",
@@ -4457,6 +4633,14 @@
       "onboard_time": 1745805682,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 23791,
+      "num": 370412,
+      "word": "美专家分析为什么美方先眨眼",
+      "onboard_time": 1745809821,
+      "rank": 24,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 23761,

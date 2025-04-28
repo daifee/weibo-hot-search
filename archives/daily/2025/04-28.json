@@ -1,6 +1,6 @@
 {
   "startTime": 1745771302155,
-  "endTime": 1745806838445,
+  "endTime": 1745810111212,
   "band_list": [
     {
       "raw_hot": 5235330,
@@ -35,12 +35,36 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 945676,
+      "num": 1151308,
+      "word": "朝鲜证实出兵俄罗斯",
+      "onboard_time": 1745805982,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 795586,
+      "num": 795586,
+      "word": "只要保持一个月九点之前睡觉",
+      "onboard_time": 1745797400,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
       "raw_hot": 792319,
       "num": 602013,
       "word": "曹骏 没受过互联网毒害的美",
       "onboard_time": 1745768782,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 776002,
+      "num": 776002,
+      "word": "黄金",
+      "onboard_time": 1745804662,
+      "rank": 21,
+      "category": "财经"
     },
     {
       "raw_hot": 761108,
@@ -67,14 +91,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 689897,
-      "num": 689897,
-      "word": "只要保持一个月九点之前睡觉",
-      "onboard_time": 1745797400,
-      "rank": 3,
-      "category": "情感"
-    },
-    {
       "raw_hot": 671795,
       "num": 671795,
       "word": "因通缉照走红女子账号被封",
@@ -91,12 +107,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 606711,
+      "raw_hot": 653550,
       "num": 606711,
       "word": "中日友好医院医生回应被开除",
       "onboard_time": 1745803283,
       "rank": 5,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 605777,
+      "num": 605777,
+      "word": "三姐妹给父亲上坟被大伯炸死案二审",
+      "onboard_time": 1745808020,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 565801,
@@ -139,6 +163,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 504812,
+      "num": 504812,
+      "word": "Uzi宣布无限期停播",
+      "onboard_time": 1745806342,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 461871,
       "num": 461871,
       "word": "刘亦菲已拿下全部白玉兰前哨奖",
@@ -148,7 +180,7 @@
     },
     {
       "raw_hot": 454757,
-      "num": 454757,
+      "num": 454821,
       "word": "疑似石凯训粉",
       "onboard_time": 1745802861,
       "rank": 16,
@@ -161,6 +193,14 @@
       "onboard_time": 1745798782,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 444372,
+      "num": 444372,
+      "word": "樊振东王曼昱盛李豪受表彰",
+      "onboard_time": 1745808141,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 440166,
@@ -187,12 +227,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 400132,
+      "num": 400132,
+      "word": "多地无人配送车连发交通事故",
+      "onboard_time": 1745805982,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 396034,
-      "num": 396034,
+      "num": 421094,
       "word": "谢霆锋妹妹转发了王菲",
       "onboard_time": 1745801123,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 389003,
+      "num": 389003,
+      "word": "王者荣耀三丽鸥",
+      "onboard_time": 1745798782,
+      "rank": 19,
+      "category": "电竞,游戏"
     },
     {
       "raw_hot": 375738,
@@ -211,30 +267,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 345325,
-      "num": 345325,
-      "word": "多地无人配送车连发交通事故",
-      "onboard_time": 1745805982,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 336035,
-      "num": 336035,
-      "word": "王者荣耀三丽鸥",
-      "onboard_time": 1745798782,
-      "rank": 19,
-      "category": "电竞,游戏"
-    },
-    {
-      "raw_hot": 319615,
-      "num": 319615,
-      "word": "黄金",
-      "onboard_time": 1745804662,
-      "rank": 21,
-      "category": "财经"
-    },
-    {
       "raw_hot": 309034,
       "num": 309034,
       "word": "李兆基葬礼",
@@ -243,12 +275,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 280021,
+      "num": 423412,
+      "word": "徐冬冬的舒适体重是130斤以下",
+      "onboard_time": 1745808501,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 277572,
       "num": 162975,
       "word": "沈腾果然起早贪黑刷微博",
       "onboard_time": 1745765964,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 269283,
+      "num": 269283,
+      "word": "用人民币感受韩国工资水平",
+      "onboard_time": 1745808621,
+      "rank": 30,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 253550,
@@ -283,14 +331,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 241973,
-      "num": 241973,
-      "word": "朝鲜证实出兵俄罗斯",
-      "onboard_time": 1745805982,
-      "rank": 23,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 233586,
       "num": 166052,
       "word": "石凯避重就轻",
@@ -323,14 +363,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 219379,
-      "num": 219379,
-      "word": "Uzi宣布无限期停播",
-      "onboard_time": 1745806342,
-      "rank": 25,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 212003,
       "num": 200804,
       "word": "身高1米5体重1500斤两岁母牛的一天",
@@ -345,6 +377,14 @@
       "onboard_time": 1745765426,
       "rank": 20,
       "category": "电影"
+    },
+    {
+      "raw_hot": 208975,
+      "num": 282054,
+      "word": "钟丽丽也知道自己演的白蛇很迷人吧",
+      "onboard_time": 1745809520,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 208860,
@@ -369,6 +409,14 @@
       "onboard_time": 1745760263,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 197137,
+      "num": 271087,
+      "word": "落花时节又逢君",
+      "onboard_time": 1745807841,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 190030,
@@ -419,6 +467,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 182486,
+      "num": 319966,
+      "word": "麻醉医生谈肖飞事件",
+      "onboard_time": 1745805381,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 179211,
+      "num": 179211,
+      "word": "养了六年的兔子给我做了个窝",
+      "onboard_time": 1745808681,
+      "rank": 34,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 174149,
       "num": 116144,
       "word": "第20届华表奖获奖名单",
@@ -433,6 +497,22 @@
       "onboard_time": 1745797340,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171075,
+      "num": 171075,
+      "word": "我国将出台稳就业稳经济若干举措",
+      "onboard_time": 1745809161,
+      "rank": 35,
+      "category": "国内时政,民生新闻"
+    },
+    {
+      "raw_hot": 170982,
+      "num": 170982,
+      "word": "还以为电量焦虑是件很小众的事",
+      "onboard_time": 1745808981,
+      "rank": 36,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 169187,
@@ -459,6 +539,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 164493,
+      "num": 164493,
+      "word": "利拉德恐遭遇跟腱撕裂",
+      "onboard_time": 1745809282,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 161427,
+      "num": 161427,
+      "word": "2426人受到表彰",
+      "onboard_time": 1745806942,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157440,
       "num": 157440,
       "word": "女子丢蛋糕后报警谎称抹了老鼠药",
@@ -483,6 +579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154206,
+      "num": 154206,
+      "word": "泡泡玛特涨超8%",
+      "onboard_time": 1745809821,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 150063,
       "num": 150063,
       "word": "中日友好医院肖飞",
@@ -497,6 +601,14 @@
       "onboard_time": 1745749880,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149622,
+      "num": 149622,
+      "word": "曹骏内娱纯阳之体",
+      "onboard_time": 1745806521,
+      "rank": 48,
+      "category": "剧集,艺人"
     },
     {
       "raw_hot": 149122,
@@ -523,6 +635,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 143503,
+      "num": 143503,
+      "word": "牛奶可以用来煮彩妆",
+      "onboard_time": 1745808981,
+      "rank": 42,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 143377,
       "num": 152744,
       "word": "谢娜凌晨为何炅庆生",
@@ -531,12 +651,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136947,
+      "num": 136947,
+      "word": "这么幸福的情侣照背后全是拌嘴",
+      "onboard_time": 1745809460,
+      "rank": 44,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 134725,
+      "num": 134725,
+      "word": "Daeny回应iG粉丝BP问题",
+      "onboard_time": 1745810060,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 130388,
       "num": 115310,
       "word": "冠军驾到王楚钦孙颖莎",
       "onboard_time": 1745757863,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127906,
+      "num": 127906,
+      "word": "长大后才发现父母真的好厉害",
+      "onboard_time": 1745809821,
+      "rank": 46,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 127873,
@@ -561,6 +705,14 @@
       "onboard_time": 1745763683,
       "rank": 17,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 125418,
+      "num": 125418,
+      "word": "丁禹兮剧里剧外反差感",
+      "onboard_time": 1745810001,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 124029,
@@ -619,6 +771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116457,
+      "num": 116457,
+      "word": "国新办新闻发布会",
+      "onboard_time": 1745806881,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 113490,
       "num": 113490,
       "word": "李现回应获2025导演大会年度男主角",
@@ -635,22 +795,6 @@
       "category": "幽默,休闲"
     },
     {
-      "raw_hot": 112720,
-      "num": 319966,
-      "word": "麻醉医生谈肖飞事件",
-      "onboard_time": 1745805381,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 111553,
-      "num": 111553,
-      "word": "曹骏内娱纯阳之体",
-      "onboard_time": 1745806521,
-      "rank": 48,
-      "category": "剧集,艺人"
-    },
-    {
       "raw_hot": 111522,
       "num": 111522,
       "word": "利物浦vs热刺",
@@ -665,6 +809,14 @@
       "onboard_time": 1745799502,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108002,
+      "num": 373612,
+      "word": "利拉德受伤",
+      "onboard_time": 1745808020,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 107896,
@@ -924,11 +1076,19 @@
     },
     {
       "raw_hot": 61194,
-      "num": 690554,
+      "num": 783374,
       "word": "中国制造成为全球客商最佳选择",
       "onboard_time": 1745760682,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 57881,
+      "num": 162041,
+      "word": "刮痧改善黑眼圈",
+      "onboard_time": 1745809040,
+      "rank": 38,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 57813,
@@ -987,6 +1147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 42112,
+      "num": 405758,
+      "word": "30万保单无人通知漏缴1期被作废",
+      "onboard_time": 1745809520,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41817,
       "num": 61160,
       "word": "官方回应伊朗港口爆炸事件",
@@ -1043,6 +1211,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 27845,
+      "num": 415589,
+      "word": "五一出游购物该如何巧妙避坑",
+      "onboard_time": 1745809282,
+      "rank": 18,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 27122,
       "num": 27122,
       "word": "王一博华表奖颁奖活动朗诵",
@@ -1065,6 +1241,14 @@
       "onboard_time": 1745805682,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 23791,
+      "num": 370412,
+      "word": "美专家分析为什么美方先眨眼",
+      "onboard_time": 1745809821,
+      "rank": 24,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 22706,
