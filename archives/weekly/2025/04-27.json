@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1745850606484,
+  "endTime": 1745851632761,
   "band_list": [
     {
       "raw_hot": 8960529,
@@ -267,6 +267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1238132,
+      "num": 1238132,
+      "word": "为什么小时候常有的停电好像消失了",
+      "onboard_time": 1745847141,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1230357,
       "num": 1230357,
       "word": "厚底鞋",
@@ -288,6 +296,14 @@
       "word": "丁禹兮 舒心",
       "onboard_time": 1745678065,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1167555,
+      "num": 1167555,
+      "word": "刘美含致歉",
+      "onboard_time": 1745850803,
+      "rank": 1,
       "category": "艺人"
     },
     {
@@ -339,6 +355,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1072652,
+      "num": 1072652,
+      "word": "刘诗诗回复虞书欣",
+      "onboard_time": 1745844803,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1065317,
       "num": 1115307,
       "word": "唐艺昕否认改名字是为了张若昀",
@@ -361,14 +385,6 @@
       "onboard_time": 1745805982,
       "rank": 23,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1044434,
-      "num": 1167109,
-      "word": "为什么小时候常有的停电好像消失了",
-      "onboard_time": 1745847141,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1039241,
@@ -433,14 +449,6 @@
       "onboard_time": 1745723001,
       "rank": 1,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 961275,
-      "num": 556085,
-      "word": "刘诗诗回复虞书欣",
-      "onboard_time": 1745844803,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 922075,
@@ -801,6 +809,14 @@
       "onboard_time": 1745808141,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 627354,
+      "num": 339608,
+      "word": "上海月薪两万七一天要花多少钱",
+      "onboard_time": 1745848222,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 615662,
@@ -1435,12 +1451,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 396232,
+      "num": 396232,
+      "word": "医师出轨暴露违规问题更需关注",
+      "onboard_time": 1745850142,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 396034,
       "num": 421094,
       "word": "谢霆锋妹妹转发了王菲",
       "onboard_time": 1745801123,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 395680,
+      "num": 384312,
+      "word": "孙俪说姐弟恋把我们这戏说俗气了",
+      "onboard_time": 1745841080,
+      "rank": 21,
+      "category": "艺人,剧集"
     },
     {
       "raw_hot": 392118,
@@ -1473,14 +1505,6 @@
       "onboard_time": 1745720182,
       "rank": 27,
       "category": "艺人,电竞"
-    },
-    {
-      "raw_hot": 384312,
-      "num": 384312,
-      "word": "孙俪说姐弟恋把我们这戏说俗气了",
-      "onboard_time": 1745841080,
-      "rank": 21,
-      "category": "艺人,剧集"
     },
     {
       "raw_hot": 381998,
@@ -2019,14 +2043,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 266010,
-      "num": 266010,
-      "word": "上海月薪两万七一天要花多少钱",
-      "onboard_time": 1745848222,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 265304,
       "num": 265304,
       "word": "李沐宸迟到被换角",
@@ -2161,6 +2177,14 @@
       "onboard_time": 1745720781,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 249896,
+      "num": 249896,
+      "word": "保时捷CEO谈小米SU7Ultra",
+      "onboard_time": 1745850142,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 249369,
@@ -2353,6 +2377,14 @@
       "onboard_time": 1745738003,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 229023,
+      "num": 229023,
+      "word": "孟子义在飞机上直播",
+      "onboard_time": 1745850023,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 227983,
@@ -2705,6 +2737,14 @@
       "onboard_time": 1745809161,
       "rank": 35,
       "category": "国内时政,民生新闻"
+    },
+    {
+      "raw_hot": 202698,
+      "num": 202698,
+      "word": "黄子弘凡叫自己子弘凡了",
+      "onboard_time": 1745850803,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 201503,
@@ -3171,14 +3211,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 185283,
-      "num": 185283,
-      "word": "孟子义在飞机上直播",
-      "onboard_time": 1745850023,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 185250,
       "num": 185250,
       "word": "光与夜之恋",
@@ -3217,6 +3249,14 @@
       "onboard_time": 1745822123,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183727,
+      "num": 183727,
+      "word": "动画还原三姐妹上坟被大伯炸死案",
+      "onboard_time": 1745851403,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 183473,
@@ -3321,6 +3361,14 @@
       "onboard_time": 1745763982,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 173891,
+      "num": 411640,
+      "word": "今年首个蛇年蛇月蛇日蛇时",
+      "onboard_time": 1745849003,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 173849,
@@ -3499,20 +3547,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 164846,
-      "num": 164846,
-      "word": "保时捷CEO谈小米SU7Ultra",
-      "onboard_time": 1745850142,
-      "rank": 29,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 164493,
       "num": 164493,
       "word": "利拉德恐遭遇跟腱撕裂",
       "onboard_time": 1745809282,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164098,
+      "num": 164098,
+      "word": "瑞幸回应4部手机点出3种价格",
+      "onboard_time": 1745851163,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 164084,
@@ -3528,6 +3576,14 @@
       "word": "樊振东超级全满贯的影响力",
       "onboard_time": 1745843362,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 163922,
+      "num": 163922,
+      "word": "李晓霞晒与樊振东合影",
+      "onboard_time": 1745850383,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -3593,6 +3649,14 @@
       "onboard_time": 1745745083,
       "rank": 44,
       "category": "数码"
+    },
+    {
+      "raw_hot": 161518,
+      "num": 161518,
+      "word": "广厦男篮战胜辽宁男篮",
+      "onboard_time": 1745850383,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 161427,
@@ -3721,14 +3785,6 @@
       "onboard_time": 1745734881,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 158649,
-      "num": 411640,
-      "word": "今年首个蛇年蛇月蛇日蛇时",
-      "onboard_time": 1745849003,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 158575,
@@ -3875,6 +3931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 153489,
+      "num": 153489,
+      "word": "加拿大总理称美利坚合众国名存实亡",
+      "onboard_time": 1745850686,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 153088,
       "num": 153088,
       "word": "京东加大骑手招聘力度",
@@ -3971,6 +4035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150658,
+      "num": 150658,
+      "word": "RW晋级败者组第三轮",
+      "onboard_time": 1745850744,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 150615,
       "num": 150615,
       "word": "范丞丞喊你来青岛哈啤酒吃蛤蜊",
@@ -4001,14 +4073,6 @@
       "onboard_time": 1745734103,
       "rank": 41,
       "category": "电影,体育"
-    },
-    {
-      "raw_hot": 149437,
-      "num": 149437,
-      "word": "广厦男篮战胜辽宁男篮",
-      "onboard_time": 1745850383,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 149284,
@@ -4057,6 +4121,14 @@
       "onboard_time": 1745810121,
       "rank": 44,
       "category": "美妆,时尚"
+    },
+    {
+      "raw_hot": 147620,
+      "num": 147620,
+      "word": "张柏芝说没时间恋爱脑",
+      "onboard_time": 1745849842,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 146705,
@@ -4147,14 +4219,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 144765,
-      "num": 144765,
-      "word": "李晓霞晒与樊振东合影",
-      "onboard_time": 1745850383,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 144678,
       "num": 144678,
       "word": "Scout冰女五杀",
@@ -4180,7 +4244,7 @@
     },
     {
       "raw_hot": 144338,
-      "num": 144338,
+      "num": 201733,
       "word": "女子寻亲18年与儿团聚5个月后去世",
       "onboard_time": 1745843782,
       "rank": 32,
@@ -4209,14 +4273,6 @@
       "onboard_time": 1745737822,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 143801,
-      "num": 143801,
-      "word": "医师出轨暴露违规问题更需关注",
-      "onboard_time": 1745850142,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 143772,
@@ -4296,6 +4352,14 @@
       "word": "五一假期会很热",
       "onboard_time": 1745734941,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142027,
+      "num": 142027,
+      "word": "酒店机器人3年亏了8个亿",
+      "onboard_time": 1745851345,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -4459,6 +4523,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 136627,
+      "num": 136627,
+      "word": "这个浙江小城太适合五一反向游",
+      "onboard_time": 1745851163,
+      "rank": 47,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 136613,
       "num": 209964,
       "word": "补充维生素D能缓解焦虑情绪",
@@ -4561,14 +4633,6 @@
       "onboard_time": 1745849484,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 133331,
-      "num": 133331,
-      "word": "张柏芝说没时间恋爱脑",
-      "onboard_time": 1745849842,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 133120,
@@ -4681,6 +4745,14 @@
       "onboard_time": 1745756061,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130242,
+      "num": 130242,
+      "word": "朱一龙黑粉写致歉信",
+      "onboard_time": 1745851583,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129540,
@@ -5113,6 +5185,14 @@
       "onboard_time": 1745805140,
       "rank": 38,
       "category": "幽默,休闲"
+    },
+    {
+      "raw_hot": 112302,
+      "num": 360168,
+      "word": "北大回应网红汤匙被录取",
+      "onboard_time": 1745850621,
+      "rank": 9,
+      "category": "网红"
     },
     {
       "raw_hot": 111997,
@@ -5980,7 +6060,7 @@
     },
     {
       "raw_hot": 80593,
-      "num": 975418,
+      "num": 1074312,
       "word": "游在中国热度不减购在中国蔚然成风",
       "onboard_time": 1745846002,
       "rank": 2,
@@ -6185,6 +6265,14 @@
       "onboard_time": 1745819601,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 70977,
+      "num": 249581,
+      "word": "教育局介入女生被老师掌掴致严重抑郁",
+      "onboard_time": 1745851163,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70949,
@@ -7043,6 +7131,14 @@
       "category": "电影,时尚"
     },
     {
+      "raw_hot": 24031,
+      "num": 268388,
+      "word": "老人相信手机号能改命被骗数万元",
+      "onboard_time": 1745849903,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24001,
       "num": 225963,
       "word": "国羽群像感谢现役",
@@ -7307,14 +7403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 15394,
-      "num": 268388,
-      "word": "老人相信手机号能改命被骗数万元",
-      "onboard_time": 1745849903,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 15326,
       "num": 72238,
       "word": "推动人工智能健康有序发展",
@@ -7465,6 +7553,14 @@
       "onboard_time": 1745742743,
       "rank": 38,
       "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 7690,
+      "num": 159926,
+      "word": "攀岩的好处你知道哪些",
+      "onboard_time": 1745851283,
+      "rank": 39,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 7630,
