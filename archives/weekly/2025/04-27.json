@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1745875334086,
+  "endTime": 1745876285533,
   "band_list": [
     {
       "raw_hot": 8960529,
@@ -7371,6 +7371,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 26041,
+      "num": 26041,
+      "word": "比起亲吻更喜欢紧紧相拥",
+      "onboard_time": 1745871374,
+      "rank": 39,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 25947,
       "num": 178982,
       "word": "美国做次腹部CT要9000美元",
@@ -7507,6 +7515,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 21757,
+      "num": 21757,
+      "word": "家属回应女子与走失儿子团聚后去世",
+      "onboard_time": 1745868855,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21677,
       "num": 23730,
       "word": "徐明浩 表现力",
@@ -7523,20 +7539,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21131,
+      "num": 21131,
+      "word": "普京感谢协助俄军朝鲜军人",
+      "onboard_time": 1745871674,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 21071,
       "num": 25273,
       "word": "周深未见其人先闻其声",
       "onboard_time": 1745778554,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 20829,
-      "num": 20829,
-      "word": "比起亲吻更喜欢紧紧相拥",
-      "onboard_time": 1745871374,
-      "rank": 39,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 20735,
@@ -7585,14 +7601,6 @@
       "onboard_time": 1745863994,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 19409,
-      "num": 19409,
-      "word": "家属回应女子与走失儿子团聚后去世",
-      "onboard_time": 1745868855,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 19286,
@@ -7680,14 +7688,6 @@
       "word": "伊朗港口爆炸死亡人数升至40人",
       "onboard_time": 1745796439,
       "rank": 13,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 17653,
-      "num": 17653,
-      "word": "普京感谢协助俄军朝鲜军人",
-      "onboard_time": 1745871674,
-      "rank": 45,
       "category": "国际时政"
     },
     {
@@ -7923,6 +7923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 12139,
+      "num": 15741,
+      "word": "杨紫说粉丝知道行程比自己快",
+      "onboard_time": 1745875994,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 12094,
       "num": 36003,
       "word": "神十九神二十乘组交接",
@@ -7961,6 +7969,14 @@
       "onboard_time": 1745780894,
       "rank": 9,
       "category": "国内时政,民生新闻"
+    },
+    {
+      "raw_hot": 11652,
+      "num": 15723,
+      "word": "梁田笑声有多大心里就有多难受",
+      "onboard_time": 1745876174,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 11289,
