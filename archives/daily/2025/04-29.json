@@ -1,6 +1,6 @@
 {
   "startTime": 1745857837371,
-  "endTime": 1745876285533,
+  "endTime": 1745879072635,
   "band_list": [
     {
       "raw_hot": 1246935,
@@ -171,20 +171,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119151,
+      "num": 119151,
+      "word": "今年首个蛇年蛇月蛇日蛇时",
+      "onboard_time": 1745849003,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101995,
       "num": 101995,
       "word": "孙俪说姐弟恋把我们这戏说俗气了",
       "onboard_time": 1745841080,
       "rank": 23,
       "category": "艺人,剧集"
-    },
-    {
-      "raw_hot": 101751,
-      "num": 101751,
-      "word": "今年首个蛇年蛇月蛇日蛇时",
-      "onboard_time": 1745849003,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 101427,
@@ -243,6 +243,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 83886,
+      "num": 83886,
+      "word": "西班牙葡萄牙大范围停电",
+      "onboard_time": 1745845162,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 79764,
       "num": 79764,
       "word": "萧亚轩五次手术后首公开露面",
@@ -273,14 +281,6 @@
       "onboard_time": 1745849122,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 75266,
-      "num": 75266,
-      "word": "西班牙葡萄牙大范围停电",
-      "onboard_time": 1745845162,
-      "rank": 36,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 75240,
@@ -379,6 +379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 55394,
+      "num": 55394,
+      "word": "家属回应女子与走失儿子团聚后去世",
+      "onboard_time": 1745868855,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55057,
       "num": 57302,
       "word": "贾静雯女儿钟丽缇女儿同框",
@@ -443,6 +451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36246,
+      "num": 36966,
+      "word": "美国建国250周年可能无烟花可放",
+      "onboard_time": 1745860877,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 35422,
       "num": 35422,
       "word": "种地吧",
@@ -459,6 +475,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 32942,
+      "num": 32942,
+      "word": "比起亲吻更喜欢紧紧相拥",
+      "onboard_time": 1745871374,
+      "rank": 39,
+      "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 32894,
+      "num": 32894,
+      "word": "谢娜回老家和家人一起逛夜市",
+      "onboard_time": 1745875514,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 31514,
       "num": 57286,
       "word": "李晓霞晒与樊振东合影",
@@ -467,12 +499,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 30953,
-      "num": 36966,
-      "word": "美国建国250周年可能无烟花可放",
-      "onboard_time": 1745860877,
-      "rank": 47,
+      "raw_hot": 29352,
+      "num": 29352,
+      "word": "普京感谢协助俄军朝鲜军人",
+      "onboard_time": 1745871674,
+      "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 27970,
+      "num": 27970,
+      "word": "梁田笑声有多大心里就有多难受",
+      "onboard_time": 1745876174,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 27950,
@@ -499,20 +539,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 26041,
-      "num": 26041,
-      "word": "比起亲吻更喜欢紧紧相拥",
-      "onboard_time": 1745871374,
-      "rank": 39,
-      "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 21757,
-      "num": 21757,
-      "word": "家属回应女子与走失儿子团聚后去世",
-      "onboard_time": 1745868855,
-      "rank": 48,
-      "category": "民生新闻"
+      "raw_hot": 25630,
+      "num": 26277,
+      "word": "杨紫说粉丝知道行程比自己快",
+      "onboard_time": 1745875994,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 21677,
@@ -523,11 +555,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 21131,
-      "num": 21131,
-      "word": "普京感谢协助俄军朝鲜军人",
-      "onboard_time": 1745871674,
-      "rank": 45,
+      "raw_hot": 21432,
+      "num": 37903,
+      "word": "美媒画图说明美家庭离不开中国制造",
+      "onboard_time": 1745865794,
+      "rank": 17,
       "category": "国际时政"
     },
     {
@@ -553,6 +585,14 @@
       "onboard_time": 1745860697,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 17898,
+      "num": 26270,
+      "word": "马龙不喜欢看自己比赛回放",
+      "onboard_time": 1745861596,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 17323,
@@ -587,6 +627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16310,
+      "num": 26265,
+      "word": "整个地铁都被谢霆锋包围了",
+      "onboard_time": 1745878996,
+      "rank": 49,
+      "category": "演出,休闲"
+    },
+    {
       "raw_hot": 16307,
       "num": 17204,
       "word": "严浩翔想加冕制作人",
@@ -595,28 +643,20 @@
       "category": "音乐,艺人"
     },
     {
+      "raw_hot": 16283,
+      "num": 183954,
+      "word": "稳就业稳经济5方面若干举措",
+      "onboard_time": 1745845342,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16034,
       "num": 25175,
       "word": "2025年韩国福布斯名人榜",
       "onboard_time": 1745865434,
       "rank": 46,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 15977,
-      "num": 37903,
-      "word": "美媒画图说明美家庭离不开中国制造",
-      "onboard_time": 1745865794,
-      "rank": 17,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 15880,
-      "num": 25173,
-      "word": "马龙不喜欢看自己比赛回放",
-      "onboard_time": 1745861596,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 15815,
@@ -659,14 +699,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 12953,
-      "num": 183954,
-      "word": "稳就业稳经济5方面若干举措",
-      "onboard_time": 1745845342,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 12552,
       "num": 13672,
       "word": "青铜器记录了古代曾有三不像动物",
@@ -683,28 +715,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 12139,
-      "num": 15741,
-      "word": "杨紫说粉丝知道行程比自己快",
-      "onboard_time": 1745875994,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 11959,
       "num": 74912,
       "word": "法国人为什么期待5月",
       "onboard_time": 1745857279,
       "rank": 39,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 11652,
-      "num": 15723,
-      "word": "梁田笑声有多大心里就有多难受",
-      "onboard_time": 1745876174,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 10132,

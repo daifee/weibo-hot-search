@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1745876285533,
+  "endTime": 1745879072635,
   "band_list": [
     {
       "raw_hot": 8960529,
@@ -6651,6 +6651,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 55394,
+      "num": 55394,
+      "word": "家属回应女子与走失儿子团聚后去世",
+      "onboard_time": 1745868855,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55222,
       "num": 274332,
       "word": "辞职去留学真的能重启人生吗",
@@ -7091,6 +7099,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 36246,
+      "num": 36966,
+      "word": "美国建国250周年可能无烟花可放",
+      "onboard_time": 1745860877,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 35757,
       "num": 183325,
       "word": "詹姆斯对球手一体判罚不满有何争议",
@@ -7195,6 +7211,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32942,
+      "num": 32942,
+      "word": "比起亲吻更喜欢紧紧相拥",
+      "onboard_time": 1745871374,
+      "rank": 39,
+      "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 32894,
+      "num": 32894,
+      "word": "谢娜回老家和家人一起逛夜市",
+      "onboard_time": 1745875514,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 32245,
       "num": 188815,
       "word": "医院抽血找静脉神器",
@@ -7217,14 +7249,6 @@
       "onboard_time": 1745752701,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 30953,
-      "num": 36966,
-      "word": "美国建国250周年可能无烟花可放",
-      "onboard_time": 1745860877,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 30644,
@@ -7256,6 +7280,14 @@
       "word": "伊朗官员称港口爆炸是由于疏忽",
       "onboard_time": 1745852124,
       "rank": 34,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 29352,
+      "num": 29352,
+      "word": "普京感谢协助俄军朝鲜军人",
+      "onboard_time": 1745871674,
+      "rank": 45,
       "category": "国际时政"
     },
     {
@@ -7297,6 +7329,14 @@
       "onboard_time": 1745728162,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27970,
+      "num": 27970,
+      "word": "梁田笑声有多大心里就有多难受",
+      "onboard_time": 1745876174,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 27950,
@@ -7371,14 +7411,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 26041,
-      "num": 26041,
-      "word": "比起亲吻更喜欢紧紧相拥",
-      "onboard_time": 1745871374,
-      "rank": 39,
-      "category": "情感,休闲"
-    },
-    {
       "raw_hot": 25947,
       "num": 178982,
       "word": "美国做次腹部CT要9000美元",
@@ -7393,6 +7425,14 @@
       "onboard_time": 1745691076,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 25630,
+      "num": 26277,
+      "word": "杨紫说粉丝知道行程比自己快",
+      "onboard_time": 1745875994,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 25480,
@@ -7515,14 +7555,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 21757,
-      "num": 21757,
-      "word": "家属回应女子与走失儿子团聚后去世",
-      "onboard_time": 1745868855,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 21677,
       "num": 23730,
       "word": "徐明浩 表现力",
@@ -7531,20 +7563,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 21432,
+      "num": 37903,
+      "word": "美媒画图说明美家庭离不开中国制造",
+      "onboard_time": 1745865794,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 21156,
       "num": 39097,
       "word": "太原溺水美人鱼仍在ICU观察",
       "onboard_time": 1745700493,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21131,
-      "num": 21131,
-      "word": "普京感谢协助俄军朝鲜军人",
-      "onboard_time": 1745871674,
-      "rank": 45,
-      "category": "国际时政"
     },
     {
       "raw_hot": 21071,
@@ -7675,6 +7707,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 17898,
+      "num": 26270,
+      "word": "马龙不喜欢看自己比赛回放",
+      "onboard_time": 1745861596,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 17718,
       "num": 191350,
       "word": "惠英红获奖对香港电影有何影响",
@@ -7747,12 +7787,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16310,
+      "num": 26265,
+      "word": "整个地铁都被谢霆锋包围了",
+      "onboard_time": 1745878996,
+      "rank": 49,
+      "category": "演出,休闲"
+    },
+    {
       "raw_hot": 16307,
       "num": 17204,
       "word": "严浩翔想加冕制作人",
       "onboard_time": 1745874493,
       "rank": 28,
       "category": "音乐,艺人"
+    },
+    {
+      "raw_hot": 16283,
+      "num": 183954,
+      "word": "稳就业稳经济5方面若干举措",
+      "onboard_time": 1745845342,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16085,
@@ -7771,28 +7827,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 15977,
-      "num": 37903,
-      "word": "美媒画图说明美家庭离不开中国制造",
-      "onboard_time": 1745865794,
-      "rank": 17,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 15921,
       "num": 348907,
       "word": "张译为何在巅峰期选择息影",
       "onboard_time": 1745814083,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 15880,
-      "num": 25173,
-      "word": "马龙不喜欢看自己比赛回放",
-      "onboard_time": 1745861596,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 15815,
@@ -7899,14 +7939,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 12953,
-      "num": 183954,
-      "word": "稳就业稳经济5方面若干举措",
-      "onboard_time": 1745845342,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 12807,
       "num": 15965,
       "word": "100块在8点后的北京有多值钱",
@@ -7921,14 +7953,6 @@
       "onboard_time": 1745870353,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 12139,
-      "num": 15741,
-      "word": "杨紫说粉丝知道行程比自己快",
-      "onboard_time": 1745875994,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 12094,
@@ -7969,14 +7993,6 @@
       "onboard_time": 1745780894,
       "rank": 9,
       "category": "国内时政,民生新闻"
-    },
-    {
-      "raw_hot": 11652,
-      "num": 15723,
-      "word": "梁田笑声有多大心里就有多难受",
-      "onboard_time": 1745876174,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 11289,
