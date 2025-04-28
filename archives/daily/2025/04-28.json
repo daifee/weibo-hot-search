@@ -1,6 +1,6 @@
 {
   "startTime": 1745771302155,
-  "endTime": 1745835815288,
+  "endTime": 1745838621149,
   "band_list": [
     {
       "raw_hot": 5235330,
@@ -59,6 +59,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1403536,
+      "num": 1403536,
+      "word": "朝鲜",
+      "onboard_time": 1745836041,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1400427,
       "num": 1400427,
       "word": "甘肃地震",
@@ -105,6 +113,14 @@
       "onboard_time": 1745808020,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1102853,
+      "num": 1102853,
+      "word": "半个娱乐圈都在追无尽的尽头",
+      "onboard_time": 1745835562,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 1065317,
@@ -185,6 +201,14 @@
       "onboard_time": 1745804662,
       "rank": 21,
       "category": "财经"
+    },
+    {
+      "raw_hot": 773689,
+      "num": 773689,
+      "word": "萧亚轩五次手术后首公开露面",
+      "onboard_time": 1745833341,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 761108,
@@ -299,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 614895,
+      "num": 352144,
+      "word": "虞书欣东方淮竹发家史cos",
+      "onboard_time": 1745836101,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 603841,
       "num": 303931,
       "word": "刘诗诗新剧首播口碑",
@@ -411,6 +443,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 482602,
+      "num": 482602,
+      "word": "辛拉面",
+      "onboard_time": 1745836581,
+      "rank": 4,
+      "category": "美食"
+    },
+    {
       "raw_hot": 476687,
       "num": 295378,
       "word": "丁禹兮孟子义淮水竹亭感情戏",
@@ -457,14 +497,6 @@
       "onboard_time": 1745798782,
       "rank": 8,
       "category": "演出"
-    },
-    {
-      "raw_hot": 443319,
-      "num": 396646,
-      "word": "萧亚轩五次手术后首公开露面",
-      "onboard_time": 1745833341,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 440612,
@@ -555,6 +587,14 @@
       "category": "美食,艺人"
     },
     {
+      "raw_hot": 367163,
+      "num": 367163,
+      "word": "特朗普回应爱泼斯坦案关键证人自杀",
+      "onboard_time": 1745835320,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 366243,
       "num": 166441,
       "word": "酒肉情侣",
@@ -603,6 +643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 333316,
+      "num": 333316,
+      "word": "45岁快递员五险一金缴费基数8045",
+      "onboard_time": 1745835562,
+      "rank": 21,
+      "category": "互联网,民生新闻"
+    },
+    {
       "raw_hot": 310713,
       "num": 310713,
       "word": "协和的4加4确实难以理解",
@@ -627,12 +675,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 301685,
+      "num": 301685,
+      "word": "十个勤天演唱会",
+      "onboard_time": 1745837481,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
       "raw_hot": 297630,
       "num": 297630,
       "word": "王源谈爱犬走丢泪目",
       "onboard_time": 1745826503,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 296247,
+      "num": 296247,
+      "word": "惠英红 金像金马华表100%得奖率",
+      "onboard_time": 1745836282,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 289804,
@@ -747,6 +811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 235809,
+      "num": 235809,
+      "word": "代号鸢",
+      "onboard_time": 1745836402,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 233586,
       "num": 166052,
       "word": "石凯避重就轻",
@@ -843,14 +915,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 210044,
-      "num": 198524,
-      "word": "45岁快递员五险一金缴费基数8045",
-      "onboard_time": 1745835562,
-      "rank": 21,
-      "category": "互联网,民生新闻"
-    },
-    {
       "raw_hot": 209907,
       "num": 209907,
       "word": "高叶陈妍希万鹏新剧演闺蜜",
@@ -889,6 +953,22 @@
       "onboard_time": 1745766022,
       "rank": 21,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 205757,
+      "num": 164909,
+      "word": "蒋一侨长发",
+      "onboard_time": 1745837903,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 204664,
+      "num": 157643,
+      "word": "上班后才懂李慧珍",
+      "onboard_time": 1745837601,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 203485,
@@ -960,6 +1040,14 @@
       "word": "淮水竹亭今天开播",
       "onboard_time": 1745810422,
       "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 190465,
+      "num": 152743,
+      "word": "虞书欣抽象剧宣又更新了",
+      "onboard_time": 1745835922,
+      "rank": 23,
       "category": "剧集"
     },
     {
@@ -1105,6 +1193,14 @@
       "onboard_time": 1745825182,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 182255,
+      "num": 182255,
+      "word": "外交部回应朝鲜证实向俄派兵参战",
+      "onboard_time": 1745837122,
+      "rank": 16,
+      "category": "国际时政"
     },
     {
       "raw_hot": 174149,
@@ -1363,6 +1459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151934,
+      "num": 265649,
+      "word": "女子曝日本酒店发现陌生男子藏床底",
+      "onboard_time": 1745834181,
+      "rank": 13,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 150063,
       "num": 150063,
       "word": "中日友好医院肖飞",
@@ -1483,6 +1587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143749,
+      "num": 143749,
+      "word": "商品房70年产权期满到底归谁",
+      "onboard_time": 1745836822,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143559,
       "num": 143559,
       "word": "让宋佳接不住戏的人出现了",
@@ -1512,6 +1624,14 @@
       "word": "又看到熹妃杀回宫的眼神了",
       "onboard_time": 1745827283,
       "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 142591,
+      "num": 142591,
+      "word": "刘学义敖瑞鹏四年前状态",
+      "onboard_time": 1745837903,
+      "rank": 33,
       "category": "剧集"
     },
     {
@@ -1561,6 +1681,14 @@
       "onboard_time": 1745816602,
       "rank": 42,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 134029,
+      "num": 134029,
+      "word": "网友称疑在成都地铁遭人偷拍",
+      "onboard_time": 1745834301,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131151,
@@ -1667,6 +1795,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 126274,
+      "num": 126274,
+      "word": "星野源上海",
+      "onboard_time": 1745837661,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 126215,
       "num": 126215,
       "word": "4加4",
@@ -1697,6 +1833,14 @@
       "onboard_time": 1745806462,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 122599,
+      "num": 122599,
+      "word": "无尽的尽头",
+      "onboard_time": 1745836881,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 122055,
@@ -1785,14 +1929,6 @@
       "onboard_time": 1745825543,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 115353,
-      "num": 115353,
-      "word": "网友称疑在成都地铁遭人偷拍",
-      "onboard_time": 1745834301,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 113490,
@@ -1899,6 +2035,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 106676,
+      "num": 106676,
+      "word": "曹颖想重回36岁陪儿子成长",
+      "onboard_time": 1745838081,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 106622,
       "num": 106622,
       "word": "中日友好医院肖某已停职",
@@ -1937,6 +2081,14 @@
       "onboard_time": 1745823142,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103530,
+      "num": 103530,
+      "word": "陈雨菲2比0卢善恩",
+      "onboard_time": 1745838442,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 102352,
@@ -2003,20 +2155,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 99595,
-      "num": 99595,
-      "word": "半个娱乐圈都在追无尽的尽头",
-      "onboard_time": 1745835562,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 99471,
       "num": 99471,
       "word": "马龙回应里约奥运会换球衣翻盘",
       "onboard_time": 1745805321,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96915,
+      "num": 96915,
+      "word": "赛力斯向港交所提交IPO申请",
+      "onboard_time": 1745838442,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 96490,
@@ -2107,14 +2259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 93797,
-      "num": 265649,
-      "word": "女子曝日本酒店发现陌生男子藏床底",
-      "onboard_time": 1745834181,
-      "rank": 13,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 91736,
       "num": 91736,
       "word": "胡意旋红茶花妖红凝",
@@ -2156,7 +2300,7 @@
     },
     {
       "raw_hot": 87514,
-      "num": 87514,
+      "num": 146169,
       "word": "特朗普又把锅甩给奥巴马和拜登",
       "onboard_time": 1745835741,
       "rank": 48,
@@ -2315,14 +2459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 72790,
-      "num": 244093,
-      "word": "特朗普回应爱泼斯坦案关键证人自杀",
-      "onboard_time": 1745835320,
-      "rank": 14,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 72689,
       "num": 190054,
       "word": "武艺 我也在等五一",
@@ -2376,6 +2512,14 @@
       "word": "广东外贸老板说被关税战敲醒了",
       "onboard_time": 1745785753,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 67363,
+      "num": 171316,
+      "word": "男子申请改48字姓名警方称难过审",
+      "onboard_time": 1745837842,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -2571,6 +2715,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 42598,
+      "num": 142902,
+      "word": "伊朗港口爆炸已致40死1000余人受伤",
+      "onboard_time": 1745836522,
+      "rank": 32,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 42172,
       "num": 118017,
       "word": "饭后刮油操",
@@ -2668,7 +2820,7 @@
     },
     {
       "raw_hot": 33849,
-      "num": 754923,
+      "num": 848870,
       "word": "2426名全国劳模和先进工作者受表彰",
       "onboard_time": 1745807841,
       "rank": 2,
@@ -2825,6 +2977,14 @@
       "onboard_time": 1745814083,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 14792,
+      "num": 171112,
+      "word": "拿身份证消费对个人有什么弊端",
+      "onboard_time": 1745838081,
+      "rank": 18,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 12094,
