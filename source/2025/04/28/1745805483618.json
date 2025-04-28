@@ -1,0 +1,410 @@
+{
+  "runTime": 1745805483618,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1944340,
+        "num": 1944340,
+        "word": "女子吃小龙虾竟剥出多颗珠子",
+        "onboard_time": 1745803342,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 697462,
+        "num": 697462,
+        "word": "小米全球总部15元的员工晚餐",
+        "onboard_time": 1745800342,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 47616,
+        "num": 690554,
+        "word": "中国制造成为全球客商最佳选择",
+        "onboard_time": 1745760682,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 689897,
+        "num": 689897,
+        "word": "只要保持一个月九点之前睡觉",
+        "onboard_time": 1745797400,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 626519,
+        "num": 626519,
+        "word": "马龙谈樊振东",
+        "onboard_time": 1745800943,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 606711,
+        "num": 606711,
+        "word": "中日友好医院医生回应被开除",
+        "onboard_time": 1745803283,
+        "rank": 5,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 565801,
+        "num": 565801,
+        "word": "特朗普支持率为80年历任总统最低",
+        "onboard_time": 1745799322,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 545920,
+        "num": 545920,
+        "word": "王勉发出婚礼邀请",
+        "onboard_time": 1745774896,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 453118,
+        "num": 545114,
+        "word": "孙燕姿回复了肖战",
+        "onboard_time": 1745798782,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 152390,
+        "num": 541069,
+        "word": "保税仓发货保健品不等于真进口",
+        "onboard_time": 1745802621,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 872024,
+        "num": 537342,
+        "word": "反诈老陈称已将通缉照走红女子拉黑",
+        "onboard_time": 1745802621,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 655517,
+        "num": 529468,
+        "word": "石凯前女友 等解除协议我将不再沉默",
+        "onboard_time": 1745796919,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 529269,
+        "num": 529269,
+        "word": "早睡简直就是人类的无敌作弊器",
+        "onboard_time": 1745779935,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 405817,
+        "num": 405817,
+        "word": "刘亦菲已拿下全部白玉兰前哨奖",
+        "onboard_time": 1745801903,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 396034,
+        "num": 396034,
+        "word": "谢霆锋妹妹转发了王菲",
+        "onboard_time": 1745801123,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 375738,
+        "num": 375738,
+        "word": "星巴克 五月天",
+        "onboard_time": 1745801062,
+        "rank": 15,
+        "category": "美食,艺人"
+      },
+      {
+        "raw_hot": 440754,
+        "num": 356801,
+        "word": "疑似石凯训粉",
+        "onboard_time": 1745802861,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 326385,
+        "num": 326385,
+        "word": "曹骏 没受过互联网毒害的美",
+        "onboard_time": 1745768782,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296487,
+        "num": 296487,
+        "word": "肖飞 董袭莹",
+        "onboard_time": 1745802921,
+        "rank": 18,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 295573,
+        "num": 295573,
+        "word": "王者荣耀三丽鸥",
+        "onboard_time": 1745798782,
+        "rank": 19,
+        "category": "电竞,游戏"
+      },
+      {
+        "raw_hot": 249369,
+        "num": 249369,
+        "word": "美股暴跌时特朗普释放与华通话信息",
+        "onboard_time": 1745800221,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 203906,
+        "num": 203906,
+        "word": "黄金",
+        "onboard_time": 1745804662,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 190030,
+        "num": 190030,
+        "word": "烽影燃梅香 定档",
+        "onboard_time": 1745799022,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187402,
+        "num": 187402,
+        "word": "因通缉照走红女子账号被封",
+        "onboard_time": 1745781614,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186946,
+        "num": 186946,
+        "word": "终于懂老年人对时代的无力感了",
+        "onboard_time": 1745803521,
+        "rank": 24,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 185459,
+        "num": 185459,
+        "word": "刘亦菲说黄亦玫和她不像",
+        "onboard_time": 1745797580,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173026,
+        "num": 173026,
+        "word": "女子回应赤脚踏入万年晶花池拍照",
+        "onboard_time": 1745797340,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171496,
+        "num": 171496,
+        "word": "央视曝光假进口的保健品",
+        "onboard_time": 1745763083,
+        "rank": 27,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 163281,
+        "num": 163281,
+        "word": "当你突然开始跑步 你的身体belike",
+        "onboard_time": 1745803162,
+        "rank": 28,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 143377,
+        "num": 152744,
+        "word": "谢娜凌晨为何炅庆生",
+        "onboard_time": 1745798963,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150367,
+        "num": 150367,
+        "word": "女子丢蛋糕后报警谎称抹了老鼠药",
+        "onboard_time": 1745758762,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148681,
+        "num": 148681,
+        "word": "深圳兔子警官爆火出圈了",
+        "onboard_time": 1745770101,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132778,
+        "num": 132778,
+        "word": "原来这就是生理性喜欢的表现",
+        "onboard_time": 1745766022,
+        "rank": 32,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 127393,
+        "num": 127393,
+        "word": "崔胜澈好帅",
+        "onboard_time": 1745804961,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125019,
+        "num": 125019,
+        "word": "朱雀玄武敕令再申请改48字新名字",
+        "onboard_time": 1745766203,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22038,
+        "num": 122271,
+        "word": "麻醉医生谈肖飞事件",
+        "onboard_time": 1745805381,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120978,
+        "num": 120978,
+        "word": "我是武则天",
+        "onboard_time": 1745804301,
+        "rank": 36,
+        "category": "科学科普,休闲"
+      },
+      {
+        "raw_hot": 120605,
+        "num": 120605,
+        "word": "要离职了 跟公司最好的同事拍照",
+        "onboard_time": 1745803942,
+        "rank": 37,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 112752,
+        "num": 112752,
+        "word": "因为小时候没上过兴趣班",
+        "onboard_time": 1745805140,
+        "rank": 38,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 108938,
+        "num": 108938,
+        "word": "男网红跑马闯进女子赛道被禁赛3年",
+        "onboard_time": 1745799502,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108148,
+        "num": 108148,
+        "word": "怀孕蓝猫四肢被砍",
+        "onboard_time": 1745773157,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104355,
+        "num": 104355,
+        "word": "1比3逆转詹姆斯做到过",
+        "onboard_time": 1745802682,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103198,
+        "num": 103198,
+        "word": "身高1米5体重1500斤两岁母牛的一天",
+        "onboard_time": 1745804841,
+        "rank": 42,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 102241,
+        "num": 102241,
+        "word": "天链二号05星发射成功",
+        "onboard_time": 1745800583,
+        "rank": 43,
+        "category": "国内时政,国际时政"
+      },
+      {
+        "raw_hot": 99471,
+        "num": 99471,
+        "word": "马龙回应里约奥运会换球衣翻盘",
+        "onboard_time": 1745805321,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96402,
+        "num": 96402,
+        "word": "特朗普拿P图甩锅中国",
+        "onboard_time": 1745800463,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 95756,
+        "num": 95756,
+        "word": "原谅你不是原谅你这一次",
+        "onboard_time": 1745805321,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 95389,
+        "num": 95389,
+        "word": "孙俪 上海话",
+        "onboard_time": 1745800162,
+        "rank": 47,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 93937,
+        "num": 93937,
+        "word": "田静复更",
+        "onboard_time": 1745805441,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 91513,
+        "num": 91513,
+        "word": "李兆基葬礼",
+        "onboard_time": 1745805441,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#源源不断培养人工智能高素质人才#"
+    }
+  }
+}

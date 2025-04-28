@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/28 07:38:52
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/28 09:58:03
 </p>
 </blockquote>
 <p>
@@ -1079,6 +1079,12 @@ C罗点评甲亢哥中国行（热度：2472029）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%20%E8%BD%AC%E5%9E%8B%23" target="weibo">
 赵丽颖 转型（热度：1958059）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%90%83%E5%B0%8F%E9%BE%99%E8%99%BE%E7%AB%9F%E5%89%A5%E5%87%BA%E5%A4%9A%E9%A2%97%E7%8F%A0%E5%AD%90%23" target="weibo">
+女子吃小龙虾竟剥出多颗珠子（热度：1944340）
 </a>
 </li>
 
@@ -5331,6 +5337,12 @@ SM新男团 撞名（热度：910464）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%8D%E8%AF%88%E8%80%81%E9%99%88%E7%A7%B0%E5%B7%B2%E5%B0%86%E9%80%9A%E7%BC%89%E7%85%A7%E8%B5%B0%E7%BA%A2%E5%A5%B3%E5%AD%90%E6%8B%89%E9%BB%91%23" target="weibo">
+反诈老陈称已将通缉照走红女子拉黑（热度：872024）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%85%B3%E7%A8%8E%23" target="weibo">
 美国关税（热度：871707）
 </a>
@@ -5999,18 +6011,6 @@ YERI和Wendy离开SM（热度：805847）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E4%BD%93%E5%88%B6%E5%86%85%E5%A5%B3%E5%8F%8B%E9%A3%8E%23" target="weibo">
 白鹿体制内女友风（热度：803163）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A4%E7%8B%AC%E7%97%87%E7%94%B7%E5%AD%A9%E5%9B%A0%E9%AB%98%E9%A2%9C%E5%80%BC%E8%B5%B0%E7%BA%A2%E5%A6%88%E5%A6%88%E5%8F%91%E5%A3%B0%23" target="weibo">
-孤独症男孩因高颜值走红妈妈发声（热度：802897）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%9B%B4%E6%8E%A5%E5%9D%90%E5%9C%A8%E4%B8%AD%E6%8E%A7%E5%8F%B0%E7%9C%8B%E7%9A%84%23" target="weibo">
-肖战直接坐在中控台看的（热度：802584）
 </a>
 </li>
 
