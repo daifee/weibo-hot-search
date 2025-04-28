@@ -1,0 +1,410 @@
+{
+  "runTime": 1745810985092,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1052886,
+        "num": 1168461,
+        "word": "朝鲜证实出兵俄罗斯",
+        "onboard_time": 1745805982,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 809745,
+        "num": 809745,
+        "word": "王者荣耀三丽鸥",
+        "onboard_time": 1745798782,
+        "rank": 1,
+        "category": "电竞,游戏"
+      },
+      {
+        "raw_hot": 45489,
+        "num": 793330,
+        "word": "中国制造成为全球客商最佳选择",
+        "onboard_time": 1745760682,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1013975,
+        "num": 792399,
+        "word": "三姐妹给父亲上坟被大伯炸死案二审",
+        "onboard_time": 1745808020,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 786765,
+        "num": 786765,
+        "word": "黄金",
+        "onboard_time": 1745804662,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 631256,
+        "num": 631256,
+        "word": "樊振东王曼昱盛李豪受表彰",
+        "onboard_time": 1745808141,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 609590,
+        "num": 609590,
+        "word": "只要保持一个月九点之前睡觉",
+        "onboard_time": 1745797400,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 526119,
+        "num": 609122,
+        "word": "王勉发出婚礼邀请",
+        "onboard_time": 1745774896,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 433622,
+        "num": 608250,
+        "word": "乘风2025官宣8位师姐回归",
+        "onboard_time": 1745810301,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56257,
+        "num": 607585,
+        "word": "美专家分析为什么美方先眨眼",
+        "onboard_time": 1745809821,
+        "rank": 9,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 897889,
+        "num": 606761,
+        "word": "反诈老陈称已将通缉照走红女子拉黑",
+        "onboard_time": 1745802621,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 606354,
+        "num": 606354,
+        "word": "中日友好医院医生回应被开除",
+        "onboard_time": 1745803283,
+        "rank": 11,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 553657,
+        "num": 553657,
+        "word": "石凯前女友 等解除协议我将不再沉默",
+        "onboard_time": 1745796919,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 490620,
+        "num": 490620,
+        "word": "Uzi宣布无限期停播",
+        "onboard_time": 1745806342,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 88880,
+        "num": 483898,
+        "word": "中日友好医院肖某曾入选骨干人才",
+        "onboard_time": 1745810182,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 386020,
+        "num": 474099,
+        "word": "疑似石凯训粉",
+        "onboard_time": 1745802861,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 329208,
+        "num": 459349,
+        "word": "钟丽丽也知道自己演的白蛇很迷人吧",
+        "onboard_time": 1745809520,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313138,
+        "num": 455194,
+        "word": "孙燕姿回复了肖战",
+        "onboard_time": 1745798782,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 201887,
+        "num": 443693,
+        "word": "30万保单无人通知漏缴1期被作废",
+        "onboard_time": 1745809520,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29277,
+        "num": 435974,
+        "word": "哪些睡前瑜伽动作可以提高睡眠质量",
+        "onboard_time": 1745810480,
+        "rank": 19,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 425278,
+        "num": 425278,
+        "word": "马龙谈樊振东",
+        "onboard_time": 1745800943,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 416533,
+        "num": 416533,
+        "word": "女子吃小龙虾竟剥出多颗珠子",
+        "onboard_time": 1745803342,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 383400,
+        "num": 383400,
+        "word": "早睡简直就是人类的无敌作弊器",
+        "onboard_time": 1745779935,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 282088,
+        "num": 282088,
+        "word": "刘亦菲已拿下全部白玉兰前哨奖",
+        "onboard_time": 1745801903,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204039,
+        "num": 277377,
+        "word": "王曼昱穿国乒队服参加表彰大会",
+        "onboard_time": 1745810480,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 276705,
+        "num": 276705,
+        "word": "徐冬冬的舒适体重是130斤以下",
+        "onboard_time": 1745808501,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328314,
+        "num": 276362,
+        "word": "肖飞 董袭莹",
+        "onboard_time": 1745802921,
+        "rank": 26,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 281545,
+        "num": 275749,
+        "word": "用人民币感受韩国工资水平",
+        "onboard_time": 1745808621,
+        "rank": 27,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 203506,
+        "num": 275243,
+        "word": "谢霆锋妹妹转发了王菲",
+        "onboard_time": 1745801123,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 36405,
+        "num": 274332,
+        "word": "辞职去留学真的能重启人生吗",
+        "onboard_time": 1745810721,
+        "rank": 29,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 273812,
+        "num": 273812,
+        "word": "李兆基葬礼",
+        "onboard_time": 1745805441,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264393,
+        "num": 264393,
+        "word": "多地无人配送车连发交通事故",
+        "onboard_time": 1745805982,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217267,
+        "num": 217267,
+        "word": "星巴克 五月天",
+        "onboard_time": 1745801062,
+        "rank": 32,
+        "category": "美食,艺人"
+      },
+      {
+        "raw_hot": 205891,
+        "num": 205891,
+        "word": "淮水竹亭OST全阵容",
+        "onboard_time": 1745810902,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192174,
+        "num": 203752,
+        "word": "淮水竹亭今天开播",
+        "onboard_time": 1745810422,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203485,
+        "num": 203485,
+        "word": "我国将出台稳就业稳经济若干举措",
+        "onboard_time": 1745809161,
+        "rank": 35,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 192989,
+        "num": 192989,
+        "word": "养了六年的兔子给我做了个窝",
+        "onboard_time": 1745808681,
+        "rank": 36,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 190604,
+        "num": 190604,
+        "word": "特朗普支持率为80年历任总统最低",
+        "onboard_time": 1745799322,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 187340,
+        "num": 187340,
+        "word": "落花时节又逢君",
+        "onboard_time": 1745807841,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170757,
+        "num": 170757,
+        "word": "曹骏 没受过互联网毒害的美",
+        "onboard_time": 1745768782,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169266,
+        "num": 169266,
+        "word": "偏心的妈坏心眼的弟恶女的她",
+        "onboard_time": 1745810599,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159499,
+        "num": 159499,
+        "word": "麻醉医生谈肖飞事件",
+        "onboard_time": 1745805381,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152515,
+        "num": 152515,
+        "word": "Daeny回应iG粉丝BP问题",
+        "onboard_time": 1745810060,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 152234,
+        "num": 152234,
+        "word": "丁禹兮剧里剧外反差感",
+        "onboard_time": 1745810001,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148046,
+        "num": 148046,
+        "word": "婚甲",
+        "onboard_time": 1745810121,
+        "rank": 44,
+        "category": "美妆,时尚"
+      },
+      {
+        "raw_hot": 144199,
+        "num": 144199,
+        "word": "2426人受到表彰",
+        "onboard_time": 1745806942,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140185,
+        "num": 140185,
+        "word": "曹骏内娱纯阳之体",
+        "onboard_time": 1745806521,
+        "rank": 46,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 134370,
+        "num": 134370,
+        "word": "烽影燃梅香 定档",
+        "onboard_time": 1745799022,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131716,
+        "num": 131716,
+        "word": "刘诗诗14年前舞梅vs14年后舞竹",
+        "onboard_time": 1745810840,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129540,
+        "num": 129540,
+        "word": "晚睡晚起和早睡早起有什么区别",
+        "onboard_time": 1745810840,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#源源不断培养人工智能高素质人才#"
+    }
+  }
+}

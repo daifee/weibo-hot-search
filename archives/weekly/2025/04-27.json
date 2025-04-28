@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1745810111212,
+  "endTime": 1745810985092,
   "band_list": [
     {
       "raw_hot": 8960529,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 1327323,
-      "num": 537342,
+      "num": 606761,
       "word": "反诈老陈称已将通缉照走红女子拉黑",
       "onboard_time": 1745802621,
       "rank": 10,
@@ -235,6 +235,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1052886,
+      "num": 1168461,
+      "word": "朝鲜证实出兵俄罗斯",
+      "onboard_time": 1745805982,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1039241,
       "num": 883569,
       "word": "关晓彤腿腿腿腿",
@@ -256,6 +264,14 @@
       "word": "84斤女子吐槽买百件衣服基本穿不上",
       "onboard_time": 1745709679,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1013975,
+      "num": 792399,
+      "word": "三姐妹给父亲上坟被大伯炸死案二审",
+      "onboard_time": 1745808020,
+      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -281,14 +297,6 @@
       "onboard_time": 1745723001,
       "rank": 1,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 945676,
-      "num": 1151308,
-      "word": "朝鲜证实出兵俄罗斯",
-      "onboard_time": 1745805982,
-      "rank": 23,
-      "category": "国际时政"
     },
     {
       "raw_hot": 922075,
@@ -339,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 809745,
+      "num": 809745,
+      "word": "王者荣耀三丽鸥",
+      "onboard_time": 1745798782,
+      "rank": 19,
+      "category": "电竞,游戏"
+    },
+    {
       "raw_hot": 805060,
       "num": 645860,
       "word": "惠英红华表奖首位中国香港影后",
@@ -379,20 +395,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 786765,
+      "num": 786765,
+      "word": "黄金",
+      "onboard_time": 1745804662,
+      "rank": 21,
+      "category": "财经"
+    },
+    {
       "raw_hot": 782789,
       "num": 754997,
       "word": "刘亦菲人鱼高定",
       "onboard_time": 1745755343,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 776002,
-      "num": 776002,
-      "word": "黄金",
-      "onboard_time": 1745804662,
-      "rank": 21,
-      "category": "财经"
     },
     {
       "raw_hot": 761108,
@@ -468,7 +484,7 @@
     },
     {
       "raw_hot": 662656,
-      "num": 529468,
+      "num": 553657,
       "word": "石凯前女友 等解除协议我将不再沉默",
       "onboard_time": 1745796919,
       "rank": 10,
@@ -515,20 +531,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 631256,
+      "num": 631256,
+      "word": "樊振东王曼昱盛李豪受表彰",
+      "onboard_time": 1745808141,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 615662,
       "num": 581662,
       "word": "傅首尔问李沐宸哭有啥用",
       "onboard_time": 1745724802,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 605777,
-      "num": 605777,
-      "word": "三姐妹给父亲上坟被大伯炸死案二审",
-      "onboard_time": 1745808020,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 605666,
@@ -636,7 +652,7 @@
     },
     {
       "raw_hot": 548048,
-      "num": 548048,
+      "num": 609122,
       "word": "王勉发出婚礼邀请",
       "onboard_time": 1745774896,
       "rank": 38,
@@ -820,7 +836,7 @@
     },
     {
       "raw_hot": 454757,
-      "num": 454821,
+      "num": 474099,
       "word": "疑似石凯训粉",
       "onboard_time": 1745802861,
       "rank": 16,
@@ -833,14 +849,6 @@
       "onboard_time": 1745798782,
       "rank": 8,
       "category": "演出"
-    },
-    {
-      "raw_hot": 444372,
-      "num": 444372,
-      "word": "樊振东王曼昱盛李豪受表彰",
-      "onboard_time": 1745808141,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 440319,
@@ -865,6 +873,14 @@
       "onboard_time": 1745748082,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 433622,
+      "num": 608250,
+      "word": "乘风2025官宣8位师姐回归",
+      "onboard_time": 1745810301,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 431172,
@@ -977,14 +993,6 @@
       "onboard_time": 1745801123,
       "rank": 14,
       "category": "演出"
-    },
-    {
-      "raw_hot": 389003,
-      "num": 389003,
-      "word": "王者荣耀三丽鸥",
-      "onboard_time": 1745798782,
-      "rank": 19,
-      "category": "电竞,游戏"
     },
     {
       "raw_hot": 388754,
@@ -1113,6 +1121,14 @@
       "onboard_time": 1745728522,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 329208,
+      "num": 459349,
+      "word": "钟丽丽也知道自己演的白蛇很迷人吧",
+      "onboard_time": 1745809520,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 325495,
@@ -1275,6 +1291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 281545,
+      "num": 275749,
+      "word": "用人民币感受韩国工资水平",
+      "onboard_time": 1745808621,
+      "rank": 30,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 280102,
       "num": 254605,
       "word": "时代少年团印象最深的热搜",
@@ -1345,14 +1369,6 @@
       "onboard_time": 1745733202,
       "rank": 21,
       "category": "电影"
-    },
-    {
-      "raw_hot": 269283,
-      "num": 269283,
-      "word": "用人民币感受韩国工资水平",
-      "onboard_time": 1745808621,
-      "rank": 30,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 267491,
@@ -1779,14 +1795,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 208975,
-      "num": 282054,
-      "word": "钟丽丽也知道自己演的白蛇很迷人吧",
-      "onboard_time": 1745809520,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 208860,
       "num": 208860,
       "word": "A股",
@@ -1835,6 +1843,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 205891,
+      "num": 205891,
+      "word": "淮水竹亭OST全阵容",
+      "onboard_time": 1745810902,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205269,
       "num": 205269,
       "word": "年轻时候的蔡琴有多漂亮",
@@ -1859,6 +1875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 204039,
+      "num": 277377,
+      "word": "王曼昱穿国乒队服参加表彰大会",
+      "onboard_time": 1745810480,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203798,
       "num": 203798,
       "word": "李秀满疑似开辟短剧赛道",
@@ -1873,6 +1897,22 @@
       "onboard_time": 1745759902,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 203485,
+      "num": 203485,
+      "word": "我国将出台稳就业稳经济若干举措",
+      "onboard_time": 1745809161,
+      "rank": 35,
+      "category": "国内时政,民生新闻"
+    },
+    {
+      "raw_hot": 201887,
+      "num": 443693,
+      "word": "30万保单无人通知漏缴1期被作废",
+      "onboard_time": 1745809520,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 201503,
@@ -2033,6 +2073,22 @@
       "onboard_time": 1745757982,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 192989,
+      "num": 192989,
+      "word": "养了六年的兔子给我做了个窝",
+      "onboard_time": 1745808681,
+      "rank": 34,
+      "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 192174,
+      "num": 203752,
+      "word": "淮水竹亭今天开播",
+      "onboard_time": 1745810422,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 191391,
@@ -2243,14 +2299,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 179211,
-      "num": 179211,
-      "word": "养了六年的兔子给我做了个窝",
-      "onboard_time": 1745808681,
-      "rank": 34,
-      "category": "情感,休闲"
-    },
-    {
       "raw_hot": 179059,
       "num": 187889,
       "word": "丁禹兮淮水竹亭面具造型",
@@ -2331,14 +2379,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 171075,
-      "num": 171075,
-      "word": "我国将出台稳就业稳经济若干举措",
-      "onboard_time": 1745809161,
-      "rank": 35,
-      "category": "国内时政,民生新闻"
-    },
-    {
       "raw_hot": 170982,
       "num": 170982,
       "word": "还以为电量焦虑是件很小众的事",
@@ -2377,6 +2417,14 @@
       "onboard_time": 1745747602,
       "rank": 34,
       "category": "美食"
+    },
+    {
+      "raw_hot": 169266,
+      "num": 169266,
+      "word": "偏心的妈坏心眼的弟恶女的她",
+      "onboard_time": 1745810599,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 166912,
@@ -2699,6 +2747,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 152515,
+      "num": 152515,
+      "word": "Daeny回应iG粉丝BP问题",
+      "onboard_time": 1745810060,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 152234,
+      "num": 152234,
+      "word": "丁禹兮剧里剧外反差感",
+      "onboard_time": 1745810001,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151466,
       "num": 151466,
       "word": "第一次见地铁户型的家",
@@ -2761,6 +2825,14 @@
       "onboard_time": 1745728581,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 148046,
+      "num": 148046,
+      "word": "婚甲",
+      "onboard_time": 1745810121,
+      "rank": 44,
+      "category": "美妆,时尚"
     },
     {
       "raw_hot": 146559,
@@ -3067,14 +3139,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 134725,
-      "num": 134725,
-      "word": "Daeny回应iG粉丝BP问题",
-      "onboard_time": 1745810060,
-      "rank": 45,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 134697,
       "num": 134697,
       "word": "突然意识到每天只有20分钟是在地面上",
@@ -3131,6 +3195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131716,
+      "num": 131716,
+      "word": "刘诗诗14年前舞梅vs14年后舞竹",
+      "onboard_time": 1745810840,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131590,
       "num": 131590,
       "word": "巴基斯坦部队向克什米尔大规模调动",
@@ -3169,6 +3241,14 @@
       "onboard_time": 1745756061,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129540,
+      "num": 129540,
+      "word": "晚睡晚起和早睡早起有什么区别",
+      "onboard_time": 1745810840,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 129468,
@@ -3233,14 +3313,6 @@
       "onboard_time": 1745725161,
       "rank": 29,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 125418,
-      "num": 125418,
-      "word": "丁禹兮剧里剧外反差感",
-      "onboard_time": 1745810001,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 124714,
@@ -3803,6 +3875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88880,
+      "num": 483898,
+      "word": "中日友好医院肖某曾入选骨干人才",
+      "onboard_time": 1745810182,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88537,
       "num": 858104,
       "word": "MadeInChina硬控全球客商",
@@ -4155,6 +4235,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 56257,
+      "num": 607585,
+      "word": "美专家分析为什么美方先眨眼",
+      "onboard_time": 1745809821,
+      "rank": 24,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 56208,
       "num": 199903,
       "word": "3名中国公民伊朗港口爆炸中受轻伤",
@@ -4347,14 +4435,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 42112,
-      "num": 405758,
-      "word": "30万保单无人通知漏缴1期被作废",
-      "onboard_time": 1745809520,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 41817,
       "num": 61160,
       "word": "官方回应伊朗港口爆炸事件",
@@ -4459,6 +4539,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 36405,
+      "num": 274332,
+      "word": "辞职去留学真的能重启人生吗",
+      "onboard_time": 1745810721,
+      "rank": 29,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 35207,
       "num": 199779,
       "word": "南京闯进电视台的野猪是从哪来的",
@@ -4555,6 +4643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29277,
+      "num": 435974,
+      "word": "哪些睡前瑜伽动作可以提高睡眠质量",
+      "onboard_time": 1745810480,
+      "rank": 19,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 28700,
       "num": 363109,
       "word": "吴艳妮回应钻石联赛表现",
@@ -4633,14 +4729,6 @@
       "onboard_time": 1745805682,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 23791,
-      "num": 370412,
-      "word": "美专家分析为什么美方先眨眼",
-      "onboard_time": 1745809821,
-      "rank": 24,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 23761,
