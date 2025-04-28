@@ -1,0 +1,410 @@
+{
+  "runTime": 1745860916143,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 409090,
+        "num": 504360,
+        "word": "瑞幸回应4部手机点出3种价格",
+        "onboard_time": 1745851163,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199065,
+        "num": 199065,
+        "word": "藏海传",
+        "onboard_time": 1745848104,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 9362,
+        "num": 183954,
+        "word": "稳就业稳经济5方面若干举措",
+        "onboard_time": 1745845342,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178746,
+        "num": 178746,
+        "word": "刘诗诗回复虞书欣",
+        "onboard_time": 1745844803,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172010,
+        "num": 172010,
+        "word": "医师出轨暴露违规问题更需关注",
+        "onboard_time": 1745850142,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166692,
+        "num": 166692,
+        "word": "美国回应普京宣布临时停火",
+        "onboard_time": 1745855901,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 133696,
+        "num": 133696,
+        "word": "为什么小时候常有的停电好像消失了",
+        "onboard_time": 1745847141,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130798,
+        "num": 130798,
+        "word": "密室大逃脱7",
+        "onboard_time": 1745851643,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112500,
+        "num": 112500,
+        "word": "北大回应网红汤匙被录取",
+        "onboard_time": 1745850621,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 81298,
+        "num": 81298,
+        "word": "保时捷CEO谈小米SU7Ultra",
+        "onboard_time": 1745850142,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 549875,
+        "num": 81291,
+        "word": "新娘因长相太美被质疑AI换脸",
+        "onboard_time": 1745854402,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202585,
+        "num": 81277,
+        "word": "上海月薪两万七一天要花多少钱",
+        "onboard_time": 1745848222,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166211,
+        "num": 81273,
+        "word": "孟子义在飞机上直播",
+        "onboard_time": 1745850023,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132509,
+        "num": 81257,
+        "word": "徐冬冬晒真实肚子",
+        "onboard_time": 1745853203,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22407,
+        "num": 81248,
+        "word": "外交部回应老外带大行李箱来华扫货",
+        "onboard_time": 1745860457,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 100365,
+        "num": 81242,
+        "word": "为什么婚恋前要先看体检报告",
+        "onboard_time": 1745854222,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 86041,
+        "num": 81231,
+        "word": "柯淳片场随地扔烟头",
+        "onboard_time": 1745845222,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81530,
+        "num": 81222,
+        "word": "丁禹兮陪看淮水竹亭",
+        "onboard_time": 1745854702,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81211,
+        "num": 81211,
+        "word": "85竹对打95花",
+        "onboard_time": 1745844022,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 70778,
+        "num": 70778,
+        "word": "今年首个蛇年蛇月蛇日蛇时",
+        "onboard_time": 1745849003,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67911,
+        "num": 67911,
+        "word": "孙俪说姐弟恋把我们这戏说俗气了",
+        "onboard_time": 1745841080,
+        "rank": 20,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 64059,
+        "num": 64059,
+        "word": "误诊精神病医生1年后才有执业资格",
+        "onboard_time": 1745852843,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58439,
+        "num": 58439,
+        "word": "捡个脸盆被记9分断了多根肋骨",
+        "onboard_time": 1745847141,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56115,
+        "num": 56115,
+        "word": "女子回应新娘因高颜值被质疑",
+        "onboard_time": 1745855840,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55670,
+        "num": 55670,
+        "word": "马代遭酒店管家性侵女子再发声",
+        "onboard_time": 1745842282,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51725,
+        "num": 51725,
+        "word": "半个娱乐圈都在追无尽的尽头",
+        "onboard_time": 1745835562,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51546,
+        "num": 51546,
+        "word": "孟宴臣父母年轻的时候",
+        "onboard_time": 1745849484,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50118,
+        "num": 50118,
+        "word": "西班牙葡萄牙大范围停电",
+        "onboard_time": 1745845162,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 49716,
+        "num": 49716,
+        "word": "贾静雯女儿钟丽缇女儿同框",
+        "onboard_time": 1745844982,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49402,
+        "num": 49402,
+        "word": "萧亚轩五次手术后首公开露面",
+        "onboard_time": 1745833341,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48089,
+        "num": 48089,
+        "word": "刘琮回归幕后",
+        "onboard_time": 1745859917,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45742,
+        "num": 45742,
+        "word": "蒋一侨长发",
+        "onboard_time": 1745837903,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45519,
+        "num": 45519,
+        "word": "森林北直播带货",
+        "onboard_time": 1745844741,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 43402,
+        "num": 43402,
+        "word": "酒店机器人3年亏了8个亿",
+        "onboard_time": 1745851345,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42586,
+        "num": 42586,
+        "word": "黄子弘凡叫自己子弘凡了",
+        "onboard_time": 1745850803,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42433,
+        "num": 42433,
+        "word": "西班牙停电",
+        "onboard_time": 1745841202,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 41579,
+        "num": 41579,
+        "word": "王一博iG发文",
+        "onboard_time": 1745849122,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41365,
+        "num": 41365,
+        "word": "魏大勋孙千在我主页走好几天了",
+        "onboard_time": 1745841441,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41183,
+        "num": 41183,
+        "word": "孙艺洲唱死了都要爱",
+        "onboard_time": 1745857459,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 40605,
+        "num": 40605,
+        "word": "丁禹兮给孟子义打光",
+        "onboard_time": 1745846721,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39597,
+        "num": 39597,
+        "word": "男子申请改48字姓名警方称难过审",
+        "onboard_time": 1745837842,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37631,
+        "num": 37631,
+        "word": "IU登顶韩国福布斯名人榜",
+        "onboard_time": 1745845041,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36973,
+        "num": 36973,
+        "word": "丁禹兮造梗比呼吸还简单",
+        "onboard_time": 1745852064,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35623,
+        "num": 36972,
+        "word": "加拿大总理称美利坚合众国名存实亡",
+        "onboard_time": 1745850686,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 34236,
+        "num": 36970,
+        "word": "何老师51岁了",
+        "onboard_time": 1745828122,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33242,
+        "num": 36969,
+        "word": "杨幂双马尾丹宁风",
+        "onboard_time": 1745855302,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31889,
+        "num": 36967,
+        "word": "陈少熙晒旋耕二人组合照",
+        "onboard_time": 1745854343,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30953,
+        "num": 36966,
+        "word": "美国建国250周年可能无烟花可放",
+        "onboard_time": 1745860877,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21753,
+        "num": 36966,
+        "word": "李晓霞晒与樊振东合影",
+        "onboard_time": 1745850383,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18310,
+        "num": 36964,
+        "word": "美食时间",
+        "onboard_time": 1745860697,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向广大劳动群众致以诚挚问候#"
+    }
+  }
+}
