@@ -1,0 +1,410 @@
+{
+  "runTime": 1745848476326,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1250857,
+        "num": 1250857,
+        "word": "85竹对打95花",
+        "onboard_time": 1745844022,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 778001,
+        "num": 778001,
+        "word": "假离婚后拒复婚女子将丈夫告上法院",
+        "onboard_time": 1745843842,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71554,
+        "num": 665636,
+        "word": "游在中国热度不减购在中国蔚然成风",
+        "onboard_time": 1745846002,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 661266,
+        "num": 661266,
+        "word": "虞书欣让刘诗诗看看她",
+        "onboard_time": 1745841502,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 635831,
+        "num": 635831,
+        "word": "马代遭酒店管家性侵女子再发声",
+        "onboard_time": 1745842282,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 458844,
+        "num": 571071,
+        "word": "为什么小时候常有的停电好像消失了",
+        "onboard_time": 1745847141,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 566708,
+        "num": 566708,
+        "word": "半个娱乐圈都在追无尽的尽头",
+        "onboard_time": 1745835562,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 556085,
+        "num": 556085,
+        "word": "刘诗诗回复虞书欣",
+        "onboard_time": 1745844803,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 432300,
+        "num": 432300,
+        "word": "男子申请改48字姓名警方称难过审",
+        "onboard_time": 1745837842,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 393144,
+        "num": 393144,
+        "word": "西班牙停电",
+        "onboard_time": 1745841202,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 478096,
+        "num": 390538,
+        "word": "贾静雯女儿钟丽缇女儿同框",
+        "onboard_time": 1745844982,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 460532,
+        "num": 390298,
+        "word": "IU登顶韩国福布斯名人榜",
+        "onboard_time": 1745845041,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 387071,
+        "num": 387071,
+        "word": "魏大勋孙千在我主页走好几天了",
+        "onboard_time": 1745841441,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89626,
+        "num": 357418,
+        "word": "领克900重新定义家庭大六座标准",
+        "onboard_time": 1745847263,
+        "rank": 13,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 350820,
+        "num": 350820,
+        "word": "孙俪说姐弟恋把我们这戏说俗气了",
+        "onboard_time": 1745841080,
+        "rank": 14,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 299438,
+        "num": 299438,
+        "word": "西班牙葡萄牙大范围停电",
+        "onboard_time": 1745845162,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 268754,
+        "num": 268754,
+        "word": "住酒店遭服务员闯入被吓进医院",
+        "onboard_time": 1745845642,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206865,
+        "num": 267676,
+        "word": "森林北直播带货",
+        "onboard_time": 1745844741,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 70953,
+        "num": 267362,
+        "word": "从三岁到百岁都爱的旋转座椅",
+        "onboard_time": 1745845522,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18383,
+        "num": 266162,
+        "word": "巴士兵遇袭是否会加剧印巴冲突",
+        "onboard_time": 1745847681,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 453016,
+        "num": 264843,
+        "word": "萧亚轩五次手术后首公开露面",
+        "onboard_time": 1745833341,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277917,
+        "num": 263253,
+        "word": "捡个脸盆被记9分断了多根肋骨",
+        "onboard_time": 1745847141,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262877,
+        "num": 262877,
+        "word": "普京宣布将停火72小时",
+        "onboard_time": 1745841022,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 251734,
+        "num": 251734,
+        "word": "梁伟铿王昶拿下首秀",
+        "onboard_time": 1745847202,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70678,
+        "num": 246667,
+        "word": "李盈莹恢复迅速",
+        "onboard_time": 1745847922,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246248,
+        "num": 246248,
+        "word": "柯淳片场随地扔烟头",
+        "onboard_time": 1745845222,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239103,
+        "num": 239103,
+        "word": "BLG辅核",
+        "onboard_time": 1745844920,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 235023,
+        "num": 235023,
+        "word": "这些声音里藏着他们的劳动荣光",
+        "onboard_time": 1745847082,
+        "rank": 27,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 229462,
+        "num": 229462,
+        "word": "蒋一侨长发",
+        "onboard_time": 1745837903,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197015,
+        "num": 197015,
+        "word": "藏海传",
+        "onboard_time": 1745848104,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188351,
+        "num": 188351,
+        "word": "赵一博刚插完秧就来直播了",
+        "onboard_time": 1745845403,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182271,
+        "num": 182271,
+        "word": "广厦男篮vs辽宁男篮",
+        "onboard_time": 1745845463,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181188,
+        "num": 181188,
+        "word": "登陆少年新歌ForYou",
+        "onboard_time": 1745847803,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 179973,
+        "num": 179973,
+        "word": "上班后才懂李慧珍",
+        "onboard_time": 1745837601,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175089,
+        "num": 175089,
+        "word": "何老师51岁了",
+        "onboard_time": 1745828122,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170932,
+        "num": 170932,
+        "word": "丁禹兮给孟子义打光",
+        "onboard_time": 1745846721,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152578,
+        "num": 152578,
+        "word": "二本文科生50元吃一个月",
+        "onboard_time": 1745829562,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138235,
+        "num": 138235,
+        "word": "哪吒2出品人回应饺子闭关",
+        "onboard_time": 1745839702,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 89358,
+        "num": 131980,
+        "word": "终于有人把冰箱的坑说清楚了",
+        "onboard_time": 1745847681,
+        "rank": 38,
+        "category": "科学科普,民生新闻"
+      },
+      {
+        "raw_hot": 14927,
+        "num": 131449,
+        "word": "不要在床和鞋上节约",
+        "onboard_time": 1745841861,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131421,
+        "num": 131421,
+        "word": "仙逆将影视化",
+        "onboard_time": 1745842102,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 130323,
+        "num": 130323,
+        "word": "樊振东超级全满贯的影响力",
+        "onboard_time": 1745843362,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120417,
+        "num": 120417,
+        "word": "上海月薪两万七一天要花多少钱",
+        "onboard_time": 1745848222,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117042,
+        "num": 117042,
+        "word": "近期中美元首没有通话",
+        "onboard_time": 1745840781,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 116309,
+        "num": 116309,
+        "word": "男子偷盗刮刮乐刮出1550元",
+        "onboard_time": 1745844081,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114457,
+        "num": 114457,
+        "word": "十个勤天演唱会",
+        "onboard_time": 1745837481,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 17458,
+        "num": 108252,
+        "word": "当娜拉荣归故里",
+        "onboard_time": 1745846482,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104681,
+        "num": 104681,
+        "word": "商品房70年产权期满到底归谁",
+        "onboard_time": 1745836822,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100750,
+        "num": 100750,
+        "word": "淮水竹亭直播",
+        "onboard_time": 1745839342,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99474,
+        "num": 99474,
+        "word": "丁禹兮直播",
+        "onboard_time": 1745844201,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平为全国劳模和先进工作者颁发证书#"
+    }
+  }
+}
