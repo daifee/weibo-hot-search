@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1745880109243,
+  "endTime": 1745882623858,
   "band_list": [
     {
       "raw_hot": 8960529,
@@ -1875,6 +1875,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 297975,
+      "num": 297975,
+      "word": "整个地铁都被谢霆锋包围了",
+      "onboard_time": 1745878996,
+      "rank": 49,
+      "category": "演出,休闲"
+    },
+    {
       "raw_hot": 297910,
       "num": 297910,
       "word": "恋与深空春日卡",
@@ -1945,6 +1953,14 @@
       "onboard_time": 1745732720,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 286060,
+      "num": 411640,
+      "word": "今年首个蛇年蛇月蛇日蛇时",
+      "onboard_time": 1745849003,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 285588,
@@ -3451,14 +3467,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 173891,
-      "num": 411640,
-      "word": "今年首个蛇年蛇月蛇日蛇时",
-      "onboard_time": 1745849003,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 173849,
       "num": 173849,
       "word": "enhypen cody灵机一动",
@@ -4137,6 +4145,14 @@
       "onboard_time": 1745709620,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 150962,
+      "num": 150962,
+      "word": "家属回应女子与走失儿子团聚后去世",
+      "onboard_time": 1745868855,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150658,
@@ -5971,6 +5987,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 90808,
+      "num": 90808,
+      "word": "女子回应新娘因高颜值被质疑",
+      "onboard_time": 1745855840,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90239,
       "num": 90239,
       "word": "发明调休的人有没有考虑过单休的人",
@@ -6131,6 +6155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 84003,
+      "num": 84003,
+      "word": "金晨抽中隐藏labubu",
+      "onboard_time": 1745880016,
+      "rank": 46,
+      "category": "艺人,综艺"
+    },
+    {
       "raw_hot": 83774,
       "num": 83774,
       "word": "秘鲁考古学家发现5000年前尸体",
@@ -6145,14 +6177,6 @@
       "onboard_time": 1745836522,
       "rank": 32,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 83527,
-      "num": 83527,
-      "word": "家属回应女子与走失儿子团聚后去世",
-      "onboard_time": 1745868855,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 83065,
@@ -6251,20 +6275,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 77815,
+      "num": 77815,
+      "word": "美国建国250周年可能无烟花可放",
+      "onboard_time": 1745860877,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 77495,
       "num": 150588,
       "word": "长安三万里获优秀编剧提名",
       "onboard_time": 1745681722,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 77246,
-      "num": 77246,
-      "word": "女子回应新娘因高颜值被质疑",
-      "onboard_time": 1745855840,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 77124,
@@ -6361,6 +6385,14 @@
       "onboard_time": 1745728281,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73308,
+      "num": 73308,
+      "word": "林志玲说杨紫从小妹妹成为了大女主",
+      "onboard_time": 1745881217,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 73156,
@@ -6587,6 +6619,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 60332,
+      "num": 81248,
+      "word": "外交部回应老外带大行李箱来华扫货",
+      "onboard_time": 1745860457,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 59838,
       "num": 297579,
       "word": "宫崎骏的女性设定如何打破传统",
@@ -6656,14 +6696,6 @@
       "word": "3名中国公民伊朗港口爆炸中受轻伤",
       "onboard_time": 1745709439,
       "rank": 9,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 56203,
-      "num": 56203,
-      "word": "美国建国250周年可能无烟花可放",
-      "onboard_time": 1745860877,
-      "rank": 47,
       "category": "国际时政"
     },
     {
@@ -6739,14 +6771,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 53145,
-      "num": 81248,
-      "word": "外交部回应老外带大行李箱来华扫货",
-      "onboard_time": 1745860457,
-      "rank": 14,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 52863,
       "num": 143214,
       "word": "朱开怒喷Daeny",
@@ -6787,6 +6811,14 @@
       "category": "艺人,剧集"
     },
     {
+      "raw_hot": 51699,
+      "num": 55377,
+      "word": "比起亲吻更喜欢紧紧相拥",
+      "onboard_time": 1745871374,
+      "rank": 39,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 51214,
       "num": 61155,
       "word": "景甜庄达菲生图",
@@ -6817,6 +6849,14 @@
       "onboard_time": 1745759243,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48184,
+      "num": 55373,
+      "word": "梁田笑声有多大心里就有多难受",
+      "onboard_time": 1745876174,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 48089,
@@ -6908,7 +6948,7 @@
     },
     {
       "raw_hot": 45237,
-      "num": 45237,
+      "num": 55369,
       "word": "李兆基丧礼举行",
       "onboard_time": 1745861835,
       "rank": 44,
@@ -7019,12 +7059,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 40119,
+      "num": 55367,
+      "word": "杨紫说粉丝知道行程比自己快",
+      "onboard_time": 1745875994,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 39871,
       "num": 201713,
       "word": "一些数学常见公式",
       "onboard_time": 1745812941,
       "rank": 38,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 39820,
+      "num": 55364,
+      "word": "谢娜回老家和家人一起逛夜市",
+      "onboard_time": 1745875514,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 39748,
@@ -7067,14 +7123,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 37567,
-      "num": 37831,
-      "word": "梁田笑声有多大心里就有多难受",
-      "onboard_time": 1745876174,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 37526,
       "num": 448480,
       "word": "外卖吃一半发现苍蝇商家仅退餐费",
@@ -7113,22 +7161,6 @@
       "onboard_time": 1745756543,
       "rank": 30,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 35906,
-      "num": 35906,
-      "word": "谢娜回老家和家人一起逛夜市",
-      "onboard_time": 1745875514,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 35781,
-      "num": 35781,
-      "word": "比起亲吻更喜欢紧紧相拥",
-      "onboard_time": 1745871374,
-      "rank": 39,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 35757,
@@ -7171,20 +7203,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 35082,
-      "num": 35082,
-      "word": "整个地铁都被谢霆锋包围了",
-      "onboard_time": 1745878996,
-      "rank": 49,
-      "category": "演出,休闲"
-    },
-    {
       "raw_hot": 34909,
       "num": 163613,
       "word": "丧尸街背后的费城",
       "onboard_time": 1745735182,
       "rank": 39,
       "category": "海外新闻,议题讨论"
+    },
+    {
+      "raw_hot": 34298,
+      "num": 55360,
+      "word": "普京感谢协助俄军朝鲜军人",
+      "onboard_time": 1745871674,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 34202,
@@ -7243,6 +7275,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32599,
+      "num": 55357,
+      "word": "我的行李箱差点被武艺拿走了",
+      "onboard_time": 1745882299,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 32489,
+      "num": 55354,
+      "word": "美媒画图说明美家庭离不开中国制造",
+      "onboard_time": 1745865794,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 32245,
       "num": 188815,
       "word": "医院抽血找静脉神器",
@@ -7251,20 +7299,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 31543,
-      "num": 31543,
-      "word": "杨紫说粉丝知道行程比自己快",
-      "onboard_time": 1745875994,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 31322,
       "num": 44596,
       "word": "周深华表奖开场",
       "onboard_time": 1745775436,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 31167,
+      "num": 320716,
+      "word": "稳就业稳经济5方面若干举措",
+      "onboard_time": 1745845342,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30959,
@@ -7281,6 +7329,14 @@
       "onboard_time": 1745745742,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 30528,
+      "num": 188687,
+      "word": "人民的楷模国家的栋梁",
+      "onboard_time": 1745881459,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30324,
@@ -7307,14 +7363,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 29354,
-      "num": 29354,
-      "word": "普京感谢协助俄军朝鲜军人",
-      "onboard_time": 1745871674,
-      "rank": 45,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 29318,
       "num": 150789,
       "word": "大城市婚恋为什么难搞",
@@ -7337,14 +7385,6 @@
       "onboard_time": 1745742142,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 28593,
-      "num": 37903,
-      "word": "美媒画图说明美家庭离不开中国制造",
-      "onboard_time": 1745865794,
-      "rank": 17,
-      "category": "国际时政"
     },
     {
       "raw_hot": 28146,
@@ -7419,14 +7459,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 26732,
-      "num": 28528,
-      "word": "金晨抽中隐藏labubu",
-      "onboard_time": 1745880016,
-      "rank": 46,
-      "category": "艺人,综艺"
-    },
-    {
       "raw_hot": 26431,
       "num": 161278,
       "word": "俄提议送考试未过的学生去战场",
@@ -7457,6 +7489,14 @@
       "onboard_time": 1745691076,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 25507,
+      "num": 55354,
+      "word": "马龙不喜欢看自己比赛回放",
+      "onboard_time": 1745861596,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 25480,
@@ -7649,22 +7689,6 @@
       "onboard_time": 1745863994,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 19565,
-      "num": 28526,
-      "word": "马龙不喜欢看自己比赛回放",
-      "onboard_time": 1745861596,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 19552,
-      "num": 196271,
-      "word": "稳就业稳经济5方面若干举措",
-      "onboard_time": 1745845342,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 19286,
