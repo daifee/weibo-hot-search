@@ -1,0 +1,410 @@
+{
+  "runTime": 1745854907292,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2136993,
+        "num": 2136993,
+        "word": "刘美含致歉",
+        "onboard_time": 1745850803,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 680208,
+        "num": 680208,
+        "word": "医师出轨暴露违规问题更需关注",
+        "onboard_time": 1745850142,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63301,
+        "num": 658668,
+        "word": "游在中国热度不减购在中国蔚然成风",
+        "onboard_time": 1745846002,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 651701,
+        "num": 651701,
+        "word": "刘诗诗回复虞书欣",
+        "onboard_time": 1745844803,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 651476,
+        "num": 651476,
+        "word": "为什么小时候常有的停电好像消失了",
+        "onboard_time": 1745847141,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 577212,
+        "num": 577212,
+        "word": "瑞幸回应4部手机点出3种价格",
+        "onboard_time": 1745851163,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 587527,
+        "num": 521538,
+        "word": "藏海传",
+        "onboard_time": 1745848104,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 314858,
+        "num": 314858,
+        "word": "半个娱乐圈都在追无尽的尽头",
+        "onboard_time": 1745835562,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239708,
+        "num": 239708,
+        "word": "保时捷CEO谈小米SU7Ultra",
+        "onboard_time": 1745850142,
+        "rank": 8,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 172049,
+        "num": 172049,
+        "word": "误诊精神病医生1年后才有执业资格",
+        "onboard_time": 1745852843,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 832821,
+        "num": 171054,
+        "word": "新娘因长相太美被质疑AI换脸",
+        "onboard_time": 1745854402,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 811284,
+        "num": 165411,
+        "word": "徐冬冬晒真实肚子",
+        "onboard_time": 1745853203,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203281,
+        "num": 162711,
+        "word": "孙俪说姐弟恋把我们这戏说俗气了",
+        "onboard_time": 1745841080,
+        "rank": 12,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 27896,
+        "num": 156664,
+        "word": "地铁遭偷拍出结论前不要无端攻击",
+        "onboard_time": 1745853622,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156606,
+        "num": 156606,
+        "word": "酒店机器人3年亏了8个亿",
+        "onboard_time": 1745851345,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 563878,
+        "num": 156340,
+        "word": "上海月薪两万七一天要花多少钱",
+        "onboard_time": 1745848222,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 318501,
+        "num": 155927,
+        "word": "孟子义在飞机上直播",
+        "onboard_time": 1745850023,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307683,
+        "num": 155618,
+        "word": "北大回应网红汤匙被录取",
+        "onboard_time": 1745850621,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 292614,
+        "num": 154683,
+        "word": "密室大逃脱7",
+        "onboard_time": 1745851643,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199547,
+        "num": 154270,
+        "word": "马代遭酒店管家性侵女子再发声",
+        "onboard_time": 1745842282,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259333,
+        "num": 153980,
+        "word": "100块能买到多少榴莲",
+        "onboard_time": 1745854402,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87669,
+        "num": 153574,
+        "word": "张柏芝说没时间恋爱脑",
+        "onboard_time": 1745849842,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242484,
+        "num": 152861,
+        "word": "85竹对打95花",
+        "onboard_time": 1745844022,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 225082,
+        "num": 152393,
+        "word": "柯淳片场随地扔烟头",
+        "onboard_time": 1745845222,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61343,
+        "num": 152189,
+        "word": "林丹说石宇奇背负太多",
+        "onboard_time": 1745852365,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211079,
+        "num": 151599,
+        "word": "孟宴臣父母年轻的时候",
+        "onboard_time": 1745849484,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96759,
+        "num": 151177,
+        "word": "领克900上市一小时大定破万",
+        "onboard_time": 1745852843,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 178462,
+        "num": 150286,
+        "word": "丁禹兮造梗比呼吸还简单",
+        "onboard_time": 1745852064,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159252,
+        "num": 149962,
+        "word": "萧亚轩五次手术后首公开露面",
+        "onboard_time": 1745833341,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18436,
+        "num": 149627,
+        "word": "发现餐饮店设置最低消费标准可举报",
+        "onboard_time": 1745854222,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149291,
+        "num": 149291,
+        "word": "男子申请改48字姓名警方称难过审",
+        "onboard_time": 1745837842,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143853,
+        "num": 143853,
+        "word": "陈少熙晒旋耕二人组合照",
+        "onboard_time": 1745854343,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143725,
+        "num": 143725,
+        "word": "为什么婚恋前要先看体检报告",
+        "onboard_time": 1745854222,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133334,
+        "num": 133334,
+        "word": "胡意旋00后上班即视感",
+        "onboard_time": 1745853263,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132150,
+        "num": 132150,
+        "word": "捡个脸盆被记9分断了多根肋骨",
+        "onboard_time": 1745847141,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122034,
+        "num": 122034,
+        "word": "吃蓝莓前到底要不要洗",
+        "onboard_time": 1745852064,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119246,
+        "num": 119246,
+        "word": "IU登顶韩国福布斯名人榜",
+        "onboard_time": 1745845041,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118621,
+        "num": 118621,
+        "word": "假离婚后拒复婚女子将丈夫告上法院",
+        "onboard_time": 1745843842,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114558,
+        "num": 114558,
+        "word": "丁禹兮陪看淮水竹亭",
+        "onboard_time": 1745854702,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113279,
+        "num": 113279,
+        "word": "何凯文复更",
+        "onboard_time": 1745852485,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 112818,
+        "num": 112818,
+        "word": "黄子弘凡叫自己子弘凡了",
+        "onboard_time": 1745850803,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111383,
+        "num": 111383,
+        "word": "丁禹兮给孟子义打光",
+        "onboard_time": 1745846721,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110186,
+        "num": 110186,
+        "word": "何老师51岁了",
+        "onboard_time": 1745828122,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109854,
+        "num": 109854,
+        "word": "王一博iG发文",
+        "onboard_time": 1745849122,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102748,
+        "num": 102748,
+        "word": "西班牙葡萄牙大范围停电",
+        "onboard_time": 1745845162,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 100776,
+        "num": 100776,
+        "word": "教育局介入女生被老师掌掴致严重抑郁",
+        "onboard_time": 1745851163,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97973,
+        "num": 97973,
+        "word": "贾静雯女儿钟丽缇女儿同框",
+        "onboard_time": 1745844982,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96210,
+        "num": 96210,
+        "word": "魏大勋孙千在我主页走好几天了",
+        "onboard_time": 1745841441,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92279,
+        "num": 92279,
+        "word": "因外貌而引发热议的泰国老虎",
+        "onboard_time": 1745848523,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86687,
+        "num": 86687,
+        "word": "想念郭艾伦",
+        "onboard_time": 1745852004,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平为全国劳模和先进工作者颁发证书#"
+    }
+  }
+}

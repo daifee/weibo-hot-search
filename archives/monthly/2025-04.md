@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/28 23:28:06
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/28 23:41:47
 </p>
 </blockquote>
 <p>
@@ -5835,6 +5835,12 @@ PO回应与雪莉恋情（热度：834785）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%A8%98%E5%9B%A0%E9%95%BF%E7%9B%B8%E5%A4%AA%E7%BE%8E%E8%A2%AB%E8%B4%A8%E7%96%91AI%E6%8D%A2%E8%84%B8%23" target="weibo">
+新娘因长相太美被质疑AI换脸（热度：832821）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%80%90%E7%8E%89%E7%94%B0%E6%9B%A6%E8%96%87%E4%BA%B2%E5%AE%8C%E5%BC%A0%E5%87%8C%E8%B5%AB%E4%BA%B2%23" target="weibo">
 逐玉田曦薇亲完张凌赫亲（热度：832655）
 </a>
@@ -6005,12 +6011,6 @@ bite me男伴舞（热度：832510）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E4%BA%BA%E5%8F%8D%E6%98%A0%E7%94%A8%E9%9D%A2%E8%86%9C%E8%87%B4%E8%84%B8%E9%83%A8%E8%82%BF%E8%83%80%23" target="weibo">
 多人反映用面膜致脸部肿胀（热度：816771）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A5%95%E8%BF%85%E8%BF%9E%E5%8F%9111%E4%B8%AA%E6%84%9F%E5%8F%B9%E5%8F%B7%E8%AF%B4%E9%87%8D%E5%BA%86%E4%BA%86%E4%B8%8D%E5%BE%97%23" target="weibo">
-陈奕迅连发11个感叹号说重庆了不得（热度：816434）
 </a>
 </li>
 
