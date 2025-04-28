@@ -1,0 +1,410 @@
+{
+  "runTime": 1745840772239,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1470564,
+        "num": 1470564,
+        "word": "朝鲜",
+        "onboard_time": 1745836041,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1089070,
+        "num": 1089070,
+        "word": "半个娱乐圈都在追无尽的尽头",
+        "onboard_time": 1745835562,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25615,
+        "num": 1073661,
+        "word": "2426名全国劳模和先进工作者受表彰",
+        "onboard_time": 1745807841,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1073385,
+        "num": 1073385,
+        "word": "辛拉面",
+        "onboard_time": 1745836581,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 788499,
+        "num": 788499,
+        "word": "虞书欣东方淮竹发家史cos",
+        "onboard_time": 1745836101,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 772576,
+        "num": 772576,
+        "word": "男子申请改48字姓名警方称难过审",
+        "onboard_time": 1745837842,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 584256,
+        "num": 584256,
+        "word": "难看",
+        "onboard_time": 1745818463,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 481960,
+        "num": 481960,
+        "word": "萧亚轩五次手术后首公开露面",
+        "onboard_time": 1745833341,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 321112,
+        "num": 321112,
+        "word": "外交部回应朝鲜证实向俄派兵参战",
+        "onboard_time": 1745837122,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 74078,
+        "num": 317225,
+        "word": "警方回应上官正义举报网络贩婴中介",
+        "onboard_time": 1745839221,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 713006,
+        "num": 316969,
+        "word": "蒋一侨长发",
+        "onboard_time": 1745837903,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 392118,
+        "num": 316637,
+        "word": "上班后才懂李慧珍",
+        "onboard_time": 1745837601,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 315861,
+        "num": 315861,
+        "word": "十个勤天演唱会",
+        "onboard_time": 1745837481,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 284194,
+        "num": 284194,
+        "word": "王源广州",
+        "onboard_time": 1745840002,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 130095,
+        "num": 267289,
+        "word": "网友称疑在成都地铁遭人偷拍",
+        "onboard_time": 1745834301,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259046,
+        "num": 259046,
+        "word": "商品房70年产权期满到底归谁",
+        "onboard_time": 1745836822,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239155,
+        "num": 258968,
+        "word": "特朗普回应爱泼斯坦案关键证人自杀",
+        "onboard_time": 1745835320,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 141817,
+        "num": 258362,
+        "word": "整活还得看爱酷的大学生",
+        "onboard_time": 1745840062,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 143516,
+        "num": 258182,
+        "word": "闫桉突袭直播",
+        "onboard_time": 1745840122,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105165,
+        "num": 257757,
+        "word": "限量版iQOO单车谁抢到了",
+        "onboard_time": 1745839641,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 265229,
+        "num": 257215,
+        "word": "45岁快递员五险一金缴费基数8045",
+        "onboard_time": 1745835562,
+        "rank": 20,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 256957,
+        "num": 256957,
+        "word": "唐艺昕否认改名字是为了张若昀",
+        "onboard_time": 1745827401,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250244,
+        "num": 250244,
+        "word": "二本文科生50元吃一个月",
+        "onboard_time": 1745829562,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 247507,
+        "num": 247507,
+        "word": "惠英红 金像金马华表100%得奖率",
+        "onboard_time": 1745836282,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 71663,
+        "num": 204216,
+        "word": "夏以昼家长会",
+        "onboard_time": 1745839641,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 194604,
+        "num": 194604,
+        "word": "古人把废瓷片变为神仙雕花",
+        "onboard_time": 1745839462,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6010,
+        "num": 190550,
+        "word": "淮水竹亭剧情上有哪些更改",
+        "onboard_time": 1745840481,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188804,
+        "num": 188804,
+        "word": "中国女子在菲律宾被绑架蒙眼哭喊",
+        "onboard_time": 1745839162,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70086,
+        "num": 188630,
+        "word": "iQOOZ10Turbo续航太顶了",
+        "onboard_time": 1745838802,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 44651,
+        "num": 188230,
+        "word": "LNG战胜RNG",
+        "onboard_time": 1745840062,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 236978,
+        "num": 187844,
+        "word": "陈赫又把张子萱打码了",
+        "onboard_time": 1745816722,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212501,
+        "num": 187680,
+        "word": "何老师51岁了",
+        "onboard_time": 1745828122,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187467,
+        "num": 187467,
+        "word": "哪吒2出品人回应饺子闭关",
+        "onboard_time": 1745839702,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 154648,
+        "num": 154648,
+        "word": "淮水竹亭直播",
+        "onboard_time": 1745839342,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152741,
+        "num": 152741,
+        "word": "王鹤棣头像和主页背景都换了",
+        "onboard_time": 1745833761,
+        "rank": 34,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 145038,
+        "num": 145038,
+        "word": "榜上佳婿鹤秋太美了",
+        "onboard_time": 1745839882,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142889,
+        "num": 142889,
+        "word": "金饰破千备婚三金成本激增",
+        "onboard_time": 1745831841,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141130,
+        "num": 141130,
+        "word": "淮水竹亭刘诗诗张云龙双人海报",
+        "onboard_time": 1745834602,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133896,
+        "num": 133896,
+        "word": "我承认对淮水竹亭太大声了",
+        "onboard_time": 1745828242,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106187,
+        "num": 129850,
+        "word": "74岁大爷钓鱼50年晒出老抽色",
+        "onboard_time": 1745838681,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129134,
+        "num": 129134,
+        "word": "刘学义敖瑞鹏四年前状态",
+        "onboard_time": 1745837903,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125542,
+        "num": 125542,
+        "word": "谢霆锋诠释了桀骜的全部锋芒",
+        "onboard_time": 1745839342,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 114857,
+        "num": 114857,
+        "word": "代号鸢",
+        "onboard_time": 1745836402,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 101782,
+        "num": 101782,
+        "word": "曹颖想重回36岁陪儿子成长",
+        "onboard_time": 1745838081,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46873,
+        "num": 100506,
+        "word": "朝鲜为何突然证实出兵俄罗斯",
+        "onboard_time": 1745834961,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 99964,
+        "num": 99964,
+        "word": "丁禹兮孟子义淮水竹亭感情戏",
+        "onboard_time": 1745823684,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97054,
+        "num": 97054,
+        "word": "王权弘业有这样的妹妹你几点回家",
+        "onboard_time": 1745840600,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96441,
+        "num": 96441,
+        "word": "如果犯贱是一种天赋",
+        "onboard_time": 1745840600,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 91819,
+        "num": 91819,
+        "word": "刘美含闲置市集卖假货",
+        "onboard_time": 1745822963,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89152,
+        "num": 89152,
+        "word": "特朗普多项承诺要烂尾了",
+        "onboard_time": 1745832621,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记始终心系劳动者#"
+    }
+  }
+}
