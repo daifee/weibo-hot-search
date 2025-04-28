@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/28 23:41:47
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/29 00:30:37
 </p>
 </blockquote>
 <p>
@@ -3003,6 +3003,12 @@ Jennie 妈妈好帅（热度：1273842）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%A8%98%E5%9B%A0%E9%95%BF%E7%9B%B8%E5%A4%AA%E7%BE%8E%E8%A2%AB%E8%B4%A8%E7%96%91AI%E6%8D%A2%E8%84%B8%23" target="weibo">
+新娘因长相太美被质疑AI换脸（热度：1246935）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%20%E6%B7%AE%E6%B0%B4%E7%AB%B9%E4%BA%AD%23" target="weibo">
 爱奇艺 淮水竹亭（热度：1246238）
 </a>
@@ -5831,12 +5837,6 @@ PO回应与雪莉恋情（热度：834785）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AF%B9%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E6%88%98%E6%9C%8D%E8%BD%AF%E6%9C%89%E7%94%A8%E5%90%97%23" target="weibo">
 对特朗普关税战服软有用吗（热度：834084）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%A8%98%E5%9B%A0%E9%95%BF%E7%9B%B8%E5%A4%AA%E7%BE%8E%E8%A2%AB%E8%B4%A8%E7%96%91AI%E6%8D%A2%E8%84%B8%23" target="weibo">
-新娘因长相太美被质疑AI换脸（热度：832821）
 </a>
 </li>
 
