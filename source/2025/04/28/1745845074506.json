@@ -1,0 +1,410 @@
+{
+  "runTime": 1745845074506,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1035888,
+        "num": 1165742,
+        "word": "马代遭酒店管家性侵女子再发声",
+        "onboard_time": 1745842282,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 857627,
+        "num": 857627,
+        "word": "男子申请改48字姓名警方称难过审",
+        "onboard_time": 1745837842,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49078,
+        "num": 857192,
+        "word": "中国游中国购持续升温",
+        "onboard_time": 1745827701,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 857144,
+        "num": 857144,
+        "word": "虞书欣让刘诗诗看看她",
+        "onboard_time": 1745841502,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 646378,
+        "num": 646378,
+        "word": "半个娱乐圈都在追无尽的尽头",
+        "onboard_time": 1745835562,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 541681,
+        "num": 541681,
+        "word": "普京宣布将停火72小时",
+        "onboard_time": 1745841022,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 577313,
+        "num": 496331,
+        "word": "魏大勋孙千在我主页走好几天了",
+        "onboard_time": 1745841441,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 296319,
+        "num": 296319,
+        "word": "假离婚后拒复婚女子将丈夫告上法院",
+        "onboard_time": 1745843842,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272444,
+        "num": 272444,
+        "word": "商品房70年产权期满到底归谁",
+        "onboard_time": 1745836822,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200408,
+        "num": 271704,
+        "word": "哪吒2出品人回应饺子闭关",
+        "onboard_time": 1745839702,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 499979,
+        "num": 270369,
+        "word": "蒋一侨长发",
+        "onboard_time": 1745837903,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 433910,
+        "num": 269133,
+        "word": "85竹对打95花",
+        "onboard_time": 1745844022,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 380942,
+        "num": 266076,
+        "word": "上班后才懂李慧珍",
+        "onboard_time": 1745837601,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 301915,
+        "num": 264568,
+        "word": "淮水竹亭直播",
+        "onboard_time": 1745839342,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264259,
+        "num": 264259,
+        "word": "近期中美元首没有通话",
+        "onboard_time": 1745840781,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 257816,
+        "num": 257816,
+        "word": "西班牙停电",
+        "onboard_time": 1745841202,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 236197,
+        "num": 236197,
+        "word": "仙逆将影视化",
+        "onboard_time": 1745842102,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 185158,
+        "num": 185158,
+        "word": "二本文科生50元吃一个月",
+        "onboard_time": 1745829562,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 81689,
+        "num": 185113,
+        "word": "大学生出行神器iQOO手机",
+        "onboard_time": 1745841802,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 11934,
+        "num": 179327,
+        "word": "萧亚轩五次手术后亮相状态如何",
+        "onboard_time": 1745844081,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 356588,
+        "num": 178672,
+        "word": "萧亚轩五次手术后首公开露面",
+        "onboard_time": 1745833341,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240687,
+        "num": 174287,
+        "word": "孙俪说姐弟恋把我们这戏说俗气了",
+        "onboard_time": 1745841080,
+        "rank": 21,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 203688,
+        "num": 172767,
+        "word": "丁禹兮直播",
+        "onboard_time": 1745844201,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169962,
+        "num": 169962,
+        "word": "十个勤天演唱会",
+        "onboard_time": 1745837481,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 153473,
+        "num": 169895,
+        "word": "樊振东超级全满贯的影响力",
+        "onboard_time": 1745843362,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169828,
+        "num": 169828,
+        "word": "何老师51岁了",
+        "onboard_time": 1745828122,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81307,
+        "num": 162878,
+        "word": "半个中国的文旅在荣耀团建",
+        "onboard_time": 1745841802,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 151900,
+        "num": 159090,
+        "word": "中国女子在菲律宾被绑架蒙眼哭喊",
+        "onboard_time": 1745839162,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133712,
+        "num": 159044,
+        "word": "男子偷盗刮刮乐刮出1550元",
+        "onboard_time": 1745844081,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159028,
+        "num": 159028,
+        "word": "刘诗诗新剧角色第一视角",
+        "onboard_time": 1745843962,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156733,
+        "num": 156733,
+        "word": "辛拉面",
+        "onboard_time": 1745836581,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147784,
+        "num": 147784,
+        "word": "王源广州",
+        "onboard_time": 1745840002,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 144338,
+        "num": 144338,
+        "word": "女子寻亲18年与儿团聚5个月后去世",
+        "onboard_time": 1745843782,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136313,
+        "num": 136313,
+        "word": "虞书欣东方淮竹发家史cos",
+        "onboard_time": 1745836101,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134007,
+        "num": 134007,
+        "word": "森林北直播带货",
+        "onboard_time": 1745844741,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 128003,
+        "num": 128003,
+        "word": "李兰迪怼脸",
+        "onboard_time": 1745841981,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116336,
+        "num": 123933,
+        "word": "国羽晋级苏杯八强",
+        "onboard_time": 1745842942,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121094,
+        "num": 121094,
+        "word": "刘诗诗回复虞书欣",
+        "onboard_time": 1745844803,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117228,
+        "num": 117228,
+        "word": "网友称疑在成都地铁遭人偷拍",
+        "onboard_time": 1745834301,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117109,
+        "num": 117109,
+        "word": "周深又在剧里唱走侯明昊",
+        "onboard_time": 1745843842,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109972,
+        "num": 109972,
+        "word": "BLG辅核",
+        "onboard_time": 1745844920,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 710844,
+        "num": 109481,
+        "word": "难看",
+        "onboard_time": 1745818463,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107852,
+        "num": 107852,
+        "word": "贾静雯女儿钟丽缇女儿同框",
+        "onboard_time": 1745844982,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107438,
+        "num": 107438,
+        "word": "CBA",
+        "onboard_time": 1745842402,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107040,
+        "num": 107040,
+        "word": "AG运营",
+        "onboard_time": 1745842583,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 105354,
+        "num": 105354,
+        "word": "小米称正在加急设计更多水印样式",
+        "onboard_time": 1745844442,
+        "rank": 45,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 104425,
+        "num": 104425,
+        "word": "林志玲为刘诗诗新剧打call",
+        "onboard_time": 1745843422,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104405,
+        "num": 104405,
+        "word": "IU登顶韩国福布斯名人榜",
+        "onboard_time": 1745845041,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102381,
+        "num": 102381,
+        "word": "刘学义 当了五百年的仙女姐姐",
+        "onboard_time": 1745842643,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102200,
+        "num": 102200,
+        "word": "惠英红 金像金马华表100%得奖率",
+        "onboard_time": 1745836282,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记始终心系劳动者#"
+    }
+  }
+}
