@@ -1,0 +1,410 @@
+{
+  "runTime": 1745822514119,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1350985,
+        "num": 1350985,
+        "word": "医生肖飞出轨多名女同事",
+        "onboard_time": 1745815522,
+        "rank": 0,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 919060,
+        "num": 919060,
+        "word": "专家建议拿身份证消费就减免25%",
+        "onboard_time": 1745818341,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178535,
+        "num": 419191,
+        "word": "公安网安提示朋友圈什么不能发",
+        "onboard_time": 1745816182,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1930436,
+        "num": 403095,
+        "word": "难看",
+        "onboard_time": 1745818463,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1117958,
+        "num": 375550,
+        "word": "陈赫又把张子萱打码了",
+        "onboard_time": 1745816722,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332224,
+        "num": 332224,
+        "word": "男孩被生母继父虐待致死案宣判",
+        "onboard_time": 1745815943,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 599078,
+        "num": 314118,
+        "word": "王一栩 魔改",
+        "onboard_time": 1745821463,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 580294,
+        "num": 300866,
+        "word": "关晓彤回应造型争议称只为走路方便",
+        "onboard_time": 1745814382,
+        "rank": 7,
+        "category": "电影,艺人"
+      },
+      {
+        "raw_hot": 275416,
+        "num": 275416,
+        "word": "特朗普态度突变威胁制裁俄罗斯",
+        "onboard_time": 1745818283,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 229402,
+        "num": 229402,
+        "word": "协和的4加4确实难以理解",
+        "onboard_time": 1745815823,
+        "rank": 9,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 545410,
+        "num": 228772,
+        "word": "京东快递员称入职13年工资100多万",
+        "onboard_time": 1745819903,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 368869,
+        "num": 225053,
+        "word": "赵丽颖方可再合作",
+        "onboard_time": 1745817323,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343517,
+        "num": 224225,
+        "word": "吴宣仪新剧刁蛮公主再现",
+        "onboard_time": 1745818403,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 320340,
+        "num": 221072,
+        "word": "女子吃小龙虾竟剥出多颗珠子",
+        "onboard_time": 1745803342,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 302263,
+        "num": 218548,
+        "word": "毛不易不接受断崖式分手",
+        "onboard_time": 1745820143,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278468,
+        "num": 216928,
+        "word": "淮水竹亭",
+        "onboard_time": 1745812703,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215975,
+        "num": 215975,
+        "word": "甘肃地震",
+        "onboard_time": 1745817682,
+        "rank": 16,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 172345,
+        "num": 172345,
+        "word": "樊振东等2426人受表彰",
+        "onboard_time": 1745820922,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165246,
+        "num": 165246,
+        "word": "肖飞 董袭莹",
+        "onboard_time": 1745802921,
+        "rank": 18,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 52035,
+        "num": 155930,
+        "word": "麦子阿姨想带老公去旅游",
+        "onboard_time": 1745819121,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242145,
+        "num": 155919,
+        "word": "张译决定暂时息影",
+        "onboard_time": 1745801903,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 155159,
+        "num": 155159,
+        "word": "王鸥亲爱的何老师生日快乐",
+        "onboard_time": 1745821703,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204111,
+        "num": 151864,
+        "word": "乘风2025官宣8位师姐回归",
+        "onboard_time": 1745810301,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183856,
+        "num": 151535,
+        "word": "半熟4感情里的悲喜各不相通",
+        "onboard_time": 1745822123,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148074,
+        "num": 148074,
+        "word": "原来睡觉真的可以减脂",
+        "onboard_time": 1745821643,
+        "rank": 24,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 129438,
+        "num": 145910,
+        "word": "泡泡玛特登美国AppStore购物榜第一",
+        "onboard_time": 1745820442,
+        "rank": 25,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 100972,
+        "num": 145299,
+        "word": "她耗时2天用蛋糕复刻妇好鸮尊",
+        "onboard_time": 1745821403,
+        "rank": 26,
+        "category": "民生新闻,民生新闻"
+      },
+      {
+        "raw_hot": 145296,
+        "num": 145296,
+        "word": "用人民币感受韩国工资水平",
+        "onboard_time": 1745808621,
+        "rank": 27,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 144257,
+        "num": 144257,
+        "word": "王者荣耀崩了",
+        "onboard_time": 1745811262,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 52863,
+        "num": 143214,
+        "word": "朱开怒喷Daeny",
+        "onboard_time": 1745821583,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 142860,
+        "num": 142860,
+        "word": "谢霆锋儿子和奶奶坐一起",
+        "onboard_time": 1745818041,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 137457,
+        "num": 137457,
+        "word": "韩安冉老公维护小猪妹",
+        "onboard_time": 1745816844,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 134516,
+        "num": 134516,
+        "word": "何同学复更仍在掉粉",
+        "onboard_time": 1745822302,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 132879,
+        "num": 132879,
+        "word": "惠英红 我是65岁不是56岁",
+        "onboard_time": 1745813241,
+        "rank": 33,
+        "category": "电影,艺人"
+      },
+      {
+        "raw_hot": 125996,
+        "num": 125996,
+        "word": "警犬福仔上班偷吃小朋友烤肠",
+        "onboard_time": 1745821583,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122983,
+        "num": 122983,
+        "word": "我国将出台稳就业稳经济若干举措",
+        "onboard_time": 1745809161,
+        "rank": 35,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 122055,
+        "num": 122055,
+        "word": "嵌入式冰箱避坑的3个冷知识",
+        "onboard_time": 1745821643,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118239,
+        "num": 118239,
+        "word": "崩坏星穹铁道",
+        "onboard_time": 1745821643,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 118182,
+        "num": 118182,
+        "word": "王者荣耀三丽鸥",
+        "onboard_time": 1745798782,
+        "rank": 38,
+        "category": "电竞,游戏"
+      },
+      {
+        "raw_hot": 112101,
+        "num": 112101,
+        "word": "反诈老陈称已将通缉照走红女子拉黑",
+        "onboard_time": 1745802621,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68593,
+        "num": 108540,
+        "word": "这部古偶三观还是太正了",
+        "onboard_time": 1745819601,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35757,
+        "num": 106005,
+        "word": "詹姆斯对球手一体判罚不满有何争议",
+        "onboard_time": 1745822483,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87468,
+        "num": 106004,
+        "word": "美国猪肉净销售量骤降超70%",
+        "onboard_time": 1745820502,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 106004,
+        "num": 106003,
+        "word": "朝鲜证实出兵俄罗斯",
+        "onboard_time": 1745805982,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 105289,
+        "num": 105289,
+        "word": "樊振东穿奥运领奖服戴奖章",
+        "onboard_time": 1745813843,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32576,
+        "num": 101269,
+        "word": "宝马齐普策对话吴晓波畅聊新世代",
+        "onboard_time": 1745816782,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 99758,
+        "num": 99758,
+        "word": "石凯前女友 等解除协议我将不再沉默",
+        "onboard_time": 1745796919,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96281,
+        "num": 96281,
+        "word": "你不可能张着嘴说出B",
+        "onboard_time": 1745818883,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95399,
+        "num": 95399,
+        "word": "宇露君沾",
+        "onboard_time": 1745822362,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86003,
+        "num": 86003,
+        "word": "张杰备战",
+        "onboard_time": 1745820742,
+        "rank": 49,
+        "category": "演出,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#光荣属于劳动者幸福属于劳动者#"
+    }
+  }
+}
