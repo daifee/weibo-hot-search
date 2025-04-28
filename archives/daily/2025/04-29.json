@@ -1,6 +1,6 @@
 {
   "startTime": 1745857837371,
-  "endTime": 1745857837371,
+  "endTime": 1745858763918,
   "band_list": [
     {
       "raw_hot": 1246935,
@@ -91,6 +91,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 271504,
+      "num": 196102,
+      "word": "为什么婚恋前要先看体检报告",
+      "onboard_time": 1745854222,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 210350,
       "num": 210350,
       "word": "误诊精神病医生1年后才有执业资格",
@@ -105,14 +113,6 @@
       "onboard_time": 1745855901,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 196102,
-      "num": 196102,
-      "word": "为什么婚恋前要先看体检报告",
-      "onboard_time": 1745854222,
-      "rank": 14,
-      "category": "情感"
     },
     {
       "raw_hot": 178821,
@@ -203,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89548,
+      "num": 134284,
+      "word": "孙艺洲唱死了都要爱",
+      "onboard_time": 1745857459,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 88595,
       "num": 88595,
       "word": "黄子弘凡叫自己子弘凡了",
@@ -225,14 +233,6 @@
       "onboard_time": 1745852485,
       "rank": 29,
       "category": "教育"
-    },
-    {
-      "raw_hot": 81792,
-      "num": 81792,
-      "word": "孙艺洲唱死了都要爱",
-      "onboard_time": 1745857459,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 79764,
@@ -331,6 +331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 62503,
+      "num": 62503,
+      "word": "森林北直播带货",
+      "onboard_time": 1745844741,
+      "rank": 48,
+      "category": "网红"
+    },
+    {
       "raw_hot": 62226,
       "num": 62226,
       "word": "这些声音里藏着他们的劳动荣光",
@@ -339,12 +347,20 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 61522,
-      "num": 61522,
-      "word": "森林北直播带货",
-      "onboard_time": 1745844741,
-      "rank": 48,
-      "category": "网红"
+      "raw_hot": 61063,
+      "num": 61063,
+      "word": "今年首个蛇年蛇月蛇日蛇时",
+      "onboard_time": 1745849003,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60845,
+      "num": 60845,
+      "word": "主动一点其实没那么难",
+      "onboard_time": 1745855482,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 58700,
@@ -353,6 +369,30 @@
       "onboard_time": 1745852064,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55057,
+      "num": 57302,
+      "word": "贾静雯女儿钟丽缇女儿同框",
+      "onboard_time": 1745844982,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 50720,
+      "num": 146980,
+      "word": "加拿大总理称美利坚合众国名存实亡",
+      "onboard_time": 1745850686,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 47909,
+      "num": 57291,
+      "word": "卓沅记录一下人生第一次插秧",
+      "onboard_time": 1745858418,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 47376,
@@ -371,12 +411,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 39594,
-      "num": 74909,
-      "word": "加拿大总理称美利坚合众国名存实亡",
-      "onboard_time": 1745850686,
-      "rank": 40,
-      "category": "国际时政"
+      "raw_hot": 31514,
+      "num": 57286,
+      "word": "李晓霞晒与樊振东合影",
+      "onboard_time": 1745850383,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 27512,
@@ -385,6 +425,14 @@
       "onboard_time": 1745857639,
       "rank": 20,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 27364,
+      "num": 57279,
+      "word": "马龙哪句话曾激励过你",
+      "onboard_time": 1745858719,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 15608,
@@ -406,6 +454,9 @@
   "hotgov_list": [
     {
       "word": "#习近平向广大劳动群众致以诚挚问候#"
+    },
+    {
+      "word": "#习近平为全国劳模和先进工作者颁发证书#"
     }
   ]
 }

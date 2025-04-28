@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1745857837371,
+  "endTime": 1745858763918,
   "band_list": [
     {
       "raw_hot": 8960529,
@@ -2067,6 +2067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 271504,
+      "num": 196102,
+      "word": "为什么婚恋前要先看体检报告",
+      "onboard_time": 1745854222,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 271039,
       "num": 271039,
       "word": "淮水竹亭包场",
@@ -2945,14 +2953,6 @@
       "onboard_time": 1745730323,
       "rank": 31,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 196102,
-      "num": 196102,
-      "word": "为什么婚恋前要先看体检报告",
-      "onboard_time": 1745854222,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 194787,
@@ -6003,6 +6003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89548,
+      "num": 134284,
+      "word": "孙艺洲唱死了都要爱",
+      "onboard_time": 1745857459,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 89161,
       "num": 89161,
       "word": "AGEven官宣复出",
@@ -6177,14 +6185,6 @@
       "onboard_time": 1745845522,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 81792,
-      "num": 81792,
-      "word": "孙艺洲唱死了都要爱",
-      "onboard_time": 1745857459,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 81689,
@@ -6563,6 +6563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60845,
+      "num": 60845,
+      "word": "主动一点其实没那么难",
+      "onboard_time": 1745855482,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 60465,
       "num": 149844,
       "word": "你要平整土地而非焦虑时光",
@@ -6785,6 +6793,14 @@
       "onboard_time": 1745759243,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47909,
+      "num": 57291,
+      "word": "卓沅记录一下人生第一次插秧",
+      "onboard_time": 1745858418,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 47477,
@@ -7257,6 +7273,14 @@
       "onboard_time": 1745857639,
       "rank": 20,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 27364,
+      "num": 57279,
+      "word": "马龙哪句话曾激励过你",
+      "onboard_time": 1745858719,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 27122,
