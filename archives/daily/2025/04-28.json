@@ -1,6 +1,6 @@
 {
   "startTime": 1745771302155,
-  "endTime": 1745812502891,
+  "endTime": 1745814650195,
   "band_list": [
     {
       "raw_hot": 5235330,
@@ -49,6 +49,14 @@
       "onboard_time": 1745808020,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1059745,
+      "num": 672150,
+      "word": "惠英红 我是65岁不是56岁",
+      "onboard_time": 1745813241,
+      "rank": 3,
+      "category": "电影,艺人"
     },
     {
       "raw_hot": 1052886,
@@ -107,6 +115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 700163,
+      "num": 501710,
+      "word": "张译决定暂时息影",
+      "onboard_time": 1745801903,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 697462,
       "num": 697462,
       "word": "小米全球总部15元的员工晚餐",
@@ -115,12 +131,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 672045,
+      "num": 672045,
+      "word": "王者荣耀崩了",
+      "onboard_time": 1745811262,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 671795,
       "num": 671795,
       "word": "因通缉照走红女子账号被封",
       "onboard_time": 1745781614,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 664899,
+      "num": 515962,
+      "word": "淮水竹亭OST全阵容",
+      "onboard_time": 1745810902,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 662656,
@@ -137,6 +169,14 @@
       "onboard_time": 1745803283,
       "rank": 5,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 648740,
+      "num": 479319,
+      "word": "用人民币感受韩国工资水平",
+      "onboard_time": 1745808621,
+      "rank": 30,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 631256,
@@ -195,14 +235,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 515962,
-      "num": 515962,
-      "word": "淮水竹亭OST全阵容",
-      "onboard_time": 1745810902,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 509651,
       "num": 509651,
       "word": "钟丽丽也知道自己演的白蛇很迷人吧",
@@ -217,6 +249,14 @@
       "onboard_time": 1745806342,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 503977,
+      "num": 331919,
+      "word": "淮水竹亭",
+      "onboard_time": 1745812703,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 461871,
@@ -291,14 +331,6 @@
       "category": "美食,艺人"
     },
     {
-      "raw_hot": 366347,
-      "num": 366347,
-      "word": "王者荣耀崩了",
-      "onboard_time": 1745811262,
-      "rank": 15,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 366243,
       "num": 166441,
       "word": "酒肉情侣",
@@ -313,14 +345,6 @@
       "onboard_time": 1745810182,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 315826,
-      "num": 315826,
-      "word": "用人民币感受韩国工资水平",
-      "onboard_time": 1745808621,
-      "rank": 30,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 309034,
@@ -345,6 +369,22 @@
       "onboard_time": 1745765964,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 271039,
+      "num": 271039,
+      "word": "淮水竹亭包场",
+      "onboard_time": 1745813722,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 265346,
+      "num": 239888,
+      "word": "关晓彤回应造型争议称只为走路方便",
+      "onboard_time": 1745814382,
+      "rank": 29,
+      "category": "电影,艺人"
     },
     {
       "raw_hot": 253550,
@@ -387,12 +427,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 233851,
+      "num": 455173,
+      "word": "俄军官称部队有朝鲜人美国欧洲都害怕",
+      "onboard_time": 1745813182,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 233586,
       "num": 166052,
       "word": "石凯避重就轻",
       "onboard_time": 1745774177,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 227983,
+      "num": 227983,
+      "word": "樊振东穿奥运领奖服戴奖章",
+      "onboard_time": 1745813843,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 225176,
@@ -425,6 +481,14 @@
       "onboard_time": 1745811441,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 217720,
+      "num": 217720,
+      "word": "上城士赵丽颖",
+      "onboard_time": 1745813963,
+      "rank": 34,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 212003,
@@ -505,6 +569,14 @@
       "onboard_time": 1745810422,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190360,
+      "num": 190360,
+      "word": "将定向增发购车指标",
+      "onboard_time": 1745812521,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 190030,
@@ -600,6 +672,22 @@
       "word": "刘诗诗14年前舞梅vs14年后舞竹",
       "onboard_time": 1745810840,
       "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 170029,
+      "num": 170029,
+      "word": "京东外卖晒猪猪侠入职申请表",
+      "onboard_time": 1745812881,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 169487,
+      "num": 169487,
+      "word": "楚幽篁我承认之前声音太大",
+      "onboard_time": 1745814202,
+      "rank": 46,
       "category": "剧集"
     },
     {
@@ -851,6 +939,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 126584,
+      "num": 434791,
+      "word": "苹果天猫官旗上线全国国补",
+      "onboard_time": 1745812881,
+      "rank": 14,
+      "category": "数码"
+    },
+    {
       "raw_hot": 124029,
       "num": 115106,
       "word": "谢霆锋带儿子吃饭",
@@ -892,7 +988,7 @@
     },
     {
       "raw_hot": 119729,
-      "num": 119729,
+      "num": 200316,
       "word": "田静复更",
       "onboard_time": 1745805441,
       "rank": 48,
@@ -995,6 +1091,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 99851,
+      "num": 415751,
+      "word": "10秒内未接节假日值班电话被通报",
+      "onboard_time": 1745813301,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99471,
       "num": 99471,
       "word": "马龙回应里约奥运会换球衣翻盘",
@@ -1020,7 +1124,7 @@
     },
     {
       "raw_hot": 96387,
-      "num": 343459,
+      "num": 399567,
       "word": "赢了妆也没输",
       "onboard_time": 1745811262,
       "rank": 17,
@@ -1081,6 +1185,14 @@
       "onboard_time": 1745762183,
       "rank": 37,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 85469,
+      "num": 239351,
+      "word": "恋与深空 祁煜",
+      "onboard_time": 1745797400,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 84471,
@@ -1179,12 +1291,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 75116,
+      "num": 240084,
+      "word": "哪些人群容易被HPV盯上",
+      "onboard_time": 1745813062,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 71569,
       "num": 69256,
       "word": "刘亦菲总结了一次次肯定",
       "onboard_time": 1745772798,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 69741,
+      "num": 479360,
+      "word": "特朗普再对俄发制裁威胁",
+      "onboard_time": 1745813664,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 67572,
@@ -1347,6 +1475,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 39871,
+      "num": 201713,
+      "word": "一些数学常见公式",
+      "onboard_time": 1745812941,
+      "rank": 38,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 38450,
       "num": 177849,
       "word": "广州和佛山暴雨倾盆",
@@ -1491,6 +1627,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 15921,
+      "num": 348907,
+      "word": "张译为何在巅峰期选择息影",
+      "onboard_time": 1745814083,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 12094,
       "num": 36003,
       "word": "神十九神二十乘组交接",
@@ -1520,6 +1664,14 @@
       "word": "6部门进一步优化离境退税",
       "onboard_time": 1745786173,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7630,
+      "num": 672220,
+      "word": "外国游客退完税转头接着买买买",
+      "onboard_time": 1745814621,
+      "rank": 2,
       "category": "民生新闻"
     }
   ],
