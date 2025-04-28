@@ -1,6 +1,6 @@
 {
   "startTime": 1745771302155,
-  "endTime": 1745822514119,
+  "endTime": 1745823282037,
   "band_list": [
     {
       "raw_hot": 5235330,
@@ -275,6 +275,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 540758,
+      "num": 219658,
+      "word": "曝任贤齐买下青岛一条街房产",
+      "onboard_time": 1745822723,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 534142,
       "num": 534142,
       "word": "淮水竹亭",
@@ -435,6 +443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 356497,
+      "num": 218548,
+      "word": "毛不易不接受断崖式分手",
+      "onboard_time": 1745820143,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 343517,
       "num": 258390,
       "word": "吴宣仪新剧刁蛮公主再现",
@@ -465,14 +481,6 @@
       "onboard_time": 1745805441,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 302263,
-      "num": 218548,
-      "word": "毛不易不接受断崖式分手",
-      "onboard_time": 1745820143,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 289804,
@@ -755,6 +763,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 188428,
+      "num": 188428,
+      "word": "王鸥亲爱的何老师生日快乐",
+      "onboard_time": 1745821703,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186946,
       "num": 186946,
       "word": "终于懂老年人对时代的无力感了",
@@ -780,7 +796,7 @@
     },
     {
       "raw_hot": 183856,
-      "num": 151535,
+      "num": 163990,
       "word": "半熟4感情里的悲喜各不相通",
       "onboard_time": 1745822123,
       "rank": 23,
@@ -915,6 +931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159651,
+      "num": 223276,
+      "word": "何同学复更仍在掉粉",
+      "onboard_time": 1745822302,
+      "rank": 32,
+      "category": "网红"
+    },
+    {
       "raw_hot": 159076,
       "num": 159076,
       "word": "谢霆锋儿子和奶奶坐一起",
@@ -937,14 +961,6 @@
       "onboard_time": 1745805622,
       "rank": 27,
       "category": "剧集,艺人"
-    },
-    {
-      "raw_hot": 155159,
-      "num": 155159,
-      "word": "王鸥亲爱的何老师生日快乐",
-      "onboard_time": 1745821703,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 154915,
@@ -1035,6 +1051,14 @@
       "category": "美妆,时尚"
     },
     {
+      "raw_hot": 146877,
+      "num": 146877,
+      "word": "警犬福仔上班偷吃小朋友烤肠",
+      "onboard_time": 1745821583,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146705,
       "num": 146705,
       "word": "大侦探",
@@ -1123,12 +1147,20 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 134516,
-      "num": 134516,
-      "word": "何同学复更仍在掉粉",
-      "onboard_time": 1745822302,
-      "rank": 32,
-      "category": "网红"
+      "raw_hot": 132650,
+      "num": 132650,
+      "word": "刘美含闲置市集卖假货",
+      "onboard_time": 1745822963,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 130899,
+      "num": 168867,
+      "word": "泡泡玛特登美国AppStore购物榜第一",
+      "onboard_time": 1745820442,
+      "rank": 25,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 130388,
@@ -1147,12 +1179,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 129438,
-      "num": 145910,
-      "word": "泡泡玛特登美国AppStore购物榜第一",
-      "onboard_time": 1745820442,
-      "rank": 25,
-      "category": "互联网,财经"
+      "raw_hot": 128559,
+      "num": 128559,
+      "word": "打车打到陶喆了",
+      "onboard_time": 1745822723,
+      "rank": 34,
+      "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 128385,
+      "num": 128385,
+      "word": "宇露君沾",
+      "onboard_time": 1745822362,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 127906,
@@ -1201,14 +1241,6 @@
       "onboard_time": 1745816182,
       "rank": 44,
       "category": "健康医疗,民生新闻"
-    },
-    {
-      "raw_hot": 125996,
-      "num": 125996,
-      "word": "警犬福仔上班偷吃小朋友烤肠",
-      "onboard_time": 1745821583,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 124029,
@@ -1289,6 +1321,14 @@
       "onboard_time": 1745821643,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 117856,
+      "num": 117856,
+      "word": "让宋佳接不住戏的人出现了",
+      "onboard_time": 1745822963,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 117544,
@@ -1395,6 +1435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103794,
+      "num": 103794,
+      "word": "刘奕畅说柯淳是少见的天赋型演员",
+      "onboard_time": 1745823142,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 102241,
       "num": 119840,
       "word": "天链二号05星发射成功",
@@ -1425,6 +1473,14 @@
       "onboard_time": 1745765783,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 100168,
+      "num": 281842,
+      "word": "麦子阿姨想带老公去旅游",
+      "onboard_time": 1745819121,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99851,
@@ -1475,6 +1531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 96089,
+      "num": 106004,
+      "word": "美国猪肉净销售量骤降超70%",
+      "onboard_time": 1745820502,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 95919,
       "num": 89471,
       "word": "这对双胞胎真是一个天上一个地下",
@@ -1489,14 +1553,6 @@
       "onboard_time": 1745805321,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 95399,
-      "num": 95399,
-      "word": "宇露君沾",
-      "onboard_time": 1745822362,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 95389,
@@ -1537,14 +1593,6 @@
       "onboard_time": 1745762183,
       "rank": 37,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 87468,
-      "num": 106004,
-      "word": "美国猪肉净销售量骤降超70%",
-      "onboard_time": 1745820502,
-      "rank": 42,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 87379,
@@ -1667,6 +1715,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 75130,
+      "num": 128431,
+      "word": "原来真的有种病叫旅行者腹泻",
+      "onboard_time": 1745823023,
+      "rank": 35,
+      "category": "健康医疗,旅游"
+    },
+    {
       "raw_hot": 75116,
       "num": 240084,
       "word": "哪些人群容易被HPV盯上",
@@ -1691,20 +1747,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 71066,
+      "num": 149620,
+      "word": "这部古偶三观还是太正了",
+      "onboard_time": 1745819601,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 69741,
       "num": 479360,
       "word": "特朗普再对俄发制裁威胁",
       "onboard_time": 1745813664,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 68593,
-      "num": 108540,
-      "word": "这部古偶三观还是太正了",
-      "onboard_time": 1745819601,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 67572,
@@ -1819,14 +1875,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 52035,
-      "num": 281842,
-      "word": "麦子阿姨想带老公去旅游",
-      "onboard_time": 1745819121,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 51214,
       "num": 61155,
       "word": "景甜庄达菲生图",
@@ -1865,6 +1913,14 @@
       "onboard_time": 1745796740,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 42172,
+      "num": 118017,
+      "word": "饭后刮油操",
+      "onboard_time": 1745822782,
+      "rank": 38,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 41817,
@@ -1932,7 +1988,7 @@
     },
     {
       "raw_hot": 35757,
-      "num": 106005,
+      "num": 183325,
       "word": "詹姆斯对球手一体判罚不满有何争议",
       "onboard_time": 1745822483,
       "rank": 41,

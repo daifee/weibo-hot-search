@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1745822514119,
+  "endTime": 1745823282037,
   "band_list": [
     {
       "raw_hot": 8960529,
@@ -827,6 +827,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 540758,
+      "num": 219658,
+      "word": "曝任贤齐买下青岛一条街房产",
+      "onboard_time": 1745822723,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 536588,
       "num": 322900,
       "word": "金像奖获奖名单",
@@ -1243,6 +1251,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 356497,
+      "num": 218548,
+      "word": "毛不易不接受断崖式分手",
+      "onboard_time": 1745820143,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 353546,
       "num": 267462,
       "word": "虞书欣直播",
@@ -1417,14 +1433,6 @@
       "onboard_time": 1745758762,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 302263,
-      "num": 218548,
-      "word": "毛不易不接受断崖式分手",
-      "onboard_time": 1745820143,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 300230,
@@ -2419,6 +2427,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 188428,
+      "num": 188428,
+      "word": "王鸥亲爱的何老师生日快乐",
+      "onboard_time": 1745821703,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187990,
       "num": 187990,
       "word": "九尾变身捕鱼高手",
@@ -2516,7 +2532,7 @@
     },
     {
       "raw_hot": 183856,
-      "num": 151535,
+      "num": 163990,
       "word": "半熟4感情里的悲喜各不相通",
       "onboard_time": 1745822123,
       "rank": 23,
@@ -2883,6 +2899,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 159651,
+      "num": 223276,
+      "word": "何同学复更仍在掉粉",
+      "onboard_time": 1745822302,
+      "rank": 32,
+      "category": "网红"
+    },
+    {
       "raw_hot": 159352,
       "num": 159352,
       "word": "罕见双头猫已存活5天",
@@ -2977,14 +3001,6 @@
       "onboard_time": 1745805622,
       "rank": 27,
       "category": "剧集,艺人"
-    },
-    {
-      "raw_hot": 155159,
-      "num": 155159,
-      "word": "王鸥亲爱的何老师生日快乐",
-      "onboard_time": 1745821703,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 154915,
@@ -3169,6 +3185,14 @@
       "onboard_time": 1745810121,
       "rank": 44,
       "category": "美妆,时尚"
+    },
+    {
+      "raw_hot": 146877,
+      "num": 146877,
+      "word": "警犬福仔上班偷吃小朋友烤肠",
+      "onboard_time": 1745821583,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 146705,
@@ -3531,14 +3555,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 134516,
-      "num": 134516,
-      "word": "何同学复更仍在掉粉",
-      "onboard_time": 1745822302,
-      "rank": 32,
-      "category": "网红"
-    },
-    {
       "raw_hot": 133893,
       "num": 279338,
       "word": "米雪69岁状态",
@@ -3569,6 +3585,14 @@
       "onboard_time": 1745724922,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 132650,
+      "num": 132650,
+      "word": "刘美含闲置市集卖假货",
+      "onboard_time": 1745822963,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 132626,
@@ -3619,6 +3643,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 130899,
+      "num": 168867,
+      "word": "泡泡玛特登美国AppStore购物榜第一",
+      "onboard_time": 1745820442,
+      "rank": 25,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 130298,
       "num": 130298,
       "word": "吴彤爆余宇涵被换角想订机票回家",
@@ -3643,14 +3675,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 129438,
-      "num": 145910,
-      "word": "泡泡玛特登美国AppStore购物榜第一",
-      "onboard_time": 1745820442,
-      "rank": 25,
-      "category": "互联网,财经"
-    },
-    {
       "raw_hot": 129373,
       "num": 129373,
       "word": "建议五一假期放51天",
@@ -3665,6 +3689,22 @@
       "onboard_time": 1745764462,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 128559,
+      "num": 128559,
+      "word": "打车打到陶喆了",
+      "onboard_time": 1745822723,
+      "rank": 34,
+      "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 128385,
+      "num": 128385,
+      "word": "宇露君沾",
+      "onboard_time": 1745822362,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 127906,
@@ -3721,14 +3761,6 @@
       "onboard_time": 1745725161,
       "rank": 29,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 125996,
-      "num": 125996,
-      "word": "警犬福仔上班偷吃小朋友烤肠",
-      "onboard_time": 1745821583,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 124714,
@@ -3865,6 +3897,14 @@
       "onboard_time": 1745821643,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 117856,
+      "num": 117856,
+      "word": "让宋佳接不住戏的人出现了",
+      "onboard_time": 1745822963,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 117544,
@@ -4091,6 +4131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103794,
+      "num": 103794,
+      "word": "刘奕畅说柯淳是少见的天赋型演员",
+      "onboard_time": 1745823142,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 102716,
       "num": 85312,
       "word": "无忧渡 赵娜",
@@ -4161,6 +4209,14 @@
       "onboard_time": 1745712202,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 100168,
+      "num": 281842,
+      "word": "麦子阿姨想带老公去旅游",
+      "onboard_time": 1745819121,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99923,
@@ -4267,6 +4323,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 96089,
+      "num": 106004,
+      "word": "美国猪肉净销售量骤降超70%",
+      "onboard_time": 1745820502,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 95919,
       "num": 89471,
       "word": "这对双胞胎真是一个天上一个地下",
@@ -4281,14 +4345,6 @@
       "onboard_time": 1745805321,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 95399,
-      "num": 95399,
-      "word": "宇露君沾",
-      "onboard_time": 1745822362,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 95389,
@@ -4409,14 +4465,6 @@
       "onboard_time": 1745728102,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 87468,
-      "num": 106004,
-      "word": "美国猪肉净销售量骤降超70%",
-      "onboard_time": 1745820502,
-      "rank": 42,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 87379,
@@ -4587,6 +4635,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 75130,
+      "num": 128431,
+      "word": "原来真的有种病叫旅行者腹泻",
+      "onboard_time": 1745823023,
+      "rank": 35,
+      "category": "健康医疗,旅游"
+    },
+    {
       "raw_hot": 75116,
       "num": 240084,
       "word": "哪些人群容易被HPV盯上",
@@ -4667,6 +4723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 71066,
+      "num": 149620,
+      "word": "这部古偶三观还是太正了",
+      "onboard_time": 1745819601,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 70949,
       "num": 70949,
       "word": "有些益虫就不能长的好看点吗",
@@ -4689,14 +4753,6 @@
       "onboard_time": 1745685800,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 68593,
-      "num": 108540,
-      "word": "这部古偶三观还是太正了",
-      "onboard_time": 1745819601,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 67802,
@@ -4931,14 +4987,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 52035,
-      "num": 281842,
-      "word": "麦子阿姨想带老公去旅游",
-      "onboard_time": 1745819121,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 51730,
       "num": 364344,
       "word": "孙俪说中年人没时间脆弱",
@@ -5049,6 +5097,14 @@
       "onboard_time": 1745796740,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 42172,
+      "num": 118017,
+      "word": "饭后刮油操",
+      "onboard_time": 1745822782,
+      "rank": 38,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 42169,
@@ -5180,7 +5236,7 @@
     },
     {
       "raw_hot": 35757,
-      "num": 106005,
+      "num": 183325,
       "word": "詹姆斯对球手一体判罚不满有何争议",
       "onboard_time": 1745822483,
       "rank": 41,
