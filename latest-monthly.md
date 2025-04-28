@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/28 11:29:45
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/28 11:55:02
 </p>
 </blockquote>
 <p>
@@ -1779,6 +1779,12 @@ RedVelvet 解散（热度：1601334）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%98%E9%A3%8E2025%E5%AE%98%E5%AE%A38%E4%BD%8D%E5%B8%88%E5%A7%90%E5%9B%9E%E5%BD%92%23" target="weibo">
+乘风2025官宣8位师姐回归（热度：1575056）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%92%E6%9E%9C%E5%8F%B0%23" target="weibo">
 芒果台（热度：1573029）
 </a>
@@ -3519,6 +3525,12 @@ nobody发博（热度：1141040）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%A7%90%E5%A6%B9%E7%BB%99%E7%88%B6%E4%BA%B2%E4%B8%8A%E5%9D%9F%E8%A2%AB%E5%A4%A7%E4%BC%AF%E7%82%B8%E6%AD%BB%E6%A1%88%E4%BA%8C%E5%AE%A1%23" target="weibo">
+三姐妹给父亲上坟被大伯炸死案二审（热度：1132042）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E6%85%91%E5%B0%81%23" target="weibo">
 东部战区慑封（热度：1131073）
 </a>
@@ -4235,12 +4247,6 @@ IU向雪莉金赛纶推荐同一心理医生（热度：1041446）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E5%BF%A7%E6%B8%A1%20%E9%81%97%E6%86%BE%23" target="weibo">
 无忧渡 遗憾（热度：1014123）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%A7%90%E5%A6%B9%E7%BB%99%E7%88%B6%E4%BA%B2%E4%B8%8A%E5%9D%9F%E8%A2%AB%E5%A4%A7%E4%BC%AF%E7%82%B8%E6%AD%BB%E6%A1%88%E4%BA%8C%E5%AE%A1%23" target="weibo">
-三姐妹给父亲上坟被大伯炸死案二审（热度：1013975）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ YERI和Wendy离开SM（热度：805847）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E4%BC%BC%E4%B9%8E%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%88%92%E6%B8%85%E7%95%8C%E9%99%90%23" target="weibo">
 马斯克似乎与特朗普划清界限（热度：804772）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%A0%91%E8%A2%AB%E9%A3%8E%E5%90%B9%E5%80%92%E7%A0%B8%E4%BC%A4%E5%A5%B3%E5%AD%90%E8%87%B4%E6%AD%BB%23" target="weibo">
-官方通报树被风吹倒砸伤女子致死（热度：803875）
 </a>
 </li>
 
