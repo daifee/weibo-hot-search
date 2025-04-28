@@ -1,0 +1,410 @@
+{
+  "runTime": 1745854086466,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2466990,
+        "num": 2466990,
+        "word": "刘美含致歉",
+        "onboard_time": 1745850803,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 754325,
+        "num": 754325,
+        "word": "为什么小时候常有的停电好像消失了",
+        "onboard_time": 1745847141,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66016,
+        "num": 747178,
+        "word": "游在中国热度不减购在中国蔚然成风",
+        "onboard_time": 1745846002,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 746642,
+        "num": 746642,
+        "word": "藏海传",
+        "onboard_time": 1745848104,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 662239,
+        "num": 662239,
+        "word": "动画还原三姐妹上坟被大伯炸死案",
+        "onboard_time": 1745851403,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 640382,
+        "num": 640382,
+        "word": "医师出轨暴露违规问题更需关注",
+        "onboard_time": 1745850142,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 727958,
+        "num": 630664,
+        "word": "刘诗诗回复虞书欣",
+        "onboard_time": 1745844803,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 614918,
+        "num": 614918,
+        "word": "瑞幸回应4部手机点出3种价格",
+        "onboard_time": 1745851163,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 403132,
+        "num": 403132,
+        "word": "半个娱乐圈都在追无尽的尽头",
+        "onboard_time": 1745835562,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142310,
+        "num": 403092,
+        "word": "酒店机器人3年亏了8个亿",
+        "onboard_time": 1745851345,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 751910,
+        "num": 403092,
+        "word": "上海月薪两万七一天要花多少钱",
+        "onboard_time": 1745848222,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 403089,
+        "num": 403089,
+        "word": "徐冬冬晒真实肚子",
+        "onboard_time": 1745853203,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338008,
+        "num": 338008,
+        "word": "孟子义在飞机上直播",
+        "onboard_time": 1745850023,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17697,
+        "num": 329772,
+        "word": "地铁遭偷拍出结论前不要无端攻击",
+        "onboard_time": 1745853622,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49441,
+        "num": 326843,
+        "word": "误诊精神病医生1年后才有执业资格",
+        "onboard_time": 1745852843,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 326310,
+        "num": 326310,
+        "word": "北大回应网红汤匙被录取",
+        "onboard_time": 1745850621,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 318748,
+        "num": 318748,
+        "word": "85竹对打95花",
+        "onboard_time": 1745844022,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 286907,
+        "num": 286907,
+        "word": "密室大逃脱7",
+        "onboard_time": 1745851643,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286250,
+        "num": 286250,
+        "word": "柯淳片场随地扔烟头",
+        "onboard_time": 1745845222,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265262,
+        "num": 265262,
+        "word": "保时捷CEO谈小米SU7Ultra",
+        "onboard_time": 1745850142,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 250556,
+        "num": 250556,
+        "word": "孙俪说姐弟恋把我们这戏说俗气了",
+        "onboard_time": 1745841080,
+        "rank": 20,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 248381,
+        "num": 248381,
+        "word": "马代遭酒店管家性侵女子再发声",
+        "onboard_time": 1745842282,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229129,
+        "num": 229129,
+        "word": "孟宴臣父母年轻的时候",
+        "onboard_time": 1745849484,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226374,
+        "num": 226374,
+        "word": "丁禹兮造梗比呼吸还简单",
+        "onboard_time": 1745852064,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207654,
+        "num": 207654,
+        "word": "胡意旋00后上班即视感",
+        "onboard_time": 1745853263,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200165,
+        "num": 200165,
+        "word": "男子申请改48字姓名警方称难过审",
+        "onboard_time": 1745837842,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199604,
+        "num": 199604,
+        "word": "萧亚轩五次手术后首公开露面",
+        "onboard_time": 1745833341,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172094,
+        "num": 172094,
+        "word": "假离婚后拒复婚女子将丈夫告上法院",
+        "onboard_time": 1745843842,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96474,
+        "num": 167336,
+        "word": "领克900上市一小时大定破万",
+        "onboard_time": 1745852843,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 34202,
+        "num": 165905,
+        "word": "多家网红轻食餐实际高脂高钠",
+        "onboard_time": 1745852725,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164543,
+        "num": 164543,
+        "word": "捡个脸盆被记9分断了多根肋骨",
+        "onboard_time": 1745847141,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154053,
+        "num": 154053,
+        "word": "IU登顶韩国福布斯名人榜",
+        "onboard_time": 1745845041,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151680,
+        "num": 151680,
+        "word": "何凯文复更",
+        "onboard_time": 1745852485,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 147864,
+        "num": 147864,
+        "word": "吃蓝莓前到底要不要洗",
+        "onboard_time": 1745852064,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29367,
+        "num": 140800,
+        "word": "伊朗官员称港口爆炸是由于疏忽",
+        "onboard_time": 1745852124,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 36313,
+        "num": 135390,
+        "word": "梁伟铿呼吁球迷冷静观赛",
+        "onboard_time": 1745849484,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135314,
+        "num": 135314,
+        "word": "贾静雯女儿钟丽缇女儿同框",
+        "onboard_time": 1745844982,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126118,
+        "num": 126118,
+        "word": "丁禹兮给孟子义打光",
+        "onboard_time": 1745846721,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121826,
+        "num": 121826,
+        "word": "西班牙葡萄牙大范围停电",
+        "onboard_time": 1745845162,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 120971,
+        "num": 120971,
+        "word": "黄子弘凡叫自己子弘凡了",
+        "onboard_time": 1745850803,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119056,
+        "num": 119056,
+        "word": "教育局介入女生被老师掌掴致严重抑郁",
+        "onboard_time": 1745851163,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116445,
+        "num": 116445,
+        "word": "张柏芝说没时间恋爱脑",
+        "onboard_time": 1745849842,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114585,
+        "num": 114585,
+        "word": "何老师51岁了",
+        "onboard_time": 1745828122,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114507,
+        "num": 114507,
+        "word": "丁禹兮就这样眼里有活",
+        "onboard_time": 1745852963,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109976,
+        "num": 109976,
+        "word": "魏大勋孙千在我主页走好几天了",
+        "onboard_time": 1745841441,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108636,
+        "num": 108636,
+        "word": "王一博iG发文",
+        "onboard_time": 1745849122,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107021,
+        "num": 107021,
+        "word": "想念郭艾伦",
+        "onboard_time": 1745852004,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106873,
+        "num": 106873,
+        "word": "因外貌而引发热议的泰国老虎",
+        "onboard_time": 1745848523,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104591,
+        "num": 104591,
+        "word": "李晓霞晒与樊振东合影",
+        "onboard_time": 1745850383,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104591,
+        "num": 104591,
+        "word": "西班牙停电",
+        "onboard_time": 1745841202,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平为全国劳模和先进工作者颁发证书#"
+    }
+  }
+}

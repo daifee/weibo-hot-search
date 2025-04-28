@@ -1,6 +1,6 @@
 {
   "startTime": 1745771302155,
-  "endTime": 1745851632761,
+  "endTime": 1745854086466,
   "band_list": [
     {
       "raw_hot": 5235330,
@@ -8,6 +8,14 @@
       "word": "石凯回应",
       "onboard_time": 1745764943,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2466990,
+      "num": 2466990,
+      "word": "刘美含致歉",
+      "onboard_time": 1745850803,
+      "rank": 1,
       "category": "艺人"
     },
     {
@@ -105,14 +113,6 @@
       "onboard_time": 1745847141,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1167555,
-      "num": 1167555,
-      "word": "刘美含致歉",
-      "onboard_time": 1745850803,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 1165886,
@@ -307,6 +307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 751910,
+      "num": 403092,
+      "word": "上海月薪两万七一天要花多少钱",
+      "onboard_time": 1745848222,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 748021,
       "num": 748021,
       "word": "我承认对淮水竹亭太大声了",
@@ -387,6 +395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 662239,
+      "num": 662239,
+      "word": "动画还原三姐妹上坟被大伯炸死案",
+      "onboard_time": 1745851403,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 653550,
       "num": 606711,
       "word": "中日友好医院医生回应被开除",
@@ -403,6 +419,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 640382,
+      "num": 640382,
+      "word": "医师出轨暴露违规问题更需关注",
+      "onboard_time": 1745850142,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 631256,
       "num": 631256,
       "word": "樊振东王曼昱盛李豪受表彰",
@@ -411,11 +435,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 627354,
-      "num": 339608,
-      "word": "上海月薪两万七一天要花多少钱",
-      "onboard_time": 1745848222,
-      "rank": 42,
+      "raw_hot": 614918,
+      "num": 614918,
+      "word": "瑞幸回应4部手机点出3种价格",
+      "onboard_time": 1745851163,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -699,6 +723,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 403089,
+      "num": 403089,
+      "word": "徐冬冬晒真实肚子",
+      "onboard_time": 1745853203,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 400132,
       "num": 400132,
       "word": "多地无人配送车连发交通事故",
@@ -713,14 +745,6 @@
       "onboard_time": 1745817562,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 396232,
-      "num": 396232,
-      "word": "医师出轨暴露违规问题更需关注",
-      "onboard_time": 1745850142,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 396034,
@@ -811,6 +835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 338008,
+      "num": 338008,
+      "word": "孟子义在飞机上直播",
+      "onboard_time": 1745850023,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 336981,
       "num": 271521,
       "word": "齐岱泽武艺嘉祺",
@@ -825,6 +857,14 @@
       "onboard_time": 1745835562,
       "rank": 21,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 326310,
+      "num": 360168,
+      "word": "北大回应网红汤匙被录取",
+      "onboard_time": 1745850621,
+      "rank": 9,
+      "category": "网红"
     },
     {
       "raw_hot": 316827,
@@ -899,6 +939,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 286907,
+      "num": 286907,
+      "word": "密室大逃脱7",
+      "onboard_time": 1745851643,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 284194,
       "num": 284194,
       "word": "王源广州",
@@ -971,6 +1019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 265262,
+      "num": 265262,
+      "word": "保时捷CEO谈小米SU7Ultra",
+      "onboard_time": 1745850142,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 264259,
       "num": 264259,
       "word": "近期中美元首没有通话",
@@ -1025,14 +1081,6 @@
       "onboard_time": 1745847202,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 249896,
-      "num": 249896,
-      "word": "保时捷CEO谈小米SU7Ultra",
-      "onboard_time": 1745850142,
-      "rank": 29,
-      "category": "汽车"
     },
     {
       "raw_hot": 249369,
@@ -1123,20 +1171,20 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 229023,
-      "num": 229023,
-      "word": "孟子义在飞机上直播",
-      "onboard_time": 1745850023,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 227983,
       "num": 227983,
       "word": "樊振东穿奥运领奖服戴奖章",
       "onboard_time": 1745813843,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 226374,
+      "num": 226374,
+      "word": "丁禹兮造梗比呼吸还简单",
+      "onboard_time": 1745852064,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 225176,
@@ -1249,6 +1297,14 @@
       "onboard_time": 1745766022,
       "rank": 21,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 207654,
+      "num": 207654,
+      "word": "胡意旋00后上班即视感",
+      "onboard_time": 1745853263,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 203688,
@@ -1515,14 +1571,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 183727,
-      "num": 183727,
-      "word": "动画还原三姐妹上坟被大伯炸死案",
-      "onboard_time": 1745851403,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 182716,
       "num": 182716,
       "word": "螺蛳粉闷大米饭",
@@ -1697,14 +1745,6 @@
       "onboard_time": 1745809282,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 164098,
-      "num": 164098,
-      "word": "瑞幸回应4部手机点出3种价格",
-      "onboard_time": 1745851163,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 164084,
@@ -1915,6 +1955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151680,
+      "num": 151680,
+      "word": "何凯文复更",
+      "onboard_time": 1745852485,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 150658,
       "num": 150658,
       "word": "RW晋级败者组第三轮",
@@ -1985,6 +2033,14 @@
       "onboard_time": 1745810121,
       "rank": 44,
       "category": "美妆,时尚"
+    },
+    {
+      "raw_hot": 147864,
+      "num": 147864,
+      "word": "吃蓝莓前到底要不要洗",
+      "onboard_time": 1745852064,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147620,
@@ -2107,8 +2163,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 142027,
-      "num": 142027,
+      "raw_hot": 142310,
+      "num": 403092,
       "word": "酒店机器人3年亏了8个亿",
       "onboard_time": 1745851345,
       "rank": 45,
@@ -2212,7 +2268,7 @@
     },
     {
       "raw_hot": 133642,
-      "num": 133642,
+      "num": 135390,
       "word": "梁伟铿呼吁球迷冷静观赛",
       "onboard_time": 1745849484,
       "rank": 44,
@@ -2475,6 +2531,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 119056,
+      "num": 249581,
+      "word": "教育局介入女生被老师掌掴致严重抑郁",
+      "onboard_time": 1745851163,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118819,
       "num": 118819,
       "word": "律师谈石凯与前女友恋爱保密协议",
@@ -2539,6 +2603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 114507,
+      "num": 114507,
+      "word": "丁禹兮就这样眼里有活",
+      "onboard_time": 1745852963,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113490,
       "num": 113490,
       "word": "李现回应获2025导演大会年度男主角",
@@ -2553,14 +2625,6 @@
       "onboard_time": 1745805140,
       "rank": 38,
       "category": "幽默,休闲"
-    },
-    {
-      "raw_hot": 112302,
-      "num": 360168,
-      "word": "北大回应网红汤匙被录取",
-      "onboard_time": 1745850621,
-      "rank": 9,
-      "category": "网红"
     },
     {
       "raw_hot": 111522,
@@ -2665,6 +2729,14 @@
       "onboard_time": 1745842583,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 107021,
+      "num": 107021,
+      "word": "想念郭艾伦",
+      "onboard_time": 1745852004,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 106844,
@@ -2873,6 +2945,14 @@
       "onboard_time": 1745742981,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96474,
+      "num": 167336,
+      "word": "领克900上市一小时大定破万",
+      "onboard_time": 1745852843,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 96441,
@@ -3299,14 +3379,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 70977,
-      "num": 249581,
-      "word": "教育局介入女生被老师掌掴致严重抑郁",
-      "onboard_time": 1745851163,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 70678,
       "num": 246667,
       "word": "李盈莹恢复迅速",
@@ -3489,6 +3561,14 @@
       "onboard_time": 1745793377,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 49441,
+      "num": 326843,
+      "word": "误诊精神病医生1年后才有执业资格",
+      "onboard_time": 1745852843,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49078,
@@ -3675,6 +3755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 34202,
+      "num": 165905,
+      "word": "多家网红轻食餐实际高脂高钠",
+      "onboard_time": 1745852725,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33849,
       "num": 1073661,
       "word": "2426名全国劳模和先进工作者受表彰",
@@ -3697,6 +3785,14 @@
       "onboard_time": 1745775436,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 29367,
+      "num": 140800,
+      "word": "伊朗官员称港口爆炸是由于疏忽",
+      "onboard_time": 1745852124,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 29277,
@@ -3857,6 +3953,14 @@
       "onboard_time": 1745796439,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 17697,
+      "num": 329772,
+      "word": "地铁遭偷拍出结论前不要无端攻击",
+      "onboard_time": 1745853622,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17458,
