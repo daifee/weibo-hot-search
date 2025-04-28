@@ -1,0 +1,410 @@
+{
+  "runTime": 1745835815288,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 720674,
+        "num": 1115307,
+        "word": "唐艺昕否认改名字是为了张若昀",
+        "onboard_time": 1745827401,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 440612,
+        "num": 440612,
+        "word": "村干部微信群中骂村民被处行拘8日",
+        "onboard_time": 1745831121,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31219,
+        "num": 416927,
+        "word": "2426名全国劳模和先进工作者受表彰",
+        "onboard_time": 1745807841,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 668852,
+        "num": 416197,
+        "word": "难看",
+        "onboard_time": 1745818463,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1576803,
+        "num": 415853,
+        "word": "曝马斯克可能已有100多个孩子",
+        "onboard_time": 1745829622,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 415139,
+        "num": 415139,
+        "word": "金饰破千备婚三金成本激增",
+        "onboard_time": 1745831841,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 522607,
+        "num": 409300,
+        "word": "陈赫又把张子萱打码了",
+        "onboard_time": 1745816722,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 443319,
+        "num": 396646,
+        "word": "萧亚轩五次手术后首公开露面",
+        "onboard_time": 1745833341,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309238,
+        "num": 309238,
+        "word": "特朗普多项承诺要烂尾了",
+        "onboard_time": 1745832621,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 63110,
+        "num": 301042,
+        "word": "当地回应村干部微信群骂人被行拘",
+        "onboard_time": 1745835261,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 722284,
+        "num": 289624,
+        "word": "二本文科生50元吃一个月",
+        "onboard_time": 1745829562,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 387208,
+        "num": 280868,
+        "word": "何老师51岁了",
+        "onboard_time": 1745828122,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336981,
+        "num": 271521,
+        "word": "齐岱泽武艺嘉祺",
+        "onboard_time": 1745831002,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93797,
+        "num": 265649,
+        "word": "女子曝日本酒店发现陌生男子藏床底",
+        "onboard_time": 1745834181,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 72790,
+        "num": 244093,
+        "word": "特朗普回应爱泼斯坦案关键证人自杀",
+        "onboard_time": 1745835320,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 244070,
+        "num": 244070,
+        "word": "刘美含闲置市集卖假货",
+        "onboard_time": 1745822963,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237870,
+        "num": 237870,
+        "word": "章若楠从白月光到红月光赛道",
+        "onboard_time": 1745831601,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209572,
+        "num": 209572,
+        "word": "全是情绪 毫无价值",
+        "onboard_time": 1745826682,
+        "rank": 17,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 209220,
+        "num": 209220,
+        "word": "丁禹兮孟子义淮水竹亭感情戏",
+        "onboard_time": 1745823684,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198990,
+        "num": 198990,
+        "word": "官方回应游客私摘枇杷每个赔100元",
+        "onboard_time": 1745830881,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232325,
+        "num": 198899,
+        "word": "我承认对淮水竹亭太大声了",
+        "onboard_time": 1745828242,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210044,
+        "num": 198524,
+        "word": "45岁快递员五险一金缴费基数8045",
+        "onboard_time": 1745835562,
+        "rank": 21,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 208957,
+        "num": 198100,
+        "word": "李晟祝何炅生日快乐",
+        "onboard_time": 1745832081,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199925,
+        "num": 197691,
+        "word": "王鹤棣头像和主页背景都换了",
+        "onboard_time": 1745833761,
+        "rank": 23,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 197505,
+        "num": 197505,
+        "word": "温州一带公务二字车辆遮挡车牌",
+        "onboard_time": 1745827822,
+        "rank": 24,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 72689,
+        "num": 190054,
+        "word": "武艺 我也在等五一",
+        "onboard_time": 1745834061,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189052,
+        "num": 189052,
+        "word": "王者荣耀",
+        "onboard_time": 1745834120,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 152555,
+        "num": 152555,
+        "word": "盘尼西林键盘手",
+        "onboard_time": 1745830762,
+        "rank": 27,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 136191,
+        "num": 136191,
+        "word": "马龙成国乒在役时间最长的运动员",
+        "onboard_time": 1745831182,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131090,
+        "num": 131090,
+        "word": "王源谈爱犬走丢泪目",
+        "onboard_time": 1745826503,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129925,
+        "num": 129925,
+        "word": "淮水竹亭刘诗诗张云龙双人海报",
+        "onboard_time": 1745834602,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127525,
+        "num": 127525,
+        "word": "马龙夸樊振东一出道就有主力潜力",
+        "onboard_time": 1745832922,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124640,
+        "num": 124640,
+        "word": "朝鲜为何突然证实出兵俄罗斯",
+        "onboard_time": 1745834961,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 115353,
+        "num": 115353,
+        "word": "网友称疑在成都地铁遭人偷拍",
+        "onboard_time": 1745834301,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107154,
+        "num": 107154,
+        "word": "刘学义云包场",
+        "onboard_time": 1745834842,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106844,
+        "num": 106844,
+        "word": "EPEX福州演唱会",
+        "onboard_time": 1745834181,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 99595,
+        "num": 99595,
+        "word": "半个娱乐圈都在追无尽的尽头",
+        "onboard_time": 1745835562,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98720,
+        "num": 98720,
+        "word": "毛不易不接受断崖式分手",
+        "onboard_time": 1745820143,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98543,
+        "num": 98543,
+        "word": "肖飞 董袭莹",
+        "onboard_time": 1745802921,
+        "rank": 38,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 98325,
+        "num": 98325,
+        "word": "我求婚被龚俊黄子弘凡凑热闹",
+        "onboard_time": 1745823322,
+        "rank": 39,
+        "category": "演出,幽默"
+      },
+      {
+        "raw_hot": 97915,
+        "num": 97915,
+        "word": "落花时节又逢君",
+        "onboard_time": 1745807841,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95867,
+        "num": 95867,
+        "word": "三斤卤肉让我看清自己",
+        "onboard_time": 1745834901,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 7415,
+        "num": 94204,
+        "word": "跨国交友诈骗该如何识破",
+        "onboard_time": 1745835681,
+        "rank": 42,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 93919,
+        "num": 93919,
+        "word": "ENHYPEN向恩静求婚告白",
+        "onboard_time": 1745829562,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 92966,
+        "num": 92966,
+        "word": "先制造羞耻 再刺激消费",
+        "onboard_time": 1745824703,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92145,
+        "num": 92145,
+        "word": "警犬福仔上班偷吃小朋友烤肠",
+        "onboard_time": 1745821583,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91736,
+        "num": 91736,
+        "word": "胡意旋红茶花妖红凝",
+        "onboard_time": 1745834782,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91272,
+        "num": 91272,
+        "word": "你多了一个月",
+        "onboard_time": 1745827762,
+        "rank": 47,
+        "category": "剧集,幽默"
+      },
+      {
+        "raw_hot": 87514,
+        "num": 87514,
+        "word": "特朗普又把锅甩给奥巴马和拜登",
+        "onboard_time": 1745835741,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 85538,
+        "num": 85538,
+        "word": "美人背后是另一个美人",
+        "onboard_time": 1745829622,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记始终心系劳动者#"
+    }
+  }
+}

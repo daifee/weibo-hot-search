@@ -1,6 +1,6 @@
 {
   "startTime": 1745771302155,
-  "endTime": 1745832052584,
+  "endTime": 1745835815288,
   "band_list": [
     {
       "raw_hot": 5235330,
@@ -43,20 +43,20 @@
       "category": "电影,艺人"
     },
     {
+      "raw_hot": 1576803,
+      "num": 1561147,
+      "word": "曝马斯克可能已有100多个孩子",
+      "onboard_time": 1745829622,
+      "rank": 0,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1575056,
       "num": 1575056,
       "word": "乘风2025官宣8位师姐回归",
       "onboard_time": 1745810301,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1561147,
-      "num": 1561147,
-      "word": "曝马斯克可能已有100多个孩子",
-      "onboard_time": 1745829622,
-      "rank": 0,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1400427,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 1065317,
-      "num": 1065317,
+      "num": 1115307,
       "word": "唐艺昕否认改名字是为了张若昀",
       "onboard_time": 1745827401,
       "rank": 1,
@@ -459,6 +459,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 443319,
+      "num": 396646,
+      "word": "萧亚轩五次手术后首公开露面",
+      "onboard_time": 1745833341,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 440612,
+      "num": 440612,
+      "word": "村干部微信群中骂村民被处行拘8日",
+      "onboard_time": 1745831121,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 440166,
       "num": 440166,
       "word": "森林狼3比1湖人",
@@ -481,6 +497,14 @@
       "onboard_time": 1745828122,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 415139,
+      "num": 415139,
+      "word": "金饰破千备婚三金成本激增",
+      "onboard_time": 1745831841,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 411231,
@@ -571,12 +595,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 336981,
+      "num": 271521,
+      "word": "齐岱泽武艺嘉祺",
+      "onboard_time": 1745831002,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 310713,
       "num": 310713,
       "word": "协和的4加4确实难以理解",
       "onboard_time": 1745815823,
       "rank": 33,
       "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 309238,
+      "num": 309238,
+      "word": "特朗普多项承诺要烂尾了",
+      "onboard_time": 1745832621,
+      "rank": 8,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 309034,
@@ -699,6 +739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 237870,
+      "num": 237870,
+      "word": "章若楠从白月光到红月光赛道",
+      "onboard_time": 1745831601,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 233586,
       "num": 166052,
       "word": "石凯避重就轻",
@@ -755,14 +803,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 219433,
-      "num": 219433,
-      "word": "齐岱泽武艺嘉祺",
-      "onboard_time": 1745831002,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 218992,
       "num": 250662,
       "word": "全红婵总决赛争双冠",
@@ -803,6 +843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210044,
+      "num": 198524,
+      "word": "45岁快递员五险一金缴费基数8045",
+      "onboard_time": 1745835562,
+      "rank": 21,
+      "category": "互联网,民生新闻"
+    },
+    {
       "raw_hot": 209907,
       "num": 209907,
       "word": "高叶陈妍希万鹏新剧演闺蜜",
@@ -817,6 +865,14 @@
       "onboard_time": 1745765426,
       "rank": 20,
       "category": "电影"
+    },
+    {
+      "raw_hot": 208957,
+      "num": 198100,
+      "word": "李晟祝何炅生日快乐",
+      "onboard_time": 1745832081,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 208860,
@@ -849,6 +905,22 @@
       "onboard_time": 1745760263,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 199925,
+      "num": 197691,
+      "word": "王鹤棣头像和主页背景都换了",
+      "onboard_time": 1745833761,
+      "rank": 23,
+      "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 198990,
+      "num": 198990,
+      "word": "官方回应游客私摘枇杷每个赔100元",
+      "onboard_time": 1745830881,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198606,
@@ -929,6 +1001,14 @@
       "onboard_time": 1745803162,
       "rank": 28,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 189052,
+      "num": 189052,
+      "word": "王者荣耀",
+      "onboard_time": 1745834120,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 188685,
@@ -1171,14 +1251,6 @@
       "category": "剧集,幽默"
     },
     {
-      "raw_hot": 161574,
-      "num": 161574,
-      "word": "章若楠从白月光到红月光赛道",
-      "onboard_time": 1745831601,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 161427,
       "num": 161427,
       "word": "2426人受到表彰",
@@ -1265,6 +1337,14 @@
       "onboard_time": 1745809821,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 152555,
+      "num": 152555,
+      "word": "盘尼西林键盘手",
+      "onboard_time": 1745830762,
+      "rank": 34,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 152515,
@@ -1483,14 +1563,6 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 132054,
-      "num": 132054,
-      "word": "盘尼西林键盘手",
-      "onboard_time": 1745830762,
-      "rank": 34,
-      "category": "艺人,民生新闻"
-    },
-    {
       "raw_hot": 131151,
       "num": 131151,
       "word": "ENHYPEN向恩静求婚告白",
@@ -1513,6 +1585,14 @@
       "onboard_time": 1745757863,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129925,
+      "num": 129925,
+      "word": "淮水竹亭刘诗诗张云龙双人海报",
+      "onboard_time": 1745834602,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 129540,
@@ -1555,6 +1635,14 @@
       "category": "幽默,美食"
     },
     {
+      "raw_hot": 127525,
+      "num": 127525,
+      "word": "马龙夸樊振东一出道就有主力潜力",
+      "onboard_time": 1745832922,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127393,
       "num": 127393,
       "word": "崔胜澈好帅",
@@ -1585,6 +1673,14 @@
       "onboard_time": 1745816182,
       "rank": 44,
       "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 124640,
+      "num": 124640,
+      "word": "朝鲜为何突然证实出兵俄罗斯",
+      "onboard_time": 1745834961,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 124029,
@@ -1691,6 +1787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 115353,
+      "num": 115353,
+      "word": "网友称疑在成都地铁遭人偷拍",
+      "onboard_time": 1745834301,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113490,
       "num": 113490,
       "word": "李现回应获2025导演大会年度男主角",
@@ -1777,6 +1881,22 @@
       "onboard_time": 1745827102,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 107154,
+      "num": 107154,
+      "word": "刘学义云包场",
+      "onboard_time": 1745834842,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 106844,
+      "num": 106844,
+      "word": "EPEX福州演唱会",
+      "onboard_time": 1745834181,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 106622,
@@ -1883,20 +2003,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99595,
+      "num": 99595,
+      "word": "半个娱乐圈都在追无尽的尽头",
+      "onboard_time": 1745835562,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99471,
       "num": 99471,
       "word": "马龙回应里约奥运会换球衣翻盘",
       "onboard_time": 1745805321,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 98885,
-      "num": 98885,
-      "word": "金饰破千备婚三金成本激增",
-      "onboard_time": 1745831841,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 96490,
@@ -1947,6 +2067,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 95867,
+      "num": 95867,
+      "word": "三斤卤肉让我看清自己",
+      "onboard_time": 1745834901,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 95819,
       "num": 95819,
       "word": "kpop人不破防挑战",
@@ -1979,6 +2107,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 93797,
+      "num": 265649,
+      "word": "女子曝日本酒店发现陌生男子藏床底",
+      "onboard_time": 1745834181,
+      "rank": 13,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 91736,
+      "num": 91736,
+      "word": "胡意旋红茶花妖红凝",
+      "onboard_time": 1745834782,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 91041,
       "num": 91041,
       "word": "佩奇要有妹妹啦",
@@ -2009,6 +2153,14 @@
       "onboard_time": 1745762183,
       "rank": 37,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 87514,
+      "num": 87514,
+      "word": "特朗普又把锅甩给奥巴马和拜登",
+      "onboard_time": 1745835741,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 87379,
@@ -2163,12 +2315,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 72650,
-      "num": 288749,
-      "word": "村干部微信群中骂村民被处行拘8日",
-      "onboard_time": 1745831121,
+      "raw_hot": 72790,
+      "num": 244093,
+      "word": "特朗普回应爱泼斯坦案关键证人自杀",
+      "onboard_time": 1745835320,
       "rank": 14,
-      "category": "民生新闻"
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 72689,
+      "num": 190054,
+      "word": "武艺 我也在等五一",
+      "onboard_time": 1745834061,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 71569,
@@ -2233,6 +2393,14 @@
       "onboard_time": 1745807061,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 63110,
+      "num": 301042,
+      "word": "当地回应村干部微信群骂人被行拘",
+      "onboard_time": 1745835261,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62667,
@@ -2697,6 +2865,14 @@
       "onboard_time": 1745814621,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7415,
+      "num": 94204,
+      "word": "跨国交友诈骗该如何识破",
+      "onboard_time": 1745835681,
+      "rank": 42,
+      "category": "议题讨论"
     }
   ],
   "hotgov_list": [
