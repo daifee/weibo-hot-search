@@ -1,6 +1,6 @@
 {
   "startTime": 1745771302155,
-  "endTime": 1745814650195,
+  "endTime": 1745818428506,
   "band_list": [
     {
       "raw_hot": 5235330,
@@ -8,6 +8,14 @@
       "word": "石凯回应",
       "onboard_time": 1745764943,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2030463,
+      "num": 1146240,
+      "word": "陈赫又把张子萱打码了",
+      "onboard_time": 1745816722,
+      "rank": 3,
       "category": "艺人"
     },
     {
@@ -19,12 +27,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1795195,
+      "num": 1795195,
+      "word": "关晓彤回应造型争议称只为走路方便",
+      "onboard_time": 1745814382,
+      "rank": 29,
+      "category": "电影,艺人"
+    },
+    {
       "raw_hot": 1575056,
       "num": 1575056,
       "word": "乘风2025官宣8位师姐回归",
       "onboard_time": 1745810301,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1400427,
+      "num": 1400427,
+      "word": "甘肃地震",
+      "onboard_time": 1745817682,
+      "rank": 1,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 1327323,
@@ -47,6 +71,14 @@
       "num": 792399,
       "word": "三姐妹给父亲上坟被大伯炸死案二审",
       "onboard_time": 1745808020,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1090682,
+      "num": 1090682,
+      "word": "医生肖飞出轨多名女同事",
+      "onboard_time": 1745815522,
       "rank": 4,
       "category": "民生新闻"
     },
@@ -172,7 +204,7 @@
     },
     {
       "raw_hot": 648740,
-      "num": 479319,
+      "num": 598033,
       "word": "用人民币感受韩国工资水平",
       "onboard_time": 1745808621,
       "rank": 30,
@@ -209,6 +241,14 @@
       "onboard_time": 1745774896,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 534142,
+      "num": 534142,
+      "word": "淮水竹亭",
+      "onboard_time": 1745812703,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 528170,
@@ -251,12 +291,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 503977,
-      "num": 331919,
-      "word": "淮水竹亭",
-      "onboard_time": 1745812703,
-      "rank": 19,
-      "category": "剧集"
+      "raw_hot": 473142,
+      "num": 473142,
+      "word": "男孩被生母继父虐待致死案宣判",
+      "onboard_time": 1745815943,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 461871,
@@ -339,12 +379,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 348320,
+      "num": 348320,
+      "word": "赵丽颖方可再合作",
+      "onboard_time": 1745817323,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 342230,
       "num": 483898,
       "word": "中日友好医院肖某曾入选骨干人才",
       "onboard_time": 1745810182,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 341764,
+      "num": 341764,
+      "word": "淮水竹亭特效",
+      "onboard_time": 1745816062,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 323826,
+      "num": 323826,
+      "word": "淮水竹亭热度",
+      "onboard_time": 1745817562,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 309034,
@@ -355,12 +419,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 289804,
+      "num": 455173,
+      "word": "俄军官称部队有朝鲜人美国欧洲都害怕",
+      "onboard_time": 1745813182,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 280021,
       "num": 423412,
       "word": "徐冬冬的舒适体重是130斤以下",
       "onboard_time": 1745808501,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 279959,
+      "num": 279959,
+      "word": "上城士赵丽颖",
+      "onboard_time": 1745813963,
+      "rank": 34,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 277572,
@@ -371,20 +451,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 272390,
+      "num": 272390,
+      "word": "专家建议拿身份证消费就减免25%",
+      "onboard_time": 1745818341,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 271039,
       "num": 271039,
       "word": "淮水竹亭包场",
       "onboard_time": 1745813722,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 265346,
-      "num": 239888,
-      "word": "关晓彤回应造型争议称只为走路方便",
-      "onboard_time": 1745814382,
-      "rank": 29,
-      "category": "电影,艺人"
     },
     {
       "raw_hot": 253550,
@@ -427,14 +507,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 233851,
-      "num": 455173,
-      "word": "俄军官称部队有朝鲜人美国欧洲都害怕",
-      "onboard_time": 1745813182,
-      "rank": 13,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 233586,
       "num": 166052,
       "word": "石凯避重就轻",
@@ -467,6 +539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 224409,
+      "num": 1185525,
+      "word": "公安网安提示朋友圈什么不能发",
+      "onboard_time": 1745816182,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 221934,
       "num": 163553,
       "word": "刘青云四封金像奖影帝",
@@ -483,14 +563,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 217720,
-      "num": 217720,
-      "word": "上城士赵丽颖",
-      "onboard_time": 1745813963,
-      "rank": 34,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 212003,
       "num": 200804,
       "word": "身高1米5体重1500斤两岁母牛的一天",
@@ -504,6 +576,14 @@
       "word": "高伟光女主运",
       "onboard_time": 1745811321,
       "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 209907,
+      "num": 209907,
+      "word": "高叶陈妍希万鹏新剧演闺蜜",
+      "onboard_time": 1745817443,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -547,12 +627,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 198606,
+      "num": 198606,
+      "word": "韩安冉老公维护小猪妹",
+      "onboard_time": 1745816844,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
       "raw_hot": 197137,
       "num": 271087,
       "word": "落花时节又逢君",
       "onboard_time": 1745807841,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192994,
+      "num": 192994,
+      "word": "协和的4加4确实难以理解",
+      "onboard_time": 1745815823,
+      "rank": 33,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 192989,
@@ -572,7 +668,7 @@
     },
     {
       "raw_hot": 190360,
-      "num": 190360,
+      "num": 285324,
       "word": "将定向增发购车指标",
       "onboard_time": 1745812521,
       "rank": 42,
@@ -731,6 +827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163833,
+      "num": 163833,
+      "word": "刘涛黑长直高智感",
+      "onboard_time": 1745817023,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161427,
       "num": 161427,
       "word": "2426人受到表彰",
@@ -769,6 +873,14 @@
       "onboard_time": 1745809821,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 152702,
+      "num": 152702,
+      "word": "谢霆锋儿子和奶奶坐一起",
+      "onboard_time": 1745818041,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 152515,
@@ -843,6 +955,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 146385,
+      "num": 146385,
+      "word": "印尼两千万网红带五娃体验中国生活",
+      "onboard_time": 1745816423,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 145719,
       "num": 145719,
       "word": "银川市政府就市长信箱已读乱回致歉",
@@ -875,6 +995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137491,
+      "num": 280200,
+      "word": "医疗圈出八卦的多是外科",
+      "onboard_time": 1745815522,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 137017,
       "num": 274614,
       "word": "国新办新闻发布会",
@@ -889,6 +1017,22 @@
       "onboard_time": 1745809460,
       "rank": 44,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 136822,
+      "num": 136822,
+      "word": "王楚钦看天下纪念刊",
+      "onboard_time": 1745816663,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 135724,
+      "num": 135724,
+      "word": "迪丽热巴发布会饭拍",
+      "onboard_time": 1745816602,
+      "rank": 42,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 130388,
@@ -947,6 +1091,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 126215,
+      "num": 126215,
+      "word": "4加4",
+      "onboard_time": 1745816182,
+      "rank": 44,
+      "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 125368,
+      "num": 125368,
+      "word": "吴宣仪新剧刁蛮公主再现",
+      "onboard_time": 1745818403,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124029,
       "num": 115106,
       "word": "谢霆锋带儿子吃饭",
@@ -961,6 +1121,14 @@
       "onboard_time": 1745806462,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 122025,
+      "num": 122025,
+      "word": "为什么捞海胆时会开几个给鱼吃",
+      "onboard_time": 1745817201,
+      "rank": 46,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 122013,
@@ -993,6 +1161,14 @@
       "onboard_time": 1745805441,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 118819,
+      "num": 118819,
+      "word": "律师谈石凯与前女友恋爱保密协议",
+      "onboard_time": 1745815702,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117544,
@@ -1083,6 +1259,14 @@
       "category": "国内时政,国际时政"
     },
     {
+      "raw_hot": 101868,
+      "num": 200949,
+      "word": "马龙回应被叫六边形战士",
+      "onboard_time": 1745818041,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100550,
       "num": 100550,
       "word": "白桃星座",
@@ -1105,6 +1289,14 @@
       "onboard_time": 1745805321,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 97285,
+      "num": 194556,
+      "word": "特朗普态度突变威胁制裁俄罗斯",
+      "onboard_time": 1745818283,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 96490,
@@ -1185,6 +1377,14 @@
       "onboard_time": 1745762183,
       "rank": 37,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 87379,
+      "num": 283492,
+      "word": "宝马齐普策对话吴晓波畅聊新世代",
+      "onboard_time": 1745816782,
+      "rank": 22,
+      "category": "汽车"
     },
     {
       "raw_hot": 85469,
@@ -1297,6 +1497,14 @@
       "onboard_time": 1745813062,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 73730,
+      "num": 289647,
+      "word": "张若昀这次穿到了冰河时代",
+      "onboard_time": 1745814803,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 71569,
@@ -1531,6 +1739,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 28146,
+      "num": 287405,
+      "word": "王者三丽鸥皮肤亮点与福利有哪些",
+      "onboard_time": 1745817741,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 27845,
       "num": 415589,
       "word": "五一出游购物该如何巧妙避坑",
@@ -1678,6 +1894,9 @@
   "hotgov_list": [
     {
       "word": "#源源不断培养人工智能高素质人才#"
+    },
+    {
+      "word": "#总书记这样强调人工智能发展和治理#"
     }
   ]
 }
