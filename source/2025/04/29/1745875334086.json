@@ -1,0 +1,410 @@
+{
+  "runTime": 1745875334086,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 75825,
+        "num": 112409,
+        "word": "瑞幸回应4部手机点出3种价格",
+        "onboard_time": 1745851163,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63476,
+        "num": 63476,
+        "word": "医师出轨暴露违规问题更需关注",
+        "onboard_time": 1745850142,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8990,
+        "num": 55035,
+        "word": "稳就业稳经济5方面若干举措",
+        "onboard_time": 1745845342,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50258,
+        "num": 50258,
+        "word": "美国回应普京宣布临时停火",
+        "onboard_time": 1745855901,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 49886,
+        "num": 49886,
+        "word": "西班牙停电",
+        "onboard_time": 1745841202,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 47696,
+        "num": 47696,
+        "word": "西班牙葡萄牙大范围停电",
+        "onboard_time": 1745845162,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 43045,
+        "num": 43045,
+        "word": "今年首个蛇年蛇月蛇日蛇时",
+        "onboard_time": 1745849003,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39040,
+        "num": 39040,
+        "word": "藏海传",
+        "onboard_time": 1745848104,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35751,
+        "num": 35751,
+        "word": "北大回应网红汤匙被录取",
+        "onboard_time": 1745850621,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 34110,
+        "num": 34110,
+        "word": "为什么小时候常有的停电好像消失了",
+        "onboard_time": 1745847141,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112153,
+        "num": 32720,
+        "word": "新娘因长相太美被质疑AI换脸",
+        "onboard_time": 1745854402,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39794,
+        "num": 31539,
+        "word": "马代遭酒店管家性侵女子再发声",
+        "onboard_time": 1745842282,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34217,
+        "num": 31480,
+        "word": "孟子义在飞机上直播",
+        "onboard_time": 1745850023,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30204,
+        "num": 30204,
+        "word": "孙俪说姐弟恋把我们这戏说俗气了",
+        "onboard_time": 1745841080,
+        "rank": 13,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 29726,
+        "num": 29726,
+        "word": "徐冬冬晒真实肚子",
+        "onboard_time": 1745853203,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29723,
+        "num": 29723,
+        "word": "上海月薪两万七一天要花多少钱",
+        "onboard_time": 1745848222,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26555,
+        "num": 26555,
+        "word": "贾静雯女儿钟丽缇女儿同框",
+        "onboard_time": 1745844982,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24083,
+        "num": 24083,
+        "word": "女子回应新娘因高颜值被质疑",
+        "onboard_time": 1745855840,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16888,
+        "num": 21728,
+        "word": "85竹对打95花",
+        "onboard_time": 1745844022,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 16779,
+        "num": 21689,
+        "word": "刘诗诗回复虞书欣",
+        "onboard_time": 1745844803,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21659,
+        "num": 21659,
+        "word": "捡个脸盆被记9分断了多根肋骨",
+        "onboard_time": 1745847141,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20844,
+        "num": 20844,
+        "word": "男子申请改48字姓名警方称难过审",
+        "onboard_time": 1745837842,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20829,
+        "num": 20829,
+        "word": "比起亲吻更喜欢紧紧相拥",
+        "onboard_time": 1745871374,
+        "rank": 22,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 19910,
+        "num": 19910,
+        "word": "加拿大总理称美利坚合众国名存实亡",
+        "onboard_time": 1745850686,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 19409,
+        "num": 19409,
+        "word": "家属回应女子与走失儿子团聚后去世",
+        "onboard_time": 1745868855,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18869,
+        "num": 18869,
+        "word": "李兆基丧礼举行",
+        "onboard_time": 1745861835,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18540,
+        "num": 18540,
+        "word": "萧亚轩五次手术后首公开露面",
+        "onboard_time": 1745833341,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17653,
+        "num": 17653,
+        "word": "普京感谢协助俄军朝鲜军人",
+        "onboard_time": 1745871674,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 16307,
+        "num": 17204,
+        "word": "严浩翔想加冕制作人",
+        "onboard_time": 1745874493,
+        "rank": 28,
+        "category": "音乐,艺人"
+      },
+      {
+        "raw_hot": 15447,
+        "num": 17123,
+        "word": "半个娱乐圈都在追无尽的尽头",
+        "onboard_time": 1745835562,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18792,
+        "num": 17108,
+        "word": "美国建国250周年可能无烟花可放",
+        "onboard_time": 1745860877,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17085,
+        "num": 17085,
+        "word": "酒店机器人3年亏了8个亿",
+        "onboard_time": 1745851345,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16618,
+        "num": 16618,
+        "word": "柯淳片场随地扔烟头",
+        "onboard_time": 1745845222,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16033,
+        "num": 16033,
+        "word": "外交部回应老外带大行李箱来华扫货",
+        "onboard_time": 1745860457,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 15946,
+        "num": 15946,
+        "word": "律师解读男子申请改48字超长姓名",
+        "onboard_time": 1745867774,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15678,
+        "num": 15678,
+        "word": "保时捷CEO谈小米SU7Ultra",
+        "onboard_time": 1745850142,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 15608,
+        "num": 15608,
+        "word": "4月30日有蛇年蛇月蛇日蛇时",
+        "onboard_time": 1745861475,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15112,
+        "num": 15112,
+        "word": "孟宴臣父母年轻的时候",
+        "onboard_time": 1745849484,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14771,
+        "num": 15112,
+        "word": "森林北直播带货",
+        "onboard_time": 1745844741,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 14226,
+        "num": 15111,
+        "word": "王一博iG发文",
+        "onboard_time": 1745849122,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14077,
+        "num": 15109,
+        "word": "密室大逃脱7",
+        "onboard_time": 1745851643,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13846,
+        "num": 15108,
+        "word": "美媒画图说明美家庭离不开中国制造",
+        "onboard_time": 1745865794,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 13712,
+        "num": 15106,
+        "word": "魏大勋孙千在我主页走好几天了",
+        "onboard_time": 1745841441,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13615,
+        "num": 15106,
+        "word": "为什么婚恋前要先看体检报告",
+        "onboard_time": 1745854222,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 13334,
+        "num": 15105,
+        "word": "主动一点其实没那么难",
+        "onboard_time": 1745855482,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 13020,
+        "num": 15104,
+        "word": "关注第八届数字中国建设峰会",
+        "onboard_time": 1745867656,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 12203,
+        "num": 15102,
+        "word": "李晓霞晒与樊振东合影",
+        "onboard_time": 1745850383,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12125,
+        "num": 15100,
+        "word": "丁禹兮陪看淮水竹亭",
+        "onboard_time": 1745854702,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11722,
+        "num": 15100,
+        "word": "蒋一侨长发",
+        "onboard_time": 1745837903,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 9475,
+        "num": 15098,
+        "word": "马龙不喜欢看自己比赛回放",
+        "onboard_time": 1745861596,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平为全国劳模和先进工作者颁发证书#"
+    }
+  }
+}
