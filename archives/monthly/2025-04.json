@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1745861992792,
+  "endTime": 1745865290711,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -89499,6 +89499,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 38200,
+      "num": 38200,
+      "word": "李兆基丧礼举行",
+      "onboard_time": 1745861835,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38186,
       "num": 263791,
       "word": "情久春季赛淘汰",
@@ -94507,6 +94515,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 21677,
+      "num": 23730,
+      "word": "徐明浩 表现力",
+      "onboard_time": 1745864355,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 21669,
       "num": 205648,
       "word": "安宰贤3比1阿萨尔",
@@ -95115,6 +95131,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 19660,
+      "num": 23725,
+      "word": "张泽禹争取和大家完美的见面",
+      "onboard_time": 1745863994,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 19655,
       "num": 26799,
       "word": "我会永远永远永远的保佑好我",
@@ -95529,6 +95553,14 @@
       "onboard_time": 1745219782,
       "rank": 39,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 18940,
+      "num": 23724,
+      "word": "单依纯ELLE美容首封",
+      "onboard_time": 1745864895,
+      "rank": 43,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 18921,
@@ -96163,6 +96195,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 17242,
+      "num": 23720,
+      "word": "RW对战LGDNBW",
+      "onboard_time": 1745864835,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 17229,
       "num": 184156,
       "word": "俄美就俄乌和平方案进行对话",
@@ -96193,6 +96233,14 @@
       "onboard_time": 1744231095,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 17078,
+      "num": 23719,
+      "word": "贺峻霖新歌发了十五宫格",
+      "onboard_time": 1745863994,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 17029,
@@ -96579,6 +96627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 15880,
+      "num": 23717,
+      "word": "马龙不喜欢看自己比赛回放",
+      "onboard_time": 1745861596,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 15861,
       "num": 128107,
       "word": "柯南剧场版为什么逐年爆火",
@@ -96953,14 +97009,6 @@
       "onboard_time": 1745838081,
       "rank": 18,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 14764,
-      "num": 29800,
-      "word": "李兆基丧礼举行",
-      "onboard_time": 1745861835,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14757,

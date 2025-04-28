@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1745861992792,
+  "endTime": 1745865290711,
   "band_list": [
     {
       "raw_hot": 8960529,
@@ -7043,6 +7043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38200,
+      "num": 38200,
+      "word": "李兆基丧礼举行",
+      "onboard_time": 1745861835,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37526,
       "num": 448480,
       "word": "外卖吃一半发现苍蝇商家仅退餐费",
@@ -7499,6 +7507,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 21677,
+      "num": 23730,
+      "word": "徐明浩 表现力",
+      "onboard_time": 1745864355,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 21156,
       "num": 39097,
       "word": "太原溺水美人鱼仍在ICU观察",
@@ -7555,6 +7571,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 19660,
+      "num": 23725,
+      "word": "张泽禹争取和大家完美的见面",
+      "onboard_time": 1745863994,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 19286,
       "num": 288102,
       "word": "苹果本土化设计策略有哪些缺陷",
@@ -7569,6 +7593,14 @@
       "onboard_time": 1745692996,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18940,
+      "num": 23724,
+      "word": "单依纯ELLE美容首封",
+      "onboard_time": 1745864895,
+      "rank": 43,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 18556,
@@ -7659,6 +7691,22 @@
       "category": "幽默,民生新闻"
     },
     {
+      "raw_hot": 17242,
+      "num": 23720,
+      "word": "RW对战LGDNBW",
+      "onboard_time": 1745864835,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 17078,
+      "num": 23719,
+      "word": "贺峻霖新歌发了十五宫格",
+      "onboard_time": 1745863994,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 16671,
       "num": 199843,
       "word": "美国乌克兰矿产协议即将完成",
@@ -7681,6 +7729,14 @@
       "onboard_time": 1745814083,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 15880,
+      "num": 23717,
+      "word": "马龙不喜欢看自己比赛回放",
+      "onboard_time": 1745861596,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 15608,
@@ -7721,14 +7777,6 @@
       "onboard_time": 1745838081,
       "rank": 18,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 14764,
-      "num": 29800,
-      "word": "李兆基丧礼举行",
-      "onboard_time": 1745861835,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14212,
