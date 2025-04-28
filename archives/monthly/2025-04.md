@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/28 21:54:36
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/28 22:30:06
 </p>
 </blockquote>
 <p>
@@ -4149,6 +4149,12 @@ DeepSeek7小时攻克缅甸救灾语言关（热度：1104741）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B0%8F%E6%97%B6%E5%80%99%E5%B8%B8%E6%9C%89%E7%9A%84%E5%81%9C%E7%94%B5%E5%A5%BD%E5%83%8F%E6%B6%88%E5%A4%B1%E4%BA%86%23" target="weibo">
+为什么小时候常有的停电好像消失了（热度：1044434）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8B%86%E4%BA%8C%E4%BB%A3%E8%B4%A5%E5%85%895%E5%A5%97%E6%88%BF%E8%BF%914000%E4%B8%87%E6%88%90%E9%98%B6%E4%B8%8B%E5%9B%9A%23" target="weibo">
 拆二代败光5套房近4000万成阶下囚（热度：1043803）
 </a>
@@ -4485,6 +4491,12 @@ IU向雪莉金赛纶推荐同一心理医生（热度：1041446）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%97%8F%E6%B5%B7%E4%BC%A0%23" target="weibo">
+藏海传（热度：989473）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B4%AA%E5%B0%A7%E5%9B%9E%E5%BA%94%E6%92%95%E6%8E%89%E5%90%B4%E8%B0%A8%E8%A8%80%E8%80%81%E5%85%AC%E6%A0%87%E7%AD%BE%23" target="weibo">
 洪尧回应撕掉吴谨言老公标签（热度：989394）
 </a>
@@ -4709,6 +4721,12 @@ vava发博向杨超越道歉（热度：968479）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%91%9B%E5%A4%95%E7%A7%B0%E6%8A%91%E9%83%81%E7%97%87%E5%A4%8D%E5%8F%91%E5%8A%A0%E5%A4%A7%E8%8D%AF%E9%87%8F%23" target="weibo">
 葛夕称抑郁症复发加大药量（热度：963113）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E5%9B%9E%E5%A4%8D%E8%99%9E%E4%B9%A6%E6%AC%A3%23" target="weibo">
+刘诗诗回复虞书欣（热度：961275）
 </a>
 </li>
 
@@ -5996,24 +6014,6 @@ bite me男伴舞（热度：832510）
 </a>
 </li>
 
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%AF%E6%8C%81%E7%8E%87%E9%99%8D%E8%87%B3%E4%B8%8A%E4%BB%BB%E6%9D%A5%E6%9C%80%E4%BD%8E%23" target="weibo">
-特朗普支持率降至上任来最低（热度：815926）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%BD%98%E7%8E%AE%E6%9F%8F%E5%9B%9E%E5%BA%94%E7%AA%81%E7%84%B6%E5%8F%98%E5%9B%9E20%E5%B2%81%E6%A8%A1%E6%A0%B7%23" target="weibo">
-潘玮柏回应突然变回20岁模样（热度：815405）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%81%E8%89%BA%E5%8D%93%E5%8D%B3%E5%B0%86%E5%A4%A7%E5%AD%A6%E6%AF%95%E4%B8%9A%23" target="weibo">
-宁艺卓即将大学毕业（热度：815121）
-</a>
-</li>
-
 </ol>
 <h2>
 正能量
@@ -6791,6 +6791,12 @@ bite me男伴舞（热度：832510）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BA%E5%85%A8%E5%9B%BD%E5%8A%B3%E6%A8%A1%E5%92%8C%E5%85%88%E8%BF%9B%E5%B7%A5%E4%BD%9C%E8%80%85%E9%A2%81%E5%8F%91%E8%AF%81%E4%B9%A6%23%23" target="weibo">
 #习近平为全国劳模和先进工作者颁发证书#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%91%E5%B9%BF%E5%A4%A7%E5%8A%B3%E5%8A%A8%E7%BE%A4%E4%BC%97%E8%87%B4%E4%BB%A5%E8%AF%9A%E6%8C%9A%E9%97%AE%E5%80%99%23%23" target="weibo">
+#习近平向广大劳动群众致以诚挚问候#
 </a>
 </li>
 

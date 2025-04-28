@@ -1,6 +1,6 @@
 {
   "startTime": 1745771302155,
-  "endTime": 1745848476326,
+  "endTime": 1745850606484,
   "band_list": [
     {
       "raw_hot": 5235330,
@@ -163,12 +163,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1044434,
+      "num": 1167109,
+      "word": "为什么小时候常有的停电好像消失了",
+      "onboard_time": 1745847141,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1035888,
       "num": 1165742,
       "word": "马代遭酒店管家性侵女子再发声",
       "onboard_time": 1745842282,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 989473,
+      "num": 989473,
+      "word": "藏海传",
+      "onboard_time": 1745848104,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 961275,
+      "num": 556085,
+      "word": "刘诗诗回复虞书欣",
+      "onboard_time": 1745844803,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 919060,
@@ -427,14 +451,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 556085,
-      "num": 556085,
-      "word": "刘诗诗回复虞书欣",
-      "onboard_time": 1745844803,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 548048,
       "num": 609122,
       "word": "王勉发出婚礼邀请",
@@ -523,6 +539,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 505631,
+      "num": 407837,
+      "word": "柯淳片场随地扔烟头",
+      "onboard_time": 1745845222,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 504812,
       "num": 504812,
       "word": "Uzi宣布无限期停播",
@@ -564,7 +588,7 @@
     },
     {
       "raw_hot": 466428,
-      "num": 390298,
+      "num": 402942,
       "word": "IU登顶韩国福布斯名人榜",
       "onboard_time": 1745845041,
       "rank": 47,
@@ -577,14 +601,6 @@
       "onboard_time": 1745801903,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 458844,
-      "num": 571071,
-      "word": "为什么小时候常有的停电好像消失了",
-      "onboard_time": 1745847141,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 454757,
@@ -931,6 +947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 266010,
+      "num": 266010,
+      "word": "上海月薪两万七一天要花多少钱",
+      "onboard_time": 1745848222,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 264259,
       "num": 264259,
       "word": "近期中美元首没有通话",
@@ -945,6 +969,22 @@
       "onboard_time": 1745826682,
       "rank": 45,
       "category": "幽默,休闲"
+    },
+    {
+      "raw_hot": 261192,
+      "num": 261192,
+      "word": "孟宴臣父母年轻的时候",
+      "onboard_time": 1745849484,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 255777,
+      "num": 267676,
+      "word": "森林北直播带货",
+      "onboard_time": 1745844741,
+      "rank": 34,
+      "category": "网红"
     },
     {
       "raw_hot": 253550,
@@ -985,14 +1025,6 @@
       "onboard_time": 1745766203,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 246248,
-      "num": 246248,
-      "word": "柯淳片场随地扔烟头",
-      "onboard_time": 1745845222,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 241857,
@@ -1131,14 +1163,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 212609,
-      "num": 267676,
-      "word": "森林北直播带货",
-      "onboard_time": 1745844741,
-      "rank": 34,
-      "category": "网红"
-    },
-    {
       "raw_hot": 212003,
       "num": 200804,
       "word": "身高1米5体重1500斤两岁母牛的一天",
@@ -1248,14 +1272,6 @@
       "word": "落花时节又逢君",
       "onboard_time": 1745807841,
       "rank": 28,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 197015,
-      "num": 197015,
-      "word": "藏海传",
-      "onboard_time": 1745848104,
-      "rank": 29,
       "category": "剧集"
     },
     {
@@ -1379,6 +1395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188624,
+      "num": 188624,
+      "word": "王一博iG发文",
+      "onboard_time": 1745849122,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188428,
       "num": 188428,
       "word": "王鸥亲爱的何老师生日快乐",
@@ -1443,6 +1467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185283,
+      "num": 185283,
+      "word": "孟子义在飞机上直播",
+      "onboard_time": 1745850023,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183856,
       "num": 163990,
       "word": "半熟4感情里的悲喜各不相通",
@@ -1481,6 +1513,14 @@
       "onboard_time": 1745847803,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 174539,
+      "num": 174539,
+      "word": "丁禹兮给孟子义打光",
+      "onboard_time": 1745846721,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 174149,
@@ -1529,14 +1569,6 @@
       "onboard_time": 1745808981,
       "rank": 36,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 170932,
-      "num": 170932,
-      "word": "丁禹兮给孟子义打光",
-      "onboard_time": 1745846721,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 170143,
@@ -1611,12 +1643,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164846,
+      "num": 164846,
+      "word": "保时捷CEO谈小米SU7Ultra",
+      "onboard_time": 1745850142,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 164493,
       "num": 164493,
       "word": "利拉德恐遭遇跟腱撕裂",
       "onboard_time": 1745809282,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164084,
+      "num": 164084,
+      "word": "FPX战胜BLG",
+      "onboard_time": 1745849182,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 163936,
@@ -1691,6 +1739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158649,
+      "num": 411640,
+      "word": "今年首个蛇年蛇月蛇日蛇时",
+      "onboard_time": 1745849003,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158261,
       "num": 158261,
       "word": "美人背后是另一个美人",
@@ -1705,6 +1761,14 @@
       "onboard_time": 1745758762,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156096,
+      "num": 156096,
+      "word": "因外貌而引发热议的泰国老虎",
+      "onboard_time": 1745848523,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 155396,
@@ -1779,6 +1843,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 151872,
+      "num": 151872,
+      "word": "吴宣仪认领恋爱军师称号",
+      "onboard_time": 1745849723,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150063,
       "num": 150063,
       "word": "中日友好医院肖飞",
@@ -1801,6 +1873,14 @@
       "onboard_time": 1745806521,
       "rank": 48,
       "category": "剧集,艺人"
+    },
+    {
+      "raw_hot": 149437,
+      "num": 149437,
+      "word": "广厦男篮战胜辽宁男篮",
+      "onboard_time": 1745850383,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 149284,
@@ -1891,6 +1971,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 144765,
+      "num": 144765,
+      "word": "李晓霞晒与樊振东合影",
+      "onboard_time": 1745850383,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144372,
       "num": 144372,
       "word": "王者五五开黑节",
@@ -1913,6 +2001,14 @@
       "onboard_time": 1745831182,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143801,
+      "num": 143801,
+      "word": "医师出轨暴露违规问题更需关注",
+      "onboard_time": 1745850142,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 143559,
@@ -2035,6 +2131,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134918,
+      "num": 134918,
+      "word": "张钧甯怼脸皮肤状态",
+      "onboard_time": 1745849243,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 133642,
+      "num": 133642,
+      "word": "梁伟铿呼吁球迷冷静观赛",
+      "onboard_time": 1745849484,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 133331,
+      "num": 133331,
+      "word": "张柏芝说没时间恋爱脑",
+      "onboard_time": 1745849842,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131263,
       "num": 131263,
       "word": "虞书欣宣传淮水竹亭",
@@ -2096,6 +2216,14 @@
       "word": "宇露君沾",
       "onboard_time": 1745822362,
       "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 128189,
+      "num": 128189,
+      "word": "许凯密室大逃脱7路透",
+      "onboard_time": 1745848763,
+      "rank": 47,
       "category": "综艺"
     },
     {
@@ -2265,14 +2393,6 @@
       "onboard_time": 1745803942,
       "rank": 37,
       "category": "幽默,休闲"
-    },
-    {
-      "raw_hot": 120417,
-      "num": 120417,
-      "word": "上海月薪两万七一天要花多少钱",
-      "onboard_time": 1745848222,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 119729,
@@ -2964,7 +3084,7 @@
     },
     {
       "raw_hot": 80593,
-      "num": 784251,
+      "num": 975418,
       "word": "游在中国热度不减购在中国蔚然成风",
       "onboard_time": 1745846002,
       "rank": 2,
@@ -3459,6 +3579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35511,
+      "num": 227333,
+      "word": "王曼昱出发成都封训",
+      "onboard_time": 1745847502,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 33849,
       "num": 1073661,
       "word": "2426名全国劳模和先进工作者受表彰",
@@ -3489,14 +3617,6 @@
       "onboard_time": 1745810480,
       "rank": 19,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 28298,
-      "num": 227333,
-      "word": "王曼昱出发成都封训",
-      "onboard_time": 1745847502,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 28146,
@@ -3619,6 +3739,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 18225,
+      "num": 144204,
+      "word": "菜摊上一半卖现实一半卖梦想",
+      "onboard_time": 1745850082,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18035,
       "num": 143564,
       "word": "月度爱用购物分享",
@@ -3657,6 +3785,14 @@
       "onboard_time": 1745814083,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 15394,
+      "num": 268388,
+      "word": "老人相信手机号能改命被骗数万元",
+      "onboard_time": 1745849903,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14927,
@@ -3754,6 +3890,9 @@
     },
     {
       "word": "#习近平为全国劳模和先进工作者颁发证书#"
+    },
+    {
+      "word": "#习近平向广大劳动群众致以诚挚问候#"
     }
   ]
 }
