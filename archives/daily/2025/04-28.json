@@ -1,6 +1,6 @@
 {
   "startTime": 1745771302155,
-  "endTime": 1745805483618,
+  "endTime": 1745806838445,
   "band_list": [
     {
       "raw_hot": 5235330,
@@ -19,20 +19,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1327323,
+      "num": 537342,
+      "word": "反诈老陈称已将通缉照走红女子拉黑",
+      "onboard_time": 1745802621,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1160672,
       "num": 1160672,
       "word": "早睡简直就是人类的无敌作弊器",
       "onboard_time": 1745779935,
       "rank": 28,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 872024,
-      "num": 537342,
-      "word": "反诈老陈称已将通缉照走红女子拉黑",
-      "onboard_time": 1745802621,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 792319,
@@ -49,6 +49,14 @@
       "onboard_time": 1745770101,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 716907,
+      "num": 1114705,
+      "word": "马龙谈樊振东",
+      "onboard_time": 1745800943,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 697462,
@@ -75,20 +83,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 655517,
+      "raw_hot": 662656,
       "num": 529468,
       "word": "石凯前女友 等解除协议我将不再沉默",
       "onboard_time": 1745796919,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 626519,
-      "num": 626519,
-      "word": "马龙谈樊振东",
-      "onboard_time": 1745800943,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 606711,
@@ -107,8 +107,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 545920,
-      "num": 545920,
+      "raw_hot": 548048,
+      "num": 548048,
       "word": "王勉发出婚礼邀请",
       "onboard_time": 1745774896,
       "rank": 38,
@@ -139,19 +139,27 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 461871,
+      "num": 461871,
+      "word": "刘亦菲已拿下全部白玉兰前哨奖",
+      "onboard_time": 1745801903,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 454757,
+      "num": 454757,
+      "word": "疑似石凯训粉",
+      "onboard_time": 1745802861,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 453118,
       "num": 545114,
       "word": "孙燕姿回复了肖战",
       "onboard_time": 1745798782,
       "rank": 8,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 440754,
-      "num": 356801,
-      "word": "疑似石凯训粉",
-      "onboard_time": 1745802861,
-      "rank": 16,
       "category": "演出"
     },
     {
@@ -163,12 +171,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 405817,
-      "num": 405817,
-      "word": "刘亦菲已拿下全部白玉兰前哨奖",
-      "onboard_time": 1745801903,
-      "rank": 13,
-      "category": "剧集"
+      "raw_hot": 424621,
+      "num": 379994,
+      "word": "肖飞 董袭莹",
+      "onboard_time": 1745802921,
+      "rank": 18,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 405440,
@@ -203,20 +211,36 @@
       "category": "情感"
     },
     {
-      "raw_hot": 296487,
-      "num": 296487,
-      "word": "肖飞 董袭莹",
-      "onboard_time": 1745802921,
-      "rank": 18,
-      "category": "民生新闻,健康医疗"
+      "raw_hot": 345325,
+      "num": 345325,
+      "word": "多地无人配送车连发交通事故",
+      "onboard_time": 1745805982,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 295573,
-      "num": 295573,
+      "raw_hot": 336035,
+      "num": 336035,
       "word": "王者荣耀三丽鸥",
       "onboard_time": 1745798782,
       "rank": 19,
       "category": "电竞,游戏"
+    },
+    {
+      "raw_hot": 319615,
+      "num": 319615,
+      "word": "黄金",
+      "onboard_time": 1745804662,
+      "rank": 21,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 309034,
+      "num": 309034,
+      "word": "李兆基葬礼",
+      "onboard_time": 1745805441,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 277572,
@@ -259,6 +283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 241973,
+      "num": 241973,
+      "word": "朝鲜证实出兵俄罗斯",
+      "onboard_time": 1745805982,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 233586,
       "num": 166052,
       "word": "石凯避重就轻",
@@ -276,7 +308,7 @@
     },
     {
       "raw_hot": 224973,
-      "num": 108148,
+      "num": 108903,
       "word": "怀孕蓝猫四肢被砍",
       "onboard_time": 1745773157,
       "rank": 13,
@@ -291,6 +323,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 219379,
+      "num": 219379,
+      "word": "Uzi宣布无限期停播",
+      "onboard_time": 1745806342,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 212003,
+      "num": 200804,
+      "word": "身高1米5体重1500斤两岁母牛的一天",
+      "onboard_time": 1745804841,
+      "rank": 42,
+      "category": "幽默,休闲"
+    },
+    {
       "raw_hot": 209870,
       "num": 159888,
       "word": "卫诗雅金像奖影后",
@@ -299,20 +347,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 208860,
+      "num": 208860,
+      "word": "A股",
+      "onboard_time": 1745806161,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 208123,
       "num": 132778,
       "word": "原来这就是生理性喜欢的表现",
       "onboard_time": 1745766022,
       "rank": 21,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 203906,
-      "num": 203906,
-      "word": "黄金",
-      "onboard_time": 1745804662,
-      "rank": 21,
-      "category": "财经"
     },
     {
       "raw_hot": 201052,
@@ -324,11 +372,27 @@
     },
     {
       "raw_hot": 190030,
-      "num": 190030,
+      "num": 206976,
       "word": "烽影燃梅香 定档",
       "onboard_time": 1745799022,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189600,
+      "num": 541069,
+      "word": "保税仓发货保健品不等于真进口",
+      "onboard_time": 1745802621,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189087,
+      "num": 189087,
+      "word": "当你突然开始跑步 你的身体belike",
+      "onboard_time": 1745803162,
+      "rank": 28,
+      "category": "运动健身"
     },
     {
       "raw_hot": 186946,
@@ -340,7 +404,7 @@
     },
     {
       "raw_hot": 185459,
-      "num": 185459,
+      "num": 206932,
       "word": "刘亦菲说黄亦玫和她不像",
       "onboard_time": 1745797580,
       "rank": 25,
@@ -395,14 +459,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 163281,
-      "num": 163281,
-      "word": "当你突然开始跑步 你的身体belike",
-      "onboard_time": 1745803162,
-      "rank": 28,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 157440,
       "num": 157440,
       "word": "女子丢蛋糕后报警谎称抹了老鼠药",
@@ -411,20 +467,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 155396,
+      "num": 207115,
+      "word": "姜颂",
+      "onboard_time": 1745805622,
+      "rank": 27,
+      "category": "剧集,艺人"
+    },
+    {
       "raw_hot": 154915,
       "num": 89570,
       "word": "湖人1比3森林狼",
       "onboard_time": 1745796800,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 152390,
-      "num": 541069,
-      "word": "保税仓发货保健品不等于真进口",
-      "onboard_time": 1745802621,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 150063,
@@ -483,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127873,
+      "num": 127873,
+      "word": "全糖兑水 再来一杯",
+      "onboard_time": 1745804181,
+      "rank": 38,
+      "category": "幽默,美食"
+    },
+    {
       "raw_hot": 127393,
       "num": 127393,
       "word": "崔胜澈好帅",
@@ -507,6 +571,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 123232,
+      "num": 123232,
+      "word": "中国制造开始反向席卷全球了",
+      "onboard_time": 1745806462,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 122013,
+      "num": 122013,
+      "word": "1比3逆转詹姆斯做到过",
+      "onboard_time": 1745802682,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120978,
       "num": 120978,
       "word": "我是武则天",
@@ -521,6 +601,14 @@
       "onboard_time": 1745803942,
       "rank": 37,
       "category": "幽默,休闲"
+    },
+    {
+      "raw_hot": 119729,
+      "num": 119729,
+      "word": "田静复更",
+      "onboard_time": 1745805441,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 117544,
@@ -545,6 +633,22 @@
       "onboard_time": 1745805140,
       "rank": 38,
       "category": "幽默,休闲"
+    },
+    {
+      "raw_hot": 112720,
+      "num": 319966,
+      "word": "麻醉医生谈肖飞事件",
+      "onboard_time": 1745805381,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111553,
+      "num": 111553,
+      "word": "曹骏内娱纯阳之体",
+      "onboard_time": 1745806521,
+      "rank": 48,
+      "category": "剧集,艺人"
     },
     {
       "raw_hot": 111522,
@@ -595,24 +699,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 104355,
-      "num": 104355,
-      "word": "1比3逆转詹姆斯做到过",
-      "onboard_time": 1745802682,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 103198,
-      "num": 103198,
-      "word": "身高1米5体重1500斤两岁母牛的一天",
-      "onboard_time": 1745804841,
-      "rank": 42,
-      "category": "幽默,休闲"
-    },
-    {
       "raw_hot": 102241,
-      "num": 102241,
+      "num": 119840,
       "word": "天链二号05星发射成功",
       "onboard_time": 1745800583,
       "rank": 43,
@@ -675,28 +763,12 @@
       "category": "剧集,艺人"
     },
     {
-      "raw_hot": 93937,
-      "num": 93937,
-      "word": "田静复更",
-      "onboard_time": 1745805441,
-      "rank": 48,
-      "category": "教育"
-    },
-    {
       "raw_hot": 93804,
       "num": 93804,
       "word": "张凌赫替何苏叶现场问诊",
       "onboard_time": 1745765964,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 91513,
-      "num": 91513,
-      "word": "李兆基葬礼",
-      "onboard_time": 1745805441,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 89583,
@@ -745,6 +817,14 @@
       "onboard_time": 1745759964,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 82033,
+      "num": 123645,
+      "word": "外国小哥来中国定制毕业礼服",
+      "onboard_time": 1745806761,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79126,
@@ -859,6 +939,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 54150,
+      "num": 146028,
+      "word": "特朗普被曝正计划采用新的谈判策略",
+      "onboard_time": 1745800284,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 51214,
       "num": 61155,
       "word": "景甜庄达菲生图",
@@ -971,6 +1059,14 @@
       "category": "电影,时尚"
     },
     {
+      "raw_hot": 24001,
+      "num": 225963,
+      "word": "国羽群像感谢现役",
+      "onboard_time": 1745805682,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 22706,
       "num": 198931,
       "word": "致俄中将死亡汽车爆炸作案过程披露",
@@ -993,14 +1089,6 @@
       "onboard_time": 1745764103,
       "rank": 44,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 22038,
-      "num": 122271,
-      "word": "麻醉医生谈肖飞事件",
-      "onboard_time": 1745805381,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 21071,
