@@ -1,0 +1,410 @@
+{
+  "runTime": 1745826727595,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1159285,
+        "num": 1185485,
+        "word": "曝任贤齐买下青岛一条街房产",
+        "onboard_time": 1745822723,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 818137,
+        "num": 818137,
+        "word": "曝拒肖飞打招呼医生是盘尼西林成员",
+        "onboard_time": 1745824342,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 181229,
+        "num": 466477,
+        "word": "公安网安提示朋友圈什么不能发",
+        "onboard_time": 1745816182,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 933616,
+        "num": 460625,
+        "word": "难看",
+        "onboard_time": 1745818463,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 449172,
+        "num": 449172,
+        "word": "专家建议拿身份证消费就减免25%",
+        "onboard_time": 1745818341,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1109007,
+        "num": 366829,
+        "word": "医生肖飞出轨多名女同事",
+        "onboard_time": 1745815522,
+        "rank": 5,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 594586,
+        "num": 338709,
+        "word": "刘美含闲置市集卖假货",
+        "onboard_time": 1745822963,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 571957,
+        "num": 328343,
+        "word": "陈赫又把张子萱打码了",
+        "onboard_time": 1745816722,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263357,
+        "num": 263357,
+        "word": "协和的4加4确实难以理解",
+        "onboard_time": 1745815823,
+        "rank": 8,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 167778,
+        "num": 262632,
+        "word": "美企老板说还不如一把火烧了库存",
+        "onboard_time": 1745823622,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 511128,
+        "num": 261772,
+        "word": "我求婚被龚俊黄子弘凡凑热闹",
+        "onboard_time": 1745823322,
+        "rank": 10,
+        "category": "演出,幽默"
+      },
+      {
+        "raw_hot": 476687,
+        "num": 260717,
+        "word": "丁禹兮孟子义淮水竹亭感情戏",
+        "onboard_time": 1745823684,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73335,
+        "num": 260409,
+        "word": "复活吧我的凤梨堡爱人",
+        "onboard_time": 1745823862,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 102618,
+        "num": 259319,
+        "word": "男子8年前被诊断为精神分裂自己不知情",
+        "onboard_time": 1745825182,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57715,
+        "num": 258147,
+        "word": "五一出境薅支付宝羊毛攻略",
+        "onboard_time": 1745823684,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 429894,
+        "num": 257454,
+        "word": "刘诗诗新剧首播口碑",
+        "onboard_time": 1745826202,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 335757,
+        "num": 256255,
+        "word": "京东快递员称入职13年工资100多万",
+        "onboard_time": 1745819903,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 137092,
+        "num": 255236,
+        "word": "范丞丞说沈腾是人生开门红领笑员",
+        "onboard_time": 1745825603,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 88456,
+        "num": 254496,
+        "word": "北京三里屯无畏线下赛",
+        "onboard_time": 1745825662,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 38843,
+        "num": 253701,
+        "word": "完整睡眠周期对健康的益处有哪些",
+        "onboard_time": 1745826143,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 278983,
+        "num": 253148,
+        "word": "关晓彤回应造型争议称只为走路方便",
+        "onboard_time": 1745814382,
+        "rank": 20,
+        "category": "电影,艺人"
+      },
+      {
+        "raw_hot": 252292,
+        "num": 252292,
+        "word": "毛不易不接受断崖式分手",
+        "onboard_time": 1745820143,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226056,
+        "num": 226056,
+        "word": "林珍娜泡泡持续被骂",
+        "onboard_time": 1745823923,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218965,
+        "num": 218965,
+        "word": "女子吃小龙虾竟剥出多颗珠子",
+        "onboard_time": 1745803342,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187587,
+        "num": 216134,
+        "word": "王曼昱回应获全国先进工作者荣誉",
+        "onboard_time": 1745826323,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215612,
+        "num": 215612,
+        "word": "先制造羞耻 再刺激消费",
+        "onboard_time": 1745824703,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 209623,
+        "num": 209623,
+        "word": "苏有朋何炅一起长大的朋友",
+        "onboard_time": 1745825903,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 209401,
+        "num": 209401,
+        "word": "演员宋洋感谢杨紫救场",
+        "onboard_time": 1745824103,
+        "rank": 27,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 189223,
+        "num": 189223,
+        "word": "朱志鑫鬓角",
+        "onboard_time": 1745825425,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183566,
+        "num": 183566,
+        "word": "特朗普态度突变威胁制裁俄罗斯",
+        "onboard_time": 1745818283,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 187093,
+        "num": 181840,
+        "word": "赵丽颖畲族素面旗袍造型",
+        "onboard_time": 1745823802,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 173849,
+        "num": 173849,
+        "word": "enhypen cody灵机一动",
+        "onboard_time": 1745825362,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 163496,
+        "num": 163496,
+        "word": "警犬福仔上班偷吃小朋友烤肠",
+        "onboard_time": 1745821583,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160015,
+        "num": 160015,
+        "word": "王曼昱说感谢中国乒乓球队的力量",
+        "onboard_time": 1745824403,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154785,
+        "num": 154785,
+        "word": "打车打到陶喆了",
+        "onboard_time": 1745822723,
+        "rank": 34,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 154508,
+        "num": 154508,
+        "word": "徐明浩 硬要饭撒也能撒",
+        "onboard_time": 1745825603,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144787,
+        "num": 144787,
+        "word": "王源谈爱犬走丢泪目",
+        "onboard_time": 1745826503,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144372,
+        "num": 144372,
+        "word": "王者五五开黑节",
+        "onboard_time": 1745825543,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 47131,
+        "num": 143759,
+        "word": "当山东网友下班刷到自家文旅",
+        "onboard_time": 1745826022,
+        "rank": 38,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 18035,
+        "num": 143564,
+        "word": "月度爱用购物分享",
+        "onboard_time": 1745825362,
+        "rank": 39,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 192609,
+        "num": 143564,
+        "word": "男孩被生母继父虐待致死案宣判",
+        "onboard_time": 1745815943,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143559,
+        "num": 143559,
+        "word": "让宋佳接不住戏的人出现了",
+        "onboard_time": 1745822963,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142226,
+        "num": 142226,
+        "word": "肖飞 董袭莹",
+        "onboard_time": 1745802921,
+        "rank": 42,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 131986,
+        "num": 131986,
+        "word": "王鸥亲爱的何老师生日快乐",
+        "onboard_time": 1745821703,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127964,
+        "num": 127964,
+        "word": "陷入我们的热恋",
+        "onboard_time": 1745824282,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117766,
+        "num": 117766,
+        "word": "全是情绪 毫无价值",
+        "onboard_time": 1745826682,
+        "rank": 45,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 116660,
+        "num": 116660,
+        "word": "赵丽颖方可再合作",
+        "onboard_time": 1745817323,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115409,
+        "num": 115409,
+        "word": "年轻人和父母装修差异有多大",
+        "onboard_time": 1745825543,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114059,
+        "num": 114059,
+        "word": "吴宣仪新剧刁蛮公主再现",
+        "onboard_time": 1745818403,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 284534,
+        "num": 113740,
+        "word": "王一栩 魔改",
+        "onboard_time": 1745821463,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#光荣属于劳动者幸福属于劳动者#"
+    }
+  }
+}
