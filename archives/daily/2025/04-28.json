@@ -1,6 +1,6 @@
 {
   "startTime": 1745771302155,
-  "endTime": 1745846719095,
+  "endTime": 1745847894036,
   "band_list": [
     {
       "raw_hot": 5235330,
@@ -91,6 +91,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1217682,
+      "num": 1217682,
+      "word": "85竹对打95花",
+      "onboard_time": 1745844022,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1165886,
       "num": 1165886,
       "word": "半个娱乐圈都在追无尽的尽头",
@@ -161,14 +169,6 @@
       "onboard_time": 1745842282,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 961352,
-      "num": 961352,
-      "word": "85竹对打95花",
-      "onboard_time": 1745844022,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 919060,
@@ -257,6 +257,14 @@
       "onboard_time": 1745833341,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 763589,
+      "num": 763589,
+      "word": "假离婚后拒复婚女子将丈夫告上法院",
+      "onboard_time": 1745843842,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 761108,
@@ -369,14 +377,6 @@
       "onboard_time": 1745808141,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 626655,
-      "num": 626655,
-      "word": "假离婚后拒复婚女子将丈夫告上法院",
-      "onboard_time": 1745843842,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 614917,
@@ -547,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 466428,
+      "num": 300167,
+      "word": "IU登顶韩国福布斯名人榜",
+      "onboard_time": 1745845041,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 461871,
       "num": 461871,
       "word": "刘亦菲已拿下全部白玉兰前哨奖",
@@ -593,6 +601,14 @@
       "onboard_time": 1745837122,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 426341,
+      "num": 300164,
+      "word": "刘诗诗回复虞书欣",
+      "onboard_time": 1745844803,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 424621,
@@ -667,6 +683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 384312,
+      "num": 384312,
+      "word": "孙俪说姐弟恋把我们这戏说俗气了",
+      "onboard_time": 1745841080,
+      "rank": 21,
+      "category": "艺人,剧集"
+    },
+    {
       "raw_hot": 375738,
       "num": 375738,
       "word": "星巴克 五月天",
@@ -731,14 +755,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 338654,
-      "num": 338654,
-      "word": "孙俪说姐弟恋把我们这戏说俗气了",
-      "onboard_time": 1745841080,
-      "rank": 21,
-      "category": "艺人,剧集"
-    },
-    {
       "raw_hot": 336981,
       "num": 271521,
       "word": "齐岱泽武艺嘉祺",
@@ -753,6 +769,14 @@
       "onboard_time": 1745835562,
       "rank": 21,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 329620,
+      "num": 299964,
+      "word": "贾静雯女儿钟丽缇女儿同框",
+      "onboard_time": 1745844982,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 316827,
@@ -795,6 +819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 300182,
+      "num": 300182,
+      "word": "为什么小时候常有的停电好像消失了",
+      "onboard_time": 1745847141,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 297630,
       "num": 297630,
       "word": "王源谈爱犬走丢泪目",
@@ -809,6 +841,14 @@
       "onboard_time": 1745836282,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 289805,
+      "num": 289805,
+      "word": "住酒店遭服务员闯入被吓进医院",
+      "onboard_time": 1745845642,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 289804,
@@ -843,14 +883,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 277723,
-      "num": 277723,
-      "word": "IU登顶韩国福布斯名人榜",
-      "onboard_time": 1745845041,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 277572,
       "num": 162975,
       "word": "沈腾果然起早贪黑刷微博",
@@ -867,20 +899,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 273859,
-      "num": 273859,
-      "word": "刘诗诗回复虞书欣",
-      "onboard_time": 1745844803,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 273384,
       "num": 273384,
       "word": "林珍娜泡泡持续被骂",
       "onboard_time": 1745823923,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 273340,
+      "num": 251559,
+      "word": "捡个脸盆被记9分断了多根肋骨",
+      "onboard_time": 1745847141,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 272444,
@@ -963,14 +995,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 236785,
-      "num": 186270,
-      "word": "贾静雯女儿钟丽缇女儿同框",
-      "onboard_time": 1745844982,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 236197,
       "num": 236197,
       "word": "仙逆将影视化",
@@ -1011,12 +1035,28 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 230719,
+      "num": 230719,
+      "word": "梁伟铿王昶拿下首秀",
+      "onboard_time": 1745847202,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 227983,
       "num": 227983,
       "word": "樊振东穿奥运领奖服戴奖章",
       "onboard_time": 1745813843,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 226221,
+      "num": 226221,
+      "word": "柯淳片场随地扔烟头",
+      "onboard_time": 1745845222,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 225176,
@@ -1076,7 +1116,7 @@
     },
     {
       "raw_hot": 212609,
-      "num": 181727,
+      "num": 211726,
       "word": "森林北直播带货",
       "onboard_time": 1745844741,
       "rank": 34,
@@ -1097,6 +1137,14 @@
       "onboard_time": 1745811321,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 211029,
+      "num": 211029,
+      "word": "这些声音里藏着他们的劳动荣光",
+      "onboard_time": 1745847082,
+      "rank": 30,
+      "category": "正能量"
     },
     {
       "raw_hot": 209907,
@@ -1211,14 +1259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 193236,
-      "num": 174998,
-      "word": "柯淳片场随地扔烟头",
-      "onboard_time": 1745845222,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 192989,
       "num": 192989,
       "word": "养了六年的兔子给我做了个窝",
@@ -1257,6 +1297,14 @@
       "onboard_time": 1745799022,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189776,
+      "num": 257251,
+      "word": "领克900重新定义家庭大六座标准",
+      "onboard_time": 1745847263,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 189600,
@@ -1320,6 +1368,14 @@
       "word": "王鸥亲爱的何老师生日快乐",
       "onboard_time": 1745821703,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 187708,
+      "num": 187708,
+      "word": "赵一博刚插完秧就来直播了",
+      "onboard_time": 1745845403,
+      "rank": 37,
       "category": "艺人"
     },
     {
@@ -1523,6 +1579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164987,
+      "num": 164987,
+      "word": "BLG辅核",
+      "onboard_time": 1745844920,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 164493,
       "num": 164493,
       "word": "利拉德恐遭遇跟腱撕裂",
@@ -1569,6 +1633,14 @@
       "onboard_time": 1745806942,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161029,
+      "num": 161029,
+      "word": "丁禹兮给孟子义打光",
+      "onboard_time": 1745846721,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 160015,
@@ -1739,14 +1811,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 148725,
-      "num": 148725,
-      "word": "BLG辅核",
-      "onboard_time": 1745844920,
-      "rank": 40,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 148074,
       "num": 148074,
       "word": "原来睡觉真的可以减脂",
@@ -1777,14 +1841,6 @@
       "onboard_time": 1745771359,
       "rank": 21,
       "category": "电影"
-    },
-    {
-      "raw_hot": 146518,
-      "num": 146518,
-      "word": "赵一博刚插完秧就来直播了",
-      "onboard_time": 1745845403,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 146385,
@@ -1931,6 +1987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136183,
+      "num": 159044,
+      "word": "男子偷盗刮刮乐刮出1550元",
+      "onboard_time": 1745844081,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135815,
       "num": 135815,
       "word": "官方回应浙江一公务车被指遮挡号牌",
@@ -1955,12 +2019,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 133712,
-      "num": 159044,
-      "word": "男子偷盗刮刮乐刮出1550元",
-      "onboard_time": 1745844081,
-      "rank": 28,
-      "category": "民生新闻"
+      "raw_hot": 132258,
+      "num": 132258,
+      "word": "登陆少年新歌ForYou",
+      "onboard_time": 1745847803,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 131263,
@@ -2009,6 +2073,14 @@
       "onboard_time": 1745810840,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 128547,
+      "num": 128547,
+      "word": "小米称正在加急设计更多水印样式",
+      "onboard_time": 1745844442,
+      "rank": 45,
+      "category": "数码,互联网"
     },
     {
       "raw_hot": 128385,
@@ -2411,14 +2483,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 105354,
-      "num": 105354,
-      "word": "小米称正在加急设计更多水印样式",
-      "onboard_time": 1745844442,
-      "rank": 45,
-      "category": "数码,互联网"
-    },
-    {
       "raw_hot": 105165,
       "num": 257757,
       "word": "限量版iQOO单车谁抢到了",
@@ -2449,6 +2513,14 @@
       "onboard_time": 1745843422,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 104046,
+      "num": 148062,
+      "word": "终于有人把冰箱的坑说清楚了",
+      "onboard_time": 1745847681,
+      "rank": 39,
+      "category": "科学科普,民生新闻"
     },
     {
       "raw_hot": 103794,
@@ -2852,7 +2924,7 @@
     },
     {
       "raw_hot": 81928,
-      "num": 191729,
+      "num": 258431,
       "word": "从三岁到百岁都爱的旋转座椅",
       "onboard_time": 1745845522,
       "rank": 18,
@@ -2873,6 +2945,14 @@
       "onboard_time": 1745841802,
       "rank": 26,
       "category": "数码"
+    },
+    {
+      "raw_hot": 80593,
+      "num": 784251,
+      "word": "游在中国热度不减购在中国蔚然成风",
+      "onboard_time": 1745846002,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79126,
@@ -3179,14 +3259,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 50341,
-      "num": 274525,
-      "word": "住酒店遭服务员闯入被吓进医院",
-      "onboard_time": 1745845642,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 49078,
       "num": 857192,
       "word": "中国游中国购持续升温",
@@ -3331,14 +3403,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 37036,
-      "num": 784251,
-      "word": "游在中国热度不减购在中国蔚然成风",
-      "onboard_time": 1745846002,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 36432,
       "num": 50521,
       "word": "韩安冉向婆婆道歉",
@@ -3403,6 +3467,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 28298,
+      "num": 227333,
+      "word": "王曼昱出发成都封训",
+      "onboard_time": 1745847502,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 28146,
       "num": 287405,
       "word": "王者三丽鸥皮肤亮点与福利有哪些",
@@ -3425,6 +3497,14 @@
       "onboard_time": 1745778196,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 26904,
+      "num": 215666,
+      "word": "这是真的二次元头像的神",
+      "onboard_time": 1745846782,
+      "rank": 28,
+      "category": "动漫"
     },
     {
       "raw_hot": 26431,
@@ -3507,6 +3587,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 18556,
+      "num": 224031,
+      "word": "巴士兵遇袭是否会加剧印巴冲突",
+      "onboard_time": 1745847681,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 18035,
       "num": 143564,
       "word": "月度爱用购物分享",
@@ -3531,20 +3619,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 16639,
+      "num": 219223,
+      "word": "当娜拉荣归故里",
+      "onboard_time": 1745846482,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15921,
       "num": 348907,
       "word": "张译为何在巅峰期选择息影",
       "onboard_time": 1745814083,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 14893,
-      "num": 163951,
-      "word": "当娜拉荣归故里",
-      "onboard_time": 1745846482,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14792,
@@ -3585,6 +3673,14 @@
       "onboard_time": 1745772078,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 10065,
+      "num": 148078,
+      "word": "不要在床和鞋上节约",
+      "onboard_time": 1745841861,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 9390,
