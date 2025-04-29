@@ -1,0 +1,410 @@
+{
+  "runTime": 1745936751106,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1367781,
+        "num": 1367781,
+        "word": "家长查孩子成绩一年被收300元",
+        "onboard_time": 1745929643,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1356171,
+        "num": 1356171,
+        "word": "曾黎团队傲慢公关丢了人心",
+        "onboard_time": 1745934745,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38919,
+        "num": 1096020,
+        "word": "以丰富的政策工具护航经济发展",
+        "onboard_time": 1745933664,
+        "rank": 2,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 898094,
+        "num": 898094,
+        "word": "辽阳一饭店火灾22死3伤",
+        "onboard_time": 1745916264,
+        "rank": 3,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 895345,
+        "num": 895345,
+        "word": "杨紫宣传淮水竹亭",
+        "onboard_time": 1745934981,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 809097,
+        "num": 809097,
+        "word": "小区一女子戴面具恐吓电梯内幼童",
+        "onboard_time": 1745931620,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 792957,
+        "num": 792957,
+        "word": "赵粤解约",
+        "onboard_time": 1745931920,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 746356,
+        "num": 746356,
+        "word": "致22死饭店火灾事发时正值午餐高峰",
+        "onboard_time": 1745928862,
+        "rank": 7,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 514801,
+        "num": 514801,
+        "word": "董袭莹被爆学术历程跨多学科",
+        "onboard_time": 1745929582,
+        "rank": 8,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 213670,
+        "num": 504692,
+        "word": "协和特培项目是否成了特权通道",
+        "onboard_time": 1745934083,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 731032,
+        "num": 495294,
+        "word": "董小姐的医学奇迹",
+        "onboard_time": 1745920043,
+        "rank": 10,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 627623,
+        "num": 480685,
+        "word": "董小姐父母何以跨界指导论文",
+        "onboard_time": 1745927001,
+        "rank": 11,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 518536,
+        "num": 476669,
+        "word": "亲子酒店员工朋友圈说希望小朋友死掉",
+        "onboard_time": 1745934745,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 300335,
+        "num": 462666,
+        "word": "李兰迪花瓣裙",
+        "onboard_time": 1745931620,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164351,
+        "num": 456032,
+        "word": "产科医生介绍婴儿买卖已被调岗",
+        "onboard_time": 1745935644,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 444878,
+        "num": 444878,
+        "word": "沙特王储称中国崩了全世界都要崩",
+        "onboard_time": 1745928323,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 152679,
+        "num": 412727,
+        "word": "电影独一无二首映口碑",
+        "onboard_time": 1745935523,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 411308,
+        "num": 411308,
+        "word": "马代遭性侵女子称酒店想用10万私了",
+        "onboard_time": 1745933963,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149466,
+        "num": 405338,
+        "word": "张元英和她的七年站叔",
+        "onboard_time": 1745934202,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101054,
+        "num": 403238,
+        "word": "曾凡博重摔判罚合理吗",
+        "onboard_time": 1745936062,
+        "rank": 19,
+        "category": "体育,其它"
+      },
+      {
+        "raw_hot": 1412519,
+        "num": 402923,
+        "word": "曾黎 灾难公关",
+        "onboard_time": 1745908822,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 401572,
+        "num": 401572,
+        "word": "曾凡博后脑勺砸地",
+        "onboard_time": 1745934202,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 331456,
+        "num": 331456,
+        "word": "物业回应面具女恐吓电梯内2幼童",
+        "onboard_time": 1745927664,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268146,
+        "num": 268146,
+        "word": "辽阳一饭店火灾原因正在调查",
+        "onboard_time": 1745922983,
+        "rank": 23,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 23520,
+        "num": 265385,
+        "word": "晕车和胃肠道功能有啥联系",
+        "onboard_time": 1745936484,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 265181,
+        "num": 265181,
+        "word": "时代少年团演唱会直播",
+        "onboard_time": 1745925322,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 229776,
+        "num": 229776,
+        "word": "奈雪的茶门店通知能喝奶茶就不要喝水",
+        "onboard_time": 1745916743,
+        "rank": 26,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 210106,
+        "num": 210106,
+        "word": "肖飞被开除董袭莹问题何时查",
+        "onboard_time": 1745904442,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208596,
+        "num": 208596,
+        "word": "SuperM",
+        "onboard_time": 1745928262,
+        "rank": 28,
+        "category": "艺人,音乐"
+      },
+      {
+        "raw_hot": 182823,
+        "num": 182823,
+        "word": "麦琳跺脚变装",
+        "onboard_time": 1745935102,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120627,
+        "num": 177650,
+        "word": "瑞幸发布2025年Q1财报",
+        "onboard_time": 1745934745,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 174761,
+        "num": 174761,
+        "word": "张云龙我俩就退圈是吧",
+        "onboard_time": 1745921423,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166121,
+        "num": 166121,
+        "word": "大学生花15万全款买房后的生活",
+        "onboard_time": 1745924301,
+        "rank": 32,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 156399,
+        "num": 156399,
+        "word": "叶舒华为减肥戒掉面粉",
+        "onboard_time": 1745927123,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155961,
+        "num": 155961,
+        "word": "印度游客山上滑索时山下恐袭致26死",
+        "onboard_time": 1745930243,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 143565,
+        "num": 143565,
+        "word": "男子因不愿玩自费项目被旅行社扔山里",
+        "onboard_time": 1745931203,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142006,
+        "num": 142006,
+        "word": "丁禹兮听到永夜两个字的反应",
+        "onboard_time": 1745926282,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140205,
+        "num": 140205,
+        "word": "独一无二",
+        "onboard_time": 1745935463,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138098,
+        "num": 138098,
+        "word": "章若楠翟潇闻演完发小演姑侄",
+        "onboard_time": 1745933603,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12406,
+        "num": 135909,
+        "word": "中国医疗教育体系的特点",
+        "onboard_time": 1745936544,
+        "rank": 39,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 135372,
+        "num": 135372,
+        "word": "浪姐",
+        "onboard_time": 1745932643,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134856,
+        "num": 134856,
+        "word": "终于明白漫山遍野这个词有多美了",
+        "onboard_time": 1745933182,
+        "rank": 41,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 133751,
+        "num": 133751,
+        "word": "买1斤黄金不问价店员报警",
+        "onboard_time": 1745936602,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126668,
+        "num": 126668,
+        "word": "王源5.1还有惊喜",
+        "onboard_time": 1745936484,
+        "rank": 43,
+        "category": "演出,音乐"
+      },
+      {
+        "raw_hot": 124286,
+        "num": 124286,
+        "word": "央企干部赌博被偷拍4人涉敲诈获刑",
+        "onboard_time": 1745925863,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 124233,
+        "num": 124233,
+        "word": "葱花原来真的是花",
+        "onboard_time": 1745935644,
+        "rank": 45,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 123872,
+        "num": 123872,
+        "word": "周奇说肖战拍藏海传每天健身",
+        "onboard_time": 1745935943,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 120376,
+        "num": 120376,
+        "word": "对辽宁辽阳一饭店火灾挂牌督办",
+        "onboard_time": 1745924662,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116564,
+        "num": 116564,
+        "word": "外交部发布双语硬核视频",
+        "onboard_time": 1745914940,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 113261,
+        "num": 113261,
+        "word": "刘美含多平台掉粉",
+        "onboard_time": 1745914222,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在上海考察调研#"
+    }
+  }
+}
