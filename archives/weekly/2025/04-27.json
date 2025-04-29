@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1745936751106,
+  "endTime": 1745937860983,
   "band_list": [
     {
       "raw_hot": 8960529,
@@ -136,6 +136,14 @@
       "word": "陈赫又把张子萱打码了",
       "onboard_time": 1745816722,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2021122,
+      "num": 2021122,
+      "word": "曾黎团队傲慢公关丢了人心",
+      "onboard_time": 1745934745,
+      "rank": 1,
       "category": "艺人"
     },
     {
@@ -345,14 +353,6 @@
       "onboard_time": 1745929643,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1356171,
-      "num": 1356171,
-      "word": "曾黎团队傲慢公关丢了人心",
-      "onboard_time": 1745934745,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 1350985,
@@ -1835,6 +1835,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 460218,
+      "num": 504692,
+      "word": "协和特培项目是否成了特权通道",
+      "onboard_time": 1745934083,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 457707,
       "num": 307133,
       "word": "香港高铁站偶遇杨幂",
@@ -2345,6 +2353,14 @@
       "onboard_time": 1745735602,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 340273,
+      "num": 456032,
+      "word": "产科医生介绍婴儿买卖已被调岗",
+      "onboard_time": 1745935644,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 338008,
@@ -3747,14 +3763,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 213670,
-      "num": 504692,
-      "word": "协和特培项目是否成了特权通道",
-      "onboard_time": 1745934083,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 213152,
       "num": 213152,
       "word": "无名华表奖优秀电影摄影",
@@ -4032,6 +4040,14 @@
       "word": "丁禹兮直播",
       "onboard_time": 1745844201,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 203532,
+      "num": 405338,
+      "word": "张元英和她的七年站叔",
+      "onboard_time": 1745934202,
+      "rank": 38,
       "category": "艺人"
     },
     {
@@ -4427,6 +4443,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 191106,
+      "num": 219226,
+      "word": "电影独一无二改档",
+      "onboard_time": 1745936783,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 190982,
       "num": 190982,
       "word": "在飞机上被韩国人偷了",
@@ -4497,6 +4521,14 @@
       "onboard_time": 1745847263,
       "rank": 18,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 189709,
+      "num": 189709,
+      "word": "麦琳跺脚变装",
+      "onboard_time": 1745935102,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 189600,
@@ -4723,6 +4755,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 185568,
+      "num": 185568,
+      "word": "女子买彩票中945万上完班才领奖",
+      "onboard_time": 1745937203,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 185552,
       "num": 185552,
       "word": "美航母一战机坠海",
@@ -4795,14 +4835,6 @@
       "category": "情感,民生新闻"
     },
     {
-      "raw_hot": 182823,
-      "num": 182823,
-      "word": "麦琳跺脚变装",
-      "onboard_time": 1745935102,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 182716,
       "num": 182716,
       "word": "螺蛳粉闷大米饭",
@@ -4827,11 +4859,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 182429,
+      "num": 182429,
+      "word": "张钧甯小松菜奈同框合影",
+      "onboard_time": 1745936964,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 182287,
       "num": 259319,
       "word": "男子8年前被诊断为精神分裂自己不知情",
       "onboard_time": 1745825182,
       "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181699,
+      "num": 455687,
+      "word": "买1斤黄金不问价店员报警",
+      "onboard_time": 1745936602,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -5251,14 +5299,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 164351,
-      "num": 456032,
-      "word": "产科医生介绍婴儿买卖已被调岗",
-      "onboard_time": 1745935644,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 164084,
       "num": 164084,
       "word": "FPX战胜BLG",
@@ -5603,6 +5643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156586,
+      "num": 156586,
+      "word": "种地吧",
+      "onboard_time": 1745861056,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156391,
       "num": 156391,
       "word": "毛晓彤跳出了具象化的春天",
@@ -5937,14 +5985,6 @@
       "onboard_time": 1745806521,
       "rank": 48,
       "category": "剧集,艺人"
-    },
-    {
-      "raw_hot": 149466,
-      "num": 405338,
-      "word": "张元英和她的七年站叔",
-      "onboard_time": 1745934202,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 149438,
@@ -6307,6 +6347,14 @@
       "category": "剧集,作品衍生"
     },
     {
+      "raw_hot": 141889,
+      "num": 141889,
+      "word": "seventeen回归日程",
+      "onboard_time": 1745937325,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 141817,
       "num": 258362,
       "word": "整活还得看爱酷的大学生",
@@ -6345,6 +6393,14 @@
       "onboard_time": 1745718621,
       "rank": 35,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 140693,
+      "num": 403238,
+      "word": "曾凡博重摔判罚合理吗",
+      "onboard_time": 1745936062,
+      "rank": 19,
+      "category": "体育,其它"
     },
     {
       "raw_hot": 140641,
@@ -6481,6 +6537,14 @@
       "onboard_time": 1745728943,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 137304,
+      "num": 137304,
+      "word": "深巅极限偷家",
+      "onboard_time": 1745937325,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 137138,
@@ -6667,14 +6731,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 133751,
-      "num": 133751,
-      "word": "买1斤黄金不问价店员报警",
-      "onboard_time": 1745936602,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 133642,
       "num": 135390,
       "word": "梁伟铿呼吁球迷冷静观赛",
@@ -6777,6 +6833,14 @@
       "onboard_time": 1745752222,
       "rank": 48,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 131064,
+      "num": 233940,
+      "word": "刘宇宁说开推氛围很好",
+      "onboard_time": 1745937142,
+      "rank": 19,
+      "category": "艺人,剧集"
     },
     {
       "raw_hot": 130899,
@@ -7044,7 +7108,7 @@
     },
     {
       "raw_hot": 123872,
-      "num": 123872,
+      "num": 189796,
       "word": "周奇说肖战拍藏海传每天健身",
       "onboard_time": 1745935943,
       "rank": 46,
@@ -7313,6 +7377,14 @@
       "onboard_time": 1745925621,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 116627,
+      "num": 151503,
+      "word": "美国3月商品贸易逆差创纪录",
+      "onboard_time": 1745937684,
+      "rank": 33,
+      "category": "财经,国际时政"
     },
     {
       "raw_hot": 116392,
@@ -7851,6 +7923,14 @@
       "category": "国内时政,国际时政"
     },
     {
+      "raw_hot": 102106,
+      "num": 151354,
+      "word": "商家曝女子网购内衣半年后买新退旧",
+      "onboard_time": 1745937742,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101884,
       "num": 101884,
       "word": "ChatGPT购物功能",
@@ -7897,14 +7977,6 @@
       "onboard_time": 1745846423,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 101054,
-      "num": 403238,
-      "word": "曾凡博重摔判罚合理吗",
-      "onboard_time": 1745936062,
-      "rank": 19,
-      "category": "体育,其它"
     },
     {
       "raw_hot": 100972,
@@ -9723,6 +9795,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 43461,
+      "num": 1165520,
+      "word": "以丰富的政策工具护航经济发展",
+      "onboard_time": 1745933664,
+      "rank": 2,
+      "category": "国内时政,财经"
+    },
+    {
       "raw_hot": 43272,
       "num": 154521,
       "word": "每天多睡1小时的治愈力",
@@ -9867,14 +9947,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 38919,
-      "num": 1165520,
-      "word": "以丰富的政策工具护航经济发展",
-      "onboard_time": 1745933664,
-      "rank": 2,
-      "category": "国内时政,财经"
-    },
-    {
       "raw_hot": 38450,
       "num": 177849,
       "word": "广州和佛山暴雨倾盆",
@@ -9955,6 +10027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 35660,
+      "num": 135909,
+      "word": "中国医疗教育体系的特点",
+      "onboard_time": 1745936544,
+      "rank": 39,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 35566,
       "num": 131152,
       "word": "县域医院掀起医疗设备采购热潮",
@@ -9969,14 +10049,6 @@
       "onboard_time": 1745847502,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 35422,
-      "num": 35422,
-      "word": "种地吧",
-      "onboard_time": 1745861056,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 35301,
@@ -10193,6 +10265,14 @@
       "onboard_time": 1745661801,
       "rank": 49,
       "category": "网红"
+    },
+    {
+      "raw_hot": 29744,
+      "num": 265385,
+      "word": "晕车和胃肠道功能有啥联系",
+      "onboard_time": 1745936484,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 29635,
@@ -10475,14 +10555,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 23520,
-      "num": 265385,
-      "word": "晕车和胃肠道功能有啥联系",
-      "onboard_time": 1745936484,
-      "rank": 24,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 23342,
       "num": 185890,
       "word": "以军对加沙密集袭击已致49人死亡",
@@ -10673,6 +10745,14 @@
       "onboard_time": 1745863994,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 19431,
+      "num": 142066,
+      "word": "什么风把李现吹到了成都",
+      "onboard_time": 1745937263,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 19286,
@@ -11057,14 +11137,6 @@
       "onboard_time": 1745870353,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 12406,
-      "num": 135909,
-      "word": "中国医疗教育体系的特点",
-      "onboard_time": 1745936544,
-      "rank": 39,
-      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 12361,
