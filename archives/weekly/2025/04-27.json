@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1745891743891,
+  "endTime": 1745893062505,
   "band_list": [
     {
       "raw_hot": 8960529,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 2011278,
-      "num": 306024,
+      "num": 307509,
       "word": "协和",
       "onboard_time": 1745886801,
       "rank": 10,
@@ -217,6 +217,14 @@
       "onboard_time": 1745752102,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1415763,
+      "num": 305553,
+      "word": "艺洋你无敌了",
+      "onboard_time": 1745891600,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 1400427,
@@ -707,20 +715,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 741844,
+      "num": 741844,
+      "word": "外交部发布重磅视频不跪",
+      "onboard_time": 1745887522,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 739738,
       "num": 739738,
       "word": "肖战 孙燕姿演唱会",
       "onboard_time": 1745675244,
       "rank": 3,
       "category": "演出"
-    },
-    {
-      "raw_hot": 735603,
-      "num": 735603,
-      "word": "外交部发布重磅视频不跪",
-      "onboard_time": 1745887522,
-      "rank": 1,
-      "category": "国内时政"
     },
     {
       "raw_hot": 727063,
@@ -1259,6 +1267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 477978,
+      "num": 477978,
+      "word": "乘风破浪的姐姐人鱼的眼泪",
+      "onboard_time": 1745889263,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 477557,
       "num": 477557,
       "word": "今年首个蛇年蛇月蛇日蛇时",
@@ -1273,14 +1289,6 @@
       "onboard_time": 1745823684,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 476545,
-      "num": 476545,
-      "word": "乘风破浪的姐姐人鱼的眼泪",
-      "onboard_time": 1745889263,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 475829,
@@ -1304,6 +1312,14 @@
       "word": "赵丽颖方可再合作",
       "onboard_time": 1745817323,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 472043,
+      "num": 299193,
+      "word": "鞠婧祎撕拉片 出圈",
+      "onboard_time": 1745889321,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -1345,6 +1361,14 @@
       "onboard_time": 1745801903,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 461437,
+      "num": 461437,
+      "word": "泽连斯基承认乌情报部门刺杀俄军高官",
+      "onboard_time": 1745889561,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 457707,
@@ -1643,19 +1667,19 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 367146,
+      "num": 367146,
+      "word": "知网已搜不到董袭莹论文",
+      "onboard_time": 1745891841,
+      "rank": 6,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 365191,
       "num": 332843,
       "word": "李现回应沉迷打鸟",
       "onboard_time": 1745759303,
       "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 363597,
-      "num": 296061,
-      "word": "鞠婧祎撕拉片 出圈",
-      "onboard_time": 1745889321,
-      "rank": 15,
       "category": "艺人"
     },
     {
@@ -2313,14 +2337,6 @@
       "onboard_time": 1745789595,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 253176,
-      "num": 309040,
-      "word": "泽连斯基承认乌情报部门刺杀俄军高官",
-      "onboard_time": 1745889561,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 252401,
@@ -2985,6 +3001,14 @@
       "onboard_time": 1745763503,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 199932,
+      "num": 199932,
+      "word": "不跪",
+      "onboard_time": 1745892560,
+      "rank": 22,
+      "category": "国内时政"
     },
     {
       "raw_hot": 199925,
@@ -3747,6 +3771,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 165822,
+      "num": 165822,
+      "word": "狗狗吹完毛微信步数至少2万",
+      "onboard_time": 1745890282,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 165193,
       "num": 165193,
       "word": "刘学义敖瑞鹏四年前状态",
@@ -3825,6 +3857,14 @@
       "onboard_time": 1745735422,
       "rank": 48,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 163001,
+      "num": 163001,
+      "word": "孙颖莎11300分继续霸榜世排第一",
+      "onboard_time": 1745892622,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 162384,
@@ -4379,12 +4419,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146901,
+      "num": 198122,
+      "word": "沈腾这是OK不是30场哈",
+      "onboard_time": 1745892622,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 146705,
       "num": 146705,
       "word": "大侦探",
       "onboard_time": 1745811562,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146663,
+      "num": 146663,
+      "word": "李铁案二审将宣判",
+      "onboard_time": 1745892922,
+      "rank": 33,
+      "category": "国内时政,体育"
     },
     {
       "raw_hot": 146559,
@@ -4795,6 +4851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135848,
+      "num": 135848,
+      "word": "已经在预制五一朋友圈了",
+      "onboard_time": 1745892622,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135825,
       "num": 135825,
       "word": "当你用微波炉假装在医院请病假",
@@ -5060,7 +5124,7 @@
     },
     {
       "raw_hot": 128316,
-      "num": 128316,
+      "num": 167189,
       "word": "沈腾说给马丽新片包20场没问题",
       "onboard_time": 1745888182,
       "rank": 28,
@@ -5179,6 +5243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124819,
+      "num": 124819,
+      "word": "度过情侣尴尬期的标志",
+      "onboard_time": 1745892622,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 124714,
       "num": 124714,
       "word": "BRO战胜T1",
@@ -5201,14 +5273,6 @@
       "onboard_time": 1745761464,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 123627,
-      "num": 115605,
-      "word": "艺洋你无敌了",
-      "onboard_time": 1745891600,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 123232,
@@ -5539,14 +5603,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 108695,
-      "num": 108695,
-      "word": "狗狗吹完毛微信步数至少2万",
-      "onboard_time": 1745890282,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 108469,
       "num": 293625,
       "word": "星巴克五月天联名杯被炒至799元",
@@ -5673,6 +5729,14 @@
       "onboard_time": 1745834181,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 106221,
+      "num": 106221,
+      "word": "他从黄山走进了人民大会堂",
+      "onboard_time": 1745892681,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 106187,
@@ -5844,7 +5908,7 @@
     },
     {
       "raw_hot": 101163,
-      "num": 101163,
+      "num": 197668,
       "word": "被深圳一中学研学的浪漫惊艳了",
       "onboard_time": 1745886861,
       "rank": 33,
@@ -5867,12 +5931,28 @@
       "category": "民生新闻,民生新闻"
     },
     {
+      "raw_hot": 100880,
+      "num": 100880,
+      "word": "美股超级周来袭",
+      "onboard_time": 1745892681,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 100702,
       "num": 100702,
       "word": "背刺",
       "onboard_time": 1745886861,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 100675,
+      "num": 100675,
+      "word": "上海推出女职工产假补贴",
+      "onboard_time": 1745890160,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 100496,
@@ -6195,6 +6275,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 91419,
+      "num": 91419,
+      "word": "巴基斯坦称印度入侵迫在眉睫",
+      "onboard_time": 1745886982,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 91354,
       "num": 91354,
       "word": "金价震荡消费者趋于谨慎",
@@ -6217,6 +6305,14 @@
       "onboard_time": 1745829382,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 91014,
+      "num": 91014,
+      "word": "罗志祥分享妈妈近况",
+      "onboard_time": 1745889920,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 90808,
@@ -6347,28 +6443,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 85783,
-      "num": 85783,
-      "word": "罗志祥分享妈妈近况",
-      "onboard_time": 1745889920,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 85527,
-      "num": 85527,
-      "word": "上海推出女职工产假补贴",
-      "onboard_time": 1745890160,
-      "rank": 42,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 85469,
       "num": 239351,
       "word": "恋与深空 祁煜",
       "onboard_time": 1745797400,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 85371,
+      "num": 85371,
+      "word": "NBA",
+      "onboard_time": 1745893041,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 85067,
@@ -6443,14 +6531,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 83111,
-      "num": 83111,
-      "word": "巴基斯坦称印度入侵迫在眉睫",
-      "onboard_time": 1745886982,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 83065,
       "num": 175293,
       "word": "爱泼斯坦案证人自杀前发ins",
@@ -6505,6 +6585,14 @@
       "onboard_time": 1745841802,
       "rank": 26,
       "category": "数码"
+    },
+    {
+      "raw_hot": 81192,
+      "num": 81192,
+      "word": "迪丽热巴说馕言文",
+      "onboard_time": 1745883080,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 80593,
@@ -6657,14 +6745,6 @@
       "onboard_time": 1745753722,
       "rank": 37,
       "category": "网红"
-    },
-    {
-      "raw_hot": 74204,
-      "num": 74204,
-      "word": "迪丽热巴说馕言文",
-      "onboard_time": 1745883080,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 74078,
@@ -7292,7 +7372,7 @@
     },
     {
       "raw_hot": 44554,
-      "num": 488277,
+      "num": 585013,
       "word": "稳就业稳经济5方面若干举措",
       "onboard_time": 1745845342,
       "rank": 2,
