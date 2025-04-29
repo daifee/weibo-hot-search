@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/29 16:47:42
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/29 17:28:09
 </p>
 </blockquote>
 <p>
@@ -131,6 +131,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AC%A7%E7%9B%9F%E5%AF%B9%E7%BE%8E%E5%8A%A0%E5%BE%8125%25%E5%85%B3%E7%A8%8E%23" target="weibo">
 欧盟对美加征25%关税（热度：8693435）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BE%BD%E9%98%B3%E4%B8%80%E9%A5%AD%E5%BA%97%E7%81%AB%E7%81%BE22%E6%AD%BB3%E4%BC%A4%23" target="weibo">
+辽阳一饭店火灾22死3伤（热度：8521656）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ bite me男伴舞（热度：832510）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%A3%9E%E5%AE%87%E6%9C%8B%E5%8F%8B%E5%9C%88%23" target="weibo">
 陈飞宇朋友圈（热度：829818）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23731%E9%83%A8%E9%98%9F%E6%9B%BE%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%A4%9A%E5%9C%B0%E6%8A%95%E6%92%92%E7%BB%86%E8%8F%8C%23" target="weibo">
-731部队曾在中国多地投撒细菌（热度：829261）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1745916462218,
+  "endTime": 1745918889898,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -745,6 +745,14 @@
       "onboard_time": 1744204348,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 8521656,
+      "num": 9771656,
+      "word": "辽阳一饭店火灾22死3伤",
+      "onboard_time": 1745916264,
+      "rank": 4,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 8423438,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736072185,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 3026366,
-      "num": 3026366,
-      "word": "特朗普遭死亡威胁",
-      "onboard_time": 1744428804,
-      "rank": 3,
-      "category": "国际时政"
     }
   ],
   "hotgov_list": [

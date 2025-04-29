@@ -1,0 +1,410 @@
+{
+  "runTime": 1745918889898,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8521656,
+        "num": 9771656,
+        "word": "辽阳一饭店火灾22死3伤",
+        "onboard_time": 1745916264,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 3231754,
+        "num": 3231754,
+        "word": "曾黎 灾难公关",
+        "onboard_time": 1745908822,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39296,
+        "num": 2010733,
+        "word": "光荣属于劳动者",
+        "onboard_time": 1745913563,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1638898,
+        "num": 1638898,
+        "word": "曾黎铁粉 路人都觉得心寒的程度",
+        "onboard_time": 1745908822,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 688809,
+        "num": 688809,
+        "word": "奈雪的茶门店通知能喝奶茶就不要喝水",
+        "onboard_time": 1745916743,
+        "rank": 4,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 650601,
+        "num": 650601,
+        "word": "永辉超市回应标价7.96元实收8元",
+        "onboard_time": 1745911763,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 447864,
+        "num": 447864,
+        "word": "协和4加4除了经济学还有园艺和外语",
+        "onboard_time": 1745912182,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 401608,
+        "num": 401608,
+        "word": "中国不跪中国不退",
+        "onboard_time": 1745903723,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 383968,
+        "num": 383968,
+        "word": "鹿晗正定伴手礼",
+        "onboard_time": 1745902044,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172430,
+        "num": 375960,
+        "word": "外交部回应美方称应由中国缓和关税战",
+        "onboard_time": 1745915122,
+        "rank": 9,
+        "category": "国际时政,国内时政"
+      },
+      {
+        "raw_hot": 750600,
+        "num": 375772,
+        "word": "为了报复五一调休 我决定",
+        "onboard_time": 1745910804,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 737232,
+        "num": 374029,
+        "word": "肖飞被开除董袭莹问题何时查",
+        "onboard_time": 1745904442,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 370684,
+        "num": 370684,
+        "word": "追星不该被这样情感剥削",
+        "onboard_time": 1745915964,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367067,
+        "num": 367067,
+        "word": "董袭莹疑曾获巴纳德学院表彰",
+        "onboard_time": 1745916264,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 260685,
+        "num": 341687,
+        "word": "第一批追高黄金的年轻人已经亏麻了",
+        "onboard_time": 1745917884,
+        "rank": 14,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 297851,
+        "num": 330793,
+        "word": "章子怡舞台上意外摔倒已就医",
+        "onboard_time": 1745918064,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 325058,
+        "num": 325058,
+        "word": "外交部发布双语硬核视频",
+        "onboard_time": 1745914940,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 280542,
+        "num": 280542,
+        "word": "邓超羡慕孙俪剧里的老公",
+        "onboard_time": 1745917764,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52484,
+        "num": 277101,
+        "word": "潘展乐说中国游泳队敢打敢拼",
+        "onboard_time": 1745917943,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12174,
+        "num": 274696,
+        "word": "龚翔宇传承了中国女排哪些技术特色",
+        "onboard_time": 1745918544,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 273794,
+        "num": 273794,
+        "word": "阿楚姑娘",
+        "onboard_time": 1745917644,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268262,
+        "num": 268262,
+        "word": "陈梦说巴黎奥运会夺冠后哭了",
+        "onboard_time": 1745911642,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194840,
+        "num": 267304,
+        "word": "Makiyo向杨丞琳道歉",
+        "onboard_time": 1745917764,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267051,
+        "num": 267051,
+        "word": "知网已搜不到董袭莹论文",
+        "onboard_time": 1745891841,
+        "rank": 23,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 258751,
+        "num": 258751,
+        "word": "刘美含多平台掉粉",
+        "onboard_time": 1745914222,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246812,
+        "num": 257533,
+        "word": "杨幂兔子警官",
+        "onboard_time": 1745909062,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74478,
+        "num": 256719,
+        "word": "日本许多老年人将监狱视为养老天堂",
+        "onboard_time": 1745917402,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 114798,
+        "num": 255866,
+        "word": "减重晚饭这样吃饱腹又低卡",
+        "onboard_time": 1745917703,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 31731,
+        "num": 254030,
+        "word": "红茶爆BLG大概率不换打野",
+        "onboard_time": 1745918004,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 62642,
+        "num": 252476,
+        "word": "医德问题才是公众关注的焦点",
+        "onboard_time": 1745918664,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 197002,
+        "num": 251843,
+        "word": "女生宿舍捉奸被推下楼不属实",
+        "onboard_time": 1745916982,
+        "rank": 30,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 250907,
+        "num": 250907,
+        "word": "日本请求再次租借熊猫",
+        "onboard_time": 1745917161,
+        "rank": 31,
+        "category": "国内时政,国际时政"
+      },
+      {
+        "raw_hot": 227520,
+        "num": 227520,
+        "word": "宫崎骏画的赵丽颖",
+        "onboard_time": 1745900303,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 222356,
+        "num": 222356,
+        "word": "9岁男孩抗癌8年化疗108次",
+        "onboard_time": 1745912482,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209871,
+        "num": 209871,
+        "word": "杨丞琳方斥Makiyo造谣",
+        "onboard_time": 1745910923,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206248,
+        "num": 206248,
+        "word": "内娱终于有全开麦了",
+        "onboard_time": 1745898502,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 170054,
+        "num": 192523,
+        "word": "陈妍希潘玮柏力挺杨丞琳",
+        "onboard_time": 1745917522,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192048,
+        "num": 192048,
+        "word": "极氪001硬抗大货车高速追尾",
+        "onboard_time": 1745917943,
+        "rank": 37,
+        "category": "汽车,民生新闻"
+      },
+      {
+        "raw_hot": 188384,
+        "num": 188384,
+        "word": "协和",
+        "onboard_time": 1745886801,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 186147,
+        "num": 186147,
+        "word": "女主持人曝曾被富豪开价买卵",
+        "onboard_time": 1745911525,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185720,
+        "num": 185720,
+        "word": "歌手2025首发陈楚生白举纲",
+        "onboard_time": 1745918125,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174171,
+        "num": 174171,
+        "word": "我消费就吴昕这样",
+        "onboard_time": 1745913982,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171376,
+        "num": 171376,
+        "word": "迪丽热巴埃及艳后转场",
+        "onboard_time": 1745904083,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169195,
+        "num": 169195,
+        "word": "歌手2025定档",
+        "onboard_time": 1745901983,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167901,
+        "num": 167901,
+        "word": "12岁女孩被继母关厕所17天虐待致死",
+        "onboard_time": 1745898502,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162953,
+        "num": 162953,
+        "word": "神十九因气象原因推迟返回",
+        "onboard_time": 1745915900,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 162064,
+        "num": 162064,
+        "word": "你不需要给小肚子寻找价值",
+        "onboard_time": 1745918185,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160333,
+        "num": 160333,
+        "word": "专家称中国股市步入不跪牛",
+        "onboard_time": 1745918784,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 150192,
+        "num": 150192,
+        "word": "沃尔玛选择自行吸收关税恢复中国进货",
+        "onboard_time": 1745917823,
+        "rank": 48,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 146238,
+        "num": 146238,
+        "word": "王子奇新剧书法都是自己写的",
+        "onboard_time": 1745918843,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#高质量发展离不开高质量的劳动创造#"
+    }
+  }
+}

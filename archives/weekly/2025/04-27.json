@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1745916462218,
+  "endTime": 1745918889898,
   "band_list": [
     {
       "raw_hot": 8960529,
@@ -9,6 +9,14 @@
       "onboard_time": 1745764943,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 8521656,
+      "num": 9771656,
+      "word": "辽阳一饭店火灾22死3伤",
+      "onboard_time": 1745916264,
+      "rank": 4,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 4073618,
@@ -955,6 +963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 688809,
+      "num": 688809,
+      "word": "奈雪的茶门店通知能喝奶茶就不要喝水",
+      "onboard_time": 1745916743,
+      "rank": 4,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 680208,
       "num": 680208,
       "word": "医师出轨暴露违规问题更需关注",
@@ -1105,14 +1121,6 @@
       "onboard_time": 1745734041,
       "rank": 20,
       "category": "财经"
-    },
-    {
-      "raw_hot": 622525,
-      "num": 622525,
-      "word": "辽阳一饭店火灾22死3伤",
-      "onboard_time": 1745916264,
-      "rank": 4,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 615662,
@@ -1987,12 +1995,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 370684,
+      "num": 370684,
+      "word": "追星不该被这样情感剥削",
+      "onboard_time": 1745915964,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 367163,
       "num": 633190,
       "word": "特朗普回应爱泼斯坦案关键证人自杀",
       "onboard_time": 1745835320,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 367067,
+      "num": 367067,
+      "word": "董袭莹疑曾获巴纳德学院表彰",
+      "onboard_time": 1745916264,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 365191,
@@ -2161,6 +2185,14 @@
       "onboard_time": 1745715681,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 325058,
+      "num": 325058,
+      "word": "外交部发布双语硬核视频",
+      "onboard_time": 1745914940,
+      "rank": 20,
+      "category": "国内时政"
     },
     {
       "raw_hot": 323859,
@@ -2379,6 +2411,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 297851,
+      "num": 330793,
+      "word": "章子怡舞台上意外摔倒已就医",
+      "onboard_time": 1745918064,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 297630,
       "num": 297630,
       "word": "王源谈爱犬走丢泪目",
@@ -2507,6 +2547,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 280542,
+      "num": 280542,
+      "word": "邓超羡慕孙俪剧里的老公",
+      "onboard_time": 1745917764,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 280102,
       "num": 254605,
       "word": "时代少年团印象最深的热搜",
@@ -2577,6 +2625,14 @@
       "onboard_time": 1745899160,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 273794,
+      "num": 273794,
+      "word": "阿楚姑娘",
+      "onboard_time": 1745917644,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 273756,
@@ -2755,12 +2811,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 260685,
+      "num": 341687,
+      "word": "第一批追高黄金的年轻人已经亏麻了",
+      "onboard_time": 1745917884,
+      "rank": 14,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 259333,
       "num": 153980,
       "word": "100块能买到多少榴莲",
       "onboard_time": 1745854402,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 258751,
+      "num": 258751,
+      "word": "刘美含多平台掉粉",
+      "onboard_time": 1745914222,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 257894,
@@ -2849,6 +2921,14 @@
       "onboard_time": 1745746641,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 250907,
+      "num": 250907,
+      "word": "日本请求再次租借熊猫",
+      "onboard_time": 1745917161,
+      "rank": 31,
+      "category": "国内时政,国际时政"
     },
     {
       "raw_hot": 250363,
@@ -3091,14 +3171,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 231104,
-      "num": 231104,
-      "word": "刘美含多平台掉粉",
-      "onboard_time": 1745914222,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 229746,
       "num": 348935,
       "word": "沈腾这是OK不是30场哈",
@@ -3337,14 +3409,6 @@
       "onboard_time": 1745746581,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 213214,
-      "num": 274598,
-      "word": "外交部发布双语硬核视频",
-      "onboard_time": 1745914940,
-      "rank": 20,
-      "category": "国内时政"
     },
     {
       "raw_hot": 213152,
@@ -3763,6 +3827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197002,
+      "num": 251843,
+      "word": "女生宿舍捉奸被推下楼不属实",
+      "onboard_time": 1745916982,
+      "rank": 30,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 196782,
       "num": 196782,
       "word": "大侦探对撞季",
@@ -3777,6 +3849,14 @@
       "onboard_time": 1745730323,
       "rank": 31,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 194840,
+      "num": 267304,
+      "word": "Makiyo向杨丞琳道歉",
+      "onboard_time": 1745917764,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 194787,
@@ -3905,6 +3985,14 @@
       "onboard_time": 1745882840,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192048,
+      "num": 192048,
+      "word": "极氪001硬抗大货车高速追尾",
+      "onboard_time": 1745917943,
+      "rank": 37,
+      "category": "汽车,民生新闻"
     },
     {
       "raw_hot": 191391,
@@ -4169,6 +4257,14 @@
       "onboard_time": 1745722342,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185720,
+      "num": 185720,
+      "word": "歌手2025首发陈楚生白举纲",
+      "onboard_time": 1745918125,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 185692,
@@ -4443,6 +4539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172430,
+      "num": 375960,
+      "word": "外交部回应美方称应由中国缓和关税战",
+      "onboard_time": 1745915122,
+      "rank": 45,
+      "category": "国际时政,国内时政"
+    },
+    {
       "raw_hot": 172345,
       "num": 172345,
       "word": "樊振东等2426人受表彰",
@@ -4529,6 +4633,14 @@
       "onboard_time": 1745747602,
       "rank": 34,
       "category": "美食"
+    },
+    {
+      "raw_hot": 170054,
+      "num": 192523,
+      "word": "陈妍希潘玮柏力挺杨丞琳",
+      "onboard_time": 1745917522,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 170029,
@@ -4707,6 +4819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162953,
+      "num": 475368,
+      "word": "神十九因气象原因推迟返回",
+      "onboard_time": 1745915900,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 162384,
       "num": 162384,
       "word": "你多了一个月",
@@ -4715,12 +4835,12 @@
       "category": "剧集,幽默"
     },
     {
-      "raw_hot": 161838,
-      "num": 161838,
-      "word": "外交部回应美方称应由中国缓和关税战",
-      "onboard_time": 1745915122,
-      "rank": 45,
-      "category": "国际时政,国内时政"
+      "raw_hot": 162064,
+      "num": 162064,
+      "word": "你不需要给小肚子寻找价值",
+      "onboard_time": 1745918185,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 161800,
@@ -4801,6 +4921,14 @@
       "onboard_time": 1745750062,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160333,
+      "num": 160333,
+      "word": "专家称中国股市步入不跪牛",
+      "onboard_time": 1745918784,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 160124,
@@ -5251,6 +5379,14 @@
       "category": "国际时政,军事"
     },
     {
+      "raw_hot": 150192,
+      "num": 150192,
+      "word": "沃尔玛选择自行吸收关税恢复中国进货",
+      "onboard_time": 1745917823,
+      "rank": 48,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 149747,
       "num": 149747,
       "word": "消息人士称哈马斯愿释放全部人质换停火",
@@ -5385,6 +5521,14 @@
       "onboard_time": 1745741120,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 146238,
+      "num": 146238,
+      "word": "王子奇新剧书法都是自己写的",
+      "onboard_time": 1745918843,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 145929,
@@ -6513,6 +6657,14 @@
       "onboard_time": 1745825543,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 114798,
+      "num": 255866,
+      "word": "减重晚饭这样吃饱腹又低卡",
+      "onboard_time": 1745917703,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 114633,
@@ -7707,14 +7859,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 82846,
-      "num": 367865,
-      "word": "追星不该被这样情感剥削",
-      "onboard_time": 1745915964,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 82361,
       "num": 188630,
       "word": "iQOOZ10Turbo续航太顶了",
@@ -7761,14 +7905,6 @@
       "onboard_time": 1745841802,
       "rank": 26,
       "category": "数码"
-    },
-    {
-      "raw_hot": 80762,
-      "num": 475368,
-      "word": "神十九因气象原因推迟返回",
-      "onboard_time": 1745915900,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 80593,
@@ -7913,6 +8049,14 @@
       "onboard_time": 1745676083,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 74478,
+      "num": 256719,
+      "word": "日本许多老年人将监狱视为养老天堂",
+      "onboard_time": 1745917402,
+      "rank": 26,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 74457,
@@ -8179,6 +8323,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 62642,
+      "num": 252476,
+      "word": "医德问题才是公众关注的焦点",
+      "onboard_time": 1745918664,
+      "rank": 29,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 62371,
       "num": 190919,
       "word": "24小时超长待机的29岁女乡医",
@@ -8425,6 +8577,14 @@
       "onboard_time": 1745738181,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 52484,
+      "num": 277101,
+      "word": "潘展乐说中国游泳队敢打敢拼",
+      "onboard_time": 1745917943,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 52307,
@@ -8787,6 +8947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39296,
+      "num": 2010733,
+      "word": "光荣属于劳动者",
+      "onboard_time": 1745913563,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 39261,
       "num": 245650,
       "word": "胡锡进重申董明珠应道歉",
@@ -8851,28 +9019,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 37084,
-      "num": 654883,
-      "word": "光荣属于劳动者",
-      "onboard_time": 1745913563,
-      "rank": 2,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 36968,
       "num": 159776,
       "word": "哪些变化的痣可能是癌症的早期信号",
       "onboard_time": 1745756543,
       "rank": 30,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 36964,
-      "num": 364949,
-      "word": "董袭莹疑曾获巴纳德学院表彰",
-      "onboard_time": 1745916264,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 35757,
@@ -9033,6 +9185,14 @@
       "onboard_time": 1745818942,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 31731,
+      "num": 254030,
+      "word": "红茶爆BLG大概率不换打野",
+      "onboard_time": 1745918004,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 31322,
@@ -9809,6 +9969,14 @@
       "onboard_time": 1745870353,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12174,
+      "num": 274696,
+      "word": "龚翔宇传承了中国女排哪些技术特色",
+      "onboard_time": 1745918544,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 12094,
