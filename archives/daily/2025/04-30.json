@@ -1,6 +1,6 @@
 {
   "startTime": 1745944279846,
-  "endTime": 1745958708378,
+  "endTime": 1745959309600,
   "band_list": [
     {
       "raw_hot": 1718131,
@@ -299,6 +299,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 96555,
+      "num": 96555,
+      "word": "陈飞宇千字长文",
+      "onboard_time": 1745953035,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 95092,
       "num": 95092,
       "word": "肖飞被开除董袭莹问题何时查",
@@ -329,14 +337,6 @@
       "onboard_time": 1745916743,
       "rank": 38,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 91920,
-      "num": 91920,
-      "word": "陈飞宇千字长文",
-      "onboard_time": 1745953035,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 91084,
@@ -555,6 +555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 17680,
+      "num": 45409,
+      "word": "加拿大执政党赢得大选",
+      "onboard_time": 1745957954,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 16645,
       "num": 19271,
       "word": "淮水竹亭伴手礼",
@@ -563,7 +571,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 14850,
+      "raw_hot": 14877,
       "num": 15861,
       "word": "奉劝菲方不要在台湾问题上挑衅",
       "onboard_time": 1745953395,
@@ -571,15 +579,7 @@
       "category": "国内时政,国际时政"
     },
     {
-      "raw_hot": 14735,
-      "num": 21272,
-      "word": "加拿大执政党赢得大选",
-      "onboard_time": 1745957954,
-      "rank": 28,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 14167,
+      "raw_hot": 14849,
       "num": 19164,
       "word": "中方回应菲海军发言人涉台言论",
       "onboard_time": 1745956934,
