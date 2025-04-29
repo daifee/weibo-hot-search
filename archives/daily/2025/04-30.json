@@ -1,6 +1,6 @@
 {
   "startTime": 1745944279846,
-  "endTime": 1745962799462,
+  "endTime": 1745965441069,
   "band_list": [
     {
       "raw_hot": 1718131,
@@ -179,6 +179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161436,
+      "num": 133169,
+      "word": "陈飞宇千字长文",
+      "onboard_time": 1745953035,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159461,
       "num": 159461,
       "word": "WBG对战BLG",
@@ -204,7 +212,7 @@
     },
     {
       "raw_hot": 139150,
-      "num": 100029,
+      "num": 110044,
       "word": "仗义执言的女护士",
       "onboard_time": 1745942240,
       "rank": 30,
@@ -233,14 +241,6 @@
       "onboard_time": 1745942181,
       "rank": 26,
       "category": "艺人,作品衍生"
-    },
-    {
-      "raw_hot": 106891,
-      "num": 106891,
-      "word": "陈飞宇千字长文",
-      "onboard_time": 1745953035,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 105447,
@@ -304,6 +304,14 @@
       "word": "董袭莹被爆学术历程跨多学科",
       "onboard_time": 1745929582,
       "rank": 34,
+      "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 96398,
+      "num": 96398,
+      "word": "4加4初衷肯定不是为开后门",
+      "onboard_time": 1745943500,
+      "rank": 39,
       "category": "民生新闻,教育"
     },
     {
@@ -395,6 +403,14 @@
       "category": "健康医疗,民生新闻"
     },
     {
+      "raw_hot": 75581,
+      "num": 75581,
+      "word": "哥大新闻网站疑有董袭莹获奖名单",
+      "onboard_time": 1745953574,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74443,
       "num": 74443,
       "word": "成都一律师被指多次用复合弓虐猫",
@@ -443,27 +459,27 @@
       "category": "艺人,教育"
     },
     {
-      "raw_hot": 68180,
-      "num": 91103,
-      "word": "4加4初衷肯定不是为开后门",
-      "onboard_time": 1745943500,
-      "rank": 39,
-      "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 58972,
-      "num": 58972,
-      "word": "哥大新闻网站疑有董袭莹获奖名单",
-      "onboard_time": 1745953574,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 53788,
       "num": 53788,
       "word": "从肖某事件看4加4模式",
       "onboard_time": 1745945238,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50788,
+      "num": 50788,
+      "word": "记者亲历东风着陆场的大风天气",
+      "onboard_time": 1745959694,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43486,
+      "num": 55397,
+      "word": "五一铁路热门到达城市出炉",
+      "onboard_time": 1745961614,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -483,6 +499,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 38273,
+      "num": 48316,
+      "word": "留几手发型大改造",
+      "onboard_time": 1745963355,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 35600,
+      "num": 48316,
+      "word": "章子怡方回应舞台上意外摔倒",
+      "onboard_time": 1745963896,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 32597,
       "num": 812840,
       "word": "以丰富的政策工具护航经济发展",
@@ -491,15 +523,7 @@
       "category": "国内时政,财经"
     },
     {
-      "raw_hot": 32042,
-      "num": 32042,
-      "word": "记者亲历东风着陆场的大风天气",
-      "onboard_time": 1745959694,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28622,
+      "raw_hot": 31951,
       "num": 47332,
       "word": "阿森纳vs巴黎圣日耳曼",
       "onboard_time": 1745950696,
@@ -507,8 +531,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 26698,
-      "num": 26698,
+      "raw_hot": 30978,
+      "num": 30978,
       "word": "特朗普支持率为80年历任总统最低",
       "onboard_time": 1745949975,
       "rank": 38,
@@ -571,14 +595,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 16662,
-      "num": 55397,
-      "word": "五一铁路热门到达城市出炉",
-      "onboard_time": 1745961614,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 16645,
       "num": 19271,
       "word": "淮水竹亭伴手礼",
@@ -609,6 +625,14 @@
       "onboard_time": 1745956934,
       "rank": 34,
       "category": "国内时政,国际时政"
+    },
+    {
+      "raw_hot": 13626,
+      "num": 25117,
+      "word": "多家大行公告不再设置监事会",
+      "onboard_time": 1745962934,
+      "rank": 49,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 10658,
