@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/27 00:28:26 ~ 2025/04/30 02:34:00
+本榜单时间：2025/04/27 00:28:26 ~ 2025/04/30 02:47:16
 </p>
 </blockquote>
 <p>
@@ -8277,6 +8277,12 @@ DeepSeekR2要发布了吗（热度：39748）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%81%B6%E9%81%87%E7%8E%8B%E5%98%89%E5%B0%94%E7%A9%BF%E7%9D%A1%E8%A2%8D%E5%87%BA%E8%A1%97%23" target="weibo">
+上海偶遇王嘉尔穿睡袍出街（热度：21380）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E5%85%AB%E5%B1%8A%E6%95%B0%E5%AD%97%E4%B8%AD%E5%9B%BD%E5%BB%BA%E8%AE%BE%E5%B3%B0%E4%BC%9A%23" target="weibo">
 第八届数字中国建设峰会（热度：21201）
 </a>
@@ -8333,6 +8339,12 @@ DeepSeekR2要发布了吗（热度：39748）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%B3%BD%E7%A6%B9%E4%BA%89%E5%8F%96%E5%92%8C%E5%A4%A7%E5%AE%B6%E5%AE%8C%E7%BE%8E%E7%9A%84%E8%A7%81%E9%9D%A2%23" target="weibo">
 张泽禹争取和大家完美的见面（热度：19660）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E5%B0%BD%E7%9A%84%E5%B0%BD%E5%A4%B4OST%23" target="weibo">
+无尽的尽头OST（热度：19659）
 </a>
 </li>
 
