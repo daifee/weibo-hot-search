@@ -1,6 +1,6 @@
 {
   "startTime": 1745857837371,
-  "endTime": 1745919755167,
+  "endTime": 1745922502579,
   "band_list": [
     {
       "raw_hot": 8661549,
@@ -99,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1416182,
+      "num": 1416182,
+      "word": "奈雪的茶门店通知能喝奶茶就不要喝水",
+      "onboard_time": 1745916743,
+      "rank": 4,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 1415763,
       "num": 671696,
       "word": "艺洋你无敌了",
@@ -169,14 +177,6 @@
       "onboard_time": 1745901022,
       "rank": 19,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 896892,
-      "num": 896892,
-      "word": "奈雪的茶门店通知能喝奶茶就不要喝水",
-      "onboard_time": 1745916743,
-      "rank": 4,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 878845,
@@ -251,6 +251,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 709770,
+      "num": 709770,
+      "word": "阿楚姑娘",
+      "onboard_time": 1745917644,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 696810,
+      "num": 696810,
+      "word": "章子怡舞台上意外摔倒已就医",
+      "onboard_time": 1745918064,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 694532,
       "num": 694532,
       "word": "刘诗诗演技",
@@ -315,6 +331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 572094,
+      "num": 339266,
+      "word": "董小姐的医学奇迹",
+      "onboard_time": 1745920043,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 550655,
       "num": 550655,
       "word": "协和4加4除了经济学还有园艺和外语",
@@ -329,6 +353,14 @@
       "onboard_time": 1745893462,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 542641,
+      "num": 542641,
+      "word": "你不需要给小肚子寻找价值",
+      "onboard_time": 1745918185,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 519924,
@@ -427,14 +459,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 440055,
-      "num": 330793,
-      "word": "章子怡舞台上意外摔倒已就医",
-      "onboard_time": 1745918064,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 439739,
       "num": 297425,
       "word": "肖飞",
@@ -449,6 +473,14 @@
       "onboard_time": 1745910623,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 420918,
+      "num": 420918,
+      "word": "董袭莹疑曾获巴纳德学院表彰",
+      "onboard_time": 1745916264,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 408266,
@@ -467,12 +499,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 404310,
-      "num": 308952,
-      "word": "阿楚姑娘",
-      "onboard_time": 1745917644,
-      "rank": 20,
-      "category": "综艺"
+      "raw_hot": 403906,
+      "num": 337528,
+      "word": "李昀锐染了新发色",
+      "onboard_time": 1745919925,
+      "rank": 12,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 388843,
@@ -499,19 +531,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 367067,
-      "num": 367067,
-      "word": "董袭莹疑曾获巴纳德学院表彰",
-      "onboard_time": 1745916264,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 352273,
       "num": 352273,
       "word": "刘诗诗经常请吃饭的漂亮姐姐",
       "onboard_time": 1745883560,
       "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 340751,
+      "num": 340751,
+      "word": "刘美含多平台掉粉",
+      "onboard_time": 1745914222,
+      "rank": 28,
       "category": "艺人"
     },
     {
@@ -531,20 +563,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 330030,
+      "num": 330030,
+      "word": "外交部发布双语硬核视频",
+      "onboard_time": 1745914940,
+      "rank": 20,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 325839,
       "num": 288714,
       "word": "上海月薪两万七一天要花多少钱",
       "onboard_time": 1745848222,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 325058,
-      "num": 325058,
-      "word": "外交部发布双语硬核视频",
-      "onboard_time": 1745914940,
-      "rank": 20,
-      "category": "国内时政"
     },
     {
       "raw_hot": 323954,
@@ -560,6 +592,14 @@
       "word": "爱奇艺热度最快破8000的剧",
       "onboard_time": 1745906783,
       "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 320760,
+      "num": 320760,
+      "word": "张云龙我俩就退圈是吧",
+      "onboard_time": 1745921423,
+      "rank": 22,
       "category": "剧集"
     },
     {
@@ -675,14 +715,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 283960,
-      "num": 200816,
-      "word": "你不需要给小肚子寻找价值",
-      "onboard_time": 1745918185,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 283919,
       "num": 283919,
       "word": "4加4对学上来的医生公平吗",
@@ -772,7 +804,7 @@
     },
     {
       "raw_hot": 266431,
-      "num": 199237,
+      "num": 228934,
       "word": "极氪001硬抗大货车高速追尾",
       "onboard_time": 1745917943,
       "rank": 37,
@@ -785,14 +817,6 @@
       "onboard_time": 1745906062,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 260436,
-      "num": 260436,
-      "word": "刘美含多平台掉粉",
-      "onboard_time": 1745914222,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 254790,
@@ -859,6 +883,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 240052,
+      "num": 240052,
+      "word": "lysn 难用",
+      "onboard_time": 1745921003,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 239113,
       "num": 239113,
       "word": "金秀贤或被索赔超100亿韩元",
@@ -923,6 +955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 213382,
+      "num": 213382,
+      "word": "翔霖",
+      "onboard_time": 1745921663,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212366,
       "num": 212366,
       "word": "李昇基与岳父家断绝关系",
@@ -969,6 +1009,14 @@
       "onboard_time": 1745900062,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207690,
+      "num": 339953,
+      "word": "校长寄语毕业生文章删除董袭莹",
+      "onboard_time": 1745921364,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 207416,
@@ -1068,7 +1116,7 @@
     },
     {
       "raw_hot": 198743,
-      "num": 198743,
+      "num": 210408,
       "word": "歌手2025首发陈楚生白举纲",
       "onboard_time": 1745918125,
       "rank": 40,
@@ -1539,6 +1587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 136768,
+      "num": 136768,
+      "word": "郑则仕为蒋梦婕浪姐淘汰撑腰",
+      "onboard_time": 1745922202,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 135955,
       "num": 135955,
       "word": "85竹对打95花",
@@ -1561,6 +1617,14 @@
       "onboard_time": 1745903063,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 130720,
+      "num": 130720,
+      "word": "禁止蟑螂可爱化",
+      "onboard_time": 1745922263,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 129903,
@@ -1625,6 +1689,14 @@
       "onboard_time": 1745904382,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 118814,
+      "num": 118814,
+      "word": "BLG和TT被曝互换打野",
+      "onboard_time": 1745920043,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 117369,
@@ -1787,6 +1859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95920,
+      "num": 333766,
+      "word": "零跑再提新势力销量第一",
+      "onboard_time": 1745920884,
+      "rank": 16,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 95680,
       "num": 95680,
       "word": "丁禹兮造梗比呼吸还简单",
@@ -1915,6 +1995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 87876,
+      "num": 335418,
+      "word": "马龙回应天赋与努力哪个更重要",
+      "onboard_time": 1745922084,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87791,
       "num": 101857,
       "word": "哪吒2一天排片仍超4万场",
@@ -1944,6 +2032,14 @@
       "word": "高关税或是压倒美债的最后一根稻草",
       "onboard_time": 1745899642,
       "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 85039,
+      "num": 335890,
+      "word": "美航母战机坠海原因曝光",
+      "onboard_time": 1745921062,
+      "rank": 13,
       "category": "国际时政"
     },
     {
@@ -2035,6 +2131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 77394,
+      "num": 331253,
+      "word": "马龙的肩膀是最坚实的支撑",
+      "onboard_time": 1745921663,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 76355,
       "num": 76355,
       "word": "王一博iG发文",
@@ -2081,6 +2185,14 @@
       "onboard_time": 1745882720,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 74077,
+      "num": 248105,
+      "word": "鬼灭之刃联名T恤",
+      "onboard_time": 1745921542,
+      "rank": 29,
+      "category": "动漫"
     },
     {
       "raw_hot": 73244,
@@ -2259,6 +2371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 54968,
+      "num": 286900,
+      "word": "沃尔玛称新进口关税成本美国客户承担",
+      "onboard_time": 1745922021,
+      "rank": 24,
+      "category": "国际时政,财经"
+    },
+    {
       "raw_hot": 52759,
       "num": 55377,
       "word": "比起亲吻更喜欢紧紧相拥",
@@ -2291,6 +2411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48580,
+      "num": 330589,
+      "word": "朝鲜军人在库尔斯克作战画面曝光",
+      "onboard_time": 1745921843,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 48184,
       "num": 55373,
       "word": "梁田笑声有多大心里就有多难受",
@@ -2321,6 +2449,14 @@
       "onboard_time": 1745852843,
       "rank": 34,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 46894,
+      "num": 199379,
+      "word": "新兰生日月",
+      "onboard_time": 1745922443,
+      "rank": 40,
+      "category": "动漫"
     },
     {
       "raw_hot": 46887,
@@ -2619,6 +2755,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 19396,
+      "num": 224023,
+      "word": "出行期间遇到晕车问题怎么办",
+      "onboard_time": 1745922324,
+      "rank": 33,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 19276,
       "num": 252413,
       "word": "专家说替代你的不是AI是会用AI的人",
@@ -2673,6 +2817,14 @@
       "onboard_time": 1745863994,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 16695,
+      "num": 332047,
+      "word": "井盖如何解决WBG的BP决策问题",
+      "onboard_time": 1745922084,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 16533,
@@ -2779,6 +2931,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 12222,
+      "num": 203451,
+      "word": "用二进制把敦煌留给未来",
+      "onboard_time": 1745921423,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 12174,
       "num": 274696,
       "word": "龚翔宇传承了中国女排哪些技术特色",
@@ -2874,6 +3034,9 @@
     },
     {
       "word": "#弘扬劳模精神劳动精神工匠精神#"
+    },
+    {
+      "word": "#以奋斗铸就新辉煌#"
     }
   ]
 }

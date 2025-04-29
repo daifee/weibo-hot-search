@@ -1,0 +1,410 @@
+{
+  "runTime": 1745922502579,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7028760,
+        "num": 7028760,
+        "word": "辽阳一饭店火灾22死3伤",
+        "onboard_time": 1745916264,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 1416182,
+        "num": 1416182,
+        "word": "奈雪的茶门店通知能喝奶茶就不要喝水",
+        "onboard_time": 1745916743,
+        "rank": 1,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 33790,
+        "num": 1016980,
+        "word": "光荣属于劳动者",
+        "onboard_time": 1745913563,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 709770,
+        "num": 709770,
+        "word": "阿楚姑娘",
+        "onboard_time": 1745917644,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 696810,
+        "num": 696810,
+        "word": "章子怡舞台上意外摔倒已就医",
+        "onboard_time": 1745918064,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 542641,
+        "num": 542641,
+        "word": "你不需要给小肚子寻找价值",
+        "onboard_time": 1745918185,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 420918,
+        "num": 420918,
+        "word": "董袭莹疑曾获巴纳德学院表彰",
+        "onboard_time": 1745916264,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 363092,
+        "num": 363092,
+        "word": "永辉超市回应标价7.96元实收8元",
+        "onboard_time": 1745911763,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 340751,
+        "num": 340751,
+        "word": "刘美含多平台掉粉",
+        "onboard_time": 1745914222,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207690,
+        "num": 339953,
+        "word": "校长寄语毕业生文章删除董袭莹",
+        "onboard_time": 1745921364,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 572094,
+        "num": 339266,
+        "word": "董小姐的医学奇迹",
+        "onboard_time": 1745920043,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 545720,
+        "num": 338357,
+        "word": "肖飞被开除董袭莹问题何时查",
+        "onboard_time": 1745904442,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 403906,
+        "num": 337528,
+        "word": "李昀锐染了新发色",
+        "onboard_time": 1745919925,
+        "rank": 12,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 85039,
+        "num": 335890,
+        "word": "美航母战机坠海原因曝光",
+        "onboard_time": 1745921062,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 87876,
+        "num": 335418,
+        "word": "马龙回应天赋与努力哪个更重要",
+        "onboard_time": 1745922084,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 268953,
+        "num": 334022,
+        "word": "鹿晗正定伴手礼",
+        "onboard_time": 1745902044,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95920,
+        "num": 333766,
+        "word": "零跑再提新势力销量第一",
+        "onboard_time": 1745920884,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 16695,
+        "num": 332047,
+        "word": "井盖如何解决WBG的BP决策问题",
+        "onboard_time": 1745922084,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 77394,
+        "num": 331253,
+        "word": "马龙的肩膀是最坚实的支撑",
+        "onboard_time": 1745921663,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48580,
+        "num": 330589,
+        "word": "朝鲜军人在库尔斯克作战画面曝光",
+        "onboard_time": 1745921843,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 330030,
+        "num": 330030,
+        "word": "外交部发布双语硬核视频",
+        "onboard_time": 1745914940,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2607723,
+        "num": 328697,
+        "word": "曾黎 灾难公关",
+        "onboard_time": 1745908822,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320760,
+        "num": 320760,
+        "word": "张云龙我俩就退圈是吧",
+        "onboard_time": 1745921423,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1459615,
+        "num": 318734,
+        "word": "曾黎铁粉 路人都觉得心寒的程度",
+        "onboard_time": 1745908822,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54968,
+        "num": 286900,
+        "word": "沃尔玛称新进口关税成本美国客户承担",
+        "onboard_time": 1745922021,
+        "rank": 24,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 205062,
+        "num": 277784,
+        "word": "追星不该被这样情感剥削",
+        "onboard_time": 1745915964,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277245,
+        "num": 277245,
+        "word": "中国不跪中国不退",
+        "onboard_time": 1745903723,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 273194,
+        "num": 273194,
+        "word": "协和4加4除了经济学还有园艺和外语",
+        "onboard_time": 1745912182,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 162995,
+        "num": 258342,
+        "word": "杨幂兔子警官",
+        "onboard_time": 1745909062,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74077,
+        "num": 248105,
+        "word": "鬼灭之刃联名T恤",
+        "onboard_time": 1745921542,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 244275,
+        "num": 244275,
+        "word": "协和",
+        "onboard_time": 1745886801,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 240052,
+        "num": 240052,
+        "word": "lysn 难用",
+        "onboard_time": 1745921003,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 108998,
+        "num": 228934,
+        "word": "极氪001硬抗大货车高速追尾",
+        "onboard_time": 1745917943,
+        "rank": 32,
+        "category": "汽车,民生新闻"
+      },
+      {
+        "raw_hot": 19396,
+        "num": 224023,
+        "word": "出行期间遇到晕车问题怎么办",
+        "onboard_time": 1745922324,
+        "rank": 33,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 219906,
+        "num": 219906,
+        "word": "日本请求再次租借熊猫",
+        "onboard_time": 1745917161,
+        "rank": 34,
+        "category": "国内时政,国际时政"
+      },
+      {
+        "raw_hot": 213903,
+        "num": 213903,
+        "word": "第一批追高黄金的年轻人已经亏麻了",
+        "onboard_time": 1745917884,
+        "rank": 35,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 213382,
+        "num": 213382,
+        "word": "翔霖",
+        "onboard_time": 1745921663,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143942,
+        "num": 210408,
+        "word": "歌手2025首发陈楚生白举纲",
+        "onboard_time": 1745918125,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151552,
+        "num": 206580,
+        "word": "Makiyo向杨丞琳道歉",
+        "onboard_time": 1745917764,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12222,
+        "num": 203451,
+        "word": "用二进制把敦煌留给未来",
+        "onboard_time": 1745921423,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46894,
+        "num": 199379,
+        "word": "新兰生日月",
+        "onboard_time": 1745922443,
+        "rank": 40,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 195720,
+        "num": 195720,
+        "word": "宫崎骏画的赵丽颖",
+        "onboard_time": 1745900303,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 185773,
+        "num": 185773,
+        "word": "女生宿舍捉奸被推下楼不属实",
+        "onboard_time": 1745916982,
+        "rank": 42,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 169471,
+        "num": 169471,
+        "word": "知网已搜不到董袭莹论文",
+        "onboard_time": 1745891841,
+        "rank": 43,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 158572,
+        "num": 158572,
+        "word": "专家称中国股市步入不跪牛",
+        "onboard_time": 1745918784,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 146851,
+        "num": 146851,
+        "word": "陈梦说巴黎奥运会夺冠后哭了",
+        "onboard_time": 1745911642,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137591,
+        "num": 137591,
+        "word": "迪丽热巴埃及艳后转场",
+        "onboard_time": 1745904083,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136768,
+        "num": 136768,
+        "word": "郑则仕为蒋梦婕浪姐淘汰撑腰",
+        "onboard_time": 1745922202,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 130720,
+        "num": 130720,
+        "word": "禁止蟑螂可爱化",
+        "onboard_time": 1745922263,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118814,
+        "num": 118814,
+        "word": "BLG和TT被曝互换打野",
+        "onboard_time": 1745920043,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#以奋斗铸就新辉煌#"
+    }
+  }
+}

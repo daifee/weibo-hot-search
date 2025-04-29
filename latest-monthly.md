@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/29 17:42:35
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/29 18:28:22
 </p>
 </blockquote>
 <p>
@@ -2351,6 +2351,12 @@ RedVelvet 解散（热度：1601334）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B9%9D%E5%B7%9E%E5%B2%9B%E9%99%84%E8%BF%916.2%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
 日本九州岛附近6.2级地震（热度：1417463）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%88%E9%9B%AA%E7%9A%84%E8%8C%B6%E9%97%A8%E5%BA%97%E9%80%9A%E7%9F%A5%E8%83%BD%E5%96%9D%E5%A5%B6%E8%8C%B6%E5%B0%B1%E4%B8%8D%E8%A6%81%E5%96%9D%E6%B0%B4%23" target="weibo">
+奈雪的茶门店通知能喝奶茶就不要喝水（热度：1416182）
 </a>
 </li>
 
@@ -5409,12 +5415,6 @@ SM新男团 撞名（热度：910464）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%88%E9%9B%AA%E7%9A%84%E8%8C%B6%E9%97%A8%E5%BA%97%E9%80%9A%E7%9F%A5%E8%83%BD%E5%96%9D%E5%A5%B6%E8%8C%B6%E5%B0%B1%E4%B8%8D%E8%A6%81%E5%96%9D%E6%B0%B4%23" target="weibo">
-奈雪的茶门店通知能喝奶茶就不要喝水（热度：896892）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E6%B5%99%E6%B1%9F%E9%98%9F%E5%A4%96%E6%8F%B4%E5%9D%A0%E4%BA%A1%23" target="weibo">
 杭州警方通报浙江队外援坠亡（热度：896216）
 </a>
@@ -6815,6 +6815,12 @@ bite me男伴舞（热度：832510）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E5%BC%98%E6%89%AC%E5%8A%B3%E6%A8%A1%E7%B2%BE%E7%A5%9E%E5%8A%B3%E5%8A%A8%E7%B2%BE%E7%A5%9E%E5%B7%A5%E5%8C%A0%E7%B2%BE%E7%A5%9E%23%23" target="weibo">
 #弘扬劳模精神劳动精神工匠精神#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%BB%A5%E5%A5%8B%E6%96%97%E9%93%B8%E5%B0%B1%E6%96%B0%E8%BE%89%E7%85%8C%23%23" target="weibo">
+#以奋斗铸就新辉煌#
 </a>
 </li>
 
