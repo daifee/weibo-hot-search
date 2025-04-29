@@ -1,0 +1,410 @@
+{
+  "runTime": 1745896245349,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2225925,
+        "num": 2225925,
+        "word": "知网已搜不到董袭莹论文",
+        "onboard_time": 1745891841,
+        "rank": 0,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 1402120,
+        "num": 1402120,
+        "word": "西班牙宣布进入国家紧急状态",
+        "onboard_time": 1745886801,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 28382,
+        "num": 1035657,
+        "word": "稳就业稳经济5方面若干举措",
+        "onboard_time": 1745845342,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 887039,
+        "num": 887039,
+        "word": "高铁允许小狗托运但胖狗不行",
+        "onboard_time": 1745895201,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 651572,
+        "num": 651572,
+        "word": "不跪",
+        "onboard_time": 1745892560,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 526217,
+        "num": 526217,
+        "word": "中日友好医院",
+        "onboard_time": 1745895083,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 362915,
+        "num": 523174,
+        "word": "饺子导演正在闭关创作哪吒3",
+        "onboard_time": 1745893462,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 290363,
+        "num": 494772,
+        "word": "乘风破浪的姐姐人鱼的眼泪",
+        "onboard_time": 1745889263,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65406,
+        "num": 477297,
+        "word": "阿里千问3登顶全球最强开源模型",
+        "onboard_time": 1745895800,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 23564,
+        "num": 469266,
+        "word": "马代酒店回应女子遭管家性侵",
+        "onboard_time": 1745895800,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 458382,
+        "num": 458382,
+        "word": "外交部发布重磅视频不跪",
+        "onboard_time": 1745887522,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1388483,
+        "num": 434435,
+        "word": "艺洋你无敌了",
+        "onboard_time": 1745891600,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1285305,
+        "num": 429222,
+        "word": "协和",
+        "onboard_time": 1745886801,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 704166,
+        "num": 422064,
+        "word": "新娘因长相太美被质疑AI换脸",
+        "onboard_time": 1745854402,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 394697,
+        "num": 394697,
+        "word": "桃花源记 细思极恐",
+        "onboard_time": 1745885242,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 368455,
+        "num": 368455,
+        "word": "鞠婧祎撕拉片 出圈",
+        "onboard_time": 1745889321,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268370,
+        "num": 268370,
+        "word": "西班牙首相称还不知停电原因",
+        "onboard_time": 1745893160,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 254987,
+        "num": 254987,
+        "word": "肖飞",
+        "onboard_time": 1745886682,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229746,
+        "num": 253466,
+        "word": "沈腾这是OK不是30场哈",
+        "onboard_time": 1745892622,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 23411,
+        "num": 253097,
+        "word": "美民主党高层痛批特朗普是灾难",
+        "onboard_time": 1745895141,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 252943,
+        "num": 252943,
+        "word": "泽连斯基承认乌情报部门刺杀俄军高官",
+        "onboard_time": 1745889561,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 254790,
+        "num": 252205,
+        "word": "度过情侣尴尬期的标志",
+        "onboard_time": 1745892622,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 239572,
+        "num": 239572,
+        "word": "曾黎工作室再道歉",
+        "onboard_time": 1745895441,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211490,
+        "num": 236448,
+        "word": "刘昊然音综首录",
+        "onboard_time": 1745895441,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235668,
+        "num": 235668,
+        "word": "韩安冉前夫精神状态",
+        "onboard_time": 1745895800,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 234213,
+        "num": 234213,
+        "word": "瑞幸回应4部手机点出3种价格",
+        "onboard_time": 1745851163,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227563,
+        "num": 227563,
+        "word": "美国拿着关税当筹码向各国漫天要价",
+        "onboard_time": 1745890160,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 226685,
+        "num": 226685,
+        "word": "李铁案二审将宣判",
+        "onboard_time": 1745892922,
+        "rank": 27,
+        "category": "国内时政,体育"
+      },
+      {
+        "raw_hot": 138555,
+        "num": 219869,
+        "word": "人鱼的眼泪",
+        "onboard_time": 1745882840,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133343,
+        "num": 215437,
+        "word": "刘诗诗经常请吃饭的漂亮姐姐",
+        "onboard_time": 1745883560,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104227,
+        "num": 214390,
+        "word": "NBA东西部第八皆被横扫",
+        "onboard_time": 1745895083,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213573,
+        "num": 213573,
+        "word": "今年首个蛇年蛇月蛇日蛇时",
+        "onboard_time": 1745849003,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214405,
+        "num": 212702,
+        "word": "徐冬冬晒真实肚子",
+        "onboard_time": 1745853203,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211145,
+        "num": 211145,
+        "word": "高校回应男生被捉奸后把女生推下楼",
+        "onboard_time": 1745894961,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190756,
+        "num": 190756,
+        "word": "老外不认识汉字但不耽误打麻将",
+        "onboard_time": 1745893341,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166301,
+        "num": 166301,
+        "word": "容易内耗的人多做对抗类运动",
+        "onboard_time": 1745893160,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 164433,
+        "num": 164433,
+        "word": "西班牙葡萄牙大范围停电",
+        "onboard_time": 1745845162,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 137765,
+        "num": 137765,
+        "word": "riize泡泡",
+        "onboard_time": 1745895501,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92689,
+        "num": 126893,
+        "word": "4加4培养模式为何陷争议漩涡",
+        "onboard_time": 1745895681,
+        "rank": 38,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 27647,
+        "num": 124550,
+        "word": "怎么在做题中无痛提高词汇量",
+        "onboard_time": 1745895741,
+        "rank": 39,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 123772,
+        "num": 123772,
+        "word": "迪丽热巴说馕言文",
+        "onboard_time": 1745883080,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115765,
+        "num": 120087,
+        "word": "孙颖莎11300分继续霸榜世排第一",
+        "onboard_time": 1745892622,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118793,
+        "num": 118793,
+        "word": "狗狗吹完毛微信步数至少2万",
+        "onboard_time": 1745890282,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117837,
+        "num": 117837,
+        "word": "北大回应网红汤匙被录取",
+        "onboard_time": 1745850621,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 114550,
+        "num": 114550,
+        "word": "五一坐高铁注意这9点",
+        "onboard_time": 1745895083,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114436,
+        "num": 114436,
+        "word": "为什么小时候常有的停电好像消失了",
+        "onboard_time": 1745847141,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111933,
+        "num": 111933,
+        "word": "美航母一战机坠海",
+        "onboard_time": 1745882659,
+        "rank": 46,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 104639,
+        "num": 104639,
+        "word": "已经在预制五一朋友圈了",
+        "onboard_time": 1745892622,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99885,
+        "num": 99885,
+        "word": "上海月薪两万七一天要花多少钱",
+        "onboard_time": 1745848222,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91019,
+        "num": 99002,
+        "word": "kpop梦想演唱会将在三亚举办",
+        "onboard_time": 1745890221,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平为全国劳模和先进工作者颁发证书#"
+    }
+  }
+}
