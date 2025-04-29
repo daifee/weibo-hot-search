@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/29 22:44:20
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/29 23:27:38
 </p>
 </blockquote>
 <p>
@@ -2909,6 +2909,12 @@ Simon事件（热度：1411247）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E9%AB%98%E5%BA%A6%E5%85%B3%E6%B3%A8%E4%B8%AD%E5%9B%BD%E7%8C%9B%E7%83%88%E5%8F%8D%E5%87%BB%E7%BE%8E%E5%9B%BD%23" target="weibo">
 全球高度关注中国猛烈反击美国（热度：1304384）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%B0%E5%BD%A9%E7%A5%A8%E4%B8%AD945%E4%B8%87%E4%B8%8A%E5%AE%8C%E7%8F%AD%E6%89%8D%E9%A2%86%E5%A5%96%23" target="weibo">
+女子买彩票中945万上完班才领奖（热度：1303813）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ Swisse致歉（热度：842126）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E4%B8%80%E5%8F%8D%E5%90%91%E6%97%85%E6%B8%B8%23" target="weibo">
 五一反向旅游（热度：835534）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23PO%E5%9B%9E%E5%BA%94%E4%B8%8E%E9%9B%AA%E8%8E%89%E6%81%8B%E6%83%85%23" target="weibo">
-PO回应与雪莉恋情（热度：834785）
 </a>
 </li>
 

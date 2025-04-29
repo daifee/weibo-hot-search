@@ -1,6 +1,6 @@
 {
   "startTime": 1745857837371,
-  "endTime": 1745937860983,
+  "endTime": 1745940458626,
   "band_list": [
     {
       "raw_hot": 8661549,
@@ -155,6 +155,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1303813,
+      "num": 1303813,
+      "word": "女子买彩票中945万上完班才领奖",
+      "onboard_time": 1745937203,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1281294,
       "num": 1281294,
       "word": "中国不跪中国不退",
@@ -275,6 +283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 808389,
+      "num": 808389,
+      "word": "生命树",
+      "onboard_time": 1745938103,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 782443,
       "num": 782443,
       "word": "歌手2025定档",
@@ -355,6 +371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 694176,
+      "num": 694176,
+      "word": "买1斤黄金不问价店员报警",
+      "onboard_time": 1745936602,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 670078,
       "num": 670078,
       "word": "12岁女孩被继母关厕所17天虐待致死",
@@ -385,6 +409,14 @@
       "onboard_time": 1745927001,
       "rank": 25,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 623006,
+      "num": 436597,
+      "word": "麦琳这是瘦了多少",
+      "onboard_time": 1745939123,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 622575,
@@ -424,6 +456,14 @@
       "word": "清华教授说将来有望每周上三休四",
       "onboard_time": 1745909062,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 589525,
+      "num": 589525,
+      "word": "协和特培项目是否成了特权通道",
+      "onboard_time": 1745934083,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -587,14 +627,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 460218,
-      "num": 504692,
-      "word": "协和特培项目是否成了特权通道",
-      "onboard_time": 1745934083,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 446157,
       "num": 414734,
       "word": "钟丽缇小女儿完全继承妈妈基因",
@@ -736,6 +768,14 @@
       "word": "产科医生介绍婴儿买卖已被调岗",
       "onboard_time": 1745935644,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 335277,
+      "num": 335277,
+      "word": "37岁女子确诊胃癌父母均为癌症患者",
+      "onboard_time": 1745937923,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -1099,6 +1139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 251890,
+      "num": 300987,
+      "word": "电影独一无二改档",
+      "onboard_time": 1745936783,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 250907,
       "num": 250907,
       "word": "日本请求再次租借熊猫",
@@ -1187,6 +1235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 229912,
+      "num": 229912,
+      "word": "王雅君 人鱼的眼泪",
+      "onboard_time": 1745938823,
+      "rank": 24,
+      "category": "艺人,综艺"
+    },
+    {
       "raw_hot": 229746,
       "num": 348935,
       "word": "沈腾这是OK不是30场哈",
@@ -1249,6 +1305,14 @@
       "onboard_time": 1745882780,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 212866,
+      "num": 212866,
+      "word": "无忧渡结局",
+      "onboard_time": 1745939664,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 212366,
@@ -1451,6 +1515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196636,
+      "num": 196636,
+      "word": "甲状腺超声导致的过度诊断",
+      "onboard_time": 1745938583,
+      "rank": 28,
+      "category": "健康医疗,民生新闻"
+    },
+    {
       "raw_hot": 195489,
       "num": 195489,
       "word": "Gemini 没直播",
@@ -1539,14 +1611,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 191106,
-      "num": 219226,
-      "word": "电影独一无二改档",
-      "onboard_time": 1745936783,
-      "rank": 22,
-      "category": "电影"
-    },
-    {
       "raw_hot": 190982,
       "num": 190982,
       "word": "在飞机上被韩国人偷了",
@@ -1627,14 +1691,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 185568,
-      "num": 185568,
-      "word": "女子买彩票中945万上完班才领奖",
-      "onboard_time": 1745937203,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 185552,
       "num": 185552,
       "word": "美航母一战机坠海",
@@ -1657,14 +1713,6 @@
       "onboard_time": 1745936964,
       "rank": 30,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 181699,
-      "num": 455687,
-      "word": "买1斤黄金不问价店员报警",
-      "onboard_time": 1745936602,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 181437,
@@ -2275,6 +2323,22 @@
       "category": "演出,音乐"
     },
     {
+      "raw_hot": 126278,
+      "num": 126278,
+      "word": "WBG对战BLG",
+      "onboard_time": 1745938043,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 125474,
+      "num": 125474,
+      "word": "马斯克为特朗普打工130天血亏8200亿",
+      "onboard_time": 1745937863,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 124233,
       "num": 124233,
       "word": "葱花原来真的是花",
@@ -2371,6 +2435,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 118199,
+      "num": 118199,
+      "word": "陈都灵直播还原雁回时名场面",
+      "onboard_time": 1745940202,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117369,
       "num": 195316,
       "word": "敖瑞鹏的敖是敖丙的敖",
@@ -2393,6 +2465,14 @@
       "onboard_time": 1745925621,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 116929,
+      "num": 151354,
+      "word": "商家曝女子网购内衣半年后买新退旧",
+      "onboard_time": 1745937742,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116627,
@@ -2457,6 +2537,14 @@
       "onboard_time": 1745902762,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109768,
+      "num": 109768,
+      "word": "北京男篮2比0山西男篮",
+      "onboard_time": 1745939482,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 109308,
@@ -2529,14 +2617,6 @@
       "onboard_time": 1745931442,
       "rank": 29,
       "category": "财经"
-    },
-    {
-      "raw_hot": 102106,
-      "num": 151354,
-      "word": "商家曝女子网购内衣半年后买新退旧",
-      "onboard_time": 1745937742,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 101884,
@@ -2777,6 +2857,14 @@
       "onboard_time": 1745850803,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 88079,
+      "num": 234062,
+      "word": "少年超车未碰撞被判赔摔伤车主3万",
+      "onboard_time": 1745938583,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87791,
@@ -3203,6 +3291,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 57483,
+      "num": 203078,
+      "word": "SM楼下偶遇sakuya和sion",
+      "onboard_time": 1745940263,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 56298,
       "num": 276396,
       "word": "新兰生日月",
@@ -3241,6 +3337,14 @@
       "onboard_time": 1745917943,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 51153,
+      "num": 298925,
+      "word": "西班牙停电亲历华人发声",
+      "onboard_time": 1745939903,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 49512,
@@ -3313,6 +3417,14 @@
       "onboard_time": 1745846002,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46044,
+      "num": 440545,
+      "word": "特朗普执政百日创下多少纪录",
+      "onboard_time": 1745939482,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 45237,
@@ -3520,6 +3632,14 @@
       "word": "外卖小哥避免了一起事故发生",
       "onboard_time": 1745933303,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30613,
+      "num": 413198,
+      "word": "男子找工作失败火烧中介公司",
+      "onboard_time": 1745938823,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
