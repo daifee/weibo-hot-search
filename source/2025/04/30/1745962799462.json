@@ -1,0 +1,410 @@
+{
+  "runTime": 1745962799462,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 197531,
+        "num": 201761,
+        "word": "董袭莹带出的五大疑点待协和等解答",
+        "onboard_time": 1745942421,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116062,
+        "num": 116062,
+        "word": "曾黎团队傲慢公关丢了人心",
+        "onboard_time": 1745934745,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13807,
+        "num": 108426,
+        "word": "以丰富的政策工具护航经济发展",
+        "onboard_time": 1745933664,
+        "rank": 2,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 106891,
+        "num": 106891,
+        "word": "陈飞宇千字长文",
+        "onboard_time": 1745953035,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78649,
+        "num": 78649,
+        "word": "女子买彩票中945万上完班才领奖",
+        "onboard_time": 1745937203,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63169,
+        "num": 63169,
+        "word": "小区一女子戴面具恐吓电梯内幼童",
+        "onboard_time": 1745931620,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95965,
+        "num": 63076,
+        "word": "麦琳这是瘦了多少",
+        "onboard_time": 1745939123,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61463,
+        "num": 61463,
+        "word": "仗义执言的女护士",
+        "onboard_time": 1745942240,
+        "rank": 7,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 56174,
+        "num": 56174,
+        "word": "4加4初衷肯定不是为开后门",
+        "onboard_time": 1745943500,
+        "rank": 8,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 16662,
+        "num": 55397,
+        "word": "五一铁路热门到达城市出炉",
+        "onboard_time": 1745961614,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 357429,
+        "num": 55239,
+        "word": "父亲与小33岁亡子女友再婚被女儿砸门",
+        "onboard_time": 1745941820,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181140,
+        "num": 55174,
+        "word": "董小姐去给病人开刀这事很可怕",
+        "onboard_time": 1745941042,
+        "rank": 11,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 54826,
+        "num": 54826,
+        "word": "哥大新闻网站疑有董袭莹获奖名单",
+        "onboard_time": 1745953574,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50651,
+        "num": 50651,
+        "word": "亲子酒店员工朋友圈说希望小朋友死掉",
+        "onboard_time": 1745934745,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47860,
+        "num": 47860,
+        "word": "杭州乐园大摆锤在顶点停住多人倒悬",
+        "onboard_time": 1745944339,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43115,
+        "num": 43115,
+        "word": "辽阳一饭店火灾22死3伤",
+        "onboard_time": 1745916264,
+        "rank": 15,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 43108,
+        "num": 43108,
+        "word": "37岁女子确诊胃癌父母均为癌症患者",
+        "onboard_time": 1745937923,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31928,
+        "num": 42803,
+        "word": "杨紫刘诗诗互关",
+        "onboard_time": 1745944160,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30450,
+        "num": 42797,
+        "word": "生命树",
+        "onboard_time": 1745938103,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27906,
+        "num": 42794,
+        "word": "无忧渡结局",
+        "onboard_time": 1745939664,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42793,
+        "num": 42793,
+        "word": "协和特培项目是否成了特权通道",
+        "onboard_time": 1745934083,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119399,
+        "num": 38731,
+        "word": "曾黎 灾难公关",
+        "onboard_time": 1745908822,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32505,
+        "num": 32505,
+        "word": "董小姐父母何以跨界指导论文",
+        "onboard_time": 1745927001,
+        "rank": 22,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 32042,
+        "num": 32042,
+        "word": "记者亲历东风着陆场的大风天气",
+        "onboard_time": 1745959694,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31801,
+        "num": 31801,
+        "word": "辽阳一饭店火灾原因正在调查",
+        "onboard_time": 1745922983,
+        "rank": 24,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 31686,
+        "num": 31686,
+        "word": "家长查孩子成绩一年被收300元",
+        "onboard_time": 1745929643,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31478,
+        "num": 31478,
+        "word": "印度游客山上滑索时山下恐袭致26死",
+        "onboard_time": 1745930243,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 21049,
+        "num": 30917,
+        "word": "叶舒华为减肥戒掉面粉",
+        "onboard_time": 1745927123,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20668,
+        "num": 30865,
+        "word": "王雅君 人鱼的眼泪",
+        "onboard_time": 1745938823,
+        "rank": 28,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 19814,
+        "num": 30822,
+        "word": "赵粤解约",
+        "onboard_time": 1745931920,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30817,
+        "num": 30817,
+        "word": "沙特王储称中国崩了全世界都要崩",
+        "onboard_time": 1745928323,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 30214,
+        "num": 30214,
+        "word": "BLG",
+        "onboard_time": 1745942841,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 26345,
+        "num": 26345,
+        "word": "买1斤黄金不问价店员报警",
+        "onboard_time": 1745936602,
+        "rank": 32,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 26158,
+        "num": 26158,
+        "word": "董小姐的医学奇迹",
+        "onboard_time": 1745920043,
+        "rank": 33,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 25268,
+        "num": 25268,
+        "word": "阿森纳vs巴黎圣日耳曼",
+        "onboard_time": 1745950696,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24575,
+        "num": 24575,
+        "word": "女子做分拣员月入超九千半年瘦46斤",
+        "onboard_time": 1745941342,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23825,
+        "num": 23825,
+        "word": "马代遭性侵女子称酒店想用10万私了",
+        "onboard_time": 1745933963,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23787,
+        "num": 23787,
+        "word": "商家曝女子网购内衣半年后买新退旧",
+        "onboard_time": 1745937742,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20171,
+        "num": 23772,
+        "word": "成都一律师被指多次用复合弓虐猫",
+        "onboard_time": 1745945897,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20148,
+        "num": 23762,
+        "word": "人工智能是年轻的事业",
+        "onboard_time": 1745941941,
+        "rank": 39,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 20028,
+        "num": 23732,
+        "word": "加拿大执政党赢得大选",
+        "onboard_time": 1745957954,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 19698,
+        "num": 23710,
+        "word": "肖飞被开除董袭莹问题何时查",
+        "onboard_time": 1745904442,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19289,
+        "num": 23699,
+        "word": "特朗普支持率为80年历任总统最低",
+        "onboard_time": 1745949975,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17951,
+        "num": 23668,
+        "word": "董袭莹被爆学术历程跨多学科",
+        "onboard_time": 1745929582,
+        "rank": 43,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 17404,
+        "num": 23651,
+        "word": "奈雪的茶门店通知能喝奶茶就不要喝水",
+        "onboard_time": 1745916743,
+        "rank": 44,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 16125,
+        "num": 23627,
+        "word": "加拿大大选",
+        "onboard_time": 1745960534,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15669,
+        "num": 23613,
+        "word": "曾凡博后脑勺砸地",
+        "onboard_time": 1745934202,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15239,
+        "num": 23596,
+        "word": "校方未回应寄语毕业生文章删除董袭莹",
+        "onboard_time": 1745954774,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14938,
+        "num": 23572,
+        "word": "造型师",
+        "onboard_time": 1745946497,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 10419,
+        "num": 23547,
+        "word": "无限暖暖已紧急排查修复",
+        "onboard_time": 1745940922,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对辽阳一饭店火灾事故作出重要指示#"
+    }
+  }
+}

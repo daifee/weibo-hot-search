@@ -1,6 +1,6 @@
 {
   "startTime": 1745944279846,
-  "endTime": 1745961802135,
+  "endTime": 1745962799462,
   "band_list": [
     {
       "raw_hot": 1718131,
@@ -235,6 +235,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 106891,
+      "num": 106891,
+      "word": "陈飞宇千字长文",
+      "onboard_time": 1745953035,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 105447,
       "num": 105447,
       "word": "丁禹兮听到永夜两个字的反应",
@@ -273,14 +281,6 @@
       "onboard_time": 1745922983,
       "rank": 31,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 100348,
-      "num": 100348,
-      "word": "陈飞宇千字长文",
-      "onboard_time": 1745953035,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 100246,
@@ -491,20 +491,20 @@
       "category": "国内时政,财经"
     },
     {
+      "raw_hot": 32042,
+      "num": 32042,
+      "word": "记者亲历东风着陆场的大风天气",
+      "onboard_time": 1745959694,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28622,
       "num": 47332,
       "word": "阿森纳vs巴黎圣日耳曼",
       "onboard_time": 1745950696,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 26979,
-      "num": 26979,
-      "word": "记者亲历东风着陆场的大风天气",
-      "onboard_time": 1745959694,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26698,
@@ -571,6 +571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16662,
+      "num": 55397,
+      "word": "五一铁路热门到达城市出炉",
+      "onboard_time": 1745961614,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16645,
       "num": 19271,
       "word": "淮水竹亭伴手礼",
@@ -580,7 +588,7 @@
     },
     {
       "raw_hot": 16190,
-      "num": 16190,
+      "num": 23627,
       "word": "加拿大大选",
       "onboard_time": 1745960534,
       "rank": 44,
