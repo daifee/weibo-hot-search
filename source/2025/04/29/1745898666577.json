@@ -1,0 +1,410 @@
+{
+  "runTime": 1745898666577,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2476573,
+        "num": 2476573,
+        "word": "知网已搜不到董袭莹论文",
+        "onboard_time": 1745891841,
+        "rank": 0,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 1388748,
+        "num": 1388748,
+        "word": "协和",
+        "onboard_time": 1745886801,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 22357,
+        "num": 1235407,
+        "word": "稳就业稳经济5方面若干举措",
+        "onboard_time": 1745845342,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1219786,
+        "num": 1219786,
+        "word": "西班牙宣布进入国家紧急状态",
+        "onboard_time": 1745886801,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 866968,
+        "num": 866968,
+        "word": "曾黎工作室再道歉",
+        "onboard_time": 1745895441,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 831984,
+        "num": 831984,
+        "word": "高铁允许小狗托运但胖狗不行",
+        "onboard_time": 1745895201,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 728048,
+        "num": 728048,
+        "word": "中日友好医院",
+        "onboard_time": 1745895083,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 661780,
+        "num": 661780,
+        "word": "不跪",
+        "onboard_time": 1745892560,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 545906,
+        "num": 545906,
+        "word": "饺子导演正在闭关创作哪吒3",
+        "onboard_time": 1745893462,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 542114,
+        "num": 542114,
+        "word": "内娱终于有全开麦了",
+        "onboard_time": 1745898502,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1162375,
+        "num": 517996,
+        "word": "艺洋你无敌了",
+        "onboard_time": 1745891600,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 845946,
+        "num": 482145,
+        "word": "韩安冉前夫精神状态",
+        "onboard_time": 1745895800,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 746644,
+        "num": 475125,
+        "word": "新娘因长相太美被质疑AI换脸",
+        "onboard_time": 1745854402,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 589298,
+        "num": 433814,
+        "word": "高校回应男生被捉奸后把女生推下楼",
+        "onboard_time": 1745894961,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 410800,
+        "num": 410800,
+        "word": "外交部发布重磅视频不跪",
+        "onboard_time": 1745887522,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 343103,
+        "num": 343103,
+        "word": "12岁女孩被继母关厕所17天虐待致死",
+        "onboard_time": 1745898502,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72280,
+        "num": 338913,
+        "word": "遮挡车牌公务车驾驶员被停职",
+        "onboard_time": 1745898260,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113539,
+        "num": 325940,
+        "word": "X200Ultra长焦巨炮的V单实力",
+        "onboard_time": 1745896581,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 238478,
+        "num": 319403,
+        "word": "电影浪浪山小妖怪定档",
+        "onboard_time": 1745898442,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 13803,
+        "num": 313888,
+        "word": "首个蛇年蛇月蛇日蛇时是如何形成的",
+        "onboard_time": 1745898142,
+        "rank": 19,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 305611,
+        "num": 305611,
+        "word": "小伙峨眉山失联朋友担心拍日出跌落",
+        "onboard_time": 1745896341,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 282335,
+        "num": 282335,
+        "word": "无限暖暖闪退",
+        "onboard_time": 1745898260,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 278104,
+        "num": 278104,
+        "word": "2岁男童蹦床与8岁男童撞致10级伤残",
+        "onboard_time": 1745896820,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272582,
+        "num": 272582,
+        "word": "石凯恋爱保密协议",
+        "onboard_time": 1745898502,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208019,
+        "num": 271211,
+        "word": "刘昊然音综首录",
+        "onboard_time": 1745895441,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202702,
+        "num": 270735,
+        "word": "沈腾说邓家佳电影造型像梦露",
+        "onboard_time": 1745898442,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 191600,
+        "num": 269523,
+        "word": "乘风破浪的姐姐人鱼的眼泪",
+        "onboard_time": 1745889263,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166070,
+        "num": 267683,
+        "word": "张继科评自己最满意的一场比赛",
+        "onboard_time": 1745898442,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 266503,
+        "num": 266503,
+        "word": "马代酒店回应女子遭管家性侵",
+        "onboard_time": 1745895800,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172875,
+        "num": 251880,
+        "word": "沈腾这是OK不是30场哈",
+        "onboard_time": 1745892622,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 249869,
+        "num": 249869,
+        "word": "鞠婧祎撕拉片 出圈",
+        "onboard_time": 1745889321,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245419,
+        "num": 245419,
+        "word": "桃花源记 细思极恐",
+        "onboard_time": 1745885242,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 207706,
+        "num": 207706,
+        "word": "肖飞",
+        "onboard_time": 1745886682,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193598,
+        "num": 193598,
+        "word": "容易内耗的人多做对抗类运动",
+        "onboard_time": 1745893160,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 170727,
+        "num": 170727,
+        "word": "李铁案二审将宣判",
+        "onboard_time": 1745892922,
+        "rank": 34,
+        "category": "国内时政,体育"
+      },
+      {
+        "raw_hot": 168505,
+        "num": 168505,
+        "word": "度过情侣尴尬期的标志",
+        "onboard_time": 1745892622,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156713,
+        "num": 156713,
+        "word": "美国拿着关税当筹码向各国漫天要价",
+        "onboard_time": 1745890160,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 156207,
+        "num": 156207,
+        "word": "男子酒后开自动驾驶上高速呼呼大睡",
+        "onboard_time": 1745898502,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78013,
+        "num": 155296,
+        "word": "代号砰砰",
+        "onboard_time": 1745896820,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 8876,
+        "num": 154897,
+        "word": "骑行新手必学的骑行姿势",
+        "onboard_time": 1745898084,
+        "rank": 39,
+        "category": "运动健身,民生新闻"
+      },
+      {
+        "raw_hot": 73244,
+        "num": 154712,
+        "word": "骑士4比0热火",
+        "onboard_time": 1745895083,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154672,
+        "num": 154672,
+        "word": "外交部",
+        "onboard_time": 1745898323,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 151491,
+        "num": 151491,
+        "word": "美航母一战机坠海",
+        "onboard_time": 1745882659,
+        "rank": 42,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 145395,
+        "num": 145395,
+        "word": "我不会再生任何人的气了",
+        "onboard_time": 1745898442,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145081,
+        "num": 145081,
+        "word": "瑞幸回应4部手机点出3种价格",
+        "onboard_time": 1745851163,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116332,
+        "num": 142947,
+        "word": "迪丽热巴说馕言文",
+        "onboard_time": 1745883080,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108898,
+        "num": 141984,
+        "word": "人鱼的眼泪",
+        "onboard_time": 1745882840,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141222,
+        "num": 141222,
+        "word": "网传桂林一高校男生被女生捉奸在床",
+        "onboard_time": 1745898381,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137563,
+        "num": 137563,
+        "word": "五一坐高铁注意这9点",
+        "onboard_time": 1745895083,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99884,
+        "num": 135958,
+        "word": "刘诗诗经常请吃饭的漂亮姐姐",
+        "onboard_time": 1745883560,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记重要讲话汇聚磅礴力量#"
+    }
+  }
+}

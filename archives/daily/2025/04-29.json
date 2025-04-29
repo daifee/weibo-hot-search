@@ -1,6 +1,6 @@
 {
   "startTime": 1745857837371,
-  "endTime": 1745897215350,
+  "endTime": 1745898666577,
   "band_list": [
     {
       "raw_hot": 2656656,
@@ -11,8 +11,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 2249519,
-      "num": 2249519,
+      "raw_hot": 2476573,
+      "num": 2476573,
       "word": "知网已搜不到董袭莹论文",
       "onboard_time": 1745891841,
       "rank": 6,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2011278,
-      "num": 429222,
+      "num": 1388748,
       "word": "协和",
       "onboard_time": 1745886801,
       "rank": 10,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1415763,
-      "num": 434435,
+      "num": 517996,
       "word": "艺洋你无敌了",
       "onboard_time": 1745891600,
       "rank": 30,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1246935,
-      "num": 422064,
+      "num": 475125,
       "word": "新娘因长相太美被质疑AI换脸",
       "onboard_time": 1745854402,
       "rank": 10,
@@ -75,6 +75,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 866968,
+      "num": 866968,
+      "word": "曾黎工作室再道歉",
+      "onboard_time": 1745895441,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 845946,
+      "num": 482145,
+      "word": "韩安冉前夫精神状态",
+      "onboard_time": 1745895800,
+      "rank": 24,
+      "category": "网红"
+    },
+    {
       "raw_hot": 742632,
       "num": 936338,
       "word": "瑞幸回应4部手机点出3种价格",
@@ -107,20 +123,28 @@
       "category": "财经"
     },
     {
-      "raw_hot": 551985,
-      "num": 366188,
-      "word": "韩安冉前夫精神状态",
-      "onboard_time": 1745895800,
-      "rank": 24,
-      "category": "网红"
+      "raw_hot": 589298,
+      "num": 433814,
+      "word": "高校回应男生被捉奸后把女生推下楼",
+      "onboard_time": 1745894961,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 536532,
-      "num": 536532,
+      "raw_hot": 545906,
+      "num": 545906,
       "word": "饺子导演正在闭关创作哪吒3",
       "onboard_time": 1745893462,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 542114,
+      "num": 542114,
+      "word": "内娱终于有全开麦了",
+      "onboard_time": 1745898502,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 500257,
@@ -163,14 +187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 470654,
-      "num": 470654,
-      "word": "曾黎工作室再道歉",
-      "onboard_time": 1745895441,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 461437,
       "num": 461437,
       "word": "泽连斯基承认乌情报部门刺杀俄军高官",
@@ -195,20 +211,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 360595,
-      "num": 360595,
-      "word": "高校回应男生被捉奸后把女生推下楼",
-      "onboard_time": 1745894961,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 352273,
       "num": 352273,
       "word": "刘诗诗经常请吃饭的漂亮姐姐",
       "onboard_time": 1745883560,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 343103,
+      "num": 343103,
+      "word": "12岁女孩被继母关厕所17天虐待致死",
+      "onboard_time": 1745898502,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 334490,
@@ -251,6 +267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 305611,
+      "num": 363254,
+      "word": "小伙峨眉山失联朋友担心拍日出跌落",
+      "onboard_time": 1745896341,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 297975,
       "num": 297975,
       "word": "整个地铁都被谢霆锋包围了",
@@ -275,12 +299,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 282335,
+      "num": 282335,
+      "word": "无限暖暖闪退",
+      "onboard_time": 1745898260,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 278827,
       "num": 278827,
       "word": "密室大逃脱7",
       "onboard_time": 1745851643,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 278104,
+      "num": 278104,
+      "word": "2岁男童蹦床与8岁男童撞致10级伤残",
+      "onboard_time": 1745896820,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 272582,
+      "num": 272582,
+      "word": "石凯恋爱保密协议",
+      "onboard_time": 1745898502,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 271504,
@@ -299,6 +347,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 266503,
+      "num": 469266,
+      "word": "马代酒店回应女子遭管家性侵",
+      "onboard_time": 1745895800,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 254790,
       "num": 252205,
       "word": "度过情侣尴尬期的标志",
@@ -313,6 +369,14 @@
       "onboard_time": 1745845162,
       "rank": 36,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 238478,
+      "num": 319403,
+      "word": "电影浪浪山小妖怪定档",
+      "onboard_time": 1745898442,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 229746,
@@ -371,12 +435,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 202702,
+      "num": 270735,
+      "word": "沈腾说邓家佳电影造型像梦露",
+      "onboard_time": 1745898442,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 194690,
       "num": 214857,
       "word": "孙俪说姐弟恋把我们这戏说俗气了",
       "onboard_time": 1745841080,
       "rank": 23,
       "category": "艺人,剧集"
+    },
+    {
+      "raw_hot": 193598,
+      "num": 208633,
+      "word": "容易内耗的人多做对抗类运动",
+      "onboard_time": 1745893160,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 192772,
@@ -419,20 +499,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 178724,
-      "num": 208633,
-      "word": "容易内耗的人多做对抗类运动",
-      "onboard_time": 1745893160,
-      "rank": 35,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 167679,
-      "num": 469266,
-      "word": "马代酒店回应女子遭管家性侵",
-      "onboard_time": 1745895800,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 166070,
+      "num": 267683,
+      "word": "张继科评自己最满意的一场比赛",
+      "onboard_time": 1745898442,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 165979,
@@ -459,12 +531,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156207,
+      "num": 156207,
+      "word": "男子酒后开自动驾驶上高速呼呼大睡",
+      "onboard_time": 1745898502,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 155538,
       "num": 155538,
       "word": "丁禹兮陪看淮水竹亭",
       "onboard_time": 1745854702,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154672,
+      "num": 154672,
+      "word": "外交部",
+      "onboard_time": 1745898323,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 151140,
@@ -483,6 +571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145395,
+      "num": 145395,
+      "word": "我不会再生任何人的气了",
+      "onboard_time": 1745898442,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 142614,
       "num": 142614,
       "word": "半个娱乐圈都在追无尽的尽头",
@@ -491,12 +587,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141222,
+      "num": 141222,
+      "word": "网传桂林一高校男生被女生捉奸在床",
+      "onboard_time": 1745898381,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137765,
       "num": 137765,
       "word": "riize泡泡",
       "onboard_time": 1745895501,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137563,
+      "num": 137563,
+      "word": "五一坐高铁注意这9点",
+      "onboard_time": 1745895083,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135955,
@@ -539,12 +651,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 114550,
-      "num": 114550,
-      "word": "五一坐高铁注意这9点",
-      "onboard_time": 1745895083,
-      "rank": 44,
-      "category": "民生新闻"
+      "raw_hot": 113539,
+      "num": 334895,
+      "word": "X200Ultra长焦巨炮的V单实力",
+      "onboard_time": 1745896581,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 113327,
@@ -676,7 +788,7 @@
     },
     {
       "raw_hot": 93718,
-      "num": 108673,
+      "num": 155296,
       "word": "代号砰砰",
       "onboard_time": 1745896820,
       "rank": 45,
@@ -713,14 +825,6 @@
       "onboard_time": 1745890221,
       "rank": 40,
       "category": "财经"
-    },
-    {
-      "raw_hot": 91059,
-      "num": 334895,
-      "word": "X200Ultra长焦巨炮的V单实力",
-      "onboard_time": 1745896581,
-      "rank": 19,
-      "category": "数码"
     },
     {
       "raw_hot": 91014,
@@ -899,6 +1003,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 73244,
+      "num": 154712,
+      "word": "骑士4比0热火",
+      "onboard_time": 1745895083,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 72280,
+      "num": 338913,
+      "word": "遮挡车牌公务车驾驶员被停职",
+      "onboard_time": 1745898260,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71888,
       "num": 477297,
       "word": "阿里千问3登顶全球最强开源模型",
@@ -985,14 +1105,6 @@
       "onboard_time": 1745860457,
       "rank": 14,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 61418,
-      "num": 363254,
-      "word": "小伙峨眉山失联朋友担心拍日出跌落",
-      "onboard_time": 1745896341,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 60845,
@@ -1084,7 +1196,7 @@
     },
     {
       "raw_hot": 44554,
-      "num": 1147782,
+      "num": 1235407,
       "word": "稳就业稳经济5方面若干举措",
       "onboard_time": 1745845342,
       "rank": 2,
@@ -1105,14 +1217,6 @@
       "onboard_time": 1745895141,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 43333,
-      "num": 201743,
-      "word": "2岁男童蹦床与8岁男童撞致10级伤残",
-      "onboard_time": 1745896820,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 40119,
@@ -1347,6 +1451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 13803,
+      "num": 313888,
+      "word": "首个蛇年蛇月蛇日蛇时是如何形成的",
+      "onboard_time": 1745898142,
+      "rank": 19,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 13020,
       "num": 41979,
       "word": "关注第八届数字中国建设峰会",
@@ -1387,6 +1499,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 8876,
+      "num": 154897,
+      "word": "骑行新手必学的骑行姿势",
+      "onboard_time": 1745898084,
+      "rank": 39,
+      "category": "运动健身,民生新闻"
+    },
+    {
       "raw_hot": 6803,
       "num": 153186,
       "word": "为什么跑步要跑一休一",
@@ -1409,6 +1529,9 @@
     },
     {
       "word": "#习近平为全国劳模和先进工作者颁发证书#"
+    },
+    {
+      "word": "#总书记重要讲话汇聚磅礴力量#"
     }
   ]
 }
