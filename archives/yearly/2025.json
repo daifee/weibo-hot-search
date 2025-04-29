@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1745900923807,
+  "endTime": 1745901795064,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1843,6 +1843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3413245,
+      "num": 3413245,
+      "word": "协和",
+      "onboard_time": 1745886801,
+      "rank": 10,
+      "category": "教育"
+    },
+    {
       "raw_hot": 3406269,
       "num": 3406269,
       "word": "蛟龙行动撤档",
@@ -1921,14 +1929,6 @@
       "onboard_time": 1737800420,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3338636,
-      "num": 3338636,
-      "word": "协和",
-      "onboard_time": 1745886801,
-      "rank": 10,
-      "category": "教育"
     },
     {
       "raw_hot": 3336228,

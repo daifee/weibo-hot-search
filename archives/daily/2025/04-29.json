@@ -1,10 +1,10 @@
 {
   "startTime": 1745857837371,
-  "endTime": 1745900923807,
+  "endTime": 1745901795064,
   "band_list": [
     {
-      "raw_hot": 3338636,
-      "num": 3338636,
+      "raw_hot": 3413245,
+      "num": 3413245,
       "word": "协和",
       "onboard_time": 1745886801,
       "rank": 10,
@@ -27,12 +27,28 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 1900030,
-      "num": 1900030,
+      "raw_hot": 1986007,
+      "num": 1986007,
       "word": "内娱终于有全开麦了",
       "onboard_time": 1745898502,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1567376,
+      "num": 1567376,
+      "word": "宫崎骏画的赵丽颖",
+      "onboard_time": 1745900303,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 1482773,
+      "num": 1482773,
+      "word": "中日友好医院",
+      "onboard_time": 1745895083,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1415763,
@@ -59,28 +75,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1171829,
+      "num": 891850,
+      "word": "送曾黎礼物的粉丝道歉",
+      "onboard_time": 1745901562,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1152635,
       "num": 394697,
       "word": "桃花源记 细思极恐",
       "onboard_time": 1745885242,
       "rank": 11,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1146193,
-      "num": 1146193,
-      "word": "中日友好医院",
-      "onboard_time": 1745895083,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1120466,
-      "num": 1120466,
-      "word": "宫崎骏画的赵丽颖",
-      "onboard_time": 1745900303,
-      "rank": 4,
-      "category": "电影"
     },
     {
       "raw_hot": 994301,
@@ -131,6 +139,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 694532,
+      "num": 694532,
+      "word": "刘诗诗演技",
+      "onboard_time": 1745900303,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 670078,
       "num": 670078,
       "word": "12岁女孩被继母关厕所17天虐待致死",
@@ -155,12 +171,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 609714,
-      "num": 609714,
-      "word": "刘诗诗演技",
-      "onboard_time": 1745900303,
-      "rank": 16,
-      "category": "剧集"
+      "raw_hot": 599710,
+      "num": 599710,
+      "word": "外交部",
+      "onboard_time": 1745898323,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 589298,
@@ -193,14 +209,6 @@
       "onboard_time": 1745853203,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 496725,
-      "num": 496725,
-      "word": "外交部",
-      "onboard_time": 1745898323,
-      "rank": 41,
-      "category": "国内时政"
     },
     {
       "raw_hot": 477978,
@@ -259,6 +267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 396572,
+      "num": 396572,
+      "word": "我姓疆 热巴故乡",
+      "onboard_time": 1745901022,
+      "rank": 19,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 352273,
       "num": 352273,
       "word": "刘诗诗经常请吃饭的漂亮姐姐",
@@ -273,6 +289,14 @@
       "onboard_time": 1745890160,
       "rank": 7,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 332859,
+      "num": 459280,
+      "word": "追梦偷听火箭战术",
+      "onboard_time": 1745900363,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 325839,
@@ -355,6 +379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 274421,
+      "num": 653661,
+      "word": "泽连斯基称停火没必要等到5月8日",
+      "onboard_time": 1745899160,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 271504,
       "num": 196102,
       "word": "为什么婚恋前要先看体检报告",
@@ -377,14 +409,6 @@
       "onboard_time": 1745895800,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 262107,
-      "num": 653661,
-      "word": "泽连斯基称停火没必要等到5月8日",
-      "onboard_time": 1745899160,
-      "rank": 13,
-      "category": "国际时政"
     },
     {
       "raw_hot": 254790,
@@ -427,6 +451,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 237539,
+      "num": 237539,
+      "word": "董袭莹的行为触碰了哪些法律红线",
+      "onboard_time": 1745897122,
+      "rank": 40,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 229746,
       "num": 348935,
       "word": "沈腾这是OK不是30场哈",
@@ -451,20 +483,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 215900,
-      "num": 215900,
-      "word": "董袭莹的行为触碰了哪些法律红线",
-      "onboard_time": 1745897122,
-      "rank": 40,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 214262,
       "num": 214262,
       "word": "张柏芝发文谈恋爱脑",
       "onboard_time": 1745882780,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 212852,
+      "num": 248330,
+      "word": "刘诗诗连破两次平台首日纪录",
+      "onboard_time": 1745901625,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 211490,
@@ -483,14 +515,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 209921,
-      "num": 459280,
-      "word": "追梦偷听火箭战术",
-      "onboard_time": 1745900363,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 209045,
       "num": 397430,
       "word": "选高伟光演人夫真是天才",
@@ -505,6 +529,14 @@
       "onboard_time": 1745893341,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 204211,
+      "num": 204211,
+      "word": "无限暖暖初始化失败",
+      "onboard_time": 1745901562,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 203316,
@@ -529,6 +561,14 @@
       "onboard_time": 1745900303,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199206,
+      "num": 199206,
+      "word": "成都巨响",
+      "onboard_time": 1745900963,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 194690,
@@ -587,6 +627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 180806,
+      "num": 200974,
+      "word": "惠英红 从湾仔乞讨到华表影后",
+      "onboard_time": 1745901742,
+      "rank": 34,
+      "category": "作品衍生,电影"
+    },
+    {
       "raw_hot": 178821,
       "num": 178821,
       "word": "保时捷CEO谈小米SU7Ultra",
@@ -595,8 +643,8 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 167348,
-      "num": 167348,
+      "raw_hot": 172236,
+      "num": 172236,
       "word": "网传桂林一高校男生被女生捉奸在床",
       "onboard_time": 1745898381,
       "rank": 47,
@@ -844,7 +892,7 @@
     },
     {
       "raw_hot": 99627,
-      "num": 99627,
+      "num": 183857,
       "word": "湖狼决胜关键球被漏判",
       "onboard_time": 1745890221,
       "rank": 36,
@@ -987,6 +1035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85171,
+      "num": 672094,
+      "word": "高关税或是压倒美债的最后一根稻草",
+      "onboard_time": 1745899642,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 84889,
       "num": 84889,
       "word": "孔雪儿杨仕泽这是我能看的吗",
@@ -1009,6 +1065,14 @@
       "onboard_time": 1745889142,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 82047,
+      "num": 186515,
+      "word": "仪式感原来是这个样子",
+      "onboard_time": 1745901682,
+      "rank": 39,
+      "category": "情感,民生新闻"
     },
     {
       "raw_hot": 80601,
@@ -1164,7 +1228,7 @@
     },
     {
       "raw_hot": 65699,
-      "num": 65699,
+      "num": 211059,
       "word": "李现锦绣芳华有效剧透",
       "onboard_time": 1745882659,
       "rank": 39,
@@ -1251,12 +1315,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 58035,
-      "num": 672094,
-      "word": "高关税或是压倒美债的最后一根稻草",
-      "onboard_time": 1745899642,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 56619,
+      "num": 179609,
+      "word": "协和4加4博士水平没问题",
+      "onboard_time": 1745901502,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 55057,
@@ -1363,6 +1427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 37725,
+      "num": 331242,
+      "word": "记者实测AI面试软件成功蒙蔽面试官",
+      "onboard_time": 1745900123,
+      "rank": 29,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 35422,
       "num": 35422,
       "word": "种地吧",
@@ -1465,14 +1537,6 @@
       "onboard_time": 1745880977,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 24263,
-      "num": 331242,
-      "word": "记者实测AI面试软件成功蒙蔽面试官",
-      "onboard_time": 1745900123,
-      "rank": 29,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 21677,
@@ -1595,6 +1659,22 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 13607,
+      "num": 185705,
+      "word": "30岁一天打8份工是什么体验",
+      "onboard_time": 1745901742,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13346,
+      "num": 185040,
+      "word": "减肚子干掉内脏脂肪的8个巧招",
+      "onboard_time": 1745901742,
+      "rank": 41,
+      "category": "幽默,民生新闻"
+    },
+    {
       "raw_hot": 13020,
       "num": 41979,
       "word": "关注第八届数字中国建设峰会",
@@ -1660,7 +1740,7 @@
     },
     {
       "raw_hot": 2132,
-      "num": 1292828,
+      "num": 1746566,
       "word": "新质先锋未来北京",
       "onboard_time": 1745899882,
       "rank": 2,
