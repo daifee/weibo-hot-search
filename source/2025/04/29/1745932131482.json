@@ -1,0 +1,410 @@
+{
+  "runTime": 1745932131482,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1343147,
+        "num": 1343147,
+        "word": "时代少年团演唱会直播",
+        "onboard_time": 1745925322,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1276857,
+        "num": 1276857,
+        "word": "辽阳一饭店火灾22死3伤",
+        "onboard_time": 1745916264,
+        "rank": 1,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 25095,
+        "num": 1053346,
+        "word": "光荣属于劳动者",
+        "onboard_time": 1745913563,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 942953,
+        "num": 942953,
+        "word": "曾黎我不是中戏两百年美女",
+        "onboard_time": 1745926103,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 611507,
+        "num": 611507,
+        "word": "家长查孩子成绩一年被收300元",
+        "onboard_time": 1745929643,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 523244,
+        "num": 523244,
+        "word": "致22死饭店火灾事发时正值午餐高峰",
+        "onboard_time": 1745928862,
+        "rank": 5,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 656440,
+        "num": 514658,
+        "word": "SuperM",
+        "onboard_time": 1745928262,
+        "rank": 6,
+        "category": "艺人,音乐"
+      },
+      {
+        "raw_hot": 467103,
+        "num": 467103,
+        "word": "沙特王储称中国崩了全世界都要崩",
+        "onboard_time": 1745928323,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 379998,
+        "num": 379998,
+        "word": "奈雪的茶门店通知能喝奶茶就不要喝水",
+        "onboard_time": 1745916743,
+        "rank": 8,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 29565,
+        "num": 371669,
+        "word": "西班牙电力供应接近完全恢复",
+        "onboard_time": 1745931262,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 794287,
+        "num": 369384,
+        "word": "董小姐的医学奇迹",
+        "onboard_time": 1745920043,
+        "rank": 10,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 365997,
+        "num": 365997,
+        "word": "物业回应面具女恐吓电梯内2幼童",
+        "onboard_time": 1745927664,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 348057,
+        "num": 348057,
+        "word": "董小姐父母何以跨界指导论文",
+        "onboard_time": 1745927001,
+        "rank": 12,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 108770,
+        "num": 324953,
+        "word": "男子因不愿玩自费项目被旅行社扔山里",
+        "onboard_time": 1745931203,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58871,
+        "num": 320541,
+        "word": "黄雨婷两个词总结中国射击队传承",
+        "onboard_time": 1745931322,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 318292,
+        "num": 318292,
+        "word": "叶舒华为减肥戒掉面粉",
+        "onboard_time": 1745927123,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298743,
+        "num": 298743,
+        "word": "董袭莹被爆学术历程跨多学科",
+        "onboard_time": 1745929582,
+        "rank": 16,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 253765,
+        "num": 253765,
+        "word": "丁禹兮听到永夜两个字的反应",
+        "onboard_time": 1745926282,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 6545,
+        "num": 253380,
+        "word": "被租借过的大熊猫有哪些",
+        "onboard_time": 1745931681,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23048,
+        "num": 251934,
+        "word": "男子兼职后名下竟多出6个公司",
+        "onboard_time": 1745931382,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1136602,
+        "num": 250138,
+        "word": "曾黎 灾难公关",
+        "onboard_time": 1745908822,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273005,
+        "num": 249804,
+        "word": "桂林理工大学通报",
+        "onboard_time": 1745923582,
+        "rank": 21,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 248543,
+        "num": 248543,
+        "word": "辽阳一饭店火灾原因正在调查",
+        "onboard_time": 1745922983,
+        "rank": 22,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 236543,
+        "num": 236543,
+        "word": "肖飞被开除董袭莹问题何时查",
+        "onboard_time": 1745904442,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235133,
+        "num": 235133,
+        "word": "张云龙我俩就退圈是吧",
+        "onboard_time": 1745921423,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228037,
+        "num": 228037,
+        "word": "央企干部赌博被偷拍4人涉敲诈获刑",
+        "onboard_time": 1745925863,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 197052,
+        "num": 197052,
+        "word": "严浩翔贺峻霖双人曲茫试音",
+        "onboard_time": 1745931803,
+        "rank": 26,
+        "category": "演出,音乐"
+      },
+      {
+        "raw_hot": 193715,
+        "num": 193715,
+        "word": "李兰迪花瓣裙",
+        "onboard_time": 1745931620,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192209,
+        "num": 192209,
+        "word": "蒲熠星李永钦cha了莎士比亚之殇",
+        "onboard_time": 1745931023,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103955,
+        "num": 190718,
+        "word": "五大国有银行明确撤销监事会",
+        "onboard_time": 1745931442,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 200887,
+        "num": 190575,
+        "word": "章子怡舞台上意外摔倒已就医",
+        "onboard_time": 1745918064,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 189257,
+        "num": 189257,
+        "word": "在飞机上被韩国人偷了",
+        "onboard_time": 1745927301,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145169,
+        "num": 188153,
+        "word": "印度游客山上滑索时山下恐袭致26死",
+        "onboard_time": 1745930243,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 187209,
+        "num": 187797,
+        "word": "王源杭州站就这么水灵灵的官宣了",
+        "onboard_time": 1745931561,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 187583,
+        "num": 187583,
+        "word": "小区一女子戴面具恐吓电梯内幼童",
+        "onboard_time": 1745931620,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185888,
+        "num": 185888,
+        "word": "赵粤解约",
+        "onboard_time": 1745931920,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183311,
+        "num": 183311,
+        "word": "大学生花15万全款买房后的生活",
+        "onboard_time": 1745924301,
+        "rank": 36,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 181399,
+        "num": 181399,
+        "word": "刘美含多平台掉粉",
+        "onboard_time": 1745914222,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32701,
+        "num": 168053,
+        "word": "医学生都有哪些培养方式",
+        "onboard_time": 1745930902,
+        "rank": 38,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 1950,
+        "num": 165636,
+        "word": "医学博士也能开挂",
+        "onboard_time": 1745931561,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164092,
+        "num": 164092,
+        "word": "孔雪儿出道多年第一次放弃表情管理",
+        "onboard_time": 1745924662,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71420,
+        "num": 163826,
+        "word": "是否应该压缩医学专业培养时间",
+        "onboard_time": 1745932101,
+        "rank": 41,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 163668,
+        "num": 163668,
+        "word": "村里让办8万丧事才帮老人开死亡证明",
+        "onboard_time": 1745926282,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161661,
+        "num": 161661,
+        "word": "和纸片人付费恋爱的女孩们决定离开",
+        "onboard_time": 1745929342,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 156785,
+        "num": 156785,
+        "word": "Gemini 没直播",
+        "onboard_time": 1745927544,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 151812,
+        "num": 151812,
+        "word": "王源广州演唱会抢票",
+        "onboard_time": 1745928323,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 85400,
+        "num": 146225,
+        "word": "肖飞事件网友最关心的3个问题",
+        "onboard_time": 1745930061,
+        "rank": 46,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 144276,
+        "num": 144276,
+        "word": "对辽宁辽阳一饭店火灾挂牌督办",
+        "onboard_time": 1745924662,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143056,
+        "num": 143056,
+        "word": "辽宁饭店火灾事故救援结束",
+        "onboard_time": 1745926161,
+        "rank": 48,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 142257,
+        "num": 142257,
+        "word": "任嘉伦 就要和宣夜道别了",
+        "onboard_time": 1745927600,
+        "rank": 49,
+        "category": "剧集,作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#以奋斗铸就新辉煌#"
+    }
+  }
+}

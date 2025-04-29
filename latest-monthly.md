@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/29 20:52:39
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/29 21:08:51
 </p>
 </blockquote>
 <p>
@@ -2703,6 +2703,12 @@ Simon事件（热度：1411247）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%BC%94%E5%94%B1%E4%BC%9A%E7%9B%B4%E6%92%AD%23" target="weibo">
+时代少年团演唱会直播（热度：1343147）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%8D%AB%E7%94%9F%E5%B7%BE%E5%B7%A5%E5%8E%82%E8%BF%9B%E5%B1%95%23" target="weibo">
 黄子韬卫生巾工厂进展（热度：1343020）
 </a>
@@ -2963,12 +2969,6 @@ Simon事件（热度：1411247）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%BC%A0%E4%BC%9F%E7%94%B2%E4%BA%A2%E5%93%A5%E5%90%8C%E6%A1%86%23" target="weibo">
 大张伟甲亢哥同框（热度：1289960）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%BC%94%E5%94%B1%E4%BC%9A%E7%9B%B4%E6%92%AD%23" target="weibo">
-时代少年团演唱会直播（热度：1288644）
 </a>
 </li>
 
