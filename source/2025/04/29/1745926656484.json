@@ -1,0 +1,410 @@
+{
+  "runTime": 1745926656484,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4219697,
+        "num": 4219697,
+        "word": "辽阳一饭店火灾22死3伤",
+        "onboard_time": 1745916264,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 683342,
+        "num": 683342,
+        "word": "奈雪的茶门店通知能喝奶茶就不要喝水",
+        "onboard_time": 1745916743,
+        "rank": 1,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 29391,
+        "num": 621914,
+        "word": "光荣属于劳动者",
+        "onboard_time": 1745913563,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 615343,
+        "num": 615343,
+        "word": "桂林理工大学通报",
+        "onboard_time": 1745923582,
+        "rank": 3,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1414699,
+        "num": 574201,
+        "word": "曾黎我不是中戏两百年美女",
+        "onboard_time": 1745926103,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 510253,
+        "num": 510253,
+        "word": "对辽宁辽阳一饭店火灾挂牌督办",
+        "onboard_time": 1745924662,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 393266,
+        "num": 393266,
+        "word": "时代少年团演唱会直播",
+        "onboard_time": 1745925322,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 372584,
+        "num": 372584,
+        "word": "辽阳一饭店火灾原因正在调查",
+        "onboard_time": 1745922983,
+        "rank": 7,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 371431,
+        "num": 371431,
+        "word": "校长寄语毕业生文章删除董袭莹",
+        "onboard_time": 1745921364,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230434,
+        "num": 371336,
+        "word": "校长寄语毕业生曾提到董袭莹",
+        "onboard_time": 1745923523,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1514643,
+        "num": 367537,
+        "word": "董小姐的医学奇迹",
+        "onboard_time": 1745920043,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 610512,
+        "num": 366269,
+        "word": "张云龙我俩就退圈是吧",
+        "onboard_time": 1745921423,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273081,
+        "num": 363883,
+        "word": "阿楚姑娘",
+        "onboard_time": 1745917644,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 275188,
+        "num": 362462,
+        "word": "还是会想你",
+        "onboard_time": 1745923942,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 35772,
+        "num": 360157,
+        "word": "3个细节撕开俄乌无条件谈判真相",
+        "onboard_time": 1745924962,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 279011,
+        "num": 358717,
+        "word": "孔雪儿出道多年第一次放弃表情管理",
+        "onboard_time": 1745924662,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 552751,
+        "num": 355784,
+        "word": "章子怡舞台上意外摔倒已就医",
+        "onboard_time": 1745918064,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36784,
+        "num": 354450,
+        "word": "掉漆头盔要陪徐梦桃5战冬奥",
+        "onboard_time": 1745926103,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106727,
+        "num": 351424,
+        "word": "广西一车主拖欠路边停车费3.6万元",
+        "onboard_time": 1745925081,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12361,
+        "num": 350300,
+        "word": "饭店发生火灾该如何逃生",
+        "onboard_time": 1745925682,
+        "rank": 19,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 1636551,
+        "num": 347987,
+        "word": "曾黎 灾难公关",
+        "onboard_time": 1745908822,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 503933,
+        "num": 346601,
+        "word": "刘美含多平台掉粉",
+        "onboard_time": 1745914222,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 411136,
+        "num": 343089,
+        "word": "董袭莹疑曾获巴纳德学院表彰",
+        "onboard_time": 1745916264,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 342896,
+        "num": 342896,
+        "word": "肖飞被开除董袭莹问题何时查",
+        "onboard_time": 1745904442,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 333108,
+        "num": 333108,
+        "word": "你不需要给小肚子寻找价值",
+        "onboard_time": 1745918185,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 257261,
+        "num": 257261,
+        "word": "大学生花15万全款买房后的生活",
+        "onboard_time": 1745924301,
+        "rank": 25,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 253437,
+        "num": 253437,
+        "word": "禁止蟑螂可爱化",
+        "onboard_time": 1745922263,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131495,
+        "num": 242117,
+        "word": "星穹铁道演唱会",
+        "onboard_time": 1745926462,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 151470,
+        "num": 240474,
+        "word": "丁禹兮听到永夜两个字的反应",
+        "onboard_time": 1745926282,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139184,
+        "num": 240195,
+        "word": "成龙章子怡王一博彩排",
+        "onboard_time": 1745925081,
+        "rank": 29,
+        "category": "综艺,电影"
+      },
+      {
+        "raw_hot": 240193,
+        "num": 240193,
+        "word": "外交部发布双语硬核视频",
+        "onboard_time": 1745914940,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 122249,
+        "num": 238155,
+        "word": "刘宇宁好久没直播了有点害羞",
+        "onboard_time": 1745926462,
+        "rank": 31,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 237600,
+        "num": 237600,
+        "word": "李昀锐染了新发色",
+        "onboard_time": 1745919925,
+        "rank": 32,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 216658,
+        "num": 216658,
+        "word": "协和",
+        "onboard_time": 1745886801,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 216647,
+        "num": 216647,
+        "word": "陈清晨谈孙颖莎",
+        "onboard_time": 1745924482,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207379,
+        "num": 207379,
+        "word": "永辉超市回应标价7.96元实收8元",
+        "onboard_time": 1745911763,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11807,
+        "num": 205570,
+        "word": "术者突遇不适该怎么办",
+        "onboard_time": 1745926462,
+        "rank": 36,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 13005,
+        "num": 201595,
+        "word": "宇宙是终极计算机吗",
+        "onboard_time": 1745926342,
+        "rank": 37,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 24273,
+        "num": 196773,
+        "word": "留学生的问题和弊病",
+        "onboard_time": 1745925682,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11267,
+        "num": 190814,
+        "word": "俄外长谈结束俄乌战争的条件",
+        "onboard_time": 1745926402,
+        "rank": 39,
+        "category": "军事,民生新闻"
+      },
+      {
+        "raw_hot": 188610,
+        "num": 188610,
+        "word": "辽宁饭店火灾事故救援结束",
+        "onboard_time": 1745926161,
+        "rank": 40,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 180407,
+        "num": 180407,
+        "word": "中国不跪中国不退",
+        "onboard_time": 1745903723,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 68086,
+        "num": 178527,
+        "word": "赛力斯一季度营业收入191.47亿元",
+        "onboard_time": 1745925381,
+        "rank": 42,
+        "category": "汽车,财经"
+      },
+      {
+        "raw_hot": 177551,
+        "num": 177551,
+        "word": "翔霖",
+        "onboard_time": 1745921663,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174450,
+        "num": 174450,
+        "word": "鹿晗正定伴手礼",
+        "onboard_time": 1745902044,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164781,
+        "num": 164781,
+        "word": "央企干部赌博被偷拍4人涉敲诈获刑",
+        "onboard_time": 1745925863,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 138489,
+        "num": 138489,
+        "word": "外科医生肖飞事件让人细思极恐",
+        "onboard_time": 1745919381,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128157,
+        "num": 128157,
+        "word": "马嘉祺宋亚轩 阿楚姑娘",
+        "onboard_time": 1745922922,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 122850,
+        "num": 122850,
+        "word": "月薪15000住家保姆的一天",
+        "onboard_time": 1745923703,
+        "rank": 48,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 120835,
+        "num": 120835,
+        "word": "陈梦说没想过拍戏",
+        "onboard_time": 1745926581,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#弘扬劳模精神劳动精神工匠精神#"
+    }
+  }
+}
