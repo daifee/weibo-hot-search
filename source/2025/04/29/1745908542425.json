@@ -1,0 +1,402 @@
+{
+  "runTime": 1745908542425,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2511848,
+        "num": 2511848,
+        "word": "肖飞被开除董袭莹问题何时查",
+        "onboard_time": 1745904442,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1375586,
+        "num": 1375586,
+        "word": "鹿晗正定伴手礼",
+        "onboard_time": 1745902044,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1165719,
+        "num": 1165719,
+        "word": "中国不跪中国不退",
+        "onboard_time": 1745903723,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 960365,
+        "num": 960365,
+        "word": "送曾黎礼物的粉丝道歉",
+        "onboard_time": 1745901562,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 510293,
+        "num": 510293,
+        "word": "协和4加4博士水平没问题",
+        "onboard_time": 1745901502,
+        "rank": 5,
+        "category": "教育,健康医疗"
+      },
+      {
+        "raw_hot": 710854,
+        "num": 481227,
+        "word": "迪丽热巴埃及艳后转场",
+        "onboard_time": 1745904083,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 589343,
+        "num": 476486,
+        "word": "内娱终于有全开麦了",
+        "onboard_time": 1745898502,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 431269,
+        "num": 431269,
+        "word": "我姓疆 热巴故乡",
+        "onboard_time": 1745901022,
+        "rank": 8,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 416879,
+        "num": 416879,
+        "word": "西班牙宣布进入国家紧急状态",
+        "onboard_time": 1745886801,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 582562,
+        "num": 415103,
+        "word": "男子成都地铁偷拍女生裙底被拘",
+        "onboard_time": 1745905641,
+        "rank": 10,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 573665,
+        "num": 408638,
+        "word": "知网已搜不到董袭莹论文",
+        "onboard_time": 1745891841,
+        "rank": 11,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 492978,
+        "num": 401161,
+        "word": "12岁女孩被继母关厕所17天虐待致死",
+        "onboard_time": 1745898502,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 471071,
+        "num": 395851,
+        "word": "宫崎骏画的赵丽颖",
+        "onboard_time": 1745900303,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 66771,
+        "num": 389815,
+        "word": "饿了么在多城加大补贴力度",
+        "onboard_time": 1745906481,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 446157,
+        "num": 386514,
+        "word": "钟丽缇小女儿完全继承妈妈基因",
+        "onboard_time": 1745902704,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 381442,
+        "num": 381442,
+        "word": "麻昊宁曾公开发明多个专利",
+        "onboard_time": 1745905521,
+        "rank": 16,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 347794,
+        "num": 347794,
+        "word": "歌手2025定档",
+        "onboard_time": 1745901983,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 323859,
+        "num": 323859,
+        "word": "爱奇艺热度最快破8000的剧",
+        "onboard_time": 1745906783,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30340,
+        "num": 309748,
+        "word": "追梦格林该被罚下吗",
+        "onboard_time": 1745907682,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 952733,
+        "num": 309332,
+        "word": "协和",
+        "onboard_time": 1745886801,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 363304,
+        "num": 309209,
+        "word": "中日友好医院",
+        "onboard_time": 1745895083,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 308682,
+        "num": 308682,
+        "word": "倪萍说小王一博遇到对手了",
+        "onboard_time": 1745905162,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 77694,
+        "num": 304147,
+        "word": "饺子导演正在闭关创作哪吒3",
+        "onboard_time": 1745893462,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 265224,
+        "num": 303408,
+        "word": "秦彻 坠空博弈",
+        "onboard_time": 1745906062,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 303293,
+        "num": 303293,
+        "word": "你穿这样去考教资考官穿什么",
+        "onboard_time": 1745907203,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 289857,
+        "num": 289857,
+        "word": "董明珠年薪1437.2万",
+        "onboard_time": 1745903183,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 281998,
+        "num": 281998,
+        "word": "曾黎工作室再道歉",
+        "onboard_time": 1745895441,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277529,
+        "num": 277529,
+        "word": "刘诗诗连破两次平台首日纪录",
+        "onboard_time": 1745901625,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243894,
+        "num": 243894,
+        "word": "御赐小仵作2",
+        "onboard_time": 1745903243,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212366,
+        "num": 212366,
+        "word": "李昇基与岳父家断绝关系",
+        "onboard_time": 1745907562,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206918,
+        "num": 206918,
+        "word": "张凌赫要给金靖孩子补红包",
+        "onboard_time": 1745906842,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117369,
+        "num": 195316,
+        "word": "敖瑞鹏的敖是敖丙的敖",
+        "onboard_time": 1745906960,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185628,
+        "num": 185628,
+        "word": "3岁男童跳入海洋球池致10级伤残",
+        "onboard_time": 1745902283,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184462,
+        "num": 184462,
+        "word": "减肚子干掉内脏脂肪的8个巧招",
+        "onboard_time": 1745901742,
+        "rank": 34,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 177440,
+        "num": 177440,
+        "word": "张云龙写竹夜用了一年多",
+        "onboard_time": 1745907081,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170418,
+        "num": 170418,
+        "word": "韩安冉前夫精神状态",
+        "onboard_time": 1745895800,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 168112,
+        "num": 168112,
+        "word": "石凯恋爱保密协议",
+        "onboard_time": 1745898502,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157696,
+        "num": 157696,
+        "word": "刘诗诗演技",
+        "onboard_time": 1745900303,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155693,
+        "num": 155693,
+        "word": "2岁男童蹦床与8岁男童撞致10级伤残",
+        "onboard_time": 1745896820,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142405,
+        "num": 142405,
+        "word": "贝果为什么这么贵",
+        "onboard_time": 1745907382,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141100,
+        "num": 141100,
+        "word": "关税回旋镖让美国花店大伤脑筋",
+        "onboard_time": 1745903364,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 135646,
+        "num": 135646,
+        "word": "哥大本科和巴纳德学院疑无此人",
+        "onboard_time": 1745904142,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133514,
+        "num": 133514,
+        "word": "十三州府",
+        "onboard_time": 1745908461,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132895,
+        "num": 132895,
+        "word": "巴特勒怼狄龙布鲁克斯",
+        "onboard_time": 1745904501,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132368,
+        "num": 132368,
+        "word": "肖飞",
+        "onboard_time": 1745886682,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123922,
+        "num": 123922,
+        "word": "外交部发布重磅视频不跪",
+        "onboard_time": 1745887522,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 123109,
+        "num": 123109,
+        "word": "勇士3比1火箭",
+        "onboard_time": 1745904863,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122048,
+        "num": 122048,
+        "word": "无限暖暖客服回应闪退",
+        "onboard_time": 1745907982,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 116848,
+        "num": 116848,
+        "word": "艺洋你无敌了",
+        "onboard_time": 1745891600,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记重要讲话汇聚磅礴力量#"
+    }
+  }
+}

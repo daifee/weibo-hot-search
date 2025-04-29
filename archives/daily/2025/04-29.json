@@ -1,6 +1,6 @@
 {
   "startTime": 1745857837371,
-  "endTime": 1745905317305,
+  "endTime": 1745908542425,
   "band_list": [
     {
       "raw_hot": 3413245,
@@ -17,6 +17,14 @@
       "onboard_time": 1745886801,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 2511848,
+      "num": 2511848,
+      "word": "肖飞被开除董袭莹问题何时查",
+      "onboard_time": 1745904442,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2476573,
@@ -89,6 +97,14 @@
       "onboard_time": 1745850803,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1165719,
+      "num": 1165719,
+      "word": "中国不跪中国不退",
+      "onboard_time": 1745903723,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1152635,
@@ -171,6 +187,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 710854,
+      "num": 481227,
+      "word": "迪丽热巴埃及艳后转场",
+      "onboard_time": 1745904083,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 694532,
       "num": 694532,
       "word": "刘诗诗演技",
@@ -217,6 +241,14 @@
       "onboard_time": 1745894961,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 582562,
+      "num": 415103,
+      "word": "男子成都地铁偷拍女生裙底被拘",
+      "onboard_time": 1745905641,
+      "rank": 10,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 545906,
@@ -291,20 +323,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 446157,
+      "num": 414734,
+      "word": "钟丽缇小女儿完全继承妈妈基因",
+      "onboard_time": 1745902704,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 439739,
       "num": 297425,
       "word": "肖飞",
       "onboard_time": 1745886682,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 414734,
-      "num": 414734,
-      "word": "钟丽缇小女儿完全继承妈妈基因",
-      "onboard_time": 1745902704,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 406721,
@@ -315,12 +347,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 404648,
-      "num": 404648,
-      "word": "迪丽热巴埃及艳后转场",
-      "onboard_time": 1745904083,
-      "rank": 44,
-      "category": "综艺"
+      "raw_hot": 381442,
+      "num": 381442,
+      "word": "麻昊宁曾公开发明多个专利",
+      "onboard_time": 1745905521,
+      "rank": 16,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 352273,
@@ -329,14 +361,6 @@
       "onboard_time": 1745883560,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 347197,
-      "num": 347197,
-      "word": "中国不跪中国不退",
-      "onboard_time": 1745903723,
-      "rank": 43,
-      "category": "国内时政"
     },
     {
       "raw_hot": 334490,
@@ -368,6 +392,14 @@
       "word": "刘诗诗回复虞书欣",
       "onboard_time": 1745844803,
       "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 323859,
+      "num": 323859,
+      "word": "爱奇艺热度最快破8000的剧",
+      "onboard_time": 1745906783,
+      "rank": 18,
       "category": "剧集"
     },
     {
@@ -411,12 +443,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 308682,
+      "num": 308682,
+      "word": "倪萍说小王一博遇到对手了",
+      "onboard_time": 1745905162,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 305611,
       "num": 363254,
       "word": "小伙峨眉山失联朋友担心拍日出跌落",
       "onboard_time": 1745896341,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 303293,
+      "num": 303293,
+      "word": "你穿这样去考教资考官穿什么",
+      "onboard_time": 1745907203,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 297975,
@@ -441,6 +489,14 @@
       "onboard_time": 1745901262,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 289857,
+      "num": 289857,
+      "word": "董明珠年薪1437.2万",
+      "onboard_time": 1745903183,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 283919,
@@ -483,14 +539,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 272220,
-      "num": 272220,
-      "word": "董明珠年薪1437.2万",
-      "onboard_time": 1745903183,
-      "rank": 33,
-      "category": "财经"
-    },
-    {
       "raw_hot": 271504,
       "num": 196102,
       "word": "为什么婚恋前要先看体检报告",
@@ -521,6 +569,14 @@
       "onboard_time": 1745895800,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 265224,
+      "num": 303408,
+      "word": "秦彻 坠空博弈",
+      "onboard_time": 1745906062,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 254790,
@@ -603,6 +659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212366,
+      "num": 212366,
+      "word": "李昇基与岳父家断绝关系",
+      "onboard_time": 1745907562,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 211490,
       "num": 344452,
       "word": "刘昊然音综首录",
@@ -625,6 +689,14 @@
       "onboard_time": 1745900062,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206918,
+      "num": 206918,
+      "word": "张凌赫要给金靖孩子补红包",
+      "onboard_time": 1745906842,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 206026,
@@ -731,20 +803,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 189660,
-      "num": 189660,
-      "word": "倪萍说小王一博遇到对手了",
-      "onboard_time": 1745905162,
-      "rank": 47,
-      "category": "电影"
-    },
-    {
       "raw_hot": 188987,
       "num": 228068,
       "word": "曾黎方将继续取证捍卫权益",
       "onboard_time": 1745900062,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185628,
+      "num": 185628,
+      "word": "3岁男童跳入海洋球池致10级伤残",
+      "onboard_time": 1745902283,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 185552,
@@ -771,12 +843,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 172569,
-      "num": 586657,
-      "word": "肖飞被开除董袭莹问题何时查",
-      "onboard_time": 1745904442,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 177440,
+      "num": 177440,
+      "word": "张云龙写竹夜用了一年多",
+      "onboard_time": 1745907081,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 172236,
@@ -883,6 +955,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142405,
+      "num": 142405,
+      "word": "贝果为什么这么贵",
+      "onboard_time": 1745907382,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 141100,
+      "num": 836941,
+      "word": "关税回旋镖让美国花店大伤脑筋",
+      "onboard_time": 1745903364,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 137765,
       "num": 137765,
       "word": "riize泡泡",
@@ -923,12 +1011,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 134279,
-      "num": 836941,
-      "word": "关税回旋镖让美国花店大伤脑筋",
-      "onboard_time": 1745903364,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 133514,
+      "num": 133514,
+      "word": "十三州府",
+      "onboard_time": 1745908461,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 129903,
@@ -963,12 +1051,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122048,
+      "num": 122048,
+      "word": "无限暖暖客服回应闪退",
+      "onboard_time": 1745907982,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 121632,
       "num": 239591,
       "word": "倪萍评华表奖神仙打架",
       "onboard_time": 1745904382,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 117369,
+      "num": 195316,
+      "word": "敖瑞鹏的敖是敖丙的敖",
+      "onboard_time": 1745906960,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 113539,
@@ -1403,6 +1507,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 66771,
+      "num": 389815,
+      "word": "饿了么在多城加大补贴力度",
+      "onboard_time": 1745906481,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 66101,
       "num": 66101,
       "word": "蒋一侨长发",
@@ -1681,6 +1793,14 @@
       "onboard_time": 1745881459,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30340,
+      "num": 309748,
+      "word": "追梦格林该被罚下吗",
+      "onboard_time": 1745907682,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 27950,
