@@ -1,6 +1,6 @@
 {
   "startTime": 1745857837371,
-  "endTime": 1745922502579,
+  "endTime": 1745923569427,
   "band_list": [
     {
       "raw_hot": 8661549,
@@ -113,6 +113,14 @@
       "onboard_time": 1745891600,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1333312,
+      "num": 339266,
+      "word": "董小姐的医学奇迹",
+      "onboard_time": 1745920043,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1281294,
@@ -331,14 +339,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 572094,
-      "num": 339266,
-      "word": "董小姐的医学奇迹",
-      "onboard_time": 1745920043,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 550655,
       "num": 550655,
       "word": "协和4加4除了经济学还有园艺和外语",
@@ -443,6 +443,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 452079,
+      "num": 320760,
+      "word": "张云龙我俩就退圈是吧",
+      "onboard_time": 1745921423,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 446157,
       "num": 414734,
       "word": "钟丽缇小女儿完全继承妈妈基因",
@@ -539,7 +547,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 340751,
+      "raw_hot": 345651,
       "num": 340751,
       "word": "刘美含多平台掉粉",
       "onboard_time": 1745914222,
@@ -592,14 +600,6 @@
       "word": "爱奇艺热度最快破8000的剧",
       "onboard_time": 1745906783,
       "rank": 18,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 320760,
-      "num": 320760,
-      "word": "张云龙我俩就退圈是吧",
-      "onboard_time": 1745921423,
-      "rank": 22,
       "category": "剧集"
     },
     {
@@ -707,6 +707,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 289611,
+      "num": 339953,
+      "word": "校长寄语毕业生文章删除董袭莹",
+      "onboard_time": 1745921364,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 289389,
       "num": 289389,
       "word": "曝五月天石头移民英国",
@@ -763,6 +771,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 276192,
+      "num": 276192,
+      "word": "翔霖",
+      "onboard_time": 1745921663,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 275733,
+      "num": 281046,
+      "word": "辽阳一饭店火灾原因正在调查",
+      "onboard_time": 1745922983,
+      "rank": 16,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 274421,
       "num": 653661,
       "word": "泽连斯基称停火没必要等到5月8日",
@@ -804,7 +828,7 @@
     },
     {
       "raw_hot": 266431,
-      "num": 228934,
+      "num": 276254,
       "word": "极氪001硬抗大货车高速追尾",
       "onboard_time": 1745917943,
       "rank": 37,
@@ -915,6 +939,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 233791,
+      "num": 233791,
+      "word": "禁止蟑螂可爱化",
+      "onboard_time": 1745922263,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 229746,
       "num": 348935,
       "word": "沈腾这是OK不是30场哈",
@@ -952,14 +984,6 @@
       "word": "张柏芝发文谈恋爱脑",
       "onboard_time": 1745882780,
       "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 213382,
-      "num": 213382,
-      "word": "翔霖",
-      "onboard_time": 1745921663,
-      "rank": 36,
       "category": "艺人"
     },
     {
@@ -1011,14 +1035,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 207690,
-      "num": 339953,
-      "word": "校长寄语毕业生文章删除董袭莹",
-      "onboard_time": 1745921364,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 207416,
       "num": 207416,
       "word": "泌尿医生谈董袭莹跨专业医学履历",
@@ -1057,6 +1073,14 @@
       "onboard_time": 1745900963,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 205191,
+      "num": 284560,
+      "word": "马嘉祺宋亚轩 阿楚姑娘",
+      "onboard_time": 1745922922,
+      "rank": 13,
+      "category": "演出,综艺"
     },
     {
       "raw_hot": 204211,
@@ -1132,7 +1156,7 @@
     },
     {
       "raw_hot": 194840,
-      "num": 267304,
+      "num": 276207,
       "word": "Makiyo向杨丞琳道歉",
       "onboard_time": 1745917764,
       "rank": 22,
@@ -1201,6 +1225,14 @@
       "onboard_time": 1745915122,
       "rank": 45,
       "category": "国际时政,国内时政"
+    },
+    {
+      "raw_hot": 189086,
+      "num": 189086,
+      "word": "田朴珺王石双强照进现实",
+      "onboard_time": 1745923161,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 188987,
@@ -1539,6 +1571,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 142049,
+      "num": 278896,
+      "word": "外科医生肖飞事件让人细思极恐",
+      "onboard_time": 1745919381,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141100,
       "num": 836941,
       "word": "关税回旋镖让美国花店大伤脑筋",
@@ -1561,6 +1601,14 @@
       "onboard_time": 1745915900,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 138616,
+      "num": 335890,
+      "word": "美航母战机坠海原因曝光",
+      "onboard_time": 1745921062,
+      "rank": 13,
+      "category": "国际时政"
     },
     {
       "raw_hot": 137765,
@@ -1619,12 +1667,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 130720,
-      "num": 130720,
-      "word": "禁止蟑螂可爱化",
-      "onboard_time": 1745922263,
+      "raw_hot": 132092,
+      "num": 132092,
+      "word": "校长寄语毕业生曾提到董袭莹",
+      "onboard_time": 1745923523,
       "rank": 48,
-      "category": "情感"
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129903,
@@ -1641,14 +1689,6 @@
       "onboard_time": 1745883080,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 129484,
-      "num": 129484,
-      "word": "外科医生肖飞事件让人细思极恐",
-      "onboard_time": 1745919381,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128316,
@@ -1883,6 +1923,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 94661,
+      "num": 335418,
+      "word": "马龙回应天赋与努力哪个更重要",
+      "onboard_time": 1745922084,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 94449,
       "num": 379813,
       "word": "十年后周杰伦重回武汉开演唱会",
@@ -1995,14 +2043,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 87876,
-      "num": 335418,
-      "word": "马龙回应天赋与努力哪个更重要",
-      "onboard_time": 1745922084,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 87791,
       "num": 101857,
       "word": "哪吒2一天排片仍超4万场",
@@ -2035,14 +2075,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 85039,
-      "num": 335890,
-      "word": "美航母战机坠海原因曝光",
-      "onboard_time": 1745921062,
-      "rank": 13,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 84889,
       "num": 84889,
       "word": "孔雪儿杨仕泽这是我能看的吗",
@@ -2057,6 +2089,14 @@
       "onboard_time": 1745884880,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 83970,
+      "num": 330589,
+      "word": "朝鲜军人在库尔斯克作战画面曝光",
+      "onboard_time": 1745921843,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 83831,
@@ -2291,6 +2331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 63578,
+      "num": 278186,
+      "word": "米哈游总裁大伟哥全国劳模",
+      "onboard_time": 1745922562,
+      "rank": 19,
+      "category": "游戏,民生新闻"
+    },
+    {
       "raw_hot": 62503,
       "num": 62503,
       "word": "森林北直播带货",
@@ -2339,12 +2387,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 60465,
+      "num": 276290,
+      "word": "秦彻好奇心与探索",
+      "onboard_time": 1745923282,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 59889,
       "num": 514514,
       "word": "同一场直播老用户下单贵30元",
       "onboard_time": 1745899702,
       "rank": 19,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 59233,
+      "num": 216466,
+      "word": "原神",
+      "onboard_time": 1745922622,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 58700,
@@ -2361,6 +2425,14 @@
       "onboard_time": 1745914222,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 56298,
+      "num": 276396,
+      "word": "新兰生日月",
+      "onboard_time": 1745922443,
+      "rank": 40,
+      "category": "动漫"
     },
     {
       "raw_hot": 55057,
@@ -2411,20 +2483,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 48580,
-      "num": 330589,
-      "word": "朝鲜军人在库尔斯克作战画面曝光",
-      "onboard_time": 1745921843,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 48184,
       "num": 55373,
       "word": "梁田笑声有多大心里就有多难受",
       "onboard_time": 1745876174,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 48175,
+      "num": 276338,
+      "word": "cos圈来了四大鬼才",
+      "onboard_time": 1745922743,
+      "rank": 29,
+      "category": "动漫"
     },
     {
       "raw_hot": 48089,
@@ -2449,14 +2521,6 @@
       "onboard_time": 1745852843,
       "rank": 34,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 46894,
-      "num": 199379,
-      "word": "新兰生日月",
-      "onboard_time": 1745922443,
-      "rank": 40,
-      "category": "动漫"
     },
     {
       "raw_hot": 46887,
@@ -2619,6 +2683,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 31763,
+      "num": 276415,
+      "word": "出行期间遇到晕车问题怎么办",
+      "onboard_time": 1745922324,
+      "rank": 33,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 31731,
       "num": 254030,
       "word": "红茶爆BLG大概率不换打野",
@@ -2641,6 +2713,14 @@
       "onboard_time": 1745907682,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 28328,
+      "num": 214171,
+      "word": "医生得有真才实学才行",
+      "onboard_time": 1745922682,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28088,
@@ -2731,6 +2811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23282,
+      "num": 283997,
+      "word": "定制化婚托套路有多深",
+      "onboard_time": 1745922562,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21677,
       "num": 23730,
       "word": "徐明浩 表现力",
@@ -2753,14 +2841,6 @@
       "onboard_time": 1745863994,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 19396,
-      "num": 224023,
-      "word": "出行期间遇到晕车问题怎么办",
-      "onboard_time": 1745922324,
-      "rank": 33,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 19276,
@@ -3009,6 +3089,14 @@
       "onboard_time": 1745919682,
       "rank": 40,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 6247,
+      "num": 276431,
+      "word": "鹿晗正定伴手礼有哪些设计巧思",
+      "onboard_time": 1745923282,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 2132,

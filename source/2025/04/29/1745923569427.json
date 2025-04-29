@@ -1,0 +1,410 @@
+{
+  "runTime": 1745923569427,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6198694,
+        "num": 6198694,
+        "word": "辽阳一饭店火灾22死3伤",
+        "onboard_time": 1745916264,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 1129650,
+        "num": 1129650,
+        "word": "奈雪的茶门店通知能喝奶茶就不要喝水",
+        "onboard_time": 1745916743,
+        "rank": 1,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 34000,
+        "num": 840345,
+        "word": "光荣属于劳动者",
+        "onboard_time": 1745913563,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 610594,
+        "num": 610594,
+        "word": "章子怡舞台上意外摔倒已就医",
+        "onboard_time": 1745918064,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 607073,
+        "num": 607073,
+        "word": "阿楚姑娘",
+        "onboard_time": 1745917644,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 464336,
+        "num": 464336,
+        "word": "你不需要给小肚子寻找价值",
+        "onboard_time": 1745918185,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 395008,
+        "num": 395008,
+        "word": "董袭莹疑曾获巴纳德学院表彰",
+        "onboard_time": 1745916264,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 330610,
+        "num": 330610,
+        "word": "永辉超市回应标价7.96元实收8元",
+        "onboard_time": 1745911763,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 289611,
+        "num": 289611,
+        "word": "校长寄语毕业生文章删除董袭莹",
+        "onboard_time": 1745921364,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 345651,
+        "num": 288770,
+        "word": "刘美含多平台掉粉",
+        "onboard_time": 1745914222,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1333312,
+        "num": 287773,
+        "word": "董小姐的医学奇迹",
+        "onboard_time": 1745920043,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 452079,
+        "num": 286905,
+        "word": "张云龙我俩就退圈是吧",
+        "onboard_time": 1745921423,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241628,
+        "num": 285923,
+        "word": "鹿晗正定伴手礼",
+        "onboard_time": 1745902044,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205191,
+        "num": 284560,
+        "word": "马嘉祺宋亚轩 阿楚姑娘",
+        "onboard_time": 1745922922,
+        "rank": 13,
+        "category": "演出,综艺"
+      },
+      {
+        "raw_hot": 23282,
+        "num": 283997,
+        "word": "定制化婚托套路有多深",
+        "onboard_time": 1745922562,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75687,
+        "num": 282587,
+        "word": "零跑再提新势力销量第一",
+        "onboard_time": 1745920884,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 275733,
+        "num": 281046,
+        "word": "辽阳一饭店火灾原因正在调查",
+        "onboard_time": 1745922983,
+        "rank": 16,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 83970,
+        "num": 280762,
+        "word": "朝鲜军人在库尔斯克作战画面曝光",
+        "onboard_time": 1745921843,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 142049,
+        "num": 278896,
+        "word": "外科医生肖飞事件让人细思极恐",
+        "onboard_time": 1745919381,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63578,
+        "num": 278186,
+        "word": "米哈游总裁大伟哥全国劳模",
+        "onboard_time": 1745922562,
+        "rank": 19,
+        "category": "游戏,民生新闻"
+      },
+      {
+        "raw_hot": 450352,
+        "num": 277207,
+        "word": "肖飞被开除董袭莹问题何时查",
+        "onboard_time": 1745904442,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276600,
+        "num": 276600,
+        "word": "外交部发布双语硬核视频",
+        "onboard_time": 1745914940,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2418252,
+        "num": 276579,
+        "word": "曾黎 灾难公关",
+        "onboard_time": 1745908822,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158218,
+        "num": 276564,
+        "word": "杨幂兔子警官",
+        "onboard_time": 1745909062,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148643,
+        "num": 276517,
+        "word": "追星不该被这样情感剥削",
+        "onboard_time": 1745915964,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1204288,
+        "num": 276487,
+        "word": "曾黎铁粉 路人都觉得心寒的程度",
+        "onboard_time": 1745908822,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 6247,
+        "num": 276431,
+        "word": "鹿晗正定伴手礼有哪些设计巧思",
+        "onboard_time": 1745923282,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31763,
+        "num": 276415,
+        "word": "出行期间遇到晕车问题怎么办",
+        "onboard_time": 1745922324,
+        "rank": 27,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 56298,
+        "num": 276396,
+        "word": "新兰生日月",
+        "onboard_time": 1745922443,
+        "rank": 28,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 48175,
+        "num": 276338,
+        "word": "cos圈来了四大鬼才",
+        "onboard_time": 1745922743,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 384943,
+        "num": 276308,
+        "word": "李昀锐染了新发色",
+        "onboard_time": 1745919925,
+        "rank": 30,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 60465,
+        "num": 276290,
+        "word": "秦彻好奇心与探索",
+        "onboard_time": 1745923282,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 57541,
+        "num": 276254,
+        "word": "极氪001硬抗大货车高速追尾",
+        "onboard_time": 1745917943,
+        "rank": 32,
+        "category": "汽车,民生新闻"
+      },
+      {
+        "raw_hot": 124999,
+        "num": 276207,
+        "word": "Makiyo向杨丞琳道歉",
+        "onboard_time": 1745917764,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276192,
+        "num": 276192,
+        "word": "翔霖",
+        "onboard_time": 1745921663,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233791,
+        "num": 233791,
+        "word": "禁止蟑螂可爱化",
+        "onboard_time": 1745922263,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 230289,
+        "num": 230289,
+        "word": "协和",
+        "onboard_time": 1745886801,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 228060,
+        "num": 228060,
+        "word": "协和4加4除了经济学还有园艺和外语",
+        "onboard_time": 1745912182,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 59233,
+        "num": 216466,
+        "word": "原神",
+        "onboard_time": 1745922622,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 28328,
+        "num": 214171,
+        "word": "医生得有真才实学才行",
+        "onboard_time": 1745922682,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213155,
+        "num": 213155,
+        "word": "中国不跪中国不退",
+        "onboard_time": 1745903723,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 94661,
+        "num": 197985,
+        "word": "马龙回应天赋与努力哪个更重要",
+        "onboard_time": 1745922084,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189086,
+        "num": 189086,
+        "word": "田朴珺王石双强照进现实",
+        "onboard_time": 1745923161,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181154,
+        "num": 181154,
+        "word": "第一批追高黄金的年轻人已经亏麻了",
+        "onboard_time": 1745917884,
+        "rank": 43,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 173737,
+        "num": 173737,
+        "word": "日本请求再次租借熊猫",
+        "onboard_time": 1745917161,
+        "rank": 44,
+        "category": "国内时政,国际时政"
+      },
+      {
+        "raw_hot": 162160,
+        "num": 162160,
+        "word": "宫崎骏画的赵丽颖",
+        "onboard_time": 1745900303,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142567,
+        "num": 142567,
+        "word": "知网已搜不到董袭莹论文",
+        "onboard_time": 1745891841,
+        "rank": 46,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 138616,
+        "num": 138616,
+        "word": "美航母战机坠海原因曝光",
+        "onboard_time": 1745921062,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 132092,
+        "num": 132092,
+        "word": "校长寄语毕业生曾提到董袭莹",
+        "onboard_time": 1745923523,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132008,
+        "num": 132008,
+        "word": "陈梦说巴黎奥运会夺冠后哭了",
+        "onboard_time": 1745911642,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#以奋斗铸就新辉煌#"
+    }
+  }
+}
