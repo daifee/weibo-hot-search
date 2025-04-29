@@ -1,6 +1,6 @@
 {
   "startTime": 1745944279846,
-  "endTime": 1745969153980,
+  "endTime": 1745969992256,
   "band_list": [
     {
       "raw_hot": 1718131,
@@ -35,23 +35,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 784842,
-      "num": 784842,
-      "word": "曾黎团队傲慢公关丢了人心",
-      "onboard_time": 1745934745,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 768774,
-      "num": 164203,
-      "word": "曾黎 灾难公关",
-      "onboard_time": 1745908822,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 716549,
+      "raw_hot": 791376,
       "num": 225973,
       "word": "董小姐去给病人开刀这事很可怕",
       "onboard_time": 1745941042,
@@ -59,8 +43,32 @@
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 447297,
-      "num": 447297,
+      "raw_hot": 784842,
+      "num": 939104,
+      "word": "曾黎团队傲慢公关丢了人心",
+      "onboard_time": 1745934745,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 768774,
+      "num": 208514,
+      "word": "曾黎 灾难公关",
+      "onboard_time": 1745908822,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 607087,
+      "num": 219563,
+      "word": "赵今麦泳衣",
+      "onboard_time": 1745968099,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 493059,
+      "num": 493059,
       "word": "美国扬言不需要同中方达成贸易协议",
       "onboard_time": 1745968038,
       "rank": 5,
@@ -88,6 +96,14 @@
       "word": "生命树",
       "onboard_time": 1745938103,
       "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 377252,
+      "num": 377252,
+      "word": "陈飞宇千字长文",
+      "onboard_time": 1745953035,
+      "rank": 19,
       "category": "剧集"
     },
     {
@@ -123,28 +139,20 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 330149,
-      "num": 330149,
-      "word": "陈飞宇千字长文",
-      "onboard_time": 1745953035,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 298402,
-      "num": 298402,
+      "raw_hot": 324501,
+      "num": 324501,
       "word": "小区一女子戴面具恐吓电梯内幼童",
       "onboard_time": 1745931620,
       "rank": 16,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 254148,
-      "num": 219563,
-      "word": "赵今麦泳衣",
-      "onboard_time": 1745968099,
-      "rank": 12,
-      "category": "艺人"
+      "raw_hot": 278370,
+      "num": 217437,
+      "word": "亲子酒店员工朋友圈说希望小朋友死掉",
+      "onboard_time": 1745934745,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 249813,
@@ -163,20 +171,20 @@
       "category": "艺人,综艺"
     },
     {
-      "raw_hot": 240762,
-      "num": 217437,
-      "word": "亲子酒店员工朋友圈说希望小朋友死掉",
-      "onboard_time": 1745934745,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 230925,
       "num": 230925,
       "word": "买1斤黄金不问价店员报警",
       "onboard_time": 1745936602,
       "rank": 9,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 225931,
+      "num": 225931,
+      "word": "南部战区深夜发声",
+      "onboard_time": 1745967377,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 222470,
@@ -220,11 +228,19 @@
     },
     {
       "raw_hot": 169581,
-      "num": 169581,
+      "num": 210544,
       "word": "杨紫刘诗诗互关",
       "onboard_time": 1745944160,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168924,
+      "num": 168924,
+      "word": "家长查孩子成绩一年被收300元",
+      "onboard_time": 1745929643,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 159461,
@@ -233,22 +249,6 @@
       "onboard_time": 1745938043,
       "rank": 21,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 157234,
-      "num": 157234,
-      "word": "家长查孩子成绩一年被收300元",
-      "onboard_time": 1745929643,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 138505,
-      "num": 138505,
-      "word": "南部战区深夜发声",
-      "onboard_time": 1745967377,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128224,
@@ -291,6 +291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113096,
+      "num": 113096,
+      "word": "记者亲历东风着陆场的大风天气",
+      "onboard_time": 1745959694,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105447,
       "num": 105447,
       "word": "丁禹兮听到永夜两个字的反应",
@@ -307,12 +315,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 104291,
-      "num": 104291,
-      "word": "记者亲历东风着陆场的大风天气",
-      "onboard_time": 1745959694,
-      "rank": 26,
-      "category": "民生新闻"
+      "raw_hot": 104508,
+      "num": 209902,
+      "word": "叶舒华为减肥戒掉面粉",
+      "onboard_time": 1745927123,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 103985,
@@ -321,14 +329,6 @@
       "onboard_time": 1745936783,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 103801,
-      "num": 143834,
-      "word": "叶舒华为减肥戒掉面粉",
-      "onboard_time": 1745927123,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 102512,
@@ -411,6 +411,14 @@
       "category": "国内时政,民生新闻"
     },
     {
+      "raw_hot": 88699,
+      "num": 88699,
+      "word": "减肥要学会吃优质碳水",
+      "onboard_time": 1745969600,
+      "rank": 40,
+      "category": "运动健身,健康医疗"
+    },
+    {
       "raw_hot": 88201,
       "num": 88201,
       "word": "曾凡博后脑勺砸地",
@@ -444,11 +452,19 @@
     },
     {
       "raw_hot": 83129,
-      "num": 125360,
+      "num": 167018,
       "word": "留几手发型大改造",
       "onboard_time": 1745963355,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 81969,
+      "num": 81969,
+      "word": "特朗普支持率为80年历任总统最低",
+      "onboard_time": 1745949975,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 81211,
@@ -457,6 +473,46 @@
       "onboard_time": 1745938583,
       "rank": 45,
       "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 80642,
+      "num": 211513,
+      "word": "西班牙首相誓言彻查大停电事件",
+      "onboard_time": 1745968399,
+      "rank": 27,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 80297,
+      "num": 80297,
+      "word": "南部战区部队持续保持高度戒备",
+      "onboard_time": 1745969118,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 80089,
+      "num": 80089,
+      "word": "五一铁路热门到达城市出炉",
+      "onboard_time": 1745961614,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79330,
+      "num": 209680,
+      "word": "一觉醒来神十九踏上回家之旅了",
+      "onboard_time": 1745968998,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 77058,
+      "num": 168467,
+      "word": "章子怡方回应舞台上意外摔倒",
+      "onboard_time": 1745963896,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 74443,
@@ -475,27 +531,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 72924,
+      "num": 72924,
+      "word": "你有这4个机会避开胃癌",
+      "onboard_time": 1745968340,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 72266,
       "num": 72266,
       "word": "白宫抨击亚马逊展示关税价格",
       "onboard_time": 1745940742,
       "rank": 46,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 72249,
-      "num": 125292,
-      "word": "章子怡方回应舞台上意外摔倒",
-      "onboard_time": 1745963896,
-      "rank": 29,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 70902,
-      "num": 70902,
-      "word": "特朗普支持率为80年历任总统最低",
-      "onboard_time": 1745949975,
-      "rank": 38,
       "category": "国际时政"
     },
     {
@@ -515,28 +563,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 69582,
-      "num": 69582,
-      "word": "五一铁路热门到达城市出炉",
-      "onboard_time": 1745961614,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 68673,
       "num": 68673,
       "word": "周思成称考雅思不上8分退圈",
       "onboard_time": 1745944099,
       "rank": 49,
       "category": "艺人,教育"
-    },
-    {
-      "raw_hot": 67195,
-      "num": 67195,
-      "word": "你有这4个机会避开胃癌",
-      "onboard_time": 1745968340,
-      "rank": 44,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 67124,
@@ -547,12 +579,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 58151,
-      "num": 58151,
-      "word": "南部战区部队持续保持高度戒备",
-      "onboard_time": 1745969118,
-      "rank": 48,
-      "category": "国内时政"
+      "raw_hot": 66630,
+      "num": 113138,
+      "word": "孔雪儿出道多年第一次放弃表情管理",
+      "onboard_time": 1745924662,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 61495,
+      "num": 164839,
+      "word": "致敬不能露脸的获奖者",
+      "onboard_time": 1745969419,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 53788,
@@ -579,12 +619,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 39479,
-      "num": 104614,
-      "word": "一觉醒来神十九踏上回家之旅了",
-      "onboard_time": 1745968998,
-      "rank": 34,
-      "category": "国内时政"
+      "raw_hot": 33560,
+      "num": 211154,
+      "word": "美脱口秀辣评特朗普政府百日乱局",
+      "onboard_time": 1745968459,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 32597,
@@ -601,14 +641,6 @@
       "onboard_time": 1745950696,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 25537,
-      "num": 125268,
-      "word": "西班牙首相誓言彻查大停电事件",
-      "onboard_time": 1745968399,
-      "rank": 27,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 24871,
@@ -651,6 +683,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 19917,
+      "num": 166322,
+      "word": "关税政策推高美物价清空美货架",
+      "onboard_time": 1745968940,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 19659,
       "num": 24625,
       "word": "无尽的尽头OST",
@@ -680,14 +720,6 @@
       "word": "加拿大大选",
       "onboard_time": 1745960534,
       "rank": 44,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 15728,
-      "num": 125181,
-      "word": "美脱口秀辣评特朗普政府百日乱局",
-      "onboard_time": 1745968459,
-      "rank": 28,
       "category": "国际时政"
     },
     {
@@ -729,14 +761,6 @@
       "onboard_time": 1745959514,
       "rank": 9,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 10177,
-      "num": 125159,
-      "word": "关税政策推高美物价清空美货架",
-      "onboard_time": 1745968940,
-      "rank": 29,
-      "category": "国际时政"
     }
   ],
   "hotgov_list": [
