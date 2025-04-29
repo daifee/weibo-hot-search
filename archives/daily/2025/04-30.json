@@ -1,6 +1,6 @@
 {
   "startTime": 1745944279846,
-  "endTime": 1745945214836,
+  "endTime": 1745947380169,
   "band_list": [
     {
       "raw_hot": 1718131,
@@ -51,8 +51,8 @@
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 443718,
-      "num": 443718,
+      "raw_hot": 562763,
+      "num": 562763,
       "word": "董袭莹带出的五大疑点待协和等解答",
       "onboard_time": 1745942421,
       "rank": 4,
@@ -147,12 +147,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201567,
+      "num": 133804,
+      "word": "造型师",
+      "onboard_time": 1745946497,
+      "rank": 14,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 188005,
       "num": 188005,
       "word": "辽阳一饭店火灾22死3伤",
       "onboard_time": 1745916264,
       "rank": 18,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 169581,
+      "num": 169581,
+      "word": "杨紫刘诗诗互关",
+      "onboard_time": 1745944160,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 167078,
@@ -177,14 +193,6 @@
       "onboard_time": 1745929643,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 133197,
-      "num": 133197,
-      "word": "杨紫刘诗诗互关",
-      "onboard_time": 1745944160,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 128224,
@@ -283,6 +291,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 96835,
+      "num": 96835,
+      "word": "仗义执言的女护士",
+      "onboard_time": 1745942240,
+      "rank": 30,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 95092,
       "num": 95092,
       "word": "肖飞被开除董袭莹问题何时查",
@@ -331,14 +347,6 @@
       "category": "国内时政,民生新闻"
     },
     {
-      "raw_hot": 88800,
-      "num": 88800,
-      "word": "仗义执言的女护士",
-      "onboard_time": 1745942240,
-      "rank": 30,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 88201,
       "num": 88201,
       "word": "曾凡博后脑勺砸地",
@@ -379,6 +387,22 @@
       "category": "健康医疗,民生新闻"
     },
     {
+      "raw_hot": 74443,
+      "num": 74443,
+      "word": "成都一律师被指多次用复合弓虐猫",
+      "onboard_time": 1745945897,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73726,
+      "num": 73726,
+      "word": "淮水竹亭剧宣是懂替身文学的",
+      "onboard_time": 1745946438,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 72266,
       "num": 72266,
       "word": "白宫抨击亚马逊展示关税价格",
@@ -411,12 +435,36 @@
       "category": "艺人,教育"
     },
     {
-      "raw_hot": 33061,
+      "raw_hot": 68180,
       "num": 91103,
       "word": "4加4初衷肯定不是为开后门",
       "onboard_time": 1745943500,
       "rank": 39,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 53788,
+      "num": 53788,
+      "word": "从肖某事件看4加4模式",
+      "onboard_time": 1745945238,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42261,
+      "num": 42261,
+      "word": "刘传兴 普通犯规",
+      "onboard_time": 1745945478,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 40893,
+      "num": 40893,
+      "word": "时代少年团演唱会直播",
+      "onboard_time": 1745925322,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 32597,
