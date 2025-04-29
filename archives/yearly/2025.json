@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1745911561447,
+  "endTime": 1745912364456,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1603,6 +1603,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 3634007,
+      "num": 3634007,
+      "word": "曾黎 灾难公关",
+      "onboard_time": 1745908822,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3624702,
       "num": 3624702,
       "word": "哪吒票房 升国旗",
@@ -1744,14 +1752,6 @@
       "word": "宋慧乔首谈离婚原因",
       "onboard_time": 1737033080,
       "rank": 0,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 3508510,
-      "num": 592161,
-      "word": "曾黎 灾难公关",
-      "onboard_time": 1745908822,
-      "rank": 7,
       "category": "艺人"
     },
     {

@@ -1,0 +1,410 @@
+{
+  "runTime": 1745912364456,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3634007,
+        "num": 3634007,
+        "word": "曾黎 灾难公关",
+        "onboard_time": 1745908822,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 735147,
+        "num": 735147,
+        "word": "中国不跪中国不退",
+        "onboard_time": 1745903723,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 21201,
+        "num": 722299,
+        "word": "第八届数字中国建设峰会",
+        "onboard_time": 1745899042,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 3567906,
+        "num": 696095,
+        "word": "曾黎铁粉 路人都觉得心寒的程度",
+        "onboard_time": 1745908822,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 735598,
+        "num": 653243,
+        "word": "鹿晗正定伴手礼",
+        "onboard_time": 1745902044,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1350457,
+        "num": 620623,
+        "word": "肖飞被开除董袭莹问题何时查",
+        "onboard_time": 1745904442,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 591135,
+        "num": 591135,
+        "word": "清华教授说将来有望每周上三休四",
+        "onboard_time": 1745909062,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 519924,
+        "num": 519924,
+        "word": "杨幂兔子警官",
+        "onboard_time": 1745909062,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 399349,
+        "num": 399349,
+        "word": "西班牙宣布进入国家紧急状态",
+        "onboard_time": 1745886801,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 182636,
+        "num": 398493,
+        "word": "董袭莹文献发表杂志影响因子低至0.07",
+        "onboard_time": 1745911043,
+        "rank": 9,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 476932,
+        "num": 393518,
+        "word": "迪丽热巴埃及艳后转场",
+        "onboard_time": 1745904083,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 458076,
+        "num": 391344,
+        "word": "男子成都地铁偷拍女生裙底被拘",
+        "onboard_time": 1745905641,
+        "rank": 11,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 428066,
+        "num": 386135,
+        "word": "物以类聚",
+        "onboard_time": 1745910623,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 383360,
+        "num": 383360,
+        "word": "协和4加4博士水平没问题",
+        "onboard_time": 1745901502,
+        "rank": 13,
+        "category": "教育,健康医疗"
+      },
+      {
+        "raw_hot": 94449,
+        "num": 379813,
+        "word": "十年后周杰伦重回武汉开演唱会",
+        "onboard_time": 1745910861,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 378503,
+        "num": 378503,
+        "word": "宫崎骏画的赵丽颖",
+        "onboard_time": 1745900303,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 353979,
+        "num": 353979,
+        "word": "内娱终于有全开麦了",
+        "onboard_time": 1745898502,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 311367,
+        "num": 311367,
+        "word": "12岁女孩被继母关厕所17天虐待致死",
+        "onboard_time": 1745898502,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 290782,
+        "num": 290782,
+        "word": "为了报复五一调休 我决定",
+        "onboard_time": 1745910804,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163833,
+        "num": 289731,
+        "word": "秦彻新卡面坠空博弈有哪些精彩操作",
+        "onboard_time": 1745911282,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 336992,
+        "num": 289568,
+        "word": "协和",
+        "onboard_time": 1745886801,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 289389,
+        "num": 289389,
+        "word": "曝五月天石头移民英国",
+        "onboard_time": 1745910623,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287197,
+        "num": 287197,
+        "word": "杨丞琳方斥Makiyo造谣",
+        "onboard_time": 1745910923,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289376,
+        "num": 275965,
+        "word": "知网已搜不到董袭莹论文",
+        "onboard_time": 1745891841,
+        "rank": 23,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 256735,
+        "num": 256735,
+        "word": "陈梦说巴黎奥运会夺冠后哭了",
+        "onboard_time": 1745911642,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 239607,
+        "num": 239607,
+        "word": "女主持人曝曾被富豪开价买卵",
+        "onboard_time": 1745911525,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227453,
+        "num": 227453,
+        "word": "举报男子成都地铁偷拍女生发声",
+        "onboard_time": 1745909602,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218175,
+        "num": 218175,
+        "word": "爱奇艺热度最快破8000的剧",
+        "onboard_time": 1745906783,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122333,
+        "num": 215204,
+        "word": "今天是世界舞蹈日",
+        "onboard_time": 1745909843,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108183,
+        "num": 214299,
+        "word": "协和4加4除了经济学还有园艺和外语",
+        "onboard_time": 1745912182,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 213697,
+        "num": 213697,
+        "word": "歌手2025定档",
+        "onboard_time": 1745901983,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210271,
+        "num": 210271,
+        "word": "永辉超市回应标价7.96元实收8元",
+        "onboard_time": 1745911763,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207416,
+        "num": 207416,
+        "word": "泌尿医生谈董袭莹跨专业医学履历",
+        "onboard_time": 1745909000,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205339,
+        "num": 205339,
+        "word": "我姓疆 热巴故乡",
+        "onboard_time": 1745901022,
+        "rank": 33,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 45100,
+        "num": 188806,
+        "word": "车主自制车牌写好几个8被批评教育",
+        "onboard_time": 1745910502,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188703,
+        "num": 188703,
+        "word": "魅族新机被指酷似华为",
+        "onboard_time": 1745911642,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 187658,
+        "num": 187658,
+        "word": "十三州府",
+        "onboard_time": 1745908461,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181176,
+        "num": 181176,
+        "word": "广式凉茶遇到了最懂他的外国人",
+        "onboard_time": 1745911102,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180954,
+        "num": 180954,
+        "word": "被赵丽颖在电视上怼人硬控了",
+        "onboard_time": 1745911342,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11935,
+        "num": 172740,
+        "word": "手部反射区按摩养生方法",
+        "onboard_time": 1745911222,
+        "rank": 39,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 171788,
+        "num": 171788,
+        "word": "孙艺洲回应抗抑郁版死了都要爱",
+        "onboard_time": 1745909123,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 167962,
+        "num": 167962,
+        "word": "麦琳走出综艺后的人生变化",
+        "onboard_time": 1745910143,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164784,
+        "num": 164784,
+        "word": "恋与深空",
+        "onboard_time": 1745909482,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 164387,
+        "num": 164387,
+        "word": "钟丽缇小女儿完全继承妈妈基因",
+        "onboard_time": 1745902704,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154366,
+        "num": 154366,
+        "word": "你穿这样去考教资考官穿什么",
+        "onboard_time": 1745907203,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146650,
+        "num": 146650,
+        "word": "中日友好医院被开除医生有异议",
+        "onboard_time": 1745911463,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140114,
+        "num": 140114,
+        "word": "男子改装设备在地铁偷拍女性被行拘",
+        "onboard_time": 1745909542,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137733,
+        "num": 137733,
+        "word": "翟潇闻一觉醒来我的嘴就变这样了",
+        "onboard_time": 1745911882,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133678,
+        "num": 133678,
+        "word": "倪萍说小王一博遇到对手了",
+        "onboard_time": 1745905162,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127726,
+        "num": 127726,
+        "word": "一旦走进日本的KTV中文就失效了",
+        "onboard_time": 1745910262,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记重要讲话汇聚磅礴力量#"
+    }
+  }
+}
