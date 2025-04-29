@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1745896245349,
+  "endTime": 1745897215350,
   "band_list": [
     {
       "raw_hot": 8960529,
@@ -67,8 +67,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2225925,
-      "num": 2225925,
+      "raw_hot": 2249519,
+      "num": 2249519,
       "word": "知网已搜不到董袭莹论文",
       "onboard_time": 1745891841,
       "rank": 6,
@@ -379,6 +379,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1146193,
+      "num": 1146193,
+      "word": "中日友好医院",
+      "onboard_time": 1745895083,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1132042,
       "num": 792399,
       "word": "三姐妹给父亲上坟被大伯炸死案二审",
@@ -475,6 +483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 994301,
+      "num": 994301,
+      "word": "高铁允许小狗托运但胖狗不行",
+      "onboard_time": 1745895201,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 989473,
       "num": 989473,
       "word": "藏海传",
@@ -528,14 +544,6 @@
       "word": "小奶狗被主人2次狠摔致死",
       "onboard_time": 1745742981,
       "rank": 32,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 887039,
-      "num": 887039,
-      "word": "高铁允许小狗托运但胖狗不行",
-      "onboard_time": 1745895201,
-      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -747,6 +755,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 728833,
+      "num": 728833,
+      "word": "不跪",
+      "onboard_time": 1745892560,
+      "rank": 22,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 727063,
       "num": 275333,
       "word": "网购避孕套被配送员骚扰",
@@ -873,14 +889,6 @@
       "onboard_time": 1745803283,
       "rank": 5,
       "category": "民生新闻,健康医疗"
-    },
-    {
-      "raw_hot": 651572,
-      "num": 651572,
-      "word": "不跪",
-      "onboard_time": 1745892560,
-      "rank": 22,
-      "category": "国内时政"
     },
     {
       "raw_hot": 648740,
@@ -1075,6 +1083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 551985,
+      "num": 366188,
+      "word": "韩安冉前夫精神状态",
+      "onboard_time": 1745895800,
+      "rank": 24,
+      "category": "网红"
+    },
+    {
       "raw_hot": 548826,
       "num": 308225,
       "word": "华表奖提名名单",
@@ -1171,6 +1187,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 536532,
+      "num": 536532,
+      "word": "饺子导演正在闭关创作哪吒3",
+      "onboard_time": 1745893462,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 534142,
       "num": 534142,
       "word": "淮水竹亭",
@@ -1185,14 +1209,6 @@
       "onboard_time": 1745732062,
       "rank": 24,
       "category": "美食"
-    },
-    {
-      "raw_hot": 526217,
-      "num": 526217,
-      "word": "中日友好医院",
-      "onboard_time": 1745895083,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 524962,
@@ -1352,6 +1368,14 @@
       "word": "鞠婧祎撕拉片 出圈",
       "onboard_time": 1745889321,
       "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 470654,
+      "num": 470654,
+      "word": "曾黎工作室再道歉",
+      "onboard_time": 1745895441,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -1707,20 +1731,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 362915,
-      "num": 523174,
-      "word": "饺子导演正在闭关创作哪吒3",
-      "onboard_time": 1745893462,
-      "rank": 6,
-      "category": "电影"
-    },
-    {
       "raw_hot": 362292,
       "num": 362292,
       "word": "杨超越全黑look",
       "onboard_time": 1745739741,
       "rank": 20,
       "category": "电影"
+    },
+    {
+      "raw_hot": 360595,
+      "num": 360595,
+      "word": "高校回应男生被捉奸后把女生推下楼",
+      "onboard_time": 1745894961,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 359982,
@@ -2507,14 +2531,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 239572,
-      "num": 239572,
-      "word": "曾黎工作室再道歉",
-      "onboard_time": 1745895441,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 239103,
       "num": 239103,
       "word": "BLG辅核",
@@ -2561,14 +2577,6 @@
       "onboard_time": 1745836402,
       "rank": 15,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 235668,
-      "num": 235668,
-      "word": "韩安冉前夫精神状态",
-      "onboard_time": 1745895800,
-      "rank": 24,
-      "category": "网红"
     },
     {
       "raw_hot": 235023,
@@ -2628,7 +2636,7 @@
     },
     {
       "raw_hot": 229746,
-      "num": 253466,
+      "num": 348935,
       "word": "沈腾这是OK不是30场哈",
       "onboard_time": 1745892622,
       "rank": 23,
@@ -2884,19 +2892,11 @@
     },
     {
       "raw_hot": 211490,
-      "num": 236448,
+      "num": 344452,
       "word": "刘昊然音综首录",
       "onboard_time": 1745895441,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 211145,
-      "num": 211145,
-      "word": "高校回应男生被捉奸后把女生推下楼",
-      "onboard_time": 1745894961,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 210460,
@@ -2993,6 +2993,14 @@
       "onboard_time": 1745739322,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 206026,
+      "num": 206026,
+      "word": "老外不认识汉字但不耽误打麻将",
+      "onboard_time": 1745893341,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 205269,
@@ -3297,14 +3305,6 @@
       "onboard_time": 1745740522,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 190756,
-      "num": 190756,
-      "word": "老外不认识汉字但不耽误打麻将",
-      "onboard_time": 1745893341,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 190611,
@@ -3659,6 +3659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 178724,
+      "num": 208633,
+      "word": "容易内耗的人多做对抗类运动",
+      "onboard_time": 1745893160,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 177445,
       "num": 177445,
       "word": "rv晚宴",
@@ -3843,6 +3851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167679,
+      "num": 469266,
+      "word": "马代酒店回应女子遭管家性侵",
+      "onboard_time": 1745895800,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166912,
       "num": 166912,
       "word": "陈少熙王者",
@@ -3857,14 +3873,6 @@
       "onboard_time": 1745724622,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 166301,
-      "num": 166301,
-      "word": "容易内耗的人多做对抗类运动",
-      "onboard_time": 1745893160,
-      "rank": 35,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 165979,
@@ -5171,6 +5179,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 129875,
+      "num": 203746,
+      "word": "迪丽热巴说馕言文",
+      "onboard_time": 1745883080,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129540,
       "num": 129540,
       "word": "晚睡晚起和早睡早起有什么区别",
@@ -5361,14 +5377,6 @@
       "onboard_time": 1745761464,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 123772,
-      "num": 123772,
-      "word": "迪丽热巴说馕言文",
-      "onboard_time": 1745883080,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 123232,
@@ -5707,6 +5715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108578,
+      "num": 214390,
+      "word": "NBA东西部第八皆被横扫",
+      "onboard_time": 1745895083,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108469,
       "num": 293625,
       "word": "星巴克五月天联名杯被炒至799元",
@@ -5891,14 +5907,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 104227,
-      "num": 214390,
-      "word": "NBA东西部第八皆被横扫",
-      "onboard_time": 1745895083,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 104205,
       "num": 104205,
       "word": "库里36分",
@@ -5993,6 +6001,14 @@
       "onboard_time": 1745800583,
       "rank": 43,
       "category": "国内时政,国际时政"
+    },
+    {
+      "raw_hot": 101884,
+      "num": 101884,
+      "word": "ChatGPT购物功能",
+      "onboard_time": 1745896700,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 101868,
@@ -6323,6 +6339,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 93718,
+      "num": 108673,
+      "word": "代号砰砰",
+      "onboard_time": 1745896820,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 93286,
       "num": 93286,
       "word": "妈妈不吃你们吃",
@@ -6409,6 +6433,14 @@
       "onboard_time": 1745890221,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 91059,
+      "num": 334895,
+      "word": "X200Ultra长焦巨炮的V单实力",
+      "onboard_time": 1745896581,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 91048,
@@ -6505,6 +6537,14 @@
       "onboard_time": 1745846602,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87791,
+      "num": 101857,
+      "word": "哪吒2一天排片仍超4万场",
+      "onboard_time": 1745895441,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 87572,
@@ -6819,6 +6859,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 75899,
+      "num": 152309,
+      "word": "幼儿园一毕业就有多年工作经验",
+      "onboard_time": 1745896941,
+      "rank": 39,
+      "category": "幽默,民生新闻"
+    },
+    {
       "raw_hot": 75130,
       "num": 128431,
       "word": "原来真的有种病叫旅行者腹泻",
@@ -6905,6 +6953,14 @@
       "onboard_time": 1745695033,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 71888,
+      "num": 477297,
+      "word": "阿里千问3登顶全球最强开源模型",
+      "onboard_time": 1745895800,
+      "rank": 8,
+      "category": "互联网"
     },
     {
       "raw_hot": 71663,
@@ -7035,14 +7091,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 65406,
-      "num": 477297,
-      "word": "阿里千问3登顶全球最强开源模型",
-      "onboard_time": 1745895800,
-      "rank": 8,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 64798,
       "num": 155501,
       "word": "井胧井迪是我见过最美好的手足情",
@@ -7105,6 +7153,14 @@
       "onboard_time": 1745745981,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 61418,
+      "num": 363254,
+      "word": "小伙峨眉山失联朋友担心拍日出跌落",
+      "onboard_time": 1745896341,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61343,
@@ -7492,7 +7548,7 @@
     },
     {
       "raw_hot": 44554,
-      "num": 1035657,
+      "num": 1147782,
       "word": "稳就业稳经济5方面若干举措",
       "onboard_time": 1745845342,
       "rank": 2,
@@ -7505,6 +7561,22 @@
       "onboard_time": 1745796740,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 44097,
+      "num": 253097,
+      "word": "美民主党高层痛批特朗普是灾难",
+      "onboard_time": 1745895141,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 43333,
+      "num": 201743,
+      "word": "2岁男童蹦床与8岁男童撞致10级伤残",
+      "onboard_time": 1745896820,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43272,
@@ -8083,22 +8155,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 23564,
-      "num": 469266,
-      "word": "马代酒店回应女子遭管家性侵",
-      "onboard_time": 1745895800,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 23411,
-      "num": 253097,
-      "word": "美民主党高层痛批特朗普是灾难",
-      "onboard_time": 1745895141,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 23342,
       "num": 185890,
       "word": "以军对加沙密集袭击已致49人死亡",
@@ -8659,6 +8715,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 6803,
+      "num": 153186,
+      "word": "为什么跑步要跑一休一",
+      "onboard_time": 1745897122,
+      "rank": 38,
+      "category": "幽默,民生新闻"
+    },
+    {
       "raw_hot": 6607,
       "num": 160449,
       "word": "关注315曝光问题的后续",
@@ -8681,6 +8745,14 @@
       "onboard_time": 1745840481,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 5887,
+      "num": 152288,
+      "word": "董袭莹的行为触碰了哪些法律红线",
+      "onboard_time": 1745897122,
+      "rank": 40,
+      "category": "议题讨论"
     }
   ],
   "hotgov_list": [
