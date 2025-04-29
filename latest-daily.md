@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/30 00:31:19 ~ 2025/04/30 06:24:01
+本榜单时间：2025/04/30 00:31:19 ~ 2025/04/30 06:41:50
 </p>
 </blockquote>
 <p>
@@ -105,6 +105,12 @@ BLG（热度：373618）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%A3%9E%E5%AE%87%E5%8D%83%E5%AD%97%E9%95%BF%E6%96%87%23" target="weibo">
+陈飞宇千字长文（热度：233257）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%B01%E6%96%A4%E9%BB%84%E9%87%91%E4%B8%8D%E9%97%AE%E4%BB%B7%E5%BA%97%E5%91%98%E6%8A%A5%E8%AD%A6%23" target="weibo">
 买1斤黄金不问价店员报警（热度：230925）
 </a>
@@ -129,6 +135,12 @@ BLG（热度：373618）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%B9%90%E5%9B%AD%E5%A4%A7%E6%91%86%E9%94%A4%E5%9C%A8%E9%A1%B6%E7%82%B9%E5%81%9C%E4%BD%8F%E5%A4%9A%E4%BA%BA%E5%80%92%E6%82%AC%23" target="weibo">
+杭州乐园大摆锤在顶点停住多人倒悬（热度：197753）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BE%BD%E9%98%B3%E4%B8%80%E9%A5%AD%E5%BA%97%E7%81%AB%E7%81%BE22%E6%AD%BB3%E4%BC%A4%23" target="weibo">
 辽阳一饭店火灾22死3伤（热度：188005）
 </a>
@@ -147,12 +159,6 @@ BLG（热度：373618）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%A3%9E%E5%AE%87%E5%8D%83%E5%AD%97%E9%95%BF%E6%96%87%23" target="weibo">
-陈飞宇千字长文（热度：161436）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23WBG%E5%AF%B9%E6%88%98BLG%23" target="weibo">
 WBG对战BLG（热度：159461）
 </a>
@@ -165,14 +171,8 @@ WBG对战BLG（热度：159461）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%B9%90%E5%9B%AD%E5%A4%A7%E6%91%86%E9%94%A4%E5%9C%A8%E9%A1%B6%E7%82%B9%E5%81%9C%E4%BD%8F%E5%A4%9A%E4%BA%BA%E5%80%92%E6%82%AC%23" target="weibo">
-杭州乐园大摆锤在顶点停住多人倒悬（热度：155848）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%97%E4%B9%89%E6%89%A7%E8%A8%80%E7%9A%84%E5%A5%B3%E6%8A%A4%E5%A3%AB%23" target="weibo">
-仗义执言的女护士（热度：139150）
+仗义执言的女护士（热度：145470）
 </a>
 </li>
 
@@ -191,6 +191,12 @@ WBG对战BLG（热度：159461）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%B3%BD%E7%A6%B9%20OK%E6%9C%80%E5%90%8E%E5%80%92%E8%AE%A1%E6%97%B6%E5%95%A6%23" target="weibo">
 张泽禹 OK最后倒计时啦（热度：125277）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%234%E5%8A%A04%E5%88%9D%E8%A1%B7%E8%82%AF%E5%AE%9A%E4%B8%8D%E6%98%AF%E4%B8%BA%E5%BC%80%E5%90%8E%E9%97%A8%23" target="weibo">
+4加4初衷肯定不是为开后门（热度：115974）
 </a>
 </li>
 
@@ -243,14 +249,14 @@ WBG对战BLG（热度：159461）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%234%E5%8A%A04%E5%88%9D%E8%A1%B7%E8%82%AF%E5%AE%9A%E4%B8%8D%E6%98%AF%E4%B8%BA%E5%BC%80%E5%90%8E%E9%97%A8%23" target="weibo">
-4加4初衷肯定不是为开后门（热度：96398）
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E9%A3%9E%E8%A2%AB%E5%BC%80%E9%99%A4%E8%91%A3%E8%A2%AD%E8%8E%B9%E9%97%AE%E9%A2%98%E4%BD%95%E6%97%B6%E6%9F%A5%23" target="weibo">
+肖飞被开除董袭莹问题何时查（热度：95092）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E9%A3%9E%E8%A2%AB%E5%BC%80%E9%99%A4%E8%91%A3%E8%A2%AD%E8%8E%B9%E9%97%AE%E9%A2%98%E4%BD%95%E6%97%B6%E6%9F%A5%23" target="weibo">
-肖飞被开除董袭莹问题何时查（热度：95092）
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%A5%E5%A4%A7%E6%96%B0%E9%97%BB%E7%BD%91%E7%AB%99%E7%96%91%E6%9C%89%E8%91%A3%E8%A2%AD%E8%8E%B9%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95%23" target="weibo">
+哥大新闻网站疑有董袭莹获奖名单（热度：94538）
 </a>
 </li>
 
@@ -315,12 +321,6 @@ WBG对战BLG（热度：159461）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%93%A5%E5%A4%A7%E6%96%B0%E9%97%BB%E7%BD%91%E7%AB%99%E7%96%91%E6%9C%89%E8%91%A3%E8%A2%AD%E8%8E%B9%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95%23" target="weibo">
-哥大新闻网站疑有董袭莹获奖名单（热度：75581）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E4%B8%80%E5%BE%8B%E5%B8%88%E8%A2%AB%E6%8C%87%E5%A4%9A%E6%AC%A1%E7%94%A8%E5%A4%8D%E5%90%88%E5%BC%93%E8%99%90%E7%8C%AB%23" target="weibo">
 成都一律师被指多次用复合弓虐猫（热度：74443）
 </a>
@@ -357,20 +357,32 @@ SuperM（热度：70868）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%95%99%E5%87%A0%E6%89%8B%E5%8F%91%E5%9E%8B%E5%A4%A7%E6%94%B9%E9%80%A0%23" target="weibo">
+留几手发型大改造（热度：54736）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E4%B8%80%E9%93%81%E8%B7%AF%E7%83%AD%E9%97%A8%E5%88%B0%E8%BE%BE%E5%9F%8E%E5%B8%82%E5%87%BA%E7%82%89%23" target="weibo">
+五一铁路热门到达城市出炉（热度：54477）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8E%E8%82%96%E6%9F%90%E4%BA%8B%E4%BB%B6%E7%9C%8B4%E5%8A%A04%E6%A8%A1%E5%BC%8F%23" target="weibo">
 从肖某事件看4加4模式（热度：53788）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B0%E8%80%85%E4%BA%B2%E5%8E%86%E4%B8%9C%E9%A3%8E%E7%9D%80%E9%99%86%E5%9C%BA%E7%9A%84%E5%A4%A7%E9%A3%8E%E5%A4%A9%E6%B0%94%23" target="weibo">
-记者亲历东风着陆场的大风天气（热度：50788）
+<a href="https://s.weibo.com/weibo?q=%23%E7%AB%A0%E5%AD%90%E6%80%A1%E6%96%B9%E5%9B%9E%E5%BA%94%E8%88%9E%E5%8F%B0%E4%B8%8A%E6%84%8F%E5%A4%96%E6%91%94%E5%80%92%23" target="weibo">
+章子怡方回应舞台上意外摔倒（热度：51976）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E4%B8%80%E9%93%81%E8%B7%AF%E7%83%AD%E9%97%A8%E5%88%B0%E8%BE%BE%E5%9F%8E%E5%B8%82%E5%87%BA%E7%82%89%23" target="weibo">
-五一铁路热门到达城市出炉（热度：43486）
+<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B0%E8%80%85%E4%BA%B2%E5%8E%86%E4%B8%9C%E9%A3%8E%E7%9D%80%E9%99%86%E5%9C%BA%E7%9A%84%E5%A4%A7%E9%A3%8E%E5%A4%A9%E6%B0%94%23" target="weibo">
+记者亲历东风着陆场的大风天气（热度：50788）
 </a>
 </li>
 
@@ -383,18 +395,6 @@ SuperM（热度：70868）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%BC%94%E5%94%B1%E4%BC%9A%E7%9B%B4%E6%92%AD%23" target="weibo">
 时代少年团演唱会直播（热度：40893）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%95%99%E5%87%A0%E6%89%8B%E5%8F%91%E5%9E%8B%E5%A4%A7%E6%94%B9%E9%80%A0%23" target="weibo">
-留几手发型大改造（热度：38273）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AB%A0%E5%AD%90%E6%80%A1%E6%96%B9%E5%9B%9E%E5%BA%94%E8%88%9E%E5%8F%B0%E4%B8%8A%E6%84%8F%E5%A4%96%E6%91%94%E5%80%92%23" target="weibo">
-章子怡方回应舞台上意外摔倒（热度：35600）
 </a>
 </li>
 
@@ -412,7 +412,7 @@ SuperM（热度：70868）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%AF%E6%8C%81%E7%8E%87%E4%B8%BA80%E5%B9%B4%E5%8E%86%E4%BB%BB%E6%80%BB%E7%BB%9F%E6%9C%80%E4%BD%8E%23" target="weibo">
-特朗普支持率为80年历任总统最低（热度：30978）
+特朗普支持率为80年历任总统最低（热度：31034）
 </a>
 </li>
 
@@ -479,6 +479,12 @@ SuperM（热度：70868）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E8%8F%B2%E6%B5%B7%E5%86%9B%E5%8F%91%E8%A8%80%E4%BA%BA%E6%B6%89%E5%8F%B0%E8%A8%80%E8%AE%BA%23" target="weibo">
 中方回应菲海军发言人涉台言论（热度：14849）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%AF%BF%E4%B8%80%E5%AD%A3%E5%BA%A6%E5%87%80%E5%88%A9%E6%B6%A6288.02%E4%BA%BF%E5%85%83%23" target="weibo">
+中国人寿一季度净利润288.02亿元（热度：13794）
 </a>
 </li>
 

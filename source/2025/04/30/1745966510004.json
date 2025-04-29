@@ -1,0 +1,410 @@
+{
+  "runTime": 1745966510004,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 557371,
+        "num": 557371,
+        "word": "董袭莹带出的五大疑点待协和等解答",
+        "onboard_time": 1745942421,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323117,
+        "num": 323117,
+        "word": "曾黎团队傲慢公关丢了人心",
+        "onboard_time": 1745934745,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16282,
+        "num": 311100,
+        "word": "以丰富的政策工具护航经济发展",
+        "onboard_time": 1745933664,
+        "rank": 2,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 308218,
+        "num": 308218,
+        "word": "女子买彩票中945万上完班才领奖",
+        "onboard_time": 1745937203,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 297088,
+        "num": 297088,
+        "word": "麦琳这是瘦了多少",
+        "onboard_time": 1745939123,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197753,
+        "num": 197753,
+        "word": "杭州乐园大摆锤在顶点停住多人倒悬",
+        "onboard_time": 1745944339,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233257,
+        "num": 191303,
+        "word": "陈飞宇千字长文",
+        "onboard_time": 1745953035,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174592,
+        "num": 174592,
+        "word": "小区一女子戴面具恐吓电梯内幼童",
+        "onboard_time": 1745931620,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148604,
+        "num": 148604,
+        "word": "37岁女子确诊胃癌父母均为癌症患者",
+        "onboard_time": 1745937923,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145470,
+        "num": 145470,
+        "word": "仗义执言的女护士",
+        "onboard_time": 1745942240,
+        "rank": 9,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 1113765,
+        "num": 141175,
+        "word": "父亲与小33岁亡子女友再婚被女儿砸门",
+        "onboard_time": 1745941820,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 497654,
+        "num": 139097,
+        "word": "董小姐去给病人开刀这事很可怕",
+        "onboard_time": 1745941042,
+        "rank": 11,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 131542,
+        "num": 131542,
+        "word": "亲子酒店员工朋友圈说希望小朋友死掉",
+        "onboard_time": 1745934745,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115974,
+        "num": 115974,
+        "word": "4加4初衷肯定不是为开后门",
+        "onboard_time": 1745943500,
+        "rank": 13,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 112845,
+        "num": 112845,
+        "word": "辽阳一饭店火灾22死3伤",
+        "onboard_time": 1745916264,
+        "rank": 14,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 97589,
+        "num": 97589,
+        "word": "杨紫刘诗诗互关",
+        "onboard_time": 1745944160,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94538,
+        "num": 94538,
+        "word": "哥大新闻网站疑有董袭莹获奖名单",
+        "onboard_time": 1745953574,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88043,
+        "num": 88043,
+        "word": "协和特培项目是否成了特权通道",
+        "onboard_time": 1745934083,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85469,
+        "num": 85469,
+        "word": "生命树",
+        "onboard_time": 1745938103,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84044,
+        "num": 84597,
+        "word": "无忧渡结局",
+        "onboard_time": 1745939664,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278795,
+        "num": 84592,
+        "word": "曾黎 灾难公关",
+        "onboard_time": 1745908822,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84571,
+        "num": 84571,
+        "word": "家长查孩子成绩一年被收300元",
+        "onboard_time": 1745929643,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77779,
+        "num": 77779,
+        "word": "印度游客山上滑索时山下恐袭致26死",
+        "onboard_time": 1745930243,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 74130,
+        "num": 74130,
+        "word": "董小姐父母何以跨界指导论文",
+        "onboard_time": 1745927001,
+        "rank": 23,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 67247,
+        "num": 67247,
+        "word": "辽阳一饭店火灾原因正在调查",
+        "onboard_time": 1745922983,
+        "rank": 24,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 65964,
+        "num": 65964,
+        "word": "买1斤黄金不问价店员报警",
+        "onboard_time": 1745936602,
+        "rank": 25,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 60745,
+        "num": 60745,
+        "word": "女子做分拣员月入超九千半年瘦46斤",
+        "onboard_time": 1745941342,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55733,
+        "num": 60603,
+        "word": "叶舒华为减肥戒掉面粉",
+        "onboard_time": 1745927123,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54736,
+        "num": 60564,
+        "word": "留几手发型大改造",
+        "onboard_time": 1745963355,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51976,
+        "num": 60549,
+        "word": "章子怡方回应舞台上意外摔倒",
+        "onboard_time": 1745963896,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 60544,
+        "num": 60544,
+        "word": "沙特王储称中国崩了全世界都要崩",
+        "onboard_time": 1745928323,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 54477,
+        "num": 54477,
+        "word": "五一铁路热门到达城市出炉",
+        "onboard_time": 1745961614,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53005,
+        "num": 53005,
+        "word": "马代遭性侵女子称酒店想用10万私了",
+        "onboard_time": 1745933963,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50189,
+        "num": 50189,
+        "word": "记者亲历东风着陆场的大风天气",
+        "onboard_time": 1745959694,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50124,
+        "num": 50124,
+        "word": "商家曝女子网购内衣半年后买新退旧",
+        "onboard_time": 1745937742,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48763,
+        "num": 48763,
+        "word": "BLG",
+        "onboard_time": 1745942841,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 42738,
+        "num": 42738,
+        "word": "董小姐的医学奇迹",
+        "onboard_time": 1745920043,
+        "rank": 36,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 40043,
+        "num": 42735,
+        "word": "肖飞被开除董袭莹问题何时查",
+        "onboard_time": 1745904442,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34560,
+        "num": 42728,
+        "word": "曾凡博后脑勺砸地",
+        "onboard_time": 1745934202,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32919,
+        "num": 42710,
+        "word": "奈雪的茶门店通知能喝奶茶就不要喝水",
+        "onboard_time": 1745916743,
+        "rank": 39,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 32825,
+        "num": 42701,
+        "word": "成都一律师被指多次用复合弓虐猫",
+        "onboard_time": 1745945897,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31651,
+        "num": 42694,
+        "word": "王雅君 人鱼的眼泪",
+        "onboard_time": 1745938823,
+        "rank": 41,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 31436,
+        "num": 42682,
+        "word": "赵粤解约",
+        "onboard_time": 1745931920,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31034,
+        "num": 42682,
+        "word": "特朗普支持率为80年历任总统最低",
+        "onboard_time": 1745949975,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 30851,
+        "num": 42669,
+        "word": "阿森纳vs巴黎圣日耳曼",
+        "onboard_time": 1745950696,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28938,
+        "num": 42661,
+        "word": "董袭莹被爆学术历程跨多学科",
+        "onboard_time": 1745929582,
+        "rank": 45,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 28903,
+        "num": 42647,
+        "word": "时代少年团演唱会直播",
+        "onboard_time": 1745925322,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 28025,
+        "num": 42636,
+        "word": "人工智能是年轻的事业",
+        "onboard_time": 1745941941,
+        "rank": 47,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 27975,
+        "num": 42626,
+        "word": "造型师",
+        "onboard_time": 1745946497,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 13794,
+        "num": 42625,
+        "word": "中国人寿一季度净利润288.02亿元",
+        "onboard_time": 1745966177,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在上海考察调研#"
+    }
+  }
+}
