@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1745915661947,
+  "endTime": 1745916462218,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1539,6 +1539,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 3701963,
+      "num": 3701963,
+      "word": "曾黎 灾难公关",
+      "onboard_time": 1745908822,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3690143,
       "num": 420862,
       "word": "金秀贤说谎了",
@@ -1561,14 +1569,6 @@
       "onboard_time": 1736860218,
       "rank": 0,
       "category": "教育"
-    },
-    {
-      "raw_hot": 3677053,
-      "num": 3677053,
-      "word": "曾黎 灾难公关",
-      "onboard_time": 1745908822,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 3665401,

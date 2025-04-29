@@ -1,6 +1,6 @@
 {
   "startTime": 1745857837371,
-  "endTime": 1745915661947,
+  "endTime": 1745916462218,
   "band_list": [
     {
       "raw_hot": 3920570,
@@ -11,8 +11,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 3677053,
-      "num": 3677053,
+      "raw_hot": 3701963,
+      "num": 3701963,
       "word": "曾黎 灾难公关",
       "onboard_time": 1745908822,
       "rank": 7,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 1221854,
-      "num": 531144,
+      "num": 613220,
       "word": "为了报复五一调休 我决定",
       "onboard_time": 1745910804,
       "rank": 33,
@@ -137,6 +137,14 @@
       "onboard_time": 1745885242,
       "rank": 11,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1142486,
+      "num": 1142486,
+      "word": "永辉超市回应标价7.96元实收8元",
+      "onboard_time": 1745911763,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 994301,
@@ -185,14 +193,6 @@
       "onboard_time": 1745901983,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 779657,
-      "num": 779657,
-      "word": "永辉超市回应标价7.96元实收8元",
-      "onboard_time": 1745911763,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 752034,
@@ -275,6 +275,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 622525,
+      "num": 622525,
+      "word": "辽阳一饭店火灾22死3伤",
+      "onboard_time": 1745916264,
+      "rank": 4,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 600345,
       "num": 600345,
       "word": "协和4加4博士水平没问题",
@@ -299,20 +307,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 550655,
+      "num": 550655,
+      "word": "协和4加4除了经济学还有园艺和外语",
+      "onboard_time": 1745912182,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 545906,
       "num": 545906,
       "word": "饺子导演正在闭关创作哪吒3",
       "onboard_time": 1745893462,
       "rank": 6,
       "category": "电影"
-    },
-    {
-      "raw_hot": 543332,
-      "num": 543332,
-      "word": "协和4加4除了经济学还有园艺和外语",
-      "onboard_time": 1745912182,
-      "rank": 29,
-      "category": "教育"
     },
     {
       "raw_hot": 519924,
@@ -371,20 +379,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 474547,
+      "num": 474547,
+      "word": "陈梦说巴黎奥运会夺冠后哭了",
+      "onboard_time": 1745911642,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 472043,
       "num": 368455,
       "word": "鞠婧祎撕拉片 出圈",
       "onboard_time": 1745889321,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 468207,
-      "num": 468207,
-      "word": "陈梦说巴黎奥运会夺冠后哭了",
-      "onboard_time": 1745911642,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 461437,
@@ -403,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 442854,
+      "num": 442854,
+      "word": "9岁男孩抗癌8年化疗108次",
+      "onboard_time": 1745912482,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 439739,
       "num": 297425,
       "word": "肖飞",
@@ -419,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 408266,
+      "num": 408266,
+      "word": "杨丞琳方斥Makiyo造谣",
+      "onboard_time": 1745910923,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 406721,
       "num": 406721,
       "word": "医师出轨暴露违规问题更需关注",
@@ -427,12 +451,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 393179,
-      "num": 393179,
-      "word": "杨丞琳方斥Makiyo造谣",
-      "onboard_time": 1745910923,
-      "rank": 22,
-      "category": "艺人"
+      "raw_hot": 388843,
+      "num": 388843,
+      "word": "章若楠新剧婚礼变葬礼",
+      "onboard_time": 1745915242,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 381442,
@@ -441,14 +465,6 @@
       "onboard_time": 1745905521,
       "rank": 16,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 366173,
-      "num": 366173,
-      "word": "9岁男孩抗癌8年化疗108次",
-      "onboard_time": 1745912482,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 352273,
@@ -715,20 +731,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 252559,
+      "num": 377552,
+      "word": "女主持人曝曾被富豪开价买卵",
+      "onboard_time": 1745911525,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 248498,
+      "num": 248498,
+      "word": "我消费就吴昕这样",
+      "onboard_time": 1745913982,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 245048,
       "num": 275246,
       "word": "孙艺洲回应抗抑郁版死了都要爱",
       "onboard_time": 1745909123,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 239607,
-      "num": 239607,
-      "word": "女主持人曝曾被富豪开价买卵",
-      "onboard_time": 1745911525,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 239113,
@@ -787,14 +811,6 @@
       "category": "国内时政,体育"
     },
     {
-      "raw_hot": 221208,
-      "num": 221208,
-      "word": "我消费就吴昕这样",
-      "onboard_time": 1745913982,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 220680,
       "num": 434689,
       "word": "永野芽郁公开道歉",
@@ -809,6 +825,14 @@
       "onboard_time": 1745882780,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 213214,
+      "num": 274598,
+      "word": "外交部发布双语硬核视频",
+      "onboard_time": 1745914940,
+      "rank": 20,
+      "category": "国内时政"
     },
     {
       "raw_hot": 212366,
@@ -833,6 +857,14 @@
       "onboard_time": 1745852843,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 209367,
+      "num": 209367,
+      "word": "祁煜 宴色如焚",
+      "onboard_time": 1745915421,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 209045,
@@ -931,14 +963,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 199782,
-      "num": 199782,
-      "word": "章若楠新剧婚礼变葬礼",
-      "onboard_time": 1745915242,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 196782,
       "num": 196782,
       "word": "大侦探对撞季",
@@ -953,6 +977,14 @@
       "onboard_time": 1745841080,
       "rank": 23,
       "category": "艺人,剧集"
+    },
+    {
+      "raw_hot": 193703,
+      "num": 193703,
+      "word": "李现你的兵来了",
+      "onboard_time": 1745916023,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 193598,
@@ -1001,14 +1033,6 @@
       "onboard_time": 1745900062,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 188984,
-      "num": 188984,
-      "word": "祁煜 宴色如焚",
-      "onboard_time": 1745915421,
-      "rank": 41,
-      "category": "游戏"
     },
     {
       "raw_hot": 188703,
@@ -1091,14 +1115,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 176909,
-      "num": 274598,
-      "word": "外交部发布双语硬核视频",
-      "onboard_time": 1745914940,
-      "rank": 20,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 172823,
       "num": 172823,
       "word": "麦琳走出综艺后的人生变化",
@@ -1116,7 +1132,7 @@
     },
     {
       "raw_hot": 172210,
-      "num": 277731,
+      "num": 372100,
       "word": "马龙现身温州",
       "onboard_time": 1745915002,
       "rank": 17,
@@ -1179,6 +1195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161838,
+      "num": 161838,
+      "word": "外交部回应美方称应由中国缓和关税战",
+      "onboard_time": 1745915122,
+      "rank": 45,
+      "category": "国际时政,国内时政"
+    },
+    {
       "raw_hot": 161513,
       "num": 161513,
       "word": "五一随手拍",
@@ -1187,12 +1211,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 156550,
-      "num": 156550,
-      "word": "外交部回应美方称应由中国缓和关税战",
-      "onboard_time": 1745915122,
-      "rank": 45,
-      "category": "国际时政,国内时政"
+      "raw_hot": 156391,
+      "num": 156391,
+      "word": "毛晓彤跳出了具象化的春天",
+      "onboard_time": 1745914222,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 156207,
@@ -1225,6 +1249,14 @@
       "onboard_time": 1745900303,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 153876,
+      "num": 153876,
+      "word": "在国外不要随便讲中文",
+      "onboard_time": 1745916322,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 152337,
@@ -1321,6 +1353,22 @@
       "onboard_time": 1745903364,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 140641,
+      "num": 140641,
+      "word": "美方想解决问题就应停止威胁施压",
+      "onboard_time": 1745916081,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 138653,
+      "num": 138653,
+      "word": "张康乐方发声明抵制私生",
+      "onboard_time": 1745915900,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 137765,
@@ -1643,6 +1691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 91593,
+      "num": 320050,
+      "word": "特朗普在加拿大选举日当天再提吞并言论",
+      "onboard_time": 1745914582,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 91419,
       "num": 91419,
       "word": "巴基斯坦称印度入侵迫在眉睫",
@@ -1755,12 +1811,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 82846,
+      "num": 367865,
+      "word": "追星不该被这样情感剥削",
+      "onboard_time": 1745915964,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 82047,
       "num": 186515,
       "word": "仪式感原来是这个样子",
       "onboard_time": 1745901682,
       "rank": 39,
       "category": "情感,民生新闻"
+    },
+    {
+      "raw_hot": 80762,
+      "num": 475368,
+      "word": "神十九因气象原因推迟返回",
+      "onboard_time": 1745915900,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 80601,
@@ -2035,6 +2107,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 49512,
+      "num": 360034,
+      "word": "BLG战队近期表现不佳有什么原因",
+      "onboard_time": 1745916143,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 49430,
       "num": 557279,
       "word": "东莞竖店3天拍完一部爆款短剧",
@@ -2147,12 +2227,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 39392,
+      "num": 480766,
+      "word": "叶童说什么时候尝试都不晚",
+      "onboard_time": 1745915542,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 37725,
       "num": 331242,
       "word": "记者实测AI面试软件成功蒙蔽面试官",
       "onboard_time": 1745900123,
       "rank": 29,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 37084,
+      "num": 654883,
+      "word": "光荣属于劳动者",
+      "onboard_time": 1745913563,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 36964,
+      "num": 364949,
+      "word": "董袭莹疑曾获巴纳德学院表彰",
+      "onboard_time": 1745916264,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35422,
@@ -2179,14 +2283,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 33869,
-      "num": 654883,
-      "word": "光荣属于劳动者",
-      "onboard_time": 1745913563,
-      "rank": 2,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 33276,
       "num": 48274,
       "word": "斯佳辉晋级世锦赛八强",
@@ -2203,6 +2299,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 32930,
+      "num": 193978,
+      "word": "四加四模式是对病患不负责任",
+      "onboard_time": 1745915482,
+      "rank": 38,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 32599,
       "num": 55357,
       "word": "我的行李箱差点被武艺拿走了",
@@ -2211,28 +2315,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 32555,
-      "num": 194335,
-      "word": "叶童说什么时候尝试都不晚",
-      "onboard_time": 1745915542,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 32489,
       "num": 55354,
       "word": "美媒画图说明美家庭离不开中国制造",
       "onboard_time": 1745865794,
       "rank": 17,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 32345,
-      "num": 320050,
-      "word": "特朗普在加拿大选举日当天再提吞并言论",
-      "onboard_time": 1745914582,
-      "rank": 14,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 30528,
@@ -2249,6 +2337,14 @@
       "onboard_time": 1745907682,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 28088,
+      "num": 310610,
+      "word": "有哪句话支撑你考上了研究生",
+      "onboard_time": 1745915421,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 27950,
@@ -2323,14 +2419,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 24309,
-      "num": 243118,
-      "word": "有哪句话支撑你考上了研究生",
-      "onboard_time": 1745915421,
-      "rank": 24,
-      "category": "教育"
-    },
-    {
       "raw_hot": 21677,
       "num": 23730,
       "word": "徐明浩 表现力",
@@ -2371,20 +2459,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 18265,
-      "num": 193164,
-      "word": "四加四模式是对病患不负责任",
-      "onboard_time": 1745915482,
-      "rank": 38,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 17323,
       "num": 29678,
       "word": "梁伟铿呼吁球迷冷静观赛",
       "onboard_time": 1745849484,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 17308,
+      "num": 194937,
+      "word": "全职猎人神还原的幻影旅团",
+      "onboard_time": 1745916322,
+      "rank": 38,
+      "category": "动漫"
     },
     {
       "raw_hot": 17242,
@@ -2583,6 +2671,9 @@
     },
     {
       "word": "#高质量发展离不开高质量的劳动创造#"
+    },
+    {
+      "word": "#弘扬劳模精神劳动精神工匠精神#"
     }
   ]
 }
