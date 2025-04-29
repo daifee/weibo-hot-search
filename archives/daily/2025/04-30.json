@@ -1,10 +1,10 @@
 {
   "startTime": 1745944279846,
-  "endTime": 1745944279846,
+  "endTime": 1745945214836,
   "band_list": [
     {
       "raw_hot": 1718131,
-      "num": 228705,
+      "num": 231447,
       "word": "父亲与小33岁亡子女友再婚被女儿砸门",
       "onboard_time": 1745941820,
       "rank": 10,
@@ -43,8 +43,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 430714,
-      "num": 430714,
+      "raw_hot": 625596,
+      "num": 225973,
+      "word": "董小姐去给病人开刀这事很可怕",
+      "onboard_time": 1745941042,
+      "rank": 13,
+      "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 443718,
+      "num": 443718,
       "word": "董袭莹带出的五大疑点待协和等解答",
       "onboard_time": 1745942421,
       "rank": 4,
@@ -97,14 +105,6 @@
       "onboard_time": 1745937923,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 349437,
-      "num": 221979,
-      "word": "董小姐去给病人开刀这事很可怕",
-      "onboard_time": 1745941042,
-      "rank": 13,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 332196,
@@ -179,6 +179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133197,
+      "num": 133197,
+      "word": "杨紫刘诗诗互关",
+      "onboard_time": 1745944160,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128224,
       "num": 128224,
       "word": "赵粤解约",
@@ -241,6 +249,14 @@
       "onboard_time": 1745922983,
       "rank": 31,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 101643,
+      "num": 101643,
+      "word": "杭州乐园大摆锤在顶点停住多人倒悬",
+      "onboard_time": 1745944339,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100246,
@@ -307,6 +323,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 88904,
+      "num": 239319,
+      "word": "人工智能是年轻的事业",
+      "onboard_time": 1745941941,
+      "rank": 23,
+      "category": "国内时政,民生新闻"
+    },
+    {
+      "raw_hot": 88800,
+      "num": 88800,
+      "word": "仗义执言的女护士",
+      "onboard_time": 1745942240,
+      "rank": 30,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 88201,
       "num": 88201,
       "word": "曾凡博后脑勺砸地",
@@ -329,14 +361,6 @@
       "onboard_time": 1745927123,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 86403,
-      "num": 139017,
-      "word": "人工智能是年轻的事业",
-      "onboard_time": 1745941941,
-      "rank": 23,
-      "category": "国内时政,民生新闻"
     },
     {
       "raw_hot": 83752,
@@ -401,6 +425,14 @@
       "onboard_time": 1745933664,
       "rank": 2,
       "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 24529,
+      "num": 77156,
+      "word": "几何答题秒画辅助线",
+      "onboard_time": 1745944699,
+      "rank": 39,
+      "category": "教育,民生新闻"
     }
   ],
   "hotgov_list": [
