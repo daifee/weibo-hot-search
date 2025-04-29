@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1745912364456,
+  "endTime": 1745915661947,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1563,6 +1563,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 3677053,
+      "num": 3677053,
+      "word": "曾黎 灾难公关",
+      "onboard_time": 1745908822,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3665401,
       "num": 725439,
       "word": "郑乃馨吐槽中国厕所脏",
@@ -1601,14 +1609,6 @@
       "onboard_time": 1736597067,
       "rank": 3,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 3634007,
-      "num": 3634007,
-      "word": "曾黎 灾难公关",
-      "onboard_time": 1745908822,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 3624702,

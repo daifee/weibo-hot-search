@@ -1,6 +1,6 @@
 {
   "startTime": 1745857837371,
-  "endTime": 1745912364456,
+  "endTime": 1745915661947,
   "band_list": [
     {
       "raw_hot": 3920570,
@@ -11,8 +11,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 3634007,
-      "num": 3634007,
+      "raw_hot": 3677053,
+      "num": 3677053,
       "word": "曾黎 灾难公关",
       "onboard_time": 1745908822,
       "rank": 7,
@@ -123,6 +123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1221854,
+      "num": 531144,
+      "word": "为了报复五一调休 我决定",
+      "onboard_time": 1745910804,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1152635,
       "num": 394697,
       "word": "桃花源记 细思极恐",
@@ -177,6 +185,14 @@
       "onboard_time": 1745901983,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 779657,
+      "num": 779657,
+      "word": "永辉超市回应标价7.96元实收8元",
+      "onboard_time": 1745911763,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 752034,
@@ -291,6 +307,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 543332,
+      "num": 543332,
+      "word": "协和4加4除了经济学还有园艺和外语",
+      "onboard_time": 1745912182,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 519924,
       "num": 519924,
       "word": "杨幂兔子警官",
@@ -355,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 468207,
+      "num": 468207,
+      "word": "陈梦说巴黎奥运会夺冠后哭了",
+      "onboard_time": 1745911642,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 461437,
       "num": 461437,
       "word": "泽连斯基承认乌情报部门刺杀俄军高官",
@@ -395,12 +427,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 393179,
+      "num": 393179,
+      "word": "杨丞琳方斥Makiyo造谣",
+      "onboard_time": 1745910923,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 381442,
       "num": 381442,
       "word": "麻昊宁曾公开发明多个专利",
       "onboard_time": 1745905521,
       "rank": 16,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 366173,
+      "num": 366173,
+      "word": "9岁男孩抗癌8年化疗108次",
+      "onboard_time": 1745912482,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 352273,
@@ -539,14 +587,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 290782,
-      "num": 290782,
-      "word": "为了报复五一调休 我决定",
-      "onboard_time": 1745910804,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 289857,
       "num": 289857,
       "word": "董明珠年薪1437.2万",
@@ -560,14 +600,6 @@
       "word": "曝五月天石头移民英国",
       "onboard_time": 1745910623,
       "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 287197,
-      "num": 287197,
-      "word": "杨丞琳方斥Makiyo造谣",
-      "onboard_time": 1745910923,
-      "rank": 22,
       "category": "艺人"
     },
     {
@@ -659,14 +691,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 256735,
-      "num": 256735,
-      "word": "陈梦说巴黎奥运会夺冠后哭了",
-      "onboard_time": 1745911642,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 254790,
       "num": 252205,
       "word": "度过情侣尴尬期的标志",
@@ -731,6 +755,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 231104,
+      "num": 231104,
+      "word": "刘美含多平台掉粉",
+      "onboard_time": 1745914222,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 229746,
       "num": 348935,
       "word": "沈腾这是OK不是30场哈",
@@ -753,6 +785,14 @@
       "onboard_time": 1745892922,
       "rank": 33,
       "category": "国内时政,体育"
+    },
+    {
+      "raw_hot": 221208,
+      "num": 221208,
+      "word": "我消费就吴昕这样",
+      "onboard_time": 1745913982,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 220680,
@@ -792,14 +832,6 @@
       "word": "误诊精神病医生1年后才有执业资格",
       "onboard_time": 1745852843,
       "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 210271,
-      "num": 210271,
-      "word": "永辉超市回应标价7.96元实收8元",
-      "onboard_time": 1745911763,
-      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -883,12 +915,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200849,
+      "num": 200849,
+      "word": "云合",
+      "onboard_time": 1745914762,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200341,
       "num": 200341,
       "word": "追梦格林五分钟内一技犯一恶犯",
       "onboard_time": 1745900303,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199782,
+      "num": 199782,
+      "word": "章若楠新剧婚礼变葬礼",
+      "onboard_time": 1745915242,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 196782,
@@ -955,12 +1003,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188984,
+      "num": 188984,
+      "word": "祁煜 宴色如焚",
+      "onboard_time": 1745915421,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 188703,
       "num": 188703,
       "word": "魅族新机被指酷似华为",
       "onboard_time": 1745911642,
       "rank": 35,
       "category": "数码"
+    },
+    {
+      "raw_hot": 186712,
+      "num": 196336,
+      "word": "肖战漂流入围第18界肖蒂奖",
+      "onboard_time": 1745914401,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 185552,
@@ -1027,6 +1091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176909,
+      "num": 274598,
+      "word": "外交部发布双语硬核视频",
+      "onboard_time": 1745914940,
+      "rank": 20,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 172823,
       "num": 172823,
       "word": "麦琳走出综艺后的人生变化",
@@ -1041,6 +1113,22 @@
       "onboard_time": 1745898381,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 172210,
+      "num": 277731,
+      "word": "马龙现身温州",
+      "onboard_time": 1745915002,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 171622,
+      "num": 171622,
+      "word": "淮水竹亭 东方美学",
+      "onboard_time": 1745914642,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 166881,
@@ -1099,12 +1187,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156550,
+      "num": 156550,
+      "word": "外交部回应美方称应由中国缓和关税战",
+      "onboard_time": 1745915122,
+      "rank": 45,
+      "category": "国际时政,国内时政"
+    },
+    {
       "raw_hot": 156207,
       "num": 156207,
       "word": "男子酒后开自动驾驶上高速呼呼大睡",
       "onboard_time": 1745898502,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155987,
+      "num": 155987,
+      "word": "明日方舟",
+      "onboard_time": 1745913563,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 155538,
@@ -1153,6 +1257,14 @@
       "onboard_time": 1745909843,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150381,
+      "num": 150381,
+      "word": "巴基斯坦部长向印喊话称核武非摆设",
+      "onboard_time": 1745913261,
+      "rank": 48,
+      "category": "国际时政,军事"
     },
     {
       "raw_hot": 146650,
@@ -1347,20 +1459,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109308,
+      "num": 276927,
+      "word": "医德医风问题需要更深入的追问",
+      "onboard_time": 1745913862,
+      "rank": 18,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 108578,
       "num": 214390,
       "word": "NBA东西部第八皆被横扫",
       "onboard_time": 1745895083,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 108183,
-      "num": 214299,
-      "word": "协和4加4除了经济学还有园艺和外语",
-      "onboard_time": 1745912182,
-      "rank": 29,
-      "category": "教育"
     },
     {
       "raw_hot": 107982,
@@ -1505,6 +1617,14 @@
       "onboard_time": 1745896820,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 93384,
+      "num": 224336,
+      "word": "男子将路边僵尸车以1450元卖出被抓",
+      "onboard_time": 1745913922,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92689,
@@ -1891,6 +2011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58564,
+      "num": 189967,
+      "word": "无限暖暖今日登陆steam",
+      "onboard_time": 1745914222,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 55057,
       "num": 57302,
       "word": "贾静雯女儿钟丽缇女儿同框",
@@ -2051,6 +2179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 33869,
+      "num": 654883,
+      "word": "光荣属于劳动者",
+      "onboard_time": 1745913563,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 33276,
       "num": 48274,
       "word": "斯佳辉晋级世锦赛八强",
@@ -2075,12 +2211,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 32555,
+      "num": 194335,
+      "word": "叶童说什么时候尝试都不晚",
+      "onboard_time": 1745915542,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 32489,
       "num": 55354,
       "word": "美媒画图说明美家庭离不开中国制造",
       "onboard_time": 1745865794,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 32345,
+      "num": 320050,
+      "word": "特朗普在加拿大选举日当天再提吞并言论",
+      "onboard_time": 1745914582,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 30528,
@@ -2131,6 +2283,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 27051,
+      "num": 190942,
+      "word": "美国毛巾从1.28涨到6.1美元",
+      "onboard_time": 1745914940,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 26509,
+      "num": 151154,
+      "word": "考研人五一能不能出去玩",
+      "onboard_time": 1745914462,
+      "rank": 47,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 26308,
       "num": 424553,
       "word": "5旬男子喝野菌汤进ICU抢救16天",
@@ -2153,6 +2321,14 @@
       "onboard_time": 1745880977,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24309,
+      "num": 243118,
+      "word": "有哪句话支撑你考上了研究生",
+      "onboard_time": 1745915421,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 21677,
@@ -2193,6 +2369,14 @@
       "onboard_time": 1745860697,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 18265,
+      "num": 193164,
+      "word": "四加四模式是对病患不负责任",
+      "onboard_time": 1745915482,
+      "rank": 38,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 17323,
@@ -2273,6 +2457,14 @@
       "onboard_time": 1745863215,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 13892,
+      "num": 276111,
+      "word": "白天实现地月空间激光测距有何意义",
+      "onboard_time": 1745914882,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 13803,
