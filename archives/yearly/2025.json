@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1745898666577,
+  "endTime": 1745900923807,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1923,6 +1923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3338636,
+      "num": 3338636,
+      "word": "协和",
+      "onboard_time": 1745886801,
+      "rank": 10,
+      "category": "教育"
+    },
+    {
       "raw_hot": 3336228,
       "num": 3336228,
       "word": "zmjjkk发博",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1741843103,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3015085,
-      "num": 276066,
-      "word": "93岁强奸不收押老人已无法自主行走",
-      "onboard_time": 1742547621,
-      "rank": 20,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

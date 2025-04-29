@@ -1,0 +1,410 @@
+{
+  "runTime": 1745900923807,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3338636,
+        "num": 3338636,
+        "word": "协和",
+        "onboard_time": 1745886801,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1900030,
+        "num": 1900030,
+        "word": "内娱终于有全开麦了",
+        "onboard_time": 1745898502,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 2132,
+        "num": 1292828,
+        "word": "新质先锋未来北京",
+        "onboard_time": 1745899882,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1145323,
+        "num": 1145323,
+        "word": "知网已搜不到董袭莹论文",
+        "onboard_time": 1745891841,
+        "rank": 3,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 1120466,
+        "num": 1120466,
+        "word": "宫崎骏画的赵丽颖",
+        "onboard_time": 1745900303,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 833602,
+        "num": 833602,
+        "word": "西班牙宣布进入国家紧急状态",
+        "onboard_time": 1745886801,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 782084,
+        "num": 782084,
+        "word": "中日友好医院",
+        "onboard_time": 1745895083,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 709458,
+        "num": 709458,
+        "word": "曾黎工作室再道歉",
+        "onboard_time": 1745895441,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 678588,
+        "num": 678588,
+        "word": "高铁允许小狗托运但胖狗不行",
+        "onboard_time": 1745895201,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58035,
+        "num": 672094,
+        "word": "高关税或是压倒美债的最后一根稻草",
+        "onboard_time": 1745899642,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 781507,
+        "num": 671696,
+        "word": "艺洋你无敌了",
+        "onboard_time": 1745891600,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 766621,
+        "num": 671051,
+        "word": "韩安冉前夫精神状态",
+        "onboard_time": 1745895800,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 670078,
+        "num": 670078,
+        "word": "12岁女孩被继母关厕所17天虐待致死",
+        "onboard_time": 1745898502,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262107,
+        "num": 653661,
+        "word": "泽连斯基称停火没必要等到5月8日",
+        "onboard_time": 1745899160,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 91096,
+        "num": 650338,
+        "word": "美国人用夸克AI在中国玩嗨了",
+        "onboard_time": 1745899282,
+        "rank": 14,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 649404,
+        "num": 649404,
+        "word": "石凯恋爱保密协议",
+        "onboard_time": 1745898502,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 609714,
+        "num": 609714,
+        "word": "刘诗诗演技",
+        "onboard_time": 1745900303,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65663,
+        "num": 539045,
+        "word": "X200Ultra长焦巨炮的V单实力",
+        "onboard_time": 1745896581,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 534382,
+        "num": 534382,
+        "word": "高校回应男生被捉奸后把女生推下楼",
+        "onboard_time": 1745894961,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59889,
+        "num": 514514,
+        "word": "同一场直播老用户下单贵30元",
+        "onboard_time": 1745899702,
+        "rank": 19,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 236424,
+        "num": 513371,
+        "word": "饺子导演正在闭关创作哪吒3",
+        "onboard_time": 1745893462,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 513161,
+        "num": 513161,
+        "word": "2岁男童蹦床与8岁男童撞致10级伤残",
+        "onboard_time": 1745896820,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 496725,
+        "num": 496725,
+        "word": "外交部",
+        "onboard_time": 1745898323,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 476032,
+        "num": 476032,
+        "word": "新娘因长相太美被质疑AI换脸",
+        "onboard_time": 1745854402,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209921,
+        "num": 459280,
+        "word": "追梦偷听火箭战术",
+        "onboard_time": 1745900363,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220680,
+        "num": 434689,
+        "word": "永野芽郁公开道歉",
+        "onboard_time": 1745899103,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209035,
+        "num": 422364,
+        "word": "电影浪浪山小妖怪定档",
+        "onboard_time": 1745898442,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 209045,
+        "num": 397430,
+        "word": "选高伟光演人夫真是天才",
+        "onboard_time": 1745900062,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 386189,
+        "num": 386189,
+        "word": "不跪",
+        "onboard_time": 1745892560,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 24263,
+        "num": 331242,
+        "word": "记者实测AI面试软件成功蒙蔽面试官",
+        "onboard_time": 1745900123,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 302982,
+        "num": 302982,
+        "word": "外交部发布重磅视频不跪",
+        "onboard_time": 1745887522,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 254672,
+        "num": 254672,
+        "word": "遮挡车牌公务车驾驶员被停职",
+        "onboard_time": 1745898260,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239113,
+        "num": 239113,
+        "word": "金秀贤或被索赔超100亿韩元",
+        "onboard_time": 1745899042,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221678,
+        "num": 221678,
+        "word": "肖飞",
+        "onboard_time": 1745886682,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215900,
+        "num": 215900,
+        "word": "董袭莹的行为触碰了哪些法律红线",
+        "onboard_time": 1745897122,
+        "rank": 34,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 200341,
+        "num": 200341,
+        "word": "追梦格林五分钟内一技犯一恶犯",
+        "onboard_time": 1745900303,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69985,
+        "num": 196484,
+        "word": "于正谈临江仙",
+        "onboard_time": 1745899522,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192873,
+        "num": 192873,
+        "word": "鞠婧祎撕拉片 出圈",
+        "onboard_time": 1745889321,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62371,
+        "num": 190919,
+        "word": "24小时超长待机的29岁女乡医",
+        "onboard_time": 1745900482,
+        "rank": 38,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 10129,
+        "num": 189493,
+        "word": "买车后才知道的冷知识",
+        "onboard_time": 1745900482,
+        "rank": 39,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 188987,
+        "num": 188987,
+        "word": "曾黎方将继续取证捍卫权益",
+        "onboard_time": 1745900062,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167348,
+        "num": 167348,
+        "word": "网传桂林一高校男生被女生捉奸在床",
+        "onboard_time": 1745898381,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167255,
+        "num": 167255,
+        "word": "桃花源记 细思极恐",
+        "onboard_time": 1745885242,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157299,
+        "num": 157299,
+        "word": "乘风破浪的姐姐人鱼的眼泪",
+        "onboard_time": 1745889263,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155488,
+        "num": 155488,
+        "word": "商务部回应波音飞回3架拟交付的飞机",
+        "onboard_time": 1745900303,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 144733,
+        "num": 144733,
+        "word": "美国拿着关税当筹码向各国漫天要价",
+        "onboard_time": 1745890160,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 141495,
+        "num": 141495,
+        "word": "男子酒后开自动驾驶上高速呼呼大睡",
+        "onboard_time": 1745898502,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139809,
+        "num": 139809,
+        "word": "小伙峨眉山失联朋友担心拍日出跌落",
+        "onboard_time": 1745896341,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128416,
+        "num": 128416,
+        "word": "马代酒店回应女子遭管家性侵",
+        "onboard_time": 1745895800,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124808,
+        "num": 124808,
+        "word": "沈腾说邓家佳电影造型像梦露",
+        "onboard_time": 1745898442,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#高质量发展离不开高质量的劳动创造#"
+    }
+  }
+}
