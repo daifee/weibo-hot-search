@@ -1,6 +1,6 @@
 {
   "startTime": 1745857837371,
-  "endTime": 1745908542425,
+  "endTime": 1745909337273,
   "band_list": [
     {
       "raw_hot": 3413245,
@@ -33,6 +33,14 @@
       "onboard_time": 1745891841,
       "rank": 6,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 2280665,
+      "num": 2280665,
+      "word": "曾黎铁粉 路人都觉得心寒的程度",
+      "onboard_time": 1745908822,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1986007,
@@ -83,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1281294,
+      "num": 1281294,
+      "word": "中国不跪中国不退",
+      "onboard_time": 1745903723,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1246935,
       "num": 476032,
       "word": "新娘因长相太美被质疑AI换脸",
@@ -97,14 +113,6 @@
       "onboard_time": 1745850803,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1165719,
-      "num": 1165719,
-      "word": "中国不跪中国不退",
-      "onboard_time": 1745903723,
-      "rank": 43,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1152635,
@@ -145,6 +153,14 @@
       "onboard_time": 1745895800,
       "rank": 24,
       "category": "网红"
+    },
+    {
+      "raw_hot": 836324,
+      "num": 438713,
+      "word": "曾黎 灾难公关",
+      "onboard_time": 1745908822,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 782443,
@@ -211,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 652107,
+      "num": 415103,
+      "word": "男子成都地铁偷拍女生裙底被拘",
+      "onboard_time": 1745905641,
+      "rank": 10,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 649404,
       "num": 649404,
       "word": "石凯恋爱保密协议",
@@ -241,14 +265,6 @@
       "onboard_time": 1745894961,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 582562,
-      "num": 415103,
-      "word": "男子成都地铁偷拍女生裙底被拘",
-      "onboard_time": 1745905641,
-      "rank": 10,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 545906,
@@ -755,6 +771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199103,
+      "num": 199103,
+      "word": "十三州府",
+      "onboard_time": 1745908461,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196782,
       "num": 196782,
       "word": "大侦探对撞季",
@@ -777,6 +801,14 @@
       "onboard_time": 1745893160,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 193236,
+      "num": 193236,
+      "word": "3岁男童跳入海洋球池致10级伤残",
+      "onboard_time": 1745902283,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 192772,
@@ -811,12 +843,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 185628,
-      "num": 185628,
-      "word": "3岁男童跳入海洋球池致10级伤残",
-      "onboard_time": 1745902283,
-      "rank": 33,
-      "category": "民生新闻"
+      "raw_hot": 187331,
+      "num": 275246,
+      "word": "孙艺洲回应抗抑郁版死了都要爱",
+      "onboard_time": 1745909123,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 185552,
@@ -835,6 +867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 178970,
+      "num": 178970,
+      "word": "周杰伦武汉演唱会获批",
+      "onboard_time": 1745909123,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 178821,
       "num": 178821,
       "word": "保时捷CEO谈小米SU7Ultra",
@@ -851,12 +891,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175241,
+      "num": 175241,
+      "word": "杨幂兔子警官",
+      "onboard_time": 1745909062,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172236,
       "num": 172236,
       "word": "网传桂林一高校男生被女生捉奸在床",
       "onboard_time": 1745898381,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168102,
+      "num": 168102,
+      "word": "泌尿医生谈董袭莹跨专业医学履历",
+      "onboard_time": 1745909000,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166881,
+      "num": 274217,
+      "word": "沈月想坐主座",
+      "onboard_time": 1745908882,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 166070,
@@ -980,7 +1044,7 @@
     },
     {
       "raw_hot": 137563,
-      "num": 137563,
+      "num": 152022,
       "word": "五一坐高铁注意这9点",
       "onboard_time": 1745895083,
       "rank": 44,
@@ -1009,14 +1073,6 @@
       "onboard_time": 1745903063,
       "rank": 19,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 133514,
-      "num": 133514,
-      "word": "十三州府",
-      "onboard_time": 1745908461,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 129903,
@@ -1227,6 +1283,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 93893,
+      "num": 280377,
+      "word": "关键时刻别单打格林",
+      "onboard_time": 1745908822,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93718,
       "num": 155296,
       "word": "代号砰砰",
@@ -1363,6 +1427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 82635,
+      "num": 278219,
+      "word": "清华教授说将来有望每周上三休四",
+      "onboard_time": 1745909062,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82047,
       "num": 186515,
       "word": "仪式感原来是这个样子",
@@ -1483,6 +1555,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 71515,
+      "num": 389815,
+      "word": "饿了么在多城加大补贴力度",
+      "onboard_time": 1745906481,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 69985,
       "num": 196484,
       "word": "于正谈临江仙",
@@ -1505,14 +1585,6 @@
       "onboard_time": 1745886801,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 66771,
-      "num": 389815,
-      "word": "饿了么在多城加大补贴力度",
-      "onboard_time": 1745906481,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 66101,
@@ -1675,6 +1747,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 46887,
+      "num": 353114,
+      "word": "公众对4加4的疑虑应引起重视",
+      "onboard_time": 1745909000,
+      "rank": 13,
+      "category": "教育"
+    },
+    {
       "raw_hot": 46377,
       "num": 407597,
       "word": "游在中国热度不减购在中国蔚然成风",
@@ -1753,6 +1833,14 @@
       "onboard_time": 1745871674,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 34228,
+      "num": 326027,
+      "word": "湖人火箭谁更有可能逆转",
+      "onboard_time": 1745908882,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 33276,
@@ -2033,6 +2121,14 @@
       "onboard_time": 1745900482,
       "rank": 39,
       "category": "幽默,民生新闻"
+    },
+    {
+      "raw_hot": 9658,
+      "num": 179426,
+      "word": "什么是函数",
+      "onboard_time": 1745908822,
+      "rank": 39,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 8876,

@@ -1,0 +1,402 @@
+{
+  "runTime": 1745909337273,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2412578,
+        "num": 2412578,
+        "word": "肖飞被开除董袭莹问题何时查",
+        "onboard_time": 1745904442,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2280665,
+        "num": 2280665,
+        "word": "曾黎铁粉 路人都觉得心寒的程度",
+        "onboard_time": 1745908822,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1326576,
+        "num": 1326576,
+        "word": "鹿晗正定伴手礼",
+        "onboard_time": 1745902044,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1281294,
+        "num": 1281294,
+        "word": "中国不跪中国不退",
+        "onboard_time": 1745903723,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 492559,
+        "num": 492559,
+        "word": "协和4加4博士水平没问题",
+        "onboard_time": 1745901502,
+        "rank": 5,
+        "category": "教育,健康医疗"
+      },
+      {
+        "raw_hot": 1218754,
+        "num": 477008,
+        "word": "送曾黎礼物的粉丝道歉",
+        "onboard_time": 1745901562,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 836324,
+        "num": 438713,
+        "word": "曾黎 灾难公关",
+        "onboard_time": 1745908822,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 393341,
+        "num": 393341,
+        "word": "西班牙宣布进入国家紧急状态",
+        "onboard_time": 1745886801,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 361023,
+        "num": 361023,
+        "word": "我姓疆 热巴故乡",
+        "onboard_time": 1745901022,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 652107,
+        "num": 359774,
+        "word": "男子成都地铁偷拍女生裙底被拘",
+        "onboard_time": 1745905641,
+        "rank": 10,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 642330,
+        "num": 358484,
+        "word": "迪丽热巴埃及艳后转场",
+        "onboard_time": 1745904083,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 558781,
+        "num": 354660,
+        "word": "内娱终于有全开麦了",
+        "onboard_time": 1745898502,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 46887,
+        "num": 353114,
+        "word": "公众对4加4的疑虑应引起重视",
+        "onboard_time": 1745909000,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 71515,
+        "num": 348954,
+        "word": "饿了么在多城加大补贴力度",
+        "onboard_time": 1745906481,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 489985,
+        "num": 346339,
+        "word": "知网已搜不到董袭莹论文",
+        "onboard_time": 1745891841,
+        "rank": 15,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 434478,
+        "num": 345724,
+        "word": "宫崎骏画的赵丽颖",
+        "onboard_time": 1745900303,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 400452,
+        "num": 342703,
+        "word": "12岁女孩被继母关厕所17天虐待致死",
+        "onboard_time": 1745898502,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 340959,
+        "num": 340959,
+        "word": "钟丽缇小女儿完全继承妈妈基因",
+        "onboard_time": 1745902704,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34228,
+        "num": 326027,
+        "word": "湖人火箭谁更有可能逆转",
+        "onboard_time": 1745908882,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 868370,
+        "num": 324957,
+        "word": "协和",
+        "onboard_time": 1745886801,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 321929,
+        "num": 321929,
+        "word": "麻昊宁曾公开发明多个专利",
+        "onboard_time": 1745905521,
+        "rank": 21,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 313013,
+        "num": 313013,
+        "word": "歌手2025定档",
+        "onboard_time": 1745901983,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282821,
+        "num": 282821,
+        "word": "爱奇艺热度最快破8000的剧",
+        "onboard_time": 1745906783,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93893,
+        "num": 280377,
+        "word": "关键时刻别单打格林",
+        "onboard_time": 1745908822,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82635,
+        "num": 278219,
+        "word": "清华教授说将来有望每周上三休四",
+        "onboard_time": 1745909062,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 277937,
+        "num": 277937,
+        "word": "你穿这样去考教资考官穿什么",
+        "onboard_time": 1745907203,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 277004,
+        "num": 277004,
+        "word": "曾黎工作室再道歉",
+        "onboard_time": 1745895441,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187331,
+        "num": 275246,
+        "word": "孙艺洲回应抗抑郁版死了都要爱",
+        "onboard_time": 1745909123,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 166881,
+        "num": 274217,
+        "word": "沈月想坐主座",
+        "onboard_time": 1745908882,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 274196,
+        "num": 274196,
+        "word": "倪萍说小王一博遇到对手了",
+        "onboard_time": 1745905162,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 247679,
+        "num": 247679,
+        "word": "中日友好医院",
+        "onboard_time": 1745895083,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247365,
+        "num": 247365,
+        "word": "刘诗诗连破两次平台首日纪录",
+        "onboard_time": 1745901625,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232301,
+        "num": 232301,
+        "word": "董明珠年薪1437.2万",
+        "onboard_time": 1745903183,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 202082,
+        "num": 202082,
+        "word": "御赐小仵作2",
+        "onboard_time": 1745903243,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199103,
+        "num": 199103,
+        "word": "十三州府",
+        "onboard_time": 1745908461,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193236,
+        "num": 193236,
+        "word": "3岁男童跳入海洋球池致10级伤残",
+        "onboard_time": 1745902283,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98032,
+        "num": 185220,
+        "word": "关税回旋镖让美国花店大伤脑筋",
+        "onboard_time": 1745903364,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 181413,
+        "num": 181413,
+        "word": "秦彻 坠空博弈",
+        "onboard_time": 1745906062,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 9658,
+        "num": 179426,
+        "word": "什么是函数",
+        "onboard_time": 1745908822,
+        "rank": 39,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 107341,
+        "num": 179179,
+        "word": "饺子导演正在闭关创作哪吒3",
+        "onboard_time": 1745893462,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 178970,
+        "num": 178970,
+        "word": "周杰伦武汉演唱会获批",
+        "onboard_time": 1745909123,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 175241,
+        "num": 175241,
+        "word": "杨幂兔子警官",
+        "onboard_time": 1745909062,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173491,
+        "num": 173491,
+        "word": "减肚子干掉内脏脂肪的8个巧招",
+        "onboard_time": 1745901742,
+        "rank": 43,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 168627,
+        "num": 168627,
+        "word": "张凌赫要给金靖孩子补红包",
+        "onboard_time": 1745906842,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168102,
+        "num": 168102,
+        "word": "泌尿医生谈董袭莹跨专业医学履历",
+        "onboard_time": 1745909000,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167556,
+        "num": 167556,
+        "word": "李昇基与岳父家断绝关系",
+        "onboard_time": 1745907562,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153941,
+        "num": 153941,
+        "word": "石凯恋爱保密协议",
+        "onboard_time": 1745898502,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110060,
+        "num": 152022,
+        "word": "五一坐高铁注意这9点",
+        "onboard_time": 1745895083,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151288,
+        "num": 151288,
+        "word": "韩安冉前夫精神状态",
+        "onboard_time": 1745895800,
+        "rank": 49,
+        "category": "网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记重要讲话汇聚磅礴力量#"
+    }
+  }
+}
