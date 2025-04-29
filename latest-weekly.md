@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/27 00:28:26 ~ 2025/04/30 04:41:49
+本榜单时间：2025/04/27 00:28:26 ~ 2025/04/30 05:23:22
 </p>
 </blockquote>
 <p>
@@ -6183,6 +6183,12 @@ ChatGPT购物功能（热度：101884）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%A3%9E%E5%AE%87%E5%8D%83%E5%AD%97%E9%95%BF%E6%96%87%23" target="weibo">
+陈飞宇千字长文（热度：100348）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BA%A6%E5%AD%90%E9%98%BF%E5%A7%A8%E6%83%B3%E5%B8%A6%E8%80%81%E5%85%AC%E5%8E%BB%E6%97%85%E6%B8%B8%23" target="weibo">
 麦子阿姨想带老公去旅游（热度：100168）
 </a>
@@ -6287,12 +6293,6 @@ ChatGPT购物功能（热度：101884）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A2%86%E5%85%8B900%E4%B8%8A%E5%B8%82%E4%B8%80%E5%B0%8F%E6%97%B6%E5%A4%A7%E5%AE%9A%E7%A0%B4%E4%B8%87%23" target="weibo">
 领克900上市一小时大定破万（热度：96759）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%A3%9E%E5%AE%87%E5%8D%83%E5%AD%97%E9%95%BF%E6%96%87%23" target="weibo">
-陈飞宇千字长文（热度：96555）
 </a>
 </li>
 
@@ -8091,6 +8091,12 @@ DeepSeekR2要发布了吗（热度：39748）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B0%E8%80%85%E4%BA%B2%E5%8E%86%E4%B8%9C%E9%A3%8E%E7%9D%80%E9%99%86%E5%9C%BA%E7%9A%84%E5%A4%A7%E9%A3%8E%E5%A4%A9%E6%B0%94%23" target="weibo">
+记者亲历东风着陆场的大风天气（热度：26979）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E7%9C%9F%E7%9A%84%E4%BA%8C%E6%AC%A1%E5%85%83%E5%A4%B4%E5%83%8F%E7%9A%84%E7%A5%9E%23" target="weibo">
 这是真的二次元头像的神（热度：26904）
 </a>
@@ -8319,6 +8325,12 @@ DeepSeekR2要发布了吗（热度：39748）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%89%A7%E6%94%BF%E5%85%9A%E8%B5%A2%E5%BE%97%E5%A4%A7%E9%80%89%23" target="weibo">
+加拿大执政党赢得大选（热度：20896）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AA%81%E7%84%B6%E6%87%82%E4%BA%86%E5%BD%93%E6%97%B6%E5%8F%AA%E9%81%93%E6%98%AF%E5%AF%BB%E5%B8%B8%E7%9A%84%E5%90%AB%E9%87%91%E9%87%8F%23" target="weibo">
 突然懂了当时只道是寻常的含金量（热度：20735）
 </a>
@@ -8451,12 +8463,6 @@ DeepSeekR2要发布了吗（热度：39748）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%89%A7%E6%94%BF%E5%85%9A%E8%B5%A2%E5%BE%97%E5%A4%A7%E9%80%89%23" target="weibo">
-加拿大执政党赢得大选（热度：17680）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%A8%9C%E6%8B%89%E8%8D%A3%E5%BD%92%E6%95%85%E9%87%8C%23" target="weibo">
 当娜拉荣归故里（热度：17458）
 </a>
@@ -8525,6 +8531,12 @@ RW对战LGDNBW（热度：17242）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%A5%E6%B5%A9%E7%BF%94%E6%83%B3%E5%8A%A0%E5%86%95%E5%88%B6%E4%BD%9C%E4%BA%BA%23" target="weibo">
 严浩翔想加冕制作人（热度：16307）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%A4%A7%E9%80%89%23" target="weibo">
+加拿大大选（热度：16190）
 </a>
 </li>
 
@@ -8765,6 +8777,12 @@ AI技术能否实现未来上三休四（热度：13373）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%9D%E5%8C%BA%E9%9B%B6%E4%BB%AA%E7%8E%84%23" target="weibo">
 绝区零仪玄（热度：10765）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E5%88%9A%E5%87%BA%E7%81%AB%E5%9C%BA%E6%89%AD%E5%A4%B4%E5%8F%88%E8%B7%B3%E6%B2%B3%E6%95%91%E4%BA%BA%23" target="weibo">
+消防员刚出火场扭头又跳河救人（热度：10658）
 </a>
 </li>
 

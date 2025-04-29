@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1745959309600,
+  "endTime": 1745961802135,
   "band_list": [
     {
       "raw_hot": 8960529,
@@ -8227,6 +8227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 100348,
+      "num": 100348,
+      "word": "陈飞宇千字长文",
+      "onboard_time": 1745953035,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 100168,
       "num": 281842,
       "word": "麦子阿姨想带老公去旅游",
@@ -8369,14 +8377,6 @@
       "onboard_time": 1745852843,
       "rank": 28,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 96555,
-      "num": 96555,
-      "word": "陈飞宇千字长文",
-      "onboard_time": 1745953035,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 96441,
@@ -10771,6 +10771,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 26979,
+      "num": 26979,
+      "word": "记者亲历东风着陆场的大风天气",
+      "onboard_time": 1745959694,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26904,
       "num": 215666,
       "word": "这是真的二次元头像的神",
@@ -11075,6 +11083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20896,
+      "num": 45409,
+      "word": "加拿大执政党赢得大选",
+      "onboard_time": 1745957954,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 20735,
       "num": 39065,
       "word": "突然懂了当时只道是寻常的含金量",
@@ -11251,14 +11267,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 17680,
-      "num": 45409,
-      "word": "加拿大执政党赢得大选",
-      "onboard_time": 1745957954,
-      "rank": 28,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 17458,
       "num": 219223,
       "word": "当娜拉荣归故里",
@@ -11353,6 +11361,14 @@
       "onboard_time": 1745874493,
       "rank": 28,
       "category": "音乐,艺人"
+    },
+    {
+      "raw_hot": 16190,
+      "num": 16190,
+      "word": "加拿大大选",
+      "onboard_time": 1745960534,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 16085,
@@ -11673,6 +11689,14 @@
       "onboard_time": 1745709439,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 10658,
+      "num": 46695,
+      "word": "消防员刚出火场扭头又跳河救人",
+      "onboard_time": 1745959514,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 10132,

@@ -1,6 +1,6 @@
 {
   "startTime": 1745944279846,
-  "endTime": 1745959309600,
+  "endTime": 1745961802135,
   "band_list": [
     {
       "raw_hot": 1718131,
@@ -275,6 +275,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 100348,
+      "num": 100348,
+      "word": "陈飞宇千字长文",
+      "onboard_time": 1745953035,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 100246,
       "num": 100246,
       "word": "马斯克为特朗普打工130天血亏8200亿",
@@ -297,14 +305,6 @@
       "onboard_time": 1745929582,
       "rank": 34,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 96555,
-      "num": 96555,
-      "word": "陈飞宇千字长文",
-      "onboard_time": 1745953035,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 95092,
@@ -499,6 +499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 26979,
+      "num": 26979,
+      "word": "记者亲历东风着陆场的大风天气",
+      "onboard_time": 1745959694,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26698,
       "num": 26698,
       "word": "特朗普支持率为80年历任总统最低",
@@ -539,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 20896,
+      "num": 45409,
+      "word": "加拿大执政党赢得大选",
+      "onboard_time": 1745957954,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 19659,
       "num": 24625,
       "word": "无尽的尽头OST",
@@ -555,20 +571,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 17680,
-      "num": 45409,
-      "word": "加拿大执政党赢得大选",
-      "onboard_time": 1745957954,
-      "rank": 28,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 16645,
       "num": 19271,
       "word": "淮水竹亭伴手礼",
       "onboard_time": 1745953334,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 16190,
+      "num": 16190,
+      "word": "加拿大大选",
+      "onboard_time": 1745960534,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 14877,
@@ -585,6 +601,14 @@
       "onboard_time": 1745956934,
       "rank": 34,
       "category": "国内时政,国际时政"
+    },
+    {
+      "raw_hot": 10658,
+      "num": 46695,
+      "word": "消防员刚出火场扭头又跳河救人",
+      "onboard_time": 1745959514,
+      "rank": 9,
+      "category": "正能量"
     }
   ],
   "hotgov_list": [
