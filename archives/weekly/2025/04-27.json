@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1745909337273,
+  "endTime": 1745911561447,
   "band_list": [
     {
       "raw_hot": 8960529,
@@ -19,12 +19,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 3920570,
+      "num": 3920570,
+      "word": "曾黎铁粉 路人都觉得心寒的程度",
+      "onboard_time": 1745908822,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3603385,
       "num": 3603385,
       "word": "王一博口型 看不会得",
       "onboard_time": 1745754561,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 3508510,
+      "num": 592161,
+      "word": "曾黎 灾难公关",
+      "onboard_time": 1745908822,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 3413245,
@@ -87,14 +103,6 @@
       "num": 2466990,
       "word": "刘美含致歉",
       "onboard_time": 1745850803,
-      "rank": 1,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 2280665,
-      "num": 2280665,
-      "word": "曾黎铁粉 路人都觉得心寒的程度",
-      "onboard_time": 1745908822,
       "rank": 1,
       "category": "艺人"
     },
@@ -611,19 +619,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 878845,
+      "num": 866968,
+      "word": "曾黎工作室再道歉",
+      "onboard_time": 1745895441,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 871563,
       "num": 1139450,
       "word": "任贤齐方否认买下青岛一条街",
       "onboard_time": 1745822723,
       "rank": 0,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 866968,
-      "num": 866968,
-      "word": "曾黎工作室再道歉",
-      "onboard_time": 1745895441,
-      "rank": 22,
       "category": "艺人"
     },
     {
@@ -651,20 +659,20 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 846926,
+      "num": 175757,
+      "word": "前粉丝回复曾黎缘分已尽",
+      "onboard_time": 1745909482,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 845946,
       "num": 671051,
       "word": "韩安冉前夫精神状态",
       "onboard_time": 1745895800,
       "rank": 24,
       "category": "网红"
-    },
-    {
-      "raw_hot": 836324,
-      "num": 438713,
-      "word": "曾黎 灾难公关",
-      "onboard_time": 1745908822,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 824294,
@@ -1443,6 +1451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 498779,
+      "num": 498779,
+      "word": "清华教授说将来有望每周上三休四",
+      "onboard_time": 1745909062,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 491267,
       "num": 376197,
       "word": "顾盼生辉",
@@ -1905,6 +1921,14 @@
       "onboard_time": 1745759303,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 363577,
+      "num": 363577,
+      "word": "杨幂兔子警官",
+      "onboard_time": 1745909062,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 362292,
@@ -2579,6 +2603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 265633,
+      "num": 265633,
+      "word": "曝五月天石头移民英国",
+      "onboard_time": 1745910623,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 265304,
       "num": 265304,
       "word": "李沐宸迟到被换角",
@@ -2715,6 +2747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 252968,
+      "num": 252968,
+      "word": "杨丞琳方斥Makiyo造谣",
+      "onboard_time": 1745910923,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 252401,
       "num": 252401,
       "word": "家属以为医院是正规公立专科医院",
@@ -2801,6 +2841,14 @@
       "onboard_time": 1745755162,
       "rank": 37,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 245048,
+      "num": 275246,
+      "word": "孙艺洲回应抗抑郁版死了都要爱",
+      "onboard_time": 1745909123,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 241857,
@@ -3139,6 +3187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218128,
+      "num": 218128,
+      "word": "物以类聚",
+      "onboard_time": 1745910623,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 217406,
       "num": 217406,
       "word": "杨仕泽回应新剧争议",
@@ -3243,6 +3299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210463,
+      "num": 210463,
+      "word": "举报男子成都地铁偷拍女生发声",
+      "onboard_time": 1745909602,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 210460,
       "num": 366471,
       "word": "律师称男子把小狗摔死涉嫌2项违法",
@@ -3321,6 +3385,14 @@
       "onboard_time": 1745759604,
       "rank": 32,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 207276,
+      "num": 207276,
+      "word": "十三州府",
+      "onboard_time": 1745908461,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 207107,
@@ -3539,14 +3611,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 199103,
-      "num": 199103,
-      "word": "十三州府",
-      "onboard_time": 1745908461,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 198990,
       "num": 198990,
       "word": "官方回应游客私摘枇杷每个赔100元",
@@ -3729,6 +3793,14 @@
       "onboard_time": 1745741541,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 191259,
+      "num": 191259,
+      "word": "为了报复五一调休 我决定",
+      "onboard_time": 1745910804,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 191239,
@@ -3939,14 +4011,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 187331,
-      "num": 275246,
-      "word": "孙艺洲回应抗抑郁版死了都要爱",
-      "onboard_time": 1745909123,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
       "raw_hot": 186946,
       "num": 186946,
       "word": "终于懂老年人对时代的无力感了",
@@ -4147,12 +4211,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 175241,
-      "num": 175241,
-      "word": "杨幂兔子警官",
-      "onboard_time": 1745909062,
-      "rank": 42,
-      "category": "综艺"
+      "raw_hot": 176113,
+      "num": 176113,
+      "word": "泌尿医生谈董袭莹跨专业医学履历",
+      "onboard_time": 1745909000,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 174817,
@@ -4177,6 +4241,14 @@
       "onboard_time": 1745763982,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 174015,
+      "num": 174015,
+      "word": "广式凉茶遇到了最懂他的外国人",
+      "onboard_time": 1745911102,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 173849,
@@ -4225,6 +4297,14 @@
       "onboard_time": 1745797340,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 172823,
+      "num": 172823,
+      "word": "麦琳走出综艺后的人生变化",
+      "onboard_time": 1745910143,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 172345,
@@ -4321,14 +4401,6 @@
       "onboard_time": 1745810599,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 168102,
-      "num": 168102,
-      "word": "泌尿医生谈董袭莹跨专业医学履历",
-      "onboard_time": 1745909000,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 168054,
@@ -4515,6 +4587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161513,
+      "num": 161513,
+      "word": "五一随手拍",
+      "onboard_time": 1745909782,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161427,
       "num": 161427,
       "word": "2426人受到表彰",
@@ -4593,6 +4673,14 @@
       "onboard_time": 1745824403,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159958,
+      "num": 159958,
+      "word": "被赵丽颖在电视上怼人硬控了",
+      "onboard_time": 1745911342,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 159764,
@@ -4883,6 +4971,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 152337,
+      "num": 152337,
+      "word": "王安宇三折叠抱王玉雯",
+      "onboard_time": 1745910382,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152234,
       "num": 152234,
       "word": "丁禹兮剧里剧外反差感",
@@ -4945,6 +5041,14 @@
       "onboard_time": 1745850744,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 150616,
+      "num": 265713,
+      "word": "今天是世界舞蹈日",
+      "onboard_time": 1745909843,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150615,
@@ -5147,6 +5251,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 144589,
+      "num": 144589,
+      "word": "男子改装设备在地铁偷拍女性被行拘",
+      "onboard_time": 1745909542,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144563,
+      "num": 144563,
+      "word": "中日友好医院被开除医生有异议",
+      "onboard_time": 1745911463,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144533,
       "num": 144533,
       "word": "中式工装席卷外国vintage门店",
@@ -5273,6 +5393,14 @@
       "onboard_time": 1745904142,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142614,
+      "num": 142614,
+      "word": "女主持人曝曾被富豪开价买卵",
+      "onboard_time": 1745911525,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 142606,
@@ -5867,6 +5995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126656,
+      "num": 385073,
+      "word": "董袭莹文献发表杂志影响因子低至0.07",
+      "onboard_time": 1745911043,
+      "rank": 9,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 126584,
       "num": 434791,
       "word": "苹果天猫官旗上线全国国补",
@@ -6321,6 +6457,14 @@
       "onboard_time": 1745895083,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108565,
+      "num": 220455,
+      "word": "秦彻新卡面坠空博弈有哪些精彩操作",
+      "onboard_time": 1745911282,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 108469,
@@ -7328,14 +7472,6 @@
       "word": "美人鱼表演者恢复意识后发声",
       "onboard_time": 1745681004,
       "rank": 44,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 82635,
-      "num": 278219,
-      "word": "清华教授说将来有望每周上三休四",
-      "onboard_time": 1745909062,
-      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -8515,6 +8651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34098,
+      "num": 213065,
+      "word": "车主自制车牌写好几个8被批评教育",
+      "onboard_time": 1745910502,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33908,
       "num": 183375,
       "word": "清清九尾合拍",
@@ -8593,6 +8737,14 @@
       "onboard_time": 1745818942,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 31993,
+      "num": 363429,
+      "word": "十年后周杰伦重回武汉开演唱会",
+      "onboard_time": 1745910861,
+      "rank": 14,
+      "category": "演出"
     },
     {
       "raw_hot": 31322,
@@ -9011,6 +9163,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 19604,
+      "num": 599461,
+      "word": "第八届数字中国建设峰会",
+      "onboard_time": 1745899042,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 19286,
       "num": 288102,
       "word": "苹果本土化设计策略有哪些缺陷",
@@ -9385,6 +9545,14 @@
       "onboard_time": 1745709439,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 10456,
+      "num": 174080,
+      "word": "手部反射区按摩养生方法",
+      "onboard_time": 1745911222,
+      "rank": 39,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 10132,
