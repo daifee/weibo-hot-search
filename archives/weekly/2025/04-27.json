@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1745926656484,
+  "endTime": 1745931159635,
   "band_list": [
     {
       "raw_hot": 8960529,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 1737517,
-      "num": 367537,
+      "num": 398266,
       "word": "董小姐的医学奇迹",
       "onboard_time": 1745920043,
       "rank": 10,
@@ -324,7 +324,7 @@
     },
     {
       "raw_hot": 1414699,
-      "num": 574201,
+      "num": 1094018,
       "word": "曾黎我不是中戏两百年美女",
       "onboard_time": 1745926103,
       "rank": 4,
@@ -393,6 +393,14 @@
       "onboard_time": 1745740162,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1288644,
+      "num": 1288644,
+      "word": "时代少年团演唱会直播",
+      "onboard_time": 1745925322,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 1281294,
@@ -969,6 +977,14 @@
       "onboard_time": 1745917644,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 707645,
+      "num": 414703,
+      "word": "SuperM",
+      "onboard_time": 1745928262,
+      "rank": 6,
+      "category": "艺人,音乐"
     },
     {
       "raw_hot": 700163,
@@ -1587,6 +1603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 490506,
+      "num": 490506,
+      "word": "致22死饭店火灾事发时正值午餐高峰",
+      "onboard_time": 1745928862,
+      "rank": 4,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 482733,
       "num": 482733,
       "word": "因通缉照走红女子出狱后成主播",
@@ -1899,6 +1923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 415606,
+      "num": 415606,
+      "word": "沙特王储称中国崩了全世界都要崩",
+      "onboard_time": 1745928323,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 415139,
       "num": 415139,
       "word": "金饰破千备婚三金成本激增",
@@ -1995,20 +2027,20 @@
       "category": "艺人,剧集"
     },
     {
-      "raw_hot": 393266,
-      "num": 393266,
-      "word": "时代少年团演唱会直播",
-      "onboard_time": 1745925322,
-      "rank": 17,
-      "category": "演出"
-    },
-    {
       "raw_hot": 392118,
       "num": 316637,
       "word": "上班后才懂李慧珍",
       "onboard_time": 1745837601,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 388849,
+      "num": 388849,
+      "word": "家长查孩子成绩一年被收300元",
+      "onboard_time": 1745929643,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 388843,
@@ -2291,6 +2323,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 325686,
+      "num": 325686,
+      "word": "董小姐父母何以跨界指导论文",
+      "onboard_time": 1745927001,
+      "rank": 25,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 325495,
       "num": 325495,
       "word": "戈登扣篮绝杀快船",
@@ -2379,6 +2419,14 @@
       "category": "电影,作品衍生"
     },
     {
+      "raw_hot": 315911,
+      "num": 394388,
+      "word": "叶舒华为减肥戒掉面粉",
+      "onboard_time": 1745927123,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 314622,
       "num": 314622,
       "word": "特朗普妄称中国要做出让步",
@@ -2443,6 +2491,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 306493,
+      "num": 393664,
+      "word": "丁禹兮听到永夜两个字的反应",
+      "onboard_time": 1745926282,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 306200,
+      "num": 399367,
+      "word": "物业回应面具女恐吓电梯内2幼童",
+      "onboard_time": 1745927664,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 305611,
       "num": 363254,
       "word": "小伙峨眉山失联朋友担心拍日出跌落",
@@ -2489,6 +2553,14 @@
       "onboard_time": 1745839342,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 301902,
+      "num": 391012,
+      "word": "央企干部赌博被偷拍4人涉敲诈获刑",
+      "onboard_time": 1745925863,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 300230,
@@ -3115,6 +3187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 248374,
+      "num": 248374,
+      "word": "村里让办8万丧事才帮老人开死亡证明",
+      "onboard_time": 1745926282,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 246282,
       "num": 246282,
       "word": "风月不相关简介改成大男主了",
@@ -3185,6 +3265,14 @@
       "onboard_time": 1745921003,
       "rank": 31,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 239753,
+      "num": 239753,
+      "word": "和纸片人付费恋爱的女孩们决定离开",
+      "onboard_time": 1745929342,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 239113,
@@ -3739,6 +3827,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 207062,
+      "num": 207062,
+      "word": "辽宁饭店火灾事故救援结束",
+      "onboard_time": 1745926161,
+      "rank": 40,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 206918,
       "num": 206918,
       "word": "张凌赫要给金靖孩子补红包",
@@ -4035,6 +4131,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 195489,
+      "num": 195489,
+      "word": "Gemini 没直播",
+      "onboard_time": 1745927544,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 194840,
       "num": 276207,
       "word": "Makiyo向杨丞琳道歉",
@@ -4147,12 +4251,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 193082,
+      "num": 397560,
+      "word": "董袭莹被爆学术历程跨多学科",
+      "onboard_time": 1745929582,
+      "rank": 11,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 192989,
       "num": 192989,
       "word": "养了六年的兔子给我做了个窝",
       "onboard_time": 1745808681,
       "rank": 34,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 192313,
+      "num": 269279,
+      "word": "王源广州演唱会抢票",
+      "onboard_time": 1745928323,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 192174,
@@ -4171,6 +4291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191637,
+      "num": 191637,
+      "word": "大麦",
+      "onboard_time": 1745929462,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 191391,
       "num": 191391,
       "word": "王一博华表奖出图",
@@ -4185,6 +4313,14 @@
       "onboard_time": 1745740522,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 190982,
+      "num": 190982,
+      "word": "在飞机上被韩国人偷了",
+      "onboard_time": 1745927301,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 190677,
@@ -4361,14 +4497,6 @@
       "onboard_time": 1745731404,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 188610,
-      "num": 188610,
-      "word": "辽宁饭店火灾事故救援结束",
-      "onboard_time": 1745926161,
-      "rank": 40,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 188428,
@@ -4609,6 +4737,14 @@
       "onboard_time": 1745709318,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 179123,
+      "num": 179123,
+      "word": "山西男篮vs北京男篮",
+      "onboard_time": 1745756362,
+      "rank": 29,
+      "category": "体育,其它"
     },
     {
       "raw_hot": 179059,
@@ -4859,6 +4995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167711,
+      "num": 167711,
+      "word": "yushi泡泡",
+      "onboard_time": 1745930420,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166912,
       "num": 166912,
       "word": "陈少熙王者",
@@ -4873,6 +5017,14 @@
       "onboard_time": 1745908882,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166803,
+      "num": 166803,
+      "word": "辽宁火灾事故饭店经营者被控制",
+      "onboard_time": 1745927722,
+      "rank": 44,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 166738,
@@ -4899,12 +5051,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 165945,
+      "num": 165945,
+      "word": "蒲熠星李永钦cha了莎士比亚之殇",
+      "onboard_time": 1745931023,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165822,
       "num": 165822,
       "word": "狗狗吹完毛微信步数至少2万",
       "onboard_time": 1745890282,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 165799,
+      "num": 165799,
+      "word": "NCT 泡泡",
+      "onboard_time": 1745930781,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 165193,
@@ -4921,14 +5089,6 @@
       "onboard_time": 1745723781,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 164781,
-      "num": 164781,
-      "word": "央企干部赌博被偷拍4人涉敲诈获刑",
-      "onboard_time": 1745925863,
-      "rank": 45,
-      "category": "国内时政"
     },
     {
       "raw_hot": 164493,
@@ -5033,6 +5193,14 @@
       "onboard_time": 1745827762,
       "rank": 27,
       "category": "剧集,幽默"
+    },
+    {
+      "raw_hot": 162135,
+      "num": 162135,
+      "word": "无限暖暖",
+      "onboard_time": 1745929282,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 161800,
@@ -5521,14 +5689,6 @@
       "onboard_time": 1745852485,
       "rank": 32,
       "category": "教育"
-    },
-    {
-      "raw_hot": 151470,
-      "num": 240474,
-      "word": "丁禹兮听到永夜两个字的反应",
-      "onboard_time": 1745926282,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 151466,
@@ -6364,7 +6524,7 @@
     },
     {
       "raw_hot": 131495,
-      "num": 242117,
+      "num": 326618,
       "word": "星穹铁道演唱会",
       "onboard_time": 1745926462,
       "rank": 27,
@@ -7049,14 +7209,6 @@
       "onboard_time": 1745664621,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 110190,
-      "num": 169083,
-      "word": "山西男篮vs北京男篮",
-      "onboard_time": 1745756362,
-      "rank": 29,
-      "category": "体育,其它"
     },
     {
       "raw_hot": 110073,
@@ -7779,6 +7931,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 93647,
+      "num": 389748,
+      "word": "代露娃生日直播",
+      "onboard_time": 1745929582,
+      "rank": 20,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 93384,
       "num": 224336,
       "word": "男子将路边僵尸车以1450元卖出被抓",
@@ -7961,6 +8121,14 @@
       "onboard_time": 1745857459,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 89199,
+      "num": 392029,
+      "word": "水贝有商家称金条最多一天卖20斤",
+      "onboard_time": 1745929522,
+      "rank": 18,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 89161,
@@ -8419,6 +8587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 73695,
+      "num": 395800,
+      "word": "肖飞事件网友最关心的3个问题",
+      "onboard_time": 1745930061,
+      "rank": 13,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 73405,
       "num": 511492,
       "word": "女装越做越小是畸形审美",
@@ -8723,6 +8899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 60470,
+      "num": 190993,
+      "word": "什么限制了山高",
+      "onboard_time": 1745930781,
+      "rank": 39,
+      "category": "科学科普,民生新闻"
+    },
+    {
       "raw_hot": 60465,
       "num": 149844,
       "word": "你要平整土地而非焦虑时光",
@@ -8777,6 +8961,14 @@
       "onboard_time": 1745922622,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 58918,
+      "num": 397212,
+      "word": "吃喝精打细算兴趣上一掷千金",
+      "onboard_time": 1745929762,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 58564,
@@ -9451,6 +9643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 35301,
+      "num": 191304,
+      "word": "医学生都有哪些培养方式",
+      "onboard_time": 1745930902,
+      "rank": 37,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 35207,
       "num": 199779,
       "word": "南京闯进电视台的野猪是从哪来的",
@@ -9489,6 +9689,14 @@
       "onboard_time": 1745852725,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34124,
+      "num": 395491,
+      "word": "通义App上线全球领先大模型Qwen3",
+      "onboard_time": 1745928081,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 33908,
@@ -10011,6 +10219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 21397,
+      "num": 393030,
+      "word": "神十九乘组延迟返回是什么原因",
+      "onboard_time": 1745930482,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 21201,
       "num": 722299,
       "word": "第八届数字中国建设峰会",
@@ -10361,6 +10577,14 @@
       "onboard_time": 1745838081,
       "rank": 18,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 14491,
+      "num": 191043,
+      "word": "俄罗斯公布朝军训练录像",
+      "onboard_time": 1745930302,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 14212,
