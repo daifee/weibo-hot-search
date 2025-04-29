@@ -1,6 +1,6 @@
 {
   "startTime": 1745944279846,
-  "endTime": 1745955376383,
+  "endTime": 1745958708378,
   "band_list": [
     {
       "raw_hot": 1718131,
@@ -331,6 +331,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 91920,
+      "num": 91920,
+      "word": "陈飞宇千字长文",
+      "onboard_time": 1745953035,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 91084,
       "num": 91084,
       "word": "印度游客山上滑索时山下恐袭致26死",
@@ -443,12 +451,12 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 63215,
-      "num": 56113,
-      "word": "陈飞宇千字长文",
-      "onboard_time": 1745953035,
-      "rank": 19,
-      "category": "剧集"
+      "raw_hot": 58972,
+      "num": 58972,
+      "word": "哥大新闻网站疑有董袭莹获奖名单",
+      "onboard_time": 1745953574,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 53788,
@@ -473,14 +481,6 @@
       "onboard_time": 1745925322,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 39310,
-      "num": 50540,
-      "word": "哥大新闻网站疑有董袭莹获奖名单",
-      "onboard_time": 1745953574,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 32597,
@@ -547,6 +547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 18818,
+      "num": 47812,
+      "word": "校方未回应寄语毕业生文章删除董袭莹",
+      "onboard_time": 1745954774,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16645,
       "num": 19271,
       "word": "淮水竹亭伴手礼",
@@ -555,12 +563,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 10819,
-      "num": 47812,
-      "word": "校方未回应寄语毕业生文章删除董袭莹",
-      "onboard_time": 1745954774,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 14850,
+      "num": 15861,
+      "word": "奉劝菲方不要在台湾问题上挑衅",
+      "onboard_time": 1745953395,
+      "rank": 47,
+      "category": "国内时政,国际时政"
+    },
+    {
+      "raw_hot": 14735,
+      "num": 21272,
+      "word": "加拿大执政党赢得大选",
+      "onboard_time": 1745957954,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 14167,
+      "num": 19164,
+      "word": "中方回应菲海军发言人涉台言论",
+      "onboard_time": 1745956934,
+      "rank": 34,
+      "category": "国内时政,国际时政"
     }
   ],
   "hotgov_list": [

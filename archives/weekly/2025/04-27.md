@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/27 00:28:26 ~ 2025/04/30 03:36:16
+本榜单时间：2025/04/27 00:28:26 ~ 2025/04/30 04:31:48
 </p>
 </blockquote>
 <p>
@@ -6459,6 +6459,12 @@ kpop人不破防挑战（热度：95819）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%A3%9E%E5%AE%87%E5%8D%83%E5%AD%97%E9%95%BF%E6%96%87%23" target="weibo">
+陈飞宇千字长文（热度：91920）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%84%8F%E6%97%8B%E7%BA%A2%E8%8C%B6%E8%8A%B1%E5%A6%96%E7%BA%A2%E5%87%9D%23" target="weibo">
 胡意旋红茶花妖红凝（热度：91736）
 </a>
@@ -7131,12 +7137,6 @@ aespa人气歌谣东京（热度：79126）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%A3%9E%E5%AE%87%E5%8D%83%E5%AD%97%E9%95%BF%E6%96%87%23" target="weibo">
-陈飞宇千字长文（热度：63215）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94%E6%9D%91%E5%B9%B2%E9%83%A8%E5%BE%AE%E4%BF%A1%E7%BE%A4%E9%AA%82%E4%BA%BA%E8%A2%AB%E8%A1%8C%E6%8B%98%23" target="weibo">
 当地回应村干部微信群骂人被行拘（热度：63110）
 </a>
@@ -7241,6 +7241,12 @@ aespa人气歌谣东京（热度：79126）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E7%A5%9E%23" target="weibo">
 原神（热度：59233）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%A5%E5%A4%A7%E6%96%B0%E9%97%BB%E7%BD%91%E7%AB%99%E7%96%91%E6%9C%89%E8%91%A3%E8%A2%AD%E8%8E%B9%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95%23" target="weibo">
+哥大新闻网站疑有董袭莹获奖名单（热度：58972）
 </a>
 </li>
 
@@ -7697,12 +7703,6 @@ DeepSeekR2要发布了吗（热度：39748）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BA%A6%E5%AD%90%E9%98%BF%E5%A7%A8%E7%9A%84%E6%98%A5%E5%A4%A9%23" target="weibo">
 麦子阿姨的春天（热度：39347）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%93%A5%E5%A4%A7%E6%96%B0%E9%97%BB%E7%BD%91%E7%AB%99%E7%96%91%E6%9C%89%E8%91%A3%E8%A2%AD%E8%8E%B9%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95%23" target="weibo">
-哥大新闻网站疑有董袭莹获奖名单（热度：39310）
 </a>
 </li>
 
@@ -8391,6 +8391,12 @@ DeepSeekR2要发布了吗（热度：39748）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A0%A1%E6%96%B9%E6%9C%AA%E5%9B%9E%E5%BA%94%E5%AF%84%E8%AF%AD%E6%AF%95%E4%B8%9A%E7%94%9F%E6%96%87%E7%AB%A0%E5%88%A0%E9%99%A4%E8%91%A3%E8%A2%AD%E8%8E%B9%23" target="weibo">
+校方未回应寄语毕业生文章删除董袭莹（热度：18818）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E7%BE%8E%E5%9B%A0%E9%BC%A0%E6%82%A3%E5%BC%95%E5%8F%91%E6%AD%BB%E4%BA%A1%E4%BA%8B%E4%BB%B6%23" target="weibo">
 英美因鼠患引发死亡事件（热度：18600）
 </a>
@@ -8577,8 +8583,20 @@ RW对战LGDNBW（热度：17242）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%89%E5%8A%9D%E8%8F%B2%E6%96%B9%E4%B8%8D%E8%A6%81%E5%9C%A8%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E4%B8%8A%E6%8C%91%E8%A1%85%23" target="weibo">
+奉劝菲方不要在台湾问题上挑衅（热度：14850）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8B%BF%E8%BA%AB%E4%BB%BD%E8%AF%81%E6%B6%88%E8%B4%B9%E5%AF%B9%E4%B8%AA%E4%BA%BA%E6%9C%89%E4%BB%80%E4%B9%88%E5%BC%8A%E7%AB%AF%23" target="weibo">
 拿身份证消费对个人有什么弊端（热度：14792）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%89%A7%E6%94%BF%E5%85%9A%E8%B5%A2%E5%BE%97%E5%A4%A7%E9%80%89%23" target="weibo">
+加拿大执政党赢得大选（热度：14735）
 </a>
 </li>
 
@@ -8591,6 +8609,12 @@ RW对战LGDNBW（热度：17242）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD%E6%84%8F%E6%9E%97%E6%94%B6AI%E5%86%99%E7%9A%84%E6%96%87%23" target="weibo">
 网友吐槽意林收AI写的文（热度：14212）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E8%8F%B2%E6%B5%B7%E5%86%9B%E5%8F%91%E8%A8%80%E4%BA%BA%E6%B6%89%E5%8F%B0%E8%A8%80%E8%AE%BA%23" target="weibo">
+中方回应菲海军发言人涉台言论（热度：14167）
 </a>
 </li>
 
@@ -8735,12 +8759,6 @@ AI技术能否实现未来上三休四（热度：13373）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%A7%B0%E5%AE%8C%E5%85%A8%E6%8E%A7%E5%88%B6%E5%BA%93%E5%B0%94%E6%96%AF%E5%85%8B%23" target="weibo">
 俄称完全控制库尔斯克（热度：11043）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A0%A1%E6%96%B9%E6%9C%AA%E5%9B%9E%E5%BA%94%E5%AF%84%E8%AF%AD%E6%AF%95%E4%B8%9A%E7%94%9F%E6%96%87%E7%AB%A0%E5%88%A0%E9%99%A4%E8%91%A3%E8%A2%AD%E8%8E%B9%23" target="weibo">
-校方未回应寄语毕业生文章删除董袭莹（热度：10819）
 </a>
 </li>
 
