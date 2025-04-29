@@ -1,6 +1,6 @@
 {
   "startTime": 1745857837371,
-  "endTime": 1745904304670,
+  "endTime": 1745905317305,
   "band_list": [
     {
       "raw_hot": 3413245,
@@ -35,8 +35,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1774931,
-      "num": 1774931,
+      "raw_hot": 1865460,
+      "num": 1865460,
       "word": "鹿晗正定伴手礼",
       "onboard_time": 1745902044,
       "rank": 0,
@@ -203,6 +203,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 600345,
+      "num": 600345,
+      "word": "协和4加4博士水平没问题",
+      "onboard_time": 1745901502,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 589298,
       "num": 534382,
       "word": "高校回应男生被捉奸后把女生推下楼",
@@ -259,6 +267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 476005,
+      "num": 476005,
+      "word": "刘诗诗连破两次平台首日纪录",
+      "onboard_time": 1745901625,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 472043,
       "num": 368455,
       "word": "鞠婧祎撕拉片 出圈",
@@ -275,20 +291,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 460751,
-      "num": 460751,
-      "word": "刘诗诗连破两次平台首日纪录",
-      "onboard_time": 1745901625,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 439739,
       "num": 297425,
       "word": "肖飞",
       "onboard_time": 1745886682,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 414734,
+      "num": 414734,
+      "word": "钟丽缇小女儿完全继承妈妈基因",
+      "onboard_time": 1745902704,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 406721,
@@ -299,12 +315,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 375967,
-      "num": 375967,
-      "word": "协和4加4博士水平没问题",
-      "onboard_time": 1745901502,
-      "rank": 46,
-      "category": "教育"
+      "raw_hot": 404648,
+      "num": 404648,
+      "word": "迪丽热巴埃及艳后转场",
+      "onboard_time": 1745904083,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 352273,
@@ -313,6 +329,14 @@
       "onboard_time": 1745883560,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 347197,
+      "num": 347197,
+      "word": "中国不跪中国不退",
+      "onboard_time": 1745903723,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 334490,
@@ -347,12 +371,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 318402,
-      "num": 318402,
+      "raw_hot": 318847,
+      "num": 318847,
       "word": "御赐小仵作2",
       "onboard_time": 1745903243,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 317304,
+      "num": 317304,
+      "word": "减肚子干掉内脏脂肪的8个巧招",
+      "onboard_time": 1745901742,
+      "rank": 41,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 315285,
@@ -377,14 +409,6 @@
       "onboard_time": 1745847141,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 309646,
-      "num": 309646,
-      "word": "钟丽缇小女儿完全继承妈妈基因",
-      "onboard_time": 1745902704,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 305611,
@@ -459,12 +483,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 272220,
+      "num": 272220,
+      "word": "董明珠年薪1437.2万",
+      "onboard_time": 1745903183,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 271504,
       "num": 196102,
       "word": "为什么婚恋前要先看体检报告",
       "onboard_time": 1745854222,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 269352,
+      "num": 358105,
+      "word": "勇士3比1火箭",
+      "onboard_time": 1745904863,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 268370,
@@ -515,14 +555,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 238873,
-      "num": 238873,
-      "word": "董明珠年薪1437.2万",
-      "onboard_time": 1745903183,
-      "rank": 33,
-      "category": "财经"
-    },
-    {
       "raw_hot": 238478,
       "num": 422364,
       "word": "电影浪浪山小妖怪定档",
@@ -561,14 +593,6 @@
       "onboard_time": 1745899103,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 217430,
-      "num": 217430,
-      "word": "减肚子干掉内脏脂肪的8个巧招",
-      "onboard_time": 1745901742,
-      "rank": 41,
-      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 214262,
@@ -611,6 +635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 205511,
+      "num": 205511,
+      "word": "成都巨响",
+      "onboard_time": 1745900963,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 204211,
       "num": 204211,
       "word": "无限暖暖初始化失败",
@@ -635,20 +667,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 202202,
-      "num": 202202,
-      "word": "成都巨响",
-      "onboard_time": 1745900963,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 201607,
-      "num": 201607,
-      "word": "中国不跪中国不退",
-      "onboard_time": 1745903723,
-      "rank": 43,
-      "category": "国内时政"
+      "raw_hot": 201053,
+      "num": 201053,
+      "word": "巴特勒怼狄龙布鲁克斯",
+      "onboard_time": 1745904501,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 200341,
@@ -657,6 +681,14 @@
       "onboard_time": 1745900303,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196782,
+      "num": 196782,
+      "word": "大侦探对撞季",
+      "onboard_time": 1745905042,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 194690,
@@ -691,12 +723,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 190012,
-      "num": 190012,
-      "word": "迪丽热巴埃及艳后转场",
-      "onboard_time": 1745904083,
-      "rank": 44,
-      "category": "综艺"
+      "raw_hot": 190677,
+      "num": 214748,
+      "word": "第五人格宁芙奖",
+      "onboard_time": 1745903904,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 189660,
+      "num": 189660,
+      "word": "倪萍说小王一博遇到对手了",
+      "onboard_time": 1745905162,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 188987,
@@ -731,20 +771,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 172569,
+      "num": 586657,
+      "word": "肖飞被开除董袭莹问题何时查",
+      "onboard_time": 1745904442,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 172236,
       "num": 172236,
       "word": "网传桂林一高校男生被女生捉奸在床",
       "onboard_time": 1745898381,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 170052,
-      "num": 214748,
-      "word": "第五人格宁芙奖",
-      "onboard_time": 1745903904,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 166070,
@@ -827,6 +867,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 142746,
+      "num": 228491,
+      "word": "哥大本科和巴纳德学院疑无此人",
+      "onboard_time": 1745904142,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142614,
       "num": 142614,
       "word": "半个娱乐圈都在追无尽的尽头",
@@ -868,11 +916,19 @@
     },
     {
       "raw_hot": 134501,
-      "num": 371268,
+      "num": 427856,
       "word": "明日方舟名创优品联动",
       "onboard_time": 1745903063,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 134279,
+      "num": 836941,
+      "word": "关税回旋镖让美国花店大伤脑筋",
+      "onboard_time": 1745903364,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 129903,
@@ -905,6 +961,14 @@
       "onboard_time": 1745902103,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121632,
+      "num": 239591,
+      "word": "倪萍评华表奖神仙打架",
+      "onboard_time": 1745904382,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 113539,
@@ -1032,6 +1096,14 @@
       "word": "浙江00后女生把烂牌打成了王炸",
       "onboard_time": 1745886861,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98473,
+      "num": 320531,
+      "word": "网红聚宝盆汽车炫锅场事故致1死",
+      "onboard_time": 1745903603,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -1235,14 +1307,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 78638,
-      "num": 228491,
-      "word": "哥大本科和巴纳德学院疑无此人",
-      "onboard_time": 1745904142,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 77815,
       "num": 77815,
       "word": "美国建国250周年可能无烟花可放",
@@ -1337,14 +1401,6 @@
       "onboard_time": 1745886801,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 66948,
-      "num": 836941,
-      "word": "关税回旋镖让美国花店大伤脑筋",
-      "onboard_time": 1745903364,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 66101,
@@ -1467,6 +1523,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 49430,
+      "num": 557279,
+      "word": "东莞竖店3天拍完一部爆款短剧",
+      "onboard_time": 1745904382,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48184,
       "num": 55373,
       "word": "梁田笑声有多大心里就有多难受",
@@ -1553,14 +1617,6 @@
       "onboard_time": 1745875514,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 38828,
-      "num": 284871,
-      "word": "网红聚宝盆汽车炫锅场事故致1死",
-      "onboard_time": 1745903603,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 37725,
@@ -1657,6 +1713,14 @@
       "onboard_time": 1745858719,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 26308,
+      "num": 424553,
+      "word": "5旬男子喝野菌汤进ICU抢救16天",
+      "onboard_time": 1745904562,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25507,

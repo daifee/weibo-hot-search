@@ -1,0 +1,410 @@
+{
+  "runTime": 1745905317305,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1865460,
+        "num": 1865460,
+        "word": "鹿晗正定伴手礼",
+        "onboard_time": 1745902044,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 956965,
+        "num": 956965,
+        "word": "我姓疆 热巴故乡",
+        "onboard_time": 1745901022,
+        "rank": 1,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 1,
+        "num": 777325,
+        "word": "新质先锋未来北京",
+        "onboard_time": 1745899882,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1188528,
+        "num": 730356,
+        "word": "送曾黎礼物的粉丝道歉",
+        "onboard_time": 1745901562,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 600345,
+        "num": 600345,
+        "word": "协和4加4博士水平没问题",
+        "onboard_time": 1745901502,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 2252093,
+        "num": 599176,
+        "word": "协和",
+        "onboard_time": 1745886801,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1394234,
+        "num": 594795,
+        "word": "中日友好医院",
+        "onboard_time": 1745895083,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1135347,
+        "num": 592573,
+        "word": "知网已搜不到董袭莹论文",
+        "onboard_time": 1745891841,
+        "rank": 7,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 134279,
+        "num": 590552,
+        "word": "关税回旋镖让美国花店大伤脑筋",
+        "onboard_time": 1745903364,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 172569,
+        "num": 586657,
+        "word": "肖飞被开除董袭莹问题何时查",
+        "onboard_time": 1745904442,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1061380,
+        "num": 584223,
+        "word": "内娱终于有全开麦了",
+        "onboard_time": 1745898502,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 770136,
+        "num": 580975,
+        "word": "宫崎骏画的赵丽颖",
+        "onboard_time": 1745900303,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 705127,
+        "num": 578218,
+        "word": "歌手2025定档",
+        "onboard_time": 1745901983,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 576000,
+        "num": 576000,
+        "word": "12岁女孩被继母关厕所17天虐待致死",
+        "onboard_time": 1745898502,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49430,
+        "num": 557279,
+        "word": "东莞竖店3天拍完一部爆款短剧",
+        "onboard_time": 1745904382,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 550884,
+        "num": 550884,
+        "word": "西班牙宣布进入国家紧急状态",
+        "onboard_time": 1745886801,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 476005,
+        "num": 476005,
+        "word": "刘诗诗连破两次平台首日纪录",
+        "onboard_time": 1745901625,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 458676,
+        "num": 458676,
+        "word": "外交部",
+        "onboard_time": 1745898323,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 88975,
+        "num": 427856,
+        "word": "明日方舟名创优品联动",
+        "onboard_time": 1745903063,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 26308,
+        "num": 424553,
+        "word": "5旬男子喝野菌汤进ICU抢救16天",
+        "onboard_time": 1745904562,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 423537,
+        "num": 423537,
+        "word": "刘诗诗演技",
+        "onboard_time": 1745900303,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 414734,
+        "num": 414734,
+        "word": "钟丽缇小女儿完全继承妈妈基因",
+        "onboard_time": 1745902704,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 404648,
+        "num": 404648,
+        "word": "迪丽热巴埃及艳后转场",
+        "onboard_time": 1745904083,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 375854,
+        "num": 375854,
+        "word": "2岁男童蹦床与8岁男童撞致10级伤残",
+        "onboard_time": 1745896820,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269352,
+        "num": 358105,
+        "word": "勇士3比1火箭",
+        "onboard_time": 1745904863,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 347197,
+        "num": 347197,
+        "word": "中国不跪中国不退",
+        "onboard_time": 1745903723,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 339063,
+        "num": 339063,
+        "word": "韩安冉前夫精神状态",
+        "onboard_time": 1745895800,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 337788,
+        "num": 337788,
+        "word": "石凯恋爱保密协议",
+        "onboard_time": 1745898502,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326527,
+        "num": 326527,
+        "word": "曾黎工作室再道歉",
+        "onboard_time": 1745895441,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98473,
+        "num": 320531,
+        "word": "网红聚宝盆汽车炫锅场事故致1死",
+        "onboard_time": 1745903603,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 318847,
+        "num": 318847,
+        "word": "御赐小仵作2",
+        "onboard_time": 1745903243,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 317304,
+        "num": 317304,
+        "word": "减肚子干掉内脏脂肪的8个巧招",
+        "onboard_time": 1745901742,
+        "rank": 31,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 298016,
+        "num": 298016,
+        "word": "艺洋你无敌了",
+        "onboard_time": 1745891600,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272220,
+        "num": 272220,
+        "word": "董明珠年薪1437.2万",
+        "onboard_time": 1745903183,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 121632,
+        "num": 239591,
+        "word": "倪萍评华表奖神仙打架",
+        "onboard_time": 1745904382,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 220723,
+        "num": 220723,
+        "word": "开始推理吧3发布会",
+        "onboard_time": 1745903004,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212150,
+        "num": 212150,
+        "word": "库里被吹挑衅",
+        "onboard_time": 1745901262,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142746,
+        "num": 206570,
+        "word": "哥大本科和巴纳德学院疑无此人",
+        "onboard_time": 1745904142,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205511,
+        "num": 205511,
+        "word": "成都巨响",
+        "onboard_time": 1745900963,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201053,
+        "num": 201053,
+        "word": "巴特勒怼狄龙布鲁克斯",
+        "onboard_time": 1745904501,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197799,
+        "num": 197799,
+        "word": "高校回应男生被捉奸后把女生推下楼",
+        "onboard_time": 1745894961,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196920,
+        "num": 196920,
+        "word": "高铁允许小狗托运但胖狗不行",
+        "onboard_time": 1745895201,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196782,
+        "num": 196782,
+        "word": "大侦探对撞季",
+        "onboard_time": 1745905042,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196407,
+        "num": 196407,
+        "word": "肖飞",
+        "onboard_time": 1745886682,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190677,
+        "num": 190677,
+        "word": "第五人格宁芙奖",
+        "onboard_time": 1745903904,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 113935,
+        "num": 189742,
+        "word": "饺子导演正在闭关创作哪吒3",
+        "onboard_time": 1745893462,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193741,
+        "num": 189711,
+        "word": "新娘因长相太美被质疑AI换脸",
+        "onboard_time": 1745854402,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189660,
+        "num": 189660,
+        "word": "倪萍说小王一博遇到对手了",
+        "onboard_time": 1745905162,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 157075,
+        "num": 157075,
+        "word": "外交部发布重磅视频不跪",
+        "onboard_time": 1745887522,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 151461,
+        "num": 151461,
+        "word": "惠英红 从湾仔乞讨到华表影后",
+        "onboard_time": 1745901742,
+        "rank": 49,
+        "category": "作品衍生,电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#高质量发展离不开高质量的劳动创造#"
+    }
+  }
+}
