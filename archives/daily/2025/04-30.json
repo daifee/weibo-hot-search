@@ -1,6 +1,6 @@
 {
   "startTime": 1745944279846,
-  "endTime": 1745954516400,
+  "endTime": 1745955376383,
   "band_list": [
     {
       "raw_hot": 1718131,
@@ -443,6 +443,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 63215,
+      "num": 56113,
+      "word": "陈飞宇千字长文",
+      "onboard_time": 1745953035,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 53788,
       "num": 53788,
       "word": "从肖某事件看4加4模式",
@@ -467,12 +475,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 35923,
-      "num": 44535,
-      "word": "陈飞宇千字长文",
-      "onboard_time": 1745953035,
-      "rank": 19,
-      "category": "剧集"
+      "raw_hot": 39310,
+      "num": 50540,
+      "word": "哥大新闻网站疑有董袭莹获奖名单",
+      "onboard_time": 1745953574,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32597,
@@ -539,20 +547,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 18568,
-      "num": 50540,
-      "word": "哥大新闻网站疑有董袭莹获奖名单",
-      "onboard_time": 1745953574,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 16645,
       "num": 19271,
       "word": "淮水竹亭伴手礼",
       "onboard_time": 1745953334,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 10819,
+      "num": 47812,
+      "word": "校方未回应寄语毕业生文章删除董袭莹",
+      "onboard_time": 1745954774,
+      "rank": 9,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
