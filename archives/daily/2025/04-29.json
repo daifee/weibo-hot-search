@@ -1,6 +1,6 @@
 {
   "startTime": 1745857837371,
-  "endTime": 1745901795064,
+  "endTime": 1745904304670,
   "band_list": [
     {
       "raw_hot": 3413245,
@@ -35,6 +35,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1774931,
+      "num": 1774931,
+      "word": "鹿晗正定伴手礼",
+      "onboard_time": 1745902044,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1583342,
+      "num": 1482773,
+      "word": "中日友好医院",
+      "onboard_time": 1745895083,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1567376,
       "num": 1567376,
       "word": "宫崎骏画的赵丽颖",
@@ -43,12 +59,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1482773,
-      "num": 1482773,
-      "word": "中日友好医院",
-      "onboard_time": 1745895083,
-      "rank": 5,
-      "category": "民生新闻"
+      "raw_hot": 1531168,
+      "num": 977833,
+      "word": "送曾黎礼物的粉丝道歉",
+      "onboard_time": 1745901562,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 1415763,
@@ -75,14 +91,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1171829,
-      "num": 891850,
-      "word": "送曾黎礼物的粉丝道歉",
-      "onboard_time": 1745901562,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1152635,
       "num": 394697,
       "word": "桃花源记 细思极恐",
@@ -99,6 +107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 980311,
+      "num": 980311,
+      "word": "我姓疆 热巴故乡",
+      "onboard_time": 1745901022,
+      "rank": 19,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 866968,
       "num": 866968,
       "word": "曾黎工作室再道歉",
@@ -113,6 +129,22 @@
       "onboard_time": 1745895800,
       "rank": 24,
       "category": "网红"
+    },
+    {
+      "raw_hot": 782443,
+      "num": 782443,
+      "word": "歌手2025定档",
+      "onboard_time": 1745901983,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 752034,
+      "num": 752034,
+      "word": "外交部",
+      "onboard_time": 1745898323,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 742632,
@@ -169,14 +201,6 @@
       "onboard_time": 1745887221,
       "rank": 20,
       "category": "财经"
-    },
-    {
-      "raw_hot": 599710,
-      "num": 599710,
-      "word": "外交部",
-      "onboard_time": 1745898323,
-      "rank": 41,
-      "category": "国内时政"
     },
     {
       "raw_hot": 589298,
@@ -251,6 +275,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 460751,
+      "num": 460751,
+      "word": "刘诗诗连破两次平台首日纪录",
+      "onboard_time": 1745901625,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 439739,
       "num": 297425,
       "word": "肖飞",
@@ -267,12 +299,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 396572,
-      "num": 396572,
-      "word": "我姓疆 热巴故乡",
-      "onboard_time": 1745901022,
-      "rank": 19,
-      "category": "旅游"
+      "raw_hot": 375967,
+      "num": 375967,
+      "word": "协和4加4博士水平没问题",
+      "onboard_time": 1745901502,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 352273,
@@ -315,6 +347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 318402,
+      "num": 318402,
+      "word": "御赐小仵作2",
+      "onboard_time": 1745903243,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 315285,
       "num": 214361,
       "word": "孟子义在飞机上直播",
@@ -323,12 +363,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 311482,
+      "num": 311482,
+      "word": "开始推理吧3发布会",
+      "onboard_time": 1745903004,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 309716,
       "num": 309716,
       "word": "为什么小时候常有的停电好像消失了",
       "onboard_time": 1745847141,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 309646,
+      "num": 309646,
+      "word": "钟丽缇小女儿完全继承妈妈基因",
+      "onboard_time": 1745902704,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 305611,
@@ -355,12 +411,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 291502,
+      "num": 291502,
+      "word": "库里被吹挑衅",
+      "onboard_time": 1745901262,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 283919,
       "num": 283919,
       "word": "4加4对学上来的医生公平吗",
       "onboard_time": 1745883140,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 282797,
+      "num": 282797,
+      "word": "惠英红 从湾仔乞讨到华表影后",
+      "onboard_time": 1745901742,
+      "rank": 34,
+      "category": "作品衍生,电影"
     },
     {
       "raw_hot": 282335,
@@ -443,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 238873,
+      "num": 238873,
+      "word": "董明珠年薪1437.2万",
+      "onboard_time": 1745903183,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 238478,
       "num": 422364,
       "word": "电影浪浪山小妖怪定档",
@@ -483,20 +563,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 217430,
+      "num": 217430,
+      "word": "减肚子干掉内脏脂肪的8个巧招",
+      "onboard_time": 1745901742,
+      "rank": 41,
+      "category": "幽默,民生新闻"
+    },
+    {
       "raw_hot": 214262,
       "num": 214262,
       "word": "张柏芝发文谈恋爱脑",
       "onboard_time": 1745882780,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 212852,
-      "num": 248330,
-      "word": "刘诗诗连破两次平台首日纪录",
-      "onboard_time": 1745901625,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 211490,
@@ -555,20 +635,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 202202,
+      "num": 202202,
+      "word": "成都巨响",
+      "onboard_time": 1745900963,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 201607,
+      "num": 201607,
+      "word": "中国不跪中国不退",
+      "onboard_time": 1745903723,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 200341,
       "num": 200341,
       "word": "追梦格林五分钟内一技犯一恶犯",
       "onboard_time": 1745900303,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 199206,
-      "num": 199206,
-      "word": "成都巨响",
-      "onboard_time": 1745900963,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 194690,
@@ -603,8 +691,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190012,
+      "num": 190012,
+      "word": "迪丽热巴埃及艳后转场",
+      "onboard_time": 1745904083,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188987,
-      "num": 188987,
+      "num": 228068,
       "word": "曾黎方将继续取证捍卫权益",
       "onboard_time": 1745900062,
       "rank": 40,
@@ -627,14 +723,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 180806,
-      "num": 200974,
-      "word": "惠英红 从湾仔乞讨到华表影后",
-      "onboard_time": 1745901742,
-      "rank": 34,
-      "category": "作品衍生,电影"
-    },
-    {
       "raw_hot": 178821,
       "num": 178821,
       "word": "保时捷CEO谈小米SU7Ultra",
@@ -649,6 +737,14 @@
       "onboard_time": 1745898381,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 170052,
+      "num": 214748,
+      "word": "第五人格宁芙奖",
+      "onboard_time": 1745903904,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 166070,
@@ -771,6 +867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134501,
+      "num": 371268,
+      "word": "明日方舟名创优品联动",
+      "onboard_time": 1745903063,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 129903,
       "num": 129903,
       "word": "胡塞武装称再袭美杜鲁门号航母",
@@ -795,6 +899,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 123357,
+      "num": 123357,
+      "word": "歌手2025",
+      "onboard_time": 1745902103,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 113539,
       "num": 539045,
       "word": "X200Ultra长焦巨炮的V单实力",
@@ -808,6 +920,14 @@
       "word": "酒店机器人3年亏了8个亿",
       "onboard_time": 1745851345,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110073,
+      "num": 539078,
+      "word": "业主物品放过道被保洁卖了起诉物业",
+      "onboard_time": 1745902762,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -1115,6 +1235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 78638,
+      "num": 228491,
+      "word": "哥大本科和巴纳德学院疑无此人",
+      "onboard_time": 1745904142,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77815,
       "num": 77815,
       "word": "美国建国250周年可能无烟花可放",
@@ -1172,7 +1300,7 @@
     },
     {
       "raw_hot": 73244,
-      "num": 154712,
+      "num": 323956,
       "word": "骑士4比0热火",
       "onboard_time": 1745895083,
       "rank": 40,
@@ -1209,6 +1337,14 @@
       "onboard_time": 1745886801,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 66948,
+      "num": 836941,
+      "word": "关税回旋镖让美国花店大伤脑筋",
+      "onboard_time": 1745903364,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 66101,
@@ -1315,14 +1451,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 56619,
-      "num": 179609,
-      "word": "协和4加4博士水平没问题",
-      "onboard_time": 1745901502,
-      "rank": 46,
-      "category": "教育"
-    },
-    {
       "raw_hot": 55057,
       "num": 57302,
       "word": "贾静雯女儿钟丽缇女儿同框",
@@ -1425,6 +1553,14 @@
       "onboard_time": 1745875514,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 38828,
+      "num": 284871,
+      "word": "网红聚宝盆汽车炫锅场事故致1死",
+      "onboard_time": 1745903603,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37725,
@@ -1665,14 +1801,6 @@
       "onboard_time": 1745901742,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 13346,
-      "num": 185040,
-      "word": "减肚子干掉内脏脂肪的8个巧招",
-      "onboard_time": 1745901742,
-      "rank": 41,
-      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 13020,

@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1745901795064,
+  "endTime": 1745904304670,
   "band_list": [
     {
       "raw_hot": 8960529,
@@ -163,6 +163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1774931,
+      "num": 1774931,
+      "word": "鹿晗正定伴手礼",
+      "onboard_time": 1745902044,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1768206,
       "num": 692698,
       "word": "华表奖内场",
@@ -184,6 +192,14 @@
       "word": "银川市长信箱已读乱回",
       "onboard_time": 1745727022,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1583342,
+      "num": 1482773,
+      "word": "中日友好医院",
+      "onboard_time": 1745895083,
+      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -211,6 +227,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1531168,
+      "num": 977833,
+      "word": "送曾黎礼物的粉丝道歉",
+      "onboard_time": 1745901562,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1507923,
       "num": 1507923,
       "word": "调休",
@@ -233,14 +257,6 @@
       "onboard_time": 1745836041,
       "rank": 0,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1482773,
-      "num": 1482773,
-      "word": "中日友好医院",
-      "onboard_time": 1745895083,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1421042,
@@ -368,14 +384,6 @@
       "word": "丁禹兮 舒心",
       "onboard_time": 1745678065,
       "rank": 0,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1171829,
-      "num": 891850,
-      "word": "送曾黎礼物的粉丝道歉",
-      "onboard_time": 1745901562,
-      "rank": 6,
       "category": "艺人"
     },
     {
@@ -521,6 +529,14 @@
       "onboard_time": 1745848104,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 980311,
+      "num": 980311,
+      "word": "我姓疆 热巴故乡",
+      "onboard_time": 1745901022,
+      "rank": 19,
+      "category": "旅游"
     },
     {
       "raw_hot": 979561,
@@ -723,6 +739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 782443,
+      "num": 782443,
+      "word": "歌手2025定档",
+      "onboard_time": 1745901983,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 778001,
       "num": 778001,
       "word": "假离婚后拒复婚女子将丈夫告上法院",
@@ -745,6 +769,14 @@
       "onboard_time": 1745770101,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 752034,
+      "num": 752034,
+      "word": "外交部",
+      "onboard_time": 1745898323,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 751910,
@@ -1041,14 +1073,6 @@
       "onboard_time": 1745826202,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 599710,
-      "num": 599710,
-      "word": "外交部",
-      "onboard_time": 1745898323,
-      "rank": 41,
-      "category": "国内时政"
     },
     {
       "raw_hot": 599078,
@@ -1499,6 +1523,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 460751,
+      "num": 460751,
+      "word": "刘诗诗连破两次平台首日纪录",
+      "onboard_time": 1745901625,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 457707,
       "num": 307133,
       "word": "香港高铁站偶遇杨幂",
@@ -1699,14 +1731,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 396572,
-      "num": 396572,
-      "word": "我姓疆 热巴故乡",
-      "onboard_time": 1745901022,
-      "rank": 19,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 396034,
       "num": 421094,
       "word": "谢霆锋妹妹转发了王菲",
@@ -1777,6 +1801,14 @@
       "onboard_time": 1745720361,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 375967,
+      "num": 375967,
+      "word": "协和4加4博士水平没问题",
+      "onboard_time": 1745901502,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 375738,
@@ -2003,6 +2035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 318402,
+      "num": 318402,
+      "word": "御赐小仵作2",
+      "onboard_time": 1745903243,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 316834,
       "num": 316834,
       "word": "伊朗港口爆炸14死700多伤",
@@ -2043,6 +2083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 311482,
+      "num": 311482,
+      "word": "开始推理吧3发布会",
+      "onboard_time": 1745903004,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 311386,
       "num": 311386,
       "word": "女子孕期坚持跳同一支舞记录变化",
@@ -2057,6 +2105,14 @@
       "onboard_time": 1745815823,
       "rank": 33,
       "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 309646,
+      "num": 309646,
+      "word": "钟丽缇小女儿完全继承妈妈基因",
+      "onboard_time": 1745902704,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 309238,
@@ -2179,6 +2235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 291502,
+      "num": 291502,
+      "word": "库里被吹挑衅",
+      "onboard_time": 1745901262,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 289805,
       "num": 289805,
       "word": "住酒店遭服务员闯入被吓进医院",
@@ -2225,6 +2289,14 @@
       "onboard_time": 1745883140,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 282797,
+      "num": 282797,
+      "word": "惠英红 从湾仔乞讨到华表影后",
+      "onboard_time": 1745901742,
+      "rank": 34,
+      "category": "作品衍生,电影"
     },
     {
       "raw_hot": 282335,
@@ -2667,6 +2739,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 238873,
+      "num": 238873,
+      "word": "董明珠年薪1437.2万",
+      "onboard_time": 1745903183,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 238586,
       "num": 302745,
       "word": "刘学义敖瑞鹏领衔主演",
@@ -2955,6 +3035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 217430,
+      "num": 217430,
+      "word": "减肚子干掉内脏脂肪的8个巧招",
+      "onboard_time": 1745901742,
+      "rank": 41,
+      "category": "幽默,民生新闻"
+    },
+    {
       "raw_hot": 217406,
       "num": 217406,
       "word": "杨仕泽回应新剧争议",
@@ -3017,14 +3105,6 @@
       "onboard_time": 1745748681,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 212852,
-      "num": 248330,
-      "word": "刘诗诗连破两次平台首日纪录",
-      "onboard_time": 1745901625,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 212584,
@@ -3259,6 +3339,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202202,
+      "num": 202202,
+      "word": "成都巨响",
+      "onboard_time": 1745900963,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 201607,
+      "num": 201607,
+      "word": "中国不跪中国不退",
+      "onboard_time": 1745903723,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 201503,
       "num": 201503,
       "word": "山东事业编成绩",
@@ -3329,14 +3425,6 @@
       "onboard_time": 1745738902,
       "rank": 34,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 199206,
-      "num": 199206,
-      "word": "成都巨响",
-      "onboard_time": 1745900963,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 198990,
@@ -3555,6 +3643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190012,
+      "num": 190012,
+      "word": "迪丽热巴埃及艳后转场",
+      "onboard_time": 1745904083,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189776,
       "num": 357418,
       "word": "领克900重新定义家庭大六座标准",
@@ -3596,7 +3692,7 @@
     },
     {
       "raw_hot": 188987,
-      "num": 188987,
+      "num": 228068,
       "word": "曾黎方将继续取证捍卫权益",
       "onboard_time": 1745900062,
       "rank": 40,
@@ -3851,14 +3947,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 180806,
-      "num": 200974,
-      "word": "惠英红 从湾仔乞讨到华表影后",
-      "onboard_time": 1745901742,
-      "rank": 34,
-      "category": "作品衍生,电影"
-    },
-    {
       "raw_hot": 179725,
       "num": 179725,
       "word": "吴磊好板正一男的",
@@ -4041,6 +4129,14 @@
       "onboard_time": 1745747602,
       "rank": 34,
       "category": "美食"
+    },
+    {
+      "raw_hot": 170052,
+      "num": 214748,
+      "word": "第五人格宁芙奖",
+      "onboard_time": 1745903904,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 170029,
@@ -5291,6 +5387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 134501,
+      "num": 371268,
+      "word": "明日方舟名创优品联动",
+      "onboard_time": 1745903063,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 133893,
       "num": 279338,
       "word": "米雪69岁状态",
@@ -5635,6 +5739,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 123357,
+      "num": 123357,
+      "word": "歌手2025",
+      "onboard_time": 1745902103,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123232,
       "num": 123232,
       "word": "中国制造开始反向席卷全球了",
@@ -5945,6 +6057,14 @@
       "onboard_time": 1745756362,
       "rank": 29,
       "category": "体育,其它"
+    },
+    {
+      "raw_hot": 110073,
+      "num": 539078,
+      "word": "业主物品放过道被保洁卖了起诉物业",
+      "onboard_time": 1745902762,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 109429,
@@ -7075,6 +7195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 78638,
+      "num": 228491,
+      "word": "哥大本科和巴纳德学院疑无此人",
+      "onboard_time": 1745904142,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77815,
       "num": 77815,
       "word": "美国建国250周年可能无烟花可放",
@@ -7204,7 +7332,7 @@
     },
     {
       "raw_hot": 73244,
-      "num": 154712,
+      "num": 323956,
       "word": "骑士4比0热火",
       "onboard_time": 1745895083,
       "rank": 40,
@@ -7353,6 +7481,14 @@
       "onboard_time": 1745811742,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 66948,
+      "num": 836941,
+      "word": "关税回旋镖让美国花店大伤脑筋",
+      "onboard_time": 1745903364,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 66781,
@@ -7545,14 +7681,6 @@
       "onboard_time": 1745743221,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 56619,
-      "num": 179609,
-      "word": "协和4加4博士水平没问题",
-      "onboard_time": 1745901502,
-      "rank": 46,
-      "category": "教育"
     },
     {
       "raw_hot": 56257,
@@ -8001,6 +8129,14 @@
       "onboard_time": 1745744662,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 38828,
+      "num": 284871,
+      "word": "网红聚宝盆汽车炫锅场事故致1死",
+      "onboard_time": 1745903603,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38450,
@@ -8881,14 +9017,6 @@
       "onboard_time": 1745742621,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 13346,
-      "num": 185040,
-      "word": "减肚子干掉内脏脂肪的8个巧招",
-      "onboard_time": 1745901742,
-      "rank": 41,
-      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 13186,
