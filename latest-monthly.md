@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/29 17:28:09
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/29 17:42:35
 </p>
 </blockquote>
 <p>
@@ -136,7 +136,7 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BE%BD%E9%98%B3%E4%B8%80%E9%A5%AD%E5%BA%97%E7%81%AB%E7%81%BE22%E6%AD%BB3%E4%BC%A4%23" target="weibo">
-辽阳一饭店火灾22死3伤（热度：8521656）
+辽阳一饭店火灾22死3伤（热度：8661549）
 </a>
 </li>
 
@@ -5409,6 +5409,12 @@ SM新男团 撞名（热度：910464）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%88%E9%9B%AA%E7%9A%84%E8%8C%B6%E9%97%A8%E5%BA%97%E9%80%9A%E7%9F%A5%E8%83%BD%E5%96%9D%E5%A5%B6%E8%8C%B6%E5%B0%B1%E4%B8%8D%E8%A6%81%E5%96%9D%E6%B0%B4%23" target="weibo">
+奈雪的茶门店通知能喝奶茶就不要喝水（热度：896892）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E6%B5%99%E6%B1%9F%E9%98%9F%E5%A4%96%E6%8F%B4%E5%9D%A0%E4%BA%A1%23" target="weibo">
 杭州警方通报浙江队外援坠亡（热度：896216）
 </a>
@@ -6005,12 +6011,6 @@ bite me男伴舞（热度：832510）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2326%E5%B2%81%E6%B2%B3%E5%8D%97%E7%94%B7%E7%94%9F%E5%9B%A0%E5%8F%8C%E5%90%91%E6%8A%91%E9%83%81%E6%84%8F%E5%A4%96%E6%97%A9%E9%80%9D%23" target="weibo">
 26岁河南男生因双向抑郁意外早逝（热度：830150）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%A3%9E%E5%AE%87%E6%9C%8B%E5%8F%8B%E5%9C%88%23" target="weibo">
-陈飞宇朋友圈（热度：829818）
 </a>
 </li>
 

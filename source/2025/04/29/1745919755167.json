@@ -1,0 +1,410 @@
+{
+  "runTime": 1745919755167,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8661549,
+        "num": 9663652,
+        "word": "辽阳一饭店火灾22死3伤",
+        "onboard_time": 1745916264,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 896892,
+        "num": 896892,
+        "word": "奈雪的茶门店通知能喝奶茶就不要喝水",
+        "onboard_time": 1745916743,
+        "rank": 1,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 35362,
+        "num": 517731,
+        "word": "光荣属于劳动者",
+        "onboard_time": 1745913563,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 512291,
+        "num": 512291,
+        "word": "永辉超市回应标价7.96元实收8元",
+        "onboard_time": 1745911763,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 328475,
+        "num": 328475,
+        "word": "董袭莹疑曾获巴纳德学院表彰",
+        "onboard_time": 1745916264,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2979428,
+        "num": 328011,
+        "word": "曾黎 灾难公关",
+        "onboard_time": 1745908822,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 440055,
+        "num": 321818,
+        "word": "章子怡舞台上意外摔倒已就医",
+        "onboard_time": 1745918064,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1534958,
+        "num": 313619,
+        "word": "曾黎铁粉 路人都觉得心寒的程度",
+        "onboard_time": 1745908822,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 404310,
+        "num": 308952,
+        "word": "阿楚姑娘",
+        "onboard_time": 1745917644,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303035,
+        "num": 303035,
+        "word": "外交部发布双语硬核视频",
+        "onboard_time": 1745914940,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 696783,
+        "num": 302844,
+        "word": "为了报复五一调休 我决定",
+        "onboard_time": 1745910804,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 663791,
+        "num": 300161,
+        "word": "肖飞被开除董袭莹问题何时查",
+        "onboard_time": 1745904442,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 401779,
+        "num": 297408,
+        "word": "协和4加4除了经济学还有园艺和外语",
+        "onboard_time": 1745912182,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 313805,
+        "num": 295163,
+        "word": "中国不跪中国不退",
+        "onboard_time": 1745903723,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 377682,
+        "num": 293010,
+        "word": "追星不该被这样情感剥削",
+        "onboard_time": 1745915964,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 356912,
+        "num": 290049,
+        "word": "鹿晗正定伴手礼",
+        "onboard_time": 1745902044,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290040,
+        "num": 290040,
+        "word": "第一批追高黄金的年轻人已经亏麻了",
+        "onboard_time": 1745917884,
+        "rank": 16,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 260436,
+        "num": 260436,
+        "word": "刘美含多平台掉粉",
+        "onboard_time": 1745914222,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19276,
+        "num": 252413,
+        "word": "专家说替代你的不是AI是会用AI的人",
+        "onboard_time": 1745919024,
+        "rank": 18,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 11670,
+        "num": 251319,
+        "word": "龚翔宇传承了中国女排哪些技术特色",
+        "onboard_time": 1745918544,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250617,
+        "num": 250617,
+        "word": "女生宿舍捉奸被推下楼不属实",
+        "onboard_time": 1745916982,
+        "rank": 20,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 245069,
+        "num": 245069,
+        "word": "知网已搜不到董袭莹论文",
+        "onboard_time": 1745891841,
+        "rank": 21,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 202565,
+        "num": 235011,
+        "word": "王子奇新剧书法都是自己写的",
+        "onboard_time": 1745918843,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209638,
+        "num": 233418,
+        "word": "专家称中国股市步入不跪牛",
+        "onboard_time": 1745918784,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 140976,
+        "num": 232402,
+        "word": "陈妍希潘玮柏力挺杨丞琳",
+        "onboard_time": 1745917522,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232254,
+        "num": 232254,
+        "word": "邓超羡慕孙俪剧里的老公",
+        "onboard_time": 1745917764,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227906,
+        "num": 227906,
+        "word": "宫崎骏画的赵丽颖",
+        "onboard_time": 1745900303,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 203883,
+        "num": 203883,
+        "word": "日本请求再次租借熊猫",
+        "onboard_time": 1745917161,
+        "rank": 27,
+        "category": "国内时政,国际时政"
+      },
+      {
+        "raw_hot": 202062,
+        "num": 202062,
+        "word": "陈梦说巴黎奥运会夺冠后哭了",
+        "onboard_time": 1745911642,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68546,
+        "num": 201664,
+        "word": "医德问题才是公众关注的焦点",
+        "onboard_time": 1745918664,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 283960,
+        "num": 200816,
+        "word": "你不需要给小肚子寻找价值",
+        "onboard_time": 1745918185,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 189549,
+        "num": 199837,
+        "word": "外交部回应美方称应由中国缓和关税战",
+        "onboard_time": 1745915122,
+        "rank": 31,
+        "category": "国际时政,国内时政"
+      },
+      {
+        "raw_hot": 266431,
+        "num": 199237,
+        "word": "极氪001硬抗大货车高速追尾",
+        "onboard_time": 1745917943,
+        "rank": 32,
+        "category": "汽车,民生新闻"
+      },
+      {
+        "raw_hot": 198743,
+        "num": 198743,
+        "word": "歌手2025首发陈楚生白举纲",
+        "onboard_time": 1745918125,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197162,
+        "num": 197162,
+        "word": "杨幂兔子警官",
+        "onboard_time": 1745909062,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186897,
+        "num": 186897,
+        "word": "内娱终于有全开麦了",
+        "onboard_time": 1745898502,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 186507,
+        "num": 186507,
+        "word": "协和",
+        "onboard_time": 1745886801,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 172705,
+        "num": 172705,
+        "word": "我消费就吴昕这样",
+        "onboard_time": 1745913982,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161970,
+        "num": 161970,
+        "word": "女主持人曝曾被富豪开价买卵",
+        "onboard_time": 1745911525,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25610,
+        "num": 161521,
+        "word": "日本大米连续16周上涨",
+        "onboard_time": 1745918905,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 6573,
+        "num": 161293,
+        "word": "自制车牌上路会面临怎样的法律后果",
+        "onboard_time": 1745919682,
+        "rank": 40,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 161161,
+        "num": 161161,
+        "word": "迪丽热巴埃及艳后转场",
+        "onboard_time": 1745904083,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157406,
+        "num": 157406,
+        "word": "Makiyo向杨丞琳道歉",
+        "onboard_time": 1745917764,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152561,
+        "num": 152561,
+        "word": "杨丞琳方斥Makiyo造谣",
+        "onboard_time": 1745910923,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148770,
+        "num": 148770,
+        "word": "在国外不要随便讲中文",
+        "onboard_time": 1745916322,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143120,
+        "num": 143120,
+        "word": "9岁男孩抗癌8年化疗108次",
+        "onboard_time": 1745912482,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141095,
+        "num": 141095,
+        "word": "12岁女孩被继母关厕所17天虐待致死",
+        "onboard_time": 1745898502,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137785,
+        "num": 137785,
+        "word": "神十九因气象原因推迟返回",
+        "onboard_time": 1745915900,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 135388,
+        "num": 135388,
+        "word": "歌手2025定档",
+        "onboard_time": 1745901983,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129484,
+        "num": 129484,
+        "word": "外科医生肖飞事件让人细思极恐",
+        "onboard_time": 1745919381,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记重要讲话汇聚磅礴力量#"
+    }
+  }
+}
