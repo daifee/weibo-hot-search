@@ -1,6 +1,6 @@
 {
   "startTime": 1745857837371,
-  "endTime": 1745923569427,
+  "endTime": 1745925695957,
   "band_list": [
     {
       "raw_hot": 8661549,
@@ -75,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1737517,
+      "num": 339266,
+      "word": "董小姐的医学奇迹",
+      "onboard_time": 1745920043,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1583342,
       "num": 1482773,
       "word": "中日友好医院",
@@ -113,14 +121,6 @@
       "onboard_time": 1745891600,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1333312,
-      "num": 339266,
-      "word": "董小姐的医学奇迹",
-      "onboard_time": 1745920043,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1281294,
@@ -483,12 +483,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 424809,
+      "num": 424809,
+      "word": "桂林理工大学通报",
+      "onboard_time": 1745923582,
+      "rank": 3,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 420918,
       "num": 420918,
       "word": "董袭莹疑曾获巴纳德学院表彰",
       "onboard_time": 1745916264,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 411629,
+      "num": 340751,
+      "word": "刘美含多平台掉粉",
+      "onboard_time": 1745914222,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 408266,
@@ -539,6 +555,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 376326,
+      "num": 376326,
+      "word": "辽阳一饭店火灾原因正在调查",
+      "onboard_time": 1745922983,
+      "rank": 16,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 370238,
+      "num": 370238,
+      "word": "校长寄语毕业生文章删除董袭莹",
+      "onboard_time": 1745921364,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 352273,
       "num": 352273,
       "word": "刘诗诗经常请吃饭的漂亮姐姐",
@@ -547,12 +579,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 345651,
-      "num": 340751,
-      "word": "刘美含多平台掉粉",
-      "onboard_time": 1745914222,
-      "rank": 28,
-      "category": "艺人"
+      "raw_hot": 351864,
+      "num": 351864,
+      "word": "对辽宁辽阳一饭店火灾挂牌督办",
+      "onboard_time": 1745924662,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 334490,
@@ -707,14 +739,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 289611,
-      "num": 339953,
-      "word": "校长寄语毕业生文章删除董袭莹",
-      "onboard_time": 1745921364,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 289389,
       "num": 289389,
       "word": "曝五月天石头移民英国",
@@ -777,14 +801,6 @@
       "onboard_time": 1745921663,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 275733,
-      "num": 281046,
-      "word": "辽阳一饭店火灾原因正在调查",
-      "onboard_time": 1745922983,
-      "rank": 16,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 274421,
@@ -931,6 +947,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 237929,
+      "num": 237929,
+      "word": "大学生花15万全款买房后的生活",
+      "onboard_time": 1745924301,
+      "rank": 30,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 237539,
       "num": 237539,
       "word": "董袭莹的行为触碰了哪些法律红线",
@@ -955,6 +979,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 229379,
+      "num": 305177,
+      "word": "孔雪儿出道多年第一次放弃表情管理",
+      "onboard_time": 1745924662,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 227453,
       "num": 227453,
       "word": "举报男子成都地铁偷拍女生发声",
@@ -969,6 +1001,22 @@
       "onboard_time": 1745892922,
       "rank": 33,
       "category": "国内时政,体育"
+    },
+    {
+      "raw_hot": 224995,
+      "num": 224995,
+      "word": "陈清晨谈孙颖莎",
+      "onboard_time": 1745924482,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 224037,
+      "num": 329578,
+      "word": "还是会想你",
+      "onboard_time": 1745923942,
+      "rank": 9,
+      "category": "音乐"
     },
     {
       "raw_hot": 220680,
@@ -1347,6 +1395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171717,
+      "num": 251613,
+      "word": "淮水竹亭",
+      "onboard_time": 1745924722,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 171622,
       "num": 171622,
       "word": "淮水竹亭 东方美学",
@@ -1395,12 +1451,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 165029,
+      "num": 165029,
+      "word": "校长寄语毕业生曾提到董袭莹",
+      "onboard_time": 1745923523,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 163833,
       "num": 289731,
       "word": "秦彻新卡面坠空博弈有哪些精彩操作",
       "onboard_time": 1745911282,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 163425,
+      "num": 245346,
+      "word": "虞书欣风动发动心动",
+      "onboard_time": 1745924362,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 163001,
@@ -1424,6 +1496,22 @@
       "word": "五一随手拍",
       "onboard_time": 1745909782,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161067,
+      "num": 161067,
+      "word": "成龙章子怡王一博彩排",
+      "onboard_time": 1745925081,
+      "rank": 41,
+      "category": "综艺,电影"
+    },
+    {
+      "raw_hot": 160119,
+      "num": 278896,
+      "word": "外科医生肖飞事件让人细思极恐",
+      "onboard_time": 1745919381,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -1571,14 +1659,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 142049,
-      "num": 278896,
-      "word": "外科医生肖飞事件让人细思极恐",
-      "onboard_time": 1745919381,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 141100,
       "num": 836941,
       "word": "关税回旋镖让美国花店大伤脑筋",
@@ -1593,6 +1673,14 @@
       "onboard_time": 1745916081,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 138797,
+      "num": 138797,
+      "word": "李沁扇巴掌转场",
+      "onboard_time": 1745924122,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 138653,
@@ -1667,14 +1755,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 132092,
-      "num": 132092,
-      "word": "校长寄语毕业生曾提到董袭莹",
-      "onboard_time": 1745923523,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 129903,
       "num": 129903,
       "word": "胡塞武装称再袭美杜鲁门号航母",
@@ -1745,6 +1825,22 @@
       "onboard_time": 1745906960,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 117014,
+      "num": 117014,
+      "word": "刘诗诗没有特效就自己加",
+      "onboard_time": 1745925621,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 115804,
+      "num": 278186,
+      "word": "米哈游总裁大伟哥全国劳模",
+      "onboard_time": 1745922562,
+      "rank": 19,
+      "category": "游戏,民生新闻"
     },
     {
       "raw_hot": 114798,
@@ -2107,6 +2203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 83380,
+      "num": 296031,
+      "word": "时代少年团演唱会直播",
+      "onboard_time": 1745925322,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 82047,
       "num": 186515,
       "word": "仪式感原来是这个样子",
@@ -2267,6 +2371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 69863,
+      "num": 289098,
+      "word": "广西一车主拖欠路边停车费3.6万元",
+      "onboard_time": 1745925081,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69651,
       "num": 69651,
       "word": "西班牙停电",
@@ -2329,14 +2441,6 @@
       "onboard_time": 1745854343,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 63578,
-      "num": 278186,
-      "word": "米哈游总裁大伟哥全国劳模",
-      "onboard_time": 1745922562,
-      "rank": 19,
-      "category": "游戏,民生新闻"
     },
     {
       "raw_hot": 62503,
@@ -2409,6 +2513,14 @@
       "onboard_time": 1745922622,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 58927,
+      "num": 238237,
+      "word": "赛力斯一季度营业收入191.47亿元",
+      "onboard_time": 1745925381,
+      "rank": 29,
+      "category": "汽车,财经"
     },
     {
       "raw_hot": 58700,
@@ -2819,6 +2931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22815,
+      "num": 168095,
+      "word": "巴基斯坦陆军首领送家人去英国",
+      "onboard_time": 1745924603,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 21677,
       "num": 23730,
       "word": "徐明浩 表现力",
@@ -2833,6 +2953,14 @@
       "onboard_time": 1745899042,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 20097,
+      "num": 309565,
+      "word": "3个细节撕开俄乌无条件谈判真相",
+      "onboard_time": 1745924962,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 19660,
@@ -2857,6 +2985,14 @@
       "onboard_time": 1745864895,
       "rank": 43,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 18600,
+      "num": 165215,
+      "word": "英美因鼠患引发死亡事件",
+      "onboard_time": 1745925203,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 18310,
@@ -2897,6 +3033,14 @@
       "onboard_time": 1745863994,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 16936,
+      "num": 292298,
+      "word": "超市反向抹零侵害了消费者哪些权益",
+      "onboard_time": 1745924482,
+      "rank": 18,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 16695,
@@ -3057,6 +3201,14 @@
       "onboard_time": 1745900482,
       "rank": 39,
       "category": "幽默,民生新闻"
+    },
+    {
+      "raw_hot": 9814,
+      "num": 165035,
+      "word": "扁头是一场隐藏的权力规训",
+      "onboard_time": 1745925261,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 9658,
