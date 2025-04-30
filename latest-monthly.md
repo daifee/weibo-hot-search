@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/30 18:44:23
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/30 19:21:14
 </p>
 </blockquote>
 <p>
@@ -2937,6 +2937,12 @@ Simon事件（热度：1411247）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9D%92%E7%B0%AA%E8%A1%8C%E5%AE%98%E5%AE%A3%E6%94%B9%E5%90%8D%E7%B0%AA%E4%B8%AD%E5%BD%95%23" target="weibo">
+青簪行官宣改名簪中录（热度：1319838）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%81%9C%E6%92%AD%E5%8D%8A%E5%B9%B4%E5%90%8E%E4%B8%89%E5%8F%AA%E7%BE%8A%E5%B0%8F%E6%9D%A8%E8%87%BB%E9%80%89APP%E4%B8%8A%E7%BA%BF%23" target="weibo">
 停播半年后三只羊小杨臻选APP上线（热度：1319303）
 </a>
@@ -4701,6 +4707,12 @@ IU向雪莉金赛纶推荐同一心理医生（热度：1041446）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B0%B4%E8%B4%9D%E8%80%81%E6%9D%BF%E7%82%92%E9%BB%84%E9%87%91%E4%BA%8F%E4%BA%86%E4%B8%80%E4%B8%AA%E4%BA%BF%23" target="weibo">
+水贝老板炒黄金亏了一个亿（热度：1005083）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%23" target="weibo">
 美股（热度：1003324）
 </a>
@@ -5871,6 +5883,12 @@ SM新男团 撞名（热度：910464）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%AF%B4%E8%B7%A8%E5%BA%A6%E5%A6%82%E6%AD%A4%E4%B9%8B%E5%A4%A7%E7%9A%84%E6%88%91%E4%B9%9F%E6%B2%A1%E8%A7%81%E8%BF%87%23" target="weibo">
+张雪峰说跨度如此之大的我也没见过（热度：862227）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%922%E5%AF%86%E9%92%A5%E7%AC%AC3%E6%AC%A1%E5%BB%B6%E6%9C%9F%23" target="weibo">
 哪吒2密钥第3次延期（热度：861784）
 </a>
@@ -5993,24 +6011,6 @@ SM新男团 撞名（热度：910464）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B9%E7%95%99%E5%9C%A8%E4%BA%86%E4%BB%96%E6%9C%80%E7%88%B1%E7%9A%84%E9%82%A3%E4%B8%80%E5%B9%B4%23" target="weibo">
 她留在了他最爱的那一年（热度：851215）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E6%8A%93%E8%8E%B73%E5%90%8D%E8%8F%B2%E5%BE%8B%E5%AE%BE%E9%97%B4%E8%B0%8D%23" target="weibo">
-我国抓获3名菲律宾间谍（热度：850873）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AB%A0%E8%8B%A5%E6%A5%A0%E5%9B%9E%E5%BA%94%E7%B2%89%E4%B8%9D%E5%90%8D%E5%8F%AB%E6%A5%A0%E6%9C%8B%E5%8F%8B%23" target="weibo">
-章若楠回应粉丝名叫楠朋友（热度：849235）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E6%8B%92%E8%82%96%E9%A3%9E%E6%89%93%E6%8B%9B%E5%91%BC%E5%8C%BB%E7%94%9F%E6%98%AF%E7%9B%98%E5%B0%BC%E8%A5%BF%E6%9E%97%E6%88%90%E5%91%98%23" target="weibo">
-曝拒肖飞打招呼医生是盘尼西林成员（热度：847854）
 </a>
 </li>
 

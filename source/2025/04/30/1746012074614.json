@@ -1,0 +1,410 @@
+{
+  "runTime": 1746012074614,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1722445,
+        "num": 1722445,
+        "word": "十三州府取关曾黎",
+        "onboard_time": 1746002842,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1152294,
+        "num": 1152294,
+        "word": "董袭莹发表临床实践指南时是规培生",
+        "onboard_time": 1746005842,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36866,
+        "num": 1018674,
+        "word": "五四奖章新时代青年先锋奖全名单",
+        "onboard_time": 1745988383,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1319838,
+        "num": 1018390,
+        "word": "青簪行官宣改名簪中录",
+        "onboard_time": 1746009801,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1005083,
+        "num": 1005083,
+        "word": "水贝老板炒黄金亏了一个亿",
+        "onboard_time": 1746008483,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 862227,
+        "num": 862227,
+        "word": "张雪峰说跨度如此之大的我也没见过",
+        "onboard_time": 1746008901,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 833108,
+        "num": 833108,
+        "word": "有协和4加4博士论文正文仅12页",
+        "onboard_time": 1746006141,
+        "rank": 6,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 443498,
+        "num": 443498,
+        "word": "董某莹事件公众所求的无非是公平",
+        "onboard_time": 1746001282,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 386385,
+        "num": 386385,
+        "word": "山西太原一处居民小区爆炸",
+        "onboard_time": 1745995521,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264472,
+        "num": 380588,
+        "word": "饶毅教授曾批协和任人唯亲",
+        "onboard_time": 1746010702,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 607999,
+        "num": 375057,
+        "word": "女子3小时内喝八杯水中毒进ICU",
+        "onboard_time": 1746001761,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 440172,
+        "num": 360329,
+        "word": "papi酱梦女",
+        "onboard_time": 1746003022,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 406179,
+        "num": 356336,
+        "word": "曾黎",
+        "onboard_time": 1746000622,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402981,
+        "num": 346954,
+        "word": "张艺凡因为身高错失过好角色",
+        "onboard_time": 1746009860,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 341339,
+        "num": 341339,
+        "word": "屠呦呦当选美国科学院外籍院士",
+        "onboard_time": 1745987784,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 329959,
+        "num": 329959,
+        "word": "泫雅回归",
+        "onboard_time": 1746007581,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 191600,
+        "num": 329838,
+        "word": "鞠婧祎说把想成为变成正在成为",
+        "onboard_time": 1745993901,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188809,
+        "num": 328940,
+        "word": "林俊杰北京加场",
+        "onboard_time": 1746007400,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 12801,
+        "num": 328400,
+        "word": "早期的增程式插电混动车是什么样的",
+        "onboard_time": 1746010881,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 53346,
+        "num": 327937,
+        "word": "律师解读肖飞手术期间离岗40分钟",
+        "onboard_time": 1746011060,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 398453,
+        "num": 326924,
+        "word": "蒋梦婕初恋对象是吴谨言同班同学",
+        "onboard_time": 1746007161,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 469284,
+        "num": 326479,
+        "word": "杜海涛约女明星吃饭",
+        "onboard_time": 1746004281,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357685,
+        "num": 326041,
+        "word": "女子生理期弄脏店家多件新衣后拒买",
+        "onboard_time": 1745980340,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 343118,
+        "num": 325171,
+        "word": "协和医学院董某莹事件最新进展",
+        "onboard_time": 1746010640,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76553,
+        "num": 324904,
+        "word": "膀胱癌临床指南第一作者",
+        "onboard_time": 1746007102,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 324314,
+        "num": 324314,
+        "word": "麻醉科医生谈肖飞手术离场40分钟",
+        "onboard_time": 1745990481,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262965,
+        "num": 262965,
+        "word": "失去美国订单后才发现到处是商机",
+        "onboard_time": 1746008122,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 138676,
+        "num": 246423,
+        "word": "淮水竹亭",
+        "onboard_time": 1746007641,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104780,
+        "num": 244845,
+        "word": "张云龙说就赵一博你种过地",
+        "onboard_time": 1746010942,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157548,
+        "num": 244809,
+        "word": "夫子庙现强制卖花10元一束秒变一朵",
+        "onboard_time": 1746009321,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244790,
+        "num": 244790,
+        "word": "太原小区爆炸事故现场曝光",
+        "onboard_time": 1746009622,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241632,
+        "num": 241632,
+        "word": "专家称4加4初衷是培养医学领袖",
+        "onboard_time": 1745990722,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220701,
+        "num": 220701,
+        "word": "西安沙尘暴",
+        "onboard_time": 1746009982,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204959,
+        "num": 204959,
+        "word": "董袭莹的研究领域五花八门",
+        "onboard_time": 1745999421,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196239,
+        "num": 196239,
+        "word": "美运钞车掉落30万现金被路人瓜分",
+        "onboard_time": 1746005123,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 196059,
+        "num": 196059,
+        "word": "黄金",
+        "onboard_time": 1746011362,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 185756,
+        "num": 185756,
+        "word": "姜逸磊你能不能不要再抽烟了",
+        "onboard_time": 1746009201,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 155185,
+        "num": 155185,
+        "word": "济南天气",
+        "onboard_time": 1746010461,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155159,
+        "num": 155159,
+        "word": "医学院博士称近几年协和4+4没人淘汰",
+        "onboard_time": 1746011241,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 5751,
+        "num": 155109,
+        "word": "格力需要防间谍吗",
+        "onboard_time": 1746011782,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155059,
+        "num": 155059,
+        "word": "月嫂下户躲卧室抱着宝宝流泪",
+        "onboard_time": 1745999302,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146274,
+        "num": 146274,
+        "word": "堵车",
+        "onboard_time": 1746006801,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145178,
+        "num": 145178,
+        "word": "到了云南才知道虫子也是一道菜",
+        "onboard_time": 1746010640,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 102797,
+        "num": 143187,
+        "word": "杨紫张哲华新剧演恋人",
+        "onboard_time": 1745999302,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142265,
+        "num": 142265,
+        "word": "知名医生称协和4加4博士或不敢做手术",
+        "onboard_time": 1746011660,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138191,
+        "num": 138191,
+        "word": "神十九返回舱着陆",
+        "onboard_time": 1745991082,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 121902,
+        "num": 121902,
+        "word": "义乌玩具商接到美国零售巨出货通知",
+        "onboard_time": 1746011902,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121369,
+        "num": 121369,
+        "word": "00后的装修到底有多离谱",
+        "onboard_time": 1746008483,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120601,
+        "num": 120601,
+        "word": "蔡旭哲率先出舱",
+        "onboard_time": 1746010881,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 117597,
+        "num": 117597,
+        "word": "昀牵孟绕",
+        "onboard_time": 1745996061,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#支持全球南方国家走好现代化道路#"
+    }
+  }
+}
