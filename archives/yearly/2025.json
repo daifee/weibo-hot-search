@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1746012968721,
+  "endTime": 1746017313392,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -2043,6 +2043,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 3272242,
+      "num": 3272242,
+      "word": "协和医学院董某莹事件最新进展",
+      "onboard_time": 1746010640,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 3266055,
       "num": 1258088,
       "word": "大S今日下葬",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1737947955,
       "rank": 21,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 3027813,
-      "num": 3027813,
-      "word": "虞书欣 顺手的事",
-      "onboard_time": 1736072185,
-      "rank": 0,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [
