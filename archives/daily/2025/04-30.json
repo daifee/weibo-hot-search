@@ -1,6 +1,6 @@
 {
   "startTime": 1745944279846,
-  "endTime": 1745998010299,
+  "endTime": 1745998690105,
   "band_list": [
     {
       "raw_hot": 2742411,
@@ -11,8 +11,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 2586720,
-      "num": 2586720,
+      "raw_hot": 2613814,
+      "num": 2613814,
       "word": "协和往年4加4录取名单已无法查询",
       "onboard_time": 1745993481,
       "rank": 22,
@@ -115,20 +115,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1100707,
+      "num": 1100707,
+      "word": "山西太原一处居民小区爆炸",
+      "onboard_time": 1745995521,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1045613,
       "num": 1045613,
       "word": "抗癌博主小杨哥病逝",
       "onboard_time": 1745974822,
       "rank": 3,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1018972,
-      "num": 1018972,
-      "word": "山西太原一处居民小区爆炸",
-      "onboard_time": 1745995521,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 985670,
@@ -267,6 +267,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 591289,
+      "num": 406244,
+      "word": "昀牵孟绕",
+      "onboard_time": 1745996061,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 588623,
       "num": 522084,
       "word": "韩安冉准备明年生三胎",
@@ -281,14 +289,6 @@
       "onboard_time": 1745970380,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 565502,
-      "num": 358505,
-      "word": "昀牵孟绕",
-      "onboard_time": 1745996061,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 547174,
@@ -379,6 +379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 453628,
+      "num": 397133,
+      "word": "手机壳",
+      "onboard_time": 1745995882,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 450124,
       "num": 450124,
       "word": "陈丽君等30人获五四奖章",
@@ -393,6 +401,14 @@
       "onboard_time": 1745992702,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 427529,
+      "num": 653425,
+      "word": "庄达菲领衔主演长安的荔枝",
+      "onboard_time": 1745996602,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 427221,
@@ -424,6 +440,14 @@
       "word": "李铁二审仍被判20年",
       "onboard_time": 1745975482,
       "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 408298,
+      "num": 408298,
+      "word": "国际不打小孩日",
+      "onboard_time": 1745996602,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -555,22 +579,6 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 331851,
-      "num": 331851,
-      "word": "庄达菲领衔主演长安的荔枝",
-      "onboard_time": 1745996602,
-      "rank": 16,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 326250,
-      "num": 249804,
-      "word": "手机壳",
-      "onboard_time": 1745995882,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 324501,
       "num": 324501,
       "word": "小区一女子戴面具恐吓电梯内幼童",
@@ -627,6 +635,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 295990,
+      "num": 295990,
+      "word": "没等到司藤2等到了云渺",
+      "onboard_time": 1745997502,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 291094,
       "num": 254644,
       "word": "生命树 胡歌",
@@ -651,12 +667,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 268032,
-      "num": 268032,
-      "word": "国际不打小孩日",
-      "onboard_time": 1745996602,
-      "rank": 20,
-      "category": "民生新闻"
+      "raw_hot": 271381,
+      "num": 271381,
+      "word": "到底动了谁的蛋糕",
+      "onboard_time": 1745997681,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 260049,
@@ -947,6 +963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197535,
+      "num": 399659,
+      "word": "高圆圆我叫你老公你敢答应吗",
+      "onboard_time": 1745998041,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196933,
       "num": 246572,
       "word": "惊天魔盗团3",
@@ -1043,14 +1067,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 182941,
-      "num": 182941,
-      "word": "没等到司藤2等到了云渺",
-      "onboard_time": 1745997502,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 182822,
       "num": 182822,
       "word": "穷游富游终不似少年游",
@@ -1097,14 +1113,6 @@
       "onboard_time": 1745976263,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 175039,
-      "num": 175039,
-      "word": "到底动了谁的蛋糕",
-      "onboard_time": 1745997681,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 173348,
@@ -1171,6 +1179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 167630,
+      "num": 263385,
+      "word": "王心凌力挺杨丞琳",
+      "onboard_time": 1745995401,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167076,
       "num": 167076,
       "word": "花300元买了一只狗的余生",
@@ -1211,20 +1227,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163239,
+      "num": 398554,
+      "word": "林高远父亲曾说在国家队待够3年就行",
+      "onboard_time": 1745997621,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162784,
       "num": 465250,
       "word": "中国排面亮相莫斯科",
       "onboard_time": 1745984362,
       "rank": 14,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 162161,
-      "num": 262260,
-      "word": "林高远父亲曾说在国家队待够3年就行",
-      "onboard_time": 1745997621,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 161411,
@@ -1251,6 +1267,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 159190,
+      "num": 255127,
+      "word": "孙颖莎发言4个小脑袋排排看",
+      "onboard_time": 1745997322,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158609,
       "num": 158609,
       "word": "解放军仪仗队亮相越南阅兵",
@@ -1275,12 +1299,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 155932,
-      "num": 155932,
+      "raw_hot": 156842,
+      "num": 156842,
       "word": "协和医学院曾发文解读4加4模式",
       "onboard_time": 1745986822,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156579,
+      "num": 156579,
+      "word": "孙俪拍戏包一桌馄饨",
+      "onboard_time": 1745998041,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 154545,
@@ -1299,14 +1331,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 153947,
-      "num": 263385,
-      "word": "王心凌力挺杨丞琳",
-      "onboard_time": 1745995401,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 150464,
       "num": 312284,
       "word": "无畏人生在于体验",
@@ -1320,6 +1344,14 @@
       "word": "移动互联网未成年人模式正式发布",
       "onboard_time": 1745982742,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147596,
+      "num": 147596,
+      "word": "医生分析董小姐犯众怒原因",
+      "onboard_time": 1745998402,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -1395,6 +1427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127605,
+      "num": 127605,
+      "word": "杨肸子回应像1988德善",
+      "onboard_time": 1745998461,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126332,
       "num": 126332,
       "word": "传统医学生要规培3年4加4仅需1年",
@@ -1460,7 +1500,7 @@
     },
     {
       "raw_hot": 115343,
-      "num": 268759,
+      "num": 401801,
       "word": "导航软件关键时候真的能救命",
       "onboard_time": 1745996602,
       "rank": 18,
@@ -1505,14 +1545,6 @@
       "onboard_time": 1745996362,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 106736,
-      "num": 255127,
-      "word": "孙颖莎发言4个小脑袋排排看",
-      "onboard_time": 1745997322,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 105447,
@@ -1924,11 +1956,19 @@
     },
     {
       "raw_hot": 58659,
-      "num": 202652,
+      "num": 404701,
       "word": "一起迎接龙马乘组回家",
       "onboard_time": 1745997921,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 55342,
+      "num": 277278,
+      "word": "苏杯中国vs泰国阵容",
+      "onboard_time": 1745997800,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 53788,
@@ -1940,7 +1980,7 @@
     },
     {
       "raw_hot": 50125,
-      "num": 258148,
+      "num": 399216,
       "word": "王嘉尔citywalk吃冰淇淋",
       "onboard_time": 1745997261,
       "rank": 26,
@@ -1963,12 +2003,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 43047,
-      "num": 253905,
-      "word": "苏杯中国vs泰国阵容",
-      "onboard_time": 1745997800,
-      "rank": 29,
-      "category": "体育"
+      "raw_hot": 42955,
+      "num": 401576,
+      "word": "为何有人坐车晕车开车却不晕",
+      "onboard_time": 1745997681,
+      "rank": 19,
+      "category": "科学科普"
     },
     {
       "raw_hot": 42386,
@@ -2041,14 +2081,6 @@
       "onboard_time": 1745993961,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 33848,
-      "num": 268169,
-      "word": "为何有人坐车晕车开车却不晕",
-      "onboard_time": 1745997681,
-      "rank": 19,
-      "category": "科学科普"
     },
     {
       "raw_hot": 33560,
