@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746044859807,
+  "endTime": 1746045657879,
   "band_list": [
     {
       "raw_hot": 1512910,
@@ -555,19 +555,19 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 18088,
+      "num": 21442,
+      "word": "女子申请产检遭拒被以旷工开除",
+      "onboard_time": 1746042855,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17478,
       "num": 178247,
       "word": "五一出行天气提醒",
       "onboard_time": 1746023364,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16839,
-      "num": 20977,
-      "word": "女子申请产检遭拒被以旷工开除",
-      "onboard_time": 1746042855,
-      "rank": 41,
       "category": "民生新闻"
     },
     {
