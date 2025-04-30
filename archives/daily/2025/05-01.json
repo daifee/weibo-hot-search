@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746045657879,
+  "endTime": 1746048236788,
   "band_list": [
     {
       "raw_hot": 1512910,
@@ -531,6 +531,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 25292,
+      "num": 25292,
+      "word": "女子申请产检遭拒被以旷工开除",
+      "onboard_time": 1746042855,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24502,
       "num": 66878,
       "word": "周海婴夫人马新云逝世",
@@ -547,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 21793,
+      "num": 21793,
+      "word": "警方调查女子孕期被公公家暴住院",
+      "onboard_time": 1746045795,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20319,
       "num": 20319,
       "word": "全世界我最美",
@@ -555,20 +571,28 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 18088,
-      "num": 21442,
-      "word": "女子申请产检遭拒被以旷工开除",
-      "onboard_time": 1746042855,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 17478,
       "num": 178247,
       "word": "五一出行天气提醒",
       "onboard_time": 1746023364,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14724,
+      "num": 20511,
+      "word": "章若楠淮水竹亭客串镜头",
+      "onboard_time": 1746047594,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 14675,
+      "num": 20508,
+      "word": "无畏契约",
+      "onboard_time": 1746047474,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 3125,

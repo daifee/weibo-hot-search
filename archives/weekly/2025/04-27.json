@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1746045657879,
+  "endTime": 1746048236788,
   "band_list": [
     {
       "raw_hot": 8960529,
@@ -14211,6 +14211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25292,
+      "num": 25292,
+      "word": "女子申请产检遭拒被以旷工开除",
+      "onboard_time": 1746042855,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25057,
       "num": 216296,
       "word": "老师的苦只有老师才懂",
@@ -14457,6 +14465,14 @@
       "onboard_time": 1746012742,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 21793,
+      "num": 21793,
+      "word": "警方调查女子孕期被公公家暴住院",
+      "onboard_time": 1746045795,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21765,
@@ -14731,14 +14747,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 18088,
-      "num": 21442,
-      "word": "女子申请产检遭拒被以旷工开除",
-      "onboard_time": 1746042855,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 18035,
       "num": 143564,
       "word": "月度爱用购物分享",
@@ -14969,6 +14977,22 @@
       "onboard_time": 1745838081,
       "rank": 18,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 14724,
+      "num": 20511,
+      "word": "章若楠淮水竹亭客串镜头",
+      "onboard_time": 1746047594,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 14675,
+      "num": 20508,
+      "word": "无畏契约",
+      "onboard_time": 1746047474,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 14524,
