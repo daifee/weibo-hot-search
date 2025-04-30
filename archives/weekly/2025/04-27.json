@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1746031639913,
+  "endTime": 1746033731055,
   "band_list": [
     {
       "raw_hot": 8960529,
@@ -3307,6 +3307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 339595,
+      "num": 339595,
+      "word": "胃病发展成胃癌有5个征兆",
+      "onboard_time": 1746031578,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 338008,
       "num": 338008,
       "word": "孟子义在飞机上直播",
@@ -3497,6 +3505,14 @@
       "onboard_time": 1745718201,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 311945,
+      "num": 311945,
+      "word": "男性注射避孕药一次至少管2年",
+      "onboard_time": 1746032899,
+      "rank": 3,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 311715,
@@ -3964,7 +3980,7 @@
     },
     {
       "raw_hot": 276748,
-      "num": 235987,
+      "num": 237842,
       "word": "哪吒2登顶4月票房冠军",
       "onboard_time": 1746029482,
       "rank": 7,
@@ -8339,14 +8355,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 146607,
-      "num": 138130,
-      "word": "胃病发展成胃癌有5个征兆",
-      "onboard_time": 1746031578,
-      "rank": 21,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 146559,
       "num": 151849,
       "word": "王俊凯青岛",
@@ -9041,6 +9049,14 @@
       "onboard_time": 1745716161,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 136416,
+      "num": 136416,
+      "word": "杨利伟回应神十九推迟一天回家",
+      "onboard_time": 1746031759,
+      "rank": 13,
+      "category": "国内时政"
     },
     {
       "raw_hot": 136183,
@@ -12411,6 +12427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 65067,
+      "num": 93910,
+      "word": "张凌赫与Gucci的适配度",
+      "onboard_time": 1746031219,
+      "rank": 39,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 64798,
       "num": 155501,
       "word": "井胧井迪是我见过最美好的手足情",
@@ -12457,14 +12481,6 @@
       "onboard_time": 1745900482,
       "rank": 38,
       "category": "幽默,民生新闻"
-    },
-    {
-      "raw_hot": 62241,
-      "num": 93910,
-      "word": "张凌赫与Gucci的适配度",
-      "onboard_time": 1746031219,
-      "rank": 39,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 62235,
@@ -12609,6 +12625,14 @@
       "onboard_time": 1745986882,
       "rank": 18,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 59098,
+      "num": 59098,
+      "word": "华为PuraX",
+      "onboard_time": 1746032479,
+      "rank": 46,
+      "category": "数码"
     },
     {
       "raw_hot": 58918,
@@ -13747,6 +13771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 32598,
+      "num": 65766,
+      "word": "董袭莹的种种疑云该有人出来回应了",
+      "onboard_time": 1746032958,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32489,
       "num": 55354,
       "word": "美媒画图说明美家庭离不开中国制造",
@@ -13865,6 +13897,14 @@
       "onboard_time": 1746005063,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 29757,
+      "num": 61025,
+      "word": "没有信息表明董袭莹能力超群",
+      "onboard_time": 1746033079,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29744,
