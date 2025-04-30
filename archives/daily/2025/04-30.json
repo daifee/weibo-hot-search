@@ -1,6 +1,6 @@
 {
   "startTime": 1745944279846,
-  "endTime": 1746002790296,
+  "endTime": 1746005248799,
   "band_list": [
     {
       "raw_hot": 2742411,
@@ -25,6 +25,14 @@
       "onboard_time": 1745983102,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2530055,
+      "num": 2530055,
+      "word": "十三州府取关曾黎",
+      "onboard_time": 1746002842,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 2447522,
@@ -131,6 +139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1207620,
+      "num": 436590,
+      "word": "女子3小时内喝八杯水中毒进ICU",
+      "onboard_time": 1746001761,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1102462,
       "num": 1102462,
       "word": "长安的荔枝",
@@ -155,11 +171,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 914338,
+      "num": 422453,
+      "word": "papi酱梦女",
+      "onboard_time": 1746003022,
+      "rank": 12,
+      "category": "网红"
+    },
+    {
       "raw_hot": 896148,
       "num": 909008,
       "word": "女子买彩票中945万上完班才领奖",
       "onboard_time": 1745937203,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 860345,
+      "num": 307373,
+      "word": "印度男人为何强奸",
+      "onboard_time": 1746004162,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -203,20 +235,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 777826,
+      "num": 777826,
+      "word": "协和医学院学位论文系统访客已无法查看",
+      "onboard_time": 1746001160,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 768774,
       "num": 308914,
       "word": "曾黎 灾难公关",
       "onboard_time": 1745908822,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 757157,
-      "num": 757157,
-      "word": "协和医学院学位论文系统访客已无法查看",
-      "onboard_time": 1746001160,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 749862,
@@ -272,6 +304,14 @@
       "word": "蛇年蛇月蛇日蛇时",
       "onboard_time": 1745982440,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 659277,
+      "num": 659277,
+      "word": "董某莹事件公众所求的无非是公平",
+      "onboard_time": 1746001282,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -360,6 +400,22 @@
       "word": "章若楠方否认番位操控",
       "onboard_time": 1745987542,
       "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 498705,
+      "num": 498705,
+      "word": "曾黎",
+      "onboard_time": 1746000622,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 493186,
+      "num": 415458,
+      "word": "杜海涛约女明星吃饭",
+      "onboard_time": 1746004281,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -472,6 +528,14 @@
       "word": "协和医学院4加4招生网页已打不开",
       "onboard_time": 1745993481,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 421845,
+      "num": 421845,
+      "word": "知网客服称个人无权限直接删论文",
+      "onboard_time": 1746000861,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -651,14 +715,6 @@
       "category": "互联网,民生新闻"
     },
     {
-      "raw_hot": 309073,
-      "num": 386026,
-      "word": "女子3小时内喝八杯水中毒进ICU",
-      "onboard_time": 1746001761,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 308134,
       "num": 308134,
       "word": "权志龙澳门",
@@ -723,14 +779,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 282476,
-      "num": 605880,
-      "word": "董某莹事件公众所求的无非是公平",
-      "onboard_time": 1746001282,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 278370,
       "num": 217437,
       "word": "亲子酒店员工朋友圈说希望小朋友死掉",
@@ -756,7 +804,7 @@
     },
     {
       "raw_hot": 253034,
-      "num": 253034,
+      "num": 438558,
       "word": "神十九载人飞行任务圆满成功",
       "onboard_time": 1746000682,
       "rank": 33,
@@ -937,6 +985,30 @@
       "onboard_time": 1746001582,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 209314,
+      "num": 209314,
+      "word": "邝玲玲费加罗白纱珍珠高定",
+      "onboard_time": 1746004761,
+      "rank": 31,
+      "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 207703,
+      "num": 207703,
+      "word": "孙颖莎与航天员桂海潮同台颁奖",
+      "onboard_time": 1746003261,
+      "rank": 32,
+      "category": "国内时政,体育"
+    },
+    {
+      "raw_hot": 206698,
+      "num": 206698,
+      "word": "崩坏星穹铁道",
+      "onboard_time": 1746004702,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 206649,
@@ -1139,6 +1211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 189365,
+      "num": 189365,
+      "word": "神印王座剧场版今日开播",
+      "onboard_time": 1746004761,
+      "rank": 34,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 188398,
       "num": 188398,
       "word": "王源饼干",
@@ -1227,6 +1307,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 177589,
+      "num": 213893,
+      "word": "五月天北京演唱会连开12场",
+      "onboard_time": 1746003922,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 176817,
       "num": 209668,
       "word": "刘雨昕带吴建豪逛吃贵阳",
@@ -1241,14 +1329,6 @@
       "onboard_time": 1745976263,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 175609,
-      "num": 175609,
-      "word": "知网客服称个人无权限直接删论文",
-      "onboard_time": 1746000861,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 173348,
@@ -1305,6 +1385,14 @@
       "onboard_time": 1745980220,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168405,
+      "num": 168405,
+      "word": "警犬福仔登门道歉送烤肠",
+      "onboard_time": 1746002842,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 168147,
@@ -1515,6 +1603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147060,
+      "num": 147060,
+      "word": "李一桐宣传淮水竹亭",
+      "onboard_time": 1746005001,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146247,
       "num": 196011,
       "word": "左手上篮首部体育国漫出海",
@@ -1603,8 +1699,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127708,
+      "num": 127708,
+      "word": "受爆炸影响乘客下车步行至太原南站",
+      "onboard_time": 1746003441,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127605,
-      "num": 127605,
+      "num": 188480,
       "word": "杨肸子回应像1988德善",
       "onboard_time": 1745998461,
       "rank": 48,
@@ -1625,6 +1729,14 @@
       "onboard_time": 1745942181,
       "rank": 26,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 123357,
+      "num": 123357,
+      "word": "美运钞车掉落30万现金被路人瓜分",
+      "onboard_time": 1746005123,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 122234,
@@ -2299,6 +2411,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 36625,
+      "num": 251021,
+      "word": "神印剧场版主角为何有四个建模",
+      "onboard_time": 1746004881,
+      "rank": 23,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 35202,
       "num": 280463,
       "word": "神十九航天员即将出舱",
@@ -2321,6 +2441,14 @@
       "onboard_time": 1745968459,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 33213,
+      "num": 846468,
+      "word": "五四奖章新时代青年先锋奖全名单",
+      "onboard_time": 1745988383,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32597,
@@ -2347,11 +2475,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30023,
+      "num": 170598,
+      "word": "朝军用朝语唱喀秋莎",
+      "onboard_time": 1746005063,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 29474,
       "num": 507380,
       "word": "如何客观看待4加4培养模式",
       "onboard_time": 1745995342,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28671,
+      "num": 416249,
+      "word": "医学专家称不能把患者生命当儿戏",
+      "onboard_time": 1746004103,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
