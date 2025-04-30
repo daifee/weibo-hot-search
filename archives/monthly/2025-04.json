@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1746018233991,
+  "endTime": 1746020041986,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -203,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 4609302,
+      "num": 4609302,
+      "word": "协和医学院董某莹事件最新进展",
+      "onboard_time": 1746010640,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 4382418,
       "num": 685448,
       "word": "甜馨签约乐华了",
@@ -273,14 +281,6 @@
       "onboard_time": 1745393722,
       "rank": 26,
       "category": "情感,艺人"
-    },
-    {
-      "raw_hot": 3760029,
-      "num": 3760029,
-      "word": "协和医学院董某莹事件最新进展",
-      "onboard_time": 1746010640,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 3750083,
@@ -2108,7 +2108,7 @@
     },
     {
       "raw_hot": 1752225,
-      "num": 836027,
+      "num": 941834,
       "word": "董袭莹信息不断被删谁在掩耳盗铃",
       "onboard_time": 1746013221,
       "rank": 3,
@@ -2299,6 +2299,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1675447,
+      "num": 991169,
+      "word": "卫健委回应肖飞手术离场40分钟",
+      "onboard_time": 1746016101,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1673449,
       "num": 1673449,
       "word": "朋友圈三天可见 置顶像生死簿那么长",
@@ -2433,14 +2441,6 @@
       "onboard_time": 1744515141,
       "rank": 10,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1627951,
-      "num": 839536,
-      "word": "卫健委回应肖飞手术离场40分钟",
-      "onboard_time": 1746016101,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1624465,
@@ -6451,6 +6451,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 988070,
+      "num": 988070,
+      "word": "冲着月薪一万应聘九天到手一千",
+      "onboard_time": 1746015620,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 986502,
       "num": 527932,
       "word": "宋祖儿回应大小眼",
@@ -7547,6 +7555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 892983,
+      "num": 892983,
+      "word": "青簪行",
+      "onboard_time": 1746016221,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 892877,
       "num": 849442,
       "word": "张国荣",
@@ -8233,14 +8249,6 @@
       "onboard_time": 1744073784,
       "rank": 6,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 837425,
-      "num": 837425,
-      "word": "青簪行",
-      "onboard_time": 1746016221,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 836565,
@@ -9467,6 +9475,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 762725,
+      "num": 508995,
+      "word": "董袭莹论文致谢称希望不负一袭白衣",
+      "onboard_time": 1746013941,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 761108,
       "num": 761108,
       "word": "深圳兔子警官爆火出圈了",
@@ -9737,14 +9753,6 @@
       "onboard_time": 1745468844,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 744530,
-      "num": 744530,
-      "word": "冲着月薪一万应聘九天到手一千",
-      "onboard_time": 1746015620,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 744129,
@@ -13387,14 +13395,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 580229,
-      "num": 508995,
-      "word": "董袭莹论文致谢称希望不负一袭白衣",
-      "onboard_time": 1746013941,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 580088,
       "num": 580088,
       "word": "扶弟魔背后有个吸姐鬼",
@@ -13657,6 +13657,14 @@
       "onboard_time": 1744792101,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 569833,
+      "num": 569833,
+      "word": "唐朝诡事录之下南洋",
+      "onboard_time": 1746017543,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 569787,
@@ -16467,6 +16475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 480597,
+      "num": 480597,
+      "word": "ITTF抽签",
+      "onboard_time": 1744523061,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 480220,
       "num": 480220,
       "word": "上海街头偶遇赵丽颖",
@@ -16801,6 +16817,14 @@
       "onboard_time": 1745911642,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 474530,
+      "num": 474530,
+      "word": "肖飞",
+      "onboard_time": 1745886682,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 474457,
@@ -18219,14 +18243,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 441154,
-      "num": 441154,
-      "word": "ITTF抽签",
-      "onboard_time": 1744523061,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 441020,
       "num": 441020,
       "word": "我知道祝绪丹跳舞像谁了",
@@ -18305,14 +18321,6 @@
       "onboard_time": 1744270882,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 439739,
-      "num": 297425,
-      "word": "肖飞",
-      "onboard_time": 1745886682,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 438926,
@@ -20523,6 +20531,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 393413,
+      "num": 516717,
+      "word": "太原爆炸已致1死21伤2失联",
+      "onboard_time": 1746018743,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 393306,
       "num": 393306,
       "word": "古茗求补货",
@@ -21484,7 +21500,7 @@
     },
     {
       "raw_hot": 374528,
-      "num": 374528,
+      "num": 384052,
       "word": "王一栩魔改",
       "onboard_time": 1746013520,
       "rank": 19,
@@ -24755,6 +24771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 323243,
+      "num": 323243,
+      "word": "王辰",
+      "onboard_time": 1746015442,
+      "rank": 34,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 323111,
       "num": 1769572,
       "word": "以中国稳应对美国疯",
@@ -25465,14 +25489,6 @@
       "onboard_time": 1744350681,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 312714,
-      "num": 312714,
-      "word": "唐朝诡事录之下南洋",
-      "onboard_time": 1746017543,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 312557,
@@ -32283,6 +32299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 245211,
+      "num": 245211,
+      "word": "张一山谈首搭赵丽颖",
+      "onboard_time": 1746019941,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 245204,
       "num": 293507,
       "word": "何浩楠直播",
@@ -32513,6 +32537,14 @@
       "onboard_time": 1745551461,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 243276,
+      "num": 243276,
+      "word": "才知道间谍手段有多肮脏",
+      "onboard_time": 1746018142,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 243205,
@@ -33849,14 +33881,6 @@
       "onboard_time": 1743996983,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 233162,
-      "num": 233162,
-      "word": "王辰",
-      "onboard_time": 1746015442,
-      "rank": 34,
-      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 233145,
@@ -49051,6 +49075,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 177403,
+      "num": 177403,
+      "word": "白银黄金大跳水",
+      "onboard_time": 1746018503,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 177381,
       "num": 177381,
       "word": "曝苹果要求供应商降价",
@@ -53803,6 +53835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163647,
+      "num": 163647,
+      "word": "FGO",
+      "onboard_time": 1746018982,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 163550,
       "num": 173225,
       "word": "浪姐被低估的神级舞台",
@@ -58137,14 +58177,6 @@
       "onboard_time": 1745495301,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 152946,
-      "num": 177354,
-      "word": "才知道间谍手段有多肮脏",
-      "onboard_time": 1746018142,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 152930,
@@ -66059,6 +66091,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 134989,
+      "num": 134989,
+      "word": "济南上演一秒天黑",
+      "onboard_time": 1746018321,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134936,
       "num": 156859,
       "word": "曝文泰一近照",
@@ -66680,6 +66720,14 @@
       "word": "韦世豪头球破门",
       "onboard_time": 1745153665,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 133705,
+      "num": 331772,
+      "word": "多哈世乒赛抽签",
+      "onboard_time": 1746019822,
+      "rank": 22,
       "category": "体育"
     },
     {
@@ -73899,6 +73947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 116103,
+      "num": 116103,
+      "word": "东方坏竹好魅惑",
+      "onboard_time": 1746019763,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116095,
       "num": 244249,
       "word": "为什么金价涨幅居高不下",
@@ -77867,6 +77923,14 @@
       "category": "科学科普,民生新闻"
     },
     {
+      "raw_hot": 104039,
+      "num": 170926,
+      "word": "新兰父母终于见面了",
+      "onboard_time": 1746019163,
+      "rank": 38,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 104013,
       "num": 226785,
       "word": "中美未就关税问题磋商或谈判",
@@ -78681,6 +78745,14 @@
       "onboard_time": 1745886861,
       "rank": 33,
       "category": "教育"
+    },
+    {
+      "raw_hot": 101153,
+      "num": 356298,
+      "word": "五一去洛阳出片带OPPO就够了",
+      "onboard_time": 1746018383,
+      "rank": 18,
+      "category": "数码"
     },
     {
       "raw_hot": 101124,
@@ -80313,6 +80385,14 @@
       "onboard_time": 1744772663,
       "rank": 18,
       "category": "财经"
+    },
+    {
+      "raw_hot": 95363,
+      "num": 414476,
+      "word": "被精神病8年男子将被移出重精系统",
+      "onboard_time": 1746018623,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95322,
@@ -83708,7 +83788,7 @@
     },
     {
       "raw_hot": 81307,
-      "num": 839821,
+      "num": 992565,
       "word": "神十九任务圆满成功",
       "onboard_time": 1746015502,
       "rank": 2,
@@ -88355,6 +88435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 62003,
+      "num": 170095,
+      "word": "给我开刀的人是医学文盲",
+      "onboard_time": 1746018863,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61988,
       "num": 172759,
       "word": "适度减少美国影片进口数量",
@@ -89729,6 +89817,14 @@
       "onboard_time": 1744268481,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56308,
+      "num": 230214,
+      "word": "高盛大幅下调美国一季度GDP预期",
+      "onboard_time": 1746019282,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 56298,
@@ -91425,6 +91521,14 @@
       "onboard_time": 1745997261,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 50117,
+      "num": 195574,
+      "word": "西安一女子称孕期被公公家暴住院",
+      "onboard_time": 1746020003,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50086,
@@ -105825,6 +105929,14 @@
       "onboard_time": 1745931681,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 6444,
+      "num": 340417,
+      "word": "绝密较量里有哪些抓间谍细节",
+      "onboard_time": 1746019282,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 6341,

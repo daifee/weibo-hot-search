@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1746018233991,
+  "endTime": 1746020041986,
   "band_list": [
     {
       "raw_hot": 8960529,
@@ -19,6 +19,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 4609302,
+      "num": 4609302,
+      "word": "协和医学院董某莹事件最新进展",
+      "onboard_time": 1746010640,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 4073618,
       "num": 4073618,
       "word": "惠英红 华表影后",
@@ -33,14 +41,6 @@
       "onboard_time": 1745908822,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3760029,
-      "num": 3760029,
-      "word": "协和医学院董某莹事件最新进展",
-      "onboard_time": 1746010640,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 3701963,
@@ -292,7 +292,7 @@
     },
     {
       "raw_hot": 1752225,
-      "num": 836027,
+      "num": 941834,
       "word": "董袭莹信息不断被删谁在掩耳盗铃",
       "onboard_time": 1746013221,
       "rank": 3,
@@ -323,19 +323,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1675447,
+      "num": 991169,
+      "word": "卫健委回应肖飞手术离场40分钟",
+      "onboard_time": 1746016101,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1650777,
       "num": 1650777,
       "word": "银川市长信箱已读乱回",
       "onboard_time": 1745727022,
       "rank": 4,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1627951,
-      "num": 839536,
-      "word": "卫健委回应肖飞手术离场40分钟",
-      "onboard_time": 1746016101,
-      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -875,6 +875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 988070,
+      "num": 988070,
+      "word": "冲着月薪一万应聘九天到手一千",
+      "onboard_time": 1746015620,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 985670,
       "num": 506451,
       "word": "拒绝肖飞打招呼医生3天涨粉5.3万",
@@ -952,6 +960,14 @@
       "word": "杨紫宣传淮水竹亭",
       "onboard_time": 1745934981,
       "rank": 4,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 892983,
+      "num": 892983,
+      "word": "青簪行",
+      "onboard_time": 1746016221,
+      "rank": 9,
       "category": "剧集"
     },
     {
@@ -1057,14 +1073,6 @@
       "onboard_time": 1746006141,
       "rank": 4,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 837425,
-      "num": 837425,
-      "word": "青簪行",
-      "onboard_time": 1746016221,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 824294,
@@ -1243,6 +1251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 762725,
+      "num": 508995,
+      "word": "董袭莹论文致谢称希望不负一袭白衣",
+      "onboard_time": 1746013941,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 761108,
       "num": 761108,
       "word": "深圳兔子警官爆火出圈了",
@@ -1281,14 +1297,6 @@
       "onboard_time": 1745828242,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 744530,
-      "num": 744530,
-      "word": "冲着月薪一万应聘九天到手一千",
-      "onboard_time": 1746015620,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 742632,
@@ -1819,14 +1827,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 580229,
-      "num": 508995,
-      "word": "董袭莹论文致谢称希望不负一袭白衣",
-      "onboard_time": 1746013941,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 577010,
       "num": 577010,
       "word": "破皮的粉刺针竟是家居用品公司生产",
@@ -1857,6 +1857,14 @@
       "onboard_time": 1745970380,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 569833,
+      "num": 569833,
+      "word": "唐朝诡事录之下南洋",
+      "onboard_time": 1746017543,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 565801,
@@ -2275,6 +2283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 480597,
+      "num": 480597,
+      "word": "ITTF抽签",
+      "onboard_time": 1746018922,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 479958,
       "num": 479958,
       "word": "华表奖座位安排",
@@ -2345,6 +2361,14 @@
       "onboard_time": 1745911642,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 474530,
+      "num": 474530,
+      "word": "肖飞",
+      "onboard_time": 1745886682,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 473142,
@@ -2545,14 +2569,6 @@
       "onboard_time": 1745796379,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 439739,
-      "num": 297425,
-      "word": "肖飞",
-      "onboard_time": 1745886682,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 438926,
@@ -2835,6 +2851,14 @@
       "category": "艺人,剧集"
     },
     {
+      "raw_hot": 393413,
+      "num": 516717,
+      "word": "太原爆炸已致1死21伤2失联",
+      "onboard_time": 1746018743,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 392118,
       "num": 316637,
       "word": "上班后才懂李慧珍",
@@ -2972,7 +2996,7 @@
     },
     {
       "raw_hot": 374528,
-      "num": 374528,
+      "num": 384052,
       "word": "王一栩魔改",
       "onboard_time": 1746013520,
       "rank": 19,
@@ -3275,6 +3299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 323243,
+      "num": 323243,
+      "word": "王辰",
+      "onboard_time": 1746015442,
+      "rank": 34,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 320734,
       "num": 301814,
       "word": "王俊凯杨超越同框",
@@ -3361,14 +3393,6 @@
       "onboard_time": 1745674942,
       "rank": 5,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 312714,
-      "num": 312714,
-      "word": "唐朝诡事录之下南洋",
-      "onboard_time": 1746017543,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 312078,
@@ -4331,6 +4355,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 245211,
+      "num": 245211,
+      "word": "张一山谈首搭赵丽颖",
+      "onboard_time": 1746019941,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 245048,
       "num": 275246,
       "word": "孙艺洲回应抗抑郁版死了都要爱",
@@ -4345,6 +4377,14 @@
       "onboard_time": 1745938823,
       "rank": 24,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 243276,
+      "num": 243276,
+      "word": "才知道间谍手段有多肮脏",
+      "onboard_time": 1746018142,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 241857,
@@ -4505,14 +4545,6 @@
       "onboard_time": 1745774177,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 233162,
-      "num": 233162,
-      "word": "王辰",
-      "onboard_time": 1746015442,
-      "rank": 34,
-      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 232942,
@@ -6531,6 +6563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177403,
+      "num": 177403,
+      "word": "白银黄金大跳水",
+      "onboard_time": 1746018503,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 177220,
       "num": 177220,
       "word": "浪姐",
@@ -7064,6 +7104,14 @@
       "word": "秦彻新卡面坠空博弈有哪些精彩操作",
       "onboard_time": 1745911282,
       "rank": 27,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 163647,
+      "num": 163647,
+      "word": "FGO",
+      "onboard_time": 1746018982,
+      "rank": 41,
       "category": "游戏"
     },
     {
@@ -7705,14 +7753,6 @@
       "onboard_time": 1745738902,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 152946,
-      "num": 177354,
-      "word": "才知道间谍手段有多肮脏",
-      "onboard_time": 1746018142,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 152862,
@@ -8747,6 +8787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134989,
+      "num": 134989,
+      "word": "济南上演一秒天黑",
+      "onboard_time": 1746018321,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134918,
       "num": 134918,
       "word": "张钧甯怼脸皮肤状态",
@@ -8793,6 +8841,14 @@
       "onboard_time": 1745731941,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133705,
+      "num": 331772,
+      "word": "多哈世乒赛抽签",
+      "onboard_time": 1746019822,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 133642,
@@ -9635,6 +9691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116103,
+      "num": 116103,
+      "word": "东方坏竹好魅惑",
+      "onboard_time": 1746019763,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115970,
       "num": 115970,
       "word": "王鸥录大侦探七点起床妆发",
@@ -10163,6 +10227,14 @@
       "category": "科学科普,民生新闻"
     },
     {
+      "raw_hot": 104039,
+      "num": 170926,
+      "word": "新兰父母终于见面了",
+      "onboard_time": 1746019163,
+      "rank": 38,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 103955,
       "num": 190718,
       "word": "五大国有银行明确撤销监事会",
@@ -10305,6 +10377,14 @@
       "onboard_time": 1745886861,
       "rank": 33,
       "category": "教育"
+    },
+    {
+      "raw_hot": 101153,
+      "num": 356298,
+      "word": "五一去洛阳出片带OPPO就够了",
+      "onboard_time": 1746018383,
+      "rank": 18,
+      "category": "数码"
     },
     {
       "raw_hot": 101117,
@@ -10617,6 +10697,14 @@
       "onboard_time": 1745800162,
       "rank": 47,
       "category": "剧集,艺人"
+    },
+    {
+      "raw_hot": 95363,
+      "num": 414476,
+      "word": "被精神病8年男子将被移出重精系统",
+      "onboard_time": 1746018623,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95033,
@@ -11236,7 +11324,7 @@
     },
     {
       "raw_hot": 81307,
-      "num": 839821,
+      "num": 992565,
       "word": "神十九任务圆满成功",
       "onboard_time": 1746015502,
       "rank": 2,
@@ -11899,6 +11987,14 @@
       "category": "情感,民生新闻"
     },
     {
+      "raw_hot": 62003,
+      "num": 170095,
+      "word": "给我开刀的人是医学文盲",
+      "onboard_time": 1746018863,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61663,
       "num": 81248,
       "word": "外交部回应老外带大行李箱来华扫货",
@@ -12105,6 +12201,14 @@
       "onboard_time": 1745743221,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 56308,
+      "num": 230214,
+      "word": "高盛大幅下调美国一季度GDP预期",
+      "onboard_time": 1746019282,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 56298,
@@ -12361,6 +12465,14 @@
       "onboard_time": 1745997261,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 50117,
+      "num": 195574,
+      "word": "西安一女子称孕期被公公家暴住院",
+      "onboard_time": 1746020003,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49512,
@@ -14689,6 +14801,14 @@
       "onboard_time": 1745931681,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 6444,
+      "num": 340417,
+      "word": "绝密较量里有哪些抓间谍细节",
+      "onboard_time": 1746019282,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 6341,
