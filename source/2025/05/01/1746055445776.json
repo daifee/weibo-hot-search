@@ -1,0 +1,410 @@
+{
+  "runTime": 1746055445776,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 806432,
+        "num": 844463,
+        "word": "男性注射避孕药一次至少管2年",
+        "onboard_time": 1746032899,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 622838,
+        "num": 622838,
+        "word": "董袭莹的种种疑云该有人出来回应了",
+        "onboard_time": 1746032958,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61096,
+        "num": 446249,
+        "word": "五一出行天气提醒",
+        "onboard_time": 1746023364,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276407,
+        "num": 276407,
+        "word": "特朗普称美国即将迎来好日子",
+        "onboard_time": 1746035296,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 229727,
+        "num": 229727,
+        "word": "南京夫子庙回应有人强制卖花",
+        "onboard_time": 1746040395,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227194,
+        "num": 227194,
+        "word": "张雪峰谈协和4加4",
+        "onboard_time": 1746019103,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 196641,
+        "num": 196641,
+        "word": "好声音选手毕夏自曝遭遇车祸",
+        "onboard_time": 1746021262,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190676,
+        "num": 190676,
+        "word": "两大叔圈天菜终于又合作了",
+        "onboard_time": 1746020363,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163061,
+        "num": 163061,
+        "word": "太原爆炸已致1死21伤2失联",
+        "onboard_time": 1746018743,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150610,
+        "num": 150610,
+        "word": "张一山谈首搭赵丽颖",
+        "onboard_time": 1746019941,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 907888,
+        "num": 150434,
+        "word": "南京鼓楼医院院长被砍",
+        "onboard_time": 1746026184,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 419958,
+        "num": 150418,
+        "word": "张新成疑似回应分手",
+        "onboard_time": 1746054798,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174319,
+        "num": 150034,
+        "word": "有协和4加4博士论文正文仅12页",
+        "onboard_time": 1746006141,
+        "rank": 12,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 149556,
+        "num": 149556,
+        "word": "饶毅回应怒怼协和",
+        "onboard_time": 1746014421,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128052,
+        "num": 128052,
+        "word": "倪妮说妈妈刘德华给我唱歌了",
+        "onboard_time": 1746049995,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124693,
+        "num": 124693,
+        "word": "王辰",
+        "onboard_time": 1746015442,
+        "rank": 15,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 120443,
+        "num": 120443,
+        "word": "巴萨3比3国米",
+        "onboard_time": 1746050775,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113133,
+        "num": 113133,
+        "word": "十三州府取关曾黎",
+        "onboard_time": 1746002842,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111710,
+        "num": 111710,
+        "word": "乌美签署矿产协议",
+        "onboard_time": 1746054979,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 94271,
+        "num": 111262,
+        "word": "青簪行",
+        "onboard_time": 1746016221,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182909,
+        "num": 110191,
+        "word": "女大学生旱厕捞手机掉化粪池溺亡",
+        "onboard_time": 1746012682,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130454,
+        "num": 109432,
+        "word": "胃病发展成胃癌有5个征兆",
+        "onboard_time": 1746031578,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 121074,
+        "num": 108095,
+        "word": "孕妇上网查症状被吓成先兆流产",
+        "onboard_time": 1746052576,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107847,
+        "num": 107847,
+        "word": "冲着月薪一万应聘九天到手一千",
+        "onboard_time": 1746015620,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71290,
+        "num": 107814,
+        "word": "杨紫第一部大女主探案剧",
+        "onboard_time": 1746022643,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70526,
+        "num": 107741,
+        "word": "哪吒2登顶4月票房冠军",
+        "onboard_time": 1746029482,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 12292,
+        "num": 107682,
+        "word": "以色列宣布进入国家紧急状态",
+        "onboard_time": 1746054979,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 35650,
+        "num": 107660,
+        "word": "美国获特权开发乌克兰自然资源",
+        "onboard_time": 1746054859,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 25377,
+        "num": 107587,
+        "word": "以色列向多国求援灭山火",
+        "onboard_time": 1746054859,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 12231,
+        "num": 107546,
+        "word": "经济学家预测美国经济衰退概率90%",
+        "onboard_time": 1746054917,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 677829,
+        "num": 107440,
+        "word": "董某莹已离开中日友好医院胸外科",
+        "onboard_time": 1746022343,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107435,
+        "num": 107435,
+        "word": "教育博主称张继科吹牛遭其怒怼",
+        "onboard_time": 1746054979,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 303058,
+        "num": 106905,
+        "word": "中冶建研院回应网传董某莹父亲情况",
+        "onboard_time": 1746025223,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104631,
+        "num": 104631,
+        "word": "2025多哈世乒赛",
+        "onboard_time": 1746027921,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 269916,
+        "num": 104021,
+        "word": "协和医学院的医学博士发声",
+        "onboard_time": 1746013761,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87672,
+        "num": 87672,
+        "word": "偶遇谢霆锋父亲谢贤坐轮椅出行",
+        "onboard_time": 1746022163,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236430,
+        "num": 87560,
+        "word": "协和医学院董某莹事件最新进展",
+        "onboard_time": 1746010640,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87340,
+        "num": 87340,
+        "word": "恋与深空",
+        "onboard_time": 1746055338,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 128521,
+        "num": 85896,
+        "word": "董袭莹论文致谢称希望不负一袭白衣",
+        "onboard_time": 1746013941,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82743,
+        "num": 82743,
+        "word": "水贝老板炒黄金亏了一个亿",
+        "onboard_time": 1746008483,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104715,
+        "num": 81822,
+        "word": "孩子再卷也比不上作弊的",
+        "onboard_time": 1746021984,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 79652,
+        "num": 79652,
+        "word": "5月份十二星座注意事项",
+        "onboard_time": 1746054979,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 91044,
+        "num": 79063,
+        "word": "董某某事件背后有没有大鱼",
+        "onboard_time": 1746026663,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78270,
+        "num": 78270,
+        "word": "美方多渠道主动接触中方希望谈关税",
+        "onboard_time": 1746049575,
+        "rank": 43,
+        "category": "国际时政,国内时政"
+      },
+      {
+        "raw_hot": 77501,
+        "num": 77501,
+        "word": "利雅得胜利2比3川崎前锋",
+        "onboard_time": 1746054798,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73592,
+        "num": 73592,
+        "word": "五一北方穿外套南方要防暑",
+        "onboard_time": 1746024563,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72868,
+        "num": 72868,
+        "word": "在宠物店工作真的很容易爱上客人",
+        "onboard_time": 1746055037,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 69797,
+        "num": 69797,
+        "word": "4加4模式不能成为资源者的近水楼台",
+        "onboard_time": 1746036856,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 63967,
+        "num": 67813,
+        "word": "张一山回应曝光度变少",
+        "onboard_time": 1746020363,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58620,
+        "num": 67715,
+        "word": "唐朝诡事录之下南洋",
+        "onboard_time": 1746017543,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#科学谋划十五五时期经济社会发展#"
+    }
+  }
+}

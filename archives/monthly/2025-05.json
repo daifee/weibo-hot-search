@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746052903513,
+  "endTime": 1746055445776,
   "band_list": [
     {
       "raw_hot": 1512910,
@@ -27,10 +27,26 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 806432,
+      "num": 844463,
+      "word": "男性注射避孕药一次至少管2年",
+      "onboard_time": 1746032899,
+      "rank": 3,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 753739,
       "num": 109406,
       "word": "协和医学院董某莹事件最新进展",
       "onboard_time": 1746010640,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 622838,
+      "num": 622838,
+      "word": "董袭莹的种种疑云该有人出来回应了",
+      "onboard_time": 1746032958,
       "rank": 30,
       "category": "民生新闻"
     },
@@ -59,20 +75,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 572484,
-      "num": 572484,
-      "word": "男性注射避孕药一次至少管2年",
-      "onboard_time": 1746032899,
-      "rank": 3,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 446469,
       "num": 244803,
       "word": "太原爆炸已致1死21伤2失联",
       "onboard_time": 1746018743,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 419958,
+      "num": 150418,
+      "word": "张新成疑似回应分手",
+      "onboard_time": 1746054798,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 339595,
@@ -89,14 +105,6 @@
       "onboard_time": 1746019941,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 328128,
-      "num": 328128,
-      "word": "董袭莹的种种疑云该有人出来回应了",
-      "onboard_time": 1746032958,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 313301,
@@ -139,7 +147,15 @@
       "category": "电影"
     },
     {
-      "raw_hot": 257903,
+      "raw_hot": 276407,
+      "num": 276407,
+      "word": "特朗普称美国即将迎来好日子",
+      "onboard_time": 1746035296,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 269916,
       "num": 106275,
       "word": "协和医学院的医学博士发声",
       "onboard_time": 1746013761,
@@ -171,12 +187,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 207571,
-      "num": 207571,
-      "word": "特朗普称美国即将迎来好日子",
-      "onboard_time": 1746035296,
-      "rank": 21,
-      "category": "国际时政"
+      "raw_hot": 229727,
+      "num": 229727,
+      "word": "南京夫子庙回应有人强制卖花",
+      "onboard_time": 1746040395,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 227194,
+      "num": 227194,
+      "word": "张雪峰谈协和4加4",
+      "onboard_time": 1746019103,
+      "rank": 40,
+      "category": "教育"
     },
     {
       "raw_hot": 200089,
@@ -185,6 +209,14 @@
       "onboard_time": 1746022643,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196641,
+      "num": 196641,
+      "word": "好声音选手毕夏自曝遭遇车祸",
+      "onboard_time": 1746021262,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 196524,
@@ -211,16 +243,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 182030,
-      "num": 182030,
-      "word": "好声音选手毕夏自曝遭遇车祸",
-      "onboard_time": 1746021262,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 174014,
-      "num": 148659,
+      "raw_hot": 174319,
+      "num": 150034,
       "word": "有协和4加4博士论文正文仅12页",
       "onboard_time": 1746006141,
       "rank": 21,
@@ -241,6 +265,14 @@
       "onboard_time": 1746016221,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149556,
+      "num": 149556,
+      "word": "饶毅回应怒怼协和",
+      "onboard_time": 1746014421,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 139544,
@@ -267,16 +299,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 134757,
-      "num": 134757,
-      "word": "南京夫子庙回应有人强制卖花",
-      "onboard_time": 1746040395,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 134356,
-      "num": 104043,
+      "num": 120443,
       "word": "巴萨3比3国米",
       "onboard_time": 1746050775,
       "rank": 11,
@@ -291,6 +315,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 128052,
+      "num": 128052,
+      "word": "倪妮说妈妈刘德华给我唱歌了",
+      "onboard_time": 1746049995,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 125511,
       "num": 120535,
       "word": "王子奇五分钟斯诺克无剪辑版",
@@ -299,12 +331,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 125373,
-      "num": 125373,
-      "word": "张雪峰谈协和4加4",
-      "onboard_time": 1746019103,
-      "rank": 40,
-      "category": "教育"
+      "raw_hot": 124693,
+      "num": 124693,
+      "word": "王辰",
+      "onboard_time": 1746015442,
+      "rank": 43,
+      "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 121074,
+      "num": 108095,
+      "word": "孕妇上网查症状被吓成先兆流产",
+      "onboard_time": 1746052576,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112051,
@@ -313,6 +353,14 @@
       "onboard_time": 1746030322,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 111710,
+      "num": 111710,
+      "word": "乌美签署矿产协议",
+      "onboard_time": 1746054979,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 111292,
@@ -331,20 +379,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 108019,
-      "num": 108019,
-      "word": "饶毅回应怒怼协和",
-      "onboard_time": 1746014421,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 107895,
       "num": 107895,
       "word": "杜海涛约女明星吃饭",
       "onboard_time": 1746004281,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 107435,
+      "num": 107435,
+      "word": "教育博主称张继科吹牛遭其怒怼",
+      "onboard_time": 1746054979,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 107265,
@@ -387,14 +435,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 96996,
-      "num": 96996,
-      "word": "王辰",
-      "onboard_time": 1746015442,
-      "rank": 43,
-      "category": "教育,民生新闻"
-    },
-    {
       "raw_hot": 96631,
       "num": 111922,
       "word": "偶遇谢霆锋父亲谢贤坐轮椅出行",
@@ -427,6 +467,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 87340,
+      "num": 87340,
+      "word": "恋与深空",
+      "onboard_time": 1746055338,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 84382,
       "num": 84382,
       "word": "Fly不允许任何人熄灭我",
@@ -443,6 +491,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 79652,
+      "num": 79652,
+      "word": "5月份十二星座注意事项",
+      "onboard_time": 1746054979,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 79641,
       "num": 79641,
       "word": "五一假期发朋友圈的小妙招",
@@ -451,20 +507,44 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 67975,
+      "raw_hot": 78270,
+      "num": 78270,
+      "word": "美方多渠道主动接触中方希望谈关税",
+      "onboard_time": 1746049575,
+      "rank": 31,
+      "category": "国际时政,国内时政"
+    },
+    {
+      "raw_hot": 77501,
+      "num": 77501,
+      "word": "利雅得胜利2比3川崎前锋",
+      "onboard_time": 1746054798,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 73592,
+      "num": 73592,
+      "word": "五一北方穿外套南方要防暑",
+      "onboard_time": 1746024563,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72868,
+      "num": 72868,
+      "word": "在宠物店工作真的很容易爱上客人",
+      "onboard_time": 1746055037,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 69797,
       "num": 70033,
       "word": "4加4模式不能成为资源者的近水楼台",
       "onboard_time": 1746036856,
       "rank": 9,
       "category": "教育"
-    },
-    {
-      "raw_hot": 67328,
-      "num": 67328,
-      "word": "倪妮说妈妈刘德华给我唱歌了",
-      "onboard_time": 1746049995,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 65851,
@@ -473,6 +553,14 @@
       "onboard_time": 1746031219,
       "rank": 39,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 61096,
+      "num": 446249,
+      "word": "五一出行天气提醒",
+      "onboard_time": 1746023364,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 59098,
@@ -489,14 +577,6 @@
       "onboard_time": 1746035896,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 56013,
-      "num": 46094,
-      "word": "美方多渠道主动接触中方希望谈关税",
-      "onboard_time": 1746049575,
-      "rank": 31,
-      "category": "国际时政,国内时政"
     },
     {
       "raw_hot": 49973,
@@ -531,14 +611,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 41963,
-      "num": 221282,
-      "word": "五一出行天气提醒",
-      "onboard_time": 1746023364,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 41711,
       "num": 41711,
       "word": "警方调查女子孕期被公公家暴住院",
@@ -555,6 +627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35650,
+      "num": 107660,
+      "word": "美国获特权开发乌克兰自然资源",
+      "onboard_time": 1746054859,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 34703,
       "num": 93105,
       "word": "李尚敏宣布再婚",
@@ -568,14 +648,6 @@
       "word": "女子申请产检遭拒被以旷工开除",
       "onboard_time": 1746042855,
       "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 30313,
-      "num": 41642,
-      "word": "孕妇上网查症状被吓成先兆流产",
-      "onboard_time": 1746052576,
-      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -601,6 +673,14 @@
       "onboard_time": 1746038295,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25377,
+      "num": 107587,
+      "word": "以色列向多国求援灭山火",
+      "onboard_time": 1746054859,
+      "rank": 28,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 22474,
@@ -633,6 +713,22 @@
       "onboard_time": 1746047474,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 12292,
+      "num": 107682,
+      "word": "以色列宣布进入国家紧急状态",
+      "onboard_time": 1746054979,
+      "rank": 26,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 12231,
+      "num": 107546,
+      "word": "经济学家预测美国经济衰退概率90%",
+      "onboard_time": 1746054917,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 3125,
