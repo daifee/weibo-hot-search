@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/30 12:45:28
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/30 13:27:46
 </p>
 </blockquote>
 <p>
@@ -1079,6 +1079,12 @@ C罗点评甲亢哥中国行（热度：2472029）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E9%BB%8E%E5%9B%A2%E9%98%9F%E5%82%B2%E6%85%A2%E5%85%AC%E5%85%B3%E4%B8%A2%E4%BA%86%E4%BA%BA%E5%BF%83%23" target="weibo">
 曾黎团队傲慢公关丢了人心（热度：2021122）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%A0%E5%91%A6%E5%91%A6%E5%BD%93%E9%80%89%E7%BE%8E%E5%9B%BD%E7%A7%91%E5%AD%A6%E9%99%A2%E5%A4%96%E7%B1%8D%E9%99%A2%E5%A3%AB%23" target="weibo">
+屠呦呦当选美国科学院外籍院士（热度：2014426）
 </a>
 </li>
 
@@ -6008,12 +6014,6 @@ Swisse致歉（热度：842126）
 </a>
 </li>
 
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%AB%99%E5%87%BA%E6%9D%A5%E6%98%AF%E4%B8%BA%E4%BA%86%E9%81%BF%E5%85%8D%E4%BA%BA%E7%B1%BB%E9%87%8D%E5%9B%9E%E4%B8%9B%E6%9E%97%E4%B8%96%E7%95%8C%23" target="weibo">
-中国站出来是为了避免人类重回丛林世界（热度：840173）
-</a>
-</li>
-
 </ol>
 <h2>
 正能量
@@ -6833,6 +6833,12 @@ Swisse致歉（热度：842126）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AF%B9%E8%BE%BD%E9%98%B3%E4%B8%80%E9%A5%AD%E5%BA%97%E7%81%AB%E7%81%BE%E4%BA%8B%E6%95%85%E4%BD%9C%E5%87%BA%E9%87%8D%E8%A6%81%E6%8C%87%E7%A4%BA%23%23" target="weibo">
 #习近平对辽阳一饭店火灾事故作出重要指示#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%BA%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8F%91%E5%B1%95%E6%8C%87%E6%98%8E%E6%96%B9%E5%90%91%23%23" target="weibo">
+#总书记为人工智能发展指明方向#
 </a>
 </li>
 

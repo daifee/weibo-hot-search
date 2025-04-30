@@ -1,0 +1,410 @@
+{
+  "runTime": 1745990866386,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2014426,
+        "num": 2014426,
+        "word": "屠呦呦当选美国科学院外籍院士",
+        "onboard_time": 1745987784,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 777681,
+        "num": 777681,
+        "word": "生命树官宣",
+        "onboard_time": 1745982141,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125195,
+        "num": 578776,
+        "word": "中国航天员回地球过五一",
+        "onboard_time": 1745990003,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 563420,
+        "num": 563420,
+        "word": "协和医学院曾发文解读4+4模式",
+        "onboard_time": 1745986822,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 562085,
+        "num": 562085,
+        "word": "长安的荔枝",
+        "onboard_time": 1745980641,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 2310986,
+        "num": 559871,
+        "word": "肖飞回应手术过程中离场是吃降压药",
+        "onboard_time": 1745983102,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 536800,
+        "num": 536800,
+        "word": "林更新在黄亦玫楚乔之间选择沉默",
+        "onboard_time": 1745984301,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 709958,
+        "num": 530651,
+        "word": "知网客服回应论文下架流程",
+        "onboard_time": 1745982864,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 290013,
+        "num": 525373,
+        "word": "太空飘着5个字中国空间站",
+        "onboard_time": 1745984181,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 48300,
+        "num": 515039,
+        "word": "揭密中国如何追踪美国特工",
+        "onboard_time": 1745985323,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 910299,
+        "num": 500679,
+        "word": "商务座减二等座",
+        "onboard_time": 1745981361,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 494010,
+        "num": 494010,
+        "word": "男子冰糖当毒品卖10年后成网红",
+        "onboard_time": 1745983583,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 764995,
+        "num": 490498,
+        "word": "董小姐去给病人开刀这事很可怕",
+        "onboard_time": 1745941042,
+        "rank": 12,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 707503,
+        "num": 477805,
+        "word": "女子生理期弄脏店家多件新衣后拒买",
+        "onboard_time": 1745980340,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66522,
+        "num": 474212,
+        "word": "麻醉科医生谈肖飞手术离场40分钟",
+        "onboard_time": 1745990481,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 756421,
+        "num": 463026,
+        "word": "协和医院",
+        "onboard_time": 1745989523,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 500520,
+        "num": 452175,
+        "word": "章若楠方否认番位操控",
+        "onboard_time": 1745987542,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 449194,
+        "num": 449194,
+        "word": "男子偷渡到缅甸想当打手却成狗推",
+        "onboard_time": 1745986402,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 411830,
+        "num": 436567,
+        "word": "藏海传会给大家不一样的肖战",
+        "onboard_time": 1745975063,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120630,
+        "num": 436231,
+        "word": "科技不坑打工人",
+        "onboard_time": 1745987784,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 435995,
+        "num": 435995,
+        "word": "欢迎神十九回家",
+        "onboard_time": 1745970861,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 417729,
+        "num": 417729,
+        "word": "张居正",
+        "onboard_time": 1745987722,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19080,
+        "num": 377592,
+        "word": "首局不敌FPX的BLG输在了哪里",
+        "onboard_time": 1745990481,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 369721,
+        "num": 369721,
+        "word": "Jasper低调拿奖学金",
+        "onboard_time": 1745985621,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204708,
+        "num": 361370,
+        "word": "快船掘金天王山",
+        "onboard_time": 1745989885,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 357251,
+        "num": 357251,
+        "word": "林高远说用拼搏与汗水浇灌希望",
+        "onboard_time": 1745989822,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 299576,
+        "num": 355699,
+        "word": "宋妍霏 人鱼的眼泪",
+        "onboard_time": 1745981842,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229887,
+        "num": 355201,
+        "word": "歌手",
+        "onboard_time": 1745989464,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221381,
+        "num": 355025,
+        "word": "抗癌博主小杨哥病逝",
+        "onboard_time": 1745974822,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 354957,
+        "num": 354957,
+        "word": "蛇年蛇月蛇日蛇时",
+        "onboard_time": 1745982440,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 351336,
+        "num": 351336,
+        "word": "时代少年团直播美颜掉了",
+        "onboard_time": 1745987301,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301782,
+        "num": 301782,
+        "word": "纸嫁衣",
+        "onboard_time": 1745989042,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 232530,
+        "num": 232530,
+        "word": "原神迪卢克",
+        "onboard_time": 1745989885,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 35177,
+        "num": 227173,
+        "word": "专家称4加4初衷是培养医学领袖",
+        "onboard_time": 1745990722,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177142,
+        "num": 226626,
+        "word": "刘诗诗新剧这集经费在燃烧",
+        "onboard_time": 1745990422,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226442,
+        "num": 226442,
+        "word": "董某莹的跨界疑云有谁在紧张",
+        "onboard_time": 1745982382,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217893,
+        "num": 217893,
+        "word": "小狗这一坐让全家都悸动了",
+        "onboard_time": 1745990240,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143841,
+        "num": 216452,
+        "word": "董小姐开刀的恐怖之处",
+        "onboard_time": 1745989942,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215753,
+        "num": 215753,
+        "word": "孙颖莎当颁奖嘉宾了",
+        "onboard_time": 1745985441,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211398,
+        "num": 211398,
+        "word": "网友五问协和邱院士",
+        "onboard_time": 1745988442,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208057,
+        "num": 208057,
+        "word": "权志龙澳门",
+        "onboard_time": 1745986943,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 207253,
+        "num": 207253,
+        "word": "董袭莹知网撤稿问题有待调查",
+        "onboard_time": 1745976440,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207097,
+        "num": 207097,
+        "word": "杨紫舒畅同框",
+        "onboard_time": 1745987423,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86958,
+        "num": 194089,
+        "word": "被孟子义歪头杀惊艳到了",
+        "onboard_time": 1745990542,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194026,
+        "num": 194026,
+        "word": "2025五四奖章获奖名单公布",
+        "onboard_time": 1745970380,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187558,
+        "num": 187558,
+        "word": "白玉兰奖报名截止",
+        "onboard_time": 1745989822,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175787,
+        "num": 175787,
+        "word": "董袭莹带出的五大疑点待协和等解答",
+        "onboard_time": 1745942421,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161755,
+        "num": 161755,
+        "word": "等五一机票价格跳水的打工人绝望了",
+        "onboard_time": 1745986282,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157372,
+        "num": 157372,
+        "word": "减肥最重要的是断社交",
+        "onboard_time": 1745989643,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155686,
+        "num": 155686,
+        "word": "恋与深空登顶",
+        "onboard_time": 1745987183,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记为人工智能发展指明方向#"
+    }
+  }
+}
