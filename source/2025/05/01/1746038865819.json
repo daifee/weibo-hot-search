@@ -1,0 +1,410 @@
+{
+  "runTime": 1746038865819,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 369120,
+        "num": 369120,
+        "word": "男性注射避孕药一次至少管2年",
+        "onboard_time": 1746032899,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 199254,
+        "num": 199254,
+        "word": "董袭莹的种种疑云该有人出来回应了",
+        "onboard_time": 1746032958,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12470,
+        "num": 148301,
+        "word": "五一出行天气提醒",
+        "onboard_time": 1746023364,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139706,
+        "num": 139706,
+        "word": "胃病发展成胃癌有5个征兆",
+        "onboard_time": 1746031578,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 106314,
+        "num": 106314,
+        "word": "十三州府取关曾黎",
+        "onboard_time": 1746002842,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91983,
+        "num": 91983,
+        "word": "好声音选手毕夏自曝遭遇车祸",
+        "onboard_time": 1746021262,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84029,
+        "num": 84029,
+        "word": "两大叔圈天菜终于又合作了",
+        "onboard_time": 1746020363,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75599,
+        "num": 75599,
+        "word": "张一山谈首搭赵丽颖",
+        "onboard_time": 1746019941,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68321,
+        "num": 68321,
+        "word": "冲着月薪一万应聘九天到手一千",
+        "onboard_time": 1746015620,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15657,
+        "num": 66878,
+        "word": "周海婴夫人马新云逝世",
+        "onboard_time": 1746038295,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 283117,
+        "num": 66418,
+        "word": "南京鼓楼医院院长被砍",
+        "onboard_time": 1746026184,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78471,
+        "num": 66416,
+        "word": "有协和4加4博士论文正文仅12页",
+        "onboard_time": 1746006141,
+        "rank": 11,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 65657,
+        "num": 65657,
+        "word": "饶毅回应怒怼协和",
+        "onboard_time": 1746014421,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61801,
+        "num": 61801,
+        "word": "太原爆炸已致1死21伤2失联",
+        "onboard_time": 1746018743,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58375,
+        "num": 58375,
+        "word": "沈马cp粉",
+        "onboard_time": 1746025343,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 57125,
+        "num": 57125,
+        "word": "中国留学生自豪告诉俄民众这是中国",
+        "onboard_time": 1746035896,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51423,
+        "num": 51423,
+        "word": "青簪行",
+        "onboard_time": 1746016221,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49354,
+        "num": 49354,
+        "word": "4加4模式不能成为资源者的近水楼台",
+        "onboard_time": 1746036856,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 48756,
+        "num": 48756,
+        "word": "哪吒2登顶4月票房冠军",
+        "onboard_time": 1746029482,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 48738,
+        "num": 48738,
+        "word": "2025多哈世乒赛",
+        "onboard_time": 1746027921,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86227,
+        "num": 47983,
+        "word": "女大学生旱厕捞手机掉化粪池溺亡",
+        "onboard_time": 1746012682,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70592,
+        "num": 47471,
+        "word": "特朗普称美国即将迎来好日子",
+        "onboard_time": 1746035296,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 46348,
+        "num": 46348,
+        "word": "山西太原一处居民小区爆炸",
+        "onboard_time": 1745995521,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45553,
+        "num": 45553,
+        "word": "王辰",
+        "onboard_time": 1746015442,
+        "rank": 23,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 43278,
+        "num": 43278,
+        "word": "水贝老板炒黄金亏了一个亿",
+        "onboard_time": 1746008483,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41070,
+        "num": 41070,
+        "word": "张一山回应曝光度变少",
+        "onboard_time": 1746020363,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40943,
+        "num": 40943,
+        "word": "张杰谈音乐作品何以带来力量",
+        "onboard_time": 1746022883,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 39567,
+        "num": 39567,
+        "word": "唐朝诡事录之下南洋",
+        "onboard_time": 1746017543,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37658,
+        "num": 37658,
+        "word": "杨利伟回应神十九推迟一天回家",
+        "onboard_time": 1746031759,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 37349,
+        "num": 37349,
+        "word": "没有信息表明董袭莹能力超群",
+        "onboard_time": 1746033079,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245914,
+        "num": 37235,
+        "word": "董某莹已离开中日友好医院胸外科",
+        "onboard_time": 1746022343,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36435,
+        "num": 36435,
+        "word": "杨紫第一部大女主探案剧",
+        "onboard_time": 1746022643,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106147,
+        "num": 35151,
+        "word": "协和医学院董某莹事件最新进展",
+        "onboard_time": 1746010640,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32508,
+        "num": 32508,
+        "word": "杜海涛约女明星吃饭",
+        "onboard_time": 1746004281,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100422,
+        "num": 31953,
+        "word": "中冶建研院回应网传董某莹父亲情况",
+        "onboard_time": 1746025223,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30952,
+        "num": 30952,
+        "word": "曾黎",
+        "onboard_time": 1746000622,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86722,
+        "num": 30679,
+        "word": "协和医学院的医学博士发声",
+        "onboard_time": 1746013761,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30149,
+        "num": 30149,
+        "word": "狼队遗憾止步春季赛",
+        "onboard_time": 1746026482,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 57312,
+        "num": 30135,
+        "word": "董某某事件背后有没有大鱼",
+        "onboard_time": 1746026663,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28902,
+        "num": 28902,
+        "word": "李永钦张新成合拍",
+        "onboard_time": 1746031578,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45508,
+        "num": 28824,
+        "word": "董袭莹论文致谢称希望不负一袭白衣",
+        "onboard_time": 1746013941,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28476,
+        "num": 28476,
+        "word": "水饺皇后",
+        "onboard_time": 1746034877,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 31976,
+        "num": 28465,
+        "word": "孩子再卷也比不上作弊的",
+        "onboard_time": 1746021984,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 28446,
+        "num": 28446,
+        "word": "王曼昱张本美和再次同区",
+        "onboard_time": 1746028762,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30272,
+        "num": 28427,
+        "word": "张雪峰谈协和4加4",
+        "onboard_time": 1746019103,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 28386,
+        "num": 28386,
+        "word": "papi酱梦女",
+        "onboard_time": 1746003022,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 27818,
+        "num": 27818,
+        "word": "偶遇谢霆锋父亲谢贤坐轮椅出行",
+        "onboard_time": 1746022163,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27384,
+        "num": 27384,
+        "word": "马嘉祺玩谐音梗",
+        "onboard_time": 1746027801,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24912,
+        "num": 24912,
+        "word": "Fly不允许任何人熄灭我",
+        "onboard_time": 1746031578,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 24391,
+        "num": 24391,
+        "word": "张凌赫与Gucci的适配度",
+        "onboard_time": 1746031219,
+        "rank": 49,
+        "category": "时尚,作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在上海考察调研#"
+    }
+  }
+}
