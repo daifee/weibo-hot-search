@@ -1,6 +1,6 @@
 {
   "startTime": 1745944279846,
-  "endTime": 1746023081760,
+  "endTime": 1746024193690,
   "band_list": [
     {
       "raw_hot": 4613398,
@@ -41,6 +41,14 @@
       "onboard_time": 1746002842,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2526661,
+      "num": 2526661,
+      "word": "董某莹已离开中日友好医院胸外科",
+      "onboard_time": 1746022343,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2447522,
@@ -380,7 +388,7 @@
     },
     {
       "raw_hot": 753350,
-      "num": 472776,
+      "num": 733590,
       "word": "张一山谈首搭赵丽颖",
       "onboard_time": 1746019941,
       "rank": 25,
@@ -707,6 +715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 430390,
+      "num": 471035,
+      "word": "张一山回应曝光度变少",
+      "onboard_time": 1746020363,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 427529,
       "num": 653425,
       "word": "庄达菲领衔主演长安的荔枝",
@@ -771,14 +787,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 413123,
-      "num": 413123,
-      "word": "董某莹已离开中日友好医院胸外科",
-      "onboard_time": 1746022343,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 408298,
       "num": 408298,
       "word": "国际不打小孩日",
@@ -835,14 +843,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 379296,
-      "num": 471035,
-      "word": "张一山回应曝光度变少",
-      "onboard_time": 1746020363,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 378118,
       "num": 378118,
       "word": "时代少年团直播美颜掉了",
@@ -889,6 +889,14 @@
       "onboard_time": 1745970200,
       "rank": 12,
       "category": "民生新闻,体育"
+    },
+    {
+      "raw_hot": 369150,
+      "num": 369150,
+      "word": "肖飞称已提供相关证据至监督部门",
+      "onboard_time": 1746023123,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 364513,
@@ -987,6 +995,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 305480,
+      "num": 368284,
+      "word": "林诗栋蒯曼和朝鲜组合同区",
+      "onboard_time": 1746023243,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 302771,
       "num": 380588,
       "word": "饶毅教授曾批协和任人唯亲",
@@ -1075,6 +1091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 282439,
+      "num": 282439,
+      "word": "李尚敏宣布再婚",
+      "onboard_time": 1746021323,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 278370,
       "num": 217437,
       "word": "亲子酒店员工朋友圈说希望小朋友死掉",
@@ -1091,16 +1115,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 258721,
-      "num": 258721,
-      "word": "李尚敏宣布再婚",
-      "onboard_time": 1746021323,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 256850,
-      "num": 256850,
+      "raw_hot": 259271,
+      "num": 259271,
       "word": "张雪峰谈协和4加4",
       "onboard_time": 1746019103,
       "rank": 26,
@@ -1251,6 +1267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 222759,
+      "num": 281793,
+      "word": "杨紫第一部大女主探案剧",
+      "onboard_time": 1746022643,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 222470,
       "num": 222470,
       "word": "仗义执言的女护士",
@@ -1385,6 +1409,14 @@
       "onboard_time": 1746001702,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206110,
+      "num": 281034,
+      "word": "好声音选手毕夏自曝遭遇车祸",
+      "onboard_time": 1746021262,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 205619,
@@ -1531,14 +1563,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 198306,
-      "num": 241803,
-      "word": "好声音选手毕夏自曝遭遇车祸",
-      "onboard_time": 1746021262,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 196933,
       "num": 246572,
       "word": "惊天魔盗团3",
@@ -1555,6 +1579,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 195763,
+      "num": 195763,
+      "word": "王子奇五分钟斯诺克无剪辑版",
+      "onboard_time": 1746023484,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194512,
       "num": 194512,
       "word": "今天下午的我",
@@ -1569,6 +1601,22 @@
       "onboard_time": 1745980461,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192201,
+      "num": 192201,
+      "word": "白银黄金大跳水",
+      "onboard_time": 1746018503,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 192150,
+      "num": 192150,
+      "word": "张杰谈音乐作品何以带来力量",
+      "onboard_time": 1746022883,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 191966,
@@ -1633,6 +1681,14 @@
       "onboard_time": 1745987664,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 188257,
+      "num": 301324,
+      "word": "周迅50岁素颜状态",
+      "onboard_time": 1746022705,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 188005,
@@ -1795,14 +1851,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 177403,
-      "num": 177403,
-      "word": "白银黄金大跳水",
-      "onboard_time": 1746018503,
-      "rank": 37,
-      "category": "财经"
-    },
-    {
       "raw_hot": 177072,
       "num": 414476,
       "word": "被精神病8年男子将被移出重精系统",
@@ -1891,6 +1939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 168728,
+      "num": 282383,
+      "word": "孩子再卷也比不上作弊的",
+      "onboard_time": 1746021984,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 168506,
       "num": 168506,
       "word": "王鹤棣李沁咸鱼飞升开机照",
@@ -1945,14 +2001,6 @@
       "onboard_time": 1746006801,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 166601,
-      "num": 166601,
-      "word": "杨紫第一部大女主探案剧",
-      "onboard_time": 1746022643,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 164678,
@@ -2065,14 +2113,6 @@
       "onboard_time": 1745997322,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 159099,
-      "num": 159099,
-      "word": "张杰谈音乐作品何以带来力量",
-      "onboard_time": 1746022883,
-      "rank": 45,
-      "category": "音乐"
     },
     {
       "raw_hot": 158609,
@@ -2243,20 +2283,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 146804,
-      "num": 146804,
-      "word": "周迅50岁素颜状态",
-      "onboard_time": 1746022705,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 146247,
       "num": 196011,
       "word": "左手上篮首部体育国漫出海",
       "onboard_time": 1745986282,
       "rank": 35,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 146048,
+      "num": 146048,
+      "word": "初中学历面试月薪1w的工作",
+      "onboard_time": 1746024023,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 145178,
@@ -2321,6 +2361,14 @@
       "onboard_time": 1746015201,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142391,
+      "num": 142391,
+      "word": "iG对战WBG",
+      "onboard_time": 1746010580,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 141941,
@@ -2465,6 +2513,14 @@
       "onboard_time": 1745940981,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126111,
+      "num": 280759,
+      "word": "崩铁演唱会美神降临",
+      "onboard_time": 1746023724,
+      "rank": 27,
+      "category": "游戏,动漫"
     },
     {
       "raw_hot": 125277,
@@ -2739,6 +2795,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 99529,
+      "num": 360290,
+      "word": "董袭莹8年前曾任公司法人",
+      "onboard_time": 1746022584,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 98663,
       "num": 98663,
       "word": "沙特王储称中国崩了全世界都要崩",
@@ -2787,6 +2851,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 92692,
+      "num": 875292,
+      "word": "五一出行天气提醒",
+      "onboard_time": 1746023364,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92610,
       "num": 92610,
       "word": "奈雪的茶门店通知能喝奶茶就不要喝水",
@@ -2800,6 +2872,14 @@
       "word": "穆雷43分",
       "onboard_time": 1745994261,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 89279,
+      "num": 291846,
+      "word": "苏杯中国队小组全胜出线",
+      "onboard_time": 1746023243,
+      "rank": 18,
       "category": "体育"
     },
     {
@@ -2883,6 +2963,14 @@
       "category": "科学科普,民生新闻"
     },
     {
+      "raw_hot": 85622,
+      "num": 280479,
+      "word": "4加4可获博士学位5加3仅为本科",
+      "onboard_time": 1746023423,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84307,
       "num": 415129,
       "word": "警惕4+4医学教育沦为特别通道",
@@ -2905,6 +2993,14 @@
       "onboard_time": 1745963355,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 82135,
+      "num": 283573,
+      "word": "太原爆炸小区居民讲述逃生经历",
+      "onboard_time": 1746021684,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 81969,
@@ -2977,14 +3073,6 @@
       "onboard_time": 1745985381,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 77516,
-      "num": 161529,
-      "word": "太原爆炸小区居民讲述逃生经历",
-      "onboard_time": 1746021684,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 77440,
@@ -3217,14 +3305,6 @@
       "onboard_time": 1745997800,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 54756,
-      "num": 360290,
-      "word": "董袭莹8年前曾任公司法人",
-      "onboard_time": 1746022584,
-      "rank": 19,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 53788,
@@ -3561,6 +3641,14 @@
       "onboard_time": 1745990901,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23848,
+      "num": 179000,
+      "word": "中国人为什么这么喜欢嗑瓜子",
+      "onboard_time": 1746023544,
+      "rank": 39,
+      "category": "科学科普"
     },
     {
       "raw_hot": 23775,

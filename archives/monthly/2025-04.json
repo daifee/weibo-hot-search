@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1746023081760,
+  "endTime": 1746024193690,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -777,6 +777,14 @@
       "onboard_time": 1746002842,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2526661,
+      "num": 2526661,
+      "word": "董某莹已离开中日友好医院胸外科",
+      "onboard_time": 1746022343,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2511848,
@@ -9620,7 +9628,7 @@
     },
     {
       "raw_hot": 753350,
-      "num": 472776,
+      "num": 733590,
       "word": "张一山谈首搭赵丽颖",
       "onboard_time": 1746019941,
       "rank": 25,
@@ -18683,6 +18691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 430390,
+      "num": 471035,
+      "word": "张一山回应曝光度变少",
+      "onboard_time": 1746020363,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 430296,
       "num": 430296,
       "word": "加拿大对美加征关税4月9日生效",
@@ -19537,14 +19553,6 @@
       "onboard_time": 1745633721,
       "rank": 8,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 413123,
-      "num": 413123,
-      "word": "董某莹已离开中日友好医院胸外科",
-      "onboard_time": 1746022343,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 413102,
@@ -21315,14 +21323,6 @@
       "category": "网红,艺人"
     },
     {
-      "raw_hot": 379296,
-      "num": 471035,
-      "word": "张一山回应曝光度变少",
-      "onboard_time": 1746020363,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 378795,
       "num": 378795,
       "word": "刘诗诗吴宣仪hi6上班路透",
@@ -21865,6 +21865,14 @@
       "onboard_time": 1745114545,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 369150,
+      "num": 369150,
+      "word": "肖飞称已提供相关证据至监督部门",
+      "onboard_time": 1746023123,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 369147,
@@ -26251,6 +26259,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 305480,
+      "num": 368284,
+      "word": "林诗栋蒯曼和朝鲜组合同区",
+      "onboard_time": 1746023243,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 305320,
       "num": 305320,
       "word": "光夜王者强强联合",
@@ -28353,6 +28369,14 @@
       "onboard_time": 1743479064,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 282439,
+      "num": 282439,
+      "word": "李尚敏宣布再婚",
+      "onboard_time": 1746021323,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 282385,
@@ -30667,6 +30691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 259271,
+      "num": 259271,
+      "word": "张雪峰谈协和4加4",
+      "onboard_time": 1746019103,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
       "raw_hot": 259224,
       "num": 371984,
       "word": "女子夜乘顺风车司机全程智驾玩手机",
@@ -30737,14 +30769,6 @@
       "onboard_time": 1745206404,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 258721,
-      "num": 258721,
-      "word": "李尚敏宣布再婚",
-      "onboard_time": 1746021323,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 258693,
@@ -30953,14 +30977,6 @@
       "onboard_time": 1744950862,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 256850,
-      "num": 256850,
-      "word": "张雪峰谈协和4加4",
-      "onboard_time": 1746019103,
-      "rank": 26,
-      "category": "教育"
     },
     {
       "raw_hot": 256836,
@@ -35619,6 +35635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 222759,
+      "num": 281793,
+      "word": "杨紫第一部大女主探案剧",
+      "onboard_time": 1746022643,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 222681,
       "num": 547220,
       "word": "管乐今晚还回家吗",
@@ -39187,6 +39211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206110,
+      "num": 281034,
+      "word": "好声音选手毕夏自曝遭遇车祸",
+      "onboard_time": 1746021262,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206083,
       "num": 334705,
       "word": "AI复原8位烈士集体答到看到泪目",
@@ -41867,14 +41899,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 198306,
-      "num": 241803,
-      "word": "好声音选手毕夏自曝遭遇车祸",
-      "onboard_time": 1746021262,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 198277,
       "num": 198277,
       "word": "一诺满分苍",
@@ -42777,6 +42801,14 @@
       "onboard_time": 1745490381,
       "rank": 40,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 195763,
+      "num": 195763,
+      "word": "王子奇五分钟斯诺克无剪辑版",
+      "onboard_time": 1746023484,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 195761,
@@ -44091,12 +44123,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192201,
+      "num": 192201,
+      "word": "白银黄金大跳水",
+      "onboard_time": 1746018503,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 192174,
       "num": 203752,
       "word": "淮水竹亭今天开播",
       "onboard_time": 1745810422,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192150,
+      "num": 192150,
+      "word": "张杰谈音乐作品何以带来力量",
+      "onboard_time": 1746022883,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 192117,
@@ -45657,6 +45705,14 @@
       "onboard_time": 1745059343,
       "rank": 25,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 188257,
+      "num": 301324,
+      "word": "周迅50岁素颜状态",
+      "onboard_time": 1746022705,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 188170,
@@ -49155,14 +49211,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 177403,
-      "num": 177403,
-      "word": "白银黄金大跳水",
-      "onboard_time": 1746018503,
-      "rank": 37,
-      "category": "财经"
-    },
-    {
       "raw_hot": 177381,
       "num": 177381,
       "word": "曝苹果要求供应商降价",
@@ -52003,6 +52051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168728,
+      "num": 282383,
+      "word": "孩子再卷也比不上作弊的",
+      "onboard_time": 1746021984,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 168714,
       "num": 181930,
       "word": "身体缺维B的人易情绪暴躁",
@@ -52800,14 +52856,6 @@
       "word": "成毅狐妖王权篇C位海报",
       "onboard_time": 1745407342,
       "rank": 36,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 166601,
-      "num": 166601,
-      "word": "杨紫第一部大女主探案剧",
-      "onboard_time": 1746022643,
-      "rank": 37,
       "category": "剧集"
     },
     {
@@ -55721,14 +55769,6 @@
       "onboard_time": 1744950383,
       "rank": 49,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 159099,
-      "num": 159099,
-      "word": "张杰谈音乐作品何以带来力量",
-      "onboard_time": 1746022883,
-      "rank": 45,
-      "category": "音乐"
     },
     {
       "raw_hot": 159085,
@@ -60915,14 +60955,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 146804,
-      "num": 146804,
-      "word": "周迅50岁素颜状态",
-      "onboard_time": 1746022705,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 146803,
       "num": 156448,
       "word": "黄灿灿在成家里也甜甜的",
@@ -61257,6 +61289,14 @@
       "onboard_time": 1744966101,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 146048,
+      "num": 146048,
+      "word": "初中学历面试月薪1w的工作",
+      "onboard_time": 1746024023,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 146033,
@@ -62905,6 +62945,14 @@
       "onboard_time": 1745907382,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 142391,
+      "num": 142391,
+      "word": "iG对战WBG",
+      "onboard_time": 1746010580,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 142363,
@@ -70169,6 +70217,14 @@
       "onboard_time": 1744895782,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 126111,
+      "num": 280759,
+      "word": "崩铁演唱会美神降临",
+      "onboard_time": 1746023724,
+      "rank": 27,
+      "category": "游戏,动漫"
     },
     {
       "raw_hot": 126103,
@@ -79347,6 +79403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 99529,
+      "num": 360290,
+      "word": "董袭莹8年前曾任公司法人",
+      "onboard_time": 1746022584,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 99513,
       "num": 175021,
       "word": "向鹏3比2林钟勋",
@@ -81211,6 +81275,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 92692,
+      "num": 875292,
+      "word": "五一出行天气提醒",
+      "onboard_time": 1746023364,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92689,
       "num": 126893,
       "word": "4加4培养模式为何陷争议漩涡",
@@ -81977,6 +82049,14 @@
       "onboard_time": 1745133743,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 89279,
+      "num": 291846,
+      "word": "苏杯中国队小组全胜出线",
+      "onboard_time": 1746023243,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 89230,
@@ -82777,6 +82857,14 @@
       "onboard_time": 1745463200,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 85622,
+      "num": 280479,
+      "word": "4加4可获博士学位5加3仅为本科",
+      "onboard_time": 1746023423,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85543,
@@ -83672,6 +83760,14 @@
       "word": "用一条线画出中国问天征途",
       "onboard_time": 1745453841,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82135,
+      "num": 283573,
+      "word": "太原爆炸小区居民讲述逃生经历",
+      "onboard_time": 1746021684,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -84777,14 +84873,6 @@
       "onboard_time": 1743723019,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 77516,
-      "num": 161529,
-      "word": "太原爆炸小区居民讲述逃生经历",
-      "onboard_time": 1746021684,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 77507,
@@ -90417,14 +90505,6 @@
       "onboard_time": 1745589982,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 54756,
-      "num": 360290,
-      "word": "董袭莹8年前曾任公司法人",
-      "onboard_time": 1746022584,
-      "rank": 19,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 54755,
@@ -99961,6 +100041,14 @@
       "onboard_time": 1743591201,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 23848,
+      "num": 179000,
+      "word": "中国人为什么这么喜欢嗑瓜子",
+      "onboard_time": 1746023544,
+      "rank": 39,
+      "category": "科学科普"
     },
     {
       "raw_hot": 23829,
