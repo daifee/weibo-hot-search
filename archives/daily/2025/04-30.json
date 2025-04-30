@@ -1,6 +1,6 @@
 {
   "startTime": 1745944279846,
-  "endTime": 1746001992359,
+  "endTime": 1746002790296,
   "band_list": [
     {
       "raw_hot": 2742411,
@@ -67,19 +67,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1613107,
+      "num": 593301,
+      "word": "到底动了谁的蛋糕",
+      "onboard_time": 1745997681,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1551467,
       "num": 626075,
       "word": "商务座减二等座",
       "onboard_time": 1745981361,
       "rank": 16,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 1457385,
-      "num": 593301,
-      "word": "到底动了谁的蛋糕",
-      "onboard_time": 1745997681,
-      "rank": 42,
       "category": "幽默"
     },
     {
@@ -123,20 +123,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1314540,
+      "num": 1314540,
+      "word": "董袭莹的研究领域五花八门",
+      "onboard_time": 1745999421,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1102462,
       "num": 1102462,
       "word": "长安的荔枝",
       "onboard_time": 1745980641,
       "rank": 4,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1088928,
-      "num": 1088928,
-      "word": "董袭莹的研究领域五花八门",
-      "onboard_time": 1745999421,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1045613,
@@ -209,6 +209,14 @@
       "onboard_time": 1745908822,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 757157,
+      "num": 757157,
+      "word": "协和医学院学位论文系统访客已无法查看",
+      "onboard_time": 1746001160,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 749862,
@@ -323,8 +331,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 535515,
-      "num": 535515,
+      "raw_hot": 539585,
+      "num": 539585,
       "word": "太原小区爆炸事故已致17人受伤",
       "onboard_time": 1745999961,
       "rank": 15,
@@ -425,6 +433,14 @@
       "onboard_time": 1745974641,
       "rank": 7,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 444548,
+      "num": 601316,
+      "word": "协和往年4加4录取名单恢复显示",
+      "onboard_time": 1746001043,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 441911,
@@ -635,6 +651,14 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 309073,
+      "num": 386026,
+      "word": "女子3小时内喝八杯水中毒进ICU",
+      "onboard_time": 1746001761,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 308134,
       "num": 308134,
       "word": "权志龙澳门",
@@ -676,7 +700,7 @@
     },
     {
       "raw_hot": 295990,
-      "num": 295990,
+      "num": 334664,
       "word": "没等到司藤2等到了云渺",
       "onboard_time": 1745997502,
       "rank": 39,
@@ -697,6 +721,14 @@
       "onboard_time": 1745973022,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 282476,
+      "num": 605880,
+      "word": "董某莹事件公众所求的无非是公平",
+      "onboard_time": 1746001282,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 278370,
@@ -899,6 +931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 210945,
+      "num": 210945,
+      "word": "迪丽热巴从漫画里走出来了",
+      "onboard_time": 1746001582,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206649,
       "num": 206649,
       "word": "避孕焦虑 女性情感劳动",
@@ -908,7 +948,7 @@
     },
     {
       "raw_hot": 206475,
-      "num": 266805,
+      "num": 332207,
       "word": "刘宇宁新剧改名玫瑰丛生",
       "onboard_time": 1746001702,
       "rank": 29,
@@ -977,6 +1017,14 @@
       "onboard_time": 1745971641,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 202581,
+      "num": 333349,
+      "word": "毛晓彤毛不易差点同名",
+      "onboard_time": 1746002062,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 201948,
@@ -1145,6 +1193,14 @@
       "onboard_time": 1745984721,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 182654,
+      "num": 182654,
+      "word": "A股",
+      "onboard_time": 1746002302,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 182619,
@@ -1331,14 +1387,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 161141,
-      "num": 161141,
-      "word": "迪丽热巴从漫画里走出来了",
-      "onboard_time": 1746001582,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 160224,
       "num": 1093077,
       "word": "中国航天员回地球过五一",
@@ -1403,6 +1451,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156297,
+      "num": 156297,
+      "word": "协和44模式需3名推荐人",
+      "onboard_time": 1746001702,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155881,
+      "num": 155881,
+      "word": "赵今麦小小的脸上全是五官",
+      "onboard_time": 1746002001,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 154545,
       "num": 154545,
       "word": "原来袜子上的夹子是这样用的",
@@ -1417,6 +1481,14 @@
       "onboard_time": 1745970861,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 150990,
+      "num": 150990,
+      "word": "航天员宋令东妈妈哭了",
+      "onboard_time": 1746002241,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 150464,
@@ -1449,6 +1521,14 @@
       "onboard_time": 1745986282,
       "rank": 35,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 144919,
+      "num": 144919,
+      "word": "范丞丞以为沙溢的肌肉照是P图",
+      "onboard_time": 1746002723,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 144210,
@@ -1491,12 +1571,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 139053,
-      "num": 601316,
-      "word": "协和往年4加4录取名单恢复显示",
-      "onboard_time": 1746001043,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 137226,
+      "num": 335283,
+      "word": "小米系全线大涨",
+      "onboard_time": 1745999302,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 129127,
@@ -1537,14 +1617,6 @@
       "onboard_time": 1745940981,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 126024,
-      "num": 239275,
-      "word": "小米系全线大涨",
-      "onboard_time": 1745999302,
-      "rank": 37,
-      "category": "财经"
     },
     {
       "raw_hot": 125277,
@@ -1593,14 +1665,6 @@
       "onboard_time": 1745984003,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 117699,
-      "num": 285468,
-      "word": "女子3小时内喝八杯水中毒进ICU",
-      "onboard_time": 1746001761,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 116806,
@@ -1763,14 +1827,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 94568,
-      "num": 605880,
-      "word": "董某莹事件公众所求的无非是公平",
-      "onboard_time": 1746001282,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 94007,
       "num": 94007,
       "word": "商家曝女子网购内衣半年后买新退旧",
@@ -1785,14 +1841,6 @@
       "onboard_time": 1745943979,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 93003,
-      "num": 537529,
-      "word": "协和医学院学位论文系统访客已无法查看",
-      "onboard_time": 1746001160,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 92610,
@@ -2116,7 +2164,7 @@
     },
     {
       "raw_hot": 57511,
-      "num": 252187,
+      "num": 329736,
       "word": "潘展乐又来逗记者了",
       "onboard_time": 1746001942,
       "rank": 34,
@@ -2124,7 +2172,7 @@
     },
     {
       "raw_hot": 56125,
-      "num": 254883,
+      "num": 330614,
       "word": "五一假期持股过节还是持币过节",
       "onboard_time": 1746001882,
       "rank": 32,
@@ -2144,6 +2192,14 @@
       "word": "从肖某事件看4加4模式",
       "onboard_time": 1745945238,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50981,
+      "num": 528108,
+      "word": "员工拒签空白劳动合同被辞退",
+      "onboard_time": 1746001882,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -2296,14 +2352,6 @@
       "word": "如何客观看待4加4培养模式",
       "onboard_time": 1745995342,
       "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28749,
-      "num": 231373,
-      "word": "员工拒签空白劳动合同被辞退",
-      "onboard_time": 1746001882,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -2513,6 +2561,14 @@
       "onboard_time": 1745959514,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 10264,
+      "num": 402748,
+      "word": "出行受困如何使用导航软件求生",
+      "onboard_time": 1746002482,
+      "rank": 17,
+      "category": "互联网"
     },
     {
       "raw_hot": 8430,
