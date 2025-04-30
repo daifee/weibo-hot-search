@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/30 07:39:52
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/30 09:55:22
 </p>
 </blockquote>
 <p>
@@ -1383,6 +1383,12 @@ C罗点评甲亢哥中国行（热度：2472029）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E8%A2%AD%E8%8E%B9%E9%97%AE%E9%A2%98%E4%B8%8E%E5%85%B6%E5%88%A0%E6%96%87%E4%B8%8D%E5%A6%82%E7%9B%B4%E9%9D%A2%E7%9C%9F%E7%9B%B8%23" target="weibo">
+董袭莹问题与其删文不如直面真相（热度：1817610）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%AF%B4%E5%94%B1%E9%80%89%E6%89%8B%E8%B4%A8%E7%96%91%E4%B8%A5%E6%B5%A9%E7%BF%94%E5%AF%BC%E5%B8%88%E8%BA%AB%E4%BB%BD%23" target="weibo">
 新说唱选手质疑严浩翔导师身份（热度：1817527）
 </a>
@@ -1787,6 +1793,12 @@ Prada魔咒（热度：1755218）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B48%E5%B9%B4%E5%89%8D%E7%9A%84%E8%B7%AF%E9%80%8F%23" target="weibo">
 鹿晗迪丽热巴8年前的路透（热度：1617305）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2328%E5%B9%B4%E4%BA%94%E4%B8%80%E7%9C%9F%E8%83%BD%E8%BF%9E%E4%BC%919%E5%A4%A9%E5%90%97%23" target="weibo">
+28年五一真能连休9天吗（热度：1613544）
 </a>
 </li>
 
@@ -4713,6 +4725,12 @@ IU向雪莉金赛纶推荐同一心理医生（热度：1041446）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8B%92%E7%BB%9D%E8%82%96%E9%A3%9E%E6%89%93%E6%8B%9B%E5%91%BC%E5%8C%BB%E7%94%9F3%E5%A4%A9%E6%B6%A8%E7%B2%895.3%E4%B8%87%23" target="weibo">
+拒绝肖飞打招呼医生3天涨粉5.3万（热度：985670）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E6%94%B9logo%23" target="weibo">
 爱奇艺改logo（热度：984960）
 </a>
@@ -5291,6 +5309,12 @@ enhypen科切拉舞台（热度：916460）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E5%A5%B3%E5%84%BF%E5%BC%A0%E8%AF%97%E7%90%AA%E5%A5%B9%E6%9D%A5%E8%BF%87%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%23" target="weibo">
 我的女儿张诗琪她来过这个世界（热度：916266）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8A%97%E7%99%8C%E5%8D%9A%E4%B8%BB%E5%B0%8F%E6%9D%A8%E5%93%A5%E7%97%85%E9%80%9D%23" target="weibo">
+抗癌博主小杨哥病逝（热度：915276）
 </a>
 </li>
 
@@ -5987,30 +6011,6 @@ Swisse致歉（热度：842126）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%BB%A7%E7%BB%AD%E5%AF%B9%E6%97%A5%E6%9C%AC%E6%96%BD%E5%8E%8B%23" target="weibo">
 特朗普继续对日本施压（热度：837485）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%B7%B2%E5%90%91%E6%97%A5%E6%96%B9%E4%B8%A5%E6%AD%A3%E4%BA%A4%E6%B6%89%23" target="weibo">
-中方已向日方严正交涉（热度：836565）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2335%E5%B2%81%E5%A5%B3%E5%AD%90%E6%9C%88%E5%85%A5%E4%BA%94%E4%B8%87%E5%8C%97%E6%BC%82%E5%8D%81%E5%87%A0%E5%B9%B4%E5%8F%AA%E6%94%92%E4%B8%8B%E5%8D%81%E4%B8%87%23" target="weibo">
-35岁女子月入五万北漂十几年只攒下十万（热度：836319）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E5%A4%AA%20%E4%BB%8A%E5%A4%A9%E6%8A%93%E4%BA%86%E5%A5%BD%E5%A4%9A%E5%8F%AA%E5%A4%A7%E9%B9%85%23" target="weibo">
-向太 今天抓了好多只大鹅（热度：835879）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BC%85%E7%94%B8%E4%BA%BA%E5%93%BD%E5%92%BD%E8%AF%B4%E6%88%91%E4%BB%AC%E6%B2%A1%E6%9C%89%E5%8F%A4%E5%BB%BA%E7%AD%91%E4%BA%86%23" target="weibo">
-缅甸人哽咽说我们没有古建筑了（热度：835857）
 </a>
 </li>
 
