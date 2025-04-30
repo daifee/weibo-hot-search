@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746033731055,
+  "endTime": 1746034805884,
   "band_list": [
     {
       "raw_hot": 1512910,
@@ -59,6 +59,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 572484,
+      "num": 572484,
+      "word": "男性注射避孕药一次至少管2年",
+      "onboard_time": 1746032899,
+      "rank": 3,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 446469,
       "num": 244803,
       "word": "太原爆炸已致1死21伤2失联",
@@ -89,14 +97,6 @@
       "onboard_time": 1746020363,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 311945,
-      "num": 311945,
-      "word": "男性注射避孕药一次至少管2年",
-      "onboard_time": 1746032899,
-      "rank": 3,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 309477,
@@ -195,20 +195,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182030,
+      "num": 182030,
+      "word": "好声音选手毕夏自曝遭遇车祸",
+      "onboard_time": 1746021262,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174014,
       "num": 148659,
       "word": "有协和4加4博士论文正文仅12页",
       "onboard_time": 1746006141,
       "rank": 21,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 171352,
-      "num": 152907,
-      "word": "好声音选手毕夏自曝遭遇车祸",
-      "onboard_time": 1746021262,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 161052,
@@ -371,20 +371,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 96027,
+      "num": 96027,
+      "word": "董袭莹的种种疑云该有人出来回应了",
+      "onboard_time": 1746032958,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95175,
+      "num": 95175,
+      "word": "饶毅回应怒怼协和",
+      "onboard_time": 1746014421,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93383,
       "num": 93383,
       "word": "周迅50岁素颜状态",
       "onboard_time": 1746022705,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 92937,
-      "num": 92937,
-      "word": "饶毅回应怒怼协和",
-      "onboard_time": 1746014421,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 90281,
@@ -419,7 +427,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 65067,
+      "raw_hot": 65851,
       "num": 93910,
       "word": "张凌赫与Gucci的适配度",
       "onboard_time": 1746031219,
@@ -443,6 +451,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 48845,
+      "num": 48845,
+      "word": "papi酱梦女",
+      "onboard_time": 1746003022,
+      "rank": 39,
+      "category": "网红"
+    },
+    {
       "raw_hot": 42401,
       "num": 172195,
       "word": "这就是劳动的力量",
@@ -459,16 +475,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 32598,
-      "num": 65766,
-      "word": "董袭莹的种种疑云该有人出来回应了",
-      "onboard_time": 1746032958,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29757,
-      "num": 61025,
+      "raw_hot": 34342,
+      "num": 65894,
       "word": "没有信息表明董袭莹能力超群",
       "onboard_time": 1746033079,
       "rank": 40,
