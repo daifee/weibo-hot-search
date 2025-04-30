@@ -1,0 +1,410 @@
+{
+  "runTime": 1745983604753,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2222858,
+        "num": 2222858,
+        "word": "生命树官宣",
+        "onboard_time": 1745982141,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1418436,
+        "num": 1418436,
+        "word": "28年五一真能连休9天吗",
+        "onboard_time": 1745975242,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149477,
+        "num": 1199926,
+        "word": "移动互联网未成年人模式正式发布",
+        "onboard_time": 1745982742,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1102462,
+        "num": 1102462,
+        "word": "长安的荔枝",
+        "onboard_time": 1745980641,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1056779,
+        "num": 1056779,
+        "word": "董袭莹问题与其删文不如直面真相",
+        "onboard_time": 1745972661,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 320059,
+        "num": 320059,
+        "word": "陈丽君等30人获五四奖章",
+        "onboard_time": 1745974641,
+        "rank": 5,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 885569,
+        "num": 319248,
+        "word": "抗癌博主小杨哥病逝",
+        "onboard_time": 1745974822,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 551173,
+        "num": 319129,
+        "word": "董袭莹知网撤稿问题有待调查",
+        "onboard_time": 1745976440,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 469465,
+        "num": 317658,
+        "word": "宋妍霏 人鱼的眼泪",
+        "onboard_time": 1745981842,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 315441,
+        "num": 315441,
+        "word": "董某莹的跨界疑云有谁在紧张",
+        "onboard_time": 1745982382,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1551467,
+        "num": 315108,
+        "word": "商务座减二等座",
+        "onboard_time": 1745981361,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1669221,
+        "num": 314928,
+        "word": "董小姐",
+        "onboard_time": 1745977221,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1153697,
+        "num": 314389,
+        "word": "女子生理期弄脏店家多件新衣后拒买",
+        "onboard_time": 1745980340,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 634692,
+        "num": 314056,
+        "word": "董小姐去给病人开刀这事很可怕",
+        "onboard_time": 1745941042,
+        "rank": 13,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 79077,
+        "num": 313840,
+        "word": "官方回应是否吊销虐猫律师执照",
+        "onboard_time": 1745982922,
+        "rank": 14,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 413445,
+        "num": 313368,
+        "word": "藏海传会给大家不一样的肖战",
+        "onboard_time": 1745975063,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 393788,
+        "num": 312999,
+        "word": "生命树",
+        "onboard_time": 1745938103,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70929,
+        "num": 312476,
+        "word": "阿迪达斯中国业绩八连增",
+        "onboard_time": 1745979620,
+        "rank": 17,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 156085,
+        "num": 312449,
+        "word": "肖飞回应手术过程中离场是吃降压药",
+        "onboard_time": 1745983102,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77440,
+        "num": 311908,
+        "word": "小伙称会通灵续命发功时当场被抓",
+        "onboard_time": 1745982021,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 311715,
+        "num": 311715,
+        "word": "雷军回复五一要结婚网友",
+        "onboard_time": 1745981182,
+        "rank": 20,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 307193,
+        "num": 307193,
+        "word": "2025五四奖章获奖名单公布",
+        "onboard_time": 1745970380,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 479829,
+        "num": 305460,
+        "word": "谁来管管现在的女士内裤",
+        "onboard_time": 1745975542,
+        "rank": 22,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 38002,
+        "num": 304363,
+        "word": "哈利伯顿依靠什么战术绝杀雄鹿",
+        "onboard_time": 1745983282,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 342212,
+        "num": 301539,
+        "word": "肖某事件撕开医德无问题遮羞布",
+        "onboard_time": 1745977581,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 781577,
+        "num": 300207,
+        "word": "拒绝肖飞打招呼医生3天涨粉5.3万",
+        "onboard_time": 1745970560,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 326384,
+        "num": 297904,
+        "word": "赵今麦泳衣",
+        "onboard_time": 1745968099,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313533,
+        "num": 295931,
+        "word": "父亲与小33岁亡子女友再婚被女儿砸门",
+        "onboard_time": 1745941820,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287568,
+        "num": 294978,
+        "word": "咸鱼飞升",
+        "onboard_time": 1745976140,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278453,
+        "num": 292044,
+        "word": "麦琳这是瘦了多少",
+        "onboard_time": 1745939123,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291029,
+        "num": 291029,
+        "word": "知网客服回应论文下架流程",
+        "onboard_time": 1745982864,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286629,
+        "num": 286629,
+        "word": "蛇年蛇月蛇日蛇时",
+        "onboard_time": 1745982440,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224088,
+        "num": 224088,
+        "word": "人鱼的眼泪作者回应",
+        "onboard_time": 1745973022,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221832,
+        "num": 221832,
+        "word": "李铁案今天二审宣判",
+        "onboard_time": 1745970200,
+        "rank": 33,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 219010,
+        "num": 219010,
+        "word": "行程图",
+        "onboard_time": 1745978720,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205877,
+        "num": 205877,
+        "word": "董袭莹带出的五大疑点待协和等解答",
+        "onboard_time": 1745942421,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205619,
+        "num": 205619,
+        "word": "饿了么宣布加入外卖大战",
+        "onboard_time": 1745983102,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 205108,
+        "num": 205108,
+        "word": "胡歌生命树特出",
+        "onboard_time": 1745983402,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22158,
+        "num": 199180,
+        "word": "25年春季大学生草台班子运动会",
+        "onboard_time": 1745982682,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21695,
+        "num": 198939,
+        "word": "烟台一夜之间冒出个超萌吉祥物",
+        "onboard_time": 1745982081,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198893,
+        "num": 198893,
+        "word": "铲丝",
+        "onboard_time": 1745983102,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196351,
+        "num": 196351,
+        "word": "欢迎神十九回家",
+        "onboard_time": 1745970861,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 100437,
+        "num": 196271,
+        "word": "李铁靠行贿踢假球当上国足主教练",
+        "onboard_time": 1745980340,
+        "rank": 42,
+        "category": "体育,民生新闻"
+      },
+      {
+        "raw_hot": 34105,
+        "num": 196244,
+        "word": "你有这4个机会避开胃癌",
+        "onboard_time": 1745968340,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 196222,
+        "num": 196222,
+        "word": "男子冰糖当毒品卖10年后成网红",
+        "onboard_time": 1745983583,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194512,
+        "num": 194512,
+        "word": "今天下午的我",
+        "onboard_time": 1745982201,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 13080,
+        "num": 187998,
+        "word": "自制奶茶店同款",
+        "onboard_time": 1745983341,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 185154,
+        "num": 185154,
+        "word": "辽阳一饭店火灾22死3伤",
+        "onboard_time": 1745916264,
+        "rank": 47,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 181592,
+        "num": 181592,
+        "word": "李铁二审仍被判20年",
+        "onboard_time": 1745975482,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174080,
+        "num": 180215,
+        "word": "电影长安的荔枝全阵容官宣",
+        "onboard_time": 1745981122,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在上海考察调研#"
+    }
+  }
+}

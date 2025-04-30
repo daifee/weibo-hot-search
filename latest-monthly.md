@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/30 11:10:34
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/30 11:26:44
 </p>
 </blockquote>
 <p>
@@ -875,6 +875,12 @@ C罗点评甲亢哥中国行（热度：2472029）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BC%BA%E4%B8%9C%E4%BA%B2%E8%87%AA%E9%80%81%E5%A4%96%E5%8D%96%23" target="weibo">
 刘强东亲自送外卖（热度：2225424）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%9F%E5%91%BD%E6%A0%91%E5%AE%98%E5%AE%A3%23" target="weibo">
+生命树官宣（热度：2222858）
 </a>
 </li>
 
@@ -1961,6 +1967,12 @@ RedVelvet 解散（热度：1601334）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%A2%E5%B4%A9%E4%BA%86%23" target="weibo">
 美团崩了（热度：1552355）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%95%86%E5%8A%A1%E5%BA%A7%E5%87%8F%E4%BA%8C%E7%AD%89%E5%BA%A7%23" target="weibo">
+商务座减二等座（热度：1551467）
 </a>
 </li>
 
@@ -3999,6 +4011,12 @@ DeepSeek7小时攻克缅甸救灾语言关（热度：1104741）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E5%AE%89%E7%9A%84%E8%8D%94%E6%9E%9D%23" target="weibo">
+长安的荔枝（热度：1102462）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%8D%E8%AF%88%E8%80%81%E9%99%88%E5%B9%B4%E6%94%B6%E5%85%A5%E9%99%8D%E5%88%B031%E4%B8%87%23" target="weibo">
 反诈老陈年收入降到31万（热度：1102407）
 </a>
@@ -5993,24 +6011,6 @@ Swisse致歉（热度：842126）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BE%99%E5%BA%94%E5%8F%B0%E7%A7%B0%E7%95%99%E7%BB%99%E5%8F%B0%E6%B9%BE%E7%9A%84%E6%97%B6%E9%97%B4%E4%B8%8D%E5%A4%9A%E4%BA%86%23" target="weibo">
 龙应台称留给台湾的时间不多了（热度：839777）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%BF%AA%E5%8D%95%E6%89%8B%E5%80%92%E8%BD%A6%E5%85%A5%E5%BA%93%23" target="weibo">
-孙俪单手倒车入库（热度：839705）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8E%8E%E5%A4%B4%E6%B7%B7%E5%8F%8C%23" target="weibo">
-莎头混双（热度：838123）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%89%BA%E5%BD%A4%E6%8B%92%E7%BB%9D%E4%BA%86%E6%88%BF%E7%90%AA%E7%9A%84%E9%B8%A1%E6%B1%A4%E5%B9%B6%E4%BC%B8%E6%89%8B%E8%A6%81%E9%92%B1%23" target="weibo">
-李艺彤拒绝了房琪的鸡汤并伸手要钱（热度：838044）
 </a>
 </li>
 
