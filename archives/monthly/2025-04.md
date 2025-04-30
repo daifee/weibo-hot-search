@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/30 21:34:01
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/30 21:45:05
 </p>
 </blockquote>
 <p>
@@ -3135,6 +3135,12 @@ Simon事件（热度：1411247）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AA%E5%8E%9F%E7%88%86%E7%82%B8%E5%B7%B2%E8%87%B41%E6%AD%BB21%E4%BC%A42%E5%A4%B1%E8%81%94%23" target="weibo">
+太原爆炸已致1死21伤2失联（热度：1281854）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%88%92%E8%82%A4%E4%BD%B3%20%E7%8E%8B%E6%A5%9A%E9%92%A6%23" target="weibo">
 舒肤佳 王楚钦（热度：1281452）
 </a>
@@ -6005,12 +6011,6 @@ SM新男团 撞名（热度：910464）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%96%8A%E8%AF%9D%E6%AC%A7%E7%9B%9F%E8%B4%AD%E4%B9%B03500%E4%BA%BF%E7%BE%8E%E5%85%83%E8%83%BD%E6%BA%90%23" target="weibo">
 特朗普喊话欧盟购买3500亿美元能源（热度：855366）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E5%AE%B6%E7%AB%99%E5%A7%90%E8%BF%99%E4%B9%88%E5%8B%87%23" target="weibo">
-谁家站姐这么勇（热度：855241）
 </a>
 </li>
 

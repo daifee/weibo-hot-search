@@ -1,0 +1,410 @@
+{
+  "runTime": 1746020705593,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4527485,
+        "num": 4527485,
+        "word": "协和医学院董某莹事件最新进展",
+        "onboard_time": 1746010640,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1281854,
+        "num": 1281854,
+        "word": "太原爆炸已致1死21伤2失联",
+        "onboard_time": 1746018743,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76340,
+        "num": 941036,
+        "word": "神十九任务圆满成功",
+        "onboard_time": 1746015502,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1466978,
+        "num": 939085,
+        "word": "卫健委回应肖飞手术离场40分钟",
+        "onboard_time": 1746016101,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 928633,
+        "num": 928633,
+        "word": "十三州府取关曾黎",
+        "onboard_time": 1746002842,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 913585,
+        "num": 913585,
+        "word": "冲着月薪一万应聘九天到手一千",
+        "onboard_time": 1746015620,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 805244,
+        "num": 805244,
+        "word": "青簪行",
+        "onboard_time": 1746016221,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 803908,
+        "num": 803908,
+        "word": "董袭莹信息不断被删谁在掩耳盗铃",
+        "onboard_time": 1746013221,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 690218,
+        "num": 690218,
+        "word": "ITTF抽签",
+        "onboard_time": 1746018922,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 264641,
+        "num": 636167,
+        "word": "王建军被查",
+        "onboard_time": 1746017543,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 737035,
+        "num": 636002,
+        "word": "董袭莹论文致谢称希望不负一袭白衣",
+        "onboard_time": 1746013941,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 609010,
+        "num": 609010,
+        "word": "唐朝诡事录之下南洋",
+        "onboard_time": 1746017543,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 566734,
+        "num": 566734,
+        "word": "协和",
+        "onboard_time": 1746017841,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 473795,
+        "num": 473795,
+        "word": "协和医学院的医学博士发声",
+        "onboard_time": 1746013761,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 439843,
+        "num": 472776,
+        "word": "张一山谈首搭赵丽颖",
+        "onboard_time": 1746019941,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279092,
+        "num": 472057,
+        "word": "曾黎",
+        "onboard_time": 1746000622,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230862,
+        "num": 471035,
+        "word": "张一山回应曝光度变少",
+        "onboard_time": 1746020363,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86789,
+        "num": 469909,
+        "word": "五一去洛阳出片带OPPO就够了",
+        "onboard_time": 1746018383,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 48644,
+        "num": 469086,
+        "word": "西安一女子称孕期被公公家暴住院",
+        "onboard_time": 1746020003,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191570,
+        "num": 467200,
+        "word": "多哈世乒赛抽签",
+        "onboard_time": 1746019822,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 466840,
+        "num": 466840,
+        "word": "女大学生旱厕捞手机掉化粪池溺亡",
+        "onboard_time": 1746012682,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 450164,
+        "num": 450164,
+        "word": "山西太原一处居民小区爆炸",
+        "onboard_time": 1745995521,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 420357,
+        "num": 420357,
+        "word": "肖飞",
+        "onboard_time": 1746017782,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 5116,
+        "num": 419242,
+        "word": "张哲华从喜剧到正剧有哪些挑战",
+        "onboard_time": 1746020482,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 418802,
+        "num": 418802,
+        "word": "王辰",
+        "onboard_time": 1746015442,
+        "rank": 24,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 300326,
+        "num": 300326,
+        "word": "水贝老板炒黄金亏了一个亿",
+        "onboard_time": 1746008483,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99501,
+        "num": 287143,
+        "word": "王楚钦林高远同区",
+        "onboard_time": 1746020544,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209982,
+        "num": 281091,
+        "word": "王一栩魔改",
+        "onboard_time": 1746013520,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102986,
+        "num": 262130,
+        "word": "陈梦说要全力以赴不留遗憾",
+        "onboard_time": 1746014842,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86141,
+        "num": 251767,
+        "word": "孙颖莎大藤沙月同区",
+        "onboard_time": 1746020544,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238783,
+        "num": 238783,
+        "word": "饶毅教授曾批协和任人唯亲",
+        "onboard_time": 1746010702,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212870,
+        "num": 212870,
+        "word": "有协和4加4博士论文正文仅12页",
+        "onboard_time": 1746006141,
+        "rank": 31,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 208306,
+        "num": 208306,
+        "word": "papi酱梦女",
+        "onboard_time": 1746003022,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 204502,
+        "num": 204502,
+        "word": "才知道间谍手段有多肮脏",
+        "onboard_time": 1746018142,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204059,
+        "num": 204059,
+        "word": "杜海涛约女明星吃饭",
+        "onboard_time": 1746004281,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201886,
+        "num": 201886,
+        "word": "张艺凡因为身高错失过好角色",
+        "onboard_time": 1746009860,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 186989,
+        "num": 186989,
+        "word": "北大学霸陈如月曾申请协和44失败",
+        "onboard_time": 1746016101,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180572,
+        "num": 180572,
+        "word": "被刘诗诗歪头杀拿下",
+        "onboard_time": 1746020242,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73191,
+        "num": 180160,
+        "word": "新兰父母终于见面了",
+        "onboard_time": 1746019163,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 22971,
+        "num": 180082,
+        "word": "还能不能重建教育公平",
+        "onboard_time": 1746020063,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180069,
+        "num": 180069,
+        "word": "两大叔圈天菜终于又合作了",
+        "onboard_time": 1746020363,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177072,
+        "num": 177072,
+        "word": "被精神病8年男子将被移出重精系统",
+        "onboard_time": 1746018623,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172526,
+        "num": 172526,
+        "word": "蒋梦婕初恋对象是吴谨言同班同学",
+        "onboard_time": 1746007161,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168099,
+        "num": 168099,
+        "word": "三问肖飞董袭莹事件",
+        "onboard_time": 1746012142,
+        "rank": 43,
+        "category": "民生新闻,议题讨论"
+      },
+      {
+        "raw_hot": 157768,
+        "num": 157768,
+        "word": "美国一季度GDP环比萎缩0.3%",
+        "onboard_time": 1746020422,
+        "rank": 44,
+        "category": "财经,国际时政"
+      },
+      {
+        "raw_hot": 155600,
+        "num": 155600,
+        "word": "天才基本法",
+        "onboard_time": 1746015921,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 150195,
+        "num": 150195,
+        "word": "饶毅回应怒怼协和",
+        "onboard_time": 1746014421,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142843,
+        "num": 142843,
+        "word": "黄金",
+        "onboard_time": 1746011362,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 139942,
+        "num": 139942,
+        "word": "白银黄金大跳水",
+        "onboard_time": 1746018503,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 132888,
+        "num": 132888,
+        "word": "斯瓦泰克2比1凯斯",
+        "onboard_time": 1746020363,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快建成具有全球影响力的科技创新高地#"
+    }
+  }
+}
