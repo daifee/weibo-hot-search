@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746038865819,
+  "endTime": 1746040819060,
   "band_list": [
     {
       "raw_hot": 1512910,
@@ -435,6 +435,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 67975,
+      "num": 70033,
+      "word": "4加4模式不能成为资源者的近水楼台",
+      "onboard_time": 1746036856,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 65851,
       "num": 93910,
       "word": "张凌赫与Gucci的适配度",
@@ -465,14 +473,6 @@
       "onboard_time": 1746024443,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 49354,
-      "num": 70033,
-      "word": "4加4模式不能成为资源者的近水楼台",
-      "onboard_time": 1746036856,
-      "rank": 9,
-      "category": "教育"
     },
     {
       "raw_hot": 48845,
@@ -523,7 +523,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 15657,
+      "raw_hot": 24502,
       "num": 66878,
       "word": "周海婴夫人马新云逝世",
       "onboard_time": 1746038295,
@@ -531,11 +531,35 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 12470,
+      "raw_hot": 22474,
+      "num": 22474,
+      "word": "张柏芝一条plog告别四月",
+      "onboard_time": 1746039615,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 20319,
+      "num": 20319,
+      "word": "全世界我最美",
+      "onboard_time": 1746040634,
+      "rank": 49,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 17478,
       "num": 178247,
       "word": "五一出行天气提醒",
       "onboard_time": 1746023364,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14012,
+      "num": 54065,
+      "word": "南京夫子庙回应有人强制卖花",
+      "onboard_time": 1746040395,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
