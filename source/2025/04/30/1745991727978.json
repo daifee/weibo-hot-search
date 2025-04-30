@@ -1,0 +1,410 @@
+{
+  "runTime": 1745991727978,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2742411,
+        "num": 2742411,
+        "word": "屠呦呦当选美国科学院外籍院士",
+        "onboard_time": 1745987784,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 739396,
+        "num": 739396,
+        "word": "生命树官宣",
+        "onboard_time": 1745982141,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160224,
+        "num": 702433,
+        "word": "中国航天员回地球过五一",
+        "onboard_time": 1745990003,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 682446,
+        "num": 682446,
+        "word": "协和医学院曾发文解读4+4模式",
+        "onboard_time": 1745986822,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 592004,
+        "num": 592004,
+        "word": "麻醉科医生谈肖飞手术离场40分钟",
+        "onboard_time": 1745990481,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2009149,
+        "num": 588306,
+        "word": "肖飞回应手术过程中离场是吃降压药",
+        "onboard_time": 1745983102,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 547665,
+        "num": 547665,
+        "word": "林更新在黄亦玫楚乔之间选择沉默",
+        "onboard_time": 1745984301,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 672520,
+        "num": 539117,
+        "word": "知网客服回应论文下架流程",
+        "onboard_time": 1745982864,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 506657,
+        "num": 506657,
+        "word": "长安的荔枝",
+        "onboard_time": 1745980641,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 40602,
+        "num": 506429,
+        "word": "揭密中国如何追踪美国特工",
+        "onboard_time": 1745985323,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1286777,
+        "num": 505869,
+        "word": "协和医院",
+        "onboard_time": 1745989523,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 745470,
+        "num": 505587,
+        "word": "商务座减二等座",
+        "onboard_time": 1745981361,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 696877,
+        "num": 505238,
+        "word": "董小姐去给病人开刀这事很可怕",
+        "onboard_time": 1745941042,
+        "rank": 12,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 137043,
+        "num": 504559,
+        "word": "专家称4加4初衷是培养医学领袖",
+        "onboard_time": 1745990722,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 556986,
+        "num": 504375,
+        "word": "女子生理期弄脏店家多件新衣后拒买",
+        "onboard_time": 1745980340,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 503968,
+        "num": 503968,
+        "word": "欢迎神十九回家",
+        "onboard_time": 1745970861,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 400079,
+        "num": 503353,
+        "word": "章若楠方否认番位操控",
+        "onboard_time": 1745987542,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348703,
+        "num": 501567,
+        "word": "藏海传会给大家不一样的肖战",
+        "onboard_time": 1745975063,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65522,
+        "num": 500560,
+        "word": "科技不坑打工人",
+        "onboard_time": 1745987784,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 24262,
+        "num": 499914,
+        "word": "打车去南锣鼓巷却被拉到涮肉馆",
+        "onboard_time": 1745990901,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110355,
+        "num": 497852,
+        "word": "神舟十九号成功返回地球",
+        "onboard_time": 1745991262,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 497434,
+        "num": 497434,
+        "word": "神十九返回舱着陆",
+        "onboard_time": 1745991082,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 366382,
+        "num": 366382,
+        "word": "男子冰糖当毒品卖10年后成网红",
+        "onboard_time": 1745983583,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 348879,
+        "num": 348879,
+        "word": "男子偷渡到缅甸想当打手却成狗推",
+        "onboard_time": 1745986402,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 343601,
+        "num": 343601,
+        "word": "张居正",
+        "onboard_time": 1745987722,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 335650,
+        "num": 335650,
+        "word": "Jasper低调拿奖学金",
+        "onboard_time": 1745985621,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330847,
+        "num": 330847,
+        "word": "时代少年团直播美颜掉了",
+        "onboard_time": 1745987301,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320040,
+        "num": 320040,
+        "word": "林高远说用拼搏与汗水浇灌希望",
+        "onboard_time": 1745989822,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 281910,
+        "num": 281910,
+        "word": "太空飘着5个字中国空间站",
+        "onboard_time": 1745984181,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 183971,
+        "num": 280533,
+        "word": "刘诗诗新剧这集经费在燃烧",
+        "onboard_time": 1745990422,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35202,
+        "num": 280463,
+        "word": "神十九航天员即将出舱",
+        "onboard_time": 1745991503,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 280398,
+        "num": 280398,
+        "word": "蛇年蛇月蛇日蛇时",
+        "onboard_time": 1745982440,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264417,
+        "num": 264417,
+        "word": "宋妍霏 人鱼的眼泪",
+        "onboard_time": 1745981842,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237925,
+        "num": 237925,
+        "word": "杨紫舒畅同框",
+        "onboard_time": 1745987423,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176817,
+        "num": 209668,
+        "word": "刘雨昕带吴建豪逛吃贵阳",
+        "onboard_time": 1745991262,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194846,
+        "num": 194846,
+        "word": "纸嫁衣",
+        "onboard_time": 1745989042,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 81708,
+        "num": 192245,
+        "word": "辽阳火灾事故新闻发布会",
+        "onboard_time": 1745983641,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189774,
+        "num": 189774,
+        "word": "董某莹的跨界疑云有谁在紧张",
+        "onboard_time": 1745982382,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189279,
+        "num": 189279,
+        "word": "权志龙澳门",
+        "onboard_time": 1745986943,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 180097,
+        "num": 180097,
+        "word": "原神迪卢克",
+        "onboard_time": 1745989885,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 177670,
+        "num": 177670,
+        "word": "小狗这一坐让全家都悸动了",
+        "onboard_time": 1745990240,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 177203,
+        "num": 177203,
+        "word": "董袭莹带出的五大疑点待协和等解答",
+        "onboard_time": 1745942421,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13565,
+        "num": 174022,
+        "word": "雄鹿遭遇绝境该如何反击",
+        "onboard_time": 1745991681,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171319,
+        "num": 171319,
+        "word": "董小姐开刀的恐怖之处",
+        "onboard_time": 1745989942,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169813,
+        "num": 169813,
+        "word": "孙颖莎当颁奖嘉宾了",
+        "onboard_time": 1745985441,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169490,
+        "num": 169490,
+        "word": "抗癌博主小杨哥病逝",
+        "onboard_time": 1745974822,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 169185,
+        "num": 169185,
+        "word": "歌手",
+        "onboard_time": 1745989464,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167139,
+        "num": 167139,
+        "word": "2025五四奖章获奖名单公布",
+        "onboard_time": 1745970380,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159977,
+        "num": 159977,
+        "word": "董袭莹知网撤稿问题有待调查",
+        "onboard_time": 1745976440,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148578,
+        "num": 148578,
+        "word": "王源饼干",
+        "onboard_time": 1745987664,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#支持全球南方国家走好现代化道路#"
+    }
+  }
+}

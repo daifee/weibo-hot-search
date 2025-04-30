@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/30 00:31:19 ~ 2025/04/30 13:27:46
+本榜单时间：2025/04/30 00:31:19 ~ 2025/04/30 13:42:07
 </p>
 </blockquote>
 <p>
@@ -13,6 +13,12 @@
 热榜
 </h2>
 <ol>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%A0%E5%91%A6%E5%91%A6%E5%BD%93%E9%80%89%E7%BE%8E%E5%9B%BD%E7%A7%91%E5%AD%A6%E9%99%A2%E5%A4%96%E7%B1%8D%E9%99%A2%E5%A3%AB%23" target="weibo">
+屠呦呦当选美国科学院外籍院士（热度：2742411）
+</a>
+</li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E9%A3%9E%E5%9B%9E%E5%BA%94%E6%89%8B%E6%9C%AF%E8%BF%87%E7%A8%8B%E4%B8%AD%E7%A6%BB%E5%9C%BA%E6%98%AF%E5%90%83%E9%99%8D%E5%8E%8B%E8%8D%AF%23" target="weibo">
@@ -35,12 +41,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%B0%8F%E5%A7%90%23" target="weibo">
 董小姐（热度：2260853）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B1%A0%E5%91%A6%E5%91%A6%E5%BD%93%E9%80%89%E7%BE%8E%E5%9B%BD%E7%A7%91%E5%AD%A6%E9%99%A2%E5%A4%96%E7%B1%8D%E9%99%A2%E5%A3%AB%23" target="weibo">
-屠呦呦当选美国科学院外籍院士（热度：2014426）
 </a>
 </li>
 
@@ -71,6 +71,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%86%B0%E7%B3%96%E5%BD%93%E6%AF%92%E5%93%81%E5%8D%9610%E5%B9%B4%E5%90%8E%E6%88%90%E7%BD%91%E7%BA%A2%23" target="weibo">
 男子冰糖当毒品卖10年后成网红（热度：1402565）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8F%E5%92%8C%E5%8C%BB%E9%99%A2%23" target="weibo">
+协和医院（热度：1286777）
 </a>
 </li>
 
@@ -129,12 +135,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8F%E5%92%8C%E5%8C%BB%E9%99%A2%23" target="weibo">
-协和医院（热度：756421）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E8%A2%AD%E8%8E%B9%E7%9F%A5%E7%BD%91%E6%92%A4%E7%A8%BF%E9%97%AE%E9%A2%98%E6%9C%89%E5%BE%85%E8%B0%83%E6%9F%A5%23" target="weibo">
 董袭莹知网撤稿问题有待调查（热度：749862）
 </a>
@@ -159,6 +159,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8F%E5%92%8C%E5%8C%BB%E5%AD%A6%E9%99%A2%E6%9B%BE%E5%8F%91%E6%96%87%E8%A7%A3%E8%AF%BB4%2B4%E6%A8%A1%E5%BC%8F%23" target="weibo">
+协和医学院曾发文解读4+4模式（热度：682446）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%9B%87%E5%B9%B4%E8%9B%87%E6%9C%88%E8%9B%87%E6%97%A5%E8%9B%87%E6%97%B6%23" target="weibo">
 蛇年蛇月蛇日蛇时（热度：663762）
 </a>
@@ -177,14 +183,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%232025%E4%BA%94%E5%9B%9B%E5%A5%96%E7%AB%A0%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95%E5%85%AC%E5%B8%83%23" target="weibo">
-2025五四奖章获奖名单公布（热度：570366）
+<a href="https://s.weibo.com/weibo?q=%23%E9%BA%BB%E9%86%89%E7%A7%91%E5%8C%BB%E7%94%9F%E8%B0%88%E8%82%96%E9%A3%9E%E6%89%8B%E6%9C%AF%E7%A6%BB%E5%9C%BA40%E5%88%86%E9%92%9F%23" target="weibo">
+麻醉科医生谈肖飞手术离场40分钟（热度：592004）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8F%E5%92%8C%E5%8C%BB%E5%AD%A6%E9%99%A2%E6%9B%BE%E5%8F%91%E6%96%87%E8%A7%A3%E8%AF%BB4%2B4%E6%A8%A1%E5%BC%8F%23" target="weibo">
-协和医学院曾发文解读4+4模式（热度：563420）
+<a href="https://s.weibo.com/weibo?q=%232025%E4%BA%94%E5%9B%9B%E5%A5%96%E7%AB%A0%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95%E5%85%AC%E5%B8%83%23" target="weibo">
+2025五四奖章获奖名单公布（热度：570366）
 </a>
 </li>
 
@@ -195,8 +201,20 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AC%A2%E8%BF%8E%E7%A5%9E%E5%8D%81%E4%B9%9D%E5%9B%9E%E5%AE%B6%23" target="weibo">
+欢迎神十九回家（热度：503968）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AB%A0%E8%8B%A5%E6%A5%A0%E6%96%B9%E5%90%A6%E8%AE%A4%E7%95%AA%E4%BD%8D%E6%93%8D%E6%8E%A7%23" target="weibo">
 章若楠方否认番位操控（热度：500520）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A5%9E%E5%8D%81%E4%B9%9D%E8%BF%94%E5%9B%9E%E8%88%B1%E7%9D%80%E9%99%86%23" target="weibo">
+神十九返回舱着陆（热度：497434）
 </a>
 </li>
 
@@ -239,12 +257,6 @@ Jasper低调拿奖学金（热度：482257）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B8%BD%E5%90%9B%E7%AD%8930%E4%BA%BA%E8%8E%B7%E4%BA%94%E5%9B%9B%E5%A5%96%E7%AB%A0%23" target="weibo">
 陈丽君等30人获五四奖章（热度：450124）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AC%A2%E8%BF%8E%E7%A5%9E%E5%8D%81%E4%B9%9D%E5%9B%9E%E5%AE%B6%23" target="weibo">
-欢迎神十九回家（热度：435995）
 </a>
 </li>
 
@@ -447,6 +459,12 @@ BLG（热度：373618）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E8%88%92%E7%95%85%E5%90%8C%E6%A1%86%23" target="weibo">
+杨紫舒畅同框（热度：237925）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E7%A5%9E%E8%BF%AA%E5%8D%A2%E5%85%8B%23" target="weibo">
 原神迪卢克（热度：232530）
 </a>
@@ -509,12 +527,6 @@ BLG（热度：373618）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%AE%A3%E4%BC%A0%E6%B7%AE%E6%B0%B4%E7%AB%B9%E4%BA%AD%23" target="weibo">
 杨紫宣传淮水竹亭（热度：213057）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E8%88%92%E7%95%85%E5%90%8C%E6%A1%86%23" target="weibo">
-杨紫舒畅同框（热度：212787）
 </a>
 </li>
 
@@ -651,6 +663,12 @@ BLG（热度：373618）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E6%96%B0%E5%89%A7%E8%BF%99%E9%9B%86%E7%BB%8F%E8%B4%B9%E5%9C%A8%E7%87%83%E7%83%A7%23" target="weibo">
+刘诗诗新剧这集经费在燃烧（热度：183971）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A9%B7%E6%B8%B8%E5%AF%8C%E6%B8%B8%E7%BB%88%E4%B8%8D%E4%BC%BC%E5%B0%91%E5%B9%B4%E6%B8%B8%23" target="weibo">
 穷游富游终不似少年游（热度：182822）
 </a>
@@ -663,8 +681,8 @@ BLG（热度：373618）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E6%96%B0%E5%89%A7%E8%BF%99%E9%9B%86%E7%BB%8F%E8%B4%B9%E5%9C%A8%E7%87%83%E7%83%A7%23" target="weibo">
-刘诗诗新剧这集经费在燃烧（热度：177142）
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E9%9B%A8%E6%98%95%E5%B8%A6%E5%90%B4%E5%BB%BA%E8%B1%AA%E9%80%9B%E5%90%83%E8%B4%B5%E9%98%B3%23" target="weibo">
+刘雨昕带吴建豪逛吃贵阳（热度：176817）
 </a>
 </li>
 
@@ -677,6 +695,12 @@ BLG（热度：373618）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E5%9C%A8%E5%BA%8A%E5%92%8C%E9%9E%8B%E4%B8%8A%E8%8A%82%E7%BA%A6%23" target="weibo">
 不要在床和鞋上节约（热度：173347）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%B0%8F%E5%A7%90%E5%BC%80%E5%88%80%E7%9A%84%E6%81%90%E6%80%96%E4%B9%8B%E5%A4%84%23" target="weibo">
+董小姐开刀的恐怖之处（热度：171319）
 </a>
 </li>
 
@@ -725,6 +749,12 @@ BLG（热度：373618）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%8E%92%E9%9D%A2%E4%BA%AE%E7%9B%B8%E8%8E%AB%E6%96%AF%E7%A7%91%23" target="weibo">
 中国排面亮相莫斯科（热度：162784）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%91%98%E5%9B%9E%E5%9C%B0%E7%90%83%E8%BF%87%E4%BA%94%E4%B8%80%23" target="weibo">
+中国航天员回地球过五一（热度：160224）
 </a>
 </li>
 
@@ -789,14 +819,14 @@ WBG对战BLG（热度：159461）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%B0%8F%E5%A7%90%E5%BC%80%E5%88%80%E7%9A%84%E6%81%90%E6%80%96%E4%B9%8B%E5%A4%84%23" target="weibo">
-董小姐开刀的恐怖之处（热度：143841）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E8%AF%B4%E8%BF%99%E6%A0%B7%E5%96%9D%E6%B0%B4%E6%89%8D%E8%83%BD%E5%8A%A0%E9%80%9F%E7%87%83%E8%84%82%23" target="weibo">
+医生说这样喝水才能加速燃脂（热度：143097）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E8%AF%B4%E8%BF%99%E6%A0%B7%E5%96%9D%E6%B0%B4%E6%89%8D%E8%83%BD%E5%8A%A0%E9%80%9F%E7%87%83%E8%84%82%23" target="weibo">
-医生说这样喝水才能加速燃脂（热度：143097）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B04%E5%8A%A04%E5%88%9D%E8%A1%B7%E6%98%AF%E5%9F%B9%E5%85%BB%E5%8C%BB%E5%AD%A6%E9%A2%86%E8%A2%96%23" target="weibo">
+专家称4加4初衷是培养医学领袖（热度：137043）
 </a>
 </li>
 
@@ -821,12 +851,6 @@ WBG对战BLG（热度：159461）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%B3%BD%E7%A6%B9%20OK%E6%9C%80%E5%90%8E%E5%80%92%E8%AE%A1%E6%97%B6%E5%95%A6%23" target="weibo">
 张泽禹 OK最后倒计时啦（热度：125277）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%91%98%E5%9B%9E%E5%9C%B0%E7%90%83%E8%BF%87%E4%BA%94%E4%B8%80%23" target="weibo">
-中国航天员回地球过五一（热度：125195）
 </a>
 </li>
 
@@ -875,6 +899,12 @@ WBG对战BLG（热度：159461）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E5%BE%AE%E8%A1%A8%E6%83%85%E7%9A%84%E5%85%8B%E5%88%B6%E7%BE%8E%E5%AD%A6%23" target="weibo">
 刘诗诗微表情的克制美学（热度：110918）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A5%9E%E8%88%9F%E5%8D%81%E4%B9%9D%E5%8F%B7%E6%88%90%E5%8A%9F%E8%BF%94%E5%9B%9E%E5%9C%B0%E7%90%83%23" target="weibo">
+神舟十九号成功返回地球（热度：110355）
 </a>
 </li>
 
@@ -1155,12 +1185,6 @@ SuperM（热度：70868）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BA%BB%E9%86%89%E7%A7%91%E5%8C%BB%E7%94%9F%E8%B0%88%E8%82%96%E9%A3%9E%E6%89%8B%E6%9C%AF%E7%A6%BB%E5%9C%BA40%E5%88%86%E9%92%9F%23" target="weibo">
-麻醉科医生谈肖飞手术离场40分钟（热度：66522）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%87%B4%E6%95%AC%E4%B8%8D%E8%83%BD%E9%9C%B2%E8%84%B8%E7%9A%84%E8%8E%B7%E5%A5%96%E8%80%85%23" target="weibo">
 致敬不能露脸的获奖者（热度：61495）
 </a>
@@ -1215,8 +1239,8 @@ SuperM（热度：70868）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B04%E5%8A%A04%E5%88%9D%E8%A1%B7%E6%98%AF%E5%9F%B9%E5%85%BB%E5%8C%BB%E5%AD%A6%E9%A2%86%E8%A2%96%23" target="weibo">
-专家称4加4初衷是培养医学领袖（热度：35177）
+<a href="https://s.weibo.com/weibo?q=%23%E7%A5%9E%E5%8D%81%E4%B9%9D%E8%88%AA%E5%A4%A9%E5%91%98%E5%8D%B3%E5%B0%86%E5%87%BA%E8%88%B1%23" target="weibo">
+神十九航天员即将出舱（热度：35202）
 </a>
 </li>
 
@@ -1265,6 +1289,12 @@ SuperM（热度：70868）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%96%B0%E6%AD%8C%E4%BC%A0%E8%BE%BE%E6%80%8E%E6%A0%B7%E7%9A%84%E5%AE%A1%E7%BE%8E%E8%A7%82%23" target="weibo">
 时代少年团新歌传达怎样的审美观（热度：24402）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%89%93%E8%BD%A6%E5%8E%BB%E5%8D%97%E9%94%A3%E9%BC%93%E5%B7%B7%E5%8D%B4%E8%A2%AB%E6%8B%89%E5%88%B0%E6%B6%AE%E8%82%89%E9%A6%86%23" target="weibo">
+打车去南锣鼓巷却被拉到涮肉馆（热度：24262）
 </a>
 </li>
 
@@ -1377,6 +1407,12 @@ SuperM（热度：70868）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9B%84%E9%B9%BF%E9%81%AD%E9%81%87%E7%BB%9D%E5%A2%83%E8%AF%A5%E5%A6%82%E4%BD%95%E5%8F%8D%E5%87%BB%23" target="weibo">
+雄鹿遭遇绝境该如何反击（热度：13565）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E5%88%9A%E5%87%BA%E7%81%AB%E5%9C%BA%E6%89%AD%E5%A4%B4%E5%8F%88%E8%B7%B3%E6%B2%B3%E6%95%91%E4%BA%BA%23" target="weibo">
 消防员刚出火场扭头又跳河救人（热度：10658）
 </a>
@@ -1415,6 +1451,12 @@ Qwen3相较于前版本有哪些重大改（热度：7784）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%BA%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8F%91%E5%B1%95%E6%8C%87%E6%98%8E%E6%96%B9%E5%90%91%23%23" target="weibo">
 #总书记为人工智能发展指明方向#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E6%94%AF%E6%8C%81%E5%85%A8%E7%90%83%E5%8D%97%E6%96%B9%E5%9B%BD%E5%AE%B6%E8%B5%B0%E5%A5%BD%E7%8E%B0%E4%BB%A3%E5%8C%96%E9%81%93%E8%B7%AF%23%23" target="weibo">
+#支持全球南方国家走好现代化道路#
 </a>
 </li>
 
