@@ -1,6 +1,6 @@
 {
   "startTime": 1745944279846,
-  "endTime": 1745998690105,
+  "endTime": 1746001992359,
   "band_list": [
     {
       "raw_hot": 2742411,
@@ -75,6 +75,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1457385,
+      "num": 593301,
+      "word": "到底动了谁的蛋糕",
+      "onboard_time": 1745997681,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1432849,
       "num": 620053,
       "word": "女子生理期弄脏店家多件新衣后拒买",
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 1421151,
-      "num": 522487,
+      "num": 591254,
       "word": "协和医院",
       "onboard_time": 1745989523,
       "rank": 15,
@@ -107,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1337640,
+      "num": 1337640,
+      "word": "山西太原一处居民小区爆炸",
+      "onboard_time": 1745995521,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1102462,
       "num": 1102462,
       "word": "长安的荔枝",
@@ -115,11 +131,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1100707,
-      "num": 1100707,
-      "word": "山西太原一处居民小区爆炸",
-      "onboard_time": 1745995521,
-      "rank": 31,
+      "raw_hot": 1088928,
+      "num": 1088928,
+      "word": "董袭莹的研究领域五花八门",
+      "onboard_time": 1745999421,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -219,6 +235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 702355,
+      "num": 702355,
+      "word": "手机壳",
+      "onboard_time": 1745995882,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 685647,
       "num": 424162,
       "word": "谁来管管现在的女士内裤",
@@ -292,11 +316,19 @@
     },
     {
       "raw_hot": 547174,
-      "num": 547174,
+      "num": 609179,
       "word": "鞠婧祎说把想成为变成正在成为",
       "onboard_time": 1745993901,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 535515,
+      "num": 535515,
+      "word": "太原小区爆炸事故已致17人受伤",
+      "onboard_time": 1745999961,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 530065,
@@ -371,20 +403,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 457310,
+      "num": 457310,
+      "word": "高圆圆我叫你老公你敢答应吗",
+      "onboard_time": 1745998041,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 454015,
       "num": 454015,
       "word": "孙颖莎当颁奖嘉宾了",
       "onboard_time": 1745985441,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 453628,
-      "num": 397133,
-      "word": "手机壳",
-      "onboard_time": 1745995882,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 450124,
@@ -571,6 +603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 335354,
+      "num": 335354,
+      "word": "月嫂下户躲卧室抱着宝宝流泪",
+      "onboard_time": 1745999302,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 332196,
       "num": 220964,
       "word": "董小姐父母何以跨界指导论文",
@@ -667,14 +707,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 271381,
-      "num": 271381,
-      "word": "到底动了谁的蛋糕",
-      "onboard_time": 1745997681,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 260049,
       "num": 436820,
       "word": "等五一机票价格跳水的打工人绝望了",
@@ -691,12 +723,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 253034,
+      "num": 253034,
+      "word": "神十九载人飞行任务圆满成功",
+      "onboard_time": 1746000682,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 252925,
       "num": 252925,
       "word": "电影长安的荔枝全阵容官宣",
       "onboard_time": 1745981122,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 250398,
+      "num": 526237,
+      "word": "杨紫张哲华新剧演恋人",
+      "onboard_time": 1745999302,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 249813,
@@ -761,6 +809,14 @@
       "onboard_time": 1745989464,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 226934,
+      "num": 226934,
+      "word": "利润5%是良心企业的标准吗",
+      "onboard_time": 1746000861,
+      "rank": 40,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 225931,
@@ -851,6 +907,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 206475,
+      "num": 266805,
+      "word": "刘宇宁新剧改名玫瑰丛生",
+      "onboard_time": 1746001702,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205619,
       "num": 205619,
       "word": "饿了么宣布加入外卖大战",
@@ -865,6 +929,14 @@
       "onboard_time": 1745984122,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 205183,
+      "num": 205183,
+      "word": "怎么还不下班啊",
+      "onboard_time": 1746001341,
+      "rank": 42,
+      "category": "情感,民生新闻"
     },
     {
       "raw_hot": 205108,
@@ -963,14 +1035,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 197535,
-      "num": 399659,
-      "word": "高圆圆我叫你老公你敢答应吗",
-      "onboard_time": 1745998041,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 196933,
       "num": 246572,
       "word": "惊天魔盗团3",
@@ -1067,6 +1131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183699,
+      "num": 245144,
+      "word": "王鸥拿到富婆本",
+      "onboard_time": 1745999602,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182822,
       "num": 182822,
       "word": "穷游富游终不似少年游",
@@ -1113,6 +1185,14 @@
       "onboard_time": 1745976263,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 175609,
+      "num": 175609,
+      "word": "知网客服称个人无权限直接删论文",
+      "onboard_time": 1746000861,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 173348,
@@ -1249,6 +1329,14 @@
       "onboard_time": 1745995163,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161141,
+      "num": 161141,
+      "word": "迪丽热巴从漫画里走出来了",
+      "onboard_time": 1746001582,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 160224,
@@ -1403,6 +1491,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 139053,
+      "num": 601316,
+      "word": "协和往年4加4录取名单恢复显示",
+      "onboard_time": 1746001043,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129127,
       "num": 129127,
       "word": "谢霆锋也在戒断中",
@@ -1441,6 +1537,14 @@
       "onboard_time": 1745940981,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126024,
+      "num": 239275,
+      "word": "小米系全线大涨",
+      "onboard_time": 1745999302,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 125277,
@@ -1491,6 +1595,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 117699,
+      "num": 285468,
+      "word": "女子3小时内喝八杯水中毒进ICU",
+      "onboard_time": 1746001761,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116806,
       "num": 116806,
       "word": "曾凡博腰椎横突骨折",
@@ -1504,6 +1616,14 @@
       "word": "导航软件关键时候真的能救命",
       "onboard_time": 1745996602,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114115,
+      "num": 544544,
+      "word": "起底李铁及妻子资本版图",
+      "onboard_time": 1746000622,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -1643,6 +1763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94568,
+      "num": 605880,
+      "word": "董某莹事件公众所求的无非是公平",
+      "onboard_time": 1746001282,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94007,
       "num": 94007,
       "word": "商家曝女子网购内衣半年后买新退旧",
@@ -1657,6 +1785,14 @@
       "onboard_time": 1745943979,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 93003,
+      "num": 537529,
+      "word": "协和医学院学位论文系统访客已无法查看",
+      "onboard_time": 1746001160,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92610,
@@ -1731,6 +1867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85822,
+      "num": 241520,
+      "word": "羊角竟然是空心的",
+      "onboard_time": 1746000742,
+      "rank": 36,
+      "category": "科学科普,民生新闻"
+    },
+    {
       "raw_hot": 83752,
       "num": 83752,
       "word": "女子做分拣员月入超九千半年瘦46斤",
@@ -1753,6 +1897,14 @@
       "onboard_time": 1745949975,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 81566,
+      "num": 485332,
+      "word": "全红婵亮相水立方",
+      "onboard_time": 1746001641,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 81211,
@@ -1963,6 +2115,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 57511,
+      "num": 252187,
+      "word": "潘展乐又来逗记者了",
+      "onboard_time": 1746001942,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 56125,
+      "num": 254883,
+      "word": "五一假期持股过节还是持币过节",
+      "onboard_time": 1746001882,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
       "raw_hot": 55342,
       "num": 277278,
       "word": "苏杯中国vs泰国阵容",
@@ -2025,6 +2193,14 @@
       "onboard_time": 1745945478,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 41667,
+      "num": 231216,
+      "word": "景元寰宇因你而齐响",
+      "onboard_time": 1746001160,
+      "rank": 39,
+      "category": "动漫"
     },
     {
       "raw_hot": 40893,
@@ -2120,6 +2296,14 @@
       "word": "如何客观看待4加4培养模式",
       "onboard_time": 1745995342,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28749,
+      "num": 231373,
+      "word": "员工拒签空白劳动合同被辞退",
+      "onboard_time": 1746001882,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -2329,6 +2513,14 @@
       "onboard_time": 1745959514,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 8430,
+      "num": 463509,
+      "word": "猎金游戏揭示了资本市场的哪些真相",
+      "onboard_time": 1746001282,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 7784,
