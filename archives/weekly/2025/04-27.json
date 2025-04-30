@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1746041793917,
+  "endTime": 1746044859807,
   "band_list": [
     {
       "raw_hot": 8960529,
@@ -12155,6 +12155,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 73020,
+      "num": 73020,
+      "word": "南京夫子庙回应有人强制卖花",
+      "onboard_time": 1746040395,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72924,
       "num": 304360,
       "word": "你有这4个机会避开胃癌",
@@ -13473,14 +13481,6 @@
       "onboard_time": 1745749462,
       "rank": 38,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 39447,
-      "num": 54065,
-      "word": "南京夫子庙回应有人强制卖花",
-      "onboard_time": 1746040395,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 39392,
@@ -14817,6 +14817,14 @@
       "onboard_time": 1745924482,
       "rank": 18,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 16839,
+      "num": 20977,
+      "word": "女子申请产检遭拒被以旷工开除",
+      "onboard_time": 1746042855,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16695,
