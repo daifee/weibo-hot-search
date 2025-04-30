@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1746027682749,
+  "endTime": 1746030701008,
   "band_list": [
     {
       "raw_hot": 8960529,
@@ -1904,6 +1904,14 @@
       "word": "老人不要利息执意取107万银行报警",
       "onboard_time": 1745728823,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 585988,
+      "num": 309948,
+      "word": "董某某事件背后有没有大鱼",
+      "onboard_time": 1746026663,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -4059,14 +4067,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 268948,
-      "num": 309948,
-      "word": "董某某事件背后有没有大鱼",
-      "onboard_time": 1746026663,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 268370,
       "num": 268370,
       "word": "西班牙首相称还不知停电原因",
@@ -4353,6 +4353,14 @@
       "onboard_time": 1745746641,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 251122,
+      "num": 251122,
+      "word": "2025多哈世乒赛",
+      "onboard_time": 1746027921,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 250907,
@@ -4649,6 +4657,14 @@
       "onboard_time": 1745842102,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 235987,
+      "num": 235987,
+      "word": "哪吒2登顶4月票房冠军",
+      "onboard_time": 1746029482,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 235809,
@@ -8859,6 +8875,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 138137,
+      "num": 111286,
+      "word": "五一档新片总票房破1亿",
+      "onboard_time": 1746027742,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 137857,
       "num": 137857,
       "word": "陈坤拿着手机走红毯",
@@ -10195,6 +10219,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 112051,
+      "num": 112051,
+      "word": "Fly曹操出手全都坐下",
+      "onboard_time": 1746030322,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 111997,
       "num": 310517,
       "word": "凯迪拉克为爱来电",
@@ -10272,6 +10304,14 @@
       "word": "北京男篮2比0山西男篮",
       "onboard_time": 1745939482,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 109589,
+      "num": 109589,
+      "word": "王曼昱张本美和再次同区",
+      "onboard_time": 1746028762,
+      "rank": 29,
       "category": "体育"
     },
     {
@@ -10891,6 +10931,14 @@
       "category": "幽默,民生新闻"
     },
     {
+      "raw_hot": 98550,
+      "num": 98550,
+      "word": "马嘉祺玩谐音梗",
+      "onboard_time": 1746027801,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 98473,
       "num": 320531,
       "word": "网红聚宝盆汽车炫锅场事故致1死",
@@ -11331,6 +11379,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 89390,
+      "num": 89390,
+      "word": "王力宏承包了五一假期",
+      "onboard_time": 1746028702,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 89279,
       "num": 291846,
       "word": "苏杯中国队小组全胜出线",
@@ -11769,6 +11825,14 @@
       "onboard_time": 1745890762,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 79641,
+      "num": 79641,
+      "word": "五一假期发朋友圈的小妙招",
+      "onboard_time": 1746028462,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79630,
@@ -13345,6 +13409,14 @@
       "onboard_time": 1745744662,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 38951,
+      "num": 107351,
+      "word": "这就是劳动的力量",
+      "onboard_time": 1746030562,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38450,
@@ -15305,6 +15377,14 @@
       "onboard_time": 1746020482,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 3125,
+      "num": 98893,
+      "word": "阳光明媚护士和癌症晚期爷爷",
+      "onboard_time": 1746029661,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 1950,
