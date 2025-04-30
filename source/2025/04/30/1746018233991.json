@@ -1,0 +1,410 @@
+{
+  "runTime": 1746018233991,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3760029,
+        "num": 3760029,
+        "word": "协和医学院董某莹事件最新进展",
+        "onboard_time": 1746010640,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1187541,
+        "num": 1187541,
+        "word": "十三州府取关曾黎",
+        "onboard_time": 1746002842,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79978,
+        "num": 839821,
+        "word": "神十九任务圆满成功",
+        "onboard_time": 1746015502,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1627951,
+        "num": 839536,
+        "word": "卫健委回应肖飞手术离场40分钟",
+        "onboard_time": 1746016101,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 837425,
+        "num": 837425,
+        "word": "青簪行",
+        "onboard_time": 1746016221,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1278028,
+        "num": 836027,
+        "word": "董袭莹信息不断被删谁在掩耳盗铃",
+        "onboard_time": 1746013221,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 744530,
+        "num": 744530,
+        "word": "冲着月薪一万应聘九天到手一千",
+        "onboard_time": 1746015620,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 696066,
+        "num": 696066,
+        "word": "协和医学院的医学博士发声",
+        "onboard_time": 1746013761,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 447942,
+        "num": 447942,
+        "word": "曾黎",
+        "onboard_time": 1746000622,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 414666,
+        "num": 414666,
+        "word": "王建军被查",
+        "onboard_time": 1746017543,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 580229,
+        "num": 409307,
+        "word": "董袭莹论文致谢称希望不负一袭白衣",
+        "onboard_time": 1746013941,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 371060,
+        "num": 371060,
+        "word": "王一栩魔改",
+        "onboard_time": 1746013520,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 336504,
+        "num": 336504,
+        "word": "有协和4加4博士论文正文仅12页",
+        "onboard_time": 1746006141,
+        "rank": 12,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 331653,
+        "num": 331653,
+        "word": "水贝老板炒黄金亏了一个亿",
+        "onboard_time": 1746008483,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323857,
+        "num": 323857,
+        "word": "山西太原一处居民小区爆炸",
+        "onboard_time": 1745995521,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 312714,
+        "num": 312714,
+        "word": "唐朝诡事录之下南洋",
+        "onboard_time": 1746017543,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 289280,
+        "num": 289280,
+        "word": "张艺凡因为身高错失过好角色",
+        "onboard_time": 1746009860,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 269755,
+        "num": 269755,
+        "word": "饶毅教授曾批协和任人唯亲",
+        "onboard_time": 1746010702,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268017,
+        "num": 268017,
+        "word": "papi酱梦女",
+        "onboard_time": 1746003022,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 259209,
+        "num": 259209,
+        "word": "三问肖飞董袭莹事件",
+        "onboard_time": 1746012142,
+        "rank": 19,
+        "category": "民生新闻,议题讨论"
+      },
+      {
+        "raw_hot": 517984,
+        "num": 255918,
+        "word": "女大学生旱厕捞手机掉化粪池溺亡",
+        "onboard_time": 1746012682,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 391690,
+        "num": 249270,
+        "word": "黄金",
+        "onboard_time": 1746011362,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 228956,
+        "num": 228956,
+        "word": "北大学霸陈如月曾申请协和44失败",
+        "onboard_time": 1746016101,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66385,
+        "num": 224218,
+        "word": "看完水饺皇后想吃饺子",
+        "onboard_time": 1746013640,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 221676,
+        "num": 221676,
+        "word": "肖飞",
+        "onboard_time": 1746017782,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215446,
+        "num": 215446,
+        "word": "王辰",
+        "onboard_time": 1746015442,
+        "rank": 25,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 146239,
+        "num": 212424,
+        "word": "刘浩存王安宇青春女大男大",
+        "onboard_time": 1746016821,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 8342,
+        "num": 211391,
+        "word": "哪些因素会影响观众对生命树的期待",
+        "onboard_time": 1746018081,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210674,
+        "num": 210674,
+        "word": "协和",
+        "onboard_time": 1746017841,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 22976,
+        "num": 201648,
+        "word": "民办高校未经审批招生致多人无学籍",
+        "onboard_time": 1746017421,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 24814,
+        "num": 200345,
+        "word": "WAW2025倒计时3天",
+        "onboard_time": 1746016882,
+        "rank": 30,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 199620,
+        "num": 199620,
+        "word": "天才基本法",
+        "onboard_time": 1746015921,
+        "rank": 31,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 190652,
+        "num": 190652,
+        "word": "女子3小时内喝八杯水中毒进ICU",
+        "onboard_time": 1746001761,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189984,
+        "num": 189984,
+        "word": "蒋梦婕初恋对象是吴谨言同班同学",
+        "onboard_time": 1746007161,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181232,
+        "num": 181232,
+        "word": "高管下班后微信加班公司被判赔9万",
+        "onboard_time": 1746016162,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177505,
+        "num": 177505,
+        "word": "饶毅回应怒怼协和",
+        "onboard_time": 1746014421,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152946,
+        "num": 177354,
+        "word": "才知道间谍手段有多肮脏",
+        "onboard_time": 1746018142,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29350,
+        "num": 177032,
+        "word": "全民营养提升计划",
+        "onboard_time": 1746017302,
+        "rank": 37,
+        "category": "健康医疗,母婴育儿"
+      },
+      {
+        "raw_hot": 50674,
+        "num": 176650,
+        "word": "云南人对昆虫的吃法还是太超前",
+        "onboard_time": 1746018081,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 41119,
+        "num": 176499,
+        "word": "协和删除网页是心虚吗",
+        "onboard_time": 1746017660,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35566,
+        "num": 176145,
+        "word": "医院为什么需要复合型人才",
+        "onboard_time": 1746016942,
+        "rank": 40,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 155144,
+        "num": 175810,
+        "word": "4加4何以造就全能型董女士",
+        "onboard_time": 1746016101,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175644,
+        "num": 175644,
+        "word": "苏迪曼杯",
+        "onboard_time": 1746018081,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174310,
+        "num": 174310,
+        "word": "董袭莹发表临床实践指南时是规培生",
+        "onboard_time": 1746005842,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159743,
+        "num": 159743,
+        "word": "国羽拳击手李诗沣",
+        "onboard_time": 1746017722,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155408,
+        "num": 155408,
+        "word": "太原小区爆炸事故现场曝光",
+        "onboard_time": 1746009622,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148586,
+        "num": 148586,
+        "word": "陈梦说要全力以赴不留遗憾",
+        "onboard_time": 1746014842,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145874,
+        "num": 145874,
+        "word": "协和4加4事件需尽快给公众回应",
+        "onboard_time": 1746015082,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135609,
+        "num": 135609,
+        "word": "高瀚宇跪下唱求佛",
+        "onboard_time": 1746017063,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131783,
+        "num": 131783,
+        "word": "董某莹事件公众所求的无非是公平",
+        "onboard_time": 1746001282,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快建成具有全球影响力的科技创新高地#"
+    }
+  }
+}
