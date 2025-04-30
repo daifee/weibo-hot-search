@@ -1,0 +1,410 @@
+{
+  "runTime": 1746023081760,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1762479,
+        "num": 1762479,
+        "word": "太原爆炸已致1死21伤2失联",
+        "onboard_time": 1746018743,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 839417,
+        "num": 839417,
+        "word": "十三州府取关曾黎",
+        "onboard_time": 1746002842,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86099,
+        "num": 783004,
+        "word": "神十九任务圆满成功",
+        "onboard_time": 1746015502,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 761030,
+        "num": 761030,
+        "word": "两大叔圈天菜终于又合作了",
+        "onboard_time": 1746020363,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 535398,
+        "num": 535398,
+        "word": "冲着月薪一万应聘九天到手一千",
+        "onboard_time": 1746015620,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 444072,
+        "num": 444072,
+        "word": "ITTF抽签",
+        "onboard_time": 1746018922,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 753350,
+        "num": 435164,
+        "word": "张一山谈首搭赵丽颖",
+        "onboard_time": 1746019941,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 517269,
+        "num": 434634,
+        "word": "青簪行",
+        "onboard_time": 1746016221,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 413123,
+        "num": 413123,
+        "word": "董某莹已离开中日友好医院胸外科",
+        "onboard_time": 1746022343,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 375740,
+        "num": 375740,
+        "word": "山西太原一处居民小区爆炸",
+        "onboard_time": 1745995521,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 4613398,
+        "num": 375241,
+        "word": "协和医学院董某莹事件最新进展",
+        "onboard_time": 1746010640,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 696677,
+        "num": 373990,
+        "word": "肖飞",
+        "onboard_time": 1746017782,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139686,
+        "num": 371446,
+        "word": "美国一季度GDP环比萎缩0.3%",
+        "onboard_time": 1746020422,
+        "rank": 12,
+        "category": "财经,国际时政"
+      },
+      {
+        "raw_hot": 411225,
+        "num": 369905,
+        "word": "唐朝诡事录之下南洋",
+        "onboard_time": 1746017543,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 684766,
+        "num": 368579,
+        "word": "协和医学院的医学博士发声",
+        "onboard_time": 1746013761,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 545867,
+        "num": 366526,
+        "word": "协和",
+        "onboard_time": 1746017841,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 379296,
+        "num": 364504,
+        "word": "张一山回应曝光度变少",
+        "onboard_time": 1746020363,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101950,
+        "num": 363040,
+        "word": "梁伟铿王昶2比0泰国组合",
+        "onboard_time": 1746022643,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106795,
+        "num": 361072,
+        "word": "辽宁一血站手提袋献血印成鲜血",
+        "onboard_time": 1746021684,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54756,
+        "num": 360290,
+        "word": "董袭莹8年前曾任公司法人",
+        "onboard_time": 1746022584,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 545735,
+        "num": 358050,
+        "word": "董袭莹论文致谢称希望不负一袭白衣",
+        "onboard_time": 1746013941,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 357589,
+        "num": 357589,
+        "word": "王楚钦林高远同区",
+        "onboard_time": 1746020544,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 437552,
+        "num": 340729,
+        "word": "女大学生旱厕捞手机掉化粪池溺亡",
+        "onboard_time": 1746012682,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287227,
+        "num": 287227,
+        "word": "王建军被查",
+        "onboard_time": 1746017543,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 141941,
+        "num": 267416,
+        "word": "小胖抢龙太关键了",
+        "onboard_time": 1746022763,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 258721,
+        "num": 258721,
+        "word": "李尚敏宣布再婚",
+        "onboard_time": 1746021323,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256850,
+        "num": 256850,
+        "word": "张雪峰谈协和4加4",
+        "onboard_time": 1746019103,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 250747,
+        "num": 250747,
+        "word": "王辰",
+        "onboard_time": 1746015442,
+        "rank": 27,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 198306,
+        "num": 241803,
+        "word": "好声音选手毕夏自曝遭遇车祸",
+        "onboard_time": 1746021262,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240959,
+        "num": 240959,
+        "word": "国乒两对男双世乒赛同区",
+        "onboard_time": 1746022222,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234425,
+        "num": 234425,
+        "word": "水贝老板炒黄金亏了一个亿",
+        "onboard_time": 1746008483,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187737,
+        "num": 187737,
+        "word": "曾黎",
+        "onboard_time": 1746000622,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185783,
+        "num": 185783,
+        "word": "papi酱梦女",
+        "onboard_time": 1746003022,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 175088,
+        "num": 175088,
+        "word": "白银黄金大跳水",
+        "onboard_time": 1746018503,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 174864,
+        "num": 174864,
+        "word": "张艺凡因为身高错失过好角色",
+        "onboard_time": 1746009860,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 174433,
+        "num": 174433,
+        "word": "杜海涛约女明星吃饭",
+        "onboard_time": 1746004281,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168422,
+        "num": 168422,
+        "word": "偶遇谢霆锋父亲谢贤坐轮椅出行",
+        "onboard_time": 1746022163,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166601,
+        "num": 166601,
+        "word": "杨紫第一部大女主探案剧",
+        "onboard_time": 1746022643,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162616,
+        "num": 162616,
+        "word": "医学院博士称近几年协和4+4没人淘汰",
+        "onboard_time": 1746011241,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14117,
+        "num": 162024,
+        "word": "职场霸凌该忍还是该刚",
+        "onboard_time": 1746022463,
+        "rank": 39,
+        "category": "议题讨论,民生新闻"
+      },
+      {
+        "raw_hot": 77516,
+        "num": 161529,
+        "word": "太原爆炸小区居民讲述逃生经历",
+        "onboard_time": 1746021684,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161439,
+        "num": 161439,
+        "word": "有协和4加4博士论文正文仅12页",
+        "onboard_time": 1746006141,
+        "rank": 41,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 154407,
+        "num": 159902,
+        "word": "饶毅教授曾批协和任人唯亲",
+        "onboard_time": 1746010702,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159863,
+        "num": 159863,
+        "word": "被刘诗诗歪头杀拿下",
+        "onboard_time": 1746020242,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28596,
+        "num": 159270,
+        "word": "4+4必须高门槛而且严把关",
+        "onboard_time": 1746023063,
+        "rank": 44,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 159099,
+        "num": 159099,
+        "word": "张杰谈音乐作品何以带来力量",
+        "onboard_time": 1746022883,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 149262,
+        "num": 149262,
+        "word": "坐飞机偶遇林俊杰",
+        "onboard_time": 1746022524,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146804,
+        "num": 146804,
+        "word": "周迅50岁素颜状态",
+        "onboard_time": 1746022705,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136479,
+        "num": 136479,
+        "word": "蒋梦婕初恋对象是吴谨言同班同学",
+        "onboard_time": 1746007161,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132773,
+        "num": 132773,
+        "word": "王一栩魔改",
+        "onboard_time": 1746013520,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#人工智能是年轻的事业也是年轻人的事业#"
+    }
+  }
+}

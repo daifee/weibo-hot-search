@@ -1,9 +1,9 @@
 {
   "startTime": 1745944279846,
-  "endTime": 1746020705593,
+  "endTime": 1746023081760,
   "band_list": [
     {
-      "raw_hot": 4609302,
+      "raw_hot": 4613398,
       "num": 4609302,
       "word": "协和医学院董某莹事件最新进展",
       "onboard_time": 1746010640,
@@ -72,6 +72,14 @@
       "word": "董袭莹问题与其删文不如直面真相",
       "onboard_time": 1745972661,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1762479,
+      "num": 1762479,
+      "word": "太原爆炸已致1死21伤2失联",
+      "onboard_time": 1746018743,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -184,14 +192,6 @@
       "word": "董袭莹的研究领域五花八门",
       "onboard_time": 1745999421,
       "rank": 1,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1281854,
-      "num": 1281854,
-      "word": "太原爆炸已致1死21伤2失联",
-      "onboard_time": 1746018743,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -371,6 +371,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 761030,
+      "num": 761030,
+      "word": "两大叔圈天菜终于又合作了",
+      "onboard_time": 1746020363,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 753350,
+      "num": 472776,
+      "word": "张一山谈首搭赵丽颖",
+      "onboard_time": 1746019941,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 749862,
       "num": 749862,
       "word": "董袭莹知网撤稿问题有待调查",
@@ -401,6 +417,14 @@
       "onboard_time": 1745995882,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 696677,
+      "num": 474530,
+      "word": "肖飞",
+      "onboard_time": 1746017782,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 690218,
@@ -627,14 +651,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 474530,
-      "num": 474530,
-      "word": "肖飞",
-      "onboard_time": 1746017782,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 469465,
       "num": 432846,
       "word": "宋妍霏 人鱼的眼泪",
@@ -689,14 +705,6 @@
       "onboard_time": 1745992702,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 439843,
-      "num": 472776,
-      "word": "张一山谈首搭赵丽颖",
-      "onboard_time": 1746019941,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 427529,
@@ -763,6 +771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 413123,
+      "num": 413123,
+      "word": "董某莹已离开中日友好医院胸外科",
+      "onboard_time": 1746022343,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 408298,
       "num": 408298,
       "word": "国际不打小孩日",
@@ -817,6 +833,14 @@
       "onboard_time": 1745976140,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 379296,
+      "num": 471035,
+      "word": "张一山回应曝光度变少",
+      "onboard_time": 1746020363,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 378118,
@@ -889,6 +913,14 @@
       "onboard_time": 1746012142,
       "rank": 9,
       "category": "民生新闻,议题讨论"
+    },
+    {
+      "raw_hot": 357589,
+      "num": 357589,
+      "word": "王楚钦林高远同区",
+      "onboard_time": 1746020544,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 357374,
@@ -1059,6 +1091,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 258721,
+      "num": 258721,
+      "word": "李尚敏宣布再婚",
+      "onboard_time": 1746021323,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 256850,
+      "num": 256850,
+      "word": "张雪峰谈协和4加4",
+      "onboard_time": 1746019103,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
       "raw_hot": 255086,
       "num": 424488,
       "word": "贺峻霖获中传青年五四奖章",
@@ -1139,6 +1187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 240959,
+      "num": 240959,
+      "word": "国乒两对男双世乒赛同区",
+      "onboard_time": 1746022222,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 238067,
       "num": 238067,
       "word": "北大学霸陈如月曾申请协和44失败",
@@ -1169,14 +1225,6 @@
       "onboard_time": 1745936602,
       "rank": 9,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 230862,
-      "num": 471035,
-      "word": "张一山回应曝光度变少",
-      "onboard_time": 1746020363,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 229887,
@@ -1483,6 +1531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198306,
+      "num": 241803,
+      "word": "好声音选手毕夏自曝遭遇车祸",
+      "onboard_time": 1746021262,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196933,
       "num": 246572,
       "word": "惊天魔盗团3",
@@ -1707,14 +1763,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 180069,
-      "num": 180069,
-      "word": "两大叔圈天菜终于又合作了",
-      "onboard_time": 1746020363,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 179293,
       "num": 189253,
       "word": "张哲华不愧是大厂严选",
@@ -1851,6 +1899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168422,
+      "num": 168422,
+      "word": "偶遇谢霆锋父亲谢贤坐轮椅出行",
+      "onboard_time": 1746022163,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168405,
       "num": 168405,
       "word": "警犬福仔登门道歉送烤肠",
@@ -1889,6 +1945,14 @@
       "onboard_time": 1746006801,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166601,
+      "num": 166601,
+      "word": "杨紫第一部大女主探案剧",
+      "onboard_time": 1746022643,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 164678,
@@ -2003,6 +2067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159099,
+      "num": 159099,
+      "word": "张杰谈音乐作品何以带来力量",
+      "onboard_time": 1746022883,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 158609,
       "num": 158609,
       "word": "解放军仪仗队亮相越南阅兵",
@@ -2012,7 +2084,7 @@
     },
     {
       "raw_hot": 157768,
-      "num": 157768,
+      "num": 371446,
       "word": "美国一季度GDP环比萎缩0.3%",
       "onboard_time": 1746020422,
       "rank": 44,
@@ -2139,6 +2211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149262,
+      "num": 149262,
+      "word": "坐飞机偶遇林俊杰",
+      "onboard_time": 1746022524,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148586,
       "num": 262130,
       "word": "陈梦说要全力以赴不留遗憾",
@@ -2161,6 +2241,14 @@
       "onboard_time": 1746005842,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 146804,
+      "num": 146804,
+      "word": "周迅50岁素颜状态",
+      "onboard_time": 1746022705,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 146247,
@@ -2233,6 +2321,14 @@
       "onboard_time": 1746015201,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141941,
+      "num": 267416,
+      "word": "小胖抢龙太关键了",
+      "onboard_time": 1746022763,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 141710,
@@ -2539,6 +2635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106795,
+      "num": 361072,
+      "word": "辽宁一血站手提袋献血印成鲜血",
+      "onboard_time": 1746021684,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105447,
       "num": 105447,
       "word": "丁禹兮听到永夜两个字的反应",
@@ -2603,6 +2707,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 101950,
+      "num": 363040,
+      "word": "梁伟铿王昶2比0泰国组合",
+      "onboard_time": 1746022643,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101153,
       "num": 469909,
       "word": "五一去洛阳出片带OPPO就够了",
@@ -2625,14 +2737,6 @@
       "onboard_time": 1745937863,
       "rank": 32,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 99501,
-      "num": 287143,
-      "word": "王楚钦林高远同区",
-      "onboard_time": 1746020544,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 98663,
@@ -2763,6 +2867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86099,
+      "num": 992565,
+      "word": "神十九任务圆满成功",
+      "onboard_time": 1746015502,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 85822,
       "num": 241520,
       "word": "羊角竟然是空心的",
@@ -2809,14 +2921,6 @@
       "onboard_time": 1746001641,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 81307,
-      "num": 992565,
-      "word": "神十九任务圆满成功",
-      "onboard_time": 1746015502,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 81211,
@@ -2873,6 +2977,14 @@
       "onboard_time": 1745985381,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 77516,
+      "num": 161529,
+      "word": "太原爆炸小区居民讲述逃生经历",
+      "onboard_time": 1746021684,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77440,
@@ -3105,6 +3217,14 @@
       "onboard_time": 1745997800,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 54756,
+      "num": 360290,
+      "word": "董袭莹8年前曾任公司法人",
+      "onboard_time": 1746022584,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 53788,
@@ -3387,6 +3507,14 @@
       "category": "健康医疗,母婴育儿"
     },
     {
+      "raw_hot": 28596,
+      "num": 159270,
+      "word": "4+4必须高门槛而且严把关",
+      "onboard_time": 1746023063,
+      "rank": 44,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 26692,
       "num": 360220,
       "word": "我国重工血脉藏在哪些大学",
@@ -3609,6 +3737,14 @@
       "onboard_time": 1746012861,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14117,
+      "num": 162024,
+      "word": "职场霸凌该忍还是该刚",
+      "onboard_time": 1746022463,
+      "rank": 39,
+      "category": "议题讨论,民生新闻"
     },
     {
       "raw_hot": 13859,
