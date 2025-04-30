@@ -1,0 +1,410 @@
+{
+  "runTime": 1746008825001,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1862224,
+        "num": 1862224,
+        "word": "十三州府取关曾黎",
+        "onboard_time": 1746002842,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1392085,
+        "num": 1392085,
+        "word": "董袭莹发表临床实践指南时是规培生",
+        "onboard_time": 1746005842,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40909,
+        "num": 887262,
+        "word": "五四奖章新时代青年先锋奖全名单",
+        "onboard_time": 1745988383,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 610514,
+        "num": 610514,
+        "word": "董某莹事件公众所求的无非是公平",
+        "onboard_time": 1746001282,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 598974,
+        "num": 598974,
+        "word": "有协和4加4博士论文正文仅12页",
+        "onboard_time": 1746006141,
+        "rank": 4,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 545714,
+        "num": 545714,
+        "word": "山西太原一处居民小区爆炸",
+        "onboard_time": 1745995521,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 433327,
+        "num": 433327,
+        "word": "屠呦呦当选美国科学院外籍院士",
+        "onboard_time": 1745987784,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 415226,
+        "num": 415226,
+        "word": "泫雅回归",
+        "onboard_time": 1746007581,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 411290,
+        "num": 411290,
+        "word": "曾黎",
+        "onboard_time": 1746000622,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 403049,
+        "num": 403049,
+        "word": "董袭莹的研究领域五花八门",
+        "onboard_time": 1745999421,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1597846,
+        "num": 384386,
+        "word": "杜海涛约女明星吃饭",
+        "onboard_time": 1746004281,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 610760,
+        "num": 369717,
+        "word": "女子3小时内喝八杯水中毒进ICU",
+        "onboard_time": 1746001761,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 592144,
+        "num": 363993,
+        "word": "麻醉科医生谈肖飞手术离场40分钟",
+        "onboard_time": 1745990481,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 353978,
+        "num": 353978,
+        "word": "鞠婧祎说把想成为变成正在成为",
+        "onboard_time": 1745993901,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 565854,
+        "num": 349742,
+        "word": "papi酱梦女",
+        "onboard_time": 1746003022,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 554805,
+        "num": 348374,
+        "word": "蒋梦婕初恋对象是吴谨言同班同学",
+        "onboard_time": 1746007161,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 443664,
+        "num": 343732,
+        "word": "到底动了谁的蛋糕",
+        "onboard_time": 1745997681,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 427734,
+        "num": 337505,
+        "word": "女子生理期弄脏店家多件新衣后拒买",
+        "onboard_time": 1745980340,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 335750,
+        "num": 335750,
+        "word": "美运钞车掉落30万现金被路人瓜分",
+        "onboard_time": 1746005123,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 183291,
+        "num": 320103,
+        "word": "李一桐宣传淮水竹亭",
+        "onboard_time": 1746005001,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 312143,
+        "num": 312143,
+        "word": "协和医学院学位论文系统访客已无法查看",
+        "onboard_time": 1746001160,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275782,
+        "num": 275782,
+        "word": "专家称4加4初衷是培养医学领袖",
+        "onboard_time": 1745990722,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 260226,
+        "num": 260226,
+        "word": "神十九返回舱着陆",
+        "onboard_time": 1745991082,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 76178,
+        "num": 236723,
+        "word": "苗华被罢免全国人大代表职务",
+        "onboard_time": 1746008541,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 219128,
+        "num": 219128,
+        "word": "水贝老板炒黄金亏了一个亿",
+        "onboard_time": 1746008483,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42904,
+        "num": 210119,
+        "word": "警惕4+4医学教育沦为特别通道",
+        "onboard_time": 1746008360,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7276,
+        "num": 205667,
+        "word": "绝密较量里境外势力如何远程拷贝",
+        "onboard_time": 1746008541,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202160,
+        "num": 202160,
+        "word": "失去美国订单后才发现到处是商机",
+        "onboard_time": 1746008122,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 200317,
+        "num": 200317,
+        "word": "沙尘暴",
+        "onboard_time": 1746007342,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91768,
+        "num": 193429,
+        "word": "五一人人人出行攻略",
+        "onboard_time": 1746006622,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85512,
+        "num": 190694,
+        "word": "网信办整治AI技术滥用",
+        "onboard_time": 1746005842,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 189459,
+        "num": 189459,
+        "word": "月嫂下户躲卧室抱着宝宝流泪",
+        "onboard_time": 1745999302,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179293,
+        "num": 189253,
+        "word": "张哲华不愧是大厂严选",
+        "onboard_time": 1746007882,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51819,
+        "num": 188362,
+        "word": "黑执事权威神图",
+        "onboard_time": 1746008661,
+        "rank": 33,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 31734,
+        "num": 187848,
+        "word": "AIGC查重让多少毕业生陷入崩溃",
+        "onboard_time": 1746008781,
+        "rank": 34,
+        "category": "民生新闻,议题讨论"
+      },
+      {
+        "raw_hot": 169689,
+        "num": 187192,
+        "word": "淮水竹亭",
+        "onboard_time": 1746007641,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186772,
+        "num": 186772,
+        "word": "协和往年4加4录取名单恢复显示",
+        "onboard_time": 1746001043,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181721,
+        "num": 181721,
+        "word": "张雪峰这段视频的含金量",
+        "onboard_time": 1746006563,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 180034,
+        "num": 180034,
+        "word": "协和医院",
+        "onboard_time": 1745989523,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32821,
+        "num": 177356,
+        "word": "巴纳德学院是好学校吗",
+        "onboard_time": 1746007641,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174836,
+        "num": 174836,
+        "word": "林俊杰北京加场",
+        "onboard_time": 1746007400,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 180837,
+        "num": 174748,
+        "word": "时代少年团直播美颜掉了",
+        "onboard_time": 1745987301,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170471,
+        "num": 170471,
+        "word": "医生都为自己的医院证清白",
+        "onboard_time": 1746006262,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176231,
+        "num": 168308,
+        "word": "昀牵孟绕",
+        "onboard_time": 1745996061,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149701,
+        "num": 149701,
+        "word": "孙颖莎与航天员桂海潮同台颁奖",
+        "onboard_time": 1746003261,
+        "rank": 44,
+        "category": "国内时政,体育"
+      },
+      {
+        "raw_hot": 149005,
+        "num": 149005,
+        "word": "杨紫张哲华新剧演恋人",
+        "onboard_time": 1745999302,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144267,
+        "num": 144267,
+        "word": "手写致歉函粉丝已取关曾黎",
+        "onboard_time": 1746008183,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120596,
+        "num": 136160,
+        "word": "膀胱癌临床指南第一作者",
+        "onboard_time": 1746007102,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 134666,
+        "num": 134666,
+        "word": "狗狗犯了错真的一眼就能看出",
+        "onboard_time": 1746008781,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 66749,
+        "num": 132617,
+        "word": "神印王座剧场版今日开播",
+        "onboard_time": 1746004761,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记为人工智能发展指明方向#"
+    }
+  }
+}
