@@ -1,6 +1,6 @@
 {
   "startTime": 1745944279846,
-  "endTime": 1745979449748,
+  "endTime": 1745982634895,
   "band_list": [
     {
       "raw_hot": 2292225,
@@ -8,6 +8,14 @@
       "word": "28年五一真能连休9天吗",
       "onboard_time": 1745975242,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2260853,
+      "num": 425742,
+      "word": "董小姐",
+      "onboard_time": 1745977221,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -20,11 +28,27 @@
     },
     {
       "raw_hot": 1718131,
-      "num": 422393,
+      "num": 424158,
       "word": "父亲与小33岁亡子女友再婚被女儿砸门",
       "onboard_time": 1745941820,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1432849,
+      "num": 425506,
+      "word": "女子生理期弄脏店家多件新衣后拒买",
+      "onboard_time": 1745980340,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1045613,
+      "num": 1045613,
+      "word": "抗癌博主小杨哥病逝",
+      "onboard_time": 1745974822,
+      "rank": 3,
+      "category": "网红"
     },
     {
       "raw_hot": 985670,
@@ -33,14 +57,6 @@
       "onboard_time": 1745970560,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 915276,
-      "num": 915276,
-      "word": "抗癌博主小杨哥病逝",
-      "onboard_time": 1745974822,
-      "rank": 3,
-      "category": "网红"
     },
     {
       "raw_hot": 896148,
@@ -83,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 781749,
+      "num": 781749,
+      "word": "长安的荔枝",
+      "onboard_time": 1745980641,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 768774,
       "num": 308914,
       "word": "曾黎 灾难公关",
@@ -91,28 +115,52 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 749862,
+      "num": 749862,
+      "word": "董袭莹知网撤稿问题有待调查",
+      "onboard_time": 1745976440,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 746089,
+      "num": 746089,
+      "word": "生命树官宣",
+      "onboard_time": 1745982141,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 726977,
+      "num": 726977,
+      "word": "生命树",
+      "onboard_time": 1745938103,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 685647,
-      "num": 309233,
+      "num": 424162,
       "word": "谁来管管现在的女士内裤",
       "onboard_time": 1745975542,
       "rank": 20,
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 662794,
-      "num": 425742,
-      "word": "董小姐",
-      "onboard_time": 1745977221,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 607087,
-      "num": 417854,
+      "num": 425029,
       "word": "赵今麦泳衣",
       "onboard_time": 1745968099,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 570366,
+      "num": 570366,
+      "word": "2025五四奖章获奖名单公布",
+      "onboard_time": 1745970380,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 493059,
@@ -123,27 +171,19 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 490821,
+      "num": 432528,
+      "word": "藏海传会给大家不一样的肖战",
+      "onboard_time": 1745975063,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 484764,
       "num": 484764,
       "word": "肖某事件撕开医德无问题遮羞布",
       "onboard_time": 1745977581,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 475210,
-      "num": 475210,
-      "word": "董袭莹知网撤稿问题有待调查",
-      "onboard_time": 1745976440,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 457864,
-      "num": 457864,
-      "word": "2025五四奖章获奖名单公布",
-      "onboard_time": 1745970380,
-      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -155,12 +195,12 @@
       "category": "民生新闻,艺人"
     },
     {
-      "raw_hot": 432528,
-      "num": 432528,
-      "word": "藏海传会给大家不一样的肖战",
-      "onboard_time": 1745975063,
-      "rank": 9,
-      "category": "剧集"
+      "raw_hot": 431878,
+      "num": 424789,
+      "word": "商务座减二等座",
+      "onboard_time": 1745981361,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 427221,
@@ -187,11 +227,11 @@
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 403596,
-      "num": 370705,
-      "word": "生命树",
-      "onboard_time": 1745938103,
-      "rank": 6,
+      "raw_hot": 402123,
+      "num": 402123,
+      "word": "杨紫生命树官宣预热",
+      "onboard_time": 1745973442,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -200,6 +240,14 @@
       "word": "王一栩 配平",
       "onboard_time": 1745974102,
       "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 381611,
+      "num": 381611,
+      "word": "咸鱼飞升",
+      "onboard_time": 1745976140,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -227,6 +275,14 @@
       "category": "民生新闻,体育"
     },
     {
+      "raw_hot": 364513,
+      "num": 364513,
+      "word": "行程图",
+      "onboard_time": 1745978720,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 357374,
       "num": 357374,
       "word": "无忧渡结局",
@@ -243,12 +299,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 351203,
-      "num": 351203,
-      "word": "咸鱼飞升",
-      "onboard_time": 1745976140,
-      "rank": 34,
-      "category": "剧集"
+      "raw_hot": 335786,
+      "num": 335786,
+      "word": "宋妍霏 人鱼的眼泪",
+      "onboard_time": 1745981842,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 332196,
@@ -265,6 +321,14 @@
       "onboard_time": 1745931620,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 291094,
+      "num": 254644,
+      "word": "生命树 胡歌",
+      "onboard_time": 1745973982,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 283118,
@@ -291,12 +355,28 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 254644,
-      "num": 254644,
-      "word": "生命树 胡歌",
-      "onboard_time": 1745973982,
-      "rank": 26,
-      "category": "剧集"
+      "raw_hot": 256212,
+      "num": 256212,
+      "word": "雷军回复五一要结婚网友",
+      "onboard_time": 1745981182,
+      "rank": 31,
+      "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 255086,
+      "num": 424488,
+      "word": "贺峻霖获中传青年五四奖章",
+      "onboard_time": 1745980881,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 252925,
+      "num": 252925,
+      "word": "电影长安的荔枝全阵容官宣",
+      "onboard_time": 1745981122,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 249813,
@@ -371,28 +451,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 211211,
-      "num": 246841,
-      "word": "杨紫生命树官宣预热",
-      "onboard_time": 1745973442,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 206649,
       "num": 206649,
       "word": "避孕焦虑 女性情感劳动",
       "onboard_time": 1745972900,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 203038,
-      "num": 203038,
-      "word": "行程图",
-      "onboard_time": 1745978720,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 203032,
@@ -427,6 +491,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 193185,
+      "num": 193185,
+      "word": "张雅钦咸鱼飞升领衔主演",
+      "onboard_time": 1745980461,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191157,
       "num": 191157,
       "word": "4加4初衷肯定不是为开后门",
@@ -441,6 +513,14 @@
       "onboard_time": 1745916264,
       "rank": 18,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 186757,
+      "num": 186757,
+      "word": "蒋勤勤从业以来尺度最大的一个戏",
+      "onboard_time": 1745981842,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 178313,
@@ -459,6 +539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174913,
+      "num": 174913,
+      "word": "今天下午的我",
+      "onboard_time": 1745982201,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 169581,
       "num": 210544,
       "word": "杨紫刘诗诗互关",
@@ -475,12 +563,52 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 168506,
+      "num": 168506,
+      "word": "王鹤棣李沁咸鱼飞升开机照",
+      "onboard_time": 1745980220,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 167076,
+      "num": 167076,
+      "word": "花300元买了一只狗的余生",
+      "onboard_time": 1745980940,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 164887,
+      "num": 164887,
+      "word": "蛇年蛇月蛇日蛇时",
+      "onboard_time": 1745982440,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 163941,
+      "num": 163941,
+      "word": "肖某事件对医生群体造成伤害",
+      "onboard_time": 1745979021,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159461,
       "num": 159461,
       "word": "WBG对战BLG",
       "onboard_time": 1745938043,
       "rank": 21,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 158609,
+      "num": 158609,
+      "word": "解放军仪仗队亮相越南阅兵",
+      "onboard_time": 1745980161,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 154545,
@@ -497,14 +625,6 @@
       "onboard_time": 1745970861,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 147300,
-      "num": 147300,
-      "word": "肖某事件对医生群体造成伤害",
-      "onboard_time": 1745979021,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 144165,
@@ -675,6 +795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94649,
+      "num": 1044539,
+      "word": "公安网安提醒这些信息千万保密",
+      "onboard_time": 1745976861,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94007,
       "num": 94007,
       "word": "商家曝女子网购内衣半年后买新退旧",
@@ -731,6 +859,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 87128,
+      "num": 424557,
+      "word": "阿迪达斯中国业绩八连增",
+      "onboard_time": 1745979620,
+      "rank": 17,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 86825,
       "num": 86825,
       "word": "欧冠",
@@ -761,14 +897,6 @@
       "onboard_time": 1745949975,
       "rank": 38,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 81690,
-      "num": 1035901,
-      "word": "公安网安提醒这些信息千万保密",
-      "onboard_time": 1745976861,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 81211,
@@ -875,6 +1003,14 @@
       "category": "艺人,教育"
     },
     {
+      "raw_hot": 67413,
+      "num": 387455,
+      "word": "董某莹的跨界疑云有谁在紧张",
+      "onboard_time": 1745982382,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67124,
       "num": 67124,
       "word": "阿森纳0比1巴黎圣日耳曼",
@@ -899,12 +1035,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58779,
+      "num": 389141,
+      "word": "字走不欠",
+      "onboard_time": 1745981542,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 53788,
       "num": 53788,
       "word": "从肖某事件看4加4模式",
       "onboard_time": 1745945238,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42386,
+      "num": 204622,
+      "word": "84岁爷爷高能追星的一天",
+      "onboard_time": 1745981422,
+      "rank": 38,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 42261,
@@ -945,6 +1097,14 @@
       "onboard_time": 1745950696,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 26865,
+      "num": 424410,
+      "word": "小伙称会通灵续命发功时当场被抓",
+      "onboard_time": 1745982021,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24871,
@@ -1011,6 +1171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18406,
+      "num": 204244,
+      "word": "烟台一夜之间冒出个超萌吉祥物",
+      "onboard_time": 1745982081,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16645,
       "num": 19271,
       "word": "淮水竹亭伴手礼",
@@ -1073,6 +1241,14 @@
       "onboard_time": 1745978542,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 5930,
+      "num": 253062,
+      "word": "怎样喝水会增加燃脂效果",
+      "onboard_time": 1745982501,
+      "rank": 32,
+      "category": "健康医疗"
     }
   ],
   "hotgov_list": [

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/01 00:30:47 ~ 2025/04/30 10:17:29
+本榜单时间：2025/04/01 00:30:47 ~ 2025/04/30 11:10:34
 </p>
 </blockquote>
 <p>
@@ -821,6 +821,12 @@ C罗点评甲亢哥中国行（热度：2472029）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%9B%BD%E6%A2%81%E5%9B%9E%E5%BA%94%E8%BE%9E%E8%81%8C%23" target="weibo">
 刘国梁回应辞职（热度：2277238）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%B0%8F%E5%A7%90%23" target="weibo">
+董小姐（热度：2260853）
 </a>
 </li>
 
@@ -2315,6 +2321,12 @@ RedVelvet 解散（热度：1601334）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%9A%E6%99%9A%E8%80%81%E5%85%AC%23" target="weibo">
 晚晚老公（热度：1433400）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%94%9F%E7%90%86%E6%9C%9F%E5%BC%84%E8%84%8F%E5%BA%97%E5%AE%B6%E5%A4%9A%E4%BB%B6%E6%96%B0%E8%A1%A3%E5%90%8E%E6%8B%92%E4%B9%B0%23" target="weibo">
+女子生理期弄脏店家多件新衣后拒买（热度：1432849）
 </a>
 </li>
 
@@ -4341,6 +4353,12 @@ DeepSeek7小时攻克缅甸救灾语言关（热度：1104741）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8A%97%E7%99%8C%E5%8D%9A%E4%B8%BB%E5%B0%8F%E6%9D%A8%E5%93%A5%E7%97%85%E9%80%9D%23" target="weibo">
+抗癌博主小杨哥病逝（热度：1045613）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2341%E5%B2%81%E7%94%B7%E5%AD%90%E5%9C%B0%E9%93%81%E7%8C%A5%E4%BA%B5%E5%A5%B3%E5%AD%90%E8%A2%AB%E8%A1%8C%E6%8B%98%23" target="weibo">
 41岁男子地铁猥亵女子被行拘（热度：1044514）
 </a>
@@ -5313,12 +5331,6 @@ enhypen科切拉舞台（热度：916460）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8A%97%E7%99%8C%E5%8D%9A%E4%B8%BB%E5%B0%8F%E6%9D%A8%E5%93%A5%E7%97%85%E9%80%9D%23" target="weibo">
-抗癌博主小杨哥病逝（热度：915276）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E9%A9%AC%E4%BA%92%E5%85%8D%E7%AD%BE%E8%AF%81%23" target="weibo">
 中马互免签证（热度：915086）
 </a>
@@ -5999,18 +6011,6 @@ Swisse致歉（热度：842126）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%89%BA%E5%BD%A4%E6%8B%92%E7%BB%9D%E4%BA%86%E6%88%BF%E7%90%AA%E7%9A%84%E9%B8%A1%E6%B1%A4%E5%B9%B6%E4%BC%B8%E6%89%8B%E8%A6%81%E9%92%B1%23" target="weibo">
 李艺彤拒绝了房琪的鸡汤并伸手要钱（热度：838044）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%89%AB%E5%B8%9A%23" target="weibo">
-金扫帚（热度：837900）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%BB%A7%E7%BB%AD%E5%AF%B9%E6%97%A5%E6%9C%AC%E6%96%BD%E5%8E%8B%23" target="weibo">
-特朗普继续对日本施压（热度：837485）
 </a>
 </li>
 
