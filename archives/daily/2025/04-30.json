@@ -1,6 +1,6 @@
 {
   "startTime": 1745944279846,
-  "endTime": 1745995804577,
+  "endTime": 1745998010299,
   "band_list": [
     {
       "raw_hot": 2742411,
@@ -8,6 +8,14 @@
       "word": "屠呦呦当选美国科学院外籍院士",
       "onboard_time": 1745987784,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2586720,
+      "num": 2586720,
+      "word": "协和往年4加4录取名单已无法查询",
+      "onboard_time": 1745993481,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -115,11 +123,11 @@
       "category": "网红"
     },
     {
-      "raw_hot": 1030301,
-      "num": 1030301,
-      "word": "协和往年4加4录取名单已无法查询",
-      "onboard_time": 1745993481,
-      "rank": 22,
+      "raw_hot": 1018972,
+      "num": 1018972,
+      "word": "山西太原一处居民小区爆炸",
+      "onboard_time": 1745995521,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -273,6 +281,14 @@
       "onboard_time": 1745970380,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 565502,
+      "num": 358505,
+      "word": "昀牵孟绕",
+      "onboard_time": 1745996061,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 547174,
@@ -539,19 +555,27 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 331851,
+      "num": 331851,
+      "word": "庄达菲领衔主演长安的荔枝",
+      "onboard_time": 1745996602,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 326250,
+      "num": 249804,
+      "word": "手机壳",
+      "onboard_time": 1745995882,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 324501,
       "num": 324501,
       "word": "小区一女子戴面具恐吓电梯内幼童",
       "onboard_time": 1745931620,
       "rank": 16,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 322526,
-      "num": 322526,
-      "word": "山西太原一处居民小区爆炸",
-      "onboard_time": 1745995521,
-      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -587,6 +611,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 299059,
+      "num": 256372,
+      "word": "五一假期这些赛事不容错过",
+      "onboard_time": 1745997081,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 296817,
       "num": 296817,
       "word": "恋与深空登顶",
@@ -616,6 +648,14 @@
       "word": "亲子酒店员工朋友圈说希望小朋友死掉",
       "onboard_time": 1745934745,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 268032,
+      "num": 268032,
+      "word": "国际不打小孩日",
+      "onboard_time": 1745996602,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -755,6 +795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 216883,
+      "num": 216883,
+      "word": "协和医学院4加4招生网页已恢复",
+      "onboard_time": 1745996301,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 214691,
       "num": 214691,
       "word": "杨紫正午阳光三搭",
@@ -867,6 +915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 200070,
+      "num": 200070,
+      "word": "iPhone17Pro机模再上手",
+      "onboard_time": 1745995882,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 199380,
       "num": 199380,
       "word": "蒋敦豪杭州",
@@ -897,6 +953,14 @@
       "onboard_time": 1745971942,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 196159,
+      "num": 182657,
+      "word": "淘宝闪购5月6日起覆盖全国",
+      "onboard_time": 1745996962,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 194512,
@@ -979,6 +1043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182941,
+      "num": 182941,
+      "word": "没等到司藤2等到了云渺",
+      "onboard_time": 1745997502,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182822,
       "num": 182822,
       "word": "穷游富游终不似少年游",
@@ -996,7 +1068,7 @@
     },
     {
       "raw_hot": 180897,
-      "num": 180897,
+      "num": 188597,
       "word": "白鹿这次带回跑男的是曾舜晞",
       "onboard_time": 1745995221,
       "rank": 35,
@@ -1025,6 +1097,22 @@
       "onboard_time": 1745976263,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 175039,
+      "num": 175039,
+      "word": "到底动了谁的蛋糕",
+      "onboard_time": 1745997681,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 173348,
+      "num": 173348,
+      "word": "杨超越拽着王安宇耕了一亩地",
+      "onboard_time": 1745997022,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 173347,
@@ -1115,8 +1203,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 163883,
-      "num": 163883,
+      "raw_hot": 163941,
+      "num": 251197,
       "word": "孟子义李昀锐五月跑男不合体",
       "onboard_time": 1745994981,
       "rank": 40,
@@ -1129,6 +1217,14 @@
       "onboard_time": 1745984362,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 162161,
+      "num": 262260,
+      "word": "林高远父亲曾说在国家队待够3年就行",
+      "onboard_time": 1745997621,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 161411,
@@ -1179,6 +1275,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 155932,
+      "num": 155932,
+      "word": "协和医学院曾发文解读4加4模式",
+      "onboard_time": 1745986822,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154545,
       "num": 154545,
       "word": "原来袜子上的夹子是这样用的",
@@ -1195,8 +1299,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 153667,
-      "num": 153667,
+      "raw_hot": 153947,
+      "num": 263385,
       "word": "王心凌力挺杨丞琳",
       "onboard_time": 1745995401,
       "rank": 46,
@@ -1227,6 +1331,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 144210,
+      "num": 144210,
+      "word": "陈奕迅撞脸辛柏青",
+      "onboard_time": 1745996782,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 144165,
       "num": 144165,
       "word": "男子电梯内突遭无人看管凶犬扑咬",
@@ -1241,6 +1353,14 @@
       "onboard_time": 1745974641,
       "rank": 44,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 141710,
+      "num": 141710,
+      "word": "赵露思新歌预告",
+      "onboard_time": 1745996241,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 140657,
@@ -1339,6 +1459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115343,
+      "num": 268759,
+      "word": "导航软件关键时候真的能救命",
+      "onboard_time": 1745996602,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113096,
       "num": 113096,
       "word": "记者亲历东风着陆场的大风天气",
@@ -1369,6 +1497,22 @@
       "onboard_time": 1745991262,
       "rank": 20,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 107663,
+      "num": 145596,
+      "word": "宋亚轩捏张真源鼻子",
+      "onboard_time": 1745996362,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 106736,
+      "num": 255127,
+      "word": "孙颖莎发言4个小脑袋排排看",
+      "onboard_time": 1745997322,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 105447,
@@ -1779,12 +1923,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58659,
+      "num": 202652,
+      "word": "一起迎接龙马乘组回家",
+      "onboard_time": 1745997921,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 53788,
       "num": 53788,
       "word": "从肖某事件看4加4模式",
       "onboard_time": 1745945238,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50125,
+      "num": 258148,
+      "word": "王嘉尔citywalk吃冰淇淋",
+      "onboard_time": 1745997261,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 46321,
@@ -1801,6 +1961,14 @@
       "onboard_time": 1745995042,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 43047,
+      "num": 253905,
+      "word": "苏杯中国vs泰国阵容",
+      "onboard_time": 1745997800,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 42386,
@@ -1873,6 +2041,14 @@
       "onboard_time": 1745993961,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33848,
+      "num": 268169,
+      "word": "为何有人坐车晕车开车却不晕",
+      "onboard_time": 1745997681,
+      "rank": 19,
+      "category": "科学科普"
     },
     {
       "raw_hot": 33560,

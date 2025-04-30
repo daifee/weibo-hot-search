@@ -1,6 +1,6 @@
 {
   "startTime": 1743438647417,
-  "endTime": 1745995804577,
+  "endTime": 1745998010299,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -705,6 +705,14 @@
       "onboard_time": 1743847641,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 2586720,
+      "num": 2586720,
+      "word": "协和往年4加4录取名单已无法查询",
+      "onboard_time": 1745993481,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2576443,
@@ -5987,14 +5995,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1030301,
-      "num": 1030301,
-      "word": "协和往年4加4录取名单已无法查询",
-      "onboard_time": 1745993481,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1029363,
       "num": 1029363,
       "word": "华表奖阵容官宣",
@@ -6113,6 +6113,14 @@
       "onboard_time": 1743595403,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1018972,
+      "num": 1018972,
+      "word": "山西太原一处居民小区爆炸",
+      "onboard_time": 1745995521,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1014123,
@@ -13553,6 +13561,14 @@
       "onboard_time": 1745799322,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 565502,
+      "num": 358505,
+      "word": "昀牵孟绕",
+      "onboard_time": 1743464480,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 565326,
@@ -23827,6 +23843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 331851,
+      "num": 331851,
+      "word": "庄达菲领衔主演长安的荔枝",
+      "onboard_time": 1745996602,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 331809,
       "num": 331809,
       "word": "陈雨菲亚锦赛夺冠",
@@ -24235,6 +24259,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 326250,
+      "num": 249804,
+      "word": "手机壳",
+      "onboard_time": 1745995882,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 326115,
       "num": 444264,
       "word": "托运的行李箱多出条丝袜获赔4500元",
@@ -24473,14 +24505,6 @@
       "onboard_time": 1745242224,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 322526,
-      "num": 322526,
-      "word": "山西太原一处居民小区爆炸",
-      "onboard_time": 1745995521,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 322203,
@@ -24961,14 +24985,6 @@
       "onboard_time": 1745380102,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 315715,
-      "num": 315715,
-      "word": "昀牵孟绕",
-      "onboard_time": 1743464480,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 315710,
@@ -26409,6 +26425,14 @@
       "onboard_time": 1744900224,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 299059,
+      "num": 256372,
+      "word": "五一假期这些赛事不容错过",
+      "onboard_time": 1745997081,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 298828,
@@ -29257,6 +29281,14 @@
       "onboard_time": 1745161350,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 268032,
+      "num": 268032,
+      "word": "国际不打小孩日",
+      "onboard_time": 1745996602,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 267990,
@@ -36003,6 +36035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 216883,
+      "num": 216883,
+      "word": "协和医学院4加4招生网页已恢复",
+      "onboard_time": 1745996301,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 216841,
       "num": 216841,
       "word": "浪姐第一季yyds",
@@ -40515,6 +40555,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 200070,
+      "num": 200070,
+      "word": "iPhone17Pro机模再上手",
+      "onboard_time": 1745995882,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 200043,
       "num": 192142,
       "word": "上着班突然感觉一阵恶心",
@@ -42017,6 +42065,14 @@
       "onboard_time": 1745661981,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196159,
+      "num": 182657,
+      "word": "淘宝闪购5月6日起覆盖全国",
+      "onboard_time": 1745996962,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 196120,
@@ -46827,6 +46883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182941,
+      "num": 182941,
+      "word": "没等到司藤2等到了云渺",
+      "onboard_time": 1745997502,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182937,
       "num": 217734,
       "word": "国色芳华2预告",
@@ -47500,7 +47564,7 @@
     },
     {
       "raw_hot": 180897,
-      "num": 180897,
+      "num": 188597,
       "word": "白鹿这次带回跑男的是曾舜晞",
       "onboard_time": 1745995221,
       "rank": 35,
@@ -49275,6 +49339,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 175039,
+      "num": 175039,
+      "word": "到底动了谁的蛋糕",
+      "onboard_time": 1745997681,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 174994,
       "num": 174994,
       "word": "向阳花票房破亿",
@@ -49769,6 +49841,14 @@
       "onboard_time": 1745147842,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 173348,
+      "num": 173348,
+      "word": "杨超越拽着王安宇耕了一亩地",
+      "onboard_time": 1745997022,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 173347,
@@ -52963,6 +53043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 163941,
+      "num": 251197,
+      "word": "孟子义李昀锐五月跑男不合体",
+      "onboard_time": 1745994981,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163936,
       "num": 169895,
       "word": "樊振东超级全满贯的影响力",
@@ -53009,14 +53097,6 @@
       "onboard_time": 1745672662,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 163883,
-      "num": 163883,
-      "word": "孟子义李昀锐五月跑男不合体",
-      "onboard_time": 1745994981,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 163868,
@@ -53713,6 +53793,14 @@
       "onboard_time": 1744031364,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162161,
+      "num": 262260,
+      "word": "林高远父亲曾说在国家队待够3年就行",
+      "onboard_time": 1745997621,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 162145,
@@ -56163,6 +56251,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 155932,
+      "num": 155932,
+      "word": "协和医学院曾发文解读4加4模式",
+      "onboard_time": 1745986822,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 155925,
       "num": 155925,
       "word": "蒯曼vs徐孝元",
@@ -56995,6 +57091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153947,
+      "num": 263385,
+      "word": "王心凌力挺杨丞琳",
+      "onboard_time": 1745995401,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153944,
       "num": 153944,
       "word": "JDG对战WBG",
@@ -57161,14 +57265,6 @@
       "onboard_time": 1744798162,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 153667,
-      "num": 153667,
-      "word": "王心凌力挺杨丞琳",
-      "onboard_time": 1745995401,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 153622,
@@ -61155,6 +61251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144210,
+      "num": 144210,
+      "word": "陈奕迅撞脸辛柏青",
+      "onboard_time": 1745996782,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 144185,
       "num": 168011,
       "word": "美国胁迫他国与中国脱钩频被拒",
@@ -62217,6 +62321,14 @@
       "onboard_time": 1743436700,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141710,
+      "num": 141710,
+      "word": "赵露思新歌预告",
+      "onboard_time": 1745996241,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 141708,
@@ -73179,6 +73291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115343,
+      "num": 268759,
+      "word": "导航软件关键时候真的能救命",
+      "onboard_time": 1745996602,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115338,
       "num": 115338,
       "word": "浪姐一公排名",
@@ -75747,6 +75867,14 @@
       "category": "网红,民生新闻"
     },
     {
+      "raw_hot": 107663,
+      "num": 145596,
+      "word": "宋亚轩捏张真源鼻子",
+      "onboard_time": 1745996362,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107638,
       "num": 496109,
       "word": "男子找中介贷款12万到手剩10万",
@@ -76017,6 +76145,14 @@
       "onboard_time": 1743671422,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 106736,
+      "num": 255127,
+      "word": "孙颖莎发言4个小脑袋排排看",
+      "onboard_time": 1745997322,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 106727,
@@ -88155,6 +88291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58659,
+      "num": 202652,
+      "word": "一起迎接龙马乘组回家",
+      "onboard_time": 1745997921,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 58627,
       "num": 134326,
       "word": "封神2将从影院下映",
@@ -90291,6 +90435,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 50125,
+      "num": 258148,
+      "word": "王嘉尔citywalk吃冰淇淋",
+      "onboard_time": 1745997261,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 50086,
       "num": 440105,
       "word": "河北发大风红色预警",
@@ -92417,6 +92569,14 @@
       "onboard_time": 1745082266,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 43047,
+      "num": 253905,
+      "word": "苏杯中国vs泰国阵容",
+      "onboard_time": 1745997800,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 43012,
@@ -95169,6 +95329,14 @@
       "onboard_time": 1745807841,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33848,
+      "num": 268169,
+      "word": "为何有人坐车晕车开车却不晕",
+      "onboard_time": 1745997681,
+      "rank": 19,
+      "category": "科学科普"
     },
     {
       "raw_hot": 33826,

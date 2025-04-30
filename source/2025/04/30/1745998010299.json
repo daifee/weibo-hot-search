@@ -1,0 +1,410 @@
+{
+  "runTime": 1745998010299,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2586720,
+        "num": 2586720,
+        "word": "协和往年4加4录取名单已无法查询",
+        "onboard_time": 1745993481,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1100219,
+        "num": 1100219,
+        "word": "屠呦呦当选美国科学院外籍院士",
+        "onboard_time": 1745987784,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107892,
+        "num": 1050725,
+        "word": "中国航天员回地球过五一",
+        "onboard_time": 1745990003,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1018972,
+        "num": 1018972,
+        "word": "山西太原一处居民小区爆炸",
+        "onboard_time": 1745995521,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 687049,
+        "num": 687049,
+        "word": "麻醉科医生谈肖飞手术离场40分钟",
+        "onboard_time": 1745990481,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 553322,
+        "num": 553322,
+        "word": "专家称4加4初衷是培养医学领袖",
+        "onboard_time": 1745990722,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 458946,
+        "num": 458946,
+        "word": "鞠婧祎说把想成为变成正在成为",
+        "onboard_time": 1745993901,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 391497,
+        "num": 391497,
+        "word": "陈德容回应乘风退赛传闻",
+        "onboard_time": 1745992702,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 377067,
+        "num": 377067,
+        "word": "神十九返回舱着陆",
+        "onboard_time": 1745991082,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 28974,
+        "num": 372792,
+        "word": "揭密中国如何追踪美国特工",
+        "onboard_time": 1745985323,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1265722,
+        "num": 365743,
+        "word": "协和医院",
+        "onboard_time": 1745989523,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 565502,
+        "num": 358505,
+        "word": "昀牵孟绕",
+        "onboard_time": 1745996061,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 890204,
+        "num": 357009,
+        "word": "肖飞回应手术过程中离场是吃降压药",
+        "onboard_time": 1745983102,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 560707,
+        "num": 348606,
+        "word": "女子生理期弄脏店家多件新衣后拒买",
+        "onboard_time": 1745980340,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 609709,
+        "num": 344151,
+        "word": "董小姐去给病人开刀这事很可怕",
+        "onboard_time": 1745941042,
+        "rank": 14,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 550731,
+        "num": 332713,
+        "word": "韩安冉准备明年生三胎",
+        "onboard_time": 1745992822,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 331851,
+        "num": 331851,
+        "word": "庄达菲领衔主演长安的荔枝",
+        "onboard_time": 1745996602,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 300304,
+        "num": 300304,
+        "word": "餐厅偶遇贾玲过生日",
+        "onboard_time": 1745992220,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115343,
+        "num": 268759,
+        "word": "导航软件关键时候真的能救命",
+        "onboard_time": 1745996602,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33848,
+        "num": 268169,
+        "word": "为何有人坐车晕车开车却不晕",
+        "onboard_time": 1745997681,
+        "rank": 19,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 268032,
+        "num": 268032,
+        "word": "国际不打小孩日",
+        "onboard_time": 1745996602,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 449224,
+        "num": 267947,
+        "word": "知网客服回应论文下架流程",
+        "onboard_time": 1745982864,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 333032,
+        "num": 264933,
+        "word": "商务座减二等座",
+        "onboard_time": 1745981361,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153947,
+        "num": 263385,
+        "word": "王心凌力挺杨丞琳",
+        "onboard_time": 1745995401,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162161,
+        "num": 262260,
+        "word": "林高远父亲曾说在国家队待够3年就行",
+        "onboard_time": 1745997621,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225963,
+        "num": 261196,
+        "word": "生命树官宣",
+        "onboard_time": 1745982141,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50125,
+        "num": 258148,
+        "word": "王嘉尔citywalk吃冰淇淋",
+        "onboard_time": 1745997261,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299059,
+        "num": 256372,
+        "word": "五一假期这些赛事不容错过",
+        "onboard_time": 1745997081,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106736,
+        "num": 255127,
+        "word": "孙颖莎发言4个小脑袋排排看",
+        "onboard_time": 1745997322,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43047,
+        "num": 253905,
+        "word": "苏杯中国vs泰国阵容",
+        "onboard_time": 1745997800,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163941,
+        "num": 251197,
+        "word": "孟子义李昀锐五月跑男不合体",
+        "onboard_time": 1745994981,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 326250,
+        "num": 249804,
+        "word": "手机壳",
+        "onboard_time": 1745995882,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 249418,
+        "num": 249418,
+        "word": "时代少年团直播美颜掉了",
+        "onboard_time": 1745987301,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241892,
+        "num": 241892,
+        "word": "太空飘着5个字中国空间站",
+        "onboard_time": 1745984181,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 220734,
+        "num": 220734,
+        "word": "Jasper低调拿奖学金",
+        "onboard_time": 1745985621,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216883,
+        "num": 216883,
+        "word": "协和医学院4加4招生网页已恢复",
+        "onboard_time": 1745996301,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58659,
+        "num": 202652,
+        "word": "一起迎接龙马乘组回家",
+        "onboard_time": 1745997921,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 200070,
+        "num": 200070,
+        "word": "iPhone17Pro机模再上手",
+        "onboard_time": 1745995882,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 166477,
+        "num": 188597,
+        "word": "白鹿这次带回跑男的是曾舜晞",
+        "onboard_time": 1745995221,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182941,
+        "num": 182941,
+        "word": "没等到司藤2等到了云渺",
+        "onboard_time": 1745997502,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196159,
+        "num": 182657,
+        "word": "淘宝闪购5月6日起覆盖全国",
+        "onboard_time": 1745996962,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 178284,
+        "num": 178284,
+        "word": "乌克兰女记者遗体被俄归还",
+        "onboard_time": 1745993241,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 175039,
+        "num": 175039,
+        "word": "到底动了谁的蛋糕",
+        "onboard_time": 1745997681,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 173348,
+        "num": 173348,
+        "word": "杨超越拽着王安宇耕了一亩地",
+        "onboard_time": 1745997022,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156562,
+        "num": 156562,
+        "word": "林更新在黄亦玫楚乔之间选择沉默",
+        "onboard_time": 1745984301,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155932,
+        "num": 155932,
+        "word": "协和医学院曾发文解读4加4模式",
+        "onboard_time": 1745986822,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147925,
+        "num": 147925,
+        "word": "歌手2025全民举荐",
+        "onboard_time": 1745994502,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107663,
+        "num": 145596,
+        "word": "宋亚轩捏张真源鼻子",
+        "onboard_time": 1745996362,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144210,
+        "num": 144210,
+        "word": "陈奕迅撞脸辛柏青",
+        "onboard_time": 1745996782,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141710,
+        "num": 141710,
+        "word": "赵露思新歌预告",
+        "onboard_time": 1745996241,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记为人工智能发展指明方向#"
+    }
+  }
+}
