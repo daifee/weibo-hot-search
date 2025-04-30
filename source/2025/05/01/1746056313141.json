@@ -1,0 +1,410 @@
+{
+  "runTime": 1746056313141,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 886067,
+        "num": 966840,
+        "word": "男性注射避孕药一次至少管2年",
+        "onboard_time": 1746032899,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 706317,
+        "num": 706317,
+        "word": "董袭莹的种种疑云该有人出来回应了",
+        "onboard_time": 1746032958,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63628,
+        "num": 480568,
+        "word": "五一出行天气提醒",
+        "onboard_time": 1746023364,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258446,
+        "num": 258446,
+        "word": "特朗普称美国即将迎来好日子",
+        "onboard_time": 1746035296,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 231451,
+        "num": 231451,
+        "word": "两大叔圈天菜终于又合作了",
+        "onboard_time": 1746020363,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223183,
+        "num": 223183,
+        "word": "以色列向多国求援灭山火",
+        "onboard_time": 1746054859,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 218962,
+        "num": 218962,
+        "word": "南京夫子庙回应有人强制卖花",
+        "onboard_time": 1746040395,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218913,
+        "num": 218913,
+        "word": "好声音选手毕夏自曝遭遇车祸",
+        "onboard_time": 1746021262,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186458,
+        "num": 218651,
+        "word": "乌美签署矿产协议",
+        "onboard_time": 1746054979,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 216867,
+        "num": 218107,
+        "word": "五一劳动节",
+        "onboard_time": 1746055458,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 802243,
+        "num": 217952,
+        "word": "南京鼓楼医院院长被砍",
+        "onboard_time": 1746026184,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 754382,
+        "num": 217369,
+        "word": "张新成疑似回应分手",
+        "onboard_time": 1746054798,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217156,
+        "num": 217156,
+        "word": "张雪峰谈协和4加4",
+        "onboard_time": 1746019103,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 115596,
+        "num": 213811,
+        "word": "美国获特权开发乌克兰自然资源",
+        "onboard_time": 1746054859,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 71404,
+        "num": 212749,
+        "word": "以色列宣布进入国家紧急状态",
+        "onboard_time": 1746054979,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 212582,
+        "num": 212582,
+        "word": "教育博主称张继科吹牛遭其怒怼",
+        "onboard_time": 1746054979,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171058,
+        "num": 171058,
+        "word": "张一山谈首搭赵丽颖",
+        "onboard_time": 1746019941,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114566,
+        "num": 170644,
+        "word": "倪妮说妈妈刘德华给我唱歌了",
+        "onboard_time": 1746049995,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 46952,
+        "num": 170563,
+        "word": "美国零售商自担关税维持供货",
+        "onboard_time": 1746056058,
+        "rank": 18,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 170531,
+        "num": 170531,
+        "word": "有协和4加4博士论文正文仅12页",
+        "onboard_time": 1746006141,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 211123,
+        "num": 169455,
+        "word": "女大学生旱厕捞手机掉化粪池溺亡",
+        "onboard_time": 1746012682,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167325,
+        "num": 167325,
+        "word": "太原爆炸已致1死21伤2失联",
+        "onboard_time": 1746018743,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162933,
+        "num": 162933,
+        "word": "饶毅回应怒怼协和",
+        "onboard_time": 1746014421,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147545,
+        "num": 147545,
+        "word": "孕妇上网查症状被吓成先兆流产",
+        "onboard_time": 1746052576,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121516,
+        "num": 121516,
+        "word": "恋与深空",
+        "onboard_time": 1746055338,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 120827,
+        "num": 120827,
+        "word": "王辰",
+        "onboard_time": 1746015442,
+        "rank": 25,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 89517,
+        "num": 120725,
+        "word": "青簪行",
+        "onboard_time": 1746016221,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78930,
+        "num": 119795,
+        "word": "张一山回应曝光度变少",
+        "onboard_time": 1746020363,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73488,
+        "num": 119244,
+        "word": "哪吒2登顶4月票房冠军",
+        "onboard_time": 1746029482,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 15957,
+        "num": 118549,
+        "word": "美国已出现政策驱动下的经济下滑",
+        "onboard_time": 1746055578,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 44215,
+        "num": 117622,
+        "word": "美乌矿产协议内容",
+        "onboard_time": 1746056179,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 723095,
+        "num": 116475,
+        "word": "董某莹已离开中日友好医院胸外科",
+        "onboard_time": 1746022343,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116402,
+        "num": 116402,
+        "word": "冲着月薪一万应聘九天到手一千",
+        "onboard_time": 1746015620,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 336842,
+        "num": 115087,
+        "word": "中冶建研院回应网传董某莹父亲情况",
+        "onboard_time": 1746025223,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111132,
+        "num": 111132,
+        "word": "胃病发展成胃癌有5个征兆",
+        "onboard_time": 1746031578,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 289516,
+        "num": 107383,
+        "word": "协和医学院的医学博士发声",
+        "onboard_time": 1746013761,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102002,
+        "num": 102002,
+        "word": "十三州府取关曾黎",
+        "onboard_time": 1746002842,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261875,
+        "num": 101492,
+        "word": "协和医学院董某莹事件最新进展",
+        "onboard_time": 1746010640,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100420,
+        "num": 100420,
+        "word": "五一北方穿外套南方要防暑",
+        "onboard_time": 1746024563,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24657,
+        "num": 98859,
+        "word": "多哈世乒赛吉祥物亮相",
+        "onboard_time": 1746056299,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43384,
+        "num": 98599,
+        "word": "赵心童晋级世锦赛四强",
+        "onboard_time": 1746056299,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144181,
+        "num": 98576,
+        "word": "董袭莹论文致谢称希望不负一袭白衣",
+        "onboard_time": 1746013941,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98398,
+        "num": 98398,
+        "word": "偶遇谢霆锋父亲谢贤坐轮椅出行",
+        "onboard_time": 1746022163,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108958,
+        "num": 97115,
+        "word": "孩子再卷也比不上作弊的",
+        "onboard_time": 1746021984,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 86131,
+        "num": 86131,
+        "word": "光遇",
+        "onboard_time": 1746056058,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 105255,
+        "num": 86053,
+        "word": "董某某事件背后有没有大鱼",
+        "onboard_time": 1746026663,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84609,
+        "num": 84609,
+        "word": "巴萨3比3国米",
+        "onboard_time": 1746050775,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86223,
+        "num": 84320,
+        "word": "饶毅教授曾批协和任人唯亲",
+        "onboard_time": 1746010702,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83697,
+        "num": 83697,
+        "word": "5月份十二星座注意事项",
+        "onboard_time": 1746054979,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 72352,
+        "num": 77925,
+        "word": "杨紫第一部大女主探案剧",
+        "onboard_time": 1746022643,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在上海考察调研#"
+    }
+  }
+}

@@ -1,10 +1,10 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746055445776,
+  "endTime": 1746056313141,
   "band_list": [
     {
       "raw_hot": 1512910,
-      "num": 190427,
+      "num": 217952,
       "word": "南京鼓楼医院院长被砍",
       "onboard_time": 1746026184,
       "rank": 10,
@@ -27,12 +27,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 806432,
-      "num": 844463,
+      "raw_hot": 886067,
+      "num": 966840,
       "word": "男性注射避孕药一次至少管2年",
       "onboard_time": 1746032899,
       "rank": 3,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 754382,
+      "num": 217369,
+      "word": "张新成疑似回应分手",
+      "onboard_time": 1746054798,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 753739,
@@ -43,8 +51,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 622838,
-      "num": 622838,
+      "raw_hot": 706317,
+      "num": 706317,
       "word": "董袭莹的种种疑云该有人出来回应了",
       "onboard_time": 1746032958,
       "rank": 30,
@@ -81,14 +89,6 @@
       "onboard_time": 1746018743,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 419958,
-      "num": 150418,
-      "word": "张新成疑似回应分手",
-      "onboard_time": 1746054798,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 339595,
@@ -132,10 +132,18 @@
     },
     {
       "raw_hot": 291232,
-      "num": 138628,
+      "num": 169455,
       "word": "女大学生旱厕捞手机掉化粪池溺亡",
       "onboard_time": 1746012682,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 289516,
+      "num": 107383,
+      "word": "协和医学院的医学博士发声",
+      "onboard_time": 1746013761,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -153,14 +161,6 @@
       "onboard_time": 1746035296,
       "rank": 21,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 269916,
-      "num": 106275,
-      "word": "协和医学院的医学博士发声",
-      "onboard_time": 1746013761,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 255345,
@@ -203,20 +203,44 @@
       "category": "教育"
     },
     {
+      "raw_hot": 223183,
+      "num": 223183,
+      "word": "以色列向多国求援灭山火",
+      "onboard_time": 1746054859,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 218913,
+      "num": 218913,
+      "word": "好声音选手毕夏自曝遭遇车祸",
+      "onboard_time": 1746021262,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 216867,
+      "num": 218107,
+      "word": "五一劳动节",
+      "onboard_time": 1746055458,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 212582,
+      "num": 212582,
+      "word": "教育博主称张继科吹牛遭其怒怼",
+      "onboard_time": 1746054979,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200089,
       "num": 187123,
       "word": "杨紫第一部大女主探案剧",
       "onboard_time": 1746022643,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 196641,
-      "num": 196641,
-      "word": "好声音选手毕夏自曝遭遇车祸",
-      "onboard_time": 1746021262,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 196524,
@@ -235,6 +259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 186458,
+      "num": 218651,
+      "word": "乌美签署矿产协议",
+      "onboard_time": 1746054979,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 185585,
       "num": 185585,
       "word": "张一山回应曝光度变少",
@@ -244,11 +276,19 @@
     },
     {
       "raw_hot": 174319,
-      "num": 150034,
+      "num": 170531,
       "word": "有协和4加4博士论文正文仅12页",
       "onboard_time": 1746006141,
       "rank": 21,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 162933,
+      "num": 162933,
+      "word": "饶毅回应怒怼协和",
+      "onboard_time": 1746014421,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 161052,
@@ -267,11 +307,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 149556,
-      "num": 149556,
-      "word": "饶毅回应怒怼协和",
-      "onboard_time": 1746014421,
-      "rank": 46,
+      "raw_hot": 147545,
+      "num": 147545,
+      "word": "孕妇上网查症状被吓成先兆流产",
+      "onboard_time": 1746052576,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -316,7 +356,7 @@
     },
     {
       "raw_hot": 128052,
-      "num": 128052,
+      "num": 170644,
       "word": "倪妮说妈妈刘德华给我唱歌了",
       "onboard_time": 1746049995,
       "rank": 19,
@@ -339,12 +379,20 @@
       "category": "教育,民生新闻"
     },
     {
-      "raw_hot": 121074,
-      "num": 108095,
-      "word": "孕妇上网查症状被吓成先兆流产",
-      "onboard_time": 1746052576,
-      "rank": 45,
-      "category": "民生新闻"
+      "raw_hot": 121516,
+      "num": 121516,
+      "word": "恋与深空",
+      "onboard_time": 1746055338,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 115596,
+      "num": 213811,
+      "word": "美国获特权开发乌克兰自然资源",
+      "onboard_time": 1746054859,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 112051,
@@ -353,14 +401,6 @@
       "onboard_time": 1746030322,
       "rank": 18,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 111710,
-      "num": 111710,
-      "word": "乌美签署矿产协议",
-      "onboard_time": 1746054979,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 111292,
@@ -387,14 +427,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 107435,
-      "num": 107435,
-      "word": "教育博主称张继科吹牛遭其怒怼",
-      "onboard_time": 1746054979,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 107265,
       "num": 107265,
       "word": "水贝老板炒黄金亏了一个亿",
@@ -409,6 +441,14 @@
       "onboard_time": 1746000622,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 100420,
+      "num": 100420,
+      "word": "五一北方穿外套南方要防暑",
+      "onboard_time": 1746024563,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99520,
@@ -427,20 +467,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98398,
+      "num": 111922,
+      "word": "偶遇谢霆锋父亲谢贤坐轮椅出行",
+      "onboard_time": 1746022163,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 98188,
       "num": 98188,
       "word": "女生自创发型正面刘海后脑勺寸头",
       "onboard_time": 1746027202,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 96631,
-      "num": 111922,
-      "word": "偶遇谢霆锋父亲谢贤坐轮椅出行",
-      "onboard_time": 1746022163,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 96630,
@@ -467,11 +507,19 @@
       "category": "演出"
     },
     {
-      "raw_hot": 87340,
-      "num": 87340,
-      "word": "恋与深空",
-      "onboard_time": 1746055338,
-      "rank": 37,
+      "raw_hot": 86223,
+      "num": 84320,
+      "word": "饶毅教授曾批协和任人唯亲",
+      "onboard_time": 1746010702,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86131,
+      "num": 86131,
+      "word": "光遇",
+      "onboard_time": 1746056058,
+      "rank": 44,
       "category": "游戏"
     },
     {
@@ -483,20 +531,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 83697,
+      "num": 83697,
+      "word": "5月份十二星座注意事项",
+      "onboard_time": 1746054979,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 83580,
       "num": 83580,
       "word": "白银黄金大跳水",
       "onboard_time": 1746018503,
       "rank": 48,
       "category": "财经"
-    },
-    {
-      "raw_hot": 79652,
-      "num": 79652,
-      "word": "5月份十二星座注意事项",
-      "onboard_time": 1746054979,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 79641,
@@ -523,20 +571,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 73592,
-      "num": 73592,
-      "word": "五一北方穿外套南方要防暑",
-      "onboard_time": 1746024563,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 72868,
       "num": 72868,
       "word": "在宠物店工作真的很容易爱上客人",
       "onboard_time": 1746055037,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 71404,
+      "num": 212749,
+      "word": "以色列宣布进入国家紧急状态",
+      "onboard_time": 1746054979,
+      "rank": 26,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 69797,
@@ -555,8 +603,8 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 61096,
-      "num": 446249,
+      "raw_hot": 63628,
+      "num": 480568,
       "word": "五一出行天气提醒",
       "onboard_time": 1746023364,
       "rank": 2,
@@ -603,6 +651,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 46952,
+      "num": 170563,
+      "word": "美国零售商自担关税维持供货",
+      "onboard_time": 1746056058,
+      "rank": 18,
+      "category": "国际时政,财经"
+    },
+    {
+      "raw_hot": 44215,
+      "num": 117622,
+      "word": "美乌矿产协议内容",
+      "onboard_time": 1746056179,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 43384,
+      "num": 98599,
+      "word": "赵心童晋级世锦赛四强",
+      "onboard_time": 1746056299,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 42401,
       "num": 172195,
       "word": "这就是劳动的力量",
@@ -625,14 +697,6 @@
       "onboard_time": 1746033079,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 35650,
-      "num": 107660,
-      "word": "美国获特权开发乌克兰自然资源",
-      "onboard_time": 1746054859,
-      "rank": 27,
-      "category": "国际时政"
     },
     {
       "raw_hot": 34703,
@@ -675,12 +739,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 25377,
-      "num": 107587,
-      "word": "以色列向多国求援灭山火",
-      "onboard_time": 1746054859,
-      "rank": 28,
-      "category": "海外新闻"
+      "raw_hot": 24657,
+      "num": 98859,
+      "word": "多哈世乒赛吉祥物亮相",
+      "onboard_time": 1746056299,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 22474,
@@ -707,20 +771,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 15957,
+      "num": 118549,
+      "word": "美国已出现政策驱动下的经济下滑",
+      "onboard_time": 1746055578,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 14720,
       "num": 21305,
       "word": "无畏契约",
       "onboard_time": 1746047474,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 12292,
-      "num": 107682,
-      "word": "以色列宣布进入国家紧急状态",
-      "onboard_time": 1746054979,
-      "rank": 26,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 12231,
