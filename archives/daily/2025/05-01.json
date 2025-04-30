@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746030701008,
+  "endTime": 1746031639913,
   "band_list": [
     {
       "raw_hot": 1512910,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 585988,
-      "num": 152092,
+      "num": 172167,
       "word": "董某某事件背后有没有大鱼",
       "onboard_time": 1746026663,
       "rank": 17,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 336480,
-      "num": 262638,
+      "num": 290545,
       "word": "张一山谈首搭赵丽颖",
       "onboard_time": 1746019941,
       "rank": 3,
@@ -83,8 +83,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 307203,
-      "num": 307203,
+      "raw_hot": 309477,
+      "num": 309477,
       "word": "冲着月薪一万应聘九天到手一千",
       "onboard_time": 1746015620,
       "rank": 1,
@@ -100,11 +100,19 @@
     },
     {
       "raw_hot": 291232,
-      "num": 111892,
+      "num": 138628,
       "word": "女大学生旱厕捞手机掉化粪池溺亡",
       "onboard_time": 1746012682,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 276748,
+      "num": 235987,
+      "word": "哪吒2登顶4月票房冠军",
+      "onboard_time": 1746029482,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 257903,
@@ -115,8 +123,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 251122,
-      "num": 251122,
+      "raw_hot": 255345,
+      "num": 255345,
       "word": "2025多哈世乒赛",
       "onboard_time": 1746027921,
       "rank": 4,
@@ -136,14 +144,6 @@
       "word": "沈马cp粉",
       "onboard_time": 1746025343,
       "rank": 12,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 235987,
-      "num": 235987,
-      "word": "哪吒2登顶4月票房冠军",
-      "onboard_time": 1746029482,
-      "rank": 7,
       "category": "电影"
     },
     {
@@ -180,27 +180,51 @@
     },
     {
       "raw_hot": 174014,
-      "num": 111604,
+      "num": 147959,
       "word": "有协和4加4博士论文正文仅12页",
       "onboard_time": 1746006141,
       "rank": 21,
       "category": "舆论监督"
     },
     {
+      "raw_hot": 161052,
+      "num": 161052,
+      "word": "李永钦张新成合拍",
+      "onboard_time": 1746031578,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156803,
-      "num": 111488,
+      "num": 139579,
       "word": "青簪行",
       "onboard_time": 1746016221,
       "rank": 22,
       "category": "剧集"
     },
     {
+      "raw_hot": 146607,
+      "num": 138130,
+      "word": "胃病发展成胃癌有5个征兆",
+      "onboard_time": 1746031578,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 139544,
-      "num": 111293,
+      "num": 124764,
       "word": "唐朝诡事录之下南洋",
       "onboard_time": 1746017543,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139442,
+      "num": 139442,
+      "word": "好声音选手毕夏自曝遭遇车祸",
+      "onboard_time": 1746021262,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 138137,
@@ -220,7 +244,7 @@
     },
     {
       "raw_hot": 125511,
-      "num": 111245,
+      "num": 120535,
       "word": "王子奇五分钟斯诺克无剪辑版",
       "onboard_time": 1746023484,
       "rank": 27,
@@ -241,14 +265,6 @@
       "onboard_time": 1746026482,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 111090,
-      "num": 111090,
-      "word": "好声音选手毕夏自曝遭遇车祸",
-      "onboard_time": 1746021262,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 109589,
@@ -323,6 +339,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 96631,
+      "num": 111922,
+      "word": "偶遇谢霆锋父亲谢贤坐轮椅出行",
+      "onboard_time": 1746022163,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 96630,
       "num": 96630,
       "word": "张杰谈音乐作品何以带来力量",
@@ -347,12 +371,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 89390,
-      "num": 89390,
+      "raw_hot": 90281,
+      "num": 90281,
       "word": "王力宏承包了五一假期",
       "onboard_time": 1746028702,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 84382,
+      "num": 84382,
+      "word": "Fly不允许任何人熄灭我",
+      "onboard_time": 1746031578,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 83580,
@@ -371,28 +403,36 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 79473,
-      "num": 111922,
-      "word": "偶遇谢霆锋父亲谢贤坐轮椅出行",
-      "onboard_time": 1746022163,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 62241,
+      "num": 93910,
+      "word": "张凌赫与Gucci的适配度",
+      "onboard_time": 1746031219,
+      "rank": 39,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 49973,
-      "num": 267254,
+      "num": 297435,
       "word": "太空之路被中国人走成了星际高铁",
       "onboard_time": 1746024443,
       "rank": 2,
       "category": "国内时政"
     },
     {
-      "raw_hot": 38951,
-      "num": 107351,
+      "raw_hot": 42401,
+      "num": 172195,
       "word": "这就是劳动的力量",
       "onboard_time": 1746030562,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34703,
+      "num": 93105,
+      "word": "李尚敏宣布再婚",
+      "onboard_time": 1746021323,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 3125,

@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1746030701008,
+  "endTime": 1746031639913,
   "band_list": [
     {
       "raw_hot": 8960529,
@@ -3963,6 +3963,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 276748,
+      "num": 235987,
+      "word": "哪吒2登顶4月票房冠军",
+      "onboard_time": 1746029482,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 276192,
       "num": 276192,
       "word": "翔霖",
@@ -4251,6 +4259,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 255345,
+      "num": 255345,
+      "word": "2025多哈世乒赛",
+      "onboard_time": 1746027921,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 255086,
       "num": 424488,
       "word": "贺峻霖获中传青年五四奖章",
@@ -4353,14 +4369,6 @@
       "onboard_time": 1745746641,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 251122,
-      "num": 251122,
-      "word": "2025多哈世乒赛",
-      "onboard_time": 1746027921,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 250907,
@@ -4657,14 +4665,6 @@
       "onboard_time": 1745842102,
       "rank": 16,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 235987,
-      "num": 235987,
-      "word": "哪吒2登顶4月票房冠军",
-      "onboard_time": 1746029482,
-      "rank": 7,
-      "category": "电影"
     },
     {
       "raw_hot": 235809,
@@ -7499,6 +7499,14 @@
       "category": "综艺,电影"
     },
     {
+      "raw_hot": 161052,
+      "num": 161052,
+      "word": "李永钦张新成合拍",
+      "onboard_time": 1746031578,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 160866,
       "num": 160866,
       "word": "食物咀嚼次数会影响减肥效果",
@@ -8329,6 +8337,14 @@
       "onboard_time": 1745911463,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 146607,
+      "num": 138130,
+      "word": "胃病发展成胃癌有5个征兆",
+      "onboard_time": 1746031578,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 146559,
@@ -11339,6 +11355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90281,
+      "num": 90281,
+      "word": "王力宏承包了五一假期",
+      "onboard_time": 1746028702,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 90239,
       "num": 90239,
       "word": "发明调休的人有没有考虑过单休的人",
@@ -11377,14 +11401,6 @@
       "onboard_time": 1745857459,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 89390,
-      "num": 89390,
-      "word": "王力宏承包了五一假期",
-      "onboard_time": 1746028702,
-      "rank": 47,
-      "category": "演出"
     },
     {
       "raw_hot": 89279,
@@ -11633,6 +11649,14 @@
       "onboard_time": 1745812402,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84382,
+      "num": 84382,
+      "word": "Fly不允许任何人熄灭我",
+      "onboard_time": 1746031578,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 84307,
@@ -12435,6 +12459,14 @@
       "category": "幽默,民生新闻"
     },
     {
+      "raw_hot": 62241,
+      "num": 93910,
+      "word": "张凌赫与Gucci的适配度",
+      "onboard_time": 1746031219,
+      "rank": 39,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 62235,
       "num": 393207,
       "word": "中等小龙虾已从每斤40元降至17元",
@@ -13219,6 +13251,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 42401,
+      "num": 172195,
+      "word": "这就是劳动的力量",
+      "onboard_time": 1746030562,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42386,
       "num": 204622,
       "word": "84岁爷爷高能追星的一天",
@@ -13409,14 +13449,6 @@
       "onboard_time": 1745744662,
       "rank": 39,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 38951,
-      "num": 107351,
-      "word": "这就是劳动的力量",
-      "onboard_time": 1746030562,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 38450,
