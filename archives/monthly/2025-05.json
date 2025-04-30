@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746048236788,
+  "endTime": 1746049135140,
   "band_list": [
     {
       "raw_hot": 1512910,
@@ -435,7 +435,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 71789,
+      "raw_hot": 71842,
       "num": 50609,
       "word": "特朗普称美国即将迎来好日子",
       "onboard_time": 1746035296,
@@ -531,11 +531,19 @@
       "category": "电影"
     },
     {
-      "raw_hot": 25292,
-      "num": 25292,
+      "raw_hot": 27611,
+      "num": 27611,
       "word": "女子申请产检遭拒被以旷工开除",
       "onboard_time": 1746042855,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26409,
+      "num": 26409,
+      "word": "警方调查女子孕期被公公家暴住院",
+      "onboard_time": 1746045795,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -555,12 +563,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 21793,
-      "num": 21793,
-      "word": "警方调查女子孕期被公公家暴住院",
-      "onboard_time": 1746045795,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 21958,
+      "num": 21958,
+      "word": "章若楠淮水竹亭客串镜头",
+      "onboard_time": 1746047594,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 20319,
@@ -571,7 +579,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 17478,
+      "raw_hot": 18183,
       "num": 178247,
       "word": "五一出行天气提醒",
       "onboard_time": 1746023364,
@@ -579,16 +587,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 14724,
-      "num": 20511,
-      "word": "章若楠淮水竹亭客串镜头",
-      "onboard_time": 1746047594,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 14675,
-      "num": 20508,
+      "raw_hot": 14720,
+      "num": 21305,
       "word": "无畏契约",
       "onboard_time": 1746047474,
       "rank": 47,
