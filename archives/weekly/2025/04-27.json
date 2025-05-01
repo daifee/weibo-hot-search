@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1746078142083,
+  "endTime": 1746081335729,
   "band_list": [
     {
       "raw_hot": 8960529,
@@ -723,19 +723,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1239894,
+      "num": 1239894,
+      "word": "泰山山顶公厕挤满避寒的人",
+      "onboard_time": 1746075741,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1238132,
       "num": 1238132,
       "word": "为什么小时候常有的停电好像消失了",
       "onboard_time": 1745847141,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1231880,
-      "num": 1231880,
-      "word": "泰山山顶公厕挤满避寒的人",
-      "onboard_time": 1746075741,
-      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -801,6 +801,14 @@
       "onboard_time": 1745822723,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1154764,
+      "num": 269183,
+      "word": "北科大回应董袭莹论文雷同质疑",
+      "onboard_time": 1746080000,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1152635,
@@ -3107,6 +3115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 408154,
+      "num": 408154,
+      "word": "樊振东晒全国先进工作者证书",
+      "onboard_time": 1746079820,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 405440,
       "num": 322395,
       "word": "seventeen",
@@ -3193,6 +3209,14 @@
       "onboard_time": 1746069562,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 393455,
+      "num": 393455,
+      "word": "杜华说百万年薪应该带脑子上班",
+      "onboard_time": 1746075502,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 392118,
@@ -3473,6 +3497,14 @@
       "onboard_time": 1746012142,
       "rank": 9,
       "category": "民生新闻,议题讨论"
+    },
+    {
+      "raw_hot": 358242,
+      "num": 358242,
+      "word": "星巴克否认在搞饥饿营销",
+      "onboard_time": 1746064280,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 357589,
@@ -3803,6 +3835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 311848,
+      "num": 311848,
+      "word": "迪丽热巴分享欲犯了",
+      "onboard_time": 1746078020,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 311715,
       "num": 311715,
       "word": "雷军回复五一要结婚网友",
@@ -4009,6 +4049,14 @@
       "onboard_time": 1745826503,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 297281,
+      "num": 265554,
+      "word": "赵丽颖配音表情也拉满",
+      "onboard_time": 1746078740,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 296817,
@@ -4825,14 +4873,6 @@
       "onboard_time": 1745926282,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 246752,
-      "num": 246752,
-      "word": "杜华说百万年薪应该带脑子上班",
-      "onboard_time": 1746075502,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 246584,
@@ -5683,6 +5723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207924,
+      "num": 207924,
+      "word": "灯牌",
+      "onboard_time": 1746080840,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 207703,
       "num": 207703,
       "word": "孙颖莎与航天员桂海潮同台颁奖",
@@ -6091,14 +6139,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 200078,
-      "num": 200078,
-      "word": "迪丽热巴分享欲犯了",
-      "onboard_time": 1746078020,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 200070,
       "num": 200070,
       "word": "iPhone17Pro机模再上手",
@@ -6355,6 +6395,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 194356,
+      "num": 194356,
+      "word": "赵丽颖黄晓明新剧演搬砖搭子",
+      "onboard_time": 1746080661,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 194218,
+      "num": 194218,
+      "word": "迪丽热巴开推云包场",
+      "onboard_time": 1746080480,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194196,
       "num": 194196,
       "word": "长风起开机",
@@ -6600,6 +6656,14 @@
       "word": "将定向增发购车指标",
       "onboard_time": 1745812521,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 190198,
+      "num": 211472,
+      "word": "男子接了个电话被网贷4万多元",
+      "onboard_time": 1746079582,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -7227,12 +7291,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 179893,
-      "num": 332298,
-      "word": "星巴克否认在搞饥饿营销",
-      "onboard_time": 1746064280,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 180161,
+      "num": 180161,
+      "word": "TF家族空降",
+      "onboard_time": 1746080480,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 179759,
@@ -7713,6 +7777,14 @@
       "onboard_time": 1745829382,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167826,
+      "num": 167826,
+      "word": "央视五一晚会阵容",
+      "onboard_time": 1746078501,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 167711,
@@ -8699,6 +8771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152223,
+      "num": 152223,
+      "word": "王蓉回应再次走红",
+      "onboard_time": 1746078621,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151934,
       "num": 265649,
       "word": "女子曝日本酒店发现陌生男子藏床底",
@@ -9089,6 +9169,14 @@
       "onboard_time": 1745755641,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 145528,
+      "num": 194266,
+      "word": "动画鲲吞天下开播",
+      "onboard_time": 1746081140,
+      "rank": 29,
+      "category": "动漫"
     },
     {
       "raw_hot": 145462,
@@ -9556,7 +9644,7 @@
     },
     {
       "raw_hot": 139280,
-      "num": 139280,
+      "num": 194353,
       "word": "第五人格赛事",
       "onboard_time": 1746074481,
       "rank": 44,
@@ -9643,6 +9731,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 137894,
+      "num": 137894,
+      "word": "好多人啊",
+      "onboard_time": 1746078981,
+      "rank": 43,
+      "category": "民生新闻,旅游"
+    },
+    {
       "raw_hot": 137857,
       "num": 137857,
       "word": "陈坤拿着手机走红毯",
@@ -9713,6 +9809,14 @@
       "onboard_time": 1746012922,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 137145,
+      "num": 137145,
+      "word": "WBG对战RC",
+      "onboard_time": 1746078501,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 137138,
@@ -10043,6 +10147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 131798,
+      "num": 131798,
+      "word": "小甜甜向前夫求复合",
+      "onboard_time": 1746080121,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131615,
       "num": 131615,
       "word": "时代少年团海口演唱会联排",
@@ -10369,6 +10481,14 @@
       "onboard_time": 1746077360,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127018,
+      "num": 127018,
+      "word": "协和医学院有必要站出来回应质疑",
+      "onboard_time": 1746079820,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126994,
@@ -11771,6 +11891,14 @@
       "category": "国内时政,国际时政"
     },
     {
+      "raw_hot": 102228,
+      "num": 194312,
+      "word": "五一游客夜登泰山看日出有多拼",
+      "onboard_time": 1746078682,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101950,
       "num": 363040,
       "word": "梁伟铿王昶2比0泰国组合",
@@ -12288,6 +12416,14 @@
       "word": "赵又廷感同身受黄磊3年前的痛",
       "onboard_time": 1745742981,
       "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 92098,
+      "num": 194281,
+      "word": "阿诺董力跳舞赢在身高",
+      "onboard_time": 1746080301,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -13395,6 +13531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69116,
+      "num": 266620,
+      "word": "饿了么把五一补贴成了美食节",
+      "onboard_time": 1746079280,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 68673,
       "num": 68673,
       "word": "周思成称考雅思不上8分退圈",
@@ -14195,6 +14339,14 @@
       "category": "幽默,民生新闻"
     },
     {
+      "raw_hot": 46967,
+      "num": 194336,
+      "word": "特朗普称经济萎缩都是拜登的错",
+      "onboard_time": 1746081081,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 46952,
       "num": 170563,
       "word": "美国零售商自担关税维持供货",
@@ -14472,6 +14624,14 @@
       "word": "男子开发AI面试作弊拿到亚马逊实习",
       "onboard_time": 1745738420,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42146,
+      "num": 194253,
+      "word": "武汉三孩家庭购新房补贴12万",
+      "onboard_time": 1746079339,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -15265,6 +15425,14 @@
       "onboard_time": 1745895741,
       "rank": 39,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 27598,
+      "num": 153018,
+      "word": "假期还在24小时待命是你吗",
+      "onboard_time": 1746079401,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27512,
