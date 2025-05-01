@@ -1,0 +1,410 @@
+{
+  "runTime": 1746095269628,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1191441,
+        "num": 1191441,
+        "word": "蓝莓肚脐眼里的霉菌",
+        "onboard_time": 1746085281,
+        "rank": 0,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 1167449,
+        "num": 1167449,
+        "word": "马斯克被爆踢出局",
+        "onboard_time": 1746093021,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 64111,
+        "num": 927631,
+        "word": "全球游客共赏大美中国",
+        "onboard_time": 1746076521,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 902543,
+        "num": 902543,
+        "word": "石凯 音乐节",
+        "onboard_time": 1746093981,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 498043,
+        "num": 498043,
+        "word": "泰山陪爬小伙忙疯了也赚疯了",
+        "onboard_time": 1746088163,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 493666,
+        "num": 493666,
+        "word": "卫健委调查肖某董某",
+        "onboard_time": 1746059841,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 474316,
+        "num": 474316,
+        "word": "为三百块利息失去三百万",
+        "onboard_time": 1746090921,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 452688,
+        "num": 452688,
+        "word": "白鹿一拖三",
+        "onboard_time": 1746083901,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341176,
+        "num": 341176,
+        "word": "官方通报医院工作人员上班打游戏",
+        "onboard_time": 1746090861,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200952,
+        "num": 340966,
+        "word": "三千游客挤瘫荣昌公务员食堂",
+        "onboard_time": 1746092841,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1170100,
+        "num": 338590,
+        "word": "回忆专用小马甲",
+        "onboard_time": 1746090921,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1034416,
+        "num": 337541,
+        "word": "难听",
+        "onboard_time": 1746084561,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1025765,
+        "num": 336187,
+        "word": "董某莹1年拿规培证威胁患者安全",
+        "onboard_time": 1746092421,
+        "rank": 12,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 525718,
+        "num": 334720,
+        "word": "国家卫健委启动最高层级医政调查",
+        "onboard_time": 1746084801,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56073,
+        "num": 333624,
+        "word": "景区回应推出蹦极窝囊版",
+        "onboard_time": 1746093741,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 364160,
+        "num": 332299,
+        "word": "虞书欣换头像",
+        "onboard_time": 1746072981,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331811,
+        "num": 331811,
+        "word": "协和医学院校长4加4毕业典礼发言",
+        "onboard_time": 1746089001,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205546,
+        "num": 324863,
+        "word": "朱志鑫簪花",
+        "onboard_time": 1746086662,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 85702,
+        "num": 321568,
+        "word": "闺蜜网购肉毒素相互注射中毒",
+        "onboard_time": 1746095061,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14027,
+        "num": 320325,
+        "word": "高温出游如何预防中暑",
+        "onboard_time": 1746094941,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 320105,
+        "num": 320105,
+        "word": "永辉超市新规现金支付分币零头全舍",
+        "onboard_time": 1746087561,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246204,
+        "num": 246204,
+        "word": "陈赫把黄磊做菜的黄酒倒光了",
+        "onboard_time": 1746072682,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210261,
+        "num": 210261,
+        "word": "白宫送别马斯克",
+        "onboard_time": 1746093621,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 209696,
+        "num": 209696,
+        "word": "98年女孩做陪诊师曾月入10万",
+        "onboard_time": 1746087800,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195069,
+        "num": 195069,
+        "word": "苏新皓 好薄的一片腹肌",
+        "onboard_time": 1746092361,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 189741,
+        "num": 189741,
+        "word": "至少还有你",
+        "onboard_time": 1746094102,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 181260,
+        "num": 181260,
+        "word": "RIIZE新歌",
+        "onboard_time": 1746093920,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 138433,
+        "num": 180976,
+        "word": "落花一个纯爱一个纯厌",
+        "onboard_time": 1746094221,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94727,
+        "num": 180335,
+        "word": "卫健委调查肖某相关舆情值得期待",
+        "onboard_time": 1746093320,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63616,
+        "num": 179975,
+        "word": "全红婵说和我握手好吗",
+        "onboard_time": 1746094401,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 496960,
+        "num": 178755,
+        "word": "北科大回应董袭莹论文雷同质疑",
+        "onboard_time": 1746080000,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178704,
+        "num": 178704,
+        "word": "白鹿曾舜晞梁永棋陈鑫海一起去玩了",
+        "onboard_time": 1746081980,
+        "rank": 31,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 162215,
+        "num": 162215,
+        "word": "韩国月子中心都吃什么",
+        "onboard_time": 1746089542,
+        "rank": 32,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 160211,
+        "num": 160211,
+        "word": "专家建议外出住宿尽量自带床单",
+        "onboard_time": 1746091641,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142998,
+        "num": 142998,
+        "word": "协和4+4毕业生本科专业有西班牙语园林等",
+        "onboard_time": 1746094702,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136029,
+        "num": 136029,
+        "word": "五一劳动节",
+        "onboard_time": 1746055458,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131399,
+        "num": 131399,
+        "word": "4+4模式公平性应得到更严肃的回应",
+        "onboard_time": 1746091881,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129595,
+        "num": 129595,
+        "word": "打开朋友圈我就到了目的地",
+        "onboard_time": 1746092361,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121647,
+        "num": 121647,
+        "word": "朱苏",
+        "onboard_time": 1746087502,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 120585,
+        "num": 120585,
+        "word": "迪丽热巴张凌赫空耳大师",
+        "onboard_time": 1746093080,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119758,
+        "num": 119758,
+        "word": "知道五一人多但没想到人这么多",
+        "onboard_time": 1746087561,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119674,
+        "num": 119674,
+        "word": "吴艳妮赛场化妆是妈妈建议的",
+        "onboard_time": 1746094161,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119068,
+        "num": 119068,
+        "word": "被国产剧小孩一个眼神吓住了",
+        "onboard_time": 1746092901,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113730,
+        "num": 113730,
+        "word": "枭起青壤",
+        "onboard_time": 1746088102,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112240,
+        "num": 112240,
+        "word": "女子为蹭高速免费提前半个月出发",
+        "onboard_time": 1746072920,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112000,
+        "num": 112000,
+        "word": "mrc 三跑",
+        "onboard_time": 1746092361,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 109864,
+        "num": 109864,
+        "word": "对不起王权弘业 就嗑一下",
+        "onboard_time": 1746092601,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108898,
+        "num": 108898,
+        "word": "成都GG对战MRC",
+        "onboard_time": 1746092421,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108278,
+        "num": 108278,
+        "word": "回忆专用小马甲道歉",
+        "onboard_time": 1746095240,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 105163,
+        "num": 105163,
+        "word": "鞠婧祎喊刘诗诗姐姐",
+        "onboard_time": 1746085161,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展的根本是造福人民#"
+    }
+  }
+}

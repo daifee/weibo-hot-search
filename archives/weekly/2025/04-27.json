@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1746092411202,
+  "endTime": 1746095269628,
   "band_list": [
     {
       "raw_hot": 8960529,
@@ -268,7 +268,7 @@
     },
     {
       "raw_hot": 1875675,
-      "num": 321681,
+      "num": 337541,
       "word": "难听",
       "onboard_time": 1746084561,
       "rank": 17,
@@ -724,7 +724,7 @@
     },
     {
       "raw_hot": 1262732,
-      "num": 312572,
+      "num": 334720,
       "word": "国家卫健委启动最高层级医政调查",
       "onboard_time": 1746084801,
       "rank": 18,
@@ -809,6 +809,22 @@
       "onboard_time": 1745678065,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1170100,
+      "num": 338590,
+      "word": "回忆专用小马甲",
+      "onboard_time": 1746090921,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 1167449,
+      "num": 1167449,
+      "word": "马斯克被爆踢出局",
+      "onboard_time": 1746093021,
+      "rank": 1,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1165886,
@@ -987,6 +1003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1025765,
+      "num": 336187,
+      "word": "董某莹1年拿规培证威胁患者安全",
+      "onboard_time": 1746092421,
+      "rank": 12,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 1025303,
       "num": 1025303,
       "word": "84斤女子吐槽买百件衣服基本穿不上",
@@ -1113,6 +1137,14 @@
       "onboard_time": 1745740461,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 902543,
+      "num": 902543,
+      "word": "石凯 音乐节",
+      "onboard_time": 1746093981,
+      "rank": 3,
+      "category": "演出"
     },
     {
       "raw_hot": 899453,
@@ -2771,6 +2803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 474316,
+      "num": 474316,
+      "word": "为三百块利息失去三百万",
+      "onboard_time": 1746090921,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 473142,
       "num": 473142,
       "word": "男孩被生母继父虐待致死案宣判",
@@ -2857,14 +2897,6 @@
       "onboard_time": 1745889561,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 458225,
-      "num": 250089,
-      "word": "回忆专用小马甲",
-      "onboard_time": 1746090921,
-      "rank": 31,
-      "category": "网红"
     },
     {
       "raw_hot": 457707,
@@ -3331,14 +3363,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 389328,
-      "num": 248964,
-      "word": "为三百块利息失去三百万",
-      "onboard_time": 1746090921,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 388843,
       "num": 388843,
       "word": "章若楠新剧婚礼变葬礼",
@@ -3731,6 +3755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 341176,
+      "num": 341176,
+      "word": "官方通报医院工作人员上班打游戏",
+      "onboard_time": 1746090861,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 340944,
       "num": 340944,
       "word": "张继科让球迷说话经过大脑",
@@ -3801,6 +3833,14 @@
       "onboard_time": 1745900363,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 331811,
+      "num": 331811,
+      "word": "协和医学院校长4加4毕业典礼发言",
+      "onboard_time": 1746089001,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 330946,
@@ -5059,14 +5099,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 247447,
-      "num": 247447,
-      "word": "协和医学院校长4加4毕业典礼发言",
-      "onboard_time": 1746089001,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 246584,
       "num": 246584,
       "word": "乌克兰女记者遗体被俄归还",
@@ -5867,6 +5899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 210261,
+      "num": 210261,
+      "word": "白宫送别马斯克",
+      "onboard_time": 1746093621,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 210233,
       "num": 210233,
       "word": "不存钱才会显得有钱",
@@ -6339,6 +6379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200952,
+      "num": 340966,
+      "word": "三千游客挤瘫荣昌公务员食堂",
+      "onboard_time": 1746092841,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 200849,
       "num": 200849,
       "word": "云合",
@@ -6633,6 +6681,14 @@
       "onboard_time": 1745927544,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 195069,
+      "num": 195069,
+      "word": "苏新皓 好薄的一片腹肌",
+      "onboard_time": 1746092361,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 194840,
@@ -7033,6 +7089,14 @@
       "onboard_time": 1745847263,
       "rank": 18,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 189741,
+      "num": 189741,
+      "word": "至少还有你",
+      "onboard_time": 1746094102,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 189709,
@@ -7569,6 +7633,14 @@
       "onboard_time": 1746006563,
       "rank": 37,
       "category": "教育"
+    },
+    {
+      "raw_hot": 181260,
+      "num": 181260,
+      "word": "RIIZE新歌",
+      "onboard_time": 1746093920,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 181232,
@@ -8616,6 +8688,14 @@
       "word": "中国航天员回地球过五一",
       "onboard_time": 1745990003,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160211,
+      "num": 163575,
+      "word": "专家建议外出住宿尽量自带床单",
+      "onboard_time": 1746091641,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -9851,6 +9931,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 142998,
+      "num": 142998,
+      "word": "协和4+4毕业生本科专业有西班牙语园林等",
+      "onboard_time": 1746094702,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142772,
       "num": 142772,
       "word": "凉拌水母",
@@ -10123,6 +10211,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 138433,
+      "num": 180976,
+      "word": "落花一个纯爱一个纯厌",
+      "onboard_time": 1746094221,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138311,
       "num": 138311,
       "word": "造城者全阵容官宣",
@@ -10193,14 +10289,6 @@
       "onboard_time": 1746088820,
       "rank": 38,
       "category": "作品衍生,艺人"
-    },
-    {
-      "raw_hot": 137567,
-      "num": 251634,
-      "word": "官方通报医院工作人员上班打游戏",
-      "onboard_time": 1746090861,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 137563,
@@ -10641,6 +10729,14 @@
       "onboard_time": 1745926462,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 131399,
+      "num": 249631,
+      "word": "4+4模式公平性应得到更严肃的回应",
+      "onboard_time": 1746091881,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131263,
@@ -11371,6 +11467,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 120585,
+      "num": 120585,
+      "word": "迪丽热巴张凌赫空耳大师",
+      "onboard_time": 1746093080,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120370,
       "num": 244845,
       "word": "张云龙说就赵一博你种过地",
@@ -11419,6 +11523,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 119674,
+      "num": 119674,
+      "word": "吴艳妮赛场化妆是妈妈建议的",
+      "onboard_time": 1746094161,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119236,
       "num": 119236,
       "word": "马丽说谢谢何炅让自己变得有力量",
@@ -11427,12 +11539,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 119216,
-      "num": 119216,
-      "word": "苏新皓 好薄的一片腹肌",
-      "onboard_time": 1746092361,
-      "rank": 45,
-      "category": "演出"
+      "raw_hot": 119068,
+      "num": 119068,
+      "word": "被国产剧小孩一个眼神吓住了",
+      "onboard_time": 1746092901,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 119056,
@@ -11971,6 +12083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109864,
+      "num": 109864,
+      "word": "对不起王权弘业 就嗑一下",
+      "onboard_time": 1746092601,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 109808,
       "num": 408520,
       "word": "古画中发现了干饭人",
@@ -12051,6 +12171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108898,
+      "num": 108898,
+      "word": "成都GG对战MRC",
+      "onboard_time": 1746092421,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 108797,
       "num": 347697,
       "word": "100条承诺看特朗普就职百日成绩",
@@ -12081,6 +12209,14 @@
       "onboard_time": 1745732122,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 108278,
+      "num": 108278,
+      "word": "回忆专用小马甲道歉",
+      "onboard_time": 1746095240,
+      "rank": 48,
+      "category": "网红"
     },
     {
       "raw_hot": 108091,
@@ -12329,14 +12465,6 @@
       "onboard_time": 1745843422,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 104273,
-      "num": 163575,
-      "word": "专家建议外出住宿尽量自带床单",
-      "onboard_time": 1746091641,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 104205,
@@ -12883,6 +13011,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 94727,
+      "num": 180335,
+      "word": "卫健委调查肖某相关舆情值得期待",
+      "onboard_time": 1746093320,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94661,
       "num": 335418,
       "word": "马龙回应天赋与努力哪个更重要",
@@ -13337,6 +13473,14 @@
       "onboard_time": 1746000742,
       "rank": 36,
       "category": "科学科普,民生新闻"
+    },
+    {
+      "raw_hot": 85702,
+      "num": 321568,
+      "word": "闺蜜网购肉毒素相互注射中毒",
+      "onboard_time": 1746095061,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85661,
@@ -14307,12 +14451,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64111,
+      "num": 927631,
+      "word": "全球游客共赏大美中国",
+      "onboard_time": 1746076521,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63905,
       "num": 115714,
       "word": "COA8全球总决赛",
       "onboard_time": 1746075741,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 63616,
+      "num": 179975,
+      "word": "全红婵说和我握手好吗",
+      "onboard_time": 1746094401,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 63110,
@@ -14547,14 +14707,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 58409,
-      "num": 249631,
-      "word": "4+4模式公平性应得到更严肃的回应",
-      "onboard_time": 1746091881,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 57952,
       "num": 120975,
       "word": "奇妙生物圈",
@@ -14641,6 +14793,14 @@
       "onboard_time": 1746001882,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 56073,
+      "num": 333624,
+      "word": "景区回应推出蹦极窝囊版",
+      "onboard_time": 1746093741,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56070,
@@ -15257,14 +15417,6 @@
       "onboard_time": 1745945478,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 42196,
-      "num": 713337,
-      "word": "全球游客共赏大美中国",
-      "onboard_time": 1746076521,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 42172,
@@ -17089,6 +17241,14 @@
       "onboard_time": 1745693055,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 14027,
+      "num": 320325,
+      "word": "高温出游如何预防中暑",
+      "onboard_time": 1746094941,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 13892,
