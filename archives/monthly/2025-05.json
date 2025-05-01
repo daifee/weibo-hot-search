@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746073858265,
+  "endTime": 1746074797905,
   "band_list": [
     {
       "raw_hot": 1639087,
@@ -8,6 +8,14 @@
       "word": "卫健委调查肖某董某",
       "onboard_time": 1746059841,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1585176,
+      "num": 589637,
+      "word": "女子为蹭高速免费提前半个月出发",
+      "onboard_time": 1746072920,
+      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -91,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 935829,
+      "num": 1149732,
+      "word": "陈赫把黄磊做菜的黄酒倒光了",
+      "onboard_time": 1746072682,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 886067,
       "num": 966840,
       "word": "男性注射避孕药一次至少管2年",
@@ -115,6 +131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 716707,
+      "num": 240860,
+      "word": "唯一一个让高铁商务座亏钱的人",
+      "onboard_time": 1746070461,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 706317,
       "num": 706317,
       "word": "董袭莹的种种疑云该有人出来回应了",
@@ -123,12 +147,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 684467,
-      "num": 241526,
-      "word": "陈赫把黄磊做菜的黄酒倒光了",
-      "onboard_time": 1746072682,
-      "rank": 11,
-      "category": "综艺"
+      "raw_hot": 674135,
+      "num": 233027,
+      "word": "虞书欣换头像",
+      "onboard_time": 1746072981,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 662827,
@@ -145,14 +169,6 @@
       "onboard_time": 1746064581,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 651426,
-      "num": 240860,
-      "word": "唯一一个让高铁商务座亏钱的人",
-      "onboard_time": 1746070461,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 646784,
@@ -185,14 +201,6 @@
       "onboard_time": 1746002842,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 589637,
-      "num": 589637,
-      "word": "女子为蹭高速免费提前半个月出发",
-      "onboard_time": 1746072920,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 586960,
@@ -243,6 +251,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 547241,
+      "num": 427359,
+      "word": "赵丽颖秦俊杰二搭",
+      "onboard_time": 1746072620,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 498325,
       "num": 498325,
       "word": "饶毅称4加4适合协和且可推广",
@@ -275,28 +291,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 427359,
-      "num": 427359,
-      "word": "赵丽颖秦俊杰二搭",
-      "onboard_time": 1746072620,
-      "rank": 4,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 394601,
       "num": 480229,
       "word": "饶毅发文称请勿错怪王辰教授",
       "onboard_time": 1746069562,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 391591,
-      "num": 233027,
-      "word": "虞书欣换头像",
-      "onboard_time": 1746072981,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 371349,
@@ -345,6 +345,14 @@
       "onboard_time": 1746019941,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 331554,
+      "num": 185612,
+      "word": "柯淳新剧好一个乖乖狗",
+      "onboard_time": 1746073581,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 324257,
@@ -435,6 +443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 266770,
+      "num": 227943,
+      "word": "卫健委亮剑调查肖董事件期待公正通报",
+      "onboard_time": 1746071661,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 255345,
       "num": 255345,
       "word": "2025多哈世乒赛",
@@ -480,14 +496,6 @@
       "word": "南京夫子庙回应有人强制卖花",
       "onboard_time": 1746040395,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 227943,
-      "num": 227943,
-      "word": "卫健委亮剑调查肖董事件期待公正通报",
-      "onboard_time": 1746071661,
-      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -537,6 +545,14 @@
       "onboard_time": 1746022643,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199803,
+      "num": 199803,
+      "word": "森林狼vs湖人",
+      "onboard_time": 1746063020,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 199705,
@@ -627,8 +643,8 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 182232,
-      "num": 182232,
+      "raw_hot": 182375,
+      "num": 182375,
       "word": "巴分糖",
       "onboard_time": 1746071300,
       "rank": 46,
@@ -683,6 +699,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 166844,
+      "num": 166844,
+      "word": "原来寄刀片是从宫崎骏开始的",
+      "onboard_time": 1746071121,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 166358,
       "num": 166358,
       "word": "终于明白了中国的非遗为什么宝贝",
@@ -715,6 +739,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 161475,
+      "num": 161475,
+      "word": "幽灵公主",
+      "onboard_time": 1746074120,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 161175,
+      "num": 161175,
+      "word": "占位",
+      "onboard_time": 1746073462,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 161052,
       "num": 161052,
       "word": "李永钦张新成合拍",
@@ -731,28 +771,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 158129,
-      "num": 158129,
-      "word": "占位",
-      "onboard_time": 1746073462,
-      "rank": 33,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 157783,
-      "num": 157783,
+      "raw_hot": 158354,
+      "num": 158354,
       "word": "开始推理吧3",
       "onboard_time": 1746073521,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 157581,
-      "num": 157581,
-      "word": "森林狼vs湖人",
-      "onboard_time": 1746063020,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 156803,
@@ -769,14 +793,6 @@
       "onboard_time": 1746059900,
       "rank": 39,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 151617,
-      "num": 151617,
-      "word": "原来寄刀片是从宫崎骏开始的",
-      "onboard_time": 1746071121,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 150053,
@@ -801,6 +817,14 @@
       "onboard_time": 1746070580,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146028,
+      "num": 146028,
+      "word": "画江湖之不良人",
+      "onboard_time": 1746072620,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 145462,
@@ -843,20 +867,20 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 140102,
-      "num": 140102,
-      "word": "柯淳新剧好一个乖乖狗",
-      "onboard_time": 1746073581,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 139544,
       "num": 124764,
       "word": "唐朝诡事录之下南洋",
       "onboard_time": 1746017543,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139280,
+      "num": 139280,
+      "word": "第五人格赛事",
+      "onboard_time": 1746074481,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 138185,
@@ -883,12 +907,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 135746,
+      "num": 184005,
+      "word": "全红婵又多了一张人生照片",
+      "onboard_time": 1746071181,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134850,
       "num": 134850,
       "word": "这才是我想要的五一出游搭子",
       "onboard_time": 1746062720,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 134842,
+      "num": 134842,
+      "word": "上海月租2000的房子",
+      "onboard_time": 1746071421,
+      "rank": 47,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 134356,
@@ -931,28 +971,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 127485,
-      "num": 184005,
-      "word": "全红婵又多了一张人生照片",
-      "onboard_time": 1746071181,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 126844,
       "num": 126844,
       "word": "抢不到演唱会门票可以找孙俪吗",
       "onboard_time": 1746071841,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 126600,
-      "num": 126600,
-      "word": "画江湖之不良人",
-      "onboard_time": 1746072620,
-      "rank": 48,
-      "category": "动漫"
     },
     {
       "raw_hot": 125511,
@@ -1283,6 +1307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 71522,
+      "num": 193309,
+      "word": "易烊千玺曾毅刘宇宁语音推荐中国电影",
+      "onboard_time": 1746073641,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 71404,
       "num": 212749,
       "word": "以色列宣布进入国家紧急状态",
@@ -1329,6 +1361,22 @@
       "onboard_time": 1746035896,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54552,
+      "num": 186939,
+      "word": "官方回应提前上高速五一期间再驶离",
+      "onboard_time": 1746074061,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50972,
+      "num": 182646,
+      "word": "现货黄金失守3240关口",
+      "onboard_time": 1746074120,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 49973,
@@ -1380,7 +1428,7 @@
     },
     {
       "raw_hot": 43004,
-      "num": 143814,
+      "num": 149936,
       "word": "本地人私藏美食能有多靠谱",
       "onboard_time": 1746072082,
       "rank": 39,
@@ -1433,6 +1481,14 @@
       "onboard_time": 1746042855,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32983,
+      "num": 182579,
+      "word": "全红婵陈芋汐演我过五一",
+      "onboard_time": 1746074420,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 31333,
