@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746091625849,
+  "endTime": 1746092411202,
   "band_list": [
     {
       "raw_hot": 2018686,
@@ -164,11 +164,19 @@
     },
     {
       "raw_hot": 855460,
-      "num": 590119,
+      "num": 651964,
       "word": "白鹿一拖三",
       "onboard_time": 1746083901,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 823968,
+      "num": 823968,
+      "word": "泰山陪爬小伙忙疯了也赚疯了",
+      "onboard_time": 1746088163,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 807858,
@@ -267,6 +275,14 @@
       "category": "艺人,情感"
     },
     {
+      "raw_hot": 618791,
+      "num": 618791,
+      "word": "永辉超市新规现金支付分币零头全舍",
+      "onboard_time": 1746087561,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 605502,
       "num": 855231,
       "word": "十三州府取关曾黎",
@@ -347,14 +363,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 530443,
-      "num": 530443,
-      "word": "泰山陪爬小伙忙疯了也赚疯了",
-      "onboard_time": 1746088163,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 498325,
       "num": 498325,
       "word": "饶毅称4加4适合协和且可推广",
@@ -377,6 +385,14 @@
       "onboard_time": 1746068899,
       "rank": 13,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 458225,
+      "num": 250089,
+      "word": "回忆专用小马甲",
+      "onboard_time": 1746090921,
+      "rank": 31,
+      "category": "网红"
     },
     {
       "raw_hot": 446900,
@@ -433,6 +449,14 @@
       "onboard_time": 1746086662,
       "rank": 5,
       "category": "演出"
+    },
+    {
+      "raw_hot": 389328,
+      "num": 248964,
+      "word": "为三百块利息失去三百万",
+      "onboard_time": 1746090921,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 371374,
@@ -580,7 +604,7 @@
     },
     {
       "raw_hot": 301255,
-      "num": 234522,
+      "num": 248597,
       "word": "朱苏",
       "onboard_time": 1746087502,
       "rank": 22,
@@ -675,14 +699,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 265531,
-      "num": 265531,
-      "word": "永辉超市新规现金支付分币零头全舍",
-      "onboard_time": 1746087561,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 261673,
       "num": 325044,
       "word": "河南一生物公司发生爆炸1死3人伤",
@@ -715,6 +731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 247447,
+      "num": 247447,
+      "word": "协和医学院校长4加4毕业典礼发言",
+      "onboard_time": 1746089001,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 246317,
       "num": 188806,
       "word": "沈马cp粉",
@@ -729,14 +753,6 @@
       "onboard_time": 1746064822,
       "rank": 33,
       "category": "体育,民生新闻"
-    },
-    {
-      "raw_hot": 233198,
-      "num": 220268,
-      "word": "协和医学院校长4加4毕业典礼发言",
-      "onboard_time": 1746089001,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 232998,
@@ -841,14 +857,6 @@
       "onboard_time": 1746087561,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 204662,
-      "num": 204662,
-      "word": "为三百块利息失去三百万",
-      "onboard_time": 1746090921,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 202636,
@@ -993,6 +1001,14 @@
       "onboard_time": 1746063860,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191264,
+      "num": 191264,
+      "word": "打开朋友圈我就到了目的地",
+      "onboard_time": 1746092361,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 190689,
@@ -1155,20 +1171,20 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 174066,
-      "num": 174066,
-      "word": "回忆专用小马甲",
-      "onboard_time": 1746090921,
-      "rank": 31,
-      "category": "网红"
-    },
-    {
       "raw_hot": 172442,
       "num": 172442,
       "word": "种地吧五一插秧日plive",
       "onboard_time": 1746082883,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172195,
+      "num": 172195,
+      "word": "太湖湾音乐节",
+      "onboard_time": 1746091521,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 171777,
@@ -1371,6 +1387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 146637,
+      "num": 146637,
+      "word": "朱志鑫苏新皓双人舞台只看着我",
+      "onboard_time": 1746092061,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 146514,
       "num": 342718,
       "word": "yeri签约新公司",
@@ -1515,6 +1539,14 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 137567,
+      "num": 251634,
+      "word": "官方通报医院工作人员上班打游戏",
+      "onboard_time": 1746090861,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137414,
       "num": 137414,
       "word": "黄仁勋称华为全球最强科技公司之一",
@@ -1569,6 +1601,14 @@
       "onboard_time": 1746071421,
       "rank": 47,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 134814,
+      "num": 134814,
+      "word": "只看着我",
+      "onboard_time": 1746091401,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 134356,
@@ -1691,6 +1731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126580,
+      "num": 126580,
+      "word": "mrc 三跑",
+      "onboard_time": 1746092361,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 126191,
       "num": 126191,
       "word": "PEL春季常规赛荣誉颁奖",
@@ -1787,6 +1835,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119976,
+      "num": 119976,
+      "word": "五一电影",
+      "onboard_time": 1746092121,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 119216,
+      "num": 119216,
+      "word": "苏新皓 好薄的一片腹肌",
+      "onboard_time": 1746092361,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 118019,
       "num": 118019,
       "word": "泰山陪爬",
@@ -1811,11 +1875,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 117741,
-      "num": 117741,
-      "word": "只看着我",
-      "onboard_time": 1746091401,
-      "rank": 43,
+      "raw_hot": 117645,
+      "num": 117263,
+      "word": "旅行新蜜蜂这次真的Newbee了",
+      "onboard_time": 1746092361,
+      "rank": 47,
       "category": "演出"
     },
     {
@@ -1963,14 +2027,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 107917,
-      "num": 107917,
-      "word": "太湖湾音乐节",
-      "onboard_time": 1746091521,
-      "rank": 45,
-      "category": "演出"
-    },
-    {
       "raw_hot": 107895,
       "num": 107895,
       "word": "杜海涛约女明星吃饭",
@@ -2011,11 +2067,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 105610,
-      "num": 105610,
-      "word": "官方通报医院工作人员上班打游戏",
-      "onboard_time": 1746090861,
-      "rank": 47,
+      "raw_hot": 104273,
+      "num": 163575,
+      "word": "专家建议外出住宿尽量自带床单",
+      "onboard_time": 1746091641,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -2195,6 +2251,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 76681,
+      "num": 247700,
+      "word": "五一档为何要选神印剧场版",
+      "onboard_time": 1746091281,
+      "rank": 19,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 75067,
       "num": 266620,
       "word": "饿了么把五一补贴成了美食节",
@@ -2259,6 +2323,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 65922,
+      "num": 117192,
+      "word": "马斯克回应特斯拉密谋换帅",
+      "onboard_time": 1746092242,
+      "rank": 48,
+      "category": "互联网,汽车"
+    },
+    {
       "raw_hot": 65851,
       "num": 93910,
       "word": "张凌赫与Gucci的适配度",
@@ -2283,14 +2355,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 59396,
-      "num": 222925,
-      "word": "五一档为何要选神印剧场版",
-      "onboard_time": 1746091281,
-      "rank": 19,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 59098,
       "num": 59098,
       "word": "华为PuraX",
@@ -2304,6 +2368,14 @@
       "word": "中国留学生自豪告诉俄民众这是中国",
       "onboard_time": 1746035896,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58409,
+      "num": 249631,
+      "word": "4+4模式公平性应得到更严肃的回应",
+      "onboard_time": 1746091881,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -2657,6 +2729,14 @@
       "onboard_time": 1746088881,
       "rank": 24,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 9604,
+      "num": 127727,
+      "word": "特朗普上任一百天能拿多少分",
+      "onboard_time": 1746091701,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 7401,

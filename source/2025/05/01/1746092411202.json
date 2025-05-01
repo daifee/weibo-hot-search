@@ -1,0 +1,410 @@
+{
+  "runTime": 1746092411202,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1332824,
+        "num": 1332824,
+        "word": "蓝莓肚脐眼里的霉菌",
+        "onboard_time": 1746085281,
+        "rank": 0,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 823968,
+        "num": 823968,
+        "word": "泰山陪爬小伙忙疯了也赚疯了",
+        "onboard_time": 1746088163,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22499,
+        "num": 684069,
+        "word": "全球游客共赏大美中国",
+        "onboard_time": 1746076521,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 651964,
+        "num": 651964,
+        "word": "白鹿一拖三",
+        "onboard_time": 1746083901,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 618791,
+        "num": 618791,
+        "word": "永辉超市新规现金支付分币零头全舍",
+        "onboard_time": 1746087561,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 600000,
+        "num": 600000,
+        "word": "卫健委调查肖某董某",
+        "onboard_time": 1746059841,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286316,
+        "num": 286316,
+        "word": "陈赫把黄磊做菜的黄酒倒光了",
+        "onboard_time": 1746072682,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262765,
+        "num": 262765,
+        "word": "朱志鑫簪花",
+        "onboard_time": 1746086662,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 251848,
+        "num": 251848,
+        "word": "泰山山顶公厕挤满避寒的人",
+        "onboard_time": 1746075741,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137567,
+        "num": 251634,
+        "word": "官方通报医院工作人员上班打游戏",
+        "onboard_time": 1746090861,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1533358,
+        "num": 251363,
+        "word": "难听",
+        "onboard_time": 1746084561,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 850017,
+        "num": 251005,
+        "word": "国家卫健委启动最高层级医政调查",
+        "onboard_time": 1746084801,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 575031,
+        "num": 250420,
+        "word": "98年女孩做陪诊师曾月入10万",
+        "onboard_time": 1746087800,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 458225,
+        "num": 250089,
+        "word": "回忆专用小马甲",
+        "onboard_time": 1746090921,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 58409,
+        "num": 249631,
+        "word": "4+4模式公平性应得到更严肃的回应",
+        "onboard_time": 1746091881,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 429216,
+        "num": 249162,
+        "word": "虞书欣换头像",
+        "onboard_time": 1746072981,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389328,
+        "num": 248964,
+        "word": "为三百块利息失去三百万",
+        "onboard_time": 1746090921,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 289198,
+        "num": 248597,
+        "word": "朱苏",
+        "onboard_time": 1746087502,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 76681,
+        "num": 247700,
+        "word": "五一档为何要选神印剧场版",
+        "onboard_time": 1746091281,
+        "rank": 18,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 247447,
+        "num": 247447,
+        "word": "协和医学院校长4加4毕业典礼发言",
+        "onboard_time": 1746089001,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230976,
+        "num": 230976,
+        "word": "白鹿曾舜晞梁永棋陈鑫海一起去玩了",
+        "onboard_time": 1746081980,
+        "rank": 20,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 211422,
+        "num": 211422,
+        "word": "鞠婧祎喊刘诗诗姐姐",
+        "onboard_time": 1746085161,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191264,
+        "num": 191264,
+        "word": "打开朋友圈我就到了目的地",
+        "onboard_time": 1746092361,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185898,
+        "num": 185898,
+        "word": "左航耳返",
+        "onboard_time": 1746085881,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 182570,
+        "num": 182570,
+        "word": "知道五一人多但没想到人这么多",
+        "onboard_time": 1746087561,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172195,
+        "num": 172195,
+        "word": "太湖湾音乐节",
+        "onboard_time": 1746091521,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 169081,
+        "num": 169081,
+        "word": "枭起青壤",
+        "onboard_time": 1746088102,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165662,
+        "num": 165662,
+        "word": "陈奕迅20岁女儿身高",
+        "onboard_time": 1746083722,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104273,
+        "num": 163575,
+        "word": "专家建议外出住宿尽量自带床单",
+        "onboard_time": 1746091641,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163210,
+        "num": 163210,
+        "word": "女子为蹭高速免费提前半个月出发",
+        "onboard_time": 1746072920,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 791505,
+        "num": 162545,
+        "word": "北科大回应董袭莹论文雷同质疑",
+        "onboard_time": 1746080000,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157241,
+        "num": 157241,
+        "word": "韩国月子中心都吃什么",
+        "onboard_time": 1746089542,
+        "rank": 31,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 153538,
+        "num": 153538,
+        "word": "五一劳动节",
+        "onboard_time": 1746055458,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150487,
+        "num": 150487,
+        "word": "卫健委亮剑调查肖董事件期待公正通报",
+        "onboard_time": 1746071661,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146637,
+        "num": 146637,
+        "word": "朱志鑫苏新皓双人舞台只看着我",
+        "onboard_time": 1746092061,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 149706,
+        "num": 145090,
+        "word": "与董某论文雷同专利发明人含听障学生",
+        "onboard_time": 1746081801,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134814,
+        "num": 134814,
+        "word": "只看着我",
+        "onboard_time": 1746091401,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 128834,
+        "num": 128834,
+        "word": "燕尾蝶",
+        "onboard_time": 1746088041,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 9604,
+        "num": 127727,
+        "word": "特朗普上任一百天能拿多少分",
+        "onboard_time": 1746091701,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 126897,
+        "num": 126897,
+        "word": "韩国代总统辞职",
+        "onboard_time": 1746084201,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 126580,
+        "num": 126580,
+        "word": "mrc 三跑",
+        "onboard_time": 1746092361,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119375,
+        "num": 123234,
+        "word": "这届年轻人五一出行不再大包小包",
+        "onboard_time": 1746090742,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121739,
+        "num": 121739,
+        "word": "沈月演东方秦兰是宿命吧",
+        "onboard_time": 1746090861,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120440,
+        "num": 120440,
+        "word": "朝阳群众举报大货车死亡掉头",
+        "onboard_time": 1746091461,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119976,
+        "num": 119976,
+        "word": "五一电影",
+        "onboard_time": 1746092121,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 119216,
+        "num": 119216,
+        "word": "苏新皓 好薄的一片腹肌",
+        "onboard_time": 1746092361,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 117483,
+        "num": 117483,
+        "word": "李在明案被发回重审",
+        "onboard_time": 1746089721,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 117645,
+        "num": 117263,
+        "word": "旅行新蜜蜂这次真的Newbee了",
+        "onboard_time": 1746092361,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 65922,
+        "num": 117192,
+        "word": "马斯克回应特斯拉密谋换帅",
+        "onboard_time": 1746092242,
+        "rank": 48,
+        "category": "互联网,汽车"
+      },
+      {
+        "raw_hot": 113624,
+        "num": 116891,
+        "word": "泰山陪爬",
+        "onboard_time": 1746091461,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平祝大家五一劳动节快乐#"
+    }
+  }
+}
