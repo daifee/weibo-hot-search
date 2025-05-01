@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1746103669854,
+  "endTime": 1746104571627,
   "band_list": [
     {
       "raw_hot": 8960529,
@@ -259,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1893893,
+      "num": 1893893,
+      "word": "董某外公为外籍院士米耀荣系谣言",
+      "onboard_time": 1746100761,
+      "rank": 0,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 1879926,
       "num": 1879926,
       "word": "肥猪能不能别来挤地铁啊",
@@ -268,7 +276,7 @@
     },
     {
       "raw_hot": 1875675,
-      "num": 398496,
+      "num": 409845,
       "word": "难听",
       "onboard_time": 1746084561,
       "rank": 17,
@@ -337,14 +345,6 @@
       "onboard_time": 1746013221,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1740031,
-      "num": 1740031,
-      "word": "董某外公为外籍院士米耀荣系谣言",
-      "onboard_time": 1746100761,
-      "rank": 0,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 1737517,
@@ -972,7 +972,7 @@
     },
     {
       "raw_hot": 1062049,
-      "num": 421867,
+      "num": 457432,
       "word": "董某莹1年拿规培证威胁患者安全",
       "onboard_time": 1746092421,
       "rank": 12,
@@ -1009,6 +1009,14 @@
       "onboard_time": 1746069320,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1039638,
+      "num": 477672,
+      "word": "回忆专用小马甲道歉",
+      "onboard_time": 1746095240,
+      "rank": 48,
+      "category": "网红"
     },
     {
       "raw_hot": 1039241,
@@ -1107,6 +1115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 980699,
+      "num": 980699,
+      "word": "赵露思音乐节",
+      "onboard_time": 1746097461,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 980311,
       "num": 980311,
       "word": "我姓疆 热巴故乡",
@@ -1137,22 +1153,6 @@
       "onboard_time": 1746062841,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 932113,
-      "num": 932113,
-      "word": "赵露思音乐节",
-      "onboard_time": 1746097461,
-      "rank": 22,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 922099,
-      "num": 477672,
-      "word": "回忆专用小马甲道歉",
-      "onboard_time": 1746095240,
-      "rank": 48,
-      "category": "网红"
     },
     {
       "raw_hot": 922075,
@@ -1571,6 +1571,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 752013,
+      "num": 752013,
+      "word": "iG 0比21",
+      "onboard_time": 1746102023,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 751910,
       "num": 403092,
       "word": "上海月薪两万七一天要花多少钱",
@@ -1643,14 +1651,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 722384,
-      "num": 722384,
-      "word": "iG 0比21",
-      "onboard_time": 1746102023,
-      "rank": 3,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 716907,
       "num": 1114705,
       "word": "马龙谈樊振东",
@@ -1689,6 +1689,14 @@
       "onboard_time": 1745837903,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 712987,
+      "num": 474318,
+      "word": "鹿晗耳蜗钉",
+      "onboard_time": 1746100701,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 710854,
@@ -1921,14 +1929,6 @@
       "onboard_time": 1745803283,
       "rank": 5,
       "category": "民生新闻,健康医疗"
-    },
-    {
-      "raw_hot": 653094,
-      "num": 474318,
-      "word": "鹿晗耳蜗钉",
-      "onboard_time": 1746100701,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 652107,
@@ -2777,6 +2777,14 @@
       "onboard_time": 1745977581,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 482777,
+      "num": 482777,
+      "word": "半个娱乐圈都在大风杀",
+      "onboard_time": 1746101481,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 482733,
@@ -4195,14 +4203,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 308515,
-      "num": 308515,
-      "word": "半个娱乐圈都在大风杀",
-      "onboard_time": 1746101481,
-      "rank": 24,
-      "category": "电影"
-    },
-    {
       "raw_hot": 308134,
       "num": 308134,
       "word": "权志龙澳门",
@@ -4523,6 +4523,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 286664,
+      "num": 417437,
+      "word": "黄子弘凡以为撕拉片是吃的",
+      "onboard_time": 1746103341,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 286295,
       "num": 286295,
       "word": "失去美国订单后才发现到处是商机",
@@ -4641,6 +4649,14 @@
       "onboard_time": 1745924662,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 278913,
+      "num": 278913,
+      "word": "大风杀",
+      "onboard_time": 1746103761,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 277917,
@@ -5233,6 +5249,14 @@
       "onboard_time": 1745926282,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 247896,
+      "num": 247896,
+      "word": "金价大跌购买人数又上来了",
+      "onboard_time": 1746103942,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 246584,
@@ -5843,6 +5867,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 218712,
+      "num": 411196,
+      "word": "曹骏开始网上营业了",
+      "onboard_time": 1746103402,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 218348,
       "num": 218348,
       "word": "24岁演戏50岁教英语最近想开飞机",
@@ -6369,6 +6401,14 @@
       "onboard_time": 1745989885,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 204504,
+      "num": 204504,
+      "word": "刘诗诗这段梦回红葵蓝葵",
+      "onboard_time": 1746102382,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 204411,
@@ -7025,14 +7065,6 @@
       "onboard_time": 1745808681,
       "rank": 34,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 192789,
-      "num": 192789,
-      "word": "刘诗诗这段梦回红葵蓝葵",
-      "onboard_time": 1746102382,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 192313,
@@ -9307,6 +9339,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 154683,
+      "num": 154683,
+      "word": "东北姑娘带爸爸到杭州看病被震惊了",
+      "onboard_time": 1746103583,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154545,
       "num": 154545,
       "word": "原来袜子上的夹子是这样用的",
@@ -9683,20 +9723,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 148747,
-      "num": 417437,
-      "word": "黄子弘凡以为撕拉片是吃的",
-      "onboard_time": 1746103341,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 148745,
       "num": 280200,
       "word": "医疗圈出八卦的多是外科",
       "onboard_time": 1745815522,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 148648,
+      "num": 148648,
+      "word": "张博恒说坚持是抵达的答案",
+      "onboard_time": 1746103461,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 148586,
@@ -10339,14 +10379,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 140782,
-      "num": 140782,
-      "word": "张博恒说坚持是抵达的答案",
-      "onboard_time": 1746103461,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 140693,
       "num": 403238,
       "word": "曾凡博重摔判罚合理吗",
@@ -10729,6 +10761,14 @@
       "onboard_time": 1745829682,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135770,
+      "num": 135770,
+      "word": "虞书欣千禧风辣妹",
+      "onboard_time": 1746104243,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 135746,
@@ -11555,14 +11595,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 122963,
-      "num": 122963,
-      "word": "东北姑娘带爸爸到杭州看病被震惊了",
-      "onboard_time": 1746103583,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 122850,
       "num": 122850,
       "word": "月薪15000住家保姆的一天",
@@ -11796,7 +11828,7 @@
     },
     {
       "raw_hot": 120168,
-      "num": 120168,
+      "num": 223542,
       "word": "吴艳妮秀天花板级核心力量",
       "onboard_time": 1746097343,
       "rank": 46,
@@ -11913,6 +11945,14 @@
       "onboard_time": 1745940202,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118030,
+      "num": 118030,
+      "word": "EDGM对战DRG",
+      "onboard_time": 1746104061,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 118027,
@@ -12889,14 +12929,6 @@
       "onboard_time": 1745940742,
       "rank": 49,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 102967,
-      "num": 411196,
-      "word": "曹骏开始网上营业了",
-      "onboard_time": 1746103402,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 102716,
@@ -14489,6 +14521,14 @@
       "onboard_time": 1745695033,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 72226,
+      "num": 164491,
+      "word": "美军用秘密武器打击伊朗核设施",
+      "onboard_time": 1746100461,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 71888,
@@ -16115,6 +16155,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 36932,
+      "num": 207460,
+      "word": "五一假期乘高铁忘带身份证咋办",
+      "onboard_time": 1746104363,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36790,
       "num": 124863,
       "word": "山西男篮发文慰问曾凡博",
@@ -17011,6 +17059,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 22696,
+      "num": 193063,
+      "word": "女子用餐后将擦鼻涕纸扔进碗罐",
+      "onboard_time": 1746104422,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22539,
       "num": 191250,
       "word": "1分钟看泰拉",
@@ -17795,6 +17851,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 12995,
+      "num": 427481,
+      "word": "WAW2025倒计时2天",
+      "onboard_time": 1746100882,
+      "rank": 14,
+      "category": "游戏,动漫"
+    },
+    {
       "raw_hot": 12807,
       "num": 15965,
       "word": "100块在8点后的北京有多值钱",
@@ -18001,14 +18065,6 @@
       "onboard_time": 1745772078,
       "rank": 39,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 10093,
-      "num": 427481,
-      "word": "WAW2025倒计时2天",
-      "onboard_time": 1746100882,
-      "rank": 14,
-      "category": "游戏,动漫"
     },
     {
       "raw_hot": 9814,
