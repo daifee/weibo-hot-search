@@ -1,7 +1,15 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746107034695,
+  "endTime": 1746109387658,
   "band_list": [
+    {
+      "raw_hot": 2113961,
+      "num": 2113961,
+      "word": "日本再现无差别杀人",
+      "onboard_time": 1746105143,
+      "rank": 4,
+      "category": "海外新闻"
+    },
     {
       "raw_hot": 2018686,
       "num": 269183,
@@ -17,14 +25,6 @@
       "onboard_time": 1746100761,
       "rank": 0,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 1887961,
-      "num": 1887961,
-      "word": "日本再现无差别杀人",
-      "onboard_time": 1746105143,
-      "rank": 4,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1875675,
@@ -83,6 +83,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1520054,
+      "num": 1520054,
+      "word": "赵露思音乐节",
+      "onboard_time": 1746097461,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1512910,
       "num": 217952,
       "word": "南京鼓楼医院院长被砍",
@@ -123,20 +131,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1339493,
+      "num": 742413,
+      "word": "特朗普称美国孩子只能有2个玩具了",
+      "onboard_time": 1746107782,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1311959,
       "num": 1311959,
       "word": "马斯克被爆踢出局",
       "onboard_time": 1746093021,
       "rank": 1,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1296506,
-      "num": 1296506,
-      "word": "赵露思音乐节",
-      "onboard_time": 1746097461,
-      "rank": 22,
-      "category": "演出"
     },
     {
       "raw_hot": 1262732,
@@ -225,6 +233,14 @@
       "onboard_time": 1746101481,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 943420,
+      "num": 360053,
+      "word": "金价大跌购买人数又上来了",
+      "onboard_time": 1746103942,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 937836,
@@ -379,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 632953,
+      "num": 632953,
+      "word": "抗癌博主小花去世",
+      "onboard_time": 1746106762,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 631882,
       "num": 631882,
       "word": "天鹅颈",
@@ -480,6 +504,14 @@
       "word": "灯牌",
       "onboard_time": 1746080840,
       "rank": 22,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 523146,
+      "num": 523146,
+      "word": "赵露思辣妹红发",
+      "onboard_time": 1746105202,
+      "rank": 32,
       "category": "演出"
     },
     {
@@ -593,14 +625,6 @@
       "onboard_time": 1746078020,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 396219,
-      "num": 327856,
-      "word": "金价大跌购买人数又上来了",
-      "onboard_time": 1746103942,
-      "rank": 22,
-      "category": "财经"
     },
     {
       "raw_hot": 394601,
@@ -731,6 +755,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 327138,
+      "num": 327138,
+      "word": "在朋友圈最有面子的一刻",
+      "onboard_time": 1746106823,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 324257,
       "num": 329082,
       "word": "电影哪吒之魔童闹海",
@@ -795,6 +827,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 303757,
+      "num": 452431,
+      "word": "上海多方回应女子擦鼻涕纸扔进碗罐",
+      "onboard_time": 1746107003,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 303476,
       "num": 107312,
       "word": "孩子再卷也比不上作弊的",
@@ -808,14 +848,6 @@
       "word": "朱苏",
       "onboard_time": 1746087502,
       "rank": 22,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 299133,
-      "num": 299133,
-      "word": "赵露思辣妹红发",
-      "onboard_time": 1746105202,
-      "rank": 32,
       "category": "演出"
     },
     {
@@ -923,6 +955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 267084,
+      "num": 298077,
+      "word": "赵丽颖云合断层第一",
+      "onboard_time": 1746108022,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 266770,
       "num": 227943,
       "word": "卫健委亮剑调查肖董事件期待公正通报",
@@ -995,12 +1035,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 239854,
-      "num": 239854,
-      "word": "在朋友圈最有面子的一刻",
-      "onboard_time": 1746106823,
-      "rank": 27,
-      "category": "幽默"
+      "raw_hot": 236698,
+      "num": 290963,
+      "word": "你跟我说这是黄晓明",
+      "onboard_time": 1746105322,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 232998,
@@ -1033,6 +1073,14 @@
       "onboard_time": 1746067640,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 223111,
+      "num": 223111,
+      "word": "什么是医政调查",
+      "onboard_time": 1746106945,
+      "rank": 34,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 222033,
@@ -1147,6 +1195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 204984,
+      "num": 204984,
+      "word": "广厦男篮3比0辽宁男篮",
+      "onboard_time": 1746108863,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204504,
       "num": 204504,
       "word": "刘诗诗这段梦回红葵蓝葵",
@@ -1161,14 +1217,6 @@
       "onboard_time": 1746088582,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 201225,
-      "num": 201225,
-      "word": "你跟我说这是黄晓明",
-      "onboard_time": 1746105322,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 200686,
@@ -1315,6 +1363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193538,
+      "num": 193538,
+      "word": "小鬼音乐节开口秒变蹦迪现场",
+      "onboard_time": 1746108742,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 191433,
       "num": 300079,
       "word": "黄子弘凡主包怎么变脏脏包了",
@@ -1419,6 +1475,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 186650,
+      "num": 186650,
+      "word": "LoverBoy88一响白月光登场",
+      "onboard_time": 1746108982,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 186589,
       "num": 186589,
       "word": "周洁琼撕拉片",
@@ -1515,6 +1579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 178371,
+      "num": 178371,
+      "word": "第一次见开榴莲开出榴莲糖",
+      "onboard_time": 1746106882,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 178250,
       "num": 178250,
       "word": "张凌赫麻烦麻烦不就产生感情了吗",
@@ -1561,14 +1633,6 @@
       "onboard_time": 1746006141,
       "rank": 21,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 173248,
-      "num": 173248,
-      "word": "抗癌博主小花去世",
-      "onboard_time": 1746106762,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 172442,
@@ -1699,6 +1763,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 161703,
+      "num": 643887,
+      "word": "五一出游热潮席卷全国",
+      "onboard_time": 1746106342,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161475,
       "num": 161475,
       "word": "幽灵公主",
@@ -1721,14 +1793,6 @@
       "onboard_time": 1746031578,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 160774,
-      "num": 160774,
-      "word": "第一次见开榴莲开出榴莲糖",
-      "onboard_time": 1746106882,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 160732,
@@ -1859,12 +1923,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 149605,
+      "num": 149605,
+      "word": "撕拉片",
+      "onboard_time": 1746108623,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148648,
       "num": 148648,
       "word": "张博恒说坚持是抵达的答案",
       "onboard_time": 1746103461,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148320,
+      "num": 345867,
+      "word": "罗云熙直播",
+      "onboard_time": 1746107782,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 147779,
@@ -2035,6 +2115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138294,
+      "num": 425685,
+      "word": "蒋胜男提案获立法采纳",
+      "onboard_time": 1746108144,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138185,
       "num": 138185,
       "word": "五一被iPhone闹钟叫醒了",
@@ -2099,6 +2187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135649,
+      "num": 135649,
+      "word": "事件已远超肖某的私德问题",
+      "onboard_time": 1746107423,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134857,
       "num": 255144,
       "word": "肖战包场支持苍茫的天涯是我的爱",
@@ -2145,14 +2241,6 @@
       "onboard_time": 1746076401,
       "rank": 39,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 132985,
-      "num": 132985,
-      "word": "上海多方回应女子擦鼻涕纸扔进碗罐",
-      "onboard_time": 1746107003,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 132813,
@@ -2219,6 +2307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131366,
+      "num": 131366,
+      "word": "元气森林音乐节",
+      "onboard_time": 1746107724,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 131060,
       "num": 131060,
       "word": "武艺送小鬼上班",
@@ -2243,14 +2339,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 128617,
-      "num": 173221,
-      "word": "什么是医政调查",
-      "onboard_time": 1746106945,
-      "rank": 34,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 128193,
       "num": 220843,
       "word": "普通医学生培养时间能合理缩短吗",
@@ -2273,6 +2361,14 @@
       "onboard_time": 1746103162,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127723,
+      "num": 127723,
+      "word": "小兵张嘎一开始叫张故得儿",
+      "onboard_time": 1746109283,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 127353,
@@ -2443,6 +2539,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 119864,
+      "num": 365787,
+      "word": "出嫁不是剥夺女性土地权益的理由",
+      "onboard_time": 1746108144,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119068,
       "num": 119068,
       "word": "被国产剧小孩一个眼神吓住了",
@@ -2465,6 +2569,14 @@
       "onboard_time": 1746091461,
       "rank": 42,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 118014,
+      "num": 123184,
+      "word": "上海海港1比2北京国安",
+      "onboard_time": 1746108384,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 117995,
@@ -2835,6 +2947,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 95278,
+      "num": 376264,
+      "word": "易小星人生开门红太敢拍了",
+      "onboard_time": 1746108262,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 94727,
       "num": 249807,
       "word": "卫健委调查肖某相关舆情值得期待",
@@ -3147,6 +3267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 54802,
+      "num": 280461,
+      "word": "美国经济7成概率陷入衰退",
+      "onboard_time": 1746107601,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 54552,
       "num": 186939,
       "word": "官方回应提前上高速五一期间再驶离",
@@ -3251,11 +3379,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 45122,
-      "num": 643887,
-      "word": "五一出游热潮席卷全国",
+      "raw_hot": 45148,
+      "num": 1370542,
+      "word": "一人一句致敬劳动者",
       "onboard_time": 1746106342,
-      "rank": 6,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -3313,14 +3441,6 @@
       "onboard_time": 1746076640,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 41191,
-      "num": 1370542,
-      "word": "一人一句致敬劳动者",
-      "onboard_time": 1746106342,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 40021,
@@ -3658,6 +3778,9 @@
     },
     {
       "word": "#追光的你#"
+    },
+    {
+      "word": "#涉及老百姓的事情关键在实#"
     }
   ]
 }
