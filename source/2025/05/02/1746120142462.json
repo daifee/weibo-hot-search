@@ -1,0 +1,410 @@
+{
+  "runTime": 1746120142462,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 764659,
+        "num": 764659,
+        "word": "gidle改名idle",
+        "onboard_time": 1746111142,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 556491,
+        "num": 556491,
+        "word": "价值4.1亿画作展出时被小孩刮花",
+        "onboard_time": 1746110483,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 15996,
+        "num": 487948,
+        "word": "劳动者的手每一双都了不起",
+        "onboard_time": 1746104723,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 484389,
+        "num": 484389,
+        "word": "男内侍偷走日本皇室零花钱360万",
+        "onboard_time": 1746116661,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 381636,
+        "num": 381636,
+        "word": "彭昱畅这么帅了",
+        "onboard_time": 1746111023,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 406295,
+        "num": 371260,
+        "word": "日本再现无差别杀人",
+        "onboard_time": 1746105143,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 357524,
+        "num": 357524,
+        "word": "金价暴跌有人一夜亏47万",
+        "onboard_time": 1746118698,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 343545,
+        "num": 343545,
+        "word": "赵露思音乐节",
+        "onboard_time": 1746097461,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 300862,
+        "num": 300862,
+        "word": "你的指甲盖真像刘亦菲",
+        "onboard_time": 1746115882,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277558,
+        "num": 277558,
+        "word": "博物馆回应4.1亿元画作被小孩刮花",
+        "onboard_time": 1746113961,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 502749,
+        "num": 272587,
+        "word": "元气森林音乐节 迟到",
+        "onboard_time": 1746113422,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 340680,
+        "num": 269269,
+        "word": "回忆专用小马甲道歉",
+        "onboard_time": 1746095240,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 258400,
+        "num": 258400,
+        "word": "上海多方回应女子擦鼻涕纸扔进碗罐",
+        "onboard_time": 1746107003,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188120,
+        "num": 188120,
+        "word": "董某外公为外籍院士米耀荣系谣言",
+        "onboard_time": 1746100761,
+        "rank": 13,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 187703,
+        "num": 187703,
+        "word": "特朗普称美国孩子只能有2个玩具了",
+        "onboard_time": 1746107782,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 186651,
+        "num": 186651,
+        "word": "蓝莓肚脐眼里的霉菌",
+        "onboard_time": 1746085281,
+        "rank": 15,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 181698,
+        "num": 181698,
+        "word": "董某莹1年拿规培证威胁患者安全",
+        "onboard_time": 1746092421,
+        "rank": 16,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 176935,
+        "num": 176935,
+        "word": "难听",
+        "onboard_time": 1746084561,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 143989,
+        "num": 143989,
+        "word": "半个娱乐圈都在大风杀",
+        "onboard_time": 1746101481,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134651,
+        "num": 134651,
+        "word": "日本皇室生活费被盗",
+        "onboard_time": 1746115040,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 215039,
+        "num": 134211,
+        "word": "金价大跌购买人数又上来了",
+        "onboard_time": 1746103942,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 207029,
+        "num": 128915,
+        "word": "石凯 音乐节",
+        "onboard_time": 1746093981,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 166656,
+        "num": 128227,
+        "word": "石凯说为演出吃鸭血粉丝汤没放辣油",
+        "onboard_time": 1746117919,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 120690,
+        "num": 120690,
+        "word": "马斯克被爆踢出局",
+        "onboard_time": 1746093021,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 111310,
+        "num": 111310,
+        "word": "iG 0比21",
+        "onboard_time": 1746102023,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 107565,
+        "num": 107565,
+        "word": "赵露思辣妹红发",
+        "onboard_time": 1746105202,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 105734,
+        "num": 105734,
+        "word": "崔健 音乐节",
+        "onboard_time": 1746115100,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 104491,
+        "num": 104491,
+        "word": "鹿晗耳蜗钉",
+        "onboard_time": 1746100701,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86775,
+        "num": 86775,
+        "word": "抗癌博主小花去世",
+        "onboard_time": 1746106762,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85352,
+        "num": 85352,
+        "word": "国家卫健委启动最高层级医政调查",
+        "onboard_time": 1746084801,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84139,
+        "num": 84139,
+        "word": "周深一开嗓唱出踏风破浪",
+        "onboard_time": 1746096561,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83339,
+        "num": 83339,
+        "word": "女生怒减50斤后的颜值变化",
+        "onboard_time": 1746110663,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 78502,
+        "num": 78502,
+        "word": "淮水竹亭热度",
+        "onboard_time": 1746104122,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75270,
+        "num": 75270,
+        "word": "女子用餐后将擦鼻涕纸扔进碗罐",
+        "onboard_time": 1746104422,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73875,
+        "num": 73875,
+        "word": "刘宇一首歌从大海唱到陆地",
+        "onboard_time": 1746116180,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71320,
+        "num": 71320,
+        "word": "李昀锐新头像",
+        "onboard_time": 1746112163,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66864,
+        "num": 66864,
+        "word": "这4类促炎食物要少吃",
+        "onboard_time": 1746109402,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 63501,
+        "num": 63501,
+        "word": "才知道套被子可以这么轻松",
+        "onboard_time": 1746113662,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 58193,
+        "num": 58193,
+        "word": "荣昌真的接住了泼天流量",
+        "onboard_time": 1746113182,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54953,
+        "num": 54953,
+        "word": "吃蓝莓前记得给它掏耳朵",
+        "onboard_time": 1746115580,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 54637,
+        "num": 54637,
+        "word": "赵丽颖云合断层第一",
+        "onboard_time": 1746108022,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53297,
+        "num": 53297,
+        "word": "LoverBoy88一响白月光登场",
+        "onboard_time": 1746108982,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 51987,
+        "num": 51987,
+        "word": "张碧晨直播给我看饿了",
+        "onboard_time": 1746114742,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51509,
+        "num": 51509,
+        "word": "金价",
+        "onboard_time": 1746119898,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 51217,
+        "num": 51217,
+        "word": "元气森林音乐节主办方",
+        "onboard_time": 1746113003,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 48698,
+        "num": 51217,
+        "word": "杨鸣说系列赛没法抗衡广厦",
+        "onboard_time": 1746118698,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47884,
+        "num": 51214,
+        "word": "马丽老师就沈马组合发表重要讲话",
+        "onboard_time": 1746117680,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 46181,
+        "num": 51212,
+        "word": "撕拉片",
+        "onboard_time": 1746108623,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44335,
+        "num": 51211,
+        "word": "日本皇室史上首次被偷生活费",
+        "onboard_time": 1746115642,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 42058,
+        "num": 51210,
+        "word": "一人一句致敬劳动者",
+        "onboard_time": 1746106342,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光的你#"
+    }
+  }
+}

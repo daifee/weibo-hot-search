@@ -1,6 +1,6 @@
 {
   "startTime": 1746117084529,
-  "endTime": 1746117988375,
+  "endTime": 1746120142462,
   "band_list": [
     {
       "raw_hot": 1344343,
@@ -67,6 +67,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 484389,
+      "num": 484389,
+      "word": "男内侍偷走日本皇室零花钱360万",
+      "onboard_time": 1746116661,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 443242,
       "num": 200500,
       "word": "金价大跌购买人数又上来了",
@@ -91,6 +99,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 357524,
+      "num": 357524,
+      "word": "金价暴跌有人一夜亏47万",
+      "onboard_time": 1746118698,
+      "rank": 6,
+      "category": "财经"
+    },
+    {
       "raw_hot": 352223,
       "num": 352223,
       "word": "特朗普称美国孩子只能有2个玩具了",
@@ -113,6 +129,14 @@
       "onboard_time": 1746115040,
       "rank": 16,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 300862,
+      "num": 300862,
+      "word": "你的指甲盖真像刘亦菲",
+      "onboard_time": 1746115882,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 286189,
@@ -147,28 +171,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 254605,
-      "num": 254605,
-      "word": "你的指甲盖真像刘亦菲",
-      "onboard_time": 1746115882,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 248859,
       "num": 248859,
       "word": "董某莹1年拿规培证威胁患者安全",
       "onboard_time": 1746092421,
       "rank": 17,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 206956,
-      "num": 315304,
-      "word": "男内侍偷走日本皇室零花钱360万",
-      "onboard_time": 1746116661,
-      "rank": 31,
-      "category": "国际时政"
     },
     {
       "raw_hot": 206893,
@@ -193,6 +201,14 @@
       "onboard_time": 1746110663,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 166656,
+      "num": 128227,
+      "word": "石凯说为演出吃鸭血粉丝汤没放辣油",
+      "onboard_time": 1746117919,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 165954,
@@ -411,12 +427,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 65793,
-      "num": 65793,
-      "word": "石凯说为演出吃鸭血粉丝汤没放辣油",
-      "onboard_time": 1746117919,
-      "rank": 49,
-      "category": "演出"
+      "raw_hot": 51509,
+      "num": 51509,
+      "word": "金价",
+      "onboard_time": 1746119898,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 48698,
+      "num": 51217,
+      "word": "杨鸣说系列赛没法抗衡广厦",
+      "onboard_time": 1746118698,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 42058,
+      "num": 822687,
+      "word": "一人一句致敬劳动者",
+      "onboard_time": 1746106342,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39612,
@@ -427,10 +459,10 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 32040,
-      "num": 822687,
-      "word": "一人一句致敬劳动者",
-      "onboard_time": 1746106342,
+      "raw_hot": 15996,
+      "num": 487948,
+      "word": "劳动者的手每一双都了不起",
+      "onboard_time": 1746104723,
       "rank": 2,
       "category": "民生新闻"
     }
