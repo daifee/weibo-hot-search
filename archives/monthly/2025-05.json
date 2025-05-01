@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746098464540,
+  "endTime": 1746099385963,
   "band_list": [
     {
       "raw_hot": 2018686,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1875675,
-      "num": 369556,
+      "num": 372875,
       "word": "难听",
       "onboard_time": 1746084561,
       "rank": 17,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1786906,
-      "num": 374628,
+      "num": 392376,
       "word": "张雪峰说学医的天亮了",
       "onboard_time": 1746096020,
       "rank": 36,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 1062049,
-      "num": 370159,
+      "num": 376726,
       "word": "董某莹1年拿规培证威胁患者安全",
       "onboard_time": 1746092421,
       "rank": 12,
@@ -177,6 +177,14 @@
       "onboard_time": 1746054798,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 993727,
+      "num": 993727,
+      "word": "富家女因缺爱拒绝巨额家产",
+      "onboard_time": 1746095841,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 937836,
@@ -209,14 +217,6 @@
       "onboard_time": 1746083901,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 851425,
-      "num": 851425,
-      "word": "富家女因缺爱拒绝巨额家产",
-      "onboard_time": 1746095841,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 823968,
@@ -331,6 +331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 617826,
+      "num": 617826,
+      "word": "热水器坠落女孩因迷眼提前1秒停下",
+      "onboard_time": 1746096502,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 605502,
       "num": 855231,
       "word": "十三州府取关曾黎",
@@ -403,20 +411,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 535473,
+      "num": 535473,
+      "word": "赵露思音乐节",
+      "onboard_time": 1746097461,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 533978,
       "num": 256484,
       "word": "灯牌",
       "onboard_time": 1746080840,
       "rank": 22,
       "category": "演出"
-    },
-    {
-      "raw_hot": 526597,
-      "num": 526597,
-      "word": "热水器坠落女孩因迷眼提前1秒停下",
-      "onboard_time": 1746096502,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 498325,
@@ -483,6 +491,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 426449,
+      "num": 355607,
+      "word": "回忆专用小马甲道歉",
+      "onboard_time": 1746095240,
+      "rank": 48,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 420027,
+      "num": 420027,
+      "word": "闺蜜网购肉毒素相互注射中毒",
+      "onboard_time": 1746095061,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 408154,
       "num": 408154,
       "word": "樊振东晒全国先进工作者证书",
@@ -496,6 +520,14 @@
       "word": "迪丽热巴分享欲犯了",
       "onboard_time": 1746078020,
       "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 395920,
+      "num": 395920,
+      "word": "周深一开嗓唱出踏风破浪",
+      "onboard_time": 1746096561,
+      "rank": 8,
       "category": "综艺"
     },
     {
@@ -523,22 +555,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 383814,
-      "num": 355607,
-      "word": "回忆专用小马甲道歉",
-      "onboard_time": 1746095240,
-      "rank": 48,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 378977,
-      "num": 378977,
-      "word": "周深一开嗓唱出踏风破浪",
-      "onboard_time": 1746096561,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 371374,
       "num": 371374,
       "word": "左航耳返",
@@ -552,14 +568,6 @@
       "word": "麻昊宁硬刚爆红公众挺的是什么",
       "onboard_time": 1746071361,
       "rank": 22,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 367062,
-      "num": 367062,
-      "word": "闺蜜网购肉毒素相互注射中毒",
-      "onboard_time": 1746095061,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -643,14 +651,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 326532,
-      "num": 326532,
-      "word": "赵露思音乐节",
-      "onboard_time": 1746097461,
-      "rank": 22,
-      "category": "演出"
-    },
-    {
       "raw_hot": 324257,
       "num": 329082,
       "word": "电影哪吒之魔童闹海",
@@ -723,6 +723,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 298193,
+      "num": 298193,
+      "word": "协和4+4毕业生本科专业有西班牙语园林等",
+      "onboard_time": 1746094702,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 298177,
       "num": 273846,
       "word": "鞠婧祎喊刘诗诗姐姐",
@@ -753,14 +761,6 @@
       "onboard_time": 1746082761,
       "rank": 16,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 294491,
-      "num": 294491,
-      "word": "协和4+4毕业生本科专业有西班牙语园林等",
-      "onboard_time": 1746094702,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 291232,
@@ -825,6 +825,14 @@
       "onboard_time": 1746085881,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 258032,
+      "num": 258032,
+      "word": "小米SU7Ultra限制1500匹马力",
+      "onboard_time": 1746098421,
+      "rank": 40,
+      "category": "汽车"
     },
     {
       "raw_hot": 255345,
@@ -1147,6 +1155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191433,
+      "num": 300079,
+      "word": "黄子弘凡主包怎么变脏脏包了",
+      "onboard_time": 1746098961,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 191264,
       "num": 191264,
       "word": "打开朋友圈我就到了目的地",
@@ -1291,6 +1307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181823,
+      "num": 181823,
+      "word": "xc 菜",
+      "onboard_time": 1746096441,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 181260,
       "num": 181260,
       "word": "RIIZE新歌",
@@ -1321,6 +1345,14 @@
       "onboard_time": 1746097401,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 177101,
+      "num": 177101,
+      "word": "石凯音乐节状态",
+      "onboard_time": 1746098662,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 175757,
@@ -1377,6 +1409,14 @@
       "onboard_time": 1746070761,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171423,
+      "num": 171423,
+      "word": "李宇春与大家合唱和你一样",
+      "onboard_time": 1746097100,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 171257,
@@ -1449,14 +1489,6 @@
       "onboard_time": 1746068421,
       "rank": 33,
       "category": "演出"
-    },
-    {
-      "raw_hot": 161560,
-      "num": 161560,
-      "word": "xc 菜",
-      "onboard_time": 1746096441,
-      "rank": 31,
-      "category": "电竞"
     },
     {
       "raw_hot": 161475,
@@ -1579,6 +1611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 146698,
+      "num": 345397,
+      "word": "多一人观影少一人被割韭菜",
+      "onboard_time": 1746098061,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 146637,
       "num": 146637,
       "word": "朱志鑫苏新皓双人舞台只看着我",
@@ -1633,14 +1673,6 @@
       "onboard_time": 1746073221,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 144574,
-      "num": 144574,
-      "word": "李宇春与大家合唱和你一样",
-      "onboard_time": 1746097100,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 144479,
@@ -1833,14 +1865,6 @@
       "onboard_time": 1746076401,
       "rank": 39,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 133894,
-      "num": 133894,
-      "word": "小米SU7Ultra限制1500匹马力",
-      "onboard_time": 1746098421,
-      "rank": 40,
-      "category": "汽车"
     },
     {
       "raw_hot": 132813,
@@ -2083,6 +2107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120168,
+      "num": 120168,
+      "word": "吴艳妮秀天花板级核心力量",
+      "onboard_time": 1746097343,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119976,
       "num": 119976,
       "word": "五一电影",
@@ -2113,6 +2145,14 @@
       "onboard_time": 1746067940,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 117821,
+      "num": 117821,
+      "word": "不用为无忧渡大结局意难平了",
+      "onboard_time": 1746099319,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 117813,
@@ -2193,14 +2233,6 @@
       "onboard_time": 1746030322,
       "rank": 18,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 111593,
-      "num": 345397,
-      "word": "多一人观影少一人被割韭菜",
-      "onboard_time": 1746098061,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 111419,
@@ -2627,6 +2659,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 69210,
+      "num": 179190,
+      "word": "幽灵公主是阿凡达塞尔达的前辈",
+      "onboard_time": 1746099082,
+      "rank": 29,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 69161,
       "num": 147661,
       "word": "以色列火势",
@@ -2731,6 +2771,14 @@
       "category": "科学科普,民生新闻"
     },
     {
+      "raw_hot": 51769,
+      "num": 181077,
+      "word": "马丽你也没说水饺皇后是爽片啊",
+      "onboard_time": 1746099261,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 51091,
       "num": 168029,
       "word": "高圆圆一款很会穿的梦中情姐",
@@ -2788,7 +2836,7 @@
     },
     {
       "raw_hot": 45294,
-      "num": 145737,
+      "num": 180659,
       "word": "乌美矿产协议关键细节曝光",
       "onboard_time": 1746098421,
       "rank": 34,
@@ -2859,12 +2907,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38138,
+      "num": 243596,
+      "word": "特朗普回应美乌矿产协议",
+      "onboard_time": 1746099201,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 38110,
       "num": 124299,
       "word": "詹姆斯下赛季还会在湖人吗",
       "onboard_time": 1746082941,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 38071,
+      "num": 366770,
+      "word": "奥斯卡新规评委必须看完影片再投票",
+      "onboard_time": 1746098061,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 36790,
@@ -3059,14 +3123,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 14789,
-      "num": 366770,
-      "word": "奥斯卡新规评委必须看完影片再投票",
-      "onboard_time": 1746098061,
-      "rank": 14,
-      "category": "电影"
-    },
-    {
       "raw_hot": 14720,
       "num": 21305,
       "word": "无畏契约",
@@ -3081,6 +3137,22 @@
       "onboard_time": 1746071240,
       "rank": 36,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 14512,
+      "num": 298874,
+      "word": "家政阿姨如何炼成全国劳模",
+      "onboard_time": 1746098543,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14310,
+      "num": 145239,
+      "word": "如何从人口看房价",
+      "onboard_time": 1746099261,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13546,
