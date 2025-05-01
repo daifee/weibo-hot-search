@@ -1,6 +1,6 @@
 {
   "startTime": 1746117084529,
-  "endTime": 1746124440205,
+  "endTime": 1746125276141,
   "band_list": [
     {
       "raw_hot": 1344343,
@@ -475,6 +475,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 28108,
+      "num": 28108,
+      "word": "小鬼把更多时间花在音乐上",
+      "onboard_time": 1746124335,
+      "rank": 49,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 26512,
       "num": 26512,
       "word": "劳动节快乐 祝我们劳有所得",
@@ -507,20 +515,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 22531,
-      "num": 24792,
-      "word": "小鬼把更多时间花在音乐上",
-      "onboard_time": 1746124335,
-      "rank": 49,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 20574,
       "num": 487948,
       "word": "劳动者的手每一双都了不起",
       "onboard_time": 1746104723,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19938,
+      "num": 22400,
+      "word": "网友佛罗伦萨偶遇檀健次",
+      "onboard_time": 1746124516,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 18372,
+      "num": 87443,
+      "word": "五一档首日上座率最高是哪吒2",
+      "onboard_time": 1746124456,
+      "rank": 9,
+      "category": "电影"
     }
   ],
   "hotgov_list": [

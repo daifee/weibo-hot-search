@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746124440205,
+  "endTime": 1746125276141,
   "band_list": [
     {
       "raw_hot": 2306655,
@@ -3939,6 +3939,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 28108,
+      "num": 28108,
+      "word": "小鬼把更多时间花在音乐上",
+      "onboard_time": 1746124335,
+      "rank": 49,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 28048,
       "num": 66878,
       "word": "周海婴夫人马新云逝世",
@@ -4011,14 +4019,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 22531,
-      "num": 24792,
-      "word": "小鬼把更多时间花在音乐上",
-      "onboard_time": 1746124335,
-      "rank": 49,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 22474,
       "num": 22474,
       "word": "张柏芝一条plog告别四月",
@@ -4049,6 +4049,22 @@
       "onboard_time": 1746040634,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 19938,
+      "num": 22400,
+      "word": "网友佛罗伦萨偶遇檀健次",
+      "onboard_time": 1746124516,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 18372,
+      "num": 87443,
+      "word": "五一档首日上座率最高是哪吒2",
+      "onboard_time": 1746124456,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 18091,
