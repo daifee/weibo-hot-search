@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1746071369949,
+  "endTime": 1746073858265,
   "band_list": [
     {
       "raw_hot": 8960529,
@@ -923,6 +923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1017179,
+      "num": 504493,
+      "word": "肖飞称对董医生的指控多是不实消息",
+      "onboard_time": 1746069320,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1009274,
       "num": 460409,
       "word": "男子买狗不满意退款遭拒当场摔死狗",
@@ -1241,6 +1249,14 @@
       "onboard_time": 1745938103,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 807858,
+      "num": 478986,
+      "word": "蓝盈莹粉丝考上法学排名世界第6的大学",
+      "onboard_time": 1746070341,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 805753,
@@ -1603,6 +1619,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 684467,
+      "num": 241526,
+      "word": "陈赫把黄磊做菜的黄酒倒光了",
+      "onboard_time": 1746072682,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 682446,
       "num": 682446,
       "word": "协和医学院曾发文解读4+4模式",
@@ -1729,6 +1753,14 @@
       "onboard_time": 1745905641,
       "rank": 10,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 651426,
+      "num": 240860,
+      "word": "唯一一个让高铁商务座亏钱的人",
+      "onboard_time": 1746070461,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 649404,
@@ -1979,6 +2011,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 589637,
+      "num": 589637,
+      "word": "女子为蹭高速免费提前半个月出发",
+      "onboard_time": 1746072920,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 589525,
       "num": 589525,
       "word": "协和特培项目是否成了特权通道",
@@ -2115,12 +2155,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 554848,
+      "num": 237046,
+      "word": "医生眼里的生理性喜欢",
+      "onboard_time": 1746070761,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 554805,
       "num": 392282,
       "word": "蒋梦婕初恋对象是吴谨言同班同学",
       "onboard_time": 1746007161,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 553266,
+      "num": 332318,
+      "word": "金价连续跳水",
+      "onboard_time": 1746067520,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 550655,
@@ -2411,14 +2467,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 504493,
-      "num": 504493,
-      "word": "肖飞称对董医生的指控多是不实消息",
-      "onboard_time": 1746069320,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 503968,
       "num": 503968,
       "word": "欢迎神十九回家",
@@ -2441,14 +2489,6 @@
       "onboard_time": 1745674282,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 502289,
-      "num": 478986,
-      "word": "蓝盈莹粉丝考上法学排名世界第6的大学",
-      "onboard_time": 1746070341,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 500520,
@@ -2585,6 +2625,14 @@
       "onboard_time": 1745751441,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 475308,
+      "num": 407792,
+      "word": "对肖某董某要零容忍彻查到底",
+      "onboard_time": 1746068899,
+      "rank": 13,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 474547,
@@ -2867,6 +2915,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 427359,
+      "num": 427359,
+      "word": "赵丽颖秦俊杰二搭",
+      "onboard_time": 1746072620,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 426793,
       "num": 269039,
       "word": "女生来一次月经大概要花多少钱",
@@ -3099,12 +3155,12 @@
       "category": "艺人,剧集"
     },
     {
-      "raw_hot": 393223,
-      "num": 407792,
-      "word": "对肖某董某要零容忍彻查到底",
-      "onboard_time": 1746068899,
-      "rank": 13,
-      "category": "舆论监督"
+      "raw_hot": 394601,
+      "num": 480229,
+      "word": "饶毅发文称请勿错怪王辰教授",
+      "onboard_time": 1746069562,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 392118,
@@ -3113,6 +3169,14 @@
       "onboard_time": 1745837601,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 391591,
+      "num": 233027,
+      "word": "虞书欣换头像",
+      "onboard_time": 1746072981,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 388843,
@@ -3280,6 +3344,14 @@
       "word": "校长寄语毕业生文章删除董袭莹",
       "onboard_time": 1745921364,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 371349,
+      "num": 228439,
+      "word": "麻昊宁硬刚爆红公众挺的是什么",
+      "onboard_time": 1746071361,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -3553,14 +3625,6 @@
       "onboard_time": 1745900363,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 332318,
-      "num": 332318,
-      "word": "金价连续跳水",
-      "onboard_time": 1746067520,
-      "rank": 23,
-      "category": "财经"
     },
     {
       "raw_hot": 330154,
@@ -3977,14 +4041,6 @@
       "onboard_time": 1745851643,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 291911,
-      "num": 185018,
-      "word": "唯一一个让高铁商务座亏钱的人",
-      "onboard_time": 1746070461,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 291502,
@@ -5067,6 +5123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 227943,
+      "num": 227943,
+      "word": "卫健委亮剑调查肖董事件期待公正通报",
+      "onboard_time": 1746071661,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 227742,
       "num": 253609,
       "word": "一诺化身黑骑士",
@@ -5577,14 +5641,6 @@
       "onboard_time": 1745730502,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 207739,
-      "num": 182836,
-      "word": "医生眼里的生理性喜欢",
-      "onboard_time": 1746070761,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 207703,
@@ -6113,14 +6169,6 @@
       "onboard_time": 1745816844,
       "rank": 31,
       "category": "网红"
-    },
-    {
-      "raw_hot": 197222,
-      "num": 480229,
-      "word": "饶毅发文称请勿错怪王辰教授",
-      "onboard_time": 1746069562,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 197137,
@@ -7011,6 +7059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 182232,
+      "num": 182232,
+      "word": "巴分糖",
+      "onboard_time": 1746071300,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181721,
       "num": 181721,
       "word": "张雪峰这段视频的含金量",
@@ -7619,6 +7675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166358,
+      "num": 166358,
+      "word": "终于明白了中国的非遗为什么宝贝",
+      "onboard_time": 1746072920,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 166070,
       "num": 267683,
       "word": "张继科评自己最满意的一场比赛",
@@ -8139,12 +8203,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158129,
+      "num": 158129,
+      "word": "占位",
+      "onboard_time": 1746073462,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 157807,
       "num": 157807,
       "word": "第二十条等获优秀故事片",
       "onboard_time": 1745760382,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 157783,
+      "num": 157783,
+      "word": "开始推理吧3",
+      "onboard_time": 1746073521,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 157768,
@@ -8161,6 +8241,14 @@
       "onboard_time": 1745726842,
       "rank": 35,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 157581,
+      "num": 157581,
+      "word": "森林狼vs湖人",
+      "onboard_time": 1746063020,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 157569,
@@ -8529,6 +8617,14 @@
       "onboard_time": 1745852485,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 151617,
+      "num": 151617,
+      "word": "原来寄刀片是从宫崎骏开始的",
+      "onboard_time": 1746071121,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 151466,
@@ -8923,14 +9019,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 145031,
-      "num": 145031,
-      "word": "森林狼vs湖人",
-      "onboard_time": 1746063020,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 144919,
       "num": 144919,
       "word": "范丞丞以为沙溢的肌肉照是P图",
@@ -8947,12 +9035,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 144816,
+      "num": 144816,
+      "word": "80后女博士养鸡20年获评劳模",
+      "onboard_time": 1746072020,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144678,
       "num": 144678,
       "word": "Scout冰女五杀",
       "onboard_time": 1745765363,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 144618,
+      "num": 183327,
+      "word": "毛林林再演恶女反派",
+      "onboard_time": 1746073221,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 144589,
@@ -9179,14 +9283,6 @@
       "category": "剧集,作品衍生"
     },
     {
-      "raw_hot": 142242,
-      "num": 142242,
-      "word": "原来寄刀片是从宫崎骏开始的",
-      "onboard_time": 1746071121,
-      "rank": 44,
-      "category": "电影"
-    },
-    {
       "raw_hot": 141968,
       "num": 141968,
       "word": "感觉迪丽热巴回去会偷偷学",
@@ -9307,20 +9403,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 140102,
+      "num": 140102,
+      "word": "柯淳新剧好一个乖乖狗",
+      "onboard_time": 1746073581,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139929,
       "num": 139929,
       "word": "马丽感谢沈腾粉丝和沈马cp粉",
       "onboard_time": 1746026903,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 139805,
-      "num": 139805,
-      "word": "巴分糖",
-      "onboard_time": 1746071300,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 139499,
@@ -10067,6 +10163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127485,
+      "num": 184005,
+      "word": "全红婵又多了一张人生照片",
+      "onboard_time": 1746071181,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127393,
       "num": 127393,
       "word": "崔胜澈好帅",
@@ -10091,12 +10195,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126844,
+      "num": 126844,
+      "word": "抢不到演唱会门票可以找孙俪吗",
+      "onboard_time": 1746071841,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126668,
       "num": 126668,
       "word": "王源5.1还有惊喜",
       "onboard_time": 1745936484,
       "rank": 43,
       "category": "演出,音乐"
+    },
+    {
+      "raw_hot": 126600,
+      "num": 126600,
+      "word": "画江湖之不良人",
+      "onboard_time": 1746072620,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 126584,
@@ -10233,6 +10353,14 @@
       "onboard_time": 1745902103,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123233,
+      "num": 123233,
+      "word": "饶毅称王辰勇于改革是真英雄",
+      "onboard_time": 1746073401,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123232,
@@ -13715,14 +13843,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 49979,
-      "num": 184005,
-      "word": "全红婵又多了一张人生照片",
-      "onboard_time": 1746071181,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 49512,
       "num": 360034,
       "word": "BLG战队近期表现不佳有什么原因",
@@ -14025,6 +14145,14 @@
       "onboard_time": 1745826143,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 43004,
+      "num": 143814,
+      "word": "本地人私藏美食能有多靠谱",
+      "onboard_time": 1746072082,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42955,
@@ -15496,6 +15624,14 @@
       "word": "菜摊上一半卖现实一半卖梦想",
       "onboard_time": 1745850082,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18091,
+      "num": 231868,
+      "word": "五一假期如何避堵",
+      "onboard_time": 1746072861,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
