@@ -1,0 +1,410 @@
+{
+  "runTime": 1746106364556,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1681870,
+        "num": 1681870,
+        "word": "董某外公为外籍院士米耀荣系谣言",
+        "onboard_time": 1746100761,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1165968,
+        "num": 1165968,
+        "word": "赵露思音乐节",
+        "onboard_time": 1746097461,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 5783,
+        "num": 936206,
+        "word": "一人一句致敬劳动者",
+        "onboard_time": 1746106342,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 868591,
+        "num": 868591,
+        "word": "半个娱乐圈都在大风杀",
+        "onboard_time": 1746101481,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 849787,
+        "num": 849787,
+        "word": "日本再现无差别杀人",
+        "onboard_time": 1746105143,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 779946,
+        "num": 779946,
+        "word": "iG 0比21",
+        "onboard_time": 1746102023,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 37229,
+        "num": 643887,
+        "word": "五一出游热潮席卷全国",
+        "onboard_time": 1746106342,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46102,
+        "num": 617809,
+        "word": "一组数据看全国消费新变化",
+        "onboard_time": 1746105143,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 51540,
+        "num": 617532,
+        "word": "劳动者的手每一双都了不起",
+        "onboard_time": 1746104723,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 617368,
+        "num": 617368,
+        "word": "蓝莓肚脐眼里的霉菌",
+        "onboard_time": 1746085281,
+        "rank": 9,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 1075545,
+        "num": 590346,
+        "word": "回忆专用小马甲道歉",
+        "onboard_time": 1746095240,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 768428,
+        "num": 580731,
+        "word": "张雪峰说学医的天亮了",
+        "onboard_time": 1746096020,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 516597,
+        "num": 516597,
+        "word": "马斯克被爆踢出局",
+        "onboard_time": 1746093021,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 543142,
+        "num": 515816,
+        "word": "鹿晗耳蜗钉",
+        "onboard_time": 1746100701,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 904829,
+        "num": 506150,
+        "word": "女子用餐后将擦鼻涕纸扔进碗罐",
+        "onboard_time": 1746104422,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29161,
+        "num": 493650,
+        "word": "专家谈五一假期政府食堂对外开放",
+        "onboard_time": 1746106043,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 386963,
+        "num": 489899,
+        "word": "淮水竹亭热度",
+        "onboard_time": 1746104122,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 375571,
+        "num": 475660,
+        "word": "大风杀",
+        "onboard_time": 1746103761,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 473204,
+        "num": 473204,
+        "word": "卫健委调查肖某董某",
+        "onboard_time": 1746059841,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209297,
+        "num": 424460,
+        "word": "40岁陶昕然素颜状态",
+        "onboard_time": 1746105803,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 407009,
+        "num": 407009,
+        "word": "董某莹1年拿规培证威胁患者安全",
+        "onboard_time": 1746092421,
+        "rank": 20,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 387446,
+        "num": 387446,
+        "word": "难听",
+        "onboard_time": 1746084561,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 328988,
+        "num": 328988,
+        "word": "不用为无忧渡大结局意难平了",
+        "onboard_time": 1746099319,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 488295,
+        "num": 328333,
+        "word": "石凯 音乐节",
+        "onboard_time": 1746093981,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 347244,
+        "num": 327856,
+        "word": "金价大跌购买人数又上来了",
+        "onboard_time": 1746103942,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 326129,
+        "num": 326129,
+        "word": "富家女因缺爱拒绝巨额家产",
+        "onboard_time": 1746095841,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243360,
+        "num": 323165,
+        "word": "周深一开嗓唱出踏风破浪",
+        "onboard_time": 1746096561,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151595,
+        "num": 315561,
+        "word": "人生开门红",
+        "onboard_time": 1746105743,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 105955,
+        "num": 311721,
+        "word": "五一假期乘高铁忘带身份证咋办",
+        "onboard_time": 1746104363,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91609,
+        "num": 307342,
+        "word": "日本救援队搜救3个月前落坑老人",
+        "onboard_time": 1746104842,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 302713,
+        "num": 302713,
+        "word": "热水器坠落女孩因迷眼提前1秒停下",
+        "onboard_time": 1746096502,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 290943,
+        "num": 290943,
+        "word": "国家卫健委启动最高层级医政调查",
+        "onboard_time": 1746084801,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199178,
+        "num": 199178,
+        "word": "赵露思辣妹红发",
+        "onboard_time": 1746105202,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 185323,
+        "num": 185323,
+        "word": "协和4+4毕业生本科专业有西班牙语园林等",
+        "onboard_time": 1746094702,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181292,
+        "num": 181292,
+        "word": "海外网红疯狂整容导致塑料脸",
+        "onboard_time": 1746098061,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 50541,
+        "num": 176104,
+        "word": "山航致歉航班三次备降延误超12小时",
+        "onboard_time": 1746106283,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171951,
+        "num": 171951,
+        "word": "薛之谦音乐节",
+        "onboard_time": 1746105024,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 173001,
+        "num": 169394,
+        "word": "你跟我说这是黄晓明",
+        "onboard_time": 1746105322,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165900,
+        "num": 165900,
+        "word": "特朗普送别马斯克",
+        "onboard_time": 1746100580,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 161758,
+        "num": 161758,
+        "word": "黄子弘凡以为撕拉片是吃的",
+        "onboard_time": 1746103341,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157700,
+        "num": 157700,
+        "word": "侯佩岑能不能开个情商班",
+        "onboard_time": 1746102861,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155227,
+        "num": 155227,
+        "word": "曹骏开始网上营业了",
+        "onboard_time": 1746103402,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151140,
+        "num": 151140,
+        "word": "全神班",
+        "onboard_time": 1746105982,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 147779,
+        "num": 147779,
+        "word": "虞书欣千禧风辣妹",
+        "onboard_time": 1746104243,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143870,
+        "num": 143870,
+        "word": "东北姑娘带爸爸到杭州看病被震惊了",
+        "onboard_time": 1746103583,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138156,
+        "num": 138156,
+        "word": "小米SU7Ultra限制1500匹马力",
+        "onboard_time": 1746098421,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 137877,
+        "num": 137877,
+        "word": "三千游客挤瘫荣昌公务员食堂",
+        "onboard_time": 1746092841,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127944,
+        "num": 136127,
+        "word": "CBA",
+        "onboard_time": 1746103162,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135565,
+        "num": 135565,
+        "word": "时代少年团全员加冠造型",
+        "onboard_time": 1746103461,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 133562,
+        "num": 133562,
+        "word": "白鹿一拖三",
+        "onboard_time": 1746083901,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光的你#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746104571627,
+  "endTime": 1746106364556,
   "band_list": [
     {
       "raw_hot": 2018686,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1786906,
-      "num": 476737,
+      "num": 580731,
       "word": "张雪峰说学医的天亮了",
       "onboard_time": 1746096020,
       "rank": 36,
@@ -147,12 +147,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1165968,
+      "num": 1165968,
+      "word": "赵露思音乐节",
+      "onboard_time": 1746097461,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1152608,
       "num": 1184417,
       "word": "陈赫把黄磊做菜的黄酒倒光了",
       "onboard_time": 1746072682,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1075545,
+      "num": 590346,
+      "word": "回忆专用小马甲道歉",
+      "onboard_time": 1746095240,
+      "rank": 48,
+      "category": "网红"
     },
     {
       "raw_hot": 1070406,
@@ -179,14 +195,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1039638,
-      "num": 477672,
-      "word": "回忆专用小马甲道歉",
-      "onboard_time": 1746095240,
-      "rank": 48,
-      "category": "网红"
-    },
-    {
       "raw_hot": 1007173,
       "num": 479691,
       "word": "张新成疑似回应分手",
@@ -201,14 +209,6 @@
       "onboard_time": 1746095841,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 980699,
-      "num": 980699,
-      "word": "赵露思音乐节",
-      "onboard_time": 1746097461,
-      "rank": 22,
-      "category": "演出"
     },
     {
       "raw_hot": 937836,
@@ -227,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 904829,
+      "num": 506150,
+      "word": "女子用餐后将擦鼻涕纸扔进碗罐",
+      "onboard_time": 1746104422,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 886067,
       "num": 966840,
       "word": "男性注射避孕药一次至少管2年",
@@ -235,12 +243,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 868591,
+      "num": 868591,
+      "word": "半个娱乐圈都在大风杀",
+      "onboard_time": 1746101481,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 855460,
       "num": 651964,
       "word": "白鹿一拖三",
       "onboard_time": 1746083901,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 849787,
+      "num": 849787,
+      "word": "日本再现无差别杀人",
+      "onboard_time": 1746105143,
+      "rank": 4,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 823968,
@@ -259,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 779946,
+      "num": 779946,
+      "word": "iG 0比21",
+      "onboard_time": 1746102023,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 757736,
       "num": 270104,
       "word": "98年女孩做陪诊师曾月入10万",
@@ -273,14 +305,6 @@
       "onboard_time": 1746010640,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 752013,
-      "num": 752013,
-      "word": "iG 0比21",
-      "onboard_time": 1746102023,
-      "rank": 3,
-      "category": "电竞"
     },
     {
       "raw_hot": 716707,
@@ -300,7 +324,7 @@
     },
     {
       "raw_hot": 712987,
-      "num": 474318,
+      "num": 515816,
       "word": "鹿晗耳蜗钉",
       "onboard_time": 1746100701,
       "rank": 12,
@@ -483,14 +507,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 482777,
-      "num": 482777,
-      "word": "半个娱乐圈都在大风杀",
-      "onboard_time": 1746101481,
-      "rank": 24,
-      "category": "电影"
-    },
-    {
       "raw_hot": 475308,
       "num": 407792,
       "word": "对肖某董某要零容忍彻查到底",
@@ -595,6 +611,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 386963,
+      "num": 489899,
+      "word": "淮水竹亭热度",
+      "onboard_time": 1746104122,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 375571,
+      "num": 475660,
+      "word": "大风杀",
+      "onboard_time": 1746103761,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 371374,
       "num": 371374,
       "word": "左航耳返",
@@ -641,6 +673,14 @@
       "onboard_time": 1746064280,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 347244,
+      "num": 327856,
+      "word": "金价大跌购买人数又上来了",
+      "onboard_time": 1746103942,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 341176,
@@ -827,14 +867,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 278913,
-      "num": 278913,
-      "word": "大风杀",
-      "onboard_time": 1746103761,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 276748,
       "num": 237842,
       "word": "哪吒2登顶4月票房冠军",
@@ -921,14 +953,6 @@
       "onboard_time": 1746013941,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 247896,
-      "num": 247896,
-      "word": "金价大跌购买人数又上来了",
-      "onboard_time": 1746103942,
-      "rank": 22,
-      "category": "财经"
     },
     {
       "raw_hot": 246317,
@@ -1067,6 +1091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209297,
+      "num": 424460,
+      "word": "40岁陶昕然素颜状态",
+      "onboard_time": 1746105803,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209019,
       "num": 301159,
       "word": "等你的回答",
@@ -1147,6 +1179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 199178,
+      "num": 199178,
+      "word": "赵露思辣妹红发",
+      "onboard_time": 1746105202,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 198296,
       "num": 198296,
       "word": "这届年轻人五一出行不再大包小包",
@@ -1177,14 +1217,6 @@
       "onboard_time": 1746077480,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 197563,
-      "num": 197563,
-      "word": "淮水竹亭热度",
-      "onboard_time": 1746104122,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 197323,
@@ -1499,6 +1531,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 173001,
+      "num": 169394,
+      "word": "你跟我说这是黄晓明",
+      "onboard_time": 1746105322,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172442,
       "num": 172442,
       "word": "种地吧五一插秧日plive",
@@ -1512,6 +1552,14 @@
       "word": "太湖湾音乐节",
       "onboard_time": 1746091521,
       "rank": 45,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 171951,
+      "num": 171951,
+      "word": "薛之谦音乐节",
+      "onboard_time": 1746105024,
+      "rank": 36,
       "category": "演出"
     },
     {
@@ -1675,6 +1723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157700,
+      "num": 157700,
+      "word": "侯佩岑能不能开个情商班",
+      "onboard_time": 1746102861,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156803,
       "num": 139579,
       "word": "青簪行",
@@ -1689,14 +1745,6 @@
       "onboard_time": 1746103583,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 152689,
-      "num": 152689,
-      "word": "侯佩岑能不能开个情商班",
-      "onboard_time": 1746102861,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 152444,
@@ -1731,12 +1779,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151595,
+      "num": 315561,
+      "word": "人生开门红",
+      "onboard_time": 1746105743,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 151267,
       "num": 151267,
       "word": "玲花是曾毅特别鸣谢的第一位",
       "onboard_time": 1746077600,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 151140,
+      "num": 151140,
+      "word": "全神班",
+      "onboard_time": 1746105982,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 150053,
@@ -1753,6 +1817,14 @@
       "onboard_time": 1746103461,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147779,
+      "num": 147779,
+      "word": "虞书欣千禧风辣妹",
+      "onboard_time": 1746104243,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 147545,
@@ -1971,14 +2043,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 135770,
-      "num": 135770,
-      "word": "虞书欣千禧风辣妹",
-      "onboard_time": 1746104243,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 135746,
       "num": 184005,
       "word": "全红婵又多了一张人生照片",
@@ -2131,6 +2195,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 127944,
+      "num": 136127,
+      "word": "CBA",
+      "onboard_time": 1746103162,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127353,
       "num": 127353,
       "word": "编剧爆料请到孙俪出演的诀窍",
@@ -2193,14 +2265,6 @@
       "onboard_time": 1746015442,
       "rank": 43,
       "category": "教育,民生新闻"
-    },
-    {
-      "raw_hot": 123886,
-      "num": 123886,
-      "word": "CBA",
-      "onboard_time": 1746103162,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 123644,
@@ -2587,6 +2651,14 @@
       "category": "旅游,民生新闻"
     },
     {
+      "raw_hot": 105955,
+      "num": 311721,
+      "word": "五一假期乘高铁忘带身份证咋办",
+      "onboard_time": 1746104363,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105637,
       "num": 114662,
       "word": "这一周期最爆古偶是永夜星河九重紫",
@@ -2705,6 +2777,14 @@
       "onboard_time": 1746080301,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 91609,
+      "num": 307342,
+      "word": "日本救援队搜救3个月前落坑老人",
+      "onboard_time": 1746104842,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 90281,
@@ -2995,6 +3075,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 51540,
+      "num": 617532,
+      "word": "劳动者的手每一双都了不起",
+      "onboard_time": 1746104723,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51091,
       "num": 168029,
       "word": "高圆圆一款很会穿的梦中情姐",
@@ -3009,6 +3097,14 @@
       "onboard_time": 1746074120,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 50541,
+      "num": 176104,
+      "word": "山航致歉航班三次备降延误超12小时",
+      "onboard_time": 1746106283,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50293,
@@ -3049,6 +3145,14 @@
       "onboard_time": 1746056058,
       "rank": 18,
       "category": "国际时政,财经"
+    },
+    {
+      "raw_hot": 46102,
+      "num": 617809,
+      "word": "一组数据看全国消费新变化",
+      "onboard_time": 1746105143,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 45294,
@@ -3147,11 +3251,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 36932,
-      "num": 207460,
-      "word": "五一假期乘高铁忘带身份证咋办",
-      "onboard_time": 1746104363,
-      "rank": 27,
+      "raw_hot": 37229,
+      "num": 643887,
+      "word": "五一出游热潮席卷全国",
+      "onboard_time": 1746106342,
+      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -3219,6 +3323,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 29161,
+      "num": 493650,
+      "word": "专家谈五一假期政府食堂对外开放",
+      "onboard_time": 1746106043,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28048,
       "num": 66878,
       "word": "周海婴夫人马新云逝世",
@@ -3265,14 +3377,6 @@
       "onboard_time": 1746096080,
       "rank": 28,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 22696,
-      "num": 193063,
-      "word": "女子用餐后将擦鼻涕纸扔进碗罐",
-      "onboard_time": 1746104422,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 22474,
@@ -3443,6 +3547,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 5783,
+      "num": 936206,
+      "word": "一人一句致敬劳动者",
+      "onboard_time": 1746106342,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 3125,
       "num": 98893,
       "word": "阳光明媚护士和癌症晚期爷爷",
@@ -3463,6 +3575,9 @@
     },
     {
       "word": "#发展的根本是造福人民#"
+    },
+    {
+      "word": "#追光的你#"
     }
   ]
 }
