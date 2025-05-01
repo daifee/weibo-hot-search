@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746065055428,
+  "endTime": 1746066440599,
   "band_list": [
     {
       "raw_hot": 1639087,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1007173,
-      "num": 292501,
+      "num": 392774,
       "word": "张新成疑似回应分手",
       "onboard_time": 1746054798,
       "rank": 11,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 936891,
-      "num": 290875,
+      "num": 400478,
       "word": "机场偶遇鹿晗飞日本",
       "onboard_time": 1746062841,
       "rank": 11,
@@ -99,6 +99,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 662051,
+      "num": 662051,
+      "word": "杨紫回应无缝进组",
+      "onboard_time": 1746064581,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 646784,
       "num": 646784,
       "word": "12306回应网友质疑五一前大量放票",
@@ -132,11 +140,27 @@
     },
     {
       "raw_hot": 576188,
-      "num": 426305,
+      "num": 504372,
       "word": "国家卫健委对肖某引发舆情问题开展调查",
       "onboard_time": 1746060381,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 537918,
+      "num": 366335,
+      "word": "汪峰曾发文承诺帮毕夏抚养孩子",
+      "onboard_time": 1746064520,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 527274,
+      "num": 504873,
+      "word": "刘诗诗仪态",
+      "onboard_time": 1746064641,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 446900,
@@ -155,12 +179,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 442861,
+      "num": 430738,
+      "word": "董小姐是个例还是群像",
+      "onboard_time": 1746064760,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 364600,
-      "num": 278193,
+      "num": 284117,
       "word": "张新成 李兰迪",
       "onboard_time": 1746056598,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 363264,
+      "num": 363264,
+      "word": "五一劳动节",
+      "onboard_time": 1746055458,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 360765,
@@ -203,8 +243,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 305862,
-      "num": 274355,
+      "raw_hot": 308558,
+      "num": 308558,
       "word": "山西男篮拉拉队被处严重警告",
       "onboard_time": 1746063382,
       "rank": 15,
@@ -259,22 +299,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 271514,
-      "num": 271514,
-      "word": "五一劳动节",
-      "onboard_time": 1746055458,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 256618,
-      "num": 256618,
-      "word": "汪峰曾发文承诺帮毕夏抚养孩子",
-      "onboard_time": 1746064520,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 255345,
       "num": 255345,
       "word": "2025多哈世乒赛",
@@ -307,6 +331,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 244825,
+      "num": 244825,
+      "word": "饶毅辟谣曾说协和乌烟瘴气",
+      "onboard_time": 1746064822,
+      "rank": 33,
+      "category": "体育,民生新闻"
+    },
+    {
       "raw_hot": 229727,
       "num": 229727,
       "word": "南京夫子庙回应有人强制卖花",
@@ -331,20 +363,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 218812,
-      "num": 280324,
-      "word": "杨紫回应无缝进组",
-      "onboard_time": 1746064581,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 214393,
-      "num": 214393,
-      "word": "刘诗诗仪态",
-      "onboard_time": 1746064641,
-      "rank": 22,
-      "category": "剧集"
+      "raw_hot": 213450,
+      "num": 213450,
+      "word": "肖某称无法接受被指影响医疗安全",
+      "onboard_time": 1746064160,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 212582,
@@ -353,6 +377,14 @@
       "onboard_time": 1746054979,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203423,
+      "num": 203423,
+      "word": "赵丽颖短发杀青照",
+      "onboard_time": 1746065659,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 200089,
@@ -377,6 +409,14 @@
       "onboard_time": 1746024803,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 194196,
+      "num": 194196,
+      "word": "长风起开机",
+      "onboard_time": 1746065659,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 193568,
@@ -443,11 +483,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 169912,
-      "num": 169912,
-      "word": "董小姐是个例还是群像",
-      "onboard_time": 1746064760,
-      "rank": 36,
+      "raw_hot": 171257,
+      "num": 171257,
+      "word": "明日方舟",
+      "onboard_time": 1746065781,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 170114,
+      "num": 170114,
+      "word": "饶毅称4加4适合协和且可推广",
+      "onboard_time": 1746065720,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -473,14 +521,6 @@
       "onboard_time": 1746031578,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 158040,
-      "num": 158040,
-      "word": "肖某称无法接受被指影响医疗安全",
-      "onboard_time": 1746064160,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 156803,
@@ -539,6 +579,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 134850,
+      "num": 134850,
+      "word": "这才是我想要的五一出游搭子",
+      "onboard_time": 1746062720,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 134356,
       "num": 120443,
       "word": "巴萨3比3国米",
@@ -553,6 +601,14 @@
       "onboard_time": 1746026903,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 128193,
+      "num": 220843,
+      "word": "普通医学生培养时间能合理缩短吗",
+      "onboard_time": 1746064222,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128052,
@@ -611,12 +667,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 118189,
-      "num": 220843,
-      "word": "普通医学生培养时间能合理缩短吗",
-      "onboard_time": 1746064222,
-      "rank": 20,
-      "category": "民生新闻"
+      "raw_hot": 116736,
+      "num": 116736,
+      "word": "致敬每一位劳动者",
+      "onboard_time": 1746057379,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 115736,
@@ -659,12 +715,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 109808,
+      "num": 109808,
+      "word": "古画中发现了干饭人",
+      "onboard_time": 1746065240,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109589,
       "num": 109589,
       "word": "王曼昱张本美和再次同区",
       "onboard_time": 1746028762,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109187,
+      "num": 109187,
+      "word": "杨紫和牡丹合影",
+      "onboard_time": 1746066380,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 107895,
@@ -868,7 +940,7 @@
     },
     {
       "raw_hot": 63628,
-      "num": 846326,
+      "num": 908135,
       "word": "五一出行天气提醒",
       "onboard_time": 1746023364,
       "rank": 2,
@@ -889,14 +961,6 @@
       "onboard_time": 1746035896,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 54363,
-      "num": 170094,
-      "word": "饶毅辟谣曾说协和乌烟瘴气",
-      "onboard_time": 1746064822,
-      "rank": 33,
-      "category": "体育,民生新闻"
     },
     {
       "raw_hot": 49973,
@@ -1072,6 +1136,14 @@
       "word": "经济学家预测美国经济衰退概率90%",
       "onboard_time": 1746054917,
       "rank": 29,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 7401,
+      "num": 249960,
+      "word": "西班牙和葡萄牙为何同时停电",
+      "onboard_time": 1746066080,
+      "rank": 19,
       "category": "国际时政"
     },
     {
