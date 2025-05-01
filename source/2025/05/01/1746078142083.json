@@ -1,0 +1,410 @@
+{
+  "runTime": 1746078142083,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1231880,
+        "num": 1231880,
+        "word": "泰山山顶公厕挤满避寒的人",
+        "onboard_time": 1746075741,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1013310,
+        "num": 1013310,
+        "word": "陈赫把黄磊做菜的黄酒倒光了",
+        "onboard_time": 1746072682,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26227,
+        "num": 770059,
+        "word": "我的追梦关键词",
+        "onboard_time": 1746075201,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 662276,
+        "num": 662276,
+        "word": "卫健委调查肖某董某",
+        "onboard_time": 1746059841,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 477260,
+        "num": 477260,
+        "word": "胡杏儿抽到黄宗泽的问题",
+        "onboard_time": 1746061400,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 414587,
+        "num": 414587,
+        "word": "森林狼淘汰湖人",
+        "onboard_time": 1746075502,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 477140,
+        "num": 411294,
+        "word": "柯淳新剧好一个乖乖狗",
+        "onboard_time": 1746073581,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 371014,
+        "num": 371014,
+        "word": "国家卫健委对肖某引发舆情问题开展调查",
+        "onboard_time": 1746060381,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 342876,
+        "num": 342876,
+        "word": "赵丽颖秦俊杰二搭",
+        "onboard_time": 1746072620,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179893,
+        "num": 332298,
+        "word": "星巴克否认在搞饥饿营销",
+        "onboard_time": 1746064280,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 638660,
+        "num": 326201,
+        "word": "医生眼里的生理性喜欢",
+        "onboard_time": 1746070761,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 637694,
+        "num": 310669,
+        "word": "虞书欣换头像",
+        "onboard_time": 1746072981,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 588678,
+        "num": 303070,
+        "word": "女子为蹭高速免费提前半个月出发",
+        "onboard_time": 1746072920,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 483273,
+        "num": 288811,
+        "word": "张新成疑似回应分手",
+        "onboard_time": 1746054798,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285104,
+        "num": 285104,
+        "word": "蓝盈莹粉丝考上法学排名世界第6的大学",
+        "onboard_time": 1746070341,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267966,
+        "num": 267966,
+        "word": "詹姆斯老了",
+        "onboard_time": 1746076701,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 257526,
+        "num": 257526,
+        "word": "杨紫回应无缝进组",
+        "onboard_time": 1746064581,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245936,
+        "num": 245936,
+        "word": "五一劳动节",
+        "onboard_time": 1746055458,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244939,
+        "num": 244939,
+        "word": "机场偶遇鹿晗飞日本",
+        "onboard_time": 1746062841,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130732,
+        "num": 222399,
+        "word": "乌美矿产协议里写资源均归乌方",
+        "onboard_time": 1746076521,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 881426,
+        "num": 221770,
+        "word": "肖飞称对董医生的指控多是不实消息",
+        "onboard_time": 1746069320,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 469113,
+        "num": 221002,
+        "word": "金价连续跳水",
+        "onboard_time": 1746067520,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 219813,
+        "num": 219813,
+        "word": "唯一一个让高铁商务座亏钱的人",
+        "onboard_time": 1746070461,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 214661,
+        "num": 214661,
+        "word": "丁禹兮 范思哲",
+        "onboard_time": 1746062361,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200078,
+        "num": 200078,
+        "word": "迪丽热巴分享欲犯了",
+        "onboard_time": 1746078020,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198078,
+        "num": 198078,
+        "word": "登陆少年演唱会",
+        "onboard_time": 1746077119,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 197775,
+        "num": 197775,
+        "word": "迪丽热巴的五月行程图",
+        "onboard_time": 1746077480,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189159,
+        "num": 189159,
+        "word": "杜华说百万年薪应该带脑子上班",
+        "onboard_time": 1746075502,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173350,
+        "num": 173350,
+        "word": "男性注射避孕药一次至少管2年",
+        "onboard_time": 1746032899,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 41149,
+        "num": 173282,
+        "word": "美乌矿产协议被爆最后关头遇阻",
+        "onboard_time": 1746076640,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 535438,
+        "num": 171481,
+        "word": "董袭莹论文被指与北科专利多处雷同",
+        "onboard_time": 1746068300,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 410284,
+        "num": 169997,
+        "word": "对肖某董某要零容忍彻查到底",
+        "onboard_time": 1746068899,
+        "rank": 31,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 182249,
+        "num": 168014,
+        "word": "赵一博送刘诗诗淮竹竹笛",
+        "onboard_time": 1746077600,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167257,
+        "num": 167257,
+        "word": "汪峰曾发文承诺帮毕夏抚养孩子",
+        "onboard_time": 1746064520,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166830,
+        "num": 166830,
+        "word": "黄奕是有高人指点吗",
+        "onboard_time": 1746075141,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 164003,
+        "num": 164003,
+        "word": "卫健委亮剑调查肖董事件期待公正通报",
+        "onboard_time": 1746071661,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151267,
+        "num": 151267,
+        "word": "玲花是曾毅特别鸣谢的第一位",
+        "onboard_time": 1746077600,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 140924,
+        "num": 140924,
+        "word": "杨超越急得踹了徐志胜一脚",
+        "onboard_time": 1746077720,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134157,
+        "num": 134157,
+        "word": "黄仁勋称华为全球最强科技公司之一",
+        "onboard_time": 1746076220,
+        "rank": 38,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 130228,
+        "num": 130228,
+        "word": "登陆少年演唱会内场",
+        "onboard_time": 1746076701,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127353,
+        "num": 127353,
+        "word": "编剧爆料请到孙俪出演的诀窍",
+        "onboard_time": 1746077360,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122794,
+        "num": 122794,
+        "word": "张新成 李兰迪",
+        "onboard_time": 1746056598,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119370,
+        "num": 119370,
+        "word": "李现新剧演复仇男主",
+        "onboard_time": 1746076581,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117115,
+        "num": 117115,
+        "word": "毛林林再演恶女反派",
+        "onboard_time": 1746073221,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110735,
+        "num": 110735,
+        "word": "巴分糖",
+        "onboard_time": 1746071300,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110146,
+        "num": 110146,
+        "word": "租衣服旅游",
+        "onboard_time": 1746075321,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109946,
+        "num": 109946,
+        "word": "女子充值5万元美发卡遭恶意闭店",
+        "onboard_time": 1746074900,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108921,
+        "num": 108921,
+        "word": "林一换头像了",
+        "onboard_time": 1746077961,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108797,
+        "num": 108797,
+        "word": "100条承诺看特朗普就职百日成绩",
+        "onboard_time": 1746075741,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 108091,
+        "num": 108091,
+        "word": "大家减肥都是越减越癫的",
+        "onboard_time": 1746077782,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展的根本是造福人民#"
+    }
+  }
+}
