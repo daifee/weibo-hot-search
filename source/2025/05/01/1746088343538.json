@@ -1,0 +1,410 @@
+{
+  "runTime": 1746088343538,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1535641,
+        "num": 1535641,
+        "word": "蓝莓肚脐眼里的霉菌",
+        "onboard_time": 1746085281,
+        "rank": 0,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 605972,
+        "num": 605972,
+        "word": "卫健委调查肖某董某",
+        "onboard_time": 1746059841,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26559,
+        "num": 540067,
+        "word": "我的追梦关键词",
+        "onboard_time": 1746075201,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 855460,
+        "num": 523961,
+        "word": "白鹿一拖三",
+        "onboard_time": 1746083901,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 498994,
+        "num": 498994,
+        "word": "泰山山顶公厕挤满避寒的人",
+        "onboard_time": 1746075741,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 392506,
+        "num": 392506,
+        "word": "朱志鑫簪花",
+        "onboard_time": 1746086662,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 371374,
+        "num": 371374,
+        "word": "左航耳返",
+        "onboard_time": 1746085881,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 361846,
+        "num": 361846,
+        "word": "陈赫把黄磊做菜的黄酒倒光了",
+        "onboard_time": 1746072682,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330946,
+        "num": 330946,
+        "word": "韩国代总统辞职",
+        "onboard_time": 1746084201,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 261673,
+        "num": 325044,
+        "word": "河南一生物公司发生爆炸1死3人伤",
+        "onboard_time": 1746085881,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1875675,
+        "num": 321681,
+        "word": "难听",
+        "onboard_time": 1746084561,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1262732,
+        "num": 312572,
+        "word": "国家卫健委启动最高层级医政调查",
+        "onboard_time": 1746084801,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 540830,
+        "num": 307552,
+        "word": "虞书欣换头像",
+        "onboard_time": 1746072981,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 428799,
+        "num": 298578,
+        "word": "白鹿曾舜晞梁永棋陈鑫海一起去玩了",
+        "onboard_time": 1746081980,
+        "rank": 13,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 298146,
+        "num": 298146,
+        "word": "陈奕迅20岁女儿身高",
+        "onboard_time": 1746083722,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293794,
+        "num": 293794,
+        "word": "女子为蹭高速免费提前半个月出发",
+        "onboard_time": 1746072920,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273846,
+        "num": 273846,
+        "word": "鞠婧祎喊刘诗诗姐姐",
+        "onboard_time": 1746085161,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 270104,
+        "num": 270104,
+        "word": "98年女孩做陪诊师曾月入10万",
+        "onboard_time": 1746087800,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77161,
+        "num": 217679,
+        "word": "白客演的警察好有安全感",
+        "onboard_time": 1746087621,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 17546,
+        "num": 217232,
+        "word": "重庆狼队目前主要的问题在哪里",
+        "onboard_time": 1746087681,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 217081,
+        "num": 217081,
+        "word": "苏新皓solo",
+        "onboard_time": 1746084801,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 205825,
+        "num": 205825,
+        "word": "星巴克否认在搞饥饿营销",
+        "onboard_time": 1746064280,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200824,
+        "num": 200824,
+        "word": "朱苏",
+        "onboard_time": 1746087502,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 85661,
+        "num": 193903,
+        "word": "张云龙又搞突袭直播",
+        "onboard_time": 1746087800,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63499,
+        "num": 193803,
+        "word": "WBG晋级8强",
+        "onboard_time": 1746084021,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 193756,
+        "num": 193756,
+        "word": "宝铲",
+        "onboard_time": 1746087081,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 182742,
+        "num": 182742,
+        "word": "特朗普称经济萎缩都是拜登的错",
+        "onboard_time": 1746081081,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 178250,
+        "num": 178250,
+        "word": "张凌赫麻烦麻烦不就产生感情了吗",
+        "onboard_time": 1746085881,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175757,
+        "num": 175757,
+        "word": "樊振东曾一天四练",
+        "onboard_time": 1746086840,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170591,
+        "num": 170591,
+        "word": "管乐侯佩岑撒娇女人最好命",
+        "onboard_time": 1746087740,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1102113,
+        "num": 169930,
+        "word": "北科大回应董袭莹论文雷同质疑",
+        "onboard_time": 1746080000,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196915,
+        "num": 169744,
+        "word": "喂 是水果反诈中心吗",
+        "onboard_time": 1746086961,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 366082,
+        "num": 169196,
+        "word": "与董某论文雷同专利发明人含听障学生",
+        "onboard_time": 1746081801,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168283,
+        "num": 168283,
+        "word": "灯牌",
+        "onboard_time": 1746080840,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 170165,
+        "num": 168203,
+        "word": "卫健委亮剑调查肖董事件期待公正通报",
+        "onboard_time": 1746071661,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51091,
+        "num": 168029,
+        "word": "高圆圆一款很会穿的梦中情姐",
+        "onboard_time": 1746087561,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167934,
+        "num": 167934,
+        "word": "枭起青壤",
+        "onboard_time": 1746088102,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157215,
+        "num": 157215,
+        "word": "张新成疑似回应分手",
+        "onboard_time": 1746054798,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52396,
+        "num": 154337,
+        "word": "为什么看到石棉瓦要远离",
+        "onboard_time": 1746087621,
+        "rank": 38,
+        "category": "科学科普,民生新闻"
+      },
+      {
+        "raw_hot": 153819,
+        "num": 153819,
+        "word": "五一劳动节",
+        "onboard_time": 1746055458,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152036,
+        "num": 152036,
+        "word": "BLG官宣Beichuan加入",
+        "onboard_time": 1746082761,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 146915,
+        "num": 146915,
+        "word": "胡杏儿抽到黄宗泽的问题",
+        "onboard_time": 1746061400,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146527,
+        "num": 146527,
+        "word": "燕尾蝶",
+        "onboard_time": 1746088041,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 146123,
+        "num": 146123,
+        "word": "敖瑞鹏上一秒25岁下一秒29岁",
+        "onboard_time": 1746084561,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144318,
+        "num": 144318,
+        "word": "张极灯牌",
+        "onboard_time": 1746085522,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 142880,
+        "num": 142880,
+        "word": "知道五一人多但没想到人这么多",
+        "onboard_time": 1746087561,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139317,
+        "num": 139317,
+        "word": "泰山陪爬小伙忙疯了也赚疯了",
+        "onboard_time": 1746088163,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132423,
+        "num": 132423,
+        "word": "被短剧妆造卷到了",
+        "onboard_time": 1746085342,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121489,
+        "num": 128626,
+        "word": "詹姆斯谈未来打算",
+        "onboard_time": 1746087561,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127111,
+        "num": 127111,
+        "word": "董袭莹论文被指与北科专利多处雷同",
+        "onboard_time": 1746068300,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平祝大家五一劳动节快乐#"
+    }
+  }
+}

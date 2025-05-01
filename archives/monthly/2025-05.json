@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746085079655,
+  "endTime": 1746088343538,
   "band_list": [
     {
       "raw_hot": 2018686,
@@ -9,6 +9,14 @@
       "onboard_time": 1746080000,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1875675,
+      "num": 321681,
+      "word": "难听",
+      "onboard_time": 1746084561,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 1639087,
@@ -33,6 +41,14 @@
       "onboard_time": 1746064760,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1535641,
+      "num": 1535641,
+      "word": "蓝莓肚脐眼里的霉菌",
+      "onboard_time": 1746085281,
+      "rank": 0,
+      "category": "科学科普"
     },
     {
       "raw_hot": 1512910,
@@ -75,6 +91,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1262732,
+      "num": 312572,
+      "word": "国家卫健委启动最高层级医政调查",
+      "onboard_time": 1746084801,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1239894,
       "num": 1239894,
       "word": "泰山山顶公厕挤满避寒的人",
@@ -92,7 +116,7 @@
     },
     {
       "raw_hot": 1070406,
-      "num": 256611,
+      "num": 298578,
       "word": "白鹿曾舜晞梁永棋陈鑫海一起去玩了",
       "onboard_time": 1746081980,
       "rank": 35,
@@ -137,6 +161,14 @@
       "onboard_time": 1746032899,
       "rank": 3,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 855460,
+      "num": 581293,
+      "word": "白鹿一拖三",
+      "onboard_time": 1746083901,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 807858,
@@ -259,14 +291,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 581293,
-      "num": 581293,
-      "word": "白鹿一拖三",
-      "onboard_time": 1746083901,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 576188,
       "num": 504372,
       "word": "国家卫健委对肖某引发舆情问题开展调查",
@@ -387,6 +411,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 392506,
+      "num": 392506,
+      "word": "朱志鑫簪花",
+      "onboard_time": 1746086662,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 371374,
+      "num": 371374,
+      "word": "左航耳返",
+      "onboard_time": 1746085881,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 371349,
       "num": 228439,
       "word": "麻昊宁硬刚爆红公众挺的是什么",
@@ -427,14 +467,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 343871,
-      "num": 254620,
-      "word": "难听",
-      "onboard_time": 1746084561,
-      "rank": 17,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 339595,
       "num": 339595,
       "word": "胃病发展成胃癌有5个征兆",
@@ -449,6 +481,14 @@
       "onboard_time": 1746019941,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 330946,
+      "num": 330946,
+      "word": "韩国代总统辞职",
+      "onboard_time": 1746084201,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 330360,
@@ -484,7 +524,7 @@
     },
     {
       "raw_hot": 312508,
-      "num": 252894,
+      "num": 298146,
       "word": "陈奕迅20岁女儿身高",
       "onboard_time": 1746083722,
       "rank": 21,
@@ -579,12 +619,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 273846,
+      "num": 273846,
+      "word": "鞠婧祎喊刘诗诗姐姐",
+      "onboard_time": 1746085161,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 272089,
       "num": 272089,
       "word": "赵丽颖短发杀青照",
       "onboard_time": 1746065659,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 270104,
+      "num": 270104,
+      "word": "98年女孩做陪诊师曾月入10万",
+      "onboard_time": 1746087800,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 267966,
@@ -600,6 +656,14 @@
       "word": "卫健委亮剑调查肖董事件期待公正通报",
       "onboard_time": 1746071661,
       "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 261673,
+      "num": 325044,
+      "word": "河南一生物公司发生爆炸1死3人伤",
+      "onboard_time": 1746085881,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -643,14 +707,6 @@
       "category": "体育,民生新闻"
     },
     {
-      "raw_hot": 236162,
-      "num": 256744,
-      "word": "韩国代总统辞职",
-      "onboard_time": 1746084201,
-      "rank": 40,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 229727,
       "num": 229727,
       "word": "南京夫子庙回应有人强制卖花",
@@ -683,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 217081,
+      "num": 217081,
+      "word": "苏新皓solo",
+      "onboard_time": 1746084801,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 213450,
       "num": 213450,
       "word": "肖某称无法接受被指影响医疗安全",
@@ -705,6 +769,14 @@
       "onboard_time": 1746081681,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200824,
+      "num": 200824,
+      "word": "朱苏",
+      "onboard_time": 1746087502,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 200686,
@@ -771,6 +843,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 196915,
+      "num": 169744,
+      "word": "喂 是水果反诈中心吗",
+      "onboard_time": 1746086961,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 196524,
       "num": 196524,
       "word": "留学生翻译爽文小说把老外爽到了",
@@ -801,6 +881,14 @@
       "onboard_time": 1746065659,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193756,
+      "num": 193756,
+      "word": "宝铲",
+      "onboard_time": 1746087081,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 193568,
@@ -844,7 +932,7 @@
     },
     {
       "raw_hot": 188471,
-      "num": 188471,
+      "num": 193803,
       "word": "WBG晋级8强",
       "onboard_time": 1746084021,
       "rank": 42,
@@ -939,6 +1027,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 178250,
+      "num": 178250,
+      "word": "张凌赫麻烦麻烦不就产生感情了吗",
+      "onboard_time": 1746085881,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 175757,
+      "num": 175757,
+      "word": "樊振东曾一天四练",
+      "onboard_time": 1746086840,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174319,
       "num": 170531,
       "word": "有协和4加4博士论文正文仅12页",
@@ -979,12 +1083,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 170591,
+      "num": 170591,
+      "word": "管乐侯佩岑撒娇女人最好命",
+      "onboard_time": 1746087740,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170030,
       "num": 251660,
       "word": "金饰克价跌破1000元",
       "onboard_time": 1746068541,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 167934,
+      "num": 167934,
+      "word": "枭起青壤",
+      "onboard_time": 1746088102,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 167826,
@@ -1032,14 +1152,6 @@
       "word": "鹿晗 四巡",
       "onboard_time": 1746068421,
       "rank": 33,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 161623,
-      "num": 161623,
-      "word": "苏新皓solo",
-      "onboard_time": 1746084801,
-      "rank": 34,
       "category": "演出"
     },
     {
@@ -1147,6 +1259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 146527,
+      "num": 146527,
+      "word": "燕尾蝶",
+      "onboard_time": 1746088041,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 146514,
       "num": 342718,
       "word": "yeri签约新公司",
@@ -1195,6 +1315,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144318,
+      "num": 144318,
+      "word": "张极灯牌",
+      "onboard_time": 1746085522,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 142880,
+      "num": 142880,
+      "word": "知道五一人多但没想到人这么多",
+      "onboard_time": 1746087561,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 142772,
       "num": 142772,
       "word": "凉拌水母",
@@ -1233,6 +1369,14 @@
       "onboard_time": 1746017543,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139317,
+      "num": 139317,
+      "word": "泰山陪爬小伙忙疯了也赚疯了",
+      "onboard_time": 1746088163,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 139280,
@@ -1337,6 +1481,14 @@
       "onboard_time": 1746076401,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 132423,
+      "num": 132423,
+      "word": "被短剧妆造卷到了",
+      "onboard_time": 1746085342,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 132261,
@@ -1497,6 +1649,14 @@
       "onboard_time": 1746055338,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 121489,
+      "num": 128626,
+      "word": "詹姆斯谈未来打算",
+      "onboard_time": 1746087561,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 117995,
@@ -1803,6 +1963,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 85661,
+      "num": 193903,
+      "word": "张云龙又搞突袭直播",
+      "onboard_time": 1746087800,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 84382,
       "num": 84382,
       "word": "Fly不允许任何人熄灭我",
@@ -1849,6 +2017,14 @@
       "onboard_time": 1746054798,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 77161,
+      "num": 217679,
+      "word": "白客演的警察好有安全感",
+      "onboard_time": 1746087621,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 75067,
@@ -1963,12 +2139,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 53369,
-      "num": 254337,
-      "word": "国家卫健委启动最高层级医政调查",
-      "onboard_time": 1746084801,
-      "rank": 18,
-      "category": "民生新闻"
+      "raw_hot": 52396,
+      "num": 154337,
+      "word": "为什么看到石棉瓦要远离",
+      "onboard_time": 1746087621,
+      "rank": 38,
+      "category": "科学科普,民生新闻"
+    },
+    {
+      "raw_hot": 51091,
+      "num": 168029,
+      "word": "高圆圆一款很会穿的梦中情姐",
+      "onboard_time": 1746087561,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 50972,
@@ -2217,6 +2401,14 @@
       "onboard_time": 1746072861,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17546,
+      "num": 217232,
+      "word": "重庆狼队目前主要的问题在哪里",
+      "onboard_time": 1746087681,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 17222,
