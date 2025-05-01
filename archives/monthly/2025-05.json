@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746066440599,
+  "endTime": 1746070446585,
   "band_list": [
     {
       "raw_hot": 1639087,
@@ -8,6 +8,14 @@
       "word": "卫健委调查肖某董某",
       "onboard_time": 1746059841,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1544794,
+      "num": 633739,
+      "word": "董小姐是个例还是群像",
+      "onboard_time": 1746064760,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -43,8 +51,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1033664,
+      "num": 1033664,
+      "word": "董袭莹论文被指与北科专利多处雷同",
+      "onboard_time": 1746068300,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1007173,
-      "num": 392774,
+      "num": 410012,
       "word": "张新成疑似回应分手",
       "onboard_time": 1746054798,
       "rank": 11,
@@ -60,7 +76,7 @@
     },
     {
       "raw_hot": 936891,
-      "num": 400478,
+      "num": 409455,
       "word": "机场偶遇鹿晗飞日本",
       "onboard_time": 1746062841,
       "rank": 11,
@@ -115,6 +131,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 633876,
+      "num": 633876,
+      "word": "刘诗诗仪态",
+      "onboard_time": 1746064641,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 631882,
+      "num": 631882,
+      "word": "天鹅颈",
+      "onboard_time": 1746067520,
+      "rank": 6,
+      "category": "艺人,情感"
+    },
+    {
       "raw_hot": 605502,
       "num": 855231,
       "word": "十三州府取关曾黎",
@@ -147,20 +179,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 537918,
-      "num": 366335,
+      "raw_hot": 559258,
+      "num": 406137,
       "word": "汪峰曾发文承诺帮毕夏抚养孩子",
       "onboard_time": 1746064520,
       "rank": 17,
       "category": "艺人"
     },
     {
-      "raw_hot": 527274,
-      "num": 504873,
-      "word": "刘诗诗仪态",
-      "onboard_time": 1746064641,
-      "rank": 22,
-      "category": "剧集"
+      "raw_hot": 498325,
+      "num": 498325,
+      "word": "饶毅称4加4适合协和且可推广",
+      "onboard_time": 1746065720,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 446900,
@@ -176,14 +208,6 @@
       "word": "太原爆炸已致1死21伤2失联",
       "onboard_time": 1746018743,
       "rank": 5,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 442861,
-      "num": 430738,
-      "word": "董小姐是个例还是群像",
-      "onboard_time": 1746064760,
-      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -211,6 +235,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 354621,
+      "num": 407792,
+      "word": "对肖某董某要零容忍彻查到底",
+      "onboard_time": 1746068899,
+      "rank": 13,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 339595,
       "num": 339595,
       "word": "胃病发展成胃癌有5个征兆",
@@ -225,6 +257,14 @@
       "onboard_time": 1746019941,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 316198,
+      "num": 316198,
+      "word": "肖飞称对董医生的指控多是不实消息",
+      "onboard_time": 1746069320,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 313301,
@@ -299,6 +339,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 272089,
+      "num": 272089,
+      "word": "赵丽颖短发杀青照",
+      "onboard_time": 1746065659,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 264988,
+      "num": 264988,
+      "word": "金价连续跳水",
+      "onboard_time": 1746067520,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 255345,
       "num": 255345,
       "word": "2025多哈世乒赛",
@@ -355,11 +411,27 @@
       "category": "教育"
     },
     {
+      "raw_hot": 227050,
+      "num": 227050,
+      "word": "6岁妹妹把我的遗憾记了12年",
+      "onboard_time": 1746067640,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 218913,
       "num": 218913,
       "word": "好声音选手毕夏自曝遭遇车祸",
       "onboard_time": 1746021262,
       "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 216340,
+      "num": 216340,
+      "word": "蓝盈莹粉丝考上法学排名世界第6的大学",
+      "onboard_time": 1746070341,
+      "rank": 27,
       "category": "艺人"
     },
     {
@@ -377,14 +449,6 @@
       "onboard_time": 1746054979,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 203423,
-      "num": 203423,
-      "word": "赵丽颖短发杀青照",
-      "onboard_time": 1746065659,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 200089,
@@ -459,6 +523,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 182469,
+      "num": 182469,
+      "word": "不良人",
+      "onboard_time": 1746069141,
+      "rank": 29,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 179504,
       "num": 179504,
       "word": "五一",
@@ -473,6 +545,14 @@
       "onboard_time": 1746006141,
       "rank": 21,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 173318,
+      "num": 163953,
+      "word": "饶毅发文称请勿错怪王辰教授",
+      "onboard_time": 1746069562,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 171777,
@@ -491,12 +571,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 170114,
-      "num": 170114,
-      "word": "饶毅称4加4适合协和且可推广",
-      "onboard_time": 1746065720,
-      "rank": 27,
-      "category": "民生新闻"
+      "raw_hot": 170030,
+      "num": 251660,
+      "word": "金饰克价跌破1000元",
+      "onboard_time": 1746068541,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 165739,
@@ -515,6 +595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 162873,
+      "num": 162873,
+      "word": "鹿晗 四巡",
+      "onboard_time": 1746068421,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 161052,
       "num": 161052,
       "word": "李永钦张新成合拍",
@@ -523,12 +611,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158972,
+      "num": 158972,
+      "word": "湖人落后",
+      "onboard_time": 1746068781,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156803,
       "num": 139579,
       "word": "青簪行",
       "onboard_time": 1746016221,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154618,
+      "num": 329082,
+      "word": "电影哪吒之魔童闹海",
+      "onboard_time": 1746069440,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 152444,
@@ -547,6 +651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143138,
+      "num": 143138,
+      "word": "森林狼vs湖人",
+      "onboard_time": 1746063020,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141968,
       "num": 141968,
       "word": "感觉迪丽热巴回去会偷偷学",
@@ -555,12 +667,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140583,
+      "num": 140583,
+      "word": "五一爬泰山看日出的游客太猛了",
+      "onboard_time": 1746069261,
+      "rank": 42,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 139544,
       "num": 124764,
       "word": "唐朝诡事录之下南洋",
       "onboard_time": 1746017543,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138185,
+      "num": 138185,
+      "word": "五一被iPhone闹钟叫醒了",
+      "onboard_time": 1746066681,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 138137,
@@ -601,6 +729,14 @@
       "onboard_time": 1746026903,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 129456,
+      "num": 407228,
+      "word": "饿了么害我一天三杯奶茶",
+      "onboard_time": 1746068482,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 128193,
@@ -651,6 +787,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 122414,
+      "num": 122414,
+      "word": "拿吸管手搓了穿戴甲的高三生",
+      "onboard_time": 1746070100,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 122338,
       "num": 122338,
       "word": "大鹏杨幂演夫妻",
@@ -667,20 +811,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 117995,
+      "num": 117995,
+      "word": "这跟一辈子上高中有什么区别",
+      "onboard_time": 1746067940,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 116736,
       "num": 116736,
       "word": "致敬每一位劳动者",
       "onboard_time": 1746057379,
       "rank": 43,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 115736,
-      "num": 115736,
-      "word": "森林狼vs湖人",
-      "onboard_time": 1746063020,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 115596,
@@ -707,6 +851,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 111419,
+      "num": 111419,
+      "word": "4月小米汽车交付超28000台",
+      "onboard_time": 1746069682,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 111414,
+      "num": 111414,
+      "word": "我建议五一全让主任值班",
+      "onboard_time": 1746070400,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 111292,
       "num": 111292,
       "word": "狼队遗憾止步春季赛",
@@ -715,8 +875,16 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 110772,
+      "num": 110772,
+      "word": "毕夏张恒远",
+      "onboard_time": 1746067760,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109808,
-      "num": 109808,
+      "num": 408520,
       "word": "古画中发现了干饭人",
       "onboard_time": 1746065240,
       "rank": 46,
@@ -940,7 +1108,7 @@
     },
     {
       "raw_hot": 63628,
-      "num": 908135,
+      "num": 913615,
       "word": "五一出行天气提醒",
       "onboard_time": 1746023364,
       "rank": 2,
@@ -1057,6 +1225,14 @@
       "onboard_time": 1746042855,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31333,
+      "num": 148336,
+      "word": "以色列大火向军事基地蔓延",
+      "onboard_time": 1746069801,
+      "rank": 39,
+      "category": "海外新闻,民生新闻"
     },
     {
       "raw_hot": 30311,
