@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1746081335729,
+  "endTime": 1746082131896,
   "band_list": [
     {
       "raw_hot": 8960529,
@@ -217,6 +217,14 @@
       "onboard_time": 1745934745,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2018686,
+      "num": 269183,
+      "word": "北科大回应董袭莹论文雷同质疑",
+      "onboard_time": 1746080000,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1986007,
@@ -801,14 +809,6 @@
       "onboard_time": 1745822723,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1154764,
-      "num": 269183,
-      "word": "北科大回应董袭莹论文雷同质疑",
-      "onboard_time": 1746080000,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1152635,
@@ -2979,6 +2979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 424912,
+      "num": 230454,
+      "word": "灯牌",
+      "onboard_time": 1746080840,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 424621,
       "num": 379994,
       "word": "肖飞 董袭莹",
@@ -3129,6 +3137,14 @@
       "onboard_time": 1745769441,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 404719,
+      "num": 344236,
+      "word": "迪丽热巴分享欲犯了",
+      "onboard_time": 1746078020,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 403906,
@@ -3819,6 +3835,14 @@
       "category": "电影,作品衍生"
     },
     {
+      "raw_hot": 316301,
+      "num": 223636,
+      "word": "TF家族空降",
+      "onboard_time": 1746080480,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 314622,
       "num": 314622,
       "word": "特朗普妄称中国要做出让步",
@@ -3833,14 +3857,6 @@
       "onboard_time": 1745718201,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 311848,
-      "num": 311848,
-      "word": "迪丽热巴分享欲犯了",
-      "onboard_time": 1746078020,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 311715,
@@ -5723,14 +5739,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 207924,
-      "num": 207924,
-      "word": "灯牌",
-      "onboard_time": 1746080840,
-      "rank": 22,
-      "category": "演出"
-    },
-    {
       "raw_hot": 207703,
       "num": 207703,
       "word": "孙颖莎与航天员桂海潮同台颁奖",
@@ -5840,6 +5848,14 @@
       "word": "刘宇宁新剧改名玫瑰丛生",
       "onboard_time": 1746001702,
       "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 206454,
+      "num": 206454,
+      "word": "鞠婧祎宣传淮水竹亭",
+      "onboard_time": 1746081681,
+      "rank": 24,
       "category": "剧集"
     },
     {
@@ -6105,6 +6121,14 @@
       "onboard_time": 1745914762,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200686,
+      "num": 200686,
+      "word": "动画鲲吞天下开播",
+      "onboard_time": 1746081140,
+      "rank": 29,
+      "category": "动漫"
     },
     {
       "raw_hot": 200396,
@@ -7291,14 +7315,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 180161,
-      "num": 180161,
-      "word": "TF家族空降",
-      "onboard_time": 1746080480,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 179759,
       "num": 179759,
       "word": "RW挺进败者组半决赛",
@@ -7337,6 +7353,14 @@
       "onboard_time": 1746007882,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 179292,
+      "num": 179292,
+      "word": "与董某论文雷同专利发明人含听障学生",
+      "onboard_time": 1746081801,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 179123,
@@ -7577,6 +7601,14 @@
       "onboard_time": 1746057319,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171662,
+      "num": 171662,
+      "word": "苏新皓红海",
+      "onboard_time": 1746081862,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 171622,
@@ -7961,6 +7993,14 @@
       "onboard_time": 1745849182,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 164059,
+      "num": 164059,
+      "word": "白鹿曾舜晞梁永棋陈鑫海一起去玩了",
+      "onboard_time": 1746081980,
+      "rank": 35,
+      "category": "艺人,综艺"
     },
     {
       "raw_hot": 163941,
@@ -8755,6 +8795,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 152421,
+      "num": 179332,
+      "word": "谁给刘诗诗递一个恶女本",
+      "onboard_time": 1746081384,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152337,
       "num": 152337,
       "word": "王安宇三折叠抱王玉雯",
@@ -9169,14 +9217,6 @@
       "onboard_time": 1745755641,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 145528,
-      "num": 194266,
-      "word": "动画鲲吞天下开播",
-      "onboard_time": 1746081140,
-      "rank": 29,
-      "category": "动漫"
     },
     {
       "raw_hot": 145462,
@@ -10651,6 +10691,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 123562,
+      "num": 123562,
+      "word": "苏新皓后台突袭直播",
+      "onboard_time": 1746081801,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 123423,
+      "num": 228613,
+      "word": "特朗普称经济萎缩都是拜登的错",
+      "onboard_time": 1746081081,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 123357,
       "num": 123357,
       "word": "歌手2025",
@@ -10985,6 +11041,14 @@
       "onboard_time": 1746067940,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 117777,
+      "num": 117777,
+      "word": "你们过五一是想把哪打下来吗",
+      "onboard_time": 1746080242,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 117544,
@@ -11499,6 +11563,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 108717,
+      "num": 108717,
+      "word": "北京会惩罚每个不做攻略的人",
+      "onboard_time": 1746082042,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 108578,
       "num": 214390,
       "word": "NBA东西部第八皆被横扫",
@@ -11601,6 +11673,14 @@
       "onboard_time": 1745996362,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 107585,
+      "num": 107585,
+      "word": "张凌赫跳舞 冷脸嘟嘴酷拽收尾",
+      "onboard_time": 1746082100,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 107438,
@@ -13219,6 +13299,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 75067,
+      "num": 266620,
+      "word": "饿了么把五一补贴成了美食节",
+      "onboard_time": 1746079280,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 74850,
       "num": 150152,
       "word": "韩红演唱会嘉宾薛之谦",
@@ -13529,14 +13617,6 @@
       "onboard_time": 1745983823,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 69116,
-      "num": 266620,
-      "word": "饿了么把五一补贴成了美食节",
-      "onboard_time": 1746079280,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 68673,
@@ -14337,14 +14417,6 @@
       "onboard_time": 1745826022,
       "rank": 38,
       "category": "幽默,民生新闻"
-    },
-    {
-      "raw_hot": 46967,
-      "num": 194336,
-      "word": "特朗普称经济萎缩都是拜登的错",
-      "onboard_time": 1746081081,
-      "rank": 25,
-      "category": "国际时政"
     },
     {
       "raw_hot": 46952,
@@ -16297,6 +16369,14 @@
       "onboard_time": 1745857279,
       "rank": 38,
       "category": "军事,民生新闻"
+    },
+    {
+      "raw_hot": 15511,
+      "num": 144379,
+      "word": "美国西部沿海进入沉没倒计时",
+      "onboard_time": 1746081621,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 15326,
