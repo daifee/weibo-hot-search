@@ -1,6 +1,6 @@
 {
   "startTime": 1746117084529,
-  "endTime": 1746121199611,
+  "endTime": 1746124440205,
   "band_list": [
     {
       "raw_hot": 1344343,
@@ -475,7 +475,47 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 19147,
+      "raw_hot": 26512,
+      "num": 26512,
+      "word": "劳动节快乐 祝我们劳有所得",
+      "onboard_time": 1746123495,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26046,
+      "num": 26046,
+      "word": "爷们要脸文学",
+      "onboard_time": 1746121396,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 24894,
+      "num": 24894,
+      "word": "独一无二",
+      "onboard_time": 1746123016,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 23861,
+      "num": 24793,
+      "word": "富家女因缺爱拒绝巨额家产",
+      "onboard_time": 1746095841,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 22531,
+      "num": 24792,
+      "word": "小鬼把更多时间花在音乐上",
+      "onboard_time": 1746124335,
+      "rank": 49,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 20574,
       "num": 487948,
       "word": "劳动者的手每一双都了不起",
       "onboard_time": 1746104723,

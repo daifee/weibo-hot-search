@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/27 00:28:26 ~ 2025/05/02 01:39:59
+本榜单时间：2025/04/27 00:28:26 ~ 2025/05/02 02:34:00
 </p>
 </blockquote>
 <p>
@@ -13125,6 +13125,12 @@ KPL对抗路篇今天尽力啦（热度：37513）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8A%B3%E5%8A%A8%E8%8A%82%E5%BF%AB%E4%B9%90%20%E7%A5%9D%E6%88%91%E4%BB%AC%E5%8A%B3%E6%9C%89%E6%89%80%E5%BE%97%23" target="weibo">
+劳动节快乐 祝我们劳有所得（热度：26512）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%83%E7%A0%94%E4%BA%BA%E4%BA%94%E4%B8%80%E8%83%BD%E4%B8%8D%E8%83%BD%E5%87%BA%E5%8E%BB%E7%8E%A9%23" target="weibo">
 考研人五一能不能出去玩（热度：26509）
 </a>
@@ -13145,6 +13151,12 @@ KPL对抗路篇今天尽力啦（热度：37513）
 <li>
 <a href="https://s.weibo.com/weibo?q=%235%E6%97%AC%E7%94%B7%E5%AD%90%E5%96%9D%E9%87%8E%E8%8F%8C%E6%B1%A4%E8%BF%9BICU%E6%8A%A2%E6%95%9116%E5%A4%A9%23" target="weibo">
 5旬男子喝野菌汤进ICU抢救16天（热度：26308）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B7%E4%BB%AC%E8%A6%81%E8%84%B8%E6%96%87%E5%AD%A6%23" target="weibo">
+爷们要脸文学（热度：26046）
 </a>
 </li>
 
@@ -13343,6 +13355,12 @@ KPL对抗路篇今天尽力啦（热度：37513）
 <li>
 <a href="https://s.weibo.com/weibo?q=%231%E5%88%86%E9%92%9F%E7%9C%8B%E6%B3%B0%E6%8B%89%23" target="weibo">
 1分钟看泰拉（热度：22539）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%AC%BC%E6%8A%8A%E6%9B%B4%E5%A4%9A%E6%97%B6%E9%97%B4%E8%8A%B1%E5%9C%A8%E9%9F%B3%E4%B9%90%E4%B8%8A%23" target="weibo">
+小鬼把更多时间花在音乐上（热度：22531）
 </a>
 </li>
 

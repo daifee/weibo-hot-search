@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1746121199611,
+  "endTime": 1746124440205,
   "band_list": [
     {
       "raw_hot": 8960529,
@@ -17483,6 +17483,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 26512,
+      "num": 26512,
+      "word": "劳动节快乐 祝我们劳有所得",
+      "onboard_time": 1746123495,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26509,
       "num": 151154,
       "word": "考研人五一能不能出去玩",
@@ -17513,6 +17521,14 @@
       "onboard_time": 1745904562,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26046,
+      "num": 26046,
+      "word": "爷们要脸文学",
+      "onboard_time": 1746121396,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 25947,
@@ -17777,6 +17793,14 @@
       "onboard_time": 1745741182,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 22531,
+      "num": 24792,
+      "word": "小鬼把更多时间花在音乐上",
+      "onboard_time": 1746124335,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 22474,
