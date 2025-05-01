@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1746056313141,
+  "endTime": 1746065055428,
   "band_list": [
     {
       "raw_hot": 8960529,
@@ -355,6 +355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1639087,
+      "num": 1639087,
+      "word": "卫健委调查肖某董某",
+      "onboard_time": 1746059841,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1630623,
       "num": 329949,
       "word": "南京鼓楼医院院长被砍",
@@ -507,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1411997,
+      "num": 1411997,
+      "word": "胡杏儿抽到黄宗泽的问题",
+      "onboard_time": 1746061400,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1405732,
       "num": 1405732,
       "word": "女子买彩票中945万上完班才领奖",
@@ -544,6 +560,14 @@
       "word": "家长查孩子成绩一年被收300元",
       "onboard_time": 1745929643,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1355584,
+      "num": 604328,
+      "word": "肖某董某莹应被剥夺行医资格",
+      "onboard_time": 1746061341,
+      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -891,6 +915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1007173,
+      "num": 292501,
+      "word": "张新成疑似回应分手",
+      "onboard_time": 1746054798,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1005083,
       "num": 1005083,
       "word": "水贝老板炒黄金亏了一个亿",
@@ -953,6 +985,14 @@
       "onboard_time": 1745723001,
       "rank": 1,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 936891,
+      "num": 290875,
+      "word": "机场偶遇鹿晗飞日本",
+      "onboard_time": 1746062841,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 922075,
@@ -1323,14 +1363,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 754382,
-      "num": 217369,
-      "word": "张新成疑似回应分手",
-      "onboard_time": 1746054798,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 753350,
       "num": 733590,
       "word": "张一山谈首搭赵丽颖",
@@ -1627,6 +1659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 662827,
+      "num": 662827,
+      "word": "肖某称术中离开40分钟不属实",
+      "onboard_time": 1746062962,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 662656,
       "num": 553657,
       "word": "石凯前女友 等解除协议我将不再沉默",
@@ -1681,6 +1721,14 @@
       "onboard_time": 1745808621,
       "rank": 30,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 646784,
+      "num": 646784,
+      "word": "12306回应网友质疑五一前大量放票",
+      "onboard_time": 1746057499,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 642170,
@@ -1945,6 +1993,14 @@
       "onboard_time": 1745762183,
       "rank": 19,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 576188,
+      "num": 426305,
+      "word": "国家卫健委对肖某引发舆情问题开展调查",
+      "onboard_time": 1746060381,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 576033,
@@ -2611,6 +2667,14 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 446900,
+      "num": 446900,
+      "word": "Makiyo不爽王心凌潘玮柏力挺杨丞琳",
+      "onboard_time": 1746062962,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 446157,
       "num": 414734,
       "word": "钟丽缇小女儿完全继承妈妈基因",
@@ -3171,6 +3235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 364600,
+      "num": 278193,
+      "word": "张新成 李兰迪",
+      "onboard_time": 1746056598,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 364513,
       "num": 364513,
       "word": "行程图",
@@ -3193,6 +3265,14 @@
       "onboard_time": 1745739741,
       "rank": 20,
       "category": "电影"
+    },
+    {
+      "raw_hot": 360765,
+      "num": 360765,
+      "word": "以色列向多国求援灭山火",
+      "onboard_time": 1746054859,
+      "rank": 28,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 359982,
@@ -3603,6 +3683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 305862,
+      "num": 274355,
+      "word": "山西男篮拉拉队被处严重警告",
+      "onboard_time": 1746063382,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 305611,
       "num": 363254,
       "word": "小伙峨眉山失联朋友担心拍日出跌落",
@@ -3761,6 +3849,14 @@
       "onboard_time": 1745997502,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 295814,
+      "num": 295814,
+      "word": "丁禹兮 范思哲",
+      "onboard_time": 1746062361,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 295092,
@@ -4083,6 +4179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 271514,
+      "num": 271514,
+      "word": "五一劳动节",
+      "onboard_time": 1746055458,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 271504,
       "num": 196102,
       "word": "为什么婚恋前要先看体检报告",
@@ -4291,6 +4395,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 256618,
+      "num": 256618,
+      "word": "汪峰曾发文承诺帮毕夏抚养孩子",
+      "onboard_time": 1746064520,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 255777,
       "num": 267676,
       "word": "森林北直播带货",
@@ -4448,6 +4560,14 @@
       "word": "聊斋",
       "onboard_time": 1745720781,
       "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 250115,
+      "num": 250115,
+      "word": "杨紫无缝进组",
+      "onboard_time": 1746058819,
+      "rank": 19,
       "category": "剧集"
     },
     {
@@ -4931,14 +5051,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 223183,
-      "num": 223183,
-      "word": "以色列向多国求援灭山火",
-      "onboard_time": 1746054859,
-      "rank": 28,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 222672,
       "num": 222672,
       "word": "3起整治形式主义典型问题被公开通报",
@@ -5075,6 +5187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218812,
+      "num": 280324,
+      "word": "杨紫回应无缝进组",
+      "onboard_time": 1746064581,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 218785,
       "num": 218785,
       "word": "许嵩 哦唱错了",
@@ -5115,14 +5235,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 216867,
-      "num": 218107,
-      "word": "五一劳动节",
-      "onboard_time": 1746055458,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 216036,
       "num": 304160,
       "word": "下调离境退税起退点上调现金退税限额",
@@ -5160,6 +5272,14 @@
       "word": "杨紫正午阳光三搭",
       "onboard_time": 1745986822,
       "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 214393,
+      "num": 214393,
+      "word": "刘诗诗仪态",
+      "onboard_time": 1746064641,
+      "rank": 22,
       "category": "剧集"
     },
     {
@@ -5779,6 +5899,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 199705,
+      "num": 199705,
+      "word": "网友上了高速发现全都是聪明人",
+      "onboard_time": 1746061520,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 199702,
       "num": 199702,
       "word": "美国95%的进口婴儿手推车产自中国",
@@ -6017,6 +6145,14 @@
       "onboard_time": 1745893160,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 193568,
+      "num": 193568,
+      "word": "造城者杀青",
+      "onboard_time": 1746063860,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 193359,
@@ -6579,6 +6715,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 185265,
+      "num": 185265,
+      "word": "金饰克价跌破1022元",
+      "onboard_time": 1746063501,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 185250,
       "num": 185250,
       "word": "光与夜之恋",
@@ -6793,6 +6937,14 @@
       "onboard_time": 1745709318,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 179504,
+      "num": 179504,
+      "word": "五一",
+      "onboard_time": 1746064461,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 179293,
@@ -7035,6 +7187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171777,
+      "num": 171777,
+      "word": "易烊千玺网站更新",
+      "onboard_time": 1746057319,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171622,
       "num": 171622,
       "word": "淮水竹亭 东方美学",
@@ -7137,6 +7297,14 @@
       "onboard_time": 1745812881,
       "rank": 45,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 169912,
+      "num": 169912,
+      "word": "董小姐是个例还是群像",
+      "onboard_time": 1746064760,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 169909,
@@ -7313,6 +7481,14 @@
       "onboard_time": 1745934262,
       "rank": 16,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 165739,
+      "num": 165739,
+      "word": "星巴克否认在搞饥饿营销",
+      "onboard_time": 1746064280,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 165193,
@@ -7771,6 +7947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158040,
+      "num": 158040,
+      "word": "肖某称无法接受被指影响医疗安全",
+      "onboard_time": 1746064160,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157807,
       "num": 157807,
       "word": "第二十条等获优秀故事片",
@@ -8121,6 +8305,14 @@
       "onboard_time": 1745810060,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 152444,
+      "num": 152444,
+      "word": "柯洁吐槽智驾",
+      "onboard_time": 1746059900,
+      "rank": 39,
+      "category": "汽车"
     },
     {
       "raw_hot": 152337,
@@ -8777,6 +8969,14 @@
       "onboard_time": 1745927600,
       "rank": 49,
       "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 141968,
+      "num": 141968,
+      "word": "感觉迪丽热巴回去会偷偷学",
+      "onboard_time": 1746058100,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 141941,
@@ -9755,6 +9955,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 123563,
+      "num": 123563,
+      "word": "谁说的长大后就会写大人字了",
+      "onboard_time": 1746058940,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 123357,
       "num": 123357,
       "word": "歌手2025",
@@ -9779,12 +9987,28 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 122694,
+      "num": 122694,
+      "word": "雷军晒AI照",
+      "onboard_time": 1746062602,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 122599,
       "num": 122599,
       "word": "无尽的尽头",
       "onboard_time": 1745836881,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 122338,
+      "num": 122338,
+      "word": "大鹏杨幂演夫妻",
+      "onboard_time": 1746061219,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 122249,
@@ -10051,6 +10275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118189,
+      "num": 220843,
+      "word": "普通医学生培养时间能合理缩短吗",
+      "onboard_time": 1746064222,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118027,
       "num": 219464,
       "word": "宁芙奖 佣兵",
@@ -10171,6 +10403,14 @@
       "category": "游戏,民生新闻"
     },
     {
+      "raw_hot": 115736,
+      "num": 115736,
+      "word": "森林狼vs湖人",
+      "onboard_time": 1746063020,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115678,
       "num": 140938,
       "word": "科学谋划十五五",
@@ -10257,6 +10497,14 @@
       "onboard_time": 1745742082,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 113896,
+      "num": 113896,
+      "word": "猫妈 我说我不养了吗",
+      "onboard_time": 1746058581,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 113837,
@@ -10681,6 +10929,14 @@
       "onboard_time": 1745888722,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105637,
+      "num": 114662,
+      "word": "这一周期最爆古偶是永夜星河九重紫",
+      "onboard_time": 1746062602,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 105373,
@@ -12243,6 +12499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 73662,
+      "num": 195865,
+      "word": "金价冲高回落原因",
+      "onboard_time": 1746060200,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 73559,
       "num": 328451,
       "word": "傅海峰指导梁王组合",
@@ -12969,6 +13233,14 @@
       "onboard_time": 1745728162,
       "rank": 12,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 54363,
+      "num": 170094,
+      "word": "饶毅辟谣曾说协和乌烟瘴气",
+      "onboard_time": 1746064822,
+      "rank": 33,
+      "category": "体育,民生新闻"
     },
     {
       "raw_hot": 54150,
@@ -13761,6 +14033,14 @@
       "onboard_time": 1745756543,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 36790,
+      "num": 124863,
+      "word": "山西男篮发文慰问曾凡博",
+      "onboard_time": 1746064942,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 36784,
@@ -15681,6 +15961,14 @@
       "onboard_time": 1745743281,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 6337,
+      "num": 169936,
+      "word": "对抗类运动如何帮助内耗人群释放情绪",
+      "onboard_time": 1746064881,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 6247,
