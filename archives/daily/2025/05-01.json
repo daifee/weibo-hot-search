@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746096276217,
+  "endTime": 1746098464540,
   "band_list": [
     {
       "raw_hot": 2018686,
@@ -19,6 +19,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1786906,
+      "num": 374628,
+      "word": "张雪峰说学医的天亮了",
+      "onboard_time": 1746096020,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1665852,
       "num": 1665852,
       "word": "蓝莓肚脐眼里的霉菌",
@@ -33,6 +41,14 @@
       "onboard_time": 1746059841,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1592470,
+      "num": 1592470,
+      "word": "石凯 音乐节",
+      "onboard_time": 1746093981,
+      "rank": 3,
+      "category": "演出"
     },
     {
       "raw_hot": 1585176,
@@ -73,14 +89,6 @@
       "onboard_time": 1746061400,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1360501,
-      "num": 1360501,
-      "word": "石凯 音乐节",
-      "onboard_time": 1746093981,
-      "rank": 3,
-      "category": "演出"
     },
     {
       "raw_hot": 1355584,
@@ -201,6 +209,14 @@
       "onboard_time": 1746083901,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 851425,
+      "num": 851425,
+      "word": "富家女因缺爱拒绝巨额家产",
+      "onboard_time": 1746095841,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 823968,
@@ -395,6 +411,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 526597,
+      "num": 526597,
+      "word": "热水器坠落女孩因迷眼提前1秒停下",
+      "onboard_time": 1746096502,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 498325,
       "num": 498325,
       "word": "饶毅称4加4适合协和且可推广",
@@ -440,6 +464,14 @@
       "word": "太原爆炸已致1死21伤2失联",
       "onboard_time": 1746018743,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 442081,
+      "num": 442081,
+      "word": "三千游客挤瘫荣昌公务员食堂",
+      "onboard_time": 1746092841,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -491,6 +523,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 383814,
+      "num": 355607,
+      "word": "回忆专用小马甲道歉",
+      "onboard_time": 1746095240,
+      "rank": 48,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 378977,
+      "num": 378977,
+      "word": "周深一开嗓唱出踏风破浪",
+      "onboard_time": 1746096561,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 371374,
       "num": 371374,
       "word": "左航耳返",
@@ -507,11 +555,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 371225,
-      "num": 371225,
-      "word": "三千游客挤瘫荣昌公务员食堂",
-      "onboard_time": 1746092841,
-      "rank": 9,
+      "raw_hot": 367062,
+      "num": 367062,
+      "word": "闺蜜网购肉毒素相互注射中毒",
+      "onboard_time": 1746095061,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -593,6 +641,14 @@
       "onboard_time": 1746081081,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 326532,
+      "num": 326532,
+      "word": "赵露思音乐节",
+      "onboard_time": 1746097461,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 324257,
@@ -697,6 +753,14 @@
       "onboard_time": 1746082761,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 294491,
+      "num": 294491,
+      "word": "协和4+4毕业生本科专业有西班牙语园林等",
+      "onboard_time": 1746094702,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 291232,
@@ -953,14 +1017,6 @@
       "onboard_time": 1746022643,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 199873,
-      "num": 199873,
-      "word": "协和4+4毕业生本科专业有西班牙语园林等",
-      "onboard_time": 1746094702,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 199803,
@@ -1235,14 +1291,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 181848,
-      "num": 181848,
-      "word": "富家女因缺爱拒绝巨额家产",
-      "onboard_time": 1746095841,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 181260,
       "num": 181260,
       "word": "RIIZE新歌",
@@ -1267,12 +1315,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177725,
+      "num": 177725,
+      "word": "五一档新片票房破2亿",
+      "onboard_time": 1746097401,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 175757,
       "num": 175757,
       "word": "樊振东曾一天四练",
       "onboard_time": 1746086840,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 174951,
+      "num": 378288,
+      "word": "打卡重庆荣昌政府机关食堂",
+      "onboard_time": 1746095841,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 174319,
@@ -1363,14 +1427,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 166747,
-      "num": 166747,
-      "word": "回忆专用小马甲道歉",
-      "onboard_time": 1746095240,
-      "rank": 48,
-      "category": "网红"
-    },
-    {
       "raw_hot": 166358,
       "num": 166358,
       "word": "终于明白了中国的非遗为什么宝贝",
@@ -1395,6 +1451,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 161560,
+      "num": 161560,
+      "word": "xc 菜",
+      "onboard_time": 1746096441,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 161475,
       "num": 161475,
       "word": "幽灵公主",
@@ -1417,14 +1481,6 @@
       "onboard_time": 1746031578,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 160776,
-      "num": 321568,
-      "word": "闺蜜网购肉毒素相互注射中毒",
-      "onboard_time": 1746095061,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 160211,
@@ -1465,14 +1521,6 @@
       "onboard_time": 1746016221,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 152578,
-      "num": 152578,
-      "word": "张雪峰说学医的天亮了",
-      "onboard_time": 1746096020,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 152444,
@@ -1587,6 +1635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144574,
+      "num": 144574,
+      "word": "李宇春与大家合唱和你一样",
+      "onboard_time": 1746097100,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 144479,
       "num": 220365,
       "word": "李在明案被发回重审",
@@ -1601,6 +1657,14 @@
       "onboard_time": 1746085522,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 144060,
+      "num": 144060,
+      "word": "淮水竹亭",
+      "onboard_time": 1746097041,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 142772,
@@ -1769,6 +1833,22 @@
       "onboard_time": 1746076401,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 133894,
+      "num": 133894,
+      "word": "小米SU7Ultra限制1500匹马力",
+      "onboard_time": 1746098421,
+      "rank": 40,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 132813,
+      "num": 132813,
+      "word": "吃席现在汉堡都算一个菜了",
+      "onboard_time": 1746096381,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 132423,
@@ -2075,20 +2155,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 115984,
-      "num": 115984,
-      "word": "打卡重庆荣昌政府机关食堂",
-      "onboard_time": 1746095841,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 115596,
       "num": 213811,
       "word": "美国获特权开发乌克兰自然资源",
       "onboard_time": 1746054859,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 113945,
+      "num": 113945,
+      "word": "孟子义一条plog告别四月",
+      "onboard_time": 1746098242,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 113896,
@@ -2113,6 +2193,14 @@
       "onboard_time": 1746030322,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 111593,
+      "num": 345397,
+      "word": "多一人观影少一人被割韭菜",
+      "onboard_time": 1746098061,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 111419,
@@ -2699,6 +2787,14 @@
       "category": "国际时政,财经"
     },
     {
+      "raw_hot": 45294,
+      "num": 145737,
+      "word": "乌美矿产协议关键细节曝光",
+      "onboard_time": 1746098421,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 44215,
       "num": 117622,
       "word": "美乌矿产协议内容",
@@ -2795,6 +2891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33253,
+      "num": 343711,
+      "word": "重庆一副镇长卖花走红",
+      "onboard_time": 1746097343,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32983,
       "num": 182579,
       "word": "全红婵陈芋汐演我过五一",
@@ -2851,6 +2955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27202,
+      "num": 337476,
+      "word": "西安沙尘暴给城市带来了哪些独特景象",
+      "onboard_time": 1746097280,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24657,
       "num": 98859,
       "word": "多哈世乒赛吉祥物亮相",
@@ -2889,6 +3001,14 @@
       "onboard_time": 1746040634,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 18292,
+      "num": 135755,
+      "word": "海外网红疯狂整容导致塑料脸",
+      "onboard_time": 1746098061,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 18091,
@@ -2937,6 +3057,14 @@
       "onboard_time": 1746081621,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 14789,
+      "num": 366770,
+      "word": "奥斯卡新规评委必须看完影片再投票",
+      "onboard_time": 1746098061,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 14720,
