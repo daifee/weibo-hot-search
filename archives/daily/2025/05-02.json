@@ -1,7 +1,15 @@
 {
   "startTime": 1746117084529,
-  "endTime": 1746139322057,
+  "endTime": 1746141840946,
   "band_list": [
+    {
+      "raw_hot": 1572681,
+      "num": 1228604,
+      "word": "金价暴跌有人一夜亏47万",
+      "onboard_time": 1746118698,
+      "rank": 6,
+      "category": "财经"
+    },
     {
       "raw_hot": 1344343,
       "num": 1344343,
@@ -9,14 +17,6 @@
       "onboard_time": 1746111142,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1228604,
-      "num": 1228604,
-      "word": "金价暴跌有人一夜亏47万",
-      "onboard_time": 1746118698,
-      "rank": 6,
-      "category": "财经"
     },
     {
       "raw_hot": 989494,
@@ -75,6 +75,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 487712,
+      "num": 352223,
+      "word": "特朗普称美国孩子只能有2个玩具了",
+      "onboard_time": 1746107782,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 484389,
       "num": 484389,
       "word": "男内侍偷走日本皇室零花钱360万",
@@ -99,20 +107,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 435248,
+      "num": 158006,
+      "word": "涉肖某董某事件多个账号被禁言",
+      "onboard_time": 1746140957,
+      "rank": 10,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 415567,
       "num": 415567,
       "word": "董某外公为外籍院士米耀荣系谣言",
       "onboard_time": 1746100761,
       "rank": 8,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 352223,
-      "num": 352223,
-      "word": "特朗普称美国孩子只能有2个玩具了",
-      "onboard_time": 1746107782,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 334851,
@@ -177,6 +185,14 @@
       "onboard_time": 1746092421,
       "rank": 17,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 216254,
+      "num": 216254,
+      "word": "荣昌真的接住了泼天流量",
+      "onboard_time": 1746113182,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 206893,
@@ -259,14 +275,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 136341,
-      "num": 155299,
-      "word": "荣昌真的接住了泼天流量",
-      "onboard_time": 1746113182,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 134530,
       "num": 134530,
       "word": "国家卫健委启动最高层级医政调查",
@@ -307,12 +315,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 109001,
-      "num": 109001,
+      "raw_hot": 111269,
+      "num": 111269,
       "word": "继母偷走爷爷留给孙女的8万元遗产",
       "onboard_time": 1746109642,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109438,
+      "num": 109438,
+      "word": "吃蓝莓前记得给它掏耳朵",
+      "onboard_time": 1746115580,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 107829,
@@ -371,14 +387,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 89263,
-      "num": 89263,
-      "word": "吃蓝莓前记得给它掏耳朵",
-      "onboard_time": 1746115580,
-      "rank": 45,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 86850,
       "num": 86850,
       "word": "杭州最后一封电报发给了全体市民",
@@ -435,6 +443,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 65599,
+      "num": 120456,
+      "word": "富家女因缺爱拒绝巨额家产",
+      "onboard_time": 1746095841,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 60530,
       "num": 60530,
       "word": "苏新皓说真的给我跳爽了",
@@ -443,11 +459,51 @@
       "category": "演出"
     },
     {
+      "raw_hot": 57255,
+      "num": 57255,
+      "word": "男子200元卖2盆茶花被索赔5万",
+      "onboard_time": 1746128175,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54247,
+      "num": 87443,
+      "word": "五一档首日上座率最高是哪吒2",
+      "onboard_time": 1746124456,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 52797,
+      "num": 52797,
+      "word": "美国国家安全顾问沃尔兹将离职",
+      "onboard_time": 1746132494,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 51138,
+      "num": 159511,
+      "word": "外国人组团飞到中国代购中国制造",
+      "onboard_time": 1746140957,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49733,
       "num": 49733,
       "word": "孙恩盛直播",
       "onboard_time": 1746127034,
       "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 48911,
+      "num": 48911,
+      "word": "日本机场偶遇戚薇李承铉一家",
+      "onboard_time": 1746136214,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -459,36 +515,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 46220,
-      "num": 87443,
-      "word": "五一档首日上座率最高是哪吒2",
-      "onboard_time": 1746124456,
-      "rank": 9,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 44156,
-      "num": 50695,
-      "word": "富家女因缺爱拒绝巨额家产",
-      "onboard_time": 1746095841,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 42058,
       "num": 822687,
       "word": "一人一句致敬劳动者",
       "onboard_time": 1746106342,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 42022,
-      "num": 42022,
-      "word": "日本机场偶遇戚薇李承铉一家",
-      "onboard_time": 1746136214,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 41031,
@@ -507,11 +539,35 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 35232,
-      "num": 35232,
-      "word": "男子200元卖2盆茶花被索赔5万",
-      "onboard_time": 1746128175,
-      "rank": 49,
+      "raw_hot": 34033,
+      "num": 37316,
+      "word": "贵州文旅太拼了",
+      "onboard_time": 1746139396,
+      "rank": 43,
+      "category": "旅游,民生新闻"
+    },
+    {
+      "raw_hot": 32367,
+      "num": 44064,
+      "word": "工作人员回应给游客撒蛤蜊",
+      "onboard_time": 1746130813,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32123,
+      "num": 37291,
+      "word": "韩德君 退役",
+      "onboard_time": 1746141740,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 31240,
+      "num": 487948,
+      "word": "劳动者的手每一双都了不起",
+      "onboard_time": 1746104723,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -571,30 +627,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 22709,
-      "num": 44064,
-      "word": "工作人员回应给游客撒蛤蜊",
-      "onboard_time": 1746130813,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 22320,
-      "num": 487948,
-      "word": "劳动者的手每一双都了不起",
-      "onboard_time": 1746104723,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 20951,
-      "num": 35213,
-      "word": "美国国家安全顾问沃尔兹将离职",
-      "onboard_time": 1746132494,
-      "rank": 49,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 19938,
       "num": 22400,
       "word": "网友佛罗伦萨偶遇檀健次",
@@ -609,6 +641,14 @@
       "onboard_time": 1746133393,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 19529,
+      "num": 144423,
+      "word": "苏杯淘汰赛抽签出炉",
+      "onboard_time": 1746141198,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 17703,
