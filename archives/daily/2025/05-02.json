@@ -1,6 +1,6 @@
 {
   "startTime": 1746117084529,
-  "endTime": 1746128193040,
+  "endTime": 1746131149244,
   "band_list": [
     {
       "raw_hot": 1344343,
@@ -547,19 +547,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 19155,
+      "num": 22402,
+      "word": "男子200元卖2盆茶花被索赔5万",
+      "onboard_time": 1746128175,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14782,
       "num": 22405,
       "word": "5月专属壁纸",
       "onboard_time": 1746115161,
       "rank": 47,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14011,
-      "num": 22402,
-      "word": "男子200元卖2盆茶花被索赔5万",
-      "onboard_time": 1746128175,
-      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -569,6 +569,14 @@
       "onboard_time": 1746126915,
       "rank": 22,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 10490,
+      "num": 28551,
+      "word": "工作人员回应给游客撒蛤蜊",
+      "onboard_time": 1746130813,
+      "rank": 19,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
