@@ -1,0 +1,410 @@
+{
+  "runTime": 1746135423525,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 454791,
+        "num": 454791,
+        "word": "金价暴跌有人一夜亏47万",
+        "onboard_time": 1746118698,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 91944,
+        "num": 91944,
+        "word": "价值4.1亿画作展出时被小孩刮花",
+        "onboard_time": 1746110483,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 13044,
+        "num": 84704,
+        "word": "劳动者的手每一双都了不起",
+        "onboard_time": 1746104723,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81801,
+        "num": 81801,
+        "word": "gidle改名idle",
+        "onboard_time": 1746111142,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74149,
+        "num": 74149,
+        "word": "男内侍偷走日本皇室零花钱360万",
+        "onboard_time": 1746116661,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127874,
+        "num": 73910,
+        "word": "特朗普称美国孩子只能有2个玩具了",
+        "onboard_time": 1746107782,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 78791,
+        "num": 69937,
+        "word": "日本再现无差别杀人",
+        "onboard_time": 1746105143,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 65960,
+        "num": 65960,
+        "word": "董某外公为外籍院士米耀荣系谣言",
+        "onboard_time": 1746100761,
+        "rank": 7,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 51696,
+        "num": 51696,
+        "word": "马斯克被爆踢出局",
+        "onboard_time": 1746093021,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 10417,
+        "num": 48896,
+        "word": "热依扎演绎90后女航天员",
+        "onboard_time": 1746134835,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79737,
+        "num": 48479,
+        "word": "回忆专用小马甲道歉",
+        "onboard_time": 1746095240,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 61269,
+        "num": 47696,
+        "word": "董某莹1年拿规培证威胁患者安全",
+        "onboard_time": 1746092421,
+        "rank": 11,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 46902,
+        "num": 46902,
+        "word": "博物馆回应4.1亿元画作被小孩刮花",
+        "onboard_time": 1746113961,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45661,
+        "num": 45661,
+        "word": "彭昱畅这么帅了",
+        "onboard_time": 1746111023,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40728,
+        "num": 40728,
+        "word": "荣昌真的接住了泼天流量",
+        "onboard_time": 1746113182,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38683,
+        "num": 38683,
+        "word": "蓝莓肚脐眼里的霉菌",
+        "onboard_time": 1746085281,
+        "rank": 15,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 36427,
+        "num": 36427,
+        "word": "女生怒减50斤后的颜值变化",
+        "onboard_time": 1746110663,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 32107,
+        "num": 32107,
+        "word": "iG 0比21",
+        "onboard_time": 1746102023,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 31867,
+        "num": 31867,
+        "word": "你的指甲盖真像刘亦菲",
+        "onboard_time": 1746115882,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25252,
+        "num": 30398,
+        "word": "彭小苒说圈外网不好",
+        "onboard_time": 1746109582,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106022,
+        "num": 30269,
+        "word": "上海多方回应女子擦鼻涕纸扔进碗罐",
+        "onboard_time": 1746107003,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29812,
+        "num": 29812,
+        "word": "抗癌博主小花去世",
+        "onboard_time": 1746106762,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29176,
+        "num": 29176,
+        "word": "继母偷走爷爷留给孙女的8万元遗产",
+        "onboard_time": 1746109642,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27836,
+        "num": 27836,
+        "word": "金价",
+        "onboard_time": 1746119898,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 26936,
+        "num": 26936,
+        "word": "石凯说为演出吃鸭血粉丝汤没放辣油",
+        "onboard_time": 1746117919,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 26355,
+        "num": 26355,
+        "word": "国家卫健委启动最高层级医政调查",
+        "onboard_time": 1746084801,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25581,
+        "num": 25581,
+        "word": "金价大跌购买人数又上来了",
+        "onboard_time": 1746103942,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 25383,
+        "num": 25383,
+        "word": "难听",
+        "onboard_time": 1746084561,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 23181,
+        "num": 23181,
+        "word": "富家女因缺爱拒绝巨额家产",
+        "onboard_time": 1746095841,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21803,
+        "num": 22546,
+        "word": "赵露思辣妹红发",
+        "onboard_time": 1746105202,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 23274,
+        "num": 22533,
+        "word": "吃蓝莓前记得给它掏耳朵",
+        "onboard_time": 1746115580,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 22500,
+        "num": 22500,
+        "word": "日本皇室史上首次被偷生活费",
+        "onboard_time": 1746115642,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 22413,
+        "num": 22413,
+        "word": "这4类促炎食物要少吃",
+        "onboard_time": 1746109402,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 21893,
+        "num": 21893,
+        "word": "杨鸣说系列赛没法抗衡广厦",
+        "onboard_time": 1746118698,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20570,
+        "num": 20570,
+        "word": "男子200元卖2盆茶花被索赔5万",
+        "onboard_time": 1746128175,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19549,
+        "num": 19549,
+        "word": "日本皇室生活费被盗",
+        "onboard_time": 1746115040,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 19540,
+        "num": 19540,
+        "word": "石凯 音乐节",
+        "onboard_time": 1746093981,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 18850,
+        "num": 18850,
+        "word": "五一档首日上座率最高是哪吒2",
+        "onboard_time": 1746124456,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 18772,
+        "num": 18772,
+        "word": "鹿晗耳蜗钉",
+        "onboard_time": 1746100701,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18428,
+        "num": 18428,
+        "word": "赵丽颖云合断层第一",
+        "onboard_time": 1746108022,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17107,
+        "num": 17107,
+        "word": "重庆荣昌是真的宠游客",
+        "onboard_time": 1746132793,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17106,
+        "num": 17106,
+        "word": "才知道套被子可以这么轻松",
+        "onboard_time": 1746113662,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 16550,
+        "num": 17106,
+        "word": "孙恩盛直播",
+        "onboard_time": 1746127034,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16095,
+        "num": 17105,
+        "word": "半个娱乐圈都在大风杀",
+        "onboard_time": 1746101481,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 15286,
+        "num": 17104,
+        "word": "5月专属壁纸",
+        "onboard_time": 1746115161,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14044,
+        "num": 17103,
+        "word": "工作人员回应给游客撒蛤蜊",
+        "onboard_time": 1746130813,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13967,
+        "num": 17102,
+        "word": "劳动节快乐 祝我们劳有所得",
+        "onboard_time": 1746123495,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13792,
+        "num": 17101,
+        "word": "淮水竹亭热度",
+        "onboard_time": 1746104122,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13654,
+        "num": 17101,
+        "word": "苏新皓说真的给我跳爽了",
+        "onboard_time": 1746120498,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 13282,
+        "num": 17100,
+        "word": "撕拉片",
+        "onboard_time": 1746108623,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光的你#"
+    }
+  }
+}
