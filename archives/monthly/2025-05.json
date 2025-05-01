@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746117084529,
+  "endTime": 1746117988375,
   "band_list": [
     {
       "raw_hot": 2306655,
@@ -355,6 +355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 732362,
+      "num": 343691,
+      "word": "元气森林音乐节 迟到",
+      "onboard_time": 1746113422,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 716707,
       "num": 240860,
       "word": "唯一一个让高铁商务座亏钱的人",
@@ -377,14 +385,6 @@
       "onboard_time": 1746100701,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 707272,
-      "num": 343691,
-      "word": "元气森林音乐节 迟到",
-      "onboard_time": 1746113422,
-      "rank": 33,
-      "category": "演出"
     },
     {
       "raw_hot": 706317,
@@ -851,6 +851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 310526,
+      "num": 310526,
+      "word": "日本皇室生活费被盗",
+      "onboard_time": 1746115040,
+      "rank": 16,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 309477,
       "num": 309477,
       "word": "冲着月薪一万应聘九天到手一千",
@@ -1043,14 +1051,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 259323,
-      "num": 259323,
-      "word": "日本皇室生活费被盗",
-      "onboard_time": 1746115040,
-      "rank": 16,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 258032,
       "num": 258032,
       "word": "小米SU7Ultra限制1500匹马力",
@@ -1073,6 +1073,14 @@
       "onboard_time": 1746027921,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 254605,
+      "num": 254605,
+      "word": "你的指甲盖真像刘亦菲",
+      "onboard_time": 1746115882,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 252516,
@@ -1289,6 +1297,14 @@
       "onboard_time": 1746109402,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 206956,
+      "num": 315304,
+      "word": "男内侍偷走日本皇室零花钱360万",
+      "onboard_time": 1746116661,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 206454,
@@ -2051,14 +2067,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 155692,
-      "num": 155692,
-      "word": "你的指甲盖真像刘亦菲",
-      "onboard_time": 1746115882,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 154683,
       "num": 154683,
       "word": "东北姑娘带爸爸到杭州看病被震惊了",
@@ -2209,6 +2217,14 @@
       "onboard_time": 1746072620,
       "rank": 48,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 145873,
+      "num": 145873,
+      "word": "崔健 音乐节",
+      "onboard_time": 1746115100,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 145462,
@@ -2411,14 +2427,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 135104,
-      "num": 135104,
-      "word": "男内侍偷走日本皇室零花钱360万",
-      "onboard_time": 1746116661,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 134857,
       "num": 255144,
       "word": "肖战包场支持苍茫的天涯是我的爱",
@@ -2457,14 +2465,6 @@
       "onboard_time": 1746050775,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 134314,
-      "num": 143826,
-      "word": "崔健 音乐节",
-      "onboard_time": 1746115100,
-      "rank": 29,
-      "category": "演出"
     },
     {
       "raw_hot": 134074,
@@ -3171,6 +3171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 101288,
+      "num": 101288,
+      "word": "刘宇一首歌从大海唱到陆地",
+      "onboard_time": 1746116180,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101204,
       "num": 417193,
       "word": "水饺皇后为什么是她",
@@ -3299,14 +3307,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 89242,
-      "num": 89242,
-      "word": "刘宇一首歌从大海唱到陆地",
-      "onboard_time": 1746116180,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 86223,
       "num": 84320,
       "word": "饶毅教授曾批协和任人唯亲",
@@ -3411,6 +3411,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 76751,
+      "num": 76751,
+      "word": "杨鸣采访",
+      "onboard_time": 1746114141,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 76681,
       "num": 247700,
       "word": "五一档为何要选神印剧场版",
@@ -3425,6 +3433,14 @@
       "onboard_time": 1746079280,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 73721,
+      "num": 73721,
+      "word": "马丽老师就沈马组合发表重要讲话",
+      "onboard_time": 1746117680,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 73662,
@@ -3521,6 +3537,14 @@
       "onboard_time": 1746031219,
       "rank": 39,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 65793,
+      "num": 65793,
+      "word": "石凯说为演出吃鸭血粉丝汤没放辣油",
+      "onboard_time": 1746117919,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 64111,
