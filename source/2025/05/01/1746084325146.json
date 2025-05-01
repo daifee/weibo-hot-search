@@ -1,0 +1,410 @@
+{
+  "runTime": 1746084325146,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 910639,
+        "num": 1145702,
+        "word": "泰山山顶公厕挤满避寒的人",
+        "onboard_time": 1746075741,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 563693,
+        "num": 563693,
+        "word": "陈赫把黄磊做菜的黄酒倒光了",
+        "onboard_time": 1746072682,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22965,
+        "num": 532690,
+        "word": "我的追梦关键词",
+        "onboard_time": 1746075201,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 518977,
+        "num": 518977,
+        "word": "卫健委调查肖某董某",
+        "onboard_time": 1746059841,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 379828,
+        "num": 379828,
+        "word": "胡杏儿抽到黄宗泽的问题",
+        "onboard_time": 1746061400,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290468,
+        "num": 290468,
+        "word": "特朗普称经济萎缩都是拜登的错",
+        "onboard_time": 1746081081,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 311022,
+        "num": 290106,
+        "word": "迪丽热巴分享欲犯了",
+        "onboard_time": 1746078020,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284123,
+        "num": 284123,
+        "word": "樊振东晒全国先进工作者证书",
+        "onboard_time": 1746079820,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 281602,
+        "num": 281602,
+        "word": "杜华说百万年薪应该带脑子上班",
+        "onboard_time": 1746075502,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218997,
+        "num": 218997,
+        "word": "星巴克否认在搞饥饿营销",
+        "onboard_time": 1746064280,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1070406,
+        "num": 217911,
+        "word": "白鹿曾舜晞梁永棋陈鑫海一起去玩了",
+        "onboard_time": 1746081980,
+        "rank": 10,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 604310,
+        "num": 217452,
+        "word": "与董某论文雷同专利发明人含听障学生",
+        "onboard_time": 1746081801,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 526213,
+        "num": 216143,
+        "word": "灯牌",
+        "onboard_time": 1746080840,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 481825,
+        "num": 214458,
+        "word": "虞书欣换头像",
+        "onboard_time": 1746072981,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349686,
+        "num": 213113,
+        "word": "张新成疑似回应分手",
+        "onboard_time": 1746054798,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300360,
+        "num": 212006,
+        "word": "女子为蹭高速免费提前半个月出发",
+        "onboard_time": 1746072920,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 294519,
+        "num": 210312,
+        "word": "BLG官宣Beichuan加入",
+        "onboard_time": 1746082761,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 267358,
+        "num": 209149,
+        "word": "苏新皓红海",
+        "onboard_time": 1746081862,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 208867,
+        "num": 208867,
+        "word": "医生眼里的生理性喜欢",
+        "onboard_time": 1746070761,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 50293,
+        "num": 207539,
+        "word": "黄仁勋称美勿幻想AI领域速胜中国",
+        "onboard_time": 1746083302,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 333802,
+        "num": 207483,
+        "word": "金价连续跳水",
+        "onboard_time": 1746067520,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 207325,
+        "num": 207325,
+        "word": "陈奕迅20岁女儿身高",
+        "onboard_time": 1746083722,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204435,
+        "num": 204435,
+        "word": "白鹿一拖三",
+        "onboard_time": 1746083901,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197951,
+        "num": 197951,
+        "word": "华晨宇直播",
+        "onboard_time": 1746083722,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 197302,
+        "num": 197302,
+        "word": "北京会惩罚每个不做攻略的人",
+        "onboard_time": 1746082042,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 189951,
+        "num": 189951,
+        "word": "朱志鑫黄海",
+        "onboard_time": 1746083422,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 172442,
+        "num": 172442,
+        "word": "种地吧五一插秧日plive",
+        "onboard_time": 1746082883,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161177,
+        "num": 172324,
+        "word": "五一劳动节",
+        "onboard_time": 1746055458,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1942594,
+        "num": 171696,
+        "word": "北科大回应董袭莹论文雷同质疑",
+        "onboard_time": 1746080000,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134857,
+        "num": 171448,
+        "word": "肖战包场支持苍茫的天涯是我的爱",
+        "onboard_time": 1746083481,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 7792,
+        "num": 170802,
+        "word": "五一档新电影有哪些",
+        "onboard_time": 1746084142,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 199850,
+        "num": 170668,
+        "word": "董袭莹论文被指与北科专利多处雷同",
+        "onboard_time": 1746068300,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170258,
+        "num": 170258,
+        "word": "对肖某董某要零容忍彻查到底",
+        "onboard_time": 1746068899,
+        "rank": 32,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 169553,
+        "num": 169553,
+        "word": "鞠婧祎宣传淮水竹亭",
+        "onboard_time": 1746081681,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140806,
+        "num": 140806,
+        "word": "赵丽颖秦俊杰二搭",
+        "onboard_time": 1746072620,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140673,
+        "num": 140673,
+        "word": "谁给刘诗诗递一个恶女本",
+        "onboard_time": 1746081384,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139471,
+        "num": 139471,
+        "word": "丁禹兮 范思哲",
+        "onboard_time": 1746062361,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137818,
+        "num": 137818,
+        "word": "詹姆斯老了",
+        "onboard_time": 1746076701,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130711,
+        "num": 130711,
+        "word": "登陆少年演唱会",
+        "onboard_time": 1746077119,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 44761,
+        "num": 129967,
+        "word": "以色列火势",
+        "onboard_time": 1746083961,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 129595,
+        "num": 129595,
+        "word": "韩国代总统辞职",
+        "onboard_time": 1746084201,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 419822,
+        "num": 129271,
+        "word": "肖飞称对董医生的指控多是不实消息",
+        "onboard_time": 1746069320,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128546,
+        "num": 128546,
+        "word": "WBG晋级8强",
+        "onboard_time": 1746084021,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 38110,
+        "num": 124299,
+        "word": "詹姆斯下赛季还会在湖人吗",
+        "onboard_time": 1746082941,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121476,
+        "num": 121476,
+        "word": "柯淳新剧好一个乖乖狗",
+        "onboard_time": 1746073581,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119890,
+        "num": 119890,
+        "word": "赵丽颖配音表情也拉满",
+        "onboard_time": 1746078740,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 112320,
+        "num": 112320,
+        "word": "国家卫健委对肖某引发舆情问题开展调查",
+        "onboard_time": 1746060381,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110930,
+        "num": 110930,
+        "word": "种地吧",
+        "onboard_time": 1746084260,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107196,
+        "num": 107196,
+        "word": "五一青岛栈桥人从众",
+        "onboard_time": 1746083182,
+        "rank": 48,
+        "category": "旅游,民生新闻"
+      },
+      {
+        "raw_hot": 107797,
+        "num": 107123,
+        "word": "央视五一晚会阵容",
+        "onboard_time": 1746078501,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展的根本是造福人民#"
+    }
+  }
+}

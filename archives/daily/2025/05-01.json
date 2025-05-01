@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746082131896,
+  "endTime": 1746084325146,
   "band_list": [
     {
       "raw_hot": 2018686,
@@ -89,6 +89,14 @@
       "onboard_time": 1746072682,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1070406,
+      "num": 217911,
+      "word": "白鹿曾舜晞梁永棋陈鑫海一起去玩了",
+      "onboard_time": 1746081980,
+      "rank": 35,
+      "category": "艺人,综艺"
     },
     {
       "raw_hot": 1044905,
@@ -227,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 604310,
+      "num": 217452,
+      "word": "与董某论文雷同专利发明人含听障学生",
+      "onboard_time": 1746081801,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 586960,
       "num": 185784,
       "word": "肖飞称已提供相关证据至监督部门",
@@ -283,6 +299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 526213,
+      "num": 230454,
+      "word": "灯牌",
+      "onboard_time": 1746080840,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 498325,
       "num": 498325,
       "word": "饶毅称4加4适合协和且可推广",
@@ -321,14 +345,6 @@
       "onboard_time": 1746018743,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 424912,
-      "num": 230454,
-      "word": "灯牌",
-      "onboard_time": 1746080840,
-      "rank": 22,
-      "category": "演出"
     },
     {
       "raw_hot": 408154,
@@ -483,12 +499,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 294519,
+      "num": 210312,
+      "word": "BLG官宣Beichuan加入",
+      "onboard_time": 1746082761,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 291232,
       "num": 216183,
       "word": "女大学生旱厕捞手机掉化粪池溺亡",
       "onboard_time": 1746012682,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 290468,
+      "num": 290468,
+      "word": "特朗普称经济萎缩都是拜登的错",
+      "onboard_time": 1746081081,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 289516,
@@ -529,6 +561,14 @@
       "onboard_time": 1746076701,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 267358,
+      "num": 209149,
+      "word": "苏新皓红海",
+      "onboard_time": 1746081862,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 266770,
@@ -627,12 +667,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 207325,
+      "num": 207325,
+      "word": "陈奕迅20岁女儿身高",
+      "onboard_time": 1746083722,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206454,
       "num": 206454,
       "word": "鞠婧祎宣传淮水竹亭",
       "onboard_time": 1746081681,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204435,
+      "num": 204435,
+      "word": "白鹿一拖三",
+      "onboard_time": 1746083901,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 200686,
@@ -675,12 +731,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 197951,
+      "num": 197951,
+      "word": "华晨宇直播",
+      "onboard_time": 1746083722,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 197775,
       "num": 197775,
       "word": "迪丽热巴的五月行程图",
       "onboard_time": 1746077480,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197302,
+      "num": 197302,
+      "word": "北京会惩罚每个不做攻略的人",
+      "onboard_time": 1746082042,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 196524,
@@ -737,6 +809,14 @@
       "onboard_time": 1746079582,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189951,
+      "num": 189951,
+      "word": "朱志鑫黄海",
+      "onboard_time": 1746083422,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 188119,
@@ -827,14 +907,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 179292,
-      "num": 179292,
-      "word": "与董某论文雷同专利发明人含听障学生",
-      "onboard_time": 1746081801,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 174319,
       "num": 170531,
       "word": "有协和4加4博士论文正文仅12页",
@@ -843,20 +915,20 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 172442,
+      "num": 172442,
+      "word": "种地吧五一插秧日plive",
+      "onboard_time": 1746082883,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171777,
       "num": 171777,
       "word": "易烊千玺网站更新",
       "onboard_time": 1746057319,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 171662,
-      "num": 171662,
-      "word": "苏新皓红海",
-      "onboard_time": 1746081862,
-      "rank": 34,
-      "category": "演出"
     },
     {
       "raw_hot": 171541,
@@ -905,14 +977,6 @@
       "onboard_time": 1746072920,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 164059,
-      "num": 164059,
-      "word": "白鹿曾舜晞梁永棋陈鑫海一起去玩了",
-      "onboard_time": 1746081980,
-      "rank": 35,
-      "category": "艺人,综艺"
     },
     {
       "raw_hot": 162933,
@@ -1171,6 +1235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134857,
+      "num": 171448,
+      "word": "肖战包场支持苍茫的天涯是我的爱",
+      "onboard_time": 1746083481,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 134850,
       "num": 134850,
       "word": "这才是我想要的五一出游搭子",
@@ -1251,6 +1323,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 129595,
+      "num": 129595,
+      "word": "韩国代总统辞职",
+      "onboard_time": 1746084201,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 128546,
+      "num": 128546,
+      "word": "WBG晋级8强",
+      "onboard_time": 1746084021,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 128193,
       "num": 220843,
       "word": "普通医学生培养时间能合理缩短吗",
@@ -1329,14 +1417,6 @@
       "onboard_time": 1746081801,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 123423,
-      "num": 228613,
-      "word": "特朗普称经济萎缩都是拜登的错",
-      "onboard_time": 1746081081,
-      "rank": 25,
-      "category": "国际时政"
     },
     {
       "raw_hot": 123233,
@@ -1443,6 +1523,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 110930,
+      "num": 110930,
+      "word": "种地吧",
+      "onboard_time": 1746084260,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110772,
       "num": 110772,
       "word": "毕夏张恒远",
@@ -1507,14 +1595,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 108717,
-      "num": 108717,
-      "word": "北京会惩罚每个不做攻略的人",
-      "onboard_time": 1746082042,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 108091,
       "num": 108091,
       "word": "大家减肥都是越减越癫的",
@@ -1545,6 +1625,14 @@
       "onboard_time": 1746008483,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107196,
+      "num": 107196,
+      "word": "五一青岛栈桥人从众",
+      "onboard_time": 1746083182,
+      "rank": 48,
+      "category": "旅游,民生新闻"
     },
     {
       "raw_hot": 105637,
@@ -1819,6 +1907,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 50293,
+      "num": 207539,
+      "word": "黄仁勋称美勿幻想AI领域速胜中国",
+      "onboard_time": 1746083302,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 49973,
       "num": 313408,
       "word": "太空之路被中国人走成了星际高铁",
@@ -1849,6 +1945,14 @@
       "onboard_time": 1746056058,
       "rank": 18,
       "category": "国际时政,财经"
+    },
+    {
+      "raw_hot": 44761,
+      "num": 129967,
+      "word": "以色列火势",
+      "onboard_time": 1746083961,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 44215,
@@ -1921,6 +2025,14 @@
       "onboard_time": 1746033079,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38110,
+      "num": 124299,
+      "word": "詹姆斯下赛季还会在湖人吗",
+      "onboard_time": 1746082941,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 36790,
@@ -2097,6 +2209,14 @@
       "onboard_time": 1746054917,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 7792,
+      "num": 170802,
+      "word": "五一档新电影有哪些",
+      "onboard_time": 1746084142,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 7401,
