@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746109387658,
+  "endTime": 1746110436060,
   "band_list": [
     {
       "raw_hot": 2113961,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 1339493,
-      "num": 742413,
+      "num": 760327,
       "word": "特朗普称美国孩子只能有2个玩具了",
       "onboard_time": 1746107782,
       "rank": 5,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 1062049,
-      "num": 457432,
+      "num": 498043,
       "word": "董某莹1年拿规培证威胁患者安全",
       "onboard_time": 1746092421,
       "rank": 12,
@@ -315,6 +315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 756392,
+      "num": 756392,
+      "word": "抗癌博主小花去世",
+      "onboard_time": 1746106762,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 753739,
       "num": 143919,
       "word": "协和医学院董某莹事件最新进展",
@@ -393,14 +401,6 @@
       "onboard_time": 1746064641,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 632953,
-      "num": 632953,
-      "word": "抗癌博主小花去世",
-      "onboard_time": 1746106762,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 631882,
@@ -747,6 +747,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 330660,
+      "num": 452431,
+      "word": "上海多方回应女子擦鼻涕纸扔进碗罐",
+      "onboard_time": 1746107003,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 330360,
       "num": 330360,
       "word": "特朗普称经济萎缩都是拜登的错",
@@ -825,14 +833,6 @@
       "onboard_time": 1746081862,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 303757,
-      "num": 452431,
-      "word": "上海多方回应女子擦鼻涕纸扔进碗罐",
-      "onboard_time": 1746107003,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 303476,
@@ -987,12 +987,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 256864,
+      "num": 425685,
+      "word": "蒋胜男提案获立法采纳",
+      "onboard_time": 1746108144,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 255345,
       "num": 255345,
       "word": "2025多哈世乒赛",
       "onboard_time": 1746027921,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 252516,
+      "num": 365787,
+      "word": "出嫁不是剥夺女性土地权益的理由",
+      "onboard_time": 1746108144,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 250115,
@@ -1163,6 +1179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209409,
+      "num": 209409,
+      "word": "SEVENTEEN十周年",
+      "onboard_time": 1746109943,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 209019,
       "num": 301159,
       "word": "等你的回答",
@@ -1217,6 +1241,14 @@
       "onboard_time": 1746088582,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 202070,
+      "num": 202070,
+      "word": "彭小苒说圈外网不好",
+      "onboard_time": 1746109582,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 200686,
@@ -1307,6 +1339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 196857,
+      "num": 196857,
+      "word": "这4类促炎食物要少吃",
+      "onboard_time": 1746109402,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 196524,
       "num": 196524,
       "word": "留学生翻译爽文小说把老外爽到了",
@@ -1353,6 +1393,14 @@
       "onboard_time": 1746087081,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 193675,
+      "num": 193675,
+      "word": "LoverBoy88一响白月光登场",
+      "onboard_time": 1746108982,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 193568,
@@ -1435,6 +1483,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 189533,
+      "num": 189533,
+      "word": "苏迪曼杯抽签",
+      "onboard_time": 1746109763,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189423,
       "num": 189423,
       "word": "找到女性职场乌托邦了",
@@ -1473,14 +1529,6 @@
       "onboard_time": 1746075141,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 186650,
-      "num": 186650,
-      "word": "LoverBoy88一响白月光登场",
-      "onboard_time": 1746108982,
-      "rank": 36,
-      "category": "演出"
     },
     {
       "raw_hot": 186589,
@@ -2075,6 +2123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141110,
+      "num": 141110,
+      "word": "柯洁还没提小米汽车",
+      "onboard_time": 1746110182,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140924,
       "num": 140924,
       "word": "杨超越急得踹了徐志胜一脚",
@@ -2113,14 +2169,6 @@
       "onboard_time": 1746094221,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 138294,
-      "num": 425685,
-      "word": "蒋胜男提案获立法采纳",
-      "onboard_time": 1746108144,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 138185,
@@ -2243,6 +2291,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 133772,
+      "num": 331350,
+      "word": "女孩想退学的原因太真实了",
+      "onboard_time": 1746107544,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 132813,
       "num": 132813,
       "word": "吃席现在汉堡都算一个菜了",
@@ -2273,6 +2329,14 @@
       "onboard_time": 1746071300,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 132178,
+      "num": 132178,
+      "word": "BWF",
+      "onboard_time": 1746109464,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 132096,
@@ -2321,6 +2385,14 @@
       "onboard_time": 1746088881,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130918,
+      "num": 405848,
+      "word": "继母偷走爷爷留给孙女的8万元遗产",
+      "onboard_time": 1746109642,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130732,
@@ -2539,11 +2611,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 119864,
-      "num": 365787,
-      "word": "出嫁不是剥夺女性土地权益的理由",
-      "onboard_time": 1746108144,
-      "rank": 19,
+      "raw_hot": 119399,
+      "num": 501404,
+      "word": "五一假期被景区三件套包圆了",
+      "onboard_time": 1746109402,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -3075,6 +3147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78855,
+      "num": 253695,
+      "word": "金价跌破千元大关",
+      "onboard_time": 1746110063,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78270,
       "num": 78270,
       "word": "美方多渠道主动接触中方希望谈关税",
@@ -3371,20 +3451,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45428,
+      "num": 1370542,
+      "word": "一人一句致敬劳动者",
+      "onboard_time": 1746106342,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45294,
       "num": 180659,
       "word": "乌美矿产协议关键细节曝光",
       "onboard_time": 1746098421,
       "rank": 34,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 45148,
-      "num": 1370542,
-      "word": "一人一句致敬劳动者",
-      "onboard_time": 1746106342,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 44215,
