@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746088343538,
+  "endTime": 1746089143703,
   "band_list": [
     {
       "raw_hot": 2018686,
@@ -17,6 +17,14 @@
       "onboard_time": 1746084561,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1665852,
+      "num": 1665852,
+      "word": "蓝莓肚脐眼里的霉菌",
+      "onboard_time": 1746085281,
+      "rank": 0,
+      "category": "科学科普"
     },
     {
       "raw_hot": 1639087,
@@ -41,14 +49,6 @@
       "onboard_time": 1746064760,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1535641,
-      "num": 1535641,
-      "word": "蓝莓肚脐眼里的霉菌",
-      "onboard_time": 1746085281,
-      "rank": 0,
-      "category": "科学科普"
     },
     {
       "raw_hot": 1512910,
@@ -177,6 +177,14 @@
       "onboard_time": 1746070341,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 757736,
+      "num": 270104,
+      "word": "98年女孩做陪诊师曾月入10万",
+      "onboard_time": 1746087800,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 753739,
@@ -507,6 +515,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 316551,
+      "num": 298146,
+      "word": "陈奕迅20岁女儿身高",
+      "onboard_time": 1746083722,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 316301,
       "num": 223636,
       "word": "TF家族空降",
@@ -521,14 +537,6 @@
       "onboard_time": 1746020363,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 312508,
-      "num": 298146,
-      "word": "陈奕迅20岁女儿身高",
-      "onboard_time": 1746083722,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 309477,
@@ -561,6 +569,14 @@
       "onboard_time": 1746021984,
       "rank": 33,
       "category": "教育"
+    },
+    {
+      "raw_hot": 298177,
+      "num": 273846,
+      "word": "鞠婧祎喊刘诗诗姐姐",
+      "onboard_time": 1746085161,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 297281,
@@ -619,28 +635,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 273846,
-      "num": 273846,
-      "word": "鞠婧祎喊刘诗诗姐姐",
-      "onboard_time": 1746085161,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 272089,
       "num": 272089,
       "word": "赵丽颖短发杀青照",
       "onboard_time": 1746065659,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 270104,
-      "num": 270104,
-      "word": "98年女孩做陪诊师曾月入10万",
-      "onboard_time": 1746087800,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 267966,
@@ -739,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 217542,
+      "num": 217542,
+      "word": "燕尾蝶",
+      "onboard_time": 1746088041,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 217081,
       "num": 217081,
       "word": "苏新皓solo",
@@ -763,12 +771,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 207209,
+      "num": 207209,
+      "word": "枭起青壤",
+      "onboard_time": 1746088102,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206454,
       "num": 206454,
       "word": "鞠婧祎宣传淮水竹亭",
       "onboard_time": 1746081681,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205667,
+      "num": 205667,
+      "word": "现在的德华已经不怕带娃了",
+      "onboard_time": 1746089061,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 202636,
+      "num": 202636,
+      "word": "翔霖",
+      "onboard_time": 1746088582,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 200824,
@@ -835,6 +867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197323,
+      "num": 197323,
+      "word": "张泽禹簪花look",
+      "onboard_time": 1746089120,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 197302,
       "num": 197302,
       "word": "北京会惩罚每个不做攻略的人",
@@ -844,7 +884,7 @@
     },
     {
       "raw_hot": 196915,
-      "num": 169744,
+      "num": 194500,
       "word": "喂 是水果反诈中心吗",
       "onboard_time": 1746086961,
       "rank": 31,
@@ -1099,14 +1139,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 167934,
-      "num": 167934,
-      "word": "枭起青壤",
-      "onboard_time": 1746088102,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 167826,
       "num": 167826,
       "word": "央视五一晚会阵容",
@@ -1153,6 +1185,14 @@
       "onboard_time": 1746068421,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 161816,
+      "num": 161816,
+      "word": "泰山陪爬小伙忙疯了也赚疯了",
+      "onboard_time": 1746088163,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 161475,
@@ -1259,14 +1299,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 146527,
-      "num": 146527,
-      "word": "燕尾蝶",
-      "onboard_time": 1746088041,
-      "rank": 42,
-      "category": "演出"
-    },
-    {
       "raw_hot": 146514,
       "num": 342718,
       "word": "yeri签约新公司",
@@ -1371,14 +1403,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 139317,
-      "num": 139317,
-      "word": "泰山陪爬小伙忙疯了也赚疯了",
-      "onboard_time": 1746088163,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 139280,
       "num": 194353,
       "word": "第五人格赛事",
@@ -1409,6 +1433,14 @@
       "onboard_time": 1746078981,
       "rank": 43,
       "category": "民生新闻,旅游"
+    },
+    {
+      "raw_hot": 137661,
+      "num": 137661,
+      "word": "周柯宇金发撕漫男",
+      "onboard_time": 1746088820,
+      "rank": 38,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 137414,
@@ -1523,6 +1555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 131060,
+      "num": 131060,
+      "word": "武艺送小鬼上班",
+      "onboard_time": 1746088881,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130732,
       "num": 250277,
       "word": "乌美矿产协议里写资源均归乌方",
@@ -1537,6 +1577,14 @@
       "onboard_time": 1746075741,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 128463,
+      "num": 128463,
+      "word": "协和医学院校长4加4毕业典礼发言",
+      "onboard_time": 1746089001,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128193,
@@ -1601,6 +1649,14 @@
       "onboard_time": 1746015442,
       "rank": 43,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 123644,
+      "num": 127142,
+      "word": "NIP官宣Solokill加入",
+      "onboard_time": 1746088462,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 123563,
@@ -1964,7 +2020,7 @@
     },
     {
       "raw_hot": 85661,
-      "num": 193903,
+      "num": 212346,
       "word": "张云龙又搞突袭直播",
       "onboard_time": 1746087800,
       "rank": 23,
@@ -2395,6 +2451,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 18342,
+      "num": 137346,
+      "word": "沙县小吃为什么没人吃了",
+      "onboard_time": 1746088700,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18091,
       "num": 231868,
       "word": "五一假期如何避堵",
@@ -2473,6 +2537,14 @@
       "onboard_time": 1746084142,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 11640,
+      "num": 203028,
+      "word": "自驾出游高海拔地区有哪些注意事项",
+      "onboard_time": 1746088881,
+      "rank": 24,
+      "category": "旅游"
     },
     {
       "raw_hot": 7401,

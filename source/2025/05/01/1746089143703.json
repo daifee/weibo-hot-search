@@ -1,0 +1,410 @@
+{
+  "runTime": 1746089143703,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1665852,
+        "num": 1665852,
+        "word": "蓝莓肚脐眼里的霉菌",
+        "onboard_time": 1746085281,
+        "rank": 0,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 587280,
+        "num": 587280,
+        "word": "卫健委调查肖某董某",
+        "onboard_time": 1746059841,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23621,
+        "num": 436631,
+        "word": "我的追梦关键词",
+        "onboard_time": 1746075201,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 802580,
+        "num": 433375,
+        "word": "白鹿一拖三",
+        "onboard_time": 1746083901,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 428057,
+        "num": 428057,
+        "word": "泰山山顶公厕挤满避寒的人",
+        "onboard_time": 1746075741,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 369020,
+        "num": 369020,
+        "word": "朱志鑫簪花",
+        "onboard_time": 1746086662,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 352890,
+        "num": 352890,
+        "word": "左航耳返",
+        "onboard_time": 1746085881,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 327539,
+        "num": 327539,
+        "word": "陈赫把黄磊做菜的黄酒倒光了",
+        "onboard_time": 1746072682,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287938,
+        "num": 287938,
+        "word": "韩国代总统辞职",
+        "onboard_time": 1746084201,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 257263,
+        "num": 257263,
+        "word": "河南一生物公司发生爆炸1死3人伤",
+        "onboard_time": 1746085881,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1773681,
+        "num": 257134,
+        "word": "难听",
+        "onboard_time": 1746084561,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1183681,
+        "num": 256893,
+        "word": "国家卫健委启动最高层级医政调查",
+        "onboard_time": 1746084801,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 757736,
+        "num": 256339,
+        "word": "98年女孩做陪诊师曾月入10万",
+        "onboard_time": 1746087800,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 517285,
+        "num": 256232,
+        "word": "虞书欣换头像",
+        "onboard_time": 1746072981,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355257,
+        "num": 255639,
+        "word": "白鹿曾舜晞梁永棋陈鑫海一起去玩了",
+        "onboard_time": 1746081980,
+        "rank": 14,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 316551,
+        "num": 255505,
+        "word": "陈奕迅20岁女儿身高",
+        "onboard_time": 1746083722,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298177,
+        "num": 255013,
+        "word": "鞠婧祎喊刘诗诗姐姐",
+        "onboard_time": 1746085161,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254935,
+        "num": 254935,
+        "word": "女子为蹭高速免费提前半个月出发",
+        "onboard_time": 1746072920,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217542,
+        "num": 217542,
+        "word": "燕尾蝶",
+        "onboard_time": 1746088041,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 74434,
+        "num": 212346,
+        "word": "张云龙又搞突袭直播",
+        "onboard_time": 1746087800,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207209,
+        "num": 207209,
+        "word": "枭起青壤",
+        "onboard_time": 1746088102,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206699,
+        "num": 206699,
+        "word": "苏新皓solo",
+        "onboard_time": 1746084801,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 205667,
+        "num": 205667,
+        "word": "现在的德华已经不怕带娃了",
+        "onboard_time": 1746089061,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 203467,
+        "num": 203467,
+        "word": "卫健委亮剑调查肖董事件期待公正通报",
+        "onboard_time": 1746071661,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11640,
+        "num": 203028,
+        "word": "自驾出游高海拔地区有哪些注意事项",
+        "onboard_time": 1746088881,
+        "rank": 24,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 202636,
+        "num": 202636,
+        "word": "翔霖",
+        "onboard_time": 1746088582,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 197323,
+        "num": 197323,
+        "word": "张泽禹簪花look",
+        "onboard_time": 1746089120,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 194500,
+        "num": 194500,
+        "word": "喂 是水果反诈中心吗",
+        "onboard_time": 1746086961,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185398,
+        "num": 185398,
+        "word": "星巴克否认在搞饥饿营销",
+        "onboard_time": 1746064280,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161816,
+        "num": 161816,
+        "word": "泰山陪爬小伙忙疯了也赚疯了",
+        "onboard_time": 1746088163,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49129,
+        "num": 159682,
+        "word": "WBG晋级8强",
+        "onboard_time": 1746084021,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 987990,
+        "num": 154141,
+        "word": "北科大回应董袭莹论文雷同质疑",
+        "onboard_time": 1746080000,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195156,
+        "num": 150341,
+        "word": "朱苏",
+        "onboard_time": 1746087502,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 295344,
+        "num": 145562,
+        "word": "与董某论文雷同专利发明人含听障学生",
+        "onboard_time": 1746081801,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145543,
+        "num": 145543,
+        "word": "BLG官宣Beichuan加入",
+        "onboard_time": 1746082761,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 144268,
+        "num": 144268,
+        "word": "五一劳动节",
+        "onboard_time": 1746055458,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142423,
+        "num": 142423,
+        "word": "张极灯牌",
+        "onboard_time": 1746085522,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 138008,
+        "num": 138008,
+        "word": "樊振东曾一天四练",
+        "onboard_time": 1746086840,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137661,
+        "num": 137661,
+        "word": "周柯宇金发撕漫男",
+        "onboard_time": 1746088820,
+        "rank": 38,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 18342,
+        "num": 137346,
+        "word": "沙县小吃为什么没人吃了",
+        "onboard_time": 1746088700,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130093,
+        "num": 137158,
+        "word": "管乐侯佩岑撒娇女人最好命",
+        "onboard_time": 1746087740,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137157,
+        "num": 137157,
+        "word": "知道五一人多但没想到人这么多",
+        "onboard_time": 1746087561,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131060,
+        "num": 131060,
+        "word": "武艺送小鬼上班",
+        "onboard_time": 1746088881,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130756,
+        "num": 130756,
+        "word": "张凌赫麻烦麻烦不就产生感情了吗",
+        "onboard_time": 1746085881,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128463,
+        "num": 128463,
+        "word": "协和医学院校长4加4毕业典礼发言",
+        "onboard_time": 1746089001,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123644,
+        "num": 127142,
+        "word": "NIP官宣Solokill加入",
+        "onboard_time": 1746088462,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 126269,
+        "num": 126269,
+        "word": "张新成疑似回应分手",
+        "onboard_time": 1746054798,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126180,
+        "num": 126180,
+        "word": "特朗普称经济萎缩都是拜登的错",
+        "onboard_time": 1746081081,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 121459,
+        "num": 121459,
+        "word": "被短剧妆造卷到了",
+        "onboard_time": 1746085342,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121342,
+        "num": 121342,
+        "word": "灯牌",
+        "onboard_time": 1746080840,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平祝大家五一劳动节快乐#"
+    }
+  }
+}
