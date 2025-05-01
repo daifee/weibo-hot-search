@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1746084325146,
+  "endTime": 1746085079655,
   "band_list": [
     {
       "raw_hot": 8960529,
@@ -892,7 +892,7 @@
     },
     {
       "raw_hot": 1070406,
-      "num": 217911,
+      "num": 256611,
       "word": "白鹿曾舜晞梁永棋陈鑫海一起去玩了",
       "onboard_time": 1746081980,
       "rank": 35,
@@ -1988,7 +1988,7 @@
     },
     {
       "raw_hot": 604310,
-      "num": 217452,
+      "num": 255939,
       "word": "与董某论文雷同专利发明人含听障学生",
       "onboard_time": 1746081801,
       "rank": 29,
@@ -2113,6 +2113,14 @@
       "onboard_time": 1746026663,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 581293,
+      "num": 581293,
+      "word": "白鹿一拖三",
+      "onboard_time": 1746083901,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 577010,
@@ -2387,6 +2395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 533978,
+      "num": 256484,
+      "word": "灯牌",
+      "onboard_time": 1746080840,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 530065,
       "num": 530065,
       "word": "男子偷渡到缅甸想当打手却成狗推",
@@ -2401,14 +2417,6 @@
       "onboard_time": 1745732062,
       "rank": 24,
       "category": "美食"
-    },
-    {
-      "raw_hot": 526213,
-      "num": 230454,
-      "word": "灯牌",
-      "onboard_time": 1746080840,
-      "rank": 22,
-      "category": "演出"
     },
     {
       "raw_hot": 524962,
@@ -3611,6 +3619,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 343871,
+      "num": 254620,
+      "word": "难听",
+      "onboard_time": 1746084561,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 343517,
       "num": 258390,
       "word": "吴宣仪新剧刁蛮公主再现",
@@ -3713,6 +3729,14 @@
       "onboard_time": 1745900363,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 330360,
+      "num": 330360,
+      "word": "特朗普称经济萎缩都是拜登的错",
+      "onboard_time": 1746081081,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 330154,
@@ -3867,6 +3891,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 312508,
+      "num": 252894,
+      "word": "陈奕迅20岁女儿身高",
+      "onboard_time": 1746083722,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 312078,
       "num": 289933,
       "word": "减肥教材不贵 只要一句刘烨好帅",
@@ -3953,6 +3985,14 @@
       "onboard_time": 1745926282,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 306092,
+      "num": 306092,
+      "word": "苏新皓红海",
+      "onboard_time": 1746081862,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 305611,
@@ -4140,7 +4180,7 @@
     },
     {
       "raw_hot": 294519,
-      "num": 210312,
+      "num": 252195,
       "word": "BLG官宣Beichuan加入",
       "onboard_time": 1746082761,
       "rank": 16,
@@ -4169,14 +4209,6 @@
       "onboard_time": 1745973982,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 290468,
-      "num": 290468,
-      "word": "特朗普称经济萎缩都是拜登的错",
-      "onboard_time": 1746081081,
-      "rank": 25,
-      "category": "国际时政"
     },
     {
       "raw_hot": 290040,
@@ -4529,14 +4561,6 @@
       "onboard_time": 1745758582,
       "rank": 47,
       "category": "网红"
-    },
-    {
-      "raw_hot": 267358,
-      "num": 209149,
-      "word": "苏新皓红海",
-      "onboard_time": 1746081862,
-      "rank": 34,
-      "category": "演出"
     },
     {
       "raw_hot": 266931,
@@ -5137,6 +5161,14 @@
       "onboard_time": 1745842102,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 236162,
+      "num": 256744,
+      "word": "韩国代总统辞职",
+      "onboard_time": 1746084201,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 235809,
@@ -5819,14 +5851,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 207325,
-      "num": 207325,
-      "word": "陈奕迅20岁女儿身高",
-      "onboard_time": 1746083722,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 207276,
       "num": 207276,
       "word": "十三州府",
@@ -5985,14 +6009,6 @@
       "onboard_time": 1745989885,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 204435,
-      "num": 204435,
-      "word": "白鹿一拖三",
-      "onboard_time": 1746083901,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 204411,
@@ -6356,7 +6372,7 @@
     },
     {
       "raw_hot": 197951,
-      "num": 197951,
+      "num": 253553,
       "word": "华晨宇直播",
       "onboard_time": 1746083722,
       "rank": 23,
@@ -6811,6 +6827,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 189902,
+      "num": 189902,
+      "word": "敖瑞鹏上一秒25岁下一秒29岁",
+      "onboard_time": 1746084561,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189776,
       "num": 357418,
       "word": "领克900重新定义家庭大六座标准",
@@ -6961,6 +6985,14 @@
       "onboard_time": 1745731404,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 188471,
+      "num": 188471,
+      "word": "WBG晋级8强",
+      "onboard_time": 1746084021,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 188428,
@@ -7915,6 +7947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 167034,
+      "num": 167034,
+      "word": "极禹",
+      "onboard_time": 1746084561,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166912,
       "num": 166912,
       "word": "陈少熙王者",
@@ -8235,6 +8275,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 161623,
+      "num": 161623,
+      "word": "苏新皓solo",
+      "onboard_time": 1746084801,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 161533,
       "num": 161533,
       "word": "新手机要撕掉原厂膜吗",
@@ -8393,6 +8441,14 @@
       "onboard_time": 1745824403,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159921,
+      "num": 159921,
+      "word": "张泽禹绿海",
+      "onboard_time": 1746084383,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 159764,
@@ -9539,6 +9595,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 142772,
+      "num": 142772,
+      "word": "凉拌水母",
+      "onboard_time": 1746083302,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
       "raw_hot": 142746,
       "num": 228491,
       "word": "哥大本科和巴纳德学院疑无此人",
@@ -10108,7 +10172,7 @@
     },
     {
       "raw_hot": 134857,
-      "num": 171448,
+      "num": 255144,
       "word": "肖战包场支持苍茫的天涯是我的爱",
       "onboard_time": 1746083481,
       "rank": 29,
@@ -10411,14 +10475,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 129595,
-      "num": 129595,
-      "word": "韩国代总统辞职",
-      "onboard_time": 1746084201,
-      "rank": 40,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 129540,
       "num": 129540,
       "word": "晚睡晚起和早睡早起有什么区别",
@@ -10465,14 +10521,6 @@
       "onboard_time": 1745844442,
       "rank": 45,
       "category": "数码,互联网"
-    },
-    {
-      "raw_hot": 128546,
-      "num": 128546,
-      "word": "WBG晋级8强",
-      "onboard_time": 1746084021,
-      "rank": 42,
-      "category": "电竞"
     },
     {
       "raw_hot": 128385,
@@ -11513,6 +11561,14 @@
       "onboard_time": 1745819242,
       "rank": 44,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 110382,
+      "num": 110382,
+      "word": "张康乐营业",
+      "onboard_time": 1746084983,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 110355,
@@ -13699,6 +13755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69161,
+      "num": 147661,
+      "word": "以色列火势",
+      "onboard_time": 1746083961,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 68673,
       "num": 68673,
       "word": "周思成称考雅思不上8分退圈",
@@ -14267,6 +14331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 53369,
+      "num": 254337,
+      "word": "国家卫健委启动最高层级医政调查",
+      "onboard_time": 1746084801,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53326,
       "num": 271848,
       "word": "坚持一个月9点前睡皮肤有什么变化",
@@ -14625,14 +14697,6 @@
       "onboard_time": 1745910502,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 44761,
-      "num": 129967,
-      "word": "以色列火势",
-      "onboard_time": 1746083961,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 44741,
@@ -15587,6 +15651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27894,
+      "num": 770059,
+      "word": "我的追梦关键词",
+      "onboard_time": 1746075201,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27845,
       "num": 415589,
       "word": "五一出游购物该如何巧妙避坑",
@@ -15688,14 +15760,6 @@
       "word": "5旬男子喝野菌汤进ICU抢救16天",
       "onboard_time": 1745904562,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 26227,
-      "num": 770059,
-      "word": "我的追梦关键词",
-      "onboard_time": 1746075201,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -16787,6 +16851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 11897,
+      "num": 253895,
+      "word": "五一档新电影有哪些",
+      "onboard_time": 1746084142,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 11807,
       "num": 205570,
       "word": "术者突遇不适该怎么办",
@@ -16969,14 +17041,6 @@
       "onboard_time": 1745934083,
       "rank": 39,
       "category": "财经,民生新闻"
-    },
-    {
-      "raw_hot": 7792,
-      "num": 170802,
-      "word": "五一档新电影有哪些",
-      "onboard_time": 1746084142,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 7784,
