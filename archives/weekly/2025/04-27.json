@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1746099385963,
+  "endTime": 1746103669854,
   "band_list": [
     {
       "raw_hot": 8960529,
@@ -268,7 +268,7 @@
     },
     {
       "raw_hot": 1875675,
-      "num": 372875,
+      "num": 398496,
       "word": "难听",
       "onboard_time": 1746084561,
       "rank": 17,
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 1786906,
-      "num": 392376,
+      "num": 476737,
       "word": "张雪峰说学医的天亮了",
       "onboard_time": 1746096020,
       "rank": 36,
@@ -337,6 +337,14 @@
       "onboard_time": 1746013221,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1740031,
+      "num": 1740031,
+      "word": "董某外公为外籍院士米耀荣系谣言",
+      "onboard_time": 1746100761,
+      "rank": 0,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 1737517,
@@ -964,7 +972,7 @@
     },
     {
       "raw_hot": 1062049,
-      "num": 376726,
+      "num": 421867,
       "word": "董某莹1年拿规培证威胁患者安全",
       "onboard_time": 1746092421,
       "rank": 12,
@@ -1129,6 +1137,22 @@
       "onboard_time": 1746062841,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 932113,
+      "num": 932113,
+      "word": "赵露思音乐节",
+      "onboard_time": 1746097461,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 922099,
+      "num": 477672,
+      "word": "回忆专用小马甲道歉",
+      "onboard_time": 1746095240,
+      "rank": 48,
+      "category": "网红"
     },
     {
       "raw_hot": 922075,
@@ -1619,6 +1643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 722384,
+      "num": 722384,
+      "word": "iG 0比21",
+      "onboard_time": 1746102023,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 716907,
       "num": 1114705,
       "word": "马龙谈樊振东",
@@ -1889,6 +1921,14 @@
       "onboard_time": 1745803283,
       "rank": 5,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 653094,
+      "num": 474318,
+      "word": "鹿晗耳蜗钉",
+      "onboard_time": 1746100701,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 652107,
@@ -2491,14 +2531,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 535473,
-      "num": 535473,
-      "word": "赵露思音乐节",
-      "onboard_time": 1746097461,
-      "rank": 22,
-      "category": "演出"
-    },
-    {
       "raw_hot": 534142,
       "num": 534142,
       "word": "淮水竹亭",
@@ -2723,6 +2755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 485942,
+      "num": 485942,
+      "word": "周深一开嗓唱出踏风破浪",
+      "onboard_time": 1746096561,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 485755,
       "num": 485755,
       "word": "柯淳新剧好一个乖乖狗",
@@ -2865,6 +2905,14 @@
       "onboard_time": 1745889321,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 470234,
+      "num": 470234,
+      "word": "不用为无忧渡大结局意难平了",
+      "onboard_time": 1746099319,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 469465,
@@ -3139,14 +3187,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 426449,
-      "num": 355607,
-      "word": "回忆专用小马甲道歉",
-      "onboard_time": 1746095240,
-      "rank": 48,
-      "category": "网红"
-    },
-    {
       "raw_hot": 424992,
       "num": 283235,
       "word": "赵露思直播哽咽了",
@@ -3385,14 +3425,6 @@
       "onboard_time": 1745801123,
       "rank": 14,
       "category": "演出"
-    },
-    {
-      "raw_hot": 395920,
-      "num": 395920,
-      "word": "周深一开嗓唱出踏风破浪",
-      "onboard_time": 1746096561,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 395680,
@@ -4163,6 +4195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 308515,
+      "num": 308515,
+      "word": "半个娱乐圈都在大风杀",
+      "onboard_time": 1746101481,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 308134,
       "num": 308134,
       "word": "权志龙澳门",
@@ -4747,6 +4787,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 270195,
+      "num": 270195,
+      "word": "海外网红疯狂整容导致塑料脸",
+      "onboard_time": 1746098061,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 269352,
       "num": 358105,
       "word": "勇士3比1火箭",
@@ -5259,6 +5307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 242155,
+      "num": 242155,
+      "word": "五一档新片票房破2亿",
+      "onboard_time": 1746097401,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 241857,
       "num": 277377,
       "word": "王曼昱穿国乒队服参加表彰大会",
@@ -5649,6 +5705,14 @@
       "onboard_time": 1745942240,
       "rank": 30,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 222033,
+      "num": 403225,
+      "word": "开拓者认亲现场",
+      "onboard_time": 1746103283,
+      "rank": 19,
+      "category": "游戏,演出"
     },
     {
       "raw_hot": 221934,
@@ -6963,6 +7027,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 192789,
+      "num": 192789,
+      "word": "刘诗诗这段梦回红葵蓝葵",
+      "onboard_time": 1746102382,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192313,
       "num": 269279,
       "word": "王源广州演唱会抢票",
@@ -7081,6 +7153,14 @@
       "onboard_time": 1745927301,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 190749,
+      "num": 190749,
+      "word": "时代少年团全员加冠造型",
+      "onboard_time": 1746103461,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 190677,
@@ -7233,6 +7313,14 @@
       "onboard_time": 1745915122,
       "rank": 45,
       "category": "国际时政,国内时政"
+    },
+    {
+      "raw_hot": 189423,
+      "num": 189423,
+      "word": "找到女性职场乌托邦了",
+      "onboard_time": 1746103041,
+      "rank": 33,
+      "category": "动漫,电影"
     },
     {
       "raw_hot": 189365,
@@ -7891,14 +7979,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 177725,
-      "num": 177725,
-      "word": "五一档新片票房破2亿",
-      "onboard_time": 1746097401,
-      "rank": 29,
-      "category": "电影"
-    },
-    {
       "raw_hot": 177589,
       "num": 213893,
       "word": "五月天北京演唱会连开12场",
@@ -8265,6 +8345,14 @@
       "onboard_time": 1745747602,
       "rank": 34,
       "category": "美食"
+    },
+    {
+      "raw_hot": 170094,
+      "num": 170094,
+      "word": "特朗普送别马斯克",
+      "onboard_time": 1746100580,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 170054,
@@ -9323,6 +9411,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 152689,
+      "num": 152689,
+      "word": "侯佩岑能不能开个情商班",
+      "onboard_time": 1746102861,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152679,
       "num": 412727,
       "word": "电影独一无二首映口碑",
@@ -9584,6 +9680,14 @@
       "word": "坐飞机偶遇林俊杰",
       "onboard_time": 1746022524,
       "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 148747,
+      "num": 417437,
+      "word": "黄子弘凡以为撕拉片是吃的",
+      "onboard_time": 1746103341,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -9907,6 +10011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144541,
+      "num": 144541,
+      "word": "辽宁男篮vs广厦男篮",
+      "onboard_time": 1746100522,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144533,
       "num": 144533,
       "word": "中式工装席卷外国vintage门店",
@@ -10225,6 +10337,14 @@
       "onboard_time": 1746077720,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140782,
+      "num": 140782,
+      "word": "张博恒说坚持是抵达的答案",
+      "onboard_time": 1746103461,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 140693,
@@ -11299,6 +11419,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 125654,
+      "num": 157510,
+      "word": "财会证书的段位",
+      "onboard_time": 1746100461,
+      "rank": 38,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 125542,
       "num": 125542,
       "word": "谢霆锋诠释了桀骜的全部锋芒",
@@ -11363,6 +11491,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 123886,
+      "num": 123886,
+      "word": "CBA",
+      "onboard_time": 1745842402,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123872,
       "num": 189796,
       "word": "周奇说肖战拍藏海传每天健身",
@@ -11417,6 +11553,14 @@
       "onboard_time": 1745806462,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 122963,
+      "num": 122963,
+      "word": "东北姑娘带爸爸到杭州看病被震惊了",
+      "onboard_time": 1746103583,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122850,
@@ -11795,14 +11939,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 117821,
-      "num": 117821,
-      "word": "不用为无忧渡大结局意难平了",
-      "onboard_time": 1746099319,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 117813,
       "num": 117813,
       "word": "奇杂",
@@ -12113,6 +12249,14 @@
       "onboard_time": 1745765724,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 112915,
+      "num": 208389,
+      "word": "星铁演唱会是什么大型无料交换现场",
+      "onboard_time": 1746103461,
+      "rank": 29,
+      "category": "游戏,演出"
     },
     {
       "raw_hot": 112871,
@@ -12499,14 +12643,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 107438,
-      "num": 107438,
-      "word": "CBA",
-      "onboard_time": 1745842402,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 107204,
       "num": 107204,
       "word": "这歌一出就知道感情线多痛了",
@@ -12755,6 +12891,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 102967,
+      "num": 411196,
+      "word": "曹骏开始网上营业了",
+      "onboard_time": 1746103402,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102716,
       "num": 85312,
       "word": "无忧渡 赵娜",
@@ -12857,6 +13001,14 @@
       "onboard_time": 1745831662,
       "rank": 45,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 101204,
+      "num": 417193,
+      "word": "水饺皇后为什么是她",
+      "onboard_time": 1746101060,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 101163,
@@ -13905,6 +14057,14 @@
       "onboard_time": 1746001641,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 81442,
+      "num": 315746,
+      "word": "小程发博说对不起",
+      "onboard_time": 1746100161,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 81307,
@@ -17163,14 +17323,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 18292,
-      "num": 135755,
-      "word": "海外网红疯狂整容导致塑料脸",
-      "onboard_time": 1746098061,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 18225,
       "num": 144204,
       "word": "菜摊上一半卖现实一半卖梦想",
@@ -17849,6 +18001,14 @@
       "onboard_time": 1745772078,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 10093,
+      "num": 427481,
+      "word": "WAW2025倒计时2天",
+      "onboard_time": 1746100882,
+      "rank": 14,
+      "category": "游戏,动漫"
     },
     {
       "raw_hot": 9814,

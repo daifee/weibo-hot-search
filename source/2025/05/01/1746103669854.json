@@ -1,0 +1,410 @@
+{
+  "runTime": 1746103669854,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1740031,
+        "num": 1740031,
+        "word": "董某外公为外籍院士米耀荣系谣言",
+        "onboard_time": 1746100761,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 932113,
+        "num": 932113,
+        "word": "赵露思音乐节",
+        "onboard_time": 1746097461,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 39678,
+        "num": 809820,
+        "word": "全球游客共赏大美中国",
+        "onboard_time": 1746076521,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 722384,
+        "num": 722384,
+        "word": "iG 0比21",
+        "onboard_time": 1746102023,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 652767,
+        "num": 652767,
+        "word": "马斯克被爆踢出局",
+        "onboard_time": 1746093021,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 640034,
+        "num": 640034,
+        "word": "富家女因缺爱拒绝巨额家产",
+        "onboard_time": 1746095841,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 581573,
+        "num": 581573,
+        "word": "蓝莓肚脐眼里的霉菌",
+        "onboard_time": 1746085281,
+        "rank": 6,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 494505,
+        "num": 494505,
+        "word": "卫健委调查肖某董某",
+        "onboard_time": 1746059841,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 485942,
+        "num": 485942,
+        "word": "周深一开嗓唱出踏风破浪",
+        "onboard_time": 1746096561,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 483745,
+        "num": 483745,
+        "word": "热水器坠落女孩因迷眼提前1秒停下",
+        "onboard_time": 1746096502,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 922099,
+        "num": 477672,
+        "word": "回忆专用小马甲道歉",
+        "onboard_time": 1746095240,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 892812,
+        "num": 476737,
+        "word": "张雪峰说学医的天亮了",
+        "onboard_time": 1746096020,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 653094,
+        "num": 474318,
+        "word": "鹿晗耳蜗钉",
+        "onboard_time": 1746100701,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 470234,
+        "num": 470234,
+        "word": "不用为无忧渡大结局意难平了",
+        "onboard_time": 1746099319,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 10093,
+        "num": 427481,
+        "word": "WAW2025倒计时2天",
+        "onboard_time": 1746100882,
+        "rank": 14,
+        "category": "游戏,动漫"
+      },
+      {
+        "raw_hot": 421867,
+        "num": 421867,
+        "word": "董某莹1年拿规培证威胁患者安全",
+        "onboard_time": 1746092421,
+        "rank": 15,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 148747,
+        "num": 417437,
+        "word": "黄子弘凡以为撕拉片是吃的",
+        "onboard_time": 1746103341,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101204,
+        "num": 417193,
+        "word": "水饺皇后为什么是她",
+        "onboard_time": 1746101060,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 102967,
+        "num": 411196,
+        "word": "曹骏开始网上营业了",
+        "onboard_time": 1746103402,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222033,
+        "num": 403225,
+        "word": "开拓者认亲现场",
+        "onboard_time": 1746103283,
+        "rank": 19,
+        "category": "游戏,演出"
+      },
+      {
+        "raw_hot": 662565,
+        "num": 402978,
+        "word": "石凯 音乐节",
+        "onboard_time": 1746093981,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 398496,
+        "num": 398496,
+        "word": "难听",
+        "onboard_time": 1746084561,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 342044,
+        "num": 342044,
+        "word": "国家卫健委启动最高层级医政调查",
+        "onboard_time": 1746084801,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81442,
+        "num": 315746,
+        "word": "小程发博说对不起",
+        "onboard_time": 1746100161,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 308515,
+        "num": 308515,
+        "word": "半个娱乐圈都在大风杀",
+        "onboard_time": 1746101481,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 280878,
+        "num": 280878,
+        "word": "协和4+4毕业生本科专业有西班牙语园林等",
+        "onboard_time": 1746094702,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270195,
+        "num": 270195,
+        "word": "海外网红疯狂整容导致塑料脸",
+        "onboard_time": 1746098061,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 242155,
+        "num": 242155,
+        "word": "五一档新片票房破2亿",
+        "onboard_time": 1746097401,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 215603,
+        "num": 215603,
+        "word": "三千游客挤瘫荣昌公务员食堂",
+        "onboard_time": 1746092841,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112915,
+        "num": 208389,
+        "word": "星铁演唱会是什么大型无料交换现场",
+        "onboard_time": 1746103461,
+        "rank": 29,
+        "category": "游戏,演出"
+      },
+      {
+        "raw_hot": 202327,
+        "num": 202327,
+        "word": "北科大回应董袭莹论文雷同质疑",
+        "onboard_time": 1746080000,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192789,
+        "num": 192789,
+        "word": "刘诗诗这段梦回红葵蓝葵",
+        "onboard_time": 1746102382,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190749,
+        "num": 190749,
+        "word": "时代少年团全员加冠造型",
+        "onboard_time": 1746103461,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 189423,
+        "num": 189423,
+        "word": "找到女性职场乌托邦了",
+        "onboard_time": 1746103041,
+        "rank": 33,
+        "category": "动漫,电影"
+      },
+      {
+        "raw_hot": 170961,
+        "num": 170961,
+        "word": "小米SU7Ultra限制1500匹马力",
+        "onboard_time": 1746098421,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 170094,
+        "num": 170094,
+        "word": "特朗普送别马斯克",
+        "onboard_time": 1746100580,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 166850,
+        "num": 166850,
+        "word": "石凯音乐节状态",
+        "onboard_time": 1746098662,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 163672,
+        "num": 163672,
+        "word": "白鹿一拖三",
+        "onboard_time": 1746083901,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125654,
+        "num": 157510,
+        "word": "财会证书的段位",
+        "onboard_time": 1746100461,
+        "rank": 38,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 152689,
+        "num": 152689,
+        "word": "侯佩岑能不能开个情商班",
+        "onboard_time": 1746102861,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144541,
+        "num": 144541,
+        "word": "辽宁男篮vs广厦男篮",
+        "onboard_time": 1746100522,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144278,
+        "num": 144278,
+        "word": "专家建议外出住宿尽量自带床单",
+        "onboard_time": 1746091641,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140782,
+        "num": 140782,
+        "word": "张博恒说坚持是抵达的答案",
+        "onboard_time": 1746103461,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138514,
+        "num": 138514,
+        "word": "虞书欣换头像",
+        "onboard_time": 1746072981,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130524,
+        "num": 130524,
+        "word": "为三百块利息失去三百万",
+        "onboard_time": 1746090921,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123886,
+        "num": 123886,
+        "word": "CBA",
+        "onboard_time": 1746103162,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122963,
+        "num": 122963,
+        "word": "东北姑娘带爸爸到杭州看病被震惊了",
+        "onboard_time": 1746103583,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118651,
+        "num": 118651,
+        "word": "闺蜜网购肉毒素相互注射中毒",
+        "onboard_time": 1746095061,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118450,
+        "num": 118450,
+        "word": "xc 菜",
+        "onboard_time": 1746096441,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113728,
+        "num": 113728,
+        "word": "吴艳妮赛场化妆是妈妈建议的",
+        "onboard_time": 1746094161,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展的根本是造福人民#"
+    }
+  }
+}

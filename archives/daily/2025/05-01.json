@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746099385963,
+  "endTime": 1746103669854,
   "band_list": [
     {
       "raw_hot": 2018686,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1875675,
-      "num": 372875,
+      "num": 398496,
       "word": "难听",
       "onboard_time": 1746084561,
       "rank": 17,
@@ -20,11 +20,19 @@
     },
     {
       "raw_hot": 1786906,
-      "num": 392376,
+      "num": 476737,
       "word": "张雪峰说学医的天亮了",
       "onboard_time": 1746096020,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1740031,
+      "num": 1740031,
+      "word": "董某外公为外籍院士米耀荣系谣言",
+      "onboard_time": 1746100761,
+      "rank": 0,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 1665852,
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 1062049,
-      "num": 376726,
+      "num": 421867,
       "word": "董某莹1年拿规培证威胁患者安全",
       "onboard_time": 1746092421,
       "rank": 12,
@@ -201,6 +209,22 @@
       "onboard_time": 1746062841,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 932113,
+      "num": 932113,
+      "word": "赵露思音乐节",
+      "onboard_time": 1746097461,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 922099,
+      "num": 477672,
+      "word": "回忆专用小马甲道歉",
+      "onboard_time": 1746095240,
+      "rank": 48,
+      "category": "网红"
     },
     {
       "raw_hot": 886067,
@@ -251,6 +275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 722384,
+      "num": 722384,
+      "word": "iG 0比21",
+      "onboard_time": 1746102023,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 716707,
       "num": 240860,
       "word": "唯一一个让高铁商务座亏钱的人",
@@ -288,6 +320,14 @@
       "word": "杨紫回应无缝进组",
       "onboard_time": 1746064581,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 653094,
+      "num": 474318,
+      "word": "鹿晗耳蜗钉",
+      "onboard_time": 1746100701,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -411,14 +451,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 535473,
-      "num": 535473,
-      "word": "赵露思音乐节",
-      "onboard_time": 1746097461,
-      "rank": 22,
-      "category": "演出"
-    },
-    {
       "raw_hot": 533978,
       "num": 256484,
       "word": "灯牌",
@@ -433,6 +465,14 @@
       "onboard_time": 1746065720,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 485942,
+      "num": 485942,
+      "word": "周深一开嗓唱出踏风破浪",
+      "onboard_time": 1746096561,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 485755,
@@ -456,6 +496,14 @@
       "word": "为三百块利息失去三百万",
       "onboard_time": 1746090921,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 470234,
+      "num": 470234,
+      "word": "不用为无忧渡大结局意难平了",
+      "onboard_time": 1746099319,
+      "rank": 47,
       "category": "剧集"
     },
     {
@@ -491,14 +539,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 426449,
-      "num": 355607,
-      "word": "回忆专用小马甲道歉",
-      "onboard_time": 1746095240,
-      "rank": 48,
-      "category": "网红"
-    },
-    {
       "raw_hot": 420027,
       "num": 420027,
       "word": "闺蜜网购肉毒素相互注射中毒",
@@ -520,14 +560,6 @@
       "word": "迪丽热巴分享欲犯了",
       "onboard_time": 1746078020,
       "rank": 24,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 395920,
-      "num": 395920,
-      "word": "周深一开嗓唱出踏风破浪",
-      "onboard_time": 1746096561,
-      "rank": 8,
       "category": "综艺"
     },
     {
@@ -699,6 +731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 308515,
+      "num": 308515,
+      "word": "半个娱乐圈都在大风杀",
+      "onboard_time": 1746101481,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 306092,
       "num": 306092,
       "word": "苏新皓红海",
@@ -803,6 +843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 270195,
+      "num": 270195,
+      "word": "海外网红疯狂整容导致塑料脸",
+      "onboard_time": 1746098061,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 267966,
       "num": 267966,
       "word": "詹姆斯老了",
@@ -875,6 +923,14 @@
       "category": "体育,民生新闻"
     },
     {
+      "raw_hot": 242155,
+      "num": 242155,
+      "word": "五一档新片票房破2亿",
+      "onboard_time": 1746097401,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 232998,
       "num": 232998,
       "word": "华晨宇离百年老店还差99年11个月",
@@ -905,6 +961,14 @@
       "onboard_time": 1746067640,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 222033,
+      "num": 403225,
+      "word": "开拓者认亲现场",
+      "onboard_time": 1746103283,
+      "rank": 19,
+      "category": "游戏,演出"
     },
     {
       "raw_hot": 218913,
@@ -1155,6 +1219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192789,
+      "num": 192789,
+      "word": "刘诗诗这段梦回红葵蓝葵",
+      "onboard_time": 1746102382,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191433,
       "num": 300079,
       "word": "黄子弘凡主包怎么变脏脏包了",
@@ -1169,6 +1241,14 @@
       "onboard_time": 1746092361,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 190749,
+      "num": 190749,
+      "word": "时代少年团全员加冠造型",
+      "onboard_time": 1746103461,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 190689,
@@ -1209,6 +1289,14 @@
       "onboard_time": 1746094102,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 189423,
+      "num": 189423,
+      "word": "找到女性职场乌托邦了",
+      "onboard_time": 1746103041,
+      "rank": 33,
+      "category": "动漫,电影"
     },
     {
       "raw_hot": 188471,
@@ -1339,14 +1427,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 177725,
-      "num": 177725,
-      "word": "五一档新片票房破2亿",
-      "onboard_time": 1746097401,
-      "rank": 29,
-      "category": "电影"
-    },
-    {
       "raw_hot": 177101,
       "num": 177101,
       "word": "石凯音乐节状态",
@@ -1433,6 +1513,14 @@
       "onboard_time": 1746087740,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170094,
+      "num": 170094,
+      "word": "特朗普送别马斯克",
+      "onboard_time": 1746100580,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 170030,
@@ -1555,6 +1643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152689,
+      "num": 152689,
+      "word": "侯佩岑能不能开个情商班",
+      "onboard_time": 1746102861,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152444,
       "num": 152444,
       "word": "柯洁吐槽智驾",
@@ -1601,6 +1697,14 @@
       "onboard_time": 1746070100,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 148747,
+      "num": 417437,
+      "word": "黄子弘凡以为撕拉片是吃的",
+      "onboard_time": 1746103341,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 147545,
@@ -1675,6 +1779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144541,
+      "num": 144541,
+      "word": "辽宁男篮vs广厦男篮",
+      "onboard_time": 1746100522,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144479,
       "num": 220365,
       "word": "李在明案被发回重审",
@@ -1721,6 +1833,14 @@
       "onboard_time": 1746077720,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140782,
+      "num": 140782,
+      "word": "张博恒说坚持是抵达的答案",
+      "onboard_time": 1746103461,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 140583,
@@ -2003,6 +2123,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 125654,
+      "num": 157510,
+      "word": "财会证书的段位",
+      "onboard_time": 1746100461,
+      "rank": 38,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 125511,
       "num": 120535,
       "word": "王子奇五分钟斯诺克无剪辑版",
@@ -2017,6 +2145,14 @@
       "onboard_time": 1746015442,
       "rank": 43,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 123886,
+      "num": 123886,
+      "word": "CBA",
+      "onboard_time": 1746103162,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 123644,
@@ -2048,6 +2184,14 @@
       "word": "饶毅称王辰勇于改革是真英雄",
       "onboard_time": 1746073401,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122963,
+      "num": 122963,
+      "word": "东北姑娘带爸爸到杭州看病被震惊了",
+      "onboard_time": 1746103583,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -2147,14 +2291,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 117821,
-      "num": 117821,
-      "word": "不用为无忧渡大结局意难平了",
-      "onboard_time": 1746099319,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 117813,
       "num": 117813,
       "word": "奇杂",
@@ -2217,6 +2353,14 @@
       "onboard_time": 1746058581,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 112915,
+      "num": 208389,
+      "word": "星铁演唱会是什么大型无料交换现场",
+      "onboard_time": 1746103461,
+      "rank": 29,
+      "category": "游戏,演出"
     },
     {
       "raw_hot": 112501,
@@ -2411,6 +2555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102967,
+      "num": 411196,
+      "word": "曹骏开始网上营业了",
+      "onboard_time": 1746103402,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102228,
       "num": 194312,
       "word": "五一游客夜登泰山看日出有多拼",
@@ -2433,6 +2585,14 @@
       "onboard_time": 1746096200,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 101204,
+      "num": 417193,
+      "word": "水饺皇后为什么是她",
+      "onboard_time": 1746101060,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 100420,
@@ -2561,6 +2721,14 @@
       "onboard_time": 1746018503,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 81442,
+      "num": 315746,
+      "word": "小程发博说对不起",
+      "onboard_time": 1746100161,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 79641,
@@ -3067,14 +3235,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 18292,
-      "num": 135755,
-      "word": "海外网红疯狂整容导致塑料脸",
-      "onboard_time": 1746098061,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 18091,
       "num": 231868,
       "word": "五一假期如何避堵",
@@ -3185,6 +3345,14 @@
       "onboard_time": 1746088881,
       "rank": 24,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 10093,
+      "num": 427481,
+      "word": "WAW2025倒计时2天",
+      "onboard_time": 1746100882,
+      "rank": 14,
+      "category": "游戏,动漫"
     },
     {
       "raw_hot": 9604,
