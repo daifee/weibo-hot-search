@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1746120142462,
+  "endTime": 1746121199611,
   "band_list": [
     {
       "raw_hot": 8960529,
@@ -1521,6 +1521,14 @@
       "onboard_time": 1745768782,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 791985,
+      "num": 791985,
+      "word": "金价暴跌有人一夜亏47万",
+      "onboard_time": 1746118698,
+      "rank": 6,
+      "category": "财经"
     },
     {
       "raw_hot": 791376,
@@ -3889,14 +3897,6 @@
       "onboard_time": 1746020544,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 357524,
-      "num": 357524,
-      "word": "金价暴跌有人一夜亏47万",
-      "onboard_time": 1746118698,
-      "rank": 6,
-      "category": "财经"
     },
     {
       "raw_hot": 357374,
@@ -11364,7 +11364,7 @@
     },
     {
       "raw_hot": 134074,
-      "num": 134074,
+      "num": 155299,
       "word": "荣昌真的接住了泼天流量",
       "onboard_time": 1746113182,
       "rank": 46,
@@ -15627,6 +15627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 60530,
+      "num": 60530,
+      "word": "苏新皓说真的给我跳爽了",
+      "onboard_time": 1746120498,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 60470,
       "num": 190993,
       "word": "什么限制了山高",
@@ -16593,6 +16601,14 @@
       "onboard_time": 1746017660,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41031,
+      "num": 43962,
+      "word": "枭起青壤预约",
+      "onboard_time": 1746120917,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 40909,

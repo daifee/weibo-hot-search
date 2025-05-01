@@ -1,6 +1,6 @@
 {
   "startTime": 1746117084529,
-  "endTime": 1746120142462,
+  "endTime": 1746121199611,
   "band_list": [
     {
       "raw_hot": 1344343,
@@ -25,6 +25,14 @@
       "onboard_time": 1746105143,
       "rank": 5,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 791985,
+      "num": 791985,
+      "word": "金价暴跌有人一夜亏47万",
+      "onboard_time": 1746118698,
+      "rank": 6,
+      "category": "财经"
     },
     {
       "raw_hot": 732362,
@@ -97,14 +105,6 @@
       "onboard_time": 1746100761,
       "rank": 8,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 357524,
-      "num": 357524,
-      "word": "金价暴跌有人一夜亏47万",
-      "onboard_time": 1746118698,
-      "rank": 6,
-      "category": "财经"
     },
     {
       "raw_hot": 352223,
@@ -292,7 +292,7 @@
     },
     {
       "raw_hot": 114175,
-      "num": 114175,
+      "num": 155299,
       "word": "荣昌真的接住了泼天流量",
       "onboard_time": 1746113182,
       "rank": 36,
@@ -411,6 +411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75519,
+      "num": 75519,
+      "word": "金价",
+      "onboard_time": 1746119898,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 73721,
       "num": 73721,
       "word": "马丽老师就沈马组合发表重要讲话",
@@ -427,12 +435,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 51509,
-      "num": 51509,
-      "word": "金价",
-      "onboard_time": 1746119898,
-      "rank": 43,
-      "category": "财经"
+      "raw_hot": 60530,
+      "num": 60530,
+      "word": "苏新皓说真的给我跳爽了",
+      "onboard_time": 1746120498,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 48698,
@@ -451,6 +459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41031,
+      "num": 43962,
+      "word": "枭起青壤预约",
+      "onboard_time": 1746120917,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 39612,
       "num": 190978,
       "word": "特朗普计划罢免群聊泄密罪魁祸首",
@@ -459,7 +475,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 15996,
+      "raw_hot": 19147,
       "num": 487948,
       "word": "劳动者的手每一双都了不起",
       "onboard_time": 1746104723,
