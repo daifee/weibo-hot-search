@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746074797905,
+  "endTime": 1746077142959,
   "band_list": [
     {
       "raw_hot": 1639087,
@@ -67,7 +67,15 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1017179,
+      "raw_hot": 1152608,
+      "num": 1184417,
+      "word": "陈赫把黄磊做菜的黄酒倒光了",
+      "onboard_time": 1746072682,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1044905,
       "num": 504493,
       "word": "肖飞称对董医生的指控多是不实消息",
       "onboard_time": 1746069320,
@@ -97,14 +105,6 @@
       "onboard_time": 1746062841,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 935829,
-      "num": 1149732,
-      "word": "陈赫把黄磊做菜的黄酒倒光了",
-      "onboard_time": 1746072682,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 886067,
@@ -139,6 +139,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 714009,
+      "num": 343392,
+      "word": "虞书欣换头像",
+      "onboard_time": 1746072981,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 706317,
       "num": 706317,
       "word": "董袭莹的种种疑云该有人出来回应了",
@@ -147,12 +155,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 674135,
-      "num": 233027,
-      "word": "虞书欣换头像",
-      "onboard_time": 1746072981,
-      "rank": 18,
-      "category": "艺人"
+      "raw_hot": 684478,
+      "num": 684478,
+      "word": "泰山山顶公厕挤满避寒的人",
+      "onboard_time": 1746075741,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 662827,
@@ -177,6 +185,14 @@
       "onboard_time": 1746057499,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 645251,
+      "num": 334749,
+      "word": "医生眼里的生理性喜欢",
+      "onboard_time": 1746070761,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 633876,
@@ -235,20 +251,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 554848,
-      "num": 237046,
-      "word": "医生眼里的生理性喜欢",
-      "onboard_time": 1746070761,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 553266,
       "num": 332318,
       "word": "金价连续跳水",
       "onboard_time": 1746067520,
       "rank": 23,
       "category": "财经"
+    },
+    {
+      "raw_hot": 550932,
+      "num": 550932,
+      "word": "森林狼淘汰湖人",
+      "onboard_time": 1746075502,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 547241,
@@ -265,6 +281,14 @@
       "onboard_time": 1746065720,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 485755,
+      "num": 485755,
+      "word": "柯淳新剧好一个乖乖狗",
+      "onboard_time": 1746073581,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 475308,
@@ -345,14 +369,6 @@
       "onboard_time": 1746019941,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 331554,
-      "num": 185612,
-      "word": "柯淳新剧好一个乖乖狗",
-      "onboard_time": 1746073581,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 324257,
@@ -475,6 +491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 246752,
+      "num": 246752,
+      "word": "杜华说百万年薪应该带脑子上班",
+      "onboard_time": 1746075502,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 246317,
       "num": 188806,
       "word": "沈马cp粉",
@@ -595,6 +619,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 188119,
+      "num": 188119,
+      "word": "登陆少年演唱会内场",
+      "onboard_time": 1746076701,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 187056,
+      "num": 187056,
+      "word": "黄奕是有高人指点吗",
+      "onboard_time": 1746075141,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 186458,
       "num": 218651,
       "word": "乌美签署矿产协议",
@@ -649,6 +689,14 @@
       "onboard_time": 1746071300,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 180750,
+      "num": 180750,
+      "word": "詹姆斯老了",
+      "onboard_time": 1746076701,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 179504,
@@ -819,6 +867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146152,
+      "num": 146152,
+      "word": "李现新剧演复仇男主",
+      "onboard_time": 1746076581,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146028,
       "num": 146028,
       "word": "画江湖之不良人",
@@ -899,6 +955,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 137414,
+      "num": 137414,
+      "word": "黄仁勋称华为全球最强科技公司之一",
+      "onboard_time": 1746076220,
+      "rank": 37,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 136416,
       "num": 136416,
       "word": "杨利伟回应神十九推迟一天回家",
@@ -939,6 +1003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133922,
+      "num": 133922,
+      "word": "王源音乐IP形象HUG",
+      "onboard_time": 1746076401,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 132261,
       "num": 132261,
       "word": "朱志鑫首唱会场外黄海",
@@ -953,6 +1025,22 @@
       "onboard_time": 1746026903,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 131860,
+      "num": 131860,
+      "word": "如果帅的追你你一秒就同意了",
+      "onboard_time": 1746075682,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 130161,
+      "num": 130161,
+      "word": "十个勤天新单曲生来不让",
+      "onboard_time": 1746075741,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 128193,
@@ -977,6 +1065,14 @@
       "onboard_time": 1746071841,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 126191,
+      "num": 126191,
+      "word": "PEL春季常规赛荣誉颁奖",
+      "onboard_time": 1746076881,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 125511,
@@ -1049,6 +1145,14 @@
       "onboard_time": 1746057379,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 116317,
+      "num": 116317,
+      "word": "登陆少年演唱会",
+      "onboard_time": 1746077119,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 115596,
@@ -1307,6 +1411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 72483,
+      "num": 118154,
+      "word": "张杰回应唱逆战着魔磕破牙齿",
+      "onboard_time": 1746075441,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 71522,
       "num": 193309,
       "word": "易烊千玺曾毅刘宇宁语音推荐中国电影",
@@ -1339,6 +1451,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 63905,
+      "num": 115714,
+      "word": "COA8全球总决赛",
+      "onboard_time": 1746075741,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 63628,
       "num": 913615,
       "word": "五一出行天气提醒",
@@ -1353,6 +1473,14 @@
       "onboard_time": 1746032479,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 59047,
+      "num": 347697,
+      "word": "100条承诺看特朗普就职百日成绩",
+      "onboard_time": 1746075741,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 58475,
@@ -1443,6 +1571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42196,
+      "num": 713337,
+      "word": "全球游客共赏大美中国",
+      "onboard_time": 1746076521,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41711,
       "num": 41711,
       "word": "警方调查女子孕期被公公家暴住院",
@@ -1451,12 +1587,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41486,
+      "num": 181223,
+      "word": "美乌矿产协议被爆最后关头遇阻",
+      "onboard_time": 1746076640,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 40021,
       "num": 65894,
       "word": "没有信息表明董袭莹能力超群",
       "onboard_time": 1746033079,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39450,
+      "num": 250277,
+      "word": "乌美矿产协议里写资源均归乌方",
+      "onboard_time": 1746076521,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 36790,
@@ -1641,6 +1793,9 @@
     },
     {
       "word": "#科学谋划十五五时期经济社会发展#"
+    },
+    {
+      "word": "#习近平祝大家五一劳动节快乐#"
     }
   ]
 }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1746077142959,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1152608,
+        "num": 1184417,
+        "word": "陈赫把黄磊做菜的黄酒倒光了",
+        "onboard_time": 1746072682,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 857378,
+        "num": 857378,
+        "word": "卫健委调查肖某董某",
+        "onboard_time": 1746059841,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42196,
+        "num": 713337,
+        "word": "全球游客共赏大美中国",
+        "onboard_time": 1746076521,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 684478,
+        "num": 684478,
+        "word": "泰山山顶公厕挤满避寒的人",
+        "onboard_time": 1746075741,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 550932,
+        "num": 550932,
+        "word": "森林狼淘汰湖人",
+        "onboard_time": 1746075502,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 502524,
+        "num": 502524,
+        "word": "胡杏儿抽到黄宗泽的问题",
+        "onboard_time": 1746061400,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 485755,
+        "num": 485755,
+        "word": "柯淳新剧好一个乖乖狗",
+        "onboard_time": 1746073581,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 389622,
+        "num": 389622,
+        "word": "赵丽颖秦俊杰二搭",
+        "onboard_time": 1746072620,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 348692,
+        "num": 348692,
+        "word": "饶毅发文称请勿错怪王辰教授",
+        "onboard_time": 1746069562,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59047,
+        "num": 347697,
+        "word": "100条承诺看特朗普就职百日成绩",
+        "onboard_time": 1746075741,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 714009,
+        "num": 343392,
+        "word": "虞书欣换头像",
+        "onboard_time": 1746072981,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 705355,
+        "num": 337038,
+        "word": "女子为蹭高速免费提前半个月出发",
+        "onboard_time": 1746072920,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 645251,
+        "num": 334749,
+        "word": "医生眼里的生理性喜欢",
+        "onboard_time": 1746070761,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 330820,
+        "num": 330820,
+        "word": "国家卫健委对肖某引发舆情问题开展调查",
+        "onboard_time": 1746060381,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 525167,
+        "num": 329680,
+        "word": "张新成疑似回应分手",
+        "onboard_time": 1746054798,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331299,
+        "num": 328183,
+        "word": "蓝盈莹粉丝考上法学排名世界第6的大学",
+        "onboard_time": 1746070341,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278200,
+        "num": 278200,
+        "word": "杨紫回应无缝进组",
+        "onboard_time": 1746064581,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273107,
+        "num": 273107,
+        "word": "机场偶遇鹿晗飞日本",
+        "onboard_time": 1746062841,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267275,
+        "num": 267275,
+        "word": "五一劳动节",
+        "onboard_time": 1746055458,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39450,
+        "num": 250277,
+        "word": "乌美矿产协议里写资源均归乌方",
+        "onboard_time": 1746076521,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1044905,
+        "num": 249036,
+        "word": "肖飞称对董医生的指控多是不实消息",
+        "onboard_time": 1746069320,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 499426,
+        "num": 248149,
+        "word": "金价连续跳水",
+        "onboard_time": 1746067520,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 246752,
+        "num": 246752,
+        "word": "杜华说百万年薪应该带脑子上班",
+        "onboard_time": 1746075502,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229480,
+        "num": 229480,
+        "word": "唯一一个让高铁商务座亏钱的人",
+        "onboard_time": 1746070461,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 215536,
+        "num": 215536,
+        "word": "卫健委亮剑调查肖董事件期待公正通报",
+        "onboard_time": 1746071661,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212416,
+        "num": 212416,
+        "word": "丁禹兮 范思哲",
+        "onboard_time": 1746062361,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188119,
+        "num": 188119,
+        "word": "登陆少年演唱会内场",
+        "onboard_time": 1746076701,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 187056,
+        "num": 187056,
+        "word": "黄奕是有高人指点吗",
+        "onboard_time": 1746075141,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 182713,
+        "num": 182713,
+        "word": "男性注射避孕药一次至少管2年",
+        "onboard_time": 1746032899,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 41486,
+        "num": 181223,
+        "word": "美乌矿产协议被爆最后关头遇阻",
+        "onboard_time": 1746076640,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 571767,
+        "num": 181042,
+        "word": "董袭莹论文被指与北科专利多处雷同",
+        "onboard_time": 1746068300,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 427561,
+        "num": 180913,
+        "word": "对肖某董某要零容忍彻查到底",
+        "onboard_time": 1746068899,
+        "rank": 31,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 180750,
+        "num": 180750,
+        "word": "詹姆斯老了",
+        "onboard_time": 1746076701,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167434,
+        "num": 167434,
+        "word": "汪峰曾发文承诺帮毕夏抚养孩子",
+        "onboard_time": 1746064520,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146152,
+        "num": 146152,
+        "word": "李现新剧演复仇男主",
+        "onboard_time": 1746076581,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144277,
+        "num": 144277,
+        "word": "天鹅颈",
+        "onboard_time": 1746067520,
+        "rank": 35,
+        "category": "艺人,情感"
+      },
+      {
+        "raw_hot": 141821,
+        "num": 141821,
+        "word": "巴分糖",
+        "onboard_time": 1746071300,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137414,
+        "num": 137414,
+        "word": "黄仁勋称华为全球最强科技公司之一",
+        "onboard_time": 1746076220,
+        "rank": 37,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 134403,
+        "num": 134403,
+        "word": "毛林林再演恶女反派",
+        "onboard_time": 1746073221,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133922,
+        "num": 133922,
+        "word": "王源音乐IP形象HUG",
+        "onboard_time": 1746076401,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 131860,
+        "num": 131860,
+        "word": "如果帅的追你你一秒就同意了",
+        "onboard_time": 1746075682,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130161,
+        "num": 130161,
+        "word": "十个勤天新单曲生来不让",
+        "onboard_time": 1746075741,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 126191,
+        "num": 126191,
+        "word": "PEL春季常规赛荣誉颁奖",
+        "onboard_time": 1746076881,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 125293,
+        "num": 125293,
+        "word": "原来寄刀片是从宫崎骏开始的",
+        "onboard_time": 1746071121,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 120237,
+        "num": 120237,
+        "word": "麻昊宁硬刚爆红公众挺的是什么",
+        "onboard_time": 1746071361,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72483,
+        "num": 118154,
+        "word": "张杰回应唱逆战着魔磕破牙齿",
+        "onboard_time": 1746075441,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116317,
+        "num": 116317,
+        "word": "登陆少年演唱会",
+        "onboard_time": 1746077119,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 63905,
+        "num": 115714,
+        "word": "COA8全球总决赛",
+        "onboard_time": 1746075741,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 115644,
+        "num": 115644,
+        "word": "森林狼vs湖人",
+        "onboard_time": 1746063020,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115049,
+        "num": 115049,
+        "word": "张新成 李兰迪",
+        "onboard_time": 1746056598,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平祝大家五一劳动节快乐#"
+    }
+  }
+}
