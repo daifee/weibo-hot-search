@@ -1,6 +1,6 @@
 {
   "startTime": 1746117084529,
-  "endTime": 1746135423525,
+  "endTime": 1746138245779,
   "band_list": [
     {
       "raw_hot": 1344343,
@@ -19,20 +19,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 929717,
+      "num": 929717,
+      "word": "金价暴跌有人一夜亏47万",
+      "onboard_time": 1746118698,
+      "rank": 6,
+      "category": "财经"
+    },
+    {
       "raw_hot": 906171,
       "num": 608148,
       "word": "日本再现无差别杀人",
       "onboard_time": 1746105143,
       "rank": 5,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 791985,
-      "num": 791985,
-      "word": "金价暴跌有人一夜亏47万",
-      "onboard_time": 1746118698,
-      "rank": 6,
-      "category": "财经"
     },
     {
       "raw_hot": 732362,
@@ -491,6 +491,30 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 37679,
+      "num": 48599,
+      "word": "富家女因缺爱拒绝巨额家产",
+      "onboard_time": 1746095841,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 31295,
+      "num": 32344,
+      "word": "日本机场偶遇戚薇李承铉一家",
+      "onboard_time": 1746136214,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 28562,
+      "num": 32330,
+      "word": "男子200元卖2盆茶花被索赔5万",
+      "onboard_time": 1746128175,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28108,
       "num": 28108,
       "word": "小鬼把更多时间花在音乐上",
@@ -523,12 +547,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 23861,
-      "num": 27166,
-      "word": "富家女因缺爱拒绝巨额家产",
-      "onboard_time": 1746095841,
-      "rank": 48,
-      "category": "剧集"
+      "raw_hot": 23686,
+      "num": 32299,
+      "word": "重庆荣昌是真的宠游客",
+      "onboard_time": 1746132793,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22351,
+      "num": 48896,
+      "word": "热依扎演绎90后女航天员",
+      "onboard_time": 1746134835,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 20574,
@@ -536,14 +568,6 @@
       "word": "劳动者的手每一双都了不起",
       "onboard_time": 1746104723,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 20570,
-      "num": 22402,
-      "word": "男子200元卖2盆茶花被索赔5万",
-      "onboard_time": 1746128175,
-      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -563,28 +587,36 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 17975,
-      "num": 19213,
-      "word": "重庆荣昌是真的宠游客",
-      "onboard_time": 1746132793,
-      "rank": 39,
+      "raw_hot": 19155,
+      "num": 44064,
+      "word": "工作人员回应给游客撒蛤蜊",
+      "onboard_time": 1746130813,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 15286,
-      "num": 22405,
+      "raw_hot": 17048,
+      "num": 32272,
       "word": "5月专属壁纸",
       "onboard_time": 1746115161,
       "rank": 47,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 14797,
-      "num": 44064,
-      "word": "工作人员回应给游客撒蛤蜊",
-      "onboard_time": 1746130813,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 16220,
+      "num": 32267,
+      "word": "斯诺克",
+      "onboard_time": 1746137715,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 15242,
+      "num": 32259,
+      "word": "美国国家安全顾问沃尔兹将离职",
+      "onboard_time": 1746132494,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 11656,
@@ -593,14 +625,6 @@
       "onboard_time": 1746126915,
       "rank": 22,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 10417,
-      "num": 48896,
-      "word": "热依扎演绎90后女航天员",
-      "onboard_time": 1746134835,
-      "rank": 9,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
