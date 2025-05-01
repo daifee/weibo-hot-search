@@ -1,0 +1,410 @@
+{
+  "runTime": 1746071369949,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1353825,
+        "num": 1353825,
+        "word": "董袭莹论文被指与北科专利多处雷同",
+        "onboard_time": 1746068300,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 949305,
+        "num": 949305,
+        "word": "卫健委调查肖某董某",
+        "onboard_time": 1746059841,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39825,
+        "num": 785225,
+        "word": "五一出行天气提醒",
+        "onboard_time": 1746023364,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 780217,
+        "num": 780217,
+        "word": "胡杏儿抽到黄宗泽的问题",
+        "onboard_time": 1746061400,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 620182,
+        "num": 620182,
+        "word": "天鹅颈",
+        "onboard_time": 1746067520,
+        "rank": 4,
+        "category": "艺人,情感"
+      },
+      {
+        "raw_hot": 1251459,
+        "num": 610224,
+        "word": "董小姐是个例还是群像",
+        "onboard_time": 1746064760,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 506843,
+        "num": 506843,
+        "word": "刘诗诗仪态",
+        "onboard_time": 1746064641,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 504493,
+        "num": 504493,
+        "word": "肖飞称对董医生的指控多是不实消息",
+        "onboard_time": 1746069320,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 480572,
+        "num": 480572,
+        "word": "汪峰曾发文承诺帮毕夏抚养孩子",
+        "onboard_time": 1746064520,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197222,
+        "num": 480229,
+        "word": "饶毅发文称请勿错怪王辰教授",
+        "onboard_time": 1746069562,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 760605,
+        "num": 479691,
+        "word": "张新成疑似回应分手",
+        "onboard_time": 1746054798,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 542641,
+        "num": 479399,
+        "word": "机场偶遇鹿晗飞日本",
+        "onboard_time": 1746062841,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 502289,
+        "num": 478986,
+        "word": "蓝盈莹粉丝考上法学排名世界第6的大学",
+        "onboard_time": 1746070341,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 478547,
+        "num": 478547,
+        "word": "杨紫回应无缝进组",
+        "onboard_time": 1746064581,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145462,
+        "num": 434522,
+        "word": "饿了么害我一天三杯奶茶",
+        "onboard_time": 1746068482,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 420962,
+        "num": 420962,
+        "word": "饶毅称4加4适合协和且可推广",
+        "onboard_time": 1746065720,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 393223,
+        "num": 393223,
+        "word": "对肖某董某要零容忍彻查到底",
+        "onboard_time": 1746068899,
+        "rank": 16,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 419788,
+        "num": 366624,
+        "word": "国家卫健委对肖某引发舆情问题开展调查",
+        "onboard_time": 1746060381,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146514,
+        "num": 342718,
+        "word": "yeri签约新公司",
+        "onboard_time": 1746070580,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17222,
+        "num": 340774,
+        "word": "一颗榴莲有哪些营养特长",
+        "onboard_time": 1746070521,
+        "rank": 19,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 339748,
+        "num": 339748,
+        "word": "12306回应网友质疑五一前大量放票",
+        "onboard_time": 1746057499,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 332318,
+        "num": 332318,
+        "word": "金价连续跳水",
+        "onboard_time": 1746067520,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 330842,
+        "num": 330842,
+        "word": "五一劳动节",
+        "onboard_time": 1746055458,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 324257,
+        "num": 324257,
+        "word": "电影哪吒之魔童闹海",
+        "onboard_time": 1746069440,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 297281,
+        "num": 297281,
+        "word": "男性注射避孕药一次至少管2年",
+        "onboard_time": 1746032899,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 242755,
+        "num": 242755,
+        "word": "赵丽颖短发杀青照",
+        "onboard_time": 1746065659,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235973,
+        "num": 235973,
+        "word": "Makiyo不爽王心凌潘玮柏力挺杨丞琳",
+        "onboard_time": 1746062962,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235017,
+        "num": 235017,
+        "word": "丁禹兮 范思哲",
+        "onboard_time": 1746062361,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215252,
+        "num": 215252,
+        "word": "6岁妹妹把我的遗憾记了12年",
+        "onboard_time": 1746067640,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185284,
+        "num": 185284,
+        "word": "aespa韩版时装封面",
+        "onboard_time": 1746071181,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 291911,
+        "num": 185018,
+        "word": "唯一一个让高铁商务座亏钱的人",
+        "onboard_time": 1746070461,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 49979,
+        "num": 184005,
+        "word": "全红婵又多了一张人生照片",
+        "onboard_time": 1746071181,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 252439,
+        "num": 183213,
+        "word": "董某莹已离开中日友好医院胸外科",
+        "onboard_time": 1746022343,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207739,
+        "num": 182836,
+        "word": "医生眼里的生理性喜欢",
+        "onboard_time": 1746070761,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 182477,
+        "num": 182477,
+        "word": "我的五一",
+        "onboard_time": 1746070819,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178708,
+        "num": 178708,
+        "word": "张新成 李兰迪",
+        "onboard_time": 1746056598,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14587,
+        "num": 173427,
+        "word": "旅游攻略进入AI时代了吗",
+        "onboard_time": 1746071240,
+        "rank": 36,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 171541,
+        "num": 171541,
+        "word": "张雪峰把4加4说的明明白白",
+        "onboard_time": 1746070761,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158408,
+        "num": 158408,
+        "word": "鹿晗 四巡",
+        "onboard_time": 1746068421,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 13546,
+        "num": 151558,
+        "word": "神十九回家高清图集",
+        "onboard_time": 1746071240,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 150053,
+        "num": 150053,
+        "word": "拿吸管手搓了穿戴甲的高三生",
+        "onboard_time": 1746070100,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149328,
+        "num": 149328,
+        "word": "金饰克价跌破1000元",
+        "onboard_time": 1746068541,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 145031,
+        "num": 145031,
+        "word": "森林狼vs湖人",
+        "onboard_time": 1746063020,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142615,
+        "num": 142615,
+        "word": "以色列向多国求援灭山火",
+        "onboard_time": 1746054859,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 142242,
+        "num": 142242,
+        "word": "原来寄刀片是从宫崎骏开始的",
+        "onboard_time": 1746071121,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 140226,
+        "num": 140226,
+        "word": "五一爬泰山看日出的游客太猛了",
+        "onboard_time": 1746069261,
+        "rank": 45,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 139805,
+        "num": 139805,
+        "word": "巴分糖",
+        "onboard_time": 1746071300,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135421,
+        "num": 135421,
+        "word": "饶毅回应怒怼协和",
+        "onboard_time": 1746014421,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132261,
+        "num": 132261,
+        "word": "朱志鑫首唱会场外黄海",
+        "onboard_time": 1746071300,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 128680,
+        "num": 128680,
+        "word": "特朗普称美国即将迎来好日子",
+        "onboard_time": 1746035296,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#科学谋划十五五时期经济社会发展#"
+    }
+  }
+}
