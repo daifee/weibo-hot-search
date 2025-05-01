@@ -1,0 +1,410 @@
+{
+  "runTime": 1746091625849,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1578402,
+        "num": 1578402,
+        "word": "蓝莓肚脐眼里的霉菌",
+        "onboard_time": 1746085281,
+        "rank": 0,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 665542,
+        "num": 665542,
+        "word": "卫健委调查肖某董某",
+        "onboard_time": 1746059841,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8318,
+        "num": 597499,
+        "word": "全球游客共赏大美中国",
+        "onboard_time": 1746076521,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 694233,
+        "num": 590119,
+        "word": "白鹿一拖三",
+        "onboard_time": 1746083901,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 530443,
+        "num": 530443,
+        "word": "泰山陪爬小伙忙疯了也赚疯了",
+        "onboard_time": 1746088163,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 309576,
+        "num": 309576,
+        "word": "泰山山顶公厕挤满避寒的人",
+        "onboard_time": 1746075741,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275753,
+        "num": 275753,
+        "word": "朱志鑫簪花",
+        "onboard_time": 1746086662,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 265531,
+        "num": 265531,
+        "word": "永辉超市新规现金支付分币零头全舍",
+        "onboard_time": 1746087561,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262529,
+        "num": 262529,
+        "word": "陈赫把黄磊做菜的黄酒倒光了",
+        "onboard_time": 1746072682,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236789,
+        "num": 236789,
+        "word": "左航耳返",
+        "onboard_time": 1746085881,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1575971,
+        "num": 236586,
+        "word": "难听",
+        "onboard_time": 1746084561,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 949120,
+        "num": 236249,
+        "word": "国家卫健委启动最高层级医政调查",
+        "onboard_time": 1746084801,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21229,
+        "num": 235936,
+        "word": "我的追梦关键词",
+        "onboard_time": 1746075201,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 741424,
+        "num": 235610,
+        "word": "98年女孩做陪诊师曾月入10万",
+        "onboard_time": 1746087800,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 482653,
+        "num": 234976,
+        "word": "虞书欣换头像",
+        "onboard_time": 1746072981,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301255,
+        "num": 234522,
+        "word": "朱苏",
+        "onboard_time": 1746087502,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 248555,
+        "num": 234212,
+        "word": "白鹿曾舜晞梁永棋陈鑫海一起去玩了",
+        "onboard_time": 1746081980,
+        "rank": 16,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 234131,
+        "num": 234131,
+        "word": "鞠婧祎喊刘诗诗姐姐",
+        "onboard_time": 1746085161,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232998,
+        "num": 232998,
+        "word": "华晨宇离百年老店还差99年11个月",
+        "onboard_time": 1746090622,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 59396,
+        "num": 222925,
+        "word": "五一档为何要选神印剧场版",
+        "onboard_time": 1746091281,
+        "rank": 19,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 144479,
+        "num": 220365,
+        "word": "李在明案被发回重审",
+        "onboard_time": 1746089721,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 233198,
+        "num": 220268,
+        "word": "协和医学院校长4加4毕业典礼发言",
+        "onboard_time": 1746089001,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218909,
+        "num": 218909,
+        "word": "女子为蹭高速免费提前半个月出发",
+        "onboard_time": 1746072920,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215671,
+        "num": 215671,
+        "word": "卫健委亮剑调查肖董事件期待公正通报",
+        "onboard_time": 1746071661,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209949,
+        "num": 209949,
+        "word": "枭起青壤",
+        "onboard_time": 1746088102,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205203,
+        "num": 205203,
+        "word": "知道五一人多但没想到人这么多",
+        "onboard_time": 1746087561,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 204662,
+        "num": 204662,
+        "word": "为三百块利息失去三百万",
+        "onboard_time": 1746090921,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198296,
+        "num": 198296,
+        "word": "这届年轻人五一出行不再大包小包",
+        "onboard_time": 1746090742,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194407,
+        "num": 194407,
+        "word": "陈奕迅20岁女儿身高",
+        "onboard_time": 1746083722,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187236,
+        "num": 187236,
+        "word": "韩国月子中心都吃什么",
+        "onboard_time": 1746089542,
+        "rank": 29,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 806241,
+        "num": 184984,
+        "word": "北科大回应董袭莹论文雷同质疑",
+        "onboard_time": 1746080000,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174066,
+        "num": 174066,
+        "word": "回忆专用小马甲",
+        "onboard_time": 1746090921,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 171664,
+        "num": 171664,
+        "word": "与董某论文雷同专利发明人含听障学生",
+        "onboard_time": 1746081801,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153074,
+        "num": 153074,
+        "word": "韩国代总统辞职",
+        "onboard_time": 1746084201,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 151669,
+        "num": 151669,
+        "word": "沈月演东方秦兰是宿命吧",
+        "onboard_time": 1746090861,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146433,
+        "num": 146433,
+        "word": "燕尾蝶",
+        "onboard_time": 1746088041,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 146097,
+        "num": 146097,
+        "word": "五一劳动节",
+        "onboard_time": 1746055458,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144520,
+        "num": 144520,
+        "word": "河南一生物公司发生爆炸1死3人伤",
+        "onboard_time": 1746085881,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137647,
+        "num": 137647,
+        "word": "星巴克否认在搞饥饿营销",
+        "onboard_time": 1746064280,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136157,
+        "num": 136157,
+        "word": "喂 是水果反诈中心吗",
+        "onboard_time": 1746086961,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126928,
+        "num": 126928,
+        "word": "现在的德华已经不怕带娃了",
+        "onboard_time": 1746089061,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122569,
+        "num": 122569,
+        "word": "朝阳群众举报大货车死亡掉头",
+        "onboard_time": 1746091461,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118019,
+        "num": 118019,
+        "word": "泰山陪爬",
+        "onboard_time": 1746091461,
+        "rank": 42,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 117741,
+        "num": 117741,
+        "word": "只看着我",
+        "onboard_time": 1746091401,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116324,
+        "num": 116324,
+        "word": "翔霖",
+        "onboard_time": 1746088582,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 107917,
+        "num": 107917,
+        "word": "太湖湾音乐节",
+        "onboard_time": 1746091521,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 107086,
+        "num": 107086,
+        "word": "BLG官宣Beichuan加入",
+        "onboard_time": 1746082761,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 105610,
+        "num": 105610,
+        "word": "官方通报医院工作人员上班打游戏",
+        "onboard_time": 1746090861,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104490,
+        "num": 104490,
+        "word": "张新成疑似回应分手",
+        "onboard_time": 1746054798,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104144,
+        "num": 104144,
+        "word": "沙县小吃为什么没人吃了",
+        "onboard_time": 1746088700,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展的根本是造福人民#"
+    }
+  }
+}

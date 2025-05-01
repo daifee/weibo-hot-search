@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746089143703,
+  "endTime": 1746091625849,
   "band_list": [
     {
       "raw_hot": 2018686,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 855460,
-      "num": 581293,
+      "num": 590119,
       "word": "白鹿一拖三",
       "onboard_time": 1746083901,
       "rank": 22,
@@ -345,6 +345,14 @@
       "onboard_time": 1746080840,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 530443,
+      "num": 530443,
+      "word": "泰山陪爬小伙忙疯了也赚疯了",
+      "onboard_time": 1746088163,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 498325,
@@ -571,6 +579,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 301255,
+      "num": 234522,
+      "word": "朱苏",
+      "onboard_time": 1746087502,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 298177,
       "num": 273846,
       "word": "鞠婧祎喊刘诗诗姐姐",
@@ -659,6 +675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 265531,
+      "num": 265531,
+      "word": "永辉超市新规现金支付分币零头全舍",
+      "onboard_time": 1746087561,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 261673,
       "num": 325044,
       "word": "河南一生物公司发生爆炸1死3人伤",
@@ -705,6 +729,22 @@
       "onboard_time": 1746064822,
       "rank": 33,
       "category": "体育,民生新闻"
+    },
+    {
+      "raw_hot": 233198,
+      "num": 220268,
+      "word": "协和医学院校长4加4毕业典礼发言",
+      "onboard_time": 1746089001,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 232998,
+      "num": 232998,
+      "word": "华晨宇离百年老店还差99年11个月",
+      "onboard_time": 1746090622,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 229727,
@@ -771,8 +811,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 207209,
-      "num": 207209,
+      "raw_hot": 209949,
+      "num": 209949,
       "word": "枭起青壤",
       "onboard_time": 1746088102,
       "rank": 36,
@@ -795,19 +835,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 205203,
+      "num": 205203,
+      "word": "知道五一人多但没想到人这么多",
+      "onboard_time": 1746087561,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 204662,
+      "num": 204662,
+      "word": "为三百块利息失去三百万",
+      "onboard_time": 1746090921,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202636,
       "num": 202636,
       "word": "翔霖",
       "onboard_time": 1746088582,
       "rank": 25,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 200824,
-      "num": 200824,
-      "word": "朱苏",
-      "onboard_time": 1746087502,
-      "rank": 22,
       "category": "演出"
     },
     {
@@ -840,6 +888,14 @@
       "word": "网友上了高速发现全都是聪明人",
       "onboard_time": 1746061520,
       "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 198296,
+      "num": 198296,
+      "word": "这届年轻人五一出行不再大包小包",
+      "onboard_time": 1746090742,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -987,6 +1043,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 187236,
+      "num": 187236,
+      "word": "韩国月子中心都吃什么",
+      "onboard_time": 1746089542,
+      "rank": 29,
+      "category": "情感,民生新闻"
+    },
+    {
       "raw_hot": 187056,
       "num": 187056,
       "word": "黄奕是有高人指点吗",
@@ -1091,6 +1155,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 174066,
+      "num": 174066,
+      "word": "回忆专用小马甲",
+      "onboard_time": 1746090921,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
       "raw_hot": 172442,
       "num": 172442,
       "word": "种地吧五一插秧日plive",
@@ -1187,14 +1259,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 161816,
-      "num": 161816,
-      "word": "泰山陪爬小伙忙疯了也赚疯了",
-      "onboard_time": 1746088163,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 161475,
       "num": 161475,
       "word": "幽灵公主",
@@ -1275,6 +1339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151669,
+      "num": 151669,
+      "word": "沈月演东方秦兰是宿命吧",
+      "onboard_time": 1746090861,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151267,
       "num": 151267,
       "word": "玲花是曾毅特别鸣谢的第一位",
@@ -1347,20 +1419,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144479,
+      "num": 220365,
+      "word": "李在明案被发回重审",
+      "onboard_time": 1746089721,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 144318,
       "num": 144318,
       "word": "张极灯牌",
       "onboard_time": 1746085522,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 142880,
-      "num": 142880,
-      "word": "知道五一人多但没想到人这么多",
-      "onboard_time": 1746087561,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 142772,
@@ -1579,14 +1651,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 128463,
-      "num": 128463,
-      "word": "协和医学院校长4加4毕业典礼发言",
-      "onboard_time": 1746089001,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 128193,
       "num": 220843,
       "word": "普通医学生培养时间能合理缩短吗",
@@ -1691,6 +1755,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 122569,
+      "num": 122569,
+      "word": "朝阳群众举报大货车死亡掉头",
+      "onboard_time": 1746091461,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122338,
       "num": 122338,
       "word": "大鹏杨幂演夫妻",
@@ -1715,6 +1787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118019,
+      "num": 118019,
+      "word": "泰山陪爬",
+      "onboard_time": 1746091461,
+      "rank": 42,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 117995,
       "num": 117995,
       "word": "这跟一辈子上高中有什么区别",
@@ -1729,6 +1809,14 @@
       "onboard_time": 1746080242,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 117741,
+      "num": 117741,
+      "word": "只看着我",
+      "onboard_time": 1746091401,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 116736,
@@ -1875,6 +1963,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 107917,
+      "num": 107917,
+      "word": "太湖湾音乐节",
+      "onboard_time": 1746091521,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 107895,
       "num": 107895,
       "word": "杜海涛约女明星吃饭",
@@ -1913,6 +2009,22 @@
       "onboard_time": 1746062602,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105610,
+      "num": 105610,
+      "word": "官方通报医院工作人员上班打游戏",
+      "onboard_time": 1746090861,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104144,
+      "num": 137346,
+      "word": "沙县小吃为什么没人吃了",
+      "onboard_time": 1746088700,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102228,
@@ -2169,6 +2281,14 @@
       "onboard_time": 1746023364,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59396,
+      "num": 222925,
+      "word": "五一档为何要选神印剧场版",
+      "onboard_time": 1746091281,
+      "rank": 19,
+      "category": "动漫"
     },
     {
       "raw_hot": 59098,
@@ -2449,14 +2569,6 @@
       "onboard_time": 1746040634,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 18342,
-      "num": 137346,
-      "word": "沙县小吃为什么没人吃了",
-      "onboard_time": 1746088700,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 18091,
