@@ -1,6 +1,6 @@
 {
   "startTime": 1746117084529,
-  "endTime": 1746196962505,
+  "endTime": 1746199566283,
   "band_list": [
     {
       "raw_hot": 3885539,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1240804,
-      "num": 374399,
+      "num": 392469,
       "word": "高中生继承5亿遗产结婚当天坠亡",
       "onboard_time": 1746190950,
       "rank": 30,
@@ -121,6 +121,14 @@
       "onboard_time": 1746183929,
       "rank": 17,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1072731,
+      "num": 398350,
+      "word": "一直对月薪4000没概念直到换成天",
+      "onboard_time": 1746198152,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 1065502,
@@ -243,6 +251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 799177,
+      "num": 799177,
+      "word": "EDG回家",
+      "onboard_time": 1746197373,
+      "rank": 1,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 767281,
       "num": 338280,
       "word": "董某莹事件唯有真相才能定纷止争",
@@ -259,6 +275,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 721651,
+      "num": 389735,
+      "word": "福建一隧道4辆车发生事故",
+      "onboard_time": 1746195092,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 716250,
       "num": 716250,
       "word": "彭昱畅这么帅了",
@@ -273,6 +297,14 @@
       "onboard_time": 1746191188,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 683337,
+      "num": 683337,
+      "word": "Bin blg回来了",
+      "onboard_time": 1746197373,
+      "rank": 3,
+      "category": "电竞"
     },
     {
       "raw_hot": 672560,
@@ -363,11 +395,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 585037,
-      "num": 361023,
-      "word": "福建一隧道4辆车发生事故",
-      "onboard_time": 1746195092,
-      "rank": 27,
+      "raw_hot": 581521,
+      "num": 581521,
+      "word": "山东日照不允许游客挖不到蛤蜊",
+      "onboard_time": 1746195213,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -611,6 +643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 432924,
+      "num": 432924,
+      "word": "西安暴雨",
+      "onboard_time": 1746195331,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 427432,
       "num": 427432,
       "word": "众人为举国旗爬山男子照亮上山路",
@@ -624,14 +664,6 @@
       "word": "种了27年的地因未退耕被判刑6个月",
       "onboard_time": 1746147268,
       "rank": 15,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 423972,
-      "num": 423972,
-      "word": "西安暴雨",
-      "onboard_time": 1746195331,
-      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -691,6 +723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 407874,
+      "num": 407874,
+      "word": "张小婉组五公第一",
+      "onboard_time": 1746196412,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 405847,
       "num": 405847,
       "word": "群聊泄密事件当事人升职",
@@ -739,6 +779,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 371053,
+      "num": 192952,
+      "word": "香港月薪5万董事长女助理的一天",
+      "onboard_time": 1746197431,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 370733,
+      "num": 370733,
+      "word": "张晚意音乐节哭了",
+      "onboard_time": 1746195271,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 349303,
       "num": 271667,
       "word": "尹净汉出国",
@@ -769,14 +825,6 @@
       "onboard_time": 1746170241,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 346472,
-      "num": 346472,
-      "word": "张晚意音乐节哭了",
-      "onboard_time": 1746195271,
-      "rank": 30,
-      "category": "演出"
     },
     {
       "raw_hot": 338898,
@@ -891,14 +939,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 302727,
-      "num": 302727,
-      "word": "张小婉组五公第一",
-      "onboard_time": 1746196412,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 300862,
       "num": 300862,
       "word": "你的指甲盖真像刘亦菲",
@@ -987,20 +1027,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 270539,
-      "num": 399640,
-      "word": "山东日照不允许游客挖不到蛤蜊",
-      "onboard_time": 1746195213,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 269657,
       "num": 269657,
       "word": "医生称劣质无痕内裤可能是胶水粘的",
       "onboard_time": 1746145649,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 268633,
+      "num": 268633,
+      "word": "zmjjkk尽力了",
+      "onboard_time": 1746198742,
+      "rank": 20,
+      "category": "电竞"
     },
     {
       "raw_hot": 265182,
@@ -1083,6 +1123,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 246813,
+      "num": 246813,
+      "word": "南门兜",
+      "onboard_time": 1746197193,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 245665,
       "num": 245665,
       "word": "极禹不值得",
@@ -1139,6 +1187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 226680,
+      "num": 403002,
+      "word": "美国人正绕过关税打飞的来华购物",
+      "onboard_time": 1746198384,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 225594,
       "num": 234901,
       "word": "AXIZ对战WBG",
@@ -1163,12 +1219,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 220468,
+      "num": 220468,
+      "word": "simon edg",
+      "onboard_time": 1746198384,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 219632,
       "num": 394267,
       "word": "加沙一袋面粉卖4000元",
       "onboard_time": 1746149068,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 218170,
+      "num": 218170,
+      "word": "谁家明星自己打车回家",
+      "onboard_time": 1746195872,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 206893,
@@ -1443,6 +1515,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 189089,
+      "num": 189089,
+      "word": "无畏契约",
+      "onboard_time": 1746198622,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 188254,
       "num": 188254,
       "word": "严浩翔 染发",
@@ -1649,6 +1729,14 @@
       "onboard_time": 1746117919,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 166624,
+      "num": 166624,
+      "word": "韩国人把这家超市业绩买成上海区第一",
+      "onboard_time": 1746198384,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 165954,
@@ -1859,6 +1947,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 156617,
+      "num": 194083,
+      "word": "刘诗诗名字里不愧有两个S",
+      "onboard_time": 1746199283,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156544,
       "num": 156544,
       "word": "迪丽热巴跳团播舞",
@@ -2059,12 +2155,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 147407,
+      "num": 147407,
+      "word": "杰尼",
+      "onboard_time": 1746198982,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 147114,
       "num": 147114,
       "word": "是女儿是妈妈2定档",
       "onboard_time": 1746162029,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146869,
+      "num": 734745,
+      "word": "五一假期文旅市场井喷式增长",
+      "onboard_time": 1746193832,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 145873,
@@ -2203,6 +2315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139572,
+      "num": 144914,
+      "word": "AG七连进决赛",
+      "onboard_time": 1746198092,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 139276,
       "num": 139276,
       "word": "陈丽君李云霄新版梁祝全本首演",
@@ -2233,6 +2353,22 @@
       "onboard_time": 1746164370,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137295,
+      "num": 142629,
+      "word": "AG郑州见",
+      "onboard_time": 1746198092,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 136657,
+      "num": 137746,
+      "word": "张杰鸟巢演唱会",
+      "onboard_time": 1746198862,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 136438,
@@ -2395,14 +2531,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 128904,
-      "num": 538397,
-      "word": "五一假期文旅市场井喷式增长",
-      "onboard_time": 1746193832,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 128817,
       "num": 128817,
       "word": "看得出来各地文旅这个假期很努力了",
@@ -2433,6 +2561,14 @@
       "onboard_time": 1746153150,
       "rank": 41,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 128050,
+      "num": 128050,
+      "word": "南大教授称陈丽君说错也没必要抹黑",
+      "onboard_time": 1746199462,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 127528,
@@ -2603,6 +2739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118073,
+      "num": 386539,
+      "word": "职校学生运动会后集体退超60件裙子",
+      "onboard_time": 1746198803,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117165,
       "num": 117165,
       "word": "GTA6延期至明年",
@@ -2633,6 +2777,14 @@
       "onboard_time": 1746192932,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 115055,
+      "num": 115055,
+      "word": "判断骨盆歪斜的最简单方法",
+      "onboard_time": 1746199043,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 114998,
@@ -3195,6 +3347,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 81112,
+      "num": 275954,
+      "word": "鸡蛋多给近300克顾客担心有猫腻",
+      "onboard_time": 1746198322,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80667,
       "num": 117749,
       "word": "刘诗诗这段梦回红葵蓝葵",
@@ -3571,6 +3731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37119,
+      "num": 377491,
+      "word": "徒手从着火车中救人镇干部发声",
+      "onboard_time": 1746198263,
+      "rank": 14,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 37084,
       "num": 137944,
       "word": "胡锡进建议京沪人南北互窜",
@@ -3729,6 +3897,14 @@
       "onboard_time": 1746123016,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 24759,
+      "num": 234319,
+      "word": "王昶说奥运会每场球至少看了两遍",
+      "onboard_time": 1746199161,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 24601,

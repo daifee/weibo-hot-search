@@ -1,0 +1,410 @@
+{
+  "runTime": 1746199566283,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1107536,
+        "num": 1177205,
+        "word": "南大教授回应陈丽君说贾宝玉长孙",
+        "onboard_time": 1746192270,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 799177,
+        "num": 799177,
+        "word": "EDG回家",
+        "onboard_time": 1746197373,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 146869,
+        "num": 734745,
+        "word": "五一假期文旅市场井喷式增长",
+        "onboard_time": 1746193832,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 683337,
+        "num": 683337,
+        "word": "Bin blg回来了",
+        "onboard_time": 1746197373,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 653781,
+        "num": 653781,
+        "word": "杜华考虑签约武大校花引发热议",
+        "onboard_time": 1746185910,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 581521,
+        "num": 581521,
+        "word": "山东日照不允许游客挖不到蛤蜊",
+        "onboard_time": 1746195213,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 432924,
+        "num": 432924,
+        "word": "西安暴雨",
+        "onboard_time": 1746195331,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 422261,
+        "num": 422261,
+        "word": "刘诗诗先秦淑女步",
+        "onboard_time": 1746191188,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 407874,
+        "num": 407874,
+        "word": "张小婉组五公第一",
+        "onboard_time": 1746196412,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226680,
+        "num": 403002,
+        "word": "美国人正绕过关税打飞的来华购物",
+        "onboard_time": 1746198384,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1072731,
+        "num": 398350,
+        "word": "一直对月薪4000没概念直到换成天",
+        "onboard_time": 1746198152,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 763042,
+        "num": 392469,
+        "word": "高中生继承5亿遗产结婚当天坠亡",
+        "onboard_time": 1746190950,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 721651,
+        "num": 389735,
+        "word": "福建一隧道4辆车发生事故",
+        "onboard_time": 1746195092,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118073,
+        "num": 386539,
+        "word": "职校学生运动会后集体退超60件裙子",
+        "onboard_time": 1746198803,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37119,
+        "num": 377491,
+        "word": "徒手从着火车中救人镇干部发声",
+        "onboard_time": 1746198263,
+        "rank": 14,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 658163,
+        "num": 371468,
+        "word": "酒店痛房",
+        "onboard_time": 1746187890,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 370733,
+        "num": 370733,
+        "word": "张晚意音乐节哭了",
+        "onboard_time": 1746195271,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 365156,
+        "num": 365156,
+        "word": "阿根廷近海7.4级地震",
+        "onboard_time": 1746193712,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 353266,
+        "num": 353266,
+        "word": "邓超妻子的幸福丈夫的荣耀",
+        "onboard_time": 1746193291,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81112,
+        "num": 275954,
+        "word": "鸡蛋多给近300克顾客担心有猫腻",
+        "onboard_time": 1746198322,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268633,
+        "num": 268633,
+        "word": "zmjjkk尽力了",
+        "onboard_time": 1746198742,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 267851,
+        "num": 267851,
+        "word": "人人人人人人景点人人人人人人",
+        "onboard_time": 1746190831,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252920,
+        "num": 252920,
+        "word": "胖东来向胖都来寄律师函",
+        "onboard_time": 1746190950,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246813,
+        "num": 246813,
+        "word": "南门兜",
+        "onboard_time": 1746197193,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24759,
+        "num": 234319,
+        "word": "王昶说奥运会每场球至少看了两遍",
+        "onboard_time": 1746199161,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230587,
+        "num": 230587,
+        "word": "比尔盖茨被爆患阿斯伯格综合征",
+        "onboard_time": 1746183929,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 220468,
+        "num": 220468,
+        "word": "simon edg",
+        "onboard_time": 1746198384,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 218170,
+        "num": 218170,
+        "word": "谁家明星自己打车回家",
+        "onboard_time": 1746195872,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212464,
+        "num": 212464,
+        "word": "王珞丹浪姐遭遇信任崩塌",
+        "onboard_time": 1746193291,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156617,
+        "num": 194083,
+        "word": "刘诗诗名字里不愧有两个S",
+        "onboard_time": 1746199283,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 371053,
+        "num": 192952,
+        "word": "香港月薪5万董事长女助理的一天",
+        "onboard_time": 1746197431,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189089,
+        "num": 189089,
+        "word": "无畏契约",
+        "onboard_time": 1746198622,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 174074,
+        "num": 174074,
+        "word": "爸爸用维生素为女儿变出萤火流星雨",
+        "onboard_time": 1746193591,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166624,
+        "num": 166624,
+        "word": "韩国人把这家超市业绩买成上海区第一",
+        "onboard_time": 1746198384,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 147600,
+        "num": 147600,
+        "word": "刘诗诗顶级魅魔",
+        "onboard_time": 1746196533,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147407,
+        "num": 147407,
+        "word": "杰尼",
+        "onboard_time": 1746198982,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 145616,
+        "num": 145616,
+        "word": "西湖风景区回应农药喷进游客嘴里",
+        "onboard_time": 1746194732,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139572,
+        "num": 144914,
+        "word": "AG七连进决赛",
+        "onboard_time": 1746198092,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 144435,
+        "num": 144435,
+        "word": "BLG更换教练",
+        "onboard_time": 1746196292,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 137295,
+        "num": 142629,
+        "word": "AG郑州见",
+        "onboard_time": 1746198092,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 142214,
+        "num": 142214,
+        "word": "蛮好的人生大结局",
+        "onboard_time": 1746184350,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140635,
+        "num": 140635,
+        "word": "曾黎工作室徽章失窃",
+        "onboard_time": 1746163710,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137909,
+        "num": 137909,
+        "word": "周洁琼好权威的美貌",
+        "onboard_time": 1746192212,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136657,
+        "num": 137746,
+        "word": "张杰鸟巢演唱会",
+        "onboard_time": 1746198862,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 137680,
+        "num": 137680,
+        "word": "BLG十番战EDG",
+        "onboard_time": 1746180029,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 128050,
+        "num": 128050,
+        "word": "南大教授称陈丽君说错也没必要抹黑",
+        "onboard_time": 1746199462,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125417,
+        "num": 125417,
+        "word": "王凯首度回应快两年没进组",
+        "onboard_time": 1746187530,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124745,
+        "num": 124745,
+        "word": "姚译添我劝你要善良",
+        "onboard_time": 1746191010,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123648,
+        "num": 123648,
+        "word": "离岸人民币兑美元涨逾500点",
+        "onboard_time": 1746193771,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 115055,
+        "num": 115055,
+        "word": "判断骨盆歪斜的最简单方法",
+        "onboard_time": 1746199043,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光的你#"
+    }
+  }
+}

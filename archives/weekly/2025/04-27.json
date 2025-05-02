@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1746196962505,
+  "endTime": 1746199566283,
   "band_list": [
     {
       "raw_hot": 8960529,
@@ -900,7 +900,7 @@
     },
     {
       "raw_hot": 1240804,
-      "num": 374399,
+      "num": 392469,
       "word": "高中生继承5亿遗产结婚当天坠亡",
       "onboard_time": 1746190950,
       "rank": 30,
@@ -1097,6 +1097,14 @@
       "onboard_time": 1745836581,
       "rank": 4,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1072731,
+      "num": 398350,
+      "word": "一直对月薪4000没概念直到换成天",
+      "onboard_time": 1746198152,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 1072652,
@@ -1723,6 +1731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 799177,
+      "num": 799177,
+      "word": "EDG回家",
+      "onboard_time": 1746197373,
+      "rank": 1,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 795586,
       "num": 795586,
       "word": "只要保持一个月九点之前睡觉",
@@ -1955,6 +1971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 721651,
+      "num": 389735,
+      "word": "福建一隧道4辆车发生事故",
+      "onboard_time": 1746195092,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 716907,
       "num": 1114705,
       "word": "马龙谈樊振东",
@@ -2121,6 +2145,14 @@
       "onboard_time": 1745975542,
       "rank": 20,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 683337,
+      "num": 683337,
+      "word": "Bin blg回来了",
+      "onboard_time": 1746197373,
+      "rank": 3,
+      "category": "电竞"
     },
     {
       "raw_hot": 682446,
@@ -2659,11 +2691,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 585037,
-      "num": 361023,
-      "word": "福建一隧道4辆车发生事故",
-      "onboard_time": 1746195092,
-      "rank": 27,
+      "raw_hot": 581521,
+      "num": 581521,
+      "word": "山东日照不允许游客挖不到蛤蜊",
+      "onboard_time": 1746195213,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -3747,6 +3779,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 432924,
+      "num": 432924,
+      "word": "西安暴雨",
+      "onboard_time": 1746195331,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 431172,
       "num": 431172,
       "word": "当苹果闹钟遇上调休",
@@ -3832,14 +3872,6 @@
       "word": "种了27年的地因未退耕被判刑6个月",
       "onboard_time": 1746147268,
       "rank": 15,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 423972,
-      "num": 423972,
-      "word": "西安暴雨",
-      "onboard_time": 1746195331,
-      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -4041,6 +4073,14 @@
       "onboard_time": 1746079820,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 407874,
+      "num": 407874,
+      "word": "张小婉组五公第一",
+      "onboard_time": 1746196412,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 405847,
@@ -4403,6 +4443,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 371053,
+      "num": 192952,
+      "word": "香港月薪5万董事长女助理的一天",
+      "onboard_time": 1746197431,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 370733,
+      "num": 370733,
+      "word": "张晚意音乐节哭了",
+      "onboard_time": 1746195271,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 369703,
       "num": 369703,
       "word": "李铁案今天二审宣判",
@@ -4608,14 +4664,6 @@
       "word": "十个勤天演唱会",
       "onboard_time": 1745837481,
       "rank": 13,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 346472,
-      "num": 346472,
-      "word": "张晚意音乐节哭了",
-      "onboard_time": 1746195271,
-      "rank": 30,
       "category": "演出"
     },
     {
@@ -5177,14 +5225,6 @@
       "onboard_time": 1746010702,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 302727,
-      "num": 302727,
-      "word": "张小婉组五公第一",
-      "onboard_time": 1746196412,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 302331,
@@ -5787,14 +5827,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 270539,
-      "num": 399640,
-      "word": "山东日照不允许游客挖不到蛤蜊",
-      "onboard_time": 1746195213,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 270195,
       "num": 270195,
       "word": "海外网红疯狂整容导致塑料脸",
@@ -5817,6 +5849,14 @@
       "onboard_time": 1745904863,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 268633,
+      "num": 268633,
+      "word": "zmjjkk尽力了",
+      "onboard_time": 1746198742,
+      "rank": 20,
+      "category": "电竞"
     },
     {
       "raw_hot": 268370,
@@ -6355,6 +6395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 246813,
+      "num": 246813,
+      "word": "南门兜",
+      "onboard_time": 1746197193,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 246584,
       "num": 246584,
       "word": "乌克兰女记者遗体被俄归还",
@@ -6819,6 +6867,14 @@
       "category": "国内时政,体育"
     },
     {
+      "raw_hot": 226680,
+      "num": 403002,
+      "word": "美国人正绕过关税打飞的来华购物",
+      "onboard_time": 1746198384,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 226374,
       "num": 226374,
       "word": "丁禹兮造梗比呼吸还简单",
@@ -6979,6 +7035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 220468,
+      "num": 220468,
+      "word": "simon edg",
+      "onboard_time": 1746198384,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 220290,
       "num": 271704,
       "word": "哪吒2出品人回应饺子闭关",
@@ -7080,6 +7144,14 @@
       "word": "24岁演戏50岁教英语最近想开飞机",
       "onboard_time": 1745713462,
       "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 218170,
+      "num": 218170,
+      "word": "谁家明星自己打车回家",
+      "onboard_time": 1746195872,
+      "rank": 27,
       "category": "艺人"
     },
     {
@@ -8915,6 +8987,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 189089,
+      "num": 189089,
+      "word": "无畏契约",
+      "onboard_time": 1746047474,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 189087,
       "num": 189087,
       "word": "当你突然开始跑步 你的身体belike",
@@ -10347,6 +10427,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 166624,
+      "num": 166624,
+      "word": "韩国人把这家超市业绩买成上海区第一",
+      "onboard_time": 1746198384,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 166358,
       "num": 166358,
       "word": "终于明白了中国的非遗为什么宝贝",
@@ -11193,6 +11281,14 @@
       "onboard_time": 1746159750,
       "rank": 21,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 156617,
+      "num": 194083,
+      "word": "刘诗诗名字里不愧有两个S",
+      "onboard_time": 1746199283,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 156606,
@@ -12051,6 +12147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147407,
+      "num": 147407,
+      "word": "杰尼",
+      "onboard_time": 1746198982,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 147114,
       "num": 147114,
       "word": "是女儿是妈妈2定档",
@@ -12065,6 +12169,14 @@
       "onboard_time": 1746005842,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 146869,
+      "num": 734745,
+      "word": "五一假期文旅市场井喷式增长",
+      "onboard_time": 1746193832,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 146716,
@@ -12819,6 +12931,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 139572,
+      "num": 144914,
+      "word": "AG七连进决赛",
+      "onboard_time": 1746198092,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 139499,
       "num": 139499,
       "word": "风象星座为什么越爱越无力",
@@ -13035,6 +13155,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 137295,
+      "num": 142629,
+      "word": "AG郑州见",
+      "onboard_time": 1746198092,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 137226,
       "num": 335283,
       "word": "小米系全线大涨",
@@ -13121,6 +13249,14 @@
       "onboard_time": 1745922202,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 136657,
+      "num": 137746,
+      "word": "张杰鸟巢演唱会",
+      "onboard_time": 1746198862,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 136627,
@@ -13803,14 +13939,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 128904,
-      "num": 538397,
-      "word": "五一假期文旅市场井喷式增长",
-      "onboard_time": 1746193832,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 128817,
       "num": 128817,
       "word": "看得出来各地文旅这个假期很努力了",
@@ -13889,6 +14017,14 @@
       "onboard_time": 1746049995,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 128050,
+      "num": 128050,
+      "word": "南大教授称陈丽君说错也没必要抹黑",
+      "onboard_time": 1746199462,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 128033,
@@ -14739,6 +14875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118073,
+      "num": 386539,
+      "word": "职校学生运动会后集体退超60件裙子",
+      "onboard_time": 1746198803,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118030,
       "num": 118030,
       "word": "EDGM对战DRG",
@@ -15017,6 +15161,14 @@
       "onboard_time": 1745996602,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115055,
+      "num": 115055,
+      "word": "判断骨盆歪斜的最简单方法",
+      "onboard_time": 1746199043,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 114998,
@@ -17475,6 +17627,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 81112,
+      "num": 275954,
+      "word": "鸡蛋多给近300克顾客担心有猫腻",
+      "onboard_time": 1746198322,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80642,
       "num": 211513,
       "word": "西班牙首相誓言彻查大停电事件",
@@ -19883,6 +20043,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 37119,
+      "num": 377491,
+      "word": "徒手从着火车中救人镇干部发声",
+      "onboard_time": 1746198263,
+      "rank": 14,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 37084,
       "num": 137944,
       "word": "胡锡进建议京沪人南北互窜",
@@ -20737,6 +20905,14 @@
       "onboard_time": 1745950395,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 24759,
+      "num": 234319,
+      "word": "王昶说奥运会每场球至少看了两遍",
+      "onboard_time": 1746199161,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 24657,
@@ -21753,14 +21929,6 @@
       "onboard_time": 1745838081,
       "rank": 18,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 14720,
-      "num": 21305,
-      "word": "无畏契约",
-      "onboard_time": 1746047474,
-      "rank": 47,
-      "category": "电竞"
     },
     {
       "raw_hot": 14696,
