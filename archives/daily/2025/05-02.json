@@ -1,6 +1,6 @@
 {
   "startTime": 1746117084529,
-  "endTime": 1746150964756,
+  "endTime": 1746152307917,
   "band_list": [
     {
       "raw_hot": 1572681,
@@ -27,6 +27,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 923353,
+      "num": 436695,
+      "word": "协和4加4培养的是天才还是关系户",
+      "onboard_time": 1746143959,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 906171,
       "num": 608148,
       "word": "日本再现无差别杀人",
@@ -35,12 +43,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 884510,
-      "num": 436695,
-      "word": "协和4加4培养的是天才还是关系户",
-      "onboard_time": 1746143959,
-      "rank": 11,
-      "category": "民生新闻"
+      "raw_hot": 894228,
+      "num": 1143076,
+      "word": "外交部回应韩国偶像组合将赴华演出",
+      "onboard_time": 1746149128,
+      "rank": 0,
+      "category": "演出"
     },
     {
       "raw_hot": 873139,
@@ -107,6 +115,22 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 576530,
+      "num": 576530,
+      "word": "年轻人开始流行旅游摆摊了",
+      "onboard_time": 1746149610,
+      "rank": 7,
+      "category": "民生新闻,幽默"
+    },
+    {
+      "raw_hot": 575176,
+      "num": 405260,
+      "word": "曾黎",
+      "onboard_time": 1746150268,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 561787,
       "num": 352223,
       "word": "特朗普称美国孩子只能有2个玩具了",
@@ -131,6 +155,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 476858,
+      "num": 404883,
+      "word": "唐嫣工作室重组",
+      "onboard_time": 1746151349,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 459790,
       "num": 459790,
       "word": "第一大波游客已经抵达山西",
@@ -145,14 +177,6 @@
       "onboard_time": 1746143179,
       "rank": 12,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 455506,
-      "num": 455506,
-      "word": "年轻人开始流行旅游摆摊了",
-      "onboard_time": 1746149610,
-      "rank": 7,
-      "category": "民生新闻,幽默"
     },
     {
       "raw_hot": 444645,
@@ -187,6 +211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 424561,
+      "num": 424561,
+      "word": "种了27年的地因未退耕被判刑6个月",
+      "onboard_time": 1746147268,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 418188,
       "num": 418188,
       "word": "赵露思只唱了两首歌",
@@ -203,20 +235,20 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 393268,
-      "num": 393268,
-      "word": "种了27年的地因未退耕被判刑6个月",
-      "onboard_time": 1746147268,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 372852,
       "num": 331554,
       "word": "翁虹与丈夫分居3年感情反而更好了",
       "onboard_time": 1746142158,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 336428,
+      "num": 336428,
+      "word": "孙颖莎王楚钦公园陪打",
+      "onboard_time": 1746151708,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 334851,
@@ -227,20 +259,20 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 323675,
+      "num": 276002,
+      "word": "女子请病假追星被辞退起诉赔偿被驳",
+      "onboard_time": 1746144319,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 310526,
       "num": 310526,
       "word": "日本皇室生活费被盗",
       "onboard_time": 1746115040,
       "rank": 16,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 310430,
-      "num": 276002,
-      "word": "女子请病假追星被辞退起诉赔偿被驳",
-      "onboard_time": 1746144319,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 300862,
@@ -307,12 +339,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 244447,
-      "num": 281616,
-      "word": "曾黎",
-      "onboard_time": 1746150268,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 219632,
+      "num": 394267,
+      "word": "加沙一袋面粉卖4000元",
+      "onboard_time": 1746149068,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 206893,
@@ -347,12 +379,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 184270,
-      "num": 394267,
-      "word": "加沙一袋面粉卖4000元",
-      "onboard_time": 1746149068,
-      "rank": 14,
-      "category": "国际时政"
+      "raw_hot": 179193,
+      "num": 179193,
+      "word": "王励勤强调国乒是一个集体",
+      "onboard_time": 1746152249,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 175701,
@@ -361,6 +393,14 @@
       "onboard_time": 1746110663,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 169765,
+      "num": 231870,
+      "word": "特朗普承认货架或将变空",
+      "onboard_time": 1746150448,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 167542,
@@ -395,6 +435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159452,
+      "num": 159452,
+      "word": "五一假期第2天",
+      "onboard_time": 1746144740,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158939,
       "num": 158939,
       "word": "赵露思辣妹红发",
@@ -403,12 +451,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 155029,
-      "num": 155029,
-      "word": "五一假期第2天",
-      "onboard_time": 1746144740,
-      "rank": 30,
-      "category": "民生新闻"
+      "raw_hot": 158168,
+      "num": 158168,
+      "word": "四川观察",
+      "onboard_time": 1746151708,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 153367,
@@ -435,8 +483,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 146057,
-      "num": 146057,
+      "raw_hot": 148048,
+      "num": 148048,
       "word": "南宁丢那猩互动时丢石块砸伤游客",
       "onboard_time": 1746145518,
       "rank": 31,
@@ -451,8 +499,16 @@
       "category": "演出"
     },
     {
+      "raw_hot": 145624,
+      "num": 145624,
+      "word": "张凌赫说金靖气血不足",
+      "onboard_time": 1746151830,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143465,
-      "num": 143465,
+      "num": 236693,
       "word": "美方想谈就应拿出谈的诚意",
       "onboard_time": 1746146790,
       "rank": 32,
@@ -475,12 +531,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132855,
+      "num": 132855,
+      "word": "是谁玩坏了协和4加4",
+      "onboard_time": 1746149849,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132261,
       "num": 132261,
       "word": "落日飞车迟到",
       "onboard_time": 1746144019,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 131518,
+      "num": 131518,
+      "word": "店主往笼子里放5只小猫忙出残影",
+      "onboard_time": 1746151769,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131267,
@@ -547,28 +619,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 111715,
-      "num": 111715,
-      "word": "是谁玩坏了协和4加4",
-      "onboard_time": 1746149849,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 109727,
       "num": 159511,
       "word": "外国人组团飞到中国代购中国制造",
       "onboard_time": 1746140957,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 108666,
-      "num": 108666,
-      "word": "特朗普承认货架或将变空",
-      "onboard_time": 1746150448,
-      "rank": 41,
-      "category": "国际时政"
     },
     {
       "raw_hot": 107829,
@@ -611,6 +667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 100761,
+      "num": 100761,
+      "word": "董明珠说能干不是文凭说了算",
+      "onboard_time": 1746146489,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100718,
       "num": 100718,
       "word": "星穹铁道不乱不破现场版",
@@ -635,12 +699,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 95717,
-      "num": 95717,
-      "word": "董明珠说能干不是文凭说了算",
-      "onboard_time": 1746146489,
-      "rank": 43,
-      "category": "民生新闻"
+      "raw_hot": 95584,
+      "num": 95584,
+      "word": "小米回应SU7Ultra限制1500匹马力",
+      "onboard_time": 1746151830,
+      "rank": 45,
+      "category": "汽车"
     },
     {
       "raw_hot": 93948,
@@ -665,6 +729,14 @@
       "onboard_time": 1746146727,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 87372,
+      "num": 87372,
+      "word": "晚安奈奈澄清",
+      "onboard_time": 1746151169,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 86850,
@@ -1009,6 +1081,14 @@
       "onboard_time": 1746142639,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 12232,
+      "num": 247929,
+      "word": "实测特供中国游客的泰国海岛",
+      "onboard_time": 1746151889,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 11656,
