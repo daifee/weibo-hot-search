@@ -1,0 +1,410 @@
+{
+  "runTime": 1746181609755,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1196647,
+        "num": 1196647,
+        "word": "曾黎工作室徽章失窃",
+        "onboard_time": 1746163710,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 526622,
+        "num": 526622,
+        "word": "普陀山",
+        "onboard_time": 1746171142,
+        "rank": 1,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 45534,
+        "num": 478927,
+        "word": "每个努力奋斗的你都闪闪发光",
+        "onboard_time": 1746177569,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 475331,
+        "num": 475331,
+        "word": "女伴舞",
+        "onboard_time": 1746177022,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 399654,
+        "num": 399654,
+        "word": "日本3个月前坠坑老人确认死亡",
+        "onboard_time": 1746166889,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 373995,
+        "num": 373995,
+        "word": "五一假期是捅人窝了吧",
+        "onboard_time": 1746166410,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 470266,
+        "num": 364588,
+        "word": "杨迪晒与娜扎合照陈哲远他急了",
+        "onboard_time": 1746175642,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 447126,
+        "num": 354355,
+        "word": "刘诗诗新剧",
+        "onboard_time": 1746175701,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 287711,
+        "num": 287711,
+        "word": "荣昌公务员食堂一顿蒸1000斤米饭",
+        "onboard_time": 1746181288,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256868,
+        "num": 256868,
+        "word": "美军战机正运往乌克兰",
+        "onboard_time": 1746178829,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 881855,
+        "num": 256239,
+        "word": "董小姐在她一作的论文里负责翻译",
+        "onboard_time": 1746163890,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 566837,
+        "num": 255883,
+        "word": "当老爸得知我去日本玩be like",
+        "onboard_time": 1746170540,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 495052,
+        "num": 254419,
+        "word": "红秀 何秋亊",
+        "onboard_time": 1746178289,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 429876,
+        "num": 254068,
+        "word": "董力婚后和初恋单独吃过饭",
+        "onboard_time": 1746166589,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33541,
+        "num": 252986,
+        "word": "动车停摆被困车厢超4小时乘客发声",
+        "onboard_time": 1746180810,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 278875,
+        "num": 252272,
+        "word": "陈丽君说贾宝玉是长子长孙",
+        "onboard_time": 1746180989,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 251860,
+        "num": 251860,
+        "word": "买8楼送9楼10楼",
+        "onboard_time": 1746156209,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 240792,
+        "num": 240792,
+        "word": "2025年竟然在跑男里看到了陈赫",
+        "onboard_time": 1746170120,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224771,
+        "num": 224771,
+        "word": "宋亚轩刘耀文偷偷藏不住",
+        "onboard_time": 1746176480,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 29486,
+        "num": 223678,
+        "word": "游乐园回应多名游客用脚踹骆驼",
+        "onboard_time": 1746180810,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279592,
+        "num": 223563,
+        "word": "文化水平限制不了我点菜水平",
+        "onboard_time": 1746181349,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 223346,
+        "num": 223346,
+        "word": "王励勤谢绝媒体采访国乒队员",
+        "onboard_time": 1746170241,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222022,
+        "num": 222022,
+        "word": "泰国的中文菜单受众群体到底是谁",
+        "onboard_time": 1746181530,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 22648,
+        "num": 220205,
+        "word": "高强度间歇性训练能否有效促进脂肪燃烧",
+        "onboard_time": 1746181288,
+        "rank": 23,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 219103,
+        "num": 219103,
+        "word": "众人为举国旗爬山男子照亮上山路",
+        "onboard_time": 1746174140,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214911,
+        "num": 214911,
+        "word": "弟弟疯狂试探姐姐严防死守",
+        "onboard_time": 1746180450,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210294,
+        "num": 210294,
+        "word": "TOP杂志",
+        "onboard_time": 1746180269,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 91508,
+        "num": 204213,
+        "word": "程子龙朱子锋跳水世界杯夺冠",
+        "onboard_time": 1746180328,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201211,
+        "num": 201211,
+        "word": "苏新皓摔倒",
+        "onboard_time": 1746172460,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 187323,
+        "num": 187323,
+        "word": "长沙岳麓山比心树火了",
+        "onboard_time": 1746180388,
+        "rank": 29,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 183858,
+        "num": 183858,
+        "word": "金价暴跌有人一夜亏47万",
+        "onboard_time": 1746118698,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 167670,
+        "num": 167670,
+        "word": "吴宣仪拒绝叶童",
+        "onboard_time": 1746164129,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162106,
+        "num": 162106,
+        "word": "建议全国演唱会按这个卷",
+        "onboard_time": 1746180810,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 153849,
+        "num": 153849,
+        "word": "苏新皓 第一视角",
+        "onboard_time": 1746180749,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 148143,
+        "num": 148143,
+        "word": "长剧是细水长流短剧是一秒上头",
+        "onboard_time": 1746180388,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144521,
+        "num": 144521,
+        "word": "sana的冰箱采访 宁艺卓",
+        "onboard_time": 1746177270,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141329,
+        "num": 141329,
+        "word": "爱上大嫂是我的宿命",
+        "onboard_time": 1746180568,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138364,
+        "num": 138364,
+        "word": "登陆少年组合ELLEMEN首封",
+        "onboard_time": 1746179729,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 136512,
+        "num": 136512,
+        "word": "曾黎掉粉超10万",
+        "onboard_time": 1746162630,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116192,
+        "num": 133130,
+        "word": "全红婵陈芋汐跳水世界杯冠军",
+        "onboard_time": 1746172640,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 9724,
+        "num": 132612,
+        "word": "马丽演活了臧姑娘",
+        "onboard_time": 1746181589,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132543,
+        "num": 132543,
+        "word": "你说周洁琼是蒲柳之姿吗",
+        "onboard_time": 1746181049,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130590,
+        "num": 130590,
+        "word": "这直播给迪丽热巴看沉默了",
+        "onboard_time": 1746176420,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117451,
+        "num": 117451,
+        "word": "华晨宇巡演请吃炒饭第一人",
+        "onboard_time": 1746178349,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116483,
+        "num": 116483,
+        "word": "刘宇宁一个人就是一个团队",
+        "onboard_time": 1746180989,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115472,
+        "num": 115472,
+        "word": "26岁女子生娃后长高3cm",
+        "onboard_time": 1746157049,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113271,
+        "num": 113271,
+        "word": "极禹不值得",
+        "onboard_time": 1746177080,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 113012,
+        "num": 113012,
+        "word": "李晟小考太帅了",
+        "onboard_time": 1746171020,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109395,
+        "num": 109395,
+        "word": "董某莹事件唯有真相才能定纷止争",
+        "onboard_time": 1746152850,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105115,
+        "num": 105115,
+        "word": "家人回应大爷掉坑3个月终于找到了",
+        "onboard_time": 1746166710,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#科学谋划好十五五总书记这样强调#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1746117084529,
-  "endTime": 1746178819900,
+  "endTime": 1746181609755,
   "band_list": [
     {
       "raw_hot": 2150105,
@@ -347,6 +347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 495052,
+      "num": 254419,
+      "word": "红秀 何秋亊",
+      "onboard_time": 1746178289,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 490142,
       "num": 342735,
       "word": "回忆专用小马甲道歉",
@@ -371,6 +379,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 475331,
+      "num": 475331,
+      "word": "女伴舞",
+      "onboard_time": 1746177022,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 470266,
+      "num": 364588,
+      "word": "杨迪晒与娜扎合照陈哲远他急了",
+      "onboard_time": 1746175642,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 459790,
       "num": 459790,
       "word": "第一大波游客已经抵达山西",
@@ -385,6 +409,14 @@
       "onboard_time": 1746143179,
       "rank": 12,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 447126,
+      "num": 404253,
+      "word": "刘诗诗新剧",
+      "onboard_time": 1746175701,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 444645,
@@ -425,14 +457,6 @@
       "onboard_time": 1746107003,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 435919,
-      "num": 404253,
-      "word": "刘诗诗新剧",
-      "onboard_time": 1746175701,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 427432,
@@ -611,6 +635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 287711,
+      "num": 287711,
+      "word": "荣昌公务员食堂一顿蒸1000斤米饭",
+      "onboard_time": 1746181288,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 286189,
       "num": 193088,
       "word": "石凯 音乐节",
@@ -641,6 +673,22 @@
       "onboard_time": 1746101481,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 279592,
+      "num": 223563,
+      "word": "文化水平限制不了我点菜水平",
+      "onboard_time": 1746181349,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 278875,
+      "num": 252272,
+      "word": "陈丽君说贾宝玉是长子长孙",
+      "onboard_time": 1746180989,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 269657,
@@ -699,6 +747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 256868,
+      "num": 256868,
+      "word": "美军战机正运往乌克兰",
+      "onboard_time": 1746178829,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 253916,
       "num": 253916,
       "word": "荣昌真的接住了泼天流量",
@@ -720,14 +776,6 @@
       "word": "极禹不值得",
       "onboard_time": 1746177080,
       "rank": 21,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 243404,
-      "num": 243404,
-      "word": "女伴舞",
-      "onboard_time": 1746177022,
-      "rank": 24,
       "category": "演出"
     },
     {
@@ -755,14 +803,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 228589,
-      "num": 228589,
-      "word": "杨迪晒与娜扎合照陈哲远他急了",
-      "onboard_time": 1746175642,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 227878,
       "num": 276745,
       "word": "姚晨带子女在厦门赶海",
@@ -779,6 +819,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 222022,
+      "num": 222022,
+      "word": "泰国的中文菜单受众群体到底是谁",
+      "onboard_time": 1746181530,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 221533,
       "num": 221533,
       "word": "张凌赫说金靖气血不足",
@@ -793,6 +841,22 @@
       "onboard_time": 1746149068,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 214911,
+      "num": 214911,
+      "word": "弟弟疯狂试探姐姐严防死守",
+      "onboard_time": 1746180450,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 210294,
+      "num": 210294,
+      "word": "TOP杂志",
+      "onboard_time": 1746180269,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 206893,
@@ -841,14 +905,6 @@
       "onboard_time": 1746161790,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 199921,
-      "num": 199921,
-      "word": "红秀 何秋亊",
-      "onboard_time": 1746178289,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 198419,
@@ -1001,6 +1057,14 @@
       "onboard_time": 1746169880,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 187323,
+      "num": 187323,
+      "word": "长沙岳麓山比心树火了",
+      "onboard_time": 1746180388,
+      "rank": 29,
+      "category": "旅游"
     },
     {
       "raw_hot": 186951,
@@ -1203,6 +1267,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 162106,
+      "num": 162106,
+      "word": "建议全国演唱会按这个卷",
+      "onboard_time": 1746180810,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 161094,
       "num": 161094,
       "word": "Jennie红胶",
@@ -1315,6 +1387,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 153849,
+      "num": 153849,
+      "word": "苏新皓 第一视角",
+      "onboard_time": 1746180749,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 153589,
       "num": 153589,
       "word": "宋雨琦把跑男具象化了",
@@ -1369,6 +1449,14 @@
       "onboard_time": 1746174261,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148143,
+      "num": 148143,
+      "word": "长剧是细水长流短剧是一秒上头",
+      "onboard_time": 1746180388,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 148048,
@@ -1451,6 +1539,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 141329,
+      "num": 141329,
+      "word": "爱上大嫂是我的宿命",
+      "onboard_time": 1746180568,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 141121,
       "num": 141121,
       "word": "彭小苒淘汰",
@@ -1481,6 +1577,14 @@
       "onboard_time": 1746174861,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 138364,
+      "num": 138364,
+      "word": "登陆少年组合ELLEMEN首封",
+      "onboard_time": 1746179729,
+      "rank": 37,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 138056,
@@ -1529,6 +1633,14 @@
       "onboard_time": 1746149849,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132543,
+      "num": 132543,
+      "word": "你说周洁琼是蒲柳之姿吗",
+      "onboard_time": 1746181049,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 132261,
@@ -1736,6 +1848,14 @@
       "word": "侯佩岑能不能开个情商班",
       "onboard_time": 1746102861,
       "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 116483,
+      "num": 116483,
+      "word": "刘宇宁一个人就是一个团队",
+      "onboard_time": 1746180989,
+      "rank": 44,
       "category": "综艺"
     },
     {
@@ -2017,6 +2137,14 @@
       "onboard_time": 1746111443,
       "rank": 44,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 91508,
+      "num": 204213,
+      "word": "程子龙朱子锋跳水世界杯夺冠",
+      "onboard_time": 1746180328,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 91311,
@@ -2443,6 +2571,14 @@
       "category": "旅游,民生新闻"
     },
     {
+      "raw_hot": 33541,
+      "num": 252986,
+      "word": "动车停摆被困车厢超4小时乘客发声",
+      "onboard_time": 1746180810,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33125,
       "num": 731471,
       "word": "劳动者的手每一双都了不起",
@@ -2465,6 +2601,14 @@
       "onboard_time": 1746147629,
       "rank": 35,
       "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 29486,
+      "num": 223678,
+      "word": "游乐园回应多名游客用脚踹骆驼",
+      "onboard_time": 1746180810,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29281,
@@ -2585,6 +2729,14 @@
       "onboard_time": 1746177689,
       "rank": 22,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 22648,
+      "num": 220205,
+      "word": "高强度间歇性训练能否有效促进脂肪燃烧",
+      "onboard_time": 1746181288,
+      "rank": 23,
+      "category": "运动健身"
     },
     {
       "raw_hot": 22528,
@@ -2769,6 +2921,14 @@
       "onboard_time": 1746164490,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9724,
+      "num": 132612,
+      "word": "马丽演活了臧姑娘",
+      "onboard_time": 1746181589,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 9229,
