@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1746213635555,
+  "endTime": 1746214573272,
   "band_list": [
     {
       "raw_hot": 8960529,
@@ -21459,8 +21459,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 22037,
-      "num": 22037,
+      "raw_hot": 22158,
+      "num": 22158,
       "word": "刘宇宁单手拿麦好帅",
       "onboard_time": 1746213615,
       "rank": 37,
@@ -21489,6 +21489,14 @@
       "onboard_time": 1746012742,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 21812,
+      "num": 21812,
+      "word": "张泽禹像天使一样",
+      "onboard_time": 1746213494,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 21765,
@@ -21657,6 +21665,14 @@
       "onboard_time": 1746124516,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 19927,
+      "num": 19927,
+      "word": "特朗普称将取消哈佛免税地位",
+      "onboard_time": 1746212895,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 19917,
@@ -21937,14 +21953,6 @@
       "onboard_time": 1745916322,
       "rank": 38,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 17275,
-      "num": 20702,
-      "word": "张泽禹像天使一样",
-      "onboard_time": 1746213494,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 17242,
