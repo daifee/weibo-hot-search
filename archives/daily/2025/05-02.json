@@ -1,6 +1,6 @@
 {
   "startTime": 1746117084529,
-  "endTime": 1746192811079,
+  "endTime": 1746193466917,
   "band_list": [
     {
       "raw_hot": 2150105,
@@ -9,6 +9,14 @@
       "onboard_time": 1746163710,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1648767,
+      "num": 309165,
+      "word": "酒店痛房",
+      "onboard_time": 1746187890,
+      "rank": 10,
+      "category": "幽默"
     },
     {
       "raw_hot": 1613120,
@@ -43,14 +51,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1410041,
-      "num": 309165,
-      "word": "酒店痛房",
-      "onboard_time": 1746187890,
-      "rank": 10,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 1344343,
       "num": 1344343,
       "word": "gidle改名idle",
@@ -75,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1240804,
+      "num": 273728,
+      "word": "高中生继承5亿遗产结婚当天坠亡",
+      "onboard_time": 1746190950,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1208709,
       "num": 1208709,
       "word": "中国中央广播电视总台没有邀请Kpop",
@@ -89,14 +97,6 @@
       "onboard_time": 1746149128,
       "rank": 0,
       "category": "演出"
-    },
-    {
-      "raw_hot": 1099238,
-      "num": 259494,
-      "word": "高中生继承5亿遗产结婚当天坠亡",
-      "onboard_time": 1746190950,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1096603,
@@ -259,6 +259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 658653,
+      "num": 658653,
+      "word": "刘诗诗先秦淑女步",
+      "onboard_time": 1746191188,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 650192,
       "num": 417654,
       "word": "吴宣仪拒绝叶童",
@@ -411,14 +419,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 502343,
-      "num": 502343,
-      "word": "刘诗诗先秦淑女步",
-      "onboard_time": 1746191188,
-      "rank": 4,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 497382,
       "num": 497382,
       "word": "为什么全国景区都有这种水果",
@@ -497,6 +497,14 @@
       "onboard_time": 1746143239,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 459621,
+      "num": 459621,
+      "word": "美国人提醒美国不可能取代中国",
+      "onboard_time": 1746190711,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 459535,
@@ -675,6 +683,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 354314,
+      "num": 354314,
+      "word": "南大教授回应陈丽君说贾宝玉长孙",
+      "onboard_time": 1746192270,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 349303,
+      "num": 271667,
+      "word": "尹净汉出国",
+      "onboard_time": 1746190650,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 349146,
       "num": 290286,
       "word": "蛮好的人生大结局",
@@ -779,6 +803,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 321703,
+      "num": 223738,
+      "word": "人人人人人人景点人人人人人人",
+      "onboard_time": 1746190831,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 320087,
       "num": 289643,
       "word": "协和4加4培养出的董医生医术如何",
@@ -803,14 +835,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 307203,
-      "num": 243441,
-      "word": "尹净汉出国",
-      "onboard_time": 1746190650,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 300862,
       "num": 300862,
       "word": "你的指甲盖真像刘亦菲",
@@ -825,14 +849,6 @@
       "onboard_time": 1746189871,
       "rank": 28,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 294289,
-      "num": 223738,
-      "word": "人人人人人人景点人人人人人人",
-      "onboard_time": 1746190831,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 292789,
@@ -883,12 +899,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 267771,
-      "num": 267771,
-      "word": "美国人提醒美国不可能取代中国",
-      "onboard_time": 1746190711,
+      "raw_hot": 268953,
+      "num": 268953,
+      "word": "周洁琼好权威的美貌",
+      "onboard_time": 1746192212,
       "rank": 27,
-      "category": "国际时政"
+      "category": "剧集"
     },
     {
       "raw_hot": 265182,
@@ -1123,6 +1139,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 198305,
+      "num": 198305,
+      "word": "wei哥 我们错了",
+      "onboard_time": 1746191971,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 197306,
       "num": 197306,
       "word": "陈楚生太湖湾音乐节",
@@ -1211,14 +1235,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 193525,
-      "num": 193525,
-      "word": "周洁琼好权威的美貌",
-      "onboard_time": 1746192212,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 193397,
       "num": 193397,
       "word": "前任身份勾栏手段正宫做派",
@@ -1249,14 +1265,6 @@
       "onboard_time": 1746162390,
       "rank": 30,
       "category": "综艺,演出"
-    },
-    {
-      "raw_hot": 191416,
-      "num": 191416,
-      "word": "南大教授回应陈丽君说贾宝玉长孙",
-      "onboard_time": 1746192270,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 190094,
@@ -1329,6 +1337,14 @@
       "onboard_time": 1746180388,
       "rank": 29,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 187041,
+      "num": 187041,
+      "word": "央视网文娱评淮水竹亭",
+      "onboard_time": 1746192212,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 186951,
@@ -1419,22 +1435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 180658,
-      "num": 180658,
-      "word": "wei哥 我们错了",
-      "onboard_time": 1746191971,
-      "rank": 31,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 178155,
-      "num": 178155,
-      "word": "央视网文娱评淮水竹亭",
-      "onboard_time": 1746192212,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 175701,
       "num": 175701,
       "word": "女生怒减50斤后的颜值变化",
@@ -1465,6 +1465,14 @@
       "onboard_time": 1746184591,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171716,
+      "num": 171716,
+      "word": "王珞丹浪姐遭遇信任崩塌",
+      "onboard_time": 1746193291,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 170849,
@@ -1673,6 +1681,14 @@
       "onboard_time": 1746166889,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 158401,
+      "num": 158401,
+      "word": "沈月赵一博陪看",
+      "onboard_time": 1746191551,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 158168,
@@ -1907,20 +1923,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 143491,
-      "num": 143491,
-      "word": "沈月赵一博陪看",
-      "onboard_time": 1746191551,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 143465,
       "num": 236693,
       "word": "美方想谈就应拿出谈的诚意",
       "onboard_time": 1746146790,
       "rank": 32,
       "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 143295,
+      "num": 143295,
+      "word": "邓超妻子的幸福丈夫的荣耀",
+      "onboard_time": 1746193291,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 142616,
@@ -2057,6 +2073,14 @@
       "onboard_time": 1746167730,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 134439,
+      "num": 134439,
+      "word": "长期大量喝奶茶当心伤肾",
+      "onboard_time": 1746191551,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 132855,
@@ -2267,6 +2291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124723,
+      "num": 124723,
+      "word": "时代少年团演唱会直播",
+      "onboard_time": 1746192510,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 124552,
       "num": 124552,
       "word": "五一景区挤麻了",
@@ -2297,6 +2329,14 @@
       "onboard_time": 1746184109,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 120554,
+      "num": 116777,
+      "word": "宋雨琦没想到上综艺还要考算数",
+      "onboard_time": 1746192691,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 120244,
@@ -2339,12 +2379,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117165,
+      "num": 117165,
+      "word": "GTA6延期至明年",
+      "onboard_time": 1746191010,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 116483,
       "num": 116483,
       "word": "刘宇宁一个人就是一个团队",
       "onboard_time": 1746180989,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 116306,
+      "num": 116306,
+      "word": "大屏上的张新成",
+      "onboard_time": 1746192932,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 115570,
@@ -2361,6 +2417,14 @@
       "onboard_time": 1746172041,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114426,
+      "num": 114426,
+      "word": "美国4月非农高于预期",
+      "onboard_time": 1746193230,
+      "rank": 47,
+      "category": "财经,国际时政"
     },
     {
       "raw_hot": 113730,
@@ -2595,20 +2659,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 103187,
-      "num": 103187,
-      "word": "时代少年团演唱会直播",
-      "onboard_time": 1746192510,
-      "rank": 43,
-      "category": "演出"
-    },
-    {
       "raw_hot": 103020,
       "num": 103020,
       "word": "省委书记暗访餐饮店",
       "onboard_time": 1746182069,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101295,
+      "num": 101295,
+      "word": "任四连枪王",
+      "onboard_time": 1746193230,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 101288,
@@ -2796,7 +2860,7 @@
     },
     {
       "raw_hot": 88689,
-      "num": 138328,
+      "num": 193645,
       "word": "第一视角感受各行各业奋斗日常",
       "onboard_time": 1746189990,
       "rank": 29,
@@ -3291,6 +3355,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 36598,
+      "num": 193256,
+      "word": "睡眠好和睡眠差区别有多大",
+      "onboard_time": 1746186630,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 34033,
       "num": 37316,
       "word": "贵州文旅太拼了",
@@ -3321,6 +3393,14 @@
       "onboard_time": 1746130813,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32168,
+      "num": 160106,
+      "word": "苏杯泰国vs印尼",
+      "onboard_time": 1746193350,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 32054,

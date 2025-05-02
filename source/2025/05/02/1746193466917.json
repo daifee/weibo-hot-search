@@ -1,0 +1,410 @@
+{
+  "runTime": 1746193466917,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1167065,
+        "num": 1186730,
+        "word": "杜华考虑签约武大校花引发热议",
+        "onboard_time": 1746185910,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1004859,
+        "num": 1004859,
+        "word": "胖东来向胖都来寄律师函",
+        "onboard_time": 1746190950,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34658,
+        "num": 789097,
+        "word": "每个努力奋斗的你都闪闪发光",
+        "onboard_time": 1746177569,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 658653,
+        "num": 658653,
+        "word": "刘诗诗先秦淑女步",
+        "onboard_time": 1746191188,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 607792,
+        "num": 607792,
+        "word": "比尔盖茨被爆患阿斯伯格综合征",
+        "onboard_time": 1746183929,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 459621,
+        "num": 459621,
+        "word": "美国人提醒美国不可能取代中国",
+        "onboard_time": 1746190711,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 451008,
+        "num": 451008,
+        "word": "王凯首度回应快两年没进组",
+        "onboard_time": 1746187530,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 354314,
+        "num": 354314,
+        "word": "南大教授回应陈丽君说贾宝玉长孙",
+        "onboard_time": 1746192270,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322130,
+        "num": 322130,
+        "word": "为什么年轻人普遍牙不好",
+        "onboard_time": 1746186389,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 278118,
+        "num": 278118,
+        "word": "预算10万的形象工程花200余万",
+        "onboard_time": 1746189871,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1648767,
+        "num": 277869,
+        "word": "酒店痛房",
+        "onboard_time": 1746187890,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 347830,
+        "num": 275263,
+        "word": "陈丽君说贾宝玉是长子长孙",
+        "onboard_time": 1746180989,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1240804,
+        "num": 273728,
+        "word": "高中生继承5亿遗产结婚当天坠亡",
+        "onboard_time": 1746190950,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 457759,
+        "num": 272532,
+        "word": "章泽天杨天真不丹徒步",
+        "onboard_time": 1746188969,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349303,
+        "num": 271667,
+        "word": "尹净汉出国",
+        "onboard_time": 1746190650,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290141,
+        "num": 269856,
+        "word": "蛮好的人生大结局",
+        "onboard_time": 1746184350,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 268953,
+        "num": 268953,
+        "word": "周洁琼好权威的美貌",
+        "onboard_time": 1746192212,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204762,
+        "num": 204762,
+        "word": "荣昌公务员食堂一顿蒸1000斤米饭",
+        "onboard_time": 1746181288,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187227,
+        "num": 204287,
+        "word": "太好了是李昀锐夏天有救了",
+        "onboard_time": 1746189630,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206766,
+        "num": 202210,
+        "word": "如果你看到一个人朋友圈干干净净",
+        "onboard_time": 1746183389,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 393343,
+        "num": 200630,
+        "word": "曾黎工作室徽章失窃",
+        "onboard_time": 1746163710,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321703,
+        "num": 199318,
+        "word": "人人人人人人景点人人人人人人",
+        "onboard_time": 1746190831,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198305,
+        "num": 198305,
+        "word": "wei哥 我们错了",
+        "onboard_time": 1746191971,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 50374,
+        "num": 193645,
+        "word": "第一视角感受各行各业奋斗日常",
+        "onboard_time": 1746189990,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36598,
+        "num": 193256,
+        "word": "睡眠好和睡眠差区别有多大",
+        "onboard_time": 1746186630,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 193040,
+        "num": 193040,
+        "word": "陈楚生太湖湾音乐节",
+        "onboard_time": 1746192212,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 187041,
+        "num": 187041,
+        "word": "央视网文娱评淮水竹亭",
+        "onboard_time": 1746192212,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184079,
+        "num": 184079,
+        "word": "BLG十番战EDG",
+        "onboard_time": 1746180029,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 183602,
+        "num": 183602,
+        "word": "姚译添我劝你要善良",
+        "onboard_time": 1746191010,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176392,
+        "num": 176392,
+        "word": "张新成羊毛卷",
+        "onboard_time": 1746185009,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 172322,
+        "num": 172322,
+        "word": "AG剧透",
+        "onboard_time": 1746189450,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 227953,
+        "num": 172229,
+        "word": "湖南咬伤邻居家小孩的狗已被打死",
+        "onboard_time": 1746187471,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171716,
+        "num": 171716,
+        "word": "王珞丹浪姐遭遇信任崩塌",
+        "onboard_time": 1746193291,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165731,
+        "num": 165731,
+        "word": "gta6",
+        "onboard_time": 1746188610,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 62394,
+        "num": 161779,
+        "word": "米饭和面条哪个更容易长胖",
+        "onboard_time": 1746192093,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 32168,
+        "num": 160106,
+        "word": "苏杯泰国vs印尼",
+        "onboard_time": 1746193350,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159842,
+        "num": 159842,
+        "word": "王励勤开球手法一看就是世界冠军",
+        "onboard_time": 1746189510,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158401,
+        "num": 158401,
+        "word": "沈月赵一博陪看",
+        "onboard_time": 1746191551,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143295,
+        "num": 143295,
+        "word": "邓超妻子的幸福丈夫的荣耀",
+        "onboard_time": 1746193291,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134439,
+        "num": 134439,
+        "word": "长期大量喝奶茶当心伤肾",
+        "onboard_time": 1746191551,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 126376,
+        "num": 126376,
+        "word": "AG对战WB",
+        "onboard_time": 1746188610,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 125374,
+        "num": 125374,
+        "word": "赵又廷的财富自由是老婆给的",
+        "onboard_time": 1746183990,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124723,
+        "num": 124723,
+        "word": "时代少年团演唱会直播",
+        "onboard_time": 1746192510,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 122709,
+        "num": 122709,
+        "word": "美国小企业被本国关税战打蒙了",
+        "onboard_time": 1746184709,
+        "rank": 43,
+        "category": "国际时政,国际时政"
+      },
+      {
+        "raw_hot": 117165,
+        "num": 117165,
+        "word": "GTA6延期至明年",
+        "onboard_time": 1746191010,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 120554,
+        "num": 116777,
+        "word": "宋雨琦没想到上综艺还要考算数",
+        "onboard_time": 1746192691,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116306,
+        "num": 116306,
+        "word": "大屏上的张新成",
+        "onboard_time": 1746192932,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 114426,
+        "num": 114426,
+        "word": "美国4月非农高于预期",
+        "onboard_time": 1746193230,
+        "rank": 47,
+        "category": "财经,国际时政"
+      },
+      {
+        "raw_hot": 104262,
+        "num": 104262,
+        "word": "gidle神女风",
+        "onboard_time": 1746181770,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 101295,
+        "num": 101295,
+        "word": "任四连枪王",
+        "onboard_time": 1746193230,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记礼赞劳动创造#"
+    }
+  }
+}
