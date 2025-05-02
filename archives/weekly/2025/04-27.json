@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1746200423468,
+  "endTime": 1746203485460,
   "band_list": [
     {
       "raw_hot": 8960529,
@@ -851,6 +851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1286235,
+      "num": 299739,
+      "word": "陈丽君争议片段已删除",
+      "onboard_time": 1746200182,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1281294,
       "num": 1281294,
       "word": "中国不跪中国不退",
@@ -1161,6 +1169,14 @@
       "onboard_time": 1745813241,
       "rank": 3,
       "category": "电影,艺人"
+    },
+    {
+      "raw_hot": 1055400,
+      "num": 281633,
+      "word": "马嘉祺破音",
+      "onboard_time": 1746200722,
+      "rank": 11,
+      "category": "演出"
     },
     {
       "raw_hot": 1054624,
@@ -3075,6 +3091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 516466,
+      "num": 848259,
+      "word": "校方回应学生组团狂退60多件裙子",
+      "onboard_time": 1746201321,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 514801,
       "num": 514801,
       "word": "董袭莹被爆学术历程跨多学科",
@@ -3097,6 +3121,14 @@
       "onboard_time": 1745937923,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 512125,
+      "num": 512125,
+      "word": "美国人正绕过关税打飞的来华购物",
+      "onboard_time": 1746198384,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 511854,
@@ -3593,14 +3625,6 @@
       "onboard_time": 1745998041,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 457080,
-      "num": 457080,
-      "word": "美国人正绕过关税打飞的来华购物",
-      "onboard_time": 1746198384,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 457055,
@@ -5555,14 +5579,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 285314,
-      "num": 285314,
-      "word": "陈丽君争议片段已删除",
-      "onboard_time": 1746200182,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 284194,
       "num": 284194,
       "word": "王源广州",
@@ -6803,6 +6819,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 229190,
+      "num": 229190,
+      "word": "谁家明星自己打车回家",
+      "onboard_time": 1746195872,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 228403,
       "num": 228403,
       "word": "长期大量喝奶茶当心伤肾",
@@ -7152,14 +7176,6 @@
       "word": "24岁演戏50岁教英语最近想开飞机",
       "onboard_time": 1745713462,
       "rank": 17,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 218170,
-      "num": 218170,
-      "word": "谁家明星自己打车回家",
-      "onboard_time": 1746195872,
-      "rank": 27,
       "category": "艺人"
     },
     {
@@ -8433,6 +8449,14 @@
       "onboard_time": 1745746521,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 194423,
+      "num": 194423,
+      "word": "公子于鑫",
+      "onboard_time": 1746203061,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 194356,
@@ -14131,6 +14155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127571,
+      "num": 127571,
+      "word": "程潇直拍",
+      "onboard_time": 1746200901,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127528,
       "num": 127528,
       "word": "NBA季后赛",
@@ -17275,6 +17307,14 @@
       "category": "财经,互联网"
     },
     {
+      "raw_hot": 87086,
+      "num": 87086,
+      "word": "蛤蜊正确读音",
+      "onboard_time": 1746201621,
+      "rank": 41,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 86958,
       "num": 194089,
       "word": "被孟子义歪头杀惊艳到了",
@@ -17457,6 +17497,14 @@
       "onboard_time": 1746196832,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84526,
+      "num": 284678,
+      "word": "游客称西湖景区洒农药进了自己嘴里",
+      "onboard_time": 1746202400,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84471,
@@ -17771,6 +17819,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 79270,
+      "num": 92340,
+      "word": "周洁琼直播模仿猫妖",
+      "onboard_time": 1746202101,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 79126,
       "num": 79126,
       "word": "aespa人气歌谣东京",
@@ -17993,6 +18049,14 @@
       "onboard_time": 1746079280,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 75010,
+      "num": 75010,
+      "word": "BLG战胜EDG",
+      "onboard_time": 1746202941,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 74850,
@@ -18427,6 +18491,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 67269,
+      "num": 67269,
+      "word": "杭州西溪湿地的睡莲开出了油画感",
+      "onboard_time": 1746201801,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 67124,
       "num": 67124,
       "word": "阿森纳0比1巴黎圣日耳曼",
@@ -18441,6 +18513,14 @@
       "onboard_time": 1745811742,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 66915,
+      "num": 66915,
+      "word": "NCTWISH 暴风饭撒",
+      "onboard_time": 1746203420,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 66781,
