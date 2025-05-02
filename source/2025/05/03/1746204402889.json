@@ -1,0 +1,410 @@
+{
+  "runTime": 1746204402889,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 662841,
+        "num": 759457,
+        "word": "校方回应学生组团狂退60多件裙子",
+        "onboard_time": 1746201321,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 396991,
+        "num": 396991,
+        "word": "美国人正绕过关税打飞的来华购物",
+        "onboard_time": 1746198384,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 79879,
+        "num": 317633,
+        "word": "五一假期文旅市场井喷式增长",
+        "onboard_time": 1746193832,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 303949,
+        "num": 303949,
+        "word": "Bin blg回来了",
+        "onboard_time": 1746197373,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 254238,
+        "num": 254238,
+        "word": "EDG回家",
+        "onboard_time": 1746197373,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1095753,
+        "num": 254234,
+        "word": "陈丽君争议片段已删除",
+        "onboard_time": 1746200182,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 501762,
+        "num": 254221,
+        "word": "南大教授回应陈丽君说贾宝玉长孙",
+        "onboard_time": 1746192270,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312085,
+        "num": 254209,
+        "word": "杜华考虑签约武大校花引发热议",
+        "onboard_time": 1746185910,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209624,
+        "num": 254198,
+        "word": "张小婉组五公第一",
+        "onboard_time": 1746196412,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112465,
+        "num": 254193,
+        "word": "浏阳烟花正向魔法方向发展",
+        "onboard_time": 1746203600,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 949506,
+        "num": 254184,
+        "word": "马嘉祺破音",
+        "onboard_time": 1746200722,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 943220,
+        "num": 254176,
+        "word": "一直对月薪4000没概念直到换成天",
+        "onboard_time": 1746198152,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 490438,
+        "num": 254165,
+        "word": "高中生继承5亿遗产结婚当天坠亡",
+        "onboard_time": 1746190950,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254155,
+        "num": 254155,
+        "word": "酒店痛房",
+        "onboard_time": 1746187890,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 223919,
+        "num": 223919,
+        "word": "谁家明星自己打车回家",
+        "onboard_time": 1746195872,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200759,
+        "num": 200759,
+        "word": "山东日照不允许游客挖不到蛤蜊",
+        "onboard_time": 1746195213,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186189,
+        "num": 186189,
+        "word": "公子于鑫",
+        "onboard_time": 1746203061,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 172177,
+        "num": 172177,
+        "word": "福建一隧道4辆车发生事故",
+        "onboard_time": 1746195092,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163054,
+        "num": 163054,
+        "word": "张晚意音乐节哭了",
+        "onboard_time": 1746195271,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 153284,
+        "num": 153284,
+        "word": "西安暴雨",
+        "onboard_time": 1746195331,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150939,
+        "num": 150939,
+        "word": "人人人人人人景点人人人人人人",
+        "onboard_time": 1746190831,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131409,
+        "num": 131409,
+        "word": "zmjjkk尽力了",
+        "onboard_time": 1746198742,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 129801,
+        "num": 129801,
+        "word": "阿根廷近海7.4级地震",
+        "onboard_time": 1746193712,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 126724,
+        "num": 126724,
+        "word": "刘诗诗先秦淑女步",
+        "onboard_time": 1746191188,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120606,
+        "num": 120606,
+        "word": "爸爸用维生素为女儿变出萤火流星雨",
+        "onboard_time": 1746193591,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119415,
+        "num": 119415,
+        "word": "邓超妻子的幸福丈夫的荣耀",
+        "onboard_time": 1746193291,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116829,
+        "num": 116829,
+        "word": "程潇直拍",
+        "onboard_time": 1746200901,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116187,
+        "num": 116187,
+        "word": "比尔盖茨被爆患阿斯伯格综合征",
+        "onboard_time": 1746183929,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 114664,
+        "num": 114664,
+        "word": "香港月薪5万董事长女助理的一天",
+        "onboard_time": 1746197431,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 89572,
+        "num": 109990,
+        "word": "刘诗诗名字里不愧有两个S",
+        "onboard_time": 1746199283,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106314,
+        "num": 106314,
+        "word": "原来躺久了也会消耗气血",
+        "onboard_time": 1746203600,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 99303,
+        "num": 99303,
+        "word": "胖东来向胖都来寄律师函",
+        "onboard_time": 1746190950,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94024,
+        "num": 94024,
+        "word": "游客称西湖景区洒农药进了自己嘴里",
+        "onboard_time": 1746202400,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92981,
+        "num": 92981,
+        "word": "蛤蜊正确读音",
+        "onboard_time": 1746201621,
+        "rank": 33,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 89099,
+        "num": 89099,
+        "word": "王凯首度回应快两年没进组",
+        "onboard_time": 1746187530,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89046,
+        "num": 89046,
+        "word": "NCTWISH 暴风饭撒",
+        "onboard_time": 1746203420,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 87823,
+        "num": 87823,
+        "word": "长期大量喝奶茶当心伤肾",
+        "onboard_time": 1746191551,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 86667,
+        "num": 86667,
+        "word": "韩国人把这家超市业绩买成上海区第一",
+        "onboard_time": 1746198384,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 85527,
+        "num": 85527,
+        "word": "simon edg",
+        "onboard_time": 1746198384,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 82820,
+        "num": 82820,
+        "word": "南大教授称陈丽君说错也没必要抹黑",
+        "onboard_time": 1746199462,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82405,
+        "num": 82405,
+        "word": "王珞丹浪姐遭遇信任崩塌",
+        "onboard_time": 1746193291,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81996,
+        "num": 81996,
+        "word": "杨仕泽直播调侃自己指挥交通",
+        "onboard_time": 1746203839,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80784,
+        "num": 80784,
+        "word": "曾黎工作室徽章失窃",
+        "onboard_time": 1746163710,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73786,
+        "num": 73786,
+        "word": "蛮好的人生大结局",
+        "onboard_time": 1746184350,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68761,
+        "num": 68761,
+        "word": "刘诗诗顶级魅魔",
+        "onboard_time": 1746196533,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68416,
+        "num": 68416,
+        "word": "如果你看到一个人朋友圈干干净净",
+        "onboard_time": 1746183389,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 67484,
+        "num": 67484,
+        "word": "鸡蛋多给近300克顾客担心有猫腻",
+        "onboard_time": 1746198322,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65408,
+        "num": 65408,
+        "word": "苏杯中国vs日本阵容",
+        "onboard_time": 1746203600,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62803,
+        "num": 62803,
+        "word": "娜扎33岁生日照",
+        "onboard_time": 1746203779,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59832,
+        "num": 59832,
+        "word": "张杰鸟巢演唱会",
+        "onboard_time": 1746198862,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#劳动创造幸福奋斗铸就伟业#"
+    }
+  }
+}

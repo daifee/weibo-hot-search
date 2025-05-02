@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1746203485460,
+  "endTime": 1746204402889,
   "band_list": [
     {
       "raw_hot": 8960529,
@@ -2251,6 +2251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 662841,
+      "num": 848259,
+      "word": "校方回应学生组团狂退60多件裙子",
+      "onboard_time": 1746201321,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 662827,
       "num": 662827,
       "word": "肖某称术中离开40分钟不属实",
@@ -3088,14 +3096,6 @@
       "word": "亲子酒店员工朋友圈说希望小朋友死掉",
       "onboard_time": 1745934745,
       "rank": 12,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 516466,
-      "num": 848259,
-      "word": "校方回应学生组团狂退60多件裙子",
-      "onboard_time": 1746201321,
-      "rank": 0,
       "category": "民生新闻"
     },
     {
@@ -15443,6 +15443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112465,
+      "num": 254193,
+      "word": "浏阳烟花正向魔法方向发展",
+      "onboard_time": 1746203600,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112441,
       "num": 112441,
       "word": "美参议院投票通过珀杜出任美驻华大使",
@@ -15993,6 +16001,14 @@
       "onboard_time": 1746141740,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106314,
+      "num": 106314,
+      "word": "原来躺久了也会消耗气血",
+      "onboard_time": 1746203600,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 106221,
@@ -16859,6 +16875,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 94024,
+      "num": 284678,
+      "word": "游客称西湖景区洒农药进了自己嘴里",
+      "onboard_time": 1746202400,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93979,
       "num": 93979,
       "word": "张新成佛山音乐节",
@@ -16937,6 +16961,14 @@
       "onboard_time": 1745754740,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 92981,
+      "num": 92981,
+      "word": "蛤蜊正确读音",
+      "onboard_time": 1746201621,
+      "rank": 41,
+      "category": "科学科普"
     },
     {
       "raw_hot": 92692,
@@ -17195,6 +17227,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 89046,
+      "num": 89046,
+      "word": "NCTWISH 暴风饭撒",
+      "onboard_time": 1746203420,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 88904,
       "num": 239319,
       "word": "人工智能是年轻的事业",
@@ -17305,14 +17345,6 @@
       "onboard_time": 1745979620,
       "rank": 17,
       "category": "财经,互联网"
-    },
-    {
-      "raw_hot": 87086,
-      "num": 87086,
-      "word": "蛤蜊正确读音",
-      "onboard_time": 1746201621,
-      "rank": 41,
-      "category": "科学科普"
     },
     {
       "raw_hot": 86958,
@@ -17499,14 +17531,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 84526,
-      "num": 284678,
-      "word": "游客称西湖景区洒农药进了自己嘴里",
-      "onboard_time": 1746202400,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 84471,
       "num": 201377,
       "word": "保险公司回应老人30万保单失效4年",
@@ -17681,6 +17705,14 @@
       "onboard_time": 1745806761,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81996,
+      "num": 81996,
+      "word": "杨仕泽直播调侃自己指挥交通",
+      "onboard_time": 1746203839,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 81928,
@@ -18515,14 +18547,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 66915,
-      "num": 66915,
-      "word": "NCTWISH 暴风饭撒",
-      "onboard_time": 1746203420,
-      "rank": 49,
-      "category": "演出"
-    },
-    {
       "raw_hot": 66781,
       "num": 131480,
       "word": "魔卡少女樱双生库洛牌",
@@ -18603,6 +18627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65408,
+      "num": 65408,
+      "word": "苏杯中国vs日本阵容",
+      "onboard_time": 1746203600,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 64798,
       "num": 155501,
       "word": "井胧井迪是我见过最美好的手足情",
@@ -18665,6 +18697,14 @@
       "onboard_time": 1745725401,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 62803,
+      "num": 62803,
+      "word": "娜扎33岁生日照",
+      "onboard_time": 1746203779,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 62787,
