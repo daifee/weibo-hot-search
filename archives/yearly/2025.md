@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/05/02 22:23:58
+本榜单时间：2025/01/01 00:26:38 ~ 2025/05/02 22:42:42
 </p>
 </blockquote>
 <p>
@@ -1077,6 +1077,12 @@ bnd粉丝去世（热度：4621424）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%B7%9E%E8%BD%A6%E7%A5%B8%23" target="weibo">
+福州车祸（热度：3885539）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E5%88%9A%E5%92%8C%E8%B5%B5%E9%9C%B2%E6%80%9D%E8%81%8A%E4%BA%86%E4%B8%80%E5%B0%8F%E6%97%B6%23" target="weibo">
 于正刚和赵露思聊了一小时（热度：3865281）
 </a>
@@ -1805,12 +1811,6 @@ zmjjkk发博（热度：3336228）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8C%89%E8%8E%89%E5%A5%B6%E7%99%BD%E8%A2%AB%E6%9B%9D%E5%96%9D%E5%87%BA%E5%AE%8C%E6%95%B4%E5%A1%91%E6%96%99%E8%A2%8B%23" target="weibo">
 茉莉奶白被曝喝出完整塑料袋（热度：3044323）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23DeepSeek%23" target="weibo">
-DeepSeek（热度：3038517）
 </a>
 </li>
 

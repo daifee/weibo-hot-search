@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1746195838274,
+  "endTime": 1746196962505,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1419,6 +1419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3885539,
+      "num": 393491,
+      "word": "福州车祸",
+      "onboard_time": 1746194251,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 3865281,
       "num": 2602586,
       "word": "于正刚和赵露思聊了一小时",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1742731401,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 3038517,
-      "num": 3038517,
-      "word": "DeepSeek",
-      "onboard_time": 1737947955,
-      "rank": 21,
-      "category": "互联网"
     }
   ],
   "hotgov_list": [

@@ -1,10 +1,10 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746195838274,
+  "endTime": 1746196962505,
   "band_list": [
     {
-      "raw_hot": 2986520,
-      "num": 320275,
+      "raw_hot": 3885539,
+      "num": 393491,
       "word": "福州车祸",
       "onboard_time": 1746194251,
       "rank": 10,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1648767,
-      "num": 319659,
+      "num": 384277,
       "word": "酒店痛房",
       "onboard_time": 1746187890,
       "rank": 10,
@@ -163,6 +163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1489645,
+      "num": 1489645,
+      "word": "南大教授回应陈丽君说贾宝玉长孙",
+      "onboard_time": 1746192270,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1425447,
       "num": 189273,
       "word": "董某莹已离开中日友好医院胸外科",
@@ -211,14 +219,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 1276530,
-      "num": 1276530,
-      "word": "南大教授回应陈丽君说贾宝玉长孙",
-      "onboard_time": 1746192270,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1272960,
       "num": 1272960,
       "word": "刘烨 秒删党",
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 1240804,
-      "num": 317840,
+      "num": 374399,
       "word": "高中生继承5亿遗产结婚当天坠亡",
       "onboard_time": 1746190950,
       "rank": 30,
@@ -803,6 +803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 585037,
+      "num": 361023,
+      "word": "福建一隧道4辆车发生事故",
+      "onboard_time": 1746195092,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 579260,
       "num": 234513,
       "word": "涉肖某董某事件多个账号被禁言",
@@ -979,6 +987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 478844,
+      "num": 478844,
+      "word": "阿根廷近海7.4级地震",
+      "onboard_time": 1746193712,
+      "rank": 5,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 477395,
       "num": 515590,
       "word": "上海多方回应女子擦鼻涕纸扔进碗罐",
@@ -1065,6 +1081,14 @@
       "onboard_time": 1746143179,
       "rank": 12,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 457055,
+      "num": 409072,
+      "word": "邓超妻子的幸福丈夫的荣耀",
+      "onboard_time": 1746193291,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 449716,
@@ -1155,6 +1179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 423972,
+      "num": 423972,
+      "word": "西安暴雨",
+      "onboard_time": 1746195331,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 422442,
       "num": 489899,
       "word": "淮水竹亭热度",
@@ -1196,7 +1228,7 @@
     },
     {
       "raw_hot": 413942,
-      "num": 231592,
+      "num": 271020,
       "word": "人人人人人人景点人人人人人人",
       "onboard_time": 1746190831,
       "rank": 43,
@@ -1217,14 +1249,6 @@
       "onboard_time": 1746155069,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 409696,
-      "num": 366594,
-      "word": "邓超妻子的幸福丈夫的荣耀",
-      "onboard_time": 1746193291,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 408154,
@@ -1257,14 +1281,6 @@
       "onboard_time": 1746109642,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 394814,
-      "num": 394814,
-      "word": "阿根廷近海7.4级地震",
-      "onboard_time": 1746193712,
-      "rank": 5,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 394601,
@@ -1419,6 +1435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 346472,
+      "num": 346472,
+      "word": "张晚意音乐节哭了",
+      "onboard_time": 1746195271,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 341176,
       "num": 341176,
       "word": "官方通报医院工作人员上班打游戏",
@@ -1563,6 +1587,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 317350,
+      "num": 317350,
+      "word": "王珞丹浪姐遭遇信任崩塌",
+      "onboard_time": 1746193291,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 316551,
       "num": 298146,
       "word": "陈奕迅20岁女儿身高",
@@ -1577,14 +1609,6 @@
       "onboard_time": 1746080480,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 316097,
-      "num": 316097,
-      "word": "王珞丹浪姐遭遇信任崩塌",
-      "onboard_time": 1746193291,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 313301,
@@ -1649,6 +1673,14 @@
       "onboard_time": 1746021984,
       "rank": 33,
       "category": "教育"
+    },
+    {
+      "raw_hot": 302727,
+      "num": 302727,
+      "word": "张小婉组五公第一",
+      "onboard_time": 1746196412,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 301255,
@@ -1779,6 +1811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 281965,
+      "num": 270776,
+      "word": "爸爸用维生素为女儿变出萤火流星雨",
+      "onboard_time": 1746193591,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 280138,
       "num": 280138,
       "word": "北京男篮3比0山西男篮",
@@ -1803,12 +1843,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 274233,
+      "num": 274233,
+      "word": "BLG十番战EDG",
+      "onboard_time": 1746180029,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 272089,
       "num": 272089,
       "word": "赵丽颖短发杀青照",
       "onboard_time": 1746065659,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 270539,
+      "num": 399640,
+      "word": "山东日照不允许游客挖不到蛤蜊",
+      "onboard_time": 1746195213,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 270195,
@@ -1889,6 +1945,14 @@
       "onboard_time": 1746169580,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 258598,
+      "num": 304715,
+      "word": "西湖风景区回应农药喷进游客嘴里",
+      "onboard_time": 1746194732,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 258032,
@@ -2139,14 +2203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 220004,
-      "num": 220004,
-      "word": "爸爸用维生素为女儿变出萤火流星雨",
-      "onboard_time": 1746193591,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 219632,
       "num": 394267,
       "word": "加沙一袋面粉卖4000元",
@@ -2249,6 +2305,14 @@
       "onboard_time": 1746109402,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 206815,
+      "num": 206815,
+      "word": "AG对战WB",
+      "onboard_time": 1746188610,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 206515,
@@ -2409,6 +2473,14 @@
       "onboard_time": 1746061520,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 198845,
+      "num": 198845,
+      "word": "刘诗诗顶级魅魔",
+      "onboard_time": 1746196533,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 198419,
@@ -2595,6 +2667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194209,
+      "num": 194209,
+      "word": "吒宝第十个MVP这就来啦",
+      "onboard_time": 1746196533,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 194196,
       "num": 194196,
       "word": "长风起开机",
@@ -2667,6 +2747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192779,
+      "num": 192779,
+      "word": "姚译添我劝你要善良",
+      "onboard_time": 1746191010,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192472,
       "num": 192472,
       "word": "全红婵陈芋汐水立方夺冠",
@@ -2697,14 +2785,6 @@
       "onboard_time": 1746092361,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 191154,
-      "num": 191154,
-      "word": "福建一隧道4辆车发生事故",
-      "onboard_time": 1746195092,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 191008,
@@ -2843,14 +2923,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 188070,
-      "num": 188070,
-      "word": "姚译添我劝你要善良",
-      "onboard_time": 1746191010,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 187962,
       "num": 251486,
       "word": "国羽晋级苏杯四强",
@@ -2971,14 +3043,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 185034,
-      "num": 185034,
-      "word": "BLG十番战EDG",
-      "onboard_time": 1746180029,
-      "rank": 9,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 184447,
       "num": 184447,
       "word": "张峻豪音乐节",
@@ -3073,6 +3137,14 @@
       "onboard_time": 1746093920,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 180683,
+      "num": 180683,
+      "word": "BLG教练",
+      "onboard_time": 1746196653,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 179504,
@@ -3259,14 +3331,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 168093,
-      "num": 168093,
-      "word": "山东日照不允许游客挖不到蛤蜊",
-      "onboard_time": 1746195213,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 167826,
       "num": 167826,
       "word": "央视五一晚会阵容",
@@ -3312,14 +3376,6 @@
       "word": "石凯说为演出吃鸭血粉丝汤没放辣油",
       "onboard_time": 1746117919,
       "rank": 49,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 166613,
-      "num": 166613,
-      "word": "张晚意音乐节哭了",
-      "onboard_time": 1746195271,
-      "rank": 30,
       "category": "演出"
     },
     {
@@ -3395,6 +3451,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 164822,
+      "num": 164822,
+      "word": "天津泡泡岛音乐节",
+      "onboard_time": 1746195753,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 164812,
+      "num": 347305,
+      "word": "BLG更换教练",
+      "onboard_time": 1746196292,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 163909,
       "num": 163909,
       "word": "CP不要随便离婚",
@@ -3443,14 +3515,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 162323,
-      "num": 162323,
-      "word": "AG对战WB",
-      "onboard_time": 1746188610,
-      "rank": 34,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 162106,
       "num": 162106,
       "word": "建议全国演唱会按这个卷",
@@ -3497,14 +3561,6 @@
       "onboard_time": 1746031578,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 160928,
-      "num": 160928,
-      "word": "西安暴雨",
-      "onboard_time": 1746195331,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 160732,
@@ -3699,6 +3755,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 155008,
+      "num": 155008,
+      "word": "苏醒听到叫他爱冷苏的反应",
+      "onboard_time": 1746196533,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 154683,
       "num": 154683,
       "word": "东北姑娘带爸爸到杭州看病被震惊了",
@@ -3835,6 +3899,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 150035,
+      "num": 150035,
+      "word": "华晨宇解读100米巨型悬浮环设计",
+      "onboard_time": 1746196468,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 149587,
       "num": 149587,
       "word": "白鹿很开心的一次出游plog",
@@ -3857,6 +3929,14 @@
       "onboard_time": 1746181949,
       "rank": 33,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 148879,
+      "num": 148879,
+      "word": "魏晨音乐节",
+      "onboard_time": 1746196292,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 148648,
@@ -4163,6 +4243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140654,
+      "num": 140654,
+      "word": "成都蓉城登顶中超积分榜",
+      "onboard_time": 1746195932,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140583,
       "num": 140583,
       "word": "五一爬泰山看日出的游客太猛了",
@@ -4427,6 +4515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132491,
+      "num": 132491,
+      "word": "北京男篮重返总决赛",
+      "onboard_time": 1746196171,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132423,
       "num": 132423,
       "word": "被短剧妆造卷到了",
@@ -4611,6 +4707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128904,
+      "num": 538397,
+      "word": "五一假期文旅市场井喷式增长",
+      "onboard_time": 1746193832,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128817,
       "num": 128817,
       "word": "看得出来各地文旅这个假期很努力了",
@@ -4633,14 +4737,6 @@
       "onboard_time": 1746176721,
       "rank": 18,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 128239,
-      "num": 538397,
-      "word": "五一假期文旅市场井喷式增长",
-      "onboard_time": 1746193832,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128193,
@@ -4955,14 +5051,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 120250,
-      "num": 304715,
-      "word": "西湖风景区回应农药喷进游客嘴里",
-      "onboard_time": 1746194732,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 120244,
       "num": 120244,
       "word": "陈艺文昌雅妮世界杯3米板夺金",
@@ -5129,14 +5217,6 @@
       "onboard_time": 1746057379,
       "rank": 43,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 116714,
-      "num": 116714,
-      "word": "天津泡泡岛音乐节",
-      "onboard_time": 1746195753,
-      "rank": 46,
-      "category": "演出"
     },
     {
       "raw_hot": 116483,
@@ -6467,6 +6547,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 53985,
+      "num": 271506,
+      "word": "蒸了千斤米饭的重庆荣昌值得被夸",
+      "onboard_time": 1746195391,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53269,
       "num": 66377,
       "word": "美国国家安全顾问沃尔兹将离职",
@@ -6617,6 +6705,14 @@
       "onboard_time": 1746177569,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46731,
+      "num": 152189,
+      "word": "给自己一次重回大学宿舍的机会",
+      "onboard_time": 1746196587,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 46371,
@@ -7169,14 +7265,6 @@
       "onboard_time": 1746111742,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 20961,
-      "num": 231679,
-      "word": "蒸了千斤米饭的重庆荣昌值得被夸",
-      "onboard_time": 1746195391,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 20735,

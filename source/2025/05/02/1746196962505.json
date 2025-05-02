@@ -1,0 +1,410 @@
+{
+  "runTime": 1746196962505,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1489645,
+        "num": 1489645,
+        "word": "南大教授回应陈丽君说贾宝玉长孙",
+        "onboard_time": 1746192270,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 571046,
+        "num": 571046,
+        "word": "胖东来向胖都来寄律师函",
+        "onboard_time": 1746190950,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128904,
+        "num": 483772,
+        "word": "五一假期文旅市场井喷式增长",
+        "onboard_time": 1746193832,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 807907,
+        "num": 481649,
+        "word": "杜华考虑签约武大校花引发热议",
+        "onboard_time": 1746185910,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 478844,
+        "num": 478844,
+        "word": "阿根廷近海7.4级地震",
+        "onboard_time": 1746193712,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 423972,
+        "num": 423972,
+        "word": "西安暴雨",
+        "onboard_time": 1746195331,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 625902,
+        "num": 414239,
+        "word": "刘诗诗先秦淑女步",
+        "onboard_time": 1746191188,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 457055,
+        "num": 409072,
+        "word": "邓超妻子的幸福丈夫的荣耀",
+        "onboard_time": 1746193291,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 403605,
+        "num": 403605,
+        "word": "比尔盖茨被爆患阿斯伯格综合征",
+        "onboard_time": 1746183929,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 270539,
+        "num": 399640,
+        "word": "山东日照不允许游客挖不到蛤蜊",
+        "onboard_time": 1746195213,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3885539,
+        "num": 393491,
+        "word": "福州车祸",
+        "onboard_time": 1746194251,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1117847,
+        "num": 384277,
+        "word": "酒店痛房",
+        "onboard_time": 1746187890,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 954481,
+        "num": 374399,
+        "word": "高中生继承5亿遗产结婚当天坠亡",
+        "onboard_time": 1746190950,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 585037,
+        "num": 361023,
+        "word": "福建一隧道4辆车发生事故",
+        "onboard_time": 1746195092,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164812,
+        "num": 347305,
+        "word": "BLG更换教练",
+        "onboard_time": 1746196292,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 346472,
+        "num": 346472,
+        "word": "张晚意音乐节哭了",
+        "onboard_time": 1746195271,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 317350,
+        "num": 317350,
+        "word": "王珞丹浪姐遭遇信任崩塌",
+        "onboard_time": 1746193291,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302727,
+        "num": 302727,
+        "word": "张小婉组五公第一",
+        "onboard_time": 1746196412,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274233,
+        "num": 274233,
+        "word": "BLG十番战EDG",
+        "onboard_time": 1746180029,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 53985,
+        "num": 271506,
+        "word": "蒸了千斤米饭的重庆荣昌值得被夸",
+        "onboard_time": 1746195391,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 353098,
+        "num": 271020,
+        "word": "人人人人人人景点人人人人人人",
+        "onboard_time": 1746190831,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 281965,
+        "num": 270776,
+        "word": "爸爸用维生素为女儿变出萤火流星雨",
+        "onboard_time": 1746193591,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270240,
+        "num": 270240,
+        "word": "周洁琼好权威的美貌",
+        "onboard_time": 1746192212,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258598,
+        "num": 258598,
+        "word": "西湖风景区回应农药喷进游客嘴里",
+        "onboard_time": 1746194732,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249993,
+        "num": 249993,
+        "word": "曾黎工作室徽章失窃",
+        "onboard_time": 1746163710,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245249,
+        "num": 245249,
+        "word": "美国人提醒美国不可能取代中国",
+        "onboard_time": 1746190711,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 214761,
+        "num": 214761,
+        "word": "王凯首度回应快两年没进组",
+        "onboard_time": 1746187530,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206815,
+        "num": 206815,
+        "word": "AG对战WB",
+        "onboard_time": 1746188610,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 198845,
+        "num": 198845,
+        "word": "刘诗诗顶级魅魔",
+        "onboard_time": 1746196533,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194997,
+        "num": 194997,
+        "word": "长期大量喝奶茶当心伤肾",
+        "onboard_time": 1746191551,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 194209,
+        "num": 194209,
+        "word": "吒宝第十个MVP这就来啦",
+        "onboard_time": 1746196533,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 192779,
+        "num": 192779,
+        "word": "姚译添我劝你要善良",
+        "onboard_time": 1746191010,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183605,
+        "num": 183605,
+        "word": "章泽天杨天真不丹徒步",
+        "onboard_time": 1746188969,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180683,
+        "num": 180683,
+        "word": "BLG教练",
+        "onboard_time": 1746196653,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 168770,
+        "num": 168770,
+        "word": "wei哥 我们错了",
+        "onboard_time": 1746191971,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 165749,
+        "num": 165749,
+        "word": "蛮好的人生大结局",
+        "onboard_time": 1746184350,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164822,
+        "num": 164822,
+        "word": "天津泡泡岛音乐节",
+        "onboard_time": 1746195753,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 160680,
+        "num": 160680,
+        "word": "如果你看到一个人朋友圈干干净净",
+        "onboard_time": 1746183389,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157016,
+        "num": 157016,
+        "word": "尹净汉出国",
+        "onboard_time": 1746190650,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155008,
+        "num": 155008,
+        "word": "苏醒听到叫他爱冷苏的反应",
+        "onboard_time": 1746196533,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153454,
+        "num": 153454,
+        "word": "预算10万的形象工程花200余万",
+        "onboard_time": 1746189871,
+        "rank": 40,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 153285,
+        "num": 153285,
+        "word": "AG剧透",
+        "onboard_time": 1746189450,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 46731,
+        "num": 152189,
+        "word": "给自己一次重回大学宿舍的机会",
+        "onboard_time": 1746196587,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 151633,
+        "num": 151633,
+        "word": "北京男篮3比0山西男篮",
+        "onboard_time": 1746194611,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150035,
+        "num": 150035,
+        "word": "华晨宇解读100米巨型悬浮环设计",
+        "onboard_time": 1746196468,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 148879,
+        "num": 148879,
+        "word": "魏晨音乐节",
+        "onboard_time": 1746196292,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 144074,
+        "num": 144074,
+        "word": "詹姆斯被淘汰当晚办派对",
+        "onboard_time": 1746195391,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140654,
+        "num": 140654,
+        "word": "成都蓉城登顶中超积分榜",
+        "onboard_time": 1746195932,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133997,
+        "num": 133997,
+        "word": "美国小企业被本国关税战打蒙了",
+        "onboard_time": 1746184709,
+        "rank": 48,
+        "category": "国际时政,国际时政"
+      },
+      {
+        "raw_hot": 132491,
+        "num": 132491,
+        "word": "北京男篮重返总决赛",
+        "onboard_time": 1746196171,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光的你#"
+    }
+  }
+}
