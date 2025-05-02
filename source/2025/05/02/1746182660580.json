@@ -1,0 +1,410 @@
+{
+  "runTime": 1746182660580,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1093880,
+        "num": 1175020,
+        "word": "曾黎工作室徽章失窃",
+        "onboard_time": 1746163710,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 879550,
+        "num": 879550,
+        "word": "荣昌公务员食堂一顿蒸1000斤米饭",
+        "onboard_time": 1746181288,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40156,
+        "num": 763114,
+        "word": "每个努力奋斗的你都闪闪发光",
+        "onboard_time": 1746177569,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 692410,
+        "num": 692410,
+        "word": "陈丽君说贾宝玉是长子长孙",
+        "onboard_time": 1746180989,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 425930,
+        "num": 425930,
+        "word": "普陀山",
+        "onboard_time": 1746171142,
+        "rank": 4,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 332275,
+        "num": 332275,
+        "word": "日本3个月前坠坑老人确认死亡",
+        "onboard_time": 1746166889,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 480576,
+        "num": 322206,
+        "word": "杨迪晒与娜扎合照陈哲远他急了",
+        "onboard_time": 1746175642,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 446917,
+        "num": 306086,
+        "word": "女伴舞",
+        "onboard_time": 1746177022,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 275544,
+        "num": 275544,
+        "word": "泰国的中文菜单受众群体到底是谁",
+        "onboard_time": 1746181530,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 269929,
+        "num": 269929,
+        "word": "五一假期是捅人窝了吧",
+        "onboard_time": 1746166410,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 850987,
+        "num": 269812,
+        "word": "董小姐在她一作的论文里负责翻译",
+        "onboard_time": 1746163890,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 438862,
+        "num": 267085,
+        "word": "当老爸得知我去日本玩be like",
+        "onboard_time": 1746170540,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 416347,
+        "num": 264332,
+        "word": "红秀 何秋亊",
+        "onboard_time": 1746178289,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 108777,
+        "num": 264020,
+        "word": "动车停摆被困车厢超4小时乘客发声",
+        "onboard_time": 1746180810,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84809,
+        "num": 261021,
+        "word": "T1战胜DNF",
+        "onboard_time": 1746182069,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 389607,
+        "num": 259530,
+        "word": "董力婚后和初恋单独吃过饭",
+        "onboard_time": 1746166589,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325966,
+        "num": 256858,
+        "word": "刘诗诗新剧",
+        "onboard_time": 1746175701,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 309313,
+        "num": 255025,
+        "word": "TOP杂志",
+        "onboard_time": 1746180269,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 286603,
+        "num": 253077,
+        "word": "买8楼送9楼10楼",
+        "onboard_time": 1746156209,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 65466,
+        "num": 252585,
+        "word": "游乐园回应多名游客用脚踹骆驼",
+        "onboard_time": 1746180810,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251026,
+        "num": 251026,
+        "word": "美军战机正运往乌克兰",
+        "onboard_time": 1746178829,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 308163,
+        "num": 250251,
+        "word": "文化水平限制不了我点菜水平",
+        "onboard_time": 1746181349,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 248910,
+        "num": 248910,
+        "word": "gidle神女风",
+        "onboard_time": 1746181770,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 225103,
+        "num": 225103,
+        "word": "2025年竟然在跑男里看到了陈赫",
+        "onboard_time": 1746170120,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32054,
+        "num": 199297,
+        "word": "小红乐乐的赛后采访依旧抽象",
+        "onboard_time": 1746179970,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186351,
+        "num": 186351,
+        "word": "王权弘业有妻徒刑",
+        "onboard_time": 1746181828,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180048,
+        "num": 180048,
+        "word": "宋亚轩刘耀文偷偷藏不住",
+        "onboard_time": 1746176480,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167866,
+        "num": 167866,
+        "word": "王励勤谢绝媒体采访国乒队员",
+        "onboard_time": 1746170241,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166073,
+        "num": 166073,
+        "word": "苏新皓摔倒",
+        "onboard_time": 1746172460,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 154041,
+        "num": 154041,
+        "word": "曾黎掉粉超10万",
+        "onboard_time": 1746162630,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153903,
+        "num": 153903,
+        "word": "弟弟疯狂试探姐姐严防死守",
+        "onboard_time": 1746180450,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150239,
+        "num": 150239,
+        "word": "长沙岳麓山比心树火了",
+        "onboard_time": 1746180388,
+        "rank": 31,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 48316,
+        "num": 149362,
+        "word": "帮狗狗社交的新职业出现",
+        "onboard_time": 1746182430,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149312,
+        "num": 149312,
+        "word": "为什么小说里很少有浙江霸总",
+        "onboard_time": 1746181949,
+        "rank": 33,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 147243,
+        "num": 147243,
+        "word": "建议全国演唱会按这个卷",
+        "onboard_time": 1746180810,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 13131,
+        "num": 146430,
+        "word": "五一假期如何预防假期综合征",
+        "onboard_time": 1746182489,
+        "rank": 35,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 146020,
+        "num": 146020,
+        "word": "众人为举国旗爬山男子照亮上山路",
+        "onboard_time": 1746174140,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145543,
+        "num": 145543,
+        "word": "全红婵回应水立方夺冠",
+        "onboard_time": 1746181888,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134235,
+        "num": 134235,
+        "word": "金价暴跌有人一夜亏47万",
+        "onboard_time": 1746118698,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 124523,
+        "num": 124523,
+        "word": "吴宣仪拒绝叶童",
+        "onboard_time": 1746164129,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123263,
+        "num": 123263,
+        "word": "你说周洁琼是蒲柳之姿吗",
+        "onboard_time": 1746181049,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123159,
+        "num": 123159,
+        "word": "sana的冰箱采访 宁艺卓",
+        "onboard_time": 1746177270,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18155,
+        "num": 122877,
+        "word": "马丽演活了臧姑娘",
+        "onboard_time": 1746181589,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122642,
+        "num": 122642,
+        "word": "王安宇cha了时团新歌",
+        "onboard_time": 1746182430,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 120468,
+        "num": 120468,
+        "word": "小姑娘发现河北博物院两处注释错误",
+        "onboard_time": 1746180630,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119023,
+        "num": 119023,
+        "word": "奔跑吧",
+        "onboard_time": 1746182189,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115790,
+        "num": 115790,
+        "word": "华晨宇巡演请吃炒饭第一人",
+        "onboard_time": 1746178349,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 112283,
+        "num": 112283,
+        "word": "这直播给迪丽热巴看沉默了",
+        "onboard_time": 1746176420,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109108,
+        "num": 109108,
+        "word": "董明珠想不通有人天天搞小三小四",
+        "onboard_time": 1746182610,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103020,
+        "num": 103020,
+        "word": "省委书记暗访餐饮店",
+        "onboard_time": 1746182069,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记礼赞劳动创造#"
+    }
+  }
+}
