@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1746228201106,
+  "endTime": 1746229091936,
   "band_list": [
     {
       "raw_hot": 8960529,
@@ -2619,6 +2619,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 591783,
+      "num": 912202,
+      "word": "原来躺久了也会消耗气血",
+      "onboard_time": 1746203600,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 591730,
       "num": 518761,
       "word": "第20届华表奖获奖名单",
@@ -3473,14 +3481,6 @@
       "onboard_time": 1746090921,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 473554,
-      "num": 784171,
-      "word": "原来躺久了也会消耗气血",
-      "onboard_time": 1746203600,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 473142,
@@ -9812,7 +9812,7 @@
     },
     {
       "raw_hot": 178953,
-      "num": 113615,
+      "num": 166850,
       "word": "赵心童世锦赛决赛中国第2人",
       "onboard_time": 1746226637,
       "rank": 13,
@@ -14851,6 +14851,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 119409,
+      "num": 119409,
+      "word": "黄子韬徐艺洋撕拉片",
+      "onboard_time": 1746228917,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119399,
       "num": 501404,
       "word": "五一假期被景区三件套包圆了",
@@ -17011,6 +17019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92383,
+      "num": 78185,
+      "word": "詹姆斯左膝韧带二级扭伤",
+      "onboard_time": 1746228978,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 92280,
       "num": 92280,
       "word": "柯淳回应片场随地扔烟头",
@@ -17907,6 +17923,14 @@
       "category": "国际时政,国内时政"
     },
     {
+      "raw_hot": 78121,
+      "num": 78121,
+      "word": "美国将在特朗普生日当天阅兵",
+      "onboard_time": 1746228978,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 78065,
       "num": 175444,
       "word": "解说957曝北川已到位",
@@ -18025,6 +18049,14 @@
       "onboard_time": 1746091281,
       "rank": 19,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 76667,
+      "num": 76667,
+      "word": "韩安冉陪宋浩然去横店拍戏",
+      "onboard_time": 1746228558,
+      "rank": 33,
+      "category": "网红"
     },
     {
       "raw_hot": 76539,
@@ -18707,6 +18739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63243,
+      "num": 62750,
+      "word": "您这个直接去收银不用过秤",
+      "onboard_time": 1746224054,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 63110,
       "num": 301042,
       "word": "当地回应村干部微信群骂人被行拘",
@@ -18769,6 +18809,14 @@
       "onboard_time": 1746018863,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 61868,
+      "num": 61868,
+      "word": "男人以为买跑车的效果vs实际上的",
+      "onboard_time": 1746227418,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 61663,
@@ -18857,6 +18905,14 @@
       "onboard_time": 1745923282,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 60387,
+      "num": 60387,
+      "word": "早上运动vs晚上运动哪个更健康",
+      "onboard_time": 1746228558,
+      "rank": 38,
+      "category": "运动健身"
     },
     {
       "raw_hot": 60339,
@@ -19435,6 +19491,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 50552,
+      "num": 51779,
+      "word": "孙俪你喜欢什么情节我演给你看好了",
+      "onboard_time": 1746220935,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 50489,
       "num": 230722,
       "word": "黎深和偷跑出医院的茉莉",
@@ -19467,14 +19531,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 49813,
-      "num": 49813,
-      "word": "您这个直接去收银不用过秤",
-      "onboard_time": 1746224054,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 49733,
       "num": 49733,
       "word": "孙恩盛直播",
@@ -19489,6 +19545,14 @@
       "onboard_time": 1745916143,
       "rank": 21,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 49496,
+      "num": 49496,
+      "word": "宝宝性别揭晓派对上的意外",
+      "onboard_time": 1746221895,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 49430,
@@ -19537,6 +19601,14 @@
       "onboard_time": 1746182430,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48248,
+      "num": 48248,
+      "word": "今年可以放开肚皮炫荔枝了",
+      "onboard_time": 1746228558,
+      "rank": 44,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 48184,
@@ -19667,14 +19739,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 46481,
-      "num": 46481,
-      "word": "宝宝性别揭晓派对上的意外",
-      "onboard_time": 1746221895,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 46371,
       "num": 493650,
       "word": "专家谈五一假期政府食堂对外开放",
@@ -19713,6 +19777,14 @@
       "onboard_time": 1745939482,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 45977,
+      "num": 189347,
+      "word": "美鞋类巨头请求白宫豁免关税",
+      "onboard_time": 1746228197,
+      "rank": 7,
+      "category": "国际时政,财经"
     },
     {
       "raw_hot": 45854,
@@ -19841,14 +19913,6 @@
       "onboard_time": 1746056179,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 44171,
-      "num": 51779,
-      "word": "孙俪你喜欢什么情节我演给你看好了",
-      "onboard_time": 1746220935,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 44097,
@@ -20019,12 +20083,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 41591,
+      "num": 41591,
+      "word": "波波维奇辞去马刺主帅",
+      "onboard_time": 1746228558,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 41522,
       "num": 385055,
       "word": "WAW2025倒计时3天",
       "onboard_time": 1746016882,
       "rank": 16,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 41495,
+      "num": 41495,
+      "word": "歌手谁叫十块钱",
+      "onboard_time": 1746227957,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 41486,
@@ -20177,6 +20257,14 @@
       "onboard_time": 1746115221,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 39442,
+      "num": 187816,
+      "word": "五一假期到一半了",
+      "onboard_time": 1746228076,
+      "rank": 32,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 39392,
@@ -20699,14 +20787,6 @@
       "category": "国内时政,财经"
     },
     {
-      "raw_hot": 31863,
-      "num": 46468,
-      "word": "男人以为买跑车的效果vs实际上的",
-      "onboard_time": 1746227418,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 31763,
       "num": 276415,
       "word": "出行期间遇到晕车问题怎么办",
@@ -21121,6 +21201,14 @@
       "onboard_time": 1745830881,
       "rank": 19,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 26309,
+      "num": 49991,
+      "word": "美众多鞋类公司将因关税倒闭",
+      "onboard_time": 1746229037,
+      "rank": 41,
+      "category": "海外新闻,财经"
     },
     {
       "raw_hot": 26308,
@@ -21801,14 +21889,6 @@
       "onboard_time": 1745937263,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 19377,
-      "num": 47498,
-      "word": "五一假期到一半了",
-      "onboard_time": 1746228076,
-      "rank": 32,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 19286,
@@ -22537,6 +22617,14 @@
       "onboard_time": 1746010881,
       "rank": 18,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 12780,
+      "num": 182046,
+      "word": "美媒称美乌协议象征意义大于实际",
+      "onboard_time": 1746228497,
+      "rank": 9,
+      "category": "国际时政,军事"
     },
     {
       "raw_hot": 12552,

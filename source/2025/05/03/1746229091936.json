@@ -1,0 +1,410 @@
+{
+  "runTime": 1746229091936,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 591783,
+        "num": 912202,
+        "word": "原来躺久了也会消耗气血",
+        "onboard_time": 1746203600,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 400531,
+        "num": 400531,
+        "word": "校方回应学生组团狂退60多件裙子",
+        "onboard_time": 1746201321,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82185,
+        "num": 344585,
+        "word": "五一假期文旅市场井喷式增长",
+        "onboard_time": 1746193832,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 317523,
+        "num": 317523,
+        "word": "美国人正绕过关税打飞的来华购物",
+        "onboard_time": 1746198384,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 238962,
+        "num": 238962,
+        "word": "山东日照不允许游客挖不到蛤蜊",
+        "onboard_time": 1746195213,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 499874,
+        "num": 220453,
+        "word": "陈丽君争议片段已删除",
+        "onboard_time": 1746200182,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192624,
+        "num": 192624,
+        "word": "南大教授回应陈丽君说贾宝玉长孙",
+        "onboard_time": 1746192270,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45977,
+        "num": 189347,
+        "word": "美鞋类巨头请求白宫豁免关税",
+        "onboard_time": 1746228197,
+        "rank": 7,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 39442,
+        "num": 187816,
+        "word": "五一假期到一半了",
+        "onboard_time": 1746228076,
+        "rank": 8,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 12780,
+        "num": 182046,
+        "word": "美媒称美乌协议象征意义大于实际",
+        "onboard_time": 1746228497,
+        "rank": 9,
+        "category": "国际时政,军事"
+      },
+      {
+        "raw_hot": 758674,
+        "num": 180610,
+        "word": "一直对月薪4000没概念直到换成天",
+        "onboard_time": 1746198152,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 417225,
+        "num": 177010,
+        "word": "高中生继承5亿遗产结婚当天坠亡",
+        "onboard_time": 1746190950,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252914,
+        "num": 172729,
+        "word": "马嘉祺破音",
+        "onboard_time": 1746200722,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 198256,
+        "num": 168742,
+        "word": "谁家明星自己打车回家",
+        "onboard_time": 1746195872,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166850,
+        "num": 166850,
+        "word": "赵心童世锦赛决赛中国第2人",
+        "onboard_time": 1746226637,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165000,
+        "num": 165000,
+        "word": "比尔盖茨被爆患阿斯伯格综合征",
+        "onboard_time": 1746183929,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 164423,
+        "num": 164423,
+        "word": "游客称西湖景区洒农药进了自己嘴里",
+        "onboard_time": 1746202400,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151689,
+        "num": 151689,
+        "word": "王凯首度回应快两年没进组",
+        "onboard_time": 1746187530,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89647,
+        "num": 133550,
+        "word": "王珞丹浪姐遭遇信任崩塌",
+        "onboard_time": 1746193291,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87311,
+        "num": 121052,
+        "word": "刘诗诗先秦淑女步",
+        "onboard_time": 1746191188,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119409,
+        "num": 119409,
+        "word": "黄子韬徐艺洋撕拉片",
+        "onboard_time": 1746228917,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113559,
+        "num": 113559,
+        "word": "西安暴雨",
+        "onboard_time": 1746195331,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108757,
+        "num": 108757,
+        "word": "胖东来向胖都来寄律师函",
+        "onboard_time": 1746190950,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107884,
+        "num": 107884,
+        "word": "爸爸用维生素为女儿变出萤火流星雨",
+        "onboard_time": 1746193591,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96602,
+        "num": 96602,
+        "word": "人人人人人人景点人人人人人人",
+        "onboard_time": 1746190831,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86924,
+        "num": 86924,
+        "word": "韩国人把这家超市业绩买成上海区第一",
+        "onboard_time": 1746198384,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 83826,
+        "num": 83826,
+        "word": "房琪断更超1个月",
+        "onboard_time": 1746195391,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82477,
+        "num": 82477,
+        "word": "杜华考虑签约武大校花引发热议",
+        "onboard_time": 1746185910,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78726,
+        "num": 78726,
+        "word": "阿根廷近海7.4级地震",
+        "onboard_time": 1746193712,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 69526,
+        "num": 78223,
+        "word": "张小婉组五公第一",
+        "onboard_time": 1746196412,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92383,
+        "num": 78185,
+        "word": "詹姆斯左膝韧带二级扭伤",
+        "onboard_time": 1746228978,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78121,
+        "num": 78121,
+        "word": "美国将在特朗普生日当天阅兵",
+        "onboard_time": 1746228978,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 77580,
+        "num": 77580,
+        "word": "小伙被外国人骂秦腔穷霸气回怼",
+        "onboard_time": 1746205938,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76667,
+        "num": 76667,
+        "word": "韩安冉陪宋浩然去横店拍戏",
+        "onboard_time": 1746228558,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 63449,
+        "num": 63449,
+        "word": "Bin blg回来了",
+        "onboard_time": 1746197373,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 62986,
+        "num": 62986,
+        "word": "张晚意音乐节哭了",
+        "onboard_time": 1746195271,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 63243,
+        "num": 62750,
+        "word": "您这个直接去收银不用过秤",
+        "onboard_time": 1746224054,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 61868,
+        "num": 61868,
+        "word": "男人以为买跑车的效果vs实际上的",
+        "onboard_time": 1746227418,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 60387,
+        "num": 60387,
+        "word": "早上运动vs晚上运动哪个更健康",
+        "onboard_time": 1746228558,
+        "rank": 38,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 53630,
+        "num": 53630,
+        "word": "香港月薪5万董事长女助理的一天",
+        "onboard_time": 1746197431,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 50552,
+        "num": 50552,
+        "word": "孙俪你喜欢什么情节我演给你看好了",
+        "onboard_time": 1746220935,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26309,
+        "num": 49991,
+        "word": "美众多鞋类公司将因关税倒闭",
+        "onboard_time": 1746229037,
+        "rank": 41,
+        "category": "海外新闻,财经"
+      },
+      {
+        "raw_hot": 49496,
+        "num": 49496,
+        "word": "宝宝性别揭晓派对上的意外",
+        "onboard_time": 1746221895,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 48354,
+        "num": 48354,
+        "word": "刘诗诗顶级魅魔",
+        "onboard_time": 1746196533,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48248,
+        "num": 48248,
+        "word": "今年可以放开肚皮炫荔枝了",
+        "onboard_time": 1746228558,
+        "rank": 44,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 41652,
+        "num": 41652,
+        "word": "蛮好的人生大结局",
+        "onboard_time": 1746184350,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41591,
+        "num": 41591,
+        "word": "波波维奇辞去马刺主帅",
+        "onboard_time": 1746228558,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41495,
+        "num": 41495,
+        "word": "歌手谁叫十块钱",
+        "onboard_time": 1746227957,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41131,
+        "num": 41131,
+        "word": "酒店痛房",
+        "onboard_time": 1746187890,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 39343,
+        "num": 39343,
+        "word": "景区骆驼坐在护栏边被游客踢踹",
+        "onboard_time": 1746222315,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#劳动创造幸福奋斗铸就伟业#"
+    }
+  }
+}
