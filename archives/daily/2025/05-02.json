@@ -1,6 +1,6 @@
 {
   "startTime": 1746117084529,
-  "endTime": 1746170695654,
+  "endTime": 1746171479037,
   "band_list": [
     {
       "raw_hot": 2150105,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1531885,
-      "num": 283000,
+      "num": 295135,
       "word": "董小姐在她一作的论文里负责翻译",
       "onboard_time": 1746163890,
       "rank": 14,
@@ -107,8 +107,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 949843,
+      "num": 949843,
+      "word": "日本3个月前坠坑老人确认死亡",
+      "onboard_time": 1746166889,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 935669,
-      "num": 402946,
+      "num": 846391,
       "word": "董力婚后和初恋单独吃过饭",
       "onboard_time": 1746166589,
       "rank": 6,
@@ -145,14 +153,6 @@
       "onboard_time": 1746144618,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 825390,
-      "num": 825390,
-      "word": "日本3个月前坠坑老人确认死亡",
-      "onboard_time": 1746166889,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 767281,
@@ -324,7 +324,7 @@
     },
     {
       "raw_hot": 477099,
-      "num": 283044,
+      "num": 317098,
       "word": "孟子义打小眼睛就大",
       "onboard_time": 1746164429,
       "rank": 46,
@@ -499,6 +499,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 319858,
+      "num": 319858,
+      "word": "五一假期是捅人窝了吧",
+      "onboard_time": 1746166410,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 310526,
       "num": 310526,
       "word": "日本皇室生活费被盗",
@@ -513,6 +521,14 @@
       "onboard_time": 1746115882,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 300097,
+      "num": 300097,
+      "word": "群聊泄密事件当事人升职",
+      "onboard_time": 1746169521,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 292789,
@@ -588,7 +604,7 @@
     },
     {
       "raw_hot": 259805,
-      "num": 224897,
+      "num": 241751,
       "word": "苏新皓中控红海",
       "onboard_time": 1746169580,
       "rank": 17,
@@ -601,6 +617,14 @@
       "onboard_time": 1746093021,
       "rank": 15,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 254999,
+      "num": 254999,
+      "word": "2025年竟然在跑男里看到了陈赫",
+      "onboard_time": 1746170120,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 253916,
@@ -651,12 +675,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 224737,
-      "num": 224737,
-      "word": "五一假期是捅人窝了吧",
-      "onboard_time": 1746166410,
-      "rank": 36,
-      "category": "幽默"
+      "raw_hot": 222577,
+      "num": 222577,
+      "word": "王励勤谢绝媒体采访国乒队员",
+      "onboard_time": 1746170241,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 221533,
@@ -779,6 +803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193825,
+      "num": 193825,
+      "word": "张极飞吻",
+      "onboard_time": 1746170299,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193397,
       "num": 193397,
       "word": "前任身份勾栏手段正宫做派",
@@ -835,6 +867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187627,
+      "num": 217727,
+      "word": "这些迹象表明你已处于有毒关系",
+      "onboard_time": 1746169880,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 186951,
       "num": 186951,
       "word": "李艺彤哭了",
@@ -859,6 +899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184099,
+      "num": 184099,
+      "word": "张泽禹金发",
+      "onboard_time": 1746170660,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184010,
       "num": 286562,
       "word": "工作人员为曾黎发声",
@@ -867,28 +915,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 182153,
-      "num": 206011,
-      "word": "这些迹象表明你已处于有毒关系",
-      "onboard_time": 1746169880,
-      "rank": 23,
-      "category": "电影"
-    },
-    {
       "raw_hot": 181571,
       "num": 181571,
       "word": "刘耀文两年过去还是爱搜自己神图",
       "onboard_time": 1746162748,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 179360,
-      "num": 225074,
-      "word": "群聊泄密事件当事人升职",
-      "onboard_time": 1746169521,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 175701,
@@ -904,14 +936,6 @@
       "word": "谭维维的耳环有半张脸大",
       "onboard_time": 1746160110,
       "rank": 49,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 171146,
-      "num": 171146,
-      "word": "2025年竟然在跑男里看到了陈赫",
-      "onboard_time": 1746170120,
-      "rank": 31,
       "category": "综艺"
     },
     {
@@ -955,6 +979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165940,
+      "num": 165940,
+      "word": "马来西亚公主也在追落花",
+      "onboard_time": 1746170361,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165729,
       "num": 165729,
       "word": "五一的上海外滩",
@@ -993,6 +1025,14 @@
       "onboard_time": 1746157409,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 160382,
+      "num": 160382,
+      "word": "当老爸得知我去日本玩be like",
+      "onboard_time": 1746170540,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 159637,
@@ -1043,20 +1083,20 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 156544,
+      "num": 156544,
+      "word": "迪丽热巴跳团播舞",
+      "onboard_time": 1746171321,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156289,
       "num": 156289,
       "word": "TXT新歌",
       "onboard_time": 1746160890,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 156285,
-      "num": 179104,
-      "word": "王励勤谢绝媒体采访国乒队员",
-      "onboard_time": 1746170241,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 156100,
@@ -1073,6 +1113,14 @@
       "onboard_time": 1746155610,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 154248,
+      "num": 154248,
+      "word": "李晟小考太帅了",
+      "onboard_time": 1746171020,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 153589,
@@ -1123,14 +1171,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 148956,
-      "num": 148956,
-      "word": "张极飞吻",
-      "onboard_time": 1746170299,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 148048,
       "num": 148048,
       "word": "南宁丢那猩互动时丢石块砸伤游客",
@@ -1153,6 +1193,14 @@
       "onboard_time": 1746115100,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 145606,
+      "num": 145606,
+      "word": "李昀锐武汉",
+      "onboard_time": 1746171079,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 145462,
@@ -1283,6 +1331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 132085,
+      "num": 176713,
+      "word": "罗云熙 你们这都什么爱好啊",
+      "onboard_time": 1746171201,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131523,
       "num": 188425,
       "word": "没想到曾毅真演成了段奕宏",
@@ -1331,28 +1387,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 128500,
-      "num": 128500,
-      "word": "张泽禹金发",
-      "onboard_time": 1746170660,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 128175,
       "num": 128175,
       "word": "感觉有一亿人在西双版纳泼水",
       "onboard_time": 1746153150,
       "rank": 41,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 127576,
-      "num": 127576,
-      "word": "当老爸得知我去日本玩be like",
-      "onboard_time": 1746170540,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 127528,
@@ -1379,12 +1419,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 126649,
-      "num": 126649,
-      "word": "马来西亚公主也在追落花",
-      "onboard_time": 1746170361,
-      "rank": 45,
-      "category": "剧集"
+      "raw_hot": 126656,
+      "num": 126656,
+      "word": "普陀山",
+      "onboard_time": 1746171142,
+      "rank": 46,
+      "category": "旅游"
     },
     {
       "raw_hot": 126544,
@@ -1403,20 +1443,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124824,
+      "num": 124824,
+      "word": "王励勤当选乒协主席后首次公开亮相",
+      "onboard_time": 1746170420,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124318,
       "num": 124318,
       "word": "撕拉片",
       "onboard_time": 1746108623,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 123327,
-      "num": 123327,
-      "word": "王励勤当选乒协主席后首次公开亮相",
-      "onboard_time": 1746170420,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 123318,
@@ -1619,6 +1659,14 @@
       "category": "游戏,演出"
     },
     {
+      "raw_hot": 100575,
+      "num": 187430,
+      "word": "陈梦谈妈妈",
+      "onboard_time": 1746168682,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99174,
       "num": 99174,
       "word": "邓超世面都见过这种人没见过",
@@ -1812,7 +1860,7 @@
     },
     {
       "raw_hot": 63387,
-      "num": 749559,
+      "num": 854243,
       "word": "致敬了不起的工匠精神",
       "onboard_time": 1746155728,
       "rank": 25,
@@ -1841,6 +1889,14 @@
       "onboard_time": 1746154169,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 57376,
+      "num": 225954,
+      "word": "美国这100天真一言难尽",
+      "onboard_time": 1746169521,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 57255,
@@ -1995,14 +2051,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 36010,
-      "num": 225954,
-      "word": "美国这100天真一言难尽",
-      "onboard_time": 1746169521,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 34033,
       "num": 37316,
       "word": "贵州文旅太拼了",
@@ -2131,12 +2179,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 21884,
+      "num": 172703,
+      "word": "药屋少女四大妃的美貌",
+      "onboard_time": 1746170960,
+      "rank": 29,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 20735,
       "num": 140115,
       "word": "男子遇小孩骨头错位出手相助",
       "onboard_time": 1746163289,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20659,
+      "num": 215199,
+      "word": "劳动节是如何诞生的",
+      "onboard_time": 1746170481,
+      "rank": 24,
+      "category": "科学科普"
     },
     {
       "raw_hot": 19938,
@@ -2163,12 +2227,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 18685,
+      "num": 184122,
+      "word": "美政府颗粒度没对齐",
+      "onboard_time": 1746171321,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 18174,
       "num": 290504,
       "word": "中国超级工程再上新",
       "onboard_time": 1746163828,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18069,
+      "num": 151834,
+      "word": "宇宙四大定律",
+      "onboard_time": 1746170241,
+      "rank": 39,
+      "category": "科学科普"
     },
     {
       "raw_hot": 17827,
@@ -2203,20 +2283,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16065,
+      "num": 171783,
+      "word": "印度杀人犯因监禁有损身心被保释",
+      "onboard_time": 1746171321,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 15951,
       "num": 148651,
       "word": "就医经验总结",
       "onboard_time": 1746168090,
       "rank": 39,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 15689,
-      "num": 136343,
-      "word": "宇宙四大定律",
-      "onboard_time": 1746170241,
-      "rank": 39,
-      "category": "科学科普"
     },
     {
       "raw_hot": 14934,
@@ -2265,14 +2345,6 @@
       "onboard_time": 1746126915,
       "rank": 22,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 10307,
-      "num": 197552,
-      "word": "劳动节是如何诞生的",
-      "onboard_time": 1746170481,
-      "rank": 24,
-      "category": "科学科普"
     },
     {
       "raw_hot": 10011,

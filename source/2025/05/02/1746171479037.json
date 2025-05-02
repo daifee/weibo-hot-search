@@ -1,0 +1,410 @@
+{
+  "runTime": 1746171479037,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1811180,
+        "num": 1811180,
+        "word": "曾黎工作室徽章失窃",
+        "onboard_time": 1746163710,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 949843,
+        "num": 949843,
+        "word": "日本3个月前坠坑老人确认死亡",
+        "onboard_time": 1746166889,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 32630,
+        "num": 854243,
+        "word": "致敬了不起的工匠精神",
+        "onboard_time": 1746155728,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 846391,
+        "num": 846391,
+        "word": "董力婚后和初恋单独吃过饭",
+        "onboard_time": 1746166589,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 336282,
+        "num": 336282,
+        "word": "中国中央广播电视总台没有邀请Kpop",
+        "onboard_time": 1746157950,
+        "rank": 4,
+        "category": "辟谣/通报,演出"
+      },
+      {
+        "raw_hot": 319858,
+        "num": 319858,
+        "word": "五一假期是捅人窝了吧",
+        "onboard_time": 1746166410,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 401360,
+        "num": 318884,
+        "word": "吴宣仪拒绝叶童",
+        "onboard_time": 1746164129,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 348018,
+        "num": 317098,
+        "word": "孟子义打小眼睛就大",
+        "onboard_time": 1746164429,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313837,
+        "num": 313837,
+        "word": "王楚钦被球砸脸还笑场",
+        "onboard_time": 1746167309,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 300097,
+        "num": 300097,
+        "word": "群聊泄密事件当事人升职",
+        "onboard_time": 1746169521,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1406944,
+        "num": 295135,
+        "word": "董小姐在她一作的论文里负责翻译",
+        "onboard_time": 1746163890,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 538531,
+        "num": 293999,
+        "word": "买8楼送9楼10楼",
+        "onboard_time": 1746156209,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 289736,
+        "num": 289736,
+        "word": "董某莹事件唯有真相才能定纷止争",
+        "onboard_time": 1746152850,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254999,
+        "num": 254999,
+        "word": "2025年竟然在跑男里看到了陈赫",
+        "onboard_time": 1746170120,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241751,
+        "num": 241751,
+        "word": "苏新皓中控红海",
+        "onboard_time": 1746169580,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 229713,
+        "num": 229713,
+        "word": "奶茶我有七不喝",
+        "onboard_time": 1746156510,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 222577,
+        "num": 222577,
+        "word": "王励勤谢绝媒体采访国乒队员",
+        "onboard_time": 1746170241,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223551,
+        "num": 219716,
+        "word": "月亮姐姐淘汰",
+        "onboard_time": 1746167909,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187627,
+        "num": 217727,
+        "word": "这些迹象表明你已处于有毒关系",
+        "onboard_time": 1746169880,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 20659,
+        "num": 215199,
+        "word": "劳动节是如何诞生的",
+        "onboard_time": 1746170481,
+        "rank": 19,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 57376,
+        "num": 213243,
+        "word": "美国这100天真一言难尽",
+        "onboard_time": 1746169521,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 491204,
+        "num": 208318,
+        "word": "金价暴跌有人一夜亏47万",
+        "onboard_time": 1746118698,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 208263,
+        "num": 208263,
+        "word": "曾黎掉粉超10万",
+        "onboard_time": 1746162630,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193825,
+        "num": 193825,
+        "word": "张极飞吻",
+        "onboard_time": 1746170299,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100575,
+        "num": 187430,
+        "word": "陈梦谈妈妈",
+        "onboard_time": 1746168682,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18685,
+        "num": 184122,
+        "word": "美政府颗粒度没对齐",
+        "onboard_time": 1746171321,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 184099,
+        "num": 184099,
+        "word": "张泽禹金发",
+        "onboard_time": 1746170660,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132085,
+        "num": 176713,
+        "word": "罗云熙 你们这都什么爱好啊",
+        "onboard_time": 1746171201,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168373,
+        "num": 173469,
+        "word": "日本掉坑大爷终于找到了",
+        "onboard_time": 1746158969,
+        "rank": 28,
+        "category": "海外新闻,民生新闻"
+      },
+      {
+        "raw_hot": 21884,
+        "num": 172703,
+        "word": "药屋少女四大妃的美貌",
+        "onboard_time": 1746170960,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 172571,
+        "num": 172571,
+        "word": "田曦薇粉丝破一千万",
+        "onboard_time": 1746169880,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16065,
+        "num": 171783,
+        "word": "印度杀人犯因监禁有损身心被保释",
+        "onboard_time": 1746171321,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 171472,
+        "num": 171472,
+        "word": "回忆专用小马甲一夜掉粉2.6万",
+        "onboard_time": 1746168929,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 165940,
+        "num": 165940,
+        "word": "马来西亚公主也在追落花",
+        "onboard_time": 1746170361,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164274,
+        "num": 164274,
+        "word": "家人回应大爷掉坑3个月终于找到了",
+        "onboard_time": 1746166710,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 160382,
+        "num": 160382,
+        "word": "当老爸得知我去日本玩be like",
+        "onboard_time": 1746170540,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157175,
+        "num": 157175,
+        "word": "45岁的王祖蓝在邓超怀里像个孩子",
+        "onboard_time": 1746164729,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156544,
+        "num": 156544,
+        "word": "迪丽热巴跳团播舞",
+        "onboard_time": 1746171321,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154248,
+        "num": 154248,
+        "word": "李晟小考太帅了",
+        "onboard_time": 1746171020,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18069,
+        "num": 151834,
+        "word": "宇宙四大定律",
+        "onboard_time": 1746170241,
+        "rank": 39,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 284610,
+        "num": 151663,
+        "word": "协和4加4培养出的董医生医术如何",
+        "onboard_time": 1746164849,
+        "rank": 40,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 150066,
+        "num": 150066,
+        "word": "杨紫生命树开机照",
+        "onboard_time": 1746168150,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134917,
+        "num": 146240,
+        "word": "登陆少年演唱会",
+        "onboard_time": 1746170000,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 145606,
+        "num": 145606,
+        "word": "李昀锐武汉",
+        "onboard_time": 1746171079,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140196,
+        "num": 140196,
+        "word": "特朗普建议商科学生投身工厂",
+        "onboard_time": 1746166889,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 126793,
+        "num": 126793,
+        "word": "王珞丹瞳孔地震",
+        "onboard_time": 1746168209,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126656,
+        "num": 126656,
+        "word": "普陀山",
+        "onboard_time": 1746171142,
+        "rank": 46,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 124824,
+        "num": 124824,
+        "word": "王励勤当选乒协主席后首次公开亮相",
+        "onboard_time": 1746170420,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124175,
+        "num": 124175,
+        "word": "华晨宇户外演唱会开空调",
+        "onboard_time": 1746165390,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 123055,
+        "num": 123055,
+        "word": "王励勤强调国乒是一个集体",
+        "onboard_time": 1746152249,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记关怀劳动者的温暖瞬间#"
+    }
+  }
+}
