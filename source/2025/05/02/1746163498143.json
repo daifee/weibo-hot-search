@@ -1,0 +1,410 @@
+{
+  "runTime": 1746163498143,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1156174,
+        "num": 1184987,
+        "word": "中国中央广播电视总台没有邀请Kpop",
+        "onboard_time": 1746157950,
+        "rank": 0,
+        "category": "辟谣/通报,演出"
+      },
+      {
+        "raw_hot": 876628,
+        "num": 876628,
+        "word": "十三州府澄清",
+        "onboard_time": 1746161249,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23404,
+        "num": 749559,
+        "word": "致敬了不起的工匠精神",
+        "onboard_time": 1746155728,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 688513,
+        "num": 688513,
+        "word": "奶茶我有七不喝",
+        "onboard_time": 1746156510,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 599653,
+        "num": 599653,
+        "word": "日本掉坑大爷终于找到了",
+        "onboard_time": 1746158969,
+        "rank": 4,
+        "category": "海外新闻,民生新闻"
+      },
+      {
+        "raw_hot": 597265,
+        "num": 597265,
+        "word": "曾黎",
+        "onboard_time": 1746150268,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322955,
+        "num": 322955,
+        "word": "孙颖莎王楚钦公园陪打",
+        "onboard_time": 1746151708,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 322872,
+        "num": 322872,
+        "word": "为什么全国景区都有这种水果",
+        "onboard_time": 1746156689,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 312104,
+        "num": 312104,
+        "word": "石凯前女友称订婚是AA",
+        "onboard_time": 1746152729,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300427,
+        "num": 300427,
+        "word": "gidle改名idle",
+        "onboard_time": 1746111142,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1375064,
+        "num": 300244,
+        "word": "买8楼送9楼10楼",
+        "onboard_time": 1746156209,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 571229,
+        "num": 298223,
+        "word": "真的不要和美甲师太熟",
+        "onboard_time": 1746155489,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 423972,
+        "num": 297454,
+        "word": "徐老师婚纱照",
+        "onboard_time": 1746157350,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 12798,
+        "num": 295861,
+        "word": "大明湖锦鲤跃龙门因太胖被卡住",
+        "onboard_time": 1746163110,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256411,
+        "num": 295018,
+        "word": "饶毅再发文谈协和4加4制度",
+        "onboard_time": 1746161550,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 320701,
+        "num": 293222,
+        "word": "董某莹事件唯有真相才能定纷止争",
+        "onboard_time": 1746152850,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 292789,
+        "num": 292789,
+        "word": "王励勤强调国乒是一个集体",
+        "onboard_time": 1746152249,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 280322,
+        "num": 280322,
+        "word": "迪丽热巴人在尴尬时会假装很忙",
+        "onboard_time": 1746158009,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126064,
+        "num": 276745,
+        "word": "姚晨带子女在厦门赶海",
+        "onboard_time": 1746162390,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84851,
+        "num": 275206,
+        "word": "王昶挂网前雨刮器胸牌",
+        "onboard_time": 1746162569,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18905,
+        "num": 269547,
+        "word": "劳动者的手每一双都了不起",
+        "onboard_time": 1746104723,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 659186,
+        "num": 268785,
+        "word": "金价暴跌有人一夜亏47万",
+        "onboard_time": 1746118698,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 265908,
+        "num": 265908,
+        "word": "曝博主抄袭B站UP主获利百万",
+        "onboard_time": 1746154290,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 265182,
+        "num": 265182,
+        "word": "叶童三公第一",
+        "onboard_time": 1746160830,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233497,
+        "num": 233497,
+        "word": "kpop",
+        "onboard_time": 1746161850,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 213630,
+        "num": 213630,
+        "word": "曾黎掉粉超10万",
+        "onboard_time": 1746162630,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113269,
+        "num": 203097,
+        "word": "马龙出发成都封训",
+        "onboard_time": 1746160649,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200259,
+        "num": 200259,
+        "word": "快船3比3掘金",
+        "onboard_time": 1746161790,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196144,
+        "num": 196144,
+        "word": "虞书欣夹心摇",
+        "onboard_time": 1746162930,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112319,
+        "num": 192954,
+        "word": "怎么还有人低估王一博演技",
+        "onboard_time": 1746155610,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 191598,
+        "num": 191598,
+        "word": "陈丽君陈昊宇唱花田错",
+        "onboard_time": 1746162390,
+        "rank": 30,
+        "category": "综艺,演出"
+      },
+      {
+        "raw_hot": 183317,
+        "num": 183317,
+        "word": "外交部回应韩国偶像组合将赴华演出",
+        "onboard_time": 1746149128,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 181571,
+        "num": 181571,
+        "word": "刘耀文两年过去还是爱搜自己神图",
+        "onboard_time": 1746162748,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181391,
+        "num": 181391,
+        "word": "工作人员为曾黎发声",
+        "onboard_time": 1746159449,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165729,
+        "num": 165729,
+        "word": "五一的上海外滩",
+        "onboard_time": 1746157830,
+        "rank": 34,
+        "category": "旅游,民生新闻"
+      },
+      {
+        "raw_hot": 156708,
+        "num": 156708,
+        "word": "2车撞燃男子徒手掰车救人",
+        "onboard_time": 1746159750,
+        "rank": 35,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 151892,
+        "num": 151892,
+        "word": "女子请病假追星被辞退起诉赔偿被驳",
+        "onboard_time": 1746144319,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147114,
+        "num": 147114,
+        "word": "是女儿是妈妈2定档",
+        "onboard_time": 1746162029,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140627,
+        "num": 140627,
+        "word": "中方正在评估是否和美方谈",
+        "onboard_time": 1746146489,
+        "rank": 38,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 14542,
+        "num": 140115,
+        "word": "男子遇小孩骨头错位出手相助",
+        "onboard_time": 1746163289,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140007,
+        "num": 140007,
+        "word": "前女友曝与石凯聊天记录",
+        "onboard_time": 1746159449,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136436,
+        "num": 136436,
+        "word": "兵在哪马在哪俑在哪导游你在哪",
+        "onboard_time": 1746159809,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126920,
+        "num": 126920,
+        "word": "饶毅说在协和事件中不是英雄",
+        "onboard_time": 1746162329,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124902,
+        "num": 124902,
+        "word": "孙颖莎和成都小孩哥pk乒乓球",
+        "onboard_time": 1746163050,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122709,
+        "num": 122709,
+        "word": "打过狂犬疫苗的人嘴真严",
+        "onboard_time": 1746155249,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118772,
+        "num": 121887,
+        "word": "小孩哥说孙颖莎和自己一样可爱",
+        "onboard_time": 1746161790,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121823,
+        "num": 121823,
+        "word": "周扬青自曝着装曾被PUA",
+        "onboard_time": 1746159449,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120244,
+        "num": 120244,
+        "word": "陈艺文昌雅妮世界杯3米板夺金",
+        "onboard_time": 1746163110,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120141,
+        "num": 120141,
+        "word": "Jennie红胶",
+        "onboard_time": 1746157409,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 118616,
+        "num": 118616,
+        "word": "外教被中国学生素质震惊",
+        "onboard_time": 1746155069,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#涉及老百姓的事情关键在实#"
+    }
+  }
+}
