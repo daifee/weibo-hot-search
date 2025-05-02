@@ -1,0 +1,410 @@
+{
+  "runTime": 1746155550078,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1158044,
+        "num": 1185287,
+        "word": "外交部回应韩国偶像组合将赴华演出",
+        "onboard_time": 1746149128,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 976173,
+        "num": 976173,
+        "word": "孙颖莎王楚钦公园陪打",
+        "onboard_time": 1746151708,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25976,
+        "num": 731471,
+        "word": "劳动者的手每一双都了不起",
+        "onboard_time": 1746104723,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1263075,
+        "num": 637098,
+        "word": "曾黎",
+        "onboard_time": 1746150268,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 533550,
+        "num": 533550,
+        "word": "特朗普承认货架或将变空",
+        "onboard_time": 1746150448,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 444066,
+        "num": 444066,
+        "word": "年轻人开始流行旅游摆摊了",
+        "onboard_time": 1746149610,
+        "rank": 5,
+        "category": "民生新闻,幽默"
+      },
+      {
+        "raw_hot": 691217,
+        "num": 425797,
+        "word": "刘烨 秒删党",
+        "onboard_time": 1746154469,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 602760,
+        "num": 399974,
+        "word": "唐嫣工作室重组",
+        "onboard_time": 1746151349,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353873,
+        "num": 353873,
+        "word": "中方正在评估是否和美方谈",
+        "onboard_time": 1746146489,
+        "rank": 8,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 331600,
+        "num": 331600,
+        "word": "全红婵神级采访又来了",
+        "onboard_time": 1746152608,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 579659,
+        "num": 326526,
+        "word": "石凯前女友回应",
+        "onboard_time": 1746144618,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 573382,
+        "num": 314654,
+        "word": "董某莹事件唯有真相才能定纷止争",
+        "onboard_time": 1746152850,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 490131,
+        "num": 308904,
+        "word": "石凯前女友称订婚是AA",
+        "onboard_time": 1746152729,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 472004,
+        "num": 301357,
+        "word": "曝博主抄袭B站UP主获利百万",
+        "onboard_time": 1746154290,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 377433,
+        "num": 290771,
+        "word": "gidle改名idle",
+        "onboard_time": 1746111142,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285893,
+        "num": 285893,
+        "word": "种了27年的地因未退耕被判刑6个月",
+        "onboard_time": 1746147268,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207004,
+        "num": 207004,
+        "word": "美方多次主动向中方传递信息想谈",
+        "onboard_time": 1746146489,
+        "rank": 16,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 197260,
+        "num": 197260,
+        "word": "布伦森绝杀",
+        "onboard_time": 1746154469,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195083,
+        "num": 195083,
+        "word": "钢铁大王遭绑儿子被嫌犯甩锅是主谋",
+        "onboard_time": 1746143179,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 183130,
+        "num": 183130,
+        "word": "王励勤强调国乒是一个集体",
+        "onboard_time": 1746152249,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 962897,
+        "num": 182246,
+        "word": "金价暴跌有人一夜亏47万",
+        "onboard_time": 1746118698,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 256063,
+        "num": 181066,
+        "word": "女子请病假追星被辞退起诉赔偿被驳",
+        "onboard_time": 1746144319,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51631,
+        "num": 179771,
+        "word": "董明珠说能干不是文凭说了算",
+        "onboard_time": 1746146489,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179254,
+        "num": 179254,
+        "word": "外教被中国学生素质震惊",
+        "onboard_time": 1746155069,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169613,
+        "num": 169613,
+        "word": "小米回应SU7Ultra限制1500匹马力",
+        "onboard_time": 1746151830,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 168460,
+        "num": 168460,
+        "word": "一群富翁竟要求美国儿童做牺牲",
+        "onboard_time": 1746153329,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 165307,
+        "num": 165307,
+        "word": "张凌赫说金靖气血不足",
+        "onboard_time": 1746151830,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 6001,
+        "num": 163300,
+        "word": "猎金游戏背后的演员魅力何在",
+        "onboard_time": 1746155309,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 162791,
+        "num": 162791,
+        "word": "太中",
+        "onboard_time": 1746154529,
+        "rank": 28,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 155007,
+        "num": 155007,
+        "word": "价值4.1亿画作展出时被小孩刮花",
+        "onboard_time": 1746110483,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 153589,
+        "num": 153589,
+        "word": "宋雨琦把跑男具象化了",
+        "onboard_time": 1746153449,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145462,
+        "num": 145462,
+        "word": "水饺皇后",
+        "onboard_time": 1746155008,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 34586,
+        "num": 143591,
+        "word": "詹姆斯至少再打一个赛季",
+        "onboard_time": 1746149309,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142616,
+        "num": 142616,
+        "word": "乘风2025第四次分组",
+        "onboard_time": 1746154049,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142990,
+        "num": 141968,
+        "word": "严浩翔 染发",
+        "onboard_time": 1746143779,
+        "rank": 34,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 31916,
+        "num": 141316,
+        "word": "商务部回应中美经贸对话磋商情况",
+        "onboard_time": 1746147629,
+        "rank": 35,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 141090,
+        "num": 141090,
+        "word": "打过狂犬疫苗的人嘴真严",
+        "onboard_time": 1746155249,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140763,
+        "num": 140763,
+        "word": "彭昱畅这么帅了",
+        "onboard_time": 1746111023,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60339,
+        "num": 133231,
+        "word": "跳水世界杯北京总决赛今日开赛",
+        "onboard_time": 1746154169,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128892,
+        "num": 128892,
+        "word": "涉肖某董某事件多个账号被禁言",
+        "onboard_time": 1746140957,
+        "rank": 39,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 128594,
+        "num": 128594,
+        "word": "石凯前女友回应150万封口费",
+        "onboard_time": 1746153751,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124871,
+        "num": 124871,
+        "word": "掘金vs快船",
+        "onboard_time": 1746154827,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122191,
+        "num": 122191,
+        "word": "吃蓝莓前记得给它掏耳朵",
+        "onboard_time": 1746115580,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 120897,
+        "num": 120897,
+        "word": "你的指甲盖真像刘亦菲",
+        "onboard_time": 1746115882,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118768,
+        "num": 118768,
+        "word": "南宁丢那猩互动时丢石块砸伤游客",
+        "onboard_time": 1746145518,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117309,
+        "num": 117309,
+        "word": "店主往笼子里放5只小猫忙出残影",
+        "onboard_time": 1746151769,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113624,
+        "num": 113624,
+        "word": "狮城山海 好看",
+        "onboard_time": 1746154109,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113199,
+        "num": 113199,
+        "word": "尼克斯淘汰活塞",
+        "onboard_time": 1746155249,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111685,
+        "num": 111685,
+        "word": "第一大波游客已经抵达山西",
+        "onboard_time": 1746143239,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110460,
+        "num": 110460,
+        "word": "真的不要和美甲师太熟",
+        "onboard_time": 1746155489,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光的你#"
+    }
+  }
+}

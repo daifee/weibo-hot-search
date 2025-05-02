@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1746152307917,
+  "endTime": 1746155550078,
   "band_list": [
     {
       "raw_hot": 8960529,
@@ -795,6 +795,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1263075,
+      "num": 637098,
+      "word": "曾黎",
+      "onboard_time": 1746000622,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1262732,
       "num": 368290,
       "word": "国家卫健委启动最高层级医政调查",
@@ -913,6 +921,14 @@
       "onboard_time": 1745822723,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1158044,
+      "num": 1185287,
+      "word": "外交部回应韩国偶像组合将赴华演出",
+      "onboard_time": 1746149128,
+      "rank": 0,
+      "category": "演出"
     },
     {
       "raw_hot": 1152635,
@@ -1187,6 +1203,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 976173,
+      "num": 976173,
+      "word": "孙颖莎王楚钦公园陪打",
+      "onboard_time": 1746151708,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 968481,
       "num": 968481,
       "word": "恋与深空",
@@ -1281,14 +1305,6 @@
       "onboard_time": 1745934981,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 894228,
-      "num": 1143076,
-      "word": "外交部回应韩国偶像组合将赴华演出",
-      "onboard_time": 1746149128,
-      "rank": 0,
-      "category": "演出"
     },
     {
       "raw_hot": 892983,
@@ -1915,6 +1931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 691217,
+      "num": 425797,
+      "word": "刘烨 秒删党",
+      "onboard_time": 1746154469,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 690218,
       "num": 690218,
       "word": "ITTF抽签",
@@ -2283,6 +2307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 602760,
+      "num": 404883,
+      "word": "唐嫣工作室重组",
+      "onboard_time": 1746151349,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 600345,
       "num": 600345,
       "word": "协和4加4博士水平没问题",
@@ -2451,12 +2483,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 575176,
-      "num": 562287,
-      "word": "曾黎",
-      "onboard_time": 1746000622,
-      "rank": 6,
-      "category": "艺人"
+      "raw_hot": 573382,
+      "num": 314654,
+      "word": "董某莹事件唯有真相才能定纷止争",
+      "onboard_time": 1746152850,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 572466,
@@ -2699,6 +2731,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 533550,
+      "num": 533550,
+      "word": "特朗普承认货架或将变空",
+      "onboard_time": 1746150448,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 530065,
       "num": 530065,
       "word": "男子偷渡到缅甸想当打手却成狗推",
@@ -2915,6 +2955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 490131,
+      "num": 308904,
+      "word": "石凯前女友称订婚是AA",
+      "onboard_time": 1746152729,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 485942,
       "num": 485942,
       "word": "周深一开嗓唱出踏风破浪",
@@ -3011,14 +3059,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 476858,
-      "num": 404883,
-      "word": "唐嫣工作室重组",
-      "onboard_time": 1746151349,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 476687,
       "num": 295378,
       "word": "丁禹兮孟子义淮水竹亭感情戏",
@@ -3089,6 +3129,14 @@
       "onboard_time": 1745889321,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 472004,
+      "num": 301357,
+      "word": "曝博主抄袭B站UP主获利百万",
+      "onboard_time": 1746154290,
+      "rank": 13,
+      "category": "网红"
     },
     {
       "raw_hot": 470234,
@@ -4163,14 +4211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 336428,
-      "num": 336428,
-      "word": "孙颖莎王楚钦公园陪打",
-      "onboard_time": 1746151708,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 335354,
       "num": 335354,
       "word": "月嫂下户躲卧室抱着宝宝流泪",
@@ -4209,6 +4249,14 @@
       "onboard_time": 1746089001,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 331600,
+      "num": 331600,
+      "word": "全红婵神级采访又来了",
+      "onboard_time": 1746152608,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 330946,
@@ -7243,6 +7291,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 197260,
+      "num": 197260,
+      "word": "布伦森绝杀",
+      "onboard_time": 1746154469,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197137,
       "num": 271087,
       "word": "落花时节又逢君",
@@ -8251,6 +8307,14 @@
       "category": "情感,民生新闻"
     },
     {
+      "raw_hot": 183130,
+      "num": 183130,
+      "word": "王励勤强调国乒是一个集体",
+      "onboard_time": 1746152249,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 182894,
       "num": 182894,
       "word": "王力宏贴脸唱心跳",
@@ -8467,12 +8531,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 179193,
-      "num": 179193,
-      "word": "王励勤强调国乒是一个集体",
-      "onboard_time": 1746152249,
-      "rank": 29,
-      "category": "体育"
+      "raw_hot": 179254,
+      "num": 179254,
+      "word": "外教被中国学生素质震惊",
+      "onboard_time": 1746155069,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 179123,
@@ -8947,12 +9011,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 169765,
-      "num": 231870,
-      "word": "特朗普承认货架或将变空",
-      "onboard_time": 1746150448,
-      "rank": 41,
-      "category": "国际时政"
+      "raw_hot": 169613,
+      "num": 169613,
+      "word": "小米回应SU7Ultra限制1500匹马力",
+      "onboard_time": 1746151830,
+      "rank": 45,
+      "category": "汽车"
     },
     {
       "raw_hot": 169581,
@@ -8985,6 +9049,14 @@
       "onboard_time": 1745980220,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168460,
+      "num": 168460,
+      "word": "一群富翁竟要求美国儿童做牺牲",
+      "onboard_time": 1746153329,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 168422,
@@ -9179,6 +9251,14 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 165307,
+      "num": 165307,
+      "word": "张凌赫说金靖气血不足",
+      "onboard_time": 1746151830,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165193,
       "num": 165193,
       "word": "刘学义敖瑞鹏四年前状态",
@@ -9353,6 +9433,14 @@
       "onboard_time": 1746068421,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 162791,
+      "num": 162791,
+      "word": "太中",
+      "onboard_time": 1746154529,
+      "rank": 28,
+      "category": "动漫"
     },
     {
       "raw_hot": 162784,
@@ -10035,6 +10123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 153589,
+      "num": 153589,
+      "word": "宋雨琦把跑男具象化了",
+      "onboard_time": 1746153449,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153489,
       "num": 153489,
       "word": "加拿大总理称美利坚合众国名存实亡",
@@ -10627,14 +10723,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 145624,
-      "num": 145624,
-      "word": "张凌赫说金靖气血不足",
-      "onboard_time": 1746151830,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 145536,
       "num": 145536,
       "word": "SEVENTEEN耳返故障",
@@ -10649,6 +10737,14 @@
       "onboard_time": 1746068482,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 145462,
+      "num": 145462,
+      "word": "水饺皇后",
+      "onboard_time": 1746034877,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 145395,
@@ -10947,6 +11043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142616,
+      "num": 142616,
+      "word": "乘风2025第四次分组",
+      "onboard_time": 1746154049,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142606,
       "num": 142606,
       "word": "又看到熹妃杀回宫的眼神了",
@@ -11065,6 +11169,14 @@
       "onboard_time": 1745903364,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 141090,
+      "num": 141090,
+      "word": "打过狂犬疫苗的人嘴真严",
+      "onboard_time": 1746155249,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 141017,
@@ -11979,6 +12091,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 128594,
+      "num": 128594,
+      "word": "石凯前女友回应150万封口费",
+      "onboard_time": 1746153751,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128547,
       "num": 128547,
       "word": "小米称正在加急设计更多水印样式",
@@ -12297,6 +12417,14 @@
       "onboard_time": 1745942181,
       "rank": 26,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 124871,
+      "num": 124871,
+      "word": "掘金vs快船",
+      "onboard_time": 1746154827,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 124714,
@@ -13075,6 +13203,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 113624,
+      "num": 113624,
+      "word": "狮城山海 好看",
+      "onboard_time": 1746154109,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113539,
       "num": 539045,
       "word": "X200Ultra长焦巨炮的V单实力",
@@ -13097,6 +13233,14 @@
       "onboard_time": 1746014781,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113199,
+      "num": 113199,
+      "word": "尼克斯淘汰活塞",
+      "onboard_time": 1746155249,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 113181,
@@ -13249,6 +13393,14 @@
       "onboard_time": 1745819242,
       "rank": 44,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 110460,
+      "num": 110460,
+      "word": "真的不要和美甲师太熟",
+      "onboard_time": 1746155489,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 110382,
@@ -13956,7 +14108,7 @@
     },
     {
       "raw_hot": 100761,
-      "num": 100761,
+      "num": 179771,
       "word": "董明珠说能干不是文凭说了算",
       "onboard_time": 1746146489,
       "rank": 43,
@@ -14164,7 +14316,7 @@
     },
     {
       "raw_hot": 96840,
-      "num": 96840,
+      "num": 143591,
       "word": "詹姆斯至少再打一个赛季",
       "onboard_time": 1746149309,
       "rank": 42,
@@ -14265,14 +14417,6 @@
       "onboard_time": 1745805321,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 95584,
-      "num": 95584,
-      "word": "小米回应SU7Ultra限制1500匹马力",
-      "onboard_time": 1746151830,
-      "rank": 45,
-      "category": "汽车"
     },
     {
       "raw_hot": 95471,
@@ -16027,6 +16171,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 60339,
+      "num": 133231,
+      "word": "跳水世界杯北京总决赛今日开赛",
+      "onboard_time": 1746154169,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 59889,
       "num": 514514,
       "word": "同一场直播老用户下单贵30元",
@@ -16460,7 +16612,7 @@
     },
     {
       "raw_hot": 51540,
-      "num": 617532,
+      "num": 731471,
       "word": "劳动者的手每一双都了不起",
       "onboard_time": 1746104723,
       "rank": 8,
@@ -17571,6 +17723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 31916,
+      "num": 141316,
+      "word": "商务部回应中美经贸对话磋商情况",
+      "onboard_time": 1746147629,
+      "rank": 35,
+      "category": "国内时政,财经"
+    },
+    {
       "raw_hot": 31763,
       "num": 276415,
       "word": "出行期间遇到晕车问题怎么办",
@@ -17681,14 +17841,6 @@
       "onboard_time": 1746034456,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 30157,
-      "num": 30157,
-      "word": "水饺皇后",
-      "onboard_time": 1746034877,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 30023,
@@ -19569,6 +19721,14 @@
       "onboard_time": 1745840481,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 6001,
+      "num": 163300,
+      "word": "猎金游戏背后的演员魅力何在",
+      "onboard_time": 1746155309,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 5930,
