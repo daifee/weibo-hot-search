@@ -1,7 +1,15 @@
 {
   "startTime": 1746117084529,
-  "endTime": 1746193466917,
+  "endTime": 1746195838274,
   "band_list": [
+    {
+      "raw_hot": 2986520,
+      "num": 320275,
+      "word": "福州车祸",
+      "onboard_time": 1746194251,
+      "rank": 10,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 2150105,
       "num": 2150105,
@@ -12,7 +20,7 @@
     },
     {
       "raw_hot": 1648767,
-      "num": 309165,
+      "num": 319659,
       "word": "酒店痛房",
       "onboard_time": 1746187890,
       "rank": 10,
@@ -59,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1276530,
+      "num": 1276530,
+      "word": "南大教授回应陈丽君说贾宝玉长孙",
+      "onboard_time": 1746192270,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1272960,
       "num": 1272960,
       "word": "刘烨 秒删党",
@@ -76,7 +92,7 @@
     },
     {
       "raw_hot": 1240804,
-      "num": 273728,
+      "num": 317840,
       "word": "高中生继承5亿遗产结婚当天坠亡",
       "onboard_time": 1746190950,
       "rank": 30,
@@ -251,20 +267,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 716166,
+      "num": 658653,
+      "word": "刘诗诗先秦淑女步",
+      "onboard_time": 1746191188,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 672560,
       "num": 672560,
       "word": "全红婵陈芋汐跳水世界杯冠军",
       "onboard_time": 1746172640,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 658653,
-      "num": 658653,
-      "word": "刘诗诗先秦淑女步",
-      "onboard_time": 1746191188,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 650192,
@@ -619,6 +635,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 413942,
+      "num": 231592,
+      "word": "人人人人人人景点人人人人人人",
+      "onboard_time": 1746190831,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 413281,
       "num": 413281,
       "word": "TOP杂志",
@@ -635,12 +659,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 409696,
+      "num": 366594,
+      "word": "邓超妻子的幸福丈夫的荣耀",
+      "onboard_time": 1746193291,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 405847,
       "num": 405847,
       "word": "群聊泄密事件当事人升职",
       "onboard_time": 1746169521,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 394814,
+      "num": 394814,
+      "word": "阿根廷近海7.4级地震",
+      "onboard_time": 1746193712,
+      "rank": 5,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 390190,
@@ -680,14 +720,6 @@
       "word": "翁虹与丈夫分居3年感情反而更好了",
       "onboard_time": 1746142158,
       "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 354314,
-      "num": 354314,
-      "word": "南大教授回应陈丽君说贾宝玉长孙",
-      "onboard_time": 1746192270,
-      "rank": 28,
       "category": "艺人"
     },
     {
@@ -803,20 +835,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 321703,
-      "num": 223738,
-      "word": "人人人人人人景点人人人人人人",
-      "onboard_time": 1746190831,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 320087,
       "num": 289643,
       "word": "协和4加4培养出的董医生医术如何",
       "onboard_time": 1746164849,
       "rank": 8,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 316097,
+      "num": 316097,
+      "word": "王珞丹浪姐遭遇信任崩塌",
+      "onboard_time": 1746193291,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 310526,
@@ -849,6 +881,14 @@
       "onboard_time": 1746189871,
       "rank": 28,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 294092,
+      "num": 294092,
+      "word": "周洁琼好权威的美貌",
+      "onboard_time": 1746192212,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 292789,
@@ -891,20 +931,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 280138,
+      "num": 280138,
+      "word": "北京男篮3比0山西男篮",
+      "onboard_time": 1746194611,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 269657,
       "num": 269657,
       "word": "医生称劣质无痕内裤可能是胶水粘的",
       "onboard_time": 1746145649,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 268953,
-      "num": 268953,
-      "word": "周洁琼好权威的美貌",
-      "onboard_time": 1746192212,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 265182,
@@ -1019,6 +1059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 228403,
+      "num": 228403,
+      "word": "长期大量喝奶茶当心伤肾",
+      "onboard_time": 1746191551,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 227878,
       "num": 276745,
       "word": "姚晨带子女在厦门赶海",
@@ -1049,6 +1097,14 @@
       "onboard_time": 1746151830,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 220004,
+      "num": 220004,
+      "word": "爸爸用维生素为女儿变出萤火流星雨",
+      "onboard_time": 1746193591,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 219632,
@@ -1267,6 +1323,22 @@
       "category": "综艺,演出"
     },
     {
+      "raw_hot": 191154,
+      "num": 191154,
+      "word": "福建一隧道4辆车发生事故",
+      "onboard_time": 1746195092,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 191008,
+      "num": 191008,
+      "word": "再就业男团音乐节合体",
+      "onboard_time": 1746194790,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 190094,
       "num": 190094,
       "word": "回忆专用小马甲一夜掉粉2.6万",
@@ -1467,14 +1539,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 171716,
-      "num": 171716,
-      "word": "王珞丹浪姐遭遇信任崩塌",
-      "onboard_time": 1746193291,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 170849,
       "num": 170849,
       "word": "华晨宇户外演唱会开空调",
@@ -1489,6 +1553,14 @@
       "onboard_time": 1746171862,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168093,
+      "num": 168093,
+      "word": "山东日照不允许游客挖不到蛤蜊",
+      "onboard_time": 1746195213,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 167542,
@@ -1512,6 +1584,14 @@
       "word": "石凯说为演出吃鸭血粉丝汤没放辣油",
       "onboard_time": 1746117919,
       "rank": 49,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 166613,
+      "num": 166613,
+      "word": "张晚意音乐节哭了",
+      "onboard_time": 1746195271,
+      "rank": 30,
       "category": "演出"
     },
     {
@@ -1611,6 +1691,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 162576,
+      "num": 162576,
+      "word": "詹姆斯被淘汰当晚办派对",
+      "onboard_time": 1746195391,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162323,
       "num": 162323,
       "word": "AG对战WB",
@@ -1633,6 +1721,14 @@
       "onboard_time": 1746157409,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 160928,
+      "num": 160928,
+      "word": "西安暴雨",
+      "onboard_time": 1746195331,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160220,
@@ -1843,6 +1939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149479,
+      "num": 149479,
+      "word": "房琪断更超1个月",
+      "onboard_time": 1746195391,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149312,
       "num": 149312,
       "word": "为什么小说里很少有浙江霸总",
@@ -1891,6 +1995,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 145584,
+      "num": 147482,
+      "word": "美国小企业被本国关税战打蒙了",
+      "onboard_time": 1746184709,
+      "rank": 31,
+      "category": "国际时政,国际时政"
+    },
+    {
       "raw_hot": 145543,
       "num": 181988,
       "word": "全红婵回应水立方夺冠",
@@ -1929,14 +2041,6 @@
       "onboard_time": 1746146790,
       "rank": 32,
       "category": "国内时政,财经"
-    },
-    {
-      "raw_hot": 143295,
-      "num": 143295,
-      "word": "邓超妻子的幸福丈夫的荣耀",
-      "onboard_time": 1746193291,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 142616,
@@ -2043,6 +2147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136438,
+      "num": 136438,
+      "word": "许嵩银色鹿角翅膀",
+      "onboard_time": 1746194732,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 136436,
       "num": 336005,
       "word": "兵在哪马在哪俑在哪导游你在哪",
@@ -2075,28 +2187,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 134439,
-      "num": 134439,
-      "word": "长期大量喝奶茶当心伤肾",
-      "onboard_time": 1746191551,
-      "rank": 39,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 132855,
       "num": 132855,
       "word": "是谁玩坏了协和4加4",
       "onboard_time": 1746149849,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 132612,
-      "num": 147482,
-      "word": "美国小企业被本国关税战打蒙了",
-      "onboard_time": 1746184709,
-      "rank": 31,
-      "category": "国际时政,国际时政"
     },
     {
       "raw_hot": 132543,
@@ -2171,6 +2267,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 130504,
+      "num": 130504,
+      "word": "宋妍霏选人环节",
+      "onboard_time": 1746191911,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130438,
       "num": 275206,
       "word": "王昶挂网前雨刮器胸牌",
@@ -2219,6 +2323,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 128239,
+      "num": 538397,
+      "word": "五一假期文旅市场井喷式增长",
+      "onboard_time": 1746193832,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128175,
       "num": 128175,
       "word": "感觉有一亿人在西双版纳泼水",
@@ -2259,6 +2371,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 126524,
+      "num": 126524,
+      "word": "离岸人民币兑美元涨逾500点",
+      "onboard_time": 1746193771,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 126166,
       "num": 126166,
       "word": "赵心童连胜四局",
@@ -2275,6 +2395,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 125136,
+      "num": 125136,
+      "word": "时代少年团演唱会直播",
+      "onboard_time": 1746192510,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 124902,
       "num": 124902,
       "word": "孙颖莎和成都小孩哥pk乒乓球",
@@ -2289,14 +2417,6 @@
       "onboard_time": 1746170420,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 124723,
-      "num": 124723,
-      "word": "时代少年团演唱会直播",
-      "onboard_time": 1746192510,
-      "rank": 43,
-      "category": "演出"
     },
     {
       "raw_hot": 124552,
@@ -2339,12 +2459,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120250,
+      "num": 304715,
+      "word": "西湖风景区回应农药喷进游客嘴里",
+      "onboard_time": 1746194732,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120244,
       "num": 120244,
       "word": "陈艺文昌雅妮世界杯3米板夺金",
       "onboard_time": 1746163110,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119555,
+      "num": 119555,
+      "word": "惠英红 平静如水的演技太顶了",
+      "onboard_time": 1746194072,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 119051,
@@ -2387,6 +2523,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 116866,
+      "num": 116866,
+      "word": "环球影城五一爆火游客发声",
+      "onboard_time": 1746194011,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116714,
+      "num": 116714,
+      "word": "天津泡泡岛音乐节",
+      "onboard_time": 1746195753,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 116483,
       "num": 116483,
       "word": "刘宇宁一个人就是一个团队",
@@ -2401,14 +2553,6 @@
       "onboard_time": 1746192932,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 115570,
-      "num": 115570,
-      "word": "宋妍霏选人环节",
-      "onboard_time": 1746191911,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 114998,
@@ -2860,7 +3004,7 @@
     },
     {
       "raw_hot": 88689,
-      "num": 193645,
+      "num": 322368,
       "word": "第一视角感受各行各业奋斗日常",
       "onboard_time": 1746189990,
       "rank": 29,
@@ -3561,6 +3705,14 @@
       "onboard_time": 1746170960,
       "rank": 29,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 20961,
+      "num": 231679,
+      "word": "蒸了千斤米饭的重庆荣昌值得被夸",
+      "onboard_time": 1746195391,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20735,
