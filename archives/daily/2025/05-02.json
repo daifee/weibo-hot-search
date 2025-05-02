@@ -1,6 +1,6 @@
 {
   "startTime": 1746117084529,
-  "endTime": 1746191002745,
+  "endTime": 1746192811079,
   "band_list": [
     {
       "raw_hot": 2150105,
@@ -43,20 +43,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1410041,
+      "num": 309165,
+      "word": "酒店痛房",
+      "onboard_time": 1746187890,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1344343,
       "num": 1344343,
       "word": "gidle改名idle",
       "onboard_time": 1746111142,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1315713,
-      "num": 309165,
-      "word": "酒店痛房",
-      "onboard_time": 1746187890,
-      "rank": 10,
-      "category": "幽默"
     },
     {
       "raw_hot": 1272960,
@@ -91,12 +91,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1099238,
+      "num": 259494,
+      "word": "高中生继承5亿遗产结婚当天坠亡",
+      "onboard_time": 1746190950,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1096603,
       "num": 1096603,
       "word": "比尔盖茨被爆患阿斯伯格综合征",
       "onboard_time": 1746183929,
       "rank": 17,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1065502,
+      "num": 1065502,
+      "word": "胖东来向胖都来寄律师函",
+      "onboard_time": 1746190950,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1054624,
@@ -393,6 +409,14 @@
       "onboard_time": 1746152729,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 502343,
+      "num": 502343,
+      "word": "刘诗诗先秦淑女步",
+      "onboard_time": 1746191188,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 497382,
@@ -779,12 +803,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 307203,
+      "num": 243441,
+      "word": "尹净汉出国",
+      "onboard_time": 1746190650,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 300862,
       "num": 300862,
       "word": "你的指甲盖真像刘亦菲",
       "onboard_time": 1746115882,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 294617,
+      "num": 294617,
+      "word": "预算10万的形象工程花200余万",
+      "onboard_time": 1746189871,
+      "rank": 28,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 294289,
+      "num": 223738,
+      "word": "人人人人人人景点人人人人人人",
+      "onboard_time": 1746190831,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 292789,
@@ -833,6 +881,14 @@
       "onboard_time": 1746145649,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 267771,
+      "num": 267771,
+      "word": "美国人提醒美国不可能取代中国",
+      "onboard_time": 1746190711,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 265182,
@@ -923,14 +979,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 243350,
-      "num": 141343,
-      "word": "高中生继承5亿遗产结婚当天坠亡",
-      "onboard_time": 1746190950,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 239280,
       "num": 239280,
       "word": "宋亚轩刘耀文偷偷藏不住",
@@ -971,6 +1019,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 224540,
+      "num": 224540,
+      "word": "AG剧透",
+      "onboard_time": 1746189450,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 221533,
       "num": 221533,
       "word": "张凌赫说金靖气血不足",
@@ -1000,6 +1056,14 @@
       "word": "苏新皓创可贴",
       "onboard_time": 1746177810,
       "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 206479,
+      "num": 257165,
+      "word": "太好了是李昀锐夏天有救了",
+      "onboard_time": 1746189630,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -1057,6 +1121,14 @@
       "onboard_time": 1746151830,
       "rank": 45,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 197306,
+      "num": 197306,
+      "word": "陈楚生太湖湾音乐节",
+      "onboard_time": 1746192212,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 197260,
@@ -1139,6 +1211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 193525,
+      "num": 193525,
+      "word": "周洁琼好权威的美貌",
+      "onboard_time": 1746192212,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193397,
       "num": 193397,
       "word": "前任身份勾栏手段正宫做派",
@@ -1169,6 +1249,14 @@
       "onboard_time": 1746162390,
       "rank": 30,
       "category": "综艺,演出"
+    },
+    {
+      "raw_hot": 191416,
+      "num": 191416,
+      "word": "南大教授回应陈丽君说贾宝玉长孙",
+      "onboard_time": 1746192270,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 190094,
@@ -1209,6 +1297,14 @@
       "onboard_time": 1746159270,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188070,
+      "num": 188070,
+      "word": "姚译添我劝你要善良",
+      "onboard_time": 1746191010,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 187962,
@@ -1268,7 +1364,7 @@
     },
     {
       "raw_hot": 185320,
-      "num": 183523,
+      "num": 189253,
       "word": "王励勤开球手法一看就是世界冠军",
       "onboard_time": 1746189510,
       "rank": 14,
@@ -1308,7 +1404,7 @@
     },
     {
       "raw_hot": 182410,
-      "num": 182410,
+      "num": 200207,
       "word": "翟潇闻直播",
       "onboard_time": 1746190529,
       "rank": 18,
@@ -1323,12 +1419,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 178152,
-      "num": 178152,
-      "word": "AG剧透",
-      "onboard_time": 1746189450,
-      "rank": 35,
+      "raw_hot": 180658,
+      "num": 180658,
+      "word": "wei哥 我们错了",
+      "onboard_time": 1746191971,
+      "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 178155,
+      "num": 178155,
+      "word": "央视网文娱评淮水竹亭",
+      "onboard_time": 1746192212,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 175701,
@@ -1499,6 +1603,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 162323,
+      "num": 162323,
+      "word": "AG对战WB",
+      "onboard_time": 1746188610,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 162106,
       "num": 162106,
       "word": "建议全国演唱会按这个卷",
@@ -1545,14 +1657,6 @@
       "onboard_time": 1746144740,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 159003,
-      "num": 159003,
-      "word": "尹净汉出国",
-      "onboard_time": 1746190650,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 158939,
@@ -1675,14 +1779,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 153076,
-      "num": 182619,
-      "word": "预算10万的形象工程花200余万",
-      "onboard_time": 1746189871,
-      "rank": 28,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 152432,
       "num": 152432,
       "word": "李昀锐新头像",
@@ -1771,14 +1867,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 146195,
-      "num": 146195,
-      "word": "胖东来向胖都来寄律师函",
-      "onboard_time": 1746190950,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 145873,
       "num": 145873,
       "word": "崔健 音乐节",
@@ -1817,6 +1905,14 @@
       "onboard_time": 1746156450,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143491,
+      "num": 143491,
+      "word": "沈月赵一博陪看",
+      "onboard_time": 1746191551,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 143465,
@@ -2043,6 +2139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130762,
+      "num": 130762,
+      "word": "黄子弘凡音乐节",
+      "onboard_time": 1746191310,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 130438,
       "num": 275206,
       "word": "王昶挂网前雨刮器胸牌",
@@ -2187,14 +2291,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 121736,
-      "num": 124538,
-      "word": "AG对战WB",
-      "onboard_time": 1746188610,
-      "rank": 34,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 121508,
       "num": 121508,
       "word": "水饺皇后票房破1亿",
@@ -2248,6 +2344,14 @@
       "word": "刘宇宁一个人就是一个团队",
       "onboard_time": 1746180989,
       "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 115570,
+      "num": 115570,
+      "word": "宋妍霏选人环节",
+      "onboard_time": 1746191911,
+      "rank": 38,
       "category": "综艺"
     },
     {
@@ -2345,6 +2449,14 @@
       "onboard_time": 1746158309,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 109624,
+      "num": 109624,
+      "word": "新说唱2025送严浩翔花篮",
+      "onboard_time": 1746191071,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 109466,
@@ -2483,12 +2595,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 103290,
-      "num": 103290,
-      "word": "人人人人人人景点人人人人人人",
-      "onboard_time": 1746190831,
+      "raw_hot": 103187,
+      "num": 103187,
+      "word": "时代少年团演唱会直播",
+      "onboard_time": 1746192510,
       "rank": 43,
-      "category": "民生新闻"
+      "category": "演出"
     },
     {
       "raw_hot": 103020,
@@ -2587,6 +2699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97673,
+      "num": 97673,
+      "word": "长生海月MVP",
+      "onboard_time": 1746192392,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 97577,
       "num": 243734,
       "word": "假期上班最早的是游客",
@@ -2619,12 +2739,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93979,
+      "num": 93979,
+      "word": "张新成佛山音乐节",
+      "onboard_time": 1746191971,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 93948,
       "num": 93948,
       "word": "哈里斯卸任后演讲对特朗普火力全开",
       "onboard_time": 1746147450,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 93757,
+      "num": 93757,
+      "word": "孟子义赛点关注度",
+      "onboard_time": 1746192751,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 91746,
@@ -2667,28 +2803,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 88387,
-      "num": 257165,
-      "word": "太好了是李昀锐夏天有救了",
-      "onboard_time": 1746189630,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 88176,
       "num": 88176,
       "word": "用真鱼皮做的包",
       "onboard_time": 1746187109,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 87527,
-      "num": 153437,
-      "word": "美国人提醒美国不可能取代中国",
-      "onboard_time": 1746190711,
-      "rank": 27,
-      "category": "国际时政"
     },
     {
       "raw_hot": 87372,
@@ -2865,6 +2985,14 @@
       "onboard_time": 1746165150,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 67271,
+      "num": 224439,
+      "word": "米饭和面条哪个更容易长胖",
+      "onboard_time": 1746192093,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 66029,
