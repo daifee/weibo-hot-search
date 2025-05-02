@@ -1,0 +1,410 @@
+{
+  "runTime": 1746190078310,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1531636,
+        "num": 1531636,
+        "word": "杜华考虑签约武大校花引发热议",
+        "onboard_time": 1746185910,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1096603,
+        "num": 1096603,
+        "word": "比尔盖茨被爆患阿斯伯格综合征",
+        "onboard_time": 1746183929,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 39977,
+        "num": 648945,
+        "word": "每个努力奋斗的你都闪闪发光",
+        "onboard_time": 1746177569,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 587271,
+        "num": 587271,
+        "word": "陈丽君说贾宝玉是长子长孙",
+        "onboard_time": 1746180989,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 414531,
+        "num": 414531,
+        "word": "gta6",
+        "onboard_time": 1746188610,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 824234,
+        "num": 413698,
+        "word": "董明珠想不通有人天天搞小三小四",
+        "onboard_time": 1746182610,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 532836,
+        "num": 399715,
+        "word": "王凯首度回应快两年没进组",
+        "onboard_time": 1746187530,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 383176,
+        "num": 383176,
+        "word": "张新成羊毛卷",
+        "onboard_time": 1746185009,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 362940,
+        "num": 362940,
+        "word": "为什么年轻人普遍牙不好",
+        "onboard_time": 1746186389,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 312191,
+        "num": 312191,
+        "word": "荣昌公务员食堂一顿蒸1000斤米饭",
+        "onboard_time": 1746181288,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 501625,
+        "num": 309165,
+        "word": "酒店痛房",
+        "onboard_time": 1746187890,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 356280,
+        "num": 301684,
+        "word": "章泽天杨天真不丹徒步",
+        "onboard_time": 1746188969,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349146,
+        "num": 290286,
+        "word": "蛮好的人生大结局",
+        "onboard_time": 1746184350,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 337693,
+        "num": 285999,
+        "word": "湖南咬伤邻居家小孩的狗已被打死",
+        "onboard_time": 1746187471,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 334095,
+        "num": 275558,
+        "word": "弟弟疯狂试探姐姐严防死守",
+        "onboard_time": 1746180450,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 322764,
+        "num": 261355,
+        "word": "如果你看到一个人朋友圈干干净净",
+        "onboard_time": 1746183389,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 260059,
+        "num": 260059,
+        "word": "赵又廷的财富自由是老婆给的",
+        "onboard_time": 1746183990,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16410,
+        "num": 257165,
+        "word": "太好了是李昀锐夏天有救了",
+        "onboard_time": 1746189630,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150499,
+        "num": 254178,
+        "word": "日本3个月前坠坑老人确认死亡",
+        "onboard_time": 1746166889,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 15642,
+        "num": 251389,
+        "word": "为什么印度和巴基斯坦战争不断",
+        "onboard_time": 1746189690,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 39139,
+        "num": 247301,
+        "word": "河北博物院回应两处古地名注释错误",
+        "onboard_time": 1746189390,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 546249,
+        "num": 244210,
+        "word": "曾黎工作室徽章失窃",
+        "onboard_time": 1746163710,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244037,
+        "num": 244037,
+        "word": "文豪野犬作者举起太中大旗",
+        "onboard_time": 1746183270,
+        "rank": 22,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 183325,
+        "num": 183325,
+        "word": "王安宇cha了时团新歌",
+        "onboard_time": 1746182430,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 152836,
+        "num": 152836,
+        "word": "gidle神女风",
+        "onboard_time": 1746181770,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 149016,
+        "num": 149016,
+        "word": "鞠婧祎蒂玮娜预热",
+        "onboard_time": 1746189752,
+        "rank": 25,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 147556,
+        "num": 147556,
+        "word": "杨迪晒与娜扎合照陈哲远他急了",
+        "onboard_time": 1746175642,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140569,
+        "num": 140569,
+        "word": "汪苏泷cha时代少年团新歌",
+        "onboard_time": 1746188669,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 99908,
+        "num": 138566,
+        "word": "预算10万的形象工程花200余万",
+        "onboard_time": 1746189871,
+        "rank": 28,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 61159,
+        "num": 138328,
+        "word": "第一视角感受各行各业奋斗日常",
+        "onboard_time": 1746189990,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138244,
+        "num": 138244,
+        "word": "五一假期是捅人窝了吧",
+        "onboard_time": 1746166410,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132612,
+        "num": 132612,
+        "word": "美国小企业被本国关税战打蒙了",
+        "onboard_time": 1746184709,
+        "rank": 31,
+        "category": "国际时政,国际时政"
+      },
+      {
+        "raw_hot": 128032,
+        "num": 128032,
+        "word": "刘诗诗新剧",
+        "onboard_time": 1746175701,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125161,
+        "num": 125161,
+        "word": "TOP杂志",
+        "onboard_time": 1746180269,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 121736,
+        "num": 124538,
+        "word": "AG对战WB",
+        "onboard_time": 1746188610,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 124134,
+        "num": 124134,
+        "word": "AG剧透",
+        "onboard_time": 1746189450,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 117061,
+        "num": 117061,
+        "word": "翟潇闻音乐节",
+        "onboard_time": 1746184709,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116545,
+        "num": 116545,
+        "word": "奔跑吧",
+        "onboard_time": 1746182189,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91746,
+        "num": 112820,
+        "word": "北京男篮vs山西男篮",
+        "onboard_time": 1746186210,
+        "rank": 38,
+        "category": "体育,其它"
+      },
+      {
+        "raw_hot": 110333,
+        "num": 110333,
+        "word": "长沙岳麓山比心树火了",
+        "onboard_time": 1746180388,
+        "rank": 39,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 108993,
+        "num": 108993,
+        "word": "张云龙花絮",
+        "onboard_time": 1746189570,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106248,
+        "num": 106248,
+        "word": "红秀 何秋亊",
+        "onboard_time": 1746178289,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 76530,
+        "num": 104895,
+        "word": "成都蓉城vs上海申花",
+        "onboard_time": 1746188610,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104435,
+        "num": 104435,
+        "word": "工藤新一生日大屏",
+        "onboard_time": 1746189570,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 103239,
+        "num": 103239,
+        "word": "泰国的中文菜单受众群体到底是谁",
+        "onboard_time": 1746181530,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100745,
+        "num": 100745,
+        "word": "aespa参加校庆",
+        "onboard_time": 1746187170,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99936,
+        "num": 99936,
+        "word": "单亲母亲丢失孩子的那一刻",
+        "onboard_time": 1746187890,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90913,
+        "num": 90913,
+        "word": "买8楼送9楼10楼",
+        "onboard_time": 1746156209,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 88176,
+        "num": 88176,
+        "word": "用真鱼皮做的包",
+        "onboard_time": 1746187109,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 81556,
+        "num": 87903,
+        "word": "血糖高血压高血脂高哪个更危险",
+        "onboard_time": 1746187230,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#科学谋划好十五五总书记这样强调#"
+    }
+  }
+}

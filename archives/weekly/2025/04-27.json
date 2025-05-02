@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1746185833086,
+  "endTime": 1746190078310,
   "band_list": [
     {
       "raw_hot": 8960529,
@@ -547,6 +547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1531636,
+      "num": 1531636,
+      "word": "杜华考虑签约武大校花引发热议",
+      "onboard_time": 1746185910,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1531168,
       "num": 977833,
       "word": "送曾黎礼物的粉丝道歉",
@@ -1019,6 +1027,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1096603,
+      "num": 1096603,
+      "word": "比尔盖茨被爆患阿斯伯格综合征",
+      "onboard_time": 1746183929,
+      "rank": 17,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1085293,
       "num": 590346,
       "word": "回忆专用小马甲道歉",
@@ -1417,14 +1433,6 @@
       "onboard_time": 1746032899,
       "rank": 3,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 885742,
-      "num": 885742,
-      "word": "比尔盖茨被爆患阿斯伯格综合征",
-      "onboard_time": 1746183929,
-      "rank": 17,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 878845,
@@ -2915,6 +2923,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 532836,
+      "num": 399715,
+      "word": "王凯首度回应快两年没进组",
+      "onboard_time": 1746187530,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 530065,
       "num": 530065,
       "word": "男子偷渡到缅甸想当打手却成狗推",
@@ -3097,6 +3113,14 @@
       "onboard_time": 1745674282,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 501625,
+      "num": 309165,
+      "word": "酒店痛房",
+      "onboard_time": 1746187890,
+      "rank": 10,
+      "category": "幽默"
     },
     {
       "raw_hot": 500520,
@@ -3827,6 +3851,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 414531,
+      "num": 414531,
+      "word": "gta6",
+      "onboard_time": 1746188610,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 414064,
       "num": 414064,
       "word": "李铁二审仍被判20年",
@@ -4083,6 +4115,14 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 383176,
+      "num": 383176,
+      "word": "张新成羊毛卷",
+      "onboard_time": 1746185009,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 381998,
       "num": 233818,
       "word": "IU的婚纱我妈妈也穿过",
@@ -4323,6 +4363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 362940,
+      "num": 362940,
+      "word": "为什么年轻人普遍牙不好",
+      "onboard_time": 1746186389,
+      "rank": 8,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 362292,
       "num": 362292,
       "word": "杨超越全黑look",
@@ -4395,6 +4443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 356280,
+      "num": 301684,
+      "word": "章泽天杨天真不丹徒步",
+      "onboard_time": 1746188969,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 353546,
       "num": 267462,
       "word": "虞书欣直播",
@@ -4425,6 +4481,14 @@
       "onboard_time": 1745883560,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 349146,
+      "num": 290286,
+      "word": "蛮好的人生大结局",
+      "onboard_time": 1746184350,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 347513,
@@ -4529,6 +4593,14 @@
       "onboard_time": 1745850023,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 337693,
+      "num": 285999,
+      "word": "湖南咬伤邻居家小孩的狗已被打死",
+      "onboard_time": 1746187471,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 336981,
@@ -4705,6 +4777,14 @@
       "onboard_time": 1746023243,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 322764,
+      "num": 261355,
+      "word": "如果你看到一个人朋友圈干干净净",
+      "onboard_time": 1746183389,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 320734,
@@ -6161,6 +6241,14 @@
       "onboard_time": 1746064822,
       "rank": 33,
       "category": "体育,民生新闻"
+    },
+    {
+      "raw_hot": 244037,
+      "num": 244037,
+      "word": "文豪野犬作者举起太中大旗",
+      "onboard_time": 1746183270,
+      "rank": 22,
+      "category": "动漫"
     },
     {
       "raw_hot": 243977,
@@ -8027,22 +8115,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 194410,
-      "num": 199918,
-      "word": "张新成羊毛卷",
-      "onboard_time": 1746185009,
-      "rank": 21,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 194358,
-      "num": 194358,
-      "word": "蛮好的人生大结局",
-      "onboard_time": 1746184350,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 194356,
       "num": 194356,
       "word": "赵丽颖黄晓明新剧演搬砖搭子",
@@ -8897,14 +8969,6 @@
       "onboard_time": 1746159449,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 186408,
-      "num": 186408,
-      "word": "文豪野犬作者举起太中大旗",
-      "onboard_time": 1746183270,
-      "rank": 22,
-      "category": "动漫"
     },
     {
       "raw_hot": 186351,
@@ -11475,6 +11539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149016,
+      "num": 149016,
+      "word": "鞠婧祎蒂玮娜预热",
+      "onboard_time": 1746189752,
+      "rank": 25,
+      "category": "艺人,剧集"
+    },
+    {
       "raw_hot": 148745,
       "num": 280200,
       "word": "医疗圈出八卦的多是外科",
@@ -12323,6 +12395,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 140569,
+      "num": 140569,
+      "word": "汪苏泷cha时代少年团新歌",
+      "onboard_time": 1746188669,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 140467,
       "num": 140467,
       "word": "smtr25第四季度出道",
@@ -12969,6 +13049,14 @@
       "onboard_time": 1745746281,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132612,
+      "num": 147482,
+      "word": "美国小企业被本国关税战打蒙了",
+      "onboard_time": 1746184709,
+      "rank": 31,
+      "category": "国际时政,国际时政"
     },
     {
       "raw_hot": 132543,
@@ -13739,6 +13827,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 124134,
+      "num": 124134,
+      "word": "AG剧透",
+      "onboard_time": 1746189450,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 124100,
       "num": 124100,
       "word": "iG遭WBG让一追二",
@@ -13923,6 +14019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121736,
+      "num": 124538,
+      "word": "AG对战WB",
+      "onboard_time": 1746188610,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 121632,
       "num": 239591,
       "word": "倪萍评华表奖神仙打架",
@@ -14081,14 +14185,6 @@
       "onboard_time": 1746024443,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 120034,
-      "num": 120034,
-      "word": "如果你看到一个人朋友圈干干净净",
-      "onboard_time": 1746183389,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 119976,
@@ -14923,6 +15019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108993,
+      "num": 108993,
+      "word": "张云龙花絮",
+      "onboard_time": 1746189570,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108938,
       "num": 108938,
       "word": "男网红跑马闯进女子赛道被禁赛3年",
@@ -15307,6 +15411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104435,
+      "num": 104435,
+      "word": "工藤新一生日大屏",
+      "onboard_time": 1746189570,
+      "rank": 43,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 104425,
       "num": 104425,
       "word": "林志玲为刘诗诗新剧打call",
@@ -15611,6 +15723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100745,
+      "num": 100745,
+      "word": "aespa参加校庆",
+      "onboard_time": 1746187170,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 100718,
       "num": 100718,
       "word": "星穹铁道不乱不破现场版",
@@ -15683,12 +15803,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99936,
+      "num": 99936,
+      "word": "单亲母亲丢失孩子的那一刻",
+      "onboard_time": 1746187890,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99923,
       "num": 150874,
       "word": "小明剑魔老婆",
       "onboard_time": 1745679263,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 99908,
+      "num": 138566,
+      "word": "预算10万的形象工程花200余万",
+      "onboard_time": 1746189871,
+      "rank": 28,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 99851,
@@ -16147,6 +16283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 91746,
+      "num": 112820,
+      "word": "北京男篮vs山西男篮",
+      "onboard_time": 1746186210,
+      "rank": 38,
+      "category": "体育,其它"
+    },
+    {
       "raw_hot": 91736,
       "num": 91736,
       "word": "胡意旋红茶花妖红凝",
@@ -16369,6 +16513,14 @@
       "onboard_time": 1745940501,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 88176,
+      "num": 88176,
+      "word": "用真鱼皮做的包",
+      "onboard_time": 1746187109,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 87813,
@@ -16803,6 +16955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81556,
+      "num": 87903,
+      "word": "血糖高血压高血脂高哪个更危险",
+      "onboard_time": 1746187230,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 81442,
       "num": 315746,
       "word": "小程发博说对不起",
@@ -17057,6 +17217,14 @@
       "onboard_time": 1745684301,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 76530,
+      "num": 104895,
+      "word": "成都蓉城vs上海申花",
+      "onboard_time": 1746188610,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 76527,
@@ -17771,6 +17939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61159,
+      "num": 138328,
+      "word": "第一视角感受各行各业奋斗日常",
+      "onboard_time": 1746189990,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60845,
       "num": 60845,
       "word": "主动一点其实没那么难",
@@ -18001,14 +18177,6 @@
       "onboard_time": 1746128175,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 57033,
-      "num": 147482,
-      "word": "美国小企业被本国关税战打蒙了",
-      "onboard_time": 1746184709,
-      "rank": 31,
-      "category": "国际时政,国际时政"
     },
     {
       "raw_hot": 56976,
@@ -19089,6 +19257,14 @@
       "onboard_time": 1745744662,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 39139,
+      "num": 247301,
+      "word": "河北博物院回应两处古地名注释错误",
+      "onboard_time": 1746189390,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38450,
@@ -20867,6 +21043,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 16410,
+      "num": 257165,
+      "word": "太好了是李昀锐夏天有救了",
+      "onboard_time": 1746189630,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 16307,
       "num": 17204,
       "word": "严浩翔想加冕制作人",
@@ -20961,6 +21145,14 @@
       "onboard_time": 1745865794,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 15642,
+      "num": 251389,
+      "word": "为什么印度和巴基斯坦战争不断",
+      "onboard_time": 1746189690,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 15608,
