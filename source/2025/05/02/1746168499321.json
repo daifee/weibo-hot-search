@@ -1,0 +1,410 @@
+{
+  "runTime": 1746168499321,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2150105,
+        "num": 2150105,
+        "word": "曾黎工作室徽章失窃",
+        "onboard_time": 1746163710,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 421407,
+        "num": 421407,
+        "word": "中国中央广播电视总台没有邀请Kpop",
+        "onboard_time": 1746157950,
+        "rank": 1,
+        "category": "辟谣/通报,演出"
+      },
+      {
+        "raw_hot": 31316,
+        "num": 404524,
+        "word": "致敬了不起的工匠精神",
+        "onboard_time": 1746155728,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 774947,
+        "num": 402946,
+        "word": "董力婚后和初恋单独吃过饭",
+        "onboard_time": 1746166589,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 390346,
+        "num": 390346,
+        "word": "日本掉坑大爷终于找到了",
+        "onboard_time": 1746158969,
+        "rank": 4,
+        "category": "海外新闻,民生新闻"
+      },
+      {
+        "raw_hot": 289643,
+        "num": 289643,
+        "word": "协和4加4培养出的董医生医术如何",
+        "onboard_time": 1746164849,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 616622,
+        "num": 287072,
+        "word": "吴宣仪拒绝叶童",
+        "onboard_time": 1746164129,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 426732,
+        "num": 283044,
+        "word": "孟子义打小眼睛就大",
+        "onboard_time": 1746164429,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278954,
+        "num": 278954,
+        "word": "奶茶我有七不喝",
+        "onboard_time": 1746156510,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 209732,
+        "num": 277302,
+        "word": "日本3个月前坠坑老人确认死亡",
+        "onboard_time": 1746166889,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1160723,
+        "num": 274172,
+        "word": "董小姐在她一作的论文里负责翻译",
+        "onboard_time": 1746163890,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 595991,
+        "num": 271949,
+        "word": "买8楼送9楼10楼",
+        "onboard_time": 1746156209,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 419055,
+        "num": 267614,
+        "word": "曾黎掉粉超10万",
+        "onboard_time": 1746162630,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265508,
+        "num": 265508,
+        "word": "生命树开机",
+        "onboard_time": 1746163650,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264437,
+        "num": 264437,
+        "word": "45岁的王祖蓝在邓超怀里像个孩子",
+        "onboard_time": 1746164729,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244740,
+        "num": 244740,
+        "word": "董某莹事件唯有真相才能定纷止争",
+        "onboard_time": 1746152850,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235235,
+        "num": 235235,
+        "word": "徐老师婚纱照",
+        "onboard_time": 1746157350,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 22528,
+        "num": 233580,
+        "word": "霉菌可能有什么健康风险",
+        "onboard_time": 1746168090,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 217756,
+        "num": 231388,
+        "word": "王楚钦被球砸脸还笑场",
+        "onboard_time": 1746167309,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110491,
+        "num": 229293,
+        "word": "特朗普建议商科学生投身工厂",
+        "onboard_time": 1746166889,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 487221,
+        "num": 227237,
+        "word": "金价暴跌有人一夜亏47万",
+        "onboard_time": 1746118698,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 226175,
+        "num": 226175,
+        "word": "真的不要和美甲师太熟",
+        "onboard_time": 1746155489,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 219502,
+        "num": 219502,
+        "word": "王励勤强调国乒是一个集体",
+        "onboard_time": 1746152249,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201627,
+        "num": 201627,
+        "word": "月亮姐姐淘汰",
+        "onboard_time": 1746167909,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57900,
+        "num": 197314,
+        "word": "哈登28分",
+        "onboard_time": 1746167369,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196031,
+        "num": 196031,
+        "word": "兵马俑很可能画了双眼皮",
+        "onboard_time": 1746168449,
+        "rank": 25,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 195216,
+        "num": 195216,
+        "word": "染发",
+        "onboard_time": 1746166228,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194345,
+        "num": 194345,
+        "word": "杨紫生命树开机照",
+        "onboard_time": 1746168150,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186951,
+        "num": 186951,
+        "word": "李艺彤哭了",
+        "onboard_time": 1746167431,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175689,
+        "num": 175689,
+        "word": "饶毅再发文谈协和4加4制度",
+        "onboard_time": 1746161550,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169219,
+        "num": 169219,
+        "word": "AXIZ对战WBG",
+        "onboard_time": 1746164309,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 163909,
+        "num": 163909,
+        "word": "CP不要随便离婚",
+        "onboard_time": 1746164669,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 68548,
+        "num": 159968,
+        "word": "正主不急cp粉急",
+        "onboard_time": 1746165150,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156100,
+        "num": 156100,
+        "word": "230斤女孩嗜甜如命吃进ICU",
+        "onboard_time": 1746166650,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155767,
+        "num": 155767,
+        "word": "为什么全国景区都有这种水果",
+        "onboard_time": 1746156689,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155711,
+        "num": 155711,
+        "word": "曾黎",
+        "onboard_time": 1746150268,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154944,
+        "num": 154944,
+        "word": "华晨宇户外演唱会开空调",
+        "onboard_time": 1746165390,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 154239,
+        "num": 154239,
+        "word": "五一假期是捅人窝了吧",
+        "onboard_time": 1746166410,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151170,
+        "num": 151170,
+        "word": "虞书欣夹心摇",
+        "onboard_time": 1746162930,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15951,
+        "num": 148651,
+        "word": "就医经验总结",
+        "onboard_time": 1746168090,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 148277,
+        "num": 148277,
+        "word": "陈丽君陈昊宇唱花田错",
+        "onboard_time": 1746162390,
+        "rank": 40,
+        "category": "综艺,演出"
+      },
+      {
+        "raw_hot": 139745,
+        "num": 139745,
+        "word": "十三州府澄清",
+        "onboard_time": 1746161249,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134527,
+        "num": 134527,
+        "word": "特朗普号召美国学生进车间搬砖",
+        "onboard_time": 1746167730,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 134106,
+        "num": 134106,
+        "word": "家人回应大爷掉坑3个月终于找到了",
+        "onboard_time": 1746166710,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 129641,
+        "num": 129641,
+        "word": "王珞丹瞳孔地震",
+        "onboard_time": 1746168209,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115515,
+        "num": 115515,
+        "word": "孙颖莎王楚钦公园陪打",
+        "onboard_time": 1746151708,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112858,
+        "num": 112858,
+        "word": "淮水竹亭小珈蓝演技好灵",
+        "onboard_time": 1746168389,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112715,
+        "num": 112715,
+        "word": "米哈游可没这么大的面子",
+        "onboard_time": 1746167970,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 110031,
+        "num": 110031,
+        "word": "石凯前女友称订婚是AA",
+        "onboard_time": 1746152729,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109718,
+        "num": 109718,
+        "word": "唐国强230秒面试给毕业生亿点震撼",
+        "onboard_time": 1746165450,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记关怀劳动者的温暖瞬间#"
+    }
+  }
+}

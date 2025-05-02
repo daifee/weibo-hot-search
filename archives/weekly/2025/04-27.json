@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1746167709759,
+  "endTime": 1746168499321,
   "band_list": [
     {
       "raw_hot": 8960529,
@@ -195,6 +195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2150105,
+      "num": 2150105,
+      "word": "曾黎工作室徽章失窃",
+      "onboard_time": 1746163710,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2113961,
       "num": 2113961,
       "word": "日本再现无差别杀人",
@@ -313,14 +321,6 @@
       "onboard_time": 1745972661,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1806030,
-      "num": 1806030,
-      "word": "曾黎工作室徽章失窃",
-      "onboard_time": 1746163710,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 1795195,
@@ -939,6 +939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1160723,
+      "num": 283000,
+      "word": "董小姐在她一作的论文里负责翻译",
+      "onboard_time": 1746163890,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1160672,
       "num": 1160672,
       "word": "早睡简直就是人类的无敌作弊器",
@@ -953,14 +961,6 @@
       "onboard_time": 1745822723,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1159218,
-      "num": 283000,
-      "word": "董小姐在她一作的论文里负责翻译",
-      "onboard_time": 1746163890,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1158044,
@@ -1697,6 +1697,14 @@
       "onboard_time": 1746001160,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 774947,
+      "num": 402946,
+      "word": "董力婚后和初恋单独吃过饭",
+      "onboard_time": 1746166589,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 773689,
@@ -2643,14 +2651,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 552591,
-      "num": 299185,
-      "word": "董力婚后和初恋单独吃过饭",
-      "onboard_time": 1746166589,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 550932,
       "num": 550932,
       "word": "森林狼淘汰湖人",
@@ -3172,7 +3172,7 @@
     },
     {
       "raw_hot": 477099,
-      "num": 278455,
+      "num": 283044,
       "word": "孟子义打小眼睛就大",
       "onboard_time": 1746164429,
       "rank": 46,
@@ -3436,7 +3436,7 @@
     },
     {
       "raw_hot": 442384,
-      "num": 235820,
+      "num": 267614,
       "word": "曾黎掉粉超10万",
       "onboard_time": 1746162630,
       "rank": 25,
@@ -5019,6 +5019,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 289643,
+      "num": 289643,
+      "word": "协和4加4培养出的董医生医术如何",
+      "onboard_time": 1746164849,
+      "rank": 8,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 289389,
       "num": 289389,
       "word": "曝五月天石头移民英国",
@@ -5108,7 +5116,7 @@
     },
     {
       "raw_hot": 282811,
-      "num": 235510,
+      "num": 265508,
       "word": "生命树开机",
       "onboard_time": 1746163650,
       "rank": 26,
@@ -5448,6 +5456,14 @@
       "word": "叶童三公第一",
       "onboard_time": 1746160830,
       "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 264437,
+      "num": 264437,
+      "word": "45岁的王祖蓝在邓超怀里像个孩子",
+      "onboard_time": 1746164729,
+      "rank": 16,
       "category": "综艺"
     },
     {
@@ -5843,14 +5859,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 246619,
-      "num": 235272,
-      "word": "45岁的王祖蓝在邓超怀里像个孩子",
-      "onboard_time": 1746164729,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 246584,
       "num": 246584,
       "word": "乌克兰女记者遗体被俄归还",
@@ -6065,14 +6073,6 @@
       "onboard_time": 1745733621,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 236205,
-      "num": 236205,
-      "word": "协和4加4培养出的董医生医术如何",
-      "onboard_time": 1746164849,
-      "rank": 8,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 236197,
@@ -6555,6 +6555,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 217756,
+      "num": 235011,
+      "word": "王楚钦被球砸脸还笑场",
+      "onboard_time": 1746167309,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 217542,
       "num": 217542,
       "word": "燕尾蝶",
@@ -6785,6 +6793,14 @@
       "onboard_time": 1745817443,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 209732,
+      "num": 277302,
+      "word": "日本3个月前坠坑老人确认死亡",
+      "onboard_time": 1746166889,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 209638,
@@ -7251,6 +7267,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 201627,
+      "num": 201627,
+      "word": "月亮姐姐淘汰",
+      "onboard_time": 1746167909,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201567,
       "num": 133804,
       "word": "造型师",
@@ -7643,6 +7667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196031,
+      "num": 196031,
+      "word": "兵马俑很可能画了双眼皮",
+      "onboard_time": 1746168449,
+      "rank": 25,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 195680,
       "num": 195680,
       "word": "乘风",
@@ -7657,6 +7689,14 @@
       "onboard_time": 1745927544,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 195216,
+      "num": 195216,
+      "word": "染发",
+      "onboard_time": 1746166228,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 195069,
@@ -7720,6 +7760,14 @@
       "word": "赵丽颖黄晓明新剧演搬砖搭子",
       "onboard_time": 1746080661,
       "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 194345,
+      "num": 194345,
+      "word": "杨紫生命树开机照",
+      "onboard_time": 1746168150,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -8433,6 +8481,14 @@
       "onboard_time": 1746075141,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 186951,
+      "num": 186951,
+      "word": "李艺彤哭了",
+      "onboard_time": 1746167431,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 186946,
@@ -9459,14 +9515,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 167205,
-      "num": 167205,
-      "word": "染发",
-      "onboard_time": 1746166228,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 167076,
       "num": 167076,
       "word": "花300元买了一只狗的余生",
@@ -9683,6 +9731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163909,
+      "num": 163909,
+      "word": "CP不要随便离婚",
+      "onboard_time": 1746164669,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 163833,
       "num": 163833,
       "word": "刘涛黑长直高智感",
@@ -9809,14 +9865,6 @@
       "onboard_time": 1745716041,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 161781,
-      "num": 161781,
-      "word": "CP不要随便离婚",
-      "onboard_time": 1746164669,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 161756,
@@ -10331,6 +10379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156100,
+      "num": 156100,
+      "word": "230斤女孩嗜甜如命吃进ICU",
+      "onboard_time": 1746166650,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156096,
       "num": 156096,
       "word": "因外貌而引发热议的泰国老虎",
@@ -10465,6 +10521,14 @@
       "onboard_time": 1745728642,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 154239,
+      "num": 154239,
+      "word": "五一假期是捅人窝了吧",
+      "onboard_time": 1746166410,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 154206,
@@ -11121,14 +11185,6 @@
       "onboard_time": 1745735662,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 145875,
-      "num": 145875,
-      "word": "五一假期是捅人窝了吧",
-      "onboard_time": 1746166410,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 145873,
@@ -12179,6 +12235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 134527,
+      "num": 134527,
+      "word": "特朗普号召美国学生进车间搬砖",
+      "onboard_time": 1746167730,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 134501,
       "num": 427856,
       "word": "明日方舟名创优品联动",
@@ -12193,6 +12257,14 @@
       "onboard_time": 1746050775,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134106,
+      "num": 134106,
+      "word": "家人回应大爷掉坑3个月终于找到了",
+      "onboard_time": 1746166710,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 133922,
@@ -12483,14 +12555,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 130353,
-      "num": 130353,
-      "word": "230斤女孩嗜甜如命吃进ICU",
-      "onboard_time": 1746166650,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 130348,
       "num": 423361,
       "word": "苗华被罢免全国人大代表职务",
@@ -12536,6 +12600,14 @@
       "word": "迪丽热巴说馕言文",
       "onboard_time": 1745883080,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 129641,
+      "num": 129641,
+      "word": "王珞丹瞳孔地震",
+      "onboard_time": 1746168209,
+      "rank": 44,
       "category": "综艺"
     },
     {
@@ -12873,14 +12945,6 @@
       "onboard_time": 1745816182,
       "rank": 44,
       "category": "健康医疗,民生新闻"
-    },
-    {
-      "raw_hot": 126197,
-      "num": 126197,
-      "word": "李艺彤哭了",
-      "onboard_time": 1746167431,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 126191,
@@ -13635,14 +13699,6 @@
       "category": "游戏,民生新闻"
     },
     {
-      "raw_hot": 115687,
-      "num": 115687,
-      "word": "家人回应大爷掉坑3个月终于找到了",
-      "onboard_time": 1746166710,
-      "rank": 44,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 115678,
       "num": 140938,
       "word": "科学谋划十五五",
@@ -13843,6 +13899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112858,
+      "num": 112858,
+      "word": "淮水竹亭小珈蓝演技好灵",
+      "onboard_time": 1746168389,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 112839,
       "num": 112839,
       "word": "巅峰榜十大艺人",
@@ -13857,6 +13921,14 @@
       "onboard_time": 1745805140,
       "rank": 38,
       "category": "幽默,休闲"
+    },
+    {
+      "raw_hot": 112715,
+      "num": 112715,
+      "word": "米哈游可没这么大的面子",
+      "onboard_time": 1746167970,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 112501,
@@ -13953,6 +14025,14 @@
       "onboard_time": 1745819242,
       "rank": 44,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 110491,
+      "num": 235046,
+      "word": "特朗普建议商科学生投身工厂",
+      "onboard_time": 1746166889,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 110382,
@@ -14481,14 +14561,6 @@
       "onboard_time": 1746157049,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 103886,
-      "num": 235011,
-      "word": "王楚钦被球砸脸还笑场",
-      "onboard_time": 1746167309,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 103842,
@@ -16491,6 +16563,14 @@
       "category": "艺人,教育"
     },
     {
+      "raw_hot": 68548,
+      "num": 159968,
+      "word": "正主不急cp粉急",
+      "onboard_time": 1746165150,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 68546,
       "num": 252476,
       "word": "医德问题才是公众关注的焦点",
@@ -16657,14 +16737,6 @@
       "onboard_time": 1746075741,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 63806,
-      "num": 236146,
-      "word": "日本3个月前坠坑老人确认死亡",
-      "onboard_time": 1746166889,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 63616,
@@ -16993,14 +17065,6 @@
       "onboard_time": 1745743221,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 56961,
-      "num": 235046,
-      "word": "特朗普建议商科学生投身工厂",
-      "onboard_time": 1746166889,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 56372,
@@ -19147,6 +19211,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 22528,
+      "num": 233580,
+      "word": "霉菌可能有什么健康风险",
+      "onboard_time": 1746168090,
+      "rank": 17,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 22474,
       "num": 22474,
       "word": "张柏芝一条plog告别四月",
@@ -19737,6 +19809,14 @@
       "onboard_time": 1746055578,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 15951,
+      "num": 148651,
+      "word": "就医经验总结",
+      "onboard_time": 1746168090,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 15921,
