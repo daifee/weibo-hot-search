@@ -1,6 +1,6 @@
 {
   "startTime": 1746203485460,
-  "endTime": 1746224667141,
+  "endTime": 1746225764805,
   "band_list": [
     {
       "raw_hot": 1286235,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 469353,
-      "num": 469353,
+      "num": 512644,
       "word": "原来躺久了也会消耗气血",
       "onboard_time": 1746203600,
       "rank": 30,
@@ -203,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138092,
+      "num": 284678,
+      "word": "游客称西湖景区洒农药进了自己嘴里",
+      "onboard_time": 1746202400,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137685,
       "num": 137685,
       "word": "邓超妻子的幸福丈夫的荣耀",
@@ -281,14 +289,6 @@
       "onboard_time": 1746199462,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 97347,
-      "num": 284678,
-      "word": "游客称西湖景区洒农药进了自己嘴里",
-      "onboard_time": 1746202400,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 96216,
@@ -507,8 +507,16 @@
       "category": "演出"
     },
     {
-      "raw_hot": 32171,
-      "num": 32170,
+      "raw_hot": 35454,
+      "num": 35454,
+      "word": "孙俪你喜欢什么情节我演给你看好了",
+      "onboard_time": 1746220935,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 32635,
+      "num": 32635,
       "word": "宝宝性别揭晓派对上的意外",
       "onboard_time": 1746221895,
       "rank": 30,
@@ -523,12 +531,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 27006,
-      "num": 27006,
-      "word": "孙俪你喜欢什么情节我演给你看好了",
-      "onboard_time": 1746220935,
+      "raw_hot": 29426,
+      "num": 29426,
+      "word": "月亮姐姐喊了李艺彤立马转身",
+      "onboard_time": 1746224235,
       "rank": 49,
-      "category": "剧集"
+      "category": "综艺"
     },
     {
       "raw_hot": 26714,
@@ -545,6 +553,14 @@
       "onboard_time": 1746210675,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 24877,
+      "num": 29415,
+      "word": "您这个直接去收银不用过秤",
+      "onboard_time": 1746224054,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 24326,
@@ -564,7 +580,7 @@
     },
     {
       "raw_hot": 23472,
-      "num": 24765,
+      "num": 29412,
       "word": "夜空闪耀出烟花版中国红",
       "onboard_time": 1746203600,
       "rank": 47,
@@ -579,28 +595,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 21812,
-      "num": 21812,
-      "word": "张泽禹像天使一样",
-      "onboard_time": 1746213494,
-      "rank": 48,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 19927,
-      "num": 24744,
+      "raw_hot": 21969,
+      "num": 29406,
       "word": "特朗普称将取消哈佛免税地位",
       "onboard_time": 1746212895,
       "rank": 41,
       "category": "国际时政"
     },
     {
-      "raw_hot": 16837,
-      "num": 24740,
-      "word": "您这个直接去收银不用过秤",
-      "onboard_time": 1746224054,
+      "raw_hot": 21812,
+      "num": 21812,
+      "word": "张泽禹像天使一样",
+      "onboard_time": 1746213494,
       "rank": 48,
-      "category": "幽默"
+      "category": "演出"
     },
     {
       "raw_hot": 16537,
@@ -617,14 +625,6 @@
       "onboard_time": 1746215413,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 15417,
-      "num": 24734,
-      "word": "月亮姐姐喊了李艺彤立马转身",
-      "onboard_time": 1746224235,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 14508,
