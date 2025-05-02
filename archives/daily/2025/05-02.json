@@ -1,6 +1,6 @@
 {
   "startTime": 1746117084529,
-  "endTime": 1746182660580,
+  "endTime": 1746184865902,
   "band_list": [
     {
       "raw_hot": 2150105,
@@ -75,12 +75,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1054624,
+      "num": 522651,
+      "word": "董明珠想不通有人天天搞小三小四",
+      "onboard_time": 1746182610,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1039301,
       "num": 1142913,
       "word": "奶茶我有七不喝",
       "onboard_time": 1746156510,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1029198,
+      "num": 1164671,
+      "word": "荣昌公务员食堂一顿蒸1000斤米饭",
+      "onboard_time": 1746181288,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 998509,
@@ -131,20 +147,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 914216,
+      "num": 914216,
+      "word": "陈丽君说贾宝玉是长子长孙",
+      "onboard_time": 1746180989,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 906171,
       "num": 608148,
       "word": "日本再现无差别杀人",
       "onboard_time": 1746105143,
       "rank": 5,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 879550,
-      "num": 879550,
-      "word": "荣昌公务员食堂一顿蒸1000斤米饭",
-      "onboard_time": 1746181288,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 873139,
@@ -193,14 +209,6 @@
       "onboard_time": 1746111023,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 692410,
-      "num": 692410,
-      "word": "陈丽君说贾宝玉是长子长孙",
-      "onboard_time": 1746180989,
-      "rank": 15,
-      "category": "演出"
     },
     {
       "raw_hot": 672560,
@@ -388,7 +396,7 @@
     },
     {
       "raw_hot": 480576,
-      "num": 364588,
+      "num": 396327,
       "word": "杨迪晒与娜扎合照陈哲远他急了",
       "onboard_time": 1746175642,
       "rank": 17,
@@ -409,6 +417,14 @@
       "onboard_time": 1746177022,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 466425,
+      "num": 466425,
+      "word": "泰国的中文菜单受众群体到底是谁",
+      "onboard_time": 1746181530,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 459790,
@@ -507,6 +523,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 413281,
+      "num": 413281,
+      "word": "TOP杂志",
+      "onboard_time": 1746180269,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 410645,
       "num": 410645,
       "word": "外教被中国学生素质震惊",
@@ -545,6 +569,14 @@
       "onboard_time": 1746142158,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 347513,
+      "num": 248910,
+      "word": "gidle神女风",
+      "onboard_time": 1746181770,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 346793,
@@ -635,14 +667,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 309313,
-      "num": 255025,
-      "word": "TOP杂志",
-      "onboard_time": 1746180269,
-      "rank": 26,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 308163,
       "num": 250251,
       "word": "文化水平限制不了我点菜水平",
@@ -699,20 +723,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 275544,
-      "num": 275544,
-      "word": "泰国的中文菜单受众群体到底是谁",
-      "onboard_time": 1746181530,
-      "rank": 22,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 269657,
       "num": 269657,
       "word": "医生称劣质无痕内裤可能是胶水粘的",
       "onboard_time": 1746145649,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 268693,
+      "num": 243990,
+      "word": "弟弟疯狂试探姐姐严防死守",
+      "onboard_time": 1746180450,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 265182,
@@ -777,14 +801,6 @@
       "onboard_time": 1746113182,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 248910,
-      "num": 248910,
-      "word": "gidle神女风",
-      "onboard_time": 1746181770,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 248859,
@@ -859,12 +875,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 214911,
-      "num": 214911,
-      "word": "弟弟疯狂试探姐姐严防死守",
-      "onboard_time": 1746180450,
-      "rank": 25,
-      "category": "剧集"
+      "raw_hot": 212452,
+      "num": 243064,
+      "word": "赵又廷的财富自由是老婆给的",
+      "onboard_time": 1746183990,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 206893,
@@ -1091,6 +1107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186408,
+      "num": 186408,
+      "word": "文豪野犬作者举起太中大旗",
+      "onboard_time": 1746183270,
+      "rank": 22,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 186351,
       "num": 186351,
       "word": "王权弘业有妻徒刑",
@@ -1153,6 +1177,14 @@
       "onboard_time": 1746160110,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 174010,
+      "num": 174010,
+      "word": "年龄不是借口骨龄可以定罪",
+      "onboard_time": 1746184229,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 170849,
@@ -1291,6 +1323,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 161402,
+      "num": 242648,
+      "word": "比尔盖茨被爆患阿斯伯格综合征",
+      "onboard_time": 1746183929,
+      "rank": 17,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 161094,
       "num": 161094,
       "word": "Jennie红胶",
@@ -1329,6 +1369,14 @@
       "onboard_time": 1746105202,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 158819,
+      "num": 158819,
+      "word": "王安宇cha了时团新歌",
+      "onboard_time": 1746182430,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 158605,
@@ -1403,6 +1451,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 154167,
+      "num": 242574,
+      "word": "王昶说洛杉矶奥运会瞄准冠军",
+      "onboard_time": 1746183929,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153849,
       "num": 153849,
       "word": "苏新皓 第一视角",
@@ -1440,6 +1496,14 @@
       "word": "80后国企财务成短剧恶婆婆专业户",
       "onboard_time": 1746155610,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151977,
+      "num": 151977,
+      "word": "解码中国AI的高光瞬间",
+      "onboard_time": 1746184229,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -1516,7 +1580,7 @@
     },
     {
       "raw_hot": 145543,
-      "num": 145543,
+      "num": 181988,
       "word": "全红婵回应水立方夺冠",
       "onboard_time": 1746181888,
       "rank": 37,
@@ -1571,6 +1635,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 141746,
+      "num": 141746,
+      "word": "蛮好的人生大结局",
+      "onboard_time": 1746184350,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141329,
       "num": 141329,
       "word": "爱上大嫂是我的宿命",
@@ -1587,6 +1659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140793,
+      "num": 140793,
+      "word": "小姑娘发现河北博物院两处注释错误",
+      "onboard_time": 1746180630,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140760,
       "num": 140760,
       "word": "王珞丹瞳孔地震",
@@ -1601,6 +1681,14 @@
       "onboard_time": 1746160590,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 139276,
+      "num": 139276,
+      "word": "陈丽君李云霄新版梁祝全本首演",
+      "onboard_time": 1746184291,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 138431,
@@ -1739,6 +1827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130309,
+      "num": 130309,
+      "word": "丁程鑫下套 马嘉祺上当",
+      "onboard_time": 1746184591,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 128817,
       "num": 128817,
       "word": "看得出来各地文旅这个假期很努力了",
@@ -1795,6 +1891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126776,
+      "num": 126776,
+      "word": "00后重新定义了这些中国宝贝",
+      "onboard_time": 1746184591,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126544,
       "num": 126544,
       "word": "日本皇室史上首次被偷生活费",
@@ -1843,6 +1947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 123331,
+      "num": 123331,
+      "word": "奔跑吧",
+      "onboard_time": 1746182189,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123318,
       "num": 123318,
       "word": "张碧晨直播给我看饿了",
@@ -1851,20 +1963,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 122642,
-      "num": 122642,
-      "word": "王安宇cha了时团新歌",
-      "onboard_time": 1746182430,
-      "rank": 43,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 120468,
-      "num": 120468,
-      "word": "小姑娘发现河北博物院两处注释错误",
-      "onboard_time": 1746180630,
-      "rank": 44,
-      "category": "民生新闻"
+      "raw_hot": 121508,
+      "num": 121508,
+      "word": "水饺皇后票房破1亿",
+      "onboard_time": 1746184109,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 120244,
@@ -1875,12 +1979,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 119023,
-      "num": 119023,
-      "word": "奔跑吧",
-      "onboard_time": 1746182189,
-      "rank": 45,
-      "category": "综艺"
+      "raw_hot": 119051,
+      "num": 119051,
+      "word": "朱志鑫演唱会人气",
+      "onboard_time": 1746184528,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 118804,
@@ -1937,6 +2041,14 @@
       "onboard_time": 1746154109,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113356,
+      "num": 113356,
+      "word": "翟潇闻音乐节",
+      "onboard_time": 1746184709,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 113199,
@@ -2003,12 +2115,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 109108,
-      "num": 109108,
-      "word": "董明珠想不通有人天天搞小三小四",
-      "onboard_time": 1746182610,
-      "rank": 48,
-      "category": "民生新闻"
+      "raw_hot": 109296,
+      "num": 109296,
+      "word": "如果你看到一个人朋友圈干干净净",
+      "onboard_time": 1746183389,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 108777,
@@ -2067,12 +2179,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105736,
+      "num": 105736,
+      "word": "王蓉在天赐也免不了蹉跎苦",
+      "onboard_time": 1746184650,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 105378,
       "num": 105378,
       "word": "才知道套被子可以这么轻松",
       "onboard_time": 1746113662,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 105321,
+      "num": 105321,
+      "word": "苏新皓大屏太权威了",
+      "onboard_time": 1746184291,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 104655,
@@ -2371,6 +2499,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 72938,
+      "num": 243734,
+      "word": "假期上班最早的是游客",
+      "onboard_time": 1746183929,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72283,
       "num": 225205,
       "word": "哈登28分",
@@ -2481,6 +2617,14 @@
       "onboard_time": 1746128175,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57033,
+      "num": 147482,
+      "word": "美国小企业被本国关税战打蒙了",
+      "onboard_time": 1746184709,
+      "rank": 31,
+      "category": "国际时政,国际时政"
     },
     {
       "raw_hot": 56372,
@@ -2961,6 +3105,14 @@
       "onboard_time": 1746168090,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 15833,
+      "num": 242208,
+      "word": "车站回应被困动车4小时有何补偿",
+      "onboard_time": 1746183689,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14934,
