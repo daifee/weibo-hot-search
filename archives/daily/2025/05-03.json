@@ -1,6 +1,6 @@
 {
   "startTime": 1746203485460,
-  "endTime": 1746225764805,
+  "endTime": 1746228201106,
   "band_list": [
     {
       "raw_hot": 1286235,
@@ -59,8 +59,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 469353,
-      "num": 512644,
+      "raw_hot": 473554,
+      "num": 784171,
       "word": "原来躺久了也会消耗气血",
       "onboard_time": 1746203600,
       "rank": 30,
@@ -155,6 +155,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 178953,
+      "num": 113615,
+      "word": "赵心童世锦赛决赛中国第2人",
+      "onboard_time": 1746226637,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176728,
       "num": 176728,
       "word": "人人人人人人景点人人人人人人",
@@ -169,6 +177,14 @@
       "onboard_time": 1746191188,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165693,
+      "num": 284678,
+      "word": "游客称西湖景区洒农药进了自己嘴里",
+      "onboard_time": 1746202400,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 156469,
@@ -203,12 +219,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 138092,
-      "num": 284678,
-      "word": "游客称西湖景区洒农药进了自己嘴里",
-      "onboard_time": 1746202400,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 143378,
+      "num": 143378,
+      "word": "比尔盖茨被爆患阿斯伯格综合征",
+      "onboard_time": 1746183929,
+      "rank": 27,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 137685,
@@ -219,12 +235,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 129285,
-      "num": 129285,
-      "word": "比尔盖茨被爆患阿斯伯格综合征",
-      "onboard_time": 1746183929,
-      "rank": 27,
-      "category": "海外新闻"
+      "raw_hot": 127795,
+      "num": 127795,
+      "word": "王凯首度回应快两年没进组",
+      "onboard_time": 1746187530,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 127571,
@@ -249,14 +265,6 @@
       "onboard_time": 1746198384,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 108116,
-      "num": 116067,
-      "word": "王凯首度回应快两年没进组",
-      "onboard_time": 1746187530,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 103868,
@@ -387,20 +395,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 79315,
+      "num": 79315,
+      "word": "小伙被外国人骂秦腔穷霸气回怼",
+      "onboard_time": 1746205938,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79270,
       "num": 92340,
       "word": "周洁琼直播模仿猫妖",
       "onboard_time": 1746202101,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 77855,
-      "num": 77855,
-      "word": "小伙被外国人骂秦腔穷霸气回怼",
-      "onboard_time": 1746205938,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 75010,
@@ -491,12 +499,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 49813,
+      "num": 49813,
+      "word": "您这个直接去收银不用过秤",
+      "onboard_time": 1746224054,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 46481,
+      "num": 46481,
+      "word": "宝宝性别揭晓派对上的意外",
+      "onboard_time": 1746221895,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 44813,
-      "num": 44813,
+      "num": 46473,
       "word": "景区骆驼坐在护栏边被游客踢踹",
       "onboard_time": 1746222315,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44171,
+      "num": 51779,
+      "word": "孙俪你喜欢什么情节我演给你看好了",
+      "onboard_time": 1746220935,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 41857,
+      "num": 46481,
+      "word": "月亮姐姐喊了李艺彤立马转身",
+      "onboard_time": 1746224235,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 40702,
@@ -507,20 +547,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 35454,
-      "num": 35454,
-      "word": "孙俪你喜欢什么情节我演给你看好了",
-      "onboard_time": 1746220935,
-      "rank": 49,
-      "category": "剧集"
+      "raw_hot": 31863,
+      "num": 46468,
+      "word": "男人以为买跑车的效果vs实际上的",
+      "onboard_time": 1746227418,
+      "rank": 44,
+      "category": "幽默"
     },
     {
-      "raw_hot": 32635,
-      "num": 32635,
-      "word": "宝宝性别揭晓派对上的意外",
-      "onboard_time": 1746221895,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 31426,
+      "num": 46468,
+      "word": "特朗普称将取消哈佛免税地位",
+      "onboard_time": 1746212895,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 30019,
@@ -529,14 +569,6 @@
       "onboard_time": 1746210735,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 29426,
-      "num": 29426,
-      "word": "月亮姐姐喊了李艺彤立马转身",
-      "onboard_time": 1746224235,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 26714,
@@ -555,20 +587,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 24877,
-      "num": 29415,
-      "word": "您这个直接去收银不用过秤",
-      "onboard_time": 1746224054,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 24326,
       "num": 25803,
       "word": "BLG十番战EDG",
       "onboard_time": 1746180029,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 24141,
+      "num": 46463,
+      "word": "于正送娜扎水晶手串",
+      "onboard_time": 1746228138,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 24003,
@@ -595,20 +627,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 21969,
-      "num": 29406,
-      "word": "特朗普称将取消哈佛免税地位",
-      "onboard_time": 1746212895,
-      "rank": 41,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 21812,
       "num": 21812,
       "word": "张泽禹像天使一样",
       "onboard_time": 1746213494,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 19377,
+      "num": 47498,
+      "word": "五一假期到一半了",
+      "onboard_time": 1746228076,
+      "rank": 32,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 16537,
