@@ -1,6 +1,6 @@
 {
   "startTime": 1746203485460,
-  "endTime": 1746221869074,
+  "endTime": 1746224667141,
   "band_list": [
     {
       "raw_hot": 1286235,
@@ -283,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97347,
+      "num": 284678,
+      "word": "游客称西湖景区洒农药进了自己嘴里",
+      "onboard_time": 1746202400,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96216,
       "num": 96216,
       "word": "韩国人把这家超市业绩买成上海区第一",
@@ -305,14 +313,6 @@
       "onboard_time": 1746201621,
       "rank": 41,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 94024,
-      "num": 284678,
-      "word": "游客称西湖景区洒农药进了自己嘴里",
-      "onboard_time": 1746202400,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 91782,
@@ -491,6 +491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 44813,
+      "num": 44813,
+      "word": "景区骆驼坐在护栏边被游客踢踹",
+      "onboard_time": 1746222315,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40702,
       "num": 40702,
       "word": "朱志鑫舞台好燃",
@@ -499,12 +507,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 32171,
+      "num": 32170,
+      "word": "宝宝性别揭晓派对上的意外",
+      "onboard_time": 1746221895,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 30019,
       "num": 30019,
       "word": "张峻豪我们下次再见",
       "onboard_time": 1746210735,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 27006,
+      "num": 27006,
+      "word": "孙俪你喜欢什么情节我演给你看好了",
+      "onboard_time": 1746220935,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 26714,
@@ -539,6 +563,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 23472,
+      "num": 24765,
+      "word": "夜空闪耀出烟花版中国红",
+      "onboard_time": 1746203600,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22158,
       "num": 22158,
       "word": "刘宇宁单手拿麦好帅",
@@ -556,11 +588,19 @@
     },
     {
       "raw_hot": 19927,
-      "num": 19927,
+      "num": 24744,
       "word": "特朗普称将取消哈佛免税地位",
       "onboard_time": 1746212895,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 16837,
+      "num": 24740,
+      "word": "您这个直接去收银不用过秤",
+      "onboard_time": 1746224054,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 16537,
@@ -579,20 +619,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 15673,
-      "num": 17226,
-      "word": "夜空闪耀出烟花版中国红",
-      "onboard_time": 1746203600,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14633,
-      "num": 17225,
-      "word": "孙俪你喜欢什么情节我演给你看好了",
-      "onboard_time": 1746220935,
+      "raw_hot": 15417,
+      "num": 24734,
+      "word": "月亮姐姐喊了李艺彤立马转身",
+      "onboard_time": 1746224235,
       "rank": 49,
-      "category": "剧集"
+      "category": "综艺"
     },
     {
       "raw_hot": 14508,
