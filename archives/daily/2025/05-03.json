@@ -1,6 +1,6 @@
 {
   "startTime": 1746203485460,
-  "endTime": 1746217660760,
+  "endTime": 1746218455486,
   "band_list": [
     {
       "raw_hot": 1286235,
@@ -571,20 +571,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 15138,
+      "num": 16631,
+      "word": "夜空闪耀出烟花版中国红",
+      "onboard_time": 1746203600,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14910,
       "num": 16647,
       "word": "曼城vs狼队",
       "onboard_time": 1746215413,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 14463,
-      "num": 16631,
-      "word": "夜空闪耀出烟花版中国红",
-      "onboard_time": 1746203600,
-      "rank": 47,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
