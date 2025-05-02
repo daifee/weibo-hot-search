@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746168499321,
+  "endTime": 1746170695654,
   "band_list": [
     {
       "raw_hot": 2306655,
@@ -115,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1531885,
+      "num": 283000,
+      "word": "董小姐在她一作的论文里负责翻译",
+      "onboard_time": 1746163890,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1520054,
       "num": 1520054,
       "word": "赵露思音乐节",
@@ -225,14 +233,6 @@
       "onboard_time": 1746090921,
       "rank": 31,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1160723,
-      "num": 283000,
-      "word": "董小姐在她一作的论文里负责翻译",
-      "onboard_time": 1746163890,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1158044,
@@ -371,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 935669,
+      "num": 402946,
+      "word": "董力婚后和初恋单独吃过饭",
+      "onboard_time": 1746166589,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 923353,
       "num": 436695,
       "word": "协和4加4培养的是天才还是关系户",
@@ -419,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 825390,
+      "num": 825390,
+      "word": "日本3个月前坠坑老人确认死亡",
+      "onboard_time": 1746166889,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 823968,
       "num": 823968,
       "word": "泰山陪爬小伙忙疯了也赚疯了",
@@ -441,14 +457,6 @@
       "onboard_time": 1746102023,
       "rank": 3,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 774947,
-      "num": 402946,
-      "word": "董力婚后和初恋单独吃过饭",
-      "onboard_time": 1746166589,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 767281,
@@ -1107,6 +1115,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 338898,
+      "num": 338898,
+      "word": "王楚钦被球砸脸还笑场",
+      "onboard_time": 1746167309,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 336480,
       "num": 290545,
       "word": "张一山谈首搭赵丽颖",
@@ -1193,6 +1209,14 @@
       "onboard_time": 1746144319,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 320087,
+      "num": 289643,
+      "word": "协和4加4培养出的董医生医术如何",
+      "onboard_time": 1746164849,
+      "rank": 8,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 316551,
@@ -1347,14 +1371,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 289643,
-      "num": 289643,
-      "word": "协和4加4培养出的董医生医术如何",
-      "onboard_time": 1746164849,
-      "rank": 8,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 289516,
       "num": 107383,
       "word": "协和医学院的医学博士发声",
@@ -1473,6 +1489,22 @@
       "onboard_time": 1746085881,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 261459,
+      "num": 224940,
+      "word": "月亮姐姐淘汰",
+      "onboard_time": 1746167909,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 259805,
+      "num": 224897,
+      "word": "苏新皓中控红海",
+      "onboard_time": 1746169580,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 258032,
@@ -1643,6 +1675,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 224737,
+      "num": 224737,
+      "word": "五一假期是捅人窝了吧",
+      "onboard_time": 1746166410,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 223111,
       "num": 223111,
       "word": "什么是医政调查",
@@ -1689,14 +1729,6 @@
       "onboard_time": 1746103402,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 217756,
-      "num": 235011,
-      "word": "王楚钦被球砸脸还笑场",
-      "onboard_time": 1746167309,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 217542,
@@ -1753,14 +1785,6 @@
       "onboard_time": 1746088102,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 209732,
-      "num": 277302,
-      "word": "日本3个月前坠坑老人确认死亡",
-      "onboard_time": 1746166889,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 209409,
@@ -1857,14 +1881,6 @@
       "onboard_time": 1746088582,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 201627,
-      "num": 201627,
-      "word": "月亮姐姐淘汰",
-      "onboard_time": 1746167909,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 201093,
@@ -2001,6 +2017,14 @@
       "onboard_time": 1746086961,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 196657,
+      "num": 196657,
+      "word": "田曦薇粉丝破一千万",
+      "onboard_time": 1746169880,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 196524,
@@ -2177,6 +2201,14 @@
       "onboard_time": 1746079582,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 190094,
+      "num": 190094,
+      "word": "回忆专用小马甲一夜掉粉2.6万",
+      "onboard_time": 1746168929,
+      "rank": 26,
+      "category": "网红"
     },
     {
       "raw_hot": 189951,
@@ -2387,6 +2419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182153,
+      "num": 206011,
+      "word": "这些迹象表明你已处于有毒关系",
+      "onboard_time": 1746169880,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 181823,
       "num": 181823,
       "word": "xc 菜",
@@ -2417,6 +2457,14 @@
       "onboard_time": 1746064461,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 179360,
+      "num": 225074,
+      "word": "群聊泄密事件当事人升职",
+      "onboard_time": 1746169521,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 178371,
@@ -2539,6 +2587,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 171146,
+      "num": 171146,
+      "word": "2025年竟然在跑男里看到了陈赫",
+      "onboard_time": 1746170120,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170849,
       "num": 170849,
       "word": "华晨宇户外演唱会开空调",
@@ -2633,6 +2689,14 @@
       "onboard_time": 1746157830,
       "rank": 41,
       "category": "旅游,民生新闻"
+    },
+    {
+      "raw_hot": 164917,
+      "num": 179862,
+      "word": "家人回应大爷掉坑3个月终于找到了",
+      "onboard_time": 1746166710,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 163909,
@@ -2755,6 +2819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158605,
+      "num": 235046,
+      "word": "特朗普建议商科学生投身工厂",
+      "onboard_time": 1746166889,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 158354,
       "num": 158354,
       "word": "开始推理吧3",
@@ -2827,6 +2899,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 156285,
+      "num": 179104,
+      "word": "王励勤谢绝媒体采访国乒队员",
+      "onboard_time": 1746170241,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156100,
       "num": 156100,
       "word": "230斤女孩嗜甜如命吃进ICU",
@@ -2849,14 +2929,6 @@
       "onboard_time": 1746103583,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 154239,
-      "num": 154239,
-      "word": "五一假期是捅人窝了吧",
-      "onboard_time": 1746166410,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 153589,
@@ -2953,6 +3025,14 @@
       "onboard_time": 1746070100,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 148956,
+      "num": 148956,
+      "word": "张极飞吻",
+      "onboard_time": 1746170299,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 148648,
@@ -3195,6 +3275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140760,
+      "num": 140760,
+      "word": "王珞丹瞳孔地震",
+      "onboard_time": 1746168209,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140583,
       "num": 140583,
       "word": "五一爬泰山看日出的游客太猛了",
@@ -3387,14 +3475,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 134106,
-      "num": 134106,
-      "word": "家人回应大爷掉坑3个月终于找到了",
-      "onboard_time": 1746166710,
-      "rank": 44,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 133922,
       "num": 133922,
       "word": "王源音乐IP形象HUG",
@@ -3547,14 +3627,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 129641,
-      "num": 129641,
-      "word": "王珞丹瞳孔地震",
-      "onboard_time": 1746168209,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 128817,
       "num": 128817,
       "word": "看得出来各地文旅这个假期很努力了",
@@ -3568,6 +3640,14 @@
       "word": "石凯前女友回应150万封口费",
       "onboard_time": 1746153751,
       "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 128500,
+      "num": 128500,
+      "word": "张泽禹金发",
+      "onboard_time": 1746170660,
+      "rank": 42,
       "category": "艺人"
     },
     {
@@ -3609,6 +3689,14 @@
       "onboard_time": 1746109283,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127576,
+      "num": 127576,
+      "word": "当老爸得知我去日本玩be like",
+      "onboard_time": 1746170540,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 127528,
@@ -3664,6 +3752,14 @@
       "word": "抢不到演唱会门票可以找孙俪吗",
       "onboard_time": 1746071841,
       "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 126649,
+      "num": 126649,
+      "word": "马来西亚公主也在追落花",
+      "onboard_time": 1746170361,
+      "rank": 45,
       "category": "剧集"
     },
     {
@@ -3745,6 +3841,14 @@
       "onboard_time": 1746081801,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123327,
+      "num": 123327,
+      "word": "王励勤当选乒协主席后首次公开亮相",
+      "onboard_time": 1746170420,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 123318,
@@ -4081,14 +4185,6 @@
       "onboard_time": 1746067760,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 110491,
-      "num": 235046,
-      "word": "特朗普建议商科学生投身工厂",
-      "onboard_time": 1746166889,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 110382,
@@ -4651,6 +4747,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 75714,
+      "num": 115993,
+      "word": "回看张雪峰视频让人感慨万千",
+      "onboard_time": 1746169411,
+      "rank": 49,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 75519,
       "num": 75519,
       "word": "金价",
@@ -4913,6 +5017,14 @@
       "onboard_time": 1746074061,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54027,
+      "num": 224785,
+      "word": "直播五一假期的景点",
+      "onboard_time": 1746169580,
+      "rank": 19,
+      "category": "旅游"
     },
     {
       "raw_hot": 53269,
@@ -5225,6 +5337,22 @@
       "onboard_time": 1746064942,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 36745,
+      "num": 122905,
+      "word": "廉价手机壳真的会引发过敏吗",
+      "onboard_time": 1746169290,
+      "rank": 47,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 36010,
+      "num": 225954,
+      "word": "美国这100天真一言难尽",
+      "onboard_time": 1746169521,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 35792,
@@ -5611,6 +5739,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 15689,
+      "num": 136343,
+      "word": "宇宙四大定律",
+      "onboard_time": 1746170241,
+      "rank": 39,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 15511,
       "num": 144379,
       "word": "美国西部沿海进入沉没倒计时",
@@ -5737,6 +5873,14 @@
       "onboard_time": 1746088881,
       "rank": 24,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 10307,
+      "num": 197552,
+      "word": "劳动节是如何诞生的",
+      "onboard_time": 1746170481,
+      "rank": 24,
+      "category": "科学科普"
     },
     {
       "raw_hot": 10011,
