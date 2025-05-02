@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746211627449,
+  "endTime": 1746213635555,
   "band_list": [
     {
       "raw_hot": 3885539,
@@ -7691,6 +7691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 22037,
+      "num": 22037,
+      "word": "刘宇宁单手拿麦好帅",
+      "onboard_time": 1746213615,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 21884,
       "num": 172703,
       "word": "药屋少女四大妃的美貌",
@@ -7817,6 +7825,14 @@
       "onboard_time": 1746087681,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 17275,
+      "num": 20702,
+      "word": "张泽禹像天使一样",
+      "onboard_time": 1746213494,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 17222,
