@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1746204402889,
+  "endTime": 1746206519843,
   "band_list": [
     {
       "raw_hot": 8960529,
@@ -4769,6 +4769,14 @@
       "onboard_time": 1746167309,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 338856,
+      "num": 338856,
+      "word": "原来躺久了也会消耗气血",
+      "onboard_time": 1746203600,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 338008,
@@ -16003,14 +16011,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 106314,
-      "num": 106314,
-      "word": "原来躺久了也会消耗气血",
-      "onboard_time": 1746203600,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 106221,
       "num": 106221,
       "word": "他从黄山走进了人民大会堂",
@@ -16835,6 +16835,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 95260,
+      "num": 95260,
+      "word": "蛤蜊正确读音",
+      "onboard_time": 1746201621,
+      "rank": 41,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 95033,
       "num": 95033,
       "word": "看似周日 实则周一",
@@ -16961,14 +16969,6 @@
       "onboard_time": 1745754740,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 92981,
-      "num": 92981,
-      "word": "蛤蜊正确读音",
-      "onboard_time": 1746201621,
-      "rank": 41,
-      "category": "科学科普"
     },
     {
       "raw_hot": 92692,
@@ -18411,6 +18411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69693,
+      "num": 69693,
+      "word": "于文文 肖申克的救赎",
+      "onboard_time": 1746200480,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 69561,
       "num": 457443,
       "word": "卫健局回应男子质疑精神分裂诊断结果",
@@ -18867,6 +18875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 59333,
+      "num": 59333,
+      "word": "张云雷武汉音乐会",
+      "onboard_time": 1746205337,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 59295,
       "num": 287237,
       "word": "五一出境薅支付宝羊毛攻略",
@@ -19025,6 +19041,14 @@
       "onboard_time": 1746124456,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 56319,
+      "num": 56319,
+      "word": "小伙被外国人骂秦腔穷霸气回怼",
+      "onboard_time": 1746205938,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56308,
@@ -19369,6 +19393,14 @@
       "onboard_time": 1746018081,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 50611,
+      "num": 50611,
+      "word": "天赐的声音",
+      "onboard_time": 1746205818,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 50591,
@@ -20609,6 +20641,14 @@
       "onboard_time": 1745918004,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 31562,
+      "num": 146796,
+      "word": "中国科学家用弹弓破解世界难题",
+      "onboard_time": 1746205998,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31333,
