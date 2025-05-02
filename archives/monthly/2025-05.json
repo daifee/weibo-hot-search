@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746207603754,
+  "endTime": 1746210821486,
   "band_list": [
     {
       "raw_hot": 3885539,
@@ -7523,12 +7523,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 26714,
+      "num": 26714,
+      "word": "周深南京演唱会抢票",
+      "onboard_time": 1746209894,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 26512,
       "num": 26512,
       "word": "劳动节快乐 祝我们劳有所得",
       "onboard_time": 1746123495,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26049,
+      "num": 26049,
+      "word": "张峻豪我们下次再见",
+      "onboard_time": 1746210735,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 26046,
@@ -7545,6 +7561,14 @@
       "onboard_time": 1746174080,
       "rank": 39,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 25653,
+      "num": 25653,
+      "word": "张云雷新歌",
+      "onboard_time": 1746210675,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 25561,

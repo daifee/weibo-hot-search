@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/04/27 00:28:26 ~ 2025/05/03 01:40:03
+本榜单时间：2025/04/27 00:28:26 ~ 2025/05/03 02:33:41
 </p>
 </blockquote>
 <p>
@@ -15765,6 +15765,12 @@ KPL对抗路篇今天尽力啦（热度：37513）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E5%8D%97%E4%BA%AC%E6%BC%94%E5%94%B1%E4%BC%9A%E6%8A%A2%E7%A5%A8%23" target="weibo">
+周深南京演唱会抢票（热度：26714）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E9%87%8D%E5%B7%A5%E8%A1%80%E8%84%89%E8%97%8F%E5%9C%A8%E5%93%AA%E4%BA%9B%E5%A4%A7%E5%AD%A6%23" target="weibo">
 我国重工血脉藏在哪些大学（热度：26692）
 </a>
@@ -15801,6 +15807,12 @@ KPL对抗路篇今天尽力啦（热度：37513）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B3%BB%E8%B1%AA%E6%88%91%E4%BB%AC%E4%B8%8B%E6%AC%A1%E5%86%8D%E8%A7%81%23" target="weibo">
+张峻豪我们下次再见（热度：26049）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B7%E4%BB%AC%E8%A6%81%E8%84%B8%E6%96%87%E5%AD%A6%23" target="weibo">
 爷们要脸文学（热度：26046）
 </a>
@@ -15821,6 +15833,12 @@ KPL对抗路篇今天尽力啦（热度：37513）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E8%91%9B%E4%BC%98%E5%90%8C%E6%A1%86%23" target="weibo">
 周深葛优同框（热度：25750）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BA%91%E9%9B%B7%E6%96%B0%E6%AD%8C%23" target="weibo">
+张云雷新歌（热度：25653）
 </a>
 </li>
 

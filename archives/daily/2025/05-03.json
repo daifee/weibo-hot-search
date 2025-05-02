@@ -1,6 +1,6 @@
 {
   "startTime": 1746203485460,
-  "endTime": 1746207603754,
+  "endTime": 1746210821486,
   "band_list": [
     {
       "raw_hot": 1286235,
@@ -497,6 +497,30 @@
       "onboard_time": 1746206597,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 26714,
+      "num": 26714,
+      "word": "周深南京演唱会抢票",
+      "onboard_time": 1746209894,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 26049,
+      "num": 26049,
+      "word": "张峻豪我们下次再见",
+      "onboard_time": 1746210735,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 25653,
+      "num": 25653,
+      "word": "张云雷新歌",
+      "onboard_time": 1746210675,
+      "rank": 48,
+      "category": "音乐"
     }
   ],
   "hotgov_list": [

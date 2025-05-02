@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/05/03 00:31:25 ~ 2025/05/03 01:40:03
+本榜单时间：2025/05/03 00:31:25 ~ 2025/05/03 02:33:41
 </p>
 </blockquote>
 <p>
@@ -383,6 +383,24 @@ BLG战胜EDG（热度：75010）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E5%BF%97%E9%91%AB%E8%88%9E%E5%8F%B0%E5%A5%BD%E7%87%83%23" target="weibo">
 朱志鑫舞台好燃（热度：40702）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E5%8D%97%E4%BA%AC%E6%BC%94%E5%94%B1%E4%BC%9A%E6%8A%A2%E7%A5%A8%23" target="weibo">
+周深南京演唱会抢票（热度：26714）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B3%BB%E8%B1%AA%E6%88%91%E4%BB%AC%E4%B8%8B%E6%AC%A1%E5%86%8D%E8%A7%81%23" target="weibo">
+张峻豪我们下次再见（热度：26049）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BA%91%E9%9B%B7%E6%96%B0%E6%AD%8C%23" target="weibo">
+张云雷新歌（热度：25653）
 </a>
 </li>
 
