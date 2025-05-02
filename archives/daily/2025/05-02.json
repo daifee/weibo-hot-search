@@ -1,6 +1,6 @@
 {
   "startTime": 1746117084529,
-  "endTime": 1746177985470,
+  "endTime": 1746178819900,
   "band_list": [
     {
       "raw_hot": 2150105,
@@ -211,20 +211,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 631901,
+      "num": 631901,
+      "word": "普陀山",
+      "onboard_time": 1746171142,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 630442,
       "num": 494866,
       "word": "苏新皓摔倒",
       "onboard_time": 1746172460,
       "rank": 6,
       "category": "演出"
-    },
-    {
-      "raw_hot": 620066,
-      "num": 620066,
-      "word": "普陀山",
-      "onboard_time": 1746171142,
-      "rank": 46,
-      "category": "旅游"
     },
     {
       "raw_hot": 611862,
@@ -427,6 +427,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 435919,
+      "num": 404253,
+      "word": "刘诗诗新剧",
+      "onboard_time": 1746175701,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 427432,
+      "num": 427432,
+      "word": "众人为举国旗爬山男子照亮上山路",
+      "onboard_time": 1746174140,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 424561,
       "num": 424561,
       "word": "种了27年的地因未退耕被判刑6个月",
@@ -483,14 +499,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 381021,
-      "num": 385707,
-      "word": "众人为举国旗爬山男子照亮上山路",
-      "onboard_time": 1746174140,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 372852,
       "num": 331554,
       "word": "翁虹与丈夫分居3年感情反而更好了",
@@ -505,14 +513,6 @@
       "onboard_time": 1746170241,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 346337,
-      "num": 308601,
-      "word": "刘诗诗新剧",
-      "onboard_time": 1746175701,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 338898,
@@ -715,6 +715,30 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 245665,
+      "num": 245665,
+      "word": "极禹不值得",
+      "onboard_time": 1746177080,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 243404,
+      "num": 243404,
+      "word": "女伴舞",
+      "onboard_time": 1746177022,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 239280,
+      "num": 239280,
+      "word": "宋亚轩刘耀文偷偷藏不住",
+      "onboard_time": 1746176480,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 233497,
       "num": 233497,
       "word": "kpop",
@@ -763,14 +787,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 220719,
-      "num": 220719,
-      "word": "极禹不值得",
-      "onboard_time": 1746177080,
-      "rank": 21,
-      "category": "演出"
-    },
-    {
       "raw_hot": 219632,
       "num": 394267,
       "word": "加沙一袋面粉卖4000元",
@@ -779,28 +795,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 217268,
-      "num": 217268,
-      "word": "宋亚轩刘耀文偷偷藏不住",
-      "onboard_time": 1746176480,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 214031,
-      "num": 214031,
-      "word": "女伴舞",
-      "onboard_time": 1746177022,
-      "rank": 24,
-      "category": "演出"
-    },
-    {
       "raw_hot": 206893,
       "num": 206893,
       "word": "周深一开嗓唱出踏风破浪",
       "onboard_time": 1746096561,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206515,
+      "num": 206515,
+      "word": "苏新皓创可贴",
+      "onboard_time": 1746177810,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 203947,
@@ -833,6 +841,14 @@
       "onboard_time": 1746161790,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199921,
+      "num": 199921,
+      "word": "红秀 何秋亊",
+      "onboard_time": 1746178289,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 198419,
@@ -1131,6 +1147,30 @@
       "category": "旅游,民生新闻"
     },
     {
+      "raw_hot": 165448,
+      "num": 165448,
+      "word": "26岁女子生娃后长高3cm",
+      "onboard_time": 1746157049,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 165142,
+      "num": 165142,
+      "word": "华晨宇巡演请吃炒饭第一人",
+      "onboard_time": 1746178349,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 165048,
+      "num": 165048,
+      "word": "时代少年团舞台已经就位",
+      "onboard_time": 1746177750,
+      "rank": 38,
+      "category": "演出,综艺"
+    },
+    {
       "raw_hot": 164917,
       "num": 179862,
       "word": "家人回应大爷掉坑3个月终于找到了",
@@ -1201,14 +1241,6 @@
       "onboard_time": 1746105202,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 158684,
-      "num": 158684,
-      "word": "26岁女子生娃后长高3cm",
-      "onboard_time": 1746157049,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 158605,
@@ -1508,7 +1540,7 @@
     },
     {
       "raw_hot": 132243,
-      "num": 132243,
+      "num": 165091,
       "word": "12306回应乘客被困车厢超4小时",
       "onboard_time": 1746176780,
       "rank": 37,
@@ -1571,14 +1603,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 128678,
-      "num": 128678,
-      "word": "时代少年团舞台已经就位",
-      "onboard_time": 1746177750,
-      "rank": 38,
-      "category": "演出,综艺"
-    },
-    {
       "raw_hot": 128594,
       "num": 128594,
       "word": "石凯前女友回应150万封口费",
@@ -1588,7 +1612,7 @@
     },
     {
       "raw_hot": 128404,
-      "num": 224612,
+      "num": 242895,
       "word": "零跑新势力月销量连续第一",
       "onboard_time": 1746176721,
       "rank": 18,
@@ -1715,14 +1739,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 117437,
-      "num": 117437,
-      "word": "苏新皓创可贴",
-      "onboard_time": 1746177810,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 114998,
       "num": 114998,
       "word": "成都市民乒乓球实力震惊王楚钦",
@@ -1777,6 +1793,14 @@
       "onboard_time": 1746167970,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 111372,
+      "num": 108207,
+      "word": "王浩信最想合作高海宁",
+      "onboard_time": 1746178589,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 109727,
@@ -1883,6 +1907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103549,
+      "num": 103549,
+      "word": "邪恶双马尾咪",
+      "onboard_time": 1746176780,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 103299,
       "num": 112027,
       "word": "手背青筋明显是亚健康",
@@ -1921,6 +1953,14 @@
       "onboard_time": 1746168682,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100292,
+      "num": 100292,
+      "word": "惠英红华表影后首录综艺",
+      "onboard_time": 1746178710,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 99174,
@@ -2049,6 +2089,14 @@
       "onboard_time": 1746163110,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82352,
+      "num": 87628,
+      "word": "全红婵回应如何克服生长发育期",
+      "onboard_time": 1746178050,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 82334,
@@ -2275,6 +2323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 46895,
+      "num": 563787,
+      "word": "每个努力奋斗的你都闪闪发光",
+      "onboard_time": 1746177569,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46359,
       "num": 120200,
       "word": "全红婵陈芋汐奥运后再合体",
@@ -2499,6 +2555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 23994,
+      "num": 317353,
+      "word": "150秒看大国工匠铸就大国重器",
+      "onboard_time": 1746177569,
+      "rank": 12,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 23686,
       "num": 35215,
       "word": "重庆荣昌是真的宠游客",
@@ -2516,7 +2580,7 @@
     },
     {
       "raw_hot": 23150,
-      "num": 217545,
+      "num": 242728,
       "word": "竹笋的哪个部位最鲜嫩",
       "onboard_time": 1746177689,
       "rank": 22,
@@ -2537,14 +2601,6 @@
       "onboard_time": 1746170960,
       "rank": 29,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 21237,
-      "num": 548801,
-      "word": "每个努力奋斗的你都闪闪发光",
-      "onboard_time": 1746177569,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 20735,
@@ -2673,14 +2729,6 @@
       "onboard_time": 1746142639,
       "rank": 44,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 14047,
-      "num": 309988,
-      "word": "150秒看大国工匠铸就大国重器",
-      "onboard_time": 1746177569,
-      "rank": 12,
-      "category": "正能量"
     },
     {
       "raw_hot": 12551,

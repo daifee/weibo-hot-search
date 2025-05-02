@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1746177985470,
+  "endTime": 1746178819900,
   "band_list": [
     {
       "raw_hot": 8960529,
@@ -2243,6 +2243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 631901,
+      "num": 631901,
+      "word": "普陀山",
+      "onboard_time": 1746171142,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 631882,
       "num": 631882,
       "word": "天鹅颈",
@@ -2305,14 +2313,6 @@
       "onboard_time": 1746014721,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 620066,
-      "num": 620066,
-      "word": "普陀山",
-      "onboard_time": 1746171142,
-      "rank": 46,
-      "category": "旅游"
     },
     {
       "raw_hot": 618791,
@@ -3555,6 +3555,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 435919,
+      "num": 404253,
+      "word": "刘诗诗新剧",
+      "onboard_time": 1746175701,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 435240,
       "num": 435240,
       "word": "饿了么今天便宜到不敢点",
@@ -3609,6 +3617,14 @@
       "onboard_time": 1745996602,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 427432,
+      "num": 427432,
+      "word": "众人为举国旗爬山男子照亮上山路",
+      "onboard_time": 1746174140,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 426793,
@@ -4027,14 +4043,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 381021,
-      "num": 385707,
-      "word": "众人为举国旗爬山男子照亮上山路",
-      "onboard_time": 1746174140,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 378118,
       "num": 378118,
       "word": "时代少年团直播美颜掉了",
@@ -4345,14 +4353,6 @@
       "onboard_time": 1745837481,
       "rank": 13,
       "category": "演出"
-    },
-    {
-      "raw_hot": 346337,
-      "num": 308601,
-      "word": "刘诗诗新剧",
-      "onboard_time": 1746175701,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 343517,
@@ -6019,6 +6019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 245665,
+      "num": 245665,
+      "word": "极禹不值得",
+      "onboard_time": 1746177080,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 245385,
       "num": 245385,
       "word": "京东外卖",
@@ -6049,6 +6057,14 @@
       "onboard_time": 1745938823,
       "rank": 24,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 243404,
+      "num": 243404,
+      "word": "女伴舞",
+      "onboard_time": 1746177022,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 243276,
@@ -6121,6 +6137,14 @@
       "onboard_time": 1745929342,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 239280,
+      "num": 239280,
+      "word": "宋亚轩刘耀文偷偷藏不住",
+      "onboard_time": 1746176480,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 239113,
@@ -6563,14 +6587,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 220719,
-      "num": 220719,
-      "word": "极禹不值得",
-      "onboard_time": 1746177080,
-      "rank": 21,
-      "category": "演出"
-    },
-    {
       "raw_hot": 220701,
       "num": 220701,
       "word": "西安沙尘暴",
@@ -6715,14 +6731,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 217268,
-      "num": 217268,
-      "word": "宋亚轩刘耀文偷偷藏不住",
-      "onboard_time": 1746176480,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 217081,
       "num": 217081,
       "word": "苏新皓solo",
@@ -6793,14 +6801,6 @@
       "onboard_time": 1745825903,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 214031,
-      "num": 214031,
-      "word": "女伴舞",
-      "onboard_time": 1746177022,
-      "rank": 24,
-      "category": "演出"
     },
     {
       "raw_hot": 213728,
@@ -7121,6 +7121,14 @@
       "onboard_time": 1745753361,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 206515,
+      "num": 206515,
+      "word": "苏新皓创可贴",
+      "onboard_time": 1746177810,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 206477,
@@ -7545,6 +7553,14 @@
       "onboard_time": 1745833761,
       "rank": 23,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 199921,
+      "num": 199921,
+      "word": "红秀 何秋亊",
+      "onboard_time": 1746178289,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 199803,
@@ -9867,6 +9883,14 @@
       "category": "旅游,民生新闻"
     },
     {
+      "raw_hot": 165448,
+      "num": 165448,
+      "word": "26岁女子生娃后长高3cm",
+      "onboard_time": 1746157049,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 165193,
       "num": 165193,
       "word": "刘学义敖瑞鹏四年前状态",
@@ -9881,6 +9905,22 @@
       "onboard_time": 1745723781,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165142,
+      "num": 165142,
+      "word": "华晨宇巡演请吃炒饭第一人",
+      "onboard_time": 1746178349,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 165048,
+      "num": 165048,
+      "word": "时代少年团舞台已经就位",
+      "onboard_time": 1746177750,
+      "rank": 38,
+      "category": "演出,综艺"
     },
     {
       "raw_hot": 164917,
@@ -10417,14 +10457,6 @@
       "onboard_time": 1745734881,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 158684,
-      "num": 158684,
-      "word": "26岁女子生娃后长高3cm",
-      "onboard_time": 1746157049,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 158609,
@@ -12692,7 +12724,7 @@
     },
     {
       "raw_hot": 132243,
-      "num": 132243,
+      "num": 165091,
       "word": "12306回应乘客被困车厢超4小时",
       "onboard_time": 1746176780,
       "rank": 37,
@@ -12979,14 +13011,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 128678,
-      "num": 128678,
-      "word": "时代少年团舞台已经就位",
-      "onboard_time": 1746177750,
-      "rank": 38,
-      "category": "演出,综艺"
-    },
-    {
       "raw_hot": 128594,
       "num": 128594,
       "word": "石凯前女友回应150万封口费",
@@ -13004,7 +13028,7 @@
     },
     {
       "raw_hot": 128404,
-      "num": 224612,
+      "num": 242895,
       "word": "零跑新势力月销量连续第一",
       "onboard_time": 1746176721,
       "rank": 18,
@@ -13931,14 +13955,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 117437,
-      "num": 117437,
-      "word": "苏新皓创可贴",
-      "onboard_time": 1746177810,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 117377,
       "num": 117377,
       "word": "杨紫后援会发布MK相关情况进展",
@@ -14369,6 +14385,14 @@
       "onboard_time": 1746070400,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 111372,
+      "num": 108207,
+      "word": "王浩信最想合作高海宁",
+      "onboard_time": 1746178589,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 111104,
@@ -14979,6 +15003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 103549,
+      "num": 103549,
+      "word": "邪恶双马尾咪",
+      "onboard_time": 1746176780,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 103530,
       "num": 103530,
       "word": "陈雨菲2比0卢善恩",
@@ -15241,6 +15273,14 @@
       "onboard_time": 1745980340,
       "rank": 42,
       "category": "体育,民生新闻"
+    },
+    {
+      "raw_hot": 100292,
+      "num": 100292,
+      "word": "惠英红华表影后首录综艺",
+      "onboard_time": 1746178710,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 100168,
@@ -16273,6 +16313,14 @@
       "onboard_time": 1745838802,
       "rank": 29,
       "category": "数码"
+    },
+    {
+      "raw_hot": 82352,
+      "num": 87628,
+      "word": "全红婵回应如何克服生长发育期",
+      "onboard_time": 1746178050,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 82334,
@@ -18043,6 +18091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46895,
+      "num": 563787,
+      "word": "每个努力奋斗的你都闪闪发光",
+      "onboard_time": 1746177569,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46887,
       "num": 353114,
       "word": "公众对4加4的疑虑应引起重视",
@@ -19579,6 +19635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 23994,
+      "num": 317353,
+      "word": "150秒看大国工匠铸就大国重器",
+      "onboard_time": 1746177569,
+      "rank": 12,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 23848,
       "num": 179000,
       "word": "中国人为什么这么喜欢嗑瓜子",
@@ -19652,7 +19716,7 @@
     },
     {
       "raw_hot": 23150,
-      "num": 217545,
+      "num": 242728,
       "word": "竹笋的哪个部位最鲜嫩",
       "onboard_time": 1746177689,
       "rank": 22,
@@ -19832,14 +19896,6 @@
       "word": "洛阳五一这么玩",
       "onboard_time": 1745986342,
       "rank": 44,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21237,
-      "num": 548801,
-      "word": "每个努力奋斗的你都闪闪发光",
-      "onboard_time": 1746177569,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -20577,14 +20633,6 @@
       "onboard_time": 1745693055,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 14047,
-      "num": 309988,
-      "word": "150秒看大国工匠铸就大国重器",
-      "onboard_time": 1746177569,
-      "rank": 12,
-      "category": "正能量"
     },
     {
       "raw_hot": 13892,

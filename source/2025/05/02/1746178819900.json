@@ -1,0 +1,410 @@
+{
+  "runTime": 1746178819900,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1286670,
+        "num": 1286670,
+        "word": "曾黎工作室徽章失窃",
+        "onboard_time": 1746163710,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 631901,
+        "num": 631901,
+        "word": "普陀山",
+        "onboard_time": 1746171142,
+        "rank": 1,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 46895,
+        "num": 563787,
+        "word": "每个努力奋斗的你都闪闪发光",
+        "onboard_time": 1746177569,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 508879,
+        "num": 508879,
+        "word": "董力婚后和初恋单独吃过饭",
+        "onboard_time": 1746166589,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 427432,
+        "num": 427432,
+        "word": "众人为举国旗爬山男子照亮上山路",
+        "onboard_time": 1746174140,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 404937,
+        "num": 404937,
+        "word": "日本3个月前坠坑老人确认死亡",
+        "onboard_time": 1746166889,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 435919,
+        "num": 404253,
+        "word": "刘诗诗新剧",
+        "onboard_time": 1746175701,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 418660,
+        "num": 360195,
+        "word": "苏新皓摔倒",
+        "onboard_time": 1746172460,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 23994,
+        "num": 317353,
+        "word": "150秒看大国工匠铸就大国重器",
+        "onboard_time": 1746177569,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 299598,
+        "num": 299598,
+        "word": "王励勤谢绝媒体采访国乒队员",
+        "onboard_time": 1746170241,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1010457,
+        "num": 299318,
+        "word": "董小姐在她一作的论文里负责翻译",
+        "onboard_time": 1746163890,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 726275,
+        "num": 299315,
+        "word": "当老爸得知我去日本玩be like",
+        "onboard_time": 1746170540,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 373904,
+        "num": 299041,
+        "word": "2025年竟然在跑男里看到了陈赫",
+        "onboard_time": 1746170120,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298665,
+        "num": 298665,
+        "word": "买8楼送9楼10楼",
+        "onboard_time": 1746156209,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 296947,
+        "num": 296947,
+        "word": "五一假期是捅人窝了吧",
+        "onboard_time": 1746166410,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 256977,
+        "num": 256977,
+        "word": "全红婵陈芋汐跳水世界杯冠军",
+        "onboard_time": 1746172640,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 245665,
+        "num": 245665,
+        "word": "极禹不值得",
+        "onboard_time": 1746177080,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 243404,
+        "num": 243404,
+        "word": "女伴舞",
+        "onboard_time": 1746177022,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 124355,
+        "num": 242895,
+        "word": "零跑新势力月销量连续第一",
+        "onboard_time": 1746176721,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 19382,
+        "num": 242728,
+        "word": "竹笋的哪个部位最鲜嫩",
+        "onboard_time": 1746177689,
+        "rank": 19,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 282610,
+        "num": 242728,
+        "word": "金价暴跌有人一夜亏47万",
+        "onboard_time": 1746118698,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 242726,
+        "num": 242726,
+        "word": "吴宣仪拒绝叶童",
+        "onboard_time": 1746164129,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239280,
+        "num": 239280,
+        "word": "宋亚轩刘耀文偷偷藏不住",
+        "onboard_time": 1746176480,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 211999,
+        "num": 211999,
+        "word": "杨迪晒与娜扎合照陈哲远他急了",
+        "onboard_time": 1746175642,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206515,
+        "num": 206515,
+        "word": "苏新皓创可贴",
+        "onboard_time": 1746177810,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199921,
+        "num": 199921,
+        "word": "红秀 何秋亊",
+        "onboard_time": 1746178289,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 170234,
+        "num": 170234,
+        "word": "李晟小考太帅了",
+        "onboard_time": 1746171020,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165448,
+        "num": 165448,
+        "word": "26岁女子生娃后长高3cm",
+        "onboard_time": 1746157049,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165142,
+        "num": 165142,
+        "word": "华晨宇巡演请吃炒饭第一人",
+        "onboard_time": 1746178349,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116717,
+        "num": 165091,
+        "word": "12306回应乘客被困车厢超4小时",
+        "onboard_time": 1746176780,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165048,
+        "num": 165048,
+        "word": "时代少年团舞台已经就位",
+        "onboard_time": 1746177750,
+        "rank": 30,
+        "category": "演出,综艺"
+      },
+      {
+        "raw_hot": 151922,
+        "num": 151922,
+        "word": "董某莹事件唯有真相才能定纷止争",
+        "onboard_time": 1746152850,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144204,
+        "num": 144204,
+        "word": "这直播给迪丽热巴看沉默了",
+        "onboard_time": 1746176420,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142562,
+        "num": 142562,
+        "word": "sana的冰箱采访 宁艺卓",
+        "onboard_time": 1746177270,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127442,
+        "num": 127442,
+        "word": "曾黎掉粉超10万",
+        "onboard_time": 1746162630,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125386,
+        "num": 125386,
+        "word": "孟子义打小眼睛就大",
+        "onboard_time": 1746164429,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117953,
+        "num": 117953,
+        "word": "群聊泄密事件当事人升职",
+        "onboard_time": 1746169521,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 115327,
+        "num": 115327,
+        "word": "五一景区挤麻了",
+        "onboard_time": 1746174861,
+        "rank": 37,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 112706,
+        "num": 112706,
+        "word": "回忆专用小马甲一夜掉粉2.6万",
+        "onboard_time": 1746168929,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 108389,
+        "num": 108389,
+        "word": "家人回应大爷掉坑3个月终于找到了",
+        "onboard_time": 1746166710,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 111372,
+        "num": 108207,
+        "word": "王浩信最想合作高海宁",
+        "onboard_time": 1746178589,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105746,
+        "num": 105746,
+        "word": "钟丽丽为哈妮克孜试戏跑前跑后",
+        "onboard_time": 1746177810,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105676,
+        "num": 105676,
+        "word": "徐老师婚纱照",
+        "onboard_time": 1746157350,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 104153,
+        "num": 104153,
+        "word": "周翊然 楚后",
+        "onboard_time": 1746171862,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103549,
+        "num": 103549,
+        "word": "邪恶双马尾咪",
+        "onboard_time": 1746176780,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 102657,
+        "num": 102657,
+        "word": "奶茶我有七不喝",
+        "onboard_time": 1746156510,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100292,
+        "num": 100292,
+        "word": "惠英红华表影后首录综艺",
+        "onboard_time": 1746178710,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93292,
+        "num": 93292,
+        "word": "巨蟹双鱼天蝎感情差异",
+        "onboard_time": 1746172342,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 82352,
+        "num": 87628,
+        "word": "全红婵回应如何克服生长发育期",
+        "onboard_time": 1746178050,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80053,
+        "num": 86840,
+        "word": "中国中央广播电视总台没有邀请Kpop",
+        "onboard_time": 1746157950,
+        "rank": 49,
+        "category": "辟谣/通报,演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#科学谋划好十五五总书记这样强调#"
+    }
+  }
+}
