@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746155550078,
+  "endTime": 1746156551870,
   "band_list": [
     {
       "raw_hot": 2306655,
@@ -163,8 +163,16 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1272960,
+      "num": 1272960,
+      "word": "刘烨 秒删党",
+      "onboard_time": 1746154469,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1263075,
-      "num": 637098,
+      "num": 641457,
       "word": "曾黎",
       "onboard_time": 1746000622,
       "rank": 36,
@@ -259,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 998509,
+      "num": 998509,
+      "word": "孙颖莎王楚钦公园陪打",
+      "onboard_time": 1746151708,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 993727,
       "num": 993727,
       "word": "富家女因缺爱拒绝巨额家产",
@@ -273,14 +289,6 @@
       "onboard_time": 1746110483,
       "rank": 13,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 976173,
-      "num": 976173,
-      "word": "孙颖莎王楚钦公园陪打",
-      "onboard_time": 1746151708,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 953917,
@@ -387,6 +395,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 767281,
+      "num": 314654,
+      "word": "董某莹事件唯有真相才能定纷止争",
+      "onboard_time": 1746152850,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 757736,
       "num": 270104,
       "word": "98年女孩做陪诊师曾月入10万",
@@ -451,14 +467,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 691217,
-      "num": 425797,
-      "word": "刘烨 秒删党",
-      "onboard_time": 1746154469,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 662827,
       "num": 662827,
       "word": "肖某称术中离开40分钟不属实",
@@ -489,6 +497,14 @@
       "onboard_time": 1746070761,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 636159,
+      "num": 316372,
+      "word": "曝博主抄袭B站UP主获利百万",
+      "onboard_time": 1746154290,
+      "rank": 13,
+      "category": "网红"
     },
     {
       "raw_hot": 633876,
@@ -600,14 +616,6 @@
       "word": "国家卫健委对肖某引发舆情问题开展调查",
       "onboard_time": 1746060381,
       "rank": 7,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 573382,
-      "num": 314654,
-      "word": "董某莹事件唯有真相才能定纷止争",
-      "onboard_time": 1746152850,
-      "rank": 11,
       "category": "民生新闻"
     },
     {
@@ -729,14 +737,6 @@
       "onboard_time": 1746090921,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 472004,
-      "num": 301357,
-      "word": "曝博主抄袭B站UP主获利百万",
-      "onboard_time": 1746154290,
-      "rank": 13,
-      "category": "网红"
     },
     {
       "raw_hot": 470234,
@@ -1203,6 +1203,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 284952,
+      "num": 284952,
+      "word": "外教被中国学生素质震惊",
+      "onboard_time": 1746155069,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 279355,
+      "num": 279355,
+      "word": "打过狂犬疫苗的人嘴真严",
+      "onboard_time": 1746155249,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 276748,
       "num": 237842,
       "word": "哪吒2登顶4月票房冠军",
@@ -1379,6 +1395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 236026,
+      "num": 161376,
+      "word": "买8楼送9楼10楼",
+      "onboard_time": 1746156209,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 232998,
       "num": 232998,
       "word": "华晨宇离百年老店还差99年11个月",
@@ -1419,12 +1443,28 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 222285,
+      "num": 222285,
+      "word": "真的不要和美甲师太熟",
+      "onboard_time": 1746155489,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 222033,
       "num": 403225,
       "word": "开拓者认亲现场",
       "onboard_time": 1746103283,
       "rank": 19,
       "category": "游戏,演出"
+    },
+    {
+      "raw_hot": 221533,
+      "num": 221533,
+      "word": "张凌赫说金靖气血不足",
+      "onboard_time": 1746151830,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 219632,
@@ -1571,6 +1611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203947,
+      "num": 203947,
+      "word": "军烨",
+      "onboard_time": 1746156030,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203909,
       "num": 262987,
       "word": "杭州最后一封电报发给了全体市民",
@@ -1619,6 +1667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200080,
+      "num": 289774,
+      "word": "一群富翁竟要求美国儿童做牺牲",
+      "onboard_time": 1746153329,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 199803,
       "num": 199803,
       "word": "森林狼vs湖人",
@@ -1633,6 +1689,14 @@
       "onboard_time": 1746061520,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 198419,
+      "num": 198419,
+      "word": "小米回应SU7Ultra限制1500匹马力",
+      "onboard_time": 1746151830,
+      "rank": 45,
+      "category": "汽车"
     },
     {
       "raw_hot": 198296,
@@ -2027,14 +2091,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 179254,
-      "num": 179254,
-      "word": "外教被中国学生素质震惊",
-      "onboard_time": 1746155069,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 178371,
       "num": 178371,
       "word": "第一次见开榴莲开出榴莲糖",
@@ -2171,22 +2227,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 169613,
-      "num": 169613,
-      "word": "小米回应SU7Ultra限制1500匹马力",
-      "onboard_time": 1746151830,
-      "rank": 45,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 168460,
-      "num": 168460,
-      "word": "一群富翁竟要求美国儿童做牺牲",
-      "onboard_time": 1746153329,
-      "rank": 25,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 167826,
       "num": 167826,
       "word": "央视五一晚会阵容",
@@ -2241,14 +2281,6 @@
       "onboard_time": 1746072920,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 165307,
-      "num": 165307,
-      "word": "张凌赫说金靖气血不足",
-      "onboard_time": 1746151830,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 162933,
@@ -2401,6 +2433,14 @@
       "onboard_time": 1746113244,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155571,
+      "num": 155571,
+      "word": "怎么还有人低估王一博演技",
+      "onboard_time": 1746155610,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 154683,
@@ -2603,6 +2643,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 145103,
+      "num": 145103,
+      "word": "80后国企财务成短剧恶婆婆专业户",
+      "onboard_time": 1746155610,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144816,
       "num": 144816,
       "word": "80后女博士养鸡20年获评劳模",
@@ -2689,14 +2737,6 @@
       "onboard_time": 1746110182,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 141090,
-      "num": 141090,
-      "word": "打过狂犬疫苗的人嘴真严",
-      "onboard_time": 1746155249,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 140924,
@@ -3011,6 +3051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128175,
+      "num": 128175,
+      "word": "感觉有一亿人在西双版纳泼水",
+      "onboard_time": 1746153150,
+      "rank": 41,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 128052,
       "num": 170644,
       "word": "倪妮说妈妈刘德华给我唱歌了",
@@ -3193,6 +3241,14 @@
       "onboard_time": 1746061219,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 122026,
+      "num": 122026,
+      "word": "奶茶我有七不喝",
+      "onboard_time": 1746156510,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 121516,
@@ -3449,14 +3505,6 @@
       "onboard_time": 1746067760,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 110460,
-      "num": 110460,
-      "word": "真的不要和美甲师太熟",
-      "onboard_time": 1746155489,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 110382,
@@ -3716,7 +3764,7 @@
     },
     {
       "raw_hot": 96840,
-      "num": 143591,
+      "num": 221789,
       "word": "詹姆斯至少再打一个赛季",
       "onboard_time": 1746149309,
       "rank": 42,
@@ -4099,6 +4147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 63387,
+      "num": 221544,
+      "word": "致敬了不起的工匠精神",
+      "onboard_time": 1746155728,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60617,
       "num": 60617,
       "word": "西湖游客调侃断桥要压断了",
@@ -4323,6 +4379,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 45002,
+      "num": 256293,
+      "word": "胡宇康郑九源3米板夺金",
+      "onboard_time": 1746156149,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 44215,
       "num": 117622,
       "word": "美乌矿产协议内容",
@@ -4385,6 +4449,14 @@
       "onboard_time": 1746076640,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 41078,
+      "num": 311061,
+      "word": "中国队夺跳水世界杯总决赛首金",
+      "onboard_time": 1746156149,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 41031,
@@ -4707,6 +4779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 17827,
+      "num": 123686,
+      "word": "名校推荐的纪录片有什么独特价值",
+      "onboard_time": 1746156510,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 17703,
       "num": 35211,
       "word": "潘玮柏力挺杨丞琳",
@@ -4859,6 +4939,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 11879,
+      "num": 163300,
+      "word": "猎金游戏背后的演员魅力何在",
+      "onboard_time": 1746155309,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 11656,
       "num": 38313,
       "word": "3分半回顾神十九183天",
@@ -4897,14 +4985,6 @@
       "onboard_time": 1746064881,
       "rank": 35,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 6001,
-      "num": 163300,
-      "word": "猎金游戏背后的演员魅力何在",
-      "onboard_time": 1746155309,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 3125,

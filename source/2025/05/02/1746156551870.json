@@ -1,0 +1,410 @@
+{
+  "runTime": 1746156551870,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1272960,
+        "num": 1272960,
+        "word": "刘烨 秒删党",
+        "onboard_time": 1746154469,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 998509,
+        "num": 998509,
+        "word": "孙颖莎王楚钦公园陪打",
+        "onboard_time": 1746151708,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25126,
+        "num": 707374,
+        "word": "劳动者的手每一双都了不起",
+        "onboard_time": 1746104723,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1178668,
+        "num": 641457,
+        "word": "曾黎",
+        "onboard_time": 1746150268,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 503453,
+        "num": 503453,
+        "word": "特朗普承认货架或将变空",
+        "onboard_time": 1746150448,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 319816,
+        "num": 319816,
+        "word": "年轻人开始流行旅游摆摊了",
+        "onboard_time": 1746149610,
+        "rank": 5,
+        "category": "民生新闻,幽默"
+      },
+      {
+        "raw_hot": 936320,
+        "num": 317273,
+        "word": "外交部回应韩国偶像组合将赴华演出",
+        "onboard_time": 1746149128,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 636159,
+        "num": 316372,
+        "word": "曝博主抄袭B站UP主获利百万",
+        "onboard_time": 1746154290,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 314402,
+        "num": 314402,
+        "word": "中方正在评估是否和美方谈",
+        "onboard_time": 1746146489,
+        "rank": 8,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 41078,
+        "num": 311061,
+        "word": "中国队夺跳水世界杯总决赛首金",
+        "onboard_time": 1746156149,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 767281,
+        "num": 305672,
+        "word": "董某莹事件唯有真相才能定纷止争",
+        "onboard_time": 1746152850,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 465554,
+        "num": 299462,
+        "word": "唐嫣工作室重组",
+        "onboard_time": 1746151349,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 438797,
+        "num": 293700,
+        "word": "石凯前女友称订婚是AA",
+        "onboard_time": 1746152729,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200080,
+        "num": 289774,
+        "word": "一群富翁竟要求美国儿童做牺牲",
+        "onboard_time": 1746153329,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 287322,
+        "num": 287322,
+        "word": "全红婵神级采访又来了",
+        "onboard_time": 1746152608,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 427128,
+        "num": 286624,
+        "word": "石凯前女友回应",
+        "onboard_time": 1746144618,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 418300,
+        "num": 285937,
+        "word": "gidle改名idle",
+        "onboard_time": 1746111142,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284952,
+        "num": 284952,
+        "word": "外教被中国学生素质震惊",
+        "onboard_time": 1746155069,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279355,
+        "num": 279355,
+        "word": "打过狂犬疫苗的人嘴真严",
+        "onboard_time": 1746155249,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 45002,
+        "num": 256293,
+        "word": "胡宇康郑九源3米板夺金",
+        "onboard_time": 1746156149,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 924557,
+        "num": 251897,
+        "word": "金价暴跌有人一夜亏47万",
+        "onboard_time": 1746118698,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 242120,
+        "num": 242120,
+        "word": "女子请病假追星被辞退起诉赔偿被驳",
+        "onboard_time": 1746144319,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241549,
+        "num": 241549,
+        "word": "种了27年的地因未退耕被判刑6个月",
+        "onboard_time": 1746147268,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222285,
+        "num": 222285,
+        "word": "真的不要和美甲师太熟",
+        "onboard_time": 1746155489,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 33055,
+        "num": 221789,
+        "word": "詹姆斯至少再打一个赛季",
+        "onboard_time": 1746149309,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63387,
+        "num": 221544,
+        "word": "致敬了不起的工匠精神",
+        "onboard_time": 1746155728,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221533,
+        "num": 221533,
+        "word": "张凌赫说金靖气血不足",
+        "onboard_time": 1746151830,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203947,
+        "num": 203947,
+        "word": "军烨",
+        "onboard_time": 1746156030,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198419,
+        "num": 198419,
+        "word": "小米回应SU7Ultra限制1500匹马力",
+        "onboard_time": 1746151830,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 176404,
+        "num": 176404,
+        "word": "美方多次主动向中方传递信息想谈",
+        "onboard_time": 1746146489,
+        "rank": 29,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 11879,
+        "num": 161815,
+        "word": "猎金游戏背后的演员魅力何在",
+        "onboard_time": 1746155309,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 236026,
+        "num": 161376,
+        "word": "买8楼送9楼10楼",
+        "onboard_time": 1746156209,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160054,
+        "num": 160054,
+        "word": "布伦森绝杀",
+        "onboard_time": 1746154469,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159231,
+        "num": 159231,
+        "word": "王励勤强调国乒是一个集体",
+        "onboard_time": 1746152249,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155571,
+        "num": 155571,
+        "word": "怎么还有人低估王一博演技",
+        "onboard_time": 1746155610,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145103,
+        "num": 145103,
+        "word": "80后国企财务成短剧恶婆婆专业户",
+        "onboard_time": 1746155610,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140074,
+        "num": 140074,
+        "word": "严浩翔 染发",
+        "onboard_time": 1746143779,
+        "rank": 36,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 138581,
+        "num": 138581,
+        "word": "你的指甲盖真像刘亦菲",
+        "onboard_time": 1746115882,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135345,
+        "num": 135345,
+        "word": "水饺皇后",
+        "onboard_time": 1746155008,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 130324,
+        "num": 130324,
+        "word": "店主往笼子里放5只小猫忙出残影",
+        "onboard_time": 1746151769,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129044,
+        "num": 129044,
+        "word": "宋雨琦把跑男具象化了",
+        "onboard_time": 1746153449,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128175,
+        "num": 128175,
+        "word": "感觉有一亿人在西双版纳泼水",
+        "onboard_time": 1746153150,
+        "rank": 41,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 128065,
+        "num": 128065,
+        "word": "彭昱畅这么帅了",
+        "onboard_time": 1746111023,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124831,
+        "num": 124831,
+        "word": "价值4.1亿画作展出时被小孩刮花",
+        "onboard_time": 1746110483,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 17827,
+        "num": 123686,
+        "word": "名校推荐的纪录片有什么独特价值",
+        "onboard_time": 1746156510,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 122651,
+        "num": 122651,
+        "word": "钢铁大王遭绑儿子被嫌犯甩锅是主谋",
+        "onboard_time": 1746143179,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 122026,
+        "num": 122026,
+        "word": "奶茶我有七不喝",
+        "onboard_time": 1746156510,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120325,
+        "num": 120325,
+        "word": "掘金vs快船",
+        "onboard_time": 1746154827,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119519,
+        "num": 119519,
+        "word": "涉肖某董某事件多个账号被禁言",
+        "onboard_time": 1746140957,
+        "rank": 48,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 119129,
+        "num": 119129,
+        "word": "四川观察",
+        "onboard_time": 1746151708,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光的你#"
+    }
+  }
+}
