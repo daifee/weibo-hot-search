@@ -1,7 +1,15 @@
 {
   "startTime": 1746117084529,
-  "endTime": 1746164526341,
+  "endTime": 1746167709759,
   "band_list": [
+    {
+      "raw_hot": 1806030,
+      "num": 1806030,
+      "word": "曾黎工作室徽章失窃",
+      "onboard_time": 1746163710,
+      "rank": 16,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1613120,
       "num": 352004,
@@ -49,6 +57,14 @@
       "onboard_time": 1746157950,
       "rank": 26,
       "category": "辟谣/通报,演出"
+    },
+    {
+      "raw_hot": 1159218,
+      "num": 283000,
+      "word": "董小姐在她一作的论文里负责翻译",
+      "onboard_time": 1746163890,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1158044,
@@ -147,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 650192,
+      "num": 417654,
+      "word": "吴宣仪拒绝叶童",
+      "onboard_time": 1746164129,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 636159,
       "num": 480831,
       "word": "曝博主抄袭B站UP主获利百万",
@@ -235,6 +259,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 552591,
+      "num": 299185,
+      "word": "董力婚后和初恋单独吃过饭",
+      "onboard_time": 1746166589,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 533550,
       "num": 533550,
       "word": "特朗普承认货架或将变空",
@@ -283,6 +315,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 477099,
+      "num": 278455,
+      "word": "孟子义打小眼睛就大",
+      "onboard_time": 1746164429,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 459790,
       "num": 459790,
       "word": "第一大波游客已经抵达山西",
@@ -313,6 +353,14 @@
       "onboard_time": 1746103942,
       "rank": 20,
       "category": "财经"
+    },
+    {
+      "raw_hot": 442384,
+      "num": 235820,
+      "word": "曾黎掉粉超10万",
+      "onboard_time": 1746162630,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 439383,
@@ -411,14 +459,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 328764,
-      "num": 283000,
-      "word": "董小姐在她一作的论文里负责翻译",
-      "onboard_time": 1746163890,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 328553,
       "num": 328553,
       "word": "一群富翁竟要求美国儿童做牺牲",
@@ -475,12 +515,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 280956,
-      "num": 280956,
-      "word": "曾黎工作室徽章失窃",
-      "onboard_time": 1746163710,
-      "rank": 16,
-      "category": "艺人"
+      "raw_hot": 282811,
+      "num": 235510,
+      "word": "生命树开机",
+      "onboard_time": 1746163650,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 280660,
@@ -531,20 +571,28 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 246619,
+      "num": 235272,
+      "word": "45岁的王祖蓝在邓超怀里像个孩子",
+      "onboard_time": 1746164729,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 236205,
+      "num": 236205,
+      "word": "协和4加4培养出的董医生医术如何",
+      "onboard_time": 1746164849,
+      "rank": 8,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 233497,
       "num": 233497,
       "word": "kpop",
       "onboard_time": 1746161850,
       "rank": 24,
       "category": "演出"
-    },
-    {
-      "raw_hot": 233179,
-      "num": 233179,
-      "word": "曾黎掉粉超10万",
-      "onboard_time": 1746162630,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 231072,
@@ -555,20 +603,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 229689,
-      "num": 229689,
-      "word": "吴宣仪拒绝叶童",
-      "onboard_time": 1746164129,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 227878,
       "num": 276745,
       "word": "姚晨带子女在厦门赶海",
       "onboard_time": 1746162390,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 225594,
+      "num": 234901,
+      "word": "AXIZ对战WBG",
+      "onboard_time": 1746164309,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 221533,
@@ -585,14 +633,6 @@
       "onboard_time": 1746149068,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 219284,
-      "num": 219284,
-      "word": "生命树开机",
-      "onboard_time": 1746163650,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 206893,
@@ -755,6 +795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170849,
+      "num": 170849,
+      "word": "华晨宇户外演唱会开空调",
+      "onboard_time": 1746165390,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 167542,
       "num": 167542,
       "word": "吃蓝莓前记得给它掏耳朵",
@@ -768,6 +816,14 @@
       "word": "韩泰山",
       "onboard_time": 1746147029,
       "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 167205,
+      "num": 167205,
+      "word": "染发",
+      "onboard_time": 1746166228,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -801,6 +857,14 @@
       "onboard_time": 1746154529,
       "rank": 28,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 161781,
+      "num": 161781,
+      "word": "CP不要随便离婚",
+      "onboard_time": 1746164669,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 161094,
@@ -929,6 +993,14 @@
       "onboard_time": 1746162029,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145875,
+      "num": 145875,
+      "word": "五一假期是捅人窝了吧",
+      "onboard_time": 1746166410,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 145873,
@@ -1083,6 +1155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130353,
+      "num": 130353,
+      "word": "230斤女孩嗜甜如命吃进ICU",
+      "onboard_time": 1746166650,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128817,
       "num": 128817,
       "word": "看得出来各地文旅这个假期很努力了",
@@ -1131,14 +1211,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 126880,
-      "num": 126880,
-      "word": "AXIZ对战WBG",
-      "onboard_time": 1746164309,
-      "rank": 45,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 126544,
       "num": 126544,
       "word": "日本皇室史上首次被偷生活费",
@@ -1147,11 +1219,11 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 126024,
-      "num": 126024,
-      "word": "孟子义打小眼睛就大",
-      "onboard_time": 1746164429,
-      "rank": 46,
+      "raw_hot": 126197,
+      "num": 126197,
+      "word": "李艺彤哭了",
+      "onboard_time": 1746167431,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -1187,6 +1259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118804,
+      "num": 118804,
+      "word": "唐国强230秒面试给毕业生亿点震撼",
+      "onboard_time": 1746165450,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118772,
       "num": 121887,
       "word": "小孩哥说孙颖莎和自己一样可爱",
@@ -1201,6 +1281,14 @@
       "onboard_time": 1746102861,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115687,
+      "num": 115687,
+      "word": "家人回应大爷掉坑3个月终于找到了",
+      "onboard_time": 1746166710,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 113730,
@@ -1251,12 +1339,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 109466,
+      "num": 173165,
+      "word": "刘诗诗听说这是个放假休息的好去处",
+      "onboard_time": 1746166650,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107829,
       "num": 107829,
       "word": "女子用餐后将擦鼻涕纸扔进碗罐",
       "onboard_time": 1746104422,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106897,
+      "num": 106897,
+      "word": "身体上的喜爱是骗不了人的",
+      "onboard_time": 1746167249,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 106590,
@@ -1275,6 +1379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 104622,
+      "num": 104622,
+      "word": "藏珠开播",
+      "onboard_time": 1746166829,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 104558,
       "num": 104558,
       "word": "赵丽颖云合断层第一",
@@ -1289,6 +1401,14 @@
       "onboard_time": 1746157049,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103886,
+      "num": 235011,
+      "word": "王楚钦被球砸脸还笑场",
+      "onboard_time": 1746167309,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 103299,
@@ -1467,6 +1587,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 72283,
+      "num": 225205,
+      "word": "哈登28分",
+      "onboard_time": 1746167369,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 66029,
       "num": 66029,
       "word": "LoverBoy88一响白月光登场",
@@ -1489,6 +1617,14 @@
       "onboard_time": 1746142158,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 63806,
+      "num": 236146,
+      "word": "日本3个月前坠坑老人确认死亡",
+      "onboard_time": 1746166889,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 63387,
@@ -1529,6 +1665,14 @@
       "onboard_time": 1746128175,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56961,
+      "num": 235046,
+      "word": "特朗普建议商科学生投身工厂",
+      "onboard_time": 1746166889,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 56372,
@@ -1649,6 +1793,14 @@
       "onboard_time": 1746159089,
       "rank": 39,
       "category": "旅游,民生新闻"
+    },
+    {
+      "raw_hot": 36915,
+      "num": 235250,
+      "word": "如何用肉眼判断蓝莓的好坏",
+      "onboard_time": 1746166889,
+      "rank": 17,
+      "category": "科学科普"
     },
     {
       "raw_hot": 34033,
@@ -1859,6 +2011,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 12551,
+      "num": 137424,
+      "word": "终于知道算盘是怎么用的了",
+      "onboard_time": 1746167132,
+      "rank": 38,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 12232,
       "num": 247929,
       "word": "实测特供中国游客的泰国海岛",
@@ -1889,6 +2049,14 @@
       "onboard_time": 1746164490,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9229,
+      "num": 133521,
+      "word": "日本落坑老人搜救再开",
+      "onboard_time": 1746166889,
+      "rank": 39,
+      "category": "海外新闻"
     }
   ],
   "hotgov_list": [

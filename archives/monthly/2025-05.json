@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746164526341,
+  "endTime": 1746167709759,
   "band_list": [
     {
       "raw_hot": 2306655,
@@ -41,6 +41,14 @@
       "onboard_time": 1746084561,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1806030,
+      "num": 1806030,
+      "word": "曾黎工作室徽章失窃",
+      "onboard_time": 1746163710,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 1786906,
@@ -217,6 +225,14 @@
       "onboard_time": 1746090921,
       "rank": 31,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1159218,
+      "num": 283000,
+      "word": "董小姐在她一作的论文里负责翻译",
+      "onboard_time": 1746163890,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1158044,
@@ -515,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 650192,
+      "num": 417654,
+      "word": "吴宣仪拒绝叶童",
+      "onboard_time": 1746164129,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 646784,
       "num": 646784,
       "word": "12306回应网友质疑五一前大量放票",
@@ -691,6 +715,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 552591,
+      "num": 299185,
+      "word": "董力婚后和初恋单独吃过饭",
+      "onboard_time": 1746166589,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 550932,
       "num": 550932,
       "word": "森林狼淘汰湖人",
@@ -795,6 +827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 477099,
+      "num": 278455,
+      "word": "孟子义打小眼睛就大",
+      "onboard_time": 1746164429,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 475308,
       "num": 407792,
       "word": "对肖某董某要零容忍彻查到底",
@@ -857,6 +897,14 @@
       "onboard_time": 1746146489,
       "rank": 5,
       "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 442384,
+      "num": 235820,
+      "word": "曾黎掉粉超10万",
+      "onboard_time": 1746162630,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 442081,
@@ -1115,14 +1163,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 328764,
-      "num": 283000,
-      "word": "董小姐在她一作的论文里负责翻译",
-      "onboard_time": 1746163890,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 328553,
       "num": 328553,
       "word": "一群富翁竟要求美国儿童做牺牲",
@@ -1331,12 +1371,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 280956,
-      "num": 280956,
-      "word": "曾黎工作室徽章失窃",
-      "onboard_time": 1746163710,
-      "rank": 16,
-      "category": "艺人"
+      "raw_hot": 282811,
+      "num": 235510,
+      "word": "生命树开机",
+      "onboard_time": 1746163650,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 276748,
@@ -1491,6 +1531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 246619,
+      "num": 235272,
+      "word": "45岁的王祖蓝在邓超怀里像个孩子",
+      "onboard_time": 1746164729,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 246317,
       "num": 188806,
       "word": "沈马cp粉",
@@ -1523,20 +1571,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 236205,
+      "num": 236205,
+      "word": "协和4加4培养出的董医生医术如何",
+      "onboard_time": 1746164849,
+      "rank": 8,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 233497,
       "num": 233497,
       "word": "kpop",
       "onboard_time": 1746161850,
       "rank": 24,
       "category": "演出"
-    },
-    {
-      "raw_hot": 233179,
-      "num": 233179,
-      "word": "曾黎掉粉超10万",
-      "onboard_time": 1746162630,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 232998,
@@ -1563,14 +1611,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 229689,
-      "num": 229689,
-      "word": "吴宣仪拒绝叶童",
-      "onboard_time": 1746164129,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 227878,
       "num": 276745,
       "word": "姚晨带子女在厦门赶海",
@@ -1593,6 +1633,14 @@
       "onboard_time": 1746067640,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 225594,
+      "num": 234901,
+      "word": "AXIZ对战WBG",
+      "onboard_time": 1746164309,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 223111,
@@ -1625,14 +1673,6 @@
       "onboard_time": 1746149068,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 219284,
-      "num": 219284,
-      "word": "生命树开机",
-      "onboard_time": 1746163650,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 218913,
@@ -2443,6 +2483,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 170849,
+      "num": 170849,
+      "word": "华晨宇户外演唱会开空调",
+      "onboard_time": 1746165390,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 170591,
       "num": 170591,
       "word": "管乐侯佩岑撒娇女人最好命",
@@ -2488,6 +2536,14 @@
       "word": "韩泰山",
       "onboard_time": 1746147029,
       "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 167205,
+      "num": 167205,
+      "word": "染发",
+      "onboard_time": 1746166228,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -2553,6 +2609,14 @@
       "onboard_time": 1746154529,
       "rank": 28,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 161781,
+      "num": 161781,
+      "word": "CP不要随便离婚",
+      "onboard_time": 1746164669,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 161703,
@@ -2921,6 +2985,14 @@
       "onboard_time": 1746072620,
       "rank": 48,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 145875,
+      "num": 145875,
+      "word": "五一假期是捅人窝了吧",
+      "onboard_time": 1746166410,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 145873,
@@ -3395,6 +3467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130353,
+      "num": 130353,
+      "word": "230斤女孩嗜甜如命吃进ICU",
+      "onboard_time": 1746166650,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130161,
       "num": 130161,
       "word": "十个勤天新单曲生来不让",
@@ -3507,14 +3587,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 126880,
-      "num": 126880,
-      "word": "AXIZ对战WBG",
-      "onboard_time": 1746164309,
-      "rank": 45,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 126844,
       "num": 126844,
       "word": "抢不到演唱会门票可以找孙俪吗",
@@ -3539,20 +3611,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 126197,
+      "num": 126197,
+      "word": "李艺彤哭了",
+      "onboard_time": 1746167431,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126191,
       "num": 126191,
       "word": "PEL春季常规赛荣誉颁奖",
       "onboard_time": 1746076881,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 126024,
-      "num": 126024,
-      "word": "孟子义打小眼睛就大",
-      "onboard_time": 1746164429,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 125654,
@@ -3723,6 +3795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118804,
+      "num": 118804,
+      "word": "唐国强230秒面试给毕业生亿点震撼",
+      "onboard_time": 1746165450,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118772,
       "num": 121887,
       "word": "小孩哥说孙颖莎和自己一样可爱",
@@ -3809,6 +3889,14 @@
       "onboard_time": 1746057379,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 115687,
+      "num": 115687,
+      "word": "家人回应大爷掉坑3个月终于找到了",
+      "onboard_time": 1746166710,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 115596,
@@ -3987,6 +4075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109466,
+      "num": 173165,
+      "word": "刘诗诗听说这是个放假休息的好去处",
+      "onboard_time": 1746166650,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 109187,
       "num": 109187,
       "word": "杨紫和牡丹合影",
@@ -4059,6 +4155,14 @@
       "category": "旅游,民生新闻"
     },
     {
+      "raw_hot": 106897,
+      "num": 106897,
+      "word": "身体上的喜爱是骗不了人的",
+      "onboard_time": 1746167249,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 106590,
       "num": 106590,
       "word": "韩德君 退役",
@@ -4091,6 +4195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104622,
+      "num": 104622,
+      "word": "藏珠开播",
+      "onboard_time": 1746166829,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 104144,
       "num": 137346,
       "word": "沙县小吃为什么没人吃了",
@@ -4105,6 +4217,14 @@
       "onboard_time": 1746157049,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103886,
+      "num": 235011,
+      "word": "王楚钦被球砸脸还笑场",
+      "onboard_time": 1746167309,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 103299,
@@ -4507,6 +4627,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 72283,
+      "num": 225205,
+      "word": "哈登28分",
+      "onboard_time": 1746167369,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 72226,
       "num": 164491,
       "word": "美军用秘密武器打击伊朗核设施",
@@ -4603,6 +4731,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 63806,
+      "num": 236146,
+      "word": "日本3个月前坠坑老人确认死亡",
+      "onboard_time": 1746166889,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 63628,
       "num": 913615,
       "word": "五一出行天气提醒",
@@ -4673,6 +4809,14 @@
       "onboard_time": 1746128175,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56961,
+      "num": 235046,
+      "word": "特朗普建议商科学生投身工厂",
+      "onboard_time": 1746166889,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 56372,
@@ -5001,6 +5145,14 @@
       "onboard_time": 1746159089,
       "rank": 39,
       "category": "旅游,民生新闻"
+    },
+    {
+      "raw_hot": 36915,
+      "num": 235250,
+      "word": "如何用肉眼判断蓝莓的好坏",
+      "onboard_time": 1746166889,
+      "rank": 17,
+      "category": "科学科普"
     },
     {
       "raw_hot": 36790,
@@ -5451,6 +5603,14 @@
       "category": "游戏,动漫"
     },
     {
+      "raw_hot": 12551,
+      "num": 137424,
+      "word": "终于知道算盘是怎么用的了",
+      "onboard_time": 1746167132,
+      "rank": 38,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 12232,
       "num": 247929,
       "word": "实测特供中国游客的泰国海岛",
@@ -5513,6 +5673,14 @@
       "onboard_time": 1746091701,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 9229,
+      "num": 133521,
+      "word": "日本落坑老人搜救再开",
+      "onboard_time": 1746166889,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 7401,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1746167709759,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1806030,
+        "num": 1806030,
+        "word": "曾黎工作室徽章失窃",
+        "onboard_time": 1746163710,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 473889,
+        "num": 473889,
+        "word": "中国中央广播电视总台没有邀请Kpop",
+        "onboard_time": 1746157950,
+        "rank": 1,
+        "category": "辟谣/通报,演出"
+      },
+      {
+        "raw_hot": 30142,
+        "num": 417959,
+        "word": "致敬了不起的工匠精神",
+        "onboard_time": 1746155728,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 650192,
+        "num": 417654,
+        "word": "吴宣仪拒绝叶童",
+        "onboard_time": 1746164129,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 415807,
+        "num": 415807,
+        "word": "日本掉坑大爷终于找到了",
+        "onboard_time": 1746158969,
+        "rank": 4,
+        "category": "海外新闻,民生新闻"
+      },
+      {
+        "raw_hot": 300343,
+        "num": 300343,
+        "word": "奶茶我有七不喝",
+        "onboard_time": 1746156510,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 552591,
+        "num": 299185,
+        "word": "董力婚后和初恋单独吃过饭",
+        "onboard_time": 1746166589,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 477099,
+        "num": 278455,
+        "word": "孟子义打小眼睛就大",
+        "onboard_time": 1746164429,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236205,
+        "num": 236205,
+        "word": "协和4加4培养出的董医生医术如何",
+        "onboard_time": 1746164849,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 63806,
+        "num": 236146,
+        "word": "日本3个月前坠坑老人确认死亡",
+        "onboard_time": 1746166889,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1159218,
+        "num": 236061,
+        "word": "董小姐在她一作的论文里负责翻译",
+        "onboard_time": 1746163890,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 738498,
+        "num": 235895,
+        "word": "买8楼送9楼10楼",
+        "onboard_time": 1746156209,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 442384,
+        "num": 235820,
+        "word": "曾黎掉粉超10万",
+        "onboard_time": 1746162630,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300581,
+        "num": 235641,
+        "word": "徐老师婚纱照",
+        "onboard_time": 1746157350,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 282811,
+        "num": 235510,
+        "word": "生命树开机",
+        "onboard_time": 1746163650,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273939,
+        "num": 235418,
+        "word": "真的不要和美甲师太熟",
+        "onboard_time": 1746155489,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 246619,
+        "num": 235272,
+        "word": "45岁的王祖蓝在邓超怀里像个孩子",
+        "onboard_time": 1746164729,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36915,
+        "num": 235250,
+        "word": "如何用肉眼判断蓝莓的好坏",
+        "onboard_time": 1746166889,
+        "rank": 17,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 56961,
+        "num": 235046,
+        "word": "特朗普建议商科学生投身工厂",
+        "onboard_time": 1746166889,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 103886,
+        "num": 235011,
+        "word": "王楚钦被球砸脸还笑场",
+        "onboard_time": 1746167309,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225594,
+        "num": 234901,
+        "word": "AXIZ对战WBG",
+        "onboard_time": 1746164309,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 514284,
+        "num": 234714,
+        "word": "金价暴跌有人一夜亏47万",
+        "onboard_time": 1746118698,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 234664,
+        "num": 234664,
+        "word": "饶毅再发文谈协和4加4制度",
+        "onboard_time": 1746161550,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228570,
+        "num": 228570,
+        "word": "曾黎",
+        "onboard_time": 1746150268,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72283,
+        "num": 225205,
+        "word": "哈登28分",
+        "onboard_time": 1746167369,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221872,
+        "num": 221872,
+        "word": "董某莹事件唯有真相才能定纷止争",
+        "onboard_time": 1746152850,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213412,
+        "num": 213412,
+        "word": "为什么全国景区都有这种水果",
+        "onboard_time": 1746156689,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 212795,
+        "num": 212795,
+        "word": "王励勤强调国乒是一个集体",
+        "onboard_time": 1746152249,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210857,
+        "num": 210857,
+        "word": "十三州府澄清",
+        "onboard_time": 1746161249,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109466,
+        "num": 173165,
+        "word": "刘诗诗听说这是个放假休息的好去处",
+        "onboard_time": 1746166650,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170849,
+        "num": 170849,
+        "word": "华晨宇户外演唱会开空调",
+        "onboard_time": 1746165390,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 167205,
+        "num": 167205,
+        "word": "染发",
+        "onboard_time": 1746166228,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161781,
+        "num": 161781,
+        "word": "CP不要随便离婚",
+        "onboard_time": 1746164669,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 98252,
+        "num": 155616,
+        "word": "周扬青自曝着装曾被PUA",
+        "onboard_time": 1746159449,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149782,
+        "num": 149782,
+        "word": "陈丽君陈昊宇唱花田错",
+        "onboard_time": 1746162390,
+        "rank": 34,
+        "category": "综艺,演出"
+      },
+      {
+        "raw_hot": 147008,
+        "num": 147008,
+        "word": "虞书欣夹心摇",
+        "onboard_time": 1746162930,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145875,
+        "num": 145875,
+        "word": "五一假期是捅人窝了吧",
+        "onboard_time": 1746166410,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145489,
+        "num": 145489,
+        "word": "孙颖莎王楚钦公园陪打",
+        "onboard_time": 1746151708,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12551,
+        "num": 137424,
+        "word": "终于知道算盘是怎么用的了",
+        "onboard_time": 1746167132,
+        "rank": 38,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 9229,
+        "num": 133521,
+        "word": "日本落坑老人搜救再开",
+        "onboard_time": 1746166889,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 130353,
+        "num": 130353,
+        "word": "230斤女孩嗜甜如命吃进ICU",
+        "onboard_time": 1746166650,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126197,
+        "num": 126197,
+        "word": "李艺彤哭了",
+        "onboard_time": 1746167431,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119770,
+        "num": 119770,
+        "word": "gidle改名idle",
+        "onboard_time": 1746111142,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118804,
+        "num": 118804,
+        "word": "唐国强230秒面试给毕业生亿点震撼",
+        "onboard_time": 1746165450,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115687,
+        "num": 115687,
+        "word": "家人回应大爷掉坑3个月终于找到了",
+        "onboard_time": 1746166710,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 111685,
+        "num": 111685,
+        "word": "石凯前女友称订婚是AA",
+        "onboard_time": 1746152729,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107381,
+        "num": 107381,
+        "word": "叶童三公第一",
+        "onboard_time": 1746160830,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106897,
+        "num": 106897,
+        "word": "身体上的喜爱是骗不了人的",
+        "onboard_time": 1746167249,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104622,
+        "num": 104622,
+        "word": "藏珠开播",
+        "onboard_time": 1746166829,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101714,
+        "num": 101714,
+        "word": "kpop",
+        "onboard_time": 1746161850,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记关怀劳动者的温暖瞬间#"
+    }
+  }
+}
