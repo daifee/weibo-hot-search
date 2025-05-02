@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1746184865902,
+  "endTime": 1746185833086,
   "band_list": [
     {
       "raw_hot": 8960529,
@@ -1100,7 +1100,7 @@
     },
     {
       "raw_hot": 1054624,
-      "num": 522651,
+      "num": 885162,
       "word": "董明珠想不通有人天天搞小三小四",
       "onboard_time": 1746182610,
       "rank": 48,
@@ -1417,6 +1417,14 @@
       "onboard_time": 1746032899,
       "rank": 3,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 885742,
+      "num": 885742,
+      "word": "比尔盖茨被爆患阿斯伯格综合征",
+      "onboard_time": 1746183929,
+      "rank": 17,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 878845,
@@ -3116,7 +3124,7 @@
     },
     {
       "raw_hot": 495052,
-      "num": 264332,
+      "num": 265572,
       "word": "红秀 何秋亊",
       "onboard_time": 1746178289,
       "rank": 25,
@@ -3497,6 +3505,14 @@
       "onboard_time": 1745974641,
       "rank": 7,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 449716,
+      "num": 449716,
+      "word": "弟弟疯狂试探姐姐严防死守",
+      "onboard_time": 1746180450,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 447126,
@@ -4027,6 +4043,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 389634,
+      "num": 333956,
+      "word": "赵又廷的财富自由是老婆给的",
+      "onboard_time": 1746183990,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 388843,
       "num": 388843,
       "word": "章若楠新剧婚礼变葬礼",
@@ -4404,7 +4428,7 @@
     },
     {
       "raw_hot": 347513,
-      "num": 248910,
+      "num": 326650,
       "word": "gidle神女风",
       "onboard_time": 1746181770,
       "rank": 22,
@@ -5545,14 +5569,6 @@
       "onboard_time": 1745904863,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 268693,
-      "num": 243990,
-      "word": "弟弟疯狂试探姐姐严防死守",
-      "onboard_time": 1746180450,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 268370,
@@ -6923,14 +6939,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 212452,
-      "num": 243064,
-      "word": "赵又廷的财富自由是老婆给的",
-      "onboard_time": 1746183990,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 212366,
       "num": 212366,
       "word": "李昇基与岳父家断绝关系",
@@ -7499,6 +7507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202257,
+      "num": 202257,
+      "word": "跳水世界杯",
+      "onboard_time": 1746185250,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201948,
       "num": 201948,
       "word": "民营经济促进法5月20日施行",
@@ -7585,6 +7601,14 @@
       "onboard_time": 1746081140,
       "rank": 29,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 200558,
+      "num": 200558,
+      "word": "翟潇闻音乐节",
+      "onboard_time": 1746184709,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 200396,
@@ -7915,6 +7939,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 195821,
+      "num": 195821,
+      "word": "王安宇cha了时团新歌",
+      "onboard_time": 1746182430,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 195680,
       "num": 195680,
       "word": "乘风",
@@ -7993,6 +8025,22 @@
       "onboard_time": 1745746521,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 194410,
+      "num": 199918,
+      "word": "张新成羊毛卷",
+      "onboard_time": 1746185009,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 194358,
+      "num": 194358,
+      "word": "蛮好的人生大结局",
+      "onboard_time": 1746184350,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 194356,
@@ -8107,6 +8155,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 193537,
+      "num": 193537,
+      "word": "非遗里的中国海南篇",
+      "onboard_time": 1746185310,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 193397,
       "num": 193397,
       "word": "前任身份勾栏手段正宫做派",
@@ -8129,6 +8185,14 @@
       "onboard_time": 1745830822,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193246,
+      "num": 193246,
+      "word": "丁程鑫下套 马嘉祺上当",
+      "onboard_time": 1746184591,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 193236,
@@ -9491,6 +9555,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 173259,
+      "num": 173259,
+      "word": "00后重新定义了这些中国宝贝",
+      "onboard_time": 1746184591,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 173181,
       "num": 173181,
       "word": "陆虎不再参加比赛的原因找到了",
@@ -9995,6 +10067,14 @@
       "category": "旅游,民生新闻"
     },
     {
+      "raw_hot": 165507,
+      "num": 165507,
+      "word": "为什么不上捏捏",
+      "onboard_time": 1746182790,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 165448,
       "num": 165448,
       "word": "26岁女子生娃后长高3cm",
@@ -10339,14 +10419,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 161402,
-      "num": 242648,
-      "word": "比尔盖茨被爆患阿斯伯格综合征",
-      "onboard_time": 1746183929,
-      "rank": 17,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 161175,
       "num": 161175,
       "word": "占位",
@@ -10585,14 +10657,6 @@
       "onboard_time": 1745734881,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 158819,
-      "num": 158819,
-      "word": "王安宇cha了时团新歌",
-      "onboard_time": 1746182430,
-      "rank": 43,
-      "category": "音乐"
     },
     {
       "raw_hot": 158609,
@@ -11051,6 +11115,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 153474,
+      "num": 336486,
+      "word": "解码中国AI的高光瞬间",
+      "onboard_time": 1746184229,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 153367,
       "num": 440662,
       "word": "李周浩任韩国代总统",
@@ -11177,14 +11249,6 @@
       "onboard_time": 1746078621,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 151977,
-      "num": 151977,
-      "word": "解码中国AI的高光瞬间",
-      "onboard_time": 1746184229,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 151934,
@@ -12131,20 +12195,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 141746,
-      "num": 141746,
-      "word": "蛮好的人生大结局",
-      "onboard_time": 1746184350,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 141710,
       "num": 141710,
       "word": "赵露思新歌预告",
       "onboard_time": 1745996241,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 141600,
+      "num": 141600,
+      "word": "小猫攻击前的准备动作是扭屁股",
+      "onboard_time": 1746184950,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 141513,
@@ -13155,14 +13219,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 130309,
-      "num": 130309,
-      "word": "丁程鑫下套 马嘉祺上当",
-      "onboard_time": 1746184591,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 130298,
       "num": 130298,
       "word": "吴彤爆余宇涵被换角想订机票回家",
@@ -13233,6 +13289,14 @@
       "onboard_time": 1745995401,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 128940,
+      "num": 128940,
+      "word": "奔跑吧",
+      "onboard_time": 1746182189,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 128932,
@@ -13491,14 +13555,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 126776,
-      "num": 126776,
-      "word": "00后重新定义了这些中国宝贝",
-      "onboard_time": 1746184591,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 126668,
       "num": 126668,
       "word": "王源5.1还有惊喜",
@@ -13561,6 +13617,14 @@
       "onboard_time": 1746076881,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 126166,
+      "num": 126166,
+      "word": "赵心童连胜四局",
+      "onboard_time": 1746185550,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 126111,
@@ -13720,14 +13784,6 @@
       "word": "歌手2025",
       "onboard_time": 1745902103,
       "rank": 49,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 123331,
-      "num": 123331,
-      "word": "奔跑吧",
-      "onboard_time": 1746182189,
-      "rank": 45,
       "category": "综艺"
     },
     {
@@ -14025,6 +14081,14 @@
       "onboard_time": 1746024443,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 120034,
+      "num": 120034,
+      "word": "如果你看到一个人朋友圈干干净净",
+      "onboard_time": 1746183389,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 119976,
@@ -14523,14 +14587,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 113356,
-      "num": 113356,
-      "word": "翟潇闻音乐节",
-      "onboard_time": 1746184709,
-      "rank": 45,
-      "category": "演出"
-    },
-    {
       "raw_hot": 113199,
       "num": 113199,
       "word": "尼克斯淘汰活塞",
@@ -14648,6 +14704,14 @@
       "word": "祝佣兵宁芙奖出道",
       "onboard_time": 1745934262,
       "rank": 18,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 111655,
+      "num": 111655,
+      "word": "吒宝再拿MVP",
+      "onboard_time": 1746185189,
+      "rank": 48,
       "category": "电竞"
     },
     {
@@ -14841,14 +14905,6 @@
       "onboard_time": 1745913862,
       "rank": 18,
       "category": "民生新闻,健康医疗"
-    },
-    {
-      "raw_hot": 109296,
-      "num": 109296,
-      "word": "如果你看到一个人朋友圈干干净净",
-      "onboard_time": 1746183389,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 109187,
@@ -15539,6 +15595,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 100801,
+      "num": 193611,
+      "word": "赵心童单杆112分",
+      "onboard_time": 1746185310,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100761,
       "num": 179771,
       "word": "董明珠说能干不是文凭说了算",
@@ -15675,6 +15739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 99079,
+      "num": 200471,
+      "word": "周峻纬开播三次终于直播上了",
+      "onboard_time": 1746185070,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 98987,
       "num": 98987,
       "word": "金晨抽中隐藏labubu",
@@ -15729,6 +15801,14 @@
       "onboard_time": 1745768243,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 97577,
+      "num": 243734,
+      "word": "假期上班最早的是游客",
+      "onboard_time": 1746183929,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97205,
@@ -17147,14 +17227,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 72938,
-      "num": 243734,
-      "word": "假期上班最早的是游客",
-      "onboard_time": 1746183929,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 72924,
       "num": 304360,
       "word": "你有这4个机会避开胃癌",
@@ -18443,6 +18515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 47203,
+      "num": 132450,
+      "word": "世博会英国馆的下午茶被喷",
+      "onboard_time": 1746184950,
+      "rank": 39,
+      "category": "海外新闻,民生新闻"
+    },
+    {
       "raw_hot": 47131,
       "num": 143759,
       "word": "当山东网友下班刷到自家文旅",
@@ -18468,7 +18548,7 @@
     },
     {
       "raw_hot": 46895,
-      "num": 763114,
+      "num": 885183,
       "word": "每个努力奋斗的你都闪闪发光",
       "onboard_time": 1746177569,
       "rank": 2,
@@ -19313,6 +19393,14 @@
       "onboard_time": 1745807841,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33725,
+      "num": 194761,
+      "word": "徐静雨不说NBA去打英雄亚冠了",
+      "onboard_time": 1746181888,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 33560,
@@ -21369,6 +21457,14 @@
       "onboard_time": 1745959514,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 10478,
+      "num": 200283,
+      "word": "不同场景怎么选太阳镜片",
+      "onboard_time": 1746184890,
+      "rank": 19,
+      "category": "科学科普"
     },
     {
       "raw_hot": 10264,
