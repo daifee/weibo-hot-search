@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746199566283,
+  "endTime": 1746200423468,
   "band_list": [
     {
       "raw_hot": 3885539,
@@ -219,6 +219,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1299839,
+      "num": 398350,
+      "word": "一直对月薪4000没概念直到换成天",
+      "onboard_time": 1746198152,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1272960,
       "num": 1272960,
       "word": "刘烨 秒删党",
@@ -305,14 +313,6 @@
       "onboard_time": 1746095240,
       "rank": 48,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1072731,
-      "num": 398350,
-      "word": "一直对月薪4000没概念直到换成天",
-      "onboard_time": 1746198152,
-      "rank": 10,
-      "category": "情感"
     },
     {
       "raw_hot": 1070406,
@@ -1115,6 +1115,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 457080,
+      "num": 457080,
+      "word": "美国人正绕过关税打飞的来华购物",
+      "onboard_time": 1746198384,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 457055,
       "num": 409072,
       "word": "邓超妻子的幸福丈夫的荣耀",
@@ -1153,6 +1161,14 @@
       "onboard_time": 1746018743,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 445835,
+      "num": 345021,
+      "word": "香港月薪5万董事长女助理的一天",
+      "onboard_time": 1746197431,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 444645,
@@ -1409,14 +1425,6 @@
       "onboard_time": 1746071361,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 371053,
-      "num": 192952,
-      "word": "香港月薪5万董事长女助理的一天",
-      "onboard_time": 1746197431,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 370733,
@@ -1843,6 +1851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 285314,
+      "num": 285314,
+      "word": "陈丽君争议片段已删除",
+      "onboard_time": 1746200182,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 282811,
       "num": 265508,
       "word": "生命树开机",
@@ -1971,6 +1987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 261493,
+      "num": 261493,
+      "word": "南门兜",
+      "onboard_time": 1746197193,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 261459,
       "num": 224940,
       "word": "月亮姐姐淘汰",
@@ -2081,14 +2105,6 @@
       "onboard_time": 1746109582,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 246813,
-      "num": 246813,
-      "word": "南门兜",
-      "onboard_time": 1746197193,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 246317,
@@ -2209,14 +2225,6 @@
       "onboard_time": 1746067640,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 226680,
-      "num": 403002,
-      "word": "美国人正绕过关税打飞的来华购物",
-      "onboard_time": 1746198384,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 225594,
@@ -2545,6 +2553,14 @@
       "onboard_time": 1746061520,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 199367,
+      "num": 199367,
+      "word": "南大教授称陈丽君说错也没必要抹黑",
+      "onboard_time": 1746199462,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 198845,
@@ -3257,6 +3273,14 @@
       "onboard_time": 1746098662,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 176795,
+      "num": 386539,
+      "word": "职校学生运动会后集体退超60件裙子",
+      "onboard_time": 1746198803,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 175903,
@@ -4355,6 +4379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140751,
+      "num": 275954,
+      "word": "鸡蛋多给近300克顾客担心有猫腻",
+      "onboard_time": 1746198322,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140654,
       "num": 140654,
       "word": "成都蓉城登顶中超积分榜",
@@ -4891,14 +4923,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 128050,
-      "num": 128050,
-      "word": "南大教授称陈丽君说错也没必要抹黑",
-      "onboard_time": 1746199462,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 127944,
       "num": 136127,
       "word": "CBA",
@@ -5073,6 +5097,14 @@
       "onboard_time": 1746174861,
       "rank": 43,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 124395,
+      "num": 124395,
+      "word": "edg无缘多伦多大师赛",
+      "onboard_time": 1746199580,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 123644,
@@ -5259,14 +5291,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 118073,
-      "num": 386539,
-      "word": "职校学生运动会后集体退超60件裙子",
-      "onboard_time": 1746198803,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 118030,
       "num": 118030,
       "word": "EDGM对战DRG",
@@ -5409,6 +5433,14 @@
       "onboard_time": 1746193230,
       "rank": 47,
       "category": "财经,国际时政"
+    },
+    {
+      "raw_hot": 114325,
+      "num": 114325,
+      "word": "张新成首登音乐节状态",
+      "onboard_time": 1746199883,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 113945,
@@ -5705,6 +5737,14 @@
       "onboard_time": 1746082100,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 107552,
+      "num": 107552,
+      "word": "BLG晋级多伦多大师赛",
+      "onboard_time": 1746200300,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 107280,
@@ -6219,12 +6259,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85082,
+      "num": 377491,
+      "word": "徒手从着火车中救人镇干部发声",
+      "onboard_time": 1746198263,
+      "rank": 14,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 84809,
       "num": 261021,
       "word": "T1战胜DNF",
       "onboard_time": 1746182069,
       "rank": 14,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 84732,
+      "num": 101638,
+      "word": "樊振东晒荣誉证书致敬劳动者们",
+      "onboard_time": 1746196832,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 84382,
@@ -6307,14 +6363,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 81112,
-      "num": 275954,
-      "word": "鸡蛋多给近300克顾客担心有猫腻",
-      "onboard_time": 1746198322,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 79641,
       "num": 79641,
       "word": "五一假期发朋友圈的小妙招",
@@ -6353,6 +6401,14 @@
       "onboard_time": 1746148348,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 77213,
+      "num": 172307,
+      "word": "跟翟潇闻有点暧昧了",
+      "onboard_time": 1746200123,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 77161,
@@ -7051,6 +7107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38281,
+      "num": 138078,
+      "word": "中国人开始探索沙漠种水稻了",
+      "onboard_time": 1746200182,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38138,
       "num": 243596,
       "word": "特朗普回应美乌矿产协议",
@@ -7073,14 +7137,6 @@
       "onboard_time": 1746098061,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 37119,
-      "num": 377491,
-      "word": "徒手从着火车中救人镇干部发声",
-      "onboard_time": 1746198263,
-      "rank": 14,
-      "category": "正能量"
     },
     {
       "raw_hot": 37084,
@@ -7283,6 +7339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26823,
+      "num": 234319,
+      "word": "王昶说奥运会每场球至少看了两遍",
+      "onboard_time": 1746199161,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 26512,
       "num": 26512,
       "word": "劳动节快乐 祝我们劳有所得",
@@ -7329,14 +7393,6 @@
       "onboard_time": 1746123016,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 24759,
-      "num": 234319,
-      "word": "王昶说奥运会每场球至少看了两遍",
-      "onboard_time": 1746199161,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 24657,
@@ -7854,6 +7910,9 @@
     },
     {
       "word": "#总书记礼赞劳动创造#"
+    },
+    {
+      "word": "#劳动创造幸福奋斗铸就伟业#"
     }
   ]
 }
