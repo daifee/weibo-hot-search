@@ -1,6 +1,6 @@
 {
   "startTime": 1746117084529,
-  "endTime": 1746175549500,
+  "endTime": 1746177985470,
   "band_list": [
     {
       "raw_hot": 2150105,
@@ -155,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 809164,
+      "num": 333831,
+      "word": "当老爸得知我去日本玩be like",
+      "onboard_time": 1746170540,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 767281,
       "num": 338280,
       "word": "董某莹事件唯有真相才能定纷止争",
@@ -211,6 +219,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 620066,
+      "num": 620066,
+      "word": "普陀山",
+      "onboard_time": 1746171142,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 611862,
       "num": 611862,
       "word": "日本掉坑大爷终于找到了",
@@ -225,14 +241,6 @@
       "onboard_time": 1746113961,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 602853,
-      "num": 333831,
-      "word": "当老爸得知我去日本玩be like",
-      "onboard_time": 1746170540,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 602760,
@@ -329,14 +337,6 @@
       "onboard_time": 1746152729,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 503080,
-      "num": 503080,
-      "word": "普陀山",
-      "onboard_time": 1746171142,
-      "rank": 46,
-      "category": "旅游"
     },
     {
       "raw_hot": 497382,
@@ -483,6 +483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 381021,
+      "num": 385707,
+      "word": "众人为举国旗爬山男子照亮上山路",
+      "onboard_time": 1746174140,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 372852,
       "num": 331554,
       "word": "翁虹与丈夫分居3年感情反而更好了",
@@ -497,6 +505,14 @@
       "onboard_time": 1746170241,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 346337,
+      "num": 308601,
+      "word": "刘诗诗新剧",
+      "onboard_time": 1746175701,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 338898,
@@ -715,6 +731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 228589,
+      "num": 228589,
+      "word": "杨迪晒与娜扎合照陈哲远他急了",
+      "onboard_time": 1746175642,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 227878,
       "num": 276745,
       "word": "姚晨带子女在厦门赶海",
@@ -739,12 +763,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 220719,
+      "num": 220719,
+      "word": "极禹不值得",
+      "onboard_time": 1746177080,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 219632,
       "num": 394267,
       "word": "加沙一袋面粉卖4000元",
       "onboard_time": 1746149068,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 217268,
+      "num": 217268,
+      "word": "宋亚轩刘耀文偷偷藏不住",
+      "onboard_time": 1746176480,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 214031,
+      "num": 214031,
+      "word": "女伴舞",
+      "onboard_time": 1746177022,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 206893,
@@ -891,6 +939,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 189851,
+      "num": 189851,
+      "word": "sana的冰箱采访 宁艺卓",
+      "onboard_time": 1746177270,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189291,
       "num": 189291,
       "word": "登陆少年演唱会",
@@ -953,6 +1009,14 @@
       "onboard_time": 1746100701,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 184447,
+      "num": 184447,
+      "word": "张峻豪音乐节",
+      "onboard_time": 1746177022,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 184099,
@@ -1083,6 +1147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 163146,
+      "num": 163146,
+      "word": "鑫之左想",
+      "onboard_time": 1746176661,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 162791,
       "num": 162791,
       "word": "太中",
@@ -1131,6 +1203,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 158684,
+      "num": 158684,
+      "word": "26岁女子生娃后长高3cm",
+      "onboard_time": 1746157049,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158605,
       "num": 235046,
       "word": "特朗普建议商科学生投身工厂",
@@ -1177,6 +1257,14 @@
       "onboard_time": 1746160890,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 156184,
+      "num": 156184,
+      "word": "这直播给迪丽热巴看沉默了",
+      "onboard_time": 1746176420,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 156100,
@@ -1419,6 +1507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 132243,
+      "num": 132243,
+      "word": "12306回应乘客被困车厢超4小时",
+      "onboard_time": 1746176780,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132085,
       "num": 176713,
       "word": "罗云熙 你们这都什么爱好啊",
@@ -1475,12 +1571,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 128678,
+      "num": 128678,
+      "word": "时代少年团舞台已经就位",
+      "onboard_time": 1746177750,
+      "rank": 38,
+      "category": "演出,综艺"
+    },
+    {
       "raw_hot": 128594,
       "num": 128594,
       "word": "石凯前女友回应150万封口费",
       "onboard_time": 1746153751,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128404,
+      "num": 224612,
+      "word": "零跑新势力月销量连续第一",
+      "onboard_time": 1746176721,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 128175,
@@ -1547,6 +1659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124552,
+      "num": 124552,
+      "word": "五一景区挤麻了",
+      "onboard_time": 1746174861,
+      "rank": 43,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 124318,
       "num": 124318,
       "word": "撕拉片",
@@ -1593,6 +1713,14 @@
       "onboard_time": 1746102861,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 117437,
+      "num": 117437,
+      "word": "苏新皓创可贴",
+      "onboard_time": 1746177810,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 114998,
@@ -1683,6 +1811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107280,
+      "num": 107280,
+      "word": "钟丽丽为哈妮克孜试戏跑前跑后",
+      "onboard_time": 1746177810,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 106897,
       "num": 106897,
       "word": "身体上的喜爱是骗不了人的",
@@ -1745,14 +1881,6 @@
       "onboard_time": 1746108022,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 103904,
-      "num": 103904,
-      "word": "26岁女子生娃后长高3cm",
-      "onboard_time": 1746157049,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 103299,
@@ -1843,14 +1971,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 93615,
-      "num": 93615,
-      "word": "五一景区挤麻了",
-      "onboard_time": 1746174861,
-      "rank": 43,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 91693,
       "num": 91693,
       "word": "小天才崩了",
@@ -1865,14 +1985,6 @@
       "onboard_time": 1746146727,
       "rank": 46,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 88464,
-      "num": 385707,
-      "word": "众人为举国旗爬山男子照亮上山路",
-      "onboard_time": 1746174140,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 87372,
@@ -2003,6 +2115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71998,
+      "num": 98964,
+      "word": "抗战岁月里春天的召唤",
+      "onboard_time": 1746176540,
+      "rank": 48,
+      "category": "国内时政,民生新闻"
+    },
+    {
       "raw_hot": 68548,
       "num": 159968,
       "word": "正主不急cp粉急",
@@ -2113,6 +2233,14 @@
       "onboard_time": 1746132494,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 53145,
+      "num": 221540,
+      "word": "T1对战DNF",
+      "onboard_time": 1746176901,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 50591,
@@ -2387,6 +2515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 23150,
+      "num": 217545,
+      "word": "竹笋的哪个部位最鲜嫩",
+      "onboard_time": 1746177689,
+      "rank": 22,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 22528,
       "num": 233580,
       "word": "霉菌可能有什么健康风险",
@@ -2401,6 +2537,14 @@
       "onboard_time": 1746170960,
       "rank": 29,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 21237,
+      "num": 548801,
+      "word": "每个努力奋斗的你都闪闪发光",
+      "onboard_time": 1746177569,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20735,
@@ -2531,6 +2675,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 14047,
+      "num": 309988,
+      "word": "150秒看大国工匠铸就大国重器",
+      "onboard_time": 1746177569,
+      "rank": 12,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 12551,
       "num": 137424,
       "word": "终于知道算盘是怎么用的了",
@@ -2588,6 +2740,9 @@
     },
     {
       "word": "#总书记关怀劳动者的温暖瞬间#"
+    },
+    {
+      "word": "#科学谋划好十五五总书记这样强调#"
     }
   ]
 }
