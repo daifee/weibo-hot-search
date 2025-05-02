@@ -1,6 +1,6 @@
 {
   "startTime": 1746203485460,
-  "endTime": 1746221004633,
+  "endTime": 1746221869074,
   "band_list": [
     {
       "raw_hot": 1286235,
@@ -572,7 +572,7 @@
     },
     {
       "raw_hot": 16090,
-      "num": 16647,
+      "num": 17227,
       "word": "曼城vs狼队",
       "onboard_time": 1746215413,
       "rank": 43,
@@ -580,11 +580,27 @@
     },
     {
       "raw_hot": 15673,
-      "num": 16631,
+      "num": 17226,
       "word": "夜空闪耀出烟花版中国红",
       "onboard_time": 1746203600,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14633,
+      "num": 17225,
+      "word": "孙俪你喜欢什么情节我演给你看好了",
+      "onboard_time": 1746220935,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 14508,
+      "num": 44492,
+      "word": "科学家Z轴种菜产量翻100倍",
+      "onboard_time": 1746219914,
+      "rank": 9,
+      "category": "民生新闻,科学科普"
     },
     {
       "raw_hot": 11873,
@@ -595,20 +611,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 11789,
-      "num": 15496,
-      "word": "孙俪你喜欢什么情节我演给你看好了",
-      "onboard_time": 1746220935,
+      "raw_hot": 11391,
+      "num": 17221,
+      "word": "路人遇大火一秒变超级英雄",
+      "onboard_time": 1746221114,
       "rank": 49,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 10332,
-      "num": 44492,
-      "word": "科学家Z轴种菜产量翻100倍",
-      "onboard_time": 1746219914,
-      "rank": 9,
-      "category": "民生新闻,科学科普"
+      "category": "正能量"
     }
   ],
   "hotgov_list": [
