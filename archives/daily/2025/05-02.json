@@ -1,6 +1,6 @@
 {
   "startTime": 1746117084529,
-  "endTime": 1746156551870,
+  "endTime": 1746158029167,
   "band_list": [
     {
       "raw_hot": 1572681,
@@ -9,6 +9,14 @@
       "onboard_time": 1746118698,
       "rank": 6,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1440687,
+      "num": 327151,
+      "word": "买8楼送9楼10楼",
+      "onboard_time": 1746156209,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 1344343,
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 767281,
-      "num": 314654,
+      "num": 326014,
       "word": "董某莹事件唯有真相才能定纷止争",
       "onboard_time": 1746152850,
       "rank": 11,
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 636159,
-      "num": 316372,
+      "num": 410276,
       "word": "曝博主抄袭B站UP主获利百万",
       "onboard_time": 1746154290,
       "rank": 13,
@@ -187,20 +195,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 506421,
+      "num": 409963,
+      "word": "石凯前女友称订婚是AA",
+      "onboard_time": 1746152729,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 497382,
+      "num": 497382,
+      "word": "为什么全国景区都有这种水果",
+      "onboard_time": 1746156689,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 490142,
       "num": 342735,
       "word": "回忆专用小马甲道歉",
       "onboard_time": 1746095240,
       "rank": 11,
       "category": "网红"
-    },
-    {
-      "raw_hot": 490131,
-      "num": 308904,
-      "word": "石凯前女友称订婚是AA",
-      "onboard_time": 1746152729,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 484389,
@@ -283,12 +299,36 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 410645,
+      "num": 410645,
+      "word": "外教被中国学生素质震惊",
+      "onboard_time": 1746155069,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 398492,
+      "num": 398492,
+      "word": "奶茶我有七不喝",
+      "onboard_time": 1746156510,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 372852,
       "num": 331554,
       "word": "翁虹与丈夫分居3年感情反而更好了",
       "onboard_time": 1746142158,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 348306,
+      "num": 322127,
+      "word": "真的不要和美甲师太熟",
+      "onboard_time": 1746155489,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 334851,
@@ -305,6 +345,22 @@
       "onboard_time": 1746152608,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 329631,
+      "num": 320280,
+      "word": "打过狂犬疫苗的人嘴真严",
+      "onboard_time": 1746155249,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 328553,
+      "num": 328553,
+      "word": "一群富翁竟要求美国儿童做牺牲",
+      "onboard_time": 1746153329,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 323675,
@@ -347,12 +403,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 284952,
-      "num": 284952,
-      "word": "外教被中国学生素质震惊",
-      "onboard_time": 1746155069,
-      "rank": 23,
-      "category": "民生新闻"
+      "raw_hot": 283913,
+      "num": 283913,
+      "word": "徐老师婚纱照",
+      "onboard_time": 1746157350,
+      "rank": 16,
+      "category": "网红"
     },
     {
       "raw_hot": 280660,
@@ -361,14 +417,6 @@
       "onboard_time": 1746101481,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 279355,
-      "num": 279355,
-      "word": "打过狂犬疫苗的人嘴真严",
-      "onboard_time": 1746155249,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 269657,
@@ -403,22 +451,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 236026,
-      "num": 161376,
-      "word": "买8楼送9楼10楼",
-      "onboard_time": 1746156209,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 222285,
-      "num": 222285,
-      "word": "真的不要和美甲师太熟",
-      "onboard_time": 1746155489,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 221533,
       "num": 221533,
       "word": "张凌赫说金靖气血不足",
@@ -433,6 +465,14 @@
       "onboard_time": 1746149068,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 216691,
+      "num": 282977,
+      "word": "CMG没有邀请韩国Kpop巡回演出",
+      "onboard_time": 1746157950,
+      "rank": 18,
+      "category": "辟谣/通报,演出"
     },
     {
       "raw_hot": 206893,
@@ -459,12 +499,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 200080,
-      "num": 289774,
-      "word": "一群富翁竟要求美国儿童做牺牲",
-      "onboard_time": 1746153329,
-      "rank": 25,
-      "category": "国际时政"
+      "raw_hot": 200709,
+      "num": 200709,
+      "word": "罗云熙周深合照",
+      "onboard_time": 1746156930,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 198419,
@@ -481,6 +521,22 @@
       "onboard_time": 1746154469,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193397,
+      "num": 193397,
+      "word": "前任身份勾栏手段正宫做派",
+      "onboard_time": 1746157109,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 192773,
+      "num": 192773,
+      "word": "中国中央广播电视总台没有邀请Kpop",
+      "onboard_time": 1746157950,
+      "rank": 26,
+      "category": "辟谣/通报,演出"
     },
     {
       "raw_hot": 188254,
@@ -555,6 +611,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 161094,
+      "num": 161094,
+      "word": "Jennie红胶",
+      "onboard_time": 1746157409,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 159452,
       "num": 159452,
       "word": "五一假期第2天",
@@ -611,6 +675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152403,
+      "num": 282411,
+      "word": "80后国企财务成短剧恶婆婆专业户",
+      "onboard_time": 1746155610,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150031,
       "num": 150031,
       "word": "iG 0比21",
@@ -643,12 +715,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 145103,
-      "num": 145103,
-      "word": "80后国企财务成短剧恶婆婆专业户",
-      "onboard_time": 1746155610,
-      "rank": 35,
-      "category": "民生新闻"
+      "raw_hot": 144654,
+      "num": 144654,
+      "word": "吴宣仪彭小苒你俩什么死动静",
+      "onboard_time": 1746156450,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 143465,
@@ -771,20 +843,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 122026,
-      "num": 122026,
-      "word": "奶茶我有七不喝",
-      "onboard_time": 1746156510,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 118336,
       "num": 118336,
       "word": "侯佩岑能不能开个情商班",
       "onboard_time": 1746102861,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 116443,
+      "num": 116443,
+      "word": "迪丽热巴人在尴尬时会假装很忙",
+      "onboard_time": 1746158009,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 113730,
@@ -851,12 +923,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 104662,
+      "num": 104662,
+      "word": "五一的上海外滩",
+      "onboard_time": 1746157830,
+      "rank": 41,
+      "category": "旅游,民生新闻"
+    },
+    {
       "raw_hot": 104558,
       "num": 104558,
       "word": "赵丽颖云合断层第一",
       "onboard_time": 1746108022,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 103904,
+      "num": 103904,
+      "word": "26岁女子生娃后长高3cm",
+      "onboard_time": 1746157049,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103299,
+      "num": 112027,
+      "word": "手背青筋明显是亚健康",
+      "onboard_time": 1746157769,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 101288,
@@ -881,6 +977,14 @@
       "onboard_time": 1746115161,
       "rank": 42,
       "category": "游戏,演出"
+    },
+    {
+      "raw_hot": 99174,
+      "num": 99174,
+      "word": "邓超世面都见过这种人没见过",
+      "onboard_time": 1746157528,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 97529,
@@ -947,6 +1051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 85411,
+      "num": 102390,
+      "word": "全红婵小孩姐变跳水教练",
+      "onboard_time": 1746158009,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83018,
       "num": 83018,
       "word": "彭小苒说圈外网不好",
@@ -964,7 +1076,7 @@
     },
     {
       "raw_hot": 77364,
-      "num": 77364,
+      "num": 102161,
       "word": "阿根廷队可能10月来中国",
       "onboard_time": 1746148348,
       "rank": 49,
@@ -1096,6 +1208,14 @@
       "word": "杨鸣说系列赛没法抗衡广厦",
       "onboard_time": 1746118698,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 46359,
+      "num": 120200,
+      "word": "全红婵陈芋汐奥运后再合体",
+      "onboard_time": 1746157950,
+      "rank": 35,
       "category": "体育"
     },
     {

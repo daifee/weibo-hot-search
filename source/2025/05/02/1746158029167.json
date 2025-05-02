@@ -1,0 +1,410 @@
+{
+  "runTime": 1746158029167,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 997323,
+        "num": 1159571,
+        "word": "外交部回应韩国偶像组合将赴华演出",
+        "onboard_time": 1746149128,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 718293,
+        "num": 718293,
+        "word": "孙颖莎王楚钦公园陪打",
+        "onboard_time": 1746151708,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21599,
+        "num": 534078,
+        "word": "劳动者的手每一双都了不起",
+        "onboard_time": 1746104723,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 846131,
+        "num": 523387,
+        "word": "曾黎",
+        "onboard_time": 1746150268,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 497382,
+        "num": 497382,
+        "word": "为什么全国景区都有这种水果",
+        "onboard_time": 1746156689,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 410645,
+        "num": 410645,
+        "word": "外教被中国学生素质震惊",
+        "onboard_time": 1746155069,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 559729,
+        "num": 410276,
+        "word": "曝博主抄袭B站UP主获利百万",
+        "onboard_time": 1746154290,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 506421,
+        "num": 409963,
+        "word": "石凯前女友称订婚是AA",
+        "onboard_time": 1746152729,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 398492,
+        "num": 398492,
+        "word": "奶茶我有七不喝",
+        "onboard_time": 1746156510,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 328553,
+        "num": 328553,
+        "word": "一群富翁竟要求美国儿童做牺牲",
+        "onboard_time": 1746153329,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1440687,
+        "num": 327151,
+        "word": "买8楼送9楼10楼",
+        "onboard_time": 1746156209,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 618248,
+        "num": 326014,
+        "word": "董某莹事件唯有真相才能定纷止争",
+        "onboard_time": 1746152850,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 377116,
+        "num": 324807,
+        "word": "gidle改名idle",
+        "onboard_time": 1746111142,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348306,
+        "num": 322127,
+        "word": "真的不要和美甲师太熟",
+        "onboard_time": 1746155489,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 329631,
+        "num": 320280,
+        "word": "打过狂犬疫苗的人嘴真严",
+        "onboard_time": 1746155249,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 319975,
+        "num": 319975,
+        "word": "特朗普承认货架或将变空",
+        "onboard_time": 1746150448,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 283913,
+        "num": 283913,
+        "word": "徐老师婚纱照",
+        "onboard_time": 1746157350,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 236286,
+        "num": 283316,
+        "word": "中方正在评估是否和美方谈",
+        "onboard_time": 1746146489,
+        "rank": 17,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 216691,
+        "num": 282977,
+        "word": "CMG没有邀请韩国Kpop巡回演出",
+        "onboard_time": 1746157950,
+        "rank": 18,
+        "category": "辟谣/通报,演出"
+      },
+      {
+        "raw_hot": 152403,
+        "num": 282411,
+        "word": "80后国企财务成短剧恶婆婆专业户",
+        "onboard_time": 1746155610,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 779745,
+        "num": 281338,
+        "word": "金价暴跌有人一夜亏47万",
+        "onboard_time": 1746118698,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 281014,
+        "num": 281014,
+        "word": "唐嫣工作室重组",
+        "onboard_time": 1746151349,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266340,
+        "num": 266340,
+        "word": "石凯前女友回应",
+        "onboard_time": 1746144618,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229231,
+        "num": 229231,
+        "word": "女子请病假追星被辞退起诉赔偿被驳",
+        "onboard_time": 1746144319,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200709,
+        "num": 200709,
+        "word": "罗云熙周深合照",
+        "onboard_time": 1746156930,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193397,
+        "num": 193397,
+        "word": "前任身份勾栏手段正宫做派",
+        "onboard_time": 1746157109,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192773,
+        "num": 192773,
+        "word": "中国中央广播电视总台没有邀请Kpop",
+        "onboard_time": 1746157950,
+        "rank": 26,
+        "category": "辟谣/通报,演出"
+      },
+      {
+        "raw_hot": 180211,
+        "num": 180211,
+        "word": "年轻人开始流行旅游摆摊了",
+        "onboard_time": 1746149610,
+        "rank": 27,
+        "category": "民生新闻,幽默"
+      },
+      {
+        "raw_hot": 161094,
+        "num": 161094,
+        "word": "Jennie红胶",
+        "onboard_time": 1746157409,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 144654,
+        "num": 144654,
+        "word": "吴宣仪彭小苒你俩什么死动静",
+        "onboard_time": 1746156450,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143084,
+        "num": 143084,
+        "word": "张凌赫说金靖气血不足",
+        "onboard_time": 1746151830,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139724,
+        "num": 139724,
+        "word": "小米回应SU7Ultra限制1500匹马力",
+        "onboard_time": 1746151830,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 138099,
+        "num": 138099,
+        "word": "种了27年的地因未退耕被判刑6个月",
+        "onboard_time": 1746147268,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134948,
+        "num": 134948,
+        "word": "全红婵神级采访又来了",
+        "onboard_time": 1746152608,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121394,
+        "num": 121394,
+        "word": "太中",
+        "onboard_time": 1746154529,
+        "rank": 34,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 46359,
+        "num": 120200,
+        "word": "全红婵陈芋汐奥运后再合体",
+        "onboard_time": 1746157950,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119265,
+        "num": 119265,
+        "word": "严浩翔 染发",
+        "onboard_time": 1746143779,
+        "rank": 36,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 116443,
+        "num": 116443,
+        "word": "迪丽热巴人在尴尬时会假装很忙",
+        "onboard_time": 1746158009,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113666,
+        "num": 113666,
+        "word": "王励勤强调国乒是一个集体",
+        "onboard_time": 1746152249,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103299,
+        "num": 112027,
+        "word": "手背青筋明显是亚健康",
+        "onboard_time": 1746157769,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 111545,
+        "num": 111545,
+        "word": "美方多次主动向中方传递信息想谈",
+        "onboard_time": 1746146489,
+        "rank": 40,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 104662,
+        "num": 104662,
+        "word": "五一的上海外滩",
+        "onboard_time": 1746157830,
+        "rank": 41,
+        "category": "旅游,民生新闻"
+      },
+      {
+        "raw_hot": 103904,
+        "num": 103904,
+        "word": "26岁女子生娃后长高3cm",
+        "onboard_time": 1746157049,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85411,
+        "num": 102390,
+        "word": "全红婵小孩姐变跳水教练",
+        "onboard_time": 1746158009,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101661,
+        "num": 102182,
+        "word": "宋雨琦把跑男具象化了",
+        "onboard_time": 1746153449,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28895,
+        "num": 102161,
+        "word": "阿根廷队可能10月来中国",
+        "onboard_time": 1746148348,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102149,
+        "num": 102149,
+        "word": "水饺皇后",
+        "onboard_time": 1746155008,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 101840,
+        "num": 101840,
+        "word": "感觉有一亿人在西双版纳泼水",
+        "onboard_time": 1746153150,
+        "rank": 47,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 101437,
+        "num": 101437,
+        "word": "掘金vs快船",
+        "onboard_time": 1746154827,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99174,
+        "num": 99174,
+        "word": "邓超世面都见过这种人没见过",
+        "onboard_time": 1746157528,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#涉及老百姓的事情关键在实#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1746156551870,
+  "endTime": 1746158029167,
   "band_list": [
     {
       "raw_hot": 8960529,
@@ -561,6 +561,14 @@
       "onboard_time": 1745836041,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1440687,
+      "num": 327151,
+      "word": "买8楼送9楼10楼",
+      "onboard_time": 1746156209,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 1432849,
@@ -1660,7 +1668,7 @@
     },
     {
       "raw_hot": 767281,
-      "num": 314654,
+      "num": 326014,
       "word": "董某莹事件唯有真相才能定纷止争",
       "onboard_time": 1746152850,
       "rank": 11,
@@ -2140,7 +2148,7 @@
     },
     {
       "raw_hot": 636159,
-      "num": 316372,
+      "num": 410276,
       "word": "曝博主抄袭B站UP主获利百万",
       "onboard_time": 1746154290,
       "rank": 13,
@@ -2867,6 +2875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 506421,
+      "num": 409963,
+      "word": "石凯前女友称订婚是AA",
+      "onboard_time": 1746152729,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 506097,
       "num": 506097,
       "word": "西班牙停电",
@@ -2931,6 +2947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 497382,
+      "num": 497382,
+      "word": "为什么全国景区都有这种水果",
+      "onboard_time": 1746156689,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 493340,
       "num": 402585,
       "word": "张艺凡因为身高错失过好角色",
@@ -2961,14 +2985,6 @@
       "onboard_time": 1745759362,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 490131,
-      "num": 308904,
-      "word": "石凯前女友称订婚是AA",
-      "onboard_time": 1746152729,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 485942,
@@ -3611,6 +3627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 410645,
+      "num": 410645,
+      "word": "外教被中国学生素质震惊",
+      "onboard_time": 1746155069,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 408298,
       "num": 408298,
       "word": "国际不打小孩日",
@@ -3697,6 +3721,14 @@
       "onboard_time": 1745974102,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 398492,
+      "num": 398492,
+      "word": "奶茶我有七不喝",
+      "onboard_time": 1746156510,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 396034,
@@ -4123,6 +4155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 348306,
+      "num": 322127,
+      "word": "真的不要和美甲师太熟",
+      "onboard_time": 1746155489,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 346478,
       "num": 346478,
       "word": "十个勤天演唱会",
@@ -4289,6 +4329,22 @@
       "onboard_time": 1745914940,
       "rank": 20,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 329631,
+      "num": 320280,
+      "word": "打过狂犬疫苗的人嘴真严",
+      "onboard_time": 1746155249,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 328553,
+      "num": 328553,
+      "word": "一群富翁竟要求美国儿童做牺牲",
+      "onboard_time": 1746153329,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 327138,
@@ -4907,14 +4963,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 284952,
-      "num": 284952,
-      "word": "外教被中国学生素质震惊",
-      "onboard_time": 1746155069,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 284194,
       "num": 284194,
       "word": "王源广州",
@@ -4929,6 +4977,14 @@
       "onboard_time": 1745883140,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 283913,
+      "num": 283913,
+      "word": "徐老师婚纱照",
+      "onboard_time": 1746157350,
+      "rank": 16,
+      "category": "网红"
     },
     {
       "raw_hot": 283269,
@@ -5009,14 +5065,6 @@
       "onboard_time": 1745813963,
       "rank": 34,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 279355,
-      "num": 279355,
-      "word": "打过狂犬疫苗的人嘴真严",
-      "onboard_time": 1746155249,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 279011,
@@ -5899,14 +5947,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 236026,
-      "num": 161376,
-      "word": "买8楼送9楼10楼",
-      "onboard_time": 1746156209,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 235809,
       "num": 235809,
       "word": "代号鸢",
@@ -6171,14 +6211,6 @@
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 222285,
-      "num": 222285,
-      "word": "真的不要和美甲师太熟",
-      "onboard_time": 1746155489,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 222033,
       "num": 403225,
       "word": "开拓者认亲现场",
@@ -6385,6 +6417,14 @@
       "onboard_time": 1745996301,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 216691,
+      "num": 282977,
+      "word": "CMG没有邀请韩国Kpop巡回演出",
+      "onboard_time": 1746157950,
+      "rank": 18,
+      "category": "辟谣/通报,演出"
     },
     {
       "raw_hot": 216036,
@@ -7115,6 +7155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200709,
+      "num": 200709,
+      "word": "罗云熙周深合照",
+      "onboard_time": 1746156930,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200686,
       "num": 200686,
       "word": "动画鲲吞天下开播",
@@ -7153,14 +7201,6 @@
       "onboard_time": 1745983641,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 200080,
-      "num": 289774,
-      "word": "一群富翁竟要求美国儿童做牺牲",
-      "onboard_time": 1746153329,
-      "rank": 25,
-      "category": "国际时政"
     },
     {
       "raw_hot": 200070,
@@ -7587,6 +7627,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 193397,
+      "num": 193397,
+      "word": "前任身份勾栏手段正宫做派",
+      "onboard_time": 1746157109,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193359,
       "num": 177230,
       "word": "riize",
@@ -7633,6 +7681,14 @@
       "onboard_time": 1745808681,
       "rank": 34,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 192773,
+      "num": 192773,
+      "word": "中国中央广播电视总台没有邀请Kpop",
+      "onboard_time": 1746157950,
+      "rank": 26,
+      "category": "辟谣/通报,演出"
     },
     {
       "raw_hot": 192313,
@@ -9587,6 +9643,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 161094,
+      "num": 161094,
+      "word": "Jennie红胶",
+      "onboard_time": 1746157409,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 161067,
       "num": 240195,
       "word": "成龙章子怡王一博彩排",
@@ -10275,6 +10339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152403,
+      "num": 282411,
+      "word": "80后国企财务成短剧恶婆婆专业户",
+      "onboard_time": 1746155610,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 152337,
       "num": 152337,
       "word": "王安宇三折叠抱王玉雯",
@@ -10819,14 +10891,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 145103,
-      "num": 145103,
-      "word": "80后国企财务成短剧恶婆婆专业户",
-      "onboard_time": 1746155610,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 145038,
       "num": 145038,
       "word": "榜上佳婿鹤秋太美了",
@@ -10865,6 +10929,14 @@
       "onboard_time": 1745765363,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 144654,
+      "num": 144654,
+      "word": "吴宣仪彭小苒你俩什么死动静",
+      "onboard_time": 1746156450,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 144618,
@@ -12651,14 +12723,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 122026,
-      "num": 122026,
-      "word": "奶茶我有七不喝",
-      "onboard_time": 1746156510,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 122025,
       "num": 122025,
       "word": "为什么捞海胆时会开几个给鱼吃",
@@ -13097,6 +13161,14 @@
       "onboard_time": 1745937684,
       "rank": 33,
       "category": "财经,国际时政"
+    },
+    {
+      "raw_hot": 116443,
+      "num": 116443,
+      "word": "迪丽热巴人在尴尬时会假装很忙",
+      "onboard_time": 1746158009,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 116392,
@@ -13891,6 +13963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104662,
+      "num": 104662,
+      "word": "五一的上海外滩",
+      "onboard_time": 1746157830,
+      "rank": 41,
+      "category": "旅游,民生新闻"
+    },
+    {
       "raw_hot": 104425,
       "num": 104425,
       "word": "林志玲为刘诗诗新剧打call",
@@ -13939,6 +14019,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 103904,
+      "num": 103904,
+      "word": "26岁女子生娃后长高3cm",
+      "onboard_time": 1746157049,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103842,
       "num": 283484,
       "word": "五一人人人出行攻略",
@@ -13977,6 +14065,14 @@
       "onboard_time": 1745845822,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103299,
+      "num": 112027,
+      "word": "手背青筋明显是亚健康",
+      "onboard_time": 1746157769,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 103263,
@@ -14265,6 +14361,14 @@
       "onboard_time": 1745752280,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 99174,
+      "num": 99174,
+      "word": "邓超世面都见过这种人没见过",
+      "onboard_time": 1746157528,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 98987,
@@ -15019,6 +15123,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 85411,
+      "num": 102390,
+      "word": "全红婵小孩姐变跳水教练",
+      "onboard_time": 1746158009,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85400,
       "num": 395800,
       "word": "肖飞事件网友最关心的3个问题",
@@ -15428,7 +15540,7 @@
     },
     {
       "raw_hot": 77364,
-      "num": 77364,
+      "num": 102161,
       "word": "阿根廷队可能10月来中国",
       "onboard_time": 1746148348,
       "rank": 49,
@@ -16921,6 +17033,14 @@
       "onboard_time": 1746106043,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46359,
+      "num": 120200,
+      "word": "全红婵陈芋汐奥运后再合体",
+      "onboard_time": 1746157950,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 46321,
