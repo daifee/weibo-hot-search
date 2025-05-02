@@ -1,6 +1,6 @@
 {
   "startTime": 1746203485460,
-  "endTime": 1746206519843,
+  "endTime": 1746207603754,
   "band_list": [
     {
       "raw_hot": 1286235,
@@ -59,6 +59,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 469353,
+      "num": 469353,
+      "word": "原来躺久了也会消耗气血",
+      "onboard_time": 1746203600,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 375564,
       "num": 375564,
       "word": "Bin blg回来了",
@@ -73,14 +81,6 @@
       "onboard_time": 1746185910,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 338856,
-      "num": 338856,
-      "word": "原来躺久了也会消耗气血",
-      "onboard_time": 1746203600,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 308894,
@@ -395,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 77855,
+      "num": 77855,
+      "word": "小伙被外国人骂秦腔穷霸气回怼",
+      "onboard_time": 1746205938,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75010,
       "num": 75010,
       "word": "BLG战胜EDG",
@@ -459,28 +467,36 @@
       "category": "演出"
     },
     {
-      "raw_hot": 56319,
-      "num": 56319,
-      "word": "小伙被外国人骂秦腔穷霸气回怼",
-      "onboard_time": 1746205938,
-      "rank": 42,
+      "raw_hot": 53391,
+      "num": 146796,
+      "word": "中国科学家用弹弓破解世界难题",
+      "onboard_time": 1746205998,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 50611,
-      "num": 50611,
+      "raw_hot": 51702,
+      "num": 51702,
+      "word": "朱志鑫睡颜自拍",
+      "onboard_time": 1746207135,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 51611,
+      "num": 51611,
       "word": "天赐的声音",
       "onboard_time": 1746205818,
       "rank": 45,
       "category": "综艺"
     },
     {
-      "raw_hot": 31562,
-      "num": 146796,
-      "word": "中国科学家用弹弓破解世界难题",
-      "onboard_time": 1746205998,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 40702,
+      "num": 40702,
+      "word": "朱志鑫舞台好燃",
+      "onboard_time": 1746206597,
+      "rank": 47,
+      "category": "演出"
     }
   ],
   "hotgov_list": [
