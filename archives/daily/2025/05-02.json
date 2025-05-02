@@ -1,10 +1,10 @@
 {
   "startTime": 1746117084529,
-  "endTime": 1746160164937,
+  "endTime": 1746161088241,
   "band_list": [
     {
       "raw_hot": 1613120,
-      "num": 327151,
+      "num": 352004,
       "word": "买8楼送9楼10楼",
       "onboard_time": 1746156209,
       "rank": 31,
@@ -36,11 +36,19 @@
     },
     {
       "raw_hot": 1263075,
-      "num": 641457,
+      "num": 666825,
       "word": "曾黎",
       "onboard_time": 1746150268,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1208709,
+      "num": 1208709,
+      "word": "中国中央广播电视总台没有邀请Kpop",
+      "onboard_time": 1746157950,
+      "rank": 26,
+      "category": "辟谣/通报,演出"
     },
     {
       "raw_hot": 1158044,
@@ -49,6 +57,14 @@
       "onboard_time": 1746149128,
       "rank": 0,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1039301,
+      "num": 1142913,
+      "word": "奶茶我有七不喝",
+      "onboard_time": 1746156510,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 998509,
@@ -83,14 +99,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 893207,
-      "num": 1142913,
-      "word": "奶茶我有七不喝",
-      "onboard_time": 1746156510,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 873139,
       "num": 1139702,
       "word": "韩媒曝KPOP爱豆中韩演唱会",
@@ -107,16 +115,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 816693,
-      "num": 816693,
-      "word": "中国中央广播电视总台没有邀请Kpop",
-      "onboard_time": 1746157950,
-      "rank": 26,
-      "category": "辟谣/通报,演出"
-    },
-    {
       "raw_hot": 767281,
-      "num": 326014,
+      "num": 338280,
       "word": "董某莹事件唯有真相才能定纷止争",
       "onboard_time": 1746152850,
       "rank": 11,
@@ -171,6 +171,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 601568,
+      "num": 350006,
+      "word": "真的不要和美甲师太熟",
+      "onboard_time": 1746155489,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 589847,
       "num": 457240,
       "word": "赵露思七分钟演出",
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 571119,
-      "num": 309107,
+      "num": 344993,
       "word": "徐老师婚纱照",
       "onboard_time": 1746157350,
       "rank": 16,
@@ -225,14 +233,6 @@
       "onboard_time": 1746157950,
       "rank": 18,
       "category": "辟谣/通报,演出"
-    },
-    {
-      "raw_hot": 521008,
-      "num": 322127,
-      "word": "真的不要和美甲师太熟",
-      "onboard_time": 1746155489,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 506421,
@@ -364,7 +364,7 @@
     },
     {
       "raw_hot": 334373,
-      "num": 273929,
+      "num": 331564,
       "word": "迪丽热巴人在尴尬时会假装很忙",
       "onboard_time": 1746158009,
       "rank": 37,
@@ -443,6 +443,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 269926,
+      "num": 269926,
+      "word": "日本掉坑大爷终于找到了",
+      "onboard_time": 1746158969,
+      "rank": 25,
+      "category": "海外新闻,民生新闻"
+    },
+    {
       "raw_hot": 269793,
       "num": 269793,
       "word": "王励勤强调国乒是一个集体",
@@ -483,12 +491,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 242883,
-      "num": 242883,
-      "word": "日本掉坑大爷终于找到了",
-      "onboard_time": 1746158969,
-      "rank": 25,
-      "category": "海外新闻,民生新闻"
+      "raw_hot": 231072,
+      "num": 264082,
+      "word": "前女友曝与石凯聊天记录",
+      "onboard_time": 1746159449,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 221533,
@@ -555,6 +563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195680,
+      "num": 195680,
+      "word": "乘风",
+      "onboard_time": 1746160110,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193397,
       "num": 193397,
       "word": "前任身份勾栏手段正宫做派",
@@ -579,6 +595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187962,
+      "num": 251486,
+      "word": "国羽晋级苏杯四强",
+      "onboard_time": 1746159270,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186453,
       "num": 186453,
       "word": "周扬青自曝着装曾被PUA",
@@ -595,12 +619,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184010,
+      "num": 286562,
+      "word": "工作人员为曾黎发声",
+      "onboard_time": 1746159449,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175701,
       "num": 175701,
       "word": "女生怒减50斤后的颜值变化",
       "onboard_time": 1746110663,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 175591,
+      "num": 175591,
+      "word": "谭维维的耳环有半张脸大",
+      "onboard_time": 1746160110,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 167542,
@@ -635,12 +675,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 162929,
-      "num": 251486,
-      "word": "国羽晋级苏杯四强",
-      "onboard_time": 1746159270,
-      "rank": 22,
-      "category": "体育"
+      "raw_hot": 163302,
+      "num": 163302,
+      "word": "五一的上海外滩",
+      "onboard_time": 1746157830,
+      "rank": 41,
+      "category": "旅游,民生新闻"
     },
     {
       "raw_hot": 162791,
@@ -649,14 +689,6 @@
       "onboard_time": 1746154529,
       "rank": 28,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 162572,
-      "num": 162572,
-      "word": "五一的上海外滩",
-      "onboard_time": 1746157830,
-      "rank": 41,
-      "category": "旅游,民生新闻"
     },
     {
       "raw_hot": 161094,
@@ -689,6 +721,14 @@
       "onboard_time": 1746151708,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156289,
+      "num": 156289,
+      "word": "TXT新歌",
+      "onboard_time": 1746160890,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 155571,
@@ -731,6 +771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151081,
+      "num": 151081,
+      "word": "掘金vs快船",
+      "onboard_time": 1746154827,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150031,
       "num": 150031,
       "word": "iG 0比21",
@@ -763,14 +811,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 145165,
-      "num": 145165,
-      "word": "工作人员为曾黎发声",
-      "onboard_time": 1746159449,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 144654,
       "num": 144654,
       "word": "吴宣仪彭小苒你俩什么死动静",
@@ -801,6 +841,30 @@
       "onboard_time": 1746109402,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 140467,
+      "num": 140467,
+      "word": "smtr25第四季度出道",
+      "onboard_time": 1746160590,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 139564,
+      "num": 139564,
+      "word": "叶童三公第一",
+      "onboard_time": 1746160830,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 135738,
+      "num": 135738,
+      "word": "马龙出发成都封训",
+      "onboard_time": 1746160649,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 134530,
@@ -851,6 +915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128817,
+      "num": 128817,
+      "word": "看得出来各地文旅这个假期很努力了",
+      "onboard_time": 1746160949,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 128594,
       "num": 128594,
       "word": "石凯前女友回应150万封口费",
@@ -865,6 +937,14 @@
       "onboard_time": 1746153150,
       "rank": 41,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 127528,
+      "num": 127528,
+      "word": "NBA季后赛",
+      "onboard_time": 1746161069,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 127421,
@@ -883,14 +963,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 124871,
-      "num": 124871,
-      "word": "掘金vs快船",
-      "onboard_time": 1746154827,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 124318,
       "num": 124318,
       "word": "撕拉片",
@@ -907,27 +979,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 120602,
-      "num": 264082,
-      "word": "前女友曝与石凯聊天记录",
-      "onboard_time": 1746159449,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 118336,
       "num": 118336,
       "word": "侯佩岑能不能开个情商班",
       "onboard_time": 1746102861,
       "rank": 16,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 114729,
-      "num": 114729,
-      "word": "乘风",
-      "onboard_time": 1746160110,
-      "rank": 41,
       "category": "综艺"
     },
     {
@@ -1059,16 +1115,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 98870,
-      "num": 98870,
-      "word": "谭维维的耳环有半张脸大",
-      "onboard_time": 1746160110,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 97849,
-      "num": 106457,
+      "num": 163612,
       "word": "藏海传会给大家不一样的肖战",
       "onboard_time": 1746153090,
       "rank": 45,
@@ -1107,6 +1155,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 91475,
+      "num": 336005,
+      "word": "兵在哪马在哪俑在哪导游你在哪",
+      "onboard_time": 1746159809,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91311,
       "num": 91311,
       "word": "韩国140天3位代总统",
@@ -1129,6 +1185,14 @@
       "onboard_time": 1746111623,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86510,
+      "num": 355341,
+      "word": "2车撞燃男子徒手掰车救人",
+      "onboard_time": 1746159750,
+      "rank": 21,
+      "category": "正能量"
     },
     {
       "raw_hot": 85812,
@@ -1395,14 +1459,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 31917,
-      "num": 255289,
-      "word": "2车撞燃男子徒手掰车救人",
-      "onboard_time": 1746159750,
-      "rank": 21,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 31916,
       "num": 141316,
       "word": "商务部回应中美经贸对话磋商情况",
@@ -1451,6 +1507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 25506,
+      "num": 249920,
+      "word": "拒绝大女主套路的水饺皇后",
+      "onboard_time": 1746159809,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 24894,
       "num": 24894,
       "word": "独一无二",
@@ -1481,6 +1545,14 @@
       "onboard_time": 1746132793,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23655,
+      "num": 190469,
+      "word": "王蓉谈爸爸妈妈歌曲由来",
+      "onboard_time": 1746159809,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 19938,
@@ -1539,6 +1611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14934,
+      "num": 164168,
+      "word": "想快乐排便有一个黄金姿势",
+      "onboard_time": 1746160649,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 14466,
       "num": 50717,
       "word": "美国务卿鲁比奥兼任国家安全顾问",
@@ -1569,30 +1649,6 @@
       "onboard_time": 1746126915,
       "rank": 22,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 11619,
-      "num": 284397,
-      "word": "兵在哪马在哪俑在哪导游你在哪",
-      "onboard_time": 1746159809,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 8526,
-      "num": 190469,
-      "word": "王蓉谈爸爸妈妈歌曲由来",
-      "onboard_time": 1746159809,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 7602,
-      "num": 249920,
-      "word": "拒绝大女主套路的水饺皇后",
-      "onboard_time": 1746159809,
-      "rank": 23,
-      "category": "电影"
     }
   ],
   "hotgov_list": [

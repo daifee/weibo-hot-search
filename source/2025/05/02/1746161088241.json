@@ -1,0 +1,410 @@
+{
+  "runTime": 1746161088241,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1208709,
+        "num": 1208709,
+        "word": "中国中央广播电视总台没有邀请Kpop",
+        "onboard_time": 1746157950,
+        "rank": 0,
+        "category": "辟谣/通报,演出"
+      },
+      {
+        "raw_hot": 1039301,
+        "num": 1039301,
+        "word": "奶茶我有七不喝",
+        "onboard_time": 1746156510,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 23567,
+        "num": 682628,
+        "word": "劳动者的手每一双都了不起",
+        "onboard_time": 1746104723,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 666825,
+        "num": 666825,
+        "word": "曾黎",
+        "onboard_time": 1746150268,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 477238,
+        "num": 477238,
+        "word": "外交部回应韩国偶像组合将赴华演出",
+        "onboard_time": 1746149128,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 436000,
+        "num": 436000,
+        "word": "为什么全国景区都有这种水果",
+        "onboard_time": 1746156689,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 420809,
+        "num": 420809,
+        "word": "孙颖莎王楚钦公园陪打",
+        "onboard_time": 1746151708,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 384115,
+        "num": 384115,
+        "word": "曝博主抄袭B站UP主获利百万",
+        "onboard_time": 1746154290,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 360037,
+        "num": 360037,
+        "word": "石凯前女友称订婚是AA",
+        "onboard_time": 1746152729,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86510,
+        "num": 355341,
+        "word": "2车撞燃男子徒手掰车救人",
+        "onboard_time": 1746159750,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1547514,
+        "num": 352004,
+        "word": "买8楼送9楼10楼",
+        "onboard_time": 1746156209,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 601568,
+        "num": 350006,
+        "word": "真的不要和美甲师太熟",
+        "onboard_time": 1746155489,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 475547,
+        "num": 344993,
+        "word": "徐老师婚纱照",
+        "onboard_time": 1746157350,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 453756,
+        "num": 338280,
+        "word": "董某莹事件唯有真相才能定纷止争",
+        "onboard_time": 1746152850,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91475,
+        "num": 336005,
+        "word": "兵在哪马在哪俑在哪导游你在哪",
+        "onboard_time": 1746159809,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 331564,
+        "num": 331564,
+        "word": "迪丽热巴人在尴尬时会假装很忙",
+        "onboard_time": 1746158009,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304612,
+        "num": 304612,
+        "word": "gidle改名idle",
+        "onboard_time": 1746111142,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184010,
+        "num": 286562,
+        "word": "工作人员为曾黎发声",
+        "onboard_time": 1746159449,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269926,
+        "num": 269926,
+        "word": "日本掉坑大爷终于找到了",
+        "onboard_time": 1746158969,
+        "rank": 18,
+        "category": "海外新闻,民生新闻"
+      },
+      {
+        "raw_hot": 25506,
+        "num": 240305,
+        "word": "拒绝大女主套路的水饺皇后",
+        "onboard_time": 1746159809,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 682316,
+        "num": 239583,
+        "word": "金价暴跌有人一夜亏47万",
+        "onboard_time": 1746118698,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 238051,
+        "num": 238051,
+        "word": "外教被中国学生素质震惊",
+        "onboard_time": 1746155069,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231072,
+        "num": 231072,
+        "word": "前女友曝与石凯聊天记录",
+        "onboard_time": 1746159449,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230579,
+        "num": 230579,
+        "word": "王励勤强调国乒是一个集体",
+        "onboard_time": 1746152249,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187962,
+        "num": 225289,
+        "word": "国羽晋级苏杯四强",
+        "onboard_time": 1746159270,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220599,
+        "num": 220599,
+        "word": "打过狂犬疫苗的人嘴真严",
+        "onboard_time": 1746155249,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 195680,
+        "num": 195680,
+        "word": "乘风",
+        "onboard_time": 1746160110,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175591,
+        "num": 175591,
+        "word": "谭维维的耳环有半张脸大",
+        "onboard_time": 1746160110,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23655,
+        "num": 166460,
+        "word": "王蓉谈爸爸妈妈歌曲由来",
+        "onboard_time": 1746159809,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14934,
+        "num": 164168,
+        "word": "想快乐排便有一个黄金姿势",
+        "onboard_time": 1746160649,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 97418,
+        "num": 163612,
+        "word": "藏海传会给大家不一样的肖战",
+        "onboard_time": 1746153090,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163302,
+        "num": 163302,
+        "word": "五一的上海外滩",
+        "onboard_time": 1746157830,
+        "rank": 31,
+        "category": "旅游,民生新闻"
+      },
+      {
+        "raw_hot": 162398,
+        "num": 162398,
+        "word": "女子请病假追星被辞退起诉赔偿被驳",
+        "onboard_time": 1746144319,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156289,
+        "num": 156289,
+        "word": "TXT新歌",
+        "onboard_time": 1746160890,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 153764,
+        "num": 153764,
+        "word": "周扬青自曝着装曾被PUA",
+        "onboard_time": 1746159449,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151081,
+        "num": 151081,
+        "word": "掘金vs快船",
+        "onboard_time": 1746154827,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148008,
+        "num": 148008,
+        "word": "一群富翁竟要求美国儿童做牺牲",
+        "onboard_time": 1746153329,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 146748,
+        "num": 146748,
+        "word": "石凯前女友回应",
+        "onboard_time": 1746144618,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145322,
+        "num": 145322,
+        "word": "唐嫣工作室重组",
+        "onboard_time": 1746151349,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140467,
+        "num": 140467,
+        "word": "smtr25第四季度出道",
+        "onboard_time": 1746160590,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139564,
+        "num": 139564,
+        "word": "叶童三公第一",
+        "onboard_time": 1746160830,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139327,
+        "num": 139327,
+        "word": "Jennie红胶",
+        "onboard_time": 1746157409,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 138816,
+        "num": 138816,
+        "word": "中方正在评估是否和美方谈",
+        "onboard_time": 1746146489,
+        "rank": 42,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 137126,
+        "num": 138231,
+        "word": "王鹤棣李沁咸鱼飞升百度百科",
+        "onboard_time": 1746159270,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137974,
+        "num": 137974,
+        "word": "特朗普承认货架或将变空",
+        "onboard_time": 1746150448,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 135738,
+        "num": 135738,
+        "word": "马龙出发成都封训",
+        "onboard_time": 1746160649,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128817,
+        "num": 128817,
+        "word": "看得出来各地文旅这个假期很努力了",
+        "onboard_time": 1746160949,
+        "rank": 46,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 127528,
+        "num": 127528,
+        "word": "NBA季后赛",
+        "onboard_time": 1746161069,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106005,
+        "num": 124494,
+        "word": "没想到曾毅真演成了段奕宏",
+        "onboard_time": 1746158669,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124333,
+        "num": 124333,
+        "word": "80后国企财务成短剧恶婆婆专业户",
+        "onboard_time": 1746155610,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#涉及老百姓的事情关键在实#"
+    }
+  }
+}
