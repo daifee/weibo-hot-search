@@ -1,6 +1,6 @@
 {
   "startTime": 1746203485460,
-  "endTime": 1746210821486,
+  "endTime": 1746211627449,
   "band_list": [
     {
       "raw_hot": 1286235,
@@ -499,6 +499,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 30019,
+      "num": 30019,
+      "word": "张峻豪我们下次再见",
+      "onboard_time": 1746210735,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 26714,
       "num": 26714,
       "word": "周深南京演唱会抢票",
@@ -507,20 +515,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 26049,
-      "num": 26049,
-      "word": "张峻豪我们下次再见",
-      "onboard_time": 1746210735,
-      "rank": 47,
-      "category": "演出"
-    },
-    {
       "raw_hot": 25653,
-      "num": 25653,
+      "num": 25799,
       "word": "张云雷新歌",
       "onboard_time": 1746210675,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 24326,
+      "num": 25803,
+      "word": "BLG十番战EDG",
+      "onboard_time": 1746180029,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 24003,
+      "num": 25793,
+      "word": "于文文拾光巡回演唱会",
+      "onboard_time": 1746211216,
+      "rank": 48,
+      "category": "演出"
     }
   ],
   "hotgov_list": [
