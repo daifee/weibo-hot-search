@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1746158029167,
+  "endTime": 1746160164937,
   "band_list": [
     {
       "raw_hot": 8960529,
@@ -427,6 +427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1613120,
+      "num": 327151,
+      "word": "买8楼送9楼10楼",
+      "onboard_time": 1746156209,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1613107,
       "num": 593301,
       "word": "到底动了谁的蛋糕",
@@ -561,14 +569,6 @@
       "onboard_time": 1745836041,
       "rank": 0,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1440687,
-      "num": 327151,
-      "word": "买8楼送9楼10楼",
-      "onboard_time": 1746156209,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 1432849,
@@ -1323,6 +1323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 893207,
+      "num": 1142913,
+      "word": "奶茶我有七不喝",
+      "onboard_time": 1746156510,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 892983,
       "num": 892983,
       "word": "青簪行",
@@ -1489,6 +1497,14 @@
       "onboard_time": 1745674343,
       "rank": 1,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 816693,
+      "num": 816693,
+      "word": "中国中央广播电视总台没有邀请Kpop",
+      "onboard_time": 1746157950,
+      "rank": 26,
+      "category": "辟谣/通报,演出"
     },
     {
       "raw_hot": 811954,
@@ -2148,7 +2164,7 @@
     },
     {
       "raw_hot": 636159,
-      "num": 410276,
+      "num": 480831,
       "word": "曝博主抄袭B站UP主获利百万",
       "onboard_time": 1746154290,
       "rank": 13,
@@ -2515,6 +2531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 571119,
+      "num": 309107,
+      "word": "徐老师婚纱照",
+      "onboard_time": 1746157350,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 570366,
       "num": 570366,
       "word": "2025五四奖章获奖名单公布",
@@ -2785,6 +2809,22 @@
       "onboard_time": 1746105202,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 522721,
+      "num": 282977,
+      "word": "CMG没有邀请韩国Kpop巡回演出",
+      "onboard_time": 1746157950,
+      "rank": 18,
+      "category": "辟谣/通报,演出"
+    },
+    {
+      "raw_hot": 521008,
+      "num": 322127,
+      "word": "真的不要和美甲师太熟",
+      "onboard_time": 1746155489,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 519924,
@@ -3723,14 +3763,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 398492,
-      "num": 398492,
-      "word": "奶茶我有七不喝",
-      "onboard_time": 1746156510,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 396034,
       "num": 421094,
       "word": "谢霆锋妹妹转发了王菲",
@@ -4155,14 +4187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 348306,
-      "num": 322127,
-      "word": "真的不要和美甲师太熟",
-      "onboard_time": 1746155489,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 346478,
       "num": 346478,
       "word": "十个勤天演唱会",
@@ -4265,6 +4289,14 @@
       "onboard_time": 1745890160,
       "rank": 7,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 334373,
+      "num": 273929,
+      "word": "迪丽热巴人在尴尬时会假装很忙",
+      "onboard_time": 1746158009,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 333445,
@@ -4979,14 +5011,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 283913,
-      "num": 283913,
-      "word": "徐老师婚纱照",
-      "onboard_time": 1746157350,
-      "rank": 16,
-      "category": "网红"
-    },
-    {
       "raw_hot": 283269,
       "num": 327937,
       "word": "律师解读肖飞手术期间离岗40分钟",
@@ -5225,6 +5249,14 @@
       "onboard_time": 1746098061,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 269793,
+      "num": 269793,
+      "word": "王励勤强调国乒是一个集体",
+      "onboard_time": 1746152249,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 269657,
@@ -5793,6 +5825,14 @@
       "onboard_time": 1746018142,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 242883,
+      "num": 242883,
+      "word": "日本掉坑大爷终于找到了",
+      "onboard_time": 1746158969,
+      "rank": 25,
+      "category": "海外新闻,民生新闻"
     },
     {
       "raw_hot": 242155,
@@ -6417,14 +6457,6 @@
       "onboard_time": 1745996301,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 216691,
-      "num": 282977,
-      "word": "CMG没有邀请韩国Kpop巡回演出",
-      "onboard_time": 1746157950,
-      "rank": 18,
-      "category": "辟谣/通报,演出"
     },
     {
       "raw_hot": 216036,
@@ -7683,14 +7715,6 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 192773,
-      "num": 192773,
-      "word": "中国中央广播电视总台没有邀请Kpop",
-      "onboard_time": 1746157950,
-      "rank": 26,
-      "category": "辟谣/通报,演出"
-    },
-    {
       "raw_hot": 192313,
       "num": 269279,
       "word": "王源广州演唱会抢票",
@@ -8171,6 +8195,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 188084,
+      "num": 188084,
+      "word": "王鹤棣李沁咸鱼飞升百度百科",
+      "onboard_time": 1746159270,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187990,
       "num": 187990,
       "word": "九尾变身捕鱼高手",
@@ -8281,6 +8313,14 @@
       "onboard_time": 1746054979,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 186453,
+      "num": 186453,
+      "word": "周扬青自曝着装曾被PUA",
+      "onboard_time": 1746159449,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 186210,
@@ -8425,14 +8465,6 @@
       "onboard_time": 1745733681,
       "rank": 36,
       "category": "情感,民生新闻"
-    },
-    {
-      "raw_hot": 183130,
-      "num": 183130,
-      "word": "王励勤强调国乒是一个集体",
-      "onboard_time": 1746152249,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 182894,
@@ -9515,6 +9547,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 162929,
+      "num": 251486,
+      "word": "国羽晋级苏杯四强",
+      "onboard_time": 1746159270,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162873,
       "num": 162873,
       "word": "鹿晗 四巡",
@@ -9537,6 +9577,14 @@
       "onboard_time": 1745984362,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 162572,
+      "num": 162572,
+      "word": "五一的上海外滩",
+      "onboard_time": 1746157830,
+      "rank": 41,
+      "category": "旅游,民生新闻"
     },
     {
       "raw_hot": 162384,
@@ -10891,6 +10939,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 145165,
+      "num": 145165,
+      "word": "工作人员为曾黎发声",
+      "onboard_time": 1746159449,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145038,
       "num": 145038,
       "word": "榜上佳婿鹤秋太美了",
@@ -12003,6 +12059,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 131523,
+      "num": 188425,
+      "word": "没想到曾毅真演成了段奕宏",
+      "onboard_time": 1746158669,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 131518,
       "num": 131518,
       "word": "店主往笼子里放5只小猫忙出残影",
@@ -12835,6 +12899,14 @@
       "category": "幽默,休闲"
     },
     {
+      "raw_hot": 120602,
+      "num": 264082,
+      "word": "前女友曝与石凯聊天记录",
+      "onboard_time": 1746159449,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 120601,
       "num": 120601,
       "word": "蔡旭哲率先出舱",
@@ -13163,14 +13235,6 @@
       "category": "财经,国际时政"
     },
     {
-      "raw_hot": 116443,
-      "num": 116443,
-      "word": "迪丽热巴人在尴尬时会假装很忙",
-      "onboard_time": 1746158009,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 116392,
       "num": 151532,
       "word": "被刘宇宁这首歌打动了",
@@ -13265,6 +13329,14 @@
       "onboard_time": 1745917703,
       "rank": 27,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 114729,
+      "num": 114729,
+      "word": "乘风",
+      "onboard_time": 1746160110,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 114633,
@@ -13601,6 +13673,14 @@
       "onboard_time": 1746140957,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109697,
+      "num": 109697,
+      "word": "丁禹兮成都",
+      "onboard_time": 1746158309,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 109589,
@@ -13961,14 +14041,6 @@
       "onboard_time": 1745940802,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 104662,
-      "num": 104662,
-      "word": "五一的上海外滩",
-      "onboard_time": 1746157830,
-      "rank": 41,
-      "category": "旅游,民生新闻"
     },
     {
       "raw_hot": 104425,
@@ -14385,6 +14457,14 @@
       "onboard_time": 1745886861,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98870,
+      "num": 98870,
+      "word": "谭维维的耳环有半张脸大",
+      "onboard_time": 1746160110,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 98718,
@@ -17611,6 +17691,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 37084,
+      "num": 137944,
+      "word": "胡锡进建议京沪人南北互窜",
+      "onboard_time": 1746159089,
+      "rank": 39,
+      "category": "旅游,民生新闻"
+    },
+    {
       "raw_hot": 36968,
       "num": 159776,
       "word": "哪些变化的痣可能是癌症的早期信号",
@@ -17913,6 +18001,14 @@
       "onboard_time": 1745950696,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 31917,
+      "num": 255289,
+      "word": "2车撞燃男子徒手掰车救人",
+      "onboard_time": 1746159750,
+      "rank": 21,
+      "category": "正能量"
     },
     {
       "raw_hot": 31916,
@@ -19627,6 +19723,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 11619,
+      "num": 284397,
+      "word": "兵在哪马在哪俑在哪导游你在哪",
+      "onboard_time": 1746159809,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 11289,
       "num": 195464,
       "word": "清华大学建校114周年",
@@ -19747,6 +19851,14 @@
       "category": "运动健身,民生新闻"
     },
     {
+      "raw_hot": 8526,
+      "num": 190469,
+      "word": "王蓉谈爸爸妈妈歌曲由来",
+      "onboard_time": 1746159809,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 8430,
       "num": 463509,
       "word": "猎金游戏揭示了资本市场的哪些真相",
@@ -19825,6 +19937,14 @@
       "onboard_time": 1745814621,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7602,
+      "num": 249920,
+      "word": "拒绝大女主套路的水饺皇后",
+      "onboard_time": 1746159809,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 7415,

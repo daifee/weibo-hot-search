@@ -1,7 +1,15 @@
 {
   "startTime": 1746117084529,
-  "endTime": 1746158029167,
+  "endTime": 1746160164937,
   "band_list": [
+    {
+      "raw_hot": 1613120,
+      "num": 327151,
+      "word": "买8楼送9楼10楼",
+      "onboard_time": 1746156209,
+      "rank": 31,
+      "category": "情感"
+    },
     {
       "raw_hot": 1572681,
       "num": 1228604,
@@ -9,14 +17,6 @@
       "onboard_time": 1746118698,
       "rank": 6,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1440687,
-      "num": 327151,
-      "word": "买8楼送9楼10楼",
-      "onboard_time": 1746156209,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 1344343,
@@ -83,6 +83,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 893207,
+      "num": 1142913,
+      "word": "奶茶我有七不喝",
+      "onboard_time": 1746156510,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 873139,
       "num": 1139702,
       "word": "韩媒曝KPOP爱豆中韩演唱会",
@@ -97,6 +105,14 @@
       "onboard_time": 1746144618,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 816693,
+      "num": 816693,
+      "word": "中国中央广播电视总台没有邀请Kpop",
+      "onboard_time": 1746157950,
+      "rank": 26,
+      "category": "辟谣/通报,演出"
     },
     {
       "raw_hot": 767281,
@@ -124,7 +140,7 @@
     },
     {
       "raw_hot": 636159,
-      "num": 410276,
+      "num": 480831,
       "word": "曝博主抄袭B站UP主获利百万",
       "onboard_time": 1746154290,
       "rank": 13,
@@ -179,6 +195,14 @@
       "category": "民生新闻,幽默"
     },
     {
+      "raw_hot": 571119,
+      "num": 309107,
+      "word": "徐老师婚纱照",
+      "onboard_time": 1746157350,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 561787,
       "num": 352223,
       "word": "特朗普称美国孩子只能有2个玩具了",
@@ -193,6 +217,22 @@
       "onboard_time": 1746150448,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 522721,
+      "num": 282977,
+      "word": "CMG没有邀请韩国Kpop巡回演出",
+      "onboard_time": 1746157950,
+      "rank": 18,
+      "category": "辟谣/通报,演出"
+    },
+    {
+      "raw_hot": 521008,
+      "num": 322127,
+      "word": "真的不要和美甲师太熟",
+      "onboard_time": 1746155489,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 506421,
@@ -307,14 +347,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 398492,
-      "num": 398492,
-      "word": "奶茶我有七不喝",
-      "onboard_time": 1746156510,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 372852,
       "num": 331554,
       "word": "翁虹与丈夫分居3年感情反而更好了",
@@ -323,20 +355,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 348306,
-      "num": 322127,
-      "word": "真的不要和美甲师太熟",
-      "onboard_time": 1746155489,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 334851,
       "num": 334851,
       "word": "蓝莓肚脐眼里的霉菌",
       "onboard_time": 1746085281,
       "rank": 12,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 334373,
+      "num": 273929,
+      "word": "迪丽热巴人在尴尬时会假装很忙",
+      "onboard_time": 1746158009,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 331600,
@@ -403,20 +435,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 283913,
-      "num": 283913,
-      "word": "徐老师婚纱照",
-      "onboard_time": 1746157350,
-      "rank": 16,
-      "category": "网红"
-    },
-    {
       "raw_hot": 280660,
       "num": 280660,
       "word": "半个娱乐圈都在大风杀",
       "onboard_time": 1746101481,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 269793,
+      "num": 269793,
+      "word": "王励勤强调国乒是一个集体",
+      "onboard_time": 1746152249,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 269657,
@@ -451,6 +483,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 242883,
+      "num": 242883,
+      "word": "日本掉坑大爷终于找到了",
+      "onboard_time": 1746158969,
+      "rank": 25,
+      "category": "海外新闻,民生新闻"
+    },
+    {
       "raw_hot": 221533,
       "num": 221533,
       "word": "张凌赫说金靖气血不足",
@@ -465,14 +505,6 @@
       "onboard_time": 1746149068,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 216691,
-      "num": 282977,
-      "word": "CMG没有邀请韩国Kpop巡回演出",
-      "onboard_time": 1746157950,
-      "rank": 18,
-      "category": "辟谣/通报,演出"
     },
     {
       "raw_hot": 206893,
@@ -531,14 +563,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 192773,
-      "num": 192773,
-      "word": "中国中央广播电视总台没有邀请Kpop",
-      "onboard_time": 1746157950,
-      "rank": 26,
-      "category": "辟谣/通报,演出"
-    },
-    {
       "raw_hot": 188254,
       "num": 188254,
       "word": "严浩翔 染发",
@@ -547,20 +571,28 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 188084,
+      "num": 188084,
+      "word": "王鹤棣李沁咸鱼飞升百度百科",
+      "onboard_time": 1746159270,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 186453,
+      "num": 186453,
+      "word": "周扬青自曝着装曾被PUA",
+      "onboard_time": 1746159449,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186131,
       "num": 186131,
       "word": "鹿晗耳蜗钉",
       "onboard_time": 1746100701,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 183130,
-      "num": 183130,
-      "word": "王励勤强调国乒是一个集体",
-      "onboard_time": 1746152249,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 175701,
@@ -603,12 +635,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 162929,
+      "num": 251486,
+      "word": "国羽晋级苏杯四强",
+      "onboard_time": 1746159270,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162791,
       "num": 162791,
       "word": "太中",
       "onboard_time": 1746154529,
       "rank": 28,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 162572,
+      "num": 162572,
+      "word": "五一的上海外滩",
+      "onboard_time": 1746157830,
+      "rank": 41,
+      "category": "旅游,民生新闻"
     },
     {
       "raw_hot": 161094,
@@ -715,6 +763,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 145165,
+      "num": 145165,
+      "word": "工作人员为曾黎发声",
+      "onboard_time": 1746159449,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144654,
       "num": 144654,
       "word": "吴宣仪彭小苒你俩什么死动静",
@@ -769,6 +825,14 @@
       "onboard_time": 1746144019,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 131523,
+      "num": 188425,
+      "word": "没想到曾毅真演成了段奕宏",
+      "onboard_time": 1746158669,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 131518,
@@ -843,6 +907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120602,
+      "num": 264082,
+      "word": "前女友曝与石凯聊天记录",
+      "onboard_time": 1746159449,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 118336,
       "num": 118336,
       "word": "侯佩岑能不能开个情商班",
@@ -851,12 +923,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 116443,
-      "num": 116443,
-      "word": "迪丽热巴人在尴尬时会假装很忙",
-      "onboard_time": 1746158009,
-      "rank": 37,
-      "category": "艺人"
+      "raw_hot": 114729,
+      "num": 114729,
+      "word": "乘风",
+      "onboard_time": 1746160110,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 113730,
@@ -899,6 +971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109697,
+      "num": 109697,
+      "word": "丁禹兮成都",
+      "onboard_time": 1746158309,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107829,
       "num": 107829,
       "word": "女子用餐后将擦鼻涕纸扔进碗罐",
@@ -921,14 +1001,6 @@
       "onboard_time": 1746113662,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 104662,
-      "num": 104662,
-      "word": "五一的上海外滩",
-      "onboard_time": 1746157830,
-      "rank": 41,
-      "category": "旅游,民生新闻"
     },
     {
       "raw_hot": 104558,
@@ -985,6 +1057,22 @@
       "onboard_time": 1746157528,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 98870,
+      "num": 98870,
+      "word": "谭维维的耳环有半张脸大",
+      "onboard_time": 1746160110,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 97849,
+      "num": 106457,
+      "word": "藏海传会给大家不一样的肖战",
+      "onboard_time": 1746153090,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 97529,
@@ -1275,6 +1363,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 37084,
+      "num": 137944,
+      "word": "胡锡进建议京沪人南北互窜",
+      "onboard_time": 1746159089,
+      "rank": 39,
+      "category": "旅游,民生新闻"
+    },
+    {
       "raw_hot": 34033,
       "num": 37316,
       "word": "贵州文旅太拼了",
@@ -1297,6 +1393,14 @@
       "onboard_time": 1746130813,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31917,
+      "num": 255289,
+      "word": "2车撞燃男子徒手掰车救人",
+      "onboard_time": 1746159750,
+      "rank": 21,
+      "category": "正能量"
     },
     {
       "raw_hot": 31916,
@@ -1465,6 +1569,30 @@
       "onboard_time": 1746126915,
       "rank": 22,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 11619,
+      "num": 284397,
+      "word": "兵在哪马在哪俑在哪导游你在哪",
+      "onboard_time": 1746159809,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8526,
+      "num": 190469,
+      "word": "王蓉谈爸爸妈妈歌曲由来",
+      "onboard_time": 1746159809,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 7602,
+      "num": 249920,
+      "word": "拒绝大女主套路的水饺皇后",
+      "onboard_time": 1746159809,
+      "rank": 23,
+      "category": "电影"
     }
   ],
   "hotgov_list": [
