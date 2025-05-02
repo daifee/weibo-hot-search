@@ -1,0 +1,410 @@
+{
+  "runTime": 1746175549500,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1459119,
+        "num": 1459119,
+        "word": "曾黎工作室徽章失窃",
+        "onboard_time": 1746163710,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 530447,
+        "num": 530447,
+        "word": "全红婵陈芋汐跳水世界杯冠军",
+        "onboard_time": 1746172640,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26206,
+        "num": 514072,
+        "word": "致敬了不起的工匠精神",
+        "onboard_time": 1746155728,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 618763,
+        "num": 513629,
+        "word": "董力婚后和初恋单独吃过饭",
+        "onboard_time": 1746166589,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 512577,
+        "num": 512577,
+        "word": "日本3个月前坠坑老人确认死亡",
+        "onboard_time": 1746166889,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 503080,
+        "num": 503080,
+        "word": "普陀山",
+        "onboard_time": 1746171142,
+        "rank": 5,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 554149,
+        "num": 494866,
+        "word": "苏新皓摔倒",
+        "onboard_time": 1746172460,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 470204,
+        "num": 470204,
+        "word": "2025年竟然在跑男里看到了陈赫",
+        "onboard_time": 1746170120,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346793,
+        "num": 346793,
+        "word": "王励勤谢绝媒体采访国乒队员",
+        "onboard_time": 1746170241,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88464,
+        "num": 334236,
+        "word": "众人为举国旗爬山男子照亮上山路",
+        "onboard_time": 1746174140,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1117095,
+        "num": 333960,
+        "word": "董小姐在她一作的论文里负责翻译",
+        "onboard_time": 1746163890,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 602853,
+        "num": 333831,
+        "word": "当老爸得知我去日本玩be like",
+        "onboard_time": 1746170540,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 333621,
+        "num": 333621,
+        "word": "群聊泄密事件当事人升职",
+        "onboard_time": 1746169521,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 310430,
+        "num": 310430,
+        "word": "五一假期是捅人窝了吧",
+        "onboard_time": 1746166410,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 57486,
+        "num": 303603,
+        "word": "12306回应动车停摆乘客被困4小时",
+        "onboard_time": 1746174202,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 303311,
+        "num": 303311,
+        "word": "李晟小考太帅了",
+        "onboard_time": 1746171020,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301145,
+        "num": 301145,
+        "word": "买8楼送9楼10楼",
+        "onboard_time": 1746156209,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 258032,
+        "num": 258032,
+        "word": "李昀锐武汉",
+        "onboard_time": 1746171079,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241105,
+        "num": 241105,
+        "word": "吴宣仪拒绝叶童",
+        "onboard_time": 1746164129,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201047,
+        "num": 201047,
+        "word": "中国中央广播电视总台没有邀请Kpop",
+        "onboard_time": 1746157950,
+        "rank": 19,
+        "category": "辟谣/通报,演出"
+      },
+      {
+        "raw_hot": 381270,
+        "num": 201037,
+        "word": "金价暴跌有人一夜亏47万",
+        "onboard_time": 1746118698,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 198222,
+        "num": 198222,
+        "word": "董某莹事件唯有真相才能定纷止争",
+        "onboard_time": 1746152850,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14696,
+        "num": 194520,
+        "word": "孩子上学家长如何缓解有分离焦虑",
+        "onboard_time": 1746175281,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 194362,
+        "num": 194362,
+        "word": "孟子义打小眼睛就大",
+        "onboard_time": 1746164429,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165424,
+        "num": 165424,
+        "word": "周翊然 楚后",
+        "onboard_time": 1746171862,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159942,
+        "num": 159942,
+        "word": "张凌赫手臂肌肉",
+        "onboard_time": 1746171621,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156274,
+        "num": 156274,
+        "word": "曾黎掉粉超10万",
+        "onboard_time": 1746162630,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141018,
+        "num": 141018,
+        "word": "奶茶我有七不喝",
+        "onboard_time": 1746156510,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140032,
+        "num": 140032,
+        "word": "一种适合打工人的云旅行",
+        "onboard_time": 1746174560,
+        "rank": 28,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 138431,
+        "num": 138431,
+        "word": "朱志鑫好会wave",
+        "onboard_time": 1746174861,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 137468,
+        "num": 137468,
+        "word": "白鹿很开心的一次出游plog",
+        "onboard_time": 1746174261,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126075,
+        "num": 126075,
+        "word": "巨蟹双鱼天蝎感情差异",
+        "onboard_time": 1746172342,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119191,
+        "num": 119191,
+        "word": "回忆专用小马甲一夜掉粉2.6万",
+        "onboard_time": 1746168929,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 117367,
+        "num": 117367,
+        "word": "王楚钦被球砸脸还笑场",
+        "onboard_time": 1746167309,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115992,
+        "num": 115992,
+        "word": "家人回应大爷掉坑3个月终于找到了",
+        "onboard_time": 1746166710,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 112172,
+        "num": 112172,
+        "word": "杨紫生命树开机照",
+        "onboard_time": 1746168150,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107933,
+        "num": 107933,
+        "word": "国外裸绞制服小偷的山东小伙发声",
+        "onboard_time": 1746173181,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107768,
+        "num": 107768,
+        "word": "田曦薇粉丝破一千万",
+        "onboard_time": 1746169880,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105941,
+        "num": 105941,
+        "word": "美政府颗粒度没对齐",
+        "onboard_time": 1746171321,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 29281,
+        "num": 103238,
+        "word": "外国博主热情助人却惨遭背刺",
+        "onboard_time": 1746175281,
+        "rank": 39,
+        "category": "海外新闻,民生新闻"
+      },
+      {
+        "raw_hot": 102034,
+        "num": 102034,
+        "word": "迪丽热巴跳团播舞",
+        "onboard_time": 1746171321,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95405,
+        "num": 95405,
+        "word": "苏新皓中控红海",
+        "onboard_time": 1746169580,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 95070,
+        "num": 95070,
+        "word": "全红婵陈芋汐水立方夺冠",
+        "onboard_time": 1746173901,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93615,
+        "num": 93615,
+        "word": "五一景区挤麻了",
+        "onboard_time": 1746174861,
+        "rank": 43,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 92697,
+        "num": 92697,
+        "word": "成都市民乒乓球实力震惊王楚钦",
+        "onboard_time": 1746172041,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88734,
+        "num": 88734,
+        "word": "登陆少年演唱会",
+        "onboard_time": 1746175521,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 86320,
+        "num": 86320,
+        "word": "祝绪丹把姐姐们养的很好",
+        "onboard_time": 1746175340,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82934,
+        "num": 82934,
+        "word": "包包挂件",
+        "onboard_time": 1746175461,
+        "rank": 47,
+        "category": "时尚,休闲"
+      },
+      {
+        "raw_hot": 41258,
+        "num": 82488,
+        "word": "蹲便和坐便哪个上起来更通畅",
+        "onboard_time": 1746174080,
+        "rank": 48,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 82334,
+        "num": 82334,
+        "word": "看一眼余额就会晕过去",
+        "onboard_time": 1746174021,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记关怀劳动者的温暖瞬间#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746174748564,
+  "endTime": 1746175549500,
   "band_list": [
     {
       "raw_hot": 2306655,
@@ -604,7 +604,7 @@
     },
     {
       "raw_hot": 630442,
-      "num": 400729,
+      "num": 494866,
       "word": "苏新皓摔倒",
       "onboard_time": 1746172460,
       "rank": 6,
@@ -657,6 +657,14 @@
       "onboard_time": 1746081801,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 602853,
+      "num": 333831,
+      "word": "当老爸得知我去日本玩be like",
+      "onboard_time": 1746170540,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 602760,
@@ -764,7 +772,7 @@
     },
     {
       "raw_hot": 540889,
-      "num": 398746,
+      "num": 470204,
       "word": "2025年竟然在跑男里看到了陈赫",
       "onboard_time": 1746170120,
       "rank": 31,
@@ -809,6 +817,14 @@
       "onboard_time": 1746152729,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 503080,
+      "num": 503080,
+      "word": "普陀山",
+      "onboard_time": 1746171142,
+      "rank": 46,
+      "category": "旅游"
     },
     {
       "raw_hot": 498325,
@@ -1067,14 +1083,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 385688,
-      "num": 385688,
-      "word": "普陀山",
-      "onboard_time": 1746171142,
-      "rank": 46,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 381330,
       "num": 295018,
       "word": "饶毅再发文谈协和4加4制度",
@@ -1147,8 +1155,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 341366,
-      "num": 341366,
+      "raw_hot": 346793,
+      "num": 346793,
       "word": "王励勤谢绝媒体采访国乒队员",
       "onboard_time": 1746170241,
       "rank": 29,
@@ -1232,14 +1240,6 @@
       "word": "打过狂犬疫苗的人嘴真严",
       "onboard_time": 1746155249,
       "rank": 36,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 329477,
-      "num": 329477,
-      "word": "当老爸得知我去日本玩be like",
-      "onboard_time": 1746170540,
-      "rank": 44,
       "category": "情感"
     },
     {
@@ -1585,6 +1585,14 @@
       "onboard_time": 1746098421,
       "rank": 40,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 258032,
+      "num": 258032,
+      "word": "李昀锐武汉",
+      "onboard_time": 1746171079,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 256864,
@@ -2547,14 +2555,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 179378,
-      "num": 179378,
-      "word": "李昀锐武汉",
-      "onboard_time": 1746171079,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 178371,
       "num": 178371,
       "word": "第一次见开榴莲开出榴莲糖",
@@ -2889,6 +2889,14 @@
       "onboard_time": 1746091641,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159942,
+      "num": 159942,
+      "word": "张凌赫手臂肌肉",
+      "onboard_time": 1746171621,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 159921,
@@ -3363,14 +3371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 142613,
-      "num": 142613,
-      "word": "张凌赫手臂肌肉",
-      "onboard_time": 1746171621,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 141968,
       "num": 141968,
       "word": "感觉迪丽热巴回去会偷偷学",
@@ -3457,6 +3457,14 @@
       "onboard_time": 1746094221,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138431,
+      "num": 138431,
+      "word": "朱志鑫好会wave",
+      "onboard_time": 1746174861,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 138185,
@@ -3905,6 +3913,14 @@
       "onboard_time": 1746076881,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 126075,
+      "num": 126075,
+      "word": "巨蟹双鱼天蝎感情差异",
+      "onboard_time": 1746172342,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 125654,
@@ -4715,6 +4731,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 93615,
+      "num": 93615,
+      "word": "五一景区挤麻了",
+      "onboard_time": 1746174861,
+      "rank": 43,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 93383,
       "num": 93383,
       "word": "周迅50岁素颜状态",
@@ -4763,12 +4787,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 88464,
+      "num": 385707,
+      "word": "众人为举国旗爬山男子照亮上山路",
+      "onboard_time": 1746174140,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87372,
       "num": 87372,
       "word": "晚安奈奈澄清",
       "onboard_time": 1746151169,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 86320,
+      "num": 86320,
+      "word": "祝绪丹把姐姐们养的很好",
+      "onboard_time": 1746175340,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 86223,
@@ -4835,12 +4875,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 82934,
+      "num": 82934,
+      "word": "包包挂件",
+      "onboard_time": 1746175461,
+      "rank": 47,
+      "category": "时尚,休闲"
+    },
+    {
       "raw_hot": 82375,
       "num": 295861,
       "word": "大明湖锦鲤跃龙门因太胖被卡住",
       "onboard_time": 1746163110,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82334,
+      "num": 82334,
+      "word": "看一眼余额就会晕过去",
+      "onboard_time": 1746174021,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 81442,
@@ -5147,6 +5203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57486,
+      "num": 343021,
+      "word": "12306回应动车停摆乘客被困4小时",
+      "onboard_time": 1746174202,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57376,
       "num": 225954,
       "word": "美国这100天真一言难尽",
@@ -5443,6 +5507,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 41258,
+      "num": 257119,
+      "word": "蹲便和坐便哪个上起来更通畅",
+      "onboard_time": 1746174080,
+      "rank": 19,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 41078,
       "num": 311061,
       "word": "中国队夺跳水世界杯总决赛首金",
@@ -5531,14 +5603,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 36165,
-      "num": 257119,
-      "word": "蹲便和坐便哪个上起来更通畅",
-      "onboard_time": 1746174080,
-      "rank": 19,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 35792,
       "num": 338216,
       "word": "特朗普称美乌协议美方获利将多于付出",
@@ -5603,14 +5667,6 @@
       "category": "国内时政,财经"
     },
     {
-      "raw_hot": 31549,
-      "num": 385707,
-      "word": "众人为举国旗爬山男子照亮上山路",
-      "onboard_time": 1746174140,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 31333,
       "num": 148336,
       "word": "以色列大火向军事基地蔓延",
@@ -5633,6 +5689,14 @@
       "onboard_time": 1746034456,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 29281,
+      "num": 103238,
+      "word": "外国博主热情助人却惨遭背刺",
+      "onboard_time": 1746175281,
+      "rank": 39,
+      "category": "海外新闻,民生新闻"
     },
     {
       "raw_hot": 28108,
@@ -5827,14 +5891,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 20436,
-      "num": 343021,
-      "word": "12306回应动车停摆乘客被困4小时",
-      "onboard_time": 1746174202,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 20319,
       "num": 20319,
       "word": "全世界我最美",
@@ -6001,6 +6057,14 @@
       "onboard_time": 1746047474,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 14696,
+      "num": 194520,
+      "word": "孩子上学家长如何缓解有分离焦虑",
+      "onboard_time": 1746175281,
+      "rank": 22,
+      "category": "教育"
     },
     {
       "raw_hot": 14587,
