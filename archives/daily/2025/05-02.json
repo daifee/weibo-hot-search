@@ -1,6 +1,6 @@
 {
   "startTime": 1746117084529,
-  "endTime": 1746190078310,
+  "endTime": 1746191002745,
   "band_list": [
     {
       "raw_hot": 2150105,
@@ -49,6 +49,14 @@
       "onboard_time": 1746111142,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1315713,
+      "num": 309165,
+      "word": "酒店痛房",
+      "onboard_time": 1746187890,
+      "rank": 10,
+      "category": "幽默"
     },
     {
       "raw_hot": 1272960,
@@ -364,7 +372,7 @@
     },
     {
       "raw_hot": 532836,
-      "num": 399715,
+      "num": 500310,
       "word": "王凯首度回应快两年没进组",
       "onboard_time": 1746187530,
       "rank": 6,
@@ -385,14 +393,6 @@
       "onboard_time": 1746152729,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 501625,
-      "num": 309165,
-      "word": "酒店痛房",
-      "onboard_time": 1746187890,
-      "rank": 10,
-      "category": "幽默"
     },
     {
       "raw_hot": 497382,
@@ -457,6 +457,14 @@
       "onboard_time": 1746181530,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 463548,
+      "num": 301684,
+      "word": "章泽天杨天真不丹徒步",
+      "onboard_time": 1746188969,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 459790,
@@ -547,6 +555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 420797,
+      "num": 420797,
+      "word": "为什么年轻人普遍牙不好",
+      "onboard_time": 1746186389,
+      "rank": 8,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 418188,
       "num": 418188,
       "word": "赵露思只唱了两首歌",
@@ -631,22 +647,6 @@
       "num": 331554,
       "word": "翁虹与丈夫分居3年感情反而更好了",
       "onboard_time": 1746142158,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 362940,
-      "num": 362940,
-      "word": "为什么年轻人普遍牙不好",
-      "onboard_time": 1746186389,
-      "rank": 8,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 356280,
-      "num": 301684,
-      "word": "章泽天杨天真不丹徒步",
-      "onboard_time": 1746188969,
       "rank": 11,
       "category": "艺人"
     },
@@ -921,6 +921,14 @@
       "onboard_time": 1746183270,
       "rank": 22,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 243350,
+      "num": 141343,
+      "word": "高中生继承5亿遗产结婚当天坠亡",
+      "onboard_time": 1746190950,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 239280,
@@ -1259,6 +1267,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185320,
+      "num": 183523,
+      "word": "王励勤开球手法一看就是世界冠军",
+      "onboard_time": 1746189510,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 185034,
+      "num": 185034,
+      "word": "BLG十番战EDG",
+      "onboard_time": 1746180029,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 184447,
       "num": 184447,
       "word": "张峻豪音乐节",
@@ -1283,12 +1307,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182410,
+      "num": 182410,
+      "word": "翟潇闻直播",
+      "onboard_time": 1746190529,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181571,
       "num": 181571,
       "word": "刘耀文两年过去还是爱搜自己神图",
       "onboard_time": 1746162748,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178152,
+      "num": 178152,
+      "word": "AG剧透",
+      "onboard_time": 1746189450,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 175701,
@@ -1475,6 +1515,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 160220,
+      "num": 160220,
+      "word": "鞠婧祎蒂玮娜预热",
+      "onboard_time": 1746189752,
+      "rank": 25,
+      "category": "艺人,剧集"
+    },
+    {
       "raw_hot": 159942,
       "num": 159942,
       "word": "张凌赫手臂肌肉",
@@ -1497,6 +1545,14 @@
       "onboard_time": 1746144740,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159003,
+      "num": 159003,
+      "word": "尹净汉出国",
+      "onboard_time": 1746190650,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 158939,
@@ -1619,6 +1675,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 153076,
+      "num": 182619,
+      "word": "预算10万的形象工程花200余万",
+      "onboard_time": 1746189871,
+      "rank": 28,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 152432,
       "num": 152432,
       "word": "李昀锐新头像",
@@ -1633,6 +1697,14 @@
       "onboard_time": 1746155610,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151884,
+      "num": 151884,
+      "word": "华晨宇开场舞美平地起高楼",
+      "onboard_time": 1746190291,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 151081,
@@ -1667,14 +1739,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 149016,
-      "num": 149016,
-      "word": "鞠婧祎蒂玮娜预热",
-      "onboard_time": 1746189752,
-      "rank": 25,
-      "category": "艺人,剧集"
-    },
-    {
       "raw_hot": 148143,
       "num": 148143,
       "word": "长剧是细水长流短剧是一秒上头",
@@ -1705,6 +1769,14 @@
       "onboard_time": 1746162029,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146195,
+      "num": 146195,
+      "word": "胖东来向胖都来寄律师函",
+      "onboard_time": 1746190950,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 145873,
@@ -1979,6 +2051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130339,
+      "num": 130339,
+      "word": "华晨宇红发冷脸帅成这样",
+      "onboard_time": 1746190590,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 128940,
       "num": 128940,
       "word": "奔跑吧",
@@ -2097,14 +2177,6 @@
       "onboard_time": 1746108623,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 124134,
-      "num": 124134,
-      "word": "AG剧透",
-      "onboard_time": 1746189450,
-      "rank": 35,
-      "category": "电竞"
     },
     {
       "raw_hot": 123318,
@@ -2251,6 +2323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109788,
+      "num": 109788,
+      "word": "工藤新一生日大屏",
+      "onboard_time": 1746189570,
+      "rank": 43,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 109727,
       "num": 159511,
       "word": "外国人组团飞到中国代购中国制造",
@@ -2387,14 +2467,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 104435,
-      "num": 104435,
-      "word": "工藤新一生日大屏",
-      "onboard_time": 1746189570,
-      "rank": 43,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 103549,
       "num": 103549,
       "word": "邪恶双马尾咪",
@@ -2409,6 +2481,14 @@
       "onboard_time": 1746157769,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 103290,
+      "num": 103290,
+      "word": "人人人人人人景点人人人人人人",
+      "onboard_time": 1746190831,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103020,
@@ -2459,6 +2539,14 @@
       "category": "游戏,演出"
     },
     {
+      "raw_hot": 100588,
+      "num": 100588,
+      "word": "单亲母亲丢失孩子的那一刻",
+      "onboard_time": 1746187890,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 100575,
       "num": 187430,
       "word": "陈梦谈妈妈",
@@ -2473,22 +2561,6 @@
       "onboard_time": 1746178710,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 99936,
-      "num": 99936,
-      "word": "单亲母亲丢失孩子的那一刻",
-      "onboard_time": 1746187890,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 99908,
-      "num": 138566,
-      "word": "预算10万的形象工程花200余万",
-      "onboard_time": 1746189871,
-      "rank": 28,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 99174,
@@ -2587,12 +2659,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 88689,
+      "num": 138328,
+      "word": "第一视角感受各行各业奋斗日常",
+      "onboard_time": 1746189990,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88387,
+      "num": 257165,
+      "word": "太好了是李昀锐夏天有救了",
+      "onboard_time": 1746189630,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 88176,
       "num": 88176,
       "word": "用真鱼皮做的包",
       "onboard_time": 1746187109,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 87527,
+      "num": 153437,
+      "word": "美国人提醒美国不可能取代中国",
+      "onboard_time": 1746190711,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 87372,
@@ -2716,7 +2812,7 @@
     },
     {
       "raw_hot": 76530,
-      "num": 104895,
+      "num": 160222,
       "word": "成都蓉城vs上海申花",
       "onboard_time": 1746188610,
       "rank": 42,
@@ -2808,14 +2904,6 @@
       "word": "致敬了不起的工匠精神",
       "onboard_time": 1746155728,
       "rank": 25,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 61159,
-      "num": 138328,
-      "word": "第一视角感受各行各业奋斗日常",
-      "onboard_time": 1746189990,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -2984,6 +3072,14 @@
       "word": "苏杯中国VS马来西亚",
       "onboard_time": 1746150208,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 42778,
+      "num": 124259,
+      "word": "快船凭借什么战胜掘金",
+      "onboard_time": 1746190890,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -3353,14 +3449,6 @@
       "onboard_time": 1746115161,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16410,
-      "num": 257165,
-      "word": "太好了是李昀锐夏天有救了",
-      "onboard_time": 1746189630,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 16065,
