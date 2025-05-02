@@ -1,6 +1,6 @@
 {
   "startTime": 1746117084529,
-  "endTime": 1746142702236,
+  "endTime": 1746150964756,
   "band_list": [
     {
       "raw_hot": 1572681,
@@ -35,6 +35,30 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 884510,
+      "num": 436695,
+      "word": "协和4加4培养的是天才还是关系户",
+      "onboard_time": 1746143959,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 873139,
+      "num": 1139702,
+      "word": "韩媒曝KPOP爱豆中韩演唱会",
+      "onboard_time": 1746149128,
+      "rank": 0,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 867633,
+      "num": 458907,
+      "word": "石凯前女友回应",
+      "onboard_time": 1746144618,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 732362,
       "num": 343691,
       "word": "元气森林音乐节 迟到",
@@ -67,8 +91,16 @@
       "category": "演出"
     },
     {
+      "raw_hot": 589847,
+      "num": 457240,
+      "word": "赵露思七分钟演出",
+      "onboard_time": 1746143659,
+      "rank": 4,
+      "category": "演出"
+    },
+    {
       "raw_hot": 579260,
-      "num": 158006,
+      "num": 234513,
       "word": "涉肖某董某事件多个账号被禁言",
       "onboard_time": 1746140957,
       "rank": 10,
@@ -99,12 +131,52 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 459790,
+      "num": 459790,
+      "word": "第一大波游客已经抵达山西",
+      "onboard_time": 1746143239,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 459535,
+      "num": 432562,
+      "word": "钢铁大王遭绑儿子被嫌犯甩锅是主谋",
+      "onboard_time": 1746143179,
+      "rank": 12,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 455506,
+      "num": 455506,
+      "word": "年轻人开始流行旅游摆摊了",
+      "onboard_time": 1746149610,
+      "rank": 7,
+      "category": "民生新闻,幽默"
+    },
+    {
+      "raw_hot": 444645,
+      "num": 457144,
+      "word": "中方正在评估是否和美方谈",
+      "onboard_time": 1746146489,
+      "rank": 5,
+      "category": "国内时政,财经"
+    },
+    {
       "raw_hot": 443242,
       "num": 200500,
       "word": "金价大跌购买人数又上来了",
       "onboard_time": 1746103942,
       "rank": 20,
       "category": "财经"
+    },
+    {
+      "raw_hot": 439383,
+      "num": 439383,
+      "word": "美方多次主动向中方传递信息想谈",
+      "onboard_time": 1746146489,
+      "rank": 10,
+      "category": "国内时政,财经"
     },
     {
       "raw_hot": 436976,
@@ -115,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 418188,
+      "num": 418188,
+      "word": "赵露思只唱了两首歌",
+      "onboard_time": 1746145889,
+      "rank": 13,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 415567,
       "num": 415567,
       "word": "董某外公为外籍院士米耀荣系谣言",
@@ -123,8 +203,16 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 393268,
+      "num": 393268,
+      "word": "种了27年的地因未退耕被判刑6个月",
+      "onboard_time": 1746147268,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 372852,
-      "num": 150197,
+      "num": 331554,
       "word": "翁虹与丈夫分居3年感情反而更好了",
       "onboard_time": 1746142158,
       "rank": 11,
@@ -145,6 +233,14 @@
       "onboard_time": 1746115040,
       "rank": 16,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 310430,
+      "num": 276002,
+      "word": "女子请病假追星被辞退起诉赔偿被驳",
+      "onboard_time": 1746144319,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 300862,
@@ -179,6 +275,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 269657,
+      "num": 269657,
+      "word": "医生称劣质无痕内裤可能是胶水粘的",
+      "onboard_time": 1746145649,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 259712,
       "num": 259712,
       "word": "马斯克被爆踢出局",
@@ -203,12 +307,36 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 244447,
+      "num": 281616,
+      "word": "曾黎",
+      "onboard_time": 1746150268,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206893,
       "num": 206893,
       "word": "周深一开嗓唱出踏风破浪",
       "onboard_time": 1746096561,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201093,
+      "num": 201093,
+      "word": "最卑微的妖耗尽生命为他下了一场雪",
+      "onboard_time": 1746146309,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 188254,
+      "num": 188254,
+      "word": "严浩翔 染发",
+      "onboard_time": 1746143779,
+      "rank": 27,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 186131,
@@ -219,12 +347,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184270,
+      "num": 394267,
+      "word": "加沙一袋面粉卖4000元",
+      "onboard_time": 1746149068,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 175701,
       "num": 175701,
       "word": "女生怒减50斤后的颜值变化",
       "onboard_time": 1746110663,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 167542,
+      "num": 167542,
+      "word": "吃蓝莓前记得给它掏耳朵",
+      "onboard_time": 1746115580,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 167446,
+      "num": 167446,
+      "word": "韩泰山",
+      "onboard_time": 1746147029,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 166656,
@@ -251,6 +403,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 155029,
+      "num": 155029,
+      "word": "五一假期第2天",
+      "onboard_time": 1746144740,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153367,
+      "num": 440662,
+      "word": "李周浩任韩国代总统",
+      "onboard_time": 1746149489,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 152432,
       "num": 152432,
       "word": "李昀锐新头像",
@@ -267,12 +435,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 146057,
+      "num": 146057,
+      "word": "南宁丢那猩互动时丢石块砸伤游客",
+      "onboard_time": 1746145518,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145873,
       "num": 145873,
       "word": "崔健 音乐节",
       "onboard_time": 1746115100,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 143465,
+      "num": 143465,
+      "word": "美方想谈就应拿出谈的诚意",
+      "onboard_time": 1746146790,
+      "rank": 32,
+      "category": "国内时政,财经"
     },
     {
       "raw_hot": 142092,
@@ -291,11 +475,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132261,
+      "num": 132261,
+      "word": "落日飞车迟到",
+      "onboard_time": 1746144019,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131267,
       "num": 131267,
       "word": "继母偷走爷爷留给孙女的8万元遗产",
       "onboard_time": 1746109642,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127421,
+      "num": 127421,
+      "word": "男子帮抬棺心梗猝死家属获11万补偿",
+      "onboard_time": 1746142338,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -331,12 +531,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113730,
+      "num": 113730,
+      "word": "影视飓风回应被抄袭",
+      "onboard_time": 1746149968,
+      "rank": 38,
+      "category": "网红"
+    },
+    {
       "raw_hot": 113194,
       "num": 113194,
       "word": "淮水竹亭热度",
       "onboard_time": 1746104122,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111715,
+      "num": 111715,
+      "word": "是谁玩坏了协和4加4",
+      "onboard_time": 1746149849,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 109727,
@@ -347,12 +563,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 109438,
-      "num": 110375,
-      "word": "吃蓝莓前记得给它掏耳朵",
-      "onboard_time": 1746115580,
-      "rank": 45,
-      "category": "健康医疗"
+      "raw_hot": 108666,
+      "num": 108666,
+      "word": "特朗普承认货架或将变空",
+      "onboard_time": 1746150448,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 107829,
@@ -411,12 +627,44 @@
       "category": "演出"
     },
     {
+      "raw_hot": 96840,
+      "num": 96840,
+      "word": "詹姆斯至少再打一个赛季",
+      "onboard_time": 1746149309,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 95717,
+      "num": 95717,
+      "word": "董明珠说能干不是文凭说了算",
+      "onboard_time": 1746146489,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93948,
+      "num": 93948,
+      "word": "哈里斯卸任后演讲对特朗普火力全开",
+      "onboard_time": 1746147450,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 91693,
       "num": 91693,
       "word": "小天才崩了",
       "onboard_time": 1746111443,
       "rank": 44,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 91311,
+      "num": 91311,
+      "word": "韩国140天3位代总统",
+      "onboard_time": 1746146727,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 86850,
@@ -449,6 +697,14 @@
       "onboard_time": 1746102382,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 77364,
+      "num": 77364,
+      "word": "阿根廷队可能10月来中国",
+      "onboard_time": 1746148348,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 76751,
@@ -539,14 +795,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 51649,
-      "num": 51649,
-      "word": "男子帮抬棺心梗猝死家属获11万补偿",
-      "onboard_time": 1746142338,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 49733,
       "num": 49733,
       "word": "孙恩盛直播",
@@ -577,6 +825,14 @@
       "onboard_time": 1746142457,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 42808,
+      "num": 439424,
+      "word": "苏杯中国VS马来西亚",
+      "onboard_time": 1746150208,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 42058,
@@ -657,6 +913,14 @@
       "onboard_time": 1746121396,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 25561,
+      "num": 135589,
+      "word": "篮协回复北京队申诉",
+      "onboard_time": 1746146188,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 24894,

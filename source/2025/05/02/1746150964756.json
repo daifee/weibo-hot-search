@@ -1,0 +1,410 @@
+{
+  "runTime": 1746150964756,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 873139,
+        "num": 1139702,
+        "word": "韩媒曝KPOP爱豆中韩演唱会",
+        "onboard_time": 1746149128,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 459790,
+        "num": 459790,
+        "word": "第一大波游客已经抵达山西",
+        "onboard_time": 1746143239,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28315,
+        "num": 459267,
+        "word": "劳动者的手每一双都了不起",
+        "onboard_time": 1746104723,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 867633,
+        "num": 458907,
+        "word": "石凯前女友回应",
+        "onboard_time": 1746144618,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 589847,
+        "num": 457240,
+        "word": "赵露思七分钟演出",
+        "onboard_time": 1746143659,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 444645,
+        "num": 457144,
+        "word": "中方正在评估是否和美方谈",
+        "onboard_time": 1746146489,
+        "rank": 5,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 470785,
+        "num": 455993,
+        "word": "gidle改名idle",
+        "onboard_time": 1746111142,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 455506,
+        "num": 455506,
+        "word": "年轻人开始流行旅游摆摊了",
+        "onboard_time": 1746149610,
+        "rank": 7,
+        "category": "民生新闻,幽默"
+      },
+      {
+        "raw_hot": 153367,
+        "num": 440662,
+        "word": "李周浩任韩国代总统",
+        "onboard_time": 1746149489,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 42808,
+        "num": 439424,
+        "word": "苏杯中国VS马来西亚",
+        "onboard_time": 1746150208,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 439383,
+        "num": 439383,
+        "word": "美方多次主动向中方传递信息想谈",
+        "onboard_time": 1746146489,
+        "rank": 10,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 884510,
+        "num": 436695,
+        "word": "协和4加4培养的是天才还是关系户",
+        "onboard_time": 1746143959,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 459535,
+        "num": 432562,
+        "word": "钢铁大王遭绑儿子被嫌犯甩锅是主谋",
+        "onboard_time": 1746143179,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 418188,
+        "num": 418188,
+        "word": "赵露思只唱了两首歌",
+        "onboard_time": 1746145889,
+        "rank": 13,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 184270,
+        "num": 394267,
+        "word": "加沙一袋面粉卖4000元",
+        "onboard_time": 1746149068,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 393268,
+        "num": 393268,
+        "word": "种了27年的地因未退耕被判刑6个月",
+        "onboard_time": 1746147268,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 331554,
+        "num": 331554,
+        "word": "翁虹与丈夫分居3年感情反而更好了",
+        "onboard_time": 1746142158,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317538,
+        "num": 317538,
+        "word": "价值4.1亿画作展出时被小孩刮花",
+        "onboard_time": 1746110483,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 294933,
+        "num": 294933,
+        "word": "特朗普称美国孩子只能有2个玩具了",
+        "onboard_time": 1746107782,
+        "rank": 18,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 244447,
+        "num": 281616,
+        "word": "曾黎",
+        "onboard_time": 1746150268,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1231098,
+        "num": 276740,
+        "word": "金价暴跌有人一夜亏47万",
+        "onboard_time": 1746118698,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 310430,
+        "num": 276002,
+        "word": "女子请病假追星被辞退起诉赔偿被驳",
+        "onboard_time": 1746144319,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269657,
+        "num": 269657,
+        "word": "医生称劣质无痕内裤可能是胶水粘的",
+        "onboard_time": 1746145649,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261388,
+        "num": 261388,
+        "word": "日本再现无差别杀人",
+        "onboard_time": 1746105143,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 234513,
+        "num": 234513,
+        "word": "涉肖某董某事件多个账号被禁言",
+        "onboard_time": 1746140957,
+        "rank": 24,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 201093,
+        "num": 201093,
+        "word": "最卑微的妖耗尽生命为他下了一场雪",
+        "onboard_time": 1746146309,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197433,
+        "num": 197433,
+        "word": "彭昱畅这么帅了",
+        "onboard_time": 1746111023,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188254,
+        "num": 188254,
+        "word": "严浩翔 染发",
+        "onboard_time": 1746143779,
+        "rank": 27,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 167542,
+        "num": 167542,
+        "word": "吃蓝莓前记得给它掏耳朵",
+        "onboard_time": 1746115580,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 167446,
+        "num": 167446,
+        "word": "韩泰山",
+        "onboard_time": 1746147029,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155029,
+        "num": 155029,
+        "word": "五一假期第2天",
+        "onboard_time": 1746144740,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146057,
+        "num": 146057,
+        "word": "南宁丢那猩互动时丢石块砸伤游客",
+        "onboard_time": 1746145518,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143465,
+        "num": 143465,
+        "word": "美方想谈就应拿出谈的诚意",
+        "onboard_time": 1746146790,
+        "rank": 32,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 140867,
+        "num": 140867,
+        "word": "蓝莓肚脐眼里的霉菌",
+        "onboard_time": 1746085281,
+        "rank": 33,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 25561,
+        "num": 135589,
+        "word": "篮协回复北京队申诉",
+        "onboard_time": 1746146188,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132261,
+        "num": 132261,
+        "word": "落日飞车迟到",
+        "onboard_time": 1746144019,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127421,
+        "num": 127421,
+        "word": "男子帮抬棺心梗猝死家属获11万补偿",
+        "onboard_time": 1746142338,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117483,
+        "num": 117483,
+        "word": "荣昌真的接住了泼天流量",
+        "onboard_time": 1746113182,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113730,
+        "num": 113730,
+        "word": "影视飓风回应被抄袭",
+        "onboard_time": 1746149968,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 111715,
+        "num": 111715,
+        "word": "是谁玩坏了协和4加4",
+        "onboard_time": 1746149849,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111173,
+        "num": 111173,
+        "word": "上海多方回应女子擦鼻涕纸扔进碗罐",
+        "onboard_time": 1746107003,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108666,
+        "num": 108666,
+        "word": "特朗普承认货架或将变空",
+        "onboard_time": 1746150448,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 96840,
+        "num": 96840,
+        "word": "詹姆斯至少再打一个赛季",
+        "onboard_time": 1746149309,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95717,
+        "num": 95717,
+        "word": "董明珠说能干不是文凭说了算",
+        "onboard_time": 1746146489,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93948,
+        "num": 93948,
+        "word": "哈里斯卸任后演讲对特朗普火力全开",
+        "onboard_time": 1746147450,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 93243,
+        "num": 93243,
+        "word": "回忆专用小马甲道歉",
+        "onboard_time": 1746095240,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 91311,
+        "num": 91311,
+        "word": "韩国140天3位代总统",
+        "onboard_time": 1746146727,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 85145,
+        "num": 85145,
+        "word": "你的指甲盖真像刘亦菲",
+        "onboard_time": 1746115882,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81902,
+        "num": 81902,
+        "word": "男内侍偷走日本皇室零花钱360万",
+        "onboard_time": 1746116661,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 77364,
+        "num": 77364,
+        "word": "阿根廷队可能10月来中国",
+        "onboard_time": 1746148348,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#涉及老百姓的事情关键在实#"
+    }
+  }
+}
