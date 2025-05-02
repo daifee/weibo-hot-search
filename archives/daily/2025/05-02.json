@@ -1,6 +1,6 @@
 {
   "startTime": 1746117084529,
-  "endTime": 1746171479037,
+  "endTime": 1746174748564,
   "band_list": [
     {
       "raw_hot": 2150105,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1613120,
-      "num": 352004,
+      "num": 385770,
       "word": "买8楼送9楼10楼",
       "onboard_time": 1746156209,
       "rank": 31,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1531885,
-      "num": 295135,
+      "num": 386557,
       "word": "董小姐在她一作的论文里负责翻译",
       "onboard_time": 1746163890,
       "rank": 14,
@@ -179,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 672560,
+      "num": 672560,
+      "word": "全红婵陈芋汐跳水世界杯冠军",
+      "onboard_time": 1746172640,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 650192,
       "num": 417654,
       "word": "吴宣仪拒绝叶童",
@@ -193,6 +201,14 @@
       "onboard_time": 1746154290,
       "rank": 13,
       "category": "网红"
+    },
+    {
+      "raw_hot": 630442,
+      "num": 400729,
+      "word": "苏新皓摔倒",
+      "onboard_time": 1746172460,
+      "rank": 6,
+      "category": "演出"
     },
     {
       "raw_hot": 611862,
@@ -273,6 +289,14 @@
       "onboard_time": 1746107782,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 540889,
+      "num": 398746,
+      "word": "2025年竟然在跑男里看到了陈赫",
+      "onboard_time": 1746170120,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 533550,
@@ -419,6 +443,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 405847,
+      "num": 405847,
+      "word": "群聊泄密事件当事人升职",
+      "onboard_time": 1746169521,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 390190,
+      "num": 390190,
+      "word": "五一假期是捅人窝了吧",
+      "onboard_time": 1746166410,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 385688,
+      "num": 385688,
+      "word": "普陀山",
+      "onboard_time": 1746171142,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 381330,
       "num": 295018,
       "word": "饶毅再发文谈协和4加4制度",
@@ -433,6 +481,14 @@
       "onboard_time": 1746142158,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 341366,
+      "num": 341366,
+      "word": "王励勤谢绝媒体采访国乒队员",
+      "onboard_time": 1746170241,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 338898,
@@ -475,12 +531,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 329477,
+      "num": 329477,
+      "word": "当老爸得知我去日本玩be like",
+      "onboard_time": 1746170540,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 328553,
       "num": 328553,
       "word": "一群富翁竟要求美国儿童做牺牲",
       "onboard_time": 1746153329,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 328026,
+      "num": 328026,
+      "word": "李晟小考太帅了",
+      "onboard_time": 1746171020,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 323675,
@@ -499,14 +571,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 319858,
-      "num": 319858,
-      "word": "五一假期是捅人窝了吧",
-      "onboard_time": 1746166410,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 310526,
       "num": 310526,
       "word": "日本皇室生活费被盗",
@@ -521,14 +585,6 @@
       "onboard_time": 1746115882,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 300097,
-      "num": 300097,
-      "word": "群聊泄密事件当事人升职",
-      "onboard_time": 1746169521,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 292789,
@@ -619,14 +675,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 254999,
-      "num": 254999,
-      "word": "2025年竟然在跑男里看到了陈赫",
-      "onboard_time": 1746170120,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 253916,
       "num": 253916,
       "word": "荣昌真的接住了泼天流量",
@@ -673,14 +721,6 @@
       "onboard_time": 1746164309,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 222577,
-      "num": 222577,
-      "word": "王励勤谢绝媒体采访国乒队员",
-      "onboard_time": 1746170241,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 221533,
@@ -819,6 +859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192472,
+      "num": 192472,
+      "word": "全红婵陈芋汐水立方夺冠",
+      "onboard_time": 1746173901,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191598,
       "num": 191598,
       "word": "陈丽君陈昊宇唱花田错",
@@ -923,6 +971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179378,
+      "num": 179378,
+      "word": "李昀锐武汉",
+      "onboard_time": 1746171079,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175701,
       "num": 175701,
       "word": "女生怒减50斤后的颜值变化",
@@ -945,6 +1001,14 @@
       "onboard_time": 1746165390,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 170102,
+      "num": 170102,
+      "word": "周翊然 楚后",
+      "onboard_time": 1746171862,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 167542,
@@ -987,6 +1051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165912,
+      "num": 165912,
+      "word": "刘诗诗都让让切个号",
+      "onboard_time": 1746173720,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165729,
       "num": 165729,
       "word": "五一的上海外滩",
@@ -1025,14 +1097,6 @@
       "onboard_time": 1746157409,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 160382,
-      "num": 160382,
-      "word": "当老爸得知我去日本玩be like",
-      "onboard_time": 1746170540,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 159637,
@@ -1091,6 +1155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156408,
+      "num": 156408,
+      "word": "一种适合打工人的云旅行",
+      "onboard_time": 1746174560,
+      "rank": 28,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 156289,
       "num": 156289,
       "word": "TXT新歌",
@@ -1113,14 +1185,6 @@
       "onboard_time": 1746155610,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 154248,
-      "num": 154248,
-      "word": "李晟小考太帅了",
-      "onboard_time": 1746171020,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 153589,
@@ -1171,12 +1235,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 149587,
+      "num": 149587,
+      "word": "白鹿很开心的一次出游plog",
+      "onboard_time": 1746174261,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148048,
       "num": 148048,
       "word": "南宁丢那猩互动时丢石块砸伤游客",
       "onboard_time": 1746145518,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147958,
+      "num": 184122,
+      "word": "美政府颗粒度没对齐",
+      "onboard_time": 1746171321,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 147114,
@@ -1193,14 +1273,6 @@
       "onboard_time": 1746115100,
       "rank": 29,
       "category": "演出"
-    },
-    {
-      "raw_hot": 145606,
-      "num": 145606,
-      "word": "李昀锐武汉",
-      "onboard_time": 1746171079,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 145462,
@@ -1241,6 +1313,14 @@
       "onboard_time": 1746154049,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142613,
+      "num": 142613,
+      "word": "张凌赫手臂肌肉",
+      "onboard_time": 1746171621,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 142092,
@@ -1363,6 +1443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131265,
+      "num": 131265,
+      "word": "国外裸绞制服小偷的山东小伙发声",
+      "onboard_time": 1746173181,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130438,
       "num": 275206,
       "word": "王昶挂网前雨刮器胸牌",
@@ -1417,14 +1505,6 @@
       "onboard_time": 1746162329,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 126656,
-      "num": 126656,
-      "word": "普陀山",
-      "onboard_time": 1746171142,
-      "rank": 46,
-      "category": "旅游"
     },
     {
       "raw_hot": 126544,
@@ -1497,6 +1577,14 @@
       "onboard_time": 1746102861,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 114998,
+      "num": 114998,
+      "word": "成都市民乒乓球实力震惊王楚钦",
+      "onboard_time": 1746172041,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 113730,
@@ -1587,6 +1675,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 106820,
+      "num": 106820,
+      "word": "Wolves对战ACT",
+      "onboard_time": 1746173781,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 106778,
+      "num": 107112,
+      "word": "左航白发狼尾",
+      "onboard_time": 1746173421,
+      "rank": 45,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 106590,
       "num": 106590,
       "word": "韩德君 退役",
@@ -1601,6 +1705,14 @@
       "onboard_time": 1746113662,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 104655,
+      "num": 104655,
+      "word": "在种地吧看到真心换真心",
+      "onboard_time": 1746173841,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 104622,
@@ -1696,6 +1808,14 @@
       "word": "詹姆斯至少再打一个赛季",
       "onboard_time": 1746149309,
       "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 96035,
+      "num": 96035,
+      "word": "你的公园陪练孙颖莎已上线",
+      "onboard_time": 1746173361,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -1931,6 +2051,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 50591,
+      "num": 386813,
+      "word": "美消费者信心降至13年来最低",
+      "onboard_time": 1746173059,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 49733,
       "num": 49733,
       "word": "孙恩盛直播",
@@ -2051,6 +2179,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 36165,
+      "num": 257119,
+      "word": "蹲便和坐便哪个上起来更通畅",
+      "onboard_time": 1746174080,
+      "rank": 19,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 34033,
       "num": 37316,
       "word": "贵州文旅太拼了",
@@ -2083,6 +2219,14 @@
       "category": "国内时政,财经"
     },
     {
+      "raw_hot": 31549,
+      "num": 385707,
+      "word": "众人为举国旗爬山男子照亮上山路",
+      "onboard_time": 1746174140,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29186,
       "num": 65466,
       "word": "小兵张嘎一开始叫张故得儿",
@@ -2113,6 +2257,14 @@
       "onboard_time": 1746121396,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 25754,
+      "num": 117460,
+      "word": "全球煤炭集体形成之谜",
+      "onboard_time": 1746174080,
+      "rank": 39,
+      "category": "科学科普"
     },
     {
       "raw_hot": 25561,
@@ -2203,6 +2355,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 20436,
+      "num": 343021,
+      "word": "12306回应动车停摆乘客被困4小时",
+      "onboard_time": 1746174202,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19938,
       "num": 22400,
       "word": "网友佛罗伦萨偶遇檀健次",
@@ -2225,14 +2385,6 @@
       "onboard_time": 1746141198,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 18685,
-      "num": 184122,
-      "word": "美政府颗粒度没对齐",
-      "onboard_time": 1746171321,
-      "rank": 25,
-      "category": "国际时政"
     },
     {
       "raw_hot": 18174,

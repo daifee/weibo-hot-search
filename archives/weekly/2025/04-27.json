@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1746171479037,
+  "endTime": 1746174748564,
   "band_list": [
     {
       "raw_hot": 8960529,
@@ -436,7 +436,7 @@
     },
     {
       "raw_hot": 1613120,
-      "num": 352004,
+      "num": 385770,
       "word": "买8楼送9楼10楼",
       "onboard_time": 1746156209,
       "rank": 31,
@@ -540,7 +540,7 @@
     },
     {
       "raw_hot": 1531885,
-      "num": 295135,
+      "num": 386557,
       "word": "董小姐在她一作的论文里负责翻译",
       "onboard_time": 1746163890,
       "rank": 14,
@@ -2051,6 +2051,14 @@
       "category": "幽默,突发/灾害"
     },
     {
+      "raw_hot": 672560,
+      "num": 672560,
+      "word": "全红婵陈芋汐跳水世界杯冠军",
+      "onboard_time": 1746172640,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 672045,
       "num": 672045,
       "word": "王者荣耀崩了",
@@ -2249,6 +2257,14 @@
       "onboard_time": 1745808141,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 630442,
+      "num": 400729,
+      "word": "苏新皓摔倒",
+      "onboard_time": 1746172460,
+      "rank": 6,
+      "category": "演出"
     },
     {
       "raw_hot": 629380,
@@ -2801,6 +2817,14 @@
       "onboard_time": 1745841022,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 540889,
+      "num": 398746,
+      "word": "2025年竟然在跑男里看到了陈赫",
+      "onboard_time": 1746170120,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 539585,
@@ -3771,6 +3795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 405847,
+      "num": 405847,
+      "word": "群聊泄密事件当事人升职",
+      "onboard_time": 1746169521,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 405440,
       "num": 322395,
       "word": "seventeen",
@@ -3891,6 +3923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 390190,
+      "num": 390190,
+      "word": "五一假期是捅人窝了吧",
+      "onboard_time": 1746166410,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 388843,
       "num": 388843,
       "word": "章若楠新剧婚礼变葬礼",
@@ -3913,6 +3953,14 @@
       "onboard_time": 1745710700,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 385688,
+      "num": 385688,
+      "word": "普陀山",
+      "onboard_time": 1746171142,
+      "rank": 46,
+      "category": "旅游"
     },
     {
       "raw_hot": 384343,
@@ -4307,6 +4355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 341366,
+      "num": 341366,
+      "word": "王励勤谢绝媒体采访国乒队员",
+      "onboard_time": 1746170241,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 341176,
       "num": 341176,
       "word": "官方通报医院工作人员上班打游戏",
@@ -4459,12 +4515,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 329477,
+      "num": 329477,
+      "word": "当老爸得知我去日本玩be like",
+      "onboard_time": 1746170540,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 328553,
       "num": 328553,
       "word": "一群富翁竟要求美国儿童做牺牲",
       "onboard_time": 1746153329,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 328026,
+      "num": 328026,
+      "word": "李晟小考太帅了",
+      "onboard_time": 1746171020,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 327138,
@@ -4553,14 +4625,6 @@
       "onboard_time": 1745744781,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 319858,
-      "num": 319858,
-      "word": "五一假期是捅人窝了吧",
-      "onboard_time": 1746166410,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 319593,
@@ -4865,14 +4929,6 @@
       "onboard_time": 1745744063,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 300097,
-      "num": 300097,
-      "word": "群聊泄密事件当事人升职",
-      "onboard_time": 1746169521,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 299869,
@@ -5675,14 +5731,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 254999,
-      "num": 254999,
-      "word": "2025年竟然在跑男里看到了陈赫",
-      "onboard_time": 1746170120,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 254803,
       "num": 293650,
       "word": "第五人格",
@@ -6425,14 +6473,6 @@
       "onboard_time": 1745744901,
       "rank": 23,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 222577,
-      "num": 222577,
-      "word": "王励勤谢绝媒体采访国乒队员",
-      "onboard_time": 1746170241,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 222470,
@@ -7971,6 +8011,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 192472,
+      "num": 192472,
+      "word": "全红婵陈芋汐水立方夺冠",
+      "onboard_time": 1746173901,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192313,
       "num": 269279,
       "word": "王源广州演唱会抢票",
@@ -8995,6 +9043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 179378,
+      "num": 179378,
+      "word": "李昀锐武汉",
+      "onboard_time": 1746171079,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179293,
       "num": 189253,
       "word": "张哲华不愧是大厂严选",
@@ -9451,6 +9507,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 170102,
+      "num": 170102,
+      "word": "周翊然 楚后",
+      "onboard_time": 1746171862,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170094,
       "num": 170094,
       "word": "特朗普送别马斯克",
@@ -9696,6 +9760,14 @@
       "word": "马来西亚公主也在追落花",
       "onboard_time": 1746170361,
       "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 165912,
+      "num": 165912,
+      "word": "刘诗诗都让让切个号",
+      "onboard_time": 1746173720,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -10107,14 +10179,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 160382,
-      "num": 160382,
-      "word": "当老爸得知我去日本玩be like",
-      "onboard_time": 1746170540,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 160224,
       "num": 1093077,
       "word": "中国航天员回地球过五一",
@@ -10459,6 +10523,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 156408,
+      "num": 156408,
+      "word": "一种适合打工人的云旅行",
+      "onboard_time": 1746174560,
+      "rank": 28,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 156397,
       "num": 156397,
       "word": "周深泪钻",
@@ -10641,14 +10713,6 @@
       "onboard_time": 1745728642,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 154248,
-      "num": 154248,
-      "word": "李晟小考太帅了",
-      "onboard_time": 1746171020,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 154206,
@@ -11011,6 +11075,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 149587,
+      "num": 149587,
+      "word": "白鹿很开心的一次出游plog",
+      "onboard_time": 1746174261,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149477,
       "num": 1199926,
       "word": "移动互联网未成年人模式正式发布",
@@ -11121,6 +11193,14 @@
       "onboard_time": 1746111443,
       "rank": 43,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 147958,
+      "num": 184122,
+      "word": "美政府颗粒度没对齐",
+      "onboard_time": 1746171321,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 147864,
@@ -11313,14 +11393,6 @@
       "onboard_time": 1746115100,
       "rank": 29,
       "category": "演出"
-    },
-    {
-      "raw_hot": 145606,
-      "num": 145606,
-      "word": "李昀锐武汉",
-      "onboard_time": 1746171079,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 145536,
@@ -11665,6 +11737,14 @@
       "onboard_time": 1746154049,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142613,
+      "num": 142613,
+      "word": "张凌赫手臂肌肉",
+      "onboard_time": 1746171621,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 142606,
@@ -12603,6 +12683,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 131265,
+      "num": 131265,
+      "word": "国外裸绞制服小偷的山东小伙发声",
+      "onboard_time": 1746173181,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131263,
       "num": 131263,
       "word": "虞书欣宣传淮水竹亭",
@@ -13025,14 +13113,6 @@
       "onboard_time": 1745936484,
       "rank": 43,
       "category": "演出,音乐"
-    },
-    {
-      "raw_hot": 126656,
-      "num": 126656,
-      "word": "普陀山",
-      "onboard_time": 1746171142,
-      "rank": 46,
-      "category": "旅游"
     },
     {
       "raw_hot": 126584,
@@ -13891,6 +13971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114998,
+      "num": 114998,
+      "word": "成都市民乒乓球实力震惊王楚钦",
+      "onboard_time": 1746172041,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114798,
       "num": 255866,
       "word": "减重晚饭这样吃饱腹又低卡",
@@ -14523,12 +14611,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 106820,
+      "num": 106820,
+      "word": "Wolves对战ACT",
+      "onboard_time": 1746173781,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 106795,
       "num": 361072,
       "word": "辽宁一血站手提袋献血印成鲜血",
       "onboard_time": 1746021684,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106778,
+      "num": 107112,
+      "word": "左航白发狼尾",
+      "onboard_time": 1746173421,
+      "rank": 45,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 106727,
@@ -14633,6 +14737,14 @@
       "onboard_time": 1745940802,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104655,
+      "num": 104655,
+      "word": "在种地吧看到真心换真心",
+      "onboard_time": 1746173841,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 104622,
@@ -15209,6 +15321,14 @@
       "onboard_time": 1745846302,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 96035,
+      "num": 96035,
+      "word": "你的公园陪练孙颖莎已上线",
+      "onboard_time": 1746173361,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 95920,
@@ -17563,6 +17683,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 50591,
+      "num": 386813,
+      "word": "美消费者信心降至13年来最低",
+      "onboard_time": 1746173059,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 50489,
       "num": 230722,
       "word": "黎深和偷跑出医院的茉莉",
@@ -18395,6 +18523,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 36165,
+      "num": 257119,
+      "word": "蹲便和坐便哪个上起来更通畅",
+      "onboard_time": 1746174080,
+      "rank": 19,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 35792,
       "num": 338216,
       "word": "特朗普称美乌协议美方获利将多于付出",
@@ -18697,6 +18833,14 @@
       "onboard_time": 1745918004,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 31549,
+      "num": 385707,
+      "word": "众人为举国旗爬山男子照亮上山路",
+      "onboard_time": 1746174140,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31333,
@@ -19081,6 +19225,14 @@
       "onboard_time": 1745760143,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 25754,
+      "num": 117460,
+      "word": "全球煤炭集体形成之谜",
+      "onboard_time": 1746174080,
+      "rank": 39,
+      "category": "科学科普"
     },
     {
       "raw_hot": 25750,
@@ -19563,6 +19715,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 20436,
+      "num": 343021,
+      "word": "12306回应动车停摆乘客被困4小时",
+      "onboard_time": 1746174202,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20411,
       "num": 28461,
       "word": "平台回应因通缉照走红女子账号被封",
@@ -19713,14 +19873,6 @@
       "onboard_time": 1745995282,
       "rank": 19,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 18685,
-      "num": 184122,
-      "word": "美政府颗粒度没对齐",
-      "onboard_time": 1746171321,
-      "rank": 25,
-      "category": "国际时政"
     },
     {
       "raw_hot": 18600,
