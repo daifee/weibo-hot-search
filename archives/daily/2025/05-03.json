@@ -1,6 +1,6 @@
 {
   "startTime": 1746203485460,
-  "endTime": 1746264233563,
+  "endTime": 1746265089929,
   "band_list": [
     {
       "raw_hot": 3458319,
@@ -75,6 +75,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 817216,
+      "num": 817216,
+      "word": "9米长林肯车主致歉",
+      "onboard_time": 1746262701,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 808849,
       "num": 808849,
       "word": "三亚多名游客与向导失散困海中1小时",
@@ -89,6 +97,14 @@
       "onboard_time": 1746258800,
       "rank": 11,
       "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 793337,
+      "num": 793337,
+      "word": "于东来与网红互怼怒称要退圈",
+      "onboard_time": 1746257181,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 762262,
@@ -107,12 +123,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 752248,
-      "num": 752248,
-      "word": "于东来与网红互怼怒称要退圈",
-      "onboard_time": 1746257181,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 759133,
+      "num": 759133,
+      "word": "马夫",
+      "onboard_time": 1746262820,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 745860,
@@ -211,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 621447,
+      "num": 621447,
+      "word": "胡静一家吃饭各吃各的",
+      "onboard_time": 1746260961,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 591790,
       "num": 591790,
       "word": "你一句甲天下 我就堵在了真桂林",
@@ -225,14 +249,6 @@
       "onboard_time": 1746203600,
       "rank": 30,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 566654,
-      "num": 566654,
-      "word": "胡静一家吃饭各吃各的",
-      "onboard_time": 1746260961,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 556673,
@@ -364,7 +380,7 @@
     },
     {
       "raw_hot": 415561,
-      "num": 372721,
+      "num": 380575,
       "word": "于东来账号已私密",
       "onboard_time": 1746261560,
       "rank": 44,
@@ -379,6 +395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 409032,
+      "num": 390167,
+      "word": "金泰亨田柾国健身",
+      "onboard_time": 1746262160,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 402024,
       "num": 402024,
       "word": "双休制度提案委员王贤才逝世",
@@ -387,28 +411,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 390167,
-      "num": 390167,
-      "word": "金泰亨田柾国健身",
-      "onboard_time": 1746262160,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 375564,
       "num": 375564,
       "word": "Bin blg回来了",
       "onboard_time": 1746197373,
       "rank": 3,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 370527,
-      "num": 370527,
-      "word": "马夫",
-      "onboard_time": 1746262820,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 368136,
@@ -425,6 +433,14 @@
       "onboard_time": 1746185910,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 359763,
+      "num": 158342,
+      "word": "灵隐寺260万年租金的小卖部",
+      "onboard_time": 1746263601,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 356658,
@@ -473,14 +489,6 @@
       "onboard_time": 1746256160,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 309011,
-      "num": 170890,
-      "word": "9米长林肯车主致歉",
-      "onboard_time": 1746262701,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 308894,
@@ -723,20 +731,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203690,
+      "num": 203690,
+      "word": "安宥真开球",
+      "onboard_time": 1746262580,
+      "rank": 21,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 203378,
       "num": 203378,
       "word": "杨紫雪山开机图",
       "onboard_time": 1746241819,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 202924,
-      "num": 202924,
-      "word": "安宥真开球",
-      "onboard_time": 1746262580,
-      "rank": 21,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 202751,
@@ -784,6 +792,14 @@
       "word": "西安暴雨",
       "onboard_time": 1746195331,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 194906,
+      "num": 668143,
+      "word": "ChinaShopping在美国火了",
+      "onboard_time": 1746263119,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -947,6 +963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173444,
+      "num": 173444,
+      "word": "她失去了一只眼却没有失去人生",
+      "onboard_time": 1746261681,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 172694,
       "num": 172694,
       "word": "刘诗诗先秦淑女步",
@@ -964,7 +988,7 @@
     },
     {
       "raw_hot": 170719,
-      "num": 170719,
+      "num": 275310,
       "word": "于东来发文捍卫道德底线",
       "onboard_time": 1746261560,
       "rank": 32,
@@ -1009,6 +1033,14 @@
       "onboard_time": 1746250820,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 166216,
+      "num": 166216,
+      "word": "贺峻霖 在等你们来哦",
+      "onboard_time": 1746264380,
+      "rank": 28,
+      "category": "演出,综艺"
     },
     {
       "raw_hot": 165693,
@@ -1083,6 +1115,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 158286,
+      "num": 158286,
+      "word": "0713合体只用了十几分钟",
+      "onboard_time": 1746264380,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 158085,
       "num": 158085,
       "word": "97岁妈妈与75岁姑娘",
@@ -1113,14 +1153,6 @@
       "onboard_time": 1746193712,
       "rank": 22,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 155937,
-      "num": 155937,
-      "word": "她失去了一只眼却没有失去人生",
-      "onboard_time": 1746261681,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 155485,
@@ -1211,6 +1243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144674,
+      "num": 144674,
+      "word": "孙颖莎出镜新时代的中国青年",
+      "onboard_time": 1746263541,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143702,
       "num": 143702,
       "word": "爸爸用维生素为女儿变出萤火流星雨",
@@ -1257,6 +1297,14 @@
       "onboard_time": 1746245239,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 138520,
+      "num": 138520,
+      "word": "诚C漫展松弛感",
+      "onboard_time": 1746265040,
+      "rank": 40,
+      "category": "动漫,电竞"
     },
     {
       "raw_hot": 137685,
@@ -1323,19 +1371,19 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 133110,
+      "num": 133110,
+      "word": "高会直播",
+      "onboard_time": 1746264562,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132888,
       "num": 619417,
       "word": "要和四分之一世纪的春天说再见了",
       "onboard_time": 1746232399,
       "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 132041,
-      "num": 373920,
-      "word": "ChinaShopping在美国火了",
-      "onboard_time": 1746263119,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -1387,6 +1435,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 128928,
+      "num": 128928,
+      "word": "谁家男主自己给自己上坟啊",
+      "onboard_time": 1746264562,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128899,
       "num": 128899,
       "word": "张峻豪比心",
@@ -1401,14 +1457,6 @@
       "onboard_time": 1746237020,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 128002,
-      "num": 128002,
-      "word": "孙颖莎出镜新时代的中国青年",
-      "onboard_time": 1746263541,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 127618,
@@ -1491,6 +1539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124349,
+      "num": 124349,
+      "word": "女子以死做局分饰7角骗走男友7万",
+      "onboard_time": 1746262761,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124081,
       "num": 124081,
       "word": "NBA",
@@ -1521,6 +1577,14 @@
       "onboard_time": 1746256160,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121758,
+      "num": 158354,
+      "word": "连云港连岛虫子泛滥引游客吐槽",
+      "onboard_time": 1746262460,
+      "rank": 30,
+      "category": "旅游"
     },
     {
       "raw_hot": 121147,
@@ -1563,6 +1627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 114884,
+      "num": 114884,
+      "word": "原来这就是职场向上管理",
+      "onboard_time": 1746264201,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 114504,
       "num": 114504,
       "word": "美国重大旅行车祸有中国公民伤亡",
@@ -1579,20 +1651,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113206,
+      "num": 113206,
+      "word": "这都能让王俊凯闻出来",
+      "onboard_time": 1746264981,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112465,
       "num": 254193,
       "word": "浏阳烟花正向魔法方向发展",
       "onboard_time": 1746203600,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 112386,
-      "num": 112386,
-      "word": "原来这就是职场向上管理",
-      "onboard_time": 1746264201,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 112195,
@@ -1625,14 +1697,6 @@
       "onboard_time": 1746198384,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 109778,
-      "num": 109778,
-      "word": "女子以死做局分饰7角骗走男友7万",
-      "onboard_time": 1746262761,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 108890,
@@ -2075,6 +2139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 85828,
+      "num": 804646,
+      "word": "五一假期多地打造文旅消费新场景",
+      "onboard_time": 1746261440,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84658,
       "num": 331259,
       "word": "WAW漫展PLAVE周边限量放送",
@@ -2089,6 +2161,14 @@
       "onboard_time": 1746195391,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 83810,
+      "num": 590475,
+      "word": "上百人为中国AI芯写120万行代码",
+      "onboard_time": 1746261381,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83581,
@@ -2129,6 +2209,14 @@
       "onboard_time": 1746183389,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 80522,
+      "num": 138987,
+      "word": "成人牙齿再生或将实现",
+      "onboard_time": 1746264742,
+      "rank": 39,
+      "category": "科学科普,民生新闻"
     },
     {
       "raw_hot": 79270,
@@ -2201,6 +2289,14 @@
       "onboard_time": 1746234680,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 74442,
+      "num": 158587,
+      "word": "3小伙泰山顶呼呼大睡错过看日出",
+      "onboard_time": 1746264862,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 74049,
@@ -2291,28 +2387,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 65230,
-      "num": 683572,
-      "word": "五一假期多地打造文旅消费新场景",
-      "onboard_time": 1746261440,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 64807,
       "num": 117883,
       "word": "自称川剧变脸的韩国传承者",
       "onboard_time": 1746257539,
       "rank": 39,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 63731,
-      "num": 590475,
-      "word": "上百人为中国AI芯写120万行代码",
-      "onboard_time": 1746261381,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 63243,
@@ -2507,6 +2587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44384,
+      "num": 243579,
+      "word": "王嘉尔MM2首个舞台唱的哪首歌",
+      "onboard_time": 1746264080,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 43762,
       "num": 439218,
       "word": "中国队跳水世界杯第6金",
@@ -2547,20 +2635,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 40445,
+      "num": 358646,
+      "word": "当农村女孩第一次带妈妈旅游",
+      "onboard_time": 1746263303,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39174,
       "num": 245129,
       "word": "五一人不多也就亿点点",
       "onboard_time": 1746247161,
       "rank": 22,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 36638,
-      "num": 130888,
-      "word": "灵隐寺260万年租金的小卖部",
-      "onboard_time": 1746263601,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 34888,
@@ -2609,14 +2697,6 @@
       "onboard_time": 1746210735,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 28463,
-      "num": 358646,
-      "word": "当农村女孩第一次带妈妈旅游",
-      "onboard_time": 1746263303,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 28462,
@@ -2689,6 +2769,14 @@
       "onboard_time": 1746203600,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22944,
+      "num": 144766,
+      "word": "全红婵陈芋汐原地后空翻",
+      "onboard_time": 1746264981,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 22158,
@@ -2827,14 +2915,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 8811,
-      "num": 171630,
-      "word": "王嘉尔MM2首个舞台唱的哪首歌",
-      "onboard_time": 1746264080,
-      "rank": 27,
-      "category": "演出"
-    },
-    {
       "raw_hot": 6932,
       "num": 140294,
       "word": "勇士的变阵是否影响了比赛走势",
@@ -2863,6 +2943,9 @@
     },
     {
       "word": "#总书记寄望新时代青年#"
+    },
+    {
+      "word": "#深入贯彻中央八项规定精神#"
     }
   ]
 }
