@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746268906658,
+  "endTime": 1746271207867,
   "band_list": [
     {
       "raw_hot": 3885539,
@@ -195,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1435838,
+      "num": 788121,
+      "word": "掉进火锅猫咪已送医取名51",
+      "onboard_time": 1746266841,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1425447,
       "num": 189273,
       "word": "董某莹已离开中日友好医院胸外科",
@@ -209,6 +217,14 @@
       "onboard_time": 1746061400,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1406500,
+      "num": 1406500,
+      "word": "陈芋汐世界杯夺冠",
+      "onboard_time": 1746269781,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 1355584,
@@ -499,6 +515,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 951367,
+      "num": 438599,
+      "word": "街头劝架的丁禹兮",
+      "onboard_time": 1746267621,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 949843,
       "num": 949843,
       "word": "日本3个月前坠坑老人确认死亡",
@@ -539,6 +563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 924021,
+      "num": 318070,
+      "word": "欧尼熊 可心",
+      "onboard_time": 1746269962,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
       "raw_hot": 923353,
       "num": 436695,
       "word": "协和4加4培养的是天才还是关系户",
@@ -553,6 +585,14 @@
       "onboard_time": 1746180989,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 906092,
+      "num": 906092,
+      "word": "女儿94分被爸爸泼冷水1招反击",
+      "onboard_time": 1746265581,
+      "rank": 6,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 904829,
@@ -619,14 +659,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 817373,
-      "num": 817373,
-      "word": "女儿94分被爸爸泼冷水1招反击",
-      "onboard_time": 1746265581,
-      "rank": 6,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 809164,
       "num": 333831,
       "word": "当老爸得知我去日本玩be like",
@@ -672,14 +704,6 @@
       "word": "于东来与网红互怼怒称要退圈",
       "onboard_time": 1746257181,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 788121,
-      "num": 788121,
-      "word": "掉进火锅猫咪已送医取名51",
-      "onboard_time": 1746266841,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -1579,11 +1603,11 @@
       "category": "国内时政,财经"
     },
     {
-      "raw_hot": 438599,
-      "num": 438599,
-      "word": "街头劝架的丁禹兮",
-      "onboard_time": 1746267621,
-      "rank": 27,
+      "raw_hot": 436572,
+      "num": 436572,
+      "word": "高会直播",
+      "onboard_time": 1746264562,
+      "rank": 41,
       "category": "艺人"
     },
     {
@@ -1811,6 +1835,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 382175,
+      "num": 382175,
+      "word": "石凯说我不可能自卑",
+      "onboard_time": 1746267981,
+      "rank": 21,
+      "category": "艺人,艺人"
+    },
+    {
       "raw_hot": 381330,
       "num": 295018,
       "word": "饶毅再发文谈协和4加4制度",
@@ -1937,6 +1969,22 @@
       "onboard_time": 1746170241,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 346717,
+      "num": 293963,
+      "word": "不体面却赚钱的工作",
+      "onboard_time": 1746269781,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 344581,
+      "num": 311610,
+      "word": "翔霖",
+      "onboard_time": 1746088582,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 341176,
@@ -2099,6 +2147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 322351,
+      "num": 322351,
+      "word": "全红婵收获全场首个10分",
+      "onboard_time": 1746267743,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 320087,
       "num": 289643,
       "word": "协和4加4培养出的董医生医术如何",
@@ -2169,6 +2225,14 @@
       "onboard_time": 1746256160,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 309856,
+      "num": 408529,
+      "word": "游客花80元体验3小时租腿登泰山",
+      "onboard_time": 1746267860,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 309477,
@@ -2387,14 +2451,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 287718,
-      "num": 287718,
-      "word": "高会直播",
-      "onboard_time": 1746264562,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 286664,
       "num": 417437,
       "word": "黄子弘凡以为撕拉片是吃的",
@@ -2553,6 +2609,14 @@
       "onboard_time": 1746160830,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 264654,
+      "num": 264654,
+      "word": "中医给鼻炎患者的建议",
+      "onboard_time": 1746269001,
+      "rank": 21,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 264437,
@@ -2907,28 +2971,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 226601,
-      "num": 226601,
-      "word": "全红婵收获全场首个10分",
-      "onboard_time": 1746267743,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 225594,
       "num": 234901,
       "word": "AXIZ对战WBG",
       "onboard_time": 1746164309,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 224937,
-      "num": 196158,
-      "word": "石凯说我不可能自卑",
-      "onboard_time": 1746267981,
-      "rank": 21,
-      "category": "艺人,艺人"
     },
     {
       "raw_hot": 224540,
@@ -2996,7 +3044,7 @@
     },
     {
       "raw_hot": 218297,
-      "num": 193410,
+      "num": 210464,
       "word": "华晨宇自曝体脂率",
       "onboard_time": 1746267743,
       "rank": 46,
@@ -3140,7 +3188,7 @@
     },
     {
       "raw_hot": 205938,
-      "num": 196639,
+      "num": 223885,
       "word": "95生四顶",
       "onboard_time": 1746267801,
       "rank": 26,
@@ -3172,7 +3220,7 @@
     },
     {
       "raw_hot": 204837,
-      "num": 204837,
+      "num": 220743,
       "word": "王一栩 魔改",
       "onboard_time": 1746265942,
       "rank": 23,
@@ -3257,14 +3305,6 @@
       "onboard_time": 1746245301,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 202636,
-      "num": 202636,
-      "word": "翔霖",
-      "onboard_time": 1746088582,
-      "rank": 25,
-      "category": "演出"
     },
     {
       "raw_hot": 202257,
@@ -4123,6 +4163,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 182424,
+      "num": 227484,
+      "word": "第一次见粉丝蹭正主托运的",
+      "onboard_time": 1746268161,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182410,
       "num": 200207,
       "word": "翟潇闻直播",
@@ -4611,14 +4659,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 164783,
-      "num": 408529,
-      "word": "游客花80元体验3小时租腿登泰山",
-      "onboard_time": 1746267860,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 164741,
       "num": 234688,
       "word": "祝绪丹冷脸唱rap好帅",
@@ -4649,14 +4689,6 @@
       "onboard_time": 1746268581,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 163476,
-      "num": 163476,
-      "word": "第一次见粉丝蹭正主托运的",
-      "onboard_time": 1746268161,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 163146,
@@ -5003,6 +5035,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 156252,
+      "num": 156252,
+      "word": "泽连斯基拒绝普京72小时停火提议",
+      "onboard_time": 1746270381,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 156184,
       "num": 156184,
       "word": "这直播给迪丽热巴看沉默了",
@@ -5097,6 +5137,14 @@
       "onboard_time": 1746149489,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 153226,
+      "num": 310478,
+      "word": "大学生镜头下的马思纯",
+      "onboard_time": 1746270262,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 153199,
@@ -5483,6 +5531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144707,
+      "num": 144707,
+      "word": "上海面包店belike",
+      "onboard_time": 1746270022,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 144696,
       "num": 144696,
       "word": "王源杨坤 老男孩",
@@ -5785,6 +5841,14 @@
       "onboard_time": 1746179729,
       "rank": 37,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 138293,
+      "num": 138293,
+      "word": "跳水",
+      "onboard_time": 1746269781,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 138185,
@@ -6411,6 +6475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127600,
+      "num": 127600,
+      "word": "西安雷雨夜空现条状不明物",
+      "onboard_time": 1746270501,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127571,
       "num": 127571,
       "word": "程潇直拍",
@@ -6497,6 +6569,14 @@
       "onboard_time": 1746245361,
       "rank": 39,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 126671,
+      "num": 126671,
+      "word": "张新成 脱衣服",
+      "onboard_time": 1746271102,
+      "rank": 42,
+      "category": "演出,综艺"
     },
     {
       "raw_hot": 126652,
@@ -6603,6 +6683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125439,
+      "num": 125439,
+      "word": "全红婵陈芋汐pk水花消失术",
+      "onboard_time": 1746269781,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125304,
       "num": 125304,
       "word": "库里一个人的一波流",
@@ -6681,6 +6769,14 @@
       "onboard_time": 1746245420,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124065,
+      "num": 124065,
+      "word": "刘诗诗一场戏18种眼神变化",
+      "onboard_time": 1746269301,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 123949,
@@ -6779,6 +6875,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 122025,
+      "num": 122025,
+      "word": "秦陵青铜伞把现代专家看蒙了",
+      "onboard_time": 1746269841,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121516,
       "num": 121516,
       "word": "恋与深空",
@@ -6816,6 +6920,14 @@
       "word": "婚礼现场新娘身穿9.9米非遗婚服",
       "onboard_time": 1746095421,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120857,
+      "num": 120857,
+      "word": "三亚通报网友买水果九斤变六斤",
+      "onboard_time": 1746270622,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -9659,6 +9771,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38635,
+      "num": 216134,
+      "word": "专家称巴菲特很可能会投资黄金",
+      "onboard_time": 1746271041,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 38440,
+      "num": 213789,
+      "word": "漫展一天不断电全靠Turbo4Pro",
+      "onboard_time": 1746269602,
+      "rank": 28,
+      "category": "动漫,数码"
+    },
+    {
       "raw_hot": 38281,
       "num": 138078,
       "word": "中国人开始探索沙漠种水稻了",
@@ -9689,6 +9817,14 @@
       "onboard_time": 1746098061,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 37567,
+      "num": 322228,
+      "word": "纽约市上千人抗议游行",
+      "onboard_time": 1746270683,
+      "rank": 10,
+      "category": "国际时政"
     },
     {
       "raw_hot": 37084,
@@ -10057,6 +10193,14 @@
       "onboard_time": 1746134835,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 24367,
+      "num": 315492,
+      "word": "百万美谷空降WAW现场",
+      "onboard_time": 1746270082,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 24294,
@@ -10657,6 +10801,14 @@
       "onboard_time": 1746184890,
       "rank": 19,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 10253,
+      "num": 133563,
+      "word": "香港推出最严控烟条例草案",
+      "onboard_time": 1746270982,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10011,
