@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746242729572,
+  "endTime": 1746244257472,
   "band_list": [
     {
       "raw_hot": 3885539,
@@ -9,6 +9,14 @@
       "onboard_time": 1746194251,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2689057,
+      "num": 1151522,
+      "word": "石凯聊天记录",
+      "onboard_time": 1746241760,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 2306655,
@@ -33,6 +41,14 @@
       "onboard_time": 1746105143,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 2112544,
+      "num": 2112544,
+      "word": "五三惨案",
+      "onboard_time": 1746242841,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 2018686,
@@ -459,14 +475,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 947016,
-      "num": 1151522,
-      "word": "石凯聊天记录",
-      "onboard_time": 1746241760,
-      "rank": 0,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 943420,
       "num": 360053,
       "word": "金价大跌购买人数又上来了",
@@ -577,6 +585,14 @@
       "onboard_time": 1746170540,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 808849,
+      "num": 808849,
+      "word": "三亚多名游客与向导失散困海中1小时",
+      "onboard_time": 1746240740,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 807858,
@@ -772,7 +788,7 @@
     },
     {
       "raw_hot": 637181,
-      "num": 273343,
+      "num": 359926,
       "word": "苏州一直升机坠落致1死4伤",
       "onboard_time": 1746232399,
       "rank": 13,
@@ -1075,14 +1091,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 506176,
-      "num": 506176,
-      "word": "三亚多名游客与向导失散困海中1小时",
-      "onboard_time": 1746240740,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 498325,
       "num": 498325,
       "word": "饶毅称4加4适合协和且可推广",
@@ -1347,6 +1355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 429331,
+      "num": 429331,
+      "word": "倪虹洁身材好辣",
+      "onboard_time": 1746241760,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 427432,
       "num": 427432,
       "word": "众人为举国旗爬山男子照亮上山路",
@@ -1539,6 +1555,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 373949,
+      "num": 373949,
+      "word": "泰山陪爬小伙2天挣了近2000元",
+      "onboard_time": 1746242599,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 372852,
       "num": 331554,
       "word": "翁虹与丈夫分居3年感情反而更好了",
@@ -1569,6 +1593,14 @@
       "onboard_time": 1746195271,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 368136,
+      "num": 368136,
+      "word": "南京大屠杀幸存者刘贵祥去世",
+      "onboard_time": 1746240501,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 364600,
@@ -1736,14 +1768,6 @@
       "word": "李晟小考太帅了",
       "onboard_time": 1746171020,
       "rank": 38,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 327580,
-      "num": 251913,
-      "word": "倪虹洁身材好辣",
-      "onboard_time": 1746241760,
-      "rank": 11,
       "category": "综艺"
     },
     {
@@ -1921,14 +1945,6 @@
       "onboard_time": 1746108623,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 299320,
-      "num": 299320,
-      "word": "南京大屠杀幸存者刘贵祥去世",
-      "onboard_time": 1746240501,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 298193,
@@ -2252,7 +2268,7 @@
     },
     {
       "raw_hot": 251122,
-      "num": 205126,
+      "num": 238102,
       "word": "谁家剧一次集齐四个疯批",
       "onboard_time": 1746240980,
       "rank": 22,
@@ -2321,6 +2337,14 @@
       "onboard_time": 1746183270,
       "rank": 22,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 242482,
+      "num": 220218,
+      "word": "景区买东西前千万要砍价",
+      "onboard_time": 1746244040,
+      "rank": 23,
+      "category": "旅游"
     },
     {
       "raw_hot": 242155,
@@ -2427,6 +2451,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 225146,
+      "num": 140037,
+      "word": "五一的桂林快忙成马六甲了",
+      "onboard_time": 1746243321,
+      "rank": 30,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 224540,
       "num": 224540,
       "word": "AG剧透",
@@ -2465,6 +2497,14 @@
       "onboard_time": 1746198384,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 220230,
+      "num": 220230,
+      "word": "女子整理发霉衣柜后高烧40度",
+      "onboard_time": 1746243079,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 219632,
@@ -3203,6 +3243,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 188618,
+      "num": 138747,
+      "word": "苏杯石宇奇2比0奈良冈功大",
+      "onboard_time": 1746244161,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188471,
       "num": 193803,
       "word": "WBG晋级8强",
@@ -3681,6 +3729,22 @@
       "onboard_time": 1746068541,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 168357,
+      "num": 168357,
+      "word": "孟子义金宣虎wink",
+      "onboard_time": 1746243621,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 168332,
+      "num": 168332,
+      "word": "谢娜说严浩翔导师你怕了吗",
+      "onboard_time": 1746244220,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 167826,
@@ -4276,7 +4340,7 @@
     },
     {
       "raw_hot": 151404,
-      "num": 151404,
+      "num": 229259,
       "word": "公务员食堂为何成旅游顶流",
       "onboard_time": 1746234500,
       "rank": 27,
@@ -5227,6 +5291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129567,
+      "num": 137703,
+      "word": "刘耀文solo",
+      "onboard_time": 1746242902,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128940,
       "num": 128940,
       "word": "奔跑吧",
@@ -5249,6 +5321,14 @@
       "onboard_time": 1746153751,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128469,
+      "num": 361085,
+      "word": "三亚有游客骑摩托艇出海与向导失散",
+      "onboard_time": 1746237020,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128404,
@@ -5329,6 +5409,14 @@
       "onboard_time": 1746142338,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127419,
+      "num": 127419,
+      "word": "孙俪晒照为小花妹妹庆生",
+      "onboard_time": 1746244100,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 127380,
@@ -5643,6 +5731,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 119712,
+      "num": 119712,
+      "word": "库里一个人的一波流",
+      "onboard_time": 1746243500,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119679,
       "num": 119679,
       "word": "杨乃文说来南京只吃麦当劳",
@@ -5833,6 +5929,14 @@
       "onboard_time": 1746172041,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114504,
+      "num": 114504,
+      "word": "美国重大旅行车祸有中国公民伤亡",
+      "onboard_time": 1746242180,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 114426,
@@ -6227,6 +6331,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 106870,
+      "num": 106870,
+      "word": "Bin 你觉得我会输吗",
+      "onboard_time": 1746243621,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 106820,
       "num": 106820,
       "word": "Wolves对战ACT",
@@ -6331,6 +6443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103582,
+      "num": 103582,
+      "word": "一墙猫",
+      "onboard_time": 1746242721,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 103549,
       "num": 103549,
       "word": "邪恶双马尾咪",
@@ -6353,14 +6473,6 @@
       "onboard_time": 1746182069,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 102625,
-      "num": 102625,
-      "word": "美国重大旅行车祸有中国公民伤亡",
-      "onboard_time": 1746242180,
-      "rank": 43,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 102407,
@@ -6497,6 +6609,14 @@
       "onboard_time": 1746185070,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 98808,
+      "num": 98808,
+      "word": "黄东萍一嗓子让对手发球失误",
+      "onboard_time": 1746243800,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 98550,
@@ -6641,14 +6761,6 @@
       "onboard_time": 1746192751,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 93500,
-      "num": 93500,
-      "word": "泰山陪爬小伙2天挣了近2000元",
-      "onboard_time": 1746242599,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 93383,
@@ -6945,14 +7057,6 @@
       "onboard_time": 1746100161,
       "rank": 23,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 79930,
-      "num": 79930,
-      "word": "三亚有游客骑摩托艇出海与向导失散",
-      "onboard_time": 1746237020,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 79641,
@@ -8049,6 +8153,14 @@
       "onboard_time": 1746097343,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33240,
+      "num": 529225,
+      "word": "来天津感受河海津韵",
+      "onboard_time": 1746243680,
+      "rank": 2,
+      "category": "正能量"
     },
     {
       "raw_hot": 32983,

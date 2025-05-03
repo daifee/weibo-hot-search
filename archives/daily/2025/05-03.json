@@ -1,7 +1,23 @@
 {
   "startTime": 1746203485460,
-  "endTime": 1746242729572,
+  "endTime": 1746244257472,
   "band_list": [
+    {
+      "raw_hot": 2689057,
+      "num": 1151522,
+      "word": "石凯聊天记录",
+      "onboard_time": 1746241760,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2112544,
+      "num": 2112544,
+      "word": "五三惨案",
+      "onboard_time": 1746242841,
+      "rank": 0,
+      "category": "国内时政"
+    },
     {
       "raw_hot": 1286235,
       "num": 390081,
@@ -35,19 +51,19 @@
       "category": "演出"
     },
     {
-      "raw_hot": 947016,
-      "num": 1151522,
-      "word": "石凯聊天记录",
-      "onboard_time": 1746241760,
-      "rank": 0,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 877769,
       "num": 1140443,
       "word": "校方回应学生组团狂退60多件裙子",
       "onboard_time": 1746201321,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 808849,
+      "num": 808849,
+      "word": "三亚多名游客与向导失散困海中1小时",
+      "onboard_time": 1746240740,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -84,7 +100,7 @@
     },
     {
       "raw_hot": 637181,
-      "num": 273343,
+      "num": 359926,
       "word": "苏州一直升机坠落致1死4伤",
       "onboard_time": 1746232399,
       "rank": 13,
@@ -139,14 +155,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 506176,
-      "num": 506176,
-      "word": "三亚多名游客与向导失散困海中1小时",
-      "onboard_time": 1746240740,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 464342,
       "num": 464342,
       "word": "多国零售商停止向美发货",
@@ -160,6 +168,14 @@
       "word": "吴宣仪陈德容穿婚纱唱爱存在",
       "onboard_time": 1746236720,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 429331,
+      "num": 429331,
+      "word": "倪虹洁身材好辣",
+      "onboard_time": 1746241760,
+      "rank": 11,
       "category": "综艺"
     },
     {
@@ -179,20 +195,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 373949,
+      "num": 373949,
+      "word": "泰山陪爬小伙2天挣了近2000元",
+      "onboard_time": 1746242599,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 368136,
+      "num": 368136,
+      "word": "南京大屠杀幸存者刘贵祥去世",
+      "onboard_time": 1746240501,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 364617,
       "num": 294992,
       "word": "杜华考虑签约武大校花引发热议",
       "onboard_time": 1746185910,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 327580,
-      "num": 251913,
-      "word": "倪虹洁身材好辣",
-      "onboard_time": 1746241760,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 308894,
@@ -225,14 +249,6 @@
       "onboard_time": 1746234739,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 299320,
-      "num": 299320,
-      "word": "南京大屠杀幸存者刘贵祥去世",
-      "onboard_time": 1746240501,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 285021,
@@ -268,11 +284,19 @@
     },
     {
       "raw_hot": 251122,
-      "num": 205126,
+      "num": 238102,
       "word": "谁家剧一次集齐四个疯批",
       "onboard_time": 1746240980,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 242482,
+      "num": 220218,
+      "word": "景区买东西前千万要砍价",
+      "onboard_time": 1746244040,
+      "rank": 23,
+      "category": "旅游"
     },
     {
       "raw_hot": 233464,
@@ -289,6 +313,22 @@
       "onboard_time": 1746195872,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 225146,
+      "num": 140037,
+      "word": "五一的桂林快忙成马六甲了",
+      "onboard_time": 1746243321,
+      "rank": 30,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 220230,
+      "num": 220230,
+      "word": "女子整理发霉衣柜后高烧40度",
+      "onboard_time": 1746243079,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 203378,
@@ -339,6 +379,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 188618,
+      "num": 138747,
+      "word": "苏杯石宇奇2比0奈良冈功大",
+      "onboard_time": 1746244161,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188459,
       "num": 188459,
       "word": "养猫后发现自己会是很糟糕的父母",
@@ -385,6 +433,22 @@
       "onboard_time": 1746191188,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168357,
+      "num": 168357,
+      "word": "孟子义金宣虎wink",
+      "onboard_time": 1746243621,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 168332,
+      "num": 168332,
+      "word": "谢娜说严浩翔导师你怕了吗",
+      "onboard_time": 1746244220,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 165693,
@@ -452,7 +516,7 @@
     },
     {
       "raw_hot": 151404,
-      "num": 151404,
+      "num": 229259,
       "word": "公务员食堂为何成旅游顶流",
       "onboard_time": 1746234500,
       "rank": 27,
@@ -555,6 +619,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129567,
+      "num": 137703,
+      "word": "刘耀文solo",
+      "onboard_time": 1746242902,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 128469,
+      "num": 361085,
+      "word": "三亚有游客骑摩托艇出海与向导失散",
+      "onboard_time": 1746237020,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127618,
       "num": 127618,
       "word": "济南连续25年鸣响防空警报",
@@ -568,6 +648,14 @@
       "word": "程潇直拍",
       "onboard_time": 1746200901,
       "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 127419,
+      "num": 127419,
+      "word": "孙俪晒照为小花妹妹庆生",
+      "onboard_time": 1746244100,
+      "rank": 35,
       "category": "艺人"
     },
     {
@@ -595,12 +683,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 119712,
+      "num": 119712,
+      "word": "库里一个人的一波流",
+      "onboard_time": 1746243500,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119679,
       "num": 119679,
       "word": "杨乃文说来南京只吃麦当劳",
       "onboard_time": 1746237499,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 114504,
+      "num": 114504,
+      "word": "美国重大旅行车祸有中国公民伤亡",
+      "onboard_time": 1746242180,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 112465,
@@ -659,6 +763,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 106870,
+      "num": 106870,
+      "word": "Bin 你觉得我会输吗",
+      "onboard_time": 1746243621,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 106662,
       "num": 106662,
       "word": "格林放倒格林",
@@ -683,12 +795,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 102625,
-      "num": 102625,
-      "word": "美国重大旅行车祸有中国公民伤亡",
-      "onboard_time": 1746242180,
-      "rank": 43,
-      "category": "海外新闻"
+      "raw_hot": 103582,
+      "num": 103582,
+      "word": "一墙猫",
+      "onboard_time": 1746242721,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 102407,
@@ -713,6 +825,14 @@
       "onboard_time": 1746199462,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 98808,
+      "num": 98808,
+      "word": "黄东萍一嗓子让对手发球失误",
+      "onboard_time": 1746243800,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 97055,
@@ -769,14 +889,6 @@
       "onboard_time": 1746201621,
       "rank": 41,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 93500,
-      "num": 93500,
-      "word": "泰山陪爬小伙2天挣了近2000元",
-      "onboard_time": 1746242599,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 92383,
@@ -897,14 +1009,6 @@
       "onboard_time": 1746183389,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 79930,
-      "num": 79930,
-      "word": "三亚有游客骑摩托艇出海与向导失散",
-      "onboard_time": 1746237020,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 79270,
@@ -1153,6 +1257,14 @@
       "onboard_time": 1746237621,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 33240,
+      "num": 529225,
+      "word": "来天津感受河海津韵",
+      "onboard_time": 1746243680,
+      "rank": 2,
+      "category": "正能量"
     },
     {
       "raw_hot": 31426,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1746244257472,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2112544,
+        "num": 2112544,
+        "word": "五三惨案",
+        "onboard_time": 1746242841,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 808849,
+        "num": 808849,
+        "word": "三亚多名游客与向导失散困海中1小时",
+        "onboard_time": 1746240740,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33240,
+        "num": 529225,
+        "word": "来天津感受河海津韵",
+        "onboard_time": 1746243680,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 456715,
+        "num": 456715,
+        "word": "前TVB女星在东莞打工求生",
+        "onboard_time": 1746235941,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 429331,
+        "num": 429331,
+        "word": "倪虹洁身材好辣",
+        "onboard_time": 1746241760,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 418281,
+        "num": 418281,
+        "word": "校方回应学生组团狂退60多件裙子",
+        "onboard_time": 1746201321,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 373949,
+        "num": 373949,
+        "word": "泰山陪爬小伙2天挣了近2000元",
+        "onboard_time": 1746242599,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 404638,
+        "num": 373759,
+        "word": "陈丽君 贾宝玉",
+        "onboard_time": 1746238220,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 368136,
+        "num": 368136,
+        "word": "南京大屠杀幸存者刘贵祥去世",
+        "onboard_time": 1746240501,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 128469,
+        "num": 361085,
+        "word": "三亚有游客骑摩托艇出海与向导失散",
+        "onboard_time": 1746237020,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2689057,
+        "num": 360867,
+        "word": "石凯聊天记录",
+        "onboard_time": 1746241760,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 359926,
+        "num": 359926,
+        "word": "苏州一直升机坠落致1死4伤",
+        "onboard_time": 1746232399,
+        "rank": 11,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 299118,
+        "num": 299118,
+        "word": "吴宣仪陈德容穿婚纱唱爱存在",
+        "onboard_time": 1746236720,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262942,
+        "num": 262942,
+        "word": "多国零售商停止向美发货",
+        "onboard_time": 1746238879,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 246375,
+        "num": 246375,
+        "word": "陈丽君争议片段已删除",
+        "onboard_time": 1746200182,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 239042,
+        "num": 239042,
+        "word": "原来躺久了也会消耗气血",
+        "onboard_time": 1746203600,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 238102,
+        "num": 238102,
+        "word": "谁家剧一次集齐四个疯批",
+        "onboard_time": 1746240980,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235286,
+        "num": 235286,
+        "word": "高中生继承5亿遗产结婚当天坠亡",
+        "onboard_time": 1746190950,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203911,
+        "num": 231930,
+        "word": "王力宏演唱会差点掉下舞台",
+        "onboard_time": 1746234860,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 95564,
+        "num": 229259,
+        "word": "公务员食堂为何成旅游顶流",
+        "onboard_time": 1746234500,
+        "rank": 19,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 442512,
+        "num": 226704,
+        "word": "一直对月薪4000没概念直到换成天",
+        "onboard_time": 1746198152,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 286599,
+        "num": 222361,
+        "word": "64岁男子地下室囚禁虐待两姐妹7年",
+        "onboard_time": 1746233120,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220230,
+        "num": 220230,
+        "word": "女子整理发霉衣柜后高烧40度",
+        "onboard_time": 1746243079,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242482,
+        "num": 220218,
+        "word": "景区买东西前千万要砍价",
+        "onboard_time": 1746244040,
+        "rank": 23,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 219781,
+        "num": 219781,
+        "word": "长期喝茶对身体健康有何影响",
+        "onboard_time": 1746235399,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 168357,
+        "num": 168357,
+        "word": "孟子义金宣虎wink",
+        "onboard_time": 1746243621,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 168332,
+        "num": 168332,
+        "word": "谢娜说严浩翔导师你怕了吗",
+        "onboard_time": 1746244220,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166665,
+        "num": 166665,
+        "word": "马嘉祺破音",
+        "onboard_time": 1746200722,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 154882,
+        "num": 154882,
+        "word": "江一燕房琪淘汰",
+        "onboard_time": 1746232759,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140722,
+        "num": 140722,
+        "word": "杨紫雪山开机图",
+        "onboard_time": 1746241819,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225146,
+        "num": 140037,
+        "word": "五一的桂林快忙成马六甲了",
+        "onboard_time": 1746243321,
+        "rank": 30,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 188618,
+        "num": 138747,
+        "word": "苏杯石宇奇2比0奈良冈功大",
+        "onboard_time": 1746244161,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129567,
+        "num": 137703,
+        "word": "刘耀文solo",
+        "onboard_time": 1746242902,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137052,
+        "num": 137052,
+        "word": "日本大爷掉坑处修复还需5到7年",
+        "onboard_time": 1746231680,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 133355,
+        "num": 133355,
+        "word": "美多地爆发大规模抗议活动",
+        "onboard_time": 1746241699,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127419,
+        "num": 127419,
+        "word": "孙俪晒照为小花妹妹庆生",
+        "onboard_time": 1746244100,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119712,
+        "num": 119712,
+        "word": "库里一个人的一波流",
+        "onboard_time": 1746243500,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115400,
+        "num": 115400,
+        "word": "养猫后发现自己会是很糟糕的父母",
+        "onboard_time": 1746241699,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115352,
+        "num": 115352,
+        "word": "假期建议不要大吃大喝过度补觉",
+        "onboard_time": 1746235941,
+        "rank": 38,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 114504,
+        "num": 114504,
+        "word": "美国重大旅行车祸有中国公民伤亡",
+        "onboard_time": 1746242180,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 112382,
+        "num": 112382,
+        "word": "双休制度提案委员王贤才逝世",
+        "onboard_time": 1746231079,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106870,
+        "num": 106870,
+        "word": "Bin 你觉得我会输吗",
+        "onboard_time": 1746243621,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 106679,
+        "num": 106679,
+        "word": "五一假期到一半了",
+        "onboard_time": 1746228076,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106242,
+        "num": 106242,
+        "word": "许嵩 今年巡演最北城市是天津",
+        "onboard_time": 1746242119,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 103582,
+        "num": 103582,
+        "word": "一墙猫",
+        "onboard_time": 1746242721,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 103462,
+        "num": 103462,
+        "word": "杨紫生命树开机plog",
+        "onboard_time": 1746238460,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102531,
+        "num": 102531,
+        "word": "美国人跨境网购价格贵了发货慢了",
+        "onboard_time": 1746237801,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 98808,
+        "num": 98808,
+        "word": "黄东萍一嗓子让对手发球失误",
+        "onboard_time": 1746243800,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97251,
+        "num": 97251,
+        "word": "小婉管乐 天若有情",
+        "onboard_time": 1746231559,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94505,
+        "num": 94505,
+        "word": "张云龙演技",
+        "onboard_time": 1746230600,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#劳动创造幸福奋斗铸就伟业#"
+    }
+  }
+}
