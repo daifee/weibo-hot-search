@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746267874616,
+  "endTime": 1746268906658,
   "band_list": [
     {
       "raw_hot": 3885539,
@@ -83,20 +83,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1720327,
+      "num": 1720327,
+      "word": "灵隐寺260万年租金的小卖部",
+      "onboard_time": 1746263601,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1665852,
       "num": 1665852,
       "word": "蓝莓肚脐眼里的霉菌",
       "onboard_time": 1746085281,
       "rank": 0,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 1657654,
-      "num": 1657654,
-      "word": "灵隐寺260万年租金的小卖部",
-      "onboard_time": 1746263601,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1648767,
@@ -619,6 +619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 817373,
+      "num": 817373,
+      "word": "女儿94分被爸爸泼冷水1招反击",
+      "onboard_time": 1746265581,
+      "rank": 6,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 809164,
       "num": 333831,
       "word": "当老爸得知我去日本玩be like",
@@ -664,6 +672,14 @@
       "word": "于东来与网红互怼怒称要退圈",
       "onboard_time": 1746257181,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 788121,
+      "num": 788121,
+      "word": "掉进火锅猫咪已送医取名51",
+      "onboard_time": 1746266841,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -835,14 +851,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 681265,
-      "num": 681265,
-      "word": "女儿94分被爸爸泼冷水1招反击",
-      "onboard_time": 1746265581,
-      "rank": 6,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 672560,
       "num": 672560,
       "word": "全红婵陈芋汐跳水世界杯冠军",
@@ -1001,6 +1009,14 @@
       "onboard_time": 1746158969,
       "rank": 25,
       "category": "海外新闻,民生新闻"
+    },
+    {
+      "raw_hot": 611756,
+      "num": 611756,
+      "word": "用已逝女友起号这段太真实了",
+      "onboard_time": 1746267021,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 609736,
@@ -1561,6 +1577,14 @@
       "onboard_time": 1746146489,
       "rank": 10,
       "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 438599,
+      "num": 438599,
+      "word": "街头劝架的丁禹兮",
+      "onboard_time": 1746267621,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 432924,
@@ -2363,6 +2387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 287718,
+      "num": 287718,
+      "word": "高会直播",
+      "onboard_time": 1746264562,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 286664,
       "num": 417437,
       "word": "黄子弘凡以为撕拉片是吃的",
@@ -2531,28 +2563,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 264134,
-      "num": 264134,
-      "word": "高会直播",
-      "onboard_time": 1746264562,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 261673,
       "num": 325044,
       "word": "河南一生物公司发生爆炸1死3人伤",
       "onboard_time": 1746085881,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 261623,
-      "num": 261623,
-      "word": "用已逝女友起号这段太真实了",
-      "onboard_time": 1746267021,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 261493,
@@ -2891,12 +2907,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 226601,
+      "num": 226601,
+      "word": "全红婵收获全场首个10分",
+      "onboard_time": 1746267743,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 225594,
       "num": 234901,
       "word": "AXIZ对战WBG",
       "onboard_time": 1746164309,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 224937,
+      "num": 196158,
+      "word": "石凯说我不可能自卑",
+      "onboard_time": 1746267981,
+      "rank": 21,
+      "category": "艺人,艺人"
     },
     {
       "raw_hot": 224540,
@@ -2961,6 +2993,14 @@
       "onboard_time": 1746103402,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 218297,
+      "num": 193410,
+      "word": "华晨宇自曝体脂率",
+      "onboard_time": 1746267743,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 217542,
@@ -3097,6 +3137,14 @@
       "onboard_time": 1746081681,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205938,
+      "num": 196639,
+      "word": "95生四顶",
+      "onboard_time": 1746267801,
+      "rank": 26,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 205667,
@@ -3355,6 +3403,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 197904,
+      "num": 235850,
+      "word": "男子网吧里针灸后差点憋死被送ICU",
+      "onboard_time": 1746266841,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 197796,
       "num": 197796,
       "word": "生命树",
@@ -3425,14 +3481,6 @@
       "onboard_time": 1746169880,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 196639,
-      "num": 196639,
-      "word": "95生四顶",
-      "onboard_time": 1746267801,
-      "rank": 26,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 196524,
@@ -3665,6 +3713,14 @@
       "onboard_time": 1746194790,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 190980,
+      "num": 190980,
+      "word": "华天崎给鞠婧祎化的裸感妆",
+      "onboard_time": 1746267860,
+      "rank": 26,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 190878,
@@ -4187,6 +4243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176134,
+      "num": 176134,
+      "word": "AG春决逐鹿中原",
+      "onboard_time": 1746267743,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 175903,
       "num": 175903,
       "word": "严浩翔华服鎏金皇冠剧照",
@@ -4217,14 +4281,6 @@
       "onboard_time": 1746095841,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 174585,
-      "num": 174585,
-      "word": "街头劝架的丁禹兮",
-      "onboard_time": 1746267621,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 174319,
@@ -4555,6 +4611,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 164783,
+      "num": 408529,
+      "word": "游客花80元体验3小时租腿登泰山",
+      "onboard_time": 1746267860,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 164741,
       "num": 234688,
       "word": "祝绪丹冷脸唱rap好帅",
@@ -4577,6 +4641,22 @@
       "onboard_time": 1746164669,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 163751,
+      "num": 163751,
+      "word": "COA8年度人气求生者桃晚安",
+      "onboard_time": 1746268581,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 163476,
+      "num": 163476,
+      "word": "第一次见粉丝蹭正主托运的",
+      "onboard_time": 1746268161,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 163146,
@@ -4657,6 +4737,14 @@
       "onboard_time": 1746074120,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 161426,
+      "num": 161426,
+      "word": "陈都灵周翊然楚后番位",
+      "onboard_time": 1746268520,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 161175,
@@ -5011,14 +5099,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 153308,
-      "num": 153308,
-      "word": "AG春决逐鹿中原",
-      "onboard_time": 1746267743,
-      "rank": 36,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 153199,
       "num": 153199,
       "word": "马龙谈国乒传承",
@@ -5243,6 +5323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147478,
+      "num": 145483,
+      "word": "淮水竹亭",
+      "onboard_time": 1746097041,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147407,
       "num": 147407,
       "word": "杰尼",
@@ -5265,6 +5353,14 @@
       "onboard_time": 1746162029,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146946,
+      "num": 146946,
+      "word": "五一黄金跳水引爆抢购潮",
+      "onboard_time": 1746268581,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 146888,
@@ -5441,14 +5537,6 @@
       "onboard_time": 1746085522,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 144060,
-      "num": 144060,
-      "word": "淮水竹亭",
-      "onboard_time": 1746097041,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 143964,
@@ -5947,6 +6035,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 133023,
+      "num": 133023,
+      "word": "苏州直升机坠落的景区开园仅1周",
+      "onboard_time": 1746268401,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132888,
       "num": 619417,
       "word": "要和四分之一世纪的春天说再见了",
@@ -6403,14 +6499,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 126686,
-      "num": 126686,
-      "word": "华晨宇自曝体脂率",
-      "onboard_time": 1746267743,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 126652,
       "num": 231263,
       "word": "敖瑞鹏跳舞新装的四肢",
@@ -6473,6 +6561,14 @@
       "onboard_time": 1746172342,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 126049,
+      "num": 126049,
+      "word": "COA8年度评选",
+      "onboard_time": 1746267860,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 125941,
@@ -6569,6 +6665,14 @@
       "onboard_time": 1746199580,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 124383,
+      "num": 124383,
+      "word": "比起你我更喜欢你妈妈",
+      "onboard_time": 1746268520,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 124081,
@@ -6827,6 +6931,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 118416,
+      "num": 118416,
+      "word": "火星演唱会",
+      "onboard_time": 1746268761,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 118293,
       "num": 335871,
       "word": "晒晒你的五一旅行照",
@@ -6939,6 +7051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116368,
+      "num": 177765,
+      "word": "全红婵赛前热身上演3米台炸鱼",
+      "onboard_time": 1746267860,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116306,
       "num": 116306,
       "word": "大屏上的张新成",
@@ -6953,6 +7073,14 @@
       "onboard_time": 1746256521,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115714,
+      "num": 115714,
+      "word": "平番",
+      "onboard_time": 1746268880,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 115596,
@@ -7057,14 +7185,6 @@
       "onboard_time": 1746264981,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 113206,
-      "num": 153508,
-      "word": "全红婵收获全场首个10分",
-      "onboard_time": 1746267743,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 113199,
@@ -7521,14 +7641,6 @@
       "onboard_time": 1746062602,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 105594,
-      "num": 308871,
-      "word": "掉进火锅猫咪已送医取名51",
-      "onboard_time": 1746266841,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 105529,
@@ -8193,14 +8305,6 @@
       "onboard_time": 1746245902,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 86631,
-      "num": 235850,
-      "word": "男子网吧里针灸后差点憋死被送ICU",
-      "onboard_time": 1746266841,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 86347,
@@ -9499,6 +9603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 40942,
+      "num": 181125,
+      "word": "花十几万跟团去科考游值吗",
+      "onboard_time": 1746267260,
+      "rank": 29,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 40702,
       "num": 40702,
       "word": "朱志鑫舞台好燃",
@@ -9787,14 +9899,6 @@
       "category": "海外新闻,民生新闻"
     },
     {
-      "raw_hot": 28892,
-      "num": 168293,
-      "word": "花十几万跟团去科考游值吗",
-      "onboard_time": 1746267260,
-      "rank": 29,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 28462,
       "num": 331013,
       "word": "阿斯伯格综合征的主要表现是什么",
@@ -10041,6 +10145,14 @@
       "onboard_time": 1746181288,
       "rank": 23,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 22647,
+      "num": 135665,
+      "word": "日本公开称美国提议绝不可接受",
+      "onboard_time": 1746268461,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 22528,
