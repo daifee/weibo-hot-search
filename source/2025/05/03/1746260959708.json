@@ -1,0 +1,410 @@
+{
+  "runTime": 1746260959708,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1357927,
+        "num": 1357927,
+        "word": "五三惨案",
+        "onboard_time": 1746242841,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 721478,
+        "num": 721478,
+        "word": "陈赫在海南被路人认成周杰伦",
+        "onboard_time": 1746258740,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39383,
+        "num": 619417,
+        "word": "要和四分之一世纪的春天说再见了",
+        "onboard_time": 1746232399,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 530808,
+        "num": 530808,
+        "word": "于东来与网红互怼怒称要退圈",
+        "onboard_time": 1746257181,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 523906,
+        "num": 523906,
+        "word": "交警称9米长林肯是钻空子上山",
+        "onboard_time": 1746253461,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 538178,
+        "num": 516952,
+        "word": "孙颖莎 嘉人",
+        "onboard_time": 1746251601,
+        "rank": 5,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 485348,
+        "num": 485348,
+        "word": "谁把程潇的中药换成冰美式了",
+        "onboard_time": 1746256579,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 460294,
+        "num": 460294,
+        "word": "校方就退60件演出服事件道歉",
+        "onboard_time": 1746250101,
+        "rank": 7,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 286179,
+        "num": 286179,
+        "word": "医学院有很多专业不能当医生",
+        "onboard_time": 1746256099,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238968,
+        "num": 238968,
+        "word": "罗云熙 音乐节",
+        "onboard_time": 1746259221,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 882681,
+        "num": 238740,
+        "word": "石凯聊天记录",
+        "onboard_time": 1746241760,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 635478,
+        "num": 238249,
+        "word": "吸血的阴虱",
+        "onboard_time": 1746258800,
+        "rank": 11,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 388826,
+        "num": 238061,
+        "word": "兜儿否认拿烟头烫小猪先生",
+        "onboard_time": 1746259400,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 82682,
+        "num": 237644,
+        "word": "外国人凌晨2点排队抢购中国玩具",
+        "onboard_time": 1746260180,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 43345,
+        "num": 237419,
+        "word": "KPL梦之队星光见面会",
+        "onboard_time": 1746259280,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237034,
+        "num": 237034,
+        "word": "五一的桂林快忙成马六甲了",
+        "onboard_time": 1746243321,
+        "rank": 15,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 282980,
+        "num": 237029,
+        "word": "上千名游客深夜滞留张家界大喊退票",
+        "onboard_time": 1746258261,
+        "rank": 16,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 232602,
+        "num": 232602,
+        "word": "韩庚被女儿融化了",
+        "onboard_time": 1746258740,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197394,
+        "num": 197394,
+        "word": "外国小哥穿白袜子走在东京街头",
+        "onboard_time": 1746257300,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 192590,
+        "num": 192590,
+        "word": "周杰伦王俊凯周游记",
+        "onboard_time": 1746256160,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190739,
+        "num": 190739,
+        "word": "市监局称已对涉事茶企业立案",
+        "onboard_time": 1746258980,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183898,
+        "num": 183898,
+        "word": "虞书欣夹心摇破百万",
+        "onboard_time": 1746247580,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176428,
+        "num": 176428,
+        "word": "时代少年团演唱会花墙应援",
+        "onboard_time": 1746256160,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 174030,
+        "num": 174030,
+        "word": "天降猫咪掉进露天火锅烫伤9人",
+        "onboard_time": 1746248421,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150932,
+        "num": 150932,
+        "word": "叶童银发狼尾造型",
+        "onboard_time": 1746252142,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149584,
+        "num": 149584,
+        "word": "邓超妈妈辛苦爱你小花爸爸好帅",
+        "onboard_time": 1746252021,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136414,
+        "num": 136414,
+        "word": "侯佩岑 我好喜欢李斯丹妮啊",
+        "onboard_time": 1746256160,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135910,
+        "num": 135910,
+        "word": "这竟然是黄奕",
+        "onboard_time": 1746250402,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131984,
+        "num": 131984,
+        "word": "国家队一出手就是超强实力",
+        "onboard_time": 1746256460,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131572,
+        "num": 131572,
+        "word": "原来100元可以买这么多东西",
+        "onboard_time": 1746250820,
+        "rank": 29,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 140110,
+        "num": 131157,
+        "word": "牙齿之间出现黑三角警惕牙龈萎缩",
+        "onboard_time": 1746259340,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 118976,
+        "num": 118976,
+        "word": "谁家女主抱着男主和男二暧昧对视",
+        "onboard_time": 1746257361,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103398,
+        "num": 103398,
+        "word": "5名中国公民在美国交通事故中遇难",
+        "onboard_time": 1746246142,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101731,
+        "num": 101731,
+        "word": "爸爸抱起孩子大狗仍追着咬",
+        "onboard_time": 1746256160,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99072,
+        "num": 99072,
+        "word": "今天不堵车倒是堵羊了",
+        "onboard_time": 1746257419,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97112,
+        "num": 97112,
+        "word": "22岁女生扎根西部支教25年",
+        "onboard_time": 1746259040,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93793,
+        "num": 93793,
+        "word": "关于指甲",
+        "onboard_time": 1746257060,
+        "rank": 36,
+        "category": "科学科普,民生新闻"
+      },
+      {
+        "raw_hot": 92187,
+        "num": 92187,
+        "word": "张家界景区回应上千名游客深夜滞留",
+        "onboard_time": 1746259699,
+        "rank": 37,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 34373,
+        "num": 89361,
+        "word": "6种常用维生素的特殊功效",
+        "onboard_time": 1746258740,
+        "rank": 38,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 88835,
+        "num": 88835,
+        "word": "陈雨菲发文胜利献给祖国",
+        "onboard_time": 1746256099,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88833,
+        "num": 88833,
+        "word": "张真源理科生脑子就是好",
+        "onboard_time": 1746259102,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86245,
+        "num": 86245,
+        "word": "锦月如歌",
+        "onboard_time": 1746249021,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81516,
+        "num": 81516,
+        "word": "陈德容四公练到下一个天亮",
+        "onboard_time": 1746252801,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81257,
+        "num": 81257,
+        "word": "跟喜欢的人短短聊天五分钟",
+        "onboard_time": 1746257419,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 79712,
+        "num": 79712,
+        "word": "你一句甲天下 我就堵在了真桂林",
+        "onboard_time": 1746245902,
+        "rank": 44,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 76896,
+        "num": 76896,
+        "word": "网友开车遇到3个小男孩坐车顶",
+        "onboard_time": 1746260842,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74846,
+        "num": 74846,
+        "word": "千万网红大logo带货茶叶涉嫌虚假宣传",
+        "onboard_time": 1746254062,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 74049,
+        "num": 74049,
+        "word": "何炅的反应比杨蓉说的内容还精彩",
+        "onboard_time": 1746260720,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73490,
+        "num": 73490,
+        "word": "帮老奶奶拉车的一群狗狗",
+        "onboard_time": 1746260901,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 73075,
+        "num": 73075,
+        "word": "金价",
+        "onboard_time": 1746248780,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#把造福人民作为根本价值取向#"
+    }
+  }
+}

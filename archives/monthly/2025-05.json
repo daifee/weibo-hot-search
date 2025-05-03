@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746257815815,
+  "endTime": 1746260959708,
   "band_list": [
     {
       "raw_hot": 3885539,
@@ -723,6 +723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 721478,
+      "num": 721478,
+      "word": "陈赫在海南被路人认成周杰伦",
+      "onboard_time": 1746258740,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 719184,
       "num": 719184,
       "word": "五一的桂林快忙成马六甲了",
@@ -865,6 +873,14 @@
       "onboard_time": 1746154290,
       "rank": 13,
       "category": "网红"
+    },
+    {
+      "raw_hot": 635478,
+      "num": 238249,
+      "word": "吸血的阴虱",
+      "onboard_time": 1746258800,
+      "rank": 11,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 633876,
@@ -1147,6 +1163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 530808,
+      "num": 530808,
+      "word": "于东来与网红互怼怒称要退圈",
+      "onboard_time": 1746257181,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 523146,
       "num": 523146,
       "word": "赵露思辣妹红发",
@@ -1217,6 +1241,14 @@
       "onboard_time": 1746073581,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 485348,
+      "num": 485348,
+      "word": "谁把程潇的中药换成冰美式了",
+      "onboard_time": 1746256579,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 484389,
@@ -1665,6 +1697,14 @@
       "onboard_time": 1746183990,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 388826,
+      "num": 238061,
+      "word": "兜儿否认拿烟头烫小猪先生",
+      "onboard_time": 1746259400,
+      "rank": 12,
+      "category": "网红"
     },
     {
       "raw_hot": 383176,
@@ -2211,14 +2251,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 289960,
-      "num": 289960,
-      "word": "谁把程潇的中药换成冰美式了",
-      "onboard_time": 1746256579,
-      "rank": 26,
-      "category": "演出"
-    },
-    {
       "raw_hot": 289516,
       "num": 107383,
       "word": "协和医学院的医学博士发声",
@@ -2243,12 +2275,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 286179,
+      "num": 286179,
+      "word": "医学院有很多专业不能当医生",
+      "onboard_time": 1746256099,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 284510,
       "num": 231045,
       "word": "原来100元可以买这么多东西",
       "onboard_time": 1746250820,
       "rank": 38,
       "category": "情感,民生新闻"
+    },
+    {
+      "raw_hot": 282980,
+      "num": 237029,
+      "word": "上千名游客深夜滞留张家界大喊退票",
+      "onboard_time": 1746258261,
+      "rank": 16,
+      "category": "旅游"
     },
     {
       "raw_hot": 282811,
@@ -2427,14 +2475,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 258087,
-      "num": 258087,
-      "word": "医学院有很多专业不能当医生",
-      "onboard_time": 1746256099,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 258032,
       "num": 258032,
       "word": "小米SU7Ultra限制1500匹马力",
@@ -2603,6 +2643,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 238968,
+      "num": 238968,
+      "word": "罗云熙 音乐节",
+      "onboard_time": 1746259221,
+      "rank": 9,
+      "category": "演出"
+    },
+    {
       "raw_hot": 236698,
       "num": 290963,
       "word": "你跟我说这是黄晓明",
@@ -2625,6 +2673,14 @@
       "onboard_time": 1746090622,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 232602,
+      "num": 232602,
+      "word": "韩庚被女儿融化了",
+      "onboard_time": 1746258740,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 231467,
@@ -3155,6 +3211,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 197394,
+      "num": 197394,
+      "word": "外国小哥穿白袜子走在东京街头",
+      "onboard_time": 1746257300,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 197323,
       "num": 197323,
       "word": "张泽禹簪花look",
@@ -3449,6 +3513,14 @@
       "onboard_time": 1746103461,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 190739,
+      "num": 190739,
+      "word": "市监局称已对涉事茶企业立案",
+      "onboard_time": 1746258980,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 190689,
@@ -5259,6 +5331,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 140110,
+      "num": 131157,
+      "word": "牙齿之间出现黑三角警惕牙龈萎缩",
+      "onboard_time": 1746259340,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 139572,
       "num": 144914,
       "word": "AG七连进决赛",
@@ -5540,7 +5620,7 @@
     },
     {
       "raw_hot": 132888,
-      "num": 132888,
+      "num": 619417,
       "word": "要和四分之一世纪的春天说再见了",
       "onboard_time": 1746232399,
       "rank": 28,
@@ -5641,6 +5721,14 @@
       "onboard_time": 1746171201,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 131984,
+      "num": 274657,
+      "word": "国家队一出手就是超强实力",
+      "onboard_time": 1746256460,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131860,
@@ -6321,14 +6409,6 @@
       "onboard_time": 1746194072,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 119510,
-      "num": 119510,
-      "word": "外国小哥穿白袜子走在东京街头",
-      "onboard_time": 1746257300,
-      "rank": 38,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 119399,
@@ -7083,14 +7163,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 104459,
-      "num": 274657,
-      "word": "国家队一出手就是超强实力",
-      "onboard_time": 1746256460,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 104217,
       "num": 191897,
       "word": "美国电商平台商品价格全线上涨",
@@ -7315,6 +7387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 99072,
+      "num": 173433,
+      "word": "今天不堵车倒是堵羊了",
+      "onboard_time": 1746257419,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98808,
       "num": 98808,
       "word": "黄东萍一嗓子让对手发球失误",
@@ -7393,6 +7473,14 @@
       "onboard_time": 1746249561,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 97112,
+      "num": 97112,
+      "word": "22岁女生扎根西部支教25年",
+      "onboard_time": 1746259040,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97055,
@@ -7515,6 +7603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92187,
+      "num": 92187,
+      "word": "张家界景区回应上千名游客深夜滞留",
+      "onboard_time": 1746259699,
+      "rank": 37,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 92098,
       "num": 194281,
       "word": "阿诺董力跳舞赢在身高",
@@ -7609,6 +7705,14 @@
       "onboard_time": 1746249920,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 88833,
+      "num": 88833,
+      "word": "张真源理科生脑子就是好",
+      "onboard_time": 1746259102,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 88689,
@@ -7795,6 +7899,14 @@
       "category": "时尚,休闲"
     },
     {
+      "raw_hot": 82682,
+      "num": 237644,
+      "word": "外国人凌晨2点排队抢购中国玩具",
+      "onboard_time": 1746260180,
+      "rank": 13,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 82432,
       "num": 228275,
       "word": "咒术回战在漫展里照进现实",
@@ -7857,14 +7969,6 @@
       "onboard_time": 1746100161,
       "rank": 23,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 80360,
-      "num": 259031,
-      "word": "于东来与网红互怼怒称要退圈",
-      "onboard_time": 1746257181,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 79641,
@@ -7955,6 +8059,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 76896,
+      "num": 76896,
+      "word": "网友开车遇到3个小男孩坐车顶",
+      "onboard_time": 1746260842,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76751,
       "num": 76751,
       "word": "杨鸣采访",
@@ -8019,20 +8131,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 74563,
-      "num": 173433,
-      "word": "今天不堵车倒是堵羊了",
-      "onboard_time": 1746257419,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 74546,
       "num": 74546,
       "word": "赵心童成世锦赛首位进决赛业余球员",
       "onboard_time": 1746234680,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 74049,
+      "num": 74049,
+      "word": "何炅的反应比杨蓉说的内容还精彩",
+      "onboard_time": 1746260720,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 73721,
@@ -8049,6 +8161,14 @@
       "onboard_time": 1746060200,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 73490,
+      "num": 73490,
+      "word": "帮老奶奶拉车的一群狗狗",
+      "onboard_time": 1746260901,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 72959,
@@ -8795,6 +8915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 43345,
+      "num": 275588,
+      "word": "KPL梦之队星光见面会",
+      "onboard_time": 1746254421,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 43004,
       "num": 149936,
       "word": "本地人私藏美食能有多靠谱",
@@ -8913,14 +9041,6 @@
       "onboard_time": 1746033079,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 39835,
-      "num": 275588,
-      "word": "KPL梦之队星光见面会",
-      "onboard_time": 1746254421,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 39612,
@@ -9049,6 +9169,14 @@
       "onboard_time": 1746042855,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34373,
+      "num": 89361,
+      "word": "6种常用维生素的特殊功效",
+      "onboard_time": 1746258740,
+      "rank": 38,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 34104,
