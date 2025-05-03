@@ -1,0 +1,410 @@
+{
+  "runTime": 1746304758140,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 127014,
+        "num": 127014,
+        "word": "meiko",
+        "onboard_time": 1746288021,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 102370,
+        "num": 102370,
+        "word": "马丽回应与沈腾cp被过分关注",
+        "onboard_time": 1746288501,
+        "rank": 1,
+        "category": "电影,艺人"
+      },
+      {
+        "raw_hot": 12407,
+        "num": 79862,
+        "word": "五一假期文旅市场有哪些新亮点",
+        "onboard_time": 1746282504,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108054,
+        "num": 79159,
+        "word": "女子决定离婚再和AI男友举办婚礼",
+        "onboard_time": 1746300915,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104816,
+        "num": 76585,
+        "word": "霍思燕一家与贾乃亮一家出游",
+        "onboard_time": 1746277583,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70740,
+        "num": 70740,
+        "word": "女生手机自动连上酒店WiFi被分手",
+        "onboard_time": 1746272901,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62682,
+        "num": 62682,
+        "word": "医院回应女生输头孢过敏离世",
+        "onboard_time": 1746289461,
+        "rank": 6,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 53517,
+        "num": 53517,
+        "word": "大叔25年卖600万个鸡蛋饼挣4套房",
+        "onboard_time": 1746295756,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49189,
+        "num": 49189,
+        "word": "特朗普把自己P成了教皇",
+        "onboard_time": 1746277342,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 47029,
+        "num": 47029,
+        "word": "iG",
+        "onboard_time": 1746288021,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 63566,
+        "num": 44558,
+        "word": "全红婵老家建120平别墅",
+        "onboard_time": 1746282743,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53150,
+        "num": 42842,
+        "word": "欧尼熊 可心",
+        "onboard_time": 1746269962,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 48952,
+        "num": 41410,
+        "word": "抖音回应胖东来投诉柴怼怼",
+        "onboard_time": 1746288801,
+        "rank": 12,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 36904,
+        "num": 36904,
+        "word": "哈里王子想与英国王室和解",
+        "onboard_time": 1746284841,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 36576,
+        "num": 36576,
+        "word": "西安雷雨夜空现条状不明物",
+        "onboard_time": 1746270501,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33364,
+        "num": 33364,
+        "word": "歌手2025",
+        "onboard_time": 1746275783,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30437,
+        "num": 30437,
+        "word": "这居然是华晨宇",
+        "onboard_time": 1746278904,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 30055,
+        "num": 30055,
+        "word": "三个月瘦了32斤的侧脸变化",
+        "onboard_time": 1746272480,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 28497,
+        "num": 29860,
+        "word": "成都太古里偶遇丁禹兮",
+        "onboard_time": 1746294976,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27543,
+        "num": 29719,
+        "word": "真正的刘耀文进行曲",
+        "onboard_time": 1746289520,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 64395,
+        "num": 29466,
+        "word": "大一女生输头孢过敏离世",
+        "onboard_time": 1746284604,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34259,
+        "num": 29182,
+        "word": "工藤新一第31个17岁",
+        "onboard_time": 1746291738,
+        "rank": 21,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 29063,
+        "num": 29063,
+        "word": "中国驻日本大使向日方提出严正交涉",
+        "onboard_time": 1746286282,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 27971,
+        "num": 27971,
+        "word": "美国学生8月返校可能买不到书包",
+        "onboard_time": 1746302894,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 27396,
+        "num": 27396,
+        "word": "不体面却赚钱的工作",
+        "onboard_time": 1746269781,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 11023,
+        "num": 26837,
+        "word": "连云港连岛回应大量飞虫是无害食蚜蝇",
+        "onboard_time": 1746304216,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26744,
+        "num": 26744,
+        "word": "武契奇因病中断访美",
+        "onboard_time": 1746287842,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 24933,
+        "num": 26575,
+        "word": "歌手2025全民举荐",
+        "onboard_time": 1746287901,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24481,
+        "num": 26528,
+        "word": "任嘉伦音乐节",
+        "onboard_time": 1746276983,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 21689,
+        "num": 26494,
+        "word": "淮水竹亭编剧 殿前欢",
+        "onboard_time": 1746281485,
+        "rank": 29,
+        "category": "综艺,剧集"
+      },
+      {
+        "raw_hot": 26491,
+        "num": 26491,
+        "word": "32岁儿子辞职照顾2岁的妈妈",
+        "onboard_time": 1746276501,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 25226,
+        "num": 25226,
+        "word": "异瞳男生回应不到一个月涨粉200万",
+        "onboard_time": 1746278305,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23755,
+        "num": 23755,
+        "word": "灵隐寺260万年租金的小卖部",
+        "onboard_time": 1746263601,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23369,
+        "num": 23369,
+        "word": "女生输头孢过敏离世父亲发声",
+        "onboard_time": 1746286821,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22833,
+        "num": 22833,
+        "word": "最后一批中国商品免关税货船本周入美",
+        "onboard_time": 1746286162,
+        "rank": 34,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 22277,
+        "num": 22277,
+        "word": "女子爱上ChatGPT要与丈夫离婚",
+        "onboard_time": 1746273202,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 20157,
+        "num": 20157,
+        "word": "张杰的毛坯人生精装朋友圈",
+        "onboard_time": 1746271821,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 20125,
+        "num": 20125,
+        "word": "越来越看不懂上海面包店了",
+        "onboard_time": 1746280164,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 19932,
+        "num": 19932,
+        "word": "莱比锡绝平拜仁",
+        "onboard_time": 1746295756,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19905,
+        "num": 19905,
+        "word": "欧尼熊出轨澄清",
+        "onboard_time": 1746279205,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 19765,
+        "num": 19765,
+        "word": "TES对战IG",
+        "onboard_time": 1746282205,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 18689,
+        "num": 19764,
+        "word": "时代少年团海口演唱会",
+        "onboard_time": 1746273202,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 16664,
+        "num": 19762,
+        "word": "网红柴怼怼被禁止发布作品",
+        "onboard_time": 1746285503,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16658,
+        "num": 19761,
+        "word": "周深连发三条安全第一",
+        "onboard_time": 1746284124,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 15722,
+        "num": 19760,
+        "word": "加州州长最新涉华表态",
+        "onboard_time": 1746284065,
+        "rank": 44,
+        "category": "民生新闻,国内时政"
+      },
+      {
+        "raw_hot": 15355,
+        "num": 19758,
+        "word": "陈芋汐世界杯夺冠",
+        "onboard_time": 1746269781,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15269,
+        "num": 19756,
+        "word": "张云龙回复沈月",
+        "onboard_time": 1746289940,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14929,
+        "num": 19756,
+        "word": "83岁哪吒闹海原画师祝福中国动画",
+        "onboard_time": 1746299716,
+        "rank": 47,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 14928,
+        "num": 19753,
+        "word": "莱比锡3比3拜仁",
+        "onboard_time": 1746289461,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 10818,
+        "num": 19752,
+        "word": "为中国式现代化建设贡献青春力量",
+        "onboard_time": 1746297255,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的青春寄语#"
+    }
+  }
+}
