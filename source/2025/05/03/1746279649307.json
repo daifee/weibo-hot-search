@@ -1,0 +1,410 @@
+{
+  "runTime": 1746279649307,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1454870,
+        "num": 1454870,
+        "word": "女生手机自动连上酒店WiFi被分手",
+        "onboard_time": 1746272901,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1097674,
+        "num": 1097674,
+        "word": "32岁儿子辞职照顾2岁的妈妈",
+        "onboard_time": 1746276501,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 62220,
+        "num": 821504,
+        "word": "五一假期多地打造文旅消费新场景",
+        "onboard_time": 1746261440,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2220013,
+        "num": 808099,
+        "word": "霍思燕一家与贾乃亮一家出游",
+        "onboard_time": 1746277583,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 698640,
+        "num": 698640,
+        "word": "特朗普把自己P成了教皇",
+        "onboard_time": 1746277342,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 599350,
+        "num": 599350,
+        "word": "三个月瘦了32斤的侧脸变化",
+        "onboard_time": 1746272480,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 480503,
+        "num": 480503,
+        "word": "时代少年团演唱会节目单",
+        "onboard_time": 1746274645,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 463840,
+        "num": 463840,
+        "word": "女子爱上ChatGPT要与丈夫离婚",
+        "onboard_time": 1746273202,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 435624,
+        "num": 435624,
+        "word": "歌手2025",
+        "onboard_time": 1746275783,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294708,
+        "num": 431511,
+        "word": "导演郭少雄逝世",
+        "onboard_time": 1746276681,
+        "rank": 9,
+        "category": "艺人,电影"
+      },
+      {
+        "raw_hot": 905955,
+        "num": 431421,
+        "word": "欧尼熊 可心",
+        "onboard_time": 1746269962,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 465099,
+        "num": 430522,
+        "word": "灵隐寺260万年租金的小卖部",
+        "onboard_time": 1746263601,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 429457,
+        "num": 429457,
+        "word": "时代少年团海口演唱会",
+        "onboard_time": 1746273202,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 418084,
+        "num": 418084,
+        "word": "文轩",
+        "onboard_time": 1746273442,
+        "rank": 13,
+        "category": "演出,作品衍生"
+      },
+      {
+        "raw_hot": 63528,
+        "num": 400418,
+        "word": "苹果公司因美关税政策受损",
+        "onboard_time": 1746278184,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 396960,
+        "num": 396960,
+        "word": "陈芋汐世界杯夺冠",
+        "onboard_time": 1746269781,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 325472,
+        "num": 325472,
+        "word": "马嘉祺solo",
+        "onboard_time": 1746277764,
+        "rank": 16,
+        "category": "演出,音乐"
+      },
+      {
+        "raw_hot": 308665,
+        "num": 308665,
+        "word": "五三惨案",
+        "onboard_time": 1746242841,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 289572,
+        "num": 289572,
+        "word": "街头劝架的丁禹兮",
+        "onboard_time": 1746267621,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73122,
+        "num": 288826,
+        "word": "多位泰山陪爬员称五一接单少于平时",
+        "onboard_time": 1746278605,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185074,
+        "num": 288633,
+        "word": "欧尼熊出轨澄清",
+        "onboard_time": 1746279205,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 348366,
+        "num": 288630,
+        "word": "不体面却赚钱的工作",
+        "onboard_time": 1746269781,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 288624,
+        "num": 288624,
+        "word": "异瞳男生回应不到一个月涨粉200万",
+        "onboard_time": 1746278305,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 288128,
+        "num": 288128,
+        "word": "掉进火锅猫咪已送医取名51",
+        "onboard_time": 1746266841,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 281641,
+        "num": 281641,
+        "word": "沈月 戴上面具顺眼很多",
+        "onboard_time": 1746277221,
+        "rank": 24,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 268156,
+        "num": 268156,
+        "word": "全红婵跳水10米台亚军",
+        "onboard_time": 1746277162,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 243159,
+        "num": 243159,
+        "word": "张杰的毛坯人生精装朋友圈",
+        "onboard_time": 1746271821,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 225304,
+        "num": 225304,
+        "word": "石凯聊天记录",
+        "onboard_time": 1746241760,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218305,
+        "num": 218305,
+        "word": "任嘉伦音乐节",
+        "onboard_time": 1746276983,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 214032,
+        "num": 214032,
+        "word": "这居然是华晨宇",
+        "onboard_time": 1746278904,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 213568,
+        "num": 213568,
+        "word": "翔霖",
+        "onboard_time": 1746270082,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 200557,
+        "num": 200557,
+        "word": "安洗莹vs瓦尔达尼",
+        "onboard_time": 1746278844,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193694,
+        "num": 193694,
+        "word": "严浩翔海口演唱会大屏",
+        "onboard_time": 1746278904,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 192011,
+        "num": 192011,
+        "word": "马嘉祺the greatest show",
+        "onboard_time": 1746279324,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 189475,
+        "num": 189475,
+        "word": "此沙的长寿面被吐槽像马吃的",
+        "onboard_time": 1746278724,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163059,
+        "num": 163059,
+        "word": "东方淮竹抢了刘诗诗的号",
+        "onboard_time": 1746275362,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154286,
+        "num": 154286,
+        "word": "西安雷雨夜空现条状不明物",
+        "onboard_time": 1746270501,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154189,
+        "num": 154189,
+        "word": "女儿94分被爸爸泼冷水1招反击",
+        "onboard_time": 1746265581,
+        "rank": 37,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 149947,
+        "num": 149947,
+        "word": "爱久见人心",
+        "onboard_time": 1746277583,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147905,
+        "num": 147905,
+        "word": "严浩翔舞台反差感",
+        "onboard_time": 1746279023,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147868,
+        "num": 147868,
+        "word": "三亚通报网友买水果九斤变六斤",
+        "onboard_time": 1746270622,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146201,
+        "num": 146201,
+        "word": "泽连斯基拒绝普京72小时停火提议",
+        "onboard_time": 1746270381,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 134643,
+        "num": 134643,
+        "word": "刘耀文无袖战损造型",
+        "onboard_time": 1746275121,
+        "rank": 42,
+        "category": "演出,艺人"
+      },
+      {
+        "raw_hot": 130427,
+        "num": 130427,
+        "word": "王鹤棣有人只是站在那里就自成风景",
+        "onboard_time": 1746279443,
+        "rank": 43,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 127008,
+        "num": 127008,
+        "word": "张真源弹跳下腰",
+        "onboard_time": 1746279563,
+        "rank": 44,
+        "category": "综艺,演出"
+      },
+      {
+        "raw_hot": 126373,
+        "num": 126373,
+        "word": "刘耀文无袖solo舞台",
+        "onboard_time": 1746277162,
+        "rank": 45,
+        "category": "演出,音乐"
+      },
+      {
+        "raw_hot": 125204,
+        "num": 125204,
+        "word": "宋亚轩喂失恋循环solo舞台",
+        "onboard_time": 1746276923,
+        "rank": 46,
+        "category": "音乐,演出"
+      },
+      {
+        "raw_hot": 125169,
+        "num": 125169,
+        "word": "贺峻霖残影唱跳舞台",
+        "onboard_time": 1746275663,
+        "rank": 47,
+        "category": "演出,综艺"
+      },
+      {
+        "raw_hot": 120457,
+        "num": 120457,
+        "word": "龙门石窟游船因大风失控无法靠岸",
+        "onboard_time": 1746278663,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120137,
+        "num": 120137,
+        "word": "王源音乐节造型",
+        "onboard_time": 1746277883,
+        "rank": 49,
+        "category": "演出,综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#深入贯彻中央八项规定精神#"
+    }
+  }
+}

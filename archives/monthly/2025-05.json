@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746278978054,
+  "endTime": 1746279649307,
   "band_list": [
     {
       "raw_hot": 3885539,
@@ -32,6 +32,14 @@
       "word": "gidle改名idle",
       "onboard_time": 1746111142,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2220013,
+      "num": 850262,
+      "word": "霍思燕一家与贾乃亮一家出游",
+      "onboard_time": 1746277583,
+      "rank": 3,
       "category": "艺人"
     },
     {
@@ -81,14 +89,6 @@
       "onboard_time": 1746084561,
       "rank": 17,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1812738,
-      "num": 850262,
-      "word": "霍思燕一家与贾乃亮一家出游",
-      "onboard_time": 1746277583,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1786906,
@@ -316,7 +316,7 @@
     },
     {
       "raw_hot": 1248061,
-      "num": 410316,
+      "num": 431421,
       "word": "欧尼熊 可心",
       "onboard_time": 1746269962,
       "rank": 13,
@@ -387,20 +387,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1097674,
+      "num": 1097674,
+      "word": "32岁儿子辞职照顾2岁的妈妈",
+      "onboard_time": 1746276501,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1096603,
       "num": 1096603,
       "word": "比尔盖茨被爆患阿斯伯格综合征",
       "onboard_time": 1746183929,
       "rank": 17,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1088399,
-      "num": 1088399,
-      "word": "32岁儿子辞职照顾2岁的妈妈",
-      "onboard_time": 1746276501,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 1085293,
@@ -915,6 +915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 698640,
+      "num": 698640,
+      "word": "特朗普把自己P成了教皇",
+      "onboard_time": 1746277342,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 683337,
       "num": 683337,
       "word": "Bin blg回来了",
@@ -1324,7 +1332,7 @@
     },
     {
       "raw_hot": 516443,
-      "num": 408089,
+      "num": 418084,
       "word": "文轩",
       "onboard_time": 1746273442,
       "rank": 23,
@@ -1691,6 +1699,14 @@
       "category": "演出,音乐"
     },
     {
+      "raw_hot": 435624,
+      "num": 435624,
+      "word": "歌手2025",
+      "onboard_time": 1746275783,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 432924,
       "num": 432924,
       "word": "西安暴雨",
@@ -2027,28 +2043,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 362268,
-      "num": 362268,
-      "word": "歌手2025",
-      "onboard_time": 1746275783,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 360765,
       "num": 360765,
       "word": "以色列向多国求援灭山火",
       "onboard_time": 1746054859,
       "rank": 28,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 359481,
-      "num": 412532,
-      "word": "特朗普把自己P成了教皇",
-      "onboard_time": 1746277342,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 358242,
@@ -2515,6 +2515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 294708,
+      "num": 431511,
+      "word": "导演郭少雄逝世",
+      "onboard_time": 1746276681,
+      "rank": 28,
+      "category": "艺人,电影"
+    },
+    {
       "raw_hot": 294617,
       "num": 294617,
       "word": "预算10万的形象工程花200余万",
@@ -2571,6 +2579,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 288624,
+      "num": 288624,
+      "word": "异瞳男生回应不到一个月涨粉200万",
+      "onboard_time": 1746278305,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 286664,
       "num": 417437,
       "word": "黄子弘凡以为撕拉片是吃的",
@@ -2609,6 +2625,14 @@
       "onboard_time": 1746193591,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 281641,
+      "num": 281641,
+      "word": "沈月 戴上面具顺眼很多",
+      "onboard_time": 1746277221,
+      "rank": 27,
+      "category": "剧集,艺人"
     },
     {
       "raw_hot": 280138,
@@ -2659,14 +2683,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 271504,
-      "num": 271504,
-      "word": "导演郭少雄逝世",
-      "onboard_time": 1746276681,
-      "rank": 28,
-      "category": "艺人,电影"
-    },
-    {
       "raw_hot": 270195,
       "num": 270195,
       "word": "海外网红疯狂整容导致塑料脸",
@@ -2697,6 +2713,14 @@
       "onboard_time": 1746198742,
       "rank": 20,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 268156,
+      "num": 268156,
+      "word": "全红婵跳水10米台亚军",
+      "onboard_time": 1746277162,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 267966,
@@ -3043,14 +3067,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 230165,
-      "num": 230165,
-      "word": "沈月 戴上面具顺眼很多",
-      "onboard_time": 1746277221,
-      "rank": 27,
-      "category": "剧集,艺人"
-    },
-    {
       "raw_hot": 229727,
       "num": 229727,
       "word": "南京夫子庙回应有人强制卖花",
@@ -3131,14 +3147,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 223821,
-      "num": 223821,
-      "word": "异瞳男生回应不到一个月涨粉200万",
-      "onboard_time": 1746278305,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 223111,
       "num": 223111,
       "word": "什么是医政调查",
@@ -3187,14 +3195,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 219394,
-      "num": 219394,
-      "word": "全红婵跳水10米台亚军",
-      "onboard_time": 1746277162,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 218913,
       "num": 218913,
       "word": "好声音选手毕夏自曝遭遇车祸",
@@ -3232,6 +3232,14 @@
       "word": "苏新皓solo",
       "onboard_time": 1746084801,
       "rank": 34,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 214032,
+      "num": 214032,
+      "word": "这居然是华晨宇",
+      "onboard_time": 1746278904,
+      "rank": 49,
       "category": "演出"
     },
     {
@@ -3875,6 +3883,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 193694,
+      "num": 193694,
+      "word": "严浩翔海口演唱会大屏",
+      "onboard_time": 1746278904,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 193675,
       "num": 193675,
       "word": "LoverBoy88一响白月光登场",
@@ -3961,6 +3977,14 @@
       "onboard_time": 1746173901,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192011,
+      "num": 192011,
+      "word": "马嘉祺the greatest show",
+      "onboard_time": 1746279324,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 191598,
@@ -4105,6 +4129,14 @@
       "onboard_time": 1746109763,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 189475,
+      "num": 189475,
+      "word": "此沙的长寿面被吐槽像马吃的",
+      "onboard_time": 1746278724,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 189423,
@@ -4385,6 +4417,14 @@
       "onboard_time": 1746235941,
       "rank": 22,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 185074,
+      "num": 288633,
+      "word": "欧尼熊出轨澄清",
+      "onboard_time": 1746279205,
+      "rank": 20,
+      "category": "网红"
     },
     {
       "raw_hot": 184447,
@@ -5435,6 +5475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154286,
+      "num": 154286,
+      "word": "西安雷雨夜空现条状不明物",
+      "onboard_time": 1746270501,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154167,
       "num": 242574,
       "word": "王昶说洛杉矶奥运会瞄准冠军",
@@ -5635,14 +5683,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 149280,
-      "num": 149280,
-      "word": "西安雷雨夜空现条状不明物",
-      "onboard_time": 1746270501,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 149014,
       "num": 149014,
       "word": "檀健次跳蒙娜丽莎直拍",
@@ -5673,14 +5713,6 @@
       "onboard_time": 1746103461,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 148493,
-      "num": 148493,
-      "word": "此沙的长寿面被吐槽像马吃的",
-      "onboard_time": 1746278724,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 148320,
@@ -5721,6 +5753,14 @@
       "onboard_time": 1746171321,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 147905,
+      "num": 147905,
+      "word": "严浩翔舞台反差感",
+      "onboard_time": 1746279023,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 147779,
@@ -6731,6 +6771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130427,
+      "num": 130427,
+      "word": "王鹤棣有人只是站在那里就自成风景",
+      "onboard_time": 1746279443,
+      "rank": 43,
+      "category": "艺人,剧集"
+    },
+    {
       "raw_hot": 130339,
       "num": 130339,
       "word": "华晨宇红发冷脸帅成这样",
@@ -6945,6 +6993,14 @@
       "onboard_time": 1746079820,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127008,
+      "num": 127008,
+      "word": "张真源弹跳下腰",
+      "onboard_time": 1746279563,
+      "rank": 44,
+      "category": "综艺,演出"
     },
     {
       "raw_hot": 126924,
@@ -7275,14 +7331,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 121683,
-      "num": 121683,
-      "word": "严浩翔海口演唱会大屏",
-      "onboard_time": 1746278904,
-      "rank": 48,
-      "category": "演出"
-    },
-    {
       "raw_hot": 121516,
       "num": 121516,
       "word": "恋与深空",
@@ -7337,6 +7385,14 @@
       "onboard_time": 1746192691,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120457,
+      "num": 120457,
+      "word": "龙门石窟游船因大风失控无法靠岸",
+      "onboard_time": 1746278663,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120394,
@@ -7633,14 +7689,6 @@
       "onboard_time": 1746054859,
       "rank": 27,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 115425,
-      "num": 115425,
-      "word": "这居然是华晨宇",
-      "onboard_time": 1746278904,
-      "rank": 49,
-      "category": "演出"
     },
     {
       "raw_hot": 115055,
@@ -9267,6 +9315,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 73122,
+      "num": 288826,
+      "word": "多位泰山陪爬员称五一接单少于平时",
+      "onboard_time": 1746278605,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72959,
       "num": 72959,
       "word": "漓江竹筏大军过境史诗感拉满",
@@ -9505,6 +9561,14 @@
       "onboard_time": 1746094401,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 63528,
+      "num": 400418,
+      "word": "苹果公司因美关税政策受损",
+      "onboard_time": 1746278184,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 63387,
@@ -10043,28 +10107,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 44582,
-      "num": 381668,
-      "word": "苹果公司因美关税政策受损",
-      "onboard_time": 1746278184,
-      "rank": 14,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 44384,
       "num": 243579,
       "word": "王嘉尔MM2首个舞台唱的哪首歌",
       "onboard_time": 1746264080,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 44263,
-      "num": 258538,
-      "word": "多位泰山陪爬员称五一接单少于平时",
-      "onboard_time": 1746278605,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 44215,
