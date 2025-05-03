@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746246524982,
+  "endTime": 1746247455620,
   "band_list": [
     {
       "raw_hot": 3885539,
@@ -11,8 +11,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 3322504,
-      "num": 3322504,
+      "raw_hot": 3458319,
+      "num": 3458319,
       "word": "五三惨案",
       "onboard_time": 1746242841,
       "rank": 0,
@@ -739,6 +739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 664855,
+      "num": 664855,
+      "word": "泰山陪爬小伙2天挣了近2000元",
+      "onboard_time": 1746242599,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 663173,
       "num": 663173,
       "word": "日本大爷掉坑处修复还需5到7年",
@@ -979,11 +987,27 @@
       "category": "网红"
     },
     {
+      "raw_hot": 561849,
+      "num": 561849,
+      "word": "五一的桂林快忙成马六甲了",
+      "onboard_time": 1746243321,
+      "rank": 30,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 559258,
       "num": 480572,
       "word": "汪峰曾发文承诺帮毕夏抚养孩子",
       "onboard_time": 1746064520,
       "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 556673,
+      "num": 556673,
+      "word": "孙俪晒照为小花妹妹庆生",
+      "onboard_time": 1746244100,
+      "rank": 35,
       "category": "艺人"
     },
     {
@@ -1001,14 +1025,6 @@
       "onboard_time": 1746075502,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 549044,
-      "num": 549044,
-      "word": "泰山陪爬小伙2天挣了近2000元",
-      "onboard_time": 1746242599,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 548617,
@@ -1081,22 +1097,6 @@
       "onboard_time": 1746157950,
       "rank": 18,
       "category": "辟谣/通报,演出"
-    },
-    {
-      "raw_hot": 519428,
-      "num": 519428,
-      "word": "孙俪晒照为小花妹妹庆生",
-      "onboard_time": 1746244100,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 514651,
-      "num": 514651,
-      "word": "五一的桂林快忙成马六甲了",
-      "onboard_time": 1746243321,
-      "rank": 30,
-      "category": "旅游"
     },
     {
       "raw_hot": 512125,
@@ -1227,6 +1227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 468083,
+      "num": 330427,
+      "word": "太湖湾音乐节 激光笔",
+      "onboard_time": 1746244941,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 466425,
       "num": 466425,
       "word": "泰国的中文菜单受众群体到底是谁",
@@ -1283,20 +1291,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 457847,
-      "num": 330427,
-      "word": "太湖湾音乐节 激光笔",
-      "onboard_time": 1746244941,
-      "rank": 23,
-      "category": "演出"
-    },
-    {
       "raw_hot": 457055,
       "num": 409072,
       "word": "邓超妻子的幸福丈夫的荣耀",
       "onboard_time": 1746193291,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 451056,
+      "num": 451056,
+      "word": "欠200万老赖冒用身份坐高铁被拘5日",
+      "onboard_time": 1746245301,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 449716,
@@ -1561,6 +1569,14 @@
       "onboard_time": 1746183990,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 386584,
+      "num": 386584,
+      "word": "5名中国公民在美国交通事故中遇难",
+      "onboard_time": 1746246142,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 383176,
@@ -1851,6 +1867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 316773,
+      "num": 332505,
+      "word": "美多地爆发大规模抗议活动",
+      "onboard_time": 1746241699,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 316551,
       "num": 298146,
       "word": "陈奕迅20岁女儿身高",
@@ -1873,14 +1897,6 @@
       "onboard_time": 1746020363,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 313104,
-      "num": 332505,
-      "word": "美多地爆发大规模抗议活动",
-      "onboard_time": 1746241699,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 310526,
@@ -2497,6 +2513,14 @@
       "onboard_time": 1746067640,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 226375,
+      "num": 226375,
+      "word": "你一句甲天下 我就堵在了真桂林",
+      "onboard_time": 1746245902,
+      "rank": 34,
+      "category": "旅游"
     },
     {
       "raw_hot": 225594,
@@ -3299,6 +3323,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 189079,
+      "num": 243148,
+      "word": "王一博献唱五四晚会主题曲",
+      "onboard_time": 1746246981,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188618,
       "num": 138747,
       "word": "苏杯石宇奇2比0奈良冈功大",
@@ -3353,14 +3385,6 @@
       "onboard_time": 1746159270,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 187872,
-      "num": 187872,
-      "word": "你一句甲天下 我就堵在了真桂林",
-      "onboard_time": 1746245902,
-      "rank": 34,
-      "category": "旅游"
     },
     {
       "raw_hot": 187627,
@@ -3449,14 +3473,6 @@
       "onboard_time": 1746238460,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 186002,
-      "num": 331499,
-      "word": "欠200万老赖冒用身份坐高铁被拘5日",
-      "onboard_time": 1746245301,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 185585,
@@ -3779,6 +3795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170437,
+      "num": 235612,
+      "word": "檀健次hi6跳跺脚舞",
+      "onboard_time": 1746246921,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170102,
       "num": 170102,
       "word": "周翊然 楚后",
@@ -3833,14 +3857,6 @@
       "onboard_time": 1746147029,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 167173,
-      "num": 331587,
-      "word": "5名中国公民在美国交通事故中遇难",
-      "onboard_time": 1746246142,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 167034,
@@ -3971,6 +3987,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 164741,
+      "num": 234688,
+      "word": "祝绪丹冷脸唱rap好帅",
+      "onboard_time": 1746246981,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164025,
       "num": 164025,
       "word": "许嵩 今年巡演最北城市是天津",
@@ -4017,6 +4041,14 @@
       "onboard_time": 1746154529,
       "rank": 28,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 162669,
+      "num": 162669,
+      "word": "勇士火箭抢七",
+      "onboard_time": 1746246981,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 162576,
@@ -5027,6 +5059,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 137408,
+      "num": 249669,
+      "word": "韩安冉否认前夫抑郁和她有关",
+      "onboard_time": 1746246561,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137295,
       "num": 142629,
       "word": "AG郑州见",
@@ -5161,6 +5201,14 @@
       "onboard_time": 1746076401,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 133787,
+      "num": 133787,
+      "word": "石破茂称绝不接受对汽车加征关税",
+      "onboard_time": 1746245301,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 133464,
@@ -5547,6 +5595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126924,
+      "num": 126924,
+      "word": "刘诗诗张云龙面具转场",
+      "onboard_time": 1746244881,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126920,
       "num": 126920,
       "word": "饶毅说在协和事件中不是英雄",
@@ -5715,14 +5771,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 124018,
-      "num": 124018,
-      "word": "石破茂称绝不接受对汽车加征关税",
-      "onboard_time": 1746245301,
-      "rank": 49,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 123644,
       "num": 127142,
       "word": "NIP官宣Solokill加入",
@@ -5827,14 +5875,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 120744,
-      "num": 124454,
-      "word": "刘诗诗张云龙面具转场",
-      "onboard_time": 1746244881,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 120585,
       "num": 120585,
       "word": "迪丽热巴张凌赫空耳大师",
@@ -5937,6 +5977,14 @@
       "onboard_time": 1746161790,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118293,
+      "num": 335871,
+      "word": "晒晒你的五一旅行照",
+      "onboard_time": 1746244941,
+      "rank": 12,
+      "category": "民生新闻,旅游"
     },
     {
       "raw_hot": 118030,
@@ -7019,6 +7067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 88182,
+      "num": 140324,
+      "word": "董宇辉讲英语完型填空",
+      "onboard_time": 1746245301,
+      "rank": 37,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 88176,
       "num": 88176,
       "word": "用真鱼皮做的包",
@@ -7043,12 +7099,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 86546,
-      "num": 332095,
-      "word": "晒晒你的五一旅行照",
-      "onboard_time": 1746244941,
-      "rank": 12,
-      "category": "民生新闻,旅游"
+      "raw_hot": 87149,
+      "num": 387009,
+      "word": "外国游客五一组团来中国买买买",
+      "onboard_time": 1746244761,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86852,
+      "num": 332565,
+      "word": "国羽冲击苏杯决赛",
+      "onboard_time": 1746245902,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 86347,
@@ -7169,6 +7233,14 @@
       "onboard_time": 1746175461,
       "rank": 47,
       "category": "时尚,休闲"
+    },
+    {
+      "raw_hot": 82432,
+      "num": 228275,
+      "word": "咒术回战在漫展里照进现实",
+      "onboard_time": 1746246561,
+      "rank": 29,
+      "category": "动漫"
     },
     {
       "raw_hot": 82375,
@@ -7515,14 +7587,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 67751,
-      "num": 332823,
-      "word": "外国游客五一组团来中国买买买",
-      "onboard_time": 1746244761,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 67271,
       "num": 224439,
       "word": "米饭和面条哪个更容易长胖",
@@ -7649,14 +7713,6 @@
       "onboard_time": 1746227418,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 60759,
-      "num": 332565,
-      "word": "国羽冲击苏杯决赛",
-      "onboard_time": 1746245902,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 60617,
@@ -8003,6 +8059,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 46598,
+      "num": 231273,
+      "word": "伪休息习惯如何悄悄损耗人体气血",
+      "onboard_time": 1746247280,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 46371,
       "num": 493650,
       "word": "专家谈五一假期政府食堂对外开放",
@@ -8073,6 +8137,14 @@
       "onboard_time": 1746056179,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 43579,
+      "num": 529225,
+      "word": "来天津感受河海津韵",
+      "onboard_time": 1746243680,
+      "rank": 2,
+      "category": "正能量"
     },
     {
       "raw_hot": 43384,
@@ -8211,6 +8283,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 39174,
+      "num": 245129,
+      "word": "五一人不多也就亿点点",
+      "onboard_time": 1746247161,
+      "rank": 22,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 39139,
       "num": 247301,
       "word": "河北博物院回应两处古地名注释错误",
@@ -8337,14 +8417,6 @@
       "onboard_time": 1746181888,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 33600,
-      "num": 529225,
-      "word": "来天津感受河海津韵",
-      "onboard_time": 1746243680,
-      "rank": 2,
-      "category": "正能量"
     },
     {
       "raw_hot": 33253,
@@ -8505,6 +8577,14 @@
       "onboard_time": 1746209894,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 26689,
+      "num": 580281,
+      "word": "致敬每一位大国工程建设者",
+      "onboard_time": 1746244341,
+      "rank": 2,
+      "category": "正能量"
     },
     {
       "raw_hot": 26512,
@@ -9145,6 +9225,14 @@
       "onboard_time": 1746066080,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 6932,
+      "num": 140294,
+      "word": "勇士的变阵是否影响了比赛走势",
+      "onboard_time": 1746247340,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 6923,

@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1746246524982,
+  "endTime": 1746247455620,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1827,6 +1827,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 3458319,
+      "num": 3458319,
+      "word": "五三惨案",
+      "onboard_time": 1746242841,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 3449640,
       "num": 882590,
       "word": "陈奕迅泰国演唱会取消",
@@ -1993,14 +2001,6 @@
       "onboard_time": 1736033777,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3322504,
-      "num": 3322504,
-      "word": "五三惨案",
-      "onboard_time": 1746242841,
-      "rank": 0,
-      "category": "国内时政"
     },
     {
       "raw_hot": 3321685,

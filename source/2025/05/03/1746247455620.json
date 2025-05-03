@@ -1,0 +1,410 @@
+{
+  "runTime": 1746247455620,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3458319,
+        "num": 3458319,
+        "word": "五三惨案",
+        "onboard_time": 1746242841,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 664855,
+        "num": 664855,
+        "word": "泰山陪爬小伙2天挣了近2000元",
+        "onboard_time": 1746242599,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26689,
+        "num": 580281,
+        "word": "致敬每一位大国工程建设者",
+        "onboard_time": 1746244341,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 561849,
+        "num": 561849,
+        "word": "五一的桂林快忙成马六甲了",
+        "onboard_time": 1746243321,
+        "rank": 3,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 556673,
+        "num": 556673,
+        "word": "孙俪晒照为小花妹妹庆生",
+        "onboard_time": 1746244100,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 451056,
+        "num": 451056,
+        "word": "欠200万老赖冒用身份坐高铁被拘5日",
+        "onboard_time": 1746245301,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 308372,
+        "num": 397551,
+        "word": "倪虹洁身材好辣",
+        "onboard_time": 1746241760,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87149,
+        "num": 387009,
+        "word": "外国游客五一组团来中国买买买",
+        "onboard_time": 1746244761,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 386584,
+        "num": 386584,
+        "word": "5名中国公民在美国交通事故中遇难",
+        "onboard_time": 1746246142,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118293,
+        "num": 335871,
+        "word": "晒晒你的五一旅行照",
+        "onboard_time": 1746244941,
+        "rank": 9,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 2110447,
+        "num": 332661,
+        "word": "石凯聊天记录",
+        "onboard_time": 1746241760,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 468083,
+        "num": 327883,
+        "word": "太湖湾音乐节 激光笔",
+        "onboard_time": 1746244941,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 316773,
+        "num": 316773,
+        "word": "美多地爆发大规模抗议活动",
+        "onboard_time": 1746241699,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 282295,
+        "num": 282295,
+        "word": "三亚多名游客与向导失散困海中1小时",
+        "onboard_time": 1746240740,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43579,
+        "num": 260202,
+        "word": "来天津感受河海津韵",
+        "onboard_time": 1746243680,
+        "rank": 14,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 257195,
+        "num": 257195,
+        "word": "火箭3比3勇士",
+        "onboard_time": 1746245239,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250820,
+        "num": 250820,
+        "word": "吴宣仪陈德容穿婚纱唱爱存在",
+        "onboard_time": 1746236720,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219794,
+        "num": 250757,
+        "word": "孟子义金宣虎wink",
+        "onboard_time": 1746243621,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 207191,
+        "num": 250032,
+        "word": "严浩翔贺峻霖 双人舞台",
+        "onboard_time": 1746245180,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 137408,
+        "num": 249669,
+        "word": "韩安冉否认前夫抑郁和她有关",
+        "onboard_time": 1746246561,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252222,
+        "num": 249606,
+        "word": "陈丽君争议片段已删除",
+        "onboard_time": 1746200182,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 249240,
+        "num": 249240,
+        "word": "64岁男子地下室囚禁虐待两姐妹7年",
+        "onboard_time": 1746233120,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39174,
+        "num": 245129,
+        "word": "五一人不多也就亿点点",
+        "onboard_time": 1746247161,
+        "rank": 22,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 243395,
+        "num": 243395,
+        "word": "女子整理发霉衣柜后高烧40度",
+        "onboard_time": 1746243079,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189079,
+        "num": 243148,
+        "word": "王一博献唱五四晚会主题曲",
+        "onboard_time": 1746246981,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181866,
+        "num": 240224,
+        "word": "前TVB女星在东莞打工求生",
+        "onboard_time": 1746235941,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170437,
+        "num": 235612,
+        "word": "檀健次hi6跳跺脚舞",
+        "onboard_time": 1746246921,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164741,
+        "num": 234688,
+        "word": "祝绪丹冷脸唱rap好帅",
+        "onboard_time": 1746246981,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46598,
+        "num": 231273,
+        "word": "伪休息习惯如何悄悄损耗人体气血",
+        "onboard_time": 1746247280,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 82432,
+        "num": 228275,
+        "word": "咒术回战在漫展里照进现实",
+        "onboard_time": 1746246561,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 226375,
+        "num": 226375,
+        "word": "你一句甲天下 我就堵在了真桂林",
+        "onboard_time": 1746245902,
+        "rank": 30,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 195448,
+        "num": 195448,
+        "word": "校方回应学生组团狂退60多件裙子",
+        "onboard_time": 1746201321,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118523,
+        "num": 191465,
+        "word": "敖瑞鹏跳舞新装的四肢",
+        "onboard_time": 1746242660,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190314,
+        "num": 190314,
+        "word": "南京大屠杀幸存者刘贵祥去世",
+        "onboard_time": 1746240501,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 176202,
+        "num": 176202,
+        "word": "一直对月薪4000没概念直到换成天",
+        "onboard_time": 1746198152,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 162669,
+        "num": 162669,
+        "word": "勇士火箭抢七",
+        "onboard_time": 1746246981,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140391,
+        "num": 140391,
+        "word": "陈丽君 贾宝玉",
+        "onboard_time": 1746238220,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 88182,
+        "num": 140324,
+        "word": "董宇辉讲英语完型填空",
+        "onboard_time": 1746245301,
+        "rank": 37,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 6932,
+        "num": 140294,
+        "word": "勇士的变阵是否影响了比赛走势",
+        "onboard_time": 1746247340,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140264,
+        "num": 140264,
+        "word": "高中生继承5亿遗产结婚当天坠亡",
+        "onboard_time": 1746190950,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60419,
+        "num": 139955,
+        "word": "AG闯进漫展新赛道",
+        "onboard_time": 1746245960,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 139803,
+        "num": 139803,
+        "word": "原来躺久了也会消耗气血",
+        "onboard_time": 1746203600,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 133787,
+        "num": 133787,
+        "word": "石破茂称绝不接受对汽车加征关税",
+        "onboard_time": 1746245301,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 126924,
+        "num": 126924,
+        "word": "刘诗诗张云龙面具转场",
+        "onboard_time": 1746244881,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118995,
+        "num": 118995,
+        "word": "冯彦哲复刻日本队庆祝动作回击",
+        "onboard_time": 1746245902,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86852,
+        "num": 115122,
+        "word": "国羽冲击苏杯决赛",
+        "onboard_time": 1746245902,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115109,
+        "num": 115109,
+        "word": "杨紫雪山开机图",
+        "onboard_time": 1746241819,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114960,
+        "num": 114960,
+        "word": "江一燕房琪淘汰",
+        "onboard_time": 1746232759,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113418,
+        "num": 113418,
+        "word": "库里一个人的一波流",
+        "onboard_time": 1746243500,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112727,
+        "num": 112727,
+        "word": "景区买东西前千万要砍价",
+        "onboard_time": 1746244040,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光的你#"
+    }
+  }
+}
