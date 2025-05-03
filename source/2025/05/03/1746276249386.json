@@ -1,0 +1,410 @@
+{
+  "runTime": 1746276249386,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1775115,
+        "num": 1775115,
+        "word": "女生手机自动连上酒店WiFi被分手",
+        "onboard_time": 1746272901,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 892259,
+        "num": 892259,
+        "word": "时代少年团海口演唱会",
+        "onboard_time": 1746273202,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 67344,
+        "num": 847379,
+        "word": "五一假期多地打造文旅消费新场景",
+        "onboard_time": 1746261440,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 813264,
+        "num": 813264,
+        "word": "三个月瘦了32斤的侧脸变化",
+        "onboard_time": 1746272480,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 725651,
+        "num": 725651,
+        "word": "陈芋汐世界杯夺冠",
+        "onboard_time": 1746269781,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 539175,
+        "num": 539175,
+        "word": "时代少年团演唱会节目单",
+        "onboard_time": 1746274645,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 501255,
+        "num": 501255,
+        "word": "街头劝架的丁禹兮",
+        "onboard_time": 1746267621,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 440342,
+        "num": 440342,
+        "word": "五三惨案",
+        "onboard_time": 1746242841,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 379497,
+        "num": 379497,
+        "word": "泽连斯基拒绝普京72小时停火提议",
+        "onboard_time": 1746270381,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 99396,
+        "num": 377660,
+        "word": "三亚缺斤少两商贩被罚5万元",
+        "onboard_time": 1746275601,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1152434,
+        "num": 377632,
+        "word": "欧尼熊 可心",
+        "onboard_time": 1746269962,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 763293,
+        "num": 377607,
+        "word": "灵隐寺260万年租金的小卖部",
+        "onboard_time": 1746263601,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 377548,
+        "num": 377548,
+        "word": "张杰的毛坯人生精装朋友圈",
+        "onboard_time": 1746271821,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 367361,
+        "num": 367361,
+        "word": "刘耀文无袖战损造型",
+        "onboard_time": 1746275121,
+        "rank": 13,
+        "category": "演出,艺人"
+      },
+      {
+        "raw_hot": 21223,
+        "num": 330044,
+        "word": "WAW现场惊现高颜值coser",
+        "onboard_time": 1746273682,
+        "rank": 14,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 329876,
+        "num": 329876,
+        "word": "石凯聊天记录",
+        "onboard_time": 1746241760,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324681,
+        "num": 324681,
+        "word": "三亚通报网友买水果九斤变六斤",
+        "onboard_time": 1746270622,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 322185,
+        "num": 322185,
+        "word": "掉进火锅猫咪已送医取名51",
+        "onboard_time": 1746266841,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187412,
+        "num": 280476,
+        "word": "愿此行终抵群星",
+        "onboard_time": 1746273860,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 54037,
+        "num": 275365,
+        "word": "商洛漂流翻船游客险被割喉",
+        "onboard_time": 1746275183,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 442599,
+        "num": 274444,
+        "word": "不体面却赚钱的工作",
+        "onboard_time": 1746269781,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 272648,
+        "num": 272648,
+        "word": "女儿94分被爸爸泼冷水1招反击",
+        "onboard_time": 1746265581,
+        "rank": 21,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 261086,
+        "num": 261086,
+        "word": "翔霖",
+        "onboard_time": 1746270082,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 220085,
+        "num": 220085,
+        "word": "文轩",
+        "onboard_time": 1746273442,
+        "rank": 23,
+        "category": "演出,作品衍生"
+      },
+      {
+        "raw_hot": 210786,
+        "num": 210786,
+        "word": "东方淮竹抢了刘诗诗的号",
+        "onboard_time": 1746275362,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202256,
+        "num": 202256,
+        "word": "女子爱上ChatGPT要与丈夫离婚",
+        "onboard_time": 1746273202,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 200056,
+        "num": 200056,
+        "word": "贺峻霖残影唱跳舞台",
+        "onboard_time": 1746275663,
+        "rank": 26,
+        "category": "演出,综艺"
+      },
+      {
+        "raw_hot": 186529,
+        "num": 186529,
+        "word": "用已逝女友起号这段太真实了",
+        "onboard_time": 1746267021,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 177385,
+        "num": 177385,
+        "word": "沈月赵一博看哥嫂亲热戏红温了",
+        "onboard_time": 1746274822,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173675,
+        "num": 173675,
+        "word": "石凯说我不可能自卑",
+        "onboard_time": 1746267981,
+        "rank": 29,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 169494,
+        "num": 169494,
+        "word": "重返未来1999",
+        "onboard_time": 1746275663,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 164888,
+        "num": 164888,
+        "word": "歌手2025",
+        "onboard_time": 1746275783,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160005,
+        "num": 160005,
+        "word": "9米长林肯车主致歉",
+        "onboard_time": 1746262701,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155685,
+        "num": 155685,
+        "word": "王一珩直播",
+        "onboard_time": 1746273622,
+        "rank": 33,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 64696,
+        "num": 151760,
+        "word": "陈芋汐完美626C",
+        "onboard_time": 1746276081,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149014,
+        "num": 149014,
+        "word": "檀健次跳蒙娜丽莎直拍",
+        "onboard_time": 1746274822,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147363,
+        "num": 147363,
+        "word": "淮水竹亭广告",
+        "onboard_time": 1746272301,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135663,
+        "num": 135663,
+        "word": "时代少年团 哪吒改编",
+        "onboard_time": 1746275062,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 60857,
+        "num": 133199,
+        "word": "斗破苍穹",
+        "onboard_time": 1746271461,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 13421,
+        "num": 132578,
+        "word": "水的张力",
+        "onboard_time": 1746276022,
+        "rank": 39,
+        "category": "科学科普,民生新闻"
+      },
+      {
+        "raw_hot": 132425,
+        "num": 132425,
+        "word": "西安雷雨夜空现条状不明物",
+        "onboard_time": 1746270501,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131514,
+        "num": 131514,
+        "word": "美国博主发视频找人去中国代购",
+        "onboard_time": 1746273801,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 208265,
+        "num": 130465,
+        "word": "苏州直升机坠落的景区开园仅1周",
+        "onboard_time": 1746268401,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128908,
+        "num": 128908,
+        "word": "上海超级芒果音乐节",
+        "onboard_time": 1746276022,
+        "rank": 43,
+        "category": "音乐,演出"
+      },
+      {
+        "raw_hot": 128613,
+        "num": 128613,
+        "word": "DRG对战RW",
+        "onboard_time": 1746275421,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 124978,
+        "num": 124978,
+        "word": "五一黄金跳水引爆抢购潮",
+        "onboard_time": 1746268581,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 124009,
+        "num": 124009,
+        "word": "大屏里的时代少年团",
+        "onboard_time": 1746276202,
+        "rank": 46,
+        "category": "演出,作品衍生"
+      },
+      {
+        "raw_hot": 119090,
+        "num": 119090,
+        "word": "周游记",
+        "onboard_time": 1746275783,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117683,
+        "num": 117683,
+        "word": "辛云来演出了小心翼翼的爱",
+        "onboard_time": 1746275183,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116269,
+        "num": 116269,
+        "word": "张新成 脱衣服",
+        "onboard_time": 1746271102,
+        "rank": 49,
+        "category": "演出,综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记寄望新时代青年#"
+    }
+  }
+}
