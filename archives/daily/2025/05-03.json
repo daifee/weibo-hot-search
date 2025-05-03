@@ -1,6 +1,6 @@
 {
   "startTime": 1746203485460,
-  "endTime": 1746261778117,
+  "endTime": 1746264233563,
   "band_list": [
     {
       "raw_hot": 3458319,
@@ -107,6 +107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 752248,
+      "num": 752248,
+      "word": "于东来与网红互怼怒称要退圈",
+      "onboard_time": 1746257181,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 745860,
       "num": 745860,
       "word": "5名中国公民在美国交通事故中遇难",
@@ -187,6 +195,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 631282,
+      "num": 631282,
+      "word": "兜儿否认拿烟头烫小猪先生",
+      "onboard_time": 1746259400,
+      "rank": 12,
+      "category": "网红"
+    },
+    {
       "raw_hot": 628808,
       "num": 1092719,
       "word": "前TVB女星在东莞打工求生",
@@ -211,20 +227,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 558466,
-      "num": 558466,
-      "word": "兜儿否认拿烟头烫小猪先生",
-      "onboard_time": 1746259400,
-      "rank": 12,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 557414,
-      "num": 557414,
-      "word": "于东来与网红互怼怒称要退圈",
-      "onboard_time": 1746257181,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 566654,
+      "num": 566654,
+      "word": "胡静一家吃饭各吃各的",
+      "onboard_time": 1746260961,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 556673,
@@ -281,6 +289,14 @@
       "onboard_time": 1746256579,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 483131,
+      "num": 483131,
+      "word": "外国人凌晨2点排队抢购中国玩具",
+      "onboard_time": 1746260180,
+      "rank": 13,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 468083,
@@ -347,6 +363,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 415561,
+      "num": 372721,
+      "word": "于东来账号已私密",
+      "onboard_time": 1746261560,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 413990,
       "num": 482316,
       "word": "虞书欣夹心摇破百万",
@@ -363,12 +387,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 390167,
+      "num": 390167,
+      "word": "金泰亨田柾国健身",
+      "onboard_time": 1746262160,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 375564,
       "num": 375564,
       "word": "Bin blg回来了",
       "onboard_time": 1746197373,
       "rank": 3,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 370527,
+      "num": 370527,
+      "word": "马夫",
+      "onboard_time": 1746262820,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 368136,
@@ -387,16 +427,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 350161,
-      "num": 350161,
-      "word": "外国人凌晨2点排队抢购中国玩具",
-      "onboard_time": 1746260180,
-      "rank": 13,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 342510,
-      "num": 342510,
+      "raw_hot": 356658,
+      "num": 356658,
       "word": "上千名游客深夜滞留张家界大喊退票",
       "onboard_time": 1746258261,
       "rank": 16,
@@ -441,6 +473,14 @@
       "onboard_time": 1746256160,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 309011,
+      "num": 170890,
+      "word": "9米长林肯车主致歉",
+      "onboard_time": 1746262701,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 308894,
@@ -489,6 +529,14 @@
       "onboard_time": 1746256099,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 299755,
+      "num": 299755,
+      "word": "白宇你这样显得迪丽热巴很呆诶",
+      "onboard_time": 1746261440,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 296982,
@@ -644,7 +692,7 @@
     },
     {
       "raw_hot": 226885,
-      "num": 131157,
+      "num": 189376,
       "word": "牙齿之间出现黑三角警惕牙龈萎缩",
       "onboard_time": 1746259340,
       "rank": 30,
@@ -681,6 +729,14 @@
       "onboard_time": 1746241819,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202924,
+      "num": 202924,
+      "word": "安宥真开球",
+      "onboard_time": 1746262580,
+      "rank": 21,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 202751,
@@ -721,14 +777,6 @@
       "onboard_time": 1746236302,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 196827,
-      "num": 196827,
-      "word": "胡静一家吃饭各吃各的",
-      "onboard_time": 1746260961,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 196093,
@@ -801,6 +849,14 @@
       "onboard_time": 1746241699,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 187859,
+      "num": 187859,
+      "word": "重庆洪崖洞有多挤",
+      "onboard_time": 1746262280,
+      "rank": 23,
+      "category": "旅游"
     },
     {
       "raw_hot": 187300,
@@ -883,12 +939,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176599,
+      "num": 176599,
+      "word": "王俊凯大脑里存了1T周杰伦的歌",
+      "onboard_time": 1746263780,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172694,
       "num": 172694,
       "word": "刘诗诗先秦淑女步",
       "onboard_time": 1746191188,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 171788,
+      "num": 171788,
+      "word": "找工作最怕的是找到工作",
+      "onboard_time": 1746262580,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 170719,
+      "num": 170719,
+      "word": "于东来发文捍卫道德底线",
+      "onboard_time": 1746261560,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 170437,
@@ -1003,6 +1083,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 158085,
+      "num": 158085,
+      "word": "97岁妈妈与75岁姑娘",
+      "onboard_time": 1746261440,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 157968,
       "num": 157968,
       "word": "那晚数学和英语都喝醉了",
@@ -1027,12 +1115,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 155937,
+      "num": 155937,
+      "word": "她失去了一只眼却没有失去人生",
+      "onboard_time": 1746261681,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 155485,
       "num": 155485,
       "word": "香港月薪5万董事长女助理的一天",
       "onboard_time": 1746197431,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 155236,
+      "num": 155236,
+      "word": "再就业男团应到1人实到6人",
+      "onboard_time": 1746261381,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 152003,
@@ -1115,6 +1219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143139,
+      "num": 143139,
+      "word": "孟美岐这里不让睡觉",
+      "onboard_time": 1746261741,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142119,
       "num": 142119,
       "word": "千万网红大logo带货茶叶涉嫌虚假宣传",
@@ -1163,6 +1275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137612,
+      "num": 137612,
+      "word": "于洋差点抄走了刘耀文答案",
+      "onboard_time": 1746263780,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137408,
       "num": 249669,
       "word": "韩安冉否认前夫抑郁和她有关",
@@ -1208,6 +1328,14 @@
       "word": "要和四分之一世纪的春天说再见了",
       "onboard_time": 1746232399,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132041,
+      "num": 373920,
+      "word": "ChinaShopping在美国火了",
+      "onboard_time": 1746263119,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -1267,20 +1395,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 128727,
-      "num": 128727,
-      "word": "于东来发文捍卫道德底线",
-      "onboard_time": 1746261560,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 128469,
       "num": 361085,
       "word": "三亚有游客骑摩托艇出海与向导失散",
       "onboard_time": 1746237020,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128002,
+      "num": 128002,
+      "word": "孙颖莎出镜新时代的中国青年",
+      "onboard_time": 1746263541,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 127618,
@@ -1304,14 +1432,6 @@
       "word": "敖瑞鹏hi6初体验",
       "onboard_time": 1746256821,
       "rank": 45,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 127049,
-      "num": 127049,
-      "word": "白宇你这样显得迪丽热巴很呆诶",
-      "onboard_time": 1746261440,
-      "rank": 33,
       "category": "综艺"
     },
     {
@@ -1467,19 +1587,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112386,
+      "num": 112386,
+      "word": "原来这就是职场向上管理",
+      "onboard_time": 1746264201,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 112195,
+      "num": 112195,
+      "word": "WE对战NIP",
+      "onboard_time": 1746264021,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 111781,
       "num": 111781,
       "word": "摩羯座越是喜欢越谨慎",
       "onboard_time": 1746252319,
       "rank": 36,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 110629,
-      "num": 110629,
-      "word": "97岁妈妈与75岁姑娘",
-      "onboard_time": 1746261440,
-      "rank": 37,
       "category": "情感"
     },
     {
@@ -1499,12 +1627,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 109363,
-      "num": 109363,
-      "word": "再就业男团应到1人实到6人",
-      "onboard_time": 1746261381,
-      "rank": 38,
-      "category": "综艺"
+      "raw_hot": 109778,
+      "num": 109778,
+      "word": "女子以死做局分饰7角骗走男友7万",
+      "onboard_time": 1746262761,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108890,
@@ -1715,14 +1843,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 97970,
-      "num": 97970,
-      "word": "于东来账号已私密",
-      "onboard_time": 1746261560,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 97162,
       "num": 97162,
       "word": "胡歌生命树开机照",
@@ -1809,14 +1929,6 @@
       "onboard_time": 1746249861,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 92475,
-      "num": 92475,
-      "word": "她失去了一只眼却没有失去人生",
-      "onboard_time": 1746261681,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 92383,
@@ -1945,14 +2057,6 @@
       "onboard_time": 1746245902,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 86852,
-      "num": 86852,
-      "word": "孟美岐这里不让睡觉",
-      "onboard_time": 1746261741,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 86347,
@@ -2187,12 +2291,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65230,
+      "num": 683572,
+      "word": "五一假期多地打造文旅消费新场景",
+      "onboard_time": 1746261440,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64807,
       "num": 117883,
       "word": "自称川剧变脸的韩国传承者",
       "onboard_time": 1746257539,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 63731,
+      "num": 590475,
+      "word": "上百人为中国AI芯写120万行代码",
+      "onboard_time": 1746261381,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63243,
@@ -2219,6 +2339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 60515,
+      "num": 171256,
+      "word": "TTG多巴胺漫展穿搭",
+      "onboard_time": 1746263119,
+      "rank": 28,
+      "category": "电竞,动漫"
+    },
+    {
       "raw_hot": 60387,
       "num": 60387,
       "word": "早上运动vs晚上运动哪个更健康",
@@ -2227,12 +2355,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 59493,
-      "num": 343996,
-      "word": "上百人为中国AI芯写120万行代码",
-      "onboard_time": 1746261381,
-      "rank": 12,
-      "category": "民生新闻"
+      "raw_hot": 60200,
+      "num": 171198,
+      "word": "吃一顿大餐后身体会发生什么",
+      "onboard_time": 1746263180,
+      "rank": 29,
+      "category": "美食,健康医疗"
     },
     {
       "raw_hot": 59333,
@@ -2257,6 +2385,14 @@
       "onboard_time": 1746261381,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 54541,
+      "num": 357215,
+      "word": "来WAW遇见PLAVE",
+      "onboard_time": 1746262880,
+      "rank": 14,
+      "category": "动漫"
     },
     {
       "raw_hot": 53391,
@@ -2419,6 +2555,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 36638,
+      "num": 130888,
+      "word": "灵隐寺260万年租金的小卖部",
+      "onboard_time": 1746263601,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34888,
       "num": 128862,
       "word": "假期最后一天就是立夏了",
@@ -2465,6 +2609,14 @@
       "onboard_time": 1746210735,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 28463,
+      "num": 358646,
+      "word": "当农村女孩第一次带妈妈旅游",
+      "onboard_time": 1746263303,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28462,
@@ -2587,14 +2739,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 17243,
-      "num": 643694,
-      "word": "五一假期多地打造文旅消费新场景",
-      "onboard_time": 1746261440,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 16628,
       "num": 107793,
       "word": "恶意退货为什么会被平台封店",
@@ -2681,6 +2825,14 @@
       "onboard_time": 1746241279,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 8811,
+      "num": 171630,
+      "word": "王嘉尔MM2首个舞台唱的哪首歌",
+      "onboard_time": 1746264080,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 6932,

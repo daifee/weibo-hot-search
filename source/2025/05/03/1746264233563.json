@@ -1,0 +1,410 @@
+{
+  "runTime": 1746264233563,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1155477,
+        "num": 1184876,
+        "word": "五三惨案",
+        "onboard_time": 1746242841,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 752248,
+        "num": 752248,
+        "word": "于东来与网红互怼怒称要退圈",
+        "onboard_time": 1746257181,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65230,
+        "num": 683572,
+        "word": "五一假期多地打造文旅消费新场景",
+        "onboard_time": 1746261440,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 631282,
+        "num": 631282,
+        "word": "兜儿否认拿烟头烫小猪先生",
+        "onboard_time": 1746259400,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 614799,
+        "num": 614799,
+        "word": "陈赫在海南被路人认成周杰伦",
+        "onboard_time": 1746258740,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63731,
+        "num": 590475,
+        "word": "上百人为中国AI芯写120万行代码",
+        "onboard_time": 1746261381,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 566654,
+        "num": 566654,
+        "word": "胡静一家吃饭各吃各的",
+        "onboard_time": 1746260961,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 483131,
+        "num": 483131,
+        "word": "外国人凌晨2点排队抢购中国玩具",
+        "onboard_time": 1746260180,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 390167,
+        "num": 390167,
+        "word": "金泰亨田柾国健身",
+        "onboard_time": 1746262160,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132041,
+        "num": 373920,
+        "word": "ChinaShopping在美国火了",
+        "onboard_time": 1746263119,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 657437,
+        "num": 373664,
+        "word": "石凯聊天记录",
+        "onboard_time": 1746241760,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 415561,
+        "num": 372721,
+        "word": "于东来账号已私密",
+        "onboard_time": 1746261560,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 370527,
+        "num": 370527,
+        "word": "马夫",
+        "onboard_time": 1746262820,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28463,
+        "num": 358646,
+        "word": "当农村女孩第一次带妈妈旅游",
+        "onboard_time": 1746263303,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54541,
+        "num": 357215,
+        "word": "来WAW遇见PLAVE",
+        "onboard_time": 1746262880,
+        "rank": 14,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 356658,
+        "num": 356658,
+        "word": "上千名游客深夜滞留张家界大喊退票",
+        "onboard_time": 1746258261,
+        "rank": 15,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 346440,
+        "num": 346440,
+        "word": "吸血的阴虱",
+        "onboard_time": 1746258800,
+        "rank": 16,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 318265,
+        "num": 318265,
+        "word": "校方就退60件演出服事件道歉",
+        "onboard_time": 1746250101,
+        "rank": 17,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 299755,
+        "num": 299755,
+        "word": "白宇你这样显得迪丽热巴很呆诶",
+        "onboard_time": 1746261440,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230348,
+        "num": 230348,
+        "word": "外国小哥穿白袜子走在东京街头",
+        "onboard_time": 1746257300,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 224272,
+        "num": 224272,
+        "word": "谁把程潇的中药换成冰美式了",
+        "onboard_time": 1746256579,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 202924,
+        "num": 202924,
+        "word": "安宥真开球",
+        "onboard_time": 1746262580,
+        "rank": 21,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 189376,
+        "num": 189376,
+        "word": "牙齿之间出现黑三角警惕牙龈萎缩",
+        "onboard_time": 1746259340,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 187859,
+        "num": 187859,
+        "word": "重庆洪崖洞有多挤",
+        "onboard_time": 1746262280,
+        "rank": 23,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 177330,
+        "num": 177330,
+        "word": "交警称9米长林肯是钻空子上山",
+        "onboard_time": 1746253461,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176599,
+        "num": 176599,
+        "word": "王俊凯大脑里存了1T周杰伦的歌",
+        "onboard_time": 1746263780,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171788,
+        "num": 171788,
+        "word": "找工作最怕的是找到工作",
+        "onboard_time": 1746262580,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 8811,
+        "num": 171630,
+        "word": "王嘉尔MM2首个舞台唱的哪首歌",
+        "onboard_time": 1746264080,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 60515,
+        "num": 171256,
+        "word": "TTG多巴胺漫展穿搭",
+        "onboard_time": 1746263119,
+        "rank": 28,
+        "category": "电竞,动漫"
+      },
+      {
+        "raw_hot": 60200,
+        "num": 171198,
+        "word": "吃一顿大餐后身体会发生什么",
+        "onboard_time": 1746263180,
+        "rank": 29,
+        "category": "美食,健康医疗"
+      },
+      {
+        "raw_hot": 309011,
+        "num": 170890,
+        "word": "9米长林肯车主致歉",
+        "onboard_time": 1746262701,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170719,
+        "num": 170719,
+        "word": "于东来发文捍卫道德底线",
+        "onboard_time": 1746261560,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163626,
+        "num": 163626,
+        "word": "罗云熙 音乐节",
+        "onboard_time": 1746259221,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 158085,
+        "num": 158085,
+        "word": "97岁妈妈与75岁姑娘",
+        "onboard_time": 1746261440,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155937,
+        "num": 155937,
+        "word": "她失去了一只眼却没有失去人生",
+        "onboard_time": 1746261681,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155236,
+        "num": 155236,
+        "word": "再就业男团应到1人实到6人",
+        "onboard_time": 1746261381,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 143139,
+        "num": 143139,
+        "word": "孟美岐这里不让睡觉",
+        "onboard_time": 1746261741,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142101,
+        "num": 142101,
+        "word": "黎族有种用鼻子吹的乐器",
+        "onboard_time": 1746261560,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137612,
+        "num": 137612,
+        "word": "于洋差点抄走了刘耀文答案",
+        "onboard_time": 1746263780,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36638,
+        "num": 130888,
+        "word": "灵隐寺260万年租金的小卖部",
+        "onboard_time": 1746263601,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129730,
+        "num": 129730,
+        "word": "五一的桂林快忙成马六甲了",
+        "onboard_time": 1746243321,
+        "rank": 40,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 128002,
+        "num": 128002,
+        "word": "孙颖莎出镜新时代的中国青年",
+        "onboard_time": 1746263541,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 368078,
+        "num": 127812,
+        "word": "孙颖莎 嘉人",
+        "onboard_time": 1746251601,
+        "rank": 42,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 127576,
+        "num": 127576,
+        "word": "医学院有很多专业不能当医生",
+        "onboard_time": 1746256099,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114052,
+        "num": 114052,
+        "word": "虞书欣夹心摇破百万",
+        "onboard_time": 1746247580,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113428,
+        "num": 113428,
+        "word": "天降猫咪掉进露天火锅烫伤9人",
+        "onboard_time": 1746248421,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112386,
+        "num": 112386,
+        "word": "原来这就是职场向上管理",
+        "onboard_time": 1746264201,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112195,
+        "num": 112195,
+        "word": "WE对战NIP",
+        "onboard_time": 1746264021,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 109778,
+        "num": 109778,
+        "word": "女子以死做局分饰7角骗走男友7万",
+        "onboard_time": 1746262761,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103828,
+        "num": 103828,
+        "word": "时代少年团演唱会花墙应援",
+        "onboard_time": 1746256160,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记寄望新时代青年#"
+    }
+  }
+}
