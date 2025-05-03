@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746253954022,
+  "endTime": 1746254740564,
   "band_list": [
     {
       "raw_hot": 3885539,
@@ -755,6 +755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 701455,
+      "num": 701455,
+      "word": "孙颖莎 嘉人",
+      "onboard_time": 1746251601,
+      "rank": 4,
+      "category": "体育,时尚"
+    },
+    {
       "raw_hot": 683337,
       "num": 683337,
       "word": "Bin blg回来了",
@@ -825,14 +833,6 @@
       "onboard_time": 1746070761,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 643110,
-      "num": 643110,
-      "word": "孙颖莎 嘉人",
-      "onboard_time": 1746251601,
-      "rank": 4,
-      "category": "体育,时尚"
     },
     {
       "raw_hot": 637181,
@@ -1305,6 +1305,14 @@
       "onboard_time": 1746188969,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 462035,
+      "num": 244778,
+      "word": "金价",
+      "onboard_time": 1746119898,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 461296,
@@ -2043,6 +2051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 301733,
+      "num": 301733,
+      "word": "叶童银发狼尾造型",
+      "onboard_time": 1746252142,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 301255,
       "num": 248597,
       "word": "朱苏",
@@ -2179,12 +2195,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 282591,
+      "num": 282591,
+      "word": "交警称9米长林肯是钻空子上山",
+      "onboard_time": 1746253461,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 281965,
       "num": 270776,
       "word": "爸爸用维生素为女儿变出萤火流星雨",
       "onboard_time": 1746193591,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 280822,
+      "num": 280822,
+      "word": "邓超妈妈辛苦爱你小花爸爸好帅",
+      "onboard_time": 1746252021,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 280138,
@@ -2232,6 +2264,14 @@
       "word": "海外网红疯狂整容导致塑料脸",
       "onboard_time": 1746098061,
       "rank": 39,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 270067,
+      "num": 270067,
+      "word": "荷兰露天男厕",
+      "onboard_time": 1746251242,
+      "rank": 20,
       "category": "海外新闻"
     },
     {
@@ -2483,14 +2523,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 242310,
-      "num": 242310,
-      "word": "叶童银发狼尾造型",
-      "onboard_time": 1746252142,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 242155,
       "num": 242155,
       "word": "五一档新片票房破2亿",
@@ -2529,14 +2561,6 @@
       "onboard_time": 1746090622,
       "rank": 18,
       "category": "演出"
-    },
-    {
-      "raw_hot": 231909,
-      "num": 202477,
-      "word": "荷兰露天男厕",
-      "onboard_time": 1746251242,
-      "rank": 20,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 231467,
@@ -2715,6 +2739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210536,
+      "num": 210536,
+      "word": "原来100元可以买这么多东西",
+      "onboard_time": 1746250820,
+      "rank": 38,
+      "category": "情感,民生新闻"
+    },
+    {
       "raw_hot": 210261,
       "num": 367370,
       "word": "白宫送别马斯克",
@@ -2819,14 +2851,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 205224,
-      "num": 205224,
-      "word": "邓超妈妈辛苦爱你小花爸爸好帅",
-      "onboard_time": 1746252021,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 205203,
       "num": 205203,
       "word": "知道五一人多但没想到人这么多",
@@ -2929,14 +2953,6 @@
       "onboard_time": 1746146309,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 200976,
-      "num": 200976,
-      "word": "金价",
-      "onboard_time": 1746119898,
-      "rank": 43,
-      "category": "财经"
     },
     {
       "raw_hot": 200709,
@@ -3587,14 +3603,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 186742,
-      "num": 186742,
-      "word": "原来100元可以买这么多东西",
-      "onboard_time": 1746250820,
-      "rank": 38,
-      "category": "情感,民生新闻"
-    },
-    {
       "raw_hot": 186589,
       "num": 186589,
       "word": "周洁琼撕拉片",
@@ -4043,12 +4051,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166855,
+      "num": 166855,
+      "word": "十个勤天给大棚过生日",
+      "onboard_time": 1746253999,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166844,
       "num": 166844,
       "word": "原来寄刀片是从宫崎骏开始的",
       "onboard_time": 1746071121,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 166706,
+      "num": 166442,
+      "word": "于正说吴谨言本月会复出",
+      "onboard_time": 1746249741,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 166656,
@@ -4073,14 +4097,6 @@
       "onboard_time": 1746250820,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 166442,
-      "num": 166442,
-      "word": "于正说吴谨言本月会复出",
-      "onboard_time": 1746249741,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 166358,
@@ -4259,6 +4275,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 162056,
+      "num": 135858,
+      "word": "胡静和老公教科书式有效沟通",
+      "onboard_time": 1746253759,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161703,
       "num": 643887,
       "word": "五一出游热潮席卷全国",
@@ -4401,6 +4425,14 @@
       "onboard_time": 1746073521,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158297,
+      "num": 140312,
+      "word": "埃文凯尔也去看华晨宇演唱会了",
+      "onboard_time": 1746252981,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 158168,
@@ -5091,6 +5123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140705,
+      "num": 204528,
+      "word": "美国电商平台商品最高涨价377%",
+      "onboard_time": 1746252740,
+      "rank": 18,
+      "category": "海外新闻,财经"
+    },
+    {
       "raw_hot": 140654,
       "num": 140654,
       "word": "成都蓉城登顶中超积分榜",
@@ -5305,6 +5345,14 @@
       "onboard_time": 1746031759,
       "rank": 13,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 135876,
+      "num": 135876,
+      "word": "台幼儿园园长之子性侵猥亵6女童",
+      "onboard_time": 1746253999,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135746,
@@ -5681,6 +5729,14 @@
       "onboard_time": 1746176721,
       "rank": 18,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 128297,
+      "num": 128297,
+      "word": "千万网红大logo带货茶叶涉嫌虚假宣传",
+      "onboard_time": 1746254062,
+      "rank": 36,
+      "category": "网红"
     },
     {
       "raw_hot": 128193,
@@ -6155,6 +6211,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 119546,
+      "num": 119546,
+      "word": "邓家佳有种气血很足的美",
+      "onboard_time": 1746251601,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 119399,
       "num": 501404,
       "word": "五一假期被景区三件套包圆了",
@@ -6233,14 +6297,6 @@
       "onboard_time": 1746067940,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 117923,
-      "num": 201016,
-      "word": "交警称9米长林肯是钻空子上山",
-      "onboard_time": 1746253461,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 117813,
@@ -6505,14 +6561,6 @@
       "onboard_time": 1746026482,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 111010,
-      "num": 111010,
-      "word": "邓家佳有种气血很足的美",
-      "onboard_time": 1746251601,
-      "rank": 37,
-      "category": "电影"
     },
     {
       "raw_hot": 110930,
@@ -6947,6 +6995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102764,
+      "num": 102764,
+      "word": "被场下的樊振东萌化",
+      "onboard_time": 1746253339,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102407,
       "num": 102407,
       "word": "生命树开机杨紫发文",
@@ -6961,14 +7017,6 @@
       "onboard_time": 1746078682,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 101514,
-      "num": 101514,
-      "word": "埃文凯尔也去看华晨宇演唱会了",
-      "onboard_time": 1746252981,
-      "rank": 40,
-      "category": "演出"
     },
     {
       "raw_hot": 101339,
@@ -7004,7 +7052,7 @@
     },
     {
       "raw_hot": 100826,
-      "num": 122713,
+      "num": 245847,
       "word": "原来凤凰传奇里曾毅不会骑马",
       "onboard_time": 1746253160,
       "rank": 33,
@@ -7105,14 +7153,6 @@
       "onboard_time": 1746185070,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 98969,
-      "num": 98969,
-      "word": "胡静和老公教科书式有效沟通",
-      "onboard_time": 1746253759,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 98808,
@@ -7257,14 +7297,6 @@
       "onboard_time": 1746201621,
       "rank": 41,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 94757,
-      "num": 94757,
-      "word": "被场下的樊振东萌化",
-      "onboard_time": 1746253339,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 94727,
@@ -7875,14 +7907,6 @@
       "category": "国内时政,民生新闻"
     },
     {
-      "raw_hot": 71824,
-      "num": 204528,
-      "word": "美国电商平台商品最高涨价377%",
-      "onboard_time": 1746252740,
-      "rank": 18,
-      "category": "海外新闻,财经"
-    },
-    {
       "raw_hot": 71586,
       "num": 206354,
       "word": "梦泪联动无限王者团",
@@ -8483,6 +8507,14 @@
       "category": "国际时政,财经"
     },
     {
+      "raw_hot": 45668,
+      "num": 270307,
+      "word": "WAW人人人人我人人人人",
+      "onboard_time": 1746253942,
+      "rank": 14,
+      "category": "游戏,动漫"
+    },
+    {
       "raw_hot": 45428,
       "num": 1370542,
       "word": "一人一句致敬劳动者",
@@ -8675,6 +8707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39835,
+      "num": 275588,
+      "word": "KPL梦之队星光见面会",
+      "onboard_time": 1746254421,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 39612,
       "num": 190978,
       "word": "特朗普计划罢免群聊泄密罪魁祸首",
@@ -8777,6 +8817,14 @@
       "onboard_time": 1746113363,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 34888,
+      "num": 128862,
+      "word": "假期最后一天就是立夏了",
+      "onboard_time": 1746254660,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34703,
@@ -9225,6 +9273,14 @@
       "onboard_time": 1746040634,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 20065,
+      "num": 135900,
+      "word": "胖东来维权之路该如何展开",
+      "onboard_time": 1746254541,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19938,

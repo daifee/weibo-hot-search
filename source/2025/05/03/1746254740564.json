@@ -1,0 +1,410 @@
+{
+  "runTime": 1746254740564,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1610909,
+        "num": 1610909,
+        "word": "五三惨案",
+        "onboard_time": 1746242841,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1080854,
+        "num": 1080854,
+        "word": "校方就退60件演出服事件道歉",
+        "onboard_time": 1746250101,
+        "rank": 1,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 40866,
+        "num": 836774,
+        "word": "致敬每一位大国工程建设者",
+        "onboard_time": 1746244341,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 701455,
+        "num": 701455,
+        "word": "孙颖莎 嘉人",
+        "onboard_time": 1746251601,
+        "rank": 3,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 586567,
+        "num": 586567,
+        "word": "校方建议被恶意退货商家报警",
+        "onboard_time": 1746249261,
+        "rank": 4,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 417532,
+        "num": 417532,
+        "word": "五一的桂林快忙成马六甲了",
+        "onboard_time": 1746243321,
+        "rank": 5,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 360435,
+        "num": 360435,
+        "word": "这竟然是黄奕",
+        "onboard_time": 1746250402,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301733,
+        "num": 301733,
+        "word": "叶童银发狼尾造型",
+        "onboard_time": 1746252142,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 299377,
+        "num": 299377,
+        "word": "虞书欣夹心摇破百万",
+        "onboard_time": 1746247580,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282591,
+        "num": 282591,
+        "word": "交警称9米长林肯是钻空子上山",
+        "onboard_time": 1746253461,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1159194,
+        "num": 281925,
+        "word": "石凯聊天记录",
+        "onboard_time": 1746241760,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280822,
+        "num": 280822,
+        "word": "邓超妈妈辛苦爱你小花爸爸好帅",
+        "onboard_time": 1746252021,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39835,
+        "num": 275588,
+        "word": "KPL梦之队星光见面会",
+        "onboard_time": 1746254421,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270888,
+        "num": 270888,
+        "word": "你一句甲天下 我就堵在了真桂林",
+        "onboard_time": 1746245902,
+        "rank": 13,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 45668,
+        "num": 270307,
+        "word": "WAW人人人人我人人人人",
+        "onboard_time": 1746253942,
+        "rank": 14,
+        "category": "游戏,动漫"
+      },
+      {
+        "raw_hot": 270067,
+        "num": 270067,
+        "word": "荷兰露天男厕",
+        "onboard_time": 1746251242,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 253554,
+        "num": 253554,
+        "word": "5名中国公民在美国交通事故中遇难",
+        "onboard_time": 1746246142,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226265,
+        "num": 245967,
+        "word": "孙俪晒照为小花妹妹庆生",
+        "onboard_time": 1746244100,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84400,
+        "num": 245847,
+        "word": "原来凤凰传奇里曾毅不会骑马",
+        "onboard_time": 1746253160,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 245792,
+        "num": 245792,
+        "word": "马斯克得知美国资助项目笑出声",
+        "onboard_time": 1746247881,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 462035,
+        "num": 244778,
+        "word": "金价",
+        "onboard_time": 1746248780,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 221039,
+        "num": 221039,
+        "word": "锦月如歌",
+        "onboard_time": 1746249021,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210918,
+        "num": 210918,
+        "word": "泰山陪爬小伙2天挣了近2000元",
+        "onboard_time": 1746242599,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210536,
+        "num": 210536,
+        "word": "原来100元可以买这么多东西",
+        "onboard_time": 1746250820,
+        "rank": 23,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 166855,
+        "num": 166855,
+        "word": "十个勤天给大棚过生日",
+        "onboard_time": 1746253999,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140705,
+        "num": 140705,
+        "word": "美国电商平台商品最高涨价377%",
+        "onboard_time": 1746252740,
+        "rank": 25,
+        "category": "海外新闻,财经"
+      },
+      {
+        "raw_hot": 158297,
+        "num": 140312,
+        "word": "埃文凯尔也去看华晨宇演唱会了",
+        "onboard_time": 1746252981,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 94392,
+        "num": 136698,
+        "word": "校方承诺回收60件被退演出服",
+        "onboard_time": 1746252860,
+        "rank": 27,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 20065,
+        "num": 135900,
+        "word": "胖东来维权之路该如何展开",
+        "onboard_time": 1746254541,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135876,
+        "num": 135876,
+        "word": "台幼儿园园长之子性侵猥亵6女童",
+        "onboard_time": 1746253999,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162056,
+        "num": 135858,
+        "word": "胡静和老公教科书式有效沟通",
+        "onboard_time": 1746253759,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180732,
+        "num": 135147,
+        "word": "天降猫咪掉进露天火锅烫伤9人",
+        "onboard_time": 1746248421,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166706,
+        "num": 134937,
+        "word": "于正说吴谨言本月会复出",
+        "onboard_time": 1746249741,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131431,
+        "num": 131431,
+        "word": "陈德容四公练到下一个天亮",
+        "onboard_time": 1746252801,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34888,
+        "num": 128862,
+        "word": "假期最后一天就是立夏了",
+        "onboard_time": 1746254660,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128636,
+        "num": 128636,
+        "word": "张智霖袁咏仪视频都在打麻将",
+        "onboard_time": 1746248600,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128297,
+        "num": 128297,
+        "word": "千万网红大logo带货茶叶涉嫌虚假宣传",
+        "onboard_time": 1746254062,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 119546,
+        "num": 119546,
+        "word": "邓家佳有种气血很足的美",
+        "onboard_time": 1746251601,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 118742,
+        "num": 118742,
+        "word": "女子整理发霉衣柜后高烧40度",
+        "onboard_time": 1746243079,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118513,
+        "num": 118513,
+        "word": "陈德容 歌词玄学",
+        "onboard_time": 1746251902,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117153,
+        "num": 117153,
+        "word": "江一燕房琪淘汰",
+        "onboard_time": 1746232759,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112298,
+        "num": 112298,
+        "word": "五哈你就宠陈赫吧",
+        "onboard_time": 1746252620,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104321,
+        "num": 104321,
+        "word": "齐思钧在浪姐真心换真心",
+        "onboard_time": 1746252981,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104236,
+        "num": 104236,
+        "word": "吴宣仪陈德容穿婚纱唱爱存在",
+        "onboard_time": 1746236720,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102764,
+        "num": 102764,
+        "word": "被场下的樊振东萌化",
+        "onboard_time": 1746253339,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95322,
+        "num": 95322,
+        "word": "东方淮竹你看清楚我不是她",
+        "onboard_time": 1746252740,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93299,
+        "num": 93299,
+        "word": "严浩翔贺峻霖 双人舞台",
+        "onboard_time": 1746245180,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 86603,
+        "num": 86603,
+        "word": "陈卓璇梦回创造营",
+        "onboard_time": 1746252501,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 85799,
+        "num": 85799,
+        "word": "日本称1万亿美债是谈判工具",
+        "onboard_time": 1746250101,
+        "rank": 48,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 83575,
+        "num": 83575,
+        "word": "火箭3比3勇士",
+        "onboard_time": 1746245239,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光的你#"
+    }
+  }
+}

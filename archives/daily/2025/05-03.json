@@ -1,6 +1,6 @@
 {
   "startTime": 1746203485460,
-  "endTime": 1746253954022,
+  "endTime": 1746254740564,
   "band_list": [
     {
       "raw_hot": 3458319,
@@ -115,6 +115,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 701455,
+      "num": 701455,
+      "word": "孙颖莎 嘉人",
+      "onboard_time": 1746251601,
+      "rank": 4,
+      "category": "体育,时尚"
+    },
+    {
       "raw_hot": 668438,
       "num": 299627,
       "word": "南大教授回应陈丽君说贾宝玉长孙",
@@ -137,14 +145,6 @@
       "onboard_time": 1746231680,
       "rank": 1,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 643110,
-      "num": 643110,
-      "word": "孙颖莎 嘉人",
-      "onboard_time": 1746251601,
-      "rank": 4,
-      "category": "体育,时尚"
     },
     {
       "raw_hot": 637181,
@@ -241,6 +241,14 @@
       "onboard_time": 1746250402,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 462035,
+      "num": 244778,
+      "word": "金价",
+      "onboard_time": 1746248780,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 461296,
@@ -371,6 +379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 301733,
+      "num": 301733,
+      "word": "叶童银发狼尾造型",
+      "onboard_time": 1746252142,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 296982,
       "num": 296982,
       "word": "火箭3比3勇士",
@@ -387,6 +403,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 282591,
+      "num": 282591,
+      "word": "交警称9米长林肯是钻空子上山",
+      "onboard_time": 1746253461,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 280822,
+      "num": 280822,
+      "word": "邓超妈妈辛苦爱你小花爸爸好帅",
+      "onboard_time": 1746252021,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 278322,
       "num": 278322,
       "word": "酒店痛房",
@@ -401,6 +433,14 @@
       "onboard_time": 1746195213,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 270067,
+      "num": 270067,
+      "word": "荷兰露天男厕",
+      "onboard_time": 1746251242,
+      "rank": 20,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 265444,
@@ -435,28 +475,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 242310,
-      "num": 242310,
-      "word": "叶童银发狼尾造型",
-      "onboard_time": 1746252142,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 233464,
       "num": 233464,
       "word": "福建一隧道4辆车发生事故",
       "onboard_time": 1746195092,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 231909,
-      "num": 202477,
-      "word": "荷兰露天男厕",
-      "onboard_time": 1746251242,
-      "rank": 20,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 231467,
@@ -473,6 +497,14 @@
       "onboard_time": 1746195872,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 210536,
+      "num": 210536,
+      "word": "原来100元可以买这么多东西",
+      "onboard_time": 1746250820,
+      "rank": 38,
+      "category": "情感,民生新闻"
     },
     {
       "raw_hot": 208491,
@@ -497,14 +529,6 @@
       "onboard_time": 1746248421,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 205224,
-      "num": 205224,
-      "word": "邓超妈妈辛苦爱你小花爸爸好帅",
-      "onboard_time": 1746252021,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 204215,
@@ -537,14 +561,6 @@
       "onboard_time": 1746245301,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 200976,
-      "num": 200976,
-      "word": "金价",
-      "onboard_time": 1746248780,
-      "rank": 35,
-      "category": "财经"
     },
     {
       "raw_hot": 199423,
@@ -635,14 +651,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 186742,
-      "num": 186742,
-      "word": "原来100元可以买这么多东西",
-      "onboard_time": 1746250820,
-      "rank": 38,
-      "category": "情感,民生新闻"
-    },
-    {
       "raw_hot": 186330,
       "num": 186330,
       "word": "杨紫生命树开机plog",
@@ -731,20 +739,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166855,
+      "num": 166855,
+      "word": "十个勤天给大棚过生日",
+      "onboard_time": 1746253999,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 166706,
+      "num": 166442,
+      "word": "于正说吴谨言本月会复出",
+      "onboard_time": 1746249741,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166480,
       "num": 166480,
       "word": "五一我的嘴没停过",
       "onboard_time": 1746250820,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 166442,
-      "num": 166442,
-      "word": "于正说吴谨言本月会复出",
-      "onboard_time": 1746249741,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 165693,
@@ -787,6 +803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162056,
+      "num": 135858,
+      "word": "胡静和老公教科书式有效沟通",
+      "onboard_time": 1746253759,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160594,
       "num": 233618,
       "word": "当地介入调查钟乳石被刻字事件",
@@ -801,6 +825,14 @@
       "onboard_time": 1746235941,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158297,
+      "num": 140312,
+      "word": "埃文凯尔也去看华晨宇演唱会了",
+      "onboard_time": 1746252981,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 157968,
@@ -907,6 +939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140705,
+      "num": 204528,
+      "word": "美国电商平台商品最高涨价377%",
+      "onboard_time": 1746252740,
+      "rank": 18,
+      "category": "海外新闻,财经"
+    },
+    {
       "raw_hot": 140582,
       "num": 140582,
       "word": "景区和游客都不知道对方实力",
@@ -937,6 +977,14 @@
       "onboard_time": 1746246561,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 135876,
+      "num": 135876,
+      "word": "台幼儿园园长之子性侵猥亵6女童",
+      "onboard_time": 1746253999,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135126,
@@ -993,6 +1041,14 @@
       "onboard_time": 1746237020,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128297,
+      "num": 128297,
+      "word": "千万网红大logo带货茶叶涉嫌虚假宣传",
+      "onboard_time": 1746254062,
+      "rank": 36,
+      "category": "网红"
     },
     {
       "raw_hot": 127618,
@@ -1115,20 +1171,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 119546,
+      "num": 119546,
+      "word": "邓家佳有种气血很足的美",
+      "onboard_time": 1746251601,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 118293,
       "num": 335871,
       "word": "晒晒你的五一旅行照",
       "onboard_time": 1746244941,
       "rank": 12,
       "category": "民生新闻,旅游"
-    },
-    {
-      "raw_hot": 117923,
-      "num": 201016,
-      "word": "交警称9米长林肯是钻空子上山",
-      "onboard_time": 1746253461,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 114504,
@@ -1153,14 +1209,6 @@
       "onboard_time": 1746252319,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 111010,
-      "num": 111010,
-      "word": "邓家佳有种气血很足的美",
-      "onboard_time": 1746251601,
-      "rank": 37,
-      "category": "电影"
     },
     {
       "raw_hot": 110617,
@@ -1291,6 +1339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102764,
+      "num": 102764,
+      "word": "被场下的樊振东萌化",
+      "onboard_time": 1746253339,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102407,
       "num": 102407,
       "word": "生命树开机杨紫发文",
@@ -1299,16 +1355,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 101514,
-      "num": 101514,
-      "word": "埃文凯尔也去看华晨宇演唱会了",
-      "onboard_time": 1746252981,
-      "rank": 40,
-      "category": "演出"
-    },
-    {
       "raw_hot": 100826,
-      "num": 122713,
+      "num": 245847,
       "word": "原来凤凰传奇里曾毅不会骑马",
       "onboard_time": 1746253160,
       "rank": 33,
@@ -1329,14 +1377,6 @@
       "onboard_time": 1746191551,
       "rank": 32,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 98969,
-      "num": 98969,
-      "word": "胡静和老公教科书式有效沟通",
-      "onboard_time": 1746253759,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 98846,
@@ -1433,14 +1473,6 @@
       "onboard_time": 1746201621,
       "rank": 41,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 94757,
-      "num": 94757,
-      "word": "被场下的樊振东萌化",
-      "onboard_time": 1746253339,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 94218,
@@ -1707,14 +1739,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 71824,
-      "num": 204528,
-      "word": "美国电商平台商品最高涨价377%",
-      "onboard_time": 1746252740,
-      "rank": 18,
-      "category": "海外新闻,财经"
-    },
-    {
       "raw_hot": 71586,
       "num": 206354,
       "word": "梦泪联动无限王者团",
@@ -1891,6 +1915,14 @@
       "category": "国际时政,财经"
     },
     {
+      "raw_hot": 45668,
+      "num": 270307,
+      "word": "WAW人人人人我人人人人",
+      "onboard_time": 1746253942,
+      "rank": 14,
+      "category": "游戏,动漫"
+    },
+    {
       "raw_hot": 44813,
       "num": 46473,
       "word": "景区骆驼坐在护栏边被游客踢踹",
@@ -1939,12 +1971,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 39835,
+      "num": 275588,
+      "word": "KPL梦之队星光见面会",
+      "onboard_time": 1746254421,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 39174,
       "num": 245129,
       "word": "五一人不多也就亿点点",
       "onboard_time": 1746247161,
       "rank": 22,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 34888,
+      "num": 128862,
+      "word": "假期最后一天就是立夏了",
+      "onboard_time": 1746254660,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34104,
@@ -2057,6 +2105,14 @@
       "onboard_time": 1746249683,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 20065,
+      "num": 135900,
+      "word": "胖东来维权之路该如何展开",
+      "onboard_time": 1746254541,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19421,
