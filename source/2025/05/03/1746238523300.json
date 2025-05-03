@@ -1,0 +1,410 @@
+{
+  "runTime": 1746238523300,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 877769,
+        "num": 1140443,
+        "word": "校方回应学生组团狂退60多件裙子",
+        "onboard_time": 1746201321,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 553184,
+        "num": 553184,
+        "word": "日本大爷掉坑处修复还需5到7年",
+        "onboard_time": 1746231680,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 82403,
+        "num": 502808,
+        "word": "五一假期文旅市场井喷式增长",
+        "onboard_time": 1746193832,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 470315,
+        "num": 470315,
+        "word": "前TVB女星在东莞打工求生",
+        "onboard_time": 1746235941,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 433840,
+        "num": 433840,
+        "word": "江一燕房琪淘汰",
+        "onboard_time": 1746232759,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 382614,
+        "num": 382614,
+        "word": "长期喝茶对身体健康有何影响",
+        "onboard_time": 1746235399,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 408528,
+        "num": 353910,
+        "word": "陈丽君争议片段已删除",
+        "onboard_time": 1746200182,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 320605,
+        "num": 320605,
+        "word": "双休制度提案委员王贤才逝世",
+        "onboard_time": 1746231079,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 289550,
+        "num": 289550,
+        "word": "原来躺久了也会消耗气血",
+        "onboard_time": 1746203600,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 98856,
+        "num": 286741,
+        "word": "美国人跨境网购价格贵了发货慢了",
+        "onboard_time": 1746237801,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1006251,
+        "num": 284135,
+        "word": "64岁男子地下室囚禁虐待两姐妹7年",
+        "onboard_time": 1746233120,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 724733,
+        "num": 281156,
+        "word": "黄子韬徐艺洋撕拉片",
+        "onboard_time": 1746228917,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 658303,
+        "num": 275558,
+        "word": "一直对月薪4000没概念直到换成天",
+        "onboard_time": 1746198152,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 557260,
+        "num": 273343,
+        "word": "苏州一直升机坠落致1死4伤",
+        "onboard_time": 1746232399,
+        "rank": 13,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 364753,
+        "num": 268777,
+        "word": "高中生继承5亿遗产结婚当天坠亡",
+        "onboard_time": 1746190950,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268108,
+        "num": 268108,
+        "word": "王力宏演唱会差点掉下舞台",
+        "onboard_time": 1746234860,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 240843,
+        "num": 240843,
+        "word": "吴宣仪陈德容穿婚纱唱爱存在",
+        "onboard_time": 1746236720,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239863,
+        "num": 239863,
+        "word": "全红婵向陈艺文父母打招呼",
+        "onboard_time": 1746234739,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234619,
+        "num": 234619,
+        "word": "马嘉祺破音",
+        "onboard_time": 1746200722,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 6923,
+        "num": 202516,
+        "word": "北京男篮能拿总冠军吗",
+        "onboard_time": 1746237680,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182668,
+        "num": 182668,
+        "word": "美国人正绕过关税打飞的来华购物",
+        "onboard_time": 1746198384,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 181119,
+        "num": 181119,
+        "word": "小婉管乐 天若有情",
+        "onboard_time": 1746231559,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171568,
+        "num": 171568,
+        "word": "杨紫生命树开机plog",
+        "onboard_time": 1746238460,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158474,
+        "num": 158474,
+        "word": "五一假期最后几天多地下雨",
+        "onboard_time": 1746235941,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151404,
+        "num": 151404,
+        "word": "公务员食堂为何成旅游顶流",
+        "onboard_time": 1746234500,
+        "rank": 24,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 150283,
+        "num": 150283,
+        "word": "南大教授回应陈丽君说贾宝玉长孙",
+        "onboard_time": 1746192270,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149897,
+        "num": 149897,
+        "word": "生命树",
+        "onboard_time": 1746236302,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146888,
+        "num": 146888,
+        "word": "游乐园社交为何能成为年轻人新宠",
+        "onboard_time": 1746237859,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132888,
+        "num": 132888,
+        "word": "要和四分之一世纪的春天说再见了",
+        "onboard_time": 1746232399,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71529,
+        "num": 131799,
+        "word": "苏杯中国VS日本",
+        "onboard_time": 1746237139,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131669,
+        "num": 131669,
+        "word": "八段锦全套跟练版来了",
+        "onboard_time": 1746235941,
+        "rank": 30,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 129700,
+        "num": 129700,
+        "word": "医生谈网上配镜存在多重隐患",
+        "onboard_time": 1746237859,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127299,
+        "num": 127299,
+        "word": "山东日照不允许游客挖不到蛤蜊",
+        "onboard_time": 1746195213,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124098,
+        "num": 124098,
+        "word": "歌手谁叫十块钱",
+        "onboard_time": 1746227957,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119679,
+        "num": 119679,
+        "word": "杨乃文说来南京只吃麦当劳",
+        "onboard_time": 1746237499,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 119976,
+        "num": 118158,
+        "word": "陈丽君 贾宝玉",
+        "onboard_time": 1746238220,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116437,
+        "num": 116437,
+        "word": "人人人人人人景点人人人人人人",
+        "onboard_time": 1746190831,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111040,
+        "num": 111040,
+        "word": "五一假期到一半了",
+        "onboard_time": 1746228076,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107289,
+        "num": 107289,
+        "word": "天津航空一航班盘旋14圈才降落",
+        "onboard_time": 1746233540,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34104,
+        "num": 106596,
+        "word": "守护甜心几梦公主抱",
+        "onboard_time": 1746237621,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 106249,
+        "num": 106249,
+        "word": "张云龙演技",
+        "onboard_time": 1746230600,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105572,
+        "num": 105572,
+        "word": "谁家明星自己打车回家",
+        "onboard_time": 1746195872,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105429,
+        "num": 105429,
+        "word": "爸爸用维生素为女儿变出萤火流星雨",
+        "onboard_time": 1746193591,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102239,
+        "num": 102239,
+        "word": "假期建议不要大吃大喝过度补觉",
+        "onboard_time": 1746235941,
+        "rank": 43,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 100203,
+        "num": 100203,
+        "word": "男子开9米加长林肯勇闯皖南川藏线",
+        "onboard_time": 1746235941,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95803,
+        "num": 95803,
+        "word": "养气血就要多往大自然跑",
+        "onboard_time": 1746236541,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 91135,
+        "num": 91135,
+        "word": "五一假期第三天的状态",
+        "onboard_time": 1746234140,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 90716,
+        "num": 90716,
+        "word": "小时候抓周抓的是手机",
+        "onboard_time": 1746238220,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 88344,
+        "num": 88344,
+        "word": "四川芬达愿赔偿杨坤相关直播收益",
+        "onboard_time": 1746237440,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87376,
+        "num": 87376,
+        "word": "小伙被外国人骂秦腔穷霸气回怼",
+        "onboard_time": 1746205938,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#劳动创造幸福奋斗铸就伟业#"
+    }
+  }
+}
