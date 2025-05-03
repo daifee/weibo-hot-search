@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746247455620,
+  "endTime": 1746249884253,
   "band_list": [
     {
       "raw_hot": 3885539,
@@ -651,6 +651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 745860,
+      "num": 745860,
+      "word": "5名中国公民在美国交通事故中遇难",
+      "onboard_time": 1746246142,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 732362,
       "num": 343691,
       "word": "元气森林音乐节 迟到",
@@ -713,6 +721,14 @@
       "onboard_time": 1746100701,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 710949,
+      "num": 710949,
+      "word": "五一的桂林快忙成马六甲了",
+      "onboard_time": 1746243321,
+      "rank": 30,
+      "category": "旅游"
     },
     {
       "raw_hot": 706317,
@@ -987,14 +1003,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 561849,
-      "num": 561849,
-      "word": "五一的桂林快忙成马六甲了",
-      "onboard_time": 1746243321,
-      "rank": 30,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 559258,
       "num": 480572,
       "word": "汪峰曾发文承诺帮毕夏抚养孩子",
@@ -1017,6 +1025,14 @@
       "onboard_time": 1746067520,
       "rank": 23,
       "category": "财经"
+    },
+    {
+      "raw_hot": 551146,
+      "num": 551146,
+      "word": "你一句甲天下 我就堵在了真桂林",
+      "onboard_time": 1746245902,
+      "rank": 34,
+      "category": "旅游"
     },
     {
       "raw_hot": 550932,
@@ -1228,7 +1244,7 @@
     },
     {
       "raw_hot": 468083,
-      "num": 330427,
+      "num": 434738,
       "word": "太湖湾音乐节 激光笔",
       "onboard_time": 1746244941,
       "rank": 23,
@@ -1451,6 +1467,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 417273,
+      "num": 417273,
+      "word": "马斯克得知美国资助项目笑出声",
+      "onboard_time": 1746247881,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 414531,
       "num": 414531,
       "word": "gta6",
@@ -1569,14 +1593,6 @@
       "onboard_time": 1746183990,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 386584,
-      "num": 386584,
-      "word": "5名中国公民在美国交通事故中遇难",
-      "onboard_time": 1746246142,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 383176,
@@ -1825,6 +1841,14 @@
       "onboard_time": 1746106823,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 325298,
+      "num": 482316,
+      "word": "虞书欣夹心摇破百万",
+      "onboard_time": 1746247580,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 324257,
@@ -2515,14 +2539,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 226375,
-      "num": 226375,
-      "word": "你一句甲天下 我就堵在了真桂林",
-      "onboard_time": 1746245902,
-      "rank": 34,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 225594,
       "num": 234901,
       "word": "AXIZ对战WBG",
@@ -2537,6 +2553,14 @@
       "onboard_time": 1746189450,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 224241,
+      "num": 224241,
+      "word": "张智霖袁咏仪视频都在打麻将",
+      "onboard_time": 1746248600,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 223111,
@@ -2577,6 +2601,14 @@
       "onboard_time": 1746149068,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 219280,
+      "num": 214096,
+      "word": "锦月如歌",
+      "onboard_time": 1746249021,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 218913,
@@ -2723,6 +2755,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 205600,
+      "num": 205600,
+      "word": "天降猫咪掉进露天火锅烫伤9人",
+      "onboard_time": 1746248421,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 205203,
       "num": 205203,
       "word": "知道五一人多但没想到人这么多",
@@ -2745,6 +2785,14 @@
       "onboard_time": 1746102382,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204215,
+      "num": 204215,
+      "word": "孟佳淋雨下跪镜头",
+      "onboard_time": 1746249140,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 203947,
@@ -2801,6 +2849,14 @@
       "onboard_time": 1746088582,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 202361,
+      "num": 215319,
+      "word": "李斯丹妮一出场姐姐们哇声一片",
+      "onboard_time": 1746248960,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 202257,
@@ -2881,6 +2937,14 @@
       "onboard_time": 1746199462,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 198857,
+      "num": 198857,
+      "word": "金靖拍的赫丽摸金宇ccd",
+      "onboard_time": 1746249501,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 198845,
@@ -3203,6 +3267,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 191311,
+      "num": 183597,
+      "word": "余宇涵成吴镇宇人形挂件了",
+      "onboard_time": 1746248661,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191264,
       "num": 191264,
       "word": "打开朋友圈我就到了目的地",
@@ -3409,6 +3481,14 @@
       "onboard_time": 1746089542,
       "rank": 29,
       "category": "情感,民生新闻"
+    },
+    {
+      "raw_hot": 187220,
+      "num": 187220,
+      "word": "太湖湾音乐节",
+      "onboard_time": 1746091521,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 187056,
@@ -3619,6 +3699,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 179648,
+      "num": 212189,
+      "word": "石破茂称绝不接受对汽车加征关税",
+      "onboard_time": 1746245301,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 179504,
       "num": 179504,
       "word": "五一",
@@ -3729,14 +3817,6 @@
       "onboard_time": 1746082883,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 172195,
-      "num": 172195,
-      "word": "太湖湾音乐节",
-      "onboard_time": 1746091521,
-      "rank": 45,
-      "category": "演出"
     },
     {
       "raw_hot": 171951,
@@ -4931,6 +5011,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 140529,
+      "num": 140529,
+      "word": "校方建议被恶意退货商家报警",
+      "onboard_time": 1746249261,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140467,
       "num": 140467,
       "word": "smtr25第四季度出道",
@@ -4977,6 +5065,14 @@
       "onboard_time": 1746184291,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 139230,
+      "num": 139230,
+      "word": "金价",
+      "onboard_time": 1746119898,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 138433,
@@ -5201,14 +5297,6 @@
       "onboard_time": 1746076401,
       "rank": 39,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 133787,
-      "num": 133787,
-      "word": "石破茂称绝不接受对汽车加征关税",
-      "onboard_time": 1746245301,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 133464,
@@ -5540,7 +5628,7 @@
     },
     {
       "raw_hot": 127618,
-      "num": 127618,
+      "num": 449091,
       "word": "济南连续25年鸣响防空警报",
       "onboard_time": 1746241699,
       "rank": 33,
@@ -5867,6 +5955,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121368,
+      "num": 121368,
+      "word": "陈雨菲2比1山口茜",
+      "onboard_time": 1746248001,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 121147,
+      "num": 121147,
+      "word": "以闪亮之名",
+      "onboard_time": 1746248061,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 120915,
       "num": 120915,
       "word": "婚礼现场新娘身穿9.9米非遗婚服",
@@ -6145,6 +6249,14 @@
       "onboard_time": 1746199883,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 114030,
+      "num": 114030,
+      "word": "于正说吴谨言本月会复出",
+      "onboard_time": 1746249741,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 113945,
@@ -6635,6 +6747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104003,
+      "num": 104003,
+      "word": "苏杯半决赛中国3比0日本",
+      "onboard_time": 1746247881,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103582,
       "num": 103582,
       "word": "一墙猫",
@@ -6859,6 +6979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97115,
+      "num": 97115,
+      "word": "李嘉琦跳舞气血好足的美",
+      "onboard_time": 1746249561,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 97055,
       "num": 97055,
       "word": "茂凯回应BLG更换教练",
@@ -6929,6 +7057,14 @@
       "onboard_time": 1746093320,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94218,
+      "num": 94218,
+      "word": "王星越版火力全开",
+      "onboard_time": 1746249861,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 93979,
@@ -7419,14 +7555,6 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 75519,
-      "num": 75519,
-      "word": "金价",
-      "onboard_time": 1746119898,
-      "rank": 43,
-      "category": "财经"
-    },
-    {
       "raw_hot": 75067,
       "num": 266620,
       "word": "饿了么把五一补贴成了美食节",
@@ -7585,6 +7713,14 @@
       "onboard_time": 1746165150,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 67334,
+      "num": 205639,
+      "word": "王宗源跳水3米板金牌",
+      "onboard_time": 1746248780,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 67271,
@@ -7979,6 +8115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 49539,
+      "num": 720288,
+      "word": "致敬每一位大国工程建设者",
+      "onboard_time": 1746244341,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 49496,
       "num": 49496,
       "word": "宝宝性别揭晓派对上的意外",
@@ -8137,6 +8281,14 @@
       "onboard_time": 1746056179,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 43762,
+      "num": 439218,
+      "word": "中国队跳水世界杯第6金",
+      "onboard_time": 1746248842,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 43579,
@@ -8579,14 +8731,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 26689,
-      "num": 580281,
-      "word": "致敬每一位大国工程建设者",
-      "onboard_time": 1746244341,
-      "rank": 2,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 26512,
       "num": 26512,
       "word": "劳动节快乐 祝我们劳有所得",
@@ -8857,6 +9001,14 @@
       "onboard_time": 1746241999,
       "rank": 14,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 18866,
+      "num": 205770,
+      "word": "火箭勇士谁将赢下抢七",
+      "onboard_time": 1746249683,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 18174,

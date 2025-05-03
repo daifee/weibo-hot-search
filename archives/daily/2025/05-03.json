@@ -1,6 +1,6 @@
 {
   "startTime": 1746203485460,
-  "endTime": 1746247455620,
+  "endTime": 1746249884253,
   "band_list": [
     {
       "raw_hot": 3458319,
@@ -67,6 +67,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 745860,
+      "num": 745860,
+      "word": "5名中国公民在美国交通事故中遇难",
+      "onboard_time": 1746246142,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 730892,
       "num": 281156,
       "word": "黄子韬徐艺洋撕拉片",
@@ -81,6 +89,14 @@
       "onboard_time": 1746235399,
       "rank": 17,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 710949,
+      "num": 710949,
+      "word": "五一的桂林快忙成马六甲了",
+      "onboard_time": 1746243321,
+      "rank": 30,
+      "category": "旅游"
     },
     {
       "raw_hot": 668438,
@@ -131,20 +147,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 561849,
-      "num": 561849,
-      "word": "五一的桂林快忙成马六甲了",
-      "onboard_time": 1746243321,
-      "rank": 30,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 556673,
       "num": 556673,
       "word": "孙俪晒照为小花妹妹庆生",
       "onboard_time": 1746244100,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 551146,
+      "num": 551146,
+      "word": "你一句甲天下 我就堵在了真桂林",
+      "onboard_time": 1746245902,
+      "rank": 34,
+      "category": "旅游"
     },
     {
       "raw_hot": 548617,
@@ -180,7 +196,7 @@
     },
     {
       "raw_hot": 468083,
-      "num": 330427,
+      "num": 434738,
       "word": "太湖湾音乐节 激光笔",
       "onboard_time": 1746244941,
       "rank": 23,
@@ -219,19 +235,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 417273,
+      "num": 417273,
+      "word": "马斯克得知美国资助项目笑出声",
+      "onboard_time": 1746247881,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 402024,
       "num": 402024,
       "word": "双休制度提案委员王贤才逝世",
       "onboard_time": 1746231079,
       "rank": 4,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 386584,
-      "num": 386584,
-      "word": "5名中国公民在美国交通事故中遇难",
-      "onboard_time": 1746246142,
-      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -265,6 +281,14 @@
       "onboard_time": 1746243079,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 325298,
+      "num": 482316,
+      "word": "虞书欣夹心摇破百万",
+      "onboard_time": 1746247580,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 316773,
@@ -387,12 +411,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 226375,
-      "num": 226375,
-      "word": "你一句甲天下 我就堵在了真桂林",
-      "onboard_time": 1746245902,
-      "rank": 34,
-      "category": "旅游"
+      "raw_hot": 224241,
+      "num": 224241,
+      "word": "张智霖袁咏仪视频都在打麻将",
+      "onboard_time": 1746248600,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 219280,
+      "num": 214096,
+      "word": "锦月如歌",
+      "onboard_time": 1746249021,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 208491,
@@ -401,6 +433,22 @@
       "onboard_time": 1746245180,
       "rank": 21,
       "category": "演出"
+    },
+    {
+      "raw_hot": 205600,
+      "num": 205600,
+      "word": "天降猫咪掉进露天火锅烫伤9人",
+      "onboard_time": 1746248421,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 204215,
+      "num": 204215,
+      "word": "孟佳淋雨下跪镜头",
+      "onboard_time": 1746249140,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 203378,
@@ -427,12 +475,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202361,
+      "num": 215319,
+      "word": "李斯丹妮一出场姐姐们哇声一片",
+      "onboard_time": 1746248960,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199423,
       "num": 199423,
       "word": "张晚意音乐节哭了",
       "onboard_time": 1746195271,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 198857,
+      "num": 198857,
+      "word": "金靖拍的赫丽摸金宇ccd",
+      "onboard_time": 1746249501,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 197796,
@@ -459,6 +523,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 191311,
+      "num": 183597,
+      "word": "余宇涵成吴镇宇人形挂件了",
+      "onboard_time": 1746248661,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189079,
       "num": 243148,
       "word": "王一博献唱五四晚会主题曲",
@@ -483,6 +555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 187220,
+      "num": 187220,
+      "word": "太湖湾音乐节",
+      "onboard_time": 1746248901,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 186330,
       "num": 186330,
       "word": "杨紫生命树开机plog",
@@ -497,6 +577,14 @@
       "onboard_time": 1746235941,
       "rank": 22,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 179648,
+      "num": 212189,
+      "word": "石破茂称绝不接受对汽车加征关税",
+      "onboard_time": 1746245301,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 178953,
@@ -707,6 +795,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 140529,
+      "num": 140529,
+      "word": "校方建议被恶意退货商家报警",
+      "onboard_time": 1746249261,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139230,
+      "num": 139230,
+      "word": "金价",
+      "onboard_time": 1746248780,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 137685,
       "num": 137685,
       "word": "邓超妻子的幸福丈夫的荣耀",
@@ -737,14 +841,6 @@
       "onboard_time": 1746240681,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 133787,
-      "num": 133787,
-      "word": "石破茂称绝不接受对汽车加征关税",
-      "onboard_time": 1746245301,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 133464,
@@ -796,7 +892,7 @@
     },
     {
       "raw_hot": 127618,
-      "num": 127618,
+      "num": 449091,
       "word": "济南连续25年鸣响防空警报",
       "onboard_time": 1746241699,
       "rank": 33,
@@ -867,6 +963,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121368,
+      "num": 121368,
+      "word": "陈雨菲2比1山口茜",
+      "onboard_time": 1746248001,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 121147,
+      "num": 121147,
+      "word": "以闪亮之名",
+      "onboard_time": 1746248061,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 120394,
       "num": 120394,
       "word": "惠英红的愿望是集齐一套奖",
@@ -897,6 +1009,14 @@
       "onboard_time": 1746242180,
       "rank": 43,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 114030,
+      "num": 114030,
+      "word": "于正说吴谨言本月会复出",
+      "onboard_time": 1746249741,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 112465,
@@ -979,6 +1099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104003,
+      "num": 104003,
+      "word": "苏杯半决赛中国3比0日本",
+      "onboard_time": 1746247881,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103868,
       "num": 133550,
       "word": "王珞丹浪姐遭遇信任崩塌",
@@ -1025,6 +1153,14 @@
       "onboard_time": 1746243800,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 97115,
+      "num": 97115,
+      "word": "李嘉琦跳舞气血好足的美",
+      "onboard_time": 1746249561,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 97055,
@@ -1081,6 +1217,14 @@
       "onboard_time": 1746201621,
       "rank": 41,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 94218,
+      "num": 94218,
+      "word": "王星越版火力全开",
+      "onboard_time": 1746249861,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 92383,
@@ -1347,6 +1491,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 67334,
+      "num": 205639,
+      "word": "王宗源跳水3米板金牌",
+      "onboard_time": 1746248780,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 67269,
       "num": 67269,
       "word": "杭州西溪湿地的睡莲开出了油画感",
@@ -1451,6 +1603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 49539,
+      "num": 720288,
+      "word": "致敬每一位大国工程建设者",
+      "onboard_time": 1746244341,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 49496,
       "num": 49496,
       "word": "宝宝性别揭晓派对上的意外",
@@ -1481,6 +1641,14 @@
       "onboard_time": 1746222315,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43762,
+      "num": 439218,
+      "word": "中国队跳水世界杯第6金",
+      "onboard_time": 1746248842,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 43579,
@@ -1563,14 +1731,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 26689,
-      "num": 580281,
-      "word": "致敬每一位大国工程建设者",
-      "onboard_time": 1746244341,
-      "rank": 2,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 26309,
       "num": 49991,
       "word": "美众多鞋类公司将因关税倒闭",
@@ -1641,6 +1801,14 @@
       "onboard_time": 1746241999,
       "rank": 14,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 18866,
+      "num": 205770,
+      "word": "火箭勇士谁将赢下抢七",
+      "onboard_time": 1746249683,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 16537,
