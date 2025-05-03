@@ -1,0 +1,410 @@
+{
+  "runTime": 1746292826610,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 929307,
+        "num": 929307,
+        "word": "马丽回应与沈腾cp被过分关注",
+        "onboard_time": 1746288501,
+        "rank": 0,
+        "category": "电影,艺人"
+      },
+      {
+        "raw_hot": 886935,
+        "num": 886935,
+        "word": "meiko",
+        "onboard_time": 1746288021,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 43598,
+        "num": 702961,
+        "word": "五一假期文旅市场有哪些新亮点",
+        "onboard_time": 1746282504,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 551013,
+        "num": 551013,
+        "word": "霍思燕一家与贾乃亮一家出游",
+        "onboard_time": 1746277583,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 362149,
+        "num": 362149,
+        "word": "女生手机自动连上酒店WiFi被分手",
+        "onboard_time": 1746272901,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 345775,
+        "num": 345775,
+        "word": "医院回应女生输头孢过敏离世",
+        "onboard_time": 1746289461,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 316325,
+        "num": 316325,
+        "word": "iG",
+        "onboard_time": 1746288021,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 269047,
+        "num": 269047,
+        "word": "这居然是华晨宇",
+        "onboard_time": 1746278904,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 229301,
+        "num": 229301,
+        "word": "三个月瘦了32斤的侧脸变化",
+        "onboard_time": 1746272480,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 205771,
+        "num": 205771,
+        "word": "真正的刘耀文进行曲",
+        "onboard_time": 1746289520,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 288402,
+        "num": 205665,
+        "word": "欧尼熊 可心",
+        "onboard_time": 1746269962,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 276719,
+        "num": 205550,
+        "word": "全红婵老家建120平别墅",
+        "onboard_time": 1746282743,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205194,
+        "num": 205194,
+        "word": "刘诗诗说我不会想做淮竹也不会想做珈蓝",
+        "onboard_time": 1746286343,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166666,
+        "num": 166666,
+        "word": "抖音回应胖东来投诉柴怼怼",
+        "onboard_time": 1746288801,
+        "rank": 13,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 149344,
+        "num": 149344,
+        "word": "灵隐寺260万年租金的小卖部",
+        "onboard_time": 1746263601,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147605,
+        "num": 147605,
+        "word": "哈里王子想与英国王室和解",
+        "onboard_time": 1746284841,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 145074,
+        "num": 145074,
+        "word": "马嘉祺严浩翔贺峻霖舞台可爱",
+        "onboard_time": 1746288741,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 144795,
+        "num": 144795,
+        "word": "淮水竹亭编剧 殿前欢",
+        "onboard_time": 1746281485,
+        "rank": 17,
+        "category": "综艺,剧集"
+      },
+      {
+        "raw_hot": 125915,
+        "num": 125915,
+        "word": "最后一批中国商品免关税货船本周入美",
+        "onboard_time": 1746286162,
+        "rank": 18,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 106142,
+        "num": 125394,
+        "word": "西安雷雨夜空现条状不明物",
+        "onboard_time": 1746270501,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 601713,
+        "num": 123701,
+        "word": "大一女生输头孢过敏离世",
+        "onboard_time": 1746284604,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204901,
+        "num": 122209,
+        "word": "工藤新一第31个17岁",
+        "onboard_time": 1746291738,
+        "rank": 21,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 138209,
+        "num": 120254,
+        "word": "特朗普把自己P成了教皇",
+        "onboard_time": 1746277342,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 118962,
+        "num": 118962,
+        "word": "不体面却赚钱的工作",
+        "onboard_time": 1746269781,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117777,
+        "num": 117777,
+        "word": "歌手2025",
+        "onboard_time": 1746275783,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115434,
+        "num": 115434,
+        "word": "歌手2025全民举荐",
+        "onboard_time": 1746287901,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91077,
+        "num": 108472,
+        "word": "中国驻日本大使向日方提出严正交涉",
+        "onboard_time": 1746286282,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 62148,
+        "num": 107805,
+        "word": "你可以永远相信青春的力量",
+        "onboard_time": 1746290600,
+        "rank": 27,
+        "category": "民生新闻,情感"
+      },
+      {
+        "raw_hot": 107712,
+        "num": 107712,
+        "word": "张云龙回复沈月",
+        "onboard_time": 1746289940,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82579,
+        "num": 99108,
+        "word": "女子爱上ChatGPT要与丈夫离婚",
+        "onboard_time": 1746273202,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 95765,
+        "num": 95765,
+        "word": "张杰的毛坯人生精装朋友圈",
+        "onboard_time": 1746271821,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 88940,
+        "num": 88940,
+        "word": "任嘉伦音乐节",
+        "onboard_time": 1746276983,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 85608,
+        "num": 85608,
+        "word": "女生输头孢过敏离世父亲发声",
+        "onboard_time": 1746286821,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81696,
+        "num": 81696,
+        "word": "越来越看不懂上海面包店了",
+        "onboard_time": 1746280164,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 78456,
+        "num": 78456,
+        "word": "欧尼熊出轨澄清",
+        "onboard_time": 1746279205,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 75962,
+        "num": 75962,
+        "word": "时代少年团海口演唱会",
+        "onboard_time": 1746273202,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 73430,
+        "num": 73430,
+        "word": "TES对战IG",
+        "onboard_time": 1746282205,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 73365,
+        "num": 73365,
+        "word": "32岁儿子辞职照顾2岁的妈妈",
+        "onboard_time": 1746276501,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 70987,
+        "num": 70987,
+        "word": "陈奕迅终于在妈生地唱了富士山下",
+        "onboard_time": 1746282085,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 69508,
+        "num": 69508,
+        "word": "武契奇因病中断访美",
+        "onboard_time": 1746287842,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 68454,
+        "num": 68454,
+        "word": "翔霖",
+        "onboard_time": 1746270082,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 63454,
+        "num": 63454,
+        "word": "沈月 戴上面具顺眼很多",
+        "onboard_time": 1746277221,
+        "rank": 41,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 61405,
+        "num": 61405,
+        "word": "周深连发三条安全第一",
+        "onboard_time": 1746284124,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 59042,
+        "num": 61396,
+        "word": "异瞳男生回应不到一个月涨粉200万",
+        "onboard_time": 1746278305,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58034,
+        "num": 61373,
+        "word": "时代少年团die for you",
+        "onboard_time": 1746282085,
+        "rank": 44,
+        "category": "演出,音乐"
+      },
+      {
+        "raw_hot": 57866,
+        "num": 61364,
+        "word": "莱比锡3比3拜仁",
+        "onboard_time": 1746289461,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57397,
+        "num": 61352,
+        "word": "吴宣仪和大学生合唱无悔当下",
+        "onboard_time": 1746288383,
+        "rank": 46,
+        "category": "综艺,演出"
+      },
+      {
+        "raw_hot": 53950,
+        "num": 61330,
+        "word": "街头劝架的丁禹兮",
+        "onboard_time": 1746267621,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53111,
+        "num": 61310,
+        "word": "陈芋汐世界杯夺冠",
+        "onboard_time": 1746269781,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49665,
+        "num": 61302,
+        "word": "吴艳妮创100米栏个人赛季最佳",
+        "onboard_time": 1746283045,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的青春寄语#"
+    }
+  }
+}
