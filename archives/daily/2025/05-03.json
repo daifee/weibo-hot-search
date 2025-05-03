@@ -1,6 +1,6 @@
 {
   "startTime": 1746203485460,
-  "endTime": 1746241726364,
+  "endTime": 1746242729572,
   "band_list": [
     {
       "raw_hot": 1286235,
@@ -33,6 +33,14 @@
       "onboard_time": 1746200722,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 947016,
+      "num": 1151522,
+      "word": "石凯聊天记录",
+      "onboard_time": 1746241760,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 877769,
@@ -83,20 +91,20 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 628808,
+      "num": 1092719,
+      "word": "前TVB女星在东莞打工求生",
+      "onboard_time": 1746235941,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 591783,
       "num": 912202,
       "word": "原来躺久了也会消耗气血",
       "onboard_time": 1746203600,
       "rank": 30,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 579495,
-      "num": 1092719,
-      "word": "前TVB女星在东莞打工求生",
-      "onboard_time": 1746235941,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 548617,
@@ -115,12 +123,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 536673,
+      "num": 432095,
+      "word": "陈丽君 贾宝玉",
+      "onboard_time": 1746238220,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 512125,
       "num": 512125,
       "word": "美国人正绕过关税打飞的来华购物",
       "onboard_time": 1746198384,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 506176,
+      "num": 506176,
+      "word": "三亚多名游客与向导失散困海中1小时",
+      "onboard_time": 1746240740,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 464342,
@@ -163,12 +187,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 332577,
-      "num": 245791,
-      "word": "陈丽君 贾宝玉",
-      "onboard_time": 1746238220,
-      "rank": 35,
-      "category": "演出"
+      "raw_hot": 327580,
+      "num": 251913,
+      "word": "倪虹洁身材好辣",
+      "onboard_time": 1746241760,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 308894,
@@ -177,6 +201,14 @@
       "onboard_time": 1746197373,
       "rank": 4,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 306751,
+      "num": 268108,
+      "word": "王力宏演唱会差点掉下舞台",
+      "onboard_time": 1746234860,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 304702,
@@ -195,12 +227,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 287042,
-      "num": 268108,
-      "word": "王力宏演唱会差点掉下舞台",
-      "onboard_time": 1746234860,
-      "rank": 23,
-      "category": "演出"
+      "raw_hot": 299320,
+      "num": 299320,
+      "word": "南京大屠杀幸存者刘贵祥去世",
+      "onboard_time": 1746240501,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 285021,
@@ -235,12 +267,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 233778,
-      "num": 233778,
-      "word": "南京大屠杀幸存者刘贵祥去世",
-      "onboard_time": 1746240501,
-      "rank": 8,
-      "category": "国内时政"
+      "raw_hot": 251122,
+      "num": 205126,
+      "word": "谁家剧一次集齐四个疯批",
+      "onboard_time": 1746240980,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 233464,
@@ -259,20 +291,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203378,
+      "num": 203378,
+      "word": "杨紫雪山开机图",
+      "onboard_time": 1746241819,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202751,
       "num": 194429,
       "word": "假期建议不要大吃大喝过度补觉",
       "onboard_time": 1746235941,
       "rank": 45,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 200058,
-      "num": 200058,
-      "word": "谁家剧一次集齐四个疯批",
-      "onboard_time": 1746240980,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 199423,
@@ -371,6 +403,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 164025,
+      "num": 164025,
+      "word": "许嵩 今年巡演最北城市是天津",
+      "onboard_time": 1746242119,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 160594,
+      "num": 233618,
+      "word": "当地介入调查钟乳石被刻字事件",
+      "onboard_time": 1746240621,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158474,
       "num": 235987,
       "word": "五一假期最后几天多地下雨",
@@ -467,6 +515,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136264,
+      "num": 136264,
+      "word": "美多地爆发大规模抗议活动",
+      "onboard_time": 1746241699,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 135126,
+      "num": 218938,
+      "word": "3岁男童疑遭虐待案最新进展",
+      "onboard_time": 1746240681,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133464,
+      "num": 187816,
+      "word": "五一假期到一半了",
+      "onboard_time": 1746228076,
+      "rank": 32,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 132888,
       "num": 132888,
       "word": "要和四分之一世纪的春天说再见了",
@@ -499,12 +571,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 125306,
-      "num": 125306,
-      "word": "美多地爆发大规模抗议活动",
-      "onboard_time": 1746241699,
-      "rank": 34,
-      "category": "国际时政"
+      "raw_hot": 125018,
+      "num": 125018,
+      "word": "全红婵说身高体重增加只能更努力练",
+      "onboard_time": 1746238999,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 123145,
@@ -531,14 +603,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 114952,
-      "num": 187816,
-      "word": "五一假期到一半了",
-      "onboard_time": 1746228076,
-      "rank": 32,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 112465,
       "num": 254193,
       "word": "浏阳烟花正向魔法方向发展",
@@ -561,6 +625,14 @@
       "onboard_time": 1746198384,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 108890,
+      "num": 108890,
+      "word": "张云龙自控式演技",
+      "onboard_time": 1746242301,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 108855,
@@ -611,6 +683,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102625,
+      "num": 102625,
+      "word": "美国重大旅行车祸有中国公民伤亡",
+      "onboard_time": 1746242180,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 102407,
+      "num": 102407,
+      "word": "生命树开机杨紫发文",
+      "onboard_time": 1746242540,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99897,
       "num": 99897,
       "word": "长期大量喝奶茶当心伤肾",
@@ -625,6 +713,14 @@
       "onboard_time": 1746199462,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 97055,
+      "num": 97055,
+      "word": "茂凯回应BLG更换教练",
+      "onboard_time": 1746241880,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 96938,
@@ -673,6 +769,14 @@
       "onboard_time": 1746201621,
       "rank": 41,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 93500,
+      "num": 93500,
+      "word": "泰山陪爬小伙2天挣了近2000元",
+      "onboard_time": 1746242599,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92383,
@@ -724,7 +828,7 @@
     },
     {
       "raw_hot": 88344,
-      "num": 92243,
+      "num": 206723,
       "word": "四川芬达愿赔偿杨坤相关直播收益",
       "onboard_time": 1746237440,
       "rank": 48,
@@ -745,6 +849,14 @@
       "onboard_time": 1746163710,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 86259,
+      "num": 86259,
+      "word": "敖瑞鹏跳舞新装的四肢",
+      "onboard_time": 1746242660,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 86103,
@@ -777,14 +889,6 @@
       "onboard_time": 1746203839,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 81714,
-      "num": 81714,
-      "word": "全红婵说身高体重增加只能更努力练",
-      "onboard_time": 1746238999,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 81286,
@@ -883,6 +987,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 71586,
+      "num": 206354,
+      "word": "梦泪联动无限王者团",
+      "onboard_time": 1746241999,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 71529,
       "num": 131799,
       "word": "苏杯中国VS日本",
@@ -929,14 +1041,6 @@
       "onboard_time": 1746203779,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 62351,
-      "num": 233618,
-      "word": "当地介入调查钟乳石被刻字事件",
-      "onboard_time": 1746240621,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 61868,
@@ -995,14 +1099,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 50469,
-      "num": 217023,
-      "word": "三亚多名游客与向导失散困海中1小时",
-      "onboard_time": 1746240740,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 49496,
       "num": 49496,
       "word": "宝宝性别揭晓派对上的意外",
@@ -1057,14 +1153,6 @@
       "onboard_time": 1746237621,
       "rank": 39,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 32199,
-      "num": 218938,
-      "word": "3岁男童疑遭虐待案最新进展",
-      "onboard_time": 1746240681,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 31426,
@@ -1155,6 +1243,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 19421,
+      "num": 248102,
+      "word": "为什么有人一放假就生病",
+      "onboard_time": 1746241999,
+      "rank": 14,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 16537,
       "num": 20701,
       "word": "周洁琼好权威的美貌",
@@ -1177,6 +1273,14 @@
       "onboard_time": 1746219914,
       "rank": 9,
       "category": "民生新闻,科学科普"
+    },
+    {
+      "raw_hot": 14320,
+      "num": 205854,
+      "word": "职场生存法则中最关键的原则是什么",
+      "onboard_time": 1746242479,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 12780,
