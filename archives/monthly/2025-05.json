@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746238523300,
+  "endTime": 1746241726364,
   "band_list": [
     {
       "raw_hot": 3885539,
@@ -643,6 +643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 726379,
+      "num": 382614,
+      "word": "长期喝茶对身体健康有何影响",
+      "onboard_time": 1746235399,
+      "rank": 17,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 721651,
       "num": 389735,
       "word": "福建一隧道4辆车发生事故",
@@ -907,6 +915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 579495,
+      "num": 1092719,
+      "word": "前TVB女星在东莞打工求生",
+      "onboard_time": 1746235941,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 579260,
       "num": 234513,
       "word": "涉肖某董某事件多个账号被禁言",
@@ -1147,14 +1163,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 470315,
-      "num": 470315,
-      "word": "前TVB女星在东莞打工求生",
-      "onboard_time": 1746235941,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 470234,
       "num": 470234,
       "word": "不用为无忧渡大结局意难平了",
@@ -1171,12 +1179,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 464342,
+      "num": 464342,
+      "word": "多国零售商停止向美发货",
+      "onboard_time": 1746238879,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 463548,
       "num": 301684,
       "word": "章泽天杨天真不丹徒步",
       "onboard_time": 1746188969,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 461296,
+      "num": 461296,
+      "word": "吴宣仪陈德容穿婚纱唱爱存在",
+      "onboard_time": 1746236720,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 459790,
@@ -1475,14 +1499,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 382614,
-      "num": 382614,
-      "word": "长期喝茶对身体健康有何影响",
-      "onboard_time": 1746235399,
-      "rank": 17,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 381330,
       "num": 295018,
       "word": "饶毅再发文谈协和4加4制度",
@@ -1641,6 +1657,14 @@
       "onboard_time": 1746158009,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 332577,
+      "num": 245791,
+      "word": "陈丽君 贾宝玉",
+      "onboard_time": 1746238220,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 331811,
@@ -1819,6 +1843,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 304702,
+      "num": 286741,
+      "word": "美国人跨境网购价格贵了发货慢了",
+      "onboard_time": 1746237801,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 303476,
       "num": 107312,
       "word": "孩子再卷也比不上作弊的",
@@ -1947,6 +1979,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 287042,
+      "num": 268108,
+      "word": "王力宏演唱会差点掉下舞台",
+      "onboard_time": 1746234860,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 286664,
       "num": 417437,
       "word": "黄子弘凡以为撕拉片是吃的",
@@ -2033,14 +2073,6 @@
       "onboard_time": 1746198742,
       "rank": 20,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 268108,
-      "num": 268108,
-      "word": "王力宏演唱会差点掉下舞台",
-      "onboard_time": 1746234860,
-      "rank": 23,
-      "category": "演出"
     },
     {
       "raw_hot": 267966,
@@ -2259,14 +2291,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 240843,
-      "num": 240843,
-      "word": "吴宣仪陈德容穿婚纱唱爱存在",
-      "onboard_time": 1746236720,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 239280,
       "num": 239280,
       "word": "宋亚轩刘耀文偷偷藏不住",
@@ -2281,6 +2305,14 @@
       "onboard_time": 1746105322,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 233778,
+      "num": 233778,
+      "word": "南京大屠杀幸存者刘贵祥去世",
+      "onboard_time": 1746240501,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 233497,
@@ -2595,6 +2627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202751,
+      "num": 194429,
+      "word": "假期建议不要大吃大喝过度补觉",
+      "onboard_time": 1746235941,
+      "rank": 45,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 202636,
       "num": 202636,
       "word": "翔霖",
@@ -2656,6 +2696,14 @@
       "word": "杨紫第一部大女主探案剧",
       "onboard_time": 1746022643,
       "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 200058,
+      "num": 200058,
+      "word": "谁家剧一次集齐四个疯批",
+      "onboard_time": 1746240980,
+      "rank": 22,
       "category": "剧集"
     },
     {
@@ -3131,6 +3179,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 188459,
+      "num": 188459,
+      "word": "养猫后发现自己会是很糟糕的父母",
+      "onboard_time": 1746241699,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 188254,
       "num": 188254,
       "word": "严浩翔 染发",
@@ -3240,6 +3296,14 @@
       "word": "王权弘业有妻徒刑",
       "onboard_time": 1746181828,
       "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 186330,
+      "num": 186330,
+      "word": "杨紫生命树开机plog",
+      "onboard_time": 1746238460,
+      "rank": 22,
       "category": "剧集"
     },
     {
@@ -3521,14 +3585,6 @@
       "onboard_time": 1746057319,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 171568,
-      "num": 171568,
-      "word": "杨紫生命树开机plog",
-      "onboard_time": 1746238460,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 171541,
@@ -4313,6 +4369,14 @@
       "onboard_time": 1746198982,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 147323,
+      "num": 147323,
+      "word": "马龙苏州世乒赛夺冠十周年",
+      "onboard_time": 1746241699,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 147114,
@@ -5163,6 +5227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127618,
+      "num": 127618,
+      "word": "济南连续25年鸣响防空警报",
+      "onboard_time": 1746241699,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127571,
       "num": 127571,
       "word": "程潇直拍",
@@ -5289,6 +5361,14 @@
       "onboard_time": 1746023484,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 125306,
+      "num": 125306,
+      "word": "美多地爆发大规模抗议活动",
+      "onboard_time": 1746241699,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 125136,
@@ -5459,6 +5539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120394,
+      "num": 120394,
+      "word": "惠英红的愿望是集齐一套奖",
+      "onboard_time": 1746240621,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 120244,
       "num": 120244,
       "word": "陈艺文昌雅妮世界杯3米板夺金",
@@ -5481,14 +5569,6 @@
       "onboard_time": 1746092121,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 119976,
-      "num": 118158,
-      "word": "陈丽君 贾宝玉",
-      "onboard_time": 1746238220,
-      "rank": 35,
-      "category": "演出"
     },
     {
       "raw_hot": 119679,
@@ -5683,6 +5763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114952,
+      "num": 187816,
+      "word": "五一假期到一半了",
+      "onboard_time": 1746228076,
+      "rank": 32,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 114426,
       "num": 114426,
       "word": "美国4月非农高于预期",
@@ -5697,14 +5785,6 @@
       "onboard_time": 1746199883,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 113988,
-      "num": 187816,
-      "word": "五一假期到一半了",
-      "onboard_time": 1746228076,
-      "rank": 32,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 113945,
@@ -6091,6 +6171,14 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 106662,
+      "num": 106662,
+      "word": "格林放倒格林",
+      "onboard_time": 1746241639,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106590,
       "num": 106590,
       "word": "韩德君 退役",
@@ -6193,14 +6281,6 @@
       "onboard_time": 1746182069,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 102239,
-      "num": 102239,
-      "word": "假期建议不要大吃大喝过度补觉",
-      "onboard_time": 1746235941,
-      "rank": 45,
-      "category": "科学科普"
     },
     {
       "raw_hot": 102228,
@@ -6329,14 +6409,6 @@
       "onboard_time": 1746185070,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 98856,
-      "num": 286741,
-      "word": "美国人跨境网购价格贵了发货慢了",
-      "onboard_time": 1746237801,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 98550,
@@ -6580,7 +6652,7 @@
     },
     {
       "raw_hot": 88344,
-      "num": 88344,
+      "num": 92243,
       "word": "四川芬达愿赔偿杨坤相关直播收益",
       "onboard_time": 1746237440,
       "rank": 48,
@@ -6593,6 +6665,14 @@
       "onboard_time": 1746187109,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 88168,
+      "num": 88168,
+      "word": "giselle时尚表现力",
+      "onboard_time": 1746237080,
+      "rank": 44,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 87372,
@@ -6739,6 +6819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 81714,
+      "num": 81714,
+      "word": "全红婵说身高体重增加只能更努力练",
+      "onboard_time": 1746238999,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 81556,
       "num": 87903,
       "word": "血糖高血压高血脂高哪个更危险",
@@ -6849,6 +6937,14 @@
       "onboard_time": 1746114141,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 76685,
+      "num": 227576,
+      "word": "王子奇翻过这座山他们就会听见你的故事",
+      "onboard_time": 1746240139,
+      "rank": 16,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 76681,
@@ -7163,6 +7259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 62351,
+      "num": 233618,
+      "word": "当地介入调查钟乳石被刻字事件",
+      "onboard_time": 1746240621,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61868,
       "num": 61868,
       "word": "男人以为买跑车的效果vs实际上的",
@@ -7393,6 +7497,14 @@
       "onboard_time": 1746220935,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 50469,
+      "num": 217023,
+      "word": "三亚多名游客与向导失散困海中1小时",
+      "onboard_time": 1746240740,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50293,
@@ -7856,6 +7968,14 @@
       "word": "工作人员回应给游客撒蛤蜊",
       "onboard_time": 1746130813,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32199,
+      "num": 218938,
+      "word": "3岁男童疑遭虐待案最新进展",
+      "onboard_time": 1746240681,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -8561,6 +8681,14 @@
       "onboard_time": 1746221114,
       "rank": 49,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 10676,
+      "num": 222725,
+      "word": "大风杀凭什么能在五一档逆袭",
+      "onboard_time": 1746241279,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 10478,
