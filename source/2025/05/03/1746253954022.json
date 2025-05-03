@@ -1,0 +1,410 @@
+{
+  "runTime": 1746253954022,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1612659,
+        "num": 1612659,
+        "word": "五三惨案",
+        "onboard_time": 1746242841,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1247384,
+        "num": 1247384,
+        "word": "校方就退60件演出服事件道歉",
+        "onboard_time": 1746250101,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43773,
+        "num": 934823,
+        "word": "致敬每一位大国工程建设者",
+        "onboard_time": 1746244341,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 762262,
+        "num": 762262,
+        "word": "校方建议被恶意退货商家报警",
+        "onboard_time": 1746249261,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 643110,
+        "num": 643110,
+        "word": "孙颖莎 嘉人",
+        "onboard_time": 1746251601,
+        "rank": 4,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 463653,
+        "num": 463653,
+        "word": "这竟然是黄奕",
+        "onboard_time": 1746250402,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 452396,
+        "num": 452396,
+        "word": "五一的桂林快忙成马六甲了",
+        "onboard_time": 1746243321,
+        "rank": 6,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 333590,
+        "num": 333590,
+        "word": "你一句甲天下 我就堵在了真桂林",
+        "onboard_time": 1746245902,
+        "rank": 7,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 323225,
+        "num": 323225,
+        "word": "虞书欣夹心摇破百万",
+        "onboard_time": 1746247580,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125941,
+        "num": 302927,
+        "word": "校方承诺回收60件被退演出服",
+        "onboard_time": 1746252860,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1215982,
+        "num": 301909,
+        "word": "石凯聊天记录",
+        "onboard_time": 1746241760,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300070,
+        "num": 300070,
+        "word": "5名中国公民在美国交通事故中遇难",
+        "onboard_time": 1746246142,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284711,
+        "num": 284711,
+        "word": "马斯克得知美国资助项目笑出声",
+        "onboard_time": 1746247881,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 264496,
+        "num": 264496,
+        "word": "孙俪晒照为小花妹妹庆生",
+        "onboard_time": 1746244100,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243191,
+        "num": 243191,
+        "word": "泰山陪爬小伙2天挣了近2000元",
+        "onboard_time": 1746242599,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242310,
+        "num": 242310,
+        "word": "叶童银发狼尾造型",
+        "onboard_time": 1746252142,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239388,
+        "num": 239388,
+        "word": "锦月如歌",
+        "onboard_time": 1746249021,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205224,
+        "num": 205224,
+        "word": "邓超妈妈辛苦爱你小花爸爸好帅",
+        "onboard_time": 1746252021,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71824,
+        "num": 204528,
+        "word": "美国电商平台商品最高涨价377%",
+        "onboard_time": 1746252740,
+        "rank": 18,
+        "category": "海外新闻,财经"
+      },
+      {
+        "raw_hot": 10701,
+        "num": 203364,
+        "word": "水饺皇后中的角色是如何展现独立精神的",
+        "onboard_time": 1746253281,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 231909,
+        "num": 202477,
+        "word": "荷兰露天男厕",
+        "onboard_time": 1746251242,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 117923,
+        "num": 201016,
+        "word": "交警称9米长林肯是钻空子上山",
+        "onboard_time": 1746253461,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200976,
+        "num": 200976,
+        "word": "金价",
+        "onboard_time": 1746248780,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 189689,
+        "num": 189689,
+        "word": "齐思钧在浪姐真心换真心",
+        "onboard_time": 1746252981,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186742,
+        "num": 186742,
+        "word": "原来100元可以买这么多东西",
+        "onboard_time": 1746250820,
+        "rank": 24,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 185334,
+        "num": 185334,
+        "word": "五哈你就宠陈赫吧",
+        "onboard_time": 1746252620,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179685,
+        "num": 179685,
+        "word": "天降猫咪掉进露天火锅烫伤9人",
+        "onboard_time": 1746248421,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170120,
+        "num": 170120,
+        "word": "陈德容四公练到下一个天亮",
+        "onboard_time": 1746252801,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161314,
+        "num": 161314,
+        "word": "张智霖袁咏仪视频都在打麻将",
+        "onboard_time": 1746248600,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102813,
+        "num": 148241,
+        "word": "东方淮竹你看清楚我不是她",
+        "onboard_time": 1746252740,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143577,
+        "num": 143577,
+        "word": "女子整理发霉衣柜后高烧40度",
+        "onboard_time": 1746243079,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143213,
+        "num": 143213,
+        "word": "于正说吴谨言本月会复出",
+        "onboard_time": 1746249741,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123949,
+        "num": 123949,
+        "word": "陈德容 歌词玄学",
+        "onboard_time": 1746251902,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100826,
+        "num": 122713,
+        "word": "原来凤凰传奇里曾毅不会骑马",
+        "onboard_time": 1746253160,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122309,
+        "num": 122309,
+        "word": "吴宣仪陈德容穿婚纱唱爱存在",
+        "onboard_time": 1746236720,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121099,
+        "num": 121099,
+        "word": "江一燕房琪淘汰",
+        "onboard_time": 1746232759,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111781,
+        "num": 111781,
+        "word": "摩羯座越是喜欢越谨慎",
+        "onboard_time": 1746252319,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111010,
+        "num": 111010,
+        "word": "邓家佳有种气血很足的美",
+        "onboard_time": 1746251601,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 104185,
+        "num": 104185,
+        "word": "欠200万老赖冒用身份坐高铁被拘5日",
+        "onboard_time": 1746245301,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103763,
+        "num": 103763,
+        "word": "陈卓璇梦回创造营",
+        "onboard_time": 1746252501,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 101514,
+        "num": 101514,
+        "word": "埃文凯尔也去看华晨宇演唱会了",
+        "onboard_time": 1746252981,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 100409,
+        "num": 100409,
+        "word": "日本称1万亿美债是谈判工具",
+        "onboard_time": 1746250101,
+        "rank": 41,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 98969,
+        "num": 98969,
+        "word": "胡静和老公教科书式有效沟通",
+        "onboard_time": 1746253759,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98538,
+        "num": 98538,
+        "word": "马嘉祺宋亚轩 阿楚姑娘",
+        "onboard_time": 1746252021,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 97162,
+        "num": 97162,
+        "word": "胡歌生命树开机照",
+        "onboard_time": 1746251181,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96224,
+        "num": 96224,
+        "word": "陈丽君争议片段已删除",
+        "onboard_time": 1746200182,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 96140,
+        "num": 96140,
+        "word": "把米饭溶解了",
+        "onboard_time": 1746250701,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 94757,
+        "num": 94757,
+        "word": "被场下的樊振东萌化",
+        "onboard_time": 1746253339,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91744,
+        "num": 91744,
+        "word": "校方回应学生组团狂退60多件裙子",
+        "onboard_time": 1746201321,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91592,
+        "num": 91592,
+        "word": "严浩翔贺峻霖 双人舞台",
+        "onboard_time": 1746245180,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#把造福人民作为根本价值取向#"
+    }
+  }
+}
