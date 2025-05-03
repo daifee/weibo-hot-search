@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746297119334,
+  "endTime": 1746297888188,
   "band_list": [
     {
       "raw_hot": 3885539,
@@ -8107,6 +8107,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 117541,
+      "num": 117541,
+      "word": "大叔25年卖600万个鸡蛋饼挣4套房",
+      "onboard_time": 1746295756,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117165,
       "num": 117165,
       "word": "GTA6延期至明年",
@@ -9811,6 +9819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75861,
+      "num": 75861,
+      "word": "成都太古里偶遇丁禹兮",
+      "onboard_time": 1746294976,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 75714,
       "num": 115993,
       "word": "回看张雪峰视频让人感慨万千",
@@ -10107,14 +10123,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 64630,
-      "num": 64630,
-      "word": "成都太古里偶遇丁禹兮",
-      "onboard_time": 1746294976,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 64111,
       "num": 1088661,
       "word": "全球游客共赏大美中国",
@@ -10193,14 +10201,6 @@
       "onboard_time": 1746227418,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 61125,
-      "num": 106556,
-      "word": "大叔25年卖600万个鸡蛋饼挣4套房",
-      "onboard_time": 1746295756,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 60617,
@@ -11345,6 +11345,14 @@
       "onboard_time": 1746123016,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 24878,
+      "num": 32939,
+      "word": "2025LPL第二赛段",
+      "onboard_time": 1746297736,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 24657,

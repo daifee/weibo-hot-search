@@ -1,6 +1,6 @@
 {
   "startTime": 1746289726292,
-  "endTime": 1746297119334,
+  "endTime": 1746297888188,
   "band_list": [
     {
       "raw_hot": 1397208,
@@ -331,6 +331,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 117541,
+      "num": 117541,
+      "word": "大叔25年卖600万个鸡蛋饼挣4套房",
+      "onboard_time": 1746295756,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115531,
       "num": 115531,
       "word": "网红柴怼怼被禁止发布作品",
@@ -427,8 +435,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 64630,
-      "num": 64630,
+      "raw_hot": 75861,
+      "num": 75861,
       "word": "成都太古里偶遇丁禹兮",
       "onboard_time": 1746294976,
       "rank": 18,
@@ -440,14 +448,6 @@
       "word": "五一假期文旅市场有哪些新亮点",
       "onboard_time": 1746282504,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 61125,
-      "num": 106556,
-      "word": "大叔25年卖600万个鸡蛋饼挣4套房",
-      "onboard_time": 1746295756,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -489,6 +489,14 @@
       "onboard_time": 1746297076,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 24878,
+      "num": 32939,
+      "word": "2025LPL第二赛段",
+      "onboard_time": 1746297736,
+      "rank": 48,
+      "category": "电竞"
     }
   ],
   "hotgov_list": [
