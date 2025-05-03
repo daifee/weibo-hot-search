@@ -1,6 +1,6 @@
 {
   "startTime": 1746289726292,
-  "endTime": 1746300999803,
+  "endTime": 1746303941599,
   "band_list": [
     {
       "raw_hot": 1397208,
@@ -371,6 +371,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 98345,
+      "num": 98345,
+      "word": "女子决定离婚再和AI男友举办婚礼",
+      "onboard_time": 1746300915,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96350,
       "num": 96350,
       "word": "吴艳妮创100米栏个人赛季最佳",
@@ -547,12 +555,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 15425,
-      "num": 24668,
-      "word": "女子决定离婚再和AI男友举办婚礼",
-      "onboard_time": 1746300915,
-      "rank": 40,
-      "category": "民生新闻"
+      "raw_hot": 18209,
+      "num": 50361,
+      "word": "美国学生8月返校可能买不到书包",
+      "onboard_time": 1746302894,
+      "rank": 9,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [
