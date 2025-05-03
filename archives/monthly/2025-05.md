@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/05/01 00:31:41 ~ 2025/05/04 02:44:48
+本榜单时间：2025/05/01 00:31:41 ~ 2025/05/04 03:19:10
 </p>
 </blockquote>
 <p>
@@ -5733,6 +5733,12 @@ COA8年度评选（热度：126049）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%8F%9425%E5%B9%B4%E5%8D%96600%E4%B8%87%E4%B8%AA%E9%B8%A1%E8%9B%8B%E9%A5%BC%E6%8C%A34%E5%A5%97%E6%88%BF%23" target="weibo">
+大叔25年卖600万个鸡蛋饼挣4套房（热度：125849）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%9B%A8%E8%8F%B22%E6%AF%941%E5%B1%B1%E5%8F%A3%E8%8C%9C%23" target="weibo">
 陈雨菲2比1山口茜（热度：125791）
 </a>
@@ -6005,12 +6011,6 @@ NIP官宣Solokill加入（热度：123644）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9%23" target="weibo">
 斗破苍穹（热度：118883）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E5%9B%BD%E5%BC%BA230%E7%A7%92%E9%9D%A2%E8%AF%95%E7%BB%99%E6%AF%95%E4%B8%9A%E7%94%9F%E4%BA%BF%E7%82%B9%E9%9C%87%E6%92%BC%23" target="weibo">
-唐国强230秒面试给毕业生亿点震撼（热度：118804）
 </a>
 </li>
 
