@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746276249386,
+  "endTime": 1746277203872,
   "band_list": [
     {
       "raw_hot": 3885539,
@@ -59,6 +59,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1926786,
+      "num": 1926786,
+      "word": "女生手机自动连上酒店WiFi被分手",
+      "onboard_time": 1746272901,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1893893,
       "num": 1893893,
       "word": "董某外公为外籍院士米耀荣系谣言",
@@ -89,14 +97,6 @@
       "onboard_time": 1746269781,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1775115,
-      "num": 1775115,
-      "word": "女生手机自动连上酒店WiFi被分手",
-      "onboard_time": 1746272901,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1720327,
@@ -531,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 965972,
+      "num": 965972,
+      "word": "三个月瘦了32斤的侧脸变化",
+      "onboard_time": 1746272480,
+      "rank": 3,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 953917,
       "num": 953917,
       "word": "半个娱乐圈都在大风杀",
@@ -619,6 +627,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 888124,
+      "num": 888124,
+      "word": "时代少年团演唱会节目单",
+      "onboard_time": 1746274645,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
       "raw_hot": 886067,
       "num": 966840,
       "word": "男性注射避孕药一次至少管2年",
@@ -673,14 +689,6 @@
       "onboard_time": 1746088163,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 813264,
-      "num": 813264,
-      "word": "三个月瘦了32斤的侧脸变化",
-      "onboard_time": 1746272480,
-      "rank": 3,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 809164,
@@ -1243,14 +1251,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 539175,
-      "num": 539175,
-      "word": "时代少年团演唱会节目单",
-      "onboard_time": 1746274645,
-      "rank": 5,
-      "category": "演出"
-    },
-    {
       "raw_hot": 536673,
       "num": 432095,
       "word": "陈丽君 贾宝玉",
@@ -1521,6 +1521,14 @@
       "onboard_time": 1746236720,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 460250,
+      "num": 180807,
+      "word": "32岁儿子辞职照顾2岁的妈妈",
+      "onboard_time": 1746276501,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 459790,
@@ -2339,6 +2347,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 306607,
+      "num": 274230,
+      "word": "歌手2025",
+      "onboard_time": 1746275783,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 306092,
       "num": 306092,
       "word": "苏新皓红海",
@@ -2843,6 +2859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 248285,
+      "num": 279191,
+      "word": "女子爱上ChatGPT要与丈夫离婚",
+      "onboard_time": 1746273202,
+      "rank": 25,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 247900,
       "num": 275310,
       "word": "于东来发文捍卫道德底线",
@@ -2987,6 +3011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 229130,
+      "num": 229130,
+      "word": "文轩",
+      "onboard_time": 1746273442,
+      "rank": 23,
+      "category": "演出,作品衍生"
+    },
+    {
       "raw_hot": 228403,
       "num": 228403,
       "word": "长期大量喝奶茶当心伤肾",
@@ -3075,20 +3107,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 221357,
+      "num": 275365,
+      "word": "商洛漂流翻船游客险被割喉",
+      "onboard_time": 1746275183,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 220468,
       "num": 220468,
       "word": "simon edg",
       "onboard_time": 1746198384,
       "rank": 26,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 220085,
-      "num": 220085,
-      "word": "文轩",
-      "onboard_time": 1746273442,
-      "rank": 23,
-      "category": "演出,作品衍生"
     },
     {
       "raw_hot": 219632,
@@ -3363,6 +3395,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 203461,
+      "num": 203461,
+      "word": "大屏里的时代少年团",
+      "onboard_time": 1746276202,
+      "rank": 46,
+      "category": "演出,作品衍生"
+    },
+    {
       "raw_hot": 203378,
       "num": 203378,
       "word": "杨紫雪山开机图",
@@ -3409,14 +3449,6 @@
       "onboard_time": 1746185250,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 202256,
-      "num": 202256,
-      "word": "女子爱上ChatGPT要与丈夫离婚",
-      "onboard_time": 1746273202,
-      "rank": 25,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 201093,
@@ -3481,6 +3513,14 @@
       "onboard_time": 1746063020,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199799,
+      "num": 199799,
+      "word": "宋亚轩喂失恋循环solo舞台",
+      "onboard_time": 1746276923,
+      "rank": 26,
+      "category": "音乐,演出"
     },
     {
       "raw_hot": 199705,
@@ -3659,6 +3699,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 196007,
+      "num": 196007,
+      "word": "重返未来1999",
+      "onboard_time": 1746275663,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 195821,
       "num": 195821,
       "word": "王安宇cha了时团新歌",
@@ -3801,6 +3849,14 @@
       "onboard_time": 1746184591,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192911,
+      "num": 192911,
+      "word": "导演郭少雄逝世",
+      "onboard_time": 1746276681,
+      "rank": 28,
+      "category": "艺人,电影"
     },
     {
       "raw_hot": 192779,
@@ -3977,6 +4033,14 @@
       "onboard_time": 1746103041,
       "rank": 33,
       "category": "动漫,电影"
+    },
+    {
+      "raw_hot": 189385,
+      "num": 189385,
+      "word": "万物盛开法则",
+      "onboard_time": 1746276562,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 189146,
@@ -4371,12 +4435,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 179154,
+      "num": 179154,
+      "word": "张真源唱跳万花镜",
+      "onboard_time": 1746276923,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 178953,
       "num": 166850,
       "word": "赵心童世锦赛决赛中国第2人",
       "onboard_time": 1746226637,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178709,
+      "num": 178709,
+      "word": "任嘉伦音乐节",
+      "onboard_time": 1746276983,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 178371,
@@ -4571,6 +4651,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 170773,
+      "num": 170773,
+      "word": "上海超级芒果音乐节",
+      "onboard_time": 1746276022,
+      "rank": 43,
+      "category": "音乐,演出"
+    },
+    {
       "raw_hot": 170591,
       "num": 170591,
       "word": "管乐侯佩岑撒娇女人最好命",
@@ -4611,14 +4699,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 169494,
-      "num": 169494,
-      "word": "重返未来1999",
-      "onboard_time": 1746275663,
-      "rank": 30,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 169223,
       "num": 174916,
       "word": "前有锅姨后有报班姐",
@@ -4641,6 +4721,14 @@
       "onboard_time": 1746078501,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167762,
+      "num": 167762,
+      "word": "全红婵跳水10米台亚军",
+      "onboard_time": 1746277162,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 167542,
@@ -4801,14 +4889,6 @@
       "onboard_time": 1746166710,
       "rank": 44,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 164888,
-      "num": 164888,
-      "word": "歌手2025",
-      "onboard_time": 1746275783,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 164822,
@@ -5140,7 +5220,7 @@
     },
     {
       "raw_hot": 157048,
-      "num": 157048,
+      "num": 179681,
       "word": "日民用飞机侵闯我钓鱼岛领空",
       "onboard_time": 1746271821,
       "rank": 37,
@@ -5265,6 +5345,14 @@
       "onboard_time": 1746196533,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154747,
+      "num": 377660,
+      "word": "三亚缺斤少两商贩被罚5万元",
+      "onboard_time": 1746275601,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 154683,
@@ -6611,14 +6699,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 128908,
-      "num": 128908,
-      "word": "上海超级芒果音乐节",
-      "onboard_time": 1746276022,
-      "rank": 43,
-      "category": "音乐,演出"
-    },
-    {
       "raw_hot": 128899,
       "num": 128899,
       "word": "张峻豪比心",
@@ -6995,14 +7075,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 124009,
-      "num": 124009,
-      "word": "大屏里的时代少年团",
-      "onboard_time": 1746276202,
-      "rank": 46,
-      "category": "演出,作品衍生"
-    },
-    {
       "raw_hot": 123949,
       "num": 123949,
       "word": "陈德容 歌词玄学",
@@ -7073,6 +7145,14 @@
       "onboard_time": 1746062602,
       "rank": 45,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 122688,
+      "num": 122688,
+      "word": "刘耀文无袖solo舞台",
+      "onboard_time": 1746277162,
+      "rank": 49,
+      "category": "演出,音乐"
     },
     {
       "raw_hot": 122669,
@@ -8267,14 +8347,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 99396,
-      "num": 377660,
-      "word": "三亚缺斤少两商贩被罚5万元",
-      "onboard_time": 1746275601,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 99174,
       "num": 99174,
       "word": "邓超世面都见过这种人没见过",
@@ -8449,6 +8521,14 @@
       "onboard_time": 1746201621,
       "rank": 41,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 94912,
+      "num": 189897,
+      "word": "陈芋汐完美626C",
+      "onboard_time": 1746276081,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 94727,
@@ -9291,14 +9371,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 64696,
-      "num": 151760,
-      "word": "陈芋汐完美626C",
-      "onboard_time": 1746276081,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 64111,
       "num": 1088661,
       "word": "全球游客共赏大美中国",
@@ -9347,6 +9419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 63013,
+      "num": 167773,
+      "word": "向鱼和蓝色好适配",
+      "onboard_time": 1746277162,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 62803,
       "num": 62803,
       "word": "娜扎33岁生日照",
@@ -9385,6 +9465,14 @@
       "onboard_time": 1746263119,
       "rank": 28,
       "category": "电竞,动漫"
+    },
+    {
+      "raw_hot": 60507,
+      "num": 185171,
+      "word": "九尾青春男大",
+      "onboard_time": 1746276803,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 60387,
@@ -9513,14 +9601,6 @@
       "onboard_time": 1746262880,
       "rank": 14,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 54037,
-      "num": 275365,
-      "word": "商洛漂流翻船游客险被割喉",
-      "onboard_time": 1746275183,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 54027,
@@ -10603,6 +10683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 22217,
+      "num": 330044,
+      "word": "WAW现场惊现高颜值coser",
+      "onboard_time": 1746273682,
+      "rank": 14,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 22158,
       "num": 22158,
       "word": "刘宇宁单手拿麦好帅",
@@ -10633,14 +10721,6 @@
       "onboard_time": 1746249683,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 21223,
-      "num": 330044,
-      "word": "WAW现场惊现高颜值coser",
-      "onboard_time": 1746273682,
-      "rank": 14,
-      "category": "动漫"
     },
     {
       "raw_hot": 21210,
@@ -10697,6 +10777,14 @@
       "onboard_time": 1746254541,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19949,
+      "num": 167809,
+      "word": "全红婵说满意今天表现",
+      "onboard_time": 1746277102,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 19938,
@@ -10817,6 +10905,14 @@
       "onboard_time": 1746115161,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16905,
+      "num": 167939,
+      "word": "水的张力",
+      "onboard_time": 1746276022,
+      "rank": 39,
+      "category": "科学科普,民生新闻"
     },
     {
       "raw_hot": 16628,
@@ -10977,14 +11073,6 @@
       "onboard_time": 1746071240,
       "rank": 39,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 13421,
-      "num": 132578,
-      "word": "水的张力",
-      "onboard_time": 1746276022,
-      "rank": 39,
-      "category": "科学科普,民生新闻"
     },
     {
       "raw_hot": 13205,
