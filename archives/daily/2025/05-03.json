@@ -1,6 +1,6 @@
 {
   "startTime": 1746203485460,
-  "endTime": 1746277203872,
+  "endTime": 1746278978054,
   "band_list": [
     {
       "raw_hot": 3458319,
@@ -25,6 +25,14 @@
       "onboard_time": 1746272901,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1812738,
+      "num": 850262,
+      "word": "霍思燕一家与贾乃亮一家出游",
+      "onboard_time": 1746277583,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1779258,
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 1248061,
-      "num": 377632,
+      "num": 410316,
       "word": "欧尼熊 可心",
       "onboard_time": 1746269962,
       "rank": 13,
@@ -89,6 +97,14 @@
       "onboard_time": 1746198152,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1088399,
+      "num": 1088399,
+      "word": "32岁儿子辞职照顾2岁的妈妈",
+      "onboard_time": 1746276501,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 1075778,
@@ -379,6 +395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 516443,
+      "num": 408089,
+      "word": "文轩",
+      "onboard_time": 1746273442,
+      "rank": 23,
+      "category": "演出,作品衍生"
+    },
+    {
       "raw_hot": 512125,
       "num": 512125,
       "word": "美国人正绕过关税打飞的来华购物",
@@ -393,6 +417,14 @@
       "onboard_time": 1746264562,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 485772,
+      "num": 485772,
+      "word": "女子爱上ChatGPT要与丈夫离婚",
+      "onboard_time": 1746273202,
+      "rank": 25,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 485348,
@@ -459,14 +491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 460250,
-      "num": 180807,
-      "word": "32岁儿子辞职照顾2岁的妈妈",
-      "onboard_time": 1746276501,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 451056,
       "num": 451056,
       "word": "欠200万老赖冒用身份坐高铁被拘5日",
@@ -481,6 +505,14 @@
       "onboard_time": 1746269781,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 438472,
+      "num": 438472,
+      "word": "马嘉祺solo",
+      "onboard_time": 1746277764,
+      "rank": 8,
+      "category": "演出,音乐"
     },
     {
       "raw_hot": 429331,
@@ -595,6 +627,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 362268,
+      "num": 362268,
+      "word": "歌手2025",
+      "onboard_time": 1746275783,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 359481,
+      "num": 412532,
+      "word": "特朗普把自己P成了教皇",
+      "onboard_time": 1746277342,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 356658,
       "num": 356658,
       "word": "上千名游客深夜滞留张家界大喊退票",
@@ -689,14 +737,6 @@
       "onboard_time": 1746234860,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 306607,
-      "num": 274230,
-      "word": "歌手2025",
-      "onboard_time": 1746275783,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 304702,
@@ -795,6 +835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 271504,
+      "num": 271504,
+      "word": "导演郭少雄逝世",
+      "onboard_time": 1746276681,
+      "rank": 28,
+      "category": "艺人,电影"
+    },
+    {
       "raw_hot": 270067,
       "num": 270067,
       "word": "荷兰露天男厕",
@@ -843,14 +891,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 248285,
-      "num": 279191,
-      "word": "女子爱上ChatGPT要与丈夫离婚",
-      "onboard_time": 1746273202,
-      "rank": 25,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 247900,
       "num": 275310,
       "word": "于东来发文捍卫道德底线",
@@ -883,6 +923,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 236213,
+      "num": 236213,
+      "word": "任嘉伦音乐节",
+      "onboard_time": 1746276983,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 233464,
       "num": 233464,
       "word": "福建一隧道4辆车发生事故",
@@ -907,20 +955,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 230165,
+      "num": 230165,
+      "word": "沈月 戴上面具顺眼很多",
+      "onboard_time": 1746277221,
+      "rank": 27,
+      "category": "剧集,艺人"
+    },
+    {
       "raw_hot": 229190,
       "num": 229190,
       "word": "谁家明星自己打车回家",
       "onboard_time": 1746195872,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 229130,
-      "num": 229130,
-      "word": "文轩",
-      "onboard_time": 1746273442,
-      "rank": 23,
-      "category": "演出,作品衍生"
     },
     {
       "raw_hot": 227046,
@@ -939,12 +987,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 223821,
+      "num": 223821,
+      "word": "异瞳男生回应不到一个月涨粉200万",
+      "onboard_time": 1746278305,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 221357,
       "num": 275365,
       "word": "商洛漂流翻船游客险被割喉",
       "onboard_time": 1746275183,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 219394,
+      "num": 219394,
+      "word": "全红婵跳水10米台亚军",
+      "onboard_time": 1746277162,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 218297,
@@ -1017,6 +1081,14 @@
       "onboard_time": 1746265942,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204587,
+      "num": 204587,
+      "word": "安洗莹vs瓦尔达尼",
+      "onboard_time": 1746278844,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 204215,
@@ -1147,12 +1219,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 192911,
-      "num": 192911,
-      "word": "导演郭少雄逝世",
-      "onboard_time": 1746276681,
-      "rank": 28,
-      "category": "艺人,电影"
+      "raw_hot": 193633,
+      "num": 193633,
+      "word": "爱久见人心",
+      "onboard_time": 1746277583,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 192621,
@@ -1161,6 +1233,14 @@
       "onboard_time": 1746252801,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192597,
+      "num": 194401,
+      "word": "王源音乐节造型",
+      "onboard_time": 1746277883,
+      "rank": 33,
+      "category": "演出,综艺"
     },
     {
       "raw_hot": 191311,
@@ -1339,14 +1419,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 178709,
-      "num": 178709,
-      "word": "任嘉伦音乐节",
-      "onboard_time": 1746276983,
-      "rank": 36,
-      "category": "演出"
-    },
-    {
       "raw_hot": 177385,
       "num": 177385,
       "word": "沈月赵一博看哥嫂亲热戏红温了",
@@ -1443,14 +1515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 167762,
-      "num": 167762,
-      "word": "全红婵跳水10米台亚军",
-      "onboard_time": 1746277162,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 166855,
       "num": 166855,
       "word": "十个勤天给大棚过生日",
@@ -1473,6 +1537,14 @@
       "onboard_time": 1746250820,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 166260,
+      "num": 166260,
+      "word": "刘耀文无袖solo舞台",
+      "onboard_time": 1746277162,
+      "rank": 49,
+      "category": "演出,音乐"
     },
     {
       "raw_hot": 166216,
@@ -1659,6 +1731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152399,
+      "num": 152399,
+      "word": "严浩翔捂脸wink饭撒",
+      "onboard_time": 1746277342,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 152003,
       "num": 170677,
       "word": "九尾漫展牛仔造型",
@@ -1707,6 +1787,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 149280,
+      "num": 149280,
+      "word": "西安雷雨夜空现条状不明物",
+      "onboard_time": 1746270501,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149014,
       "num": 149014,
       "word": "檀健次跳蒙娜丽莎直拍",
@@ -1721,6 +1809,14 @@
       "onboard_time": 1746245239,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148493,
+      "num": 148493,
+      "word": "此沙的长寿面被吐槽像马吃的",
+      "onboard_time": 1746278724,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 147478,
@@ -1777,14 +1873,6 @@
       "onboard_time": 1746230600,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 145127,
-      "num": 140546,
-      "word": "西安雷雨夜空现条状不明物",
-      "onboard_time": 1746270501,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 144707,
@@ -1889,6 +1977,14 @@
       "onboard_time": 1746262761,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137875,
+      "num": 137875,
+      "word": "DRG对战RW",
+      "onboard_time": 1746275421,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 137685,
@@ -2059,12 +2155,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 128613,
-      "num": 128613,
-      "word": "DRG对战RW",
-      "onboard_time": 1746275421,
-      "rank": 44,
-      "category": "电竞"
+      "raw_hot": 128857,
+      "num": 128857,
+      "word": "原来跳化仙池可以不是因为恨",
+      "onboard_time": 1746278364,
+      "rank": 46,
+      "category": "剧集,作品衍生"
     },
     {
       "raw_hot": 128469,
@@ -2219,14 +2315,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 122688,
-      "num": 122688,
-      "word": "刘耀文无袖solo舞台",
-      "onboard_time": 1746277162,
-      "rank": 49,
-      "category": "演出,音乐"
-    },
-    {
       "raw_hot": 122669,
       "num": 122669,
       "word": "太原飞三亚一航班出现机械故障",
@@ -2241,6 +2329,14 @@
       "onboard_time": 1746269841,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121683,
+      "num": 121683,
+      "word": "严浩翔海口演唱会大屏",
+      "onboard_time": 1746278904,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 121147,
@@ -2353,6 +2449,14 @@
       "onboard_time": 1746268880,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 115425,
+      "num": 115425,
+      "word": "这居然是华晨宇",
+      "onboard_time": 1746278904,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 114884,
@@ -3164,7 +3268,7 @@
     },
     {
       "raw_hot": 60507,
-      "num": 185171,
+      "num": 255643,
       "word": "九尾青春男大",
       "onboard_time": 1746276803,
       "rank": 31,
@@ -3331,12 +3435,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44582,
+      "num": 381668,
+      "word": "苹果公司因美关税政策受损",
+      "onboard_time": 1746278184,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 44384,
       "num": 243579,
       "word": "王嘉尔MM2首个舞台唱的哪首歌",
       "onboard_time": 1746264080,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 44263,
+      "num": 258538,
+      "word": "多位泰山陪爬员称五一接单少于平时",
+      "onboard_time": 1746278605,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43762,
