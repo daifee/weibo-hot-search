@@ -1,6 +1,6 @@
 {
   "startTime": 1746289726292,
-  "endTime": 1746307327095,
+  "endTime": 1746308189849,
   "band_list": [
     {
       "raw_hot": 1397208,
@@ -467,6 +467,14 @@
       "category": "民生新闻,国内时政"
     },
     {
+      "raw_hot": 45322,
+      "num": 45322,
+      "word": "王大陆找黑道查个人信息被起诉",
+      "onboard_time": 1746306914,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 39475,
       "num": 64721,
       "word": "北京草莓音乐节",
@@ -475,20 +483,20 @@
       "category": "演出,音乐"
     },
     {
+      "raw_hot": 39011,
+      "num": 39011,
+      "word": "连云港连岛回应大量飞虫是无害食蚜蝇",
+      "onboard_time": 1746304216,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37309,
       "num": 64682,
       "word": "陈立农直播",
       "onboard_time": 1746293838,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 36746,
-      "num": 36746,
-      "word": "连云港连岛回应大量飞虫是无害食蚜蝇",
-      "onboard_time": 1746304216,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 34824,
@@ -547,14 +555,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 21721,
-      "num": 21721,
-      "word": "王大陆找黑道查个人信息被起诉",
-      "onboard_time": 1746306914,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 20112,
       "num": 24620,
       "word": "和登陆少年解锁无畏新地图",
@@ -579,12 +579,20 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 14092,
-      "num": 19429,
+      "raw_hot": 18246,
+      "num": 20061,
       "word": "第一次见粉丝把明星整红温了",
       "onboard_time": 1746303975,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 14430,
+      "num": 44764,
+      "word": "重庆警方通报一男子点燃自驾摩托车",
+      "onboard_time": 1746306796,
+      "rank": 10,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 10818,
@@ -595,12 +603,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 10056,
-      "num": 44764,
-      "word": "重庆警方通报一男子点燃自驾摩托车",
-      "onboard_time": 1746306796,
-      "rank": 10,
-      "category": "辟谣/通报"
+      "raw_hot": 9544,
+      "num": 20044,
+      "word": "异瞳少年治沙本意是不想让爸爸受累",
+      "onboard_time": 1746307994,
+      "rank": 49,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
