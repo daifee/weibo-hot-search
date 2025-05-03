@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1746265089929,
+  "endTime": 1746267874616,
   "band_list": [
     {
       "raw_hot": 8960529,
@@ -433,6 +433,14 @@
       "onboard_time": 1746085281,
       "rank": 0,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 1657654,
+      "num": 1657654,
+      "word": "灵隐寺260万年租金的小卖部",
+      "onboard_time": 1746263601,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1650777,
@@ -1139,6 +1147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1075778,
+      "num": 1075778,
+      "word": "9米长林肯车主致歉",
+      "onboard_time": 1746262701,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1073385,
       "num": 1073385,
       "word": "辛拉面",
@@ -1281,6 +1297,14 @@
       "onboard_time": 1746181288,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1028366,
+      "num": 1028366,
+      "word": "马夫",
+      "onboard_time": 1746262820,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1025303,
@@ -1699,14 +1723,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 817216,
-      "num": 817216,
-      "word": "9米长林肯车主致歉",
-      "onboard_time": 1746262701,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 811954,
       "num": 696066,
       "word": "协和医学院的医学博士发声",
@@ -1969,14 +1985,6 @@
       "onboard_time": 1746258740,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 759133,
-      "num": 759133,
-      "word": "马夫",
-      "onboard_time": 1746262820,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 757736,
@@ -2329,6 +2337,14 @@
       "onboard_time": 1745986822,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 681265,
+      "num": 681265,
+      "word": "女儿94分被爸爸泼冷水1招反击",
+      "onboard_time": 1746265581,
+      "rank": 6,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 680208,
@@ -3683,6 +3699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 476337,
+      "num": 476337,
+      "word": "王力宏是捅了人窝了吧",
+      "onboard_time": 1746265700,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 476005,
       "num": 476005,
       "word": "刘诗诗连破两次平台首日纪录",
@@ -4931,14 +4955,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 359763,
-      "num": 158342,
-      "word": "灵隐寺260万年租金的小卖部",
-      "onboard_time": 1746263601,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 358669,
       "num": 376568,
       "word": "三问肖飞董袭莹事件",
@@ -5121,6 +5137,14 @@
       "onboard_time": 1745935644,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 340159,
+      "num": 340159,
+      "word": "高圆圆自拍哇声一片",
+      "onboard_time": 1746265942,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 339595,
@@ -6187,6 +6211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 278113,
+      "num": 744355,
+      "word": "ChinaShopping在美国火了",
+      "onboard_time": 1746263119,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 277917,
       "num": 263253,
       "word": "捡个脸盆被记9分断了多根肋骨",
@@ -6499,6 +6531,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 264134,
+      "num": 264134,
+      "word": "高会直播",
+      "onboard_time": 1746264562,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 264131,
       "num": 469324,
       "word": "全是情绪 毫无价值",
@@ -6545,6 +6585,14 @@
       "onboard_time": 1746085881,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 261623,
+      "num": 261623,
+      "word": "用已逝女友起号这段太真实了",
+      "onboard_time": 1746267021,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 261493,
@@ -6952,6 +7000,14 @@
       "word": "村里让办8万丧事才帮老人开死亡证明",
       "onboard_time": 1745926282,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 247900,
+      "num": 275310,
+      "word": "于东来发文捍卫道德底线",
+      "onboard_time": 1746261560,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -8131,6 +8187,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 207321,
+      "num": 207321,
+      "word": "为考博熬夜10天进icu",
+      "onboard_time": 1746266121,
+      "rank": 22,
+      "category": "情感,民生新闻"
+    },
+    {
       "raw_hot": 207276,
       "num": 207276,
       "word": "十三州府",
@@ -8481,6 +8545,14 @@
       "onboard_time": 1745971641,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 202971,
+      "num": 202971,
+      "word": "华晨宇演唱会超绝人头数",
+      "onboard_time": 1746266782,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 202751,
@@ -8971,6 +9043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196639,
+      "num": 196639,
+      "word": "95生四顶",
+      "onboard_time": 1746267801,
+      "rank": 26,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 196636,
       "num": 196636,
       "word": "甲状腺超声导致的过度诊断",
@@ -9041,14 +9121,6 @@
       "onboard_time": 1746092361,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 194906,
-      "num": 668143,
-      "word": "ChinaShopping在美国火了",
-      "onboard_time": 1746263119,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 194840,
@@ -10747,6 +10819,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 174585,
+      "num": 174585,
+      "word": "街头劝架的丁禹兮",
+      "onboard_time": 1746267621,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174539,
       "num": 174539,
       "word": "丁禹兮给孟子义打光",
@@ -10985,14 +11065,6 @@
       "onboard_time": 1746165390,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 170719,
-      "num": 275310,
-      "word": "于东来发文捍卫道德底线",
-      "onboard_time": 1746261560,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 170645,
@@ -12411,6 +12483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155695,
+      "num": 155695,
+      "word": "楚后",
+      "onboard_time": 1746266421,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155571,
       "num": 192954,
       "word": "怎么还有人低估王一博演技",
@@ -12625,6 +12705,14 @@
       "onboard_time": 1746149489,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 153308,
+      "num": 153308,
+      "word": "AG春决逐鹿中原",
+      "onboard_time": 1746267743,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 153199,
@@ -13283,6 +13371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 146522,
+      "num": 158354,
+      "word": "连云港连岛虫子泛滥引游客吐槽",
+      "onboard_time": 1746262460,
+      "rank": 30,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 146514,
       "num": 342718,
       "word": "yeri签约新公司",
@@ -13592,6 +13688,14 @@
       "word": "男子电梯内突遭无人看管凶犬扑咬",
       "onboard_time": 1745973501,
       "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143964,
+      "num": 158587,
+      "word": "3小伙泰山顶呼呼大睡错过看日出",
+      "onboard_time": 1746264862,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -14132,7 +14236,7 @@
     },
     {
       "raw_hot": 138520,
-      "num": 138520,
+      "num": 154422,
       "word": "诚C漫展松弛感",
       "onboard_time": 1746265040,
       "rank": 40,
@@ -14201,6 +14305,14 @@
       "onboard_time": 1746164370,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137974,
+      "num": 337902,
+      "word": "女子以死做局分饰7角骗走男友7万",
+      "onboard_time": 1746262761,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137894,
@@ -14451,6 +14563,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 136374,
+      "num": 138987,
+      "word": "成人牙齿再生或将实现",
+      "onboard_time": 1746264742,
+      "rank": 39,
+      "category": "科学科普,民生新闻"
+    },
+    {
       "raw_hot": 136183,
       "num": 159044,
       "word": "男子偷盗刮刮乐刮出1550元",
@@ -14697,14 +14817,6 @@
       "onboard_time": 1745748622,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 133110,
-      "num": 133110,
-      "word": "高会直播",
-      "onboard_time": 1746264562,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 133028,
@@ -15491,6 +15603,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 126686,
+      "num": 126686,
+      "word": "华晨宇自曝体脂率",
+      "onboard_time": 1746267743,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126668,
       "num": 126668,
       "word": "王源5.1还有惊喜",
@@ -15505,6 +15625,14 @@
       "onboard_time": 1746242660,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126586,
+      "num": 121683,
+      "word": "时代少年团棒球服",
+      "onboard_time": 1746265101,
+      "rank": 48,
+      "category": "演出,艺人"
     },
     {
       "raw_hot": 126584,
@@ -15723,14 +15851,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 124349,
-      "num": 124349,
-      "word": "女子以死做局分饰7角骗走男友7万",
-      "onboard_time": 1746262761,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 124233,
       "num": 124233,
       "word": "葱花原来真的是花",
@@ -15859,6 +15979,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 122669,
+      "num": 122669,
+      "word": "太原飞三亚一航班出现机械故障",
+      "onboard_time": 1746265401,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122599,
       "num": 122599,
       "word": "无尽的尽头",
@@ -15953,14 +16081,6 @@
       "onboard_time": 1745711659,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 121758,
-      "num": 158354,
-      "word": "连云港连岛虫子泛滥引游客吐槽",
-      "onboard_time": 1746262460,
-      "rank": 30,
-      "category": "旅游"
     },
     {
       "raw_hot": 121632,
@@ -16249,6 +16369,14 @@
       "onboard_time": 1746161790,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118721,
+      "num": 118721,
+      "word": "Cryin谈Bin赛后发博引争议",
+      "onboard_time": 1746266121,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 118655,
@@ -16745,6 +16873,14 @@
       "onboard_time": 1746264981,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 113206,
+      "num": 153508,
+      "word": "全红婵收获全场首个10分",
+      "onboard_time": 1746267743,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 113199,
@@ -17537,6 +17673,14 @@
       "onboard_time": 1746062602,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105594,
+      "num": 308871,
+      "word": "掉进火锅猫咪已送医取名51",
+      "onboard_time": 1746266841,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105529,
@@ -19075,6 +19219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86631,
+      "num": 235850,
+      "word": "男子网吧里针灸后差点憋死被送ICU",
+      "onboard_time": 1746266841,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86347,
       "num": 331752,
       "word": "AG闯进漫展新赛道",
@@ -19140,7 +19292,7 @@
     },
     {
       "raw_hot": 85828,
-      "num": 804646,
+      "num": 1042447,
       "word": "五一假期多地打造文旅消费新场景",
       "onboard_time": 1746261440,
       "rank": 2,
@@ -19529,14 +19681,6 @@
       "onboard_time": 1745846002,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 80522,
-      "num": 138987,
-      "word": "成人牙齿再生或将实现",
-      "onboard_time": 1746264742,
-      "rank": 39,
-      "category": "科学科普,民生新闻"
     },
     {
       "raw_hot": 80297,
@@ -19928,14 +20072,6 @@
       "word": "成都一律师被指多次用复合弓虐猫",
       "onboard_time": 1745945897,
       "rank": 24,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 74442,
-      "num": 158587,
-      "word": "3小伙泰山顶呼呼大睡错过看日出",
-      "onboard_time": 1746264862,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -22971,6 +23107,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 28892,
+      "num": 168293,
+      "word": "花十几万跟团去科考游值吗",
+      "onboard_time": 1746267260,
+      "rank": 29,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 28700,
       "num": 363109,
       "word": "吴艳妮回应钻石联赛表现",
@@ -22985,6 +23129,14 @@
       "onboard_time": 1746246080,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 28438,
+      "num": 144346,
+      "word": "多架土耳其战机出现在叙利亚",
+      "onboard_time": 1746267201,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 28328,
@@ -23921,6 +24073,14 @@
       "onboard_time": 1746241999,
       "rank": 14,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 19294,
+      "num": 155498,
+      "word": "节后A股走势如何研判",
+      "onboard_time": 1746267681,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 19286,

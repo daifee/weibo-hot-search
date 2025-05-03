@@ -1,0 +1,410 @@
+{
+  "runTime": 1746267874616,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1657654,
+        "num": 1657654,
+        "word": "灵隐寺260万年租金的小卖部",
+        "onboard_time": 1746263601,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1075778,
+        "num": 1075778,
+        "word": "9米长林肯车主致歉",
+        "onboard_time": 1746262701,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81113,
+        "num": 1042447,
+        "word": "五一假期多地打造文旅消费新场景",
+        "onboard_time": 1746261440,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1028366,
+        "num": 1028366,
+        "word": "马夫",
+        "onboard_time": 1746262820,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 820069,
+        "num": 820069,
+        "word": "五三惨案",
+        "onboard_time": 1746242841,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 278113,
+        "num": 744355,
+        "word": "ChinaShopping在美国火了",
+        "onboard_time": 1746263119,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 681265,
+        "num": 681265,
+        "word": "女儿94分被爸爸泼冷水1招反击",
+        "onboard_time": 1746265581,
+        "rank": 6,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 476337,
+        "num": 476337,
+        "word": "王力宏是捅了人窝了吧",
+        "onboard_time": 1746265700,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 455327,
+        "num": 455327,
+        "word": "于东来与网红互怼怒称要退圈",
+        "onboard_time": 1746257181,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 439753,
+        "num": 439753,
+        "word": "胡静一家吃饭各吃各的",
+        "onboard_time": 1746260961,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 567165,
+        "num": 400637,
+        "word": "石凯聊天记录",
+        "onboard_time": 1746241760,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 340159,
+        "num": 340159,
+        "word": "高圆圆自拍哇声一片",
+        "onboard_time": 1746265942,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137974,
+        "num": 337902,
+        "word": "女子以死做局分饰7角骗走男友7万",
+        "onboard_time": 1746262761,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 336187,
+        "num": 336187,
+        "word": "兜儿否认拿烟头烫小猪先生",
+        "onboard_time": 1746259400,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 105594,
+        "num": 308871,
+        "word": "掉进火锅猫咪已送医取名51",
+        "onboard_time": 1746266841,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 289918,
+        "num": 289918,
+        "word": "金泰亨田柾国健身",
+        "onboard_time": 1746262160,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264134,
+        "num": 264134,
+        "word": "高会直播",
+        "onboard_time": 1746264562,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261623,
+        "num": 261623,
+        "word": "用已逝女友起号这段太真实了",
+        "onboard_time": 1746267021,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 247900,
+        "num": 247900,
+        "word": "于东来发文捍卫道德底线",
+        "onboard_time": 1746261560,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86631,
+        "num": 235850,
+        "word": "男子网吧里针灸后差点憋死被送ICU",
+        "onboard_time": 1746266841,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 288178,
+        "num": 232611,
+        "word": "上千名游客深夜滞留张家界大喊退票",
+        "onboard_time": 1746258261,
+        "rank": 20,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 225880,
+        "num": 225880,
+        "word": "陈赫在海南被路人认成周杰伦",
+        "onboard_time": 1746258740,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207321,
+        "num": 207321,
+        "word": "为考博熬夜10天进icu",
+        "onboard_time": 1746266121,
+        "rank": 22,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 204837,
+        "num": 204837,
+        "word": "王一栩 魔改",
+        "onboard_time": 1746265942,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202971,
+        "num": 202971,
+        "word": "华晨宇演唱会超绝人头数",
+        "onboard_time": 1746266782,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 197090,
+        "num": 197090,
+        "word": "于东来账号已私密",
+        "onboard_time": 1746261560,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196639,
+        "num": 196639,
+        "word": "95生四顶",
+        "onboard_time": 1746267801,
+        "rank": 26,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 174585,
+        "num": 174585,
+        "word": "街头劝架的丁禹兮",
+        "onboard_time": 1746267621,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141695,
+        "num": 168629,
+        "word": "外国人凌晨2点排队抢购中国玩具",
+        "onboard_time": 1746260180,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 28892,
+        "num": 168293,
+        "word": "花十几万跟团去科考游值吗",
+        "onboard_time": 1746267260,
+        "rank": 29,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 168008,
+        "num": 168008,
+        "word": "吸血的阴虱",
+        "onboard_time": 1746258800,
+        "rank": 30,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 155695,
+        "num": 155695,
+        "word": "楚后",
+        "onboard_time": 1746266421,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19294,
+        "num": 155498,
+        "word": "节后A股走势如何研判",
+        "onboard_time": 1746267681,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 158360,
+        "num": 155062,
+        "word": "牙齿之间出现黑三角警惕牙龈萎缩",
+        "onboard_time": 1746259340,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 43264,
+        "num": 154422,
+        "word": "诚C漫展松弛感",
+        "onboard_time": 1746265040,
+        "rank": 34,
+        "category": "动漫,电竞"
+      },
+      {
+        "raw_hot": 113206,
+        "num": 153508,
+        "word": "全红婵收获全场首个10分",
+        "onboard_time": 1746267743,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153308,
+        "num": 153308,
+        "word": "AG春决逐鹿中原",
+        "onboard_time": 1746267743,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 148778,
+        "num": 148778,
+        "word": "白宇你这样显得迪丽热巴很呆诶",
+        "onboard_time": 1746261440,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146522,
+        "num": 146522,
+        "word": "连云港连岛虫子泛滥引游客吐槽",
+        "onboard_time": 1746262460,
+        "rank": 38,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 28438,
+        "num": 144346,
+        "word": "多架土耳其战机出现在叙利亚",
+        "onboard_time": 1746267201,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 143964,
+        "num": 143964,
+        "word": "3小伙泰山顶呼呼大睡错过看日出",
+        "onboard_time": 1746264862,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138826,
+        "num": 138826,
+        "word": "安宥真开球",
+        "onboard_time": 1746262580,
+        "rank": 41,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 136374,
+        "num": 136374,
+        "word": "成人牙齿再生或将实现",
+        "onboard_time": 1746264742,
+        "rank": 42,
+        "category": "科学科普,民生新闻"
+      },
+      {
+        "raw_hot": 132545,
+        "num": 132545,
+        "word": "重庆洪崖洞有多挤",
+        "onboard_time": 1746262280,
+        "rank": 43,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 128579,
+        "num": 128579,
+        "word": "0713合体只用了十几分钟",
+        "onboard_time": 1746264380,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 128280,
+        "num": 128280,
+        "word": "她失去了一只眼却没有失去人生",
+        "onboard_time": 1746261681,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126686,
+        "num": 126686,
+        "word": "华晨宇自曝体脂率",
+        "onboard_time": 1746267743,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122669,
+        "num": 122669,
+        "word": "太原飞三亚一航班出现机械故障",
+        "onboard_time": 1746265401,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126586,
+        "num": 121683,
+        "word": "时代少年团棒球服",
+        "onboard_time": 1746265101,
+        "rank": 48,
+        "category": "演出,艺人"
+      },
+      {
+        "raw_hot": 118721,
+        "num": 118721,
+        "word": "Cryin谈Bin赛后发博引争议",
+        "onboard_time": 1746266121,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#深入贯彻中央八项规定精神#"
+    }
+  }
+}
