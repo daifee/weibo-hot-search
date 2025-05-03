@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1746279649307,
+  "endTime": 1746282124617,
   "band_list": [
     {
       "raw_hot": 8960529,
@@ -220,7 +220,7 @@
     },
     {
       "raw_hot": 2220013,
-      "num": 850262,
+      "num": 914481,
       "word": "霍思燕一家与贾乃亮一家出游",
       "onboard_time": 1746277583,
       "rank": 3,
@@ -1611,6 +1611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 894757,
+      "num": 894757,
+      "word": "特朗普把自己P成了教皇",
+      "onboard_time": 1746277342,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 892983,
       "num": 892983,
       "word": "青簪行",
@@ -1777,6 +1785,14 @@
       "onboard_time": 1746006141,
       "rank": 4,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 836606,
+      "num": 836606,
+      "word": "这居然是华晨宇",
+      "onboard_time": 1746278904,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 831061,
@@ -2353,14 +2369,6 @@
       "onboard_time": 1745801903,
       "rank": 7,
       "category": "电影"
-    },
-    {
-      "raw_hot": 698640,
-      "num": 698640,
-      "word": "特朗普把自己P成了教皇",
-      "onboard_time": 1746277342,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 697462,
@@ -4171,6 +4179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 444032,
+      "num": 444032,
+      "word": "沈月 戴上面具顺眼很多",
+      "onboard_time": 1746277221,
+      "rank": 27,
+      "category": "剧集,艺人"
+    },
+    {
       "raw_hot": 442854,
       "num": 442854,
       "word": "9岁男孩抗癌8年化疗108次",
@@ -4584,6 +4600,14 @@
       "word": "外教被中国学生素质震惊",
       "onboard_time": 1746155069,
       "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 409118,
+      "num": 409118,
+      "word": "异瞳男生回应不到一个月涨粉200万",
+      "onboard_time": 1746278305,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -5507,6 +5531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 327580,
+      "num": 327580,
+      "word": "欧尼熊出轨澄清",
+      "onboard_time": 1746279205,
+      "rank": 20,
+      "category": "网红"
+    },
+    {
       "raw_hot": 327138,
       "num": 327138,
       "word": "在朋友圈最有面子的一刻",
@@ -6251,14 +6283,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 288624,
-      "num": 288624,
-      "word": "异瞳男生回应不到一个月涨粉200万",
-      "onboard_time": 1746278305,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 286891,
       "num": 286891,
       "word": "天才基本法",
@@ -6377,14 +6401,6 @@
       "onboard_time": 1746193591,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 281641,
-      "num": 281641,
-      "word": "沈月 戴上面具顺眼很多",
-      "onboard_time": 1746277221,
-      "rank": 27,
-      "category": "剧集,艺人"
     },
     {
       "raw_hot": 280542,
@@ -6561,6 +6577,14 @@
       "onboard_time": 1745836822,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 272129,
+      "num": 272129,
+      "word": "越来越看不懂上海面包店了",
+      "onboard_time": 1746280164,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 272089,
@@ -6803,6 +6827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 262262,
+      "num": 262262,
+      "word": "西安雷雨夜空现条状不明物",
+      "onboard_time": 1746270501,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 261865,
       "num": 261865,
       "word": "沈马cp粉",
@@ -7033,6 +7065,14 @@
       "onboard_time": 1745922263,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 253086,
+      "num": 253086,
+      "word": "淮水竹亭编剧 殿前欢",
+      "onboard_time": 1746281485,
+      "rank": 22,
+      "category": "综艺,剧集"
     },
     {
       "raw_hot": 253034,
@@ -7393,6 +7433,14 @@
       "onboard_time": 1745921003,
       "rank": 31,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 239814,
+      "num": 239814,
+      "word": "郝蕾怼张丹峰说法海没有太太",
+      "onboard_time": 1746280703,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 239753,
@@ -7835,6 +7883,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 224433,
+      "num": 224433,
+      "word": "崩坏星穹铁道",
+      "onboard_time": 1745821643,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 223247,
       "num": 245986,
       "word": "刘宇宁特工变修理工了",
@@ -7849,6 +7905,14 @@
       "onboard_time": 1746106945,
       "rank": 34,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 222943,
+      "num": 222943,
+      "word": "星穹铁道FateUBW联动",
+      "onboard_time": 1746280463,
+      "rank": 26,
+      "category": "游戏,动漫"
     },
     {
       "raw_hot": 222672,
@@ -8153,14 +8217,6 @@
       "onboard_time": 1745825903,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 214032,
-      "num": 214032,
-      "word": "这居然是华晨宇",
-      "onboard_time": 1746278904,
-      "rank": 49,
-      "category": "演出"
     },
     {
       "raw_hot": 213728,
@@ -8513,14 +8569,6 @@
       "onboard_time": 1746188610,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 206698,
-      "num": 206698,
-      "word": "崩坏星穹铁道",
-      "onboard_time": 1745821643,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 206649,
@@ -9507,6 +9555,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 194365,
+      "num": 194365,
+      "word": "马嘉祺跳拐杖舞",
+      "onboard_time": 1746281544,
+      "rank": 30,
+      "category": "演出,艺人"
+    },
+    {
       "raw_hot": 194356,
       "num": 194356,
       "word": "赵丽颖黄晓明新剧演搬砖搭子",
@@ -10163,6 +10219,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 189136,
+      "num": 189136,
+      "word": "苏杯韩国vs印尼",
+      "onboard_time": 1746281125,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189089,
       "num": 189089,
       "word": "无畏契约",
@@ -10683,14 +10747,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 185074,
-      "num": 288633,
-      "word": "欧尼熊出轨澄清",
-      "onboard_time": 1746279205,
-      "rank": 20,
-      "category": "网红"
-    },
-    {
       "raw_hot": 184605,
       "num": 184605,
       "word": "狐妖小红娘王权篇预约破300w",
@@ -11185,6 +11241,14 @@
       "onboard_time": 1746263780,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 176378,
+      "num": 176378,
+      "word": "ZETA对战成都GG",
+      "onboard_time": 1746272901,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 176330,
@@ -12251,6 +12315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162406,
+      "num": 178331,
+      "word": "博物馆铜镜为何通常以背面示人",
+      "onboard_time": 1746280644,
+      "rank": 34,
+      "category": "民生新闻,科学科普"
+    },
+    {
       "raw_hot": 162384,
       "num": 162384,
       "word": "你多了一个月",
@@ -12265,6 +12337,14 @@
       "onboard_time": 1745929282,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 162112,
+      "num": 162112,
+      "word": "NCTWISH跳宠爱",
+      "onboard_time": 1746281664,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 162106,
@@ -13115,14 +13195,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 154286,
-      "num": 154286,
-      "word": "西安雷雨夜空现条状不明物",
-      "onboard_time": 1746270501,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 154271,
       "num": 154271,
       "word": "RW选手正赛集体断网",
@@ -13209,6 +13281,22 @@
       "onboard_time": 1746184229,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153471,
+      "num": 153471,
+      "word": "频繁进食对胰腺的影响",
+      "onboard_time": 1746280582,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 153435,
+      "num": 153435,
+      "word": "周深回应月牙泉演唱会临时取消",
+      "onboard_time": 1746280283,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 153367,
@@ -13499,6 +13587,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 150499,
+      "num": 150499,
+      "word": "DRG锁定败者组决赛",
+      "onboard_time": 1746281242,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 150464,
       "num": 312284,
       "word": "无畏人生在于体验",
@@ -13625,6 +13721,14 @@
       "onboard_time": 1746022524,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149078,
+      "num": 162134,
+      "word": "宋亚轩刘耀文唱跳你在哪里",
+      "onboard_time": 1746280943,
+      "rank": 39,
+      "category": "综艺,演出"
     },
     {
       "raw_hot": 149014,
@@ -15371,12 +15475,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 134436,
+      "num": 134436,
+      "word": "星穹铁道 Saber",
+      "onboard_time": 1746280404,
+      "rank": 44,
+      "category": "电竞,游戏"
+    },
+    {
       "raw_hot": 134356,
       "num": 120443,
       "word": "巴萨3比3国米",
       "onboard_time": 1746050775,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133946,
+      "num": 133946,
+      "word": "丁程鑫吟唱感染力",
+      "onboard_time": 1746281664,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 133922,
@@ -15867,6 +15987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 129407,
+      "num": 129407,
+      "word": "虞书欣高智感冷都女路透",
+      "onboard_time": 1746282023,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129373,
       "num": 129373,
       "word": "建议五一假期放51天",
@@ -15888,6 +16016,14 @@
       "word": "谢霆锋也在戒断中",
       "onboard_time": 1745995401,
       "rank": 49,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 129070,
+      "num": 129070,
+      "word": "陈奕迅终于在妈生地唱了富士山下",
+      "onboard_time": 1746282085,
+      "rank": 47,
       "category": "演出"
     },
     {
@@ -16275,6 +16411,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 126574,
+      "num": 126574,
+      "word": "巴菲特称情绪稳定比高智商更重要",
+      "onboard_time": 1746280404,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 126544,
       "num": 126544,
       "word": "日本皇室史上首次被偷生活费",
@@ -16369,6 +16513,14 @@
       "onboard_time": 1746252860,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125861,
+      "num": 125861,
+      "word": "时代少年团die for you",
+      "onboard_time": 1746282085,
+      "rank": 49,
+      "category": "演出,音乐"
     },
     {
       "raw_hot": 125791,
@@ -21553,6 +21705,14 @@
       "onboard_time": 1745852365,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 60976,
+      "num": 322970,
+      "word": "美军盲信网红情报轰炸致8平民死亡",
+      "onboard_time": 1746281424,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 60845,

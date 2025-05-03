@@ -1,0 +1,410 @@
+{
+  "runTime": 1746282124617,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1289331,
+        "num": 1289331,
+        "word": "女生手机自动连上酒店WiFi被分手",
+        "onboard_time": 1746272901,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 970697,
+        "num": 970697,
+        "word": "32岁儿子辞职照顾2岁的妈妈",
+        "onboard_time": 1746276501,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 60052,
+        "num": 918695,
+        "word": "五一假期多地打造文旅消费新场景",
+        "onboard_time": 1746261440,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2161079,
+        "num": 914481,
+        "word": "霍思燕一家与贾乃亮一家出游",
+        "onboard_time": 1746277583,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 894757,
+        "num": 894757,
+        "word": "特朗普把自己P成了教皇",
+        "onboard_time": 1746277342,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 836606,
+        "num": 836606,
+        "word": "这居然是华晨宇",
+        "onboard_time": 1746278904,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 543465,
+        "num": 543465,
+        "word": "时代少年团海口演唱会",
+        "onboard_time": 1746273202,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 444032,
+        "num": 444032,
+        "word": "沈月 戴上面具顺眼很多",
+        "onboard_time": 1746277221,
+        "rank": 7,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 439716,
+        "num": 439716,
+        "word": "三个月瘦了32斤的侧脸变化",
+        "onboard_time": 1746272480,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 409118,
+        "num": 409118,
+        "word": "异瞳男生回应不到一个月涨粉200万",
+        "onboard_time": 1746278305,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 908506,
+        "num": 372377,
+        "word": "欧尼熊 可心",
+        "onboard_time": 1746269962,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 447837,
+        "num": 351754,
+        "word": "灵隐寺260万年租金的小卖部",
+        "onboard_time": 1746263601,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 329433,
+        "num": 329433,
+        "word": "女子爱上ChatGPT要与丈夫离婚",
+        "onboard_time": 1746273202,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 327580,
+        "num": 327580,
+        "word": "欧尼熊出轨澄清",
+        "onboard_time": 1746279205,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 60976,
+        "num": 322970,
+        "word": "美军盲信网红情报轰炸致8平民死亡",
+        "onboard_time": 1746281424,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 318913,
+        "num": 318913,
+        "word": "歌手2025",
+        "onboard_time": 1746275783,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291820,
+        "num": 291820,
+        "word": "翔霖",
+        "onboard_time": 1746270082,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 279712,
+        "num": 279712,
+        "word": "阿楚姑娘",
+        "onboard_time": 1746280823,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 272129,
+        "num": 272129,
+        "word": "越来越看不懂上海面包店了",
+        "onboard_time": 1746280164,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 264064,
+        "num": 264064,
+        "word": "陈芋汐世界杯夺冠",
+        "onboard_time": 1746269781,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 324764,
+        "num": 263679,
+        "word": "不体面却赚钱的工作",
+        "onboard_time": 1746269781,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 262262,
+        "num": 262262,
+        "word": "西安雷雨夜空现条状不明物",
+        "onboard_time": 1746270501,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253086,
+        "num": 253086,
+        "word": "淮水竹亭编剧 殿前欢",
+        "onboard_time": 1746281485,
+        "rank": 22,
+        "category": "综艺,剧集"
+      },
+      {
+        "raw_hot": 244222,
+        "num": 244222,
+        "word": "时代少年团演唱会节目单",
+        "onboard_time": 1746274645,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 239814,
+        "num": 239814,
+        "word": "郝蕾怼张丹峰说法海没有太太",
+        "onboard_time": 1746280703,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224433,
+        "num": 224433,
+        "word": "崩坏星穹铁道",
+        "onboard_time": 1746279743,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 222943,
+        "num": 222943,
+        "word": "星穹铁道FateUBW联动",
+        "onboard_time": 1746280463,
+        "rank": 26,
+        "category": "游戏,动漫"
+      },
+      {
+        "raw_hot": 222923,
+        "num": 222923,
+        "word": "全红婵跳水10米台亚军",
+        "onboard_time": 1746277162,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196055,
+        "num": 196055,
+        "word": "掉进火锅猫咪已送医取名51",
+        "onboard_time": 1746266841,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195963,
+        "num": 195963,
+        "word": "文轩",
+        "onboard_time": 1746273442,
+        "rank": 29,
+        "category": "演出,作品衍生"
+      },
+      {
+        "raw_hot": 194365,
+        "num": 194365,
+        "word": "马嘉祺跳拐杖舞",
+        "onboard_time": 1746281544,
+        "rank": 30,
+        "category": "演出,艺人"
+      },
+      {
+        "raw_hot": 189136,
+        "num": 189136,
+        "word": "苏杯韩国vs印尼",
+        "onboard_time": 1746281125,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187638,
+        "num": 187638,
+        "word": "街头劝架的丁禹兮",
+        "onboard_time": 1746267621,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184129,
+        "num": 184129,
+        "word": "任嘉伦音乐节",
+        "onboard_time": 1746276983,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 162406,
+        "num": 178331,
+        "word": "博物馆铜镜为何通常以背面示人",
+        "onboard_time": 1746280644,
+        "rank": 34,
+        "category": "民生新闻,科学科普"
+      },
+      {
+        "raw_hot": 176378,
+        "num": 176378,
+        "word": "ZETA对战成都GG",
+        "onboard_time": 1746272901,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 171634,
+        "num": 171634,
+        "word": "石凯聊天记录",
+        "onboard_time": 1746241760,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170217,
+        "num": 170217,
+        "word": "张杰的毛坯人生精装朋友圈",
+        "onboard_time": 1746271821,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 162679,
+        "num": 162679,
+        "word": "导演郭少雄逝世",
+        "onboard_time": 1746276681,
+        "rank": 38,
+        "category": "艺人,电影"
+      },
+      {
+        "raw_hot": 149078,
+        "num": 162134,
+        "word": "宋亚轩刘耀文唱跳你在哪里",
+        "onboard_time": 1746280943,
+        "rank": 39,
+        "category": "综艺,演出"
+      },
+      {
+        "raw_hot": 162112,
+        "num": 162112,
+        "word": "NCTWISH跳宠爱",
+        "onboard_time": 1746281664,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 153471,
+        "num": 153471,
+        "word": "频繁进食对胰腺的影响",
+        "onboard_time": 1746280582,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 153435,
+        "num": 153435,
+        "word": "周深回应月牙泉演唱会临时取消",
+        "onboard_time": 1746280283,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 150499,
+        "num": 150499,
+        "word": "DRG锁定败者组决赛",
+        "onboard_time": 1746281242,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134436,
+        "num": 134436,
+        "word": "星穹铁道 Saber",
+        "onboard_time": 1746280404,
+        "rank": 44,
+        "category": "电竞,游戏"
+      },
+      {
+        "raw_hot": 133946,
+        "num": 133946,
+        "word": "丁程鑫吟唱感染力",
+        "onboard_time": 1746281664,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 129407,
+        "num": 129407,
+        "word": "虞书欣高智感冷都女路透",
+        "onboard_time": 1746282023,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129070,
+        "num": 129070,
+        "word": "陈奕迅终于在妈生地唱了富士山下",
+        "onboard_time": 1746282085,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 126574,
+        "num": 126574,
+        "word": "巴菲特称情绪稳定比高智商更重要",
+        "onboard_time": 1746280404,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 125861,
+        "num": 125861,
+        "word": "时代少年团die for you",
+        "onboard_time": 1746282085,
+        "rank": 49,
+        "category": "演出,音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#深入贯彻中央八项规定精神#"
+    }
+  }
+}
