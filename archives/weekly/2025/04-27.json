@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1746260959708,
+  "endTime": 1746261778117,
   "band_list": [
     {
       "raw_hot": 8960529,
@@ -1811,6 +1811,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 796819,
+      "num": 348841,
+      "word": "吸血的阴虱",
+      "onboard_time": 1746258800,
+      "rank": 11,
+      "category": "健康医疗,民生新闻"
+    },
+    {
       "raw_hot": 795586,
       "num": 795586,
       "word": "只要保持一个月九点之前睡觉",
@@ -1937,6 +1945,14 @@
       "onboard_time": 1746020363,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 759976,
+      "num": 759976,
+      "word": "陈赫在海南被路人认成周杰伦",
+      "onboard_time": 1746258740,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 757736,
@@ -2089,14 +2105,6 @@
       "onboard_time": 1746195092,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 721478,
-      "num": 721478,
-      "word": "陈赫在海南被路人认成周杰伦",
-      "onboard_time": 1746258740,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 719184,
@@ -2513,14 +2521,6 @@
       "onboard_time": 1746154290,
       "rank": 13,
       "category": "网红"
-    },
-    {
-      "raw_hot": 635478,
-      "num": 238249,
-      "word": "吸血的阴虱",
-      "onboard_time": 1746258800,
-      "rank": 11,
-      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 633876,
@@ -2979,10 +2979,26 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 558466,
+      "num": 558466,
+      "word": "兜儿否认拿烟头烫小猪先生",
+      "onboard_time": 1746259400,
+      "rank": 12,
+      "category": "网红"
+    },
+    {
       "raw_hot": 557585,
       "num": 557585,
       "word": "30万保单无人通知漏缴1期被作废",
       "onboard_time": 1745809520,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 557414,
+      "num": 557414,
+      "word": "于东来与网红互怼怒称要退圈",
+      "onboard_time": 1746257181,
       "rank": 19,
       "category": "民生新闻"
     },
@@ -3241,14 +3257,6 @@
       "onboard_time": 1746187530,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 530808,
-      "num": 530808,
-      "word": "于东来与网红互怼怒称要退圈",
-      "onboard_time": 1746257181,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 530065,
@@ -4563,14 +4571,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 388826,
-      "num": 238061,
-      "word": "兜儿否认拿烟头烫小猪先生",
-      "onboard_time": 1746259400,
-      "rank": 12,
-      "category": "网红"
-    },
-    {
       "raw_hot": 388754,
       "num": 388754,
       "word": "小米抽奖抽到总裁卢伟冰",
@@ -4963,6 +4963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 350161,
+      "num": 350161,
+      "word": "外国人凌晨2点排队抢购中国玩具",
+      "onboard_time": 1746260180,
+      "rank": 13,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 349303,
       "num": 271667,
       "word": "尹净汉出国",
@@ -5009,6 +5017,14 @@
       "onboard_time": 1745818403,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 342510,
+      "num": 342510,
+      "word": "上千名游客深夜滞留张家界大喊退票",
+      "onboard_time": 1746258261,
+      "rank": 16,
+      "category": "旅游"
     },
     {
       "raw_hot": 342230,
@@ -6019,14 +6035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 282980,
-      "num": 237029,
-      "word": "上千名游客深夜滞留张家界大喊退票",
-      "onboard_time": 1746258261,
-      "rank": 16,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 282811,
       "num": 265508,
       "word": "生命树开机",
@@ -6521,6 +6529,14 @@
       "onboard_time": 1746169580,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 259349,
+      "num": 259349,
+      "word": "外国小哥穿白袜子走在东京街头",
+      "onboard_time": 1746257300,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 259333,
@@ -7393,6 +7409,14 @@
       "onboard_time": 1746000861,
       "rank": 40,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 226885,
+      "num": 131157,
+      "word": "牙齿之间出现黑三角警惕牙龈萎缩",
+      "onboard_time": 1746259340,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 226685,
@@ -8795,14 +8819,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 197394,
-      "num": 197394,
-      "word": "外国小哥穿白袜子走在东京街头",
-      "onboard_time": 1746257300,
-      "rank": 38,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 197323,
       "num": 197323,
       "word": "张泽禹簪花look",
@@ -8865,6 +8881,14 @@
       "onboard_time": 1746086961,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 196827,
+      "num": 196827,
+      "word": "胡静一家吃饭各吃各的",
+      "onboard_time": 1746260961,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 196782,
@@ -9873,6 +9897,14 @@
       "onboard_time": 1746180388,
       "rank": 29,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 187300,
+      "num": 187300,
+      "word": "黎族有种用鼻子吹的乐器",
+      "onboard_time": 1746261560,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 187236,
@@ -12627,6 +12659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151624,
+      "num": 151624,
+      "word": "王一博侧拍图",
+      "onboard_time": 1746261079,
+      "rank": 25,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 151595,
       "num": 315561,
       "word": "人生开门红",
@@ -13843,14 +13883,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 140110,
-      "num": 131157,
-      "word": "牙齿之间出现黑三角警惕牙龈萎缩",
-      "onboard_time": 1746259340,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 139929,
       "num": 139929,
       "word": "马丽感谢沈腾粉丝和沈马cp粉",
@@ -14971,12 +15003,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 128899,
+      "num": 128899,
+      "word": "张峻豪比心",
+      "onboard_time": 1746261260,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 128817,
       "num": 128817,
       "word": "看得出来各地文旅这个假期很努力了",
       "onboard_time": 1746160949,
       "rank": 46,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 128727,
+      "num": 128727,
+      "word": "于东来发文捍卫道德底线",
+      "onboard_time": 1746261560,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128594,
@@ -15217,6 +15265,14 @@
       "onboard_time": 1746077360,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127049,
+      "num": 127049,
+      "word": "白宇你这样显得迪丽热巴很呆诶",
+      "onboard_time": 1746261440,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 127018,
@@ -16691,6 +16747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110629,
+      "num": 110629,
+      "word": "97岁妈妈与75岁姑娘",
+      "onboard_time": 1746261440,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 110617,
       "num": 124539,
       "word": "养气血就要多往大自然跑",
@@ -16841,6 +16905,14 @@
       "onboard_time": 1745844741,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 109363,
+      "num": 109363,
+      "word": "再就业男团应到1人实到6人",
+      "onboard_time": 1746261381,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 109308,
@@ -17947,6 +18019,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 97970,
+      "num": 97970,
+      "word": "于东来账号已私密",
+      "onboard_time": 1746261560,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97926,
       "num": 97926,
       "word": "谢霆锋你们的青春也是我的青春",
@@ -18345,6 +18425,14 @@
       "onboard_time": 1745743281,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 92475,
+      "num": 92475,
+      "word": "她失去了一只眼却没有失去人生",
+      "onboard_time": 1746261681,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 92405,
@@ -18803,6 +18891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86852,
+      "num": 86852,
+      "word": "孟美岐这里不让睡觉",
+      "onboard_time": 1746261741,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 86825,
       "num": 86825,
       "word": "欧冠",
@@ -19105,14 +19201,6 @@
       "onboard_time": 1745681004,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 82682,
-      "num": 237644,
-      "word": "外国人凌晨2点排队抢购中国玩具",
-      "onboard_time": 1746260180,
-      "rank": 13,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 82432,
@@ -20491,6 +20579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 59493,
+      "num": 343996,
+      "word": "上百人为中国AI芯写120万行代码",
+      "onboard_time": 1746261381,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59333,
       "num": 59333,
       "word": "张云雷武汉音乐会",
@@ -20681,6 +20777,14 @@
       "onboard_time": 1745922443,
       "rank": 40,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 56265,
+      "num": 128964,
+      "word": "郭炜炜闪现剑网3漫展展台",
+      "onboard_time": 1746261381,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 56257,
@@ -21147,6 +21251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49143,
+      "num": 275588,
+      "word": "KPL梦之队星光见面会",
+      "onboard_time": 1746254421,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 49078,
       "num": 857192,
       "word": "中国游中国购持续升温",
@@ -21553,14 +21665,6 @@
       "onboard_time": 1746056299,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 43345,
-      "num": 275588,
-      "word": "KPL梦之队星光见面会",
-      "onboard_time": 1746254421,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 43272,
@@ -22176,6 +22280,14 @@
       "word": "假期最后一天就是立夏了",
       "onboard_time": 1746254660,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34711,
+      "num": 110747,
+      "word": "一首歌献给全力以赴的你",
+      "onboard_time": 1746260961,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -23795,6 +23907,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 17243,
+      "num": 643694,
+      "word": "五一假期多地打造文旅消费新场景",
+      "onboard_time": 1746261440,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17242,
       "num": 23720,
       "word": "RW对战LGDNBW",
@@ -23865,6 +23985,14 @@
       "onboard_time": 1745953334,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 16628,
+      "num": 107793,
+      "word": "恶意退货为什么会被平台封店",
+      "onboard_time": 1746261741,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16533,
@@ -24981,6 +25109,9 @@
     },
     {
       "word": "#把造福人民作为根本价值取向#"
+    },
+    {
+      "word": "#总书记寄望新时代青年#"
     }
   ]
 }

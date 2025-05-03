@@ -1,0 +1,410 @@
+{
+  "runTime": 1746261778117,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1261956,
+        "num": 1261956,
+        "word": "五三惨案",
+        "onboard_time": 1746242841,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 759976,
+        "num": 759976,
+        "word": "陈赫在海南被路人认成周杰伦",
+        "onboard_time": 1746258740,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17243,
+        "num": 643694,
+        "word": "五一假期多地打造文旅消费新场景",
+        "onboard_time": 1746261440,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 558466,
+        "num": 558466,
+        "word": "兜儿否认拿烟头烫小猪先生",
+        "onboard_time": 1746259400,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 557414,
+        "num": 557414,
+        "word": "于东来与网红互怼怒称要退圈",
+        "onboard_time": 1746257181,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 457945,
+        "num": 457945,
+        "word": "孙颖莎 嘉人",
+        "onboard_time": 1746251601,
+        "rank": 5,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 390780,
+        "num": 390780,
+        "word": "校方就退60件演出服事件道歉",
+        "onboard_time": 1746250101,
+        "rank": 6,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 385570,
+        "num": 385570,
+        "word": "谁把程潇的中药换成冰美式了",
+        "onboard_time": 1746256579,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 355461,
+        "num": 355461,
+        "word": "交警称9米长林肯是钻空子上山",
+        "onboard_time": 1746253461,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 350161,
+        "num": 350161,
+        "word": "外国人凌晨2点排队抢购中国玩具",
+        "onboard_time": 1746260180,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 796819,
+        "num": 348841,
+        "word": "吸血的阴虱",
+        "onboard_time": 1746258800,
+        "rank": 10,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 791530,
+        "num": 346673,
+        "word": "石凯聊天记录",
+        "onboard_time": 1746241760,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59493,
+        "num": 343996,
+        "word": "上百人为中国AI芯写120万行代码",
+        "onboard_time": 1746261381,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 342510,
+        "num": 342510,
+        "word": "上千名游客深夜滞留张家界大喊退票",
+        "onboard_time": 1746258261,
+        "rank": 13,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 49143,
+        "num": 271540,
+        "word": "KPL梦之队星光见面会",
+        "onboard_time": 1746259280,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259349,
+        "num": 259349,
+        "word": "外国小哥穿白袜子走在东京街头",
+        "onboard_time": 1746257300,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 245690,
+        "num": 245690,
+        "word": "医学院有很多专业不能当医生",
+        "onboard_time": 1746256099,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229790,
+        "num": 229790,
+        "word": "罗云熙 音乐节",
+        "onboard_time": 1746259221,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 201277,
+        "num": 201277,
+        "word": "五一的桂林快忙成马六甲了",
+        "onboard_time": 1746243321,
+        "rank": 18,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 197166,
+        "num": 197166,
+        "word": "韩庚被女儿融化了",
+        "onboard_time": 1746258740,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196827,
+        "num": 196827,
+        "word": "胡静一家吃饭各吃各的",
+        "onboard_time": 1746260961,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187300,
+        "num": 187300,
+        "word": "黎族有种用鼻子吹的乐器",
+        "onboard_time": 1746261560,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168490,
+        "num": 168490,
+        "word": "时代少年团演唱会花墙应援",
+        "onboard_time": 1746256160,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 162368,
+        "num": 162368,
+        "word": "周杰伦王俊凯周游记",
+        "onboard_time": 1746256160,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159635,
+        "num": 159635,
+        "word": "虞书欣夹心摇破百万",
+        "onboard_time": 1746247580,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151624,
+        "num": 151624,
+        "word": "王一博侧拍图",
+        "onboard_time": 1746261079,
+        "rank": 25,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 151233,
+        "num": 151233,
+        "word": "天降猫咪掉进露天火锅烫伤9人",
+        "onboard_time": 1746248421,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129872,
+        "num": 129872,
+        "word": "市监局称已对涉事茶企业立案",
+        "onboard_time": 1746258980,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129145,
+        "num": 129145,
+        "word": "叶童银发狼尾造型",
+        "onboard_time": 1746252142,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56265,
+        "num": 128964,
+        "word": "郭炜炜闪现剑网3漫展展台",
+        "onboard_time": 1746261381,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 226885,
+        "num": 128938,
+        "word": "牙齿之间出现黑三角警惕牙龈萎缩",
+        "onboard_time": 1746259340,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 128899,
+        "num": 128899,
+        "word": "张峻豪比心",
+        "onboard_time": 1746261260,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 128727,
+        "num": 128727,
+        "word": "于东来发文捍卫道德底线",
+        "onboard_time": 1746261560,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127049,
+        "num": 127049,
+        "word": "白宇你这样显得迪丽热巴很呆诶",
+        "onboard_time": 1746261440,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116678,
+        "num": 116678,
+        "word": "邓超妈妈辛苦爱你小花爸爸好帅",
+        "onboard_time": 1746252021,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110866,
+        "num": 110866,
+        "word": "侯佩岑 我好喜欢李斯丹妮啊",
+        "onboard_time": 1746256160,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34711,
+        "num": 110747,
+        "word": "一首歌献给全力以赴的你",
+        "onboard_time": 1746260961,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110629,
+        "num": 110629,
+        "word": "97岁妈妈与75岁姑娘",
+        "onboard_time": 1746261440,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109363,
+        "num": 109363,
+        "word": "再就业男团应到1人实到6人",
+        "onboard_time": 1746261381,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16628,
+        "num": 107793,
+        "word": "恶意退货为什么会被平台封店",
+        "onboard_time": 1746261741,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107352,
+        "num": 107352,
+        "word": "国家队一出手就是超强实力",
+        "onboard_time": 1746256460,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105042,
+        "num": 105042,
+        "word": "原来100元可以买这么多东西",
+        "onboard_time": 1746250820,
+        "rank": 41,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 103501,
+        "num": 103501,
+        "word": "金价",
+        "onboard_time": 1746248780,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 99675,
+        "num": 99675,
+        "word": "爸爸抱起孩子大狗仍追着咬",
+        "onboard_time": 1746256160,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97970,
+        "num": 97970,
+        "word": "于东来账号已私密",
+        "onboard_time": 1746261560,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93800,
+        "num": 93800,
+        "word": "今天不堵车倒是堵羊了",
+        "onboard_time": 1746257419,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92834,
+        "num": 92834,
+        "word": "22岁女生扎根西部支教25年",
+        "onboard_time": 1746259040,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92475,
+        "num": 92475,
+        "word": "她失去了一只眼却没有失去人生",
+        "onboard_time": 1746261681,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86974,
+        "num": 86974,
+        "word": "这竟然是黄奕",
+        "onboard_time": 1746250402,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86852,
+        "num": 86852,
+        "word": "孟美岐这里不让睡觉",
+        "onboard_time": 1746261741,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记寄望新时代青年#"
+    }
+  }
+}

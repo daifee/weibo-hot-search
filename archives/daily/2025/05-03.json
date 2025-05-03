@@ -1,6 +1,6 @@
 {
   "startTime": 1746203485460,
-  "endTime": 1746260959708,
+  "endTime": 1746261778117,
   "band_list": [
     {
       "raw_hot": 3458319,
@@ -83,12 +83,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 796819,
+      "num": 348841,
+      "word": "吸血的阴虱",
+      "onboard_time": 1746258800,
+      "rank": 11,
+      "category": "健康医疗,民生新闻"
+    },
+    {
       "raw_hot": 762262,
       "num": 762262,
       "word": "校方建议被恶意退货商家报警",
       "onboard_time": 1746249261,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 759976,
+      "num": 759976,
+      "word": "陈赫在海南被路人认成周杰伦",
+      "onboard_time": 1746258740,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 745860,
@@ -121,14 +137,6 @@
       "onboard_time": 1746256099,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 721478,
-      "num": 721478,
-      "word": "陈赫在海南被路人认成周杰伦",
-      "onboard_time": 1746258740,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 719184,
@@ -179,14 +187,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 635478,
-      "num": 238249,
-      "word": "吸血的阴虱",
-      "onboard_time": 1746258800,
-      "rank": 11,
-      "category": "健康医疗,民生新闻"
-    },
-    {
       "raw_hot": 628808,
       "num": 1092719,
       "word": "前TVB女星在东莞打工求生",
@@ -209,6 +209,22 @@
       "onboard_time": 1746203600,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 558466,
+      "num": 558466,
+      "word": "兜儿否认拿烟头烫小猪先生",
+      "onboard_time": 1746259400,
+      "rank": 12,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 557414,
+      "num": 557414,
+      "word": "于东来与网红互怼怒称要退圈",
+      "onboard_time": 1746257181,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 556673,
@@ -248,14 +264,6 @@
       "word": "天降猫咪掉进露天火锅烫伤9人",
       "onboard_time": 1746248421,
       "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 530808,
-      "num": 530808,
-      "word": "于东来与网红互怼怒称要退圈",
-      "onboard_time": 1746257181,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -355,14 +363,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 388826,
-      "num": 238061,
-      "word": "兜儿否认拿烟头烫小猪先生",
-      "onboard_time": 1746259400,
-      "rank": 12,
-      "category": "网红"
-    },
-    {
       "raw_hot": 375564,
       "num": 375564,
       "word": "Bin blg回来了",
@@ -385,6 +385,22 @@
       "onboard_time": 1746185910,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 350161,
+      "num": 350161,
+      "word": "外国人凌晨2点排队抢购中国玩具",
+      "onboard_time": 1746260180,
+      "rank": 13,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 342510,
+      "num": 342510,
+      "word": "上千名游客深夜滞留张家界大喊退票",
+      "onboard_time": 1746258261,
+      "rank": 16,
+      "category": "旅游"
     },
     {
       "raw_hot": 330341,
@@ -507,14 +523,6 @@
       "category": "情感,民生新闻"
     },
     {
-      "raw_hot": 282980,
-      "num": 237029,
-      "word": "上千名游客深夜滞留张家界大喊退票",
-      "onboard_time": 1746258261,
-      "rank": 16,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 278322,
       "num": 278322,
       "word": "酒店痛房",
@@ -545,6 +553,14 @@
       "onboard_time": 1746231559,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 259349,
+      "num": 259349,
+      "word": "外国小哥穿白袜子走在东京街头",
+      "onboard_time": 1746257300,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 254270,
@@ -627,6 +643,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 226885,
+      "num": 131157,
+      "word": "牙齿之间出现黑三角警惕牙龈萎缩",
+      "onboard_time": 1746259340,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 208491,
       "num": 330657,
       "word": "严浩翔贺峻霖 双人舞台",
@@ -699,12 +723,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 197394,
-      "num": 197394,
-      "word": "外国小哥穿白袜子走在东京街头",
-      "onboard_time": 1746257300,
-      "rank": 38,
-      "category": "海外新闻"
+      "raw_hot": 196827,
+      "num": 196827,
+      "word": "胡静一家吃饭各吃各的",
+      "onboard_time": 1746260961,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 196093,
@@ -777,6 +801,14 @@
       "onboard_time": 1746241699,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 187300,
+      "num": 187300,
+      "word": "黎族有种用鼻子吹的乐器",
+      "onboard_time": 1746261560,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 187220,
@@ -1019,6 +1051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151624,
+      "num": 151624,
+      "word": "王一博侧拍图",
+      "onboard_time": 1746261079,
+      "rank": 25,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 151404,
       "num": 229259,
       "word": "公务员食堂为何成旅游顶流",
@@ -1105,14 +1145,6 @@
       "onboard_time": 1746245239,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 140110,
-      "num": 131157,
-      "word": "牙齿之间出现黑三角警惕牙龈萎缩",
-      "onboard_time": 1746259340,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 137685,
@@ -1227,6 +1259,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 128899,
+      "num": 128899,
+      "word": "张峻豪比心",
+      "onboard_time": 1746261260,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 128727,
+      "num": 128727,
+      "word": "于东来发文捍卫道德底线",
+      "onboard_time": 1746261560,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128469,
       "num": 361085,
       "word": "三亚有游客骑摩托艇出海与向导失散",
@@ -1256,6 +1304,14 @@
       "word": "敖瑞鹏hi6初体验",
       "onboard_time": 1746256821,
       "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 127049,
+      "num": 127049,
+      "word": "白宇你这样显得迪丽热巴很呆诶",
+      "onboard_time": 1746261440,
+      "rank": 33,
       "category": "综艺"
     },
     {
@@ -1419,6 +1475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 110629,
+      "num": 110629,
+      "word": "97岁妈妈与75岁姑娘",
+      "onboard_time": 1746261440,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 110617,
       "num": 124539,
       "word": "养气血就要多往大自然跑",
@@ -1433,6 +1497,14 @@
       "onboard_time": 1746198384,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 109363,
+      "num": 109363,
+      "word": "再就业男团应到1人实到6人",
+      "onboard_time": 1746261381,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 108890,
@@ -1643,6 +1715,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 97970,
+      "num": 97970,
+      "word": "于东来账号已私密",
+      "onboard_time": 1746261560,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97162,
       "num": 97162,
       "word": "胡歌生命树开机照",
@@ -1729,6 +1809,14 @@
       "onboard_time": 1746249861,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 92475,
+      "num": 92475,
+      "word": "她失去了一只眼却没有失去人生",
+      "onboard_time": 1746261681,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 92383,
@@ -1859,6 +1947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86852,
+      "num": 86852,
+      "word": "孟美岐这里不让睡觉",
+      "onboard_time": 1746261741,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 86347,
       "num": 331752,
       "word": "AG闯进漫展新赛道",
@@ -1897,14 +1993,6 @@
       "onboard_time": 1746184350,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 82682,
-      "num": 237644,
-      "word": "外国人凌晨2点排队抢购中国玩具",
-      "onboard_time": 1746260180,
-      "rank": 13,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 82432,
@@ -2139,6 +2227,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 59493,
+      "num": 343996,
+      "word": "上百人为中国AI芯写120万行代码",
+      "onboard_time": 1746261381,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59333,
       "num": 59333,
       "word": "张云雷武汉音乐会",
@@ -2153,6 +2249,14 @@
       "onboard_time": 1746250101,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 56265,
+      "num": 128964,
+      "word": "郭炜炜闪现剑网3漫展展台",
+      "onboard_time": 1746261381,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 53391,
@@ -2227,6 +2331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 49143,
+      "num": 275588,
+      "word": "KPL梦之队星光见面会",
+      "onboard_time": 1746254421,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 46598,
       "num": 231273,
       "word": "伪休息习惯如何悄悄损耗人体气血",
@@ -2275,14 +2387,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 43345,
-      "num": 275588,
-      "word": "KPL梦之队星光见面会",
-      "onboard_time": 1746254421,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 41857,
       "num": 46481,
       "word": "月亮姐姐喊了李艺彤立马转身",
@@ -2320,6 +2424,14 @@
       "word": "假期最后一天就是立夏了",
       "onboard_time": 1746254660,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34711,
+      "num": 110747,
+      "word": "一首歌献给全力以赴的你",
+      "onboard_time": 1746260961,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -2475,6 +2587,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 17243,
+      "num": 643694,
+      "word": "五一假期多地打造文旅消费新场景",
+      "onboard_time": 1746261440,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16628,
+      "num": 107793,
+      "word": "恶意退货为什么会被平台封店",
+      "onboard_time": 1746261741,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16537,
       "num": 20701,
       "word": "周洁琼好权威的美貌",
@@ -2580,6 +2708,9 @@
     },
     {
       "word": "#把造福人民作为根本价值取向#"
+    },
+    {
+      "word": "#总书记寄望新时代青年#"
     }
   ]
 }
