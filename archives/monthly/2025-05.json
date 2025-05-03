@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746283186887,
+  "endTime": 1746285848340,
   "band_list": [
     {
       "raw_hot": 3885539,
@@ -513,6 +513,14 @@
       "onboard_time": 1746054798,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1005105,
+      "num": 459688,
+      "word": "全红婵老家建120平别墅",
+      "onboard_time": 1746282743,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 998509,
@@ -1115,6 +1123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 609301,
+      "num": 491079,
+      "word": "淮水竹亭编剧 殿前欢",
+      "onboard_time": 1746281485,
+      "rank": 22,
+      "category": "综艺,剧集"
+    },
+    {
       "raw_hot": 605502,
       "num": 855231,
       "word": "十三州府取关曾黎",
@@ -1363,6 +1379,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 506571,
+      "num": 506571,
+      "word": "越来越看不懂上海面包店了",
+      "onboard_time": 1746280164,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 506421,
       "num": 409963,
       "word": "石凯前女友称订婚是AA",
@@ -1585,14 +1609,6 @@
       "onboard_time": 1746143239,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 459688,
-      "num": 459688,
-      "word": "全红婵老家建120平别墅",
-      "onboard_time": 1746282743,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 459621,
@@ -1915,14 +1931,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 398449,
-      "num": 398449,
-      "word": "淮水竹亭编剧 殿前欢",
-      "onboard_time": 1746281485,
-      "rank": 22,
-      "category": "综艺,剧集"
-    },
-    {
       "raw_hot": 394879,
       "num": 405848,
       "word": "继母偷走爷爷留给孙女的8万元遗产",
@@ -2011,12 +2019,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 376676,
+      "num": 376676,
+      "word": "大一女生输头孢过敏离世",
+      "onboard_time": 1746284604,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 375571,
       "num": 475660,
       "word": "大风杀",
       "onboard_time": 1746103761,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 374306,
+      "num": 374306,
+      "word": "时代少年团die for you",
+      "onboard_time": 1746282085,
+      "rank": 49,
+      "category": "演出,音乐"
     },
     {
       "raw_hot": 372852,
@@ -2052,7 +2076,7 @@
     },
     {
       "raw_hot": 370421,
-      "num": 311610,
+      "num": 341267,
       "word": "翔霖",
       "onboard_time": 1746088582,
       "rank": 25,
@@ -2081,14 +2105,6 @@
       "onboard_time": 1746056598,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 363421,
-      "num": 363421,
-      "word": "越来越看不懂上海面包店了",
-      "onboard_time": 1746280164,
-      "rank": 18,
-      "category": "幽默"
     },
     {
       "raw_hot": 363264,
@@ -3227,14 +3243,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 224252,
-      "num": 224252,
-      "word": "时代少年团die for you",
-      "onboard_time": 1746282085,
-      "rank": 49,
-      "category": "演出,音乐"
-    },
-    {
       "raw_hot": 223111,
       "num": 223111,
       "word": "什么是医政调查",
@@ -3281,6 +3289,14 @@
       "onboard_time": 1746198384,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 220356,
+      "num": 220356,
+      "word": "频繁进食对胰腺的影响",
+      "onboard_time": 1746280582,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 219632,
@@ -3563,6 +3579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 203835,
+      "num": 203835,
+      "word": "少年美",
+      "onboard_time": 1746285022,
+      "rank": 23,
+      "category": "演出,综艺"
+    },
+    {
       "raw_hot": 203690,
       "num": 203690,
       "word": "安宥真开球",
@@ -3641,6 +3665,14 @@
       "onboard_time": 1746146309,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200740,
+      "num": 200740,
+      "word": "宋亚轩演唱会小卷毛造型",
+      "onboard_time": 1746284663,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 200709,
@@ -3851,6 +3883,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 196703,
+      "num": 196703,
+      "word": "哈里王子想与英国王室和解",
+      "onboard_time": 1746284841,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 196657,
       "num": 196657,
       "word": "田曦薇粉丝破一千万",
@@ -4057,14 +4097,6 @@
       "onboard_time": 1746184591,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 193011,
-      "num": 193011,
-      "word": "频繁进食对胰腺的影响",
-      "onboard_time": 1746280582,
-      "rank": 41,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 192779,
@@ -4337,6 +4369,14 @@
       "onboard_time": 1746143779,
       "rank": 27,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 188204,
+      "num": 188204,
+      "word": "女排欧冠",
+      "onboard_time": 1746285264,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 188119,
@@ -4683,6 +4723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 179156,
+      "num": 179156,
+      "word": "吴艳妮创100米栏个人赛季最佳",
+      "onboard_time": 1746283045,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 179154,
       "num": 179154,
       "word": "张真源唱跳万花镜",
@@ -4801,6 +4849,14 @@
       "onboard_time": 1746095841,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 174424,
+      "num": 174424,
+      "word": "高会直播时代少年团",
+      "onboard_time": 1746285083,
+      "rank": 31,
+      "category": "演出,艺人"
     },
     {
       "raw_hot": 174319,
@@ -5611,6 +5667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155025,
+      "num": 155025,
+      "word": "汪苏泷南京咪豆音乐节",
+      "onboard_time": 1746285264,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 155008,
       "num": 155008,
       "word": "苏醒听到叫他爱冷苏的反应",
@@ -5633,6 +5697,14 @@
       "onboard_time": 1746103583,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154486,
+      "num": 154486,
+      "word": "加州州长最新涉华表态",
+      "onboard_time": 1746284065,
+      "rank": 35,
+      "category": "民生新闻,国内时政"
     },
     {
       "raw_hot": 154167,
@@ -5721,6 +5793,22 @@
       "onboard_time": 1746277342,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 152369,
+      "num": 152369,
+      "word": "TES对战IG",
+      "onboard_time": 1746282205,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 152245,
+      "num": 152245,
+      "word": "钟丽丽这段不像演的",
+      "onboard_time": 1746285626,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 152223,
@@ -5907,6 +5995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148092,
+      "num": 148092,
+      "word": "时代少年团太超过了",
+      "onboard_time": 1746283644,
+      "rank": 39,
+      "category": "演出,音乐"
+    },
+    {
       "raw_hot": 148048,
       "num": 148048,
       "word": "南宁丢那猩互动时丢石块砸伤游客",
@@ -5969,6 +6065,14 @@
       "onboard_time": 1746198982,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 147390,
+      "num": 147390,
+      "word": "周深连发三条安全第一",
+      "onboard_time": 1746284124,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 147363,
@@ -6203,6 +6307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143708,
+      "num": 143708,
+      "word": "金莎孙丞潇稳稳的幸福",
+      "onboard_time": 1746284782,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143465,
       "num": 236693,
       "word": "美方想谈就应拿出谈的诚意",
@@ -6233,14 +6345,6 @@
       "onboard_time": 1746154049,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 142155,
-      "num": 142155,
-      "word": "吴艳妮创100米栏个人赛季最佳",
-      "onboard_time": 1746283045,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 142119,
@@ -6275,6 +6379,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 141506,
+      "num": 388075,
+      "word": "巴菲特称情绪稳定比高智商更重要",
+      "onboard_time": 1746280404,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 141329,
       "num": 141329,
       "word": "爱上大嫂是我的宿命",
@@ -6305,6 +6417,14 @@
       "onboard_time": 1746077720,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140904,
+      "num": 140904,
+      "word": "莱比锡vs拜仁",
+      "onboard_time": 1746284184,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 140793,
@@ -6515,6 +6635,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 137857,
+      "num": 137857,
+      "word": "网红柴怼怼被禁止发布作品",
+      "onboard_time": 1746285503,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137661,
       "num": 137661,
       "word": "周柯宇金发撕漫男",
@@ -6577,14 +6705,6 @@
       "onboard_time": 1746257361,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 137024,
-      "num": 137024,
-      "word": "TES对战IG",
-      "onboard_time": 1746282205,
-      "rank": 45,
-      "category": "电竞"
     },
     {
       "raw_hot": 136657,
@@ -6916,7 +7036,7 @@
     },
     {
       "raw_hot": 131514,
-      "num": 131514,
+      "num": 428445,
       "word": "美国博主发视频找人去中国代购",
       "onboard_time": 1746273801,
       "rank": 41,
@@ -7123,6 +7243,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 128338,
+      "num": 128338,
+      "word": "刘耀文纯生频直拍",
+      "onboard_time": 1746285022,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128193,
       "num": 220843,
       "word": "普通医学生培养时间能合理缩短吗",
@@ -7297,14 +7425,6 @@
       "onboard_time": 1746092361,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 126574,
-      "num": 126574,
-      "word": "巴菲特称情绪稳定比高智商更重要",
-      "onboard_time": 1746280404,
-      "rank": 48,
-      "category": "财经"
     },
     {
       "raw_hot": 126544,
@@ -9579,6 +9699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 73059,
+      "num": 980737,
+      "word": "五一假期文旅市场有哪些新亮点",
+      "onboard_time": 1746282504,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72959,
       "num": 72959,
       "word": "漓江竹筏大军过境史诗感拉满",
@@ -10899,14 +11027,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 26960,
-      "num": 980737,
-      "word": "五一假期文旅市场有哪些新亮点",
-      "onboard_time": 1746282504,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 26823,
       "num": 234319,
       "word": "王昶说奥运会每场球至少看了两遍",
@@ -11757,6 +11877,9 @@
     },
     {
       "word": "#为中国式现代化建设贡献青春力量#"
+    },
+    {
+      "word": "#总书记的青春寄语#"
     }
   ]
 }
