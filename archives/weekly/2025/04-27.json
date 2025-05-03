@@ -1,6 +1,6 @@
 {
   "startTime": 1745684906971,
-  "endTime": 1746244257472,
+  "endTime": 1746246524982,
   "band_list": [
     {
       "raw_hot": 8960529,
@@ -73,6 +73,14 @@
       "onboard_time": 1745886801,
       "rank": 10,
       "category": "教育"
+    },
+    {
+      "raw_hot": 3322504,
+      "num": 3322504,
+      "word": "五三惨案",
+      "onboard_time": 1746242841,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 3273945,
@@ -225,14 +233,6 @@
       "onboard_time": 1746105143,
       "rank": 4,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 2112544,
-      "num": 2112544,
-      "word": "五三惨案",
-      "onboard_time": 1746242841,
-      "rank": 0,
-      "category": "国内时政"
     },
     {
       "raw_hot": 2092212,
@@ -2939,6 +2939,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 549044,
+      "num": 549044,
+      "word": "泰山陪爬小伙2天挣了近2000元",
+      "onboard_time": 1746242599,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 548826,
       "num": 308225,
       "word": "华表奖提名名单",
@@ -3187,6 +3195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 519428,
+      "num": 519428,
+      "word": "孙俪晒照为小花妹妹庆生",
+      "onboard_time": 1746244100,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 518536,
       "num": 476669,
       "word": "亲子酒店员工朋友圈说希望小朋友死掉",
@@ -3201,6 +3217,14 @@
       "onboard_time": 1745929582,
       "rank": 11,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 514651,
+      "num": 514651,
+      "word": "五一的桂林快忙成马六甲了",
+      "onboard_time": 1746243321,
+      "rank": 30,
+      "category": "旅游"
     },
     {
       "raw_hot": 513161,
@@ -3721,6 +3745,14 @@
       "onboard_time": 1746143179,
       "rank": 12,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 457847,
+      "num": 330427,
+      "word": "太湖湾音乐节 激光笔",
+      "onboard_time": 1746244941,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 457707,
@@ -4555,14 +4587,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 373949,
-      "num": 373949,
-      "word": "泰山陪爬小伙2天挣了近2000元",
-      "onboard_time": 1746242599,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 373882,
       "num": 521277,
       "word": "歌手2025全民举荐",
@@ -5011,6 +5035,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 330341,
+      "num": 330341,
+      "word": "女子整理发霉衣柜后高烧40度",
+      "onboard_time": 1746243079,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 330154,
       "num": 330154,
       "word": "女子旅行途中惊闻独子离世崩溃大哭",
@@ -5232,6 +5264,14 @@
       "word": "特朗普妄称中国要做出让步",
       "onboard_time": 1745674942,
       "rank": 5,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 313104,
+      "num": 332505,
+      "word": "美多地爆发大规模抗议活动",
+      "onboard_time": 1746241699,
+      "rank": 34,
       "category": "国际时政"
     },
     {
@@ -5553,6 +5593,14 @@
       "onboard_time": 1746078740,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 296982,
+      "num": 296982,
+      "word": "火箭3比3勇士",
+      "onboard_time": 1746245239,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 296817,
@@ -6955,6 +7003,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 231467,
+      "num": 332243,
+      "word": "孟子义金宣虎wink",
+      "onboard_time": 1746243621,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 231139,
       "num": 194194,
       "word": "张婧仪本人超好看",
@@ -7131,14 +7187,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 225146,
-      "num": 140037,
-      "word": "五一的桂林快忙成马六甲了",
-      "onboard_time": 1746243321,
-      "rank": 30,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 224995,
       "num": 224995,
       "word": "陈清晨谈孙颖莎",
@@ -7289,14 +7337,6 @@
       "onboard_time": 1745978180,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 220230,
-      "num": 220230,
-      "word": "女子整理发霉衣柜后高烧40度",
-      "onboard_time": 1746243079,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 219632,
@@ -7697,6 +7737,14 @@
       "onboard_time": 1746109402,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 208491,
+      "num": 330657,
+      "word": "严浩翔贺峻霖 双人舞台",
+      "onboard_time": 1746245180,
+      "rank": 21,
+      "category": "演出"
     },
     {
       "raw_hot": 208402,
@@ -8105,6 +8153,14 @@
       "onboard_time": 1745850803,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 202642,
+      "num": 202642,
+      "word": "火箭vs勇士",
+      "onboard_time": 1745715381,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 202581,
@@ -9451,6 +9507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187872,
+      "num": 187872,
+      "word": "你一句甲天下 我就堵在了真桂林",
+      "onboard_time": 1746245902,
+      "rank": 34,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 187631,
       "num": 187631,
       "word": "赵丽颖畲族素面旗袍造型",
@@ -9625,6 +9689,14 @@
       "onboard_time": 1745722342,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186002,
+      "num": 331499,
+      "word": "欠200万老赖冒用身份坐高铁被拘5日",
+      "onboard_time": 1746245301,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 185756,
@@ -10611,14 +10683,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 168357,
-      "num": 168357,
-      "word": "孟子义金宣虎wink",
-      "onboard_time": 1746243621,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 168332,
       "num": 168332,
       "word": "谢娜说严浩翔导师你怕了吗",
@@ -10681,6 +10745,14 @@
       "onboard_time": 1746147029,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167173,
+      "num": 331587,
+      "word": "5名中国公民在美国交通事故中遇难",
+      "onboard_time": 1746246142,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 167076,
@@ -11555,6 +11627,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157968,
+      "num": 157968,
+      "word": "那晚数学和英语都喝醉了",
+      "onboard_time": 1746246441,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 157932,
+      "num": 157932,
+      "word": "苏杯中国2比0日本",
+      "onboard_time": 1746245239,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157807,
       "num": 157807,
       "word": "第二十条等获优秀故事片",
@@ -12371,6 +12459,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 148806,
+      "num": 148806,
+      "word": "凤凰组合哭了",
+      "onboard_time": 1746245239,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148745,
       "num": 280200,
       "word": "医疗圈出八卦的多是外科",
@@ -13147,6 +13243,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 141687,
+      "num": 141687,
+      "word": "冯彦哲复刻日本队庆祝动作回击",
+      "onboard_time": 1746245902,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141600,
       "num": 141600,
       "word": "小猫攻击前的准备动作是扭屁股",
@@ -13281,6 +13385,14 @@
       "onboard_time": 1746069261,
       "rank": 42,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 140582,
+      "num": 140582,
+      "word": "景区和游客都不知道对方实力",
+      "onboard_time": 1746245239,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 140569,
@@ -13705,14 +13817,6 @@
       "onboard_time": 1746031759,
       "rank": 13,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 136264,
-      "num": 136264,
-      "word": "美多地爆发大规模抗议活动",
-      "onboard_time": 1746241699,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 136183,
@@ -14315,6 +14419,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 130040,
+      "num": 331198,
+      "word": "无限王者团成团六周年",
+      "onboard_time": 1746245601,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 129903,
       "num": 129903,
       "word": "胡塞武装称再袭美杜鲁门号航母",
@@ -14603,14 +14715,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 127419,
-      "num": 127419,
-      "word": "孙俪晒照为小花妹妹庆生",
-      "onboard_time": 1746244100,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 127393,
       "num": 127393,
       "word": "崔胜澈好帅",
@@ -14675,12 +14779,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126719,
+      "num": 156936,
+      "word": "我的出游fitcheck",
+      "onboard_time": 1746245361,
+      "rank": 39,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 126668,
       "num": 126668,
       "word": "王源5.1还有惊喜",
       "onboard_time": 1745936484,
       "rank": 43,
       "category": "演出,音乐"
+    },
+    {
+      "raw_hot": 126652,
+      "num": 231263,
+      "word": "敖瑞鹏跳舞新装的四肢",
+      "onboard_time": 1746242660,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 126584,
@@ -14811,6 +14931,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 125304,
+      "num": 125304,
+      "word": "库里一个人的一波流",
+      "onboard_time": 1746243500,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125277,
       "num": 125277,
       "word": "张泽禹 OK最后倒计时啦",
@@ -14889,6 +15017,22 @@
       "onboard_time": 1745761464,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 124081,
+      "num": 124081,
+      "word": "NBA",
+      "onboard_time": 1745893041,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 124018,
+      "num": 124018,
+      "word": "石破茂称绝不接受对汽车加征关税",
+      "onboard_time": 1746245301,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 123872,
@@ -15139,6 +15283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120744,
+      "num": 124454,
+      "word": "刘诗诗张云龙面具转场",
+      "onboard_time": 1746244881,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120630,
       "num": 500560,
       "word": "科技不坑打工人",
@@ -15257,14 +15409,6 @@
       "onboard_time": 1745805441,
       "rank": 48,
       "category": "教育"
-    },
-    {
-      "raw_hot": 119712,
-      "num": 119712,
-      "word": "库里一个人的一波流",
-      "onboard_time": 1746243500,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 119679,
@@ -17195,14 +17339,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 97205,
-      "num": 98695,
-      "word": "火箭vs勇士",
-      "onboard_time": 1745715381,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 97192,
       "num": 150745,
       "word": "发现了韩国人来中国的秘密",
@@ -17955,19 +18091,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86546,
+      "num": 332095,
+      "word": "晒晒你的五一旅行照",
+      "onboard_time": 1746244941,
+      "rank": 12,
+      "category": "民生新闻,旅游"
+    },
+    {
+      "raw_hot": 86347,
+      "num": 331752,
+      "word": "AG闯进漫展新赛道",
+      "onboard_time": 1746245960,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 86320,
       "num": 86320,
       "word": "祝绪丹把姐姐们养的很好",
       "onboard_time": 1746175340,
       "rank": 46,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 86259,
-      "num": 86259,
-      "word": "敖瑞鹏跳舞新装的四肢",
-      "onboard_time": 1746242660,
-      "rank": 48,
       "category": "综艺"
     },
     {
@@ -18059,14 +18203,6 @@
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 85371,
-      "num": 85371,
-      "word": "NBA",
-      "onboard_time": 1745893041,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 85171,
       "num": 672094,
       "word": "高关税或是压倒美债的最后一根稻草",
@@ -18129,6 +18265,14 @@
       "onboard_time": 1746196832,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84658,
+      "num": 331259,
+      "word": "WAW漫展PLAVE周边限量放送",
+      "onboard_time": 1746245601,
+      "rank": 17,
+      "category": "动漫"
     },
     {
       "raw_hot": 84471,
@@ -19171,6 +19315,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 67751,
+      "num": 332823,
+      "word": "外国游客五一组团来中国买买买",
+      "onboard_time": 1746244761,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67680,
       "num": 630181,
       "word": "揭密中国如何追踪美国特工",
@@ -19481,6 +19633,14 @@
       "onboard_time": 1745882780,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 60759,
+      "num": 332565,
+      "word": "国羽冲击苏杯决赛",
+      "onboard_time": 1746245902,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 60617,
@@ -20145,6 +20305,22 @@
       "onboard_time": 1746020003,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50105,
+      "num": 157255,
+      "word": "植物人是可以动的",
+      "onboard_time": 1746246142,
+      "rank": 38,
+      "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 50102,
+      "num": 331887,
+      "word": "凤凰组合说始终顶着一口气",
+      "onboard_time": 1746245902,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 49733,
@@ -21243,6 +21419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 33600,
+      "num": 529225,
+      "word": "来天津感受河海津韵",
+      "onboard_time": 1746243680,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 33560,
       "num": 211154,
       "word": "美脱口秀辣评特朗普政府百日乱局",
@@ -21273,14 +21457,6 @@
       "onboard_time": 1746097343,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 33240,
-      "num": 529225,
-      "word": "来天津感受河海津韵",
-      "onboard_time": 1746243680,
-      "rank": 2,
-      "category": "正能量"
     },
     {
       "raw_hot": 33196,
@@ -21609,6 +21785,14 @@
       "onboard_time": 1745742142,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 28462,
+      "num": 331013,
+      "word": "阿斯伯格综合征的主要表现是什么",
+      "onboard_time": 1746246080,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 28328,
@@ -23890,6 +24074,9 @@
     },
     {
       "word": "#劳动创造幸福奋斗铸就伟业#"
+    },
+    {
+      "word": "#把造福人民作为根本价值取向#"
     }
   ]
 }
