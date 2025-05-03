@@ -1,6 +1,6 @@
 {
   "startTime": 1746203485460,
-  "endTime": 1746256952946,
+  "endTime": 1746257815815,
   "band_list": [
     {
       "raw_hot": 3458319,
@@ -67,6 +67,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 831061,
+      "num": 831061,
+      "word": "交警称9米长林肯是钻空子上山",
+      "onboard_time": 1746253461,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 808849,
       "num": 808849,
       "word": "三亚多名游客与向导失散困海中1小时",
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 724831,
-      "num": 262363,
+      "num": 269025,
       "word": "幼儿园园长之子性侵猥亵女童",
       "onboard_time": 1746256099,
       "rank": 11,
@@ -121,14 +129,6 @@
       "onboard_time": 1746243321,
       "rank": 30,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 711946,
-      "num": 711946,
-      "word": "交警称9米长林肯是钻空子上山",
-      "onboard_time": 1746253461,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 707219,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 533140,
-      "num": 205600,
+      "num": 258830,
       "word": "天降猫咪掉进露天火锅烫伤9人",
       "onboard_time": 1746248421,
       "rank": 26,
@@ -427,12 +427,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 300115,
+      "num": 264716,
+      "word": "陈雨菲发文胜利献给祖国",
+      "onboard_time": 1746256099,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 296982,
       "num": 296982,
       "word": "火箭3比3勇士",
       "onboard_time": 1746245239,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 289960,
+      "num": 289960,
+      "word": "谁把程潇的中药换成冰美式了",
+      "onboard_time": 1746256579,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 285021,
@@ -444,7 +460,7 @@
     },
     {
       "raw_hot": 284510,
-      "num": 210536,
+      "num": 231045,
       "word": "原来100元可以买这么多东西",
       "onboard_time": 1746250820,
       "rank": 38,
@@ -483,6 +499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 258087,
+      "num": 258087,
+      "word": "医学院有很多专业不能当医生",
+      "onboard_time": 1746256099,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 254270,
       "num": 254270,
       "word": "张智霖袁咏仪视频都在打麻将",
@@ -499,8 +523,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 243349,
-      "num": 243349,
+      "raw_hot": 243940,
+      "num": 243940,
       "word": "侯佩岑 我好喜欢李斯丹妮啊",
       "onboard_time": 1746256160,
       "rank": 16,
@@ -547,14 +571,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 223470,
-      "num": 139741,
-      "word": "陈雨菲发文胜利献给祖国",
-      "onboard_time": 1746256099,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 208491,
       "num": 330657,
       "word": "严浩翔贺峻霖 双人舞台",
@@ -577,14 +593,6 @@
       "onboard_time": 1746249140,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 203728,
-      "num": 203728,
-      "word": "医学院有很多专业不能当医生",
-      "onboard_time": 1746256099,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 203378,
@@ -787,14 +795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 168795,
-      "num": 168795,
-      "word": "谁把程潇的中药换成冰美式了",
-      "onboard_time": 1746256579,
-      "rank": 26,
-      "category": "演出"
-    },
-    {
       "raw_hot": 168332,
       "num": 168332,
       "word": "谢娜说严浩翔导师你怕了吗",
@@ -931,6 +931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 152003,
+      "num": 170677,
+      "word": "九尾漫展牛仔造型",
+      "onboard_time": 1746257600,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 151689,
       "num": 151689,
       "word": "王凯首度回应快两年没进组",
@@ -1051,6 +1059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137057,
+      "num": 137057,
+      "word": "谁家女主抱着男主和男二暧昧对视",
+      "onboard_time": 1746257361,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135876,
       "num": 135876,
       "word": "台幼儿园园长之子性侵猥亵6女童",
@@ -1115,6 +1131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129128,
+      "num": 129128,
+      "word": "跟喜欢的人短短聊天五分钟",
+      "onboard_time": 1746257419,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 128469,
       "num": 361085,
       "word": "三亚有游客骑摩托艇出海与向导失散",
@@ -1137,6 +1161,14 @@
       "onboard_time": 1746200901,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127388,
+      "num": 127388,
+      "word": "敖瑞鹏hi6初体验",
+      "onboard_time": 1746256821,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 126924,
@@ -1219,6 +1251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122833,
+      "num": 122833,
+      "word": "爸爸抱起孩子大狗仍追着咬",
+      "onboard_time": 1746256160,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121147,
       "num": 121147,
       "word": "以闪亮之名",
@@ -1241,6 +1281,14 @@
       "onboard_time": 1746237499,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 119510,
+      "num": 119510,
+      "word": "外国小哥穿白袜子走在东京街头",
+      "onboard_time": 1746257300,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 118293,
@@ -1273,14 +1321,6 @@
       "onboard_time": 1746253339,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 112657,
-      "num": 112657,
-      "word": "爸爸抱起孩子大狗仍追着咬",
-      "onboard_time": 1746256160,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 112465,
@@ -1355,6 +1395,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 107585,
+      "num": 260330,
+      "word": "三亚通报游客骑摩托艇出海跟丢向导",
+      "onboard_time": 1746255920,
+      "rank": 13,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 106870,
       "num": 106870,
       "word": "Bin 你觉得我会输吗",
@@ -1393,6 +1441,22 @@
       "onboard_time": 1746256281,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105277,
+      "num": 105277,
+      "word": "关于指甲",
+      "onboard_time": 1746257060,
+      "rank": 46,
+      "category": "科学科普,民生新闻"
+    },
+    {
+      "raw_hot": 104459,
+      "num": 274657,
+      "word": "国家队一出手就是超强实力",
+      "onboard_time": 1746256460,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104217,
@@ -1499,14 +1563,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 98149,
-      "num": 98149,
-      "word": "国家队一出手就是超强实力",
-      "onboard_time": 1746256460,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 97162,
       "num": 97162,
       "word": "胡歌生命树开机照",
@@ -1584,14 +1640,6 @@
       "word": "王星越版火力全开",
       "onboard_time": 1746249861,
       "rank": 49,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 94046,
-      "num": 94046,
-      "word": "敖瑞鹏hi6初体验",
-      "onboard_time": 1746256821,
-      "rank": 45,
       "category": "综艺"
     },
     {
@@ -1779,12 +1827,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 80360,
+      "num": 259031,
+      "word": "于东来与网红互怼怒称要退圈",
+      "onboard_time": 1746257181,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79270,
       "num": 92340,
       "word": "周洁琼直播模仿猫妖",
       "onboard_time": 1746202101,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 79156,
+      "num": 177552,
+      "word": "Cat复古牛仔造型",
+      "onboard_time": 1746257660,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 78121,
@@ -1825,6 +1889,14 @@
       "onboard_time": 1746202941,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 74563,
+      "num": 173433,
+      "word": "今天不堵车倒是堵羊了",
+      "onboard_time": 1746257419,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 74546,
@@ -1905,6 +1977,14 @@
       "onboard_time": 1746203600,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 64807,
+      "num": 117883,
+      "word": "自称川剧变脸的韩国传承者",
+      "onboard_time": 1746257539,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 63243,
@@ -2025,14 +2105,6 @@
       "onboard_time": 1746221895,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 49113,
-      "num": 260330,
-      "word": "三亚通报游客骑摩托艇出海跟丢向导",
-      "onboard_time": 1746255920,
-      "rank": 13,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 46598,
@@ -2171,6 +2243,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 26643,
+      "num": 261253,
+      "word": "喜欢的游戏动漫IP都来WAW了",
+      "onboard_time": 1746255801,
+      "rank": 14,
+      "category": "游戏,动漫"
+    },
+    {
       "raw_hot": 26309,
       "num": 49991,
       "word": "美众多鞋类公司将因关税倒闭",
@@ -2185,14 +2265,6 @@
       "onboard_time": 1746210675,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 25304,
-      "num": 259728,
-      "word": "喜欢的游戏动漫IP都来WAW了",
-      "onboard_time": 1746255801,
-      "rank": 14,
-      "category": "游戏,动漫"
     },
     {
       "raw_hot": 24326,
@@ -2251,6 +2323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 20704,
+      "num": 259367,
+      "word": "美国务院批准向乌提供F16培训",
+      "onboard_time": 1746257181,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 20065,
       "num": 135900,
       "word": "胖东来维权之路该如何展开",
@@ -2297,6 +2377,14 @@
       "onboard_time": 1746242479,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 14095,
+      "num": 259945,
+      "word": "小婉管乐的表演引起怎样的情感共鸣",
+      "onboard_time": 1746257060,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 12780,
