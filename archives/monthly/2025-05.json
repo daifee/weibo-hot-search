@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746312022713,
+  "endTime": 1746314574799,
   "band_list": [
     {
       "raw_hot": 3885539,
@@ -1459,6 +1459,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 487527,
+      "num": 161884,
+      "word": "王大陆找黑道查个人信息被起诉",
+      "onboard_time": 1746306914,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 485942,
       "num": 485942,
       "word": "周深一开嗓唱出踏风破浪",
@@ -2219,6 +2227,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 343054,
+      "num": 276520,
+      "word": "女子决定离婚再和AI男友举办婚礼",
+      "onboard_time": 1746300915,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 341176,
       "num": 341176,
       "word": "官方通报医院工作人员上班打游戏",
@@ -2625,14 +2641,6 @@
       "onboard_time": 1746245239,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 296844,
-      "num": 98375,
-      "word": "王大陆找黑道查个人信息被起诉",
-      "onboard_time": 1746306914,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 295814,
@@ -3888,14 +3896,6 @@
       "word": "这届年轻人五一出行不再大包小包",
       "onboard_time": 1746090742,
       "rank": 27,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 198112,
-      "num": 164442,
-      "word": "女子决定离婚再和AI男友举办婚礼",
-      "onboard_time": 1746300915,
-      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -5923,6 +5923,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153095,
+      "num": 153095,
+      "word": "大叔25年卖600万个鸡蛋饼挣4套房",
+      "onboard_time": 1746295756,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153068,
+      "num": 153068,
+      "word": "马丽感谢老公和沈腾老婆",
+      "onboard_time": 1746314056,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 152444,
       "num": 152444,
       "word": "柯洁吐槽智驾",
@@ -7643,14 +7659,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 125849,
-      "num": 125849,
-      "word": "大叔25年卖600万个鸡蛋饼挣4套房",
-      "onboard_time": 1746295756,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 125791,
       "num": 125791,
       "word": "陈雨菲2比1山口茜",
@@ -9275,6 +9283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 93680,
+      "num": 93680,
+      "word": "五四青年节",
+      "onboard_time": 1746313997,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93383,
       "num": 93383,
       "word": "周迅50岁素颜状态",
@@ -9449,6 +9465,14 @@
       "onboard_time": 1746237080,
       "rank": 44,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 87522,
+      "num": 87522,
+      "word": "第一次见粉丝把明星整红温了",
+      "onboard_time": 1746303975,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 87372,
@@ -10123,6 +10147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65076,
+      "num": 75092,
+      "word": "檀健次被泼懵了",
+      "onboard_time": 1746314118,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 64831,
       "num": 203951,
       "word": "男子实名举报村支书两度殴打其父",
@@ -10305,6 +10337,14 @@
       "onboard_time": 1746035896,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57947,
+      "num": 57947,
+      "word": "马丽 不要去干涉我们的生活",
+      "onboard_time": 1746314056,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 57486,
@@ -10659,14 +10699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 46210,
-      "num": 70087,
-      "word": "第一次见粉丝把明星整红温了",
-      "onboard_time": 1746303975,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 45977,
       "num": 189347,
       "word": "美鞋类巨头请求白宫豁免关税",
@@ -10753,6 +10785,14 @@
       "onboard_time": 1746243680,
       "rank": 2,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 43576,
+      "num": 43576,
+      "word": "欧尼熊",
+      "onboard_time": 1746314357,
+      "rank": 42,
+      "category": "网红"
     },
     {
       "raw_hot": 43384,
@@ -11099,12 +11139,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 34047,
+      "num": 43420,
+      "word": "海警回应日民用飞机侵闯钓鱼岛领空",
+      "onboard_time": 1746311715,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 34033,
       "num": 37316,
       "word": "贵州文旅太拼了",
       "onboard_time": 1746139396,
       "rank": 43,
       "category": "旅游,民生新闻"
+    },
+    {
+      "raw_hot": 33932,
+      "num": 43416,
+      "word": "李沐宸没接住戏",
+      "onboard_time": 1746314417,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 33725,
@@ -11153,6 +11209,14 @@
       "onboard_time": 1746179970,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 32006,
+      "num": 81374,
+      "word": "巴菲特向股东保证不会花钱办蠢事",
+      "onboard_time": 1746314118,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 31916,

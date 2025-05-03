@@ -1,6 +1,6 @@
 {
   "startTime": 1746289726292,
-  "endTime": 1746312022713,
+  "endTime": 1746314574799,
   "band_list": [
     {
       "raw_hot": 1397208,
@@ -75,6 +75,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 487527,
+      "num": 161884,
+      "word": "王大陆找黑道查个人信息被起诉",
+      "onboard_time": 1746306914,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 378874,
       "num": 378874,
       "word": "三个月瘦了32斤的侧脸变化",
@@ -89,6 +97,14 @@
       "onboard_time": 1746289461,
       "rank": 12,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 343054,
+      "num": 276520,
+      "word": "女子决定离婚再和AI男友举办婚礼",
+      "onboard_time": 1746300915,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 325157,
@@ -113,14 +129,6 @@
       "onboard_time": 1746263601,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 296844,
-      "num": 98375,
-      "word": "王大陆找黑道查个人信息被起诉",
-      "onboard_time": 1746306914,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 264883,
@@ -211,12 +219,12 @@
       "category": "演出,音乐"
     },
     {
-      "raw_hot": 198112,
-      "num": 164442,
-      "word": "女子决定离婚再和AI男友举办婚礼",
-      "onboard_time": 1746300915,
-      "rank": 40,
-      "category": "民生新闻"
+      "raw_hot": 187352,
+      "num": 187352,
+      "word": "32岁儿子辞职照顾2岁的妈妈",
+      "onboard_time": 1746276501,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 176310,
@@ -251,20 +259,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 162326,
-      "num": 162326,
-      "word": "32岁儿子辞职照顾2岁的妈妈",
-      "onboard_time": 1746276501,
-      "rank": 27,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 154016,
       "num": 154016,
       "word": "时代少年团海口演唱会",
       "onboard_time": 1746273202,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 153095,
+      "num": 153095,
+      "word": "大叔25年卖600万个鸡蛋饼挣4套房",
+      "onboard_time": 1746295756,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153068,
+      "num": 153068,
+      "word": "马丽感谢老公和沈腾老婆",
+      "onboard_time": 1746314056,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 145877,
@@ -307,20 +323,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 138104,
+      "num": 138104,
+      "word": "西安雷雨夜空现条状不明物",
+      "onboard_time": 1746270501,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136114,
       "num": 136114,
       "word": "沈月 戴上面具顺眼很多",
       "onboard_time": 1746277221,
       "rank": 34,
       "category": "剧集,艺人"
-    },
-    {
-      "raw_hot": 134797,
-      "num": 134797,
-      "word": "西安雷雨夜空现条状不明物",
-      "onboard_time": 1746270501,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 133566,
@@ -347,12 +363,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 125849,
-      "num": 125849,
-      "word": "大叔25年卖600万个鸡蛋饼挣4套房",
-      "onboard_time": 1746295756,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 121472,
+      "num": 121472,
+      "word": "郝蕾怼张丹峰说法海没有太太",
+      "onboard_time": 1746280703,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 115531,
@@ -411,6 +427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93680,
+      "num": 93680,
+      "word": "五四青年节",
+      "onboard_time": 1746313997,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93261,
       "num": 99108,
       "word": "女子爱上ChatGPT要与丈夫离婚",
@@ -425,6 +449,14 @@
       "onboard_time": 1746290540,
       "rank": 43,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 87522,
+      "num": 87522,
+      "word": "第一次见粉丝把明星整红温了",
+      "onboard_time": 1746303975,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 85130,
@@ -459,6 +491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 65076,
+      "num": 75092,
+      "word": "檀健次被泼懵了",
+      "onboard_time": 1746314118,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 62642,
       "num": 702961,
       "word": "五一假期文旅市场有哪些新亮点",
@@ -467,12 +507,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 46210,
-      "num": 70087,
-      "word": "第一次见粉丝把明星整红温了",
-      "onboard_time": 1746303975,
-      "rank": 49,
-      "category": "艺人"
+      "raw_hot": 57947,
+      "num": 57947,
+      "word": "马丽 不要去干涉我们的生活",
+      "onboard_time": 1746314056,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 46024,
@@ -481,6 +521,14 @@
       "onboard_time": 1746284065,
       "rank": 29,
       "category": "民生新闻,国内时政"
+    },
+    {
+      "raw_hot": 43576,
+      "num": 43576,
+      "word": "欧尼熊",
+      "onboard_time": 1746314357,
+      "rank": 42,
+      "category": "网红"
     },
     {
       "raw_hot": 39475,
@@ -513,6 +561,30 @@
       "onboard_time": 1746295756,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 34047,
+      "num": 43420,
+      "word": "海警回应日民用飞机侵闯钓鱼岛领空",
+      "onboard_time": 1746311715,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 33932,
+      "num": 43416,
+      "word": "李沐宸没接住戏",
+      "onboard_time": 1746314417,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 32006,
+      "num": 81374,
+      "word": "巴菲特向股东保证不会花钱办蠢事",
+      "onboard_time": 1746314118,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 29003,
