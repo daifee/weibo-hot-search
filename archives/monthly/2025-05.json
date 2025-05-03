@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746249884253,
+  "endTime": 1746250883795,
   "band_list": [
     {
       "raw_hot": 3885539,
@@ -691,6 +691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 719184,
+      "num": 719184,
+      "word": "五一的桂林快忙成马六甲了",
+      "onboard_time": 1746243321,
+      "rank": 30,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 716707,
       "num": 240860,
       "word": "唯一一个让高铁商务座亏钱的人",
@@ -721,14 +729,6 @@
       "onboard_time": 1746100701,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 710949,
-      "num": 710949,
-      "word": "五一的桂林快忙成马六甲了",
-      "onboard_time": 1746243321,
-      "rank": 30,
-      "category": "旅游"
     },
     {
       "raw_hot": 706317,
@@ -931,6 +931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 591790,
+      "num": 591790,
+      "word": "你一句甲天下 我就堵在了真桂林",
+      "onboard_time": 1746245902,
+      "rank": 34,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 591783,
       "num": 912202,
       "word": "原来躺久了也会消耗气血",
@@ -1025,14 +1033,6 @@
       "onboard_time": 1746067520,
       "rank": 23,
       "category": "财经"
-    },
-    {
-      "raw_hot": 551146,
-      "num": 551146,
-      "word": "你一句甲天下 我就堵在了真桂林",
-      "onboard_time": 1746245902,
-      "rank": 34,
-      "category": "旅游"
     },
     {
       "raw_hot": 550932,
@@ -1483,6 +1483,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 413990,
+      "num": 482316,
+      "word": "虞书欣夹心摇破百万",
+      "onboard_time": 1746247580,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 413942,
       "num": 271020,
       "word": "人人人人人人景点人人人人人人",
@@ -1843,14 +1851,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 325298,
-      "num": 482316,
-      "word": "虞书欣夹心摇破百万",
-      "onboard_time": 1746247580,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 324257,
       "num": 329082,
       "word": "电影哪吒之魔童闹海",
@@ -1915,11 +1915,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 315033,
+      "num": 315033,
+      "word": "校方就退60件演出服事件道歉",
+      "onboard_time": 1746250101,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 313301,
       "num": 240580,
       "word": "两大叔圈天菜终于又合作了",
       "onboard_time": 1746020363,
       "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 312510,
+      "num": 312510,
+      "word": "锦月如歌",
+      "onboard_time": 1746249021,
+      "rank": 18,
       "category": "剧集"
     },
     {
@@ -2339,6 +2355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 254270,
+      "num": 254270,
+      "word": "张智霖袁咏仪视频都在打麻将",
+      "onboard_time": 1746248600,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 253916,
       "num": 253916,
       "word": "荣昌真的接住了泼天流量",
@@ -2555,14 +2579,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 224241,
-      "num": 224241,
-      "word": "张智霖袁咏仪视频都在打麻将",
-      "onboard_time": 1746248600,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 223111,
       "num": 223111,
       "word": "什么是医政调查",
@@ -2601,14 +2617,6 @@
       "onboard_time": 1746149068,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 219280,
-      "num": 214096,
-      "word": "锦月如歌",
-      "onboard_time": 1746249021,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 218913,
@@ -2713,6 +2721,14 @@
       "onboard_time": 1746245180,
       "rank": 21,
       "category": "演出"
+    },
+    {
+      "raw_hot": 207909,
+      "num": 253358,
+      "word": "李斯丹妮一出场姐姐们哇声一片",
+      "onboard_time": 1746248960,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 206815,
@@ -2849,14 +2865,6 @@
       "onboard_time": 1746088582,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 202361,
-      "num": 215319,
-      "word": "李斯丹妮一出场姐姐们哇声一片",
-      "onboard_time": 1746248960,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 202257,
@@ -3627,6 +3635,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 182756,
+      "num": 182756,
+      "word": "校方建议被恶意退货商家报警",
+      "onboard_time": 1746249261,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 182477,
       "num": 182477,
       "word": "我的五一",
@@ -3721,6 +3737,14 @@
       "onboard_time": 1746226637,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178608,
+      "num": 239135,
+      "word": "这竟然是黄奕",
+      "onboard_time": 1746250402,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 178371,
@@ -3969,6 +3993,22 @@
       "onboard_time": 1746198384,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 166480,
+      "num": 166480,
+      "word": "五一我的嘴没停过",
+      "onboard_time": 1746250820,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 166442,
+      "num": 166442,
+      "word": "于正说吴谨言本月会复出",
+      "onboard_time": 1746249741,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 166358,
@@ -4875,6 +4915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143916,
+      "num": 143916,
+      "word": "原来100元可以买这么多东西",
+      "onboard_time": 1746250820,
+      "rank": 38,
+      "category": "情感,民生新闻"
+    },
+    {
       "raw_hot": 143465,
       "num": 236693,
       "word": "美方想谈就应拿出谈的诚意",
@@ -5009,14 +5057,6 @@
       "onboard_time": 1746188669,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 140529,
-      "num": 140529,
-      "word": "校方建议被恶意退货商家报警",
-      "onboard_time": 1746249261,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 140467,
@@ -5771,6 +5811,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 125791,
+      "num": 125791,
+      "word": "陈雨菲2比1山口茜",
+      "onboard_time": 1746248001,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125654,
       "num": 157510,
       "word": "财会证书的段位",
@@ -5952,14 +6000,6 @@
       "word": "詹姆斯谈未来打算",
       "onboard_time": 1746087561,
       "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 121368,
-      "num": 121368,
-      "word": "陈雨菲2比1山口茜",
-      "onboard_time": 1746248001,
-      "rank": 39,
       "category": "体育"
     },
     {
@@ -6249,14 +6289,6 @@
       "onboard_time": 1746199883,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 114030,
-      "num": 114030,
-      "word": "于正说吴谨言本月会复出",
-      "onboard_time": 1746249741,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 113945,
@@ -6563,6 +6595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108150,
+      "num": 108150,
+      "word": "换个地方点外卖就是旅游",
+      "onboard_time": 1746250820,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 108091,
       "num": 108091,
       "word": "大家减肥都是越减越癫的",
@@ -6665,6 +6705,14 @@
       "onboard_time": 1746241639,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106628,
+      "num": 106628,
+      "word": "把米饭溶解了",
+      "onboard_time": 1746250701,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 106590,
@@ -7187,6 +7235,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 88844,
+      "num": 200590,
+      "word": "清融waw营业比耶照",
+      "onboard_time": 1746249920,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 88689,
       "num": 322368,
       "word": "第一视角感受各行各业奋斗日常",
@@ -7409,6 +7465,14 @@
       "onboard_time": 1746203839,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 81856,
+      "num": 109197,
+      "word": "苏新皓water舞台",
+      "onboard_time": 1746250160,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 81556,
@@ -7899,6 +7963,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 59087,
+      "num": 249561,
+      "word": "王昶陈其遒场边互动",
+      "onboard_time": 1746250101,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 58475,
       "num": 58475,
       "word": "中国留学生自豪告诉俄民众这是中国",
@@ -7929,6 +8001,14 @@
       "onboard_time": 1746128175,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57069,
+      "num": 257890,
+      "word": "日本称1万亿美债是谈判工具",
+      "onboard_time": 1746250101,
+      "rank": 14,
+      "category": "国际时政,财经"
     },
     {
       "raw_hot": 56372,
@@ -8931,6 +9011,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 21290,
+      "num": 250156,
+      "word": "火箭勇士谁将赢下抢七",
+      "onboard_time": 1746249683,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 21210,
       "num": 209720,
       "word": "曾毅演卡车司机30分钟学会漂移",
@@ -9001,14 +9089,6 @@
       "onboard_time": 1746241999,
       "rank": 14,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 18866,
-      "num": 205770,
-      "word": "火箭勇士谁将赢下抢七",
-      "onboard_time": 1746249683,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 18174,

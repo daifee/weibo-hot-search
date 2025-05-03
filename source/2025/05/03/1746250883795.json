@@ -1,0 +1,410 @@
+{
+  "runTime": 1746250883795,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2020605,
+        "num": 2020605,
+        "word": "五三惨案",
+        "onboard_time": 1746242841,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 719184,
+        "num": 719184,
+        "word": "五一的桂林快忙成马六甲了",
+        "onboard_time": 1746243321,
+        "rank": 1,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 46913,
+        "num": 716252,
+        "word": "致敬每一位大国工程建设者",
+        "onboard_time": 1746244341,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 715955,
+        "num": 715955,
+        "word": "5名中国公民在美国交通事故中遇难",
+        "onboard_time": 1746246142,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 591790,
+        "num": 591790,
+        "word": "你一句甲天下 我就堵在了真桂林",
+        "onboard_time": 1746245902,
+        "rank": 4,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 477377,
+        "num": 477377,
+        "word": "孙俪晒照为小花妹妹庆生",
+        "onboard_time": 1746244100,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413990,
+        "num": 413990,
+        "word": "虞书欣夹心摇破百万",
+        "onboard_time": 1746247580,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 387859,
+        "num": 387859,
+        "word": "泰山陪爬小伙2天挣了近2000元",
+        "onboard_time": 1746242599,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315033,
+        "num": 315033,
+        "word": "校方就退60件演出服事件道歉",
+        "onboard_time": 1746250101,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 312510,
+        "num": 312510,
+        "word": "锦月如歌",
+        "onboard_time": 1746249021,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1519252,
+        "num": 293539,
+        "word": "石凯聊天记录",
+        "onboard_time": 1746241760,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 443539,
+        "num": 293502,
+        "word": "太湖湾音乐节 激光笔",
+        "onboard_time": 1746244941,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 409007,
+        "num": 285040,
+        "word": "马斯克得知美国资助项目笑出声",
+        "onboard_time": 1746247881,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 269872,
+        "num": 269872,
+        "word": "女子整理发霉衣柜后高烧40度",
+        "onboard_time": 1746243079,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57069,
+        "num": 257890,
+        "word": "日本称1万亿美债是谈判工具",
+        "onboard_time": 1746250101,
+        "rank": 14,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 254270,
+        "num": 254270,
+        "word": "张智霖袁咏仪视频都在打麻将",
+        "onboard_time": 1746248600,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207909,
+        "num": 253358,
+        "word": "李斯丹妮一出场姐姐们哇声一片",
+        "onboard_time": 1746248960,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191392,
+        "num": 251629,
+        "word": "吴宣仪陈德容穿婚纱唱爱存在",
+        "onboard_time": 1746236720,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21290,
+        "num": 250156,
+        "word": "火箭勇士谁将赢下抢七",
+        "onboard_time": 1746249683,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59087,
+        "num": 249561,
+        "word": "王昶陈其遒场边互动",
+        "onboard_time": 1746250101,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 248605,
+        "num": 248605,
+        "word": "欠200万老赖冒用身份坐高铁被拘5日",
+        "onboard_time": 1746245301,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178608,
+        "num": 239135,
+        "word": "这竟然是黄奕",
+        "onboard_time": 1746250402,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236947,
+        "num": 236947,
+        "word": "陈丽君争议片段已删除",
+        "onboard_time": 1746200182,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 224387,
+        "num": 224387,
+        "word": "64岁男子地下室囚禁虐待两姐妹7年",
+        "onboard_time": 1746233120,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88844,
+        "num": 200590,
+        "word": "清融waw营业比耶照",
+        "onboard_time": 1746249920,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 197737,
+        "num": 197737,
+        "word": "天降猫咪掉进露天火锅烫伤9人",
+        "onboard_time": 1746248421,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182756,
+        "num": 182756,
+        "word": "校方建议被恶意退货商家报警",
+        "onboard_time": 1746249261,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182458,
+        "num": 182458,
+        "word": "乘风",
+        "onboard_time": 1746249981,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180827,
+        "num": 180827,
+        "word": "倪虹洁身材好辣",
+        "onboard_time": 1746241760,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175373,
+        "num": 175373,
+        "word": "太湖湾音乐节",
+        "onboard_time": 1746248901,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 178226,
+        "num": 175196,
+        "word": "金靖拍的赫丽摸金宇ccd",
+        "onboard_time": 1746249501,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174521,
+        "num": 174521,
+        "word": "石破茂称绝不接受对汽车加征关税",
+        "onboard_time": 1746245301,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 166480,
+        "num": 166480,
+        "word": "五一我的嘴没停过",
+        "onboard_time": 1746250820,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166442,
+        "num": 166442,
+        "word": "于正说吴谨言本月会复出",
+        "onboard_time": 1746249741,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158969,
+        "num": 158969,
+        "word": "严浩翔贺峻霖 双人舞台",
+        "onboard_time": 1746245180,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 155213,
+        "num": 155213,
+        "word": "孟子义金宣虎wink",
+        "onboard_time": 1746243621,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 152802,
+        "num": 152802,
+        "word": "火箭3比3勇士",
+        "onboard_time": 1746245239,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148633,
+        "num": 148633,
+        "word": "孟佳淋雨下跪镜头",
+        "onboard_time": 1746249140,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143916,
+        "num": 143916,
+        "word": "原来100元可以买这么多东西",
+        "onboard_time": 1746250820,
+        "rank": 38,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 134856,
+        "num": 134856,
+        "word": "校方回应学生组团狂退60多件裙子",
+        "onboard_time": 1746201321,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130475,
+        "num": 130475,
+        "word": "金价",
+        "onboard_time": 1746248780,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 126769,
+        "num": 126769,
+        "word": "美多地爆发大规模抗议活动",
+        "onboard_time": 1746241699,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 125791,
+        "num": 125791,
+        "word": "陈雨菲2比1山口茜",
+        "onboard_time": 1746248001,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118839,
+        "num": 118839,
+        "word": "一直对月薪4000没概念直到换成天",
+        "onboard_time": 1746198152,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113228,
+        "num": 113228,
+        "word": "济南连续25年鸣响防空警报",
+        "onboard_time": 1746241699,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111411,
+        "num": 111411,
+        "word": "韩安冉否认前夫抑郁和她有关",
+        "onboard_time": 1746246561,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81856,
+        "num": 109197,
+        "word": "苏新皓water舞台",
+        "onboard_time": 1746250160,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 108150,
+        "num": 108150,
+        "word": "换个地方点外卖就是旅游",
+        "onboard_time": 1746250820,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 106628,
+        "num": 106628,
+        "word": "把米饭溶解了",
+        "onboard_time": 1746250701,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102514,
+        "num": 102514,
+        "word": "江一燕房琪淘汰",
+        "onboard_time": 1746232759,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#把造福人民作为根本价值取向#"
+    }
+  }
+}

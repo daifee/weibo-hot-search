@@ -1,6 +1,6 @@
 {
   "startTime": 1746203485460,
-  "endTime": 1746249884253,
+  "endTime": 1746250883795,
   "band_list": [
     {
       "raw_hot": 3458319,
@@ -91,8 +91,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 710949,
-      "num": 710949,
+      "raw_hot": 719184,
+      "num": 719184,
       "word": "五一的桂林快忙成马六甲了",
       "onboard_time": 1746243321,
       "rank": 30,
@@ -139,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 591790,
+      "num": 591790,
+      "word": "你一句甲天下 我就堵在了真桂林",
+      "onboard_time": 1746245902,
+      "rank": 34,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 591783,
       "num": 912202,
       "word": "原来躺久了也会消耗气血",
@@ -153,14 +161,6 @@
       "onboard_time": 1746244100,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 551146,
-      "num": 551146,
-      "word": "你一句甲天下 我就堵在了真桂林",
-      "onboard_time": 1746245902,
-      "rank": 34,
-      "category": "旅游"
     },
     {
       "raw_hot": 548617,
@@ -243,6 +243,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 413990,
+      "num": 482316,
+      "word": "虞书欣夹心摇破百万",
+      "onboard_time": 1746247580,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 402024,
       "num": 402024,
       "word": "双休制度提案委员王贤才逝世",
@@ -283,20 +291,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 325298,
-      "num": 482316,
-      "word": "虞书欣夹心摇破百万",
-      "onboard_time": 1746247580,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 316773,
       "num": 332505,
       "word": "美多地爆发大规模抗议活动",
       "onboard_time": 1746241699,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 315033,
+      "num": 315033,
+      "word": "校方就退60件演出服事件道歉",
+      "onboard_time": 1746250101,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 312510,
+      "num": 312510,
+      "word": "锦月如歌",
+      "onboard_time": 1746249021,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 308894,
@@ -371,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 254270,
+      "num": 254270,
+      "word": "张智霖袁咏仪视频都在打麻将",
+      "onboard_time": 1746248600,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 251122,
       "num": 238102,
       "word": "谁家剧一次集齐四个疯批",
@@ -411,28 +435,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 224241,
-      "num": 224241,
-      "word": "张智霖袁咏仪视频都在打麻将",
-      "onboard_time": 1746248600,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 219280,
-      "num": 214096,
-      "word": "锦月如歌",
-      "onboard_time": 1746249021,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 208491,
       "num": 330657,
       "word": "严浩翔贺峻霖 双人舞台",
       "onboard_time": 1746245180,
       "rank": 21,
       "category": "演出"
+    },
+    {
+      "raw_hot": 207909,
+      "num": 253358,
+      "word": "李斯丹妮一出场姐姐们哇声一片",
+      "onboard_time": 1746248960,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 205600,
@@ -473,14 +489,6 @@
       "onboard_time": 1746245301,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 202361,
-      "num": 215319,
-      "word": "李斯丹妮一出场姐姐们哇声一片",
-      "onboard_time": 1746248960,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 199423,
@@ -579,6 +587,22 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 182756,
+      "num": 182756,
+      "word": "校方建议被恶意退货商家报警",
+      "onboard_time": 1746249261,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 182458,
+      "num": 182458,
+      "word": "乘风",
+      "onboard_time": 1746249981,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179648,
       "num": 212189,
       "word": "石破茂称绝不接受对汽车加征关税",
@@ -593,6 +617,14 @@
       "onboard_time": 1746226637,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178608,
+      "num": 239135,
+      "word": "这竟然是黄奕",
+      "onboard_time": 1746250402,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 176728,
@@ -625,6 +657,22 @@
       "onboard_time": 1746244220,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166480,
+      "num": 166480,
+      "word": "五一我的嘴没停过",
+      "onboard_time": 1746250820,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 166442,
+      "num": 166442,
+      "word": "于正说吴谨言本月会复出",
+      "onboard_time": 1746249741,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 165693,
@@ -771,6 +819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143916,
+      "num": 143916,
+      "word": "原来100元可以买这么多东西",
+      "onboard_time": 1746250820,
+      "rank": 38,
+      "category": "情感,民生新闻"
+    },
+    {
       "raw_hot": 143702,
       "num": 143702,
       "word": "爸爸用维生素为女儿变出萤火流星雨",
@@ -793,14 +849,6 @@
       "onboard_time": 1746245239,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 140529,
-      "num": 140529,
-      "word": "校方建议被恶意退货商家报警",
-      "onboard_time": 1746249261,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 139230,
@@ -931,6 +979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125791,
+      "num": 125791,
+      "word": "陈雨菲2比1山口茜",
+      "onboard_time": 1746248001,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125304,
       "num": 125304,
       "word": "库里一个人的一波流",
@@ -961,14 +1017,6 @@
       "onboard_time": 1746233540,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 121368,
-      "num": 121368,
-      "word": "陈雨菲2比1山口茜",
-      "onboard_time": 1746248001,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 121147,
@@ -1009,14 +1057,6 @@
       "onboard_time": 1746242180,
       "rank": 43,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 114030,
-      "num": 114030,
-      "word": "于正说吴谨言本月会复出",
-      "onboard_time": 1746249741,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 112465,
@@ -1067,6 +1107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108150,
+      "num": 108150,
+      "word": "换个地方点外卖就是旅游",
+      "onboard_time": 1746250820,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 107803,
       "num": 107803,
       "word": "五一假期第三天的状态",
@@ -1089,6 +1137,14 @@
       "onboard_time": 1746241639,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106628,
+      "num": 106628,
+      "word": "把米饭溶解了",
+      "onboard_time": 1746250701,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 106332,
@@ -1275,6 +1331,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 88844,
+      "num": 200590,
+      "word": "清融waw营业比耶照",
+      "onboard_time": 1746249920,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 88344,
       "num": 206723,
       "word": "四川芬达愿赔偿杨坤相关直播收益",
@@ -1377,6 +1441,14 @@
       "onboard_time": 1746203839,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 81856,
+      "num": 109197,
+      "word": "苏新皓water舞台",
+      "onboard_time": 1746250160,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 81286,
@@ -1553,6 +1625,22 @@
       "onboard_time": 1746205337,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 59087,
+      "num": 249561,
+      "word": "王昶陈其遒场边互动",
+      "onboard_time": 1746250101,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 57069,
+      "num": 257890,
+      "word": "日本称1万亿美债是谈判工具",
+      "onboard_time": 1746250101,
+      "rank": 14,
+      "category": "国际时政,财经"
     },
     {
       "raw_hot": 53391,
@@ -1795,20 +1883,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 21290,
+      "num": 250156,
+      "word": "火箭勇士谁将赢下抢七",
+      "onboard_time": 1746249683,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 19421,
       "num": 248102,
       "word": "为什么有人一放假就生病",
       "onboard_time": 1746241999,
       "rank": 14,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 18866,
-      "num": 205770,
-      "word": "火箭勇士谁将赢下抢七",
-      "onboard_time": 1746249683,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 16537,
