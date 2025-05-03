@@ -1,0 +1,410 @@
+{
+  "runTime": 1746315438539,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 385555,
+        "num": 871688,
+        "word": "女生手机自动连上酒店WiFi被分手",
+        "onboard_time": 1746272901,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 313298,
+        "num": 313298,
+        "word": "马丽回应与沈腾cp被过分关注",
+        "onboard_time": 1746288501,
+        "rank": 1,
+        "category": "电影,艺人"
+      },
+      {
+        "raw_hot": 50691,
+        "num": 232535,
+        "word": "五一假期文旅市场有哪些新亮点",
+        "onboard_time": 1746282504,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 555890,
+        "num": 217457,
+        "word": "霍思燕一家与贾乃亮一家出游",
+        "onboard_time": 1746277583,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327453,
+        "num": 215178,
+        "word": "女子决定离婚再和AI男友举办婚礼",
+        "onboard_time": 1746300915,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198062,
+        "num": 198062,
+        "word": "特朗普把自己P成了教皇",
+        "onboard_time": 1746277342,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 417237,
+        "num": 198022,
+        "word": "马丽感谢老公和沈腾老婆",
+        "onboard_time": 1746314056,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 197950,
+        "num": 197950,
+        "word": "meiko",
+        "onboard_time": 1746288021,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 192831,
+        "num": 192831,
+        "word": "医院回应女生输头孢过敏离世",
+        "onboard_time": 1746289461,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 178511,
+        "num": 178511,
+        "word": "马丽 不要去干涉我们的生活",
+        "onboard_time": 1746314056,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 498257,
+        "num": 177529,
+        "word": "王大陆找黑道查个人信息被起诉",
+        "onboard_time": 1746306914,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343731,
+        "num": 176736,
+        "word": "全红婵老家建120平别墅",
+        "onboard_time": 1746282743,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184247,
+        "num": 175188,
+        "word": "抖音回应胖东来投诉柴怼怼",
+        "onboard_time": 1746288801,
+        "rank": 12,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 173560,
+        "num": 173560,
+        "word": "32岁儿子辞职照顾2岁的妈妈",
+        "onboard_time": 1746276501,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154154,
+        "num": 154154,
+        "word": "大叔25年卖600万个鸡蛋饼挣4套房",
+        "onboard_time": 1746295756,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148207,
+        "num": 148207,
+        "word": "哈里王子想与英国王室和解",
+        "onboard_time": 1746284841,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 139564,
+        "num": 139564,
+        "word": "郝蕾怼张丹峰说法海没有太太",
+        "onboard_time": 1746280703,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136746,
+        "num": 136746,
+        "word": "灵隐寺260万年租金的小卖部",
+        "onboard_time": 1746263601,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134548,
+        "num": 134548,
+        "word": "西安雷雨夜空现条状不明物",
+        "onboard_time": 1746270501,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129677,
+        "num": 129677,
+        "word": "欧尼熊 可心",
+        "onboard_time": 1746269962,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 127864,
+        "num": 127864,
+        "word": "五四青年节",
+        "onboard_time": 1746313997,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 308901,
+        "num": 126239,
+        "word": "大一女生输头孢过敏离世",
+        "onboard_time": 1746284604,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123701,
+        "num": 123701,
+        "word": "欧尼熊",
+        "onboard_time": 1746314357,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 91082,
+        "num": 91082,
+        "word": "不体面却赚钱的工作",
+        "onboard_time": 1746269781,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 90364,
+        "num": 90364,
+        "word": "工藤新一第31个17岁",
+        "onboard_time": 1746291738,
+        "rank": 24,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 86252,
+        "num": 86252,
+        "word": "20句祝福送给青春追梦人",
+        "onboard_time": 1746314597,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82305,
+        "num": 86051,
+        "word": "李沐宸没接住戏",
+        "onboard_time": 1746314417,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81653,
+        "num": 85658,
+        "word": "歌手2025全民举荐",
+        "onboard_time": 1746287901,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81176,
+        "num": 85050,
+        "word": "这居然是华晨宇",
+        "onboard_time": 1746278904,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 77960,
+        "num": 84868,
+        "word": "淮水竹亭编剧 殿前欢",
+        "onboard_time": 1746281485,
+        "rank": 29,
+        "category": "综艺,剧集"
+      },
+      {
+        "raw_hot": 84551,
+        "num": 84551,
+        "word": "最后一批中国商品免关税货船本周入美",
+        "onboard_time": 1746286162,
+        "rank": 30,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 78086,
+        "num": 78086,
+        "word": "三个月瘦了32斤的侧脸变化",
+        "onboard_time": 1746272480,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 77850,
+        "num": 77850,
+        "word": "越来越看不懂上海面包店了",
+        "onboard_time": 1746280164,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 77464,
+        "num": 77464,
+        "word": "第一次见粉丝把明星整红温了",
+        "onboard_time": 1746303975,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75758,
+        "num": 75758,
+        "word": "檀健次被泼懵了",
+        "onboard_time": 1746314118,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71348,
+        "num": 71348,
+        "word": "韩国人爱上果茶完全是人之常情",
+        "onboard_time": 1746314597,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 31780,
+        "num": 70189,
+        "word": "巴菲特向股东保证不会花钱办蠢事",
+        "onboard_time": 1746314118,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 69791,
+        "num": 69791,
+        "word": "iG",
+        "onboard_time": 1746288021,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 68144,
+        "num": 68144,
+        "word": "武契奇因病中断访美",
+        "onboard_time": 1746287842,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 67213,
+        "num": 67213,
+        "word": "才知道补气血是有顺序的",
+        "onboard_time": 1746314658,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 65131,
+        "num": 65131,
+        "word": "欧尼熊出轨澄清",
+        "onboard_time": 1746279205,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 63189,
+        "num": 63189,
+        "word": "廷奇12秒87打破刘翔赛会纪录",
+        "onboard_time": 1746314658,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61356,
+        "num": 61356,
+        "word": "十个勤天新歌的青年力量",
+        "onboard_time": 1746315019,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 8273,
+        "num": 57882,
+        "word": "武契奇短期内将暂停工作",
+        "onboard_time": 1746315378,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 57395,
+        "num": 57395,
+        "word": "加州州长最新涉华表态",
+        "onboard_time": 1746284065,
+        "rank": 44,
+        "category": "民生新闻,国内时政"
+      },
+      {
+        "raw_hot": 56923,
+        "num": 56923,
+        "word": "米哈游新游首曝",
+        "onboard_time": 1746314597,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 54368,
+        "num": 54368,
+        "word": "张云龙回复沈月",
+        "onboard_time": 1746289940,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54080,
+        "num": 54080,
+        "word": "巴菲特建议找工作不要太在意薪水",
+        "onboard_time": 1746314597,
+        "rank": 47,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 53817,
+        "num": 53817,
+        "word": "女子爱上ChatGPT要与丈夫离婚",
+        "onboard_time": 1746273202,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 53731,
+        "num": 53731,
+        "word": "中国驻日本大使向日方提出严正交涉",
+        "onboard_time": 1746286282,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的青春寄语#"
+    }
+  }
+}

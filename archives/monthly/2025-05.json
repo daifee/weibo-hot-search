@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746314574799,
+  "endTime": 1746315438539,
   "band_list": [
     {
       "raw_hot": 3885539,
@@ -1435,6 +1435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 498257,
+      "num": 177529,
+      "word": "王大陆找黑道查个人信息被起诉",
+      "onboard_time": 1746306914,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 497382,
       "num": 497382,
       "word": "为什么全国景区都有这种水果",
@@ -1457,14 +1465,6 @@
       "onboard_time": 1746178289,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 487527,
-      "num": 161884,
-      "word": "王大陆找黑道查个人信息被起诉",
-      "onboard_time": 1746306914,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 485942,
@@ -1873,6 +1873,14 @@
       "onboard_time": 1746247881,
       "rank": 12,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 417237,
+      "num": 198022,
+      "word": "马丽感谢老公和沈腾老婆",
+      "onboard_time": 1746314056,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 415561,
@@ -3428,7 +3436,7 @@
     },
     {
       "raw_hot": 214074,
-      "num": 170529,
+      "num": 175188,
       "word": "抖音回应胖东来投诉柴怼怼",
       "onboard_time": 1746288801,
       "rank": 42,
@@ -4859,6 +4867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178511,
+      "num": 178511,
+      "word": "马丽 不要去干涉我们的生活",
+      "onboard_time": 1746314056,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 178371,
       "num": 178371,
       "word": "第一次见开榴莲开出榴莲糖",
@@ -5875,6 +5891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154154,
+      "num": 154154,
+      "word": "大叔25年卖600万个鸡蛋饼挣4套房",
+      "onboard_time": 1746295756,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 153849,
       "num": 153849,
       "word": "苏新皓 第一视角",
@@ -5921,22 +5945,6 @@
       "onboard_time": 1746106703,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 153095,
-      "num": 153095,
-      "word": "大叔25年卖600万个鸡蛋饼挣4套房",
-      "onboard_time": 1746295756,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 153068,
-      "num": 153068,
-      "word": "马丽感谢老公和沈腾老婆",
-      "onboard_time": 1746314056,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 152444,
@@ -7451,6 +7459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127864,
+      "num": 127864,
+      "word": "五四青年节",
+      "onboard_time": 1746313997,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127843,
       "num": 127843,
       "word": "RW止步四强",
@@ -7777,6 +7793,14 @@
       "onboard_time": 1746251902,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123701,
+      "num": 123701,
+      "word": "欧尼熊",
+      "onboard_time": 1746314357,
+      "rank": 42,
+      "category": "网红"
     },
     {
       "raw_hot": 123644,
@@ -9283,14 +9307,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 93680,
-      "num": 93680,
-      "word": "五四青年节",
-      "onboard_time": 1746313997,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 93383,
       "num": 93383,
       "word": "周迅50岁素颜状态",
@@ -9515,6 +9531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 86252,
+      "num": 86252,
+      "word": "20句祝福送给青春追梦人",
+      "onboard_time": 1746314597,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86223,
       "num": 84320,
       "word": "饶毅教授曾批协和任人唯亲",
@@ -9673,6 +9697,14 @@
       "onboard_time": 1746174021,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 82305,
+      "num": 86051,
+      "word": "李沐宸没接住戏",
+      "onboard_time": 1746314417,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 81996,
@@ -9867,6 +9899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75758,
+      "num": 75758,
+      "word": "檀健次被泼懵了",
+      "onboard_time": 1746314118,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 75714,
       "num": 115993,
       "word": "回看张雪峰视频让人感慨万千",
@@ -10027,6 +10067,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 71348,
+      "num": 71348,
+      "word": "韩国人爱上果茶完全是人之常情",
+      "onboard_time": 1746314597,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 70393,
       "num": 172889,
       "word": "多方回应游客未让座遭两女一男殴打",
@@ -10099,6 +10147,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 67213,
+      "num": 67213,
+      "word": "才知道补气血是有顺序的",
+      "onboard_time": 1746314658,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 66046,
       "num": 228470,
       "word": "凤凰传奇的兵五一在影院军训",
@@ -10145,14 +10201,6 @@
       "onboard_time": 1746203600,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 65076,
-      "num": 75092,
-      "word": "檀健次被泼懵了",
-      "onboard_time": 1746314118,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 64831,
@@ -10227,6 +10275,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 63189,
+      "num": 63189,
+      "word": "廷奇12秒87打破刘翔赛会纪录",
+      "onboard_time": 1746314658,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 63013,
       "num": 167773,
       "word": "向鱼和蓝色好适配",
@@ -10249,6 +10305,14 @@
       "onboard_time": 1746227418,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 61356,
+      "num": 61356,
+      "word": "十个勤天新歌的青年力量",
+      "onboard_time": 1746315019,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 60617,
@@ -10339,14 +10403,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 57947,
-      "num": 57947,
-      "word": "马丽 不要去干涉我们的生活",
-      "onboard_time": 1746314056,
-      "rank": 35,
-      "category": "电影"
-    },
-    {
       "raw_hot": 57486,
       "num": 343021,
       "word": "12306回应动车停摆乘客被困4小时",
@@ -10369,6 +10425,14 @@
       "onboard_time": 1746128175,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56923,
+      "num": 56923,
+      "word": "米哈游新游首曝",
+      "onboard_time": 1746314597,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 56372,
@@ -10417,6 +10481,14 @@
       "onboard_time": 1746262880,
       "rank": 14,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 54080,
+      "num": 54080,
+      "word": "巴菲特建议找工作不要太在意薪水",
+      "onboard_time": 1746314597,
+      "rank": 47,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 54027,
@@ -10787,14 +10859,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 43576,
-      "num": 43576,
-      "word": "欧尼熊",
-      "onboard_time": 1746314357,
-      "rank": 42,
-      "category": "网红"
-    },
-    {
       "raw_hot": 43384,
       "num": 98599,
       "word": "赵心童晋级世锦赛四强",
@@ -11153,14 +11217,6 @@
       "onboard_time": 1746139396,
       "rank": 43,
       "category": "旅游,民生新闻"
-    },
-    {
-      "raw_hot": 33932,
-      "num": 43416,
-      "word": "李沐宸没接住戏",
-      "onboard_time": 1746314417,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 33725,
@@ -12217,6 +12273,14 @@
       "onboard_time": 1746166889,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 8273,
+      "num": 57882,
+      "word": "武契奇短期内将暂停工作",
+      "onboard_time": 1746315378,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 7401,
