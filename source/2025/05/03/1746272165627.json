@@ -1,0 +1,410 @@
+{
+  "runTime": 1746272165627,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1779258,
+        "num": 1779258,
+        "word": "陈芋汐世界杯夺冠",
+        "onboard_time": 1746269781,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 675290,
+        "num": 675290,
+        "word": "女儿94分被爸爸泼冷水1招反击",
+        "onboard_time": 1746265581,
+        "rank": 1,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 72621,
+        "num": 572258,
+        "word": "五一假期多地打造文旅消费新场景",
+        "onboard_time": 1746261440,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 551770,
+        "num": 551770,
+        "word": "五三惨案",
+        "onboard_time": 1746242841,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1085795,
+        "num": 551330,
+        "word": "灵隐寺260万年租金的小卖部",
+        "onboard_time": 1746263601,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 548088,
+        "num": 548088,
+        "word": "用已逝女友起号这段太真实了",
+        "onboard_time": 1746267021,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 495622,
+        "num": 495622,
+        "word": "高会直播",
+        "onboard_time": 1746264562,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 352550,
+        "num": 352550,
+        "word": "全红婵收获全场首个10分",
+        "onboard_time": 1746267743,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 321881,
+        "num": 321881,
+        "word": "9米长林肯车主致歉",
+        "onboard_time": 1746262701,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118722,
+        "num": 317872,
+        "word": "纽约市上千人抗议游行",
+        "onboard_time": 1746270683,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1248061,
+        "num": 312080,
+        "word": "欧尼熊 可心",
+        "onboard_time": 1746269962,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1112607,
+        "num": 304934,
+        "word": "掉进火锅猫咪已送医取名51",
+        "onboard_time": 1746266841,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1038121,
+        "num": 302038,
+        "word": "街头劝架的丁禹兮",
+        "onboard_time": 1746267621,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 369526,
+        "num": 297460,
+        "word": "石凯说我不可能自卑",
+        "onboard_time": 1746267981,
+        "rank": 13,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 19234,
+        "num": 288390,
+        "word": "百万美谷空降WAW现场",
+        "onboard_time": 1746270082,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 456371,
+        "num": 285774,
+        "word": "石凯聊天记录",
+        "onboard_time": 1746241760,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 370421,
+        "num": 279751,
+        "word": "翔霖",
+        "onboard_time": 1746270082,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 353730,
+        "num": 271091,
+        "word": "马夫",
+        "onboard_time": 1746262820,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210604,
+        "num": 267800,
+        "word": "吴宣仪发文感谢乘风大家庭",
+        "onboard_time": 1746271221,
+        "rank": 18,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 38068,
+        "num": 260810,
+        "word": "专家称巴菲特很可能会投资黄金",
+        "onboard_time": 1746271041,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 121968,
+        "num": 257138,
+        "word": "五一黄金跳水引爆抢购潮",
+        "onboard_time": 1746268581,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 419822,
+        "num": 249155,
+        "word": "不体面却赚钱的工作",
+        "onboard_time": 1746269781,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 248102,
+        "num": 248102,
+        "word": "游客花80元体验3小时租腿登泰山",
+        "onboard_time": 1746267860,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186996,
+        "num": 186996,
+        "word": "王力宏是捅了人窝了吧",
+        "onboard_time": 1746265700,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 176125,
+        "num": 176125,
+        "word": "大学生镜头下的马思纯",
+        "onboard_time": 1746270262,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 175085,
+        "num": 175085,
+        "word": "第一次见粉丝蹭正主托运的",
+        "onboard_time": 1746268161,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169223,
+        "num": 174916,
+        "word": "前有锅姨后有报班姐",
+        "onboard_time": 1746271221,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21729,
+        "num": 174079,
+        "word": "漫展一天不断电全靠Turbo4Pro",
+        "onboard_time": 1746269602,
+        "rank": 27,
+        "category": "动漫,数码"
+      },
+      {
+        "raw_hot": 30441,
+        "num": 173924,
+        "word": "闪耀暖暖WAW漫展打卡",
+        "onboard_time": 1746272001,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 70393,
+        "num": 172889,
+        "word": "多方回应游客未让座遭两女一男殴打",
+        "onboard_time": 1746271281,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184381,
+        "num": 172594,
+        "word": "泽连斯基拒绝普京72小时停火提议",
+        "onboard_time": 1746270381,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 190100,
+        "num": 172171,
+        "word": "张杰的毛坯人生精装朋友圈",
+        "onboard_time": 1746271821,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 185691,
+        "num": 171357,
+        "word": "张新成 脱衣服",
+        "onboard_time": 1746271102,
+        "rank": 32,
+        "category": "演出,综艺"
+      },
+      {
+        "raw_hot": 171188,
+        "num": 171188,
+        "word": "于东来与网红互怼怒称要退圈",
+        "onboard_time": 1746257181,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149713,
+        "num": 165110,
+        "word": "音乐节偶遇蔡文静",
+        "onboard_time": 1746271582,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 163707,
+        "num": 163707,
+        "word": "苏州直升机坠落的景区开园仅1周",
+        "onboard_time": 1746268401,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161415,
+        "num": 161415,
+        "word": "上千名游客深夜滞留张家界大喊退票",
+        "onboard_time": 1746258261,
+        "rank": 36,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 157048,
+        "num": 157048,
+        "word": "日民用飞机侵闯我钓鱼岛领空",
+        "onboard_time": 1746271821,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 141058,
+        "num": 141058,
+        "word": "王一栩 魔改",
+        "onboard_time": 1746265942,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13205,
+        "num": 140605,
+        "word": "香港推出最严控烟条例草案",
+        "onboard_time": 1746270982,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145127,
+        "num": 140546,
+        "word": "西安雷雨夜空现条状不明物",
+        "onboard_time": 1746270501,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140341,
+        "num": 140341,
+        "word": "刘诗诗一场戏18种眼神变化",
+        "onboard_time": 1746269301,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136255,
+        "num": 136255,
+        "word": "兜儿否认拿烟头烫小猪先生",
+        "onboard_time": 1746259400,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 136128,
+        "num": 136128,
+        "word": "王鹤棣大变活猴",
+        "onboard_time": 1746271761,
+        "rank": 43,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 131817,
+        "num": 131817,
+        "word": "三亚通报网友买水果九斤变六斤",
+        "onboard_time": 1746270622,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125924,
+        "num": 125924,
+        "word": "95生四顶",
+        "onboard_time": 1746267801,
+        "rank": 45,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 124109,
+        "num": 124109,
+        "word": "金泰亨田柾国健身",
+        "onboard_time": 1746262160,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118883,
+        "num": 118883,
+        "word": "斗破苍穹",
+        "onboard_time": 1746271461,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 118041,
+        "num": 118041,
+        "word": "上海面包店belike",
+        "onboard_time": 1746270022,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115762,
+        "num": 115762,
+        "word": "杨桂",
+        "onboard_time": 1746272121,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记寄望新时代青年#"
+    }
+  }
+}

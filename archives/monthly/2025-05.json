@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746271207867,
+  "endTime": 1746272165627,
   "band_list": [
     {
       "raw_hot": 3885539,
@@ -81,6 +81,14 @@
       "onboard_time": 1746096020,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1779258,
+      "num": 1779258,
+      "word": "陈芋汐世界杯夺冠",
+      "onboard_time": 1746269781,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 1720327,
@@ -219,14 +227,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1406500,
-      "num": 1406500,
-      "word": "陈芋汐世界杯夺冠",
-      "onboard_time": 1746269781,
-      "rank": 0,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1355584,
       "num": 604328,
       "word": "肖某董某莹应被剥夺行医资格",
@@ -297,6 +297,14 @@
       "onboard_time": 1746084801,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1248061,
+      "num": 318070,
+      "word": "欧尼熊 可心",
+      "onboard_time": 1746269962,
+      "rank": 13,
+      "category": "网红"
     },
     {
       "raw_hot": 1247384,
@@ -451,6 +459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1038121,
+      "num": 438599,
+      "word": "街头劝架的丁禹兮",
+      "onboard_time": 1746267621,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1029198,
       "num": 1164671,
       "word": "荣昌公务员食堂一顿蒸1000斤米饭",
@@ -515,14 +531,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 951367,
-      "num": 438599,
-      "word": "街头劝架的丁禹兮",
-      "onboard_time": 1746267621,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 949843,
       "num": 949843,
       "word": "日本3个月前坠坑老人确认死亡",
@@ -561,14 +569,6 @@
       "onboard_time": 1746166589,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 924021,
-      "num": 318070,
-      "word": "欧尼熊 可心",
-      "onboard_time": 1746269962,
-      "rank": 13,
-      "category": "网红"
     },
     {
       "raw_hot": 923353,
@@ -1307,6 +1307,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 495622,
+      "num": 495622,
+      "word": "高会直播",
+      "onboard_time": 1746264562,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 495052,
       "num": 265572,
       "word": "红秀 何秋亊",
@@ -1603,14 +1611,6 @@
       "category": "国内时政,财经"
     },
     {
-      "raw_hot": 436572,
-      "num": 436572,
-      "word": "高会直播",
-      "onboard_time": 1746264562,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 432924,
       "num": 432924,
       "word": "西安暴雨",
@@ -1665,6 +1665,14 @@
       "onboard_time": 1746095061,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 419822,
+      "num": 293963,
+      "word": "不体面却赚钱的工作",
+      "onboard_time": 1746269781,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 418188,
@@ -1891,6 +1899,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 370421,
+      "num": 311610,
+      "word": "翔霖",
+      "onboard_time": 1746088582,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 368136,
       "num": 368136,
       "word": "南京大屠杀幸存者刘贵祥去世",
@@ -1939,6 +1955,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 352550,
+      "num": 352550,
+      "word": "全红婵收获全场首个10分",
+      "onboard_time": 1746267743,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 349303,
       "num": 271667,
       "word": "尹净汉出国",
@@ -1969,22 +1993,6 @@
       "onboard_time": 1746170241,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 346717,
-      "num": 293963,
-      "word": "不体面却赚钱的工作",
-      "onboard_time": 1746269781,
-      "rank": 20,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 344581,
-      "num": 311610,
-      "word": "翔霖",
-      "onboard_time": 1746088582,
-      "rank": 25,
-      "category": "演出"
     },
     {
       "raw_hot": 341176,
@@ -2145,14 +2153,6 @@
       "onboard_time": 1746183389,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 322351,
-      "num": 322351,
-      "word": "全红婵收获全场首个10分",
-      "onboard_time": 1746267743,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 320087,
@@ -3091,6 +3091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210604,
+      "num": 267800,
+      "word": "吴宣仪发文感谢乘风大家庭",
+      "onboard_time": 1746271221,
+      "rank": 18,
+      "category": "剧集,艺人"
+    },
+    {
       "raw_hot": 210261,
       "num": 367370,
       "word": "白宫送别马斯克",
@@ -3803,6 +3811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 190100,
+      "num": 172171,
+      "word": "张杰的毛坯人生精装朋友圈",
+      "onboard_time": 1746271821,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 190094,
       "num": 190094,
       "word": "回忆专用小马甲一夜掉粉2.6万",
@@ -4067,6 +4083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185691,
+      "num": 171357,
+      "word": "张新成 脱衣服",
+      "onboard_time": 1746271102,
+      "rank": 42,
+      "category": "演出,综艺"
+    },
+    {
       "raw_hot": 185585,
       "num": 185585,
       "word": "张一山回应曝光度变少",
@@ -4121,6 +4145,14 @@
       "onboard_time": 1746177022,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 184381,
+      "num": 172594,
+      "word": "泽连斯基拒绝普京72小时停火提议",
+      "onboard_time": 1746270381,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 184099,
@@ -4299,6 +4331,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 176125,
+      "num": 310478,
+      "word": "大学生镜头下的马思纯",
+      "onboard_time": 1746270262,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 175903,
       "num": 175903,
       "word": "严浩翔华服鎏金皇冠剧照",
@@ -4465,6 +4505,14 @@
       "onboard_time": 1746068541,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 169223,
+      "num": 174916,
+      "word": "前有锅姨后有报班姐",
+      "onboard_time": 1746271221,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 168332,
@@ -4689,6 +4737,14 @@
       "onboard_time": 1746268581,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 163707,
+      "num": 163707,
+      "word": "苏州直升机坠落的景区开园仅1周",
+      "onboard_time": 1746268401,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 163146,
@@ -4971,6 +5027,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 157048,
+      "num": 157048,
+      "word": "日民用飞机侵闯我钓鱼岛领空",
+      "onboard_time": 1746271821,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 156803,
       "num": 139579,
       "word": "青簪行",
@@ -5033,14 +5097,6 @@
       "onboard_time": 1746160890,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 156252,
-      "num": 156252,
-      "word": "泽连斯基拒绝普京72小时停火提议",
-      "onboard_time": 1746270381,
-      "rank": 32,
-      "category": "国际时政"
     },
     {
       "raw_hot": 156184,
@@ -5137,14 +5193,6 @@
       "onboard_time": 1746149489,
       "rank": 8,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 153226,
-      "num": 310478,
-      "word": "大学生镜头下的马思纯",
-      "onboard_time": 1746270262,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 153199,
@@ -5264,6 +5312,14 @@
       "word": "华晨宇解读100米巨型悬浮环设计",
       "onboard_time": 1746196468,
       "rank": 44,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 149713,
+      "num": 165110,
+      "word": "音乐节偶遇蔡文静",
+      "onboard_time": 1746271582,
+      "rank": 34,
       "category": "演出"
     },
     {
@@ -5404,7 +5460,7 @@
     },
     {
       "raw_hot": 146946,
-      "num": 146946,
+      "num": 257138,
       "word": "五一黄金跳水引爆抢购潮",
       "onboard_time": 1746268581,
       "rank": 36,
@@ -5521,6 +5577,14 @@
       "onboard_time": 1746034877,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 145127,
+      "num": 140546,
+      "word": "西安雷雨夜空现条状不明物",
+      "onboard_time": 1746270501,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144816,
@@ -5771,6 +5835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140341,
+      "num": 140341,
+      "word": "刘诗诗一场戏18种眼神变化",
+      "onboard_time": 1746269301,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140334,
       "num": 331350,
       "word": "女孩想退学的原因太真实了",
@@ -5995,6 +6067,14 @@
       "category": "科学科普,民生新闻"
     },
     {
+      "raw_hot": 136128,
+      "num": 136128,
+      "word": "王鹤棣大变活猴",
+      "onboard_time": 1746271761,
+      "rank": 43,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 135876,
       "num": 135876,
       "word": "台幼儿园园长之子性侵猥亵6女童",
@@ -6097,14 +6177,6 @@
       "onboard_time": 1746228076,
       "rank": 32,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 133023,
-      "num": 133023,
-      "word": "苏州直升机坠落的景区开园仅1周",
-      "onboard_time": 1746268401,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 132888,
@@ -6225,6 +6297,14 @@
       "onboard_time": 1746075682,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 131817,
+      "num": 131817,
+      "word": "三亚通报网友买水果九斤变六斤",
+      "onboard_time": 1746270622,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131798,
@@ -6475,14 +6555,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 127600,
-      "num": 127600,
-      "word": "西安雷雨夜空现条状不明物",
-      "onboard_time": 1746270501,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 127571,
       "num": 127571,
       "word": "程潇直拍",
@@ -6569,14 +6641,6 @@
       "onboard_time": 1746245361,
       "rank": 39,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 126671,
-      "num": 126671,
-      "word": "张新成 脱衣服",
-      "onboard_time": 1746271102,
-      "rank": 42,
-      "category": "演出,综艺"
     },
     {
       "raw_hot": 126652,
@@ -6771,14 +6835,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 124065,
-      "num": 124065,
-      "word": "刘诗诗一场戏18种眼神变化",
-      "onboard_time": 1746269301,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 123949,
       "num": 123949,
       "word": "陈德容 歌词玄学",
@@ -6923,14 +6979,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 120857,
-      "num": 120857,
-      "word": "三亚通报网友买水果九斤变六斤",
-      "onboard_time": 1746270622,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 120585,
       "num": 120585,
       "word": "迪丽热巴张凌赫空耳大师",
@@ -7019,6 +7067,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 118883,
+      "num": 118883,
+      "word": "斗破苍穹",
+      "onboard_time": 1746271461,
+      "rank": 47,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 118804,
       "num": 118804,
       "word": "唐国强230秒面试给毕业生亿点震撼",
@@ -7033,6 +7089,14 @@
       "onboard_time": 1746161790,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118722,
+      "num": 322228,
+      "word": "纽约市上千人抗议游行",
+      "onboard_time": 1746270683,
+      "rank": 10,
+      "category": "国际时政"
     },
     {
       "raw_hot": 118721,
@@ -7185,6 +7249,14 @@
       "onboard_time": 1746256521,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115762,
+      "num": 115762,
+      "word": "杨桂",
+      "onboard_time": 1746272121,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 115714,
@@ -8899,6 +8971,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 70393,
+      "num": 172889,
+      "word": "多方回应游客未让座遭两女一男殴打",
+      "onboard_time": 1746271281,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69797,
       "num": 70033,
       "word": "4加4模式不能成为资源者的近水楼台",
@@ -9772,7 +9852,7 @@
     },
     {
       "raw_hot": 38635,
-      "num": 216134,
+      "num": 260810,
       "word": "专家称巴菲特很可能会投资黄金",
       "onboard_time": 1746271041,
       "rank": 27,
@@ -9817,14 +9897,6 @@
       "onboard_time": 1746098061,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 37567,
-      "num": 322228,
-      "word": "纽约市上千人抗议游行",
-      "onboard_time": 1746270683,
-      "rank": 10,
-      "category": "国际时政"
     },
     {
       "raw_hot": 37084,
@@ -10009,6 +10081,14 @@
       "onboard_time": 1746113244,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 30441,
+      "num": 173924,
+      "word": "闪耀暖暖WAW漫展打卡",
+      "onboard_time": 1746272001,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 30311,
@@ -10683,6 +10763,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 13205,
+      "num": 140605,
+      "word": "香港推出最严控烟条例草案",
+      "onboard_time": 1746270982,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 13131,
       "num": 146430,
       "word": "五一假期如何预防假期综合征",
@@ -10801,14 +10889,6 @@
       "onboard_time": 1746184890,
       "rank": 19,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 10253,
-      "num": 133563,
-      "word": "香港推出最严控烟条例草案",
-      "onboard_time": 1746270982,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 10011,

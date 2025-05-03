@@ -1,6 +1,6 @@
 {
   "startTime": 1746203485460,
-  "endTime": 1746271207867,
+  "endTime": 1746272165627,
   "band_list": [
     {
       "raw_hot": 3458319,
@@ -19,6 +19,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1779258,
+      "num": 1779258,
+      "word": "陈芋汐世界杯夺冠",
+      "onboard_time": 1746269781,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1720327,
       "num": 1720327,
       "word": "灵隐寺260万年租金的小卖部",
@@ -35,20 +43,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1406500,
-      "num": 1406500,
-      "word": "陈芋汐世界杯夺冠",
-      "onboard_time": 1746269781,
-      "rank": 0,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1286235,
       "num": 390081,
       "word": "陈丽君争议片段已删除",
       "onboard_time": 1746200182,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1248061,
+      "num": 318070,
+      "word": "欧尼熊 可心",
+      "onboard_time": 1746269962,
+      "rank": 13,
+      "category": "网红"
     },
     {
       "raw_hot": 1247384,
@@ -91,15 +99,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 1028366,
-      "num": 1028366,
-      "word": "马夫",
-      "onboard_time": 1746262820,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 951367,
+      "raw_hot": 1038121,
       "num": 438599,
       "word": "街头劝架的丁禹兮",
       "onboard_time": 1746267621,
@@ -107,12 +107,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 924021,
-      "num": 318070,
-      "word": "欧尼熊 可心",
-      "onboard_time": 1746269962,
-      "rank": 13,
-      "category": "网红"
+      "raw_hot": 1028366,
+      "num": 1028366,
+      "word": "马夫",
+      "onboard_time": 1746262820,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 906092,
@@ -355,6 +355,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 495622,
+      "num": 495622,
+      "word": "高会直播",
+      "onboard_time": 1746264562,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 485348,
       "num": 485348,
       "word": "谁把程潇的中药换成冰美式了",
@@ -427,20 +435,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 436572,
-      "num": 436572,
-      "word": "高会直播",
-      "onboard_time": 1746264562,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 429331,
       "num": 429331,
       "word": "倪虹洁身材好辣",
       "onboard_time": 1746241760,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 419822,
+      "num": 293963,
+      "word": "不体面却赚钱的工作",
+      "onboard_time": 1746269781,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 417273,
@@ -499,6 +507,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 370421,
+      "num": 311610,
+      "word": "翔霖",
+      "onboard_time": 1746270082,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 368136,
       "num": 368136,
       "word": "南京大屠杀幸存者刘贵祥去世",
@@ -523,20 +539,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 346717,
-      "num": 293963,
-      "word": "不体面却赚钱的工作",
-      "onboard_time": 1746269781,
-      "rank": 20,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 344581,
-      "num": 311610,
-      "word": "翔霖",
-      "onboard_time": 1746270082,
-      "rank": 17,
-      "category": "演出"
+      "raw_hot": 352550,
+      "num": 352550,
+      "word": "全红婵收获全场首个10分",
+      "onboard_time": 1746267743,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 340159,
@@ -561,14 +569,6 @@
       "onboard_time": 1746252021,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 322351,
-      "num": 322351,
-      "word": "全红婵收获全场首个10分",
-      "onboard_time": 1746267743,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 316773,
@@ -851,6 +851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 210604,
+      "num": 267800,
+      "word": "吴宣仪发文感谢乘风大家庭",
+      "onboard_time": 1746271221,
+      "rank": 18,
+      "category": "剧集,艺人"
+    },
+    {
       "raw_hot": 208491,
       "num": 330657,
       "word": "严浩翔贺峻霖 双人舞台",
@@ -1019,6 +1027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 190100,
+      "num": 172171,
+      "word": "张杰的毛坯人生精装朋友圈",
+      "onboard_time": 1746271821,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 189689,
       "num": 189689,
       "word": "齐思钧在浪姐真心换真心",
@@ -1091,6 +1107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185691,
+      "num": 171357,
+      "word": "张新成 脱衣服",
+      "onboard_time": 1746271102,
+      "rank": 42,
+      "category": "演出,综艺"
+    },
+    {
       "raw_hot": 185334,
       "num": 185334,
       "word": "五哈你就宠陈赫吧",
@@ -1105,6 +1129,14 @@
       "onboard_time": 1746235941,
       "rank": 22,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 184381,
+      "num": 172594,
+      "word": "泽连斯基拒绝普京72小时停火提议",
+      "onboard_time": 1746270381,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 182458,
@@ -1163,6 +1195,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 176125,
+      "num": 310478,
+      "word": "大学生镜头下的马思纯",
+      "onboard_time": 1746270262,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 173444,
       "num": 173444,
       "word": "她失去了一只眼却没有失去人生",
@@ -1193,6 +1233,14 @@
       "onboard_time": 1746246921,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 169223,
+      "num": 174916,
+      "word": "前有锅姨后有报班姐",
+      "onboard_time": 1746271221,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 168332,
@@ -1275,6 +1323,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 163707,
+      "num": 163707,
+      "word": "苏州直升机坠落的景区开园仅1周",
+      "onboard_time": 1746268401,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 162669,
       "num": 162669,
       "word": "勇士火箭抢七",
@@ -1355,20 +1411,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157048,
+      "num": 157048,
+      "word": "日民用飞机侵闯我钓鱼岛领空",
+      "onboard_time": 1746271821,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 156469,
       "num": 156469,
       "word": "阿根廷近海7.4级地震",
       "onboard_time": 1746193712,
       "rank": 22,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 156252,
-      "num": 156252,
-      "word": "泽连斯基拒绝普京72小时停火提议",
-      "onboard_time": 1746270381,
-      "rank": 32,
-      "category": "国际时政"
     },
     {
       "raw_hot": 155695,
@@ -1393,14 +1449,6 @@
       "onboard_time": 1746261381,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 153226,
-      "num": 310478,
-      "word": "大学生镜头下的马思纯",
-      "onboard_time": 1746270262,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 152003,
@@ -1443,6 +1491,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 149713,
+      "num": 165110,
+      "word": "音乐节偶遇蔡文静",
+      "onboard_time": 1746271582,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 148806,
       "num": 148806,
       "word": "凤凰组合哭了",
@@ -1468,7 +1524,7 @@
     },
     {
       "raw_hot": 146946,
-      "num": 146946,
+      "num": 257138,
       "word": "五一黄金跳水引爆抢购潮",
       "onboard_time": 1746268581,
       "rank": 36,
@@ -1497,6 +1553,14 @@
       "onboard_time": 1746230600,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145127,
+      "num": 140546,
+      "word": "西安雷雨夜空现条状不明物",
+      "onboard_time": 1746270501,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144707,
@@ -1571,6 +1635,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 140341,
+      "num": 140341,
+      "word": "刘诗诗一场戏18种眼神变化",
+      "onboard_time": 1746269301,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138520,
       "num": 154422,
       "word": "诚C漫展松弛感",
@@ -1643,6 +1715,14 @@
       "category": "科学科普,民生新闻"
     },
     {
+      "raw_hot": 136128,
+      "num": 136128,
+      "word": "王鹤棣大变活猴",
+      "onboard_time": 1746271761,
+      "rank": 43,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 135876,
       "num": 135876,
       "word": "台幼儿园园长之子性侵猥亵6女童",
@@ -1667,14 +1747,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 133023,
-      "num": 133023,
-      "word": "苏州直升机坠落的景区开园仅1周",
-      "onboard_time": 1746268401,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 132888,
       "num": 619417,
       "word": "要和四分之一世纪的春天说再见了",
@@ -1688,6 +1760,14 @@
       "word": "国家队一出手就是超强实力",
       "onboard_time": 1746256460,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131817,
+      "num": 131817,
+      "word": "三亚通报网友买水果九斤变六斤",
+      "onboard_time": 1746270622,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -1763,14 +1843,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 127600,
-      "num": 127600,
-      "word": "西安雷雨夜空现条状不明物",
-      "onboard_time": 1746270501,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 127571,
       "num": 127571,
       "word": "程潇直拍",
@@ -1801,14 +1873,6 @@
       "onboard_time": 1746245361,
       "rank": 39,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 126671,
-      "num": 126671,
-      "word": "张新成 脱衣服",
-      "onboard_time": 1746271102,
-      "rank": 42,
-      "category": "演出,综艺"
     },
     {
       "raw_hot": 126652,
@@ -1891,14 +1955,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 124065,
-      "num": 124065,
-      "word": "刘诗诗一场戏18种眼神变化",
-      "onboard_time": 1746269301,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 123949,
       "num": 123949,
       "word": "陈德容 歌词玄学",
@@ -1947,14 +2003,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 120857,
-      "num": 120857,
-      "word": "三亚通报网友买水果九斤变六斤",
-      "onboard_time": 1746270622,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 120394,
       "num": 120394,
       "word": "惠英红的愿望是集齐一套奖",
@@ -1969,6 +2017,22 @@
       "onboard_time": 1746237499,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 118883,
+      "num": 118883,
+      "word": "斗破苍穹",
+      "onboard_time": 1746271461,
+      "rank": 47,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 118722,
+      "num": 322228,
+      "word": "纽约市上千人抗议游行",
+      "onboard_time": 1746270683,
+      "rank": 10,
+      "category": "国际时政"
     },
     {
       "raw_hot": 118721,
@@ -2009,6 +2073,14 @@
       "onboard_time": 1746256521,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115762,
+      "num": 115762,
+      "word": "杨桂",
+      "onboard_time": 1746272121,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 115714,
@@ -2731,6 +2803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70393,
+      "num": 172889,
+      "word": "多方回应游客未让座遭两女一男殴打",
+      "onboard_time": 1746271281,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69693,
       "num": 69693,
       "word": "于文文 肖申克的救赎",
@@ -3036,7 +3116,7 @@
     },
     {
       "raw_hot": 38635,
-      "num": 216134,
+      "num": 260810,
       "word": "专家称巴菲特很可能会投资黄金",
       "onboard_time": 1746271041,
       "rank": 27,
@@ -3049,14 +3129,6 @@
       "onboard_time": 1746269602,
       "rank": 28,
       "category": "动漫,数码"
-    },
-    {
-      "raw_hot": 37567,
-      "num": 322228,
-      "word": "纽约市上千人抗议游行",
-      "onboard_time": 1746270683,
-      "rank": 10,
-      "category": "国际时政"
     },
     {
       "raw_hot": 34888,
@@ -3097,6 +3169,14 @@
       "onboard_time": 1746212895,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 30441,
+      "num": 173924,
+      "word": "闪耀暖暖WAW漫展打卡",
+      "onboard_time": 1746272001,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 30019,
@@ -3315,6 +3395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 13205,
+      "num": 140605,
+      "word": "香港推出最严控烟条例草案",
+      "onboard_time": 1746270982,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 12780,
       "num": 182046,
       "word": "美媒称美乌协议象征意义大于实际",
@@ -3353,14 +3441,6 @@
       "onboard_time": 1746241279,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 10253,
-      "num": 133563,
-      "word": "香港推出最严控烟条例草案",
-      "onboard_time": 1746270982,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 6932,
